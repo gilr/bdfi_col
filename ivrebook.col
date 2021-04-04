@@ -1,0 +1,1938 @@
+!-----------------------------------------------------------------------------
+!-----------------------------------------------------------------------------
+_ IVRB-IM Ed. L'ivre-Book, Coll. Imaginarium
+_ Ivbn-IM Ed. L'ivre-Book, Coll. Imaginarium (num‚rique)
+_ IVRB-IS Ed. L'ivre-Book, Coll. Imaginarium Science-fiction
+_ Ivbn-IS Ed. L'ivre-Book, Coll. Imaginarium Science-fiction (num‚rique)
+_ IVRB-IF Ed. L'ivre-Book, Coll. Imaginarium Fantastique
+_ Ivbn-IF Ed. L'ivre-Book, Coll. Imaginarium Fantastique (num‚rique)
+_ IVRB-IY Ed. L'ivre-Book, Coll. Imaginarium Fantasy
+_ Ivbn-IY Ed. L'ivre-Book, Coll. Imaginarium Fantasy (num‚rique)
+_ IVRB-CC Ed. L'ivre-Book, Coll. Imaginarium, s‚rie Calling Cthulhu
+_ Ivbn-CC Ed. L'ivre-Book, Coll. Imaginarium, s‚rie Calling Cthulhu (num‚rique)
+!-----------------------------------------------------------------------------
+_ IVRB-ST Ed. L'ivre-Book, Coll. Steampunk
+_ Ivbn-ST Ed. L'ivre-Book, Coll. Steampunk (num‚rique)
+_ IVRB-EN Ed. L'ivre-Book, Coll. Enigma
+_ Ivbn-EN Ed. L'ivre-Book, Coll. Enigma (num‚rique)
+!-----------------------------------------------------------------------------
+_ IVRB-NL Ed. L'ivre-Book, Coll. No Limit
+_ Ivbn-NL Ed. L'ivre-Book, Coll. No Limit (num‚rique)
+_ Ivbn-RA Ed. L'ivre-Book, Coll. Rama (num‚rique)
+!-----------------------------------------------------------------------------
+_ Ivbn-EA Ed. L'ivre-Book, Coll. e-Anticipations (num‚rique)
+_ Ivbn-EC Ed. L'ivre-Book, Coll. e-Classiques (num‚rique)
+_ Ivbn-EP Ed. L'ivre-Book, Coll. e-Pulp Fictions (num‚rique)
+_ Ivbn-EW Ed. L'ivre-Book, Coll. e-Western (num‚rique)
+!--- d‚coup‚ en "MŠche longue" (romans et s‚ries), "MŠche courte" (nouvelles), et "Document" (textes oubli‚s)
+!-----------------------------------------------------------------------------
+_ IVRB-RO Ed. L'ivre-Book, Coll. La Romance
+_ Ivbn-RO Ed. L'ivre-Book, Coll. La Romance (num‚rique)
+_ Ivbn-DW Ed. L'ivre-Book, Coll. Dreamwave (num‚rique)
+_ Ivbn-IV Ed. L'ivre-Book, Coll. L'Ivre des sens (num‚rique)
+!-----------------------------------------------------------------------------
+_ IVRB-PO Ed. L'ivre-Book, Coll. Poche
+!-----------------------------------------------------------------------------
+_ IVRB-JE Ed. L'ivre-Book, Coll. L'Ivre Jeunesse
+_ Ivbn-DP Ed. L'ivre-Book, Coll. Durand-Peyroles (num‚rique)
+!-----------------------------------------------------------------------------
+!-----------------------------------------------------------------------------
+_ Ivbn-IC Ed. L'ivre-Book, Coll. L'Ivre Court (num‚rique)
+!-----------------------------------------------------------------------------
+_ Ivbn-GA Gandahar & Ed. L'Ivre-Book (num‚rique)
+!-----------------------------------------------------------------------------
+!-----------------------------------------------------------------------------
+!--- https://ivrebook.wordpress.com/2016/08/16/les-otherlands-debarquent-chez-livre-book/
+!-----------------------------------------------------------------------------
+!--- Gandahar 1 paru chez l'Ivre-Book ISBN 978-2-36892-113-5 f‚vrier 2015 - 4,49 euros
+!---  17 nouvelles
+!--- Gandahar 2 paru chez l'Ivre-Book ISBN 978-2-36892-259-0 mars 2016 - 4,49 euros
+!--- Gandahar 8 paru chez l'Ivre-Book ISBN 978-2-36892-449-5 mars 2017 - 4,49 euros
+!-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+! Directeur de collection, d‚but 2016 :
+! La collection Imaginarium, collection de tous les imaginaires, continuera d'exister pour publier certaines s‚ries d‚j… commenc‚es ou des textes n'entrant pas obligatoirement dans certaines cat‚gories.
+! Imaginarium Fantastique : dirig‚e par Fr‚d‚ric Livyns
+! Imaginarium Fantasy : dirig‚e par Didier de Vaujany
+! Imaginarium Science-Fiction : dirig‚e par S‚bastien Tissandier
+! Imaginarium Steampunk : dirig‚e par Christophe Rosati
+! L'ivre Court : destin‚e … ‚diter des textes court de genres et de styles diff‚rents
+! La Romance : dirig‚e par L.S. Ange
+! e-Anticipations : destin‚e principalement … r‚‚diter des textes fran‡ais de l'imaginaire de la deuxiŠme moiti‚ du XXe siŠcle
+! e-Classiques Jimmy Guieu : dirig‚e par Richard D. Nolane
+! e-Pulp Fictions : destin‚e … r‚‚diter des textes, principalement anglo-saxons de la premiŠre moiti‚ du XXe siŠcle
+! e-Western : dirig‚e par Manuel Essard
+! No limit : dirig‚e par les Fossoyeurs de Rˆves (Ga‰lle Dupille, Sylvain Johnson, Romain Billot, John Steelwood) pour des textes relevant de la s‚rie Z, du gore, du trash et du dino-porn. Textes destin‚s aux lecteurs trŠs avertis
+! L'ivre Jeunesse : dirig‚e par Jean-Marc Renaudie
+! Post Apo : dirig‚e par Manuel Essard
+! Enigma : dirig‚e par Yves-Daniel Crouzet
+! L'ivre des Sens : dirig‚e par Julie Derussy
+!-----------------------------------------------------------------------------
+
+
+!------------------------
+!=== 2013
+!------------------------
+o Ivbn-IM     ?  2013.02 ..... ISBN 978-2-36892-002-2
+} noimg          _Jean-Pierre Normand         ?
+!--- d‚riv‚e du roman du mˆme nom
+!--- 29 pages - 0,99 euros
+- .oSF     N     _LABAT Franck                Naturalis þ2013
+o Ivbn-IM     ?  2013.02 ..... ISBN 978-2-36892-003-9
+} lib_i003       _Jean-Pierre Normand         ?
+!--- 107 pages - 0,99 euros
+- .oI.    kN9    _LABAT Franck                Du d‚but … la fin þ2013
+: .o .     N     _LABAT Franck                Le Coup de foudre originel þ2013
+: .o .     N     _LABAT Franck                La Source þ2013
+: .o .     N     _LABAT Franck                L'chelon sup‚rieur þ2013
+: .o .     N     _LABAT Franck                Passages þ2013
+: .oF.     N     _LABAT Franck                Le Blog þ2011
+: .oS.     N     _LABAT Franck                Naturalis þ2013
+: .oS.     N     _LABAT Franck                Maverick 5 þ2013
+: .o .     N     _LABAT Franck                PoussiŠre þ2013
+: .o .     N     _LABAT Franck                Pile ou face þ2013
+o Ivbn-IM     ?  2013.02 ..... ISBN 978-2-36892-006-0
+} noimg          _Alda Rana                   ?
+!--- 34 pages - Gratuit
+- .oY.     N     _GOAZ Philippe               Les Aventures de Zordar - 1 þ2013
+o Ivbn-IM     ?  2013.03 ..... ISBN 978-2-36892-009-1
+} noimg          _Jimmy Kerast                ?
+!--- 29 pages - Gratuit
+- .oF.     N     _BILLOT Romain               Kidnapping þ2013
+o Ivbn-IM     ?  2013.04 ..... ISBN 978-2-36892-012-1
+} lbimag03       _Jimmy Kerast                ?
+!--- 220 pages - 3,99 euros
+- .oF.     N10   _BILLOT Romain               Les Contes du Grand Veneur þ2013
+: .o .     N     _BILLOT Romain               Kidnapping þ2013
+: .o .     N     _BILLOT Romain               Lady Crowley þ2013
+: .o .     N     _BILLOT Romain               Charmiance þ2013
+: .o .     N     _BILLOT Romain               R‚surgence þ2013
+: .o .     N     _BILLOT Romain               Innocence þ2013
+: .o .     N     _BILLOT Romain               Phantasmagoria þ2013
+: .o .     N     _BILLOT Romain               La Nuit des monstres þ2013
+: .o .     N     _BILLOT Romain               Jeux d'enfants þ2009
+: .o .     N     _BILLOT Romain               Evasion þ2013
+: .o .     N     _BILLOT Romain               Hantise þ2013
+o Ivbn-IM     ?  2013.05 ..... ISBN 978-2-36892-010-7
+} noimg          _Jean-Pierre Normand         ?
+!--- 375 pages - 4,99 euros
+- .oS.     R     _LEGAY Piet                  L'nigme du Rorkal þ2012
+o Ivbn-IM     ?  2013.04 ..... ISBN 978-2-36892-013-8
+} noimg          _Alain Catherin              ?
+!--- 96 pages - 1,99 euros
+- .oF.     r     _PERVILHAC Alice             Arimaspes þ2012
+o Ivbn-IM     ?  2013.05 ..... ISBN 978-2-36892-014-5
+} noimg          _Alda Rana                   ?
+!--- 132 pages - 0,99 euros
+- .oY.     N     _GOAZ Philippe               Les Aventures de Zordar - 2 þ2013
+o Ivbn-IM     ?  2013.06 ..... ISBN 978-2-36892-016-9
+} noimg          _Florence Magnin             ?
+!--- 239 pages - 0,99 euros
+- .o .     R     _DOURIAUX Hugues             Le Monde au-del… des brumes [La Biche de la forˆt d'Arcande - 1] þ1988
+o Ivbn-IM     ?  2013.06 ..... ISBN 978-2-36892-017-6
+} noimg          _Florence Magnin             ?
+!--- 237 pages - 2,99 euros
+- .o .     R     _DOURIAUX Hugues             Thorn le guerrier [La Biche de la forˆt d'Arcande - 2] þ1988
+o Ivbn-IM     ?  2013.06 ..... ISBN 978-2-36892-018-3
+} noimg          _Florence Magnin             ?
+!--- 238 pages - 2,99 euros
+- .o .     R     _DOURIAUX Hugues             Les Mortels et les Dieux [La Biche de la forˆt d'Arcande - 3] þ1988
+o Ivbn-IC     ?  2013.08 ..... ISBN 978-2-36892-023-7
+} noimg          _?                           ?
+!--- 0,49 euros
+- .oF.     N     _CHAUMETTE Jean-Christophe   La Voix du printemps þ2007
+o Ivbn-IC     ?  2013.08 ..... ISBN 978-2-36892-022-0
+} noimg          _?                           ?
+!--- 0,99 euros
+- .o .     N     _BLONDELON Alain             Complot royal þ2013
+o Ivbn-IC     ?  2015.09 ..... ISBN 978-2-36892-022-0
+} lbi_i022rr15   _?                           ?
+!--- 1,49 euros
+!--- R‚‚dition sous mˆme ISBN avec une seconde nouvelle.
+- .oYH     N2    _BLONDELON Alain             Complot royal, suivi de l'‚p‚e du temps pli‚ þ2015
+: .o .     N     _BLONDELON Alain             Complot royal þ2013
+: .o .     N     _BLONDELON Alain             L'p‚e du temps pli‚ þ2013
+o Ivbn-IM     ?  2013.08 ..... ISBN 978-2-36892-024-4
+} lib_i024       _Marianne Veillet            ?
+!--- 377 pages - 4,99 euros
+- .oI.     N4    _MACHOROWSKI Marthe          F‚minin plurielles þ2013
+: .o .     r     _MACHOROWSKI Marthe          Une fille pour la lign‚e þ2013
+: .o .     r     _MACHOROWSKI Marthe          Flaminia þ2013
+: .o .     r     _MACHOROWSKI Marthe          Eugenia þ2013
+: .o .     r     _MACHOROWSKI Marthe          Mangana þ2013
+o Ivbn-IM     ?  2013.08 ..... ISBN 978-2-36892-025-1
+} noimg          _Alain Catherin              ?
+!--- 248 pages - 2,99 euros
+- .o .     R     _PARIS Alain                 Reich þ1986
+o Ivbn-IC     ?  2013.09 ..... ISBN 978-2-36892-029-9
+} noimg          _?                           ?
+!--- Gratuit
+- .o .     N     _CHAUMETTE Jean-Christophe   Emet þ2012
+o Ivbn-IM     ?  2013.09 ..... ISBN 978-2-36892-030-5
+} noimg          _?                           ?
+!--- ? pages - Gratuit
+- .o .     N     _CITHAREL C‚dric             On torture bien les animaux [Les morts-vivants ne font pas la queue dans les grands magasins - 1] þ2013
+o Ivbn-IM     ?  2013.09 ..... ISBN 978-2-36892-031-2
+} noimg          _?                           ?
+!--- 30 pages - Gratuit
+- .oF.     N     _EAWY Nolween                Miss Fairchild þ2008
+o Ivbn-IM     ?  2013.09 ..... ISBN 978-2-36892-032-9
+} noimg          _Jean-Pierre Normand         ?
+!--- 38 pages - Gratuit
+- .oS.     N     _DUPILLE Ga‰lle              La PremiŠre Colonie þ2013
+o Ivbn-IM     ?  2013.10 ..... ISBN 978-2-36892-038-1
+} noimg          _?                           ?
+!--- 99 pages - 1,99 euros
+- .oS.     r     _NOLANE Richard D.           Une tˆte de martyr þ2003
+o Ivbn-IM     ?  2013.10 ..... ISBN 978-2-36892-039-8
+} noimg          _Alda Rana                   ?
+!--- 44 pages - 0,99 euros
+- .oY.     N     _GOAZ Philippe               Les Aventures de Zordar - 3 þ2013
+o Ivbn-IM     ?  2013.11 ..... ISBN 978-2-36892-041-1
+} noimg          _Laurent Emonet              ?
+!--- 60 pages - Gratuit
+- .oF.     N     _ESSARD Manuel               S ga [Les Dits du Midgardr - 1] þ2013
+o Ivbn-IC     ?  2013.11 ..... ISBN 978-2-36892-042-8
+} noimg          _?                           ?
+!--- 0,99 euros
+- .o .     N     _CHAUMETTE Jean-Christophe   La Secte þ2000
+o Ivbn-IM     ?  2013.11 ..... ISBN 978-2-36892-043-5
+} noimg          _Philippe Lemaire            ?
+!--- 332 pages - 5,99 euros
+- .oF.     R     _LEMAIRE Philippe           &... Ceci est mon sang [Radu Dracula - 1] þ2011
+&                _WARD Philippe               
+o Ivbn-IM     ?  2013.12 ..... ISBN 978-2-36892-048-0
+} noimg          _?                           ?
+!---  ? pages - 0,99 euros
+- .o .     N     _CITHAREL C‚dric             Les Crocs de la forˆt [Les morts-vivants ne font pas la queue dans les grands magasins - 2] þ2013
+o Ivbn-IM     ?  2013.12 ..... ISBN 978-2-36892-052-7
+} noimg          _Kane Banway                 ?
+!--- 18 pages - 0,49 euros
+- .o .     N     _BANWAY Kane                 PŠre Nowel þ2013
+!------------------------
+!=== 2014
+!------------------------
+o Ivbn-CC     ?  2014.02 ..... ISBN 978-2-36892-054-1
+} noimg          _VIBANCOS Gwen               ?
+!--- 40 pages - 0,99 euros
+- .oF.     N     _CROUZET Yves-Daniel         La Compassion de Cthulhu þ2014
+o Ivbn-CC     ?  2014.02 ..... ISBN 978-2-36892-055-8
+} noimg          _VIBANCOS Gwen               ?
+!--- 29 pages - 0,99 euros
+- .oF.     N     _GOAZ Philippe               Le H‚ros de l'aventure þ2014
+o Ivbn-CC     ?  2014.02 ..... ISBN 978-2-36892-056-5
+} noimg          _VIBANCOS Gwen               ?
+!--- 32 pages - 0,99 euros
+- .o .     N     _NETSCHAIEV Faust            Le Faussaire þ2014
+o Ivbn-IM     ?  2014.02 ..... ISBN 978-2-36892-057-2
+} noimg          _Pierre Guigon               ?
+!--- 455 pages - 4,99 euros
++ Ivbn-IM     ?  2018.04 ..... ISBN 978-2-36892-586-7
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+- .oS.     R     _TISSANDIER S‚bastien        L'Oeil [Le Testament de Galil‚e - 1] þ2014
+o Ivbn-IM     ?  2014.02 ..... ISBN 978-2-36892-059-6
+} noimg          _?                           ?
+!--- 141 pages - 2,99 euros
+- .o .     r     _THIBAUT C‚line              Et pourtant je l'aimais [En plein coeur du G‚vaudan - 1] þ2014
+o Ivbn-IM     ?  2014.02 ..... ISBN 978-2-36892-060-2
+} noimg          _LORIN Eric                  N
+!--- 884 pages - 4,99 euros
+- .oS.     R     _LORIN Patrick               L'Œle blanche þ2010
+o Ivbn-CC     ?  2014.03 .... ISBN 978-2-36892-061-9
+} noimg          _VIBANCOS Gwen               ?
+!---  ? pages - 1,49 euros
+- .o .     N     _BANWAY Kane                 He Walked by Night þ2014
+o Ivbn-CC     ?  2014.03 ..... ISBN 978-2-36892-062-6
+} noimg          _VIBANCOS Gwen               ?
+!--- 51 pages - 1,49 euros
+- .o .     N     _GISBERT Aur‚lie             L'Appel du Great Auld Ane þ2014
+o Ivbn-CC     ?  2014.03 ..... ISBN 978-2-36892-063-3
+} noimg          _VIBANCOS Gwen               ?
+!--- 53 pages - 1,49 euros
+- .o .     N     _LOISEAU Catherine           L'Autre Dieu þ2014
+o Ivbn-EA     ?  2014.03 ..... ISBN 978-2-36892-064-0
+} noimg          _VIBANCOS Gwen               ?
+!--- 214 pages - 0,99 euros
+!--- Indiqu‚ Le Commandeur 1
+- .o .     R     _HONAKER Michel              The Verb of Life [Le Commandeur - 2] þ1988
+o Ivbn-IM     ?  2014.04 ..... ISBN 978-2-36892-065-7
+} noimg          _Alain Catherin              ?
+!--- 122 pages - 2,99 euros
+- .oY.     r     _CASSILIS Franck             Les Factions rivales þ2014
+o Ivbn-IM     ?  2014.04 ..... ISBN 978-2-36892-066-4
+} noimg          _?                           ?
+!--- 24 pages - Gratuit
+- .oF.     N     _RECO Aude                   Daddy þ2014
+o Ivbn-IM     ?  2014.06 ..... ISBN 978-2-36892-069-5
+} ivrebook_069   _Laurent Emonet              ?
+!--- 228 pages - 3,99 euros
+- .oF.     N3    _DUPILLE Ga‰lle              La Main du diable et autres contes macabres þ2014
+: .o .     N     _DUPILLE Ga‰lle              La Main du diable þ2014
+: .o .     N     _DUPILLE Ga‰lle              La Poup‚e þ2014
+: .o .     N     _DUPILLE Ga‰lle              L'Homme en noir þ2014
+o Ivbn-CC     ?  2014.05 ..... ISBN 978-2-36892-070-1
+} noimg          _VIBANCOS Gwen               ?
+!--- 35 pages - 0,99 euros
+- .o .     N     _BAQUAISE David              Entressen þ2014
+o Ivbn-EA     ?  2014.05 ..... ISBN 978-2-36892-071-8
+} noimg          _Laurent Emonet              ?
+!--- 236 pages - 0,99 euros
+- .o .     R     _PARIS Alain                 Svastika [Le Monde de la Terre Creuse - 1] þ1988
+o Ivbn-CC     ?  2014.05 ..... ISBN 978-2-36892-073-2
+} noimg          _VIBANCOS Gwen               ?
+!--- 43 pages - 0,99 euros
+- .o .     N     _MISERQUE David              Le Candidat þ2015
+o Ivbn-CC     ?  2014.05 ..... ISBN 978-2-36892-074-9
+} noimg          _VIBANCOS Gwen               ?
+!--- 52 pages - 1,49 euros
+- .o .     N     _BILLOT Romain               In Tenebris þ2012
+o Ivbn-IM     ?  2014.05 ..... ISBN 978-2-36892-075-6
+} noimg          _Laurent Emonet              ?
+!--- 66 pages - 1,49 euros
+- .oF.     N     _ESSARD Manuel               Fenja [Les Dits du Midgardr - 2] þ2014
+o Ivbn-IM     ?  2014.05 ..... ISBN 978-2-36892-076-3
+} noimg          _?                           ?
+!---  59 pages - 2,99 euros
+- .o .     r     _DESVAUX Sylvain             La R‚demption de Tessa þ2014
+o Ivbn-IM     ?  2014.06 ..... ISBN 978-2-36892-078-7
+} noimg          _Pierre Guigon               ?
+!--- 339 pages - 4,99 euros
+- .oS.     R     _TISSANDIER S‚bastien        Le Parchemin [Le Testament de Galil‚e - 2] þ2014
+o Ivbn-IM     ?  2014.07 ..... ISBN 978-2-36892-079-4
+} lib_i079       _?                           ?
+!---  139 pages - 2,99 euros
+- .oF.    iNx    _BENOIST Renaud              Nouvelles noires [Nouvelles noires - 1] þ1998
+: .o .     N     _BENOIST Renaud              PremiŠre apparition þ2000
+o Ivbn-IM     ?  2014.09 ..... ISBN 978-2-36892-081-7
+} noimg          _?                           ?
+!---  232 pages - 3,99 euros
+- .o .     r     _CITHAREL C‚dric             Belfort, ville de morts [Les morts-vivants ne font pas la queue dans les grands magasins - 3] þ2014
+o Ivbn-IM     ?  2014.09 ..... ISBN 978-2-36892-082-4
+} noimg          _Florence Magnin             ?
+!---  362 pages - 2,99 euros
+- .o .     R     _DOURIAUX Hugues             Roche-Lalheue þ1991
+o Ivbn-IM     ?  2014.09 ..... ISBN 978-2-36892-083-1
+} lib_i083       _?                           ?
+!---  201 pages - 3,99 euros
+!---  Egalement paru en 2009 ou 2010 aux editions Azimuts - 9782874710315 
+- .oF.     N11   _EAWY Nolween                Les Enfants de l'ombre þ2008
+: .o .     N     _EAWY Nolween                Page blanche þ2008
+: .o .     N     _EAWY Nolween                Brume þ2008
+: .o .     N     _EAWY Nolween                Miss Fairchild þ2008
+: .o .     N     _EAWY Nolween                Obsession þ2008
+: .o .     N     _EAWY Nolween                Miroir þ2008
+: .o .     N     _EAWY Nolween                Bille de clown þ2008
+: .o .     N     _EAWY Nolween                Doppleganger þ2008
+: .o .     N     _EAWY Nolween                La Nuit nous appartient þ2008
+: .o .     N     _EAWY Nolween                Plume sanglante þ2008
+: .o .     N     _EAWY Nolween                Alessa þ2008
+: .o .     N     _EAWY Nolween                Psychose þ2008
+o Ivbn-EN     ?  2014.09 ..... ISBN 978-2-36892-087-9
+} noimg          _?                           ?
+!---  281 pages - 4,99 euros
+- .oPF     R     _JOHNSON Sylvain             Le Tueur des rails [Le Tueur des rails - 1] þ2012
+o Ivbn-CC     ?  2014.09 ..... ISBN 978-2-36892-089-3
+} noimg          _VIBANCOS Gwen               ?
+!--- 99 pages - 1,99 euros
+- .oS.     N     _ROSATI Christophe           Abysses þ2014
+o Ivbn-CC     ?  2014.09 ..... ISBN 978-2-36892-090-9
+} noimg          _VIBANCOS Gwen               ?
+!--- 102 pages - 1,99 euros
+- .oF.     r     _DUPILLE Ga‰lle              Le Magicien þ2014
+o Ivbn-IM     ?  2014.09 ..... ISBN 978-2-36892-091-6
+} lib_i091       _?                           ?
+!--- 114 pages - 1,99 euros
+- .oF.    iNx    _RECO Aude                   Histoires fantomatiques þ2014
+: .o .     N     _RECO Aude                   Daddy þ2014
+: .o .     N     _RECO Aude                   La Maison de sable þ2014
+o Ivbn-DP     ?  2014.11 ..... ISBN 978-2-36892-092-3
+} noimg          _Philippe Cardona & Florence Torta       ?
+!--- 596 pages - 4,99 euros
+- .oF.     R     _ROSATI Christophe           Le Sorcier de Passe-Chanes þ2014
+o Ivbn-IM     ?  2014.10 ..... ISBN 978-2-36892-093-0
+} noimg          _Ad‚la‹de Camp               ?
+!---  70 pages - 1,99 euros
+- .oS.     N     _VAUJANY Didier de           Le Korrigan ferrailleur þ2014
+o Ivbn-IM     ?  2014.11 ..... ISBN 978-2-36892-098-5
+} noimg          _Kane Banway & AbigailDream  ?
+!--- 666 pages - 4,99 euros
+- .o .     R     _BANWAY Kane                 Dusk [La Trilogie du seuil - 1] þ2014
+o Ivbn-IM     ?  2014.11 ..... ISBN 978-2-36892-099-2
+} noimg          _AbigailDream                ?
+!--- 345 pages - 4,99 euros
+- .oS.     R     _LEVEQUE Samuel              Eldorado þ2014
+o Ivbn-EA     ?  2014.11 ..... ISBN 978-2-36892-100-5
+} noimg          _Gwen Vibancos               ?
+!--- 217 pages - 2,99 euros
+!--- Indiqu‚ Le Commandeur 2
+- .o .     R     _HONAKER Michel              Return of Emeth [Le Commandeur - 3] þ1988
+o Ivbn-DP     ?  2014.11 ..... ISBN 978-2-36892-101-2
+} noimg          _Olivier Brazao              ?
+!--- 572 pages - 4,99 euros
+- .oY.     R     _MESPLEDE Richard           &Les Terres promises [Voyages en Orobolan][Orobolan] þ2013
+&                _MESTR TOM                   
+o Ivbn-DP     ?  2014.11 ..... ISBN 978-2-36892-102-9
+} noimg          _Romain LubiŠre              ?
+!--- 211 pages - 3,99 euros
+- .oY.     R     _G. James                   &Nous sommes un þ2014
+&                _GOBILLOT Fr‚d‚ric           
+o Ivbn-IM     ?  2014.12 ..... ISBN 978-2-36892-106-7
+} noimg          _Laurent Emonet              ?
+!--- 345 pages - 4,99 euros
+- .oPF     R     _IZABEL Laure                OPJ 1 - Le Centre þ2014
+o Ivbn-IM     ?  2014.12 ..... ISBN 978-2-36892-107-4
+} noimg          _Laurent Emonet              ?
+!--- 247 pages - 2,99 euros
+- .o .     R     _PARIS Alain                 Seigneur des runes [Le Monde de la Terre Creuse - 2] þ1988
+!------------------------
+!=== 2015
+!------------------------
+o IVRB-CC     ?  2015.09 ..... ISBN 978-2-36892-097-8
+} noimg          _VIBANCOS Gwen               ?
+!--- 46 pages - 5,00 euros
+- .oS.     N     _ROSATI Christophe           Abysses þ2014
+o Ivbn-GA     1  2015.02 ..... ISBN 978-2-36892-113-5
+} noimg          _?                           ?
+!--- 486 pages - 4,49 euros
+- .o .     M10   ****                         Gandahar nø 1 - Les Volcans þ2014-2015
+: .o .     a     _WOODCOCK Andr‚              Les Volcans þ2014
+: .o .     N     _BRIGNON Christine           Etoile et le Dragon Rouge þ2014
+: .o .     N     _PORTEBOIS Xavier            Pyrolepsie þ2014
+: .o .     N     _SILVA L‚a                   Les Hommes en blanc þ2014
+: .o .     N     _POCHESCI Bruno              Le Syndrome islandais þ2014
+: .o .     N     _GIRARD C‚dric               Dans la chaleur du bain japonais þ2014
+: .o .     N     _RIVAT Feldrik               Les Filles de P‚l‚ þ2014
+: .o .     N     _CONSEIL Julie               Joe Lahar et les mangeurs d'arch‚es þ2014
+: .o .     N     _LE FOLGAN Martin            La Cendreplaine þ2014
+: .o .     N     _LEMURI Dominique            La Petite Fille au ballon þ2014
+: .o .     N     _BOULANGER Anthony           Eider, l'oiseau de feu þ2015
+: .o .     N     _FOURTAUX Guillaume          Tamaya þ2015
+: .o .     N     _PAGES Nicolas               Feuerbach, la riviŠre de lave þ2015
+: .o .     N     _JEANNERET Amria             Thiphaine et le bonhomme de lave þ2015
+: .o .     N     _SAUZE R‚mi                  Peuple des glaces þ2015
+: .o .     N     _SIRUGUE J‚r‚my              Mon ami Ragnaros þ2015
+: .o .     N     _COVIN Gr‚gory               Le Dernier Titan þ2015
+o Ivbn-IM     ?  2015.02 ..... ISBN 978-2-36892-114-2
+} noimg          _Vael Cat                    ?
+!--- 236 pages - 2,99 euros
+- .oF.     R     _HONAKER Michel              Le Temps des chronophages þ1989
+o Ivbn-CC     ?  2015.02 ..... ISBN 978-2-36892-116-6
+} lib_i116       _Vael Cat                    ?
+!--- 352 pages - 3,99 euros
+- .oF.     A10   *LYRAUD Fabien               Calling Cthulhu - Volume 1 þ2015
+: .o .     N     _LECOMTE Thomas              La Toile þ2015
+: .o .     N     _JOUANNAIS Jean-Jacques      Le Trou þ2015
+: .o .     N     _BLONDELON Alain             Portraits macabres þ2015
+: .o .     N     _DE LA VERDIERE Sylvain-Ren‚ Shiloh þ2015
+: .o .     N     _LYRAUD Fabien               L'Affaire Philippe Lardamour þ2015
+: .o .     N     _SERRANO Elodie              Visite guid‚e de R'Lyeh þ2015
+: .o .     N     _AERTS Ruwan                 Les Masques de Kahniggah þ2015
+: .o .     N     _PAGES Nicolas               Tib‚riades þ2015
+: .o .     N     _TISSANDIER S‚bastien        Cthul'hu le d‚chu þ2015
+: .o .     N     _DUGAS Mathieu               La Bonne ‚toile þ2015
+o Ivbn-IM     ?  2015.02 ..... ISBN 978-2-36892-118-0
+} noimg          _Pierre Guigon               ?
+!--- 317 pages - 4,99 euros
+- .oS.     R     _TISSANDIER S‚bastien        L'Enfant [Le Testament de Galil‚e - 3] þ2015
+o Ivbn-IM     ?  2015.02 ..... ISBN 978-2-36892-119-7
+} noimg          _Morgane Herbstmeyer         ?
+!--- 470 pages - 4,99 euros
+- .oF.     R     _FITZBEL Ena                 Un manoir pour refuge þ2015
+o Ivbn-IM     ?  2015.02 ..... ISBN 978-2-36892-120-3
+} noimg          _Morgane Herbstmeyer         ?
+!--- 687 pages - 4,99 euros
+- .oS.     R     _WINTER Helka                Engels Dster 1.0 þ2015
+o Ivbn-RO     ?  2015.03 ..... ISBN 978-2-36892-121-0
+} noimg          _?                           ?
+!--- 51 pages - Gratuit
+- .oFQ     N     _ANGE L.S.                   Quand la mort nous s‚pare - ‚pisode 1 þ2015
+o Ivbn-IM     ?  2015.03 ..... ISBN 978-2-36892-122-7
+} noimg          _Vael Cat                    ?
+!--- 119 pages - 1,99 euros
+- .oF.     r     _FAVARD Jean-Pierre          Retour(s) d'exp‚dition(s) þ2015
+o Ivbn-IC     ?  2015.03 ..... ISBN 978-2-36892-123-4
+} noimg          _?                           ?
+!--- 54 pages - 1,49 euros
+- .o .     N     _BLANCHOT Paul               Th‚ƒtre þ2015
+o Ivbn-IC     ?  2015.03 ..... ISBN 978-2-36892-124-1
+} noimg          _?                           ?
+!--- 38 pages - 0,99 euros
+- .o .     N     _SERNET J‚r‚my               Un homme de parole þ2015
+o Ivbn-IM     ?  2015.03 ..... ISBN 978-2-36892-125-8
+} noimg          _?                           ?
+!--- 787 pages - 4,99 euros
+- .oF.     R     _RABOTIN AgnŠs               Origines - Le Dernier Oracle þ2015
+o Ivbn-CC     ?  2015.03 ..... ISBN 978-2-36892-127-2
+} noimg          _Gwen Vicancos               ?
+!--- 150 pages - 2,49 euros
+- .oF.     r     _AUDRAND St‚phane            Blackthorn Creek þ2015
+o Ivbn-IM     ?  2015.03 ..... ISBN 978-2-36892-130-2
+} noimg          _Eric Avezance               ?
+!--- 443 pages - 4,99 euros
+- .oY.     R     _AVEZANCE Eric               Le Jardin des d‚lices [Chroniques d'Outre-Monde - 1] þ2015
+o IVRB-IM     ?  2015.09 ..... ISBN 978-2-36892-131-9
+} noimg          _Laurent Emonet              ?
+!--- 51 pages - 5,00 euros
+- .oF.     N     _ESSARD Manuel               S ga [Les Dits du Midgardr - 1] þ2013
+o IVRB-IM     ?  2015.09 ..... ISBN 978-2-36892-132-6
+} noimg          _Laurent Emonet              ?
+!--- 52 pages - 5,00 euros
+- .oF.     N     _ESSARD Manuel               Fenja [Les Dits du Midgardr - 2] þ2014
+o Ivbn-RO     ?  2015.04 ..... ISBN 978-2-36892-133-3
+} noimg          _?                           ?
+!--- 81 pages - 1,49 euros
+- .oFQ     N     _ANGE L.S.                   Quand la mort nous s‚pare - ‚pisode 3 þ2015
+o Ivbn-RO     ?  2015.04 ..... ISBN 978-2-36892-134-0
+} noimg          _?                           ?
+!--- 89 pages - 1,49 euros
+- .oFQ     N     _ANGE L.S.                   Quand la mort nous s‚pare - ‚pisode 3 þ2015
+o Ivbn-IM     ?  2015.04 ..... ISBN 978-2-36892-135-7
+} noimg          _Vael Cat                    ?
+!--- 167 pages - 2,99 euros
+- .oS.     R     _ROSATI Christophe           Clara [Ouroboros - 1] þ2015
+o Ivbn-IM     ?  2015.04 ..... ISBN 978-2-36892-136-4
+} noimg          _Vael Cat                    ?
+!--- 248 pages - 3,99 euros
+- .oS.     r     _AMA COURTOIS C‚cile         Eve aux sables dormant þ2015
+o Ivbn-RO     ?  2015.05 ..... ISBN 978-2-36892-138-8
+} noimg          _?                           ?
+!--- 1,49 euros
+- .oFQ     N     _ANGE L.S.                   Quand la mort nous s‚pare - ‚pisode 4 þ2015
+o Ivbn-IM     ?  2015.05 ..... ISBN 978-2-36892-140-1
+} noimg          _Vael Cat                    ?
+!--- 189 pages - 2,99 euros
+- .oS.     R     _ROSATI Christophe           Raph [Ouroboros - 2] þ2015
+o Ivbn-EA     ?  2015.05 ..... ISBN 978-2-36892-141-8
+} noimg          _Vael Cat                    ?
+!--- 292 pages - 2,99 euros
+- .oS.     R     _LEGAY Piet                  Mortel contact [Les Dossiers maudits - 1] þ1987
+o Ivbn-IV     ?  2015.05 ..... ISBN 978-2-36892-142-5
+} lib_i142       _?                           ?
+!--- 27 pages - 0,99 euros
+- .oYQ     N     _DEROY Callie J.             Fairy Sex Tale þ2015
+o Ivbn-IM     ?  2015.05 ..... ISBN 978-2-36892-143-2
+} lib_i143       _?                           ?
+!---  137 pages - 2,99 euros
+- .oF.    iNx    _BENOIST Renaud              Nouvelles noires - Volume 2 [Nouvelles noires - 2] þ2000
+o Ivbn-IM     ?  2015.06 ..... ISBN 978-2-36892-146-3
+} noimg          _Vael Cat                    ?
+!---  586 pages - 4,99 euros
+- .oF.     R     _MILLET La‰titia             Snezelheim - Livre 1 þ2015
+o Ivbn-EC     ?  2015.06 ..... ISBN 978-2-36692-148-7
+} noimg          _Vael Cat                    ?
+!--- 162 pages - 2,99 euros
+!--- Pr‚face Richard D. Nolane
+- .oS.     R     _GUIEU Jimmy                 Le Pionnier de l'atome [Jean Kariven - 1] þ1951
+o Ivbn-IM     ?  2015.06 ..... ISBN 978-2-36892-149-4
+} noimg          _?                           ?
+!--- 40 pages - 1,49 euros
+- .oF.     N     _RECO Aude                   Le Sort des loups [Sur les dents - 1] þ2015
+o IVRB-IM     ?  2015.09 ..... ISBN 978-2-36892-152-4
+} noimg          _Vael Cat                    ?
+!--- 138 pages - 10,00 euros
+- .oS.     r     _AMA COURTOIS C‚cile         Eve aux sables dormant þ2015
+o Ivbn-RO     ?  2015.07 ..... ISBN 978-2-36892-153-1
+} noimg          _?                           ?
+!--- 175 pages - 4,99 euros
+- .oRF     R     _EVANS Alex                  Le Loup des Farkas þ2015
+o Ivbn-IM     ?  2015.07 ..... ISBN 978-2-36892-155-5
+} noimg          _Vael Cat                    ?
+!--- 88 pages - 2,99 euros
+- .oS.     r     _ROSATI Christophe           John [Ouroboros - 3] þ2015
+o IVRB-IM     ?  2015.09 ..... ISBN 978-2-36892-156-2
+} noimg          _Pierre Guigon               ?
+!--- 282 pages - 14,00 euros
+- .oS.     R     _TISSANDIER S‚bastien        L'Oeil [Le Testament de Galil‚e - 1] þ2014
+o IVRB-IM     ?  2015.09 ..... ISBN 978-2-36892-157-9
+} noimg          _Pierre Guigon               ?
+!--- 218 pages - 12,00 euros
+?+ IVRB-IM     ?  2018.12 ..... ISBN 978-2-36892-633-8
+- .oS.     R     _TISSANDIER S‚bastien        Le Parchemin [Le Testament de Galil‚e - 2] þ2014
+o IVRB-IM     ?  2015.09 ..... ISBN 978-2-36892-158-6
+} noimg          _Pierre Guigon               ?
+!--- 194 pages - 12,00 euros
+- .oS.     R     _TISSANDIER S‚bastien        L'Enfant [Le Testament de Galil‚e - 3] þ2015
+o Ivbn-IM     ?  2015.07 ..... ISBN 978-2-36892-159-3
+} noimg          _?                           ?
+!--- 40 pages - 1,49 euros
+- .oF.     N     _RECO Aude                   La Sans-M‚moire [Sur les dents - 2] þ2015
+o IVRB-RO     ?  2015.09 ..... ISBN 978-2-36892-162-3
+! Ivbn-RO     ?  2015.08 ..... ISBN 978-2-36892-161-6
+!--- 172 pages - 
+} noimg          _?                           ?
+!--- 194 pages - 12,00 euros
+- .oFQ     R     _ANGE L.S.                   Quand la mort nous s‚pare þ2015
+o IVRB-IM     ?  2015.09 ..... ISBN 978-2-36892-163-0
+} ivrebook_163   _Laurent Emonet              ?
+!--- 126 pages - 10,00 euros
+- .oF.     N3    _DUPILLE Ga‰lle              La Main du diable et autres contes macabres þ2014
+: .o .     N     _DUPILLE Ga‰lle              La Main du diable þ2014
+: .o .     N     _DUPILLE Ga‰lle              La Poup‚e þ2014
+: .o .     N     _DUPILLE Ga‰lle              L'Homme en noir þ2014
+o Ivbn-EA     ?  2015.08 ..... ISBN 978-2-36892-164-7
+} noimg          _Vael Cat                    ?
+!--- 170 pages - 2,99 euros
+- .oS.     R     _CHARMASSON Guy              L'Heure perdue þ1986
+o Ivbn-EA     ?  2015.08 ..... ISBN 978-2-36892-167-8
+} noimg          _Vael Cat                    ?
+!--- 130 pages - 2,99 euros
+- .oS.     R     _FACON Roger                 La PlanŠte des femmes þ1987
+o Ivbn-EA     ?  2015.08 ..... ISBN 978-2-36892-168-5
+} noimg          _Vael Cat                    ?
+!--- 120 pages - 2,99 euros
+- .oS.     R     _HONAKER Michel              LumiŠre d'abŒme þ1985
+o IVRB-IM     ?  2015.09 ..... ISBN 978-2-36892-169-2
+} noimg          _Jean-Pierre Normand         ?
+!--- 22 pages - 4,00 euros
+- .oS.     N     _DUPILLE Ga‰lle              La PremiŠre Colonie þ2013
+o IVRB-IM     ?  2015.09 ..... ISBN 978-2-36892-170-8
+} lib_i170       _Jimmy Kerast                ?
+!--- 130 pages - 10,00 euros
+- .oF.     N10   _BILLOT Romain               Les Contes du Grand Veneur þ2013
+: .o .     N     _BILLOT Romain               Kidnapping þ2013
+: .o .     N     _BILLOT Romain               Lady Crowley þ2013
+: .o .     N     _BILLOT Romain               Charmiance þ2013
+: .o .     N     _BILLOT Romain               R‚surgence þ2013
+: .o .     N     _BILLOT Romain               Innocence þ2013
+: .o .     N     _BILLOT Romain               Phantasmagoria þ2013
+: .o .     N     _BILLOT Romain               La Nuit des monstres þ2013
+: .o .     N     _BILLOT Romain               Jeux d'enfants þ2009
+: .o .     N     _BILLOT Romain               Evasion þ2013
+: .o .     N     _BILLOT Romain               Hantise þ2013
+o IVRB-CC     ?  2015.09 ..... ISBN 978-2-36892-171-5
+} lib_i171       _Vael Cat                    ?
+!--- 202 pages - 10,00 euros
+- .oF.     A10   *LYRAUD Fabien               Calling Cthulhu - Volume 1 þ2015
+: .o .     N     _LECOMTE Thomas              La Toile þ2015
+: .o .     N     _JOUANNAIS Jean-Jacques      Le Trou þ2015
+: .o .     N     _BLONDELON Alain             Portraits macabres þ2015
+: .o .     N     _DE LA VERDIERE Sylvain-Ren‚ Shiloh þ2015
+: .o .     N     _LYRAUD Fabien               L'Affaire Philippe Lardamour þ2015
+: .o .     N     _SERRANO Elodie              Visite guid‚e de R'Lyeh þ2015
+: .o .     N     _AERTS Ruwan                 Les Masques de Kahniggah þ2015
+: .o .     N     _PAGES Nicolas               Tib‚riades þ2015
+: .o .     N     _TISSANDIER S‚bastien        Cthul'hu le d‚chu þ2015
+: .o .     N     _DUGAS Mathieu               La Bonne ‚toile þ2015
+o IVRB-IM     ?  2015.09 ..... ISBN 978-2-36892-172-2
+} noimg          _AbigailDream                ?
+!--- 198 pages - 11,00 euros
+- .oS.     R     _LEVEQUE Samuel              Eldorado þ2014
+o Ivbn-EA     ?  2015.08 ..... ISBN 978-2-36892-174-6
+} noimg          _Vael Cat                    ?
+!--- 170 pages - 2,99 euros
+- .oS.     R     _LEGAY Piet                  Les Portes de l'enfer [Les Dossiers maudits - 2] þ1987
+o Ivbn-EA     ?  2015.08 ..... ISBN 978-2-36892-175-3
+} noimg          _Vael Cat                    ?
+!--- 220 pages - 2,99 euros
+- .oS.     R     _DOURIAUX Hugues             P.L.U.M. 66-50 [P.L.U.M. 66-50 - 1] þ1985
+o Ivbn-IM     ?  2015.08 ..... ISBN 978-2-36892-176-0
+} noimg          _Vael Cat                    ?
+!--- 80 pages - 2,99 euros
+- .oS.     r     _ROSATI Christophe           Gritt [Ouroboros - 4] þ2015
+o Ivbn-IM     ?  2015.08 ..... ISBN 978-2-36892-177-7
+} noimg          _?                           ?
+!--- 40 pages - 1,49 euros
+- .oF.     N     _RECO Aude                   Les anges ont la vie dure [Sur les dents - 3] þ2015
+o IVRB-IM     ?  2015.11 ..... ISBN 978-2-36892-187-6
+! Ivbn-IM     ?  2015.09 ..... ISBN 978-2-36892-178-4
+!--- 1,49 euros
+} noimg          _Laurent Emonet              ?
+!--- 64 pages
+- .oF.     N     _ESSARD Manuel               Hnoss [Les Dits du Midgardr - 3] þ2015
+o Ivbn-IM     ?  2015.09 ..... ISBN 978-2-36892-180-7
+} noimg          _Philippe Lemaire            ?
+!---  ? pages - Gratuit
+!--- Saison 1 - 3.
+- .oF.     N     _LIVYNS Fr‚d‚ric             La Chambre rouge [Les Nouvelles Aventures de Carnaki - 1][Carnacki] þ2015
+o Ivbn-IM     ?  2015.10 ..... ISBN 978-2-36892-184-5
+} lib_i184       _Vael Cat                    ?
+!--- 70 pages - 2,99 euros
+- .oF.     N7    _LIVYNS Fr‚d‚ric             Zone d'ombres þ2015
+: .o .     N     _LIVYNS Fr‚d‚ric             L'Autre C“t‚ þ2013
+: .o .     N     _LIVYNS Fr‚d‚ric             Lilith þ2015
+: .o .     N     _LIVYNS Fr‚d‚ric             Querry's Dephts þ2015
+: .o .     N     _LIVYNS Fr‚d‚ric             Lydia þ2013
+: .o .     N     _LIVYNS Fr‚d‚ric             Dancin'Pig þ2015
+: .o .     N     _LIVYNS Fr‚d‚ric             Le Manoir Winsart þ2014
+: .o .     N     _LIVYNS Fr‚d‚ric             Zombie Love þ2015
+o IVRB-RO     ?  2015.11 ..... ISBN 978-2-36892-188-3
+! Ivbn-RO     ?  2015.10 ..... ISBN 978-2-36892-185-2
+!--- 4,99 euros
+} noimg          _Vael Cat                    ?
+!--- 414 pages
+- .oFQ     R     _DEROY Callie J.             Liens de sang - Tome 1 [Liens de sang - 1] þ2013
+o Ivbn-EW     ?  2015.10 ..... ISBN 978-2-36892-186-9
+} noimg          _Vael Cat                    ?
+!--- 300 pages - 2,99 euros
+- .oWS     R     _DOURIAUX Hugues             Galax-Western þ1985
+o IVRB-IM     ?  2015.11 ..... ISBN 978-2-36892-189-0
+} lib_i184       _Vael Cat                    ?
+!--- 76 pages - 6 euros
+- .oF.     N7    _LIVYNS Fr‚d‚ric             Zone d'ombres þ2015
+: .o .     N     _LIVYNS Fr‚d‚ric             L'Autre C“t‚ þ2013
+: .o .     N     _LIVYNS Fr‚d‚ric             Lilith þ2015
+: .o .     N     _LIVYNS Fr‚d‚ric             Querry's Dephts þ2015
+: .o .     N     _LIVYNS Fr‚d‚ric             Lydia þ2013
+: .o .     N     _LIVYNS Fr‚d‚ric             Dancin'Pig þ2015
+: .o .     N     _LIVYNS Fr‚d‚ric             Le Manoir Winsart þ2014
+: .o .     N     _LIVYNS Fr‚d‚ric             Zombie Love þ2015
+o IVRB-IM     ?  2015.11 ..... ISBN 978-2-36892-190-6
+} noimg          _Ad‚la‹de Camp               ?
+!---  40 pages
+- .oS.     N     _VAUJANY Didier de           Le Korrigan ferrailleur þ2014
+o Ivbn-IM     ?  2015.10 ..... ISBN 978-2-36892-191-3
+} noimg          _Alda Rana                   ?
+!--- 64 pages - 0,99 euros
+- .oY.     N     _GOAZ Philippe               Les Aventures de Zordar - 4 þ2015
+o IVRB-IM     ?  2015.11 ..... ISBN 978-2-36892-192-0
+} noimg          _Alda Rana                   ?
+!--- 196 pages
+- .oY.     R     _GOAZ Philippe               Les Aventures de Zordar þ2015
+o Ivbn-RO     ?  2015.10 ..... ISBN 978-2-36892-194-4
+} noimg          _?                           ?
+!--- 4,99 euros
+- .oRS     R     _BOUCHONVILLE Julie          Toute tentative de r‚bellion þ2015
+o Ivbn-EW     ?  2015.10 ..... ISBN 978-2-36892-195-1
+} noimg          _Vael Cat                    ?
+!--- 24 pages - 0,99 euros
+- .oWG     N     _DARNAUDET Boris            &La Nuit du rail þ2015
+&                _DARNAUDET Fran‡ois          
+o Ivbn-IM     ?  2015.10 ..... ISBN 978-2-36892-197-5
+} noimg          _Philippe Lemaire            ?
+!--- 37 pages - 1,49 euros
+!--- Saison 1 - 2.
+- .oF.     N     _LIVYNS Fr‚d‚ric             Le Placard qui chuchote [Les Nouvelles Aventures de Carnaki - 2][Carnacki] þ2015
+o Ivbn-IM     ?  2015.10 ..... ISBN 978-2-36892-192-2
+} lib_i192       _Vael Cat                    ?
+!--- 111 pages - 3,99 euros
+- .oF.    iNx    _BUISSON-DELANDRE Virginie   Le Brasier þ2015
+o Ivbn-IM     ?  2015.10 ..... ISBN 978-2-36892-193-7
+} noimg          _?                           ?
+!--- 35 pages - 1,49 euros
+- .oF.     N     _RECO Aude                   Le Corps et l'Esprit [Sur les dents - 4] þ2015
+o Ivbn-IM     ?  2015.11 ..... ISBN 978-2-36892-201-9
+} noimg          _Vael Cat                    ?
+!--- 100 pages - 2,99 euros
+- .oS.     r     _ROSATI Christophe           Rob [Ouroboros - 5] þ2015
+o Ivbn-IM     ?  2015.11 ..... ISBN 978-2-36892-202-6
+} noimg          _Vael Cat                    ?
+!--- 35 pages - 1,49 euros
+- .oF.     N     _RECO Aude                   Le loup est de mauvais poil [Sur les dents - 5] þ2015
+o Ivbn-IM     ?  2015.11 ..... ISBN 978-2-36892-203-3
+} noimg          _Vael Cat                    ?
+!--- 285 pages - 4,99 euros
+- .oS.     R     _BENOIST Renaud              La Solution symbiose [Le Cycle des Yukulutes - 1] þ2001
+o Ivbn-IM     ?  2015.11 ..... ISBN 978-2-36892-204-0
+} noimg          _?                           ?
+!--- 721 pages... ou "562 pages environ" !
+!--- 5,99 euros
+- .oF.     R     _CHANET-MUNSCH Simone        Deux ƒmes en d‚tresse þ2015
+o IVRB-IM     ?  2015.12 13,00 ISBN 978-2-36892-205-7
+} noimg          _Vael Cat                    ?
+!--- 278 pages
+- .oS.     R     _BENOIST Renaud              La Solution symbiose [Le Cycle des Yukulutes - 1] þ2001
+o Ivbn-RO     ?  2015.11 ..... ISBN 978-2-36892-206-4
+} noimg          _?                           ?
+!--- 3,99 euros
+- .oRF     R     _T. Lola                     Les D‚mons d'Andrews [Le Lien du sang] þ2015
+o Ivbn-EC     ?  2015.11 ..... ISBN 978-2-36692-210-1
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .oS.     R     _GUIEU Jimmy                 La Dimension X [Jean Kariven - 2] þ1953
+o Ivbn-IM     ?  2015.12 ..... ISBN 978-2-36892-215-6
+} noimg          _Philippe Lemaire            ?
+!--- 37 pages - 1,49 euros
+!--- Saison 1 - 3.
+- .oF.     N     _LIVYNS Fr‚d‚ric             Ce qui murmure [Les Nouvelles Aventures de Carnaki - 3][Carnacki] þ2015
+o Ivbn-IM     ?  2015.12 ..... ISBN 978-2-36892-217-0
+} noimg          _Philippe Lemaire            ?
+!--- 200 pages - 4,99 euros
+- .oF.     R     _LEMAIRE Philippe            ... Que cette coupe s'‚loigne de moi ! [Radu Dracula - 2] þ2012
+o Ivbn-EN     ?  2015.12 ..... ISBN 978-2-36892-220-0
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+- .oPT     R     _JOHNSON Sylvain             La M‚moire du tueur [Le Tueur des rails - 2] þ2015
+!------------------------
+!=== 2016
+!------------------------
+o IVRB-RO     ?  2016.06 ..... ISBN 978-2-36892-269-9
+! Ivbn-RO     ?  2016.01 ..... ISBN 978-2-36892-223-1
+!--- 2,99 euros
+} noimg          _Vael Cat                    ?
+!--- 110 pages
+- .oY.     R     _QUERAN Patricia             Mon confident de pierre [La Proph‚tie de Morph‚e - 1] þ2013
+o Ivbn-IS     ?  2016.01 ..... ISBN 978-2-36892-225-5
+} noimg          _Johann Bodin                ?
+!---  331 pages - 4,99 euros
+- .oS.     R     _HENNINGER Bernard           Impulsion þ2014
+o Ivbn-IY     ?  2016.01 ..... ISBN 978-2-36892-226-2
+} noimg          _?                           ?
+!---  387 pages - 5,99 euros
+- .oY.     R     _COMBELLES Anna              Syr Ynis [La Complainte d'Irwam - 1] þ2015
+o Ivbn-IF     ?  2016.01 ..... ISBN 978-2-36892-227-9
+} noimg          _Tristan Sullenroses         ?
+!---  962 pages - 5,99 euros
+- .oF.     R     _LEBLANC J.B.                Le Cauchemar de Cassandre [Cassandre - 1] þ2012
+o Ivbn-ST     ?  2016.01 ..... ISBN 978-2-36892-228-6
+} noimg          _Vael Cat                    ?
+!---    ? pages - 0,99 euros
+- .oS.     N     _DESVAUX Sylvain             Le Codex þ2016
+o Ivbn-CC     ?  2016.02 ..... ISBN 978-2-36892-232-3
+} lib_i232       _Vael Cat                    ?
+!--- 300 pages - 4,99 euros
+- .oF.    kA16   ****                         Calling Cthulhu - Volume II þ2016
+: .o .   3 N     _MAGALHAES Catherine         La BibliothŠque inond‚e þ2016
+: .o .  15 N     _COLSON Eric                 Ne traŒnez pas en chemin þ2016
+: .o .  31 N     _DEL SOCORRO Jean-Laurent    Le Reine de pourpre vˆtue þ2016
+: .o .  47 N     _GAUTIER Jeff                Le Legs [Le Legs - 1] þ2016
+: .o .  69 N     _GAUTIER Jeff                Le Rivage interdit [Le Legs - 2] þ2016
+: .o .  87 N     _GAUTIER Jeff                Celui qui hurlait dans les t‚nŠbres [Le Legs - 3] þ2016
+: .o . 115 N     _VENETZA Dean                Par-del… R'lyeh þ2016
+: .o . 121 N     _LIVYNS Fr‚d‚ric             Le Puits þ2016
+: .o . 127 N     _BUISSON-DELANDRE Virginie   La C‚r‚monie þ2016
+: .o . 139 N     _CHEVIN Barnett              Mission GenŠse þ2016
+: .o . 155 N     _CHEVIN Barnett              Les Enfants de Cthulhu þ2016
+: .o . 167 N     _VAUJANY Didier de           Faille þ2016
+: .o . 189 N     _MESOT Baptiste              Azatoth þ2016
+: .o . 193 N     _BRACCHI Erwan               Le Cit‚ d'Irem þ2016
+: .o . 201 N     _MACHOROWSKI Marthe          Une trŠs longue nuit þ2016
+: .o . 235 N     _STEELWOOD John              La Voix þ2016
+o Ivbn-IF     ?  2016.02 ..... ISBN 978-2-36892-237-8
+} noimg          _Jean-Laurent Hansenne       ?
+!--- 3,99 euros
+- .oF.     R     _GYNSTERBLOM Fr‚d‚ric        Help Me þ2016
+o Ivbn-IF     ?  2016.02 ..... ISBN 978-2-36892-238-5
+} livrebook022016_3 _Vael Cat                    ?
+!--- 68 pages - 1,99 euros
+- .oF.    iNx    _LERAT Aimeric               Horreurs et r‚cits abyssaux þ2016
+: .o .     N     _LERAT Aimeric               La BrŠche þ2016
+: .o .     N     _LERAT Aimeric               Mr. Boyld þ2016
+: .o .     N     _LERAT Aimeric               Josh Austin þ2016
+o Ivbn-IM     ?  2016.02 ..... ISBN 978-2-36892-240-8
+} noimg          _Philippe Lemaire            ?
+!--- Saison 1 - 4. - 1,49 euros
+- .oF.     N     _LIVYNS Fr‚d‚ric             L'cho de son ombre [Les Nouvelles Aventures de Carnaki - 4][Carnacki] þ2016
+o Ivbn-IM     ?  2016.02 ..... ISBN 978-2-36892-243-9
+} livrebook022016_4 _Laurent Emonet              ?
+!--- 137 pages
+- .oF.     A8    *RONCHAUD Lilian             La Chasse volante - Volume 1 þ2016
+: .o .     p     _RONCHAUD Lilian             Pr‚face þ2016
+: .o .     N     _DUC H‚lŠne                  Hellequinade þ2016
+: .o .     N     _BILLOT Romain               Absit Omen þ2016
+: .o .     N     _JOFFRAIN Adam               En la forˆt de la Serre þ2016
+: .o .     N     _TERRELLON Eve               Les ƒmes ‚gar‚es þ2016
+: .o .     N     _VEDRENNE Florence           Passeuse d'histoires þ2016
+: .o .     N     _DELORAINE Ludovic           L'Agonie de l'ange þ2016
+: .o .     N     _TOUPILLIER Corinne          Le CortŠge macabre þ2016
+: .o .     N     _O'MEHER Terry               Les Chiens des ‚quinoxes þ2016
+o Ivbn-IS     ?  2016.02 ..... ISBN 978-2-63892-244-6
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+- .o .     R     _PAGES Nicolas               Le RŠgne du m‚tal [Pearly Gates - 1] þ2016
+o Ivbn-RO     ?  2016.03 ..... ISBN 978-2-36892-248-4
+} noimg          _?                           ?
+!--- 4.99 euros
+- .oRS     R     _ANGE L.S.                   Supplice þ2016
+o Ivbn-IS     ?  2016.03 ..... ISBN 978-2-63892-250-7
+} livrebook032016_1 _Philippe Caza               ?
+!--- 154 pages - 3,99 euros
+- .oS.     N4    _FONTANA Jean-Pierre         L'AventuriŠre de l'espace [Ilyana] þ2016
+: .o .     N     _FONTANA Jean-Pierre         Les Suicidaires de Goar [Ilyana] þ1974
+: .o .     N     _FONTANA Jean-Pierre         Les Libertaires de C‚tra XII [Ilyana] þ1974
+: .o .     N     _FONTANA Jean-Pierre         Les Solitaires de Caescum [Ilyana] þ1976
+: .o .     r     _FONTANA Jean-Pierre         Les D‚cervel‚s d'Actrenaz [Ilyana] þ2016
+o Ivbn-IF     ?  2016.03 ..... ISBN 978-2-36892-251-4
+} noimg          _?                           ?
+!--- 1,49 euros
+- .oF.     N     _HOCFELL Greg                SK þ2016
+o Ivbn-IV     ?  2016.03 ..... ISBN 978-2-36892-255-2
+} noimg          _?                           ?
+!--- Gratuit
+- .oRF     N     _DERUSSY Julie               Alma, les d‚buts d'une sorciŠre - ‚pisode 0 [Alma - 0] þ2016
+o Ivbn-IY     ?  2016.03 ..... ISBN 978-2-36892-256-9
+} noimg          _Vael Cat                    ?
+!--- 1,49 euros
+- .oY.     R     _OMBREMONT Manon E. d'       Nechta…nomicon - Episode premier [Nechta…nomicon] þ2016
+o Ivbn-IF     ?  2016.03 ..... ISBN 978-2-36892-258-3
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oF.     r     _DUPILLE Ga‰lle              Awen þ2016
+o IVRB-IS     ?  2016.03 ..... ISBN 978-2-63892-261-3
+} livrebook032016_1 _Philippe Caza               ?
+!---  170 pages
+- .oS.     N4    _FONTANA Jean-Pierre         L'AventuriŠre de l'espace [Ilyana] þ2016
+: .o .     N     _FONTANA Jean-Pierre         Les Suicidaires de Goar [Ilyana] þ1974
+: .o .     N     _FONTANA Jean-Pierre         Les Libertaires de C‚tra XII [Ilyana] þ1974
+: .o .     N     _FONTANA Jean-Pierre         Les Solitaires de Caescum [Ilyana] þ1976
+: .o .     r     _FONTANA Jean-Pierre         Les D‚cervel‚s d'Actrenaz [Ilyana] þ2016
+o Ivbn-RO     ?  2016.03 ..... ISBN 978-2-36892-262-0
+} noimg          _?                           ?
+!--- 5.99 euros
+- .oRF     R     _CORDIER Maud                Le Prince des loups [Inalia - 1] þ2016
+o IVRB-RO     ?  2016.06 ..... ISBN 978-2-36892-267-5
+} noimg          _Vael Cat                    ?
+!--- 390 pages
+- .oFQ     R     _DEROY Callie J.             Liens de sang - Tome 2 [Liens de sang - 2] þ2014
+o Ivbn-IY     ?  2016.04 ..... ISBN 978-2-36892-270-5
+} noimg          _Vael Cat                    ?
+!--- 1,49 euros
+- .oY.     R     _OMBREMONT Manon E. d'       Nechta…nomicon - Episode deuxiŠme [Nechta…nomicon] þ2016
+o Ivbn-EC     ?  2016.04 ..... ISBN 978-2-36892-271-2
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .oS.     R     _GUIEU Jimmy                 Nous les martiens [Jean Kariven - 3] þ1954
+o Ivbn-EW     ?  2016.04 ..... ISBN 978-2-36892-275-0
+} noimg          _Cromwell                    ?
+!--- 5,99 euros
+- .oY.     R     _WOLFS Sylvie                Cheveux-de-feu [La L‚gende de la Femme-Louve - 1] þ2012
+o IVRB-RO     ?  2016.06 ..... ISBN 978-2-36892-287-3
+! Ivbn-RO     ?  2016.06 ..... ISBN 978-2-36892-276-7
+!--- 2,99 euros
+} noimg          _Vael Cat                    ?
+!--- 106 pages
+- .oY.     R     _QUERAN Patricia             Pour l'amour d'Yvi [La Proph‚tie de Morph‚e - 2] þ2014
+o Ivbn-IF     ?  2016.04 ..... ISBN 978-2-36892-279-8
+} noimg          _Sir Fr‚d‚ric Leighton       ?
+!--- 5,99 euros
+- .oF.     R     _OKSANA                     &La Crypte des fantasmes þ2016
+&                _PROU Gil                    
+o Ivbn-IC     ?  2016.04 ..... ISBN 978-2-36892-280-4
+} noimg          _?                           ?
+!--- 0,99 euros
+- .o .     N     _OMBREMONT Manon E. d'       Lune de miel þ2016
+o IVRB-RO     ?  2016.xx ..... ISBN 978-2-36892-361-0
+! Ivbn-RO     ?  2016.04 ..... ISBN 978-2-36892-281-1
+!--- 5,99 euros
+} noimg          _?                           ?
+!--- 455 pages - 19 euros
+- .oF.     R     _T. Lola                     Le Commencement [Mes nuits dans ses t‚nŠbres - 1] þ2016
+o Ivbn-IS     ?  2016.05 ..... ISBN 978-2-63892-282-8
+} noimg          _Vael Cat                    ?
+!--- 5,99 euros
+- .oS.     R     _RENAUDIE Jean-Marc          H2NO þ2016
+o Ivbn-EN     ?  2016.05 ..... ISBN 978-2-36892-284-2
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+- .oPT     R     _RIEUBON Fanny               Dans une autre vie peut-ˆtre þ2016
+o Ivbn-IF     ?  2016.05 ..... ISBN 978-2-36892-285-9
+} lib_lvc1       _Vael Cat                    ?
+!--- 4,99 euros
+- .pF.     A12   ****                         Les Vilains Contes - #1 þ2016
+: .o .     N     _GUERVENO Kristell           M‚moires d'une morte en sursis þ2016
+: .o .     N     _DAU Kate                    Owl Hill þ2016
+: .o .     N     _THOMAS C‚line               Les contes d'Astaffort þ2016
+: .o .     N     _VALIEU Emma                 Le‡ons de vampirisme þ2016
+: .o .     N     _BE Henri                    Quenouilles, roue et ciseaux þ2016
+: .o .     N     _AERTS Ruwan                 Misanthropie þ2016
+: .o .     N     _COUDIERE B‚n‚dicte          La Gardienne þ2016
+: .o .     N     _MOUSSART Arnaud             Sur la Fed 86 þ2016
+: .o .     N     _GRENIER DROESCH Fran‡oise   L'Atelier du peintre þ2016
+: .o .     N     _CHEVALIER Florence          Bon week-end þ2016
+: .? .     N     _FERDINAND Lucien            Les Gueux du diable þ2016
+: .o .     N     _JOHNSON Sylvain             Racines assoiff‚es þ2013
+o Ivbn-IY     ?  2016.05 ..... ISBN 978-2-36892-290-3
+} noimg          _Vael Cat                    ?
+!--- 1,49 euros
+- .oY.     R     _OMBREMONT Manon E. d'       Nechta…nomicon - Episode troisiŠme [Nechta…nomicon] þ2016
+o Ivbn-RO     ?  2016.05 ..... ISBN 978-2-36892-292-7
+} noimg          _?                           ?
+!--- 0.99 euros
+- .oRF     N     _THOMAS C‚line               Le Prix du b‚lier [Skitswish - 1] þ2016
+o Ivbn-IV     ?  2016.05 ..... ISBN 978-2-36892-294-1
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oRF     N     _DERUSSY Julie               Alma, sorciŠre gaffeuse - ‚pisode 1 [Alma - 1] þ2016
+o Ivbn-IF     ?  2016.05 ..... ISBN 978-2-36892-295-8
+} noimg          _Tristan Sullenroses         ?
+!--- 5,99 euros
+- .oF.     R     _LEBLANC J.B.                L'Šre du Diable [Cassandre - 2] þ2014
+o Ivbn-IM     ?  2016.05 ..... ISBN 978-2-63892-296-5
+} noimg          _Kane Banway et Vael Cat     ?
+!--- 3,99 euros
+- .o .     R     _BANWAY Kane                 Le D‚voreur [La Trilogie du seuil - 2] þ2016
+o Ivbn-IS     ?  2016.06 ..... ISBN 978-2-63892-304-7
+} noimg          _Vael Cat                    ?
+!--- 5,99 euros
+- .oS.     R     _JOHNSON Sylvain             Un Dieu parmi les hommes þ2016
+o Ivbn-IF     ?  2016.06 ..... ISBN 978-2-36892-306-1
+} noimg          _Vael Cat                    ?
+!--- 3,99 euros
+- .oF.     R     _DELPORTE Emmanuel           Stalingrad þ2016
+o Ivbn-IY     ?  2016.06 ..... ISBN 978-2-36892-309-2
+} noimg          _Vael Cat                    ?
+!--- 1,49 euros
+- .oY.     N     _OMBREMONT Manon E. d'       Nechta…nomicon - Episode quatriŠme [Nechta…nomicon] þ2016
+o Ivbn-IF     ?  2016.06 ..... ISBN 978-2-36892-311-5
+} noimg          _Vael Cat                    ?
+!--- 3,99 euros
+- .oF.     R     _GYNSTERBLOM Fr‚d‚ric        Nema þ2016
+o Ivbn-IY     ?  2016.06 ..... ISBN 978-26892-312-2
+} noimg          _?                           ?
+!--- 4,99 euros
+- .oY.     R     _COMBELLES Anna              Magus Torrim [La Complainte d'Irwam - 2] þ2016
+o Ivbn-RO     ?  2016.07 ..... ISBN 978-2-36892-321-4
+} noimg          _?                           ?
+!--- 3,99 euros
+- .oFQ     R     _IZABEL Laure                Caladrius þ2016
+o Ivbn-IM     ?  2016.07 ..... ISBN 978-2-36892-322-1
+} noimg          _Philippe Lemaire            ?
+!--- Saison 1 - 5. - 1,49 euros
+- .oF.     N     _LIVYNS Fr‚d‚ric             La Plaintive [Les Nouvelles Aventures de Carnaki - 5][Carnacki] þ2016
+o Ivbn-EN     ?  2016.07 ..... ISBN 978-2-36892-324-5
+} noimg          _?                           ?
+!--- 5,99 euros
+- .oPF     R     _DARCOURT Olivier            Bon app‚tit Beaufond-la-Croix ! þ2016
+o IVRB-IY     ?  2016.09 19,00 ISBN 978-2-63892-325-2
+} noimg          _Ad‚la‹de Camp               ?
+!--- 328 pages
+- .oS.     R     _VAUJANY Didier de           Le Cr‚puscule des sirŠnes [Tryskellia - 1] þ2013
+o Ivbn-IY     ?  2016.08 ..... ISBN 978-2-63892-326-9
+} noimg          _Marc Dufosset               ?
+!--- 5,99 euros
+- .oY.     R     _BOUET C‚dric Michel         Le Pacte de Rhaban [Le Souffle d'Erya - 1] þ2016
+o Ivbn-IY     ?  2016.08 ..... ISBN 978-2-36892-327-6
+!--- 1,49 euros
+} noimg          _Vael Cat                    ?
+- .oY.     N     _OMBREMONT Manon E. d'       Nechta…nomicon - Episode cinquiŠme [Nechta…nomicon] þ2016
+o Ivbn-IY     ?  2016.08 ..... ISBN 978-2-36892-328-3
+} noimg          _Vael Cat                    ?
+!--- 1,49 euros
+- .oY.     N     _OMBREMONT Manon E. d'       Nechta…nomicon - Episode sixiŠme [Nechta…nomicon] þ2016
+o Ivbn-EA     ?  2016.08 ..... ISBN 978-2-63892-330-6
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _PARIS Alain                 Sur l'‚paule du grand dragon [Le Monde de la Terre Creuse - 3] þ1988
+o IVRB-IY     ?  2016.09 ..... ISBN 978-2-63892-331-3
+} noimg          _?                           ?
+!--- 366 pages
+- .oS.     R     _VAUJANY Didier de           Le Berceau de la Pierre-M‚moire [Tryskellia - 2] þ2015
+o IVRB-IY     ?  2016.09 ..... ISBN 978-2-63892-332-0
+} noimg          _Marc Dufosset               ?
+!--- 276 pages
+- .oY.     R     _BOUET C‚dric Michel         Le Pacte de Rhaban [Le Souffle d'Erya - 1] þ2016
+o IVRB-IF     ?  2016.11 ..... ISBN 978-2-36892-334-4
+} noimg          _Jean-Laurent Hansenne       ?
+!---  162 pages
+- .oF.     R     _GYNSTERBLOM Fr‚d‚ric        Help Me þ2016
+o IVRB-IY     ?  2016.09 ..... ISBN 978-2-63892-336-8
+} noimg          _Marc Dufosset               ?
+!--- 292 pages
+- .oY.     R     _BOUET C‚dric Michel         Chandhara [Le Souffle d'Erya - 2] þ2016
+o IVRB-IY     ?  2016.09 ..... ISBN 978-2-63892-337-5
+} noimg          _Marc Dufosset               ?
+!--- 322 pages
+- .oY.     R     _BOUET C‚dric Michel         L'H‚ritiŠre [Le Souffle d'Erya - 3] þ2016
+o IVRB-IM     ?  2016.09 11,00 ISBN 978-2-36892-338-2
+} noimg          _?                           ?
+!--- 114 pages
+- .o .     r     _THIBAUT C‚line              Et pourtant je l'aimais [En plein coeur du G‚vaudan - 1] þ2014
+o IVRB-IS     ?  2016.09 ..... ISBN 978-2-63892-340-5
+} noimg          _Vael Cat                    ?
+!---  400 pages
+- .oS.     R     _RENAUDIE Jean-Marc          H2NO þ2016
+o IVRB-IS     ?  2016.09 ..... ISBN 978-2-63892-341-2
+} noimg          _Vael Cat                    ?
+!---  226 pages
+- .o .     R     _PAGES Nicolas               Le RŠgne du m‚tal [Pearly Gates - 1] þ2016
+o IVRB-IY     ?  2016.09 ..... ISBN 978-2-36892-342-9
+} noimg          _Vael Cat                    ?
+!--- 216 pages
+- .oY.     RN    _OMBREMONT Manon E. d'       Nechta…nomicon - Saison 1 - Chtonya Verse [Nechta…nomicon] þ2016
+: .oY.     R     _OMBREMONT Manon E. d'       Nechta…nomicon - Saison 1 - Chtonya Verse [Nechta…nomicon] þ2016
+: .oY.     N     _OMBREMONT Manon E. d'       Quand Alek rencontre Nechta…n [Nechta…nomicon] þ2016
+o IVRB-JE     ?  2016.09 ..... ISBN 978-2-36892-343-6
+! Ivbn-JE     ?  2016.11 ..... ISBN 978-2-36892-374-0
+!--- 2,99 euros
+} noimg          _Vael Cat                    Vael Cat
+!--- 102 pages
+- .oY.     R     _TISSANDIER S‚bastien        Chupacabra … l'‚cole des vampires [Chupacabra] þ2016
+o Ivbn-IY     ?  2016.08 ..... ISBN 978-2-63892-345-0
+} noimg          _Vael Cat                    ?
+!--- 3,99 euros
+- .oY.     R     _PINEL Jean-Gil              Le Murmure des oubli‚s - Tome 1 þ2016
+o Ivbn-IY     ?  2016.09 ..... ISBN 978-2-36892-347-4
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+- .oY.     RN    _OMBREMONT Manon E. d'       Nechta…nomicon - Saison 1 - Chtonya Verse [Nechta…nomicon] þ2016
+: .oY.     R     _OMBREMONT Manon E. d'       Nechta…nomicon - Saison 1 - Chtonya Verse [Nechta…nomicon] þ2016
+: .oY.     N     _OMBREMONT Manon E. d'       Quand Alek rencontre Nechta…n [Nechta…nomicon] þ2016
+o Ivbn-IS     ?  2016.09 ..... ISBN 978-2-36892-348-1
+} noimg          _Thierry Cardinet            ?
+!--- 5,99 euros
+- .oS.     R     _HENNINGER Bernard           Les Sacrifi‚s þ2016
+o Ivbn-IY     ?  2016.09 ..... ISBN 978-2-63892-349-8
+} noimg          _Ad‚la‹de Camp               ?
+!--- 5,99 euros
+- .oS.     R     _VAUJANY Didier de           Le Cr‚puscule des sirŠnes [Tryskellia - 1] þ2013
+o Ivbn-IS     ?  2016.09 ..... ISBN 978-2-63892-350-4
+} noimg          _Dimitri Rastorgoueff        ?
+!--- 4,99 euros
+- .oS.     R     _ARCHAIMBAULT Jean-Michel    Seentha þ2009
+o IVRB-IS     ?  2016.09 ..... ISBN 978-2-36892-351-1
+} noimg          _Thierry Cardinet            ?
+!---  326 pages
+- .oS.     R     _HENNINGER Bernard           Les Sacrifi‚s þ2016
+o Ivbn-RO     ?  2016.09 ..... ISBN 978-2-36892-353-5
+} noimg          _?                           ?
+!--- 1,49 euros
+- .oRF     N     _THOMAS C‚line               Le Vol de la chauve-souris [Skitswish - 2] þ2016
+o Ivbn-IM     ?  2016.10 ..... ISBN 978-2-36892-354-2
+} noimg          _Vael Cat                    ?
+!--- 3,99 euros
+- .oS.     R     _BENOIST Renaud              Le Culte d'Ares [Le Cycle des Yukulutes - 2] þ2002
+o Ivbn-RO     ?  2016.10 ..... ISBN 978-2-36892-355-9
+} noimg          _?                           ?
+!--- 4,99 euros
+- .oY.     R     _COMBELLES Anna              Coeurs hybrides þ2014
+o Ivbn-IM     ?  2016.10 ..... ISBN 978-2-63892-356-6
+} noimg          _Vael Cat                    ?
+!--- 1,99 euros
+- .oF.     r     _THIBAUT C‚line              Le Manoir myst‚rieux þ2016
+o Ivbn-IV     ?  2016.10 ..... ISBN 978-2-36892-357-3
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oRF     N     _DERUSSY Julie               Alma, sorciŠre menteuse - ‚pisode 2 [Alma - 2] þ2016
+o Ivbn-IM     ?  2016.10 ..... ISBN 978-2-63892-358-0
+} noimg          _Florence Magnin             ?
+!--- 2,99 euros
+- .oY.     R     _DOURIAUX Hugues             Le L‚vrier de Varik [Les Chroniques de Vonia - 1] þ1989
+o Ivbn-IM     ?  2016.10 ..... ISBN 978-2-63892-359-7
+} noimg          _Florence Magnin             ?
+!--- 2,99 euros
+- .oY.     R     _DOURIAUX Hugues             La Soie rouge de Xanta [Les Chroniques de Vonia - 2] þ1990
+o IVRB-IM     ?  2016.11 ..... ISBN 978-2-63892-360-3
+} noimg          _Vael Cat                    ?
+!--- 80 pages
+- .oF.     r     _THIBAUT C‚line              Le Manoir myst‚rieux þ2016
+o IVRB-IM     ?  2016.11 ..... ISBN 978-2-36892-362-7
+} noimg          _Vael Cat                    ?
+!--- 220 pages
+- .oS.     R     _BENOIST Renaud              Le Culte d'Ares [Le Cycle des Yukulutes - 2] þ2002
+o Ivbn-RO     ?  2016.10 ..... ISBN 978-2-36892-363-4
+} noimg          _?                           ?
+!--- 4,99 euros
+- .oRF     R     _T. Lola                     Le Lien du sang [Le Lien du sang - 1] þ2011
+o Ivbn-RO     ?  2016.10 ..... ISBN 978-2-36892-365-8
+} noimg          _?                           ?
+!--- 0,99 euros
+- .oRF     N     _THOMAS C‚line               Quand vient le coyote [Skitswish - 3] þ2016
+o Ivbn-IM     ?  2016.10 ..... ISBN 978-2-36892-366-5
+} noimg          _Philippe Lemaire            ?
+!--- Saison 1 - 6.
+!--- 1,49 euros
+- .oF.     N     _LIVYNS Fr‚d‚ric             L'Envers [Les Nouvelles Aventures de Carnaki - 6][Carnacki] þ2016
+o Ivbn-IF     ?  2016.10 ..... ISBN 978-2-36892-367-2
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+- .oF.     R     _GYNSTERBLOM Fr‚d‚ric        Par-del… le gouffre des ‚toiles þ2017
+o Ivbn-IY     ?  2016.10 ..... ISBN 978-2-63892-368-9
+} noimg          _Marc Dufosset               ?
+!--- 5,99 euros
+- .oY.     R     _BOUET C‚dric Michel         Chandhara [Le Souffle d'Erya - 2] þ2016
+o Ivbn-ST     ?  2016.10 ..... ISBN 978-2-36892-369-6
+} noimg          _Vael Cat                    ?
+!--- 188 pages - 4,99 euros
+- .oS.     r     _BRIFFA J.E.                 Le D‚sert rouge þ2016
+o Ivbn-IM     ?  2016.11 ..... ISBN 978-2-36892-373-3
+}ivrebook112016_2 _Laurent Emonet              ?
+!--- 133 pages - 3,99 euros
+- .oF.     A7    *RONCHAUD Lilian             La Chasse volante - Volume 2 þ2016
+: .o .     p     _RONCHAUD Lilian             Pr‚face þ2016
+: .o .     N     _DERUSSY Julie               la Meute, la Biche et le Seigneur þ2016
+: .o .     N     _AVEZANCE Eric               La Harde de fer þ2016
+: .o .     N     _ANGEL Marie                 Dans l'ombre des os þ2016
+: .o .     N     _SKOFF Marco                 Des ailes aux pieds þ2016
+: .o .     N     _DELPORTE Emmanuel           Sauvages þ2016
+: .o .     N     _CHANET-MUNSCH Simone        Le Survivant þ2016
+: .o .     N     _CHARIER Elisabeth           H‚lŠne þ2016
+o Ivbn-RO     ?  2016.11 ..... ISBN 978-2-36892-376-4
+} noimg          _?                           ?
+!--- 5,99 euros
+- .oRF     R     _MELL 2.2                    Jeux d'ombre þ2016
+o Ivbn-RO     ?  2016.11 ..... ISBN 978-2-36892-377-1
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oRF     R     _EVE R.                      L'veil de la sorciŠre [Chasseuses de lune - 1] þ2016
+o Ivbn-EA     ?  2016.11 ..... ISBN 978-2-36892-378-8
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .o .     R     _DOURIAUX Hugues             Les Andro‹des du d‚sert [P.L.U.M. 66-50 - 2] þ1986
+o Ivbn-IM     ?  2016.11 ..... ISBN 978-2-36892-379-5
+} lib_i379       _Philippe Lemaire            ?
+!--- 4,99 euros
+- .oF.     N6    _LIVYNS Fr‚d‚ric             Les Nouvelles Aventures de Carnaki - Saison 1 - L'int‚grale [Les Nouvelles Aventures de Carnaki][Carnacki] þ2016
+: .oF.     N     _LIVYNS Fr‚d‚ric             La Chambre rouge [Les Nouvelles Aventures de Carnaki - 1][Carnacki] þ2015
+: .oF.     N     _LIVYNS Fr‚d‚ric             Le Placard qui chuchote [Les Nouvelles Aventures de Carnaki - 2][Carnacki] þ2015
+: .oF.     N     _LIVYNS Fr‚d‚ric             Ce qui murmure [Les Nouvelles Aventures de Carnaki - 3][Carnacki] þ2015
+: .oF.     N     _LIVYNS Fr‚d‚ric             L'cho de son ombre [Les Nouvelles Aventures de Carnaki - 4][Carnacki] þ2016
+: .oF.     N     _LIVYNS Fr‚d‚ric             La Plaintive [Les Nouvelles Aventures de Carnaki - 5][Carnacki] þ2016
+: .oF.     N     _LIVYNS Fr‚d‚ric             L'Envers [Les Nouvelles Aventures de Carnaki - 6][Carnacki] þ2016
+o IVRB-IM     ?  2016.12 13,00 ISBN 978-2-36892-380-1
+} noimg          _Philippe Lemaire            ?
+!--- 182  pages
+- .oF.     N6    _LIVYNS Fr‚d‚ric             Les Nouvelles Aventures de Carnaki - Saison 1 - L'int‚grale [Les Nouvelles Aventures de Carnaki][Carnacki] þ2016
+: .oF.     N     _LIVYNS Fr‚d‚ric             La Chambre rouge [Les Nouvelles Aventures de Carnaki - 1][Carnacki] þ2015
+: .oF.     N     _LIVYNS Fr‚d‚ric             Le Placard qui chuchote [Les Nouvelles Aventures de Carnaki - 2][Carnacki] þ2015
+: .oF.     N     _LIVYNS Fr‚d‚ric             Ce qui murmure [Les Nouvelles Aventures de Carnaki - 3][Carnacki] þ2015
+: .oF.     N     _LIVYNS Fr‚d‚ric             L'cho de son ombre [Les Nouvelles Aventures de Carnaki - 4][Carnacki] þ2016
+: .oF.     N     _LIVYNS Fr‚d‚ric             La Plaintive [Les Nouvelles Aventures de Carnaki - 5][Carnacki] þ2016
+: .oF.     N     _LIVYNS Fr‚d‚ric             L'Envers [Les Nouvelles Aventures de Carnaki - 6][Carnacki] þ2016
+o Ivbn-IF     ?  2016.11 ..... ISBN 978-2-36892-381-8
+} lib_lvc2       _Vael Cat                    ?
+- .oF.    iA13   ****                         Les Vilains Contes - #2 þ2016
+: .o .     N     _LYS Corine M.               Block 11 þ2014
+: .o .     N     _PHILIPPE Martine            Ad‚la‹de þ2016
+: .o .     N     _CANCEREUGENE                Les 101 siamois þ2016
+: .o .     N     _MONTAGNIER Fabien           L'OnirosphŠre þ2016
+: .o .     N     _RANZINI Marielle            El‚onore l'aveugle þ2016
+: .o .     N     _ARNOUX Sylvie               Soi(e)-mˆme þ2016
+: .o .     N     _BE Henri                    Trois filles de la nuit þ2016
+: .o .     N     _GRENIER DROESCH Fran‡oise   Rouge-Coeur þ2016
+: .o .     N     _DECONINCK Marine            Nouvelles meurtriŠres þ2016
+: .o .     N     _LENDEMAINE Lo‹c             Semenia þ2016
+: .o .     N     _GUERVENO Kristell           Intrusion þ2016
+: .o .     N     _PRUDHOMME-ASNAR S‚bastien   Le Souffleur de bruit þ2016
+: .o .     N     _JOHNSON Sylvain             La Plage þ2016
+: .o .     N     _CHAUMETTE Jean-Christophe   Les Contr“leurs þ2016
+o Ivbn-IY     ?  2016.11 ..... ISBN 978-2-63892-382-5
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+- .oF.     R     _BLANCHOT Paul               Mortis þ2016
+o Ivbn-IM     ?  2016.10 ..... ISBN 978-2-63892-393-1
+} noimg          _Marc Dufosset               ?
+!--- 5,99 euros
+- .oY.     R     _GOURBEAULT-PETRUS Danielle  Shan des La‹n-Ry [Le Cycle des Chem-Ry - 1] þ2016
+o Ivbn-RO     ?  2016.12 ..... ISBN 978-2-63892-394-8
+} noimg          _?                           ?
+!--- 4,99 euros
+- .oF.     R     _MALAKH Ang‚lique            L'closion des ‚lus [La Proph‚tie de l'Union] þ2016
+o Ivbn-IS     ?  2016.12 ..... ISBN 978-2-63892-402-0
+} noimg          _Thierry Cardinet            ?
+!--- 34 pages
+!--- Prologue au roman "Les Sacrifi‚s"
+- .oS.     N     _HENNINGER Bernard           Mon coeur pleure L‚da þ2014
+o Ivbn-IS     ?  2016.12 ..... ISBN 978-2-63892-404-4
+} noimg          _Vael Cat                    ?
+!--- 5,99 euros
+- .oS.     R     _VIALLET Bernard             Bienvenue sur D‚liciosa þ2011
+!------------------------
+!=== 2017
+!------------------------
+o IVRB-IF     ?  2017.04 ..... ISBN 978-2-36892-335-1
+} noimg          _Vael Cat                    ?
+!--- 182 pages
+- .oF.     R     _DELPORTE Emmanuel           Stalingrad þ2016
+o Ivbn-EA     ?  2017.01 ..... ISBN 978-2-36892-421-1
+} lib_i421       _Vael Cat                    ?
+!--- 3,99 euros
+- .oS.    kR2    _BAMEUL Pierre               La Saga d'Anne Marsson - Le Choix des destins [Pour nourrir le Soleil - 1/2] þ2017
+: .o .     R     _BAMEUL Pierre               La Saga d'Anne Marsson [Pour nourrir le Soleil - 1] þ1985
+: .o .     R     _BAMEUL Pierre               Le Choix des destins [Pour nourrir le Soleil - 2] þ1986
+o Ivbn-IS     ?  2017.01 ..... ISBN 978-2-63892-422-8
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+- .oS.     R     _VAST Patrick S.             Processus R [Rovolution - 1] þ2017
+o Ivbn-IM     ?  2017.01 ..... ISBN 978-2-63892-424-2
+} lib_i424       _?                           ?
+!--- 2,99 euros
+- .oI.    iN10   _GRANT Lobo                  Les Contr‚es de l'imaginaire þ2017
+: .o .     N     _GRANT Lobo                  L'Union des 5 þ2017
+: .o .     N     _GRANT Lobo                  GOB8 þ2017
+: .o .     N     _GRANT Lobo                  Premier ƒge þ2017
+: .o .     N     _GRANT Lobo                  Duel nocturne þ2017
+: .o .     N     _GRANT Lobo                  NeuviŠme Barber þ2017
+o Ivbn-IF     ?  2017.01 ..... ISBN 978-2-36892-430-3
+} noimg          _Vael Cat                    ?
+!--- 5,99 euros
+- .oF.     R     _LEBLANC J.B.                La Porte [Cassandre - 3] þ2017
+o IVRB-IY     ?  2017.03 ..... ISBN 979-2-36892-433-4
+} noimg          _?                           ?
+!--- 304 pages
+- .oY.     R     _VAUJANY Didier de           Azzarielle et la fille sans nom [Tryskellia - 3] þ2017
+o Ivbn-RO     ?  2017.01 ..... ISBN 978-2-36892-434-1
+} noimg          _Callie J. Deroy             ?
+!--- 2,99 euros
+- .oF.     r     _DELEFOSSE Marie R.          Entre ciel et terre þ2017
+o Ivbn-IY     ?  2017.02 ..... ISBN 978-2-63892-436-5
+} noimg          _Marc Dufosset               ?
+!--- 5,99 euros
+- .oY.     R     _BOUET C‚dric Michel         L'H‚ritiŠre [Le Souffle d'Erya - 3] þ2016
+o Ivbn-IS     ?  2017.01 ..... ISBN 978-2-63892-437-2
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+- .oS.     R     _MARTIN Ellen Raven          Project Viper - Rising þ2017
+o Ivbn-NL     ?  2017.02 ..... ISBN 978-2-36892-438-9
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oF.     r     _ALLIES-NES DE BOOKERVILLE   Collapsus Temporis þ2017
+o Ivbn-RO     ?  2017.02 ..... ISBN 978-2-36892-440-2
+} noimg          _?                           ?
+!--- 4,99 euros
+- .oRF     R     _ROSE S.C.                   Elijah [La Meute des SixLunes - 1] þ2017
+o Ivbn-RO     ?  2017.02 ..... ISBN 978-2-36892-441-9
+} lib_i441       _?                           ?
+!--- 3,99 euros
+- .oRF     N5    _ROSE S.C.                   La Meute des SixLunes - Recueil [La Meute des SixLunes] þ2017
+: .o .     N     _ROSE S.C.                   Premier repas en amoureux [La Meute des SixLunes] þ2017
+: .o .     N     _ROSE S.C.                   Entre chien et chat [La Meute des SixLunes] þ2017
+: .o .     N     _ROSE S.C.                   Strip Scrabble [La Meute des SixLunes] þ2017
+: .o .     N     _ROSE S.C.                   Chasse au Transform‚ [La Meute des SixLunes] þ2017
+: .o .     N     _ROSE S.C.                   Querelle chez les Hunter [La Meute des SixLunes] þ2017
+o Ivbn-RO     ?  2017.02 ..... ISBN 978-2-36892-442-6
+} noimg          _?                           ?
+!--- 5,99 euros
+- .oF.     R     _T. Lola                     L'Aboutissement [Mes nuits dans ses t‚nŠbres - 2] þ2017
+o Ivbn-IF     ?  2017.02 ..... ISBN 978-2-36892-444-0
+} noimg          _Genkis Genkkis              ?
+!--- 3,99 euros
+- .oF.     R     _CHAUMETTE Jean-Christophe   Les 7 saisons du malin þ2017
+o Ivbn-NL     ?  2017.03 ..... ISBN 978-2-36892-445-7
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oFQ     R     _MARK Tony                   L'Autre Frankenstein þ2017
+o Ivbn-RO     ?  2017.03 ..... ISBN 978-2-36892-446-4
+} noimg          _Callie J. Deroy             ?
+!--- 4,99 euros
+!--- Cette int‚grale r‚unit pour la premiŠre fois en num‚rique l'ensemble des textes du cycle de Claire DeLille, y compris la nouvelle Sex Appeal.
+- .oRF     R     _DELILLE Claire              Ceux qui attirent - L'int‚grale þ2017
+o Ivbn-IY     ?  2017.03 ..... ISBN 979-2-36892-447-1
+} noimg          _L‚o Deshurlevent            ?
+!--- 5,99 euros
+- .oY.     R     _DELORAINE Ludovic           Le Clan Fimbulsson [Les H‚ritiers des dieux du Nord - 3] þ2011
+o Ivbn-IM     ?  2017.04 ..... ISBN 978-2-36892-450-1
+} lib_i450       _Vael Cat                    ?
+!--- 7,99 euros
+- .oS.     R2    _ROSATI Christophe           Ouroboros - L'int‚grale [Ouroboros - 1/2] þ2017
+: .oS.     R     _ROSATI Christophe           Clara [Ouroboros - 1] þ2015
+: .oS.     R     _ROSATI Christophe           Raph [Ouroboros - 2] þ2015
+: .oS.     N     _ROSATI Christophe           Humanit‚(s) þ2015
+o Ivbn-ST     ?  2017.04 ..... ISBN 978-2-36892-451-8
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+!--- Reprend et complŠte les nouvelles pr‚c‚demment parues.
+!--- "Prologue : le d‚voreur de rˆves " - "Chapitre 1 : Le Secret de la bˆte d'Angles" ...
+- .oS.     R     _TISSANDIER S‚bastien        Le R‚dempteur - Livre 1 [Le R‚dempteur] þ2015
+o IVRB-IM     ?  2017.03 ..... ISBN 978-2-63892-453-2
+} noimg          _Marc Dufosset               ?
+!--- 326 pages
+- .oY.     R     _GOURBEAULT-PETRUS Danielle  Shan des La‹n-Ry [Le Cycle des Chem-Ry - 1] þ2016
+o IVRB-ST     ?  2017.05 ..... ISBN 978-2-36892-454-9
+} noimg          _Vael Cat                    ?
+!---    326 pages
+- .oS.     R     _TISSANDIER S‚bastien        Le R‚dempteur - Livre 1 [Le R‚dempteur] þ2015
+o IVRB-PO     ?  2017.06 ..... ISBN 978-2-36892-455-6
+} lib_i455       _Vael Cat                    ?
+!--- 94 pages
+- .oF.     N8    _RANZINI Marielle            Destins obscurs þ2017
+: .o .     N     _RANZINI Marielle            Cache-cache þ2017
+: .o .     N     _RANZINI Marielle            El‚onore l'aveugle þ2016
+: .o .     N     _RANZINI Marielle            A chacun son enfer þ2017
+: .o .     N     _RANZINI Marielle            Une histoire de naphtaline þ2017
+: .o .     N     _RANZINI Marielle            Zoom þ2017
+: .o .     N     _RANZINI Marielle            Extraction profane þ2017
+: .o .     N     _RANZINI Marielle            Funeste p‚nitence þ2017
+: .o .     N     _RANZINI Marielle            Une ƒme grise þ2017
+o Ivbn-IF     ?  2017.04 ..... ISBN 978-2-36892-456-3
+} lib_i456       _?                           ?
+- .oF.     N8    _RANZINI Marielle            Destins obscurs þ2017
+: .o .     N     _RANZINI Marielle            Cache-cache þ2017
+: .o .     N     _RANZINI Marielle            El‚onore l'aveugle þ2016
+: .o .     N     _RANZINI Marielle            A chacun son enfer þ2017
+: .o .     N     _RANZINI Marielle            Une histoire de naphtaline þ2017
+: .o .     N     _RANZINI Marielle            Zoom þ2017
+: .o .     N     _RANZINI Marielle            Extraction profane þ2017
+: .o .     N     _RANZINI Marielle            Funeste p‚nitence þ2017
+: .o .     N     _RANZINI Marielle            Une ƒme grise þ2017
+o Ivbn-RO     ?  2017.10 ..... ISBN 978-2-36892-457-0
+} noimg          _?                           ?
+!--- 4,99 euros
+- .oRF     R     _NIKITA L.N.                 Incendie [Le Gardien - 1] þ2017
+o Ivbn-IM     ?  2017.04 ..... ISBN 978-2-63892-458-7
+} noimg          _Antera                      ?
+!--- 3,99 euros
+- .oF.     R     _OMBREMONT Manon E. d'       La Chienne de l'ombre [L‚gendes Fa‰s - 1] þ2017
+o Ivbn-IM     ?  2017.04 ..... ISBN 978-2-63892-459-4
+} noimg          _Antera                      ?
+!--- 4,99 euros
+- .oF.     R     _OMBREMONT Manon E. d'       Le D‚chu [L‚gendes Fa‰s - 2] þ2017
+o Ivbn-EC     ?  2017.05 ..... ISBN 978-2-36892-462-4
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .oS.     R     _GUIEU Jimmy                 La Spirale du temps [Jean Kariven - 4] þ1954
+o Ivbn-EA     ?  2017.05 ..... ISBN 978-2-36892-463-1
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _LEGAY Piet                  Le Dernier T‚moin [Les Dossiers maudits - 3] þ1987
+o Ivbn-EA     ?  2017.05 ..... ISBN 978-2-36892-464-8
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _FACON Roger                 Par le sabre des Zinjas þ1986
+o Ivbn-EA     ?  2017.05 ..... ISBN 978-2-36892-465-5
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _DOURIAUX Hugues             Les D‚moniaques de Kallioh [Les D‚moniaques de Kallioh - 1] þ1984
+o Ivbn-IV     ?  2017.05 ..... ISBN 978-2-36892-466-2
+} lib_i466       _?                           ?
+!--- 1,99 euros
+- .oMQ    iN7    _DERUSSY Julie               Charmes - Les belles et la bˆte þ2017
+: .o .     N     _DERUSSY Julie               Le joueur de fl–te de ces dames þ2017
+: .o .     N     _DERUSSY Julie               Le Nom myst‚rieux þ2017
+o IVRB-PO     ?  2017.06 ..... ISBN 978-2-36892-469-3
+} noimg          _?                           ?
+!--- 222 pages
+- .oY.     R     _COMBELLES Anna              Coeurs hybrides þ2014
+o IVRB-PO     ?  2017.11 ..... ISBN 978-2-36892-470-9
+} noimg          _?                           ?
+!--- 122 pages
+- .oF.     r     _DELEFOSSE Marie R.          Entre ciel et terre þ2017
+o Ivbn-IM     ?  2017.05 ..... ISBN 978-2-36892-471-6
+} noimg          _Vael Cat                    ?
+!--- 1,99 euros
+- .o .     r     _THIBAUT C‚line              La Mutation [En plein coeur du G‚vaudan - 2] þ2017
+o Ivbn-IY     ?  2017.06 ..... ISBN 978-2-63892-472-3
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+- .oY.     R     _PINEL Jean-Gil              Le Murmure des oubli‚s - Tome 2 þ2017
+o IVRB-RO     ?  2017.09 ..... ISBN 978-2-36892-485-3
+! Ivbn-RO     ?  2017.06 ..... ISBN 978-2-36892-473-0
+!--- 4,99 euros
+} noimg          _Vael Cat                    ?
+!--- 176 pages
+- .oY.     R     _AMA COURTOIS C‚cile         Nordie [Guilendria - 1] þ2017
+o Ivbn-EC     ?  2017.06 ..... ISBN 978-2-36892-474-7
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _LE MAY J. & D.              La Chasse … l'impond‚rable þ1966
+o Ivbn-IF     ?  2017.06 ..... ISBN 978-2-36892-475-4
+} lib_i475       _?                           ?
+- .oF.     N6    _HONSPACQ Chris B.           Les monstres sont lach‚s þ2017
+: .o .     N     _HONSPACQ Chris B.           Au clair de la Lune þ2016
+: .o .     N     _HONSPACQ Chris B.           D‚g‚n‚rescence þ2017
+: .o .     N     _HONSPACQ Chris B.           Dernier d‚lai þ2017
+: .o .     N     _HONSPACQ Chris B.           Chronique d'un lyc‚en presque ordinaire þ2017
+: .o .     N     _HONSPACQ Chris B.           Contre nature þ2017
+: .o .     N     _HONSPACQ Chris B.           Le Go–t du sang þ2017
+o Ivbn-IF     ?  2017.06 ..... ISBN 978-2-36892-476-1
+} noimg          _Vael Cat                    ?
+- .oF.     R     _DUPILLE Ga‰lle              Les Traducteurs de rˆves þ2017
+o Ivbn-IS     ?  2017.06 ..... ISBN 978-2-36892-477-8
+} noimg          _Vael Cat                    ?
+- .oS.     r     _GAPDY J.C.                  1 et 1 font 11 þ2017
+o Ivbn-IF     ?  2017.07 ..... ISBN 978-2-36892-478-5
+} noimg          _David Lecossu               ?
+!--- 5,99 euros
+- .oF.     R     _LE SAUSSE Patricia          Le Jarwal þ2017
+o Ivbn-EC     ?  2017.06 ..... ISBN 978-2-36892-479-2
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .oS.     R     _BRUSS B.R.                  S.O.S. soucoupes þ1954
+o IVRB-EN     ?  2017.07 ..... ISBN 978-2-36892-480-8
+} noimg          _Vael Cat                    ?
+!--- 322 pages
+- .oPT     R     _RIEUBON Fanny               Dans une autre vie peut-ˆtre þ2017
+o Ivbn-IS     ?  2017.07 ..... ISBN 978-2-36892-484-6
+} noimg          _Vael Cat                    ?
+!--- 1,99 euros
+- .oS.     r     _HARAS Nathalie              Phase 5 þ2017
+o IVRB-CC     ?  2017.09 ..... ISBN 978-2-36892-486-0
+} livrebook072017_1 _Vael Cat                    ?
+!--- 252 pages
+- .oF.    kA16   ****                         Calling Cthulhu - Volume II þ2016
+: .o .   3 N     _MAGALHAES Catherine         La BibliothŠque inond‚e þ2016
+: .o .  15 N     _COLSON Eric                 Ne traŒnez pas en chemin þ2016
+: .o .  31 N     _DEL SOCORRO Jean-Laurent    Le Reine de pourpre vˆtue þ2016
+: .o .  47 N     _GAUTIER Jeff                Le Legs [Le Legs - 1] þ2016
+: .o .  69 N     _GAUTIER Jeff                Le Rivage interdit [Le Legs - 2] þ2016
+: .o .  87 N     _GAUTIER Jeff                Celui qui hurlait dans les t‚nŠbres [Le Legs - 3] þ2016
+: .o . 115 N     _VENETZA Dean                Par-del… R'lyeh þ2016
+: .o . 121 N     _LIVYNS Fr‚d‚ric             Le Puits þ2016
+: .o . 127 N     _BUISSON-DELANDRE Virginie   La C‚r‚monie þ2016
+: .o . 139 N     _CHEVIN Barnett              Mission GenŠse þ2016
+: .o . 155 N     _CHEVIN Barnett              Les Enfants de Cthulhu þ2016
+: .o . 167 N     _VAUJANY Didier de           Faille þ2016
+: .o . 189 N     _MESOT Baptiste              Azatoth þ2016
+: .o . 193 N     _BRACCHI Erwan               Le Cit‚ d'Irem þ2016
+: .o . 201 N     _MACHOROWSKI Marthe          Une trŠs longue nuit þ2016
+: .o . 235 N     _STEELWOOD John              La Voix þ2016
+o IVRB-IM     ?  2017.09 ..... ISBN 978-2-36892-487-7
+} livrebook092017_3 _Vael Cat                    ?
+!--- 372 pages
+- .oS.     R2    _ROSATI Christophe           Ouroboros - L'int‚grale [Ouroboros - 1/2] þ2017
+: .oS.     R     _ROSATI Christophe           Clara [Ouroboros - 1] þ2015
+: .oS.     R     _ROSATI Christophe           Raph [Ouroboros - 2] þ2015
+: .oS.     N     _ROSATI Christophe           Humanit‚(s) þ2015
+o Ivbn-IM     ?  2017.08 ..... ISBN 978-2-36892-488-4
+} noimg          _Marc Dufosset               ?
+!--- 5,99 euros
+- .oF.     R     _GOURBEAULT-PETRUS Danielle  Histoire de Lyr-Wa‚ [Le Cycle des Chem-Ry - 2] þ2017
+o IVRB-IF     ?  2017.09 ..... ISBN 978-2-36892-490-7
+} noimg          _David Lecossu               ?
+!--- 274 pages
+- .oF.     R     _LE SAUSSE Patricia          Le Jarwal þ2017
+o IVRB-IM     ?  2017.09 ..... ISBN 978-2-36892-491-4
+} noimg          _Marc Dufosset               ?
+!--- 276 pages
+- .oF.     R     _GOURBEAULT-PETRUS Danielle  Histoire de Lyr-Wa‚ [Le Cycle des Chem-Ry - 2] þ2017
+o Ivbn-IY     ?  2017.10 ..... ISBN 978-2-36892-493-8
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+- .oY.     R     _OMBREMONT Manon E. d'       Nechta…nomicon - Saison 2 [Nechta…nomicon] þ2017
+o IVRB-IY     ?  2017.09 ..... ISBN 978-2-36892-494-5
+} noimg          _Vael Cat                    ?
+!--- 188 pages
+- .oY.     R     _OMBREMONT Manon E. d'       Nechta…nomicon - Saison 2 [Nechta…nomicon] þ2017
+o IVRB-JE     ?  2017.09 ..... ISBN 978-2-36892-495-2
+} noimg          _Vael Cat                    Vael Cat
+!--- 98 pages
+- .oY.     R     _TISSANDIER S‚bastien        Chupacabra et la quenotte cass‚e [Chupacabra] þ2017
+o IVRB-IM     ?  2017.09 ..... ISBN 978-2-36892-496-9
+} noimg          _?                           ?
+!--- 190 pages
+- .oY.     R     _GOAZ Philippe               Les Aventures de Zordar - La suite þ2017
+o IVRB-PO     ?  2017.09 ..... ISBN 978-2-36892-497-6
+} noimg          _Antera                      ?
+!--- 228 pages
+- .oF.     R     _OMBREMONT Manon E. d'       La Chienne de l'ombre [L‚gendes Fa‰s - 1] þ2017
+o IVRB-IF     ?  2017.09 ..... ISBN 978-2-36892-498-3
+} noimg          _Vael Cat                    ?
+!--- 224 pages
+- .oF.     R     _GYNSTERBLOM Fr‚d‚ric        Par-del… le gouffre des ‚toiles þ2016
+o IVRB-NL     ?  2017.09 ..... ISBN 978-2-36892-499-0
+} noimg          _?                           ?
+!--- 70 pages
+- .oF.     r     _ALLIES-NES DE BOOKERVILLE   Collapsus Temporis þ2017
+o IVRB-PO     ?  2017.09 ..... ISBN 978-2-36892-500-3
+} noimg          _Antera                      ?
+!--- 274 pages
+- .oF.     R     _OMBREMONT Manon E. d'       Le D‚chu [L‚gendes Fa‰s - 2] þ2017
+o IVRB-IF     ?  2017.10 ..... ISBN 978-2-36892-501-0
+} noimg          _David Lecossu               ?
+!--- 310 pages
+- .oF.     R     _LE SAUSSE Patricia          Le Miskarel þ2017
+o IVRB-IM     ?  2017.11 ..... ISBN 978-2-36892-503-4
+} noimg          _Laurent Emonet              ?
+!--- 345 pages - 15,00 euros
+- .oPF     R     _IZABEL Laure                OPJ 1 - Le Centre þ2014
+o Ivbn-RO     ?  2017.10 ..... ISBN 978-2-36892-504-1
+} noimg          _?                           ?
+!--- 4,99 euros
+- .oRF     R     _NIKITA L.N.                 Tsunami [Le Gardien - 2] þ2017
+o Ivbn-DW     ?  2017.10 ..... ISBN 978-2-36892-505-8
+} noimg          _?                           ?
+!--- 4,99 euros
+- .oRF     R     _GIFFAUT Vanessa             Pleine Lune [Pleine Lune - 1] þ2017
+o IVRB-PO     ?  2017.11 ..... ISBN 978-2-36892-506-5
+} noimg          _?                           ?
+!--- 86 pages
+- .o .     r     _DESVAUX Sylvain             La R‚demption de Tessa þ2014
+!------------------------
+!=== 2018
+!------------------------
+o Ivbn-EC     ?  2018.01 ..... ISBN 978-2-36892-534-8
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .oS.     R     _GUIEU Jimmy                 Le Monde oubli‚ [Jean Kariven - 5] þ1954
+o Ivbn-IS     ?  2018.01 ..... ISBN 978-2-36892-535-5
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+- .oS.     R     _QUERO Yann                  Les Bulles du diable þ2018
+o Ivbn-EC     ?  2018.01 ..... ISBN 978-2-36892-536-2
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .oS.     R     _LE MAY J. & D.              L'Oenips d'Orlon þ1967
+o Ivbn-IF     ?  2018.01 ..... ISBN 978-2-36892-537-9
+} noimg          _David Lecossu               ?
+!--- 5,99 euros
+- .oF.     R     _LE SAUSSE Patricia          Le Miskarel þ2017
+o Ivbn-EC     ?  2018.01 ..... ISBN 978-2-36892-538-6
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .oS.     R     _BRUSS B.R.                  La Guerre des soucoupes þ1954
+o Ivbn-EC     ?  2018.01 ..... ISBN 978-2-36892-539-3
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .oS.     R     _LE MAY J. & D.              Les Drogfans de Gersande þ1967
+o Ivbn-IY     ?  2018.01 ..... ISBN 978-2-36892-543-0
+} lib_i543       _Vael Cat                    ?
+!--- 3,99 euros
+- .oYF     A7    ****                         De magie et d'ombres þ2018
+: .o .     N     _OMBREMONT Manon E. d'       Hess„ þ2018
+: .o .     N     _DELPORTE Emmanuel           La L‚gende du loup rouge þ2018
+: .o .     N     _AMA COURTOIS C‚cile         Le Goule au bois dormant þ2018
+: .o .     N     _DUPILLE Ga‰lle              Les Voleurs d'ƒmes þ2018
+: .o .     N     _DESVAUX Sylvain             Le Mur de jade þ2018
+: .o .     N     _N.R. Alex                   La Vengeance de Zagan þ2018
+: .o .     N     _DEROY Callie J.             Le RŠgne de D‚l‚ora þ2015
+o Ivbn-IS     ?  2018.01 ..... ISBN 978-2-36892-544-7
+} noimg          _Vael Cat                    ?
+!--- 4,99 euros
+- .oS.     R     _SAO Aboubakri               Ultimate Terra Nova - Tome 1 þ2018
+o Ivbn-EA     ?  2018.01 ..... ISBN 978-2-36892-545-4
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .o .     R     _LEGAY Piet                  Cette v‚rit‚ qui tue [Les Dossiers maudits - 4] þ1987
+o Ivbn-EA     ?  2018.01 ..... ISBN 978-2-36892-546-1
+} noimg          _?                           ?
+!--- 2,99 euros
+- .o .     R     _DOURIAUX Hugues             Le Chƒteau des vents infernaux [Les D‚moniaques de Kallioh - 2] þ1985
+o Ivbn-IC     ?  2018.01 ..... ISBN 978-2-36892-547-8
+} noimg          _?                           ?
+!--- 1,49 euros
+- .oS.     N     _ESSARD Manuel               Du sable, rien que du sable þ2018
+o Ivbn-CC     ?  2018.01 ..... ISBN 978-2-36892-548-5
+} lib_i548       _Vael Cat                    ?
+!--- 3,99 euros
+- .oF.     A8    *PAGES Nicolas               Calling Cthulhu - Volume III þ2018
+: .o .     N     _GERNIER Jean-Michel         Dieu þ2018
+: .o .     N     _GRENIER DROESCH Fran‡oise   R‚veil mortel þ2016
+: .o .     N     _SIRE Jean-Marc              L'nigme du manoir Wellington þ2018
+: .o .     N     _BILLOT Romain               Le Sentier de la ChŠvre Noire þ2018
+: .o .     N     _NETSCHAIEV Faust            L'H‚ritier þ2018
+: .o .     N     _NETSCHAIEV Faust            Le Copiste þ2018
+: .o .     N     _O'MEHER Terry               HP, une lumiŠre dans la nuit þ2018
+: .o .     N     _PAGES Nicolas               Krakatoa Azathoth Fan Club þ2018
+: .o .     a     _MOUSSART Arnaud             Lovecraft : ph‚nomŠne (contre) culturel þ2018
+o Ivbn-EA     ?  2018.01 ..... ISBN 978-2-36892-550-8
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .o .     R     _LEGAY Piet                  Survival [Les Dossiers maudits - 5] þ1988
+o Ivbn-EC     ?  2018.02 ..... ISBN 978-2-36892-551-5
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .oS.     R     _BRUSS B.R.                  Rideau magn‚tique þ1956
+o Ivbn-EA     ?  2018.02 ..... ISBN 978-2-36892-553-9
+} noimg          _?                           ?
+!--- 2,99 euros
+!--- Indiqu‚ Le Commandeur 3
+- .oF.     R     _HONAKER Michel              King of ice [Le Commandeur - 4] þ1990
+o Ivbn-EA     ?  2018.02 ..... ISBN 978-2-36892-554-6
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _PARIS Alain                 Les H‚r‚tiques du Vril [Le Monde de la Terre Creuse - 4] þ1988
+o Ivbn-IC     ?  2018.02 ..... ISBN 978-2-36892-555-3
+} noimg          _?                           ?
+!--- 1,49 euros
+- .o .     N     _SIROT Fr‚d‚ric              Le Messager de Linor þ2018
+o Ivbn-EC     ?  2018.02 ..... ISBN 978-2-36892-557-7
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _GUIEU Jimmy                 L'Homme de l'espace [Jean Kariven - 6] þ1954
+o Ivbn-EC     ?  2018.03 ..... ISBN 978-2-36892-558-4
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .oS.     R     _BRUSS B.R.                  Terre... siŠcle 24 þ1959
+o Ivbn-IF     ?  2018.01 ..... ISBN 978-2-36892-560-7
+} noimg          _?                           ?
+!--- 5,99 euros
+- .oY.     R     _FICHEZ Matthieu             Le Rite de Lumness [Terre de Sendre - 1] þ2018
+o Ivbn-IC     ?  2018.02 ..... ISBN 978-2-36892-561-4
+} noimg          _?                           ?
+!--- 0,99 euros
+- .oS.     N     _LIGNER Meddy                Les Maux pour le dire þ2018
+o Ivbn-IC     ?  2018.02 ..... ISBN 978-2-36892-562-1
+} noimg          _?                           ?
+!--- 0,99 euros
+- .oS.     N     _BEUQUE Ange                 L'Alter ‚gocentrique þ2018
+o IVRB-IY     ?  2018.06 ..... ISBN 978-2-36892-597-3
+! Ivbn-IY     ?  2018.03 ..... ISBN 978-2-36892-566-9
+!--- 5,99 euros
+} noimg          _Marc Dufosset               ?
+!--- 300 pages - 16 euros
+- .oY.     R     _VIGNAL Nathalie             Sƒar [Les MaŒtres de pierre - 1] þ2018
+?o Ivbn-EW     ?  2018.03 ..... ISBN 978-2-36892-567-6
+?} noimg          _?                           ?
+?!--- 28 pages - 0,99 euros
+?!--- TBD Genre, western pur ou avec fantastique ?
+?- .? .     N     _DUB Samantha                La Carcasse þ2018
+o Ivbn-IF     ?  2018.03 ..... ISBN 978-2-36892-568-3
+} noimg          _Vael Cat                    ?
+!--- 3,99 euros
+- .oF.     R     _BEAUSSART Elodie            Melankholia þ2018
+o Ivbn-ST     ?  2018.03 ..... ISBN 978-2-36892-569-0
+} livrebook032018_5 _?                           ?
+!--- 3,99 euros
+- .oS.    iAx    *TISSANDIER S‚bastien        Bˆtes m‚caniques þ2018
+: .o .     N     _RENAULT Jean-Claude         L'Envol de Moby Dick þ2018
+: .o .     N     _CALVIAC Audrey              Fatima, la petite souris þ2018
+: .o .     N     _REY Fabien                  Phosphore þ2018
+!: .o .     N     _MICHEL St‚phane             Le Parc de la honte þ2018
+!: .o .     N     _MARTEL A.D.                 De rouages et de sang þ2018
+o Ivbn-EC     ?  2018.03 ..... ISBN 978-2-36892-571-3
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _GUIEU Jimmy                 Op‚ration Aphrodite [Jean Kariven - 7] þ1955
+o Ivbn-EA     ?  2018.03 ..... ISBN 978-2-36892-572-0
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _LEGAY Piet                  L'Enfer des Homosimiens [Les Dossiers maudits - 6] þ1988
+o Ivbn-IF     ?  2018.03 ..... ISBN 978-2-36892-574-4
+} noimg          _?                           ?
+!--- 3,99 euros
+- .oF.     R     _JOHNSON Sylvain             L'Esprit des glaces þ2018
+o IVRB-IY     ?  2018.04 ..... ISBN 978-2-36892-576-8
+} noimg          _?                           ?
+!--- 236 pages
+- .oY.     R     _COMBELLES Anna              Magus Torrim [La Complainte d'Irwam - 2] þ2016
+o Ivbn-IS     ?  2018.03 ..... ISBN 978-2-36892-578-2
+} noimg          _David Lecossu               ?
+!--- 4,99 euros
+- .oF.     R     _LANIECE Anne                Dans l'oeil de la tortue þ2011
+o Ivbn-EP     ?  2018.03 ..... ISBN 978-2-36892-579-9
+} lib_i579       _?                           ?
+!--- 2,99 euros
+- .oS.    iN4    _PHILLIPS Rog                Un rat dans le crƒne et autres nouvelles þ2017
+: .oS.     p     _NOLANE Richard D.           Pr‚face þ2017
+: .oS.     N     _PHILLIPS Rog                Un rat dans le crƒne þ1958 Rat in the Skull þTrad. NOLANE Richard D.
+: .oS.     N     _PHILLIPS Rog                Les Anciens Martiens þ1952 The Old Martians þTrad. NOLANE Richard D.
+: .oS.     N     _PHILLIPS Rog                La Galerie þ1959 The Gallery þTrad. NOLANE Richard D.
+: .oS.     N     _PHILLIPS Rog                Les Parias þ1953 Pariah þTrad. NOLANE Richard D.
+o IVRB-IM     ?  2018.05 ..... ISBN 978-2-36892-584-3
+! Ivbn-IM     ?  2018.04 ..... ISBN 978-2-36892-582-9
+!--- 2,99 euros
+} noimg          _?                           ?
+- .oY.     N3    _ESSARD Manuel               Les Dits du Midgardr - Volume 1 [Les Dits du Midgardr] þ2018
+: .o .     N     _ESSARD Manuel               S ga [Les Dits du Midgardr - 1] þ2013
+: .o .     N     _ESSARD Manuel               Fenja [Les Dits du Midgardr - 2] þ2014
+: .o .     N     _ESSARD Manuel               Hnoss [Les Dits du Midgardr - 3] þ2015
+o IVRB-IY     ?  2018.04 ..... ISBN 978-2-36892-583-6
+} noimg          _Vael Cat                    ?
+!--- 154 pages
+- .oY.     R     _PINEL Jean-Gil              Le Murmure des oubli‚s - Tome 1 þ2016
+o Ivbn-IM     ?  2018.04 ..... ISBN 978-2-36892-588-1
+} livrebook042018_4 _Laurent Emonet              ?
+- .oF.     A6    *RONCHAUD Lilian             La Chasse volante - Volume 3 þ2018
+: .o .     p     _RONCHAUD Lilian             Pr‚face þ2016
+: .o .     N     _DUGAS Mathieu               Qu'un sang impur abreuve nos sillons þ2018
+: .o .     N     _RIVIERE Clarissa            Le Seigneur des vignolles þ2018
+: .o .     N     _BOULANGER Anthony           Le Troph‚e du malin þ2018
+: .o .     N     _BLANCHOT Paul               Les Terres rousses þ2018
+: .o .     N     _BUISSON-DELANDRE Virginie   La Horde þ2018
+: .o .     N     _GIRARD C‚dric               Le ManŠge aux avions þ2018
+o Ivbn-EC     ?  2018.04 ..... ISBN 978-2-36892-589-8
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _BRUSS B.R.                  An... 2391 þ1959
+o Ivbn-EC     ?  2018.05 ..... ISBN 978-2-36892-591-1
+} noimg          _Pieri-Dominique Lacombe     ?
+!--- 2,99 euros
+- .oS.     R     _GUIEU Jimmy                 Commandos de l'espace [Jean Kariven - 8] þ1955
+o Ivbn-EC     ?  2018.05 ..... ISBN 978-2-36892-592-8
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _LE MAY J. & D.              L'Odyss‚e du Delta þ1968
+o Ivbn-EC     ?  2018.05 ..... ISBN 978-2-36892-593-5
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _LE MAY J. & D.              La PlanŠte des Optyrox þ1968
+o IVRB-IM     ?  2018.10 ..... ISBN 978-2-36892-625-3
+! Ivbn-IM     ?  2018.05 ..... ISBN 978-2-36892-595-9
+!--- 3,99 euros
+} noimg          _Vael Cat                    ?
+- .oF.     R     _OMBREMONT Manon E. d'       Les Faradryl [L‚gendes Fa‰s - 3] þ2018
+o Ivbn-EA     ?  2018.05 ..... ISBN 978-2-36892-598-0
+} noimg          _?                           ?
+!--- 2,99 euros
+!--- Indiqu‚ Le Commandeur 4
+- .o .     R     _HONAKER Michel              Secret of Bashamay [Le Commandeur - 5] þ1990
+o Ivbn-EA     ?  2018.05 ..... ISBN 978-2-36892-599-7
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _PARIS Alain                 Le Dirigeable Certitude [Le Monde de la Terre Creuse - 5] þ1990
+o Ivbn-EA     ?  2018.05 ..... ISBN 978-2-36892-600-0
+} noimg          _?                           ?
+!--- 2,99 euros
+- .o .     R     _LEGAY Piet                  G‚n‚sis II [Les Dossiers maudits - 7] þ1989
+o Ivbn-RO     ?  2018.05 ..... ISBN 978-2-36892-601-7
+} noimg          _?                           ?
+!--- 4,99 euros
+- .oRF     R     _NIKITA L.N.                 Cyclone [Le Gardien - 3] þ2018
+o IVRB-IM     ?  2018.07 ..... ISBN 978-2-36892-605-5
+! Ivbn-IM     ?  2018.06 ..... ISBN 978-2-36892-603-1
+!--- 4,99 euros
+} livrebook062018_1 _Vael Cat                    ?
+- .oS.     N8    _HENNINGER Bernard           R‚sistances þ2018
+: .oS.     p     _LEOURIER Christian          La ManiŠre noire þ2018
+: .oS.     N     _HENNINGER Bernard           Cargo Zu…ng Zh¡ þ2015
+: .o .     N     _HENNINGER Bernard           Un si joli visage þ2018
+: .oS.     N     _HENNINGER Bernard           Thalie des morts þ2010
+: .o .     N     _HENNINGER Bernard           Le Bagne de Qamdo þ2014
+: .o .     N     _HENNINGER Bernard           Prodig(u)e þ2014
+: .o .     N     _HENNINGER Bernard           Prince Liphard þ2018
+: .o .     N     _HENNINGER Bernard           La Ronde des Chircif‚s þ2018
+: .o .     N     _HENNINGER Bernard           Quatre amoureux pour une reine vierge þ2018
+o Ivbn-IC     ?  2018.05 ..... ISBN 978-2-36892-607-9
+} noimg          _?                           ?
+!--- 0,99 euros
+- .oS.     N     _COVIN Gr‚gory               Par-del… le voile þ2018
+o Ivbn-EP     ?  2018.06 ..... ISBN 978-2-36892-608-6
+} noimg          _?                           ?
+!--- 3,99 euros
+- .oS.     R     _ROUSSEAU Victor             L'Oeil de Balamok þ1920 The Eye of Balamok þTrad. MOUMON Jean-Pierre
+o Ivbn-IV     ?  2018.07 ..... ISBN 978-2-36892-610-9
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oSQ    kA8    *DERUSSY Julie               Rapports du troisiŠme type þ2018
+: .o .     p     _DERUSSY Julie               Avant-propos þ2018
+: .o .   7 N     _GRIFFES L‚on de             Cycles þ2018
+: .o .  35 N     _RIVIERE Clarissa            Un amour de robot þ2018
+: .o .  21 N     _DORGIA Galan                La Fleur þ2018
+: .o .  45 N     _NIKO                        Le X-tasatron du Dr Mad þ2018
+: .o .  59 N     _MESSIER Jean-Baptiste       Vision nocturne þ2018
+: .o .  69 N     _DORGIA Galan                L'Habit ne fait pas la bonne soeur þ2018
+: .o .  79 N     _RIVIERE Clarissa            Exp‚riences þ2018
+: .o .  89 N     _GRIFFES L‚on de             L'Homme qui les voulait toutes … genoux þ2018
+o Ivbn-IF     ?  2018.07 ..... ISBN 978-2-36892-611-6
+} noimg          _Genkis                      ?
+!--- 4,99 euros
+- .oF.     R     _CHAUMETTE Jean-Christophe   Le Jeu þ1989
+o Ivbn-EA     ?  2018.07 ..... ISBN 978-2-36892-613-0
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .oS.     R     _LE MAY J. & D.              Arel d'Adamante þ1968
+o IVRB-IY     ?  2018.11 ..... ISBN 978-2-36892-630-7
+! Ivbn-IY     ?  2018.07 ..... ISBN 978-2-36892-614-7
+!--- 4,99 euros
+} noimg          _?                           ?
+- .oY.     R     _ESTIENNE GARRET Fr‚d‚rique  Les Cycl‚‹des þ2018
+o Ivbn-EA     ?  2018.07 ..... ISBN 978-2-36892-615-4
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .oS.     R     _BRUSS B.R.                  Complot V‚nus-Terre þ1963
+o Ivbn-IF     ?  2018.08 ..... ISBN 978-2-36892-617-8
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oF.     R     _EAWY Nolween                La Petite Boutique des horreurs þ2009
+o Ivbn-EA     ?  2018.08 ..... ISBN 978-2-36892-618-5
+} noimg          _Vael Cat                    ?
+!--- 2,99 euros
+- .oS.     R     _GUIEU Jimmy                 L'Agonie du verre [Jean Kariven - 9] þ1955
+o Ivbn-EA     ?  2018.08 ..... ISBN 978-2-36892-619-2
+} noimg          _Mandy                       ?
+!--- 2,99 euros
+- .o .     R     _LEGAY Piet                  Shƒndoah ! þ1989
+o Ivbn-EA     ?  2018.08 ..... ISBN 978-2-36892-620-8
+} noimg          _?                           ?
+!--- 2,99 euros
+!--- Num‚rot‚ 5
+- .oF.     R     _HONAKER Michel              Evil Game [Le Commandeur - 6] þ1990
+o IVRB-IY     ?  2018.10 ..... ISBN 978-2-36892-622-2
+} noimg          _Vael Cat                    ?
+!--- 364 pages
+- .oY.     R     _PINEL Jean-Gil              Le Murmure des oubli‚s - Tome 2 þ2017
+o Ivbn-EA     ?  2018.08 ..... ISBN 978-2-36892-623-9
+} noimg          _Patrice Sanahujas           ?
+!--- 2,99 euros
+- .oS.     R     _PARIS Alain                 Les Fils du miroir fumant [Le Monde de la Terre Creuse - 6] þ1990
+o IVRB-PO     ?  2018.10 ..... ISBN 978-2-36892-624-6
+} noimg          _?                           ?
+- .oS.     R     _ESSARD Manuel               Le Berceau - Orage Magn‚tique þ2018
+o IVRB-CC     ?  2018.09 ..... ISBN 978-2-36892-628-3
+} noimg          _Vael Cat                    ?
+!--- 3,99 euros
+- .oF.     A8    *PAGES Nicolas               Calling Cthulhu - Volume III þ2018
+: .o .     N     _GERNIER Jean-Michel         Dieu þ2018
+: .o .     N     _GRENIER DROESCH Fran‡oise   R‚veil mortel þ2016
+: .o .     N     _SIRE Jean-Marc              L'nigme du manoir Wellington þ2018
+: .o .     N     _BILLOT Romain               Le Sentier de la ChŠvre Noire þ2018
+: .o .     N     _NETSCHAIEV Faust            L'H‚ritier þ2018
+: .o .     N     _NETSCHAIEV Faust            Le Copiste þ2018
+: .o .     N     _O'MEHER Terry               HP, une lumiŠre dans la nuit þ2018
+: .o .     N     _PAGES Nicolas               Krakatoa Azathoth Fan Club þ2018
+: .o .     a     _MOUSSART Arnaud             Lovecraft : ph‚nomŠne (contre) culturel þ2018
+o Ivbn-IM     ?  2018.10 ..... ISBN 978-2-36892-629-1
+} noimg          _?                           ?
+!--- 4,99 euros
+- .oY.     R     _GOURBEAULT-PETRUS Danielle  Les Jumeaux de La‹n [Le Cycle des Chem-Ry - 3] þ2018
+o IVRB-IM     ?  2018.11 ..... ISBN 978-2-36892-632-1
+} noimg          _?                           ?
+- .oF.    iNx    _BENOIST Renaud              Nouvelles Noires þ2014
+o Ivbn-RA     1  2018.10 ..... ISBN 978-2-36892-634-5
+} livrebook102018_1 _?                           ?
+!--- 90 pages - 1,99 euros
+- .oF.     A3    ****                         Aux frontiŠres de l'‚trange þ2018
+: .o .     N     _MARCQ V‚ro-Lyse             Ici la Terre þ2018
+: .o .     N     _GOAZ Philippe               Le H‚ros de l'aventure þ2014
+: .o .     N     _BENOIST Renaud              Promenade þ2018
+o IVRB-IM     ?  2018.11 ..... ISBN 978-2-36892-635-2
+} noimg          _?                           ?
+>--- Anthologie officielle du salon 2018 fantasy en Beaujolais.
+- .oF.     A9    ****                         Dans tous ses ‚tats þ2018
+: .o .     N     _SIRE CEDRIC                 A-R-T þ2008
+: .o .     N     _BRULHET Pierre              Le Voyage extraordinaire des tripl‚es þ2018
+: .o .     N     _MESTR TOM                   Daniela et la m‚lodie du noble coeur þ2018
+: .o .     N     _FAVARD Jean-Pierre          Comme on se rend en pŠlerinage þ2018
+: .o .     N     _GOBILLOT Fr‚d‚ric           L'Ombre des Sidhes þ2018
+: .o .     N     _CHANEL Cl‚mence             Sauvetages þ2018
+: .o .     N     _GABRIEL Arnaud              L'Eau vive þ2018
+: .o .     N     _FAIVRE D'ARCIER Jeanne      Lolita, Lola, Jolilola, jolilo, lol lol þ2004
+: .o .     N     _GUILLOT Elie                Les Comptes de Glim þ2018
+: .! .     d     _EISCOMICS                   L'Erreur de trop þ2018
+o Ivbn-EA     ?  2018.11 ..... ISBN 978-2-36892-636-9
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _LEGAY Piet                  Egr‚gore [Les Dossiers maudits - 8] þ1989
+o Ivbn-EC     ?  2018.11 ..... ISBN 978-2-36892-637-6
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _BESSIERE Richard            N'accusez pas le ciel þ1964
+o Ivbn-IS     ?  2018.11 ..... ISBN 978-2-36892-638-3
+} noimg          _?                           ?
+!--- 4,99 euros
+!--- Version revisit‚e de "N'accusez pas le ciel" de Richard BessiŠre
+- .oS.     R     _ARCHAIMBAULT Jean-Michel    Katorga þ2014
+o Ivbn-IC     ?  2018.11 ..... ISBN 978-2-36892-641-3
+} noimg          _?                           ?
+!--- 0,99 euros
+- .oF.     N     _HENNINGER Bernard           Labyrinthe de craie þ2018
+o Ivbn-EA     ?  2018.11 ..... ISBN 978-2-36892-642-0
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _BRUSS B.R.                  Le Grand Kirn þ1958
+o Ivbn-EC     ?  2018.12 ..... ISBN 978-2-36892-644-4 
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _LE MAY Jean-Louis           Message pour l'avenir þ1968
+o Ivbn-EA     ?  2018.11 ..... ISBN 978-2-36892-645-1
+} noimg          _?                           ?
+!--- 2,99 euros
+!--- Num‚rot‚ 6
+- .oF.     R     _HONAKER Michel              Troll [Le Commandeur - 7] þ1991
+o Ivbn-EA     ?  2018.11 ..... ISBN 978-2-36892-646-8
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _PARIS Alain                 Le Peuple pƒle [Le Monde de la Terre Creuse - 7] þ1990
+o Ivbn-CC     ?  2018.12 ..... ISBN 978-2-36892-647-5
+} noimg          _Vael Cat                    ?
+!--- Saison 2 volume 4 - 4,99 euros
+- .oF.     A8    *PAGES Nicolas               Calling Cthulhu - Volume IV þ2018
+: .o .     N     _CIAUDO Marianne             Apn‚e þ2018
+: .o .     N     _CASTELBOU S‚bastien         Mergerentur þ2018
+: .o .     N     _CHEVIN Barnett              La M‚duse þ2018
+: .o .     N     _CHEVIN Barnett              Le Radeau þ2018
+: .o .     N     _MARCQ V‚ro-Lyse             Crie plus fort ! þ2018
+: .o .     N     _FLEURY Victor               La MŠre du troupeau þ2018
+: .o .     N     _DUC H‚lŠne                  Les ‚veill‚s þ2018
+: .o .     N     _PAGES Nicolas               L'enfer est pav‚ de bonnes intentions þ2018
+: .o .     N     _GOAZ Philippe               La Tour de Pernes þ2018
+o Ivbn-CC     ?  2018.12 ..... ISBN 978-2-36892-649-9
+} noimg          _?                           ?
+!--- 4,99 euros
+- .oF.     R     _AUDRAND St‚phane            Crescent Crime þ2018
+o Ivbn-RA     2  2018.12 ..... ISBN 978-2-36892-650-5
+} livrebook122018_4 _?                           ?
+!--- xx pages - 1,99 euros
+- .oS.     A3    ****                         A la crois‚e des chemins þ2018
+: .o .     N     _SIROT Fr‚d‚ric              Le Messager de Linor þ2018
+: .o .     N     _REBOUSSIN Didier            R‚demption þ2018
+: .oS.     N     _HENNINGER Bernard           Mon coeur pleure L‚da þ2014
+o Ivbn-EW     ?  2018.12 ..... ISBN 978-2-36892-651-2
+} noimg          _?                           ?
+!--- 28 pages - 0,99 euros
+- .oS.     N     _BRULHET Pierre              Pour une poign‚e d'‚pid‹ne þ2018
+o Ivbn-EC     ?  2018.12 ..... ISBN 978-2-36892-652-9
+} noimg          _?                           ?
+!--- 2,99 euros
+- .oS.     R     _GUIEU Jimmy                 Univers parallŠles [Jean Kariven - 10] þ1955
+

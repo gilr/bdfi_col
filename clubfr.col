@@ -1,0 +1,540 @@
+!-----------------------------------------------------------------------------
+!--- Club Fran‡ais du Livre
+!-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+_ CFLI    Club Fran‡ais du Livre
+_ CFLE    Club Fran‡ais du Livre, Coll. Evenement
+_ CFLP    Club Fran‡ais du Livre, Coll. Les Portiques
+_ CFLR    Club Fran‡ais du Livre, Coll. R‚cits
+_ CFL_MRV Club Fran‡ais du Livre, Coll. Merveilles
+_ CFL_CLA Club Fran‡ais du Livre, Coll. Classiques
+!-----------------------------------------------------------------------------
+_ CLIVFR  Club du Livre Fran‡ais
+!-----------------------------------------------------------------------------
+
+o CFL_CLA     6  1948.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 23 cm - 252 pages - Pr‚face de Joseph B‚dier
+- .oCM     r3    _BOULENGER Jacques           Les Romans de la Table Ronde - 1 [Les Romans de la Table Ronde - 1/3] ş1948
+: .o .     r     _BOULENGER Jacques           Merlin l'enchanteur [Les Romans de la Table Ronde - 1] ş1922
+: .o .     r     _BOULENGER Jacques           Les Enfances de Lancelot du Lac [Les Romans de la Table Ronde - 2] ş1922
+: .o .     r     _BOULENGER Jacques           Les Amours de Lancelot du Lac [Les Romans de la Table Ronde - 3] ş1923
+o CFL_CLA     6  1948.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 23 cm - 266 pages
+!--- Porte par erreur le nø8 dans la collection
+- .oCM     r3    _BOULENGER Jacques           Les Romans de la Table Ronde - 2 [Les Romans de la Table Ronde - 6/8] ş1948
+: .o .     r     _BOULENGER Jacques           Le Chƒteau aventureux [Les Romans de la Table Ronde - 6] ş1923
+: .o .     r     _BOULENGER Jacques           La Quˆte du Saint-Graal [Les Romans de la Table Ronde - 7] ş1923
+: .o .     r     _BOULENGER Jacques           La Mort d'Arthur [Les Romans de la Table Ronde - 8] ş1923
+o CFL_MRV     ?  1949.xx ..... ISBN -
+} noimg          _Pierre Faucheux             Pierre Faucheux
+- .oF.    iRNx   _STEVENSON Robert Louis      Oeuvres fantastiques ş1949
+!--- suivis d'un choix de textes...
+: .oF.     r     _STEVENSON Robert Louis      Le Cas ‚trange du docteur Jekyll et de Mr Hyde ş1885 The Strange Case of Dr Jekyll and Mr Hyde şTrad. MURAY Jean
+: .o .     N     _STEVENSON Robert Louis      Olalla ş1885 Olalla
+o CFLI        ?  1953.10 ..... ISBN -
+} clfr_rpsc52cm  _?                           ?
+!--- 2 formats distincts ?
+!--- 416 pages + cahier 52 illus originales en pochette
+!--- 429 pages
+!--- 5000 exemplaires num‚rot‚s puis tranche suppl‚mentaire de 5000 num‚rot‚s de 7000 … 12000
+- .oN.    kN52   _SOUPAULT R‚                &52 contes merveilleux, de tous les temps et de tous les pays pour toutes les semaines de l'ann‚e ş1953
+&                _SOUPAULT Philippe           
+: .o .     p     _SOUPAULT R‚                &Avertissement ş1953
+&                _SOUPAULT Philippe           
+: .o .     N     _SOUPAULT R‚                &Les Saisons et les Mois ş1953
+&                _SOUPAULT Philippe           
+!--- (Tch‚coslovaquie)
+: .o .     N     _SOUPAULT R‚                &Le Bonnet qui rend invisible ş1953
+&                _SOUPAULT Philippe           
+!--- (Laponie)
+: .o .     N     _SOUPAULT R‚                &Tom le poŠte ş1953
+&                _SOUPAULT Philippe           
+!--- (Ecosse)
+: .o .     N     _SOUPAULT R‚                &Le Plus Malin des voleurs ş1953
+&                _SOUPAULT Philippe           
+!--- (Madagascar)
+: .o .     N     _SOUPAULT R‚                &La Barque de pierre ş1953
+&                _SOUPAULT Philippe           
+!--- (Islande)
+: .o .     N     _SOUPAULT R‚                &Le Dragon bleu et le Dragon jaune ş1953
+&                _SOUPAULT Philippe           
+!--- (Cor‚e)
+: .o .     N     _SOUPAULT R‚                &Le B–cheron et l'Arbre ş1953
+&                _SOUPAULT Philippe           
+!--- (Maroc)
+: .o .     N     _SOUPAULT R‚                &La Fille fidŠle ş1953
+&                _SOUPAULT Philippe           
+!--- (Ile de Bali)
+: .o .     N     _SOUPAULT R‚                &Le Pays des ancˆtres ş1953
+&                _SOUPAULT Philippe           
+!--- (Mexique)
+: .o .     N     _SOUPAULT R‚                &Le Poisson couleur d'arc-en-ciel et l'Arbre aux feuilles d'or ş1953
+&                _SOUPAULT Philippe           
+!--- (Nouvelles-H‚brides)
+: .o .     N     _SOUPAULT R‚                &Les Jumeaux aux cheveux d'or ş1953
+&                _SOUPAULT Philippe           
+!--- (Yougoslavie)
+: .o .     N     _SOUPAULT R‚                &Le Berger et la Fille du soleil ş1953
+&                _SOUPAULT Philippe           
+!--- (P‚rou)
+: .o .     N     _SOUPAULT R‚                &Le Vounioupi ş1953
+&                _SOUPAULT Philippe           
+!--- (Australie)
+: .o .     N     _SOUPAULT R‚                &La Jeune Fille silencieuse ş1953
+&                _SOUPAULT Philippe           
+!--- (Espagne)
+: .o .     N     _SOUPAULT R‚                &Le Roi disparu ş1953
+&                _SOUPAULT Philippe           
+!--- (Suisse)
+: .o .     N     _SOUPAULT R‚                &L'Ambitieux Tailleur de pierre ş1953
+&                _SOUPAULT Philippe           
+!--- (Japon)
+: .o .     N     _SOUPAULT R‚                &Le Tr‚sor ş1953
+&                _SOUPAULT Philippe           
+!--- (Danemark)
+: .o .     N     _SOUPAULT R‚                &Pivi et Kabo ş1953
+&                _SOUPAULT Philippe           
+!--- (Nouvelle-Cal‚donie)
+: .o .     N     _SOUPAULT R‚                &L'H‚ritage du roi ş1953
+&                _SOUPAULT Philippe           
+!--- (Turkestan)
+: .o .     N     _SOUPAULT R‚                &Le Fils du palmier ş1953
+&                _SOUPAULT Philippe           
+!--- (Venezuela)
+: .o .     N     _SOUPAULT R‚                &La Reconnaissance et l'Ingratitude ş1953
+&                _SOUPAULT Philippe           
+!--- (Inde)
+: .o .     N     _SOUPAULT R‚                &L'‚pouse du dieu de la Lune ş1953
+&                _SOUPAULT Philippe           
+!--- (Polyn‚sie)
+: .o .     N     _SOUPAULT R‚                &La Bourse, la ChaŒne et le Cor ş1953
+&                _SOUPAULT Philippe           
+!--- (Iles Bal‚ares)
+: .o .     N     _SOUPAULT R‚                &La Femme abeille ş1953
+&                _SOUPAULT Philippe           
+!--- (Born‚o)
+: .o .     N     _SOUPAULT R‚                &La Fille du Soleil et de la Lune ş1953
+&                _SOUPAULT Philippe           
+!--- (Angola)
+: .o .     N     _SOUPAULT R‚                &Le Loup blanc ş1953
+&                _SOUPAULT Philippe           
+!--- (France)
+: .o .     N     _SOUPAULT R‚                &La Fleur bleue ş1953
+&                _SOUPAULT Philippe           
+!--- (Transylvanie)
+: .o .     N     _SOUPAULT R‚                &La Science de la vie ş1953
+&                _SOUPAULT Philippe           
+!--- (Irak)
+: .o .     N     _SOUPAULT R‚                &La Caverne du loup et du renard ş1953
+&                _SOUPAULT Philippe           
+!--- (Chine)
+: .o .     N     _SOUPAULT R‚                &L'Oiseau de feu et la Princesse Vasilisa ş1953
+&                _SOUPAULT Philippe           
+!--- (Russie)
+: .o .     N     _SOUPAULT R‚                &Le Don d'Allah ş1953
+&                _SOUPAULT Philippe           
+!--- (Indon‚sie)
+: .o .     N     _SOUPAULT R‚                &Namcouticouti ş1953
+&                _SOUPAULT Philippe           
+!--- (Ile Maurice)
+: .o .     N     _SOUPAULT R‚                &L'Heureux Berger ş1953
+&                _SOUPAULT Philippe           
+!--- (Allemagne)
+: .o .     N     _SOUPAULT R‚                &L'‚pouse retrouv‚e ş1953
+&                _SOUPAULT Philippe           
+!--- (Inde)
+: .o .     N     _SOUPAULT R‚                &Un ami v‚ritable ş1953
+&                _SOUPAULT Philippe           
+!--- (Isra‰l)
+: .o .     N     _SOUPAULT R‚                &Une bonne femme ş1953
+&                _SOUPAULT Philippe           
+!--- (NorvŠge)
+: .o .     N     _SOUPAULT R‚                &Le Pays des ƒmes ş1953
+&                _SOUPAULT Philippe           
+!--- (Alaska)
+: .o .     N     _SOUPAULT R‚                &Le Langage des oiseaux ş1953
+&                _SOUPAULT Philippe           
+!--- (Italie)
+: .o .     N     _SOUPAULT R‚                &L'‚toile ş1953
+&                _SOUPAULT Philippe           
+!--- (Br‚sil)
+: .o .     N     _SOUPAULT R‚                &La Tortue rouge ş1953
+&                _SOUPAULT Philippe           
+!--- (Japon)
+: .o .     N     _SOUPAULT R‚                &Les Trois Oranges ş1953
+&                _SOUPAULT Philippe           
+!--- (France)
+: .o .     N     _SOUPAULT R‚                &Le Siffleur ş1953
+&                _SOUPAULT Philippe           
+!--- (Za‹re)
+: .o .     N     _SOUPAULT R‚                &Va-nu-pieds ş1953
+&                _SOUPAULT Philippe           
+!--- (Angleterre)
+: .o .     N     _SOUPAULT R‚                &La Yara ş1953
+&                _SOUPAULT Philippe           
+!--- (Br‚sil)
+: .o .     N     _SOUPAULT R‚                &La Hache de verre ş1953
+&                _SOUPAULT Philippe           
+!--- (Hongrie)
+: .o .     N     _SOUPAULT R‚                &L'‚chelle de cheveux ş1953
+&                _SOUPAULT Philippe           
+!--- (Iles du Cap-Vert)
+: .o .     N     _SOUPAULT R‚                &Le Mort reconnaissant ş1953
+&                _SOUPAULT Philippe           
+!--- (Asie Mineure)
+: .o .     N     _SOUPAULT R‚                &Le Bossu et ses deux frŠres ş1953
+&                _SOUPAULT Philippe           
+!--- (Irlande)
+: .o .     N     _SOUPAULT R‚                &Le Voyage de Longa-Poa ş1953
+&                _SOUPAULT Philippe           
+!--- (M‚lan‚sie)
+: .o .     N     _SOUPAULT R‚                &L'Enfant-loup ou la Promesse oubli‚e ş1953
+&                _SOUPAULT Philippe           
+!--- (Am‚rique du Nord)
+: .o .     N     _SOUPAULT R‚                &Les Six Paresseux ş1953
+&                _SOUPAULT Philippe           
+!--- (France)
+: .o .     N     _SOUPAULT R‚                &Pierre le nigaud ş1953
+&                _SOUPAULT Philippe           
+!--- (Belgique)
+o CFLI        ?  1954.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _MATURIN Charles-Robert      Melmoth ş1820 Melmoth the Wanderer şTrad. COHEN Jean
+o CFLI        ?  1954.xx ..... ISBN -
+} noimg          _?                           ?
+!--- Volume nø 164 de la collection Romans
+- .o .     R     _VERCORS                     Les Animaux d‚natur‚s ş1952
+o CFLI        ?  1955.xx ..... ISBN -
+} noimg          _Jacques Darche              Jacques Darche
+- .oS.     R2    _VERNE Jules                 De la Terre … la Lune - Autour de la Lune ş1955
+: .o .     R     _VERNE Jules                 De la Terre … la Lune ş1865
+: .o .     R     _VERNE Jules                 Autour de la Lune ş1870
+o CFLI        ?  1958.07 ..... ISBN -
+} noimg          _?                           ?
+!--- Titre int‚rieur : Fantastique, soixante r‚cits de terreur
+- .oF.    kA60   *CAILLOIS Roger              Anthologie du Fantastique ş1958
+: .o .     p     _CAILLOIS Roger              Pr‚face ş1958
+: .C .     C     ****                         Domaine anglais
+: .o .     N     _DICKENS Charles             Un procŠs criminel ş1865 The Trial for Murder
+: .o .     N     _DICKENS Charles             Le Signaleur ş1886 The Signal-man
+: .o .     N     _JAMES Montague Rhodes       Coeurs perdus ş1895 Lost Hearts
+: .o .     N     _JACOBS William W.           La Patte de singe ş1902 The Monkey's Paw
+: .o .     N     _BLACKWOOD Algernon          La Poup‚e ş1946 The Doll
+: .o .     N     _ONIONS Oliver               Io ş1911 IO
+: .C .     C     ****                         Domaine irlandais
+: .o .     N     _MATURIN Charles-Robert      Le Chƒteau de Leixlip ş1825 The Doomed Sisters / Leixlip Castle
+: .oF.     N     _LE FANU J. Sheridan         Le SiŠge de la Maison Rouge ş1863 The Ghost of a Hand
+: .o .     N     _O'BRIEN Fitz-James          Le Forgeur de merveilles ş1859 The Wondersmith
+: .C .     C     ****                         Domaine am‚ricain
+: .o .     N     _AUSTIN William              Peter Rugg, le disparu ş1824 Peter Rugg, the Missing Man
+: .o .     N     _IRVING Washington           Aventure d'un ‚tudiant allemand ş1824 The Adventure of the German Student
+: .o .     N     _POE Edgar Allan             B‚r‚nice ş1835 Berenice
+: .o .     N     _POE Edgar Allan             La Chute de la maison Usher ş1839 The Fall of the House of Usher
+: .o .     N     _BIERCE Ambrose              La Mort de Halpin Frayser ş1891 The Death of Halpin Frayser
+: .o .     N     _WHITE Edward Lucas          Lukundoo ş1925 Luckoundoo
+: .C .     C     ****                         Domaine allemand
+: .o .     N     _HOFFMANN E.T.A.             Les Mines de Falun ş1819 Die Bergwerke zu Falun
+: .oF.     N     _VON ARNIM Achim             Marie Melck Blainville ş1812 Maria Melck-Blainville şTrad. ?
+: .o .     N     _EWERS Hanns Heinz           L'Araign‚e ş1909 Die spinne
+: .C .     C     ****                         Domaine flamand
+: .oF.     x     _RAY Jean                    Le Manuscrit fran‡ais (extrait de : La Ruelle t‚n‚breuse) ş1932
+: .C .     C     ****                         Domaine fran‡ais
+: .oF.     N     _BALZAC Honor‚ de            L'lixir de longue vie ş1830
+: .oF.     N     _MERIMEE Prosper             La V‚nus d'Ille ş1837
+: .oF.     N     _VILLIERS DE L'ISLE-ADAM     Vera ş1874
+: .oF.     N     _MAUPASSANT Guy de           Le Horla ş1886
+: .oF.     N     _MAUPASSANT Guy de           La Nuit ş1887
+: .oF.     N     _BOUQUET Jean-Louis          Alouqa, ou la com‚die des morts ş1951
+: .oF.     N     _FARGUE L‚on Paul            La Drogue ş?
+: .oF.     N     _YONNET Jacques              Mina la chatte ş?
+: .C .     C     ****                         Domaine italien
+: .oF.     N     _PAPINI Giovanni             La DerniŠre Visite du chevalier malade ş1907 L'ultima visita del gentiluomo malato
+: .oF.     N     _BUZZATI Dino                Le Cas Aziz Maio ş? ?
+: .C .     C     ****                         Domaine espagnol
+: .oF.     N     _ALARCON Pedro A. de         La Grande Femme ş1882 La mujer alta şTrad. ?
+: .oF.     N     _BECQUER Gustavo Adolfo      Le Mont des revenants ş1863 El monte de las animas
+: .C .     C     ****                         Domaine ib‚ro-am‚ricain
+: .oF.     N     _RULFO Juan                  Luvina ş1953 Luvina
+: .oF.     N     _BORGES Jorge Luis           Les Ruines circulaires ş1940 Las ruinas circulares
+: .oF.     N     _BORGES Jorge Luis           Le Miroir d'encre ş1958 El espejo de tinta
+: .oF.     N     _CORTAZAR Julio              La Nuit face au ciel ş1956 La noche boca arriba
+: .C .     C     ****                         Domaine ha‹tien
+: .oF. 403 N     _ALEXIS Jacques Stephen      L'Inspecteur d'apparences ş1958
+: .C .     C     ****                         Domaine polonais
+: .oF.     X     _POTOCKI Jan                 Histoire du commandeur de Toralva (extrait de : Manuscrit trouv‚ … Saragosse) ş1805
+: .oF.     N     _GRABINSKI Stefan            La Voie de garage ş1919 Slepy tor
+: .C .     C     ****                         Domaine russe
+: .oF.     N     _GOGOL Nicolas               V‹i ş1835 Vij
+!--- ‚crit V‹i (aussi parfois Viy, ou Vij) Se prononce Ville (comme Cheville)
+: .oF.     N     _TOLSTOI Alexei C.           La Famille du Vourdalak ş1847 Sem'ya vurdalaka
+: .oF.     N     _TOURGUENIEV Ivan            Le Rˆve ş1877 Son
+: .oF.     N     _LESKOV Nicolas              L'Aigle blanc ş1880 Bely orel
+: .C .     C     ****                         Domaine finnois
+: .oF.     N     _TOPPILA Hekki               L'Homme de la mort ş1928 Kuoleman Siiveri
+: .C .     C     ****                         Domaine chinois
+: .oF.     N     _PAO Kan                     Histoire de Ts'in Kiu Po ş? ?
+: .oF.     N     _SONG-LING P'ou              Quatre contes du Leao-Tcha‹-tche-yi ş? ?
+: .C .     C     ****                         Domaine viˆtnamien
+: .oF.     N     _NGUYEN-DU                   Histoire du kapokier ş? ?
+: .C .     C     ****                         Domaine japonais
+?: .oF.     N     _                            Sept r‚cits extraits du Konjaku Monogatari, de Minamoto No Takakumi ş? ?
+?: .oF.     N     _                            Histoire d'un d‚mon … la loggia d'Ichijo, de l'auteur du Ujishui-Monogatari ş?
+: .oF.     N     _UEDA Akinari                Le Chaudron de Kibitsu ş1776 ?
+: .oF.     N     _KOISUMI Yakumo              Mujina ş1904 Mujina
+!--- de Yakumo Koisumi (Lafcadio Hearn)
+: .oF.     N     _KOISUMI Yakumo              La L‚gende de Mimi Nashi Ho‹chi ş1903 The Story of Mimi-Nashi-Ho‹che
+o CFLI        ?  1959.06 ..... ISBN -
+} noimg          _?                           ?
+- .oM.    iN35   _GRIMM Jacob & Wilhelm       Contes ((Contes de Grimm)) ş1959
+!--- Traduits et pr‚fac‚s par Marthe Robert
+!--- 338 pages
+!--- Contes illustr‚s de 22 dessins de Ludwig Richter et Moritz von Schwind
+!--- Livre premier
+: .o .     N     _GRIMM Jacob & Wilhelm       De celui qui partit en quˆte de la peur ş1812 M„rchen von einem, der auszog das Frchten zu lernen
+: .o .     N     _GRIMM Jacob & Wilhelm       Le FidŠle Jean ş1812 Der treue Johannes
+: .o .     N     _GRIMM Jacob & Wilhelm       Les 12 FrŠres ş1812 Die zw”lf Brder
+: .o .     N     _GRIMM Jacob & Wilhelm       Les Trois Mˆmes de la forˆt ş1812 Die drei M„nnlein im Walde
+: .o .     N     _GRIMM Jacob & Wilhelm       Jeannot et Margot ş1812 H„nsel und Gretel
+: .o .     N     _GRIMM Jacob & Wilhelm       Le Vaillant petit tailleur ş1812 Das tapfere Schneiderlein
+: .o .     N     _GRIMM Jacob & Wilhelm       Cendrillon ş1812 Aschenputtel
+: .o .     N     _GRIMM Jacob & Wilhelm       Les Sept Corbeaux ş1812 Die sieben Raben
+: .o .     N     _GRIMM Jacob & Wilhelm       Le Diable aux trois cheveux d'or ş1812 Der Teufel mit den drei goldenen Haaren
+: .o .     N     _GRIMM Jacob & Wilhelm       La Jeune Fille sans mains ş1812 Das M„dchen ohne H„nde
+: .o .     N     _GRIMM Jacob & Wilhelm       Les Six Cygnes ş1812 Die sechs Schw„ne
+: .o .     N     _GRIMM Jacob & Wilhelm       La Belle au bois dormant ş1812 Dornr”schen
+: .o .     N     _GRIMM Jacob & Wilhelm       Blanche Neige ş1812 Schneewittchen
+: .o .     N     _GRIMM Jacob & Wilhelm       L'Oiseau d'or ş1812 Der goldene Vogel
+: .o .     N     _GRIMM Jacob & Wilhelm       Les Deux FrŠres ş1812 Die zwei Brder
+: .o .     N     _GRIMM Jacob & Wilhelm       Peau-De-Mille-Bˆtes ş1812 Allerleirauh
+: .o .     N     _GRIMM Jacob & Wilhelm       L'Alouette chanteuse et sauteuse ş1815 Das singende springende L”weneckerchen
+: .o .     N     _GRIMM Jacob & Wilhelm       Jean le veinard ş1812 Hans im Glck
+: .o .     N     _GRIMM Jacob & Wilhelm       La Gardeuse d'oies ş1815 Die G„nsemagd
+!--- Livre deuxiŠme
+: .o .     N     _GRIMM Jacob & Wilhelm       Le Roi de la montagne d'or ş1815 Der K”nig vom goldenen Berg
+: .o .     N     _GRIMM Jacob & Wilhelm       Le Corbeau ş1815 Die Rabe
+: .o .     N     _GRIMM Jacob & Wilhelm       L'Eau de jouvence ş1815 Das Wasser des Lebens
+: .o .     N     _GRIMM Jacob & Wilhelm       Le Chasseur accompli ş1815 Der gelernte J„ger
+: .o .     N     _GRIMM Jacob & Wilhelm       La LumiŠre bleue ş1815 Das blaue Licht
+: .o .     N     _GRIMM Jacob & Wilhelm       Le Po‰le de fonte ş1815 Der Eisenofen
+: .o .     N     _GRIMM Jacob & Wilhelm       Jean-de-fer ş1815 Der Eisenhans
+: .o .     N     _GRIMM Jacob & Wilhelm       Blanchette et Rosette ş1815 Die weiáe und die schwarze Braut
+: .o .     N     _GRIMM Jacob & Wilhelm       Le Cercueil de verre ş1837 Der gl„serne Sarg
+: .o .     N     _GRIMM Jacob & Wilhelm       La Gardeuse d'oies … la fontaine ş1843 Die G„nsehirtin am Brunnen
+: .o .     N     _GRIMM Jacob & Wilhelm       La Vraie Fianc‚e ş1843 Die wahre Braut
+: .o .     N     _GRIMM Jacob & Wilhelm       L'Ondine de l'‚tang ş1843 Die Nixe im Teich
+: .o .     N     _GRIMM Jacob & Wilhelm       Le Tambour ş1843 Der Trommler
+: .o .     N     _GRIMM Jacob & Wilhelm       La Boule de cristal ş1850 Die Kristallkugel
+: .o .     N     _GRIMM Jacob & Wilhelm       Demoiselle Maleen ş1850 Jungfrau Maleen
+: .o .     N     _GRIMM Jacob & Wilhelm       La Clef d'or ş1850 Der goldene Schlssel
+o CFLI        ?  1962.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .    iAx    *CAILLOIS Roger              Puissance du rˆve ş1962
+!--- TBC : ou Club des libraires de france ? (A priori, non)
+!--- TBC : ou Puissances ?
+: .o .     N     _KUTTNER Henry              &Une supposition insens‚e ş1953 A Wild Surmise
+&                _MOORE Catherine L.          
+: .o .     N     _BIERCE Ambrose              Ce qui se passa sur le pont d'Owl Creek ş1890 An Occurence at Owl Creek Bridge
+o CFLI        ?  1961.xx ..... ISBN -
+} noimg          _?                           ?
+- .oS.     R     _WELLS Herbert George        L'Œle du docteur Moreau ş1896 The Island of Dr. Moreau / The Island of Doctor Moreau
+!--- ill. hors texte de Charles Le Brun
+o CFLI        ?  1962.02 R.... ISBN -
+} cfli_styx      _?                           N
+- .oF.    _A27   _BIERCE Ambrose              Passage du Styx ş1962
+!--- Trad. PAPY
+!--- Histoires impossibles, odieuses et morts violentes.
+!--- Traduction de Jacques Papy.
+?: .o .     p     _STEFANI Victor              Pr‚face ş1962
+: .C .     C     _BIERCE Ambrose              1iŠre partie : histoires impossibles
+: .o .     N     _BIERCE Ambrose              Le Naufrage du Morrow ş1879 My Shipwreck / A Psychological Shipwreck
+: .o .     N     _BIERCE Ambrose              Le Secret du ravin de Macarger ş1891 The Secret of Macarger's Gulch
+: .o .     N     _BIERCE Ambrose              La Montre de John Bartine ş1893 John Bartine's Watch
+: .oF.     N     _BIERCE Ambrose              L'Infernale Cr‚ature ş1893 The Damned Thing
+: .o .     N     _BIERCE Ambrose              Nocturne au "ravin du mort" ş1874 The Night-Doings at Deadman's
+: .o .     N     _BIERCE Ambrose              Le MaŒtre de Moxon ş1899 Moxon's Master
+: .o .     N     _BIERCE Ambrose              L'Homme qui se retrouva ş1908 A Resumed Identity
+: .C .     C     _BIERCE Ambrose              2iŠme partie : histoires odieuses
+: .o .     N     _BIERCE Ambrose              Le C‚lŠbre legs Gilson ş1878 The Famous Gilson Bequest
+: .o .     N     _BIERCE Ambrose              La Tombe sans fond ş1888 A Bottomless Grave
+: .o .     N     _BIERCE Ambrose              A l'‚preuve du feu ş1886 An Imperfect Conflagration
+: .o .     N     _BIERCE Ambrose              L'Hypnotiseur ş1893 John Bolger, Hypnotist / The Hypnotist
+: .o .     N     _BIERCE Ambrose              Mon meurtre pr‚f‚r‚ ş1888 My Favorite Murder
+: .o .     N     _BIERCE Ambrose              Huile de chien ş1890 The Oil of a Dog / Oil of Dog şTrad. PAPY Jacques
+: .C .     C     _BIERCE Ambrose              3iŠme partie : morts violentes
+: .o .     N     _BIERCE Ambrose              Un fils des dieux ş1888 A Son of the Gods
+: .o .     N     _BIERCE Ambrose              Port‚ disparu ş1888 One of the Missing
+: .o .     N     _BIERCE Ambrose              Tu‚ … Resaca ş1887 Killed at Resaca
+: .o .     N     _BIERCE Ambrose              Une rude bagarre ş1888 A Tough Tussle
+: .o .     N     _BIERCE Ambrose              Parker Adderson, philosophe ş1891 Parker Adderson, Philosopher
+: .o .     N     _BIERCE Ambrose              Combat d'avant-postes ş1897 An Affair of Outposts
+: .o .     N     _BIERCE Ambrose              Un officier, un homme ş1889 One Officer, One Man
+: .o .     N     _BIERCE Ambrose              George Thurston ş1883 George Thurston
+: .o .     N     _BIERCE Ambrose              L'Oiseau moqueur ş1891 The Mocking-Bird
+: .o .     N     _BIERCE Ambrose              Histoire d'une conscience ş1890 The Story of Conscience
+: .o .     N     _BIERCE Ambrose              Le Coup de grƒce ş1899 The Coup De Grƒce
+: .o .     N     _BIERCE Ambrose              La BrŠche de Coulter ş1889 The Affair at Coulter's Notch
+: .o .     N     _BIERCE Ambrose              Un cavalier en plein ciel ş1889 The Horseman in the Sky
+: .o .     N     _BIERCE Ambrose              Chickamauga ş1889 Chickamauga
+
+!-----------------------------------------------------------------------------
+_ CFL_GLM Club Fran‡ais du Livre, Le Grand Livre du Mois
+!-----------------------------------------------------------------------------
+o CFL_GLM     ?  1974.xx ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _CRICHTON Michael            L'Homme terminal ş1972 Terminal Man şTrad. MATIGNON M.
+o CFL_GLM     ?  1981.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .xP.     N10   _BROWN Fredric               A chacun son meurtre ş1981
+: .xP.     N     _BROWN Fredric               Le Boucher qui riait ş1948 The Laughing Butcher şTrad. CHERGE G‚rard de
+: .xP.     N     _BROWN Fredric               Miss T‚nŠbres ş1947 Miss Darkness şTrad. CHERGE G‚rard de
+: .xP.     N     _BROWN Fredric               Une voix derriŠre lui ş1947 A Voice Behind Him şTrad. CHERGE G‚rard de
+: .xP.     N     _BROWN Fredric               Une nuit de fin du monde ş1945 The Night the World Ended şTrad. CHERGE G‚rard de
+: .xP.     N     _BROWN Fredric               Satan un et demi ş1942 Satan One-and-a-half şTrad. CHERGE G‚rard de
+: .xP.     N     _BROWN Fredric               Le Plus Grand PoŠme jamais ‚crit ş1948 The Greatest Poem Ever Written şTrad. CHERGE G‚rard de
+: .xP.     N     _BROWN Fredric               Une histoire de fous ş1945 Dangerous People şTrad. CHERGE G‚rard de
+: .xP.     N     _BROWN Fredric               Un innocent petit mensonge ş1942 A Little White Lye şTrad. CHERGE G‚rard de
+: .xP.     N     _BROWN Fredric               La Mort de Riley ş1944 The Death of Riley şTrad. CHERGE G‚rard de
+: .xP.     N     _BROWN Fredric               Encore une fois, Kathleen ş1948 I'll Cut Your Throat Again, Kathleen şTrad. CHERGE G‚rard de
+o CFLI        ?  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     R     _BACHMAN Richard             Chantier ş1981 Roadwork şTrad. STRASCHITZ Frank
+o CFLI        ?  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     R     _BACHMAN Richard             Rage ş1977 Rage
+o CFLI        ?  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _BARKER Clive                Secret Show ş1989 The Great and Secret Show şTrad. BREQUE Jean-Daniel
+o CFLI        ?  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oTF    kN6    _BARKER Clive                Livre de sang [Livres de sang - 1] ş1984 Book of Blood
+: .o .     N     _BARKER Clive                Le Livre de sang ş1984 The Book of Blood
+: .o .     N     _BARKER Clive                Le Train de l'abattoir ş1984 The Midnight Meat Train
+: .o .     N     _BARKER Clive                Jack et le Cacophone ş1984 The Yattering and Jack
+: .o .     N     _BARKER Clive                La Truie ş1984 Pig Blood Blues
+: .o .     N     _BARKER Clive                Les Feux de la rampe ş1984 Sex, Death and Starshine
+: .o .     N     _BARKER Clive                Dans les collines, les cit‚s ş1984 In the Hills, the Cities
+o CFLI        ?  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oTF    kN4    _BARKER Clive                Prison de chair [Livres de sang - 5] ş1985 Books of Blood V
+!--- titre US : In the flesh
+: .o .     N     _BARKER Clive                Lieux interdits ş1985 The Forbidden
+: .o .     N     _BARKER Clive                La Madone ş1985 The Madonna
+: .o .     N     _BARKER Clive                Les Enfants de Babel ş1985 Babel's Children
+: .o .     r     _BARKER Clive                Prison de chair ş1985 In the Flesh
+
+!-----------------------------------------------------------------------------
+o CFLE        ?  1952.xx ..... ISBN -
+} noimg          _?                           ?
+- .oS.    cU8    _SIMAK Clifford D.           Demain les chiens ş1952 City
+: .o .     N     _SIMAK Clifford D.           La Cit‚ ş1944 City
+: .o .     N     _SIMAK Clifford D.           La TaniŠre ş1944 Huddling Place
+: .o .     N     _SIMAK Clifford D.           Le Recensement ş1944 Census
+: .o .     N     _SIMAK Clifford D.           Les D‚serteurs ş1944 Desertion
+: .o .     N     _SIMAK Clifford D.           Le Paradis ş1946 Paradise
+: .o .     N     _SIMAK Clifford D.           Les Passe-Temps ş1946 Hobbies
+: .o .     N     _SIMAK Clifford D.           Esope ş1947 Aesop
+: .o .     N     _SIMAK Clifford D.           Un moyen bien simple ş1951 The Trouble With Ants
+
+o CFLR       48  1965.xx ..... ISBN -
+} noimg          _?                           ?
+- .pF.     N10   _AYME Marcel                 Le Passe-Muraille ş1943
+: .o .     N     _AYME Marcel                 Le Passe-Muraille ş1941
+: .o .     N     _AYME Marcel                 Les Sabines ş1943
+: .o .     N     _AYME Marcel                 La Carte - Extraits du journal de Jules Flegmon ş1942
+: .o .     N     _AYME Marcel                 Le D‚cret ş1941
+: .! .     N     _AYME Marcel                 Le Proverbe ş1939
+: .o .     N     _AYME Marcel                 L‚gende poldŠve ş1942
+: .! .     N     _AYME Marcel                 Le Percepteur d'‚pouses ş1938
+: .o .     N     _AYME Marcel                 Les Bottes de sept lieues ş1940
+: .o .     N     _AYME Marcel                 L'Huissier ş1941
+: .! .     N     _AYME Marcel                 En attendant ş1943
+
+o CFLP       65  1960.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     N69   _POE Edgar Allan             Oeuvres en prose ş1960
+: .o .     N     _POE Edgar Allan             Manuscrit trouv‚ dans une bouteille ş1833 Manuscript Found in a Bottle
+: .o .     N     _POE Edgar Allan             B‚r‚nice ş1835 Berenice
+: .o .     N     _POE Edgar Allan             Morella ş1835 Morella
+: .o .     N     _POE Edgar Allan             Lionnerie ş1835 Lion-izing
+: .o .     N     _POE Edgar Allan             Aventure sans pareille d'un certain Hans Pfaall ş1835 The Unparalleled Adventure of One Hans Pfaall
+: .o .     N     _POE Edgar Allan             Ombre ş1835 Shadow - A Parable
+: .o .     N     _POE Edgar Allan             Le Roi Peste ş1835 King Pest
+: .o .     N     _POE Edgar Allan             Metzengerstein ş1832-1936 Metzengerstein
+: .o .     N     _POE Edgar Allan             Quatre bˆtes en une ş1836 Four Beasts in One - The Homo-cameleopard
+: .o .     N     _POE Edgar Allan             Un ‚v‚nement … J‚rusalem ş1832-1836 Tale of Jerusalem
+: .o .     N     _POE Edgar Allan             Ligeia ş1838 Ligeia
+: .o .     N     _POE Edgar Allan             Silence ş1838 Silence - A Fable
+: .o .     N     _POE Edgar Allan             Le Diable dans le beffroi ş1839 The Devil in the Belfry
+: .o .     N     _POE Edgar Allan             La Chute de la maison Usher ş1839 The Fall of the House of Usher
+: .o .     N     _POE Edgar Allan             William Wilson ş1839 William Wilson
+: .o .     N     _POE Edgar Allan             Conversation d'Eiros avec Charmion ş1839 The Conversation of Eiros and Charmion
+: .o .     N     _POE Edgar Allan             L'Homme des foules ş1840 The Man of the Crowd
+: .o .     N     _POE Edgar Allan             Double assassinat dans la rue Morgue [Auguste Dupin] ş1841 The Murders in the Rue Morgue
+: .o .     N     _POE Edgar Allan             Une descente dans le maelstr”m ş1841 A Descent Into the Maelstrom
+: .o .     N     _POE Edgar Allan             L'Œle de la f‚e ş1841 The Island of the Fay
+: .o .     N     _POE Edgar Allan             Colloque entre Monos et Una ş1841 The Colloquy of Monos and Una
+: .o .     N     _POE Edgar Allan             El‚onora ş1842 Eleonora
+: .o .     N     _POE Edgar Allan             Le Portrait ovale ş1842 The Oval Portrait
+: .o .     N     _POE Edgar Allan             Le Masque de la mort rouge ş1842 The Masque of the Red Death
+: .o .     r     _POE Edgar Allan             Le MystŠre de Marie Roget [Auguste Dupin] ş1842 The Mystery of Marie Roget
+: .o .     N     _POE Edgar Allan             Le Puits et le pendule ş1843 The Pit and the Pendulum
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur ş1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Scarab‚e d'or ş1843 The Gold-Bug
+: .o .     N     _POE Edgar Allan             Le Chat noir ş1843 The Black Cat
+: .o .     N     _POE Edgar Allan             Les Souvenirs de M. Auguste Bedloe ş1844 A Tale of the Ragged Mountains
+: .o .     N     _POE Edgar Allan             Le Canard au ballon ş1844 The Balloon Hoax
+: .o .     N     _POE Edgar Allan             R‚v‚lation magn‚tique ş1844 Mesmeric Revelation
+: .o .     N     _POE Edgar Allan             L'Ange du bizarre ş1844 The Angel of the Odd - An Extravaganza
+: .o .     N     _POE Edgar Allan             La Lettre vol‚e [Auguste Dupin] ş1845 The Purloined Letter
+: .o .     N     _POE Edgar Allan             Petite discussion avec une momie ş1845 Some Words With a Mummy
+: .o .     N     _POE Edgar Allan             Puissance de la parole ş1845 The Power of Words
+: .o .     N     _POE Edgar Allan             Le D‚mon de la perversit‚ ş1845 The Imp of the Perverse
+: .o .     N     _POE Edgar Allan             Le SystŠme du docteur Goudron et du professeur Plume ş1845 The System of Dr. Tarr and Professor Fether
+: .o .     N     _POE Edgar Allan             La V‚rit‚ sur le cas de M. Valdemar ş1845 The Facts in the Case of Mr. Valdemar
+: .o .     N     _POE Edgar Allan             La Barrique d'Amontillado ş1846 The Cask of Amontillado
+: .o .     a     _POE Edgar Allan             Le Domaine d'Arnheim ş1847 The Domain of Arnheim
+: .o .     a     _POE Edgar Allan             Le Cottage Landor ş1849 Landor's Cottage
+: .o .     N     _POE Edgar Allan             Hop-Frog ş1849 Hop-Frog
+: .o .     R     _POE Edgar Allan             Aventures d'Arthur Gordon Pym [Arthur Gordon Pym] ş1838 The Narrative of Arthur Gordon Pym
+: .o .     a     _POE Edgar Allan             Le Joueur d'‚checs de Maelzel ş1836 Maelzel's Chess-player
+: .x .     a     _POE Edgar Allan             Philosophie de l'ameublement ş1840 The Philosophy of Furniture
+: .o .     N     _POE Edgar Allan             Le Duc de l'Omelette ş1832 The Duc De L'Omelette
+: .o .     N     _POE Edgar Allan             Perte de souffle ş1832-1840 Loss of Breath
+: .o .     N     _POE Edgar Allan             Le Rendez-Vous ş1835 The Visionary / The Assignation
+: .o .     N     _POE Edgar Allan             Bon-Bon ş1832-1850 The Bargain Lost / Bon-Bon
+: .o .     N     _POE Edgar Allan             Comment ‚crire un article pour le Blackwood ş1838 How to Write a Blackwood Article
+: .o .     N     _POE Edgar Allan             L'Homme dont il ne restait rien ş1839 The Man That Was Used Up
+: .o .     N     _POE Edgar Allan             Mystification ş1840 Mystification
+: .o .     N     _POE Edgar Allan             Pourquoi le petit fran‡ais porte la main en ‚charpe ş1840 Why the Little Frenchman Wears His Hand in a Sling
+: .o .     N     _POE Edgar Allan             L'Homme d'affaires ş1840 The Business Man
+: .o .     N     _POE Edgar Allan             Ne pariez jamais votre tˆte au diable ş1841 Never Bet the Devil Your Head
+: .o .     N     _POE Edgar Allan             Une semaine de trois dimanches ş1841 Three Sundays in a Week
+: .o .     a     _POE Edgar Allan             De l'escroquerie consid‚r‚e comme une des sciences exactes ş1843 Diddling Considered as One of the Exact Sciences
+: .o .     N     _POE Edgar Allan             L'lan ş1844 Morning on the Wissahiccon
+: .o .     N     _POE Edgar Allan             Les Lunettes ş1844 The Spectacles
+: .o .     N     _POE Edgar Allan             L'Enterrement pr‚matur‚ ş1844 The Premature Burial
+: .o .     N     _POE Edgar Allan             La Caisse oblongue ş1844 The Oblong Box
+: .o .     N     _POE Edgar Allan             C'est toi l'homme ş1844 Thou Art the Man
+: .o .     N     _POE Edgar Allan             La Vie litt‚raire de M. Machin Truc ş1844 Literary Life of Thingum Bob, Esq.
+: .o .     N     _POE Edgar Allan             La Mille-Et-DeuxiŠme Nuit de Sch‚h‚razade ş1845 The Thousand-and-second Tale of Scheherazade
+: .o .     N     _POE Edgar Allan             Le Sphinx ş1846 The Sphinx
+: .o .     N     _POE Edgar Allan             Mellonta Tauta ş1849 Mellonta Tauta
+: .o .     N     _POE Edgar Allan             Von Kempelen et sa d‚couverte ş1849 Von Kempelen and His Discovery
+: .o .     N     _POE Edgar Allan             Des X dans un entrefilet ş1849 X-ing a Paragrab
+
+!-----------------------------------------------------------------------------
+!--- CLIVFR  Club du Livre Fran‡ais
+!-----------------------------------------------------------------------------
+o CLIVFR      ?  1950.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _LAGERLOF Selma              Le Merveilleux Voyage de Nils Holgersson ş1907 Nils Holgerssons underbara resa genom Sverige şTrad. HAMMAR Thekla
+
+!-----------------------------------------------------------------------------
+_ CLBLFR  Club du Beau Livre de France
+!-----------------------------------------------------------------------------
+o CLBLFR      ?  1955.xx ..... ISBN -
+} noimg          _Grnt                       Grnt
+- .oS.     R     _ESME Jean d'                Les Dieux rouges ş1923

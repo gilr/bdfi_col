@@ -1,0 +1,414 @@
+!-----------------------------------------------------------------------------
+!---                 PyrÇmonde                  : 2006 - 2008
+!---                 Editions des rÇgionalismes : 2009
+!---                 PRNG                       : 2014+
+!-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+_ PYREMON Ed. PyrÇmonde
+_ PYR_UCH Ed. PyrÇmonde, Coll. Uchronie
+!-----------------------------------------------------------------------------
+!-----------------------------------------------------------------------------
+_ REGIONA Ed. des RÇgionalismes
+_ REG_UCH Ed. des RÇgionalismes, Coll. Uchronie
+!-----------------------------------------------------------------------------
+!-----------------------------------------------------------------------------
+_ PRNG_UC Ed. PRNG, Coll. Uchronie
+_ PRNG_PO Ed. PRNG, Coll. de poche "Poutchic"
+_ PRNG_SF Ed. PRNG, Coll. SF
+!-----------------------------------------------------------------------------
+!--- Nouveau nom pour PyrÇmonde
+!---  GroupÇ avec "Editions des RÇgionalismes", qui
+!---   possädent Çgalement une grosse collection "Contes & lÇgendes"
+!-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+!---  PyrÇmonde
+!-----------------------------------------------------------------------------
+o PYR_UCH     1i 2006.08 ..... ISBN 2-84618-362-7
+} noimg          _?                           ?
+- .oS.uc   R     _RENOUVIER Charles           Uchronie - L'Utopie dans l'histoire ˛1858-1876
+o PYR_UCH     2i 2007.10 ..... ISBN 978-2-84618-445-8
+} noimg          _?                           ?
+- .oS.uc   R     _GEOFFROY Louis              NapolÇon apocryphe - 1812-1832 - Histoire de la conquàte du monde et de la monarchie universelle ˛1836
+o PYR_UCH     4i 2008.12 ..... ISBN 978-2-84618-446-5
+} noimg          _?                           ?
+- .oS.     R     _JEANNE RenÇ                 NapolÇon bis ˛1932
+o PYR_UCH     5i 2008.04 ..... ISBN 978-2-84618-447-2
+} noimg          _?                           ?
+- .oS.     R     _AGRAIVES Jean d'            L'Aviateur de Bonaparte - Livre 1 [L'Aviateur de Bonaparte - 1] ˛1926
+o PYR_UCH     6i 2008.xx ..... ISBN 978-2-84618-448-9
+} noimg          _?                           ?
+- .oS.     R     _DEINCOURT Jean              Le Sosie de l'aigle ˛1932
+o PYR_UCH     7i 2008.xx ..... ISBN 978-2-84618-...-.
+} noimg          _?                           ?
+- .oS.     R     _DEINCOURT Jean              NapolÇon avait raison ˛1932
+o PYR_UCH     9i 2008.10 ..... ISBN 978-2-84618-570-7
+} noimg          _?                           ?
+- .oS.     R     _AGRAIVES Jean d'            L'Aviateur de Bonaparte - Livre 2 [L'Aviateur de Bonaparte - 2] ˛1926
+o PYR_UCH     3i 2008.04 ..... ISBN 978-2-84618-572-1
+} noimg          _?                           ?
+- .oS.     R     _BUCHARD Henri               Comment la France conquit l'Angleterre en 1888 ˛1891
+o PYR_UCH     8i 2008.12 ..... ISBN 978-2-84618-610-0
+} noimg          _?                           ?
+- .oS.     R     _LAIGLE Jean-Pierre          Ave Caesar Imperator ˛2008
+o PYR_UCH    10i 2008.xx ..... ISBN 978-2-84618-611-7
+} noimg          _?                           ?
+- .oS.     R     _POSTERITAS                  Le Siäge de Londres ˛1885 The siege of London
+
+o PYREMON     ?  2007.xx ..... ISBN 978-2-84618-483-.
+} noimg          _?                           ?
+- .oF.    iNx    _DU LAURENS DE LA BARRE E.   Fantìmes bretons ˛1879
+o PYREMON     ?  2008.04 ..... ISBN 978-2-84618-573-8
+} noimg          _?                           ?
+- .oF.    kN40   _DU LAURENS DE LA BARRE E.   Nouveaux fantìmes bretons ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Le Filleul de la mort ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Le Veneur infernal ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Le Rouge-Gorge ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Saint Quay et les femmes curieuses ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Efflam et HÇnora ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Les Petites Croix ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Le Diable charbonnier ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Les Intersignes ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   La Chapelle de Saint-Guen ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   MÇtempsycose ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   L'Heureux Voleur ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   La Fontaine de Baranton ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Les Fianáailles ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Fall-i-tro ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   La Pilleuse ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Le GÇant hok-bras ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Les GÇants ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Les Korrigans ou la semaine des nains ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Aventures de Iann Houarn ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Le Fou-Du-bois (foll-goat) ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Le Troc d'Ége ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Les Pierres maudites ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   La Lande Minars ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Le Casseur de croix ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   La Vierge de Lokhrist ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   La VolontÇ de Dieu ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Les Fontaines ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   La Croix qui marche ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   La Fontaine du maudit ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Nouvelles ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Le Passage de l'åle de Sein - RÇcit des Gräves ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Vieille coutume ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Le Partage ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Geneviäve du Relek ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Fantìmes de la mer ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Le Päre Gibraltar ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Le Vaisseau-Fantìme ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Saint-Jean-du-Doigt ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   Forban-Ru ˛1881
+: .oF.     N     _DU LAURENS DE LA BARRE E.   La Ville d'Is ˛1881
+
+!-----------------------------------------------------------------------------
+! REG_UCH Ed. des RÇgionalismes, Coll. Uchronie
+!-----------------------------------------------------------------------------
+o REG_UCH     1i 2009.xx ..... ISBN 978-2-84618-362-8
+} noimg          _?                           ?
+- .oS.     E     _RENOUVIER Charles           Uchronie : L'Utopie dans l'histoire ˛1858-1876
+o REG_UCH     2i 2009.xx ..... ISBN 978-2-84618-445-8
+} noimg          _?                           ?
+- .oS.uc   R     _GEOFFROY Louis              NapolÇon apocryphe - 1812-1832 - Histoire de la conquàte du monde et de la monarchie universelle ˛1836
+o REG_UCH     3i 2009.xx ..... ISBN 978-2-84618-572-1
+} noimg          _?                           ?
+- .oS.     R     _BUCHARD Henri               Comment la France conquit l'Angleterre en 1888 ˛1891
+o REG_UCH     5i 2009.xx ..... ISBN 978-2-84618-447-2
+} noimg          _?                           ?
+- .oS.     R     _AGRAIVES Jean d'            L'Aviateur de Bonaparte - Livre 1 [L'Aviateur de Bonaparte - 1] ˛1926
+o REG_UCH     8i 2009.xx ..... ISBN 978-2-84618-610-0
+} noimg          _?                           ?
+- .oS.     R     _LAIGLE Jean-Pierre          Ave Caesar Imperator ˛2008
+o REG_UCH     9i 2009.xx ..... ISBN 978-2-84618-570-7
+} noimg          _?                           ?
+- .oS.     R     _AGRAIVES Jean d'            Le Corsaire borgne [L'Aviateur de Bonaparte - 2] ˛1926
+o REG_UCH    11i 2009.xx ..... ISBN 978-2-84618-654-4
+} noimg          _?                           ?
+- .oS.     R     _AGRAIVES Jean d'            Les Ailes de l'Aigle [L'Aviateur de Bonaparte - 3] ˛1926
+o REG_UCH    12i 2009.12 ..... ISBN 978-2-84618-655-1
+} noimg          _?                           ?
+- .oS.     R     _CHESNEY Sir George          La Bataille de Dorking ˛1871 The Battle of Dorking ˛Trad. YRIARTE Charles
+o REG_UCH    13i 2009.xx ..... ISBN 978-2-84618-656-8
+} noimg          _Albert Robida               ?
+- .o .     R     _ROBIDA Albert               L'Horloge des siäcles ˛1902
+o REG_UCH    14i 2009.xx ..... ISBN 978-2-84618-657-5
+} noimg          _?                           ?
+!--- GF - 148 x 210 mm - 12,50 euros
+- .oS.     R     _WALKER John Bernard         La Vengeance du Kaiser - New-York bombardÇ ˛1915 America Fallen! The Sequel to the European War ˛Trad. ?
+
+!o XXXX        ?  2018.07 ..... ISBN 978-2-82400-917-9
+!} noimg          _?                           ?
+!--- COLL : En langue occitane
+!- .oY.     R     _TOLKIEN John R.R.           Bilbon lo Hïbbit o un anar tornar ˛1937 The Hobbit ˛Trad. ?
+
+!-----------------------------------------------------------------------------
+!---  PRNG Poche
+!-----------------------------------------------------------------------------
+o PRNG_PO     5i 2008.xx ..... ISBN 978-2-914067-53-9
+} noimg          _?                           ?
+- .oN.     N3    _FEVAL Paul                  Contes de Bretagne ˛1844
+: .o .     r     _FEVAL Paul                  Le Joli ChÉteau ˛1844
+: .o .     N     _FEVAL Paul                  Anne des åles ˛1842
+: .o .     r     _FEVAL Paul                  La Femme blanche des marais ˛1843
+o PRNG_PO     6i 2014.xx ..... ISBN 978-2-36634-029-7
+} noimg          _?                           ?
+- .o .     N     _VERNE Jules                 L'êternel Adam ˛1910
+o PRNG_PO    46i 2018.04 ..... ISBN 978-2-36634-119-5
+} noimg          _?                           ?
+- .oS.    kN2    _VERNE Jules                 La JournÇe d'un journaliste amÇricain en 2889, suivi de Le Humbug ˛2018
+: .oS.     N     _VERNE Jules                 La JournÇe d'un journaliste amÇricain en 2889 ˛1889
+: .oS.     N     _VERNE Jules                 Le Humbug ˛1886
+o PRNG_PO    36i 2019.09 ..... ISBN 978-2-36634-146-1
+} noimg          _?                           ?
+!--- prÇcÇdemment ÇditÇ en 2014
+- .o .     N     _LE BRAZ Anatole             Le Sang de la siräne ˛1897
+o PRNG_PO    48i 2020.07 ..... ISBN 978-2-36634-156-0
+} noimg          _?                           O: Gordon Grant
+!--- Poche - 130 x 180 mm - 104 pages - 9,95 euros
+- .oS.     r     _LONDON Jack                 La Peste Çcarlate ˛1912 The Scarlet Plague ˛Trad. POSTIF Louis & GRUYER Paul
+
+!-----------------------------------------------------------------------------
+!---  PRNG : SF
+!-----------------------------------------------------------------------------
+!------------------------
+!=== 2015
+!------------------------
+o PRNG_SF     1i 2015.02 ..... ISBN 978-2-36634-045-7
+} noimg          _Fiora                       ?
+- .o .     R     _BURROUGHS Edgar Rice        Une princesse de Mars (Le ConquÇrant de la planäte Mars) [Cycle de Mars - 1] ˛1912 Under the Moons of Mars / A Princess of Mars ˛Trad. COBOR Pierre
+o PRNG_SF     2i 2015.07 ..... ISBN 978-2-36634-056-3
+} noimg          _?                           ?
+- .oS.     R     _BURROUGHS Edgar Rice        Les Dieux de Mars [Cycle de Mars - 2] ˛1913 The Gods of Mars ˛Trad. MARTIN Charles-Noâl
+o PRNG_SF     3i 2015.10 ..... ISBN 978-2-36634-061-7
+} noimg          _?                           ?
+- .oS.     R     _BURROUGHS Edgar Rice        Le Seigneur de la guerre de Mars [Cycle de Mars - 3] ˛1914 The Warlords of Mars ˛Trad. MARTIN Charles-Noâl
+!------------------------
+!=== 2016
+!------------------------
+o PRNG_SF     4i 2016.02 ..... ISBN 978-2-36634-067-9
+} noimg          _?                           ?
+- .o .     R     _AUDIGIER Camille            La RÇvolte des volcans ˛1935
+o PRNG_SF     5i 2016.03 ..... ISBN 978-2-36634-070-9
+} noimg          _?                           ?
+- .oS.     R     _BURROUGHS Edgar Rice        Au coeur de la Terre [Cycle de Pellucidar - 1] ˛1914 At the Earth's Core ˛Trad. BILLON Pierre
+o PRNG_SF     6i 2016.04 ..... ISBN 978-2-36634-072-3
+} noimg          _J. Allen St John            ?
+- .oS.     R     _BURROUGHS Edgar Rice        Thuvia vierge de Mars [Cycle de Mars - 4] ˛1916 Thuvia, Maid of Mars ˛Trad. MARTIN Charles-Noâl
+o PRNG_SF     7i 2016.10 ..... ISBN 978-2-36634-078-5
+} noimg          _?                           ?
+- .oS.     R     _BURROUGHS Edgar Rice        L'empire de David Innes [Cycle de Pellucidar - 2] ˛1915 Pellucidar ˛Trad. BILLON Pierre
+o PRNG_SF     8i 2016.11 ..... ISBN 978-2-36634-079-2
+} noimg          _?                           ?
+- .o .     R     _TINSEAU LÇon de             Le Duc Rollon ˛1913
+!------------------------
+!=== 2017
+!------------------------
+o PRNG_SF     9i 2017.01 ..... ISBN 978-2-36634-092-1
+} noimg          _?                           ?
+- .o .     R     _BURROUGHS Edgar Rice        Tanar de Pellucidar [Cycle de Pellucidar - 3] ˛1929 Tanar of Pellucidar ˛Trad. BILLON Pierre
+o PRNG_SF    10i 2017.04 ..... ISBN 978-2-36634-093-8
+} noimg          _?                           ?
+- .o .     R     _BURROUGHS Edgar Rice        Tarzan au coeur de la Terre [Cycle de Pellucidar - 4]+[Tarzan - 13] ˛1930 Tarzan at the Earth's Core ˛Trad. BILLON Pierre
+o PRNG_SF    11i 2017.10 ..... ISBN 978-2-36634-102-7
+} noimg          _?                           ?
+- .o .     R     _BURROUGHS Edgar Rice        Retour Ö l'Ége de pierre [Cycle de Pellucidar - 5] ˛1937 Back to the Stone Age ˛Trad. BILLON Pierre
+o PRNG_SF    12i 2017.10 ..... ISBN 978-2-36634-103-4
+} noimg          _?                           ?
+- .o .     R     _BURROUGHS Edgar Rice        Terre d'Çpouvante [Cycle de Pellucidar - 6] ˛1944 Land of Terror ˛Trad. BILLON Pierre
+o PRNG_SF    13i 2017.09 ..... ISBN 978-2-36634-105-8
+} noimg          _?                           ?
+- .oS.     R     _KELLERMANN Bernhard         Le Tunnel - Tome 1er ˛1913 Der Tunnel ˛Trad. BERGER Cyril et KLETTE Werner
+!------------------------
+!=== 2018
+!------------------------
+o PRNG_SF    14i 2018.02 ..... ISBN 978-2-36634-112-6
+} noimg          _?                           ?
+- .oS.     R     _BURROUGHS Edgar Rice        Jeu d'Çchecs sur Mars [Cycle de Mars - 5] ˛1922 The Chessmen of Mars ˛Trad. ?
+o PRNG_SF    15i 2018.01 ..... ISBN 978-2-36634-113-3
+} prngsf15       _?                           ?
+- .oY.     r2    _BURROUGHS Edgar Rice        Caspak, monde oubliÇ [Cycle de Caspak - 1] ˛1982
+: .o .     r     _BURROUGHS Edgar Rice        La Terre que le temps avait oubliÇ... [Cycle de Caspak] ˛1918 The Land That Time Forgot
+: .o .     r     _BURROUGHS Edgar Rice        Le Peuple que le temps avait oubliÇ... [Cycle de Caspak] ˛1918 The People That Time Forgot
+o PRNG_SF    16i 2018.03 ..... ISBN 978-2-36634-115-7
+} noimg          _?                           ?
+- .o .     R     _BURROUGHS Edgar Rice        Hors de Caspak [Cycle de Caspak - 2] ˛1918 Out of Time's Abyss ˛Trad. PELERIN VÇronique et Denis
+o PRNG_SF    17i 2018.02 ..... ISBN 978-2-36634-116-4
+} noimg          _?                           ?
+- .oS.     R     _KELLERMANN Bernhard         Le Tunnel - Tome II ˛1913 Der Tunnel ˛Trad. BERGER Cyril et KLETTE Werner
+o PRNG_SF    19i 2019.09 ..... ISBN 978-2-36634-125-6
+} noimg          _Albert Robida               ?
+- .oS.     R     _GIFFARD Pierre              La Guerre infernale - Tome 1er ˛1908
+!------------------------
+!=== 2019
+!------------------------
+o PRNG_SF    20i 2019.04 ..... ISBN 978-2-36634-132-4
+} noimg          _?                           ?
+- .xA.     R     _BURROUGHS Edgar Rice        Tarzan chez les singes [Tarzan - 1] ˛1912 Tarzan of the Apes ˛Trad. BEZRI Marwan
+o PRNG_SF    22i 2019.04 ..... ISBN 978-2-36634-134-8
+} prngsf22       _?                           ?
+- .oS.    iU4    _BURROUGHS Edgar Rice        Llana de Gathol [Cycle de Mars - 10] ˛1948 Llana of Gathol ˛Trad. BLOND Martine
+!: .o .     N     _BURROUGHS Edgar Rice        Les Morts anciens ˛1941 The City of the Mummies / The Frozen Men of Mars / The Ancient Dead
+!: .o .     N     _BURROUGHS Edgar Rice        Les Pirates noirs de Barsoom ˛1941 Black Pirates of Barsoom
+!: .o .     N     _BURROUGHS Edgar Rice        Evasion sur Mars ˛1941 Yellow Men of Mars / Escape on Mars
+!: .o .     N     _BURROUGHS Edgar Rice        Les Hommes invisibles de Mars ˛1941 Invisible Men of Mars
+o PRNG_SF    23i 2019.04 ..... ISBN 978-2-36634-135-5
+} noimg          _?                           ?
+- .oS.     R     _VARLET ThÇo                &La Belle Valence ˛1922
+&                _BLANDIN AndrÇ               
+o PRNG_SF    24i 2019.07 ..... ISBN 978-2-36634-141-6
+} noimg          _?                           ?
+- .x .     R     _BURROUGHS Edgar Rice        Le Retour de Tarzan [Tarzan - 2] ˛1913 The Return of Tarzan ˛Trad. BAUDOUX Marc
+o PRNG_SF    25i 2019.08 ..... ISBN 978-2-36634-142-3
+} noimg          _?                           ?
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan parmi les fauves [Tarzan - 3] ˛1914 The Beasts of Tarzan ˛Trad. BAUDOUX Marc
+o PRNG_SF    26i 2019.10 ..... ISBN 978-2-36634-144-7
+} noimg          _?                           ?
+- .oS.     R     _BURROUGHS Edgar Rice        Les Pirates de VÇnus [Cycle de VÇnus - 1] ˛1932 Pirates of Venus ˛Trad. BLOND Martine
+o PRNG_SF    27i 2019.10 ..... ISBN 978-2-36634-145-4
+} noimg          _?                           ?
+- .x .     R     _BURROUGHS Edgar Rice        Le Fils de Tarzan [Tarzan - 4] ˛1915 The Son of Tarzan ˛Trad. BAUDOUX Marc
+o PRNG_SF    28i 2019.11 ..... ISBN 978-2-36634-147-8
+} noimg          _?                           ?
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan et le trÇsor d'Opar [Tarzan - 5] ˛1916 Tarzan and the Jewels of Opar ˛Trad. BAUDOUX Marc
+o PRNG_SF    29i 2019.12 ..... ISBN 978-2-36634-150-8
+} noimg          _?                           ?
+!--- GF - 150 x 210 mm - 164 pages - 15,50 euros
+- .oS.     R     _BURROUGHS Edgar Rice        Perdus sur VÇnus [Cycle de VÇnus - 2] ˛1933 Lost on Venus ˛Trad. BLOND Martine
+!------------------------
+!=== 2020
+!------------------------
+o PRNG_SF    30i 2020.01 ..... ISBN 978-2-36634-151-5
+} prngsf30       _?                           ?
+!--- GF - 150 x 210 mm - 200 pages - 16,95 euros
+- .xAZ     N12   _BURROUGHS Edgar Rice        RÇcits de la jungle de Tarzan [Tarzan - 6] ˛1919 Jungle Tales of Tarzan ˛Trad. BAUDOUX Marc
+: .x .     N     _BURROUGHS Edgar Rice        Le Premier Amour de Tarzan [Tarzan] ˛1916 Tarzan's First Love ˛Trad. BAUDOUX Marc
+: .x .     N     _BURROUGHS Edgar Rice        La Capture de Tarzan [Tarzan] ˛1916 The Capture of Tarzan ˛Trad. BAUDOUX Marc
+: .x .     N     _BURROUGHS Edgar Rice        Le Combat pour le balu [Tarzan] ˛1916 The Fight for the Balu ˛Trad. BAUDOUX Marc
+: .x .     N     _BURROUGHS Edgar Rice        Le Dieu de Tarzan [Tarzan] ˛1916 The God of Tarzan ˛Trad. BAUDOUX Marc
+: .x .     N     _BURROUGHS Edgar Rice        Tarzan et le petit noir [Tarzan] ˛1916 Tarzan and the Black Boy ˛Trad. BAUDOUX Marc
+: .x .     N     _BURROUGHS Edgar Rice        Le Sorcier cherche vengeance [Tarzan] ˛1917 The Witch-Doctor Seeks Vengeance ˛Trad. BAUDOUX Marc
+: .x .     N     _BURROUGHS Edgar Rice        La Fin de Bukawai [Tarzan] ˛1917 The End of Bukawai ˛Trad. BAUDOUX Marc
+: .x .     N     _BURROUGHS Edgar Rice        Le Lion [Tarzan] ˛1917 The Lion ˛Trad. BAUDOUX Marc
+: .x .     N     _BURROUGHS Edgar Rice        Le Cauchemar [Tarzan] ˛1917 The Nightmare ˛Trad. BAUDOUX Marc
+: .x .     N     _BURROUGHS Edgar Rice        Le Combat pour Teeka [Tarzan] ˛1917 The Battle for Teeka ˛Trad. BAUDOUX Marc
+: .x .     N     _BURROUGHS Edgar Rice        A quoi on s'amuse dans la jungle [Tarzan] ˛1917 A Jungle Joke ˛Trad. BAUDOUX Marc
+: .x .     N     _BURROUGHS Edgar Rice        Tarzan au secours de la Lune [Tarzan] ˛1917 Tarzan Rescues the Moon ˛Trad. BAUDOUX Marc
+o PRNG_SF    31i 2020.05 ..... ISBN 978-2-36634-153-9
+} noimg          _?                           ?
+!--- GF - 150 x 210 mm - 260 pages - 19,95 euros
+- .xA.     R     _BURROUGHS Edgar Rice        Tarzan l'indomptable [Tarzan - 7] ˛1919 Tarzan the Untamed ˛Trad. BAUDOUX Marc
+o PRNG_SF    32i 2020.05 ..... ISBN 978-2-36634-154-6
+} noimg          _?                           ?
+!--- GF - 150 x 210 mm - 244 pages - 19,95 euros
+- .oZA     R     _BURROUGHS Edgar Rice        Tarzan dans la prÇhistoire [Tarzan - 8] ˛1921 Tarzan the Terrible ˛Trad. BAUDOUX Marc
+o PRNG_SF    33i 2020.09 ..... ISBN 978-2-36634-158-4
+} noimg          _?                           ?
+!--- GF - 150 x 210 mm - 202 pages - 16,95 euros
+- .xA.     R     _BURROUGHS Edgar Rice        Tarzan et le lion d'or [Tarzan - 9] ˛1922 Tarzan and the Golden Lion ˛Trad. BAUDOUX Marc
+o PRNG_SF    34i 2020.09 ..... ISBN 978-2-36634-159-1
+} noimg          _?                           ?
+!--- GF - 150 x 210 mm - 204 pages - 16,95 euros
+- .oA.     R     _BURROUGHS Edgar Rice        Tarzan et les hommes-fourmis [Tarzan - 10] ˛1924 Tarzan and the Ant Men ˛Trad. BAUDOUX Marc
+o PRNG_SF    21i 2020.09 ..... ISBN 978-2-36634-133-1
+} noimg          _?                           ?
+!--- GF - 150 x 210 mm - 188 pages - 15,95 euros
+- .xA.     R     _BURROUGHS Edgar Rice        Tarzan et les croisÇs [Tarzan - 11] ˛1927 Tarzan, Lord of the Jungle ˛Trad. BAUDOUX Marc
+o PRNG_SF    35i 2020.12 ..... ISBN 978-2-36634-161-4
+} noimg          _?                           ?
+!--- GF - 150 x 210 mm - 216 pages - 17,95 euros
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan et l'empire oubliÇ [Tarzan - 12] ˛1928 Tarzan and the Lost Empire ˛Trad. BAUDOUX Marc
+
+
+
+
+!-----------------------------------------------------------------------------
+!---  PRNG : Uchronie
+!-----------------------------------------------------------------------------
+o PRNG_UC     3i 2012.12 ..... ISBN 978-2-36634-000-6
+} noimg          _?                           ?
+- .oS.     R     _BUCHARD Henri               Comment la France conquit l'Angleterre en 1888 ˛1891
+!------------------------
+!=== 2013
+!------------------------
+o PRNG_UC     1i 2013.11 ..... ISBN 978-2-36634-030-3
+} noimg          _?                           ?
+- .oS.uc   R     _RENOUVIER Charles           Uchronie - L'Utopie dans l'histoire ˛1858-1876
+o PRNG_UC     2i 2013.03 ..... ISBN 978-2-36634-013-6
+} noimg          _?                           ?
+- .oS.uc   R     _GEOFFROY Louis              NapolÇon apocryphe - 1812-1832 - Histoire de la conquàte du monde et de la monarchie universelle ˛1836
+o PRNG_UC     8i 2013.03 ..... ISBN 978-2-36634-011-2
+} noimg          _?                           ?
+- .oS.     R     _LAIGLE Jean-Pierre          Ave Caesar Imperator ˛2008
+!------------------------
+!=== 2014
+!------------------------
+o PRNG_UC    13i 2014.07 ..... ISBN 978-2-36634-044-0
+} noimg          _Albert Robida               ?
+- .o .     R     _ROBIDA Albert               L'Horloge des siäcles ˛1902
+!------------------------
+!=== 2015
+!------------------------
+o PRNG_UC    15i 2015.07 ..... ISBN 978-2-36634-057-0
+} noimg          _?                           ?
+- .oS.     R     _DAUDET LÇon                 Ciel de feu ˛1934
+!------------------------
+!=== 2016
+!------------------------
+o PRNG_UC    10i 2016.03 ..... ISBN 978-2-36634-015-0
+} noimg          _?                           ?
+- .oS.     R     _POSTERITAS                  Le Siäge de Londres ˛1885 The Siege of London ˛Trad. ?
+o PRNG_UC    12i 2016.05 ..... ISBN 978-2-36634-035-8
+} noimg          _?                           ?
+- .oS.     R     _CHESNEY Sir George          La Bataille de Dorking ˛1871 The Battle of Dorking ˛Trad. YRIARTE Charles
+!------------------------
+!=== 2017
+!------------------------
+o PRNG_UC     5i 2017.03 ..... ISBN 978-2-36634-033-4
+} noimg          _?                           ?
+- .oS.     R     _AGRAIVES Jean d'            L'Aviateur de Bonaparte - Livre 1 [L'Aviateur de Bonaparte - 1] ˛1926
+o PRNG_UC     9i 2017.04 ..... ISBN 978-2-36634-098-3
+} noimg          _?                           ?
+- .oS.     R     _AGRAIVES Jean d'            Le Corsaire borgne [L'Aviateur de Bonaparte - 2] ˛1926
+o PRNG_UC    11i 2017.05 ..... ISBN 978-2-36634-099-0
+} noimg          _?                           ?
+- .oS.     R     _AGRAIVES Jean d'            Les Ailes de l'Aigle [L'Aviateur de Bonaparte - 3] ˛1926
+o PRNG_UC    16i 2017.12 ..... ISBN 978-2-36634-087-7
+} noimg          _?                           ?
+- .oY.     R     _TWAIN Mark                  Un Yankee Ö la cour du roi Arthur ˛1889 A Connecticut Yankee in King Arthur's Court ˛Trad. FERRY Odette et PLUNKETT Jacques de
+!------------------------
+!=== 2018
+!------------------------
+o PRNG_UC     6i 2018.02 ..... ISBN 978-2-36634-016-7
+} noimg          _?                           ?
+- .oS.     R     _DEINCOURT Jean              Le Sosie de l'Aigle ˛1932
+o PRNG_UC     7i 2018.02 ..... ISBN 978-2-36634-117-1
+} noimg          _?                           ?
+- .oS.     R     _DEINCOURT Jean              NapolÇon avait raison ˛1932
+o PRNG_UC    18i 2018.04 ..... ISBN 978-2-36634-118-8
+} prngu18        _?                           ?
+- .oS.     N5    _BOIREAU Jacques             Les Enfants d'Ibn Khaldoñn - Chroniques sarrazines ˛1988-2018
+: .o .     N     _BOIREAU Jacques             Les Enfants d'Ibn Khaldoñn ˛1976
+!--- Chroniques sarrasines ˛1988
+: .o .     N     _BOIREAU Jacques             EtÇ ˛1984
+: .o .     N     _BOIREAU Jacques             Automne ˛1983
+: .o .     N     _BOIREAU Jacques             Hiver ˛1984
+: .o .     N     _BOIREAU Jacques             Hiver, toujours ˛1986
+!------------------------
+!=== 2019
+!------------------------
+o PRNG_UC    17i 2019.04 ..... ISBN 978-2-36634-108-9
+} noimg          _?                           ?
+- .oF.     R     _ARLINCOURT Vicomte d'       Le Solitaire ˛1821
+!------------------------
+!=== 2020
+!------------------------
+o PRNG_UC     4i 2020.03 ..... ISBN 978-2-36634-014-3
+} noimg          _?                           ?
+- .oS.     R     _JEANNE RenÇ                 NapolÇon bis ˛1932
+o PRNG_UC    14i 2020.08 ..... ISBN 978-2-84618-657-5
+} noimg          _?                           ?
+!--- GF - 150 x 210 mm - 148 pages - 12,50 euros
+- .oS.     R     _WALKER John Bernard         La Vengeance du Kaiser - New-York bombardÇ ˛1915 America Fallen! The Sequel to the European War ˛Trad. ?
+

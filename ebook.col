@@ -1,0 +1,1024 @@
+!-------------------------------------------------------------------------------
+!---                   E-revues, e-book
+!--- Soit avec nø ISBN
+!--- Soit achetable au format papier
+!--- +19 : soit avec ISSN
+!-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+_ PARTRAV Parchemins & Traverses, Anthologie des r‚alit‚s imaginaires (e-revue)
+_ PARTRA2 Parchemins & Traverses, Revue des r‚alit‚s imaginaires (e-revue)
+_ PARTRAA Parchemins & Traverses, Anthologies
+!-----------------------------------------------------------------------------
+!--- Gratuit en t‚l‚chargement, ou tirage num‚rique par correspondance
+!--- ISSN 1763-6000
+!-----------------------------------------------------------------------------
+o PARTRAV     1  2004.06 ..... ISBN 2-915869-00-6
+} parchtrav01    _?                           ?
+- .oI.    _M8    ****                         Parchemins & Traverses nø 1 (juin 2004) ş2004
+: .o .     N     _BALLY Nico                  Ma premiŠre compagne ş2004
+: .o .     N     _VAN KERREBROECK Christophe  Himdrefd ş2004
+: .oF.     N     _DORVENNES Julien            Et Rose elle a v‚cu... ş2004
+: .o .     N     _DENIEL Philippe             R‚parations ş2004
+: .o .     N     _LE SONGES Tibault           L'Homme dans le sillon de l'homme ş2004
+: .o .     N     _ASPHODEL                    La DerniŠre Danse ş2004
+: .o .     N     _HEURTEL Philippe            Le Miracle du mont des oliviers ş2004
+: .o .     N     _GAUNT Merlin                A huit portes de toi ş2004
+o PARTRAV     2  2005.xx ..... ISBN 2-915869-01-4
+} parchtrav02    _?                           ?
+- .oI.    _M8    ****                         Parchemins & Traverses nø 2 (janvie 2005) ş2005
+: .o .     N     _CARAU Cyril                 La Trahison du vrai ş2005
+: .o .     N     _PENOMBRE                    La Cit‚ de l'automne ş2005
+: .o .     N     _ASPHODEL                    Avances rapides ş2005
+: .o .     N     _BERROUKA Karim              Il suffit de passer la porte ş2005
+: .o .     N     _DUCLOS Patrick              Le CinquiŠme ‚clat ş2005
+o PARTRA2     3  2005.xx ..... ISBN 2-9524693-1-8
+} parchtrav03    _?                           ?
+- .oI.    _M6    ****                         Parchemins & Traverses nø 3 (octobre 2005) ş2005
+: .o .     N     _FONTAYNE Micha‰l            Les Bienfaiteurs ş2005
+: .o .     N     _MENOLLY                     Ombroisie ş2005
+: .o .     N     _CHAILLOL C‚dric             L'Errance du Pros‚lyte ş2005
+: .o .     N     _LE SONGES Tibault           Qui souffle sur le mobile des mondes ş2005
+: .o .     N     _DOGUET Micha‰l              Pr‚visions ş2005
+: .o .     N     _AUBERT R‚gis                Bulle, le monde et moi ş2005
+o PARTRA2     4  2007.xx ..... ISBN 2-915869-03-1
+} parchtrav04    _?                           ?
+- .oI.    _M6    ****                         Parchemins & Traverses nø 4 ş2007
+: .o .     N     _LONCAN Martine              La Poubelle en fer blanc ş2007
+: .o .     N     _SICE David                  Phases ş2007
+: .o .     N     _GALEAZZI Livia              Celle qui ş2007
+: .o .     N     _MENOLLY                     Eph‚mŠre ş2007
+: .o .     N     _BERROUKA Karim              Friendly Fire ş2007
+: .o .     N     _REY Timoth‚e                Pour l'entretien ş2007
+
+!--- http://editions.parcheminstraverses.com/catalogue.htm
+o PARTRAA     1  2005.08 ..... ISBN 2-9524693-0-X
+}parchtrav_a01   _?                           ?
+- .o .    _A11   *FAIRMARCH H‚lŠne            Les Bourreaux ş2005
+: .o .     N     _HALVICK Philippe            Une petite partie ş2005
+: .o .     N     _CARPENTIER Stefan           La Famille Tranchesec ş2005
+: .o .     N     _MENOLLY                     Mar‚e haute ş2005
+: .o .     N     _DENIEL Philippe             Le MaŒtre des souffrances ş2005
+: .o .     N     _ASPHODEL                    A droite du saigneur ş2005
+: .o .     N     _EBATBUOK                    Des larmes de jasmin ş2005
+: .o .     N     _BERROUKA Karim              Sainte hache, douce hache ş2005
+: .o .     N     _PUGET Am‚lie                Double Je ş2005
+: .o .     N     _BAZ St‚phane                L'Ex‚cuteur des sept oeuvres ş2005
+: .o .     N     _TAMARA Lady                 De sang et de larmes ş2005
+: .o .     N     _LE ROMANCER Fr‚d‚rique      La Reconversion ş2005
+o PARTRAA     2  2006.05 ..... ISBN 2-9524693-2-6
+}parchtrav_a02   _?                           ?
+- .oY.    kA11   *MARCHETTO Sybille           La Tour ş2006
+: .o .     N     _CRANNE Nicolas              Crƒne macul‚ ş2006
+: .o .     N     _GAILLARD No‚                La Tour de Carol ş2006
+: .o .     N     _DABAT Sophie                Le Reclus du Ponant ş2006
+: .o .     N     _BERROUKA Karim              Le D‚part ş2006
+: .o .     N     _MENOLLY                     234 degr‚s jusqu'au soleil ş2006
+: .o .     N     _BLONDEL G‚raldine           P‚toxian 0,15 ş2006
+: .o .     N     _FAIRMARCH H‚lŠne            L'Initi‚ ş2006
+: .o .     N     _RUCHE S‚bastien             La Tour d'Asamm‚e ş2006
+: .o .     N     _MICHALCZAK Fabien           Formulaire K ş2006
+: .o .     N     _TERRAS Yessine              Reflets ş2006
+: .o .     N     _HAUGUEL David               La Tour d'Al-Minaq ş2006
+o PARTRAA     3  2006.07 ..... ISBN 2-9524693-3-4
+}parchtrav_a03   _?                           ?
+- .oMF    kA23   *MENOLLY                     Contes et l‚gendes... revisit‚s ş2006
+: .o .     N     _HAUCHECORNE Anthelme        La Ballade d'Abrahel ş2006
+: .o .     N     _BREAN Simon                 Vies & exploits du marquis de Carabas ş2006
+: .o .     N     _SUZANNE Guillaume           P‚ch‚ original ş2006
+: .o .     N     _BAZ St‚phane                Petit conte difforme ş2006
+: .o .     N     _GAUNT Merlin                Les Larmes du taureau ş2006
+: .o .     N     _BERROUKA Karim              Jack et l'homme au chapeau ş2006
+: .o .     N     _HENRY Lo‹c                  Trois matelots ş2006
+: .o .     N     _OCANA-DORADO Corinne        Le Conflit des g‚n‚rations ş2006
+: .o .     N     _SYVEN                       La Marche des dragons ş2006
+: .o .     N     _JEANNERET Amria             La Mort s–re de l'amour ş2006
+: .o .     N     _EUSTACHE Nicholas          &Mater Noster ş2006
+&                _GAQUEREL Sandrine           
+: .oY.     N     _MELIGANE                    Il ‚tait une fois ş2006
+: .oY.     N     _MARECHAL Rozenn             Dans mes bras pleure Ys la belle ş2006
+: .oY.     N     _LESAGE Marianne             Voyageur ş2006
+: .oY.     N     _PADINES Yoan H.             Les Encantadas de Ria ş2006
+: .o .     N     _DABAT Sophie                Un m‚conte de SirŠne ş2006
+: .o .     N     _SEIGNOL Jean-Fran‡ois       Le VIPP du diable ş2006
+: .oY.     N     _VAN WILDER Cindy            L'Enfant ş2006
+: .oY.     N     _CARAU Cyril                 La L‚gende recommenc‚e ş2006
+: .oY.     N     _STEWARD Ketty               Cicada ş2006
+: .oY.     N     _LANIECE Anne                Nom d'un petit bonhomme ş2006
+: .oY.     N     _CUVELIER Pierre             Le Prince maladroit ş2006
+: .oY.     N     _FONTAYNE Micha‰l            Le Chant sans fin ş2006
+o PARTRAA     4  2008.09 ..... ISBN 978-2-9524693-4-0
+}parchtrav_a04   _?                           ?
+- .oF.    kA16   *BERROUKA Karim              Conquˆtes et explorations infernales ş2008
+: .o .     N     _KOLTZOFF Roland             Le Guide de l'enfer ş2008
+: .o .     N     _GALEAZZI Livia              Myriam ş2008
+: .o .     N     _MENOLLY                     D‚sillusion ş2008
+: .o .     N     _HAUCHECORNE Anthelme        Nuage rouge ş2008
+: .o .     N     _EBORY Elisabeth             En attendant ş2008
+: .o .     N     _LIGIER Aur‚lie              L'Ombre des psych‚s ş2008
+: .o .     N     _NICOLAVITCH Alex            Descente ş2008
+: .o .     N     _FERAUD Gabriel              Une vir‚e en enfer ş2008
+: .o .     N     _LUVAN                       L'Audition ş2008
+: .o .     N     _CUVELIER Pierre             L'Or du Laurion ş2008
+: .o .     N     _GUSO Isabelle               Mort en sursis ş2008
+: .o .     N     _NIOGRET Justine             Echanson, je boirai mˆme ta colŠre ş2008
+: .o .     N     _FONTAYNE Micha‰l            ternit‚ Forever ! ş2008
+: .o .     N     _ARNHEM                      Sur le chemin des morts (choses vues) ş2008
+: .o .     N     _MICHALCZAK Fabien           Extrait apocryphe des chroniques infernales ş2008
+: .o .     N     _BOILE Olivier               Le Guide du routard infernal ş2008
+o PARTRAA     5  2010.03 ..... ISBN 978-2-9524693-5-7
+}parchtrav_a05   _?                           ?
+- .oS.    kA17   *FONTAYNE Micha‰l           &Super-h‚ros ! ş2010
+&                *REY Timoth‚e                
+: .o .     N     _THIBERGE Guillaume          La MŠre de tous les vices ş2010
+: .o .     N     _VAN WILDER Cindy            Avis de tempˆte ş2010
+: .o .     N     _LORENJY Don                 Cityville est calme ce soir ş2010
+: .o .     N     _DETEY Lysianne              Servitude ş2010
+: .o .     N     _HAUCHECORNE Anthelme        Trˆves de comptoir ş2010
+: .o .     N     _BOILE Olivier               Nous nous battrons donc … l'ombre ş2010
+: .oY.     N     _FUENTEALBA Jacques          Les Monstres ş2010
+: .o .     N     _MOROZ Alexis                Cap'tain Life ş2010
+: .o .     N     _DURAND R‚jane               Le Gu‚risseur ş2010
+: .o .     N     _DEBATS Jeanne-A             Lambda man ş2010
+: .o .     N     _CASTLE Oliver               Atomic Girl et moi ş2010
+: .o .     N     _REY Timoth‚e                Pierrier-Par-Coeur contre les d‚voreurs de montagne ş2010
+: .o .     N     _DENUAULT Yoann              Le Pouvoir des mots ş2010
+: .o .     N     _BLANC William               Le Komiko‹ ş2010
+: .o .     N     _BERROUKA Karim              Histoire de cendres ş2010
+: .o .     N     _BREAN Simon                 Si ce n'est victoire... ş2010
+: .o .     N     _BALLY Nico                  Hypereyelidtamer ş2010
+o PARTRAA     6  2010.xx ..... ISBN 978-2-9524693-6-4
+}parchtrav_a06   _?                           ?
+- .oI.    iA14   *GAQUEREL Sandrine           Afrique-s ş2010
+: .o .     N     _LORENJY Don                 Touma‹ transfert ş2010
+: .o .     N     _DURAND R‚jane               Les Crimes des a‹eux ş2010
+: .o .     N     _EBATBUOK                    Au pied du fromager ş2010
+: .o .     N     _CAINE Kaily                 La Reine ş2010
+: .o .     N     _OEMOR Eve                   Ebola ş2010
+: .o .     N     _FERAUD Gabriel              Yurugu ş2010
+: .o .     N     _CROUZET Yves-Daniel         Sous l'aile de l'ange ş2010
+: .o .     N     _LIGNER Meddy                Singeries ş2010
+: .o .     N     _DABAT Sophie                Issue de la glaise ş2010
+: .o .     N     _CUVELIER Pierre             Mirages ş2010
+: .o .     N     _LE QUERREC Perrine          Dala et madame Scar ş2010
+: .o .     N     _GUICHEN Fred                M'bakiri ş2010
+: .o .     N     _LORENJY Don                 Touma‹ tango ş2010
+: .o .     N     _REY Timoth‚e                Qui suis-je ? dit le klapoutcheewoc ş2010
+o PARTRAA     7  2012.12 ..... ISBN 978-2-9524693-7-1
+}parchtrav_a07   _REY Timoth‚e                LNA
+- .oI.    kA13   *REY Timoth‚e                L'‚cole ş2012
+: .o .     N     _GUILLAUT Philippe           Hors-programme ş2012
+: .o .     N     _DURAND R‚jane               Une p‚dagogie appropri‚e ş2012
+: .o .     N     _ROUY Olivier                Travaux pratiques ş2012
+: .o .     N     _MORIN Philippe              Module Headshot, coefficient 5 ş2012
+: .o .     N     _PADINES Yoan H.             Doucarse Acad‚mie ş2012
+: .o .     N     _ASPHODEL                    Haha ş2012
+: .o .     N     _DUCLOS Patrick              Session de rattrapage ş2012
+: .o .     N     _CHAPPERON Nicolas           Les Aventures du commandant Bikh... ş2012
+: .o .     N     _LI-CAM                      Analyse lin‚aire intergalactique ş2012
+: .o .     N     _FUENTEALBA Jacques          L'cole de la vie ş2012
+: .o .     N     _BOILE Olivier               Ne r‚veillez pas le cancre qui dort ş2012
+: .o .     N     _SREDERIC                    En finir avec la plaie de l'absent‚isme ş2012
+: .o .     N     _FERET Michel                East Point ş2012
+o PARTRAA     8  2013.xx ..... ISBN 978-2-9524693-8-8
+}parchtrav_a08   _CHAIGNON Benjamin           ?
+- .oI.    kA16   *FERET Michel               &Le Corps ş2013
+&                *EUSTACHE Nicholas           
+: .o .     N     _CUVELIER Pierre             Jack l'incompris ş2013
+: .o .     N     _MORIN Philippe              Monsieur Panasonic ş2013
+: .o .     N     _MAYER France                Le Gar‡on aux yeux en forme de poisson ş2013
+: .o .     N     _LESAGE Marianne             Empathic Body Music ş2013
+: .o .     N     _ESSLING M.H.                Vendredi soir ş2013
+: .o .     N     _HADDAD S‚mir                Exp‚rience 17 ş2013
+: .o .     N     _BOILE Olivier               Collecteurs de corps ş2013
+: .o .     N     _LIGIER Aur‚lie              Joshua ş2013
+: .o .     N     _WELLENSTEIN Aur‚lie         Prendre soin du d‚mon ş2013
+: .o .     N     _PARRA Fr‚d‚ric              Maux crois‚s ş2013
+: .o .     N     _GERVAISOT Mathilde          Lazare ş2013
+: .o .     N     _FERRANDO Am‚lie             Roulette Russe ş2013
+: .o .     N     _SUZANNE Guillaume           A corps perdu ş2013
+: .o .     N     _DEGOTTEX C‚dric             Une vall‚e de corps vides ş2013
+: .o .     N     _KASWITI Fifo                De corps en corps, encore ş2013
+: .o .     N     _BOULANGER Anthony           L'Entropie de Pygmalion et Galat‚e ş2013
+
+o PARTRAA     9  2014.xx ..... ISBN 978-2-9524693-9-5
+} parchtrav_a09  _?                           ?
+- .oF.    kA10   *FAYE Estelle                En dessous ş2014
+: .o .     N     _HAY Tepthida                Revoir les ‚toiles ş2014
+: .o .     N     _CLAVEL Fabien               C‚notaphe ş2014
+: .o .     N     _SCIPION Johan               Le Terrier ş2014
+: .o .     N     _SALIPANTE Laurent           Le SystŠme d'extinction ş2014
+: .o .     N     _JOHNSON Sylvain             Dans la merde jusqu'au cou ş2014
+: .o .     N     _MEZIN Guillaume             La Marche des endog‚s ş2014
+: .o .     N     _HAUCHECORNE Anthelme        Le Roi d'automne ş2013
+: .oS.     N     _DURAND Thomas C.            Ascendance ş2014
+: .oF.     N     _BOUDIN Rapha‰l              L'Appel de Sirannon ş2010
+: .o .     N     _BOILE Olivier               Le Cueilleur de morts ş2014
+o PARTRAA    10  2015.11 ..... ISBN 978-2-9524693-1-9
+} parchtrav_a10  _Olivier Cotte               Olivier Cotte
+- .oS.    kA15   *DEBATS Jeanne-A             42 - L'appel de la SF ş2015
+: .o .     p     _KLEIN G‚rard                Fiat Lux ş2015
+: .o .     p     _MAUMEJEAN Xavier            Un bar … vins … Palmyre ş2015
+: .o .     N     _DENIS Sylvie                Sans but ni fin ş2015
+: .o .     N     _BARRET Nicolas              Imago ş2015
+: .o .     N     _BOULANGER Anthony           Le Dernier Ptol‚m‚e ş2015
+: .o .     N     _LAINE Sylvie                M‚lomania ş2015
+: .o .     N     _FERET Michel                Strange Days ş2015
+: .o .     N     _CHAMBON Sylvain             Cul de sac ş2015
+: .o .     N     _COTTE Olivier               Prise en passant ş2015
+: .o .     N     _LARUE Anne                  Kims que nous sommes ş2015
+: .o .     N     _BREAN Simon                 Premier des citoyens ş2015
+: .o .     N     _WALRAET Matthieu            Le Guide du routard de la complexit‚ ş2015
+: .o .     N     _REY Timoth‚e                Clandos ş2015
+: .o .     N     _HANSEN Nathael              Om‚ga ş2015
+: .o .     N     _COUZIGOU Magali             Nature humaine ş2015
+: .o .     N     _BONNET Bertrand             Les Trente-DouziŠmes R‚actionnariales ş2015
+: .o .     N     _GECHTER Olivier             La Famine ş2015
+: .o .     o     _DEBATS Jeanne-A             Du comportement des l‚zards … gros seins dans un espace … n dimensions ş2015
+
+!-----------------------------------------------------------------------------
+_ UNICHIM Univers & ChimŠres (webzine)
+!-----------------------------------------------------------------------------
+!--- Gratuit en t‚l‚chargement
+!--- ISSN 1763-6000
+!-----------------------------------------------------------------------------
+o UNICHIM     1  2004.05 ..... ISBN -
+} univchim01     _?                           ?
+- .oI.    _M13   ****                         Univers & ChimŠres nø 1 - Imaginaire et Musique ş2004
+: .oF.     N     _DAU Nathalie                Le Violon de la f‚e ş2004
+: .o .     N     _HELIOT Johan                Fa‰rie Boots ş2003
+: .o .     N     _HEURTEL Philippe            Gloria Mundi ş2004
+: .o .     N     _DAVOUST Lionel              R‚cital pour les hautes sphŠres ş2004
+: .oS.     N     _GEVART Pierre               Souper avec orchestre ş1981
+: .o .     N     _GECHTER Olivier             Le "la" naturel ş2004
+: .o .     N     _LE BUSSY Alain              Le Rock du bagne ş1995
+: .o .     N     _BUSSOTTIN Ga‰lle            Plaquer quelques accords et se sentir invuln‚rable ş2004
+: .o .     N     _BORDIER Bruno               Le Chant de l'‚go‹sme, les soupirs de la honte ş2004
+!--- BORDIER Bruno B.
+: .o .     N     _BALLY Nico                  Pas de chanson pour Julie ş2004
+: .o .     N     _CALVEZ Jean-Michel          Water music ş2004
+: .oS.     N     _WAGNER Roland C.            Distorse, gloire et chouchen ş2004
+: .o .     N     _FOURET Julien               Cyberave ş2004
+o UNICHIM     2  2005.09 ..... ISBN -
+} univchim02     _?                           ?
+- .oI.    _M21   ****                         Univers & ChimŠres nø 2 - La Passion ş2005
+: .o .     N     _LAMARCHE L‚o                Int‚rieur nuit ş2005
+: .o .     N     _BALLY Nico                  Je suis mort pour plusieurs filles ş2005
+!--- Nicolas
+: .oY.     N     _LARA L‚onor                 La RiviŠre ş2005
+: .o .     N     _CALVEZ Jean-Michel          Coup de foudre ş2005
+: .o .     N     _HALVICK Philippe            Partie remise ş2004
+: .o .     N     _SCHOLLER Catherine          Une passion au-del… du temps ş2005
+: .o .     N     _SCHOLLER Axelle             Epilogue ş2005
+: .o .     N     _BALLY Nico                  Je suis n‚ dans plusieurs villes ş2005
+!--- Nicolas
+: .oS.     N     _ERIS Patrick                Une tache sur le trottoir ş2005
+: .o .     N     _INBADREAMS                  Providence ş2005
+: .o .     N     _NEVO Fran‡ois               Cendres ş2005
+: .o .     N     _TAMARA Lady                 Demande en mariage ş2005
+: .o .     N     _LI-CAM                      Le Sillage rouge sang [Virgo Sapriati] ş2005
+: .o .     N     _V. Lilly                    Mon modŠle ş2005
+: .o .     N     _HOCK Joaquim                Voyage c‚leste d'un marchand de petit pois ş2005
+: .o .     N     _MOSLONKA Micha‰l            A l'angle de la 34Šme rue ş2005
+: .o .     N     _MENOLLY                     Le Mot dit ş2005
+: .o .     N     _LIGNY Jean-Marc             Ogoun Ferraille [Chroniques des Nouveaux Mondes] ş2001-2004
+: .o .     N     _LENCOU Antoine              Au boulot ş2005
+: .o .     N     _BOUCAUD-MAITRE Yves         Lui ş2005
+: .oS.     N     _WINTREBERT Jo‰lle           Les EsthŠtes ş1978
+o UNICHIM     3  2007.04 ..... ISBN -
+} univchim03     _?                           ?
+- .oI.    _M15   ****                         Univers & ChimŠres nø 3 - L'Humour ş2007
+: .oS.     N     _WAGNER Roland C.            La Chanson de Jimmy ş2003
+: .o .     N     _ALARY Paul                  L'Šre nouvelle ş2007
+: .o .     N     _BALLY Nico                  Tout est bon dans l'dragon ş2007
+!--- Nicolas
+: .o .     N     _BERROUKA Karim              Les Noeuds du destin ş2007
+: .oS.     N     _CHENU Lucie                 Guide de la m‚tamorphose animale … l'usage des sorciers d‚butants ş2007
+: .oF.     N     _DAU Nathalie                Le Siestophage ş2007
+: .oS.     N     _GECHTER Olivier             Mot de passe incorrect ş2004
+!--- en fait : Mot de passe incorrect !
+: .o .     N     _GEVART Pierre               Eclats de rire ş2007
+: .o .     N     _HEURTEL Philippe            Cheval de Troie ş2007
+: .o .     N     _LAVADOU J‚r“me              Garou de l'infortune ş2007
+: .o .     N     _LORENJY Don                 Rencontre du troisiŠme trip... ş2007
+: .o .     N     _CIBYLLINE                   Elfe … vendre ş2007
+: .o .     N     _MARTINELLI Michelle         Miss Normandie 76 ş2007
+: .o .     N     _MILLEMANN Jean              Quand Moestal a faim (plus rien d'autre ne compte) ş2007
+: .oS.     N     _WAGNER Roland C.            L'Esprit de la commune [Les Futurs MystŠres de Paris] ş2001
+o UNICHIM     4  2009.12 ..... ISBN -
+} univchim04     _?                           ?
+- .oI.    _M24   ****                         Univers & ChimŠres nø 4 - Vampires, fant“mes et monstres en tout genre ş2009
+: .o .     N     _BALLY Nico                  Rien qu'un vieux piano ş2009
+: .oS.     N     _BAUMIER Matthieu            Le Chant de la perle ş2009
+: .o .     N     _BRIAND Ga‰l                 Long comme un dimanche ş2009
+: .o .     N     _SIRE CEDRIC                 N‚crophage ş1999
+: .o .     N     _CHRISTIAN Robert            Les Vaches-Dragons ş2009
+: .oS.     N     _CORLAIX Vincent             Sevrage ş2009
+: .o .     N     _GAILLARD No‚                Actualit‚ des monstres ş2009
+: .oS.     N     _GECHTER Olivier             Panorama ş2009
+: .oS.     N     _GUILLET Jean-Pierre (Fr)    Une affaire de sang ş2009
+: .o .     N     _HEURTEL Philippe            Polichinelle dans le tiroir ş2009
+: .o .     N     _KAAN Jess                   Juste un goule... ş2009
+: .o .     N     _LE VAMPIRE Nicolas          Qu'un sang impur abreuve nos sillons ! ş2009
+: .o .     N     _LI-CAM                      Le "Blues" de l'ange d‚chu ş2009
+: .o .     N     _LUBREAC Marion              A vous, mes chers amis d'antan ş2009
+: .oF.     N     _MACUMI Mala‹ka              RoadGhosts ş2009
+: .o .     N     _MARTINEAU Jean-Val‚ry       Fant“me de clown triste ş2009
+: .o .     N     _MESPLEDE Richard            Schizoglossia ş2007
+: .o .     N     _PANARISI Rapha‰l            Aldo ş2009
+: .o .     N     _PHILIPPE Martine            Soif de vies ş2009
+: .o .     N     _REGRAIN Fran‡oise           La Cape de vampire ş2009
+: .o .     N     _REY Timoth‚e                L'tude du soir ş2008
+: .o .     N     _SCHNEBELEN Fran‡ois         Prolif‚ration ş2009
+: .o .     N     _SEBAL MichŠle               Moxas des neuf ş2009
+: .oS.     N     _GAZOUFER Didier             Expansion ş2009
+
+
+!-----------------------------------------------------------------------------
+_ ANGMORT Angle Mort (e-revue)
+!-----------------------------------------------------------------------------
+!--- Gratuit en t‚l‚chargement, ou tirage num‚rique par correspondance
+!--- ISSN 1763-6000
+!-----------------------------------------------------------------------------
+o ANGMORT     1  2010.12 ..... ISBN ?
+} anglemort01    _?                           ?
+- .oI.    _M4    ****                         Angle Mort nø 1 (novembre 2010) ş2010
+: .o .     N     _KLOETZER Laurent            Ao ş2010
+: .o .     N     _BODARD Aliette de           Coeur fl‚tri ş2009 Blighted Heart şTrad. DOLISI Florence
+: .o .     N     _MAUMEJEAN Xavier            Lenny Bruce, comique galactique ş2010
+: .o .     N     _GREGORY Daryl               DeuxiŠme personne du singulier ş2005 Second Person, Present Tense şTrad. FERRANDO Am‚lie
+o ANGMORT     2  2011.04 ..... ISBN ?
+} anglemort02    _?                           ?
+- .oI.    _M4    ****                         Angle Mort nø 2 (f‚vrier 2011) ş2011
+: .o .     N     _CALVO David                 Pragmata ş2011
+: .o .     N     _CASTRO Adam-Troy            V‚elles ş2010 Arvies şTrad. MARCEL Patrick
+: .o .     N     _OUREDNIK Andr‚              L'cran suivant ş2011
+: .o .     N     _ROSENBAUM Benjamin          La Maison derriŠre le ciel ş2006 The House Beyond Your Sky şTrad. DOLISI Florence
+o ANGMORT     3  2011.06 ..... ISBN ?
+} anglemort03    _?                           ?
+- .oI.    _M4    ****                         Angle Mort nø 3 (mai 2011) ş2011
+: .o .     N     _FAZI M‚lanie                Le Jardin des silences ş2008
+: .o .     N     _GENGE Sara                  Comme les femmes se battent ş2009 As Women Fight şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HENRY L‚o                   Oeuvre v‚cu d'Athanase Stedelijk, une monographie ş2011
+: .o .     N     _JOHNSON Kij                 Mˆl‚e ş2009 Spar şTrad. QUEYSSI Laurent
+o ANGMORT     4  2011.09 ..... ISBN ?
+} anglemort04    _?                           ?
+- .oI.    _M4    ****                         Angle Mort nø 4 (ao–t 2011) ş2011
+: .o .     N     _DUNYACH Jean-Claude         Dieu, vu de l'int‚rieur ş2011
+: .o .     N     _KOSMATKA Ted                Sale n... ş2008 N-Words şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARCHETTO H‚lŠne            Dahut ş2011
+: .o .     N     _RAJANIEMI Hannu             La Voix de son maŒtre ş2005 Is„nn„n „„ni şTrad. ?
+o ANGMORT     5  2011.11 ..... ISBN ?
+} anglemort05    _?                           ?
+- .oI.    _M4    ****                         Angle Mort nø 5 (novembre 2011) ş2011
+: .o .     N     _AGRATI Jean-Marc            Le Punisseur ş2011
+: .o .     N     _BEUKES Lauren               Port‚ disparu ş2011
+: .o .     N     _PAQUET Olivier              L'IA qui ‚crivait des romans d'amour ş2011
+: .o .     N     _GIBSON William              Treize vues des bas fonds ş1997 Thirteen Views of a Cardboard City şTrad. ?
+o ANGMORT     6  2012.02 ..... ISBN ?
+} anglemort06    _?                           ?
+- .oI.    _M4    ****                         Angle Mort nø 6 (f‚vrier 2012) ş2012
+: .o .     N     _HOLSTEIN Eric               Glamour šber Alles ş2012
+: .o .     N     _TIDHAR Lavie                Pacmandu ş2012
+! .o .     N     _RENART Lucia                Resolute Bay ş2012
+: .o .     N     _CASTRO Adam-Troy            Les mains de son mari ş2011 Her Husband's Hands şTrad. ?
+o ANGMORT     7  2012.06 ..... ISBN ?
+} anglemort07    _?                           ?
+- .oI.    _M4    ****                         Angle Mort nø 7 (juin 2012) ş2012
+: .o .     N     _JOHNSON Kij                 Poneys ş2010 Ponies şTrad. ?
+: .oS.     N     _DAY Thomas                  Sept secondes pour devenir un aigle ş2012
+: .o .     N     _LINK Kelly                  La plupart de mes amis se composent d'eau aux deux tiers ş2001 Most of My Friends Are Two-Thirds Water şTrad. ?
+: .o .     N     _McDONALD Ian                Une r‚volte astucieuse et courtoise des morts ş2011 A Smart Well-Mannered Uprising Of The Dead şTrad. ?
+o ANGMORT     8  2012.11 ..... ISBN ?
+} anglemort08    _?                           ?
+- .oI.    _M4    ****                         Angle Mort nø 8 (novembre 2012) ş2012
+: .o .     N     _GOSS Theodora               Les Beaux Gar‡ons ş2012 Beautiful Boys
+: .o .     N     _DUNYACH Jean-Claude         Paysage avec intrus ş2012
+: .o .     N     _SINGH Vandana               Infinis ş2009 Infinities
+: .o .     N     _HENRY L‚o                   Down There by the Train ş2012
+o ANGMORT     9  2013.11 ..... ISBN ?
+} anglemort09    _?                           ?
+- .oI.    _M4    ****                         Angle Mort nø 9 (novembre 2013) ş2013
+: .o .     N     _FORD Jeffrey                Daltharee ş2008 Daltharee
+: .o .     N     _CROENNE St‚phane            Le Chant des baleines ş2013
+: .o .     N     _KLOETZER Laurent            Christiana ş2013
+: .o .     N     _SKILLINGSTEAD Jack          Tu es l… ? ş2006 Are You There
+o ANGMORT    10  2015.xx ..... ISBN ?
+} anglemort10    _?                           ?
+- .oI.    _M4    ****                         Angle Mort nø 10 (‚t‚ 2015) ş2015
+: .o .     N     _CHARASSE Fanny              Chronique d'une croissance ş2015
+: .o .     N     _ALLAN Nina                  A l'assaut du ciel ş2010 Flying in the Face of God
+: .o .     N     _MEYER St‚phane              Moi, la forˆt ş2015
+: .o .     N     _PRIEST Christopher          Futouristic.co.uk ş2009 futouristic.co.uk
+o ANGMORT    11  2016.xx ..... ISBN ?
+} anglemort11    _?                           ?
+- .oI.    _M4    ****                         Angle Mort nø 11 (printemps 2016) ş2016
+: .o .     N     _SAMATAR Sofia               Honey Bear ş2012 Honey Bar
+: .o .     N     _ASCIANO Jean-Luc A. d'      Le Premier Arbre ş2016
+: .o .     N     _CASTRO Adam-Troy            Une brŠve histoire des formes … venir ş2014 The Thing About Shapes to Come
+: .o .     N     _PINSKER Sarah               Une greffe … deux voies ş2014 A Stretch of Highway Two Lanes Wide
+o ANGMORT    12  2017.xx ..... ISBN ?
+} anglemort12    _?                           ?
+- .oI.    _M4    ****                         Angle Mort nø 12 (‚t‚ 2017) ş2017
+: .o .     N     _BODARD Aliette de           L'Ange au coeur de la pluie ş2017
+: .o .     a     _GALISON Peter               Quand l'‚tat ‚crit de la science-fiction ş2017
+: .o .     N     _CARTER Rapha‰l              L'Ag‚n‚sie cong‚nitale de l'id‚ation du genre par K.N. Sirsi et Sandra Botkin ş2006 Congenital Agenesis of Gender Ideation
+: .o .     N     _SHOEMAKER Martin L.         Aujourd'hui je suis Paul ş2015 Today I Am Paul
+: .o .     N     _AGRATI Jean-Marc            L'quation du wagon ş2017
+o ANGMORT    13  2019.xx ..... ISBN ?
+} anglemort13    _?                           ?
+- .oI.    _M4    ****                         Angle Mort nø 13 (‚t‚ 2019) ş2019
+: .o .     N     _TIDBECK Karin               Sing ş2013 Sing
+: .o .     N     _SONG Han                    Le Voyage t‚l‚phonique ş1997 Dianhua zhi lv
+: .o .     N     _CHAO H. V.                  Le Mus‚e du futur ş2013 The Museum of the Future, birkensnake 6 şTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _AGRATI Jean-Marc            Le Filtre … air ş2019
+
+!-----------------------------------------------------------------------------
+_ MILPRES Ed. Millennium Press
+_ MILBOOK Ed. Millennium Books
+!-----------------------------------------------------------------------------
+!--- Millenium Books www.milleniumpress.ro
+!-----------------------------------------------------------------------------
+o MILPRES     ?  2007.10 ..... ISBN 978-973-87590-8-4
+} milpress_millest _Erica Leighton              ?
+!--- Sorti pour les Utopiales 2007. A exist‚ en version papier ?
+- .oF.    _A5    *URSU Horia Nicola          &Millennium Est - Cinq histoires fantastiques ş2007
+&                *VANDERMEER Jeff             
+: .oS.     N     _VANDERMEER Jeff             Avant-propos ş2007 ? şTrad. URSU Horia Nicola
+: .oS.     N     _HAULICA Michael             Le Passage ş? Pasaj de trecere şTrad. TELEA Coralia
+: .oS.     N     _FRANTZ Ona                  Un certain chien et moi-mˆme ş? Eu si un c&icirc;ine şTrad. TELEA Coralia
+: .oS.     N     _BUGARIU Voicu               Le Tueur d'escargots ş? Ucigasul melcilor şTrad. TELEA Coralia
+: .oS.     N     _BUCHERU Bogdan-Tudor        La Chute des anges ş? Atingerea
+: .oS.     N     _COMAN Marian                Le Testament de chocolat ş? Testamentul de ciocolata şTrad. TELEA Coralia
+
+o MILBOOK     ?  2013.xx ..... ISBN 978-606-8113-86-9
+}milbook_millest _Erica Leighton              ?
+- .oF.    _A5    *URSU Horia Nicola          &Millennium Est - Cinq histoires fantastiques ş2007
+&                *VANDERMEER Jeff             
+: .oS.     N     _VANDERMEER Jeff             Avant-propos ş2007 ? şTrad. URSU Horia Nicola
+: .oS.     N     _HAULICA Michael             Le Passage ş? Pasaj de trecere şTrad. TELEA Coralia
+: .oS.     N     _FRANTZ Ona                  Un certain chien et moi-mˆme ş? Eu si un c&icirc;ine şTrad. TELEA Coralia
+: .oS.     N     _BUGARIU Voicu               Le Tueur d'escargots ş? Ucigasul melcilor şTrad. TELEA Coralia
+: .oS.     N     _BUCHERU Bogdan-Tudor        La Chute des anges ş? Atingerea
+: .oS.     N     _COMAN Marian                Le Testament de chocolat ş? Testamentul de ciocolata şTrad. TELEA Coralia
+
+!-----------------------------------------------------------------------------
+_ TEXAMIL Ed. Texarom et Millennium books (num‚rique)
+!-----------------------------------------------------------------------------
+!--- Texaom - www.texarom.com
+!--- Millenium Books www.milleniumpress.ro
+!-----------------------------------------------------------------------------
+o TEXAMIL     ?  2012.04 ..... ISBN 978-606-8113-69-2
+!---                           ISBN 978-606-8113-68-5
+} texarom_millest _Erica Leighton              ?
+?+ TEXAMIL     ?  2012.09 ..... ISBN ?
+?} texarom_millest2 _Erica Leighton              ?
+- .oF.    _A5    *URSU Horia Nicola          &Millennium Est - Cinq histoires fantastiques ş2007
+&                *VANDERMEER Jeff             
+: .oS.     N     _VANDERMEER Jeff             Avant-propos ş2007 ? şTrad. URSU Horia Nicola
+: .oS.     N     _HAULICA Michael             Le Passage ş? Pasaj de trecere şTrad. TELEA Coralia
+: .oS.     N     _FRANTZ Ona                  Un certain chien et moi-mˆme ş? Eu si un c&icirc;ine şTrad. TELEA Coralia
+: .oS.     N     _BUGARIU Voicu               Le Tueur d'escargots ş? Ucigasul melcilor şTrad. TELEA Coralia
+: .oS.     N     _BUCHERU Bogdan-Tudor        La Chute des anges ş? Atingerea
+: .oS.     N     _COMAN Marian                Le Testament de chocolat ş? Testamentul de ciocolata şTrad. TELEA Coralia
+
+!-----------------------------------------------------------------------------
+_ CYNGEN  Ed. Cyngen (num‚rique)
+!-----------------------------------------------------------------------------
+!--- Cyngen-Editions 66 rue Gustave Flaubert 03100 Montlu‡on, France
+!--- Format A5, 240 pages, 
+!-----------------------------------------------------------------------------
+o CYNGEN      ?  2013.07 ..... ISBN 978-2-36933-003-5
+} noimg          _ARKAN Wolfy d'              LOPEZ, Audrey, DIDIZUKA, LOETSCHER Val‚rie, DREAM Abigail
+- .pI.    iAx    ****                         Naissance ş2013
+!--- Anticipation illustre par LOPEZ Audrey
+: .o .     N     _FEUGNET Anne                Le Sang des inf‚rieurs ş2013
+: .o .     N     _DUPILLE Ga‰lle              Lucy ş2013
+!--- Horreur Epouvante illustre par Didizuka
+: .o .     N     _SAINTIER Nicolas            L'Enfer dans les yeux ş2013
+?: .o .     N     _MEYNIER Selene              GynogenŠse ş2013
+!--- Science Fiction illustre par LOETSCHER Valerie
+?: .o .     N     _ROCHAS Caroline             Le Jour o— tu es n‚e ş2013
+?: .o .     N     _MAILLARD Robin              Le Projet Janus ş2013
+!--- Thriller illustre par DREAM Abigail
+?: .! .     N     _CEDELLE Fran‡ois            Alchimie humaine ş2013
+?: .! .     N     _GEORGES Muriel              La Chose ş2013
+
+!-----------------------------------------------------------------------------
+_ CORBEAU Corbeau (webzine)
+!-----------------------------------------------------------------------------
+!--- Gratuit en t‚l‚chargement, ou tirage num‚rique par correspondance
+!--- Corbeau - Litt‚rature noire
+!--- Editeur : H‚nose
+!-----------------------------------------------------------------------------
+?o CORBEAU     1  2013.11 ..... ISBN ?
+?} anglemort01    _?                           ?
+?- .oFT     Mx    ****                         Corbeau nø 1 - DeuxiŠme round (Automne 2013) ş2013
+?: .oF.     N     _LIVYNS Fr‚d‚ric             Dirty Henry ş2013
+?: .? .     N     _LAVOIE Luc                  Post mortem ş2013
+?: .? .     N     _GRAY Lise                   Ca ne se commande pas ş2013
+?: .? .     N     _DREAL                       Un prˆtre en enfer ş2013
+?: .? .     N     _BRAISAZ Yan                 Petit Tom ş2013
+?: .? .     N     _CAICCO Nicolas              Soir‚e improvis‚e ş2013
+?: .? .     N     _MUH Kr”                     Pin-up Blues ş2013
+?: .? .     N     _SEMONT Christophe           Une si jolie poup‚e ş2013
+?: .? .     N     _McSLEY Aaron                Carte sourire ş2013
+?: .? .     N     _SHALMETH                    La M‚lancolie du foetus ş2013
+?: .oT.     N     _SERRANO Elodie              On abat bien les vaches ş2013
+?: .? .     N     _FARO Yelena                 Nous allions avoir un b‚b‚ ş2013
+?: .o .     N     _MESSINA Nicolas             T‚ratoexode & T‚rartogenŠse Oeil pour dent Kill ! kill ! O toboggans de nacre ş2013
+?: .? .     N     _LA MAISON DE SABRINA A. de  N‚crololicon ş2013
+?!--- Angelo de la Maison de Sabrina
+?: .! .     N     _ZAROFF                      Richard ş2013
+?o CORBEAU     2  2013.11 ..... ISBN ?
+?} anglemort01    _?                           ?
+?- .oFT     Mx    ****                         Corbeau nø 2 (novembre 2010) ş2014
+?o CORBEAU     3  2014.06 ..... ISBN ?
+?} anglemort01    _?                           ?
+?- .oFT     Mx    ****                         Corbeau nø 3 - Appel au meurtre (Et‚ 2014) ş2014
+?: .? .     N     _H. Fred                     La Cave ş2014
+?: .? .     N     _BOULANGER Anthony           Vif talent ş2014
+?: .? .     N     _FARO Yelena                 Les Dessous de la photographie ş2014
+?: .? .     N     _LECOINTRE Arnaud            Reflet de l'abŒme ş2014
+?: .? .     N     _M'ISEY                      A l'int‚rieur ş2014
+?: .? .     N     _LAUZON Isabelle             Les doigts immobiles ş2014
+?: .? .     N     _SILENCE S. E.               Emprise ş2014
+?: .? .     N     _SEBILLE Yann                Ils arrivent ş2014
+?: .? .     N     _HOLAY Anthony               Tendre petit joujou ş2014
+?: .? .     N     _SA Tony de                  Oeil pour oeil ş2014
+?: .? .     N     _GOUTORBE Flavie             Je ne veux plus souffrir ş2014
+?: .o .     N     _DESLACS Andr‚a              Tout et peu importe quoi ş2014
+?: .? .     N     _McSLEY Aaron                Viande fraŒche ş2014
+?o CORBEAU     4  2015.xx ..... ISBN ?
+?} anglemort01    _?                           ?
+?- .oFT     Mx    ****                         Corbeau nø 4 - Ath‚matique (Hiver 2015) ş2015
+?: .o .     N     _BRETHIOT Julien             Les Gardiens du silence
+?: .o .     N     _NECROMONGERS                Simple comme un au revoir
+?: .o .     N     _M'ISEY                      En souvenir de moi-mˆme
+?: .o .     N     _DE LA VERDIERE Sylvain-Ren‚ Dyptique psychopathe
+?: .o .     N     _GWUIVER Th‚o                Au seuil de l'enfer
+?: .o .     N     _LAMUR Sylvain               Une cr‚ature au bord du monde
+?: .o .     N     _ZAROFF                      Ondes mortelles
+?: .o .     N     _O'BICHON Bob                Extrait des textes retrouv‚s : Le Banquet
+?: .o .     N     _BURY Jean                   Pince-Mi et Pince-Moi sont au P“le Nord
+?: .o .     N     _SHALMETH                    El‚ments pour une Mythologie Organique
+?: .o .     N     _DE LEUR MONDE, D'EMMANUEL HUG in                            
+?: .o .     N     _NOEL Julien                 Machination
+?: .o .     N     _MART Julien                 Sales comme une Aurore
+?: .o .     N     _KLUCKEN R‚gine              Le Passeur
+?: .o .     N     _MORANDEAU Mathieu           Tu es Belle quand tu te balances
+
+!--- COLL : J'ai Lu / J'ai Lu pour elle - Cr‚puscule - format num‚rique
+
+!-------------------------------------------------------------------------------
+_ JAI_CRn J'ai Lu, Coll. Cr‚puscule (num‚rique)
+_ JAI_ECn J'ai Lu, Coll. J'ai lu pour elle, Cr‚puscule (num‚rique)
+!-------------------------------------------------------------------------------
+o JAI_CRn     ?  2016.03 ..... ISBN 978-2-290-10998-4
+!--- J'ai Lu - Num‚rique seul
+} noimg          _?                           ?
+- .oF.     r     _HARRISON Thea               La Quˆte du dragon [La Chronique des anciens - 6.5] ş2013 Dragos Takes A Holiday şTrad. MURPHY Laurence
+o JAI_ECn     ?  2016.03 ..... ISBN 978-2-290-12088-0
+!--- J'ai Lu pour elle - Num‚rique seul
+} noimg          _?                           ?
+- .oF.     r     _KEYSER Fr‚d‚rique de        Le Sommeil des dieux ş2016
+o JAI_ECn     ?  2016.09 ..... ISBN 978-2-290-12085-9
+!--- J'ai Lu pour elle - Num‚rique seul
+} noimg          _? Shutterstock              ?
+- .oF.     r     _KEYSER Fr‚d‚rique de        La PanthŠre de l'amour ş2016
+o JAI_ECn     ?  2017.03 ..... ISBN 978-2-290-14307-0
+!--- J'ai Lu pour elle - Num‚rique seul
+} noimg          _? Shutterstock              ?
+- .oF.     r     _VIEHL Lynn                  L'trange voleur masqu‚ [D‚senchantement - 0.5] ş2013 My Lord Mayhem şTrad. SCHEUER Tiphaine
+o JAI_ECn     ?  2017.06 ..... ISBN 978-2-290-14311-7
+!--- J'ai Lu pour elle - Num‚rique seul
+} noimg          _? Shutterstock              ?
+- .oF.     r     _VIEHL Lynn                  L'Incroyable Rencontre de Sally Ryan [D‚senchantement - 1.5] ş2014 In the Leaves, a Story of Toriana şTrad. SCHEUER Tiphaine
+o JAI_ECn     ?  2017.12 ..... ISBN 978-2-290-15628-5
+!--- J'ai Lu pour elle - Num‚rique seul
+} noimg          _? Shutterstock              ?
+- .oF.    kR7    _JOMAIN Sophie               Felicity Atcock - L'int‚grale [Felicity Atcock - 1/6] ş2017
+: .oF.     R     _JOMAIN Sophie               Les anges mordent aussi [Felicity Atcock - 1] ş2011
+: .oF.     R     _JOMAIN Sophie               Les anges ont la dent dure [Felicity Atcock - 2] ş2012
+: .oF.     R     _JOMAIN Sophie               Les anges sont de mauvais poil [Felicity Atcock - 3] ş2013
+: .oF.     r     _JOMAIN Sophie              &Les anges ont la mort aux trousses [Felicity Atcock]+[Orcus Morrigan] ş2016
+&                 GILLIO Maxime               
+: .oF.     R     _JOMAIN Sophie               Les anges sont sans merci [Felicity Atcock - 4] ş2014
+: .oF.     R     _JOMAIN Sophie               Les anges battent la campagne [Felicity Atcock - 5] ş2015
+: .oF.     R     _JOMAIN Sophie               Les anges voient rouge [Felicity Atcock - 6] ş2017
+
+
+!-------------------------------------------------------------------------------
+_ MultiSF Ed. Multivers, Coll. Science-Fiction (num‚rique)
+_ MultiFY Ed. Multivers, Coll. Fantasy (num‚rique)
+_ MultiFA Ed. Multivers, Coll. Fantastique (num‚rique)
+_ Multi_J Ed. Multivers, Coll. Jeunesse (num‚rique)
+!-------------------------------------------------------------------------------
+!------------------------
+!=== 2014
+!------------------------
+o MultiSF     ?  2014.04 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _DOUAY Dominique             La Vie comme une course de chars … voile ş1978
+o MultiSF     ?  2014.04 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _GRENIER Christian           Le Montreur d'‚tincelles ş1978
+o MultiSF     ?  2014.05 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _GRENIER Christian           Le Complot ordrien ş1981
+o Multi_J     ?  2014.05 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _ANDREVON Jean-Pierre        La F‚e et le g‚omŠtre ş1981
+o MultiSF     ?  2014.06 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _TRUDEL Jean-Louis           Le Ressuscit‚ de l'Atlantide ş1987-1994
+o MultiSF     ?  2014.06 ..... ISBN ?
+} noimg          _?                           ?
+- .oY.     R     _DUNYACH Jean-Claude         Le Jeu des sabliers [Le Jeu des sabliers - 1/2] ş1988
+?o Multi_J     ?  2014.07 ..... ISBN ?
+?} noimg          _?                           ?
+?- .o .     R     _DUGUEL Anne                 Le Petit Jardin des f‚es ş2010
+o MultiSF     ?  2014.07 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _LE BUSSY Alain              Quˆte imp‚riale ş1994
+o MultiFA     ?  2014.09 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _ANDREVON Jean-Pierre        Sherman ş1989
+o MultiSF     ?  2014.09 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _LE BUSSY Alain              Nexus de feu ş1998
+o MultiSF     ?  2014.10 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _GENEFORT Laurent            L'Homme qui n'existait plus ş1996
+o Multi_J     ?  2014.10 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _DENIS Sylvie                Ph‚nix futur ş2009
+o MultiSF     ?  2014.11 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _LE BUSSY Alain              Deraag ş1993
+o MultiSF     ?  2014.11 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _HELIOT Johan                La Harpe des ‚toiles ş2003
+o MultiFY     ?  2014.11 ..... ISBN ?
+} noimg          _?                           ?
+- .oY.     R     _PAGEL Michel                Les Mages du Nil [Les Immortels - 2] ş2006
+o MultiFY     ?  2014.11 ..... ISBN ?
+} noimg          _?                           ?
+- .oY.     R     _PAGEL Michel                Les Mages de Sumer [Les Immortels - 1] ş2006
+o MultiSF     ?  2014.11 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _OKSANA                     &Cath‚drales de brume ş2009
+&                _PROU Gil                    
+o MultiSF     ?  2014.12 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _CANAL Richard               La Guerre en ce jardin ş1991
+!------------------------
+!=== 2015
+!------------------------
+o MultiSF     ?  2015.01 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _BARBERI Jacques             Guerre de rien ş1991
+o MultiSF     ?  2015.01 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _CURVAL Philippe             Blanc comme l'ombre ş2003
+o MultiSF     ?  2015.03 ..... ISBN 978-2-806-80140-1
+} noimg          _?                           ?
+- .oSF     N12   _LESSARD Martin              Dur‚e d'oscillation variable ş2013-2015
+: .o .     N     _LESSARD Martin              I Remember ş2010
+: .o .     N     _LESSARD Martin              Dur‚e d'oscillation variable ş2013
+: .o .     N     _LESSARD Martin              Le Choix ş2013
+: .o .     N     _LESSARD Martin              Expert … l'appui ş2011
+: .o .     N     _LESSARD Martin              A la face du monde ş2012
+: .o .     N     _LESSARD Martin              Le bonhomme vient … sept heures ş2013
+: .o .     N     _LESSARD Martin              Compendieux ş2013
+: .o .     N     _LESSARD Martin              Le Rail ş2015
+: .o .     N     _LESSARD Martin              Le Son de la vie ş2013
+: .o .     N     _LESSARD Martin              Mon cin‚ma ş2013
+: .o .     N     _LESSARD Martin              Psych‚d‚lique affection ş2013
+: .o .     N     _LESSARD Martin              Vingt fois sur l'‚motion remettez votre ouvrage ş2014
+o MultiSF     ?  2015.03 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _CURVAL Philippe             L'Odeur de la bˆte ş1981
+o MultiSF     ?  2015.03 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _DARTEVELLE Alain            Script ş1988
+o MultiFY     ?  2015.03 ..... ISBN ?
+} noimg          _?                           ?
+- .oY.     R     _LOEVENBRUCK Henri           La Guerre des loups [La Mo‹ra - 2] ş2001
+o MultiFY     ?  2015.03 ..... ISBN ?
+} noimg          _?                           ?
+- .oY.     R     _LOEVENBRUCK Henri           La Nuit de la louve [La Mo‹ra - 3] ş2002
+o MultiSF     ?  2015.03 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _PAGEL Michel                La SirŠne de l'espace ş1999
+o MultiFY     ?  2015.05 ..... ISBN ?
+} noimg          _?                           ?
+- .oY.     R     _GIDON Laurent               Djeeb le Chanceur ş2009
+o MultiSF     ?  2015.05 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _RANNE G. Elton              La Mƒchoire du dragon ş1996
+o MultiSF     ?  2015.05 ..... ISBN ?
+} noimg          _?                           ?
+- .oSF    iNx    _HELIOT Johan               &Johan Heliot vous pr‚sente ses hommages ş2013
+&                *COMBALLOT Richard           
+: .o .     p     _JEURY Michel                Pr‚face ş2013
+: .o .     N     _HELIOT Johan                Au plus ‚lev‚ tr“ne du monde ş2009
+: .oS.     N     _HELIOT Johan                Pax Bonapartia ş2008
+: .oF.     N     _HELIOT Johan                Paris avant l'orage ş2004
+: .o .     N     _HELIOT Johan                La V‚ritable Toute PremiŠre Affaire ş2005
+: .o .     N     _HELIOT Johan                Trouver son coeur et tuer la bˆte ş2002
+: .o .     N     _HELIOT Johan                Monsieur Mouche et la Grande Demoiselle ş2002
+: .oS.     N     _HELIOT Johan                Le Robot du devoir ş2003
+: .oP.     N     _HELIOT Johan                Le Rˆve d'Amerigo Vespucci ş2002
+: .oF.     N     _HELIOT Johan                Le Souffle du destin ş?
+: .oF.     N     _HELIOT Johan                Une ‚tude au rouge ş?
+: .oF.     N     _HELIOT Johan                Idylle du temps des ombres ş2004
+: .oF.     N     _HELIOT Johan                La Chose dans la glace ş?
+: .oS.     N     _HELIOT Johan                La Nuit du Grand Duc ş2004
+: .oS.     N     _HELIOT Johan                Op‚ration Mnchhausen ş2003
+: .oF.     N     _HELIOT Johan                Vous r‚vez trop de Fant“mas ş?
+: .oF.     N     _HELIOT Johan                Toujours plus, toujours ! ş?
+: .o .     N     _HELIOT Johan                L'Huile et le feu ş2009
+: .oY.     N     _HELIOT Johan                La Musique des ƒmes ş2006
+: .oS.     N     _HELIOT Johan                A la bastille, Gabba gabba Hey ! ş2003
+: .o .     N     _HELIOT Johan                Fa‰rie Boots ş2003
+o MultiSF     ?  2015.05 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.    iRN10  _JUBERT Herv‚                PŠlerin [Les Aventures de Pierre PŠlerin] ş2015
+: .o .     R     _JUBERT Herv‚                Sinedeis [Les Aventures de Pierre PŠlerin - 1] ş1999
+: .o .     R     _JUBERT Herv‚                In media res [Les Aventures de Pierre PŠlerin - 2] ş2000
+: .o .     R     _JUBERT Herv‚                Erat Fatum [Les Aventures de Pierre PŠlerin - 3] ş2002
+o MultiFY     ?  2015.06 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R4    _CASTAN Claude               Gƒla‰ [Gƒla‚ - 1] ş1996
+: .o .     R     _CASTAN Claude               Les Chemins de Pilduin [Gƒla‰ - 1] ş1996
+: .o .     R     _CASTAN Claude               La Route de Stelian [Gƒla‰ - 2] ş1996
+: .o .     R     _CASTAN Claude               Les All‚es de la gloire [Gƒla‰ - 3] ş1996
+: .o .     R     _CASTAN Claude               Les Pistes d'Ahran [Gƒla‰ - 4] ş1996
+o MultiFY     ?  2015.06 ..... ISBN ?
+} noimg          _?                           ?
+- .oY.     R     _GIDON Laurent               Djeeb l'Encourseur ş2010
+o MultiSF     ?  2015.06 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _RANNE G. Elton              New York underwater [Alien world - 3] ş1998
+o MultiSF     ?  2015.07 ..... ISBN ?
+} noimg          _?                           ?
+- .oY.     R     _BATHELOT Lilian             C'est l'Inuit qui gardera le souvenir du blanc ş2006
+o MultiSF     ?  2015.07 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     C12   _KLOETZER Laurent            R‚miniscences 2012 ş2001
+: .oS.     N     _KLOETZER Laurent            Dream on - Janvier 2012 ş2001
+: .oS.     N     _KLOETZER Laurent            Poign‚e de pluie - F‚vrier 2012 ş2001
+: .oS.     N     _KLOETZER Laurent            Winterblues - Mars 2012 ş2001
+: .oS.     N     _KLOETZER Laurent            Mauvaise rencontre dans la ville - Avril 2012 ş2001
+: .oS.     N     _KLOETZER Laurent            Monsieur K. court la poup‚e - Mai 2012 ş2001
+: .oS.     N     _KLOETZER Laurent            Le Scarab‚e - Juin 2012 ş2001
+: .oS.     N     _KLOETZER Laurent            Monsieur K. et la Cit‚ de m‚tal - Juillet 2012 ş2001
+: .oS.     N     _KLOETZER Laurent            Monsieur K. et la Machine … rˆves - Ao–t 2012 ş2001
+: .oS.     N     _KLOETZER Laurent            Monsieur K. dans le labyrinthe - Septembre 2012 ş2001
+: .oS.     N     _KLOETZER Laurent            Know - Octobre 2012 ş2001
+: .oS.     N     _KLOETZER Laurent            Monsieur K. sauve le monde - Novembre 2012 ş2001
+: .oS.     N     _KLOETZER Laurent            Dream Over - D‚cembre 2012 ş2001
+o Multi_J     ?  2015.10 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _BIZIEN Jean-Luc             Sommeil de feu [Wendy et les mutants - 1] ş2006
+o MultiSF     ?  2015.11 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _BARBERI Jacques             Une soir‚e … la plage ş1988
+o Multi_J     ?  2015.12 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _BIZIEN Jean-Luc             Danger : territoire mutant ! [Wendy et les mutants - 2] ş2007
+!------------------------
+!=== 2016
+!------------------------
+o MultiSF     ?  2016.01 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     N6    _WARFA Dominique             Lointaines et limitrophes [Un imperceptible vacarme - 1] ş2013
+!--- 24 nouvelles (de 74 … 2004 + 4 in‚dits)
+: .oS.     N     _WARFA Dominique             Un bal sur Tempˆte ş2000
+: .o .     N     _WARFA Dominique             La Danse de l'aigle ş1994-1996
+: .o .     N     _WARFA Dominique             veil ş1990
+: .o .     N     _WARFA Dominique             Plong‚e profonde ş1976-1988
+: .o .     N     _WARFA Dominique             Cruelle cr‚ation ş1995
+: .o .     N     _WARFA Dominique             Les LumiŠres de Bellaire ş1991
+o MultiFA     ?  2016.01 ..... ISBN ?
+} noimg          _?                           ?
+- .oFT     C11   _LIVYNS Fr‚d‚ric             Les Contes d'Amy ş2011
+: .o .     p     _COLLINS Christophe          Fr‚d‚ric Livyns - Le mec macabre ş2013
+: .o .     N     _LIVYNS Fr‚d‚ric             Intro ş2011
+: .o .     N     _LIVYNS Fr‚d‚ric             Fin de la route ş2011
+: .o .     N     _LIVYNS Fr‚d‚ric             Amour ‚ternel ş2011
+: .o .     N     _LIVYNS Fr‚d‚ric             Le Village maudit ş2011
+: .o .     N     _LIVYNS Fr‚d‚ric             Au revoir ş2011
+: .o .     N     _LIVYNS Fr‚d‚ric             Eurydice ş2011
+: .o .     N     _LIVYNS Fr‚d‚ric             R‚miniscicenes ş2011
+: .o .     N     _LIVYNS Fr‚d‚ric             La nuit vient ş2011
+: .o .     N     _LIVYNS Fr‚d‚ric             La V‚ritable Nature de l'homme ş2011
+: .o .     N     _LIVYNS Fr‚d‚ric             La Forˆt ş2011
+: .o .     N     _LIVYNS Fr‚d‚ric             L'Ami ş2011
+: .o .     N     _LIVYNS Fr‚d‚ric             CimetiŠre ş2011
+: .o .     N     _LIVYNS Fr‚d‚ric             Outro ş2011
+o MultiSF     ?  2016.01 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _WHALE Laurent               Les Pierres du rˆve ş2006
+o Multi_J     ?  2016.01 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _LE GENDRE Nathalie          Imago ş2011
+o MultiFA     ?  2016.02 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _VALERY Francis              Les Sources du Nil ş2000
+o MultiSF     ?  2016.02 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     N5    _WARFA Dominique             Quantiques et conscience [Un imperceptible vacarme - 2] ş2013
+: .o .     N     _WARFA Dominique             La Bulle d'Eben-Ezer ş1996
+: .o .     N     _WARFA Dominique             Le Danseur absolu ş1997
+: .oS.     N     _WARFA Dominique             Wayne et les quanta ş2004
+: .o .     N     _WARFA Dominique             Une saison sang et marine ş2000
+: .o .     N     _WARFA Dominique             L'cume de Prague ş2013
+o MultiSF     ?  2016.03 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     N12   _POSSAMAI Adam M.            Le XXIe siŠcle de Dickerson et Ferra ş2011
+: .oS.     N     _POSSAMAI Adam M.            Cyber Babe ş1998-2012
+: .oS.     N     _POSSAMAI Adam M.            David III Knox ş1992-2012
+: .oS.     N     _POSSAMAI Adam M.            Morituri te salutant ş1995-2012
+: .oS.     N     _POSSAMAI Adam M.            Aristote : pour ou contre ? ş1992-2012
+: .oS.     N     _POSSAMAI Adam M.            La Mouette ş1999-2012
+: .oS.     N     _POSSAMAI Adam M.            La Mort de Montagovitch ş2012
+: .oS.     N     _POSSAMAI Adam M.            L'on voit des hommes tomber ş1993-2012
+: .oS.     N     _POSSAMAI Adam M.            Ainsi parlait Zarathousa ş1995-2012
+: .oS.     N     _POSSAMAI Adam M.            Les G‚n‚rations "Bƒtisseurs" ş1995-2012
+: .oS.     N     _POSSAMAI Adam M.            Amarama ş2012
+: .oS.     N     _POSSAMAI Adam M.            Le Droit … l'euthanasie ş1992-2012
+: .oS.     N     _POSSAMAI Adam M.            Pour une poign‚e de spleen ş1992-2012
+o MultiFA     ?  2016.03 ..... ISBN 978-2-8068-0276-7
+} noimg          _?                           ?
+- .oFT    iNx    _LIVYNS Fr‚d‚ric             Entrez... ş2010
+: .o .     N     _LIVYNS Fr‚d‚ric             Venu des tr‚fonds ş2010
+o Multi_J     ?  2016.03 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _BIZIEN Jean-Luc             La Citadelle invisible [Wendy et les mutants - 3] ş2007
+o Multi_J     ?  2016.03 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _LEOURIER Christian          Mission brume ş2003
+o MultiSF     ?  2016.04 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     N7    _WARFA Dominique             Imminentes et dissemblables [Un imperceptible vacarme - 3] ş2013
+: .o .     N     _WARFA Dominique             Un imperceptible vacarme ş1992
+: .oS.     N     _WARFA Dominique             La Voile verte ş1998
+: .o .     N     _WARFA Dominique             La Crosse et l'‚p‚e ş1995
+: .o .     N     _WARFA Dominique             Que les nuages ne tuent pas les hommes ş1982
+: .o .     N     _WARFA Dominique             L'Acad‚mie des liqueurs rares ş2013
+: .o .     N     _WARFA Dominique             Comme un visage de vieil indien burin‚ ş1985
+: .oF.     N     _WARFA Dominique             Errance, peut-ˆtre ş2001
+o Multi_J     ?  2016.04 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _JOSEPHINE R‚gine            Les Rebelles de l'Enki-Ea ş1997
+o MultiFY     ?  2016.05 ..... ISBN ?
+} noimg          _?                           ?
+- .oY.     R     _CARDOT Christine            Le Roi d'‚bŠne ş2010
+o MultiSF     ?  2016.07 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _PAGEL Michel                Cin‚terre ş1998
+o MultiSF     ?  2016.07 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _WINTREBERT Jo‰lle           Les MaŒtres-Feu ş1982
+o MultiSF     ?  2016.12 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     N6    _WARFA Dominique             Ult‚rieures et noires [Un imperceptible vacarme - 4] ş2013
+: .o .     N     _WARFA Dominique             Parlez-moi des acides gras poly-insatur‚s ş1977
+: .o .     N     _WARFA Dominique             Aux couleurs d'un rivage blond ş1977
+: .oS.     N     _WARFA Dominique             Rituel pour un homme claustr‚ ş1978
+: .o .     N     _WARFA Dominique             Camion rouge, d‚sespoir d'un soir ş1992
+: .o .     N     _WARFA Dominique             Lagune morte ş1998
+: .o .     N     _WARFA Dominique             Dragan ş2013
+o MultiSF     ?  2016.12 ..... ISBN ?
+} noimg          _?                           ?
+- .oF.     R     _OKSANA                     &Katharsis ş2010
+&                _PROU Gil                    
+!------------------------
+!=== 2017
+!------------------------
+o MultiSF     ?  2017.03 ..... ISBN 978-2-8068-0332-0
+} noimg          _?                           ?
+- .oS.     C16   _MILLEMANN Jean              Dukkha : Fumeterre [Fumeterre] ş1994-2017
+: .oS.     p     _MANDY                       Pr‚face ş2017
+: .oS.     N     _MILLEMANN Jean              Viande recycl‚e [Fumeterre] ş2017
+: .oS.     N     _MILLEMANN Jean              Tegite specula [Fumeterre] ş2017
+: .oS.     N     _MILLEMANN Jean              Green Hope, 3 heures du matin [Fumeterre] ş1994-1998
+: .oS.     N     _MILLEMANN Jean              Scops [Fumeterre] ş1994-1998
+: .oS.     N     _MILLEMANN Jean              Agnus Purus [Fumeterre] ş2010
+: .oS.     N     _MILLEMANN Jean              Les Anges d‚chus [Fumeterre] ş1994-1998
+: .oS.     N     _MILLEMANN Jean              Grey Cave song [Fumeterre] ş1995-1998
+: .oS.     N     _MILLEMANN Jean              Hurleterre [Fumeterre] ş1998
+: .oS.     N     _MILLEMANN Jean              Les Donneurs [Fumeterre] ş1994-1998
+: .oS.     N     _MILLEMANN Jean              Susy McGee [Fumeterre] ş1994-1998
+: .oS.     N     _MILLEMANN Jean              Caine le cloporte [Fumeterre] ş2017
+: .oS.     N     _MILLEMANN Jean              Joe [Fumeterre] ş1994-1998
+: .oS.     N     _MILLEMANN Jean              Night Corpse Twist [Fumeterre] ş1998
+: .oS.     N     _MILLEMANN Jean              El‚gie [Fumeterre] ş1998
+: .oS.     N     _MILLEMANN Jean              La Cucaracha [Fumeterre] ş2017
+: .oS.     N     _MILLEMANN Jean              Dukkha McGee [Fumeterre] ş2017
+: .o .     o     _MILLEMANN Jean              Postface ş2017
+o MultiSF     ?  2017.04 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _CURVAL Philippe             Le Ressac de l'espace ş1962
+o MultiSF     ?  2017.06 ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _POCHESCI Bruno              Hammour ş2016
+o MultiSF     ?  2017.06 ..... ISBN ?
+} noimg          _?                           ?
+- .oF.     R     _LAJOYE Patrice              Naufrag‚s ‚ternels ş2014
+o MultiSF     ?  2017.07 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _COLLINS Christophe          Virtual world ş2003
+
+
+!-----------------------------------------------------------------------------
+_ MYTHOLO Ed. Mythologica (num‚rique)
+_ MYTHOLn Ed. Mythologica (num‚rique)
+!-----------------------------------------------------------------------------
+!--- Le num‚ro 4 a eu une tentative de financement Ulule, avec 106% de financement (2121 sur 2000 euros)
+!---  sans suite ?!
+!-----------------------------------------------------------------------------
+o MYTHOLO     0  2013.xx ..... ISBN -
+} mythologica0   _?                           ?
+- .oI.     M3    ****                         Mythologica nø 0 - Sp‚cial Fantasy ş2013
+: .oS.     N     _TARVEL Brice                Le Sang des ogres ş2013
+: .o .     N     _EVERSON John                Seuls les plus forts survivront ş2005 The Strong Will Survive şTrad. BAUDURET Thomas
+: .o .     N     _DAU Nathalie                Sh‚radye ş2013
+o MYTHOLO     1  2013.11 ..... ISBN 979-10-93004-00-6
+} mythologica1   _?                           ?
+- .oI.     M3    ****                         Mythologica nø 1 - Fantasy & Jeux de R“le ş2013
+: .oY.     N     _DAVOUST Lionel              La Fin de l'histoire [Evan‚gyre] ş2013
+: .oF.     N     _IMBERT Delphine             Hell's Hope ş2013
+: .oF.     N     _LOGUINOV Sviatoslav         Sur quoi pleurent les limaces ş2003 O tchiom platchout slizni
+: .o .     N     _DAU Nathalie                Chroniques des terres mixtes - Prologue ş2013
+o MYTHOLO     2  2014.04 ..... ISBN 979-10-93004-01-3
+} mythologica2   _?                           ?
+- .oI.     M3    ****                         Mythologica nø 2 - Sp‚cial H.P. Lovecraft ş2014
+: .o .     N     _FAZI M‚lanie                Le Dit de la pleine lune ş2014
+: .o .     N     _HEM Julien d'               Sorcerˆve ş2014
+: .o .     N     _SMITH Clark Ashton          L'Ombre double ş1933 The Double Shadow
+: .o .     N     _DAU Nathalie                Chroniques des terres mixtes - Chapitre 1 ş2014
+o MYTHOLO     3  2014.01 ..... ISBN 979-10-93004-22-8
+} mythologica3   _?                           ?
+- .oI.     M4    ****                         Mythologica nø 3 - Sp‚cial Steampunk ş2014
+!--- La nouvelle de Jeanne-A D‚bats mettant en scŠne son vampire cynique Navarre est merveilleuse et m'a donn‚ envie de lire sa M‚taphysique du Vampire. le texte de Johan Heliot est trŠs bon aussi, inscrit dans son univers de la Lune seule le sait.
+: .o .     N     _HELIOT Johan                Dans la brume m‚canique [La Trilogie de la Lune] ş2014
+: .o .     N     _DEBATS Jeanne-A             OvogenŠse du vampire [Navarre] ş2014
+: .o .     N     _ASTOLFI Luis                Nina d'aigua ş2012 Nina d'aigua şTrad. ?
+: .o .     N     _LI-CAM                      Lost in a foreign place ş2014
+: .o .     N     _DAU Nathalie                Chroniques des terres mixtes - Chapitre 2 ş2014
+o MYTHOLO     4  2014.09 ..... ISBN 979-10-93004-20-6
+} mythologica4   _?                           ?
+- .oI.     M4    ****                         Mythologica nø 4 - Marion Zimmer Bradley ş2014
+: .o .     N     _KAAN Jess                   Birds of Feather ş2014
+: .o .     N     _LORUSSO Adriana             Une vierge pour le seigneur ş2014
+: .o .     N     _MARCHETTO Sybille           Le Roi fantasque ş2012
+: .o .     N     _DAU Nathalie                Chroniques des terres mixtes - Chapitre 3 ş2014
+o MYTHOLn     ?  2015.09 ..... ISBN -
+} mytholog2015   _Mathieu Coudray             ?
+!--- B‚n‚fices entiŠrement revers‚s aux associations Fibromalgie France et Elan SEP (Ligue fran‡aise contre la scl‚rose en plaques).
+- .oI.     A11   ****                         L'imaginaire se mobilise ş2015
+: .o .     N     _DAU Nathalie                Ce que je suis ş2015
+: .o .     N     _ANDREVON Jean-Pierre        Une enfant perdue ş1991
+: .o .     N     _LOUVIER Carl                Blouse Noire ş2015
+: .o .     N     _DAVOUST Lionel              L'Œle close ş2008
+: .o .     N     _HEM Julien d'               Sorcerˆve ş2014
+: .o .     N     _DANIEL Marie-Catherine      Triple totem ş2012
+: .o .     N     _LABBE Denis                 Juste un pincement au coeur ş2010
+: .o .     N     _BRUNEAU Oph‚lie             Au coeur de la sphŠre ş2015
+: .o .     N     _FERRIC Franck               Totem ş2012
+: .o .     N     _BOILE Olivier               L'Esprit de l'Hellespont ş2009
+: .o .     N     _LABRUYERE P‚n‚lope          L'Imp‚ratrice des Gnomes ş2011
+
+!-----------------------------------------------------------------------------
+_ MOTSLEn Ed. Mots et L‚gendes (num‚rique)
+!-----------------------------------------------------------------------------
+!--- ISSN 1760-6667
+!-----------------------------------------------------------------------------
+!--- 2013.xx - 1 
+!--- 2013.xx - 2 
+!--- 2013.xx - 3 
+!--- 2013.xx - 4 
+!--- 2011.xx - 5 R‚volution
+!--- 2012.04 - 6 La Quˆte
+!--- 2013.xx - 7 Catacombes et fonds marins
+!--- 2013.05 - 8 Femmes dans tous ses ‚tats
+o MOTSLEn     9  2015.07 ..... ISBN -
+} noimg          _Pascal Vitte                ?
+- .oS.     M12   ****                         Mots et l‚gendes nø 9 - Science-Fiction dans tous ses ‚tats ş2016
+: .o .   8 N     _SIRE Jean-Marc              Le Dernier Homme sur la Terre ş2016
+: .o .  20 N     _BOULANGER Anthony           41 unit‚s temporelles ş2016
+: .o .  35 N     _SILVA L‚a                   Inua-b ş2016
+: .o .  66 N     _OSMAY David                 30 jours avant la lumiŠre ş2016
+: .o .  83 N     _DELORME Claire              Le Bagne de Carralet ş2016
+: .o . 103 N     _BURY Jean                   Tous les robots s'appellent Alex ş2016
+: .o . 124 a     _BOUSQUET Manon              Science-fiction : quand les scientifiques r‚alisent les rˆves des auteurs ş2016
+: .o . 134 N     _MAZUAY Alice                Un titre pour le collectionneur ş2016
+: .o . 151 N     _XIAO Dingyu                 Legacy of a hundred wars ş2016
+: .o . 175 N     _CHAUVIN David               Aube Mortelle ş2016
+: .o . 200 N     _VILLAIN Nicolas             Agonie sous ciel vert ş2016
+: .o . 219 N     _LOISEAU Catherine           La Symbiose ş2016
+: .o . 242 N     _COVIN Gr‚gory               00011001 ş2016
+

@@ -1,0 +1,620 @@
+
+!-----------------------------------------------------------------------------
+_ STOC_DB Lib. Stock, Delamain et Boutelleau
+_ STOCK   Stock
+_ STOCKD2 Stock, Dire/Stock 2
+_ STOCK_2 Stock, Stock 2
+_ STOC_MA Stock, Maia
+_ STOC_GB Stock, BibliothŠque anglaise
+_ STOC_BC Stock, BibliothŠque Cosmopolite
+_ STOC_CC Stock, Le Cabinet Cosmopolite
+_ STOCNCF Stock, Le Nouveau Cabinet Cosmopolite fantastique
+_ STOCNCC Stock, Le Nouveau Cabinet Cosmopolite
+!-----------------------------------------------------------------------------
+!--- Editions Stock   (P.-V. Stock)
+!-----------------------------------------------------------------------------
+o STOC_BC    18  1905.xx ..... ISBN -
+} noimg          _?                           ?
+- .p .    =N7    _WILDE Oscar                 Le Crime de Lord Arthur Savile ş1905
+: .o .   v p     _SAVINE Albert               Pr‚face ş1905
+: .o .   3 N     _WILDE Oscar                 Le Crime de Lord Arthur Savile ş1891 Lord Arthur Savile's Crime şTrad. SAVINE Albert
+: .o .  93 N5    _WILDE Oscar                 Contes ş1888 The Happy Prince and Other Tales
+= .o .  97 N     _WILDE Oscar                 L'Ami d‚vou‚ ş1888 The Devoted Friend
+= .o . 125 N     _WILDE Oscar                 La Fameuse Fus‚e ş1888 The Remarkable Rocket
+= .o . 155 N     _WILDE Oscar                 Le Prince heureux ş1888 The Happy Prince
+= .o . 181 N     _WILDE Oscar                 Le Rossignol et la rose ş1888 The Nightingale and the Rose
+= .o . 197 N     _WILDE Oscar                 Le G‚ant ‚go‹ste ş1888 The Selfish Giant
+: .C . 211 C     _WILDE Oscar                 Nouvelles publi‚es en Am‚rique ş1905
+!--- Ces trois nouvelles ont ‚t‚ publi‚es dans une evue am‚ricaine aprŠs la mort d'Oscar Wilde.
+!--. "Nous les traduisons ici bien que l'authenticit‚ nous en paraisse ‚minemment suspecte".
+: .! . 215 C     _WILDE Oscar                 Ego te Absolvo ş1905
+: .! . 225 C     _WILDE Oscar                 Old Bishop's ş1905
+: .! . 241 C     _WILDE Oscar                 La Peau d'orange ş1905
+o STOC_BC    19  1906.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     N11   _POE Edgar Allan             Derniers contes ş1887
+!--- Bibliotheque cosmopolite nø 19
+!--- Trad. F‚lix RABBE
+: .o .     N     _POE Edgar Allan             Le Duc de l'Omelette ş1832 The Duc De L'Omelette
+: .o .     N     _POE Edgar Allan             Le Mille et DeuxiŠme Conte de Sch‚h‚razade ş1845 The Thousand-and-second Tale of Scheherazade
+: .o .     N     _POE Edgar Allan             Mellonta Tauta ş1849 Mellonta Tauta şTrad. RABBE F‚lix
+: .o .     N     _POE Edgar Allan             Comment s'‚crit un article … la Blackwood ş1838 How to Write a Blackwood Article
+: .o .     N     _POE Edgar Allan             La Filouterie consid‚r‚e comme science exacte ş1843 Diddling Considered as One of the Exact Science
+!--- TBC : article ?
+: .o .     N     _POE Edgar Allan             L'Homme d'affaires ş1840 The Business Man
+: .o .     N     _POE Edgar Allan             L'Ensevelissement pr‚matur‚ ş1844 The Premature Burial
+: .o .     N     _POE Edgar Allan             Bon-Bon ş1832-1850 The Bargain Lost / Bon-Bon
+: .o .     N     _POE Edgar Allan             La Cryptographie ş? ?
+: .o .     N     _POE Edgar Allan             Du principe po‚tique ş? ?
+: .o .     N     _POE Edgar Allan             Quelques secrets de la prison du magazine ş? ?
+o STOC_BC    28  1908.xx ..... ISBN -
+} noimg          _?                           ?
+- .p .    iN7    _DOYLE Arthur Conan          MystŠres et aventures ş1910
+?: .? .     N     _DOYLE Arthur Conan          Le Ravin de la digue de l'homme bleu ş1881 The Gully of Bluemansdyke
+?: .? .     N     _DOYLE Arthur Conan          Le Clergyman du gouffre de Jackman ş1885 The Parson of Jackman's Gulch
+?: .? .     N     _DOYLE Arthur Conan          Mon ami l'assassin ş1882 My Friend the Murderer
+: .oF.     N     _DOYLE Arthur Conan          La Hachette d'argent ş1883 The Silver Hatchet şTrad. GAIL Jean de
+?: .? .     N     _DOYLE Arthur Conan          L'Homme venu d'Arkhangel ş1885 The Man from Archangel
+?: .? .     N     _DOYLE Arthur Conan          Cette petite caisse ş1881 That Little Square Box
+?: .? .     N     _DOYLE Arthur Conan          Une nuit chez les nihilistes ş1881 A Night Among the Nihilists
+o STOC_BC    39  1910.xx ..... ISBN -
+} noimg          _?                           ?
+- .p .    iN5    _DOYLE Arthur Conan          Nouveaux mystŠres et aventures ş1910
+?: .? .     N     _DOYLE Arthur Conan          Notre-Dame de la mort ş1886 Uncle Jeremy's Household
+?: .? .     N     _DOYLE Arthur Conan          Les Os ş1882 Bones, the April Fool of Harvey's Sluice
+?: .? .     N     _DOYLE Arthur Conan          Le MystŠre de la vall‚e de Sasassa ş1879 The Mystery of Sasassa Valley
+?: .? .     N     _DOYLE Arthur Conan          Notre Cagnotte du derby ş1882 Our Derby Sweepstakes
+?: .? .     N     _DOYLE Arthur Conan          Le R‚cit de l'Am‚ricain ş1880 The American's Tale
+o STOC_BC    44  1910.xx ..... ISBN -
+!--- Pr‚face (SAVINE Albert)
+!--- Contient aussi, en second :
+!--- Comment le signor Lambert quitta l'Op‚ra The Retirement of Signor Lambert
+!--- Voir les autres ‚ditions fran‡aises de cette histoire
+} noimg          _?                           ?
+- .oS.     r     _DOYLE Arthur Conan          La Merveilleuse D‚couverte de Raffles Haw ş1891 The Doings of Raffles Haw
+o STOC_BC    52  1911.05 ..... ISBN -
+} noimg          _?                           ?
+- .p .    iN6    _DOYLE Arthur Conan          Derniers mystŠres et aventures ş1910
+: .o .     N     _DOYLE Arthur Conan          L'Ensorceleuse ş1884 John Barrington Cowles
+?: .oK.     N     _DOYLE Arthur Conan          Cyprien Overbeck-Wells ş1886 Cyprian Overbeck Wells. A Literary Mosaic
+?: .o .     N     _DOYLE Arthur Conan          La Double vie de John Huxford ş1888 John Huxford's Hiatus
+: .oF.     N     _DOYLE Arthur Conan          L'Anneau de Thoth ş1890 The Ring of Thot şTrad. ?
+: .oF.     N     _DOYLE Arthur Conan          L'Exp‚rience du grand Keinplatz ş1885 The Great Keinplatz Experiment
+?: .o .     N     _DOYLE Arthur Conan          Le R‚cit de J. Habakuk Jephson ş1884 J. Habakuk Jephson's Statement
+o STOCK       ?  1924.xx ..... ISBN -
+} stock_gdguignol _N                           N
+- .o .    _N3    _LORDE Andr‚ de             &Les Drames c‚lŠbres du Grand Guignol ş1924
+&                _BAUCHE Henri                
+: .o .     N     _LORDE Andr‚ de             &Le Laboratoire des hallucinations ş?
+&                _BAUCHE Henri                
+!--- repr‚sentation 11/04/1916
+: .o .     N     _LORDE Andr‚ de             &Le Chƒteau de la mort lente ş?
+&                _BAUCHE Henri                
+!--- repr‚sentation 28/10/1918
+: .o .     N     _LORDE Andr‚ de             &La Grande ‚pouvante ş?
+&                _BAUCHE Henri                
+!--- repr‚sentation 20/10/1916
+o STOCK       ?  1926.xx ..... ISBN -
+} noimg          _?                           ?
+- .oF.    _N9    _HAWTHORNE Nathaniel         Contes ş1926
+: .o .     N     _HAWTHORNE Nathaniel         La Vieille Fille blanche ş1835 The White Old Maid şTrad. LOGE Marc
+: .o .     N     _HAWTHORNE Nathaniel         Wakefield ş1835 Wakefield şTrad. LOGE Marc
+: .o .     N     _HAWTHORNE Nathaniel         L'Artiste du beau ş1844 The Artist of the Beautiful şTrad. LOGE Marc
+: .o .     N     _HAWTHORNE Nathaniel         La Statue de bois ş1844 Drowne's Wodden Image şTrad. LOGE Marc
+: .o .     N     _HAWTHORNE Nathaniel         L'Exp‚rience du docteur Heidegger ş1837 Dr Heidegger's Experiment şTrad. LOGE Marc
+: .o .     N     _HAWTHORNE Nathaniel         Le Glas nuptial ş1836 The Wedding Knell şTrad. LOGE Marc
+: .o .     N     _HAWTHORNE Nathaniel         Le Tr‚sor de Peter Goldthwaite ş1838 Peter Goldthwaite's Treasure şTrad. LOGE Marc
+: .o .     N     _HAWTHORNE Nathaniel         Le Voile noir du pasteur ş1836 The Minister Black Veil şTrad. LOGE Marc
+: .o .    _N4    _HAWTHORNE Nathaniel         L‚gendes de la Maison Provinciale [L‚gendes de la Maison Provinciale] ş1839 Legends of the Province House şTrad. LOGE Marc
+= .o .     N     _HAWTHORNE Nathaniel         La Mascarade de Howe [L‚gendes de la Maison Provinciale] ş1838 Howe's Masquerade şTrad. LOGE Marc
+= .o .     N     _HAWTHORNE Nathaniel         Le Portrait d'Edouard Randolph [L‚gendes de la Maison Provinciale] ş1838 Edward Randolph's Portrait şTrad. LOGE Marc
+= .o .     N     _HAWTHORNE Nathaniel         Le Manteau de Lady Eleanor [L‚gendes de la Maison Provinciale] ş1838 Lady Eleonore's Mantle şTrad. LOGE Marc
+= .o .     N     _HAWTHORNE Nathaniel         La Vieille Esther Dudley [L‚gendes de la Maison Provinciale] ş1838 Old Esther Dudley şTrad. LOGE Marc
+o STOC_DB     ?  1929.11 ..... ISBN _
+!--- Contient aussi  Les papiers de Jeffrey Aspern (The Aspern papers) hors genre
+} noimg          _?                           ?
+- .oF.     R     _JAMES Henry                 Le Tour d'‚crou ş1898 The Turn of the Screw şTrad. LE CORBEILLER M.
+o STOCK       ?  1968.xx ..... ISBN _
+} noimg          _?                           ?
+!--- Pr‚c‚d‚ de Les papiers de Jeffrey Aspern (The Aspern papers) hors genre
+- .oF.     R     _JAMES Henry                 Le Tour d'‚crou ş1898 The Turn of the Screw şTrad. LE CORBEILLER M.
+o STOCNCF     ?  1976.xx ..... ISBN 2-234-00622-8
+} noimg          _?                           ?
+!--- Pr‚c‚d‚ de Les papiers de Jeffrey Aspern (The Aspern papers) hors genre
+- .oF.     R     _JAMES Henry                 Le Tour d'‚crou ş1898 The Turn of the Screw şTrad. LE CORBEILLER M.
+o STOC_BC     ?  1994.xx ..... ISBN 2-234-02614-8
+} noimg          _?                           ?
+- .oF.     R     _JAMES Henry                 Le Tour d'‚crou ş1898 The Turn of the Screw şTrad. NEMER Monique
+o STOC_CC    35i 1929.xx ..... ISBN -
+} stock_cc_music _?                           ?
+- .oF.     N5    _HOFFMANN E.T.A.             Nouvelles musicales ş1929
+!--- Librairie Stock - Delamain et Boutelleau
+!--- Traduction Alzir Hella et Olivier Bournac
+!--- Avant-propos de Andr‚ Coeuroy
+!--- 203 pp - Editions num‚rot‚es - tirage 2700 exemplaires - 13 x 18.8 x 1.6
+: .o .     N     _HOFFMANN E.T.A.             Le Chevalier Gluck ş1809 Ritter Gluck şTrad. ?
+: .o .     N     _HOFFMANN E.T.A.             Don Juan ş1812 Don Juan şTrad. ?
+: .o .     N     _HOFFMANN E.T.A.             La Fermata ş1819 Die Fermate şTrad. ?
+: .o .     N     _HOFFMANN E.T.A.             Le Conseiller Krespel ş1817 Rat Krespel şTrad. ?
+: .o .     N     _HOFFMANN E.T.A.             Les Automates ş1813 Die Automate şTrad. ?
+o STOCK       ?  1941.xx ..... ISBN -
+} stock_sl_anneau _THIMONIER Didier            N
+- .pF.    _N16   _LAGERLOF Selma              L'Anneau du pˆcheur ş1941
+!--- Traduction du su‚dois de M. Metzger et Th. Hammar
+: .oF.     N     _LAGERLOF Selma              L'Inscription sur le sol ş? ?
+: .oF.     N     _LAGERLOF Selma              Mam'zelle Fredrika ş? Mamsell Fredrika
+: .oF.     N     _LAGERLOF Selma              Il ne faut jamais trop penser ş? ?
+: .x .     N     _LAGERLOF Selma              La Pierre du lac Rottne ş? Stenen i sj”n Rottnen
+: .x .     N     _LAGERLOF Selma              Le Journalier de chez Dobrichsen ş? ?
+: .x .     N     _LAGERLOF Selma              Parmi les rosiers grimpants ş? Bland Kl„ngrosoma
+: .oF.     N     _LAGERLOF Selma              La Trˆve de Dieu ş? ?
+: .x .     N     _LAGERLOF Selma              L'Antique Kungah„lla ş? P&aring; det stora Kungah„llas grund
+: .x .     N     _LAGERLOF Selma              La Reine des bois ş? Skogsdrottningen
+: .oF.     N     _LAGERLOF Selma              L'Anneau du pˆcheur ş? Fiskarringen
+: .x .     N     _LAGERLOF Selma              Une histoire de Halllstanaes ş? En historia fr&aring;n Halstan„s
+: .oG.     N     _LAGERLOF Selma              L'Eau pure ş? ?
+: .x .     N     _LAGERLOF Selma              Magister Frykstede ş? Magister Frykstedt
+: .x .     N     _LAGERLOF Selma              Paix sur la Terre ş? Gudsfreden
+: .x .     N     _LAGERLOF Selma              La Cravache ş? ?
+: .x .     N     _LAGERLOF Selma              La SouriciŠre ş? ?
+o STOC_MA     ?  1942.xx ..... ISBN -
+!--- Illustrations de Prassinos
+} noimg          _?                           ?
+- .oF.     R     _CARROLL Lewis               Alice au pays des merveilles [Alice - 1] ş1865 Alice's Adventures in Wonderland / Alice in Wonderland şTrad. BAY Andr‚
+o STOC_GB     ?  1947.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _STEPHENS James              Deirdre, douce pomme de discorde ş1923 Deirdre şTrad. CHEVALLEY Abel & Marguerite
+o STOCK       ?  1947.xx ..... ISBN -
+} noimg          _?                           ?
+- .oF.     R     _GILBERT Stephen             Le Cataclysme ş1943 The Landslide şTrad. TALVA Jean
+o STOCK       ?  1955.T4 ..... ISBN -
+} stock_rpsc5c   _G. Vanni                    G. Vanni
+!--- 250 pages
+!--- Librairie Stock - Delamain et Boutelleau
+!--- Sous l'achev‚ d'imprimer "sur les presses de l'Imprimerie Cr‚t‚ " vient juste l'indication :
+!--- 6503-10-1955
+!--- D‚p“t l‚gal : 4e trimestre 1955
+!--- Nø d'‚dition : 950
+- .oN.    kN35   _SOUPAULT R‚                &Contes des 5 continents ((Contes des cinq continents)) ş1955
+&                _SOUPAULT Philippe           
+!--- "Contes des cinq continents" en page de titre
+!--- Afrique
+: .o .     N     _SOUPAULT R‚                &La Chance et la Raison ş1955
+&                _SOUPAULT Philippe           
+!--- (Ethiopie)
+: .o .     N     _SOUPAULT R‚                &La Travailleuse et la Paresseuse ş1955
+&                _SOUPAULT Philippe           
+!--- (Soudan)
+: .o .     N     _SOUPAULT R‚                &Le Chasseur, le Boa et le LiŠvre ş1955
+&                _SOUPAULT Philippe           
+!--- (Nigeria)
+: .o .     N     _SOUPAULT R‚                &La Fausse Fianc‚e ş1955
+&                _SOUPAULT Philippe           
+!--- (Liberia)
+: .o .     N     _SOUPAULT R‚                &L'Ingratitude ş1955
+&                _SOUPAULT Philippe           
+!--- (Zanzibar)
+: .o .     N     _SOUPAULT R‚                &Les Trois Princesses de l'Œle rouge ş1955
+&                _SOUPAULT Philippe           
+!--- (Madagascar)
+: .o .     N     _SOUPAULT R‚                &L'Oiseau qui dansait et qui sautait ş1955
+&                _SOUPAULT Philippe           
+!--- (Natal)
+!--- Am‚rique
+: .o .     N     _SOUPAULT R‚                &L'‚poux de l'oie sauvage ş1955
+&                _SOUPAULT Philippe           
+!--- (Esquimaux)
+: .o .     N     _SOUPAULT R‚                &L'‚toile et le N‚nuphar ş1955
+&                _SOUPAULT Philippe           
+!--- (Peaux-Rouges)
+: .o .     N     _SOUPAULT R‚                &L'Orphelin ş1955
+&                _SOUPAULT Philippe           
+!--- (Groenland)
+: .o .     N     _SOUPAULT R‚                &Le Cygne rouge ş1955
+&                _SOUPAULT Philippe           
+!--- (Canada)
+: .o .     N     _SOUPAULT R‚                &La Fille des ‚toiles ş1955
+&                _SOUPAULT Philippe           
+!--- (Venezuela)
+: .o .     N     _SOUPAULT R‚                &La Femme-Grenouille ş1955
+&                _SOUPAULT Philippe           
+!--- (Br‚sil)
+: .o .     N     _SOUPAULT R‚                &La Petite Fille de la mer ş1955
+&                _SOUPAULT Philippe           
+!--- (Chili)
+!--- Asie
+: .o .     N     _SOUPAULT R‚                &Les Filles de l'oranger ş1955
+&                _SOUPAULT Philippe           
+!--- (Iran)
+: .o .     N     _SOUPAULT R‚                &Le Mariage de la petite souris grise ş1955
+&                _SOUPAULT Philippe           
+!--- (Cor‚e)
+: .o .     N     _SOUPAULT R‚                &Le G‚n‚reux ş1955
+&                _SOUPAULT Philippe           
+!--- (Tibet)
+: .o .     N     _SOUPAULT R‚                &La Rose bleue ş1955
+&                _SOUPAULT Philippe           
+!--- (Chine)
+: .o .     N     _SOUPAULT R‚                &Le Poulain noir ş1955
+&                _SOUPAULT Philippe           
+!--- (Afghanistan)
+: .o .     N     _SOUPAULT R‚                &La Jeune Fille courageuse ş1955
+&                _SOUPAULT Philippe           
+!--- (Sib‚rie)
+: .o .     N     _SOUPAULT R‚                &Sabour ş1955
+&                _SOUPAULT Philippe           
+!--- (Indes)
+!--- Europe
+: .o .     N     _SOUPAULT R‚                &La Colombe blanche ş1955
+&                _SOUPAULT Philippe           
+!--- (NorvŠge)
+: .o .     N     _SOUPAULT R‚                &Le Chƒteau d'or ş1955
+&                _SOUPAULT Philippe           
+!--- (Allemagne)
+: .o .     N     _SOUPAULT R‚                &Le Petit EspiŠgle ş1955
+&                _SOUPAULT Philippe           
+!--- (Angleterre)
+: .o .     N     _SOUPAULT R‚                &La Plus Belle des F‚es ş1955
+&                _SOUPAULT Philippe           
+!--- (Roumanie)
+: .o .     N     _SOUPAULT R‚                &Le Langage des animaux ş1955
+&                _SOUPAULT Philippe           
+!--- (Italie)
+: .o .     N     _SOUPAULT R‚                &Le Destin ş1955
+&                _SOUPAULT Philippe           
+!--- (Yougoslavie)
+: .o .     N     _SOUPAULT R‚                &Le Fl–te du berger ş1955
+&                _SOUPAULT Philippe           
+!--- (Espagne)
+!--- Oc‚anie
+: .o .     N     _SOUPAULT R‚                &L'Eau de la vie ş1955
+&                _SOUPAULT Philippe           
+!--- (Iles Sandwich)
+: .o .     N     _SOUPAULT R‚                &Le Fils du Soleil ş1955
+&                _SOUPAULT Philippe           
+!--- (M‚lan‚sie)
+: .o .     N     _SOUPAULT R‚                &Le Singe qui devint roi ş1955
+&                _SOUPAULT Philippe           
+!--- (Œles de la Sonde)
+: .o .     N     _SOUPAULT R‚                &L'Oiseau qui chante pour gu‚rir ş1955
+&                _SOUPAULT Philippe           
+!--- (Moluques)
+: .o .     N     _SOUPAULT R‚                &Le Chasseur et l'Oiseau g‚ant ş1955
+&                _SOUPAULT Philippe           
+!--- (Born‚o)
+: .o .     N     _SOUPAULT R‚                &La Reconnaissance ş1955
+&                _SOUPAULT Philippe           
+!--- (Philippines)
+: .o .     N     _SOUPAULT R‚                &Le Retour des fleurs ş1955
+&                _SOUPAULT Philippe           
+!--- (Australie)
+o STOCK       ?  1958.xx ..... ISBN -
+} noimg          _?                           ?
++ STOCK       ?  1968.xx ..... ISBN -
+} noimg          _?                           ?
+- .oS.     R     _SHUTE Nevil                 Le Dernier Rivage ş1957 On the Beach şTrad. SINGER Pierre
+o STOCK       ?  1969.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _CAIDIN Martin               S.O.S. Mercury VII ş1964 Marooned
+o STOC_CC     ?  1975.xx ..... ISBN 2-234-00122-6
+} noimg          _?                           ?
+!--- Introduction de Brian Aldiss
+- .o .     R     _KAVAN Anna                  Neige ş1967 Ice şTrad. BLUNDEN Ronald & Marie-No‰l
+o STOC_BC     ?  1969.xx ..... ISBN -
+} noimg          _?                           ?
++ STOCNCF     ?  1977.xx ..... ISBN 2-234-00855-7
+} noimg          _?                           ?
++ STOC_BC     ?  1992.xx ..... ISBN 2-234-02507-9
+} noimg          _?                           ?
++ STOC_CO     ?  2002.xx ..... ISBN 2-234-05485-0
+} noimg          _?                           ?
+- .o .     R     _MEYRINK Gustav              Le Golem ş1915 Der golem şTrad. MEUNIER Denise
+o STOC_BC    83  1969.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _ABE Kobo                    La Face d'un autre ş1964 Tanin no kao
+o STOCNCC     ?  1979.xx ..... ISBN 2-234-00805-0
+} noimg          _?                           ?
++ STOC_BC    74  1986.xx ..... ISBN 2-234-01988-5
+} noimg          _?                           ?
++ STOC_BC    74  1994.xx ..... ISBN 2-234-01988-5
+} noimg          _?                           ?
+- .x .     R     _ABE Kobo                    L'Homme boŒte ş1973 Hako otoko şTrad. ROSSET Suzanne
+o STOCK       ?  1965.xx ..... ISBN -
+} noimg          _?                           ?
+- .oF.    _N11   _SINGER Isaac Bashevis       Le Dernier D‚mon ş1965 Short Friday şTrad. BERNIER GisŠle
+: .o .     N     _SINGER Isaac Bashevis       Du sang ş1945 Blood
+: .o .     N     _SINGER Isaac Bashevis       Taibele et son d‚mon ş? Teibele and Her Demon
+: .o .     N     _SINGER Isaac Bashevis       Seul ş? ?
+: .o .     N     _SINGER Isaac Bashevis       Grand et petit ş? ?
+: .o .     N     _SINGER Isaac Bashevis       Jachid et Jechidah ş1961 Jachid and Jachida
+: .o .     N     _SINGER Isaac Bashevis       Esther Kreindel la seconde ş1967 Esther Kreindel the Second
+: .o .     N     _SINGER Isaac Bashevis       Le Je–ne ş? ?
+: .o .     N     _SINGER Isaac Bashevis       Yentl … la Yeshiva ş? ?
+: .o .     N     _SINGER Isaac Bashevis       La BrŠve journ‚e du vendredi ş? Short Friday
+: .o .     N     _SINGER Isaac Bashevis       Un mariage … Brownsville ş? ?
+: .o .     N     _SINGER Isaac Bashevis       Le Dernier D‚mon ş1964 The Last Demon
+: .o .     o     _SPATZ Erwin                 Isaac Bashevis Singer et son oeuvre ş1965 ?
+o STOCK       ?  1969.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _TOLKIEN J.R.R.              Bilbo le hobbit ş1937 The Hobbit
+o STOCK       ?  1970.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _AMIS Kingsley               L'Homme vert ş1969 The Green Man
+o STOC_CC     ?  1973.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _BERGER Thomas               A corps perdu ş1971 Vital Parts şTrad. BERRITZ Sabine
+o STOC_CC     ?  1974.T2 ..... ISBN 2-234-00083-1
+} noimg          _?                           ?
+- .o .     R     _PEAKE Mervyn                Titus d'enfer [Le Chƒteau de Gormenghast - 1] ş1946 Titus Groan şTrad. ?
+o STOCNCF     ?  1977.T2 ..... ISBN 2-234-00529-9
+} noimg          _?                           ?
+- .oF.     R     _PEAKE Mervyn                Gormenghast [Le Chƒteau de Gormenghast - 2] ş1950 Gormenghast şTrad. ?
+o STOCK       ?  1978.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _BARONIAN Jean-Baptiste      Panorama de la litt‚rature fantastique de langue fran‡aise ş1978
+o STOCKD2     ?  1978.xx ..... ISBN 2-234-00677-5
+} noimg          _?                           N
+- .oS.    kA8    *BLANC Bernard               Pourquoi j'ai tu‚ Jules Verne ş1978
+!--- En fait sorte d'essai critique
+: .oS.     N     _BLANC Bernard               Amiens, mars 1905 ş1978
+: .oS.     N     _JEURY Michel                Voici les coupables ş1978
+: .oS.     N     _DOUAY Dominique             Le Doigt de dieu dans la culotte de ma soeur ş1977
+: .oS.     N     _DURAND Ren‚                 Une journ‚e de plein air ş1978
+: .oS.     N     _VILA Christian              Nuit blanche ş1978
+: .oS.     N     _FAVAREL Muriel              Cette ann‚e encore les occitans seront gentils ş1978
+: .oS.     N     _HUBERT Jean-Pierre          Et maintenant ? ş1978
+: .oS.     N     _BONNEFOY Ren‚               Le matin de l'explosion, il est conseill‚ de porter des vˆtements blancs ş1978
+: .oS.     n     _KLEIN G‚rard                Tout conte fait ş1978
+o STOCK       ?  1978.xx ..... ISBN 2-234-00804-2
+} noimg          _?                           ?
+- .oS.     R     _CALLENBACH Ernest           Ecotopie - Reportage et notes personnelles de William Weston ş1975 Ecotopia: the Notebooks and Reports of William Weston şTrad. THIOLLER Christiane
+o STOC_BC    10  1979.xx ..... ISBN 2-234-.-...-.
+} noimg          _?                           ?
+- .x .     R     _ABE Kobo                    La Femme des sables ş1962 Suna no onna
+o STOCNCC     ?  1979.T3 ..... ISBN 2-234-01170-1
+} noimg          _?                           ?
+- .o .     R     _PEAKE Mervyn                Titus errant [Le Chƒteau de Gormenghast - 3] ş1959 Titus Alone şTrad. REUMAUX Patrick
+!------------------------
+!=== 1980
+!------------------------
+o STOCK       ?  1980.xx ..... ISBN 2-234-01215-5
+} noimg          _?                           ?
+- .oN.    kN8    _NADIR Chems                 L'Astrolabe de la mer ş1980
+!--- pr‚face de L‚opold S‚dar Senghor
+: .o . 19  N     _NADIR Chems                 Nouvelle histoire de l'oiseau-conteur ş1980
+: .o . 38  N     _NADIR Chems                 La Montagne de l'araign‚e ş1980
+: .o .     N     _NADIR Chems                 Les L‚zardes du temps ş1980
+: .o . 81  N     _NADIR Chems                 Reflets ş1980
+: .o . 91  N     _NADIR Chems                 Le Thar ş1980
+: .o .103  N     _NADIR Chems                 Les Deux Calligraphes ş1980
+: .o .119  N     _NADIR Chems                 Le 366e jour de l'ann‚e bissextile ş1980
+: .o .135  N     _NADIR Chems                 Retour … Sarmakande ş1980
+o STOCK       ?  1980.xx ..... ISBN 2-234-.-...-.
+} noimg          _?                           ?
+- .o .     N4    _MAUREL Jean-Pierre          Le Diable sur la neige ş1980
+!--- fantastique
+: .o .     N     _MAUREL Jean-Pierre          Carnaval ş?
+: .o .     N     _MAUREL Jean-Pierre          Conversion ş?
+: .o .     N     _MAUREL Jean-Pierre          Le Diable sur la neige ş?
+: .o .     N     _MAUREL Jean-Pierre          SorciŠre ş?
+!------------------------
+!=== 1983
+!------------------------
+o STOCK       ?  1983.xx ..... ISBN 2-234-.-...-.
+} noimg          _?                           ?
+- .o .     R     _BLATTY William P.           L'Esprit du mal ş1983 Legion
+o STOCK_2     ?  1983.09 ..... ISBN 2-234-.-...-.
+} noimg          _?                           ?
++ STOCK_2     ?  2001.xx ..... ISBN 2-234-.-...-.
+} noimg          _?                           ?
+- .oS.     R     _HORX Matthias               Ah, ‡a ira ş1982 Es geht voran şTrad. AUTRAND Dominique
+o STOCK       ?  1983.xx ..... ISBN 2-234-.-...-.
+} noimg          _?                           ?
+- .o .     R     _COUSIN Philippe             La CroisiŠre Einstein ş1983
+!------------------------
+!=== 1984
+!------------------------
+o STOC_BC     ?  1984.xx ..... ISBN 2-234-01714-9
+} noimg          _?                           ?
++ STOC_BC     ?  1997.xx ..... ISBN 2-234-04909-1
+} noimg          _?                           ?
+- .oF.    _N5    _HOFFMANN E.T.A.             Nouvelles musicales ş1929
+!--- Traduction Alzir Hella et Olivier Bournac
+!--- Pr‚face SCHNEIDER Marcel
+: .o .     N     _HOFFMANN E.T.A.             Le Chevalier Gluck ş1809 Ritter Gluck şTrad. ?
+: .o .     N     _HOFFMANN E.T.A.             Don Juan ş1812 Don Juan şTrad. ?
+: .o .     N     _HOFFMANN E.T.A.             La Fermata ş1819 Die Fermate şTrad. ?
+: .o .     N     _HOFFMANN E.T.A.             Le Conseiller Krespel ş1817 Rat Krespel şTrad. ?
+: .o .     N     _HOFFMANN E.T.A.             Les Automates ş1813 Die Automate şTrad. ?
+o STOCNCC     ?  1984.xx ..... ISBN 2-234-01552-9
+} noimg          _(Photo du film)             ?
+- .oF.     R     _ENDE Michael                L'Histoire sans fin ş1979 Die unendliche geschichte şTrad. AUTRAND Dominique
+o STOCK       ?  1984.xx ..... ISBN 2-234-.-...-.
+} noimg          _?                           ?
+- .o .     R     _COUSIN Philippe             L'Oeuf du diable ş1984
+!------------------------
+!=== 1987
+!------------------------
+o STOCNCC     ?  1987.xx ..... ISBN 2-234-01920-6
+} noimg          _?                           ?
+- .o .     R     _HELPRIN Mark                Conte d'hiver ş1983 Winter's Tale şTrad. COURTOIS-FOURCY Michel
+o STOCNCC     ?  1987.xx ..... ISBN 2-234-.-...-.
+} noimg          _?                           ?
+- .oF.     R     _HOFFMANN E.T.A.             Les ‚lixirs du diable ş1816 Die Elixieren des Teufels
+!------------------------
+!=== 1990
+!------------------------
+o STOCK       ?  1990.xx ..... ISBN 2-234-.-...-.
+} noimg          _?                           ?
+- .x .     R     _ADAMS Douglas               Un cheval dans la salle de bain [Dirk Gently d‚tective holistique - 1] ş1987 Dirk Gently's Holistoc Detective Agency şTrad. ROSENTHAL Jean
+o STOCK       ?  1990.xx ..... ISBN 2-234-.-...-.
+} noimg          _?                           ?
+!--- Et non pas "Bleu comme ..." (CM)
+- .x .     R     _ADAMS Douglas               Beau comme un a‚roport [Dirk Gently d‚tective holistique - 2] ş1988 The Long Dark Tea-time of the Soul şTrad. ROSENTHAL Jean
+!------------------------
+!=== 1996
+!------------------------
+o STOCK       ?  1996.xx ..... ISBN 2-234-05030-9
+} noimg          _?                           ?
+- .oS.    _N14   _BALLARD James G.            FiŠvre guerriŠre ş1990 War Fever şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            Univers en expansion ş1989 The Enormous Space şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            Le Plus Grand Parc d'attraction du monde ş1989 The Largest Theme Park in the World şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            FiŠvre guerriŠre ş1989 War Fever şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            Cargaisons de rˆve ş1990 Dream Cargoes şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            Catastrophe a‚rienne ş1975 The Air Disaster şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            Notes pour une d‚construction mentale ş1976 Notes Toward a Mental Breakdown şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            Index ş1977 The Index şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            M‚moires de l'Šre spatiale ş1982 Memories of the Space Age şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            Rapport d'exploration concernant une station de l'espace non identifi‚e ş1982 Report on an Unidentified Space Station şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            La Cible vis‚e ş1984 The Object of the Attack şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            R‚ponses … un questionnaire ş1985 Answers to a Questionnaire şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            L'Homme qui … march‚ sur la Lune ş1985 The Man who Walked on the Moon şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            L'Amour sous un climat plus froid ş1989 Love in a Colder Climate şTrad. SIGAUD Bernard
+: .o .     N     _BALLARD James G.            L'Histoire secrŠte de la troisiŠme guerre mondiale ş1988 The Secret History of World War 3 şTrad. SIGAUD Bernard
+!------------------------
+!=== 1998
+!------------------------
+o STOCNCC     ?  1998.10 ..... ISBN 2-234-04977-2
+} noimg          _?                           ?
+- .pF.     N11   _TSUTSUI Yasutaka            Le Censeur des rˆves ş1988 ?
+: .oF.     N     _TSUTSUI Yasutaka            Le Censeur des rˆves ş? ?
+?: .o .     N     _TSUTSUI Yasutaka            Le Cercle des gentes dames du quartier ş? ?
+: .o .     N     _TSUTSUI Yasutaka            Soldat … la journ‚e ş? ?
+: .o .     N     _TSUTSUI Yasutaka            Bombe africaine ş1968 Afurika no Bakudan
+?: .o .     N     _TSUTSUI Yasutaka            Les Poissons ş? ?
+?: .o .     N     _TSUTSUI Yasutaka            Le Vent ş? ?
+: .o .     N     _TSUTSUI Yasutaka            Plant‚e l…... ş? ?
+?: .o .     N     _TSUTSUI Yasutaka            Le Lit, mode d'emploi ş? ?
+?: .o .     N     _TSUTSUI Yasutaka            L'trange Homme-Tatami ş? ?
+?: .o .     N     _TSUTSUI Yasutaka            Une rumeur me concernant ş1974 Ore-ni Kansuru Uwasa
+?: .o .     N     _TSUTSUI Yasutaka            GenŠse bavarde ş? ?
+!------------------------
+!=== 1999
+!------------------------
+o STOCK       ?  1999.xx ..... ISBN 2-234-05087-1
+} noimg          _?                           ?
+- .o .     R     _FAYE Eric                   CroisiŠre en mer des pluies ş1999
+!------------------------
+!=== 2001
+!------------------------
+o STOC_CO     ?  2001.xx ..... ISBN 2-234-05367-6
+} noimg          _?                           ?
++ STOC_CO     ?  2004.xx ..... ISBN 2-234-05367-6
+} noimg          _?                           ?
+!--- Pr‚face Diane de Margerie
+- .oF.    _N4    _WILDE Oscar                 Nouvelles fantastiques ş1891 Lord Savile's Crime and Other Stories şTrad. CASTIER Jules
+: .o .     p     _MARGERIE Diane de           Avant-propos ş2001
+: .o .     N     _WILDE Oscar                 Le Crime de Lord Arthur Savile ş1891 Lord Arthur Savile's Crime şTrad. CASTIER Jules
+!--- (Etude du devoir)
+: .o .     N     _WILDE Oscar                 Le Spectre des Canterville ş1887 The Canterville Ghost şTrad. CASTIER Jules
+!--- (Fantaise hylo-id‚aliste)
+: .o .     N     _WILDE Oscar                 Le Sphinx sans secret ş1894 The Sphinx Without a Secret şTrad. CASTIER Jules
+!--- (Eau-forte)
+: .! .     N     _WILDE Oscar                 Le Millionaire modŠle ş1891 The Model Millionaire şTrad. CASTIER Jules
+!--- (Note admirative)
+!------------------------
+!=== 2007
+!------------------------
+o STOCK       ?  2007.01 ..... ISBN 978-2-234-05850-7
+} noimg          _?                           ?
+- .oS.     R     _FONTENAILLE Elise           Unica ş2007
+
+!-----------------------------------------------------------------------------
+_ STO_VI  Stock, Voyages imaginaires
+!-----------------------------------------------------------------------------
+!--- Stock - Collection "Voyages imaginaires"
+!-----------------------------------------------------------------------------
+o STO_VI      ?  1944.11 ..... ISBN -
+!--- TBD recueil ?
+!--- format 14x19 - illustrations de Prassinos, intro de Bachelard
+} noimg          _?                           ?
+- .o .     R     _POE Edgar Allan             Les Aventures de Gordon Pym [Arthur Gordon Pym] ş1838 The Narrative of Arthur Gordon Pym of Nantucket şTrad. BAUDELAIRE Charles
+o STO_VI      ?  1945.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _SWIFT Jonathan              Les Voyages de Gulliver ş1726 Gulliver's Travels şTrad. ?
+o STO_VI      ?  1947.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _CYRANO DE BERGERAC Savinien L'Autre Monde ş1657
+o STO_VI      ?  1947.xx ..... ISBN -
+} noimg          _?                           ?
+- .oF.     R     _CARROLL Lewis               Alice au pays des merveilles [Alice - 1] ş1865 Alice's Adventures in Wonderland / Alice in Wonderland şTrad. ?
+o STO_VI      ?  1947.xx ..... ISBN -
+} noimg          _?                           ?
+- .oS.     R     _BECKFORD William            Vathek - Conte arabe ş1786
+o STO_VI      ?  1949.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _HOLBERG Ludwig              Niels Klim dans le monde souterrain ş1741 Niels Klims underjordiske reise şTrad. MAUVILLON El‚azar de et GERARD-ARLBERG Gilles
+?o STOCK       ?  1949.xx ..... ISBN -
+?} noimg          _?                           ?
+?- .o .     R     _HOLBERG Ludwig              Le Voyage souterrain de Niels Klim ş1741 Niels Klims underjordiske reise şTrad. MAUVILLON El‚azar de et GERARD-ARLBERG Gilles
+
+!-----------------------------------------------------------------------------
+_ STOR    Stock, Roman des temps futurs
+!-----------------------------------------------------------------------------
+!--- Stock - Collection "Roman des temps futurs" (1 seul roman)
+!-----------------------------------------------------------------------------
+o STOR        1  1950.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _WILLIAMSON Jack             Les Humano‹des ş1948 And Searching Mind / The Humanoids
+!--- paru d'abord en pulp sous le titre "And searching mind"
+
+!-----------------------------------------------------------------------------
+_ STOC_EV Stock, Evasion
+!-----------------------------------------------------------------------------
+!--- Stock - Collection Evasion (3 romans + 3 hors genres)
+!-----------------------------------------------------------------------------
+o STOC_EV     ?  1971.xx ..... ISBN -
+} stockevas1     _LEMAIRE Richard             ?
+- .o .     R     _BOYD John                   Lysistrata 80 ş1970 Sex and the High Command şTrad. ELSEN Claude
+o STOC_EV     ?  1971.xx ..... ISBN -
+} stockevas2     _LEMAIRE Richard             ?
+- .o .     R     _WILLIAMSON Jack             Les Humano‹des ş1948 And Searching Mind / The Humanoids şTrad. STERNE Philippe
+o STOC_EV     ?  1971.xx ..... ISBN -
+} stockevas6     _LEMAIRE Richard             ?
+- .o .     R     _BODELSEN Anders             Le Point de cong‚lation ş1969 Frysepunktet şTrad. ALBECK Raymond
+
+!-----------------------------------------------------------------------------
+_ STOC_CO Stock, La Cosmopolite
+!-----------------------------------------------------------------------------
+o STOCNCC     ?  1980.xx ..... ISBN 2-234-00983-9
+} noimg          _?                           ?
++ STOC_BC     ?  1991.xx ..... ISBN 2-234-02359-9
+} noimg          _?                           ?
++ STOC_CO     ?  2004.09 ..... ISBN 2-234-05718-3
+} noimg          _?                           ?
+- .oF.    _N7    _BLIXEN Karen                Sept contes gothiques ş1934 Seven Gothic Tales şTrad. GLEIZAL Julia
+!--- parution originale aux USA (seven gothic tales)
+!--- Traduction de l'anglais par France Gleizal et (2004 au moins) Colette Marie Huet
+!--- Paru en suite au danemark : Syv fantastiske fortaellinger, en 1935
+: .o .     N     _BLIXEN Karen                Le Raz de mar‚e de Norderney ş? The Deluge at Norderney
+: .o .     N     _BLIXEN Karen                Le Chevalier errant ş? The Old Chevalier
+: .o .     N     _BLIXEN Karen                Le Singe ş? The Monkey
+: .o .     N     _BLIXEN Karen                Sur la route de Pise ş? The Roads around Pisa
+: .o .     N     _BLIXEN Karen                La Soir‚e d'Elseneur ş? The Supper at Elsinore
+: .o .     N     _BLIXEN Karen                Les Rˆveurs ş? The Dreamers
+: .o .     N     _BLIXEN Karen                Le PoŠte ş? The Poet
+
+o STOC_CO     ?  2003.xx ..... ISBN 2-234-05627-6
+} stockcosmoanpech _THIMONIER Didier            N
+- .pF.     N16   _LAGERLOF Selma              L'Anneau du pˆcheur ş1941
+!--- Traduction du su‚dois de M. Metzger et Th. Hammar
+: .oF.     N     _LAGERLOF Selma              L'Inscription sur le sol ş? ?
+: .oF.     N     _LAGERLOF Selma              Mam'zelle Fredrika ş? Mamsell Fredrika
+: .oF.     N     _LAGERLOF Selma              Il ne faut jamais trop penser ş? ?
+: .x .     N     _LAGERLOF Selma              La Pierre du lac Rottne ş? Stenen i sj”n Rottnen
+: .x .     N     _LAGERLOF Selma              Le Journalier de chez Dobrichsen ş? ?
+: .x .     N     _LAGERLOF Selma              Parmi les rosiers grimpants ş? Bland Kl„ngrosoma
+: .oF.     N     _LAGERLOF Selma              La Trˆve de Dieu ş? ?
+: .x .     N     _LAGERLOF Selma              L'Antique Kungah„lla ş? P&aring; det stora Kungah„llas grund
+: .x .     N     _LAGERLOF Selma              La Reine des bois ş? Skogsdrottningen
+: .oF.     N     _LAGERLOF Selma              L'Anneau du pˆcheur ş? Fiskarringen
+: .x .     N     _LAGERLOF Selma              Une histoire de Halllstanaes ş? En historia fr&aring;n Halstan„s
+: .oG.     N     _LAGERLOF Selma              L'Eau pure ş? ?
+: .x .     N     _LAGERLOF Selma              Magister Frykstede ş? Magister Frykstedt
+: .x .     N     _LAGERLOF Selma              Paix sur la Terre ş? Gudsfreden
+: .x .     N     _LAGERLOF Selma              La Cravache ş? ?
+: .x .     N     _LAGERLOF Selma              La SouriciŠre ş? ?
+
+o STOC_CO     ?  2014.xx ..... ISBN 978-2-234-07754-6
+} noimg          _?                           ?
+- .o .     R     _HELPRIN Mark                Conte d'hiver ş1983 Winter's Tale şTrad. COURTOIS-FOURCY Michel

@@ -1,0 +1,63 @@
+!DEB_HEAD DITISSF
+!GRP_OUVR 8
+!TIT_COLL Science-S-Fiction
+!-----------------------------------------------------------------------------
+_ DITISSF Ed. Ditis, Coll. La Chouette, Science-S-Fiction
+!-----------------------------------------------------------------------------
+!--- Sous la direction de Fr‚d‚ric Ditis sont parus en 1960 huit titres au
+!--. sein d'une collection g‚n‚rale (La Chouette) consacr‚e aux romans
+!--. policier, d'espionnage et d'action. Les titres SF sont frapp‚s d'un logo
+!--. particulier, un S blanc sur fond rouge barr‚ du titre "science-fiction".
+!---
+!--- Cette petite collection de poche, pas si quelconque, contient de la SF d'aventure
+!--. des ann‚es 50 par les sp‚cialistes du genre : E.C. Tubb, Murray Leinster,
+!--. ou Andrew North. On y trouve ‚galement un Brunner mineur et un un
+!--- Silverberg sous le pseudonyme de Knox.
+!---
+!--- Les couvertures sont toutes de Benvenuti.
+!-----------------------------------------------------------------------------
+!FIN_HEAD DITISSF
+!DEB_COLL DITISSF
+o DITISSF   161  1960.xx ..... ISBN -
+} ditis161       _?                           N
+- .oS.     R     _NORTH Andrew                Les Naufrageurs de l'espace þ1955 Sargasso of space þTrad. COMICI George & AVERLANT Michel
+o DITISSF   163  1960.xx ..... ISBN -
+} ditis163       _?                           N
+!--- Note : id "Le navire ‚toile", et "Fils de l'espace"
+- .oS.     R     _TUBB E.C.                   Objectif Pollux þ1955 Star Ship / The Space Born þTrad. COMICI George & AVERLANT Michel
+o DITISSF   165  1960.xx R.... ISBN -
+} ditis165       _?                           N
+- .oS.     R     _KNOX Calvin M.              Complot contre la Terre þ1959 The plot against Earth þTrad. COMICI George & AVERLANT Michel
+o DITISSF   167  1960.xx ..... ISBN -
+} ditis167       _?                           N
+- .oS.     R     _NORTH Andrew                Fus‚e en quarantaine þ1956 Plague ship þTrad. AVERLANT Michel
+o DITISSF   171  1960.xx ..... ISBN -
+} ditis171       _?                           N
+- .oS.     R     _BRUNNER John                Les N‚griers du cosmos þ1960 Slavers of Space þTrad. AVERLANT Michel
+o DITISSF   179  1960.xx R.... ISBN -
+} ditis179       _?                           N
+- .oS.     R     _LEINSTER Murray             Sabotage sur la Lune þ1957 City on the Moon þTrad. AVERLANT Michel
+o DITISSF   186  1960.xx R.... ISBN -
+} ditis186       _?                           N
+- .oS.     R     _CORREY Lee                  Fus‚e de contrebande þ1956 Contraband Rocket þTrad. AVERLANT Michel
+o DITISSF   189  1960.xx ..... ISBN -
+} ditis189       _?                           N
+- .oS.     R     _LEINSTER Murray             La PlanŠte oubli‚e þ1953 The Forgotten Planet þTrad. AVERLANT Michel
+!FIN_COLL DITISSF
+
+!-----------------------------------------------------------------------------
+_ DITIS   Ed. Ditis
+_ DITISCH Ed. Ditis, Coll. La Chouette
+!-----------------------------------------------------------------------------
+o DITISCH    28  1954.xx ..... ISBN -
+} noimg          _?                           ?
+- .x .     R     _LEVIN Ira                   La Couronne de cuivre þ1953 A Kiss Before Dying þTrad. ?
+o DITISCH   210  1961.xx ..... ISBN -
+} noimg          _BENVENUTTI Giovanni         N
+!--- sans date
+- .oPS     R     _AUDREN Marc                 La Mort luit þ1961
+
+?o DITIS       ?  19...xx ..... ISBN -
+?} noimg          _?                           ?
+?- .o .     R     _BROWN Fredric               Dr“le de sabat þ? Night of the Jabberwock
+!--- Autre collection TBC --> D‚tective club ?

@@ -1,0 +1,2941 @@
+!-----------------------------------------------------------------------------
+!---                          FLEUVE NOIR 
+!---
+!--- Collections de fantastique (sauf FNLR, màme num que FNHO) et terreur
+!-----------------------------------------------------------------------------
+!-- FN_THRI Fleuve Noir, Thriller fantastique
+!-- FN_GF   Fleuve Noir, Grand Format
+!-- FN_TERR Fleuve Noir, Les terreurs ˛2000 - ...
+!-- FN_LVAM Fleuve Noir, La vampire ˛2000 - 2001
+!-- FN_ANGE Fleuve Noir, Angel ˛1999 - 2004
+!-- FN_DIAB Fleuve Noir, Diablo
+!-- FN_CHAR Fleuve Noir, Charmed ˛2001 - ...
+!-- FN_ROSW Fleuve Noir, Roswell ˛2001 - ...
+!-- FN_FEAR Fleuve Noir, Fearless ˛2001 - ...
+!-- FN_RESI Fleuve Noir, Resident Evil ˛2002 - ...
+!-- FN_BUFF Fleuve Noir, Buffy ˛1999 - ...
+!-- FN_ANG  Fleuve Noir, Angoisse ˛1954 - ?
+!-- FN_LEND Fleuve Noir, Les lendemains retrouvÇs ˛1974 - 1985
+!-- FN_HORI Fleuve Noir, Horizons de l'Au-delÖ ˛1974 - 1985
+!-- FN_SINC Fleuve Noir, John Sinclair ˛1992 - ...
+!-- FN_VAMP Fleuve Noir, Vampire ˛1998 - 1998
+!-- FN_GORE Fleuve Noir, Gore ˛1985 - 1990
+!-- VAUGORE Vaugirard, Gore ˛1990
+!-- FN_FRAY Fleuve Noir, Frayeur ˛199. - ...
+!-- FN_ANGS Fleuve Noir, Angoisses ˛1993 - ...
+!-----------------------------------------------------------------------------
+
+!DEB_HEAD FN_THRI
+!TIT_COLL Thriller fantastique
+!GRP_OUVR 7
+!-----------------------------------------------------------------------------
+_ FN_THRI Fleuve Noir, Thriller fantastique
+!-----------------------------------------------------------------------------
+!--- DestinÇe Ö remplacer la collection Pocket Terreur, Thriller Fantastique
+!--. n'aura durÇ que trois ans, de 2003 Ö 2006, le temps de publier ou
+!--. rÇÇditer les locomotives du genre (Graham Masterton, Anne Rice, Koji
+!--. Suzuki, Laurell K. Hamilton...).
+!--- 
+!--- A noter une numÇrotation plutìt originale : les titres rÇÇditÇs ont gardÇ
+!--. leur numÇro de Pocket Terreur, les nouveautÇs venant se rajouter en fin
+!--. de sÇrie, Ö partir de 9300.
+!-----------------------------------------------------------------------------
+!FIN_HEAD FN_THRI
+!DEB_COLL FN_THRI
+o FN_THRI  9009  2003.09 ..... ISBN 2-265-07720-8
+} tf9009         _?                           N
+- .oF.     R     _KOONTZ Dean R.              Une porte sur l'hiver ˛1985 The Door to December ˛Trad. DEBOST Andrea
+o FN_THRI  9030  2003.09 ..... ISBN 2-265-07719-4
+} tf9030         _?                           N
+- .oF.     R     _MASTERTON Graham            Manitou [Manitou - 1] ˛1975 The Manitou ˛Trad. TRUCHAUD Franáois
+o FN_THRI  9096  2003.09 ..... ISBN 2-265-07717-8
+} tf9096         _?                           N
+- .oF.     R     _WILSON F. Paul              La Forteresse noire ˛1981 The Keep
+o FN_THRI  9246  2003.09 ..... ISBN 2-265-07246-X
+} tf9246         _?                           N
+- .oF.     R     _WILSON F. Paul              La Tombe ˛1984 The Tomb
+o FN_THRI  9251  2003.09 ..... ISBN 2-265-07718-6
+} tf9251         _?                           N
+- .oF.     R     _STRAUB Peter                Mr. X ˛1999 Mr X ˛Trad. PAGEL Michel
+o FN_THRI  9271  2003.09 ..... ISBN 2-265-07705-4
+} tf9271         _?                           N
+- .oF.     R     _BARKER Clive                Sacrements ˛1996 Sacrement
+o FN_THRI  9273  2003.09 ..... ISBN 2-265-07722-4
+} tf9273         _?                           N
+- .oT.     R     _SUZUKI Koji                 Ring [Ring - 1] ˛1991 Ringu / Ring ˛Trad. LAURENT Annick
+o FN_THRI  9274  2003.09 ..... ISBN 2-265-07721-6
+} tf9274         _?                           N
+- .oT.     R     _SUZUKI Koji                 Double hÇlice [Ring - 2] ˛1995 Rasen / Spiral ˛Trad. ATLAN Corinne
+o FN_THRI  9276  2003.09 ..... ISBN 2-265-07681-3
+} tf9276         _?                           N
+- .oF.     R     _MASTERTON Graham            Katie Maguire ˛2001 Katie Maguire
+o FN_THRI  9292  2003.09 ..... ISBN 2-265-07680-5
+} tf9292         _?                           N
+- .oF.     R     _GOLDEN Christopher          Le Passeur ˛2001 The Ferryman
+o FN_THRI  9301  2003.09 ..... ISBN 2-265-07180-3
+} tf9301         _?                           N
+- .oF.     R     _WILKINS Kim                 L'EnvoutÇe ˛1997 The Infernal
+o FN_THRI  9302  2003.09 ..... ISBN 2-265-07678-3
+} tf9302         _?                           N
+- .oF.     R     _HAMILTON Laurell K.         Le Squelette sanglant [Anita Blake, tueuse de vampires - 5] ˛1996 Bloody Bones
+o FN_THRI  9004  2003.10 ..... ISBN 2-265-07715-1
+} tf9004         _?                           N
+- .oF.     R     _KOONTZ Dean R.              Le Masque de l'oubli ˛1981 The Mask ˛Trad. BALMA Sophie
+o FN_THRI  9007  2003.10 ..... ISBN 2-265-07689-9
+} tf9007         _?                           N
+- .oT.     R     _HERBERT James               Les Rats [Les Rats - 1] ˛1974 The Rats ˛Trad. HUET Jacqueline
+o FN_THRI  9118  2003.10 ..... ISBN 2-265-07716-X
+} tf9118         _?                           N
+- .oF.     R     _BARKER Clive                Le Royaume des devins ˛1987 Weaveworld ˛Trad. BREQUE Jean-Daniel
+o FN_THRI  9139  2003.10 ..... ISBN 2-265-07714-3
+} tf9139         _?                           N
+- .oF.     R     _MASTERTON Graham            Tengu ˛1983 Tengu ˛Trad. TRUCHAUD Franáois
+o FN_THRI  9275  2003.10 ..... ISBN 2-265-07713-5
+} tf9275         _?                           N
+- .oT.     R     _SUZUKI Koji                 La Boucle [Ring - 3] ˛1998 Rupu / Loop ˛Trad. CHESNEAU Karine
+o FN_THRI  9303  2003.10 ..... ISBN 2-265-07679-1
+} tf9303         _?                           N
+- .oF.     R     _SABERHAGEN Fred             L'êchafaud pour Dracula [Dracula] ˛1996 A Sharpeness on the Neck ˛Trad. ARSON Thierry
+o FN_THRI  9021  2003.11 ..... ISBN 2-265-07688-0
+} tf9021         _?                           N
+- .oT.     R     _HERBERT James               Le Repaire des rats [Les Rats - 2] ˛1979 Lair ˛Trad. CRICHTON Anne
+o FN_THRI  9036  2003.11 ..... ISBN 2-265-07687-2
+} tf9036         _?                           N
+- .oF.     R     _HERBERT James               Le Survivant ˛1976 The Survivor ˛Trad. MOLS Dominique
+o FN_THRI  9049  2003.11 ..... ISBN 2-265-07710-0
+} tf9049         _?                           N
+- .oF.     R     _MASTERTON Graham            Le Miroir de Satan ˛1988 Mirror ˛Trad. TRUCHAUD Franáois
+!--- une suite de Alice au pays des merveilles
+o FN_THRI  9295  2003.11 ..... ISBN 2-265-07712-7
+} tf9295         _?                           N
+- .oTF     r3    _SUZUKI Koji                 Ring zÇro [Ring - 5] ˛1999 Baasudei / Birthday
+: .oT.     r     _SUZUKI Koji                 Un parfum de citron ˛1999 Lemon heart
+: .oT.     r     _SUZUKI Koji                 Un cercueil ouvert sur le ciel ˛1999 Sorana ukabu oke
+: .oT.     r     _SUZUKI Koji                 Naissance ˛1999 Birthday
+o FN_THRI  9304  2003.11 ..... ISBN 2-265-07711-9
+} tf9304         _?                           N
+- .oF.     F     _STRIEBER Whitley            Les PrÇdateurs [Les PrÇdateurs - 1] ˛1981 The Hunger ˛Trad. DEUTSCH Michel
+o FN_THRI  9305  2003.11 ..... ISBN 2-265-07597-3
+} tf9305         _?                           N
+- .oF.     R     _STRIEBER Whitley            Le Dernier PrÇdateur [Les PrÇdateurs - 2] ˛2001 The Last Vampire ˛Trad. SOVAL Myläne
+o FN_THRI  9288  2003.12 ..... ISBN 2-265-07684-8
+} tf9288         _?                           N
+- .oT.     R     _MASTERTON Graham            Les Papillons du mal ˛2000 Trauma ˛Trad. TRUCHAUD Franáois
+o FN_THRI  9003  2003.12 ..... ISBN 2-265-07709-7
+} tf9003         _?                           N
+- .oF.     R     _MASTERTON Graham            Le DÇmon des morts ˛1983 The Pariah ˛Trad. TRUCHAUD Franáois
+o FN_THRI  9050  2003.12 ..... ISBN 2-265-07686-4
+} tf9050         _?                           N
+- .oT.     R     _HERBERT James               L'Empire des rats [Les Rats - 3] ˛1984 Domain ˛Trad. BENSOUSSAN Nicole
+o FN_THRI  9020  2003.12 ..... ISBN 2-265-07708-9
+} tf9020         _?                           N
+- .oF.     R     _STRAUB Peter                Julia ˛1976 Julia ˛Trad. STRASCHITZ Frank
+o FN_THRI  9215  2004.01 ..... ISBN 2-265-07860-3
+} tf9215         _?                           N
+- .oT.     R     _LUMLEY Brian                NÇcroscope [NÇcroscope - 1] ˛1986 Necroscope ˛Trad. LABBE Denis
+o FN_THRI  9218  2004.01 ..... ISBN 2-265-07859-X
+} tf9218         _?                           N
+- .oT.     R     _LUMLEY Brian                Vamphyri [NÇcroscope - 2] ˛1988 Vamphyri! ˛Trad. LABBE Denis
+o FN_THRI  9306  2004.02 ..... ISBN 2-265-07160-9
+} tf9306         _?                           N
+- .oF.     R     _WILSON F. Paul              Le Testament maudit [Repairman Jack] ˛1998 Legacies ˛Trad. BAUDURET Thomas
+o FN_THRI  9198  2004.02 ..... ISBN 2-265-07861-1
+} tf9198         _?                           N
+- .oT.     R     _KOONTZ Dean R.              La Porte rouge ˛1994 Dark Rivers of the Heart ˛Trad. PAGEL Michel
+o FN_THRI  9145  2004.03 ..... ISBN 2-265-07862-X
+} tf9145         _?                           N
+- .oT.     R     _HERBERT James               PrÇsages ˛1992 Portent ˛Trad. CRICHTON Anne
+o FN_THRI  9213  2004.03 ..... ISBN 2-265-07802-6
+} tf9213         _?                           N
+- .oT.     R     _MASTERTON Graham            Corbeau ˛2002 Unspeakable ˛Trad. TRUCHAUD Franáois
+o FN_THRI  9177  2004.04 ..... ISBN 2-265-07863-8
+} tf9177         _?                           N
+- .oY.     R     _BARKER Clive                Imajica * ˛1991 Imajica ˛Trad. ESCH Jean
+o FN_THRI  9257  2004.04 ..... ISBN 2-265-07194-3
+} tf9257         _?                           N
+- .oT.     R     _GOLDEN Christopher          La Passerelle ˛1999 Strangewood ˛Trad. SSOSSE Maryvonne
+o FN_THRI  9282  2004.05 ..... ISBN 2-265-07828-X
+} tf9282         _?                           N
+- .oF.     R     _HAMILTON Laurell K.         Danse mortelle [Anita Blake, tueuse de vampires - 6] ˛1997 The Killing Danse ˛Trad. TROIN Isabelle
+o FN_THRI  9187  2004.05 ..... ISBN 2-265-07864-6
+} tf9187         _?                           N
+- .oY.     R     _BARKER Clive                Imajica ** ˛1991 Imajica ˛Trad. ESCH Jean
+o FN_THRI  9220  2004.06 ..... ISBN 2-265-07865-4
+} tf9220         _?                           N
+- .oT.     R     _STRAUB Peter                Le Club de l'enfer ˛1996 The Hellfire Club ˛Trad. PAGEL Michel
+o FN_THRI  9031  2004.06 ..... ISBN 2-265-07962-6
+} tf9031         _?                           N
+- .oT.     R     _RICE Anne                   Entretien avec un vampire [Chroniques des vampires - 1] ˛1976 Interview With the Vampire ˛Trad. MURAIL Tristan
+o FN_THRI  9023  2004.06 ..... ISBN 2-265-07963-4
+} tf9023         _?                           N
+- .oT.     R     _RICE Anne                   Lestat le vampire [Chroniques des vampires - 2] ˛1985 The Vampire Lestat ˛Trad. VIERNE BÇatrice
+o FN_THRI  9299  2004.06 ..... ISBN 2-265-07879-4
+} tf9299         _?                           N
+- .oY.     R     _WILKINS Kim                 Le Grimoire ˛1999 Grimoire ˛Trad. ARSON Thierry
+o FN_THRI 11979  2004.06 ..... ISBN 2-265-07961-8
+} tf11979        _?                           N
+- .oF.     R     _RICE Anne                   Merrick [Chroniques des vampires - 7] ˛2000 Merrick ˛Trad. CHARRIER Michäle
+o FN_THRI  9117  2004.07 ..... ISBN 2-265-07866-2
+} tf9117         _?                           N
+- .oT.     R     _MASTERTON Graham            Apparition ˛1990 Prey / Apparition ˛Trad. TRUCHAUD Franáois
+o FN_THRI  9307  2004.07 ..... ISBN 2-265-07876-X
+} tf9307         _?                           N
+- .oT.     R     _GRAY Muriel                 Peur ancestrale ˛2001 The Ancient ˛Trad. ARSON Thierry
+o FN_THRI  9308  2004.07 ..... ISBN 2-265-07878-6
+} tf9308         _?                           N
+- .oF.     R     _CARROLL Jonathan            Le Baiser aux abeilles ˛1998 Kissing the Beehive ˛Trad. SERVAL Nathalie
+o FN_THRI  9107  2004.08 ..... ISBN 2-265-07964-2
+} tf9107         _?                           N
+- .oT.     R     _RICE Anne                   Le Lien malÇfique [Le Cycle des sorciäres - 1] ˛1990 The Witching Hour ˛Trad. SCRIBA Annick Granger de
+o FN_THRI  9157  2004.08 ..... ISBN 2-265-07965-0
+} tf9157         _?                           N
+- .oT.     R     _RICE Anne                   L'Heure des sorciäres [Le Cycle des sorciäres - 2] ˛1993 Lasher ˛Trad. GRANGER de SCRIBA Annick
+o FN_THRI  9166  2004.08 ..... ISBN 2-265-07966-9
+} tf9166         _?                           N
+- .oT.     R     _RICE Anne                   Taltos [Le Cycle des sorciäres - 3] ˛1994 Taltos ˛Trad. SCRIBA Annick Granger de
+o FN_THRI  9278  2004.09 ..... ISBN 2-265-07867-0
+} tf9278         _?                           N
+- .oF.     R     _HAMILTON Laurell K.         Le Cadavre rieur [Anita Blake, tueuse de vampires - 2] ˛1994 The Laughing Corpse ˛Trad. TROIN Isabelle
+o FN_THRI  9308  2004.09 ..... ISBN 2-265-07877-8
+} tf9308         _?                           N
+- .oF.     R     _STRIEBER Whitley            Le Ràve de l'Çlite [Les PrÇdateurs - 3] ˛2002 Lilith's Dream ˛Trad. BENITA Paul
+o FN_THRI  9057  2004.10 ..... ISBN 2-265-07967-7
+} tf9057         _?                           N
+- .oF.     R     _RICE Anne                   La Reine des damnÇs [Chroniques des vampires - 3] ˛1988 The Queen of the Damned ˛Trad. VOGUE Anne de & BRIFFAULT Evelyne
+o FN_THRI  9136  2004.10 ..... ISBN 2-265-07968-5
+} tf9136         _?                           N
+- .oF.     R     _RICE Anne                   Le Voleur de corps [Chroniques des vampires - 4] ˛1992 The Tale of the Body Thief ˛Trad. ROSENTHAL Jean
+o FN_THRI  9203  2004.10 ..... ISBN 2-265-07969-3
+} tf9203         _?                           N
+- .oT.     R     _RICE Anne                   Memnoch le dÇmon [Chroniques des vampires - 5] ˛1995 Memnoch the Devil ˛Trad. GLASBERG Isabelle
+o FN_THRI  9309  2004.11 ..... ISBN 2-265-07936-7
+} tf9309         _?                           N
+- .oT.     R     _LEBBON Tim                  Le Visage du mal ˛2001 Face ˛Trad. ARSON Thierry
+o FN_THRI  9188  2004.11 ..... ISBN 2-265-07875-1
+} tf9188         _?                           N
+- .oT.     R     _KOONTZ Dean R.              Spectres ˛1983 Phantoms ˛Trad. LAHANA Jacqueline
+o FN_THRI  9310  2004.12 ..... ISBN 2-265-07882-4
+} tf9310         _?                           N
+- .oF.     R     _HAMILTON Laurell K.         Offrandes brñlÇes [Anita Blake, tueuse de vampires - 7] ˛1998 Burnt Offerings ˛Trad. TROIN Isabelle
+o FN_THRI  9277  2004.12 ..... ISBN 2-265-07874-3
+} tf9277         _?                           N
+- .oF.     R     _HAMILTON Laurell K.         Plaisirs coupables [Anita Blake, tueuse de vampires - 1] ˛1993 Guilty Pleasures ˛Trad. TROIN Isabelle
+o FN_THRI  9012  2005.01 ..... ISBN 2-265-07868-9
+} tf9012         _?                           N
+- .oT.     R     _BANKS Iain M.               Le Seigneur des guàpes ˛1984 The Wasp Factory ˛Trad. ARNAUD Pierre
+o FN_THRI  9311  2005.01 ..... ISBN 2-265-07753-4
+} tf9311         _?                           N
+- .oF.     R     _YARBRO Chelsea Quinn        Saint Germain, l'egyptien - Tome 1 ˛1990 Out of the House of Life ˛Trad. KLOCZKO Edouard
+o FN_THRI  9159  2005.02 ..... ISBN 2-265-08112-4
+} tf9159         _?                           N
+- .oT.     R     _KOONTZ Dean R.              La Cache du diable ˛1992 Hideaway ˛Trad. BLANC Bernard
+o FN_THRI  9312  2005.02 ..... ISBN 2-265-08111-6
+} tf9312         _?                           N
+- .oF.     R     _YARBRO Chelsea Quinn        Saint Germain, l'egyptien - Tome 2 ˛1990 Out of the House of Life ˛Trad. KLOCZKO Edouard
+o FN_THRI  9248  2005.03 ..... ISBN 2-265-08113-2
+} tf9248         _?                           N
+- .oT.     R     _RICE Anne                   Pandora [Les Nouveaux Contes des vampires - 1] ˛1998 Pandora ˛Trad. STRASCHITZ Frank
+o FN_THRI  9252  2005.03 ..... ISBN 2-265-08114-0
+} tf9252         _?                           N
+- .oT.     R     _RICE Anne                   Vittorio le vampire [Les Nouveaux Contes des vampires - 2] ˛1999 Vittorio the Vampire ˛Trad. D'ATHISZ Airelle
+o FN_THRI  9284  2005.03 ..... ISBN 2-265-08115-9
+} tf9284         _?                           N
+- .oF.     R     _RICE Anne                   Armand le vampire [Chroniques des vampires - 6] ˛2000 The Vampire Armand ˛Trad. CHARRIER Michelle
+o FN_THRI  9313  2005.03 ..... ISBN 2-265-08118-3
+} tf9313         _?                           N
+- .oF.     R     _RICE Anne                   Le Sang et l'or [Chroniques des vampires - 8] ˛2001 Blood and Gold ˛Trad. CHARRIER Michelle
+o FN_THRI  9314  2005.05 ..... ISBN 2-265-07944-8
+} tf9314         _?                           N
+- .oF.     R     _HAMILTON Laurell K.         Lune bleue [Anita Blake, tueuse de vampires - 8] ˛2001 Blue Moon ˛Trad. TROIN Isabelle
+o FN_THRI  9297  2005.06 ..... ISBN 2-265-08117-5
+} tf9297         _?                           N
+- .oTF    _N9    _SUZUKI Koji                 Dark water [Ring - 4] ˛1996 Honogurai mizu no soko kara / Dark Water ˛Trad. HAAS Pascale
+: .oT.     N     _SUZUKI Koji                 Prologue ˛? ?
+: .oT.     N     _SUZUKI Koji                 Dark water ˛? ?
+: .oT.     N     _SUZUKI Koji                 L'åle dÇserte ˛? ?
+: .oT.     N     _SUZUKI Koji                 A fond de cale ˛? ?
+: .oT.     N     _SUZUKI Koji                 Une croisiäre de ràve ˛? ?
+: .oT.     N     _SUZUKI Koji                 A la dÇrive ˛? ?
+: .oT.     N     _SUZUKI Koji                 Couleurs d'eau ˛? ?
+: .oT.     N     _SUZUKI Koji                 Des foràts sous la mer ˛? ?
+: .oT.     N     _SUZUKI Koji                 Epilogue ˛? ?
+o FN_THRI  9033  2005.10 ..... ISBN 2-265-07938-3
+} tf9033         _?                           N
+- .oT.     R     _STRAUB Peter                Ghost story ˛1979 Ghost Story ˛Trad. STRASCHITZ Franck
+o FN_THRI  9315  2005.10 ..... ISBN 2-265-07798-4
+} tf9315         _?                           N
+- .oT.     R     _MASTERTON Graham            Le Glaive de Dieu ˛2002 Holy Terror ˛Trad. TRUCHAUD Franáois
+o FN_THRI  9114  2006.01 ..... ISBN 2-265-08324-0
+} tf9114         _?                           N
+- .oT.     R     _KOONTZ Dean R.              La Maison interdite ˛1990 The Bad Place ˛Trad. BREQUE Jean-Daniel
+o FN_THRI  9206  2006.03 ..... ISBN 2-265-08338-0
+} tf9206         _?                           N
+- .oT.     R     _MASTERTON Graham            Magie vaudou [Jim Rook - 1] ˛1996 Rook ˛Trad. TRUCHAUD Franáois
+o FN_THRI  9291  2006.01 ..... ISBN 2-265-07896-4
+} tf9291         _?                           N
+- .oF.     R     _STEVENS-ARCE James          Sauveurs d'Émes ˛2000 Soulsaver ˛Trad. SSOSSE Maryvonne
+o FN_THRI  9316  2006.03 ..... ISBN 2-265-08269-4
+} tf9316         _?                           N
+- .oT.     R     _MASTERTON Graham            Magie des flammes [Jim Rook - 6] ˛2003 Darkroom ˛Trad. BENITA Paul
+o FN_THRI  9317  2006.07 ..... ISBN 2-265-07945-6
+} tf9317         _?                           N
+- .oF.     R     _HAMILTON Laurell K.         Papillon d'obsidienne [Anita Blake, tueuse de vampires - 9] ˛2000 Obsedian Butterfly ˛Trad. TROIN Isabelle
+≠o FN_THRI  9016  2005.05 ..... ISBN 2-265-08116-7
+≠} noimg          _?                           ?
+≠- .oT.     R     _KING Stephen                Salem ˛1975 Salem's Lot ˛Trad. THIOLLIER Christiane et BERNARD Joan
+≠o FN_THRI  9070  2005.07 ..... ISBN 2-265-08122-1
+≠} noimg          _?                           ?
+≠- .oT.     R     _KING Stephen                Dolores Claiborne ˛1993 Dolores Clayborne ˛Trad. DILL Dominique
+!FIN_COLL FN_THRI
+
+!-----------------------------------------------------------------------------
+_ FN_GF   Fleuve Noir, Grand Format
+!-----------------------------------------------------------------------------
+!--- 
+!-----------------------------------------------------------------------------
+?o FN_GF       ?  2000.xx ..... ISBN 2-265-.....-.
+?} noimg          _?                           ?
+?!--- TBC rÇfÇrencer ou pas ?
+?- .o .     J     _BORIS Cynthia               Le Quizz [Buffy contre les vampires] ˛1999 Pop Quiz
+o FN_GF       ?  2000.xx ..... ISBN 2-265-.....-.
+} noimg          _?                           ?
+- .o .     G     _GENGE N.E.                  Tout sur Buffy, Angel et les vampires [Buffy contre les vampires] ˛1998 The Buffy Chronicles
+
+!-----------------------------------------------------------------------------
+_ FN_TERR Fleuve Noir, Les terreurs ˛2000 - ...
+!-----------------------------------------------------------------------------
+!---  Les terreurs (TBC : ou "Terreurs" ?), grand format
+!-----------------------------------------------------------------------------
+o FN_TERR     ?  2000.11 ..... ISBN 2-265-07083-1
+} noimg          _?                           ?
+- .oT.     R     _STERN D.A.                  Blair Witch : la confession secräte de Rustin Parr ˛2000 The Secret Confession of Rustin Parr ˛Trad. CARTON Dominique
+o FN_TERR     ?  2001.06 ..... ISBN 2-265-07158-7
+} noimg          _?                           ?
+- .oT.    _A27   *CONRAD Daniel               Douces ou cruelles ? ˛2001
+!--- Sous-titrÇ : Vers une littÇrature de l'angoisse Ö la franáaise
+!--- Vingt sept histoires de femmes en proie Ö l'angoisse
+: .oT.     N     _AUBERT Brigitte             Nuit caline ˛2001
+: .oT.     N     _BERTHELOT Francis           MÇrÇlune ˛2001
+: .oT.     N     _CALIGARIS Nicole            Pussy cat ˛2001
+: .oT.     N     _CALVEZ Jean-Michel          No man's hand ˛2001
+: .oT.     N     _CHATEAUREYNAUD G.-O.        Les Soeurs TÇnäbre ˛2001
+: .oT.     N     _CLAUDEL Philippe            Mira Tcherbo ˛2001
+: .oT.     N     _DORNY Jennie                Le Silence ˛2001
+: .oT.     N     _DUGUEL Anne                 Vertige ˛2001
+: .oT.     N     _DUNYACH Jean-Claude        &Tous les ràves des femmes ˛2001
+&                _SMULDERS Anne               
+: .oT.     N     _ECKEN Claude                Jusqu'Ö ce que la haine nous rÇunisse ˛2001
+: .oT.     N     _ERIS Patrick                Albatros ˛2001
+: .oT.     N     _FAIVRE D'ARCIER Jeanne      Yaksini ˛2001
+: .oT.     N     _FAZI MÇlanie                Matilda ˛2001
+: .oT.     N     _GIRARDOT Jean-Jacques       L'Ange Çnigmatique ˛2001
+: .oT.     N     _GRIMM Caroline              Blanche sous la neige ˛2001
+: .oT.     N     _JAPP Andrea H.              Rosa la rose ˛2001
+: .oT.     N     _KATYN Catherine             Membres de la famille ˛2001
+: .oT.     N     _LEANDRI Bruno               Une belle invention ˛2001
+: .oT.     N     _LEYDIER Michel              Bloody Sandy ˛2001
+: .oT.     N     _MAMIER Claude               De larmes et de griffes ˛2001
+: .oT.     N     _MASSE Odile                 Dedans ˛2001
+: .oT.     N     _NIMIER Marie                La SÇparation ˛2001
+: .oT.     N     _SHOLBY                      Buanderie ˛2001
+: .oT.     N     _TABACHNIK Maud              Venue d'ailleurs ˛2001
+: .oT.     N     _VONARBURG Elisabeth         GÇhenne ˛1980
+: .oT.     N     _WALTHER Daniel              Le Casino rouge ˛2001
+: .oT.     N     _WINTREBERT Joâlle           La Proie ˛2001
+
+!DEB_HEAD FN_LVAM
+!TIT_COLL La Vampire
+!-----------------------------------------------------------------------------
+_ FN_LVAM Fleuve Noir, La vampire ˛2000 - 2001
+!-----------------------------------------------------------------------------
+!--- La blondinette vampire de Christopher Pike n'aura sÇvi qu'un an au Fleuve Noir...
+!-----------------------------------------------------------------------------
+!FIN_HEAD FN_LVAM
+!DEB_COLL FN_LVAM
+o FN_LVAM     1  2000.01 ..... ISBN 2-265-06549-8
+} lavamp01       _?                           N
+- .oF.     R     _PIKE Christopher            La Promesse [La Vampire - 1] ˛1994 The Last Vampire ˛Trad. JOUVERT PIerre
+o FN_LVAM     2  2000.01 ..... ISBN 2-265-06563-3
+} lavamp02       _?                           N
+- .oF.     R     _PIKE Christopher            Sang noir [La Vampire - 2] ˛1994 Black Blood ˛Trad. CALIFANO Claude
+o FN_LVAM     3  2000.03 ..... ISBN 2-265-06564-1
+} lavamp03       _?                           N
+- .oF.     R     _PIKE Christopher            Tapis rouge [La Vampire - 3] ˛1995 Red Dice ˛Trad. CALIFANO Claude
+o FN_LVAM     4  2000.05 ..... ISBN 2-265-06556-3
+} lavamp04       _?                           N
+- .oF.     R     _PIKE Christopher            Fantìme [La Vampire - 4] ˛1996 Phantom ˛Trad. CALIFANO Claude
+o FN_LVAM     5  2000.09 ..... ISBN 2-265-06547-1
+} lavamp05       _?                           N
+- .oF.     R     _PIKE Christopher            La Soif du mal [La Vampire - 5] ˛1996 Evil Thirst ˛Trad. CALIFANO Claude
+o FN_LVAM     6  2001.01 ..... ISBN 2-265-06548-X
+} lavamp06       _?                           N
+- .oF.     R     _PIKE Christopher            Les Immortels [La Vampire - 6] ˛1996 Creatures of Forever ˛Trad. CALIFANO Claude
+!FIN_COLL FN_LVAM
+
+!-----------------------------------------------------------------------------
+_ FN_ANGE Fleuve Noir, Angel ˛1999 - 2004
+!-----------------------------------------------------------------------------
+!---  Angel
+!-----------------------------------------------------------------------------
+o FN_ANGE     1  2000.10 ..... ISBN 2-265-07050-5
+} angel01        _?                           N
+- .oF.     R     _HOLDER Nancy                La CitÇ des anges [Angel - 1] ˛1999 City of Angels ˛Trad. L'OFFICIAL CÇline
+o FN_ANGE     2  2000.10 ..... ISBN 2-265-07051-3
+} angel02        _?                           N
+- .oF.     R     _HOLDER Nancy                Le Seigneur des bas-fonds [Angel - 2] ˛1999 Not Forgotten ˛Trad. L'OFFICIAL CÇline
+o FN_ANGE     3  2001.02 ..... ISBN 2-265-07130-7
+} angel03        _?                           N
+- .oF.     R     _ODOM Mel                    RÇdemption [Angel - 3] ˛2000 Redemption ˛Trad. LEFAURE Serge
+o FN_ANGE     4  2001.04 ..... ISBN 2-265-07131-5
+} angel04        _?                           N
+- .oF.     R     _MARIOTTE Jeff               Mortelle faiblesse [Angel - 4] ˛2000 Close of the Ground ˛Trad. TARALL Virginie
+o FN_ANGE     5  2001.06 ..... ISBN 2-265-07132-3
+} angel05        _?                           N
+- .oF.     R     _DEBRANDT Don                IntÇràt commun [Angel - 5] ˛2000 Shake Down ˛Trad. TARALL Virginie
+o FN_ANGE     6  2001.09 ..... ISBN 2-265-07188-9
+} angel06        _?                           N
+- .oF.     R     _MARIOTTE Jeff               Hollywood noir [Angel - 6] ˛2001 Hollywood Noir ˛Trad. MENAGE Nicole
+o FN_ANGE     7  2001.11 ..... ISBN 2-265-07189-7
+} angel07        _?                           N
+- .oF.     R     _PASSARELLA John             MalÇfices [Angel - 7] ˛2001 Avatar ˛Trad. MANTRAN Florence
+o FN_ANGE     8  2002.02 ..... ISBN 2-265-07190-0
+} angel08        _?                           N
+- .oF.     R     _SNIEGOSKI Thomas E.         MarchÇ noir [Angel - 8] ˛2001 Soul Trade ˛Trad. TROIN Isabelle
+o FN_ANGE     9  2002.04 ..... ISBN 2-265-07291-5
+} angel09        _?                           N
+- .oF.     R     _ODOM Mel                    Bruja [Angel - 9] ˛2001 Bruja ˛Trad. TARALL Anne-Virginie
+o FN_ANGE    10  2002.07 ..... ISBN 2-265-07292-3
+} angel10        _?                           N
+- .oF.     R     _DOKEY Cameron               Le Souffle du dragon [Angel - 10] ˛2001 The Summoned ˛Trad. TARALL Anne-Virginie
+o FN_ANGE    11  2002.09 ..... ISBN 2-265-07293-1
+} angel11        _?                           N
+- .oF.     R     _HOLDER Nancy               &Le Feu aux poudres [Angel - 11] ˛2001 Unseen Book One: The Burning ˛Trad. TARALL Anne-Virginie
+&                _MARIOTTE Jeff               
+o FN_ANGE    12  2002.11 ..... ISBN 2-265-07294-X
+} angel12        _?                           N
+- .oF.     R     _HOLDER Nancy               &Sur tous les fronts [Angel - 12] ˛2001 Unseen Book Two: Door to Alternity ˛Trad. TARALL Anne-Virginie
+&                _MARIOTTE Jeff               
+o FN_ANGE    13  2002.12 ..... ISBN 2-265-07295-8
+} angel13        _?                           N
+- .oF.     R     _HOLDER Nancy               &Le Retour des hÇros [Angel - 13] ˛2001 Unseen Book Three: Long Way Home ˛Trad. TARALL Anne-Virginie
+&                _MARIOTTE Jeff               
+o FN_ANGE    14  2003.01 ..... ISBN 2-265-07463-2
+} angel14        _?                           N
+- .oF.     R     _MARIOTTE Jeff               Ghost acadÇmie [Angel - 14] ˛2002 Haunted ˛Trad. TARALL Anne-Virginie
+o FN_ANGE    15  2003.04 ..... ISBN 2-265-07484-5
+} angel15        _?                           N
+- .oF.     R     _ODOM Mel                    Copie conforme [Angel - 15] ˛2002 Image ˛Trad. TARALL Anne-Virginie
+o FN_ANGE    16  2003.06 ..... ISBN 2-265-07521-3
+} angel16        _?                           N
+- .oF.     R     _MARIOTTE Jeff               Extinction des feux ! [Angel - 16] ˛2002 Stranger to the Sun ˛Trad. TARALL Anne-Virginie
+o FN_ANGE    17  2003.09 ..... ISBN 2-265-07520-5
+} angel17        _?                           N
+- .oF.     R     _CIENCIN Scott              &Les Ailes du bonheur [Angel - 17] ˛2002 Vengeance ˛Trad. TARALL Anne-Virginie
+&                _JOLLEY Dan                  
+o FN_ANGE    18  2003.11 ..... ISBN 2-265-07518-3
+} angel18        _?                           N
+- .oF.     R     _DURGIN Doranna              Les Empreintes du mal [Angel - 18] ˛2003 Impressions ˛Trad. TARALL Anne-Virginie
+o FN_ANGE    19  2004.01 ..... ISBN 2-265-07519-1
+} angel19        _?                           N
+- .oF.    _N6    ****                         Solstice d'enfer - 1 [Angel - 19] ˛2002 The longuest night 1 ˛Trad. MALLE Jean-Claude
+: .oF.     N     _ASKEGREN Pierce             La Maison oó la mort n'entrait pas ˛2002 The House Where Death Stood Still ˛Trad. MALLE Jean-Claude
+: .oF.     N     _MARIOTTE Jeff               Un joyeux vacarme ˛2002 A Joyful Noise ˛Trad. MALLE Jean-Claude
+: .oF.     N     _GOLDEN Christopher          Cadeau surprise ˛2002 I Still Believe ˛Trad. MALLE Jean-Claude
+: .oF.     N     _CIENCIN Scott              &Histoire de fantìmes hollywoodiens ˛2002 It Can Happen to You ˛Trad. MALLE Jean-Claude
+&                _CIENCIN Denise              
+: .oF.     N     _OZ Emily                    Comportement... Modäle ˛2002 Model behavior ˛Trad. MALLE Jean-Claude
+: .oF.     N     _HOLDER Nancy                Le Mauvais Oeil ˛2002 Have Gunn, Will Travel ˛Trad. MALLE Jean-Claude
+o FN_ANGE    20  2004.04 ..... ISBN 2-265-07780-1
+} angel20        _?                           N
+- .oF.    _N6    ****                         Solstice d'enfer - 2 [Angel - 20] ˛2002 The Longuest Night 2 ˛Trad. MALLE Jean-Claude
+: .oF.     N     _NAVARRO Yvonne              Miroir, mon doux miroir... ˛2002 Generous Presence ˛Trad. MALLE Jean-Claude
+: .oF.     N     _HOLDER Nancy                La Recluse ˛2002 The Anchoress ˛Trad. MALLE Jean-Claude
+: .oF.     N     _DURGIN Doranna              Sans domicile fixe ˛2002 Bummed Out ˛Trad. MALLE Jean-Claude
+: .oF.     N     _NAVARRO Yvonne              Douche chaude ˛2002 Icicle Memories ˛Trad. MALLE Jean-Claude
+: .oF.     N     _DURGIN Doranna              Le Cocon ˛2002 Yoke of the Soul ˛Trad. MALLE Jean-Claude
+: .oF.     N     _GOLDEN Christie             L'Enfant-Soleil ˛2002 The Sun Child ˛Trad. MALLE Jean-Claude
+o FN_ANGE    21  2004.10 ..... ISBN 2-265-07781-X
+} angel21        _?                           N
+- .oF.     R     _MARIOTTE Jeff               Le Sanctuaire [Angel - 21] ˛2003 Sanctuary ˛Trad. JOLY Fabrice
+
+!DEB_HEAD FN_DIAB
+!TIT_COLL Diablo
+!-----------------------------------------------------------------------------
+_ FN_DIAB Fleuve Noir, Diablo
+!-----------------------------------------------------------------------------
+!--- Fleuve Noir, Diablo
+!-----------------------------------------------------------------------------
+!FIN_HEAD FN_DIAB
+!DEB_COLL FN_DIAB
+o FN_DIAB     1  2003.02 ..... ISBN 2-265-07468-3
+} diablo01       _?                           N
+- .oF.     R     _KNAAK Richard A.            La Loi du sang [Diablo - 1] ˛2001 Legacy of Blood ˛Trad. BENITA Paul
+o FN_DIAB     2  2003.05 ..... ISBN 2-265-07477-2
+} diablo02       _?                           N
+- .oF.     R     _ODOM Mel                    Le Sentier de la damnation [Diablo - 2] ˛2002 The Black Road ˛Trad. BENITA Paul
+o FN_DIAB     3  2003.11 ..... ISBN 2-265-07514-0
+} diablo03       _?                           N
+- .oF.     R     _KNAAK Richard A.            Le Royaume des ombres [Diablo - 3] ˛2002 The Kingdom of Shadow ˛Trad. BENITA Paul
+!FIN_COLL FN_DIAB
+
+!-----------------------------------------------------------------------------
+_ FN_CHAR Fleuve Noir, Charmed ˛2001 - ...
+!-----------------------------------------------------------------------------
+!---  Charmed
+!-----------------------------------------------------------------------------
+o FN_CHAR     1  2001.03 ..... ISBN 2-265-07442-X
+} noimg          _?                           ?
+- .oF.     R     _WILLARD Eliza               Le Pouvoir des trois [Charmed - 1] ˛1999 The Power of Three ˛Trad. VAUGEOIS Gilles
+o FN_CHAR     2  2001.03 ..... ISBN 2-265-07086-6
+} noimg          _?                           ?
+- .oF.     R     _ALEXANDER Brandon           Le Baiser des tÇnäbres [Charmed - 2] ˛2000 Kiss of Darkness ˛Trad. CARTON Dominique
+o FN_CHAR     3  2001.03 ..... ISBN 2-265-07087-4
+} noimg          _?                           ?
+- .oF.     R     _GOLDSBOROUGH F.             Le Sortiläge Çcarlate [Charmed - 3] ˛2000 The crimson spell ˛Trad. VAUGEOIS Gilles
+o FN_CHAR     4  2001.05 ..... ISBN 2-265-07088-2
+} noimg          _?                           ?
+- .oF.     R     _NOONAN Rosalind             Quand le passÇ revient [Charmed - 4] ˛2000 Whispers from the Past ˛Trad. CARTON Dominique
+o FN_CHAR     5  2001.09 ..... ISBN 2-265-07089-0
+} noimg          _?                           ?
+- .oF.     R     _STAUB Wendy Corsi           Rituel vaudou [Charmed - 5] ˛2000 Woodoo Moon ˛Trad. VAUGEOIS Gilles
+o FN_CHAR     6  2001.11 ..... ISBN 2-265-07090-4
+} noimg          _?                           ?
+- .oF.     R     _DOKEY Cameron               Menaces de mort [Charmed - 6] ˛2000 Haunted by Desire ˛Trad. DALLE Sophie
+o FN_CHAR     7  2002.01 ..... ISBN 2-265-07319-9
+} noimg          _?                           ?
+- .oF.     R     _JABLONSKI Carla             Le Violon ensorcelÇ [Charmed - 7] ˛2000 The Gypsy Enchantment ˛Trad. MANTRAN Florence
+o FN_CHAR     8  2002.03 ..... ISBN 2-265-07318-0
+} noimg          _?                           ?
+- .oF.     R     _FLOOD Eloise                Le Secret des druides [Charmed - 8] ˛2001 The Legacy of Merlin ˛Trad. MANTRAN Florence
+o FN_CHAR     9  2002.06 ..... ISBN 2-265-07317-2
+} noimg          _?                           ?
+- .oF.     R     _LENHARD Elizabeth           La FiancÇe de Nikos [Charmed - 9] ˛2001 Soul of the Bride ˛Trad. MANTRAN Florence
+o FN_CHAR    10  2002.09 ..... ISBN 2-265-07316-4
+} noimg          _?                           ?
+- .oF.     R     _GALLAGHER Diana G.          La Statuette malÇfique [Charmed - 10] ˛2001 Beware What You Wish ˛Trad. MANTRAN Florence
+o FN_CHAR     0  2002.10 ..... ISBN 2-265-07413-6
+} noimg          _?                           ?
+- .oF.     R     _GENGE N.E.                  Le Livre des ombres [Charmed] ˛2000 The Book of Shadow ˛Trad. VIDAL Pauline
+o FN_CHAR    11  2002.11 ..... ISBN 2-265-07426-8
+} noimg          _?                           ?
+- .oF.     R     _LENHARD Elizabeth           La Sorciäre perdue [Charmed - 11] ˛2002 Charmed Again ˛Trad. MANTRAN Florence
+o FN_CHAR    12  2003.01 ..... ISBN 2-265-07471-3
+} noimg          _?                           ?
+- .oF.     R     _GALLAGHER Diana G.          La Ceinture sacrÇe [Charmed - 12] ˛2002 Spirit of the Wolf ˛Trad. MANTRAN Florence
+o FN_CHAR    13  2003.02 ..... ISBN 2-265-07490-X
+} noimg          _?                           ?
+- .oF.     R     _HARRISON Emma               Le Jardin du mal [Charmed - 13] ˛2002 Garden of Evil ˛Trad. PELTIER-WEBER Betty
+o FN_CHAR    14  2003.04 ..... ISBN 2-265-07526-4
+} noimg          _?                           ?
+- .oF.     R     _LENHARD Elizabeth           DÇmons sur le net [Charmed - 14] ˛2002 Date With Death ˛Trad. MANTRAN Florence
+o FN_CHAR    15  2003.06 ..... ISBN 2-265-07526-4
+} noimg          _?                           ?
+- .oF.     R     _GALLAGHER Diana G.          Mauvaises frÇquentations [Charmed - 15] ˛2002 Dark Vengeance ˛Trad. MANTRAN Florence
+o FN_CHAR    16  2003.10 ..... ISBN 2-265-07527-2
+} noimg          _?                           ?
+- .oF.     R     _JABLONSKI Carla             L'Ombre du sphinx [Charmed - 16] ˛2002 Shadow of the Sphinx ˛Trad. PELTIER-WEBER Betty
+o FN_CHAR    17  2003.11 ..... ISBN 2-265-07528-0
+} noimg          _?                           ?
+- .oF.     R     _HARRISON Emma               L'Enlävement des sorciers [Charmed - 17] ˛2003 Something Wiccan This Way Comes ˛Trad. PELTIER-WEBER Betty
+o FN_CHAR    18  2004.02 ..... ISBN 2-265-07789-5
+} noimg          _?                           ?
+- .oF.     R     _GALLAGHER Diana G.          Etranges nuÇes [Charmed - 18] ˛2003 Mist and Stone ˛Trad. BOITELLE Leslie
+o FN_CHAR    19  2004.04 ..... ISBN 2-265-07790-9
+} noimg          _?                           ?
+- .oF.     R     _MARIOTTE Jeff               Le Reflet du miroir [Charmed - 19] ˛2003 Mirror Image ˛Trad. PELTIER-WEBER Betty
+o FN_CHAR    20  2004.10 ..... ISBN 2-265-07791-7
+} noimg          _?                           ?
+- .oF.     R     _WEISS Bobby J.G.           &Entre deux mondes [Charmed - 20] ˛2003 Mirror Image ˛Trad. PELTIER-WEBER Betty
+&                _WILSON Jacklyn              
+o FN_CHAR    21  2004.10 ..... ISBN 2-265-07792-5
+} noimg          _?                           ?
+- .oF.     R     _DOKEY Cameron               Trahison et consÇquences [Charmed - 21] ˛2004 Truth and Consequences ˛Trad. PELTIER-WEBER Betty
+o FN_CHAR    22  2005.01 ..... ISBN 2-265-07999-5
+} noimg          _?                           ?
+- .oF.     R     _CIENCIN Scott               Une chance d'enfer [Charmed - 22] ˛2004 Luck Be a Lady ˛Trad. PELTIER-WEBER Betty
+o FN_CHAR    23  2005.04 ..... ISBN 2-265-08000-4
+} noimg          _?                           ?
+- .oF.     R     _BURNS Laura J.              La Sorcellerie en hÇritage [Charmed - 23] ˛2004 Inherit in the Witch ˛Trad. PELTIER-WEBER Betty
+o FN_CHAR    24  2005.08 ..... ISBN 2-265-08001-2
+} noimg          _?                           ?
+- .oF.     R     _HARRISON Emma               Deux Piper valent mieux qu'une [Charmed - 24] ˛2004 A Tale of Two Pipers ˛Trad. PELTIER-WEBER Betty
+o FN_CHAR    25  2006.01 ..... ISBN 2-265-08215-5
+} noimg          _?                           ?
+- .oF.     R     _RUDITIS Paul                Avis de tempàte [Charmed - 25] ˛2004 The Brewing Storm
+o FN_CHAR    26  2006.04 ..... ISBN 2-265-08221-X
+} noimg          _?                           ?
+- .oF.     R     _MARIOTTE Jeff               Que les meilleures gagnent [Charmed - 26] ˛2004 Survival of the Fittest ˛Trad. PELTIER-WEBER Betty
+o FN_CHAR    27  2006.08 ..... ISBN 2-265-08258-9
+} noimg          _?                           ?
+- .oF.     R     _VIGUIE Debbie               La Derniäre Note [Charmed - 27] ˛2004 Pied Piper ˛Trad. PELTIER-WEBER Betty
+o FN_CHAR    28  2006.10 ..... ISBN 2-265-08259-7
+} noimg          _?                           ?
+- .oF.     R     _GALLAGHER Diana G.          Un vent de mysticisme [Charmed - 28] ˛2005 Mystic Knoll ˛Trad. PELTIER-WEBER Betty
+o FN_CHAR    29  2007.01 ..... ISBN 978-2-265-08462-9
+} noimg          _?                           ?
+- .oF.     R     _OSTOW Micol                 Les Berceaux musicaux [Charmed - 29] ˛2005 Changeling Places ˛Trad. ZACHAYUS Michäle
+o FN_CHAR    30  2007.04 ..... ISBN 978-2-265-08463-6
+} noimg          _?                           ?
+- .oF.     R     _HARRISON Emma               Le Choix de la reine [Charmed - 30] ˛2005 The Queen's Curse ˛Trad. PELTIER-WEBER Betty
+o FN_CHAR    31  2007.09 ..... ISBN 978-2-265-08464-3
+} noimg          _?                           ?
+- .oF.     R     _DOKEY Cameron               Le Portrait maudit [Charmed - 31] ˛2005 Picture Perfect ˛Trad. PELTIER-WEBER Betty
+
+!-----------------------------------------------------------------------------
+_ FN_ROSW Fleuve Noir, Roswell ˛2001 - ...
+!-----------------------------------------------------------------------------
+!---  Roswell
+!-----------------------------------------------------------------------------
+o FN_ROSW     1  2001.xx ..... ISBN 2-265-07052-1
+} noimg          _?                           ?
+- .oS.     R     _METZ Melinda                La RÇvÇlation [Roswell high - 1] ˛1998 Outsider ˛Trad. TARALL Anne-Virgnie
+o FN_ROSW     2  2001.xx ..... ISBN 2-265-07053-X
+} noimg          _?                           ?
+- .oS.     R     _METZ Melinda                L'Intrus [Roswell high - 2] ˛1998 The Wild One ˛Trad. TARALL Anne-Virgnie
+o FN_ROSW     3  2001.xx ..... ISBN 2-265-07054-8
+} noimg          _?                           ?
+- .oS.     R     _METZ Melinda                Pouvoirs secrets [Roswell high - 3] ˛1999 The Seeker ˛Trad. TARALL Anne-Virgnie
+o FN_ROSW     4  2001.10 ..... ISBN 2-265-07055-6
+} noimg          _?                           ?
+- .oS.     R     _METZ Melinda                La Protectrice [Roswell high - 4] ˛1999 The Watcher ˛Trad. TARALL Anne-Virgnie
+o FN_ROSW     5  2001.12 ..... ISBN 2-265-07056-4
+} noimg          _?                           ?
+- .oS.     R     _METZ Melinda                L'êtrangäre [Roswell high - 5] ˛1999 The Intruder ˛Trad. TARALL Anne-Virgnie
+o FN_ROSW     6  2001.01 ..... ISBN 2-265-07057-2
+} noimg          _?                           ?
+- .oS.     R     _METZ Melinda                Le Passager clandestin [Roswell high - 6] ˛2000 The Stowaway ˛Trad. TARALL Anne-Virginie
+o FN_ROSW     7  2002.02 ..... ISBN 2-265-07296-6
+} noimg          _?                           ?
+- .oS.     R     _METZ Melinda                La Pierre de minuit [Roswell high - 7] ˛2000 The Vanished ˛Trad. TARALL Anne-Virginie
+o FN_ROSW     8  2002.04 ..... ISBN 2-265-07297-4
+} noimg          _?                           ?
+- .oS.     R     _METZ Melinda                Le Rebelle [Roswell high - 8] ˛2000 The Rebel ˛Trad. TARALL Anne-Virginie
+o FN_ROSW     9  2002.07 ..... ISBN 2-265-07298-2
+} noimg          _?                           ?
+- .oS.     R     _METZ Melinda                Le RenÇgat [Roswell high - 9] ˛2000 The Dark One ˛Trad. TARALL Anne-Virgnie
+o FN_ROSW    10  2002.10 ..... ISBN 2-265-07299-0
+} noimg          _?                           ?
+- .oS.     R     _METZ Melinda                Nouveau dÇpart [Roswell high - 10] ˛2000 The Salvation ˛Trad. TARALL Anne-Virginie
+o FN_ROSW    11  2002.11 ..... ISBN 2-265-07422-5
+} noimg          _?                           ?
+- .oS.     R     _COX Greg                    Les Assassins n'oublient jamais [Roswell high - 11] ˛2001 Loose Ends ˛Trad. TARALL Anne-Virginie
+o FN_ROSW    12  2003.01 ..... ISBN 2-265-07470-5
+} noimg          _?                           ?
+- .oS.     R     _RUSCH Kristine Kathryn     &Le Prix d'un miracle [Roswell high - 12] ˛2001 No Good Deed ˛Trad. TARALL Anne-Virginie
+&                _SMITH Dean Wesley           
+o FN_ROSW    13  2003.02 ..... ISBN 2-265-07462-4
+} noimg          _?                           ?
+- .oS.     R     _RUSCH Kristine Kathryn     &Le Syndrome Valenti [Roswell high - 13] ˛2001 Little Green Men ˛Trad. TARALL Anne-Virgnie
+&                _SMITH Dean Wesley           
+o FN_ROSW    14  2003.04 ..... ISBN 2-265-07479-9
+} noimg          _?                           ?
+- .oS.     R     _ODOM Mel                    La Hache de guerre [Roswell high - 14] ˛2002 Shades ˛Trad. TARALL Anne-Virginie
+o FN_ROSW    15  2003.07 ..... ISBN 2-265-07524-8
+} noimg          _?                           ?
+- .oS.     R     _MANGELS Andy                Secrets de famille [Roswell high - 15] ˛? Skeletons in the Closet ˛Trad. TARALL Anne-Virgnie
+o FN_ROSW    16  2003.10 ..... ISBN 2-265-07523-X
+} noimg          _?                           ?
+- .oS.     R     _RUDITIS Paul                Ultime message [Roswell high - 16] ˛2003 Dreamwalk ˛Trad. TARALL Anne-Virgnie
+o FN_ROSW    17  2004.01 ..... ISBN 2-265-07522-1
+} noimg          _?                           ?
+- .oS.     R     _BURNS Laura J.              Alerte rouge [Roswell high - 17] ˛2003 Quarantine ˛Trad. GUILLAUME Rosalie
+o FN_ROSW    18  2004.10 ..... ISBN 2-265-07782-8
+} noimg          _?                           ?
+- .oS.     R     _RYAN Kevin                  Droit devant [Roswell high - 18] ˛2003 A New Beginning ˛Trad. FRAISSE FrÇdÇrique
+
+!DEB_HEAD FN_FEAR
+!TIT_COLL Fearless
+!-----------------------------------------------------------------------------
+_ FN_FEAR Fleuve Noir, Fearless ˛2001 - ...
+!-----------------------------------------------------------------------------
+!--- Gaãa a 17 ans et vit Ö New York. A priori, rien ne la diffÇrencie des
+!--. autres adolescentes de son Ége. Pourtant, elle est nÇe sans le gäne de
+!--. la peur. Son päre, un agent de la CIA spÇcialisÇ dans la lutte
+!--. anti-terroriste, a disparu apräs l'assassinat de la märe de Gaãa.
+!--. Depuis, elle est ÇlevÇe par un ami de son päre et son Çpouse qu'elle
+!--. dÇteste. Conscient du handicap de sa fille (ne ressentant jamais la peur,
+!--. Gaãa s'expose aux pires dangers en toute inconscience, dÇfend les faibles,
+!--. se rebelle face Ö toutes les injustices ou les agressions de la rue), son
+!--. päre l'a formÇe Ö tous les sports de combat, karatÇ, self-dÇfense, etc...
+!--. MalgrÇ tout, Gaãa veut vivre comme toutes les filles de son Ége, màme si
+!--. elle se sent toujours "diffÇrente", màme si elle veut Ö tout prix savoir
+!--. ce que son päre est devenu. Son meilleur ami, Ed, est lui aussi
+!--. "diffÇrent" : il se dÇplace dans une chaise roulante. InsÇparables, Gaãa
+!--. et Ed veulent survivre dans une jungle urbaine sans pitiÇ.
+!--- MalgrÇ ses atouts, Gaãa "Fearless" n'a pas pu survivre Ö la jungle
+!--. du Fleuve Noir...
+!-----------------------------------------------------------------------------
+!FIN_HEAD FN_FEAR
+!DEB_COLL FN_FEAR
+o FN_FEAR     1  2001.09 ..... ISBN 2-265-07033-5
+} fearless01     _?                           N
+- .oF.     R     _PASCAL Francine             Rebelle [Fearless - 1] ˛1999 Fearless ˛Trad. D'IVOIRE Carole
+o FN_FEAR     2  2001.09 ..... ISBN 2-265-07034-3
+} fearless02     _?                           N
+- .oF.     R     _PASCAL Francine             Le DÇfi [Fearless - 2] ˛1999 Sam ˛Trad. D'IVOIRE Carole
+o FN_FEAR     3  2001.09 ..... ISBN 2-265-07035-1
+} fearless03     _?                           N
+- .oF.     R     _PASCAL Francine             L'Otage [Fearless - 3] ˛1999 Run ˛Trad. D'IVOIRE Carole
+o FN_FEAR     4  2002.01 ..... ISBN 2-265-07036-X
+} fearless04     _?                           N
+- .oF.     R     _PASCAL Francine             La Prochaine sur la liste [Fearless - 4] ˛2000 Twisted ˛Trad. ST-MARTIN Isabelle
+o FN_FEAR     5  2002.03 ..... ISBN 2-265-07037-8
+} fearless05     _?                           N
+- .oF.     R     _PASCAL Francine             Le Baiser [Fearless - 5] ˛2000 Kiss ˛Trad. ST-MARTIN Isabelle
+o FN_FEAR     6  2002.06 ..... ISBN 2-265-07038-6
+} fearless06     _?                           N
+- .oF.     R     _PASCAL Francine             La Revanche [Fearless - 6] ˛2000 Payback ˛Trad. ST-MARTIN Isabelle
+!FIN_COLL FN_FEAR
+
+!-----------------------------------------------------------------------------
+_ FN_RESI Fleuve Noir, Resident Evil ˛2002 - ...
+!-----------------------------------------------------------------------------
+!---  Resident Evil
+!-----------------------------------------------------------------------------
+o FN_RESI     1  2002.04 ..... ISBN 2-265-07797-6
+} noimg          _?                           ?
+- .oF.     R     _PERRY S.D.                  La Conspiration d'Umbrella [Resident Evil - 1] ˛1998 The Umbrella Conspiracy ˛Trad. BENITA Paul
+o FN_RESI     2  2002.04 ..... ISBN 2-265-07352-0
+} noimg          _?                           ?
+- .oF.     R     _PERRY S.D.                  La Crique de Caliban [Resident Evil - 2] ˛1998 Caliban Cove ˛Trad. RAYERT Jean-Paul
+o FN_RESI     3  2002.09 ..... ISBN 2-265-07353-9
+} noimg          _?                           ?
+- .oF.     R     _PERRY S.D.                  La CitÇ des morts [Resident Evil - 3] ˛1999 City of the Dead ˛Trad. BENITA Paul
+o FN_RESI     4  2003.02 ..... ISBN 2-265-07461-6
+} noimg          _?                           ?
+- .oF.     R     _PERRY S.D.                  Aux portes de l'enfer [Resident Evil - 4] ˛1999 Underworld ˛Trad. BRODHY Gabrielle
+o FN_RESI     5  2003.05 ..... ISBN 2-265-07569-8
+} noimg          _?                           ?
+- .oF.     R     _PERRY S.D.                  NÇmÇsis [Resident Evil - 5] ˛2000 Nemesis ˛Trad. BRODHY Gabrielle
+o FN_RESI     6  2003.11 ..... ISBN 2-265-07620-1
+} noimg          _?                           ?
+- .oF.     R     _PERRY S.D.                  Code Veronica [Resident Evil - 6] ˛2001 Code: Veronica ˛Trad. BRODHY Gabrielle
+o FN_RESI     7  2004.xx ..... ISBN 2-265-07991-X
+} noimg          _?                           ?
+- .oF.     R     _PERRY S.D.                  Zero hour [Resident Evil - 7] ˛2004 Zero Hour ˛Trad. BRODHY Gabrielle
+o FN_RESI     8  2005.02 ..... ISBN 2-265-08021-7
+} noimg          _?                           ?
+- .oF.     F     _DECANDIDO Keith R.A.        GÇnÇsis [Resident Evil - 8] ˛2004 Genesis ˛Trad. BRODHY Gabrielle
+o FN_RESI     9  2007.09 ..... ISBN 978-2-265-08600-5
+} noimg          _?                           ?
+- .oF.     F     _DECANDIDO Keith R.A.        Extinction [Resident Evil - 9] ˛2007 Resident Evil: Extinction ˛Trad. BRODHY Gabrielle
+
+!-----------------------------------------------------------------------------
+_ FN_BUFF Fleuve Noir, Buffy ˛1999 - ...
+!-----------------------------------------------------------------------------
+!---  Buffy contre les vampires
+!-----------------------------------------------------------------------------
+o FN_BUFF     1  1999.xx ..... ISBN 2-265-06790-3
+} buffy01        _?                           N
+- .oF.     R     _TANKERSLEY CUSICK Richie    La Moisson [Buffy contre les vampires - 1] ˛1997 The Harvest ˛Trad. TROIN Isabelle
+o FN_BUFF     2  1999.xx ..... ISBN 2-265-06791-1
+} buffy02        _?                           N
+- .oF.     R     _GOLDEN Christopher         &La Pluie d'Halloween [Buffy contre les vampires - 2] ˛1997 Halloween Rain ˛Trad. TROIN Isabelle
+&                _HOLDER Nancy    
+o FN_BUFF     3  1999.xx ..... ISBN 2-265-06792-X
+} buffy03        _?                           N
+- .oF.     R     _VORNHOLT John               La Lune des coyotes [Buffy contre les vampires - 3] ˛1998 Coyotte Moon ˛Trad. TROIN Isabelle
+o FN_BUFF     4  1999.xx ..... ISBN 2-265-06793-8
+} buffy04        _?                           N
+- .oF.     R     _COVER Arthur Byron          RÇpÇtition mortelle [Buffy contre les vampires - 4] ˛1998 Night of the Living Rerun ˛Trad. TROIN Isabelle
+o FN_BUFF     5  1999.xx ..... ISBN 2-265-06794-6
+} buffy05        _?                           N
+- .oF.     R     _GOLDEN Christopher         &La Piste des guerriers [Buffy contre les vampires - 5] ˛1998 Blooded ˛Trad. TROIN Isabelle
+&                _HOLDER Nancy    
+o FN_BUFF     6  1999.10 ..... ISBN 2-265-06795-4
+} buffy06        _?                           N
+- .oF.     R     _HOLDER Nancy                Les Chroniques d'Angel 1 [Buffy contre les vampires - 6] ˛1998 Angel Chronicles 1 ˛Trad. TROIN Isabelle
+o FN_BUFF     7  2000.01 ..... ISBN 2-265-06988-4
+} buffy07        _?                           N
+- .oF.     R     _TANKERSLEY Richie           Les Chroniques d'Angel 2 [Buffy contre les vampires - 7] ˛1998 Angel chronicles 2 ˛Trad. TROIN Isabelle
+o FN_BUFF     8  2000.03 ..... ISBN 2-265-06990-6
+} buffy08        _?                           N
+- .oF.     R     _DECANDIDO Keith R.A.        Les MÇtamorphoses d'Alex [Buffy contre les vampires - 8] ˛1999 The Xanders Years ˛Trad. TROIN Isabelle
+o FN_BUFF     9  2000.04 ..... ISBN 2-265-06989-2
+} buffy09        _?                           N
+- .oF.     R     _GOLDEN Christopher         &La Chasse sauvage [Buffy contre les vampires - 9] ˛1998 Child of the Hunt ˛Trad. TROIN Isabelle
+&                _HOLDER Nancy    
+o FN_BUFF    10  2000.05 ..... ISBN 2-265-06991-4
+} buffy10        _?                           N
+- .oF.     R     _GARDNER Craig Shaw          Retour au chaos [Buffy contre les vampires - 10] ˛1998 Return to Chaos ˛Trad. TROIN Isabelle
+o FN_BUFF    11  2000.06 ..... ISBN 2-265-06992-2
+} buffy11        _?                           N
+- .oF.     R     _GILMAN Laura Anne          &Danse de mort [Buffy contre les vampires - 11] ˛1997 Visitors ˛Trad. TROIN Isabelle
+&                _SHERMAN Josepha    
+o FN_BUFF    12  2000.09 ..... ISBN 2-265-07062-9
+} buffy12        _?                           N
+- .oF.     R     _HOLDER Nancy                Les Chroniques d'Angel 3 [Buffy contre les vampires - 12] ˛1998 Angel Chronicles 3 ˛Trad. TROIN Isabelle
+o FN_BUFF    13  2000.10 ..... ISBN 2-265-06993-0
+} buffy13        _?                           N
+- .oF.     R     _GOLDEN Christopher         &Loin de Sunnydale [Trilogie de la porte interdite - 1][Buffy contre les vampires - 13] ˛1999 Out of the Mad House ˛Trad. DANNEREAU GrÇgoire
+&                _HOLDER Nancy    
+o FN_BUFF    14  2000.10 ..... ISBN 2-265-07024-6
+} buffy14        _?                           N
+- .oF.     R     _GOLDEN Christopher         &Le Royaume du mal [Trilogie de la porte interdite - 2][Buffy contre les vampires - 14] ˛1999 Ghost Roads ˛Trad. DANNEREAU GrÇgoire
+&                _HOLDER Nancy    
+o FN_BUFF    15  2000.11 ..... ISBN 2-265-07025-4
+} buffy15        _?                           N
+- .oF.     R     _GOLDEN Christopher         &Les Fils de l'entropie [Trilogie de la porte interdite - 3][Buffy contre les vampires - 15] ˛1999 Sons of Entropy ˛Trad. PERDEREAU Cedric
+&                _HOLDER Nancy    
+o FN_BUFF    16  2001.01 ..... ISBN 2-265-07069-6
+} buffy16        _?                           N
+- .oF.     R     _ODOM Mel                    SÇlection par le vide [Buffy contre les vampires - 16] ˛1999 Unnatural Selection ˛Trad. LEFAURE Serge
+o FN_BUFF    17  2001.02 ..... ISBN 2-265-07068-8
+} buffy17        _?                           N
+- .oF.     R     _GALLAGHER Diana G.          Le Miroir des tÇnäbres [Buffy contre les vampires - 17] ˛1999 Obsidian Fate ˛Trad. PERDEREAU CÇdric
+o FN_BUFF    18  2001.03 ..... ISBN 2-265-07063-7
+} buffy18        _?                           N
+- .oF.     R     _MASSIE Elizabeth            Pouvoir de persuasion [Buffy contre les vampires - 18] ˛1999 Power of Persuasion ˛Trad. DANNEREAU GrÇgoire
+o FN_BUFF    19  2001.04 ..... ISBN 2-265-07067-X
+} buffy19        _?                           N
+- .oF.     R     _GOLDEN Christopher          Les Fautes du päre [Buffy contre les vampires - 19] ˛1999 Sins of the Father ˛Trad. LEFAURE Serge
+o FN_BUFF    20  2001.05 ..... ISBN 2-265-07064-5
+} buffy20        _?                           N
+- .oF.     R     _GILMAN Laura Anne          &Les Siränes dÇmoniaques [Buffy contre les vampires - 20] ˛2000 Deep Water ˛Trad. DANNEREAU GrÇgoire
+&                _SHERMAN Josepha    
+o FN_BUFF    21  2001.06 ..... ISBN 2-265-07065-3
+} buffy21        _?                           N
+- .oF.     R     _GARTON Ray                  La RÇsurrection de Ravana [Buffy contre les vampires - 21] ˛2000 Resurrecting Ravana ˛Trad. LEFAURE Serge
+o FN_BUFF    22  2001.09 ..... ISBN 2-265-07128-5
+} buffy22        _?                           N
+- .oF.     R     _DOKEY Cameron               Ici vivent les monstres [Buffy contre les vampires - 22] ˛2000 Here Be Monsters ˛Trad. DELCOURT Patricia
+o FN_BUFF    23  2001.10 ..... ISBN 2-265-07066-1
+} buffy23        _?                           N
+- .oF.     R     _GALLAGHER Diana G.          Les Cendres de Salem [Buffy contre les vampires - 23] ˛2000 Prime Evil ˛Trad. DELCOURT Patricia
+o FN_BUFF    24  2001.12 ..... ISBN 2-265-07127-7
+} buffy24        _?                           N
+- .oF.     R     _HOLDER Nancy                Ce mal que font les hommes [Buffy contre les vampires - 24] ˛2000 The Evil That Men Do ˛Trad. DELCOURT Patricia
+o FN_BUFF    25  2002.01 ..... ISBN 2-265-07271-0
+} buffy25        _?                           N
+- .oF.     R     _GOLDEN Christopher          ProphÇties [La Tueuse perdue - 1][Buffy contre les vampires - 25] ˛2001 Prophecies ˛Trad. TROIN Isabelle
+o FN_BUFF    26  2002.01 ..... ISBN 2-265-07270-2
+} buffy26        _?                           N
+- .oF.     R     _GOLDEN Christopher          Les Temps maudits [La Tueuse perdue - 2][Buffy contre les vampires - 26] ˛2001 Dark Times ˛Trad. TROIN Isabelle
+o FN_BUFF    27  2002.02 ..... ISBN 2-265-07269-9
+} buffy27        _?                           N
+- .oF.     R     _GOLDEN Christopher          Le Roi des morts [La Tueuse perdue - 3][Buffy contre les vampires - 27] ˛2001 King of the Dead ˛Trad. TROIN Isabelle
+o FN_BUFF    28  2002.02 ..... ISBN 2-265-07268-0
+} buffy28        _?                           N
+- .oF.     R     _GOLDEN Christopher          Bienvenue en enfer [La Tueuse perdue - 4][Buffy contre les vampires - 28] ˛2001 Original Sins ˛Trad. TROIN Isabelle
+o FN_BUFF    29  2002.04 ..... ISBN 2-265-07129-3
+} buffy29        _?                           N
+- .oF.     R     _MARIOTTE Jeff               Les MÇtamorphoses d'Alex 2 [Buffy contre les vampires - 29] ˛2000 The Xander Years 2 ˛Trad. TROIN Isabelle
+o FN_BUFF    30  2002.06 ..... ISBN 2-265-07275-3
+} buffy30        _?                           N
+- .oF.     R     _NAVARRO Yvonne              Sunnydale Park [Buffy contre les vampires - 30] ˛2000 Paleo ˛Trad. TARALL Anne-Virginie
+o FN_BUFF    31  2002.09 ..... ISBN 2-265-07335-0
+} buffy31        _?                           N
+- .oF.     R     _NAVARRO Yvonne              Les Fichiers secrets de Willow [Buffy contre les vampires - 31] ˛2000 The Willow files ˛Trad. TROIN Isabelle
+o FN_BUFF    32  2002.10 ..... ISBN 2-265-07274-5
+} buffy32        _?                           N
+- .oF.     R     _PASSARELLA John             Croqueuse de cadavres [Buffy contre les vampires - 32] ˛2000 GHoul Trouble ˛Trad. TROIN Isabelle
+o FN_BUFF    33  2002.11 ..... ISBN 2-265-07336-9
+} buffy33        _?                           N
+- .oF.     R     _NAVARRO Yvonne              Les Fichiers secrets de Willow 2 [Buffy contre les vampires - 33] ˛2000 The Willow files 2 ˛Trad. TROIN Isabelle
+o FN_BUFF    34  2003.01 ..... ISBN 2-265-07464-0
+} buffy34        _?                           N
+- .oF.     R     _HOLDER Nancy                Le Journal de Rupert Giles 1 [Buffy contre les vampires - 34] ˛2002 The Journal of Rupert Giles 1 ˛Trad. TROIN Isabelle
+o FN_BUFF    35  2003.04 ..... ISBN 2-265-07485-3
+} buffy35        _?                           N
+- .oF.     R     _CIENCIN Scott               Jeunes filles en fleur [Buffy contre les vampires - 35] ˛2002 Sweet Sixteen ˛Trad. TROIN Isabelle
+o FN_BUFF    36  2003.06 ..... ISBN 2-265-07567-1
+} buffy36        _?                           N
+- .oF.     R     _ODOM Mel                    VidÇo drame [Buffy contre les vampires - 36] ˛2002 Crossings ˛Trad. TROIN Isabelle
+o FN_BUFF    37  2003.09 ..... ISBN 2-265-07591-4
+} buffy37        _?                           N
+- .oF.     R     _NAVARRO Yvonne              Les Portes de l'ÇternitÇ [Buffy contre les vampires - 37] ˛2002 Tempted champions ˛Trad. TROIN Isabelle
+o FN_BUFF    38  2003.10 ..... ISBN 2-265-07596-5
+} buffy38        _?                           N
+- .oF.     R     _GOLDEN Christopher          Journal de bord d'un loup-garou [Buffy contre les vampires - 38] ˛2002 Oz Into the Wild ˛Trad. TROIN Isabelle
+o FN_BUFF    39  2003.11 ..... ISBN 2-265-07600-7
+} buffy39        _?                           N
+- .oF.     R     _GOLDEN Christopher          La Paix des braves [Buffy contre les vampires - 39] ˛2002 The Wisdom of War ˛Trad. TROIN Isabelle
+o FN_BUFF    40  2004.01 ..... ISBN 2-265-07776-3
+} buffy40        _?                           N
+- .oF.     R     _GOLDEN Christopher         &L'åle aux monstres (Tome 1) [Buffy contre les vampires - 40] ˛2003 Monster Island ˛Trad. PELTIER-WEBER Betty
+&                _SNIEGOSKI Thomas E.         
+o FN_BUFF    41  2004.02 ..... ISBN 2-265-07777-1
+} buffy41        _?                           N
+- .oF.     R     _GOLDEN Christopher         &L'åle aux monstres (Tome 2) [Buffy contre les vampires - 41] ˛2003 Monster Island ˛Trad. PELTIER-WEBER Betty
+&                _SNIEGOSKI Thomas E.         
+o FN_BUFF    42  2004.03 ..... ISBN 2-265-07880-8
+} buffy42        _?                           N
+- .oF.     R     _HOLDER Nancy                L'êlue (Tome 1) [Buffy contre les vampires - 42] ˛2003 Chosen ˛Trad. TROIN Isabelle
+o FN_BUFF    43  2004.04 ..... ISBN 2-265-07881-6
+} buffy43        _?                           N
+- .oF.     R     _HOLDER Nancy                L'êlue (Tome 2) [Buffy contre les vampires - 43] ˛2003 Chosen ˛Trad. TROIN Isabelle
+o FN_BUFF    44  2005.02 ..... ISBN 2-265-07778-X
+} buffy44        _?                           N
+- .oF.     R     _HOLDER Nancy                Brouillard sanglant [Buffy contre les vampires - 44] ˛2003 Blood and Fog ˛Trad. TROIN Isabelle
+o FN_BUFF    45  2005.05 ..... ISBN 2-265-07779-8
+} buffy45        _?                           N
+- .oF.     R     _VORNHOLT John               Sept corbeaux [Buffy contre les vampires - 45] ˛2003 Seven Crows ˛Trad. TROIN Isabelle
+o FN_BUFF    46  2005.08 ..... ISBN 2-265-08142-6
+} buffy46        _?                           N
+- .oF.     R     _MOORE James A.              Revenants [Buffy contre les vampires - 46] ˛2003 Chaos Bleeds ˛Trad. TROIN Isabelle
+o FN_BUFF    47  2006.03 ..... ISBN 2-265-08260-0
+} buffy47        _?                           N
+- .oF.     R     _CIENCIN Scott              &Virus mortel [Buffy contre les vampires - 47] ˛2003 Mortal Fear ˛Trad. TROIN Isabelle
+&                _CIENCIN Denise              
+o FN_BUFF    48  2006.05 ..... ISBN 2-265-08288-0
+} buffy48        _?                           N
+- .oF.     R     _CIENCIN Scott              &Virus mortel 2 [Buffy contre les vampires - 48] ˛2003 Mortal Fear ˛Trad. TROIN Isabelle
+&                _CIENCIN Denise              
+o FN_BUFF    49  2006.12 ..... ISBN 2-265-08261-9
+} buffy49        _?                           N
+- .oF.     R     _BURNS Laura J.              Souvenirs d'apocalypse [Buffy contre les vampires - 49] ˛? ? ˛Trad. METZ MÇlinda
+
+o FN_BUFF     ?  1999.xx ..... ISBN 2-265-06877-2
+} noimg          _?                           ?
+- .oF.     E     _GOLDEN Christopher         &Buffy contre les vampires : le guide officiel ˛1999 Buffy the Vampire Slayer: the Watcher's Guide ˛Trad. TROIN Isabelle
+&                _HOLDER Nancy    
+o FN_BUFF     ?  2001.04 ..... ISBN 2-265-07168-4
+} noimg          _?                           ?
+- .oF.     E     _HOLDER Nancy               &Buffy contre les vampires : le guide officiel - 2 ˛2000 Buffy the Vampire Slayer: the Watcher's Guide, Volume 2 ˛Trad. TROIN Isabelle
+&                _MARIOTTE Jeff   
+
+!--- Grand Format (Moyen ?)
+o FN_BUFF    HS  2000.xx ..... ISBN 2-265-.....-.
+} noimg          _?                           ?
+- .oF.     R     _GOLDEN Christopher         &Immortelle [Buffy contre les vampires] ˛1999 Immortal
+&                _HOLDER Nancy    
+o FN_BUFF    HS  2002.xx ..... ISBN 2-265-.....-.
+} noimg          _?                           ?
+- .oF.     R     _GOLDEN Christopher          Spike et Dru, petits massacres entre vampires [Buffy contre les vampires] ˛2000 Pretty Maids All in a Row ˛Trad. TROIN Isabelle
+
+!DEB_HEAD FN_ANG
+!TIT_COLL Angoisse
+!-----------------------------------------------------------------------------
+_ FN_ANG  Fleuve Noir, Angoisse ˛1954 - 1974
+!-----------------------------------------------------------------------------
+!---  Angoisse (1954 - 1974)
+!---  La collection angoisse, petite soeur de la collection anticipation lancÇe trois ans plus tìt, et dÇdiÇe au fantastique et Ö la peur.
+!---  Format : 11 x 17,5 cm (montant parfois Ö 11,5 x 18 cm)
+!-----------------------------------------------------------------------------
+!FIN_HEAD FN_ANG
+!DEB_COLL FN_ANG
+o FN_ANG      1  1954.xx ..... ISBN -
+} ang001         _Michel Gourdon              N
+- .oT.     R     _WANDREI Donald              Cimetiäre de l'effroi ˛1948 The Web of Easter Island ˛Trad. BECKER Benoåt
+o FN_ANG      2  1954.xx ..... ISBN -
+} ang002         _Michel Gourdon              N
+- .oT.     R     _SVENN Patrick               L'Heure funäbre ˛1954
+o FN_ANG      3  1954.xx ..... ISBN -
+} ang003         _Michel Gourdon              N
+- .oF.     R     _WALTON Evangeline           Maison des sorciäres ˛1945 Witch House ˛Trad. BECKER Benoåt
+o FN_ANG      4  1954.xx ..... ISBN -
+} ang004         _Michel Gourdon              N
+- .oT.     R     _BECKER Benoåt               ExpÇdition Çpouvante ˛1954
+o FN_ANG      5  1955.xx ..... ISBN -
+} ang005         _Michel Gourdon              N
+- .oT.     R     _KELLER David H.             DÇsert des spectres ˛1934 The Solitary Hunters ˛Trad. BECKER Benoåt
+o FN_ANG      6  1955.xx ..... ISBN -
+} ang006         _Michel Gourdon              N
+- .oT.     R     _BECKER Benoåt               Le Chien des tÇnäbres ˛1955
+o FN_ANG      7  1955.xx ..... ISBN -
+} ang007         _Michel Gourdon              N
+- .oT.     R     _BRUSS B.R.                  L'oeil Çtait dans la tombe... ˛1955
+o FN_ANG      8  1955.xx ..... ISBN -
+} ang008         _Michel Gourdon              N
+- .oT.     R     _SVENN Patrick               Le Fantìme aveugle ˛1955
+o FN_ANG      9  1955.xx ..... ISBN -
+} ang009         _Michel Gourdon              N
+- .oT.     R     _KELLER D.H.                 L'Aile de l'abåme ˛1955
+o FN_ANG     10  1955.xx ..... ISBN -
+} ang010         _Michel Gourdon              N
+- .o .     R     _BECKER Benoåt               Laisse toute espÇrance ˛1955
+o FN_ANG     11  1955.xx ..... ISBN -
+} ang011         _Michel Gourdon              N
+- .o .     R     _RANDA Peter                 L'Escalier de l'ombre ˛1955
+o FN_ANG     12  1955.xx ..... ISBN -
+} ang012         _Michel Gourdon              N
+- .o .     R     _LORD Virginia               Ne frappez pas Ö cette porte ˛1955
+o FN_ANG     13  1955.xx ..... ISBN -
+} ang013         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Le Bruit du silence ˛1955
+o FN_ANG     14  1955.xx ..... ISBN -
+} ang014         _Michel Gourdon              N
+- .o .     R     _DAVID Jean                  Une chose dans la nuit ˛1955
+o FN_ANG     15  1955.xx ..... ISBN -
+} ang015         _Michel Gourdon              N
+- .o .     R     _BECKER Benoåt               Terreur ˛1955
+o FN_ANG     16  1956.xx ..... ISBN -
+} ang016         _Michel Gourdon              N
+- .o .     R     _SATTLER Roger               Hìtel de l'enfer ˛1956
+o FN_ANG     17  1956.xx ..... ISBN -
+} ang017         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Pour que vive le diable ˛1956
+o FN_ANG     18  1956.xx ..... ISBN -
+} ang018         _Michel Gourdon              N
+- .o .     R     _BRUSS B.R.                  MalÇfices ˛1956
+o FN_ANG     19  1956.xx ..... ISBN -
+} ang019         _Michel Gourdon              N
+- .o .     R     _BECKER Benoåt               ChÉteau du trÇpas ˛1956
+o FN_ANG     20  1956.xx ..... ISBN -
+} ang020         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Fenàtre sur l'obscur ˛1956
+o FN_ANG     21  1956.xx ..... ISBN -
+} ang021         _Michel Gourdon              N
+- .o .     R     _SVENN Patrick               Vengeance de l'inconnu ˛1956
+o FN_ANG     22  1956.xx ..... ISBN -
+} ang022         _Michel Gourdon              N
+- .o .     R     _RANDA Peter                 Le Banquet des tÇnäbres ˛1956
+o FN_ANG     23  1956.xx ..... ISBN -
+} ang023         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                De flamme et d'ombre ˛1956
+o FN_ANG     24  1956.xx ..... ISBN -
+} ang024         _Michel Gourdon              N
+- .o .     R     _BRUSS B.R.                  Nous avons tous peur ˛1956
+o FN_ANG     25  1956.xx ..... ISBN -
+} ang025         _Michel Gourdon              N
+>--- Note : adaptÇ au cinÇma par Jean-Franáois Davy en 1972 et diffusÇ en 1974.
+- .o .     R     _STEINER Kurt                Le Seuil du vide ˛1956
+o FN_ANG     26  1956.xx ..... ISBN -
+} ang026         _Michel Gourdon              N
+- .o .     R     _RANDA Peter                 VeillÇe des morts ˛1956
+o FN_ANG     27  1957.xx ..... ISBN -
+} ang027         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Les Rivages de la nuit ˛1957
+o FN_ANG     28  1957.xx ..... ISBN -
+} ang028         _Michel Gourdon              N
+- .o .     R     _DAVID Jean                  Les Griffes de l'oubli ˛1957
+o FN_ANG     29  1957.xx ..... ISBN -
+} ang029         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Je suis un autre ˛1957
+o FN_ANG     30  1957.xx ..... ISBN -
+} ang030         _Michel Gourdon              N
+- .o .     R     _BECKER Benoåt               La Tour de Frankenstein [Les Frankenstein - 1] ˛1957
+o FN_ANG     31  1957.xx ..... ISBN -
+} ang031         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Les Dents froides ˛1957
+o FN_ANG     32  1957.xx ..... ISBN -
+} ang032         _Michel Gourdon              N
+- .o .     R     _BECKER Benoåt               Le Pas de Fankenstein [Les Frankenstein - 2] ˛1957
+o FN_ANG     33  1957.xx ..... ISBN -
+} ang033         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                L'Envers du masque ˛1957
+o FN_ANG     34  1957.xx ..... ISBN -
+} ang034         _Michel Gourdon              N
+- .o .     R     _BECKER Benoåt               La Nuit de Frankenstein [Les Frankenstein - 3] ˛1957
+o FN_ANG     35  1957.xx ..... ISBN -
+} ang035         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Les Pourvoyeurs ˛1957
+o FN_ANG     36  1957.xx ..... ISBN -
+} ang036         _Michel Gourdon              N
+- .o .     R     _BECKER Benoåt               Le Sceau de Frankenstein [Les Frankenstein - 4] ˛1957
+o FN_ANG     37  1957.xx ..... ISBN -
+} ang037         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Sueurs ˛1957
+o FN_ANG     38  1958.xx ..... ISBN -
+} ang038         _Michel Gourdon              N
+- .o .     R     _BRUSS B.R.                  Terreur en plein soleil ˛1958
+o FN_ANG     39  1958.xx ..... ISBN -
+} ang039         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                L'Herbe aux pendus ˛1958
+o FN_ANG     40  1958.xx ..... ISBN -
+} ang040         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Agence tous crimes ˛1958
+o FN_ANG     41  1958.xx ..... ISBN -
+} ang041         _Michel Gourdon              N
+- .o .     R     _BECKER Benoåt               Frankenstein rìde [Les Frankenstein - 5] ˛1958
+o FN_ANG     42  1958.xx ..... ISBN -
+} ang042         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                La Marque du dÇmon ˛1958
+o FN_ANG     43  1958.xx ..... ISBN -
+} ang043         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Greffe mortelle ˛1958
+o FN_ANG     44  1958.xx ..... ISBN -
+} ang044         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Lumiäre de sang ˛1958
+o FN_ANG     45  1958.xx ..... ISBN -
+} ang045         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Syncope blanche ˛1958
+o FN_ANG     46  1958.xx ..... ISBN -
+} ang046         _Michel Gourdon              N
+- .o .     R     _BECKER Benoåt               Le Souffle coupÇ ˛1958
+o FN_ANG     47  1958.xx ..... ISBN -
+} ang047         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Le Village de la foudre ˛1958
+o FN_ANG     48  1958.xx ..... ISBN -
+} ang048         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Le Prix du suicide ˛1958
+o FN_ANG     49  1959.xx ..... ISBN -
+} ang049         _Michel Gourdon              N
+- .o .     R     _MURELLI Jean                L'Orgue de l'Çpouvante ˛1959
+o FN_ANG     50  1959.xx ..... ISBN -
+} ang050         _Michel Gourdon              N
+- .o .     R     _BECKER Benoåt               La Cave de Frankenstein [Les Frankenstein - 6] ˛1959
+o FN_ANG     51  1959.xx ..... ISBN -
+} ang051         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Le Doigt de l'ombre ˛1959
+o FN_ANG     52  1959.xx ..... ISBN -
+} ang052         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                La Chaåne de feu ˛1959
+o FN_ANG     53  1959.xx ..... ISBN -
+} ang053         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 La Bàte immonde ˛1959
+o FN_ANG     54  1959.xx ..... ISBN -
+} ang054         _Michel Gourdon              N
+- .o .     R     _GAUTHIER G.                 Le Ventriloque de l'au-delÖ ˛1959
+o FN_ANG     55  1959.xx ..... ISBN -
+} ang055         _Michel Gourdon              N
+- .o .     R     _MURELLI Jean                Ce mur qui regardait... ˛1959
+o FN_ANG     56  1959.xx ..... ISBN -
+} ang056         _Michel Gourdon              N
+- .o .     R     _REDON Jean                  Les Yeux sans visage ˛1959
+>--- adaptÇ au cinÇma en 1960 par Georges Franju.
+o FN_ANG     57  1959.xx ..... ISBN -
+} ang057         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Dans un manteau de brume ˛1959
+o FN_ANG     58  1959.xx ..... ISBN -
+} ang058         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Puzzle macabre ˛1959
+o FN_ANG     59  1959.xx ..... ISBN -
+} ang059         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Mortefontaine ˛1959
+o FN_ANG     60  1960.xx ..... ISBN -
+} ang060         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Piäge infernal ˛1960
+o FN_ANG     61  1960.xx ..... ISBN -
+} ang061         _Michel Gourdon              N
+- .o .     R     _MURELLI Jean                De mon sarcophage ˛1960
+o FN_ANG     62  1960.xx ..... ISBN -
+} ang062         _Michel Gourdon              N
+- .o .     R     _RANDA Peter                 Parodie Ö la mort ˛1960
+o FN_ANG     63  1960.xx ..... ISBN -
+} ang063         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Le Visage du spectre ˛1960
+o FN_ANG     64  1960.xx ..... ISBN -
+} ang064         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Glace sanglante ˛1960
+o FN_ANG     65  1960.xx ..... ISBN -
+} ang065         _Michel Gourdon              N
+- .o .     R     _CERTON Erik J.              Un drame de l'au-delÖ ˛1960
+o FN_ANG     66  1960.xx ..... ISBN -
+} ang066         _Michel Gourdon              N
+- .o .     R     _MURELLI Jean                Une morte Ö tuer ˛1960
+o FN_ANG     67  1960.xx ..... ISBN -
+} ang067         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Nuits rouges ˛1960
+o FN_ANG     68  1960.xx ..... ISBN -
+} ang068         _Michel Gourdon              N
+- .o .     R     _STEINER Kurt                Le Masque des regrets ˛1960
+o FN_ANG     69  1960.xx ..... ISBN -
+} ang069         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 OpÇra de la mort ˛1960
+o FN_ANG     70  1960.xx ..... ISBN -
+} ang070         _Michel Gourdon              N
+- .o .     R     _MURELLI Jean                Noir est ton retour ˛1960
+o FN_ANG     71  1961.xx ..... ISBN -
+} ang071         _Michel Gourdon              N
+- .o .     R     _PUIG Franc                  L'êtrange Monsieur Borman ˛1961
+o FN_ANG     72  1961.xx ..... ISBN -
+} ang072         _Michel Gourdon              N
+- .o .     R     _KELLER D.H.                 La Halte du destin ˛1961
+o FN_ANG     73  1961.xx ..... ISBN -
+} ang073         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Hallucinations ˛1961
+o FN_ANG     74  1961.xx ..... ISBN -
+} ang074         _Michel Gourdon              N
+- .o .     R     _KELLER D.H.                 L'Ombre qui tue ˛1961
+o FN_ANG     75  1961.xx ..... ISBN -
+} ang075         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Le Barracuda ˛1961
+o FN_ANG     76  1961.xx ..... ISBN -
+} ang076         _Michel Gourdon              N
+- .o .     R     _KELLER D.H.                 Suite lugubre ˛1961
+o FN_ANG     77  1961.xx ..... ISBN -
+} ang077         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                NÇvrose ˛1961
+o FN_ANG     78  1961.xx ..... ISBN -
+} ang078         _Michel Gourdon              N
+- .o .     R     _KELLER D.H.                 L'Infernale Puissance ˛1961
+o FN_ANG     79  1961.xx ..... ISBN -
+} ang079         _Michel Gourdon              N
+- .o .     R     _MURELLI Jean                Les Peaux froides ˛1961
+o FN_ANG     80  1961.xx ..... ISBN -
+} ang080         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Le Dernier Taxi ˛1961
+o FN_ANG     81  1961.xx ..... ISBN -
+} ang081         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               Crucifie le hibou ˛1961
+o FN_ANG     82  1962.xx ..... ISBN -
+} ang082         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Complexes ˛1962
+o FN_ANG     83  1962.xx ..... ISBN -
+} ang083         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Clameurs ˛1962
+o FN_ANG     84  1962.xx ..... ISBN -
+} ang084         _Michel Gourdon              N
+- .o .     R     _RANDA Peter                 L'EntitÇ nÇgative ˛1962
+o FN_ANG     85  1962.xx ..... ISBN -
+} ang085         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               Batelier de la nuit ˛1962
+o FN_ANG     86  1962.xx ..... ISBN -
+} ang086         _Michel Gourdon              N
+- .o .     R     _BRUSS B.R.                  Le Tambour d'angoisse ˛1962
+o FN_ANG     87  1962.xx ..... ISBN -
+} ang087         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 TÇnäbres ˛1962
+o FN_ANG     88  1962.xx ..... ISBN -
+} ang088         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Le Sang du cactus ˛1962
+o FN_ANG     89  1962.xx ..... ISBN -
+} ang089         _Michel Gourdon              N
+- .o .     R     _MURELLI Jean                Requiem pour les huit ˛1962
+o FN_ANG     90  1962.xx ..... ISBN -
+} ang090         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               Le Marchand de cauchemars ˛1962
+o FN_ANG     91  1962.xx ..... ISBN -
+} ang091         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Phantasmes ˛1962
+o FN_ANG     92  1962.xx ..... ISBN -
+} ang092         _Michel Gourdon              N
+- .o .     R     _GUIEU Jimmy                 Oniria ˛1962
+o FN_ANG     93  1963.xx ..... ISBN -
+} ang093         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               CrÇature des tÇnäbres ˛1963
+o FN_ANG     94  1963.xx ..... ISBN -
+} ang094         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Griffe de mort ˛1963
+o FN_ANG     95  1963.T1 R.... ISBN -
+} ang095         _Michel Gourdon              N
+- .oT.     R     _LIMAT Maurice               Chantespectre ˛1963
+o FN_ANG     96  1963.xx ..... ISBN -
+} ang096         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Le MÇdium ˛1963
+o FN_ANG     97  1963.xx ..... ISBN -
+} ang097         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               L'Ombre du vampire ˛1963
+o FN_ANG     98  1963.xx ..... ISBN -
+} ang098         _Michel Gourdon              N
+- .o .     R     _MURELLI Jean                Ta baraque Ö malheurs ˛1963
+o FN_ANG     99  1963.xx ..... ISBN -
+} ang099         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Ecole des monstres ˛1963
+o FN_ANG    100  1963.xx ..... ISBN -
+} ang100         _Michel Gourdon              N
+- .o .     R     _TALBERT Michel              Les Nuits de Rochemaure ˛1963
+o FN_ANG    101  1963.xx ..... ISBN -
+} ang101         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               Mandragore ˛1963
+o FN_ANG    102  1963.xx ..... ISBN -
+} ang102         _Michel Gourdon              N
+- .o .     R     _TALBERT Michel              La Grande Bauche ˛1963
+o FN_ANG    103  1964.xx ..... ISBN -
+} ang103         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                L'Heure des morts ˛1964
+o FN_ANG    104  1964.xx ..... ISBN -
+} ang104         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                L'Oiseau de malheur ˛1964
+o FN_ANG    105  1964.xx ..... ISBN -
+} ang105         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Guignol tragique ˛1964
+o FN_ANG    106  1964.xx ..... ISBN -
+} ang106         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                CruautÇ mentale ˛1964
+o FN_ANG    107  1964.xx ..... ISBN -
+} ang107         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               Lucifera ˛1964
+o FN_ANG    108  1964.xx ..... ISBN -
+} ang108         _Michel Gourdon              N
+- .o .     R     _TALBERT Michel              Le mort veille ˛1964
+o FN_ANG    109  1964.xx ..... ISBN -
+} ang109         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                La Sinistre Madame Atomos [Mme Atomos - 1] ˛1964
+o FN_ANG    110  1964.xx ..... ISBN -
+} ang110         _Michel Gourdon              N
+- .o .     R     _MURELLI Jean                Les Noirs Paradis ˛1964
+o FN_ANG    111  1964.xx ..... ISBN -
+} ang111         _Michel Gourdon              N
+- .o .     R     _BRUSS B.R.                  Le Bourg envoñtÇ ˛1964
+o FN_ANG    112  1964.xx ..... ISBN -
+} ang112         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               Le Miroir ˛1964
+o FN_ANG    113  1964.xx ..... ISBN -
+} ang113         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Le Voyage en rond ˛1964
+o FN_ANG    114  1964.xx ..... ISBN -
+} ang114         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               La Prison de chair ˛1964
+o FN_ANG    115  1965.xx ..... ISBN -
+} ang115         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Madame Atomos säme la terreur [Mme Atomos - 2] ˛1965
+o FN_ANG    116  1965.xx ..... ISBN -
+} ang116         _Michel Gourdon              N
+- .o .     R     _MURELLI Jean                Des faces blàmes ˛1965
+o FN_ANG    117  1965.T1 R.... ISBN -
+} ang117         _Michel Gourdon              N
+- .oT.     R     _LIMAT Maurice               Le Manchot ˛1965
+o FN_ANG    118  1965.xx ..... ISBN -
+} ang118         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 La Nuit du Minotaure ˛1965
+o FN_ANG    119  1965.xx ..... ISBN -
+} ang119         _Michel Gourdon              N
+- .o .     R     _BRUSS B.R.                  La Figurine de plomb ˛1965
+o FN_ANG    120  1965.xx ..... ISBN -
+} ang120         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Madame Atomos frappe Ö la tàte [Mme Atomos - 3] ˛1965
+o FN_ANG    121  1965.xx ..... ISBN -
+} ang121         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               Le Moulin des damnÇs ˛1965
+o FN_ANG    122  1965.xx ..... ISBN -
+} ang122         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Les Yeux braquÇs ˛1965
+o FN_ANG    123  1965.xx ..... ISBN -
+} ang123         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               La Mygale ˛1965
+o FN_ANG    124  1965.xx ..... ISBN -
+} ang124         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Miss Atomos [Mme Atomos - 4] ˛1965
+o FN_ANG    125  1965.xx ..... ISBN -
+} ang125         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Le Fluide magique ˛1965
+o FN_ANG    126  1966.xx ..... ISBN -
+} ang126         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              Les Revenantes ˛1966
+o FN_ANG    127  1966.xx ..... ISBN -
+} ang127         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               Moi, vampire ˛1966
+o FN_ANG    128  1966.xx ..... ISBN -
+} ang128         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 L'Appel de l'abåme ˛1966
+o FN_ANG    129  1966.xx ..... ISBN -
+} ang129         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               Les Jardins de la nuit ˛1966
+o FN_ANG    130  1966.xx ..... ISBN -
+} ang130         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Miss Atomos contre K.K.K. [Mme Atomos - 5] ˛1966
+o FN_ANG    131  1966.xx ..... ISBN -
+} ang131         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 La Guivre ˛1966
+o FN_ANG    132  1966.xx ..... ISBN -
+} ang132         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              Comme un sÇpulcre blanchi ˛1966
+o FN_ANG    133  1966.xx ..... ISBN -
+} ang133         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 La Ville hallucinante ˛1966
+o FN_ANG    134  1966.xx ..... ISBN -
+} ang134         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Le Retour de Mme Atomos [Mme Atomos - 6] ˛1966
+o FN_ANG    135  1966.T4 R.... ISBN -
+} ang135         _Michel Gourdon              N
+- .oT.     R     _LIMAT Maurice               La Maleficio ˛1966
+o FN_ANG    136  1966.T4 R.... ISBN -
+} ang136         _Michel Gourdon              N
+- .oT.     R     _CAROFF AndrÇ                L'Erreur de Mme Atomos [Mme Atomos - 7] ˛1966
+o FN_ANG    137  1966.xx ..... ISBN -
+} ang137         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Monsieur Personne ˛1966
+o FN_ANG    138  1967.xx ..... ISBN -
+} ang138         _Michel Gourdon              N
+- .o .     R     _MICHEL JosÇ                 La Derniäre Fuite ˛1967
+o FN_ANG    139  1967.xx ..... ISBN -
+} ang139         _Michel Gourdon              N
+- .o .     R     _MURELLI Jean                La Nuit des trÇpassÇs ˛1967
+o FN_ANG    140  1967.xx ..... ISBN -
+} ang140         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Mme Atomos prolonge la vie [Mme Atomos - 8] ˛1967
+o FN_ANG    141  1967.xx R.... ISBN -
+} ang141         _Michel Gourdon              N
+- .oT.     R     _LIMAT Maurice               Ici, le bourreau ˛1967
+o FN_ANG    142  1967.xx ..... ISBN -
+} ang142         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 L'åle magique ˛1967
+o FN_ANG    143  1967.xx ..... ISBN -
+} ang143         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Les Monstres de Mme Atomos [Mme Atomos - 9] ˛1967
+o FN_ANG    144  1967.T3 R.... ISBN -
+} ang144         _Michel Gourdon              N
+- .oT.     R     _LIMAT Maurice               L'Aquarium de sang ˛1967
+o FN_ANG    145  1967.T4 R.... ISBN -
+} ang145         _Michel Gourdon              N
+- .oT.     R     _ARLY Dominique              Leur Éme au diable ˛1967
+o FN_ANG    146  1967.T4 R.... ISBN -
+} ang146         _Michel Gourdon              N
+- .oT.     R     _CAROFF AndrÇ                Mme Atomos crache des flammes [Mme Atomos - 10] ˛1967
+o FN_ANG    147  1967.xx ..... ISBN -
+} ang147         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Mme Atomos croque le marmot [Mme Atomos - 11] ˛1967
+o FN_ANG    148  1968.xx ..... ISBN -
+} ang148         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Les Santons du diable ˛1968
+o FN_ANG    149  1968.xx ..... ISBN -
+} ang149         _Michel Gourdon              N
+!--- "a" pluìt que "Ö" : pas d'accent nulle part...
+- .o .     R     _MICHEL JosÇ                 Mon fauteuil a trois roues ˛1968
+o FN_ANG    150  1968.xx ..... ISBN -
+} ang150         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               En lettres de feu ˛1968
+o FN_ANG    151  1968.xx ..... ISBN -
+} ang151         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Parade des morts-vivants ˛1968
+o FN_ANG    152  1968.xx ..... ISBN -
+} ang152         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                La TÇnÇbreuse Mme Atomos [Mme Atomos - 12] ˛1968
+o FN_ANG    153  1968.xx ..... ISBN -
+} ang153         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              L'Image fantìme ˛1968
+o FN_ANG    154  1968.xx ..... ISBN -
+} ang154         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               Amazone de la mort ˛1968
+o FN_ANG    155  1968.xx ..... ISBN -
+} ang155         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 La Goule ˛1968
+o FN_ANG    156  1968.xx ..... ISBN -
+} ang156         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Mme Atomos change de peau [Mme Atomos - 13] ˛1968
+o FN_ANG    157  1968.xx ..... ISBN -
+} ang157         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              Le Monstre de Green Castle ˛1968
+o FN_ANG    158  1968.xx ..... ISBN -
+} ang158         _Michel Gourdon              N
+- .o .     R     _MICHEL JosÇ                 Le DÇmon qui m'habite ˛1968
+o FN_ANG    159  1969.xx ..... ISBN -
+} ang159         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 La Dame Ö l'os ˛1969
+o FN_ANG    160  1969.xx ..... ISBN -
+} ang160         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Mme Atomos fait du charme [Mme Atomos - 14] ˛1969
+o FN_ANG    161  1969.xx ..... ISBN -
+} ang161         _Michel Gourdon              N
+- .o .     R     _MURELLI Jean                Ma peau de fantìme ˛1969
+o FN_ANG    162  1969.xx ..... ISBN -
+} ang162         _Michel Gourdon              N
+- .o .     R     _MURPHY Francis              L'InvitÇe de Lorelei ˛1969
+o FN_ANG    163  1969.xx ..... ISBN -
+} ang163         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 La Poursuite infernale ˛1969
+o FN_ANG    164  1969.xx ..... ISBN -
+} ang164         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              Les Grelots de la folie ˛1969
+o FN_ANG    165  1969.xx ..... ISBN -
+} ang165         _Michel Gourdon              N
+- .o .     R     _PRETRE Marcel G.            La Cinquiäme Dimension ˛1969
+o FN_ANG    166  1969.xx ..... ISBN -
+} ang166         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               MÇphista [MÇphista] ˛1969
+o FN_ANG    167  1969.xx ..... ISBN -
+} ang167         _Michel Gourdon              N
+- .o .     R     _ROCHER Dominique            DÇlire ˛1969
+o FN_ANG    168  1969.xx ..... ISBN -
+} ang168         _Michel Gourdon              N
+- .o .     R     _MICHEL JosÇ                 Clinique pour pauvres ˛1969
+o FN_ANG    169  1969.xx ..... ISBN -
+} ang169         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                L'Empreinte de Mme Atomos [Mme Atomos - 15] ˛1969
+o FN_ANG    170  1969.xx ..... ISBN -
+} ang170         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 OpÇration lunettes magiques ˛1969
+o FN_ANG    171  1969.xx ..... ISBN -
+} ang171         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               MÇphista contre MÇphista [MÇphista] ˛1969
+o FN_ANG    172  1969.xx ..... ISBN -
+} ang172         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              La Derniäre Sorciäre ˛1969
+o FN_ANG    173  1969.xx ..... ISBN -
+} ang173         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Mme Atomos jette un froid [Mme Atomos - 16] ˛1969
+o FN_ANG    174  1969.xx ..... ISBN -
+} ang174         _Michel Gourdon              N
+- .o .     R     _ROCHER Dominique            Boomerang ˛1969
+o FN_ANG    175  1970.xx ..... ISBN -
+} ang175         _Michel Gourdon              N
+- .o .     R     _MICHEL JosÇ                 Mon cimetiäre ˛1970
+o FN_ANG    176  1970.xx ..... ISBN -
+} ang176         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 L'Antichambre de l'au-delÖ ˛1970
+o FN_ANG    177  1970.xx ..... ISBN -
+} ang177         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                Mme Atomos cherche la petite bàte [Mme Atomos - 17] ˛1970
+o FN_ANG    178  1970.xx ..... ISBN -
+} ang178         _Michel Gourdon              N
+- .o .     R     _RAYJEAN M.A.                Le Sang et la Chair ˛1970
+o FN_ANG    179  1970.xx ..... ISBN -
+} ang179         _Michel Gourdon              N
+- .o .     R     _ROCHER Dominique            Les Voyances du docteur Basile ˛1970
+o FN_ANG    180  1970.xx ..... ISBN -
+} ang180         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              Les Pistes maudites ˛1970
+o FN_ANG    181  1970.xx ..... ISBN -
+} ang181         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Une sorciäre m'a dit ˛1970
+o FN_ANG    182  1970.xx ..... ISBN -
+} ang182         _Michel Gourdon              N
+- .o .     R     _LAURENT Agnäs               Au coeur de ma nuit ˛1970
+o FN_ANG    183  1970.xx ..... ISBN -
+} ang183         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               MÇphista et le clown Çcarlate [MÇphista] ˛1970
+o FN_ANG    184  1970.xx ..... ISBN -
+} ang184         _Michel Gourdon              N
+- .o .     R     _RAYJEAN M.A.                La Bàte du nÇant ˛1970
+o FN_ANG    185  1970.xx ..... ISBN -
+} ang185         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Le Mur des aveugles ˛1970
+o FN_ANG    186  1970.xx ..... ISBN -
+} ang186         _Michel Gourdon              N
+- .o .     R     _ROCHER Dominique            Le Pacte du sang ˛1970
+o FN_ANG    187  1970.xx ..... ISBN -
+} ang187         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              Les Ailes de flamme ˛1970
+o FN_ANG    188  1970.xx ..... ISBN -
+} ang188         _Michel Gourdon              N
+- .o .     R     _LAURENT Agnäs               L'Ultime Rendez-Vous ˛1970
+o FN_ANG    189  1970.xx ..... ISBN -
+} ang189         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Le Poids du monde ˛1970
+o FN_ANG    190  1970.xx ..... ISBN -
+} ang190         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               MÇphista et la lanterne des morts [MÇphista] ˛1970
+o FN_ANG    191  1970.xx ..... ISBN -
+} ang191         _Michel Gourdon              N
+- .o .     R     _MICHEL JosÇ                 L'Ostal du mystäre ˛1970
+o FN_ANG    192  1970.xx ..... ISBN -
+} ang192         _Michel Gourdon              N
+- .o .     R     _CAROFF AndrÇ                La Nuit du monstre ˛1970
+o FN_ANG    193  1971.xx ..... ISBN -
+} ang193         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              L'Immonde Banshee ˛1971
+o FN_ANG    194  1971.xx ..... ISBN -
+} ang194         _Michel Gourdon              N
+- .o .     R     _LAURENT Agnäs               Le Justicier ˛1971
+o FN_ANG    195  1971.xx ..... ISBN -
+} ang195         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Le Pays des mutants ˛1971
+o FN_ANG    196  1971.xx ..... ISBN -
+} ang196         _Michel Gourdon              N
+- .o .     R     _SAINT-ROMAIN Michel         Les Trois Griffes ˛1971
+o FN_ANG    197  1971.xx ..... ISBN -
+} ang197         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               MÇphista et la croix sanglante [MÇphista] ˛1971
+o FN_ANG    198  1971.xx ..... ISBN -
+} ang198         _Michel Gourdon              N
+- .o .     R     _ROCHER Dominique            Le docteur soigne la veuve ˛1971
+o FN_ANG    199  1971.xx ..... ISBN -
+} ang199         _Michel Gourdon              N
+- .o .     R     _BRUSS B.R.                  Le Mort qu'il faut tuer ˛1971
+o FN_ANG    200  1971.xx ..... ISBN -
+} ang200         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              MalÇfique Hermes ˛1971
+o FN_ANG    201  1971.xx ..... ISBN -
+} ang201         _Michel Gourdon              N
+- .o .     R     _BRUTSCHE Alphonse           Un froid mortel ˛1971
+o FN_ANG    202  1971.xx ..... ISBN -
+} ang202         _Michel Gourdon              N
+- .o .     R     _RAYJEAN M.A.                Dans les griffes du diable ˛1971
+o FN_ANG    203  1971.xx ..... ISBN -
+} ang203         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               Danse macabre pour MÇphista [MÇphista] ˛1971
+o FN_ANG    204  1971.xx ..... ISBN -
+} ang204         _Michel Gourdon              N
+- .o .     R     _SAINT-ROMAIN Michel         Le Monstre de mes nuits ˛1971
+o FN_ANG    205  1971.xx ..... ISBN -
+} ang205         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 L'HÇritage du diable ˛1971
+o FN_ANG    206  1971.xx ..... ISBN -
+} ang206         _Michel Gourdon              N
+- .o .     R     _LAURENT Agnäs               L'Ennemi dans l'ombre ˛1971
+o FN_ANG    207  1971.xx ..... ISBN -
+} ang207         _Michel Gourdon              N
+- .o .     R     _BERA Paul                   LÇonox, monstre des tÇnäbres [LÇonox] ˛1971
+o FN_ANG    208  1971.xx ..... ISBN -
+} ang208         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              Les Abominables ˛1971
+o FN_ANG    209  1971.xx ..... ISBN -
+} ang209         _Michel Gourdon              N
+- .o .     R     _ROCHER Dominique            L'Homme aux lunettes noires ˛1971
+o FN_ANG    210  1972.xx ..... ISBN -
+} ang210         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               MÇphista et la mort caressante [MÇphista] ˛1972
+o FN_ANG    211  1972.xx ..... ISBN -
+} ang211         _Michel Gourdon              N
+- .o .     R     _BERA Paul                   LÇonox et la mort [LÇonox] ˛1972
+o FN_ANG    212  1972.xx ..... ISBN -
+} ang212         _Michel Gourdon              N
+- .o .     R     _SAINT-ROMAIN Michel         L'Enfant muet ˛1972
+o FN_ANG    213  1972.xx ..... ISBN -
+} ang213         _Michel Gourdon              N
+- .o .     R     _BRUTSCHE Alphonse           Le Reflux de la nuit ˛1972
+o FN_ANG    214  1972.xx ..... ISBN -
+} ang214         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 L'Ogresse ˛1972
+o FN_ANG    215  1972.xx ..... ISBN -
+} ang215         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              Ecrit de l'au-delÖ ˛1972
+o FN_ANG    216  1972.xx ..... ISBN -
+} ang216         _Michel Gourdon              N
+- .o .     R     _ARNAUD G.-J.                Le Dossier AtrÇe ˛1972
+o FN_ANG    217  1972.xx ..... ISBN -
+} ang217         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 La Croix de Judas ˛1972
+o FN_ANG    218  1972.xx ..... ISBN -
+} ang218         _Michel Gourdon              N
+- .o .     R     _SAINT-ROMAIN Michel         La VÇnus de mort ˛1972
+o FN_ANG    219  1972.xx ..... ISBN -
+} ang219         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               MÇphista et le chasseur maudit [MÇphista] ˛1972
+o FN_ANG    220  1972.xx ..... ISBN -
+} ang220         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              Tout ce qui tombe ˛1972
+o FN_ANG    221  1972.xx ..... ISBN -
+} ang221         _Michel Gourdon              N
+- .o .     R     _ROCHER Dominique            Le Monstre sans visage ˛1972
+o FN_ANG    222  1972.xx ..... ISBN -
+} ang222         _Michel Gourdon              N
+- .o .     R     _RAYJEAN M.A.                La MalÇdiction des vautours ˛1972
+o FN_ANG    223  1972.xx ..... ISBN -
+} ang223         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Le Temps des miracles ˛1972
+o FN_ANG    224  1972.xx ..... ISBN -
+} ang224         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              La Chair du dÇmon ˛1972
+o FN_ANG    225  1972.xx ..... ISBN -
+} ang225         _Michel Gourdon              N
+- .o .     R     _BERA Paul                   Les Mains sanglantes de LÇonox [LÇonox] ˛1972
+o FN_ANG    226  1972.xx ..... ISBN -
+} ang226         _Michel Gourdon              N
+- .o .     R     _BRUSS B.R.                  L'Objet malÇfique ˛1972
+o FN_ANG    227  1972.xx ..... ISBN -
+} ang227         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               MÇphista et le guignol noir [MÇphista] ˛1972
+o FN_ANG    228  1973.xx ..... ISBN -
+} ang228         _Michel Gourdon              N
+- .o .     R     _LAURENT Agnäs               Le Sang des Çtoiles ˛1973
+o FN_ANG    229  1973.xx ..... ISBN -
+} ang229         _Michel Gourdon              N
+- .o .     R     _RAYJEAN M.A.                La Dent du loup ˛1973
+o FN_ANG    230  1973.xx ..... ISBN -
+} ang230         _Michel Gourdon              N
+- .o .     R     _ARNAUD G.-J.                La Mort noire ˛1973
+o FN_ANG    231  1973.xx ..... ISBN -
+} ang231         _Michel Gourdon              N
+- .o .     R     _ROCHER Dominique            Humeur rouge ˛1973
+o FN_ANG    232  1973.xx ..... ISBN -
+} ang232         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               MÇphista belle Ö faire peur [MÇphista] ˛1973
+o FN_ANG    233  1973.xx ..... ISBN -
+} ang233         _Michel Gourdon              N
+- .o .     R     _FEEK Antony                 La Mantille espagnole ˛1973
+o FN_ANG    234  1973.xx ..... ISBN -
+} ang234         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 La Bouche d'ombre ˛1973
+o FN_ANG    235  1973.xx ..... ISBN -
+} ang235         _Michel Gourdon              N
+- .o .     R     _SURAGNE Pierre              La Peau de l'orage ˛1973
+o FN_ANG    236  1973.xx ..... ISBN -
+} ang236         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              La Prison de chair ˛1973
+o FN_ANG    237  1973.xx ..... ISBN -
+} ang237         _Michel Gourdon              N
+- .o .     R     _LAURENT Agnäs               Requiem pour un fantìme ˛1973
+o FN_ANG    238  1973.xx ..... ISBN -
+} ang238         _Michel Gourdon              N
+- .o .     R     _JAN Gabriel                 Au seuil de l'enfer ˛1973
+o FN_ANG    239  1973.xx ..... ISBN -
+} ang239         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               MÇphista contre l'homme de feu [MÇphista] ˛1973
+o FN_ANG    240  1973.xx ..... ISBN -
+} ang240         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Le Miroir truquÇ ˛1973
+o FN_ANG    241  1973.xx ..... ISBN -
+} ang241         _Michel Gourdon              N
+- .o .     R     _ARNAUD G.-J.                Ils sont revenus ˛1973
+o FN_ANG    242  1973.xx R.... ISBN -
+} ang242         _Michel Gourdon              N
+- .o .     R     _BERA Paul                   LÇonox et le mage [LÇonox] ˛1973
+o FN_ANG    243  1973.xx ..... ISBN -
+} ang243         _Michel Gourdon              N
+- .o .     R     _SURAGNE Pierre              Duz ˛1973
+o FN_ANG    244  1973.xx ..... ISBN -
+} ang244         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Les Ciseaux d'Atropos ˛1973
+o FN_ANG    245  1973.xx ..... ISBN -
+} ang245         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              Le Manuscrit maudit ˛1973
+o FN_ANG    246  1973.xx ..... ISBN -
+} ang246         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               Ton sang, MÇphista [MÇphista] ˛1973
+o FN_ANG    247  1973.xx ..... ISBN -
+} ang247         _Michel Gourdon              N
+- .o .     R     _VERTEUIL Eric               Au bout... la mort ˛1973
+o FN_ANG    248  1974.xx ..... ISBN -
+} ang248         _Michel Gourdon              N
+- .o .     R     _ARNAUD G.-J.                La Dalle aux maudits ˛1974
+o FN_ANG    249  1974.xx ..... ISBN -
+} ang249         _Michel Gourdon              N
+- .o .     R     _BERA Paul                   Les Crocs d'aciers de LÇonox [LÇonox] ˛1974
+o FN_ANG    250  1974.xx ..... ISBN -
+} ang250         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              Perfide AsmodÇe ˛1974
+o FN_ANG    251  1974.xx ..... ISBN -
+} ang251         _Michel Gourdon              N
+- .o .     R     _SURAGNE Pierre              Je suis la brume ˛1974
+o FN_ANG    252  1974.xx ..... ISBN -
+} ang252         _Michel Gourdon              N
+- .o .     R     _LIMAT Maurice               MÇphista et le chien Hurlamor [MÇphista] ˛1974
+o FN_ANG    253  1974.xx ..... ISBN -
+} ang253         _Michel Gourdon              N
+- .o .     R     _BRUTSCHE Alphonse           Une lumiäre entre les arbres ˛1974
+o FN_ANG    254  1974.xx ..... ISBN -
+} ang254         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Le Chasseur d'Émes ˛1974
+o FN_ANG    255  1974.xx ..... ISBN -
+} ang255         _Michel Gourdon              N
+- .o .     R     _JAN Gabriel                 La Main du spectre ˛1974
+o FN_ANG    256  1974.xx ..... ISBN -
+} ang256         _Michel Gourdon              N
+- .o .     R     _VERTEUIL Eric               La MÇmoire rongÇe ˛1974
+o FN_ANG    257  1974.xx ..... ISBN -
+} ang257         _Michel Gourdon              N
+- .o .     R     _ROCHER Dominique            La Clinique de la mort ˛1974
+o FN_ANG    258  1974.xx ..... ISBN -
+} ang258         _Michel Gourdon              N
+- .o .     R     _ARLY Dominique              Au-delÖ du cauchemar ˛1974
+o FN_ANG    259  1974.xx ..... ISBN -
+} ang259         _Michel Gourdon              N
+- .o .     R     _FEEK Antony                 Cimetiäre pour femme seule ˛1974
+o FN_ANG    260  1974.xx ..... ISBN -
+} ang260         _Michel Gourdon              N
+- .o .     R     _AGAPIT Marc                 Le Dragon de lumiäre ˛1974
+o FN_ANG    261  1974.xx ..... ISBN -
+} ang261         _Michel Gourdon              N
+- .o .     R     _RAYJEAN M.A.                Le Squelette de voluptÇ ˛1974
+!FIN_COLL FN_ANG
+
+!DEB_HEAD FNSLUX
+!TIT_COLL Super Luxe
+!GRP_OUVR 7
+!--- Entre 1974 et 1985, la collection "Super Luxe" alterne les titres de 
+!--. science-fiction (collection "Lendemains retrouvÇs") et les titres de
+!--. fantastique et de terreur (collection "Horizons de l'au-delÖ"), Ö raison
+!--. d'une moyenne de 2 science-fiction pour 1 fantastique (alternance 1 pour 1 pendant
+!--. 2 ans jusqu'au numÇro 30, exceptÇ le numÇro 23 prÇvu pour la collection fantastique et qui
+!--. n'est jamais paru).
+!--- Les deux sous-collections ont principalement rÇÇditÇs des titres des 
+!--. collections "Anticipation" et "Angoisse".
+!FIN_HEAD FNSLUX
+!DEB_HEAD FN_LEND
+!GRP_OUVR 7
+!TIT_COLL Lendemains retrouvÇs
+!--- Entre 1974 et 1985, la collection "Lendemains retouvÇs" a intercalÇ ses 
+!--. titres (pour environ 2 tiers) avec ceux de sa soeur siamoise "Horizons de l'au-delÖ" dans la
+!--. sÇrie "Super Luxe" du Fleuve Noir. Hormis quelques titres originaux aux
+!--. dÇbut de la collection, l'essentiel des titres consiste en rÇÇdition du 
+!--. fond de la collection anticipation.
+!FIN_HEAD FN_LEND
+!DEB_HEAD FN_HORI
+!TIT_COLL Horizons de l'au-delÖ
+!--- Entre 1974 et 1985, la collection "Horizons de l'au-delÖ" a intercalÇ (pour environ 1/3) ses 
+!--. titres avec ceux de sa soeur siamoise "Lendemains retouvÇs" dans la
+!--. sÇrie "Super Luxe" du Fleuve Noir. La collection a principalement rÇÇditÇ
+!--. des titres de la tout juste dÇfunte collection "Angoisse".
+!--- Le numÇro 23, prÇvu pour la collection fantastique, n'est jamais paru.
+!GRP_OUVR 7
+!FIN_HEAD FN_HORI
+! -----------------------------------------------------------------------------
+_ FN_LEND Fleuve Noir, Les lendemains retrouvÇs ˛1974 - 1985
+_ FN_HORI Fleuve Noir, Horizons de l'Au-delÖ ˛1974 - 1985
+!---  (devenus RÇcits de l'Çtrange et et du fantastique
+!-----------------------------------------------------------------------------
+!---           Fleuve Noir - Horizons de l'Au-delÖ (1974 - 1985)
+!---           (devenus RÇcits de l'Çtrange et et du fantastique)
+!-----------------------------------------------------------------------------
+!-----------------------------------------------------------------------------
+!---          Fleuve Noir - Les lendemains retrouvÇs (1974 - 1985)
+!---          Fleuve Noir - Horizons de l'au-delÖ (1974 - 1985)
+!--- (rÇcits Çtranges et fantastique)
+!-----------------------------------------------------------------------------
+!DEB_COLL FN_LEND
+!DEB_COLL FN_HORI
+!DEB_COLL FNSLUX
+o FN_HORI     1  1974.xx ..... ISBN -
+}fnslhad001      _?                           N
+- .o .     R     _SURAGNE Pierre              Suicide ˛1973
+o FN_LEND     2  1974.xx ..... ISBN -
+}fnsllr002       _?                           N
+- .oS.     R     _LE MAY Jean-Louis           Entre Perlame et Santarene ˛1974
+o FN_HORI     3  1974.xx ..... ISBN -
+}fnslhad003      _?                           N
+- .o .     R     _CHARLES FrÇdÇric            N'ouvrez pas ce cercueil ˛1973
+o FN_LEND     4  1974.xx ..... ISBN -
+}fnsllr004       _?                           N
+- .oS.     R     _MENEZ Yann                  Arphadax le Khour ˛1974
+o FN_HORI     5  1974.xx ..... ISBN -
+}fnslhad005      _?                           N
+- .o .     R     _BRUSS B.R.                  Terreur en plein soleil ˛1958
+o FN_LEND     6  1975.xx ..... ISBN -
+}fnsllr006       _?                           N
+- .oS.     R     _BURGER Chris                Incubation ˛1975
+o FN_HORI     7  1975.xx ..... ISBN -
+}fnslhad007      _?                           N
+- .o .     R     _STEINER Kurt                De flamme et d'ombre ˛1956
+o FN_LEND     8  1975.xx ..... ISBN -
+}fnsllr008       _?                           N
+- .oS.     R     _PELOT Pierre                Une si profonde nuit ˛1975
+o FN_HORI     9  1975.xx ..... ISBN -
+}fnslhad009      _?                           N
+- .o .     R     _VERTEUIL Eric               FascinÇe ˛1973
+o FN_LEND    10  1975.xx ..... ISBN -
+}fnsllr010       _?                           N
+- .oS.     R     _BRUTSCHE Alphonse           Les Enfants de Pisauride ˛1975
+o FN_HORI    11  1975.xx ..... ISBN -
+}fnslhad011      _?                           N
+- .o .     R     _BURGER Chris                Le Sorcier ˛1973
+o FN_LEND    12  1975.xx ..... ISBN -
+}fnsllr012       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Territoire robot ˛1954
+o FN_HORI    13  1975.xx ..... ISBN -
+}fnslhad013      _?                           N
+- .o .     R     _SURAGNE Pierre              Brouillards ˛1973
+o FN_LEND    14  1975.xx ..... ISBN -
+}fnsllr014       _?                           N
+- .oS.     R     _MENEZ Yann                  Un monde de hÇros ˛1975
+o FN_HORI    15  1976.xx ..... ISBN -
+}fnslhad015      _?                           N
+- .o .     R     _BRUSS B.R.                  MalÇfices ˛1956
+o FN_LEND    16  1976.xx ..... ISBN -
+}fnsllr016       _?                           N
+- .oS.     R     _BRUSS B.R.                  Les Translucides ˛1964
+o FN_HORI    17  1976.xx ..... ISBN -
+}fnslhad017      _?                           N
+- .o .     R     _AGAPIT Marc                 Agence tous crimes ˛1958
+o FN_LEND    18  1976.xx ..... ISBN -
+}fnsllr018       _?                           N
+- .oS.     R     _MENEZ Yann                  Appelez-moi Dieu ˛1976
+o FN_HORI    19  1976.xx ..... ISBN 2-265-00026-4
+}fnslhad019      _?                           N
+- .o .     R     _LIMAT Maurice               La Maleficio ˛1966
+o FN_LEND    20  1976.xx ..... ISBN 2-265-00084-1
+}fnsllr020       _?                           N
+- .oS.     R     _WUL Stefan                  Retour Ö "O" ˛1956
+o FN_HORI    21  1976.xx ..... ISBN 2-265-00111-2
+}fnslhad021      _?                           N
+- .o .     R     _BECKER Benoåt               Laisse toute espÇrance ˛1955
+o FN_LEND    22  1976.xx ..... ISBN 2-265-00112-0
+}fnsllr022       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Bureau de l'invisible ˛1955
+o FN_LEND    24  1976.xx ..... ISBN 2-265-00149-X
+}fnsllr024       _?                           N
+- .oS.     R     _LE MAY J. & D.              Demain, le froid ˛1969
+o FN_HORI    25  1976.xx ..... ISBN 2-265-00202-X
+}fnslhad025      _?                           N
+- .o .     R     _SURAGNE Pierre              Elle Çtait une fois... ˛1973
+o FN_LEND    26  1976.xx ..... ISBN 2-265-00205-4
+}fnsllr026       _?                           N
+- .oS.     R     _WUL Stefan                  Terminus 1 ˛1959
+o FN_HORI    27  1977.xx ..... ISBN 2-265-00229-1
+}fnslhad027      _?                           N
+- .o .     R     _SURAGNE Pierre              Le Septiäme Vivant ˛1973
+o FN_LEND    28  1977.xx ..... ISBN 2-265-00255-0
+}fnsllr028       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          La Foudre anti-D ˛1956
+o FN_HORI    29  1977.xx ..... ISBN 2-265-00281-X
+}fnslhad029      _?                           N
+- .o .     R     _AGAPIT Marc                 Le Doigt de l'ombre ˛1959
+o FN_LEND    30  1977.xx ..... ISBN 2-265-00315-8
+}fnsllr030       _?                           N
+- .oS.     R     _BRUSS B.R.                  Le Mur de lumiäre ˛1962
+o FN_LEND    31  1977.xx ..... ISBN 2-265-00355-7
+}fnsllr031       _?                           N
+- .oS.     R     _SCHEER K.H.                 PÇril psychique [D.A.S. - 1] ˛1957 Zur besonderen verwendung ˛Trad. PIESEN Fernand
+o FN_HORI    32  1977.xx ..... ISBN 2-265-00347-6
+}fnslhad032      _?                           N
+- .o .     R     _STEINER Kurt                La Marque du dÇmon ˛1958
+o FN_LEND    33  1977.xx ..... ISBN 2-265-00377-8
+}fnsllr033       _?                           N
+- .oS.     R     _CLARKE Arthur C.            Iles de l'espace ˛1952 Islands in the Sky ˛Trad. JAGER AndrÇ
+o FN_LEND    34  1977.xx ..... ISBN 2-265-00378-6
+}fnsllr034       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         Les ConquÇrants de l'univers [Les ConquÇrants de l'univers - 1] ˛1951
+o FN_HORI    35  1977.xx ..... ISBN 2-265-00401-4
+}fnslhad035      _?                           N
+- .o .     R     _THOMAS Gilles               Magie sombre ˛1977
+o FN_LEND    36  1977.xx ..... ISBN 2-265-00426-X
+}fnsllr036       _?                           N
+- .oS.     R     _CLARKE Arthur C.            PrÇlude Ö l'espace ˛1951 Prelude to Space ˛Trad. JAGER AndrÇ et VANDEL J.-G.
+o FN_LEND    37  1977.xx ..... ISBN 2-265-00427-8
+}fnsllr037       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         A l'assaut du ciel [Les ConquÇrants de l'univers - 2] ˛1951
+o FN_LEND    38  1977.xx ..... ISBN 2-265-00458-8
+}fnsllr038       _?                           N
+- .oS.     R     _PELOT Pierre                La Septiäme Saison ˛1972
+o FN_LEND    39  1977.xx ..... ISBN 2-265-00459-6
+}fnsllr039       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         Le Retour du mÇtÇore [Les ConquÇrants de l'univers - 3] ˛1951
+o FN_HORI    40  1977.xx ..... ISBN 2-265-00480-4
+}fnslhad040      _?                           N
+- .o .     R     _STEINER Kurt                Sueurs ˛1957
+o FN_LEND    41  1977.xx ..... ISBN 2-265-00512-6
+}fnsllr041       _?                           N
+- .o .     R     _GUIEU Jimmy                 Le Triangle de la mort [Les Chevaliers de lumiäre - 5] ˛1970
+o FN_LEND    42  1977.xx ..... ISBN 2-265-00513-4
+}fnsllr042       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         La Planäte vagabonde [Les ConquÇrants de l'univers - 4] ˛1951
+o FN_HORI    43  1977.xx ..... ISBN 2-265-00540-1
+}fnslhad043      _?                           N
+- .o .     R     _BRUSS B.R.                  L'Objet malÇfique ˛1972
+o FN_LEND    44  1977.xx ..... ISBN 2-265-00577-0
+}fnsllr044       _?                           N
+- .oS.     R     _WUL Stefan                  La Peur gÇante ˛1957
+o FN_LEND    45  1977.xx ..... ISBN 2-265-00576-2
+}fnsllr045       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         Sauvetage sidÇral [Les ConquÇrants de l'univers - 5] ˛1954
+o FN_HORI    46  1978.xx ..... ISBN 2-265-0-...-.
+}fnslhad046      _?                           N
+- .o .     R     _AGAPIT Marc                 Piäge infernal ˛1960
+o FN_LEND    47  1977.xx ..... ISBN 2-265-00627-0
+}fnsllr047       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Les Chevaliers de l'espace ˛1952
+o FN_LEND    48  1977.xx ..... ISBN 2-265-00636-X
+}fnsllr048       _?                           N
+- .oS.     R     _BRUSS B.R.                  La Planäte introuvable ˛1968
+o FN_HORI    49  1978.xx ..... ISBN 2-265-00660-2
+}fnslhad049      _?                           N
+- .o .     R     _KELLER D.H.                 La Halte du destin ˛1961
+o FN_LEND    50  1977.xx ..... ISBN 2-265-00688-2
+}fnsllr050       _?                           N
+- .o .     R     _GUIEU Jimmy                 L'Ordre vert [Les Chevaliers de lumiäre - 4] ˛1969
+o FN_LEND    51  1977.xx ..... ISBN 2-265-00689-0
+}fnsllr051       _?                           N
++ FN_LEND    51  1982.xx ..... ISBN 2-265-01991-7
+}fnsllr051r82    _?                           N
+- .oS.     R     _WUL Stefan                  L'Orphelin de Perdide ˛1958
+!--- rÇÇd 1982 sous "Les maåtres du temps (L'orphelin de Perdide)"
+o FN_HORI    52  1978.xx ..... ISBN 2-265-00716-1
+}fnslhad052      _?                           N
+- .o .     R     _STEINER Kurt                Glace sanglante ˛1960
+o FN_LEND    53  1978.xx ..... ISBN 2-265-00701-3
+}fnsllr053       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Fuite dans l'inconnu ˛1954
+o FN_LEND    54  1978.xx ..... ISBN 2-265-00726-9
+}fnsllr054       _?                           N
+- .oS.     R     _CARSAC Francis              La Vermine du lion [Teraã Laprade] ˛1967
+o FN_LEND    55  1978.xx ..... ISBN 2-265-00768-4
+}fnsllr055       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         Vingt pas dans l'inconnu ˛1955
+o FN_LEND    56  1978.xx ..... ISBN 2-265-00769-2
+}fnsllr056       _?                           N
+- .oS.     R     _BRUSS B.R.                  Le Cri des Durups ˛1962
+o FN_HORI    57  1978.T4 R.... ISBN 2-265-00796-X
+}fnslhad057      _?                           N
+- .oF.     R     _MURELLI Jean                L'Orgue de l'Çpouvante ˛1959
+o FN_LEND    58  1978.xx ..... ISBN 2-265-00819-2
+}fnsllr058       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Les Titans de l'Çnergie ˛1955
+o FN_LEND    59  1978.xx ..... ISBN 2-265-00820-6
+}fnsllr059       _?                           N
+- .oS.     R     _LIMAT Maurice               Le Carnaval du cosmos ˛1961
+o FN_HORI    60  1978.xx ..... ISBN 2-265-00857-5
+}fnslhad060      _?                           N
+- .o .     R     _STEINER Kurt                Syncope blanche ˛1958
+o FN_LEND    61  1979.xx ..... ISBN 2-265-00877-X
+}fnsllr061       _?                           N
+- .oS.     R     _WUL Stefan                  OdyssÇe sous contrìle ˛1959
+o FN_LEND    62  1979.xx ..... ISBN 2-265-00878-8
+}fnsllr062       _?                           N
+- .oS.     R     _THIRION Louis               Sterga la noire ˛1971
+o FN_HORI    63  1979.xx ..... ISBN 2-265-00918-0
+}fnslhad063      _?                           N
+- .o .     R     _BECKER Benoåt               Terreur ˛1955
+o FN_LEND    64  1979.xx ..... ISBN 2-265-00942-3
+}fnsllr064       _?                           N
+- .oS.     R     _STEINER Kurt                Menace d'outre-terre ˛1958
+o FN_LEND    65  1979.xx ..... ISBN 2-265-00943-1
+}fnsllr065       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Le Satellite artificiel ˛1952
+o FN_HORI    66  1979.xx ..... ISBN 2-265-00987-3
+}fnslhad066      _?                           N
+- .o .     R     _GUIEU Jimmy                 Oniria ˛1962
+o FN_LEND    67  1979.xx ..... ISBN 2-265-00990-3
+}fnsllr067       _?                           N
+- .oS.     R     _CAROFF AndrÇ                Le Rideau de brume ˛1971
+o FN_LEND    68  1979.xx ..... ISBN 2-265-00991-1
+}fnsllr068       _?                           N
+- .oS.     R     _PELOT Pierre                Mal Iergo le dernier ˛1972
+o FN_HORI    69  1979.xx ..... ISBN 2-265-01035-9
+}fnslhad069      _?                           N
+- .o .     R     _KELLER D.H.                 L'Ombre qui tue ˛1961
+o FN_LEND    70  1979.xx ..... ISBN 2-265-01064-2
+}fnsllr070       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Incroyable futur ˛1953
+o FN_LEND    71  1979.xx ..... ISBN 2-265-01089-8
+}fnsllr071       _?                           N
+- .oS.     R     _LIMAT Maurice               Moi un robot ˛1960
+o FN_LEND    72  1979.xx ..... ISBN 2-265-01086-3
+}fnsllr072       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         Zone spatiale interdite ˛1958
+o FN_LEND    73  1979.xx ..... ISBN 2-265-01085-5
+}fnsllr073       _?                           N
+- .oS.     R     _STEINER Kurt                Salamandra ˛1959
+o FN_HORI    74  1979.xx ..... ISBN 2-265-01118-5
+}fnslhad074      _?                           N
+- .o .     R     _JAN Gabriel                 Ballet des ombres ˛1979
+o FN_LEND    75  1979.xx ..... ISBN 2-265-01139-8
+}fnsllr075       _?                           N
+- .oS.     R     _LIMAT Maurice               Le Sang vert ˛1963
+o FN_LEND    76  1979.xx ..... ISBN 2-265-01140-1
+}fnsllr076       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         RÇaction dÇluge ˛1959
+o FN_HORI    77  1980.xx ..... ISBN 2-265-01164-9
+}fnslhad077      _?                           N
+- .o .     R     _STEINER Kurt                Le Bruit du silence ˛1955
+o FN_LEND    78  1980.xx ..... ISBN 2-265-01187-8
+}fnsllr078       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Le Troisiäme Bocal ˛1956
+o FN_LEND    79  1980.xx ..... ISBN 2-265-01188-6
+}fnsllr079       _?                           N
+- .oS.     R     _LIMAT Maurice               J'Çcoute l'univers ˛1960
+o FN_HORI    80  1980.xx ..... ISBN 2-265-01227-0
+}fnslhad080      _?                           N
+- .o .     R     _SURAGNE Pierre              La Peau de l'orage ˛1973
+o FN_LEND    81  1980.xx ..... ISBN 2-265-01251-3
+}fnsllr081       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         Escale chez les vivants ˛1960
+o FN_LEND    82  1980.xx ..... ISBN 2-265-01252-1
+}fnsllr082       _?                           N
+- .oS.     R     _HOYLE Fred                 &"A" comme Andromäde ˛1962 A for Andromeda ˛Trad. BRUSS B.R.
+&                _ELLIOT John                 
+o FN_HORI    83  1980.xx ..... ISBN 2-265-01299-8
+}fnslhad083      _?                           N
+- .o .     R     _AGAPIT Marc                 Greffe mortelle ˛1958
+o FN_LEND    84  1980.xx ..... ISBN 2-265-01303-X
+}fnsllr084       _?                           N
+- .oS.     R     _HOYLE Fred                 &Andromäde revient ˛1964 Andromeda Breakthrough ˛Trad. BRUSS B.R.
+&                _ELLIOT John                 
+o FN_LEND    85  1980.xx ..... ISBN 2-265-01304-8
+}fnsllr085       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Le Soleil sous la mer ˛1953
+o FN_HORI    86  1980.xx ..... ISBN 2-265-01325-0
+}fnslhad086      _?                           N
+- .o .     R     _STEINER Kurt                L'Herbe aux pendus ˛1958
+o FN_LEND    87  1980.xx ..... ISBN 2-265-01377-3
+}fnsllr087       _?                           N
+- .oS.     R     _LIMAT Maurice               MÇtro pour l'inconnu ˛1960
+o FN_LEND    88  1980.xx ..... ISBN 2-265-01378-1
+}fnsllr088       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         CrÇation cosmique ˛1957
+o FN_LEND    89  1980.xx ..... ISBN 2-265-01398-6
+}fnsllr089       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Naufrage des galaxies ˛1954
+o FN_LEND    90  1980.xx ..... ISBN 2-265-01399-4
+}fnsllr090       _?                           N
+- .oS.     R     _GUIEU Jimmy                 CrÇature des neiges ˛1957
+o FN_HORI    91  1980.xx ..... ISBN 2-265-01400-1
+}fnslhad091      _?                           N
+- .o .     R     _BRUSS B.R.                  Le Bourg envoñtÇ ˛1964
+o FN_LEND    92  1980.xx ..... ISBN 2-265-01440-0
+}fnsllr092       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         Carrefour du temps ˛1958
+o FN_LEND    93  1980.xx ..... ISBN 2-265-01442-7
+}fnsllr093       _?                           N
+- .oS.     R     _CAROFF AndrÇ                La Guerre des Nosiars ˛1972
+o FN_HORI    94  1981.xx ..... ISBN 2-265-01469-9
+}fnslhad094      _?                           N
+- .o .     R     _STEINER Kurt                Les Dents froides ˛1957
+o FN_LEND    95  1981.xx ..... ISBN 2-265-01527-X
+}fnsllr095       _?                           N
+- .oS.     R     _THOMAS Gilles               Les Hommes marquÇs ˛1976
+o FN_LEND    96  1981.xx ..... ISBN 2-265-01528-8
+}fnsllr096       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          DÇpart pour l'avenir ˛1955
+o FN_HORI    97  1981.xx ..... ISBN 2-265-01554-7
+}fnslhad097      _?                           N
+- .o .     R     _MURELLI Jean                De mon sarcophage ˛1960
+o FN_LEND    98  1981.xx ..... ISBN 2-265-01578-4
+}fnsllr098       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         La mort vient des Çtoiles ˛1962
+o FN_LEND    99  1981.xx ..... ISBN 2-265-01579-2
+}fnsllr099       _?                           N
+- .oS.     R     _ANDERSON Poul               La Troisiäme Race ˛1953-1959 Silent Victory / The War of Two Worlds ˛Trad. BRUSS B.R.
+o FN_HORI   100  1981.xx ..... ISBN 2-265-01580-6
+}fnslhad100      _?                           N
+- .o .     R     _STEINER Kurt                L'Envers du masque ˛1957
+o FN_LEND   101  1981.xx ..... ISBN 2-265-01631-4
+}fnsllr101       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         Les mutants sonnent le glas ˛1961
+o FN_LEND   102  1981.xx ..... ISBN 2-265-01637-3
+}fnsllr102       _?                           N
+- .oS.     R     _SURAGNE Pierre              L'Enfant qui marchait sur le ciel ˛1972
+o FN_HORI   103  1981.xx ..... ISBN 2-265-01639-X
+}fnslhad103      _?                           N
+- .o .     R     _STEINER Kurt                Pour que vive le diable ˛1956
+o FN_LEND   104  1981.xx ..... ISBN 2-265-01698-5
+}fnsllr104       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Les Voix de l'univers ˛1956
+o FN_LEND   105  1981.xx ..... ISBN 2-265-01717-5
+}fnsllr105       _?                           N
+- .oS.     R     _LIMAT Maurice               OcÇan mon esclave ˛1961
+o FN_LEND   106  1981.xx ..... ISBN 2-265-01736-1
+}fnsllr106       _?                           N
+- .oS.     R     _SURAGNE Pierre              La Nef des dieux ˛1973
+o FN_LEND   107  1981.xx ..... ISBN 2-265-01737-X
+}fnsllr107       _?                           N
+- .oS.     R     _GUIEU Jimmy                 Le Rayon du cube ˛1957
+o FN_HORI   108  1981.xx ..... ISBN 2-265-01760-4
+}fnslhad108      _?                           N
+- .o .     R     _STEINER Kurt                Le Prix du suicide ˛1958
+o FN_LEND   109  1981.xx ..... ISBN 2-265-01817-1
+}fnsllr109       _?                           N
+- .oS.     R     _CAROFF AndrÇ                Les àtres du nÇant ˛1972
+o FN_LEND   110  1981.xx ..... ISBN 2-265-01818-X
+}fnsllr110       _?                           N
+- .oS.     R     _LIMAT Maurice               La Jungle de fer ˛1973
+o FN_HORI   111  1982.xx ..... ISBN 2-265-01823-6
+}fnslhad111      _?                           N
+- .o .     R     _BRUSS B.R.                  La Figurine de plomb ˛1965
+o FN_LEND   112  1982.xx ..... ISBN 2-265-01878-3
+}fnsllr112       _?                           N
+- .oS.     R     _LIMAT Maurice               L'Iceberg rouge ˛1974
+o FN_LEND   113  1982.xx ..... ISBN 2-265-01879-1
+}fnsllr113       _?                           N
+- .oS.     R     _GUIEU Jimmy                 Les Sphäres de Rapa-Nui ˛1960
+o FN_HORI   114  1982.xx ..... ISBN 2-265-01898-8
+}fnslhad114      _?                           N
+- .o .     R     _MURELLI Jean                Ce mur qui regardait ˛1959
+o FN_LEND   115  1982.xx ..... ISBN 2-265-01903-8
+}fnsllr115       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Agonie des civilisÇs ˛1953
+o FN_LEND   116  1982.xx ..... ISBN 2-265-01904-6
+}fnsllr116       _?                           N
+- .oS.     R     _PIRET Daniel                Ahouvati le Kobek ˛1974
+o FN_HORI   117  1982.xx ..... ISBN 2-265-01938-0
+}fnslhad117      _?                           N
+- .o .     R     _LIMAT Maurice               Moi, vampire ˛1966
+o FN_LEND   118  1982.xx ..... ISBN 2-265-01961-5
+}fnsllr118       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         La Planäte gÇante ˛1964
+o FN_LEND   119  1982.xx ..... ISBN 2-265-01962-3
+}fnsllr119       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Alerte aux robots ! ˛1952
+o FN_HORI   120  1982.xx ..... ISBN 2-265-01990-9
+}fnslhad120      _?                           N
+- .o .     R     _KELLER David H.             DÇsert des spectres ˛1934 The Solitary Hunters
+o FN_LEND   121  1982.xx ..... ISBN 2-265-02024-9
+}fnsllr121       _?                           N
+- .oS.     R     _SURAGNE Pierre              Mecanic jungle ˛1973
+o FN_LEND   122  1982.xx ..... ISBN 2-265-02025-7
+}fnsllr122       _?                           N
+- .oS.     R     _GUIEU Jimmy                 La Caverne du futur ˛1961
+o FN_LEND   123  1982.xx ..... ISBN 2-265-02055-9
+}fnsllr123       _?                           N
+- .oS.     R     _SURAGNE Pierre              Mais si les papillons trichent... ˛1974
+o FN_LEND   124  1982.xx ..... ISBN 2-265-02056-7
+}fnsllr124       _?                           N
+- .oS.     R     _CAROFF AndrÇ                La Planäte infernale ˛1972
+o FN_HORI   125  1982.xx ..... ISBN 2-265-02099-0
+}fnslhad125      _?                           N
+- .o .     R     _SURAGNE Pierre              Duz ˛1973
+o FN_LEND   126  1982.xx ..... ISBN 2-265-02101-6
+}fnsllr126       _?                           N
+- .oS.     R     _LIMAT Maurice               Le Sang du soleil ˛1959
+o FN_LEND   127  1982.xx ..... ISBN 2-265-02102-4
+}fnsllr127       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         Les Maåtres du silence ˛1965
+o FN_HORI   128  1982.xx ..... ISBN 2-265-02141-5
+}fnslhad128      _?                           N
+- .o .     R     _SURAGNE Pierre              Je suis la brume ˛1974
+o FN_LEND   129  1983.xx ..... ISBN 2-265-02237-3
+}fnsllr129       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         Cette lueur qui venait des tÇnäbres ˛1967
+o FN_LEND   130  1983.xx ..... ISBN 2-265-02238-1
+}fnsllr130       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Pirate de la science ˛1953
+o FN_HORI   131  1983.xx ..... ISBN 2-265-02242-X
+}fnslhad131      _?                           N
+- .o .     R     _LIMAT Maurice               Batelier de la nuit ˛1962
+o FN_LEND   132  1983.xx ..... ISBN 2-265-02248-9
+}fnsllr132       _?                           N
+- .oS.     R     _LIMAT Maurice               Et la comäte passa ˛1970
+o FN_LEND   133  1983.xx ..... ISBN 2-265-02249-7
+}fnsllr133       _?                           N
+- .oS.     R     _GUIEU Jimmy                 Projet King ˛1963
+o FN_HORI   134  1983.xx ..... ISBN 2-265-02272-1
+}fnslhad134      _?                           N
+- .o .     R     _STEINER Kurt                Fenàtre sur l'obscur ˛1956
+o FN_LEND   135  1983.xx ..... ISBN 2-265-02287-X
+}fnsllr135       _?                           N
+- .oS.     R     _BARBET Pierre               A quoi songent les Psyborgs ? [Setni, enquàteur temporel - 2] ˛1971
+o FN_LEND   136  1983.xx ..... ISBN 2-265-02288-8
+}fnsllr136       _?                           N
+- .oS.     R     _SURAGNE Pierre              Ballade pour presque un homme ˛1974
+o FN_HORI   137  1983.xx ..... ISBN 2-265-02314-0
+}fnslhad137      _?                           N
+- .o .     R     _BECKER Benoåt               ExpÇdition Çpouvante ˛1954
+o FN_LEND   138  1983.xx ..... ISBN 2-265-02340-X
+}fnsllr138       _?                           N
+- .oS.     R     _ARNAUD G.-J.                Les Monarques de Bi [Chroniques de la Grande SÇparation - 2] ˛1972
+o FN_LEND   139  1983.xx ..... ISBN 2-265-02341-8
+}fnsllr139       _?                           N
+- .oS.     R     _DASTIER Dan                 Les DÇracinÇs d'Humania ˛1972
+o FN_LEND   140  1983.xx ..... ISBN 2-265-02411-2
+}fnsllr140       _?                           N
+- .oS.     R     _CAROFF AndrÇ                Ceux des tÇnäbres ˛1973
+o FN_LEND   141  1983.xx ..... ISBN 2-265-02412-0
+}fnsllr141       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         Les Marteaux de Vulcain ˛1969
+o FN_HORI   142  1983.xx ..... ISBN 2-265-02405-8
+}fnslhad142      _?                           N
+- .o .     R     _STEINER Kurt                Je suis un autre ˛1957
+o FN_LEND   143  1983.xx ..... ISBN 2-265-02436-8
+}fnsllr143       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Attentat cosmique ˛1953
+o FN_LEND   144  1983.xx ..... ISBN 2-265-02437-6
+}fnsllr144       _?                           N
+- .oS.     R     _GUIEU Jimmy                 L'Arche du temps ˛1970
+o FN_HORI   145  1983.xx ..... ISBN 2-265-02498-8
+}fnslhad145      _?                           N
+- .o .     R     _BRUSS B.R.                  Le Tambour d'angoisse ˛1962
+o FN_LEND   146  1984.xx ..... ISBN 2-265-02457-0
+}fnsllr146       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         LÇgion Alpha ˛1961
+o FN_LEND   147  1984.xx ..... ISBN 2-265-02498-8
+}fnsllr147       _?                           N
+- .oS.     R     _LIMAT Maurice               Le Treiziäme Signe du zodiaque ˛1969
+o FN_HORI   148  1984.xx ..... ISBN 2-265-02540-2
+}fnslhad148      _?                           N
+- .o .     R     _BECKER Benoåt               ChÉteau du trÇpas ˛1956
+o FN_LEND   149  1984.xx ..... ISBN 2-265-02562-3
+}fnsllr149       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Raid sur Delta ˛1955
+o FN_LEND   150  1984.xx ..... ISBN 2-265-02563-1
+}fnsllr150       _?                           N
+- .oS.     R     _SURAGNE Pierre              Vendredi, par exemple ˛1975
+o FN_HORI   151  1984.xx ..... ISBN 2-265-02593-3
+}fnslhad151      _?                           N
+- .o .     R     _PRETRE Marcel G.            La Cinquiäme Dimension ˛1969
+o FN_LEND   152  1984.xx ..... ISBN 2-265-02622-0
+}fnsllr152       _?                           N
+- .oS.     R     _LIMAT Maurice               La Planäte sans soleil ˛1957
+o FN_LEND   153  1984.xx ..... ISBN 2-265-02623-9
+}fnsllr153       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         Chaos sur la genäse ˛1967
+o FN_HORI   154  1984.xx ..... ISBN 2-265-02636-0
+}fnslhad154      _?                           N
+- .o .     R     _WALTON Evangeline           La Maison des sorciäres ˛1945 Witch House
+o FN_LEND   155  1984.xx ..... ISBN 2-265-02735-9
+}fnsllr155       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Frontiäres du vide ˛1953
+o FN_LEND   156  1984.xx ..... ISBN 2-265-02736-7
+}fnsllr156       _?                           N
+- .oS.     R     _SURAGNE Pierre              La CitÇ au bout de l'espace ˛1977
+o FN_LEND   157  1984.xx ..... ISBN 2-265-02778-2
+}fnsllr157       _?                           N
+- .oS.     R     _ARNAUD G.-J.                Lazaret 3 [Chroniques de la Grande SÇparation - 3] ˛1973
+o FN_LEND   158  1984.xx ..... ISBN 2-265-02779-0
+}fnsllr158       _?                           N
+- .oS.     R     _GUIEU Jimmy                 Le Pionnier de l'atome [Jean Kariven - 1] ˛1951
+o FN_HORI   159  1984.xx ..... ISBN 2-265-02802-9
+}fnslhad159      _?                           N
+- .o .     R     _ANDREVON Jean-Pierre        Un froid mortel ˛1971
+o FN_LEND   160  1984.xx ..... ISBN 2-265-02847-9
+}fnsllr160       _?                           N
+- .oS.     R     _CAROFF AndrÇ                L'ExilÇ d'Akros ˛1973
+o FN_LEND   161  1984.xx ..... ISBN 2-265-02848-7
+}fnsllr161       _?                           N
+- .oS.     R     _SURAGNE Pierre              Le Dieu truquÇ ˛1974
+o FN_HORI   162  1985.xx ..... ISBN 2-265-02851-7
+}fnslhad162      _?                           N
+- .o .     R     _ARNAUD G.-J.                Le Dossier AtrÇe ˛1972
+o FN_LEND   163  1985.xx ..... ISBN 2-265-02908-4
+}fnsllr163       _?                           N
+- .oS.     R     _ANDREVON Jean-Pierre        La Guerre des Gruuls ˛1971
+o FN_LEND   164  1985.xx ..... ISBN 2-265-02909-2
+}fnsllr164       _?                           N
+- .oS.     R     _VANDEL Jean-Gaston          Les Astres morts ˛1952
+o FN_HORI   165  1985.xx ..... ISBN 2-265-02923-8
+}fnslhad165      _?                           N
+- .o .     R     _LIMAT Maurice               Le Manchot ˛1965
+o FN_LEND   166  1985.xx ..... ISBN 2-265-02930-0
+}fnsllr166       _?                           N
+- .oS.     R     _RICHARD-BESSIERE F.         Je m'appelle... tous ˛1965
+o FN_LEND   167  1985.xx ..... ISBN 2-265-02939-4
+}fnsllr167       _?                           N
+- .oS.     R     _RANDA Peter                 Survie ˛1960
+o FN_HORI   168  1985.xx ..... ISBN 2-265-02961-0
+}fnslhad168      _?                           N
+- .o .     R     _ANDREVON Jean-Pierre        Une lumiäre entre les arbres ˛1974
+o FN_LEND   169  1985.xx ..... ISBN 2-265-02985-8
+}fnsllr169       _?                           N
+- .oS.     R     _CAROFF AndrÇ                Le Bagne de Rostos ˛1974
+o FN_LEND   170  1985.xx ..... ISBN 2-265-02986-6
+}fnsllr170       _?                           N
+- .oS.     R     _LE MAY J. & D.              Les Landes d'Achernar ˛1971
+!FIN_COLL FN_LEND
+!FIN_COLL FN_HORI
+!FIN_COLL FNSLUX
+
+!-----------------------------------------------------------------------------
+_ FN_SINC Fleuve Noir, John Sinclair ˛1992 - ...
+!-----------------------------------------------------------------------------
+!---                     Fleuve Noir - John Sinclair (1992 - ...)
+!-----------------------------------------------------------------------------
+o FN_SINC     1  1992.xx ..... ISBN 2-265-04625-6
+} noimg          _?                           ?
+- .oT.     R     _DARK Jason                  Peur sur Londres [John Sinclair - 1] ˛1981 Angst Åber London ˛Trad. SCHWEIGHAEUSER Jean-Paul
+o FN_SINC     2  1992.xx ..... ISBN 2-265-04624-8
+} noimg          _?                           ?
+- .oT.     R     _DARK Jason                  La Bombe magique [John Sinclair - 35] ˛1984 Die magische Bombe ˛Trad. SCHWEIGHAEUSER Jean-Paul
+o FN_SINC     3  1992.xx ..... ISBN 2-265-04623-X
+} noimg          _?                           ?
+- .oT.     R     _DARK Jason                  L'Horoscope de l'horreur [John Sinclair - 59] ˛1986 Horror-Horoskop ˛Trad. SCHWEIGHAEUSER Jean-Paul
+o FN_SINC     4  1992.xx ..... ISBN 2-265-04622-1
+} noimg          _?                           ?
+- .oT.     R     _DARK Jason                  Une vie parmi les morts [John Sinclair - 32] ˛1983 Ein Leben unter Toten ˛Trad. SCHWEIGHAEUSER Jean-Paul
+o FN_SINC     5  1992.xx ..... ISBN 2-265-04621-3
+} noimg          _?                           ?
+- .oT.     R     _DARK Jason                  Les Yeux meurtriers [John Sinclair - 81] ˛1987 Die Mordaugen von BrÅssel ˛Trad. SCHWEIGHAEUSER Jean-Paul
+o FN_SINC     6  1992.xx ..... ISBN 2-265-04620-5
+} noimg          _?                           ?
+- .oT.     R     _DARK Jason                  Noâls de sang [John Sinclair - 73] ˛1987 Mîrderische Weihnachten ˛Trad. SCHWEIGHAEUSER Jean-Paul
+o FN_SINC     7  1992.xx ..... ISBN 2-265-04619-1
+} noimg          _?                           ?
+- .oT.     R     _DARK Jason                  Le Doge et son bourreau [John Sinclair - 77] ˛1987 Der doge, sein henker und ich ˛Trad. SCHWEIGHAEUSER Jean-Paul
+o FN_SINC     8  1992.xx ..... ISBN 2-265-04618-3
+} noimg          _?                           ?
+- .oT.     R     _DARK Jason                  Le Restaurant des horreurs [John Sinclair - 97] ˛1989 Das horror-restaurant ˛Trad. SCHWEIGHAEUSER Jean-Paul
+o FN_SINC     9  1992.xx ..... ISBN 2-265-04617-5
+} noimg          _?                           ?
+- .oT.     R     _DARK Jason                  Victimes du Klan [John Sinclair - 108] ˛1990 Die Toten vom Klan ˛Trad. SCHWEIGHAEUSER Jean-Paul
+o FN_SINC    10  1992.xx ..... ISBN 2-265-04616-7
+} noimg          _?                           ?
+- .oT.     R     _DARK Jason                  Main basse sur Hong Kong [John Sinclair - 106] ˛1990 Babylon in Hongkong ˛Trad. SCHWEIGHAEUSER Jean-Paul
+
+!DEB_HEAD FN_VAMP
+!TIT_COLL Vampire
+!-----------------------------------------------------------------------------
+_ FN_VAMP Fleuve Noir, Vampire ˛1998 - 1998
+!-----------------------------------------------------------------------------
+!--- Trois petits numÇros avant l'abandon faute de succäs.
+!--- Directeur de collection : TBD
+!-----------------------------------------------------------------------------
+!FIN_HEAD FN_VAMP
+!DEB_COLL FN_VAMP
+o FN_VAMP     1  1998.xx ..... ISBN 2-265-06292-8
+} fnvamp1        _?                           N
+- .oF.     R     _HERBER Keith                Le Prince noir ˛1994 Dark Prince ˛Trad. PECE Michäle
+!--- TBC: [Le monde des tÇnäbres - 1] ?
+o FN_VAMP     2  1998.xx ..... ISBN 2-265-06290-1
+} fnvamp2        _?                           N
+- .oF.     R     _BYERS Richard Lee           Les Enfers ˛1995 Neverworld ˛Trad. RAYNAULT Roberta
+!--- TBC: [Le monde des tÇnäbres - 2] ?
+o FN_VAMP     3  1998.xx ..... ISBN 2-265-06291-X
+} fnvamp3        _?                           N
+- .oF.     R     _MURRAY Douglas              Echanges de sang ˛1995 Blood Relations ˛Trad. PECE Michäle
+!FIN_COLL FN_VAMP
+
+!-----------------------------------------------------------------------------
+_ FN_GORE Fleuve Noir, Gore ˛1985 - 1990
+_ VAUGORE Vaugirard, Gore ˛1990
+!-----------------------------------------------------------------------------
+!---                   Fleuve noir - Gore (1985 - 1990)
+!--- Daniel RICHE, puis, en 88 AndrÇ RUELLAN et Alain GARSAULT
+!---  La plupart des textes amÇricains sont largement amputÇs
+!--- Chez Vaugirard, Juliette Raabe a pris le relais en 1990
+!-----------------------------------------------------------------------------
+o FN_GORE     1  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _RUSSO John                  La Nuit des morts-vivants ˛1968 Night of the Living Dead ˛Trad. PAUL Edgar
+o FN_GORE     2  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HOUSSIN Joâl                L'Autoroute du massacre ˛1985
+o FN_GORE     3  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _LAYMON Richard              Le Bois des tenäbres ˛1983 The Woods Are Dark ˛Trad. BONIFACE Yves
+o FN_GORE     4  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _GARTON Ray                  SÇductions ˛1984 Seductions ˛Trad. MALLERIN Claude
+o FN_GORE     5  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- en signature : Charles NÇcrorian
+- .o .     R     _NECRORIAN                   Blood-sex [Blood-Sex - 1] ˛1985
+o FN_GORE     6  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _RUSSO John                  Le RÇveil des morts-vivants ˛1977 Return of the Living Dead ˛Trad. BENITA Paul
+o FN_GORE     7  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HUTSON Shaun                La Mort visqueuse ˛1982 Slugs ˛Trad. BENITA Paul
+o FN_GORE     8  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _ARNAUD G.-J.                Le Festin sÇculaire ˛1985
+o FN_GORE     9  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _RUSSO John                  Le Retour des morts-vivants ˛1977 Return of the Living Dead ˛Trad. BENITA Paul
+o FN_GORE    10  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _VANCE Steve                 L'Hybride ˛1981 The Hybrid ˛Trad. FREZOULS Annie
+o FN_GORE    11  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _ALTMAN Thomas               Tu enfanteras dans la terreur ˛1982 The True Bride ˛Trad. BROTOT Dominique & BLANC Bernard
+o FN_GORE    12  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _BLAKE Nick                  La Tronáonneuse de l'horreur ˛1984 Chainsaw terror ˛Trad. BONIFACE Yves
+o FN_GORE    13  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     F     _LEWIS Herschell Gordon      2000 Maniacs ˛1964 Two thousands Maniacs ˛Trad. MALLERIN Claude
+o FN_GORE    14  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HOUSSIN Joâl                L'êcho des suppliciÇs ˛1985
+o FN_GORE    15  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HUTSON Shaun                Les Larvoãdes ˛1983 Spawn ˛Trad. LECHAUX Laurence
+o FN_GORE    16  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _VILA Christian              Clip de sang ˛1985
+o FN_GORE    17  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _KNIGHT Harry Adam           Terreur dÇliquescente ˛1983 Slimer ˛Trad. BLANC Bernard & BROTOT Dominique
+o FN_GORE    18  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _WALTHER Daniel              La MarÇe purulente ˛1986
+o FN_GORE    19  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _WATKINS Ivor                Le DÇmon des Éges troubles ˛1983 Demon
+o FN_GORE    20  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _LAYMON Richard              CinÇma d'Çventreur ˛1982 Out Are the Lights
+o FN_GORE    21  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _CHANDLER Glenn              Fureur cannibale ˛1981 The Tribe
+o FN_GORE    22  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HALKIN John                 La Nuit des vers voraces ˛1986 Bloodworm
+o FN_GORE    23  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     F     _MURPHY L. E.                Blood Feast ˛1963 Blood feast
+o FN_GORE    24  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _MALLORY Lewis               Fleurs d'Çpouvante ˛1981 The nursery
+o FN_GORE    25  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _KETCHUM Jack                Saison de mort ˛1980 Off Season
+o FN_GORE    26  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _ANDREVON Jean-Pierre        Cauchemars de sang ˛1986
+o FN_GORE    27  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _KETCHUM Jack                Cache-cache effroyable ˛1984 Hide and Seek
+o FN_GORE    28  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _ARNAUD G.-J.                Grouillements ˛1986
+o FN_GORE    29  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _GARNETT Bill                L'Horreur aux mille visages ˛1984 The Crone
+!--- TBC : 1982 The unbegotten
+o FN_GORE    30  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _NECRORIAN                   Impacts ˛1986
+o FN_GORE    31  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _LOMAN David                 Le FlÇau sanguinaire ˛1984 Blowfly
+o FN_GORE    32  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _VILA Christian              L'OcÇan cannibale ˛1986
+o FN_GORE    33  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     F     _LEWIS Herschell Gordon      Colore-moi rouge sang ˛1965 Color me blood red
+!--- Version franáaise de Blood feast ?
+o FN_GORE    34  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _PELOT Pierre                Purgatoire ˛1986
+o FN_GORE    35  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HUTSON Shaun                La Mort visqueuse - 2 ˛1985 Breeding Ground
+o FN_GORE    36  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _BERGAL Gilles               Cauchemar Ö Staten Island ˛1986
+o FN_GORE    37  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _SMITH Guy N.                Le Spectre insatiable ˛1983 The Undead
+o FN_GORE    38  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _ECKEN Claude                La Peste verte ˛1987
+o FN_GORE    39  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _WOLFITT Michael             Les Griffes de la mort ˛1983 Night-Shriek
+o FN_GORE    40  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HONAKER Michel              Canyon rouge ˛1987
+o FN_GORE    41  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _BALLINGER W.A.              Supplices vaudous ˛1966 Drums of the Dark Gods
+o FN_GORE    42  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _VILUBER Jean                Coupes sombres ˛1987
+o FN_GORE    43  1987.xx ..... ISBN 2-265-03549-1
+} noimg          _?                           ?
+- .o .     R     _McKENNA George              Rites d'infamie ˛1981 Rites
+o FN_GORE    44  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _BATAILLE Thierry           &Immolations ˛1987
+&                _CORGIAT Sylviane           &
+&                _LECIGNE Bruno               
+o FN_GORE    45  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _FANTHORPE R. L.             Le Manoir des tortures ˛1966 The Unconfined
+o FN_GORE    46  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HUTSON Shaun                Le CrÉne infernal ˛1982 The Skull
+o FN_GORE    47  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _JARVIS Edward               L'Effroi surgi des mers ˛1983 Pestilence
+o FN_GORE    48  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _CORSELIEN                   L'êtat des plaies ˛1987
+o FN_GORE    49  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _LAYMON Richard              La Cave aux atrocitÇs ˛1980 The Cellar
+o FN_GORE    50  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _BRANDNER Gary               Hurlements [Hurlements - 1] ˛1977 The Howling
+o FN_GORE    51  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HUTSON Shaun                Ombres effroyables ˛1985 Shadows
+o FN_GORE    52  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _VERTEUIL Eric               Horreur Ö Maldoror ˛1987
+o FN_GORE    53  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _JONES Bruce                 Horreurs mentales ˛1982 Tarotown
+o FN_GORE    54  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HONAKER Michel              Terminus sanglant ˛1987
+o FN_GORE    55  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _TREMAYNE Peter              Terreur rampante ˛1979 The Ants
+o FN_GORE    56  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _NECRORIAN                   Skin killer ˛1987
+o FN_GORE    57  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _LUTZ John                   Le Lac d'Çpouvante ˛1977 Bonegrinder
+o FN_GORE    58  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     R     _LAMARE Patrice              La Galerie des horreurs ˛1987
+o FN_GORE    59  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     R     _PELOT Pierre                Aux chiens ÇcrasÇs ˛1987
+o FN_GORE    60  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     R     _SHELDON S.K.                MusÇe des horreurs ˛1987
+o FN_GORE    61  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     R     _CORSELIEN                   Bruit crissant du rasoir sur les os ˛1988
+o FN_GORE    62  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     R     _STEINER Kurt                Grand-guignol 36-88 ˛1988
+o FN_GORE    63  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     R     _NECRORIAN                   Inquisition ˛1988
+o FN_GORE    64  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     R     _MOUNT Norbert George        Neige d'enfer ˛?
+o FN_GORE    HS  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     E     _MOCHON Jean-Philippe        Le Bel effet gore - Autopsie d'une collection ˛1988
+: .oT.     N     _CORSELIEN                   L'Homme avec la scie ˛1988
+: .oT.     N     _NECRORIAN                   Ràves de sang ˛1987
+: .oT.     N     _SHELDON S.K.                Ecrit dans le sang ˛1988
+: .oT.     N     _VERTEUIL Eric               Sang et passion ˛1988
+: .oT.     N     _MOCHON Jean-Philippe        Cordon ombilical ˛1988
+o FN_GORE    65  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     R     _BRANDNER Gary               Hurlements n¯ 2 [Hurlements - 2] ˛1979 Return of the Howling / The Howling II
+o FN_GORE    66  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     R     _VILA Christian              La Mort noire ˛1988
+o FN_GORE    67  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     R     _CHILDER Simon Ian           Vrilles ! ˛1987 Tendrils
+o FN_GORE    68  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     R     _VERTEUIL Eric               Grillades au feu de bois ˛1988
+!--- indiquÇ Eric VERNEUIL
+o FN_GORE    69  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     R     _MALLORY Lewis               Cauchemar qui tue ˛1984 Nightmare
+o FN_GORE    70  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oT.     R     _BATAILLE Thierry           &Immolations n¯ 2 ˛1988
+&                _CORGIAT Sylviane           &
+&                _LECIGNE Bruno               
+o FN_GORE    71  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HUTSON Shaun                Les Fouilles de la peur ˛1986 Relics
+o FN_GORE    72  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _LAYMON Richard              La Mort invisible ˛1985 Beware
+o FN_GORE    73  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _MALLORY Lewis               Les Portes de l'effroi ˛1981 Gate of fear
+o FN_GORE    74  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _AXELMAN                     La Massacreuse ˛1988
+o FN_GORE    75  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _VERTEUIL Eric               Monstres sur commande ˛1988
+o FN_GORE    76  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _BLACKSTONE James            Brasiers humains ˛1986 Torched!
+o FN_GORE    77  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _KNIGHT Harry Adam           L'Immonde invasion ˛? ?
+o FN_GORE    78  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _BARBERI Jacques            &Ràve de chair ˛1988
+&                _JOUANNE Emmanuel            
+o FN_GORE    79  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _RUSSO John                  ZÇro heure ˛1980 Midnight
+o FN_GORE    80  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _VERTEUIL Eric               A la recherche des corps perdus ˛1988
+o FN_GORE    81  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _LAYMON Richard              La Fàte du sang ˛1985 Allhalows Eve
+o FN_GORE    82  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _CORSELIEN                   Retour au bal Ö Dalstein ˛1989
+o FN_GORE    83  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _CAROFF AndrÇ                Extermination ˛1989
+o FN_GORE    84  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _BRANDNER Gary               Hurlements n¯ 3 [Hurlements - 3] ˛1985 The Howling III: Echoes
+o FN_GORE    85  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _ANDREVON Jean-Pierre        Comme une odeur de mort ˛1989
+o FN_GORE    86  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _DOBSON William              L'êventreur ˛1981 The ripper
+o FN_GORE    87  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _VERTEUIL Eric               Les Horreurs de Sophie ˛1989
+o FN_GORE    88  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _LAYMON Richard              La Maison de la bàte ˛1986 The Beast House
+o FN_GORE    89  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _AXELMAN                     Aux morsures millÇnaires ˛1989
+o FN_GORE    90  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _ANDERSON Stephan            Sanguinaire engrenage ˛?
+o FN_GORE    91  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _NECRORIAN                   Bayou [Blood-Sex - 2] ˛1989
+o FN_GORE    92  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _SMITH Guy N.                Sabat n¯ 1 (le cimetiäre des vautours) ˛1982 The Graveyard Vultures
+o FN_GORE    93  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _VILUBER Jean                DÇcharges ˛1989
+o FN_GORE    94  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _SARDANTI Reg                Cadavres laquÇs, sÇvices gratuits ˛1989
+o FN_GORE    95  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _BARNEY CÇline W.            Guillotine ! ˛1989
+!--- TBC : ou BARNEY William ?
+o FN_GORE    96  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _FETIDUS                     La Mort putride ˛1989
+o FN_GORE    97  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HUMANN Mort                 Fantìme de feu ˛1989
+o FN_GORE    98  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _VERTEUIL Eric               Les Charmes de l'horreur ˛1989
+o FN_GORE    99  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _BERGAL Gilles               Camping sauvage ˛1989
+o FN_GORE   100  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _SPLASH Brain                La Cervelle contre les murs ˛1989
+o FN_GORE   101  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _SMITH Guy N.                NÇophyte ˛1986 The Neophyte
+o FN_GORE   102  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _SANTINI Gilles              Morte chair ˛1989
+o FN_GORE   103  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _DARNAUDET Franáois         &Collioure Trap ˛1989
+&                _RABIER Catherine            
+!--- Mais Boris Darnaudet seul sur couverture ? (Boris pas nÇ !)
+o FN_GORE   104  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HUMANN Mort                 Horrific party ˛1989
+o FN_GORE   105  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _VERTEUIL Eric               Le Tour du monde en quatre-vingt cadavres ˛1990
+o FN_GORE   106  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _CORSELIEN                   LÇsions irrÇparables ˛1990
+o VAUGORE   107  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _FRANK Henry                 Carnaval des vampires ˛?
+o VAUGORE   108  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _FETIDUS                     Occupation des corps ˛1990
+o VAUGORE   109  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _AXELMAN                     Dunes sanglantes ˛1990
+o VAUGORE   110  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _VILUBER Jean                Greffes profondes ˛1990
+o VAUGORE   111  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _SARDANTI Reg                Kali-Yuga, le relief de la mort ˛1990
+o VAUGORE   112  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _MOUNT Norbert George        L'êquarisseur de Soho ˛?
+o VAUGORE   113  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _VERTEUIL Eric               Sang frais pour le troyen ˛1990
+o VAUGORE   114  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _HUMANN Mort                 Piäge Ö Djakarta ˛1990
+o VAUGORE   115  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _DARNAUDET Franáois          Andernos Trap ˛1990
+!--- Mais Boris sur couverture ? (Boris pas nÇ !)
+o VAUGORE   116  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _SANTINI Gilles              EvÇntration ˛1990
+o VAUGORE   117  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _SARKEL Franáois             La Chair sous les ongles [La Chair sous les ongles - 1] ˛1990
+o VAUGORE   118  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _NOLANE Richard D.           Les DÇmons d'Abidjan ˛1990
+
+!-----------------------------------------------------------------------------
+_ FN_PLGO Fleuve Noir, Gore - Avoriaz 1987
+!--- Opuscule/plaquette au format des Gore habituels
+!-----------------------------------------------------------------------------
+o FN_PLGO     ?  1987.xx ..... ISBN -
+} noimg          _?                           ?
+- .oT.     N     _NECRORIAN                   Ràves de sang ˛1988
+
+!-----------------------------------------------------------------------------
+_ FN_FRAY Fleuve Noir, Frayeur ˛199. - ...
+!-----------------------------------------------------------------------------
+!---                   Fleuve noir - Frayeur
+!-----------------------------------------------------------------------------
+o FN_FRAY     1  1994.xx ..... ISBN 2-265-00182-1
+} noimg          _?                           ?
+- .oT.     R     _VENISSE Alain               Le Clown de minuit ˛1994
+o FN_FRAY     2  1994.xx ..... ISBN 2-265-00169-4
+} noimg          _?                           ?
+- .oT.     R     _ANH Lori                    DÇgÇnÇrescence ˛1994
+o FN_FRAY     3  1994.xx ..... ISBN 2-265-00228-3
+} noimg          _?                           ?
+- .oT.     R     _DUGUEL Anne                 Asylum ˛1994
+o FN_FRAY     4  1994.xx ..... ISBN 2-265-00173-2
+} noimg          _?                           ?
+- .oT.     R     _FLORENTZ Bernard            La Femme morte ˛1994
+o FN_FRAY     5  1994.xx ..... ISBN 2-265-00180-5
+} noimg          _?                           ?
+- .oT.     R     _VENISSE Alain               Symphonie pour l'Enfer ˛1994
+o FN_FRAY     6  1994.xx ..... ISBN 2-265-00168-6
+} noimg          _?                           ?
+- .oT.     R     _BRENNER FÇlix               L'AraignÇe de Yoshiwara ˛1994
+o FN_FRAY     7  1994.xx ..... ISBN 2-265-05024-5
+} noimg          _?                           ?
+- .oT.     R     _FLORENTZ Bernard            La Correction ˛1994
+o FN_FRAY     8  1994.xx ..... ISBN 2-265-04998-0
+} noimg          _?                           ?
+- .oT.     R     _VENISSE Alain               Dans les profondeurs du miroir ˛1994
+o FN_FRAY     9  1994.xx ..... ISBN 2-265-05073-3
+} noimg          _?                           ?
+- .oT.     R     _LEROUX Denis                Mauvaise chair ˛1994
+o FN_FRAY    10  1994.xx ..... ISBN 2-265-00186-4
+} noimg          _?                           ?
+- .oT.     R     _ROLLIN Jean                 Anissa : le retour des deux orphelines vampires [Les Deux Orphelines vampires] ˛1994
+o FN_FRAY    11  1994.xx ..... ISBN 2-265-05075-X
+} noimg          _?                           ?
+- .oT.     R     _VENISSE Alain               Cimetiäre des chats ˛1994
+o FN_FRAY    12  1994.xx ..... ISBN 2-265-00185-6
+} noimg          _?                           ?
+- .oT.     R     _ROLLIN Jean                 Les Voyageuses [Les Deux Orphelines vampires] ˛1994
+o FN_FRAY    13  1995.xx ..... ISBN 2-265-00277-1
+} noimg          _?                           ?
+- .oT.     R     _DUGUEL Anne                 Gargouille ˛1995
+o FN_FRAY    14  1995.xx ..... ISBN 2-265-04997-2
+} noimg          _?                           ?
+- .oT.     R     _BERKANI-ROHMER Anissa       Catacombes ˛1995
+o FN_FRAY    15  1995.xx ..... ISBN 2-265-05115-2
+} noimg          _?                           ?
+- .oT.     R     _LEHMAN Serge                Le Haut-Lieu ˛1995
+!--- premier volume de la sous sÇrie "Frayeur+"
+o FN_FRAY    16  1995.xx ..... ISBN 2-265-05472-0
+} noimg          _?                           ?
+- .oT.     R     _FRANCAIX Pascal             Le Cercueil de chair ˛1995
+o FN_FRAY    17  1995.xx ..... ISBN 2-265-00226-7
+} noimg          _?                           ?
+- .oT.     R     _ROLLIN Jean                 Les Pillardes [Les Deux Orphelines vampires] ˛1995
+o FN_FRAY    18  1995.xx ..... ISBN 2-265-04999-9
+} noimg          _?                           ?
+- .oT.     R     _COURTIAUD Laurent           Les Enfants de sang ˛1995
+o FN_FRAY    19  1995.xx ..... ISBN 2-265-00278-X
+} noimg          _?                           ?
+- .oT.     R     _PHILIPPE Jean-Loup          MÇmoire de sang ˛1995
+o FN_FRAY    20  1995.xx ..... ISBN 2-265-05000-8
+} noimg          _?                           ?
+- .oT.     R     _KAA                         Criant de vÇritÇ ˛1995
+o FN_FRAY    21  1995.xx ..... ISBN 2-265-05378-3
+} noimg          _?                           ?
+- .oT.     R     _DUGUEL Anne                 Lavinia ˛1995
+o FN_FRAY    22  1995.xx ..... ISBN 2-265-00181-3
+} noimg          _?                           ?
+- .oT.     R     _VENISSE Alain               L'êtreinte de la bàte ˛1995
+o FN_FRAY    23  1995.xx ..... ISBN 2-265-05574-3
+} noimg          _?                           ?
+- .oT.     R     _FRANCAIX Pascal             Kamarde ˛1995
+o FN_FRAY    24  1995.xx ..... ISBN 2-265-05227-5
+} noimg          _?                           ?
+- .oT.     R     _ROLLIN Jean                 Les Incendiaires [Les Deux Orphelines vampires] ˛1995
+o FN_FRAY    25  1995.xx ..... ISBN 2-265-05207-8
+} noimg          _?                           ?
+- .oT.     R     _DUGUEL Anne                 La Baby-Sitter ˛1995
+o FN_FRAY    26  1995.xx ..... ISBN 2-265-05471-2
+} noimg          _?                           ?
+- .oT.     R     _COURTIAUD Laurent           Les Voleurs de vie ˛1995
+o FN_FRAY    27  1995.xx ..... ISBN 2-265-05074-1
+} noimg          _?                           ?
+- .oT.     R     _VOX Vincent                 PromÇthÇe de l'ombre ˛1995
+o FN_FRAY    28  1995.xx ..... ISBN 2-265-00124-4
+} noimg          _?                           ?
+- .oT.     R     _ROLLIN Jean                 BestialitÇ ˛1995
+o FN_FRAY    29  1995.xx ..... ISBN 2-265-00279-8
+} noimg          _?                           ?
+- .oT.     R     _FLORENTZ Bernard            CrÇature ˛1995
+o FN_FRAY    30  1995.xx ..... ISBN 2-265-05311-2
+} noimg          _?                           ?
+- .oT.     R     _LEROUX Denis                Le Ventre de la siräne ˛1995
+o FN_FRAY    31  1995.xx ..... ISBN 2-265-05470-4
+} noimg          _?                           ?
+- .oT.     R     _DUGUEL Anne                 La Petite Fille aux araignÇes ˛1995
+o FN_FRAY    32  1995.xx ..... ISBN 2-265-05377-5
+} noimg          _?                           ?
+- .oT.     R     _VENISSE Alain               DÇviation ˛1995
+
+!-----------------------------------------------------------------------------
+_ FN_ANGS Fleuve Noir, Angoisses ˛1993 - ...
+!-----------------------------------------------------------------------------
+!---  Angoisses
+!-----------------------------------------------------------------------------
+o FN_ANGS     1  1993.xx ..... ISBN 2-265-04904-2
+} fnangs01       _DEMOULIN Marc               ?
+- .oT.     R     _CHEREAU Fred                Rap killer ˛1993
+o FN_ANGS     2  1993.xx ..... ISBN 2-265-04967-0
+} fnangs02       _DEMOULIN Marc               ?
+- .oT.     R     _ANDREVON Jean-Pierre        Cauchemars d'acier ˛1993
+o FN_ANGS     3  1993.xx ..... ISBN 2-265-04921-2
+} fnangs03       _DEMOULIN Marc               ?
+- .oT.     R     _PICARD Sylvie               Souterrains ˛1993
+o FN_ANGS     4  1993.xx ..... ISBN 2-265-04956-5
+} fnangs04       _DEMOULIN Marc               ?
+- .oT.     R     _KAA                         Dåner de tàtes ˛1993
+o FN_ANGS     5  1994.xx ..... ISBN 2-265-04905-9
+} fnangs05       _DEMOULIN Marc               ?
+- .oT.     R     _MAZARIN Jean                Le Baigneur ˛1988
+o FN_ANGS     6  1994.xx ..... ISBN 2-265-00111-2
+} fnangs06       _DEMOULIN Marc               ?
+- .oT.     R     _ROLLIN Jean                 Les Deux Orphelines vampires ˛1994
+o FN_ANGS     7  1994.xx ..... ISBN 2-265-00195-3
+} fnangs07       _DEMOULIN Marc               ?
+- .oT.     R     _SARKEL Franáois             Silence rouge ˛1994
+o FN_ANGS     8  1994.xx ..... ISBN 2-265-00028-0
+} fnangs08       _DEMOULIN Marc               ?
+- .oT.     R     _FETIS Laurent               Magna Mater ˛1994
+o FN_ANGS     9  1994.xx ..... ISBN 2-265-00391-3
+} fnangs09       _DEMOULIN Marc               ?
+- .oT.     R     _AXELMAN                     Incarnations ˛1994
+
+!-----------------------------------------------------------------------------
+_ FN_TERT Fleuve Noir, Coll. Territoires
+!-----------------------------------------------------------------------------
+o FN_TERT     ?  2011.04 ..... ISBN 978-2-265-09113-9
+} noimg          _?                           ?
+- .oF.     R     _BLACK Holly                 Chat blanc [Les Faucheurs - 1] ˛2010 White Cat ˛Trad. PUGI Jean-Pierre
+o FN_TERT     ?  2011.04 ..... ISBN 978-2-265-09073-6
+} noimg          _?                           ?
+- .oF.     R     _ROUX Madeleine              Un blog trop mortel ˛2011 Allison Hewitt Is Trapped :A Zombie Novel ˛Trad. QUEMENER Sonia
+o FN_TERT     ?  2011.06 ..... ISBN 978-2-265-09306-5
+} noimg          _Marco Tardito               ?
+- .oF.     R     _FFORDE Jasper               Moi, Jennifer Strange, derniäre tueuse de dragons ? ˛2010 The Last Dragonslayer ˛Trad. PAGEL Michel
+o FN_TERT     ?  2011.09 ..... ISBN 978-2-265-09116-0
+} noimg          _?                           ?
+- .oF.     R     _MARTINEZ A. Lee             Le Bal de l'enfer ˛2005 Gil's All Fright Diner ˛Trad. IMBERT Patrick
+o FN_TERT     ?  2011.10 ..... ISBN 978-2-265-09264-8
+} noimg          _?                           ?
+- .oF.     R     _CHARLTON Blake              Mortiläge [Spell - 1] ˛2010 Spellwright ˛Trad. ARSON Thierry
+o FN_TERT     ?  2011.11 ..... ISBN 978-2-265-09590-8
+} noimg          _?                           ?
+- .oF.     A12   *BLACK Holly                &Zombies contre licornes ˛2010 Zombies vs Unicorns ˛Trad. LOZANO Anne-Elisabeth
+&                *LARBALESTIER Justine        
+: .o .     p     _BLACK Holly                &Introduction ˛2010 Introduction ˛Trad. LOZANO Anne-Elisabeth
+&                _LARBALESTIER Justine        
+: .o .     N     _NIX Garth                   La Plus Haute Justice ˛2010 The Highest Justice ˛Trad. LOZANO Anne-Elisabeth
+: .o .     N     _JOHNSON Alaya Dawn          "Love with Tears Us Apart" ˛2010 Love with Tears Us Apart ˛Trad. LOZANO Anne-Elisabeth
+: .o .     N     _NOVIK Naomi                 Test de puretÇ ˛2010 Purity Test ˛Trad. LOZANO Anne-Elisabeth
+: .o .     N     _RYAN Carrie                 BougainvillÇes [La Foràt des damnÇs] ˛2010 Bougainvillea ˛Trad. LOZANO Anne-Elisabeth
+: .o .     N     _LANAGAN Margo               Un millier de fleurs ˛2010 A Thousand Flowers ˛Trad. LOZANO Anne-Elisabeth
+: .o .     N     _JOHNSON Maureen             Les Enfants de la rÇvolution ˛2010 The Children fo the Revolution ˛Trad. LOZANO Anne-Elisabeth
+!--- sÇrie [Killer Unicorns] :
+: .o .     N     _PETERFREUND Diana           Prendre soin de son bÇbÇ licorne (tueuse) ˛2010 The Care and Feeding of Your Baby Killer Unicorn ˛Trad. LOZANO Anne-Elisabeth
+: .o .     N     _WESTERFELD Scott            Inoculata ˛2010 Inoculata ˛Trad. LOZANO Anne-Elisabeth
+: .o .     N     _CABOT Meg                   Princesse Petite-culotte ˛2010 Princess Prettypants ˛Trad. LOZANO Anne-Elisabeth
+: .o .     N     _CLARE Cassandra             Les Mains froides ˛2010 Cold Hands ˛Trad. LOZANO Anne-Elisabeth
+: .o .     N     _DUEY Kathleen               La Troisiäme Vierge ˛2010 The Third Virgin ˛Trad. LOZANO Anne-Elisabeth
+: .o .     N     _BRAY Libba                  Dernier bal ˛2010 Prom Night ˛Trad. LOZANO Anne-Elisabeth
+o FN_TERT     ?  2012.01 ..... ISBN 978-2-265-09413-0
+} noimg          _?                           ?
++ FN_TERT     ?  2013.01 ..... ISBN 978-2-265-09751-3
+} noimg          _?                           ?
+- .oF.     R     _SHEPARD Sara                Tu es moi [The Lying Game - 1] ˛2011 The Lying Game ˛Trad. TROIN Isabelle
+o FN_TERT     ?  2012.03 ..... ISBN 978-2-265-09114-6
+} noimg          _?                           ?
+- .oF.     R     _BLACK Holly                 Gant rouge [Les Faucheurs - 2] ˛2011 Red Glove ˛Trad. BREQUE Jean-Daniel
+o FN_TERT     ?  2012.04 ..... ISBN 978-2-265-09302-7
+} noimg          _?                           ?
+- .oF.     R     _WARMAN Jessica              Reste avec moi ˛2011 Between ˛Trad. CHARRIER Michelle
+o FN_TERT     ?  2012.06 ..... ISBN 978-2-265-09307-2
+} noimg          _Marco Tardito               ?
+- .oF.     R     _FFORDE Jasper               Jennifer Strange, dresseuses de Quarkons [Jennifer Strange - 2] ˛2011 The Song of the Quarkbeast ˛Trad. PAGEL Michel
+o FN_TERT     ?  2012.08 ..... ISBN 978-2-265-09411-6
+} noimg          _?                           ?
+- .oF.     R     _SHEPARD Sara                Ne jamais dire jamais [The Lying Game - 2] ˛2011 Never Have I Ever ˛Trad. TROIN Isabelle
+o FN_TERT     ?  2012.09 ..... ISBN 978-2-265-09652-3
+} noimg          _?                           ?
+- .oF.     R     _CHARLTON Blake              Magiciäre [Spell - 2] ˛2011 Spellbound ˛Trad. Thierry Arson
+o FN_TERT     ?  2012.10 ..... ISBN 978-2-265-09469-7
+} noimg          _?                           ?
+- .oF.     R     _KEATON Kelly                Le noir lui va si bien [Ari - 1] ˛2011 Darkness Becomes Her ˛Trad. MEJEAN-BERNAILLE Marie-HÇläne
+o FN_TERT     ?  2013.01 ..... ISBN 978-2-265-09414-7
+} noimg          _?                           ?
+- .oF.     R     _SHEPARD Sara                Action ou vÇritÇ [The Lying Game - 3] ˛2012 Two Truths and a Lie ˛Trad. TROIN Isabelle
+o FN_TERT     ?  2013.02 ..... ISBN 978-2-265-09115-3
+} noimg          _?                           ?
+- .oF.     R     _BLACK Holly                 Coeur noir [Les Faucheurs - 3] ˛2012 Black Heart ˛Trad. BREQUE Jean-Daniel
+o FN_TERT     ?  2012.05 ..... ISBN 978-2-265-09701-8
+} noimg          _?                           ?
+- .oF.     R     _KEATON Kelly                Belle et mortelle [Ari - 2] ˛2012 A Beautiful Evil ˛Trad. MEJEAN-BERNAILLE Marie-HÇläne
+o FN_TERT     ?  2013.08 ..... ISBN 978-2-265-09415-4
+} noimg          _?                           ?
+- .oF.     R     _SHEPARD Sara                Cache-Cache [The Lying Game - 4] ˛2012 Hide and Seek ˛Trad. TROIN Isabelle
+o FN_TERT     ?  2013.09 ..... ISBN 978-2-265-09681-3
+} noimg          _?                           ?
+- .oF.     R     _NEAL Isla                  &Mothership ˛2012 Ever-Expanding Universe: Mothership ˛Trad. FRANCOIS Guillaume
+&                _LEICHT Martin               
+o FN_TERT     ?  2013.10 ..... ISBN 978-2-265-09735-3
+} noimg          _?                           ?
+- .oF.     R     _WARMAN Jessica              Notre secret ˛2012 Beautiful Lies ˛Trad. TROIN Isabelle
+o FN_TERT     ?  2014.04 ..... ISBN 978-2-265-09822-0
+} noimg          _Milica Asjinovic + Michael Lorenzo
+- .oF.     R     _EE Susan                    Angelfall [Penryn et la fin du monde - 1] ˛2012 Angelfall ˛Trad. MAILLARD Alexandra
+o FN_TERT     ?  2014.06 ..... ISBN 978-2-265-09858-9
+} noimg          _?                           ?
+- .oF.     R     _KEATON Kelly                Diabolique [Ari - 3] ˛2013 The Wicked Within ˛Trad. MEJEAN-BERNAILLE Marie-HÇläne
+
+

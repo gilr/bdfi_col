@@ -1,0 +1,714 @@
+!-----------------------------------------------------------------------------
+!---                  Collection Jimmy Guieu
+!---    Editions Plon, Presses de la CitÇ, Vaigirard, Vauvenargues
+!---
+!--- Plon au dÇbut.
+!--- Le dÇpartement "Plon grande diffusion" est renommÇ "Presses de la citÇ"
+!--- fin 87, dÇbut 88
+!-----------------------------------------------------------------------------
+!-----------------------------------------------------------------------------
+_ GUI_PLO Plon, Jimmy Guieu
+_ GUI_PC  Presses de la CitÇ, Jimmy Guieu
+_ GUI_VGR Vaugirard, Jimmy Guieu
+_ GUI_VVN Vauvenargues, Jimmy Guieu
+!-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+!--- Plon
+!-----------------------------------------------------------------------------
+o GUI_PLO     1  1979.xx ..... ISBN 2-259-00511-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Au-delÖ de l'infini ˛1952
+o GUI_PLO     2  1979.xx ..... ISBN 2-259-00513-6
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Monstres du nÇant ˛1956
+o GUI_PLO     3  1979.xx ..... ISBN 2-259-00532-2
+} noimg          _?                           ?
++ GUI_PLO     3  1986.03 ..... ISBN 2-259-00532-2
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Invasion de la Terre ˛1952
+o GUI_PLO     4  1979.xx ..... ISBN 2-259-00548-9
+} noimg          _?                           ?
++ GUI_PLO     4  1987.07 ..... ISBN 2-259-00548-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les àtres de feu ˛1956
+o GUI_PLO     5  1980.xx ..... ISBN 2-259-00566-7
+} noimg          _?                           ?
++ GUI_PLO     5  1987.07 ..... ISBN 2-259-00566-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Hantise sur le monde ˛1953
+o GUI_PLO     6  1980.xx ..... ISBN 2-259-00581-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Convulsions solaires ˛1958
+o GUI_PLO     7  1980.xx ..... ISBN 2-259-00603-5
+} noimg          _?                           ?
++ GUI_PLO     7  1986.07 ..... ISBN 2-259-00603-5
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Univers vivant ˛1953
+o GUI_PLO     8  1980.xx ..... ISBN 2-259-00616-7
+} noimg          _?                           ?
++ GUI_PLO     8  1986.12 ..... ISBN 2-259-00616-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 RÇseau dinosaure ˛1958
+o GUI_PLO     9  1980.xx ..... ISBN 2-259-00639-6
+} noimg          _?                           ?
++ GUI_PLO     9  1986.12 ..... ISBN 2-259-00639-6
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Dimension X [Jean Kariven - 2] ˛1953
+o GUI_PLO    10  1980.xx ..... ISBN 2-259-00627-2
+} noimg          _?                           ?
++ GUI_PLO    10  1987.11 ..... ISBN 2-259-00627-2
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Chasseurs d'hommes ˛1960
+o GUI_PLO    11  1980.xx ..... ISBN 2-259-00685-X
+} noimg          _?                           ?
++ GUI_PLO    11  1987.11 ..... ISBN 2-259-00685-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Spirale du temps [Jean Kariven - 4] ˛1954
+o GUI_PLO    12  1981.xx ..... ISBN 2-259-00695-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Nous les martiens [Jean Kariven - 3] ˛1954
+o GUI_PLO    13  1981.xx ..... ISBN 2-259-00740-6
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Monde oubliÇ [Jean Kariven - 5] ˛1954
+o GUI_PLO    14  1981.xx ..... ISBN 2-259-00778-3
+} noimg          _?                           ?
+- .oS.     R     _GUIEU Jimmy                 Mission "T" ˛1963
+o GUI_PLO    15  1981.xx ..... ISBN 2-259-00796-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Homme de l'espace [Jean Kariven - 6] ˛1954
+o GUI_PLO    16  1981.xx ..... ISBN 2-259-00806-2
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'äre des biocybs ˛1960
+o GUI_PLO    17  1981.xx ..... ISBN 2-259-00827-5
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 OpÇration Aphrodite [Jean Kariven - 7] ˛1955
+o GUI_PLO    18  1981.xx ..... ISBN 2-259-00846-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 ExpÇrimental X-35 ˛1960
+o GUI_PLO    19  1981.xx ..... ISBN 2-259-00869-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Commandos de l'espace [Jean Kariven - 8] ˛1955
+o GUI_PLO    20  1982.xx ..... ISBN 2-259-00874-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Planäte en pÇril ˛1961
+o GUI_PLO    21  1982.xx ..... ISBN 2-259-00877-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Agonie du verre [Jean Kariven - 9] ˛1955
+o GUI_PLO    22  1982.xx ..... ISBN 2-259-00895-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Univers paralläles [Jean Kariven - 10] ˛1955
+o GUI_PLO    23  1982.xx ..... ISBN 2-259-00903-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Grande Çpouvante ˛1961
+o GUI_PLO    24  1982.xx ..... ISBN 2-259-00926-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Nos ancàtres de l'avenir [Jean Kariven - 11] ˛1956
+o GUI_PLO    25  1982.xx ..... ISBN 2-259-00953-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Invisible Alliance ˛1961
+o GUI_PLO    26  1982.xx ..... ISBN 2-259-00962-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Prisonniers du passÇ [Jean Kariven - 12] ˛1956
+o GUI_PLO    27  1982.xx ..... ISBN 2-259-00974-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Piäge dans l'espace [Blade & Baker - 1] ˛1959
+o GUI_PLO    28  1982.xx ..... ISBN 2-259-00988-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Portes de ThulÇ ˛1964
+o GUI_PLO    29  1983.xx ..... ISBN 2-259-00998-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Secret des Tshengz [Blade & Baker - 2] ˛1962
+o GUI_PLO    30  1983.xx ..... ISBN 2-259-00988-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Refuge cosmique ˛1968
+o GUI_PLO    31  1983.xx ..... ISBN 2-259-01042-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Demain l'apocalypse ˛1969
+o GUI_PLO    32  1983.xx ..... ISBN 2-259-01049-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Destructeurs [Blade & Baker - 4] ˛1963
+o GUI_PLO    33  1983.xx ..... ISBN 2-259-01066-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Forbans de l'espace [Blade & Baker - 3] ˛1963
+o GUI_PLO    34  1983.xx ..... ISBN 2-259-01082-2
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Mort de la vie ˛1957
+o GUI_PLO    35  1983.xx ..... ISBN 2-259-01091-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Joklun-N'Ghar la maudite [Blade & Baker - 5] ˛1968
+o GUI_PLO    36  1983.xx ..... ISBN 2-259-01095-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Rägne des mutants ˛1957
+o GUI_PLO    37  1984.xx ..... ISBN 2-259-01102-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Traquenard sur Kenndor [Blade & Baker - 6] ˛1969
+o GUI_PLO    38  1984.xx ..... ISBN 2-259-00998-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 CitÇ NoÇ n¯ 2 ˛1957
+o GUI_PLO    39  1984.xx ..... ISBN 2-259-01165-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Grand Mythe [Blade & Baker - 8] ˛1971
+o GUI_PLO    40  1984.xx ..... ISBN 2-259-01179-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Orgues de Satan [Blade & Baker - 7] ˛1971
+o GUI_PLO    41  1984.xx ..... ISBN 2-259-01185-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 ExpÇdition cosmique ˛1959
+o GUI_PLO    42  1984.xx ..... ISBN 2-259-01205-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Cristaux de Capella ˛1959
+o GUI_PLO    43  1984.xx ..... ISBN 2-259-01214-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Maåtres de la galaxie [Blade & Baker - 9] ˛1972
+o GUI_PLO    44  1985.xx ..... ISBN 2-259-01239-6
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 OpÇration Ozma ˛1962
+o GUI_PLO    45  1985.xx ..... ISBN 2-259-01246-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les RescapÇs du nÇant [Blade & Baker - 10] ˛1972
+o GUI_PLO    46  1985.xx ..... ISBN 2-259-01298-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Ége noir de la Terre ˛1962
+o GUI_PLO    47  1985.xx ..... ISBN 2-259-01304-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'ExilÇ de Xantar [Blade & Baker - 11] ˛1974
+o GUI_PLO    48  1985.xx ..... ISBN 2-259-01335-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Retour des dieux [Les Chevaliers de lumiäre - 1] ˛1967
+o GUI_PLO    49  1985.xx ..... ISBN 2-259-01346-5
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Piäges de Koondra [Blade & Baker - 12] ˛1975
+o GUI_PLO    50  1986.xx ..... ISBN 2-259-01351-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Sept Sceaux du cosmos [Les Chevaliers de lumiäre - 2] ˛1968
+o GUI_PLO    51  1986.xx ..... ISBN 2-259-01378-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Fugitifs de Zwolna [Blade & Baker - 13] ˛1975
+o GUI_PLO    52  1986.xx ..... ISBN 2-259-01390-2
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Terreur invisible [Les Chevaliers de lumiäre - 3] ˛1968
+o GUI_PLO    53  1986.xx ..... ISBN 2-259-01459-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Bouclier de Boongoha [Blade & Baker - 14] ˛1976
+o GUI_PLO    54  1986.xx ..... ISBN 2-259-01469-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Ordre vert [Les Chevaliers de lumiäre - 4] ˛1969
+o GUI_PLO    55  1986.xx ..... ISBN 2-259-01491-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Triangle de la mort [Les Chevaliers de lumiäre - 5] ˛1970
+o GUI_PLO    56  1987.xx ..... ISBN 2-259-01517-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 CrÇature des neiges ˛1957-1987
+o GUI_PLO    57  1987.xx ..... ISBN 2-259-01561-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Force sans visage ˛1958
+o GUI_PLO    58  1987.xx ..... ISBN 2-259-01590-5
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Colonie perdue [Blade & Baker - 15] ˛1976
+o GUI_PLO    59  1987.xx ..... ISBN 2-259-01600-6
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Plan catapulte [Les Chevaliers de lumiäre - 6] ˛1970
+o GUI_PLO    60  1987.xx ..... ISBN 2-259-01626-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Voix qui venait d'ailleurs [Les Chevaliers de lumiäre - 7] ˛1971
+o GUI_PLO    61  1987.xx ..... ISBN 2-259-01674-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Charniäre du temps [Les Chevaliers de lumiäre - 8] ˛1971
+o GUI_PLO    62  1987.xx ..... ISBN 2-259-01808-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les LÇgions de Bartzouk [Blade & Baker - 16] ˛1977
+
+!-----------------------------------------------------------------------------
+!--- Presses de la CitÇ
+!-----------------------------------------------------------------------------
+o GUI_PC     63  1987.xx ..... ISBN 2-258-02166-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Enjeu cosmique [Les Chevaliers de lumiäre - 9] ˛1972
+o GUI_PC     64  1987.xx ..... ISBN 2-258-02177-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Mission effacÇe [Les Chevaliers de lumiäre - 10] ˛1973
+o GUI_PC     65  1987.xx ..... ISBN 2-258-02263-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 OpÇration Neptune [Les Chevaliers de lumiäre - 11] ˛1973
+o GUI_PC     66  1988.xx ..... ISBN 2-258-02271-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Germes du chaos [Les Chevaliers de lumiäre - 12] ˛1973
+o GUI_PC     67  1988.xx ..... ISBN 2-258-02397-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Veilleurs de PosÇidon [Les Chevaliers de lumiäre - 13] ˛1974
+o GUI_PC     68  1988.xx ..... ISBN 2-258-02518-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Maåtre du temps [Les Chevaliers de lumiäre - 14] ˛1974
+o GUI_PC     69  1988.xx ..... ISBN 2-258-02766-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Manipulations psi [Les Chevaliers de lumiäre - 15] ˛1975
+o GUI_PC     70  1989.xx ..... ISBN 2-258-02802-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Krolls de Vorlna [Les Chevaliers de lumiäre - 16] ˛1975
+o GUI_PC     71  1989.xx ..... ISBN 2-258-02839-6
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Stase achronique [Les Chevaliers de lumiäre - 17] ˛1976
+o GUI_PC     72  1989.xx ..... ISBN 2-258-02848-5
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Oniria ˛1962
+o GUI_PC     73  1989.xx ..... ISBN 2-258-03046-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Lumiäre de Thot [Les Chevaliers de lumiäre - 18] ˛1977
+o GUI_PC     74  1989.xx ..... ISBN 2-258-03066-8
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Yeux de l'Çpouvante [Les Chevaliers de lumiäre - 19] ˛1978
+
+!-----------------------------------------------------------------------------
+!--- RÇÇditions Presses de la CitÇ
+!-----------------------------------------------------------------------------
+o GUI_PC     12  1988.07 ..... ISBN 2-258-02296-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Nous les martiens [Jean Kariven - 3] ˛1954
+o GUI_PC     13  1988.07 ..... ISBN 2-258-02297-5
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Monde oubliÇ [Jean Kariven - 5] ˛1954
+o GUI_PC     14  1988.12 ..... ISBN 2-258-02677-6
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Mission "T" ˛1963
+o GUI_PC     15  1988.12 ..... ISBN 2-258-02678-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Homme de l'espace [Jean Kariven - 6] ˛1954
+o GUI_PC     16  1989.07 ..... ISBN 2-258-03029-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'äre des biocybs ˛1960
+o GUI_PC     17  1989.07 ..... ISBN 2-258-03030-7
+} noimg          _?                           ?
+- .oS.     R     _GUIEU Jimmy                 OpÇration Aphrodite [Jean Kariven - 7] ˛1955
+o GUI_PC     18  1989.12 ..... ISBN 2-258-03233-4
+} noimg          _?                           ?
+- .oS.     R     _GUIEU Jimmy                 ExpÇrimental X-35 ˛1960
+o GUI_PC     19  1989.12 ..... ISBN 2-258-03232-6
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Commandos de l'espace [Jean Kariven - 8] ˛1955
+o GUI_PC     29  1990.xx ..... ISBN 2-258-00852-2
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Secret des Tshengz [Blade & Baker - 2] ˛1962
+
+!-----------------------------------------------------------------------------
+!--- Vaugirard
+!-----------------------------------------------------------------------------
+o GUI_VGR    75  1990.xx ..... ISBN 2-285-00116-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La ClÇ du mandala [Les Chevaliers de lumiäre - 21] ˛1980
+o GUI_VGR    76  1990.xx ..... ISBN 2-285-00140-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 HiÇroush, la planäte promise [Les Chevaliers de lumiäre - 20] ˛1979
+o GUI_VGR    77  1990.xx ..... ISBN 2-285-00166-5
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Rayon du cube ˛1957
+o GUI_VGR    78  1990.xx ..... ISBN 2-285-00173-8
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Sphäres de Rapa-Nui ˛1960
+o GUI_VGR    79  1990.xx ..... ISBN 2-285-00353-6
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Caverne du futur ˛1961
+o GUI_VGR    80  1990.xx ..... ISBN 2-285-00360-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Projet King ˛1963
+o GUI_VGR    81  1991.xx ..... ISBN 2-285-00485-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Trafic interstellaire [Blade & Baker - 17] ˛1961-1991
+o GUI_VGR    82  1991.xx ..... ISBN 2-285-00486-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Arche du temps ˛1970
+o GUI_VGR    83  1991.xx ..... ISBN 2-285-00663-2
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Fils du serpent [Les Chevaliers de lumiäre - 22] ˛1984
+o GUI_VGR    84  1991.xx ..... ISBN 2-285-00648-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Pionnier de l'atome [Jean Kariven - 1] ˛1951
+o GUI_VGR    85  1991.xx ..... ISBN 2-285-00716-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Echec aux vÇgans ˛1962
+o GUI_VGR    86  1992.xx ..... ISBN 2-285-00728-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Spoutnik VII a disparu ˛1960
+o GUI_VGR    87  1992.xx ..... ISBN 2-285-00814-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Magie rouge [Les Chevaliers de lumiäre - 33] ˛1992
+o GUI_VGR    88  1992.xx ..... ISBN 2-285-00813-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Rebelles de N'Harangho [Blade & Baker - 18] ˛1992
+o GUI_VGR    89  1992.xx ..... ISBN 2-285-00924-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Le Serpent Dieu de Joklun-N'Ghar [Blade & Baker - 19] ˛1992
+&                _WOLFRAM Richard             
+o GUI_VGR    90  1992.xx ..... ISBN 2-285-00998-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Le Poison de Thogar'Min [Blade & Baker - 20] ˛1992
+&                _GREY S.                     
+o GUI_VGR    91  1993.xx ..... ISBN 2-285-01007-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Les Maudits d'Hertzvane [Blade & Baker - 21] ˛1993
+&                _RANDA Philippe             &
+&                _GAUTHIER Nicolas            
+o GUI_VGR    92  1993.xx ..... ISBN 2-285-01025-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Les Albinos de SulifÅss [Blade & Baker - 22] ˛1993
+&                _WOLFRAM Richard             
+o GUI_VGR    93  1993.xx ..... ISBN 2-285-01175-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Les NaufragÇs du temps [Blade & Baker - 23] ˛1993
+&                _RANDA Philippe             &
+&                _GAUTHIER Nicolas            
+o GUI_VGR    94  1994.xx ..... ISBN 2-265-00113-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Captifs de la Main Rouge [Blade & Baker - 24] ˛1994
+&                _WOLFRAM Richard             
+o GUI_VGR    95  1994.xx ..... ISBN 2-265-00305-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Echec au destin [Blade & Baker - 25] ˛1994
+&                _WOLFRAM Richard             
+o GUI_VGR    96  1994.xx ..... ISBN 2-265-00404-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Force noire [Les Chevaliers de lumiäre - 23] ˛1988-1994
+o GUI_VGR    97  1994.xx ..... ISBN 2-265-00304-2
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Les Magiciens des mondes oubliÇs [Blade & Baker - 26] ˛1994
+&                _WOLFRAM Richard             
+o GUI_VGR    98  1994.xx ..... ISBN 2-265-05187-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Terreur venue du nÇant [Les Chevaliers de lumiäre - 25] ˛1988-1994
+o GUI_VGR    99  1994.xx ..... ISBN 2-265-05141-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &L'Ombre du dragon rouge [Blade & Baker - 27] ˛1994
+&                _WOLFRAM Richard             
+o GUI_VGR   100  1995.xx ..... ISBN 2-265-05343-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Le Maåtre de la Main Rouge [Blade & Baker - 28] ˛1995
+&                _WOLFRAM Richard             
+o GUI_VGR   101  1995.xx ..... ISBN 2-265-05429-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Narkoum : finances rouges [Les Chevaliers de lumiäre - 26] ˛1989-1995
+o GUI_VGR   102  1995.xx ..... ISBN 2-265-05412-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Les Brumes de Joklun-N'Ghar [Blade & Baker - 29] ˛1995
+&                _WOLFRAM Richard             
+o GUI_VGR   103  1995.xx ..... ISBN 2-265-05616-2
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Les Voleurs de dieux [Blade & Baker - 30] ˛1995
+&                _MAYA Chris                  
+o GUI_VGR   104  1995.xx ..... ISBN 2-265-05673-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Plan d'extermination [Les Chevaliers de lumiäre - 27] ˛1989-1995
+o GUI_VGR   105  1995.xx ..... ISBN 2-265-05651-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Flammes sur Batoog [Blade & Baker - 31] ˛1995
+&                _WOLFRAM Richard             
+o GUI_VGR   106  1996.xx ..... ISBN 2-265-05744-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Au coeur de Kenndor ˛1996
+&                _WOLFRAM Richard             
+o GUI_VGR   107  1996.xx ..... ISBN 2-265-05657-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 RÇseau Alpha [Les Chevaliers de lumiäre - 28] ˛1989-1996
+o GUI_VGR   108  1996.xx ..... ISBN 2-265-05775-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &La Fin de Gondwana [Blade & Baker - 32] ˛1996
+&                _WOLFRAM Richard             
+o GUI_VGR   109  1996.xx ..... ISBN 2-265-05776-2
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'HÇritage de NoÇ [Les Chevaliers de lumiäre - 29] ˛1989-1996
+
+!-----------------------------------------------------------------------------
+!--- RÇÇditions Vaugirard
+!-----------------------------------------------------------------------------
+o GUI_VGR    20  1990.07 ..... ISBN 2-285-00332-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Planäte en pÇril ˛1961
+o GUI_VGR    21  1990.07 ..... ISBN 2-285-00331-5
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Agonie du verre [Jean Kariven - 9] ˛1955
+o GUI_VGR    22  1990.12 ..... ISBN 2-285-00381-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Univers paralläles [Jean Kariven - 10] ˛1955
+o GUI_VGR    23  1990.12 ..... ISBN 2-285-00382-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Grande Çpouvante ˛1961
+o GUI_VGR    24  1991.07 ..... ISBN 2-285-00710-8
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Nos ancàtres de l'avenir [Jean Kariven - 11] ˛1956
+o GUI_VGR    25  1991.07 ..... ISBN 2-285-00711-6
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Invisible Alliance ˛1961
+o GUI_VGR    26  1991.xx ..... ISBN 2-285-00786-8
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Prisonniers du passÇ [Jean Kariven - 12] ˛1956
+o GUI_VGR    27  1991.12 ..... ISBN 2-285-00785-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Piäge dans l'espace [Blade & Baker - 1] ˛1959
+o GUI_VGR    28  1992.07 ..... ISBN 2-285-00851-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Portes de ThulÇ ˛1964
+o GUI_VGR    29  1992.xx ..... ISBN 2-285-00852-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Secret des Tshengz [Blade & Baker - 2] ˛1962
+o GUI_VGR    30  1992.11 ..... ISBN 2-285-00952-6
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Refuge cosmique ˛1968
+o GUI_VGR    31  1992.11 ..... ISBN 2-285-00953-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Demain l'apocalypse ˛1969
+o GUI_VGR    33  1993.11 ..... ISBN 2-285-01049-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Forbans de l'espace [Blade & Baker - 3] ˛1963
+o GUI_VGR    34  1993.11 ..... ISBN 2-285-01174-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Mort de la vie ˛1957
+o GUI_VGR    32  1994.02 ..... ISBN 2-285-01048-6
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Destructeurs [Blade & Baker - 4] ˛1963
+o GUI_VGR    35  1994.02 ..... ISBN 2-285-01173-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Joklun-N'Ghar la maudite [Blade & Baker - 5] ˛1968
+o GUI_VGR    36  1994.02 ..... ISBN 2-285-00303-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Rägne des mutants ˛1957
+o GUI_VGR    37  1994.12 ..... ISBN 2-285-05328-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Traquenard sur Kenndor [Blade & Baker - 6] ˛1969
+o GUI_VGR    38  1994.12 ..... ISBN 2-285-05329-5
+} noimg          _?                           ?
+- .oS.     R     _GUIEU Jimmy                 CitÇ NoÇ n¯ 2 ˛1957
+o GUI_VGR    39  1995.06 ..... ISBN 2-285-05543-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Grand Mythe [Blade & Baker - 8] ˛1971
+o GUI_VGR    40  1995.06 ..... ISBN 2-285-05544-1
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Orgues de Satan [Blade & Baker - 7] ˛1971
+o GUI_VGR    41  1995.12 ..... ISBN 2-285-05658-8
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 ExpÇdition cosmique ˛1959
+o GUI_VGR    42  1995.12 ..... ISBN 2-285-05657-X
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Cristaux de Capella ˛1959
+
+!-----------------------------------------------------------------------------
+!--- Vauvenargues
+!-----------------------------------------------------------------------------
+o GUI_VVN   110  1996.xx ..... ISBN 2-7443-0004-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Embuscade sur Eileena [Blade & Baker - 33] ˛1996
+&                _WOLFRAM Richard             
+o GUI_VVN   111  1996.xx ..... ISBN 2-7443-0018-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &L'Offensive de Frotegs [Blade & Baker - 34] ˛1996
+&                _WOLFRAM Richard             
+o GUI_VVN   112  1997.xx ..... ISBN 2-7443-0028-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Sentiers invisibles [Les Chevaliers de lumiäre - 30] ˛1990-1997
+
+o GUI_VVN   113  1997.xx ..... ISBN 2-7443-0037-3
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &L'Alliance des invincibles [Blade & Baker - 35] ˛1997
+&                _WOLFRAM Richard             
+o GUI_VVN   114  1997.xx ..... ISBN 2-7443-0048-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Empire des tÇnäbres [Les Chevaliers de lumiäre - 31] ˛1990-1997
+o GUI_VVN   115  1997.xx ..... ISBN 2-7443-0059-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &La Planäte sans nom [Blade & Baker - 36] ˛1997
+&                _WOLFRAM Richard             
+o GUI_VVN   116  1997.xx ..... ISBN 2-7443-0074-8
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Piäge du Val Maudit [Les Chevaliers de lumiäre - 32] ˛1991-1997
+o GUI_VVN   117  1997.xx ..... ISBN 2-7443-0084-5
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Panique sur Wondlak [Blade & Baker - 37] ˛1997
+&                _WOLFRAM Richard             
+o GUI_VVN   118  1998.xx ..... ISBN 2-7443-0101-9
+} noimg          _?                           ?
+- .o .     R     _DALRUNE Arnaud              Les Brumes de L'effroi [Les Chevaliers de lumiäre - 34] ˛1998
+o GUI_VVN   119  1998.xx ..... ISBN 2-7443-0116-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                &Les Prisonniers de Bangor [Blade & Baker - 38] ˛1998
+&                _WOLFRAM Richard             
+o GUI_VVN   120  1998.xx ..... ISBN 2-7443-0131-0
+} noimg          _?                           ?
+- .o .     R     _DALRUNE Arnaud              Ankou : la vengeance d'Ys [Les Chevaliers de lumiäre - 35] ˛1998
+o GUI_VVN   121  1998.xx ..... ISBN 2-7443-0147-7
+} noimg          _?                           ?
+- .o .     R     _WOLFRAM Richard            &Conjuration sur Jocklun n'Ghar [Blade & Baker - 39] ˛1998
+&                _GALLART RÇmy                
+o GUI_VVN   122  1998.xx ..... ISBN 2-7443-0160-4
+} noimg          _?                           ?
+- .o .     R     _DALRUNE Arnaud              Enez Bel : le rÇveil de Gradlon [Les Chevaliers de lumiäre - 36] ˛1998
+o GUI_VVN   123  1998.xx ..... ISBN 2-7443-0187-6
+} noimg          _?                           ?
+- .o .     R     _WOLFRAM Richard            &L'Çtoile aux cent planätes [Blade & Baker - 40] ˛1998
+&                _GALLART RÇmy                
+o GUI_VVN   124  1999.xx ..... ISBN 2-7443-0R225-2
+} noimg          _?                           ?
+- .o .     R     _DALRUNE Arnaud              Les Revenants de l'aube dorÇe [Les Chevaliers de lumiäre - 37] ˛1999
+o GUI_VVN   125  1999.xx ..... ISBN 2-7443-0248-1
+} noimg          _?                           ?
+- .o .     R     _WOLFRAM Richard            &Sur l'aile du dragon [Blade & Baker - 41] ˛1999
+&                _GALLART RÇmy                
+o GUI_VVN   126  1999.xx ..... ISBN 2-7443-0269-4
+} noimg          _?                           ?
+- .o .     R     _DALRUNE Arnaud              Rosslyn : la crypte des templiers [Les Chevaliers de lumiäre - 38] ˛1999
+o GUI_VVN   127  1999.xx ..... ISBN 2-7443-0290-2
+} noimg          _?                           ?
+- .o .     R     _WALHART Frank               Les Mousquetaires de Terniog 2 [Blade & Baker - 42] ˛1999
+o GUI_VVN   128  1999.xx ..... ISBN 2-7443-0321-6
+} noimg          _?                           ?
+- .o .     R     _DALRUNE Arnaud              Les Visiteurs du suaire [Les Chevaliers de lumiäre - 39] ˛1999
+o GUI_VVN   129  2000.xx ..... ISBN 2-7443-0345-3
+} noimg          _?                           ?
+- .o .     R     _WALHART Frank               Les Templiers des Çtoiles [Blade & Baker - 43] ˛2000
+o GUI_VVN   130  2000.xx ..... ISBN 2-7443-0414-X
+} noimg          _?                           ?
+- .o .     R     _WALHART Frank               Les Ravisseurs de Ktan [Blade & Baker - 44] ˛2000
+o GUI_VVN   131  2000.xx ..... ISBN 2-7443-0415-8
+} noimg          _?                           ?
+- .o .     R     _DALRUNE Arnaud              La Mort d'un maåtre [Les Chevaliers de lumiäre - 40] ˛2000
+o GUI_VVN   132  2000.xx ..... ISBN 2-7443-0416-6
+} noimg          _?                           ?
+- .o .     R     _WALHART Frank               La Fugitive de Z'Lanna [Blade & Baker - 45] ˛2000
+o GUI_VVN   133  2000.xx ..... ISBN 2-7443-0417-4
+} noimg          _?                           ?
+- .o .     R     _DALRUNE Arnaud              Le Vol AF54679 ne rÇpond plus [Les Chevaliers de lumiäre - 41] ˛2000
+o GUI_VVN   134  2000.xx ..... ISBN 2-7443-0419-0
+} noimg          _?                           ?
+- .o .     R     _WALHART Frank              &La Guerre des Çpices [Blade & Baker - 46] ˛2000
+&                _WOLFRAM Richard             
+o GUI_VVN   135  2001.xx ..... ISBN 2-7443-0591-X
+} noimg          _?                           ?
+- .o .     R     _DALRUNE Arnaud              Novak contre Novak [Les Chevaliers de lumiäre - 42] ˛2001
+o GUI_VVN   136  2001.xx ..... ISBN 2-7443-0592-8
+} noimg          _?                           ?
+- .o .     R     _WALHART Frank               La Planäte BÇrÇzina [Blade & Baker - 47] ˛2001
+o GUI_VVN   137  2001.xx ..... ISBN 2-7443-0593-6
+} noimg          _?                           ?
+- .o .     R     _DALRUNE Arnaud              Les LÇgions du Päre Noâl [Les Chevaliers de lumiäre - 43] ˛2001
+o GUI_VVN   138  2001.xx ..... ISBN 2-7443-0594-4
+} noimg          _?                           ?
+- .oS.     R     _ESSEM Frank                &Les Zhelfes de Thanos [Blade & Baker - 48] ˛2001
+&                _WALHART Frank              &
+&                _WOLFRAM Richard             
+o GUI_VVN   139  2001.xx ..... ISBN 2-7443-0595-2
+} noimg          _?                           ?
+- .oS.     R     _DALRUNE Arnaud              Les HÇros de la toison d'or [Les Chevaliers de lumiäre - 44] ˛2001
+o GUI_VVN   140  2001.xx ..... ISBN 2-7443-0596-0
+} noimg          _?                           ?
+- .oS.     R     _WALHART Frank               Les Banquets de Gh'Urrmandhia [Blade & Baker - 49] ˛2001
+o GUI_VVN   141  2002.xx ..... ISBN 2-7443-0727-0
+} noimg          _?                           ?
+- .oS.     R     _DALRUNE Arnaud              Le Sacrifice du grand cerf [Les Chevaliers de lumiäre - 45] ˛2002
+o GUI_VVN   142  2002.xx ..... ISBN 2-7443-0728-9
+} noimg          _?                           ?
+- .oS.     R     _WALHART Frank               Les Marchands d'esclaves de Brusshnaã [Blade & Baker - 50] ˛2001
+o GUI_VVN   143  2002.xx ..... ISBN 2-7443-0729-7
+} noimg          _?                           ?
+- .oS.     R     _DALRUNE Arnaud              Le Jeu de la mort [Les Chevaliers de lumiäre - 46] ˛2002
+!--- Rectificatif de l'Çditeur : Pas WALHART, mais DALRUNE
+o GUI_VVN   144  2002.xx ..... ISBN 2-7443-0730-0
+} noimg          _?                           ?
+- .oS.     R     _WALHART Frank               Les Maåtres sculpteurs de KÅndest [Blade & Baker - 51] ˛2002
+o GUI_VVN   145  2002.xx ..... ISBN 2-7443-0731-9
+} noimg          _?                           ?
+- .oS.     R     _DALRUNE Arnaud              Arcana Arcanorum [Les Chevaliers de lumiäre - 47] ˛2002
+o GUI_VVN   146  2002.xx ..... ISBN 2-7443-0732-7
+} noimg          _?                           ?
+- .oS.     R     _ESSEM Frank                &Le Satellite des olympiades [Blade & Baker - 52] ˛2002
+&                _WALHART Frank               
+o GUI_VVN   147  2003.xx ..... ISBN 2-7443-0781-5
+} noimg          _?                           ?
+- .oS.     R     _DALRUNE Arnaud              Ecce Homo [Les Chevaliers de lumiäre - 48] ˛2003
+o GUI_VVN   148  2003.xx ..... ISBN 2-7443-0782-3
+} noimg          _?                           ?
+- .oS.     R     _WALHART Frank               La Jonque cÇleste de Pa'Kang [Blade & Baker - 53] ˛2003
+o GUI_VVN   149  2003.xx ..... ISBN 2-7443-0783-1
+} noimg          _?                           ?
+- .oS.     R     _DALRUNE Arnaud              Les Fräres rouges de Mortemer [Les Chevaliers de lumiäre - 49] ˛2003
+o GUI_VVN   150  2003.xx ..... ISBN 2-7443-0784-X
+} noimg          _?                           ?
+- .oS.     R     _ESSEM Frank                &L'Athanor gÇnÇral de Zodiann [Blade & Baker - 54] ˛2003
+&                _WALHART Frank               
+o GUI_VVN   151  2003.09 ..... ISBN 2-7443-0785-8
+} noimg          _?                           ?
+- .oS.     R     _DALRUNE Arnaud              Cauchemar aux Seychelles [Les Chevaliers de lumiäre - 50] ˛2003
+o GUI_VVN   152  2003.11 ..... ISBN 2-7443-0786-6
+} noimg          _?                           ?
+- .oS.     R     _WALHART Frank               CompÇtition autour de Zandharr [Blade & Baker - 55] ˛2003
+!--- TBD 153 ?
+!--- TBD 154 ?
+!--- AnnoncÇ mais non paru :
+?o GUI_VVN   155  2004.02 ..... ISBN 2-7443-0903-6
+?} noimg          _?                           ?
+?- .oS.     R     _GUIEU Jimmy                 Voyage au bout de l'enfer ˛2004
+
+!-----------------------------------------------------------------------------
+!--- RÇÇditions Vauvenargues
+!-----------------------------------------------------------------------------
+o GUI_VVN     1  1999.xx ..... ISBN 2-7443-0313-5
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Au-delÖ de l'infini ˛1952
+o GUI_VVN     2  1999.xx ..... ISBN 2-7443-0355-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les Monstres du nÇant ˛1956
+o GUI_VVN     3  2000.xx ..... ISBN 2-7443-0361-5
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Invasion de la Terre ˛1952
+o GUI_VVN     4  2000.xx ..... ISBN 2-7443-0420-4
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Les àtres de feu ˛1956
+o GUI_VVN     5  2000.xx ..... ISBN 2-7443-0421-2
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Hantise sur le monde ˛1953
+o GUI_VVN     6  2001.04 ..... ISBN 2-7443-0597-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Convulsions solaires ˛1958
+o GUI_VVN     7  2001.10 ..... ISBN 2-7443-0598-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 L'Univers vivant ˛1953
+o GUI_VVN     8  2002.xx ..... ISBN 2-7443-0764-5
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 RÇseau dinosaure ˛1958
+o GUI_VVN     9  2002.xx ..... ISBN 2-7443-0768-8
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Dimension X [Jean Kariven - 2] ˛1953
+o GUI_VVN    10  2003.03 ..... ISBN 2-7443-0866-8
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Chasseurs d'hommes ˛1960
+o GUI_VVN    11  2003.10 ..... ISBN 2-7443-0869-2
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 La Spirale du temps [Jean Kariven - 4] ˛1954
+o GUI_VVN    12  2003.11 ..... ISBN 2-7443-0985-0
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Nous les martiens [Jean Kariven - 3] ˛1954
+o GUI_VVN    13  2003.11 ..... ISBN 2-7443-0986-9
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Le Monde oubliÇ [Jean Kariven - 5] ˛1954
+o GUI_VVN    14  2005.01 ..... ISBN 2-7443-1136-7
+} noimg          _?                           ?
+- .o .     R     _GUIEU Jimmy                 Mission "T" ˛1963
+o GUI_VVN    15  2005.05 ..... ISBN 2-7443-1137-5
+} noimg          _?                           ?
+- .oS.     R     _GUIEU Jimmy                 L'Homme de l'espace [Jean Kariven - 6] ˛1954
+o GUI_VVN    16  2005.08 ..... ISBN 2-7443-1138-3
+} noimg          _?                           ?
+- .oS.     R     _GUIEU Jimmy                 L'äre des biocybs ˛1960
+o GUI_VVN    17  2005.09 ..... ISBN 2-7443-1139-1
+} noimg          _?                           ?
+- .oS.     R     _GUIEU Jimmy                 OpÇration Aphrodite [Jean Kariven - 7] ˛1955
+o GUI_VVN    18  2006.02 ..... ISBN 2-7443-1308-4
+} noimg          _?                           ?
+- .oS.     R     _GUIEU Jimmy                 ExpÇrimental X-35 ˛1960
+o GUI_VVN    19  2006.04 ..... ISBN 2-7443-1309-2
+} noimg          _?                           ?
+- .oS.     R     _GUIEU Jimmy                 Commandos de l'espace [Jean Kariven - 8] ˛1955
+o GUI_VVN    20  2006.08 ..... ISBN 2-7443-1310-6
+} noimg          _?                           ?
+- .oS.     R     _GUIEU Jimmy                 Planäte en pÇril ˛1961
+o GUI_VVN    21  2006.09 ..... ISBN 2-7443-1311-4
+} noimg          _?                           ?
+- .oS.     R     _GUIEU Jimmy                 L'Agonie du verre [Jean Kariven - 9] ˛1955
+
+

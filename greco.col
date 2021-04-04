@@ -1,0 +1,49 @@
+
+!DEB_HEAD GRECO
+!TIT_COLL Hantises
+!-----------------------------------------------------------------------------
+_ GRECO   Ed. Greco, Coll. "Hantises"
+!-----------------------------------------------------------------------------
+!--- Collection ultra-‚ph‚mŠre de fantastique, lanc‚e avec effusion dans les
+!--. catalogues de VPC des ‚ditions N‚o … la fin de l'ann‚e 1989.
+!--- Directeur de collection : Fran‡ois Truchaud
+!-----------------------------------------------------------------------------
+!FIN_HEAD GRECO
+!DEB_COLL GRECO
+o GRECO       1  1989.11 ..... ISBN 2-7396-0008-9
+} greco_hant1    _?                           N
+- .oFT    _N15   _ETCHISON Dennis             Rˆves de sang þ1989 þTrad. KAPLAN Sylviane
+!--- 7 nouvelles extraites de "Red dreams", 1984,  et 9 de "The blood kiss", 1988
+: .o .     N     _ETCHISON Dennis             Conversation dans le noir þ1984 Talking in the Dark þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             Saison humide þ1965 Wet Season þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             J'entends le noir þ1978 I Can Hear the Dark þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             Le Blues du cimetiŠre þ1974 The Graveyard Blues þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             Lune blanche þ1977 White Moon Rising þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             Frisson þ1984 The Chill þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             L'Odeur de la mort þ1971 The Smell of Death þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             Appelez 666 þ1988 Call 666 þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             Un endroit calme et ombrag‚ þ1964 A Nice, Shady Place þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             La Femme en noir þ1984 The Woman in Black þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             La Nuit de l'oeil þ1970 The Night of the Eye þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             Le Mur moelleux þ1974 The Soft Wall þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             Quelqu'un comme toi þ1984 Somebody Like You þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             Le Coureur olympique þ1986 The Olympic Runner þTrad. KAPLAN Sylviane
+: .o .     N     _ETCHISON Dennis             Espace mort þ1991 Deadspace þTrad. KAPLAN Sylviane
+o GRECO       2  1989.11 ..... ISBN 2-7396-0010-0
+} greco_hant2    _?                           N
+- .oFT    _RN2   _McDOWELL Michael            Toplin þ1985 Toplin þTrad. MARCEL Patrick
+: .oT.     R     _McDOWELL Michael            Toplin þ1985 Toplin þTrad. MARCEL Patrick
+: .oT.     N     _McDOWELL Michael            Miss Mack þ1986 Miss Mack þTrad. MARCEL Patrick
+: .oT.     N     _McDOWELL Michael            Au d‚clin de Halley þ1987 Halley's Passing þTrad. MARCEL Patrick
+o GRECO       3  1989.11 ..... ISBN 2-7396-0009-7
+} greco_hant3    _?                           N
+- .oF.     R     _TESSIER Thomas              Fant“me þ1982 Phantom þTrad. MARCEL Patrick
+!--- Les ouvrages suivants furent pr‚vus mais jamais ‚dit‚s :
+­o GRECO       4  19??.xx ..... ISBN -
+­} noimg          _?                           ?
+­- .oF.     .     _MATHESON Richard            Cicatrices þ? ?
+­o GRECO       5  19??.xx ..... ISBN -
+­} noimg          _?                           ?
+­- .oF.     .     _LANSDALE Joe R.             Les D‚mons de la nuit þ? ?
+!FIN_COLL GRECO
+

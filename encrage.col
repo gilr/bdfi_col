@@ -1,0 +1,660 @@
+!-----------------------------------------------------------------------------
+!---              Encrage
+!--- Fondateur : ALFU (Alain Fuzellier)
+!-----------------------------------------------------------------------------
+!-----------------------------------------------------------------------------
+_ ENCR    Encrage
+_ ENCP    Encrage, Coll. Pulps
+_ ENCT    Encrage, Coll. Travaux
+_ ENCB    Encrage, Coll. Travaux bis
+_ ENCE    Encrage, Coll. Effrois
+_ ENCA    Encrage, Coll. Pulsar
+_ ENCF    Encrage, Coll. R‚f‚rences
+_ ENCO    Encrage, Coll. Portraits
+_ ENCC    Encrage, Coll. Classiques
+_ ENCU    Encrage, Coll. Utopie
+_ ENCRA_I Encrage, Coll. Interface
+!-----------------------------------------------------------------------------
+
+o ENCR        ?  1996.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _ECKEN Claude                Auditions coupables þ1988
+o ENCR        ?  2010.05 ..... ISBN 978-2-251-74243-4
+} noimg          _?                           ?
+- .oF.     E     _HUFTIER Arnaud              Jean Ray, l'alchimie du mystŠre þ2010
+
+!--- Pulps
+!-----------------------------------------------------------------------------
+o ENCP        1  1986.xx ..... ISBN 2-906389-00-5
+}encrage_pulps01 _?                           ?
+- .xP.     A8    *BOURGOIN St‚phane           Le Nain assassin‚ þ1986
+: .x .     N     _BROWN Fredric               La mort est un lapin blanc þ1942 Death Is a White Rabbit
+: .! .     N     _SHAY Reuben Jennings        Prendre son temps þ1931 Taking His Time
+: .! .     N     _DAVIS Norbert               L'Oie rouge þ1934 Red goose
+: .! .     N     _WECK Philip                 Gare aux petits hommes ! þ1949 Leave it to the little men!
+: .! .     N     _ORMEAUX J.J. des            Le Diable en habit þ1932 The devil suit
+!--- (Forrest Rosaire)
+: .! .     N     _CHAMPION D.L.               Le Nain assassin‚ þ? The day nobody died
+: .! .     N     _FISHER Steve                Shangha‹ Sue þ1934 Shangha‹ Sue
+: .! .     N     _WHITTINGTON Harry           Destination : nulle part þ1953 Flight to Nowhere
+o ENCP        2  1987.xx ..... ISBN 2-906389-01-3
+}encrage_pulps02 _?                           ?
+- .oF.     A7    *BOURGOIN St‚phane           La Nurserie de l'‚pouvante þ1987
+: .o .     N     _IRISH William               Lune de miel pour un vampire þ1939 Vampire's Honeymoon
+: .o .     N     _LOVECRAFT Howard P.         Le Soutien-Gorge ensorcel‚ þ1986 I Wore the Brassiere of Doom
+: .o .     N     _HARDING Allison V.          Garde de nuit þ1944 Guard in the Dark
+: .o .     N     _SCHACHNER Nathan            La Mort … l'‚cole þ1935 Death Teaches School
+: .o .     N     _ROBBINS Wayne               La Chose þ1940 The Thing from Beyond
+: .o .     N     _JAMES Francis               La Nurserie de l'‚pouvante þ1935 Nursery of horror
+: .o .     N     _BLOCH Robert                Celui qui attend... þ1939 He Waits Beneath the Sea
+o ENCP        3  1987.xx ..... ISBN 2-906389-03-X
+}encrage_pulps03 _?                           ?
+- .oF.    _A9    *BOURGOIN St‚phane           La Pr‚sence monstrueuse [Anthologie Weird Tales - 1] þ1987
+!--- La pr‚sence monstrueuse et 8 autres r‚cits de Weird Tales
+: .o .     N     _BLOCH Robert                Les Lunettes de l'au-del… þ1947 The Cheaters þTrad. BOURGOIN St‚phane
+: .o .     N     _HAMILTON Edmond             "Il" revient... þ1934 The Man who Returned þTrad. BOURGOIN St‚phane
+: .o .     N     _CAVE Hugh B.                La Pr‚sence monstrueuse þ1933 The Watcher in the Green Room þTrad. BOURGOIN St‚phane
+: .o .     N     _MORROW W. C.                L'Ennemi irr‚ductible þ1898 His Unconquerable Enemy / The Rajah's Nemesis þTrad. ELWALL George
+: .o .     N     _LOVECRAFT Howard P.        &Cendres þ1924 Ashes þTrad. BOURGOIN St‚phane
+&                _EDDY C.M. Jr.               
+: .o .     N     _LONG Frank Belknap          L'Homme aux mille pattes þ1927 The Man With a Thousand Legs þTrad. BOURGOIN St‚phane
+: .o .     N     _KUTTNER Henry               Mascarade þ1942 Masquerade þTrad. BOURGOIN St‚phane
+: .o .     N     _RUD Anthony                 D‚liquescence þ1923 Ooze þTrad. BOURGOIN St‚phane
+: .o .     N     _BRADBURY Ray                La Nuit þ1946 The Night þTrad. BOURGOIN St‚phane
+o ENCP        4  1987.10 ..... ISBN 2-906389-04-8
+}encrage_pulps04 _?                           ?
+- .oF.    _A12   *BOURGOIN St‚phane           L'Œle cannibale [Anthologie Weird Tales - 2] þ1987
+: .oF.     N     _BRADBURY Ray                Le Coquillage þ1944 The Sea Shell
+: .oF.     N     _HAMILTON Edmond             L'Œle du dormeur þ1938 The Isle of the Sleeper
+: .oF.     N     _BLOCH Robert                Pour le meilleur et pour le vampire þ1944 The Bat Is My Brother
+: .oF.     N     _HARDING Allison V.          La Maison au-del… de minuit þ1947 The House Beyond Midnight
+: .oF.     N     _ST. CLAIR Margaret          Brenda þ1954 Brenda
+: .oF.     N     _JACOBI Carl                 Le Dernier Voyage þ1933 The Last Drive
+: .oF.     N     _COUNSELMAN Mary E.          L'Œle cannibale þ1933 The Accursed Isle
+: .oF.     N     _MORROW W. C.                Devant une bouteille d'absinthe þ1893 Over an Absinthe Bottle / The Pale Dice-Thrower
+: .oF.     N     _GRUBB Davis                 Un pied dans la tombe þ1948 One Foot in the Grave
+: .oF.     N     _KELLER David H.             Cr‚ation impardonnable þ1930 Creation Unforgivable
+: .oF.     N     _LOVECRAFT Howard P.        &Le Coffre scell‚ þ1935 The Sealed Casket
+&                _SEARIGHT Richard            
+: .oF.     N     _McDONALD John D.            Quand on a le cafard... þ1949 But Not to Dream...
+o ENCP        5  1988.xx ..... ISBN 2-906389-08-0
+}encrage_pulps05 _?                           ?
+- .xP.     A10   *BOURGOIN St‚phane           Le Mort ricanant þ1988
+: .! .     N     _IRISH William               Silhouette þ1939 Silhouette
+: .! .     N     _BROWN Fredric               La Nuit de tous les mystŠres þ1944 The Gibbering Night
+: .! .     N     _KEENE Day                   Le Mort ricanant þ1949 The Laughing Dead
+: .! .     N     _POWELL Talmage              Le Temps du d‚mon þ1949 Time of the Demon
+: .! .     N     _GRUBER Frank                S'il m'est permis d'oublier þ1938 If I Can Ever Forget
+: .! .     N     _SALE Richard                Un plus un ‚gale un þ1938 One and One Makes One
+: .! .     N     _WHITTINGTON Harry           Pas de chance ! þ1957 You can't kilt luck
+: .! .     N     _BURNETT W.R.                Aller-retour þ1929 Round trip
+: .! .     N     _GOODIS David                L'Homme perdu þ? The squadron of lost men
+o ENCP        6  1988.10 ..... ISBN 2-906389-11-0
+}encrage_pulps06 _?                           ?
+- .oF.    _A12   *BOURGOIN St‚phane           Le Piano satanique [Anthologie Weird Tales - 3] þ1988
+: .oF.     p     _BOURGOIN St‚phane           Pr‚face þ1988
+: .oF.     N     _JACOBI Carl                 Le Piano satanique þ1934 The Satanic Piano þTrad. BOURGOIN St‚phane
+: .oF.     N     _PROUT Mearle                Le Carnaval de l'horreur þ1937 Masquerade þTrad. BOURGOIN St‚phane
+: .oF.     N     _LEIBER Fritz                La Maison de l'araign‚e þ1942 Spider Mansion þTrad. BOURGOIN St‚phane
+: .oF.     N     _BLOCH Robert                Le Vin du sabbat þ1940 Wine of the Sabbat þTrad. BOURGOIN St‚phane
+: .oF.     N     _WORRELL Everil              Leonora þ1927 Leonora þTrad. BOURGOIN St‚phane
+: .oF.     N     _WELLMAN Manly Wade          L'cole de l'innommable þ1937 School for the Unspeakable þTrad. BOURGOIN St‚phane
+: .oF.     N     _BRENNAN Joseph Payne        Dans l'ascenseur þ1953 On the Elevator þTrad. BOURGOIN St‚phane
+: .oF.     N     _DE CAMP Lyon Sprague       &Quand hurle le vent de la nuit þ1951 When the Night Wind Howls þTrad. BOURGOIN St‚phane
+&                _PRATT Fletcher              
+!--- Henry Whitehead (pr‚sent‚ par H.P. Lovecraft)
+: .oF.     N     _WHITEHEAD Henry S.          Pas de t‚moins þ1932 No Eye-witnesses þTrad. BOURGOIN St‚phane
+: .oF.     N     _JOHNS Talbot                L'Ultime Rendez-Vous þ1939 Date in the City Room þTrad. BOURGOIN St‚phane
+: .oF.     N     _BRADBURY Ray                Il joue … la guerre þ1944 Bang! You're Dead! þTrad. BOURGOIN St‚phane
+: .oF.     N     _NELSON Alan                 L'Homme press‚ þ1944 Man in a Hurry þTrad. BOURGOIN St‚phane
+o ENCP        7  1990.xx ..... ISBN 2-906389-16-1
+}encrage_pulps07 _?                           ?
+- .pP.     A6    *BOURGOIN St‚phane           Le Sang des damn‚es þ1990
+?: .o .     N     _WHITFIELD Raoul             Meurtre … la une þ?
+: .o .     N     _GOODIS David                Le Sang des damn‚s þ1940 Fresh Blood for the Damned
+?: .o .     N     _FISHER Steve                Crime … Hollywood þ?
+?: .o .     N     _ROGERS Wayne                Demain, la mort þ?
+?: .o .     N     _McCOY Horace                Le Liquidateur þ?
+?: .o .     N     _CHESTERTON G.K.            &L'Affaire Donnington þ?
+?&                _PEMBERTON Max 
+
+!-----------------------------------------------------------------------------
+!--- Revue encrage
+!--- nø 13 en 1987
+!--- nø 18 en 1988
+!--- nø 19 en 1988 ou 98
+!-----------------------------------------------------------------------------
+o ENCRAGE    13  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M0    ****                         Encrage nø 13 (mai/juin 1987) þ1987
+
+!-----------------------------------------------------------------------------
+!--- Collection Travaux
+!--- Directeurs de collection : Alfu
+!--- "Une somme consid‚rable d'‚tudes et de documents sur l'autre-litt‚rature
+!--- (polar, SF, fantastique, espionnage...)."
+!-----------------------------------------------------------------------------
+o ENCT        1  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     ****                         Polar : mode d'emploi - Manuel d'‚criture criminelle þ? ?
+o ENCT        2  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _O'BRIEN Geoffrey            Hard-Boiled U.S.A. - Histoire du roman noir Am‚ricain þ? ? þTrad. BOURGOIN St‚phane
+o ENCT        3  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _LOVECRAFT Howard P.        &Lettres d'Innsmouth [Cahier d'‚tudes Lovecraftiennes - 1] þ1989
+&                *BOURGOIN St‚phane           
+o ENCT        4  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _GRUBER Frank                Pulp Jungle - M‚moire d'un auteur de polars Am‚ricain þ? ? þTrad. BOURGOIN St‚phane
+o ENCT        5  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _PANEK Leroy Lad             British mystery - Histoire du roman policier classique anglais þ? ? þTrad. BOURGOIN St‚phane
+o ENCT        6  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     ****                         Polar, mode d'emploi 2 - Manuel d'‚criture criminelle þ?
+o ENCT        7  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _JOSHI S.T.                  Clefs pour Lovecraft [Cahier d'‚tudes Lovecraftiennes - 2] þ? ? þTrad. ALTAIRAC Joseph
+o ENCT        8  1990.10 ..... ISBN 2-906389-24-2
+} noimg          _?                           ?
+- .o .     E     _ALIZET Jean-Claude          L'Ann‚e 1989 du polar, de la S.F. du fantastique et de l'espionnage þ1990
+o ENCT        9  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _DAWIDZIAK Mark              Dossier Columbo [Guide des grandes s‚ries t‚l‚ - 1] þ1991
+o ENCT       10  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _LACOURBE Roland             99 chambres closes - Guide de lecture du crime impossible þ?
+o ENCT       11  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _MEURGER Michel              Lovecraft et la S.-F. /1 [Cahier d'‚tudes Lovecraftiennes - 3] þ1991
+!--- 6 articles de Meurger
+!--- Anticipation r‚trograde primitivisme et occultisme dans la r‚ception lovecraftienne en France de 1953 … 1957
+!--- Les Martiens de Wells
+!--- The awful squid head source anthropologique du personnage de Cthulhu
+!--- De Cthulhu … Kalkr'u. Sous le signe de la pieuvre cosmique
+!--- Le thŠme du Petit Peuple chez Arthur Machen et John Buchan
+!--- Les Astronefs de L‚murie
+o ENCT       12  1992.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _ALIZET Jean-Claude          L'Ann‚e de la fiction, polar, S.F., fantastique, espionnage - Volume 2, 1990 þ1992
+o ENCT       13  1992.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _MESPLEDE Claude             Les Ann‚es "S‚rie Noire" - Volume 1, 1945-1959 þ1992
+o ENCT       14  1992.xx ..... ISBN .-.....-...-.
+!--- d‚j… paru chez Buchet-Chastel en 1964, traduc incomplŠte
+} noimg          _?                           ?
+- .x .     b     _BARING-GOULD W.S.           Moi, Sherlock Holmes [BibliothŠque holm‚sienne - 1] þ? ? þTrad. FERJAC Claude
+o ENCT       15  1992.12 ..... ISBN 2-906389-40-4
+} noimg          _?                           ?
++ ENCT        ?  2006.02 ..... ISBN 2-911576-63-2
+} noimg          _?                           ?
+- .o .     E     *COLLON H‚lŠne               Regards sur Philip K. Dick - Le Kal‚dickoscope þ1993
+?: .o .     T     _ALDISS Brian W.             La Voix du sang parle … Kensington Gore þ? Kindred Blood on Kensington Gore
+?: .o .     P     _CHAMBON Jacques             Dick d‚click þ?
+o ENCT       16  1993.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _ALIZET Jean-Claude          L'Ann‚e de la fiction, polar, S.F., fantastique, espionnage - Volume 3, 1991 þ1993
+o ENCT       17  1993.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _MESPLEDE Claude             Les Ann‚es "S‚rie Noire" - Volume 2, 1959-1966 þ1993
+o ENCT       18  1993.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     ****                         Polar de la table - Recettes du crime et du mystŠre þ? ?
+o ENCT       19  1994.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _SHREFFLER Philip A.         L'Univers de Lovecraft [Cahier d'‚tudes Lovecraftiennes - 4] þ? ? þTrad. MARCEL Patrick
+o ENCT       20  1994.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _ALIZET Jean-Claude          L'Ann‚e de la fiction, polar, S.F., fantastique, espionnage - Volume 4, 1992 þ1994
+o ENCT       21  1994.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _MEURGER Michel              Lovecraft et la S.-F. /2 [Cahier d'‚tudes Lovecraftiennes - 5] þ1994
+!--- 8 articles de Meurger
+!--- Thyra, les mondes perdus de l'Arctique
+!--- Les rituels sous-marins et leur fonction chez Lovecraft, Wells et Victor Rousseau
+!--- Le monstre marin et la femme
+!--- De l'homme au singe, d‚volution et bestialit‚ dans l'ouvre de Lovecraft
+!--- Beyond the Pole, le romantisme biologique d'Hyatt Verrill
+!--- Des Jukes aux Whateley, The Menace of the Under-Man
+!--- Lovecraft, Newbold et le manuscrit Voynich
+!--- L'Œle a des yeux : la faune exceptionnelle de Friedrich Otto
+o ENCT       22  1994.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _MESPLEDE Claude             Les Ann‚es "S‚rie Noire" - Volume 3, 1966-1972 þ1994
+o ENCT       23  1995.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _KESLER Susan E.             Dossier West - Les nuits des mystŠres de l'Ouest [Guide des grandes s‚ries t‚l‚s - 2] þ? ? þTrad. GALLART R‚my
+o ENCT       24  1994.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _ALIZET Jean-Claude          L'Ann‚e de la fiction, polar, S.F., fantastique, espionnage - Volume 5, 1993 þ1994
+o ENCT       25  1995.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _MESPLEDE Claude             Les Ann‚es "S‚rie Noire" - Volume 4, 1972-1982 þ1995
+o ENCT       26  1996.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _ALIZET Jean-Claude          L'Ann‚e de la fiction, polar, S.F., fantastique, espionnage - Volume 6, 1994 þ1996
+o ENCT       27  1996.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _LACASSIN Francis            Le CimetiŠre des ‚l‚phants, suivi du dossier Lacassin þ1996
+!--- 22 articles sur des thŠmes trŠs trŠs divers...
+o ENCT       28  1997.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _HARDWICK Michael            Guide complet de Sherlock Holmes [BibliothŠque holm‚sienne - 2] þ? ?
+o ENCT       29  1997.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _ALIZET Jean-Claude          L'Ann‚e de la fiction, polar, S.F., fantastique, espionnage - Volume 7, 1995 þ1997
+o ENCT       30  1997.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _BAUDOU Jacques              Radio mystŠres - Les feuilletons radiophoniques þ1997
+o ENCT       31  1998.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _LACOURBE Roland             John Dickson Carr, scribe du miracle - Inventaire d'une oeuvre þ1998
+o ENCT       32  1998.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _ALIZET Jean-Claude          L'Ann‚e de la fiction, polar, S.F., fantastique, espionnage - Volume 8, 1996 þ1998
+o ENCT       33  1998.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _LENGRAND Claude             Dictionnaire des voyages extraordinaires [Cahier Jules Verne - 1] þ1998
+!--- dico des oeuvres + dico des personnages + dico g‚n‚ral
+o ENCT       34  1999.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _ALIZET Jean-Claude          L'Ann‚e de la fiction, polar, S.F., fantastique, espionnage - Volume 9, 1997 þ1999
+!--- (Volume 9)
+o ENCT       35  1999.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _ALLART Patrice              Guide du mythe de Cthulhu [Cahier d'‚tudes Lovecraftiennes - 6] þ1999
+o ENCT       36  2000.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _MESPLEDE Claude             Les Ann‚es "S‚rie Noire" - Volume 5, 1982-1995 þ2000
+o ENCT       37  2000.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _LEMOINE Michel              Paris chez Simenon [BibliothŠque Simenon - 1] þ2000
+o ENCT       38  2000.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _SAINT-MARTIN Francis        Les Pulps - L'ƒge d'or de la litt‚rature populaire am‚ricaine þ2000
+o ENCT       39  2001.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _ALIZET Jean-Claude          L'Ann‚e de la fiction, polar, S.F., fantastique, espionnage - Volume 10, 1998 þ2001
+o ENCT       40  2001.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _TOUCHANT jean-Louis         L'Apoth‚ose du roman d'aventures - Jos‚ Moselli et la Maison Offenstadt þ2001
+o ENCT       41  2001.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _DEROUARD Jacques            Dictionnaire ArsŠne Lupin [BibliothŠque Lupinienne - 1] þ2001
+o ENCT       48  2005.10 ..... ISBN 2-251-74232-1
+} noimg          _?                           ?
+- .o .     G     _TRIOLO Jean-Luc             L'Ann‚e de la fantasy - Volume 3 - L'heroic fantasy en France en 2003 þ2005
+
+!-----------------------------------------------------------------------------
+!--- Collection Travaux Bis
+!-----------------------------------------------------------------------------
+o ENCB        ?  2002.xx ..... ISBN 2-911576-34-9
+} noimg          _?                           ?
+- .o .     E     _ROUILLER Fran‡ois           Stups & fiction - Drogue et toxicomanie dans la science-fiction þ2002
+o ENCB        ?  2003.xx ..... ISBN 2-911576-40-3
+} noimg          _?                           ?
+- .o .     G     _TRIOLO Jean-Luc             Index de la fantasy en France en 2002 þ2003
+!--- collab Encrage/Les belles Lettres (ISBN 2-25174119-4)
+
+!-----------------------------------------------------------------------------
+!--- Collection Effrois (romans reli‚s):
+!--- Directeurs de collection : St‚phane Bourgeois et Xavier Legrand-FerronniŠre
+!--- "Vaste Livre d'or de la litt‚rature fantastique, chaque volume pr‚sente un
+!--- auteur essentiel du genre … travers un recueil de nouvelles ou un roman."
+!-----------------------------------------------------------------------------
+o ENCE        1  1988.10 ..... ISBN 2-906389-10-2
+} encrageffroi01 _?                           ?
+- .oF.     N7    _HODGSON William Hope       &Les Spectres pirates þ1988
+&                *LEGRAND-FERRONNIERE X.      
+!-- et six autres r‚cits fantastiques
+!-- traduits par Patrick Marcel, sauf le 7iŠme par Maurice L‚vy
+!-- - chronologie biographique
+!-- - pr‚face par Max Duperray "Les Espaces inquiets de William Hope Hodgson"
+!-- - Introduction
+!-- - "Le passager du Pampero"
+!-- - "Carnacki, le chasseur de fant“mes" (np: condens‚ de 4 avent. de Carnacki)
+!-- - "Les spectres pirates" (np: condens‚ du roman " Les Pirates fant“mes")
+!-- - "Le vaisseau fant“me" (np: une fin alternative au roman pr‚cŠdent? pas lu)
+!-- R‚p. P. Marcel :
+!--  Ouaip: la fin du Mortzestus, vue d'un autre bateau. Tout le monde mourrait,
+!--  ce qui rendait difficile la mont‚e … bord d'un survivant pour raconter 
+!--  totue l'affaire. D'o— la fin employ‚e dans le bouquin.
+!-- - "Le rˆve de X" (np: condens‚ du "Pays de la nuit")
+!-- - " La chambre d'‚pouvante"
+!-- - "Quand s'entrouvre la nuit"
+!-- - Bibliographie
+!-- Pas le temps de r‚‚crire les biblios vo, trop long: les titres changent,
+!-- certains sont des condens‚s de romans homonymes, c'est un boxon total, je
+!-- t'incites donc … te procurer ce fort joli volume pour faire le tri, d'autant
+!-- que la biblio fait aussi  le point sur les parutions complet‚es des textes
+!-- chez N‚O -puisque volume d'encrage completait ainsi l'int‚grale en vf, il me
+!-- semble.
+!--- Jeam Tag (r‚ponse … Laurent)
+: .o .     N     _HODGSON William Hope        Le Passager du Pampero þ1916 The Haunted Pampero þTrad. MARCEL Patrick
+: .o .     N     _HODGSON William Hope        Carnacki, le chasseur de fant“mes (condens‚) [Carnacki] þ1910 Carnacki, the Ghostfinder þTrad. MARCEL Patrick
+: .o .     R     _HODGSON William Hope        Les Spectres pirates (condens‚ de "Les pirates fant“mes) þ1909 The Ghost Pirates þTrad. MARCEL Patrick
+: .o .     N     _HODGSON William Hope        Le Vaisseau fant“me (fin alternative des spectres pirates) þ? The Phantom Ship þTrad. MARCEL Patrick
+: .o .     R     _HODGSON William Hope        Le Rˆve de X (condens‚ du Pays de la nuit) þ1912 Dream of X þTrad. MARCEL Patrick
+: .o .     N     _HODGSON William Hope        La Chambre d'‚pouvante þ[1904],1983 The Room of Fear þTrad. MARCEL Patrick
+: .o .     N     _HODGSON William Hope        Quand s'entrouvre la nuit þ1973 The Riven Night þTrad. LEVY Maurice
+o ENCE        2  1990.11 ..... ISBN 2-906389-22-6
+} encrageffroi02 _?                           ?
+!--- r‚‚d 1997
+- .o .     R     _BLOCH Robert                Psychose 13 þ1990 Psycho House þTrad. COISNE G‚rard
+o ENCE        3  1992.07 ..... ISBN 2-906389-35-8
+}encrageffroi03  _Guillaume Sorel             ?
+- .oF.     N8    _LEIBER Fritz               &Le Pouvoir des marionnettes þ1992
+&                *BOURGOIN St‚phane           
+?: .o .     p     _GOIMARD Jacques             ? þ?
+: .oF.     N     _LEIBER Fritz                Le Pouvoir des marionnettes þ1941 The Power of the Puppets þTrad. HOMASSEL Anne-Sylvie
+: .oF.     N     _LEIBER Fritz                Belsen Express þ1975 Belsen Express þTrad. HOMASSEL Anne-Sylvie
+: .oF.     N     _LEIBER Fritz                Le Rˆve d'Albert Moreland þ1947 The Dreams of Albert Moreland þTrad. HOMASSEL Anne-Sylvie
+: .oF.     N     _LEIBER Fritz                Le Chien þ1942 The Hound þTrad. HOMASSEL Anne-Sylvie
+: .oF.     N     _LEIBER Fritz                Un fragment du monde obscur þ1962 A Bit of the Dark World þTrad. HOMASSEL Anne-Sylvie
+: .oF.     N     _LEIBER Fritz                Poe et B‚r‚nice þ1969 Richmond, Late September þTrad. HOMASSEL Anne-Sylvie
+: .oF.     N     _LEIBER Fritz                Un journal dans la neige þ1947 Diary in the Snow þTrad. HOMASSEL Anne-Sylvie
+: .oF.     N     _LEIBER Fritz                Le Mort þ1950 The Dead Man þTrad. HOMASSEL Anne-Sylvie
+o ENCE        4  1993.11 ..... ISBN 2-906389-44-7
+} encrageffroi04 _Philippe Jozelon            ?
+- .oF.    kN12   _EWERS Hanns Heinz          &La Suprˆme trahison þ1993
+&                *LEGRAND-FERRONNIERE X.     &
+&                *WILLENZ Elisabeth           
+!--- Et 11 autres r‚cits in‚dits
+!--- fictionbis: "Outre la pr‚face du Dr Kugel, accompagn‚e de photos de
+!--- l'auteur, et les illustrations de Ph. Jozelon, ce livre comprend un
+!--- texte de Marc Henry (ami et premier traducteur d'Ewers) et trois
+!--- textes bibliographiques.
+: .o .     N     _EWERS Hanns Heinz           La Suprˆme trahison þ1922 Der schlimmste Verrat þTrad. Elisabeth WILLENZ
+: .o .     N     _EWERS Hanns Heinz           Le Noy‚ þ1907 Die Wasserleiche þTrad. Elisabeth WILLENZ
+: .o .     N     _EWERS Hanns Heinz           Le Coffret þ1908 Der Spielkasten þTrad. Elisabeth WILLENZ
+: .o .     N     _EWERS Hanns Heinz           R‚surrection þ1900 Auferstehung þTrad. Elisabeth WILLENZ
+: .o .     N     _EWERS Hanns Heinz           Comment j'achetai un tigre au Johore þ1928 Ich kaufe einen Tiger in Johur þTrad. Elisabeth WILLENZ
+: .o .     N     _EWERS Hanns Heinz           Viol d'une tortue þ1926 Der Lustmord einer Schildkr”te þTrad. Elisabeth WILLENZ
+: .o .     N     _EWERS Hanns Heinz           Ma chevauch‚e au pays de la pluie þ1928 Ich reite im Regenwald þTrad. Elisabeth WILLENZ
+: .o .     N     _EWERS Hanns Heinz           Le Fant“me de Rammin þ1901 Der Spuk von Rammin þTrad. Elisabeth WILLENZ
+: .o .     N     _EWERS Hanns Heinz           La DerniŠre Volont‚ de Stanislawa d'Asp þ1908 Der letzte Wille der Stanislawa d'Asp þTrad. Elisabeth WILLENZ
+: .o .     N     _EWERS Hanns Heinz           Les Canons sacr‚s þ1928 Von heiligen Kanonen þTrad. Elisabeth WILLENZ
+: .o .     N     _EWERS Hanns Heinz           Tannh„user crucifi‚ þ1901 Der Gekreuzigte Tannh„user þTrad. Elisabeth WILLENZ
+: .o .     N     _EWERS Hanns Heinz           La Courbe þ1910 Die Kurve þTrad. Elisabeth WILLENZ
+
+
+!-----------------------------------------------------------------------------
+!--- Encrage/Collection Pulsar (Les nouveaux courants de la SF contemporaine):
+!-----------------------------------------------------------------------------
+o ENCA        1  1995.04 ..... ISBN 2-906389-60-9
+} noimg          _?                           ?
+- .oS.    _A9    *DENIS Sylvie               &Century XXI, la nouvelle fiction sp‚culative britannique þ1995
+&                *VALERY Francis              
+: .oS.     N     _NEWMAN Kim                  Le Retour du docteur Shade þ1990 The Original Dr. Shade þTrad. DENIS Sylvie & VALERY Francis
+: .oS.     N     _CALDER Richard              Toxine þ1989 Toxine þTrad. DENIS Sylvie & VALERY Francis
+: .oS.     N     _MACLEOD Ian R.              Amour-fou þ1990 Well-loved þTrad. DENIS Sylvie & VALERY Francis
+: .oS.     N     _LEE Ian                     Il ‚tait une fois dans le parc þ1989 Once upon a time in the park þTrad. DENIS Sylvie & VALERY Francis
+: .oS.     N     _GRIFFITH Nicola             Le Chant des grenouilles, les cris des oies þ1991 Songs of Bullfrogs, Cry of Geeses þTrad. DENIS Sylvie & VALERY Francis
+: .oS.     N     _EGAN Greg                   En apprenant … ˆtre moi þ1989 Learning to Be Me þTrad. DENIS Sylvie & VALERY Francis
+: .oS.     N     _STABLEFORD Brian M.         Mortel immortel þ1986 And He Not Busy Being Born þTrad. DENIS Sylvie & VALERY Francis
+: .oS.     N     _McAULEY Paul J.             L'Histoire d'Ilya, Spider et Box þ1985 Little Ilya and Spider and Box þTrad. DENIS Sylvie & VALERY Francis
+: .oS.     N     _BROWN Eric                  Rˆves d'Epsilon þ1992 Epsilon Dreams þTrad. DENIS Sylvie & VALERY Francis
+
+!-----------------------------------------------------------------------------
+!--- Encrage/Collection R‚f‚rences :
+!--- Directeurs de collection : Alfu
+!--- "Des livres broch‚s … petits prix, r‚dig‚s par un sp‚cialiste qui fait le
+!--- point des connaissances actuelles sur un auteur et son oeuvre, une
+!--- collection, des textes fondateurs."
+!-----------------------------------------------------------------------------
+o ENCF        1  1996.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _ALFU                        Gaston Leroux, parcours d'une oeuvre þ1996
+o ENCF        2  1996.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _COMPERE Daniel              Jules Verne, parcours d'une oeuvre þ1996
+o ENCF        3  1997.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _MARTINETTI Anne             Le Masque, histoire d'une collection þ1997
+o ENCF        4  1997.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _SCHWEIGHAEUSER Jean-Pau    lRaymond Chandler, parcours d'une oeuvre þ1997
+o ENCF        5  1997.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _BEUNAT Nathalie             Dashiell Hammett, parcours d'une oeuvre þ1997
+o ENCF        6  1998.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _ALAVOINE Bernard            Georges Simenon, parcours d'une oeuvre þ1998
+o ENCF        7  1998.04 ..... ISBN 2-906389-88-9
+} noimg          _?                           ?
+- .o .     E     _ALTAIRAC Joseph             H.G. Wells, parcours d'une oeuvre þ1998
+o ENCF        8  1998.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _ALFU                        L‚o Malet, parcours d'une oeuvre þ1998
+o ENCF        9  1998.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _COMPERE Daniel              Le Comte de Monte-Cristo d'Alexandre Dumas, lecture des textes þ1998
+o ENCF       10  1999.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _ARCHAIMBAULT Jean-Michel    Perry Rhodan, lecture des textes þ1999
+!--- Jean-Michel
+o ENCF       11  1999.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _BOURDIER Laurent            Stephen King, parcours d'une oeuvre þ1999
+o ENCF       12  1999.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _COLIN Jean-Paul             Boileau-Narcejac, parcours d'une oeuvre þ1999
+o ENCF       13  1999.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _ALAVOINE Bernard            Les Enquˆtes de Maigret, lecture des textes þ1999
+o ENCF       14  2000.01 ..... ISBN 2-251-74104-6
+} noimg          _?                           ?
++ ENCF       14  2010.06 ..... ISBN 978-2-251-74244-1
+!--- Ajout de quelques informations biblio dans la r‚‚dition.
+} noimg          _?                           ?
+- .o .     E     _ALTAIRAC Joseph             Alfred E. Van Vogt, parcours d'une oeuvre þ2000
+
+!-----------------------------------------------------------------------------
+o ENCF       15  2000.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _GALVAN Jean-Pierre          Paul F‚val, parcours d'une oeuvre þ2000
+o ENCF       16  2000.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _GERAULT Jean-Fran‡ois       Jean-Patrick Manchette þ2000
+o ENCF        ?  2002.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _COMPERE Daniel              D'Artagnan et Cie - "Les trois mousquetaires" d'Alexandre Dumas þ2002
+o ENCF        ?  2003.10 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _GERAULT Jean-Fran‡ois       Jorge Luis Borges, une autre litt‚rature þ2003
+
+!-----------------------------------------------------------------------------
+!--- Encrage/Collection Portraits :
+!--- Directeurs de collection : Alfu
+!--- "Des monographies de ceux qui ont fait l'autre-litt‚rature."
+!-----------------------------------------------------------------------------
+o ENCO        1  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _ALFU                       &Gino Starace, l'illustrateur de "Fant“mas" þ?
+&                _CAILLOT Patrice            &
+&                _DUCOS Fran‡ois              
+o ENCO        2  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     b     _LONG Frank Belknap          H.P. Lovecraft, le conteur des t‚nŠbres þ? ? þTrad. BOURGOIN St‚phane
+o ENCO        3  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _BOURGOIN St‚phane           Fredric Brown, le rˆveur lunatique þ1988
+!--- Anthologie de t‚moignages et textes in‚dits
+o ENCO        3  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .x .     E     _LACASSIN Francis            Sous le masque de L‚o Malet, Nestor Burma þ1991
+
+!-----------------------------------------------------------------------------
+!--- Encrage/Collection classiques :
+!-----------------------------------------------------------------------------
+o ENCC        1  1996.11 ..... ISBN 2-906389-61-7
+} noimg          _?                           ?
+- .o .     R3    _VARLET Th‚o                 Oeuvres romanesques - I þ1996
+: .o .     R2    _VARLET Th‚o                 L'‚pop‚e martienne [L'‚pop‚e martienne] þ1996
+!--- originellement en 2 volumes : "Les titans du ciel" et "L'agonie de la Terre"
+= .o .     R     _VARLET Th‚o                &Les Titans du ciel [L'‚pop‚e martienne - 1] þ1921
+&                _JONCQUEL Octave             
+= .o .     R     _VARLET Th‚o                &L'Agonie de la Terre [L'‚pop‚e martienne - 2] þ1922
+&                _JONCQUEL Octave             
+!--- TBC : collaboration pour le tome 2
+: .o .     R     _VARLET Th‚o                &La Belle Valence þ1922
+&                _BLANDIN Andr‚               
+
+!-----------------------------------------------------------------------------
+!--- Encrage/Collection Utopie :
+!--- Directeurs de collection : Michel Rolland
+!--- "Des utopies des XVIIe et XVIIIe siŠcles … red‚couvrir dans une ‚dition
+!--- moderne, complŠte et accessible."
+!-----------------------------------------------------------------------------
+o ENCU        1  1994.05 ..... ISBN 2-906389-51-X
+} noimg          _?                           ?
+- .o .     R     _VEIRAS Denis                Histoire des S‚varambes þ1675 ?
+!--- Fran‡ais, mais paru … Londres en 1675 en anglais
+
+!-----------------------------------------------------------------------------
+!--- Encrage/Collection Interface :
+!--- Directeurs de collection : Joseph Altairac
+!--- R‚dacteur en chef : Michel Meurger
+!--- "Revue et ‚tude sur l'imaginaire scientifique."
+!-----------------------------------------------------------------------------
+o ENCRA_I     1  1995.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _MEURGER Michel              Scientifiction I - Vol 1. Alien abduction þ1995
+o ENCRA_I     2  1997.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E3    ****                         Scientifiction I - Vol 2. þ1997
+: .o .     E     _MULHERN Sherrill            Le Sabbat high-tech þ1997
+: .o .     E     _ALTAIRAC Joseph             La L‚gende du V7 þ1997
+: .o .     E     _MEURGER Michel              Le Monstre du Loch Ness þ1997
+o ENCRA_I     3  1999.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _HENRIET Eric B.             L'Histoire revisit‚e - Panorama de l'uchronie sous toutes ses formes þ1999
+o ENCRA_I     4  2006.11 ..... ISBN 2-251-74142-9
+} noimg          _?                           ?
++ ENCRA_I     ?  2018.09 ..... ISBN 978-2-251-74142-0
+} noimg          _Jeam Tag                    ?
+- .o .     E     _COSTES Guy                 &Les Terres creuses - Bibliographie comment‚e des mondes souterrains imaginaires þ2006
+&                _ALTAIRAC Joseph             
+o ENCRA_I     ?  2018.09 ..... ISBN 978-2-251-44851-0
+} noimg          _Jeam Tag                    ?
+!--- 2 tomes sous coffret - 2458 pages
+- .oS.     E     _COSTES Guy                 &R‚trofictions - Encyclop‚die de la conjecture romanesque rationnelle francophone, de Rabelais … Barjavel - 1532-1951 þ2018
+&                _ALTAIRAC Joseph             
+
+!--- Petite bibliothŠque encrage
+!--- PBE (electronique)
+!--- MOSELLI
+!--- 3 courts romans : "Le rayon Phi" + "La derniŠre affaire d'Alexander Bullen" + "La corde d'acier" (Tous 1921)
+!--- Le l‚l‚luz (1918)
+!--- Le dernier pirate (1924)
+!--- Les conqu‚rants de l'abŒme (1922)
+
+!-----------------------------------------------------------------------------
+_ LETTRSF Encrage, Lettres-SF þ1996 - ?
+!-----------------------------------------------------------------------------
+!---              Encrage/Destination Cr‚puscule - Lettres-SF
+!---          (Destination cr‚puscule uniquement jusqu'au num‚ro 3 (?))
+!---           => non, au moins 6
+!---
+!--- en collaboration avec Destination Cr‚puscule
+!--- Directeur de collection: Gilles DUMAY
+!---        puis BAUDURET Thomas depuis d‚but 99
+!-----------------------------------------------------------------------------
+o LETTRSF     1  1996.04 ..... ISBN 2-911576-00-4
+}lettressf01     _?                           N
+- .oS.     N10   _WINTREBERT Jo‰lle           Hurlegriffe þ1996
+: .oS.     p     _JEURY Michel                Pr‚face þ1996
+: .oS.     N     _WINTREBERT Jo‰lle           Hurlegriffe þ1983
+: .oS.     N     _WINTREBERT Jo‰lle           H‚t‚ros et Thanatos þ1982
+: .oS.     N     _WINTREBERT Jo‰lle           Qui sŠme le temps r‚colte la tempˆte þ1977
+: .oS.     N     _WINTREBERT Jo‰lle           Le Nirvƒna des accalmeurs þ1979
+: .oS.     N     _WINTREBERT Jo‰lle           Les EsthŠtes þ1978
+: .oS.     N     _WINTREBERT Jo‰lle           Et aprŠs ? þ1977
+: .oS.     N     _WINTREBERT Jo‰lle           Transfusion þ1988
+: .oS.     N     _WINTREBERT Jo‰lle           Il ne faut pas jouer avec les enfants þ1978
+: .oS.     N     _WINTREBERT Jo‰lle           Sans appel þ1980
+: .oS.     N     _WINTREBERT Jo‰lle           Le Verbiage du verbic ou vingt quatre heures de la vie d'un chercheur þ1979
+o LETTRSF     2  1996.04 R.... ISBN 2-911576-01-2
+}encrage_lsf02   _?                           N
+- .oS.    _N6    _LEHMAN Serge                La Sid‚ration þ1996
+: .oS.     N     _LEHMAN Serge                Un songe h‚liotrope þ1993
+: .oS.     N     _LEHMAN Serge                Le Jeu du Dispatcheur þ1996
+: .oS.     N     _LEHMAN Serge                Dans l'abŒme þ1994
+: .oS.     N     _LEHMAN Serge                Le Livre des ombres þ1996
+: .oS.     N     _LEHMAN Serge                Le Chasseur dans l'escalier þ1996
+: .oS.     N     _LEHMAN Serge                La Sid‚ration þ1992
+o LETTRSF     3  1996.09 ..... ISBN 2-911576-02-0
+}lettressf03     _?                           N
+- .oS.     R     _PELOT Pierre                Le Sourire des crabes þ1977
+o LETTRSF     4  1996.09 ..... ISBN 2-911576-03-9
+}lettressf04     _?                           N
+- .oS.     R     _THIBERGE Guillaume          L'Appel de l'espace þ1996
+o LETTRSF     5  1996.10 ..... ISBN 2-911576-04-7
+}lettressf05     _?                           N
+- .oS.     N9    _ANDREVON Jean-Pierre        Manuscrit d'un roman de SF trouv‚ dans une poubelle þ1996
+: .oS.     N     _ANDREVON Jean-Pierre        Chapo þ1996
+: .oS.     N     _ANDREVON Jean-Pierre        L'Arme þ1990
+: .oS.     N     _ANDREVON Jean-Pierre        D‚livrance þ1996
+: .oS.     N     _ANDREVON Jean-Pierre        Et chez vous comment ca va ? þ1976
+: .oS.     N     _ANDREVON Jean-Pierre        Tout … la main þ1983
+: .oS.     N     _ANDREVON Jean-Pierre        F & SF þ1992
+: .oS.     N     _ANDREVON Jean-Pierre        M‚galomaniaque þ1975
+: .oS.     N     _ANDREVON Jean-Pierre        C'est la meilleure histoire que j'ai jamais vendu les gars þ1996
+: .oS.     N     _ANDREVON Jean-Pierre        Manuscrit d'un roman de SF trouv‚ dans une poubelle þ1996
+o LETTRSF     6  1997.03 R.... ISBN 2-911576-05-5
+}encrage_lsf06   _?                           N
+- .oS.    _N10   _VALERY Francis              Les Voyageurs sans m‚moire þ1997
+!--- Note : Les cinq premiŠres nouvelles forment le roman "Altneuland"
+: .oS.     p     _WARFA Dominique             L'Homme qui aime les cactus þ1997
+: .oS.    _C5    _VALERY Francis              Altneuland þ1995
+= .oS.     N     _VALERY Francis              Am‚riques þ1992
+= .oS.     N     _VALERY Francis              Bereshit þ1991-1995
+= .oS.     N     _VALERY Francis              Mihrab þ1995
+= .oS.     N     _VALERY Francis              Elohim þ1995
+= .oS.     N     _VALERY Francis              Game over þ1995
+: .oS.     N     _VALERY Francis              La DerniŠre Mission de Lise Reinhardt þ1997
+: .oS.     N     _VALERY Francis              Nouveau Monde þ1997
+: .oS.     N     _VALERY Francis              Eux qui r‚vaient dans les t‚nŠbres þ1989
+: .oS.     N     _VALERY Francis              Les Voyageurs sans m‚moire þ1989
+: .oS.     N     _VALERY Francis              Suraa-Kerta þ1992
+?: .oS.     .     _VALERY Francis              Chroniques du futur þ?
+o LETTRSF     7  1997.05 ..... ISBN 2-911576-06-3
+}lettressf07     _?                           N
+- .oS.     R     _DI ROLLO Thierry            Number Nine þ1997
+o LETTRSF     8  1997.10 ..... ISBN 2-911576-07-1
+}lettressf08     _?                           N
+- .oS.     R     _BOUCHARD Nicolas            Terminus Fomalhaut þ1997
+o LETTRSF     9  1998.04 ..... ISBN 2-911576-08-X
+}lettressf09     _?                           N
+- .oS.    _N6    _SERNINE Daniel              Boulevard des ‚toiles [Boulevard des ‚toiles - 1/2] þ1991
+: .oS.     N     _SERNINE Daniel              Yadjine et la mort þ1985
+: .oS.     N     _SERNINE Daniel              Boulevard des ‚toiles þ1981
+: .oS.     N     _SERNINE Daniel              Les Amis de monsieur Soon þ1983
+: .oS.     N     _SERNINE Daniel              H“tel Carnivalia þ1991
+: .oS.     r     _SERNINE Daniel              La Tˆte de Walt Umfrey þ1984
+: .oS.     r     _SERNINE Daniel              A la recherche de monsieur Goodtheim þ1991
+o LETTRSF    10  1998.10 ..... ISBN 2-911576-09-8
+}lettressf10     _?                           N
+- .oS.     N9    _PELOT Pierre               &L'Assassin de Dieu þ1998
+&                *ECKEN Claude                
+: .oS.     N     _PELOT Pierre                L'Assassin de Dieu þ1974
+: .oS.     N     _PELOT Pierre                Bulle de savon þ1978
+: .oS.     N     _PELOT Pierre                Razzia de printemps þ1977
+: .oS.     N     _PELOT Pierre                Danger, ne lisez pas þ1975
+: .oS.     N     _PELOT Pierre                Je suis la guerre þ1974
+: .oS.     N     _PELOT Pierre                Le Raconteur þ1974
+: .oS.     N     _PELOT Pierre                PremiŠre mort þ1981
+: .oS.     N     _PELOT Pierre                Pionniers þ1976
+: .oS.     N     _PELOT Pierre                Num‚ro sans filet þ1974
+: .oS.     N     _PELOT Pierre                Un amour de vacances (avec le clair de lune, les violons, tout le bordel en somme) þ1977
+o LETTRSF    11  1998.11 ..... ISBN 2-911576-10-1
+}lettressf11     _?                           N
+- .oS.     R     _PELOT Pierre                Les Barreaux de l'‚den þ1977
+o LETTRSF    12  1999.01 ..... ISBN 2-911576-11-X
+}lettressf12     _?                           N
+- .oS.     R     _DI ROLLO Thierry            Archeur þ1999
+o LETTRSF    13  1999.05 ..... ISBN 2-911576-12-8
+}lettressf13     _?                           N
+- .oS.     R     _BOUCHARD Nicolas            Colonies parallŠles þ1999
+

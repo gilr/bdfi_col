@@ -1,0 +1,73 @@
+!DEB_HEAD COSMOS
+!GRP_OUVR 6
+!TIT_COLL Cosmos
+!-----------------------------------------------------------------------------
+_ COSMOS  Ed. du Grand Damier, Coll. Cosmos
+!-----------------------------------------------------------------------------
+!--- Editeur parisien prolifique en litt‚rature populaire (notamment
+!--. d'espionnage), les Editions du Grand Damier ont lanc‚ en 1955 une
+!--. collection de science-fiction qui dura jusqu'… d‚but 1957, le temps
+!--. de douze num‚ros sur une p‚riode de deux ans.
+!---
+!--. La direction litt‚raire en ‚tait assur‚e par le Dr. Roger de la Fu˜e,
+!--. neveu de Jules Verne, et pr‚sident de la soci‚t‚ internationale de m‚decine
+!--. orientale et d'acupuncture.
+!---
+!--- Format 115 x 180 mm
+!--- A partir du num‚ro 6, les couvertures sont illustr‚ par Aslan, comme les
+!--. autres ouvrages l‚gers ou d'espionnage des collections de la maison.
+!-----------------------------------------------------------------------------
+!FIN_HEAD COSMOS
+!--- Rue Richelieu, Paris (2iŠme)
+!DEB_COLL COSMOS
+o COSMOS      1  1955.T3 ..... ISBN -
+} cosmos01       _?                           N
+- .oS.     R     _KELLER Henri               &La Machine … explorer le rˆve þ1955
+&                _BRAININ Gr‚goire            
+o COSMOS      2  1955.xx ..... ISBN -
+} cosmos02       _?                           N
+- .oS.     R     _KELLER Henri               &La Guerre des ondes þ1955
+&                _BRAININ Gr‚goire            
+o COSMOS      3  1955.10 R.... ISBN -
+} cosmos03       _?                           N
+- .oS.     R     _KELLER Henri               &Le Tour du Soleil en 80 jours þ1955
+&                _BRAININ Gr‚goire            
+!--- Nota : sign‚ en fait "KELLER-BRAINON"
+o COSMOS      4  1955.xx ..... ISBN -
+} cosmos04       _?                           N
+- .oS.     R     _KELLER Henri               &Celui qui vient de nulle part þ1955
+&                _BRAININ Gr‚goire            
+o COSMOS      5  1955.xx ..... ISBN -
+} cosmos05       _?                           N
+- .oS.     R     _JUILLET Jacques-Henri       Les Paladins du ciel þ1955
+o COSMOS      6  1956.01 ..... ISBN -
+} cosmos06       _?                           N
+- .oS.     R     _JUILLET Jacques-Henri       Les Visiteurs de l'an 2000 þ1956
+o COSMOS      7  1956.xx ..... ISBN -
+} cosmos07       _?                           N
+- .oS.     R     _KELLER Henri               &Au centre de l'univers þ1956
+&                _BRAININ Gr‚goire            
+o COSMOS      8  1956.03 ..... ISBN -
+} cosmos08       _?                           N
+- .oS.     R     _JUILLET Jacques-Henri       Le SeptiŠme Ciel þ1956
+o COSMOS      9  1956.xx ..... ISBN -
+} cosmos09       _?                           N
+- .oS.     R     _CAP Jean                    Nurma þ1956
+o COSMOS     10  1956.xx ..... ISBN -
+} cosmos10       _?                           N
+- .oS.     R     _LIMAT Maurice               Monsieur Cosmos þ1956
+o COSMOS     11  1956.xx ..... ISBN -
+} cosmos11       _?                           N
+- .oS.     R     _LIMAT Maurice               La PlanŠte sans soleil þ1956
+o COSMOS     12  1957.08 ..... ISBN -
+} cosmos12       _?                           N
+- .oS.     R     _LIMAT Maurice               Pas de planŠte pour les terriens þ1957
+!FIN_COLL COSMOS
+
+!-----------------------------------------------------------------------------
+_ TOPSEC  Ed. du Grand Damier, Coll. Top Secret
+!-----------------------------------------------------------------------------
+o TOPSEC     26  1957.xx ..... ISBN -
+} noimg          _?                           ?
+- .oS.     R     _LIMAT Maurice               Match en nocturne þ1957
+

@@ -1,0 +1,2488 @@
+!-----------------------------------------------------------------------------
+!---                          MNEMOS
+!---
+!--- Directeur de collections : St‚phane Marsan jusqu'en 02/2000 (puis part chez Bragelonne)
+!---                          : Audrey Petit et C‚lia Chazel ensuite
+!---                          : En 2009 Audrey rejoint Orbit et C‚lia Pygmalion
+!---                          : Elles sont remplac‚es par H‚lŠne Ramdany, S‚bastien Guillot et Charlotte Volper
+!-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+_ MNEMOS  Mn‚mos
+_ MNEM_SF Mn‚mos, Science-fiction ş1997-1998
+_ MNEM_AM Mn‚mos, Angle Mort ş1997-1997 roman noir
+_ MNE_SUR Mn‚mos, Surnaturel ş1995-1998 Fantastique moderne
+_ MNE_LEG Mn‚mos, L‚gendaire ş1995-... Fantasy
+_ MNE_DAE Mn‚mos, Daemonicon ş1997-1998 univers partag‚es de la fantasy
+_ MNE_UNI Mn‚mos, Univers ş2002-...
+_ MNE_ICA Mn‚mos, Icares ş1999-...
+_ MNE_DED Mn‚mos, D‚dales
+_ MNE_OUR Mn‚mos, Ourobores
+_ MNE_THR Mn‚mos, Thriller
+_ MNEM_MU Mn‚mos, Mu
+!-- MNE_HEL Mn‚mos, Coll. H‚lios  --> voir helios.col
+!-----------------------------------------------------------------------------
+
+!------------------------
+!=== 1996
+!------------------------
+o MNE_LEG     1  1995.xx ..... ISBN 2-909934-81-0
+} mnemosl01      _Didier Graffet              ?
+- .oY.     R     _GABORIT Mathieu             Souffre-jour [Les Chroniques des cr‚pusculaires - 1][Les Royaumes cr‚pusculaires] ş1995
+o MNE_SUR     2  1996.xx ..... ISBN 2-909934-80-2
+} mnemoss02      _Julien Delval               ?
+- .o .     R     _PENNES S‚bastien            La Br–lure du Ph‚nix [Le Cycle des Ph‚nix - 1][Nephilim] ş1996
+o MNE_LEG     3  1996.xx ..... ISBN 2-909934-82-9
+} mnemosl03      _Didier Graffet              ?
+- .oY.     R     _GABORIT Mathieu             Les Danseurs de Lorgol [Les Chroniques des cr‚pusculaires - 2][Les Royaumes cr‚pusculaires] ş1996
+o MNE_SUR     4  1996.xx ..... ISBN 2-909934-83-7
+} mnemoss04      _Julien Delval               ?
+- .o .     R     _PENNES S‚bastien            Le Pacte de pierre [Le Cycle des Ph‚nix - 2][Nephilim] ş1996
+o MNE_LEG     5  1996.xx ..... ISBN 2-909934-84-5
+} mnemosl05      _Didier Graffet              ?
+- .o .     R     _MARSAN St‚phane             L'preuve de l'Astramance [Les Carnets de la constellation - 1][Guildes] ş1996
+o MNE_LEG     6  1996.xx ..... ISBN 2-911618-02-5
+} mnemosl06      _Didier Graffet              ?
+- .oY.     R     _GABORIT Mathieu             Agone [Les Chroniques des cr‚pusculaires - 3][Les Royaumes cr‚pusculaires] ş1996
+o MNE_SUR     7  1996.xx ..... ISBN 2-911618-00-9
+} mnemoss07      _Julien Delval               ?
+- .o .     R     _PENNES S‚bastien            Dans l'oeil de l'Aleph [Le Cycle des Ph‚nix - 3][Nephilim] ş1996
+o MNE_LEG     8  1996.xx ..... ISBN 2-911618-01-7
+} mnemosl08      _Didier Graffet              ?
+- .oY.     R     _MARSAN St‚phane             La Cath‚drale des cimes [Les Carnets de la constellation - 2][Guildes] ş1996
+o MNE_SUR     9  1996.xx ..... ISBN 2-911618-03-3
+} mnemoss09      _Lionel Barras               ?
+- .o .     R     _COLLET Isabelle            &Le Chant de la Terre [Le Chant de la Terre - 1][Nephilim] ş1996
+&                _COLLET David                
+o MNE_LEG    10  1996.xx ..... ISBN 2-911618-08-4
+} mnemosl10      _Didier Graffet              ?
+- .oY.     R     _MARSAN St‚phane             Les Miroirs de Cosme [Les Carnets de la constellation - 3][Guildes] ş1996
+o MNE_LEG    11  1996.xx ..... ISBN 2-911618-07-6
+} mnemosl11      _Julien Delval               ?
+- .oY.     R     _GRIMBERT Pierre             Six h‚ritiers [Le Secret de Ji - 1] ş1996
+o MNE_LEG    12  1996.xx ..... ISBN 2-911618-09-2
+} mnemosl12      _Sandrine Gestin             ?
+- .oY.     R     _GABORIT Mathieu             Aux ombres d'Abyme [Abyme - 1][Les Royaumes cr‚pusculaires] ş1996
+o MNE_SUR    13  1996.xx ..... ISBN 2-911618-10-6
+} mnemoss13      _Lionel Barras               ?
+- .o .     R     _COLLET Isabelle            &Diapason d'orichalque [Le Chant de la Terre - 2][Nephilim] ş1996
+&                _COLLET David                
+o MNE_LEG    14  1996.xx ..... ISBN 2-911618-11-4
+} mnemosl14      _Julien Delval               ?
+- .oY.     R     _GRIMBERT Pierre             Le Serment orphelin [Le Secret de Ji - 2] ş1996
+!------------------------
+!=== 1997
+!------------------------
+o MNE_LEG    15  1997.xx ..... ISBN 2-911618-13-0
+} mnemosl15      _Sandrine Gestin             ?
+- .o .     R     _GABORIT Mathieu             La Romance du d‚miurge [Abyme - 2][Les Royaumes cr‚pusculaires] ş1997
+o MNEM_AM    16  1997.xx ..... ISBN 2-911618-12-2
+} mnemosam16     _Didie Graffet               ?
+- .o .     R     _COLIN Fabrice               NeuviŠme cercle ş1997
+o MNE_SUR    17  1997.xx ..... ISBN 2-911618-14-9
+} mnemoss17      _David Sala                  ?
+- .o .     R     _PENNES S‚bastien            Le Sabre et le fou ş1997
+o MNE_SUR    18  1997.xx ..... ISBN 2-911618-15-7
+} mnemoss18      _Alain Brion                 ?
+- .o .     R     _Groupe des X                Chaos puissance 5 - Projet Nexus ş1997
+o MNE_SUR    19  1997.xx ..... ISBN 2-911618-18-1
+} mnemoss19      _Lionel Barras               ?
+- .o .     R     _COLLET Isabelle            &La Part du diable [Le Chant de la Terre - 3][Nephilim] ş1997
+&                _COLLET David                
+o MNE_LEG    20  1997.xx ..... ISBN 2-911618-19-X
+} mnemosl20      _Julien Delval               ?
+- .o .     R     _GRIMBERT Pierre             L'Ombre des anciens [Le Secret de Ji - 3] ş1997
+o MNEM_SF    21  1997.xx ..... ISBN 2-911618-20-3
+} mnemossf21     _David Sala                  ?
+- .oS.     R     _GABORIT Mathieu             Les Rives d'Antipolie [BohŠme - 1] ş1997
+o MNE_LEG    22  1997.xx ..... ISBN 2-911618-25-4
+} mnemosl22      _Julien Delval               ?
+- .o .     R     _GRIMBERT Pierre             Le Doyen ‚ternel [Le Secret de Ji - 4] ş1997
+o MNEM_SF    23  1997.xx ..... ISBN 2-911618-24-6
+} mnemossf23     _Julien Delval               ?
+- .o .     R     _WAGNER Roland C.            Les Psychopompes de Klash ş1990
+o MNE_LEG    24  1997.xx ..... ISBN 2-911618-22-X
+} mnemosl24      _Florence Magnin             ?
+!--- r‚‚d 2001, revue et corrig‚e, en grand format
+- .o .     R     _KLOETZER Laurent            M‚moire vagabonde [Ja‰l de Kherdan] ş1997
+o MNEM_AM    25  1997.xx ..... ISBN 2-911618-21-1
+} mnemosam25     _Didie Graffet               ?
+- .o .     R     _WIETZEL Erik                La Porte des limbes ş1997
+o MNE_SUR    26  1997.xx ..... ISBN 2-911618-23-8
+} mnemoss26      _J.P Krassinsky              ?
+- .o .     R     _CALVO David                 D‚lius, une chanson d'‚t‚ [Bertrand Lacejambe - 1] ş1997
+o MNEM_SF    27  1997.xx ..... ISBN 2-911618-26-2
+} mnemossf27     _David Sala                  ?
+- .oS.     R     _GABORIT Mathieu             R‚volutsyia [BohŠme - 2] ş1997
+o MNEM_AM    28  1997.xx ..... ISBN 2-911618-27-0
+} mnemosam28     _J.D. Lavoix Carli           ?
+- .o .     R     _COLIN Fabrice               Les Cantiques de Mercure ş1997
+!------------------------
+!=== 1998
+!------------------------
+o MNEM_SF    29  1998.xx ..... ISBN 2-911618-34-3
+} mnemossf29     _Pierre-Alain Chartier       ?
+!--- Note : r‚‚dition revue et augment‚e du FN nø 1884
+- .o .     R     _GENEFORT Laurent            Les Peaux-‚paisses ş1992-1998
+o MNE_SUR    30i 1998.xx ..... ISBN 2-911618-38-6
+} mnemoss30      _Florence Magnin             ?
+- .o .     R     _COLIN Fabrice               Vestiges d'Arcadia [Arcadia - 1] ş1998
+o MNE_SUR    31i 1998.xx ..... ISBN 2-911618-40-8
+} mnemoss31      _Florence Magnin             ?
+- .o .     R     _COLIN Fabrice               La Musique du sommeil [Arcadia - 2] ş1998
+o MNE_LEG    32i 1998.xx ..... ISBN 2-911618-41-6
+} mnemosl32      _Julien Delval               ?
+- .o .     R     _MARSAN St‚phane             L'Or de N‚buleuse [La L‚gende de Shamir - 1][Guildes] ş1998
+o MNE_LEG    33i 1998.xx ..... ISBN 2-911618-42-4
+} mnemosl33      _Julien Delval               ?
+- .o .     R     _GRIMBERT Pierre             Les Armes de Garamont [La Malerune - 1] ş1998
+o MNE_LEG    34i 1998.xx ..... ISBN 2-911618-43-2
+} mnemosl34      _Julien Delval               ?
+- .o .     R     _MARSAN St‚phane             Le Chƒteau de Nocte [La L‚gende de Shamir - 2][Guildes] ş1998
+!--- 
+!--- Daemonicon
+!--- 
+o MNE_DAE     1i 1998.xx ..... ISBN 2-911618-30-0
+} mnemosdae1     _Didier Graffet              ?
+- .o .     R     _ERIKSSON Duncan             La Proph‚tie des flammes [L'‚clipse des dragons - 1] ş1998
+o MNE_DAE     2i 1998.xx ..... ISBN 2-911618-28-9
+} mnemosdae2     _Didier Graffet              ?
+- .o .     R     _HAWK William                Le Clan d‚chu [L'ƒme des rois nains - 1] ş1998
+o MNE_DAE     3i 1998.xx ..... ISBN 2-911618-29-7
+} mnemosdae3     _Didier Graffet              ?
+- .o .     R     _KESTREL Edwyn               Le Secret des Faylings [Le Sanctuaire des elfes - 1] ş1998
+o MNE_DAE     4i 1998.xx ..... ISBN 2-911618-33-5
+} mnemosdae4     _Didier Graffet              ?
+- .o .     R     _ERIKSSON Duncan             Les Gardiens d'‚ternit‚ [L'‚clipse des dragons - 2] ş1998
+o MNE_DAE     5i 1998.xx ..... ISBN 2-911618-31-9
+} mnemosdae5     _Didier Graffet              ?
+- .o .     R     _HAWK William                La Tour des mages [L'ƒme des rois nains - 2] ş1998
+o MNE_DAE     6i 1998.xx ..... ISBN 2-911618-32-7
+} mnemosdae6     _Didier Graffet              ?
+- .o .     R     _KESTREL Edwyn               L'p‚e des ‚thers [Le Sanctuaire des elfes - 2] ş1998
+o MNE_DAE     7i 1998.xx ..... ISBN 2-911618-35-1
+} mnemosdae7     _Didier Graffet              ?
+- .o .     R     _ERIKSSON Duncan             La Guerre des deux lunes [L'‚clipse des dragons - 3] ş1998
+o MNE_DAE     8i 1998.xx ..... ISBN 2-911618-36-X
+} mnemosdae8     _Didier Graffet              ?
+- .o .     R     _HAWK William                L'Ombre de Noth [L'ƒme des rois nains - 3] ş1998
+o MNE_DAE     9i 1998.xx ..... ISBN 2-911618-37-8
+} mnemosdae9     _Didier Graffet              ?
+- .o .     R     _KESTREL Edwyn               L'Alliance elfique [Le Sanctuaire des elfes - 3] ş1998
+!------------------------
+!=== 1999
+!------------------------
+o MNE_LEG    35i 1999.xx ..... ISBN 2-911618-44-0
+} mnemosl35      _Florence Magnin             ?
+- .o .     R     _COLIN Fabrice               Le Fils des t‚nŠbres [Winterheim - 1] ş1999
+o MNE_LEG    36i 1999.xx ..... ISBN 2-911618-47-5
+} mnemosl36      _?                           ?
+- .o .     R     _MARSAN St‚phane             L'Empire des naufrageurs [La L‚gende de Shamir - 3][Guildes] ş1999
+o MNE_LEG    37i 1999.xx ..... ISBN 2-911618-48-3
+} mnemosl37      _?                           ?
+- .o .     R     _COLIN Fabrice               La Saison des conquˆtes [Winterheim - 2] ş1999
+o MNE_LEG    38i 1999.xx ..... ISBN 2-911618-52-1
+} mnemosl38      _Julien Delval               ?
+- .o .     R     _MALAGOLI Alexandre          Le Sang d'Arion [La Pierre de Tu-Hadj - 1] ş1999
+!--- 
+!--- Icares
+!--- 
+o MNE_ICA     1i 1999.xx ..... ISBN 2-911618-49-1
+} mnemosi001     _Beet                        N
+- .oY.     R3    _GABORIT Mathieu             Les Chroniques des cr‚pusculaires [Les Chroniques des cr‚pusculaires - 1/3][Les Royaumes cr‚pusculaires] ş1999
+: .o .     R     _GABORIT Mathieu             Souffre-jour [Les Chroniques des cr‚pusculaires - 1][Les Royaumes cr‚pusculaires] ş1995-1999
+: .o .     R     _GABORIT Mathieu             Les Danseurs de Lorgol [Les Chroniques des cr‚pusculaires - 2][Les Royaumes cr‚pusculaires] ş1996-1999
+: .o .     R     _GABORIT Mathieu             Agone [Les Chroniques des cr‚pusculaires - 3][Les Royaumes cr‚pusculaires] ş1996-1999
+o MNE_ICA     2i 1999.xx R.... ISBN 2-911618-50-5
+} mnemosi002     _Didier Graffet              N
+- .oY.    _A11   *MARSAN St‚phane             L‚gendaire ş1999
+!--- 46iŠme ouvrage des ‚ditions mn‚mos
+: .o .     N     _GABORIT Mathieu             Songe ophidien [Les Chroniques des cr‚pusculaires][Les Royaumes cr‚pusculaires] ş1999
+: .o .     N     _COLIN Fabrice               Forgiven ş1999
+: .o .     N     _GENEFORT Laurent            Novinia [Les Aventures d'Alaet] ş1999
+: .o .     N     _DAU Nathalie                Contre-magie ş1999
+: .o .     N     _WIETZEL Erik                Bien-ˆtre, travail envi‚ ş1999
+: .o .     N     _GRIMBERT Pierre             Elfine [Le Secret de Ji] ş1999
+: .o .     N     _CALVO David                 La Nuit des labyrinthes [Bertrand Lacejambe] ş1999
+: .o .     N     _COLLET Isabelle             YŠrne ş1999
+: .o .     N     _KLOETZER Laurent            Mademoiselle Belle ş1999
+: .o .     N     _WAGNER Roland C.            Pour une poign‚e de cailloux ş1999
+: .o .     N     _SEGURA Magali               Contre la fatalit‚ ş1999
+o MNE_ICA     3i 1999.xx ..... ISBN 2-911618-51-3
+} mnemosi003     _Gustave Moreau              N
+- .o .     R     _KLOETZER Laurent            La Voie du cygne ş1999
+o MNE_ICA     4i 1999.xx ..... ISBN 2-911618-45-9
+} mnemosi004     _Franck Achard               N
+!--- TBC s‚rie  : [Steampunk, la magie des temps modernes - 1]
+- .o .     R     _COLIN Fabrice              &Confessions d'un automate mangeur d'opium ş1999
+&                _GABORIT Mathieu             
+o MNE_ICA     5i 1999.xx ..... ISBN 2-911618-55-6
+} mnemosi005     _Julien Delval               N
++ MNE_ICA     5  2006.05 ..... ISBN 2-915159-74-2
+} mnemosi005rr06 _Julien Delval               N
++ MNE_ICA     ?  2008.02 ..... ISBN 978-2-35408-029-7
+} mnemosi005rr08 _Julien Delval               N
+- .oY.     R2    _GRIMBERT Pierre             Le Secret de Ji - Volume 1 [Le Secret de Ji - 1/2] ş1999
+: .o .     R     _GRIMBERT Pierre             Six h‚ritiers [Le Secret de Ji - 1] ş1996-1999
+: .o .     R     _GRIMBERT Pierre             Le Serment orphelin [Le Secret de Ji - 2] ş1996-1999
+o MNE_ICA     6i 1999.xx ..... ISBN 2-911618-56-4
+} mnemosi006     _Julien Delval               N
++ MNE_ICA     6  2006.05 ..... ISBN 2-915159-75-0
+} mnemosi006rr06 _Julien Delval               N
++ MNE_ICA     ?  2008.02 ..... ISBN 978-2-35408-030-3
+} mnemosi006rr08 _Julien Delval               N
+- .oY.     R2    _GRIMBERT Pierre             Le Secret de Ji - Volume 2 [Le Secret de Ji - 3/4] ş1999
+: .o .     R     _GRIMBERT Pierre             L'Ombre des anciens [Le Secret de Ji - 3] ş1997-1999
+: .o .     R     _GRIMBERT Pierre             Le Doyen ‚ternel [Le Secret de Ji - 4] ş1997-1999
+!------------------------
+!=== 2000
+!------------------------
+o MNE_LEG    39i 2000.xx ..... ISBN 2-911618-58-0
+} mnemosl39      _?                           ?
+- .o .     R     _MALAGOLI Alexandre          Les Voix de la mer [La Pierre de Tu-Hadj - 2] ş2000
+o MNE_LEG    40i 2000.xx ..... ISBN 2-911618-61-0
+} mnemosl40      _?                           ?
+- .o .     R     _PERNOT Isabelle             Au nom de la magie [Les Enfants de Lugheir - 1] ş2000
+!--- 
+!--- Icares
+!--- 
+o MNE_ICA     7i 2000.xx ..... ISBN 2-911618-54-8
+} mnemosi007     _Julien Delval               ?
+- .oY.     R     _GEMMELL David               Le Lion de Mac‚doine [Le Lion de Mac‚doine - 1.1] ş1991 Lion of Macedon şTrad. HOLWECK Eric
+o MNE_ICA     8i 2000.xx ..... ISBN 2-911618-57-2
+} mnemosi008     _Julien Delval               ?
+- .oY.     R     _GEMMELL David               Le Prince noir [Le Lion de Mac‚doine - 1.2+2.1] ş1991 Lion of Macedon + Dark Prince şTrad. HOLWECK Eric
+o MNE_ICA     9i 2000.xx ..... ISBN 2-911618-60-2
+} mnemosi009     _Julien Delval               ?
+- .o .     R     _GEMMELL David               L'Esprit du chaos [Le Lion de Mac‚doine - 2.2] ş1991 Dark Prince şTrad. HOLWECK Eric
+o MNE_ICA    10i 2000.xx ..... ISBN 2-911618-63-7
+} mnemosi010     _Vincent Dutrait             ?
++ MNE_ICA    10i 2004.01 ..... ISBN 2-911618-..-.
+} noimg          _?                           ?
+- .oY.     R     _HELIOT Johan                La Lune seule le sait [La Trilogie de la Lune - 1] ş2000
+o MNE_ICA    11i 2000.xx ..... ISBN 2-911618-66-1
+} mnemosi011     _Vincent Dutrait             ?
+- .o .     R     _JARRY Nicolas               Le Loup de Deb [Chroniques du loup de Deb - 1] ş2000
+!------------------------
+!=== 2001
+!------------------------
+o MNE_LEG    41i 2001.xx ..... ISBN 2-911618-65-3
+} mnemosl41      _Florence Magnin             ?
+- .o .     R     _PERNOT Isabelle             La MŠre des songes [Les Enfants de Lugheir - 2] ş2001
+o MNE_LEG    42i 2001.xx ..... ISBN 2-911618-67-X
+} mnemosl42      _Julien Delval               ?
+- .o .     R     _MALAGOLI Alexandre          Celle-qui-dort [La Pierre de Tu-Hadj - 3] ş2001
+!--- 
+!--- Icares
+!--- 
+o MNE_ICA    12i 2001.xx ..... ISBN 2-911618-64-5
+} mnemosi012     _Julien Delval               N
+- .oY.    _R2    _GABORIT Mathieu             Abyme [Abyme - 1/2][Les Royaumes cr‚pusculaires] ş2001
+: .oY.     R     _GABORIT Mathieu             Aux ombres d'Abyme [Abyme - 1][Les Royaumes cr‚pusculaires] ş1996
+: .oY.     R     _GABORIT Mathieu             La Romance du d‚miurge [Abyme - 2][Les Royaumes cr‚pusculaires] ş1997
+o MNE_ICA    13i 2001.xx ..... ISBN 2-911618-66-1
+} mnemosi013     _Julien Delval               ?
+- .o .     R     _JARRY Nicolas               La Terre d'horizon [Chroniques du loup de Deb - 2] ş2001
+o MNE_ICA    14i 2001.xx ..... ISBN 2-911618-68-8
+} mnemosi014     _Didier Graffet              ?
+- .o .     R     _KLOETZER Laurent            M‚moire vagabonde [Ja‰l de Kherdan] ş1997-2001
+o MNE_ICA    15i 2001.05 R.... ISBN 2-911618-69-6
+} mnemosi015     _Guillaume Sorel             ?
+- .oY.     R     _DAY Thomas                  Rˆves de guerre ş1998
+o MNE_ICA    16i 2001.xx ..... ISBN 2-911618-70-X
+} mnemosi016     _Julien Delval               ?
+- .o .     R     _HELIOT Johan                Reconqu‚rants ş2001
+o MNE_ICA    17i 2001.xx ..... ISBN 2-911618-71-8
+} mnemosi017     _Didier Graffet              ?
+- .o .     R     _BOUCHARD Nicolas            Le R‚veil d'Ymir ş2001
+o MNE_ICA    18i 2001.xx ..... ISBN 2-911618-72-6
+} mnemosi018     _Laurent Astier              ?
+- .o .     R     _MARCHIKA Colin              La Reine de Vend“me - Volume 1 [La Reine de Vend“me - 1] ş2001
+o MNE_ICA    19i 2001.xx ..... ISBN 2-911618-73-4
+} mnemosi019     _Julien Delval               ?
+- .o .     R     _JARRY Nicolas               La Proph‚tie de SaharAma [Chroniques du loup de Deb - 3] ş2001
+!------------------------
+!=== 2002
+!------------------------
+o MNE_LEG    43i 2002.xx ..... ISBN 2-911618-74-2
+} mnemosl43      _Julien Delval               ?
+- .o .     R     _MALAGOLI Alexandre          Les Dragons ‚toil‚s [La Pierre de Tu-Hadj - 4] ş2002
+o MNE_LEG    44i 2002.xx ..... ISBN 2-911618-75-0
+} mnemosl44      _Florence Magnin             ?
+- .o .     R     _PERNOT Isabelle             La Forteresse d'Ynis Mor [Les Enfants de Lugheir - 3] ş2002
+o MNE_UNI     1i 2002.xx ..... ISBN 2-911618-80-7
+} mnemosu1       _Franck Achard & Aleksi      ?
+- .o .     R     _CLAVEL Fabien               Le Syndrome Eurydice [R‚v‚lations - 1][Nephilim] ş2002
+o MNE_UNI     2i 2002.xx ..... ISBN 2-911618-84-X
+} mnemosu2       _Franck Achard & Aleksi      ?
+- .o .     R     _CLAVEL Fabien               Anonymus [R‚v‚lations - 2][Nephilim] ş2002
+!--- 
+!--- Icares
+!--- 
+o MNE_ICA    20i 2002.xx ..... ISBN 2-911618-76-9
+} mnemosi020     _Laurent Astier              ?
+- .o .     R     _MARCHIKA Colin              La Reine de Vend“me - Volume 2 [La Reine de Vend“me - 2] ş2002
+o MNE_ICA    21i 2002.xx ..... ISBN 2-911618-77-7
+} mnemosi021     _Guillaume Sorel             ?
+- .o .     R     _DAY Thomas                  L'Instinct de l'‚quarisseur ş2002
+o MNE_ICA    22i 2002.xx ..... ISBN 2-911618-78-5
+} mnemosi022     _Michel Durant & Nicolas Archieri ?
+- .o .     R     _MAUMEJEAN Xavier            La Ligue des h‚ros ou comment Lord Kraven ne sauva pas l'empire [La Ligue des h‚ros - 1] ş2002
+o MNE_ICA    23i 2002.xx ..... ISBN 2-911618-82-3
+} mnemosi023     _Erwann Surcouf              ?
+- .o .     R     _DORNY Jennie                Eridan ş2002
+o MNE_ICA    24i 2002.xx ..... ISBN 2-911618-81-5
+} mnemosi024     _Pierre-Alain Chartier       ?
+- .o .     R     _KARLE Micka‰l               Le Chƒteau sans nom [Le Domaine de l'ombre - 1] ş2002
+o MNE_ICA    25i 2002.xx ..... ISBN 2-911618-83-1
+} mnemosi025     _Erwann Surcouf              ?
+- .o .     R     _KARLE Micka‰l               Le Gouffre de l'enfer [Le Domaine de l'ombre - 2] ş2002
+o MNE_ICA    26i 2002.xx ..... ISBN 2-911618-85-8
+} mnemosi026     _Didier Graffet              ?
++ MNE_ICA    26  2006.03 ..... ISBN 2-915159-72-6
+} mnemosi026rr06 _Didier Graffet              ?
++ MNE_ICA     ?  2008.09 ..... ISBN 978-2-35408-040-2
+} mnemosi026rr08 _Didier Graffet              ?
++ MNE_ICA     ?  2009.08 ..... ISBN 978-2-35408-065-5
+} mnemosi026rr09 _Didier Graffet              ?
+- .oY.     R     _GEMMELL David               Ren‚gats ş1993 Knights of the Dark Renown şTrad. CALLUAUD Laurent
+o MNE_ICA    27i 2002.xx ..... ISBN 2-911618-86-6
+} mnemosi027     _Julien Delval               ?
+- .o .     R     _BOUCHARD Nicolas            L'Empire de poussiŠre - Livre I [L'Empire de poussiŠre - 1] ş2002
+o MNE_ICA    28i 2002.xx ..... ISBN 2-911618-87-4
+} mnemosi028     _Julien Delval               ?
+- .o .     R     _SAVISTE Pierre              Les H‚ritiers de Ghern Arg [OmbramŠre - 1] ş2002
+o MNE_ICA    29i 2002.xx ..... ISBN 2-911618-89-0
+} mnemosi029     _Pierre-Alain Chartier       ?
+- .oY.    _N10   _MARCHIKA Colin              Les Poubelles du Walhalla ş2002
+: .o .     N     _MARCHIKA Colin              Histoire (‚go)centrique ş2002
+: .o .     N     _MARCHIKA Colin              Le Gu‚ des quatre hommes ş2002
+: .o .     N     _MARCHIKA Colin              VENUS 1 ş2002
+: .o .     N     _MARCHIKA Colin              Aux portes d'Aleph Deux ş2002
+: .o .     N     _MARCHIKA Colin              La Saga du taureau ş2002
+: .o .     N     _MARCHIKA Colin              Comme P‚gase renaissant de ses cendres ş2002
+: .o .     N     _MARCHIKA Colin              20 Juillet 1944 ş2002
+: .o .     N     _MARCHIKA Colin              Le Sauveur ş2002
+: .o .     N     _MARCHIKA Colin              Les Treize honorables ş2002
+: .o .     N     _MARCHIKA Colin              Les Poubelles du Walhalla ş2002
+o MNE_ICA    30i 2002.xx ..... ISBN 2-911618-90-4
+} mnemosi030     _Manchu                      ?
+- .o .     R     _ALBAR Ludovic               Le Songe des immortels [Quantex - 1] ş2002
+!------------------------
+!=== 2003
+!------------------------
+o MNE_LEG    45i 2003.xx ..... ISBN 2-911618-88-2
+} mnemosl45      _Florence Magnin             ?
+- .o .     R     _PERNOT Isabelle             L'Ombre du pass‚ [Les Enfants de Lugheir - 4] ş2003
+o MNE_UNI     3i 2003.xx ..... ISBN 2-911618-93-9
+} mnemosu3       _Benjamin Carr‚              ?
+!--- Nota : Univers du Jeu R‚trofutur
+- .o .     R     _LHOMME Tristan              Op‚ration Utopie [R‚trofutur] ş2003
+o MNE_UNI     4i 2003.xx ..... ISBN 2-911618-97-1
+} mnemosu4       _Renaud Bec                  ?
+- .o .     R     _CLAVEL Fabien               Les Dracomaques [R‚v‚lations - 3][Nephilim] ş2003
+o MNE_UNI     5i 2003.xx ..... ISBN 2-911618-09-2
+} mnemosu5       _Renaud Bec                  ?
+- .o .     R     _CLAVEL Fabien               L'Effet Orph‚e [R‚v‚lations - 4][Nephilim] ş2003
+!--- 
+!--- Icares
+!--- 
+o MNE_ICA    31i 2003.xx ..... ISBN 2-911618-91-2
+} mnemosi031     _Philippe Gady               ?
+- .oY.     R     _RUSSELL Sean                Le Royaume unique [La Guerre des cygnes - 1] ş2002 The One Kingdom şTrad. LE PENNEC Sheila
+o MNE_ICA    32i 2003.xx ..... ISBN 2-911618-92-2
+} mnemosi032     _Julien Delval               ?
+- .oY.     R     _SAVISTE Pierre              La Marque des Primans [OmbramŠre - 2] ş2003
+o MNE_ICA    33i 2003.02 ..... ISBN 2-911618-94-7
+} mnemosi033     _Julien Delval               N
+- .oY.     R2    _MALAGOLI Alexandre          La Pierre de Tu-Hadj (Vol. 1) [La Pierre de Tu-Hadj - 1/2] ş2003
+: .o .     R     _MALAGOLI Alexandre          Le Sang d'Arion [La Pierre de Tu-Hadj - 1] ş1999
+: .o .     R     _MALAGOLI Alexandre          Les Voix de la mer [La Pierre de Tu-Hadj - 2] ş2000
+o MNE_ICA    34i 2003.02 ..... ISBN 2-911618-95-5
+} mnemosi034     _Julien Delval               N
+- .oY.     R2    _MALAGOLI Alexandre          La Pierre de Tu-Hadj (Vol. 2) [La Pierre de Tu-Hadj - 3/4] ş2003
+: .o .     R     _MALAGOLI Alexandre          Celle-qui-dort [La Pierre de Tu-Hadj - 3] ş2001
+: .o .     R     _MALAGOLI Alexandre          Les Dragons ‚toil‚s [La Pierre de Tu-Hadj - 4] ş2002
+o MNE_ICA    35i 2003.xx ..... ISBN 2-911618-96-3
+} mnemosi035     _Jean-Fran‡ois B‚nichoux     ?
+- .oY.     R     _ASARO Catherine             Point d'inversion [Saga de l'empire Skolien - 1] ş1995 Primary Inversion şTrad. SPINAT Xavier
+o MNE_ICA    36i 2003.xx ..... ISBN 2-911618-98-X
+} mnemosi036     _Philippe Gady               ?
+- .oY.     R     _RUSSELL Sean                La RiviŠre aux esprits [La Guerre des cygnes - 2] ş2002 The One Kingdom
+o MNE_ICA    37i 2003.xx ..... ISBN 2-911618-99-8
+} mnemosi037     _Eikasia                     ?
+- .oY.     R     _HELIOT Johan                Faerie Hackers ş2003
+o MNE_ICA    38i 2003.xx ..... ISBN 2-915159-00-9
+} mnemosi038     _Julien Delval               ?
+- .oY.     R     _BOUCHARD Nicolas            L'Empire de poussiŠre - Livre II [L'Empire de poussiŠre - 2] ş2003
+o MNE_ICA    39i 2003.xx ..... ISBN 2-915159-01-7
+} mnemosi039     _Guillaume Sorel             ?
+- .oY.     R     _BELLAGAMBA Ugo             &Le Double Corps du Roi ş2003
+&                _DAY Thomas                  
+o MNE_ICA    40i 2003.xx ..... ISBN 2-915159-02-5
+} mnemosi040     _Julien Delval               ?
+- .oY.     R     _GRIMBERT Pierre             Les Armes de Garamont [La Malerune - 1] ş1998
+o MNE_ICA    41i 2003.xx ..... ISBN 2-915159-03-3
+} mnemosi041     _Julien Delval               ?
++ MNE_ICA    41i 2003.xx ..... ISBN 978-2-35108-003-7
+} mnemosi041rr07 _Julien Delval               ?
+- .o .     R     _ROBERT Michel               Le Dire des sylfes [La Malerune - 2] ş2003
+o MNE_ICA    42i 2003.xx ..... ISBN 2-915159-08-4
+} mnemosi042     _Julien Delval               ?
+- .oY.     R     _SAVISTE Pierre              Le Chemin des larmes [OmbramŠre - 3] ş2003
+o MNE_ICA    43i 2003.09 ..... ISBN 2-915159-07-6
+} mnemosi043     _Philippe Gady               ?
+- .oY.     R     _RUSSELL Sean                L'Œle de la bataille [La Guerre des cygnes - 3] ş2002 The Isle of Battle
+o MNE_ICA    44i 2003.10 ..... ISBN 2-915159-10-6
+} mnemosi044     _Manchu                      ?
+- .o .     R     _MAUMEJEAN Xavier            L'Šre du dragon [La Ligue des h‚ros - 2] ş2003
+o MNE_ICA    45i 2003.xx ..... ISBN 2-915159-12-2
+} mnemosi045     _Willis                      ?
+- .o .     R     _HOLDSTOCK Robert            La Forˆt d'‚meraude ş1985 The Emerald Forest şTrad. ?
+o MNE_ICA    46i 2003.11 ..... ISBN 2-915159-11-4
+} mnemosi046     _Guillaume Sorel             ?
++ MNE_ICA     ?  2020.06 ..... ISBN 978-2-35408-777-7
+} noimg          _Eduardo Pe¤a                ?
+- .oY.     R     _LINDHOLM Megan              Le Dernier Magicien ş1986 Wizard of the Pigeons şTrad. DENIS Sylvie
+o MNE_ICA    47i 2003.11 ..... ISBN 2-915159-06-8
+} mnemosi047     _Manchu                      ?
+- .o .     R     _ALBAR Ludovic               La R‚volte des ombres [Quantex - 2] ş2003
+o MNE_ICA    48i 2003.12 ..... ISBN 2-911618-13-0
+} mnemosi048     _Jean-Yves Kervevan          ?
+- .oI.    _N21   *COMBALLOT Richard           Icares 2004 ş2003
+: .oI.     p     _BERTHELOT Francis           Le Berceau de la fiction ş2003
+: .oY.     N     _BERTHELOT Francis           La GantiŠre et l'‚quarrisseur ş2003
+: .oS.     N     _HELIOT Johan                Le Robot du devoir ş2003
+: .oS.     N     _JUBERT Herv‚                La Barque de Nero ş2003
+: .oY.     N     _DUFOUR Catherine            M‚moires mortes ş2003
+: .oY.     N     _MAUMEJEAN Xavier            Astrolabe ş2003
+: .oS.     N     _BORDAGE Pierre              Les FrŠres du G5 ş2003
+: .oS.     N     _ANDREVON Jean-Pierre        La M‚moire des Khlos ş2003
+: .oY.     N     _FONTANA Jean-Pierre         L'Homme sans visage ş2003
+: .oY.     N     _DEMUTH Michel               The Fullerton incident ş2003
+: .oS.     N     _VERNAY Jean-Pierre          La Voyageuse et son double ş2003
+: .oS.     N     _BARBERI Jacques             La Bˆte ş2003
+: .oS.     N     _DUNYACH Jean-Claude         Libellules ş2003
+: .oY.     N     _LENN Jonas                  Crop circles ş2003
+: .oS.     N     _JEURY Michel                Escale ş2003
+: .oS.     N     _GIRARDOT Jean-Jacques       Les Chants de Mars ş2003
+: .oS.     N     _CANAL Richard               Les Enfants du chaos ş2003
+: .oY.     N     _WALTHER Daniel              Le Roman de la rose des temps ş2003
+: .oY.     N     _BARBERI Jacques            &Les Mille Oasis du temps perdu ş2003
+&                _COMBALLOT Richard           
+: .oS.     N     _CURVAL Philippe             Au tirage et au grattage ş2003
+!------------------------
+!=== 2004
+!------------------------
+!--- 
+!--- Icares
+!--- 
+o MNE_ICA    49i 2004.01 ..... ISBN 2-915159-14-9
+} mnemosi049     _Jean-Fran‡ois B‚nichoux     ?
+- .oY.     R     _ASARO Catherine             Radiance [Saga de l'empire Skolien - 2] ş1999 The Radiant Seas şTrad. SPINAT Xavier
+o MNE_ICA    50i 2004.02 ..... ISBN 2-915159-16-5
+} mnemosi050     _Julien Delval               ?
+- .oY.     R     _ROBERT Michel               La Belle Arcane [La Malerune - 3] ş2004
+o MNE_ICA    51i 2004.02 ..... ISBN 2-915159-17-3
+} mnemosi051     _Caza                        ?
+- .oS.    kR2    _WAGNER Roland C.            Aventuriers des ‚toiles ş2004
+: .o .     R     _WAGNER Roland C.            Les Psychopompes de Klash ş1990
+: .o .     R     _WAGNER Roland C.            Par la noirceur des ‚toiles bris‚es ş2000
+o MNE_ICA    52i 2004.01 ..... ISBN 2-915159-15-7
+} mnemosi052     _Manchu                      ?
+- .oY.     R     _HELIOT Johan                La Lune n'est pas pour nous [La Trilogie de la Lune - 2] ş2004
+o MNE_ICA    53i 2004.03 ..... ISBN 2-911619-18-1
+} mnemosi053     _Michael Welpy               ?
+- .oY.     R     _LINDHOLM Megan              Le Vol des harpies [Ki et Vandien - 1] ş1983 Harpy's Flight şTrad. SPINAT Xavier
+o MNE_ICA    54i 2004.04 ..... ISBN 2-915159-19-X
+} mnemosi054     _Julien Delval               ?
+- .oY.     R     _BOUCHARD Nicolas            L'Empire de poussiŠre III [L'Empire de poussiŠre - 3] ş2004
+o MNE_ICA    55i 2004.04 ..... ISBN 2-915159-20-3
+} mnemosi055     _Arnaud Cr‚met               ?
+- .o .     R     _CLAVEL Fabien               Les L‚gions dangereuses ş2004
+o MNE_ICA    56i 2004.05 ..... ISBN 2-915159-21-1
+} mnemosi056     _?                           ?
+- .oF.    _N21   *COMBALLOT Richard           Les Ombres de Peter Pan ş2004
+: .oF.     p     _COMBALLOT Richard           Pr‚face ş2004
+: .oF.     N     _BERTHELOT Francis           Peter Paon et la f‚e Crochette ş2004
+: .oF.     N     _DARTEVELLE Alain            Avec Mrs Darling ş2004
+: .oF.     N     _CALVO David                 Super Croc ş2004
+: .oF.     N     _WALTHER Daniel              Saisons de verre ş2004
+: .oF.     N     _DENIS Sylvie                Peter Pan ne meurt jamais ş2004
+: .oF.     N     _COLIN Fabrice               Une autre fois, Damon ş2004
+: .oF.     N     _MAMIER Claude               Les Ailes que je n'ai jamais eues ş2004
+: .oF.     N     _AYERDHAL                    Le R‚veil du croco ş2004
+: .oF.     N     _CHATEAUREYNAUD G.-O.        Un Peter Pan ş2004
+: .oF.     N     _DUGUEL Anne                 Saloperie de f‚e ! ş2004
+: .oF.     N     _STOLZE Pierre               Le Dortoir des filles et la deuxiŠme loi de la thermodynamique ş2004
+: .oF.     N     _VERNAY Jean-Pierre          Flint Corp ş2004
+: .oF.     N     _DUFOUR Catherine            La Perruque du juge ş2004
+: .oF.     N     _GIRARDOT Jean-Jacques       L'Œle ‚troite ş2004
+: .oF.     N     _LEOURIER Christian          Blues pour un gar‡on perdu ş2004
+: .oF.     N     _BENSON St‚phanie            Le Pays des enfants perdus ş2004
+: .oF.     N     _VILA Christian              Pas une ombre au tableau ş2004
+: .oF.     N     _ANDREVON Jean-Pierre        SuperPan et les morts qui rˆvent ş2004
+: .oF.     N     _HELIOT Johan                Idylle du temps des ombres ş2004
+: .oF.     N     _MAUMEJEAN Xavier            Raven K [La Ligue des h‚ros] ş2004
+: .oF.     N     _BARBERI Jacques             Conte … rebours ş2004
+o MNE_ICA    57i 2004.06 ..... ISBN 2-915159-23-8
+} mnemosi057     _Michael Welply              ?
+- .o .     R     _MODESITT L.E.               Le Banni de Recluce [Le Monde de Recluce - 1] ş1991 The Magic of Recluce şTrad. CALLUAUD Laurent
+o MNE_ICA    58i 2004.08 ..... ISBN 2-911619-26-2
+} mnemosi058     _Julien Delval               ?
++ MNE_ICA     ?  2007.11 ..... ISBN 978-2-35408-023-5
+} mnemosi058rr07 _Julien Delval               ?
++ MNE_ICA     ?  2009.11 ..... ISBN 978-2-35408-067-9
+} mnemosi058rr09 _Julien Delval               ?
+- .oY.     R     _ROBERT Michel               L'Ange du Chaos [L'Agent des ombres - 1] ş2004
+o MNE_ICA    59i 2004.09 ..... ISBN 2-911619-27-0
+} mnemosi059     _Manchu                      ?
+- .oY.     R     _MARCHIKA Colin              Les Gardiens d'Aleph-Deux ş2004
+o MNE_ICA    60i 2004.09 ..... ISBN 2-911619-25-4
+} mnemosi060     _Michael Welply              ?
+- .oY.     R     _LINDHOLM Megan              Les Ventchanteuses [Ki et Vandien - 2] ş1984 The Windsingers şTrad. LE PENNEC Guillaume
+o MNE_ICA    61i 2004.10 ..... ISBN 2-911619-28-9
+} mnemosi061     _Manchu                      ?
+- .oY.     R     _MAUMEJEAN Xavier            La V‚nus anatomique ş2004
+o MNE_ICA    62i 2004.10 ..... ISBN 2-911619-29-7
+} mnemosi062     _Marc Mosnier                ?
+- .oS.     R     _HOLDSTOCK Robert            Earthwind ş1977 Earthwind şTrad. KAZOURIAN Sandra
+o MNE_ICA    63i 2004.11 ..... ISBN 2-911619-31-9
+} mnemosi063     _Caza                        ?
+- .oF.    _N21   *COMBALLOT Richard           Mission Alice ş2004
+: .oF.     p     _RUAUD Andr‚-Fran‡ois        Miroir et curiosit‚ ş2004
+: .oF.     N     _WALTHER Daniel              Alice contre la Reine Noire ş2004
+: .oF.     N     _BERTHELOT Francis           La Nouvelle Alice ou les bonheurs de l'impertinence ş2004
+: .oF.     N     _LAMART Michel               Celia in Wanderland ş2004
+: .oF.     N     _HUBERT Jean-Pierre          La Prochaine Fois ş2004
+: .oF.     N     _HELIOT Johan                Paris avant l'orage ş2004
+: .oF.     N     _GIRARDOT Jean-Jacques       Alice et le monde de l'arc-en-ciel ş2004
+: .oF.     N     _ANDREVON Jean-Pierre        A-Liss n'est plus ici ş2004
+: .oF.     N     _JUBERT Herv‚                La Course au Tschock ş2004
+: .oF.     N     _DUGUEL Anne                 De la Mort et autres merveilles ş2004
+: .oF.     N     _BIZIEN Jean-Luc             Waiting for... Alice ş2004
+: .oF.     N     _NAUGRETTE Jean-Pierre       Qui a tu‚ le lapin blanc ? Echec … Sherlock Holmes ş2004
+: .oF.     N     _STOLZE Pierre               Parfum de Santal au pays des immortels ş2004
+: .oF.     N     _MAUMEJEAN Xavier            Il ‚tait reveneure... [La Ligue des h‚ros] ş2004
+: .oF.     N     _LECIGNE Bruno               Mission Alice ş2004
+: .oF.     N     _DUFOUR Catherine            Le PoŠme au carr‚ ş2004
+: .oF.     N     _VERNAY Jean-Pierre          Histoire d'Alice et du chanteur arc-en-ciel ş2004
+: .oF.     N     _BARBERI Jacques             Alice en verres miroirs ş2004
+: .oF.     N     _CHATEAUREYNAUD G.-O.        De l'autre c“t‚ d'Alice ş2004
+: .oF.     N     _CANAL Richard               Le Secret de madame Hargreaves ş2004
+: .oF.     N     _BELLAGAMBA Ugo              La Maladie d'Alice ş2004
+: .oF.     N     _COLIN Fabrice               Arnarstapi ş2004
+o MNE_ICA    64i 2004.11 ..... ISBN 2-911619-30-0
+} mnemosi064     _Gil Formoza                 ?
+- .oY.     R     _ASARO Catherine             Quantum Rose [Saga de l'empire Skolien - 3] ş2000 The Quantum Rose şTrad. DENIS Sylvie & WAGNER Roland C.
+o MNE_ICA    65i 2004.11 ..... ISBN 2-911619-32-7
+} mnemosi065     _Guillaume Sorel             ?
+- .oY.     R     _HETLEY James A.             Le Royaume de l'‚t‚ ş2002 The Summer Country şTrad. TILCHE Pascal & SPINAT Xavier
+!------------------------
+!=== 2005
+!------------------------
+!--- 
+!--- Icares
+!--- 
+o MNE_ICA    66i 2005.01 ..... ISBN 2-915159-33-5
+} mnemosi066     _Florent Maudoux             ?
+- .o .     R     _MODESITT L.E.               L'Empereur d'Hamor [Le Monde de Recluce - 2] ş1995 The Death of Chaos şTrad. CALLUAUD Laurent
+o MNE_ICA    67i 2005.02 ..... ISBN 2-911619-34-3
+} mnemosi067     _Manchu                      ?
+- .o .     R     _ALBAR Ludovic               La Coexistence [Quantex - 3] ş2005
+o MNE_ICA    68i 2005.02 ..... ISBN 2-911619-22-X
+} mnemosi068     _Julien Delval               ?
+- .oY.     R     _SAVISTE Pierre              La Grande Conjonction [OmbramŠre - 4] ş2005
+o MNE_ICA    69i 2005.03 ..... ISBN 2-911619-36-X
+} mnemosi069     _Guillaume Sorel             ?
+- .oY.     R     _BRUST Steven                Jhereg [Jhereg - 1] ş1983 Jhereg şTrad. LE PENNEC Guillaume
+o MNE_ICA    70i 2005.03 ..... ISBN 2-911619-35-1
+} mnemosi070     _Florence Magnin             N
+- .oY.     R2    _PERNOT Isabelle             Les Enfants de Lugheir 1 [Les Enfants de Lugheir - 1/2] ş2005
+: .o .     R     _PERNOT Isabelle             Au nom de la magie [Les Enfants de Lugheir - 1] ş2000
+: .o .     R     _PERNOT Isabelle             La MŠre des songes [Les Enfants de Lugheir - 2] ş2001
+o MNE_ICA    71i 2005.03 ..... ISBN 2-911619-37-8
+} mnemosi071     _Florence Magnin             N
+- .oY.     R2    _PERNOT Isabelle             Les Enfants de Lugheir 2 [Les Enfants de Lugheir - 3/4] ş2005
+: .o .     R     _PERNOT Isabelle             La Forteresse d'Ynis Mor [Les Enfants de Lugheir - 3] ş2002
+: .o .     R     _PERNOT Isabelle             L'Ombre du pass‚ [Les Enfants de Lugheir - 4] ş2003
+o MNE_ICA    72i 2005.04 ..... ISBN 2-915159-39-4
+} mnemosi72      _Julien Delval               ?
+- .oY.     R     _TEPPER Sheri S.             L'Aube du visiteur ş2002 The Visitor şTrad. KAZOURIAN Sandra
+o MNE_ICA    73i 2005.03 ..... ISBN 2-911619-40-8
+} mnemosi073     _Gil Formoza                 ?
+- .oS.    _N18   *COMBALLOT Richard           La Machine … remonter les rˆves : Les enfants de Jules Verne ş2005
+: .oS.     p     _COMBALLOT Richard          &Pourquoi nous ressuscitons Jules Verne ş2005
+&                _HELIOT Johan                 
+: .oS.     N     _MAUMEJEAN Xavier            Cuit dur ş2005
+: .oS.     N     _STOLZE Pierre               La guerre des mondes a bien eu lieu ş2005
+: .oS.     N     _VILA Christian              La Myst‚rieuse Antarctide ş2005
+: .oS.     N     _WALTHER Daniel              Le Retour de Wilhelm Storitz ş2005
+: .oS.     N     _PEVEL Pierre                Magicis in mobile ş2005
+: .oS.     N     _JUBERT Herv‚                On a vol‚ le p“le magn‚tique ş2005
+: .oS.     N     _CANAL Richard               Le Dieu m‚canique ş2005
+: .oS.     N     _LAMART Michel               Blanc partout ş2005
+: .oS.     N     _CURVAL Philippe             D‚calage temporel ş2005
+: .oS.     N     _BELLAGAMBA Ugo              Non-absinthe ş2005
+: .oS.     N     _PAGEL Michel                Le V‚ritable Secret de Wilhelm Storitz ş2005
+: .oS.     N     _HUBERT Jean-Pierre         &La Journ‚e d'un ‚crivain fran‡ais en 2889 ş2005
+&                _RAMEZ Serge                 
+: .oS.     N     _JEURY Michel                Eve, … tout jamais ş2005
+: .oS.     N     _GIRARDOT Jean-Jacques       Une visite au pavillon Jules Verne ş2005
+: .oS.     N     _VERNAY Jean-Pierre          20000 lieues dans l'espace ş2005
+: .oS.     N     _COLIN Fabrice               Intervention forc‚e en milieu cr‚pusculaire ş2005
+: .oS.     N     _LEHMAN Serge                Le Gouffre aux chimŠres ş2005
+: .oS.     N     _BARBERI Jacques             La Machine … remonter les rˆves ş2005
+: .oS.     N     _ANGELIER Fran‡ois           La Fˆte … Jules ş2005
+o MNE_ICA    74i 2005.05 ..... ISBN 2-915159-41-6
+} mnemosi074     _Gil Formoza                 ?
+- .oY.     R     _CLAVEL Fabien               L'Antil‚gende ş2005
+o MNE_ICA    75i 2005.05 ..... ISBN 2-915159-41-6
+} mnemosi075     _Julien Delval               ?
+- .oY.     R     _LINDHOLM Megan              La Porte du Limbreth [Ki et Vandien - 3] ş1984 The Limbreth Gate şTrad. LE PENNEC Guillaume
+o MNE_ICA    76i 2005.06 ..... ISBN 2-915159-45-9
+} mnemosi076     _Marc Mosnier                ?
+- .oY.     R     _HOLDSTOCK Robert            Le Bois de Merlin ş1994 Merlin's Wood şTrad. KAZOURIAN Sandra
+o MNE_ICA    77i 2005.06 ..... ISBN 2-915159-43-2
+} mnemosi077     _Jean-Luc Sala               ?
+- .oS.     R     _NIVEN Larry                 L'Anneau-Monde [Known space] ş1970 Ringworld şTrad. LAMIDEY Fabrice
+o MNE_ICA    78i 2005.06 ..... ISBN 2-015159-44-0
+} mnemosi078     _Guillaume Sorel             ?
++ MNE_DED     ?  2018.05 ..... ISBN 978-2-35408-349-6
+} noimg          _?                           ?
+- .oY.     R     _MAUMEJEAN Xavier            Car je suis l‚gion ş2005
+o MNE_ICA    79i 2005.08 ..... ISBN 2-915159-48-3
+} mnemosi079     _Philippe Gady               ?
+- .oY.     R     _RUSSELL Sean                Les Routes de l'ombre [La Guerre des cygnes - 4] ş2004 The Shadow Roads şTrad. LE PENNEC Guillaume
+o MNE_ICA    80i 2005.08 ..... ISBN 2-915159-49-1
+} mnemosi080     _Julien Delval               ?
++ MNE_ICA     ?  2007.11 ..... ISBN 978-2-35408-025-9
+} mnemosi080rr07 _Julien Delval               ?
+- .oY.     R     _ROBERT Michel               Coeur de Loki [L'Agent des ombres - 2] ş2005
+o MNE_ICA     ?  2010.xx ..... ISBN 978-2-35408-072-3
+} mnemosi080rr10 _Julien Delval               ?
+- .oY.     R     _ROBERT Michel               Coeur de Loki [L'Agent des ombres - 2] ş2005-2010
+o MNE_ICA    81i 2005.09 ..... ISBN 2-915159-50-5
+} mnemosi081     _?                           ?
+- .oY.     R     _HELIOT Johan                Faerie Thriller ş2005
+o MNE_ICA    82i 2005.09 ..... ISBN 2-915159-47-5
+} mnemosi082     _Gil Formoza                 ?
+- .oY.     R     _ASARO Catherine             Soleil ascendant [Saga de l'empire Skolien - 4] ş2000 Ascendant Sun şTrad. EMERICH Bernadette
+o MNE_ICA    83i 2005.09 ..... ISBN 2-915159-51-3
+} mnemosi083     _Julien Delval               ?
+- .oY.     R     _McKILLIP Patricia A.        Les Fant“mes d'Ombria ş2002 Ombria in Shadow şTrad. TILCHE Pascal
+o MNE_ICA    84i 2005.10 ..... ISBN 2-915159-52-1
+} mnemosi084     _Caza                        ?
+- .oY.     R     _DUFOUR Catherine            Le Go–t de l'immortalit‚ ş2005
+o MNE_ICA    85i 2005.10 ..... ISBN 2-915159-53-X
+} mnemosi085     _Julien Delval               ?
+- .oF.     R     _MARTIN George R.R.          Riverdream ş1983 Fevre Dream şTrad. ROBERT Alain
+o MNE_ICA    86i 2005.11 ..... ISBN 2-915159-58-0
+} mnemosi086     _Florent Maudoux             ?
+- .oY.     R     _MODESITT L.E.               La Mort du chaos [Le Monde de Recluce - 3] ş1995 The Death of Chaos şTrad. CALLUAUD Luc
+o MNE_ICA    87i 2005.11 ..... ISBN 2-915159-57-2
+} mnemosi087     _Geoff Taylor                ?
+- .oY.     R     _KERR Katharine              Le SortilŠge de la dague [Cycle de Deverry - 1] ş1986 Daggerspell şTrad. ROGER Marguerite
+!------------------------
+!=== 2006
+!------------------------
+!--- 
+!--- Icares
+!--- 
+o MNE_ICA    88i 2006.01 ..... ISBN 2-915159-55-6
+} mnemosi088     _Manchu                      ?
+- .oY.     R     _STROSS Charles              Cr‚puscule d'acier [Singularity Sky - 1] ş2004 Iron Sunrise şTrad. SPINAT Xavier
+o MNE_ICA    89i 2006.01 ..... ISBN 2-915159-60-2
+} mnemosi089     _Guillaume Sorel             ?
+- .oY.     R     _BRUST Steven                Yendi [Jhereg - 2] ş1984 Yendi şTrad. LE PENNEC Guillaume
+o MNE_ICA    90i 2006.01 ..... ISBN 2-915159-59-9
+} mnemosi090     _Caza                        ?
+- .oS.     R     _DONALDSON Stephen R.        La V‚ritable Histoire [Cycle des seuils - 1] ş1991 The Gap Into Conflict: The Real Story şTrad. MARCEL Patrick
+o MNE_ICA    91i 2006.01 ..... ISBN 2-915159-61-0
+} mnemosi091     _Gil Formoza                 ?
+- .oS.     R     _NIVEN Larry                 Les Ing‚nieurs de l'anneau-monde [Known space] ş1980 The Ringworld Engineers şTrad. LAMIDEY Fabrice
+o MNE_ICA    92i 2006.02 ..... ISBN 2-915159-62-9
+} mnemosi092     _Guillaume Sorel             ?
+- .oY.     R     _HOLDSTOCK Robert            N‚cromancien ş1985 Necromancer şTrad. KAZOURIAN Sandra
+o MNE_ICA    93i 2006.02 ..... ISBN 2-915159-63-7
+} mnemosi093     _Marc Simonetti              N
+- .oS.     R2    _RUAUD Andr‚-Fran‡ois        La Cit‚ d'en haut ş2006
+: .oS.     R     _RUAUD Andr‚-Fran‡ois        Des ombres sous la pluie ş1999
+: .oS.     R     _RUAUD Andr‚-Fran‡ois        Des feux sous la lumiŠre ş2006
+o MNE_ICA    94i 2006.03 ..... ISBN 2-915159-64-5
+} mnemosi094     _Gil Formoza                 ?
+- .oS.     R     _CANAL Richard               Deloria - La L‚gende des Frahmabores ş2006
+o MNE_ICA    95i 2006.03 ..... ISBN 2-915159-65-3
+} mnemosi095     _Beet                        ?
+- .oY.     R     _JOHNSON Oliver              La Forge de t‚nŠbres - Volume 1 [Le Cycle des porteurs de lumiŠre - 1] ş1996 The Forging of the Shadows şTrad. LE PENNEC Guillaume
+o MNE_ICA    96i 2006.04 ..... ISBN 2-915159-71-8
+} mnemosi096     _Florent Maudoux             ?
+- .oY.     R     _MODESITT L.E.               Les Tours du cr‚puscule - Volume 1 [Le Monde de Recluce - 4] ş1992 The Towers of the Sunset şTrad. CALLUAUD Laurent
+o MNE_ICA    97i 2006.04 ..... ISBN 2-915159-69-6
+} mnemosi097     _Guillaume Sorel             ?
+- .oY.     R     _BRUST Steven               &La Nuit du pr‚dateur ş1992 The Gipsy şTrad. ELIROFF Thibaud
+&                _LINDHOLM Megan              
+o MNE_ICA    98i 2006.05 ..... ISBN 2-915159-68-8
+} mnemosi098     _Beet                        ?
+- .oY.     R     _JOHNSON Oliver              La Forge de t‚nŠbres - Volume 2 [Le Cycle des porteurs de lumiŠre - 2] ş1996 The Forging of the Shadows şTrad. LE PENNEC Guillaume
+o MNE_ICA    99i 2006.05 ..... ISBN 2-915159-73-4
+} mnemosi099     _Florent Maudoux             ?
+- .oY.     R     _MODESITT L.E.               Les Tours du cr‚puscule  - Volume 2 [Le Monde de Recluce - 5] ş1992 The Towers of the Sunset şTrad. CALLUAUD Laurent
+o MNE_ICA   100i 2006.06 ..... ISBN 2-915159-79-3
+} mnemosi100     _Caza                        ?
+- .oS.     R     _DONALDSON Stephen R.        Le Savoir interdit [Cycle des seuils - 2] ş1991 The Gap Into Vision: The Forbidden Knowledge şTrad. MARCEL Patrick
+o MNE_ICA   101i 2006.06 ..... ISBN 2-915159-80-7
+} mnemosi101     _Manchu                      ?
+- .oY.     R     _STROSS Charles              Aube d'acier [Singularity Sky - 2] ş2004 Iron Sunrise şTrad. EMERICH Bernadette
+o MNE_ICA   102i 2006.08 ..... ISBN 2-915159-87-4
+} mnemosi102     _Gof Taylor                  ?
+- .oY.     R     _KERR Katharine              Le SortilŠge de l'ombre [Cycle de Deverry - 2] ş1987 Darkspell şTrad. ROGER Marguerite
+o MNE_ICA   103i 2006.08 ..... ISBN 2-915159-77-7
+} mnemosi103     _Julien Delval               ?
+- .oY.     R     _LINDHOLM Megan              Les Roues du destin [Ki et Vandien - 4] ş1989 Luck of the Wheels şTrad. LE PENNEC Guillaume
+o MNE_ICA     ?  2006.09 ..... ISBN 2-915159-84-X
+} mnemosi104     _Julien Delval               ?
++ MNE_ICA     ?  2010.02 ..... ISBN 978-2-35408-070-9
+} mnemosi104rr10 _Julien Delval               ?
+- .oY.     R     _ROBERT Michel               Sang-Piti‚ [L'Agent des ombres - 3] ş2006
+o MNE_ICA     ?  2006.09 ..... ISBN 2-915159-81-5
+} mnemosi105     _Florent Maudoux             ?
+- .oY.     R     _KILWORTH Garry              Le Manteau des ‚toiles [Les Rois navigateurs - 1] ş1996 The Roof of Voyaging şTrad. KAZOURIAN Sandra
+o MNE_ICA     ?  2006.09 ..... ISBN 2-915159-85-8
+} mnemosi106     _Guillaume Sorel             ?
+- .oY.     R     _CLAVEL Fabien               La Cit‚ de Satan ş2006
+o MNE_ICA     ?  2006.10 ..... ISBN 2-915159-88-2
+} mnemosi107     _Didier Graffet              ?
+- .oF.     R     _BARROW Wayne                Bloodsilver ş2006
+o MNE_ICA     ?  2006.10 ..... ISBN 2-915159-90-4
+} mnemosi108     _Didier Graffet              ?
+- .oY.     R     _MARCHIKA Colin              A la poursuite de l'avant-monde ş2006
+o MNE_ICA     ?  2006.10 ..... ISBN 2-915159-91-2
+} mnemosi109     _Gil Formoza                 ?
+- .oS.     R     _NIVEN Larry                 Le Tr“ne de l'anneau-monde [Known space] ş1996 The Ringworld Throne şTrad. TILCHE Pascal
+o MNE_ICA     ?  2006.11 ..... ISBN 2-915159-92-0
+} mnemosi110     _Guillaume Sorel             ?
+- .oY.     R     _BRUST Steven                Teckla [Vlad Taltos] ş1986 Teckla şTrad. LE PENNEC Guillaume
+o MNE_ICA     ?  2006.11 ..... ISBN 2-915159-93-9
+} mnemosi111     _Caza                        ?
+- .oS.    _U7    _MARTIN George R.R.          Le Voyage de Haviland Tuf ş1986 Tuf Voyaging şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          L'toile de la Peste ş1985 The Plague Star şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Pains et poissons ş1985 Loaves and Fishes şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Les Gardiens ş1981 Guardians şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Seconds services ş1985 Second Helpings şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Une bˆte pour Norne ş1976 A Beast for Norn şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          On l'appelait Mo‹se ş1978 Call Him Moses şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Manne c‚leste ş1985 Manna from Heaven şTrad. ROBERT Alain
+!------------------------
+!=== 2007
+!------------------------
+!--- 
+!--- Icares
+!--- 
+o MNE_ICA     ?  2007.01 ..... ISBN 978-2-915159-96-7
+} mnemosi112     _Beet                        ?
+- .oY.     R     _JOHNSON Oliver              Les Nations de la nuit - Volume 1 [Le Cycle des porteurs de lumiŠre - 2.1] ş1998 Nations of the Night şTrad. LE PENNEC Guillaume
+o MNE_ICA     ?  2007.01 ..... ISBN 978-2-915159-97-4
+} mnemosi113     _Beet                        ?
+- .oY.     R     _JOHNSON Oliver              Les Nations de la nuit - Volume 2 [Le Cycle des porteurs de lumiŠre - 2.2] ş1998 Nations of the Night şTrad. LE PENNEC Guillaume
+o MNE_ICA     ?  2007.02 ..... ISBN 978-2-915159-98-1
+} mnemosi114     _S‚bastein Hayez & Aymeric Hays-Narbonne ?
+- .oY.     R     _MARLEY Louise               La Musique de verre ş2000 The Glass Harmonica şTrad. ELIROFF Thibaud
+o MNE_ICA     ?  2007.02 ..... ISBN 978-2-915159-76-9
+} mnemosi115     _Julien Delval               ?
++ MNE_ICA     ?  2010.04 ..... ISBN 978-2-35408-074-7
+} mnemosi115rr10 _Julien Delval               ?
+- .oY.     R     _ROBERT Michel               Hors-destin [L'Agent des ombres - 4] ş2007
+o MNE_ICA     ?  2007.03 ..... ISBN 978-2-915159-99-8
+} mnemosi116     _Florent Maudoux             ?
+- .oY.     R     _KILWORTH Garry              Le Temps des guerriers [Les Rois navigateurs - 2] ş1997 The Princely Flower şTrad. KAZOURIAN Sandra
+o MNE_ICA     ?  2007.03 ..... ISBN 978-2-915159-95-0
+} mnemosi117     _Caza                        ?
+- .oS.     R     _DONALDSON Stephen R.        L'veil du Dieu noir [Cycle des seuils - 3] ş1991 The Gap Into Power: A Dark and Hungry God Arises şTrad. MARCEL Patrick
+o MNE_ICA     ?  2007.04 ..... ISBN 978-2-35408-004-4
+} mnemosi118     _Guillaume Sorel             ?
+- .oY.     R     _BRUST Steven                Taltos [Vlad Taltos] ş1988 Taltos şTrad. LE PENNEC Guillaume
+o MNE_ICA     ?  2007.04 ..... ISBN 978-2-35408-006-8
+} mnemosi119     _Marc Simonetti              ?
+- .oS.     R     _NIVEN Larry                 Les Enfants de l'anneau-monde [Known space] ş2004 Ringworld's Children şTrad. TILCHE Pascal
+o MNE_ICA     ?  2007.05 ..... ISBN 978-2-35408-007-5
+} mnemosi120     _Didier Graffet              N
++ MNE_ICA     ?  2010.08 ..... ISBN 978-2-35408-086-0
+} mnemosi120rr10 _Didier Graffet              N
++ MNE_ICA     ?  2018.04 ..... ISBN 978-2-35408-637-4
+} mnemosi120rr18 _Goulven Quentel             N
+- .oY.     R5    _GABORIT Mathieu             Les Royaumes cr‚pusculaires - L'int‚grale [Les Royaumes cr‚pusculaires] ş2007
+: .o .     R     _GABORIT Mathieu             Souffre-jour [Les Chroniques des cr‚pusculaires - 1][Les Royaumes cr‚pusculaires] ş1995-1999
+: .o .     R     _GABORIT Mathieu             Les Danseurs de Lorgol [Les Chroniques des cr‚pusculaires - 2][Les Royaumes cr‚pusculaires] ş1996-1999
+: .o .     R     _GABORIT Mathieu             Agone [Les Chroniques des cr‚pusculaires - 3][Les Royaumes cr‚pusculaires] ş1996-1999
+: .oY.     R     _GABORIT Mathieu             Aux ombres d'Abyme [Abyme - 1][Les Royaumes cr‚pusculaires] ş1996
+: .oY.     N     _GABORIT Mathieu             Renaissance [Abyme][Les Royaumes cr‚pusculaires] ş2007
+: .oY.     R     _GABORIT Mathieu             La Romance du d‚miurge [Abyme - 2][Les Royaumes cr‚pusculaires] ş1997
+o MNE_ICA     ?  2007.05 ..... ISBN 978-2-35408-002-0
+} mnemosi121     _Manchu                      ?
+- .oY.     R     _HELIOT Johan                La Lune vous salue bien [La Trilogie de la Lune - 3] ş2007
+o MNE_ICA     ?  2007.05 ..... ISBN 978-2-35408-008-2
+} mnemosi122     _Manchu                      ?
+- .oY.     R     _HELIOT Johan                La Lune seule le sait [La Trilogie de la Lune - 1] ş2000-2007
+o MNE_ICA     ?  2007.06 ..... ISBN 978-2-35408-009-9
+} mnemosi123     _S‚bastien Hayez             ?
+- .oF.     R     _MAUMEJEAN Xavier            Ganesha, les m‚moires de l'homme ‚l‚phant ş2000-2007
+o MNE_ICA     ?  2007.06 ..... ISBN 978-2-35408-010-5
+} mnemosi124     _Florent Maudoux             ?
+- .oY.     R     _MODESITT L.E.               L'Ordre blanc - Volume 1 [Le Monde de Recluce - 6] ş1998 The White Order şTrad. CALLUAUD Laurent
+o MNE_ICA     ?  2007.06 ..... ISBN 978-2-35408-011-2
+} mnemosi125     _Florent Maudoux             ?
+- .oY.     R     _MODESITT L.E.               L'Ordre blanc - Volume 2 [Le Monde de Recluce - 7] ş1998 The White Order şTrad. CALLUAUD Laurent
+o MNE_ICA     ?  2007.08 ..... ISBN 978-2-35408-012-9
+} mnemosi126     _Geoff Taylor                ?
+- .oY.     R     _KERR Katharine              Le SortilŠge de l'aube [Cycle de Deverry - 3] ş1989 Dawnspell / Dawnspell: The Bristling Wood şTrad. ROGER Marguerite
+o MNE_ICA     ?  2007.09 ..... ISBN 978-2-35408-014-3
+} mnemosi127     _Didier Graffet & Franck Achard ?
+- .oY.     R     _BRUST Steven                Les Gardes Ph‚nix ş1991 The Phoenix Guards şTrad. BERTHEZENE BenoŒt
+o MNE_ICA     ?  2007.09 ..... ISBN 978-2-35408-016-7
+} mnemosi128     _Didier Graffet              ?
+- .oY.     R     _JARRY Nicolas               Le Loup de Deb [Chroniques du loup de Deb - 1] ş2007
+o MNE_ICA     ?  2007.09 ..... ISBN 978-2-35408-017-4
+} mnemosi129     _Didier Graffet              ?
+- .oY.     R     _JARRY Nicolas               La Terre d'horizon [Chroniques du loup de Deb - 2] ş2007
+o MNE_ICA     ?  2007.09 ..... ISBN 978-2-35408-019-8
+} mnemosi130     _?                           ?
++ MNE_ICA     ?  2010.09 ..... ISBN 978-2-35408-087-7
+} mnemosi130rr10 _Julien Delval               ?
+- .oY.     R     _GEMMELL David               Le Lion de Mac‚doine [Le Lion de Mac‚doine - 1] ş1991 Lion of Macedon şTrad. HOLWECK Eric
+o MNE_ICA     ?  2007.10 ..... ISBN 978-2-35408-024-2
+} mnemosi131     _?                           ?
++ MNE_ICA     ?  2010.09 ..... ISBN 978-2-35408-088-4
+} mnemosi131rr10 _Julien Delval               ?
+- .oY.     R     _GEMMELL David               Le Prince noir [Le Lion de Mac‚doine - 2] ş1991 Dark Prince şTrad. HOLWECK Eric
+o MNE_ICA     ?  2007.10 ..... ISBN 978-2-35408-020-4
+} mnemosi132     _Beet                        ?
+- .oY.     R     _JOHNSON Oliver              La DerniŠre ‚toile de l'aube [Le Cycle des porteurs de lumiŠre - 3] ş1999 The Last Star at Dawn şTrad. LE PENNEC Guillaume
+o MNE_ICA     ?  2007.11 ..... ISBN 978-2-35408-013-6
+} mnemosi133     _Julien Delval               ?
++ MNE_ICA     ?  2010.04 ..... ISBN 978-2-35408-075-4
+} mnemosi133rr10 _Julien Delval               ?
+- .oY.     R     _ROBERT Michel               Belle de mort [L'Agent des ombres - 5] ş2007
+o MNE_ICA     ?  2007.11 ..... ISBN 978-2-35408-021-1
+} mnemosi134     _Florent Maudoux             ?
+- .oY.     R     _KILWORTH Garry              La Terre de brumes [Les Rois navigateurs - 3] ş1998 Land-of-Mists şTrad. KAZOURIAN Sandra
+!------------------------
+!=== 2008
+!------------------------
+!--- 
+!--- Icares
+!--- 
+o MNE_ICA     ?  2008.01 ..... ISBN 978-2-35408-028-0
+} mnemosi135     _Vincent Madras              ?
+- .oY.     R     _FLEWELLING Lynn             Les MaŒtres de l'ombre [Nightrunner - 1] ş1996 Luck in the Shadows şTrad. BOCLET AgnŠs
+o MNE_ICA     ?  2008.01 ..... ISBN 978-2-35408-026-6
+} mnemosi136     _Caza                        ?
+- .oS.    kRN    _DUFOUR Catherine            Le Go–t de l'immortalit‚ ş2008
+: .o .     R     _DUFOUR Catherine            Le Go–t de l'immortalit‚ ş2005
+: .o .     N     _DUFOUR Catherine            En noir et blanc et en silence ş2008
+o MNE_ICA     ?  2008.02 ..... ISBN 978-2-35408-031-0
+} mnemosi137     _Marc Simonetti              ?
+- .oY.     R     _BOUCHARD Nicolas            Les Enfants de Dana ş2008
+o MNE_ICA     ?  2008.03 ..... ISBN 978-2-35408-015-0
+} mnemosi138     _St‚phane Casali             N
+- .oS.    kR2    _GABORIT Mathieu             BohŠme [BohŠme - 1/2] ş2007
+: .oS.     R     _GABORIT Mathieu             Les Rives d'Antipolie [BohŠme - 1] ş1997
+: .oS.     R     _GABORIT Mathieu             R‚volutsyia [BohŠme - 2] ş1997
+o MNE_ICA     ?  2008.03 ..... ISBN 978-2-35408-032-7
+} mnemosi139     _Marc Simonetti              ?
+- .oY.     R     _GREGAN John                 Requiem pour elfe noir ş2008
+o MNE_ICA     ?  2008.04 ..... ISBN 978-2-35408-033-4
+} mnemosi140     _Julien Delval               ?
+- .oY.     R     _HETLEY James A.             Le Seigneur de l'hiver ş2004 The Winter Oak şTrad. CHAZEL C‚lia
+o MNE_ICA     ?  2008.04 ..... ISBN 978-2-35408-035-8
+} mnemosi141     _Geoff Taylor                ?
+- .oY.     R     _KERR Katharine              Le SortilŠge du dragon [Cycle de Deverry - 4] ş1990 The Dragon Revenant / Dragonspell: The Southern Sea şTrad. LE PENNEC Guillaume
+o MNE_ICA     ?  2008.05 ..... ISBN 978-2-35408-034-1
+} mnemosi142     _David Raffel                ?
+- .oY.     R     _ROBERT Michel               Les 4 Mousquetaires... et plus si affinit‚s ş2008
+o MNE_ICA     ?  2008.06 ..... ISBN 978-2-35408-037-2
+} mnemosi143     _Julien Delval               ?
+- .oY.     R     _MARTEL Jacques              Sacrifice du guerrier - Tome 1 ş2008
+o MNE_ICA     ?  2008.09 ..... ISBN 978-2-35408-038-9
+} mnemosi144     _Gess                        ?
+- .oY.     R     _MARCHIKA Colin              La Magicienne oubli‚e [La Reine de Vend“me - 1/2] ş2001-2008
+o MNE_ICA     ?  2008.09 ..... ISBN 978-2-35408-039-6
+} mnemosi145     _Julien Delval               ?
+- .oY.     R     _MARTEL Jacques              Sacrifice du guerrier - Tome 2 ş2008
+o MNE_ICA     ?  2008.10 ..... ISBN 978-2-35408-042-6
+} mnemosi146     _Nicolas Siner               ?
+- .oY.     R     _MAZAURETTE Ma‹a             Dehors les chiens, les infidŠles ş2008
+o MNE_ICA     ?  2008.10 ..... ISBN 978-2-35408-041-9
+} mnemosi147     _Julien Delval               ?
+- .oY.     R     _SAVISTE Pierre              Le Marcheur sans rune [L'Eau des prophŠtes - 1] ş2008
+o MNEMOS      ?  2008.xx ..... ISBN 978-2-35408-...-.
+} mnemoshs2008   _?                           ?
+- .oS.     E     _RUAUD Andr‚-Fran‡ois       &Science-fiction - Les frontiŠres de la modernit‚ ş2014
+&                _COLSON Rapha‰l              
+!------------------------
+!=== 2009
+!------------------------
+!--- 
+!--- D‚dales
+!--- 
+o MNE_DED     ?  2009.09 ..... ISBN 978-2-35408-051-8
+} mnemosd01      _Julien Delval               ?
+- .oS.     R     _MAZAURETTE Ma‹a             Rien ne nous survivra (Le pire est avenir) ş2004
+o MNE_DED     ?  2009.09 ..... ISBN 978-2-36408-057-0
+} mnemosd02      _Diego Tripodi               ?
+- .oF.     R     _HOLSTEIN Eric               Petits arrangements avec l'‚ternit‚ ş2009
+!--- 
+!--- Icares
+!--- 
+o MNE_ICA     ?  2009.01 ..... ISBN 978-2-35408-045-7
+} mnemosi148     _?                           ?
+- .oY.     R     _ROBERT Michel               Les Terres de sang [Gheritarish - 1] ş2009
+o MNE_ICA     ?  2009.01 ..... ISBN 978-2-35408-046-4
+} mnemosi149     _Arnaud Cr‚met               ?
+- .oS.     R     _MARCASTEL Jean-Luc          Frankia - Tome 1 [Frankia - 1] ş2009
+o MNE_ICA     ?  2009.02 ..... ISBN 978-2-35408-047-1
+} mnemosi150     _Julien Delval               ?
+- .oY.     R     _BRY David                   Les Brigands d'Avelden [La Seconde Chute d'Ervalon - 1][Les Chroniques d'Ervalon] ş2009
+o MNE_ICA     ?  2009.04 ..... ISBN 978-2-35408-048-8
+} mnemosi151     _Julien Delval               ?
+- .oY.    kR2N2  _MAUMEJEAN Xavier            Kraven [La Ligue des h‚ros] ş2009
+: .o .     R     _MAUMEJEAN Xavier            La Ligue des h‚ros [La Ligue des h‚ros - 1] ş2002
+: .o .     R     _MAUMEJEAN Xavier            L'Šre du dragon [La Ligue des h‚ros - 2] ş2003
+: .o .     N     _MAUMEJEAN Xavier            Il ‚tait reveneure... [La Ligue des h‚ros] ş2004
+: .o .     N     _MAUMEJEAN Xavier            Raven K [La Ligue des h‚ros] ş2004
+o MNE_ICA     ?  2009.03 ..... ISBN 978-2-35408-049-5
+} mnemosi152     _Arnaud Cr‚met               ?
+- .oY.     R     _MARCASTEL Jean-Luc          Frankia - Tome 2 [Frankia - 2] ş2009
+o MNE_ICA     ?  2009.04 ..... ISBN 978-2-35408-050-1
+} mnemosi153     _Elvire de Cock              ?
+- .oF.     R     _BOUSQUET Charlotte          Arachnae [L'Archipel des Numin‚es - 1] ş2009
+o MNE_ICA     ?  2009.05 ..... ISBN 978-2-35408-043-3
+} mnemosi154     _Marc Simonetti              ?
+- .oY.     R     _STEWART Sean                Le Fils de nulle-part ş1993 Nobody's Son şTrad. SOREL Guillaume
+o MNE_ICA     ?  2009.05 ..... ISBN 978-2-35408-052-5
+} mnemosi155     _Julien Delval               ?
+- .oY.    kA12   *NICOT St‚phanie             Rois et capitaines ş2009
+: .o .     N     _JAWORSKI Jean-Philippe      Montefell•ne ş2009
+: .o .     N     _TANNER Rachel               La Damoiselle et le roitelet ş2009
+: .oS.     N     _BELMAS Claire              &Dans la main de l'orage ş2009
+&                _BELMAS Robert               
+: .o .     N     _MAZAURETTE Ma‹a             Sacre ş2009
+: .o .     N     _DAVOUST Lionel              L'Impassible armada ş2009
+: .o .     N     _DUFOUR Catherine            Le Prince des pucelles ş2009
+: .o .     N     _DAY Thomas                  La Reine sans nom ş2009
+: .o .     N     _CABASSON Armand             Serpent-B‚lier ş2009
+: .o .     N     _BORDAGE Pierre              Dans le coeur de l'Aaran ş2009
+: .o .     N     _HELIOT Johan                Au plus ‚lev‚ tr“ne du monde ş2009
+: .o .     N     _HEM Julien d'               Le Cr‚puscule de l'ours ş2009
+: .o .     N     _KLOETZER Laurent            L'Orage ş2009
+!->- personnages de "la m‚moire vagabonde"
+o MNE_ICA     ?  2009.05 ..... ISBN 978-2-35408-055-6
+} mnemosi156     _Arnaud Cr‚met               ?
+- .oY.     R     _MARCASTEL Jean-Luc          Frankia - Tome 3 [Frankia - 3] ş2009
+o MNE_ICA     ?  2009.06 ..... ISBN 978-2-35408-053-2
+} mnemosi157     _Marc Simonetti              ?
+- .oY.     R     _GIDON Laurent               Djeeb le Chanceur ş2009
+o MNE_ICA     ?  2009.06 ..... ISBN 978-2-35408-054-9
+} mnemosi158     _Julien Delval               ?
+- .oY.     R     _BRY David                   Les Seigneurs d'Ervalon [La Seconde Chute d'Ervalon - 2][Les Chroniques d'Ervalon] ş2009
+o MNE_ICA     ?  2009.09 ..... ISBN 978-2-35408-058-7
+} mnemosi159     _Julien Delval               ?
+- .oY.     R     _BRY David                   Le Destin d'Avelden [La Seconde Chute d'Ervalon - 3][Les Chroniques d'Ervalon] ş2009
+o MNE_ICA     ?  2009.09 ..... ISBN 978-2-35408-060-0
+} mnemosi160     _Paolo Parente               ?
+- .oS.     R     _BOUCHARD Nicolas            L'toile flamboyante [L'‚toile flamboyante - 1] ş2009
+o MNE_ICA     ?  2009.11 ..... ISBN 978-2-35408-059-4
+} mnemosi161     _Yayashin                    ?
+- .oFS     R     _CLAVEL Fabien               Homo Vampiris ş2009
+o MNE_ICA     ?  2009.11 ..... ISBN 978-2-35408-066-2
+} mnemosi162     _Johann Bodin                ?
+- .oY.     R     _NIOGRET Justine             Chien du Heaume [Chien du Heaume - 1] ş2009
+!------------------------
+!=== 2010
+!------------------------
+!--- 
+!--- D‚dales
+!--- 
+o MNE_DED     ?  2010.01 ..... ISBN 978-2-35408-062-4
+} mnemosd03      _Benjamin Carr‚              ?
+- .oF.     R     _MARTINEZ Rodolfo            La Sagesse des morts ş1996 La sabidur¡a de los muertos şTrad. FUENTEALBA Jacques
+o MNE_DED     ?  2010.02 ..... ISBN 978-2-35408-073-0
+} mnemosd04      _Manchu                      ?
+- .oS.     R     _DELMEULLE Fr‚d‚ric          La ParallŠle Vertov [Les Naufrag‚s de l'entropie - 1] ş2007-2010
+o MNE_DED     ?  2010.06 ..... ISBN 978-2-35408-069-3
+} mnemosd05      _Manchu                      ?
+- .oS.     R     _DELMEULLE Fr‚d‚ric          Les Manuscrits de Kinnereth [Les Naufrag‚s de l'entropie - 2] ş2010
+o MNE_DED     ?  2010.06 ..... ISBN 978-2-35408-085-3
+} mnemosd06      _Aur‚lien Police             ?
+- .oY.     R     _GIDON Laurent               Djeeb l'Encourseur ş2010
+o MNE_DED     ?  2010.05 ..... ISBN 978-2-35408-081-5
+} mnemosd07      _Alain Brion                 ?
+- .oY.     R     _O'LEARY Patrick             Le Don - L'ultime h‚ritage ş1997 The Gift şTrad. MEGE Nathalie
+o MNE_DED     ?  2010.10 ..... ISBN 978-2-35408-092-1
+} mnemosd08      _Alain Brion                 ?
+- .oS.    kU5    _SHEPARD Lucius              La Vie en temps de guerre ş1987 Life During Wartime şTrad. DELORD-PHILIPPE Isabelle
+: .oS.     N     _SHEPARD Lucius              La Perme ş1986 R & R
+: .oS.     u     _SHEPARD Lucius              Le Bon Soldat ş1987 The Good Soldier
+: .oS.     N     _SHEPARD Lucius              Zone de feu ‚meraude ş1986 Fire Zone Emerald
+: .oS.     u     _SHEPARD Lucius              Travers‚e du d‚sert ş1987 Crossing the Wild
+: .oS.     u     _SHEPARD Lucius              Secteur Jade ş1987 Sector Jade
+o MNE_DED     ?  2010.10 ..... ISBN 978-2-35408-101-0
+} mnemosd09      _Aur‚lien Police             ?
+- .oF.     R     _ALBERT Rapha‰l              Rue Farfadet [Les Extraordinaires & fantastiques enquˆtes de Sylvo Sylvain, d‚tective priv‚] ş2010
+o MNE_DED     ?  2010.11 ..... ISBN 978-2-35408-103-4
+} mnemosd10      _Alain Brion                 ?
+- .oS.     R     _BENNI Stefano               Terra ! ş1983 Terra! şTrad. STRAGLIATI Roland
+!--- 
+!--- Icares & HC
+!--- 
+o MNE_ICA     ?  2010.02 ..... ISBN 978-2-35408-071-6
+} mnemosi163     _Julien Delval               ?
+- .o .     R     _POUJOIS Laurent             L'Ange blond ş2010
+o MNE_ICA     ?  2010.03 ..... ISBN 978-2-35408-076-1
+} mnemosi164     _Alain Brion                 ?
+- .oF.    kR2    _HAMBLY Barbara              Le Sang d'immortalit‚ [Le Sang d'immortalit‚ - 1/2] ş2010
+: .oF.     R     _HAMBLY Barbara              Le Sang d'immortalit‚ [Le Sang d'immortalit‚ - 1] ş1988 Those who Hunt the Night / Immortal Blood şTrad. GLASBERG Isabelle
+: .oF.     R     _HAMBLY Barbara              Voyage avec les morts [Le Sang d'immortalit‚ - 2] ş1995 Travelling With the Dead şTrad. CRICHTON Anne
+o MNE_ICA     ?  2010.04 ..... ISBN 978-2-35408-077-8
+} mnemosi165     _Alain Brion                 N
+- .oY.    kR3    _LEE Tanith                  Le Dit de la terre plate - Livre 1 [Le Dit de la terre plate - 1/3] ş1987 The Lords of Darkness şTrad. E.C.L. Meistermann
+: .oY.     R     _LEE Tanith                  Le MaŒtre des t‚nŠbres [Le Dit de la terre plate - 1] ş1978 Night's Master şTrad. E.C.L. Meistermann
+: .oY.     R     _LEE Tanith                  Le MaŒtre de la mort [Le Dit de la terre plate - 2] ş1979 Death's Master şTrad. E.C.L. Meistermann
+: .oY.     R     _LEE Tanith                  Le MaŒtre des illusions [Le Dit de la terre plate - 3] ş1981 Delusion's Master şTrad. E.C.L. Meistermann
+o MNE_ICA     ?  2010.04 ..... ISBN 978-2-35408-078-5
+} mnemosi166     _Alain Brion                 N
+- .oY.    kR2    _LEE Tanith                  Le Dit de la terre plate - Livre 2 [Le Dit de la terre plate - 4/5] ş1987 Night's Daughter şTrad. E.C.L. Meistermann
+: .oY.     R     _LEE Tanith                  La MaŒtresse des d‚lires [Le Dit de la terre plate - 4] ş1986 Delirium's Mistress şTrad. E.C.L. Meistermann
+: .oY.     R     _LEE Tanith                  Les SortilŠges de la nuit [Le Dit de la terre plate - 5] ş1987 Night's Sorceries şTrad. E.C.L. Meistermann
+o MNE_ICA   167i 2010.05 ..... ISBN 978-2-35408-079-2
+} mnemosi167     _Julien Delval               N
+- .oY.    kA15   *NICOT St‚phanie             Magiciennes et sorciers ş2010
+: .o .     N     _SIRE CEDRIC                 Coeur de serpent ş2010
+: .o .     N     _GIDON Laurent               Djeeb l'encharmeur ş2010
+: .o .     N     _BOUSQUET Charlotte          Toiles d‚chir‚es ş2010
+: .o .     N     _MAZAURETTE Ma‹a             Exauc‚e ş2010
+: .o .     N     _NIOGRET Justine             T'humilierai ş2010
+: .o .     N     _WIETZEL Erik                L'Ultime Illusion ş2010
+: .o .     N     _TANNER Rachel               In cauda venenum ş2010
+: .o .     N     _HEM Julien d'               Margot ş2010
+: .o .     N     _MILLER Sylvie              &Le Cr‚puscule des maudites ş2010
+&                _WARD Philippe               
+: .o .     N     _BORDAGE Pierre              L'Autre ş2010
+: .o .     N     _DUNYACH Jean-Claude         Respectons les proc‚dures ş2010
+: .o .     N     _DAVOUST Lionel              Quelques grammes d'oubli sur la neige [Evan‚gyre] ş2010
+: .o .     N     _JAWORSKI Jean-Philippe      La TroisiŠme Hypostase ş2010
+: .o .     N     _CLAVEL Fabien               Chamane ş2010
+o MNE_ICA     ?  2010.05 ..... ISBN 978-2-35408-080-8
+} mnemosi168     _Elvire de Cock              N
+- .oY.     R     _BOUSQUET Charlotte          Cytheriae [L'Archipel des Numin‚es - 2] ş2010
+o MNE_ICA     ?  2010.08 ..... ISBN 978-2-35408-090-7
+} mnemosi169     _BERMES S‚bastien            N
+- .oY.     R     _NELL Sam                    Chevaucheur d'ouragan ş2010
+o MNE_ICA     ?  2010.08 ..... ISBN 978-2-35408-089-1
+} mnemosi170     _Vincent Dutrait             ?
+- .oY.     R     _CARDOT Christine            Le Roi d'‚bŠne ş2010
+o MNE_ICA     ?  2010.09 ..... ISBN 978-2-35408-091-4
+} mnemosi171     _Julien Delval               ?
+- .oY.     R     _BEORN Paul                  La Perle et l'enfant [La Pucelle de Diable-Vert - 1] ş2010
+o MNE_ICA     ?  2010.10 ..... ISBN 978-2-35408-100-3
+} mnemosi172     _Julien Delval               ?
+- .oY.     R     _BEORN Paul                  Le Hussard amoureux [La Pucelle de Diable-Vert - 2] ş2010
+o MNEMOS      ?  2010.11 ..... ISBN 978-2-35408-097-6
+} mnemoshc2010   _Nicolas Fructus             ?
+- .oY.    _N13   _LOVECRAFT Howard P.         Les Contr‚es du rˆve ş2010
+: .o .     N     _LOVECRAFT Howard P.         La Quˆte d'Iranon ş1921 The Quest of Iranon şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Celephais ş1920 Celephais şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'trange Maison haute dans la brume ş1931 The Strange High House in the Mist şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Polaris ş1920 Polaris şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Mal‚diction de Sarnath ş1920 The Doom That Came to Sarnath şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ş1920 Cats of Ulthar şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Les Autres dieux ş1921 The Other Gods şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Hypnos ş1923 Hypnos şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Azathoth ş1922 Azathoth şTrad. CAMUS David
+!--- D‚mons et merveilles
+: .o .     N     _LOVECRAFT Howard P.         Le T‚moignage de Randolph Carter [Randolph Carter] ş1920 The Statement of Randolph Carter şTrad. CAMUS David
+: .o .     r     _LOVECRAFT Howard P.         La Quˆte onirique de Kadath l'inconnue [Randolph Carter] ş[1927],1943 The Dream Quest of Unknown Kadath şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Cl‚ d'argent [Randolph Carter] ş1929 The Silver Key şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.        &A travers les portes de la cl‚ d'argent [Randolph Carter] ş1934 Through the Gates of the Silver Key şTrad. CAMUS David
+&                _PRICE E. Hoffman            
+!------------------------
+!=== 2011
+!------------------------
+!--- 
+!--- D‚dales
+!--- 
+o MNE_DED     ?  2011.01 ..... ISBN 978-2-35408-093-8
+} mnemosd011     _Alain Brion                 ?
+- .oS.     C7    _YOSS                        PlanŠte … louer ş2001 Se alquila un planeta şTrad. MILLER Sylvie
+?: .oS.     N     _YOSS                        PlanŠte … louer ş? ?
+?: .oS.     N     _YOSS                        Les M‚tis ş? ?
+?: .oS.     N     _YOSS                        Le Parlement humain mondial ş? ?
+?: .oS.     N     _YOSS                        Les Tigres sacr‚s ş? ?
+?: .oS.     N     _YOSS                        L'Actionnaire majoritaire ş? ?
+?: .oS.     N     _YOSS                        Les R‚cup‚rateurs ş? ?
+?: .oS.     N     _YOSS                        Quelque part, demain... ş? ?
+o MNE_DED     ?  2011.01 ..... ISBN 978-2-35408-104-1
+} mnemosd012     _BODIN Johan                 ?
+- .oY.     R     _TARVEL Brice                L'Or et la toise [Ceux des eaux mortes - 1] ş2011
+o MNE_DED     ?  2011.02 ..... ISBN 978-2-35408-094-5
+} mnemosd013     _Jean-S‚bastien Rossbach     ?
+- .oF.     R     _HOLSTEIN Eric               D'or et d'‚meraude ş2011
+o MNE_DED     ?  2011.02 ..... ISBN 978-2-35408-106-5
+} mnemosd014     _Alain Brion                 ?
+- .oS.     R     _ALEXANDER Karl              C'‚tait demain ş1979 Time After Time şTrad. CARASSO Jean-Pierre + BETAN Julien
+o MNE_DED     ?  2011.03 ..... ISBN 978-2-35408-107-2
+} mnemosd015     _POLICE Aur‚lien             ?
+- .oF.     R     _ALBERT Rapha‰l              Avant le d‚luge [Les Extraordinaires & fantastiques enquˆtes de Sylvo Sylvain, d‚tective priv‚] ş2011
+o MNE_DED     ?  2011.03 ..... ISBN 978-2-35408-108-9
+} mnemosd016     _Pe¤a Eduardo                ?
+- .oY.     R     _LINDHOLM Megan              Le Dernier Magicien ş1986 Wizard of the Pigeons şTrad. DENIS Sylvie
+o MNE_DED     ?  2011.04 ..... ISBN 978-2-35408-112-6
+} mnemosd017     _Alain Brion                 ?
+- .oY.     R     _McKINLEY Robin              Belle ş1978 Beauty şTrad. DALLE Sophie
+o MNE_DED     ?  2011.06 ..... ISBN 978-2-35408-119-5
+} mnemosd018     _Justin van Genderen         ?
+- .oS.     R     _GRANIER DE CASSAGNAC R.     Eternity Incorporated ş2011
+o MNE_DED     ?  2011.06 ..... ISBN 978-2-35408-120-1
+} mnemosd019     _Johan Bodin                 ?
+- .oY.     R     _TARVEL Brice                Au large des vivants [Ceux des eaux mortes - 2] ş2011
+o MNE_DED     ?  2011.09 ..... ISBN 978-2-35408-124-9
+} mnemosd020     _Alain Brion                 ?
+- .oS.    kR2    _VINGE Joan D.               Le Cycle de Tiamat - Volume 1 [Le Cycle de Tiamat - 1/2] ş2011
+: .o .     R     _VINGE Joan D.               La Reine des neiges [Le Cycle de Tiamat - 1] ş1980 The Snow Queen şTrad. WATKINS France-Marie
+: .o .     R     _VINGE Joan D.               Finismonde [Le Cycle de Tiamat - 2] ş1984 World's End şTrad. LEBEC G‚rard
+o MNE_DED     ?  2011.09 ..... ISBN 978-2-35408-125-6
+} mnemosd021     _Alain Brion                 ?
+- .oS.    kR3    _VINGE Joan D.               Le Cycle de Tiamat - Volume 2 [Le Cycle de Tiamat - 3/5] ş2011
+: .o .     R     _VINGE Joan D.               La Reine de l'‚t‚ (Tome 1) [Le Cycle de Tiamat - 3] ş1991 The Summer Queen
+: .o .     R     _VINGE Joan D.               La Reine de l'‚t‚ (Tome 2) [Le Cycle de Tiamat - 4] ş1991 The Summer Queen
+: .o .     R     _VINGE Joan D.               La Reine de l'‚t‚ (Tome 3) [Le Cycle de Tiamat - 5] ş1991 The Summer Queen
+o MNE_DED     ?  2011.10 ..... ISBN 978-2-35408-123-2
+} mnemosd022     _?                           ?
+- .oY.     R     _PLASSE Franck               Rubedo, la conspiration des lumiŠres ş2011
+o MNE_DED     ?  2011.10 ..... ISBN 978-2-35408-121-8
+} mnemosd023     _Christophe Dubois           ?
+- .oF.     R     _OLDIE Henry Lion            La Loi des mages - Tome 1 ş2000 Mag v Zakone şTrad. LAJOYE Viktoriya et Patrice
+o MNE_DED     ?  2011.11 ..... ISBN 978-2-35408-128-7
+} mnemosd024     _Alain Brion                 ?
+- .oS.     R     _SAGAN Carl                  Contact ş1986 Contact şTrad. DESMOND William
+!--- 
+!--- Icares
+!--- 
+o MNE_ICA     ?  2011.04 ..... ISBN 978-2-35408-114-0
+} mnemosi173     _Ammo & Agence Octobre Rouge ?
++ MNEMOS      ?  2019.12 ..... ISBN 978-2-35408-750-0
+}mnemosint17rr19 _Ammo                        ?
+!--- Couverture cartonn‚e, reliure tissu, signet - 30 euros
+- .oS.    kR3    _HELIOT Johan                Trilogie de la Lune - Edition int‚grale [La Trilogie de la Lune - 1/3] ş2011
+: .oS.     R     _HELIOT Johan                La Lune seule le sait [La Trilogie de la Lune - 1] ş2000-2007
+: .oS.     R     _HELIOT Johan                La Lune n'est pas pour nous [La Trilogie de la Lune - 2] ş2004
+: .oS.     R     _HELIOT Johan                La Lune vous salue bien [La Trilogie de la Lune - 3] ş2007
+o MNE_ICA     ?  2011.05 ..... ISBN 978-2-35408-115-7
+} mnemosi174     _Julien Delval               ?
+- .oY.    kR2    _RUSSELL Sean                La Guerre des cygnes - Volume 1 [La Guerre des cygnes - 1/2] ş2002 The One Kingdom
+: .oY.     R     _RUSSELL Sean                Le Royaume unique [La Guerre des cygnes - 1] ş2002 The One Kingdom şTrad. LE PENNEC Sheila
+: .oY.     R     _RUSSELL Sean                La RiviŠre aux esprits [La Guerre des cygnes - 2] ş2002 The One Kingdom şTrad. LE PENNEC Sheila
+o MNE_ICA     ?  2011.05 ..... ISBN 978-2-35408-116-4
+} mnemosi175     _Julien Delval               ?
+- .oY.    kR2    _RUSSELL Sean                La Guerre des cygnes - Volume 2 [La Guerre des cygnes - 3/4] ş2004
+: .oY.     R     _RUSSELL Sean                L'Œle de la bataille [La Guerre des cygnes - 3] ş2002 The Isle of Battle şTrad. LE PENNEC Sheila
+: .oY.     R     _RUSSELL Sean                Les Routes de l'ombre [La Guerre des cygnes - 4] ş2004 The Shadow Roads şTrad. LE PENNEC Sheila
+o MNE_ICA     ?  2011.05 ..... ISBN 978-2-35408-118-8
+} mnemosi176     _Julien Delval               ?
+- .oY.    kA12   *NICOT St‚phanie             Victimes et bourreaux ş2011
+: .oY.     p     _NICOT St‚phanie             Pr‚face ş2011
+: .oY.     N     _BOUSQUET Charlotte          La Strat‚gie de l'araign‚e ş2011
+: .oY.     N     _ROBERT Michel               Qj”rll l'assassin ş2011
+: .oY.     N     _NIOGRET Justine             Porter dans mes veines l'artefact et l'antidote ş2011
+: .oY.     N     _MAZAURETTE Ma‹a             Que justice soit faite ! ş2011
+: .oY.     N     _BORDAGE Pierre              Qui sera le bourreau ? ş2011
+: .oY.     N     _DAU Nathalie                Ton visage et mon coeur ş2011
+: .oY.     N     _DEBATS Jeanne-A             FrŠres d'armes ş2011
+: .oY.     N     _JAWORSKI Jean-Philippe      D‚solation ş2011
+: .oY.     N     _NELL Sam                    Le DeuxiŠme Oeil ş2011
+: .oY.     N     _DAVOUST Lionel              Au-del… des murs [Evan‚gyre] ş2011
+: .oY.     N     _BEORN Paul                  Le D‚mon de M‚moire ş2011
+: .oY.     N     _MAUMEJEAN Xavier            Mazbaleh ş2011
+o MNE_ICA     ?  2011.06 ..... ISBN 978-2-35408-117-1
+} mnemosi177     _Johan Bodin                 ?
+- .oY.     R     _NIOGRET Justine             Mordre le bouclier [Chien du Heaume - 2] ş2011
+o MNE_ICA     ?  2011.08 ..... ISBN 978-2-35408-122-5
+} mnemosi178     _Alain Brion                 ?
++ MNE_ICA     ?  2019.04 ..... ISBN 978-2-35408-729-6
+} noimg          _Alain Brion                 ?
+- .oY.     R     _TOMAS Adrien                La Geste du sixiŠme royaume [Les Six Royaumes - 1] ş2011
+o MNE_ICA     ?  2011.11 ..... ISBN 978-2-35408-129-4
+} mnemosi179     _Elvire de Cock              ?
+- .oY.     R     _BOUSQUET Charlotte          Matricia [L'Archipel des Numin‚es - 3] ş2011
+!------------------------
+!=== 2012
+!------------------------
+!--- 
+!--- D‚dales
+!--- 
+o MNE_DED     ?  2012.01 ..... ISBN 978-2-35408-131-7
+} mnemosd025     _Alain Brion                 ?
+- .oY.     C9    _KLOETZER Laurent            Petites morts [Ja‰l de Kherdan] ş2012
+: .o .     N     _KLOETZER Laurent            La Magicienne - 1 ş2012
+: .o .     N     _KLOETZER Laurent            Eva ş2012
+: .o .     N     _KLOETZER Laurent            La Magicienne - 2 ş2012
+: .o .     N     _KLOETZER Laurent            Mademoiselle Belle ş1999-2012
+: .o .     N     _KLOETZER Laurent            La Magicienne - 3 ş2012
+: .o .     N     _KLOETZER Laurent            L'Orage ş2009-2012
+: .o .     N     _KLOETZER Laurent            Toujours ˆtre ailleurs ş2012
+: .o .     N     _KLOETZER Laurent            Immacolata ş2012
+: .o .     N     _KLOETZER Laurent            La Magicienne - 4 ş2012
+o MNE_DED     ?  2012.02 ..... ISBN 978-2-35408-133-1
+} mnemosd026     _Christophe Dubois           ?
+- .oY.     R     _OLDIE Henry Lion            La Loi des mages - Tome 2 ş2000 Mag v Zakone şTrad. LAJOYE Viktoriya et Patrice
+o MNE_DED     ?  2012.02 ..... ISBN 978-2-35408-132-4
+} mnemosd027     _Alain Brion                 ?
+- .oF.     R     _MARTIN George R.R.          Riverdream ş1983 Fevre Dream şTrad. ROBERT Alain
+o MNE_DED     ?  2012.05 ..... ISBN 978-2-35408-136-2
+} mnemosd028     _Pascal Calosari             ?
+- .oS.     R     _BERJAUD Yoann               Le Chant premier [Les Derniers Guerriers du silence - 1][Les Guerriers du silence] ş2012
+o MNE_DED     ?  2012.09 ..... ISBN 978-2-35408-144-7
+} mnemosd029     _Bastien Lecouffe Deharme    ?
+- .oTF     R     _CAUSSARIEU Morgane          Dans les veines ş2012
+o MNE_DED     ?  2012.06 ..... ISBN 978-2-35408-137-9
+} mnemosd030     _?                           ?
+- .oY.    kR2    _CLAVEL Fabien               Les D‚chus [R‚v‚lations - 1/2][Nephilim] ş2012
+: .o .     R     _CLAVEL Fabien               Le Syndrome Eurydice [R‚v‚lations - 1][Nephilim] ş2002-2012
+: .o .     R     _CLAVEL Fabien               Anonymus [R‚v‚lations - 2][Nephilim] ş2002-2012
+o MNE_DED     ?  2012.09 ..... ISBN 978-2-35408-142-3
+} mnemosd031     _Raphael Lacoste             ?
+!--- Pr‚face de David Camus + Postface Catherine Dufour (reprise)
+!--- Sans reprise de la nouvelle !
+- .oS.     R     _DUFOUR Catherine            Le Go–t de l'immortalit‚ ş2005-2012
+o MNE_DED     ?  2012.11 ..... ISBN 978-2-35408-147-8
+} mnemosd032     _David Lecossu               ?
+- .oY.     R     _BEORN Paul                  Les Derniers Parfaits ş2012
+o MNE_DED     ?  2012.11 ..... ISBN 978-2-35408-145-4
+} mnemosd033     _Alain Brion                 ?
+- .oY.    kR2    _CLAVEL Fabien               L'‚veil [R‚v‚lations - 3/4][Nephilim] ş2012
+: .o .     R     _CLAVEL Fabien               Les Dracomaques [R‚v‚lations - 3][Nephilim] ş2003-2012
+: .o .     R     _CLAVEL Fabien               L'Effet Orph‚e [R‚v‚lations - 4][Nephilim] ş2003-2012
+?: .o .     .     _CLAVEL Fabien               (‚pilogue in‚dit) [R‚v‚lations][Nephilim] ş2012
+!--- 
+!--- Icares & HC
+!--- 
+o MNE_ICA     ?  2012.03 ..... ISBN 978-2-35408-134-8
+} mnemosi180     _Alain Brion                 ?
+- .oY.     R3    _CARTER Lin                  Thongor - Tome 1 [Thongor - 1/3] ş2012
+: .oY.     R     _CARTER Lin                  Thongor et le sorcier de L‚murie [Thongor - 1] ş1965 The Wizard of Lemuria / Thongor and the Wizard of Lemuria şTrad. FAGNE Henry
+: .oY.     R     _CARTER Lin                  Thongor et la cit‚ des dragons [Thongor - 2] ş1966 Thongor of Lemuria / Thongor and the Dragon City şTrad. TRUCHAUD Fran‡ois
+: .oY.     R     _CARTER Lin                  Thongor contre les dieux [Thongor - 3] ş1967 Thongor Against the Gods şTrad. GRAFF Andr‚
+o MNE_ICA     ?  2012.06 ..... ISBN 978-2-35408-138-6
+} mnemosi181     _Alain Brion                 ?
+- .oY.    kR3    _CARTER Lin                  Thongor - Tome 2 [Thongor - 4/6] ş2012
+: .oY.     R     _CARTER Lin                  Thongor et la cit‚ des magiciens [Thongor - 4] ş1968 Thongor in the City of Magicians şTrad. LABRANDE Jean-Pierre
+: .oY.     R     _CARTER Lin                  Thongor … la fin des temps [Thongor - 5] ş1968 Thongor at the End of Time şTrad. LABRANDE Jean-Pierre
+: .oY.     R     _CARTER Lin                  Thongor contre les pirates de Tarakus [Thongor - 6] ş1970 Thongor Fights the Pirates of Tarakus şTrad. LABRANDE Jean-Pierre
+o MNE_ICA     ?  2012.08 ..... ISBN 978-2-35408-141-6
+} mnemosi182     _Alain Brion                 ?
+- .oY.    kR4    _LINDHOLM Megan              Ki & Vandien - Int‚grale [Ki et Vandien - 1/4] ş2012
+: .oY.     R     _LINDHOLM Megan              Le Vol des harpies [Ki et Vandien - 1] ş1983 Harpy's Flight şTrad. SPINAT Xavier
+: .oY.     R     _LINDHOLM Megan              Les Ventchanteuses [Ki et Vandien - 2] ş1984 The Windsingers şTrad. LE PENNEC Guillaume
+: .oY.     R     _LINDHOLM Megan              La Porte du Limbreth [Ki et Vandien - 3] ş1984 The Limbreth Gate şTrad. LE PENNEC Guillaume
+: .oY.     R     _LINDHOLM Megan              Les Roues du destin [Ki et Vandien - 4] ş1989 Luck of the Wheels şTrad. LE PENNEC Guillaume
+o MNE_ICA     ?  2012.10 ..... ISBN 978-2-35408-146-1
+} mnemosi183     _Alain Brion                 ?
++ MNEMOS      ?  2020.01 ..... ISBN 978-2-35408-754-8
+} noimg          _Alain Brion                 ?
+- .oY.    kR2    _GEMMELL David               Le Lion de Mac‚doine - L'int‚grale [Le Lion de Mac‚doine - 1/2] ş2012
+: .oY.     R     _GEMMELL David               Le Lion de Mac‚doine [Le Lion de Mac‚doine - 1] ş1991 Lion of Macedon şTrad. HOLWECK Eric
+: .oY.     R     _GEMMELL David               Le Prince noir [Le Lion de Mac‚doine - 2] ş1991 Dark Prince şTrad. HOLWECK Eric
+o MNE_ICA     ?  2012.11 ..... ISBN 978-2-35408-241-3
+} mnemosi184     _Alain Brion                 ?
+- .oY.    kR4    _GRIMBERT Pierre             Le Secret de Ji - Int‚grale [Le Secret de Ji - 1/4] ş2012
+: .o .     R     _GRIMBERT Pierre             Six h‚ritiers [Le Secret de Ji - 1] ş1996-1999
+: .o .     R     _GRIMBERT Pierre             Le Serment orphelin [Le Secret de Ji - 2] ş1996-1999
+: .o .     R     _GRIMBERT Pierre             L'Ombre des anciens [Le Secret de Ji - 3] ş1997-1999
+: .o .     R     _GRIMBERT Pierre             Le Doyen ‚ternel [Le Secret de Ji - 4] ş1997-1999
+o MNEMOS      ?  2012.05 ..... ISBN 978-2-35408-139-3
+} mnemoshs2012-1 _Kerim Beyit                 ?
+- .oY.     A12   *MILLER Sylvie              &Reines et dragons ş2012
+&                *DAVOUST Lionel
+: .o .     N     _ROBILLARD Chantal           Le Dit du Dr‚gonjon et de son Elfrie ş2012
+: .o .     N     _GEHA Thomas                 Chuchoteurs du dragon ş2012
+: .o .     N     _TOMAS Adrien                Oph‚a ş2012
+: .o .     N     _FAKHOURI Anne               Au coeur du Dragon ş2012
+: .o .     N     _NIOGRET Justine             La Grande D‚esse de fer de la mis‚ricorde ş2012
+: .o .     N     _BORDAGE Pierre              Morflam ş2012
+: .o .     N     _BOUSQUET Charlotte          Azr'Khila ş2012
+: .o .     N     _GESSLER Vincent             O— vont les reines ş2012
+: .o .     N     _WIETZEL Erik                Le Monstre de Westerham ş2012
+: .o .     N     _GABORIT Mathieu             Under a Lilac Tree ş2012
+: .o .     N     _DAU Nathalie                Cet oeil brillant qui la fixait ş2012
+: .o .     N     _FAZI M‚lanie                Les Soeurs de la Tarasque ş2012
+o MNEMOS      ?  2012.10 ..... ISBN 978-2-35408-149-2
+} mnemoshs2012-2 _(c) Rainbowchaser / Dreamstime
+- .oY.    kA8    *NOUVEL David K.             Fragments d'une Fantasy antique ş2012
+: .o .     p     _NOUVEL David K.             Pr‚face ş2012
+: .o .     N     _CLAVEL Fabien               Sur un fragment perdu du Satyricon ş2012
+: .o .     N     _DEBATS Jeanne-A             Le Miroir d'Electre ş2012
+: .o .     N     _ASPE Romain                 Le Labyrinthe ş2012
+: .o .     N     _TANNER Rachel               Le Sphynx ş2012
+: .o .     N     _DAVOUST Lionel              Faisabilit‚ et int‚rˆt zootechniques de la m‚tamorphose de masse ş2012
+: .o .     N     _LELONG Nicolas              Les Dieux veulent, les Dieux prennent ş2012
+: .o .     N     _MILLER Sylvie              &Voir Pomp‚i et mourir [Lasser, d‚tective des dieux] ş2012
+&                _WARD Philippe               
+: .o .     N     _DAU Nathalie                A couteau ş2012
+!------------------------
+!=== 2013
+!------------------------
+!--- 
+!--- D‚dales
+!--- 
+o MNE_DED     ?  2013.01 ..... ISBN 978-2-35408-150-8
+} mnemosd34      _Aur‚lien Police             ?
+- .oY.     R     _WIETZEL Erik                La Porte des limbes ş1997-2013
+o MNE_DED     ?  2013.04 ..... ISBN 978-2-35408-154-6
+} mnemosd35      _UCL Library                 ?
+- .oS.     R     _BOUCHARD Nicolas            Panopticon ş2013
+o MNE_DED     ?  2013.08 ..... ISBN 978-2-35408-159-1
+} mnemosd36      _Isabelle Jovanovic          ?
+- .oY.     R     _NIOGRET Justine             Mordred ş2013
+o MNE_DED     ?  2013.08 ..... ISBN 978-2-35408-160-7
+} mnemosd37      _Pascal Calosari             ?
+- .oS.     R     _BERJAUD Yoann               Le Livre de la cr‚ation [Les Derniers Guerriers du silence - 2][Les Guerriers du silence] ş2013
+o MNE_DED     ?  2013.10 ..... ISBN 978-2-35408-161-4
+} mnemosd38      _Akalikoushin                ?
+- .oS.     R     _CHAVASSIEUX Christian       Mausol‚es ş2013
+!--- 
+!--- Icares & HC
+!--- 
+o MNE_ICA     ?  2013.02 ..... ISBN 978-2-35408-151-5
+} mnemosi186     _Julien Delval               ?
+- .oY.     R     _MARTEL Jacques              La Guerre de l'Hydre ş2013
+o MNE_ICA     ?  2013.05 ..... ISBN 978-2-35408-155-3
+} mnemosi187     _Alain Brion                 ?
++ MNE_ICA     ?  2018.09 ..... ISBN 978-2-35408-669-5
+} noimg          _?                           ?
+- .oY.     R     _TOMAS Adrien                La Maison des mages [Les Six Royaumes - 2] ş2013
+o MNE_ICA     ?  2013.10 ..... ISBN 978-2-35408-163-8
+} mnemosi188     _Atelier Octobre Rouge       ?
+- .oY.     R     _SAINT-RAT Yann de           Le Sang que l'on verse ş2013
+o MNE_ICA     ?  2013.11 ..... ISBN 978-2-35408-162-1
+} mnemosi189     _Alain Brion                 ?
+!--- Traduction des trois premiers tome r‚vis‚s par Patrick Louinet
+- .oY.    kR4    _SAUNDERS Charles R.         Imaro - Int‚grale [Imaro - 1/4] ş2013
+: .oY.     U     _SAUNDERS Charles R.         Imaro [Imaro - 1] ş1981-2006 Imaro şTrad. NOFROST Mike & LOUINET Patrice
+!--- Le Tome 1 est un Fix-up des 5 nouvelles/novella (r‚‚crites) suivantes :
+!--- Turkhana Knives
+!--- The Place of Stones
+!--- The Afua (remplace "Slaves of the Giant-Kings" de l'‚dition de 1981)
+!--- Horror in the Black Hills
+!--- The City of Madness
+: .oY.     R     _SAUNDERS Charles R.         La Route du Cush [Imaro - 2] ş1984 The Quest for Cush şTrad. NOFROST Mike & LOUINET Patrick
+: .oY.     R     _SAUNDERS Charles R.         La Piste de Bohu [Imaro - 3] ş1985 The Trail of Bohu şTrad. NOFROST Mike & LOUINET Patrick
+: .oY.     R     _SAUNDERS Charles R.         La Guerre du Naama [Imaro - 4] ş2009 The Naama War şTrad. LOUINET Patrick
+?: .oY.     o     _SAUNDERS Charles R.         Dans les ombres du Tamburure ş? ? şTrad. ?
+o MNEMOS      ?  2013.03 ..... ISBN 978-2-35408-152-2
+} noimg          _Goulven Quentel             ?
+!--- Coffret collector - Grand format cartonn‚, 352 pages
+- .oY.     R3    _GABORIT Mathieu             Les Chroniques des cr‚pusculaires [Les Chroniques des cr‚pusculaires - 1/3][Les Royaumes cr‚pusculaires] ş1999
+!--- ‚dition r‚vis‚e et augment‚e
+: .o .     R     _GABORIT Mathieu             Souffre-jour [Les Chroniques des cr‚pusculaires - 1][Les Royaumes cr‚pusculaires] ş1995-1999
+: .o .     R     _GABORIT Mathieu             Les Danseurs de Lorgol [Les Chroniques des cr‚pusculaires - 2][Les Royaumes cr‚pusculaires] ş1996-1999
+: .o .     R     _GABORIT Mathieu             Agone [Les Chroniques des cr‚pusculaires - 3][Les Royaumes cr‚pusculaires] ş1996-1999
+o MNEMOS      ?  2013.03 ..... ISBN 978-2-35408-148-5
+} mnemoshc2013-1 _Nicolas Fructus             ?
+- .oS.    kN6    _LOVECRAFT Howard P.         Les Montagnes hallucin‚es ş2013
+!--- Nouvelle traduction CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Dagon ş1919 Dagon şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Cit‚ sans nom ş1921 The Nameless City şTrad. CAMUS David
+: .o .     N     _HOUDINI Harry              &Prisonnier des pharaons ş1924 Imprisoned With the Pharaons şTrad. CAMUS David
+&                _LOVECRAFT Howard P.         
+: .oF.     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu ş1926 The Call of Cthulhu şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Les Montagnes hallucin‚es [Arthur Gordon Pym] ş1936 At the Mountains of Madness şTrad. CAMUS David
+: .oF.     r     _LOVECRAFT Howard P.         Dans l'abŒme du temps ş1936 The Shadow Out of Time şTrad. CAMUS David
+o MNEMOS      ?  2013.05 ..... ISBN 978-2-35408-157-5
+} mnemoshc2013-2 _Atelier Octobre Rouge       ?
+!--- Pr‚face Jean Marigny
+- .oF.     E     _CAUSSARIEU Morgane          Vampires & Bayous - Sexe, sang et d‚cadence, la r‚surrection d'un mythe en Louisiane ş2013
+o MNEMOS      ?  2013.05 ..... ISBN 978-2-35408-156-0
+} mnemoshc2013-3 _Jean-S‚bastien Rossbach     ?
+- .oY.     A12   *MILLER Sylvie              &Elfes et assassins ş2013
+&                *DAVOUST Lionel
+: .o .     p     _DAVOUST Lionel             &Pr‚face ş2013
+&                _MILLER Sylvie               
+: .o .     N     _BORDAGE Pierre              La DerniŠre Affaire de Sagamor ş2013
+: .o .     N     _ALBERT Rapha‰l              La Seconde Mort de Lucius Van Casper [Les Extraordinaires & fantastiques enquˆtes de Sylvo Sylvain, d‚tective priv‚] ş2013
+: .o .     N     _LE GENDRE Nathalie          La L‚gende d'… peu prŠs Punahilkka ş2013
+: .o .     N     _DUGUEL Anne                 Le Sourire de Louise ş2013
+: .o .     N     _JAWORSKI Jean-Philippe      Le Sentiment du fer ş2013
+: .o .     N     _FAKHOURI Anne               Du rififi entre les oreilles ş2013
+: .o .     N     _TANNER Rachel               La Nature de l'ex‚cuteur ş2013
+: .o .     N     _CLAVEL Fabien               Libera me ş2013
+: .o .     N     _DEBATS Jeanne-A             Eschatologie du vampire [Navarre] ş2013
+: .o .     N     _MAUMEJEAN Xavier            Elverwhere ş2013
+: .o .     N     _COLIN Fabrice               Sans douleur ş2013
+: .o .     N     _BRY David                   J'irai … la clairiŠre ş2013
+: .o .     N     _HELIOT Johan                Grise Neige ş2013
+o MNEMOS      ?  2013.10 ..... ISBN 978-2-35408-168-3
+} noimg          _Goulven Quentel             N
+!--- Coffret collector - Grand format cartonn‚ avec ‚tui, 268 pages
+- .oY.    _R2    _GABORIT Mathieu             Abyme [Abyme - 1/2][Les Royaumes cr‚pusculaires] ş2000
+: .oY.     R     _GABORIT Mathieu             Aux ombres d'Abyme [Abyme - 1][Les Royaumes cr‚pusculaires] ş1996
+: .oY.     R     _GABORIT Mathieu             La Romance du d‚miurge [Abyme - 2][Les Royaumes cr‚pusculaires] ş1997
+!------------------------
+!=== 2014
+!------------------------
+!--- 
+!--- D‚dales
+!--- 
+o MNE_DED     ?  2014.02 ..... ISBN 978-2-35408-170-6
+} mnemosd39      _Isabelle Jovanovic          ?
+- .o .     R     _KLOETZER Laurent            M‚moire vagabonde [Ja‰l de Kherdan] ş1997-2001
+o MNE_DED     ?  2014.03 ..... ISBN 978-2-35408-171-3
+} mnemosd40      _Hsin-Yao Tseng              ?
+- .oY.    kR2    _NIOGRET Justine             Chien du Heaume, suivi de Mordre le bouclier [Chien du Heaume - 1/2] ş2014
+: .oY.     R     _NIOGRET Justine             Chien du Heaume [Chien du Heaume - 1] ş2009
+: .oY.     R     _NIOGRET Justine             Mordre le bouclier [Chien du Heaume - 2] ş2011
+o MNE_DED     ?  2014.06 ..... ISBN 978-2-35408-181-2
+} mnemosd41      _Roy Bishop                  ?
+- .oF.     R     _CAUSSARIEU Morgane          Je suis ton ombre ş2014
+o MNE_DED     ?  2014.06 ..... ISBN 978-2-35408-179-9
+} mnemosd42      _Aur‚lien Police             ?
+- .oF.     R     _ALBERT Rapha‰l              Confessions d'un elfe fumeur de lotus [Les Extraordinaires & fantastiques enquˆtes de Sylvo Sylvain, d‚tective priv‚] ş2014
+o MNE_DED     ?  2014.08 ..... ISBN 978-2-35408-272-7
+} mnemosd43      _?                           ?
+- .oS.     R     _GRANIER DE CASSAGNAC R.     Thinking Eternity ş2014
+o MNE_DED     ?  2014.10 ..... ISBN 978-2-35408-278-9
+} mnemosd44      _Atelier Octobre Rouge       ?
+- .oY.     R     _OUALI Nabil                 La Voix de l'empereur [La Voix de l'empereur - 1] ş2014
+!--- 
+!--- Icares & HC & Int‚grales
+!--- 
+o MNE_ICA     ?  2014.02 ..... ISBN 978-2-35408-172-0
+} mnemosi190     _Emile Denis                 ?
+- .oY.     R     _CERUTTI Fabien              L'Ombre du pouvoir [Le Bƒtard de Kosigan - 1] ş2014
+o MNE_ICA     ?  2014.05 ..... ISBN 978-2-35408-176-8
+} mnemosi191     _?                           ?
+- .oF.     R     _TOMAS Adrien                Notre-Dame des Loups ş2014
+o MNEMOS      ?  2014.01 ..... ISBN 978-2-35408-158-4
+} mnemos026rr14  _Alain Brion                 N
+!-- Grand format cartonn‚ - Edition limit‚e
++ MNEMOS      ?  2018.01 ..... ISBN 978-2-35408-611-4
+} mnemos026rr18  _Alain Brion                 N
+!-- Grand format cartonn‚, avec signet
+- .oY.     R     _GEMMELL David               Ren‚gats ş1993 Knights of the Dark Renown şTrad. CALLUAUD Laurent
+o MNEMOS      ?  2014.04 ..... ISBN 978-2-35408-174-7
+} mnemoshc1-2014 _?                           ?
+!--- Pr‚face G‚rard Klein
+- .oS.     E     _RUAUD Andr‚-Fran‡ois       &Science-fiction - Les frontiŠres de la modernit‚ ş2014
+&                _COLSON Rapha‰l              
+o MNEMOS      ?  2014.11 ..... ISBN 978-2-35408-283-3
+} mnemoshc2-2014 _Gilles Francescano          ?
+- .oS.     R     _AYERDHAL                   &Etoiles mourantes ş1999
+&                _DUNYACH Jean-Claude         
+o MNEMOS      ?  2014.03 ..... ISBN 978-2-35408-173-7
+} mnemosint01    _?                           N
+- .oY.    kR3    _COLLET Isabelle            &Le Chant de la Terre - Int‚grale [Le Chant de la Terre - 1/3][Nephilim] ş2014
+&                _COLLET David                
+: .o .     R     _COLLET Isabelle            &Le Chant de la Terre [Le Chant de la Terre - 1][Nephilim] ş1996
+&                _COLLET David                
+: .o .     R     _COLLET Isabelle            &Diapason d'orichalque [Le Chant de la Terre - 2][Nephilim] ş1996
+&                _COLLET David                
+: .o .     R     _COLLET Isabelle            &La Part du diable [Le Chant de la Terre - 3][Nephilim] ş1997
+&                _COLLET David                
+o MNEMOS      ?  2014.05 ..... ISBN 978-2-35408-177-5
+} mnemosint02    _Frank Lexecke               ?
++ MNEMOS      ?  2019.01 ..... ISBN 978-2-35408-177-5
+}mnemosint02rr19 _?                           ?
+- .oS.    kR4    _NIVEN Larry                 L'Anneau-Monde - Int‚grale [Known space] ş2014
+: .oS.     R     _NIVEN Larry                 L'Anneau-Monde [Known space] ş1970 Ringworld şTrad. LAMIDEY Fabrice
+: .oS.     R     _NIVEN Larry                 Les Ing‚nieurs de l'anneau-monde [Known space] ş1980 The Ringworld Engineers şTrad. LAMIDEY Fabrice
+: .oS.     R     _NIVEN Larry                 Le Tr“ne de l'anneau-monde [Known space] ş1996 The Ringworld Throne şTrad. TILCHE Pascal
+: .oS.     R     _NIVEN Larry                 Les Enfants de l'anneau-monde [Known space] ş2004 Ringworld's Children şTrad. TILCHE Pascal
+o MNEMOS      ?  2014.06 ..... ISBN 978-2-35408-180-5
+} mnemosint03    _Nicolas Fructus             ?
+- .oF.    kR6    _LUMLEY Brian                La L‚gende de Titus Crow - Int‚grale [Titus Crow - 1/6] ş2014
+: .oF.     R     _LUMLEY Brian                Ceux qui se terrent dans les tr‚fonds [Titus Crow - 1] ş1974 The Burrowers Beneath şTrad. WATKINS France-Marie
+: .oF.     R     _LUMLEY Brian                La Transition de Titus Crow [Titus Crow - 2] ş1975 The Transition of Titus Crow şTrad. WATKINS France-Marie
+: .oF.     R     _LUMLEY Brian                L'Horloge des songes [Titus Crow - 3] ş1978 The Clock of Dreams / De Marigny's Dream Quest şTrad. WATKINS France-Marie
+: .oF.     R     _LUMLEY Brian                Le D‚mon du vent [Titus Crow - 4] ş1978 Spawn of the Winds şTrad. WATKINS France-Marie
+: .oF.     R     _LUMLEY Brian                Les Lunes de Bor‚e [Titus Crow - 5] ş1979 In the Moons of Borea şTrad. WATKINS France-Marie
+: .oF.     R     _LUMLEY Brian                Elysia [Titus Crow - 6] ş1989 Elysia, or The Coming of Cthulhu şTrad. BILLION Bruno
+o MNEMOS      ?  2014.09 ..... ISBN 978-2-35408-182-9
+} mnemosint04    _Atelier Octobre Rouge       ?
+- .oY.    kR2    _HELIOT Johan                Faerie stories ş2014
+: .oY.     R     _HELIOT Johan                Faerie Hackers ş2003
+: .oY.     R     _HELIOT Johan                Faerie Thriller ş2005
+o MNEMOS      ?  2014.xx ..... ISBN 978-2-35408-280-2
+} mnemosint05    _Alain Brion                 ?
+!--- = r‚‚dition du Icare 2012
+- .oY.    kR2    _GEMMELL David               Le Lion de Mac‚doine - L'int‚grale [Le Lion de Mac‚doine - 1/2] ş2012
+: .oY.     R     _GEMMELL David               Le Lion de Mac‚doine [Le Lion de Mac‚doine - 1] ş1991 Lion of Macedon şTrad. HOLWECK Eric
+: .oY.     R     _GEMMELL David               Le Prince noir [Le Lion de Mac‚doine - 2] ş1991 Dark Prince şTrad. HOLWECK Eric
+!--- 
+!--- Anthologies
+!--- 
+o MNEMOS      ?  2014.01 ..... ISBN 978-2-35408-169-0
+} mnemoshs2014-1 _Nicolas Fructus             ?
+- .oF.    kA11   *DEBATS Jeanne-A             Vampires … contre-emploi - Anthologie des 10<sup>e</sup> rencontres de l'imaginaire de SŠvres ş2014
+: .o .     p     _KOSCIUSKO-MORIZET Philippe  Pr‚face ş2014
+: .o .     N     _CURVAL Philippe             Pire que le vent ş2014
+: .o .     N     _LEOURIER Christian          Quelques moments dans la vie d'un homme d'affaire ş2014
+: .o .     N     _PAQUET Olivier              Trou noir contre vampire ş2014
+: .o .     N     _LECONTE Marianne            Femme fatale ş2014
+: .o .     N     _VILA Christian              Les Ravageurs : une histoire d'amour ş2014
+: .o .     N     _BREAN Simon                 Les Miroirs de l'‚ternit‚ ş2014
+: .o .     N     _BELLAGAMBA Ugo              Icare herm‚tique ş2014
+: .o .     N     _REY Timoth‚e                S'il te plait, d‚senzyme-moi un inMouton ! ş2014
+: .o .     N     _GECHTER Olivier             La Cure ş2014
+: .o .     N     _GEHA Thomas                 Le Vampire et elle ş2014
+: .o .     N     _GRANIER DE CASSAGNAC R.     Beaucoup y ont cru ş2014
+: .o .     o     _DEBATS Jeanne-A             Autopsie du vampire ş2014
+o MNEMOS      ?  2014.05 ..... ISBN 978-2-35408-178-2
+} mnemoshs4-2014 _Krtstal Camprubi            ?
+- .oY.    kA11   *MILLER Sylvie              &Bardes et sirŠnes ş2014
+&                *DAVOUST Lionel              
+: .o .     N     _BAILLY Samantha             Plaie ‚toil‚e ş2014
+: .o .     N     _BORDAGE Pierre              Le Chant du solstice ş2014
+: .o .     N     _FAKHOURI Anne               Ci-gŒt mon coeur ş2014
+: .o .     N     _FAYE Estelle                La Tˆte de singe ş2014
+: .o .     N     _FAZI M‚lanie                Le Chant des autres ş2014
+: .o .     N     _GEHA Thomas                 Le Guetteur de nuages ş2014
+: .o .     N     _GODDYN R‚gis                Tant qu'il y aura des sirŠnes ş2014
+: .o .     N     _MAZAURETTE Ma‹a             La Mise en piŠces ş2014
+: .o .     N     _PETITJEAN Fr‚d‚ric          Au bar des sirŠnes ş2014
+: .o .     N     _ROZENFELD Carina            La BoŒte … musique ş2014
+: .o .     N     _SAINT-RAT Yann de           Tant que nous demeurons ensemble ş2014
+!--- 
+!--- Thriller
+!--- 
+o MNE_THR     ?  2014.10 ..... ISBN 978-2-35408-279-6
+} mnemosth01     _?                           ?
+- .oS.     R     _ALBAR Ludovic               Yellowstone ş2014
+o MNE_THR     ?  2014.04 ..... ISBN 978-2-35408-175-1
+} mnemosth02     _?                           ?
+- .oFP     R     _VERDIER Matt                Corpus Prophetae ş2014
+!------------------------
+!=== 2015
+!------------------------
+!--- 
+!--- D‚dales
+!--- 
+o MNEMOS      ?  2015.05 ..... ISBN 978-2-35408-316-8
+} mnemosd45      _Atelier Octobre Rouge       ?
+- .oS.     R     _BERENVAL Olivier            Ianos - Singularit‚ nue ş2015
+o MNE_DED     ?  2015.11 ..... ISBN 978-2-35408-338-0
+} mnemosd46      _Atelier Octobre Rouge       ?
+- .oY.     R     _OUALI Nabil                 Le Poignard et la Hache [La Voix de l'empereur - 2] ş2015
+!--- 
+!--- Icares & HC (Int‚grales)
+!--- 
+o MNE_ICA     ?  2015.01 ..... ISBN 978-2-35408-289-5
+} mnemosi192     _?                           ?
+- .oS.     R     _GAULON Pierre               Le Secret des esthŠtes [Blizzard - 1] ş2015
+o MNE_ICA     ?  2015.04 ..... ISBN 978-2-35408-303-8
+} mnemosi193     _Emile Denis                 ?
+- .oY.     R     _CERUTTI Fabien              Le fou prend le roi [Le Bƒtard de Kosigan - 2] ş2015
+o MNEMOS      ?  2015.06 ..... ISBN 978-2-35408-317-5
+} mnemosi194     _?                           ?
+- .oY.     R     _McKINLEY Robin              Dragonhaven ş2007 Dragonhaven şTrad. CAUSSARIEU Morgane
+o MNE_DED     ?  2015.08 ..... ISBN 978-2-35408-327-4
+} mnemosi195     _?                           ?
+- .oY.     R     _CHAVASSIEUX Christian       Les Nefs de Pang‚e ş2015
+o MNE_ICA     ?  2015.09 ..... ISBN 978-2-35408-328-1
+} mnemosi196     _Michal Karcs                ?
+- .oS.     R     _GAULON Pierre               Les Guerres madriŠres [Blizzard - 2] ş2015
+o MNEMOS      ?  2015.01 ..... ISBN 978-2-35408-288-8
+} mnemosint06    _Olivier Jeyifous            N
+- .oS.     R3N8  _EFFINGER George Alec        Les Nuits du Boudayin - L'int‚grale des enquˆtes de MarŒd Audran [MarŒd Audran, le priv‚ cabl‚] ş2015
+: .o .     R     _EFFINGER George Alec        Gravit‚ … la manque [MarŒd Audran, le priv‚ cƒbl‚ - 1] ş1987 When Gravity Fails
+: .o .     R     _EFFINGER George Alec        Priv‚ de d‚sert [MarŒd Audran, le priv‚ cƒbl‚ - 2] ş1989 A Fire in the Sun
+: .o .     R     _EFFINGER George Alec        Le Talion du cheikh [MarŒd Audran, le priv‚ cƒbl‚ - 3] ş1991 The Exile Kiss
+: .o .     N     _EFFINGER George Alec        La Ville sur le sable [MarŒd Audran, le priv‚ cƒbl‚] ş1973 The City on the Sand
+: .o .     N     _EFFINGER George Alec        Le Cyborg sur la montagne [MarŒd Audran, le priv‚ cƒbl‚] ş1987 King of the Cyber Riffles
+: .o .     N     _EFFINGER George Alec        Le Chat de Schr”dinger [MarŒd Audran, le priv‚ cƒbl‚] ş1988 Schr”dinger's Kitten
+: .o .     N     _EFFINGER George Alec        Le D‚sir qui couve [MarŒd Audran, le priv‚ cƒbl‚] ş1988 Slow, Slow Burn şTrad. DURAND Adeline
+: .o .     N     _EFFINGER George Alec        Le Monde que nous connaissons [MarŒd Audran, le priv‚ cƒbl‚] ş1992 The World as We Know It şTrad. DURAND Adeline
+: .o .     N     _EFFINGER George Alec        Le Vampire du Boudayin [MarŒd Audran, le priv‚ cƒbl‚] ş1995 MarŒd and the Trail of Blood şTrad. DURAND Adeline
+!--- Deux premiers chapitres d'un quatriŠme roman inachev‚ :
+: .o .     N     _EFFINGER George Alec        C'est la fˆte pour MarŒd [MarŒd Audran, le priv‚ cƒbl‚] ş2003 MarŒd Throws a Party şTrad. DURAND Adeline
+: .o .     N     _EFFINGER George Alec        Plastic Pacha [MarŒd Audran, le priv‚ cƒbl‚] ş2003 The Plastic Pacha şTrad. DURAND Adeline
+o MNEMOS      ?  2015.02 ..... ISBN 978-2-35408-292-5
+} mnemosint07    _Edward Miller               ?
+- .oY.    kR3    _HARRISON M. John            Viriconium - Int‚grale [Viriconium - 1/3] ş2015
+!--- Pr‚face Neil Gaiman
+: .oY.     R     _HARRISON M. John            La Cit‚ pastel [Viriconium - 1] ş1971 The Pastel City şTrad. PUGI J.-P.
+: .oY.     R     _HARRISON M. John            Le Signe des Locustes [Viriconium - 2] ş1980 A Storm of Wings şTrad. PUGI J.-P.
+: .oY.     R     _HARRISON M. John            Les Dieux incertains [Viriconium - 3] ş1982 The Floating Gods şTrad. PUGI Jean-Pierre
+o MNEMOS      ?  2015.02 ..... ISBN 978-2-35408-290-1
+} mnemosint08    _Aur‚lie Evrard              N
+- .oS.    kR2    _GABORIT Mathieu             BohŠme [BohŠme - 1/2] ş2007
+: .oS.     R     _GABORIT Mathieu             Les Rives d'Antipolie [BohŠme - 1] ş1997
+: .oS.     R     _GABORIT Mathieu             R‚volutsyia [BohŠme - 2] ş1997
+o MNEMOS      ?  2015.03 ..... ISBN 978-2-35408-296-3
+} mnemosint09    _Richard Bober               ?
+- .oS.    kR4    _WOLFE Gene                  Le Livre du long soleil - Int‚grale [Le Livre du long soleil - 1/4] ş2015
+: .oS.     R     _WOLFE Gene                  C“t‚ nuit [Le Livre du long soleil - 1] ş1993 Nightside şTrad. SERVAL Nathalie
+: .oS.     R     _WOLFE Gene                  C“t‚ lac [Le Livre du long soleil - 2] ş1993 Lake of the Long Sun şTrad. SERVAL Nathalie
+: .oS.     R     _WOLFE Gene                  Cald‚ - C“t‚ Cit‚ [Le Livre du long soleil - 3] ş1994 Cald‚ of the Long Sun şTrad. SERVAL Nathalie
+: .oS.     R     _WOLFE Gene                  L'Exode [Le Livre du long soleil - 4] ş1996 Exodus from the Long Sun şTrad. SERVAL Nathalie
+o MNEMOS      ?  2015.04 ..... ISBN 978-2-35408-304-5
+} mnemosint10    _Nicolas Fructus             ?
+- .oY.    kR3    _LUMLEY Brian                L‚gendes des contr‚es du rˆve - Int‚grale [Terre des rˆves - 1/3] ş2015
+: .o .     R     _LUMLEY Brian                Le H‚ros des rˆves [Terre des rˆves - 1] ş1986 Hero of Dreams şTrad. GUILLAUME Rosalie
+: .o .     R     _LUMLEY Brian                Le Vaisseau des rˆves [Terre des rˆves - 2] ş1986 Ship of Dreams şTrad. TROIN-JOUBAUD Isabelle
+: .o .     R     _LUMLEY Brian                La Lune des rˆves [Terre des rˆves - 3] ş1987 Mad Moon of Dreams şTrad. TROIN Isabelle
+o MNEMOS      ?  2015.05 ..... ISBN 978-2-35408-312-0
+} mnemosint11    _Atelier Octobre Rouge       ?
+- .oY.    kR2    _McKILLIP Patricia A.        L'Int‚grale du Cygne ş2015
+: .oY.     R     _McKILLIP Patricia A.        La SorciŠre et le Cygne ş1991 The Sorceress and the Cygnet şTrad. PUGI Jean-Pierre
+: .oY.     R     _McKILLIP Patricia A.        Le Cygne et l'Oiseau de feu ş1993 The Cygnet and the Firebird şTrad. PUGI Jean-Pierre
+o MNEMOS      ?  2015.06 ..... ISBN 978-2-35408-313-7
+} mnemosint12    _Alain Brion                 ?
+- .oY.    kR4    _LINDHOLM Megan              Ki & Vandien - Int‚grale [Ki et Vandien - 1/4] ş2012
+: .oY.     R     _LINDHOLM Megan              Le Vol des harpies [Ki et Vandien - 1] ş1983 Harpy's Flight şTrad. SPINAT Xavier
+: .oY.     R     _LINDHOLM Megan              Les Ventchanteuses [Ki et Vandien - 2] ş1984 The Windsingers şTrad. LE PENNEC Guillaume
+: .oY.     R     _LINDHOLM Megan              La Porte du Limbreth [Ki et Vandien - 3] ş1984 The Limbreth Gate şTrad. LE PENNEC Guillaume
+: .oY.     R     _LINDHOLM Megan              Les Roues du destin [Ki et Vandien - 4] ş1989 Luck of the Wheels şTrad. LE PENNEC Guillaume
+o MNEMOS      ?  2015.08 ..... ISBN 978-2-35408-329-8
+} mnemosint13    _Alain Brion                 ?
++ MNEMOS      ?  2017.11 ..... ISBN 978-2-35408-329-8
+}mnemosint13rr17 _Alain Brion                 ?
+- .oY.    kR4    _GRIMBERT Pierre             Le Secret de Ji - Int‚grale [Le Secret de Ji - 1/4] ş2012
+: .o .     R     _GRIMBERT Pierre             Six h‚ritiers [Le Secret de Ji - 1] ş1996-1999
+: .o .     R     _GRIMBERT Pierre             Le Serment orphelin [Le Secret de Ji - 2] ş1996-1999
+: .o .     R     _GRIMBERT Pierre             L'Ombre des anciens [Le Secret de Ji - 3] ş1997-1999
+: .o .     R     _GRIMBERT Pierre             Le Doyen ‚ternel [Le Secret de Ji - 4] ş1997-1999
+o MNEMOS      ?  2015.10 ..... ISBN 978-2-35408-335-9
+} mnemosint14    _Stas Lobachev               ?
+- .oS.    kRN3   _SILVERBERG Robert          &La Porte des mondes - Int‚grale [La Porte des mondes] ş2015
+&                _BRUNNER John               &
+&                _YARBRO Chelsea Quinn        
+: .o .     R     _SILVERBERG Robert           La Porte des mondes [La Porte des mondes] ş1967 The Gate of Worlds şTrad. SAUMONT Annie
+!---      kr3                                 Par-del… la porte des mondes [La Porte des mondes] ş1991 Beyond the Gate of Worlds şTrad. Divers traducteurs
+: .o .     r     _SILVERBERG Robert           Tombouctou … l'heure du lion [La Porte des mondes] ş1990 Lion Time in Timbuctoo şTrad. COLLON H‚lŠne
+: .o .     r     _BRUNNER John                Sous le signe de la rose [La Porte des mondes] ş1991 At the Sign of the Rose şTrad. DUPRA Laura
+: .o .     r     _YARBRO Chelsea Quinn        L'Exaltation des araign‚es [La Porte des mondes] ş1991 An Exaltation of Spiders şTrad. DUPRA Laura
+o MNEMOS      ?  2015.11 ..... ISBN 978-2-35408-339-7
+} mnemosint15    _Gilles Francescano          ?
+- .oS.    kR3    _DUNYACH Jean-Claude         Etoiles mortes [Etoiles mortes - 1/3] ş2000
+: .o .     R     _DUNYACH Jean-Claude         Niv“se [Etoiles mortes - 1] ş1991
+: .o .     R     _DUNYACH Jean-Claude         Aigue-Marine [Etoiles mortes - 2] ş1991
+: .oS.    _U7    _DUNYACH Jean-Claude         Voleurs de silence [Etoiles mortes - 3] ş1992
+= .o .     N     _DUNYACH Jean-Claude         Sous l'oeil mort de la cam‚ra ş1986
+= .o .     N     _DUNYACH Jean-Claude         Figures impos‚es ş1988
+= .o .     N     _DUNYACH Jean-Claude         Venez dans mon palais ş1985
+= .o .     N     _DUNYACH Jean-Claude         L'Autre C“t‚ de l'eau ş1991
+= .o .     N     _DUNYACH Jean-Claude         Restez … l'‚coute ş1992
+= .o .     N     _DUNYACH Jean-Claude         Le Coeur de la perle ş1992
+= .o .     N     _DUNYACH Jean-Claude         Voleurs de silence ş1990
+!--- 
+!--- Anthologies
+!--- 
+o MNEMOS      ?  2015.06 ..... ISBN 978-2-35408-311-3
+} mnemosantho03  _?                           ?
+- .oY.     A9    *DUNYACH Jean-Claude         Trolls et licornes ş2015
+!--- - Anthologie des Imaginales 2015
+!--- SeptiŠme antho des Imaginales
+: .o .     N     _DEBATS Jeanne-A             J”tnar ş2015
+: .o .     N     _FAYE Estelle                La Chasse … la licorne ş2015
+: .o .     N     _BORDAGE Pierre              Ekasrinn ş2015
+: .o .     N     _DAVOUST Lionel              Bienvenue … Magicland ş2015
+: .o .     N     _PAQUET Olivier              Touellerezh ş2015
+: .o .     N     _EDGAR SilŠne                Le Troll m‚decin ş2015
+: .o .     N     _ALBERT Rapha‰l              Le Double Destin du taquin ş2015
+: .o .     N     _JOMAIN Sophie               Les Yeux du troll ş2015
+: .o .     N     _TOMAS Adrien                Trolls, licornes et bolognaise ş2015
+: .o .     N     _MILLER Sylvie              &Dans la tˆte de Georg Trollevitch ş2015
+&                _WARD Philippe                     
+!--- 
+!--- Thriller
+!--- 
+o MNE_THR     ?  2015.03 ..... ISBN 978-2-35408-297-0
+} mnemosth03     _?                           ?
+- .oSP     R     _DELMEULLE Fr‚d‚ric          In Cloud we Trust ş2015
+!------------------------
+!=== 2016
+!------------------------
+!--- 
+!--- D‚dales
+!--- 
+o MNE_DED     ?  2015.11 ..... ISBN 978-2-35408-352-6
+} mnemosd47      _Nicolas Fructus             ?
+- .oF.     A4    _CAMUS David                &Kadath - Quatre quˆtes oniriques de la cit‚ inconnue ş2016
+&                _FAZI M‚lanie               &
+&                _GRANIER DE CASSAGNAC R.    &
+&                _POUJOIS Laurent             
+: .o .     N     _CAMUS David                 L'In‚dit de Carter ş2010
+: .o .     N     _FAZI M‚lanie                L'vangile selon Ali‚nor ş2010
+: .o .     N     _GRANIER DE CASSAGNAC R.     Le T‚moignage de l'Innom‚ ş2010
+: .o .     N     _POUJOIS Laurent             Le Kitab du Saigneur ş2010
+!--- 
+!--- Icares & HC (Int‚grales)
+!--- 
+o MNE_ICA     ?  2016.01 ..... ISBN 978-2-35408-340-3
+} mnemosi178rr16 _Alain Brion                 ?
+- .oY.     RN    _TOMAS Adrien                La Geste du sixiŠme royaume [Les Six Royaumes] ş2016
+!--- Edition luxe, limit‚e, cartonn‚e avec signet. "Edition anniversaire - 20 ans"
+: .oY.     R     _TOMAS Adrien                La Geste du sixiŠme royaume [Les Six Royaumes - 1] ş2011
+: .o .     N     _TOMAS Adrien                Quarante-huit pour cent [Les Six Royaumes] ş2013
+o MNE_ICA     ?  2016.04 ..... ISBN 978-2-35408-348-9
+} mnemosi197     _Takahisa Kashi              ?
+- .oY.     R     _ARTHUR G. D.                Eos [Eos - 1] ş2016
+o MNE_ICA     ?  2016.06 ..... ISBN 978-2-35408-356-4
+} mnemosi198     _Michal Karcs                ?
+- .oS.     R     _GAULON Pierre               Le Dernier SortilŠge [Blizzard - 3] ş2016
+o MNE_ICA     ?  2016.08 ..... ISBN 978-2-35408-500-1
+} mnemosi199     _?                           ?
+- .oY.     R     _TOMAS Adrien                Le Royaume r‚v‚ [Le Chant des ‚pines - 1] ş2016
+o MNE_ICA     ?  2016.10 ..... ISBN 978-2-35408-510-0
+} mnemosi200     _Takahisa Kashi              ?
+- .oY.     R     _ARTHUR G. D.                Exils [Eos - 2] ş2016
+o MNEMOS      ?  2016.02 ..... ISBN 978-2-35408-345-8
+} mnemosint16    _?                           ?
+- .oY.     R5    _GABORIT Mathieu             Les Royaumes cr‚pusculaires - Int‚grale [Les Royaumes cr‚pusculaires] ş2007
+!--- Edition luxe, limit‚e, cartonn‚e avec signet. "Edition anniversaire - 20 ans"
+: .o .     R     _GABORIT Mathieu             Souffre-jour [Les Chroniques des cr‚pusculaires - 1][Les Royaumes cr‚pusculaires] ş1995-1999
+: .o .     R     _GABORIT Mathieu             Les Danseurs de Lorgol [Les Chroniques des cr‚pusculaires - 2][Les Royaumes cr‚pusculaires] ş1996-1999
+: .o .     R     _GABORIT Mathieu             Agone [Les Chroniques des cr‚pusculaires - 3][Les Royaumes cr‚pusculaires] ş1996-1999
+: .oY.     R     _GABORIT Mathieu             Aux ombres d'Abyme [Abyme - 1][Les Royaumes cr‚pusculaires] ş1996
+: .oY.     N     _GABORIT Mathieu             Renaissance [Abyme][Les Royaumes cr‚pusculaires] ş2007
+: .oY.     R     _GABORIT Mathieu             La Romance du d‚miurge [Abyme - 2][Les Royaumes cr‚pusculaires] ş1997
+o MNEMOS      ?  2016.02 ..... ISBN 978-2-35408-346-5
+} mnemosint17    _Ammo                        ?
+- .oS.    kR3    _HELIOT Johan                Trilogie de la Lune - Int‚grale prestige [La Trilogie de la Lune - 1/3] ş2011
+!--- Edition luxe, limit‚e, cartonn‚e avec signet. "Edition anniversaire - 20 ans"
+: .oS.     R     _HELIOT Johan                La Lune seule le sait [La Trilogie de la Lune - 1] ş2000-2007
+: .oS.     R     _HELIOT Johan                La Lune n'est pas pour nous [La Trilogie de la Lune - 2] ş2004
+: .oS.     R     _HELIOT Johan                La Lune vous salue bien [La Trilogie de la Lune - 3] ş2007
+o MNEMOS      ?  2016.02 ..... ISBN 978-2-35408-344-1
+} mnemosint18    _?                           ?
+- .oY.    kR2    _GEMMELL David               Le Lion de Mac‚doine - Int‚grale [Le Lion de Mac‚doine - 1/2] ş2012
+!--- Edition luxe, limit‚e, cartonn‚e avec signet. "Edition anniversaire - 20 ans"
+: .oY.     R     _GEMMELL David               Le Lion de Mac‚doine - Int‚grale [Le Lion de Mac‚doine - 1] ş1991 Lion of Macedon şTrad. HOLWECK Eric
+: .oY.     R     _GEMMELL David               Le Prince noir [Le Lion de Mac‚doine - 2] ş1991 Dark Prince şTrad. HOLWECK Eric
+o MNEMOS      ?  2016.03 ..... ISBN 978-2-35408-341-0
+} mnemosint19    _Jorge Jacinto               ?
+!--- Cartonn‚, avec signet, jaquette
++ MNEMOS      ?  2018.10 ..... ISBN 978-2-35408-681-7
+}mnemosint19rr18 _?                           ?
+!--- Cartonn‚, avec signet
+- .oS.    kR5    _FARMER Philip Jos‚          Le Monde du fleuve - Int‚grale [Le Fleuve de l'‚ternit‚ - 1/5] ş2016
+: .o .     R     _FARMER Philip Jos‚          Le Monde du fleuve [Le Fleuve de l'‚ternit‚ - 1] ş1971 To your Scattered Bodies go şTrad. ABADIA Guy
+: .o .     R     _FARMER Philip Jos‚          Le Bateau fabuleux [Le Fleuve de l'‚ternit‚ - 2] ş1971 The Fabulous Riverboat şTrad. ABADIA Guy
+: .o .     R     _FARMER Philip Jos‚          Le Noir Dessein [Le Fleuve de l'‚ternit‚ - 3] ş1977 The Dark Design şTrad. ABADIA Guy
+: .o .     R     _FARMER Philip Jos‚          Le Labyrinthe magique [Le Fleuve de l'‚ternit‚ - 4] ş1980 The Magic Labyrinth şTrad. CANET Charles
+: .o .     R     _FARMER Philip Jos‚          Les Dieux du fleuve [Le Fleuve de l'‚ternit‚ - 5] ş1983 Gods of Riverworld şTrad. CANET Charles
+o MNEMOS      ?  2016.06 ..... ISBN 978-2-35408-359-5
+} mnemosint20    _Alain Brion                 ?
+- .oSP     RN10  _GARRETT Randall             Int‚grale Lord Darcy [Les Enquˆtes de Lord Darcy] ş2016
+!--- Pr‚face Andr‚-Fran‡ois Ruaud
+: .oSP     N     _GARRETT Randall             C'est dans les yeux [Les Enquˆtes de Lord Darcy] ş1964 The Eyes Have It şTrad. MEISTERMANN C. & L.
+: .oSP     N     _GARRETT Randall             Une affaire d'identit‚ [Les Enquˆtes de Lord Darcy] ş1964 A Case of Identity şTrad.MEISTERMANN C. & L.
+: .oSP     N     _GARRETT Randall             Imbroglio pastel [Les Enquˆtes de Lord Darcy] ş1965 The Muddle of the Woad şTrad. MEISTERMANN C. & L.
+: .o .     R     _GARRETT Randall             Trop de magiciens [Les Enquˆtes de Lord Darcy - 1] ş1966 Too many Magicians şTrad. MEISTERMANN C. & L.
+: .oSP     N     _GARRETT Randall             Une corde pour se pendre [Les Enquˆtes de Lord Darcy] ş1973 A Stretch of the Imagination şTrad. DURASTANTI Pierre-Paul
+: .oSP     N     _GARRETT Randall             Une question de gravit‚ [Les Enquˆtes de Lord Darcy] ş1974 A Matter of Gravity şTrad. MEISTERMANN C. & L.
+: .oSP     N     _GARRETT Randall             Jusqu'… la lie [Les Enquˆtes de Lord Darcy] ş1978 The Bitter End şTrad. DURASTANTI Pierre-Paul
+: .oSP     N     _GARRETT Randall             La Fiole d'Ipswich [Les Enquˆtes de Lord Darcy] ş1976 The Ipswich Phial şTrad. MEISTERMANN C. & L.
+: .oSP     N     _GARRETT Randall             Les Seize clefs [Les Enquˆtes de Lord Darcy] ş1976 The Sixteen Keys şTrad. DURASTANTI Pierre-Paul
+: .oSP     N     _GARRETT Randall             Le Napoli Express [Les Enquˆtes de Lord Darcy] ş1979 The Napoli Express şTrad. MEISTERMANN C. & L.
+: .oSP     N     _GARRETT Randall             Le Sort du combat [Les Enquˆtes de Lord Darcy] ş1978 The Spell of War şTrad. DURASTANTI Pierre-Paul
+o MNEMOS      ?  2016.08 ..... ISBN 978-2-35408-501-8
+} mnemosint21    _?                           ?
+- .oS.     R2N5  _ZELAZNY Roger               L'Œle des morts ş2016
+!--- Pr‚face Timoth‚e Rey
+: .o .     N     _ZELAZNY Roger               En cet instant de la tempˆte ş1966 This Moment of the Storm şTrad. DEUTSCH Michel
+: .o .     N     _ZELAZNY Roger               Cette montagne mortelle ş1967 This Mortal Mountain şTrad. DEUTSCH Michel
+: .o .     N     _ZELAZNY Roger               Lugubre LumiŠre [Francis Sandow] ş1968 Dismal Light
+: .oS.     R     _ZELAZNY Roger               L'Œle des morts [Francis Sandow] ş1969 Isle of the Dead şTrad. DEUTSCH Michel
+: .o .     R     _ZELAZNY Roger               Le S‚rum de la d‚esse bleue [Francis Sandow] ş1973 To Die in Italbar şTrad. DOREMIEUX Alain
+: .o .     N     _ZELAZNY Roger               Les Furies ş1965 The Furies şTrad. BLUNDEN Ronald
+: .o .     N     _ZELAZNY Roger               Cl‚s pour d‚cembre ş1966 The Keys to December şTrad. POLANIS Jacques
+o MNEMOS      ?  2016.09 ..... ISBN 978-2-35408-511-7
+} mnemosint22    _Emile Denis                 ?
+!--- Edition limit‚e, cartonn‚e avec signet. "Edition anniversaire - 20 ans"
+- .oY.    kR2N2  _MAUMEJEAN Xavier            La Ligue des h‚ros [La Ligue des h‚ros] ş2009
+: .o .     R     _MAUMEJEAN Xavier            La Ligue des h‚ros [La Ligue des h‚ros - 1] ş2002
+: .o .     R     _MAUMEJEAN Xavier            L'Šre du dragon [La Ligue des h‚ros - 2] ş2003
+: .oF.     N     _MAUMEJEAN Xavier            Il ‚tait reveneure... [La Ligue des h‚ros] ş2004
+: .oF.     N     _MAUMEJEAN Xavier            Raven K [La Ligue des h‚ros] ş2004
+o MNEMOS      ?  2016.11 ..... ISBN 978-2-35408-515-5
+} mnemosint23    _?                           ?
+- .oY.    kR3    _FARMER Philip Jos‚         &Opar - Int‚grale [Hadon d'Opar - 1/3] ş2012 Gods of Opar: Tales of Lost Khokarsa
+&                _CAREY Christopher Paul      
+: .o .     R     _FARMER Philip Jos‚          Hadon, fils de l'antique Opar [Hadon d'Opar - 1] ş1974 Hadon of Ancient Opar şTrad. GALLET Georges H.
+: .o .     R     _FARMER Philip Jos‚          Fuite … Opar [Hadon d'Opar - 2] ş1976 Flight to Opar şTrad. GALLET Georges H.
+: .o .     R     _FARMER Philip Jos‚         &La Geste de Kwasin [Hadon d'Opar - 3] ş2012 The Song of Kwasin şTrad. DUPRA Laura
+&                _CAREY Christopher Paul      
+o MNEMOS      ?  2016.11 ..... ISBN 978-2-35408-514-8
+} mnemosint24    _?                           ?
+- .oS.     R2    _RUELLAN Andr‚               Ortog [La Geste d'Ortog] ş1975
+: .o .     R     _RUELLAN Andr‚               Aux armes d'Ortog [La Geste d'Ortog - 1] ş1960
+: .o .     R     _RUELLAN Andr‚               Ortog et les t‚nŠbres [La Geste d'Ortog - 2] ş1969
+!--- 
+!--- Anthologies
+!--- 
+o MNEMOS      ?  2016.06 ..... ISBN 978-2-35408-357-1
+} mnemosantho04  _H‚lŠne Larbaigt             ?
+!--- - Anthologie des Imaginales 2016
+!--- HuitiŠme antho des Imaginales
+- .oY.     A13   *VANTROYEN Jean-Claude       F‚es et Automates ş2016
+: .o .     N     _FAYE Estelle                Smoke and Mirrors ş2016
+: .o .     N     _BOUSQUET Charlotte          Le Rouet noir ş2016
+: .o .     N     _CERUTTI Fabien              Le Cr‚puscule et l'Aube ş2016
+: .o .     N     _RENNESON BenoŒt             Le Comte et l'Horloger ş2016
+: .o .     N     _TOMAS Adrien                L'nergie du d‚sespoir ş2016
+: .o .     N     _BEORN Paul                  L'talon ş2016
+: .o .     N     _KATZ Gabriel                Magie de No‰l ş2016
+: .o .     N     _OUALI Nabil                 Al'Ankab–t ş2016
+: .o .     N     _GAULON Pierre               Le Tour de Vanderville ş2016
+: .o .     N     _BORDAGE Pierre              auTOMate ş2016
+: .o .     N     _RESNICK Mike               &Son dernier coup d'‚checs ş2016
+&                _DUNYACH Jean-Claude         
+: .o .     N     _VAN WILDER Cindy            Tsimoka ş2016
+: .o .     N     _DAVOUST Lionel              Le Plateau des chimŠres [Evan‚gyre] ş2016
+!------------------------
+!=== 2017
+!------------------------
+!--- 
+!--- D‚dales
+!--- 
+o MNE_DED     ?  2017.02 ..... ISBN 978-2-35408-504-9
+} noimg          _Marcus Heinen               ?
+- .oS.     F     _DISCH Thomas M.             Le Prisonnier ş1969 The Prisoner şTrad. HUET Jacqueline
+o MNEMOS      ?  2017.03 ..... ISBN 978-2-35408-546-9
+} noimg          _?                           ?
+!--- + des extraits de Randolph Carter en fin de volume (dont des in‚dits)
+- .oF.     A11   ****                         La Clef d'argent des contr‚es du rˆve ş2017
+: .o .     N     _CLAVEL Fabien               Urj”ntaggur ş2017
+: .o .     N     _MILLER Sylvie              &Le Rˆveur de la cath‚drale ş2017
+&                _WARD Philippe               
+: .o .     N     _GRANIER DE CASSAGNAC R.     De Kadath … la Lune ş2017
+: .o .     N     _NIKOLAVITCH Alex            Caprae Ovum ş2017
+: .o .     N     _CAUSSARIEU Morgane          Les Chats qui rˆvent ş2017
+: .o .     N     _TASSY Vincent               Le Baiser du chaos rampant ş2017
+: .o .     N     _POUJOIS Laurent             Le Tabularium ş2017
+: .o .     N     _JOMUNSI Neil                Le Corps du rˆve ş2017
+: .o .     P     _REY Timoth‚e                Ylia de Hlanith ş2014
+: .o .     N     _CALVO David                 Mkraow ş2017
+o MNEMOS      ?  2017.06 ..... ISBN 978-2-35408-588-9
+} mnemosd50      _Zdzislaw Beksinski + Santiago Caruso
+- .oF.    kN17   _SMITH Clark Ashton          Zothique - Int‚grale Clark Ashton Smith ş2017
+: .o .     p     _CONNORS Scott               Pr‚face ş2017
+: .o .     P     _SMITH Clark Ashton          Zothique ş1951 Zothique şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          L'Empire des n‚cromants ş1932 The Empire of the Necromancers şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          L'Œle des tortionnaires ş1932 The Isle of the Torturers şTrad. BETAN Julien
+: .oF.     N     _SMITH Clark Ashton          Le Dieu n‚crophage ş1934 The Charnel God şTrad. BETAN Julien
+: .oF.     N     _SMITH Clark Ashton          Le Sombre Eidolon ş1935 The Dark Eidolon şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          Le Voyage du roi Euvoran ş1933 The Voyage of King Euvoran şTrad. BETAN Julien
+: .oF.     N     _SMITH Clark Ashton          Le Tisseur dans la tombe ş1934 The Weaver in the Vault şTrad. BETAN Julien
+: .oF.     N     _SMITH Clark Ashton          Le Fruit de la tombe ş1934 The Tomb-spawn şTrad. BETAN Julien
+: .oF.     N     _SMITH Clark Ashton          Les Charmes d'Ulua ş1934 The Witchcraft of Ulua şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          Xeethra ş1934 Xeethra şTrad. BETAN Julien
+: .oF.     N     _SMITH Clark Ashton          Le Dernier Hi‚roglyphe ş1935 The Last Hieroglyph şTrad. BETAN Julien
+: .oF.     N     _SMITH Clark Ashton          Les N‚cromants de Naat ş1936 Necromancy in Naat şTrad. BETAN Julien
+: .oF.     N     _SMITH Clark Ashton          L'Abb‚ noir de Puthuum ş1936 The Black Abbot of Puthuum şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          La Mort d'Ilalotha ş1937 The Death of Ilalotha şTrad. BETAN Julien
+: .oF.     N     _SMITH Clark Ashton          Le Jardin d'Adompha ş1938 The Garden of Adompha şTrad. BETAN Julien
+: .oF.     N     _SMITH Clark Ashton          Le MaŒtre des crabes ş1934 The Master of the Crabs şTrad. BETAN Julien
+: .oF.     N     _SMITH Clark Ashton          Morthylla ş1953 Morthylla şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          Des morts tu subiras l'adultŠre ş1963 The Dead Will Cuckold You şTrad. BETAN Julien
+!--- Fragments & synopsis
+: .o .     N     _SMITH Clark Ashton          Formes adamantines (fragment) ş1984 Shapes of Adamant şTrad. BETAN Julien
+: .! .     l     _SMITH Clark Ashton          Le Succube ‚carlate - Lettre … L. Sprague de camp ş1953 şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          L'Ennemi de Mandor (fragment) ş1984 Mandor's Enemy şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          Les Pieds de Sidaiva (synopsis) ş1989 The Feet of Sidaiva (synopsis) şTrad. BETAN Julien
+: .o .     a     _BETAN Julien                Note d'intention - Pour une relecture de Smith en fran‡ais ş2017
+o MNE_DED     ?  2017.09 ..... ISBN 978-2-35408-587-2
+} noimg          _Aur‚lien Police             ?
+- .oF.     R     _ALBERT Rapha‰l              De bois et de ruines [Les Extraordinaires & fantastiques enquˆtes de Sylvo Sylvain, d‚tective priv‚] ş2017
+!--- 
+!--- Icares
+!--- 
+o MNE_ICA     ?  2017.02 ..... ISBN 978-2-35408-534-6
+} noimg          _Lin Hsiang                  ?
+- .oY.     R     _DA ROSA Gr‚gory             S‚n‚chal [S‚n‚chal - 1] ş2017
+o MNE_ICA     ?  2017.05 ..... ISBN 978-2-35408-568-1
+} noimg          _?                           ?
+- .oS.     R     _HELIOT Johan                L'Acad‚mie de l'‚ther [Grand siŠcle - 1] ş2017
+o MNE_ICA     ?  2017.06 ..... ISBN 978-2-35408-566-7
+} noimg          _Alain Brion                 ?
+- .oY.     R     _TOMAS Adrien                Le Royaume ‚veill‚ [Le Chant des ‚pines - 2] ş2017
+o MNE_ICA     ?  2017.08 ..... ISBN 978-2-35408-585-8
+} mnemosi193     _Emile Denis                 ?
+- .oY.     R     _CERUTTI Fabien              Le Marteau des sorciŠres [Le Bƒtard de Kosigan - 3] ş2017
+o MNE_ICA     ?  2017.10 ..... ISBN 978-2-35408-599-5
+} noimg          _Julian You                  ?
+!--- TBD         _Lin Hsiang                  ?
+- .oY.     R     _DA ROSA Gr‚gory             S‚n‚chal II [S‚n‚chal - 2] ş2017
+!--- 
+!--- Int‚grales & SF
+!--- 
+o MNEMOS      ?  2017.01 ..... ISBN 978-2-35408-531-5
+} mnemos012017_1 _Adam Taylor                 ?
++ MNEMOS      ?  2020.10 ..... ISBN 978-2-35408-778-4
+} noimf          _Adam Taylor                 ?
+- .oS.     R5    _HEINLEIN Robert             Histoire du futur [Histoire du futur - 1/5] ş2017
+: .oS.     C6    _HEINLEIN Robert             L'Homme qui vendit la lune [Histoire du futur - 1] ş1950 The Man who Sold the Moon şTrad. BILLON Pierre & DUMOULIN Jean-Claude
+!--- TBD si contient le RF 58
+= .o .     N     _HEINLEIN Robert             Ligne de vie ş1939 Life Line
+= .o .     N     _HEINLEIN Robert             Que la lumiŠre soit ş1940 Let There Be Light
+= .o .     N     _HEINLEIN Robert             Les routes doivent rouler ş1940 The Roads Must Roll
+= .o .     N     _HEINLEIN Robert             Il arrive que ‡a saute ş1940 Blowups Happen
+= .o .     r     _HEINLEIN Robert             L'Homme qui vendit la Lune ş1950 The Man who Sold the Moon
+= .o .     N     _HEINLEIN Robert             Requiem ş1940 Requiem
+: .oS.     C10   _HEINLEIN Robert             Les Vertes Collines de la Terre [Histoire du futur - 2] ş1951 The Green Hills of Earth şTrad. BILLON Pierre
+= .o .     N     _HEINLEIN Robert             Dalila et l'homme de l'espace ş1949 Delilah and the Space Rigger
+= .o .     N     _HEINLEIN Robert             Jockey de l'espace ş1947 Space Jockey
+= .o .     N     _HEINLEIN Robert             La Longue Veille ş1949 The Long Watch
+= .o .     N     _HEINLEIN Robert             Asseyez vous, messieurs ş1948 Gentlemen, Be Seated!
+= .o .     N     _HEINLEIN Robert             Les Puits noirs de la Lune ş1948 The Black Pits of Luna
+= .o .     N     _HEINLEIN Robert             Qu'il est bon de revenir ş1947 It's Great to Be Back
+= .o .     N     _HEINLEIN Robert             Nous promenons aussi les chiens ş1941 ... We also Walk Dogs
+= .o .     N     _HEINLEIN Robert             Vertige spatial ş1948 Ordeal in Space
+= .o .     N     _HEINLEIN Robert             Les Vertes Collines de la Terre ş1947 The Green Hills of Earth
+= .o .     N     _HEINLEIN Robert             La Logique de l'empire ş1941 Logic of Empire
+: .oS.     C3    _HEINLEIN Robert             R‚volte en 2100 [Histoire du futur - 3] ş1953 Revolt in 2100 şTrad. STRASCHITZ Frank
+= .o .     N     _HEINLEIN Robert             Si ‡a arrivait ş1940 If This Goes On... şTrad. STRASCHITZ Frank
+= .o .     N     _HEINLEIN Robert             La R‚serve ş1940 Conventry şTrad. STRASCHITZ Frank
+= .o .     N     _HEINLEIN Robert             L'Inadapt‚ ş1939 Misfit şTrad. STRASCHITZ Frank
+: .o .     R     _HEINLEIN Robert             Les Enfants de Mathusalem [Histoire du futur - 4] ş1958 Methuselah's Children şTrad. STRASCHITZ Frank
+: .o .     R     _HEINLEIN Robert             Les Orphelins du ciel [Histoire du futur - 5] ş1963 Orphans of the Sky şTrad. STRASCHITZ Frank
+o MNEMOS      ?  2017.03 ..... ISBN 978-2-35408-542-1
+} noimg          _?                           ?
+- .oS.     R     _ATTANASIO A. A.             Radix ş1981 Radix şTrad. CARASSO Jean-Pierre
+o MNEMOS      ?  2017.04 ..... ISBN 978-2-35408-547-6
+} mnemosi042017  _?                           ?
+- .oS.     R2    _VAN VOGT Alfred E.          Le Cycle de Linn [Le Cycle de Linn] ş2017
+: .o .    kU5    _VAN VOGT Alfred E.          L'Empire de l'atome [Le Cycle de Linn] ş1957 Empire of the Atom şTrad. BILLON Pierre
+: .o .     R     _VAN VOGT Alfred E.          Le Sorcier de Linn [Le Cycle de Linn] ş1950 The Wizard of Linn şTrad. BILLON Pierre
+o MNEMOS      ?  2016.xx ..... ISBN 978-2-35408-357-1
+} mnemos042017_1 _G‚raud Soulier              ?
+- .oS.    kR3    _GECHTER Olivier             1864 [Le Baron noir] ş2017
+: .o .     r     _GECHTER Olivier             L'Ombre du maŒtre espion [Le Baron noir - 1] ş2013-2017
+: .o .     r     _GECHTER Olivier             Bel Ange [Le Baron noir - 2] ş2014-2017
+: .o .     R     _GECHTER Olivier             La Bataille de Cherbourg [Le Baron noir - 3] ş2017
+o MNEMOS      ?  2017.06 ..... ISBN 978-2-35408-571-1
+} noimg          _?                           ?
+- .oS.     R     _SARBAN O.                   Le Son du cor ş1952 The Sound of His Horn şTrad. TERSAC Jacques de
+o MNEMOS      ?  2017.08 ..... ISBN 978-2-35408-583-4
+}mnemosint082017 _Dogan Otzel                 ?
+- .oS.     R2    _SILVERBERG Robert           Majipoor - Int‚grale du cycle de Valentin [Majipoor] ş2017
+: .oS.     R     _SILVERBERG Robert           Le Chƒteau de Lord Valentin [Majipoor - 1] ş1980 Lord Valentine's Castle şTrad. BERTHON Patrick
+: .oS.     R     _SILVERBERG Robert           Valentin de Majipoor [Majipoor - 3] ş1983 Valentine Pontifex şTrad. BERTHON Patrick & TOURLOURAT Marie-Laure
+o MNEMOS      ?  2017.10 ..... ISBN 978-2-35408-598-8
+} noimg          _?                           ?
+- .oS.     R     _WOLFE Gene                  La CinquiŠme Tˆte de cerbŠre ş1972 The Fifth Head of Cerberus şTrad. ABADIA Guy
+o MNEMOS      ?  2017.11 ..... ISBN 978-2-35408-605-3
+} mnemosint27    _?                           ?
+- .oY.    kR5    _GRIMBERT Pierre             Les Enfants de Ji [Les Enfants de Ji - 1/5][Le Secret de Ji] ş2017
+: .oY.     R     _GRIMBERT Pierre             La Veuve barbare [Les Enfants de Ji - 2][Le Secret de Ji] ş2004
+: .oY.     R     _GRIMBERT Pierre             Le Testament oubli‚ [Les Enfants de Ji - 1][Le Secret de Ji] ş2004
+: .oY.     R     _GRIMBERT Pierre             La Voix des aŒn‚s [Les Enfants de Ji - 3][Le Secret de Ji] ş2005
+: .oY.     R     _GRIMBERT Pierre             Le Patriarche [Les Enfants de Ji - 4][Le Secret de Ji] ş2005
+: .oY.     R     _GRIMBERT Pierre             Le Sang du Jal [Les Enfants de Ji - 5][Le Secret de Ji] ş2006
+o MNEMOS      ?  2017.10 ..... ISBN 978-2-35408-596-4
+} noimg          _?                           ?
+- .oS.     R     _BERENVAL Olivier            Nemrod ş2017
+!--- 
+!--- Anthologies
+!--- 
+o MNEMOS      ?  2017.01 ..... ISBN 978-2-35408-532-2
+} mnemos012017_2 _?                           ?
+- .oY.     A19   _PERIER Isabelle             Contes d'‚cryme ş2017
+!--- - D'aprŠs BhŠme de Mathieu Gaborit
+!--- Un glossaire en fin d'ouvrage
+: .o .     p     _BARILLIER Etienne           Pr‚face ş2017
+: .o .     N     _GABORIT Mathieu             La Traque de l'antiquaire - Prologue ş2017
+: .o .     N     _METZENER Samuel             Au march‚ ş2017
+: .o .     N     _GABORIT Mathieu             Une partie d'errance ou Le coup "Fractale" ş2017
+: .o .     N     _GAUGAIN Arnaud              Rˆves de m‚tal ş2017
+: .o .     N     _GABORIT Mathieu             R‚cit d'Otlayr, franc-voleur ş2017
+: .o .     N     _LHOMME Tristan              T‚moignages grav‚s sur un disque anonyme ş2017
+: .o .     N     _GABORIT Mathieu             Le Bruit du bateleur ş2017
+: .o .     N     _LE BRETON Nicolas           La Chute du maŒtre des vents ş2017
+: .o .     N     _CLAVEL Alexandre            Le Domaine de l'ineffable ş2017
+: .o .     N     _PLASSE Franck               Vous vous appelez... ş2017
+: .o .     N     _FAYE Estelle                Nina ş2017
+: .o .     N     _ALBERT Rapha‰l              Le Meurtrier masqu‚, ‚pisode 1 ş2017
+: .o .     N     _GABORIT Mathieu             Le Rˆve d'Eiffel ş2017
+: .o .     N     _CLAVEL Fabien               Rˆve d'Iskandra ş2017
+: .o .     N     _GRANIER DE CASSAGNAC R.     Phalanger en Istanie - Un fabuleux voyage urbatechnologique ş2017
+: .o .     N     _GABORIT Mathieu             M‚moires de glace ş2017
+: .o .     N     _BOUSQUET Charlotte          Fleurs d'‚cryme ş2017
+: .o .     N     _GABORIT Mathieu             L'Obus d‚lib‚r‚ ş2017
+: .o .     N     _CLAVEL Alexandre            La Traque de l'antiquaire ş2017
+o MNEMOS      ?  2017.06 ..... ISBN 978-2-35408-576-6
+} mnemosantho05  _Julien Delval               ?
+- .oYS     A14   *NICOT St‚phanie             Destinations - Anthologie des Imaginales 2017 ş2017
+!--- Destins
+: .o .     N     _WELLENSTEIN Aur‚lie         Buc‚phale au coeur des ombres ş2017
+: .o .     N     _ARTHUR G. D.                Ivresses et profondeurs ş2017
+: .o .     N     _DA ROSA Gr‚gory             FIN ş2017
+: .o .     N     _BOUSQUET Charlotte          La Voix des renards pƒles ş2017
+: .o .     N     _DIXEN Victor                La Source ş2017
+: .o .     N     _ROUILLER Fran‡ois           L'Aiguillon de l'amour ş2017
+!--- Nations
+: .o .     N     _THOMAS Jean-Fran‡ois        Chakrouar III ş2017
+: .o .     N     _TOMAS Adrien                La Voix des profondeurs ş2017
+: .o .     N     _PLATTEAU Stefan             Le Roi Cornu [Les Sentiers des astres] ş2017
+!--- Destinations
+: .o .     N     _BORDAGE Pierre              Sans destination ş2017
+: .o .     N     _HENRY Lo‹c                  Essaimage ş2017
+: .o .     N     _FAYE Estelle                Hoorn ş2017
+: .o .     N     _CERUTTI Fabien              Jehan de Mandeville, le livre des merveilles du monde ş2017
+: .o .     N     _DAVOUST Lionel              Une forme de d‚mence ş2017
+!------------------------
+!=== 2018
+!------------------------
+o MNE_DED     ?  2018.11 ..... ISBN 978-2-35408-696-1
+} noimg          _Atelier Octobre Rouge       ?
+- .oY.     R     _OUALI Nabil                 Le Courage et le Vent [La Voix de l'empereur - 3] ş2018
+o MNE_ICA     ?  2018.02 ..... ISBN 978-2-35408-613-8
+} noimg          _?                           ?
+- .oY.     R     _MORAN Patrick               La Cr‚cerelle [La Cr‚cerelle - 1] ş2018
+o MNEMOS      ?  2018.02 35.00 ISBN 978-2-35408-614-5
+} mnemosint33    _(c)Atelier Octobre Rouge    ?
+!--- Cartonn‚, reli‚, signet
+!--- 1024 pages
+- .oS.    kR7    _FARMER Philip Jos‚          Thoan - La Saga des hommes-dieux [La Saga des hommes-dieux - 1/7] ş2018
+: .oS.     R     _FARMER Philip Jos‚          Le Faiseur d'univers [La Saga des hommes-dieux - 1] ş1965 The Maker of Universes şTrad. DEUTSCH Michel
+: .oS.     R     _FARMER Philip Jos‚          Les Portes de la cr‚ation [La Saga des hommes-dieux - 2] ş1966 The Gates of Creation şTrad. ABADIA Guy
+: .oS.     R     _FARMER Philip Jos‚          Cosmos priv‚ [La Saga des hommes-dieux - 3] ş1968 Private Cosmos şTrad. BATTIN Marcel
+: .oS.     R     _FARMER Philip Jos‚          Les Murs de la Terre [La Saga des hommes-dieux - 4] ş1970 Behind the Walls of Terra şTrad. BATTIN Marcel
+: .oS.     R     _FARMER Philip Jos‚          Le Monde Lavalite [La Saga des hommes-dieux - 5] ş1977 The Lavalite World şTrad. MOUSNIER-LOMPRE Arnaud
+: .oS.     R     _FARMER Philip Jos‚          La Rage d'Orc le Rouge [La Saga des hommes-dieux - 6] ş1991 Red Orc's Rage şTrad. MOUSNIER-LOMPRE Arnaud
+: .oS.     R     _FARMER Philip Jos‚          Plus fort que le feu [La Saga des hommes-dieux - 7] ş1993 More than Fire şTrad. MOUSNIER-LOMPRE Arnaud
+o MNE_ICA     ?  2018.03 ..... ISBN 978-2-35408-627-5
+} noimg          _Alain Brion                 ?
+- .oY.     R     _TOMAS Adrien                Le Royaume bris‚ [Le Chant des ‚pines - 3] ş2018
+o MNEMOS      ?  2018.03 ..... ISBN 978-2-35408-626-8
+} mnemosd52      _Zdzislaw Beksinski + Santiago Caruso
+- .oF.    kN21   _SMITH Clark Ashton          Hyperbor‚e & Pos‚idonis - Int‚grale Clark Ashton Smith ş2018
+: .o .     p     _CONNORS Scott               Pr‚face ş2018
+: .o .     P     _SMITH Clark Ashton          Hyperbor‚e ş? Hyperbor‚e şTrad. BASSET Vincent
+: .o .     P     _SMITH Clark Ashton          La Muse d'Hyperbor‚e ş1934 The Muse of Hyperborea şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          L'Histoire de Satampra Zeiros ş1931 The Tale of Satampra Zeiros şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          La Porte vers Saturne ş1932 The Door to Saturn şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          Le Testament d'Athammaus ş1932 The Testament of Athammaus şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          L'Infortune d'Avoosl Wuthoqqan ş1932 The Weyrd of Avoosl Wuthoqqan şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          Ubbo-Sathla ş1933 Ubbo-Sathla şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          Le D‚mon de glace ş1933 The Ice-demon şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          La Sybille blanche ş1934 The White Sybil şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          L'AvŠnement du ver blanc ş1933 The Coming of the White Worm şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          Les Sept Geasa ş1934 The Seven Geases şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          Le Vol des trente-neuf ceintures ş1958 The Theft of Thirty-nine Girdles şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          La Maison d'Haon-Dor ş1984 The House of Haon-Dor şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          Pos‚idonis ş? Pos‚idonis şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          L'Atlantide ş1912 Atlantis şTrad. BASSET Vincent
+: .o .     P     _SMITH Clark Ashton          La Muse d'Atlantide ş1922 From a Letter / The Muse of Atlantis şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          La DerniŠre Incantation ş1930 The Last Incantation şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          Voyage pour Sfanomo‰ ş1931 A Voyage to Sfanomoe şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          Un grand cru d'Atlantide ş1933 A Vintage from Atlantis şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          L'Ombre double ş1933 The Double Shadow şTrad. BASSET Vincent
+: .o .     N     _SMITH Clark Ashton          La Mort de Malygris ş1934 The Death of Malygris şTrad. BASSET Vincent
+: .o .     P     _SMITH Clark Ashton          Tolometh ş1958 Tolometh şTrad. BASSET Vincent
+: .o .     o     _JOSHI S.T.                  Postface ş2018
+o MNEMOS      ?  2018.04 ..... ISBN 978-2-35408-609-1
+} mnemosint34    _S‚bastien Hue               ?
+- .oS.    kR3    _VANCE Jack                  Lyonesse - Int‚grale [Lyonesse - 1/3] ş2018 şTrad. Divers traducteurs
+: .o .     R     _VANCE Jack                  Le Jardin de Suldrun [Lyonesse - 1] ş1983 Suldrun's Garden şTrad. ROSENBLUM Arlette
+: .o .     R     _VANCE Jack                  La Perle verte [Lyonesse - 2] ş1985 The Green Pearl şTrad. ROSENBLUM Arlette
+: .o .     R     _VANCE Jack                  Madouc [Lyonesse - 3] ş1989 Madouc şTrad. MEISTERMAN E.C.L.
+o MNE_ICA     ?  2018.04 ..... ISBN 978-2-35408-636-7
+} noimg          _Daniel Balage               ?
+- .oY.     R     _GABORIT Mathieu             La Cit‚ exsangue [Les Nouveaux MystŠres d'Abyme - 1][Les Royaumes cr‚pusculaires] ş2018
+o MNE_ICA     ?  2018.05 ..... ISBN 978-2-35408-640-4
+} noimg          _Atelier Octobre Rouge       ?
+- .oS.     R     _HELIOT Johan                L'Envol du Soleil [Grand siŠcle - 2] ş2018
+o MNE_ICA     ?  2018.06 ..... ISBN 978-2-35408-646-6
+} noimg          _Emile Denis                 ?
+- .oY.     R     _CERUTTI Fabien              Le Testament d'involution [Le Bƒtard de Kosigan - 4] ş2018
+o MNEMOS      ?  2018.06 ..... ISBN 978-2-35408-648-0
+} mnemosint35    _Dogan Oztel                 ?
+- .oS.    kR3    _SILVERBERG Robert           Majipoor - Int‚grale du cycle de Prestimion [Majipoor] ş2018
+: .o .     R     _SILVERBERG Robert           Les Sorciers de Majipoor [Majipoor - 5] ş1997 Sorcerers of Majipoor şTrad. BERTHON Patrick
+: .o .     R     _SILVERBERG Robert           Prestimion le Coronal [Majipoor - 6] ş1999 Lord Prestimion şTrad. BERTHON Patrick
+: .o .     R     _SILVERBERG Robert           Le Roi des rˆves [Majipoor - 7] ş2001 King of Dreams şTrad. PROVOST Rapha‰le
+o MNEMOS      ?  2018.06 20.00 ISBN 978-2-35408-650-3
+} noimg          _John Howe                   ?
+!--- 256 pages
+- .oS.    kA14   *NICOT St‚phanie             Cr‚atures - Anthologie des Imaginales 2018 ş2018
+: .o .     N     _DEL SOCORRO Jean-Laurent    La Machine diff‚rente ş2018
+: .o .     N     _HAUCHECORNE Anthelme        En commen‡ant par la faim ş2018
+: .o .     N     _BELMAS Claire              &Le Nid de la Sphinge ş2018
+&                _BELMAS Robert               
+: .o .     N     _MORAN Patrick               Les Rˆves de Venn Colomax ş2018
+: .o .     N     _KATZ Gabriel                Une chance sur six ş2018
+: .o .     N     _TOMAS Adrien                L'Homme d'argile ş2018
+: .o .     N     _VONARBURG Elisabeth         Les Portes du monde ş2018
+: .o .     N     _CERUTTI Fabien              L‚gende du premier monde ş2018
+: .o .     N     _GECHTER Olivier             Une petite fleur ş2018
+: .o .     N     _LARBAIGT H‚lŠne             Pied d'ombre ş2018
+: .o .     N     _FERNANDEZ Fabien            Desdemona ş2018
+: .o .     N     _DUNYACH Jean-Claude         Casser la coquille ş2018
+: .o .     N     _TRUDEL Jean-Louis           La Traductrice des monstres ş2018
+!--- Dans l'univers des nuages de Magellans :
+: .o .     N     _FAYE Estelle                Elle a tes yeux ş2018
+o MNE_ICA     ?  2018.06 ..... ISBN 978-2-35408-651-0
+} noimg          _M‚lanie Delon               ?
+- .oY.     R     _BOUSQUET Charlotte          Les Masques d'Azr'Khila [Shƒhra - 1] ş2018
+o MNE_ICA     ?  2018.08 ..... ISBN 978-2-35408-662-6
+} noimg          _Qistina Khalidah            ?
+- .oY.     R     _MONDIOT Vincent            &Les Mondes-Miroirs ş2018
+&                _LAFARGE Rapha‰l             
+o MNEMOS      ?  2018.08 ..... ISBN 978-2-35408-663-3
+} mnemosint36    _Fahad Alkadi                ?
+!--- Pr‚face de Timoth‚e Rey
+- .oS.    iRNx   _SMITH Cordwainer            Les Seigneurs de l'Instrumentalit‚ - Int‚grale [Les Seigneurs de l'Instrumentalit‚] ş2018
+: .oS.    iN17   _SMITH Cordwainer            Les sondeurs vivent en vain [Les Seigneurs de l'Instrumentalit‚] ş2004
+: .oS.    iN10   _SMITH Cordwainer            La PlanŠte Shayol [Les Seigneurs de l'Instrumentalit‚] ş2004
+: .oS.     R     _SMITH Cordwainer            Norstralie [Les Seigneurs de l'Instrumentalit‚] ş1975-1993 Norstrilia şTrad. HILLING Simone & DURASTANTI Pierre-Paul
+: .oS.    iN5    _SMITH Cordwainer            L‚gendes et glossaire du futur [Les Seigneurs de l'Instrumentalit‚] ş2004
+: .oS.     E     _LEWIS Anthony R.            Concordance de Cordwainer Smith [Les Seigneurs de l'Instrumentalit‚] ş1984 Concordance to Cordwainer Smith
+o MNEMOS      ?  2018.09 ..... ISBN 978-2-35408-610-7
+} mnemosd54      _Zdzislaw Beksinski          ?
+!--- Chercher toutes les ‚ditions, y compris sur participation
+- .oF.    kN32   _SMITH Clark Ashton          Averoigne & autres mondes - Int‚grale C.A. Smith ş2018
+: .o .     p     _CONNORS Scott               Pr‚face ş2018
+: .C .     C     _SMITH Clark Ashton          Averoigne
+: .o .     P     _SMITH Clark Ashton          Averoigne ş1951 Averoigne şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          La Fin de l'histoire ş1930 The End of the Story şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          Le Satyre ş1931 The Satyr şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          Un rendez-vous en Averoigne ş1931 A Rendezvous in Averoigne şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          Le Faiseur de gargouilles ş1932 The Maker of Gargoyles şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          Saint d'Az‚darac ş1933 The Holiness of Azedarac şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          Le Colosse d'Ylourgne ş1934 The Colossus of Ylourgne şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          Les Mandragores ş1933 The Mandrakes şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          La Bˆte d'Averoigne ş1932 The Beast of Averoigne şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          La V‚nus exhum‚e ş1934 The Disinterment of Venus şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          La MŠre des crapauds ş1938 Mother of Toads şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          L'Enchanteresse de Sylaire ş1941 The Enchantress of Sylaire şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          Fragments et synopsis ş? şTrad. BETAN Julien
+: .C .     C     _SMITH Clark Ashton          Autres mondes
+: .C .     C     _SMITH Clark Ashton          Mars
+: .o .     N     _SMITH Clark Ashton          Les Caveaux de Yoh Vombis ş1932 The Vaults of Yoh Vombis şTrad. NIKOLAVITCH Alex
+: .o .     N     _SMITH Clark Ashton          L'Habitant des gouffres ş1933 The Dweller in the Gulf şTrad. NIKOLAVITCH Alex
+: .o .     N     _SMITH Clark Ashton          Vulthoom ş1935 Vulthoom şTrad. NIKOLAVITCH Alex
+: .C .     C     _SMITH Clark Ashton          Xiccarph
+: .o .     N     _SMITH Clark Ashton          Le D‚dale de Maal Dweb ş1933 The Maze of Maal Dweb şTrad. NIKOLAVITCH Alex
+: .o .     N     _SMITH Clark Ashton          Les Femmes-Fleurs ş1935 The Flower-women şTrad. NIKOLAVITCH Alex
+: .C .     C     _SMITH Clark Ashton          Autres mondes
+: .o .     N     _SMITH Clark Ashton          Les Abominations de Yondo ş1926 The Abominations of Yondo şTrad. NIKOLAVITCH Alex
+: .o .     N     _SMITH Clark Ashton          Une nuit dans Maln‚ant ş1939 A Night in Malneant şTrad. NIKOLAVITCH Alex
+: .o .     N     _SMITH Clark Ashton          Le Monstre de la proph‚tie ş1954 The Monster of the Prophecy şTrad. NIKOLAVITCH Alex
+: .o .     N     _SMITH Clark Ashton          Le D‚mon de la fleur ş1933 The Demon of the Flower şTrad. NIKOLAVITCH Alex
+: .o .     N     _SMITH Clark Ashton          La PlanŠte d‚funte ş1932 The Planet of the Dead şTrad. NIKOLAVITCH Alex
+: .C .     C     _SMITH Clark Ashton          PoŠmes
+: .o .     P     _SMITH Clark Ashton          Ombres ş1922 The Shadows şTrad. NIKOLAVITCH Alex
+: .o .     P     _SMITH Clark Ashton          Depuis les cryptes du souvenir ş1917 From the Crypts of Memory şTrad. NIKOLAVITCH Alex
+: .o .     P     _SMITH Clark Ashton          Sadastor ş1930 Sadastor şTrad. NIKOLAVITCH Alex
+: .o .     P     _SMITH Clark Ashton          Au d‚mon ş1943 To the Daemon şTrad. NIKOLAVITCH Alex
+: .o .     o     _JOSHI S.T.                  Postface ş2018
+o MNE_ICA     ?  2018.10 ..... ISBN 978-2-35408-678-7
+} noimg          _Lin Hsiang                  ?
+- .oY.     R     _DA ROSA Gr‚gory             S‚n‚chal III [S‚n‚chal - 3] ş2018
+o MNEMOS      ?  2018.11 ..... ISBN 978-2-35408-691-6
+} mnemosint37    _Atelier Octobre Rouge       ?
+- .oS.    kR4    _BRUNNER John                La T‚tralogie Noire ş1968 şTrad. Divers traducteurs
+!--- Pr‚face de MORAN Patrick
+: .o .     R     _BRUNNER John                Tous … Zanzibar ş1968 Stand on Zanzibar şTrad. PEMERLE Didier
+: .o .     R     _BRUNNER John                L'Orbite d‚chiquet‚e ş1969 The Jagged Orbit şTrad. STRASCHITZ Frank
+: .o .     R     _BRUNNER John                Le Troupeau aveugle ş1972 The Sheep Look Up şTrad. ABADIA Guy
+: .o .     R     _BRUNNER John                Sur l'onde de choc ş1975 The Shockwave Rider şTrad. ABADIA Guy
+!------------------------
+!=== 2019
+!------------------------
+o MNE_ICA     ?  2019.01 ..... ISBN 978-2-35408-704-3
+} noimg          _(c)Shutterstock             ?
+- .oS.     R     _MARTEL Jacques              La Voie Verne ş2019
+o MNE_ICA     ?  2019.02 ..... ISBN 978-2-35408-709-8
+} noimg          _Qistina Khalidah            ?
+- .oY.     R     _LATIL-NICOLAS Thibaud       Chevauche-brumes ş2019
+o MNEMOS      ?  2019.03 ..... ISBN 978-2-35408-719-7
+} noimg          _Zdzislaw Beksinski          ?
+- .o .     R     _BLOCH Robert                Etranges ‚ons ş1978 Strange Eons şTrad. TRUCHAUD Fran‡ois
+o MNEMOS      ?  2019.03 ..... ISBN 978-2-35408-721-0
+} mnemosint38    _Graham Kelly                ?
+- .oS.    kR3    _VANCE Jack                  Les Chroniques de Cadwal - Int‚grale [Les Chroniques de Cadwal - 1/3] ş2018
+: .o .     R     _VANCE Jack                  La Station d'Araminta [Les Chroniques de Cadwal - 1] ş1987 Araminta Station şTrad. ROSENBLUM Arlette
+: .o .     R     _VANCE Jack                  Bonne vieille Terre [Les Chroniques de Cadwal - 2] ş1991 Ecce and Old Earth şTrad. MEISTERMAN E.C.L.
+: .o .     R     _VANCE Jack                  Throy [Les Chroniques de Cadwal - 3] ş1992 Throy şTrad. MEISTERMANN E.C.L.
+o MNEMOS      ?  2019.04 ..... ISBN 978-2-35408-722-7
+} mnemosint39    _Dogan Oztel                 ?
+- .oS.     RN7   _SILVERBERG Robert           Les L‚gendes de Majipoor [Majipoor] ş2019
+: .oS.     R     _SILVERBERG Robert           Chroniques de Majipoor [Majipoor - 2] ş1982 Majipoor Chronicles şTrad. BERTHON Patrick
+: .o .     R     _SILVERBERG Robert           Les Montagnes de Majipoor [Majipoor - 4] ş1995 The Mountains of Majipoor
+: .oS.    kN7    _SILVERBERG Robert           DerniŠres nouvelles de Majipoor [Majipoor] ş2013 Tales of Majipoor
+= .oS.     N     _SILVERBERG Robert           Le Bout du chemin [Majipoor] ş2011 The End of the Line şTrad. HOLSTEIN Eric
+= .oS.     N     _SILVERBERG Robert           Le Livre des changements [Majipoor] ş2003 The Book of Changes şTrad. PUGI jean-Pierre
+= .oS.     N     _SILVERBERG Robert           La Tombe du pontife Dvorn [Majipoor] ş2011 The Tomb of the Pontifex Dvorn şTrad. HOLSTEIN Eric
+= .oS.     N     _SILVERBERG Robert           L'Apprenti en sorcellerie [Majipoor] ş2004 The Sorcerer's Apprentice şTrad. DOLISI Florence
+= .oS.     N     _SILVERBERG Robert           Heures sombres au march‚ de minuit [Majipoor] ş2010 Dak Times at the Midnight Market şTrad. HOLSTEIN Eric
+= .oS.     N     _SILVERBERG Robert           De la maniŠre de tisser des sorts … Sippulgar [Majipoor] ş2009 The Way They Wove the Spells in Sippulgar şTrad. HOLSTEIN Eric
+o MNE_ICA     ?  2019.05 ..... ISBN 978-2-35408-731-9
+} noimg          _Atelier Octobre Rouge       ?
+- .oS.     R     _HELIOT Johan                La Conquˆte de la sphŠre [Grand siŠcle - 3] ş2019
+o MNE_ICA     ?  2019.05 ..... ISBN 978-2-35408-735-7
+} mnemosi218     _Qistina Khalidah            ?
+- .oY.     R2N5  _TANNER Rachel               Le Cycle de Mithra [L'Empreinte des dieux] ş2019
+: .o .     p     _NICOT St‚phanie             Pr‚face ş2019
+: .oY.     R     _TANNER Rachel               L'Empreinte des dieux [L'Empreinte des dieux - 1] ş2000
+: .oY.     R     _TANNER Rachel               Le Glaive de Mithra [L'Empreinte des dieux - 2] ş2002
+: .C .     C     _TANNER Rachel               Les SortilŠges de l'ombre [L'Empreinte des dieux] ş2019
+!--- Pr‚ambule : Histoire d'Hiram le malchanceux.
+: .o .     N     _TANNER Rachel               Histoire d'Hiram le malchanceux [L'Empreinte des dieux] ş2012
+!--- Pr‚ambule : Dardanus Philopater
+: .o .     N     _TANNER Rachel               Dardanus Philopater [L'Empreinte des dieux] ş2003
+!--- Pr‚ambule : Une vocation
+: .o .     N     _TANNER Rachel               Une vocation [L'Empreinte des dieux] ş2012
+!--- Pr‚ambule : Une journ‚e … la Mamertine
+: .o .     N     _TANNER Rachel               Une journ‚e … la Mamertime [L'Empreinte des dieux] ş2012
+!--- Pr‚ambule : In cauda venenum
+: .o .     N     _TANNER Rachel               In cauda venenum [L'Empreinte des dieux] ş2010
+o MNEMOS      ?  2019.06 ..... ISBN 978-2-35408-736-4
+} mnemosanth2019 _Rosinski                    ?
+!--- 304 pages - 19 euros
+- .oY.     A15   *NICOT St‚phanie             Natures - Anthologie des Imaginales 2019 ş2019
+: .C .     C     ****                         Nature sauvage ş2019
+: .o .     N     _BRY David                   Je suis forˆt ş2019
+: .o .     N     _STEWARD Ketty               Mal de mer ş2019
+!--- Dans l'univers de "Mers mortes" :
+: .o .     N     _WELLENSTEIN Aur‚lie         La mer monte ş2019
+: .o .     N     _PLATTEAU Stefan             Les Enfants d'Inanna ş2019
+: .o .     N     _BOUSQUET Charlotte          La LumiŠre de Malia [Shƒhra] ş2019
+: .C .     C     ****                         Nature humaine ş2019
+: .o .     N     _HOLZL Ariel                 La Travers‚e du d‚sert ş2019
+: .o .     N     _VAGNER Estelle              L'ƒme et le coeur ş2019
+: .o .     N     _DA ROSA Gr‚gory             Comme ‡a ş2019
+: .o .     N     _BELMAS Claire              &Seigneur de colŠre ş2019
+&                _BELMAS Robert               
+: .o .     N     _TESSIER Philippe            Qui se souvient des h“mlas ? ş2019
+: .o .     N     _DEL SOCORRO Jean-Laurent    Arm‚e d'un livre et d'un crayon ş2019
+: .C .     C     ****                         Ailleurs et demain ş2019
+: .o .     N     _HENRY Lo‹c                  Malaria ş2019
+: .o .     N     _MONDIOT Vincent             Par-del… les ruines ş2019
+!--- Dans l'univers des nuages de Magellans :
+: .o .     N     _FAYE Estelle                Jardins ş2019
+: .o .     a     _PRUVOST Jean                Epinaturellement ş2019
+o MNE_ICA     ?  2019.06 ..... ISBN 978-2-35408-723-4
+} mnemosi219     _?                           ?
+!--- ainsi que les nouvelles et poŠmes se rattachant au cycle
+- .oY.     R3Nx  _BOUSQUET Charlotte          L'Archipel des Numin‚es [L'Archipel des Numin‚es] ş2019
+: .o .     R     _BOUSQUET Charlotte          Arachnae [L'Archipel des Numin‚es - 1] ş2009
+: .o .     R     _BOUSQUET Charlotte          Cytheriae [L'Archipel des Numin‚es - 2] ş2010
+: .o .     R     _BOUSQUET Charlotte          Matricia [L'Archipel des Numin‚es - 3] ş2011
+o MNEMOS      ?  2019.09 ..... ISBN 978-2-35408-741-8
+} mnemosint40    _Pascal Blanch‚              ?
+- .oS.    kR3    _NIVEN Larry                 Espace connu [Known space] ş2019
+: .o .     R     _NIVEN Larry                 Le Monde des Ptavvs [Known space] ş1965-1966 World of Ptavvs şTrad. POLANIS Jacques + FOURNET Etienne
+: .oS.     R     _NIVEN Larry                 Protecteur [Known space] ş1973 Protector şTrad. LATOUR Robert
+: .oS.     R     _NIVEN Larry                 Un cadeau de la Terre [Known space] ş1968 A Gift from Earth şTrad. ROUGEMONT Guillaume de
+o MNE_ICA     ?  2019.08 ..... ISBN 978-2-35408-740-1
+} noimg          _Cindy Can‚vet               ?
+- .oY.     R     _CALVO Sabrina               D‚lius, une chanson d'‚t‚ [Bertrand Lacejambe - 1] ş1997
+o MNE_ICA     ?  2019.11 ..... ISBN 978-2-35408-728-9
+} noimg          _Picomodi                    ?
+- .oS.     R     _VONARBURG Elisabeth         Chroniques du pays des mŠres ş1992
+o MNE_ICA     ?  2019.11 ..... ISBN 978-2-35408-747-0
+} noimg          _Qistina Khalidah            ?
+- .oY.     R     _MONDIOT Vincent             L'Ombre des arches ş2019
+o MNEMOS      ?  2019.12 ..... ISBN 978-2-35408-749-4
+} noimg          _Diego Tripodi + Margaret Chodos-Irvine
+- .oS.     R     _LE GUIN Ursula K.           La Vall‚e de l'‚ternel retour ş1985 Always Coming Home şTrad. REINHAREZ Isabelle + BETAN Julien
+!------------------------
+!=== 2020
+!------------------------
+o MNE_ICA     ?  2020.01 ..... ISBN 978-2-35408-752-4
+} noimg          _Qistina Khalidah            ?
+- .oY.     R     _MORAN Patrick               Les Six Cauchemars [La Cr‚cerelle - 2] ş2020
+o MNEMOS      ?  2020.01 ..... ISBN 978-2-35408-753-5
+} mnemosint42    _(c)Arcangel                 ?
+- .oS.    kR15   _LEIBER Fritz                La Guerre uchronique - Int‚grale ş2020
+: .o .     N     _LEIBER Fritz                Quand soufflent les vents uchroniques [La Guerre des modifications] ş1964 When the Change-Winds Blow şTrad. RENARD Christine + REY Timoth‚e
+: .o .     R     _LEIBER Fritz                L'Hyper-Temps [La Guerre des modifications] ş1958 The Big Time şTrad. DENES Herv‚ + REY Timoth‚e
+: .o .     N     _LEIBER Fritz                Mouvements du cavalier [La Guerre des modifications] ş1965 Knight to Move şTrad. REY Timoth‚e
+: .o .     r     _LEIBER Fritz                Nul besoin de grande magie [La Guerre des modifications] ş1963 No Great Magic şTrad. HERSANT Denise + REY Timoth‚e
+: .o .     N     _LEIBER Fritz                Le Matin de la damnation [La Guerre des modifications] ş1959 Damnation Morning şTrad. CHEDAILLE Eric + REY Timoth‚e
+: .o .     N     _LEIBER Fritz                Essayez de changer le pass‚ [La Guerre des modifications] ş1958 Try and Change the Past şTrad. TOURNIER Christine + REY Timoth‚e
+: .o .     N     _LEIBER Fritz                Le Vieux Soldat [La Guerre des modifications] ş1960 The Oldest Soldier şTrad. LATHIERE Ren‚ + REY Timoth‚e
+: .o .     N     _LEIBER Fritz                Pavane pour des filles-fant“mes [La Guerre des modifications] ş1958 A Deskful of Girls şTrad. CHEDAILLE Eric + REY Timoth‚e
+: .o .     N     _LEIBER Fritz                Corridor noir [La Guerre des modifications] ş1967 Black Corridor şTrad. HERSANT Yves
+: .o .     N     _LEIBER Fritz                Dernier Zeppelin pour cet univers ş1975 Catch That Zeppelin! şTrad. LEDERER Michel + REY Timoth‚e
+: .oS.     N     _LEIBER Fritz                Les Mythes que mon arriŠre-petite-fille m'a cont‚s ş1963 Myths My Great-Granddaughter Taught Me şTrad. RENARD Christine + REY Timoth‚e
+: .oS.     N     _LEIBER Fritz                Les Tranch‚es de Mars ş1952 The Foxholes of Mars şTrad. BARLOW George W. + REY Timoth‚e
+: .oS.     N     _LEIBER Fritz                L'Araign‚e mentale [La Guerre des modifications] ş1959 The Mind Spider şTrad. REY Timoth‚e
+: .oS.     N     _LEIBER Fritz                Le Nombre de la bˆte [La Guerre des modifications] ş1958 The Number of the Beast şTrad. REY Timoth‚e
+: .oS.     N     _LEIBER Fritz                Lib‚rez le monstre en vous ! [La Guerre des modifications] ş1959 Tranquility, or Else! / The Haunted Future şTrad. REY Timoth‚e
+: .oS.     N     _LEIBER Fritz                Minuit dans le monde-miroir ş1964 Midnight in the Mirror World şTrad. CHEDAILLE Eric + REY Timoth‚e
+o MNE_ICA     ?  2020.02 ..... ISBN 978-2-35408-769-2
+} noimg          _Jeffrey Alan Loce           ?
+- .oY.     R     _BARDAS Rapha‰l              Les Chevaliers du tintamarre ş2020
+o MNE_ICA     ?  2020.05 ..... ISBN 978-2-35408-771-5
+} noimg          _Zdislaw Beksinski           ?
+- .oF.     N12   _LONG Frank Belknap          Les Chiens de Tindalos ş2020
+: .oF.     N     _LONG Frank Belknap          Les mangeuses venues de l'espace ş1928 The Space Eaters
+: .o .     N     _LONG Frank Belknap          Les Chiens de Tindalos ş1929 The Hounds of Tindalos şTrad. MALLET Patrick
+: .oF.     N     _LONG Frank Belknap          L'Horreur venue des collines ş1931 The Horror from the Hills şTrad. MALLET Patrick
+: .o .     N     _LONG Frank Belknap          L'Envahisseur des profondeurs ş1924 Death-waters şTrad. MALLET Patrick
+: .oF.     N     _LONG Frank Belknap          Les Mangeurs de cerveaux ş1932 The Brain-Eaters şTrad. MALLET Patrick
+: .oF.     N     _LONG Frank Belknap          Sombre ‚veil ş1980 Dark Awakening şTrad. MALLET Patrick
+: .oF.     N     _LONG Frank Belknap          Le Passage vers l'‚ternit‚ ş1984 Gateway to Forever şTrad. MALLET Patrick
+: .oF.     N     _LONG Frank Belknap          Necronomicon (fragment) ş1984 The Necronomicon, John Dee's Translation şTrad. MALLET Patrick
+: .oF.     P     _LONG Frank Belknap          Kinarth la glac‚e ş1930 On Icy Kinarth şTrad. MALLET Patrick
+: .oF.     P     _LONG Frank Belknap          Les Abominables Hommes des neiges ş1931 The Abominable Snow Men şTrad. MALLET Patrick
+: .oF.     P     _LONG Frank Belknap          Quand Chaugnar s'‚veillera ş1932 When Chaugnar Wakes şTrad. MALLET Patrick
+: .oF.     P     _LONG Frank Belknap          H. P. Lovecraft ş1938 H. P. Lovecraft şTrad. MALLET Patrick
+o MNE_ICA     ?  2020.05 ..... ISBN 978-2-35408-770-8
+} noimg          _Qistina Khalidah            ?
+- .oY.     R     _LATIL-NICOLAS Thibaud       Les Flots sombres ş2020
+o MNEMOS      ?  2020.05 ..... ISBN 978-2-35408-772-2
+} noimg          _(c)Shutterstock             ?
+- .oS.     R2N2  _HERBERT Frank               Le Bureau des sabotages - Int‚grale [Bureau des sabotages - 1/2] ş2020
+: .o .     R     _HERBERT Frank               L'toile et le fouet [Bureau des sabotages - 1] ş1970 Whipping Star şTrad. ABADIA Guy
+: .oS.     R     _HERBERT Frank               Dosadi [Bureau des sabotages - 2] ş1977 The Dosadi Experiment şTrad. ABADIA Guy
+: .oS.     N     _HERBERT Frank               La D‚licatesse du saboteur [Bureau des sabotages] ş1964 The Tactful Saboteur şTrad. ?
+: .oS.     N     _HERBERT Frank               Tracer son sillon [Bureau des sabotages] ş1958 A Matter of Traces şTrad. ?
+o MNE_ICA     ?  2020.06 ..... ISBN 978-2-35408-784-5
+} noimg          _Laure Wilmot                ?
+- .oY.     N6    _CERUTTI Fabien              Les Secrets du premier coffre ş2020
+: .oY.     N     _CERUTTI Fabien              L‚gende du premier monde ş2018-2020
+: .oY.     N     _CERUTTI Fabien              Ineffabilis Amor ş2020
+: .oY.     N     _CERUTTI Fabien              Le Cr‚puscule et l'aube ş2016-2020
+: .oY.     N     _CERUTTI Fabien              Fille-de-joute ş2020
+: .oY.     N     _CERUTTI Fabien              Le Livre des merveilles du Monde ş2020
+: .oY.     N     _CERUTTI Fabien              Les Jeux de la cour et du hasard ş2020
+o MNEMOS      ?  2020.07 ..... ISBN 978-2-35408-785-2
+} noimg          _Alain Brion                 ?
+!--- GF - 624 pages - 30 euros
+- .oY.    kR4    _GRIMBERT Pierre             Les Gardiens de Ji [Les Gardiens de Ji - 1/4][Le Secret de Ji] ş2020
+: .oY.     R     _GRIMBERT Pierre             La Volont‚ du d‚mon [Les Gardiens de Ji - 1][Le Secret de Ji] ş2008
+: .oY.     R     _GRIMBERT Pierre             Le Deuil ‚carlate [Les Gardiens de Ji - 2][Le Secret de Ji] ş2009
+: .oY.     R     _GRIMBERT Pierre             Le Souffle des a‹eux [Les Gardiens de Ji - 3][Le Secret de Ji] ş2010
+: .oY.     R     _GRIMBERT Pierre             Les V‚n‚rables [Les Gardiens de Ji - 4][Le Secret de Ji] ş2012
+o MNEMOS      ?  2020.08 ..... ISBN 978-2-35408-783-8
+} noimg          _Qistina Khalidah            ?
+- .oY.     R     _TOMAS Adrien                Les Hurleuses [Vaisseau d'arcane - 1] ş2020
+o MNEMOS      ?  2020.08 ..... ISBN 978-2-35408-791-3
+} noimg          _Wadim Kashin                ?
+- .oS.     R     _BERENVAL Olivier            Le Janissaire ş2020
+o MNEMOS      ?  2020.09 ..... ISBN 978-2-35408-800-2
+} noimg          _Scott Uminga                ?
+- .oS.     R4    _BLISH James                 Les Villes nomades - Edition int‚grale [Les Villes nomades - 1/4] ş2020
+: .oS.     U     _BLISH James                 Aux hommes les ‚toiles [Les Villes nomades - 1] ş1956 They Shall Have Stars / Year 2018! şTrad. CHRESTIEN Michel
+: .oS.     R     _BLISH James                 Villes nomades [Les Villes nomades - 2] ş1962 A Life for the Stars şTrad. DEUTSCH Michel
+: .oS.     U     _BLISH James                 La Terre est une id‚e [Les Villes nomades - 3] ş1955 Earthman, Come Home şTrad. DEUTSCH Michel
+: .oS.     R     _BLISH James                 Un coup de cymbales [Les Villes nomades - 4] ş1958 The Triumph of Time / A Clash of Cymbals şTrad. DEUTSCH Michel
+o MNEMOS      ?  2020.09 ..... ISBN 978-2-35408-794-4
+} noimg          _Wadim Kashin                ?
+- .oS.     R     _BASSETERRE Luce             Le Chant des Fenjicks ş2020
+o MNEMOS      ?  2020.10 ..... ISBN 978-2-35408-790-6
+} noimg          _M‚lanie Delon               ?
+- .oY.     R     _BOUSQUET Charlotte          Les Voiles d'Azara [Shƒhra - 2] ş2020
+o MNEMOS      ?  2020.10 ..... ISBN 978-2-35408-802-6
+} noimg          _Scott Uminga                ?
+- .oS.     R     _CANAL Richard               Upside Down ş2020
+o MNEMOS      ?  2020.11 ..... ISBN 978-2-35408-797-5
+} noimg          _Cindy Canevet               ?
+- .oY.     R     _CALVO Sabrina               La Nuit des labyrinthes [Bertrand Lacejambe - 2] ş2004
+
+
+!-----------------------------------------------------------------------------
+!--- 5 collections poches :
+!--- Directeur de collections : St‚phane Marsan jusqu'en 02/2000
+!---                          : C‚lia Chazel depuis
+!-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+!--- Ourobores
+!-----------------------------------------------------------------------------
+o MNE_OUR     ?  2010.11 ..... ISBN 978-2-35408-063-1
+} noimg          _?                           ?
+- .oF.     G     *GRANIER DE CASSAGNAC R.     Abyme - Le guide de la cit‚ des ombres [Les Royaumes cr‚pusculaires] ş2010
+?: .oF.     N     _ALGAYRES Muriel             ? ş?
+?: .oF.     N     _BARDAS Rapha‰l              ? ş?
+?: .oF.     N     _BESSON Nathalie             ? ş?
+o MNE_OUR     ?  2010.11 ..... ISBN 978-2-35408-096-9
+} mnemoso01      _Nicolas Fructus             ?
++ MNE_OUR     ?  2016.xx ..... ISBN 978-2-35408-528-5
+} mnemoso01rr16  _Nicolas Fructus             Nicolas Fructus
+- .oF.     EN4   _CAMUS David                &Kadath - Le Guide de la cit‚ inconnue ş2010
+&                _FAZI M‚lanie               &
+&                _GRANIER DE CASSAGNAC R.    &
+&                _POUJOIS Laurent             
+: .o .     N     _CAMUS David                 L'In‚dit de Carter ş2010
+: .o .     N     _FAZI M‚lanie                L'vangile selon Ali‚nor ş2010
+: .o .     N     _GRANIER DE CASSAGNAC R.     Le T‚moignage de l'Innom‚ ş2010
+: .o .     N     _POUJOIS Laurent             Le Kitab du Saigneur ş2010
+o MNE_OUR     ?  2012.04 ..... ISBN 978-2-35408-130-0
+} mnemoso03      _Diego Tripodi               CHODOS-IRVINE Margaret
+- .oS.     R     _LE GUIN Ursula K.           La Vall‚e de l'‚ternel retour ş1985 Always Coming Home şTrad. REINHAREZ Isabelle
+o MNE_OUR     ?  2012.11 ..... ISBN 978-2-35408-242-0
+}mnemosohs2012-3 _Kerem Beyit                 ?
+!--- Sign‚ Comte d'Erlette
+- .oF.     R     _TECHENET Antoine            Le Culte des Goules ş2012
+o MNE_OUR     ?  2013.xx ..... ISBN 978-2-35408-240-6
+} mnemoso05      _Lionel Richerand            Lionel RicheranD
+- .oF.     R     _JAULIN R‚gis Antoine        Le Dit de Sargas ş2012
+o MNE_OUR     ?  2013.xx ..... ISBN 978-2-35408-153-9
+} mnemoso06      _Nicolas Fructus             Nicolas Fructus
+!--- Roman graphique
+- .oF.     R     _ALBERT Rapha‰l             &Un an dans les airs - Voyage extraordinaire dans la cit‚ volante ş2013
+&                _DEBATS Jeanne-A            &
+&                _GRANIER DE CASSAGNAC R.    &
+&                _HELIOT Johan                
+o MNE_OUR     ?  2013.10 ..... ISBN 978-2-35408-166-9
+} mnemoso06      _Jean Bey                    Franck Achard & Jean Bey
+- .oY.     E     _PERIER Isabelle            &Les V‚lins Carminae ş2013
+&                _WEIL Fr‚d‚ric               
+o MNE_OUR     ?  2013.10 ..... ISBN 978-2-35408-167-6
+} mnemoso07      _Aur‚lien Police             ?
+- .oS.     G     *NOIREZ J‚r“me               Europole - Guide de r‚sistance dans la titanopole r‚trofuturiste ş2013
+o MNE_OUR     ?  2013.11 ..... ISBN 978-2-35408-164-5
+} mnemoso08      _Douglas Wayne Barlowe       ?
+- .oS.     G     *BARLOWE Wayne               Exp‚dition ş2013
+o MNE_OUR     ?  2014.11 ..... ISBN 978-2-35408-282-6
+} mnemoso09      _H‚lŠne Larbaigt             ?
+!--- Pr‚face Claudine Glot
+!--- Postface Pierre Dubois
+- .oF.     C12   _LARBAIGT H‚lŠne             L'‚trange Cabaret ...des f‚es d‚senchant‚es ş2014
+o MNE_OUR     ?  2015.09 ..... ISBN 978-2-35408-331-1
+} noimg          _?                           ?
+- .oS.     R     _BARILLIER Etienne          &La France steampunk ş2015
+&                _MORGAN Arthur               
+o MNE_OUR     ?  2015.11 ..... ISBN 978-2-35408-321-2
+} mnemoso10      _Nicolas Fructus             ?
+- .oF.    iN4    ****                         Jadis - Carnets et souvenirs picaresques de la ville infinie ş2015
+?: .o .     N     _BOUSQUET Charlotte          ? ş2015
+?: .o .     N     _GABORIT Mathieu             ? ş2015
+?: .o .     N     _JAULIN R‚gis Antoine        ? ş2015
+?: .o .     N     _GRANIER DE CASSAGNAC R.     ? ş2015
+o MNE_OUR     ?  2016.05 ..... ISBN 978-2-35408-353-3
+} noimg          _Julien Delval               ?
+- .oS.     R     _GABORIT Mathieu            &La Confr‚rie des bossus [Les Royaumes cr‚pusculaires] ş2016
+&                _GRANIER DE CASSAGNAC R.      
+o MNE_OUR     ?  2017.10 ..... ISBN 978-2-35408-516-2
+} noimg          _Oliver Enselme-Trichard     Oliver Enselme-Trichard
+- .oY.     R     _ENSELME-TRICHARD Olivier    Le Nordique - Chroniques retrouv‚es du dernier convoi ş2017
+o MNE_OUR     ?  2017.12 ..... ISBN 978-2-35408-321-2
+} mnemoso10      _Dogan Oztel                 Dogan Oztel
+- .oF.     G     _ALBERT Rapha‰l             &Tscha‹ - Retour sur la planŠte de l'aventure [Tscha‹] ş2017
+&                _DEBATS Jeanne-A            &
+&                _BARILLIER Etienne          &
+&                _TOMAS Adrien                
+o MNE_OUR     ?  2019.11 ..... ISBN 978-2-35408-751-7
+} noimg          _Dogan Oztel                 Dogan Oztel
+- .oY.     R     _TOMAS Adrien                Les Six Royaumes - R‚cit illustr‚ [Les Six Royaumes] ş2019
+
+
+
+o MNEM_MU     ?  2020.05 ..... ISBN 978-2-35408-775-3
+} noimg          _K‚vin Deneufchatel          ?
+- .oF.     R     _ROCH Michael                Le Livre Jaune ş2019
+o MNEM_MU     ?  2020.05 ..... ISBN 978-2-35408-808-8
+} noimg          _K‚vin Deneufchatel          ?
+- .oF.     R     _BRAULT Emmanuel             Walter Kurtz ‚tait … pied ş2020
+o MNEM_MU     ?  2020.08 ..... ISBN 978-2-35408-782-1
+} noimg          _K‚vin Deneufchatel          ?
+- .oF.     R     _CARTELET Nicolas            Petit Blanc ş2017
+o MNEM_MU     ?  2020.10 ..... ISBN 978-2-35408-787-6
+} noimg          _K‚vin Deneufchatel          ?
+- .oF.     R     _LEAUTE Pierre               Je n'aime pas les grands ş2020

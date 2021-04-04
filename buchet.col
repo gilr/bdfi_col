@@ -1,0 +1,252 @@
+!-----------------------------------------------------------------------------
+!--- Buchet Chastel
+!-----------------------------------------------------------------------------
+_ BUCH    Ed. Buchet-Chastel
+_ BUCH_FY Ed. Buchet-Chastel, Coll. Fantasy
+!-----------------------------------------------------------------------------
+!DEB_HEAD BUCHCHA
+!-----------------------------------------------------------------------------
+!TIT_COLL Buchet/Chastel
+!-----------------------------------------------------------------------------
+!--- Buchet/Chastel, hors collection
+!-----------------------------------------------------------------------------
+!FIN_HEAD BUCHCHA
+
+!DEB_HEAD BUCH_FY
+!-----------------------------------------------------------------------------
+!TIT_COLL Buchet/Chastel, fantasy
+!-----------------------------------------------------------------------------
+!--- Buchet/Chastel, collection fantasy (1997-2003)
+!---
+!--- Sur une p‚riode de six ans, 24 ouvrages broch‚s grand format, de fantasy … tendance majoritairement celtique, et
+!--. dot‚ d'une couverture illustr‚e en couleur (Jean-No‰l Rochut, Rodney Matthews, Cathy MacLean, Bruno David...).
+!--. Le format ‚volue en 2000, les ouvrages gagnant quelques centimŠtres.
+!---
+!--- Directeur de collection : Pierre Zech
+!--- Format : 20,5 x 14 cm puis 24 x 16 cm
+!-----------------------------------------------------------------------------
+!FIN_HEAD BUCH_FY
+
+!DEB_COLL BUCH_FY
+!DEB_COLL BUCHCHA
+!------------------------
+!=== 1964
+!------------------------
+o BUCH        ?  1964.xx ..... ISBN -
+} noimg          _?                           ?
+!--- BNF Format 19 cm, 256 pages
+!--- Avec Serge Gouchtchev d'aprŠs BNF
+- .o .     R     _VASSILIEV Mikhail           La Vie au XXIŠme SiŠcle þ1964 ? þTrad. NEUBOURG C. de
+!------------------------
+!=== 1982
+!------------------------
+o BUCH        ?  1982.xx ..... ISBN -
+} noimg          _?                           ?
+!--- BNF Format 21 cm, 298 pages
+- .oS.     R     _COPPEL Alfred               Hastings, le complot þ1980 The Hastings Conspiracy þTrad. LEMOINE Daniel
+!------------------------
+!=== 1992
+!------------------------
+o BUCH        ?  1992.xx ..... ISBN  2-7020-1555-7
+} noimg          _?                           ?
+!--- BNF Format 21 cm, 319 pages
+- .oYM     R     _GESLIN Colette              Les Feux de Beltaine þ1992
+!------------------------
+!=== 1997
+!------------------------
+o BUCH_FY     ?  1997.08 ..... ISBN 2-283-01715-7
+} bcf01          _Geoff Taylor                ?
+!--- BNF 509 pages
+!--- Format 20,5 x 14 cm, contient une carte
+- .oY.     R     _LAWHEAD Stephen             Taliesin [Cycle de Pendragon - 1] þ1987 Taliesin þTrad. CARISSIMO Luc
+o BUCH_FY     ?  1997.08 ..... ISBN 2-283-01716-5
+} bcf02          _Tim White                   ?
+!--- BNF 465 pages
+!--- Format 20,5 x 14 cm, contient une carte
+- .oY.     R     _LAWHEAD Stephen             Merlin [Cycle de Pendragon - 2] þ1988 Merlin þTrad. CARISSIMO Luc
+o BUCH_FY     ?  1997.06 ..... ISBN 2-283-01735-1
+} bcf03          _Michael Embden              ?
+!--- BNF 492 pages
+!--- Format 20,5 x 14 cm, contient une carte
+- .oY.     R     _LAWHEAD Stephen             Arthur [Cycle de Pendragon - 3] þ1989 Arthur þTrad. CARISSIMO Luc
+o BUCH_FY     ?  1997.xx ..... ISBN 2-283-01738-6
+} bcf04          _Rodney Matthews             ?
+!--- BNF Format 21 cm, 428 pages
+- .oY.     R     _LAWHEAD Stephen             La Guerre du paradis [Le Chant d'Albion - 1] þ1991 The Paradise War þTrad. LOISEL Thierry
+o BUCH_FY     ?  1997.xx ..... ISBN 2-283-01739-4
+} bcf06          _Rodney Matthews             ?
+!--- BNF Format 21 cm, 413 pages
+- .oY.     R     _LAWHEAD Stephen             La Main d'argent [Le Chant d'Albion - 2] þ1992 The Silver Hand þTrad. LOISEL Thierry
+!------------------------
+!=== 1998
+!------------------------
+o BUCH_FY     ?  1998.xx ..... ISBN 2-283-01737-8
+} bcf05          _Don Maitz                   ?
+!--- BNF Format 21 cm, 383 pages
+- .oY.     R     _LAWHEAD Stephen             Pendragon [Cycle de Pendragon - 4] þ1994 Pendragon þTrad. CARISSIMO Luc
+o BUCH_FY     ?  1998.xx ..... ISBN 2-283-01750-5
+} bcf07          _Rodney Matthews             ?
+!--- BNF Format 21 cm, 445 pages
+- .oY.     R     _LAWHEAD Stephen             Le Noeud sans fin [Le Chant d'Albion - 3] þ1993 The Endless Knot þTrad. LOISEL Thierry
+!------------------------
+!=== 1999
+!------------------------
+o BUCH_FY     ?  1999.xx ..... ISBN 2-283-01785-8
+} bcf08          _Jean-No‰l Rochut            ?
+>--- Note : le titre en couverture est "Le Chƒteau du roi dragon".
+!--- BNF Format 21 cm, 357 pages
+- .oY.     R     _LAWHEAD Stephen             Dans le chƒteau du roi dragon [Le Roi dragon - 1] þ1982 In the Hall of the Dragon King þTrad. SAINT-AMAND Marianne
+o BUCH_FY     ?  1999.xx ..... ISBN 2-283-01786-6
+} bcf09          _Jean-No‰l Rochut            ?
+!--- BNF Format 21 cm, 386 pages
+- .oY.     R     _LAWHEAD Stephen             Les Seigneurs de guerre de Nin [Le Roi dragon - 2] þ1983 The Warlords of Nin þTrad. SAINT-AMAND Marianne
+o BUCH_FY     ?  1999.xx ..... ISBN 2-283-01782-3
+} bcf10          _Corinne Gosset              ?
+!--- BNF Format 21 cm, 381 pages
+- .oY.     R     _LAWHEAD Stephen             Le Graal [Cycle de Pendragon - 5] þ1997 Grail þTrad. CARISSIMO Luc
+!------------------------
+!=== 2000
+!------------------------
+o BUCH_FY     ?  2000.xx ..... ISBN 2-283-01787-4
+} bcf11          _Jean-No‰l Rochut            ?
+!--- BNF Format 21 cm, 330 pages
+- .oY.     R     _LAWHEAD Stephen             Le Glaive et la Flamme [Le Roi dragon - 3] þ1984 The Sword and the Flame þTrad. SAINT-AMAND Marianne
+o BUCH_FY     ?  2000.xx ..... ISBN 2-283-01825-0
+} bcf12          _Jean-No‰l Rochut            ?
+!--- BNF Format 24 cm, 478 pages
+- .oY.     R     _LAWHEAD Stephen             La Lance de fer [Les Croisades celtiques - 1] þ1998 The Iron Lance þTrad. LAYMERIE Isabelle
+!------------------------
+!=== 2001
+!------------------------
+o BUCH_FY     ?  2001.xx ..... ISBN 2-283-01840-4
+} bcf13          _Chris Moore                 ?
+!--- BNF Format 24 cm, 586 pages
+- .oY.     R     _ERIKSON Steven              Les Jardins de la Lune [Le Livre malaz‚en des Glorieux D‚funts - 1] þ1999 Gardens of the Moon þTrad. GAMBERINI Chistine
+o BUCH_FY     ?  2001.xx ..... ISBN 2-283-01843-9
+} bcf14          _Cathy MacLean               ?
+!--- BNF Format 24 cm, 426 pages
+- .oY.     R     _KAY Guy Gavriel             Le Chemin de Sarance [La Mosa‹que sarantine - 1] þ1998 Sailing to Sarantium þTrad. VONARBURG Elisabeth
+o BUCH_FY     ?  2001.xx ..... ISBN 2-283-01852-8
+} bcf15          _Cathy MacLean               ?
+!--- BNF Format 24 cm, 500 pages
+- .oY.     R     _KAY Guy Gavriel             Le Seigneur des empereurs [La Mosa‹que sarantine - 2] þ2000 Lord of Emperors þTrad. VONARBURG Elisabeth
+o BUCH_FY     ?  2001.xx ..... ISBN 2-283-01841-2
+} bcf16          _Jean-No‰l Rochut            ?
+!--- BNF Format 24 cm, 404 pages
+- .oY.     R     _LAWHEAD Stephen             Avalon - Le Retour du roi Arthur þ1999 Avalon: The Return of King Arthur þTrad. LESSEPS EmmanuŠle de
+o BUCH_FY     ?  2001.xx ..... ISBN 2-283-01839-0
+} bcf17          _Jean-No‰l Rochut            ?
+!--- BNF Format 24 cm, 423 pages
+- .oY.     R     _McREYNOLDS Glenna           La Coupe et l'‚p‚e [La Coupe et l'‚p‚e - 1] þ1997 The Chalice and the Blade þTrad. CARISSIMO Luc
+o BUCH_FY     ?  2001.xx ..... ISBN 2-283-01869-2
+} bcf18          _Jean-No‰l Rochut            ?
+!--- BNF Format 24 cm, 441 pages
+- .oY.     R     _LAWHEAD Stephen             Le Voleur de rˆves þ1983 Dream Thief þTrad. HOWE Anne
+o BUCH        ?  2001.xx ..... ISBN 2-283-01857-9
+} noimg          _?                           ?
+!--- BNF Format 21 cm, 116 pages
+- .oF.    _N6    _LUEZIOR Claude              Venise et autres contes fantastiques þ2001
+: .o .     N     _LUEZIOR Claude              Venise þ2001
+: .o .     N     _LUEZIOR Claude              Interconnect þ2001
+: .o .     N     _LUEZIOR Claude              Granules þ2001
+: .o .     N     _LUEZIOR Claude              Ca n'allait pas si mal þ2001
+: .o .     N     _LUEZIOR Claude              A vendre þ2001
+: .o .     N     _LUEZIOR Claude              Trente grammes d'amour þ2001
+!------------------------
+!=== 2002
+!------------------------
+o BUCH_FY     ?  2002.05 ..... ISBN 2-283-01882-X
+} bcf19          _Jean-No‰l Rochut            ?
+!--- BNF 556 pages
+!--- Format 16 x 24 cm, contient une 1 carte
+!--- DL 05-2002, AI 04-2002
+- .oY.     R     _RADFORD Irene               Wren [Les Descendants de Merlin - 1] þ1999 Guardian of the Balance þTrad. SAINT-AMAND Marianne
+o BUCH_FY     ?  2002.xx ..... ISBN 2-283-01886-2
+} bcf20          _Bruno David                 ?
+!--- BNF Format 24 cm, 397 pages
+- .oY.     R     _McREYNOLDS Glenna           La Pierre de songe [La Coupe et l'‚p‚e - 2] þ1998 Dream Stone þTrad. LESSEPS EmmanuŠle de
+o BUCH_FY     ?  2002.xx ..... ISBN 2-283-01887-0
+} bcf21          _Jean-No‰l Rochut            ?
+!--- BNF 454 pages
+!--- Format 16 x 24 cm, contient 2 cartes
+- .oY.     R     _LAWHEAD Stephen             Le Bois noir [Les Croisades celtiques - 2] þ2000 The Black Rood þTrad. BLANC Marie
+!------------------------
+!=== 2003
+!------------------------
+o BUCH_FY     ?  2003.01 ..... ISBN 2-283-01883-8
+} bcf22          _Jean-No‰l Rochut            ?
+!--- BNF 491 pages
+!--- Format 16 x 24 cm, contient une carte (id. Wren)
+!--- DL 01-2003, AI 12-2002
+- .oY.     R     _RADFORD Irene               Resmiranda [Les Descendants de Merlin - 2] þ2000 Guardian of the Trust þTrad. SAINT-AMAND Marianne
+o BUCH_FY     ?  2003.10 ..... ISBN 2-283-01890-0
+} bcf23          _Bruno David                 ?
+!--- Format 16 x 24 cm, contient 2 cartes
+!--- BNF 442 pages
+!--- DL 10-2003 AI 09-2003
+- .oY.     R     _LAWHEAD Stephen             La Rose mystique [Les Croisades celtiques - 3] þ2001 The Mystic Rose þTrad. BLANC Marie
+!------------------------
+!=== 2004
+!------------------------
+o BUCH_FY     ?  2004.01 ..... ISBN 2-283-01897-8
+} bcf24          _Bruno David                 ?
+!--- BNF Format 24 cm, 570 pages
+- .oY.     R     _RADFORD Irene               Griffin [Les Descendants de Merlin - 2] þ2001 Guardian of the Vision þTrad. HOWE Anne
+!------------------------
+!=== 2010
+!------------------------
+o BUCH        ?  2010.04 ..... ISBN 978-2-283-02438-6
+} noimg          _?                           ?
+!--- BNF Format 23 cm, 730 pages
+- .oY.     R     _BONNEFOY Jean-Pierre        Les MystŠres du temps [Polynesia - 1] þ2005-2010
+o BUCH        ?  2010.06 ..... ISBN 978-2-2830-2441-6
+} noimg          _?                           ?
+!--- BNF Format 23 cm, 621 pages
+- .oS.     R     _BONNEFOY Jean-Pierre        L'Invasion des formes [Polynesia - 2] þ2010
+o BUCH        ?  2010.10 ..... ISBN 978-2-2830-2442-3
+} noimg          _Bertrand Gardel & Tony Hallas
+!--- BNF Format 23 cm, 683 pages
+- .oS.     R     _BONNEFOY Jean-Pierre        Le Pouvoir des signes [Polynesia - 3] þ2010
+
+!FIN_COLL BUCH_FY
+!FIN_COLL BUCHCHA
+
+!------------------------
+!=== 2016
+!------------------------
+o BUCH        ?  2016.02 ..... ISBN 978-2-283-02933-6
+} noimg          _?                           ?
+- .oS.     R     _ERRE J. M.                  Le Grand N'importe quoi þ2016
+!------------------------
+!=== 2018
+!------------------------
+o BUCH        ?  2018.05 ..... ISBN 978-2-283-03029-5
+} noimg          _Coline de Graaf             ?
+- .oFK    kN8    _COLANZI Liliana             Notre monde mort þ2017 Nuestro mundo muerto þTrad. BARBARA Juliette
+: .o .  13 N     _COLANZI Liliana             L'Oeil þ2017 El Ojo
+: .o .  21 N     _COLANZI Liliana             Alfredito þ2017 Alfredito
+: .o .  33 N     _COLANZI Liliana             La Vague þ2017 La Ola
+: .o .  51 N     _COLANZI Liliana             M‚t‚orite þ2017 Meteorito
+: .o .  67 N     _COLANZI Liliana             Cannibale þ2017 Can¡bal
+: .o .  79 N     _COLANZI Liliana             Chaco þ2017 Chaco
+: .o .  91 N     _COLANZI Liliana             Notre monde mort þ2017 Nuestro mundo muerto
+: .o . 103 N     _COLANZI Liliana             Conte avec oiseau þ2017 Cuento con p jaro
+!------------------------
+!=== 2019
+!------------------------
+o BUCH        ?  2019.01 ..... ISBN 978-2-283-03119-3
+} noimg          _?                           ?
+!--- 11,5 x 19,0 cm - 336 pages - 18,00 euros
+- .oS.     R     _AUROUSSEAU Nan              Les Amoch‚s þ2019
+o BUCH        ?  2019.02 ..... ISBN 978-2-283-03204-6
+} noimg          _?                           ?
+- .oS.     R     _NAEJ Gabriel                Ca matin, maman a ‚t‚ t‚l‚charg‚e þ2019
+!------------------------
+!=== 2020
+!------------------------
+o BUCH        ?  2020.01 ..... ISBN 978-2-283-03325-8
+} noimg          _?                           ?
+!--- 14 x 18 cm - 288 pages - 18,00 euros
+- .oS.     R     _RYCHNER Antoinette          AprŠs le monde þ2020
+
+

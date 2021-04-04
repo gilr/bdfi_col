@@ -1,0 +1,973 @@
+!-----------------------------------------------------------------------------
+!---
+!---                            MALPERTUIS
+!---
+!-----------------------------------------------------------------------------
+!--- Publication initialement chez Lulu - D‚tach‚s de Lulu fin 2008
+!-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+_ MALP_AB Ed. Malpertuis, Coll. Absinthes, ‚thers, opiums
+!--- Directeur : Christophe Thill
+!-----------------------------------------------------------------------------
+o MALP_AB     1i 2007.07 ..... ISBN 978-2-917035-00-9
+} malpertuis01   _?                           ?
++ MALP_AB     1  2009.03 ..... ISBN 978-2-917035-05-4
+} malpertuis01rr09 _?                           ?
+- .oF.    kN10   _CHAMBERS Robert W.          Le Roi en jaune ş1895 The King in Yellow şTrad. THILL Christophe
+!--- Pr‚face
+!--- Biographie de l'auteur
+: .oF.     N     _CHAMBERS Robert W.          Le Restaurateur de r‚putation ş1895 The Repairer of Reputations şTrad. THILL Christophe
+: .oF.     N     _CHAMBERS Robert W.          Le Masque ş1895 The Mask şTrad. THILL Christophe
+: .oF.     N     _CHAMBERS Robert W.          Le Signe jaune ş1895 The Yellow Sign şTrad. THILL Christophe
+: .oF.     N     _CHAMBERS Robert W.          La Cour du dragon ş1895 In the Court of the Dragon şTrad. THILL Christophe
+: .oF.     N     _CHAMBERS Robert W.          La Demoiselle d'Ys ş1895 The Demoiselle D'Ys şTrad. THILL Christophe
+: .oF.     N     _CHAMBERS Robert W.          Le Paradis du prophŠte ş1895 The Prophet's Paradise şTrad. THILL Christophe
+: .oF.     N     _CHAMBERS Robert W.          La Rue des Quatre-Vents ş1895 The Street of the Four Winds şTrad. THILL Christophe
+: .oF.     N     _CHAMBERS Robert W.          La Rue du premier obus ş1895 The Street of the First Shell şTrad. THILL Christophe
+: .oF.     N     _CHAMBERS Robert W.          La Rue Notre-Dame des Champs ş1895 The Street of Our Lady of the Fields şTrad. THILL Christophe
+: .oF.     N     _CHAMBERS Robert W.          Rue barr‚e ş1895 Rue Barr‚e şTrad. THILL Christophe
+!--- Critiques d'‚poque
+!--- Etudes sur les origines du livre
+!--- Bibliographie
+o MALP_AB     7  2009.05 ..... ISBN 978-2-917035-08-5
+} malpertuis07   _?                           ?
+- .oF.    _r2    _TARVEL Brice                Les Dossiers secrets de Harry Dickson - Tome 1 [Harry Dickson] ş2009
+!--- Pr‚face de Richard D. Nolane
+: .oF.     r     _TARVEL Brice                La Main mal‚fique [Harry Dickson] ş2009
+: .oF.     r     _TARVEL Brice                L'H‚ritage de Cagliostro [Harry Dickson] ş2009
+o MALP_AB     9  2009.12 ..... ISBN 978-2-917035-13-9
+} malpertuis009  _?                           ?
+- .oFJ     N12   _SORRE J‚r“me               &Le Ch‚risseur de tˆtes et autres pacotilles pour le club DiogŠne (1871-1877) [Le Club DiogŠne] ş2009
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Attention : traquenard [Le Club DiogŠne] ş2009
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Une amie commune [Le Club DiogŠne] ş2007-2009
+&                _MOURET St‚phane             
+: .oF.     r     _SORRE J‚r“me               &Chef d'oeuvre [Le Club DiogŠne] ş2002-2009
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Ca pour une... [Le Club DiogŠne] ş2009
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Stupre [Le Club DiogŠne] ş2009
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Pour vierges avertis [Le Club DiogŠne] ş2009
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &La Folle ‚tude du docteur Seyeux [Le Club DiogŠne] ş2009
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Un p‚ch‚ presque de chair [Le Club DiogŠne] ş2006-2009
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Les Passions confess‚es [Le Club DiogŠne] ş2006-2009
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Absences [Le Club DiogŠne] ş2009
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Le Sorcier de TolŠde [Le Club DiogŠne] ş2008-2009
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Puzzle [Le Club DiogŠne] ş2009
+&                _MOURET St‚phane             
+o MALP_AB    10  2010.12 ..... ISBN 978-2-917035-14-6
+} malpertuis10   _FERNANDEZ Fabien & TREVE Nicolas     ?
+- .oF.     U16   _BALLY Nico                  L'Oeil clos ş2010
+!--- Construit autour du recueil "Avertissement … qui voudra m'aimer"
+o MALP_AB    11  2010.11 ..... ISBN 978-2-917035-15-3
+} malpertuis12   _ALVES Christophe            ?
+- .oF.    _r2    _TARVEL Brice                Les Dossiers secrets de Harry Dickson - Tome 2 [Harry Dickson] ş2010
+: .oF.     r     _TARVEL Brice                La Confr‚rie des hommes griffus [Harry Dickson] ş2010
+: .oF.     r     _TARVEL Brice                La Maison du pluvier [Harry Dickson] ş2010
+o MALP_AB    13  2010.12 ..... ISBN 978-2-917035-17-7
+} malpertuis013  _Patrick Mallet              ?
+- .oF.     N15   _SORRE J‚r“me               &La mort et quelques amis s'invitent chez le club DiogŠne (1878-1885) [Le Club DiogŠne] ş2010
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Universellement v“tre [Le Club DiogŠne] ş2010
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &A l'ombre des mouches [Le Club DiogŠne] ş2010
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &D'une rue … l'autre [Le Club DiogŠne] ş2010
+&                _MOURET St‚phane             
+En avance
+: .oF.     N     _SORRE J‚r“me               &Le Trafiquant d'‚ternit‚ [Le Club DiogŠne] ş2010
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &De l'absinthe et autres remŠdes contre l'ennui ş2010
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &La F‚e des champs ş2010
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &En eaux troubles ş2010
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Une histoire de filles ş2010
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Par le soupirail ş2010
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Une fournaise de singe ş2010
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Le Galeux ş2010
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Blanc Sale ş2010
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Nos a‹eux ! ş2010
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Telle Oph‚lie ş2010
+&                _MOURET St‚phane             
+o MALP_AB     ?  2012.02 ..... ISBN 978-2-917035-24-5
+} malpertuis19   _ALVES Chrisyophe            ?
+- .oF.    kr2    _TARVEL Brice                Les Dossiers secrets de Harry Dickson - Tome 3 [Harry Dickson] ş2012
+: .oY.     r     _TARVEL Brice                Le Gouffre des ombres [Harry Dickson] ş2012
+: .oY.     r     _TARVEL Brice                Le Jardin des mandragores [Harry Dickson] ş2012
+o MALP_AB     ?  2012.02 ..... ISBN 978-2-917035-23-8
+} noimg          _Philippe Jozelon            ?
+- .oY.     R     _MERCHADOU Fr‚d‚ric          Ange maudit ş2012
+o MALP_AB    22  2012.11 ..... ISBN 978-2-917035-26-9
+} malpertuis22   _POLICE Aur‚lien             ?
+- .oF.     C10   _MANTESE Laurent             Le Comptoir des ‚pouvantes ş2012
+: .oF.     N     _MANTESE Laurent             N'entrez pas ş2012
+: .oF.     N     _MANTESE Laurent             L'Abominable Aventure de monsieur Van Der Kamp ş2012
+: .oF.     N     _MANTESE Laurent             Le Joyau rouge de la PiletiŠre ş2012
+: .oF.     N     _MANTESE Laurent             L'Appariteur de charognes ş2012
+: .oF.     N     _MANTESE Laurent             Le MystŠre de la c“te qui descend ş2012
+: .oF.     N     _MANTESE Laurent             La Macabre d‚couverte de Sainte-Colombe-sur-l'Hers ş2012
+: .oF.     N     _MANTESE Laurent             Le D‚mon de la passe d'Holzarte ş2012
+: .oF.     N     _MANTESE Laurent             Regis Mortis ş2012
+: .oF.     N     _MANTESE Laurent             La Bestia ş2012
+: .oF.     N     _MANTESE Laurent             La Morte de Paulhan ş2012
+: .oF.     N     _MANTESE Laurent             Epilogue ş2012
+o MALP_AB    23  2012.12 ..... ISBN 978-2-917035-27-6
+} malpertuis23   _MALLET Patrick              ?
+- .oFJ     N12   _SORRE J‚r“me               &Cauchemars sur le club DiogŠne (1886-1889) [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &La ChaŒne [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Le Pr‚tendant [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &La Porte noire [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Une mauvaise aventure [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Fant“mes [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Le Navire [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Tout le monde descend [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &La DerniŠre Muse [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Cadavres en fleurs [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &La Face cach‚e [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Le Livre de Krehen [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &La Danse du diable [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Hyst‚rie [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Moisissure [Le Club DiogŠne] ş2012
+&                _MOURET St‚phane             
+o MALP_AB    26  2013.12 ..... ISBN 978-2-917035-30-6
+} malpertuis26   _Philippe Jozelon            ?
+- .oS.     R     _BALLY Nico                  Taupe ş2013
+o MALP_AB    30  2014.06 ..... ISBN 978-2-917035-34-4
+} malpertuis30   _Tim Chiesa                  ?
+- .oF.    kN17   _MALOSSE Pascal              Contes de l'entre-deux ş2014
+: .o .     N     _MALOSSE Pascal              Le R‚veil ş2014
+: .o .     N     _MALOSSE Pascal              L'glise de Konrad ş2014
+: .o .     N     _MALOSSE Pascal              La Fabrique ş2014
+: .o .     N     _MALOSSE Pascal              Droit dans la brume ş2014
+: .o .     N     _MALOSSE Pascal              Les Yeux noirs ş2014
+: .o .     N     _MALOSSE Pascal              Bain de cendres ş2014
+: .o .     N     _MALOSSE Pascal              Jeu d'enfant ş2014
+: .o .     N     _MALOSSE Pascal              L'Homme qui avait toujours raison ş2014
+: .o .     N     _MALOSSE Pascal              Clandestine ş2014
+: .o .     N     _MALOSSE Pascal              Filature par une nuit d'‚t‚ ş2014
+: .o .     N     _MALOSSE Pascal              Le Fleuve oubli‚ ş2014
+: .o .     N     _MALOSSE Pascal              Le Casino des ƒmes ş2014
+: .o .     N     _MALOSSE Pascal              Gare centrale ş2014
+: .o .     N     _MALOSSE Pascal              MaŒtrise de l'Illusion ş2014
+: .o .     N     _MALOSSE Pascal              En boŒte ş2014
+: .o .     N     _MALOSSE Pascal              Dissociation ş2014
+: .o .     N     _MALOSSE Pascal              L'Id‚e ş2014
+o MALP_AB    31  2014.12 ..... ISBN 978-2-917035-35-1
+} malpertuis31   _AlvŠs Christophe            ?
+- .oF.    kr2    _TARVEL Brice                Les Dossiers secrets de Harry Dickson - Tome 4 [Harry Dickson] ş2014
+: .oF.     r     _TARVEL Brice                La Chambre effroyable [Harry Dickson] ş2014
+: .oF.     r     _TARVEL Brice                Le Polichinelle d'argile [Harry Dickson] ş2014
+o MALP_AB    39  2016.06 ..... ISBN 978-2-917035-43-6
+} malpertuis39   _Patrick Mallet              ?
+- .oFJ     C7    _SORRE J‚r“me               &Une nuit au club DiogŠne [Le Club DiogŠne] ş2016
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Artifice (Le mar‚chal raconte) [Le Club DiogŠne] ş2016
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Ma part d'ombre (Vayec raconte) [Le Club DiogŠne] ş2016
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Un lƒche sur mesure (d'Orville raconte) [Le Club DiogŠne] ş2016
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Dans la gueule d'Ugolin (Camille raconte) [Le Club DiogŠne] ş2016
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Le Saint fant“me (Franklin raconte) [Le Club DiogŠne] ş2016
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Les Bois du sous-sol (F‚dor raconte) [Le Club DiogŠne] ş2016
+&                _MOURET St‚phane             
+: .oF.     N     _SORRE J‚r“me               &Sale bˆte (Sara raconte) [Le Club DiogŠne] ş2016
+&                _MOURET St‚phane             
+o MALP_AB    42  2017.04 ..... ISBN 978-2-917035-46-7
+} malpertuis42   _Aur‚lien Maccarelli         ?
+- .oF.     N23   _MALOSSE Pascal              Contes de la vodka ş2017
+: .o .     N     _MALOSSE Pascal              Refus ş2017
+: .o .     N     _MALOSSE Pascal              Les Balticiennes ş2017
+: .o .     N     _MALOSSE Pascal              Une collection ş2017
+: .o .     N     _MALOSSE Pascal              La Fille de la frontiŠre ş2017
+: .o .     N     _MALOSSE Pascal              La Ville publicit‚ ş2017
+: .o .     N     _MALOSSE Pascal              Creusons ş2017
+: .o .     N     _MALOSSE Pascal              Conform‚ment au plan ş2017
+: .o .     N     _MALOSSE Pascal              Lettre au Steinhof ş2017
+: .o .     N     _MALOSSE Pascal              Le Lac aux cheveux blonds ş2017
+: .o .     N     _MALOSSE Pascal              Forˆt primaire ş2017
+: .o .     N     _MALOSSE Pascal              L'Immeuble qui voit ş2017
+: .o .     N     _MALOSSE Pascal              Nuits des toiles ş2017
+: .o .     N     _MALOSSE Pascal              Th‚rapie de choc ş2017
+: .o .     N     _MALOSSE Pascal              En fum‚e ş2015
+: .o .     N     _MALOSSE Pascal              La Prison des mots ş2017
+: .o .     N     _MALOSSE Pascal              Sortie d'usine ş2017
+: .o .     N     _MALOSSE Pascal              La Grande D‚pression ş2017
+: .o .     N     _MALOSSE Pascal              Sous la dune ş2017
+: .o .     N     _MALOSSE Pascal              Le Discours ş2017
+: .o .     N     _MALOSSE Pascal              L'Assembl‚e du cimetiŠre juif ş2017
+: .o .     N     _MALOSSE Pascal              Lames du spectacle ş2017
+: .o .     N     _MALOSSE Pascal              La Rue Brzeska ş2017
+: .o .     N     _MALOSSE Pascal              Du gouvernement par la vodka ş2017
+o MALP_AB    52  2019.11 ..... ISBN 978-2-917035-72-6
+} malpertuis52   _Christophe AlvŠs            ?
+- .oF.     N2    _TARVEL Brice                Les Dossiers secrets de Harry Dickson - Tome 5 [Harry Dickson] ş2019
+: .oF.     N     _TARVEL Brice                La Forˆt des dieux [Harry Dickson] ş2019
+: .oF.     N     _TARVEL Brice                Les Voleurs d'ombres [Harry Dickson] ş2019
+
+
+!-----------------------------------------------------------------------------
+_ MALP_LO Ed. Malpertuis, Coll. Lovecraftiana
+!--- Directeur : Christophe Thill
+!-----------------------------------------------------------------------------
+o MALP_LO     1i 2007.09 ..... ISBN 978-2-917035-02-3
+} malpertuis03   _?                           ?
++ MALP_LO     3  2009.04 ..... ISBN 978-2-917035-07-8
+} malpertuis03rr09 _?                           ?
+- .oFS     A22   *THILL Christophe            HPL 2007 ş2007
+: .o .     p     _THILL Christophe            Pr‚face ş2007
+: .o .     N     _LI-CAM                      Maudite providence ş2007
+: .o .     N     _REY Timoth‚e                La Providence du reclus ş2007
+: .o .     N     _LIGNER Meddy                Manuscrit trouv‚ dans une malle d'Estr‚madure ş2007
+: .o .     N     _POUTHE Eric                 Horreur au Ward Institute ş2007
+: .o .     N     _PERROT Christian            Secrets de famille ş2007
+!--- Texte "Secrets" retravaill‚ et sensiblement diff‚rent
+: .o .     N     _CASTELBOU Cyril             La Pendule ş2007
+: .o .     N     _LAMAZERE Vanessa            La Goulue ş2007
+: .o .     N     _JOFFRAIN Adam               Le Puits ş2007
+: .o .     N     _MOREL Ghislain              De feu et d'acier ş2007
+: .o .     N     _FERRIC Franck               Les Pas du golem ş2007
+: .o .     N     _CALVEZ Jean-Michel          Liquid moon ş2007
+: .o .     N     _NIELSEN Marija              Re-animator revisited ş2007
+: .o .     N     _TOMASSINI S‚bastien         L'Invasion ş2007
+: .o .     N     _CHAPPERON Nicolas           KlŠsin ş2007
+: .o .     N     _CASTELBOU S‚bastien         L'Envers du miroir ş2007
+: .o .     N     _SOUBRE-LANABERE S‚bastien   Rien de plus beau au monde ş2007
+: .o .     N     _HENRY L‚o                   En m‚moire d'un ami pnakotique ş2007
+: .o .     N     _BERROUKA Karim              Soleil noir ş2007
+: .o .     N     _FIEROBE Fran‡ois            La Cit‚ indicible ş2007
+: .o .     N     _BEAUVILLE Pierre de         R'lyeh ş2007
+: .o .     N     _SANAHUJAS Simon             L'Šre humaine ş2007
+: .o .     N     _BOUTON Bertrand             Le Dernier Jour du monde ş2007
+
+!-----------------------------------------------------------------------------
+_ MALP_BR Ed. Malpertuis, Coll. Brouillards
+!--- Directeur : Thomas Bauduret
+!-----------------------------------------------------------------------------
+!------------------------
+!=== 2007
+!------------------------
+o MALP_BR     ?  2007.09 ..... ISBN 978-2-917035-01-6
+} malpertuis02   _?                           ?
++ MALP_BR     ?  2009.05 ..... ISBN 978-2-917035-09-2
+} malpertuis02rr09 _?                           ?
+- .oF.     A15   *DUGUEL Anne                 Parfums mortels ş2007
+: .o .     p     _DUGUEL Anne                 Pr‚face ş2007
+: .o .     N     _MONTAGNE Sylvain            Salamb“ ş2007
+: .o .     N     _CALVEZ Jean-Michel          Dernier souffle ş2007
+: .o .     N     _KA Olivier                  Martha toute entiŠre ş2007
+: .o .     N     _GUDULE                      Ar“me d'une nuit d'‚t‚ ş2007
+: .o .     N     _BOLDUC Claude               De l'amour dans l'air ş2007
+: .o .     N     _PATRICOLA Jean-Fran‡ois     La D‚charge h‚roique ş2007
+: .o .     N     _ROBIN Christian             Flƒneuse ş2007
+: .o .     N     _BIDAULT Lili                Le Petit Gar‡on dans les roses de th‚ ş2007
+: .o .     N     _GALLART R‚my                Rˆve ultime ş2007
+: .o .     N     _RENARD Anne                 La Sentine ş2007
+: .o .     N     _GENTILHOMME Serena          Profum rosso ş2007
+: .o .     N     _ERIS Patrick                Histoire du parfumeur Halla‹ et du sultan Jadar ş2007
+: .o .     N     _RIVIERE Ange-Emile          Sculpture pƒle ş2007
+: .o .     N     _NICODEME B‚atrice           Parfum d'illusion ş2007
+: .o .     N     _LENNE G‚rard                Respire-moi bien ş2007
+!------------------------
+!=== 2008
+!------------------------
+o MALP_BR     ?  2008.02 ..... ISBN 978-2-917035-03-0
+} malpertuis04   _?                           ?
++ MALP_BR     4  2009.05 ..... ISBN 978-2-917035-10-8
+} malpertuis04rr09 _?                           ?
+- .oF.    _C10   _MAMIER Claude               Les Contes du vagabond ş2008
+: .oF.     p     _ERIS Patrick                Pr‚face ş2007
+!--- Vagabond partie 1 - Le conte des histoires du monde
+: .oF.     N     _MAMIER Claude               Le Conte des histoires du monde ş2008
+: .oF.     N     _MAMIER Claude               Bokor Palace ş2008
+: .oF.     N     _MAMIER Claude               J'‚cris ton nom avec des ailes de papillon ş2008
+: .oF.     N     _MAMIER Claude               Flammes de nos corps ş2008
+: .oF.     N     _MAMIER Claude               Les Cendres du monde ş2003
+: .oF.     N     _MAMIER Claude               L‚gendes de la Selva ş2008
+: .oF.     N     _MAMIER Claude               L'Image de mes d‚sirs ş2008
+: .oF.     N     _MAMIER Claude               Je reviens ş2008
+!--- Vagabond partie 2 - Le conte des pierres de la douleur
+: .oF.     N     _MAMIER Claude               Le Conte des pierres de la douleur ş2008
+!--- o _MAMIER Claude Du criard et du griot
+!--- o _DULAUROY Philippe Ceux qui sont partis
+o MALP_BR     ?  2008.03 ..... ISBN 978-2-917035-..-.
+} malpertuis05   _?                           ?
++ MALP_BR     5  2009.05 ..... ISBN 978-2-917035-11-5
+} malpertuis05rr09 _?                           ?
+- .oF.     A17   *DUGUEL Anne                 Secrets de famille ş2008
+: .o .     N     _ARNAUD G.-J.                La Caravane ş2008
+: .o .     N     _BIDAULT Lili                Agnus Dei ş2008
+: .o .     N     _CALVEZ Jean-Michel          Petit soldat de l'ombre ş2008
+: .o .     N     _COLINS Marie                Peau d'ours ş2008
+: .o .     N     _DOUBINSKY S‚bastien         Feux arriŠre ş2008
+: .o .     N     _DUGUEL Anne                 Le Cagibi ş1995
+: .o .     N     _GUDULE                      Noce transie ş1995
+: .o .     N     _GALLART R‚my                Les Brodeurs de m‚moire ş2008
+: .o .     N     _GORDON Arthemius            Le Porte-Clefs ş2008
+: .o .     N     _RIVIERE Ange-Emile          Petit navire ş2008
+: .o .     N     _ROUGE-HERON Didier          A l'ouest du paradis ş2008
+: .o .     N     _YTAK Cathy                  De l'art de jouir de la famille ş2008
+: .o .     N     _ROULET Marie-Claude         Ordre et beaut‚ ş2008
+: .o .     N     _ROBIN Christian             L'charpe rouge ş2008
+: .o .     N     _MONTAGNE Sylvain            H‚r‚dit‚ charg‚e ş2008
+: .o .     N     _MICHEL Alice                TransfrŠre ş2008
+: .o .     N     _KA Olivier                  En m‚moire de Gamuel ş2008
+: .o .     N     _JEITAL Alex                 Lion ş2008
+!------------------------
+!=== 2009
+!------------------------
+o MALP_BR     6  2009.05 ..... ISBN 978-2-917035-06-1
+} malpertuis06   _?                           ?
+- .oF.     R     _ERIS Patrick                L'Autobus de minuit ş2001-2009
+o MALP_BR     8  2009.10 ..... ISBN 978-2-917035-12-2
+} malpertuis09   _N‚mo Sandman                ?
+- .oF.    kA23   *BAUDURET Thomas             Malpertuis - I ş2009
+: .oF.     p     _BAUDURET Thomas             Pr‚face ş2009
+: .oF.     N     _CALVEZ Jean-Michel          Une porte vers l'au-del… ş2009
+: .oF.     N     _GIUSEPPIN BenoŒt            V. comme... ş2009
+: .oF.     N     _MILLER Sylvie               Ceux du marais ş2009
+: .oF.     N     _BALLY Nico                  Fais-moi confiance ş2009
+: .oF.     N     _FETIS Laurent               Golem de Dancefloor ş2009
+: .oF.     N     _JANULEWICZ Romano Vlad      AOC Dealu-Mare ş2009
+: .oF.     N     _KEMPF Nicolas               La Cit‚ de neige ş2009
+: .oF.     N     _ERIS Patrick                Le Miracle du fusain ş2009
+: .oF.     N     _CHENU Lucie                 Les Disparus de Saint-Bosc ş2009
+: .oF.     N     _EVERSON John                L'Appel de la Lune ş2000 Calling of the Moon şTrad. BAUDURET Thomas
+: .oF.     N     _WILLIAMS Clara              Comme une ‚toile filante ş2009
+: .oF.     N     _BATAILLE Sophie             Noirescence ş2009
+: .oF.     N     _KAAN Jess                   Merlignies ş2009
+: .oF.     N     _TARVEL Brice                La Poup‚e crucifi‚e ş2009
+: .oF.     N     _BRUNEAU Oph‚lie             L'Erdre et le loup ş2009
+: .oF.     N     _FIEROBE Fran‡ois            Les Chemins de Khtar ş2009
+: .oF.     N     _MAMIER Claude               La Petite Fille au mort ş2009
+: .oF.     N     _SUZANNE Guillaume           Je gu‚ris le cancer ş2009
+: .oF.     N     _FUENTEALBA Jacques          Chien de garde ş2009
+: .oF.     N     _PLANQUE Jean-Pierre         Peau douce, peau froide ş2004
+: .oF.     N     _DABAT Sophie                Plume d'ange ş2009
+: .oF.     N     _HENRY L‚o                   Ekphrasis ş2009
+: .oF.     N     _HODGE Brian                 B‚ni soit le pˆch‚ ş2009 Hate the Sinner, Love the Sin şTrad. ?
+!------------------------
+!=== 2010
+!------------------------
+o MALP_BR    12  2010.11 ..... ISBN 978-2-917035-16-0
+} malpertuis11   _N‚mo Sandman                ?
+- .oF.    kA29   *BAUDURET Thomas             Malpertuis - II ş2010
+: .oF.     p     _BAUDURET Thomas             Pr‚face ş2010
+: .oF.     N     _BALLY Nico                  Lav‚e ş2010
+: .oF.     N     _TARVEL Brice                L'Assassin viendra ce soir ş2010
+: .oF.     N     _BRUNEAU Oph‚lie             Ce qui est … moi ş2010
+: .oF.     N     _FUENTEALBA Jacques          Rendez-vous nocturne ş2010
+: .oF.     N     _STEWARD Ketty               Mon ami de papier ş2010
+: .o .     N     _FERRIC Franck               Has-Been Blues ş2010
+: .oF.     N     _TEM M‚lanie                &Le DixiŠme Disciple ş1991 The Tenth Scholar şTrad. ?
+&                _TEM Steve Rasnic            
+: .oF.     N     _SCIPION Johan               Les Mille Visages [Les Terres Etranges] ş2010
+: .oF.     N     _THIRION Jan                 Sollicitude ş2010
+: .oF.     N     _BONNET Sylvain              Lien de famille ş2010
+: .oF.     N     _MOLES Dominique             D‚charge d'adr‚naline ş2010
+: .oF.     N     _GARREAU Christophe          Tais-toi ş2010
+: .oF.     N     _NOKOMISM                    Sarkophagos ş2010
+: .oF.     N     _SICART Pierre-Alexandre     Enchantemer ş2010
+: .oF.     N     _LEONETTI Bernard            Mygale ş2010
+: .oF.     N     _BOLDUC Claude               Un parfum de Solange ş2010
+: .oF.     N     _MAIA Emmanuelle             La Route ş2010
+: .oF.     N     _GENTILHOMME Serena          Bois-moi ş2010
+: .oF.     N     _BELLEY Jo                   La Douleur et la danseuse ş2010
+: .oF.     N     _MOSLONKA Micha‰l            Le G‚nie litt‚raire ş2010
+: .oF.     N     _JANULEWICZ Romano Vlad      Lily et la petite souris ş2010
+: .oF.     N     _EXIMENO Santiago            A la fin du voyage ş2005 Al final de este viaje şTrad. ?
+: .oF.     N     _MUGAND Georges              2765 Saint-Zothique ş2010
+: .oF.     N     _SIMON Christian             L'Air du temps ş2010
+: .oF.     N     _PERROT Christian            Obsession ş2007
+: .oF.     N     _NIELSEN Marija              L'Autoroute ş2010
+: .oF.     N     _MORENO Lucas                Comme au premier jour ş2010
+: .oF.     N     _CALVEZ Jean-Michel          Morpho Helix ş2010
+: .oF.     N     _KAAN Jess                   Les Installation ş2010
+!------------------------
+!=== 2011
+!------------------------
+o MALP_BR    14  2011.06 ..... ISBN 978-2-917035-18-4
+} malpertuis14   _Mandy                       ?
+- .oF.    kA34   *THILL Christophe            Mus‚ums ş2011
+: .oF.     p     _THILL Christophe            Pr‚face ş2011
+: .o .     N     _FIEROBE Fran‡ois            Guide du mus‚um de Rascanges ş2011
+: .o .     N     _PINGAULT V‚ronique          Gombessa song ş2011
+: .o .     N     _BALLY Nico                  L'Affaire de l'‚pid‚mie dansante ş2011
+: .o .     N     _WEISS Bernard               Notre-Dame des marrons ş2011
+: .o .     N     _PHILIPPE R‚gine             La V‚ritable Histoire du Quetzacoatlus ş2011
+: .o .     N     _CARUSO Olivier              Le Sourire du dodo ş2011
+: .o .     N     _GOULARD Anne                Chroniques d'un cabinet de curiosit‚s ş2011
+: .o .     N     _LENDEMAINE Lo‹c             Tourbe mill‚naire ş2011
+: .o .     N     _CHAMPION Romain             La TourbiŠre ş2011
+: .o .     N     _CITHAREL C‚dric             Art nouveau ş2011
+: .o .     N     _KAAN Jess                   Pazuzu (33 O 21 S / 44 O 25 E) ş2011
+: .o .     N     _SACRE Pascal                Reliques ş2011
+: .o .     N     _DARVEL Robert               Mus‚e-homme ş2011
+: .o .     N     _HEYLBROECK Julien           Bic‚phalite ş2011
+: .o .     N     _FERRIC Franck               Le Mus‚e des vapeurs ş2011
+: .o .     N     _CHADOUR Nelly               Sarah ş2011
+: .o .     N     _CART-TANNEUR Emmanuelle     Voleur ş2011
+: .o .     N     _MAUBREUIL IrŠne             ChimŠres ş2011
+: .o .     N     _LALLOT L‚o                  Le Mus‚e des damn‚s ş2011
+: .o .     N     _HUISSIER Romain d'          Hors de l'Eden ş2011
+: .o .     N     _MOUCHA Mathias              Le Directeur des ressources humaines; l'autre ş2011
+: .o .     N     _SAFYANE Ludmila             Echographie d'un petit pois ş2011
+: .o .     N     _KOWSKY A.                   L'Objet K. ş2011
+: .o .     N     _GUDULE                      Jeanne ‚tait au pain sec ş2011
+: .o .     N     _MISERQUE David              Le Secret de Canaletto ş2011
+: .o .     N     _CONSEIL Julie               La Lyre … trois cordes ş2011
+: .o .     N     _SAINT-ROCH Blanche          Les Mal‚dictions croqu‚es ş2011
+: .o .     N     _LEONETTI Bernard            Le MaŒtre des curiosit‚s ş2011
+: .o .     N     _CLAVEL Fabien               Le Mus‚e de soi-mˆme ş2011
+: .o .     N     _LIGIER Aur‚lie              L'veil ş2011
+: .o .     N     _MUGAND Georges              La Machine des incas ş2011
+: .o .     N     _MONTCALM Terry              Les Rouages du destin ş2011
+: .o .     N     _SEIGNOL Jean-Fran‡ois       Le Mus‚e des ƒmes ş2011
+: .o .     N     _LUBIN Jean-Fran‡ois         Seul ş2011
+o MALP_BR    15  2011.09 ..... ISBN 978-2-917035-19-1
+} malpertuis15   _R‚mi Decout                 ?
+- .oF.     R     _DUPIN Sylvie                Rivage ş2011
+o MALP_BR     ?  2011.11 ..... ISBN 978-2-917035-20-7
+} malpertuis16   _N‚mo Sandman                ?
+- .oF.     A29   *BAUDURET Thomas             Malpertuis - III ş2011
+: .oS.     N     _LASJUILLIARIAS Sylvain      28 jours ş2011
+: .o .     N     _ROBIN Christian             Amadeo ş2011
+: .o .     N     _LIGIER Aur‚lie              Orson Creek ş2011
+: .o .     N     _DUQUENNE C‚cile             Un beau paquet d'ordures ş2011
+: .o .     N     _GAY Olivier                 Amrak ş2011
+: .o .     N     _COMBREXELLE Anthony         Elles savent, Joe ş2011
+: .o .     N     _CROUZET Yves-Daniel         Petite chose avide ş2011
+: .o .     N     _BRY David                   Massacre au bistouri ş2011
+: .oF.     N     _SUZANNE Guillaume           En m‚moire du pŠre ş2011
+: .o .     N     _DARVEL Robert               L'Isoloir ş2011
+: .oF.     N     _THIRION Jan                 Convoi exceptionnel ş2011
+: .oF.     N     _SCIPION Johan               Les ƒmes captives [Les Terres Etranges] ş2011
+: .o .     N     _EUSTACHE Nicholas           Un soup‡on de mortalit‚ ş2011
+: .oF.     N     _SIMON Christian             Zanatany ş2011
+: .o .     N     _COUDIERE B‚n‚dicte          La Petite Marchande ş2011
+: .o .     N     _FERNANDEZ Fabien            Si vis pacem ş2011
+: .oF.     N     _MUGAND Georges              Souvenirs de vies jamais v‚cues ş2011
+: .oF.     N     _CALVEZ Jean-Michel          Coeur … prendre ş2011
+: .oF.     N     _MORENO Lucas                Dellamorte Dellamore ş2011
+: .oF.     N     _MOLES Dominique             Une vie embouteill‚e ş2011
+: .o .     N     _CZILINDER Fr‚d‚ric          Bois hurlants ş2011
+: .o .     N     _LEBLION Marie               La Petite Fille au manteau de sang ş2011
+: .o .     N     _OBIONE Max                  Las des haines ş2011
+: .o .     N     _BALLY Nico                  Les Histoires de fant“mes finissent mal en g‚n‚ral ş2011
+: .? .     N     _BLAMPAIN J‚r‚my             Fais pas ci, fais pas ‡a, y'en a marre, tralala ! ş2011
+: .o .     N     _FEDOU Didier                Nicotine ş2011
+: .oF.     N     _HUISSIER Romain d'          La Revanche du frigo ş2011
+: .o .     N     _HAUCHECORNE Anthelme        CFDT, ou les origines de la conf‚d‚ration des fant“mes, dragons et trolls ş2011
+: .? .     N     _FIEROBE Fran‡ois            BrŠve et v‚ridique histoire de mes amputations ş2011
+o MALP_BR    17  2011.11 ..... ISBN 978-2-917035-21-4
+} malpertuis17   _Philippe Jozelon            ?
+- .oFT     N6    _MANTESE Laurent             Contes des nuits de sang ş2011
+: .o .     N     _MANTESE Laurent             L'Apostat sanglant d'Oscar Th‚odor Plumcket ş2011
+: .o .     N     _MANTESE Laurent             La Maison de l'araign‚e ş2011
+: .o .     N     _MANTESE Laurent             Les Enrag‚s ş2011
+: .o .     N     _MANTESE Laurent             La Cur‚e ş2011
+: .o .     N     _MANTESE Laurent             Les Monts de Madonie ş2011
+: .o .     N     _MANTESE Laurent             Le Pˆcheur ş2011
+!------------------------
+!=== 2012
+!------------------------
+o MALP_BR    18  2011.12 ..... ISBN 978-2-917035-22-1
+} malpertuis18   _Jacques Fuentealba          ?
+- .oFY     C8    _FUENTEALBA Jacques          Le CortŠge des fous [Sunset Circus] ş2011
+: .o .     N     _FUENTEALBA Jacques          Etoile du matin, sombre destin [Sunset Circus] ş2011
+: .o .     N     _FUENTEALBA Jacques          Sur les traces d'Arcimboldo [Sunset Circus] ş2011
+: .o .     N     _FUENTEALBA Jacques          L'Avaleur de sabres [Sunset Circus] ş2011
+: .o .     N     _FUENTEALBA Jacques          Etre de taille [Sunset Circus] ş2011
+: .o .     N     _FUENTEALBA Jacques          Rise and fall of Bianca Nera [Sunset Circus] ş2007
+: .o .     r     _FUENTEALBA Jacques          Le CortŠge des fous [Sunset Circus] ş2011
+: .o .     N     _FUENTEALBA Jacques          Araf [Sunset Circus] ş2009
+: .o .     N     _FUENTEALBA Jacques          Dimanche, jour du seigneur [Sunset Circus] ş2006
+o MALP_BR    21  2012.06 ..... ISBN 978-2-917035-25-2
+} malpertuis21   _Philippe Jozelon            ?
+- .oF.    iNx    _SAUVAGE J‚r‚mi              Nous sommes un monstre ş2012
+!--- TBD le "remerciements en fin est-il une nouvelle" ? (puisque indiqu‚ 12 nouvelles...)
+: .o .     N     _SAUVAGE J‚r‚mi              Sous les pav‚s, la rage ş2012
+: .o .     N     _SAUVAGE J‚r‚mi              Je reviendrai, demain ş2000
+: .oF.     N     _SAUVAGE J‚r‚mi              Au coeur de la falaise ş2012
+: .oF.     N     _SAUVAGE J‚r‚mi              Maurice Vaugirard, 52 ans ş2012
+: .oF.     N     _SAUVAGE J‚r‚mi              Doggie Bug ş2000
+: .oF.     N     _SAUVAGE J‚r‚mi              Nous sommes un monstre ş2012
+: .oF.     N     _SAUVAGE J‚r‚mi              Option mutant rejet‚e ş2012
+: .oF.     N     _SAUVAGE J‚r‚mi              Hybride ş2012
+: .oY.     N     _SAUVAGE J‚r‚mi              Br–lera bien qui br–lera le dernier... ş1997
+: .oF.     N     _SAUVAGE J‚r‚mi              Descente osirienne ş2012
+: .oF.     N     _SAUVAGE J‚r‚mi              D‚vitalis‚e ş2012
+!------------------------
+!=== 2013
+!------------------------
+o MALP_BR     ?  2013.02 ..... ISBN 978-2-917035-28-3
+} malpertuis24   _Philippe Jozelon            ?
+- .oF.     A24   *BAUDURET Thomas            &L'Amicale des jeteurs de sorts ş2013
+&                *THILL Christophe            
+: .oF.     N     _CHENU Lucie                 L'Eau pure ş2013
+: .o .     N     _MAMIER Claude               Bataille ş2013
+: .o .     N     _SEIGNOL Jean-Fran‡ois       La Nuit o— tu m'aimeras ş2013
+: .o .     N     _DARVEL Robert               Amour, siamois et sorcellerie ş2013
+: .o .     N     _COUDIERE B‚n‚dicte          Le Chant du cygne ş2013
+: .o .     N     _HEYLBROECK Julien           Magic Best-of ş2013
+: .o .     N     _FETIS Laurent               Les Filles de la doublure int‚rieure ş2013
+: .o .     N     _FUENTEALBA Jacques          Deuil ş2013
+: .o .     N     _HAUCHECORNE Anthelme        Le But“ atomique ş2013
+: .oF.     N     _STEWARD Ketty               Sanguine ş2013
+: .o .     N     _MANTESE Laurent             Le Sorcier de Brassac ş2013
+: .o .     N     _SANAHUJAS Simon             Le Marchand de r‚alit‚s ş2013
+: .o .     N     _PERROT Christian            Le D‚mon encombrant ş2013
+: .oF.     N     _THIRION Jan                 Scribe du r‚el ş2013
+: .o .     N     _HUISSIER Romain d'          Hong Kong by Night - Vengeance pour un dragon ş2013
+: .o .     N     _FERRIC Franck               Simulacres ş2013
+: .o .     N     _HENRY L‚o                   Tordre le cou … la pens‚e magique ş2013
+: .o .     N     _LEONETTI Bernard            La Neige noire ş2013
+: .o .     N     _BALLY Nico                  La Disparition totale ş2013
+: .o .     N     _CARUSO Olivier              Tournesol ş2013
+!--- TBC ? Les pouvoirs ridicules du lotissement du Tournesol
+: .o .     N     _SYLAS                       Rˆve de magie ş2013
+: .o .     N     _CONSEIL Julie               L'Oiseau bleu-noir ş2013
+: .o .     N     _CART-TANNEUR Emmanuelle     La Disparition ş2013
+: .oS.     N     _BERROUKA Karim              Vaisseau d'espoir, comment es-tu devenu un vaisseau de douleur ? ş2013
+o MALP_BR     ?  2013.05 ..... ISBN 978-2-917035-29-0
+} malpertuis25   _N‚mo Sandman                ?
+- .oF.     A22   *BAUDURET Thomas             Malpertuis - IV ş2013
+: .o .     p     _BAUDURET Thomas             Pr‚face ş2013
+: .o .     N     _HONSPACQ Chris B.           DerriŠre la porte ş2013
+: .o .     N     _LELOUP Fabienne             L'pingle en or ş2013
+: .o .     N     _MILLION Laurent             Coule mon sang, dit le voleur ş2013
+: .o .     N     _HEYLBROECK Julien           Apocalypse silencieuse ş2013
+: .o .     N     _FEDOU Didier                Maman ş2013
+: .o .     N     _MONS David                  J'‚tais une petite fille sage dans mon grenier ş2013
+: .oF.     N     _SUZANNE Guillaume           Si prŠs du bord ş2013
+: .o .     N     _CARUSO Olivier              Zombie ş2013
+: .o .     N     _CZILINDER Fr‚d‚ric          La Complainte de Teddy Bear ş2013
+: .o .     N     _DARVEL Robert               Je me d‚cidai pour une histoire courte ş2013
+: .oF.     N     _THIRION Jan                 Convertible … l'envi ş2013
+: .o .     N     _WELLENSTEIN Aur‚lie         Trash Vortex ş2013
+: .o .     N     _SIMON Val‚rie               Barbe de sang ş2013
+: .o .     N     _HUISSIER Romain d'          La Ville ş2013
+: .o .     N     _CONSEIL Julie               Le Ciel et l'herbe en moins ş2013
+: .o .     N     _COMBREXELLE Anthony         Les Rippeurs ş2013
+: .oF.     N     _CALVEZ Jean-Michel          Poup‚e chinoise ş2013
+: .oF.     N     _FUENTEALBA Jacques          Le Sel de vos vies ş2013
+: .o .     N     _FIEROBE Fran‡ois            L‚gende des masques du Sanctifiador ş2013
+: .o .     N     _FLAJOLET-TOUBAS Jennifer    Quatre murs ş2013
+: .oF.     N     _MUGAND Georges              Une vie satisfaisante ş2013
+: .o .     N     _TECON Robin                 Le Fond du tonneau ş2013
+!------------------------
+!=== 2014
+!------------------------
+o MALP_BR    27  2014.02 ..... ISBN 978-2-917035-31-3
+} malpertuis27   _Tim Chiesa                  ?
+- .oFY     R     _FUENTEALBA Jacques          L'Antre du diable [Sunset Circus] ş2014
+o MALP_BR    28  2014.04 ..... ISBN 978-2-917035-32-0
+} malpertuis29   _R‚mi Decout                 ?
+- .oF.     R     _DAUDIN-CLAVAUD Paul         Le SeiziŠme Anneau du serpent ş2014
+o MALP_BR    29  2014.05 ..... ISBN 978-2-917035-33-7
+} malpertuis29   _Nemo Sandman                ?
+- .oF.    kA25   *BAUDURET Thomas             Malpertuis - V ş2014
+: .o .     N     _CALVEZ Jean-Michel          Le Test ş2014
+: .o .     N     _COUDIERE B‚n‚dicte          Cr‚ation ş2014
+: .o .     N     _PINGAULT V‚ronique          Emoi dans le beffroi ş2014
+: .o .     N     _SUR Sabine                  Chƒteau-chariot ş2014
+: .o .     N     _MARCHETTO H‚lŠne            Le Dormeur ş2014
+: .o .     N     _BECKER Phil                 Ablutions ş2014
+: .o .     N     _COULON David                L'Amante ş2014
+: .o .     N     _SCIPION Johan               Oedipe superstar ş2014
+: .o .     N     _ROUVELOUX Anne-Sophie       Boudin zombie ş2014
+: .o .     N     _MUGAND Georges              La Pr‚dation des lumiŠres ş2014
+: .o .     N     _CONSEIL Julie               Les LavandiŠres de la nuit ş2014
+: .o .     N     _CAUSSARIEU Morgane          Rasta Boy ş2014
+: .o .     N     _NOKOMISM                    L'Arbre aux lucioles ş2014
+: .o .     N     _SILVA L‚a                   Le Souffle du dragon ş2014
+: .o .     N     _FUENTEALBA Jacques          Des oiseaux tomb‚s du ciel ş2014
+: .o .     N     _JOLLY Romain                La Voix ş2014
+: .o .     N     _LEFEBVRE Magali             De larmes, de sel, d'encre ş2014
+: .o .     N     _MOREAU Denis                Notre-Dame des Volutes ş2014
+: .o .     N     _FLAJOLET-TOUBAS Jennifer    La Fille du quinziŠme ş2014
+: .o .     N     _MISERQUE David              Merci pour les fleurs ş2014
+: .o .     N     _MAROT AgnŠs                 Plus j'‚cris, plus tu existes ş2014
+: .o .     N     _SUZANNE Guillaume           Vent de cendres ş2014
+: .o .     N     _FERRANDO Am‚lie             Ton regard ş2014
+: .o .     N     _RIVERO Mathieu              ternel tranger ş2014
+: .o .     N     _GAY Olivier                 Passent les secondes ş2014
+!------------------------
+!=== 2015
+!------------------------
+o MALP_BR    32  2015.03 ..... ISBN 978-2-917035-36-8
+} malpertuis32   _Lasth                       ?
+- .oPF     R     _MANTESE Laurent             L'Or des princes ş2015
+o MALP_BR    33  2015.05 ..... ISBN 978-2-917035-37-5
+} malpertuis33   _Nemo Sandman                ?
+- .oF.    kA24   *BAUDURET Thomas             Malpertuis - VI ş2015
+: .o .     N     _SYLAS                       3 kilogrammes ş2013
+: .o .     N     _COUDIERE B‚n‚dicte          Le Voleur d'ange ş2015
+: .o .     N     _POGGIO Elisa M.             L'Imbricorioniste ş2015
+: .o .     N     _POCHESCI Bruno              Le Dernier Jouir d'un condamn‚ ş2015
+: .o .     N     _FLEURY Xavier-Marc          Les Rescap‚s du Gigantik ş2015
+: .o .     N     _PINGAULT V‚ronique          Bessie et Jessie ş2015
+: .o .     N     _VIAL-BONACCI Eric           Lloupa Rouge ş2015
+: .o .     N     _JANDROK Thierry             Dette de sang ş2015
+: .o .     N     _CORDIER Barbara             ScŠne de chasse ordinaire ş2015
+: .o .     N     _MILORA Julia                Alice ş2015
+: .o .     N     _MALOSSE Pascal              La Fuite ş2015
+: .o .     N     _NOKOMISM                    Le Collectionneur de plumes ş2015
+: .o .     N     _KIFFER Kevin                Mais quand vient le mot fin ? ş2015
+: .o .     N     _JARRIGE Olivier             La Dame du lac ş2015
+: .o .     N     _BOULANGER Anthony           Sans terminus ? ş2015
+: .o .     N     _QUERBALEC Emilie            Lisse le cordon ş2015
+: .o .     N     _DORE Alain                  Le Chevrier ş2015
+: .o .     N     _DUNKEL Sarah                Anguille ş2015
+: .o .     N     _LATOUR Marie                Le Chat de Schr”dinger ş2015
+: .o .     N     _SUZANNE Guillaume           Cherchez l'intrus ş2015
+: .o .     N     _CROUZET Yves-Daniel         Le Chant de la harpie le soir au fond des bois ş2015
+: .o .     N     _LEMURI Dominique            Externalis‚ ş2015
+o MALP_BR    34  2015.11 ..... ISBN 978-2-917035-38-2
+} malpertuis34   _Tim Chiesa                  ?
+- .oF.     R     _TARVEL Brice                Le D‚mon du grenier [Morgane - 1] ş2008
+o MALP_BR    35  2015.11 ..... ISBN 978-2-917035-39-2
+} malpertuis35   _Tim Chiesa                  ?
+- .oF.     R     _TARVEL Brice                Ceux du soupirail [Morgane - 3] ş2015
+!------------------------
+!=== 2016
+!------------------------
+o MALP_BR    36  2016.02 ..... ISBN 978-2-917035-40-5
+} malpertuis36   _R‚mi Decout                 ?
+- .oF.     R     _DUPIN Sylvie                Defixio ş2016
+o MALP_BR    37  2016.05 ..... ISBN 978-2-917035-41-2
+} malpertuis37   _Agathe Gastaldi             ?
+- .oF.     A23   *BAUDURET Thomas             Malpertuis - VII ş2016
+: .o .     N     _LATOUR Marie                Grand-pŠre ş2016
+: .oF.     N     _DUPIN Sylvie                Dette … rebours ş2016
+: .o .     N     _BRAGG P.                    Le Chemin des ‚pingles ş2016
+: .o .     N     _SCARDIGLI Sandrine          Une larme d'Ath‚na ş2016
+: .o .     N     _SERRANO Elodie              SorciŠre ş2016
+: .o .     N     _FIEROBE Fran‡ois            La Ville aux sept portes ş2016
+: .o .     N     _MALOSSE Pascal              Ligne de flottaison ş2016
+: .o .     N     _NOKOMISM                    Tu ne tueras point ş2016
+: .o .     N     _QUERBALEC Emilie            Une veine de cocu ş2016
+: .o .     N     _POCHESCI Bruno              Ceci n'est pas un paparazzi ş2016
+: .o .     N     _BOUDIN Rapha‰l              Les Femelles porteuses d'idoles ş2016
+: .o .     N     _FUENTEALBA Jacques          Naucrates seductor ş2016
+: .o .     N     _MOREL Ghislain              Ne pas vendre la peau de l'ours avant de l'avoir tu‚ ! ş2016
+: .o .     N     _SUR Sabine                  Dorian et les pinpins ş2016
+: .o .     N     _CARUSO Olivier              Monsieur Pourpre ş2016
+: .o .     N     _CHARINE MarlŠne             Le Club des montagnards pƒtissiers cynophiles ş2016
+: .o .     N     _SUZANNE Guillaume           L'Appel de Latombe ş2016
+: .o .     N     _VIAL-BONACCI Eric           Mortel graffiti ş2016
+: .o .     N     _UNBEKANNT Artikel           A mourir de rire ş2016
+: .o .     N     _BOUSQUET Manon              Danseur ‚tincelle ş2016
+: .o .     N     _OTZI Xavier                 Le Syndrome de Fukushima ş2016
+: .o .     N     _DELPORTE Emmanuel           Next Stop : Paradise ş2016
+: .o .     N     _POGGIO Elisa M.             Les Mots qui traversent ş2016
+o MALP_BR    38  2016.05 ..... ISBN 978-2-917035-42-9
+} noimg          _R‚mi Decout                 ?
+- .oF.     R     _SOUBRE-LANABERE S‚bastien   J‚r“me sous l'orage ş2016
+o MALP_BR    40  2016.11 ..... ISBN 978-2-917035-44-3
+} noimg          _Philippe Jozelon            ?
+- .o .     R     _STABLEFORD Brian M.         Embrasser le bouc ş2005 Kiss the Goat
+o MALP_BR    41  2016.11 ..... ISBN 978-2-917035-45-0
+} noimg          _Mathieu Coudray             ?
+- .oT.     R     _TARVEL Brice                Le Chƒteau des somnambules [Morgane - 2] ş2012
+!------------------------
+!=== 2017
+!------------------------
+o MALP_BR    43  2017.05 ..... ISBN 978-2-917035-48-1
+} malpertuis43   _Bruno Bellamy               ?
+- .oF.     A24   *BAUDURET Thomas             Malpertuis - VIII ş2017
+: .o .     N     _BARRIER Florence            Chute d'une ‚toile ş2017
+: .o .     N     _CASPAR Thierry              Le D‚fi de Chronos ş2017
+: .o .     N     _FLEURY Xavier-Marc          Sur la route ş2017
+: .o .     N     _SERRANO Elodie              Une bonne nouvelle ş2017
+: .o .     N     _BEGARO Sorane               Toi mon frŠre ş2017
+: .o .     N     _LEVRAUT DEBEAUNE Emilie     Le Chat du m‚canicien ş2017
+: .o .     N     _NORDEN Sylwen               La Mer des morts ş2017
+: .o .     N     _MALOSSE Pascal              Le Baptˆme ş2017
+: .o .     N     _CHARINE MarlŠne             Sous la peau ş2017
+: .o .     N     _LELOUP Fabienne             Specimen.com ş2017
+: .o .     N     _NICOLAY Scott               L'Espace mauvais ş2014 The Bad Outer Space
+: .o .     N     _COUDIERE B‚n‚dicte          Cache-cache ş2017
+: .o .     N     _PAGES Nicolas               Te haka wakamutungal ş2017
+: .o .     N     _MAMIER Claude               10 pesos, pas un de plus ş2017
+: .o .     N     _QUERBALEC Emilie            Les Algues ş2017
+: .o .     N     _ROBERT Catherine            Vous reprendrez bien un peu de tˆte ş2017
+: .o .     N     _DELBE Alain                 Ta‹ga ş2017
+: .o .     N     _CIAUDO Marianne             Inari ş2017
+: .o .     N     _LEMURI Dominique            Pr‚sence ş2017
+: .o .     N     _LATOUR Marie                La Maison de papier ş2017
+: .o .     N     _ROBIN Christian             La DerniŠre SirŠne ş2017
+: .o .     N     _CHEVET C‚line               Chris ş2017
+: .o .     N     _GARISAKI Tesha              Pyrophage ş2017
+: .o .     N     _BOUTREUX Simon              Foutues taupes ! ş2017
+o MALP_BR    44  2017.09 ..... ISBN 978-2-917035-51-1
+} malpertuis44   _Aur‚lien Maccarelli         ?
+- .oF.     R     _SERRANO Elodie              Le sort en est jet‚ ş2017
+!------------------------
+!=== 2018
+!------------------------
+o MALP_BR    45  2018.05 ..... ISBN 978-2-917035-55-9
+} malpertuis45   _Jean-Pierre Andrevon        ?
+- .oF.    kN16   _POCHESCI Bruno              L'Amour, la mort et le reste ş2018
+!--- Postface Jean-Pierre Andrevon
+: .o .     N     _POCHESCI Bruno              Une vie ne suffit pas ş2015
+: .o .     N     _POCHESCI Bruno              Dehors il neige ş2015
+: .o .     N     _POCHESCI Bruno              Ceci n'est pas un paparazzi ş2016
+: .o .     N     _POCHESCI Bruno              L'Œle miroir ş2018
+: .o .     N     _POCHESCI Bruno              Surclassement ş2016
+: .o .     N     _POCHESCI Bruno              Zombie walk ş2016
+: .o .     N     _POCHESCI Bruno              In vinylo veritas ş2014
+: .o .     N     _POCHESCI Bruno              Dosta ! ş2016
+: .o .     N     _POCHESCI Bruno              Oh oui... ş2016
+: .o .     N     _POCHESCI Bruno              Quelque chose d'un ange ş2018
+: .o .     N     _POCHESCI Bruno              Jusqu'… tout recommencer ş2018
+: .o .     N     _POCHESCI Bruno              Farce occulte ş2018
+: .o .     N     _POCHESCI Bruno              Jamais plus ! ş2014
+: .o .     N     _POCHESCI Bruno              Sketches helv‚tiques ş2016
+: .o .     N     _POCHESCI Bruno              Le Dernier Jouir d'un condamn‚ ş2015
+: .oF.     N     _POCHESCI Bruno              Les Retournants ş2013
+o MALP_BR    46  2018.06 ..... ISBN 978-2-917035-57-3
+} malpertuis46   _Matthieu Seddas             ?
+- .oF.     A24   *BAUDURET Thomas             Malpertuis - IX ş2018
+: .o .     N     _CHARINE MarlŠne             Ceux qui reviennent ş2018
+: .o .     N     _MALOSSE Pascal              Erreur de classe ş2018
+: .o .     N     _BASTARD Myrtille            Ses jambes … son cou ş2018
+: .o .     N     _UNBEKANNT Artikel           Grav‚e dans le marbre ş2018
+: .o .     N     _DALAUDIER Guillaume         L'Œle de Mantoni ş2018
+: .o .     N     _BOULANGER Anthony           L'Oiseau dans les flammes ş2018
+: .o .     N     _DELAPORE                    La Proie pour l'ombre ş2018
+: .o .     N     _SERRANO Elodie              On ne vit qu'une fois ş2018
+: .o .     N     _MONS David                  La PassagŠre morte ş2018
+: .o .     N     _GUILLAUME Benjamin          Le Silence des animaux ş2018
+: .o .     N     _FIEROBE Fran‡ois            L'Homme qui vendit ses calculs biliaires au diable ş2018
+: .o .     N     _BEAUSSART Elodie            Le Vert-Couloir ş2018
+: .o .     N     _QUERBALEC Emilie            Ma berceuse ş2018
+: .o .     N     _COUDIERE B‚n‚dicte          Petite musique de nuit ş2018
+: .o .     N     _LATOUR Marie                (R‚)unis ş2018
+: .o .     N     _MARTIN Jason                Ayahuasca ş2018
+: .o .     N     _CARUSO Olivier              L'Oeil de la baleine ş2018
+: .o .     N     _LAFON Guillaume             Le Sous-Marin en acier noir ş2018
+: .o .     N     _NORDEN Sylwen               Tiarella ş2018
+: .o .     N     _DARRIET Fr‚d‚ric            Vitrail, mon beau vitrail ş2018
+: .o .     N     _CZILINDER Fr‚d‚ric          La Malle des Indes ş2018
+: .o .     N     _LASTRUCCI Fabio             Fonc‚, br–l‚, m‚lange arabica ş2018
+: .o .     N     _FOUREAU Quentin             Ventre-Marais ş2018
+: .o .     N     _COUTEAU St‚phanie           La duret‚ de l'hiver ş2018
+o MALP_BR    47  2018.09 ..... ISBN 978-2-917035-59-7
+} malpertuis47   _Sam van Olffen              ?
+- .oPF     R     _MANTESE Laurent             Le Rapport Oberlander ş2018
+o MALP_BR    48  2018.11 ..... ISBN 978-2-917035-64-1
+} malpertuis48   _Maxime Teppe                ?
+- .oF.     R     _MALOSSE Pascal              Les Fenˆtres de bronze ş2018
+!------------------------
+!=== 2019
+!------------------------
+o MALP_BR    49  2019.05 ..... ISBN 978-2-917035-66-5
+} malpertuis49   _Krystal Camprubi            ?
+- .oF.     A24   *BAUDURET Thomas             Malpertuis - X ş2019
+: .o .     N     _NORDEN Sylwen               La Route du continent ş2019
+: .o .     N     _KIFFER Kevin                Ma vie n'est qu'un souffle et un peu de vent ş2019
+: .o .     N     _ROBERT Catherine            Recherche corps d‚sesp‚r‚ment ş2019
+: .o .     N     _BOISSIERE Marie             Bip Beeeep ş2019
+: .o .     N     _VANHEL Antoine              La Petite Musique du sable ş2019
+: .o .     N     _JARRIGE Olivier             Un ange passe, … peu prŠs ş2019
+: .o .     N     _DELPORTE Emmanuel           Un fant“me … l'aube ş2019
+: .o .     N     _CHARINE MarlŠne             Le Jour du marchand de sable ş2019
+: .o .     N     _COURTEILLE St‚phanie        Dans mon frigo, j'ai mis une poup‚e ş2019
+: .o .     N     _FALVO Marc                  Une livre de chair ş2019
+: .o .     N     _DUPIN Sylvie                La Toupie folle ş2019
+: .o .     N     _SICK Nicolas                Black Dog ş2019
+: .o .     N     _SERRANO Elodie              Au coeur du v‚g‚tal ş2019
+: .o .     N     _FLEURY Xavier-Marc          Collision sur la d‚partementale cinquante-neuf ş2019
+: .o .     N     _LAFON C‚line                La Chasse aux hirondelles ş2019
+: .o .     N     _MALOSSE Pascal              L'Assembl‚e ş2019
+: .o .     N     _PEYTOUREAU Anzala           Le Th‚ƒtre de la ruelle Murr ş2019
+: .o .     N     _COUDIERE B‚n‚dicte          A l'encre de mes souvenirs ş2019
+: .o .     N     _FOCANT LE MERCOEUR Fran‡ois Les Eaux crues ş2019
+: .o .     N     _BAYLE L‚a                   Le RŠgne v‚g‚tal ş2019
+: .o .     N     _LATOUR Marie                Jusqu'… la mort ş2019
+: .o .     N     _BLINEAU Caroline            H‚cate ş2019
+: .o .     N     _SALLES Audrey               Histoire d'eau ş2019
+o MALP_BR    50  2019.05 ..... ISBN 978-2-917035-68-9
+} malpertuis50   _David Verba                 ?
+- .oTF     R     _FLORENTZ Bernard            N'aie plus peur ş2019
+o MALP_BR    51  2019.09 ..... ISBN 978-2-917035-70-2
+} malpertuis51   _Afif K.                     ?
+- .oF.     N12   _ANDREVON Jean-Pierre        Le Jour des morts ş2019
+: .o .     N     _ANDREVON Jean-Pierre        Le CimetiŠre de Rocheberne ş1982
+: .o .     N     _ANDREVON Jean-Pierre        Le Portrait de Marianne ş1999
+: .o .     N     _ANDREVON Jean-Pierre        Des vacances gratuites ş2008
+: .o .     N     _ANDREVON Jean-Pierre        Gardiens ş2006
+: .o .     N     _ANDREVON Jean-Pierre        L'Inconnue du cinquiŠme ş1982
+!--- La Jeune Morte du cinquiŠme ?
+: .o .     N     _ANDREVON Jean-Pierre        Je rentre chez moi ş1996
+: .o .     N     _ANDREVON Jean-Pierre        Si nombreux ! ş2000
+: .o .     N     _ANDREVON Jean-Pierre        Une enfant perdue ş1991
+: .o .     N     _ANDREVON Jean-Pierre        Le G‚ant du froid ş1971
+: .o .     N     _ANDREVON Jean-Pierre        PoussiŠre ş2013
+: .o .     N     _ANDREVON Jean-Pierre        Il suffit d'un rien ş2001
+: .o .     r     _ANDREVON Jean-Pierre        Le Jour des morts ş2003
+!------------------------
+!=== 2020
+!------------------------
+o MALP_AB    53  2020.05 ..... ISBN 978-2-917035-74-0
+} malpertuis53   _Jean-Michel Nicollet        ?
+!--- GF - 15,6 x 23,4 cm - 272 pages - 19.90 euros
+- .oF.    kC24   _MANTESE Laurent             Les Nouveaux Contes du whisky ş2020
+: .o .     p     _MANTESE Laurent             Mise en garde ş2020
+: .o .     N     _MANTESE Laurent             Prologue ş2020
+: .o .     N     _MANTESE Laurent             Satan … l'Osterdook ş2020
+: .o .     N     _MANTESE Laurent             Le Noir Enfer des jours ş2020
+: .o .     N     _MANTESE Laurent             John Calunod ş2020
+: .o .     N     _MANTESE Laurent             Le Manuscrit d'Absalom ş2020
+: .o .     N     _MANTESE Laurent             Dieu … Blue Anchor Yard ş2020
+: .o .     N     _MANTESE Laurent             Le Dompteur d'araign‚es ş2020
+: .o .     N     _MANTESE Laurent             Un verre de Black Bowmore, monsieur le commissaire ? ş2020
+: .o .     N     _MANTESE Laurent             Vadek von der Goltz, le grand, l'infƒme ş2020
+: .o .     N     _MANTESE Laurent             Le Tueur de phoques ş2020
+: .o .     N     _MANTESE Laurent             Le Calvaire de maŒtre Apfelbaum ş2020
+: .o .     N     _MANTESE Laurent             Single pot still ş2020
+: .o .     N     _MANTESE Laurent             Benjamin Neuville ş2020
+: .o .     N     _MANTESE Laurent             Douce petite sirŠne endormie ş2020
+: .o .     N     _MANTESE Laurent             Du sang sur la neige ş2020
+: .o .     N     _MANTESE Laurent             Le soleil des ‚vidences ş2020
+: .o .     N     _MANTESE Laurent             Le Crakou ! ş2020
+: .o .     N     _MANTESE Laurent             Gorgoi ş2020
+: .o .     N     _MANTESE Laurent             Le Plaisir de caresser le tigre ş2020
+: .o .     N     _MANTESE Laurent             Le Bruit des dents ş2020
+: .o .     N     _MANTESE Laurent             Rapport sur Raymond Jean Marie De Kremer ş2020
+: .o .     N     _MANTESE Laurent             Blended Malt ş2020
+: .o .     N     _MANTESE Laurent             Sherry monster ş2020
+: .o .     N     _MANTESE Laurent             Epilogue ş2020
+o MALP_BR    54  2020.06 ..... ISBN 978-2-917035-76-4
+} malpertuis54   _Mathieu Seddas              ?
+!--- GF - 15,6 x 23,4 cm - 202 pages - 14.90 euros
+- .oF.     N20   _MALOSSE Pascal              Soleil trompeur ş2020
+: .oF.     N     _MALOSSE Pascal              Le Chantier ş2020
+: .oF.     N     _MALOSSE Pascal              L'Œle morte ş2020
+: .oF.     N     _MALOSSE Pascal              La Fuite ş2015
+: .oF.     N     _MALOSSE Pascal              L'AbŒme ş2020
+: .oF.     N     _MALOSSE Pascal              L'Assembl‚e ş2019
+: .oF.     N     _MALOSSE Pascal              Souvenir d'enfance ş2020
+: .oF.     N     _MALOSSE Pascal              Erreur de classe ş2020
+: .oF.     N     _MALOSSE Pascal              Les Fantoches ş2020
+: .oF.     N     _MALOSSE Pascal              Jusqu'… la source ş2020
+: .oF.     N     _MALOSSE Pascal              La Folie d'H‚raclŠs ş2020
+: .oF.     N     _MALOSSE Pascal              La Cath‚drale ş2020
+: .oF.     N     _MALOSSE Pascal              La Musique de la montagne ş2020
+: .oF.     N     _MALOSSE Pascal              L'Arme du crime ş2020
+: .oF.     N     _MALOSSE Pascal              La Portraitiste ş2020
+: .oF.     N     _MALOSSE Pascal              Le Jeu ş2020
+: .oF.     N     _MALOSSE Pascal              Meurtre en chambre ş2020
+: .oF.     N     _MALOSSE Pascal              L'Enterrement ş2020
+: .oF.     N     _MALOSSE Pascal              Le Rˆve du botaniste ş2018
+: .oF.     N     _MALOSSE Pascal              Rˆve sans issue ş2020
+: .oF.     N     _MALOSSE Pascal              Voyage organis‚ ş2020
+o MALP_BR    55  2020.07 ..... ISBN 978-2-917035-78-8
+} malpertuis55   _Bastien Bertine             ?
+!--- GF - 15,6 x 23,4 cm - 80 pages - 5.90 euros
+- .oF.    kN5    _CARPENTIER Francis          Mission … Bruxelles ş2020
+: .o .     N     _CARPENTIER Francis          Mission … Bruxelles ş2020
+: .o .     N     _CARPENTIER Francis          Peplum-pudding ş2020
+: .o .     N     _CARPENTIER Francis          R‚ing‚nierie ş2020
+: .o .     N     _CARPENTIER Francis          Arboricoliques ş2020
+: .o .     N     _CARPENTIER Francis          La Tour K ş2020
+o MALP_BR    57  2020.09 ..... ISBN 978-2-917035-82-5
+} malpertuis57   _Claude Mamier               ?
+!--- GF - 15,6 x 23,4 cm - 134 pages - 9.90 euros
+- .oF.    kN14   _MAMIER Claude               Failles ş2020
+!--- TBC sous-titre : - Il ‚tait une derniŠre fois et autres histoires de failles
+: .o .     N     _MAMIER Claude               Flammes de nos coeurs fatigu‚s ş2020
+: .o .     N     _MAMIER Claude               Les Fonctions remarquables ş2020
+: .o .     N     _MAMIER Claude               Carrousel ş2020
+: .o .     N     _MAMIER Claude               Bout de charbon ş2020
+: .o .     N     _MAMIER Claude               La DerniŠre Valse des morts … roulettes ş2020
+: .o .     N     _MAMIER Claude               Des vies mal pli‚es ş2020
+: .o .     N     _MAMIER Claude               Celui qui ne savait pas faire face ş2020
+: .o .     N     _MAMIER Claude               Le Camion blanc ş2020
+: .o .     N     _MAMIER Claude               Ils mirent la route sous leurs pas et marchŠrent, marchŠrent ş2020
+: .o .     N     _MAMIER Claude               Exil volontaire au fond du jardin ş2020
+: .o .     N     _MAMIER Claude               La balle n'est pas arriv‚e, mais Bob Dylan est mort ş2020
+: .o .     N     _MAMIER Claude               Le Chat … la fenˆtre ş2020
+: .o .     N     _MAMIER Claude               L'espoir du crocodile ş2020
+: .o .     N     _MAMIER Claude               Il ‚tait une derniŠre fois ş2020
+o MALP_BR    58  2020.09 ..... ISBN 978-2-917035-84-9
+} malpertuis58   _Bruno Pochesci              ?
+!--- GF - 15,6 x 23,4 cm - 280 pages - 16 euros
+- .oF.    kA12   _POCHESCI Bruno              De la chair … horloge ş2020
+: .o .     N     _POCHESCI Bruno              Mondo zombie ş2014
+: .o .     N     _POCHESCI Bruno              Ronronnements infernaux ş2016
+: .o .     N     _POCHESCI Bruno              Cadenas d'amour ş2016
+: .o .     N     _POCHESCI Bruno              De la chair … horloge ş2017
+: .o .     N     _POCHESCI Bruno              Le Grand Trognon ş2017
+: .o .     N     _POCHESCI Bruno              L'Escalator ş2020
+: .o .     N     _POCHESCI Bruno              Tˆtes de gondoles ş2017
+: .o .     N     _POCHESCI Bruno              Trabant mater ş2017
+: .o .     N     _POCHESCI Bruno              L'Exil d'Arik ş2020
+: .o .     N     _POCHESCI Bruno              Verflucht sei der Krieg ş2018
+: .o .     N     _POCHESCI Bruno              Zombies en Beaujolais ş2019
+: .o .     N     _POCHESCI Bruno              La Porte des ‚l‚phants ş2018
+o MALP_BR    56  2020.10 ..... ISBN 978-2-917035-80-1
+} malpertuis56   _Cindy Can‚vet               ?
+!--- 15,6 x 23,4 cm - 288 pages - 16 euros
+- .oF.    iA26   *BAUDURET Thomas             Malpertuis - XI ş2020
+: .o .     N     _SERRANO Elodie              Biscotte ş2020
+: .o .     N     _LEMURI Dominique            La Crocheteuse ş2020
+: .o .     N     _BLINEAU Caroline            Jamais plus ş2020
+o MALP_BR    59  2020.12 ..... ISBN 978-2-917035-86-3
+} malpertuis59   _Philippe Jozelon            ?
+!--- GF - 156 x 234 mm - 220 pages - 14,90 euros
+- .oF.    iN17   _LATOUR Marie                Des rives enfantines ş2020
+: .o .     N     _LATOUR Marie                Le Chat de Schr”dinger ş2015
+: .o .     N     _LATOUR Marie                Au nom de la mŠre ş2015
+: .o .     N     _LATOUR Marie                Echec et mat ş2020
+: .o .     N     _LATOUR Marie                Grand-pŠre ş2016
+: .o .     N     _LATOUR Marie                A‹da ş2016
+: .o .     N     _LATOUR Marie                La Maison de papier ş2017
+: .o .     N     _LATOUR Marie                Harlem Ghetto ş2020
+: .o .     N     _LATOUR Marie                L'Absence ş2018
+: .o .     N     _LATOUR Marie                Tuer la mŠre ş2018
+: .o .     N     _LATOUR Marie                (R‚)unis ş2018
+: .o .     N     _LATOUR Marie                Berlin rouge ş2020
+! .o .     N     _LATOUR Marie                ? ş2020
+: .o .     N     _LATOUR Marie                L'Ombre furieuse ş2020
+: .o .     N     _LATOUR Marie                Domus Corpus ş2020
+: .o .     N     _LATOUR Marie                Humain, trop humain ş2020
+: .o .     N     _LATOUR Marie                Nostalgie ş2020
+: .o .     N     _LATOUR Marie                Mea Culpa ş2016
+
+
+

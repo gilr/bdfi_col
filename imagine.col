@@ -1,0 +1,797 @@
+!-----------------------------------------------------------------------------
+!---                IMAGINE 
+!--- Imagine..., revue canadienne cr‚‚e en 1979 par JM GOUANVIC
+!--- Revue trimestrielle, bimestrielle … partir du num‚ro 17
+!---
+!---     001 002 003 004 005 006 007 008 009
+!--- 010 011 012 013 --- 015 016 017 --- 019
+!--- 020 021 022 023 024 025 026 027 028 029
+!--- 030 031 032 033 034 035 036 037 038 039
+!--- 040 041 042 043 044 045 046 047 048 049
+!--- 050 051 052 053 054 055 056 057 058 059
+!--- 060 061 062 063 064 065 066 067 068 069
+!--- 070 071 072 073 074 075 076 077 078 079
+!--- 080 081 082 083 084 085 086 087 088 089
+!--- 090 091 092 093 094 095 096 097 098 099
+!--- 100 101 102 103 104 105 106 107 108 109
+!---
+!--- Volume IV : 14 … 17
+!--- Volume V  : 18 … ...
+!---
+!--- R‚dacteur  en chef : GOUANVIC Jean-Marc du ... 14 au 17
+!--- R‚dactrice en chef : Catherine SAOUTER CAYA … partir du 18
+!---
+!-----------------------------------------------------------------------------
+!-----------------------------------------------------------------------------
+_ IMAG    Revue Imagine...
+_ IMAA    Imagine..., num‚ro sp‚cial hors s‚rie
+!-----------------------------------------------------------------------------
+
+o IMAA       15  1994.04 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Ax    ****                         D‚collages ş1994
+!--- [Titre de la couv. Publ. comme no sp‚cial hors s‚rie, v. 15, avril 1994 de la revue Imagine] Une vingtaine d'auteurs et autant de dessinateurs-illustrateurs ont ‚t‚ sollicit‚s. Cela donne des textes inspir‚s des images et parfois le contraire. [Yvon Allard]
+: .o .     N     _BELIL Michel                Les Cornes d'abondance ş1994
+: .o .     N     _CHAMPETIER Jo‰l             Esclaves du sable ş1994
+: .o .     N     _COTE Harold                 Les Pourvoyeurs de paradis ş1994
+: .o .     N     _DELAGRAVE Eric              Anatomie ş1994
+: .o .     N     _DESY Jean                   Lysianne ş1994
+: .o .     N     _DION Robert                 Sous l'oeil d'un dieu envahissant ş1994
+: .o .     N     _FRIGERIO Victor             Les Ann‚es d'oubli ş1994
+: .o .     N     _LAMONTAGNE Michel           Le Coffre ş1994
+: .o .     N     _LEMAIRE Marie-Claire        Aire de repos ş1994
+: .o .     N     _LEROUX H‚lŠne               Le Fant“me du casino ş1994
+: .o .     N     _LORD Denis                  La Grande Noirceur ş1994
+: .o .     N     _MARCEL Jean                 Le Rommant du pet au diable que fit MaŒtre Fran‡oys et le l‚ga … son plus-que-pŠre Guillaume de Villon ş1994
+: .o .     N     _MARCOTTE Denis              Le Cycle du temps ş1994
+: .o .     N     _McALLISTER Laurent          L'Arbre qui plantait des hommes ş1994
+: .o .     N     _MEYNARD Yves                L'Envoy‚ ş1994
+: .o .     N     _MEYNARD Yves                L'Arbre qui plantait des hommes ş1994
+: .o .     N     _MILLET Pascal               Dernier compte rendu t‚l‚pathique avant l'errance absolue ş1994
+: .o .     N     _PELLETIER Francine          Les Jours de l'ombre ş1994
+: .o .     N     _RENAUD Alix                 La Quˆte ş1994
+: .o .     N     _SERNINE Daniel              Songes d'une nuit sous le monde ş1994
+: .o .     N     _TRUDEL Jean-Louis           Entre la nuit et l'illusion ş1994
+
+!-----------------------------------------------------------------------------
+!---  Canadiens :
+!-- AMPRIMOZ, APRIL, AUBIN, BARCELO, BEAUMIER, BELIL, BER, BERGERON
+!-- BERTHIAUME, BOUCHARD, BOURNEUF, BRETON, BROUILLETTE, CAILYAN, CARPENTIER
+!-- CHAMPAGNE, CHAMPETIER, CHOLETTE, CLOUTIER, CORBEIL, COTE, D'ASTOUS, DELISLE
+!-- DE SEVE, DICK, DIGNARD, DION, DOUCET, FERGUSON, FRIGERIO
+!-- GAUDEEAU, GRUDZIEN, GUITARD, HEBERT, KUGLER, LAPOINTE, LEGARE, LEMIEUX
+!-- LE NAVEAUSSE, LEPAGE, MARCHILDON, MARTIN, MEYNARD, MONARQUE, NOWAK,
+!-- O'NEIL, PELCHAT, PELLERIN, PETTIGREW, PERROT-BISHOP, PREVOST, ROCHON
+!-- SAUVE, SERDAN, SERNINE, SOMCYNSKY, SORMANY, SEVIGNE, THERIAULT, TOULOUSE
+!-- TROGNEE, TRUDEL, VANASSE, VEILLEUX, VERREAULT, VONARBURG
+!---  Europe :
+!-- BARBERI, BATTESTINI, BECKER, BOIREAU, BORDIER, CANAL, CASTELLI, DARTEVELLE
+!-- DE MELO (portugais), DI ROLLO, DUNYACH, FAYART, FERNANDEZ, FREMION,
+!-- GOUESBET, ISS, LAMART, LAINE, LECIGNE, MARLSON, PELE, PLANQUE, RAVEAU, VOLODINE
+!-----------------------------------------------------------------------------
+!-----------------------------------------------------------------------------
+_ IM01    <b>in</b> Imagine (Canada) nø 1, 2, 3 et 4
+o IM01        ?  1980.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _ROCHON Esther               L'puisement du soleil ş1980
+!-----------------------------------------------------------------------------
+_ IM02    <b>in</b> Imagine (Canada) nø 29, 30, 32, 35, 36, 37, 40 et 41
+o IM02        ?  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _TRUDEL Jean-Louis           Le Ressuscit‚ de l'Atlantide ş1987
+!-----------------------------------------------------------------------------
+_ IM03    <b>in</b> Imagine (Canada) nø 48, 49, 51 et 52
+o IM03        ?  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _FRIGERIO Victor             Les DerniŠres Heures ş1990
+!-----------------------------------------------------------------------------
+_ IM04    <b>in</b> Imagine (Canada) nø 55, 56, 57 et 58
+o IM04        ?  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _CORBEIL Pierre              La Concession ş1991
+!-----------------------------------------------------------------------------
+_ IM05    <b>in</b> Imagine (Canada) nø 64, 65, 66 et 67
+o IM05        ?  1994.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _TREMBLAY Danielle           Pas de paradis sans... l'enfer ş1994
+!-----------------------------------------------------------------------------
+
+o IMAG        1  1979.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M3    ****                         Imagine... 1 ş1979
+: .o .     N     _LE NAVEAUSSE Marc           Quelque part, l'orbe vert ş1979
+) .o .     N     _ROCHON Esther               L'puisement du soleil - 1 ş1979
+: .o .     N     _SAUVE Claudomir             Le Simulateur transchronique ş1979
+o IMAG        2  1980.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M4    ****                         Imagine... 2 ş1980
+: .o .     N     _AMPRIMOZ Alexandre L.       Le Meurtre d'une id‚e ş1980
+: .o .     N     _APRIL Jean-Pierre           Le Miracle de No‰l ş1980
+: .o .     N     _BRETON BenoŒt               L'trange M‚canique de monsieur mortel ş1980
+) .o .     N     _ROCHON Esther               L'puisement du soleil - 2 ş1980
+o IMAG        3  1980.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M6    ****                         Imagine... 3 ş1980
+: .o .     N     _AMPRIMOZ Alexandre L.       Vouloir ˆtre un insecte ş1980
+!--- TBC : Vouloir ˆtre insecte
+: .o .     N     _APRIL Jean-Pierre           Le Vol de la ville ş1980
+: .o .     N     _BELIL Michel                L'Angle parfait de Franco Bollo ş1980
+: .o .     N     _BELIL Michel                Le Dernier Personnage ş1980
+: .o .     N     _FERGUSON Jean               Lettre au sujet d'un cas de d‚lire sur Amas II ş1980
+) .o .     N     _ROCHON Esther               L'puisement du soleil - 3 ş1980
+o IMAG        4  1980.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M4    ****                         Imagine... 4 ş1980
+: .o .     N     _MELO Romeu de               L'trange Sacrifice de Jos‚ Olimpio ş1970 O Estranho Caso de Jos‚ Olimpio şTrad. SERRANO Marie-Jos‚
+: .o .     N     _LE NAVEAUSSE Marc           Elle ş1980
+) .o .     N     _ROCHON Esther               L'puisement du soleil - 4 ş1980
+: .o .     N     _SAUVE Claudomir             Ph…hopfs pfhs ş1980
+o IMAG        5  1981.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M2    ****                         Imagine... 5 ş1981
+: .o .     N     _BELIL Michel                Le No‰llier ş1981
+: .o .     N     _PELCHAT Jean                Sacr‚ printemps (En route pour M-33) ş1981
+o IMAG        6  1981.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M3    ****                         Imagine... 6 ş1981
+: .o .     N     _AMPRIMOZ Alexandre L.       Le Grand D‚part ş1981
+: .o .     N     _DICK Wenceslas-EugŠne       Une histoire de loup-garou ş1879
+: .o .     N     _GAUDREAU Claude             La route est longue jusqu'… Rome quand on doit passer par Ald‚baran ş1981
+o IMAG        7  1981.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M3    ****                         Imagine... 7 ş1981
+: .o .     N     _APRIL Jean-Pierre           Le Fant“me du forum ş1981
+: .o .     N     _PELCHAT Jean                Paysages finals ş1981
+: .o .     N     _PELCHAT Jean                Plat de terre ş1981
+o IMAG        8/ 1981.xx ..... ISBN .-.....-...-.
+/             9 
+} noimg          _?                           ?
+- .o .     M4    ****                         Imagine... 8-9 ş1981
+: .o .     N     _AUBIN Napol‚on              Mon voyage … la lune ş1839
+: .o .     X     _BELIL Michel                La Machine … boules ş1981
+: .o .     N     _PETTIGREW Jean              D'un procŠs consid‚r‚ comme une bande de Moebius ş1981
+: .o .     N     _ROCHON Esther               Le Labyrinthe ş1981
+o IMAG       10  1981.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M10   ****                         Imagine... 10 - Sp‚cial Le Nord ş1981
+: .o .     N     _AMPRIMOZ Alexandre L.       Contre le nord, contre les Canodo‹des ş1981
+: .o .     N     _APRIL Jean-Pierre           K‚beK‚leKtriK ş1981
+: .o .     N     _BARCELO Fran‡ois            Ecrivains XXIII ş1981
+: .o .     N     _BELIL Michel                La Maison aux quatre saisons ş1981
+: .o .     N     _GAUDREAU Claude             Contact ş1981
+: .o .     N     _LEGARE Huguette             Les Trains-Bulle de janvier ş1981
+: .o .     N     _PELCHAT Jean                La Goutte glac‚e dans l'eau de Paule ş1981
+: .o .     N     _PETTIGREW Jean              Fragments d'une interf‚rence : la maison close sur le nord ş1981
+: .o .     N     _SAUVE Claudomir             Blitz de blizzard ş1981
+: .o .     N     _SOMCYNSKY Jean-Fran‡ois     Histoire d'un voyage inutile ş1981
+o IMAG       11  1982.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M1    ****                         Imagine... 11 - BD et illustration ş1982
+: .o .     N     _MARTIN Michel               Vingt sommes ş1982
+o IMAG       12  1982.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M6    ****                         Imagine... 12 - Sp‚cial SF Fran‡aise ş1982
+: .o .     N     _BERGERON Bertrand           Auto sport de grand luxe ş1982
+: .o .     N     _CARPENTIER Andr‚            La SeptiŠme Plaie du siŠcle ş1982
+: .o .     N     _DELISLE Michael             Bizarre ş1982
+!--- TBC : Michel ?
+: .o .     N     _DIGNARD Gilles              DX, alias DX^38 (2 x 10^27) ş1982
+: .o .     N     _MONARQUE Christiane         Laps ş1982
+: .o .     N     _PLANQUE Jean-Pierre         L'Oeuvre des gisants ş1982
+o IMAG       13  1982.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M4    ****                         Imagine... 13 - Sp‚cial SF fran‡aise (Juin 1982) ş1982
+: .o .     N     _BATTESTINI Monique          La Fˆte du troisiŠme ƒge ş1982
+: .o .     N     _BOIREAU Jacques             L'Abordage du grand vaisseau ş1982
+: .o .     N     _FERNANDEZ Danielle          Comme si quelqu'un d'autre, … sa place... ş1982
+: .o .     N     _GOUESBET G‚rard             Fr‚mis, “ relativit‚ g‚n‚rale, la quantification te pollue... ou MIND THE BLACK HOLE ! ş1982
+o IMAG       14  1982.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M4    ****                         Imagine... 14 - Sp‚cial uchronie ş1982
+!--- (Vol. IV, nø 1) Automne 1982
+: .o .     N     _APRIL Jean-Pierre           Canadian Dream ş1982
+!--- Qu‚bec Uchronique, article de Jean-Marc Gouanvic
+!--- Uchronie, histoire alternative et Science-fiction (d‚bat)
+: .o .     a     _BOIREAU Jacques             La Machine … ralentir le temps ş1982
+: .o .     a     _LE BRUN Claire              Les Chansons de geste : la tentation de l'uchronie au moyen ƒge ş1982
+: .o .     a     _BRIE Marc-Andr‚             Quelques repŠres pour une bibliographie de l'uchronie ş?
+: .o .     a     _PELCHAT Jean                Pour une renaissance alternative ş1982
+: .o .     N     _CHOLETTE Mario              Autoroutes int‚rieures ş1982
+: .o .     N     _SOMCYNSKY Jean-Fran‡ois     La Desconocida ş1982
+: .o .     N     _CAILYAN Adrien              La Route des cyanophyc‚es ş1982
+!--- BD : trajet texte Alain Caya, dessin Catherine Saouter Caya
+: .o .     a     _GOUANVIC Jean-Marc          La Science-Fiction, une politique de l'alt‚rit‚ ş1982
+: .o .     a     _LE BRUN Claire              Le Complot Ordrien : l'utopie menac‚e (SF/jeunesse) ş?
+!--- + Chronique: A l'est du Qu‚bec : les parutions fran‡aises du trimestre (6-7), de St‚phane Nicot
+!--- + article : Autopsie d'hurlants auteurs m‚talliques, de Catherine Saouter Caya
+!--- + article : Cin‚ma/SF : bons sentiments et mauvais gar‡ons
+!--- + chronique : petit journal trouv‚ dans l'ailleurs (5), de Jean Pettigrew
+!--- + BD Zolt, de Raymond Dupuis
+!--- + lectures et propos (critiques)
+o IMAG       15  1982.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M1    ****                         Imagine... 15 - Images de la SF qu‚b‚coise (hiver 1982) ş1982
+?: .o .     .     _BERGERON Bertrand          &Voici, reproduites int‚gralement... ş?
+?&                _PERET Danielle          
+?: .o .     .     _CHEYNEY Christiane          Figuration, abstraction ş?
+?: .o .     .     _ALLEN Dan                   Le Suicide ş?
+: .o .     N     _GUITARD AgnŠs               Les Virus-Ambiance ş1982
+o IMAG       16  1983.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M27   ****                         Imagine... 16 - Sp‚cial textes brefs ş1983
+: .o .     N     _APRIL Jean-Pierre           Les Premiers Mutemps ş1983
+: .o .     N     _APRIL Jean-Pierre          &GenŠse de l'immonde ş1983
+&                _PELCHAT Jean                
+: .o .     N     _BEAUMIER Jean-Paul          Sans quartier ş1983
+: .o .     N     _BECKER Marcel               La Puce … Maupassant ş1983
+: .o .     N     _BELIL Michel                A l'abri du temps ş1983
+: .o .     N     _BERTHIAUME Andr‚            L'Ascenseur ş1983
+: .o .     N     _BERTHIAUME Andr‚            Le Don d'ubiquit‚ ş1983
+: .o .     N     _BOURNEUF Roland             Sous les arbres ş1983
+: .o .     N     _CLOUTIER Georges-Henri      L'Andro‹de ş1983
+: .o .     N     _CLOUTIER Georges-Henri      Pendant sa visite ş1983
+: .o .     N     _CLOUTIER Georges-Henri      Cette masse... ş1983
+: .o .     N     _CLOUTIER Georges-Henri      Le Colonel Karr ş1983
+: .o .     N     _DOUCET Louis-Joseph         Lettre ‚crite de la lune ş1911
+: .o .     N     _GAUDREAU Claude             Drosera Rotundifolia ş1983
+: .o .     N     _GAUDREAU Claude             Sourire aux lŠvres et fleur … la boutonniŠre ş1983
+: .o .     N     _LEMIEUX Sylvain             Les extra-terrestres sont parmi nous ş1983
+: .o .     N     _LEMIEUX Sylvain             Un voyage de quelques milliers d'ann‚es ş1983
+: .o .     N     _PELCHAT Jean                Duel sur la planŠte Mix suivi de l'amour modul‚ ş1983
+: .o .     N     _PELCHAT Jean                Le Satellite ivre ş1983
+: .o .     N     _PELLERIN Gilles             Le Couteau et l'ordinateur ş1983
+: .o .     N     _PELLERIN Gilles             Ray Bradbury ş1983
+: .o .     N     _PELLERIN Gilles             Qu'est-ce qu'on mange pour souper ? ş1983
+: .o .     N     _PELLERIN Gilles             L'Amour courtois ş1983
+: .o .     N     _PELLERIN Gilles             Galileo Galilei ş1983
+: .o .     N     _PELLERIN Gilles             L'Homme invisible ş1983
+: .o .     N     _SAUVE Claudomir             Meaument ş1983
+: .o .     N     _TOULOUSE Michel             Enigme ş1983
+o IMAG       17  1983.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M6    ****                         Imagine... 17 - Sp‚cial SF & ‚rotisme - I ş1983
+!--- (Vol. IV, nø 4) Juin-juillet 83
+: .o .     N     _FAYARD Colette              Une travers‚e difficile ş1983
+: .o .     N     _APRIL Jean-Pierre           Trois nuits dans la vie d'un sous-homme ş1983
+!--- TBC : vies dans la nuit...
+: .o .     N     _CASTELLI LaurŠne           &Pictomorphose ş1983
+&                _LECIGNE Bruno               
+: .o .     X     _ROCHON Esther               Coquillage ş1983
+!--- extrait du roman de mˆme nom
+: .o .     N     _FERNANDEZ Danielle          Tu viendras, dis ? ş1983
+: .o .     N     _BELIL Michel                Travail de nuit : spectateur ş1983
+!--- + Echos de SFonie (2), de Michel B‚lil
+!--- + BD : Zolt, de Raymond Dupuis
+!--- + Chronique : BD et autres images (2), de Catherine Saouter Caya
+o IMAG       18  1983.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 18 - Sp‚cial SF & ‚rotisme - II ş1983
+!--- (Vol. V, nø 1) (Aout-sept. 83) ş1983
+: .o .     N     _FERNANDEZ Danielle          Les Aventures d'Op‚rata ş1983
+: .o .     N     _CAILYAN Adrien              La Boutique des sens ş1983
+!--- indiqu‚ CAYLIAN dans le sommaire
+: .o .     N     _SOMCYNSKY Jean-Fran‡ois     Un d‚tour dans la nuit ş1981
+: .o .     N     _THERIAULT Marie Jos‚        Santiago ş1983
+: .o .     N     _MARLSON Pierre              Isophobie exp‚rimentale ş1983
+!--- (note :) *Isophobie exp‚rimentale ou rapport sur une exp‚rience de ma‹eutique conflictuelle dans l'investiture r‚f‚rentielle d'une relation causale d‚phas‚e
+!--- + PortFolio de Paul Roux
+!--- + PlanŠte Qu‚bec, lectures de la SFQ (1) de Ga‰tan Godbout
+!--- + BD : Zolt, de Raymond Dupuis
+!--- + Chronique : Science-fiction/jeunesse - nouveaut‚s SF aux ‚ditions Paulines, de Claire Lebrun
+!--- + Chronique : BD et autres images (3), de Catherine Saouter Caya
+!--- + Echos de SFonie (3), de Michel B‚lil
+o IMAG       19  1984.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M2    ****                         Imagine... 19 ş1984
+: .o .     N     _BROUILLETTE Lise            Le MaŒtre des heures ş1984
+: .o .     N     _DICK Wenceslas-EugŠne       La Tˆte de Saint Jean-Baptiste ou L‚gende pour nos arriŠre-petits-neveux, en 1980 ş1880
+o IMAG       20  1984.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M3    ****                         Imagine... 20 (janvier 1984) ş1984
+!--- Avril 84
+: .o .     N     _LECIGNE Bruno              &Le Compagnon de l'op‚rateur William Gardfeu ş1984
+&                _VERNAY Jean-Pierre          
+: .o .     N     _PELLETIER Francine          La Travers‚e d'Algir ş1984
+: .o .     N     _GUITARD AgnŠs               Compost ş1984
+o IMAG       21  1984.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Imagine... 21 - Sp‚cial Imagitextes ş1984
+: .o .     N     _APRIL Jean-Pierre           N'ajustez pas vos hallucinettes ş1984
+: .o .     N     _BELIL Michel                La Grotte de Toubouctom ş1984
+: .o .     N     _BERGERON Bertrand           Jessica ş1984
+: .o .     N     _CARPENTIER Andr‚            Les Lign‚es du Grand Chien ş1984
+: .o .     N     _CHAMPETIER Jo‰l             Elle a soif ş1984
+: .o .     N     _LEMIEUX Sylvain             Tycho Brah‚ ş1984
+: .o .     P     _O'NEIL Jean                 Ecrilibrisme ş1984
+: .o .     P     _O'NEIL Jean                 Tempstation ş1984
+: .o .     P     _O'NEIL Jean                 Occulpassion ş1984
+: .o .     P     _O'NEIL Jean                 L'tourneau et le sansonnet ş1984
+: .o .     P     _O'NEIL Jean                 Appr‚histoire ş1984
+: .o .     N     _PELLERIN Gilles             Le Danger croŒt avec l'usage ş1984
+: .o .     N     _PELLERIN Gilles             Les Gares de la nuit ş1984
+: .o .     N     _PETTIGREW Jean              Les Hommes-Snoopy meurent tous comme les chŠvres du Bengale ş1984
+: .o .     N     _ROCHON Esther               L'Enclave ş1984
+: .o .     N     _SOMCYNSKY Jean-Fran‡ois     Un compagnon de jeu ş1984
+: .o .     r     _VONARBURG Elisabeth         One‹ros ş1984
+!--- TBC : ou Oneiros
+o IMAG       22  1984.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M0    ****                         Imagine... 22 - SF et fantastique au Qu‚bec (Actes du congrŠs Bor‚al 83) ş1984
+o IMAG       23  1984.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M4    ****                         Imagine... 23 (ao–t 1984) ş1984
+: .o .     N     _APRIL Jean-Pierre           Angel ş1984
+: .o .     N     _FERNANDEZ Danielle          L'Homme blond ş1984
+: .o .     N     _PERROT-BISHOP Annick        A l'aube de la m‚moire ş1984
+: .o .     N     _SEVIGNY Marc                Vue partielle de l'enfer ş1984
+o IMAG       24  1984.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Imagine... 24 ş1984
+: .o .     N     _BOUCHARD Guy                L'Ex‚cution ş1984
+: .o .     N     _LAMART Michel               Un vol de pierre [Un vol de pierre - 1] ş1984
+: .o .     N     _PELLETIER Francine          La VoliŠre ş1984
+: .o .     N     _TRUDEL Jean-Louis           Oeuvre de paix ş1984
+o IMAG       25  1984.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M0    ****                         Imagine... 25 - L'h‚ritage d'Orwell en 84 (UQUAM 84) ş1984
+o IMAG       26  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Imagine... 26 ş1985
+: .o .     N     _BOIREAU Jacques             La Forteresse ş1985
+: .o .     N     _CHAMPAGNE Louis             Les Hommes sph‚riques ş1949
+!--- premier titre des Aventures futuristes de deux savants canadiens fran‡ais
+: .o .     N     _NOWAK Merc‚dŠs              Troph‚es ş1985
+: .o .     N     _SERDAN Gilles               La Guerre propre ş1985
+o IMAG       27  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M15   ****                         Imagine... 27 - Sp‚cial pastiches (avril 1985) ş1985
+: .o .     N     _BELIL Michel                Le Caillou de Jos Violon ou sa derniŠre histoire de chantier (Pastiche de Louis Fr‚chette) ş1985
+: .o .     N     _PERROT-BISHOP Annick        La Main gant‚e (Pastiche de Guy de Maupassant) ş1985
+: .o .     N     _BOUCHARD Guy                L'Abominable (Pastiche de Lovecraft) ş1985
+: .o .     N     _SEVIGNY Marc                L'Aneth (Pastiche de Borges) ş1985
+: .o .     N     _PELLERIN Gilles             Cauchemar en brun (Pastiche de Fredric Brown) ş1985
+: .o .     N     _BERGERON Bertrand           Ruelles (Pastiche de Julio Cortazar) ş1985
+: .o .     N     _TRUDEL Jean-Louis           Le Maire (Pastiche de Isaac Asimov) ş1985
+: .o .     N     _LEMIEUX Sylvain             L'Arrache-Corps (Pastiche de Boris Vian) ş1985
+: .o .     N     _PELCHAT Jean                La Fascinante cafetiŠre (Pastiche de Robbe-Grillet) ş1985
+: .o .     N     _BECKER Marcel               Modeste contribution au Varorium de Joenes (Pastiche de Sheckley) ş1985
+: .o .     N     _PELLETIER Francine          Le Seuil d'Ashoran (Pastiche de Ursula Le Guin) ş1985
+: .o .     N     _FREMION Yves                Gonades urbaines (Pastiche de Silverberg) ş1985
+: .o .     N     _PETTIGREW Jean              Dernier baroud (Pastiche du Fleuve Noir) ş1985
+: .o .     N     _COTE Denis                  Le Chanteur Renaud vous parle (Pastiche de Renaud) ş1985
+: .o .     N     _APRIL Jean-Pierre           Les Croqueurs de carapaces (Pastiche de Serge Brussolo) ş1985
+o IMAG       28  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M0    ****                         Imagine... 28 - La BD a-t-elle atteint sa maturit‚ ? (UQAM 85) ş1985
+o IMAG       29  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M4    ****                         Imagine... 29 ş1985
+: .o .     N     _APRIL Jean-Pierre           La Survie en rose ş1985
+: .o .     N     _ROCHON Esther               La Double jonction des ailes ş1984
+: .o .     N     _SEVIGNY Marc                La Zone ş1985
+: .o .     N     _TRUDEL Jean-Louis           Le Ressuscit‚ de l'Atlantide [Le Ressuscit‚ de l'Atlantide - 1] ş1985
+o IMAG       30  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M7    ****                         Imagine... 30 - Sp‚cial SF francophone ş1985
+: .o .     N     _BOIREAU Jacques             La Trace ş1985
+: .o .     N     _DARTEVELLE Alain            D‚cŠs dans la cit‚ d'avenir ş1985
+: .o .     N     _DUNYACH Jean-Claude         Projection priv‚e ş1985
+: .o .     N     _FAYARD Colette              L'Enfance d'Icare ş1985
+: .o .     N     _ISS Raymond                 Le Rat ş1985
+: .o .     N     _TRUDEL Jean-Louis           Le MaŒtre du pass‚ [Le Ressuscit‚ de l'Atlantide - 2] ş1985
+: .o .     N     _VOLODINE Antoine            D‚grisement de la minuit ş1985
+o IMAG       31  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M0    ****                         Imagine... 31 - Regards : Utopie et Dystopie ş1985
+o IMAG       32  1985.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M8    ****                         Imagine... 32 - Sp‚cial nouvelles radiophoniques ş1985
+: .o .     N     _BARBERI Jacques             Immeuble de passage ş1985
+: .o .     N     _DELISLE Michael             Donne-moi un whisky ş1985
+: .o .     N     _HEBERT Louis-Philippe       L'Antiquaire des ann‚es 2020 ş1985
+: .o .     N     _LEGARE Huguette             Histoire d'un ‚trange sel marin ş1985
+: .o .     N     _SOMCYNSKY Jean-Fran‡ois     Omega 8 est amoureux ş1985
+: .o .     N     _TRUDEL Jean-Louis           Le Policier [Le Ressuscit‚ de l'Atlantide - 3] ş1985
+: .o .     N     _VANASSE Andr‚               D‚rive en Amazonie ş1985
+: .o .     N     _VERREAULT Sabine            Le Dormeur dans le cristal ş1985
+o IMAG       33/ 1986.xx ..... ISBN .-.....-...-.
+/            34 
+} noimg          _?                           ?
+- .o .     M1    ****                         Imagine... 33-34 - Sp‚cial histoires en images ş1986
+: .o .     N     _VONARBURG Elisabeth         La R‚v‚lation ş1986
+o IMAG       35  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M6    ****                         Imagine... 35 (aout 1986) ş1986
+: .o .     N     _CORBEIL Pierre              L'Arme absolue ş1986
+: .o .     N     _GRUDZIEN Guy                Harold et ChimŠne Roman d'Amour ş1986
+: .o .     N     _LAINE Sylvie                Carte blanche ş1986
+: .o .     N     _NOWAK Merc‚dŠs              Mariage mixte ş1986
+: .o .     N     _TRUDEL Jean-Louis           Le MaŒtre des esprits [Le Ressuscit‚ de l'Atlantide - 4] ş1986
+: .o .     N     _VERREAULT Sabine            Ailleurs et au Japon ş1986
+o IMAG       36  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M7    ****                         Imagine... 36 (octobre 1986) ş1986
+: .o .     N     _BOUCHARD Guy                C.U. Rieux ş1986
+: .o .     N     _CANAL Richard               Le Sentier de la d‚solation ş1986
+: .o .     N     _COTE Denis                  BoŒte crƒnienne ş1986
+: .o .     N     _FAYARD Colette              Les Fleurs de l'abŒme ş1986
+: .o .     N     _KUGLER Marianne             Le Cerveau de la pomme ş1986
+: .o .     N     _PERROT-BISHOP Annick        L'Ourlandine ş1986
+: .o .     N     _TRUDEL Jean-Louis           Le Fugitif [Le Ressuscit‚ de l'Atlantide - 5] ş1986
+o IMAG       37  1986.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M10   ****                         Imagine... 37 ş1986
+: .o .     N     _BER Andr‚                  &Le Bonheur s'ennuie ş1986
+&                _BER Yves                    
+: .o .     N     _BERGERON Bertrand           La Vie du faubourg ş1986
+!--- TBC : ... de faubourg
+: .o .     N     _BOIREAU Jacques             La Route ş1986
+: .o .     N     _CARPENTIER Amanda           Le jour du laurier-rose, les invit‚s vinrent nombreux ş1986
+: .o .     N     _FRIGERIO Victor             Au bout de la rue ş1986
+: .o .     N     _LAMART Michel               Marottes ş1986
+: .o .     N     _LAPOINTE Pascal             En l'an mil cent d‚cante huit... ş1986
+: .o .     N     _LEPAGE Gilles               Soleil de glace ş1986
+: .o .     N     _MARCHILDON Daniel           L'Orphelin ş1986
+: .o .     N     _TRUDEL Jean-Louis           Le Ressuscit‚ de l'h“pital [Le Ressuscit‚ de l'Atlantide - 6] ş1986
+o IMAG       38  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M1    ****                         Imagine... 38 - Regards ş1987
+: .o .     N     _BLACKBURN Esther            L'Initiateur et les ‚trangers ş1964
+o IMAG       39  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M11   ****                         Imagine... 39 - Sp‚cial SF jeunesse ş1987
+: .o .     N     _BELIL Michel                Le Perrobot de ma voisine ş1987
+: .o .     N     _BERGERON Bertrand           Courir ş1987
+: .o .     N     _BOIREAU Jacques             Le Retour de Perno‰l ş1987
+: .o .     N     _BOUCHARD Guy                La Montre ş1987
+: .o .     N     _COTE Denis                  La Machine … ‚crire ş1987
+: .o .     N     _FERNANDEZ Danielle          Petit-robot ş1987
+: .o .     N     _LAMART Michel               Abel arbre ş1987
+: .o .     N     _PELLETIER Francine          Cher ancˆtre ş1987
+: .o .     N     _ROCHON Esther               Par-dessus la tˆte ş1987
+: .o .     N     _SERNINE Daniel              Les Derniers ‚rables ş1987
+: .o .     N     _TRUDEL Jean-Louis           Lukas 19 ş1987
+o IMAG       40  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M7    ****                         Imagine... 40 ş1987
+: .o .     N     _BELIL Michel                Les ‚claireuses de Tr”me ş1987
+: .o .     N     _DUNYACH Jean-Claude         Les Pleureurs de monde ş1987
+: .o .     N     _EDWARDS Geoffrey            Un pas de plus ş1987
+: .o .     N     _NOWAK Merc‚dŠs              Le Robot ş1987
+: .o .     N     _PREVOST Claude-Michel       Procrastination City ş1987
+: .o .     N     _TRUDEL Jean-Louis           Premier ‚pisode [Le Ressuscit‚ de l'Atlantide - 7] ş1987
+: .o .     N     _VOLODINE Antoine            Spectre de la vie en jaune ş1987
+o IMAG       41  1987.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M6    ****                         Imagine... 41 (aout 1987) ş1987
+: .o .     N     _BERGERON Bertrand           La Division ş1987
+: .o .     N     _FRIGERIO Victor             Arbeit macht frei ş1987
+: .o .     N     _LEPAGE Gilles               Le D‚fi ş1987
+: .o .     N     _PREVOST Claude-Michel       La Marquise de Tchernobyl ş1987
+: .o .     N     _TROGNEE Andr‚               La Salle de la mort volontaire ş1987
+: .o .     N     _TRUDEL Jean-Louis           Le Retour [Le Ressuscit‚ de l'Atlantide - 8] ş1987
+o IMAG       42  1987.12 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Imagine... 42 ş1987
+: .o .     N     _BELIL Michel                Les Tr‚sors de Pluvieuse ş1987
+!--- TBC : Pluvieuses
+: .o .     N     _BER Yves                    Quand les lunes se mettent … danser ş1987
+: .o .     N     _BORDIER Bruno               Ambre ş1987
+: .o .     N     _BOUCHARD Guy                M.T.S. ş1987
+: .oS.     N     _DI ROLLO Thierry            Le Styliste de Nacaan ş1987
+: .o .     N     _ISS Raymond                 La Citadelle et le continent ş1987
+: .o .     N     _TROGNEE Andr‚               L'Effet SciSoTech ş1987
+o IMAG       43  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M9    ****                         Imagine... 43 ş1988
+: .o .     N     _BOUCHARD Faustin            Evasions programm‚es ş1988
+: .o .     N     _CARPENTIER Amanda           L'Erreur ş1988
+: .o .     N     _CORBEIL Pierre              Vive l'empereur ! ş1988
+: .o .     N     _DE SEVE Marie-Claude        Vision de l'avenir ş1988
+: .o .     N     _DION Jean                   L'Intrus ş1988
+: .o .     N     _MEYNARD Yves                Nouvelle vague ş1988
+: .o .     N     _SOMCYNSKY Jean-Fran‡ois     Les Rescap‚s ş1988
+: .o .     N     _VEILLEUX Florent            Fran‡ois Mercier... heureux ? ş1988
+: .o .     N     _FERNANDEZ Danielle         &Senso Star ş1985
+&                _RUF Michel                  
+o IMAG       44  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M1    ****                         Imagine... 44 - Dossier Brussolo ş1988
+: .o .     N     _ROCHON Esther               Mourir une fois pour toute ş1988
+o IMAG       45  1988.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M3    ****                         Imagine... 45 ş1988
+: .o .     N     _BELIL Michel                Au rythme du razz'n grou ş1988
+: .o .     N     _BOUCHARD Guy                Disruptions ş1988
+: .o .     N     _DUNYACH Jean-Claude         Paranamanco ş1988
+o IMAG       46  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M10   ****                         Imagine... 46 - Sp‚cial sciences et technologies ş1989
+: .o .     N     _APRIL Jean-Pierre           Le M‚moribond et le Neurobot ş1989
+: .o .     N     _BELIL Michel                La Perle de caverne ş1989
+: .o .     N     _D'ASTOUS Claude             La M‚decine du bonheur ş1989
+: .o .     N     _PELLETIER Francine          La Petite ş1989
+: .o .     N     _PETTIGREW Jean              Naissance de la quatriŠme tofurologie ş1989
+: .o .     N     _ROCHON Esther               Le Mus‚e de Psal ş1989
+: .o .     N     _SERNINE Daniel              M‚tal qui songe ş1989
+: .o .     N     _SORMANY Pierre              Je me souviens trŠs bien ş1989
+: .o .     N     _TRUDEL Jean-Louis           L'Envers des ‚toiles ş1989
+: .o .     N     _VONARBURG Elisabeth         Cogito ş1989
+o IMAG       47  1989.03 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M6    ****                         Imagine... 47 ş1989
+: .o .     N     _D'ASTOUS Claude             Les Granules corticaux ş1989
+: .oS.     N     _DI ROLLO Thierry            Le Pique-Nique marin ş1989
+: .o .     N     _NOWAK Merc‚dŠs              Le Croyant ş1989
+: .o .     N     _PELE Thierry                Tes perles de demain ş1989
+: .o .     N     _PREVOST Claude-Michel       Le Radeau des ƒmes jaunes ş1989
+: .o .     N     _RAVEAU Patrick              Histoire sans m‚moire ş1989
+o IMAG       48  1989.06 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 48 ş1989
+: .o .     N     _BER Andr‚                   Le Passage ş1989
+: .o .     N     _BOUCHARD Guy                Andropolis ş1989
+: .oS.     N     _DI ROLLO Thierry            Les Sucres d'orge ş1989
+) .o .     N     _FRIGERIO Victor             Les DerniŠres Heures - 1 ş1989
+: .o .     N     _PELLETIER Francine          Tu verras ş1989
+o IMAG       49  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M1    ****                         Imagine... 49 (Septembre 89) ş1989
+) .o .     N     _FRIGERIO Victor             Les DerniŠres Heures - 2 ş1989
+o IMAG       50  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M10   ****                         Imagine... 50 - Sp‚cial Enfantasmes ş1989
+: .o .     N     _PROVENCHER Marc             Game over ş1989
+: .o .     N     _LAMART Michel               V‚nusa ş1989
+: .o .     N     _APRIL Jean-Pierre           Dans la forˆt de mes enfances ş1989
+: .o .     N     _FAYARD Colette              Le Voyageur ş1982
+: .o .     N     _DION Jean                   La Promesse de Tom ş1989
+: .o .     N     _JOUANNE Emmanuel           &Les enfants meurent en souriant ş1989
+&                _WAGNER Roland C.            
+: .o .     N     _BELIL Michel                Spectacle pour une disparue ş1989
+: .o .     N     _BOUCHARD Guy                L'Initiation ş1989
+: .o .     N     _DARTEVELLE Alain            Petit chef ş1989
+: .o .     N     _DES ROCHES Roger            Les Vertiges des prisons ş1989
+o IMAG       51  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 51 (mars 1990) ş1990
+) .o .     N     _FRIGERIO Victor             Les DerniŠres Heures - 3 ş1990
+: .o .     N     _ISS Raymond                 C'est quand l'Am‚rique ? ş1990
+: .o .     N     _BER Andr‚                   L'Oniroscope ş1990
+: .o .     N     _DE CELLES Michel            Survie ş1990
+: .o .     N     _VAILLANCOURT Marc           PlanŠte avec vue sur Sirius ş1990
+o IMAG       52  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 52 ş1990
+) .o .     N     _FRIGERIO Victor             Les DerniŠres Heures - 4 ş1990
+: .o .     N     _BOUCHARD Guy                La Reproductrice ş1990
+: .o .     N     _LAMART Michel               Un parfum d'‚ternit‚ ş1990
+: .o .     N     _MEYNARD Yves                Nausicaa ş1990
+: .o .     N     _TROGNEE Andr‚               Flash 17 ş1990
+o IMAG       53  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M0    ****                         Imagine... 53 ş1990
+o IMAG       54  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 54 ş1990
+: .o .     N     _DARTEVELLE Alain            Eaux troubles ş1990
+: .o .     N     _DUMONT Claude               R‚sille mortelle ş1990
+: .o .     N     _JORGUEZ Parviz              R‚volte ş1990
+: .o .     N     _LE BUSSY Alain              Un don inn‚ ş1990
+: .o .     N     _WARFA Dominique             veil ş1990
+o IMAG       55  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 55 ş1991
+: .o .     N     _BEDON Elettra               Jean a sept ans aujourd'hui ş1991
+) .o .     R     _CORBEIL Pierre              La Concession - 1 ş1991
+: .o .     N     _LAMART Michel               La Queue ş1991
+: .o .     N     _LAMONTAGNE Michel           Jusqu'au dernier ş1991
+: .o .     N     _TRUDEL Jean-Louis           Les Jeux de la paix et de la guerre ş1991
+o IMAG       56  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M6    ****                         Imagine... 56 ş1991
+: .o .     N     _ISS Raymond                 Les Gardes rˆves ş1991
+: .o .     N     _BERGERON Alain              Rˆves d'ange ş1991
+!--- TBC : Rˆves d'anges
+: .o .     N     _BEAULIEU Natasha            La Cit‚ de Niba ş1991
+: .o .     N     _BOUCHARD Guy                Les MŠres ş1991
+) .o .     R     _CORBEIL Pierre              La Concession - 2 ş1991
+: .o .     N     _SORMANY Pierre              Fragments d'une guerre possible ş1991
+o IMAG       57  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M4    ****                         Imagine... 57 ş1991
+) .o .     R     _CORBEIL Pierre              La Concession - 3 ş1991
+: .o .     N     _KURZAWA Fr‚d‚ric            Vision d'un monde en optique lin‚aire ş1991
+: .o .     N     _LOTEY Andr‚e                Trafic ş1991
+: .o .     N     _TERRACINI Jeanne            En regardant vers le futur ş1991
+o IMAG       58  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M4    ****                         Imagine... 58 ş1991
+: .o .     N     _BERGERON Alain              Les Jardins de l'Infante ş1991
+: .o .     N     _BROUILLAUD Pierre-Jean      Les T‚l‚manes ş1991
+) .o .     N     _CORBEIL Pierre              La Concession - 4 ş1991
+: .o .     N     _ROCHON Esther               Les Feux de l'aurore ş1991
+o IMAG       59  1992.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M9    ****                         Imagine... 59 ş1992
+: .o .     N     _BAILLARGEON MichŠle        &Bonza‹ ş1992
+&                _FAYARD Colette             &
+&                _MARCEL Jean                 
+: .o .     N     _BELIL Michel                Le Jardinier servant ş1992
+: .o .     N     _BIZIER Yves                 Jardins d'antant ş1992
+: .o .     N     _CHAMPETIER Jo‰l             Anciennes cicatrices ş1992
+: .o .     N     _DELAGRAVE Eric              Le Rˆve du h‚risson ş1992
+: .o .     N     _DESY Jean                   Rencontre avec un sale type ş1992
+: .o .     N     _JORGUEZ Parviz              Solitude ş1992
+: .o .     N     _LEROUX H‚lŠne               Le Num‚ro de Bonza‹ Noire ş1992
+: .o .     N     _PETIT Robert                La Sylve maudite ş1992
+o IMAG       60  1992.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 60 ş1992
+: .o .     N     _BOUCHARD Guy                Au jeu ş1992
+: .oF.     N     _DI ROLLO Thierry            Journ‚es parallŠles ş1992
+: .o .     N     _LE BUSSY Alain              Les Lois du hasard ş1992
+: .o .     N     _MARTIN Michel               Un temps pour mourir ş1992
+: .o .     N     _MILLET Pascal               Au del… de la borne trente ş1992
+o IMAG       61  1992.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M0    ****                         Imagine... 61 ş1992
+o IMAG       62  1992.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 62 ş1992
+: .o .     N     _BERNARD Evelyne             Le Complexe d'Orph‚e ş1992
+: .o .     N     _BOURASSA Lise               L'closion ş1992
+: .o .     N     _FOURRIER Gaby               S'il vous plait, dessine moi un neutron ş1992
+: .o .     N     _MARCOTTE Denis              La Mission ş1992
+: .o .     N     _MORIN Hugues                Entretien imaginaire avec ce bon docteur ş1992
+o IMAG       63  1993.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 63 ş1993
+: .o .     N     _PANCHARD Georges            Stellarum nox ş1993
+: .o .     N     _DELESSERT Chantal           Conscience ş1993
+: .o .     N     _DOEGUN Nicolas C.           Visions interdites ş1993
+: .o .     N     _PETOUD Wildy                Le Sceau de l'ange ş1993
+: .o .     N     _ROUILLER Fran‡ois           Une vieille fatigue ş1993
+o IMAG       64  1993.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M3    ****                         Imagine... 64 ş1993
+: .o .     N     _BERARD Sylvie               Foetalit‚ ş1993
+: .o .     N     _BOUCHARD Guy                Si la vie vous int‚resse ş1993
+: .o .     N     _PAPOZ Micky                 Par del… l'Oc‚tang ş1993
+) .o .     N     _TREMBLAY Danielle           Pas de paradis sans... l'enfer - 1 ş1993
+o IMAG       65  1993.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M1    ****                         Imagine... 65 ş1993
+) .o .     N     _TREMBLAY Danielle           Pas de paradis sans... l'enfer - 2 ş1993
+o IMAG       66  1993.12 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 66 ş1993
+: .oS.     N     _DI ROLLO Thierry            Le Grand-Mainate ş1993
+: .o .     N     _BOLDUC Claude               Rouge ş1993
+: .o .     N     _COTE Harold                 Mv8 ş1993
+: .o .     N     _GUILLET Jean-Pierre (Ca)    Dodo ! ş1993
+) .o .     N     _TREMBLAY Danielle           Pas de paradis sans... l'enfer - 3 ş?
+o IMAG       67  1994.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M6    ****                         Imagine... 67 ş1994
+: .o .     N     _BEC Pierre                  La Voix de l'autre ou la dame du train ş1994
+: .o .     N     _BELIL Michel                La Folle du palais ş1994
+: .o .     N     _BOIVIN Mario               &Manipulations ş1994
+&                _LABBE J‚rome                
+: .o .     N     _MARCEL Jean                 L'Esplumoir ş1994
+) .o .     R     _TREMBLAY Danielle           Pas de paradis sans... l'enfer - 4 ş1994
+: .o .     N     _ZUMTHOR Paul                Histoire v‚ritable de la reine Pied d'Oie, dite en latin P‚dauque ş1994
+o IMAG       68  1994.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M3    ****                         Imagine... 68 ş1994
+: .o .     N     _BERARD Sylvie               La Cale ş1994
+: .o .     N     _ISS Raymond                 Les Beaux Voyages de l'oncle Paul ş1994
+: .o .     N     _LE BUSSY Alain              Le Don de la force ş1994
+!--- TBC : Don de la force
+o IMAG       69  1994.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M0    ****                         Imagine... 69 ş1994
+o IMAG       70  1994.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M3    ****                         Imagine... 70 ş1994
+!--- D‚cembre 1994 (ou nø 71)
+: .o .     N     _FOEX Evelyne                L'Eau de jeunesse ş1994
+: .o .     N     _RENAUD Alix                 Exeat ou libre arbitre ş1994
+: .o .     N     _TERRACINI Jeanne            Nouvelle planŠte ş1994
+: .o .     N     _REGNIER Jean-Jacques        Menuetto da capo al fine ş1994
+o IMAG       71  1995.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 71 ş1995
+: .o .     N     _FAYARD Colette              Les Signes du soir ş1995
+: .o .     N     _BOIVIN Mario               &M‚tamorphoses : un monde sans fin ş1995
+&                _LABBE J‚rome               &
+&                _LEROUX Michel               
+: .o .     N     _MILLET Pascal               Echec et mat en zone R ş1995
+: .o .     T     _VAILLANCOURT Denis         &Casanegra ş1995
+&                _VINCENT Thierry             
+o IMAG       72  1995.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 72 (juin 1995) ş1995
+: .o .     N     _MEYNARD Yves                Chasseur et proie ş1995
+: .o .     N     _BEAULIEU Natasha            La Cit‚ de Penlocke ş1995
+: .o .     N     _LABBE Luc                   La Fleur noire ş1995
+!--- TBC : Lucius
+: .o .     N     _LAFONTAINE Sylvain          Gloup ! ş1995
+: .o .     N     _DELUC Thierry               Je ne suis pas un num‚ro... ş1995
+o IMAG       73  1995.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M0    ****                         Imagine... 73 ş1995
+o IMAG       74  1996.xx ..... ISBN .-.....-...-.
+!--- TBC ou 12/1995
+} noimg          _?                           ?
+- .o .     M9    ****                         Imagine... 74 ş1996
+: .o .     N     _BERGERON Alain              Le Jeu aprŠs la mort ş1996
+: .o .     N     _APRIL Jean-Pierre           Le meurtrier ‚tait rouill‚ ş1996
+: .o .     N     _APRIL Jean-Pierre           Le Texte vol‚ ş1996
+: .o .     N     _APRIL Jean-Pierre           Romancier assassin‚ : son ordinateur est soup‡onn‚ ş1996
+: .o .     N     _APRIL Jean-Pierre           Trafic d'identit‚ ş1996
+: .o .     N     _APRIL Jean-Pierre           Un crime contre l'humanimalit‚ ş1996
+: .o .     N     _DARTEVELLE Alain            By night ş1996
+: .oS.     N     _DI ROLLO Thierry            Errances ş1996
+: .o .     N     _TREMBLAY Francine           Une amiti‚ renversante ş1996
+o IMAG       75  1996.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M3    ****                         Imagine... 75 ş1996
+: .o .     N     _BOLDUC Claude               Le D‚terminateur ş1996
+: .o .     N     _BELIL Michel                Le ProphŠte de bonheur ş1996
+: .o .     N     _LALIBERTE H‚lŠne            L'Impasse du gouffre ş1996
+o IMAG       76  1997.02 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 76 ş1997
+: .o .     N     _BEAULIEU Natasha            Les Voleurs de futur ş1997
+: .o .     N     _LE BUSSY Alain              Le Craqueur ş1997
+: .oS.     N     _DI ROLLO Thierry            La Ville o— la mort n'existait pas ş1997
+: .o .     N     _ROY Philippe                Le Pont ş1997
+: .o .     N     _RUL Hermann                 Le Rabbin Moshe ş1997
+o IMAG       77  1997.10 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M6    ****                         Imagine... 77 ş1997
+!--- la biblio de Trudel donne 1997 pour ce num‚ro 77
+!--- Imagine avait des retards ‚norme et annoncait des dates de sorties sans
+!--- rapport avec la r‚alit‚. Ce num‚ro 77 est d‚ja 1997 !
+!--- Les dates exactes seront … revoir...
+: .o .     N     _BOLDUC Claude               Dis-moi que tu m'aimes ş1997
+: .o .     N     _BERARD Sylvie               La T-005 ş1997
+: .o .     N     _DI ROLLO Thierry            La Jeune Fille et la mer ş1997
+: .o .     N     _FRECHETTE Pascal            Le Complexe d'AndromŠde ş1997
+: .o .     N     _HAMOU Sion                  Cargo ş1997
+: .o .     N     _TRUDEL Jean-Louis           Le DeuxiŠme Carnet de Villard ş1997
+o IMAG       78  1996.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     M9    ****                         Imagine... 78 ş1996
+: .o .     N     _BELLEFEUILLE Martin         Mat ş1996
+: .o .     N     _BRUNET Manon                La Voyeuse ş1996
+: .o .     N     _CHATILLON Pierre            Dot ş1996
+: .o .     N     _DURAND Fr‚d‚rick            La Maison qui n'existait pas ş1996
+: .o .     N     _FRANCAIX Pascal             Oncle Jules ş1996
+: .o .     N     _GELINAS Martin              La Confession ş1996
+: .o .     N     _LESSARD Sonia               Cobalt ş1996
+: .o .     N     _ROLLIN Jean                 Un visage oubli‚ ş1996
+: .o .     N     _SAVARD Marie-Elaine         Les Coeurs cristallis‚s ş1996
+o IMAG       79  1997.xx ..... ISBN .-.....-...-.
+!--- TBC parution 1998
+} noimg          _?                           ?
+- .o .     M7    ****                         Imagine... 79 ş1997
+: .o .     N     _MILLET Pascal               Sc‚nario pour une m‚tisse ş1997
+: .o .     N     _SPEHNER Laurine             L'Ombrageux ş1997
+: .o .     N     _BOLDUC Claude               Communion ş1997
+: .o .     N     _BEAULIEU Natasha            La Cit‚ sans nom ş1997
+: .o .     O     _BERARD Sylvie              &Le Diable, sans doute ş1997
+&                _VAILLANCOURT Denis          
+: .o .     N     _TREMBLAY Judith             Correspondance … quatre mains ş1997
+: .o .     N     _BOUCHARD Guy                Juv‚nile ! ş1997
+o IMAG       80/ 1997.xx ..... ISBN .-.....-...-.
+/            81
+} noimg          _?                           ?
+- .o .     M5    ****                         Imagine... 80-81 ş1997
+: .o .     N     _TREMBLAY Francine           Retour sur Invers-C ş1997
+: .o .     N     _ROCHON Esther               Cheveux … l'huile ş1997
+: .o .     N     _RENAUD Alix                 Ovation ş1997
+: .o .     N     _ISS Raymond                 Coup de Lune ş1997
+: .o .     N     _DOLE G‚rard                 Le Cornemuseux ‚carlate ş1997
+

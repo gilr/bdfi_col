@@ -1,0 +1,1163 @@
+!-----------------------------------------------------------------------------
+!--- OPTA : C.L.A.  et Aventures fantastiques
+!---
+!-----------------------------------------------------------------------------
+
+!DEB_HEAD OPTCLA
+!-----------------------------------------------------------------------------
+!TIT_COLL Club du Livre d'Anticipation
+!-----------------------------------------------------------------------------
+!--- La plus prestigieuse collections fran‡ais du genre, 127 splendides ouvrages de r‚f‚rences reli‚s, illustr‚s
+!--. d'une comŠte stylis‚e en couverture pour la plupart, et dot‚s d'illustrations int‚rieures souvent r‚alis‚s
+!--. par des dessinateurs de bandes dessin‚es reconnus.
+!--- 
+!--- Tous les CLA furent ‚dit‚s en tirage limit‚ et num‚rot‚s. Le nombre d'exemplaires 
+!--. varie en g‚nral entre 1500 et 6000, mais certains ouvrages ont ‚t‚ r‚imprim‚s,
+!--. comme le prouve une mention du nombre d'exemplaire revu … la hausse dans certains ouvrages
+!--. (passant par exemple de 4000 … 6000).
+!--- 
+!--- A partir du num‚ro 58, la mention de l'‚diteur change pour devenir
+!--. Nouvelles Editions Opta.
+!--- 
+!--- Format : 13,5 x 20 cm
+!--- Directeurs de collection:
+!---  - Alain Dor‚mieux et Jacques Sadoul de 1965 … 1969 (nø 1 … 14)
+!---  - Alain Dor‚mieux seul jusqu'en 1969 et 1970 (nø 15 … 21)
+!---  - Jacques Bergier et Michel Demuth de 1970 … 1980 (nø 22 … 28)
+!---  - Daniel Walther de 1980 … 1987.
+!-----------------------------------------------------------------------------
+!FIN_HEAD OPTCLA
+!DEB_COLL OPTCLA
+!DEB_COLL CLA
+!DEB_COLL CLA_NE
+
+!-----------------------------------------------------------------------------
+_ CLA     Opta, CLA ş1965-1978
+_ CLA_NE  Nouvelles Editions Opta, CLA ş1978-1987
+!-----------------------------------------------------------------------------
+!---                      C.L.A. - OPTA (1965-1987)
+!--- Format 13.5x20. Livres reli‚s, splendides, illustr‚ par une comŠte
+!--- stylis‚e en couverture. Jaquette transparente … l'origine, illustr‚e
+!--- ensuite.
+!---
+!--- Changement de mention d'‚diteur (Nouvelles Editions Opta) … partir du nø 58
+!---  (68 sur l'AI, et nø 71 sur la page de collection avec gravure)
+!-----------------------------------------------------------------------------
+o CLA         1i 1965.xx ..... ISBN -
+} cla001         _?                           N
+- .oS.    _R3    _ASIMOV Isaac                Fondation - Fondation et empire - Seconde Fondation ş1965
+: .oS.    kU5    _ASIMOV Isaac                Fondation [Fondation - 1] ş1951 Foundation
+= .o .     N     _ASIMOV Isaac                Les Psychohistoriens [Fondation] ş1951 The Psychohistorians şTrad. ROSENTHAL Jean
+= .o .     N     _ASIMOV Isaac                Les Encyclop‚distes [Fondation] ş1942 Foundation / The Encyclopedists şTrad. ROSENTHAL Jean
+= .o .     N     _ASIMOV Isaac                Les Maires [Fondation] ş1942 Bridle and saddle / The Mayors şTrad. ROSENTHAL Jean
+= .o .     N     _ASIMOV Isaac                Les Marchands [Fondation] ş1944 The wedge / The Traders şTrad. ROSENTHAL Jean
+= .o .     N     _ASIMOV Isaac                Les Princes marchands [Fondation] ş1944 The Big and the Little / The Merchant Princes şTrad. ROSENTHAL Jean
+: .oS.    kU2    _ASIMOV Isaac                Fondation et empire [Fondation - 2] ş1952 Foundation and Empire şTrad. ROSENTHAL Jean
+= .o .     N     _ASIMOV Isaac                Le G‚n‚ral [Fondation] ş1945 Dead Hand / The General şTrad. ROSENTHAL Jean
+= .o .     r     _ASIMOV Isaac                Le Mulet [Fondation] ş1945 The Mule şTrad. ROSENTHAL Jean
+: .oS.    kU2    _ASIMOV Isaac                Seconde Fondation [Fondation - 3] ş1953 Second Foundation
+= .o .     r     _ASIMOV Isaac                Bail Channis [Fondation] ş1948 Now you See it... şTrad. BILLON Pierre
+= .o .     r     _ASIMOV Isaac                Arcadia Darell [Fondation] ş1949 ...And Now you Don't şTrad. BILLON Pierre
+o CLA         2i 1965.xx ..... ISBN -
+} cla002         _?                           N
+- .oS.    _R2    _VAN VOGT Alfred E.          Les Armureries d'Isher - Les Fabricants d'armes [Les Marchands d'armes] ş1965
+: .oS.     U     _VAN VOGT Alfred E.          Les Armureries d'Isher [Les Marchands d'armes] ş1951 The Weapon Shops of Isher şTrad. DEUTSCH Michel
+!: .o .     u     _VAN VOGT Alfred E.          - (La balan‡oire) ş1941 The Seesaw
+!: .o .     u     _VAN VOGT Alfred E.          - ş1943 The Weapon Shop
+!: .o .     u     _VAN VOGT Alfred E.          - ş1949 The Weapon Shops of Isher
+!--- Paru en 43, edition en volume 1947, r‚vis‚ en 1952, revu en 1955 sous "One against eternity"
+: .o .     R     _VAN VOGT Alfred E.          Les Fabricants d'armes [Les Marchands d'armes] ş1943-1955 The Weapon Makers / One Against Eternity şTrad. CATHELIN Jean
+o CLA         3i 1966.xx ..... ISBN -
+} cla003         _?                           N
+- .oS.    _R2    _SIMAK Clifford D.           Demain les chiens - Le Pˆcheur ş1966
+: .oS.    cU8    _SIMAK Clifford D.           Demain les chiens ş1952 City
+= .o .     N     _SIMAK Clifford D.           La Cit‚ ş1944 City
+= .o .     N     _SIMAK Clifford D.           La TaniŠre ş1944 Huddling Place
+= .o .     N     _SIMAK Clifford D.           Le Recensement ş1944 Census
+= .o .     N     _SIMAK Clifford D.           Les D‚serteurs ş1944 Desertion
+= .o .     N     _SIMAK Clifford D.           Le Paradis ş1946 Paradise
+= .o .     N     _SIMAK Clifford D.           Les Passe-Temps ş1946 Hobbies
+= .o .     N     _SIMAK Clifford D.           Esope ş1947 Aesop
+= .o .     N     _SIMAK Clifford D.           Un moyen bien simple ş1951 The Trouble With Ants
+: .o .     R     _SIMAK Clifford D.           Le Pˆcheur ş1961 The Fisherman / Time Is the Simplest Thing
+o CLA         4i 1966.xx ..... ISBN -
+} cla004         _?                           N
+- .oS.    _R2    _VAN VOGT Alfred E.          Le Monde des non-A - Les Joueurs du non-A [Le Cycle du non-A] ş1966
+: .o .     R     _VAN VOGT Alfred E.          Le Monde des non-A [Le Cycle du non-A - 1] ş1945-1948 The World of A / The World of Null-A
+!--- TBC: ...du non-A ?
+: .o .     R     _VAN VOGT Alfred E.          Les Joueurs du non-A [Le Cycle du non-A - 2] ş1948-1956 The Players of A / The Pawns of Null-A
+o CLA         5i 1966.xx ..... ISBN -
+} cla005         _?                           N
+- .oS.    _R2    _MOORE Catherine L.          La Nuit du jugement - La DerniŠre Aube ş1966
+: .o .     R     _MOORE Catherine L.          La Nuit du jugement ş1943 Judgment Night
+: .o .     R     _MOORE Catherine L.          La DerniŠre Aube ş1957 Doomsday Morning
+o CLA         6i 1966.xx ..... ISBN -
+} cla006         _?                           N
+- .oS.    _R2    _BURROUGHS Edgar Rice        Au coeur de la Terre - Pellucidar ş1966
+: .o .     R     _BURROUGHS Edgar Rice        Au coeur de la Terre [Cycle de Pellucidar - 1] ş1914 At the Earth's Core şTrad. BILLON Pierre
+: .o .     R     _BURROUGHS Edgar Rice        L'Empire de David Innes [Cycle de Pellucidar - 2] ş1915 Pellucidar şTrad. BILLON Pierre
+o CLA         7i 1967.xx ..... ISBN -
+} cla007         _?                           N
+- .oS.     N17   _ASIMOV Isaac                Le Livre des robots [Robots] ş1967
+: .oS.     N9    _ASIMOV Isaac                Les Robots [Robots] ş1950 I, Robot
+= .o .     N     _ASIMOV Isaac                Menteur [Robots] ş1941 Liar!
+= .o .     N     _ASIMOV Isaac                Robbie [Robots] ş1940 Strange Playfellow / Robbie
+= .o .     N     _ASIMOV Isaac                Raison [Robots] ş1941 Reason şTrad. BILLON Pierre
+= .o .     N     _ASIMOV Isaac                Cycle ferm‚ [Robots] ş1942 Runaround
+= .o .     N     _ASIMOV Isaac                Attrapez-moi ce lapin [Robots] ş1944 Catch That Rabbit
+= .o .     N     _ASIMOV Isaac                Evasion ! [Robots] ş1945 Escape! / Paradoxical Escape
+= .o .     N     _ASIMOV Isaac                Evidence [Robots] ş1946 Evidence
+= .o .     N     _ASIMOV Isaac                Le Petit Robot perdu ş1947 Little Lost Robot
+= .o .     N     _ASIMOV Isaac                Conflit ‚vitable [Robots] ş1950 The Evitable Conflict
+: .oS.     N8    _ASIMOV Isaac                Un d‚fil‚ de robots [Robots] ş1964 The Rest of the Robots
+= .o .     N     _ASIMOV Isaac                Le Robot AL-76 perd la boussole [Robots] ş1942 Robot AL-76 Goes Astray
+= .o .     N     _ASIMOV Isaac                Victoire par inadvertance [Robots] ş1942 Victory Unintentional
+= .o .     N     _ASIMOV Isaac                Satisfaction garantie [Robots] ş1951 Satisfaction Guaranted
+= .o .     N     _ASIMOV Isaac                Risque [Robots] ş1955 Risk
+= .o .     N     _ASIMOV Isaac                PremiŠre loi [Robots] ş1956 First Law
+= .o .     N     _ASIMOV Isaac                Assemblons-nous ş1957 Let's Get Together
+= .o .     N     _ASIMOV Isaac                Le Correcteur [Robots] ş1957 Galley Slave
+= .o .     N     _ASIMOV Isaac                Lenny ş1958 Lenny
+o CLA         8i 1967.xx ..... ISBN -
+} cla008         _?                           N
+- .oS.    _R3    _LEWIS C.S.                  Le Cycle de Ransom [Ransom - 1/3] ş1967
+: .o .     R     _LEWIS C.S.                  Le Silence de la Terre [Ransom - 1] ş1938 Out of the Silent Planet
+: .o .     R     _LEWIS C.S.                  Voyage … V‚nus [Ransom - 2] ş1943 Perelandra / Voyage to Venus
+!--- TBC: titre fran‡ais, Perelandra ?
+: .o .     R     _LEWIS C.S.                  Cette hideuse puissance [Ransom - 3] ş1945 That Hideous Strength / The Tortured Planet
+o CLA         9i 1967.xx ..... ISBN -
+} cla009         _?                           N
+- .oS.    _R2    _BURROUGHS Edgar Rice        Tanar de Pellucidar - Tarzan au coeur de la Terre ş1967
+: .o .     R     _BURROUGHS Edgar Rice        Tanar de Pellucidar [Cycle de Pellucidar - 3] ş1929 Tanar of Pellucidar şTrad. BILLON Pierre
+: .o .     R     _BURROUGHS Edgar Rice        Tarzan au coeur de la Terre [Cycle de Pellucidar - 4]+[Tarzan - 13] ş1930 Tarzan at the Earth's Core şTrad. BILLON Pierre
+o CLA        10i 1967.xx R.... ISBN -
+} cla010         _?                           N
+- .oS.    _R2    _HEINLEIN Robert             Histoire du futur (Tome 1) ş1967
+: .oS.    _C6    _HEINLEIN Robert             L'Homme qui vendit la lune [Histoire du futur - 1] ş1950 The Man who Sold the Moon
+= .o .     N     _HEINLEIN Robert             Ligne de vie ş1939 Life Line
+= .o .     N     _HEINLEIN Robert             Que la lumiŠre soit ş1940 Let There Be Light
+= .o .     N     _HEINLEIN Robert             Les routes doivent rouler ş1940 The Roads Must Roll
+= .o .     N     _HEINLEIN Robert             Il arrive que ‡a saute ş1940 Blowups Happen
+= .o .     N     _HEINLEIN Robert             Requiem ş1940 Requiem
+= .o .     r     _HEINLEIN Robert             L'Homme qui vendit la Lune ş1950 The Man who Sold the Moon
+: .oS.    _C10   _HEINLEIN Robert             Les Vertes Collines de la Terre [Histoire du futur - 2] ş1951 The Green Hills of Earth
+= .o .     N     _HEINLEIN Robert             Dalila et l'homme de l'espace ş1949 Delilah and the Space Rigger
+= .o .     N     _HEINLEIN Robert             Jockey de l'espace ş1947 Space Jockey
+= .o .     N     _HEINLEIN Robert             La Longue Veille ş1949 The Long Watch
+= .o .     N     _HEINLEIN Robert             Asseyez vous messieurs ! ş1948 Gentlemen, Be Seated!
+= .o .     N     _HEINLEIN Robert             Les Puits noirs de la Lune ş1948 The Black Pits of Luna
+= .o .     N     _HEINLEIN Robert             Qu'il est bon de revenir ş1947 It's Great to Be Back
+= .o .     N     _HEINLEIN Robert             Nous promenons aussi les chiens ş1941 ... We also Walk Dogs
+= .o .     N     _HEINLEIN Robert             Vertige spatial ş1948 Ordeal in Space
+= .o .     N     _HEINLEIN Robert             Les Vertes Collines de la Terre ş1947 The Green Hills of Earth
+= .o .     N     _HEINLEIN Robert             La Logique de l'empire ş1941 Logic of Empire
+o CLA        11i 1967.xx ..... ISBN -
+} cla011         _?                           N
+- .oS.    _R2    _VAN VOGT Alfred E.          L'Empire de l'atome - Le Sorcier de Linn [Le Cycle de Linn] ş1967
+: .o .     U     _VAN VOGT Alfred E.          L'Empire de l'atome [Le Cycle de Linn] ş1957 Empire of the Atom
+!: .o .     u     _VAN VOGT Alfred E.          - ş1946 A Son Is Born
+!: .o .     u     _VAN VOGT Alfred E.          - ş1946 Child of the Gods
+!: .o .     u     _VAN VOGT Alfred E.          - ş1946 Hand of the Gods
+!: .o .     u     _VAN VOGT Alfred E.          - ş1947 Home of the Gods
+!: .o .     u     _VAN VOGT Alfred E.          - ş1947 The Barbarian
+: .o .     R     _VAN VOGT Alfred E.          Le Sorcier de Linn [Le Cycle de Linn] ş1950 The Wizard of Linn
+o CLA        12i 1968.xx ..... ISBN -
+} cla012         _?                           N
+- .oS.    =R2    _HAMILTON Edmond             Les Rois des ‚toiles - Retour aux ‚toiles [John Gordon] ş1968
+: .o .     p     _MOSKOWITZ Sam               Introduction ş1968
+: .o .     a     _VERSINS Pierre              Bibliographie ş1968
+: .o .     p     _--- (anonyme)               Avant-propos de l'‚diteur ş1968
+: .o .     p     _HAMILTON Edmond             Avant-propos de l'auteur ş1968
+: .o .     R     _HAMILTON Edmond             Les Rois des ‚toiles [John Gordon - 1] ş1947 The Star Kings şTrad. MALAR Gilles
+: .oS.    =U4    _HAMILTON Edmond             Retour aux ‚toiles [John Gordon - 2] ş1968 Return to the Stars şTrad. STRASCHITZ Frank
+= .o .   5 N     _HAMILTON Edmond             Les Royaumes des ‚toiles [John Gordon] ş1964 Kingdoms of the Stars şTrad. STRASCHITZ Frank
+= .o .  87 N     _HAMILTON Edmond             Les Rivages de l'infini [John Gordon] ş1965 The Shores of Infinity şTrad. STRASCHITZ Frank
+= .o . 161 u     _HAMILTON Edmond             Les ‚toiles bris‚es ş1968 The Brolen Stars şTrad. STRASCHITZ Frank
+= .o . 237 u     _HAMILTON Edmond             L'Horreur venue de Magellan ş1969 The Horror from the Magellanic şTrad. STRASCHITZ Frank
+o CLA        13i 1968.xx ..... ISBN -
+} cla013         _?                           N
+- .o .     R2    _FARMER Philip Jos‚          Les Amants ‚trangers - L'univers … l'envers ş1968
+: .o .     R     _FARMER Philip Jos‚          Les Amants ‚trangers [Lovers] ş1961 The Lovers
+!--- Expansion de la nouvelle de mˆme TO, parue en 1952
+: .o .     R     _FARMER Philip Jos‚          L'Univers … l'envers ş1964 Inside Outside
+o CLA        14i 1968.xx ..... ISBN -
+} cla014         _?                           N
+- .oS.    _R2    _VAN VOGT Alfred E.          A la poursuite des Slans - La faune de l'espace ş1968
+: .o .     R     _VAN VOGT Alfred E.          A la poursuite des Slans ş1940-1951 Slan
+!--- premiŠre ‚dition en volume en 1946, edition r‚vis‚e en 1951
+: .o .    kU4    _VAN VOGT Alfred E.          La Faune de l'espace ş1950 The Voyage of the Space Beagle
+?!-- chap. 1-6  :
+?: .o .     u     _VAN VOGT Alfred E.          - ş1939 Black Destroyer
+?!-- ch.  9-12  :
+?: .o .     u     _VAN VOGT Alfred E.          - (La guerre des nerfs) ş1950 War of Nerves
+?!-- ch. 13-21  :
+?: .o .     u     _VAN VOGT Alfred E.          - ş1939 Discord in Scarlet
+?!-- ch. 22-28  :
+?: .o .     u     _VAN VOGT Alfred E.          - ş1943 M33 in Andromeda
+o CLA        15i 1968.xx ..... ISBN -
+} cla015         _?                           N
+- .o .     R2    _DICK Philip K.              En attendant l'ann‚e derniŠre - A rebrousse-temps ş1968
+: .o .     R     _DICK Philip K.              En attendant l'ann‚e derniŠre ş1966 Now Wait for Last Year
+: .o .     R     _DICK Philip K.              A rebrousse-temps ş1967 Counter-clock World
+!--- version expans‚e de la nouvelle "Rendez-vous hier matin" (_Your appointment will be yesterday_ 1966)
+o CLA        16i 1969.xx ..... ISBN -
+} cla016         _?                           N
+- .oS.    _R3    _HEINLEIN Robert             Histoire du futur (Tome 2) ş1969
+: .oS.    _C3    _HEINLEIN Robert             R‚volte en 2100 [Histoire du futur - 3] ş1953 Revolt in 2100
+= .o .     N     _HEINLEIN Robert             Si ‡a arrivait ş1940 If This Goes On...
+= .o .     N     _HEINLEIN Robert             La R‚serve ş1940 Conventry
+= .o .     N     _HEINLEIN Robert             L'Inadapt‚ ş1939 Misfit
+: .o .     R     _HEINLEIN Robert             Les Enfants de Mathusalem [Histoire du futur - 4] ş1958 Methuselah's Children
+: .o .     R     _HEINLEIN Robert             Les Orphelins du ciel [Histoire du futur - 5] ş1963 Orphans of the Sky
+!--- En fait recueil de deux textes : _Univers_ (TO _Universe_ 1941) et Sens commun_ (TO _Common sense_ 1941)
+o CLA        17i 1969.xx ..... ISBN -
+} cla017         _?                           N
+- .oS.    =R2    _STURGEON Theodore           Cristal qui songe - Les Plus qu'humains ş1969
+: .o .   v p     _MOSKOWITZ Sam               Introduction ş1969
+: .o . xx3 a     _--- (anonyme)               Bibliographie ş1969
+: .oS.   3 R     _STURGEON Theodore           Cristal qui songe ş1950 The Dreaming Jewels şTrad. GLATIGNY Alain
+: .oS. 181=U3    _STURGEON Theodore           Les Plus qu'humains ş1953 More than Human
+= .oS. 183 u     _STURGEON Theodore           L'Idiot de la fable ş1953 The Fabulous Idiot şTrad. CHRESTIEN Michel
+= .oS. 286 N     _STURGEON Theodore           B‚b‚ … trois ans ş1952 Baby Is Three şTrad. CHRESTIEN Michel
+= .oS. 309 u     _STURGEON Theodore           La Morale ş1953 Morality şTrad. CHRESTIEN Michel
+o CLA        18i 1969.xx R.... ISBN -
+} cla018         _?                           N
+- .oY.    _R2    _BURROUGHS Edgar Rice        Retour … l'ƒge de pierre - Terre d'‚pouvante ş1969
+: .o .     R     _BURROUGHS Edgar Rice        Retour … l'ƒge de pierre [Cycle de Pellucidar - 5] ş1937 Back to the Stone Age şTrad. BILLON Pierre
+: .o .     R     _BURROUGHS Edgar Rice        Terre d'‚pouvante [Cycle de Pellucidar - 6] ş1944 Land of Terror şTrad. BILLON Pierre
+o CLA        19i 1969.xx R.... ISBN -
+} cla019         _?                           N
+- .oS.     N18   _VAN VOGT Alfred E.          Au-del… du n‚ant - Destination univers ş1969
+!--- Une des nouvelles des deux recueils originaux n'est pas reprise : _Secret unattainable_ 1942
+: .oS.     N8    _VAN VOGT Alfred E.          Au-del… du n‚ant ş1952 Away and Beyond
+= .o .     N     _VAN VOGT Alfred E.          Le Caveau de la bˆte ş1940 Vault of the Beast
+= .o .     N     _VAN VOGT Alfred E.          La Machine ş1943 The Great Engine
+= .o .     N     _VAN VOGT Alfred E.          Le Grand Juge ş1948 The Great Judge
+= .o .     N     _VAN VOGT Alfred E.          Facteur d'harmonie ş1944 The Harmonizer
+= .o .     N     _VAN VOGT Alfred E.          L'H‚ritier ş1945 Heir Apparent / Heir Unapparent
+= .o .     N     _VAN VOGT Alfred E.          La Seconde Solution ş1942 The Second Solution
+!--- int‚gr‚e dans le roman "La guerre contre le Rull"
+= .o .     N     _VAN VOGT Alfred E.          Cin‚mathŠque ş1946 Film Library
+= .o .     r     _VAN VOGT Alfred E.          Les Dreeghs ş1942 Asylum
+: .oS.     N10   _VAN VOGT Alfred E.          Destination univers ş1952-1953 Destination Universe!
+!--- 9 textes seulement en 1952, 10 en 53
+= .o .     N     _VAN VOGT Alfred E.          Destination Centaure ş1944 Far Centaurus
+= .o .     N     _VAN VOGT Alfred E.          Le Monstre ş1948 The Monster
+= .o .     N     _VAN VOGT Alfred E.          R‚veil ş1948 Dormant
+= .o .     N     _VAN VOGT Alfred E.          Le Village enchant‚ ş1950 The Enchanted Village
+= .o .     N     _VAN VOGT Alfred E.          Un pot de peinture ş1944 A Can of Paint
+= .o .     N     _VAN VOGT Alfred E.          D‚fensive ş1947 Defense
+= .o .     N     _VAN VOGT Alfred E.          Les MaŒtres ş1944 The Rulers
+= .o .     N     _VAN VOGT Alfred E.          Correspondance ş1949 Dear Pen Pal / Letters from the Stars
+= .o .     N     _VAN VOGT Alfred E.          Le Son ş1950 The Sound
+!--- int‚gr‚e dans le roman "La guerre contre le Rull"
+= .o .     N     _VAN VOGT Alfred E.          La Quˆte ş1943 The Search
+o CLA        20i 1969.xx ..... ISBN -
+} cla020         _?                           N
+- .oS.    _R2    _CLARKE Arthur C.            Les Enfants d'Icare - La Cit‚ et les astres ş1969
+: .oS.     R     _CLARKE Arthur C.            Les Enfants d'Icare ş1953 Childhood's End
+: .oS.     R     _CLARKE Arthur C.            La Cit‚ et les astres ş1956 The City and the Stars
+o CLA        21i 1969.xx R.... ISBN -
+} cla021         _?                           N
+- .oS.     R2N5  _BRACKETT Leigh              Le Livre de Mars [Le Livre de Mars - 2/4] ş1969
+: .o .     R     _BRACKETT Leigh              Le Secret de Sinharat [Le Livre de Mars - 2]+[Eric John Stark] ş1964 The Secret of Sinharat
+!--- Expansion de _Queen of the martian catacombs_ (1949)
+: .o .     R     _BRACKETT Leigh              Le Peuple du talisman [Le Livre de Mars - 3]+[Eric John Stark] ş1964 People of the Talisman
+!--- Expansion de _Black amazon of mars_ (1951)
+: .oS.     N5    _BRACKETT Leigh              Mars et les terriens [Le Livre de Mars - 4] ş1967 The Coming of the Terrans
+= .o .     N     _BRACKETT Leigh              1998 Le jardin du Shanga ş1948 The Beast-jewel of Mars
+= .o .     N     _BRACKETT Leigh              2016 La mal‚diction de Bisha ş1954 Mars Minus Bisha
+= .o .     N     _BRACKETT Leigh              2024 Les derniers jours de Shandakor ş1952 The Last Days of Shandakor
+!--- oubli‚ dans le sommaire...
+= .o .     N     _BRACKETT Leigh              2031 La prˆtresse pourpre de la lune folle ş1964 Purple Priestess of the Mad Moon
+= .o .     N     _BRACKETT Leigh              2038 La route de Sinharat ş1963 The Road to Sinharat
+o CLA        22i 1970.xx R.... ISBN -
+} cla022         _?                           N
+- .oS.    _N7    _ANDERSON Poul               Agent de l'empire terrien [Flandry] ş1965 Agent of the Terran Empire + Flandry of Terra
+!--- Reprise de deux recueils (Chilton, 1965) :
+!---  - Agent of the terran empire (1965) - Agent de l'empire terrien
+!---    qui contient : Tiger by the Tail, Warriors from Nowhere, Honorable Enemies, Hunters of the Sky Cave
+!---  - Flandry of Terra (1965)
+!---    qui contient : The Game of Glory, A Message in Secret, The Plague of Masters
+: .o .     N     _ANDERSON Poul               Le Tigre par la queue [Flandry] ş1951 Tiger by the Tail şTrad. STRASCHITZ Frank
+: .o .     N     _ANDERSON Poul               Les Guerriers de nulle part [Flandry] ş1954 Warriors from Nowhere / The Ambassadors of Flesh şTrad. STRASCHITZ Frank
+: .o .     N     _ANDERSON Poul               Honorables ennemis [Flandry] ş1951 Honorable Enemies şTrad. STRASCHITZ Frank
+: .o .     N     _ANDERSON Poul               Pour la gloire [Flandry] ş1958 The Game of Glory şTrad. IZABELLE P.J.
+: .o .     R     _ANDERSON Poul               Les Chasseurs de la caverne du ciel [Flandry] ş1959 We Claim These Stars! / Hunters of the Sky Cave şTrad. STRASCHITZ Frank
+!--- Expansion de "Handful of Stars"
+: .o .     r     _ANDERSON Poul               Message secret [Flandry] ş1960 A Message in Secret şTrad. STRASCHITZ Frank
+!--- "Mayday orbit" pourrait ˆtre une version expans‚e
+: .o .     r     _ANDERSON Poul               Le Fl‚au des maŒtres [Flandry] ş1960 A Plague of Masters / The Plague of Masters / Earthman, Go Home! şTrad. STRASCHITZ Frank
+o CLA        23i 1970.xx ..... ISBN -
+} cla023         _?                           N
+- .oS.    _R2    _ASIMOV Isaac                Les Cavernes d'acier - Face aux feux du soleil ş1970
+: .o .     R     _ASIMOV Isaac                Les Cavernes d'acier ş1953 The Caves of Steel
+: .o .     R     _ASIMOV Isaac                Face aux feux du soleil ş1956 The Naked Sun
+o CLA        24i 1970.xx ..... ISBN -
+} cla024         _?                           N
+- .oS.    _R2    _DICK Philip K.              Docteur Bloodmoney - Le MaŒtre du haut chƒteau ş1970
+: .o .     R     _DICK Philip K.              Docteur Bloodmoney ş1965 Dr. Bloodmoney (or How We Got Along After the Bomb)
+: .o .     R     _DICK Philip K.              Le MaŒtre du haut chƒteau ş1962 The Man in the High Castle
+o CLA        25i 1970.xx ..... ISBN -
+} cla025         _?                           N
+- .oS.    _R2    _CARSAC Francis              Ceux de nulle part - Les Robinsons du cosmos ş1970
+: .o .     R     _CARSAC Francis              Ceux de nulle part ş1954
+: .o .     R     _CARSAC Francis              Les Robinsons du cosmos ş1955
+o CLA        26i 1970.xx ..... ISBN -
+} cla026         _?                           N
+- .oS.    _R2    _SILVERBERG Robert           L'Homme dans le labyrinthe - Les Masques du temps ş1970
+: .o .     R     _SILVERBERG Robert           L'Homme dans le labyrinthe ş1969 The Man in the Maze
+!--- reprise d'un nouvelle paru en 68
+: .o .     R     _SILVERBERG Robert           Les Masques du temps ş1968 The Masks of Time
+o CLA        27i 1970.xx R.... ISBN -
+} cla027         _?                           N
+- .oS.    _R2    _DISCH Thomas M.             G‚nocides - Camp de concentration ş1970
+: .o .     R     _DISCH Thomas M.             G‚nocides ş1965 The Genocides şTrad. ABADIA Guy
+: .o .     R     _DISCH Thomas M.             Camp de concentration ş1968 Camp Concentration şTrad. BATTIN Marcel
+o CLA        28i 1970.xx ..... ISBN -
+} cla028         _?                           N
+- .o .     R     _HEINLEIN Robert             Route de la gloire ş1963 Glory Road
+o CLA        29i 1971.xx R.... ISBN -
+} cla029         _?                           N
+- .o .     R     _HEINLEIN Robert             R‚volte sur la Lune ş1966 The Moon Is a Harsh Mistress
+o CLA        30i 1971.xx ..... ISBN -
+} cla030         _?                           N
+- .oS.    _R2    _ROBERTS Keith               Les Furies - Pavane ş1971
+: .o .     R     _ROBERTS Keith               Les Furies ş1965 The Furies
+: .oS.    cU6    _ROBERTS Keith               Pavane ş1968 Pavane
+!--- Roman … partir d'une s‚rie de 6 nouvelles dont la premiŠre est "Corfe gate" 1966
+= .o .     N     _ROBERTS Keith               La Lady Margaret ş1966 The Lady Anne / The Lady Margaret
+= .o .     N     _ROBERTS Keith               Le Signaleur ş1966 The Signaller
+= .o .     N     _ROBERTS Keith               FrŠre Jean ş1966 Brother John
+= .o .     N     _ROBERTS Keith               Seigneurs et gentes dames ş1966 Lords and Ladies
+= .o .     N     _ROBERTS Keith               Corfe gate ş1966-1968 Corfe Gate
+= .o .     N     _ROBERTS Keith               Coda ş1968 Coda
+o CLA        31i 1971.xx ..... ISBN -
+} cla031         _?                           N
+- .oS.    _R3    _HAMILTON Edmond             Les Loups des ‚toiles [Les Loups des ‚toiles - 1/3] ş1971
+: .o .     R     _HAMILTON Edmond             L'Arme de nulle part [Les Loups des ‚toiles - 1] ş1967 The Weapon from Beyond
+: .o .     R     _HAMILTON Edmond             Les Mondes interdits [Les Loups des ‚toiles - 2] ş1968 The Closed Worlds
+: .o .     R     _HAMILTON Edmond             La PlanŠte des loups [Les Loups des ‚toiles - 3] ş1968 World of the Starwolves
+o CLA        32i 1971.xx ..... ISBN -
+} cla032         _?                           N
+- .o .     R3    _DELANY Samuel               La Chute des tours ş1970 The Fall of the Towers
+: .o .     R     _DELANY Samuel               Prisonniers de la flamme [La Chute des tours - 1] ş1962 Captives of the Flames
+: .o .     R     _DELANY Samuel               Les Tours de Toron [La Chute des tours - 2] ş1964 The Towers of Toron
+: .o .     R     _DELANY Samuel               La Cit‚ des mille soleils [La Chute des tours - 3] ş1965 City of a Thousand Suns
+o CLA        33i 1971.xx ..... ISBN -
+} cla033         _?                           N
+- .oS.     R2    _VANCE Jack                  Tscha‹ (Tome 1) [Tscha‹ - 1/2] ş1971
+!--- Intro de Jacques Chambon et Jean-Pierre Fontana, biblio, carte de Tscha‹ sign‚e Caza
+: .o .     R     _VANCE Jack                  Le Chasch [Tscha‹ - 1] ş1968 City of the Chasch şTrad. DEUTSCH Michel
+: .o .     R     _VANCE Jack                  Le Wankh [Tscha‹ - 2] ş1969 Servants of the Wankh şTrad. DEUTSCH Michel
+o CLA        34i 1971.xx ..... ISBN -
+} cla034         _?                           N
+- .oS.    _R2    _VANCE Jack                  Tscha‹ (Tome 2) [Tscha‹ - 3/4] ş1971
+!--- Preambule (r‚sum‚ pr‚c‚dent), carte de Tscha‹ sign‚e Caza
+: .o .     R     _VANCE Jack                  Le Dirdir [Tscha‹ - 3] ş1969 The Dirdir şTrad. DEUTSCH Michel
+: .o .     R     _VANCE Jack                  Le Pnume [Tscha‹ - 4] ş1970 The Pnume şTrad. DEUTSCH Michel
+o CLA        35i 1971.xx R.... ISBN -
+} cla035j        _?                           N
+} cla035         _?                           N
+- .oS.    _R2    _VAN VOGT Alfred E.          Mission stellaire - La Quˆte sans fin ş1971
+: .o .    iU4    _VAN VOGT Alfred E.          Mission stellaire ş1952 The Mixed Men / Mission to the Stars
+: .o .    cU3    _VAN VOGT Alfred E.          La Quˆte sans fin ş1970 Quest for the Future
+?: .o .     u     _VAN VOGT Alfred E.          - (Cin‚mathŠque) ş1946 Film Library
+?: .o .     u     _VAN VOGT Alfred E.          - (La quˆte) ş1943 The Search
+?: .o .     u     _VAN VOGT Alfred E.          - (Destination Centaure) ş1944 Far Centaurus
+o CLA        36i 1972.xx ..... ISBN -
+} cla036         _?                           N
+- .o .     R     _McCAFFREY Anne              Le Vol du dragon [La Trilogie de Pern - 1][La Ballade de Pern] ş1968 Dragonflight
+!--- Nota : Fix-Up partiel, contient _Weyr search_ et _Dragonrider_
+o CLA        37i 1972.xx ..... ISBN -
+} cla037         _?                           N
+- .oS.    kN20   _SHECKLEY Robert             Les Univers de Robert Sheckley ş1972
+: .o .     p     _THIVOLLET Marc              De la science-fiction du dehors … celle du dedans ş1972
+: .o .     N     _SHECKLEY Robert             Le Poison d'un homme ş1953 One Man's Poison şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             Les Sp‚cialis‚s ş1953 Specialists şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             Le Co–t de la vie ş1952 Cost of Living şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             Les Monstres ş1953 The Monsters şTrad. DOREMIEUX Alain
+: .o .     N     _SHECKLEY Robert             Fant“me V ş1954 Ghost IV şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             Permis de maraude ş1954 Skulking Permit şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             Enfin seul ş1957 Alone at Last şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             Vol temporel ş1954 A Thief in Time şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             Invasion avant l'aube ş1957 Dawn Invader şTrad. DURAND Roger
+: .o .     N     _SHECKLEY Robert             Si le tueur rouge... ş1959 If the Red Slayer şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             Le Prix du danger ş1958 The Prize of Peril şTrad. ROSENBLUM Arlette
+: .o .     N     _SHECKLEY Robert             Quelque chose pour rien ş1954 Something for Nothing şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             L'Oiseau gardien ş1953 Watchbird şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             Les Morts de Ben Baxter ş1957 The Deaths of Ben Baxter şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             Le Vieux Rafiot trop z‚l‚ ş1955 The Lifeboat Mutiny şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             Le Langage de l'amour ş1957 The Language of Love şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             N'y touchez pas ! ş1954 Hands Off şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             Voulez-vous parler avec moi ? ş1965 Shall We Have a Little Talk? şTrad. LATHIERE Ren‚
+: .o .     N     _SHECKLEY Robert             Double indemnnit‚ ş1957 Double Indemnity şTrad. BATTIN Marcel
+: .o .     N     _SHECKLEY Robert             La Cl‚ laxienne ş1954 The Laxian Key şTrad. BATTIN Marcel
+o CLA        38i 1972.xx ..... ISBN -
+} cla038         _?                           N
+- .o .     R     _McCAFFREY Anne              La Quˆte du dragon [La Trilogie de Pern - 2][La Ballade de Pern] ş1971 Dragonquest
+o CLA        39i 1972.xx ..... ISBN -
+} cla039         _?                           N
+- .oS.    _R2    _MOORCOCK Michael            Le Navire des glaces - Le Programme final ş1972
+: .o .     R     _MOORCOCK Michael            Le Navire des glaces ş1969 The Ice Schooner
+: .o .     R     _MOORCOCK Michael            Le Programme final [Jerry Cornelius - 1] ş1968 The Final Programme
+o CLA        40i 1973.xx ..... ISBN -
+} cla040         _?                           N
+- .o .    _R3    _LE GUIN Ursula K.           Le Monde de Rocannon - PlanŠte d'exil - La cit‚ des illusions [La Ligue de tous les mondes - 1/3][Cycle de Hain] ş1973
+: .o .     R     _LE GUIN Ursula K.           Le Monde de Rocannon [La Ligue de tous les mondes - 1][Cycle de Hain] ş1966 Rocannon's World
+: .o .     R     _LE GUIN Ursula K.           PlanŠte d'exil [La Ligue de tous les mondes - 2][Cycle de Hain] ş1966 Planet of Exile
+: .o .     R     _LE GUIN Ursula K.           La Cit‚ des illusions [La Ligue de tous les mondes - 3][Cycle de Hain] ş1967 City of Illusions
+o CLA        41i 1973.xx ..... ISBN -
+} cla041j        _?                           N
+} cla041         _?                           N
+- .oS.    _R2    _SILVERBERG Robert           Le Fils de l'homme - Les Profondeurs de la Terre ş1973
+: .o .     R     _SILVERBERG Robert           Le Fils de l'homme ş1971 Son of Man
+: .o .     R     _SILVERBERG Robert           Les Profondeurs de la Terre ş1970 Downward to the Earth
+o CLA        42i 1973.xx ..... ISBN -
+} cla042         _?                           N
+- .o .     R     _NIVEN Larry                 L'Anneau-Monde [Known space] ş1970 Ringworld
+o CLA        43i 1973.xx R.... ISBN -
+} cla043j        _?                           N
+} cla043         _?                           N
+- .o .    _R2    _ANTHONY Piers               Omnivore - Orn ş1973
+: .o .     R     _ANTHONY Piers               Omnivore ş1968 Omnivore
+: .o .     R     _ANTHONY Piers               Orn ş1970 Orn
+o CLA        44i 1973.xx ..... ISBN -
+} cla044         _?                           N
+- .oS.    _R2    _PANGBORN Edgar              Un miroir pour les observateurs - Davy ş1973
+: .o .     R     _PANGBORN Edgar              Un miroir pour les observateurs ş1954 A Mirror for Observers
+: .o .     R     _PANGBORN Edgar              Davy ş1964 Davy
+o CLA        45i 1973.xx R.... ISBN -
+} cla045j        _?                           N
+} cla045         _?                           N
+- .oS.    _RN6   _SCHMITZ James H.            Les SorciŠres de Karres - Les Haleines du temps ş1973
+: .o .     R     _SCHMITZ James H.            Les SorciŠres de Karres ş1966 The Witches of Karres
+: .o .     N6    _SCHMITZ James H.            Les Haleines du temps [S‚rie Hub] ş1965 A Nice Day for Screaming and Other Tales of the Hub
+= .o .     N     _SCHMITZ James H.            Un beau jour pour hurler [S‚rie Hub] ş1965 A Nice Day for Screaming
+= .o .     N     _SCHMITZ James H.            Les Haleines du temps [S‚rie Hub] ş1962 The Winds of Time
+= .o .     N     _SCHMITZ James H.            L'Autre Ressemblance [S‚rie Hub] ş1962 The Other Likeness
+= .o .     N     _SCHMITZ James H.            Les Hyacinthes des ‚toiles [S‚rie Hub] ş1961 The Star Hyacinths (The Tangled Web)
+= .o .     N     _SCHMITZ James H.            Les Hommes-Machines [S‚rie Hub] ş1964 The Machmen
+= .o .     N     _SCHMITZ James H.            cologie compens‚e [S‚rie Hub] ş1965 Balanced Ecology
+o CLA        46i 1973.xx R.... ISBN -
+} cla046j        _?                           N
+} cla046         _?                           N
+- .oS.    _R2    _SHAW Bob                    L'Autre Pr‚sent - Les Yeux du temps ş1973
+: .o .     R     _SHAW Bob                    L'Autre Pr‚sent ş1968 The Two-Timers
+: .o .     R     _SHAW Bob                    Les Yeux du temps ş1972 Other Days, Other Eyes
+o CLA        47i 1974.xx ..... ISBN 2-7201-0017-X
+} cla047         _?                           N
+- .oS.    _R2    _HEINLEIN Robert             L'ƒge des ‚toiles - Citoyen de la galaxie ş1974
+: .oS.     R     _HEINLEIN Robert             L'ƒge des ‚toiles ş1956 Time for the Stars
+: .oS.     R     _HEINLEIN Robert             Citoyen de la galaxie ş1957 Citizen of the Galaxy
+o CLA        48i 1974.xx R.... ISBN 2-7201-0009-9
+} cla048j        _?                           N
+} cla048         _?                           N
+- .o .     R     _NIVEN Larry                 Le Monde des Ptavvs [Known space] ş1965-1966 World of Ptavvs
+!--- Nota : 1965 en magazine, expans‚ en 1966 en livre
+o CLA        49i 1974.xx R.... ISBN 2-7201-0001-3
+} cla049         _?                           N
+- .oS.    _RN16  _SHECKLEY Robert             Le Temps meurtrier - Et quand je vous fais ‡a, vous sentez quelque chose ? ş1974
+: .o .     R     _SHECKLEY Robert             Le Temps meurtrier ş1958 Time Killer şTrad. ZIMET Ben
+!--- TBC : Titre VO : Immortality ?
+: .o .    _N16   _SHECKLEY Robert             Et quand je vous fais ‡a, vous sentez quelque chose ? ş1971 Can You Feel Anything when I Do This? şTrad. ZIMET Ben
+= .o .     N     _SHECKLEY Robert             Et quand je vous fais ‡a, vous sentez quelque chose ? ş1969 Can You Feel Anything when I Do This? şTrad. ZIMET Ben
+= .o .     N     _SHECKLEY Robert             Au royaume des carottes, les oignons sont rois ş1969 Cordle to Onion and Carrot
+= .o .     N     _SHECKLEY Robert             Le Monde p‚trifi‚ ş1968 The Petrified World
+= .o .     N     _SHECKLEY Robert             Jeu : premiŠre sch‚matique ş1971 Game: First Schematic
+= .o .     N     _SHECKLEY Robert             Le Docteur Zombi et ses petits copains … poil ş1971 Doctor Zombie and His Furry Little Friends
+= .o .     N     _SHECKLEY Robert             Cruelles ‚quations ş1961 The Cruel Equations
+= .o .     N     _SHECKLEY Robert             La Mˆme chose pour toi, en double ş1970 The Same to You Doubled
+= .o .     N     _SHECKLEY Robert             Histoire de gratter ş1970 Starting from Scratch
+= .o .     N     _SHECKLEY Robert             Le Mn‚mone ş1971 The Mnemone
+= .o .     N     _SHECKLEY Robert             Les Vacances de monsieur Papazian ş1961 Tripout
+= .o .     N     _SHECKLEY Robert             Remarques sur la perception de diff‚rences imaginaires ş1971 Notes on the Perception of Imaginary Differences
+= .o .     N     _SHECKLEY Robert             Supertrip du tube digestif au cosmos via Mantra, Tantra et super-cocktail maison ş1971 Down the Digestive Tract and Into the Cosmos With Mantra, Tantra and Specklebang
+= .o .     N     _SHECKLEY Robert             Le Pas de trois du chef, du gar‡on et du client ş1971 Three Sinners in the Green Jade Moon / Pas De Trois of the Chef and the Waiter and the Customer
+= .o .     N     _SHECKLEY Robert             Aper‡us sur Langranak ş1971 Aspects of Langranak
+= .o .     N     _SHECKLEY Robert             Circuit pestilentiel ş1971 Plague Circuit
+= .o .     N     _SHECKLEY Robert             Vou‚s au d‚sastre ş1970 Tailpipe to Disaster
+o CLA        50i 1974.xx ..... ISBN 2-7201-0002-1
+} cla050j        _?                           N
+} cla050         _?                           N
+- .oS.     RN6   _SMITH Cordwainer            Les Seigneurs de l'Instrumentalit‚ (Tome 1) [Les Seigneurs de l'Instrumentalit‚] ş1974
+: .o .     N     _SMITH Cordwainer            La Dame aux ‚toiles ş1960 The Lady who Sailed the Soul şTrad. DEMUTH Michel
+: .o .     N     _SMITH Cordwainer            Les sondeurs vivent en vain ş1950 Scanners Live in Vain şTrad. HILLING Simone
+: .o .     N     _SMITH Cordwainer            Le Jeu du rat et du dragon ş1955 The Game of Rat and Dragon şTrad. DEMUTH Michel
+: .o .     N     _SMITH Cordwainer            Le Cerveau br–l‚ ş1958 The Burning of the Brain şTrad. HILLING Simone
+: .o .     N     _SMITH Cordwainer            Le Vaisseau d'or ş1959 Golden the Ship Was, Oh! Oh! Oh! şTrad. HILLING Simone
+: .o .     N     _SMITH Cordwainer            Boulevard Alpha-Ralpha ş1961 Alpha Ralpha Boulevard şTrad. BILLON Pierre
+: .o .     R     _SMITH Cordwainer            L'Homme qui avait achet‚ la Terre [Les Seigneurs de l'Instrumentalit‚ - 4] ş1964 The Planet Buyer şTrad. HILLING Simone
+o CLA        51i 1974.xx ..... ISBN 2-7201-0002-1
+} cla055j        _?                           N
+} cla051         _?                           N
+- .oS.     RN4   _SMITH Cordwainer            Les Seigneurs de l'Instrumentalit‚ (Tome 2) [Les Seigneurs de l'Instrumentalit‚] ş1974
+: .o .     R     _SMITH Cordwainer            Le Sous-Peuple [Les Seigneurs de l'Instrumentalit‚ - 5] ş1968 The Underpeople şTrad. HILLING Simone
+: .o .     N     _SMITH Cordwainer            Sur la planŠte aux gemmes [Cycle de Casher O'Neill - 1] ş1963 On the Gem Planet şTrad. LATHIERE Ren‚
+: .o .     N     _SMITH Cordwainer            Sur la planŠte des tempˆtes [Cycle de Casher O'Neill - 2] ş1965 On the Storm Planet şTrad. HERSANT Denise
+: .o .     N     _SMITH Cordwainer            Sur la planŠte des sables [Cycle de Casher O'Neill - 3] ş1965 On the Sand Planet şTrad. HERSANT Denise
+: .o .     N     _SMITH Cordwainer            Une ‚toile pour trois [Cycle de Casher O'Neill - 4] ş1965 Three to a Given Star şTrad. DEUTSCH Michel
+o CLA        52i 1974.xx ..... ISBN 2-7201-0002-1
+} cla052         _?                           N
+- .oS.     N9    _SMITH Cordwainer            Les Seigneurs de l'Instrumentalit‚ (Tome 3) [Les Seigneurs de l'Instrumentalit‚] ş1974
+: .o .     N     _SMITH Cordwainer            La MŠre Hitton et ses chatons ş1961 Mother Hitton's Littul Kittons şTrad. BILLON Pierre
+: .o .     N     _SMITH Cordwainer            La Ballade de C'mell ş1962 The Ballad of Lost C'mell şTrad. DEMUTH Michel
+: .o .     N     _SMITH Cordwainer            Le Vaisseau ivre ş1963 Drunkboat
+!--- TBC: le bateau ivre ? quelle traduction ?
+: .o .     N     _SMITH Cordwainer            La Dame d‚funte de la ville des gueux ş1964 The Dead Lady of Clown Town şTrad. DOREMIEUX Alain
+: .o .     N     _SMITH Cordwainer            Le Crime et la gloire du commandant Suzdal ş1964 The Crime and Glory of Commander Suzdal şTrad. HERSANT Denise
+: .o .     N     _SMITH Cordwainer            Pensez bleu, comptez deux ş1963 Think Blue, Count Two şTrad. HERSANT Yves
+: .o .     N     _SMITH Cordwainer            Le Jour de la pluie humaine ş1959 When the People Fell şTrad. DEMUTH Michel
+: .o .     N     _SMITH Cordwainer            La PlanŠte Shayol ş1961 A Planet Named Shayol şTrad. DEMUTH Michel
+: .o .     N     _SMITH Cordwainer            Sous la vieille Terre ş1966 Under Old Earth şTrad. DEMUTH Michel
+o CLA        53  1974.xx R.... ISBN 2-7201-0003-X
+} cla053         _?                           N
+- .oS.    _R2    _RUSSELL Eric Frank          Guˆpe - Plus X ş1974
+: .o .     R     _RUSSELL Eric Frank          Guˆpe ş1957 Wasp
+: .o .     R     _RUSSELL Eric Frank          Plus X ş1958 The Space Willies / Next of Kin
+!--- version roman de la nouvelle "Plus X"
+o CLA        54  1975.xx R.... ISBN 2-7201-0010-2
+} cla054         _?                           N
+- .oS.    _R2    _DEL REY Lester              Le OnziŠme Commandement - Psi ş1974
+: .o .     R     _DEL REY Lester              Le OnziŠme Commandement ş1962 The Eleventh Commandment
+: .o .     R     _DEL REY Lester              Psi ş1971 Pstalemate
+o CLA        55  1975.xx R.... ISBN 2-7201-0014-5
+} cla055         _?                           N
+- .oS.    _R2    _CHRISTOPHER John            Terre br–l‚e - L'Hiver ‚ternel ş1975
+: .o .     R     _CHRISTOPHER John            Terre br–l‚e ş1956 The Death of Grass  / No Blade of Grass
+: .o .     R     _CHRISTOPHER John            L'Hiver ‚ternel ş1962 The Long Winter / The World in Winter
+o CLA        56  1975.xx ..... ISBN 2-7201-0018-8
+} cla056         _?                           N
+- .oS.     RN5   _HAMILTON Edmond             Hors de l'univers - Les Voleurs d'‚toile ş1975
+: .o .     R     _HAMILTON Edmond             Hors de l'univers ş1929 Outside the Universe
+!--- TBC: Hors l'univers ?
+: .oS.    _N5    _HAMILTON Edmond             Les Voleurs d'‚toiles ş1965 Crashing Suns
+= .o .     N     _HAMILTON Edmond             Conflits de soleils ş1928 Crashing Suns
+= .o .     N     _HAMILTON Edmond             Les Voleurs d'‚toile ş1929 The Star Stealers
+= .o .     N     _HAMILTON Edmond             Au sein de la n‚buleuse ş1929 Within the Nebula
+= .o .     N     _HAMILTON Edmond             Les Meneurs de comŠtes ş1930 The Comet-drivers
+= .o .     N     _HAMILTON Edmond             Le Nuage cosmique ş1930 The Cosmic Cloud
+o CLA        57  1975.xx R.... ISBN 2-7201-0032-3
+} cla057         _?                           N
+- .oS.    _R2    _McDONALD John D.            Le Vin des rˆveurs - Le Bal du cosmos ş1975
+: .o .     R     _McDONALD John D.            Le Vin des rˆveurs ş1951 Wine of the Dreamers / Planet of the Dreamers
+: .o .     R     _McDONALD John D.            Le Bal du cosmos ş1952 Ballroom of the Skies
+o CLA        58  1975.xx R.... ISBN 2-7201-0035-8
+} cla058         _?                           N
+- .o .     R     _BASS T.J.                   Humanit‚ et demie ş1971 Half Past Human
+o CLA        59  1975.xx R.... ISBN 2-7201-0036-6
+} cla059         _?                           N
+- .o .     R     _BASS T.J.                   Le Dieu baleine ş1974 The Godwhale
+o CLA        60  1976.xx R.... ISBN 2-7201-0045-5
+} cla060j        _?                           N
+} cla060         _?                           N
+- .oS.     N20   _KNIGHT Damon                Les Univers de Damon Knight ş1976
+: .o .     N     _KNIGHT Damon                Ne vivez pas dans le pass‚ ! ş1951 Don't Live in the Past
+: .o .     N     _KNIGHT Damon                Un monde sans enfants ş1951 World Without Children
+: .o .     N     _KNIGHT Damon                Quatre en un ş1953 Four in One
+: .o .     N     _KNIGHT Damon                A l'‚tat de nature ş1954 Natural State
+: .o .     N     _KNIGHT Damon                En scŠne ! ş1955 You're Another
+: .o .     N     _KNIGHT Damon                Tu ne tueras point ! ş1956 The Country of the Kind
+: .o .     N     _KNIGHT Damon                A rebours ş1956 This Way to Regress / Backward, O Time!
+: .o .     N     _KNIGHT Damon                Contact avec l'inconnu ş1956 Stranger Station
+: .o .     N     _KNIGHT Damon                Quelle histoire ! ş1956 A Likely Story
+: .o .     N     _KNIGHT Damon                Oeil pour... quoi ? ş1957 An Eye For... What?
+: .o .     N     _KNIGHT Damon                L'Homme … la jarre ş1957 Man in a Jar
+: .o .     N     _KNIGHT Damon                La Nuit des mensonges ş1958 The Night of Lies
+: .o .     N     _KNIGHT Damon                Le Manager ş1960 The Handler
+: .o .     N     _KNIGHT Damon                Autodaf‚ ş1961 Auto-da-f‚
+: .o .     N     _KNIGHT Damon                PiŠce de mus‚e ş1963 End of the Search / Collector's Item
+: .o .     N     _KNIGHT Damon                Les Touristes de la galaxie ş1963 The Big Pat Boom
+: .o .     N     _KNIGHT Damon                Une folie ancienne ş1964 An Ancient Madness / Mary
+: .o .     N     _KNIGHT Damon                Semper fi ş1964 Satisfaction / Semper Fi
+: .o .     N     _KNIGHT Damon                Une fille sur mesure ş1964 Maid to Measure
+: .o .     N     _KNIGHT Damon                Hommage aux purs ş1965 To the Pure
+o CLA        61  1976.xx R.... ISBN 2-7201-0050-1
+} cla061j        _?                           N
+} cla061         _?                           N
+- .oS.    _R2    _POHL Frederik              &La Tribu des loups - La Promenade de l'ivrogne ş1976
+&                _KORNBLUTH Cyril M.          
+: .o .     R     _POHL Frederik              &La Tribu des loups ş1957 Wolfbane
+&                _KORNBLUTH Cyril M.          
+: .o .     R     _POHL Frederik               La Promenade de l'ivrogne ş1960 Drunkard's Walk
+o CLA        62  1976.xx R.... ISBN 2-7201-0051-X
+} cla062j        _?                           N
+} cla062         _?                           N
+- .oS.    _R2    _WYNDHAM John                Les Chrysalides - Chocky ş1976
+: .o .     R     _WYNDHAM John                Les Chrysalides ş1955 Re-birth
+: .o .     R     _WYNDHAM John                Chocky ş1968 Chocky
+o CLA        63  1976.xx R.... ISBN 2-7201-0062-5
+} cla063j        _?                           N
+} cla063         _?                           N
+- .oS.    _R2    _BRACKETT Leigh              Alpha ou la mort - Le Recommencement ş1976
+: .oS.     R     _BRACKETT Leigh              Alpha ou la mort ş1963 Alpha Centauri or Die!
+!--- Expansion de _Teleportess of Alpha C_ (1954)
+: .oS.     R     _BRACKETT Leigh              Le Recommencement ş1955 The Long Tomorrow
+o CLA        64  1976.xx R.... ISBN 2-7201-0074-9
+} cla064j        _?                           N
+} cla064         _?                           N
+- .o .    cC7    _ROBERTS Keith               Les G‚ants de craie ş1974 The Chalk Giants
+: .oS.     N     _ROBERTS Keith               Le Soleil au dessus d'une colline basse ş1974 The Sun Over a Low Hill
+: .oS.     N     _ROBERTS Keith               Fragments ş1974 Fragments
+: .oS.     N     _ROBERTS Keith               Singe, Pru et Sal ş1971 Monkey and Pru and Sal
+: .oS.     N     _ROBERTS Keith               La Maison du dieu ş1971 The God House
+: .oS.     N     _ROBERTS Keith               Le Magnifique ş1973 The Beautiful One
+: .oS.     N     _ROBERTS Keith               Rand, Rate et le danseur ş1974 Rand, Rat and the Dancing Man
+: .oS.     N     _ROBERTS Keith               Usk le bouffon ş1974 Usk the Jokeman
+o CLA        65  1976.xx ..... ISBN 2-7201-0075-7
+} cla065j        _?                           N
+} cla065         _?                           N
+- .oS.    _R2    _VANCE Jack                  Alastor [Les Mondes d'Alastor - 1/2] ş1976
+: .oS.     R     _VANCE Jack                  Alastor : Trullion [Les Mondes d'Alastor - 1] ş1973 Trullion: Alastor 2262 şTrad. MARTIN Bruno
+: .oS.     R     _VANCE Jack                  Alastor : Marune [Les Mondes d'Alastor - 2] ş1975 Marune: Alastor 933 şTrad. MARTIN Bruno
+o CLA        66  1977.xx R.... ISBN 2-7201-0092-7
+} cla066j        _?                           N
+} cla066         _?                           N
+- .oS.    _R2    _POHL Frederik              &Le Syndic - Les Sillons du ciel ş1977
+&                _KORNBLUTH Cyril M.          
+: .o .     R     _KORNBLUTH Cyril M.          Le Syndic ş1953 The Syndic
+: .o .     R     _POHL Frederik              &Les Sillons du ciel ş1954 Search the Sky
+&                _KORNBLUTH Cyril M.          
+o CLA        67  1977.xx R.... ISBN 2-7201-0095-1
+} cla067j        _?                           N
+} cla067         _?                           N
+- .oS.     RN15  _GUNN James E.               Le Monde forteresse - Futur imparfait - Les Hommes du dehors ş1977
+: .o .     R     _GUNN James E.               Le Monde forteresse ş1955 This Fortress World
+: .o .     N10   _GUNN James E.               Futur imparfait ş1964 Future Imperfect
+= .o .     N     _GUNN James E.               Le Misogyne ş1952 The Misogynist
+= .o .     N     _GUNN James E.               Le Dernier Mot ş1964 The Last Word
+= .o .     N     _GUNN James E.               L'Andro‹de orphelin ş1955 Little Orphan Android
+= .o .     N     _GUNN James E.               Bavardage interrompu ş1956 The Stilled Patter
+= .o .     N     _GUNN James E.               L'Escroquerie ş1958 Skin Game
+= .o .     N     _GUNN James E.               C'est tous les jours No‰l ş1957 Everyday Is Christmas
+= .o .     N     _GUNN James E.               Les Plus Belles Filles de Neosho ş1958 Neosho's Choicest / The Girls who Were Really Built
+= .o .     N     _GUNN James E.               Police de survie ş1952 Survival Policy
+= .o .     N     _GUNN James E.               Etsylana ş1956 Tsylana
+= .o .     N     _GUNN James E.               L'Heure du repas ş1955 Feeding Time
+: .o .     N5    _GUNN James E.               Les Hommes du dehors ş1958 Station in Space / Space Station
+= .o .     N     _GUNN James E.               La Caverne de la nuit ş1955 The Cave of Night
+= .o .     N     _GUNN James E.               Coup mont‚ ş1955 Hoax
+= .o .     N     _GUNN James E.               La Grande Roue ş1956 The Big Wheel
+= .o .     N     _GUNN James E.               Baril de poudre ş1958 Powder Keg
+= .o .     N     _GUNN James E.               L'espace est solitude ş1957 Space Is a Lonely Place
+o CLA_NE     68  1978.xx ..... ISBN 2-7201-0103-6
+} cla068j        _?                           N
+} cla068         _?                           N
+- .o .     R     _SMITH Evelyn E.             PlanŠte impopulaire ş1975 The Impopular Planet
+o CLA_NE     69  1978.08 ..... ISBN 2-7201-0104-4
+} cla069j        _?                           N
+} cla069         _?                           N
+- .oS.    _R2    _RUSSELL Eric Frank          La Grande Explosion - Le Sanctuaire terrifiant ş1978
+: .o .     R     _RUSSELL Eric Frank          La Grande Explosion ş1962 The Great Explosion
+: .o .     R     _RUSSELL Eric Frank          Le Sanctuaire terrifiant ş1948-1967 Dreadful Sanctuary
+o CLA_NE     70  1979.xx R.... ISBN 2-7201-0111-7
+} cla070j        _?                           N
+} cla070         _?                           N
+- .oS.    _R2    _EKLUND Gordon              &Les aires du r‚el - Les ‚toiles, si elles sont divines... ş1979
+&                _BENFORD Gregory             
+: .oS.     R     _EKLUND Gordon               Les Aires du r‚el ş1974 All Times Possible
+: .oS.     R     _EKLUND Gordon              &Les ‚toiles, si elles sont divines... ş1977 If the Stars Are Gods
+&                _BENFORD Gregory             
+o CLA_NE     71  1979.xx R.... ISBN 2-7201-0114-1
+} cla071j        _?                           N
+} cla071         _?                           N
+- .oS.    _R2    _TUCKER Wilson               La Glace et le fer - A la poursuite de Lincoln ş1979
+: .o .     R     _TUCKER Wilson               La Glace et le fer ş1974 Ice and Iron
+: .o .     R     _TUCKER Wilson               A la poursuite de Lincoln ş1958 The Lincoln Hunters
+o CLA_NE     72  1980.xx ..... ISBN 2-7201-0117-6
+} cla072j        _?                           N
+} cla072         _?                           N
+- .o .     R     _BUTLER Octavia E.           Le Motif ş1976 Mind of My Mind
+o CLA_NE     73  1980.xx R.... ISBN 2-7201-0119-2
+} cla073j        _?                           N
+} cla073         _?                           N
+- .o .     R     _CHERRYH Carolyn J.          FrŠres de la Terre ş1976 Brothers of Earth
+o CLA_NE     74  1980.xx ..... ISBN 2-7201-0121-4
+} cla074j        _?                           N
+} cla074         _?                           N
+- .o .     R     _BUTLER Octavia E.           La Survivante ş1977 Survivor
+o CLA_NE     75  1980.xx ..... ISBN 2-7201-0123-0
+} cla075j        _?                           N
+} cla075         _?                           N
+- .o .     R     _CHERRYH Carolyn J.          Les Portes d'Ivrel [Le Livre de Morgane - 1] ş1976 Gate of Ivrel
+o CLA_NE     76  1980.xx ..... ISBN 2-7201-0126-5
+} cla076j        _?                           N
+} cla076         _?                           N
+- .oS.    _R2    _GESTON Mark S.              Le Seigneur du navire-‚toile - Hors de la bouche du dragon ş1980
+: .o .     R     _GESTON Mark S.              Le Seigneur du navire-‚toile ş1967 Lords of the Starship
+: .o .     R     _GESTON Mark S.              Hors de la bouche du dragon ş1969 Out of the Mouth of the Dragon
+o CLA_NE     77  1981.xx R.... ISBN 2-7201-0127-3
+} cla077j        _?                           N
+} cla077         _?                           N
+- .o .     R     _CHERRYH Carolyn J.          Le Puits de Shiuan [Le Livre de Morgane - 2] ş1978 Well of Shiuan
+o CLA_NE     78  1981.xx R.... ISBN 2-7201-0131-1
+} cla078j        _?                           N
+} cla078         _?                           N
+- .oS.    _R3    _STABLEFORD Brian M.         Les Royaumes de Tartare ş1977 The Realms of Tartarus
+: .o .     R     _STABLEFORD Brian M.         La Face du ciel ş1976 The Face of Heaven
+: .o .     R     _STABLEFORD Brian M.         Une vision de l'enfer ş1977 A Vision of Hell
+: .o .     R     _STABLEFORD Brian M.         Un aper‡u de l'infini ş1977 A Glimpse of Infinity
+o CLA_NE     79  1981.xx R.... ISBN 2-7201-0132-X
+} cla079j        _?                           N
+} cla079         _?                           N
+- .o .     R     _CHERRYH Carolyn J.          Les Feux d'Azeroth [Le Livre de Morgane - 3] ş1979 Fires of Azeroth
+o CLA_NE     80  1981.xx R.... ISBN 2-7201-0135-4
+} cla080j        _?                           N
+} cla080         _?                           N
+- .o .    _R2    _LEE Tanith                  Sabella ou la pierre de sang - Le MaŒtre des t‚nŠbres ş1981
+: .o .     R     _LEE Tanith                  Sabella ou la pierre de sang [Sabella] ş1980 Sabella or the Blood Stone
+: .o .     R     _LEE Tanith                  Le MaŒtre des t‚nŠbres [Le Dit de la terre plate - 1] ş1978 Night's Master
+o CLA_NE     81  1981.xx R.... ISBN 2-7201-0139-7
+} cla081j        _?                           N
+} cla081         _?                           N
+- .oS.    _RN2   _BRUNNER John                L'Empire interstellaire ş1976 Interstellar Empire
+: .o .     R     _BRUNNER John                L'Autel d'Asconel ş1965 The Altar at Asconel / The Altar on Asconel
+: .o .     N     _BRUNNER John                L'vad‚ des t‚nŠbres ş1958 The Man from the Big Dark
+: .o .     N     _BRUNNER John                La D‚voy‚e d'Argus ş1953 The Wanton of Argus
+o CLA_NE     82  1982.xx ..... ISBN 2-7201-0144-3
+} cla082j        _?                           N
+} cla082         _?                           N
+- .o .     R     _LEE Tanith                  Le MaŒtre de la mort [Le Dit de la terre plate - 2] ş1979 Death's Master
+o CLA_NE     83  1982.xx ..... ISBN 2-7201-0145-1
+} cla083j        _?                           N
+} cla083         _?                           N
+- .o .     R     _FOSTER Micha‰l A.           Les Joueurs de Zan ş1977 The game players of Zan
+o CLA_NE     84  1982.xx R.... ISBN 2-7201-0149-4
+} cla084j        _?                           N
+} cla084         _?                           N
+- .o .     R     _DIBELL Ansen                La Chasse au hurleur [Cycle des Rois de Kantmorie - 1] ş1978 Poursuit of the Screamer şTrad. LEMOINE Daniel
+o CLA_NE     85  1982.xx ..... ISBN 2-7201-0152-4
+} cla085j        _?                           N
+} cla085         _?                           N
+- .oS.    _R2    _BRUNNER John                La Toile de l'araign‚e - La Tangence des parallŠles ş1982
+: .o .     R     _BRUNNER John                La Toile de l'araign‚e ş1974 Web of Everywhere / Webs of Everywhere
+: .o .     R     _BRUNNER John                La Tangence des parallŠles ş1980 The Infinitive of Go
+o CLA_NE     86  1982.xx ..... ISBN 2-7201-0153-2
+} cla086j        _?                           N
+} cla086         _?                           N
+- .o .     R     _LEE Tanith                  Le Seigneur des tempˆtes ş1976 The Storm Lord
+o CLA_NE     87  1982.xx R.... ISBN 2-7201-0155-9
+} cla087j        _?                           N
+} cla087         _?                           N
+- .o .     R     _NIVEN Larry                 Les Ing‚nieurs de l'anneau-monde [Known space] ş1979 Ringworld Engineers
+o CLA_NE     88  1982.xx R.... ISBN 2-7201-0R=148-6
+} cla088j        _?                           N
+} cla088         _?                           N
+- .oS.    _R3    _MOORCOCK Michael            Les Aventures uchroniques d'Oswald Bastable [Oswald Bastable - 1/3] ş1982
+: .o .     R     _MOORCOCK Michael            Le Seigneur des airs [Oswald Bastable - 1] ş1971 Warlord of the Air
+: .o .     R     _MOORCOCK Michael            Le L‚viathan des terres [Oswald Bastable - 2] ş1974 The Land Leviathan
+: .o .     R     _MOORCOCK Michael            Le Tsar d'acier [Oswald Bastable - 3] ş1981 The Steel Tsar
+o CLA_NE     89  1982.xx R.... ISBN 2-7201-0161-3
+} cla089j        _?                           N
+} cla089         _?                           N
+- .oS.    _R2    _GESTON Mark S.              L'‚toile de Ferrin - La Guerre des thaumaturges ş1982
+: .o .     R     _GESTON Mark S.              L'toile de Ferrin ş1972 Day Star
+: .o .     R     _GESTON Mark S.              La Guerre des thaumaturges ş1976 The Siege of Wonder
+o CLA_NE     90  1983.xx ..... ISBN 2-7201-0162-1
+} cla090j        _?                           N
+} cla090         _?                           N
+- .o .     R     _ANTHONY Piers               L'Infini ‚clat‚ [L'Adepte bleu - 1] ş1980 Split Infinity
+o CLA_NE     91  1983.xx R.... ISBN 2-7201-0164-8
+} cla091j        _?                           N
+} cla091         _?                           N
+- .o .     R     _CHERRYH Carolyn J.          Soleil mort : Kesrith [Soleil mort] ş1978 The Faded Sun: Kesrith
+o CLA_NE     92  1983.xx R.... ISBN 2-7201-0166-4
+} cla092j        _?                           N
+} cla092         _?                           N
+- .o .     R     _CHERRYH Carolyn J.          Forteresse des ‚toiles ş1981 Downbelow Station
+o CLA_NE     93  1983.xx R.... ISBN 2-7201-0167-2
+} cla093j        _?                           N
+} cla093         _?                           N
+- .o .     R     _WALLACE Ian                 La ComŠte de Lucifer ş1980 The Lucifer Comet
+o CLA_NE     94  1983.xx ..... ISBN 2-7201-0170-2
+} cla094j        _?                           N
+} cla094         _?                           N
+- .o .     R     _CHERRYH Carolyn J.          Soleil mort : Shon'jir [Soleil mort] ş1978 The Faded Sun: Shon'Jir
+o CLA_NE     95  1983.xx ..... ISBN 2-7201-0171-0
+} cla095j        _?                           N
+} cla095         _?                           N
+- .o .     R     _SARGENT Pamela              Le RŠgne des immortels ş1982 The Golden Space
+o CLA_NE     96  1983.xx R.... ISBN 2-7201-0175-3
+} cla096j        _?                           N
+} cla096         _?                           N
+- .o .     R     _CHERRYH Carolyn J.          Soleil mort : Kutath [Soleil mort] ş1979 The Faded Sun: Kutath
+o CLA_NE     97  1983.xx ..... ISBN 2-7201-0179-2
+} cla097j        _?                           N
+} cla097         _?                           N
+- .o .     R     _DIBELL Ansen                Le Cercle, le croissant et l'‚toile [Cycle des Rois de Kantmorie - 2] ş1981 Circle, Crescent Star şTrad. SCHMITT Jacques
+o CLA_NE     98  1983.xx R.... ISBN 2-7201-0180-X
+} cla098j        _?                           N
+} cla098         _?                           N
+- .o .     R     _BENFORD Gregory            &Shiva le destructeur ş1980 Shiva Descending
+&                _ROTSLER William             
+o CLA_NE     99  1984.xx R.... ISBN 2-7201-0185-0
+} cla099j        _?                           N
+} cla099         _?                           N
+- .o .     R     _DIBELL Ansen                La Fˆte de l'‚t‚ [Cycle des Rois de Kantmorie - 3] ş1982 Summer Fair şTrad. CARISSIMO Luc
+o CLA_NE    100  1984.xx ..... ISBN 2-7201-0186-9
+} cla100j        _?                           N
+} cla100         _?                           N
+- .oS.    _R2    _YOUNG Robert F.             Baleinier de la nuit - Le Dernier Yggdrasil ş1984
+: .o .    _U12   _YOUNG Robert F.             Baleinier de la nuit ş1980 Starfinder
+= .o .     N     _YOUNG Robert F.             L'Homme dans la Lune ş1969 The Man in the Moon
+= .o .     N     _YOUNG Robert F.             Le CimetiŠre des baleines spatiales ş1970 The Spacewhale Graveyard
+= .o .     N     _YOUNG Robert F.             Ar‚opage ş1971 Areopagus
+= .o .     N     _YOUNG Robert F.             Epave flottante ş1980 Flotsam
+= .o .     N     _YOUNG Robert F.             Sous l'oc‚an peint ş1980 Beneath the Painted Ocean
+= .o .     N     _YOUNG Robert F.             O— Ciely fait son entr‚e ş1977 Enter Ciely
+= .o .     N     _YOUNG Robert F.             La Haute Bourgeoisie ş1980 The Haute Bourgeoisie
+= .o .     N     _YOUNG Robert F.             La Rose ş1980 The Rose
+= .o .     N     _YOUNG Robert F.             La Baleine de l'espace temps ş1980 Spacewhale, Space Time
+= .o .     N     _YOUNG Robert F.             Dans la crypte ş1980 In the Crypt
+= .o .     N     _YOUNG Robert F.             Largu‚ ş1980 Jetsam
+= .o .     N     _YOUNG Robert F.             La Compagnie de construction ş1980 The Construction Company
+: .o .     R     _YOUNG Robert F.             Le Dernier Yggdrasil ş1982 The Last Yggdrasil
+o CLA_NE    101  1984.xx ..... ISBN 2-7201-0193-1
+} cla101j        _?                           N
+} cla101         _?                           N
+- .o .     R     _KAHN James                  Un autre monde hors le temps ş1980 World Enough and Time
+o CLA_NE    102  1984.xx ..... ISBN 2-7201-0194-X
+} cla102j        _?                           N
+} cla102         _?                           N
+- .oS.    _R2    _SARGENT Pamela              Copies conformes - L'‚toile blanche ş1984
+: .o .     R     _SARGENT Pamela              Copies conformes ş1976 Cloned Lives
+: .o .     R     _SARGENT Pamela              L'toile blanche ş1979 The Sudden Star
+o CLA_NE    103  1984.xx R.... ISBN 2-7201-0195-8
+} cla103j        _?                           N
+} cla103         _?                           N
+- .o .     R     _KAHN James                  Le Rire noir du temps ş1982 Time's Dark Laughter
+o CLA_NE    104  1984.xx R.... ISBN 2-7201-0196-6
+} cla104j        _?                           N
+} cla104         _?                           N
+- .o .     R     _ANTHONY Piers               L'Adepte bleu [L'Adepte bleu - 2] ş1981 Blue Adept
+o CLA_NE    105  1984.xx R.... ISBN 2-7201-0202-4
+} cla105j        _?                           N
+} cla105         _?                           N
+- .o .     R     _HAIBLUM Isidore             Destination cauchemar ş1979 Nightmare Express
+o CLA_NE    106  1984.xx ..... ISBN 2-7201-0204-0
+} cla106j        _?                           N
+} cla106         _?                           N
+- .o .     R     _KAHN James                  La Ronde subtile du temps ş1983 Timefall
+o CLA_NE    107  1984.xx ..... ISBN 2-7201-0205-9
+} cla107j        _?                           N
+} cla107         _?                           N
+- .o .     R     _HAIBLUM Isidore             Wilk ! ş1975 The Wilk Are Among Us
+o CLA_NE    108  1984.xx ..... ISBN 2-7201-0206-7
+} cla108j        _?                           N
+} cla108         _?                           N
+- .o .     R     _SHEA Michael                La Quˆte de Nifft-le-mince ş1982 Nifft the Lean
+!--- TBC C4 ou U4 (preface + 1 R + 3 r/N)
+!---       p     ? ş1982 Shag Margold's Eulogy of Nifft the Lean, His Dear Friend
+!---       r     ? ş1982 Come Then, Mortal, we Will Seek Her Soul
+!---       N     ? ş1982 The Pearls of the Vampire Queen
+!---       R     ? ş1982 The Fishing of the Demon-Sea
+!---       r     ? ş1982 The Goddess in Glass
+o CLA_NE    109  1985.xx ..... ISBN 2-7201-0214-8
+} cla109j        _?                           N
+} cla109         _?                           N
+- .o .     R     _ANTHONY Piers               Juxtaposition [L'Adepte bleu - 3] ş1982 Juxtaposition
+o CLA_NE    110  1985.xx ..... ISBN 2-7201-0216-4
+} cla110j        _?                           N
+} cla110         _?                           N
+- .o .     R     _LEE Tanith                  Anackire ş1983 Anackire
+o CLA_NE    111  1985.xx ..... ISBN 2-7201-0218-0
+} cla111j        _?                           N
+} cla111         _?                           N
+- .o .     R     _CHERRYH Carolyn J.          Les Oubli‚s de Gehenna ş1983 Forty Thousand in Gehenna
+o CLA_NE    112  1985.xx ..... ISBN 2-7201-0247-9
+} cla112j        _?                           N
+} cla112         _?                           N
+- .o .     R     _DIBELL Ansen                Aux confins de l'ouragan [Cycle des Rois de Kantmorie - 4] ş? Tidestorm Limit şTrad. LEMOINE Daniel
+o CLA_NE    113  1985.xx ..... ISBN 2-7201-0248-7
+} cla113j        _?                           N
+} cla113         _?                           N
+- .o .     R     _CONEY Michael               Demain la jungle ş1979 The Ultimate Jungle
+o CLA_NE    114  1985.xx ..... ISBN 2-7201-0249-5
+} cla114j        _?                           N
+} cla114         _?                           N
+- .o .     R     _BRIN David                  Jusqu'au coeur du soleil [Cycle de l'‚l‚vation] ş1980 Sundiver
+o CLA_NE    115  1985.xx ..... ISBN 2-7201-0255-X
+} cla115j        _?                           N
+} cla115         _?                           N
+- .o .     R     _DIBELL Ansen                Le Soleil du grand retour [Cycle des Rois de Kantmorie - 5] ş? The Sun of Return şTrad. LEMOINE Daniel
+!--- TBC 1986 ?
+o CLA_NE    116  1985.xx ..... ISBN 2-7201-0260-6
+} cla116j        _?                           N
+} cla116         _?                           N
+- .o .     R     _KAYE Marvin                &Les MaŒtres de la solitude ş1978 Masters of Solitude
+&                _GODWIN Parke                
+o CLA_NE    117  1986.xx ..... ISBN 2-7201-0272-X
+} cla117j        _?                           N
+} cla117         _?                           N
+- .o .     R     _ANTHONY Piers               Ox ş1976 Ox
+o CLA_NE    118  1986.xx ..... ISBN 2-7201-0275-X
+} cla118j        _?                           N
+} cla118         _?                           N
+- .o .     R     _KAYE Marvin                &La Fin de l'hiver ş1982 Wintermind
+&                _GODWIN Parke                
+!--- Suite de "Les maŒtres de la solitude"
+o CLA_NE    119  1986.xx ..... ISBN 2-7201-0277-6
+} cla119j        _?                           N
+} cla119         _?                           N
+- .o .     R     _HAMBLY Barbara              Les Forces de la nuit [Le Cycle de Darwarth - 1] ş1982 The Time of the Dark
+o CLA_NE    120  1986.xx ..... ISBN 2-7201-0280-6
+} cla120j        _?                           N
+} cla120         _?                           N
+- .o .     R     _CARD Orson Scott            La Strat‚gie Ender [Ender - 1] ş1985 Ender's Game
+o CLA_NE    121  1986.xx ..... ISBN 2-7201-0288-1
+} cla121j        _?                           N
+} cla121         _?                           N
+- .o .     R     _RANDALL Marta               L'p‚e de l'hiver ş1983 The Sword of Winter
+o CLA_NE    122  1986.xx ..... ISBN 2-7201-0293-8
+} cla122j        _?                           N
+} cla122         _?                           N
+- .o .     R     _HAMBLY Barbara              Les Murs des t‚nŠbres [Le Cycle de Darwarth - 2] ş1983 The Walls of Air
+!--- TBC : Le mur ?
+o CLA_NE    123  1986.xx ..... ISBN 2-7201-0294-6
+} cla123j        _?                           N
+} cla123         _?                           N
+- .o .     R     _McINTYRE Vonda N.           Superluminal ş1983 Superluminal
+!--- d'aprŠs la novella "AztŠques"
+o CLA_NE    124  1987.xx ..... ISBN 2-7201-0299-7
+} cla124j        _?                           N
+} cla124         _?                           N
+- .o .     R     _HAMBLY Barbara              Les Arm‚es du jour [Le Cycle de Darwarth - 3] ş1983 The Armies of Daylight
+o CLA_NE    125  1987.xx ..... ISBN 2-7201-0298-9
+} cla125j        _?                           N
+} cla125         _?                           N
+- .o .     R     _CHERRYH Carolyn J.          L'Ange … l'‚p‚e ş1985 Angel With the Sword
+o CLA_NE    126  1987.xx ..... ISBN 2-7201-0300-4
+} cla126j        _?                           N
+} cla126         _?                           N
+- .o .     R     _CARD Orson Scott            La Voix des morts [Ender - 2] ş1986 Speaker for the Dead
+o CLA_NE    127  1987.xx ..... ISBN 2-7201-0301-2
+} cla127j        _?                           N
+} cla127         _?                           N
+- .o .     R     _SKY Kathleen                Witchdame ş1985 Witchbane
+
+!FIN_COLL CLA
+!FIN_COLL CLA_NE
+!FIN_COLL OPTCLA
+
+!-----------------------------------------------------------------------------
+_ CLAF    Opta, Aventures Fantastiques ş1968-1986
+!-----------------------------------------------------------------------------
+!---                Aventures Fantastiques - OPTA (1968-1986)
+!---                   (au d‚but, hors-s‚ries du CLA)
+!--- L'equivalent du CLA en fantastique
+!--- Form‚e … l'origine des hors-s‚ries du CLA, elle devient ensuite une
+!--- collection … part entiŠre.
+!---
+!--- Mˆme format, mˆme pr‚sentation, seule l'illustration dor‚e de
+!--- couverture varie selon l'ouvrage.
+!---
+!--- 32 ouvrages.
+!--- Les 3 premiers CLAF sont sens‚s ˆtre des hors s‚ries du CLP et les 2
+!--- suivant des hors s‚ries du CLP et du CLA.
+!---
+!--- Directeur de collection: Daniel WALTHER
+!-----------------------------------------------------------------------------
+o CLAF        1i 1968.03 ..... ISBN -
+} opta_claf_01   _?                           N
+!--- HS 2 du CLP
+- .oF.    _R2    _LEBLANC Maurice             Le Formidable ‚v‚nement - Les Trois Yeux ş1968
+: .o .     R     _LEBLANC Maurice             Le Formidable ‚v‚nement ş1920
+: .o .     R     _LEBLANC Maurice             Les Trois Yeux ş1919
+o CLAF        2i 1968.xx ..... ISBN -
+} opta_claf_02   _?                           N
+!--- HS 3 du CLP
+!--- Contient le premier chapitre, manquant dans les pr‚c‚dentes ‚ditions:
+!--- L'invit‚ de Dracula
+- .o .     R     _STOKER Bram                 Dracula ş1897 Dracula
+o CLAF        3i 1969.05 ..... ISBN -
+} opta_claf_03   _?                           N
+!--- HS 3 du CLP (‚galement)
+- .oF.     R2    _LEROUX Gaston               La Poup‚e sanglante - La Machine … assassiner ş1969
+: .o .     R     _LEROUX Gaston               La Poup‚e sanglante ş1923
+: .o .     R     _LEROUX Gaston               La Machine … assassiner ş1923
+o CLAF        4i 1969.xx ..... ISBN -
+} opta_claf_04   _?                           N
+!--- HS 4 du CLP et du CLA
+!--- Ce recueil ainsi que "The singing citadel" ont ‚t‚ combin‚ et r‚-ordonn‚s
+!--- pour donner Elric 3 et 5, "weird of the white wolf" et "bane of the black sword"
+- .o .     R     _MOORCOCK Michael            Elric le n‚cromancien [Le Cycle d'Elric] ş1967 The Stealers of Souls
+o CLAF        5i 1970.xx ..... ISBN -
+} opta_claf_05   _?                           N
+!--- HS 5 du CLP et du CLA
+- .oY.     RN10  _LEIBER Fritz                Le Cycle des ‚p‚es [Le Cycle des ‚p‚es] ş1970
+: .oY.     N4    _LEIBER Fritz                Ep‚es et sorciers [Le Cycle des ‚p‚es - 4] ş1968 Swords Against Wizardry
+= .o .     N     _LEIBER Fritz                Dans la tente de la sorciŠre ş1968 In the Witch's Tent
+= .o .     r     _LEIBER Fritz                Le Quai des ‚toiles ş1965 Stardock
+= .o .     N     _LEIBER Fritz                Les Deux Voleurs de Lankhmar ş1968 The Two Best Thieves in Lankhmar
+= .o .     r     _LEIBER Fritz               &Les Seigneurs de Quarmall ş1964 The Lords of Quarmall
+&                _FISCHER Harry Otto          
+: .oY.     N6    _LEIBER Fritz                Ep‚es et brumes [Le Cycle des ‚p‚es - 3] ş1968 Swords in the Mist
+= .o .     N     _LEIBER Fritz                Le Nuage de haine ş1963 The Cloud of Hate
+= .o .     N     _LEIBER Fritz                Jours maigres … Lankhmar ş1959 Lean Times in Lankhmar
+= .o .     N     _LEIBER Fritz                La mer est leur maŒtresse ş1968 Their Mistress, the Sea
+= .o .     N     _LEIBER Fritz                Quand le roi de la mer est au loin ş1960 When the Sea-king's Away
+= .o .     N     _LEIBER Fritz                Le Mauvais Chemin ş1968 The Wrong Branch
+= .o .     r     _LEIBER Fritz                Le Jeu de l'initi‚ ş1947 Adept's Gambit
+: .o .     R     _LEIBER Fritz                Le Royaume de Lankhmar [Le Cycle des ‚p‚es - 5] ş1968 Swords of Lankhmar
+!--- TBC : ou "Les ‚p‚es de Lankhmar" ?
+o CLAF        6i 1971.xx ..... ISBN -
+} opta_claf_06   _?                           N
+- .o .     R3    _HODGSON William Hope        La Maison au bord du monde ş1971
+: .o .     R     _HODGSON William Hope        La Maison au bord du monde ş1908 The House on the Borderland
+: .o .     R     _HODGSON William Hope        Les Canots du "Glen Carrig" ş1907 The Boats of the "Glen Carrig"
+: .o .     R     _HODGSON William Hope        Les Pirates fant“mes ş1909 The Ghost Pirates
+o CLAF        7i 1971.xx ..... ISBN -
+} opta_claf_07   _?                           N
+- .o .    _R2    _MERRITT Abraham             Les Habitants du mirage - Sept pas vers Satan ş1971
+: .o .     R     _MERRITT Abraham             Les Habitants du mirage ş1932 Dwellers in the Mirage
+: .o .     R     _MERRITT Abraham             Sept pas vers Satan ş1927 Seven Footprints to Satan
+o CLAF        8i 1972.xx R.... ISBN -
+} opta_claf_08   _?                           N
+- .oY.    _R2    _PAGE Norvell W.             Les Vents de flamme - Les Fils du dieu-ours ş1972
+: .o .     R     _PAGE Norvell W.             Les Vents de flamme ş1939 Flame Winds şTrad. PARSONS Jacques
+: .o .     R     _PAGE Norvell W.             Les Fils du dieu-ours ş1939 Sons of the Bear-god şTrad. PARSONS Jacques
+o CLAF        9i 1972.10 R.... ISBN -
+} opta_claf_09   _?                           N
+- .oY.    _N14   _LEIBER Fritz                Le Livre de Lankhmar (Second cycle des ‚p‚es) [Le Cycle des ‚p‚es] ş1972
+>--- Les titres des recueils contenus ne sont en fait indiqu‚s qu'au travers des titres VO en d‚but de volume
+: .oY.    _N4    _LEIBER Fritz                Ep‚es et d‚mons [Le Cycle des ‚p‚es - 1] ş1970 Swords and Deviltry
+= .o .     N     _LEIBER Fritz                Entrez... ş1957 Induction şTrad. MALLE Jean-Claude
+= .o .     r     _LEIBER Fritz                Les Femmes des neiges ş1970 The Snow Women
+= .o .     N     _LEIBER Fritz                Le Rituel profan‚ ş1962 The Unholy Grail
+= .o .     r     _LEIBER Fritz                Mauvaise rencontre … Lankhmar ş1970 Ill Met in Lankhmar
+: .oY.    _N10   _LEIBER Fritz                Ep‚es et mort [Le Cycle des ‚p‚es - 2] ş1970 Swords Against Death
+= .o .     N     _LEIBER Fritz                La boucle est boucl‚e ş1970 The Circle Curse
+= .o .     N     _LEIBER Fritz                Les Bijoux dans la forˆt ş1939 Two Sought Adventure / The Jewels in the Forest
+= .o .     N     _LEIBER Fritz                La Maison des voleurs ş1943 Thieves' House
+= .o .     N     _LEIBER Fritz                Le Rivage d‚sol‚ ş1940 The Bleak Shore
+= .o .     N     _LEIBER Fritz                La Tour qui hurle ş1941 The Howling Tower
+= .o .     N     _LEIBER Fritz                Le pays qui coule ş1942 The Sunken Land
+= .o .     N     _LEIBER Fritz                Sept Prˆtres noirs ş1953 The Seven Black Priests
+= .o .     N     _LEIBER Fritz                Des serres dans la nuit ş1951 Dark Vengeance / Claws from the Night
+= .o .     N     _LEIBER Fritz                Le Prix de l'oubli ş1970 The Price of Pain Ease
+= .o .     N     _LEIBER Fritz                Le Bazar du bizarre ş1963 Bazaar of the Bizarre
+!--- avec carte de Nehwon, par Druillet
+o CLAF       10i 1973.xx R.... ISBN -
+} opta_claf_10   _?                           N
+- .oY.    _R2    _SWANN Thomas Burnett        La Forˆt de l'‚ternit‚ - Au temps du Minotaure [La Trilogie du Minotaure - 2/3] ş1973
+: .o .     R     _SWANN Thomas Burnett        La Forˆt de l'‚ternit‚ [La Trilogie du Minotaure - 2] ş1971 The Forest of Forever şTrad. DEUTSCH Michel
+: .o .     R     _SWANN Thomas Burnett        Au temps du Minotaure [La Trilogie du Minotaure - 3] ş1966 Day of the Minotaur şTrad. DEUTSCH Michel
+o CLAF       11i 1973.xx R.... ISBN -
+} opta_claf_11   _?                           N
+- .oY.    _R3    _MOORCOCK Michael            Corum [Corum] ş1973
+: .o .     R     _MOORCOCK Michael            Le Chevalier des ‚p‚es [Corum - 1] ş1971 The Knight of the Swords şTrad. MARTIN Bruno
+: .o .     R     _MOORCOCK Michael            La Reine des ‚p‚es [Corum - 2] ş1971 The Queen of the Swords şTrad. MARTIN Bruno
+: .o .     R     _MOORCOCK Michael            Le Roi des ‚p‚es [Corum - 3] ş1971 The King of the Swords şTrad. MARTIN Bruno
+o CLAF       12i 1974.xx R.... ISBN -
+} opta_claf_12   _?                           N
+- .oFT    _N30   _BLOCH Robert                Contes de terreur ş1974
+: .o .     p     _BLOCH Robert                Pr‚face ş1974
+: .o .     N     _BLOCH Robert                Le Chasseur de tˆtes ş1950 The Head Hunter şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Dominick ş1962 Method for Murder şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                L'Intouchable ş1962 Untouchable şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Surgel‚ ş1946 Frozen Fear şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Le Crƒne du Marquis de Sade ş1945 The Skull of the Marquis De Sade şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                L'Improbable Vˆtement ş1950 The Weird Tailor şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                La Hache ş1946 Lizzie Borden Took an Axe şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                La Reconnaissance du diable ş1944 The Devil's Ticket şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Une question de vie ş1960 A Matter of Life şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Une ‚pouse modŠle ş1961 The Model Wife şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                L'Homme qui collectionnait Poe ş1951 The Man who Collected Poe şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Une imagination fertile ş1956 A Good Imagination şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                La Machine … ‚crire ş1940 The Ghost Writer şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Bobo ş1971 The Animal Fair şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Terreur dans la nuit ş1956 Terror in the Night şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                La Dame en rouge ş1957 Luck Is No Lady şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                L'Ami Roderick ş1957 The Real Bad Friend şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Jettatura ş1970 Double Whammy şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Le Lotus noir ş1948 Black Lotus şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Une souris et des rats ş1956 Water's Edge şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Le croque-mitaine viendra te chercher ş1946 The Bogey Man Will Get You şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Le Phonographe de Satan ş1946 Satan's Phonograph şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Le Coeur de Lisa ş1948 Change of Heart şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Un retour au pays natal ş1961 A Home Away from Home şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                A chacun son hobby ş1957 Man With a Hobby şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Cours du soir ş1959 Night School şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Pin-up girl ş1960 Pin-up Girl şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                La Rime ne paie pas ş1957 Rhyme Never Pays şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                L'pingle ş1954 The Pin şTrad. DEMUTH Michel
+: .o .     N     _BLOCH Robert                Le Collier ş1956 String of Pearls şTrad. DEMUTH Michel
+o CLAF       13i 1975.04 ..... ISBN .-.....-...-.
+} opta_claf_13   _?                           N
+- .o .    kR2    _MOORCOCK Michael            Elric des dragons [Le Cycle d'Elric] ş1975
+: .o .     R     _MOORCOCK Michael            Elric de Melnibon‚ [Le Cycle d'Elric - 1] ş1972 Elric of Melnibone şTrad. HALIN Daphn‚
+: .o .     R     _MOORCOCK Michael            Les Yeux de l'homme de jade [Le Cycle d'Elric] ş1973 The Jade Man's Eyes şTrad. HALIN Daphn‚
+!--- TBC : "Elric of Melnibon‚" (1972) et "The Jade man's eyes" (1973)
+o CLAF       14i 1975.xx ..... ISBN .-.....-...-.
+} opta_claf_14   _?                           N
+- .o .     R2    _NORMAN John                 Le Tarnier de Gor - Le Banni de Gor [Gor - 1/2] ş1975
+: .o .     R     _NORMAN John                 Le Tarnier de Gor [Gor - 1] ş1966 Tarnsman of Gor
+: .o .     R     _NORMAN John                 Le Banni de Gor [Gor - 2] ş1967 Outlaw of Gor
+o CLAF       15  1976.xx R.... ISBN .-.....-...-.
+} opta_claf_15   _?                           N
+- .o .     R     _PRATT Fletcher              L'toile d'azur ş1952 The Blue Star
+o CLAF       16  1977.xx ..... ISBN .-.....-...-.
+} opta_claf_16   _?                           N
+- .o .     R     _LE GUIN Ursula K.           Le Sorcier de Terremer [Terremer - 1] ş1968 A Wizard of Earthsea
+o CLAF       17  1977.xx ..... ISBN .-.....-...-.
+} opta_claf_17   _?                           N
+- .o .     R     _LE GUIN Ursula K.           Les Tombeaux d'Atuan [Terremer - 2] ş1971 The Tombs of Atuan
+o CLAF       18  1977.xx ..... ISBN .-.....-...-.
+} opta_claf_18   _?                           N
+- .o .     R     _LE GUIN Ursula K.           L'Ultime Rivage [Terremer - 3] ş1972 The Farthest Shore
+o CLAF       19  1977.xx ..... ISBN .-.....-...-.
+} opta_claf_19   _?                           N
+- .o .     R     _HODGSON William Hope        Le Pays de la nuit ş1912 The Night Land
+o CLAF       20  1979.xx ..... ISBN .-.....-...-.
+} opta_claf_20   _?                           N
+- .o .     R2    _NORMAN John                 Les Prˆtres-Rois de Gor - Les Nomades de Gor [Gor - 3/4] ş1979
+: .o .     R     _NORMAN John                 Les Prˆtres-Rois de Gor [Gor - 3] ş1968 Priestking of Gor
+: .o .     R     _NORMAN John                 Les Nomades de Gor [Gor - 4] ş1969 Nomads of Gor
+o CLAF       21  1981.xx ..... ISBN .-.....-...-.
+} opta_claf_21   _?                           N
+- .o .     R     _NORMAN John                 Les Assassins de Gor [Gor - 5] ş1969 Assassin of Gor
+o CLAF       22  1981.xx ..... ISBN .-.....-...-.
+} opta_claf_22   _?                           N
+- .o .     R     _NORMAN John                 Les Pirates de Gor [Gor - 6] ş1971 Raiders of Gor
+o CLAF       23  1982.xx ..... ISBN .-.....-...-.
+} opta_claf23    _?                           ?
+- .oY.     R2    _SWANN Thomas Burnett        Les Dieux demeurent - La Forˆt d'envers-monde ((La Forˆt d'envers-monde)) ş1982
+: .o .     R     _SWANN Thomas Burnett        Les Dieux demeurent ş1976 The Gods Abide
+: .o .     R     _SWANN Thomas Burnett        La Forˆt d'envers-monde ş1967 The Weirwoods
+o CLAF       24  1982.xx ..... ISBN .-.....-...-.
+} opta_claf_24   _?                           N
+- .o .     R     _NORMAN John                 Les Esclaves de Gor [Gor - 10] ş1972 Captive of Gor
+o CLAF       25  1983.xx ..... ISBN .-.....-...-.
+} opta_claf_25   _?                           N
+- .o .     R     _NORMAN John                 Les Chasseurs de Gor [Gor - 7] ş1974 Hunters of Gor
+o CLAF       26  1983.xx ..... ISBN .-.....-...-.
+} opta_claf_26   _?                           N
+- .o .     R     _NORMAN John                 Les Maraudeurs de Gor [Gor - 8] ş1975 Marauders of Gor
+o CLAF       27  1984.xx ..... ISBN .-.....-...-.
+} opta_claf_27   _?                           N
+- .o .     R     _NORMAN John                 Les Tribus de Gor [Gor - 9] ş1976 Tribesmen of Gor
+o CLAF       28  1985.xx ..... ISBN .-.....-...-.
+} opta_claf_28   _?                           N
+- .o .     R     _NORMAN John                 La Captive de Gor [Gor - 11] ş1977 Slave Girl of Gor
+o CLAF       29  1985.xx ..... ISBN .-.....-...-.
+} opta_claf_29   _?                           N
+- .o .     R     _NORMAN John                 Les Monstres de Gor [Gor - 12] ş1978 Beasts of Gor
+o CLAF       30  1986.xx ..... ISBN .-.....-...-.
+} opta_claf_30   _?                           N
+- .o .     R     _NORMAN John                 Les Explorateurs de Gor [Gor - 13] ş1979 Explorers of Gor
+o CLAF       31  1986.xx R.... ISBN .-.....-...-.
+} opta_claf_31   _?                           N
+- .o .     R     _NORMAN John                 Le Champion de Gor [Gor - 14] ş1980 Fighting Slave of Gor
+o CLAF       32  1986.xx ..... ISBN .-.....-...-.
+} opta_claf_32   _?                           N
+- .o .     R     _NORMAN John                 Le Forban de Gor [Gor - 15] ş1981 Rogue of Gor
+
+!-----------------------------------------------------------------------------
+_ CLAH    Opta
+!-----------------------------------------------------------------------------
+!--- Hors collection, au format CLA, hors s‚rie
+!-----------------------------------------------------------------------------
+o CLAH        ?  1980.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _LO DUCA J.M.                Et le ciel se retira... ş?
+

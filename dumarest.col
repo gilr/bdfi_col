@@ -1,0 +1,168 @@
+!-----------------------------------------------------------------------------
+!---       Collection Dumarest, l'aventurier des ‚toiles
+!---
+!--- nø 1 … 10 : Plon
+!--- nø 11 … 22 : Presses de la cit‚
+!--- nø 23 … 32 : Vaugirard (plus 21 ??? r‚‚dition ?)
+!-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+_ DUMA_PL Plon, Dumarest
+_ DUMA_PC Presses de la Cit‚, Dumarest
+_ DUMA_VA Vaugirard, Dumarest
+_ DUMA_VV Vauvenargues, Dumarest
+!-----------------------------------------------------------------------------
+
+!DEB_HEAD DUMARE
+!DEB_HEAD DUMA_PL
+!DEB_HEAD DUMA_PC
+!DEB_HEAD DUMA_VA
+!DEB_HEAD DUMA_VV
+!TIT_COLL L'aventurier des ‚toiles
+!IMG_LOGO dumarest_logo
+!-----------------------------------------------------------------------------
+!--- Il a perdu la Terre dans des circonstances inavouables et depuis il erre
+!--. dans l'univers pour la retrouver. Earl Dumarest est l'aventurier des
+!--. ‚toiles, une s‚rie de space op‚ra et d'aventure.
+!--. Tout comme la s‚rie Blade ou les S.F. Jimmy Guieu, la collection passe
+!--. entre les mains de quatre ‚diteurs successifs en gardant le mˆme nom de
+!--. collection et sa num‚rotation. Vauvenargues se contenta cependant d'en
+!--. entamer une r‚‚dition partielle.
+!--. Les couvertures sont juqu'au nø 9 des montages photographiques, avant
+!--. d'ˆtre illustr‚s, jusqu'au nø 32, par P‚nichoux.
+!-----------------------------------------------------------------------------
+!FIN_HEAD DUMARE
+!FIN_HEAD DUMA_PL
+!FIN_HEAD DUMA_PC
+!FIN_HEAD DUMA_VA
+!FIN_HEAD DUMA_VV
+!DEB_COLL DUMARE
+!DEB_COLL DUMA_PL
+
+!--- Chez Plon :
+o DUMA_PL     1  1986.xx ..... ISBN 2-259-01492-5
+} dumarest01     _?                           N
+- .oS.     R     _TUBB E.C.                   Les Vents de Gath [Dumarest - 1] ş1967 The Winds of Gath şTrad. MAILLET Fran‡oise
+o DUMA_PL     2  1986.07 ..... ISBN 2-259-01493-3
+} dumarest02     _?                           N
+- .oS.     R     _TUBB E.C.                   La PlanŠte de la mort [Dumarest - 2] ş1968 Derai şTrad. MAILLET Fran‡oise
+o DUMA_PL     3  1986.xx ..... ISBN 2-259-01501-8
+} dumarest03     _?                           N
+- .oS.     R     _TUBB E.C.                   L'Homme-Jouet [Dumarest - 3] ş1969 Toyman şTrad. MAILLET Fran‡oise
+o DUMA_PL     4  1986.12 ..... ISBN 2-259-01560-3
+} dumarest04     _?                           N
+- .oS.     R     _TUBB E.C.                   La SorciŠre de l'espace [Dumarest - 4] ş1969 Kalin şTrad. MAILLET Fran‡oise
+o DUMA_PL     5  1987.xx ..... ISBN 2-259-01572-7
+} dumarest05     _?                           N
+- .oS.     R     _TUBB E.C.                   Le Bouffon de Balafre [Dumarest - 5] ş1970 The Jester at Scar şTrad. MAILLET Fran‡oise
+o DUMA_PL     6  1987.xx ..... ISBN 2-259-01597-2
+} dumarest06     _?                           N
+- .oS.     R     _TUBB E.C.                   Mausol‚e galactique [Dumarest - 6] ş1971 Lallia şTrad. MAILLET Fran‡oise
+o DUMA_PL     7  1987.xx ..... ISBN 2-259-01627-8
+} dumarest07     _?                           N
+- .oS.     R     _TUBB E.C.                   Complot sur Technos [Dumarest - 7] ş1972 Technos şTrad. MEISTERMANN E.C.L.
+o DUMA_PL     8  1987.xx ..... ISBN 2-259-01667-7
+} dumarest08     _?                           N
+- .oS.     R     _TUBB E.C.                   Le Vaisseau du pass‚ [Dumarest - 8] ş1973 Veruchia şTrad. MAILLET Fran‡oise
+o DUMA_PL     9  1987.xx ..... ISBN 2-259-01676-6
+} dumarest09     _?                           N
+- .oS.     R     _TUBB E.C.                   Les Prisonniers du mirage [Dumarest - 9] ş1973 Mayenne şTrad. MEISTERMANN E.C.L.
+o DUMA_PL    10  1987.xx ..... ISBN 2-259-01816-5
+} dumarest10     _?                           N
+- .oS.     R     _TUBB E.C.                   La Cit‚ des assassins [Dumarest - 10] ş1973 Jondelle şTrad. MEISTERMANN E.C.L.
+!FIN_COLL DUMA_PL
+
+!DEB_COLL DUMA_PC
+!--- Chez Presses de la cit‚ :
+o DUMA_PC    11  1988.xx ..... ISBN 2-258-02169-3
+} dumarest11     _?                           N
+- .oS.     R     _TUBB E.C.                   La Maison du serpent [Dumarest - 11] ş1974 Zenya şTrad. MEISTERMANN E.C.L.
+o DUMA_PC    12  1988.xx ..... ISBN 2-258-02184-7
+} dumarest12     _?                           N
+- .oS.     R     _TUBB E.C.                   La Proie du Cyclan [Dumarest - 12] ş1975 Eloise şTrad. MEISTERMANN E.C.L.
+o DUMA_PC    13  1988.xx ..... ISBN 2-258-02291-6
+} dumarest13     _?                           N
+- .oS.     R     _TUBB E.C.                   L'Oeil du zodiaque [Dumarest - 13] ş1975 Eye of the Zodiac şTrad. MEISTERMANN E.C.L.
+o DUMA_PC    14  1988.xx ..... ISBN 2-258-02391-2
+} dumarest14     _?                           N
+- .oS.     R     _TUBB E.C.                   Les Colonnes de Balhadorha [Dumarest - 14] ş1976 Jack of Swords şTrad. NOLANE Richard D.
+o DUMA_PC    15  1988.xx ..... ISBN 2-258-02569-9
+} dumarest15     _?                           N
+- .oS.     R     _TUBB E.C.                   Le Spectre du soleil oubli‚ [Dumarest - 15] ş1976 Spectrum of a Forgotten Sun şTrad. NOLANE Richard D.
+o DUMA_PC    16  1988.xx ..... ISBN 2-258-02763-2
+} dumarest16     _?                           N
+- .oS.     R     _TUBB E.C.                   Le Havre des t‚nŠbres [Dumarest - 16] ş1977 Haven of Darkness şTrad. NOLANE Richard D.
+o DUMA_PC    17  1989.xx ..... ISBN 2-258-02832-9
+} dumarest17     _?                           N
+- .oS.     R     _TUBB E.C.                   La Prison de la nuit [Dumarest - 17] ş1977 Prison of Night şTrad. NOLANE Richard D.
+o DUMA_PC    18  1989.xx ..... ISBN 2-258-02887-6
+} dumarest18     _?                           N
+- .oS.     R     _TUBB E.C.                   La R‚bellion des Ohrms [Dumarest - 18] ş1978 Incident on Ath şTrad. NOLANE Richard D.
+o DUMA_PC    19  1989.xx ..... ISBN 2-258-03044-7
+} dumarest19     _?                           N
+- .oS.     R     _TUBB E.C.                   Les Naufrag‚s de la d‚chirure [Dumarest - 19] ş1978 The Quillian Sector şTrad. NOLANE Richard D.
+o DUMA_PC    20  1989.11 ..... ISBN 2-258-03075-7
+} dumarest20     _?                           N
+- .oS.     R     _TUBB E.C.                   Le PiŠge de sable [Dumarest - 20] ş1979 The Web of Sand şTrad. NOLANE Richard D.
+!FIN_COLL DUMA_PC
+
+!DEB_COLL DUMA_VA
+!--- Chez Vaugirard :
+o DUMA_VA    21  1990.xx ..... ISBN 2-285-00118-5
+} dumarest21     _?                           N
+- .oS.     R     _TUBB E.C.                   Iduna [Dumarest - 21] ş1979 Iduna's Universe şTrad. NOLANE Richard D.
+o DUMA_VA    22  1990.xx ..... ISBN 2-285-00152-5
+} dumarest22     _?                           N
+- .oS.     R     _TUBB E.C.                   Les MystŠres d'Elysius [Dumarest - 22] ş1980 The Terra Data şTrad. NOLANE Richard D.
+o DUMA_VA    23  1990.xx ..... ISBN 2-285-00186-X
+} dumarest23     _?                           N
+- .oS.     R     _TUBB E.C.                   Terre promise [Dumarest - 23] ş1980 World of Promise şTrad. NOLANE Richard D.
+o DUMA_VA    24  1990.xx R.... ISBN 2-285-00341-2
+} dumarest24     _?                           N
+- .oS.     R     _TUBB E.C.                   Nectar de Paradis [Dumarest - 24] ş1981 Nectar of Heaven şTrad. NOLANE Richard D.
+o DUMA_VA    25  1990.xx ..... ISBN 2-285-00368-4
+} dumarest25     _?                           N
+- .oS.     R     _TUBB E.C.                   Les Terriens de l'espace [Dumarest - 25] ş1981 The Terridae şTrad. NOLANE Richard D.
+o DUMA_VA    26  1991.xx ..... ISBN 2-285-00450-8
+} dumarest26     _?                           N
+- .oS.     R     _TUBB E.C.                   L'nigme du Dormant [Dumarest - 26] ş1982 The Coming Event şTrad. NOLANE Richard D.
+o DUMA_VA    27  1991.xx ..... ISBN 2-285-00489-3
+} dumarest27     _?                           N
+- .oS.     R     _TUBB E.C.                   La PlanŠte abandonn‚e [Dumarest - 27] ş1982 Earth Is Heaven şTrad. NOLANE Richard D.
+o DUMA_VA    28  1991.xx ..... ISBN 2-285-00642-X
+} dumarest28     _?                           N
+- .oS.     R     _TUBB E.C.                   Le Cirque de Chen-Wei [Dumarest - 28] ş1983 Melome şTrad. NOLANE Richard D.
+!--- Note : indiqu‚ "Wen-Chei" sur la couverture
+o DUMA_VA    29  1991.xx ..... ISBN 2-285-00700-0
+} dumarest29     _?                           N
+- .oS.     R     _TUBB E.C.                   Angado [Dumarest - 29] ş1984 Angado şTrad. NOLANE Richard D.
+o DUMA_VA    30  1991.xx ..... ISBN 2-285-00732-9
+} dumarest30     _?                           N
+- .oS.     R     _TUBB E.C.                   Le CimetiŠre des rˆves [Dumarest - 30] ş1984 Symbol of Terra şTrad. NOLANE Richard D.
+o DUMA_VA    31  1992.xx ..... ISBN 2-285-00795-7
+} dumarest31     _?                           N
+- .oS.     R     _TUBB E.C.                   Le Temple de la v‚rit‚ [Dumarest - 31] ş1985 The Temple of Truth şTrad. NOLANE Richard D.
+o DUMA_VA    32  1992.xx ..... ISBN 2-285-00820-1
+} dumarest32     _?                           N
+- .oS.     R     _TUBB E.C.                   Le Retour [Dumarest - 32] ş1992 The Return şTrad. NOLANE Richard D.
+!--- Nota : premiŠre parution en VF
+!--- Pas de VT "Figures of Earth" D'aprŠs H Hauck
+!FIN_COLL DUMA_VA
+
+!DEB_COLL DUMA_VV
+!--- Chez Vauvenargues (r‚‚dition des 4 premiers) :
+o DUMA_VV     1  1999.xx ..... ISBN 2-7443-0349-6
+} dumarest01r    _?                           N
+- .oS.     R     _TUBB E.C.                   Les Vents de Gath [Dumarest - 1] ş1967 The Winds of Gath şTrad. MAILLET Fran‡oise
+o DUMA_VV     2  1999.xx ..... ISBN 2-7443-0370-4
+} dumarest02r    _?                           N
+- .oS.     R     _TUBB E.C.                   La PlanŠte de la mort [Dumarest - 2] ş1968 Derai şTrad. MAILLET Fran‡oise
+o DUMA_VV     3  2000.xx ..... ISBN 2-7443-0454-9
+} dumarest03r    _?                           N
+- .oS.     R     _TUBB E.C.                   L'Homme-Jouet [Dumarest - 3] ş1969 Toyman şTrad. MAILLET Fran‡oise
+o DUMA_VV     4  2000.xx ..... ISBN 2-7443-0455-7
+} dumarest04r    _?                           N
+- .oS.     R     _TUBB E.C.                   La SorciŠre de l'espace [Dumarest - 4] ş1969 Kalin şTrad. MAILLET Fran‡oise
+!FIN_COLL DUMA_VV
+
+!FIN_COLL DUMARE

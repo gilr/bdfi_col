@@ -1,0 +1,56 @@
+
+!DEB_HEAD AXIUM
+!TIT_COLL Ouroboros
+!IMG_COLL axium_coffret_verso
+!IMG_COLL axium_coffret_dos
+!IMG_COLL axium_coffret_recto
+!-----------------------------------------------------------------------------
+_ AXIUM   Ed. Axium, Coll. Ouroboros, les lettres fantastiques illustr‚es
+!-----------------------------------------------------------------------------
+!--- Petite collection de classiques de la litt‚rature fantastique et/ou
+!--. g‚n‚rale. Selon l'‚diteur, ces livres ‚taient des "cartes blanches" 
+!--. offertes aux illustrateurs qui choisissaient eux-mˆme les titres qu'ils
+!--. souhaitaient illustrer.
+!--- Les 5 premiers num‚ros se trouvent pr‚sent‚s en coffret.
+!----------------------------------------------------------------------------
+!FIN_HEAD AXIUM
+!DEB_COLL AXIUM
+o AXIUM       1  1969.12 ..... ISBN -
+} axium01        _GUILLEMOT Jean-Pierre       O
+- .oF.    _N2    _SEIGNOLLE Claude            Le Chupador, suivi de l'auberge du Larzac þ1969
+: .oF.     N     _SEIGNOLLE Claude            Le Chupador þ1960
+: .oF.     N     _SEIGNOLLE Claude            L'Auberge du Larzac þ1967
+o AXIUM       2  1969.12 ..... ISBN -
+} axium02        _DROUIN Isabelle             O
+- .oF.     N     _POE Edgar Allan             La Chute de la maison Usher þ1839 The Fall of the House of Usher
+o AXIUM       3  1969.12 ..... ISBN -
+} axium03        _MAXIMY Jean de              O
+- .oF.     Px    _RIMBAUD Arthur              Une saison en enfer þ1873
+o AXIUM       4  1969.12 ..... ISBN -
+} axium04        _CAT Roland                  O
+- .oF.     P     _COLERIDGE Samuel            Le Dit du vieux marin þ1798 The Rime of the Ancient Mariner þTrad. BARBIER Auguste
+o AXIUM       5  1969.12 ..... ISBN -
+} axium05        _Isabelle Drouin             O
+!--- 5.50 euros - 21 cm
+- .oF.     T     _MARLOWE Christopher         Faust þ[1592],1604 The Tragical History of Doctor Faustus / Doctor Faustus þTrad. DROUIN Isabelle
+o AXIUM       6  1971.12 ..... ISBN -
+} axium06        _SOLE Jean                   O
+- .oF.    _N2    _ERCKMANN-CHATRIAN           Les Trois ƒmes - Le Cabaliste Hans Weinland ((Le Cabaliste Hans Weinland)) þ1971
+: .o .     N     _ERCKMANN-CHATRIAN           Les Trois ƒmes þ1859
+: .o .     N     _ERCKMANN-CHATRIAN           Le Cabaliste Hans Weinland þ1862
+o AXIUM       7  1971.12 ..... ISBN -
+} axium07        _SACKSICK Gilles             0
+- .o .     N     _BALZAC Honor‚ de            Le Chef-D'oeuvre inconnu þ1831
+o AXIUM       8  1971.12 ..... ISBN -
+} axium08        _GACHET G‚rard               O
+- .oF.     N     _SEIGNOLLE Claude            Le Bahut noir þ1958
+o AXIUM       9  1971.12 ..... ISBN -
+} axium09        _DARAN Jean                  O
+- .pF.    kN2    _NERVAL G‚rard de            Octavie - Emilie þ1971
+: .x .     N     _NERVAL G‚rard de            Octavie þ1854
+: .o .     N     _NERVAL G‚rard de            Emilie þ1854
+o AXIUM      10  1971.12 ..... ISBN -
+} axium10        _THEINHARDT Volker           O
+- .oF.va   N     _MERIMEE Prosper             Lokis þ1869
+!FIN_COLL AXIUM
+

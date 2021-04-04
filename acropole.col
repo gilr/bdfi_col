@@ -1,0 +1,49 @@
+
+!DEB_HEAD ACROPOL
+!-----------------------------------------------------------------------------
+_ ACROPOL Ed. Acropole, Coll. Litt‚rature du monde
+!-----------------------------------------------------------------------------
+!TIT_COLL Editions Acropole, Collection Litt‚rature du monde
+!-----------------------------------------------------------------------------
+!--- Au d‚but des ann‚es 80, les ‚ditions Acropole lancent une collection
+!--. <i>Litt‚rature du Monde</i> qui contiendra quelques titres de fantastique.
+!--- La collection s'arrˆtera aprŠs un peu plus de cinq ans et une trentaine de num‚ros.
+!-----------------------------------------------------------------------------
+!--- Format : Grand format, environ 23 / 24 cm de haut, couverture illustr‚e.
+!--- ISSN de la collection : 0290-7895.
+!--- Adresse ‚diteur : 3 bis, passage de la Petite Boucherie, 75006 Paris
+!-----------------------------------------------------------------------------
+!FIN_HEAD ACROPOL
+!DEB_COLL ACROPOL
+o ACROPOL     ?  1980.xx ..... ISBN 2-7144-1274-2
+} acroldm01      _?                           ?
+!--- 279 pages
+- .oF.     R     _FAST Jonathan               Le Cercle des initi‚s þ1979 The Inner Circle þTrad. BELMONT Georges & CHABRIER Hortense
+o ACROPOL     ?  1983.xx ..... ISBN 2-7357-0000-3
+} acroldm002     _?                           ?
+!--- 279 pages
+- .oF.     R     _FAST Jonathan               Le Chƒteau de la bˆte þ1981 The Beast þTrad. VIENNE B‚atrice
+o ACROPOL     ?  1983.xx ..... ISBN 2-7357-0003-8
+} acroldm03      _?                           ?
+!--- 468 pages
+- .oF.     R     _ORLOV Vladimir              L'Altiste Danilov þ1980 Al'tist Danilov þTrad. SELMOTTE Svetlana
+o ACROPOL     ?  1984.xx ..... ISBN 2-7357-0018-6
+} acroldm04      _?                           ?
+!--- 412 pages
+- .oS.     R     _BURGESS Anthony             DerniŠres nouvelles du monde þ1982 The End of the World News þTrad. BELMONT Georges & CHABRIER Hortense
+!FIN_COLL ACROPOL
+
+
+!--- Sorti car hors genres :
+!-----------------------------------------------------------------------------
+o ACROPOL     ?  1981.xx ..... ISBN 2-7144-1364-1
+} acroldm02      _?                           ?
+- .xL.     R     _BURGESS Anthony             Les Puissances des t‚nŠbres þ1980 Earthly Powers þTrad. BELMONT Georges & CHABRIER Hortense
+
+!-----------------------------------------------------------------------------
+_ ACROPO  Ed. Acropole
+!-----------------------------------------------------------------------------
+o ACROPO      ?  1987.xx ..... ISBN 2-7357-0075-5
+} acro_seren     _?                           ?
+!--- BNF 282 pages
+- .oS.     R     _JONG Erica                  Serenissima þ1987 Serenissima / Shylock's Daughter: A Novel of Love in Venice þTrad. BELMONT Georges & CHABRIER Hortense

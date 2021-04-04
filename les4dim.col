@@ -1,0 +1,50 @@
+!-----------------------------------------------------------------------------
+!---               Collection "Les Quatre Dimensions" (1995 - 1998 ?)
+!---                  SIPE ‚ditions
+!---                  SENO ‚ditions
+!---          (directeur de collection : Eric COWEZ)
+!---
+!--- SENO = Soci‚t‚ des Editions Nouvelles et Originales
+!---  Saint-Cloud
+!-----------------------------------------------------------------------------
+!-----------------------------------------------------------------------------
+_ 4D_SIPE Sipe/Seno, Coll. Les Quatre Dimensions
+_ 4D_SENO Sipe/Seno, Coll. Les Quatre Dimensions
+!-----------------------------------------------------------------------------
+
+!--- SIPE
+o 4D_SIPE     1  1995.xx ..... ISBN 2-911156-02-1
+} seno4d01       _HARDY D.A. / Cosmos         N
+- .o .     R     _COWEZ Eric                  Island one - L'arche des outre-ciel [Nova Ga‹a - 1] þ1995
+o 4D_SIPE     2  1995.xx ..... ISBN 2-911156-06-4
+} seno4d02       _GRAGERA A. / Cosmos         N
+- .o .     R     _COWEZ Eric                  Geminga - la civilisation perdue [Nova Ga‹a - 2] þ1996
+o 4D_SIPE     3  1996.xx ..... ISBN 2-911156-..-.
+} seno4d03       _?                           N
+- .o .     R     _COWEZ Eric                  Les Andros de Miranda [Nova Ga‹a - 3] þ1996
+
+!--- SENO
+o 4D_SENO     4  1996.xx ..... ISBN 2-911768-03-5
+} seno4d04       _HARDY D.A. / Cosmos         N
+- .o .     R     _MILESI Raymond              Salut Delcano ! [Delcano] þ1996
+o 4D_SENO     5  1997.xx ..... ISBN 2-911768-05-1
+} seno4d05       _MANDY                       N
+- .o .     R     _ERIS Patrick                Born killer þ1997
+o 4D_SENO     6  1997.xx ..... ISBN 2-911768-06-X
+} seno4d06       _HARDY D.A. / Cosmos         N
+- .o .     R     _MILESI Raymond              Futur sans ‚toiles - Une aventure de Delcano [Delcano] þ1997
+o 4D_SENO     7  1997.12 ..... ISBN 2-911768-08-6
+} seno4d07       _MANDY                       N
+- .o .     R     _GENEFORT Laurent            Typhon þ1997
+
+­o 4D_SENO     8  1998.xx ..... ISBN 2-911768-..-.
+­!--- TBD ou titre : Les naufrag‚s d'H‚lix ??
+­} noimg          _?                           ?
+­- .o .     R     _COWEZ Eric                  Asterion þ1998
+­o 4D_SENO     9  1998.xx ..... ISBN 2-911768-..-.
+­} noimg          _?                           ?
+­- .o .     R     _MILESI Raymond              Les Pirates du temps þ1998
+­o 4D_SENO    10  1998.xx ..... ISBN 2-911768-..-.
+­} noimg          _?                           ?
+­- .o .     R     _WAGNER Roland C.            Les T‚moins de l'univers þ1998
+

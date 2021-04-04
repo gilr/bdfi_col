@@ -1,0 +1,901 @@
+!-----------------------------------------------------------------------------
+!---                     OPTA
+!---
+!-----------------------------------------------------------------------------
+!--- OptNebu Ed. Opta, Nebula ş1975-1977
+!--- OptAnti Ed. Opta, Anti-mondes ş1972-1977
+_ OptMarg Ed. Opta, Marginal ş1973-1977
+_ XLII_OM Marginal (Pastiche des 42)
+_ MYSM    Ed. Opta, MystŠre magazine
+_ MYSM_NS Ed. Opta, MystŠre magazine nouvelle s‚rie
+_ ELQM    Ed. Opta, Ellery Queen magazine
+_ MYSA    Ed. Opta, MystŠre magazine, Anthologies
+_ MAGMYST Ed. Opta, Le magazine du mystŠre
+_ ESPIONN Ed. Opta, Revue Espionnage
+!--- Hithcock magazine
+!-----------------------------------------------------------------------------
+!---
+!-- FICT   Fiction                --> fiction.col
+!-- FISP   Fiction sp‚cial        --> fict_spe.col
+!-- GAL2   Galaxie                --> galaxie.col
+!-- GBIS   Galaxie/bis            --> galaxbis.col
+!-- CLA    CLA                    --> cla.col
+!-- CLAF   Aventures fantastiques --> cla.col
+!-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+!--- 
+!-----------------------------------------------------------------------------
+_ OPTA    Ed. Opta
+!-----------------------------------------------------------------------------
+o OPTA        ?  1976.xx ..... ISBN -
+} noimg          _?                           ?
+- .oSF    kN4    _LOVECRAFT Howard P.         D‚mons et merveilles ş1955
+: .o .     N     _LOVECRAFT Howard P.         Le T‚moignage de Randolph Carter [Randolph Carter] ş1920 The Statement of Randolph Carter şTrad. NOEL Bernard
+: .o .     N     _LOVECRAFT Howard P.         La Cl‚ d'argent [Randolph Carter] ş1929 The Silver Key şTrad. NOEL Bernard
+: .o .     N     _LOVECRAFT Howard P.        &A travers les portes de la cl‚ d'argent [Randolph Carter] ş1934 Through the Gates of the Silver Key şTrad. NOEL Bernard
+&                _PRICE E. Hoffman            
+: .o .     r     _LOVECRAFT Howard P.         A la recherche de Kadath [Randolph Carter] ş[1927],1943 The Dream Quest of Unknown Kadath şTrad. NOEL Bernard
+
+!-----------------------------------------------------------------------------
+
+!DEB_HEAD OptNebu
+!TIT_COLL N‚bula
+_ OptNebu Opta, Nebula ş1975-1977
+!-----------------------------------------------------------------------------
+!--- La collection N‚bula n'a connu qu'une brŠve existence : 15 titres en deux
+!--. ans et demi, alternant auteurs anglo-saxons "difficiles" et fran‡ais de
+!--. l'‚cole "politique".
+!--- Format : 13.5 x 19.
+!--. Couverture bicolore, agr‚ment‚e d'une galaxie stylis‚e. A noter,
+!--. l'originalit‚ de la couverture du Sladek qui ‚chappe … la n‚buleuse sur
+!--. variation de couleur du fond.
+!--- Directeur de collection: Alain DOREMIEUX.
+!-----------------------------------------------------------------------------
+!FIN_HEAD OptNebu
+!DEB_COLL OptNebu
+o OptNebu     1i 1975.xx ..... ISBN 2-7201-0015-3
+} neb01          _?                           N
+- .oS.     R     _SILVERBERG Robert           Le Livre des crƒnes ş1972 The Book of Skulls şTrad. ABADIA Guy
+o OptNebu     2i 1975.xx ..... ISBN 2-7201-0016-1
+} neb02          _?                           N
+- .oS.    _A14   *WALTHER Daniel              Les Soleils noirs d'Arcadie ş1975
+: .oS.     N     _MATHON Bernard              Jusqu'… preuve du contraire ş1975
+: .oS.     N     _DOUAY Dominique             Vaches grasses, vaches maigres ş1975
+: .oS.     N     _DUVIC Patrice               Les Imputrescibles ş1975
+: .oS.     N     _ANDREVON Jean-Pierre        Salut, Wolinski ! ş1975
+: .oS.     N     _KLEIN G‚rard                Acm‚ ou l'anti-Cruso‚ ş1975
+: .oS.     N     _LE CLERC DE LA HERVERIE J.  DerniŠre autoroute pour le Seigneur ş1975
+: .oS.     N     _OLIVIER-MARTIN Yves         Vibrax ş1975
+: .oS.     N     _JEURY Michel                Les Transpondus ş1975
+: .oS.     N     _SURAGNE Pierre              Danger, ne lisez pas ş1975
+: .oS.     N     _PLANCHAT Henry-Luc          Observation en vall‚e ferm‚e ş1975
+: .oS.     N     _MICHEL Gilbert              Des humains... ou des poissons d'une espŠce hybride ş1975
+: .oS.     N     _HOUSSIN Jo‰l                Super jam pour un no‰l rouge ş1975
+: .oS.     N     _HUBERT Jean-Pierre          V.V. ş1975
+: .oS.     N     _CURVAL Philippe             Passion sous les tropiques ş1975
+o OptNebu     3  1975.xx R.... ISBN 2-7201-0023-4
+}neb03           _?                           N
+- .oS.    _N8    _BALLARD James G.            Vermilion Sands, ou le paysage int‚rieur ş1971 Vermilion Sands
+: .oS.     N     _BALLARD James G.            Prima belladonna ş1956 Prima Belladonna şTrad. CASSEAU Laure
+: .oS.     N     _BALLARD James G.            Les Mille Rˆves de Stellavista ş1962 The Thousand Dreams of Stellavista şTrad. STRASCHITZ Frank
+: .oS.     N     _BALLARD James G.            Cri d'espoir, cri de fureur ş1966 Cry Hope, Cry Fury! şTrad. ALPERINE Paul
+: .oS.     N     _BALLARD James G.            Le Sourire de V‚nus ş1957-1967 Venus Smiles şTrad. ROSENBLUM Arlette
+: .oS.     N     _BALLARD James G.            Atelier 5, les ‚toiles ş1961 Studio 5, the Stars şTrad. MASSUN Lionel
+: .oS.     N     _BALLARD James G.            Les Sculpteurs de nuages de Corail D ş1967 The Cloud-sculptors of Coral D şTrad. HERSANT Yves
+: .oS.     N     _BALLARD James G.            Dites au revoir au vent ş1970 Say Goodbye to the Wind şTrad. LE BUSSY Alain
+: .oS.     N     _BALLARD James G.            Le Jeu des ‚crans ş1963 The Screen Game şTrad. DOREMIEUX Alain
+o OptNebu     4  1975.07 R.... ISBN 2-7201-0024-2
+}neb04           _?                           N
+- .oS.     R     _DOUAY Dominique             clipse, ou le printemps de Terre XII ş1975
+o OptNebu     5  1975.xx ..... ISBN 2-7201-0027-7
+}neb05           _?                           N
+- .oS.     rN    _HARNESS Charles L.          La Rose ş1966 The Rose
+!--- Le recueil "The rose" 1966 est un recueil de 3 nouvelles
+: .oS.     r     _HARNESS Charles L.          La Rose ş1953 The Rose şTrad. DOREMIEUX Alain
+: .oS.     N     _HARNESS Charles L.          La Nouvelle R‚alit‚ ş1950 The New Reality şTrad. HALIN Daphn‚
+o OptNebu     6  1975.xx R.... ISBN 2-7201-0030-7
+}neb06           _?                           N
+- .oS.    _RN2   _HOUSSIN Jo‰l                Locomotive rictus ş1975
+: .oS.     R     _HOUSSIN Jo‰l                Locomotive rictus ş1975
+: .oS.     N     _HOUSSIN Jo‰l                Avez-vous peur du noir ? ş1975
+: .oS.     N     _HOUSSIN Jo‰l                Errat-Homme ş1975
+o OptNebu     7  1975.12 ..... ISBN 2-7201-0040-4
+}neb07           _?                           N
+- .oS.     R     _MALZBERG Barry N.           Un monde en morceau ş1973 Herowit's World şTrad. HALIN Daphn‚ & DOREMIEUX Alain
+o OptNebu     8  1975.xx R.... ISBN 2-7201-0037-4
+}neb08           _?                           N
+- .oS.     R     _HUBERT Jean-Pierre          PlanŠte … trois temps ş1975
+o OptNebu     9  1976.xx ..... ISBN 2-7201-0047-1
+}neb09           _?                           N
+- .oS.     Nx    _MALZBERG Barry N.           L'univers est … nous ş1971 Universe Day şTrad. LATHIERE Ren‚
+!--- Recueil, Fix-Up, roman ?
+!--- Infos SfMarseille :
+!--- Le pr‚sent volume pr‚sente une intro et 16 parties distinctes...
+!--- Aux US, pr‚sent‚ comme un recueil de 6 ou 7 nouvelles (sign‚ O'Donnell) :
+!--- _Making Titan_ : Cap sur Titan (2500)
+!--- _A triptych_ : Quelques gros titres dans le vide (id Tryptique, 1968)
+!--- _Terminus Est_
+!--- _Two odysseys into the center_
+!---   (qui serait compos‚ de 2 textes, The conquest of mars_
+!---   et _Some notes toward a useable past_)
+!--- _Pacem Est_
+!--- _Elephants_
+o OptNebu    10  1976.05 R.... ISBN 2-7201-0054-4
+}neb10           _?                           N
+- .oS.     R     _LE CLERC DE LA HERVERIE J.  Ergad le composite ş1976
+o OptNebu    11  1976.07 R.... ISBN 2-7201-0061-7
+}neb11           _?                           N
+- .oS.    _N18   _ST. CLAIR Margaret          Des mondes … profusion ş1974 Change the Sky and Other Stories
+: .oS.     N     _ST. CLAIR Margaret          Des mondes … profusion ş1955 Change the Sky şTrad. KERDELAND Jean de
+: .oS.     N     _ST. CLAIR Margaret          Beaulieu ş1966 Beaulieu şTrad. STRASCHITZ Frank
+: .oS.     N     _ST. CLAIR Margaret          Manuel de mariage ş1954 Marriage Manual şTrad. MARTIN Bruno
+: .oS.     N     _ST. CLAIR Margaret          Le Temps des prophŠtes ş1951 Age of Prophecy şTrad. MARTIN Bruno
+: .oS.     N     _ST. CLAIR Margaret          Adieu la Terre ş1951 Then Fly Our Greetings şTrad. MARTIN Bruno
+: .oS.     N     _ST. CLAIR Margaret          La Croisade des t‚nŠbres ş1961 An Old-fashioned Bird Christmas şTrad. BILLON Pierre
+: .oS.     N     _ST. CLAIR Margaret          Son et lumiŠres ş1956 Stawdust şTrad. IZABELLE P.-J.
+: .oS.     N     _ST. CLAIR Margaret          Le dieu a soif ş1953 Thirsty God şTrad. DOREMIEUX Alain
+: .oS.     N     _ST. CLAIR Margaret          Les Altruistes ş1953 The Altruists şTrad. DURAND Roger
+: .oS.     N     _ST. CLAIR Margaret          Escale ş1974 Shore Leave şTrad. MARTIN Bruno
+: .oS.     N     _ST. CLAIR Margaret          Les Vins de la Terre ş1957 The Wines of Earth şTrad. GREGOIRE Catherine
+: .oS.     N     _ST. CLAIR Margaret          Les Questions ş1955 Asking şTrad. DURAND Roger
+: .oS.     N     _ST. CLAIR Margaret          Le Bazar bizarre ş1959 Graveyard Shift şTrad. MERLIN Anne
+: .oS.     N     _ST. CLAIR Margaret          Quel ennemi ? ş1955 Fort Iron şTrad. MARTIN Bruno
+: .oS.     N     _ST. CLAIR Margaret          La D‚esse au coin de la rue ş1953 The Goddess on the Street Corner şTrad. MARTIN Bruno
+: .oS.     N     _ST. CLAIR Margaret          L'Oeuf du mois ş1952 An Egg a Month from All Over şTrad. DOREMIEUX Alain
+: .oS.     N     _ST. CLAIR Margaret          La Mort de chaque jour ş1958 The Death of Each Day şTrad. ROSENBLUM Arlette
+: .oS.     N     _ST. CLAIR Margaret          Lazare ş1955 Lazarus şTrad. MARTIN Bruno
+o OptNebu    12  1976.xx ..... ISBN 2-7201-0069-2
+}neb12           _?                           N
+- .oS.    _A13   *HOUSSIN Jo‰l               &Banlieues rouges ş1976
+&                *VILA Christian              
+: .oS.     p     _WLASIKOV Romain             Fumez Coke ş1976
+: .oS.     N     _HUBERT Jean-Pierre          Toucher vaginal ş1976
+: .oS.     N     _DOUAY Dominique             Je m'appelle Simon et je vis dans un cube ş1976
+: .oS.     N     _ANDREVON Jean-Pierre        Exzone Z ş1976
+: .oS.     N     _GOY Philip                  Le Monde du ¾ ş1976
+: .oS.     N     _WALTHER Daniel              Et voir mourir tous les vampires du quartier de ... ş1976
+: .oS.     N     _LEOURIER Christian          L'Ouvre-BoŒte ş1976
+: .oS.     N     _AIRELLE Sacha Ali           Relais en forˆt ş1976
+: .oS.     N     _HOUSSIN Jo‰l                Multicolore ş1976
+: .oS.     N     _GAILLARD Roger              Terrain de jeu ş1976
+: .oS.     N     _LE CLERC DE LA HERVERIE J.  Supplice sylvestre ş1976
+: .oS.     N     _VILA Christian              Les Derniers Jours de mai ş1976
+: .oS.     N     _DURAND Ren‚                 Les Seigneurs chim‚riques des stades hallucin‚s ş1976
+: .oS.     N     _ROFFET Dominique            Le Supermarch‚ ş1976
+o OptNebu    13  1976.xx ..... ISBN 2-7201-0072-2
+}neb13           _?                           N
+- .oS.     R     _SILVERBERG Robert           L'Homme programm‚ ş1972 The Second Trip şTrad. MARTIN Bruno
+!--- Note : reprise de la nouvelle parue l'ann‚e pr‚c‚dente
+o OptNebu    14  1977.05 ..... ISBN 2-7201-0090-0
+}neb14           _?                           N
+- .oS.    _N23   _SLADEK John T.              Un gar‡on … vapeur ş1973 The Steam-driven Boy and Other Strangers şTrad. MAILLET Fran‡oise
+: .oS.     N     _SLADEK John T.              Le Plan dans le flan ş1966 The Babe in the Oven / The Secret of the Old Custard
+: .oS.     N     _SLADEK John T.              L'Agresseur ş1969 The Aggressor
+: .oS.     N     _SLADEK John T.              Le Best-Seller ş1969 The Best-seller
+: .oS.     N     _SLADEK John T.              La mort existe-t-elle sur les autres planŠtes ? ş1966 C on Planet Amp / Is There Death on Other Planets?
+: .oS.     N     _SLADEK John T.              La Race bienheureuse ş1967 The Happy Breed
+: .oS.     N     _SLADEK John T.              Rapport sur la migration du mat‚riel ‚ducatif ş1968 A Report on Migration of Educational Materials
+: .oS.     N     _SLADEK John T.              Le Singulier Visiteur de l'A-Venir, et comment s'en suivit le d‚clin lamentable du docteur Lemuel Jones ş1971 The Man from Not-yet / The Singular Visitor from Not-yet
+: .oS.     N     _SLADEK John T.              L'Heureuse Petite Femme de Mansard Eliot ş1971 The Short, Happy Wife of Mansard Eliot
+: .oS.     N     _SLADEK John T.              M'man ş1969 The Momster
+: .oS.     N     _SLADEK John T.              1937 ! ş1967 1937 A.D.!
+: .oS.     N     _SLADEK John T.              Identit‚ secrŠte ş1970 Secret Identity
+: .oS.     N     _SLADEK John T.              Le Sandwich transcendental ş1971 The Man who Devoured Books / The Transcendental Sandwich
+: .oS.     N     _SLADEK John T.              Un gar‡on … vapeur ş1972 The Steam-driven Boy
+: .oS.     N     _SLADEK John T.              Le Beurre vol‚ (Parodie sign‚e *dg*r *ll*n P**) ş1972 The Purloined Butter
+: .oS.     N     _SLADEK John T.              La Calliope … recommencer de Pemberly ou le nouveau Prot‚e (Parodie sign‚e H.G. W*lls) ş1971 Pemberly's Start-Afresh Calliope Or, the New Proteus
+: .oS.     N     _SLADEK John T.              Ralph 4 F (Parodie sign‚e H*ug* G*rnsb*ck) ş1973 Ralph 4F
+: .oS.     N     _SLADEK John T.              Ing‚nieur des dieux (Parodie sign‚e R*b*rt H**l**n) ş1972 Engineer to the Gods
+: .oS.     N     _SLADEK John T.              Force brute (Parodie sign‚e *s**c *s*m*v) ş1972 Broot Force
+: .oS.     N     _SLADEK John T.              Une belle balade (Parodie sign‚e R*y Br*db*ry) ş1972 Joy Ride
+: .oS.     N     _SLADEK John T.              La lune est cinquante centimes (Parodie sign‚e *rth*r C. Cl*rk) ş1973 The Moon Is Sixpence
+: .oS.     N     _SLADEK John T.              Le Chausseur d‚chauss‚ (Parodie sign‚e Ph*l*p K. D*ck) ş1973 Solar Shoe Salesman
+: .oS.     N     _SLADEK John T.              Une chose aprŠs l'autre (Parodie sign‚e C*rdw**n*r Sm*th) ş1973 One Damned Thing After Another
+: .oS.     N     _SLADEK John T.              Le Monde sublim‚ (Parodie sign‚e J.G. B*ll*rd) ş1968 The Sublimation World
+o OptNebu    15  1977.05 ..... ISBN 2-7201-0091-9
+}neb15           _?                           N
+- .oS.     R     _KNIGHT Damon                Tout et n'importe quoi ş1959 A for Anything / The People Maker şTrad. HILLING Simone
+!--- Note : version ‚tendue de la nouvelle "Tout avoir"
+!FIN_COLL OptNebu
+
+!DEB_HEAD OptAnti
+_ OptAnti Opta, Anti-mondes ş1972-1977
+!TIT_COLL Anti-mondes
+!-----------------------------------------------------------------------------
+!--- Une collection de 34 titres parus entre 1972 et 1977, par quasiment tous les
+!--. grands noms de la SF des ann‚es 60-70.
+!--- Format 13.5 x 19, couverture assez quelconque, illustr‚e, monochrome ou bicolore.
+!--- Directeur de collection: Michel DEMUTH.
+!-----------------------------------------------------------------------------
+!FIN_HEAD OptAnti
+!DEB_COLL OptAnti
+o OptAnti     1i 1972.xx R.... ISBN -
+}optaam01        _?                           N
+- .oS.     R     _ZELAZNY Roger               L'Œle des morts [Francis Sandow] ş1969 Isle of the Dead şTrad. DOREMIEUX Alain
+o OptAnti     2i 1972.xx ..... ISBN -
+}optaam02        _?                           N
+- .oS.     R     _SILVERBERG Robert           La Tour de verre ş1970 The Tower of Glass şTrad. HILLING Simone
+o OptAnti     3i 1972.xx ..... ISBN -
+}optaam03        _?                           N
+- .oS.     R     _SLADEK John T.              Mechasme ş1968 The Reproductive System / Mechasm şTrad. HILLING Simone
+!--- Note : paru en angelette sous le titre "Mechasm"
+o OptAnti     4i 1972.xx ..... ISBN -
+}optaam04        _?                           N
+- .oS.     R     _DICK Philip K.              Message de Frolix 8 ş1970 Our Friends from Frolix 8 şTrad. LOUIT Robert
+o OptAnti     5i 1973.04 ..... ISBN -
+}optaam05        _?                           N
+- .oS.     R     _LUPOFF Richard A.           L'Envol de la locomotive sacr‚e ş1971 Sacred Locomotive Flies şTrad. FERRER Jean-Michel
+o OptAnti     6i 1973.xx ..... ISBN -
+}optaam06        _?                           N
+- .oS.     R     _LAFFERTY Raphael A.         Les QuatriŠmes demeures ş1969 Fourth Mansions şTrad. LESSEPS Barth‚l‚my de
+o OptAnti     7i 1973.xx ..... ISBN -
+}optaam07        _?                           N
+- .oS.     R     _FARMER Philip Jos‚          Le Faiseur d'univers [La Saga des hommes-dieux - 1] ş1965 The Maker of Universes şTrad. DEUTSCH Michel
+o OptAnti     8i 1973.xx ..... ISBN -
+}optaam08        _?                           N
+- .oS.     R     _GOULART Ron                 AprŠs la d‚glingue ş1970 After Things Fell Apart şTrad. HILLING Simone
+o OptAnti     9  1973.xx ..... ISBN -
+}optaam09        _?                           N
+- .oS.     R     _SPINRAD Norman              Rˆve de fer ş1972 The Iron Dream şTrad. BOISSIER Jean-Michel
+o OptAnti    10  1973.11 ..... ISBN -
+}optaam10        _?                           N
+- .oS.     R     _LEIBER Fritz                G‚nies en boŒte ş1959 The Silver Eggheads şTrad. LESSEPS Barth‚l‚my de
+o OptAnti    11  1974.xx ..... ISBN 2-7201-0033-1
+}optaam11        _?                           N
+- .oS.     R     _SILVERBERG Robert           Le Temps des changements ş1971 A Time of Changes şTrad. DOREMIEUX Alain
+o OptAnti    12  1974.xx ..... ISBN 2-7201-0041-2
+}optaam12        _?                           N
+- .oS.     R     _DICK Philip K.              Le Dieu venu du Centaure ş1965 The Three Stigmata of Palmer Eldritch şTrad. ABADIA Guy
+o OptAnti    13  1974.xx ..... ISBN 2-7201-0057-9
+}optaam13        _?                           N
+- .oS.     R     _CONEY Michael               L'Image au miroir ş1972 Mirror Image şTrad. CANET Charles
+o OptAnti    14  1974.xx ..... ISBN 2-7201-0065-X
+}optaam14        _?                           N
+- .oS.     R     _KOONTZ Dean R.              La Semence du d‚mon ş1973 Demon Seed şTrad. PERRIN Mimi
+o OptAnti    15  1974.xx ..... ISBN 2-7201-0004-8
+}optaam15        _?                           N
+- .oS.     R     _WYNDHAM John                Les Triffides ş1951 The Day of the Triffids şTrad. BATTIN Marcel
+o OptAnti    16  1974.12 ..... ISBN 2-7201-0005-6
+}optaam16        _?                           N
+- .oS.     R     _SLADEK John T.              L'Effet Mller-Fokker ş1970 The Muller-Fokker Effect şTrad. ?
+o OptAnti    17  1975.xx ..... ISBN 2-7201-0007-2
+}optaam17        _?                           N
+- .oS.     R     _ALDISS Brian W.             Frankenstein d‚livr‚ ş1973 Frankenstein Unbound şTrad. POLANIS Jacques
+o OptAnti    18  1975.xx ..... ISBN 2-7201-0008-0
+}optaam18        _?                           N
+- .oS.     R     _FARMER Philip Jos‚          Les Portes de la cr‚ation [La Saga des hommes-dieux - 2] ş1966 The Gates of Creation şTrad. ABADIA Guy
+o OptAnti    19  1975.xx ..... ISBN 2-7201-0065-X
+}optaam19        _?                           N
+- .oS.     R     _ROTSLER William             MaŒtre des arts ş1973 Patron of the Arts şTrad. HUPP Philippe
+o OptAnti    20  1975.09 R.... ISBN 2-7201-0019-6
+}optaam20        _?                           N
+- .oS.     R     _YOUNG Robert F.             La Quˆte de la Sainte Grille ş1975 The Quest of the Holy Grille şTrad. BAILHACHE Jean
+!--- Note : d'aprŠs la nouvelle datant de 64, cette extension est parue seulement en France.
+o OptAnti    21  1975.xx R.... ISBN 2-7201-0031-5
+}optaam21        _?                           N
+- .oS.     R     _GALOUYE Daniel F.           L'Homme infini ş1973 The Infinite Man şTrad. PERNET Francis
+o OptAnti    22  1975.xx ..... ISBN 2-7201-0039-0
+}optaam22        _?                           N
+- .oS.     R     _ANTHONY Piers               Zodiacal ş1969 Macroscope şTrad. SERPH Fran‡oise
+o OptAnti    23  1976.xx ..... ISBN 2-7201-0044-7
+}optaam23        _?                           N
+- .oS.     R     _MOORCOCK Michael            Le Seigneur des airs [Oswald Bastable - 1] ş1971 Warlord of the Air şTrad. HERSANT Denise
+o OptAnti    24  1976.xx ..... ISBN 2-7201-0048-X
+}optaam24        _?                           N
+- .oS.     R     _KOONTZ Dean R.              La Chair dans la fournaise ş1972 The Flesh in the Furnace şTrad. HALIN Daphn‚
+o OptAnti    25  1976.xx ..... ISBN 2-7201-0059-5
+}optaam25        _?                           N
+- .oS.     R     _WYLIE Philip                La Fin du rˆve ş1972 The End of the Dream şTrad. MARTIN Bruno
+o OptAnti    26  1976.xx R.... ISBN 2-7201-0059-5
+}optaam26        _?                           N
+- .oS.     R     _LUNDWALL Sam J.             King-Kong blues ş1975 AD 2018 or the king-kong blues şTrad. POLANIS Jacques
+o OptAnti    27  1976.xx R.... ISBN 2-7201-0063-3
+}optaam27        _?                           N
+- .oS.     R     _SHAW Bob                    Orbitville ş1974 Orbitsville şTrad. ABONYI Dominique
+o OptAnti    28  1976.xx ..... ISBN 2-7201-0078-1
+}optaam28        _?                           N
+- .oS.     R     _HALDEMAN Joe                La Guerre ‚ternelle [La Guerre ‚ternelle] ş1974 The Forever War şTrad. LEBEC G‚rard & BROWER Diane
+o OptAnti    29  1976.xx ..... ISBN 2-7201-0073-0
+}optaam29        _?                           N
+- .oS.     R     _MOORCOCK Michael            Le L‚viathan des terres [Oswald Bastable - 2] ş1974 The Land Leviathan şTrad. HERSANT Denise
+o OptAnti    30  1977.xx ..... ISBN 2-7201-0078-1
+}optaam30        _?                           N
+- .oS.     R     _LEIBER Fritz                Un spectre hante le Texas ş1968 A Specter Is Haunting Texas şTrad. STRASCHITZ Frank
+o OptAnti    31  1977.xx ..... ISBN 2-7201-0080-3
+}optaam31        _?                           N
+- .oS.     R     _MACLEAN Katherine           Le Disparu ş1975 The Missing Man şTrad. MARTIN Bruno
+o OptAnti    32  1977.xx R.... ISBN 2-7201-0088-9
+}optaam32        _?                           N
+- .oS.     R     _DELANY Samuel               L'Intersection Einstein ş1967 The Einstein Intersection şTrad. POLANIS Jacques
+o OptAnti    33  1977.xx R.... ISBN 2-7201-0088-9
+}optaam33        _?                           N
+- .oS.     N14   _BARONIAN Jean-Baptiste      Le Grand Chalababa ş1977
+: .o .     N     _BARONIAN Jean-Baptiste      Le Bon Calcul ş?
+: .o .     N     _BARONIAN Jean-Baptiste      De l'inconv‚nient de rencontrer un extra-terrestre ş?
+: .o .     N     _BARONIAN Jean-Baptiste      Entrevue avec l'homme assez gros qui fume un... ş?
+: .o .     N     _BARONIAN Jean-Baptiste      Les Gnougnous ş?
+: .o .     N     _BARONIAN Jean-Baptiste      Le Grand Chalababa ş?
+: .o .     N     _BARONIAN Jean-Baptiste      Il est onze heures, monsieur Lapalissade ş?
+: .o .     N     _BARONIAN Jean-Baptiste      Il y en aura pour tous les monstres ş?
+: .o .     N     _BARONIAN Jean-Baptiste      Jeanne et l'Eternel ş?
+: .o .     N     _BARONIAN Jean-Baptiste      Un homme et les autres ş?
+: .o .     N     _BARONIAN Jean-Baptiste      Un jules comme C‚sar ş?
+: .o .     N     _BARONIAN Jean-Baptiste      Un petit tour et puis s'en va ş?
+: .o .     N     _BARONIAN Jean-Baptiste      Une fois n'est pas coutume ş?
+: .o .     N     _BARONIAN Jean-Baptiste      Vie de Symphorien ficelle, commis voyageur ş?
+: .o .     N     _BARONIAN Jean-Baptiste      Z‚nobe ş?
+o OptAnti    34  1977.xx ..... ISBN 2-7201-0096-X
+}optaam34        _?                           N
+- .o .     R     _KURLAND Michael             Morituri ş1975 Pluribus şTrad. LEBEC G‚rard
+!FIN_COLL OptAnti
+
+!-----------------------------------------------------------------------------
+!---                     OPTA - MARGINAL (1973-1977)
+!--- MARGINAL - Anthologie de l'imaginaire
+!---   Une s‚rie d'anthologies (15 ouvrages) de trŠs bonne qualit‚.
+!---   Format 13x19 … 13,4x19.
+!---
+!--- Directeur de la publication : Ph. DAUDY (1 … 4)
+!---                          puis Martine CASTAING (5 … 15)
+!--- R‚dacteur en chef : Michel DEMUTH
+!--- Toutes les intros (de Demuth) ne sont pas sign‚es, sauf le num‚ro 15
+!-----------------------------------------------------------------------------
+o OptMarg     1  1973.xx ..... ISBN -
+} marginal01     _?                           N
++ OptMarg     1  1973.xx ..... ISBN -
+} marginal01b    _?                           N
+- .oS.    _A7    *DEMUTH Michel               Enfers et paradis de l'espace ş1973
+!--- Nov/D‚c 73
+: .oS.     N     _ROBINSON Frank M.           Le Glaive et le flambeau ş1951 The Fire and the Sword şTrad. PARSONS Jacques
+: .oS.     N     _DICK Philip K.              Colonie ş1953 Colony şTrad. ZIMET Ben & Christine
+: .oS.     N     _McDONALD John D.            Vuln‚rabilit‚ ş1951 Susceptibility şTrad. DEUTSCH Michel
+: .oS.     N     _DEL REY Lester              En d‚tresse ş1951 Operation Distress şTrad. PARSONS Jacques
+: .oS.     N     _ASIMOV Isaac                Le Mal du pays ş1951 The C-chute şTrad. MARTIN Bruno
+: .oS.     N     _VANCE Jack                  Qui perd gagne ş1951 Winner Lose All şTrad. MARTIN Bruno
+: .oS.     N     _KNIGHT Damon                Le Circuit de l'‚ternit‚ ş1952 Ticket to Anywhere şTrad. PARSONS Jacques
+o OptMarg     2  1974.xx R.... ISBN -
+} marginal02     _?                           N
++ OptMarg     2  1974.xx ..... ISBN -
+} marginal02b    _?                           N
+- .oS.    _A8    *DEMUTH Michel               Tr‚sors et piŠges du temps ş1974
+!--- Janvier-F‚vrier 74
+: .o .     p     _DEMUTH Michel               Voyageurs imprudents ş1974
+: .oS.     N     _LEIBER Fritz                Les Cinq Maris de Lo‹s ş1951 Nice Girl With Five Husbands şTrad. DEUTSCH Michel
+: .oS.     N     _SIMAK Clifford D.           Les Glaneurs ş1960 Gleaners şTrad. MARTIN Bruno
+: .oS.     N     _LEINSTER Murray             L'Autre Temps ş1951 The Other Now şTrad. DEUTSCH Michel
+: .oS.     N     _WYNDHAM John                Boomerang ş1951 Pillar to Post şTrad. MARTIN Bruno
+: .oS.     N     _BOUCHER Anthony             Point de transfert ş1950 Transfer Point şTrad. BALFET Nicole
+: .oS.     N     _BROWN Fredric               Jeu de glaces ş1953 Hall of Mirrors şTrad. CANET Charles
+: .oS.     N     _TUBB E.C.                   Un peu de temps … tuer ş1956 Time to Kill şTrad. HUPP Philippe R.
+: .oS.     N     _TENN William                La Soudaine gloire de Morniel Mathaway ş1955 The Discovery of Morniel Mathaway şTrad. HUPP Philippe R.
+o OptMarg     3  1974.xx ..... ISBN -
+} marginal03     _?                           N
++ OptMarg     3  1974.xx ..... ISBN -
+} marginal03b    _?                           N
+- .oS.    _A7    *DEMUTH Michel               Ceux d'ailleurs ş1974
+!--- Avril/Mai 74
+: .o .     p     _DEMUTH Michel               Conduisez-moi … votre chef ş1974
+: .oS.     N     _SIMAK Clifford D.           Bonne nuit, Mr. James ş1951 Good Night, Mr. James şTrad. DEUTSH Michel
+: .oS.     N     _TENN William                Les Escargots de B‚telgeuse ş1951 Betelgeuse Bridge şTrad. DEUTSH Michel
+: .oS.     N     _SHECKLEY Robert             Gardez la forme ş1953 Keep Yout Shape şTrad. ROSENBLUM Arlette
+: .oS.     N     _KNIGHT Damon                Le Gar‡on de cabine ş1951 Cabin Boy şTrad. MARTIN Bruno
+: .oS.     N     _LEINSTER Murray             Si vous ‚tiez un Moklin ş1951 If You Was a Moklin şTrad. MARTIN Bruno
+: .oS.     N     _NEVILLE Kris                Le Chasseur chass‚ ş1951 Hunt the Hunter şTrad. PARSONS Jacques
+: .oS.     N     _ASIMOV Isaac                L'H“tesse ş1951 Hostess şTrad. CLOQUET Eve-Marie
+o OptMarg     4  1974.xx R.... ISBN -
+} marginal04     _?                           N
++ OptMarg     4  1974.xx R.... ISBN -
+} marginal04b    _?                           N
+- .oS.    _A11   *DEMUTH Michel               Gadgets aimables et trucs ‚pouvantables ş1974
+!--- Juin/Juillet 74
+: .o .     p     _DEMUTH Michel               La Bˆte qui est dans votre r‚frig‚rateur ş1974
+: .oS.     N     _MORRISON William            Commis exp‚ditionnaire ş1952 Shipping Clerk şTrad. POLANIS Jacques
+: .oS.     N     _MARKS Winston               Le Mangeur d'eau ş1953 The Water Eater şTrad. ZIMET Christine & Ben
+: .oS.     N     _TEVIS Walter                Le Rebondissement final ş1958 The Big Bounce şTrad. MAILLET Fran‡oise
+: .oS.     N     _LEIBER Fritz                Du pain par-dessus la tˆte ş1958 Bread Overhead şTrad. MAILLET Fran‡oise
+: .oS.     N     _ARKIN Alan                  La Fortune du pot ş1958 People Soup şTrad. BAYART Pierre
+: .oS.     N     _ELLIOTT H. Chandler         Th‚orie de la r‚sistance des objets inanim‚s ş1954 Inanimate objection şTrad. HALIN Daphn‚
+: .oS.     N     _MATHESON Richard            All“, miss Eva ? ş1953 Long Distance Call / Sorry, Right Number! şTrad. THERMATH Andr‚-Fran‡ois
+: .oS.     N     _DYE Charles                 Johnny Syndrome ş1951 Syndrome Johnny şTrad. PARSONS Jacques
+: .oS.     N     _HENDERSON Zenna             Chut ! ş1953 Hush! şTrad. THERMATH Andr‚-Fran‡ois
+: .oS.     N     _POHL Frederik               Le Tunnel sous le monde ş1955 The Tunnel Under the World şTrad. BAYART Pierre
+: .oS.     N     _ST. CLAIR Margaret          La M‚zon de l'orreure ş1956 Horrer Howce şTrad. BILLON Pierre
+o OptMarg     5  1974.xx ..... ISBN -
+} marginal05     _?                           N
++ OptMarg     5  1974.xx ..... ISBN -
+} marginal05b    _?                           N
+- .oS.    _A7    *DEMUTH Michel               Andro‹des, robots et machines folles ş1974
+!--- Septembre/Octobre 74
+: .o .     p     _DEMUTH Michel               Click ! ş1974
+: .oS.     N     _DICK Philip K.              Autofac ş1955 Autofac şTrad. HALIN Daphn‚
+: .oS.     N     _McINTOSH J.T.               Made in U.S.A. ş1953 Made in U.S.A. şTrad. HUPP Philippe R.
+: .oS.     N     _MARKS Winston               Choc en retour ş1954 Backlash şTrad. ROSENBLUM Arlette
+: .oS.     N     _SHAARA Michael              Orphelins de l'espace ş1952 Orphans of the Void şTrad. POLANIS Jacques
+: .oS.     N     _MORRISON William            La Fugue ş1952 Runaway şTrad. HUPP Philippe R.
+: .oS.     N     _GALOUYE Daniel F.           Les Enfants de Jackson ş1957 All Jackson's Children şTrad. THERMATH Andr‚-Fran‡ois
+: .oS.     N     _SIMAK Clifford D.           Lulu ş1957 Lulu şTrad. THERMATH Andr‚-Fran‡ois
+o OptMarg     6  1975.xx R.... ISBN -
+} marginal06     _?                           N
++ OptMarg     6  1975.xx R.... ISBN -
+} marginal06b    _?                           N
+- .oS.    _A6    *DEMUTH Michel               Rois ‚tranges et dictateurs fous de l'avenir ş1975
+: .o .     p     _DEMUTH Michel               Plus ‡a change... ş1975
+: .oS.     N     _ARR Stephen                 Monsieur le pr‚sident ş1953 Mr President
+: .oS.     N     _ANDERSON Poul               Manipulation ş1951 Inside Earth
+: .oS.     N     _ROBIN Ralph                 Faites de beaux rˆves ş1951 Pleasant Dreams
+: .oS.     N     _TENN William                Votre tout-puissant serviteur ş1955 The Servant Problem
+: .oS.     N     _NOURSE Alan E.              La Porte couleur de t‚nŠbres ş1953 The Dark Door
+: .oS.     N     _LEIBER Fritz                Rendez-vous dans le futur ş1951 Appointment in Tomorrow / Poor Superman
+: .oS.     a     _DUVEAU Christian            A propos des bandes dessin‚es : Les frissons des ann‚es 50 ş1975
+: .oS.     a     _EIZYKMAN Boris              Science-fiction fran‡aise : les singes du temps, le cirque du rˆve, les cercles de la mort de Michel Jeury ş1975
+o OptMarg     7  1975.xx R.... ISBN -
+} marginal07     _?                           N
++ OptMarg     7  1975.xx R.... ISBN -
+} marginal07b    _?                           N
+- .oS.    _A6    *DEMUTH Michel               Apoth‚oses, apocalypses et retours … z‚ro ş1975
+: .o .     p     _DEMUTH Michel               Pour en finir... ş1975
+: .oS.     N     _BROWN Fredric               Rendez-vous en enfer ş1950 Honeymoon in Hell
+: .oS.     N     _PANGBORN Edgar              Le Maestro de Babylone ş1954 The Music Master of Babylon
+: .oS.     N     _HEINLEIN Robert             L'Ann‚e du grand coup ş1952 The Year of the Jackpot
+: .oS.     N     _LEIBER Fritz                Plus tard que tu ne penses ş1950 Later than You Think
+: .oS.     N     _DICKSON Gordon R.           Et puis ce fut la paix ş1962 And then There Was Peace
+: .oS.     N     _EVANS Dean                  Plus ƒme qui vive ş1951 Not a creature was stirring
+: .oS.     a     _ANDERSON Poul               Th‚orie cyclique de la science-fiction ş1974 Forum: A Cyclical Theory of Science Fiction şTrad. ?
+: .oS.     N     _KEITH Roger                 La Mort et les taxes ş1974 Death and Taxes şTrad. ?
+o OptMarg     8  1975.xx R.... ISBN -
+} marginal08     _?                           N
++ OptMarg     8  1975.xx R.... ISBN -
+} marginal08b    _?                           N
+- .oS.    _A8    *DEMUTH Michel               Us et coutumes d'aprŠs-demain ş1975
+: .oS.     N     _KORNBLUTH Cyril M.          De ces mains ş1951 With These Hands
+: .oS.     N     _FYFE Horace B.              Les Coutumes du siŠcle ş1952 Manners of the Age
+: .oS.     N     _DIRKSON Alan                L'Eve d'Adam ş1967 Adam's Eva
+: .oS.     N     _TENN William                Chƒtiment pay‚ d'avance ş1956 Time in Advance
+: .oS.     N     _VANCE Jack                  La Retraite d'Ullward ş1958 Ullward's Retreat
+: .oS.     N     _STURGEON Theodore           M. Costello, h‚ros ş1953 Mr. Costello, Hero
+: .oS.     N     _DRYFOOS Dave                Le Passage du pont ş1951 Bridge Crossing
+: .oS.     N     _SMITH Evelyn E.             Saturne party ş1955 The Vilbar Party
+o OptMarg     9  1975.xx R.... ISBN -
+} marginal09     _?                           N
++ OptMarg     9  1975.xx R.... ISBN -
+} marginal09b    _?                           N
+- .oS.    _A7    *DEMUTH Michel               Soleils d'ailleurs et lunes de mort ş1975
+!--- Septembre/Octobre 75
+: .o .     p     _DEMUTH Michel               Sifflent les parsecs ş1975
+: .oS.     N     _LEIBER Fritz                Un seau d'air ş1951 A Pail of Air şTrad. MARTIN Bruno
+: .oS.     N     _SHAARA Michael              Le Livre ş1953 The Book şTrad. ROSENBLUM Arlette
+: .oS.     N     _DEE Roger                   ProblŠme sur Balak ş1953 Problem on Balak şTrad. CANET Charles
+: .oS.     N     _ANDERSON Poul               Le Jardin du vide ş1952 Garden in the Void şTrad. PERREZ Michel
+: .oS.     N     _VENABLE Lyn                 Le Mal du pays ş1952 Homesick şTrad. BAYART Pierre
+: .oS.     N     _LESSER Milton               Le Sens du merveilleux ş1951 Sense of Wonder şTrad. MARTIN Bruno
+: .oS.     N     _DEL REY Lester              Le Vent qui soufflait entre les mondes ş1951 The Wind Between the Worlds şTrad. DEUTSCH Michel
+: .oS.     a     _ASIMOV Isaac                Que peut-on esp‚rer de l'avenir ş1974 Is There Hope for the Future? şTrad. LEBEC G‚rard
+o OptMarg    10  1975.xx R.... ISBN -
+} marginal10     _?                           N
++ OptMarg    10  1975.xx R.... ISBN -
+} marginal10b    _?                           N
+- .oS.    _A9    *DEMUTH Michel               B‚b‚s-surprises et dr“les de bestioles ş1975
+: .o .     p     _DEMUTH Michel               Des petits canards t‚l‚pathes... ş1975
+: .oS.     N     _POHL Frederik               AmŠre pilule ş1959 The Bitterest Pill / The Richest Man in Levittown
+: .oS.     N     _KNIGHT Damon                Une naissance tant attendue ş1954 Special Delivery
+: .oS.     N     _WILSON Richard              Les Vizzies ş1952 The Hoaxters
+: .oS.     N     _BIXBY Jerome                Zen ş1952 Zen
+: .oS.     N     _PANGBORN Edgar              Oeuf d'ange ş1951 Angel's Egg
+: .oS.     N     _SHECKLEY Robert             Des poux ş1955 The Squirrel Cage
+: .oS.     N     _WALLACE Floyd L.            La Bestiole de Bolden ş1955 Bolden's Pet
+: .oS.     N     _CHRISTOPHER John            Socrate ş1951 Socrates
+: .oS.     N     _MARKS Winston               L'Enfant non engendr‚ ş1953 Unbegotten Child
+o OptMarg    11  1976.xx ..... ISBN -
+} marginal11     _?                           N
++ OptMarg    11  1976.xx ..... ISBN -
+} marginal11b    _?                           N
+- .oS.    _A13   *DEMUTH Michel               Ultra-dimensions et univers invers‚s ş1976
+!--- Janvier-F‚vrier 76
+: .o .     p     _DEMUTH Michel               La Porte … c“t‚... ş1976
+: .oS.     N     _SHECKLEY Robert             PiŠge ş1956 Trap şTrad. MAILLET Fran‡oise
+: .oS.     N     _POHL Frederik               Cible num‚ro un ş1955 Target One şTrad. KHIM Alain et Liliane
+: .oS.     N     _NOURSE Alan E.              Un univers par la queue ş1951 Tiger by the Tail şTrad. KHIM Alain et Liliane
+: .oS.     N     _ARKIN Alan                  Swishbadoum ş1955 Whiskaboom şTrad. KHIM Alain et Liliane
+: .oS.     N     _TEVIS Walter                L'Oeil de Farnsworth ş1957 The Ifth of Oofth şTrad. PUGI J.P.
+: .oS.     N     _BIGGLE Lloyd Jr.            La Loi de la porte ş1958 The Rule of the Door şTrad. PUGI J.P.
+: .oS.     N     _WILSON Richard              Pourquoi je vais retrouver Julie ş1954 Back to Julie şTrad. ABONYI Dominique
+: .oS.     N     _MORRISON William            Mariage intertemporel ş1955 Picture Bride şTrad. MAILLET Fran‡oise
+: .oS.     N     _BIGGLE Lloyd Jr.            Le Premier R“le ş1957 Leading Man şTrad. MAILLET Fran‡oise
+: .oS.     N     _LEWIS Elisabeth R.          Entre voisins... ş1953 Know the neighbour şTrad. PUGI J.P.
+: .oS.     N     _ARTHUR Robert               L'Aggravation d'Elmer ş1955 The Aggravation of Elmer şTrad. PUGI J.P.
+: .oS.     N     _McINTOSH J.T.               Play back ş1954 Playback şTrad. HUPP Philippe R.
+: .oS.     N     _DEL REY Lester              Ici se termine... ş1951 And It Comes Out Here şTrad. MAILLET Fran‡oise
+o OptMarg    12  1976.xx R.... ISBN -
+} marginal12     _?                           N
++ OptMarg    12  1976.xx R.... ISBN -
+} marginal12b    _?                           N
+- .oS.    _A7    *DEMUTH Michel               Surhommes, t‚l‚pathes et suresprits ş1976
+: .o .     p     _DEMUTH Michel               Dans les vitres du ministŠre... ş1976
+: .oS.     N     _WILSON Richard              Les Poss‚d‚s ş1953 The Ihnabited
+: .oS.     N     _GOLD H.L.                   Un s‚rieux handicap ş1953 At the Post
+: .oS.     N     _TENN William                Droit d'asile ş1957 Sanctuary
+: .oS.     N     _SHECKLEY Robert             Chƒteaux en espaces ş1952 Proof of the Pudding
+: .oS.     N     _SCHMITZ James H.            L'Altruiste ş1952 Altruist
+: .oS.     N     _McINTOSH J.T.               Espion ş1954 Spy
+: .oS.     N     _GALOUYE Daniel F.           Jebaburba ş1954 Jebaburba
+o OptMarg    13  1976.xx R.... ISBN -
+} marginal13     _?                           N
+- .oS.    _A8    *DEMUTH Michel               Rires cosmiques, gargouillis galactiques et futurs d‚sopilants ş1976
+: .o .     p     _DEMUTH Michel               Ouaaahh ! ş1976
+: .oS.     N     _MORRISON William            Le Mauvais Bouton ş1957 The Sly Bungerhop şTrad. HALIN Daphn‚
+: .oS.     N     _SMITH Evelyn E.             A votre service ! ş1955 Helpfully Yours! şTrad. ABONYI Dominique
+: .oS.     N     _WELLEN Edward               Sommaire de m‚decine galactique ş1953 Origins of Galactic M‚decine şTrad. ABONYI Dominique
+: .oS.     N     _SMITH Evelyn E.             PiŠge V‚nusien ş1956 The Venus Trap şTrad. SERPH Fran‡oise
+: .oS.     N     _ANDERSON Poul               Le Tire-Bouchon spatial ş1956 The Corkscrew of Space şTrad. HALIN Daphn‚
+: .oS.     N     _DEE Roger                   Les Risques de la marchandise ş1958 Trader's Risk şTrad. SERPH Fran‡oise
+: .oS.     N     _DE CAMP Lyon Sprague        Chasse au dinosaure [Rivers] ş1956 A Gun for Dinosaur şTrad. HUPP Philippe R.
+: .oS.     N     _WELLEN Edward               Origine du Conseil Galactique aux Abandonn‚s ş1955 Origins of Galactic Advice to the Lovelorn şTrad. ABONYI Dominique
+o OptMarg    14  1977.xx ..... ISBN -
+} marginal14     _?                           N
+- .oS.    _A9    *DEMUTH Michel               Voyageurs de l'‚ternit‚ et couloirs du temps ş1977
+: .o .     p     _DEMUTH Michel               Un siŠcle … l'envers, un siŠcle … l'endroit ş1977
+: .oS.     N     _SIMAK Clifford D.           Seconde enfance ş1951 Second Childhood şTrad. DEUTSCH Michel
+: .oS.     N     _JONES Raymond F.            Des pierres et des lances ş1950 A Stone and a Spear şTrad. BALFIN Nicole
+: .oS.     N     _SMITH Evelyn E.             Menace du futur ş1957 The Man Outside şTrad. TERMATH Andr‚-Fran‡ois
+: .oS.     N     _JACOBS Sylvia               Un jeune homme de l'autre temps ş1961 Youg man from elsewhen şTrad. BAYART Pierre
+: .oS.     N     _KNIGHT Damon                Une belle invention ş1958 Thing of Beauty şTrad. TERMATH Andr‚-Fran‡ois
+!--- indiqu‚e "Anachron" par suite d'une erreur de transcription
+: .oS.     N     _LEINSTER Murray             All“, Sam ? Ici Sam ! ş1955 Sam, This Is You! şTrad. HUPP Philippe R.
+: .oS.     N     _DANIEL Lucius               L'Heure du choix ş1955 Up for renewal
+: .oS.     N     _VAN DE VET Charles          Pour qui sait attendre ş1953 Delayed Action
+: .oS.     N     _STURGEON Theodore           Dans l'ouragan ş1955 Hurricane Trio şTrad. HUPP Philippe R.
+o OptMarg    15  1977.xx ..... ISBN -
+} marginal15     _?                           N
+- .oS.    _A10   *DEMUTH Michel               Phares stellaires et sillages atomiques ş1977
+: .o .     p     _DEMUTH Michel               L'espace n'existe plus ş1976
+: .oS.     N     _GUNN James E.               Une gravifique affaire ş1956 The Gravity Business şTrad. TERMATH Andr‚-Fran‡ois
+: .oS.     N     _MORRISON William            La PlanŠte de l'homme mort ş1955 Dead Man's Planet şTrad. KARFIOL Ren‚e & BROWER Diane
+: .oS.     N     _BIXBY Jerome                Le Gardien ş1964 Guardian şTrad. POTOT Jacques
+: .oS.     N     _MATHESON Richard            La TroisiŠme … partir du soleil ş1950 Third from the Sun şTrad. BALFET Nicole
+: .oS.     N     _BANKS Raymond E.            Boh‚miens de l'espace ş1957 Payload şTrad. THERMATH Andr‚-Fran‡ois
+: .oS.     r     _STURGEON Theodore           A l'assaut des dieux ş1957 The Pod in the Barrier / The Pod and the Barrier şTrad. ABONYI Dominique
+: .oS.     N     _CHRISTOPHER John            L'Homme du destin ş1951 Man of Destiny şTrad. THERMATH Andr‚-Fran‡ois
+: .oS.     N     _SCHMITZ James H.            Vigilance ş1953 Caretaker şTrad. THERMATH Andr‚-Fran‡ois
+: .oS.     N     _LEIBER Fritz                L'Orbite de la banquise ş1962 The Snowbank Orbit şTrad. BAYART Pierre
+: .oS.     N     _ROBINSON Frank M.           Le Glaive de feu ş1951 The Fire and the Sword şTrad. THERMATH Andr‚-Fran‡ois
+
+o XLII_OM    16  1977.xx ..... ISBN -
+} marginal16     _?                           N
+- .oS.    _A8    *DEMUTH Michel               Batailles … venir, soldats de la fin des temps ş1977
+!--- Le num‚ro 16 est un faux, r‚alis‚ par les XCII, avec maquette identique
+!---  et intro de Michel Demuth
+: .oS.     N     _MYERS Howard L.             L'Arme r‚calcitrante ş1958 The Reluctant Weapon şTrad. ELRICH Michel
+: .oS.     N     _POHL Frederik               Les Sorciers de Pung's Corners ş1958 The Wizards of Pung's Corners şTrad. SAINT GILLES Philippe de
+: .oS.     N     _SIMAK Clifford D.           Pour sauver la guerre ş1958 The Civilization Game şTrad. ?
+: .oS.     N     _BUDRYS Algis                Blind‚ ş1954 Ironclad şTrad. BROWER Diane
+: .oS.     N     _DICK Philip K.              Petit d‚jeuner au cr‚puscule ş1954 Breakfast at Twilight şTrad. SAINT GILLES Philippe de
+: .oS.     N     _COGSWELL Theodore R.        Rapport d'invasion ş1954 Invasion Report şTrad. ?
+: .oS.     N     _SHAARA Michael              Un bon petit gars ş1953 Soldier Boy şTrad. SAINT GILLES Philippe de
+: .oS.     N     _GALOUYE Daniel F.           L'Antre de Satan ş1954 Satan's Shrine şTrad. ?
+
+
+!-----------------------------------------------------------------------------
+!--- MystŠre magazine (OPTA)
+!--- Editions Opta
+!--- 96, rue de la Victoire
+!--- Paris 9iŠme
+!--- Directeur Maurice Renault
+!--- 
+!--- Il existe aussi des "MystŠre S‚lection" (3 livres en 1)
+!--- de 1 … au moins 25
+!-----------------------------------------------------------------------------
+o MYSM       20  1949.09 ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 20 (septembre 1949) ş1949
+: .xP.     N     _DUCHATEAU Andr‚-Paul        Boomerang ş1949
+o MYSM       21  1949.10 ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 21 (octobre 1949) ş1949
+: .o .     N     _POE Edgar Allan             C'est toi ş1844 Thou Art the Man
+o MYSM       22  1949.11 ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 22 (novembre 1949) ş1949
+: .o .     N     _QUENTIN Patrick             La Cascade ş1948 Mother, May I Got Out to Swim?
+o MYSM       34  1950.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 34 ş1950
+: .o .     N     _OWEN Thomas                 L'Assassinat de Lady Rhodes ş1950
+o MYSM       39  1951.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 39 ş?
+: .o .     N     _WARREN Raoul de             Glaces et neiges, b‚nissez le seigneur ş1951
+o MYSM       43  1951.08 ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 43 ş1951
+: .o .     N     _BOUQUET Jean-Louis          La Com‚die des morts ş1951
+o MYSM       49  1952.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 49 ş1952
+: .o .     N     _OWEN Thomas                 Villa … vendre ş1952
+o MYSM       81  1954.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 81 ş1954
+: .x .     N     _ROHMER Sax                  Une m“me qui a du coffre ş1911 Narky şTrad. ?
+o MYSM       87  1955.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 87 (Avril 1955) ş1955
+: .x .     N     _HENNEBERG Charles           Ilse d'Arlberg ş1955
+o MYSM      107  1956.12 ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 107 (d‚cembre 1956) ş1956
+: .oF.     N     _BENEFIELD Barry             La Reine des vampires ş1914 Queen of the Graveyard Ghouls şTrad. PERRIN Jacqueline & Michel
+: .oF.     N     _DUCHATEAU Andr‚-Paul        Photomaton ş1956
+: .x .     N     _PILJEAN Andr‚               La Grande Vie ş1956
+o MYSM      120  1958.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 120 ş1958
+: .o .     N     _SHECKLEY Robert             Coup de main champŠtre ş1957 Country Caper
+o MYSM      138  1959.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 138 (Juillet 1959) ş1959
+: .x .     N     _HENNEBERG Charles           La Rose du pays des roses ş1959
+o MYSM      141  1959.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 141 ş1959
+: .x .     N     _STURGEON Theodore           L'Homme patient ş1956 The Waiting Thing Inside
+o MYSM      143  1959.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 143 (D‚cembre 1959) ş1959
+: .x .     N     _HENNEBERG Charles           Les Flammes mortes ş1959
+o MYSM      145  1960.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 145 (F‚vrier 60) ş1960
+: .o .     N     _KLEIN G‚rard                Vous mourrez quand mˆme... ş1960
+o MYSM      163  1961.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 163 (Ao–t 61) ş1961
+: .o .     N     _KLEIN G‚rard                Le T‚moin ş1961
+o MYSM      169  1962.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 169 ş1962
+: .o .     N     _BLOCH Robert                Le Sosie de Napol‚on ş1961 The Man who Looked Like Napoleon
+o MYSM      187  1963.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 187 ş1963
+: .x .     N     _STURGEON Theodore           L'Homme qui calculait tout ş1960 The Man who Figured Everything
+o MYSM      190  1963.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 190 ş1963
+: .o .     N     _STURGEON Theodore           L'Abominable Invit‚ ş1947 Fluffy / The Abominable House Guest şTrad. ROSENBLUM Arlette
+o MYSM      193  1964.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 193 ş1964
+: .o .     N     _DEMUTH Michel               J‚r“me et la nymphette ş1964
+o MYSM      201  1964.10 ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 201 ş1964
+: .x .     N     _BURROUGHS Edgar Rice        Tarzan, d‚tective de la jungle [Tarzan] ş1917 The Battle for Teeka şTrad. GIRARD Michel
+o MYSM      209  1965.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 209 ş1965
+: .o .     N     _OWEN Thomas                 La Fille de la pluie ş1965
+o MYSM      218  1966.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 218 ş1966
+: .x .     N     _STURGEON Theodore           Hold up … la carte ş1964 Hold Up a La Carte
+o MYSM      233  1967.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 233 ş1967
+: .o .     N     _BLOCH Robert                La Capsule du temps ş1966 Life in Our Time
+o MYSM      235  1967.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 235 ş1967
+: .o .     N     _BLOCH Robert                Un vampire sur mesure ş1967 The Living Dead
+!--- 236 : sept 65
+!--- 246 : janv 67
+o MYSM      245  1968.xx ..... ISBN -
+!--- 245 : juin 68
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 245 ş1968
+!--- A noter un texte de Lloyd Biggle Junior (Section des Crimes Futurs)
+o MYSM      252  1969.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 252 ş1969
+: .o .     N     _BLOCH Robert                Nounours est pyromane ş1968 The Gods Are Not Mocked
+!--- 254 : sept 68
+o MYSM      258  1969.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 258 ş1969
+: .o .     N     _BLOCH Robert                Tu ne fais jamais rien de bien ş1968 The Man who Never Did Anything Right
+!--- 263 : avr 68
+o MYSM      266  1970.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 266 (Avril 70) ş1970
+: .o .     N     _MATHESON Richard            Une aiguille en plein coeur ş1969 Needle in the Heart şTrad. ROSENBLUM Arlette
+o MYSM      277  1971.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 227 (Mars 71) ş1971
+: .o .     N     _MATHESON Richard            Jusqu'… ce que la mort nous s‚pare ş1970 Till Death Do Us Part şTrad. BEBOUCH Francis
+!--- 279 : d‚c 70
+o MYSM      294  1972.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 294 (Aout 72) ş1972
+: .o .     N     _MATHESON Richard            Le Signe du lion ş1972 Leo Rising şTrad. LEMOINE Lucienne
+o MYSM      299  1973.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 299 ş1973
+: .o .     N     _LEICHT Markus               Tout est dans le tournevis ş1973
+o MYSM      319  1974.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 319 ş1974
+: .o .     N     _BERGAL Gilles               Le Mort aux dents dignes d'un don ş1974
+o MYSM      331  1975.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 331 ş1975
+: .o .     N     _BLOCH Robert                Regarde comme elles courent ş1973 See How They Run
+o MYSM      341  1976.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 341 ş1976
+: .o .     N     _BERGAL Gilles               L'Appel de la Banshee ş1976
+
+o MYSM_NS     4  1977.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 4 ş1977
+: .o .     N     _BERGAL Gilles               Le Sifflet d'or ş1977
+
+!-----------------------------------------------------------------------------
+!--- in MystŠre magazine nø 213 bis Anthologie du mystŠre 1965
+!--- 1961
+!--- 1963
+!--- 1964
+!--- 1965
+!--- Sp‚cial 9 225bis
+!--- Sp‚cial 11 245bis
+!--- Sp‚cial 13 269bis
+!--- Sp‚cial 16 317bis
+!-----------------------------------------------------------------------------
+o MYSA   213bis  1965.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Ax    ****                         Anthologie du mystŠre ş1965
+: .o .     N     _MATHESON Richard            Qu'y-a-t-il dans la boŒte ş1959 Big Surprise / What Was in the Box şTrad. GIRARD Michel
+: .oY.     N     _DUNSANY Lord                Maux … ‚changer ş1964 The Shop That Exchanged Evils şTrad. ?
+
+!-----------------------------------------------------------------------------
+!--- Ellery Queen magazine (OPTA)
+!--- Ellery Queen MystŠre magazine (le 75) ?! : id MystŠre Magazine ??
+!-----------------------------------------------------------------------------
+o ELQM       75  1954.04 ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Ellery Queen magazine nø 75 (avril 54) ş1954
+: .o .     N     _PANGBORN Edgar              La Baguette chantante ş1952 The Singing Stick
+o ELQM       80  1954.09 ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Ellery Queen magazine nø 80 (septembre 54) ş1954
+: .oF.     N     _DOYLE Arthur Conan          Comment la chose arriva ş1913 How It Happened şTrad. VIGNEAUX Pierre
+o ELQM      119  1957.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Ellery Queen magazine nø 119 (D‚cembre 57) ş1957
+: .o .     N     _BLOCH Robert                Dingue de tombe ş1957 Dig That Crazy Grave!
+o ELQM      130  1958.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Ellery Queen magazine nø 130 (Novembre 58) ş1958
+: .o .     N     _BLOCH Robert                Le Secret du talent ş1957 Crime in Rhyme / Rhyme Never Pays
+o ELQM      133  1959.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Ellery Queen magazine nø 133 (F‚vrier 59) ş1959
+: .o .     N     _BLOCH Robert                La ScŠne finale ş1957 Sock Finish
+o ELQM      156  1961.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Ellery Queen magazine nø 156 (Janvier 61) ş1961
+: .o .     N     _BLOCH Robert                Mort d'une star ş1958 Betsy Blake Will Live Forever / Is Betsey Blake Still Alive?
+o ELQM      161  1961.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Ellery Queen magazine nø 161 (Juin 61) ş1961
+: .o .     N     _BLOCH Robert                Le Bracelet vivant ş1959 The Living Bracelet
+o ELQM      236  1967.09 ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Ellery Queen magazine nø 161 (Juin 61) ş1961
+: .oF.     N     _HENNEBERG Nathalie          La Messe de sang ş1967
+
+!-----------------------------------------------------------------------------
+!--- Magazine du mystŠre - 12 num‚ros
+!--- prends la suite de Mag Ellery Queen ou MystŠre mag ?
+!--- nø 8 Ao–t 77 (1ere ann‚e)
+!-----------------------------------------------------------------------------
+o MAGMYST     3  1977.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Le Magazine du mystŠre nø 3 (Mars 1977) ş1977
+: .oF.     N     _PLANQUE Jean-Pierre         Le Secret ş1975
+o MAGMYST     8  1977.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Le Magazine du mystŠre nø 8 (Ao–t 1977) ş1977
+: .o .     N     _SEABURY Don A.              Faux et usage de faux ş1977
+: .o .     N     _WALTHER Daniel              La Fenˆtre obscure ş1977
+o MAGMYST    10  1977.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Le Magazine du mystŠre nø 10 ş1977
+: .oPF     N     _CHESBRO George              Le Gu‚risseur [Mongo] ş1974 The Healer
+o MAGMYST    11  1979.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Le Magazine du mystŠre nø 11 ş1979
+: .o .     N     _SEABURY Don A.              Viol de nuit ş1979
+
+!-----------------------------------------------------------------------------
+!--- Revue Espionnage
+!-----------------------------------------------------------------------------
+o ESPIONN     3  1970.10 ..... ISBN -
+} noimg          _?                           ?
+- .pP.     Mx    ****                         Espionnage nø 3 (septembre 1970) ş1970
+: .o .     N     _BARBET Pierre               Stup‚fiante planŠte ş1970
+
+!-----------------------------------------------------------------------------
+_ OPTA_LP Ed. Opta, Coll. Club du livre policier - Les Classiques du roman policier
+!-----------------------------------------------------------------------------
+o OPTA_LP    47  1968.xx ..... ISBN -
+} noimg          _?                           ?
+- .oF.     R2    _ROHMER Sax                  Le Docteur Fu Manchu [Fu Manchu - 1/2] ş1968 şTrad. THIES Henri
+: .oF.     R     _ROHMER Sax                  Le Docteur Fu Manchu [Fu Manchu - 1] ş1913 The Mystery of Dr. Fu Manchu / The Insidious Dr Fu Manchu şTrad. THIES Henri
+: .oF.     R     _ROHMER Sax                  Le Diabolique Fu Manchu [Fu Manchu - 2] ş1916 The Devil Doctor / The Return of Dr Fu Manchu şTrad. THIES Henri
+
+!-----------------------------------------------------------------------------
+_ HITC    Alfred Hitchcock magazine
+!-----------------------------------------------------------------------------
+!--- Alfred Hitchcock magazine
+!-----------------------------------------------------------------------------
+o HITC        1  1961.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Alfred Hitchcock magazine nø 1 ş1961
+: .o .     N     _MOORE Catherine L.          Ci-gŒt... ş1956 Here Lies...
+o HITC        4  1961.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Alfred Hitchcock magazine nø 4 (Aout 1961) ş1961
+: .o .     N     _MATHESON Richard            Les Enfants de No‚ ş1957 The Children of Noah
+o HITC        6  1961.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Alfred Hitchcock magazine nø 6 ş1961
+: .o .     N     _SHECKLEY Robert             Pousse caf‚ ş1959 Pousse Caf‚
+o HITC       50  1965.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Alfred Hitchcock magazine nø 50bis ş1965
+: .o .     N     _BLOCH Robert                L'Homme aux doigts d'or ş1958 A Killing in the Market
+o HITC       66  19...xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Alfred Hitchcock magazine nø 66 ş?
+: .o .     N     _SWANSON Logan               Du travail bien fait ş1957 I'll make it look good / A visit to Santa Claus şTrad. MILLOT-JACQUIN Simone
+o HITC       95  1969.10 ..... ISBN -
+} noimg          _?                           ?
+!--- Le pass‚ est mort : Al NUSSBAUM
+!--- La machine … folie : Leo R. ELLIS
+!--- Celui qui hantait les esprits: James H. SCHMITZ
+!--- Clara et Neva : Fletcher FLORA
+!--- Ruse et contre ruse: Carroll MAYERS
+- .o .     M5    ****                         Alfred Hitchcock magazine nø 95 ş1969
+o HITC      124  1971.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Alfred Hitchcock magazine nø 124 ş1971
+: .o .     N     _BLOCH Robert                Tout est dans le jeu ş1971 The Play's the Thing
+o HITC      142  1973.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Alfred Hitchcock magazine nø 142 (mars 1973) ş1973
+: .oPF     N     _CHESBRO George              Corde raide [Mongo] ş1972 High Wire
+o HITC      154  1974.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Alfred Hitchcock magazine nø 154 (mars 1974) ş1974
+: .oPF     N     _CHESBRO George              Lavage de cerveau [Mongo] ş1973 Dark Hole on a Silent Planet
+o HITC      165  1975.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Alfred Hitchcock magazine nø 165 (f‚vrier 1975) ş1975
+: .oPF     N     _CHESBRO George              La Chute d'une ‚toile [Mongo] ş1974 Falling Star
+
+!-----------------------------------------------------------------------------
+_ HITM    Hitchcock magazine
+!-----------------------------------------------------------------------------
+!--- Hitchcock magazine
+!-----------------------------------------------------------------------------
+o HITM       10  1989.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Hitchcock magazine nø 10 ş1989
+: .oF.     N     _DARNAUDET Fran‡ois         &Le Jeu de la mort et du hasard ş1989
+&                _DAUREL Thierry              
+o HITM       21  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Hitchcock magazine nø 21 ş1990
+: .x .     N     _DARNAUDET Fran‡ois         &Plus prŠs du toit, mon vieux ş1990
+&                _DAUREL Thierry              
+

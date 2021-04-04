@@ -1,0 +1,109 @@
+!DEB_HEAD GARA_AF
+!TIT_COLL Aventures fantastiques
+!-----------------------------------------------------------------------------
+_ GARA_AF GaranciŠres, Aventures Fantastiques þ1985-1987
+!-----------------------------------------------------------------------------
+!--- De 1985 … 1987, 16 volumes ont ‚t‚ publi‚s dans cette collection dirig‚e
+!--. par Richard D. Nolane. M‚lange de classique et de titres plus r‚cents,
+!--. la collection est ‚clectique, abordant la fantasy, le fantastique,
+!--. l'exotisme (on y traverse de nombreux pays) et les civilisations perdues. 	
+!--- La collection, qui d‚bute par une saga
+!--. danoise (Hrolf Kraki), a ‚t‚ imprim‚e au Danemark.
+!--- Toutes les couvertures sont de l'illustrateur et dessinateur fran‡ais
+!--. Beb-Deum. La tranche et le dos sont jaunes, hormis le bandeau rouge qui
+!--. fait le tour du livre.
+!--- Format : 12 x 20 cm
+!-----------------------------------------------------------------------------
+!FIN_HEAD GARA_AF
+!DEB_COLL GARA_AF
+o GARA_AF     1i 1985.xx R.... ISBN 2-7340-0110-1
+} gar01          _?                           N
+- .oY.     R     _ANDERSON Poul               Hrolf Kraki (Vol. 1) þ1973 Hrolf Kraki's Saga þTrad. DURASTANTI Pierre-Paul
+o GARA_AF     2i 1985.xx R.... ISBN 2-7340-0111-X
+} gar02          _?                           N
+- .oY.     R     _ANDERSON Poul               Hrolf Kraki (Vol. 2) þ1973 Hrolf Kraki's Saga þTrad. DURASTANTI Pierre-Paul
+o GARA_AF     3i 1985.xx R.... ISBN 2-7340-0112-8
+} gar03          _?                           N
+- .oFA     R     _HAGGARD H. Rider            Le Dieu jaune þ1908 The Yellow God þTrad. BLOND Martine
+o GARA_AF     4i 1985.xx R.... ISBN 2-7340-0113-6
+} gar04          _?                           N
+- .oY.     R     _HARRISON M. John            La Cit‚ pastel [Viriconium - 1] þ1971 The Pastel City þTrad. PUGI J.-P.
+o GARA_AF     5  1986.01 R.... ISBN 2-7340-0114-4
+} gar05          _?                           N
+- .oFA     R     _WILLIAMSON Jack             Sang dor‚ þ1964 Golden Blood þTrad. BLOND Martine
+o GARA_AF     6  1986.01 R.... ISBN 2-7340-0115-2
+} gar06          _?                           N
+- .oY.     R     _HARRISON M. John            Le Signe des Locustes [Viriconium - 2] þ1980 A Storm of Wings þTrad. PUGI J.-P.
+o GARA_AF     7  1986.xx ..... ISBN 2-7340-0132-2
+} gar07          _?                           N
+- .o .     R     _SHERRELL Carl               Raum þ1977 Raum
+o GARA_AF     8  1986.03 R.... ISBN 2-7340-0123-3
+} gar08          _?                           N
+- .oY.     R     _HARRISON M. John            Les Dieux incertains [Viriconium - 3] þ1982 The Floating Gods þTrad. PUGI Jean-Pierre
+o GARA_AF     9  1986.xx ..... ISBN 2-7340-0136-5
+} gar09          _?                           N
+- .o .     R     _JACQ Christian              L'Empire du pape blanc þ1986
+!--- TBC : [Le Lama Dancing - 2] ?
+o GARA_AF    10  1986.03 R.... ISBN 2-7340-0135-7
+} gar10          _?                           N
+- .oSY     R     _ANDERSON Poul               Trois coeurs, trois lions þ1953-1961 Three Hearts and Three Lions þTrad. BREQUE Jean-Daniel
+o GARA_AF    11  1986.09 R.... ISBN 2-7340-0142-X
+} gar11          _?                           N
+- .oF.     R     _SHEFFIELD Charles           Erasmus Magister þ1982 Erasmus Magister þTrad. VALENCIA MichŠle
+o GARA_AF    12  1986.xx R.... ISBN 2-7340-0143-8
+} gar12          _?                           N
+!--- En fait 5 novellas - Fix Up des nouvelles suivantes, assez largement r‚‚crites
+!: .o .     N     _SAUNDERS Charles R.         ? þ? Turkhana Knives
+!: .o .     N     _SAUNDERS Charles R.         ? þ? The Place of Stones
+!: .o .     N     _SAUNDERS Charles R.         ? þ? Slaves of the Giant-Kings
+!: .o .     N     _SAUNDERS Charles R.         ? þ? Horror in the Black Hills
+!: .o .     N     _SAUNDERS Charles R.         ? þ? The City of Madness
+- .oY.     U     _SAUNDERS Charles R.         Imaro [Imaro - 1] þ1981 Imaro þTrad. PAGEL Michel
+o GARA_AF    13  1986.11 R.... ISBN 2-7340-0179-9
+} gar13          _?                           N
+- .oY.     R     _SAUNDERS Charles R.         La Route du Cush [Imaro - 2] þ1984 The Quest for Cush þTrad. PAGEL Michel
+o GARA_AF    14  1986.xx ..... ISBN 2-7340-0122-5
+} gar14          _?                           N
+- .o .     R     _BOOTHBY Guy                 Docteur Nikola þ1896 Dr Nikola þTrad. VALENCIA MichŠle
+o GARA_AF    15  1987.01 R.... ISBN 2-7340-0191-8
+} gar15          _?                           N
+- .oFA     R     _BOOTHBY Guy                 Le Retour du docteur Nikola þ1899 Dr Nikola's Experiment þTrad. VALENCIA MichŠle
+o GARA_AF    16  1987.01 R.... ISBN 2-7340-0186-1
+} gar16          _?                           N
+- .oY.     R     _SAUNDERS Charles R.         La Piste de Bohu [Imaro - 3] þ1985 The Trail of Bohu þTrad. PAGEL Michel
+!FIN_COLL GARA_AF
+
+!--- Igor et Grichka Bogdanoff pr‚sentent "Docteur Who"
+!--- 1 - 1987 - Docteur Who entr en scŠne [Docteur Who]
+!--- 4 - 1987 - Les Daleks envahissent la Terre [Docteur Who]
+!--- 5 - 1987 - Le cerveau de Morbius [Docteur Who]
+!--- 7 - 1987 - L'abominable homme des neiges [Docteur Who]
+
+!-----------------------------------------------------------------------------
+_ GARA_DW GaranciŠres, Docteur Who þ1987-1987
+!-----------------------------------------------------------------------------
+o GARA_DW     1  1987.02 ..... ISBN 2-7340-0201-9
+} noimg          _PENICHOUX Jean-Fran‡ois     ?
+- .oS.     F     _DICKS Terrance              Docteur Who entre en scŠne [Docteur Who] þ1981 Doctor Who and an Unearthly Child þTrad. BREQUE Jean-Daniel
+o GARA_DW     2  1987.02 ..... ISBN 2-7340-0202-7
+} noimg          _PENICHOUX Jean-Fran‡ois     ?
+- .oS.     F     _WHITAKER David              Les Crois‚s [Docteur Who] þ1966 Dr Who and the Crusaders þTrad. RUAUD Andr‚
+o GARA_DW     3  1987.05 ..... ISBN 2-7340-0204-3
+} noimg          _PENICHOUX Jean-Fran‡ois     ?
+- .oS.     F     _WHITAKER David              Les Daleks [Docteur Who] þ1964 Doctor Who in an Exciting Adventure With the Daleks / Doctor Who and the Daleks þTrad. BERGAL Gilles & DERBLUM Corine
+o GARA_DW     4  1987.05 ..... ISBN 2-7340-0203-5
+} noimg          _PENICHOUX Jean-Fran‡ois     ?
+- .oS.     F     _DICKS Terrance              Les Daleks envahissent la Terre [Docteur Who] þ1977 Doctor Who and the Dalek Invasion of Earth þTrad. WAGNER Roland C. & DERBLUM Corine
+o GARA_DW     5  1987.06 ..... ISBN 2-7340-0219-1
+} noimg          _PENICHOUX Jean-Fran‡ois     ?
+- .oS.     F     _DICKS Terrance              Le Cerveau de Morbius [Docteur Who] þ1977 Doctor Who and the Brain of Morbius þTrad. MONDOLINI Francine & DERBLUM Corine
+o GARA_DW     6  1987.06 ..... ISBN 2-7340-0218-3
+} noimg          _PENICHOUX Jean-Fran‡ois     ?
+- .oS.     F     _HINCHCLIFFE Philip          Le Masque de Mandragore [Docteur Who] þ1977 Doctor Who and the Masque of Mandragora þTrad. NOLANE Richard D. & DERBLUM Corine
+o GARA_DW     7  1987.08 ..... ISBN 2-7340-0226-4
+} noimg          _PENICHOUX Jean-Fran‡ois     ?
+- .oS.     F     _DICKS Terrance              L'Abominable Homme des neiges [Docteur Who] þ1974 Doctor Who and the Abominable Snowmen þTrad. DERBLUM Corine
+o GARA_DW     8  1987.08 ..... ISBN 2-7340-0227-2
+} noimg          _PENICHOUX Jean-Fran‡ois     ?
+- .oS.     F     _DICKS Terrance              M‚glos [Docteur Who] þ1983 Meglos þTrad. DERBLUM Corine
+

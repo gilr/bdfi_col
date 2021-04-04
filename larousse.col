@@ -1,0 +1,653 @@
+
+!-----------------------------------------------------------------------------
+_ LAROUSS Ed. Larousse
+_ LAR_LRJ Lib. Larousse, Les livres roses pour la jeunesse, Coll. Stead
+_ LARO_PC Ed. Larousse, Coll. Petits Classiques
+_ LARO_PJ Ed. Larousse, Coll. Petits Classiques Juniors
+_ LARO_CC Ed. Larousse, Coll. Classiques Contemporains
+_ LARO_CD Ed. Larousse, Coll. Les Contemporains, classiques de demain
+_ LAR_CRR Ed. Larousse, Coll. Contes et romans pour tous, S‚rie rouge
+_ LAR_CRB Ed. Larousse, Coll. Contes et romans pour tous, S‚rie beige
+_ LARO_IS Ed. Larousse, Coll. Id‚ologies et Soci‚t‚s
+_ LARO_TT Ed. Larousse, Coll. ThŠmes et textes
+_ LARO_TA Ed. Larousse, Coll. Textes pour aujourd'hui
+_ LARO_AH Ed. Larousse, L'Age heureux (revue)
+!-----------------------------------------------------------------------------
+!--- Editions Larousse
+!--- Coll. Id‚ologies et Soci‚t‚s, dirig‚e par R‚my Martel
+!--- Coll. ThŠmes et textes, dirig‚e par Jacques Demougin
+!-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+!--- LARO_AH Ed. Larousse, L'Age heureux (revue jeunesse)
+!-----------------------------------------------------------------------------
+_ LAROAH1 <b>in</b> Larousse, L'Age Heureux 4iŠme ann‚e, nø 1 (6/01/1927) … 8 (21/04/1927)
+_ LAROAH2 <b>in</b> Larousse, L'Age Heureux 4iŠme ann‚e, nø 13 (7/07/1927) … 23 (1/12/1927)
+!-----------------------------------------------------------------------------
+o LAROAH1     ?  1948.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _BERNAY Henri               &La Montagne du silence ş1927
+&                _PONS Ren‚                   
+o LAROAH2     ?  1948.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _BERNAY Henri               &On a vol‚ un transatlantique ş1927
+&                _PONS Ren‚                   
+!-----------------------------------------------------------------------------
+o LARO_AH     9  1925.02 ..... ISBN -
+} noimg          _?                           ?
+- .o .    iMx    ****                         L'ƒge heureux nø 9 ş1925
+: .o .     N     _PUJOL Ren‚                  La Fin de la souffrance ş1925
+o LARO_AH    13/ 1925.02 ..... ISBN -
+/            14
+} noimg          _?                           ?
+- .o .    iMx    ****                         L'ƒge heureux nø 9 ş1925
+: .o .     N     _PUJOL Ren‚                  Celui qui supprima le bruit ş1925
+
+
+!-----------------------------------------------------------------------------
+!--- LAR_LRJ Lib. Larousse, Les livres roses pour la jeunesse, Coll. Stead
+!-----------------------------------------------------------------------------
+o LAR_LRJ     3  1909.xx ..... ISBN -
+} lar_lrj003     _?                           ?
+!--- Adapt‚ du nø 11 de "Books for the Bairns" "Gulliver's Travels in Lilliput"
+- .o .     X     _SWIFT Jonathan              Voyage de Gulliver … Lilliput (Les Voyages de Gulliver) ş1726 Gulliver's Travels in Lilliput şAdapt. LATAPPY Mlle
+o LAR_LRJ     6  1909.xx ..... ISBN -
+} lar_lrj006     _?                           ?
+!--- Adapt‚ du nø 15 de "Books for the Bairns" "Gulliver among the giants"
+- .o .     X     _SWIFT Jonathan              Gulliver chez les g‚ants (Les Voyages de Gulliver) ş1726 Gulliver among the Giants şAdapt. LATAPPY Mlle
+?o LAR_LRJ    27  1920.xx ..... ISBN -
+?} larouss_lrj27  _?                           ?
+?!--- Traduction de The Wild Swans, nø 146 de la collection "Books for the Bairns"
+?!--- "D'aprŠs Hans Andersen", Adaptation de B. H. Gausseron - 26 gravures
+?!--- "Les Cygnes sauvages" seul en couverture
+?!--- Note: trŠs adapt‚ !  La lumiŠre bleue a ‚norm‚ment de diff‚rence avec Andersen. Voir plut“t du c“t‚ de Grimm ?!
+?- .pM.    _Nx    _ANDERSEN Hans Christian     Les Cygnes sauvages et autres contes de f‚es ş1873
+?: .o .     N     _ANDERSEN Hans Christian     Les Cygnes sauvages ş1838 De vilde Svaner
+?: .o .     N     _ANDERSEN Hans Christian     La LumiŠre bleue ş1835 Fyrt›iet
+?: .o .     N     _ANDERSEN Hans Christian     La Vieille Maison ş1847 Det gamle Huus
+?: .o .     N     _ANDERSEN Hans Christian     L'Anon ş? ?
+o LAR_LRJ   148  1915.xx ..... ISBN -
+!--- Adaptation par Mme. L. Veil, agr‚g‚e de l'universit‚, Professeur au collŠge S‚vign‚
+!--- 42 gravures
+!--- 48 pages
+!--- Nota: adapt‚ de "Childe Horn" and "Beowulf - Famous Tales of Long Ago" Arranged for school reading by Robert S. Wood
+!--- and illustrated by Brinsley le Fanu
+!--- Larousse, The School and Scholar Series, 1911
+!--- Les gravures / illustrations sont … priori reprises du livre anglais (l'illustration page 43 est celle de couverture anglais)
+} lar_lrj148     _?                           ?
+- .oN.    =N2    _VEIL L.                     Vieilles l‚gendes anglaises ş1915
+: .o .   5 N     _VEIL L.                     Childe Horn ş1915
+: .o .  28 N     _VEIL L.                     Histoire de Beowulf ş1915
+
+!-----------------------------------------------------------------------------
+!--- LAR_CRR Ed. Larousse, Coll. Contes et romans pour tous, S‚rie rouge
+!--- LAR_CRB Ed. Larousse, Coll. Contes et romans pour tous, S‚rie beige
+!-----------------------------------------------------------------------------
+o LAR_CRR     1  1927.12 ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _BERNAY Henri               &La Montagne du silence ş1927
+&                _PONS Ren‚                   
+o LAR_CRR     6  1928.04 ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _BERNAY Henri               &On a vol‚ un transatlantique ş1927
+&                _PONS Ren‚                   
+o LAR_CRR     8  1928.12 ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _BERNAY Henri               &Le Secret de la Sunbeam Valley ş1928
+&                _PONS Ren‚                   
+o LAR_CRR    12  1929.xx ..... ISBN -
+}larousse29noels _?                           N
+!--- TBC : ou 1931 ?
+- .o .    kr2    _DICKENS Charles             No‰ls fantastiques ş1929
+: .o .     r     _DICKENS Charles             Un chant de No‰l ş1843 A Christmas Carol şTrad. CHAFFURIN Louis
+: .x .     r     _DICKENS Charles             M Pickwick fˆte No‰l ş? ? şTrad. CHAFFURIN Louis
+o LAR_CRR     ?  1931.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _KERLECQ Jean de             Urfa - L'homme des profondeurs ş1931
+
+o LAR_CRB     2  1928.xx ..... ISBN -
+!--- s‚rie pour les grandes personnes (reliure beige et or)
+!--- copyright 1928, 12,0 x 18,3 , 252 pages, prix 6 frs
+} noimg          _?                           ?
+!--- Id. Le prisonnier de la planŠte Mars
+- .o .     R     _LE ROUGE Gustave            Le Naufrag‚ de l'espace [Robert Darvel - 1] ş1908
+o LAR_CRB     7  1928.xx ..... ISBN -
+} noimg          _?                           ?
+!--- Id. La guerre des vampires
+- .oS.     R     _LE ROUGE Gustave            L'Astre d'‚pouvante [Robert Darvel - 2] ş1909
+o LAR_CRB    10  1929.xx ..... ISBN -
+} noimg          _?                           ?
+- .oS.     R     _MASON A.E.W.                Les Guetteurs ş1899 The Watchers şTrad. LABAT Louis
+o LAR_CRB    12  1929.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _ALLORGE Henri               Le Grand Cataclysme, roman du centiŠme siŠcle ş1922
+o LAR_CRB     ?  1931.xx ..... ISBN -
+} noimg          _?                           ?
+- .oS.     N9    _WELLS Herbert George        Histoires merveilleuses ş1931
+!--- Pr‚face Henry D. Davray
+: .oS.     N     _WELLS Herbert George        Le Nouvel Acc‚l‚rateur ş1901 The New Accelerator şTrad. DAVRAY Henry D.
+: .o .     N     _WELLS Herbert George        L'toile ş1897 The Star şTrad. DAVRAY Henry D.
+: .o .     N     _WELLS Herbert George        Petite mŠre sur le Moerderberg ş1910 Little Mother Up the M”rderberg şTrad. DAVRAY Henry D.
+: .o .     N     _WELLS Herbert George        Les Cuirass‚s de terre ş1903 The Land Ironclads şTrad. DAVRAY Henry D.
+: .o .     N     _WELLS Herbert George        La Plaine des araign‚es ş1903 The Valley of Spiders şTrad. DAVRAY Henry D.
+: .o .     N     _WELLS Herbert George        A l'ƒge de pierre ş1897 Stories of the Stone Age şTrad. DAVRAY Henry D.
+: .o .     N     _WELLS Herbert George        Dans l'abŒme ş1896 In the Abyss şTrad. DAVRAY Henry D.
+: .o .     N     _WELLS Herbert George        Un ‚trange ph‚nomŠne ş1895 The Remarkable Case of Davidson's Eyes şTrad. DAVRAY Henry D.
+: .o .     N     _WELLS Herbert George        Une vision du jugement dernier ş1899 A Vision of Judgement şTrad. DAVRAY Henry D.
+
+
+o LAROUSS     ?  1932.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     N18   _POE Edgar Allan             Contes myst‚rieux et fantastiques - Tome 1 ş1932
+!--- Traduction de Baudelaire, notes de Georges Roth
+: .o .     N     _POE Edgar Allan             Le Manuscrit dans une bouteille ş1833 Manuscript Found in a Bottle
+: .o .     N     _POE Edgar Allan             Le Rendez-Vous ş1835 The Visionary / The Assignation
+: .o .     N     _POE Edgar Allan             B‚r‚nice ş1835 Berenice
+: .o .     N     _POE Edgar Allan             Morella ş1835 Morella
+: .o .     N     _POE Edgar Allan             Ombre ş1835 Shadow - A Parable
+: .o .     N     _POE Edgar Allan             Le Roi Peste ş1835 King Pest
+: .o .     N     _POE Edgar Allan             Metzengerstein ş1832-1936 Metzengerstein
+: .o .     N     _POE Edgar Allan             Ligeia ş1838 Ligeia
+: .o .     N     _POE Edgar Allan             Silence ş1838 Silence - A Fable
+: .o .     N     _POE Edgar Allan             Le Diable dans le beffroi ş1839 The Devil in the Belfry
+: .o .     N     _POE Edgar Allan             La Chute de la maison Usher ş1839 The Fall of the House of Usher
+: .o .     N     _POE Edgar Allan             William Wilson ş1839 William Wilson
+: .o .     N     _POE Edgar Allan             Conversation d'Eiros avec Charmion ş1839 The Conversation of Eiros and Charmion
+: .o .     N     _POE Edgar Allan             L'Homme des foules ş1840 The Man of the Crowd
+: .o .     N     _POE Edgar Allan             Le Double Assassinat de la rue Morgue [Auguste Dupin] ş1841 The Murders in the Rue Morgue
+: .o .     N     _POE Edgar Allan             Une descente dans le maelstr”m ş1841 A Descent Into the Maelstrom
+: .o .     N     _POE Edgar Allan             L'Œle de la f‚e ş1841 The Island of the Fay
+: .o .     N     _POE Edgar Allan             Colloque entre Monos et Una ş1841 The Colloquy of Monos and Una
+o LAROUSS     ?  1932.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     N18   _POE Edgar Allan             Contes myst‚rieux et fantastiques - Tome 2 ş1932
+!--- Traduction de Baudelaire, notes de Georges Roth
+: .o .     N     _POE Edgar Allan             Le Portrait ovale ş1842 The Oval Portrait
+: .o .     N     _POE Edgar Allan             El‚onora ş1842 Eleonora
+: .o .     N     _POE Edgar Allan             Le Masque de la morte rouge ş1842 The Masque of the Red Death
+: .o .     N     _POE Edgar Allan             Le Puits et le pendule ş1843 The Pit and the Pendulum
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur ş1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Scarab‚e d'or ş1843 The Gold-Bug
+: .o .     N     _POE Edgar Allan             R‚v‚lation magn‚tique ş1844 Mesmeric Revelation
+: .o .     N     _POE Edgar Allan             Le Chat noir ş1843 The Black Cat
+: .o .     N     _POE Edgar Allan             Les Souvenirs de M. Auguste Bedloe ş1844 A Tale of the Ragged Mountains
+: .o .     N     _POE Edgar Allan             L'Enterrement pr‚matur‚ ş1844 The Premature Burial
+: .o .     N     _POE Edgar Allan             Le SystŠme du docteur Goudron et du professeur Plume ş1845 The System of Dr. Tarr and Professor Fether
+: .o .     N     _POE Edgar Allan             La Lettre vol‚e ş1845 The Purloined Letter
+: .o .     N     _POE Edgar Allan             Le D‚mon de la perversit‚ ş1845 The Imp of the Perverse
+: .o .     N     _POE Edgar Allan             La V‚rit‚ sur le cas de M. Valdemar ş1845 The Facts in the Case of Mr. Valdemar
+: .o .     N     _POE Edgar Allan             La Barrique d'Amontillado ş1846 The Cask of Amontillado
+: .o .     a     _POE Edgar Allan             Le Domaine d'Arnheim ş1847 The Domain of Arnheim
+: .o .     a     _POE Edgar Allan             Le Cottage Landor ş1849 Landor's Cottage
+: .o .     N     _POE Edgar Allan             Hop-Frog ş1849 Hop-Frog
+o LAROUSS     ?  1993.xx ..... ISBN -
+} noimg          _?                           ?
+- .oF.     Ax    _GAUTIER Th‚ophile          &La Morte amoureuse - Contes et r‚cits fantastiques ş1993
+&                *VALETTE Bernard             
+: .o .     N     _GAUTIER Th‚ophile           La Morte amoureuse ş1836
+
+!-----------------------------------------------------------------------------
+! LARO_PC Ed. Larousse, Coll. Petits Classiques
+! LARO_CD Ed. Larousse, Coll. Les Contemporains, classiques de demain
+!-----------------------------------------------------------------------------
+o LARO_PC     4  1998.09 ..... ISBN 2-03-871650-1
+} noimg          _?                           ?
+!--- 127 pages
+!--- Pr‚sent‚, annot‚ et comment‚ par Than-Vƒn Ton-That
++ LARO_PC     4  2007.08 ..... ISBN 978-2-03-583414-0
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Than-Vƒn Ton-That
+- .oF.     N     _MERIMEE Prosper             La V‚nus d'Ille ş1837
+o LARO_PC    28  1999.05 ..... ISBN 2-03-871717-6
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Daphn‚ Deron
+!--- TBD ISBN 2-03-871717-x
++ LARO_PC    28  2007.08 ..... ISBN 978-2-03-583424-9
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Daphn‚ Deron
+!--- trad. adapt‚e … partir de la traduction de Andr‚ Esk‚nazi
++ LARO_PC    28  2016.xx ..... ISBN 978-2-03-583424-9
+} noimg          _?                           ?
+- .o .     R     _CHRETIEN de TROYES          Yvain ou le Chevalier au lion [Les Romans arthuriens - 4] şc1180
+o LARO_PC    34  1999.05 ..... ISBN 2-03-871725-7
+} larpc034       _?                           ?
+!--- Larousse - Bordas
+!--- Pr‚sent‚, annot‚ et comment‚ par Marie-Eve Th‚renty
++ LARO_PC    34  2008.08 ..... ISBN 978-2-03-583910-0
+} larpc034rr08   _?                           ?
++ LARO_PC    34  2016.xx ..... ISBN 978-2-03-583919-0
+} larpc034rr16   _?                           ?
+!--- TBD premiŠre ‚dition uniquement "Le Horla"
+- .oF.    iNx    _MAUPASSANT Guy de           Le Horla et autres contes fantastiques ş1999
+o LARO_PC    35  1999.05 ..... ISBN 2-03-871723-0
+} larpc035       _?                           ?
+!--- Larousse - Bordas
+!--- Pr‚sent‚, annot‚ et comment‚ par Jo‰l Planque
++ LARO_PC    35  2009.09 ..... ISBN 978-2-03-584445-3
+} larpc035rr09   _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Dominique Trouv‚
++ LARO_PC    35  2016.xx ..... ISBN 978-2-03-584445-3
+} larpc035rr16   _?                           ?
+- .oF.    iNx    _MAUPASSANT Guy de           La Peur et autres contes fantastiques ş1999
+: .o .     N     _MAUPASSANT Guy de           La Peur ş1882
+: .o .     N     _MAUPASSANT Guy de           Sur l'eau ş1876
+: .o .     N     _MAUPASSANT Guy de           La Main ş1883
+: .o .     N     _MAUPASSANT Guy de           Apparition ş1883
+: .o .     N     _MAUPASSANT Guy de           Lui ? ş1883
+: .o .     N     _MAUPASSANT Guy de           Qui sait ? ş1890
+o LARO_PC    40  1999.11 ..... ISBN 2-03-871716-8
+} noimg          _?                           ?
+!--- Traduit, pr‚sent‚, annot‚ et comment‚ par Fr‚d‚ric Le Blay
+- .o .     X     _OVIDE                       Les M‚tamorphoses ş?
+o LARO_PC    47  1999.09 ..... ISBN 2-03-588102-1
+} larpc047       _?                           ?
+- .oF.    iAx    _GAUTIER Th‚ophile          &La Morte amoureuse - Contes et r‚cits fantastiques ş1999
+&                *GEISLER-SZMULEWICZ A.       
+: .o .     N     _GAUTIER Th‚ophile           La Morte amoureuse ş1836
+: .o .     N     _GAUTIER Th‚ophile           La CafetiŠre ş1831
+: .o .     N     _GAUTIER Th‚ophile           Omphale ş1834
+: .oF.     N     _GAUTIER Th‚ophile           Le Chevalier double ş1840
+: .o .     N     _GAUTIER Th‚ophile           Arria Marcella ş1852
+o LARO_PC    47  2008.01 ..... ISBN 978-2-03-583910-7
+} larpc047rr08          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Marielle Mac‚
++ LARO_PC    47  2016.xx ..... ISBN 978-2-03-583910-7
+} larpc047rr16          _?                           ?
+- .oF.    iA5    _GAUTIER Th‚ophile          &La Morte amoureuse et autres contes fantastiques ş1999
+&                *GEISLER-SZMULEWICZ A.       
+: .o .     N     _GAUTIER Th‚ophile           La Morte amoureuse ş1836
+: .o .     N     _GAUTIER Th‚ophile           La CafetiŠre ş1831
+: .o .     N     _GAUTIER Th‚ophile           Omphale ş1834
+: .oF.     N     _GAUTIER Th‚ophile           Le Chevalier double ş1840
+: .o .     N     _GAUTIER Th‚ophile           Arria Marcella ş1852
+o LARO_PC    56  1999.11 ..... ISBN 2-03-588103-X
+} larpc056       _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Fr‚deric de Scitivaux
+- .oM.    iN8    _PERRAULT Charles            Histoires ou contes du temps pass‚ ş1999
+: .o .     N     _PERRAULT Charles            La Belle au bois dormant ş1696
+: .o .     N     _PERRAULT Charles            Le Petit Chaperon rouge ş1697
+: .o .     N     _PERRAULT Charles            La Barbe Bleue ş1697
+: .o .     N     _PERRAULT Charles            Le Chat bott‚ ş1697
+: .o .     N     _PERRAULT Charles            Les F‚es ş1697
+: .o .     N     _PERRAULT Charles            Cendrillon ş1697
+: .o .     N     _PERRAULT Charles            Riquet … la houppe ş1697
+: .o .     N     _PERRAULT Charles            Le Petit Poucet ş1697
+o LARO_PC    56  2009.02 ..... ISBN 978-2-03-584630-3
+} larpc056rr09   _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Fr‚deric de Scitivaux
++ LARO_PC    56  2016.xx ..... ISBN 978-2-03-584630-3
+} larpc056rr16   _?                           ?
+- .oM.    iN8    _PERRAULT Charles            Contes ((Contes de Perrault)) ş1999
+: .o .     N     _PERRAULT Charles            La Belle au bois dormant ş1696
+: .o .     N     _PERRAULT Charles            Le Petit Chaperon rouge ş1697
+: .o .     N     _PERRAULT Charles            La Barbe Bleue ş1697
+: .o .     N     _PERRAULT Charles            Le Chat bott‚ ş1697
+: .o .     N     _PERRAULT Charles            Les F‚es ş1697
+: .o .     N     _PERRAULT Charles            Cendrillon ş1697
+: .o .     N     _PERRAULT Charles            Riquet … la houppe ş1697
+: .o .     N     _PERRAULT Charles            Le Petit Poucet ş1697
+o LARO_PC    57  1999.09 ..... ISBN 2-03-588106-4
+} larpc057       _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Marie Cartier et Val‚rie Duguet
++ LARO_PC    57  2011.02 ..... ISBN 978-2-03-585082-9
+} larpc057rr11   _Alain Boyer                 ?
+- .o .     N2    _POE Edgar Allan             Double Assassinat dans la rue Morgue [Auguste Dupin] ş1999
+: .o .     N     _POE Edgar Allan             Double Assassinat dans la rue Morgue [Auguste Dupin] ş1841 The Murders in the Rue Morgue şTrad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             La Lettre vol‚e [Auguste Dupin] ş1845 The Purloined Letter şTrad. BAUDELAIRE Charles
+o LARO_PC    61  2000.08 ..... ISBN 2-03-588115-3
+} larpc061       _?                           ?
++ LARO_PC    61  2008.11 ..... ISBN 978-2-03-584277-0
+} larpc061rr08   _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Christian Michel
+- .pF.     A3    _FLAUBERT Gustave            Trois contes ş1877
+: .! .     N     _FLAUBERT Gustave            Un coeur simple ş1877
+: .o .     N     _FLAUBERT Gustave            La L‚gende de Saint Julien l'Hospitalier ş1877
+: .! .     N     _FLAUBERT Gustave            H‚rodias ş1877
+o LARO_PC    62  2000.08 ..... ISBN 2-03-588111-0
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Christophe Carlier
++ LARO_PC    62  2009.06 ..... ISBN 978-2-03-584643-3
+} noimg          _?                           ?
++ LARO_PC    62  2015.04 ..... ISBN 978-2-03-591365-4
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Christophe Carlier
+!--- Trad. Fr‚d‚ric Mugler
+- .o .     X     _HOMERE                      L'Odyss‚e ş?
+o LARO_PC    66  2000.08 ..... ISBN 2-03-588118-8
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Emmanuelle SempŠre
++ LARO_PC    66  2009.11 ..... ISBN 978-2-03-584649-5
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Emmanuelle SemprŠe
+- .xA.     R     _VERNE Jules                 Le Tour du monde en 80 jours ş1873
+o LARO_PC    76  2000.xx ..... ISBN 2-03-588124-2
+} noimg          _?                           ?
++ LARO_PC    76  2007.08 ..... ISBN 978-2-03-583427-0
+} noimg          _?                           ?
++ LARO_PC    76  2017.xx ..... ISBN 978-2-03-583427-0
+} noimg          _?                           ?
+- .o .     r     _VOLTAIRE                    Microm‚gas ş1752
+o LARO_PC   108  2004.xx ..... ISBN 2-03-588244-3
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Marie-H‚lŠne Robinot-Bichet
+- .o .     R     _SAND George                 La Mare au diable ş1946
+o LARO_PC   109  2004.05 ..... ISBN 2-03-588143-9
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par MichŠle Gally
+!--- Trad. MichŠle Gally
++ LARO_PC   109  2009.02 ..... ISBN 978-2-03-584631-0
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par MichŠle Gally
+!--- Trad. MichŠle Gally
++ LARO_PC   109  2016.xx ..... ISBN 978-2-03-584631-0
+} noimg          _?                           ?
+- .o .     R     _CHRETIEN de TROYES          Perceval ou le conte du Graal [Les Romans arthuriens - 5] şc1185
+o LARO_PC   113  2004.08 ..... ISBN 2-03-588236-2
+} larpc113       _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Houda Ayoub
++ LARO_PC   113  2007.08 ..... ISBN 978-2-03-583428-7
+} larpc113rr07   _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Florence Chapiro
+- .oN.     Ax    _--- (anonyme)               Sindbad le marin et autres contes des Mille et Une Nuits [Les Mille et Une Nuits] ş2004
+: .o .     N     _--- (anonyme)               Sindbad le marin [Les Mille et Une Nuits] ş?
+: .o .     N     _--- (anonyme)               Histoire du pˆcheur [Les Mille et Une Nuits] ş?
+: .o .     N     _--- (anonyme)               Histoire du roi grec et du m‚decin Douban [Les Mille et Une Nuits] ş?
+: .o .     N     _--- (anonyme)               Histoire du mari et du perroquet [Les Mille et Une Nuits] ş?
+: .o .     N     _--- (anonyme)               Histoire du vizir puni [Les Mille et Une Nuits] ş?
+o LARO_PC   121  2005.02 ..... ISBN 2-03-588251-6
+} larpc121       _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Than-Vƒn Ton-That
++ LARO_PC   121  2013.02 ..... ISBN 978-2-03-587405-4
+} larpc121rr13    _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Than-Vƒn Ton-That
+- .oSN    kN2    _VERNE Jules                 MaŒtre Zacharius, suivi de Aventures de la famille Raton ş2005
+: .o .     N     _VERNE Jules                 MaŒtre Zacharius ş1854
+: .o .     N     _VERNE Jules                 Aventures de la famille Raton ş1891
+o LARO_PC   123  2005.09 ..... ISBN 2-03-588250-8
+} larpc123       _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Anne-Sylvie Schwartz
++ LARO_PC   123  2012.02 ..... ISBN 978-2-03-586810-7
+} larpc123rr12   _Alain Boyer                 ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Anne-Sylvie Schwartz
+!--- 287 pages
+- .o .    iN15   _ANDERSEN Hans Christian     La Petite SirŠne et autres contes ş2005
+: .o .     N     _ANDERSEN Hans Christian     La Petite SirŠne ş1837 Den lille Havfrue şTrad. ?
+o LARO_PC   126  2005.11 ..... ISBN 2-03-588262-1
+} noimg          _?                           ?
++ LARO_PC   126  2010.01 ..... ISBN 978-2-03-584639-6
+} noimg          _?                           ?
+!--- 143 pages
+!--- Traduit, pr‚sent‚, annot‚ et comment‚ par Fr‚d‚ric Le Blay
++ LARO_PC   126  2016.09 ..... ISBN 978-2-03-591926-7
+} noimg          _?                           ?
+!--- TBC ou şTrad. Fr‚d‚ric Le Blay & D‚sir‚ Nisard
+- .o .     X     _OVIDE                       Les M‚tamorphoses ş?
+o LARO_CC   140  2008.04 ..... ISBN 978-2-03-584268-8
+} larpc143       _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Evelyne Amon
++ LARO_CD   140  2011.01 ..... ISBN 978-2-03-586159-7
+} larpc140rr11   _Alain Boyer                 ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Evelyne Amon
+- .oN.    iNx    _VERCORS                     Contes des cataplasmes ş1971
+o LARO_CC   143  2009.04 ..... ISBN 978-2-03-583471-8
+} larpc143       _?                           ?
++ LARO_CC   143  2016.xx ..... ISBN 978-2-03-584271-8
+} larpc143rr16   _?                           ?
+- .oKF    iN3    _BUZZATI Dino                Le Chien qui a vu Dieu et autres nouvelles ş2009
+!--- Pr‚sent‚, annot‚ et comment‚ par Yves Bomati
+!--- Trad. BREITMAN Michel
+!--- TBD : trad d'un recueil "Il crollo della baliverna" ?
+: .o .     N     _BUZZATI Dino                Le Chien qui a vu Dieu ş1954 Il cane che ha visto dio
+o LARO_PC   146  2009.08 ..... ISBN 978-2-03-584453-8
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Evelyne Amon
+!--- Trad. VINCENSINI Jean-Jacques
+- .o .     R     _CHRETIEN de TROYES          Lancelot ou le Chevalier de la charrette [Les Romans arthuriens - 3] şc1180
+o LARO_PC   149  2010.01 ..... ISBN 978-2-03-584636-5
+} larpc149       _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Evelyne Amon
+- .o .    iNx    _GRIMM Jacob & Wilhelm       Contes ((Contes de Grimm)) ş2010
+o LARO_PC   150  2010.xx ..... ISBN 978-2-03-584637-2
+} noimg          _?                           ?
++ LARO_PC   150  2014.09 ..... ISBN 978-2-03-591358-6
+} noimg          _?                           ?
+- .o .     X     _HOMERE                      L'Iliade (extraits) ş?
+o LARO_CD   155  2010.08 ..... ISBN 978-2-03-584644-0
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Alain Mig‚
+- .o .     Ax    ****                         Textes et mythes fondateurs ş2010
+o LARO_CD   157  2010.10 ..... ISBN 978-2-03-585077-5
+} larpc157       _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Alexis liguaire
+- .oS.    iNx    _BRADBURY Ray                Un coup de tonnerre et autres nouvelles ş1973
+?: .oS.     N     _BRADBURY Ray                Un coup de tonnerre ş1952 A Sound of Thunder şTrad. GALERON Henri & POLITZER Michel
+?: .oS.     N     _BRADBURY Ray                Ils avaient la peau brune et les yeux dor‚s ş1949 Dark They Were, and Golden-eyed şTrad. GALERON Henri & POLITZER Michel
+?: .oS.     N     _BRADBURY Ray                Le Cadeau ş1959 The Gift şTrad. GALERON Henri & POLITZER Michel
+?: .oS.     N     _BRADBURY Ray                Vacances ş1963 The Vacation şTrad. GALERON Henri & POLITZER Michel
+?: .oS.     N     _BRADBURY Ray                Jeune amis, faites pousser des champignons dans votre cave ş1962 Boys! Raise Giant Mushrooms in Your Cellar! şTrad. GALERON Henri & POLITZER Michel
+?: .oS.     N     _BRADBURY Ray                La SirŠne ş1951 The Fog Horn / The Beast from 20,000 Fathoms şTrad. GALERON Henri & POLITZER Michel
+?: .oS.     N     _BRADBURY Ray                L'Enfant invisible ş1953 Invisible Boy şTrad. GALERON Henri & POLITZER Michel
+?: .oS.     N     _BRADBURY Ray                La Grande Partie entre noirs et blancs ş1945 The Big Black and White Game şTrad. GALERON Henri & POLITZER Michel
+?: .oS.     N     _BRADBURY Ray                L'Homme ş1949 The Man şTrad. GALERON Henri & POLITZER Michel
+?: .oS.     N     _BRADBURY Ray                La Fus‚e ş1950 The Rocket / Outcast of the Stars şTrad. GALERON Henri & POLITZER Michel
+o LARO_CD   160  2011.08 ..... ISBN 978-2-03-586162-7
+} larpc160       _Alain Boyer                 ?
+- .oN.    iN17   _HELIAS Pierre Jakez         La Mort du bon voleur et autres contes bretons ş2011
+o LARO_PC   162  2011.04 ..... ISBN 978-2-03-585086-7
+} noimg          _Alain Boyer                 ?
+- .oF.     R     _LEROUX Gaston               Le Fauteuil hant‚ ş1910
+o LARO_PC   165  2011.04 ..... ISBN 978-2-03-585570-1
+} larpc165       _Alain Boyer                 ?
+!--- 143 pages
+!--- Pr‚sent‚, annot‚ et comment‚ par Evelyne Amon
++ LARO_PC   165  2016.xx ..... ISBN 978-2-03-585570-1
+} larpc165rr16   _Alain Boyer                 ?
+- .oN.    iN4    _LEPRINCE DE BEAUMONT J.-M.  La Belle et la Bˆte et autres contes ş2011
+: .o .     N     _LEPRINCE DE BEAUMONT J.-M.  La Belle et la Bˆte ş1757
+: .o .     N     _LEPRINCE DE BEAUMONT J.-M.  Le Prince Ch‚ri ş1757
+: .o .     N     _LEPRINCE DE BEAUMONT J.-M.  Le Mouton ş1757
+: .o .     N     _LEPRINCE DE BEAUMONT J.-M.  La Belle aux cheveux d'or ş1757
+?o LARO_CD   167  2011.02 ..... ISBN 978-2-03-585079-9
+?} noimg          _?                           ?
+?!--- Pr‚sent‚, annot‚ et comment‚ par C‚cile Pellissier
+?- .? .     Ax    _DHOTEL Andr‚                Le Robinson de la riviŠre et autres contes ş2011
+o LARO_PC   168  2011.02 ..... ISBN 978-2-03-585912-9
+} larpc168       _Alain Boyer                 ?
+!--- 125 pages
+!--- Pr‚sent‚, annot‚ et comment‚ par David Braun
+- .oF.    kN2    _WILDE Oscar                 Le Fant“me de Canterville - Le ModŠle millionnaire ((Le Fant“me des Canterville)) ş2011
+: .o .     N     _WILDE Oscar                 Le Fant“me de Canterville ş1887 The Canterville Ghost şAdapt. Marie-H‚lŠne Christensen
+: .! .     N     _WILDE Oscar                 Le ModŠle millionaire ş1891 The Model Millionaire şAdapt. Marie-H‚lŠne Christensen
+o LARO_CD   169  2011.04 ..... ISBN 978-2-03-585909-9
+} larpc169       _Alain Boyer                 ?
+!--- Pr‚sent‚, annot‚ et comment‚ par David Braun
+- .pF.     A9    _BUZZATI Dino                Douce nuit et autres nouvelles cruelles ş2011
+: .? .     N     _BUZZATI Dino                Douce nuit ş? ?
+: .o .     N     _BUZZATI Dino                L'Oeuf ş1966 L'uovo
+: .o .     N     _BUZZATI Dino                Le Petit Ballon ş1966 Il palloncino
+: .? .     N     _BUZZATI Dino                La Chute du saint ş? Il Crollo del santo
+: .o .     N     _BUZZATI Dino                L'croulement de la Baliverna ş? Il crollo della Baliverna
+: .o .     N     _BUZZATI Dino                Le FrŠre transform‚ ş? ?
+: .o .     N     _BUZZATI Dino                Le Croquemitaine ş? ?
+: .? .     N     _BUZZATI Dino                L'cueil ş? ?
+: .? .     N     _BUZZATI Dino                Inventions ş? ?
+o LARO_CD   170  2011.02 ..... ISBN 978-2-03-585910-5
+} noimg          _?                           ?
+!--- 137 pages
+!--- Pr‚sent‚, annot‚ et comment‚ par C‚cile Pellissier
+- .oN.     N     _CLAVEL Bernard              La Carcajou ş?
+o LARO_PC   173  2011.08 ..... ISBN 978-2-03-585920-4
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Evelyne Amon
+- .o .     R     _BALZAC Honor‚ de            La Peau de chagrin ş1831
+o LARO_PC   177  2012.04 ..... ISBN 978-2-03-586808-4
+} noimg          _Alain Boyer                 ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Marion Baudriller
+- .oF.     R     _CARROLL Lewis               Alice au pays des merveilles [Alice - 1] ş1865 Alice's Adventures in Wonderland / Alice in Wonderland
+o LARO_PC   178  2012.02 ..... ISBN 978-2-03-586806-0
+} noimg          _Alain Boyer                 ?
+!--- Adapt‚, pr‚sent‚ et comment‚ par Alain Mig‚
+- .oY.     R     _--- (anonyme)               Gilgamesh ş?
+o LARO_PC   184  2012.08 ..... ISBN 978-2-03-587386-6
+} noimg          _Alain Boyer                 ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Evelyne Amon
+- .oF.     X     _STOKER Bram                 Dracula (Extraits) ş1897 Dracula şTrad. FINNE Jacques
+o LARO_CD   188  2012.08 ..... ISBN 978-2-03-586607-3
+} noimg          _?                           ?
+?!--- Pr‚sent‚, annot‚ et comment‚ par C‚cile Pellissier
+- .oN.    iN7    _BA Amadou Hampƒt‚           La Querelle des deux l‚zards et autres contes africains ş2012
+: .o .     N     _BA Amadou Hampƒt‚           Naissance de Njeddo Dewal ş? ?
+o LARO_CD   203  2013.08 ..... ISBN 978-2-03-587385-9
+} noimg          _?                           ?
+!--- 109 pages
+!--- Pr‚sent‚, annot‚ et comment‚ par Karine Juillien
+- .oF.     N     _CONDE Maryse                La Belle et la Bˆte - Une version guadeloup‚enne ş2014
+o LARO_CD   205  2013.10 ..... ISBN 978-2-03-587383-5
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Jean-Claude Lequeux
+- .oA.     R     _VERNES Henri                Le Dernier Massa‹ [Bob Morane - 183] ş2001
+o LARO_CD   223  2014.08 ..... ISBN 978-2-03-587411-5
+} noimg          _?                           ?
+!--- 120 pages, 18 cm
+!--- Pr‚sent‚, annot‚ et comment‚ par Carine Perreur
+!--- Traduit par Marie-Pierre Bay et Nicolas Castelnau-Bay
+- .oM.     N7    _SINGER Isaac Bashevis       Zlateh la chŠvre et autres contes ş1966 Zlateh the Goat and Other Stories şTrad. ?
+: .oM.     N     _SINGER Isaac Bashevis       Une histoire de paradis ş? Fool's Paradise
+: .oM.     N     _SINGER Isaac Bashevis       L'Histoire de grand-mŠre ş? Grandmother's Tale
+: .oM.     N     _SINGER Isaac Bashevis       La Neige de Chelm ş? The Snow in Chelm
+: .oM.     N     _SINGER Isaac Bashevis       Les Pieds emmˆl‚s et le pr‚tendant niais ş? The Mixed-up Feet and the Silly Bridegroom
+: .oM.     N     _SINGER Isaac Bashevis       Le Premier Schlemiel ş? The First Shlemiel
+: .oM.     N     _SINGER Isaac Bashevis       La Ruse du d‚mon ş1966 The Devil's Trick
+: .oM.     N     _SINGER Isaac Bashevis       Zlateh la chŠvre ş? Zlateh the Goat
+o LARO_PC   226  2015.01 ..... ISBN 978-2-03-591249-7
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Anne-Laure Romeur
+- .oF.     X     _SHELLEY Mary                Frankenstein (Extraits) ş1818 Frankenstein or the Modern Prometheus şTrad. BOURDAROT Emilie
+o LARO_PC   231  2015.03 ..... ISBN 978-2-03-587990-5
+} larpc231       _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Fr‚d‚ric de Scitivaux et Evelyne Amon
+- .oN.    iN4    _PERRAULT Charles           &Quatre contes de princesses ş2015
+&                _GRIMM Jacob & Wilhelm       
+: .o .     N     _PERRAULT Charles            La Belle au bois dormant ş1696
+: .o .     N     _PERRAULT Charles            Cendrillon ou la petite pantoufle de vair ş1697
+: .o .     N     _GRIMM Jacob & Wilhelm       Blanche-Neige et les sept nains ş1812 Schneewittchen şTrad. GEORGES Anne
+: .o .     N     _GRIMM Jacob & Wilhelm       Raiponce ş1812 Rapunzel
+o LARO_PC   232  2015.04 ..... ISBN 978-2-03-590960-2
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Am‚lie Bonnin
+- .oF.     T     _GIRAUDOUX Jean              Ondine ş1931
+o LARO_CD   242  2015.09 ..... ISBN 978-2-03-591348-7
+} larou_class242 _?                           ?
+!--- 91 pages, 18x12,5
+!--- Pr‚sent‚, annot‚ et comment‚ par Carine Perreur
+- .oS.     N3    _BARJAVEL Ren‚               L'homme fort et autres nouvelles fantastiques ş2015
+: .o .     N     _BARJAVEL Ren‚               Monsieur Charton ş1946
+: .o .     N     _BARJAVEL Ren‚               L'Homme fort ş1962
+: .o .     N     _BARJAVEL Ren‚               B‚ni soit l'atome ş1945
+o LARO_PC   246  2016.02 ..... ISBN 978-2-03-591923-6
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Sophie B‚n‚vent
+- .oS.     X     _VERNE Jules                 Vingt mille lieues sous les mers (Extraits) ş1870
+o LARO_PC   253  2016.09 ..... ISBN 978-2-03-591944-1
+} noimg          _?                           ?
+- .oZ.     X     _ROSNY AINE J.-H.            La Guerre du feu (Extraits) ş1911
+o LARO_PC   256  2017.02 ..... ISBN 978-2-03-591946-5
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Catherine Mory
+!--- 144 pages
+- .oS.     X     _WELLS Herbert George        La Machine … explorer le temps (Extraits) ş1895 The Time Machine şTrad. DAVRAY Henry D.
+o LARO_CD   257  2017.02 ..... ISBN 978-2-03-591500-9
+} noimg          _?                           ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Catherine Mory
+- .oM.     R     _DRUON Maurice               Tistou les pouces verts ş1957
+o LARO_PC   259  2017.04 ..... ISBN 978-2-03-593809-1
+} larpc259       _Alain Boyer                 ?
+!--- Pr‚sent‚, annot‚ et comment‚ par Catherine Mory
+!--- 25 textes de l'antiquit‚ … nos jours
+!--- 159 pages
+- .o .    iA25   *MORY Catherine              Monstrueusement humain - Petit bestiaire des monstres les plus c‚lŠbres de la litt‚rature ş2017
+o LARO_CD   271  2018.06 ..... ISBN 978-2-03-591934-2
+} noimg          _?                           ?
+- .oS.     R     _PELOT Pierre                Le Pays des riviŠres sans nom ş1973
+
+
+!-----------------------------------------------------------------------------
+! LARO_PJ Ed. Larousse, Coll. Petits Classiques Junior
+!-----------------------------------------------------------------------------
+o LARO_PJ     ?  2017.xx ..... ISBN 978-2-03-593786-5
+} noimg          _?                           ?
+- .oF.     R     _MIRAUCOURT Christophe       Moi, Arthur, roi l‚gendaire ş2017
+o LARO_PJ     ?  2017.09 ..... ISBN 978-2-03-594695-9
+} larpcj2017_1   _?                           ?
+- .oNF     N4    _KIPLING Rudyard             Histoires comme ‡a ş1902 Just So Stories şTrad. Robert D'HumiŠres & Louis Fabulet
+!--- Traduction Robert D'HumiŠres et Louis Fabulet
+!--- pr‚sentation et fiches p‚dagogiques par Catherine Mory
+: .o .     N     _KIPLING Rudyard             Comment le chameau eut sa bosse ş1898 How the Camel Got His Hump
+: .o .     N     _--- (anonyme)               Pourquoi le corbeau est noir ş?
+: .o .     N     _KIPLING Rudyard             Comment le l‚opard eut des taches ş1901 How the Leopard Got His Spots
+: .o .     N     _KIPLING Rudyard             Comment advint le commencement des tatous ş1900 The Beginning of the Armadillos
+o LARO_PJ     ?  2018.02 ..... ISBN 978-2-03-594697-3
+} noimg          _Michael Foreman             ?
+- .oF.     R     _MORPURGO Michael            Beowulf ş2007 Beowulf şTrad. ROJINSKY SADOT Mathilde
+o LARO_PJ     ?  2018.02 ..... ISBN 978-2-03-594696-6
+} noimg          _Michael Foreman             ?
+- .oF.     R     _MORPURGO Michael            Sire Gauvain et le chevalier vert ş2004 Sir Gawain and the Green Knight şTrad. ROJINSKY SADOT Mathilde
+o LARO_PJ     ?  2019.02 ..... ISBN 978-2-03-596769-5
+} larpclj2019_1  _?                           ?
+!--- 95 pages
+- .oM.    kA4    *MORY Catherine              Histoires de dragons ş2019
+: .o .  10 X     _OVIDE                       Pers‚e et le dragon marin (extrait de : Les M‚tamorphoses) ş?
+: .o .  14 X     _BEDIER Joseph               Tristan et le dragon irlandais (extrait de : Le Roman de Tristan et Iseut) ş?
+: .o .  17 N     _AULNOY Madame d'            La Belle aux cheveux d'or ş1698
+: .o .  42 N     _GRIMM Jacob & Wilhelm       Les Deux FrŠres ş1812 Die zwei Brder
+
+
+
+
+o LARO_TA     ?  1977.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oF.     Ax    *ROGE Raymond                R‚cits fantastiques ş1977
+!--- Mˆme collection :
+!--- Le bestiaire fantastique
+!--- Contes fantastiques de Nodier
+!--- La mare au diable de George Sand
+!--- Histoires extraordinaires d'Edgar Poe
+!--- (*?) Les filles de feu
+!--- ? Le roman de la momie
+
+o LARO_TA     ?  1973.12 R.... ISBN 2-03-035023-0
+} noimg          _?                           ?
+- .oF.     E     _BESSIERE IrŠne              Le R‚cit fantastique - La po‚tique de l'incertain ş1973
+
+o LARO_IS     ?  1975.02 R.... ISBN 2-03-037003-7
+} larousse_sf    _?                           N
+- .oS.    kA17   *ROCHETTE Marguerite         La Science-Fiction ş1975
+!--- Essai et anthologie de 17 textes courts
+: .oS.     N     _ALDANI Lino                 Korok ş1961 Korok şTrad. MANGEMATIN Jean-Claude
+: .oS.     N     _ANDREVON Jean-Pierre        J‚rold et le chat ş1970
+: .oS.     N     _ANDERSON Poul               Le Bout de la route ş1957 Journey's End şTrad. MARTIN Bruno
+: .oS.     N     _ASIMOV Isaac                Souvenir perdu ş1965 Eyes Do More than See
+!--- TBC : ou "Lost Memory", 1956 ?
+: .oS.     N     _BROWN Fredric               Les Vies courtes et heureuses d'Eustache Weaver ş1961 The Short Happy Lives of Eustace Weaver şTrad. SENDY Jean
+: .oS.     N     _BROWN Fredric               DeuxiŠme chance ş1961 Second Chance
+: .oS.     N     _CHEINISSE Claude F.         Conflit de lois ş1971
+: .oS.     N     _CURVAL Philippe             C'est du billard ! ş1959
+: .oS.     N     _KLEIN G‚rard                En vacances ş1958
+: .oS.     N     _KNIGHT Damon                En douce ş1950 Not With a Bang şTrad. TERRIER Luce
+: .oS.     N     _KRAUS Rita                  La Grande D‚charge ş1972
+: .oS.     N     _LEM Stanislas               Conte de la machine … calculer qui combattit le dragon ş1963 Bajka o maszynie cyfrowej, co ze smokiem walczyla şTrad. ?
+: .oS.     N     _SHECKLEY Robert             Tout ce que nous sommes ş1956 All the Thing You Are
+!--- TBC titre vo : _All the thing you are_ ou _All the things you are_ ?
+: .oS.     N     _SILVERBERG Robert           Le Circuit Macaulay ş1956 The Macauley Circuit şTrad. THOORENS L‚on
+: .oS.     N     _STERNBERG Jacques           Le Navigateur ş1956
+: .oS.     N     _STURGEON Theodore           La Merveilleuse Aventure du b‚b‚ Hurkle ş1949 The Hurkle Is a Happy Beast şTrad. BATTIN Marcel
+: .oS.     N     _TUBB E.C.                   Les Murailles de l'infini ş1960 Greater than Infinity şTrad. BATTIN Marcel
+
+o LAROUSS     ?  2002.03 ..... ISBN 2-03-505042-1
+} noimg          _?                           ?
++ LAROUSS     ?  2006.03 ..... ISBN 2-03-505042-1
+} noimg          _?                           ?
+- .o .     G     _RIOT-SARCEY MichŠle        &Dictionnaire des utopies ş2006
+&                _BOUCHET Thomas             &
+&                _PICON Antoine               
+

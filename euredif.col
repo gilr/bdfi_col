@@ -1,0 +1,200 @@
+
+!DEB_HEAD EUREDFG
+!TIT_COLL Flash Gordon
+!-----------------------------------------------------------------------------
+_ EUREDFG EurÇdif, Coll. Flash Gordon
+!-----------------------------------------------------------------------------
+!--- Cette collection qui date de 1981 traduit les novelisations de bandes
+!--. dessinÇes de Dan Barry, d'apräs le personnage crÇÇ par Alex Raymond,
+!--. Flash Gordon (Guy l'Eclair). Le troisiäme opus, bien que signÇ
+!--. Con Steffanson (Ron Goulart), est une novelisation de
+!--. Carston Bingham (Bruce Cassaday).
+!-----------------------------------------------------------------------------
+!FIN_HEAD EUREDFG
+!DEB_COLL EUREDFG
+o EUREDFG     1  1981.xx ..... ISBN 2-7167-0807-X
+}euredfg01       _?                           ?
+- .oS.     R     _STEFFANSON Con              Le Cirque de l'espace [Flash Gordon] ˛1974 The Space Circus ˛Trad. MANOUKIAN P.
+o EUREDFG     2  1981.xx ..... ISBN 2-7167-0808-8
+}euredfg02       _?                           ?
+- .oS.     R     _BINGHAM Carston             La Guerre des cybernautes [Flash Gordon] ˛1974 War of the Cybernauts ˛Trad. MANOUKIAN P.
+o EUREDFG     3  1981.xx ..... ISBN 2-7167-0809-6
+}euredfg03       _?                           ?
+- .oS.     R     _STEFFANSON Con              Les Hommes-Lions de Mongo [Flash Gordon] ˛1974 The Lion Men of Mongo ˛Trad. MANOUKIAN P.
+o EUREDFG     4  1981.xx ..... ISBN 2-7167-0810-X
+}euredfg04       _?                           ?
+- .oS.     R     _STEFFANSON Con              Le Pendulum de Ming XIII [Flash Gordon] ˛1974 The Time Trap of Ming XIII ˛Trad. MANOUKIAN P.
+o EUREDFG     5  1981.xx ..... ISBN 2-7167-0817-7
+}euredfg05       _?                           ?
+- .oS.     R     _STEFFANSON Con              Les Musiques de la mort [Flash Gordon] ˛1974 The Plague of Sound ˛Trad. MANOUKIAN P.
+o EUREDFG     6  1981.xx ..... ISBN 2-7167-0818-5
+}euredfg06       _?                           ?
+- .oS.     R     _BINGHAM Carston             La Reine sorciäre de Mongo [Flash Gordon] ˛1974 The Witch Queen of Mongo ˛Trad. MANOUKIAN P.
+!FIN_COLL EUREDFG
+
+!DEB_HEAD EUREDIP
+!TIT_COLL Science Fiction
+!-----------------------------------------------------------------------------
+_ EUREDIP Euredif/Playboy, Science Fiction
+!-----------------------------------------------------------------------------
+!---  ISSN 0763-336-X
+!-----------------------------------------------------------------------------
+!FIN_HEAD EUREDIP
+!DEB_COLL EUREDIP
+o EUREDIP     3  1984.xx ..... ISBN 2-7167-1119-4
+} playboy03      _?                           N
+- .oS.     R     _BAXTER-JONES John           Les Amants d'Askaporod ˛1984
+o EUREDIP     7  1984.xx ..... ISBN 2-7167-1136-4
+} playboy07      _?                           N
+- .oS.     R     _BARNES Tex                  Le Cas Jackson ˛1984
+o EUREDIP    11  1984.xx ..... ISBN 2-7167-1150-X
+} playboy11      _?                           N
+- .oS.     R     _SURTISS James               Les Disparus de Duvla ˛1984
+o EUREDIP    15  1984.xx ..... ISBN 2-7167-1157-7
+} playboy15      _?                           N
+- .oF.     R     _HODGSON William Hope        Les Canots du "Glen Carrig" ˛1907 The Boats of the "Glen Carrig"
+o EUREDIP    19  1984.xx ..... ISBN 2-7167-1173-9
+} playboy19      _?                           N
+- .oF.     R     _MATHIAS Manuel              Clefs de voñte ˛1984
+o EUREDIP    23  1984.xx ..... ISBN 2-7167-1177-1
+} playboy23      _?                           N
+- .oS.     R     _DE CAMP Lyon Sprague       &Le Rägne du gorille ˛1941 Genus Homo ˛Trad. SELLERS Jacqueline
+&                _MILLER P. Schuyler          
+?o EUREDIP    26  1984.xx ..... ISBN 2-7167-1196-8
+?} playboy26      _?                           N
+?- .oS.     R     _FAST Howard                 L'Ange dÇchu ˛1952 Fallen Angel ˛Trad. ?
+o EUREDIP    27  1984.xx ..... ISBN 2-7167-1197-6
+} playboy27      _?                           N
+- .oF.     R     _AMILA John                  Le 9 de pique ˛1956
+o EUREDIP    31  1984.xx ..... ISBN 2-7167-1210-7
+} playboy31      _?                           N
+- .oS.     R     _SPINRAD Norman              Les Solariens ˛1966 The Solarians ˛Trad. CHARRIER Michäle
+o EUREDIP    35  1984.T4 ..... ISBN 2-7167-1223-9
+} playboy35      _?                           N
+- .oY.    _N15   _HOWARD Robert E.            Kull le roi barbare ˛1967 King Kull ˛Trad. TRUCHAUD Franáois
+!--- TBC : avec Lin Carter ? (tout, ou certaines nouvelles ?)
+: .oY.     N     _HOWARD Robert E.            Prologue ˛1967 Prolog
+: .oY.     N     _HOWARD Robert E.            ExilÇ d'Atlantis ˛1967 Exile of Atlantis
+: .oY.     N     _HOWARD Robert E.            Le Royaume des chimäres ˛1929 The Shadow Kingdom
+: .oY.     N     _HOWARD Robert E.            L'Autel et le scorpion ˛1967 The Altar and the Scorpion
+: .oY.     N     _HOWARD Robert E.            Noirs abysses ˛1967 Black Abyss
+: .oY.     N     _HOWARD Robert E.            Le Chat de Delcardes ˛1967 Delcardes' Cat
+: .oY.     N     _HOWARD Robert E.            Le CrÉne du silence ˛1967 The Skull of Silence
+: .oY.     N     _HOWARD Robert E.            Ceux qui allärent au delÖ du soleil levant ˛1967 Riders Beyond the Sunrise
+: .oY.     N     _HOWARD Robert E.            Par cette hache, je rägne ! ˛1967 By This Axe I Rule!
+: .oY.     N     _HOWARD Robert E.            Le Coup de gong ˛1967 The Striking of the Gong
+: .oY.     N     _HOWARD Robert E.            Les ÇpÇes du royaume pourpre ˛1967 Swords of the Purple
+: .oY.     N     _HOWARD Robert E.            Magicien et guerrier ˛1967 Wizard and Warrior
+: .oY.     N     _HOWARD Robert E.            Les Miroirs de Tuzun Thune ˛1929 The Mirrors of Tuzun Thune
+: .oY.     N     _HOWARD Robert E.            Le Roi et le chàne ˛1939 The King and the Oak
+: .oY.     N     _HOWARD Robert E.            Epilogue ˛1967 Epilog
+o EUREDIP    39  1985.xx ..... ISBN 2-7167-1263-8
+} playboy39      _?                           N
+- .oSJ     R     _CREMIEUX A. & J.            Chute libre [Chute libre - 1] ˛1955
+o EUREDIP    45  1985.xx ..... ISBN 2-7167-1275-1
+} playboy45      _?                           N
+- .oF.    _N9    _JAMES Montague Rhodes       Siffle et je viendrai ˛1982
+!--- "... et je viendrais" (partout, pas seulement en couverture !)
+: .o .     N     _JAMES Montague Rhodes       Sortiläge ˛1911 Casting the Runes ˛Trad. RAS Jos
+: .o .     N     _JAMES Montague Rhodes       Coeurs perdus ˛1895 Lost Hearts ˛Trad. PAPY Jacques
+: .o .     N     _JAMES Montague Rhodes       Le Labyrinthe ˛1911 Mr Humphreys and His Inheritance ˛Trad. BARONIAN Anne
+: .o .     N     _JAMES Montague Rhodes       Le NumÇro 13 ˛1899 Number 13 ˛Trad. CAMILLE Georgette
+: .o .     N     _JAMES Montague Rhodes       Le Fràne ˛1904 The Ash-Tree ˛Trad. FERRY Odette
+: .o .     N     _JAMES Montague Rhodes       La Maison de poupÇes hantÇe ˛1923 The Haunted Dolls' House ˛Trad. DOREMIEUX Alain
+: .o .     N     _JAMES Montague Rhodes       Siffle, et je viendrai ˛1904 "Oh Whistle, and I'll Come to You, My Lad" ˛Trad. DOREMIEUX Alain
+: .o .     N     _JAMES Montague Rhodes       Du haut de la colline ˛1925 A View from a Hill ˛Trad. DEMUTH Michel
+: .o .     N     _JAMES Montague Rhodes       Le Comte Magnus ˛1904 Count Magnus ˛Trad. STRAGLIATI Roalnd et MARTENON Franáoise
+o EUREDIP    51  1985.T1 ..... ISBN 2-7167-1287-5
+} playboy51      _?                           N
+- .oS.     R     _JEURY Michel                La Machine du pouvoir ˛1960
+o EUREDIP    57  1985.xx ..... ISBN 2-7167-1297-2
+} playboy57      _?                           N
+- .oF.     R     _BLISH James                 PÉques noires [Les Apprentis sorciers - 1] ˛1967-1968 Faust Aleph Null / Black Easter or Faust Aleph Null ˛Trad. GILLE Elisabeth
+!FIN_COLL EUREDIP
+
+!-----------------------------------------------------------------------------
+!-- EUREDIP Euredif/Playboy, Romans policiers
+!-- EUREDIE Euredif/Playboy, Aventures Çrotiques
+!-- EUREDIC Euredif/Playboy, Classiques de l'Çrotisme
+!-----------------------------------------------------------------------------
+!--  1 :CE:1984:2716711178:  Schrîder-Devrient, Wilhelmine MÇmoires d'une chanteuse allemande
+!--  2 :RP:1984:2716711186:  Rossner, Robert La Feuille Ö l'envers
+!--  3 :SF:1984:2716711194:  Baxter-Jones, John Les Amants d'Askaporod
+!--  4   Louòs, Pierre Dialogues de courtisanes ; (suivi de) Manuel de civilitÇ pour les petites filles
+!--  5   Mirabeau Hic et Hec ou l'êläve des RR. PP. jÇsuites d'Avignon ; (suivi de) Contes gaulois
+!--  6 :RP:1984:2716711356:  MacDonald, Philip Quelqu'un devrait faire quelque chose
+!--  7   Barnes, Tex Le Cas Jackson
+!--  8   Laure, Dominique Secrets de femmes
+!--  9 :CE:1984:271671....:  Mannoury d'Ectot, H. de Les cousines de la colonelle
+!-- 10 :RP:1984:2716711496:  McGerr, Patricia Pariez sur la victime
+!-- 11 :SF:1984:271671150X:  Surtiss, James Les Disparus de Duvla
+!-- 12   Lengton, Tony Piäge Ö Capri
+!-- 13   MÇmoires de Suzon : sour du portier des Chartreux. (Suivis de) Histoire de Marguerite : fille de Suzon
+!-- 14   Contrucci, Jean La Poisse
+!-- 15 :SF:1984:271671....:  Hodgson, William Hope Les Canots du "Glen Carrig"
+!-- 16 :AE:1984:271671....:  Aldiss, Brian Wilson Un Petit garáon ÇlevÇ Ö la main
+!-- 17   Mirabeau, comte de Le Libertin de qualitÇ ou Ma conversion
+!-- 18   Irish, William Retour Ö Tillary street
+!-- 19 :SF:1984:271671....:  Mathias, Manuel Clefs de voñte
+!-- 20   McEwan, Ian Premier amour, derniers rites
+!-- 21   Sacher-Masoch, Leopold von Les Messieurs fessÇs
+!-- 22 :RP:1984:2716711763:  Fajardie, FrÇdÇric-H. La Nuit des chats bottÇs
+!-- 23 :SF:1984:2716711...:  De Camp, Lyon Sprague Le Rägne du gorille
+!-- 24 :CE:1984:2716712085:  Laure, Dominique Le Bonheur du soir
+!-- 25  Hoffmann, Ernst Theodor Amadeus Sour Monika
+!-- 26 :RP:1984:2716711968: Fast, Howard L'Ange dÇchu
+!-- 27 :SF:1984:2716711...: Amila, Jean Le 9 [ Neuf] de pique
+!-- 28 :AE:1984:2716711984: Lengton, Tony Obsession en noir
+!-- 29  Mannoury d'Ectot, H. de Le Roman de Violette
+!-- 30 :RP:1984:2716711...: Brown, Fredric La Bàte de misÇricorde
+!-- 31 :SP:1984:2716711...: Spinrad, Norman Les Solariens
+!-- 32  MÇry, Liane Les Folies d'êglantine
+!-- 33  Pidansat de Mairobert, Mathieu-Franáois (1727-1779) Confession de mademoiselle Sapho ou la Secte des anandrynes
+!-- 34  Walsh, Thomas Midi, Gare centrale
+!-- 35 :CE:1984:2716712212: Howard, Robert Ervin Kull, Le roi barbare
+!-- 36  Steccato, Franck L'Amour sauvage
+!-- 37  Pontargeix, Victorine de Bouche cent fois baisÇe
+!-- 38  Fajardie, FrÇdÇric-H. La ThÇorie du 1 %
+!-- 39 :SF:1985:2716712638: CrÇmieux, Albert Chute libre
+!-- 40  Laure, Dominique L'Amour en cage
+!-- 41  Benjamin, Joâl Temples de l'amour
+!-- 42  Benjamin, Joâl Gentlemen rockers
+!-- 43 :CE:1985:2716712735: Bathernay, Hubert de Les TransplantÇs
+!-- 44  Jaouen, HervÇ La MariÇe rouge
+!-- 45  James, Montague Rhodes Siffle et je viendrais [sic]
+!-- 46  Lengton, Tony Des Filles Ö plaisir
+!-- 47  Benjamin, Joâl MÇlodie underground
+!-- 48  Benjamin, Joâl Tortures orientales
+!-- 49  SylvÇräal, Martin de Ascensex pour un cadre
+!-- 50 :RP:1985:2716712867: Graham, David OpÇration balai
+!-- 51  Jeury, Michel La Machine du pouvoir
+!-- 52  Blue, Swanny Une Fille toute simple
+!-- 53  Benjamin, Joâl Chaud et froid Ö Moscou
+!-- 54  Benjamin, Joâl Carnaval Ö suivre
+!-- 55  Roclaire, Chevalier de Les Brunes du Nord
+!-- 56  Fajardie, FrÇdÇric-H. Le Souffle court
+!-- 57 :SF:1985:271671....: Blish, James PÉques noires
+!-- 58  Surtiss, James La VallÇe des grands loups
+!-- 59  Benjamin, Joâl Fleurs de lotus
+!-- 60  Benjamin, Joâl Refuge d'amours
+
+!-----------------------------------------------------------------------------
+_ EUREDIA Euredif, Coll. Atmosphäre
+!-----------------------------------------------------------------------------
+!---  
+!-----------------------------------------------------------------------------
+o EUREDIA    34  1971.09 ..... ISBN -
+} noimg          _?                           ?
+- .oS.     R     _MORGAN Philip               Meurtre en quatriäme dimension ˛1971
+o EUREDIA    37  1971.xx ..... ISBN -
+} noimg          _?                           ?
+- .oS.     R     _TOLLET Pierre               Meurtre en soucoupe volante ˛1953
+!--- Sous Pierre-Jack
+
+!-----------------------------------------------------------------------------
+_ EUREDIF Euredif
+!-----------------------------------------------------------------------------
+o EUREDIF     ?  1977.xx ..... ISBN 2-7167-0486-4
+} noimg          _?                           ?
+- .oS.     R     _ARLEY Catherine             La Banque des morts ˛1977
+
