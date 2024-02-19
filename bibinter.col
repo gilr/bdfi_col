@@ -4,12 +4,12 @@
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 _ BI      BibliothŠque Interdite
-_ BI_W    BibliothŠque Interdite, Coll. Warhammer
-_ BI_W40  BibliothŠque Interdite, Coll. Warhammer 40 000
-_ BI_MAG  BibliothŠque Interdite, Coll. Magic, the Gathering
-_ BI_AGEL BibliothŠque Interdite, Coll. L'ƒge des l‚gendes
-_ BI_HH   BibliothŠque Interdite, Coll. L'h‚r‚sie d'Horus
-_ BI_ECLI BibliothŠque Interdite, Coll. Eclipse
+_ BI_W    BibliothŠque Interdite - Warhammer
+_ BI_W40  BibliothŠque Interdite - Warhammer 40 000
+_ BI_MAG  BibliothŠque Interdite - Magic, the Gathering
+_ BI_AGEL BibliothŠque Interdite - L'ƒge des l‚gendes
+_ BI_HH   BibliothŠque Interdite - L'h‚r‚sie d'Horus
+_ BI_ECLI BibliothŠque Interdite - Eclipse
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
@@ -138,8 +138,7 @@ o BI_W        ?  2010.05 ..... ISBN 978-2-35961-037-6
 - .oS.     R     _SAVILE Steven               Domination [Les Chroniques von Carstein - 2] þ2006 Dominion þTrad. ZACHAYUS MichŠle
 o BI_W        ?  2010.06 ..... ISBN 978-2-35961-040-6
 } noimg          _?                           ?
-- .oY.     R     _EARL Robert                 Les Rivages br–lants þ2004 The Burning Shore þTrad. FANTON Olivier
-!--- TBC : [Florin & Lorenzo - 1]
+- .oY.     R     _EARL Robert                 Les Rivages br–lants [Florin & Lorenzo - 1] þ2004 The Burning Shore þTrad. FANTON Olivier
 o BI_W        ?  2010.09 ..... ISBN 978-2-35961-043-7
 } noimg          _?                           ?
 - .oS.     R     _THORPE Gav                  Le Roi fant“me [La D‚chirure - 2] þ2010 Shadow King þTrad. ?
@@ -223,7 +222,7 @@ o BI_W40      ?  2006.05 ..... ISBN 2-915989-24-9
 : .o .     N     _JOWETT Simon                La Ran‡on de la loyaut‚ þ2001 Loyalty's Reward þTrad. JULIEN Sandy & LACROUTS Dominique
 : .o .     N     _CHAMBERS Andy               Deus Ex Mechanicus þ2000 Deus ex Mechanicus þTrad. JULIEN Sandy & LACROUTS Dominique
 : .o .     N     _CURRAN Jonathan             Barathrum þ2002 Barathrum þTrad. JULIEN Sandy & LACROUTS Dominique
-: .o .     N     _ABNETT Dan                  Port‚s disparus þ2001 Missing in Action þTrad. JULIEN Sandy & LACROUTS Dominique
+: .o .     N     _ABNETT Dan                  Port‚s disparus [Eisenhorn] þ2018 Missing in Action þTrad. JULIEN Sandy & LACROUTS Dominique
 : .o .     N     _THORPE Gav                  Libert‚ þ2001 Liberty þTrad. JULIEN Sandy & LACROUTS Dominique
 : .o .     N     _ABNETT Dan                  Chasseurs d'Orks [Astra Militarum] þ2002 Ork Hunter þTrad. JULIEN Sandy & LACROUTS Dominique
 : .o .     N     _McNEILL Graham              La Routine þ2001 Business as Usual þTrad. JULIEN Sandy & LACROUTS Dominique
@@ -256,7 +255,7 @@ o BI_W40      ?  2007.11 ..... ISBN 978-2-915989-63-2
 - .oS.     R     _ABNETT Dan                  30 centimŠtres d'acier [La Sainte - 3][Fant“mes de Gaunt] þ2002 Straight Silver þTrad. DROUET Julien
 o BI_W40      ?  2008.03 ..... ISBN 978-2-915989-68-7
 } noimg          _?                           ?
-- .oS.     R     _McNEILL Graham              Nightbringer [Ultramarine - 1] þ2002 Nightbringer þTrad. LE RUDULIER Matthieu
+- .oS.     R     _McNEILL Graham              Nightbringer [Uriel Ventris][Ultramarine - 1] þ2002 Nightbringer þTrad. LE RUDULIER Matthieu
 o BI_W40      ?  2008.04 ..... ISBN 978-2-915989-71-7
 } noimg          _?                           ?
 - .oS.     R     _ABNETT Dan                  Les FrŠres du serpent þ2007 Brothers of the Snake þTrad. LACROUTS Laurent
@@ -286,7 +285,7 @@ o BI_W40      ?  2009.04 ..... ISBN 978-2-915989-09-6
 - .oS.     R     _ABNETT Dan                  Titanicus þ2008 Titanicus þTrad. ?
 o BI_W40      ?  2009.04 ..... ISBN 978-2-915990-01-0
 } noimg          _?                           ?
-- .oS.     R     _McNEILL Graham              Les Guerriers d'Ultramar [Ultramarine - 2] þ2003 Warriors of Ultramar þTrad. ?
+- .oS.     R     _McNEILL Graham              Les Guerriers d'Ultramar [Uriel Ventris][Ultramarine - 2] þ2003 Warriors of Ultramar þTrad. ?
 o BI_W40      ?  2009.xx ..... ISBN 978-2-915990-..-.
 } noimg          _?                           ?
 - .oS.     R     _SPURRIER Simon              Night Lord þ2005 Lord of the Night þTrad. ?
@@ -304,7 +303,7 @@ o BI_W40      ?  2009.11 ..... ISBN 978-2-35961-013-0
 - .oY.     R     _KING William                Chasseur gris [Ragnar Blackmane - 3] þ2002 Grey Hunter þTrad. ATTINOST BenoŒt
 o BI_W40      ?  2010.01 ..... ISBN 978-2-35961-011-6
 } noimg          _?                           ?
-- .oY.     R     _McNEILL Graham              Ciel mort, soleil noir [Ultramarine - 3] þ2004 Dead Sky, Black Sun þTrad. LACROUTS Laurent
+- .oY.     R     _McNEILL Graham              Ciel mort, soleil noir [Uriel Ventris][Ultramarine - 3] þ2004 Dead Sky, Black Sun þTrad. LACROUTS Laurent
 o BI_W40      ?  2010.01 ..... ISBN 978-2-35961-021-5
 } noimg          _?                           ?
 - .oS.     R     _GREEN Jonathan              La Croisade d'Armageddon [Les Templiers noirs - 1] þ2003 Crusade for Armageddon þTrad. BOISSEAU Alain
@@ -334,7 +333,7 @@ o BI_W40      ?  2010.11 ..... ISBN 978-2-35961-038-3
 - .oY.     R     _KYME Nick                   Salamander [Trilogie du tome de feu - 1] þ2009 Salamander þTrad. BEAUBRUN Philippe
 o BI_W40      ?  2010.11 ..... ISBN 978-2-35961-048-2
 } noimg          _?                           ?
-- .oY.     R     _McNEILL Graham              Champ de Mort [Ultramarine - 4] þ2008 The Killing Ground þTrad. LACROUTS Laurent
+- .oY.     R     _McNEILL Graham              Champ de mort [Uriel Ventris][Ultramarine - 4] þ2008 The Killing Ground þTrad. LACROUTS Laurent
 o BI_W40      ?  2010.11 ..... ISBN 978-2-35961-050-5
 }bi_w40_heros    _?                           N
 - .oS.    kA11   *KYME Nick                  &H‚ros des Space Marines þ2009 Heroes of the Space Marines þTrad. ?
@@ -352,7 +351,7 @@ o BI_W40      ?  2010.11 ..... ISBN 978-2-35961-050-5
 : .o .     N     _DEMBSKI-BOWDEN Aaron        Une haine þ2009 One Hate
 o BI_W40      ?  2011.01 ..... ISBN 978-2-35961-056-7
 } noimg          _?                           ?
-- .oY.     R     _McNEILL Graham              Courage et honneur [Ultramarine - 5] þ2009 Courage and Honour þTrad. BEAUBRUN Philippe
+- .oY.     R     _McNEILL Graham              Courage et honneur [Uriel Ventris][Ultramarine - 5] þ2009 Courage and Honour þTrad. BEAUBRUN Philippe
 o BI_W40      ?  2010.11 ..... ISBN 978-2-35961-049-9
 } noimg          _?                           ?
 - .oY.     R     _LYONS Steve                 La Garde des glaces [Garde imp‚riale - 5] þ2008 Ice Guard þTrad. BASSET Vincent
@@ -381,8 +380,8 @@ o BI_HH       ?  2006.11 ..... ISBN 2-915989-30-3
 } noimg          _?                           ?
 + BI_HH       ?  2008.06 ..... ISBN 978-2-915989-78-6
 } noimg          _?                           ?
+!--- TBD ou Trad. DROUET Julien
 - .oS.     R     _McNEILL Graham              Les Faux dieux [L'H‚r‚sie d'Horus - 2] þ2006 False Gods þTrad. PARIS Pierre-Marie
-!--- ou þTrad. DROUET Julien
 o BI_HH       ?  2007.06 ..... ISBN 978-2-915989-..-.
 } noimg          _?                           ?
 + BI_HH       ?  2008.11 ..... ISBN 978-2-915989-99-1
@@ -460,7 +459,7 @@ o BI_MAG      ?  2007.11 ..... ISBN 978-2-915989-66-3
 !-----------------------------------------------------------------------------
 o BI_ECLI     ?  2010.10 ..... ISBN 978-2-36270-004-0
 } noimg          _Christian McGrath           ?
-- .oF.     R     _RICHARDSON Kat              A travers le voile [Harper Blaine - 1] þ2006 Greywalker þTrad. REACH Claire
+- .oPF     R     _RICHARDSON Kat              A travers le voile [Harper Blaine - 1] þ2006 Greywalker þTrad. REACH Claire
 o BI_ECLI     ?  2010.10 ..... ISBN 978-2-36270-005-7
 } noimg          _Cliff Nielsen               ?
 - .oF.     R     _HUNTER Faith                Jane Yellowrock, tueuse de vampires [Jane Yellowrock - 1] þ2009 Skinwalker þTrad. DROUET Camille
@@ -545,7 +544,7 @@ o BI_ECLI     ?  2011.04 ..... ISBN 978-2-36270-030-9
 - .oF.     R     _GAY Kelly                   Ma part de t‚nŠbres [Charlie Madigan - 1] þ2009 The Better Part of Darkness þTrad. BERGANZ Fabienne
 o BI_ECLI     ?  2011.04 ..... ISBN 978-2-36270-036-1
 } noimg          _Alain Brion                 ?
-- .oF.     R     _WAGGONER Tim                Nekropolis [Nekropolis - 1] þ2009 Nekropolis þTrad. Sandy Julien
+- .oF.     R     _WAGGONER Tim                Nekropolis [Matthew Richter, d‚tective priv‚ zombie - 1] þ2009 Nekropolis þTrad. Sandy Julien
 o BI_ECLI     ?  2011.05 ..... ISBN 978-2-36270-042-2
 } noimg          _Larry Rostant               ?
 - .oF.     R     _BODARD Aliette de           D'obsidienne et de sang [Les Chroniques aztŠques - 1] þ2010 Servant of the Underworld þTrad. PHILIBERT-CAILLAT Laurent
@@ -585,7 +584,7 @@ o BI_ECLI     ?  2011.07 ..... ISBN 978-2-36270-043-9
 - .oS.     R     _PRIEST Cherie               Clementine [Le SiŠcle m‚canique - 2] þ2010 Clementine þTrad. MENANTEAU Etienne & JULIEN Sandy
 o BI_ECLI     ?  2011.07 ..... ISBN 978-2-36270-053-8
 } noimg          _?                           ?
-- .oF.     R     _HOWARD Jonathan L.          Johannes Cabal le n‚cromancien [Johannes Cabal] þ2009 Johannes Cabal the Necromancer þTrad. VESSIERE J‚r“me
+- .oF.     R     _HOWARD Jonathan L.          Johannes Cabal le n‚cromancien [Johannes Cabal - 1] þ2009 Johannes Cabal the Necromancer þTrad. VESSIERE J‚r“me
 o BI_ECLI     ?  2011.07 ..... ISBN 978-2-36270-044-6
 } noimg          _Dan Dos Santos              ?
 - .oF.     R     _PRATT T.A.                  L'Assassin des rˆves [Marla Mason - 2] þ2008 Poison Sleep þTrad. MUNNS Morgane

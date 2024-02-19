@@ -1,14 +1,15 @@
-!--- MOU_HEL Les Moutons Electriques, Coll. H‚lios ---> helios.col
+!--- MOU_HEL Les Moutons Electriques, Collection H‚lios ---> helios.col
 
 !-----------------------------------------------------------------------------
 _ MOUTEL  Les Moutons Electriques
+_ MOUT_BV Les Moutons Electriques - BibliothŠque des vertiges
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 !--- Ruaud A.-F.
 !--- Editions des moutons ‚lectriques  - http://moutons-electriques.com
 !-----------------------------------------------------------------------------
 o MOUTEL      ?  2004.10 ..... ISBN 2-915793-01-8
-} noimg          _?                           ?
+} moutel2004_02  _?                           ?
 - .oY.    _R2    _SWANN Thomas Burnett        Le Ph‚nix vert [La Trilogie du Latium] ş2004
 : .o .     R     _SWANN Thomas Burnett        Le Ph‚nix vert [La Trilogie du Latium - 1] ş1972 Green Phoenix şTrad. MARCEL Patrick
 : .o .     r     _SWANN Thomas Burnett        O— est-il donc, l'oiseau de feu ? [La Trilogie du Latium] ş1962 Where Is the Bird of Fire? şTrad. MARCEL Patrick
@@ -19,7 +20,7 @@ o MOUTEL      ?  2005.02 ..... ISBN 2-915793-02-6
 - .oY.     R     _CALVO David                &Sunk ş2005
 &                _COLIN Fabrice               
 o MOUTEL      ?  2005.02 ..... ISBN 2-915793-03-4
-} noimg          _?                           ?
+} moutel2005_01  _?                           ?
 - .oS.    _N11   _CALVO David                 Acide organique ş2005
 : .oS.     N     _CALVO David                 Aeroplane tonight (with Christian Divine) ş2005
 : .oS.     N     _CALVO David                 Ambient otaku ş2005
@@ -40,7 +41,7 @@ o MOUTEL      ?  2005.10 ..... ISBN 2-915793-08-5
 } noimg          _?                           ?
 - .oF.     R     _HAMBLY Barbara              La Fianc‚e du dieu rat ş1994 Bride of the Rat God şTrad. CHARRIER MichŠle
 o MOUTEL      ?  2006.01 ..... ISBN 2-915793-12-3
-} noimg          _?                           ?
+} moutel2006_01  _?                           ?
 - .oS.    kRN4   _PAGEL Michel                Le Casino perdu, suivi de Orages en terre de france ş2006
 : .oS.     R     _PAGEL Michel                Le Casino perdu ş1998
 : .oS.     C4    _PAGEL Michel                Orages en terre de France ş1991-1998
@@ -50,13 +51,13 @@ o MOUTEL      ?  2006.01 ..... ISBN 2-915793-12-3
 = .oS.     N     _PAGEL Michel                Le Templier ş1991
 = .oS.     N     _PAGEL Michel                L'Inondation ş1991
 o MOUTEL      ?  2006.02 ..... ISBN 2-915793-15-8
-} noimg          _?                           ?
+} moutel2006_02  _?                           ?
 - .oY.    _R2    _SWANN Thomas Burnett        La Dame des abeilles [La Trilogie du Latium] ş2006
 : .oY.     R     _SWANN Thomas Burnett        Le Peuple de la mer [La Trilogie du Latium - 2] ş1977 People of the Sea/Queens Walk in the Dusk şTrad. MARCEL Patrick
 !--- parution posthume
 : .o .     R     _SWANN Thomas Burnett        La Dame des abeilles [La Trilogie du Latium - 3] ş1976 Lady of the Bees şTrad. MARCEL Patrick
 o MOUTEL      ?  2006.03 ..... ISBN 2-915793-16-6
-} noimg          _?                           ?
+} moutel2006_03  _?                           ?
 - .oSP     C4    _LENN Jonas                  Manhattan stories [Lieutenant Cairn] ş2006
 : .o .     N     _LENN Jonas                  Chupa Dumdum [Lieutenant Cairn] ş2002
 : .o .     N     _LENN Jonas                  L'Invincible Armada [Lieutenant Cairn] ş2002
@@ -90,7 +91,7 @@ o MOUTEL      ?  2007.04 ..... ISBN 978-2-915793-29-1
 } noimg          _?                           ?
 - .oS.     R     _SILHOL L‚a                  La Glace et la nuit - Opus un : Nigredo [Vertigen] ş2007
 o MOUTEL      ?  2007.05 ..... ISBN 978-2-915793-28-4
-} noimg          _?                           ?
+} moutel2007_04  _?                           ?
 - .oY.    _N7    _JAWORSKI Jean-Philippe      Janua Vera [R‚cits du vieux royaume - 1] ş2007
 : .oY.     N     _JAWORSKI Jean-Philippe      Le Confident ş2007
 : .oY.     N     _JAWORSKI Jean-Philippe      Conte de Suzelle ş2007
@@ -100,7 +101,7 @@ o MOUTEL      ?  2007.05 ..... ISBN 978-2-915793-28-4
 : .oY.     N     _JAWORSKI Jean-Philippe      Une offrande trŠs pr‚cieuse ş2007
 : .oY.     N     _JAWORSKI Jean-Philippe      Le Service des dames ş2007
 o MOUTEL      ?  2007.06 ..... ISBN 978-2-915793-30-7
-} noimg          _?                           ?
+} moutel2007_05  _?                           ?
 - .oS.    _N17   _CALVO David                 Nid de coucou ş2007
 : .oS.     N     _CALVO David                 Aucun monde n'est possible sans la verticalit‚ ş2007
 : .oS.     N     _CALVO David                 Aves raras ş2007
@@ -182,45 +183,70 @@ o MOUTEL      ?  2017.05 ..... ISBN 978-2-36183-359-6
 ?- .oF.    iNx    _JAWORSKI Jean-Philippe      Le Sentiment du fer ş2015
 o MOUTELT     ?  2018.12 ..... ISBN 978-2-36183-557-6
 } noimg          _Melchior Ascaride           ?
-!--- 222 pages - 14 x 18,2 cm - 50.00 euros - Relli‚, toil‚ avec jaquette couleur
+!--- 222 pages - 14 x 18,2 cm - 50.00 euros - Reli‚ - jaquette
+!--- Reli‚ toil‚ avec jaquette couleur
 - .oI.     A14   *DEBAQUE M‚r‚dith           &SOS Terre et Mer - Anthologie humanitaire de l'imaginaire ş2018
 &                *LUCE Christine              
-: o .      N     _DAU Nathalie                Bec ş2018
-: o .      N     _TARVEL Brice                Le Roi en espadrilles ş2018
-: o .      N     _JAWORSKI Jean-Philippe      Ils p‚riront sur les plaines de Mimante ş2018
-: o .      N     _DOUAY Dominique             La Fˆte … Neuneu ş2018
-: o .      N     _DARVEL Robert               Firmin le lapin ş2018
-: o .      N     _HEYLBROECK Julien           Les Xhyles ş2018
-: o .      N     _PLATTEAU Stefan             En‚ide des fa‚s ş2018
-: o .      N     _PARODI Guillaume            Le Peintre ş2018
-: o .      N     _LE BRETON Nicolas           Quantique des souffrances ş2018
-: o .      N     _CHADOUR Nelly               L'Oie sauvage ş2018
-: o .      N     _WARFA Dominique             Le Refuge de l'autre ş2018
-: o .      N     _POCHESCI Bruno              La Porte des ‚l‚phants ş2018
-: o .      N     _STEWARD Ketty               Le Filet du pˆcheur ş2018
-: o .      N     _LUCE Christine              Les gardiens de phare ont disparu ş2018
+: .o .     N     _DAU Nathalie                Bec ş2018
+: .o .     N     _TARVEL Brice                Le Roi en espadrilles ş2018
+: .o .     N     _JAWORSKI Jean-Philippe      Ils p‚riront sur les plaines de Mimante ş2018
+: .o .     N     _DOUAY Dominique             La Fˆte … Neuneu ş2018
+: .o .     N     _DARVEL Robert               Firmin le lapin ş2018
+: .o .     N     _HEYLBROECK Julien           Les Xhyles ş2018
+: .o .     N     _PLATTEAU Stefan             En‚ide des fa‚s ş2018
+: .o .     N     _PARODI Guillaume            Le Peintre ş2018
+: .o .     N     _LE BRETON Nicolas           Quantique des souffrances ş2018
+: .o .     N     _CHADOUR Nelly               L'Oie sauvage ş2018
+: .o .     N     _WARFA Dominique             Le Refuge de l'autre ş2018
+: .o .     N     _POCHESCI Bruno              La Porte des ‚l‚phants ş2018
+: .o .     N     _STEWARD Ketty               Le Filet du pˆcheur ş2018
+: .o .     N     _LUCE Christine              Les gardiens de phare ont disparu ş2018
 o MOUTEL      ?  2019.04 ..... ISBN 978-2-36183-558-0
 } noimg          _Melchior Ascaride           ?
 !--- 222 pages - 15 x 21 cm - 19,90 euros - Broch‚
 - .oI.     A14   *DEBAQUE M‚r‚dith           &SOS Terre et Mer - Anthologie humanitaire de l'imaginaire ş2018
 &                *LUCE Christine              
-: o .      N     _DAU Nathalie                Bec ş2018
-: o .      N     _TARVEL Brice                Le Roi en espadrilles ş2018
-: o .      N     _JAWORSKI Jean-Philippe      Ils p‚riront sur les plaines de Mimante ş2018
-: o .      N     _DOUAY Dominique             La Fˆte … Neuneu ş2018
-: o .      N     _DARVEL Robert               Firmin le lapin ş2018
-: o .      N     _HEYLBROECK Julien           Les Xhyles ş2018
-: o .      N     _PLATTEAU Stefan             En‚ide des fa‚s ş2018
-: o .      N     _PARODI Guillaume            Le Peintre ş2018
-: o .      N     _LE BRETON Nicolas           Quantique des souffrances ş2018
-: o .      N     _CHADOUR Nelly               L'Oie sauvage ş2018
-: o .      N     _WARFA Dominique             Le Refuge de l'autre ş2018
-: o .      N     _POCHESCI Bruno              La Porte des ‚l‚phants ş2018
-: o .      N     _STEWARD Ketty               Le Filet du pˆcheur ş2018
-: o .      N     _LUCE Christine              Les gardiens de phare ont disparu ş2018
+: .o .     N     _DAU Nathalie                Bec ş2018
+: .o .     N     _TARVEL Brice                Le Roi en espadrilles ş2018
+: .o .     N     _JAWORSKI Jean-Philippe      Ils p‚riront sur les plaines de Mimante ş2018
+: .o .     N     _DOUAY Dominique             La Fˆte … Neuneu ş2018
+: .o .     N     _DARVEL Robert               Firmin le lapin ş2018
+: .o .     N     _HEYLBROECK Julien           Les Xhyles ş2018
+: .o .     N     _PLATTEAU Stefan             En‚ide des fa‚s ş2018
+: .o .     N     _PARODI Guillaume            Le Peintre ş2018
+: .o .     N     _LE BRETON Nicolas           Quantique des souffrances ş2018
+: .o .     N     _CHADOUR Nelly               L'Oie sauvage ş2018
+: .o .     N     _WARFA Dominique             Le Refuge de l'autre ş2018
+: .o .     N     _POCHESCI Bruno              La Porte des ‚l‚phants ş2018
+: .o .     N     _STEWARD Ketty               Le Filet du pˆcheur ş2018
+: .o .     N     _LUCE Christine              Les gardiens de phare ont disparu ş2018
+o MOUTEL      ?  2022.06 ..... ISBN 978-2-36183-796-9
+} noimg          _Melchior Ascaride           ?
+!--- GF - 976 pages - 162 x 210 - 27 euros
+- .oY.    kR2N4  _CHEVALIER Chlo‚             R‚cits du Demi-loup - Int‚grale - Volume 1 [R‚cits du demi-loup - 1/2] ş2015
+: .oY.     R     _CHEVALIER Chlo‚             V‚ridienne [R‚cits du Demi-Loup - 1] ş2015
+: .oY.     R     _CHEVALIER Chlo‚             Les Terres de l'est [R‚cits du Demi-Loup - 2] ş2016
+: .oY.    kN4    _CHEVALIER Chlo‚             Fleurs au creux des ruines - Pr‚lude aux r‚cits du Demi-Loup [R‚cits du Demi-Loup] ş2016
+= .o .     N     _CHEVALIER Chlo‚             Notre premiŠre graine [R‚cits du Demi-Loup] ş2016
+= .o .     N     _CHEVALIER Chlo‚             L'Art ou la Viande  [R‚cits du Demi-Loup] ş2016
+= .o .     N     _CHEVALIER Chlo‚             Lors chantŠrent les bˆtes [R‚cits du Demi-Loup] ş2016
+= .o .     N     _CHEVALIER Chlo‚             La Tour sous le gris [R‚cits du Demi-Loup] ş2016
+o MOUTEL      ?  2022.06 ..... ISBN 978-2-36183-797-6
+} noimg          _Melchior Ascaride           ?
+!--- GF - 976 pages - 162 x 210 - 27 euros
+- .oY.    kR2    _CHEVALIER Chlo‚             R‚cits du Demi-loup - Int‚grale - Volume 2 [R‚cits du demi-loup - 3/4] ş2022
+: .oY.     R     _CHEVALIER Chlo‚             Mers brumeuses [R‚cits du Demi-Loup - 3] ş2017
+: .oY.     R     _CHEVALIER Chlo‚             Cl‚mente nous soit la pluie [R‚cits du Demi-Loup - 4] ş2020
+o MOUT_BV     ?  2022.06 ..... ISBN 978-2-36183-799-0
+} noimg          _Melchior Ascaride           ?
+!--- GF - 528 pages - 140 x 182 mm - 25 euros
+- .oS.    kR2    _DOUAY Dominique             Deux vertiges, et autres malaises ş2022
+: .oS.     R     _DOUAY Dominique             La Vie comme une course de chars … voile ş1978
+: .oS.     r     _DOUAY Dominique             Car les temps changent... ş1978-2014
+
 
 !-----------------------------------------------------------------------------
-_ MOUTELF Les Moutons Electriques, Fiction
+_ MOUTELF Les Moutons Electriques - Fiction
 !-----------------------------------------------------------------------------
 !--- 17 x 21, 304 a 372 pages
 !-----------------------------------------------------------------------------
@@ -234,7 +260,7 @@ o MOUTELF     1  2005.03 ..... ISBN 2-915793-04-2
 : .oS.     N     _NICOLAVITCH Alex            D‚dales ş2005
 : .oS.     N     _FORD Jeffrey                Cr‚ation ş2002 Creation
 : .oS.     N     _DEDIEU Jim                  4.0 ş2005
-: .oS.     N     _LE GUIN Ursula K.           Solitude ş2005 Solitude
+: .oS.     N     _LE GUIN Ursula K.           Solitude ş1994 Solitude
 : .oS.     N     _KUSHNER Ellen               Le Bretteur qui n'‚tait pas la Mort ş1991 The Swordsman Whose Name Was Not Death
 : .oS.     N     _AGUILERA Juan Miguel        Voyage au centre de l'univers ş2005 Todo lo que una persona puede imaginar
 : .oS.     N     _REGNIER Jean-Jacques        Charge utile ş2005
@@ -263,7 +289,7 @@ o MOUTELF  2bis  2005.10 ..... ISBN 2-915793-..-.
 } noimg          _?                           ?
 - .o .    _M2    ****                         Fiction - Tome 2bis ş2005
 : .oS.     N     _CROWLEY John                Disparus ş1996 Gone şTrad. RUAUD Andr‚-Fran‡ois
-: .oS.     N     _TRUDEL Jean-Louis           Terre de libert‚ ş2005
+: .oS.     N     _TRUDEL Jean-Louis           Terre de libert‚ ş1998
 o MOUTELF     3  2006.04 R.... ISBN 2-915793-..-.
 } noimg          _?                           ?
 - .oS.    _M15   ****                         Fiction - Tome 3 ş2006
@@ -318,9 +344,9 @@ o MOUTELF     5  2007.03 ..... ISBN 978-2-915793-27-7
 &                _REYNOLDS Mack         
 : .o .     N     _MARTINEZ Rodolfo            Fils de la mˆme nuit ş1994 Hijos de la misma noche şTrad. FUENTEALBA Jacques
 : .o .     N     _FORD Jeffrey                Les Vacances du batelier ş2001 Boatman's Holliday şTrad. DUCHET Christophe
-: .o .     N     _LINK Kelly                  Magie pour d‚butants ş2004 Magic for Beginners şTrad. DAVOUST Lionel K.
+: .o .     N     _LINK Kelly                  Magie pour d‚butants ş2005 Magic for Beginners şTrad. DAVOUST Lionel K.
 : .o .     O     _COLIN Fabrice               Nous ‚tions jeunes dans l'‚t‚ immobile ş2007
-: .o .     N     _CHESBRO George              PoŠmes … jouer pour le Piccolo ş1982 Poems to play in the Piccolo
+: .o .     N     _CHESBRO George              PoŠmes … jouer pour le Piccolo ş1982 Poems to Play in the Piccolo
 : .o .     N     _UTLEY Steven                Royaumes invisibles [Silurian Tales] ş2004 Invisible Kingdoms şTrad. COMHAIRE Gabrielle
 o MOUTELF     6  2007.09 ..... ISBN 978-2-915793-33-8
 } noimg          _?                           ?
@@ -385,7 +411,7 @@ o MOUTELF     8  2008.09 ..... ISBN 978-2-915793-49-9
 o MOUTELF     9  2009.03 ..... ISBN 978-2-915793-65-9
 } noimg          _?                           ?
 - .oS.    kM17   ****                         Fiction - Tome 9 ş2009
-: .oF.     N     _KASISCHKE Laura             Les recherches continuent pour le vieil homme ş2008 Search Continues For Elderly Man şTrad. DABAT Sophie
+: .oF.     N     _KASISCHKE Laura             Les recherches continuent pour le vieil homme ş2008 Search Continues for Elderly Man şTrad. DABAT Sophie
 : .oS.     N     _GENEFORT Laurent            Le Lot nø 97 ş2009
 : .oS.     N     _JONES Gwyneth               L'pouse au tombeau ş2007 The Tomb Wife şTrad. BALLESTER Isabelle
 : .oF.     N     _KELLY James Patrick         Serpent ş2004 Serpent şTrad. QUEMENER Sonya
@@ -533,7 +559,7 @@ o MOUTELF    17  2013.09 ..... ISBN 978-2-36183-134-9
 : .o .     N     _RICKERT M.                  Le Chef-D'oeuvre du peintre de cadavre ş2011 The Corpse Painter's Masterpiece şTrad. LONCAN Martine
 
 !-----------------------------------------------------------------------------
-_ FICTIND Les Ind‚s de l'imaginaire, Fiction
+_ FICTIND Les Ind‚s de l'imaginaire - Fiction
 !-----------------------------------------------------------------------------
 !--- Changement de format (16 x 24)
 !--- Editeurs : Les Moutons, ActuSF, Mn‚mos
@@ -568,6 +594,7 @@ o FICTIND    19  2014.07 ..... ISBN 978-2-354081-84-3
 o FICTIND    20  2015.xx ..... ISBN 978-2-354081-85-1
 } noimg          _?                           ?
 - .oS.    kM16   ****                         Fiction - Tome 20 ş2014
+: .o .     N     _MARTIN George R.R.          Y a que les gosses qui ont peur du noir ş1967 Only Kids Are Afraid of the Dark şTrad. HOLSTEIN Eric
 : .o .     N     _BUNKER Karl                 Garde du corps ş2011 Bodyguard şTrad. RIVERO Mathieu
 : .o .     N     _DUNYACH Jean-Claude         L'Arm‚e des souvenirs ş2015
 : .o .     N     _AIKIN Jim                   Une trŠs ancienne ‚p‚e elfique ş2009 An Elvish Sword of Great Antiquity şTrad. MALAIS Manon
@@ -588,7 +615,7 @@ o FICTIND    20  2015.xx ..... ISBN 978-2-354081-85-1
 : .o .     N     _POWELL James                A la recherche du Charlie grimpant ş2008 The Quest for Creeping Charlie şTrad. DEMARCQ Thomas
 
 !-----------------------------------------------------------------------------
-_ MOUTELS Les Moutons Electriques, Fiction Sp‚cial
+_ MOUTELS Les Moutons Electriques - Fiction Sp‚cial
 !-----------------------------------------------------------------------------
 o MOUTELS     ?  2006.11 ..... ISBN 2-915793-09-3
 } noimg          _?                           ?
@@ -620,7 +647,7 @@ o MOUTELS     ?  2007.11 ..... ISBN 978-2-915793-34-5
 : .o .     N     _COLIN Fabrice               Un l‚ger moment d'absence ş2007
 : .o .     N     _FAZI M‚lanie                L'Arbre et les corneilles ş2005
 : .o .     N     _JUBERT Herv‚                Tchingumabob ş2007
-: .o .     N     _POWELL James                Evasion … Gui 5 ş1995 Break out From Mistletoe Five şTrad. DIEUXLEVEUT Jean-Claude
+: .o .     N     _POWELL James                Evasion … Gui 5 ş1995 Break out from Mistletoe Five şTrad. DIEUXLEVEUT Jean-Claude
 : .o .     N     _MAUMEJEAN Xavier            Du chauffage au sol consid‚r‚ comme arme d'attaque ş2007
 : .o .     N     _WILLIS Connie               Dans l'antre du docteur Coppelius ş1996 In Coppelius's Toyshop şTrad. DIEUXLEVEUT Jean-Claude
 : .o .     N     _DUFOUR Catherine            La Mort des joujoux ş2007
@@ -636,7 +663,7 @@ o MOUTELS     ?  2007.11 ..... ISBN 978-2-915793-34-5
 : .o .     o     _RUAUD Andr‚-Fran‡ois        Solstice d'hiver & merveilleux : No‰l dans tous ses ‚tats ş2007
 
 !-----------------------------------------------------------------------------
-_ MOUTELV Les Moutons Electriques, BibliothŠque Volta‹que
+_ MOUTELV Les Moutons Electriques - BibliothŠque Volta‹que
 !-----------------------------------------------------------------------------
 o MOUTELV     1i 2008.01 ..... ISBN 978-2-915793-39-0
 } moutons_volt01 _?                           N
@@ -665,7 +692,7 @@ o MOUTELV     1i 2008.01 ..... ISBN 978-2-915793-39-0
 : .oS.     N     _JEURY Michel                Vivre le temps ş1977
 : .oS.     N     _JEURY Michel                Une fenˆtre sur la guerre ş1980
 : .oS.     N     _JEURY Michel                La Disparition du conseiller Wordy ş1976
-: .oS.     N     _JEURY Michel                Le Voyage de la morille ş1978
+: .oS.     N     _JEURY Michel                Le Voyage de la morille ş1980
 : .oS.     N     _JEURY Michel                La Bonne ‚toile ş1996
 : .oS.     N     _JEURY Michel                Maxima la Kickaha ş1985
 : .oS.     N     _JEURY Michel                Le Vol de l'hydre ş1981
@@ -682,7 +709,7 @@ o MOUTELV     2i 2008.02 ..... ISBN 978-2-915793-40-6
 : .oS.     N     _CONEY Michael               Les Insectes de feu, Holly et l'amour ş1977 Sparklebugs, Holly and Love şTrad. FEVRIER Marc
 o MOUTELV     3i 2008.04 ..... ISBN 978-2-915793-43-7
 } moutons_volt03 _?                           N
-- .o .    kN17   _COLIN Fabrice               Comme des fant“mes ş2008
+- .oF.    kN17   _COLIN Fabrice               Comme des fant“mes ş2008
 : .o .     p     _CLARO Christophe            L'Oeil de l'ami ş2008
 : .o .     a     _COLIN Fabrice               Pr‚ambule ş2008
 : .o .     a     _COLIN Fabrice               Jalons ş2008
@@ -713,7 +740,7 @@ o MOUTELV     3i 2008.04 ..... ISBN 978-2-915793-43-7
 : .o .     o     _CALVO David                 Viens dans l'oubli ş2008
 o MOUTELV     4i 2008.05 ..... ISBN 978-2-915793-44-4
 } moutons_volt04 _?                           N
-- .oS.    _N17   _BERGERON Alain              Corps-machines et rˆves d'ange ş2008
+- .oS.    _N17   _BERGERON Alain              Corps-machines et rˆves d'ange ş1997-2008
 : .o .     p     _VONARBURG Elisabeth         Pr‚face ş?
 : .o .     N     _BERGERON Alain              Les crabes de V‚nus regardent le ciel ş1987
 : .o .     N     _BERGERON Alain              Une analogie de la vie ‚ternelle ş1990
@@ -758,6 +785,9 @@ o MOUTELV     9i 2009.03 ..... ISBN 978-2-915793-64-2
 } noimg          _?                           ?
 + MOUTELV     9i 2014.11 ..... ISBN 978-2-36183-186-8
 } noimg          _?                           ?
++ MOUTELV     ?  2021.01 ..... ISBN 978-2-36183-681-8
+} noimg          _Melchior Ascaride           ?
+!--- GF - 162 x 210 - 688 pages - 28 euros
 - .oY.     R     _JAWORSKI Jean-Philippe      Gagner la guerre [R‚cits du vieux royaume - 2] ş2009
 o MOUTELV    10i 2009.05 ..... ISBN 978-2-915793-71-0
 } noimg          _?                           ?
@@ -775,6 +805,9 @@ o MOUTELV    14i 2010.04 ..... ISBN 978-2-915793-93-2
 } moutelbv2010_02 _S‚bastien Hayez             ?
 + MOUTELV     ?  2017.09 ..... ISBN 978-2-36183-395-4
 } moutelbv2017_11 _S‚bastien Hayez             ?
++ MOUTELV     ?  2021.01 ..... ISBN 978-2-36183-682-5
+} moutelbv2021_01 _Melchior Ascaride           ?
+!--- GF - 162 x 210 - 416 pages - 22 euros
 - .oY.    kN10   _JAWORSKI Jean-Philippe      Janua Vera [R‚cits du vieux royaume - 1] ş2007-2010
 : .oY.     p     _JAWORSKI Jean-Philippe      Avertissement au lecteur ş2010
 : .oY.     N     _JAWORSKI Jean-Philippe      Janua Vera ş2007
@@ -869,8 +902,8 @@ o MOUTELV    22  2011.08 ..... ISBN 978-2-36183-062-5
 : .o .     N     _REY Timoth‚e                Syrinx, fichier bribes ş2005
 : .o .     N     _REY Timoth‚e                C'est vrai, quoi, chacun son tour ş2010
 : .o .     N     _REY Timoth‚e                La Vieille Qui, l…-haut, porte son fagot noir ş2009
-: .o .     N     _REY Timoth‚e                Qui suis-je ? dit le klapoutcheewoc ş2011
-: .o .     N     _REY Timoth‚e                L'Ordure/Un ş2011
+: .o .     N     _REY Timoth‚e                Qui suis-je ? dit le klapoutcheewoc ş2010
+: .o .     N     _REY Timoth‚e                L'Ordure/Un ş2008
 : .o .     N     _REY Timoth‚e                Ce que regarde l'oeil ş2009
 : .o .     N     _REY Timoth‚e                Mille soleils, une pluie ş2011
 : .o .     N     _REY Timoth‚e                Odeur des pluies de mon enfance ş2007
@@ -901,10 +934,14 @@ o MOUTELV    24  2013.02 ..... ISBN 978-2-36183-074-8
 o MOUTELV    26i 2013.08 ..... ISBN 978-2-36183-100-4
 } noimg          _S‚bastien Hayez             ?
 !--- Reli‚, toil‚, cousu, sous jaquette couleur
+!--- Reli‚ - jaquette
 + MOUTELV    26i 2018.01 ..... ISBN 978-2-36183-427-2
 } noimg          _S‚bastien Hayez             ?
 !--- Edition broch‚e
-- .oY.     R     _JAWORSKI Jean-Philippe      Mˆme pas mort - PremiŠre branche [Rois du monde - 1] ş2013
++ MOUTELV     ?  2021.01 ..... ISBN 978-2-36183-683-2
+} noimg          _Melchior Ascaride           ?
+!--- GF - 162 x 210 - 304 pages
+- .oY.     R     _JAWORSKI Jean-Philippe      Mˆme pas mort [Rois du monde - 1] ş2013
 o MOUTELV    28  2013.05 ..... ISBN 978-2-36183-119-6
 } noimg          _Sylvie Chˆne                ?
 !--- Anthologiste : Pr‚face : Richard Comballot
@@ -960,7 +997,7 @@ o MOUTELV    32i 2014.05 ..... ISBN 978-2-36183-169-1
 : .o .     R     _WAGNER Roland C.            Les Derniers Jours de mai [Les Derniers Jours de mai - 1/2] ş1989
 o MOUTELV     ?  2014.06 ..... ISBN 978-2-36183-167-7
 } noimg          _POLICE Aur‚lien             ?
-- .oS.     R     _FAYE Estelle                Un ‚clat de givre ş2014
+- .oS.     R     _FAYE Estelle                Un ‚clat de givre [Jazzy Chet] ş2014
 o MOUTELV     ?  2014.10 ..... ISBN 978-2-36183-181-3
 } noimg          _Melchior Ascaride           ?
 - .oS.     R     _BAUDOU Jacques              La LisiŠre de bohˆme ş2014
@@ -976,10 +1013,14 @@ o MOUTELV     ?  2015.04 ..... ISBN 978-2-36183-190-5
 o MOUTELV     ?  2015.05 ..... ISBN 978-2-36183-192-9
 } noimg          _S‚bastien Hayez             ?
 !--- reli‚ : premier tirage, ® hardcover ¯ (reli‚, toil‚, cousu, gardes couleur, sous jaquette couleur)
+!--- reli‚ - jaquette
 + MOUTELV     ?  2018.09 ..... ISBN 978-2-36183-509-5
 } noimg          _S‚bastien Hayez             ?
 !--- edition souple (broch‚e)
-- .oY.     R     _JAWORSKI Jean-Philippe      Chasse royale - DeuxiŠme branche I [Rois du monde - 2.1] ş2015
++ MOUTELV     ?  2021.01 ..... ISBN 978-2-36183-684-9
+} noimg          _Melchior Ascaride           ?
+!--- GF - 165 x 210 - 288 pages
+- .oY.     R     _JAWORSKI Jean-Philippe      De meute … mort [Chasse royale - 1][Rois du monde - 2] ş2015
 o MOUTELV     ?  2015.08 ..... ISBN 978-2-36183-210-0
 } noimg          _Melchior Ascaride           ?
 - .oZ.     R     _REY Timoth‚e                La MŠre des ondes et des crues [N'a-Qu'un-Oeil, chamane d‚tective] ş2015
@@ -991,7 +1032,7 @@ o MOUTELV     ?  2015.09 ..... ISBN 978-2-36183-220-9
 - .oS.     R     _DOUAY Dominique             La Fenˆtre de Diane ş2015
 o MOUTELV     ?  2015.09 ..... ISBN 978-2-36183-219-3
 } moutelbv2015_07 _Melchior Ascaride           ?
-- .oS.    iA4    _WAGNER Roland C.           &Histoire du futur proche 2 [Int‚grale raisonn‚e - 2] ş2015
+- .oS.    iAx    _WAGNER Roland C.           &Histoire du futur proche 2 [Int‚grale raisonn‚e - 2] ş2015
 &                *DOKE Sara                  &
 &                *RUAUD Andr‚-Fran‡ois        
 : .oS.     R     _WAGNER Roland C.            Arch‚types incarn‚s ş2015
@@ -1017,16 +1058,17 @@ o MOUTELV     ?  2016.04 ..... ISBN 978-2-36183-244-5
 o MOUTELV     ?  2016.04 ..... ISBN 978-2-36183-245-2
 } noimg          _?                           ?
 - .o .     R     _QUEYSSI Laurent             Allison ş2016
-?o MOUTELV     ?  2016.04 ..... ISBN 978-2-36183-248-3
-?} noimg          _?                           ?
-?- .? .     R     _LAMARQUE Ludovic           &Je suis le sang ş2016
-?&                _PORTRAIT Pierre             
+o MOUTELV     ?  2016.04 ..... ISBN 978-2-36183-248-3
+} noimg          _?                           ?
+- .oPF     R     _LAMARQUE Ludovic           &Je suis le sang ş2016
+&                _PORTRAIT Pierre             
 o MOUTELV     ?  2016.05 ..... ISBN 978-2-36183-253-7
 } noimg          _Melchior Ascaride           ?
 - .oS.     R     _RANDALL Marta               L'p‚e de l'hiver ş1983 The Sword of Winter şTrad. SERVAL Nathalie
 o MOUTELV     ?  2016.05 ..... ISBN 978-2-36183-252-0
 } noimg          _Melchior Ascaride           ?
-!--- Reli‚ avec jaquette et une carte par Fredk - 17x21 - 23 euros - 352 pages
+!--- reli‚ - jaquette - 17x21 - 23 euros - 352 pages
+!--- Reli‚ avec jaquette et une carte par Fredk
 + MOUTELV     ?  2019.04 ..... ISBN 978-2-36183-551-4
 } noimg          _Melchior Ascaride           ?
 !--- Broch‚, 17x21 - 22 euros - 352 pages
@@ -1093,7 +1135,10 @@ o MOUTELV     ?  2017.05 ..... ISBN 978-2-36183-310-7
 - .o .     E     _RUAUD Andr‚-Fran‡ois        Sur les traces de Frankenstein ş2017
 o MOUTELV     ?  2017.06 ..... ISBN 978-2-36183-375-6
 } noimg          _S‚bastien Hayez             ?
-- .oY.     R     _JAWORSKI Jean-Philippe      Chasse royale - DeuxiŠme branche II [Rois du monde - 2.2] ş2017
++ MOUTELV     ?  2021.01 ..... ISBN 978-2-36183-685-6
+} noimg          _Melchior Ascaride           ?
+!--- GF - 165 x 210 - 352 pages
+- .oY.     R     _JAWORSKI Jean-Philippe      Les Grands ArriŠres [Chasse royale - 2][Rois du monde - 3] ş2017
 o MOUTELV     ?  2017.06 ..... ISBN 978-2-36183-362-6
 } noimg          _Melchior Ascaride           ?
 - .oF.     R     _CHEVALIER Chlo‚             Mers brumeuses [R‚cits du Demi-Loup - 3] ş2017
@@ -1146,8 +1191,12 @@ o MOUTELV     ?  2018.08 ..... ISBN 978-2-36183-505-7
 !------------------------
 o MOUTELV     ?  2019.01 ..... ISBN 978-2-36183-529-3
 } noimg          _S‚bastien Hayez             ?
-!--- Edition hardcover (reli‚, toil‚, cousu, gardes couleur, sous jaquette couleur) - 256 pages - 23 euros
-- .oY.     R     _JAWORSKI Jean-Philippe      Chasse royale - DeuxiŠme branche III [Rois du monde - 2.3] ş2019
+!--- reli‚ - jaquette - 256 pages - 23 euros
+!--- Edition hardcover (reli‚, toil‚, cousu, gardes couleur, sous jaquette couleur)
++ MOUTELV     ?  2021.01 ..... ISBN 978-2-36183-686-3
+} noimg          _Melchior Ascaride           ?
+!--- GF - 165 x 210 - 256 pages - 19,90 euros
+- .oY.     R     _JAWORSKI Jean-Philippe      Percer au fort [Chasse royale - 3][Rois du monde - 4] ş2019
 o MOUTELV     ?  2019.02 ..... ISBN 978-2-36183-532-3
 } noimg          _Melchior Ascaride           ?
 - .oS.     R     _TEXIER Nicolas              Op‚ration Jabberwock [Monts et merveilles - 2] ş2019
@@ -1185,22 +1234,31 @@ o MOUTELV     ?  2019.06 ..... ISBN 978-2-36183-597-2
 : .o .     N     _WAGNER Roland C.            L't‚ insens‚ ş2012
 o MOUTELV     ?  2019.06 ..... ISBN 978-2-36183-567-5
 } noimg          _Melchior Ascaride           ?
-- .o .     N4T   _JAWORSKI Jean-Philippe      Les miscellan‚es de Jean-Philippe Jaworski ş2019
-: .oF.     N     _JAWORSKI Jean-Philippe      Celles qui marchent dans l'ombre ş2004
-: .o .     N     _JAWORSKI Jean-Philippe      Ils p‚riront sur les plaines de Mimante ş2018
+- .oY.    kN4T   _JAWORSKI Jean-Philippe      Les Miscellan‚es de Jean-Philippe Jaworski ş2019
 : .oY.     N     _JAWORSKI Jean-Philippe      Pr‚quelle ş2009
+: .oF.     N     _JAWORSKI Jean-Philippe      Celles qui marchent dans l'ombre ş2004
 : .o .     N     _JAWORSKI Jean-Philippe      Kenningar ş2010
+: .o .     N     _JAWORSKI Jean-Philippe      Ils p‚riront sur les plaines de Mimante ş2018
 : .oY.     T     _JAWORSKI Jean-Philippe      Le petit coucher de Stanislas ş2019
-: .oY.     a     _JAWORSKI Jean-Philippe      Evasion di‚g‚tique ş2019
-: .oY.     a     _JAWORSKI Jean-Philippe      Le Seigneur des Anneaux, roman mythopo‚tique ş2019
+: .oY.     a     _JAWORSKI Jean-Philippe      Evasion di‚g‚tique ş2019
 : .oY.     a     _JAWORSKI Jean-Philippe      Julien Gracq aux lisiŠres de la fantasy ş2019
+: .oY.     a     _JAWORSKI Jean-Philippe      Le Seigneur des Anneaux, roman mythopo‚tique ş2019
+: .oY.     i     _JAWORSKI Jean-Philippe      Entretien avec Daria Heinbuch ş2019
+: .oY.     i     _JAWORSKI Jean-Philippe      Entretien avec Fabienne Matuszynski Campos ş2019
 o MOUTELV     ?  2019.08 ..... ISBN 978-2-36183-580-4
 } noimg          _Melchior Ascaride           ?
 - .oF.     R     _TARVEL Brice                Astar Mara - Les Chemins d'eau ş2019
+!------------------------
+!=== 2020
+!------------------------
 o MOUTELV     ?  2020.01 ..... ISBN 978-2-36183-565-1
 } noimg          _S‚bastien Hayez             ?
-!--- premier tirage, ® hardcover ¯ (reli‚, toil‚, cousu, gardes couleur, sous jaquette couleur) 17 x 21 cm - 288 pages - 23 euros
-- .oY.     R     _JAWORSKI Jean-Philippe      Chasse royale - DeuxiŠme branche IV [Rois du monde - 2.4] ş2020
+!--- premier tirage, ® hardcover ¯ (reli‚, toil‚, cousu, gardes couleur, sous jaquette couleur)
+!--- reli‚ - jaquette - 17 x 21 cm - 288 pages - 23 euros
++ MOUTELV     ?  2021.01 ..... ISBN 978-2-36183-687-0
+} noimg          _Melchior Ascaride           ?
+!--- GF - 165 x 210 - 288 pages - 19,90 euros
+- .oY.     R     _JAWORSKI Jean-Philippe      Cur‚e chaude [Chasse royale - 4][Rois du monde - 5] ş2020
 o MOUTELV     ?  2020.02 ..... ISBN 978-2-36183-618-4
 } noimg          _Melchior Ascaride           ?
 - .oY.     R     _CORREZE Jeanne Mariem       Le Chant des cavaliŠres ş2020
@@ -1209,7 +1267,7 @@ o MOUTELV     ?  2020.07 ..... ISBN 978-2-36183-622-1
 !--- 17 x 21 cm - 546 pages - 25 euros
 - .oF.     R     _CHEVALIER Chlo‚             Cl‚mente nous soit la pluie [R‚cits du Demi-Loup - 4] ş2020
 o MOUTELV     ?  2020.05 ..... ISBN 978-2-36183-620-7
-} noimg          _Melchior Ascaride           ?
+} moutelbv2020_03 _Melchior Ascaride           ?
 !--- 16,2 x 21 cm - 960 pages - 25,00 euros
 - .oF.     R5    _PAGEL Michel                La Com‚die inhumaine - Tome 1 [La Com‚die inhumaine] ş2020
 : .o .     R     _PAGEL Michel                Sylvana [La Com‚die inhumaine] ş1989
@@ -1222,7 +1280,7 @@ o MOUTELV     ?  2020.05 ..... ISBN 978-2-36183-620-7
 = .oF.     N     _PAGEL Michel                La Balade du Luna Park [La Com‚die inhumaine] ş1990
 : .oF.     R     _PAGEL Michel                Les Antipodes [La Com‚die inhumaine] ş2003
 o MOUTELV     ?  2020.05 ..... ISBN 978-2-36183-621-4
-} noimg          _Melchior Ascaride           ?
+} moutelbv2020_04 _Melchior Ascaride           ?
 - .oF.     R3    _PAGEL Michel                La Com‚die inhumaine - Tome 2 [La Com‚die inhumaine] ş2020
 !--- plus des nouvelles regroup‚s (… priori) sous "Les Fant“mes de la Rougem–riŠre"
 : .oF.     R     _PAGEL Michel                L'Ogresse [La Com‚die inhumaine] ş2000
@@ -1270,35 +1328,201 @@ o MOUTELV     ?  2020.11 ..... ISBN 978-2-36183-708-2
 } noimg          _Melchior Ascaride           ?
 !--- 14 x 18,2 cm - 112 pages - 12,00 euros
 - .oF.     r     _DAVID Oscar                 La SorciŠre du lac ş1930
+!------------------------
+!=== 2021
+!------------------------
+o MOUTELV     ?  2021.02 ..... ISBN 978-2-36183-690-0
+} noimg          _?                           ?
+!--- GF - 165 x 210 - 256 pages
+- .oS.     R     _CENDRE Basile               La Descente ou la chute ş2021
+o MOUTELV     ?  2021.02 ..... ISBN 978-2-36183-692-4
+} moutelbv022021_2 _Melchior Ascaride           ?
+!--- GF - 162 x 210 - 960 pages
+- .oS.    kR3    _VONARBURG Elisabeth         Tyrana‰l - Volume 1 [Tyrana‰l - 1/3] ş2021
+: .oS.     R     _VONARBURG Elisabeth         Les Rˆves de la mer [Tyrana‰l - 1] ş1996
+: .oS.     R     _VONARBURG Elisabeth         Le Jeu de la perfection [Tyrana‰l - 2] ş1996
+: .oS.     R     _VONARBURG Elisabeth         Mon frŠre l'ombre [Tyrana‰l - 3] ş1997
+o MOUTELV     ?  2021.02 ..... ISBN 978-2-36183-693-1
+} moutelbv022021_3 _Melchior Ascaride           ?
+!--- GF - 162 x 210 - 960 pages
+- .oS.     R2Nx  _VONARBURG Elisabeth         Tyrana‰l - Volume 2 [Tyrana‰l - 4/5] ş2021
+: .oS.     R     _VONARBURG Elisabeth         L'Autre Rivage [Tyrana‰l - 4] ş1997
+: .oS.     R     _VONARBURG Elisabeth         La Mer all‚e avec le soleil [Tyrana‰l - 5] ş1997
+!--- TBD si vraiment un sommaire de contes
+: .o .     R     _VONARBURG Elisabeth         Contes de Tyrana‰l [Tyrana‰l] ş1994
+o MOUTELV     ?  2021.03 ..... ISBN 978-2-36183-640-5
+} noimg          _Melchior Ascaride           ?
+!--- GF - 165 x 210 - 272 pages
+- .oS.     R     _MURPHY Pat                  La Ville peu de temps aprŠs ş1989 The City, Not Long After şTrad. MARCEL Patrick
+o MOUTELV     ?  2021.05 ..... ISBN 978-2-36183-731-0
+} noimg          _Daylon                      ?
+!--- GF - 165x210 - 352 pages
+- .oS.     R     _ROBINSON Kim Stanley        LisiŠre du Pacifique ş1990 Pacific Edge şTrad. LAMBADARIS St‚phan
+o MOUTELV     ?  2021.06 ..... ISBN 978-2-36183-735-8
+!--- TBD ISBN 978-2-36183-734-1 (source Moutons)
+} moutelbv062021_1 _?                           ?
+!--- GF - 165x210 - 976 pages - 25,00 euros
+- .o .    iRx    _DEPOTTE Jean-Philippe       Les Fant“mes du nouveau siŠcle ş2019
+!--- volume omnibus r‚unissant les deux premiers romans parus, les deux suivants in‚dits, et une nouvelle ‚galement in‚dite
+: .oF.     R     _DEPOTTE Jean-Philippe       La Soupe aux arlequins [Les Fant“mes du nouveau siŠcle - 1] ş2018
+: .oF.     R     _DEPOTTE Jean-Philippe       Le P‚pin de la reine Midasse [Les Fant“mes du nouveau siŠcle - 2] ş2019
+o MOUTELV     ?  2021.08 ..... ISBN 978-2-36183-637-5
+} noimg          _?                           ?
+!--- GF - 165x210 - 272 pages
+- .o .     R     _CHADOUR Nelly               Avant 7 jours ş2021
+o MOUTELV     ?  2021.08 ..... ISBN 978-2-36183-722-8
+} noimg          _Melchior Ascaride           ?
+!--- GF broch‚ - 165x210 - 480 pages
+- .o .     R     _PLATTEAU Stefan             Jaunes Yeux [Les Sentiers des astres - 4] ş2021
+o MOUTELV     ?  2021.09 ..... ISBN 978-2-36183-627-6
+} noimg          _?                           ?
+!--- GF - 165x210 - 256 pages
+- .oS.     R     _GALLART R‚my               &Le Pacte des esclavagistes ş2000-2021
+&                _WAGNER Roland C.            
+o MOUTELV     ?  2021.09 ..... ISBN 978-2-36183-628-3
+} noimg          _Melchior Ascaride           ?
+!--- GF - 165x210 - 272 pages
+- .o .     R     _TEXIER Nicolas              Les M‚nades ş2021
+o MOUTELV     ?  2021.09 ..... ISBN 978-2-36183-749-5
+} moutelbv2021_18 _Melchior Ascaride           ?
+!--- GF - 165x210 - 272 pages - 17 euros
+- .oS.    iA13   *CARRE Fabrice              &Robots [Hypermondes - 1] ş2021
+&                *MARCINKOWSKI Alexandre      
+! .o .     a     _SELSIS Frank                BrŠves histoires de l'exploration spatiale robotis‚e ş2021
+! .o .     p     _VAS-DEYRES Natacha          Nous nous battrons avec nos rˆves ş2022
+! .o .     p     _DUFOUR Catherine            Un ˆtre plus rationnel ş2022
+: .o .     N     _MALDIDIER Marthe            Hommes m‚caniques et pantins vivants (A la maniŠre de MaŒtre Hilarius) ş1925
+: .o .     N     _FAYE Estelle                Le sujet de l'exp‚rience  ş2022
+: .o .     N     _BINDER Eando                Moi, robot [Adam Link] ş1939 I, Robot şTrad. LAGOGUEY Herv‚
+: .o .     N     _BINDER Eando                Le ProcŠs d'Adam Link [Adam Link] ş1939 The Trial of Adam Link, Robot şTrad. LAGOGUEY Herv‚
+: .o .     N     _TEXIER Nicolas              L'U26 et l'oubli ş2022
+: .o .     N     _WAGNER Roland C.            Les Trois Lois de la sexualit‚ robotique ş1982
+: .o .     N     _LUCE Christine              B‚b‚ d'enfer ş2022
+: .o .     N     _PAGEL Michel                Fragment perdu du voyage en orient ş2022
+: .o .     N     _JEURY Michel                Machine donne ! ş1988
+: .o .     N     _QUEYSSI Laurent             grand lunaire ş2022
+: .o .     N     _DERYS Gaston                L'Automate ş2022
+: .o .     N     _CHADOUR Nelly               Lilith d‚chaŒn‚e ş2022
+o MOUTELL     ?  2021.10 ..... ISBN 978-2-36183-695-5
+} noimg          _Melchior Ascaride           ?
+!--- GF - Reli‚ - 165x210 - 480 pages
+- .o .     R     _PLATTEAU Stefan             Jaunes Yeux [Les Sentiers des astres - 4] ş2021
+o MOUTELL     ?  2021.10 ..... ISBN 978-2-36183-738-9
+} moutelbv102021_1 _Melchior Ascaride           Erwan Seure le Bihan 
+!--- GF - 178 x 254 - 1296 pages - 79 euros
+!--- Edition luxe - Tirage limit‚ 3000 exemplaires
+- .oY.     R5    _JAWORSKI Jean-Philippe      Rois du monde - Branches 1 & 2 [Rois du monde - 1/5] ş2021
+: .oY.     R     _JAWORSKI Jean-Philippe      Mˆme pas mort [Rois du monde - 1] ş2013
+: .oY.     R     _JAWORSKI Jean-Philippe      De meute … mort [Chasse royale - 1][Rois du monde - 2] ş2015
+: .oY.     R     _JAWORSKI Jean-Philippe      Les Grands ArriŠres [Chasse royale - 2][Rois du monde - 3] ş2017
+: .oY.     R     _JAWORSKI Jean-Philippe      Percer au fort [Chasse royale - 3][Rois du monde - 4] ş2019
+: .oY.     R     _JAWORSKI Jean-Philippe      Cur‚e chaude [Chasse royale - 4][Rois du monde - 5] ş2020
+!------------------------
+!=== 2022
+!------------------------
+o MOUTELV     ?  2022.01 ..... ISBN 978-2-36183-773-0
+} noimg          _Melchior Ascaride           ?
+!--- GF - 162x210 - 368 pages - 22 euros
+- .oS.     R     _PAGEL Michel                L'quilibre des paradoxes ş1999
+o MOUTELC     ?  2022.01 ..... ISBN 978-2-36183-772-3
+} noimg          _Henri Thiriet               ?
+!--- GF - Reli‚ - 162x210 - 368 pages - 25 euros
+- .oS.     R     _LE ROUGE Gustave            Le Prisonnier de la planŠte Mars [Robert Darvel - 1] ş1908
+o MOUTELV     ?  2022.02 ..... ISBN 978-2-36183-777-8
+} noimg          _Melchior Ascaride           ?
+!--- GF - 162x210 - 224 pages - 19,90 euros
+- .oF.     R     _NIKOLAVITCH Alex            L'ancelot avan‡ait en armes ş2022
+o MOUTELL     ?  2022.02 ..... ISBN 978-2-36183-776-1
+} noimg          _Melchior Ascaride           ?
+!--- MF - Reli‚ - 140x182 - 256 pages - 19 euros
+!--- Tirage limit‚ 2000 exemplaires
+- .oY.    kN5T   _JAWORSKI Jean-Philippe      Les Miscellan‚es de Jean-Philippe Jaworski ş2019-2022
+: .oF.     N     _JAWORSKI Jean-Philippe      Celles qui marchent dans l'ombre ş2004
+: .o .     N     _JAWORSKI Jean-Philippe      Ils p‚riront sur les plaines de Mimante ş2018
+: .oY.     N     _JAWORSKI Jean-Philippe      Pr‚quelle ş2009
+: .o .     N     _JAWORSKI Jean-Philippe      Kenningar ş2010
+: .o .     N     _JAWORSKI Jean-Philippe      Implacable Clio ş2021
+: .oY.     T     _JAWORSKI Jean-Philippe      Le petit coucher de Stanislas ş2019
+: .oY.     a     _JAWORSKI Jean-Philippe      Evasion di‚g‚tique ş2019
+: .oY.     a     _JAWORSKI Jean-Philippe      Le Seigneur des Anneaux, roman mythopo‚tique ş2019
+: .oY.     a     _JAWORSKI Jean-Philippe      Julien Gracq aux lisiŠres de la fantasy ş2019
+: .o .     a     _JAWORSKI Jean-Philippe      Jeux de r“le celtiques ş2022
+: .o .     a     _JAWORSKI Jean-Philippe      Qui sont les Ents ? ş2022
+: .oY.     i     _JAWORSKI Jean-Philippe      Entretien avec Daria Heinbuch ş2019
+: .oY.     i     _JAWORSKI Jean-Philippe      Entretien avec Fabienne Matuszynski Campos ş2019
+o MOUTELV     ?  2022.03 ..... ISBN 978-2-36183-780-8
+} noimg          _Melchior Ascaride           ?
+!--- GF - 162x210 - 464 pages - 23 euros
+- .oS.     R     _HEYLBROECK Julien           Lazaret 44 ş2022
+o MOUTELV     ?  2022.03 ..... ISBN 978-2-36183-781-5
+} noimg          _Philippe Caza               ?
+!--- GF - 162x210 - 272 pages - 19,90 euros
+!--- Nouvelle ‚dition compl‚t‚e de chapitres in‚dits.
+- .oS.     R     _WAGNER Roland C.            Les Derniers Jours de mai [Les Derniers Jours de mai - 1/2] ş1989-2022
+o MOUTELV     ?  2022.06 ..... ISBN 978-2-36183-798-3
+} noimg          _Melchior Ascaride           ?
+!--- GF - 162x210 - 320 pages - 24 euros
+- .oS.     R     _STAPLEDON Olaf              Cr‚ateur d'‚toiles ş1937 Starmaker şTrad. DHAYER L‚o
+o MOUTELV     ?  2022.08 ..... ISBN 978-2-36183-818-8
+} noimg          _Melchior Ascaride           ?
+!--- GF - 162x210 - 464 pages - 25 euros
+- .oY.     R     _EBORY Elisabeth             La Famille de l'hiver et le roi-f‚e ş2022
+o MOUTELV     ?  2022.09 ..... ISBN 978-2-36183-815-7
+} noimg          _Melchior Ascaride           ?
+!--- GF - 162x210 - 280 pages - 23 euros
+- .oF.     R     _TEXIER Nicolas              L'Ombre … Berlin ş2022
+o MOUTELV     ?  2022.09 ..... ISBN 978-2-36183-821-8
+} noimg          _Lionel Cazaux               ?
+!--- GF - 162x210 - 392 pages
+- .oS.    iAx    *NICOLAS Lo‹c               &Utopies [Hypermondes - 2] ş2022
+&                *VAS-DEYRES Natacha          
+
 
 !-----------------------------------------------------------------------------
-_ MOUTELD Les Moutons Electriques, BibliothŠque dessin‚e
+_ MOUTELD Les Moutons Electriques - BibliothŠque dessin‚e
+!-----------------------------------------------------------------------------
+!--- Collection de romans graphiques, m‚lant textes et illustrations
 !-----------------------------------------------------------------------------
 o MOUTELD     ?  2019.05 ..... ISBN 978-2-36183-560-6
 } noimg          _Melchior Ascaride           Melchior Ascaride
-!--- Roman graphique, m‚lant textes et illustrations
 !--- Poche - 140 x 182 mm - 152 pages - 15,00 euros
+!--- Roman graphique, m‚lant textes et illustrations
 - .oY.     N     _BETAN Julien               &Ce qui vient la nuit ş2019
 &                _RIVERO Mathieu              
 o MOUTELD     ?  2020.01 ..... ISBN 978-2-36183-614-6
 } noimg          _S‚bastien Hayez             S‚bastien Hayez
-!--- Roman graphique, m‚lant textes et illustrations
 !--- Poche - 140 x 182 mm - 144 pages - 15,00 euros
+!--- Roman graphique, m‚lant textes et illustrations
 - .oS.     r     _DOUAY Dominique             Frantz ş2020
 o MOUTELD     ?  2020.01 ..... ISBN 978-2-36183-615-3
 } noimg          _Melchior Ascaride           Melchior Ascaride
-!--- Roman graphique, m‚lant textes et illustrations
 !--- Poche - 140 x 182 mm - 144 pages - 15,00 euros
+!--- Roman graphique, m‚lant textes et illustrations
 - .oY.     N     _JAWORSKI Jean-Philippe      D‚solation ş2011
 o MOUTELD     ?  2020.08 ..... ISBN 978-2-36183-630-6
 } noimg          _Arnaud Cremet               Arnaud Cr‚met
-!--- Roman graphique, m‚lant textes et illustrations
 !--- Poche - 140 x 182 mm - 256 pages - 15,00 euros
+!--- Roman graphique, m‚lant textes et illustrations
 - .oY.     R     _CALVO Sabrina              &Sunk ş2005
 &                _COLIN Fabrice               
+o MOUTELD     ?  2021.03 ..... ISBN 978-2-36183-688-7
+} noimg          _S‚bastien Hayez             S‚bastien Hayez
+!--- MF - 140 x 183 - 140 pages
+!--- Roman graphique, m‚lant textes et illustrations
+- .o .     N     _JAWORSKI Jean-Philippe      Le Service des dames ş2007
+o MOUTELD     ?  2021.03 ..... ISBN 978-2-36183-719-8
+} noimg          _Melchior Ascaride           Melchior Ascaride
+!--- MF - 141 x 182 - 152 pages
+!--- Roman graphique, m‚lant textes et illustrations
+- .o .     r     _ASCARIDE Melchior           Eurydice d‚chaŒn‚e ş2021
+o MOUTELD     ?  2021.03 ..... ISBN 978-2-36183-720-4
+} noimg          _Greg Vezon                  Greg Vezon
+!--- MF - 140 x 190 - 144 pages
+!--- Roman graphique, m‚lant textes et illustrations
+- .o .     r     _JEURY Michel                La Fˆte du changement ş1975
 
 !-----------------------------------------------------------------------------
-_ MOUTELn Les Moutons Electriques, BibliothŠque num‚rique
+_ MOUTELn Les Moutons Electriques - BibliothŠque num‚rique
 !-----------------------------------------------------------------------------
 o MOUTELn     ?  2020.01 ..... ISBN 978-2-36183-373-2
 } noimg          _?                           ?
@@ -1316,8 +1540,8 @@ o MOUTELn     ?  2020.09 ..... ISBN 978-2-36183-675-7
 } noimg          _Melchior Ascaride           ?
 - .oS.     R     _PAGEL Michel                La SirŠne de l'espace ş1999
 o MOUTELn     ?  2020.09 ..... ISBN 978-2-36183-672-6
-} noimg          _S‚bastien Hayez             ?
-- .oFK    iN9    _RUAUD Andr‚-Fran‡ois        Le Gar‡on dor‚ ş2010-2020
+} moutelnum2020_04 _S‚bastien Hayez             ?
+- .oFK     N9    _RUAUD Andr‚-Fran‡ois        Le Gar‡on dor‚ ş2010-2020
 : .oFK     N     _RUAUD Andr‚-Fran‡ois        Le Gar‡on dor‚ ş2010
 : .oFK     N     _RUAUD Andr‚-Fran‡ois        Une larme rouge ş2010
 : .oFK     N     _RUAUD Andr‚-Fran‡ois        D'or et de ciel ş2001
@@ -1327,7 +1551,7 @@ o MOUTELn     ?  2020.09 ..... ISBN 978-2-36183-672-6
 : .oFK     N     _RUAUD Andr‚-Fran‡ois        L'Ange sur le banc ş1999
 : .oFK     N     _RUAUD Andr‚-Fran‡ois        Les Fant“mes du canal ş2003
 o MOUTELn     ?  2020.10 ..... ISBN 978-2-36183-674-0
-} noimg          _Melchior Ascaride           ?
+} moutelnum2020_09 _Melchior Ascaride           ?
 - .oY.    iRN2   _HEYLBROECK Julien           Le Dernier Vodianoi ş2020
 : .oY.     R     _HEYLBROECK Julien           Le Dernier Vodianoi ş2015
 o MOUTELn     ?  2020.10 ..... ISBN 978-2-36183-676-4
@@ -1337,7 +1561,7 @@ o MOUTELn     ?  2020.10 ..... ISBN 978-2-36183-677-1
 } noimg          _Melchior Ascaride           ?
 - .oF.     R     _CHADOUR Nelly               Les Aventures de Diane d'Aventin ş2013-2020
 o MOUTELn     ?  2020.10 ..... ISBN 978-2-36183-678-8
-} noimg          _Melchior Ascaride           ?
+} moutelnum102020_1 _Melchior Ascaride           ?
 - .oS.     N6    _WARFA Dominique             Lointaines et limitrophes [Un imperceptible vacarme - 1] ş2013
 : .oS.     N     _WARFA Dominique             Un bal sur Tempˆte ş2000
 : .o .     N     _WARFA Dominique             La Danse de l'aigle ş1994-1996
@@ -1346,37 +1570,53 @@ o MOUTELn     ?  2020.10 ..... ISBN 978-2-36183-678-8
 : .o .     N     _WARFA Dominique             Cruelle cr‚ation ş1995
 : .o .     N     _WARFA Dominique             Les LumiŠres de Bellaire ş1991
 o MOUTELn     ?  2020.11 ..... ISBN 978-2-36183-696-2
-} noimg          _?                           ?
-- .oF.    iR2    _KOULIKOV Olav               Ariel ş2020
-: .oS.     R     _RUAUD Andr‚-Fran‡ois        Des ombres sous la pluie ş1999
+} moutelnum2020_11 _?                           ?
+- .oS.     R2    _KOULIKOV Olav               Ariel [Spica] ş2006
+: .oS.     r     _KOULIKOV Olav               Des ombres sous la pluie [Spica] ş1999
+: .oS.     R     _KOULIKOV Olav               Des feux sous la lumiŠre [Spica] ş2006
 o MOUTELn     ?  2020.11 ..... ISBN 978-2-36183-697-9
 } noimg          _Melchior Ascaride           ?
 - .oY.     R     _PAGEL Michel                Les Mages de Sumer [Les Immortels - 1] ş2006
 o MOUTELn     ?  2020.11 ..... ISBN 978-2-36183-699-3
-} noimg          _Melchior Ascaride           ?
-- .oS.     N5    _WARFA Dominique             Quantiques et conscience [Un imperceptible vacarme - 2] ş2013
+} moutelnum112020_3 _Melchior Ascaride           ?
+- .oS.     N5    _WARFA Dominique             Quantiques et conscience [Un imperceptible vacarme - 2] ş2013-2016
 : .o .     N     _WARFA Dominique             La Bulle d'Eben-Ezer ş1996
 : .o .     N     _WARFA Dominique             Le Danseur absolu ş1997
 : .oS.     N     _WARFA Dominique             Wayne et les quanta ş2004
 : .o .     N     _WARFA Dominique             Une saison sang et marine ş2000
 : .o .     N     _WARFA Dominique             L'cume de Prague ş2013
-?o MOUTELn     ?  2020.12 ..... ISBN ?
-?} noimg          _Melchior Ascaride           ?
-?- .oS.     N7    _WARFA Dominique             Imminentes et dissemblables [Un imperceptible vacarme - 3] ş2013
-?: .o .     N     _WARFA Dominique             Un imperceptible vacarme ş1992
-?: .oS.     N     _WARFA Dominique             La Voile verte ş1998
-?: .o .     N     _WARFA Dominique             La Crosse et l'‚p‚e ş1995
-?: .o .     N     _WARFA Dominique             Que les nuages ne tuent pas les hommes ş1982
-?: .o .     N     _WARFA Dominique             L'Acad‚mie des liqueurs rares ş2013
-?: .o .     N     _WARFA Dominique             Comme un visage de vieil indien burin‚ ş1985
-?: .oF.     N     _WARFA Dominique             Errance, peut-ˆtre ş2001
-?o MOUTELn     ?  2020.12 ..... ISBN ?
-?} noimg          _Melchior Ascaride           ?
-?- .oY.     R     _PAGEL Michel                Les Mages du Nil [Les Immortels - 2] ş2006
+o MOUTELn     ?  2020.12 ..... ISBN 978-2-36183-698-6
+} noimg          _Melchior Ascaride           ?
+- .oY.     R     _PAGEL Michel                Les Mages du Nil [Les Immortels - 2] ş2006
+o MOUTELn     ?  2020.12 ..... ISBN 978-2-36183-700-6
+} moutelvn122020_1 _Melchior Ascaride           ?
+- .oS.     N7    _WARFA Dominique             Imminentes et dissemblables [Un imperceptible vacarme - 3] ş2013-2016
+: .o .     p     _WARFA Dominique             Avant-propos - Un apprentissage de la science-fiction ş2016
+: .o .     N     _WARFA Dominique             Un imperceptible vacarme ş1992
+: .oS.     N     _WARFA Dominique             La Voile verte ş1998
+: .o .     N     _WARFA Dominique             La Crosse et l'‚p‚e ş1995
+: .o .     N     _WARFA Dominique             Que les nuages ne tuent pas les hommes ş1982
+: .o .     N     _WARFA Dominique             L'Acad‚mie des liqueurs rares ş2013
+: .o .     N     _WARFA Dominique             Comme un visage de vieil indien burin‚ ş1985
+: .oF.     N     _WARFA Dominique             Errance, peut-ˆtre ş2001
+o MOUTELn     ?  2021.01 ..... ISBN 978-2-36183-709-9
+} noimg          _?                           ?
+- .oS.     R     _PAGEL Michel                Cin‚terre ş1998
+o MOUTELn     ?  2021.01 ..... ISBN 978-2-36183-710-5
+} moutelvn012021_2 _?                           ?
+- .oS.     N6    _WARFA Dominique             Ult‚rieures et noires [Un imperceptible vacarme - 4] ş2013-2016
+: .o .     p     _WARFA Dominique             Avant-propos - Un apprentissage de la science-fiction ş2016
+: .o .     N     _WARFA Dominique             Parlez-moi des acides gras poly-insatur‚s ş1977
+: .o .     N     _WARFA Dominique             Aux couleurs d'un rivage blond ş1977
+: .oS.     N     _WARFA Dominique             Rituel pour un homme claustr‚ ş1978
+: .o .     N     _WARFA Dominique             Camion rouge, d‚sespoir d'un soir ş1992
+: .o .     N     _WARFA Dominique             Lagune morte ş1998
+: .o .     N     _WARFA Dominique             Dragan ş2013
 
 !-----------------------------------------------------------------------------
-_ MOUTELL Les Moutons Electriques, BibliothŠque Volta‹que, Tirage de Luxe
-_ MOUTELT Les Moutons Electriques, Tirage de tˆte
+_ MOUTELL Les Moutons Electriques - BibliothŠque Volta‹que - Tirage de Luxe
+_ MOUTELC Les Moutons Electriques - BibliothŠque Volta‹que - Collector
+_ MOUTELT Les Moutons Electriques - Tirage de tˆte
 !-----------------------------------------------------------------------------
 o MOUTELL     ?  2008.01 ..... ISBN 978-2-915793-..-.
 } moutons_volt01h _?                           N
@@ -1405,7 +1645,7 @@ o MOUTELL     ?  2008.01 ..... ISBN 978-2-915793-..-.
 : .oS.     N     _JEURY Michel                Vivre le temps ş1977
 : .oS.     N     _JEURY Michel                Une fenˆtre sur la guerre ş1980
 : .oS.     N     _JEURY Michel                La Disparition du conseiller Wordy ş1976
-: .oS.     N     _JEURY Michel                Le Voyage de la morille ş1978
+: .oS.     N     _JEURY Michel                Le Voyage de la morille ş1980
 : .oS.     N     _JEURY Michel                La Bonne ‚toile ş1996
 : .oS.     N     _JEURY Michel                Maxima la Kickaha ş1985
 : .oS.     N     _JEURY Michel                Le Vol de l'hydre ş1981
@@ -1413,7 +1653,7 @@ o MOUTELL     ?  2008.01 ..... ISBN 978-2-915793-..-.
 : .oS.     N     _JEURY Michel                La Vall‚e du temps profond ş1985
 o MOUTELL     ?  2008.04 ..... ISBN 978-2-915793-..-.
 } moutons_volt03h _?                           N
-- .o .    kN19   _COLIN Fabrice               Comme des fant“mes ş2008
+- .oF.    kN19   _COLIN Fabrice               Comme des fant“mes ş2008
 : .o .     p     _CLARO Christophe            L'Oeil de l'ami ş2008
 : .o .     a     _COLIN Fabrice               Pr‚ambule ş2008
 : .o .     a     _COLIN Fabrice               Jalons ş2008
@@ -1444,7 +1684,7 @@ o MOUTELL     ?  2008.04 ..... ISBN 978-2-915793-..-.
 : .o .     o     _CALVO David                 Viens dans l'oubli ş2008
 !--- 2 textes et 1 postface suppl‚mentaires par rapport … l'‚dition normale :
 : .o .     N     _COLIN Fabrice               Au fil des jours ş2008
-: .o .     O     _COLIN Fabrice               Nous ‚tions jeunes dans l'‚t‚ immobile ş2008
+: .o .     O     _COLIN Fabrice               Nous ‚tions jeunes dans l'‚t‚ immobile ş2007
 : .o .     o     _COLIN Fabrice               Ante mortem ş2008
 o MOUTELL     ?  2009.02 ..... ISBN 978-2-915793-49-9
 } moutons_volt09 _?                           N
@@ -1523,7 +1763,7 @@ o MOUTELT     ?  2017.07 ..... ISBN 978-2-36183-405-0
 : .o .     N     _DAU Nathalie                Cosmogonie ş2017
 : .o .     N     _DAU Nathalie                Berceau d'‚cailles ş2017
 : .o .     P     _DAU Nathalie                L'nigme de Namuh ş2017
-: .o .     N     _DAU Nathalie                L'p‚e-sorciŠre ş2017
+: .o .     N     _DAU Nathalie                L'p‚e-SorciŠre ş2017
 : .o .     N     _DAU Nathalie                Ton visage et mon coeur ş2011
 : .o .     r     _DAU Nathalie                Vicier l'azur ş2017
 : .o .     P     _DAU Nathalie                Le Cantique de Kernann ş2017
@@ -1542,7 +1782,7 @@ o MOUTELL     ?  2018.05 ..... ISBN 978-2-36183-458-6
 !-----------------------------------------------------------------------------
 !--- BibliothŠque des miroirs
 !-----------------------------------------------------------------------------
-_ MOUT_BM Les Moutons Electriques, BibliothŠque des miroirs
+_ MOUT_BM Les Moutons Electriques - BibliothŠque des miroirs
 !-----------------------------------------------------------------------------
 o MOUT_BM     ?  2004.10 ..... ISBN 2-915793-00-X
 } noimg          _?                           ?
@@ -1585,7 +1825,7 @@ o MOUT_BM     7  2010.08 ..... ISBN 978-2-36183-036-6
 : .o .     a     _RUAUD Andr‚-Fran‡ois        Bestiaire fantastique ş2010
 : .o .     a     _RUAUD Andr‚-Fran‡ois        Dictionnaire ş2010
 : .o .     N     _PERRAULT Charles            Le Chat bott‚ ş1697
-: .o .     a     _SWANN Thomas Burnett        Le Temps des dauphins ş? The Dolphin Days şTrad. RUAUD Andr‚-Fran‡ois
+: .o .     a     _SWANN Thomas Burnett        Le Temps des dauphins ş1972 The Dolphin Days şTrad. RUAUD Andr‚-Fran‡ois
 : .o .     N     _AULNOY Madame d'            La Grenouille bienfaisante ş1698
 : .o .     a     _SWANN Thomas Burnett        Pan et ses amis ş? Pan and His Friends şTrad. RUAUD Andr‚-Fran‡ois
 : .o .     N     _ANDERSEN Hans Christian     Le Rossignol ş1843 Nattergalen
@@ -1663,7 +1903,7 @@ o MOUT_BM     ?  2015.06 ..... ISBN 978-2-36183-212-4
 - .oF.     E     _PROUST TANGUY Julie         SorciŠres ! - Le Sombre Grimoire du f‚minin ş2015
 o MOUT_BM     ?  2017.03 ..... ISBN 978-2-36183-332-9
 } noimg          _Melchior Ascaride           ?
-!--- Nouvelle ‚dition des Nombreuses vies de Cthulhu, compl‚t‚e d'une iconographie nouvelle + un cahier couleur.
+!--- Nouvelle ‚dition des Nombreuses Vies de Cthulhu, compl‚t‚e d'une iconographie nouvelle + un cahier couleur.
 - .oF.     E     _MARCEL Patrick              Cthulhu ! ş2009-2017
 o MOUT_BM     ?  2019.09 ..... ISBN 978-2-36183-512-5
 } noimg          _?                           ?
@@ -1683,20 +1923,32 @@ o MOUT_BM     ?  2020.09 ..... ISBN 978-2-36183-639-9
 !---  GF - 210 x 210 mm - 272 pages - 26,90 euros
 - .oS.     E     _NIKOLAVITCH Alex            Mythe & super-h‚ros ş2011-2020
 o MOUT_BM     ?  2020.11 ..... ISBN 978-2-36183-642-9
-} noimg          _Melchior Ascaride           ?
+} moutelbibmir2020_2 _Melchior Ascaride           ?
 !---  GF - 210 x 253 mm - 368 pages - 39,90 euros
 - .oF.    iEx    *DOKE Sara                   Celtes ! - Panorama de l'imaginaire celtique ş2020
+o MOUT_BM     ?  2022.10 ..... ISBN 978-2-36183-817-1
+} noimg          _Melchior Ascaride           ?
+!--- GF - 210x210 - 304 pages - 31,90 euros
+- .oS.     E     *VAS-DEYRES Natacha         &Science-fiction ! Voyage dans la modernit‚ ş2022
+&                *LEHMAN Serge               &
+&                *RUAUD Andr‚-Fran‡ois       
+o MOUT_BM     ?  2022.11 ..... ISBN 978-2-36183-826-3
+} noimg          _Melchior Ascaride           ?
+!--- GF - 210x210 - 272 pages - 31,90 euros
+!--- Nouvelle ‚dition en couleur
+- .oF.     E     _PROUST TANGUY Julie         SorciŠres ! ş2018
+
 
 
 !-----------------------------------------------------------------------------
-_ MOUT_BR Les Moutons Electriques, La BibliothŠque Rouge
+_ MOUT_BR Les Moutons Electriques - La BibliothŠque Rouge
 !-----------------------------------------------------------------------------
 !--- La bibliothŠque rouge
 !--- Biographies de personnages imaginaires
 !-----------------------------------------------------------------------------
 o MOUT_BR     1  2005.11 ..... ISBN 2-915793-10-7
 } noimg          _?                           ?
-- .pP.     N4    *RUAUD Andr‚-Fran‡ois        Les Nombreuses vies d'ArsŠne Lupin ş2005
+- .pP.     N4    *RUAUD Andr‚-Fran‡ois        Les Nombreuses Vies d'ArsŠne Lupin ş2005
 : .!P.     N     _BOUCHER Anthony             ArsŠne Lupin contre le colonel Linnaus ş2005
 : .!P.     N     _LOFFICIER Jean-Marc        &Qui n'‚chappe pas au coup de tonnerre ? ş2005
 &                _LOFFICIER Randy             
@@ -1705,7 +1957,7 @@ o MOUT_BR     1  2005.11 ..... ISBN 2-915793-10-7
 : .oP.     N     _HELIOT Johan                Le Rˆve d'Amerigo Vespucci ş2002
 o MOUT_BR     2  2005.11 ..... ISBN 2-915793-11-5
 } noimg          _?                           ?
-- .xP.     N5    *RUAUD Andr‚-Fran‡ois       &Les Nombreuses vies de Sherlock Holmes ş2005
+- .xP.     N5    *RUAUD Andr‚-Fran‡ois       &Les Nombreuses Vies de Sherlock Holmes ş2005
 &                *MAUMEJEAN Xavier
 : .!P.     N     _PAGEL Michel                L'Index bris‚ ş2005
 : .!P.     N     _MARCEL Patrick              Le Dernier Secret du siŠcle ş2005
@@ -1715,26 +1967,26 @@ o MOUT_BR     2  2005.11 ..... ISBN 2-915793-11-5
 : .!P.     N     _NICODEME B‚atrice           Le Repentir de Sherlock Holmes ş?
 o MOUT_BR     7  2008.06 ..... ISBN 978-2-915793-54-3
 } noimg          _?                           ?
-- .oF.     E     _BALLESTER Isabelle         &Les Nombreuses vies de Dracula ş2008
+- .oF.     E     _BALLESTER Isabelle         &Les Nombreuses Vies de Dracula ş2008
 &                _RUAUD Andr‚-Fran‡ois        
 o MOUT_BR     8  2008.06 ..... ISBN 978-2-915793-55-0
 } noimg          _?                           ?
-- .oS.     E     _RUAUD Andr‚-Fran‡ois        Les Nombreuses vies de Frankenstein ş2008
+- .oS.     E     _RUAUD Andr‚-Fran‡ois        Les Nombreuses Vies de Frankenstein ş2008
 o MOUT_BR    10  2008.10 ..... ISBN 978-2-915793-52-9
 } noimg          _?                           ?
-- .oY.     E     _SANAHUJAS Simon             Les Nombreuses vies de Conan ş2008
+- .oY.     E     _SANAHUJAS Simon             Les Nombreuses Vies de Conan ş2008
 : .o .     N     _KLOETZER Laurent            Le Chant du krall de la chŠvre ş2008
 ?o MOUT_BR    14  2009.04 ..... ISBN 978-2-915793-66-6
 ?} noimg          _?                           ?
-?- .x .     E     _BAUDOU Jacques              Les Nombreuses vies de Miss Marple ş2009
+?- .x .     E     _BAUDOU Jacques              Les Nombreuses Vies de Miss Marple ş2009
 o MOUT_BR    15  2009.09 ..... ISBN 978-2-915793-79-6
 } noimg          _?                           ?
-- .oF.     E     _MARCEL Patrick              Les Nombreuses vies de Cthulhu ş2009
+- .oF.     E     _MARCEL Patrick              Les Nombreuses Vies de Cthulhu ş2009
 : .o .     N     _CANNON Peter H.             Des chats, des rats et Bertie Wooster ş1990 Cats, Rats, and Bertie Wooster şTrad. MARCEL Patrick
-: .o .     N     _NEWMAN Kim                  Le Grand ‚veil ş1991 The Big Flash şTrad. MARCEL Patrick
+: .o .     N     _NEWMAN Kim                  Le Grand ‚veil ş1991 The Big Fish şTrad. MARCEL Patrick
 o MOUT_BR    17  2009.11 ..... ISBN 978-2-915793-81-9
 } noimg          _?                           ?
-- .oF.     E     _RUAUD Andr‚-Fran‡ois        Les Nombreuses vies de Harry Potter ş2009
+- .oF.     E     _RUAUD Andr‚-Fran‡ois        Les Nombreuses Vies de Harry Potter ş2009
 o MOUT_BR     ?  2013.xx ..... ISBN 978-2-915793-..-.
 } noimg          _?                           ?
 - .oF.     E     _RUAUD Andr‚-Fran‡ois        Londres des failles ş2013
@@ -1745,7 +1997,7 @@ o MOUT_BR     ?  2013.xx ..... ISBN 978-2-915793-..-.
 : .oS.     N     _FOURNEL Victor              Paris futur ş1865
 
 !-----------------------------------------------------------------------------
-_ MOUT_RV Les Moutons Electriques, Le Rayon Vert
+_ MOUT_RV Les Moutons Electriques - Le Rayon Vert
 !-----------------------------------------------------------------------------
 !--- La bibliothŠque rouge
 !--- Classiques oubli‚s de la litt‚rature populaire
@@ -1757,7 +2009,7 @@ o MOUT_RV     2  2013.06 ..... ISBN 978-2-36183-103-5
 - .oSA    kR3    _THEVENIN Ren‚              &Les Chasseurs d'hommes et autres r‚cits conjecturaux ş2013
 &                *LEHMAN Serge                
 : .o .     R     _THEVENIN Ren‚               Le Collier de l'idole de fer ş1912
-: .o .     R     _THEVENIN Ren‚               Les Chasseurs d'hommes ş1929-1930
+: .o .     R     _THEVENIN Ren‚               Les Chasseurs d'hommes ş1930
 : .o .     R     _THEVENIN Ren‚               Sur l'autre face du monde ş1935
 : .o .     o     _BUARD Jean-Luc              Ren‚ Th‚venin (1877-1967) Romancier et journaliste extraordinaire ş2013
 o MOUT_RV     5  2013.11 ..... ISBN 978-2-36183-120-4
@@ -1848,9 +2100,9 @@ o MOUT_RV     ?  2018.03 ..... ISBN 978-2-36183-404-3
 !--- Volume ‚dit‚ et postfac‚ par Jean-Luc Buard
 
 !-----------------------------------------------------------------------------
-_ MOUT_SE Les Moutons Electriques, Les Saisons de l'‚trange
+_ MOUT_SE Les Moutons Electriques - Les Saisons de l'‚trange
 _ SAIS_ET Les Saisons de l'‚trange
-_ SAIS_EL Les Saisons de l'‚trange, Edition Collector, Tirage Luxe
+_ SAIS_EL Les Saisons de l'‚trange - Edition Collector, Tirage Luxe
 !-----------------------------------------------------------------------------
 !--- D'abord ‚dit‚s sous les moutons en 2017
 !---  puis maison ind‚pendante en 2018
@@ -1869,7 +2121,7 @@ o MOUT_SE     ?  2018.04 ..... ISBN 978-2-36183-456-2
 - .oF.     R     _PENEAUD Fran‡ois            Les Compagnons de Roland [Une aventure de Gabriel Daci‚] ş2018
 o MOUT_SE     ?  2018.04 ..... ISBN 978-2-36183-454-8
 } noimg          _Melchior Ascaride           ?
-- .oF.     R     _KOULIKOV Viat & Olav        M‚moires d'un d‚tective … vapeur [Bodichiev] ş2010-2018
+- .oF.     r     _KOULIKOV Viat & Olav        M‚moires d'un d‚tective … vapeur [Bodichiev] ş2010-2018
 o MOUT_SE     ?  2018.06 ..... ISBN 978-2-36183-465-4
 } noimg          _Melchior Ascaride           ?
 !--- Id. La Ville-Vampire
@@ -1884,7 +2136,7 @@ o SAIS_ET     ?  2019.01 ..... ISBN 978-2-36183-527-9
 : .o .     N     _PENEAUD Fran‡ois            La Poup‚e vengeresse ş2019
 : .o .     N     _KOULIKOV Viat & Olav        P‚ril en l'Œle ş2019
 : .o .     N     _HEYLBROECK Julien           On dirait qu'elles pleurent aussi ş2019
-: .o .     N     _LISHI Cat Merry             D‚fi … l'Institut ş2019
+: .o .     N     _LISHI Cat Merry             D‚fi … l'Institut [Imago] ş2019
 : .o .     N     _GUILLEMOT Lazare            Laylatan fi Tunis ş2019
 o SAIS_ET     ?  2019.03 ..... ISBN 978-2-36183-550-7
 } noimg          _Melchior Ascaride           ?
@@ -1897,7 +2149,8 @@ o SAIS_ET     ?  2019.03 ..... ISBN 978-2-490972-01-2
 - .o .     R     _CHADOUR Nelly               Hante voltige ş2019
 o SAIS_EL     ?  2019.12 ..... ISBN 978-2-490972-11-1
 } noimg          _Melchior Ascaride           ?
-!--- couverture rigide avec jaquette, 15 x 21 cm  - 192 pages - 30 euros
+!--- Reli‚ couverture rigide avec jaquette
+!--- reli‚ - jaquette - 15 x 21 cm  - 192 pages - 30 euros
 - .o .     R     _CHADOUR Nelly               Hante voltige ş2019
 o SAIS_ET     ?  2019.03 ..... ISBN 978-2-490972-00-5
 } noimg          _Melchior Ascaride           ?
@@ -1905,15 +2158,17 @@ o SAIS_ET     ?  2019.03 ..... ISBN 978-2-490972-00-5
 - .o .     R     _LISHI Cat Merry             La Conjuration des fous [Imago] ş2019
 o SAIS_EL     ?  2019.12 ..... ISBN 978-2-490972-12-8
 } noimg          _Melchior Ascaride           ?
-!--- Reli‚ couverture rigide avec jaquette, 15 x 21 cm - 176 pages - 30 euros
+!--- Reli‚ couverture rigide avec jaquette
+!--- reli‚ - jaquette - 15 x 21 cm - 176 pages - 30 euros
 - .o .     R     _LISHI Cat Merry             La Conjuration des fous [Imago] ş2019
 o SAIS_ET     ?  2019.04 ..... ISBN 978-2-490972-02-9
 } noimg          _Melchior Ascaride           ?
-- .oF.     R     _KOULIKOV Viat & Olav        Souvenirs d'un d‚tective … vapeur [Bodichiev] ş2019
+- .oF.     r     _KOULIKOV Viat & Olav        Souvenirs d'un d‚tective … vapeur [Bodichiev] ş2019
 o SAIS_EL     ?  2019.12 ..... ISBN 978-2-490972-09-8
 } noimg          _Melchior Ascaride           ?
-!--- Reli‚ couverture rigide avec jaquette, 15 x 21 cm - 240 pages - 35 euros
-- .oF.     R     _KOULIKOV Viat & Olav        Souvenirs d'un d‚tective … vapeur [Bodichiev] ş2019
+!--- Reli‚ couverture rigide avec jaquette
+!--- reli‚ - jaquette - 15 x 21 cm - 240 pages - 35 euros
+- .oF.     r     _KOULIKOV Viat & Olav        Souvenirs d'un d‚tective … vapeur [Bodichiev] ş2019
 o SAIS_ET     ?  2019.11 ..... ISBN 978-2-490972-20-3
 } noimg          _Melchior Ascaride           ?
 !--- Livre reli‚ cartonn‚ de luxe - 17.8 x 25.4 cm - 904 pages - 50 euros
@@ -1921,7 +2176,7 @@ o SAIS_ET     ?  2019.11 ..... ISBN 978-2-490972-20-3
 : .oF.     R     _GUILLEMOT Lazare            115ø vers l'‚pouvante ş2018
 : .oF.     R     _PENEAUD Fran‡ois            Les Compagnons de Roland [Une aventure de Gabriel Daci‚] ş2018
 : .oF.     R     _FEVAL Paul                  Ann Radcliffe contre les vampires ş1875
-: .oF.     R     _KOULIKOV Viat & Olav        M‚moires d'un d‚tective … vapeur [Bodichiev] ş2010-2018
+: .oF.     r     _KOULIKOV Viat & Olav        M‚moires d'un d‚tective … vapeur [Bodichiev] ş2010-2018
 : .oS.     R     _WAGNER Roland C.            Le Nombril du monde [Agence Arkham - 2] ş1997
 : .oF.     R     _DEPOTTE Jean-Philippe       La Soupe aux arlequins [Les Fant“mes du nouveau siŠcle - 1] ş2018
 o SAIS_ET     ?  2019.12 ..... ISBN 978-2-490972-07-4
@@ -1933,23 +2188,26 @@ o SAIS_ET     ?  2019.12 ..... ISBN 978-2-490972-05-0
 - .oF.     R     _GUILLEMOT Lazare            L'Ombre du roi en jaune ş2019
 o SAIS_EL     ?  2019.12 ..... ISBN 978-2-490972-10-4
 } noimg          _Melchior Ascaride           ?
-!--- Reli‚ ouverture rigide avec jaquette, 15 x 21 cm - 160 pages - 30 euros
+!--- Reli‚ ouverture rigide avec jaquette
+!--- reli‚ - jaquette - 15 x 21 cm - 160 pages - 30 euros
 - .oF.     R     _GUILLEMOT Lazare            L'Ombre du roi en jaune ş2019
 o SAIS_ET     ?  2019.12 ..... ISBN 978-2-490972-04-3
 } noimg          _Melchior Ascaride           ?
 !--- Broch‚ - 14 x 18.2 cm - 226 pages - 15 euros
-- .oF.     R     _HEYLBROECK Julien           Le Cartel de sang ş2019
+- .oF.     R     _HEYLBROECK Julien           Le Cartel de sang [El Hijo del Hierofante] ş2019
 o SAIS_EL     ?  2019.12 ..... ISBN 978-2-490972-10-4
 } noimg          _Melchior Ascaride           ?
-!--- Reli‚ ouverture rigide avec jaquette, 15 x 21 cm - 226 pages - 30 euros
-- .oF.     R     _HEYLBROECK Julien           Le Cartel de sang ş2019
+!--- Reli‚ ouverture rigide avec jaquette
+!--- reli‚ - jaquette - 15 x 21 cm - 226 pages - 30 euros
+- .oF.     R     _HEYLBROECK Julien           Le Cartel de sang [El Hijo del Hierofante] ş2019
 o SAIS_ET     ?  2019.12 ..... ISBN 978-2-490972-06-7
 } noimg          _Melchior Ascaride           ?
 !--- Broch‚ - 14 x 18.2 cm - 264 pages - 15 euros
 - .oF.     R     _DEPOTTE Jean-Philippe       Le P‚pin de la reine Midasse [Les Fant“mes du nouveau siŠcle - 2] ş2019
 o SAIS_EL     ?  2019.12 ..... ISBN 978-2-490972-13-5
 } noimg          _Melchior Ascaride           ?
-!--- Reli‚ ouverture rigide avec jaquette, 15 x 21 cm - 264 pages - 40 euros
+!--- Reli‚ ouverture rigide avec jaquette
+!--- reli‚ - jaquette - 15 x 21 cm - 264 pages - 40 euros
 - .oF.     R     _DEPOTTE Jean-Philippe       Le P‚pin de la reine Midasse [Les Fant“mes du nouveau siŠcle - 2] ş2019
 o SAIS_ET     ?  2019.12 ..... ISBN 978-2-490972-03-6
 } noimg          _Melchior Ascaride           ?
@@ -1957,7 +2215,8 @@ o SAIS_ET     ?  2019.12 ..... ISBN 978-2-490972-03-6
 - .oF.     R     _PENEAUD Fran‡ois            Le Prince ‚ternel [Une aventure de Gabriel Daci‚] ş2018
 o SAIS_EL     ?  2019.12 ..... ISBN 978-2-490972-14-2
 } noimg          _Melchior Ascaride           ?
-!--- Reli‚ ouverture rigide avec jaquette, 15 x 21 cm - 240 pages - 40 euros
+!--- Reli‚ ouverture rigide avec jaquette
+!--- reli‚ - jaquette - 15 x 21 cm - 240 pages - 40 euros
 - .oF.     R     _PENEAUD Fran‡ois            Le Prince ‚ternel [Une aventure de Gabriel Daci‚] ş2018
 o SAIS_ET     ?  2019.01 ..... ISBN 978-2-490972-14-2
 } noimg          _Melchior Ascaride           ?
@@ -1965,7 +2224,7 @@ o SAIS_ET     ?  2019.01 ..... ISBN 978-2-490972-14-2
 : .o .     N     _CHADOUR Nelly               Le Petit J‚sus en culotte de mi-lourd ş2019
 : .o .     N     _PENEAUD Fran‡ois            Mais qui a tu‚ le PŠre No‰l ? ş2019
 : .o .     N     _KOULIKOV Viat & Olav        Le Tumulte de No‰l ş2019
-: .o .     N     _LISHI Cat Merry             Ho, ho, ho, Joyeux Nowel ! ş2019
+: .o .     N     _LISHI Cat Merry             Ho, ho, ho, Joyeux Nowel ! [Imago] ş2019
 : .o .     N     _GUILLEMOT Lazare            Lazare : Aux environs de minuit ş2019
 o SAIS_ET     ?  2020.02 ..... ISBN 978-2-490972-32-6
 } noimg          _Melchior Ascaride           ?
@@ -1983,7 +2242,7 @@ o SAIS_ET     ?  2020.02 ..... ISBN 978-2-490972-36-4
 } noimg          _Melchior Ascaride           ?
 - .oF.     r     _CHADOUR Nelly               Anne, Emily & Charlotte Bront‰ contre la momie [La Ligue des ‚crivaines extraordinaires] ş2020
 o SAIS_ET     ?  2020.02 ..... ISBN 978-2-490972-37-1
-} noimg          _Melchior Ascaride           ?
+} saisetr022020_6 _Melchior Ascaride           ?
 !--- reli‚ cartonn‚ de luxe - 17.8 x 25.4 cm - 426 pages - 40 euros
 - .oF.     r5    ****                         La Ligue des ‚crivaines extraordinaires - L'int‚grale [La Ligue des ‚crivaines extraordinaires] ş2020
 : .oF.     r     _LISHI Cat Merry             Mary Shelley contre Frankenstein [La Ligue des ‚crivaines extraordinaires] ş2020
@@ -1998,13 +2257,274 @@ o SAIS_ET     ?  2019.11 ..... ISBN 978-2-490972-30-2
 : .oF.     R     _GUILLEMOT Lazare            L'Ombre du roi en jaune ş2019
 : .oF.     R     _PENEAUD Fran‡ois            Le Prince ‚ternel [Une aventure de Gabriel Daci‚] ş2018
 : .o .     R     _CHADOUR Nelly               Hante voltige ş2019
-: .oF.     R     _KOULIKOV Viat & Olav        Souvenirs d'un d‚tective … vapeur [Bodichiev] ş2019
+: .oF.     r     _KOULIKOV Viat & Olav        Souvenirs d'un d‚tective … vapeur [Bodichiev] ş2019
 : .oS.     R     _DENIS Sylvie                L'Invit‚ de verre [Agence Arkham - 4] ş1997
 : .oF.     R     _DEPOTTE Jean-Philippe       Le P‚pin de la reine Midasse [Les Fant“mes du nouveau siŠcle - 2] ş2019
-: .oF.     R     _HEYLBROECK Julien           Le Cartel de sang ş2019
+: .oF.     R     _HEYLBROECK Julien           Le Cartel de sang [El Hijo del Hierofante] ş2019
 : .o .     R     _LISHI Cat Merry             La Conjuration des fous [Imago] ş2019
 o SAIS_ET     ?  2020.05 ..... ISBN 978-2-36183-619-1
 } noimg          _Melchior Ascaride           ?
 !--- 14 x 18,2 cm - 256 pages - 17 euros
 - .o .     R     _STABLEFORD Brian M.         Le Chiffre de Cthulhu [Auguste Dupin - 4] ş2011 The Cthulhu Encryption: A Romance of Piracy şTrad. RABIER Catherine
+o SAIS_ET     ?  2020.11 ..... ISBN 978-2-490972-23-4
+} noimg          _Melchior Ascaride           ?
+!--- 140 x 182 mm - 208 pages - 15 euros
+- .oF.     R     _HEYLBROECK Julien           La Vengeance des Santas Muertes [El Hijo del Hierofante] ş2020
+o SAIS_EL     ?  2022.11 ..... ISBN 978-2-490972-54-8
+} noimg          _Melchior Ascaride           ?
+!--- 150 x 210 mm - 168 pages - 30 euros - reli‚ - jaquette
+!--- Tirage de tˆte : grand format collector, couverture rigide avec jaquette
+- .oF.     R     _HEYLBROECK Julien           La Vengeance des Santas Muertes [El Hijo del Hierofante] ş2020
+o SAIS_ET     ?  2020.11 ..... ISBN 978-2-490972-46-3
+} noimg          _Melchior Ascaride           ?
+!--- 140 x 182 mm - 176 pages - 15 euros
+- .oF.     R     _TEXIER Nicolas              Deadcop - Les atlantes sont parmis nous ş2020
+o SAIS_EL     ?  2020.11 ..... ISBN 978-2-490972-53-1
+} noimg          _Melchior Ascaride           ?
+!--- 150 x 210 mm - 134 pages - 30 euros - reli‚ - jaquette
+!--- Tirage de tˆte : grand format collector, couverture rigide avec jaquette
+- .oF.     R     _TEXIER Nicolas              Deadcop - Les atlantes sont parmis nous ş2020
+o SAIS_ET     ?  2020.11 ..... ISBN 978-2-490972-48-7
+} noimg          _Melchior Ascaride           ?
+!--- 140 x 182 - 160 pages - 15 euros
+- .o .     R     _CENDRE Basile               Les Enfants du b‚ton ş2020
+o SAIS_EL     ?  2020.11 ..... ISBN 978-2-490972-52-4
+} noimg          _Melchior Ascaride           ?
+!--- 150 x 210 - 124 pages - 30 euros - reli‚ - jaquette
+!--- Tirage de tˆte : grand format collector, couverture rigide avec jaquette
+- .o .     R     _CENDRE Basile               Les Enfants du b‚ton ş2020
+o SAIS_ET     ?  2020.11 ..... ISBN 978-2-490972-47-0
+} noimg          _Melchior Ascaride           ?
+!--- 140 x 182 - 160 pages - 15 euros
+- .oF.     R     _KOULIKOV Viat & Olav        Menace sur l'Empire [Bodichiev] ş2020
+o SAIS_EL     ?  2020.11 ..... ISBN 978-2-490972-51-7
+} noimg          _Melchior Ascaride           ?
+!--- 150 x 210 - 196 pages - 30 euros - reli‚ - jaquette
+!--- Tirage de tˆte : grand format collector, couverture rigide avec jaquette
+- .oF.     R     _KOULIKOV Viat & Olav        Menace sur l'Empire [Bodichiev] ş2020
+o SAIS_ET     ?  2020.11 ..... ISBN 978-2-490972-49-4
+} noimg          _Melchior Ascaride           ?
+!--- 140 x 182 - 160 pages - 15 euros
+- .oS.     R     _MONDIOT Vincent             Toute entr‚e est d‚finitive [Colonie Kitej - 1] ş2020
+o SAIS_EL     ?  2020.11 ..... ISBN 978-2-490972-55-5
+} noimg          _Melchior Ascaride           ?
+!--- 150 x 210 - 128 pages - 30 euros - reli‚ - jaquette
+!--- Tirage de tˆte : grand format collector, couverture rigide avec jaquette
+- .oS.     R     _MONDIOT Vincent             Toute entr‚e est d‚finitive [Colonie Kitej - 1] ş2020
+o SAIS_ET     ?  2021.05 ..... ISBN 978-2-490972-57-9
+} noimg          _Melchior Ascaride           ?
+!--- 140 x 182 - 176 pages - 15 euros
+- .o .     R     _LISHI Cat Merry             La Cabale des miroirs [Imago] ş2020
+o SAIS_ET     ?  2021.09 ..... ISBN 978-2-490972-63-0
+} noimg          _Melchior Ascaride           ?
+!--- 140 x 182 - 128 pages - 12 euros
+- .oF.     r     _GOURRIER Laurianne          Selma Lagerl”f contre les trolls [La Ligue des ‚crivaines extraordinaires] ş2021
+o SAIS_ET     ?  2021.09 ..... ISBN 978-2-490972-64-7
+} noimg          _Melchior Ascaride           ?
+!--- 140 x 182 - 128 pages - 12 euros
+- .oF.     r     _LAGOUJE Sushina             Virginia Woolf contre Rhan-Tegoth [La Ligue des ‚crivaines extraordinaires] ş2021
+o SAIS_ET     ?  2021.09 ..... ISBN 978-2-490972-65-4
+} noimg          _Melchior Ascaride           ?
+!--- 140 x 182 - 128 pages - 12 euros
+- .oF.     r     _SPAD George                 Ren‚e Dunan contre les mutants [La Ligue des ‚crivaines extraordinaires] ş2021
+o SAIS_ET     ?  2021.10 ..... ISBN 978-2-490972-69-2
+} noimg          _Mathieu Leveder             ?
+!--- 140 x 182 - 134 pages - 10 euros
+- .oS.    _N5    _MONDIOT Vincent            &Afterwave [Colonie Kitej - 1.5] ş2021
+&                _DENIS Elodie                
+: .o .   9 N     _MONDIOT Vincent             La Voie du mod‚rateur [Colonie Kitej - 1.18,5] ş2021
+: .o .  37 N     _MONDIOT Vincent             Kitej Plage [Colonie Kitej - 1.2] ş2021
+: .o .  57 N     _MONDIOT Vincent             Afterwave [Colonie Kitej - 1.3] ş2021
+: .o .  79 N     _DENIS Elodie                Dentaculaire [Colonie Kitej - 1.4] ş2021
+: .o . 123 N     _MONDIOT Vincent             Ni juge ni bourreau [Colonie Kitej - 2.1,5] ş2021
+o SAIS_ET     ?  2021.10 ..... ISBN 978-2-490972-67-8
+} noimg          _Melchior Ascaride           ?
+!--- 140 x 182 - 176 pages - 15 euros
+- .oS.     R     _MONDIOT Vincent             Elections et ex‚cutions [Colonie Kitej - 2] ş2021
+o SAIS_ET     ?  2021.10 ..... ISBN 978-2-490972-68-5
+} noimg          _Melchior Ascaride           ?
+!--- 140 x 182 - 208 pages - 15 euros
+- .oS.     R     _MONDIOT Vincent             Bienvenue sur Kitej [Colonie Kitej - 3] ş2021
+o SAIS_ET     ?  2021.10 ..... ISBN 978-2-490972-70-8
+} noimg          _Melchior Ascaride           ?
+!--- 140 x 182 - 204 pages - 15 euros
+- .oF.     R     _HEYLBROECK Julien           Notre seigneur l'‚corch‚ [El Hijo del Hierofante] ş2021
+o SAIS_EL     ?  2022.01 ..... ISBN 978-2-490972-88-3
+} saisetr2022_03 _Melchior Ascaride           ?
+!--- 178 x 254 - 544 pages - 50 euros
+!--- Tirage cartonn‚ de luxe
+- .oF.     R4    _KOULIKOV Viat & Olav        Bodichiev, d‚tective … vapeur - L'int‚grale [Bodichiev] ş2022
+: .oF.     r     _KOULIKOV Viat & Olav        M‚moires d'un d‚tective … vapeur [Bodichiev] ş2010-2018
+: .oF.     r     _KOULIKOV Viat & Olav        Souvenirs d'un d‚tective … vapeur [Bodichiev] ş2019
+: .oF.     r     _KOULIKOV Viat & Olav        Confidences d'un d‚tective … vapeur [Bodichiev] ş2021
+: .oF.     R     _KOULIKOV Viat & Olav        Menace sur l'Empire [Bodichiev] ş2020
+o SAIS_EL     ?  2022.01 ..... ISBN 978-2-490972-80-7
+} noimg          _Melchior Ascaride           ?
+!--- 178 x 254 - 484 pages - 50 euros
+!--- Tirage cartonn‚ de luxe
+- .oS.     R3N6  _MONDIOT Vincent             Colonie Kitej - L'int‚grale [Colonie Kitej] ş2022
+: .oS.     R     _MONDIOT Vincent             Toute entr‚e est d‚finitive [Colonie Kitej - 1] ş2020
+: .o .     N     _MONDIOT Vincent             Afterwave [Colonie Kitej - 1.3] ş2021
+: .oS.    _N5    _MONDIOT Vincent            &Afterwave [Colonie Kitej - 1.5] ş2021
+&                _DENIS Elodie                
+= .o .     N     _MONDIOT Vincent             La Voie du mod‚rateur [Colonie Kitej - 1.18,5] ş2021
+= .o .     N     _MONDIOT Vincent             Kitej Plage [Colonie Kitej - 1.2] ş2021
+= .o .     N     _MONDIOT Vincent             Afterwave [Colonie Kitej - 1.3] ş2021
+= .o .     N     _DENIS Elodie                Dentaculaire [Colonie Kitej - 1.4] ş2021
+= .o .     N     _MONDIOT Vincent             Ni juge ni bourreau [Colonie Kitej - 2.1,5] ş2021
+: .oS.     R     _MONDIOT Vincent             Elections et ex‚cutions [Colonie Kitej - 2] ş2021
+: .oS.    _N5    _MONDIOT Vincent             D.L.C. [Colonie Kitej - 2.5] ş2021
+= .o .     N     _MONDIOT Vincent             A l'ombre des onomas sauvages [Colonie Kitej - 2.2] ş2021
+= .o .     N     _MONDIOT Vincent             Date limite de consommation [Colonie Kitej - 2.3] ş2021
+= .o .     N     _MONDIOT Vincent             Downloadable content [Colonie Kitej - 2.4] ş2021
+= .o .     N     _MONDIOT Vincent             Grimper vers le bas [Colonie Kitej - 2.5] ş2021
+= .o .     N     _MONDIOT Vincent             L.E.X. [Colonie Kitej - -35] ş2021
+: .oF.     R     _MONDIOT Vincent             Bienvenue sur Kitej [Colonie Kitej - 3] ş2021
+o SAIS_EL     ?  2022.01 ..... ISBN 978-2-490972-81-4
+} saisetr2022_01 _Melchior Ascaride           ?
+!--- 178 x 254 - 516 pages - 50 euros
+!--- Tirage cartonn‚ de luxe
+- .oF.     R3N   _HEYLBROECK Julien           El Hijo del Hierofante - Int‚grale [El Hijo del Hierofante] ş2022
+: .oF.     R     _HEYLBROECK Julien           Le Cartel de sang [El Hijo del Hierofante] ş2019
+: .oF.     N     _HEYLBROECK Julien           Interlude [El Hijo del Hierofante] ş2022
+: .oF.     R     _HEYLBROECK Julien           La Vengeance des Santas Muertes [El Hijo del Hierofante] ş2020
+: .oF.     R     _HEYLBROECK Julien           Notre seigneur l'‚corch‚ [El Hijo del Hierofante] ş2021
+o SAIS_EL     ?  2022.01 ..... ISBN 978-2-490972-82-1
+} noimg          _Melchior Ascaride           ?
+!--- 178 x 254 - 304 pages - 50 euros
+!--- Tirage cartonn‚ de luxe
+- .oF.    kR2N2  _LISHI Cat Merry             La Conjuration des fous [Imago] ş2022
+: .o .     N     _LISHI Cat Merry             D‚fi … l'Institut [Imago] ş2019
+: .o .     R     _LISHI Cat Merry             La Conjuration des fous [Imago] ş2019
+: .o .     N     _LISHI Cat Merry             Ho, ho, ho, Joyeux Nowel ! [Imago] ş2019
+: .o .     R     _LISHI Cat Merry             La Cabale des miroirs [Imago] ş2020
+o SAIS_EL     ?  2022.01 ..... ISBN 978-2-490972-84-5
+} saisetr2022_02 _Melchior Ascaride           ?
+!--- 178 x 254 - 192 pages - 40 euros
+!--- Tirage cartonn‚ de luxe
+- .oS.     R2    _DENIS Sylvie               &Agence Arkham - L'int‚grale [Agence Arkham] ş2022
+&                _WAGNER Roland C.            
+: .oS.     R     _WAGNER Roland C.            Le Nombril du monde [Agence Arkham - 2] ş1997
+: .oS.     R     _DENIS Sylvie                L'Invit‚ de verre [Agence Arkham - 4] ş1997
+o SAIS_EL     ?  2022.01 ..... ISBN 978-2-490972-76-0
+} noimg          _Melchior Ascaride           ?
+!--- 178 x 254 - 278 pages - 40 euros
+!--- Reli‚
+- .oF.    kr3    ****                         La Ligue des ‚crivaines extraordinaires - La relŠve [La Ligue des ‚crivaines extraordinaires] ş2022
+: .oF.     r     _GOURRIER Laurianne          Selma Lagerl”f contre les trolls [La Ligue des ‚crivaines extraordinaires] ş2021
+: .oF.     r     _LAGOUJE Sushina             Virginia Woolf contre Rhan-Tegoth [La Ligue des ‚crivaines extraordinaires] ş2021
+: .oF.     r     _SPAD George                 Ren‚e Dunan contre les mutants [La Ligue des ‚crivaines extraordinaires] ş2021
 
+
+!-----------------------------------------------------------------------------
+_ MOUT_CA Les Moutons Electriques - Courant Alternatif
+!-----------------------------------------------------------------------------
+!--- Label / Collection Courant alternatif - Litt‚rature engag‚e et enrag‚e
+!-----------------------------------------------------------------------------
+o MOUT_CA     ?  2021.04 ..... ISBN 978-2-36183-705-1
+} noimg          _Melchior Ascaride           ?
+!--- MF - 132x190 - 176 pages
+- .oS.     R     _KURTNESS J. D.              Aquariums ş2019
+o MOUT_CA     ?  2021.04 ..... ISBN 978-2-36183-703-7
+} noimg          _Melchior Ascaride           ?
+!--- MF - 132x190 - 128 pages
+- .oS.     r     _SATYAMURTHY Jayaprakash     La Force de l'eau ş2019 Strength of Water şTrad. CAPITAN Lise
+o MOUT_CA     ?  2021.04 ..... ISBN 978-2-36183-704-4
+} noimg          _Melchior Ascaride           ?
+!--- MF - 132x190 - 240 pages
+- .oS.     R     _DAYLON                      M‚caniques sauvages ş2021
+o MOUT_CA     ?  2021.04 ..... ISBN 978-2-36183-702-0
+} noimg          _Melchior Ascaride           ?
+!--- MF - 132x190 - 496 pages
+- .oS.     R     _GROS-DUBOIS Christophe      Paradis, ann‚e z‚ro ş2021
+o MOUT_CA     ?  2021.10 ..... ISBN 978-2-36183-757-0
+} noimg          _Melchior Ascaride           ?
+!--- MF - 132x190 - 240 pages
+- .oS.     R     _LABARRE Nicolas             Warhol Invaders ş2021
+o MOUT_CA     ?  2022.04 ..... ISBN 978-2-36183-792-1
+} noimg          _Melchior Ascaride           ?
+!--- MF - 132x190 - 224 pages - 19 euros
+- .? .     R     _DENIS Elodie                Agentique ş2022
+o MOUT_CA     ?  2022.04 ..... ISBN 978-2-36183-791-4
+} noimg          _Melchior Ascaride           ?
+!--- MF - 132x190 - 240 pages - 19 euros
+- .oF.    kN12   _IBRAHIM Abubakar Adam       Les Arbres qui murmurent ş2012 The Whispering Trees şTrad. CAPITAN Lise
+: .o .     N     _IBRAHIM Abubakar Adam       La P‚nombre et la brume ş2012 Twilight and Mist 
+: .o .     N     _IBRAHIM Abubakar Adam       L'Enclave de Baba Idi ş2012 Baba Idi's Enclave
+: .o .     N     _IBRAHIM Abubakar Adam       La SorciŠre anglaise aux yeux de chat ş2012 The Cat-eyed English Witch
+: .o .     N     _IBRAHIM Abubakar Adam       Les arbres qui murmurent ş2012 The Whispering Trees
+: .o .     N     _IBRAHIM Abubakar Adam       ChŠre maman ş2012 Dear Mother
+: .o .     N     _IBRAHIM Abubakar Adam       Un beau matin ş2012 One Fine Morning
+: .o .     N     _IBRAHIM Abubakar Adam       Tourner la page ş2012 CLosure
+: .o .     N     _IBRAHIM Abubakar Adam       Appels nocturnes ş2012 Night Calls
+: .o .     N     _IBRAHIM Abubakar Adam       Promesse de fid‚lit‚ ş2012 Pledge of Fidelity 
+: .o .     N     _IBRAHIM Abubakar Adam       L'‚boueur ş2012 The Garbage Man
+: .o .     N     _IBRAHIM Abubakar Adam       Le Tourbillon ş2012 The Whirlwind
+: .o .     N     _IBRAHIM Abubakar Adam       Le Cri de la sorciŠre ş2012 Cry of the Witch
+
+
+!-----------------------------------------------------------------------------
+_ MOLTFIC Moltinus, Fiction - l'imaginaire radical
+!-----------------------------------------------------------------------------
+!--- Fiction, l'imaginaire radical
+!-----------------------------------------------------------------------------
+o MOUTELF     1  2021.03 ..... ISBN 978-2-490972-56-2
+} noimg          _Jef Benech'                 Willozz, Francis Saint-Martin & Christine Luce
+!--- 148 x 210 mm - 128 pages - 13,50 euros
+- .oS.     M6    ****                         Fiction, l'imaginaire radical nø 1 ş2021
+: .o .     N     _PAGEL Michel                Le Petit Calmar ş2021
+: .o .     N     _MONDIOT Vincent             Lucky ş2021
+: .o .     N     _VILA Christian              Bras de fer ş2021
+: .o .     N     _DENIS Elodie                Nautilus somniens ş2021
+: .o .     N     _GEHA Thomas                 Un univers piquet‚ de rouilles ş2021
+: .o .     N     _FREMION Yves                Petite mort, petite amie... ş1977
+o MOUTELF     2  2021.08 ..... ISBN 978-2-490972-62-3
+} noimg          _Jef Benech'                 Thierry Cardinet, Francis Saint-Martin & Christine Luce
+!--- 148 x 210 mm - 128 pages - 13,50 euros
+- .oS.     M7    ****                         Fiction, l'imaginaire radical nø 2 ş2021
+: .oS.     N     _VONARBURG Elisabeth         La Carte du tendre ş1986
+: .oS.     N     _LENN Jonas                  Ni tout … fait une autre... ş2021
+: .o .     N     _WITZ Jocelyn                Good Vibrations ş2021
+: .o .     N     _LEBOULANGER Camille         La GrŠve ş2021
+: .o .     N     _OUADAH Rachid               B‚b‚ ş2021
+: .o .     N     _RENARD Maurice              L'quivoque Aventure ş?
+: .o .     N     _SBRETANA Louise             Trois cauchemars ş2021
+o MOUTELF     3  2022.02 ..... ISBN 978-2-490972-89-0
+} noimg          _Jef Benech'                 Francis Saint-Martin, Christine Luce
+!--- 148 x 210 mm - 128 pages - 13,50 euros
+- .oS.     M5    ****                         Fiction, l'imaginaire radical nø 3 ş2022
+: .o .     N     _PARIS Jean                  MatiŠre noire et farfafouilles ş2022
+: .o .     N     _KOULIKOV Olav               Mort au jardin des iris ş2022
+: .o .     N     _STRONG Louise J.            Une histoire incroyable ş2022
+: .o .     N     _LUCE Christine              06:45 ş2022
+: .o .     T     _PAGEL Michel                Startuffe ş2022
+o MOUTELF     4  2022.12 ..... ISBN 978-2-490972-97-5
+} noimg          _Jef Benech'                 Brian Merrant, Francis Saint-Martin, Line Claire
+!--- 148 x 210 mm - 128 pages - 13,90 euros
+- .oS.     M7    ****                         Fiction, l'imaginaire radical nø 4 ş2022
+: .o .     N     _LABARRE Nicolas             Face … la mer d'acier ş2022
+: .o .     N     _QUEMENER Sonia              L'EspŠce qui raconte des histoires ş2022
+: .o .     N     _FAZI Rapha‰l                Dorsale ş2022
+: .o .     N     _REY Timoth‚e                Glumgorr, barbare organis‚ ş2022
+: .o .     N     _LAGOUJE Sushina             Le Sang ş2022
+: .o .     N     _TORSIAC Nicolas de          Le Club des gentilshommes peu ordinaires ş2022
+: .? .     N     _BARBUSSE Henri              Leur chemin ş?
+: .! .     N     _BARBUSSE Henri              Hallali ş1914
+
+
+
+!-----------------------------------------------------------------------------
+_ MOUT_BF Les Moutons Electriques - Le Bateau-Feu
+!-----------------------------------------------------------------------------
+o MOUT_BF     ?  2022.05 ..... ISBN 978-2-36183-801-0
+} noimg          _Melchior Ascaride           ?
+!--- MF - 130x190 - 496 pages - 24 euros
+- .oV.     R     _BISHOP Michael              La Montagne aux licornes ş1988 Unicorn Mountain şTrad. MARCEL Patrick
+o MOUT_BF     ?  2022.05 ..... ISBN 978-2-36183-803-4
+} noimg          _Melchior Ascaride           ?
+!--- MF - 130x190 - 128 pages - 15 euros
+- .oF.     r     _CADY Jack                   La Nuit o— nous avons enterr‚ Road Dog ş1993 The Night We Buried Road Dog şTrad. DAVOUST Lionel
+o MOUT_BF     ?  2022.05 ..... ISBN 978-2-36183-804-1
+} noimg          _Melchior Ascaride           ?
+!--- MF - 130x190 - 160 pages - 19 euros
+- .oF.     R     _DUBOIS Pierre               La Promesse des lampions ş2022

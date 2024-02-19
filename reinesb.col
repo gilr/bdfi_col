@@ -1,14 +1,14 @@
 !-----------------------------------------------------------------------------
-_ RB_ESP  Reines-Beaux, Espace
-_ RB_ESPn Reines-Beaux, Espace (num‚rique)
-_ RB_MYS  Reines-Beaux, MystŠre
-_ RB_MYSn Reines-Beaux, MystŠre (num‚rique)
-_ RB_MIR  Reines-Beaux, Mirage
-_ RB_MIRn Reines-Beaux, Mirage (num‚rique)
+_ RB_ESP  Reines-Beaux - Espace
+_ RB_ESPn Reines-Beaux - Espace [num‚rique]
+_ RB_MYS  Reines-Beaux - MystŠre
+_ RB_MYSn Reines-Beaux - MystŠre [num‚rique]
+_ RB_MIR  Reines-Beaux - Mirage
+_ RB_MIRn Reines-Beaux - Mirage [num‚rique]
 !-----------------------------------------------------------------------------
 !--- Rachet‚ par Bookmark en 2019
 !-----------------------------------------------------------------------------
-_ RB_MXMB Bookmark, Reines-Beaux
+_ RB_MXMB Bookmark - Reines-Beaux
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
@@ -35,7 +35,7 @@ o RB_ESP      ?  2018.11 ..... ISBN 978-2-39006-358-2
 - .oS.     R     _FILLION Christelle          B6-244 þ2018
 o RB_ESP      ?  2018.11 ..... ISBN 978-2-39006-352-0
 } noimg          _?                           ?
-- .oF.     R     _PRICE Jordan Castillo       La vie est g‚niale [L'Imnaginaire - 3] þ2015 Life is Awesome þTrad. MAHE Violette
+- .oF.     R     _PRICE Jordan Castillo       La vie est g‚niale [L'Imnaginaire - 3] þ2015 Life Is Awesome þTrad. MAHE Violette
 o RB_ESP      ?  2018.11 ..... ISBN 978-2-39006-369-8
 } noimg          _Lou Harper                  ?
 - .oS.     R     _ARDEN Blaine D.             Smith & Jones þ2012 Aliens, Smith & Jones þTrad. PERTUS Axelle
@@ -50,10 +50,8 @@ o RB_MYS      ?  2015.04 ..... ISBN 978-2-39006-039-0
 o RB_MYS      ?  2016.07 ..... ISBN 978-2-39006-104-5
 } noimg          _Jordan Castillo Price       ?
 - .oBF     r     _PRICE Jordan Castillo       Parmi les vivants [PsyCop - 1] þ2009 Among the Living þTrad. MILIEN Terry
-o RB_MYSn     ?  2016.09 ..... ISBN 978-2-39006-131-1
-} noimg          _Lou Harper                  ?
-- .oF.     RN    _HARPER Lou                  Denton et les esprits [Dead Man - 1] þ2016
 o RB_MYS      ?  2016.10 ..... ISBN 978-2-39006-132-8
+! RB_MYSn     ?  2016.09 ..... ISBN 978-2-39006-131-1
 } noimg          _Lou Harper                  ?
 - .oF.    kRN    _HARPER Lou                  Denton et les esprits [Dead Man] þ2016
 : .oF.     R     _HARPER Lou                  Denton et les esprits [Dead Man - 1] þ2013 Dead Man and the Restless Spirits þTrad. FAURE Vivianne
@@ -132,13 +130,13 @@ o RB_MIRn     ?  2017.07 ..... ISBN 978-2-39006-233-2
 } noimg          _MxM Cr‚ation                ?
 - .oF.     r     _HAWK Jordan L.              MaŒtre des goules [A.C.E.S - 2] þ2013 Master of Ghouls þTrad. JONES Sarah
 o RB_MIR      ?  2017.07 ..... ISBN 978-2-39006-234-9
-} noimg          _MxM Cr‚ation                ?
+} rb072017_2     _MxM Cr‚ation                ?
 - .oF.    kr2    _HAWK Jordan L.              A.C.E.S - Agence de Contr“le des Entit‚s Surnaturelles [A.C.E.S - 1/2] þ2017
 : .oRF     r     _HAWK Jordan L.              Chasseur de d‚mons [A.C.E.S - 1] þ2013 Hunter of Demons þTrad. JONES Sarah
 : .oF.     r     _HAWK Jordan L.              MaŒtre des goules [A.C.E.S - 2] þ2013 Master of Ghouls þTrad. JONES Sarah
 o RB_MIR      ?  2017.07 ..... ISBN 978-2-39006-213-4
 ! RB_MIRn     ?  2017.07 ..... ISBN 978-2-39006-212-7
-} noimg          _Las T                       ?
+} rb072017_3     _Las T                       ?
 - .oY.     R2    _LOCKHART Rohan              Daydream & Awakening [Khanan] þ2017
 : .o .     R     _LOCKHART Rohan              Daydream [Khanan] þ2017
 : .o .     R     _LOCKHART Rohan              Awakening [Khanan] þ2017
@@ -208,7 +206,7 @@ o RB_MIRn     ?  2018.07 ..... ISBN 978-2-39006-335-3
 } noimg          _London Montgommery          ?
 - .oRF     r     _HAWK Jordan L.              D‚voreur de vies [A.C.E.S - 4] þ2014 Destroyer of Worlds þTrad. JONES Sarah
 o RB_MIR      ?  2018.11 ..... ISBN 978-2-39006-348-3
-} noimg          _?                           ?
+} rb112018_5     _?                           ?
 - .oF.    kr2    _HAWK Jordan L.              A.C.E.S - Agence de Contr“le des Entit‚s Surnaturelles [A.C.E.S - 3/4] þ2018
 : .oF.     r     _HAWK Jordan L.              Moissonneur d'ƒmes [A.C.E.S - 3] þ2013 Reaper of Souls þTrad. JONES Sarah
 : .oRF     r     _HAWK Jordan L.              D‚voreur de vies [A.C.E.S - 4] þ2014 Destroyer of Worlds þTrad. JONES Sarah
@@ -233,15 +231,75 @@ o RB_MIRn     ?  2019.01 ..... ISBN -
 o RB_MIRn     ?  2019.02 ..... ISBN -
 } noimg          _CharlŠne Vuilleumier        ?
 - .oF.     R     _GRIFFIN Toni                Le Cadeau de Corey [La Meute d'Atherton - 5] þ2017 Corey's Christmas Bundle þTrad. SUMMERS Diana
-o RB_MIR      ?  2019.03 ..... ISBN 978-2-39006-399-5
-} noimg          _My eBook                    ?
-- .oF.     R     _BOLLE Catherine             Le Cycle des morts þ2019
 
+o RB_MXMB     ?  2019.03 ..... ISBN 978-2-39006-399-5
+} noimg          _? Cora Graphics             ?
+!--- GF - 129x198 - 300 pages
+- .oF.     R     _BOLLE Catherine             Le Cycle des morts þ2019
+o RB_MXMB     ?  2019.10 ..... ISBN 979-10-381-0024-4
+} noimg          _Garrett Leigh               ?
+!--- GF - 140x216 - 336 pages
+- .oF.     R     _MARTIN Anna                 Le Loup solitaire þ2018 Lone Wolf þTrad. REGNIER MylŠne
+o RB_MXMB     ?  2019.11 ..... ISBN 979-10-381-0026-8
+} noimg          _? Cora Graphics             ?
+!--- GF - 140x216 - 450 pages
+- .oS.     R     _FILLION Christelle          B6-244 þ2018
+o RB_MXMB     ?  2019.11 ..... ISBN 979-10-381-0025-1
+} mxm2019_53     _? MxM Cr‚ations             ?
+!--- Adulte - GF - 140x216 - 150 pages
+- .oF.     Ax    ****                         Un homme pour Samhain þ2019
+: .oF.     N     _MATHILDE AurElisa           Pari perdu et malentendus þ2019
+: .oF.     N     _JEDEL Camille               Rˆve de mort þ2019
+: .oF.     N     _SAINT-ANGE Vicky            Les Trois Nuits de Samhain þ2019
+: .oF.     N     _PATALANO J‚r“me             Faites vos voeux þ2019
 !------------------------
 !=== 2020
 !------------------------
+o RB_MXMB     ?  2020.01 ..... ISBN 979-10-381-1114-1
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 464 pages
+- .oF.     R     _CAVENBATCH Jahan            Carnaval des ƒmes [La Valse des spectres - 1] þ2020
 o RB_MXMB     ?  2020.03 ..... ISBN 979-10-381-1118-9
 } noimg          _Catt Ford                   ?
+!--- GF - 140x216 - 384 pages
 - .oF.     R     _NICHOLS T.J.                L'Envol [Sorcier en formation - 1] þ2017 Warlock in Training þTrad. CHAPTAL St‚phanie
-
+o RB_MXMB     ?  2020.06 ..... ISBN 979-10-381-1337-4
+} noimg          _? Cora Graphics             ?
+!--- GF - 312 pages
+- .oS.     R     _VITELLI Karine              Le Nouveau Monde [Iridium - 1] þ2020
+o RB_MXMB     ?  2020.09 ..... ISBN 979-10-381-1317-6
+} noimg          _Lou Harper                  ?
+!--- GF - 140x216 - 360 pages
+- .oF.     R     _HAWK Jordan L.              Engelure [Whyborne & Griffon - 6] þ2015 Hoarfrost þTrad. MCWIN Steve
+o RB_MXMB     ?  2020.09 ..... ISBN 979-10-381-1070-0
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 400 pages
+- .oS.     R     _FILLION Christelle          Sous l'emprise de l'hiver þ2020
+!------------------------
+!=== 2021
+!------------------------
+o RB_MXMB     ?  2021.04 ..... ISBN 979-10-381-1870-6
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 432 pages
+- .oF.     R     _WYCK Alex                   Moineau, Peseur d'ƒmes þ2021
+o RB_MXMB     ?  2021.04 ..... ISBN 979-10-381-1887-4
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 336 pages
+- .oF.     R     _CAVENBATCH Jahan            Oraison funŠbre [La Valse des spectres - 2] þ2021
+o RB_MXMB     ?  2021.05 ..... ISBN 979-10-381-1882-9
+} noimg          _? Cora Graphics             ?
+!--- GF - 140x216 - 326 pages
+- .oS.     R     _VITELLI Karine              Les Ailes du pouvoir [Iridium - 2] þ2015
+o RB_MXMB     ?  2021.08 ..... ISBN 979-10-381-1881-2
+} noimg          _? Tiferet Design            ?
+!--- GF - 140x216 - 448 pages
+- .oS.     R     _KRAY Selina                 Les crocs des d‚mons Chats [Stoker & Bash - 1] þ2018 The Fangs of Scavo þTrad. VINCENT Cl‚mentine
+o RB_MXMB     ?  2021.11 ..... ISBN ?979-10-381-1941-3
+} noimg          _MxM Cr‚ations               ?
+!--- GF - 140x216 - 520 pages
+- .oS.     R     _WYCK Alex                   L'ƒme d'un pilote þ2021
+o RB_MXMB     ?  2021.11 ..... ISBN 979-10-381-1869-0
+} noimg          _Lou Harper                  ?
+!--- GF - 140x216 - 424 pages
+- .oF.     R     _HAWK Jordan L.              Maelstr”m [Whyborne & Griffon - 7] þ2015 Maelstrom þTrad. MCWIN Steve
 

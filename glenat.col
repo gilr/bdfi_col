@@ -2,8 +2,8 @@
 !---                       Gl‚nat
 !---
 !-----------------------------------------------------------------------------
-_ GLENAT  Ed. Gl‚nat
-_ GLEN_AU Ed. Gl‚nat, Coll. de l'Aurore
+_ GLENAT  Gl‚nat
+_ GLEN_AU Gl‚nat - Collection de l'Aurore
 !-----------------------------------------------------------------------------
 o GLEN_AU     ?  1995.xx ..... ISBN 2-7234-2071-X
 } noimg          _?                           ?
@@ -30,7 +30,7 @@ o GLENAT      ?  2016.xx ..... ISBN 978-2-344-00288-9
 - .o .     R     _ARIKAWA Hiro                R‚volution [Library wars - 4] þ2007 Toshokan Kakumei / The Library Revolution þTrad. ?
 
 !-----------------------------------------------------------------------------
-_ GLET    Gl‚nat, Train d'enfer
+_ GLET    Gl‚nat - Train d'enfer
 !-----------------------------------------------------------------------------
 !--- Train d'enfer
 !--- 3 ouvrages SF au sein d'une collection jeune, orient‚e aventures.
@@ -46,12 +46,12 @@ o GLET        3i 1980.xx ..... ISBN .-.....-...-.
 - .o .     R     _THIRION Jean-BenoŒt         Le Vengeur þ1980
 o GLET        7i 1980.xx ..... ISBN 2-7234-0180-4
 } noimg          _?                           ?
-- .oPS     R     _ANDRIAT Frank              &Juridiction z‚ro þ1980
-&                _SMIT le BENEDICTE J.-C.     
 !--- SMIT le BENEDICT en couverture
+- .oPS     R     _ANDRIAT Frank              &Juridiction z‚ro [Dogston H. Juge] þ1980
+&                _SMIT le BENEDICTE J.-C.     
 
 !-----------------------------------------------------------------------------
-_ GLEM    Gl‚nat, Marginalia þ1975-1979
+_ GLEM    Gl‚nat - Marginalia þ1975-1979
 !-----------------------------------------------------------------------------
 !--- Marginalia (1975 - 1979)
 !--- 
@@ -123,6 +123,7 @@ o GLEM       10  1977.10 ..... ISBN 2-7234-0065-4
 o GLEM       11  1978.03 R.... ISBN 2-7234-0076-X
 } marg11         _Serre                       ?
 - .o .    _C30   _FEVAL Paul                  Nuits de terreur [Le Livre des mystŠres - 1/2] þ1852
+!--- Une majorit‚ d'extraits de romans
 : .o .     N     _FEVAL Paul                  Le Moulin de Guillaume F‚ru þ1853
 : .o .     N     _FEVAL Paul                  Deux sergents þ1853
 : .o .     N     _FEVAL Paul                  Terreurs nocturnes þ1853
@@ -151,7 +152,7 @@ o GLEM       11  1978.03 R.... ISBN 2-7234-0076-X
 !--- id "L'int‚rieur du pavillon Louis XV"
 : .o .     N     _FEVAL Paul                  La Fosse creus‚e þ1853
 : .o .     N     _FEVAL Paul                  La Cloche de quatre heures þ1853
-: .o .     N     _FEVAL Paul                  L'Homme sans bras þ1853
+: .oF.     X     _FEVAL Paul                  L'Homme sans bras [Le Livre des mystŠres - 2] þ1852
 : .o .     N     _FEVAL Paul                  Les Paperasses de M. Privat þ1853
 : .o .     N     _FEVAL Paul                  L'Octave de l'Assomption þ1853
 : .o .     N     _FEVAL Paul                  La Pierre du tombeau de Tanneguy þ1853
@@ -193,7 +194,7 @@ o GLEM       17  1979.11 ..... ISBN .-.....-...-.
 !--- Conan Doyle, Notre-Dame de la Mort
 
 !-----------------------------------------------------------------------------
-_ GLEB    Gl‚nat, Bob Morane Magazine
+_ GLEB    Gl‚nat - Bob Morane Magazine
 !-----------------------------------------------------------------------------
 !--- Bob Morane magazine
 !-----------------------------------------------------------------------------
@@ -231,7 +232,7 @@ o GLEB        4  1988.xx ..... ISBN .-.....-...-.
 !---  Guide des oc‚ans (Agripnidis) 
 
 !-----------------------------------------------------------------------------
-_ GLENATQ Ed. Gl‚nat, Coll. Gl‚nat Qu‚bec
+_ GLENATQ Gl‚nat - Gl‚nat Qu‚bec
 !-----------------------------------------------------------------------------
 o GLENATQ     ?  2008.11 ..... ISBN 978-2-923621-00-5
 } noimg          _?                           ?

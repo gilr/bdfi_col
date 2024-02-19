@@ -1,13 +1,15 @@
 
 !-----------------------------------------------------------------------------
-_ PHEBUS  Ed. Ph‚bus
-_ PHEBLIB Ed. Ph‚bus, Coll. Libretto
-_ LIBRETT Ed. Libretto
-_ PHEBETR Ed. Ph‚bus, Coll. Litt‚rature EtrangŠre
-_ PHEBVER Ed. Ph‚bus, Coll. Verso
-_ PHEBROM Ed. Ph‚bus, Coll. Domaine Romanesque
-_ PHEBAUJ Ed. Ph‚bus, Coll. d'Aujourd'hui
-_ PHEB_BL Ed. Ph‚bus, Coll. Beaux Livres
+_ PHEBUS  Ph‚bus
+_ PHEBETR Ph‚bus - Litt‚rature EtrangŠre
+_ PHEBVER Ph‚bus - Verso
+_ PHEBROM Ph‚bus - Domaine Romanesque
+_ PHEBAUJ Ph‚bus - Collection d'Aujourd'hui
+_ PHEB_BL Ph‚bus - Beaux Livres
+_ PHEBLIB Ph‚bus - Libretto
+!-----------------------------------------------------------------------------
+_ LIBRETT Libretto
+_ LIBRETC Libretto - Edition Collector
 !-----------------------------------------------------------------------------
 !--- Editions Ph‚bus, Paris
 !-----------------------------------------------------------------------------
@@ -15,28 +17,29 @@ o PHEBUS      ?  1978.xx ..... ISBN 2-85940-016-8
 } noimg          _?                           ?
 + PHEBUS      ?  1991.08 ..... ISBN 2-85940-016-8
 } phebus_frfa1900 _?                           ?
-- .oF.    iNx    *DESBRUERES Michel           La France fantastique 1900 ş1978
-?: .oF.     N     _ADAM Paul                   La ColŠre du soleil ş?
+- .oF.     N26   *DESBRUERES Michel           La France fantastique 1900 ş1978
+: .o .     p     _DESBRUERES Michel           Introduction ş1978
+: .oF.     N     _ADAM Paul                   La ColŠre du soleil ş1898
 : .o .  43 N     _APOLLINAIRE Guillaume       La Disparition d'Honor‚ Subrac ş1910
-?: .oF.     N     _BOIS Jules                  La Grande Anglaise ş?
-?: .oF.     N     _DANVILLE Gaston             L'Ange noir ş?
+: .oF.     N     _BOIS Jules                  La Grande Anglaise ş1896
+: .oF.     N     _DANVILLE Gaston             L'Ange noir ş1892
 : .oF.     N     _EEKHOUD Georges             Le Suicide par amour ş1896
-?: .oF.     N     _FARRERE Claude              Hors du silence ş?
-?: .oF.     N     _FRANCE Anatole              M. Pigeonneau ş?
-?: .oF.     N     _GEFFROY Gstave              La Voix ş?
+: .o .     X     _FARRERE Claude              Hors du silence (extrait de : Fum‚e d'opium) ş1904
+: .oF.     N     _FRANCE Anatole              M. Pigeonneau ş1889
+: .oF.     N     _GEFFROY Gustave             La Voix ş1894
 : .oF.     N     _GOURMONT R‚my de            Le Magnolia ş1894
 : .o .     N     _HELLENS Franz               Un crime incodifi‚ ş1919
-?: .oF.     N     _LEROUX Gaston               L'Homme qui a vu le diable ş?
-?: .oF.     N     _LORRAIN Jean                Les Trous du masque ş?
-?: .oF.     N     _LOUYS Pierre                Ascension au Venusberg ş?
-?: .oF.     N     _MAETERLINCK Maurice         Onirologie ş?
+: .oF.     N     _LEROUX Gaston               L'Homme qui a vu le diable ş1908
+: .oF.     N     _LORRAIN Jean                Les Trous du masque ş1895
+: .oF.     N     _LOUYS Pierre                Ascension au Venusberg ş1903
+: .oF.     N     _MAETERLINCK Maurice         Onirologie ş1889
 : .oS.     N     _MAUCLAIR Camille            Les Clefs d'or ş1897
-?: .oF.     N     _MENDES Catulle              La Peur dans l'Œle ş?
-?: .oF.     N     _MICHELET Victor-Emile       L'Inqui‚tante Rose ş?
-?: .oF.     N     _MIRBEAU Octave              La Chambre close ş?
-?: .oF.     N     _MONTESISTE Laurent          La Demeure de l'inconnu ş?
-?: .oF.     N     _NAU John Antoine            Les Yeux d'‚meraude ş?
-?: .oF.     N     _PELADAN Joseph              La Harpe de Cl‚den ş?
+: .oF.     N     _MENDES Catulle              La Peur dans l'Œle ş1892
+: .oF.     N     _MICHELET Victor-Emile       L'Inqui‚tante Rose ş1900
+: .oF.     N     _MIRBEAU Octave              La Chambre close ş1920
+: .oF.     N     _MONTESISTE Laurent          La Demeure de l'inconnu ş1896
+: .oF.     N     _NAU John Antoine            Les Yeux d'‚meraude ş1929
+: .oF.     N     _PELADAN Joseph              La Harpe de Cl‚den ş?
 : .o .     N     _REGNIER Henri de            La Mort de M. de Nouƒtre et de Mme de Ferlinde ş1897
 : .o .     N     _RENARD Maurice              Le Rendez-Vous ş1909
 : .oF.     N     _RODENBACH Georges           L'Ami des miroirs ş1899
@@ -44,30 +47,35 @@ o PHEBUS      ?  1978.xx ..... ISBN 2-85940-016-8
 : .oF.     N     _SCHWOB Marcel               L'Homme voil‚ ş1890
 o PHEBVER     ?  1979.xx ..... ISBN 2-85940-027-3
 } phebus_nocturnes _?                           ?
-!--- şTrad. LAVAL Madeleine et Andr‚ Espiau de la Ma‰stre
-!--- Pr‚face d'Albert Beguin : la le‡on des t‚nŠbres
+!--- 416 pages
+!--- Traduction Henri de Curzon, r‚vis‚ par Madeleine Laval
+- .oF.    _N9    _HOFFMANN E.T.A.             Fantaisies dans la maniŠre de Callot ş1813-1819 Fantasiestcke in Callot's Manier şTrad. CURZON Henri de + LAVAL Madeleine
+!--- PremiŠre partie
+: .o .     p     _RICHTER Jean-Paul           Pr‚face ş1979
+: .o .     N     _HOFFMANN E.T.A.             Jacques Callot ş1815 Jacques Callot
+: .o .     N     _HOFFMANN E.T.A.             Le Chevalier Gluck ş1809 Ritter Gluck
+: .o .     N     _HOFFMANN E.T.A.             Kreisleriana - I ş1814 Kreisleriana
+: .o .     N     _HOFFMANN E.T.A.             Don Juan ş1812 Don Juan
+: .o .     r     _HOFFMANN E.T.A.             Information sur les r‚centes fortunes du chien Berganza ş1814 Nachricht von den neuesten Schicksalen des Hundes Berganza
+!--- Seconde partie
+: .o .     N     _HOFFMANN E.T.A.             Le Magn‚tiseur ş1814 Der Magnetiseur. Eine Familienbegebenheit
+: .o .     r     _HOFFMANN E.T.A.             Le Vase d'or ş1814 Der goldne Topf. Ein M„rchen aus der neuen Zeit
+: .o .     N     _HOFFMANN E.T.A.             Les Aventures de la nuit de la Saint-Sylvestre ş1814 Die Abenteuer der Silvesternacht
+: .o .     N     _HOFFMANN E.T.A.             Kreisleriana - II ş1814 Kreisleriana
+o PHEBVER     ?  1979.xx ..... ISBN 2-85940-027-3
+} phebus_nocturnes _?                           ?
 !--- S‚rie "Int‚grale des contes et r‚cits d'Hoffman" - Tome 3
-!--- Dans la s‚rie "Int‚grale des contes et r‚cits d'Hoffman" :
-!---   - Derniers contes
-!---   - Contes retrouv‚s
-!---   - Les elixirs du diable
-!---   - Cinabre
-!---   - Le Chat Murr
-!---   - Princesse Brambilla
-!---   - MaŒtre Puce, ...
-!---   - Fantaisies dans la maniŠre de Callot
-!---   - Les FrŠres de Saint S‚rapion
-!---   Cf. http://www.levisagevert.com/bibliographie-auteurs/auteurs-h/auteurs-h/h0008.html#re8
 !--- 356pp pour ‚dition 1983.04
-- .pFK    iN8    _HOFFMANN E.T.A.             Contes nocturnes ş1979
-: .o .     N     _HOFFMANN E.T.A.             L'Homme au sable ş1815 Der sandmann
-?: .o .     N     _HOFFMANN E.T.A.             Ignace Denner ş1817 Ignace Denner
-?: .o .     N     _HOFFMANN E.T.A.             L'glise des J‚suites ş1817 Die Jesuiterkirche in G.
-?: .o .     N     _HOFFMANN E.T.A.             Le Sanctus ş1817 Das Sanctus
-?: .o .     N     _HOFFMANN E.T.A.             La Maison d‚serte ş1817 Das ”de Haus
-?: .o .     r     _HOFFMANN E.T.A.             Le Majorat ş1817 Das Majorat
-?: .o .     N     _HOFFMANN E.T.A.             Le Voeu ş1817 Das Gelbde
-?: .o .     N     _HOFFMANN E.T.A.             Le Coeur de pierre ş1817 Das steinerne Herz
+- .pFK    iNx    _HOFFMANN E.T.A.             Contes nocturnes ş1979
+: .o .     p     _BEGUIN Albert               La le‡on des t‚nŠbres ş?
+: .o .     N     _HOFFMANN E.T.A.             L'Homme au sable ş1815 Der sandmann şTrad. LAVAL Madeleine et LA MAESTRE Andr‚ Espiau de
+: .o .     N     _HOFFMANN E.T.A.             Ignace Denner ş1817 Ignaz Denner şTrad. LAVAL Madeleine et LA MAESTRE Andr‚ Espiau de
+: .o .     N     _HOFFMANN E.T.A.             L'glise des J‚suites ş1817 Die Jesuiterkirche in G. şTrad. LAVAL Madeleine et LA MAESTRE Andr‚ Espiau de
+: .o .     N     _HOFFMANN E.T.A.             Le Sanctus ş1817 Das Sanctus şTrad. LAVAL Madeleine et LA MAESTRE Andr‚ Espiau de
+: .o .     N     _HOFFMANN E.T.A.             La Maison d‚serte ş1817 Das ”de Haus şTrad. LAVAL Madeleine et LA MAESTRE Andr‚ Espiau de
+: .o .     r     _HOFFMANN E.T.A.             Le Majorat ş1817 Das Majorat şTrad. LAVAL Madeleine et LA MAESTRE Andr‚ Espiau de
+: .o .     N     _HOFFMANN E.T.A.             Le Voeu ş1817 Das Gelbde şTrad. LAVAL Madeleine et LA MAESTRE Andr‚ Espiau de
+: .o .     N     _HOFFMANN E.T.A.             Le Coeur de pierre ş1817 Das steinerne Herz şTrad. LAVAL Madeleine et LA MAESTRE Andr‚ Espiau de
 o PHEBUS      ?  1990.xx R.... ISBN 2-85940-161-X
 !--- r‚‚d.    ?  1991.08 R.... ISBN 2-85940-161-X
 !--- r‚‚d.    ?  1998.01 R.... ISBN 2-85940-...-.
@@ -75,7 +83,7 @@ o PHEBUS      ?  1990.xx R.... ISBN 2-85940-161-X
 - .o .     R     _MONTEILHET Hubert           Les Queues de Kallinaos ş1981
 o PHEBVER     ?  1987.01 ..... ISBN 2-85940-075-3
 } noimg          _?                           ?
-- .o .     Nx    _BEALU Marcel                M‚moires de l'ombre ş1944
+- .oF.     Nx    _BEALU Marcel                M‚moires de l'ombre ş1944
 o PHEBUS      ?  1987.xx ..... ISBN 2-85940-...-.
 } noimg          _?                           ?
 + PHEBUS      ?  1991.08 ..... ISBN 2-85940-087-.
@@ -84,14 +92,17 @@ o PHEBUS      ?  1987.xx ..... ISBN 2-85940-...-.
 o PHEBUS      ?  1988.xx ..... ISBN 2-85940-...-.
 } noimg          _?                           ?
 - .o .     R     _SEIGNOLLE Claude            La brume ne se lŠvera plus ş1959
-o PHEBUS      ?  1988.xx ..... ISBN 2-85940-...-.
+o PHEBUS      ?  1988.xx ..... ISBN 2-85940-110-5
 !--- a moins que Le diable en sabot seul en 1988 ?
 } noimg          _?                           ?
-+ PHEBUS      ?  1991.08 ..... ISBN 2-85940-110-.
++ PHEBUS      ?  1991.08 ..... ISBN 2-85940-110-5
 } phebus_sabot   _?                           ?
-- .o .     Nx    _SEIGNOLLE Claude            Le Diable en sabots ş1988
+- .oF.     N4    _SEIGNOLLE Claude            Le Diable en sabots ş1988
 : .o .     r     _SEIGNOLLE Claude            Le Diable en sabots ş1959
-o PHEBUS      ?  1987.xx ..... ISBN 2-85940-...-.
+: .o .     r     _SEIGNOLLE Claude            Le Gƒloup ş1960
+: .o .     N     _SEIGNOLLE Claude            D‚sir‚e la sangsue ş1962
+: .o .     N     _SEIGNOLLE Claude            Le Hupeur ş1967
+o PHEBROM     ?  1987.xx ..... ISBN 2-85940-081-8
 } noimg          _?                           ?
 - .o .     R     _SEIGNOLLE Claude            La Malvenue ş1952
 o PHEBROM     ?  1987.xx ..... ISBN 2-85940-088-5
@@ -102,30 +113,63 @@ o PHEBROM     ?  1987.xx ..... ISBN 2-85940-...-.
 !--- Paru … titre posthume, en 1959
 } noimg          _?                           ?
 - .o .     R     _PERUTZ Leo                  Le Judas de L‚onard ş1959 Der Judas des Leonardo şTrad. KEYSER Martine
-o PHEBVER     ?  1991.08 ..... ISBN 2-85940-...-.
+o PHEBVER     ?  1981.05 ..... ISBN 2-85940-038-9
+} noimg          _?                           ?
+!--- ÿInt‚grale des contes et r‚cits, ‚tabli sous la direction d'Albert B‚guin et Madeleine Laval
++ PHEBVER     ?  1991.08 ..... ISBN 2-85940-038-9
 } phebus_serap1  _?                           ?
-- .pF.    iNx    _HOFFMANN E.T.A.             Les FrŠres de Saint-S‚rapion - Tome 1 ş? ? şTrad. LAVAL Madeleine
-?: .o .     a     _HOFFMANN E.T.A.             Entretiens ş? ? şTrad. LAVAL Madeleine
+- .pF.    kN8    _HOFFMANN E.T.A.             Les FrŠres de Saint-S‚rapion - Tome 1 ((Contes des frŠres S‚rapion)) ş1819 Die Serapionsbrder - Ester Band şTrad. LAVAL Madeleine
+!--- PremiŠre veill‚e
+: .o .     N     _HOFFMANN E.T.A.             L'Ermite S‚rapion ş1819 Bruchstck aus den Serapionsbrdern. Der Einsiedler Serapion
 : .o .     N     _HOFFMANN E.T.A.             Le Conseiller Krespel ş1817 Rat Krespel
+: .o .     N     _HOFFMANN E.T.A.             Le Point d'orgue ş1819 Die Fermate
+: .o .     N     _HOFFMANN E.T.A.             Le PoŠte et le compositeur ş1813 Der Dichter und der Komponist
+!--- DeuxiŠme veill‚e
+: .o .     N     _HOFFMANN E.T.A.             Fragment de la vie de trois amis ş1818 Ein Fragment aus dem Leben dreier Freunde
+: .o .     N     _HOFFMANN E.T.A.             La Cour d'Artus ş1816 Der Artushof
 : .o .     N     _HOFFMANN E.T.A.             Les Mines de Falun ş1819 Die Bergwerke zu Falun şTrad. LAVAL Madeleine
 : .o .     N     _HOFFMANN E.T.A.             Casse-Noisette et le roi des rats ş1816 Nuáknacker und Mausek”nig şTrad. LAVAL Madeleine
-o PHEBVER     ?  1991.08 ..... ISBN 2-85940-038-.
+o PHEBVER     ?  1981.xx ..... ISBN 2-85940-038-9
+} noimg          _?                           ?
+!--- ÿInt‚grale des contes et r‚cits, ‚tabli sous la direction d'Albert B‚guin et Madeleine Laval
++ PHEBVER     ?  1991.08 ..... ISBN 2-85940-038-9
 } phebus_serap2  _?                           ?
-- .pF.    iNx    _HOFFMANN E.T.A.             Les FrŠres de Saint-S‚rapion - Tome 2 ş? ? şTrad. LAVAL Madeleine
+- .pF.    kN6    _HOFFMANN E.T.A.             Les FrŠres de Saint-S‚rapion - Tome 2 ((Contes des frŠres S‚rapion)) ş1819 Die Serapionsbrder - Zweiter Band şTrad. LAVAL Madeleine
+!--- TroisiŠme veill‚e
+: .o .     N     _HOFFMANN E.T.A.             La Guerre des maŒtres chanteurs ş1817 Der Kampf der S„nger
+: .o .     N     _HOFFMANN E.T.A.             Une histoire de fant“me ş1819 Bruchstck aus dem Zweiten Bande der Serapions-Brder / Eine Spukgeschichte şTrad. ?
+: .o .     N     _HOFFMANN E.T.A.             Les Automates ş1813 Die Automate
 : .o .     N     _HOFFMANN E.T.A.             Doge et Dogaresse ş1818 Doge und Dogaresse şTrad. LAVAL Madeleine
-: .o .     N     _HOFFMANN E.T.A.             MaŒtre Martin ş1818 Meister Martin der Kfner und seine Gesellen şTrad. LAVAL Madeleine
+!--- QuatriŠme veill‚e
+: .o .     N     _HOFFMANN E.T.A.             MaŒtre Martin le tonnelier et ses compagnons ş1818 Meister Martin der Kfner und seine Gesellen şTrad. LAVAL Madeleine
 : .o .     N     _HOFFMANN E.T.A.             L'Enfant ‚tranger ş1817 Das fremde Kind şTrad. LAVAL Madeleine
-o PHEBVER     ?  1991.08 ..... ISBN 2-85940-040-.
+o PHEBVER     ?  1981.xx ..... ISBN 2-85940-040-0
+} noimg          _?                           ?
+!--- ÿInt‚grale des contes et r‚cits, ‚tabli sous la direction d'Albert B‚guin et Madeleine Laval
++ PHEBVER     ?  1991.08 ..... ISBN 2-85940-040-0
 } phebus_serap3  _?                           ?
-- .pF.    iNx    _HOFFMANN E.T.A.             Les FrŠres de Saint-S‚rapion - Tome 3 ş? ? şTrad. LAVAL Madeleine
+- .pF.    kN6    _HOFFMANN E.T.A.             Les FrŠres de Saint-S‚rapion - Tome 3 ((Contes des frŠres S‚rapion)) ş1820 Die Serapionsbrder - Dritter Band şTrad. LAVAL Madeleine
+!--- CinquiŠme veill‚e
+: .o .     N     _HOFFMANN E.T.A.             Le Diable … Berlin ş1819 Aus dem Leben eines bekannten Mannes
 : .oF.     r     _HOFFMANN E.T.A.             Le Choix d'une fianc‚e ş1820 Die Brautwahl şTrad. MARMIER Xavier
-: .oF.     r     _HOFFMANN E.T.A.             Le Baron de B ş? ? şTrad. MARMIER Xavier
+: .o .     N     _HOFFMANN E.T.A.             Le sinistre visiteur ş1819 Der unheimliche Gast
+!--- SixiŠme veill‚e
 : .o .     N     _HOFFMANN E.T.A.             Mademoiselle de Scud‚ry ş1818 Das Fraeulein von Scudery, Erzaehlung aus dem Zeitalter Ludwig des Vierzehnten şTrad. LAVAL Madeleine
 : .o .     N     _HOFFMANN E.T.A.             Le Bonheur au jeu ş1820 Spielerglck şTrad. LAVAL Madeleine
-o PHEBVER     ?  1991.08 ..... ISBN 2-85940-041-.
+: .oF.     r     _HOFFMANN E.T.A.             Le Baron de B ş1819 Der Baron von B. şTrad. MARMIER Xavier
+o PHEBVER     ?  1981.xx ..... ISBN 2-85940-041-9
+} noimg          _?                           ?
++ PHEBVER     ?  1991.08 ..... ISBN 2-85940-041-9
 } phebus_serap4  _?                           ?
-- .pF.    iNx    _HOFFMANN E.T.A.             Les FrŠres de Saint-S‚rapion - Tome 4 ş? ? şTrad. LAVAL Madeleine
+- .pF.    kN6    _HOFFMANN E.T.A.             Les FrŠres de Saint-S‚rapion - Tome 4 ((Contes des frŠres S‚rapion)) ş1821 Die Serapionsbrder - Vierter Band şTrad. LAVAL Madeleine
+!--- SeptiŠme veill‚e
 : .o .     N     _HOFFMANN E.T.A.             Signor Formica ş1819 Signor Formica
+: .? .     N     _HOFFMANN E.T.A.             Apparitions ş1817 Erscheinungen
+!--- HuitiŠme veill‚e
+: .? .     N     _HOFFMANN E.T.A.             L'EnchaŒnement des choses ş1820 Der Zusammenhang der Dinge
+: .o .     N     _HOFFMANN E.T.A.             Vampirisme ş1821 Vampirismus. Eine gr„áliche Geschichte
+: .? .     N     _HOFFMANN E.T.A.             Le Th‚ esth‚tique ş1819 Die „sthetische Teegesellschaft
+: .? .     N     _HOFFMANN E.T.A.             Fianc‚e de roi ş1821 Die K”nigsbraut.
 o PHEBVER     ?  1991.08 ..... ISBN 2-85940-019-4
 } noimg          _?                           ?
 - .oF.     Cx    _BEALU Marcel                Journal d'un mort ş1946
@@ -143,9 +187,10 @@ o PHEBUS      ?  1993.10 ..... ISBN 2-85940-296-.
 - .o .     R     _SEIGNOLLE Claude            Le Rond des sorciers ş1945
 o PHEBUS      ?  1994.11 ..... ISBN 2-85940-347-7
 } phebus_araign  _?                           ?
-!--- Pr‚face Andr‚ pieyre de Mandiargues
-- .oF.     N19   _BEALU Marcel                L'Araign‚e d'eau ş1948-1964
+- .oF.    kN19   _BEALU Marcel                L'Araign‚e d'eau ş1948-1964
+: .o .     p     _PIEYRE DE MANDIARGUES Andr‚ Pr‚face ş?
 : .o .     N     _BEALU Marcel                L'Araign‚e d'eau ş1948
+: .C .     C     _BEALU Marcel                Les Messagers Clandestins
 : .o .     N     _BEALU Marcel                Soliloque d'un veuf ş1957
 : .o .     N     _BEALU Marcel                Le Montreur de marionnettes ş?
 : .o .     N     _BEALU Marcel                Le Fabricant de rides ş?
@@ -160,20 +205,20 @@ o PHEBUS      ?  1994.11 ..... ISBN 2-85940-347-7
 : .o .     N     _BEALU Marcel                La Maison d'en face ş1948
 : .o .     N     _BEALU Marcel                L'Armurier ş?
 : .o .     N     _BEALU Marcel                Le Chroniqueur de l'An pire ş?
-: .o .     N     _BEALU Marcel                Les Lys et le Sang ş?
+: .o .     N     _BEALU Marcel                Les Lys et le Sang ş1964
 : .o .     N     _BEALU Marcel                La Porte incompr‚hensible ş?
 : .o .     N     _BEALU Marcel                Les Deux Clientes ş?
 : .o .     N     _BEALU Marcel                Judith ş?
-o PHEBUS      ?  1994.04 ..... ISBN 2-85940-323-.
+o PHEBUS      ?  1994.04 ..... ISBN 2-85940-323-X
 } phebus_satan   _?                           ?
-- .o .     Nx    _SEIGNOLLE Claude            La Morsure de Satan ş1994
+- .oF.     N19   _SEIGNOLLE Claude            La Morsure de Satan ş1994
 : .o .     N     _SEIGNOLLE Claude            Celui qui s'y frotta ş1967
 : .o .     N     _SEIGNOLLE Claude            Chaque chose … sa place ş1969
 : .o .     N     _SEIGNOLLE Claude            Huppe et Pupuler ş1974
 : .o .     N     _SEIGNOLLE Claude            Il ne faut jamais r‚veiller les l‚gendes ş1974
 : .o .     N     _SEIGNOLLE Claude            La Fille gagn‚e ş1969
-: .o .     N     _SEIGNOLLE Claude            La Main de Pierre ş1974
-: .o .     N     _SEIGNOLLE Claude            La Morsure de satan ş1974
+: .o .     N     _SEIGNOLLE Claude            La Main de pierre ş1974
+: .o .     N     _SEIGNOLLE Claude            La Morsure de Satan ş1974
 : .o .     N     _SEIGNOLLE Claude            La Vierge maudite ş1969
 : .o .     N     _SEIGNOLLE Claude            L'Auberge du Larzac ş1967
 : .o .     N     _SEIGNOLLE Claude            Le Bout du monde ş1966
@@ -212,10 +257,6 @@ o PHEBAUJ     ?  1996.xx ..... ISBN 2-85940-412-0
 o PHEBAUJ     ?  1998.xx ..... ISBN 2-85940-514-3
 } noimg          _?                           ?
 - .o .     R     _PEAKE Mervyn                Titus d'enfer [Le Chƒteau de Gormenghast - 1] ş1946 Titus Groan şTrad. ?
-o PHEBUS      ?  1999.xx ..... ISBN 2-85940-...-.
-} noimg          _?                           ?
-- .oF.    iN6    _SEIGNOLLE Claude            La Malvenue ş1962
-!--- TBC : ou 2000 ?
 o PHEBAUJ     ?  2000.xx ..... ISBN 2-85940-612-3
 } noimg          _?                           ?
 - .oF.     R     _PEAKE Mervyn                Gormenghast [Le Chƒteau de Gormenghast - 2] ş1950 Gormenghast şTrad. ?
@@ -223,13 +264,12 @@ o PHEBUS      ?  2000.xx ..... ISBN 2-85940-...-.
 } noimg          _?                           ?
 - .o .     R     _MOURA Jean-Marc             Gandara ş?
 o PHEBUS      ?  2000.xx ..... ISBN 2-85940-668-.
-!--- fantastique & ‚rotique
 } noimg          _?                           ?
 - .oFQ     R     _WALTHER Daniel              La Mort … Boboli ş2000
 o PHEBAUJ     ?  2001.09 ..... ISBN 2-85940-763-4
 } noimg          _?                           ?
 - .o .     R     _PEAKE Mervyn                Titus errant [Le Chƒteau de Gormenghast - 3] ş1959 Titus Alone şTrad. REUMAUX Patrick
-o PHEBUS      ?  2001.05 ..... ISBN 2-85940-735-.
+o PHEBUS      ?  2001.05 ..... ISBN 2-85940-735-9
 } phebus_ombres  _?                           ?
 - .oF.    _N5    _WALTHER Daniel              Ombres tueuses ş2001
 : .o .     N     _WALTHER Daniel              Lamia ş2001
@@ -237,12 +277,38 @@ o PHEBUS      ?  2001.05 ..... ISBN 2-85940-735-.
 : .o .     N     _WALTHER Daniel              L'Œle ş2001
 : .o .     N     _WALTHER Daniel              Chiens de foudre ş2001
 : .o .     N     _WALTHER Daniel              Venezuela ş1999
-o PHEBUS      ?  1988.xx ..... ISBN .-.....-...-.
+o PHEBUS      ?  1988.xx ..... ISBN 2-85940-102-4
 } noimg          _?                           ?
-- .oF.     RN20  _SEIGNOLLE Claude            La Nuit des halles ş1988
-o PHEBROM     ?  2003.xx ..... ISBN .-.....-...-.
+>--- Le Groupe de texte "Nuits" comporte 5 textes, "Le Grand Vendu", "Un louis terreux", "Les Autres Moi", "Minnah l'‚toile" et "Le Feuillet perdu"
+- .oF.    _N22   _SEIGNOLLE Claude            La Nuit des halles ş1984-1988
+: .o .     p     _SEIGNOLLE Claude            Avant-propos ş1958
+: .o .     N     _SEIGNOLLE Claude            Le Bahut noir ş1958
+: .o .     N     _SEIGNOLLE Claude            Le Chupador ş1960
+: .o .     N     _SEIGNOLLE Claude            L'ƒme boiteuse ş1962
+: .o .     N     _SEIGNOLLE Claude            Delphine ş1963
+: .o .     N     _SEIGNOLLE Claude            Le Faucheur ş1964
+: .o .     N     _SEIGNOLLE Claude            Le MilliŠme Cierge ş1965
+: .o .     N     _SEIGNOLLE Claude            Un petit monstre … louer au quart d'heure ş1964
+: .o .     N     _SEIGNOLLE Claude            Et si c'‚tait !... ş1964
+: .o .     N     _SEIGNOLLE Claude            Pauvre Sonia ! ş1965
+: .o .     N     _SEIGNOLLE Claude            L'Ex‚cution ş1965
+: .o .     N     _SEIGNOLLE Claude            La M‚moire du bois ş1966
+: .o .     N     _SEIGNOLLE Claude            Non, pas moi ! ş1966
+: .o .     N     _SEIGNOLLE Claude            Deux dents, pas plus... ş1966
+: .C .     C     _SEIGNOLLE Claude            Nuits
+!--- 5 contes brefs plac‚s sous le patronnage nocturne de G‚rard de Nerval
+: .o .     N     _SEIGNOLLE Claude            Le Grand Vendu ş1971
+: .o .     N     _SEIGNOLLE Claude            Un louis terreux ş1971
+: .o .     N     _SEIGNOLLE Claude            Les Autres Moi ş1964
+: .o .     N     _SEIGNOLLE Claude            Minnah l'‚toile ş1964
+: .o .     N     _SEIGNOLLE Claude            Le Feuillet perdu ş1971
+: .o .     N     _SEIGNOLLE Claude            Le Num‚ro 141 ş1969
+: .o .     N     _SEIGNOLLE Claude            Un vieux m‚lomane ş1974
+: .o .     N     _SEIGNOLLE Claude            L'Imposs‚dable ş1969
+: .o .     N     _SEIGNOLLE Claude            Les Roses d'en haut ş1969
+o PHEBROM     ?  2003.xx ..... ISBN 2-85940-871-1
 } noimg          _?                           ?
-- .oF.     Nx    _LE FANU J. Sheridan         Invitation au crime ş? ?
+- .oF.     R     _LE FANU J. Sheridan         Invitation au crime ş1851 The Evil Guest
 o PHEBUS      ?  2004.xx ..... ISBN 2-7529-....-.
 } noimg          _?                           ?
 - .oF.     R     _DELBE Alain                 Golems ş2004
@@ -274,11 +340,11 @@ o PHEBUS      ?  2004.12 ..... ISBN 2-7529-0025-2
 } noimg          _?                           ?
 - .pF.    iAx    *GUERNE Armel                Les Romantiques allemands ş1956-1963
 : .oF.     N     _VON ARNIM Achim             Les H‚ritiers du Majorat ş1820 Die Majoratsherren şTrad. GAUTIER Th‚ophile Fils
-: .oF.     N     _HOFFMANN E.T.A.             Les Aventures de la nuit de Saint-Sylvestre ş1814 Die Abenteuer des Silvesternacht şTrad. Th. TOUSSENEL
+: .oF.     N     _HOFFMANN E.T.A.             Les Aventures de la nuit de Saint-Sylvestre ş1814 Die Abenteuer der Silvesternacht şTrad. Th. TOUSSENEL
 : .oF.     X     _LA MOTTE-FOUQUE F. de       Ondine (extraits) ş1811 Undine
 o PHEBUS      ?  2005.01 ..... ISBN 2-7529-0039-.
 } phebus_angoisse _?                           ?
-- .oS.    iN16   _QUIRINY Bernard             L'Angoisse de la premiŠre phrase ş2005
+- .oS.    iNx    _QUIRINY Bernard             L'Angoisse de la premiŠre phrase ş2005
 o PHEBAUJ     ?  2006.xx ..... ISBN 2-7529-0136-4
 } noimg          _?                           ?
 - .oF.     R     _GRAHAME Kenneth             Le Vent dans les saules ş1908 The Wind in the Willows şTrad. JOULIE G‚rard
@@ -289,24 +355,111 @@ o PHEB_BL     ?  2009.10 ..... ISBN 978-2-7340-0418-8
 o PHEBETR     ?  2010.05 ..... ISBN 978-2-7529-0457-7
 } noimg          _?                           ?
 - .x .     R     _LE FANU J. Sheridan         D‚sir de mort ş1873 Willing to Die şTrad. REUMAUX Patrick
+o PHEBUS      ?  2015.03 ..... ISBN 978-2-7529-1028-8
+} noimg          _?                           ?
+!--- 20.5 x 14 cm, 192 pages - 17 euros
+- .oS.     R     _GUAY-POLIQUIN Christian     Le Fil des kilomŠtres [Le Fil des kilomŠtres - 1] ş2013
 o PHEBUS      ?  2018.09 ..... ISBN 978-2-7529-1169-8
 } noimg          _?                           ?
 - .oS.     R     _BROCAS Alexis               Un dieu dans la machine ş2018
-
+o PHEBETR     ?  2018.10 ..... ISBN 978-2-7529-1100-1
+} phebus_eap1    _?                           Sophie Poti‚
+!--- 20.5 x 14 cm - 432 pages - 27,00 euros
+- .oF.    kN25   _POE Edgar Allan             Nouvelles int‚grales - Tome 1 (1831-1839) [Nouvelles int‚grales d'Edgar Allan Poe - 1] ş2018
+: .o .     p     _GARCIN Christian           &Pr‚face ş2022
+&          p     _GILLYBOEUF Thierry          
+: .o .  25 N     _POE Edgar Allan             Un rˆve ş1831 A Dream
+: .o .  29 N     _POE Edgar Allan             Metzengerstein ş1832-1936 Metzengerstein şTrad. ?
+: .o .  43 N     _POE Edgar Allan             Le Duc de l'Omelette ş1832 The Duc De L'Omelette
+: .o .  49 N     _POE Edgar Allan             Une histoire … J‚rusalem ş1832-1836 Tale of Jerusalem
+: .o .  54 N     _POE Edgar Allan             Le Souffle perdu - Histoire qui n'est ni pour le Blackwood ni pour ailleurs ş1832 A Decided Loss / Loss of Breath
+: .o .  71 N     _POE Edgar Allan             Bon-Bon ş1832-1850 The Bargain Lost / Bon-Bon
+: .o .  93 N     _POE Edgar Allan             Manuscrit trouv‚ dans une bouteille ş1833 Manuscript Found in a Bottle şTrad. BONDIL Pierre & LE RAY Johanne
+: .o . 107 N     _POE Edgar Allan             Le Rendez-Vous ş1835 The Visionary / The Assignation
+: .o . 121 N     _POE Edgar Allan             B‚r‚nice ş1835 Berenice şTrad. BONDIL Pierre & LE RAY Johanne
+: .o . 131 N     _POE Edgar Allan             Morella ş1835 Morella
+: .o . 139 N     _POE Edgar Allan             Parmi les lions ş1835 Lion-izing
+: .o . 149 N     _POE Edgar Allan             L'Histoire … nulle autre pareille d'un certain Hans Pfaall ş1835 The Unparalleled Adventure of One Hans Pfaall
+: .o . 209 N     _POE Edgar Allan             Le Roi Peste - Une histoire contenant une all‚gorie ş1835 King Pest
+: .o . 223 N     _POE Edgar Allan             Ombre - Une parabole ş1835 Shadow - A Parable
+: .o . 227 N     _POE Edgar Allan             Quatre bˆtes en une - L'Homme cam‚l‚opard ş1836 Four Beasts in One - The Homo-cameleopard
+: .o . 237 N     _POE Edgar Allan             Mystification ş1840 Mystification
+: .o . 247 N     _POE Edgar Allan             Silence - Une fable ş1838 Silence - A Fable
+: .o . 253 N     _POE Edgar Allan             Ligeia ş1838 Ligeia
+: .o . 271 N     _POE Edgar Allan             Comment ‚crire un article fa‡on Blackwood ş1838 The Psyche Zenobia / How to Write a Blackwood Article
+: .o . 283 N     _POE Edgar Allan             Un beau p‚trin ş1838 The Scythe of Time / A Predicament
+: .o . 297 N     _POE Edgar Allan             Le Diable dans le beffroi ş1839 The Devil in the Belfry
+: .o . 307 N     _POE Edgar Allan             L'Homme rafistol‚ - Un r‚cit de la r‚cente campagne contre les Bugaboos et les Kickapoos ş1839 The Man That Was Used Up
+: .o . 321 N     _POE Edgar Allan             La Chute de la maison Usher ş1839 The Fall of the House of Usher
+: .o . 343 N     _POE Edgar Allan             William Wilson ş1839 William Wilson
+: .o . 369 N     _POE Edgar Allan             La Conversation entre Eiros et Charmion ş1839 The Conversation of Eiros and Charmion
+o PHEBETR     ?  2019.05 ..... ISBN 978-2-7529-1114-8
+} phebus_eap2    _?                           Sophie Poti‚
+!--- 20.5 x 14 cm - 384 pages - 26,00 euros
+- .oF.    kN19   _POE Edgar Allan             Nouvelles int‚grales - Tome 2 (1840-1844) [Nouvelles int‚grales d'Edgar Allan Poe - 2] ş2019
+: .o .   7 N     _POE Edgar Allan             Pourquoi le petit Fran‡ais porte la main en ‚charpe ş1840 Why the Little Frenchman Wears His Hand in a Sling
+: .o .  15 N     _POE Edgar Allan             L'Homme d'affaires ş1840 The Business Man
+: .o .  29 N     _POE Edgar Allan             L'Homme de la foule ş1840 The Man of the Crowd
+: .o .  41 N     _POE Edgar Allan             Les Crimes de la rue Morgue [Auguste Dupin] ş1841 The Murders in the Rue Morgue
+: .o .  83 N     _POE Edgar Allan             Une descente dans le maelstr”m ş1841 A Descent Into the Maelstrom
+: .o . 103 N     _POE Edgar Allan             L'Œle de la f‚e ş1841 The Island of the Fay
+: .o . 107 N     _POE Edgar Allan             Le Colloque de Monos et Una ş1841 The Colloquy of Monos and Una
+: .o . 123 N     _POE Edgar Allan             Ne pariez jamais votre tˆte avec le diable ş1841 Never Bet the Devil Your Head
+: .o . 135 N     _POE Edgar Allan             El‚onora ş1842 Eleonora
+: .o . 143 N     _POE Edgar Allan             La Semaine des trois dimanches ş1841 Three Sundays in a Week
+: .o . 151 N     _POE Edgar Allan             Le Portrait ovale ş1842 The Oval Portrait
+: .o . 157 N     _POE Edgar Allan             Le Masque de la mort rouge ş1842 The Masque of the Red Death
+: .o . 165 r     _POE Edgar Allan             Le MystŠre de Marie Roget - Une suite aux "Crimes de la rue Morgue" [Auguste Dupin] ş1842 The Mystery of Marie Roget
+: .o . 223 N     _POE Edgar Allan             La Fosse et le pendule ş1843 The Pit and the Pendulum
+: .o . 241 N     _POE Edgar Allan             Le Coeur divulgateur ş1843 The Tell-Tale Heart
+: .o . 251 N     _POE Edgar Allan             Le Scarab‚e d'or ş1843 The Gold-Bug
+: .o . 293 N     _POE Edgar Allan             Matin‚e sur le Wissahickon ş1844 Morning on the Wissahiccon
+: .o . 301 N     _POE Edgar Allan             Le Chat noir ş1843 The Black Cat
+: .o . 313 a     _POE Edgar Allan             L'Arnaque consid‚r‚e comme une science exacte ş1843 Diddling Considered as One of the Exact Sciences şTrad. RABBE F‚lix
+o PHEBETR     ?  2019.10 ..... ISBN 978-2-7529-1147-6
+} phebus_eap3    _?                           Sophie Poti‚
+!--- 20.5 x 14 cm - 432 pages - 27,00 euros
+- .oF.    kN24   _POE Edgar Allan             Nouvelles int‚grales - Tome 3 (1844-1849) [Nouvelles int‚grales d'Edgar Allan Poe - 3] ş2019
+: .o .     N     _POE Edgar Allan             Les B‚sicles ş1844 The Spectacles
+: .o .     N     _POE Edgar Allan             Un r‚cit aux Monts Cr‚nel‚s ş1844 A Tale of the Ragged Mountains
+: .o .     N     _POE Edgar Allan             Le Canular du ballon ş1844 The Balloon Hoax
+: .o .     N     _POE Edgar Allan             L'Enterrement pr‚matur‚ ş1844 The Premature Burial
+: .o .     N     _POE Edgar Allan             R‚v‚lation sous hypnose ş1844 Mesmeric Revelation
+: .o .     N     _POE Edgar Allan             La Caisse ovale ş1844 The Oblong Box
+: .o .     N     _POE Edgar Allan             L'Ange de l'‚trange - Une extravagance ş1844 The Angel of the Odd - An Extravaganza
+: .o .     N     _POE Edgar Allan             "C'est toi qui m'a tu‚" ş1844 Thou Art the Man
+: .o .     N     _POE Edgar Allan             La Vie litt‚raire de l'honorable Machin Trucmuche, ancien r‚dacteur en chef de Ma MŠre L'Oie Gourmande, par lui-mˆme ş1844 Literary Life of Thingum Bob, Esq.
+: .o .     N     _POE Edgar Allan             La Lettre d‚rob‚e [Auguste Dupin] ş1845 The Purloined Letter
+: .o .     N     _POE Edgar Allan             La Mille-DeuxiŠme Histoire de Sch‚h‚razade ş1845 The Thousand-and-second Tale of Scheherazade
+: .o .     N     _POE Edgar Allan             Quelques mots avec une momie ş1845 Some Words With a Mummy
+: .o .     N     _POE Edgar Allan             Le Pouvoir des mots ş1845 The Power of Words
+: .o .     N     _POE Edgar Allan             Le D‚mon de la perversit‚ ş1845 The Imp of the Perverse
+: .o .     N     _POE Edgar Allan             La M‚thode du docteur Goudron et du professeur Plume ş1845 The System of Dr. Tarr and Professor Fether
+: .o .     N     _POE Edgar Allan             Les Faits concernant le cas Valdemar ş1845 The Facts in the Case of Mr. Valdemar
+: .o .     N     _POE Edgar Allan             Le Sphinx ş1846 The Sphinx
+: .o .     N     _POE Edgar Allan             Le F–t d'Amontillado ş1846 The Cask of Amontillado
+: .x .     a     _POE Edgar Allan             Le Domaine d'Arnheim ş1847 The Domain of Arnheim
+: .o .     N     _POE Edgar Allan             Mellonta Tauta ş1849 Mellonta Tauta
+: .o .     N     _POE Edgar Allan             Saute-Grenouille, ou les huits orang-outans enchaŒn‚s ş1849 Hop-Frog
+: .o .     N     _POE Edgar Allan             Von Kempelen et sa d‚couverte ş1849 Von Kempelen and His Discovery
+: .o .     N     _POE Edgar Allan             Un article pass‚ aux X ş1849 X-ing a Paragrab
+: .x .     a     _POE Edgar Allan             Le Cottage Landor ş1849 Landor's Cottage
 
 
 !-----------------------------------------------------------------------------
 !--- Libretto
+!-----------------------------------------------------------------------------
+!--- Devient une marque au sein de la maison d'‚dition Libella en 2012
 !-----------------------------------------------------------------------------
 !--   1.
 !--   2. Moonfleet  1998 - John Meade Falkner
 !--   3.
 !--   4.
 !--   5.
-!--   6. --- OK
 o PHEBLIB     6  1998.xx ..... ISBN 2-85940-530-5
 } noimg          _?                           ?
-+ PHEBLIB     6  2014.01 ..... ISBN 978-2-36914-071-9
+- .o .     R     _SEIGNOLLE Claude            La Malvenue ş1952
+o LIBRETT     6  2014.01 ..... ISBN 978-2-36914-071-9
 } noimg          _?                           ?
 - .o .     R     _SEIGNOLLE Claude            La Malvenue ş1952
 !--   7.
@@ -316,7 +469,6 @@ o PHEBLIB     6  1998.xx ..... ISBN 2-85940-530-5
 !--  11.
 !--  12.
 !--  13. En lisant Tourgueniev  1998 - William Tr‚vor
-!--  14. --- OK
 o PHEBLIB    14  1998.11 ..... ISBN 2-85940-553-4
 } noimg          _?                           ?
 + PHEBLIB    14  2011.05 ..... ISBN 978-2-7529-0611-3
@@ -331,7 +483,6 @@ o PHEBLIB    15  1998.xx ..... ISBN 2-85940-552-6
 !--- Edition pr‚sent‚e par Charles Palliser.
 - .o .     R     _COLLINS W. Wilkie           Pierre de Lune ş1868 The Moonstone şTrad. LENOB Lucienne
 !--  16.
-!--  17. --- OK
 o PHEBLIB    17  1999.xx ..... ISBN 2-85940-560-7
 } noimg          _?                           ?
 - .oY.     R     _CHARRIERE Christian         La Forˆt d'Iscambe ş1979
@@ -349,7 +500,6 @@ o PHEBLIB    17  1999.xx ..... ISBN 2-85940-560-7
 !--  29.
 !--  30.
 !--  31.
-!--  32. --- OK : Le cavalier su‚dois
 o PHEBLIB    32  1999.xx ..... ISBN 2-85940-597-6
 } noimg          _?                           ?
 + PHEBLIB    32  2011.05 ..... ISBN 978-2-7529-0631-1
@@ -388,7 +538,6 @@ o PHEBLIB    54  2000.xx ..... ISBN 2-85940-673-5
 - .o .     R     _COLLINS W. Wilkie           Armadale ş1866 Armadale şTrad. ALLOUARD E.
 !--  55.
 !--  56.
-!--  57. --- OK
 o PHEBLIB    57  2000.10 ..... ISBN 2-85940-681-6
 } noimg          _?                           ?
 - .o .     R     _LONDON Jack                 Le Vagabond des ‚toiles ş1915 The Star Rover
@@ -424,10 +573,13 @@ o PHEBLIB    57  2000.10 ..... ISBN 2-85940-681-6
 !--  87.
 !--  88.
 !--  89.
-!--  90. --- OK
 o PHEBLIB    90  2001.11 ..... ISBN 2-85940-773-1
 } libretto090    _?                           ?
-- .o .     R4    _SEIGNOLLE Claude            Les Mal‚dictions 1 - Int‚grale des romans et nouvelles - I ş2001
+- .oF.    kR4    _SEIGNOLLE Claude            Les Mal‚dictions 1 - Int‚grale des romans et nouvelles - I ((Les Mal‚dictions)) ş2001
+: .o .     p     _SICRE Jean-Pierre           Note de l'‚diteur ş2001
+: .o .     p     _DURRELL Lawrence            Seul dans son genre ş2001 ?
+: .o .     p     _SICRE Jean-Pierre           Voir dans la nuit ş2001
+: .o .     p     _JUIN Hubert                 A propos des mal‚dictions ş2001
 : .o .     R     _SEIGNOLLE Claude            Le Rond des sorciers ş1945
 : .o .     R     _SEIGNOLLE Claude            Marie la louve ş1949
 : .o .     R     _SEIGNOLLE Claude            La Malvenue ş1952
@@ -442,55 +594,55 @@ o PHEBLIB    90  2001.11 ..... ISBN 2-85940-773-1
 !--  98.
 !--  99.
 !-- 100.
-!-- 101. --- OK
 o PHEBLIB   101  2002.03 ..... ISBN 2-85940-805-3
-} libretto101    _?                           ?
-- .o .     N45   _SEIGNOLLE Claude            Les Mal‚dictions 2 - Int‚grale des romans et nouvelles - II ş2002
-: .o .     N     _SEIGNOLLE Claude            Avez vous vu le garou ş?
-: .o .     N     _SEIGNOLLE Claude            Ce Martin l… ş1967
-: .o .     N     _SEIGNOLLE Claude            Celui qui avait toujours froid ş1966
-: .o .     N     _SEIGNOLLE Claude            Celui qui s'y frotta ş1967
-: .o .     N     _SEIGNOLLE Claude            Chaque chose … sa place ş1969
-: .o .     N     _SEIGNOLLE Claude            Comme une odeur de loup ş1966
+} libretto101    _Pierre Bruegel l'ancien     ?
+!--- L'ouvrage assimile par erreur "Il ne faut jamais oublier les l‚gendes" au texte "Il ne faut jamais" (dont le titre deviendra "Ce Martin-l…").
+- .oF.    kN45   _SEIGNOLLE Claude            Les Mal‚dictions 2 - Int‚grale des romans et nouvelles - II ((Les Mal‚dictions)) ş2002
 : .o .     N     _SEIGNOLLE Claude            De qui venait ce sang ? ş1972
-: .o .     N     _SEIGNOLLE Claude            D‚sir‚e la sangsue ş1962
-: .o .     N     _SEIGNOLLE Claude            Huppe et Pupuler ş1974
-: .o .     N     _SEIGNOLLE Claude            Il ne faut jamais r‚veiller les l‚gendes ş1974
-: .o .     N     _SEIGNOLLE Claude            La Fille gagn‚e ş1969
-: .o .     N     _SEIGNOLLE Claude            La Huche ş1965
-: .o .     N     _SEIGNOLLE Claude            La Main de pierre ş1974
-: .o .     N     _SEIGNOLLE Claude            La Morsure ş?
-: .o .     N     _SEIGNOLLE Claude            La "Panard" ş1974
-: .o .     N     _SEIGNOLLE Claude            La Vierge maudite ş1969
-: .o .     N     _SEIGNOLLE Claude            L'Auberge du Larzac ş1967
-: .o .     N     _SEIGNOLLE Claude            Le Bout du monde ş1966
-: .o .     N     _SEIGNOLLE Claude            Le Christ est veng‚ ş1964
-: .o .     N     _SEIGNOLLE Claude            Le Dernier Visiteur ş1967
-: .o .     N     _SEIGNOLLE Claude            Le Dormeur ş1967
 : .o .     r     _SEIGNOLLE Claude            Le Gƒloup ş1960
-: .o .     N     _SEIGNOLLE Claude            Le Hupeur ş1967
-: .o .     N     _SEIGNOLLE Claude            Le Marchand de rats ş1967
-: .o .     N     _SEIGNOLLE Claude            Le Matagot ş1966
-: .o .     N     _SEIGNOLLE Claude            Le Miroir ş1966
-: .o .     N     _SEIGNOLLE Claude            Le Venin de l'arbre ş1969
-: .o .     N     _SEIGNOLLE Claude            Un viol ş1974
-: .o .     N     _SEIGNOLLE Claude            Les Ames aigries ş1965
-: .o .     N     _SEIGNOLLE Claude            Les Gorel ş1966
-: .o .     N     _SEIGNOLLE Claude            Les Chevaux de la nuit ş1967
-: .o .     N     _SEIGNOLLE Claude            Les Deux Plumes ş1967
 : .o .     N     _SEIGNOLLE Claude            L'Homme qui ne pouvait mourir ş1964
-: .o .     N     _SEIGNOLLE Claude            L'Homme qui savait d'avance ş1966
-: .o .     N     _SEIGNOLLE Claude            L'Isabelle ş1966
-: .o .     N     _SEIGNOLLE Claude            L'Odile ş1969
-: .o .     N     _SEIGNOLLE Claude            Lou Siblaire ş1967
-: .o .     N     _SEIGNOLLE Claude            L'Oubliette ş1974
-: .o .     N     _SEIGNOLLE Claude            Mais qui est le plus fort ? ş1974
-: .o .     N     _SEIGNOLLE Claude            Retour … Tiburiac ş1967
-: .o .     N     _SEIGNOLLE Claude            Un bel ensorcel‚ ş1964
+: .o .     N     _SEIGNOLLE Claude            La Huche ş1965
+: .o .     N     _SEIGNOLLE Claude            D‚sir‚e la sangsue ş1962
+: .o .     N     _SEIGNOLLE Claude            Un bel ensorcel‚ ş1965
+: .o .     N     _SEIGNOLLE Claude            Les Ames aigries ş1965
 : .o .     N     _SEIGNOLLE Claude            Un exorcisme ş1966
-: .o .     N     _SEIGNOLLE Claude            Une belle mouture de menterie ş?
-: .o .     N     _SEIGNOLLE Claude            Une sant‚ de cerisier ş1974
+: .o .     N     _SEIGNOLLE Claude            Comme une odeur de loup ş1966
+: .o .     N     _SEIGNOLLE Claude            Celui qui avait toujours froid ş1966
+: .o .     N     _SEIGNOLLE Claude            Le Miroir ş1966
+: .o .     N     _SEIGNOLLE Claude            Le Christ est veng‚ ş1966
+: .o .     N     _SEIGNOLLE Claude            Le Matagot ş1966
+: .o .     N     _SEIGNOLLE Claude            Les Gorel ş1966
+: .o .     N     _SEIGNOLLE Claude            L'Isabelle ş1966
+: .o .     N     _SEIGNOLLE Claude            L'Homme qui savait d'avance ş1966
+: .o .     N     _SEIGNOLLE Claude            Le Bout du monde ş1966
+: .o .     N     _SEIGNOLLE Claude            Le Dernier Visiteur ş1967
+: .o .     N     _SEIGNOLLE Claude            L'Auberge du Larzac ş1967
+: .o .     N     _SEIGNOLLE Claude            Retour … Tiburiac ş1967
+: .o .     N     _SEIGNOLLE Claude            Celui qui s'y frotta ş1967
+: .o .     N     _SEIGNOLLE Claude            Le Dormeur ş1967
+: .o .     N     _SEIGNOLLE Claude            Lou Siblaire ş1967
+: .o .     N     _SEIGNOLLE Claude            Le Marchand de rats ş1967
+: .o .     N     _SEIGNOLLE Claude            Les Deux Plumes ş1967
+: .o .     N     _SEIGNOLLE Claude            Les Chevaux de la nuit ş1967
+: .o .     N     _SEIGNOLLE Claude            Le Hupeur ş1967
+: .o .     N     _SEIGNOLLE Claude            L'Odile ş1969
+: .o .     N     _SEIGNOLLE Claude            Le Venin de l'arbre ş1969
 : .o .     N     _SEIGNOLLE Claude            Une veill‚e ş1969
+: .o .     N     _SEIGNOLLE Claude            La Fille gagn‚e ş1969
+: .o .     N     _SEIGNOLLE Claude            Chaque chose … sa place ş1969
+: .o .     N     _SEIGNOLLE Claude            La Vierge maudite ş1969
+: .o .     N     _SEIGNOLLE Claude            Une sant‚ de cerisier ş1974
+: .o .     N     _SEIGNOLLE Claude            Mais qui est le plus fort ? ş1974
+: .o .     N     _SEIGNOLLE Claude            Il ne faut jamais r‚veiller les l‚gendes ş1974
+: .o .     N     _SEIGNOLLE Claude            Huppe et Pupuler ş1974
+: .o .     N     _SEIGNOLLE Claude            La Main de pierre ş1974
+: .o .     N     _SEIGNOLLE Claude            La "Panard" ş1974
+: .o .     N     _SEIGNOLLE Claude            Un viol ş1974
+: .o .     N     _SEIGNOLLE Claude            La Morsure ş1974
+: .o .     N     _SEIGNOLLE Claude            L'Oubliette ş1974
+: .o .     N     _SEIGNOLLE Claude            Avez-vous vu le loup-garou ş1978
+: .o .     N     _SEIGNOLLE Claude            Ce Martin-l… ş1967
+: .o .     N     _SEIGNOLLE Claude            Une belle mouture de menteries ! - Pastiche … la maniŠre des "menteurs" poitevins ş1978
 !-- 102.
 !-- 103.
 !-- 104.
@@ -509,12 +661,13 @@ o PHEBLIB   113  2013.04 ..... ISBN 978-2-36914-030-6
 !-- 115.
 !-- 116.
 !-- 117.
-!-- 118. --- OK
 o PHEBLIB   118  2002.xx ..... ISBN 2-8594-0855-X
 } libretto118    _?                           ?
 + PHEBLIB   118  2006.xx ..... ISBN 2-7529-0225-.
 } noimg          _?                           ?
 !--- TBC si en libretto ou Ph‚bus ?
+!--- TBD si les recueils inclus sont identifi‚s (La L‚gende des gueux 1891)
+!--- Note : Bargette fut ensuite int‚gr‚e au Livre de Monelle, sous "La D‚‡ue"
 - .p .     RxNx  _SCHWOB Marcel              &Oeuvres ş2002
 &                *GOUDEMARE Sylvain            
 : .oF.     N34   _SCHWOB Marcel               Coeur double ş1891
@@ -537,7 +690,6 @@ o PHEBLIB   118  2002.xx ..... ISBN 2-8594-0855-X
 = .o .     N     _SCHWOB Marcel               L'Homme gras ş1891
 = .o .     N     _SCHWOB Marcel               Le Conte des oeufs ş1891
 = .o .     N     _SCHWOB Marcel               Le Dom ş1891
-!---      kN16   _SCHWOB Marcel               La L‚gende des gueux ş1891
 = .o .     N     _SCHWOB Marcel               L'ƒge de la pierre polie - La Vendeuse d'ambre ş1891
 = .o .     N     _SCHWOB Marcel               L'poque romaine - La Moisson Sabine ş1890
 = .o .     N     _SCHWOB Marcel               QuatorziŠme siŠcle - Les Routiers - M‚rigot MarchŠs ş1891
@@ -555,7 +707,6 @@ o PHEBLIB   118  2002.xx ..... ISBN 2-8594-0855-X
 = .o .     N     _SCHWOB Marcel               Instantan‚es ş1891
 = .o .     N     _SCHWOB Marcel               La Terreur future ş1891
 : .oF.    _N20   _SCHWOB Marcel               Le Roi au masque d'or ş1892
-!--- Note : Bargette fut ensuite int‚gr‚e au Livre de Monelle, sous "La D‚‡ue"
 : .o .     p     _SCHWOB Marcel               Pr‚face ş1892
 : .o .     N     _SCHWOB Marcel               Le Roi au masque d'or ş1892
 : .o .     N     _SCHWOB Marcel               La Mort d'Odjigh ş1892
@@ -582,42 +733,48 @@ o PHEBLIB   118  2002.xx ..... ISBN 2-8594-0855-X
 : .! .    iNx    _SCHWOB Marcel               La Croisade des enfants ş1896-1903
 !-- 119.
 !-- 110.
-!-- 121. --- OK
 o PHEBLIB   121  2002.11 ..... ISBN 2-85940-865-7
-} libretto121    _?                           ?
-- .oF.    _RN22  _SEIGNOLLE Claude            La Nuit des halles - Int‚grale des romans et nouvelles - III ş2002
-: .o .     p     _SEIGNOLLE Claude            Avant-propos ş1958
-: .o .     N     _SEIGNOLLE Claude            Le Bahut noir ş1958
-: .o .     N     _SEIGNOLLE Claude            Le Chupador ş1960
-: .o .     N     _SEIGNOLLE Claude            L'ƒme boiteuse ş1962
-: .o .     N     _SEIGNOLLE Claude            Delphine ş1963
-: .o .     N     _SEIGNOLLE Claude            Le Faucheur ş1964
-: .o .     N     _SEIGNOLLE Claude            Le MilliŠme Cierge ş1965
-: .o .     N     _SEIGNOLLE Claude            Un petit monstre … louer au quart d'heure ş1964
-: .o .     N     _SEIGNOLLE Claude            Et si c'‚tait !... ş1964
-: .o .     N     _SEIGNOLLE Claude            Pauvre Sonia ! ş1965
-: .o .     N     _SEIGNOLLE Claude            L'Ex‚cution ş1965
-: .o .     N     _SEIGNOLLE Claude            La M‚moire du bois ş1966
-: .o .     N     _SEIGNOLLE Claude            Non, pas moi ! ş1966
-!--- Nuits (contes brefs plac‚s sous le patronnage nocturne de G‚rard de Nerval)
-: .o .     N     _SEIGNOLLE Claude            Le Grand Vendu ş1971
-: .o .     N     _SEIGNOLLE Claude            Deux dents, pas plus ş1966
-: .o .     N     _SEIGNOLLE Claude            Un louis terreux ş1971
-: .o .     N     _SEIGNOLLE Claude            Les Autres moi ş1964
-: .o .     N     _SEIGNOLLE Claude            Minnah l'‚toile ş1964
-: .o .     N     _SEIGNOLLE Claude            Le Feuillet perdu ş1971
-: .o .     N     _SEIGNOLLE Claude            Le Num‚ro 141 ş?
-: .o .     N     _SEIGNOLLE Claude            Un vieux m‚lomane ş1974
-: .o .     N     _SEIGNOLLE Claude            L'Imposs‚dable ş1969
-: .o .     N     _SEIGNOLLE Claude            Les Roses d'en haut ş1969
+} libretto121    _Thomas Shotter Boys        ?
+>--- Le Groupe de texte "Nuits" comporte 5 textes, "Le Grand Vendu", "Un louis terreux", "Les Autres Moi", "Minnah l'‚toile" et "Le Feuillet perdu"
+- .oF.    _RN22  _SEIGNOLLE Claude            La Nuit des halles - Int‚grale des romans et nouvelles - III ((Les Mal‚dictions)) ş2002
+: .o .     p     _SICRE Jean-Pierre           Note de l'‚diteur ş2002
+: .oF.    _N22   _SEIGNOLLE Claude            La Nuit des halles ş1984-1988
+= .o .     p     _SEIGNOLLE Claude            Avant-propos ş1958
+= .o .     N     _SEIGNOLLE Claude            Le Bahut noir ş1958
+= .o .     N     _SEIGNOLLE Claude            Le Chupador ş1960
+= .o .     N     _SEIGNOLLE Claude            L'ƒme boiteuse ş1962
+= .o .     N     _SEIGNOLLE Claude            Delphine ş1963
+= .o .     N     _SEIGNOLLE Claude            Le Faucheur ş1964
+= .o .     N     _SEIGNOLLE Claude            Le MilliŠme Cierge ş1965
+= .o .     N     _SEIGNOLLE Claude            Un petit monstre … louer au quart d'heure ş1964
+= .o .     N     _SEIGNOLLE Claude            Et si c'‚tait !... ş1964
+= .o .     N     _SEIGNOLLE Claude            Pauvre Sonia ! ş1965
+= .o .     N     _SEIGNOLLE Claude            L'Ex‚cution ş1965
+= .o .     N     _SEIGNOLLE Claude            La M‚moire du bois ş1966
+= .o .     N     _SEIGNOLLE Claude            Non, pas moi ! ş1966
+= .o .     N     _SEIGNOLLE Claude            Deux dents, pas plus... ş1966
+= .C .     C     _SEIGNOLLE Claude            Nuits
+!--- 5 contes brefs plac‚s sous le patronnage nocturne de G‚rard de Nerval
+= .o .     N     _SEIGNOLLE Claude            Le Grand Vendu ş1971
+= .o .     N     _SEIGNOLLE Claude            Un louis terreux ş1971
+= .o .     N     _SEIGNOLLE Claude            Les Autres Moi ş1964
+= .o .     N     _SEIGNOLLE Claude            Minnah l'‚toile ş1964
+= .o .     N     _SEIGNOLLE Claude            Le Feuillet perdu ş1971
+= .o .     N     _SEIGNOLLE Claude            Le Num‚ro 141 ş1969
+= .o .     N     _SEIGNOLLE Claude            Un vieux m‚lomane ş1974
+= .o .     N     _SEIGNOLLE Claude            L'Imposs‚dable ş1969
+= .o .     N     _SEIGNOLLE Claude            Les Roses d'en haut ş1969
 : .o .     R     _SEIGNOLLE Claude            La brume ne se lŠvera plus ş1959-1987
 !-- 122.
 !-- 123.
 !-- 124.
 !-- 125.
-!-- 126. --- OK
 o PHEBLIB   126  2003.01 ..... ISBN 2-85940-876-2
 } noimg          _?                           ?
+- .o .     R     _LONDON Jack                 Le Talon de fer ş1907 The Iron Steel şTrad. POSTIF. Louis
+o LIBRETT     ?  2022.05 ..... ISBN 978-2-36914-711-4
+} noimg          _?                           ?
+!--- 12 x 182 mm - 320 pages - 10 euros
 - .o .     R     _LONDON Jack                 Le Talon de fer ş1907 The Iron Steel şTrad. POSTIF. Louis
 o PHEBLIB   127  2013.01 ..... ISBN 978-2-7529-0953-4
 !--- Paru … titre posthume, en 1959
@@ -651,6 +808,10 @@ o PHEBLIB   127  2013.01 ..... ISBN 978-2-7529-0953-4
 !-- 153. En ligne de bataille  2003 - Alexander Kent
 !-- 154.
 !-- 155.
+o LIBRETT     ?  2018.xx ..... ISBN 978-2-36914-473-1
+} noimg          _?                           ?
+!--- 474 pages - 19 cm - 11,80 euros
+- .oF.    iNx    _HOFFMANN E.T.A.             Fantaisies dans la maniŠre de Callot ş1813-1819 Fantasiestcke in Callot's Manier şTrad. CURZON Henri de
 !-- 156.
 !-- 157.
 !-- 158. La voie radieuse  2004 - Margaret Drabble
@@ -711,7 +872,6 @@ o PHEBLIB   127  2013.01 ..... ISBN 978-2-7529-0953-4
 !-- 213.
 !-- 214. Le feu de l'action  2005 - Alexander Kent
 !-- 215.
-!-- 216. --- OK
 o PHEBLIB   216  2006.xx ..... ISBN 2-7529-0142-9
 } noimg          _?                           ?
 - .o .     R     _PEAKE Mervyn                Titus d'enfer [Le Chƒteau de Gormenghast - 1] ş1946 Titus Groan şTrad. ?
@@ -721,7 +881,6 @@ o PHEBLIB   216  2006.xx ..... ISBN 2-7529-0142-9
 !-- 210.
 !-- 221.
 !-- 222.
-!-- 223. --- OK
 o PHEBLIB   223  2006.xx ..... ISBN 2-7529-0164-X
 } noimg          _?                           ?
 - .oF.     R     _PEAKE Mervyn                Gormenghast [Le Chƒteau de Gormenghast - 2] ş1950 Gormenghast şTrad. ?
@@ -730,7 +889,6 @@ o PHEBLIB   223  2006.xx ..... ISBN 2-7529-0164-X
 !-- 226.
 !-- 227.
 !-- 228.
-!-- 229. --- OK
 o PHEBLIB   229  2006.xx ..... ISBN 2-7529-0200-X
 } noimg          _?                           ?
 - .o .     R     _PEAKE Mervyn                Titus errant [Le Chƒteau de Gormenghast - 3] ş1959 Titus Alone şTrad. REUMAUX Patrick
@@ -739,11 +897,10 @@ o PHEBLIB   229  2006.xx ..... ISBN 2-7529-0200-X
 !-- 232.
 !-- 233.
 !-- 234.
-!-- 235. --- OK
 o PHEBLIB   235  2006.10 ..... ISBN 2-7529-0214-X
 } libretto235    _?                           ?
-- .oSF    kNx    _LONDON Jack                 La Peste ‚carlate et autres nouvelles ş2006
 !--- Trad. Louis Postif & Fr‚d‚ric Klein
+- .oSF    kNx    _LONDON Jack                 La Peste ‚carlate et autres nouvelles ş2006
 : .oS.     r     _LONDON Jack                 La Peste ‚carlate ş1912 The Scarlet Plague
 : .o .     N     _LONDON Jack                 Le Dieu rouge ş1918 The Red One
 : .o .     N     _LONDON Jack                 Qui croit encore aux fant“mes ? ş1895 Who Believes in Ghosts?
@@ -761,12 +918,11 @@ o PHEBLIB   235  2006.10 ..... ISBN 2-7529-0214-X
 !-- 245.
 !-- 246.
 !-- 247.
-!-- 248. --- OK
 o PHEBLIB   248  2007.xx ..... ISBN 978-2-7529-0280-1
-!--- Anthologiste : ?
 } noimg          _?                           ?
+!--- Anthologiste : ?
+!--- Trad. Louis Postif & Paul Gruyer + Fr‚d‚ric Klein
 - .oS.    iNx    _LONDON Jack                 Histoires des siŠcles futurs ş1974
-!--- şTrad. Louis Postif & Paul Gruyer + Fr‚d‚ric Klein
 !-- 249.
 !-- 250.
 !-- 251.
@@ -818,14 +974,12 @@ o PHEBLIB   248  2007.xx ..... ISBN 978-2-7529-0280-1
 !-- 297.
 !-- 298.
 !-- 299.
-!-- 300. --- OK
 o PHEBLIB   300  2009.10 ..... ISBN 978-2-7529-0422-5
 } noimg          _?                           ?
 - .oF.     R     _LE FANU J. Sheridan         La Maison prŠs du cimetiŠre ş1863 The House by the Churchyard şTrad. REUMAUX Patrick
 !-- 301.
 !-- 302.
 !-- 303.
-!-- 304. --- OK
 o PHEBLIB   304  2009.11 ..... ISBN 978-2-7340-0408-9
 } noimg          _?                           ?
 - .o .     R     _BOOTHBY Guy                 Docteur Nikola ş1896 Dr Nikola şTrad. VALENCIA MichŠle
@@ -863,14 +1017,19 @@ o PHEBLIB   317  2010.04 ..... ISBN 978-2-7529-0454-6
 !-- 334.
 !-- 335.
 !-- 336.
-!-- 337. --- OK
 o PHEBLIB   337  2011.03 ..... ISBN 978-2-7529-0544-4
 } noimg          _?                           ?
 !--- Pr‚face par Alberto Manguel
+!--- 120 x 182 mm - 224 pages - 9 euros
 - .oF.     R     _GRAHAME Kenneth             Le Vent dans les saules ş1908 The Wind in the Willows şTrad. JOULIE G‚rard
-o LIBRETT     ?  2018.10 ..... ISBN 978-2-36914-506-6
+o LIBRETC     ?  2018.10 ..... ISBN 978-2-36914-506-6
 } noimg          _?                           ?
 !--- Edition reli‚e simili cuir - Illustration originale : Sophie Poti‚ - Pr‚face par Alberto Manguel
+!--- 120 x 182 mm - 224 pages - 10 euros
+- .oF.     R     _GRAHAME Kenneth             Le Vent dans les saules ş1908 The Wind in the Willows şTrad. JOULIE G‚rard
+o LIBRETT     ?  2022.03 ..... ISBN 978-2-36914-694-0
+} noimg          _?                           ?
+!--- 120 x 182 mm - 224 pages - 9,10 euros
 - .oF.     R     _GRAHAME Kenneth             Le Vent dans les saules ş1908 The Wind in the Willows şTrad. JOULIE G‚rard
 !-- 338.
 !-- 339.
@@ -1058,6 +1217,9 @@ o LIBRETT   589  2017.10 ..... ISBN 978-2-36914-379-6
 - .oY.     R     _MORRIS William              La Source au bout du monde ** ş1896 The Well at the World's End şTrad. Maxime Shelledy & Souad Degachi
 o LIBRETT   602  2018.03 ..... ISBN 978-2-36914-436-6
 } libretto032018 _?                           ?
++ LIBRETT     ?  2022.05 ..... ISBN 978-2-36914-732-9
+} libretto602rr22 _?                           ?
+!--- 120 x 182 mm - 304 pages - 10,00 euros
 - .oF.    kN16   _HAWTHORNE Nathaniel         Contes ‚tranges ş1866
 : .o .     N     _HAWTHORNE Nathaniel         La Marque de naissance ş1843 The Birthmark şTrad. SPOLL Edouard-Auguste
 : .oF.     N     _HAWTHORNE Nathaniel         La Fille aux poisons ş1844 Rappaccini's Daughter şTrad. SPOLL Edouard-Auguste
@@ -1070,7 +1232,7 @@ o LIBRETT   602  2018.03 ..... ISBN 978-2-36914-436-6
 : .o .     N     _HAWTHORNE Nathaniel         Les Caprices du sort ş1837 David Swan şTrad. SPOLL Edouard-Auguste
 : .! .     N     _HAWTHORNE Nathaniel         La Promenade de la petite Annie ş1835 Little Annie's Ramble şTrad. SPOLL Edouard-Auguste
 : .o .     N     _HAWTHORNE Nathaniel         La Statue de bois ş1844 Drowne's Wodden Image şTrad. SPOLL Edouard-Auguste
-: .o .     N     _HAWTHORNE Nathaniel         Le Voyage de noce ş1873 The Wedding-Knell şTrad. SPOLL Edouard-Auguste
+: .o .     N     _HAWTHORNE Nathaniel         Le Voyage de noce ş1836 The Wedding-Knell şTrad. SPOLL Edouard-Auguste
 : .o .     N     _HAWTHORNE Nathaniel         La Catastrophe de M. Higginbotham ş1834 Mr. Higginbotham's Catastrophe şTrad. SPOLL Edouard-Auguste
 : .o .     N     _HAWTHORNE Nathaniel         Wakefield ş1835 Wakefield şTrad. SPOLL Edouard-Auguste
 : .o .     N     _HAWTHORNE Nathaniel         La Grande Escarboucle ş1837 The Great Carbuncle şTrad. SPOLL Edouard-Auguste
@@ -1099,7 +1261,8 @@ o LIBRETT   639  2019.03 ..... ISBN 978-2-36914-442-7
 - .o .     R     _BERNEDE Arthur              Belph‚gor ş1927
 o LIBRETT   649  2019.05 ..... ISBN 978-2-36914-496-0
 } libretto052019_1 _?                           N
-- .oS.    kC15   _CHASTELLIERE Emmanuel       C‚lestopol ş2017
+!--- "Dans ce volume de fantasy d'influence steampunk..."
+- .oF.    kC15   _CHASTELLIERE Emmanuel       C‚lestopol ş2017
 : .o .     N     _CHASTELLIERE Emmanuel       Face cach‚e ş2017
 : .o .     N     _CHASTELLIERE Emmanuel       La Chambre d'ambre ş2017
 : .o .     N     _CHASTELLIERE Emmanuel       Dans la brume ş2017
@@ -1134,6 +1297,9 @@ o LIBRETT   659  2019.09 ..... ISBN 978-2-36914-536-3
 - .oF.     R     _CALVO Sabrina               Sous la colline ş2015
 o LIBRETT   663  2019.10 ..... ISBN 978-2-36914-548-6
 } noimg          _Daniel Cartier B‚ard        ?
++ LIBRETT     ?  2022.05 ..... ISBN 978-2-36914-724-4
+} noimg          _Daniel Cartier B‚ard        ?
+!--- 120 x 182 mm - 496 pages - 11,30 euros
 - .oS.     R     _TWAIN Mark                  Un Yankee … la cour du roi Arthur ş1889 A Connecticut Yankee in King Arthur's Court şTrad. FERRY Odette et PLUNKETT Jacques de
 o LIBRETT   665  2019.10 ..... ISBN 978-2-36914-541-7
 } noimg          _?                           ?
@@ -1144,6 +1310,41 @@ o LIBRETT   666  2019.10 ..... ISBN 978-2-36914-534-9
 &                _DELECLUZE Etienne-Jean      
 : .oS.     N     _MITCHELL Edward Page        L'Homme le plus dou‚ du monde ş1879 The Ablest Man in the World... şTrad. MADOURAUT Marc
 : .oS.     N     _DELECLUZE Etienne-Jean      Le M‚canicien roi ş1832
+o LIBRETT   669  2019.xx ..... ISBN 978-2-36914-546-2
+} noimg          _?                           ?
+- .oF.     R     _LE FANU J. Sheridan         Invitation au crime ş1851 The Evil Guest
+o LIBRETT     ?  2022.02 ..... ISBN 978-2-36914-610-0
+} libretto022022_1 _?                           N
+!--- 18.2 x 12 cm - 480 pages - 11,30 euros
+- .oF.    kN25   _POE Edgar Allan             La Chute de la maison Usher et autres nouvelles - Integrale des nouvelles - Tome 1 [Nouvelles int‚grales d'Edgar Allan Poe - 1] ş2018
+: .o .     p     _GARCIN Christian           &Pr‚face ş2022
+&          p     _GILLYBOEUF Thierry          
+: .o .     N     _POE Edgar Allan             Un rˆve ş1831 A Dream
+: .o .     N     _POE Edgar Allan             Metzengerstein ş1832-1936 Metzengerstein şTrad. ?
+: .o .     N     _POE Edgar Allan             Le Duc de l'Omelette ş1832 The Duc De L'Omelette
+: .o .     N     _POE Edgar Allan             Une histoire … J‚rusalem ş1832-1836 Tale of Jerusalem
+: .o .     N     _POE Edgar Allan             Le Souffle perdu ş1832 A Decided Loss / Loss of Breath
+: .o .     N     _POE Edgar Allan             Bon-Bon ş1832-1850 The Bargain Lost / Bon-Bon
+: .o .     N     _POE Edgar Allan             Manuscrit trouv‚ dans une bouteille ş1833 Manuscript Found in a Bottle şTrad. BONDIL Pierre & LE RAY Johanne
+: .o .     N     _POE Edgar Allan             Le Rendez-Vous ş1835 The Visionary / The Assignation
+: .o .     N     _POE Edgar Allan             B‚r‚nice ş1835 Berenice şTrad. BONDIL Pierre & LE RAY Johanne
+: .o .     N     _POE Edgar Allan             Morella ş1835 Morella
+: .o .     N     _POE Edgar Allan             Parmi les lions ş1835 Lion-izing
+: .o .     N     _POE Edgar Allan             L'Histoire … nulle autre pareille d'un certain Hans Pfaall ş1835 The Unparalleled Adventure of One Hans Pfaall
+: .o .     N     _POE Edgar Allan             Le Roi Peste ş1835 King Pest
+: .o .     N     _POE Edgar Allan             Ombre - Une parabole ş1835 Shadow - A Parable
+: .o .     N     _POE Edgar Allan             Quatre bˆtes en une ş1836 Four Beasts in One - The Homo-cameleopard
+: .o .     N     _POE Edgar Allan             Mystification ş1840 Mystification
+: .o .     N     _POE Edgar Allan             Silence - Une fable ş1838 Silence - A Fable
+: .o .     N     _POE Edgar Allan             Ligeia ş1838 Ligeia
+: .o .     N     _POE Edgar Allan             Comment ‚crire un article fa‡on Blackwood ş1838 The Psyche Zenobia / How to Write a Blackwood Article
+: .o .     N     _POE Edgar Allan             Un beau p‚trin ş1838 The Scythe of Time / A Predicament
+: .o .     N     _POE Edgar Allan             Le Diable dans le beffroi ş1839 The Devil in the Belfry
+: .o .     N     _POE Edgar Allan             L'Homme rafistol‚ ş1839 The Man That Was Used Up
+: .o .     N     _POE Edgar Allan             La Chute de la maison Usher ş1839 The Fall of the House of Usher
+: .o .     N     _POE Edgar Allan             William Wilson ş1839 William Wilson
+: .o .     N     _POE Edgar Allan             La Conversation entre Eiros et Charmion ş1839 The Conversation of Eiros and Charmion
+
 
 !--- 662 - Histoires ‚tranges et merveilleuses 2019.09 ISBN 978-2-36914-499-1
 !--- Ahmad Al Qalyoubi Traduit par Ren‚ R. Khawam

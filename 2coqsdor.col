@@ -1,9 +1,19 @@
 !-----------------------------------------------------------------------------
-_ 2COQ_MP Deux Coqs d'Or, Coll. "Mot de Passe"
-_ 2COQ_EO Ed. des Deux Coqs d'Or, Coll. Etoiles d'Or, S‚rie rouge
-_ 2COQ_ET Deux Coqs d'Or, Coll. L'encyclop‚die par le timbre
+!--- Edition Les Deux Coqs d'Or = Deux coqs d'or - Cr‚‚e en 1955
+!--- originellement fond‚e en 1949 sous "‚ditions Cocorico"
+!--- Rachet‚ par le groupe Hachette Livre en 1991
 !-----------------------------------------------------------------------------
-!--- Edition Deux Coqs d'Or
+_ 2COQ_ET Les deux coqs d'or - L'encyclop‚die par le timbre
+_ 2COQ_MP Les deux coqs d'or - Mot de passe þ1994-1997
+!--- 18 cm
+_ 2COQ_EO Les deux coqs d'or - L'‚toile d'or, S‚rie rouge [jeunesse] [Poche] þ1965-1970
+!--- nø 1 … 105 - 13 cm
+!--- Collection L'‚toile d'or : S‚rie bleue pour les plus jeunes (7-10 ans), s‚rie rouge pour les 10 - 14 ans
+!-----------------------------------------------------------------------------
+!--- A noter la collection "Super ‚toile d'or", qui pr‚sente de courts extraits/adaptations de plusieurs romans
+!--- Chaque volume (il en existe 12) est ‚tiquet‚ par un genre, aventure, insolite, ‚pop‚e, policier, espionnage...
+!--- Certaines adaptations sont r‚f‚ren‡ables, par exemple "Par une nuit de brouillard", d'aprŠs Dan Wallis (One Foggy Night, 1968) dans le nø12
+!--- Voir BNF pour la liste https://catalogue.bnf.fr/changerPage.do?motRecherche=&index=TOUS3&numNotice=34255666&listeAffinages=&nbResultParPage=20&afficheRegroup=false&pageEnCours=1&trouveDansFiltre=NoticePUB&trouverDansActif=false&triResultParPage=5&critereRecherche=&typeNotice=C&pageRech=rsi
 !-----------------------------------------------------------------------------
 o 2COQ_EO    51  1966.xx ..... ISBN -
 } noimg          _?                           ?
@@ -18,7 +28,7 @@ o 2COQ_EO    76  1967.xx ..... ISBN -
 - .o .     R     _GREENE Joseph               La Cit‚ perdue [Aventures dans l'espace - 6] þ1961 Lost City of Uranus þAdapt. CARMUEL P.J.
 
 o 2COQ_ET    63  1959.xx ..... ISBN -
-} noimg          _?                           ?
+} noimg          _?                           G. Solonevich, C. C. Beck
 - .o .     N     _BINDER Otto                 A travers l'espace þ1959 Space Travel
 
 ?o 2COQ_MP     1  1994.xx ..... ISBN 2-01-391984-0
@@ -44,13 +54,13 @@ o 2COQ_MP     7  1994.05 ..... ISBN 2-01-391946-8
 - .o .     R     _LEROUX Gaston               Le Fauteuil hant‚ þ1910
 ?o 2COQ_MP     6  1994.xx ..... ISBN 2-01-391945-X
 ?} noimg          _?                           ?
-?- .o .     R     _STEEMAN Stanislas-Andr‚     L'Assassin habite au 21 þ?
+?- .x .     R     _STEEMAN Stanislas-Andr‚     L'Assassin habite au 21 þ1939
 o 2COQ_MP     9  1994.xx ..... ISBN 2-01-391976-X
 } noimg          _?                           ?
-- .o .     N     _WILDE Oscar                 Le Crime de Lord Arthur Savile þ1891 Lord Arthur Savile's Crime
+- .o .     N     _WILDE Oscar                 Le Crime de Lord Arthur Savile þ1887 Lord Arthur Savile's Crime
 o 2COQ_MP    10  1994.xx ..... ISBN 2-01-391980-8
 } noimg          _?                           ?
-- .o .    iN8    _MAUPASSANT Guy de           Dr“les d'histoires þ1894
+- .pF.     N8    _MAUPASSANT Guy de           Dr“les d'histoires þ1894
 : .o .     N     _MAUPASSANT Guy de           Le Horla þ1886
 : .o .     N     _MAUPASSANT Guy de           La L‚gende du Mont Saint Michel þ1882
 : .o .     N     _MAUPASSANT Guy de           Sur l'eau þ1876
@@ -103,7 +113,7 @@ o 2COQ_MP    21  1995.02 ..... ISBN 2-01-392096-2
 !--- DL f‚vrier 95
 !--- Imprim‚ en Italie
 !--- Traduction de Alzir Hella et Olivier Bournac, Madeleine Laval et Andr‚ Espiau de la Ma‰stre
-!--- Traductions issues de Ed. Stock 1929 et Ed. Ph‚bus 1979
+!--- Traductions issues de Stock 1929 et Ph‚bus 1979
 : .o .     N     _HOFFMANN E.T.A.             L'Automate þ1813 Die Automate
 : .oF.     N     _HOFFMANN E.T.A.             Le Conseiller Crespel þ1817 Rat Krespel þTrad. LOEVE-VEIMARS
 : .oF.     N     _HOFFMANN E.T.A.             La Maison d‚serte þ1817 Das ”de Haus þTrad. LOEVE-VEIMARS
@@ -127,7 +137,7 @@ o 2COQ_MP    27  1996.xx ..... ISBN 2-01-392166-7
 - .oS.     N     _VERNE Jules                 MaŒtre Zacharius þ1854
 o 2COQ_MP    28  1995.xx ..... ISBN 2-01-392160-8
 } noimg          _?                           ?
-- .oF.    iNx    _MAUPASSANT Guy de           Contes fantastiques þ1995
+- .oF.    iNx    _MAUPASSANT Guy de           Contes fantastiques ((Contes fantastiques de Maupassant)) þ1995
 ?o 2COQ_MP    29  1995.xx ..... ISBN 2-01-392097-0
 ?} noimg          _?                           ?
 ?- .x .     R     _CHRISTIE Agatha             La Fˆte du potiron þ?
@@ -148,10 +158,10 @@ o 2COQ_MP    33  1996.03 ..... ISBN 2-01-392233-7
 ?- .x .     R     _WALLACE Edgar               Le Cercle rouge þ?
 ?o 2COQ_MP    35  1996.09 ..... ISBN 2-01-392237-.
 ?} noimg          _?                           ?
-?- .o .     R     _ABOUT Edmond                L'Homme … l'oreille cass‚e - 1 þ1861
+?- .o .     R     _ABOUT Edmond                L'Homme … l'oreille cass‚e - 1 þ1862
 ?o 2COQ_MP    36  1996.09 ..... ISBN 2-01-392238-8
 ?} noimg          _?                           ?
-?- .o .     R     _ABOUT Edmond                L'Homme … l'oreille cass‚e - 2 þ1861
+?- .o .     R     _ABOUT Edmond                L'Homme … l'oreille cass‚e - 2 þ1862
 ?o 2COQ_MP    37  1996.xx ..... ISBN 2-01-392241-.
 ?} noimg          _?                           ?
 ?- .x .     R     _CHRISTIE Agatha             Les travaux d'Hercule þ?
@@ -188,7 +198,7 @@ o 2COQ_MP    41  1996.10 ..... ISBN 2-01-392256-6
 ?- .o .     R     _KIPLING Rudyard             L'Histoire de Mowgli þ?
 o 2COQ_MP   100  1995.xx ..... ISBN 2-01-391952-2
 } noimg          _?                           ?
-- .o .     R     _SAND George                 La Mare au diable þ1946
+- .o .     R     _SAND George                 La Mare au diable þ1846
 ?o 2COQ_MP   101  1995.xx ..... ISBN 2-01-391941-7
 ?} noimg          _?                           ?
 ?- .o .     R     _DAUDET Alphonse             Tartatin de Tarascon þ?

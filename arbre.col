@@ -1,11 +1,12 @@
 !-----------------------------------------------------------------------------
 _ ARBRE_V L'Arbre Vengeur
-_ ARBRE_A L'Arbre Vengeur, L'alambic
-_ ARBRE_I L'Arbre Vengeur, Forˆt invisible
-_ ARBRE_C L'Arbre Vengeur, L'abre … clous
-_ ARBRE_E L'Arbre Vengeur, Exhum‚rante
-_ ARBRE_S L'Arbre Vengeur, Selva Selvaggia
-_ ARBRE_B L'Arbre Vengeur, L'Arbuste v‚h‚ment
+_ ARBRE_A L'Arbre Vengeur - L'alambic
+_ ARBRE_I L'Arbre Vengeur - Forˆt invisible
+_ ARBRE_C L'Arbre Vengeur - L'abre … clous
+_ ARBRE_E L'Arbre Vengeur - Exhum‚rante
+_ ARBRE_S L'Arbre Vengeur - Selva Selvaggia
+_ ARBRE_B L'Arbre Vengeur - L'Arbuste v‚h‚ment
+_ ARBRE_F L'Arbre Vengeur - Fantascope
 !-----------------------------------------------------------------------------
 !---   L'alambic : domaine oubli‚
 !---   Forˆt invisible : domaine hispanique
@@ -85,7 +86,7 @@ o ARBRE_V     ?  2007.xx ..... ISBN 978-2-916141-14-5
 : .o .     N     _BLOY L‚on                   Le T‚l‚phone de Calypso þ1894
 : .o .     N     _BLOY L‚on                   Une recrue þ1894
 : .o .     N     _BLOY L‚on                   SacrilŠge rat‚ þ1894
-: .o .     N     _BLOY L‚on                   Le Torchon br–le ! þ1894
+: .o .     N     _BLOY L‚on                   Le torchon br–le ! þ1894
 : .o .     N     _BLOY L‚on                   La Taie d'argent þ1894
 : .o .     N     _BLOY L‚on                   Un homme bien nourri þ1894
 : .o .     N     _BLOY L‚on                   La Fˆve þ1894
@@ -108,20 +109,31 @@ o ARBRE_A     ?  2007.10 ..... ISBN 978-2-916141-18-3
 !------------------------
 !=== 2008
 !------------------------
-o ARBRE_V     ?  2008.xx ..... ISBN 978-2-916141-25-1
-} arbrev2008_1   _?                           ?
-- .oF.    iN11   _ERCKMANN-CHATRIAN           Le Requiem du corbeau ((Contes fantastiques de Erckmann-Chatrian)) [Contes fantastiques - 1] þ2008
-: .o .     N     _ERCKMANN-CHATRIAN           Le Tisserand de la Steinbach þ?
+o ARBRE_V     ?  2008.05 ..... ISBN 978-2-916141-25-1
+} arbrev2008_1   _Vincent Vanoli              Vincent Vanoli
+!--- Poche - 115 x 167 mm - 266 pages
+>--- Une nouvelle est absente du sommaire
+- .oF.     N12   _ERCKMANN-CHATRIAN           Le Requiem du corbeau ((Contes fantastiques de Erckmann-Chatrian)) [Contes fantastiques - 1] þ2008
 : .o .     N     _ERCKMANN-CHATRIAN           Le Requiem du corbeau þ1858
+: .o .     N     _ERCKMANN-CHATRIAN           Le Tisserand de la Steinbach þ?
+: .o .     N     _ERCKMANN-CHATRIAN           Les Boh‚miens þ1864
 : .o .     N     _ERCKMANN-CHATRIAN           Le Bourgmestre en bouteille þ1857
+: .o .     N     _ERCKMANN-CHATRIAN           Le Cabaliste Hans Weinland þ1862
+: .o .     N     _ERCKMANN-CHATRIAN           L'Inventeur þ?
+: .o .     N     _ERCKMANN-CHATRIAN           La Tresse noire þ1859
 : .o .     N     _ERCKMANN-CHATRIAN           L'Araign‚e-Crabe þ1860
+: .o .     N     _ERCKMANN-CHATRIAN           Le Chant de la tonne þ1859
+: .o .     N     _ERCKMANN-CHATRIAN           Myrtille þ1860
+: .o .     N     _ERCKMANN-CHATRIAN           Le Rˆve du cousin Elof þ1859
 : .o .     N     _ERCKMANN-CHATRIAN           La Voleuse d'enfants þ?
 o ARBRE_V     ?  2008.05 ..... ISBN 978-2-916141-26-8
-} arbrev2008_2   _?                           ?
-- .oF.    iNx    _ERCKMANN-CHATRIAN           L'Oeil invisible ((Contes fantastiques de Erckmann-Chatrian)) [Contes fantastiques - 2] þ2008
+} arbrev2008_2   _Vincent Vanoli              Vincent Vanoli
+!--- Poche - 115 x 167 mm - 256 pages
+- .oF.    kN4    _ERCKMANN-CHATRIAN           L'Oeil invisible ((Contes fantastiques de Erckmann-Chatrian)) [Contes fantastiques - 2] þ2008
+: .oF.     N     _ERCKMANN-CHATRIAN           L'Oeil invisible þ1858
 : .oF.     N     _ERCKMANN-CHATRIAN           Les Trois ƒmes þ1859
-: .oF.     r     _ERCKMANN-CHATRIAN           Hugues-le-loup þ1876
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Violon du pendu þ?
+: .oF.     N     _ERCKMANN-CHATRIAN           Le Violon du pendu þ?
+: .oF.     r     _ERCKMANN-CHATRIAN           Hugues-le-loup þ1860
 o ARBRE_V     ?  2008.10 ..... ISBN 978-2-916141-32-9
 } noimg          _?                           ?
 - .oS.     R     _SPITZ Jacques               L'Oeil du purgatoire þ1945
@@ -279,7 +291,7 @@ o ARBRE_V     ?  2014.07 ..... ISBN 979-10-91504-17-1
 - .oS.     R     _RENARD Maurice              L'Homme truqu‚ þ1921
 o ARBRE_V     ?  2014.08 ..... ISBN 979-10-91504-18-8
 } noimg          _Alban Caumont               ?
-- .oS.     R     _COUDRAY Jean-Luc            Entre fous þ2014
+- .oF.     R     _COUDRAY Jean-Luc            Entre fous þ2014
 !------------------------
 !=== 2017
 !------------------------
@@ -346,7 +358,7 @@ o ARBRE_V     ?  2019.02 ..... ISBN 979-10-91504-86-7
 : .oS.     N     _WEINBAUM Stanley G.         Graphe þ1936 Graph þTrad. DELAVALLADE Catherin
 o ARBRE_V     ?  2019.05 ..... ISBN 979-10-91504-94-2
 } noimg          _Donatien Mary               ?
-- .oF.     r     _LETORT Yves                 Le Fort þ2019
+- .oF.     r     _LETORT Yves                 Le Fort [Le Fleuve] þ2019
 ?o ARBRE_B     ?  2019.09 ..... ISBN 978-2-37941-002-4
 ?} noimg          _?                           ?
 ?!--- TrŠs limite genre ?!
@@ -359,6 +371,9 @@ o ARBRE_B     ?  2019.11 ..... ISBN 978-2-37941-007-9
 } noimg          _Nicolas Etienne             ?
 !--- Pr‚face de Serge Lehman
 - .oS.     R     _SPITZ Jacques               L'Oeil du purgatoire þ1945
+!------------------------
+!=== 2020
+!------------------------
 o ARBRE_V     ?  2020.10 ..... ISBN 978-2-37941-027-7
 } noimg          _Romain Bernard              ?
 !--- GF - 124 x 180 mm - 288 pages - 16 euros
@@ -367,7 +382,60 @@ o ARBRE_V     ?  2020.11 ..... ISBN 978-2-37941-034-5
 } noimg          _Laurent Bourlaud            Laurent Bourlaud
 !--- GF - 124 x 180 mm - 350 pages - 18 euros
 - .o .     R     _CHESTERTON Gilbert K.       L'Homme qu'on appelait Jeudi - Un cauchemar þ1911 The Man who Was Thursday: A Nightmare þTrad. BERNE Marie
-
+!------------------------
+!=== 2021
+!------------------------
+o ARBRE_V     ?  2021.01 ..... ISBN 978-2-37941-112-0
+} noimg          _?                           ?
+!--- Poche - 120x180 - 270 pages
+- .oF.     R     _BERNANOS Michel             Le Murmure des dieux þ1964
+o ARBRE_V     ?  2021.06 ..... ISBN 978-2-37941-123-6
+} noimg          _?                           ?
+!--- YA - Poche - 130x180 - 330 pages
+- .oS.     R     _SOHL Jerry                  L'Aiguille de Costigan þ1953 Costigan's Needle þTrad. GROVE Frances
+o ARBRE_V     ?  2021.10 ..... ISBN 978-2-37941-130-4
+} arbrev102021_1 _?                           Greg Vezon
+!--- GF - 145x210 - 488 pages - 25 euros
+- .oS.     A6    *LEHMAN Serge                MaŒtres du vertige - Six r‚cits de l'ƒge d'or þ2021
+: .o .     p     _LEHMAN Serge                La Pulpe et la Mo‰lle þ2021
+: .o .     N     _MILLE Pierre                Dans trois cents ans þ1922
+: .o .     N     _DUNAN Ren‚e                 Tsad‚ (une aventure de Palmyre) þ?
+: .o .     r     _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1] þ1925
+: .o .     N     _RAY Jean                    La Terreur rose þ1944
+: .o .     N     _FARRERE Claude              O— ? þ1923
+: .o .     R     _SPITZ Jacques               L'Agonie du globe þ1935
+o ARBRE_V     ?  2021.10 ..... ISBN 978-2-37941-132-8
+} noimg          _Jean-Michel Perrin          ?
+!--- GF - 145x210 - 120 pages
+- .o .     r     _DAISNE Johan                Un soir, un train þ1950 De Trein der traagheid þTrad. BUYSSE Maddy
+!------------------------
+!=== 2022
+!------------------------
+o ARBRE_B     ?  2022.01 ..... ISBN 978-2-37941-138-0
+} noimg          _Nicolas Etienne             ?
+!--- Poche - 105x155 - 78 pages - 6,50 euros
+- .o .     N     _MERRITT Abraham             La Femme du bois þ1926 The Woman in the Wood þTrad. WATKINS France-Marie
+o ARBRE_V     ?  2022.06 ..... ISBN 978-2-37941-196-0
+} noimg          _Greg Vezon                  ?
+!--- Poche - 124x180 - 426 pages - 19,50 euros
+- .oF.     R     _O'NEILL Joseph              La Terre sous l'Angleterre þ1935 Land under England þTrad. GANS Jacques
+o ARBRE_B     ?  2022.09 ..... ISBN 978-2-37941-200-4
+} noimg          _Nicolas Lestienne           ?
+!--- Poche - 105x155 - 126 pages - 9,00 euros
+- .o .     R     _BERNANOS Michel             La Montagne morte de la vie þ1967
+o ARBRE_F     ?  2022.09 ..... ISBN 978-2-37941-203-5
+} noimg          _Greg Vezon                  ?
+!--- GF - 145x210 - 380 pages - 20,00 euros
+- .oS.     R     _BELIARD Octave              Les Petits Hommes de la pinŠde þ1929
+o ARBRE_V     ?  2022.09 ..... ISBN 978-2-37941-201-1
+} arbrev092022_2 _Greg Vezon                  Greg Vezon
+!--- Poche - 145x210 - 210 pages - 20,00 euros
+- .oF.     A5    _BLACKWOOD Algernon          La Forˆt pourpre þ2022
+: .o .     N     _BLACKWOOD Algernon          Le Wendigo þþ1910 The Wendigo þTrad. BALEYNAUD Romane
+: .o .     N     _BLACKWOOD Algernon          La ClairiŠre du loup þ1920 Running Wolf þTrad. BALEYNAUD Romane
+: .o .     N     _BLACKWOOD Algernon          La Vall‚e des bˆtes sauvages þ1921 The Valley of the Beasts þTrad. BALEYNAUD Romane
+: .o .     N     _BLACKWOOD Algernon          L'Œle hant‚e þ1899 A Haunted Island þTrad. BALEYNAUD Romane
+: .o .     N     _BLACKWOOD Algernon          Le Lac du corps-mort þ1906 Skeleton Lake: An Episode in Camp þTrad. BALEYNAUD Romane
 
 
 

@@ -3,7 +3,7 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ JUBC    Julliard, Coll. "La bibliothŠque criminelle"
+_ JUBC    Julliard - La bibliothŠque criminelle
 !-----------------------------------------------------------------------------
 !--- Julliard, bibliothŠque criminelle
 !-----------------------------------------------------------------------------
@@ -19,12 +19,12 @@ o JUBC        5  1991.xx ..... ISBN .-.....-...-.
 !-----------------------------------------------------------------------------
 _ JULL    Julliard
 _ JULL_AH Julliard & L'ƒge d'homme
-_ JULL_LI Julliard, Coll. Litt‚rature
-_ JULLSEQ Julliard, Coll. Sequana
-_ JUL_PAR Julliard, Coll. Parages
-_ JULL_2C Julliard, Coll. La seconde chance
-_ JULL_PJ Julliard, Coll. P.J. bis
-_ JULL_CA Julliard, Coll. Capricorne
+_ JULL_LI Julliard - Litt‚rature
+_ JULLSEQ Julliard - Sequana
+_ JUL_PAR Julliard - Parages
+_ JULL_2C Julliard - La seconde chance
+_ JULL_PJ Julliard - P.J. bis
+_ JULL_CA Julliard - Capricorne
 !-----------------------------------------------------------------------------
 !--- Julliard
 !-----------------------------------------------------------------------------
@@ -53,7 +53,7 @@ o JULL        ?  1953.xx ..... ISBN -
 : .oS.     N     _BOULLE Pierre               Une nuit interminable þ1953
 : .oS.     N     _BOULLE Pierre               Le Poids d'un sonnet þ1953
 : .oS.     N     _BOULLE Pierre               Le RŠgne des sages þ1953
-: .oS.     N     _BOULLE Pierre               Le Parfait robot þ1953
+: .oS.     N     _BOULLE Pierre               Le Parfait Robot þ1953
 o JULL_CA     ?  1957.xx ..... ISBN -
 } noimg          _?                           ?
 - .oY.     R     _GASKELL Jane                Une ‚trange aventure þ1957 Strange Evil þTrad. LACRETELLE Yolande de
@@ -134,10 +134,14 @@ o JULL        ?  1966.xx ..... ISBN -
 : .o .     N     _LACOUR Jos‚-Andr‚           Une technique ambigue þ1966
 o JULL        ?  1967.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _TERTZ Abraham               Lioubimov þ? ? þTrad. LESCAUT Sonia
+- .o .     R     _TERTZ Abraham               Lioubimov þ1963 Lyubimov þTrad. LESCAUT Sonia
 o JULL        ?  1968.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.     C17   _REMY Yves & Ada             Les Soldats de la mer þ1968
+!--- 247 pages - 21 cm
+- .oF.     R     _HORIA Vintila               Une femme pour l'apocalypse þ1968
+o JULL        ?  1968.xx ..... ISBN -
+} noimg          _?                           ?
+- .oI.     C17   _REMY Yves & Ada             Les Soldats de la mer þ1968
 : .o .     p     _REMY Yves & Ada             Pr‚face þ1968
 : .o .     N     _REMY Yves & Ada             Suicide par imprudence þ1968
 : .o .     N     _REMY Yves & Ada             Celui qui se faisait appeler Schaeffer þ1968
@@ -334,7 +338,7 @@ o JULL        ?  2020.01 ..... ISBN 978-2-260-05433-7
 
 
 !-----------------------------------------------------------------------------
-_ JUAN    Julliard, l'ann‚e de la SF
+_ JUAN    Julliard - l'ann‚e de la SF
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 o JUAN        ?  1978.xx ..... ISBN 2-260-00119-X
@@ -348,7 +352,7 @@ o JUAN        ?  1978.xx ..... ISBN 2-260-00119-X
 : .o .     N     _SILVERBERG Robert           Absolument inflexible þ1956 Absolutely Inflexible þTrad. PEMERLE Didier
 : .o .     N     _SPINRAD Norman              Black-out þ1977 Black-out þTrad. DUVIC Patrice
 : .o .     N     _GOUGAUD Henri               Un bon petit diable þ1977
-: .o .     N     _DUNSANY Lord                Chu-bu et Sheemish þ1911 Chu-bu and Sheemish þTrad. DUVEAU Marc
+: .o .     N     _DUNSANY Lord                Chu-bu et Sheemish þ1911 Chu-Bu and Sheemish þTrad. DUVEAU Marc
 : .o .     N     _GOIMARD Jacques             Le Retour des cendres þ1977
 : .o .     a     _DICK Philip K.              Si vous trouvez ce monde mauvais vous devriez en voir quelques autres þ1976 If You Find This World Bad, You Should See Some of the Others
 o JUAN        ?  1979.xx ..... ISBN 2-260-00151-3
@@ -414,7 +418,7 @@ o JUAN        ?  1982.05 ..... ISBN 2-260-00293-5
 : .o .     P     _DOBZYNSKI Charles           Histoire d'ordinateur þ1982
 
 !-----------------------------------------------------------------------------
-_ JULNOUV Julliard, Revue Nouvelle
+_ JULNOUV Julliard - Revue Nouvelle
 !-----------------------------------------------------------------------------
 !--- Julliard, Revue _Nouvelle_
 !-----------------------------------------------------------------------------

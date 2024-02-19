@@ -10,7 +10,7 @@
 
 !DEB_HEAD FictSpe
 !TIT_COLL Fiction Sp‚cial
-_ FictSpe Opta, Fiction-Sp‚cial þ1959-1984
+_ FictSpe Opta - Fiction-Sp‚cial þ1959-1984
 !-----------------------------------------------------------------------------
 !--- blablabla 
 !--. suite blablabla
@@ -94,7 +94,7 @@ o FictSpe     3  1961.xx ..... ISBN -
 : .oS.     N     _KERSH Gerald                Qu'est devenu le caporal Cuckoo ? þ1953 Whatever Happened to Corporal Cuckoo? þTrad. Catherine
 : .oS.     N     _KORNBLUTH Cyril M.          AvŠnement sur la chaŒne douze þ1958 The Advent on Channel Twelve þTrad. Catherine
 : .oS.     N     _KUTTNER Henry               Dans les siŠcles des siŠcles þ1958 A Cross of Centuries þTrad. Catherine
-: .oS.     N     _LEIBER Fritz                L'univers est … eux þ1958 Space-time for Springers þTrad. Catherine
+: .oS.     N     _LEIBER Fritz                L'univers est … eux [Gummitch le chat] þ1958 Space-time for Springers þTrad. Catherine
 : .oS.     N     _MALCOLM Donald              Les ‚claireurs þ1960 The Pathfinders þTrad. VALORBE Fran‡ois
 : .oS.     N     _MATHESON Richard            Danse macabre þ1954 Dance of the Dead þTrad. MARTIN Bruno
 : .oS.     N     _MORRISON William            M‚decin de campagne þ1953 Country Doctor þTrad. VALORBE Fran‡ois
@@ -152,7 +152,7 @@ o FictSpe     6  1964.xx ..... ISBN -
 : .oS.     N     _ALDANI Lino                 Un harem dans une valise þ1963 Harem nella valigia þTrad. STRAGLIATI Roland
 : .oS.     N     _ALDANI Lino                 37ø centigrades þ1963 Trentasette centigradi þTrad. STRAGLIATI Roland
 : .oS.     N     _DE TURRIS Gianfranco        S‚duction þ1964 Seduzione þTrad. SCIUTO G. Giovanni
-: .oS.     N     _GUERRINI Tiberio            Les Vagues de la mer þ1964 L'onda del mare þTrad. SCIUTO G. Giovanni
+: .oS.     N     _GUERRINI Tiberio            Les Vagues de la mer þ1963 L'onda del mare þTrad. SCIUTO G. Giovanni
 : .oS.     N     _LO JACONO Massimo           Le Journal intime þ1963 Il diario þTrad. STRAGLIATI Roland
 : .oS.     N     _PROSPERI Piero              Un prototype de cauchemar þ1963 Prototipo di incubo þTrad. PEZARD Sylvie
 : .oS.     N     _PROSPERI Piero              Le Capitaine Disraeli þ1963 Il capitano Disraeli þTrad. DENIS Romain
@@ -185,7 +185,7 @@ o FictSpe     7  1965.xx ..... ISBN -
 : .o .     N     _FITT Mary                   Le Docteur þ1954 The Doctor þTrad. BILLON Pierre
 : .o .     N     _MACHEN Arthur               Un grand vide þ1931 Opening the Door þTrad. HERSANT Denise
 !--- TBC suivant : Trad Pierre Billon ou Fran‡oise Martenon et Roland Stragliati ?
-: .o . 214 N     _ASQUITH Cynthia             Qui est Sylvia ? þ1955 Who Is Sylvia þTrad. ?
+: .o . 214 N     _ASQUITH Cynthia             Qui est Sylvia ? þ1955 Who Is Sylvia? þTrad. ?
 : .o .     N     _HOLLAND Hester              La BibliothŠque þ1933 The Library þTrad. STRAGLIATI Roland
 o FictSpe     8  1965.xx R.... ISBN -
 } ficspe08       _?                           ?
@@ -327,8 +327,7 @@ o FictSpe    16  1970.06 R.... ISBN -
 } ficspe16       _?                           ?
 - .oS.    _A7    ****                         Grands classiques de la science-fiction (1Šre s‚rie) þ1970
 !--- num‚ro sp‚cial 199bis de la revue "fiction"
-: .oS.     N     _RUSSELL Eric Frank          Plus X þ1956 Plus X
-!--- nouvelle … l'origine du roman
+: .oS.     r     _RUSSELL Eric Frank          Plus X þ1956 Plus X
 : .oS.     N     _SIMAK Clifford D.           Mirage þ1950 Seven Came Back / Mirage
 : .oS.     N     _MATHESON Richard            Le Dernier Jour þ1953 The Last Day þTrad. ROSENBLUM Arlette
 : .oS.     N     _STURGEON Theodore           Le Bƒton de Miouhou þ1946 Mewhu's Jet
@@ -345,7 +344,7 @@ o FictSpe    17  1970.xx R.... ISBN -
 : .oS.     N     _ST. CLAIR Margaret          L'Enfant du vide þ1949 Child of Void
 : .oS.     N     _DEL REY Lester              Les Eaux tranquilles þ1955 The Still Waters
 : .oS.     N     _BROWN Fredric               Lettre … un ph‚nix þ1949 Letter to a Phenix
-: .oS.     N     _BESTER Alfred               A chacun son enfer þ1942 Hell Is Forever
+: .oS.     r     _BESTER Alfred               A chacun son enfer þ1942 Hell Is Forever
 o FictSpe    18  1971.xx R.... ISBN -
 } ficspe18       _?                           ?
 - .oS.    _A15   ****                         15 r‚cits in‚dits de science-fiction fran‡aise þ1971
@@ -385,7 +384,7 @@ o FictSpe    20  1972.xx ..... ISBN -
 !--- Trois nouvelles … partir d'un d‚but de A.C. Clarke
 : .oS.     p     _CLARKE Arthur C.            Pr‚face þ1969 Foreword þTrad. MARTIN Bruno
 : .oS.     r     _SILVERBERG Robert           Le Jour o— le pass‚ fut aboli þ1969 How It Was when the Past Went Away þTrad. MARTIN Bruno
-: .oS.     r     _ZELAZNY Roger               La Veille de Rumoko [Nemo] þ1969 The Eve of Rumoko þTrad. MARTIN Bruno
+: .oS.     r     _ZELAZNY Roger               La Veille de Rumoko [Nemo] þ1969 The Eve of RUMOKO þTrad. MARTIN Bruno
 : .oS.     N     _BLISH James                 Nous mourons nus þ1969 We All Die Naked þTrad. MARTIN Bruno
 o FictSpe    21  1973.xx R.... ISBN -
 } ficspe21       _?                           ?
@@ -413,10 +412,10 @@ o FictSpe    22  1973.xx R.... ISBN -
 : .oS.     N     _DISCH Thomas M.             Le Crime d'Edwin Lollard þ1967 The Affluence of Edwin Lollard þTrad. CHAMBON Jacques & PLANCON Chantal
 : .oS.     N     _LAFFERTY Raphael A.         Captifs de la gangue du temps þ1971 Encased in Ancien Rind þTrad. GUIOD Jacques & CHAMBON Jacques
 : .oS.     N     _SLADEK John T.              D‚claration d'angoisse R‚f. B þ1969 Anxietal Register B þTrad. CHAMBON Jacques
-: .oS.     N     _MOORCOCK Michael            Le Jardin d'agr‚ment de Felipe Sagittarius þ1966 The Pleasure Garden of Felipa Sagittarius
+: .oS.     N     _MOORCOCK Michael            Le Jardin d'agr‚ment de Felipe Sagittarius þ1965 The Pleasure Garden of Felipe Sagittarius
 : .oS.     N     _SPINRAD Norman              La DerniŠre Razzia de la Horde d'Or þ1969 The Last Hurrah of the Golden Horde þTrad. GUIOD Jacques & CHAMBON Jacques
 : .oS.     N     _BALLARD James G.            Un ‚t‚ … la mer þ1968 The Summer Cannibals þTrad. GUIOD Jacques & CHAMBON Jacques
-: .oS.     N     _SILVERBERG Robert           Caliban þ1971 Caliban þTrad. CHAMBON Jacques
+: .oS.     N     _SILVERBERG Robert           Caliban þ1972 Caliban þTrad. CHAMBON Jacques
 : .oS.     N     _DORMAN Sonya                Un beau gƒchis þ1971 Bitching in þTrad. CHAMBON Jacques
 : .oS.     N     _ELLISON Harlan              Un gars et son chien þ1969 A Boy and His Dog þTrad. CHAMBON Jacques
 o FictSpe    23  1974.xx R.... ISBN -
@@ -427,7 +426,7 @@ o FictSpe    23  1974.xx R.... ISBN -
 : .oS.     N     _LEIBER Fritz                Le Jeu du Silence þ1954 The Silence Game
 : .oS.     N     _TENN William                Dr“les de locataires þ1954 The Tenants
 : .oS.     N     _SIMAK Clifford D.           Spectacle d'ombres þ1953 Shadow Show
-: .oS.     N     _SEABRIGHT Idris             La PlanŠte des tumulus þ1953 Judgment planet
+: .oS.     N     _SEABRIGHT Idris             La PlanŠte des tumulus þ1953 Judgment Planet
 : .oS.     N     _OLIVER Chad                 Les Habitants de la ville-jouet þ1954 Transformer
 : .oS.     N     _TUCKER Wilson               Pour mieux te manger, mon enfant ! þ1952 To a Ripe Old Age
 : .oS.     N     _ASIMOV Isaac                Les Fournisseurs de rˆves þ1955 Dreaming Is a Private Thing
@@ -588,7 +587,7 @@ o FictSpe    33  1983.xx R.... ISBN .-.....-...-.
 !--- num‚ro sp‚cial 344bis de la revue "fiction"
 : .oT.     N     _BLOCH Robert                La Nuit avant No‰l þ1980 The Night Before Christmas þTrad. SCHLEISSNER Claude
 : .oT.     N     _CAMPBELL J. Ramsey          L'Essayage þ1980 The Fit þTrad. SCHLEISSNER Claude
-: .oT.     N     _DRAKE David                 Il fallait bien faire quelque chose þ1974 Something Had to Be Done þTrad. SCHLEISSNER Claude
+: .oT.     N     _DRAKE David                 Il fallait bien faire quelque chose þ1975 Something Had to Be Done þTrad. SCHLEISSNER Claude
 : .oT.     N     _ETCHISON Dennis             Seulement la nuit þ1976 It only Comes Out at Night þTrad. SCHLEISSNER Claude
 : .oT.     N     _FOX Janet                   Une terrible envie de sortir þ1977 Screaming to Get Out þTrad. SCHLEISSNER Claude
 : .oT.     N     _RYAN Alan                   Alec est entr‚ þ1980 Tell Mommy What Happened þTrad. SCHLEISSNER Claude
@@ -602,7 +601,7 @@ o FictSpe    34  1984.xx R.... ISBN .-.....-...-.
 } ficspe34       _?                           ?
 - .oS.    _A12   *NICOT St‚phane              Futurs int‚rieurs þ1984
 !--- num‚ro sp‚cial 355bis de la revue "fiction"
-: .oS.     N     _DARTEVELLE Alain            L'Astre aux idiots þ1984
+: .oS.     N     _DARTEVELLE Alain            L'Astre aux idiots [Le Cycle de Vertor] þ1984
 : .oS.     N     _ANDREVON Jean-Pierre        Rien qu'un peu de cendre, et une ombre port‚e sur le mur þ1984
 : .oS.     N     _BOIREAU Jacques             Inutile au monde þ1984
 : .oS.     N     _CANAL Richard               Le Pass‚ comme une corde autour du cou þ1984
@@ -611,7 +610,7 @@ o FictSpe    34  1984.xx R.... ISBN .-.....-...-.
 : .oS.     N     _ROCQUET Jean-Pol            La Conscience du monde þ1984
 : .oS.     N     _WALTHER Daniel              L'Avortement d'Ana Thal þ1984
 : .oS.     N     _APRIL Jean-Pierre           Canadian Dream þ1982
-: .oS.     N     _ROCHON Esther               La Double jonction des ailes þ1984
+: .oS.     N     _ROCHON Esther               La Double Jonction des ailes þ1984
 : .oS.     N     _SOMCYNSKY Jean-Fran‡ois     Le Jour de la lune þ1984
 : .oS.     N     _PANCHARD Georges            Pƒle-Soleil þ1982
 

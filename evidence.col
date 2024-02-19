@@ -1,11 +1,11 @@
 !-----------------------------------------------------------------------------
-_ EVID_A  Ed. Evidence, Coll. Anthologia
-_ EVID_FA Ed. Evidence, Coll. Farfadet
-_ EVID_I  Ed. Evidence, Coll. I-Mage-In-Air
-_ EVID_FR Ed. Evidence, Coll. Freyja
-_ EVID_IM Ed. Evidence, Coll. Imaginaire
-_ EVID_In Ed. Evidence, Coll. Imaginaire (num‚rique)
-_ EVID_IY Ed. Evidence, Coll. Imaginaire Y.A.
+_ EVID_A  Evidence - Anthologia
+_ EVID_FA Evidence - Farfadet
+_ EVID_I  Evidence - I-Mage-In-Air
+_ EVID_FR Evidence - Freyja
+_ EVID_IM Evidence - Imaginaire
+_ EVID_In Evidence - Imaginaire [num‚rique]
+_ EVID_IY Evidence - Imaginaire Y.A.
 !-----------------------------------------------------------------------------
 !--- Collection I-Mage-In-Air dirig‚e par Jean-Baptiste Messier fin 2016 d‚but 2017 puis par Lydie A. Wallon de mars … septembre 2017 puis par Pauline Monsarrat
 !--- Collection Imaginaire dirig‚e par Pauline Monsarrat
@@ -244,7 +244,7 @@ o EVID_IM     ?  2018.08 ..... ISBN 979-10-348-0801-4
 - .oF.     R     _SPRING AngŠle               Les Archers [Ombres obscures - 1] þ2018
 o EVID_IM     ?  2018.09 ..... ISBN 979-10-348-0851-9
 } noimg          _Ma‹ka                       ?
-- .oF.     R     _CHERCHI Michel              Code Black-Out þ2018
+- .oF.     R     _CHERCHI Michel              Code Black-Out [Rob Sterling - 1] þ2018
 o EVID_IM     ?  2018.09 ..... ISBN 979-10-348-1181-6
 } noimg          _Ma‹ka                       ?
 + EVID_IM     ?  2019.05 ..... ISBN 979-10-348-1181-6
@@ -408,6 +408,10 @@ o EVID_IM     ?  2019.05 ..... ISBN 979-10-348-1119-9
 : .o .     N     _FENRIS Michael              Welcome to Manta Beach þ2019
 o EVID_IM     ?  2019.05 ..... ISBN 979-10-348-1096-3
 } noimg          _?                           ?
+!--- R‚impression avril 2021, mˆme ISBN
++ EVID_IM     ?  2022.04 ..... ISBN 979-10-348-1096-3
+} noimg          _Marie                       ?
+!--- GF - 344 pages
 - .oF.     R     _ROCA-GERIS Sylvie           L'Immortelle þ2019
 o EVID_IY     ?  2019.05 ..... ISBN 979-10-348-1224-0
 } noimg          _Ma‹ka                       ?
@@ -549,6 +553,10 @@ o EVID_IM     ?  2020.06 ..... ISBN 979-10-348-1407-7
 } noimg          _Chlo‚ S.                    ?
 !--- 304 pages - 16,00 euros
 - .oF.     R     _LAOSAKOUNE Laetitia         Prima [Les Primitifs - 2] þ2017
+o EVID_IM     ?  2020.07 ..... ISBN 979-10-348-1544-9
+} noimg          _?                           ?
+!--- GF - 336 pages - 17 euros
+- .o .     R     _VIOLLET Marie-l'Or          La Rose [Les Hommes de nuit - 1] þ2020
 o EVID_IM     ?  2020.07 ..... ISBN 979-10-348-1569-2
 } noimg          _Chlo‚ S.                    ?
 !--- 330 pages - 17,00 euros
@@ -583,7 +591,7 @@ o EVID_IM     ?  2020.08 ..... ISBN 979-10-348-1579-1
 o EVID_IM     ?  2020.09 ..... ISBN 979-10-348-1571-5
 } noimg          _Chlo‚ S                     ?
 !--- GF - 148 x 210 mm - 310 pages - 17,00 euros
-- .oS.     R     _PERROT Christian            Dangers galactiques [Agents photoniques - 2] þ2020
+- .oS.     R     _PERROT Christian            Dangers galactiques [Agents photoniques - 2] þ2015
 o EVID_IY     ?  2020.09 ..... ISBN 979-10-348-1670-5
 } noimg          _Chlo‚ S                     ?
 !--- YA - GF - 148 x 210 mm - 140 pages - 12,00 euros
@@ -619,7 +627,7 @@ o EVID_IY     ?  2020.11 ..... ISBN 979-10-348-1654-5
 o EVID_IM     ?  2020.11 ..... ISBN 979-10-348-1573-9
 } noimg          _Chlo‚ S                     ?
 !--- GF - 148 x 210 mm - 310 pages - 17,00 euros
-- .oS.     R     _PERROT Christian            Fugitifs galactiques [Agents photoniques - 3] þ2020
+- .oS.     R     _PERROT Christian            Fugitifs galactiques [Agents photoniques - 3] þ2016
 o EVID_IM     ?  2020.12 ..... ISBN 979-10-348-1768-9
 } noimg          _Chlo‚ S                     ?
 !--- GF - 148 x 210 mm - 192 pages - 13,00 euros
@@ -628,6 +636,139 @@ o EVID_IM     ?  2020.12 ..... ISBN 979-10-348-1546-3
 } noimg          _Chlo‚ S                     ?
 !--- GF - 148 x 210 mm - 514 pages - 20,00 euros
 - .oS.     R     _DONHEM Max                  Mission Svalbard [H‚lium 3 - 2] þ2020
+!------------------------
+!=== 2021
+!------------------------
+o EVID_IY     ?  2021.01 ..... ISBN 979-10-348-1552-4
+} noimg          _Chlo‚ S                     ?
+!--- YA - GF - 176 pages
+- .o .     R     _SWAN Aur‚lie                La Pourfendeuse d'ombre [Orami - 3] þ2021
+o EVID_IM     ?  2021.01 ..... ISBN 979-10-348-1575-3
+} noimg          _Chlo‚ S                     ?
+!--- GF - 278 pages
+- .oS.     R     _PERROT Christian            Aventures galactiques [Agents photoniques - 4] þ2021
+o EVID_IM     ?  2021.01 ..... ISBN 979-10-348-1693-4
+} noimg          _?                           ?
+!--- GF - 336 pages
+- .o .     R     _VIOLLET Marie-l'Or          Lily of the Valley [Les Hommes de nuit - 2] þ2021
+o EVID_IY     ?  2021.02 ..... ISBN 979-10-348-1646-0
+} noimg          _Chlo‚ S                     ?
+!--- YA - GF - 206 pages
+- .o .     R     _NORMAN Susie                Eona [La SeptiŠme F‚e - 2] þ2021
+o EVID_IM     ?  2021.02 ..... ISBN 979-10-348-1652-1
+} noimg          _?                           ?
+!--- GF - 242 pages
+- .o .     R     _GAY Georgina                Les Blessures de Lame [L'‚carlate - 1] þ2021
+o EVID_IM     ?  2021.02 ..... ISBN 979-10-348-1696-5
+} noimg          _Chlo‚ S                     ?
+!--- GF - 306 pages
+- .oS.     R     _DANNA Louisa                Miko [Bannis - 2] þ2021
+o EVID_IM     ?  2021.03 ..... ISBN 979-10-348-1803-7
+} noimg          _?                           ?
+!--- GF - 330 pages
+- .o .     R     _FELIN J‚r“me                Renaissance [La Couronne aux larmes de sang - 1] þ2021
+o EVID_IY     ?  2021.03 ..... ISBN 979-10-348-1805-1
+} noimg          _?                           ?
+!--- YA - GF - 396 pages
+- .o .     R     _CALVIAC Audrey              Il ‚tait une fois un conte ensanglant‚ þ2021
+o EVID_IM     ?  2021.04 ..... ISBN 979-10-348-1920-1
+} noimg          _?                           ?
+!--- GF - 266 pages
+- .o .     R     _LIVYNS Fr‚d‚ric             Danse de sang þ2013-2015
+o EVID_IM     ?  2021.04 ..... ISBN 979-10-348-1860-0
+} noimg          _?                           ?
+!--- GF - 274 pages
+- .o .     R     _FILLION NadŠge              Or et T‚nŠbres þ2021
+o EVID_IY     ?  2021.05 ..... ISBN 979-10-348-1656-9
+} noimg          _Chlo‚ S                     ?
+!--- YA - GF - 318 pages
+- .o .     R     _ALPHONSINE Justine          Chien de chasse [La Meute de Garval - 2] þ2021
+o EVID_IM     ?  2021.05 ..... ISBN 979-10-348-1764-1
+} noimg          _Chlo‚ S                     ?
+!--- GF - 220 pages
+- .o .     R     _TOAD Alee                   L'Autre C“t‚ [DerriŠre le miroir - 2] þ2021
+o EVID_IM     ?  2021.07 ..... ISBN 979-10-348-1930-0
+} noimg          _Chlo‚ S                     ?
+!--- GF - 260 pages
+- .o .     R     _MORGANE L‚aly               Chasseuse [Alexia la sanguinaire - 1] þ2021
+o EVID_IM     ?  2021.07 ..... ISBN 979-10-348-1591-3
+} noimg          _Chlo‚ S                     ?
+!--- GF - 250 pages
+- .o .     R     _LOPEZ Sylvie                Divine þ2021
+o EVID_IM     ?  2021.08 ..... ISBN 979-10-348-1614-9
+} noimg          _Chlo‚ S                     ?
+!--- GF - 494 pages
+- .oS.     R     _DONHEM Max                  Arch‚mis [H‚lium 3 - 3] þ2021
+o EVID_IM     ?  2021.08 ..... ISBN 979-10-348-1766-5
+} noimg          _Chlo‚ S                     ?
+!--- GF - 234 pages
+- .o .     R     _TOAD Alee                   L'ƒme soeur inattendue [DerriŠre le miroir - 3] þ2021
+o EVID_IY     ?  2021.09 ..... ISBN 979-10-348-1648-4
+} noimg          _?                           ?
+!--- YA - GF - 204 pages
+- .o .     R     _NORMAN Susie                Bard [La SeptiŠme F‚e - 3] þ2021
+o EVID_IM     ?  2021.09 ..... ISBN 979-10-348-1972-0
+} noimg          _?                           ?
+!--- GF - 272 pages
+- .o .     R     _GAY Georgina                La Nouvelle Aube [L'‚carlate - 2] þ2021
+o EVID_IM     ?  2021.10 ..... ISBN 979-10-348-1932-4
+} noimg          _Chlo‚ S                     ?
+!--- GF - 310 pages
+- .o .     R     _MORGANE L‚aly               Convoit‚e [Alexia la sanguinaire - 2] þ2021
+o EVID_IM     ?  2021.10 ..... ISBN 979-10-348-1815-0
+} noimg          _?                           ?
+!--- GF - 316 pages
+- .o .     R     _FELIN J‚r“me                Le Dernier des Tudor [La Couronne aux larmes de sang - 2] þ2021
+o EVID_IY     ?  2021.11 ..... ISBN 979-10-348-1658-3
+} noimg          _Chlo‚ S                     ?
+!--- YA - GF - 282 pages
+- .o .     R     _ALPHONSINE Justine          Terrains de chasse [La Meute de Garval - 3] þ2021
+o EVID_IY     ?  2021.11 ..... ISBN 979-10-348-1988-1
+} noimg          _?                           ?
+!--- YA - GF - 224 pages - 14 euros
+- .oBF     R     _GWENN-AEL                   Wendigo þ2021
+!------------------------
+!=== 2022
+!------------------------
+o EVID_IY     ?  2022.01 ..... ISBN 979-10-348-1681-1
+} noimg          _Mathilde                    ?
+!--- YA - GF - 226 pages - 14 euros
+- .o .     R     _NORMAN Susie                Tanis [La SeptiŠme F‚e - 4] þ2022
+o EVID_IM     ?  2022.01 ..... ISBN 979-10-348-1950-8
+} noimg          _Marie                       ?
+!--- GF - 308 pages - 16 euros
+- .oRF     R     _LYDASA                      Entre deux ƒmes þ2022
+o EVID_IY     ?  2022.02 ..... ISBN 979-10-348-1660-6
+} noimg          _Chlo‚ S.                    ?
+!--- YA - GF - 272 pages - 15 euros
+- .oF.     R     _ALPHONSINE Justine          Chasse gard‚e [La Meute de Garval - 4] þ2022
+o EVID_IM     ?  2022.03 ..... ISBN 979-10-348-2103-7
+} noimg          _Marie                       ?
+!--- GF - 394 pages - 17 euros
+- .oS.     R     _HILL Aldea                  L'Ex‚cuteur [Anarchy - 1] þ2022
+o EVID_IM     ?  2022.03 ..... ISBN 979-10-348-1952-2
+} noimg          _Chlo‚ S.                    ?
+!--- GF - 374 pages - 17 euros
+- .oRF     R     _MORGANE L‚aly               Mortelle [Alexia la sanguinaire - 3] þ2022
+o EVID_IM     ?  2022.03 ..... ISBN 979-10-348-2113-6
+} noimg          _Marie                       ?
+!--- GF - 172 pages - 13 euros
+- .oRF     R     _LAGUILLON Sasha             Amour d‚chu [Etreinte infernale - 1] þ2022
+o EVID_IM     ?  2022.05 ..... ISBN 979-10-348-2167-9
+} noimg          _?                           ?
+!--- GF - 354 pages - 17 euros
+- .oRF     R     _MORGAN Avril                Sanglante s‚duction - Les Secrets de Keith þ2022
+o EVID_IM     ?  2022.06 ..... ISBN 979-10-348-2131-0
+} noimg          _Marie                       ?
+!--- GF - 362 pages - 17 euros
+- .oS.     R     _HILL Aldea                  R‚demption [Anarchy - 2] þ2022
+o EVID_IM     ?  2022.07 ..... ISBN 979-10-348-2141-4
+} noimg          _?                           ?
+!--- GF - 164 pages - 13 euros
+- .oRF     R     _LAGUILLON Sasha             Amour interdit [Etreinte infernale - 2] þ2022
+
+
+
 
 
 

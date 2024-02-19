@@ -2,18 +2,19 @@
 _ FAYARD  Fayard
 _ FAYACie ArthŠme Fayard et Cie
 _ FAYALIB Lib. ArthŠme Fayard
-_ FAYA_AV Fayard, Coll. L'aventure
-_ FAYA_AC Fayard, Coll. L'aventure Criminelle
-_ FAYA_RC ArthŠme Fayard, Coll. Le Roman complet
-_ FAYA_LD Fayard, Coll. Le Livre de Demain
-_ FAYA_LP Ed. A. Fayard & Cie, Coll. Le Livre Populaire
-_ FAYA_LE Fayard, litt‚rature ‚trangŠre
-_ FAYA_TH Ed. Fayard, Coll. Thriller Fayard
-_ FAYAPHI Ed. A. Fayard, Corpus des oeuvres de philosophie en langue fran‡aise
+_ FAYA_AV Fayard - L'aventure
+_ FAYA_AC Fayard - L'aventure Criminelle
+_ FAYA_RC ArthŠme Fayard - Le Roman complet
+_ FAYA_LD Fayard - Le Livre de Demain
+_ FAYA_LS A. Fayard - Le Livre de Demain - S‚rie ‚trangŠre
+_ FAYA_LP A. Fayard & Cie - Le Livre Populaire
+_ FAYA_LE Fayard - litt‚rature ‚trangŠre
+_ FAYA_TH Fayard - Thriller Fayard
+_ FAYAPHI A. Fayard - Corpus des oeuvres de philosophie en langue fran‡aise
 !-----------------------------------------------------------------------------
 !--- Editions Fayard
 !-----------------------------------------------------------------------------
-o FAYARD      ?  1910.xx ..... ISBN -
+o FAYARD      ?  1911.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _ROLAND Marcel               Le D‚luge futur - Journal d'un survivant þ1910
 o FAYARD      ?  1924.xx ..... ISBN -
@@ -33,38 +34,49 @@ o FAYARD      ?  1926.xx ..... ISBN -
 + FAYARD      ?  1932.xx ..... ISBN -
 } noimg          _?                           ?
 - .x .     R     _BURROUGHS Edgar Rice        Tarzan chez les singes [Tarzan - 1] þ1912 Tarzan of the Apes þTrad. LUCION A.
-o FAYARD      ?  1928.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .     R     _THEBAULT EugŠne             Radio-terreur, grand roman de mystŠre þ?
 o FAYA_AV     6  1929.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _CHAMPAGNE Maurice           L'Œle engloutie þ1929
+o FAYA_AV     9  1929.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 64 pages - 28 cm
+- .o .     R     _THEBAULT EugŠne             Radio-terreur þ1928
 o FAYA_AV    12  1929.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _AGRAIVES Jean d'            Le Rayon Swastika þ1929
 o FAYA_AV    16  1930.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _CHAMPAGNE Maurice           La Terre perdue þ1930
-!--- 1835 DELCAMP Andr‚ : L'homme au masque de chair (info Adamantine)
+!--- 1835 DELCAMP Andr‚ : L'Homme au masque de chair (info Adamantine)
 o FAYARD      ?  1931.xx ..... ISBN -
 } noimg          _?                           ?
 - .oA.     R     _LA HIRE Jean de             La Captive du d‚mon [La Captive du d‚mon - 1][Le Nyctalope] þ1927
 o FAYARD      ?  1931.xx ..... ISBN -
 } noimg          _?                           ?
-- .oA.     R     _LA HIRE Jean de             La Princesse rouge [La Captive du d‚mon - 2][Le Nyctalope] þ1927
 !--- D'abord publi‚s en feuilleton sous le titre "L'Ant‚christ"
+- .oA.     R     _LA HIRE Jean de             La Princesse rouge [La Captive du d‚mon - 2][Le Nyctalope] þ1927
 o FAYARD      ?  1931.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _HELD Serge Simon            La Mort du fer þ1931
 o FAYA_LD   114  1932.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.     R     _GARNETT David               La Femme chang‚e en renard þ1922 Lady Into Fox þTrad. BUSSY Jane-Simone & MAUROIS Andr‚
+- .oF.     r     _GARNETT David               La Femme chang‚e en renard þ1922 Lady into Fox þTrad. BUSSY Jane-Simone & MAUROIS Andr‚
 o FAYA_LP   262  1933.xx ..... ISBN -
 } noimg          _STARACE                     ?
 - .o .     R     _LA HIRE Jean de             L'Œle d'‚pouvante [Belz‚buth - 1][Le Nyctalope] þ1930
 o FAYA_LD   222  1941.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _DUVERNOIS Henri             L'Homme qui s'est retrouv‚ þ1936
+o FAYA_LS    49  1954.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 192 pages - in-16 - 150 francs
+- .pF.     N6    _MAUGHAM W. Somerset         Le SortilŠge malais þ1926 The casuarina tree þTrad. BLANCHET E.-R.
+: .! .     N     _MAUGHAM W. Somerset         Avant la garden-party þ1926 Before the Party þTrad. BLANCHET E.-R.
+: .o .     N     _MAUGHAM W. Somerset         P. and O. þ1923 P. & O. þTrad. BLANCHET E.-R.
+: .! .     N     _MAUGHAM W. Somerset         Le Poste dans la brousse þ1926 The Outstation þTrad. BLANCHET E.-R.
+: .! .     N     _MAUGHAM W. Somerset         La Force des choses þ1926 The Force of Circumstance þTrad. BLANCHET E.-R.
+: .! .     N     _MAUGHAM W. Somerset         La Goutte jaune þ1926 The Yellow Streak þTrad. BLANCHET E.-R.
+: .! .     N     _MAUGHAM W. Somerset         L'Affaire Crosbie þ1926 The Letter þTrad. BLANCHET E.-R.
 o FAYALIB     ?  1957.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _SAINT-GRANIER              &Adieu V‚nus þ1957
@@ -187,7 +199,7 @@ o FAYARD      ?  1999.11 ..... ISBN 2-213-60428-2
 - .o .     R     _KHARITONOV Mark             Le Gardien þ1988 Storoj þTrad. TROUBETZKOY Laure
 o FAYA_LE     ?  2001.09 ..... ISBN 2-213-61021-5
 }fayard_hvert    _CROCHEMORE H‚lŠne
-- .oKF    iN12   _GARDAM Jane                 L'Homme vert þ1997 Missing the Midnight
+- .oKF    iNx    _GARDAM Jane                 L'Homme vert þ1997 Missing the Midnight
 : .o .     N     _GARDAM Jane                 L'Homme vert þ1997 The Green Man þTrad. DIACON Eric
 o FAYARD      ?  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -202,7 +214,7 @@ o FAYARD      ?  2000.xx ..... ISBN .-.....-...-.
 !--- PremiŠre ‚dition dans "La nouvelle fiction" (‚dition en castillan et en catalan)
 : .o .     N     _BERTHELOT Francis           Les Camionneurs de No‰l þ1998
 : .o .     N     _BERTHELOT Francis           Les Rhinoc‚ros bleus þ1997
-: .o .     N     _BERTHELOT Francis           L'Homme de la Mer Morte þ1994
+: .o .     N     _BERTHELOT Francis           L'Homme de la Mer Morte þ1996
 : .o .     N     _BERTHELOT Francis           L'Os ‚rectile þ1985
 : .o .     N     _BERTHELOT Francis           Perplexit‚s d'un visiteur mort þ1987
 : .o .     N     _BERTHELOT Francis           Vers le dieu Iceberg þ1994
@@ -234,10 +246,10 @@ o FAYARD      ?  2005.xx ..... ISBN 2-213-62547-6
 - .o .     R     _HOUELLEBECQ Michel          La Possibilit‚ d'une Œle þ2005
 o FAYARD      ?  2008.03 ..... ISBN 978-2-213-63393-.
 } noimg          _?                           ?
-- .oS.     R     _McDERMOTT Andy              A la poursuite de l'Atlantide [Nina Wilde - 1] þ2007 The Hunt for Atlantis þTrad. FAGUE Fran‡ois
+- .oF.     R     _McDERMOTT Andy              A la poursuite de l'Atlantide [Une aventure de Wilde et Chase - 1] þ2007 The Hunt for Atlantis þTrad. FAGUE Fran‡ois
 o FAYARD      ?  2009.03 ..... ISBN 978-2-213-63690-0
 } noimg          _?                           ?
-- .oS.     R     _SPINRAD Norman              Il est parmi nous þ2009 He Walked Among Us þTrad. DENIS Sylvie & WAGNER Roland C.
+- .oS.     R     _SPINRAD Norman              Il est parmi nous þ2002 He Walked Among Us þTrad. DENIS Sylvie & WAGNER Roland C.
 o FAYARD      ?  2010.05 ..... ISBN 978-2-213-63691-7
 } noimg          _?                           ?
 - .x .     R     _SPINRAD Norman              Oussama þ2010 Oussama the Gun þTrad. COPPER Niki
@@ -250,14 +262,51 @@ o FAYARD      ?  2014.10 ..... ISBN 978-2-213-66262-6
 
 
 !-----------------------------------------------------------------------------
+! FAYAPHI A. Fayard, Corpus des oeuvres de philosophie en langue fran‡aise
+!-----------------------------------------------------------------------------
 o FAYAPHI     ?  1988.09 ..... ISBN 2-213-02058-2
 } noimg          _?                           ?
+!--- Texte revu par Hubert grenier
+!--- 474 pages - 195 francs
 - .oS.uc   R     _RENOUVIER Charles          &Uchronie þ1858-1988
 &                _GRENIER Hubert              
 
 !-----------------------------------------------------------------------------
-_ FAY_OL  Lib. ArthŠme Fayard, Les Oeuvres Libres
-_ FAY_OL2 Lib. ArthŠme Fayard, Les Oeuvres Libres, nouvelle s‚rie
+_ AVENTUR Fayard - L'Aventure [journal] [hebdo] þ1927-1929
+!-----------------------------------------------------------------------------
+!--- 92 num‚ros, du 23/06/1927 au 21/03/1929
+!--- Parution le jeudi
+!-----------------------------------------------------------------------------
+o AVENTUR    12  1927.09 ..... ISBN -
+} noimg          _?                           ?
+!--- Gallica - 16 pages - 60 centimes
+>--- Le texte _Le MystŠre du chƒteau de Br‚failles_ est identique … _Le Grain de n‚bulium_, mais avec un court paragraphe d'‚pilogue en suppl‚ment.
+- .p .     Mx    ****                         L'Aventure nø 12 -  08 septembre 1927 þ1927
+: .o .  10 N     _GUILLOT Gaston              Le Myst‚re du chƒteau de Br‚failles þ1927
+o AVENTUR    90  1929.03 ..... ISBN -
+} noimg          _?                           ?
+!--- Gallica - 16 pages - 75 centimes
+>--- Le texte _Le MaŒtre de la vie_ est ici clairement attribu‚ … Ren‚ Lecuyer.
+- .p .     Mx    ****                         L'Aventure nø 90 -  07 mars 1929 þ1929
+: .o .  10 N     _LECUYER Ren‚                Le MaŒtre de la vie þ1929
+o AVENTUR     ?  1928.xx ..... ISBN -
+} noimg          _?                           ?
+>--- SERIAL : nø 1 du 23 juin 1927 au nø ?, 1928
+!--- fin entre le 5 janvier et le 22 mars
+- .o .     R     _THEBAULT EugŠne             Radio-terreur þ1928
+o AVENTUR     ?  1928.xx ..... ISBN -
+} noimg          _?                           ?
+>--- SERIAL : nø ?, 1928 au nø 52 du 14 juin 1928
+!--- d‚but entre le 5 janvier et le 22 mars
+- .oS.     R     _BRULLS Christian            Le Gorille-Roi þ1928
+o AVENTUR     ?  1928.xx ..... ISBN -
+} noimg          _?                           ?
+>--- SERIAL : nø 53 du 21 juin 1928 au nø 68 du 4 octobre 1928
+- .oS.     R     _CHAMPAGNE Maurice           La Cit‚ des premiers hommes - Quatre vingt jours au centre de la Terre þ1928
+
+!-----------------------------------------------------------------------------
+_ FAY_OL  Lib. ArthŠme Fayard - Les Oeuvres Libres [revue] [mensuel]
+_ FAY_OL2 Lib. ArthŠme Fayard - Les Oeuvres Libres - nouvelle s‚rie [revue] [mensuel]
 !-----------------------------------------------------------------------------
 !--- "Revue mensuelle ne publiant que de l'in‚dit" - in-12
 !--- http://www.revues-litteraires.com/articles.php?pg=1323
@@ -278,7 +327,6 @@ o FAY_OL     19  1923.01 ..... ISBN -
 o FAY_OL     24  1923.06 ..... ISBN -
 } noimg          _?                           ?
 - .p .     Mx    ****                         Les Oeuvres Libres nø 24 (Juin 1923) þ1923
-: .o .     N     _FARRERE Claude              O— ? þ1928
 !--- La nouvelle "O— ?" contient 6 sous-textes :
 !---  1. L'infini (&infini;)
 !---  2. Sept (7)
@@ -286,6 +334,7 @@ o FAY_OL     24  1923.06 ..... ISBN -
 !---  4. Un (1)
 !---  5. Z‚ro (0)
 !---  6. Racine carr‚e de [moins l'imaginaire] (v -i)
+: .o .     N     _FARRERE Claude              O— ? þ1923
 o FAY_OL     30  1923.12 ..... ISBN -
 } noimg          _?                           ?
 - .p .     Mx    ****                         Les Oeuvres Libres nø 30 (D‚cembre 1923) þ1923
@@ -315,7 +364,7 @@ o FAY_OL     42  1924.12 ..... ISBN -
 o FAY_OL     54  1925.12 ..... ISBN -
 } noimg          _?                           ?
 - .p .     Mx    ****                         Les Oeuvres Libres nø 54 (D‚cembre 1925) þ1925
-: .o .     R     _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1] þ1925
+: .o .     r     _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1] þ1925
 o FAY_OL     57  1926.03 ..... ISBN -
 } noimg          _?                           ?
 - .p .     Mx    ****                         Les Oeuvres Libres nø 57 (Mars 1926) þ1926
@@ -349,7 +398,7 @@ o FAY_OL    102  1929.12 ..... ISBN -
 o FAY_OL    116  1931.02 ..... ISBN -
 } noimg          _?                           ?
 - .p .     Mx    ****                         Les Oeuvres Libres nø 116 (F‚vrier 1931) þ1931
-?: .oF.     R     _ROSTAND Jean                L'homme que j'ai fait naŒtre þ1931
+?: .oF.     R     _ROSTAND Jean                L'Homme que j'ai fait naŒtre þ1931
 o FAY_OL    117  1931.03 ..... ISBN -
 } noimg          _?                           ?
 - .p .     Mx    ****                         Les Oeuvres Libres nø 117 (Mars 1931) þ1931

@@ -8,12 +8,12 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ OREV_SF Orion, Etoiles Vives Science-Fiction ş1997-1998
-_ OREV_PS Orion, Etoiles Vives Psychoses ş1997-1998
-_ BEOR_EV Le B‚lial/Orion, Bifrost / Etoiles Vives ş1997-2002
-_ BEOR_SF Le B‚lial/Orion, Bifrost / Etoiles Vives Science-Fiction ş1997-2002
-_ BEOR_FA Le B‚lial/Orion, Bifrost / Etoiles Vives Fantasy ş1997-2002
-_ BEOR_PS Le B‚lial/Orion, Bifrost / Etoiles Vives Psychoses ş1997-2002
+_ OREV_SF Orion - Etoiles Vives Science-Fiction ş1997-1998
+_ OREV_PS Orion - Etoiles Vives Psychoses ş1997-1998
+_ BEOR_EV Le B‚lial'/Orion - Bifrost / Etoiles Vives ş1997-2002
+_ BEOR_SF Le B‚lial'/Orion - Bifrost / Etoiles Vives Science-Fiction ş1997-2002
+_ BEOR_FA Le B‚lial'/Orion - Bifrost / Etoiles Vives Fantasy ş1997-2002
+_ BEOR_PS Le B‚lial'/Orion - Bifrost / Etoiles Vives Psychoses ş1997-2002
 !-----------------------------------------------------------------------------
 !--- Orion-B‚lial' - Bifrost/Etoiles Vives collection
 !---   (Le premier ouvrage est ‚dition Orion seul)
@@ -92,26 +92,26 @@ o BEOR_SF     ?  1998.xx ..... ISBN 2-84344-007-6
 } orionbifev09   _LYON Jean-F‚lix             ?
 - .oS.     A10   ****                         SF 98 - les meilleurs r‚cits de l'ann‚e ş1998
 : .o .     N     _LEHMAN Serge                L'Inversion de PolyphŠme ş1997
-: .o .     N     _TRUDEL Jean-Louis           Le DeuxiŠme Carnet de Villard ş1996
+: .o .     N     _TRUDEL Jean-Louis           Le DeuxiŠme Carnet de Villard ş1997
 : .o .     N     _CURVAL Philippe             Canards du doute ş1998
-: .o .     N     _WAGNER Roland C.            H.P.L. (1890-1991) ş1994
+: .o .     N     _WAGNER Roland C.            H.P.L. (1890-1991) ş1995
 : .o .     N     _GIRARDOT Jean-Jacques       L'ternit‚, moins la vie ş1997
 : .o .     N     _DELSEMME Serge              Voyage organis‚ ş1995
-: .o .     N     _VALERY Francis              La DerniŠre Mission de Lise Reinhardt ş?
+: .o .     N     _VALERY Francis              La DerniŠre Mission de Lise Reinhardt ş1997
 : .o .     N     _DAY Thomas                  Je suis l'ennemi ş1997
 : .o .     N     _VONARBURG Elisabeth         Celles qui vivent au-dessus des nuages ş1991
 : .o .     N     _DENIS Sylvie                P‚lerinage ş1997
 o BEOR_SF     ?  1998.xx ..... ISBN 2-84344-009-2
 } orionbifev10   _TAG Jeam                    ?
 - .oS.    _N9    _NGUYEN Jean-Jacques         Les Visages de Mars ş1998
-: .o .     N     _NGUYEN Jean-Jacques         Rˆve de chine ş1992
+: .o .     N     _NGUYEN Jean-Jacques         Rˆve de Chine ş1992
 : .o .     N     _NGUYEN Jean-Jacques         Swing, puzzle, Harlow ş1994
 : .o .     N     _NGUYEN Jean-Jacques         Incidents de vill‚giature ş1994
 : .o .     N     _NGUYEN Jean-Jacques         Nos anges sont de fiel ş1993
 : .o .     N     _NGUYEN Jean-Jacques         Temps mort, morte saison ş1995
 : .o .     N     _NGUYEN Jean-Jacques         L'Homme singulier ş1996
 : .o .     N     _NGUYEN Jean-Jacques         L'Ultime R‚alit‚ ş1994
-: .o .     N     _NGUYEN Jean-Jacques         Les Architectes du rˆve ş1993
+: .o .     N     _NGUYEN Jean-Jacques         Les Architectes du rˆve ş1994
 : .o .     N     _NGUYEN Jean-Jacques         Les Visages de Mars ş1996
 o BEOR_FA     ?  1998.xx ..... ISBN 2-84344-010-6
 } orionbifev11   _SORRENTINO Fred             ?
@@ -132,7 +132,7 @@ o BEOR_FA     ?  1998.xx R.... ISBN 2-84344-015-7
 : .o .     N     _BORDIER Bruno               L'Onyre du givre ş1998
 : .o .     N     _SOMTOW S.P.                 Une soupe d'aileron de dragon ş1995 Dragon 's fin soup şTrad. MARCEL Patrick
 : .o .     N     _DE LINT Charles             La Galerie de perroquets d'Oncle Dobbin ş1992 Uncle Dobbin's Parrots Fair şTrad. MARIOT Brigitte
-: .o .     N     _DAY Thomas                  La Voie du sabre [La Voie du sabre] ş1998
+: .o .     r     _DAY Thomas                  La Voie du sabre [La Voie du sabre] ş1998
 : .o .     N     _FRIESNER Esther M.          L'amour est une indicible purulence ş1993 Love's Eldritch Ichor şTrad. MARCEL Patrick
 : .o .     N     _HOOD Daniel                 L'Or des royaumes (un conte d'inflation) ş1994 The Wealth of Kingdoms (An Inflationary Tale)
 : .o .     N     _BEAGLE Peter S.             La DerniŠre Ballade de Sirit Byar ş1996 The Last Song of Sirit Byar şTrad. CHARRIER MichŠle
@@ -141,7 +141,7 @@ o BEOR_SF    10i 1998.xx ..... ISBN 2-84344-000-9
 } orionbifev14   _SORRENTINO Frede            ?
 - .oS.     A7    *DENIS Sylvie                Histoires de cochons et de science-fiction ş1998
 : .o .     N     _BYRNE Eugene                Cyril le cybercochon ş1992 Cyril the Cyberpig şTrad. HAUCK Herv‚
-: .o .     N     _LEE Ian                     Des cochons, pour la plupart ş1991 Pigs, mostly
+: .o .     N     _LEE Ian                     Des cochons, pour la plupart ş1991 Pigs, Mostly
 : .o .     N     _LEHMAN Serge                Origine de la premiŠre loi de Purnath ş1998
 : .o .     N     _STABLEFORD Brian M.         Le Plombier pie de Haemlin ş1998 The Piebald Plumber of Hamlin
 !--- TBC : ou Hamelin ?
@@ -177,7 +177,8 @@ o BEOR_PS     ?  1999.xx R.... ISBN 2-84344-018-1
 : .o .     N     _HODGE Brian                 Musique liturgique pour nihilistes ş1996 Liturgical Music for Nihilists şTrad. BAUDURET Thomas
 o BEOR_SF     ?  1999.xx ..... ISBN 2-84344-022-X
 } orionbifev19   _TURIN Philippe-Henri        ?
-- .o .     R     _RUAUD Andr‚-Fran‡ois        Des ombres sous la pluie ş1999
+!--- 144 pages
+- .o .     r     _RUAUD Andr‚-Fran‡ois        Des ombres sous la pluie [Spica] ş1999
 o BEOR_EV     ?  1999.xx ..... ISBN 2-84344-017-3
 } orionbifev20   _TAG Jeam                    ?
 - .oS.     A19   *DUMAY Gilles                Invasions 99 ş1999
@@ -226,7 +227,7 @@ o BEOR_SF     ?  1999.xx ..... ISBN 2-84344-020-3
 : .o .     N     _DENIS Sylvie                Cap Tchernobyl ş1997
 : .o .     N     _WOLFF Robert                Les Singes ş1998
 : .o .     N     _WAGNER Roland C.            Honor‚ a disparu [Les Futurs MystŠres de Paris] ş1998
-: .o .     N     _LEHMAN Serge                Le Vide, le silence et l'obscur ş1996
+: .o .     N     _LEHMAN Serge                Le Vide, le silence et l'obscur ş1995
 : .o .     N     _AYERDHAL                    Scintillements ş1998
 o BEOR_SF     ?  1999.xx R.... ISBN 2-84344-023-8
 } orionbifev23   _FROISSART Vincent           ?
@@ -252,7 +253,7 @@ o BEOR_SF     ?  1999.xx R.... ISBN 2-84344-028-9
 o BEOR_FA     ?  2000.xx ..... ISBN 2-84344-026-2
 } orionbifev27   _SORRENTINO Fred             ?
 - .o .     R     _SWANN Thomas Burnett        Le Jour du Minotaure [La Trilogie du Minotaure - 3] ş1966 Day of the Minotaur şTrad. FEVRIER Marc
-: .o .     N     _SWANN Thomas Burnett        Le Temps des dauphins ş? ?
+: .o .     a     _SWANN Thomas Burnett        Le Temps des dauphins ş1972 The Dolphin Days şTrad. RUAUD Andr‚-Fran‡ois
 o BEOR_SF     ?  2000.xx ..... ISBN 2-84344-027-0
 } orionbifev28   _SORRENTINO Fred             ?
 - .oS.    cN8    _WEINER Andrew               Signaux lointains ş2000
@@ -381,16 +382,17 @@ o BELIAL      ?  2002.xx ..... ISBN 2-84344-039-4
 ?- .o .     R     _DAY Thomas                  Rˆves de guerre ş1998
 
 !-----------------------------------------------------------------------------
-_ BELIAL  Le B‚lial
-_ BELIALK Le B‚lial, Kvasar
-_ BELIALP Le B‚lial, Pulps
-_ BELIALW Le B‚lial, Wotan
-_ BELIAL4 Le B‚lial, Quarante-Deux
-_ BELIPAR Le B‚lial, Parallaxe
-_ BELIALH Le B‚lial, Une heure-lumiŠre
-_ BELIH18 <b>in</b> Hors-S‚rie 2018, Le B‚lial, Une heure-lumiŠre
-_ BELIH19 <b>in</b> Hors-S‚rie 2019, Le B‚lial, Une heure-lumiŠre
-_ BELIH20 <b>in</b> Hors-S‚rie 2020, Le B‚lial, Une heure-lumiŠre
+_ BELIAL  Le B‚lial'
+_ BELIALK Le B‚lial' - Kvasar
+_ BELIALP Le B‚lial' - Pulps
+_ BELIALW Le B‚lial' - Wotan
+_ BELIAL4 Le B‚lial' - Quarante-Deux
+_ BELIPAR Le B‚lial' - Parallaxe
+!-----------------------------------------------------------------------------
+! BELIALH Le B‚lial' - Une heure-lumiŠre  --> uhl.col
+! BELIHHS Le B‚lial' - Une heure-lumiŠre - Hors-s‚rie  --> uhl.col
+!-----------------------------------------------------------------------------
+
 !-----------------------------------------------------------------------------
 !--- Hors collections
 !-----------------------------------------------------------------------------
@@ -485,7 +487,7 @@ o BELIAL      ?  2003.11 ..... ISBN 2-84344-052-1
 o BELIAL      ?  2004.02 ..... ISBN 2-84344-053-X
 } belial015      _Sparth                      ?
 - .oS.    kR2    _SILVERBERG Robert           Time Opera ş2004
-: .oS.     R     _SILVERBERG Robert           Les D‚serteurs temporels ş1967 The Tome Hoppers şTrad. MARTIN Bruno & DURASTANTI Pierre-Paul
+: .oS.     R     _SILVERBERG Robert           Les D‚serteurs temporels ş1967 The Time Hoppers şTrad. MARTIN Bruno & DURASTANTI Pierre-Paul
 : .oS.     R     _SILVERBERG Robert           Les Temps parallŠles ş1969 Up the Line şTrad. PLANCHAT Henri-Luc
 o BELIAL      ?  2004.03 ..... ISBN 2-84344-054-8
 } belial016      _Eric Scala                  ?
@@ -503,7 +505,7 @@ o BELIAL      ?  2004.06 ..... ISBN 2-84344-056-4
 : .o .     N     _BERTHELOT Francis           M‚r‚lune ş2001
 : .o .     N     _BERTHELOT Francis           La Nouvelle Alice (ou les bonheurs de l'impertinence) ş2004
 : .o .     N     _BERTHELOT Francis           Peinture de nuit ş2002
-: .o .     N     _BERTHELOT Francis           La GantiŠre et l'‚quarrisseur ş2003
+: .o .     N     _BERTHELOT Francis           La GantiŠre et l'‚quarisseur ş2002
 : .o .     N     _BERTHELOT Francis           Rire de verre ş2004
 : .o .     N     _BERTHELOT Francis           Peter Paon et la f‚e Crochette ş2004
 : .o .     N     _BERTHELOT Francis           Le Coeur … trois temps ş2004
@@ -542,7 +544,7 @@ o BELIAL      ?  2005.02 ..... ISBN 2-84344-067-X
 o BELIAL      ?  2005.04 ..... ISBN 2-84344-062-9
 } belial023      _Eric Scala                  ?
 - .oS.    _N12   _ECKEN Claude                Le Monde, tous droits r‚serv‚s ş2005
-: .o .     N     _ECKEN Claude                Le Monde, tous droits r‚serv‚s ş2005
+: .o .     N     _ECKEN Claude                Le Monde, tous droits r‚serv‚s ş1994
 : .o .     N     _ECKEN Claude                Membres … part entiŠre ş1987
 : .o .     N     _ECKEN Claude                Edgar Lomb, une r‚trospective ş1983
 : .o .     N     _ECKEN Claude                L'Unique ş2005
@@ -551,7 +553,7 @@ o BELIAL      ?  2005.04 ..... ISBN 2-84344-062-9
 : .o .     N     _ECKEN Claude                Fant“mes d'univers d‚funts ş1999
 : .o .     N     _ECKEN Claude                La Bˆte du recommencement ş1985
 : .o .     r     _ECKEN Claude                Eclats lumineux du disque d'accr‚tion ş2003
-: .o .     N     _ECKEN Claude                La DerniŠre Mort d'Alexis Wiejack ş1995
+: .o .     N     _ECKEN Claude                La DerniŠre Mort d'Alexis Wiejack ş1985
 : .o .     N     _ECKEN Claude                En sa tour, Annabelle ş1989
 : .o .     N     _ECKEN Claude                La Fin du Big Bang ş2000
 o BELIAL      ?  2005.05 ..... ISBN 2-84344-064-5
@@ -600,14 +602,17 @@ o BELIAL      ?  2006.09 ..... ISBN 2-84344-073-4
 } belial032      _Nicolas Fructus             ?
 + BELIAL      ?  2009.11 ..... ISBN 978-2-84344-073-1
 } belial032rr09  _Nicolas Fructus             ?
++ BELIAL4     ?  2022.03 ..... ISBN 978-2-84344-998-7
+} belial42_01rr22 _Nicolas Fructus             ?
+!--- 140 x 205 - 464 pages - 23,90 euros
 - .oS.    _N18   _EGAN Greg                   Axiomatique ş2006
 : .oS.     N     _EGAN Greg                   L'Assassin infini ş2000 The Infinite Assassin şTrad. ?
 : .oS.     N     _EGAN Greg                   LumiŠre des ‚v‚nements ş1992 The Hundred Light-Year Diary şTrad. ?
 : .oS.     N     _EGAN Greg                   EugŠne ş1990 Eugene şTrad. ?
-: .oS.     N     _EGAN Greg                   La Caresse ş1989 The Caress şTrad. ?
+: .oS.     N     _EGAN Greg                   La Caresse ş1990 The Caress şTrad. ?
 : .oS.     N     _EGAN Greg                   Soeurs de sang ş1991 Blood Sisters şTrad. ?
 : .oS.     N     _EGAN Greg                   Axiomatique ş1990 Axiomatic şTrad. ?
-: .oS.     N     _EGAN Greg                   Le Coffre-Fort ş1989 The Safe Deposit Box şTrad. ?
+: .oS.     N     _EGAN Greg                   Le Coffre-Fort ş1990 The Safe Deposit Box şTrad. ?
 : .oS.     N     _EGAN Greg                   Le Point de vue du plafond ş1995 Seeing şTrad. ?
 : .oS.     N     _EGAN Greg                   L'EnlŠvement ş1995 A Kidnapping şTrad. ?
 : .oS.     N     _EGAN Greg                   En apprenant … ˆtre moi ş1990 Learning to Be Me şTrad. ?
@@ -675,10 +680,10 @@ o BELIAL      ?  2008.05 ..... ISBN 978-2-84344-084-7
 } belial041      _Jean-S‚bastien Rossbach     ?
 - .oS.    _R3N5  _BRACKETT Leigh              Le Grand Livre de Mars [Le Livre de Mars - 1/4] ş2008
 : .oS.     p     _MOORCOCK Michael            La Reine des mystŠres ş2002 Queen of the Martian Mysteries
-: .oS.     R     _BRACKETT Leigh              L'p‚e de Rhiannon [Le Livre de Mars - 1] ş1949-1953 The Sea-kings of Mars / The Sword of Rhiannon şTrad. AUDIBERTI A., DURASTANTI Pierre-Paul et GIRARD Olivier
-: .o .     R     _BRACKETT Leigh              Le Secret de Sinharat [Le Livre de Mars - 2]+[Eric John Stark] ş1964 The Secret of Sinharat şTrad. AUBIGNAN Pascale, DURASTANTI Pierre-Paul et GIRARD Olivier
+: .oS.     R     _BRACKETT Leigh              L'p‚e de Rhiannon [Le Livre de Mars - 1] ş1949-1953 The Sea-kings of Mars / The Sword of Rhiannon şTrad. AUDIBERTI A. + DURASTANTI Pierre-Paul et GIRARD Olivier
+: .o .     R     _BRACKETT Leigh              Le Secret de Sinharat [Le Livre de Mars - 2]+[Eric John Stark] ş1964 The Secret of Sinharat şTrad. AUBIGNAN Pascale + DURASTANTI Pierre-Paul et GIRARD Olivier
 !--- Expansion de _Queen of the martian catacombs_ (1949)
-: .o .     R     _BRACKETT Leigh              Le Peuple du talisman [Le Livre de Mars - 3]+[Eric John Stark] ş1964 People of the Talisman şTrad. AUBIGNAN Pascale, DURASTANTI Pierre-Paul et GIRARD Olivier
+: .o .     R     _BRACKETT Leigh              Le Peuple du talisman [Le Livre de Mars - 3]+[Eric John Stark] ş1964 People of the Talisman şTrad. AUBIGNAN Pascale + DURASTANTI Pierre-Paul et GIRARD Olivier
 !--- Expansion de _Black amazon of mars_ (1951)
 : .oS.    _N5    _BRACKETT Leigh              Les Terriens arrivent [Le Livre de Mars - 4] ş1967 The Coming of the Terrans
 = .o .     N     _BRACKETT Leigh              Le Jardin du Shanga ş1948 The Beast-jewel of Mars şTrad. DEUTSCH Michel
@@ -687,13 +692,15 @@ o BELIAL      ?  2008.05 ..... ISBN 978-2-84344-084-7
 !--- oubli‚ dans le sommaire...
 = .o .     N     _BRACKETT Leigh              La Prˆtresse pourpre de la lune folle ş1964 Purple Priestess of the Mad Moon şTrad. DEUTSCH Michel
 = .o .     N     _BRACKETT Leigh              La Route de Sinharat ş1963 The Road to Sinharat şTrad. DEUTSCH Michel
-: .o .     a     _MOREAU Charles              Leight Brackett, dame de Mars, V‚nus et autres mondes ş2008
+: .o .     a     _MOREAU Charles              Leigh Brackett, dame de Mars, V‚nus et autres mondes ş2008
+: .o .     b     _SPRAUEL Alain               Bibliographie des oeuvres de fiction de Leigh Brackett (1915-1978) ş2008
 o BELIAL      ?  2008.06 ..... ISBN 978-2-84344-085-4
 } belial042      _Manchu                      ?
 - .oS.     R     _GENEFORT Laurent            M‚moria ş2008
 o BELIAL      ?  2008.06 ..... ISBN 978-2-84344-086-1
 } belial043      _Gil Formosa                 ?
 - .oS.    _RN    _ANDERSON Poul               La Ran‡on du temps [La Patrouille du temps] ş2008
+: .oS.     p     _BREQUE Jean-Daniel          Avant-propos ş2008
 : .oS.     R     _ANDERSON Poul               Stella Maris [La Patrouille du temps] ş1991 Star of the Sea şTrad. BREQUE Jean-Daniel
 : .oS.     N     _ANDERSON Poul               L'Ann‚e de la ran‡on [La Patrouille du temps] ş1988 The Year of the Ransom şTrad. BREQUE Jean-Daniel
 o BELIAL      ?  2008.09 ..... ISBN 978-2-84344-087-8
@@ -752,7 +759,7 @@ o BELIAL      ?  2009.04 ..... ISBN 978-2-84344-091-5
 : .o .     N     _SIMAK Clifford D.           Le Puits siffleur ş1980 The Whistling Well
 o BELIAL      ?  2009.05 ..... ISBN 978-2-84344-092-2
 } belial050      _Gil Formosa                 ?
-- .oS.     R     _ANDERSON Poul               Le Bouclier du temps [La Patrouille du temps] ş1990 The Shied of Time şTrad. BREQUE Jean-Daniel
+- .oS.     R     _ANDERSON Poul               Le Bouclier du temps [La Patrouille du temps] ş1990 The Shield of Time şTrad. BREQUE Jean-Daniel
 o BELIAL      ?  2009.09 ..... ISBN 978-2-84344-093-9
 } belial051      _Caza                        ?
 - .oS.    kA19   _WINTREBERT Jo‰lle          &La Cr‚ode ş2009
@@ -784,7 +791,7 @@ o BELIAL      ?  2009.11 ..... ISBN 978-2-84344-094-6
 - .oS.    _N13   _EGAN Greg                  &Oc‚anique ş2009
 &                *HERZFELD Ellen             &
 &                *MARTEL Dominique            
-!--- şTrad. Quarante Deux
+!--- Trad. Quarante Deux
 : .oS.     N     _EGAN Greg                   Gardes-frontiŠres ş1999 Border Guards şTrad. ?
 : .oS.     N     _EGAN Greg                   Les Entiers sombres ş2007 Dark Integers şTrad. ?
 : .oS.     N     _EGAN Greg                   Mortelles ritournelles ş1989 Beyond the Whistle Test şTrad. ?
@@ -822,7 +829,7 @@ o BELIAL      ?  2010.03 ..... ISBN 978-2-84344-097-7
 : .o .     N     _BANKS Iain M.               Descente [La Culture] ş1987 Descendant şTrad. QUEMENER Sonia
 : .o .     N     _BANKS Iain M.               Nettoyage ş1987 Cleaning Up şTrad. QUEMENER Sonia
 : .o .     N     _BANKS Iain M.               Fragment ş1989 Piece şTrad. QUEMENER Sonia
-: .oS.     r     _BANKS Iain M.               L'Essence de l'art [La Culture] ş1991 The State of the Art şTrad. QUEMENER Sonia
+: .oS.     r     _BANKS Iain M.               L'Essence de l'art [La Culture] ş1989 The State of the Art şTrad. QUEMENER Sonia
 : .o .     N     _BANKS Iain M.               Eclat ş1987 Scratch şTrad. QUEMENER Sonia
 o BELIAL      ?  2010.05 ..... ISBN 978-2-84344-098-4
 } belial056      _Philippe Gady               ?
@@ -969,7 +976,7 @@ o BELIAL      ?  2013.06 ..... ISBN 978-2-84344-120-2
 o BELIAL      ?  2013.09 ..... ISBN 978-2-84344-121-9
 } belial074      _Aur‚lien Police             Aur‚lien Police
 - .oS.    kN6    _DAY Thomas                  Sept secondes pour devenir un aigle ş2013
-?: .o .     p     _GIRARD Olivier              ? ş2013
+: .o .     p     _GIRARD Olivier              Avant-propos ş2013
 : .oS.     N     _DAY Thomas                  Mariposa ş1993
 : .oS.     N     _DAY Thomas                  Sept secondes pour devenir un aigle ş2012
 : .oS.     N     _DAY Thomas                  Ethologie du tigre ş2010
@@ -1117,11 +1124,9 @@ o BELIALK     8i 2015.09 ..... ISBN 978-2-84344-137-0
 : .o .     N     _PRIEST Christopher          Le Baron ş2010 The Stooge şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _PRIEST Christopher          Les Effets du deuil ş2011 Widow's Weeds şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _PRIEST Christopher          Errant solitaire et pƒle ş1979 Palely Loitering şTrad. DURASTANTI Pierre-Paul
-!--- La supr‚matie de la maturit‚ - Christopher Priest, un entretien : premiŠre partie, par Thomas Day
-!: .o .     I     _DAY Thomas                  La supr‚matie de la maturit‚ - Un entretien avec Christopher Priest - 1Šre partie ş2015
+: .o .     I     _DAY Thomas                  La supr‚matie de la maturit‚ - Un entretien avec Christopher Priest - 1Šre partie ş2015
 : .o .     E     _PRIEST Christopher          Magie, histoire d'un film ş2008 The Magic - The Story of a Film şTrad. DURASTANTI Pierre-Paul
-!--- La supr‚matie de la maturit‚ - Christopher Priest, un entretien : seconde partie, par Thomas Day
-!: .o .     I     _DAY Thomas                  La supr‚matie de la maturit‚ - Un entretien avec Christopher Priest - 1Šre partie ş2015
+: .o .     I     _DAY Thomas                  La supr‚matie de la maturit‚ - Un entretien avec Christopher Priest - Seconde partie ş2015
 : .o .     a     _SPRAUEL Alain               Bibliographie des oeuvres de Christopher Priest ş2015
 !--- 
 o BELIAL      ?  2015.11 ..... ISBN 978-2-84344-138-7
@@ -1130,7 +1135,7 @@ o BELIAL      ?  2015.11 ..... ISBN 978-2-84344-138-7
 !------------------------
 !=== 2016
 !------------------------
-o BELIALK     ?  2016.02 ..... ISBN 978-2-84344-141-7
+o BELIALK     9i 2016.02 ..... ISBN 978-2-84344-141-7
 } belialk09      _Philippe Caza               ?
 - .oS.    kR3N5  _ANDERSON Poul               La Patrouille du temps - L'int‚grale volume 1 [La Patrouille du temps] ş2016 şTrad. Jean-Daniel BrŠque
 : .o .     p     _BREQUE Jean-Daniel          Avant-propos ş2016
@@ -1150,7 +1155,7 @@ o BELIALK    10i 2016.03 ..... ISBN 978-2-84344-900-0
 } belialk10      _Philippe Caza               ?
 - .oS.    kRN2   _ANDERSON Poul               La Patrouille du temps - L'int‚grale volume 2 [La Patrouille du temps] ş2016 şTrad. Jean-Daniel BrŠque
 : .oS.     N     _ANDERSON Poul               L'Ann‚e de la ran‡on [La Patrouille du temps] ş1988 The Year of the Ransom şTrad. BREQUE Jean-Daniel
-: .oS.     R     _ANDERSON Poul               Le Bouclier du temps [La Patrouille du temps] ş1990 The Shied of Time şTrad. BREQUE Jean-Daniel
+: .oS.     R     _ANDERSON Poul               Le Bouclier du temps [La Patrouille du temps] ş1990 The Shield of Time şTrad. BREQUE Jean-Daniel
 : .oS.     N     _ANDERSON Poul               La Mort et le chevalier [La Patrouille du temps] ş1995 Death and the Knight şTrad. ?
 : .oS.     a     _ANDERSON Poul               Science-fiction et histoire ş1980 Science-fiction & History şTrad. ?
 : .oS.     a     _ANDERSON Poul               La D‚couverte du pass‚ ş1984 The Discovery of the Past şTrad. ?
@@ -1200,11 +1205,11 @@ o BELIAL      ?  2016.11 ..... ISBN 978-2-84344-905-5
 : .o .     a     _SPRAUEL Alain               Bibliographie ş2016
 o BELIALW     ?  2016.11 ..... ISBN 978-2-84344-910-9
 } belialw01      _Nicolas Fructus             Nicolas Fructus
+!--- Livre cousu, 170 pages, 39 euros. Textes et illustrations
 - .oF.     N3    _FRUCTUS Nicolas            &Gotland ş2016
 &                _DAY Thomas                  
-!--- Livre cousu, 170 pages, 39 euros. Textes et illustrations
 : .o .     N     _FRUCTUS Nicolas             Gotland ş2016
-: .o .     N     _DAY Thomas                  Forbach ş2016
+: .o .     N     _DAY Thomas                  Forbach ş2014
 : .o .     N     _FRUCTUS Nicolas             M‚moire des mondes troubles ş2016
 !------------------------
 !=== 2017
@@ -1249,9 +1254,9 @@ o BELIAL      ?  2017.10 ..... ISBN 978-2-84344-928-4
 o BELIAL4     ?  2017.10 ..... ISBN 978-2-84344-927-7
 } belial_42_06   _Aur‚lien Police             ?
 - .oS.    kN11   _KRESS Nancy                &Danses a‚riennes ş2017
+!--- TBD pr‚face (de qui ?) "En guise d'avertissement"
 &                *HERZFELD Ellen             &
 &                *MARTEL Dominique            
-!--- .     p     _?                           En guise d'avertissement ş2017
 : .o .     N     _KRESS Nancy                 Le Sauveur ş2000 Savior şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _KRESS Nancy                 Touchdown ş1990 Touchdown şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _KRESS Nancy                 Evolution ş1995 Evolution şTrad. BAUDURET Thomas + GIRARD Olivier
@@ -1294,7 +1299,7 @@ o BELIALK    11i 2018.05 ..... ISBN 978-2-84344-934-5
 } belialk11      _Aur‚lien Police             ?
 - .oS.    kN17   _LE GUIN Ursula K.           Aux douze vents du monde ş1975 The Wind's Twelve Quarters şTrad. DURASTANTI Pierre-Paul
 : .o .     p     _DURASTANTI Pierre-Paul      Avant-propos ş2018
-: .oS.     N     _LE GUIN Ursula K.           Le Collier de Seml‚ [Cycle de Hain] ş1964 Semley's Necklace şTrad. DURASTANTI Pierre-Paul
+: .oS.     N     _LE GUIN Ursula K.           Le Collier de Seml‚ [Cycle de Hain] ş1964 The Dowry of Angyar / Semley's Necklace şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _LE GUIN Ursula K.           Avril … Paris ş1962 April in Paris
 : .o .     N     _LE GUIN Ursula K.           Les MaŒtres ş1963 The Masters şTrad. ZIMMERMANN Nathalie & MURAIL Lorris
 : .o .     N     _LE GUIN Ursula K.           La BoŒte d'ombre ş1963 Darkness Box
@@ -1335,7 +1340,7 @@ o BELIPAR     ?  2018.10 ..... ISBN 978-2-84344-943-7
 o BELIAL      ?  2018.11 ..... ISBN 978-2-84344-940-6
 } noimg          _Manchu                      ?
 - .oS.     R     _CHAIT Gavin                 Complainte pour ceux qui sont tomb‚s ş2016 Lament for the Fallen şTrad. PLANCHAT Henry-Luc
-o BELIALK     ?  2018.11 ..... ISBN 978-2-84344-941-3
+o BELIALK    12i 2018.11 ..... ISBN 978-2-84344-941-3
 } belialk12      _Guillaume Sorel             ?
 - .oF.     R3    _DI ROLLO Thierry            Bankgreen - L'int‚grale [Bankgreen - 1/3] ş2018
 : .oF.     R     _DI ROLLO Thierry            Le Dernier des varaniers [Bankgreen - 1] ş2011
@@ -1344,46 +1349,45 @@ o BELIALK     ?  2018.11 ..... ISBN 978-2-84344-941-3
 !------------------------
 !=== 2019
 !------------------------
-o BELIALK     ?  2019.02 ..... ISBN 978-2-84344-945-1
+o BELIALK    13i 2019.02 ..... ISBN 978-2-84344-945-1
 } belialk13      _Guillaume Sorel             ?
-- .oS.     A34   *DURASTANTI Pierre-Paul     &Nouvelles - Tome 1 - 1945-1954 ş2019
+- .oS.     A34   *DURASTANTI Pierre-Paul     &Nouvelles - Tome 1 - 1945-1954 ((Nouvelles de Jack Vance)) ş2019
 &                _VANCE Jack                  
 : .oS.     p     _DURASTANTI Pierre-Paul      Avant-propos ş2019
-: .o .     N     _VANCE Jack                  Le Penseur de monde ş1945 The World-thinker şTrad. ?
-: .oS.     N     _VANCE Jack                  La PlanŠte de poussiŠre ş1946 Planet of the Black Dust şTrad. ?
-: .o .     N     _VANCE Jack                  Un destin de Phalid ş1989 Phalid's Fate şTrad. ?
-: .o .     N     _VANCE Jack                  Je bƒtirai le chƒteau de vos rˆves ş1947 I'll Build Your Dream Castle şTrad. ?
-: .o .     N     _VANCE Jack                  Les Potiers de Firsk ş1950 The Potters of Firsk şTrad. ?
-: .o .     N     _VANCE Jack                  Chƒteau en Hispanie ş1950 New Bodies for Old şTrad. ?
+: .o .     N     _VANCE Jack                  Le Penseur de monde ş1945 The World-thinker şTrad. DURASTANTI Pierre-Paul
+: .oS.     N     _VANCE Jack                  La PlanŠte de poussiŠre ş1946 Planet of the Black Dust şTrad. DUSOULIER Patrick
+: .o .     N     _VANCE Jack                  Un destin de Phalid ş1989 Phalid's Fate şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Je bƒtirai le chƒteau de vos rˆves ş1947 I'll Build Your Dream Castle şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Les Potiers de Firsk ş1950 The Potters of Firsk şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Chƒteau en Hispanie ş1950 New Bodies for Old şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _VANCE Jack                  Droit devant ş1950-1986 Ultimate Quest / Dead Ahead? şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _VANCE Jack                  MaŒtre de la galaxie ş1951 Brain of the Galaxy / The New Prime şTrad. ?
-: .o .     N     _VANCE Jack                  Les MaŒtres de Maxus ş1951 Overlords of Maxus şTrad. ?
-: .o .     N     _VANCE Jack                  Les Dix Livres ş1982 The Ten Books şTrad. ?
-: .o .     N     _VANCE Jack                  Une fille en or ş1951 Golden Girl şTrad. ?
-: .o .     r     _VANCE Jack                  Fils de l'arbre ş1951 Son of the Tree şTrad. ?
-: .o .     N     _VANCE Jack                  Le Temple de Han ş1951 The Temple of Han şTrad. ?
-: .o .     N     _VANCE Jack                  Mascarade sur Dicantrope ş1951 Masquerade of Dicantropus şTrad. ?
-: .o .     N     _VANCE Jack                  Le Robot d‚sinhib‚ ş1956 The Uninhibited Robot şTrad. ?
-: .o .     N     _VANCE Jack                  La Gaffe monumentale de Dover Spargill ş1951 Dover Spargill's Ghastly Floater şTrad. ?
-!--- La Gaffe monumentale
-: .o .     N     _VANCE Jack                  Qui perd gagne ş1951 Winner Lose All şTrad. ?
-: .o .     r     _VANCE Jack                  T‚lek ş1952 Telek şTrad. ?
-: .o .     r     _VANCE Jack                  La Station Abercrombie [Jean Parlier] ş1952 Abercrombie Station şTrad. ?
+: .o .     N     _VANCE Jack                  MaŒtre de la galaxie ş1951 Brain of the Galaxy / The New Prime şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Les MaŒtres de Maxus ş1951 Overlords of Maxus şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Les Dix Livres ş1982 The Ten Books şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Une fille en or ş1951 Golden Girl şTrad. DURASTANTI Pierre-Paul
+: .o .     r     _VANCE Jack                  Fils de l'arbre ş1951 Son of the Tree şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Le Temple de Han ş1951 The Temple of Han şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Mascarade sur Dicantrope ş1951 Masquerade of Dicantropus şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Le Robot d‚sinhib‚ ş1956 The Uninhibited Robot şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  La Gaffe monumentale de Dover Spargill ş1951 Dover Spargill's Ghastly Floater şTrad. GOULLET Gilles
+: .o .     N     _VANCE Jack                  Qui perd gagne ş1951 Winner Lose All şTrad. DURASTANTI Pierre-Paul
+: .o .     r     _VANCE Jack                  T‚lek ş1952 Telek şTrad. WAGNER Roland C.
+: .o .     r     _VANCE Jack                  La Station Abercrombie [Jean Parlier] ş1952 Abercrombie Station şTrad. WAGNER Roland C.
 : .o .     N     _VANCE Jack                  Sabotage sur la planŠte de soufre ş1952 Sabotage on Sulfur Planet şTrad. DURASTANTI Pierre-Paul
-: .o .     r     _VANCE Jack                  Cholwell et ses poules [Jean Parlier] ş1952 Cholwell's Chickens şTrad. ?
-: .o .     N     _VANCE Jack                  Le Bruit ş1952 Noise şTrad. ?
+: .o .     r     _VANCE Jack                  Cholwell et ses poules [Jean Parlier] ş1952 Cholwell's Chickens şTrad. WAGNER Roland C.
+: .o .     N     _VANCE Jack                  Le Bruit ş1952 Noise şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _VANCE Jack                  Sept fa‡ons de quitter Bocz ş1952 Seven Exits from Bocz şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _VANCE Jack                  Joe trois-pattes ş1953 Three-legged Joe şTrad. ?
-: .o .     N     _VANCE Jack                  Personnes d‚plac‚es ş1953 DP! şTrad. ?
-: .o .     N     _VANCE Jack                  La Guerre des ‚cologies ş1953 Ecological Onslaught şTrad. ?
-: .o .     N     _VANCE Jack                  La Mytr ş1953 The Mytr şTrad. ?
-: .o .     N     _VANCE Jack                  Quatre cent merles ş1953 Four Hundred Blackbirds şTrad. ?
-: .o .     N     _VANCE Jack                  Sjambak ş1953 Sjambak şTrad. ?
-: .o .     N     _VANCE Jack                  Rassemblement ş1953 Shape-up şTrad. ?
-: .o .     N     _VANCE Jack                  Le Professeur distrait ş1954 First Star I See Tonight / The Absent-Minded Professor şTrad. ?
-: .o .     N     _VANCE Jack                  Quand se lŠvent les cinq lunes ş1954 When the Five Moons Rise şTrad. ?
-: .o .     R     _VANCE Jack                  Les Maisons d'Iszm ş1954 The Houses of Iszm şTrad. ?
-: .o .     N     _VANCE Jack                  La Princesse enchant‚e ş1954 The Enchanted Princess şTrad. ?
+: .o .     N     _VANCE Jack                  Joe trois-pattes ş1953 Three-legged Joe şTrad. DUSOULIER Patrick
+: .o .     N     _VANCE Jack                  Personnes d‚plac‚es ş1953 DP! şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  La Guerre des ‚cologies ş1953 Ecological Onslaught şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  La Mytr ş1953 The Mytr şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Quatre cent merles ş1953 Four Hundred Blackbirds şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Sjambak ş1953 Sjambak şTrad. MEGE Nathalie
+: .o .     N     _VANCE Jack                  Rassemblement ş1953 Shape-up şTrad. DOKE Sarah
+: .o .     N     _VANCE Jack                  Le Professeur distrait ş1954 First Star I See Tonight / The Absent-Minded Professor şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Quand se lŠvent les cinq lunes ş1954 When the Five Moons Rise şTrad. DURASTANTI Pierre-Paul
+: .o .     R     _VANCE Jack                  Les Maisons d'Iszm ş1954 The Houses of Iszm şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  La Princesse enchant‚e ş1954 The Enchanted Princess şTrad. DURASTANTI Pierre-Paul
 o BELIAL      ?  2019.03 ..... ISBN 978-2-84344-948-2
 } belial101      _Manchu                      ?
 - .oS.     N10   _GENEFORT Laurent            Colonies ş2019
@@ -1400,37 +1404,36 @@ o BELIAL      ?  2019.03 ..... ISBN 978-2-84344-948-2
 : .o .     N     _GENEFORT Laurent            Proche-Horizon ş1998
 : .o .     R     _GENEFORT Laurent            L'Homme qui n'existait plus ş1996
 : .o .     o     _GENEFORT Laurent            Postface savanturiŠre ş2019
-o BELIALK     ?  2019.03 ..... ISBN 978-2-84344-946-8
+o BELIALK    14i 2019.03 ..... ISBN 978-2-84344-946-8
 } belialk14      _Guillaume Sorel             ?
-- .oS.     A34   *DURASTANTI Pierre-Paul     &Nouvelles - Tome 2, 1955-1982 ş2019
+- .oS.     A34   *DURASTANTI Pierre-Paul     &Nouvelles - Tome 2, 1955-1982 ((Nouvelles de Jack Vance)) ş2019
 &                _VANCE Jack                  
 : .o .     N     _VANCE Jack                  Miss univers ş1955 Meet Miss Universe şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _VANCE Jack                  Le Don du bagout ş1955 Gift of Gab şTrad. ?
-: .o .     N     _VANCE Jack                  Le Diable de la colline du salut ş1955 The Devil on Salvation Bluff şTrad. ?
+: .o .     N     _VANCE Jack                  Le Don du bagout ş1955 Gift of Gab şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Le Diable de la colline du salut ş1955 The Devil on Salvation Bluff şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _VANCE Jack                  Le Laitier fant“me ş1956 The Phantom Milkman şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _VANCE Jack                  Point de chute ş1956 Where Hesperus Fall şTrad. ?
-: .o .     N     _VANCE Jack                  Le Retour des hommes ş1957 The Men Return şTrad. ?
+: .o .     N     _VANCE Jack                  Point de chute ş1956 Where Hesperus Fall şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Le Retour des hommes ş1957 The Men Return şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _VANCE Jack                  Guide pratique ş1957 A Practical Man's Guide şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _VANCE Jack                  Les MaŒtres de maison ş1957 The House Lords şTrad. ?
-: .o .     r     _VANCE Jack                  Les Faiseurs de miracle ş1958 The Miracle Workers şTrad. ?
-: .o .     R     _VANCE Jack                  Parapsych‚ ş1957 Parapsyche şTrad. ?
-: .o .     N     _VANCE Jack                  La Retraite d'Ullward ş1958 Ullward's Retreat şTrad. ?
-: .o .     N     _VANCE Jack                  Les Oeuvres de Dodkin ş1959 Dodkin's Job şTrad. ?
-: .o .     N     _VANCE Jack                  Le Papillon de lune ş1961 The Moon Moth şTrad. ?
-!--- TBD "Le " ou pas ? Et les autres ?
-: .o .     N     _VANCE Jack                  Le Syndrome de l'homme augment‚ ş1961 I-C-a-BeM / The Augmented Agent şTrad. ?
-: .o .     R     _VANCE Jack                  Les MaŒtres des dragons ş1962 The Dragon Masters şTrad. ?
-: .o .     N     _VANCE Jack                  Les Portes de l'ailleurs ş1962 Sail 25 şTrad. ?
-: .o .     N     _VANCE Jack                  Magie verte ş1963 Green Magic şTrad. ?
-: .o .     N     _VANCE Jack                  L'Arche d'Alfred ş1965 Alfred's Ark şTrad. ?
-: .o .     N     _VANCE Jack                  Le Secret ş1966 The Secret şTrad. ?
-: .o .     N     _VANCE Jack                  Le Dernier Chƒteau ş1966 The Last Castle şTrad. ?
+: .o .     N     _VANCE Jack                  Les MaŒtres de maison ş1957 The House Lords şTrad. DURASTANTI Pierre-Paul
+: .o .     r     _VANCE Jack                  Les Faiseurs de miracle ş1958 The Miracle Workers şTrad. DURASTANTI Pierre-Paul
+: .o .     R     _VANCE Jack                  Parapsych‚ ş1957 Parapsyche şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  La Retraite d'Ullward ş1958 Ullward's Retreat şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Les Oeuvres de Dodkin ş1959 Dodkin's Job şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Le Papillon de lune ş1961 The Moon Moth şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Le Syndrome de l'homme augment‚ ş1961 I-C-a-BeM / The Augmented Agent şTrad. DURASTANTI Pierre-Paul
+: .o .     R     _VANCE Jack                  Les MaŒtres des dragons ş1962 The Dragon Masters şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Les Portes de l'ailleurs ş1962 Sail 25 şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Magie verte ş1963 Green Magic şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  L'Arche d'Alfred ş1965 Alfred's Ark şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Le Secret ş1966 The Secret şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Le Dernier Chƒteau ş1966 The Last Castle şTrad. DURASTANTI Pierre-Paul
 : .o .     r     _VANCE Jack                  Nopalgarth ş1966 The Brains of Earth / Nopalgarth şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _VANCE Jack                  La Terre ‚troite ş1967 The Narrow Land şTrad. ?
-: .o .     N     _VANCE Jack                  L'Homme de la Zodiac ş1989 The Man from Zodiac şTrad. ?
-: .o .     N     _VANCE Jack                  La PlanŠte de Sulwen ş1968 Sulwen's Planet şTrad. ?
-: .o .     N     _VANCE Jack                  La Grande Bamboche ş1973 Rumfuddle şTrad. CHAMBON Jacques
-: .o .     N     _VANCE Jack                  Alice et la cit‚ ş1974 Assault on a City şTrad. ?
+: .o .     N     _VANCE Jack                  La Terre ‚troite ş1967 The Narrow Land şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  L'Homme de la Zodiac ş1989 The Man from Zodiac şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  La PlanŠte de Sulwen ş1968 Sulwen's Planet şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  La Grande Bamboche ş1973 Rumfuddle şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _VANCE Jack                  Alice et la cit‚ ş1974 Assault on a City şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _VANCE Jack                  Le Chƒteau de vos rˆves ş1947-1982 Dream Castle şTrad. DURASTANTI Pierre-Paul
 o BELIALP     ?  2019.05 ..... ISBN 978-2-84344-947-5
 } belialp06      _Philippe Gady               ?
@@ -1456,37 +1459,37 @@ o BELIAL      ?  2019.10 ..... ISBN 978-2-84344-958-1
 - .oS.     R     _PALMER Ada                  Trop semblable … l'‚clair [Terra Ignota - 1] ş2016 Too Like the Lightning şTrad. CHARRIER Michelle
 o BELIAL4     ?  2019.11 ..... ISBN 978-2-84344-959-8
 } belial_42_07   _Aur‚lien Police             ?
-- .oS.     A25   _LIU Ken                    &Jardins de poussiŠre ş2019
+- .oS.    kA25   _LIU Ken                    &Jardins de poussiŠre ş2019
 &                *HERZFELD Ellen             &
 &                *MARTEL Dominique            
-: .o .     p     _LIU Ken                     Avant-propos ş2019
-: .o .     N     _LIU Ken                     Le Jardin de poussiŠre ş2014 The Dust Garden şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     La Fille cach‚e ş2017 The Hidden Girl şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Bonne chasse ş2012 Good Hunting şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Rester ş2011 Staying Behind şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Ailleurs, trŠs loin de l…, de vastes troupeaux de rennes ş2011 Altogether Elsewhere, Vast Herds of Reindeer şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Souvenirs de ma mŠre ş2012 Memories of My Mother şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Le Fardeau ş2012 You'll Always Have the Burden with You şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Nul ne possŠde les cieux ş2014 None Owns the Air şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Long-courrier ş2014 The Long Haul şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Nouds ş2011 Tying Knots şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                    &Sauver la face ş2011 Saving Face şTrad. DURASTANTI Pierre-Paul
+: .o .   7 p     _LIU Ken                     Avant-propos ş2019
+: .o .  12 N     _LIU Ken                     Le Jardin de poussiŠre ş2014 The Dust Garden şTrad. DURASTANTI Pierre-Paul
+: .o .  22 N     _LIU Ken                     La Fille cach‚e ş2017 The Hidden Girl şTrad. DURASTANTI Pierre-Paul
+: .o .  52 N     _LIU Ken                     Bonne chasse ş2012 Good Hunting şTrad. DURASTANTI Pierre-Paul
+: .o .  76 N     _LIU Ken                     Rester ş2011 Staying Behind şTrad. DURASTANTI Pierre-Paul
+: .o .  94 N     _LIU Ken                     Ailleurs, trŠs loin de l…, de vastes troupeaux de rennes ş2011 Altogether Elsewhere, Vast Herds of Reindeer şTrad. DURASTANTI Pierre-Paul
+: .o . 108 N     _LIU Ken                     Souvenirs de ma mŠre ş2012 Memories of My Mother şTrad. DURASTANTI Pierre-Paul
+: .o . 114 N     _LIU Ken                     Le Fardeau ş2012 You'll Always Have the Burden with You şTrad. DURASTANTI Pierre-Paul
+: .o . 134 N     _LIU Ken                     Nul ne possŠde les cieux ş2014 None Owns the Air şTrad. DURASTANTI Pierre-Paul
+: .o . 162 N     _LIU Ken                     Long-courrier ş2014 The Long Haul şTrad. DURASTANTI Pierre-Paul
+: .o . 184 N     _LIU Ken                     Noeuds ş2011 Tying Knots şTrad. DURASTANTI Pierre-Paul
+: .o . 202 N     _LIU Ken                    &Sauver la face ş2011 Saving Face şTrad. DURASTANTI Pierre-Paul
 &                _LI Shelly                   
-: .o .     N     _LIU Ken                     Une brŠve histoire du Tunnel transpacifique ş2013 A Brief History of the Trans-Pacific Tunnel şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Jours fant“mes ş2013 Ghost Days şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Ce qu'on attend d'un organisateur de mariage ş2014 What Is Expected of a Wedding Host şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Messages du Berceau : L'ermite - Quarante-huit heures dans la mer du Massachusetts ş2016 Dispatches from the Cradle: The Hermit - Forty-Eight Hours in the Sea of Massachusetts şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Empathie byzantine ş2018 Byzantine Empathy şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Dolly, la poup‚e jolie ş2013 Build-a-Dolly şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Animaux exotiques ş2012 Exotic Pets şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Vrais visages ş2012 Real Faces şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Moments privil‚gi‚s ş2018 Quality Time şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Rapport d'effet … cause ş2013 Effect and Cause şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Imagier de cognition comparative pour lecteur avanc‚ ş2016 An Advanced Readers' Picture Book of Comparative Cognition şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     La DerniŠre Semence ş2011 The Last Seed şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Sept anniversaires ş2016 Seven Birthdays şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _LIU Ken                     Printemps cosmique ş2018 Cosmic Spring şTrad. DURASTANTI Pierre-Paul
-: .o .     a     _SPRAUEL Alain               Bibliographie ş2019
+: .o . 218 N     _LIU Ken                     Une brŠve histoire du Tunnel transpacifique ş2013 A Brief History of the Trans-Pacific Tunnel şTrad. DURASTANTI Pierre-Paul
+: .o . 238 N     _LIU Ken                     Jours fant“mes ş2013 Ghost Days şTrad. DURASTANTI Pierre-Paul
+: .o . 266 N     _LIU Ken                     Ce qu'on attend d'un organisateur de mariage ş2014 What Is Expected of a Wedding Host şTrad. DURASTANTI Pierre-Paul
+: .o . 270 N     _LIU Ken                     Messages du Berceau : L'ermite - Quarante-huit heures dans la mer du Massachusetts ş2016 Dispatches from the Cradle: The Hermit - Forty-Eight Hours in the Sea of Massachusetts şTrad. DURASTANTI Pierre-Paul
+: .o . 290 N     _LIU Ken                     Empathie byzantine ş2018 Byzantine Empathy şTrad. DURASTANTI Pierre-Paul
+: .o . 330 N     _LIU Ken                     Dolly, la poup‚e jolie ş2013 Build-a-Dolly şTrad. DURASTANTI Pierre-Paul
+: .o . 336 N     _LIU Ken                     Animaux exotiques ş2012 Exotic Pets şTrad. DURASTANTI Pierre-Paul
+: .o . 360 N     _LIU Ken                     Vrais visages ş2012 Real Faces şTrad. DURASTANTI Pierre-Paul
+: .o . 378 N     _LIU Ken                     Moments privil‚gi‚s ş2018 Quality Time şTrad. DURASTANTI Pierre-Paul
+: .o . 406 N     _LIU Ken                     Rapport d'effet … cause ş2013 Effect and Cause şTrad. DURASTANTI Pierre-Paul
+: .o . 412 N     _LIU Ken                     Imagier de cognition comparative pour lecteur avanc‚ ş2016 An Advanced Readers' Picture Book of Comparative Cognition şTrad. DURASTANTI Pierre-Paul
+: .o . 428 N     _LIU Ken                     La DerniŠre Semence ş2011 The Last Seed şTrad. DURASTANTI Pierre-Paul
+: .o . 434 N     _LIU Ken                     Sept anniversaires ş2016 Seven Birthdays şTrad. DURASTANTI Pierre-Paul
+: .o . 456 N     _LIU Ken                     Printemps cosmique ş2018 Cosmic Spring şTrad. DURASTANTI Pierre-Paul
+: .o . 466 a     _SPRAUEL Alain               Bibliographie ş2019
 !------------------------
 !=== 2020
 !------------------------
@@ -1528,6 +1531,7 @@ o BELIAL      ?  2020.09 ..... ISBN 978-2-84344-968-0
 : .o .     N     _DUFOUR Catherine            La tˆte raclant la lune ş2020
 : .o .     N     _DUFOUR Catherine            La vie sexuelle d'Alfred de M. ş2020
 : .o .     N     _DUFOUR Catherine            Coucou les filles ş2020
+: .o .     a     _SPRAUEL Alain               Bibliographie de Catherine Dufour ş2020
 o BELIAL      ?  2020.09 ..... ISBN 978-2-84344-969-7
 } belial109      _Manchu                      Cedric Bucaille
 !--- GF - 224 pages - 18,90 euros
@@ -1547,13 +1551,16 @@ o BELIPAR     ?  2020.10 ..... ISBN 978-2-84344-972-2
 : .o .     a     _LANDRAGIN Fr‚d‚ric          Exotisme et force linguistique ş2020
 : .o .     a     _LYNN EVANS Carrie           Femmes du futur : genre, technologie et cyborg ş2020
 : .o .     a     _AZULYS Sam                  G‚opolitique fractale de l'Imperium ş2020
-: .o .     a     _CHEMLA Fabrice              Dieu, l'Empereur et le reste ş2020
+: .o .     a     _CHEMLA Fabrice              Dieu, l'empereur et le reste ş2020
 : .o .     a     _FERRO Fr‚d‚ric              Les futurs contingents : science et prescience dans Dune ş2020
 : .o .     a     _CHEMLA Fabrice              La M‚moire Seconde : figures de la possession ş2020
 : .o .     a     _ROBINSON Christopher L.     Dune : un m‚lange historique, politique et romanesque ş2020
 o BELIAL4     ?  2020.10 ..... ISBN 978-2-84344-973-4
 } belial42_7     _Pascal Blanch‚              ?
 !--- GF - 23,90 euros
++ BELIAL4     ?  2022.03 ..... ISBN 978-2-84344-973-4
+} belial42_7rr22 _Pascal Blanch‚              ?
+!--- GF - 140 x 205 - 512 pages
 - .oS.     A28   _LARSON Rich                &La Fabrique des lendemains ş2020
 &                *HERZFELD Ellen             &
 &                *MARTEL Dominique            
@@ -1587,139 +1594,229 @@ o BELIAL4     ?  2020.10 ..... ISBN 978-2-84344-973-4
 : .o .     N     _LARSON Rich                 Si ‡a se trouve, certaines de ces ‚toiles ont d‚j… disparu ş2018 Some of These Stars Might Already Be Gone şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _LARSON Rich                 La Digue ş2016 Seawall şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _LARSON Rich                 Faire du manŠge ş2018 Carouseling şTrad. DURASTANTI Pierre-Paul
-
-
-
-
-
-!-----------------------------------------------------------------------------
-!--- Une Heure-LumiŠre
-!-----------------------------------------------------------------------------
 !------------------------
-!=== 2016
+!=== 2021
 !------------------------
-o BELIALH     1  2016.01 ..... ISBN 978-2-84344-139-4
-} belialhl01     _Aur‚lien Police             ?
-- .oS.     r     _DAY Thomas                  Dragon ş2016
-o BELIALH     2  2016.01 ..... ISBN 978-2-84344-140-0
-} belialhl02     _Aur‚lien Police             ?
-- .oS.     r     _KRESS Nancy                 Le Nexus du Docteur Erdmann ş2008 The Erdmann Nexus şTrad. PONSERO Alise & PERCHOC Erwann
-o BELIALH     3  2016.02 ..... ISBN 978-2-84344-143-1
-} belialhl03     _Aur‚lien Police             ?
-- .oS.     r     _VINGE Vernor                Cookie Monster ş2003 The Cookie Monster şTrad. BREQUE Jean-Daniel
-o BELIALH     4  2016.02 ..... ISBN 978-2-84344-142-4
-} belialhl04     _Aur‚lien Police             ?
-+ BELIALH     4  2020.10 ..... ISBN 978-2-84344-142-4
+o BELIAL      ?  2021.01 ..... ISBN 978-2-84344-967-3
+} noimg          _Nicolas Fructus             ?
+!--- GF - 140 x 205 - 320 pages
+- .oS.     R     _ANDERSON Poul               Le Cr‚puscule de la Hanse [La Hanse galactique - 5] ş1977 Mirkheim şTrad. BREQUE Jean-Daniel
+o BELIAL      ?  2021.02 ..... ISBN 978-2-84344-975-8
+} noimg          _Victor Mosquera             ?
+!--- GF - 140 x 205 - 544 pages
+- .oS.     R     _PALMER Ada                  La Volont‚ de se battre [Terra Ignota - 3] ş2017 The Will to Battle şTrad. CHARRIER Michelle
+o BELIALK    15i 2021.03 ..... ISBN 978-2-84344-976-5
+} belialk15      _Manchu                      ?
+!--- GF - 150 x 220 - 480 pages
+- .oS.     N19   _HERBERT Frank               Nouvelles - Tome 1 - 1952-1962 ((Nouvelles de Frank Herbert)) ş2021
+: .o .     p     _DURASTANTI Pierre-Paul      En guise d'avant-propos ş2021
+: .o .     p     _HERBERT Frank               Introduction ş? ? şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Vous cherchez quelque chose ? ş1952 Looking for Something şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Op‚ration Musikron ş1954 Operation Syndrome / Nightmare Blues şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Chiens perdus ş1954 The Gone Dogs şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               La PlanŠte des rats porteurs ş1954 Park Rat Planet şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               La Course du rat ş1955 Rat Race şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Forces d'occupation ş1955 Occupation Force şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Le Rien-du-tout ş1956 The Nothing şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Cessez-le-feu ş1958 Cease Fire şTrad. DURASTANTI Pierre-Paul
+: .oS.     N     _HERBERT Frank               Tracer son sillon [Bureau des sabotages] ş1958 A Matter of Traces şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               La Dr“le de maison sur la colline ş1958 Old Rambling House şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               La Voie de la sagesse ş1958 You Take the High Road şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               ChaŒnon manquant ş1959 Missing Link şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Op‚ration Meule de foin ş1959 Operation Haystack şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Les Prˆtres du psi ş1960 The Priests of Psi şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               L'Oeuf et les cendres ş1960 Egg and Ashes şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               B.E.U.A.R.K. ş1961 A.W.F. Unlimited şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Chant nuptial ş1961 Mating Call şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Essayez de vous souvenir ş1961 Try to Remember şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Champ mental ş1962 Mindfield şTrad. DURASTANTI Pierre-Paul
+o BELIALP     ?  2021.06 ..... ISBN 978-2-84344-983-3
+} noimg          _Philippe Gady               ?
+!--- MF - 130x200 - 216 pages
+- .oS.     R     _HAMILTON Edmond             La Course aux ‚toiles [Capitaine Futur - 6] ş1941 Star Trail to Glory şTrad. DURASTANTI Pierre-Paul
+o BELIPAR     ?  2021.06 ..... ISBN 978-2-84344-984-0
+} noimg          _C‚dric Bucaille             ?
+!--- MF - 130x200 - 256 pages
+- .oS.     E     _RUMPALA Yannick             Cyberpunk's not Dead ş2021
+o BELIALK    16i 2021.08 ..... ISBN 978-2-84344-982-6
+} belialk16      _Manchu                      ?
+!--- GF - 150 x 220 - 480 pages
+- .oS.     N21   _HERBERT Frank               Nouvelles - Tome 2 - 1952-1962 ((Nouvelles de Frank Herbert)) ş2021
+: .o .     p     _DURASTANTI Pierre-Paul      Pr‚sentation ş2021
+: .oS.     N     _HERBERT Frank               La D‚licatesse du saboteur [Bureau des sabotages] ş1964 The Tactful Saboteur şTrad. DURASTANTI Pierre-Paul
+: .oS.     N     _HERBERT Frank               Le Syndrome de la Marie-C‚leste ş1964 The Mary Celeste Move şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Les Esclaves du vert ş1965 Greenslaves şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Le Comit‚ du tout ş1965 Committee of the Whole şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               L'Effet M.G. ş1967 The G.M. Effect şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Les Primitifs ş1966 The Primitives şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               tranger au paradis ş1966 Escape Felicity şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Selon les rŠgles ş1966 By the Book şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Les Marrons du feu ş1967 The Featherbedders şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               La Bombe mentale ş1969 The Mind Bomb / The Being Machine
+: .o .     N     _HERBERT Frank               Semence ş1970 Seed Stock şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Meurtre vital ş1970 Murder Will in şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Passage pour piano ş1973 Passage for Piano şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Martingale ş1973 Gambling Device şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Rencontre dans un coin perdu ş1973 Encounter in a Lonely Place şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Mort d'une ville ş1973 Death of a City şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank              &Allons … la fˆte ş1978 Come to the Party şTrad. DURASTANTI Pierre-Paul
+&                _BUSBY F.M.                  
+: .o .     N     _HERBERT Frank               Chant d'une fl–te sensible ş1979 Songs of a Sentient Flute şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Les Grenouilles et le Savant ş1979 Frogs and Scientists şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Les Cochons … plume ş1979 Feathered Pigs şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _HERBERT Frank               Le Ferrolsk fortuit ş2021 The Accidental Ferosslk şTrad. DURASTANTI Pierre-Paul
+: .o .     b     _SPRAUEL Alain               Bibliographie des oeuvres de Frank Herbert ş2021
+o BELIAL      ?  2021.09 ..... ISBN 978-2-84344-987-1
+} noimg          _Manchu                      _Thomas Walker
+!--- GF - 140x205 - 448 pages
+- .oS.     R     _WATTS Peter                 Vision aveugle [Vision aveugle] ş2006 Blindsight şTrad. GOULLET Gilles
+: .oS.     N     _WATTS Peter                 Les Dieux insectes ş2020 Insect Gods şTrad. GOULLET Gilles
+o BELIAL      ?  2021.10 ..... ISBN 978-2-84344-988-8
+} noimg          _Nicolas Fructus             ?
+!--- GF - 200 pages
+- .oS.     R     _VANCE Jack                  Les MaŒtres des dragons ş1962 The Dragon Masters şTrad. MARIOT Brigitte
+o BELIAL      ?  2021.10 ..... ISBN 978-2-84344-986-4
 } noimg          _Aur‚lien Police             ?
-!--- Poche - 96 pages - 7,90 euros
-- .oS.     r     _McAULEY Paul J.             Le Choix ş2011 The Choice şTrad. GOULLET Gilles
-o BELIALH     5  2016.08 ..... ISBN 978-2-84344-908-6
-} belialhl05     _Aur‚lien Police             ?
-- .oS.     r     _JOHNSON Kij                 Un pont sur la brume ş2011 The Man who Bridged the Mist şTrad. DENIS Sylvie
-o BELIALH     6  2016.08 ..... ISBN 978-2-84344-909-3
-} belialhl06     _Aur‚lien Police             ?
-- .oS.     r     _LIU Ken                     L'Homme qui mit fin … l'Histoire ş2011 The Man who Ended History: A Documentary şTrad. DURASTANTI Pierre-Paul
+!--- GF - 140x205 - 400 pages
+- .oS.     R     _BARET Jean                  Mort<sup>TM</sup> [Trademark - 3] ş2021
+o BELIALK     ?  2021.11 ..... ISBN 978-2-84344-991-8
+} belialk17      _Guillaume Sorel             ?
+!--- GF 
+- .oS.    kR3N5  _BRACKETT Leigh              Le Grand Livre de Mars [Le Livre de Mars - 1/4] ş2008
+: .oS.     p     _MOORCOCK Michael            La Reine des mystŠres ş2002 Queen of the Martian Mysteries
+: .oS.     R     _BRACKETT Leigh              L'p‚e de Rhiannon [Le Livre de Mars - 1] ş1949-1953 The Sea-kings of Mars / The Sword of Rhiannon şTrad. AUDIBERTI A. + DURASTANTI Pierre-Paul et GIRARD Olivier
+: .o .     R     _BRACKETT Leigh              Le Secret de Sinharat [Le Livre de Mars - 2]+[Eric John Stark] ş1964 The Secret of Sinharat şTrad. AUBIGNAN Pascale + DURASTANTI Pierre-Paul et GIRARD Olivier
+!--- Expansion de _Queen of the martian catacombs_ (1949)
+: .oS.    _N5    _BRACKETT Leigh              Les Terriens arrivent [Le Livre de Mars - 4] ş1967 The Coming of the Terrans şTrad. ?
+= .o .     N     _BRACKETT Leigh              1998 Le jardin du Shanga ş1948 The Beast-jewel of Mars
+= .o .     N     _BRACKETT Leigh              2016 La mal‚diction de Bisha ş1954 Mars Minus Bisha
+= .o .     N     _BRACKETT Leigh              2024 Les derniers jours de Shandakor ş1952 The Last Days of Shandakor
+= .o .     N     _BRACKETT Leigh              2031 La prˆtresse pourpre de la lune folle ş1964 Purple Priestess of the Mad Moon
+= .o .     N     _BRACKETT Leigh              2038 La route de Sinharat ş1963 The Road to Sinharat
+: .o .     a     _MOREAU Charles              Leigh Brackett, dame de Mars, V‚nus et autres mondes ş2008
+: .o .     b     _SPRAUEL Alain               Bibliographie des oeuvres de fiction de Leigh Brackett (1915-1978) ş2021
 !------------------------
-!=== 2017
+!=== 2022
 !------------------------
-o BELIALH     7  2017.02 ..... ISBN 978-2-84344-914-7
-} belialhl07     _Aur‚lien Police             ?
-- .oS.     r     _EGAN Greg                   C‚res et Vesta ş2015 The Four Thousand, The Eight Hundred şTrad. PERCHOC Erwann
-o BELIALH     8  2017.04 ..... ISBN 978-2-84344-918-5
-} belialhl08     _Aur‚lien Police             ?
-- .oS.     r     _MACLEOD Ian R.              Poumon vert [Les Dix Mille et Un Mondes] ş2002 Breathmoss şTrad. CHARRIER Michelle
-o BELIALH     9  2017.06 ..... ISBN 978-2-84344-922-2
-} belialhl09     _Aur‚lien Police             ?
-- .oS.     r     _LIU Ken                     Le Regard ş2014 The Regular şTrad. DURASTANTI Pierre-Paul
-o BELIALH    10  2017.08..... ISBN 978-2-84344-924-6
-} belialhl10     _Aur‚lien Police             ?
-- .oS.     r     _ZELAZNY Roger               24 vues du Mont Fuji, par Hokusai ş1985 24 Views of Mt. Fuji, by Hokusai şTrad. QUEYSSI Laurent
-o BELIALH    11  2017.08..... ISBN 978-2-84344-924-6
-} belialhl11     _Aur‚lien Police             ?
-- .oS.     r     _LANDIS Geoffrey A.          Le Sultan des nuages ş2010 The Sultan of the Clouds şTrad. DURASTANTI Pierre-Paul
-!------------------------
-!=== 2018
-!------------------------
-o BELIALH    12  2018.02..... ISBN 978-2-84344-930-7
-} belialhl12     _Aur‚lien Police             ?
-- .o .     r     _KLOETZER Laurent            Issa Elohim ş2018
-o BELIALH    13  2018.04..... ISBN 978-2-84344-933-8
-} belialhl13     _Aur‚lien Police             ?
-- .oF.     r     _LAVALLE Victor              La Ballade de Black Tom ş2016 The Ballad of Black Tom şTrad. DOMIS BenoŒt
-o BELIALH    14  2018.06..... ISBN 978-2-84344-936-9
-} belialhl14     _Aur‚lien Police             ?
-- .oS.     r     _DOZOIS Gardner R.           Le Fini des mers ş1973 Chains of the Sea şTrad. DURASTANTI Pierre-Paul
-o BELIALH    15  2018.08..... ISBN 978-2-84344-937-6
-} belialhl15     _Aur‚lien Police             ?
-- .oS.     r     _SHEPARD Lucius              Les Attracteurs de Rose Street ş2011 Rose Street Attractors şTrad. BREQUE Jean-Daniel
-o BELIALH    16  2018.08..... ISBN 978-2-84344-938-3
-} belialhl16     _Aur‚lien Police             ?
-- .oS.     r     _BAXTER Stephen              Retour sur Titan ş2010 Return to Titan şTrad. BETSCH Eric
-o BELIH18   HS1  2018.09..... ISBN -
-} belialhlhs     _Aur‚lien Police             ?
-- .oS.     r     _LIU Ken                     Sept anniversaires ş2016 Seven Birthdays şTrad. DURASTANTI Pierre-Paul
-!------------------------
-!=== 2019
-!------------------------
-o BELIALH    17  2019.02 ..... ISBN 978-2-84344-944-4
+o BELIAL      ?  2022.02 ..... ISBN 978-2-84344-994-9
+} noimg          _Amir Zand                   ?
+!--- GF - 140 x 205 - 540 pages - 24,90 euros
+- .oS.     R     _PALMER Ada                  L'Alphabet des Cr‚ateurs [Terra Ignota - 4] ş2021 Perhaps the Stars şTrad. CHARRIER Michelle
+o BELIAL      ?  2022.02 ..... ISBN 978-2-84344-995-6
+} noimg          _Manchu                      ?
+!--- GF - 140 x 205 - 304 pages - 14,90 euros
+- .oS.     R     _DI ROLLO Thierry            Le Soleil des Phaulnes ş2022
+o BELIALK    18i 2022.04 ..... ISBN 978-2-38163-041-0
+} belialk18      _Aur‚lien Police             ?
+!--- GF - 150 x 220 - 416 pages
+- .oS.    _N20   _LE GUIN Ursula K.           Les Quatre Vents du d‚sir ş1982 The Compass Rose
+: .o .     p     _MEULEMANS David             Pr‚face ş2022
+: .o .     p     _LE GUIN Ursula K.           Avant-propos ş1982 Preface
+: .C .     C     _LE GUIN Ursula K.           Nadir
+: .o .     N     _LE GUIN Ursula K.           L'Auteur des graines d'acacia ş1974 The Author of the Acacia Seeds and Other Extracts from the Journal of the Association of Therolinguistics
+: .o .     N     _LE GUIN Ursula K.           La Nouvelle Atlantide ş1975 The New Atlantis
+: .o .     N     _LE GUIN Ursula K.           Le Chat de Schr”dinger ş1974 Schr”dinger's Cat
+: .C .     C     _LE GUIN Ursula K.           Nord
+: .o .     N     _LE GUIN Ursula K.           Deux retards sur la ligne du nord [L'Orsinie] ş1979 Two Delays on the Northern Line
+: .o .     N     _LE GUIN Ursula K.           Le Test ş1976 SQ
+: .o .     N     _LE GUIN Ursula K.           Une piŠce d'un sou ş1981 Small Change
+: .C .     C     _LE GUIN Ursula K.           Est
+: .o .     N     _LE GUIN Ursula K.           Premier rapport du naufrag‚ ‚tranger au Kadanh de Derb ş1978 The First Report of the Shipwrecked Foreigner
+: .o .     N     _LE GUIN Ursula K.           Le Journal de la rose [L'Orsinie] ş1976 The Diary of the Rose
+: .o .     N     _LE GUIN Ursula K.           L'ƒne blanc ş1980 The White Donkey
+: .o .     N     _LE GUIN Ursula K.           Le Phoenix ş1982 The Phoenix
+: .C .     C     _LE GUIN Ursula K.           Z‚nith
+: .o .     N     _LE GUIN Ursula K.           Intraphone ş1974 Intracom
+: .o .     N     _LE GUIN Ursula K.           L'Oeil transfigur‚ ş1974 The Eye Altering
+: .o .     N     _LE GUIN Ursula K.           Labyrinthes ş1975 Mazes
+: .o .     N     _LE GUIN Ursula K.           Les Sentiers du d‚sir ş1979 The Pathways of Desire
+: .C .     C     _LE GUIN Ursula K.           Ouest
+: .o .     N     _LE GUIN Ursula K.           La Harpe de Gwilan ş1977 Gwilan's Harp
+: .o .     N     _LE GUIN Ursula K.           Malheur County ş1979 Malheur County
+: .o .     N     _LE GUIN Ursula K.           L'eau est vaste ş1976 The Water Is Wide
+: .C .     C     _LE GUIN Ursula K.           Sud
+: .o .     N     _LE GUIN Ursula K.           Le R‚cit de sa femme ş1982 The Wife's Story
+: .o .     N     _LE GUIN Ursula K.           Quelques approches au problŠme du manque de temps ş1979 Some Approaches to the Problem of the Shortage of Time
+: .o .     N     _LE GUIN Ursula K.           Sur ş1982 Sur
+: .o .     a     _ESCUDIE H‚lŠne              Entretien avec Ursula K. Le Guin ş?
+: .o .     a     _SPRAUEL Alain               Bibliographie ş2022
+o BELIAL      ?  2022.06 ..... ISBN 978-2-38163-049-6
+} noimg          _Nicolas Fructus             ?
+!--- GF - 140 x 205 - 288 pages - 19,90 euros
+- .o .     R     _KLOETZER Laurent            Noon du soleil noir ş2022
+o BELIAL      ?  2022.06 ..... ISBN 978-2-38163-047-2
+} noimg          _Nicolas Fructus             ?
+!--- GF - 140 x 205 - 272 pages - 20,90 euros
+- .oS.     R     _FINNEY Jack                 Body Snatchers - L'Invasion des profanateurs ş1955-1978 Invasion of the Body Snatchers şTrad. LEBRUN Michel
+o BELIAL      ?  2022.08 ..... ISBN 978-2-38163-047-2
 } noimg          _Aur‚lien Police             ?
-- .oS.     r     _LEOURIER Christian          Helstrid ş2019
-o BELIALH    18  2019.04 ..... ISBN 978-2-84344-949-9
-} noimg          _Aur‚lien Police             ?
-- .oST     r     _THOMPSON Tade               Les Meurtres de Molly Southbourne [Molly Southbourne - 1] ş2017 The Murders Of Molly Southbourne şTrad. BREQUE Jean-Daniel
-o BELIALH    19  2019.06 ..... ISBN 978-2-84344-952-9
-} noimg          _Aur‚lien Police             ?
-- .oS.     r     _HEINLEIN Robert             Waldo ş1942 Waldo şTrad. DURASTANTI Pierre-Paul
-o BELIALH    20  2019.09 ..... ISBN 978-2-84344-953-6
-} noimg          _Aur‚lien Police             ?
-- .oS.     r     _HUTCHINSON Dave             Acadie ş2017 Acadie şTrad. PRIOUX Mathieu
-o BELIALH    21  2019.09 ..... ISBN 978-2-84344-954-3
-} noimg          _Aur‚lien Police             ?
-- .oS.     r     _MARUSEK David               L'Enfance attribu‚e ş1995 We Were Out of Our Minds With Joy şTrad. MERCADAL Patrick
-o BELIALH    22  2019.09 ..... ISBN 978-2-84344-955-0
-} noimg          _Aur‚lien Police             ?
-- .oS.     r     _SHEPARD Lucius              Abimagique ş2005 Abimagique şTrad. BREQUE Jean-Daniel
-o BELIH19   HS2  2019.09 ..... ISBN 326-9-00000-105-0
-} belialhlh19    _Aur‚lien Police             Philippe Gady
-- .oS.     N     _MACLEOD Ian R.              Isabel des feuilles mortes [Les Dix Mille et Un Mondes] ş2001 Isabell of the Fall şTrad. CHARRIER Michelle
-!------------------------
-!=== 2020
-!------------------------
-o BELIALH    23  2020.02 ..... ISBN 978-2-84344-960-4
-} noimg          _Aur‚lien Police             ?
-- .oS.     r     _McDONALD Ian                Le temps fut ş2018 Time Was şTrad. GOULLET Gilles
-o BELIALH    24  2020.06 ..... ISBN 978-2-84344-964-2
-} noimg          _Aur‚lien Police             ?
-- .oS.     r     _THOMPSON Tade               La Survie de Molly Southbourne [Molly Southbourne - 2] ş2019 The Survival of Molly Southbourne şTrad. BREQUE Jean-Daniel
-o BELIALH    25  2020.08 ..... ISBN 978-2-84344-966-6
-} noimg          _Aur‚lien Police             ?
-- .o .     r     _KIERNAN Caitlin R.          Les Agents de Dreamland ş2017 Agents of Dreamland şTrad. FAZI M‚lanie
-o BELIALH    26  2020.08 ..... ISBN 978-2-84344-971-0
-} noimg          _Aur‚lien Police             ?
-- .oS.     r     _BENNETT Robert Jackson      Vigilance ş2019 Vigilance şTrad. GOULLET Gilles
-o BELIH20   HS3  2020.09 ..... ISBN 326-9-90000-021-4
-} belialhlh20    _Aur‚lien Police             Philippe Gady
-- .oS.     r     _JOHNSON Kij                 Retour … n'dau ş2000 The Horse Raiders şTrad. HOMASSEL Anne-Sophie
-o BELIALH    27  2020.11 ..... ISBN 978-2-84344-970-3
-} noimg          _Aur‚lien Police             Philippe Gady
-!--- Poche - 9,90 euros
-- .oS.     N     _CAMPBELL John W.            La Chose ş1938 Who Goes There? şTrad. DURASTANTI Pierre-Paul
-
-
-?o BEOR_SF     ?  2000.xx ..... ISBN 2-84344-...-.
-?!--- TBD Parution. Annonc‚ mais non paru ?   ?
-?} noimg          _?                           ?
-?- .o .    iAx    _RUAUD Andr‚-Fran‡ois        Histoires d'anges ş?
-?o BEOR_SF     ?  2000.xx ..... ISBN 2-84344-...-.
-?!--- TBD Parution. Annonc‚ mais non paru ?   ?
-?} noimg          _?                           ?
-?- .o .    iAx    _RUAUD Andr‚-Fran‡ois        Bestiaire fantastique ş?
-?o BEOR_SF     ?  2000.xx ..... ISBN 2-84344-...-.
-?!--- TBD Parution. Annonc‚ mais non paru ?   ?
-?} noimg          _?                           ?
-?- .o .    iAx    _RUAUD Andr‚-Fran‡ois        Le Retour des dinosaures ş?
-?o BEOR_SF     ?  2000.xx ..... ISBN 2-84344-...-.
-?!--- TBD Parution. Annonc‚ mais non paru ?   ?
-?} noimg          _?                           ?
-?- .o .    iAx    _RUAUD Andr‚-Fran‡ois        R‚trofutur ! ş?
+!--- GF - 140 x 205 - 432 pages - 23,90 euros
+- .o .     R     _EGAN Greg                   La Cit‚ des permutants ş1994 Permutation City şTrad. SIGAUD Bernard
+o BELIPAR     ?  2022.09 ..... ISBN 978-2-84344-996-3
+} noimg          _C‚dric Bucaille             ?
+!--- MF - 130x200 - 288 pages - 18,90 euros
+- .oS.     E     _VERCUEIL Laurent            Neuro-science-fiction - Les cerveaux d'ailleurs et de demain ş2022
+o BELIAL      ?  2022.09 ..... ISBN 978-2-38163-059-5
+} noimg          _Pascal Blanch‚              ?
+!--- GF - 140 x 205 - 384 pages - 23,90 euros
+- .o .     R     _LARSON Rich                 Ymir ş2022 Ymir şTrad. DURASTANTI Pierre-Paul
+o BELIAL      ?  2022.10 ..... ISBN 978-2-38163-061-8
+} noimg          _Amir Zand                   ?
+!--- GF - 140 x 205 - 567 pages - 24,90 euros
+- .oS.     R     _PALMER Ada                  Peut-ˆtre les ‚toiles [Terra Ignota - 5] ş2021 Perhaps the Stars şTrad. CHARRIER Michelle
+o BELIPAR     ?  2022.10 ..... ISBN 978-2-38163-063-2
+} belialparall8  _C‚dric Bucaille             C‚dric Bucaille
+!--- MF - 130x200 - 250 pages - 19,90 euros
+- .oS.    kE5    _LEHOUCQ Roland             &La Vie alien - Manuel pour construire un monde extraterrestre ş2022
+&                _STEYER Jean-S‚bastien      &
+&                _GENEFORT Laurent           &
+&                _LEY Willy                  &
+&                _CLEMENT Hal                 
+: .o .     p     _--- (inconnu)               Introduction - Comment planter sa tente sur une exoplanŠte ş2022
+: .o .     E     _LEHOUCQ Roland              CosmosphŠre ş2022
+: .o .     E     _LEHOUCQ Roland              G‚osphŠre ş2022
+: .o .     E     _STEYER Jean-S‚bastien       BiosphŠre ş2022
+: .o .     E     _LEY Willy                   Fa‡onnons un extraterrestre ! ş1956 Let's Build an Extraterrestrial! şTrad. GENEFORT Laurent
+: .o .     E     _CLEMENT Hal                 Cr‚er des ˆtres imaginaires ş1974 The Creation of Imaginary Beings şTrad. GENEFORT Laurent
+: .o .     E     _GENEFORT Laurent            La Fabrique des alien ş2022
+: .o .     o     _--- (inconnu)               Conclusion ş2022
+o BELIALK    19i 2022.11 ..... ISBN 978-2-38163-067-0
+} belial123      _Philippe Druillet           ?
+!--- GF - 150 x 22… - 700 pages
+- .oS.   _kN25   *COMBALLOT Richard          &Les Galaxiales - L'int‚grale [Les Galaxiales] ş1922
+&                _DEMUTH Michel
+: .o .  10 p     _COMBALLOT Richard           Le Jeune Homme et les ‚toiles ş2022
+: .o .  18 p     _LEHMAN Serge                La Classe am‚ricaine ş2022
+: .o .  32 N     _DEMUTH Michel               L't‚ ‚tranger (2020) [Les Galaxiales] ş1965
+: .o .  52 N     _DEMUTH Michel               Les Grands ‚quipages de lumiŠre (2030) [Les Galaxiales] ş1965
+: .o .  82 N     _DEMUTH Michel               Gamma-sud (2060) [Les Galaxiales] ş1965
+: .o . 100 N     _DEMUTH Michel               Mantes - Voyage par les pr‚s et les bois de France (2061) [Les Galaxiales] ş1976
+: .o . 120 N     _DEMUTH Michel               Le Fief du f‚lon (2063) [Les Galaxiales] ş1965
+: .o . 142 N     _DEMUTH Michel               Un rivage bleu (2075) [Les Galaxiales] ş1966
+: .o . 156 N     _DEMUTH Michel               Aphrodite 2080 (2080) [Les Galaxiales] ş1966
+: .o . 180 N     _DEMUTH Michel               Les Tambours d'Australie (2095) [Les Galaxiales] ş1976
+: .o . 228 N     _DEMUTH Michel               Haine-Lune (2114) [Les Galaxiales] ş1976
+: .o . 280 N     _DEMUTH Michel               Relais sur Evidence (2120) [Les Galaxiales] ş1979
+: .o . 306 N     _DEMUTH Michel               Le Bataillon-L‚gende (2130) [Les Galaxiales] ş1979
+: .o . 330 N     _DEMUTH Michel               Castelg‚a (2135) [Les Galaxiales] ş1979
+: .o . 344 N     _DEMUTH Michel               Contact en Nadir (2140) [Les Galaxiales] ş1979
+: .o . 348 N     _DEMUTH Michel               L'Arbre de fureur (2150) [Les Galaxiales] ş1979
+: .o . 360 N     _DEMUTH Michel               La Course de l'oiseau Boum-Boum (2170) [Les Galaxiales] ş1967
+: .o . 394 N     _DEMUTH Michel               L'Œle aux Alices (2180) [Les Galaxiales] ş1979
+: .o . 432 N     _DEMUTH Michel               Elle ‚tait cruelle... (2185) [Les Galaxiales] ş1979
+: .o . 462 N     _DEMUTH Michel              &Chanson pour givrer le temps (2195) [Les Galaxiales] ş2022
+&                _BELLAGAMBA Ugo
+: .o . 474 N     _LEOURIER Christian          Soleil rouge, soleil blanc (2200) [Les Galaxiales] ş2022
+: .o . 492 N     _MARCHIKA Colin              Je te vaporise (2300) [Les Galaxiales] ş2022
+: .o . 506 N     _BERENVAL Olivier           &Aux forˆts de C‚ziandre (2360) [Les Galaxiales] ş2022
+&                _CANAL Richard               
+: .o . 524 N     _WINTREBERT Jo‰lle           Herbe feu (2400 env.) [Les Galaxiales] ş2022
+: .o . 540 N     _LEOURIER Christian          Chasse en Syr‚nie (2450 env.) [Les Galaxiales] ş2022
+: .o . 554 N     _DEMUTH Michel               Les M‚diateurs m'ont envoy‚ (2500 env.) [Les Galaxiales] ş1974
+: .o . 562 N     _WARFA Dominique             Les Hommes-Soeurs d'Hermonville (2500 env.) [Les Galaxiales] ş2022
+: .o . 590 N     _BELLAGAMBA Ugo              S‚n‚myane (2600 env.) [Les Galaxiales] ş2022
+: .o . 594 N     _WARFA Dominique             L'Homme en armes et l'ƒme en peine (2900 env.) [Les Galaxiales] ş2022
+: .o . 608 N     _GIRARDOT Jean-Jacques       Dans les cryptes du Toucan (3000 env.) [Les Galaxiales] ş2022
+: .o . 630 N     _DEMUTH Michel               Yraga‰l ou la fin des temps (vers 3200) [Les Galaxiales] ş1965
+: .o . 646 N     _BARBERI Jacques             Le Sceau de Syo‹se (4000 env.) [Les Galaxiales] ş2022
 

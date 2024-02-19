@@ -1,12 +1,12 @@
 !-----------------------------------------------------------------------------
 _ SYROS   Syros
-_ SYRO_SN Syros, Souris Noire
-_ SYRO_CS Syros, Chauve-souris
-_ SYRO_SO Syros, Soon
-_ SYRO_MS Syros, Mini Syros Soon
-_ SYRO_MP Syros, Mini Syros + Soon
-_ SYRO_TP Syros, Tempo
-_ SYRO_OZ Syros, Oz
+_ SYRO_SN Syros - Souris Noire
+_ SYRO_CS Syros - Chauve-souris
+_ SYRO_SO Syros - Soon
+_ SYRO_MS Syros - Mini Syros Soon
+_ SYRO_MP Syros - Mini Syros + Soon
+_ SYRO_TP Syros - Tempo
+_ SYRO_OZ Syros - Oz
 !-----------------------------------------------------------------------------
 
 o SYRO_SN    37  1999.09 ..... ISBN 2-84146-687-6
@@ -15,7 +15,7 @@ o SYRO_SN    37  1999.09 ..... ISBN 2-84146-687-6
 - .oPF     R     _CHESBRO George              Mongo et les sorciers [Mongo - 3] þ1979 An Affair of Sorcerers þTrad. ESCH Jean
 
 !-----------------------------------------------------------------------------
-!--- Editions Syros (Jeunesse)
+!--- Editions Syros [jeunesse]
 !-----------------------------------------------------------------------------
 o SYROS       ?  2009.09 ..... ISBN 978-2-7485-0852-9
 } noimg          _?                           ?
@@ -42,11 +42,15 @@ o SYROS       ?  2012.03 ..... ISBN 978-2-7485-1179-6
 o SYROS       ?  2012.09 ..... ISBN 978-2-7485-1289-2
 } noimg          _Rapha‰l Gauthey             ?
 - .oS.     R     _GREVET Yves                 Ici-bas [Nox - 1] þ2012
-o SYROS       ?  2012.10 ..... ISBN 978-2-7485-1307-3
+o SYROS       ?  2012.10 ..... ISBN 978-2-7485-1290-8
 } noimg          _?                           ?
-+ SYROS       ?  2018.10 ..... ISBN 978-2-7485-2607-3
+- .oS.    kR3    _GREVET Yves                 M‚to - L'int‚grale [M‚to - 1/3] þ2012
+: .oS.     R     _GREVET Yves                 La Maison [M‚to - 1] þ2008
+: .oS.     R     _GREVET Yves                 L'Œle [M‚to - 2] þ2009
+: .oS.     R     _GREVET Yves                 Le Monde [M‚to - 3] þ2010
+o SYROS       ?  2018.10 ..... ISBN 978-2-7485-2607-3
 } noimg          _Thomas Ehretsmann           ?
-!--- r‚‚dition 2018 "Anniversaire" ave jaquette-poster
+!--- r‚‚dition 2018 "Anniversaire" avec jaquette-poster
 - .oS.    kR3    _GREVET Yves                 M‚to - L'int‚grale [M‚to - 1/3] þ2012
 : .oS.     R     _GREVET Yves                 La Maison [M‚to - 1] þ2008
 : .oS.     R     _GREVET Yves                 L'Œle [M‚to - 2] þ2009
@@ -166,6 +170,63 @@ o SYROS       ?  2019.10 ..... ISBN 978-2-7485-2644-8
 o SYROS       ?  2020.01 ..... ISBN 978-2-7485-2646-2
 } noimg          _?                           ?
 - .oS.     R     _LEROY J‚r“me                La Bataille de la Douceur [Lou, aprŠs tout - 3] þ2020
+!------------------------
+!=== 2021
+!------------------------
+o SYROS       ?  2021.02 ..... ISBN 978-2-7485-2725-4
+} noimg          _?                           ?
+!--- Jeunesse - GF - 152 x 220 - 336 pages
+- .o .     R     _LAMBERT Christophe          Si tu vois le wendigo þ2021
+o SYROS       ?  2021.06 ..... ISBN 978-2-7485-3014-8
+} noimg          _?                           ?
+!--- Jeunesse - GF - 152x220 - 416 pages
+- .oS.     R     _ROZENFELD Carina            TerreS þ2021
+o SYROS       ?  2021.08 ..... ISBN 978-2-7485-3022-3
+} noimg          _?                           ?
+!--- Jeunesse - GF - 155x225 - 336 pages
+- .oS.     R     _GREVET Yves                 Sable bleu þ2021
+o SYROS       ?  2021.10 ..... ISBN 978-2-7485-3035-3
+} syros102021    _?                           ?
+!--- Jeunesse - GF - 154x225 - 1008 pages
+- .oS.     R3    _STRAGIER Nathalie           Une fille du Futur [La Fille du futur - 1/3] þ2021
+: .oS.     R     _STRAGIER Nathalie           Ne ramenez jamais une fille du futur chez vous [La Fille du futur - 1] þ2016
+: .oS.     R     _STRAGIER Nathalie           Ne retournez jamais chez une fille du pass‚ [La Fille du futur - 2] þ2016
+: .oS.     R     _STRAGIER Nathalie           Ne dites jamais jamais [La Fille du futur - 3] þ2017
+!------------------------
+!=== 2022
+!------------------------
+o SYROS       ?  2022.xx ..... ISBN 978-2-7485-3117-6
+} noimg          _?                           ?
+!--- Jeunesse - GF - 154x225 - 885 pages - 27,90 euros
+- .oS.    kR3    _GREVET Yves                 M‚to - L'int‚grale [M‚to - 1/3] þ2012
+: .oS.     R     _GREVET Yves                 La Maison [M‚to - 1] þ2008
+: .oS.     R     _GREVET Yves                 L'Œle [M‚to - 2] þ2009
+: .oS.     R     _GREVET Yves                 Le Monde [M‚to - 3] þ2010
+o SYROS       ?  2022.10 ..... ISBN 978-2-7485-3044-5
+!--- Jeunesse - GF - 16,95 euros
+} noimg          _Thomas Ehretsmann           ?
+- .oS.     R     _GREVET Yves                 Zone noire [M‚to] þ2022
+!------------------------
+!=== 2023
+!------------------------
+o SYROS       ?  2023.05 ..... ISBN 978-2-7485-3702-4
+!--- Jeunesse 12+ - GF - 17,95 euros
+} noimg          _?                           ?
+- .o .     R     _MARAN Ga‰tan B.             Pyramide þ2023
+
+o SYROS       ?  2023.06 ..... ISBN 978-2-7485-3742-0
+!--- Jeunesse 8+ - GF - 16,00 euros - 336 pages
+} Prince gigi    _?                           ?
+- .oS.    kr9    _SIMARD Eric                 Les Humanimaux - L'int‚grale [Les Humanimaux] þ2023
+: .oS.     r     _SIMARD Eric                 L'Enlouve [Les Humanimaux] þ2016
+: .oS.     r     _SIMARD Eric                 L'Enfaon [Les Humanimaux] þ2010
+: .oS.     r     _SIMARD Eric                 L'Engourou [Les Humanimaux] þ2016
+: .oS.     r     _SIMARD Eric                 L'Enperroquet [Les Humanimaux] þ2017
+: .oS.     r     _SIMARD Eric                 L'Enbeille [Les Humanimaux] þ2016
+: .oS.     r     _SIMARD Eric                 L'Encygne [Les Humanimaux] þ2016
+: .oS.     r     _SIMARD Eric                 L'Enserpent [Les Humanimaux] þ2019
+: .oS.     r     _SIMARD Eric                 L'Enbaleine [Les Humanimaux] þ2016
+: .oS.     r     _SIMARD Eric                 L'Enrequin [Les Humanimaux] þ2023
 
 
 !-----------------------------------------------------------------------------
@@ -201,7 +262,7 @@ o SYRO_CS    30  2000.xx ..... ISBN 2-841467-99-6
 !--- Collect‚s par Claude Seignolle et adapt‚es par Marie-Charlotte Delmas
 !--- Edition "Minerve" de mˆme titre contenant 14 petites nouvelles + 1 de 80 pages
 !--- 1998 "Souris Contes fantastiques" et 2000 "Chauve-Souris", le tout Syros Jeunesse
-- .oF.    iA6    *DELMAS Marie-Charlotte     &Histoires sorciŠres de Claude Seignolle þ2000
+- .oF.    iAx    *DELMAS Marie-Charlotte     &Histoires sorciŠres de Claude Seignolle þ2000
 &                _SEIGNOLLE Claude            
 o SYRO_CS    33  2000.10 ..... ISBN 2-841469-85-6
 } noimg          _?                           ?
@@ -290,9 +351,9 @@ o SYRO_SO     ?  2015.06 ..... ISBN 978-2-7485-1673-9
 
 
 o SYROS       ?  2011.10 ..... ISBN 978-2-7485-1177-2
-} noimg          _St‚phanie Hans              ?
+} syrossoon14    _St‚phanie Hans              ?
 + SYRO_SO     ?  2016.10 ..... ISBN 978-2-7485-2146-7
-} noimg          _?                           ?
+} syros102016    _?                           ?
 - .oS.    kAx    ****                         Dix histoires de futurs þ2011
 : .oF.     r     _GRATIAS Claire              Op‚ration "Maurice" þ2010
 : .oS.     r     _SIMARD Eric                 L'Enfaon [Les Humanimaux] þ2010
@@ -392,7 +453,9 @@ o SYRO_MP     ?  2017.05 ..... ISBN 978-2-7485-2395-9
 - .oF.     r     _BRISSOT Camille             Dans la peau de Sam þ2017
 o SYRO_MS     ?  2018.04 ..... ISBN 978-2-7485-2478-9
 } noimg          _Prince Gigi                 ?
-- .o .     r     _LEROY J‚r“me                Les Filles de la pluie þ2013
+!--- 137 pages - 17 cm - 5,50 euros
+!--- TBD si lien avec la nouvelle du mˆme nom dans "DerniŠres nouvelles de l'enfer"
+- .o .     r     _LEROY J‚r“me                Les Filles de la pluie þ2018
 o SYRO_MS     ?  2018.06 ..... ISBN 978-2-7485-2544-1
 } noimg          _Prince Gigi                 ?
 - .oS.     r     _GREVET Yves                 La PlanŠte interdite þ2018

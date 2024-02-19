@@ -2,12 +2,12 @@
 !---                 Les Six Brumes, Canada
 !-----------------------------------------------------------------------------
 _ 6BRUMES Les Six Brumes (Canada)
-_ 6BRU_6B Les Six Brumes (Canada), Coll. Six Brumes
-_ 6BRU_FR Les Six Brumes (Canada), Coll. FrontiŠres
-_ 6BRU_BL Les Six Brumes (Canada), Coll. Brumes de L‚gendes
-_ 6BRU_NO Les Six Brumes (Canada), Coll. Nova
-_ 6BRU_SB Les Six Brumes (Canada), Coll. Sors de ta bulle
-_ 6BRU_LB Les Six Brumes (Canada), Coll. L‚gion des brumes
+_ 6BRU_6B Les Six Brumes (Canada) - Six Brumes
+_ 6BRU_FR Les Six Brumes (Canada) - FrontiŠres
+_ 6BRU_BL Les Six Brumes (Canada) - Brumes de L‚gendes
+_ 6BRU_NO Les Six Brumes (Canada) - Nova
+_ 6BRU_SB Les Six Brumes (Canada) - Sors de ta bulle
+_ 6BRU_LB Les Six Brumes (Canada) - L‚gion des brumes
 !-----------------------------------------------------------------------------
 !--- Les Six Brumes (de la soci‚t‚ secrŠte), maison fond‚e en 2001
 !---  Pour renouveller les genres SF/Fant/Fy au qu‚bec...
@@ -17,12 +17,12 @@ _ 6BRU_LB Les Six Brumes (Canada), Coll. L‚gion des brumes
 
 
 !-----------------------------------------------------------------------------
-! 6BRU_6B Les Six Brumes (Canada), Coll. Six Brumes
+! 6BRU_6B Les Six Brumes (Canada), Six Brumes
 !-----------------------------------------------------------------------------
 o 6BRU_6B   001  2002.xx ..... ISBN 2-9807342-0-9
 } sixbrumes001   _?                           N
-- .oI.    _A13   ****                         L'Aurore þ2002
 !--- Nota : 13 nouvelles dont 1 policiŠre
+- .oI.    _A13   ****                         L'Aurore þ2002
 : .oT.     N     _FALARDEAU Serge             Jack þ2002
 : .oF.     N     _TRUDEAU Maxime              Une brŠche dans la lumiŠre þ2002
 !---- Sign‚ "Marilyn" :
@@ -44,7 +44,6 @@ o 6BRU_6B   003  2002.xx ..... ISBN 2-9807342-2-5
 } sixbrumes003   _?                           ?
 - .oY.     R     _ST-ONGE Simon               Mach Avel þ2002
 !--- 004 MESSIER Claude Les supplici‚s (policier)
-!---  Auteur D‚c‚d‚ le 17/01/04 … 37 ans, de dystonie musculaire
 o 6BRU_6B   005  2004.04 ..... ISBN 2-9807342-4-1
 } sixbrumes005   _?                           N
 - .o .     A20   ****                         Equinoxe þ2004
@@ -85,15 +84,16 @@ o 6BRU_6B   010  2009.xx ..... ISBN 978-2-9809632-7-8
 - .oY.     R     _BELLAVANCE Dominic          Al‚gracia et le dernier assaut [Al‚gracia - 4] þ2009
 o 6BRU_6B   011  2009.xx ..... ISBN 978-2-9809632-6-1
 } sixbrumes011   _?                           N
+!--- Jeunesse 13+ - 190 pages
 !--- TBC ou 2010.07 ?
 - .oF.    kN8    _REYNOLDS Jonathan           Silencieuses þ2009
 : .oF.     p     _BOLDUC Claude               Pr‚face þ2009
-!--- Silence rural, Silent Valley
+: .C .     C     ****                         Silence rural, Silent Valley
 : .oF.     N     _REYNOLDS Jonathan           Deux solitudes þ2009
 : .oF.     N     _REYNOLDS Jonathan           L… o— meurent les rails þ2009
-: .oF.     N     _REYNOLDS Jonathan           En silense þ2009
+: .oF.     N     _REYNOLDS Jonathan           En silence þ2009
 : .oF.     N     _REYNOLDS Jonathan           Scareman þ2009
-!--- Silence urbain, Innstown
+: .C .     C     ****                         Silence urbain, Innstown
 : .oF.     N     _REYNOLDS Jonathan           Oubli‚e þ2009
 : .oF.     N     _REYNOLDS Jonathan           AprŠs les larmes þ2009
 : .oF.     N     _REYNOLDS Jonathan           Eph‚mŠre nø 11 þ2009
@@ -154,6 +154,11 @@ o 6BRU_6B   016  2017.10 ..... ISBN 978-2-923864-56-3
 o 6BRU_6B   017  2019.03 ..... ISBN 978-2-923864-64-8
 } sixbrumes017   _Steve Bolduc                ?
 - .oFQ     R     _RAYMOND Fr‚d‚ric            Pornovores þ2019
+o 6BRU_6B   018  2022.11 ..... ISBN 978-2-923864-99-0
+} sixbrumes018   _Fran‡ois Pierre Bernier     ?
+!--- 15+ - 244 pages - 25 $
+- .oI.    iA13   ****                         Cr‚puscules þ2022
+: .o .     N     _BOLDUC Claude               Regarde-moi þ2006-2022
 
 
 !-----------------------------------------------------------------------------
@@ -165,12 +170,21 @@ o 6BRUMES     ?  2015.10 ..... ISBN 978-2-923864-35-8
 : .oY.     R     _BELLAVANCE Dominic          Al‚gracia et le serpent d'argent [Al‚gracia - 1] þ2005
 : .oY.     R     _BELLAVANCE Dominic          Al‚gracia et les Xayiris [Al‚gracia - 2/3] þ2007
 : .oY.     R     _BELLAVANCE Dominic          Al‚gracia et le dernier assaut [Al‚gracia - 4] þ2009
+o 6BRUMES     ?  2021.03 ..... ISBN 978-2-923864-78-5
+} sixbrumlegb04  _?                           ?
+!--- GF - GF - 292 pages
+- .oS.    kA5    *DUCHARME Alain              Echos du Centaure þ2021
+: .o .  15 N     _DAGENAIS Luc                La D‚ferlante des mŠres þ2018
+: .o .  39 N     _SERNINE Daniel              Les passerelles du Temps þ2021
+: .o .  81 N     _PETTIGREW Jean              Biographie sommaire d'un ‚metteur-r‚cepteur þ1988
+: .o . 117 r     _VONARBURG Elisabeth         Une histoire d'IkuatŠn þ2021
+: .o . 257 N     _MORIN Hugues                Nina þ2021
 
 !-----------------------------------------------------------------------------
-! 6BRU_BL Les Six Brumes (Canada), Coll. Brumes de L‚gendes
+! 6BRU_BL Les Six Brumes (Canada), Brumes de L‚gendes
 !-----------------------------------------------------------------------------
 o 6BRU_BL     1i 2014.09 ..... ISBN 978-2-923864-26-6
-}6brumes092014   _?                           N
+} 6brumes092014  _?                           N
 - .oF.    cN8    _SERNINE Daniel              Petits d‚mons þ2014
 : .o .     N     _SERNINE Daniel              Rumeurs [Cycle de Neubourg et Granverger] þ1997
 : .oF.     N     _SERNINE Daniel              Ses dents þ1983
@@ -181,7 +195,7 @@ o 6BRU_BL     1i 2014.09 ..... ISBN 978-2-923864-26-6
 : .o .     N     _SERNINE Daniel              La Fresque aux trois d‚mons [Cycle de Neubourg et Granverger] þ1978
 : .o .     N     _SERNINE Daniel              L'Envol des gargouilles þ1996
 o 6BRU_BL     2i 2014.xx ..... ISBN 978-2-923864-27-3
-}6brumes102014-2 _LEGER Emilie                N
+} 6brumes102014-2 _LEGER Emilie                N
 - .oSF     A20   ****                         Dix ans d'‚ternit‚ þ2014
 : .o .     N     _TRUDEL Jean-Louis           Les Terrasses de Brera þ2009
 : .o .     N     _DUCHARME Alain              Kamouraska perdu þ2013
@@ -260,9 +274,73 @@ o 6BRU_BL     9i 2020.03 ..... ISBN 978-2-923864-72-3
 : .o .     N     _BLOUIN GeneviŠve            D‚monoth‚rapie þ2017
 : .o .     N     _BLOUIN GeneviŠve            Sentence incarn‚e þ2014
 : .o .     N     _BLOUIN GeneviŠve            Le D‚shonneur de Meiyo Jisatsu þ2019
+o 6BRU_BL    10i 2022.11 ..... ISBN 978-2-923864-87-7
+} sixbrumbrumleg10 _?                           ?
+!--- 14+ - GF - 328 pages - 30 $
+- .oS.     N11   _SERNINE Daniel              Les ‚chos du temps þ2022
+: .oS.     N     _SERNINE Daniel              Yadjine et la mort þ1985
+: .oS.     N     _SERNINE Daniel              Le Vieil Homme et l'espace þ1981
+: .oS.     N     _SERNINE Daniel              Exode 5 þ1977
+: .oS.     N     _SERNINE Daniel              Exode 4 þ1980
+: .oS.     N     _SERNINE Daniel              Loin des vertes prairies þ1982
+: .o .     N     _SERNINE Daniel              Fin de rŠgne þ1979
+: .o .     N     _SERNINE Daniel              Les Voyages imaginaires þ1985
+: .o .     N     _SERNINE Daniel              Aux ‚toiles un message þ1986
+: .o .     N     _SERNINE Daniel              Monsieur Olier devient ministre þ1986-1988
+: .o .     N     _SERNINE Daniel              Isaac & Simov þ2012
+: .o .     N     _SERNINE Daniel              M‚tal qui songe þ1989
+o 6BRU_BL    11i 2022.11 ..... ISBN 978-2-923864-90-7
+} sixbrumbrumleg11 _?                           ?
+!--- 13+ - GF - 594 pages - 50 $
+- .oF.     RN27  _REYNOLDS Jonathan           Cendres d'Innstown þ2022
+: .oF.     a     _REYNOLDS Jonathan           Cendres de quoi ? þ2022
+: .oF.     R     _REYNOLDS Jonathan           Ombres þ2002
+: .oF.     R     _REYNOLDS Jonathan           Nocturne þ2005
+: .oF.     N     _REYNOLDS Jonathan           Parfum de vengeance þ2002
+: .oF.     N     _REYNOLDS Jonathan           Blondes. Rousses. Noires. þ2004
+: .oF.     N     _REYNOLDS Jonathan           L'Autre Surface þ2004
+: .o .     N     _REYNOLDS Jonathan           Huit comme le temps qui file... þ2005
+: .o .     N     _REYNOLDS Jonathan           Cornes en moins þ2005
+: .o .     N     _REYNOLDS Jonathan           Cette porte þ2006
+: .o .     N     _REYNOLDS Jonathan           Abttr þ2006
+: .o .     N     _REYNOLDS Jonathan           D‚conte þ2006
+: .o .     N     _REYNOLDS Jonathan           Fragments þ2006
+: .o .     N     _REYNOLDS Jonathan           Saison de lilas þ2007
+: .o .     N     _REYNOLDS Jonathan           Elle sous la pluie þ2007
+: .o .     N     _REYNOLDS Jonathan           L…-bas þ2007
+: .o .     N     _REYNOLDS Jonathan           L'Horreur de la rue Hanson þ2008
+: .o .     N     _REYNOLDS Jonathan           Programme double þ2008
+: .o .     N     _REYNOLDS Jonathan           Pointures þ2009
+: .o .     N     _REYNOLDS Jonathan           Epitaphe þ2008
+: .o .     N     _REYNOLDS Jonathan           Deux solitudes þ2009
+: .o .     N     _REYNOLDS Jonathan           L… o— meurent les rails þ2009
+: .o .     N     _REYNOLDS Jonathan           En silence þ2009
+: .o .     N     _REYNOLDS Jonathan           Scareman þ2009
+: .o .     N     _REYNOLDS Jonathan           Oubli‚e þ2009
+: .o .     N     _REYNOLDS Jonathan           AprŠs les larmes þ2009
+: .o .     N     _REYNOLDS Jonathan           Eph‚mŠre nø 11 þ2009
+: .o .     N     _REYNOLDS Jonathan           13, chemin de l'‚glise þ2009
+: .o .     N     _REYNOLDS Jonathan           La Mal‚diction de McNeil þ2008
+!--- Bonus
+: .o .     a     _HOULE Guillaume             Cendres d'Innstown þ2022
+: .o .     a     _BONIN Pierre-Alexandre      La g‚ographie imaginaire dans l'ouvre de Jonathan Reynolds þ2022
+: .oF.     N     _REYNOLDS Jonathan           Ombres (r‚‚criture du chapitre 1) þ2012
+: .oF.     N     _REYNOLDS Jonathan           Ombres (premiŠres pages) þ1998
+: .oF.     N     _REYNOLDS Jonathan           Nocturne (premiŠres pages) þ1998
+: .o .     a     _REYNOLDS Jonathan           A propos de Silencieuses þ1998
+: .o .     N     _REYNOLDS Jonathan           L'Horreur de la rue Hanson (version originale) þ1996
+: .o .     N     _REYNOLDS Jonathan           Le Placard (version originale de "Deux solitudes") þ1996
+: .o .     N     _REYNOLDS Jonathan           13, Church Street (version originale) þ1996
+: .o .     N     _REYNOLDS Jonathan           Un petit tour de passe-passe þ1998
+: .o .     N     _FORTIN Mathieu              Beaut‚ fatale þ2007
+: .o .     N     _LAFRANCE Pierre-Luc        &Retour … Innstown þ2022
+&                _REYNOLDS Jonathan           
+
+
+
 
 !-----------------------------------------------------------------------------
-! 6BRU_NO Les six brumes, Coll. Nova (Canada)
+! 6BRU_NO Les six brumes, Nova (Canada)
 !-----------------------------------------------------------------------------
 o 6BRU_NO     1i 2007.xx ..... ISBN 978-2-9809632-0-9
 } brumnova01     _?                           ?
@@ -297,30 +375,31 @@ o 6BRU_NO    11i 2014.02 ..... ISBN 978-2-923864-16-7
 - .oF.     r     _REYNOLDS Jonathan           La L‚gende de McNeil þ2008-2014
 
 !-----------------------------------------------------------------------------
-! 6BRU_FR Les Six Brumes (Canada), Coll. FrontiŠres
+! 6BRU_FR Les Six Brumes (Canada), FrontiŠres
 !-----------------------------------------------------------------------------
 o 6BRU_FR     1i 2007.06 ..... ISBN 978-2-9809632-1-6
-} brumfront01    _?                           ?
-- .oF.    iAx    ****                         R‚sonances þ2004
-! .o .     N     _BOISVERT Yves                 L'Avenir
-! .o .     N     _BOURGEOIS-PELLETIER Carmelle  ?
-! .o .     N     _BRUNEAU Francis               ?
-! .o .  28 N     _COTE R‚jean                   Les Devanciers de Wickham
-! .o .     N     _DESFOSSES Fran‡ois            ?
-! .o .     N     _GINGRAS Lorraine              ?
-! .o .     N     _GOULET Richard                ?
-! .o .     N     _HEBERT Claude                 ?
-! .o .     N     _LANDRY Maurice                ?
-! .o .     N     _L'abb‚ Germain LANGELIER      ?
-! .o .     N     _LEBEL Solange                 ?
-! .o .     N     _LECLAIR Val‚rie               ?
-! .o .     N     _LECLERC Luc                   ?
-! .o .     N     _LIZOTTE Denise                ?
-! .o .     N     _ROBERGE Nicole                ?
-! .o .     N     _ROY M‚lodie                   ?
-! .o .     N     _SAINT-GERMAIN Gino            ?
-! .o .     N     _SAINT-GERMAIN Nathalie        ?
-! .o .     N     _SENECAL Patrick               Drummondville 
+} brumfront01    _Francis Bruneau             ?
+!--- Jeunesse 13+ - 18 cm - 256 pages
+- .pF.    iA19   ****                         R‚sonances þ2007
+: .oF.  11 N     _SENECAL Patrick             Drummondville þ2007
+: .oS.  23 N     _HEBERT Claude               L'Invasion de Drummond þ2007
+! .o .     N     _GOULET Richard              Charles cherche son chien þ2007
+! .o .     N     _BOISVERT Yves               L'Avenir þ2007
+! .o .     N     _ROBERGE Nicole              Sa marche vers des roses þ2007
+! .o .  81 N     _BOURGEOIS-PELLETIER Carmelle La Dame de Bon Conseil þ2007
+! .o .     N     _L'abb‚ Germain LANGELIER    Le Rˆve d'Antoine Lambert þ2007
+! .o .     N     _LIZOTTE Denise              Instant de rˆverie … Saint-Bonaventure þ2007
+! .o .     N     _LECLAIR Val‚rie             Les Soeurs þ2007
+: .oF. 125 N     _ST-GERMAIN Gino             De pŠre en fils þ2007
+! .o .     N     _LANDRY Maurice              Le Secret þ2007
+! .o .     N     _LEBEL Solange               Le Banc d'‚glise þ2007
+! .o .     N     _BRUNEAU Francis             Dans le ventre de l'orme þ2007
+! .o .     N     _SAINT-GERMAIN Nathalie      Grand Rang des Sorels þ2007
+! .o .     N     _LECLERC Luc                 A l'‚cart þ2007
+! .o .     N     _GINGRAS Lorraine            La D‚esse des bois þ2007
+: .oF. 197 N     _ROY M‚lodie                 Le Rˆve þ2007
+! .o .     N     _DESFOSSES Fran‡ois          Li‚s … Sainte-Brigitte þ2007
+! .o .     N     _COTE R‚jean                 Les Devanciers de Wickham þ2007
 o 6BRU_FR     2i 2012.xx ..... ISBN 978-2-923864-08-2
 } brumfront02    _Gabrielle Leblanc           Gabrielle Leblanc
 - .oF.     N17   _FORTIN Mathieu              Enracin‚ þ2012
@@ -353,23 +432,38 @@ o 6BRU_FR     3i 2016.08 ..... ISBN 978-2-923864-45-7
 : .o .     N     _DURAND Fr‚d‚rick            Le Saloon des deux crƒnes þ2016
 o 6BRU_FR     4i 2019.10 ..... ISBN 978-2-923864-70-9
 } brumfront04    _?                           ?
-- .oS.     C7    *LAPORTE Marie               A l'est de l'apocalypse þ2019
+!--- 16+ - 127x203 mm - 178 pages
+- .oS.    kC7    *LAPORTE Marie               A l'est de l'apocalypse þ2019
+: .o .     N     _DROUIN V‚ronique            Par‚idolie þ2019
 : .o .     N     _GAUTHIER Eric               Fragment 1 þ2019
-: .o .     N     _GAUTHIER Eric               Fragment 2 þ2019
-: .o .     N     _GAUTHIER Eric               Fragment 3 þ2019
 : .o .     N     _GAUTHIER Eric               Le Livre de trop þ2019
-: .o .     N     _LAPORTE Marie               R‚veillon þ2019
+: .o .     N     _GAUTHIER Eric               Fragment 2 þ2019
+: .o .     N     _ROCHELEAU Carl              La Cage þ2019
+: .o .     N     _GAUTHIER Eric               Fragment 3 þ2019
 : .o .     N     _TREMBLAY Elisabeth          Gloria þ2019
-: .o .     N     _BACHAND Pierre-Alexandre    La Chiromancienne þ2019
 : .o .     N     _ADAM Rapha‰lle B.           Fragment 4 þ2019
 : .o .     N     _ADAM Rapha‰lle B.           Acousmatique þ2019
-: .o .     N     _DROUIN V‚ronique            Par‚idolie þ2019
 : .o .     N     _ROCHELEAU Carl              Fragment 5 þ2019
+: .o .     N     _BACHAND Pierre-Alexandre    La Chiromancienne þ2019
 : .o .     N     _ROCHELEAU Carl              Fragment 6 þ2019
-: .o .     N     _ROCHELEAU Carl              La Cage þ2019
+: .o .     N     _LAPORTE Marie               R‚veillon þ2019
+o 6BRU_FR     5i 2022.10 ..... ISBN 978-2-923864-93-8
+} sixbrumfront05 _?                           ?
+!--- 16+ - 127x203 mm - 178 pages
+- .oS.    kA7    *VILLENEUVE Mathieu          Apocalypse Nord þ2022
+: .o .     N     _PIETTE Isabelle             Second d‚part þ2022
+: .o .     N     _COTE Dave                   Pourquoi qu'astheure on s'baigne dans l'Lac dans nuite du jour de l'an þ2022
+: .o .     N     _BERNARD Marie-Christine     Une perdrix dans les feuillages þ2022
+: .o .     N     _VILLENEUVE Mathieu          Nitassinan þ2022
+: .o .     N     _GAGNON S‚bastien            L'Osto de scie þ2022
+: .o .     N     _VONARBURG Elisabeth         Into White þ2022
+: .o .     N     _MARCOUX-CHABOT Gabriel      L'Odeur du caribou et le go–t du sang frais þ2022
+
 
 !-----------------------------------------------------------------------------
-! 6BRU_SB Les Six Brumes (Canada), Coll. Sors de ta bulle
+! 6BRU_SB Les Six Brumes (Canada), Sors de ta bulle
+!-----------------------------------------------------------------------------
+!--- Dans le cadre du concours Sors de ta bulle!, le jury s‚lectionne le meilleur manuscrit propos‚, peu importe le genre litt‚raire.
 !-----------------------------------------------------------------------------
 o 6BRU_SB    10i 2015.xx ..... ISBN 978-2-923864-30-3
 } brumstdb10     _?                           ?
@@ -378,11 +472,15 @@ o 6BRU_SB    10i 2015.xx ..... ISBN 978-2-923864-30-3
 o 6BRU_SB    11i 2016.05 ..... ISBN 978-2-923864-42-6
 } brumstdb10     _?                           ?
 - .oF.     R     _CHICOINE Laetitia           Entre deux mondes þ2016
+o 6BRU_SB    16i 2022.06 ..... ISBN 978-2-923864-96-9
+} brumstdb10     _?                           ?
+!--- Jeunesse 10+ - 127 x 232 mm - 202 pages - 10 $
+- .oF.     R     _LE GLAUNEC Hannah           L'‚cho des mondes þ2022
 
 !-----------------------------------------------------------------------------
-! 6BRU_LB Les Six Brumes (Canada), Coll. L‚gion des brumes
+! 6BRU_LB Les Six Brumes (Canada), L‚gion des brumes
 !-----------------------------------------------------------------------------
-o 6BRU_SB    02i 2018.04 ..... ISBN 978-2-923864-52-5
+o 6BRU_LB    02i 2018.04 ..... ISBN 978-2-923864-52-5
 } brumlegb02     _Emilie L‚ger                ?
 - .oTI    kA15   *BONIN Pierre-Alexandre      Horrificorama þ2018
 : .oT.     N     _VERDIER Vic                 Lac au Sable þ2018
@@ -400,10 +498,11 @@ o 6BRU_SB    02i 2018.04 ..... ISBN 978-2-923864-52-5
 : .o .     N     _BOUTHILLIER Anne-Marie      Escalier vers l'enfer þ2018
 : .o .     N     _LAFRANCE Pierre-Luc         Comme le go–t d'un souvenir qui meurt sur la langue þ2018
 : .o .     N     _RAYMOND Fr‚d‚ric            Les Tubercules de l'horreur þ2018
-o 6BRU_SB    02i 2018.04 ..... ISBN 978-2-923864-54-9
+o 6BRU_LB    02i 2018.04 ..... ISBN 978-2-923864-54-9
 } brumlegb03     _?                           ?
 - .oI.     G     _BLOUIN GeneviŠve           &Ecrire et publier au Qu‚bec - Les litt‚ratures de l'imaginaire þ2018
 &                _LAUZON Isabelle            &
 &                _ROCHELEAU Carl              
 
 
+: .o .     N     _BOLDUC Claude               Regarde-moi þ2006

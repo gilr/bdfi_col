@@ -1,6 +1,6 @@
 !-----------------------------------------------------------------------------
 _ GLIVM   Le Grand Livre du Mois
-_ GLIVM_T Le Grand Livre du Mois, Coll. Les tr‚sors de la litt‚rature
+_ GLIVM_T Le Grand Livre du Mois - Les tr‚sors de la litt‚rature
 !-----------------------------------------------------------------------------
 
 o GLIVM       ?  1979.xx ..... ISBN -
@@ -37,22 +37,24 @@ o GLIVM       ?  1986.xx ..... ISBN .-.....-...-.
 o GLIVM       ?  1986.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oY.     R     _BRADLEY Marion Zimmer       Les Dames du lac [Les Dames du lac - 1.1] ş1983 The Mists of Avalon şTrad. CHABROL Brigitte
-o GLIVM       ?  1986.xx ..... ISBN 2-286-.....-.
+o GLIVM       ?  1986.xx ..... ISBN -
 } glm1986_02     _?                           N  
-- .oFT    kr4    _KING Stephen                Diff‚rentes saisons ş1982 Different Seasons şTrad. ALIEN Pierre
-!--- Postface : KING Stephen
-: .o .     r     _KING Stephen                Rita Hayworth et la r‚demption de Shawshank ş1982 Rita Hayworth and Shawshank Redemption
-: .o .     r     _KING Stephen                Un ‚lŠve dou‚ ş1982 Apt Pupil
-: .x .     r     _KING Stephen                Le Corps ş1982 The Body
-: .o .     r     _KING Stephen                La M‚thode respiratoire ş1982 The Breathing Method
-o GLIVM       ?  1995.xx ..... ISBN 2-286-.....-.
+- .pF.    kr4    _KING Stephen                Diff‚rentes saisons ş1982 Different Seasons şTrad. ALIEN Pierre
+: .x .     r     _KING Stephen                Rita Hayworth et la r‚demption de Shawshank ş1982 Rita Hayworth and Shawshank Redemption şTrad. ALIEN Pierre
+: .x .     R     _KING Stephen                Un ‚lŠve dou‚ ş1982 Apt Pupil şTrad. ALIEN Pierre
+!--- Devint … l'‚cran "Stand be my" :
+: .x .     R     _KING Stephen                Le Corps ş1982 The Body şTrad. ALIEN Pierre
+: .o .     r     _KING Stephen                La M‚thode respiratoire ş1982 The Breathing Method şTrad. ALIEN Pierre
+: .o .     o     _KING Stephen                Postface ş1986 Afterword şTrad. ALIEN Pierre
+o GLIVM       ?  1995.xx ..... ISBN -
 } glm1995_07     _?                           N  
-- .oFT    kr4    _KING Stephen                Les ‚vad‚s - Diff‚rentes saisons ((Diff‚rentes saisons)) ş1982 Different Seasons şTrad. ALIEN Pierre
-!--- Postface : KING Stephen
-: .o .     r     _KING Stephen                Rita Hayworth et la r‚demption de Shawshank ş1982 Rita Hayworth and Shawshank Redemption
-: .o .     r     _KING Stephen                Un ‚lŠve dou‚ ş1982 Apt Pupil
-: .x .     r     _KING Stephen                Le Corps ş1982 The Body
-: .o .     r     _KING Stephen                La M‚thode respiratoire ş1982 The Breathing Method
+- .pF.    kr4    _KING Stephen                Les ‚vad‚s - Diff‚rentes saisons ((Diff‚rentes saisons)) ş1982 Different Seasons şTrad. ALIEN Pierre
+: .x .     r     _KING Stephen                Rita Hayworth et la r‚demption de Shawshank ş1982 Rita Hayworth and Shawshank Redemption şTrad. ALIEN Pierre
+: .x .     R     _KING Stephen                Un ‚lŠve dou‚ ş1982 Apt Pupil şTrad. ALIEN Pierre
+!--- Devint … l'‚cran "Stand be my" :
+: .x .     R     _KING Stephen                Le Corps ş1982 The Body şTrad. ALIEN Pierre
+: .o .     r     _KING Stephen                La M‚thode respiratoire ş1982 The Breathing Method şTrad. ALIEN Pierre
+: .o .     o     _KING Stephen                Postface ş1986 Afterword şTrad. ALIEN Pierre
 o GLIVM       ?  1986.xx ..... ISBN 2-286-.....-.
 } noimg          _?                           ?
 - .o .     R     _LENTERIC Bernard            Substance B ş1986
@@ -81,7 +83,7 @@ o GLIVM       ?  1987.xx ..... ISBN 2-286-.....-.
 : .o .     N     _KING Stephen                La R‚volte de Ca‹n ş1968 Cain Rose Up
 : .o .     N     _KING Stephen                Le Raccourci de Mme Todd ş1984 Mrs. Todd Shortcuts
 : .o .     N     _KING Stephen                L'Excursion ş1981 The Jaunt
-: .o .     N     _KING Stephen                Le Gala de noce ş1980 The Wedding Gig
+: .x .     N     _KING Stephen                Le Gala de noce ş1980 The Wedding Gig
 : .o .     N     _KING Stephen                Parano‹a : une m‚lop‚e ş1985 Paranoid: A Chant
 : .o .     N     _KING Stephen                Le Radeau ş1982 The Raft
 : .o .     N     _KING Stephen                Machine divine … traitement de texte ş1983 Word Processor of the Gods
@@ -142,9 +144,15 @@ o GLIVM       ?  1996.xx ..... ISBN 2-286..-...-.
 } noimg          _?                           ?
 - .oS.     R     _ASIMOV Isaac                La Fin de l'‚ternit‚ ş1955 The End of Eternity şTrad. LIGNY Michel & CARME Claude
 o GLIVM       ?  1990.xx ..... ISBN ?
-} noimg          _?                           ?
+} gldmvv1990     _?                           ?
 !--- Fix-Up de Asylum, Research Alpha et The Proxy Intelligence, modifi‚s & red‚coup‚s + prologue et dernier chapitre
 - .oS.     U     _VAN VOGT Alfred E.          Invasion galactique ş1977 Supermind şTrad. WATKINS France-Marie
+o GLIVM       ?  1990.xx ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _SILVERBERG Robert           A la fin de l'hiver [Cycle du peuple - 1] ş1988 At Winter's End şTrad. BERTHON Patrick
+o GLIVM       ?  1990.xx ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _SILVERBERG Robert           La Reine du printemps [Cycle du peuple - 2] ş1989 The New Springtime şTrad. BERTHON Patrick
 !------------------------
 !=== 1991
 !------------------------
@@ -163,7 +171,7 @@ o GLIVM       ?  1991.xx ..... ISBN 2-286-03772-8
 - .o .     R     _KING Stephen                La Part des t‚nŠbres ş1989 The Dark Half şTrad. DESMOND William Olivier
 o GLIVM       ?  1991.xx ..... ISBN 2-286-.-...-.
 } glm1991_03     _?                           ?
-- .o .     R     _KING Stephen                Le Fl‚au ş1990 The Stand, Complete and Uncut Edition şTrad. QUIJANO Pierre
+- .o .     R     _KING Stephen                Le Fl‚au ş1978-1990 The Stand, Complete and Uncut Edition şTrad. QUIJANO Pierre
 o GLIVM       ?  1991.xx ..... ISBN 2-286-48348-5
 } glm1991_07     _?                           ?
 - .oF.    _A13   *WINTER Douglas E.           13 histoires diaboliques ş1988 Prime Evil şTrad. BREQUE Jean-Daniel
@@ -174,7 +182,7 @@ o GLIVM       ?  1991.xx ..... ISBN 2-286-48348-5
 : .oF.     N     _TESSIER Thomas              Provende ş1988 Food
 : .oF.     N     _HARRISON M. John            Le Grand Dieu Pan ş1988 The Great God Pan
 : .oF.     N     _MORRELL David               Orange pour l'angoisse, bleu pour la folie ş1988 Orange Is for Anguish, Blue for Insanity
-: .oF.     N     _STRAUB Peter                Le Gen‚vrier ş1988 The Juniper Tree
+: .oF.     N     _STRAUB Peter                Le Gen‚vrier [Blue Rose] ş1988 The Juniper Tree
 : .oF.     N     _GRANT Charles L.            Contes et l‚gendes des morts ş1988 Spinning Tales With the Dead
 : .oF.     N     _LIGOTTI Thomas              La DerniŠre Aventure d'Alice ş1988 Alice's Last Adventure
 : .oF.     N     _CAMPBELL J. Ramsey          La prochaine fois, vous me reconnaŒtrez ş1988 Next Time You'll Know Me
@@ -201,6 +209,30 @@ o GLIVM       ?  1991.xx ..... ISBN 2-286-.-...-.
 o GLIVM       ?  1991.xx ..... ISBN 2-286-.-...-.
 } noimg          _?                           ?
 - .oSF     R     _MATHESON Richard            Je suis une l‚gende ş1954 I Am Legend şTrad. ELSEN Claude
+o GLIVM       ?  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- GF - 25 cm - 638 pages - 150 francs
+- .o .     R     _BARKER Clive                Secret Show ş1989 The Great and Secret Show şTrad. BREQUE Jean-Daniel
+o GLIVM       ?  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oTF    kN6    _BARKER Clive                Livre de sang [Livres de sang - 1] ş1984 Book of Blood
+: .o .     N     _BARKER Clive                Le Livre de sang ş1984 The Book of Blood
+: .o .     N     _BARKER Clive                Le Train de l'abattoir ş1984 The Midnight Meat Train
+: .o .     N     _BARKER Clive                Jack et le Cacophone ş1984 The Yattering and Jack
+: .o .     N     _BARKER Clive                La Truie ş1984 Pig Blood Blues
+: .o .     N     _BARKER Clive                Les Feux de la rampe ş1984 Sex, Death and Starshine
+: .o .     N     _BARKER Clive                Dans les collines, les cit‚s ş1984 In the Hills, the Cities
+o GLIVM       ?  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oTF    kN4    _BARKER Clive                Prison de chair [Livres de sang - 5] ş1985 Books of Blood V
+!--- titre US : In the flesh
+: .o .     N     _BARKER Clive                Lieux interdits ş1985 The Forbidden
+: .o .     N     _BARKER Clive                La Madone ş1985 The Madonna
+: .o .     N     _BARKER Clive                Les Enfants de Babel ş1985 Babel's Children
+: .o .     r     _BARKER Clive                Prison de chair ş1985 In the Flesh
+o GLIVM       ?  1991.xx ..... ISBN ?
+} noimg          _?                           ?
+- .oF.     R     _KOONTZ Dean R.              Midnight ş1989 Midnight şTrad. DESMOND William Olivier
 !------------------------
 !=== 1992
 !------------------------
@@ -223,12 +255,9 @@ o GLIVM       ?  1992.xx ..... ISBN 2-286-.-...-.
 o GLIVM       ?  1992.xx ..... ISBN ?
 } noimg          _?                           ?
 - .o .     R     _CRICHTON Michael            Le Parc jurassique [Jurassic Park - 1] ş1990 Jurassic Park şTrad. BERTHON Patrick
-o GLIVM       ?  1993.xx ..... ISBN ?
+o GLIVM       ?  1992.xx ..... ISBN ?
 } noimg          _?                           ?
-- .o .     R     _CRICHTON Michael            Jurassic Park [Jurassic Park - 1] ş1990 Jurassic Park şTrad. BERTHON Patrick
-o GLIVM       ?  1993.xx ..... ISBN ?
-} noimg          _?                           ?
-- .o .     R     _KLAVAN Andrew               Il y aura toujours quelqu'un derriŠre vous ş1991 Don't Say a World şTrad. FERRY Bernard
+- .o .     R     _KOONTZ Dean R.              La Maison interdite ş1990 The Bad Place şTrad. BREQUE Jean-Daniel
 !------------------------
 !=== 1993
 !------------------------
@@ -250,7 +279,7 @@ o GLIVM       ?  1993.xx ..... ISBN 2-286-04332-9
 : .oT.     N     _McGRATH Patrick             Cleave le vampire ş1991 Cleave the Vampire or a Gothic Pastorale şTrad. BREQUE Jean-Daniel
 : .oT.     N     _AICKMAN Robert              Les ‚p‚es ş1969 The Swords şTrad. BREQUE Jean-Daniel
 : .oT.     N     _BANKS Carolyn               La Salon satin ş1991 Salon Satin şTrad. BREQUE Jean-Daniel
-: .oT.     N     _HICHENS Robert S.           Comment l'amour s'imposa au professeur Guildea ş1900 How Love Came to Professor Guildea şTrad. RAS Jos
+: .oT.     r     _HICHENS Robert S.           Comment l'amour s'imposa au professeur Guildea ş1900 How Love Came to Professor Guildea şTrad. RAS Jos
 : .oT.     N     _ZINNES Harriet              Les Ailes ş1988 Wings şTrad. BREQUE Jean-Daniel
 : .oT.     N     _GILCHRIST R. Murray         Le Basilic ş1894 The Basilic şTrad. BREQUE Jean-Daniel
 : .oT.     N     _CARROLL Jonathan            Le Jeu de l'autre ş1989 A Quarter Past You şTrad. BREQUE Jean-Daniel
@@ -272,9 +301,24 @@ o GLIVM       ?  1993.xx ..... ISBN ?
 o GLIVM       ?  1993.xx ..... ISBN ?
 } noimg          _?                           ?
 - .o .     R     _BENCHLEY Peter              La Bˆte ş1991 The Beast şTrad. MORRIS-DUMOULIN Gilles
+o GLIVM       ?  1993.xx ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _SIMMONS Dan                 Nuit d'‚t‚ ş1991 Summer of Night
+o GLIVM       ?  1993.xx ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _CRICHTON Michael            Jurassic Park [Jurassic Park - 1] ş1990 Jurassic Park şTrad. BERTHON Patrick
+o GLIVM       ?  1993.xx ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _KLAVAN Andrew               Il y aura toujours quelqu'un derriŠre vous ş1991 Don't Say a World şTrad. FERRY Bernard
+o GLIVM       ?  1993.xx ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _KOONTZ Dean R.              FiŠvre de glace ş1991 Cold Fire şTrad. PAGEL Michel
 !------------------------
 !=== 1994
 !------------------------
+o GLIVM       ?  1994.xx ..... ISBN 2-286-.-...-.
+} noimg          _?                           ?
+- .oT.     R     _MASTERTON Graham            Tengu ş1983 Tengu şTrad. TRUCHAUD Fran‡ois
 o GLIVM       ?  1994.xx ..... ISBN 2-286-.-...-.
 } noimg          _?                           ?
 - .o .     R     _BRADBURY Ray                L'Arbre d'Halloween ş1972 The Halloween Tree şTrad. RICHELET Annie
@@ -302,7 +346,7 @@ o GLIVM       ?  1994.xx ..... ISBN 2-286-00204-5
 : .o .     N     _KING Stephen                La Tribu des Dix Plombes ş1993 The Ten O'clock People
 : .o .     N     _KING Stephen                Crouch End ş1980 Crouch End
 : .o .     N     _KING Stephen                La Maison de Maple Street ş1993 The House of Maple Street
-: .o .     N     _KING Stephen                Le CinquiŠme Quart ş1972 The Fifth Quarter
+: .x .     N     _KING Stephen                Le CinquiŠme Quart ş1972 The Fifth Quarter
 : .o .     N     _KING Stephen                Le Docteur r‚sout l'‚nigme ş1990 The Doctor's Case
 : .o .     N     _KING Stephen                La DerniŠre Affaire d'Umney ş1988 Umney's Last Case
 : .o .     N     _KING Stephen                Le Mendiant et le diamant ş1993 Brooklyn August
@@ -319,21 +363,44 @@ o GLIVM       ?  1994.xx ..... ISBN ?
 } noimg          _?                           ?
 - .oY.     R     _BRADLEY Marion Zimmer      &La Colline du dernier adieu [Les Dames du lac - 2] ş1994 The Forest House şTrad. ANDRE Lise
 &                _PAXSON Diana L.             
-o GLIVM       ?  1995.xx ..... ISBN ?
+o GLIVM       ?  1994.xx ..... ISBN ?
 } noimg          _?                           ?
-- .o .     R     _BORDONOVE Georges           Les Survivants de l'Atlantide ş1995
+- .o .     R     _SIMMONS Dan                 Les Fils des t‚nŠbres ş1992 Children of the Night şTrad. LEBAILLY Monique
+o GLIVM       ?  1994.xx ..... ISBN ?
+} noimg          _?                           ?
+- .oS.    _N6    _SILVERBERG Robert           Le Nez de Cl‚opƒtre ş1993
+!--- recueil d'uchronies
+!--- Serait une anthologie de Jacques CHAMBON ?
+: .oS.     N     _SILVERBERG Robert           L‚gendes de la forˆt Veniane ş1989 Tales from the Venia Woods şTrad. COLLON H‚lŠne
+: .oS.     N     _SILVERBERG Robert           Le Trait‚ de Dsseldorf ş1959 Translation Error şTrad. COLLON H‚lŠne
+: .oS.     r     _SILVERBERG Robert           Tombouctou … l'heure du lion [La Porte des mondes] ş1990 Lion Time in Timbuctoo şTrad. COLLON H‚lŠne
+: .oS.     N     _SILVERBERG Robert           Le Sommeil et l'oubli ş1989 A Sleep and a Forgetting şTrad. COLLON H‚lŠne
+: .oS.     N     _SILVERBERG Robert           Entre un soldat, puis un autre ş1989 Enter a Soldier. Later: Enter Another şTrad. COLLON H‚lŠne
+: .oS.     N     _SILVERBERG Robert           Basileus ş1983 Basileus şTrad. COLLON H‚lŠne
+o GLIVM       ?  1994.xx ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _GUILLORE Jean               H3O ş1994
+o GLIVM       ?  1994.xx ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _KOONTZ Dean R.              La Cache du diable ş1992 Hideaway şTrad. BLANC Bernard
+o GLIVM       ?  1994.xx ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _KOONTZ Dean R.              La Porte rouge ş1994 Dark Rivers of the Heart şTrad. PAGEL Michel
 !------------------------
 !=== 1995
 !------------------------
+o GLIVM       ?  1995.xx ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _BORDONOVE Georges           Les Survivants de l'Atlantide ş1995
 o GLIVM       ?  1995.xx ..... ISBN 2-286-00537-0
 } glm1995_01     _?                           ?
 - .oT.     R     _KING Stephen                Insomnie ş1994 Insomnia şTrad. DESMOND William Olivier
 o GLIVM       ?  1995.xx ..... ISBN 2-286-.....-.
 } noimg          _?                           ?
-- .o .    _N5    _SIMMONS Dan                 L'Amour, la mort ş1993 Lovedeath şTrad. LEBAILLY Monique
+- .oF.    _N5    _SIMMONS Dan                 L'Amour, la mort ş1993 Lovedeath şTrad. LEBAILLY Monique
 : .x .     N     _SIMMONS Dan                 Le Lit de l'entropie … minuit ş1990 Entropy's Bed at Midnight
 : .o .     N     _SIMMONS Dan                 Mourir … Bangkok ş1993 Death in Bangkok
-: .o .     N     _SIMMONS Dan                 Coucher avec des femmes dentues ş1993 Sleeping With Teeth Women
+: .o .     r     _SIMMONS Dan                 Coucher avec des femmes dentues ş1993 Sleeping With Teeth Women
 : .o .     N     _SIMMONS Dan                 Flash-back ş1993 Flashback
 : .o .     r     _SIMMONS Dan                 Le Grand Amant ş1993 The Great Lover
 o GLIVM       ?  1995.xx ..... ISBN 2-286-01008-0
@@ -344,10 +411,13 @@ o GLIVM       ?  1995.xx ..... ISBN ?
 - .oF.     R     _BRADLEY Marion Zimmer       Adagio pour une ombre ş1984 The Inheritor şTrad. TEZENAS Hubert
 o GLIVM       ?  1995.xx ..... ISBN ?
 } noimg          _?                           ?
-- .oY.     R     _BRADLEY Marion Zimmer       La Chute d'Atlantis ş1984 The Fall of Atlantis şTrad. VONARBURG Elisabeth
+- .oY.     R     _BRADLEY Marion Zimmer       La Chute d'Atlantis ş1984 Web of Darkness / The Fall of Atlantis şTrad. VONARBURG Elisabeth
 o GLIVM       ?  1995.xx ..... ISBN ?
 } noimg          _?                           ?
 - .o .     R     _MATHESON Richard            A sept pas de minuit ş1995 Seven Steps to Midnight şTrad. COLLON H‚lŠne
+o GLIVM       ?  1995.xx ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _KOONTZ Dean R.              Mr Murder ş1993 Mr. Murder şTrad. PAGEL Michel
 !------------------------
 !=== 1996
 !------------------------
@@ -372,6 +442,9 @@ o GLIVM       ?  1996.xx ..... ISBN ?
 o GLIVM       ?  1996.xx ..... ISBN ?
 } noimg          _?                           ?
 - .o .     R     _HARPMAN Jacqueline          Orlanda ş1996
+o GLIVM       ?  1996.xx ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _SIMMONS Dan                 Les Feux de l'‚den ş1994 Fires of Eden şTrad. LEBAILLY Monique
 !------------------------
 !=== 1997
 !------------------------
@@ -394,6 +467,9 @@ o GLIVM       ?  1997.xx ..... ISBN .-.....-...-.
 o GLIVM       ?  1997.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _CHOPRA Deepak               Le Retour de Merlin ş1995 The Return of Merlin şTrad. DEFERT Dominique
+o GLIVM       ?  1997.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _DARRIEUSSECQ Marie          Truismes ş1997
 o GLIVM_T     ?  1997.xx ..... ISBN 2-7028-0549-3
 } noimg          _?                           ?
 !--- 208 pages - 23 cm - Pr‚face de Joseph B‚dier
@@ -431,9 +507,15 @@ o GLIVM       ?  1998.xx ..... ISBN 2-7028-1928-1
 } noimg          _?                           ?
 - .o .     R     _DEMILLE Nelson             &Mayday, mayday ! ş1979 Mayday şTrad. LEGRAND Benjamin
 &                _BLOCK Thomas                
+o GLIVM       ?  1998.xx ..... ISBN ?
+} noimg          _?                           ?
+- .oT.     R     _KOONTZ Dean R.              Intensit‚ ş1995 Intensity şTrad. GARENE MichŠle
 !------------------------
 !=== 1999
 !------------------------
+o GLIVM       ?  1999.xx ..... ISBN 2-7028-3743-3
+} nomimg         _?                           ?
+- .oS.     F     _BROOKS Terry                pisode I - La Menace fant“me [La PremiŠre Trilogie - 1]|[Episode I][Star Wars] ş1999 The Phantom Menace şTrad. TOUSSAINT Jean-Marc & ARSON Thierry & MALLE Jean-Claude
 o GLIVM       ?  1999.xx ..... ISBN 2-7028-3939-8
 } noimg          _?                           ?
 - .o .     R     _LENTERIC Bernard            L'Ange Gabriel ş1999
@@ -547,13 +629,14 @@ o GLIVM       ?  1999.xx ..... ISBN 2-7028-3791-3
 : .pFP     A18   *HITCHCOCK Alfred            Histoires … lire avec pr‚caution ş1979 Tales to Be Read with Caution
 = .? .     N     _HOCH Edward D.              Diamants volent ! ş1972 A Melee of Diamonds
 = .? .     N     _WELLEN Edward               L'Identification ş1959 Which One's the Guilty One?
-= .? .     N     _LUTZ John                   Sans enfreindre la loi ş1972 Within The Law
+= .? .     N     _LUTZ John                   Sans enfreindre la loi ş1972 Within the Law
 = .? .     N     _SCHISGALL Oscar             Les Lettres de Mme de CarrŠre ş1958 The Letters of Mme. de Carrere
 = .? .     N     _SHARKEY Jack                Bleu camarde ş1962 Deadly Shade of Blue
 = .? .     N     _OLSON Donald                Coeur de pierre ş1973 The Man Who Took It with Him
 = .? .     N     _WESTLAKE Donald E.          Ah, mes a‹eux ! ş1961 Never Shake a Family Tree
 = .? .     N     _WASYLYK Stephen             Calcul de probabilit‚s ş1968 The Loose End
-= .? .     N     _LINK W. & LEVINSON R.       Une m‚moire infaillible ş1959 Memory Game
+= .? .     N     _LINK William               &Une m‚moire infaillible ş1959 Memory Game
+&  ?             _LEVINSON Richard            
 = .? .     N     _SMITH Pauline C.            La Disparition de Linda ş1973 Linda Is Gone
 = .? .     N     _GILFORD C.B.                Modus Operandi ş1972 Frightened Lady
 = .? .     N     _GILLIES Jacques             L'Homme multiple ş1959 The Plural Mr. Grimaud
@@ -565,12 +648,12 @@ o GLIVM       ?  1999.xx ..... ISBN 2-7028-3791-3
 = .? .     N     _NIELSEN Helen               Mort d'un vendeur de voiture ş1959 The Very Hard Sell
 : .pFP     A15   *HITCHCOCK Alfred            Histoires dr“lement inqui‚tantes ş1980 Tales to Fill You with Fear and Trembling
 = .? .     N     _McKAY Robert                Un professionnel ş1964 A Professionnal
-= .? .     N     _COLBY Robert                La mort est ma compagne ş1968 Death is a Lonely Lover
+= .? .     N     _COLBY Robert                La mort est ma compagne ş1968 Death Is a Lonely Lover
 = .? .     N     _STARK Richard               On ne badine pas avec la mort 1961 Just a Little Impractical Joke
 = .? .     N     _WALTON Bryce                Docteur Apollon ş1958 Doctor Apollo / My Name Is Apollo
 = .o .     N     _MATHESON Richard            Les Enfants de No‚ ş1957 The Children of Noah şTrad. ?
 = .? .     N     _BRAUND Mary                 Plus vrai que nature ş1972 To the Manner Born
-= .? .     N     _ULLMAN James M.             Un investissement bien r‚fl‚chi ş1967 A Sound Investment
+= .? .     N     _ULLMAN James Michael        Un investissement bien r‚fl‚chi ş1967 A Sound Investment
 = .? .     N     _NUSSBAUM Al                 Le pass‚ est mort ş1968 The Dead Past
 = .? .     N     _GOULART Ron                 Feeling ş1966 The Tin Ear
 = .? .     N     _SMITH Pauline C.            Suicide … l'am‚ricaine ş1953 Scheme for destruction
@@ -612,17 +695,23 @@ o GLIVM       ?  2000.xx ..... ISBN 2-7028-5451-6
 o GLIVM       ?  2000.xx ..... ISBN 2-7028-6076-1
 } noimg          _?                           ?
 - .o .     R     _CONDE Maryse                C‚lanire cou coup‚ ş2000
+o GLIVM       ?  2000.xx ..... ISBN ?
+} noimg          _?                           ?
+- .oT.     R     _KOONTZ Dean R.              Ne crains rien [Trilogie de Moonlight Bay - 1] ş1997 Fear Nothing şTrad. GARENE MichŠle
+o GLIVM       ?  2000.xx ..... ISBN ?
+} noimg          _?                           ?
+- .o .     R     _KOONTZ Dean R.              Jusqu'au bout de la nuit [Trilogie de Moonlight Bay - 2] ş1998 Seize the Night şTrad. DEFERT Dominique
 !------------------------
 !=== 2001
 !------------------------
 o GLIVM       ?  2001.xx ..... ISBN 2-7028-6401-5
 } glm2001_01     _?                           ?
-- .oFT    cC5    _KING Stephen                Coeurs perdus en Atlantide ş1999 Hearts in Atlantis
-: .o .     R     _KING Stephen                Crapules de bas ‚tage en manteau jaune ş1999 Low Men in Yellow Coats
-: .o .     R     _KING Stephen                Chasse-coeurs en Atlantide ş1999 Hearts in Atlantis
-: .o .     r     _KING Stephen                Willie l'aveugle ş1994 Blind Willie
-: .o .     r     _KING Stephen                Pourquoi nous ‚tions au Vietnam ş1999 Why We're in Vietnam
-: .o .     N     _KING Stephen                Ainsi tombent les ombres c‚lestes de la nuit ş1999 Heavenly Shades of Nights Are Falling
+- .pF.    kN5    _KING Stephen                Coeurs perdus en Atlantide ş1999 Hearts in Atlantis şTrad. DESMOND William Olivier
+: .oF.     r     _KING Stephen                Crapules de bas ‚tage en manteau jaune [La Tour sombre] ş1999 Low Men in Yellow Coats şTrad. DESMOND William Olivier
+: .x .     r     _KING Stephen                Chasse-coeurs en Atlantide ş1999 Hearts in Atlantis şTrad. DESMOND William Olivier
+: .x .     N     _KING Stephen                Willie l'aveugle ş1994-1999 Blind Willie şTrad. DESMOND William Olivier
+: .x .     N     _KING Stephen                Pourquoi nous ‚tions au Vietnam ş1999 Why We're in Vietnam şTrad. DESMOND William Olivier
+: .oF.     N     _KING Stephen                Ainsi tombent les ombres c‚lestes de la nuit [La Tour sombre] ş1999 Heavenly Shades of Nights Are Falling şTrad. DESMOND William Olivier
 o GLIVM       ?  2001.xx ..... ISBN 2-7028-6474-0
 } noimg          _?                           ?
 - .oPF     R     _BORNAIS Gilles              Le Diable de Glasgow ş2001
@@ -651,7 +740,7 @@ o GLIVM       ?  1999.xx ..... ISBN 2-7028-6700-6
 = .? .     N     _SLESAR Henry                Communaut‚ t‚l‚phonique ş1960 The Deadly Telephone şTrad. ENDREBE Maurice Bernard
 = .o .     N     _RITCHIE Jack                La DerniŠre Bombe ş1957 Bomb #14 şTrad. HEROUX Philippe
 = .? .     N     _CRAIG Jonathan              La QuatriŠme Fois ş1957 Stop Calling Me Mister şTrad. AMALRIC H‚lŠne
-= .? .     N     _FLORA Fletcher              La Voix ş1960 Tune Me In şTrad. KELLERSON Philippe
+= .? .     N     _FLORA Fletcher              La Voix ş1960 Tune Me in şTrad. KELLERSON Philippe
 = .? .     N     _HOCH Edward D.              Le Diable de Jersey ş1971 The Jersey Devil şTrad. BILLON Pierre
 = .? .     N     _HARDWICK Richard            Martha, in memoriam ş1960 Martha: In Memoriam şTrad. MILLOT-JACQUIN Simone
 = .? .     N     _NIELSEN Helen               Les Locataires du premier ş1961 The Affair Upstairs şTrad. DARCIS NoclŠte & Pierre
@@ -686,7 +775,7 @@ o GLIVM       ?  1999.xx ..... ISBN 2-7028-6700-6
 : .pFP     A14   *HITCHCOCK Alfred            Histoires … vous glacer le sang ş1970 Get Me to the Wake on Time
 = .x .     N     _ELLIS Elijah                Une amŠre victoire ş1968 A Familiar Victory
 = .x .     N     _COLBY Robert                Le Contrat ş1972 An Important Kill
-= .? .     N     _HARDWICK Richard            La Pˆche miraculeuse ş1966 The Deep Six
+= .x .     N     _HARDWICK Richard            La Pˆche miraculeuse ş1966 The Deep Six
 = .x .     N     _BREWER Gil                  Et maintenant, adieu ! ş1968 Goodbye, Now
 = .x .     N     _GILFORD C.B.                Tue-moi gentiment ş1966 Murder Me Gently
 = .x .     N     _DEMING Richard              Le Facteur commun ş1965 The Common Factor
@@ -704,26 +793,26 @@ o GLIVM       ?  1999.xx ..... ISBN 2-7028-6700-6
 = .o .     N     _POWELL Talmage              Un jur‚ unique ş1959 Jury of One
 = .o .     N     _RITCHIE Jack                Entre deux portes ş1959 Between 4 and 12
 = .x .     N     _STARK Richard               Ces curieux ‚vŠnements qui pr‚c‚dŠrent mon ex‚cution ş1960 The Curious Facts Preceding My Execution
-= .x .     N     _DEAL Borden                 Au boniment ş? ?
-= .x .     N     _FLORA Fletcher              Un usage trŠs particulier ş? ?
+= .x .     N     _DEAL Borden                 Au boniment ş1966 Make Your Pitch
+= .? .     N     _FLORA Fletcher              Un usage trŠs particulier ş1965 Something Very Special
 = .x .     N     _DEMING Richard              L'Avancement ş1965 The Promotion
 = .x .     N     _HARDWICK Richard            Disparu comme par magie ş1960 Gone as by Magic
 = .x .     N     _GILFORD C.B.                Le Club du mardi ş1967 The Tuesday Club
 = .? .     N     _SLESAR Henry                Vole, Ruth, vole ş1957 The Trouble with Ruth
-= .x .     N     _RALSTON Gilbert             La Prudence mˆme ş? A Very Cautious Boy
+= .x .     N     _RALSTON Gilbert             La Prudence mˆme ş1961 A Very Cautious Boy
 = .x .     N     _LACY Ed                     Le D‚nominateur commun ş1963 The Black-Eyed Denominator
 = .x .     N     _BLOCH Robert                Un malheur … la bourse ş1958 A Killing in the Market
 = .x .     N     _HOCH Edward D.              Un seul oeil pour voir la mort ş1967 The Eye of the Pigeon
 = .x .     N     _LUTZ John                   Le Pique-Nique ş1971 The Day of the Picnic
 = .x .     N     _BLAIR Robert Alan           A Chinois... Chinois et demi ş? ?
 : .pFP     A18   *HITCHCOCK Alfred            Histoires … fr‚mir debout ş?
-= .x .     N     _FARR Douglas                L'Argent appelle l'argent ş1966 The Rich Get Richer
+= .x .     N     _FARR Douglas                L'argent appelle l'argent ş1966 The Rich Get Richer
 = .x .     N     _MERGENDAHL Charles          Pr‚monition ş1957 Premonition
 = .x .     N     _JANIFER Laurence M.         La Poire en deux ş1959 The World's Oldest Motive
-= .x .     N     _DERVEER Max Van             La MeurtriŠre ş1967 The Murderess
+= .x .     N     _VAN DERVEER Max             La MeurtriŠre ş1967 The Murderess
 = .x .     N     _DAVIS Franklin M.           Sept millions de suspects ş1959 Seven Million Suspects
 = .x .     N     _ELLIS Dick                  Le Pasteur et la brebis ş1966 Beware the Righteous Man
-= .x .     N     _FLORA Fletcher              Le DŒner sera froid ş1963 Diner Will Be Cold
+= .x .     N     _FLORA Fletcher              Le dŒner sera froid ş1963 Dinner Will Be Cold
 = .o .     N     _POWELL Talmage              Une intuition que j'ai eue.. ş1959 I Had a Hunch, And...
 = .x .     N     _HUNSBERGER Bruce            Une promotion de poids ş1967 A Weightly Promotion
 = .o .     N     _GILFORD C.B.                Contenu : un cadavre ş1963 Contents: One Body
@@ -772,6 +861,19 @@ o GLIVM       ?  2002.xx ..... ISBN 2-7028-6919-X
 o GLIVM       ?  2002.xx ..... ISBN 2-7028-7997-7
 } noimg          _?                           ?
 - .o .     R     _ALLENDE Isabel              La Cit‚ des dieux sauvages [Alexander Cole - 1] ş2002 La ciudad de las bestias şTrad. LHERMILLIER Alex et Nelly
+o GLIVM       ?  2002.xx ..... ISBN 2-7028-7969-1
+} noimg          _?                           ?
+- .x .     R     _SIMMONS Dan                 L'p‚e de Darwin ş2000 Darwin's Blade şTrad. ABADIA Guy
+o GLIVM       ?  2002.xx ..... ISBN 2-7028-6935-1
+} noimg          _?                           ?
+!--- GF - 22 cm - 141 pages - 18 euros
+- .oF.     R     _BOULGAKOV Mikha‹l           Coeur de chien ş[1925],1968 Sobacheye Serdste şTrad. LEVY Janine
+o GLIVM       ?  2002.xx ..... ISBN 2-7028-5880-5
+} noimg          _?                           ?
+- .oF.     R     _BARKER Clive                Abarat [Abarat - 1] ş2002 Abarat şTrad. COLLON H‚lŠne
+o GLIVM       ?  2002.xx ..... ISBN ?
+} noimg          _?                           ?
+- .oF.     R     _KOONTZ Dean R.              Regard oblique ş2000 From the Corner of His Eye şTrad. CRICHTON Anne
 !------------------------
 !=== 2003
 !------------------------
@@ -784,7 +886,7 @@ o GLIVM       ?  2003.xx ..... ISBN 2-7028-8253-6
 : .oF.     N     _KING Stephen                Salle d'autopsie quatre ş1997 Autopsy Room Four şTrad. DESMOND William
 : .oF.     N     _KING Stephen                L'Homme au costume noir ş1994 The Man in the Black Suit şTrad. DESMOND William
 : .oF.     N     _KING Stephen                Tout ce que vous aimez sera emport‚ ş2001 All That You Love Will Be Carried Away şTrad. DESMOND William
-: .oF.     N     _KING Stephen                La Mort de John Hamilton ş2001 The Death of Jack Hamilton şTrad. DESMOND William
+: .oF.     N     _KING Stephen                La Mort de Jack Hamilton ş2001 The Death of Jack Hamilton şTrad. DESMOND William
 : .oF.     N     _KING Stephen                Salle d'ex‚cution ş2000 In the Deathroom şTrad. DESMOND William
 : .oF.     N     _KING Stephen                Les Petites Soeurs d'Eluria [La Tour sombre] ş1998 The Little Sisters of Eluria şTrad. DESMOND William
 : .oF.     N     _KING Stephen                Tout est fatal ş2001 Everything's Eventual şTrad. DESMOND William
@@ -810,6 +912,20 @@ o GLIVM       ?  2003.xx ..... ISBN 2-7028-8163-7
 o GLIVM       ?  2003.xx ..... ISBN 2-7028-8499-7
 } noimg          _?                           ?
 - .o .     R     _VERLOMME Hugo               Sables, les enfants perdus de Mermere [Mermere - 2] ş2003
+o GLIVM       ?  2003.xx ..... ISBN 2-7028-8723-6
+} noimg          _?                           ?
+- .x .    iAx    *BLOCK Lawrence              Choix de maŒtre ş1999 Master's Choice
+: .x .     N     _KING Stephen                Le Gala de noce ş1980 The Wedding Gig
+o GLIVM       ?  2003.xx ..... ISBN 2-7028-8489-X
+} noimg          _?                           ?
+!--- 373 pages - 25 cm - 19,90 euros
+- .oS.     R     _COOK Robin                  Rapt ş2000 Abduction şTrad. GANSTEL Michel
+o GLIVM       ?  2003.xx ..... ISBN 2-7028-8273-0 
+} noimg          _?                           ?
+- .oS.     R     _HOEYE Michael               Les Sables du temps [Hermux Tantamoq - 2] ş2001 Sands of Time şTrad. PRACONTAL Mona de
+o GLIVM       ?  2003.xx ..... ISBN 2-7028-8908-5
+} noimg          _?                           ?
+- .o .     R     _KOONTZ Dean R.              La DerniŠre Porte ş2001 One Door Away from Heaven şTrad. SARDA Yves
 !------------------------
 !=== 2004
 !------------------------
@@ -828,18 +944,18 @@ o GLIVM       ?  2004.03 ..... ISBN 2-259-.-...-.
 o GLIVM       ?  2004.xx ..... ISBN 2-286-00691-1
 } noimg          _?                           ?
 - .oY.     R     _HEARN Lian                  Le Silence du rossignol [Le Clan des Otori - 1] ş2002 Across the Nightingale Floor şTrad. GIRAUDON Philippe
-o GLIVM       ?  2004.xx ..... ISBN 2-286-.....-.
+o GLIVM       ?  2004.xx ..... ISBN 2-7028-9178-0
 } noimg          _?                           ?
-- .oY.    _R3    _HOBB Robin                  La Citadelle des ombres [L'Assassin royal - 1/3] ş2001
-: .oY.     R     _HOBB Robin                  L'Apprenti assassin [L'Assassin royal - 1] ş1995 Assassin's Apprentice şTrad. MOUSNIER-LOMPRE A.
-: .oY.     R     _HOBB Robin                  L'Assassin du roi [L'Assassin royal - 2] ş1996 Royal Assassin şTrad. MOUSNIER-LOMPRE A.
-: .oY.     R     _HOBB Robin                  La Nef du cr‚puscule [L'Assassin royal - 3] ş1996 Royal Assassin şTrad. MOUSNIER-LOMPRE A.
-o GLIVM       ?  2004.xx ..... ISBN 2-286-.....-.
+- .oY.    _R3    _HOBB Robin                  La Citadelle des ombres [The Farseer Trilogy - 1/2][L'Assassin royal - 1/3] ş2001
+: .oY.     R     _HOBB Robin                  L'Apprenti assassin [The Farseer Trilogy - 1][L'Assassin royal - 1] ş1995 Assassin's Apprentice şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  L'Assassin du roi [The Farseer Trilogy - 2.1][L'Assassin royal - 2] ş1996 Royal Assassin şTrad. MOUSNIER-LOMPRE A.
+: .oY.     R     _HOBB Robin                  La Nef du cr‚puscule [The Farseer Trilogy - 2.2][L'Assassin royal - 3] ş1996 Royal Assassin şTrad. MOUSNIER-LOMPRE A.
+o GLIVM       ?  2004.xx ..... ISBN 2-7028-9179-9
 } noimg          _?                           ?
-- .oY.    _R3    _HOBB Robin                  La Citadelle des ombres II [L'Assassin royal - 4/6] ş1997 Assassin's Quest
-: .oY.     R     _HOBB Robin                  Le Poison de la vengeance [L'Assassin royal - 4] ş1997 Assassin's Quest
-: .oY.     R     _HOBB Robin                  La Voie magique [L'Assassin royal - 5] ş1997 Assassin's Quest
-: .oY.     R     _HOBB Robin                  La Reine solitaire [L'Assassin royal - 6] ş1997 Assassin's Quest
+- .oY.    _R3    _HOBB Robin                  La Citadelle des ombres II [The Farseer Trilogy - 3][L'Assassin royal - 4/6] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Le Poison de la vengeance [The Farseer Trilogy - 3.1][L'Assassin royal - 4] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  La Voie magique [The Farseer Trilogy - 3.2][L'Assassin royal - 5] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  La Reine solitaire [The Farseer Trilogy - 3.3][L'Assassin royal - 6] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
 o GLIVM       ?  2004.xx ..... ISBN 2-286-00692-X
 } noimg          _?                           ?
 - .oY.     R     _HEARN Lian                  Les Neiges de l'exil [Le Clan des Otori - 2] ş2003 Grass for His Pillow şTrad. GIRAUDON Philippe
@@ -857,13 +973,16 @@ o GLIVM       ?  2004.xx ..... ISBN 2-7028-9715-0
 - .oF.     R     _CONNOLLY John               Le Pouvoir des t‚nŠbres [Charlie Parker - 3] ş2001 The Killing Kind şTrad. MARTINACHE Jacques
 o GLIVM       ?  2004.xx ..... ISBN 2-7028-9603-0
 } noimg          _?                           ?
-- .o .     R     _ALLENDE Isabel              Le Royaume du Dragon d'or [Alexander Cole - 2] ş2003 El reino del Drag¢n de Oro şTrad. LHERMILLIER Alex et Nelly
+- .o .     R     _ALLENDE Isabel              Le Royaume du dragon d'or [Alexander Cole - 2] ş2003 El reino del Drag¢n de Oro şTrad. LHERMILLIER Alex et Nelly
 o GLIVM       ?  2004.xx ..... ISBN 2-286-00254-1
 } noimg          _?                           ?
 - .oF.     R     _KOONTZ Dean R.              Au clair de Lune ş2002 By the Light of the Moon şTrad. DEFERT Dominique
 o GLIVM       ?  2004.xx ..... ISBN 2-286-00206-1
 } noimg          _Fran‡ois Schlesser          ?
 - .oS.     R     _WERBER Bernard              L'Œle des sortilŠges [Nous les dieux - 1] ş2004
+o GLIVM       ?  2004.xx ..... ISBN ?
+} noimg          _?                           ?
+- .x .     R     _MASTERTON Graham            Le Complot Sweetman ş1979 The Sweetman Curve
 !------------------------
 !=== 2005
 !------------------------
@@ -897,12 +1016,12 @@ o GLIVM       ?  2005.xx ..... ISBN 2-286-01717-4
 o GLIVM       ?  2005.xx ..... ISBN 2-286-01719-0
 } glm2005_07     _Gr‚goire H‚non              ?
 - .oF.     R     _KING Stephen                La Tour sombre [La Tour sombre - 7] ş2004 The Dark Tower şTrad. PREMONVILLE Marie de
-o GLIVM       ?  2005.xx ..... ISBN 2-286-.....-.
+o GLIVM       ?  2005.xx ..... ISBN 2-286-00837-X
 } noimg          _?                           ?
-- .oY.    _R3    _HOBB Robin                  La Citadelle des ombres III [L'Assassin royal - 7/9] ş2005
-: .oY.     R     _HOBB Robin                  Le ProphŠte blanc [L'Assassin royal - 7] ş2001 Fool's Errand şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  La Secte maudite [L'Assassin royal - 8] ş2001 Fool's Errand şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Les Secrets de Castelcerf [L'Assassin royal - 9] ş2003 Golden Fool şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.    _R3    _HOBB Robin                  La Citadelle des ombres III [The Tawny Man - 1/2.1][L'Assassin royal - 7/9] ş2005
+: .oY.     R     _HOBB Robin                  Le ProphŠte blanc [The Tawny Man - 1.1][L'Assassin royal - 7] ş2001 Fool's Errand şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  La Secte maudite [The Tawny Man - 1.2][L'Assassin royal - 8] ş2001 Fool's Errand şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Les Secrets de Castelcerf [The Tawny Man - 2.1][L'Assassin royal - 9] ş2003 Golden Fool şTrad. MOUSNIER-LOMPRE Arnaud
 o GLIVM       ?  2005.xx ..... ISBN 2-286-01529-5
 } noimg          _?                           ?
 - .oS.     R     _CRICHTON Michael            Etat d'urgence ş2004 State of Fear şTrad. BERTHON Patrick
@@ -924,13 +1043,13 @@ o GLIVM       ?  2006.xx ..... ISBN 2-286-01980-0
 o GLIVM       ?  2006.xx ..... ISBN 2-286-02131-7
 } glm2006_01     _Stephen Biver & Ian McKinnel 
 - .oT.     R     _KING Stephen                Cellulaire ş2006 Cell şTrad. DESMOND William
-o GLIVM       ?  2006.xx ..... ISBN 2-286-02991-.
+o GLIVM       ?  2006.xx ..... ISBN 978-2-286-02991-3
 } noimg          _?                           ?
-- .oY.    _R4    _HOBB Robin                  La Citadelle des ombres IV [L'Assassin royal - 10/13] ş2007
-: .oY.     R     _HOBB Robin                  Serments et deuils [L'Assassin royal - 10] ş2003 Golden Fool şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Le Dragon des glaces [L'Assassin royal - 11] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  L'Homme noir [L'Assassin royal - 12] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Adieux et retrouvailles [L'Assassin royal - 13] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.    _R4    _HOBB Robin                  La Citadelle des ombres IV [The Tawny Man - 2.2/3][L'Assassin royal - 10/13] ş2007
+: .oY.     R     _HOBB Robin                  Serments et deuils [The Tawny Man - 2.2][L'Assassin royal - 10] ş2003 Golden Fool şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Le Dragon des glaces [The Tawny Man - 3.1][L'Assassin royal - 11] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  L'Homme noir [The Tawny Man - 3.2][L'Assassin royal - 12] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Adieux et retrouvailles [The Tawny Man - 3.3][L'Assassin royal - 13] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
 o GLIVM       ?  2006.xx ..... ISBN 2-286-01986-X
 } noimg          _?                           ?
 - .o .     R     _ALLENDE Isabel              La Forˆt des pygm‚es [Alexander Cole - 3] ş2004 El bosque de los Pigmeos şTrad. LHERMILLIER Alex et Nelly
@@ -973,6 +1092,9 @@ o GLIVM       ?  2008.xx ..... ISBN 978-2-286-05552-3
 o GLIVM       ?  2008.xx ..... ISBN 978-2-286-04189-2
 } noimg          _?                           ?
 - .oF.     R     _CONNOLLY John               La Proie des ombres [Charlie Parker - 6] ş2007 The Unquiet şTrad. MARTINACHE Jacques
+o GLIVM       ?  2008.xx ..... ISBN ?
+} noimg          _?                           ?
+- .oT.     R     _KOONTZ Dean R.              Jour fatal ş2004 Life Expectancy şTrad. DEFERT Dominique
 !------------------------
 !=== 2009
 !------------------------
@@ -1032,7 +1154,7 @@ o GLIVM       ?  2011.xx ..... ISBN 978-2-286-07511-8
 - .oT.     R     _KING Stephen                D“me ** ş2009 Under the Dome şTrad. DESMOND William
 o GLIVM       ?  2011.xx ..... ISBN 978-2-286-08008-2
 } noimg          _?                           ?
-- .oF.     R     _KHARA David S.              Les Vestiges de l'aube ş2010
+- .oF.     R     _KHARA David S.              Les Vestiges de l'aube [Barry Donovan - 1] ş2010
 o GLIVM       ?  2011.xx ..... ISBN 978-2-286-08677-0
 } noimg          _?                           ?
 - .oY.     R     _RUIZ ZAFON Carlos           Le Prince de la brume [Le Prince de la brume - 1] ş1993 El principe de la niebla şTrad. MASPERO Fran‡ois
@@ -1048,6 +1170,9 @@ o GLIVM       ?  2011.xx ..... ISBN 978-2-286-07514-9
 o GLIVM       ?  2011.xx ..... ISBN 978-2-286-07963-5
 } noimg          _? James Porto               ?
 - .oF.     R     _FITZPATRICK Becca           Crescendo [Hush, Hush - 2] ş2010 Crescendo şTrad. CAMBOLIEU Marie
+o GLIVM       ?  2011.xx ..... ISBN ?
+} noimg          _?                           ?
+- .oF.     R     _SIMMONS Dan                 Drood ş2009 Drood şTrad. DEMANGE Odile
 !------------------------
 !=== 2012
 !------------------------
@@ -1072,6 +1197,11 @@ o GLIVM       ?  2012.xx ..... ISBN 978-2-286-08369-4
 o GLIVM       ?  2012.xx ..... ISBN 978-2-286-09235-1
 } noimg          _?                           ?
 - .oY.     R     _RUIZ ZAFON Carlos           Les LumiŠres de septembre [Le Prince de la brume - 3] ş1995 Las Luces de septiembre şTrad. MASPERO Fran‡ois
+o GLIVM       ?  2012.xx ..... ISBN 978-2-286-09467-6
+} noimg          _Marc Simonetti              ?
+- .oY.    kR2    _MARTIN George R.R.          Le Tr“ne de fer - L'int‚grale 1 [Le Tr“ne de fer - 1/2] ş1996 A Game of Thrones şTrad. SOLA Jean
+: .o .     R     _MARTIN George R.R.          Le Tr“ne de fer [Le Tr“ne de fer - 1] ş1996 A Game of Thrones şTrad. SOLA Jean
+: .o .     R     _MARTIN George R.R.          Le Donjon rouge [Le Tr“ne de fer - 2] ş1996 A Game of Thrones şTrad. SOLA Jean
 o GLIVM       ?  2012.xx ..... ISBN 978-2-286-09565-9
 } noimg          _?                           ?
 - .o .     R     _RUIZ ZAFON Carlos           Le Prisonnier du ciel [Le CimetiŠre des livres oubli‚s - 3] ş2011 El prisionero del cielo şTrad. MASPERO Fran‡ois
@@ -1117,6 +1247,9 @@ o GLIVM       ?  2015.xx ..... ISBN 978-2-286-12000-9
 o GLIVM       ?  2015.xx ..... ISBN 978-2-286-12499-1
 } noimg          _?                           ?
 - .oF.     R     _BARLOW Toby                 Babayaga ş2013 Babayaga şTrad. ARONSON Emmanuelle & Philippe
+o GLIVM       ?  2015.xx ..... ISBN 978-2-286-12561-5
+} noimg          _?                           ?
+- .oS.     R     _MATHER Matthew              Extinction ş2013 CyberStorm şTrad. BARBASTE Christine
 !------------------------
 !=== 2016
 !------------------------
@@ -1125,26 +1258,27 @@ o GLIVM       ?  2016.xx ..... ISBN 978-2-286-13161-6
 - .xP.     R     _KING Stephen                Carnets noirs [Bill Hodges] ş2015 Finders Keepers şTrad. BIES Oc‚ane & GASSIE Nadine
 o GLIVM       ?  2016.xx ..... ISBN 978-2-286-.....-.
 } glm2016_02     _Nicolas Obery               ?
-- .pFT     N20   _KING Stephen                Le Bazar des mauvais rˆves ş2015 The Bazaar of Bad Dreams şTrad. BIES Oc‚ane & GASSIE Nadine
+- .pFT    kN20   _KING Stephen                Le Bazar des mauvais rˆves ş2015 The Bazaar of Bad Dreams şTrad. BIES Oc‚ane & GASSIE Nadine
+: .o .     p     _KING Stephen                Introduction ş2015 Introduction
 : .o .     r     _KING Stephen                Mile 81 ş2011 Mile 81 şTrad. BIES Oc‚ane & GASSIE Nadine
-: .! .     N     _KING Stephen                Premium Harmony ş2009 Premium Harmony şTrad. BIES Oc‚ane & GASSIE Nadine
-: .o .     N     _KING Stephen                Batman et Robin ont un accrochage ş2012 Batman and Robin Have an Altercation şTrad. BIES Oc‚ane & GASSIE Nadine
+: .x .     N     _KING Stephen                Premium Harmony ş2009 Premium Harmony şTrad. BIES Oc‚ane & GASSIE Nadine
+: .x .     N     _KING Stephen                Batman et Robin ont un accrochage ş2012 Batman and Robin Have an Altercation şTrad. BIES Oc‚ane & GASSIE Nadine
 : .o .     N     _KING Stephen                La Dune ş2011 The Dune şTrad. BIES Oc‚ane & GASSIE Nadine
-: .o .     N     _KING Stephen                Sale Gosse ş2015 Bad Little Kid şTrad. BIES Oc‚ane & GASSIE Nadine
-: .! .     N     _KING Stephen                Une mort ş2015 A Death şTrad. BIES Oc‚ane & GASSIE Nadine
+: .o .     N     _KING Stephen                Sale gosse ş2015 Bad Little Kid şTrad. BIES Oc‚ane & GASSIE Nadine
+: .x .     N     _KING Stephen                Une mort ş2015 A Death şTrad. BIES Oc‚ane & GASSIE Nadine
 : .o .     P     _KING Stephen                Eglise d'ossements ş2009 The Bone Church şTrad. BIES Oc‚ane & GASSIE Nadine
-: .! .     N     _KING Stephen                Morale ş2009 Morality şTrad. BIES Oc‚ane & GASSIE Nadine
+: .x .     N     _KING Stephen                Morale ş2009 Morality şTrad. BIES Oc‚ane & GASSIE Nadine
 : .o .     N     _KING Stephen                AprŠs-vie ş2013 Afterlife şTrad. BIES Oc‚ane & GASSIE Nadine
-: .o .     r     _KING Stephen                Ur ş2009 Ur şTrad. BIES Oc‚ane & GASSIE Nadine
-: .! .     N     _KING Stephen                Herman Wouk est toujours en vie ş2011 Herman Wouk Is Still Alive şTrad. BIES Oc‚ane & GASSIE Nadine
+: .o .     r     _KING Stephen                Ur [La Tour sombre] ş2009 Ur şTrad. BIES Oc‚ane & GASSIE Nadine
+: .x .     N     _KING Stephen                Herman Wouk est toujours en vie ş2011 Herman Wouk Is Still Alive şTrad. BIES Oc‚ane & GASSIE Nadine
 : .o .     N     _KING Stephen                A la dure ş2011 Under the Weather şTrad. BIES Oc‚ane & GASSIE Nadine
-: .! .     N     _KING Stephen                Billy Barrage ş2010 Blockade Billy şTrad. BIES Oc‚ane & GASSIE Nadine
+: .x .     N     _KING Stephen                Billy Barrage ş2010 Blockade Billy şTrad. BIES Oc‚ane & GASSIE Nadine
 : .o .     N     _KING Stephen                Mister Yummy ş2015 Mister Yummy şTrad. BIES Oc‚ane & GASSIE Nadine
-: .! .     P     _KING Stephen                Tommy ş2010 Tommy şTrad. BIES Oc‚ane & GASSIE Nadine
+: .x .     P     _KING Stephen                Tommy ş2010 Tommy şTrad. BIES Oc‚ane & GASSIE Nadine
 : .o .     N     _KING Stephen                Le Petit Dieu vert de l'agonie ş2011 The Little Green God of Agony şTrad. BIES Oc‚ane & GASSIE Nadine
-: .o .     N     _KING Stephen                Ce bus est un autre monde ş2014 That Bus is Another World şTrad. BIES Oc‚ane & GASSIE Nadine
+: .x .     N     _KING Stephen                Ce bus est un autre monde ş2014 That Bus Is Another World şTrad. BIES Oc‚ane & GASSIE Nadine
 : .o .     N     _KING Stephen                N‚cro ş2015 Obits şTrad. BIES Oc‚ane & GASSIE Nadine
-: .! .     N     _KING Stephen                Feux d'artifice imbib‚s ş2015 Drunken Fireworks şTrad. BIES Oc‚ane & GASSIE Nadine
+: .x .     N     _KING Stephen                Feux d'artifice imbib‚s ş2015 Drunken Fireworks şTrad. BIES Oc‚ane & GASSIE Nadine
 : .o .     N     _KING Stephen                Le Tonnerre en ‚t‚ ş2013 Summer Thunder şTrad. BIES Oc‚ane & GASSIE Nadine
 o GLIVM       ?  2016.xx ..... ISBN 978-2-286-.....-.
 } glm2016_xx     _?                           ?
@@ -1197,7 +1331,7 @@ o GLIVM       ?  2017.xx ..... ISBN 978-2-286-13948-3
 !------------------------
 o GLIVM       ?  2018.xx ..... ISBN 978-2-286-16009-8
 } noimg          _?                           ?
-- .oF.     E     _KING Stephen                Anatomie de l'horreur [Anatomie de l'horreur - 1] ş1981 Danse Macabre şTrad. BREQUE Jean-Daniel
+- .oF.     E     _KING Stephen                Anatomie de l'horreur [Anatomie de l'horreur - 1/2] ş1981 Danse Macabre şTrad. BREQUE Jean-Daniel
 o GLIVM       ?  2018.xx ..... ISBN 978-2-286-16093-7
 } noimg          _?                           ?
 - .oS.     R     _WERBER Bernard              La BoŒte de Pandore ş2018
@@ -1232,6 +1366,26 @@ o GLIVM       ?  2020.01 ..... ISBN 978-2-298-15959-2
 } noimg          _?                           ?
 !--- GF
 - .o .     R     _KING Stephen                L'Institut ş2019 The Institute şTrad. ESCH Jean
+!------------------------
+!=== 2021
+!------------------------
+!--- TBD : avec / repris pas France Loisirs ?
+o GLIVM       ?  2019.xx ..... ISBN 978-2-298-15724-6
+} noimg          _?                           ?
+!--- GF - 140 x 230 - 456 pages
+- .oS.     R     _WERBER Bernard              Sa majest‚ des chats [Demain les chats - 2] ş2019
+o GLIVM       ?  2021.02 ..... ISBN 978-2-298-16819-8
+} frlois202102_0 _(c)Shutterstock             ?
+!--- GF - 155 x 240 - 458 pages
+- .oF.     N4    _KING Stephen                Si ‡a saigne ş2020 If it Bleeds şTrad. ESCH Jean
+: .o .     N     _KING Stephen                Le T‚l‚phone de M. Harrigan ş2020 Mr. Harrigan's Phone şTrad. ESCH Jean
+: .o .     N     _KING Stephen                La Vie de Chuck ş2020 The Life of Chuck şTrad. ESCH Jean
+: .o .     N     _KING Stephen                Si ‡a saigne ş2020 If it Bleeds şTrad. ESCH Jean
+: .o .     N     _KING Stephen                Rat ş2020 Rat şTrad. ESCH Jean
+o GLIVM       ?  2021.11 ..... ISBN ?
+} noimg          _?                           ?
+!--- GF - 155x240 - 336 pages
+- .o .     R     _KING Stephen                AprŠs ş2020 Later şTrad. ESCH Jean
 
 
 

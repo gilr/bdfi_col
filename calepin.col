@@ -1,42 +1,41 @@
 
 !-----------------------------------------------------------------------------
 _ CALJ    Le Calepin Jaune
-_ CALJ_C  Le Calepin Jaune, Collector
-_ CALJREC Le Calepin Jaune, les recueils du Calepin Jaune
-_ CALJABS Le Calepin Jaune, Coll. Absinthes
-_ CALJVEL Le Calepin Jaune, Coll. Passe-Velours
-_ CALJINC Le Calepin Jaune, Coll. Incarnats
+_ CALJ_C  Le Calepin Jaune - Collector
+_ CALJREC Le Calepin Jaune - les recueils du Calepin Jaune
+_ CALJABS Le Calepin Jaune - Absinthes
+_ CALJVEL Le Calepin Jaune - Passe-Velours
+_ CALJINC Le Calepin Jaune - Incarnats
 !-----------------------------------------------------------------------------
 !--- Le Calepin Jaune (fanzines des litt‚ratures de l'imaginaire)
 !--- www.geocities.com/lecalepinjaune
 !--- BP127 - 32003 Auch C‚dex
 !--- 
 !-----------------------------------------------------------------------------
-_ CALJ01  <b>in</b> Le Calepin Jaune nø 4 et 5
-o CALJ01      ?  2004.xx ..... ISBN .-.....-...-.
+!--- En feuilleton : 
+!-----------------------------------------------------------------------------
+o CALJ        ?  2004.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 4 et 5
 - .oF.     N     _MAIA Emmanuelle             La ChaŒne þ2004-2005
-!-----------------------------------------------------------------------------
-_ CALJ02  <b>in</b> Le Calepin Jaune nø 5, 6 et 7
-o CALJ02      ?  2005.xx ..... ISBN .-.....-...-.
+o CALJ        ?  2005.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 5, 6 et 7
 - .o .     N     _LARA L‚onor                 Vous m'avez fait former des chimŠres þ2005
-!-----------------------------------------------------------------------------
-_ CALJ03  <b>in</b> Le Calepin Jaune nø 6 et 7
-o CALJ03      ?  2005.xx ..... ISBN .-.....-...-.
+o CALJ        ?  2005.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 6 et 7
 - .o .     N     _CABASSON Armand             Les Riches Heures gothiques victoriennes de Lord Soffen þ2005
-!-----------------------------------------------------------------------------
-_ CALJ04  <b>in</b> Le Calepin Jaune nø 6, 7, 8 et 9
-o CALJ04      ?  2005.xx ..... ISBN .-.....-...-.
+o CALJ        ?  2005.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 6, 7, 8 et 9
 - .o .     N     _CERQUEUX Renaud             Voyage … Bain þ2005
-!-----------------------------------------------------------------------------
-_ CALJ05  <b>in</b> Le Calepin Jaune nø 14 et 15
-o CALJ05      ?  2007.xx ..... ISBN .-.....-...-.
+o CALJ        ?  2007.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 14 et 15
 - .o .     N     _ROLLET Thierry              Volontaires pour la mort noire þ2007
 !-----------------------------------------------------------------------------
+
 o CALJ        0  2003.12 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oF.    _M7    ****                         Le Calepin Jaune nø 0 (d‚cembre 2003) þ2003
@@ -235,9 +234,9 @@ o CALJ        ?  2008.02 ..... ISBN 978-2-9528966-1-0
 : .oF.     N     _SILHOL L‚a                  Vertigo Eyes þ2008
 : .oF.     N     _SILHOL L‚a                  Father Lucifer þ2008
 : .oF.     N     _SILHOL L‚a                  Gone Fading Everything þ2008
-: .o .     N     _SILHOL L‚a                  Mille ans de servitude [Tryptique du Mill‚naire - 1] þ1999
-: .o .     N     _SILHOL L‚a                  Tous des anges [Tryptique du Mill‚naire - 2] þ2000
-: .o .     N     _SILHOL L‚a                  La Faille c‚leste [Tryptique du Mill‚naire - 3] þ2000
+: .o .     N     _SILHOL L‚a                  Mille ans de servitude [Triptyque du Mill‚naire - 1] þ1999
+: .o .     N     _SILHOL L‚a                  Tous des anges [Triptyque du Mill‚naire - 2] þ2000
+: .o .     N     _SILHOL L‚a                  La Faille c‚leste [Triptyque du Mill‚naire - 3] þ2000
 o CALJ_C      ?  2008.02 ..... ISBN 978-2-9528966-6-5
 } calj_foveacoll _?                           ?
 - .oF.    iNx    _SILHOL L‚a                  Fo/v‚a [Error_Type - 1] þ2008
@@ -271,7 +270,7 @@ o CALJREC     2  2005.01 ..... ISBN .-.....-...-.
 !--- Collection Absinthes - fantastique situ‚ au 19iŠme siŠcle
 !-----------------------------------------------------------------------------
 o CALJABS     ?  2007.xx ..... ISBN 978-2-9528966-0-3
-} noimg          _?                           ?
+} calabs_2007    _?                           ?
 - .oF.    _C10   _VALLS DE GOMIS Estelle      Les Gentlemen de l'‚trange [Les Gentlemen de l'‚trange - 1] þ2004-2007
 : .oF.     N     _VALLS DE GOMIS Estelle      Un cigare pour Manfred þ2004
 : .oF.     N     _VALLS DE GOMIS Estelle      Le Zburator þ2004
@@ -284,15 +283,35 @@ o CALJABS     ?  2007.xx ..... ISBN 978-2-9528966-0-3
 : .oF.     N     _VALLS DE GOMIS Estelle      Promenade Londonienne þ2007
 : .oF.     N     _VALLS DE GOMIS Estelle      Double vue þ2007
 o CALJABS     ?  2008.04 ..... ISBN 978-2-9528966-8-9
-} noimg          _?                           ?
-- .oF.    iA21   *VALLS DE GOMIS Estelle      Le Fantastique des f‚tichistes þ2008
-: .o .     N     _CABASSON Armand             Le Palais des eaux þ2008
-: .o .     N     _LARA L‚onor                 Villa Vesper þ2008
+} calabs_2008    _?                           ?
+!--- 234 pages - 15x21 cm
+- .oF.     A21   *VALLS DE GOMIS Estelle      Le Fantastique des f‚tichistes þ2008
+: .o .     p     _VALLS DE GOMIS Estelle      Vous m'avez rendue folle, je vous ai rendu hommage þ2008
+: .o .     N     _ASSELINEAU Charles          La Jambe þ1858
+: .o .     N     _ERCKMANN-CHATRIAN           La Tresse noire þ1859
+: .o .     N     _LOUYS Pierre                Lˆda ou la Louange des bienheureuses t‚nŠbres þ?
+: .o .     N     _MERIMEE Prosper             Il Viccolo di Madama Lucrezia þ[1846],1873
+: .o .     N     _GAUTIER Th‚ophile           Le Pied de momie þ1840
+: .o .     N     _LORRAIN Jean                R‚clamation posthume þ1895
+: .o .     N     _VOGUE EugŠne-Melchior de    Le Portrait du Louvre þ?
+: .o .     N     _MOUTON EugŠne               La V‚nus de Milo þ?
+: .o .     X     _PELADAN Jos‚phin            Frontispice (extrait de : Le Vice suprˆme) þ1884
+: .o .     N     _VILLIERS DE L'ISLE-ADAM     L'Inconnue þ1876
+: .o .     N     _GOGOL Nicolas               Le Manteau þ1843 Chinel' þTrad. MONGAULT Henri
+: .o .     a     _NODIER Charles              Le Bibliomane þ?
+: .o .     N     _MAUPASSANT Guy de           Un cas de divorce þ1886
+: .o .     X     _WILDE Oscar                 Le Portrait de Dorian Gray (chapitre onze) þ1891 The Picture of Dorian Gray
+: .o .     X     _HUYSMANS Joris-Karl         A rebours (chapitre huit) þ1884
 : .oF.     N     _BOUSQUET Charlotte          Doigts de f‚es þ2008
-?--- Sans doute trois villes de "Metrophilias" ...
-?: .o .     N     _CONNELL Brendan             Le Triptyque de M‚trophilia þ? ?
+!--- TBD : Peut-ˆtre trois villes de "Metrophilia" ? :
+: .o .     N     _CONNELL Brendan             Le Triptyque de M‚trophilia þ? ?
+: .o .     N     _KISKA Marc                  Laceboy þ2008
+: .o .     N     _CABASSON Armand             Le Palais des eaux þ2008
+: .o .     N     _PRETOT Marie-AngŠle         La Chevelure þ2008
+: .o .     N     _LARA L‚onor                 Villa Vesper þ2008
 o CALJABS     ?  2009.02 ..... ISBN 978-2-917372-16-6
-}calp_masqfemmes _?                           N
+} calp_masqfemmes _?                          N
+!--- ISBN indiqu‚ 978-2-918265-00-9 (erron‚)
 - .oF.    _N13   _CARAU Cyril                &Masques de femmes þ2009
 &                _DARCO Elie                  
 : .oF.     N     _CARAU Cyril                &Les N‚cropoles du destin þ2009
@@ -315,7 +334,7 @@ o CALJABS     ?  2009.02 ..... ISBN 978-2-917372-16-6
 !--- Collection Passe-Velours - fantastique
 !-----------------------------------------------------------------------------
 o CALJVEL     ?  2008.02 ..... ISBN 978-2-9528966-7-2
-} noimg          _?                           ?
+} calpasv4       _?                           ?
 - .oF.    kRN3   _BOUSQUET Charlotte          Lettres aux t‚nŠbres þ2008
 : .oF.     R     _BOUSQUET Charlotte          Lettres aux t‚nŠbres þ2008
 : .oF.    kN2r   _BOUSQUET Charlotte          Contes au clair de Lune þ2008
@@ -323,7 +342,7 @@ o CALJVEL     ?  2008.02 ..... ISBN 978-2-9528966-7-2
 = .oF.     N     _BOUSQUET Charlotte          Coeur de t‚nŠbres þ2008
 = .oF.     r     _BOUSQUET Charlotte          Ballade du temps retrouv‚ þ2008
 o CALJVEL     ?  2008.06 ..... ISBN 978-2-9528966-9-6
-} noimg          _?                           ?
+} calpasv1       _?                           ?
 - .oF.     N14   _NIOGRET Justine             Et toujours le bruit de l'orage þ2008
 : .oF.     N     _NIOGRET Justine             Je suis un soir d'‚t‚ þ2007
 : .o .     N     _NIOGRET Justine             Les Autres þ2007
@@ -340,15 +359,33 @@ o CALJVEL     ?  2008.06 ..... ISBN 978-2-9528966-9-6
 : .o .     N     _NIOGRET Justine             Le Jour de la Belladone þ2008
 : .o .     N     _NIOGRET Justine             Deux ou trois choses que je sais de vous þ2008
 o CALJVEL     ?  2008.07 ..... ISBN 978-2-9528966-5-8
-} noimg          _?                           ?
-- .oF.    iA17   *BOUSQUET Charlotte          Le Cr‚puscule des loups þ2008
-: .oS.     N     _CHENU Lucie                 Fille-mŠre þ2008
+} calpasv3       _?                           ?
+- .oF.     A17   *BOUSQUET Charlotte          Le Cr‚puscule des loups þ2008
+: .o .     p     _GUILLAUD Mauric             Le Chant de la meute þ2008
+: .o .     p     _BOUSQUET Charlotte          Introduction þ2008
 : .o .     N     _DAU Nathalie                Entre chien et loup þ2008
+: .o .     N     _SEIGNOLLE Claude            La Morsure þ1974
+: .o .     N     _MARIGNY Jean                Loup y es-tu ? þ2008
+: .o .     N     _DAVAT Marie-Sophie          Sur la route de mes ancˆtres þ2008
+: .o .     N     _PEIGNARD Yannick            Un poil sous la peau þ2008
+: .o .     N     _CORNILLON Christophe        BrŠve rencontre þ2008
+: .o .     N     _MENOLLY                     Le Chant du loup þ2008
+: .o .     N     _HERVET Thomas               Tequila Sunrise þ2008
+: .o .     N     _COLOMBI Denis               Le Chƒteau des loups þ?
+: .! .     P     _LA FONTAINE Jean de         Le Loup et le Chien þ?
+: .o .     N     _DABAT Sophie                La Nuit de la louve þ2008
+: .o .     N     _MOGA Fr‚d‚ric               Le Clown et le Loup þ2008
+: .oS.     N     _CHENU Lucie                 Fille-mŠre þ2008
+: .o .     N     _HAY Tepthida                La Complainte des nuits indiennes þ2008
+: .o .     N     _VALLS DE GOMIS Estelle      En attendant Louis... þ2008
+: .o .     N     _LECONTE DE LISLE            L'Incantation du loup þ?
+: .o .     N     _CLUZEAU Nicolas             Rage þ2008
 o CALJVEL     ?  2008.11 ..... ISBN 978-2-917372-04-3
-} noimg          _?                           ?
+} calpasv2       _?                           ?
 - .oF.     r     _DUCHEMIN G‚rald             La Laiteuse et son chat þ2008
 o CALJVEL     ?  2008.12 ..... ISBN 978-2-917372-12-8
-} noimg          _?                           ?
+} calpasv5       _?                           Fabien Ferandez, Jijic‚, Estelle Valls de Gomis
+!--- 112 pages - MF - 14.8 x 21 cm - 20 euros
 - .oF.    _N11   _BOUSQUET Charlotte          Prysmes þ2008
 : .oF.     N     _BOUSQUET Charlotte          D'or et de sang þ2007
 : .oF.     N     _BOUSQUET Charlotte          La Bailadora þ2008

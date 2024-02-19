@@ -1,6 +1,6 @@
 
 !-----------------------------------------------------------------------------
-_ OLLEND  Ed. Ollendorf
+_ OLLEND  Ollendorf
 _ OLLENDP Soci‚t‚ d'‚ditions litt‚raires et artistiques Librairie Paul Ollendorf
 !-----------------------------------------------------------------------------
 !--- Editions Ollendorf
@@ -16,9 +16,10 @@ o OLLEND      ?     ?.xx ..... ISBN -
 - .o .     R     _BERGER E.                   La Merveilleuse Aventure ş?
 o OLLEND      ?  1891.xx ..... ISBN -
 } noimg          _?                           ?
+!--- TBD si les sous-recueils (N18 Coeur double et N16 La L‚gende des gueux) sont identifi‚s
+!--- Conte des oeufs dans le sommaire
 - .oF.    kN34   _SCHWOB Marcel               Coeur double ş1891
 : .oF.     p     _SCHWOB Marcel               Pr‚face ş1891
-!---      kN18   _SCHWOB Marcel               Coeur double ş1891
 : .oF.     N     _SCHWOB Marcel               Les Striges ş1891
 : .oF.     N     _SCHWOB Marcel               Le Sabot ş1891
 : .o .     N     _SCHWOB Marcel               Les Trois Gabelous ş1891
@@ -36,9 +37,7 @@ o OLLEND      ?  1891.xx ..... ISBN -
 : .o .     N     _SCHWOB Marcel               Sur les dents ş1891
 : .o .     N     _SCHWOB Marcel               L'Homme gras ş1891
 : .o .     N     _SCHWOB Marcel               Le Conte des oeufs ş1891
-!--- Conte des oeufs dans le somaire
 : .o .     N     _SCHWOB Marcel               Le Dom ş1891
-!---      kN16   _SCHWOB Marcel               La L‚gende des gueux ş1891
 : .o .     N     _SCHWOB Marcel               L'ƒge de la pierre polie - La Vendeuse d'ambre ş1891
 : .o .     N     _SCHWOB Marcel               L'poque romaine - La Moisson Sabine ş1890
 : .o .     N     _SCHWOB Marcel               QuatorziŠme siŠcle - Les Routiers - M‚rigot MarchŠs ş1891
@@ -57,8 +56,8 @@ o OLLEND      ?  1891.xx ..... ISBN -
 : .o .     N     _SCHWOB Marcel               La Terreur future ş1891
 o OLLEND      ?  1892.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.    kN21   _SCHWOB Marcel               Le Roi au masque d'or ş1892
 !--- Note : Bargette fut ensuite int‚gr‚e au Livre de Monelle, sous "La D‚‡ue"
+- .oF.    kN21   _SCHWOB Marcel               Le Roi au masque d'or ş1892
 : .o .     p     _SCHWOB Marcel               Pr‚face ş1892
 : .o .     N     _SCHWOB Marcel               Le Roi au masque d'or ş1892
 : .o .     N     _SCHWOB Marcel               La Mort d'Odjigh ş1892
@@ -108,7 +107,7 @@ o OLLENDP     ?  1909.xx ..... ISBN -
 !--- de fabrication du diamant malgr‚ une pierre de taille inhabituelle
 !--- exhib‚e, il ne sera pas entendu) peut ˆtre class‚ aussi dans Hors Genres.
 : .o .     N     _WELLS Herbert George        L'Œle de l'AEpyornis ş1894 The Aepyornis Island
-: .o .     N     _WELLS Herbert George        "Deux ex machina" ş1894 The Lords of the Dyanamos
+: .x .     N     _WELLS Herbert George        "Deus ex machina" ş1894 The Lord of the Dynamos
 : .o .     N     _WELLS Herbert George        L'Histoire de Plattner ş1896 The Plattner Story
 : .o .     N     _WELLS Herbert George        A l'observatoire d'Avu ş1894 In the Avu Observatory
 : .o .     N     _WELLS Herbert George        Une orchid‚e extraordinaire ş1894 The Flowering of the Strange Orchid / The Strange Orchid
@@ -120,14 +119,20 @@ o OLLENDP     ?  1909.xx ..... ISBN -
 : .x .     N     _WELLS Herbert George        Une affaire d'autruches ş1894 A Deal in Ostriches
 : .oF.     N     _WELLS Herbert George        Le PhalŠne ş1895 A Moth - Genus Novo / The Moth
 : .x .     N     _WELLS Herbert George        Mon h‚ritage ş1897 The Lost Inheritance
-: .x .     N     _WELLS Herbert George        Le Vol du microbe ş1894 The Stolen Bacillus
+: .o .     N     _WELLS Herbert George        Le Vol du microbe ş1894 The Stolen Bacillus
 : .x .     N     _WELLS Herbert George        Le Tr‚sor du Radjah ş1896 The Rajah's Treasure
+o OLLEND      ?  1914.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 252 pages - In-18
+- .p .    iNx    _GREFFIER D‚sir‚             Cinquante piŠces … dire, r‚cits et monologues en vers ş1914
+: .o .     N     _GREFFIER D‚sir‚             L'Alchimiste ş1914
+
 o OLLENDP     ?  1923.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.    iNx    _CAZAL Edmond                Les Nuits de l'Alhambra ş1923
 
 !-----------------------------------------------------------------------------
-_ OLL_RMO Ed. Ollendorf, Coll. "Le roman de mer et d'Outremer"
+_ OLL_RMO Ollendorf - Le roman de mer et d'Outremer
 !-----------------------------------------------------------------------------
 o OLL_RMO     ?  1922.xx ..... ISBN -
 } noimg          _?                           ?

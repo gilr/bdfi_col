@@ -1,14 +1,17 @@
+!-----------------------------------------------------------------------------
+_ ZULMA   Zulma ş1991
+!-----------------------------------------------------------------------------
+_ ZULMAGO Zulma - Grain d'Orage ş1996
+!-----------------------------------------------------------------------------
+_ ZULMAZA Zulma - Za [poche] ş2013
+!-- 18 cm - de 1 … 54 (ensuite, non num‚rot‚s)
+!-----------------------------------------------------------------------------
+_ ZULMADI Zulma - Dilecta ş2005
+!-----------------------------------------------------------------------------
 
-!-----------------------------------------------------------------------------
-_ ZULMA   Zulma
-_ ZULMAGO Zulma, Grain d'Orage
-_ ZULMAVV Zulma, Le Visage Vert
-_ ZULMAZA Zulma, Za (poche)
-_ ZULMADI Zulma, Dilecta
-!-----------------------------------------------------------------------------
 o ZULMA       ?  1991.xx ..... ISBN 2-909031-04-7
-!--- TBC r‚‚d. 1998 ?
 } noimg          _?                           ?
+!--- 303 pages - 13 x 21 cm - 120 francs
 - .oF.     R     _ABEILLE Jacques             La Clef des ombres [Le Cycle des chambres][Le Cycle des contr‚es] ş1991
 o ZULMAGO     ?  1998.xx ..... ISBN 2-84304-027-2
 } zulma_027      _?                           ?
@@ -16,7 +19,8 @@ o ZULMAGO     ?  1998.xx ..... ISBN 2-84304-027-2
 - .oS.    iCx    _FARRACHI Armand             Les Argolides ş1998
 o ZULMA       ?  1998.xx ..... ISBN 2-84304-028-0
 } noimg          _?                           ?
-- .oF.     R     _FARRACHI Armand             Un amour de Dracula ş1998
+!--- 17 cm - 117 pages - 49 Francs
+- .oF.     r     _FARRACHI Armand             Un amour de Dracula ş1986
 o ZULMA       ?  1999.09 R.... ISBN 2-84304-081-7
 } noimg          _?                           ?
 - .oF.    =R     _PAYEN Jean-Luc              N‚crologies ş1999
@@ -60,6 +64,7 @@ o ZULMA       ?  2010.03 ..... ISBN 978-2-84304-301-7
 : .o .     N     _CHATEAUREYNAUD G.-O.        Zinzolins et nacarats ş1989
 o ZULMA       ?  2011.10 ..... ISBN 978-2-84304-568-4
 } zulma_568      _?                           ?
+!--- "La Loi Cioran", In revue D‚capage nø 38, 2009
 - .oFM    kN22   _BLAS DE ROBLES Jean-Marie   La M‚moire de riz ş1982-2011
 : .oF.     N     _BLAS DE ROBLES Jean-Marie   L'Illusionniste ş?
 : .oF.     N     _BLAS DE ROBLES Jean-Marie   Charles Boquet : artiste peintre ş?
@@ -68,7 +73,6 @@ o ZULMA       ?  2011.10 ..... ISBN 978-2-84304-568-4
 : .oF.     N     _BLAS DE ROBLES Jean-Marie   La M‚moire de riz ş?
 : .oF.     N     _BLAS DE ROBLES Jean-Marie   La Faute de monsieur Lucien ş?
 : .oF.     N     _BLAS DE ROBLES Jean-Marie   La Loi Cioran ş2009
-!--- In revue D‚capage nø 38, 2009
 : .oF.     N     _BLAS DE ROBLES Jean-Marie   Le Reliquaire de Santorin ş?
 : .oF.     N     _BLAS DE ROBLES Jean-Marie   Le Quartette d'Alexandrie ş?
 : .oF.     N     _BLAS DE ROBLES Jean-Marie   L'chiquier de Saint-Louis ş?
@@ -84,10 +88,17 @@ o ZULMA       ?  2011.10 ..... ISBN 978-2-84304-568-4
 : .oF.     N     _BLAS DE ROBLES Jean-Marie   Souraya ş?
 : .oF.     N     _BLAS DE ROBLES Jean-Marie   L'tablissement du docteur Auzoux ş?
 : .oF.     N     _BLAS DE ROBLES Jean-Marie   L'Oncle F‚lix ş?
+o ZULMAZA     5  2013.xx ..... ISBN 978-2-84304-660-5
+} noimg          _?                           ?
+!--- Poche - 115 x 175 - 288 pages - 9,95 euros
++ ZULMAZA     ?  2021.05 ..... ISBN 979-10-387-0039-0
+} noimg          _?                           ?
+!--- Poche - 115 x 175 - 288 pages - 10,95 euros
+- .o .     R     _KARINTHY Ferenc             Ep‚p‚ ş1970 Ep‚p‚ şTrad. KARINTHY Judith & Pierre
 o ZULMAZA     6  2013.10 ..... ISBN 978-2-84304-665-0
 } noimg          _?                           ?
-- .oF.    kN11   _CHATEAUREYNAUD G.-O.        Singe savant tabass‚ par deux clowns ş2005
 !--- nouvelles de 1990 … 2002
+- .oF.    kN11   _CHATEAUREYNAUD G.-O.        Singe savant tabass‚ par deux clowns ş2005
 : .o .     N     _CHATEAUREYNAUD G.-O.        La Seule Mortelle ş2005
 : .o .     N     _CHATEAUREYNAUD G.-O.        Les Ormeaux ş1996
 : .o .     N     _CHATEAUREYNAUD G.-O.        Civils de plomb ş1998
@@ -101,24 +112,40 @@ o ZULMAZA     6  2013.10 ..... ISBN 978-2-84304-665-0
 : .o .     N     _CHATEAUREYNAUD G.-O.        La Rue douce ş2005
 o ZULMAZA    16  2014.09 ..... ISBN 978-2-84304-708-4
 } noimg          _?                           ?
-- .oF.     R     _PERUTZ Leo                  Le MaŒtre du jugement dernier ş1923 Der meister des juengsten tages şTrad. CAPELE Jean-Claude
+- .oF.     R     _PERUTZ Leo                  Le MaŒtre du jugement dernier ş1923 Der meister des jngsten tages şTrad. CAPELE Jean-Claude
 o ZULMA       ?  2015.01 ..... ISBN 978-2-84304-700-8
 } noimg          _?                           N
 - .oS.     R     _MAGNASON Andri Snaer        LoveStar ş2002 LoveStar şTrad. BOURY Eric
 o ZULMA      30  2016.10 ..... ISBN 978-2-84304-709-1
 } noimg          _?                           ?
 - .oF.     R     _PERUTZ Leo                  La Neige de Saint Pierre ş1933 St Petri-Schnee şTrad. CAPELE Jean-Claude
+o ZULMAZA    34  2017.xx ..... ISBN 978-2-84304-795-4
+} noimg          _?                           ?
+- .oS.     R     _WABERI Abdourahman A.       Aux Etats-Unis d'Afrique ş2006
 o ZULMAZA    39  2017.10 ..... ISBN 978-2-84304-808-1
 } noimg          _?                           ?
 - .oS.     R     _CHATEAUREYNAUD G.-O.        L'Autre Rive ş2007
+o ZULMA       ?  2020.01 ..... ISBN 978-2-8430-4929-3
+} noimg          _?                           ?
+!--- GF - 140 x 210 - 225 pages
+- .o .     R     _HAGY Alyson                 Les Soeurs de Blackwater ş2018 Scribe şTrad. FAUQUEMBERG David
+o ZULMA       ?  2021.04 ..... ISBN 979-10-387-0023-9
+} noimg          _David Pearson               ?
+!--- GF - 140 x 210 - 397 pages
+- .oS.     R     _THEROUX Marcel              Au nord du monde ş2009 Far North şTrad. ROQUES St‚phane
+o ZULMA       ?  2022.01 ..... ISBN 979-10-387-0001-7
+} noimg          _?                           ?
+!--- GF - 140x210 - 384 pages
+- .oS.     R     _BRANTENBERG Gerd            Les Filles d'Egalie ş1977 Egalias d›tre şTrad. COURSAUD Jean-Baptiste
+
 
 
 
 !--- 2 coffrets de 5 livres de 128 pages exactement :
-o ZULMA       ?  2011.02 ..... ISBN 978-2-84304-526-4
-} zulma_jour     _?                           ?
-- .oFK    iNx    _HADDAD Hubert               Nouvelles du jour et de la nuit : le jour [Nouvelles du jour et de la nuit] ş2011
-!---  Pas un livre... idem
+?o ZULMA       ?  2011.02 ..... ISBN 978-2-84304-526-4
+?} zulma_jour     _?                           ?
+?- .oFK    iNx    _HADDAD Hubert               Nouvelles du jour et de la nuit : le jour [Nouvelles du jour et de la nuit] ş2011
+!---  Pas un livre... mais une boŒte ! 13.5x20x7 qui contient 5 volumes de 128 pages
 ?: .oFK    iNx    _HADDAD Hubert               Le Cabaret de la mŠre folle [Nouvelles du jour et de la nuit] ş2011
 ?: .oFK    iNx    _HADDAD Hubert               Le Souffle de l'Agone [Nouvelles du jour et de la nuit] ş2011
 ?: .oFK    iNx    _HADDAD Hubert               Le Soleil des scorpions [Nouvelles du jour et de la nuit] ş2011
@@ -139,10 +166,10 @@ o ZULMA       ?  2011.02 ..... ISBN 978-2-84304-526-4
 o ZULMA       ?  2011.02 ..... ISBN 978-2-84304-526-4
 } zulma_jour5    _?                           ?
 - .oFK    iNx    _HADDAD Hubert               Le Jardinier et le faux nŠgre [Nouvelles du jour et de la nuit] ş2011
-o ZULMA       ?  2011.02 ..... ISBN 978-2-84304-527-1
-} zulma_nuit     _?                           ?
-- .oFK    iNx    _HADDAD Hubert               Nouvelles du jour et de la nuit : la nuit [Nouvelles du jour et de la nuit] ş2011
-!---  Pas un livre... mais une boŒte ! 13.5x20x7 qui contient 5 volumes de 128 ages
+?o ZULMA       ?  2011.02 ..... ISBN 978-2-84304-527-1
+?} zulma_nuit     _?                           ?
+?- .oFK    iNx    _HADDAD Hubert               Nouvelles du jour et de la nuit : la nuit [Nouvelles du jour et de la nuit] ş2011
+!---  Pas un livre... mais une boŒte ! 13.5x20x7 qui contient 5 volumes de 128 pages
 ?: .oFK    iNx    _HADDAD Hubert               L'Inconnu du terminal Beaufor [Nouvelles du jour et de la nuit] ş2011
 ?: .oFK    iNx    _HADDAD Hubert               Juliette avant la nuit [Nouvelles du jour et de la nuit] ş2011
 ?: .oFK    iNx    _HADDAD Hubert               Le Robot m‚lancolique [Nouvelles du jour et de la nuit] ş2011
@@ -172,56 +199,4 @@ o ZULMA       ?  2011.02 ..... ISBN 978-2-84304-527-1
 ?: .oF.     N     _HADDAD Hubert               Le Pont renvers‚ ş?
 ?: .oF.     N     _HADDAD Hubert               La Fabrique humaine ş?
 ?: .oF.     N     _HADDAD Hubert               Le Prince d'automne ş?
-
-o ZULMAVV    14  2007.06 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 14 ş2007
-o ZULMAVV    15  2008.06 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 15 ş2008
-?: .o .     N     _? (SALZMAN / HOMASSEL)      M‚moire de l'oeil ş2008
-o ZULMAVV    16  2009.06 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 16 ş2009
-: .oF.     N     _AUERBACH Johannes Ilmari    Le Concours de suicide ş1921 Der Selbstm”rderwettbewerb şTrad. WILLENZ Elisabeth
-?: .o .     a     _BLOCH Robert N.             Johannes Ilmari Auerbach ş2009 ? şTrad. WILLENZ Elisabeth
-?: .o .     a     _DUCOS Fran‡ois              Chroniques des t‚nŠbres : Nick Carte ş2009
-?: .o .     a     _VAN RENSSELAER DEY F.       Comment j'ai ‚crit un millier d'aventures de Nick Carter ş2009 ? şTrad. David Isabelle
-?!--- VAN RENSSELAER DEY Frederick
-: .o .     N     _BURRAGE A.M.                Le Vent dans le grenier ş1922 The Wind in the Attic şTrad. GAULARD Norbert
-: .o .     X     _MEI Yuan                    Zi Bu Yu (Ce dont le MaŒtre ne parle pas) (Extrait de roman) ş1788 ZBY şTrad. Kazer Pierre
-: .o .     N     _MEI Yuan                    Huit contes vulpins du Zi Bu Yu ş1788 ZBY (Extrait de roman) ş? ?
-?: .o .     a     _KASER Pierre                Yuan Mei et son Zi Bu Yu ş2009
-: .o .     N     _LERMINA Jules               L'corch‚ vivant ş1869
-?: .o .     a     _SOLAL J‚r“me                Lermina et le supplice chinois des dix mille morceaux ş2009
-: .o .     N     _LERMINA Jules               Au-del… ! ş1888
-?: .o .     N     _VON GRIMMELSHAUSEN H.J.C.   Le Bal des sorciŠres ş2009 ? şTrad. Michel Meurger
-!--- VON GRIMMELSHAUSEN Hans Jakob Christoffel
-?: .o .     a     _MEURGER Michel              Hans Jakob Christoffel Von Grimmelshausen ou les d‚sastres de la guerre ş2009
-: .o .     N     _STROBL Karl Hans            Le Juge des sorciŠres ş1901 Des hexenrichter şTrad. WILLENZ Elisabeth
-?: .o .     a     _MEURGER Michel              Karl Hans Strobl. La chair et le diable ş2009
-: .o .     N     _WATZLIK Hans                La Pie sorciŠre ş1928 Die Hexenelster şTrad. Elisabeth Willenz
-?: .o .     a     _MEURGER Michel              D'un pays perdu, Hans Watzlik ş2009
-: .o .     N     _STIEFENER Michael           La Tentation ş2009 ? şTrad. Elisabeth Willenz
-?: .o .     a     _MEURGER Michel              "Gravissons le Brocken ensemble". Le thŠme sorcellaire dans la litt‚rature germanophone de Grimmelshausen … Strobl ş2009
-o ZULMAVV    17  2010.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .oF.     Mx    ****                         Le Visage Vert nø 17 ş2010
-: .o .     N     _VERGER Romain               Sylvia ş2010
-: .o .     N     _VERGER Romain               Aux champignons ş2010
-: .o .     N     _VERGER Romain               Vlad ş2010
-: .o .     N     _GAUTIER Judith              La Fleur-Serpent ş1882
-: .o .     N     _HUGHES Rhys                 La D‚confiture d'Hypnos ş2003 The Jam of Hypnos şTrad. Piere-Paul Durastanti
-: .o .     N     _FRANCK Paul                 La Gueule ş1922 Das Maul şTrad. Elisabeth Willenz
-: .o .     N     _FRANCK Paul                 La Mort de Dick Silverside ş1914 Dick Silversides Tod şTrad. Elisabeth Willenz
-?: .o .     a     _BLOCH Robert N.             Paul Frank ş2010
-: .o .     N     _DES ROCHES Jean            &L'Alkekenge ş1882
-&                _UBERTINI Cesare             
-: .o .     N     _RIQUELME Cristian Vila      Nautilus ş2001 Nautilus şTrad. Philippe Muller
-: .o .     N     _RIQUELME Cristian Vila      Retour ş2001 Vuelta şTrad. Philippe Muller
-: .o .     N     _SALMONSON Jessica A.        La Femme qui avait ‚pous‚ un phoque ş1995 The Woman Whose Husband Was a Seal şTrad. Anne-Sylvie Homassel
-: .o .     N     _BENSON Edward F.            La Corne d'‚pouvante ş1922 The Horror-Horn şTrad. Anne-Sylvie Homassel
-: .o .     N     _BUCHAN John                 Skule Skerry ş1928 Skule Skerry şTrad. Anne-Sylvie Homassel
-: .o .     N     _BUSSON Paul                 La Pierre qui fume ş1919 Der rauchende Stein şTrad. MEURGER Michel & WILLENZ Elisabeth
-?: .o .     a     _MEURGER Michel              Danse avec le sylvain. Paul Busson et la nostalgie du dionysiaque ş2010
 

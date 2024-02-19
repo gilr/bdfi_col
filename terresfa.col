@@ -5,10 +5,10 @@
 
 !-----------------------------------------------------------------------------
 _ TBRUME  Terre de Brume
-_ TBRU_SF Terre de Brume, Coll. SF
-_ TBRU_PE Terre de Brume, Coll. PoussiŠres d'‚toiles
-_ TBRU_PG Terre de Brume, Coll. Polars & Grimoires
-_ TBRU_BL Terre de Brume, Coll. Beaux Livres
+_ TBRU_SF Terre de Brume - SF
+_ TBRU_PE Terre de Brume - PoussiŠres d'‚toiles
+_ TBRU_PG Terre de Brume - Polars & Grimoires
+_ TBRU_BL Terre de Brume - Beaux Livres
 !-----------------------------------------------------------------------------
 !--- Terre de Brume "Litt‚ratures"
 !-----------------------------------------------------------------------------
@@ -75,66 +75,66 @@ o TBRUME      ?  2018.09 ..... ISBN 978-2-84362-653-1
 ?} noimg          _?                           ?
 ?- .oS.     R     _BALLARD James G.            Le Rˆveur illimit‚ ş1979 The Unlimited Dream Company şTrad. LOUIT Robert
 
-o TBRU_PE     3  2005.01 ..... ISBN 2-84362-246-8
-!--- TBC : printing 2004.10, ou 2004.12 - DL 2005.01
+o TBRU_PE     ?  2005.01 ..... ISBN 2-84362-246-8
 } noimg          _?                           ?
+!--- TBC : printing 2004.10, ou 2004.12 - DL 2005.01
 - .oS.     R     _WYNDHAM John                Le Jour des Triffides ş1951 The Day of the Triffids şTrad. BATTIN Marcel et GUILLOT S‚bastien
-o TBRU_PE     4  2005.01 ..... ISBN 2-84362-251-4
+o TBRU_PE     ?  2005.01 ..... ISBN 2-84362-251-4
 !--- TBC : ou 2004.10
 } noimg          _?                           ?
 - .oS.     R     _HAMILTON Edmond             La Vall‚e de la cr‚ation ş1948-1964 The Valley of Creation şTrad. MARTIN Bruno + GUILLOT S‚bastien
-o TBRU_PE     5  2005.02 ..... ISBN 2-84362-259-X
+o TBRU_PE     ?  2005.02 ..... ISBN 2-84362-259-X
 } noimg          _?                           ?
 !--- Il semble que la date d'impression int‚rieure soit erron‚e (2004-01)
 - .oY.     R     _KILWORTH Garry              La Compagnie des f‚es ş1996 A Midsummer's Nightmare şTrad. TRUCHAUD Fran‡ois et GUILLOT S‚bastien
-o TBRU_PE     6  2005.03 ..... ISBN 2-84362-262-X
+o TBRU_PE     ?  2005.03 ..... ISBN 2-84362-262-X
 } noimg          _?                           ?
-- .oS.     R     _FARMER Philip Jos‚          Les Amants ‚trangers [Lovers] ş1961 The Lovers şTrad. DEUTSCH Michel
 !--- Expansion de la nouvelle de mˆme TO, parue en 1952
-o TBRU_PE     7  2005.04 ..... ISBN 2-84362-265-4
+- .oS.     R     _FARMER Philip Jos‚          Les Amants ‚trangers [Lovers] ş1961 The Lovers şTrad. DEUTSCH Michel
+o TBRU_PE     ?  2005.04 ..... ISBN 2-84362-265-4
 } tdbpe05        _?                           ?
-- .oY.     R3    _HAMBLY Barbara              Le Cycle de Darwarth [Le Cycle de Darwarth - 1/3] ş2005
-: .oY.     R     _HAMBLY Barbara              Les Forces de la nuit [Le Cycle de Darwarth - 1] ş1982 The Time of the Dark şTrad. MAILLET Fran‡oise
-: .oY.     R     _HAMBLY Barbara              Les Murs des t‚nŠbres [Le Cycle de Darwarth - 2] ş1983 The Walls of Air şTrad. MAILLET Fran‡oise
-: .oY.     R     _HAMBLY Barbara              Les Arm‚es du jour [Le Cycle de Darwarth - 3] ş1983 The Armies of Daylight şTrad. MAILLET Fran‡oise
-o TBRU_PE     8  2005.05 ..... ISBN 2-84362-268-9
+- .oY.     R3    _HAMBLY Barbara              Le Cycle de Darwath [Le Cycle de Darwath - 1/3] ş2005
+: .oY.     R     _HAMBLY Barbara              Les Forces de la nuit [Le Cycle de Darwath - 1] ş1982 The Time of the Dark şTrad. MAILLET Fran‡oise
+: .oY.     R     _HAMBLY Barbara              Les Murs des t‚nŠbres [Le Cycle de Darwath - 2] ş1983 The Walls of Air şTrad. MAILLET Fran‡oise
+: .oY.     R     _HAMBLY Barbara              Les Arm‚es du jour [Le Cycle de Darwath - 3] ş1983 The Armies of Daylight şTrad. MAILLET Fran‡oise
+o TBRU_PE     ?  2005.05 ..... ISBN 2-84362-268-9
 } noimg          _?                           ?
 - .oS.     R     _HEINLEIN Robert             R‚volte sur la Lune ş1966 The Moon Is a Harsh Mistress şTrad. TERSAC Jacques de + GUILLOT S‚bastien
-o TBRU_PE     9  2005.06 ..... ISBN 2-84362-271-9
+o TBRU_PE     ?  2005.06 ..... ISBN 2-84362-271-9
 } noimg          _?                           ?
-- .oS.     R     _HAMILTON Edmond             La Ville sous globe ş1951 The City at World's End şTrad. GREGOIRE Catherine + ELIROFf Thibaud
-o TBRU_PE    10  2005.09 ..... ISBN 2-84362-278-6
+- .oS.     R     _HAMILTON Edmond             La Ville sous globe ş1950-1951 The City at World's End şTrad. GREGOIRE Catherine + ELIROFf Thibaud
+o TBRU_PE     ?  2005.09 ..... ISBN 2-84362-278-6
 } noimg          _?                           ?
 - .oS.     R     _ATTANASIO A. A.             Radix ş1981 Radix şTrad. CARASSO Jean-Pierre
-o TBRU_PE    11  2005.10 ..... ISBN 2-84362-281-6
+o TBRU_PE     ?  2005.10 ..... ISBN 2-84362-281-6
 } tdbpe09        _?                           ?
 - .oS.     R2    _LYNN Elisabeth A.           Les Chroniques de Tornor [Les Chroniques de Tornor - 1/2] ş1979
 : .oS.     R     _LYNN Elisabeth A.           La Tour de guet [Les Chroniques de Tornor - 1] ş1979 Watchtower şTrad. BAKHTADZE El‚onore
 : .oS.     R     _LYNN Elisabeth A.           Les Danseurs d'Arun [Les Chroniques de Tornor - 2] ş1979 The Dancers of Arun şTrad. BAKHTADZE El‚onore
-o TBRU_PE    12  2005.12 ..... ISBN 2-84362-285-9
+o TBRU_PE     ?  2005.12 ..... ISBN 2-84362-285-9
 } tdbpe10        _Eric Scala                  ?
-- .oS.    _RN4   _FARMER Philip Jos‚          La Nuit de la lumiŠre [PŠre Carmody] ş2005
 !--- TBD 2006.04 chez ISFDB
+- .oS.    _RN4   _FARMER Philip Jos‚          La Nuit de la lumiŠre [PŠre Carmody] ş2005
 : .oS.     R     _FARMER Philip Jos‚          La Nuit de la lumiŠre [PŠre Carmody] ş1957-1966 Night of Light şTrad. WATKINS France-Marie
 : .oS.     N     _FARMER Philip Jos‚          L'Oeuf [PŠre Carmody] ş1960 A Few Miles
 : .oS.     r     _FARMER Philip Jos‚          Prom‚th‚e [PŠre Carmody] ş1961 Prometheus
 : .oS.     r     _FARMER Philip Jos‚          PŠre [PŠre Carmody] ş1955 Father
 : .oS.     N     _FARMER Philip Jos‚          Attitudes [PŠre Carmody] ş1953 Attitudes
-o TBRU_PE    13  2006.01 ..... ISBN 2-84362-282-4
+o TBRU_PE     ?  2006.01 ..... ISBN 2-84362-282-4
 } noimg          _?                           ?
 - .oS.     R     _LYNN Elisabeth A.           La Fille du nord [Les Chroniques de Tornor - 3] ş1980 The Northern Girl şTrad. LEBAILLY Monique
-o TBRU_PE    14  2006.02 ..... ISBN 2-84362-289-1
+o TBRU_PE     ?  2006.02 ..... ISBN 2-84362-289-1
 } noimg          _Stanley Meltzoff            ?
 !--- Suivi d'un article, "PremiŠres armes" de Ugo Bellagamba et Eric Picholle
 - .oS.     R     _HEINLEIN Robert             SixiŠme colonne ş1941 Sixth Column / The Day After Tomorrow şTrad. ENDREBE C‚cile
-o TBRU_PE    15  2006.04 ..... ISBN 2-84362-297-2
+o TBRU_PE     ?  2006.04 ..... ISBN 2-84362-297-2
 } noimg          _?                           ?
 - .oS.     R     _ASIMOV Isaac               &L'Enfant du temps ş1991 Child of Time şTrad. MOUSNIER-LOMPRE Arnaud
 &                _SILVERBERG Robert           
-o TBRU_PE    16  2006.05 ..... ISBN 2-84362-301-4
+o TBRU_PE     ?  2006.05 ..... ISBN 2-84362-301-4
 } noimg          _Eric Scala                  ?
 - .oY.     R     _CROWLEY John                L'Or‚e du bois [Le Parlement des f‚es - 1] ş1981 Little, Big şTrad. HEADLINE Doug + GUILLOT S‚bastien
-o TBRU_PE    17  2006.05 ..... ISBN 2-84362-300-6
+o TBRU_PE     ?  2006.05 ..... ISBN 2-84362-300-6
 } noimg          _Eric Scala                  ?
 - .oY.     R     _CROWLEY John                L'Art de la m‚moire [Le Parlement des f‚es - 2] ş1981 Little, Big şTrad. HEADLINE Doug + GUILLOT S‚bastien
 o TBRU_PE     ?  2006.xx ..... ISBN 978-2-84362-339-4
@@ -209,7 +209,7 @@ o TBRU_PE     ?  2009.06 ..... ISBN 978-2-82362-404-9
 
 
 !-----------------------------------------------------------------------------
-_ TBTINCO Terre de Brume, Coll. Terra Incognita
+_ TBTINCO Terre de Brume - Terra Incognita
 !-----------------------------------------------------------------------------
 o TBTINCO     ?  2008.06 ..... ISBN 978-2-84362-381-3
 } noimg          _?                           ?
@@ -234,11 +234,16 @@ o TBTINCO     ?  2020.10 ..... ISBN 978-2-84362-676-0
 } noimg          _Henrique Alvim-Corrˆa       ?
 !--- GF - 140 x 240 mm - 236 pages - 18,50 euros
 - .oS.     R     _WELLS Herbert George        La Guerre des mondes ş1898 The War of the Worlds şTrad. DAVRAY Henry D.
+o TBTINCO     9  2021.05 ..... ISBN 978-2-84362-683-8
+} noimg          _?                           ?
+!--- GF - 14 x 24 - 350 pages - 22 euros
+!--- Avant-propos de Brian Aldiss
+- .oS.     R     _STAPLEDON Olaf              Les Derniers et les Premiers ş1930 Last and First Men şTrad. SAUNIER Claude
 
 !-----------------------------------------------------------------------------
-_ TBTFANT Terre de Brume, Coll. Terres Fantastiques
-_ TBTFATT Terre de Brume, Coll. Terres Fantastiques, Edition de tˆte
-_ TBTMYST Terre de Brume, Coll. Terres Myst‚rieuses
+_ TBTFANT Terre de Brume - Terres Fantastiques
+_ TBTFATT Terre de Brume - Terres Fantastiques, Edition de tˆte
+_ TBTMYST Terre de Brume - Terres Myst‚rieuses
 !-----------------------------------------------------------------------------
 !--- Collection Terres fantastiques (1998-)
 !---
@@ -253,20 +258,20 @@ _ TBTMYST Terre de Brume, Coll. Terres Myst‚rieuses
 !------------------------
 o TBTFANT     ?  1998.xx R.... ISBN 2-84362-013-9
 } tdbtf01        _?                           ?
-- .oF.    _N14   _DUNSANY Lord                Le Livre des merveilles ş1912 The Book of Wonde, A Chronicle of Little Adventures at the Edge of the Worldr şTrad. AMOUROUX Marie
+- .oF.    _N14   _DUNSANY Lord                Le Livre des merveilles ş1912 The Book of Wonder, A Chronicle of Little Adventures at the Edge of the World şTrad. AMOUROUX Marie
 : .oF.     p     _DUNSANY Lord                Pr‚face ş1912 Preface şTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                La Fianc‚e du centaure ş1911 The Bride of the Man-Horse şTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                La Lamentable Histoire de Thangobrind le joaillier et de sa fin malheureuse ş1911 The Distressing Tale of Thangobrind the Jeweller and the Doom That Befell Him şTrad. AMOUROUX Marie
-: .oF.     N     _DUNSANY Lord                La Maison de la sphynge ş1912 The House of the Sphinx şTrad. AMOUROUX Marie
+: .oF.     N     _DUNSANY Lord                La Maison de la sphynge ş1911 The House of the Sphinx şTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                Ce qui arriva probablement aux trois ‚crivains ş1911 The Probably Adventure of the Three Literary Men şTrad. AMOUROUX Marie
-: .oF.     N     _DUNSANY Lord                L'Imprudente PriŠre de Pombo l'idolƒtre ş1912 The Injudicious Prayers of Pombo the Idolater şTrad. AMOUROUX Marie
+: .oF.     N     _DUNSANY Lord                L'Imprudente PriŠre de Pombo l'idolƒtre ş1910 The Injudicious Prayers of Pombo the Idolater şTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                La Prise de Bombasharna ş1910 The Loot of Bombasharna şTrad. AMOUROUX Marie
-: .oF.     N     _DUNSANY Lord                Miss Cubbidge et le dragon des l‚gendes ş1912 Miss Cubbidge and the Dragon of Romance şTrad. AMOUROUX Marie
+: .oF.     N     _DUNSANY Lord                Miss Cubbidge et le dragon des l‚gendes ş1911 Miss Cubbidge and the Dragon of Romance şTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                La Queste des larmes de la reine ş1910 The Quest of the Queen's Tears şTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                Le Tr‚sor des Gibbelins ş1911 The Hoard of the Gibbelins şTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                Comment Nuth aurait, paraŒt-il, exerc‚ son art sur les Gnoles ş1912 How Nuth Would Have Practised His Art Upon the Gnoles şTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                Comment quelqu'un entra, ainsi qu'il avait ‚t‚ pr‚dit, dans la cit‚ de nulle part ş1911 How One Came, as Was Foretold, to the City of Never şTrad. AMOUROUX Marie
-: .oF.     N     _DUNSANY Lord                Le Couronnement de M. Thomas Shap ş1912 The Coronation of Mr. Thomas Shap şTrad. AMOUROUX Marie
+: .oF.     N     _DUNSANY Lord                Le Couronnement de M. Thomas Shap ş1911 The Coronation of Mr. Thomas Shap şTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                Chu-bu et Sheemish ş1911 Chu-Bu and Sheemish şTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                La Fenˆtre merveilleuse ş1911 The Wonderful Window şTrad. AMOUROUX Marie
 : .oF.     o     _DUNSANY Lord                Epilogue ş1912 Epilogue şTrad. AMOUROUX Marie
@@ -281,18 +286,19 @@ o TBTFANT     ?  1998.xx ..... ISBN 2-84362-023-6
 } tdbtf04        _?                           ?
 + TBTFANT     ?  2002.09 ..... ISBN 2-84362-154-2
 } tdbtf04rr02    _?                           ?
-- .oF.    cN8    _MACHEN Arthur               Chroniques du Petit Peuple ş1998
-!--- Textes choisis par Xavier Legrand-FerronniŠre, Norbert Gaulard et Roger
-!--- Dobson ; pr‚f. de Roger Dobson ; postf. de Michel Meurger ; trad. de
-!--- l'anglais par Norbert Gaulard, Anne-Sylvie Homassel, Jacques Parsons
-: .o .     N     _MACHEN Arthur               Le Cachet noir ş1895 The Novel of the Black Seal
-: .o .     N     _MACHEN Arthur               La Pyramide de feu ş1895 The Shining Pyramid
-: .o .     N     _MACHEN Arthur               Le Peuple blanc ş1904 The White People
-: .o .     N     _MACHEN Arthur               La Main rouge ş1895 The Red Hand
-: .o .     N     _MACHEN Arthur               Sortis de la Terre ş1915 Out of the Earth
-: .o .     N     _MACHEN Arthur               Le Petit Peuple ş1904 The Little Folk
-: .o .     N     _MACHEN Arthur               Substitution ş1936 Change
-: .o .     N     _MACHEN Arthur               L'trange Aventure du Mont Nephin ş? The Strange Tale of Mount Nephin
+!--- (non indiqu‚ dans l'ouvrage) Textes choisis par Xavier Legrand-FerronniŠre, Norbert Gaulard et Roger Dobson 
+- .oF.    _N8    _MACHEN Arthur               Chroniques du Petit Peuple ş1998
+: .o .     p     _DOBSON Roger                Arthur Machen et le royaume de l'invisible ş? ? şTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _MACHEN Arthur               Histoire du Cachet noir - Racont‚e par la jeune femme … Leicester Square ş1895 The Novel of the Black Seal şTrad. PARSONS Jacques
+: .o .     N     _MACHEN Arthur               La Pyramide de feu ş1895 The Shining Pyramid şTrad. ?
+: .o .     N     _MACHEN Arthur               Le Peuple blanc ş1904 The White People şTrad. ?
+: .o .     N     _MACHEN Arthur               La Main rouge ş1895 The Red Hand şTrad. GAULARD Norbert
+: .o .     N     _MACHEN Arthur               Sortis de la Terre ş1915 Out of the Earth şTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _MACHEN Arthur               Le Petit Peuple ş1904 The Little Folk şTrad. GAULARD Norbert
+: .o .     N     _MACHEN Arthur               Substitution ş1936 Change şTrad. GAULARD Norbert
+: .o .     N     _MACHEN Arthur               L'trange Aventure du Mont Nephin ş? The Strange Tale of Mount Nephin şTrad. HOMASSEL Anne-Sylvie
+: .o .     o     _MEURGER Michel              Arthur Machen et la race sorciŠre ş1998
+: .o .     a     _--- (anonyme)               Bibliographie ş1998
 !------------------------
 !=== 1999
 !------------------------
@@ -313,7 +319,7 @@ o TBTFANT     ?  1999.03 ..... ISBN 2-84362-039-6
 : .o .     N     _SCOTT Walter                La Veuve des Highlands ş1827 The Highlands Widow şTrad. DEFAUCONPRET A.J.B.
 : .o .     N     _SCOTT Walter                Les Deux Bouviers ş1827 The Two Drovers şTrad. DEFAUCONPRET A.J.B.
 : .o .     N     _SCOTT Walter                Le Miroir de ma tante Marguerite ş1828 My Aunt Margaret's Mirror şTrad. DEFAUCONPRET A.J.B.
-: .o .     N     _SCOTT Walter                La Chambre tapiss‚e, ou la dame en sac ş1826 The Tapestried Chamber / The Tapestried Chamber or The Lady in the Sacque şTrad. DEFAUCONPRET A.J.B.
+: .o .     N     _SCOTT Walter                La Chambre tapiss‚e, ou la dame en sac ş1826 The Tapestried Chamber / The Tapestried Chamber or the Lady in the Sacque şTrad. DEFAUCONPRET A.J.B.
 : .o .     X     _SCOTT Walter                Le R‚cit de Donnerhugel (extrait de : Anne de Geierstein) ş1829 Donnerhugel's Narrative şTrad. COHEN Jean
 o TBTFANT     ?  1999.05 ..... ISBN 2-84362-048-1
 } tdbtf05        _?                           ?
@@ -338,27 +344,27 @@ o TBTFANT     ?  1999.12 ..... ISBN 2-84362-068-6
 o TBTFANT     ?  2000.03 R.... ISBN 2-84362-072-4
 } tdbtf07        _?                           ?
 - .oF.    _N20   _HARVEY William F.           La Bˆte … cinq doigts ş1946 Midnight Tales şTrad. BAUDRY Yvonne
-!--- pr‚face de RICHARDSON Maurice
-: .o .     N     _HARVEY William F.           La Maison de minuit ş1910 Midnigh House
-: .o .     N     _HARVEY William F.           Les Dabblers ş1928 The Dabblers
-: .o .     N     _HARVEY William F.           De fil en aiguille ş1910 Unwinding
-: .o .     N     _HARVEY William F.           Madame Ormerod ş1933 Mrs. Ormerod
-: .o .     N     _HARVEY William F.           Les D‚mons vont par deux ş1933 Double Demon
-: .o .     N     _HARVEY William F.           L'Instrument ş1928 The Tool
-: .o .     N     _HARVEY William F.           Le Coeur de l'ƒtre ş1928 The Heart of the Fire
-: .o .     N     _HARVEY William F.           Le R‚veil ş1928 The Clock
-: .o .     N     _HARVEY William F.           Peter Levisham ş1928 Peter Levisham
-: .o .     N     _HARVEY William F.           Miss Cornelius ş1928 Miss Cornelius
-: .o .     N     _HARVEY William F.           L'Homme qui d‚testait les aspidistras ş1933 The Man who Hated Aspidistras
-: .o .     N     _HARVEY William F.           Sambo ş1910 Sambo
-: .o .     N     _HARVEY William F.           L'toile ş1910 The Star
-: .o .     N     _HARVEY William F.           A travers la lande ş1910 Across the Moors
-: .o .     N     _HARVEY William F.           Le Disciple ş1933 The Follower
-: .o .     N     _HARVEY William F.           Dans la chaleur d'ao–t ş1910 August Heat
-: .o .     N     _HARVEY William F.           Sarah Bennet, la poss‚d‚e ş1910 Sarah Bennet's Possession
-: .o .     N     _HARVEY William F.           Le Banc d'‚glise des Ankardyne ş1928 The Ankardyne Pew
-: .o .     N     _HARVEY William F.           Miss Avenal ş1928 Miss Avenal
-: .o .     N     _HARVEY William F.           La Bˆte … cinq doigts ş1928 The Beast With Five Fingers
+: .o .     p     _RICHARDSON Maurice          Pr‚face ş1946 Introduction şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           La Maison de minuit ş1910 Midnigh House şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Les Dabblers ş1928 The Dabblers şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           De fil en aiguille ş1910 Unwinding şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Madame Ormerod ş1933 Mrs. Ormerod şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Les D‚mons vont par deux ş1933 Double Demon şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           L'Instrument ş1928 The Tool şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Le Coeur de l'ƒtre ş1928 The Heart of the Fire şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Le R‚veil ş1928 The Clock şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Peter Levisham ş1928 Peter Levisham şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Miss Corn‚lius ş1928 Miss Cornelius şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           L'Homme qui d‚testait les aspidistras ş1933 The Man who Hated Aspidistras şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Sambo ş1910 Sambo şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           L'toile ş1910 The Star şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           A travers la lande ş1910 Across the Moors şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Le Disciple ş1933 The Follower şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Dans la chaleur d'ao–t ş1910 August Heat şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Sarah Bennet, la poss‚d‚e ş1910 Sarah Bennet's Possession şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Le Banc d'‚glise des Ankardyne ş1928 The Ankardyne Pew şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Miss Avenal ş1928 Miss Avenal şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           La Bˆte … cinq doigts ş1928 The Beast With Five Fingers şTrad. BAUDRY Yvonne
 o TBTFANT     ?  2000.06 ..... ISBN 2-84362-089-9
 } tdbtf08        _?                           ?
 - .oF.    _N19   _DUNSANY Lord                Le Dernier Livre des merveilles ş1916 The Last Book of Wonder şTrad. HOMASSEL Anne-Sylvie
@@ -462,10 +468,10 @@ o TBTFANT     ?  2002.03 ..... ISBN 2-84362-140-2
 : .oY.     N     _DUNSANY Lord                Comment Imbaun parla de la mort au roi ş1905 Of How Imbaun Spake of Death to the King
 : .oY.     N     _DUNSANY Lord                De Ood ş1905 Of Odd
 : .oY.     N     _DUNSANY Lord                Le Fleuve ş1905 The River
-: .oY.     N     _DUNSANY Lord                L'Oiseau du jugement et la fin ş1905 The Bird of Doom and The End
+: .oY.     N     _DUNSANY Lord                L'Oiseau du jugement et la fin ş1905 The Bird of Doom and the End
 o TBTFANT     ?  2002.05 R.... ISBN 2-84362-161-5
 } tdbtf13        _?                           ?
-- .oF.    kA12   *FIEROBE Claude              L'Irlande fantastique ş2002
+- .oF.    kA12   *FIEROBE Claude              L'Irlande fantastique ş1996-2002
 !--- Pr‚c‚demment paru sous "Fantastiques irlandais : neuf nouvelles du XIXe siŠcle"
 : .o .     N     _MATURIN Charles-Robert      Le Chƒteau de Leixlip ş1825 The Doomed Sisters / Leixlip Castle
 : .o .     N     _GRIFFIN Gerald              La Saint-Martin ş1827 St Martin's day
@@ -482,11 +488,27 @@ o TBTFANT     ?  2002.05 R.... ISBN 2-84362-161-5
 : .o .     N     _GRAVES Clotilde             EnlŠvement fant“me ş1915 A spirit elopment
 o TBTFANT     ?  2002.09 ..... ISBN 2-84362-164-X
 } tdbtf14        _?                           ?
-!--- pr‚f. de Roger Dobson ; trad. de l'anglais par Anne-Sylvie Homassel,
-!--- Jacques Parsons, lisabeth Willenz... [et al.]
+!--- 24 cm - 221 pages - 18,25 euros
+!--- pr‚face de Roger Dobson
+!--- Trad. HOMASSEL Anne-Sylvie, PARSONS Jacques, WILLENZ lisabeth ... [et al.]
 !--- Mi-roman, mi-recueil
 !--- 3 r‚cits d‚j… traduits en font partie : La poudre blanche, Le sceau noir et La vierge de fer
-- .o .     R     _MACHEN Arthur               Les Trois Imposteurs ş1895 The Three Impostors or the Transmutations
+- .oTF    iC14   _MACHEN Arthur               Les Trois Imposteurs ou les transmutations ((Les Trois Imposteurs)) ş1895 The Three Impostors or the Transmutations
+: .o .     p     _DOBSON Roger                Pr‚face ş? ?
+: .o .     N     _MACHEN Arthur               Prologue ş1895 Prologue (The Three Impostors)
+: .o .     N     _MACHEN Arthur               L'aventure de l'aureus de TibŠre ş1895 Adventure of the Gold Tiberius
+: .o .     N     _MACHEN Arthur               La Rencontre sur le trottoir ş1895 The Encounter of the Pavement
+: .o .     N     _MACHEN Arthur               Histoire de la Sombre Vall‚e ş1895 Novel of the Dark Valley
+: .o .     N     _MACHEN Arthur               Aventure du frŠre disparu ş1895 Adventure of the Missing Brother
+: .o .     N     _MACHEN Arthur               Histoire du cachet noir ş1895 Novel of the Black Seal
+: .o .     N     _MACHEN Arthur               Incident du bar priv‚ ş1895 Incident of the Private Bar
+: .o .     N     _MACHEN Arthur               L'Imagination d‚corative ş1895 The Decorative Imagination
+: .o .     N     _MACHEN Arthur               Histoire de la vierge de fer ş1890 Novel of the Iron Maid
+: .o .     N     _MACHEN Arthur               Le Reclus de Bayswater ş1895 The Recluse of Bayswater
+: .o .     N     _MACHEN Arthur               Histoire de la poudre blanche ş1895 Novel of the White Powder
+: .o .     N     _MACHEN Arthur               trange ‚v‚nement dans Clerkenwellxxx ş1895 Strange Occurrence in Clerkenwell
+: .o .     N     _MACHEN Arthur               Histoire du jeune homme … lunettes ş1895 History of the Young Man With Spectacles
+: .o .     N     _MACHEN Arthur               Aventure de la maison abandonn‚e ş1895 Adventure of the Deserted Residence
 o TBTFANT     ?  2002.10 ..... ISBN 2-84362-173-9
 } tdbtf15        _?                           ?
 + TBTFANT     ?  2016.03 ..... ISBN 978-2-84362-583-1
@@ -495,11 +517,11 @@ o TBTFANT     ?  2002.10 ..... ISBN 2-84362-173-9
 - .oF.     R     _HODGSON William Hope        Les Pirates fant“mes ş1909 The Ghost Pirates şTrad. PARSONS Jacques & MARCEL Patrick
 o TBTFANT     ?  2002.xx R.... ISBN 2-84362-153-4
 } tdbtf01rr02    _?                           ?
-- .oF.    _N14   _DUNSANY Lord                Le Livre des merveilles - Chronique de petites aventures au bord du monde ş1912 The Book of Wonde, A Chronicle of Little Adventures at the Edge of the Worldr şTrad. AMOUROUX Marie
+- .oF.    _N14   _DUNSANY Lord                Le Livre des merveilles - Chronique de petites aventures au bord du monde ş1912 The Book of Wonder, A Chronicle of Little Adventures at the Edge of the World şTrad. AMOUROUX Marie
 !--- R‚‚d. 2002, revue et augment‚e
 : .oF.     p     _DUPERRAY Max                Introduction ş2002
 : .oF.     p     _DUNSANY Lord                Pr‚face ş1912 Preface şTrad. AMOUROUX Marie + HOMASSEL Anne-Sylvie
-: .oF.     N     _DUNSANY Lord                La Promise de l'homme-cheval ş1911 The Bride of the Man-horse
+: .oF.     N     _DUNSANY Lord                La Promise de l'homme-cheval ş1911 The Bride of the Man-Horse
 : .oF.     N     _DUNSANY Lord                La Lamentable Histoire de Thangobrind, le joaillier et du destin funeste qui lui ‚chut ş1911 The Distressing Tale of Thangobrind the Jeweller, and of the Doom That Befel Him şTrad. AMOUROUX Marie + HOMASSEL Anne-Sylvie
 : .oF.     N     _DUNSANY Lord                La Maison du Sphinx ş1911 The House of the Sphinx şTrad. AMOUROUX Marie + HOMASSEL Anne-Sylvie
 : .oF.     N     _DUNSANY Lord                Aventure probable des trois hommes de lettres ş1911 The Probable Adventure of the Three Literary Men şTrad. AMOUROUX Marie + HOMASSEL Anne-Sylvie
@@ -511,7 +533,7 @@ o TBTFANT     ?  2002.xx R.... ISBN 2-84362-153-4
 : .oF.     N     _DUNSANY Lord                Comment Nuth aurait, paraŒt-il exerc‚ son art sur les Gnoles ş1911 How Nuth Would Have Practised His Art Upon the Gnoles şTrad. AMOUROUX Marie + HOMASSEL Anne-Sylvie
 : .oF.     N     _DUNSANY Lord                Comment quelqu'un entra, ainsi qu'il avait ‚t‚ pr‚dit, dans la cit‚ de Jamais ş1911 How One Came, as Was Foretold, to the City of Never şTrad. AMOUROUX Marie + HOMASSEL Anne-Sylvie
 : .oF.     N     _DUNSANY Lord                Le Couronnement de M. Thomas Shap ş1911 The Coronation of Mr. Thomas Shap şTrad. AMOUROUX Marie + HOMASSEL Anne-Sylvie
-: .oF.     N     _DUNSANY Lord                Chu-bu et Sheemish ş1911 Chu-bu and Sheemish şTrad. AMOUROUX Marie + HOMASSEL Anne-Sylvie
+: .oF.     N     _DUNSANY Lord                Chu-bu et Sheemish ş1911 Chu-Bu and Sheemish şTrad. AMOUROUX Marie + HOMASSEL Anne-Sylvie
 : .oF.     N     _DUNSANY Lord                La Fenˆtre merveilleuse ş1911 The Wonderful Window şTrad. AMOUROUX Marie + HOMASSEL Anne-Sylvie
 : .oF.     o     _DUNSANY Lord                Epilogue ş1912 Epilogue şTrad. AMOUROUX Marie + HOMASSEL Anne-Sylvie
 !------------------------
@@ -554,17 +576,17 @@ o TBTFANT     ?  2003.06 ..... ISBN 2-84362-167-4
 o TBTFANT     ?  2003.09 ..... ISBN 2-84362-205-0
 } tdbtf20        _?                           ?
 - .oF.     RN    _MACHEN Arthur               La LumiŠre int‚rieure, pr‚c‚d‚ par Le Grand Dieu Pan ((Le Grand Dieu Pan)) ş2003
-: .o .     R     _MACHEN Arthur               Le Grand Dieu Pan ş1894 The Great God Pan
+: .o .     r     _MACHEN Arthur               Le Grand Dieu Pan ş1894 The Great God Pan
 : .o .     N     _MACHEN Arthur               La LumiŠre int‚rieure ş1894 The Inmost Light
 o TBTFANT     ?  2018.01 ..... ISBN 978-2-84362-641-8
 } tdbtf20rr18    _Carlos Schwabe              ?
 - .oF.     RN    _MACHEN Arthur               Le Grand Dieu Pan suivi de La LumiŠre int‚rieure ş2003
-: .o .     R     _MACHEN Arthur               Le Grand Dieu Pan ş1894 The Great God Pan
+: .o .     r     _MACHEN Arthur               Le Grand Dieu Pan ş1894 The Great God Pan
 : .o .     N     _MACHEN Arthur               La LumiŠre int‚rieure ş1894 The Inmost Light
 o TBTFANT     ?  2003.10 ..... ISBN 2-84362-208-5
 } tdbtf21        _?                           ?
-- .oF.    cN10   _O'BRIEN Fitz-James          Le Forgeur de merveilles et autres nouvelles ş2003
 !--- Trad. PAPY Jacques et FIEROBE Claude
+- .oF.    cN10   _O'BRIEN Fitz-James          Le Forgeur de merveilles et autres nouvelles ş2003
 : .oF.     N     _O'BRIEN Fitz-James          Le Forgeur de merveilles ş1859 The Wondersmith
 : .oF.     N     _O'BRIEN Fitz-James          Le Boh‚mien ş1855 The Bohemian
 : .oF.     N     _O'BRIEN Fitz-James          Le Pot de tulipes ş1855 The Pot of Tulips
@@ -572,7 +594,7 @@ o TBTFANT     ?  2003.10 ..... ISBN 2-84362-208-5
 : .oF.     N     _O'BRIEN Fitz-James          Voir le monde ş1857 Seeing the World
 : .oF.     N     _O'BRIEN Fitz-James          La Lentille de diamant ş1858 The Diamond Lens
 : .oF.     N     _O'BRIEN Fitz-James          La Chambre perdue ş1858 The Lost Room
-: .oF.     N     _O'BRIEN Fitz-James          Qu'‚tait ce ? Un mystŠre ş1859 What Was It? A Mystery
+: .oF.     N     _O'BRIEN Fitz-James          Qu'‚tait ce ? Un mystŠre ş1859 What Was It?
 : .oF.     N     _O'BRIEN Fitz-James          M‚d‚e ş1860 Mother of Pearl
 : .oF.     N     _O'BRIEN Fitz-James          L'enfant amoureux d'une tombe ş1861 The Child That Loved a Grave
 !------------------------
@@ -613,8 +635,8 @@ o TBTFANT     ?  2006.03 ..... ISBN 2-84362-292-1
 - .oF.     E     _MEURGER Michel              Histoire naturelle des dragons ş2001-2006
 o TBTFANT     ?  2006.08 ..... ISBN 2-84362-304-9
 } tdbtf27        _?                           ?
-- .pF.    iA15   *VAUTHIER Eric               Nuit rouge et autres histoires cruelles de Paris ş2006
 !--- TBD le genre exact des nouvelles
+- .pF.    iAx    *VAUTHIER Eric               Nuit rouge et autres histoires cruelles de Paris ş2006
 : .o .     p     _VAUTHIER Eric               Pr‚face ş2006
 ?: .? .     N     _BANVILLE Th‚odore de        La Vieille Funambule - H‚b‚ Caristi ş1859
 ?: .? .     N     _BANVILLE Th‚odore de        L'Armoire ş1861
@@ -631,10 +653,10 @@ o TBTFANT     ?  2006.08 ..... ISBN 2-84362-304-9
 ?: .? .     N     _MIRBEAU Octave              La Tˆte coup‚e ş1885
 ?: .? .     N     _TALMEYR Maurice             Nuit rouge ş1886
 ?: .? .     N     _PELADAN Jos‚phin            AurŠle ş1888
-: .o .     N     _LORRAIN Jean                L'gr‚gore ş1891
+: .o .     N     _LORRAIN Jean                L'gr‚gore ş1888
 : .o .     N     _MAUPASSANT Guy de           L'Endormeuse ş1889
 : .o .     N     _LORRAIN Jean                Le Verre de sang ş1892
-: .o .     N     _BLOY L‚on                   Le Vieux de la maison ş1893
+: .o .     N     _BLOY L‚on                   Le Vieux de la maison ş1894
 ?: .? .     N     _CHIELS Robert de            Ce que vit sur le mur... ş1906
 o TBTFANT     ?  2006.09 ..... ISBN 2-84362-303-0
 } tdbtf28        _?                           ?
@@ -684,7 +706,7 @@ o TBTFANT     ?  2008.10 ..... ISBN 978-2-84362-386-8
 : .oF.     N     _JOSEPH-RENAUD Jean          Fatima ş1907
 !--- TBD CM : ou Fatima aprŠs ? :
 : .oF.     N     _WYLM Antoine                La Fenˆtre au premier ‚tage ş?
-: .oF.     N     _SEVESTRE Norbert            Le Manoir hant‚ de Crec'h ar Vran [Sƒr Dubnotal] ş1909
+: .oF.     N     _SEVESTRE Norbert            Le Manoir hant‚ de Crec'h ar Vran [Sƒr Dubnotal - 1] ş1909
 : .oF.     r     _BOUVIER Jean                La Vampire ş1910
 !------------------------
 !=== 2009
@@ -746,6 +768,9 @@ o TBTFANT     ?  2011.05 ..... ISBN 978-2-84362-451-3
 : .o .     N     _JOSEPH-RENAUD Jean          Une veill‚e ş1922
 o TBTFANT     ?  2011.08 ..... ISBN 978-2-84362-458-2
 } tdbtf35        _?                           ?
++ TBTFANT     ?  2022.02 ..... ISBN 978-2-84362-693-7
+} tdbtf2022_02   _?                           ?
+!--- GF - 14 x 24 cm - 128 pages - 15 euros
 - .oF.     N7    _HODGSON William Hope        L'Horreur tropicale et autres nouvelles ş1975 Out of the storm şTrad. TRUCHAUD Fran‡ois
 : .oF.     p     _TRUCHAUD Fran‡ois           A la recherche de W. H. Hodgson ş1983
 : .oF.     N     _HODGSON William Hope        L'Horreur tropicale ş1905 A Tropical Horror
@@ -789,7 +814,7 @@ o TBTFANT     ?  2014.xx ..... ISBN 978-2-84362-525-1
 - .oF.     R     _BANIM John                  Les Doubles de Kilkenny ş1825 The Fetches şTrad. FIEROBE Claude
 o TBTFANT     ?  2014.06 ..... ISBN 978-2-84362-528-2
 } tdbtf42        _?                           ?
-- .o .     E     _LOVECRAFT Howard P.         Epouvante et surnaturel en Litt‚rature ş1935 Supernatural Horror in Literature şTrad. BERGIER Jacques & TRUCHAUD Fran‡ois
+- .o .     E     _LOVECRAFT Howard P.         Epouvante et surnaturel en Litt‚rature ş1927-1935 Supernatural Horror in Literature şTrad. BERGIER Jacques & TRUCHAUD Fran‡ois
 o TBTFANT     ?  2014.xx ..... ISBN 978-2-84362-532-9
 } tdbtf43        _?                           ?
 - .oF.    kN7    _DOLE G‚rard                 La Gorgone d'Islington ş2014
@@ -817,17 +842,18 @@ o TBTFATT     ?  2015.xx ..... ISBN 978-2-84362-536-7
 !------------------------
 o TBTFANT     ?  2015.01 ..... ISBN 978-2-84362-538-1
 } tdbtf45        _?                           ?
-!--- Pr‚face G‚rard D“le; 200 pages
+!--- Pr‚face G‚rard D“le
+!--- 200 pages - 14 x 24 cm - 18 euros
 - .oT.    iNx    _LORDE Andr‚ de              Cauchemars ş2015
 o TBTFANT     ?  2015.03 ..... ISBN 978-2-84362-541-1
 } tdbtf46        _?                           ?
 - .oF.     R     _GUILLAUME C‚line            L'vangile des Parfaits [Le Chant des abysses - 2] ş2015
 o TBTFANT     ?  2015.xx ..... ISBN 978-2-84362-543-5
 } tdbtf47        _Henri-Paul Motte            ?
-- .oF.     R     _O'NEILL Joseph James        Le Peuple des t‚nŠbres ş1935 Land under England şTrad. GANS Jacques
+- .oF.     R     _O'NEILL Joseph              Le Peuple des t‚nŠbres ş1935 Land under England şTrad. GANS Jacques
 o TBTFANT     ?  2015.xx ..... ISBN 978-2-84362-571-8
 } tdbtf48        _?                           ?
-- .pF.    iN9    _KIPLING Rudyard             Diverses cr‚atures ş1917 A Diversity of Creatures
+- .pF.    iNx    _KIPLING Rudyard             Diverses cr‚atures ş1917 A Diversity of Creatures
 !--- Volume original : 14 nouvelles et 14 poŠmes
 ?: .o .     N     _KIPLING Rudyard             ? ş1912 As Easy as A.B.C
 ?: .o .     N     _KIPLING Rudyard             ? ş1917 The Village That Voted the Earth Was Flat
@@ -850,6 +876,7 @@ o TBTFANT     ?  2015.09 ..... ISBN 978-2-84362-575-6
 !------------------------
 o TBTFANT     ?  2016.01 ..... ISBN 978-2-84362-580-0
 } tdbtf50        _?                           ?
+!--- 164 pages - 14 x 24 cm - 21 euros
 - .oF.    iNx    _LORDE Andr‚ de              Frissons ş2016
 o TBTFANT     ?  2016.xx ..... ISBN 978-2-84362-584-8
 } tdbtf51        _?                           ?
@@ -859,7 +886,7 @@ o TBTFANT     ?  2016.xx ..... ISBN 978-2-84362-585-5
 - .o .     R     _DUNSANY Lord                Vent du nord ş1933 The Curse of the Wise Woman şTrad. MURISIER Emilie
 o TBTFANT     ?  2016.xx ..... ISBN 978-2-84362-586-2
 } tdbtf53        _?                           ?
-- .o .    iA12   *FIEROBE Claude              Les Ombres du fantastique : fictions d'Irlande ş2016
+- .o .    iAx    *FIEROBE Claude              Les Ombres du fantastique : fictions d'Irlande ş2016
 o TBTFANT     ?  2016.xx ..... ISBN 978-2-84362-589-3
 } tdbtf54        _?                           ?
 - .oF.     R     _ENDORE Guy                  Le Loup-Garou de Paris ş1933 The Werewolf of Paris şTrad. FINNE Jacques
@@ -869,7 +896,7 @@ o TBTFANT     ?  2016.xx ..... ISBN 978-2-84362-594-7
 o TBTFANT     ?  2016.xx ..... ISBN 978-2-84362-620-3
 } tdbtf56        _?                           ?
 !--- Existe en ‚dition de tˆte
-- .oF.     R     _RAY Jean                    Geierstein [Les in‚dits de Jean Ray / John Flanders] ş2016
+- .oF.     R     _RAY Jean                    Geierstein [Les In‚dits de Jean Ray / John Flanders] ş2016
 !------------------------
 !=== 2017
 !------------------------
@@ -890,7 +917,7 @@ o TBTFANT     ?  2017.03 ..... ISBN 978-2-84362-624-1
 : .o .     o     _FINNE Jacques               Goule, ma pauvre goule... ş2017
 o TBTFANT     ?  2017.04 ..... ISBN 978-2-84362-629-6
 } tdbtf59        _?                           ?
-- .oF.     N28   _FLANDERS John               Le Nouveau Bestiaire fantastique - Contes et nouvelles [Les in‚dits de Jean Ray / John Flanders] ş2017
+- .oF.     N28   _FLANDERS John               Le Nouveau Bestiaire fantastique - Contes et nouvelles [Les In‚dits de Jean Ray / John Flanders] ş2017
 : .o .     p     _OLEFFE Michel               Introduction ş2017
 : .o .     N     _FLANDERS John               A bord de la Margaret Payne ş1948
 : .o .     N     _FLANDERS John               Une araign‚e au plafond ş?
@@ -914,7 +941,7 @@ o TBTFANT     ?  2017.04 ..... ISBN 978-2-84362-629-6
 : .o .     N     _FLANDERS John               Les Pirates rouges ş1949
 : .o .     N     _FLANDERS John               "Ram" le myst‚rieux ş?
 : .o .     N     _FLANDERS John               Le Requin jaune ş?
-: .o .     N     _FLANDERS John               La Terrible Madame Sue ş1949
+: .x .     N     _FLANDERS John               La Terrible Madame Sue ş1949
 : .o .     N     _FLANDERS John               Le Terrible Vengeur ş?
 : .o .     N     _FLANDERS John               Trois phoques ş?
 : .o .     N     _FLANDERS John               La Vapeur dans la forˆt ş?
@@ -926,7 +953,7 @@ o TBTFANT     ?  2017.05 ..... ISBN 978-2-84362-625-8
 o TBTFANT     ?  2017.06 ..... ISBN 978-2-84362-632-6
 } tdbtf61        _?                           ?
 !--- Existe en ‚dition de tˆte
-- .oF.     R2    _FLANDERS John               En fuite vers Bradford suivi par Les Compagnons de la tempˆte [Les in‚dits de Jean Ray / John Flanders] ş2017
+- .oF.     R2    _FLANDERS John               En fuite vers Bradford suivi par Les Compagnons de la tempˆte [Les In‚dits de Jean Ray / John Flanders] ş2017
 : .oF.     R     _FLANDERS John               En fuite vers Bradford ş2017
 : .oF.     R     _FLANDERS John               Les Compagnons de la tempˆte ş2017
 o TBTFANT     ?  2017.11 ..... ISBN 978-2-8436-2637-1
@@ -947,7 +974,7 @@ o TBTFANT     ?  2018.01 ..... ISBN 978-2-84362-642-5
 : .oF.     X     _STOKER Bram                 Le MystŠre de la mer ş1902 The Mystery of the Sea şTrad. ?
 o TBTFANT     ?  2018.02 ..... ISBN 978-2-84362-645-6
 } tdbtf65        _Carlos Schwabe              ?
-!---  TBC : şTrad. TRUCHAUD Fran‡ois
+!---  TBC : Trad. TRUCHAUD Fran‡ois
 - .oF.     R     _EWERS Hanns Heinz           Mandragore - Histoire d'un ˆtre myst‚rieux ş1911 Alraune şTrad. ADRIANE Charlette & HENRY Marc
 o TBTFANT     ?  2018.03 ..... ISBN 978-2-84362-647-0
 } tdbtf66        _Auguste Leroux              ?
@@ -957,7 +984,7 @@ o TBTFANT     ?  2018.05 ..... ISBN 978-2-84362-651-7
 - .oF.     E     _FINNE Jacques               Panorama de la litt‚rature fantastique am‚ricaine ş2006-2018
 o TBTFANT     ?  2018.05 ..... ISBN 978-2-84362-650-0
 } tdbtf68        _Antoine Wiertz              ?
-- .pF.     N3    _FLANDERS John               Sur les chemins de la peur [Les in‚dits de Jean Ray / John Flanders] ş2018
+- .pF.     N3    _FLANDERS John               Sur les chemins de la peur [Les In‚dits de Jean Ray / John Flanders] ş2018
 !---  Trad. VERBRUGGHEN Andr‚ & BANNIER Fran‡oise
 : .oF.     N     _FLANDERS John               Sur les chemins de la peur ş1934 Op bange wegen şTrad. ?
 : .!P.     N     _FLANDERS John               L'Engoulevent ş1949 De nachtzwaluw şTrad. ?
@@ -1000,7 +1027,7 @@ o TBTFANT     ?  2019.06 ..... ISBN 978-2-84362-660-9
 o TBTFANT     ?  2019.08 ..... ISBN 978-2-84362-661-6
 !--- 14 x 24 cm - 320 pages - 22,00 euros
 } noimg          _?                           ?
-- .oF.     G     _POZZUOLI Alain              Les 100 films cultes de vampire ş2019
+- .oF.     G     _POZZUOLI Alain              Les 100 films cultes de vampires ş2019
 o TBTFANT     ?  2019.10 ..... ISBN 978-2-84362-666-1
 } noimg          _?                           ?
 !--- 14 x 24 cm - 272 pages - 19,00 euros
@@ -1015,7 +1042,7 @@ o TBTFANT     ?  2020.02 ..... ISBN 978-2-84362-662-3
 o TBTFANT     ?  2020.02 ..... ISBN 978-2-84362-667-8
 } tdb022020_2a   _?                           ?
 !--- 248 Pages - 14 X 24 cm - 18,50 euros
-- .oPF     N4    _FLANDERS John               La Mal‚diction des vieilles demeures et autres histoires in‚dites [Les in‚dits de Jean Ray / John Flanders] ş2020
+- .oPF     N4    _FLANDERS John               La Mal‚diction des vieilles demeures et autres histoires in‚dites [Les In‚dits de Jean Ray / John Flanders] ş2020
 : .oF.     N     _FLANDERS John               La Mal‚diction des vieilles demeures ş?
 : .oF.     N     _FLANDERS John               Le garde-champˆtre participe … l'enquˆte ş?
 : .oF.     N     _FLANDERS John               Le Premier et Dernier Amour de mademoiselle AdŠle ş?
@@ -1023,32 +1050,133 @@ o TBTFANT     ?  2020.02 ..... ISBN 978-2-84362-667-8
 o TBTFANT     ?  2020.05 ..... ISBN 978-2-84362-669-2
 } noimg          _?                           ?
 !--- GF - 140 x 240 mm - 178 pages - 18,50 euros
-- .oF.     R     _WELLS Herbert George        La Merveilleuse Visite ş1895 The Wonderful Visit şTrad. BARRON Louis
+- .oF.     r     _WELLS Herbert George        La Merveilleuse Visite ş1895 The Wonderful Visit şTrad. BARRON Louis
 o TBTFANT     ?  2020.08 ..... ISBN 978-2-84362-673-9
 } noimg          _?                           ?
 !--- GF - 140 x 240 mm - 189 pages - 18 euros
 - .oF.    iNx    _OWEN Thomas                 C‚r‚monial nocturne et autres contes fantastiques ş1966
 o TBTFANT     ?  2020.10 ..... ISBN 978-2-84362-675-3
-} noimg          _?                           ?
+} tdbtf_cqa      _?                           ?
 !--- GF - 140 x 240 mm - 317 pages - 21 euros
 !--- Trad. FINNE Jacques
-- .oF.    iNx    _CAVE Hugh B.                Celles qui attendent et autres nouvelles ş2020
-!  1 - Jacques FINN, Pr‚face, pages 1, pr‚face
-!  o .  13 N     _CAVE Hugh B.                Stragella ş1932 Stragella
-!  o .  47 r     _CAVE Hugh B.                Murgunstrumm ş1933 Murgunstrumm
-!  o . 147 N     _CAVE Hugh B.                Le Culte du singe blanc ş1933 The Cult of the White Ape
-!  o . 175 N     _CAVE Hugh B.                La Chambre verte ş1933 The Watcher in the Green Room
-!  o . 197 N     _CAVE Hugh B.                La Femme de marbre ş1934 The Isle of Dark Magic
-!  o . 233 N     _CAVE Hugh B.                L'trange Mort d'Ivan Gromleigh ş1937 The Strange Death of Ivan Gromleigh
-!  o . 253 N     _CAVE Hugh B.                Le Ronronnement du chat ş1942 Purr of the Cat
-!  o . 275 N     _CAVE Hugh B.                La Cave aux chuchotements ş1942 The Whisperers
-!  o . 297 N     _CAVE Hugh B.                Demain sera sans fin ş1943 Tomorrow is Forever
-!  o . 303 N     _CAVE Hugh B.                Celles qui attendent ş1975 Ladies in Waiting
+- .oF.     N10   _CAVE Hugh B.               &Celles qui attendent et autres nouvelles ş2020
+&                *FINNE Jacques               
+:  o .     p     _FINNE Jacques               Pr‚face ş2020
+:  o .  13 N     _CAVE Hugh B.                Stragella ş1932 Stragella
+:  o .  47 r     _CAVE Hugh B.                Murgunstrumm ş1933 Murgunstrumm
+:  o . 147 N     _CAVE Hugh B.                Le Culte du singe blanc ş1933 The Cult of the White Ape
+:  o . 175 N     _CAVE Hugh B.                La Chambre verte ş1933 The Watcher in the Green Room
+:  o . 197 N     _CAVE Hugh B.                La Femme de marbre ş1934 The Isle of Dark Magic
+:  o . 233 N     _CAVE Hugh B.                L'trange Mort d'Ivan Gromleigh ş1937 The Strange Death of Ivan Gromleigh
+:  o . 253 N     _CAVE Hugh B.                Le Ronronnement du chat ş1942 Purr of a Cat
+:  o . 275 N     _CAVE Hugh B.                La Cave aux chuchotements ş1942 The Whisperers
+:  o . 297 N     _CAVE Hugh B.                Demain sera sans fin ş1943 Tomorrow Is Forever
+:  o . 303 N     _CAVE Hugh B.                Celles qui attendent ş1975 Ladies in Waiting
 o TBTFANT     ?  2020.11 ..... ISBN 978-2-84362-674-6
 } noimg          _?                           ?
 !--- GF - 160 x 240 mm - 332 pages - 25 euros
 - .oF.     E     _FINNE Jacques              &Dictionnaire des litt‚ratures vampiriques ş2020
 &                _MARIGNY Jean                
+!------------------------
+!=== 2021
+!------------------------
+o TBTFANT     ?  2021.01 ..... ISBN 978-2-84362-678-4
+} noimg          _?                           ?
+!--- GF - 140 x 240 - 282 pages - 19 euros
+- .oF.    iNx    _FLANDERS John               Par-del… les Sept Mers... - Dans le sillage du Fulmar ş2021
+o TBTFANT     ?  2021.02 ..... ISBN 978-2-84362-681-4
+} noimg          _?                           ?
+!--- GF - 140 x 240 - 198 pages - 18 euros
+- .o .     R     _SAXON Peter                 Les Vampires du FinistŠre ş1970 The vampires of Finistere şTrad. BILLON Pierre
+o TBTFANT     ?  2021.05 ..... ISBN 978-2-84362-682-1
+} noimg          _?                           ?
+!--- GF - 140x240 - 160 pages - 16 euros
+- .o .     R     _GUILLAUME C‚line            Ad Vitam Aeternam ş2021
+o TBTFANT     ?  2021.08 ..... ISBN 978-2-84362-684-5
+} noimg          _?                           ?
+!--- GF - 140x240 - 256 pages - 18,50 euros
+- .oF.    iNx    _OWEN Thomas                 La Cave aux crapauds et autres contes ‚tranges ş1945
+o TBTFANT     ?  2021.09 ..... ISBN 978-2-84362-686-9
+} noimg          _?                           ?
+!--- GF - 140x240 - 210 pages - 18 euros
+- .o .     R     _CARROLL Theodus             Clarissa ou le doux attrait du mal ş1975 Evil Is a Quiet Word şTrad. FINN‚ Jacques
+o TBTFANT     ?  2021.10 ..... ISBN 978-2-84362-687-6
+} tdbtf2021_06   _?                           ?
+!--- GF - 140x240 - 193 pages
+- .oF.    iNx    _FLANDERS John               D‚tectives de l'‚trange ş2021
+!------------------------
+!=== 2022
+!------------------------
+o TBTFANT     ?  2022.01 ..... ISBN 978-2-84362-689-0
+} tdbtf2022_01   _?                           ?
+!--- GF - 14 x 24 cm - 352 pages - 22 euros
+!--- Titre de couv : Les aventures de John Silence, m‚decin de l'occulte
+!--- Titre de 4iŠme : John Silence - Le Sherlock Holmes du surnaturel
+- .oF.    iNx    _BLACKWOOD Algernon          John Silence [John Silence] ş1908 John Silence şTrad. DUPERRAY Max
+o TBTFANT     ?  2022.02 ..... ISBN 978-2-84362-690-6
+} tdbtf2022_03   _?                           ?
+!--- GF - 14 x 24 cm - 224 pages - 18,50 euros
+- .oF.    kN8    *FINNE Jacques              &Elles reviennent... - Histoires de femmes vampires ş2022
+&                *MARIGNY Jean                
+: .o .     p     _POZZUOLI Alain              Femmes de sang, Femmes sangsuelles ş2022
+: .o .     N     _KENEALY Arabella            La Beaut‚ de la vampire [Lord Syfret] ş1896 A Beautiful Vampire
+: .o .     N     _STROBL Karl Hans            Le Mausol‚e du PŠre-Lachaise ş1913 Das grabmal auf dem PŠre-Lachaise
+: .o .     N     _BENSON Edward F.            Mrs. Amworth ş1922 Mrs. Amworth
+: .o .     N     _WORRELL Everil              Le Canal ş1927 The Canal
+: .o .     N     _CAVE Hugh B.                Les Liens du sang ş1932 The Brotherhood of Blood
+: .o .     N     _COWLES Frederick            Princesse des t‚nŠbres ş1940 Princess of Darkness
+: .o .     N     _LA SPINA Greye              Le Napperon ş1949 The Antimacassar
+: .o .     N     _BRILLIOTH Seymour           La Ville d'argile ş1975 Clay City
+o TBTFANT     ?  2022.04 ..... ISBN 978-2-84362-691-5
+} tdbtf2022_04   _?                           ?
+!--- GF - 14 x 24 cm - 256 pages - 18,50 euros
+- .oF.    iNx    _FLANDERS John               D‚tectives de l'‚trange - 2 ş2022
+o TBTINCO     ?  2022.04 ..... ISBN 978-2-84362-694-4
+} noimg          _?                           ?
+!--- GF - 14 x 24 cm - 316 pages - 21,00 euros
+- .oS.     R     _STAPLEDON Olaf              Les Derniers Hommes … Londres ş1932 Last Men in London şTrad. SAUNIER Claude
+o TBTINCO     ?  2022.06 ..... ISBN 978-2-84362-695-1
+} noimg          _?                           ?
+!--- GF - 14 x 24 cm - 192 pages
+- .o .     R     _STUART William J.           PlanŠte interdite ş1956 Forbidden Planet şTrad. ?
+o TBTINCO    12i 2022.08 ..... ISBN 978-2-84362-698-2
+} noimg          _?                           ?
+!--- GF - 140x240 - 128 pages - 15 euros
+- .oS.     R     _DOYLE Arthur Conan          Le Gouffre Maracot ş1928 The Maracot Deep şTrad. VAUTHIER Gilles
+o TBTFANT     ?  2022.09 ..... ISBN 978-2-84362-697-5
+} noimg          _?                           ?
+!--- GF - 140x240 - 280 pages - 22 euros
+- .oF.     E     _POZZUOLI Alain             &Les Ofni du cin‚ma fantastique & de SF ş2022
+&                _SISBANE Philippe            
+o TBTINCO    13i 2022.11 ..... ISBN 978-2-84362-696-8
+} tdbti13        _?                           ?
+!--- GF - 140x240 - 480 pages - 24 euros
+- .oS.    kR2    _BALMER Edwin               &Le Choc des mondes, suivi de AprŠs le choc des mondes ş2022
+&                _WYLIE Philip                
+: .o .     R     _BALMER Edwin               &Le Choc des mondes ş1932 When the Worlds Collide şTrad. JAGER Andr‚
+&                _WYLIE Philip                
+: .o .     R     _BALMER Edwin               &AprŠs le choc des mondes ş1933 After the Worlds Collide şTrad. RAFFEJEAUD Jacqueline
+&                _WYLIE Philip                
+o TBTFANT     ?  2022.12 ..... ISBN 978-2-84362-700-2
+} tdbtf2022_06   _?                           ?
+!--- GF - 140x240 - 288 pages
+!--- Signature Mrs J. H. RIDDELL (pour la seconde nouvelle)
+- .oF.     A13   *FINNE Jacques               La Vieille Maison de Vauxhall Walk ş2022
+: .o .   7 N     _CROWE Catherine             Le R‚cit de l'Italien ş1859 The Italian's Story
+: .o .  29 N     _MULHOLLAND Rosa             L'Organiste maudit ş1891 The Haunted Organist of Hurly Burly / The Haunted Organist
+: .o .  47 N     _BROUGHTON Rhoda             Pourtant... Ce n'‚tait qu'un rˆve ş1872 Behold It Was a Dream
+: .o .  71 N     _EDWARDS Amelia B.           L'Histoire de Johanna ş1872 Sister Johanna's Story
+: .o .  89 N     _RIDDELL Charlotte           La Vieille Maison de Vauxhall Walk ş1882 The Old House in Vauxhall Walk
+: .o . 111 N     _MOLESWORTH Mary Louisa      Au bas de la pente ş1896 At the Dip of the Road
+: .o . 119 N     _RIDDELL J.H.                La Disparition du squire Ennismore ş1888 The Last of Squire Ennismore
+: .o . 129 N     _LEE Vernon                  Dionea ş1890 Dionea
+: .o . 165 N     _MACLEOD Agnes               La Main ş1894 The Skeleton Hand
+: .o . 175 N     _ATHERTON Gertrude           L'Appel dans le brouillard ş1903 The Bell in the Fog
+: .o . 207 N     _NESBIT Edith                Dans l'obscurit‚ ş1910 In the Dark
+: .o . 225 N     _NESBIT Edith                L'Ombre ş1910 The Portent of the Shadow / The Shadow
+: .o . 241 N     _CATHER Willa                Cons‚quences ş1915 Consequences
+: .o . 267 a     _MARIGNY Jean                Du c“t‚ des auteurs ş2022
+
 
 
 !------------------------
@@ -1062,8 +1190,8 @@ o TBTFANT     ?  2020.11 ..... ISBN 978-2-84362-674-6
 ?&                *GAYOT Paul                 
 o TBTMYST     ?  2003.04 ..... ISBN 2-84362-191-7
 } tdbtm02        _?                           ?
-- .oF.    iN10   _COLLINS W. Wilkie           La Reine de coeur ş2003
 !--- ... Le bizarre, le dr“le, le t‚n‚breux, le fantastique alternent...
+- .oF.    iNx    _COLLINS W. Wilkie           La Reine de coeur ş2003
 : .oF.     N     _COLLINS W. Wilkie           Monkton le fou ş1855 Mad Monkton
 : .oF.     N     _COLLINS W. Wilkie           La Femme du rˆve ş1855-1974 The Ostler / The Dream Woman şTrad. ?
 : .? .     N     _COLLINS W. Wilkie           Le Secret de famille ş1857 The Family Secret
@@ -1144,8 +1272,10 @@ o TBTMYST     ?  2004.03 ..... ISBN 2-84362-227-1
 : .oY.     N     _DUNSANY Lord                Sur la terre ferme ş1908 On the Dry Land şTrad. HOMASSEL Anne-Sylvie
 o TBTMYST     ?  2004.03 ..... ISBN 2-84362-228-X
 } tdbtm10        _?                           ?
-!-- compl‚t‚ par une parodie datant de 1888
-- .xP.     R     _HUME Fergus                 Le MystŠre du Hansom Cab ş1886 The Mystery of a Hansom Cab
+!--- GF - 140x240 mm - 336 pages
+!--- compl‚t‚ par une parodie datant de 1888
+!--- Avant propos de Xavier Legrand-FerronniŠre
+- .xP.     R     _HUME Fergus                 Le MystŠre du Hansom Cab ş1886 The Mystery of a Hansom Cab şTrad. BOCHET L‚on
 o TBTMYST     ?  2004.04 ..... ISBN 2-84362-232-8
 } tdbtm11        _?                           ?
 - .oF.     N3    _DOLE G‚rard                 Le MystŠre Van Helsing - Histoires de vampires [Van Helsing] ş2004
@@ -1177,7 +1307,7 @@ o TBTMYST     ?  2004.06 ..... ISBN 2-84362-242-5
 ?o TBTMYST     ?  2004.05 ..... ISBN 2-84362-238-7
 ?!--- A priori HG
 ?} tdbtm13        _?                           ?
-?- .xP.     N8    _BRAMAH Ernest               La partie se joue dans le noir ş?
+?- .xP.     N8    _BRAMAH Ernest               La partie se joue dans le noir ş2004
 o TBTMYST     ?  2004.04 ..... ISBN 2-84362-242-5
 } tdbtm14        _?                           ?
 - .oF.     N19   _BOUTET Fr‚d‚ric             Histoires vraisemblables ş1908
@@ -1185,7 +1315,7 @@ o TBTMYST     ?  2004.04 ..... ISBN 2-84362-242-5
 : .o .  21 N     _BOUTET Fr‚d‚ric             L'Aquarium ş1903
 : .o .  26 N     _BOUTET Fr‚d‚ric             Une fabrique d'hommes doubles ş1903
 : .o .  32 N     _BOUTET Fr‚d‚ric             Le Miracle du lierre ş1903
-: .o .  38 N     _BOUTET Fr‚d‚ric             Un fant“me ş1898
+: .o .  38 N     _BOUTET Fr‚d‚ric             Un fant“me ş1903
 : .o .  44 N     _BOUTET Fr‚d‚ric             Le Chien qui parle ş1903
 : .o .  50 N     _BOUTET Fr‚d‚ric             Un philantrope, histoire vraisemblable et vraie ş1903
 : .o .  56 N     _BOUTET Fr‚d‚ric             La tante Gordon triomphe et meurt ş1903
@@ -1231,7 +1361,7 @@ o TBTMYST     ?  2004.10 ..... ISBN 2-84362-250-6
 : .oF.     N     _DOLE G‚rard                 Les Spectres pirates [Harry Dickson] ş1984
 : .oF.     N     _DOLE G‚rard                 La Pieuvre de brume [Harry Dickson] ş1984
 : .oF.     N     _DOLE G‚rard                 Tambour vaudou [Harry Dickson] ş2004
-: .oF.     N     _DOLE G‚rard                 La Complainte de Harry Dickson [Harry Dickson] ş2004
+: .oF.     c     _DOLE G‚rard                 La Complainte de Harry Dickson [Harry Dickson] ş1996
 !------------------------
 !=== 2005
 !------------------------
@@ -1295,7 +1425,12 @@ o TBTMYST     ?  2006.01 ..... ISBN 2-84362-288-3
 o TBTMYST     ?  2006.04 ..... ISBN 2-84362-294-8
 !--- Avant-propos de Roger Allen - Postface de Henri Miller
 } tdbtm30        _John William Waterhouse     ?
-- .oF.     R     _HAGGARD H. Rider            Elle [She - 1] ş1886 She şTrad. DESTHUILLIERS C‚cile & HILLEMAVHER Jacques
+- .oF.     R     _HAGGARD H. Rider            Elle [She - 1] ş1886 She şTrad. HILLEMAVHER Jacques + DESTHUILLIERS C‚cile
+o TBTMYST     ?  2022.05 ..... ISBN 978-2-84362-677-7
+} noimg          _?                           ?
+!--- Avant-propos de Roger Allen
+!--- GF - 14 x 24 cm - 312 pages - 22 euros
+- .oF.     R     _HAGGARD H. Rider            Elle-qui-doit-ˆtre-ob‚ie [She - 1] ş1886 She şTrad. HILLEMAVHER Jacques + DESTHUILLIERS C‚cile
 o TBTMYST     ?  2006.10 ..... ISBN 2-84362-314-6
 } tdbtm31        _?                           ?
 - .oF.     R     _CARLETON William            Le ProphŠte noir ş1845 The Black Baronet
@@ -1305,15 +1440,15 @@ o TBTMYST     ?  2006.11 ..... ISBN 2-84362-315-4
 !--- [Les Nouvelles enquˆtes de Harry Dickson]
 : .o .     p     _DUCOS Fran‡ois              Le Fantastique selon Harry Dickson ş2006
 : .o .     N     _DOLE G‚rard                 Le Diable de Pimlico [Harry Dickson] ş2006
-: .o .     N     _DOLE G‚rard                 La Nuit moldave [Harry Dickson] ş2006
+: .oF.     N     _DOLE G‚rard                 La Nuit moldave [Harry Dickson] ş1984
 : .oF.     N     _DOLE G‚rard                 L'Abominable Freaks Museum [Harry Dickson] ş1984
-: .o .     N     _DOLE G‚rard                 L'Aiguille de Cl‚opƒtre [Harry Dickson] ş2006
-: .o .     N     _DOLE G‚rard                 La Bande de Sakya-Mouni [Harry Dickson] ş2006
-: .o .     N     _DOLE G‚rard                 Le Champignon du Diable [Harry Dickson] ş2006
+: .o .     N     _DOLE G‚rard                 L'Aiguille de Cl‚opƒtre [Harry Dickson] ş1996
+: .o .     N     _DOLE G‚rard                 La Bande du Sakya-Mouni [Harry Dickson] ş1989
+: .o .     N     _DOLE G‚rard                 Le Champignon du Diable [Harry Dickson] ş1996
 : .oF.     N     _DOLE G‚rard                 Les Chevaliers du Chardon Bleu [Harry Dickson] ş1989
 : .oF.     N     _DOLE G‚rard                 Les Masques de mort [Harry Dickson] ş1984
 : .o .     N     _DOLE G‚rard                 Le Chƒteau vampyre [Harry Dickson] ş2006
-: .o .     N     _DOLE G‚rard                 L'Oeil d'Osiris [Harry Dickson] ş1989
+: .oF.     N     _DOLE G‚rard                 L'Oeil d'Osiris [Harry Dickson] ş1984
 : .oF.     N     _DOLE G‚rard                &La Mal‚diction du lac Tritrive [Harry Dickson] ş1984
 &                _PONCET Dominique            
 !------------------------
@@ -1324,7 +1459,7 @@ o TBTMYST     ?  2007.02 ..... ISBN 978-2-84362-341-7
 - .oF.     R     _BOOTHBY Guy                 Pharos l'Egyptien ş1898 Pharos, the Egyptian şTrad. AUBRY J.-H.
 o TBTMYST     ?  2007.06 ..... ISBN 978-2-84362-350-9
 } tdbtm34        _Nestor Martin Fernandez de la Torre
-- .oF.    _N14   _HODGSON William Hope        La Chose dans les algues ş1969 Deep Waters şTrad. BARON Jacques
+- .oF.    _N14   _HODGSON William Hope        La Chose dans les algues ş1914 Deep Waters / Men of the Deep Waters şTrad. BARON Jacques
 ?: .o .     p     _BARON Jacques               Pr‚face ş2007
 : .oF.     N     _HODGSON William Hope        Les Chevaux marins ş1913 The Sea Horses şTrad. BARON Jacques
 : .oF.     N     _HODGSON William Hope        L'pave ş1912 The Derelict şTrad. BARON Jacques
@@ -1403,7 +1538,7 @@ o TBTMYST     ?  2012.01 ..... ISBN 978-2-84362-467-4
 - .oF.     R     _HAGGARD H. Rider            Aycha - Le Retour d'Elle [She - 2] ş1905 Ayesha or the Return of She şTrad. BENOIT Marcel
 o TBTMYST     ?  2012.02 ..... ISBN 978-2-84362-469-8
 } tdbtm45        _?                           ?
-- .oF.     R     _MUNDY Talbot                L'Oeuf de jade ş1924 Om: The Secret of Ahbor Valley şTrad. POSTIF Louis
+- .oF.     R     _MUNDY Talbot                L'Oeuf de jade ş1924 Om: the Secret of Ahbor Valley şTrad. POSTIF Louis
 o TBTMYST     ?  2012.09 ..... ISBN 978-2-84362-486-5
 } tdbtm46        _?                           ?
 !--- Pr‚fac‚ par Jacques Finn‚
@@ -1432,7 +1567,7 @@ o TBTMYST     ?  2017.09 ..... ISBN 978-2-84362-633-3
 - .o .     R     _HAGGARD H. Rider            Allan Quatermain [Aventures d'Allan Quatermain] ş1887 Allan Quatermain şTrad. ?
 o TBTMYST     ?  2017.09 ..... ISBN 978-2-84362-634-0
 } tdbtm49        _?                           ?
-!--- şTrad. Jessica Stabile
+!--- Trad. Jessica Stabile
 - .oF.    iNx    _RIDDELL J.H.                La Disparition de Jeremiah Redworth ş2017
 o TBTMYST     ?  2017.10 ..... ISBN 978-2-84362-636-4
 } tdbtm50        _?                           ?
@@ -1466,7 +1601,7 @@ o TBTMYST     ?  2020.06 ..... ISBN 978-2-84362-671-5
 
 
 !-----------------------------------------------------------------------------
-_ TB_ECO  Terre de Brume, Coll. BibliothŠque Ecossaise
+_ TB_ECO  Terre de Brume - BibliothŠque Ecossaise
 !-----------------------------------------------------------------------------
 o TB_ECO      ?  2013.xx ..... ISBN 978-2-84362-507-7
 !--- Pr‚face C‚line Albin Faivre
@@ -1479,7 +1614,7 @@ o TB_ECO      ?  2014.xx ..... ISBN 978-2-84362-534-3
 - .oF.     T     _BARRIE James                Mary Rose ş1920 Mary Rose şTrad. FAIVRE C‚line-Albin
 
 !-----------------------------------------------------------------------------
-_ TB_IRL  Terre de Brume, Coll. BibliothŠque Irlandaise
+_ TB_IRL  Terre de Brume - BibliothŠque Irlandaise
 !-----------------------------------------------------------------------------
 o TB_IRL      ?  1997.xx ..... ISBN 2-908021-93-5
 } noimg          _?                           ?
@@ -1497,9 +1632,9 @@ o TB_IRL      ?  2009.05 ..... ISBN 978-2-84362-405-6
 : .oF.     N     _MANGAN James Clarence       Les Trente flacons ş1838 The Thirty Flasks şTrad. FIEROBE Claude
 
 !-----------------------------------------------------------------------------
-_ TB_PBC  Terre de Brume, Coll. Petite BibliothŠque Celte
-_ TB_GBC  Terre de Brume, Coll. Grande BibliothŠque Celte
-_ TB_BC   Terre de Brume, Coll. BibliothŠque Celte
+_ TB_PBC  Terre de Brume - Petite BibliothŠque Celte
+_ TB_GBC  Terre de Brume - Grande BibliothŠque Celte
+_ TB_BC   Terre de Brume - BibliothŠque Celte
 !-----------------------------------------------------------------------------
 !--- Petite bibliothŠque Celte
 !-----------------------------------------------------------------------------
@@ -1514,7 +1649,7 @@ o TB_BC       ?  1995.02 ..... ISBN 2-908021-38-2
 !--- ISBN erron‚ sur couverture 2-908021-28-3
 - .oF.     A13   _SEIGNOLLE Claude            Contes fantastiques de Bretagne ş1995
 : .o .     N     _SEIGNOLLE Claude            Les Chevaux de la nuit ş1967
-: .o .     N     _SEIGNOLLE Claude            Celui qui avait toujours froid
+: .o .     N     _SEIGNOLLE Claude            Celui qui avait toujours froid ş1966
 : .o .     N     _SEIGNOLLE Claude            Celui qui s'y frotta ş1967
 : .o .     N     _SEIGNOLLE Claude            Les Gorel ş1966
 : .o .     N     _SEIGNOLLE Claude            Comme une odeur de loup ş1966
@@ -1553,7 +1688,10 @@ o TB_BC       ?  2001.02 ..... ISBN 2-84362-107-0
 - .oN.    iYx    _LE DIBERDER Yves            Contes de Korrigans ş2001
 ?o TB_BC       ?  2001.03 ..... ISBN 2-84362-111-9
 ?} noimg          _?                           ?
+?!--- Sang de la sirŠne paru en 1901 chez Calmann-Levy d'aprŠs l'avant-propos
 ?- .* .     N3    _LE BRAZ Anatole             Le Sang de la sirŠne ş?
+?: .o .     p     _BESANCON Domnique           Avant-propos ş2001
+?: .o .     p     _LE BRAZ Anatole             Avant-propos ş1901
 ?: .o .     N     _LE BRAZ Anatole             Le Sang de la sirŠne ş1897
 ?: .* .     N     _LE BRAZ Anatole             Fille de fraudeurs ş?
 ?: .* .     N     _LE BRAZ Anatole             Les Noces noires de Guernaham ş?
@@ -1563,9 +1701,35 @@ o TB_BC       ?  2001.02 ..... ISBN 2-84362-107-0
 ?o TB_BC       ?  2001.10 ..... ISBN 2-84362-130-5
 ?} noimg          _?                           ?
 ?- .p .     Ax    _FERDINAND Sylvie            Au royaume du Dragon Rouge - Contes et l‚gendes du Pays de Galle ş2001
-?o TB_BC       ?  2002.04 ..... ISBN 2-84362-155-0
+?o TB_BC       ?  1989.xx ..... ISBN 2-908021-01-3
 ?} noimg          _?                           ?
-?- .p .    iNx    _LE BRAZ Anatole             Contes du soleil et de la brume ş2002
+?!--- 206 pages - 20cm - 109 francs
+?+ TB_BC       ?  1998.xx ..... ISBN 2-84362-025-2
+?} noimg          _?                           ?
+?!--- 225 pages - 20cm - 109 francs
+?+ TB_BC       ?  2002.04 ..... ISBN 2-84362-155-0
+?} noimg          _?                           ?
+?!--- 234 pages - 20cm - 16,75 euros
+?- .pN.    iNx    _LE BRAZ Anatole             Contes du soleil et de la brume ş1905
+?- .o .     p     _BESANCON Dominique          Pr‚face ş1989
+?- .C .     C     _LE BRAZ Anatole             Paysages de l‚gendes
+?- .? .     N     _LE BRAZ Anatole             Une cime sacr‚e ş1900
+?- .? .     N     _LE BRAZ Anatole             Sainte Tryphine ş1892
+?- .? .     N     _LE BRAZ Anatole             Terres funŠbres ş?
+?- .? .     N     _LE BRAZ Anatole             Au vent des Œles Yann-He-Grok ş?
+?- .C .     C     _LE BRAZ Anatole             Nuits d'apparition
+?- .? .     N     _LE BRAZ Anatole             Ceux de la gorgone ş?
+?- .? .     N     _LE BRAZ Anatole             L'H“te du charbonnier ş1898
+?- .? .     N     _LE BRAZ Anatole             L'Aventure du pilote ş1889
+?- .C .     C     _LE BRAZ Anatole             Equip‚es de printemps
+?- .? .     N     _LE BRAZ Anatole             La Foire grasse ş?
+?- .? .     N     _LE BRAZ Anatole             Les Pƒques de Loull Vraz ş1892
+?o TB_BC       ?  1998.xx ..... ISBN 2-84362-007-4
+?} noimg          _Ferdinand Keller            ?
+?!--- 239 pages - 20cm - 109 francs
+?- .pN.    iNx    _LE BRAZ Anatole            &Le Passeur d'ƒmes ş1998
+?&                *BESANCON Dominique          
+?- .o .     p     _BESANCON Dominique          Pr‚face ş1998
 o TB_PBC      ?  1999.xx ..... ISBN 2-84362-...-.
 } noimg          _?                           ?
 + TB_PBC      ?  2002.01 ..... ISBN 2-84362-157-7
@@ -1682,8 +1846,8 @@ o TB_BC       ?  2015.02 ..... ISBN 978-2-84362-540-4
 ?- .o .     Ax    *LE BRAZ Anatole             Vieilles histoires du pays breton ş?
 
 !-----------------------------------------------------------------------------
-_ TB_ARTH Terre de Brume, Coll. BibliothŠque arthurienne
-_ TB_ARTG Terre de Brume, Coll. Grande bibliothŠque arthurienne
+_ TB_ARTH Terre de Brume - BibliothŠque arthurienne
+_ TB_ARTG Terre de Brume - Grande bibliothŠque arthurienne
 !-----------------------------------------------------------------------------
 o TB_ARTH     ?  1993.xx ..... ISBN 2-908021-17-X
 } noimg          _?                           ?
@@ -1737,7 +1901,7 @@ o TB_ARTG     ?  2012.05 ..... ISBN 978-2-84362-480-3
 : .o .     N     _FAKHOURI Anne               Ce que chuchotait l'eau ş2012
 : .o .     N     _LUVAN                       Le Chevalier noir ş2012
 : .o .     N     _GALLART R‚my                Voyage sans retour ş2012
-: .o .     N     _WHITLOCK Dean               Le Sacre du nouvel an ş2012
+: .o .     N     _WHITLOCK Dean               Le Sacre du nouvel an ş2012 The Rite of the Yearly King şTrad. CHENU Lucie
 : .o .     N     _VALLS DE GOMIS Estelle      L'Histoire du haut-portail ş2012
 : .o .     N     _LARA L‚onor                 D‚charm‚, peut-ˆtre ş2012
 : .o .     N     _DOKE Sara                   Fata Morgana ş2012
@@ -1770,7 +1934,7 @@ o TB_ARTG     ?  2017.xx ..... ISBN 978-2-84362-626-5
 ?&                _MARY Andr‚                  
 
 !-----------------------------------------------------------------------------
-_ TB_BIBM Terre de Brume, Coll. BibliothŠque du Merveilleux
+_ TB_BIBM Terre de Brume - BibliothŠque du Merveilleux
 !-----------------------------------------------------------------------------
 o TB_BIBM     ?  2017.xx ..... ISBN 978-2-84362-658-6
 } noimg          _?                           Gustave Dor‚
@@ -1788,12 +1952,16 @@ o TB_BIBM     ?  2020.02 ..... ISBN 978-2-84362-668-5
 } noimg          _?                           ?
 !--- GF - 150 x 230 mm - 245 pages - 18 euros
 !--- Pr‚sent‚ par "Le Carrefour de Tr‚c‚lien"
-- .oN.    iA30   ****                         Contes et l‚gendes de Broc‚liande ş1999
+- .oN.    iAx    ****                         Contes et l‚gendes de Broc‚liande ş1999
+o TB_BIBM     ?  2021.06 ..... ISBN 978-2-84362-685-2
+} noimg          _C. H‚rouard                 ?
+!--- GF - 15 x 23 - 318 pages - 22 euros
+- .o .     R     _TOUDOUZE Georges-G.         Les Derniers jours d'Ys la Maudite ş1947
 
 !-----------------------------------------------------------------------------
-_ TB_BP   Terre de Brume, Coll. BibliothŠque de Poche
-_ TB_BPCM Terre de Brume, Coll. Les Contes du Monde Entier, BibliothŠque de Poche
-_ TB_BPBC Terre de Brume, Coll. Les plus beaux contes, BibliothŠque de Poche
+_ TB_BP   Terre de Brume - BibliothŠque de Poche
+_ TB_BPCM Terre de Brume - BibliothŠque de Poche - Les Contes du Monde Entier
+_ TB_BPBC Terre de Brume - BibliothŠque de Poche - Les plus beaux contes
 !-----------------------------------------------------------------------------
 !--- Les contes du monde entier (Format poche broch‚)
 !--- ISSN 1621-0727
@@ -1880,14 +2048,14 @@ o TB_BP       ?  2003.02 ..... ISBN 2-84362-182-8
 ?&                _DUPOUY Auguste              
 o TB_BPCM    20  2003.xx ..... ISBN 2-84362-193-3
 } noimg          _?                           ?
-- .oY.    iA25   *BESANCON Dominique         &Gnomes, lutins, korrigans, farfadets, trolls et autres g‚nies du monde ş2003
+- .oY.    iAx    *BESANCON Dominique         &Gnomes, lutins, korrigans, farfadets, trolls et autres g‚nies du monde ş2003
 &                *FERDINAND Sylvie            
 ?o TB_BP      21  2004.02 ..... ISBN 2-84362-226-3
 ?} noimg          _?                           ?
 ?- .? .    iAx    *CAMBY Philippe              Le Petit Monde licencieux des bretons ş2004
 o TB_BPBC    22  2004.04 ..... ISBN 2-84362-236-0
 } noimg          _?                           ?
-- .oY.    iA25   *BESANCON Dominique         &Dragons, licornes et autres chimŠres ş2004
+- .oY.    iAx    *BESANCON Dominique         &Dragons, licornes et autres chimŠres ş2004
 &                *FERDINAND Sylvie            
 o TB_BP       ?  2000.10 ..... ISBN 2-84362-102-X
 } noimg          _?                           ?
@@ -1905,7 +2073,7 @@ o TB_BPCM     ?  2005.04 ..... ISBN 2-84362-293-X
 : .oF.     N     _BESANCON Dominique          Le mariage de Pauvre Vampire ş2005
 
 !-----------------------------------------------------------------------------
-!--- Terre de Brume, Coll. Beaux Livres
+!--- Terre de Brume, Beaux Livres
 !-----------------------------------------------------------------------------
 o TBRU_BL     ?  2003.xx ..... ISBN 2-84362-190-.
 } noimg          _?                           ?

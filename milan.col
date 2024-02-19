@@ -2,25 +2,32 @@
 !--- MILAN, Les aventuriers
 !-----------------------------------------------------------------------------
 !---
-!--- MilanAV Ed. Milan, Coll. Les Aventuriers
-!--- MilanP  Ed. Milan poche
-!--- Milan_J Ed. Milan, Jeunesse
-!--- MilaPJA Ed. Milan Poche Junior Aventure
-!--- MilaPJS Ed. Milan poche junior, Science-fiction
-!--- MilaPJF Ed. Milan poche Junior, Fantastique
-!--- MilaPJV Ed. Milan poche Junior, Vive les filles !
-!--- MilanZ  Ed. Milan, Coll. Zanzibar
-!--- Milan_F Ed. Milan, Fiction
-!--- MilanGF Ed. Milan, Grand Format
+!--- MilanAV Milan, Collection Les Aventuriers
+!--- MilanP  Milan poche
+!--- Milan_J Milan, Jeunesse
+!--- MilaPJA Milan Poche Junior Aventure
+!--- MilaPJS Milan poche junior, Science-fiction
+!--- MilaPJF Milan poche Junior, Fantastique
+!--- MilaPJV Milan poche Junior, Vive les filles !
+!--- MilanZ  Milan, Collection Zanzibar
+!--- Milan_F Milan, Fiction
+!--- MilanGF Milan, Grand Format
 !---
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ MilanMU Ed. Milan, Coll. Mille et un contes
+_ MilanMU Milan - Mille et un contes
+!-----------------------------------------------------------------------------
+!--- Aussi :
+!--- "histoires de f‚es et elfes" 108 pages - 2002 - 2-7459-0756-5
+!--- "Histoires de monstres et dragons" 108 pages - 2003
+!--- ... Cf. BNF
 !-----------------------------------------------------------------------------
 !--- TBD pour quel ƒge ?
-?o MilanMU     ?  2001.xx ..... ISBN 2-7459-0373-X
+?o MilanMU     ?  2001.08 ..... ISBN 2-7459-0373-X
 ?} noimg          _?                           ?
+?!--- 2001 : 106 pages - 23 x 29 cm - 12 contes
+?!--- 2005 : 112 pages - 22 x 28 cm - 2-7459-1668-8
 ?- .o .     A12   ****                         Histoires de nains et lutins þ2001
 ?: .o .     N     _--- (inconnu)               Pierre le paresseux et le roi des trolls, conte traditionnel þ?
 ?: .o .     N     _BORGAL Cl‚ment              Le Mendiant, la grive et le lapin þ?
@@ -36,8 +43,8 @@ _ MilanMU Ed. Milan, Coll. Mille et un contes
 ?: .o .     N     _BORGAL Cl‚ment              La Maison du berger þ?
 
 !-----------------------------------------------------------------------------
-_ Milan   Ed. Milan
-_ MilanMa Ed. Milan, Macadam
+_ Milan   Milan
+_ MilanMa Milan - Macadam
 !-----------------------------------------------------------------------------
 !------------------------
 !=== 2004
@@ -70,7 +77,7 @@ o Milan_J     ?  2005.10 ..... ISBN 2-7459-1791-9
 } noimg          _?                           ?
 + Milan_J     ?  2018.10 ..... ISBN 978-2-408-00431-6
 } noimg          _?                           ?
-- .oY.     R     _STEWART Paul               &L'Abominable Docteur Cƒlinou [Chroniques du marais qui pue - 3] þ2004 Dr. Cuddles Of Giggle Glade þTrad. SARN Am‚lie
+- .oY.     R     _STEWART Paul               &L'Abominable Docteur Cƒlinou [Chroniques du marais qui pue - 3] þ2004 Dr. Cuddles of Giggle Glade þTrad. SARN Am‚lie
 &                _RIDDELL Chris               
 o Milan       ?  2005.11 ..... ISBN 2-7459-1984-9
 } noimg          _?                           ?
@@ -90,9 +97,10 @@ o Milan       ?  2006.11 ..... ISBN 978-2-7459-2201-4
 !------------------------
 !=== 2007
 !------------------------
-o MilanMa     ?  2007.02 ..... ISBN 978-2-7459-....-.
+o MilanMa     ?  2007.02 ..... ISBN 978-2-7459-2610-4
 } noimg          _?                           ?
-- .oS.     R     _WESTERFELD Scott            V-Virus þ2005 Peeps þTrad. FOURNIER Guillaume
+!--- Jeunesse 13+ - 21 cm - 331 pages - 9,50 euros
+- .oS.     R     _WESTERFELD Scott            V-Virus [Peeps - 1] þ2005 Peeps þTrad. FOURNIER Guillaume
 o Milan       ?  2007.03 ..... ISBN 978-2-7459-2463-6
 } noimg          _?                           ?
 - .oF.     R     _POUJOIS Laurent             Les Voyageurs d'Ulthar [Les Enfants du rˆve - 2] þ2007
@@ -111,9 +119,6 @@ o Milan       ?  2007.10 ..... ISBN 978-2-7459-2642-5
 !------------------------
 !=== 2008
 !------------------------
-o Milan       ?  2008.03 ..... ISBN 978-2-7459-2996-9
-} noimg          _?                           ?
-- .oF.     R     _CARY Kate                   L'H‚ritier [Dracula (Bloodline) - 1] þ2006 Bloodline þTrad. PINGAULT Emmanuelle
 o Milan       ?  2008.03 ..... ISBN 978-2-7459-2583-1
 } noimg          _?                           ?
 - .oF.     R     _ZIMMERMANN N.M.             La Cit‚ des damn‚s [Eden City - 3] þ2008
@@ -123,6 +128,13 @@ o Milan       ?  2008.04 ..... ISBN 978-2-7459-2988-4
 o Milan       ?  2008.04 ..... ISBN 978-2-7459-2989-1
 } noimg          _?                           ?
 - .oS.     R     _COLE Steve                  SOS Oviraptors [Les Astrosaures - 2] þ2005 The Hatching Horror þTrad. CANTIN Virginie
+o Milan       ?  2008.03 ..... ISBN 978-2-7459-2996-9
+} noimg          _?                           ?
+- .oF.     R     _CARY Kate                   L'H‚ritier [Dracula (Bloodline) - 1] þ2006 Bloodline þTrad. PINGAULT Emmanuelle
+o MilanMa     ?  2008.xx ..... ISBN 978-2-7459-2999-0
+} noimg          _?                           ?
+!--- Jeunesse 13+ - 21 cm - 315 pages - 10,50 euros
+- .oS.     R     _WESTERFELD Scott            A-Apocalypse - Bande-son pour fin du monde [Peeps - 2] þ2006 The Last Days þTrad. FOURNIER Guillaume
 o Milan       ?  2008.04 ..... ISBN 978-2-7459-2990-7
 } noimg          _?                           ?
 - .oS.     R     _COLE Steve                  Le Monstre de la nuit [Les Astrosaures - 3] þ2005 The Seas of Doom þTrad. CANTIN Virginie
@@ -390,13 +402,13 @@ o MilanMa     ?  2015.05 ..... ISBN 978-2-7459-6826-5
 - .oS.     R     _BLACKMAN Malorie            Les Insurg‚s þ2013 The Noble Conflict þTrad. SARN Am‚lie
 o MilanMa     ?  2015.04 ..... ISBN 978-2-7459-7542-3
 } noimg          _?                           ?
-- .oF.     R     _GIER Kerstin                Bleu saphir [Rouge rubis - 2] þ2010 SaphirBlau þTrad. LEMAIRE Nelly
+- .oF.     R     _GIER Kerstin                Bleu saphir [Rouge rubis - 2] þ2010 Saphirblau þTrad. LEMAIRE Nelly
 o MilanMa     ?  2015.05 ..... ISBN 978-2-7459-6816-6
 } noimg          _MILLET S‚verin              ?
 - .oF.     R     _BAO Karen                   La R‚volte de la colombe [Moon - 1] þ2015 Dove Arising þTrad. ALLOUCH Claire
 o Milan       ?  2015.10 ..... ISBN 978-2-7459-7530-0
 } noimg          _Chris Riddell               ?
-- .oF.     R     _RIDDELL Chris               Une fˆte d'enfer [Lili Goth - 2] þ2015 Goth Girl and the Wuthering Fright þTrad. SARN Am‚lie
+- .oF.     R     _RIDDELL Chris               Une fˆte d'enfer ! [Lili Goth - 2] þ2014 Goth Girl and the Fete Worse Than Death þTrad. SARN Am‚lie
 o Milan       ?  2015.xx ..... ISBN 978-2-7459-7540-9
 } noimg          _Laura Ellen Anderson        Laura Ellen Anderson
 - .oS.     R     _POUNDER Sib‚al              Concours … Canal sorciŠre [Malicia Peps - 1] þ2015 Witch Wars þTrad. GOURDEAU Christelle
@@ -408,13 +420,13 @@ o MilanMa     ?  2016.03 ..... ISBN 978-2-7459-6824-1
 - .oF.     R     _GIER Kerstin                Silver - Livre deuxiŠme [Silver - 2] þ2014 Das zweite Buch der Tr„ume þTrad. LEMAIRE Nelly
 o Milan       ?  2016.05 ..... ISBN 978-2-7459-7862-2
 } noimg          _?                           ?
-- .oF.     R     _BARDUGO Leigh               Six of Crows [Six of Crows - 1] þ2015 Six of Crows þTrad. RIVELINE Anath
+- .oF.     R     _BARDUGO Leigh               Six of Crows [Six of Crows - 1][Grisha] þ2015 Six of Crows þTrad. RIVELINE Anath
 o MilanMa     ?  2016.09 ..... ISBN 978-2-7459-6825-8
 } noimg          _?                           ?
 - .oF.     R     _GIER Kerstin                Silver - Livre troisiŠme [Silver - 3] þ2015 Das dritte Buch der Tr„ume þTrad. LEMAIRE Nelly
 o Milan       ?  2016.10 ..... ISBN 978-2-7459-7777-9
 } noimg          _Chris Riddell               ?
-- .oF.     R     _RIDDELL Chris               Les Hauts de Hurlefrousse [Lili Goth - 3] þ2014 Goth Girl and the Fete Worse Than Death þTrad. SARN Am‚lie
+- .oF.     R     _RIDDELL Chris               Les Hauts de Hurlefrousse [Lili Goth - 3] þ2015 Goth Girl and the Wuthering Fright þTrad. SARN Am‚lie
 o Milan       ?  2016.xx ..... ISBN 978-2-7459-7541-6
 } noimg          _Laura Ellen Anderson        Laura Ellen Anderson
 - .oS.     R     _POUNDER Sib‚al              Malicia Peps et la sorciŠre suprˆme [Malicia Peps - 2] þ2015 Witch Switch þTrad. GOURDEAU Christelle
@@ -444,7 +456,7 @@ o Milan       ?  2017.03 ..... ISBN 978-2-7459-7827-1
 - .oS.     R     _BRALLIER Max                Zombie parade [Les M“mes de l'apocalypse - 2] þ2016 The Last Kids on Earth and the Zombie Parade þTrad. LOUSSOUARN Samuel
 o Milan       ?  2017.05 ..... ISBN 978-2-7459-7863-9
 } noimg          _?                           ?
-- .oF.     R     _BARDUGO Leigh               La Cit‚ corrompue [Six of Crows - 2] þ2016 Crooked Kingdom þTrad. RIVELINE Anath
+- .oF.     R     _BARDUGO Leigh               La Cit‚ corrompue [Six of Crows - 2][Grisha] þ2016 Crooked Kingdom þTrad. RIVELINE Anath
 o Milan       ?  2017.05 ..... ISBN 978-2-7459-8475-3
 } noimg          _Chris Riddell               ?
 - .oF.     R     _RIDDELL Chris               Apolline et le renard mauve [Apolline - 4] þ2016 Ottoline and the Purple Fox þTrad. SARN Am‚lie
@@ -561,7 +573,7 @@ o Milan       ?  2019.06 ..... ISBN 978-2-408-00895-6
 - .oS.     R     _ALIX Maiwenn                M‚moire vive [In Real Life - 2] þ2019
 o Milan       ?  2019.09 ..... ISBN 978-2-408-01373-8
 } noimg          _?                           ?
-- .oF.     R     _BARDUGO Leigh               King of Scars þ2019 King of Scars þTrad. RIVELINE Anath
+- .oF.     R     _BARDUGO Leigh               King of Scars [King of Scars - 1][Grisha] þ2019 King of Scars þTrad. RIVELINE Anath
 o Milan       ?  2019.09 ..... ISBN 978-2-7459-9753-1
 } noimg          _Levente Szabo               ?
 - .oF.     R     _AUGUST John                 Le Lac de la Lune [Arlo Finch - 2] þ2019 Arlo Finch in the Lake of the Moon þTrad. DAMANT-JEANDEL Leslie
@@ -589,7 +601,7 @@ o Milan       ?  2020.02 ..... ISBN 978-2-4080-1402-5
 o Milan       ?  2020.02 ..... ISBN 978-2-4080-0857-4
 } noimg          _Matt Murphy                 ?
 !--- 155 x 230 mm - 448 pages - 17,90 euros
-- .oS.     R     _FLETCHER Giovanna          &Eve of Man þ2018 Eve of Man þTrad. DELCOURT Anne
+- .oS.     R     _FLETCHER Giovanna          &Eve of Man [Eve of Man - 1] þ2018 Eve of Man þTrad. DELCOURT Anne
 &                _FLETCHER Tom                
 o Milan       ?  2020.06 ..... ISBN 978-2-7459-7966-7
 } noimg          _?                           ?
@@ -615,10 +627,22 @@ o Milan       ?  2020.09 ..... ISBN 978-2-4080-0376-0
 } noimg          _?                           ?
 !--- Jeunesse - 140 x 205 mm - 384 pages - 13.50 euros
 - .oF.     R     _GORMAN Zac                  Lesly Davenport et l'‚preuve moisie [Lesly Davenport - 2] þ2019 Thisby Thestoop and the Wretched Scrattle þTrad. ?
+!------------------------
+!=== 2021
+!------------------------
+o Milan_J     ?  2021.02 ..... ISBN 978-2-408-00858-1
+} noimg          _(c)Getty Images             ?
+!--- Jeunesse - GF - 150 x 230 - 337 pages
+- .oS.     R     _FLETCHER Giovanna          &Des illusions [Eve of Man - 2] þ2020 The Eve Illusion þTrad. DELCOURT Anne
+&                _FLETCHER Tom                
+o Milan_J     ?  2021.09 ..... ISBN 978-2-408-00425-5
+} noimg          _Tom Clohosy Cole            ?
+!--- Jeunesse - GF - 140x205 
+- .oS.     R     _HADDIX Margaret Peterson    Les Messagers [La Disparition des enfants Greystone - 3] þ2021 The Messengers þTrad. DAMANT-JEANDEL Leslie
 
 
 !-----------------------------------------------------------------------------
-_ Milan_J Ed. Milan, Jeunesse
+_ Milan_J Milan - Jeunesse
 !-----------------------------------------------------------------------------
 o Milan_J     ?  2010.03 ..... ISBN 978-2-7459-3724-7
 } noimg          _?                           ?
@@ -631,7 +655,7 @@ o Milan_J     ?  2011.03 ..... ISBN 978-2-7459-3729-2
 - .oS.     R     _PAYET Jean-Michel           L'Empreinte des rˆves [2065 - 3] þ2011
 
 !-----------------------------------------------------------------------------
-_ MilanAV Milan, Coll. Les Aventuriers
+_ MilanAV Milan - Les Aventuriers
 !-----------------------------------------------------------------------------
 !--- MILAN, Les aventuriers
 !-----------------------------------------------------------------------------
@@ -679,11 +703,11 @@ o MilanP      ?  2009.05 ..... ISBN 978-2-7459-3582-3
 !-----------------------------------------------------------------------------
 !--- Milan Poche Junior
 !-----------------------------------------------------------------------------
-_ MilaPJA Milan poche junior, Aventure
-_ MilaPJV Milan poche junior, Vive les filles !
-_ MilaPJS Milan poche junior, Science-fiction
-_ MilaPJF Milan poche junior, Fantastique
-_ MilaPJP Milan poche junior, Frissons
+_ MilaPJA Milan poche junior - Aventure
+_ MilaPJV Milan poche junior - Vive les filles !
+_ MilaPJS Milan poche junior - Science-fiction
+_ MilaPJF Milan poche junior - Fantastique
+_ MilaPJP Milan poche junior - Frissons
 !-----------------------------------------------------------------------------
 !--- MILAN Poche Junior, collection SF
 !-----------------------------------------------------------------------------
@@ -718,7 +742,7 @@ o MilaPJF    24  2000.xx ..... ISBN 2-84113-991-3
 : .o .     N     _POE Edgar Allan             La Chute de la maison Usher þ1839 The Fall of the House of Usher
 : .o .     N     _POE Edgar Allan             Le Masque de la mort rouge þ1842 The Masque of the Red Death
 : .o .     N     _POE Edgar Allan             Le Chat noir þ1843 The Black Cat
-: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-Tale Heart
 : .o .     N     _POE Edgar Allan             La Barrique d'Amontillado þ1846 The Cask of Amontillado
 : .o .     N     _POE Edgar Allan             Hop-Frog þ1849 Hop-Frog
 o MilaPJS    27  2000.xx ..... ISBN 2-7459-0032-3
@@ -820,11 +844,20 @@ o MilaPJA   159  2014.xx ..... ISBN 978-2-7459-7191-3
 - .oF.     R     _STEWART Paul               &L'‚trange Affaire du loup de la nuit [Edgar Destoits - 1] þ2007 Curse of the Night Wolf þTrad. ODIN Jacqueline
 &                _RIDDELL Chris               
 
+!-----------------------------------------------------------------------------
+!--- Milan Poche Cadet +
+!-----------------------------------------------------------------------------
+_ MilaPCA Milan poche cadet + - Aventure
+!-----------------------------------------------------------------------------
+o MilaPCA    26  2005.xx ..... ISBN 2-7459-1700-5
+} nathln15       _?                           Daniel Kerleroux
+!--- Jeunesse - 93 pages - 18 cm - 5,5 euros
+- .oF.     r     _GUDULE                      Destination cauchemar þ1998
 
 !-----------------------------------------------------------------------------
-_ MilanZ  Milan, Coll. Zanzibar
+_ MilanZ  Milan - Zanzibar
 !-----------------------------------------------------------------------------
-!--- MILAN, Coll. Zanzibar
+!--- MILAN, Collection Zanzibar
 !-----------------------------------------------------------------------------
 o MilanZ     10  1987.xx ..... ISBN 2-86726-157-0
 } noimg          _?                           ?
@@ -841,6 +874,10 @@ o MilanZ     25  1988.xx ..... ISBN 2-86726-273-9
 } noimg          _?                           ?
 - .oF.     R     _MONCOMBLE G‚rard            L'Heure du rat [Les Enfants de Mega - 1] þ1988
 o MilanZ     26  1988.xx ..... ISBN 2-86726-274-7
+} noimg          _?                           ?
++ MilanZ     26  1992.xx ..... ISBN ?
+} noimg          _?                           ?
++ MilanZ     26  1995.xx ..... ISBN ?
 } noimg          _?                           ?
 - .oS.     R     _PELOT Pierre                Le Pays des riviŠres sans nom þ1973
 o MilanZ     29  1988.xx ..... ISBN 2-86726-281-X
@@ -930,7 +967,7 @@ o MilanZ    178  1997.xx ..... ISBN 2-84113-503-9
 - .oS.     R     _JOSEPHINE R‚gine            Les Rebelles de l'Enki-Ea þ1997
 
 !-----------------------------------------------------------------------------
-_ Milan_F Milan, Fiction
+_ Milan_F Milan - Fiction
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 o Milan_F     ?  2002.xx ..... ISBN 2-7459-1654-8
@@ -947,8 +984,8 @@ o Milan_F     ?  2005.09 ..... ISBN 2-7459-1683-1
 
 
 !-----------------------------------------------------------------------------
-_ MilanGF Milan, Grand format
-_ MilanGR Milan, Grand romans
+_ MilanGF Milan - Grand format
+_ MilanGR Milan - Grand romans
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 o MilanGF     ?  2002.xx ..... ISBN 2-7459-0541-4

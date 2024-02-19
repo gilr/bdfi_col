@@ -20,10 +20,10 @@
 !-----------------------------------------------------------------------------
 !--- + les "assimil‚s" (n'appartenant pas … la collection)
 !-----------------------------------------------------------------------------
-_ CREM_MF Ed. de Cr‚mille/Ed. de l'Erable, Coll. Les Chefs d'Oeuvre du MystŠre et du Fantastique
-_ FERN_MF Ed. de Fernier/Ed. de l'Erable, Coll. Les Chefs d'Oeuvre du MystŠre et du Fantastique
-_ STCL_MF Ed. de Saint-Clair/Ed. de l'Erable, Coll. Les Chefs d'Oeuvre du MystŠre et du Fantastique
-_ FAMO_MF Ed. Famot, Coll. Les Chefs-d'Oeuvre du MystŠre et du Fantastique
+_ CREM_MF Editions de Cr‚mille/Editions de l'Erable - Les Chefs d'Oeuvre du MystŠre et du Fantastique
+_ FERN_MF Editions de Fernier/Editions de l'Erable - Les Chefs d'Oeuvre du MystŠre et du Fantastique
+_ STCL_MF Editions de Saint-Clair/Editions de l'Erable - Les Chefs d'Oeuvre du MystŠre et du Fantastique
+_ FAMO_MF Famot - Les Chefs-d'Oeuvre du MystŠre et du Fantastique
 !-----------------------------------------------------------------------------
 
 
@@ -207,7 +207,7 @@ o CREM_MF     ?  1968.xx R.... ISBN -
 : .o .     r     _HOFFMANN E.T.A.             Le Majorat þ1817 Das Majorat
 : .o .     N     _HOFFMANN E.T.A.             L'Homme au sable þ1815 Der sandmann
 : .o .     N     _HOFFMANN E.T.A.             La Femme vampire þ1821 Vampirismus. Eine gr„áliche Geschichte
-: .o .     N     _HOFFMANN E.T.A.             Le Diable … Berlin þ1820 Nachtricht aus dem Leben eines bekannten Mannes
+: .o .     N     _HOFFMANN E.T.A.             Le Diable … Berlin þ1819 Aus dem Leben eines bekannten Mannes
 : .o .     N     _HOFFMANN E.T.A.             Ignace Denner þ1817 Ignaz Denner
 : .o .     o     _GAUTIER Th‚ophile           Th‚ophile Gautier parle des contes fantastiques d'Hoffman þ?
 o FAMO_MF     ?  1974.xx ..... ISBN -
@@ -216,7 +216,7 @@ o FAMO_MF     ?  1974.xx ..... ISBN -
 : .o .     r     _HOFFMANN E.T.A.             Le Majorat þ1817 Das Majorat
 : .o .     N     _HOFFMANN E.T.A.             L'Homme au sable þ1815 Der sandmann
 : .o .     N     _HOFFMANN E.T.A.             La Femme vampire þ1821 Vampirismus. Eine gr„áliche Geschichte
-: .o .     N     _HOFFMANN E.T.A.             Le Diable … Berlin þ1820 Nachtricht aus dem Leben eines bekannten Mannes
+: .o .     N     _HOFFMANN E.T.A.             Le Diable … Berlin þ1819 Aus dem Leben eines bekannten Mannes
 : .o .     N     _HOFFMANN E.T.A.             Ignace Denner þ1817 Ignaz Denner
 : .o .     o     _GAUTIER Th‚ophile           Th‚ophile Gautier parle des contes fantastiques d'Hoffman þ?
 o CREM_MF     ?  1968.xx R.... ISBN -
@@ -234,8 +234,7 @@ o FAMO_MF     ?  1974.xx R.... ISBN -
 o CREM_MF     ?  1969.xx ..... ISBN -
 } beauval_comf   _?                           ?
 - .oF.    _A11   _WILDE Oscar                 Le Crime de Lord Arthur Savile et autres contes þ1969
-!--- (1891 Arthur Savile's Crimes and other Stories) moins 3 nouvelles
-: .o .     N     _WILDE Oscar                 Le Crime de Lord Arthur Savile þ1891 Lord Arthur Savile's Crime
+: .o .     N     _WILDE Oscar                 Le Crime de Lord Arthur Savile þ1887 Lord Arthur Savile's Crime
 : .o .     N     _WILDE Oscar                 Le G‚ant ‚go‹ste þ1888 The Selfish Giant
 : .o .     N     _WILDE Oscar                 Le Sphinx sans secret þ1894 The Sphinx Without a Secret
 : .o .     N     _WILDE Oscar                 La Fus‚e remarquable þ1888 The Remarkable Rocket
@@ -250,15 +249,14 @@ o CREM_MF     ?  1969.xx ..... ISBN -
 o FAMO_MF     ?  1974.xx ..... ISBN -
 } beauval_comf   _?                           ?
 - .oF.    _A11   _WILDE Oscar                 Le Crime de Lord Arthur Savile et autres contes þ1969
-!--- (1891 Arthur Savile's Crimes and other Stories) moins 3 nouvelles
-: .o .     N     _WILDE Oscar                 Le Crime de Lord Arthur Savile þ1891 Lord Arthur Savile's Crime
+: .o .     N     _WILDE Oscar                 Le Crime de Lord Arthur Savile þ1887 Lord Arthur Savile's Crime
 : .o .     N     _WILDE Oscar                 Le G‚ant ‚go‹ste þ1888 The Selfish Giant
 : .o .     N     _WILDE Oscar                 Le Sphinx sans secret þ1894 The Sphinx Without a Secret
 : .o .     N     _WILDE Oscar                 La Fus‚e remarquable þ1888 The Remarkable Rocket
 : .o .     N     _WILDE Oscar                 Le Pˆcheur et son ƒme þ1891 The Fisherman and His Soul
 : .o .     N     _WILDE Oscar                 L'Ami d‚vou‚ þ1888 The Devoted Friend
 : .o .     N     _WILDE Oscar                 Le Prince heureux þ1888 The Happy Prince
-: .o .     N     _WILDE Oscar                 L'Anniversaire de l'infante þ1889 The Birthday of the Infanta
+: .x .     N     _WILDE Oscar                 L'Anniversaire de l'infante þ1889 The Birthday of the Infanta
 : .o .     N     _WILDE Oscar                 Le Rossignol et la rose þ1888 The Nightingale and the Rose
 : .o .     N     _WILDE Oscar                 L'Enfant de l'‚toile þ1891 The Star-child
 : .o .     N     _WILDE Oscar                 Le Spectre des Canterville þ1887 The Canterville Ghost
@@ -271,10 +269,9 @@ o CREM_MF     ?  1969.xx R.... ISBN -
 &                *DEMAZIERE Albert            
 : .oF.     N     _SCOTT Walter                Le Miroir de ma tante Marguerite þ1828 My Aunt Margaret's Mirror
 : .oF.     N     _SCOTT Walter                La Veuve des Highlands þ1827 The Highlands Widow
-: .oF.     N     _SCOTT Walter                La Chambre tapiss‚e, ou la dame en sac þ1826 The Tapestried Chamber / The Tapestried Chamber or The Lady in the Sacque
+: .oF.     N     _SCOTT Walter                La Chambre tapiss‚e, ou la dame en sac þ1826 The Tapestried Chamber / The Tapestried Chamber or the Lady in the Sacque
 : .oF.     N     _DICKENS Charles             Le TreiziŠme Jur‚ þ1865 The Trial for Murder
 : .oF.     N     _DICKENS Charles             L'Histoire de la femme de journ‚e þ1852 The Charwoman's Story
-!-- extrait de "Les conteurs … la ronde" / A round of Stories by the Christmas fire
 : .oF.     N     _DICKENS Charles             L'Arbre de No‰l þ1850 A Christmas Tree
 : .oF.     N     _DICKENS Charles             La Cl‚ de la rue ou Londres la nuit þ? ?
 : .oF.     N     _DICKENS Charles             Le Spectre du tunnel þ1886 The Signal-man
@@ -286,7 +283,7 @@ o FAMO_MF     ?  1974.xx R.... ISBN -
 &                *DEMAZIERE Albert            
 : .oF.     N     _SCOTT Walter                Le Miroir de ma tante Marguerite þ1828 My Aunt Margaret's Mirror
 : .oF.     N     _SCOTT Walter                La Veuve des Highlands þ1827 The Highlands Widow
-: .oF.     N     _SCOTT Walter                La Chambre tapiss‚e, ou la dame en sac þ1826 The Tapestried Chamber / The Tapestried Chamber or The Lady in the Sacque
+: .oF.     N     _SCOTT Walter                La Chambre tapiss‚e, ou la dame en sac þ1826 The Tapestried Chamber / The Tapestried Chamber or the Lady in the Sacque
 : .oF.     N     _DICKENS Charles             Le TreiziŠme Jur‚ þ1865 The Trial for Murder
 : .oF.     N     _DICKENS Charles             L'Histoire de la femme de journ‚e þ1852 The Charwoman's Story
 : .oF.     N     _DICKENS Charles             L'Arbre de No‰l þ1850 A Christmas Tree
@@ -302,22 +299,22 @@ o FAMO_MF     ?  1974.xx ..... ISBN -
 - .o .     R     _BALZAC Honor‚ de            La Peau de chagrin þ1831
 o CREM_MF     ?  1969.xx R.... ISBN -
 } beauval_comf   _?                           ?
-- .o .     R     _LEWIS Matthew Gregory       Le Moine - Tome 1 : La mal‚diction þ1796 The Monk þTrad. DE WAILLY L‚on
+- .o .     R     _LEWIS Matthew Gregory       Le Moine - Tome 1 : La mal‚diction þ1796 The Monk þTrad. WAILLY L‚on de
 o FERN_MF     ?  1969.xx R.... ISBN -
 } beauval_comf   _?                           ?
-- .o .     R     _LEWIS Matthew Gregory       Le Moine - Tome 1 : La mal‚diction þ1796 The Monk þTrad. DE WAILLY L‚on
+- .o .     R     _LEWIS Matthew Gregory       Le Moine - Tome 1 : La mal‚diction þ1796 The Monk þTrad. WAILLY L‚on de
 o FAMO_MF     ?  1974.xx ..... ISBN -
 } beauval_comf   _?                           ?
-- .o .     R     _LEWIS Matthew Gregory       Le Moine - Tome 1 : La mal‚diction þ1796 The Monk þTrad. DE WAILLY L‚on
+- .o .     R     _LEWIS Matthew Gregory       Le Moine - Tome 1 : La mal‚diction þ1796 The Monk þTrad. WAILLY L‚on de
 o CREM_MF     ?  1969.xx R.... ISBN -
 } beauval_comf   _?                           ?
-- .o .     R     _LEWIS Matthew Gregory       Le Moine - Tome 2 : Le chƒtiment þ1796 The Monk þTrad. DE WAILLY L‚on
+- .o .     R     _LEWIS Matthew Gregory       Le Moine - Tome 2 : Le chƒtiment þ1796 The Monk þTrad. WAILLY L‚on de
 o FERN_MF     ?  1969.xx ..... ISBN -
 } beauval_comf   _?                           ?
-- .o .     R     _LEWIS Matthew Gregory       Le Moine - Tome 2 : Le chƒtiment þ1796 The Monk þTrad. DE WAILLY L‚on
+- .o .     R     _LEWIS Matthew Gregory       Le Moine - Tome 2 : Le chƒtiment þ1796 The Monk þTrad. WAILLY L‚on de
 o FAMO_MF     ?  1974.xx ..... ISBN -
 } beauval_comf   _?                           ?
-- .o .     R     _LEWIS Matthew Gregory       Le Moine - Tome 2 : Le chƒtiment þ1796 The Monk þTrad. DE WAILLY L‚on
+- .o .     R     _LEWIS Matthew Gregory       Le Moine - Tome 2 : Le chƒtiment þ1796 The Monk þTrad. WAILLY L‚on de
 o CREM_MF     ?  1969.xx R.... ISBN -
 } beauval_comf   _?                           ?
 !--- Illustrations ? + Jean cheval (2)
@@ -357,7 +354,7 @@ o CREM_MF     ?  1969.xx ..... ISBN -
 !--- Trad. ARBULEAU Jean
 : .o .     r     _STEVENSON Robert Louis      Le Cas ‚trange du docteur Jekyll et de Monsieur Hyde þ1885 The Strange Case of Dr Jekyll and Mr Hyde þTrad. NAUGRETTE Jean-Pierre
 : .o .     N     _STEVENSON Robert Louis      Jeannette la torse þ1881 Thrawn Janet
-: .oF.     N     _STEVENSON Robert Louis      Markheim þ1886 Markheim þTrad. DE LA CHESNAIS E.
+: .oF.     N     _STEVENSON Robert Louis      Markheim þ1885 Markheim þTrad. DE LA CHESNAIS E.
 : .o .     N     _STEVENSON Robert Louis      Le D‚terreur de cadavre þ1884 The Body Snatchers
 : .o .     N     _STEVENSON Robert Louis      Will du moulin þ1877 Will O' the Mill
 : .o .     N     _STEVENSON Robert Louis      La Bouteille diabolique þ1891 The Bottle Imp
@@ -370,7 +367,7 @@ o FAMO_MF     ?  1974.xx ..... ISBN -
 !--- Trad. ARBULEAU Jean
 : .o .     r     _STEVENSON Robert Louis      Le Cas ‚trange du docteur Jekyll et de Monsieur Hyde þ1885 The Strange Case of Dr Jekyll and Mr Hyde þTrad. NAUGRETTE Jean-Pierre
 : .o .     N     _STEVENSON Robert Louis      Jeannette la torse þ1881 Thrawn Janet
-: .oF.     N     _STEVENSON Robert Louis      Markheim þ1886 Markheim þTrad. DE LA CHESNAIS E.
+: .oF.     N     _STEVENSON Robert Louis      Markheim þ1885 Markheim þTrad. DE LA CHESNAIS E.
 : .o .     N     _STEVENSON Robert Louis      Le D‚terreur de cadavre þ1884 The Body Snatchers
 : .o .     N     _STEVENSON Robert Louis      Will du moulin þ1877 Will O' the Mill
 : .o .     N     _STEVENSON Robert Louis      La Bouteille diabolique þ1891 The Bottle Imp
@@ -380,10 +377,10 @@ o CREM_MF     ?  1970.xx R.... ISBN -
 } beauval_comf   _?                           ?
 - .oF.    _A10   _ERCKMANN-CHATRIAN           Le Cabaliste Hans Weinland et autres contes þ1970
 : .oF.     N     _ERCKMANN-CHATRIAN           Le Cabaliste Hans Weinland þ1862
-: .oF.     r     _ERCKMANN-CHATRIAN           Hugues le loup þ1876
+: .oF.     r     _ERCKMANN-CHATRIAN           Hugues le loup þ1860
 : .oF.     N     _ERCKMANN-CHATRIAN           Le Bouc d'Isra‰l þ1860
 : .oF.     N     _ERCKMANN-CHATRIAN           Une nuit dans les bois þ?
-: .oF.     N     _ERCKMANN-CHATRIAN           La Reine des abeilles þ1862
+: .oF.     N     _ERCKMANN-CHATRIAN           La Reine des abeilles þ1861
 : .oF.     N     _ERCKMANN-CHATRIAN           Le Requiem du corbeau þ1858
 : .oF.     N     _ERCKMANN-CHATRIAN           Entre deux vins þ1860
 : .oF.     N     _ERCKMANN-CHATRIAN           Le Violon du pendu þ?
@@ -393,10 +390,10 @@ o FAMO_MF     ?  1974.xx R.... ISBN -
 } beauval_comf   _?                           ?
 - .oF.    _A10   _ERCKMANN-CHATRIAN           Le Cabaliste Hans Weinland et autres contes þ1970
 : .oF.     N     _ERCKMANN-CHATRIAN           Le Cabaliste Hans Weinland þ1862
-: .oF.     r     _ERCKMANN-CHATRIAN           Hugues le loup þ1876
+: .oF.     r     _ERCKMANN-CHATRIAN           Hugues le loup þ1860
 : .oF.     N     _ERCKMANN-CHATRIAN           Le Bouc d'Isra‰l þ1860
-: .oF.     N     _ERCKMANN-CHATRIAN           Une nuit dans les bois þ?
-: .oF.     N     _ERCKMANN-CHATRIAN           La Reine des abeilles þ1862
+: .oF.     N     _ERCKMANN-CHATRIAN           Une nuit dans les bois þ1859
+: .oF.     N     _ERCKMANN-CHATRIAN           La Reine des abeilles þ1861
 : .oF.     N     _ERCKMANN-CHATRIAN           Le Requiem du corbeau þ1858
 : .oF.     N     _ERCKMANN-CHATRIAN           Entre deux vins þ1860
 : .oF.     N     _ERCKMANN-CHATRIAN           Le Violon du pendu þ?
@@ -429,8 +426,8 @@ o CREM_MF     ?  1970.xx R.... ISBN -
 : .o .     N     _HOFFMANN E.T.A.             Doge et Dogaresse þ1818 Doge und Dogaresse
 : .o .     N     _HOFFMANN E.T.A.             La ChaŒne des destin‚es þ1821 Der Zusammenhang der Dinge
 : .o .     N     _HOFFMANN E.T.A.             Le Magn‚tiseur þ1814 Der Magnetiseur. Eine Familienbegebenheit
-: .o .     N     _HOFFMANN E.T.A.             Le Coeur de pierre þ1817 Das sternerne Herz
-: .o .     N     _HOFFMANN E.T.A.             Le Reflet perdu þ1814 Die Abenteuer des Silversternacht
+: .o .     N     _HOFFMANN E.T.A.             Le Coeur de pierre þ1817 Das steinerne Herz
+: .o .     N     _HOFFMANN E.T.A.             Le Reflet perdu þ1814 Die Abenteuer des Silvesternacht
 ?: .o .     o     _CHRISTIAN P.                Le Diable met sa queue sur toute chose þ1842
 o FAMO_MF     ?  1974.xx R.... ISBN -
 } beauval_comf   _?                           ?
@@ -442,8 +439,8 @@ o FAMO_MF     ?  1974.xx R.... ISBN -
 : .o .     N     _HOFFMANN E.T.A.             Doge et Dogaresse þ1818 Doge und Dogaresse
 : .o .     N     _HOFFMANN E.T.A.             La ChaŒne des destin‚es þ1821 Der Zusammenhang der Dinge
 : .o .     N     _HOFFMANN E.T.A.             Le Magn‚tiseur þ1814 Der Magnetiseur. Eine Familienbegebenheit
-: .o .     N     _HOFFMANN E.T.A.             Le Coeur de pierre þ1817 Das sternerne Herz
-: .o .     N     _HOFFMANN E.T.A.             Le Reflet perdu þ1814 Die Abenteuer des Silversternacht
+: .o .     N     _HOFFMANN E.T.A.             Le Coeur de pierre þ1817 Das steinerne Herz
+: .o .     N     _HOFFMANN E.T.A.             Le Reflet perdu þ1814 Die Abenteuer des Silvesternacht
 ?: .o .     o     _CHRISTIAN P.                Le Diable met sa queue sur toute chose þ1842
 o CREM_MF     ?  1970.xx ..... ISBN -
 } beauval_comf   _?                           ?
@@ -626,7 +623,7 @@ o CREM_MF     ?  1970.xx R.... ISBN -
 : .o .     N     _POE Edgar Allan             Le Chat noir þ1843 The Black Cat
 : .o .     N     _POE Edgar Allan             William Wilson þ1839 William Wilson
 : .o .     N     _POE Edgar Allan             L'Homme des foules þ1840 The Man of the Crowd
-: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-Tale Heart
 : .o .     N     _POE Edgar Allan             B‚r‚nice þ1835 Berenice
 : .o .     N     _POE Edgar Allan             Hop-Frog þ1849 Hop-Frog
 : .o .     N     _POE Edgar Allan             La Barrique d'Amontillado þ1846 The Cask of Amontillado
@@ -647,7 +644,7 @@ o FAMO_MF     ?  1974.xx R.... ISBN -
 : .o .     N     _POE Edgar Allan             Le Chat noir þ1843 The Black Cat
 : .o .     N     _POE Edgar Allan             William Wilson þ1839 William Wilson
 : .o .     N     _POE Edgar Allan             L'Homme des foules þ1840 The Man of the Crowd
-: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-Tale Heart
 : .o .     N     _POE Edgar Allan             B‚r‚nice þ1835 Berenice
 : .o .     N     _POE Edgar Allan             Hop-Frog þ1849 Hop-Frog
 : .o .     N     _POE Edgar Allan             La Barrique d'Amontillado þ1846 The Cask of Amontillado
@@ -757,7 +754,7 @@ o CREM_MF     ?  1971.xx R.... ISBN -
 : .o .     N     _ERCKMANN-CHATRIAN           Le Bourgmestre en bouteille þ1857
 : .oF.     N     _ERCKMANN-CHATRIAN           La Lunette de Hans Schnaps þ1859
 : .oF.     N     _ERCKMANN-CHATRIAN           L'Araign‚e-Crabe þ1860
-: .oF.     N     _ERCKMANN-CHATRIAN           L'H‚ritage de l'oncle Christian þ?
+: .oF.     N     _ERCKMANN-CHATRIAN           L'H‚ritage de l'oncle Christian þ1860
 : .oF.     N     _ERCKMANN-CHATRIAN           Gretchen þ1860
 : .oF.     N     _ERCKMANN-CHATRIAN           La Montre du doyen þ1859
 : .oF.     N     _ERCKMANN-CHATRIAN           Le Blanc et le noir þ1862
@@ -776,7 +773,7 @@ o FAMO_MF     ?  1974.xx R.... ISBN -
 : .o .     N     _ERCKMANN-CHATRIAN           Le Bourgmestre en bouteille þ1857
 : .oF.     N     _ERCKMANN-CHATRIAN           La Lunette de Hans Schnaps þ1859
 : .oF.     N     _ERCKMANN-CHATRIAN           L'Araign‚e-Crabe þ1860
-: .oF.     N     _ERCKMANN-CHATRIAN           L'H‚ritage de l'oncle Christian þ?
+: .oF.     N     _ERCKMANN-CHATRIAN           L'H‚ritage de l'oncle Christian þ1860
 : .oF.     N     _ERCKMANN-CHATRIAN           Gretchen þ1860
 : .oF.     N     _ERCKMANN-CHATRIAN           La Montre du doyen þ1859
 : .oF.     N     _ERCKMANN-CHATRIAN           Le Blanc et le noir þ1862
@@ -808,7 +805,8 @@ o FAMO_MF     ?  1974.xx R.... ISBN -
 : .o .     o     _DEMAZIERE Albert            Nous sommes tous sortis du manteau de Gogol þ1971
 o CREM_MF     ?  1971.xx ..... ISBN -
 } beauval_comf   _?                           ?
-- .oF.    _N16   _NODIER Charles              Les D‚mons de la nuit þ1971
+- .oF.    _A16   _NODIER Charles             &Les D‚mons de la nuit þ1971
+&                *DEMAZIERE Albert            
 : .oFK     N     _NODIER Charles              Une heure ou la vision þ1806
 : .oF.va   N     _NODIER Charles              Smarra ou les d‚mons de la nuit þ1821
 : .oF.     N     _NODIER Charles              Les Aventures de Thibaud de la JacquiŠre þ1822
@@ -819,10 +817,9 @@ o CREM_MF     ?  1971.xx ..... ISBN -
 : .o .     N     _NODIER Charles              Paul ou la ressemblance - Histoire v‚ritable et fantastique þ1836
 : .o .     N     _NODIER Charles              InŠs de Las Sierras þ1837
 : .o .     N     _NODIER Charles              Lydie ou la r‚surrection þ1839
-?: .o .     o     _DEMAZIERE Albert            Avant mˆme les plus hardis þ?
+: .o .     o     _DEMAZIERE Albert            Avant mˆme les plus hardis þ1971
 o FAMO_MF     ?  1974.xx R.... ISBN -
 } beauval_comf   _?                           ?
-!---             Les d‚mons de la nuit Nodier Charles
 - .oF.    _A16   _NODIER Charles             &Les D‚mons de la nuit þ1971
 &                *DEMAZIERE Albert            
 : .oFK     N     _NODIER Charles              Une heure ou la vision þ1806
@@ -1015,10 +1012,10 @@ o FAMO_MF     ?  1974.xx R.... ISBN -
 !--- Look identique ou similaire, hors collection
 !---
 !-----------------------------------------------------------------------------
-_ CREMILL Ed. de Cr‚mille
-_ FAMOT   Ed. Famot
-_ ERABLE  Ed. de l'Erable
-_ CREBEAU Ed. de Cr‚mille/Ed. F. Beauval
+_ CREMILL Editions de Cr‚mille
+_ FAMOT   Famot
+_ ERABLE  Editions de l'Erable
+_ CREBEAU Editions de Cr‚mille/Editions F. Beauval
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
@@ -1090,6 +1087,7 @@ o FAMOT       ?  1974.xx R.... ISBN -
 o FAMOT       ?  1974.xx R.... ISBN -
 } beauval_comf   _?                           ?
 - .oSF    _N4    _LOVECRAFT Howard P.         D‚mons et merveilles þ1955
+!--- Poche - P 
 : .o .     p     _BERGIER Jacques             Introduction þ1955
 : .o .     N     _LOVECRAFT Howard P.         Le T‚moignage de Randolph Carter [Randolph Carter] þ1920 The Statement of Randolph Carter
 : .o .     N     _LOVECRAFT Howard P.         La Clef d'argent [Randolph Carter] þ1929 The Silver Key
@@ -1164,6 +1162,19 @@ o FAMOT       ?  1978.xx R.... ISBN -
 : .o .     N     _BROWN Fredric               Un mot de la direction þ1951 A Word from Our Sponsor
 : .o .     N     _BROWN Fredric               Bruissement d'ailes þ1953 Rustle of Wings
 : .o .     N     _BROWN Fredric               Imaginons þ1955 Imagine
+o FAMOT       ?  1983.xx ..... ISBN -
+} cdoyle_famot   _?                           ?
+!--- L'essai contient les 3 "documents suppl‚mentaires", "The Next Phase of Life", "Automatic Writing" et "The Cheriton Dugout".
+- .oF.    kN6    _DOYLE Arthur Conan          Histoires et messages de l'au-del… þ1967
+: .oF.     p     _LACASSIN Francis            Conan Doyle aux ‚coutes des morts þ1967
+: .oF.     N     _DOYLE Arthur Conan          La Hachette d'argent þ1883 The Silver Hatchet þTrad. ?
+: .oF.     N     _DOYLE Arthur Conan          L'Entonnoir de cuir þ1902 The Leather Funnel þTrad. ?
+: .oF.     N     _DOYLE Arthur Conan          La Main brune þ1899 The Story of the Brown Hand / The Brown Hand þTrad. ?
+: .oF.     N     _DOYLE Arthur Conan          Le Lot nø 249 þ1892 Lot Nø 249 þTrad. ?
+: .oF.     r     _DOYLE Arthur Conan          Le Parasite þ1894 The Parasite þTrad. ?
+: .oF.     N     _DOYLE Arthur Conan          Jouer avec le feu þ1900 Playing With Fire þTrad. ?
+: .x .     E     _DOYLE Arthur Conan          La Nouvelle R‚v‚lation þ1916 The New Revelation þTrad. ?
+
 
 !-----------------------------------------------------------------------------
 !--- Autres reli‚s, couv diff‚rente
@@ -1171,7 +1182,7 @@ o FAMOT       ?  1978.xx R.... ISBN -
 !-----------------------------------------------------------------------------
 ?o FAMOT       ?  1974.xx R.... ISBN -
 ?}famot_ccruels   _?                           ?
-?- .o .    iNx    _VILLIERS DE L'ISLE-ADAM     Contes cruels þ?
+?- .pF.    iNx    _VILLIERS DE L'ISLE-ADAM     Contes cruels þ?
 !--- 1974 Contes Cruels VILLIERS DE L'ISLE-ADAM, ill. Paul Destez
 !---  in-12, 165 x 115,   29. pages
 
@@ -1201,7 +1212,7 @@ o ERABLE      ?  1967.xx ..... ISBN -
 o ERABLE      ?  1967.xx ..... ISBN -
 !--- diverses r‚‚ditions 73, 74
 } noimg          _?                           ?
-- .o .     R     _ABOUT Edmond                L'Homme … l'oreille cass‚e þ1861
+- .o .     R     _ABOUT Edmond                L'Homme … l'oreille cass‚e þ1862
 o ERABLE      ?  1969.xx ..... ISBN -
 !--- diverses r‚‚ditions 74
 } noimg          _?                           ?
@@ -1214,8 +1225,8 @@ o ERABLE      ?  1967.xx ..... ISBN -
 !-----------------------------------------------------------------------------
 !--- Collection des Grands Romans Contemporains
 !-----------------------------------------------------------------------------
-_ CREM_RC Ed. Famot, Coll. Les Grands Romans Contemporains
-_ FAMO_RC Ed. Famot, Coll. Les Grands Romans Contemporains
+_ CREM_RC Editions de Cr‚mille - Les Grands Romans Contemporains
+_ FAMO_RC Famot - Les Grands Romans Contemporains
 !-----------------------------------------------------------------------------
 !--- Collection des grands romans contemporains; 38+ volumes, quelques SF
 !--- Reliure rouge, couv diff‚rente, plus grand format (in-12) 190 x 125
@@ -1242,7 +1253,7 @@ o FAMO_RC     ?  1974.xx R.... ISBN -
 - .o .     R     _BENOIT Pierre               L'Atlantide þ1919
 
 !-----------------------------------------------------------------------------
-_ FAMO_RP Ed. Famot, Coll. Les Grands MaŒtres du roman policier
+_ FAMO_RP Famot - Les Grands MaŒtres du roman policier
 !-----------------------------------------------------------------------------
 !--- Les Grands MaŒtres du roman policier
 !-----------------------------------------------------------------------------
@@ -1262,8 +1273,8 @@ o FAMO_RP     ?  1974.xx R.... ISBN -
 !--- Tome 1 - Vernoy 78 / Famot 1980
 !--- Tome 2 - Vernoy
 !-----------------------------------------------------------------------------
-_ VERSOIX Ed. Id‚graf & Versoix (Suisse)
-_ VERNOY  Ed. Id‚graf & Vernoy (Suisse)
+_ VERSOIX Id‚graf & Versoix (Suisse)
+_ VERNOY  Id‚graf & Vernoy (Suisse)
 !-----------------------------------------------------------------------------
 o VERSOIX     ?  1978.xx ..... ISBN -
 } famot_mf1      _?                           ?
@@ -1307,7 +1318,7 @@ o VERNOY      ?  1979.xx ..... ISBN -
 : .o .     N     _POE Edgar Allan             Le Chat noir þ1843 The Black Cat þTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Le Masque de la mort rouge þ1842 The Masque of the Red Death þTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Le D‚mon de la perversit‚ þ1845 The Imp of the Perverse þTrad. BAUDELAIRE Charles
-: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-tale Heart þTrad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-Tale Heart þTrad. BAUDELAIRE Charles
 : .oF.     N     _DICKENS Charles             Le Spectre du cheminot þ1886 The Signal-man þTrad. ?
 : .o .     N     _BIERCE Ambrose              L'Orteil central du pied droit þ1890 The Middle Toe of the Right Foot þAdapt. ARBULEAU Jean
 : .oF.     N     _STEVENSON Robert Louis      Janet la boŒteuse þ1881 Thrawn Janet þAdapt. ARBULEAU Jean
@@ -1321,7 +1332,7 @@ o FAMOT       ?  1980.xx ..... ISBN -
 : .o .     N     _POE Edgar Allan             Le Chat noir þ1843 The Black Cat þTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Le Masque de la mort rouge þ1842 The Masque of the Red Death þTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Le D‚mon de la perversit‚ þ1845 The Imp of the Perverse þTrad. BAUDELAIRE Charles
-: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-tale Heart þTrad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-Tale Heart þTrad. BAUDELAIRE Charles
 : .oF.     N     _DICKENS Charles             Le Spectre du cheminot þ1886 The Signal-man þTrad. ?
 : .o .     N     _BIERCE Ambrose              L'Orteil central du pied droit þ1890 The Middle Toe of the Right Foot þAdapt. ARBULEAU Jean
 : .oF.     N     _STEVENSON Robert Louis      Janet la boŒteuse þ1881 Thrawn Janet þAdapt. ARBULEAU Jean
@@ -1336,5 +1347,5 @@ o FAMOT       ?  1980.xx ..... ISBN -
 !--- Sans doute une confusion avec les deux tomes
 ?o FAMOT       ?  1974.xx ..... ISBN -
 ?} noimg          _?                           ?
-?- .o .     R     _LEWIS Matthew Gregory       Le Moine þ1796 The Monk þTrad. DE WAILLY L‚on
+?- .o .     R     _LEWIS Matthew Gregory       Le Moine þ1796 The Monk þTrad. WAILLY L‚on de
 

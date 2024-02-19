@@ -1,11 +1,12 @@
 
 !-----------------------------------------------------------------------------
-_ GULF    Ed. Gulf Stream
-_ GULF_CN Gulf Stream Editeur, Coll. Courants Noirs
-_ GULF_EL Gulf Stream Editeur, Coll. Electrogäne
-_ GULF_EC Gulf Stream Editeur, Coll. Echos
-_ GULF_ET Gulf Stream Editeur, Coll. Etincelles
-_ GULF_PO Gulf Stream Editeur, GSE Poche
+_ GULF    Gulf Stream
+_ GULF_CN Gulf Stream Editeur - Courants Noirs
+_ GULF_EL Gulf Stream Editeur - Electrogäne
+_ GULF_EC Gulf Stream Editeur - Echos
+_ GULF_ET Gulf Stream Editeur - Etincelles
+_ GULF_PO Gulf Stream Editeur - GSE Poche
+_ GULF_SP Gulf Stream Editeur - Spooky
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -129,9 +130,17 @@ o GULF_EL     ?  2016.08 ..... ISBN 978-2-35488-416-1
 } noimg          _?                           ?
 !--- 14 x 22 cm - 320 pages - 17,00 euros
 - .oY.     R     _BOUSQUET Charlotte          Sang-de-lune ˛2016
+o GULF        ?  2016.09 ..... ISBN 978-2-35488-441-3
+} noimg          _?                           ?
+!--- YA - GF - 144 x 220 - 272 pages
+- .oS.     R     _PANAFIEU Jean-Baptiste de   L'êveil - Stade 1 [L'Çveil (J.-B. de Panafieu) - 1] ˛2016
 !------------------------
 !=== 2017
 !------------------------
+o GULF        ?  2017.03 ..... ISBN 978-2-35488-457-4
+} noimg          _?                           ?
+!--- YA - GF - 144 x 220 - 232 pages
+- .oS.     R     _PANAFIEU Jean-Baptiste de   L'êveil - Stade 2 [L'Çveil (J.-B. de Panafieu) - 2] ˛2017
 o GULF        ?  2017.03 ..... ISBN 978-2-35488-466-6
 } noimg          _?                           ?
 - .oF.     R     _ROZENFELD Carina            Draconia [L'HÇritier des Draconis - 1] ˛2017
@@ -146,6 +155,10 @@ o GULF        ?  2017.05 ..... ISBN 978-2-35488-471-0
 o GULF        ?  2017.09 ..... ISBN 978-2-35488-480-2
 } noimg          _?                           ?
 - .oF.     R     _ROZENFELD Carina            La Sculptrice de dragons [L'HÇritier des Draconis - 2] ˛2017
+o GULF        ?  2017.10 ..... ISBN 978-2-35488-472-7
+} noimg          _?                           ?
+!--- YA - GF - 144 x 220 - 232 pages
+- .oS.     R     _PANAFIEU Jean-Baptiste de   L'êveil - Stade 3 [L'Çveil (J.-B. de Panafieu) - 3] ˛2017
 !------------------------
 !=== 2018
 !------------------------
@@ -194,7 +207,7 @@ o GULF        ?  2019.03 ..... ISBN 978-2-35488-680-6
 o GULF        ?  2019.03 ..... ISBN 978-2-35488-678-3
 } noimg          _Biboun                      ?
 !--- Jeunesse - GF - 14 x 22 cm - 208 pages - 16,00 euros
-- .oF.     R     _FONTAINE Maxime             L''Affaire Torräne [Les 100 visages de Soryan Nesh - 1] ˛2019
+- .oF.     R     _FONTAINE Maxime             L'Affaire Torräne [Les 100 visages de Soryan Nesh - 1] ˛2019
 o GULF        ?  2019.04 ..... ISBN 978-2-35488-681-3
 } noimg          _Noâmie Chevalier            ?
 - .o .     R     _NOEL Sophie                 La ProphÇtie de l'Enfant-Source [Jeanne de Mortepaille - 3] ˛2019
@@ -291,7 +304,7 @@ o GULF        ?  2020.10 ..... ISBN 978-2-35488-795-7
 o GULF_EC     ?  2020.10 ..... ISBN 978-2-35488-804-6
 } noimg          _Patrick Connan              ?
 !--- 14 x 22 cm - 384 pages - 16,00 euros
-- .oS.     R     _LE THANH Tai-Marc           Apprivoiser la bàte ˛2020
+- .oS.     R     _LE THANH Taã-Marc           Apprivoiser la bàte ˛2020
 o GULF        ?  2020.10 ..... ISBN 978-2-35488-854-1
 } noimg          _Patrick Connan              ?
 !--- 14 x 22 cm - 400 pages - 17,00 euros
@@ -304,6 +317,131 @@ o GULF        ?  2020.11 ..... ISBN 978-2-35488-811-4
 } noimg          _?                           ?
 !--- Jeunesse - GF - 14 x 22 cm - 384 pages - 17,00 euros
 - .oF.     R     _GREEN E. S.                 Les Alchimistes [Steam Sailors - 2] ˛2020
+!------------------------
+!=== 2021
+!------------------------
+o GULF_EC     ?  2021.03 ..... ISBN 978-2-35488-888-6
+} noimg          _Francis Banguet             ?
+!--- Jeunesse - GF - 140 x 220 - 240 pages
+- .o .     R     _DRUELLE Arnaud              L'Enfant-Pan ˛2021
+o GULF        ?  2021.01 ..... ISBN 978-2-35488-788-9
+} noimg          _Marie Bergeron              ?
+!--- Jeunesse - GF - 140 x 220 - 256 pages
+- .o .     R     _McSPARE Patrick             TrinitÇ [Totem Tom - 3] ˛2021
+o GULF        ?  2021.04 ..... ISBN 978-2-35488-882-4
+} noimg          _Xavier Collette             ?
+!--- Jeunesse - GF - 140 x 220 - 192 pages
+- .o .     R     _BOUSQUET Charlotte          Les Descendants [Les Enfants des Saules - 1] ˛2021
+o GULF        ?  2021.05 ..... ISBN 978-2-35488-894-7
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x220 - 208 pages
+- .o .     R     _PUARD Bertrand              Les Papillons de KobÇ [Kaimyo - 1] ˛2021
+o GULF        ?  2021.05 ..... ISBN 978-2-35488-900-5
+} noimg          _Patrick Connan              ?
+!--- YA - GF - 140x220 - 400 pages
+- .o .     R     _SALOBIR Virginie            Les Crocs de l'ombre [L'Ordre du Cygne - 2] ˛2021
+o GULF_EL     ?  2021.06 ..... ISBN 978-2-35488-906-7
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x220 - 288 pages
+- .oS.     R     _GAPR Ellie                  Les Enfants du chaos ˛2021
+o GULF        ?  2021.09 ..... ISBN 978-2-35488-945-6
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x220 - 192 pages
+- .o .     R     _MARCASTEL Jean-Luc          Le Mal par le mal [L'Agence Lovecraft - 1] ˛2021
+o GULF        ?  2021.09 ..... ISBN 978-2-35488-921-0
+} noimg          _Xavier Collette             ?
+!--- Jeunesse - GF - 140x220 - 192 pages
+- .o .     R     _BOUSQUET Charlotte          Les Graines de discorde [Les Enfants des Saules - 2] ˛2021
+o GULF_EC     ?  2021.09 ..... ISBN 978-2-35488-922-7
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x220 - 320 pages
+- .o .     R     _MARAS Mathilde              Villa Anima ˛2021
+o GULF_SP     ?  2021.10 ..... ISBN 978-2-35488-924-1
+} noimg          _Skorp                       ?
+!--- Jeunesse 13+ - GF - 140x220 - 304 pages - 16 euros
+- .o .     R     _GERLACH AurÇlie             Paris Z Week ˛2021
+o GULF        ?  2021.11 ..... ISBN 978-2-35488-933-3
+} noimg          _Vaderetro                   ?
+!--- YA - GF - 140x220 - 352 pages
+- .o .     R     _GREEN E. S.                 Le Passeur d'Émes [Steam Sailors - 3] ˛2021
+o GULF        ?  2021.11 ..... ISBN 978-2-35488-925-8
+} noimg          _Patrick Connan              ?
+!--- YA - GF - 140x220 - 400 pages
+- .o .     R     _SALOBIR Virginie            Les Émes fraternelles [L'Ordre du Cygne - 3] ˛2021
+o GULF        ?  2021.11 ..... ISBN 978-2-35488-916-6
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x220 - 208 pages
+- .o .     R     _PUARD Bertrand              Les Chrysalides de Tunis [Kaimyo - 2] ˛2021
+!------------------------
+!=== 2022
+!------------------------
+o GULF        ?  2022.02 ..... ISBN 978-2-35488-989-0
+} noimg          _Xavier Collette             ?
+!--- Jeunesse 9+ - GF - 140 x 220 - 176 pages - 12,90 euros
+- .o .     R     _BOUSQUET Charlotte          La Porte des fÇes [Les Enfants des Saules - 3] ˛2022
+o GULF_EL     ?  2022.02 ..... ISBN 978-2-35488-986-9
+} noimg          _O'Lee                       ?
+!--- Jeunesse 9+ - GF - 140 x 220 - 432 pages - 18,90 euros
+- .o .     R     _BOUCHET Elodie              La Loi du sanctuaire ˛2022
+o GULF        ?  2022.03 ..... ISBN 978-2-35488-985-2
+} noimg          _Anne-Clotilde Jammes        ?
+!--- Ado 15+ - GF - 140 x 220 - 512 pages - 22,00 euros
+- .oF.     R     _FONTAINE Maxime            &Les Sources de l'ombre [Sorciers - 1] ˛2022
+&                _WATSON Romain               
+o GULF        ?  2022.04 ..... ISBN 978-2-35488-997-5
+} noimg          _Vaderetro                   ?
+!--- Jeunesse 13+ - GF - 140x220 - 192 pages - 16,50 euros
+- .o .     R     _MARCASTEL Jean-Luc          DÇesse de la mort [L'Agence Lovecraft - 2] ˛2022
+o GULF        ?  2022.05 ..... ISBN 978-2-35488-998-2
+} noimg          _Passye                      ?
+!--- Jeunesse 9+ - GF - 140x220 - 144 pages - 12,90 euros
+- .o .     R     _TIBI Marie                  Premiäre transformation [Les Kidnimaux - 1] ˛2022
+o GULF        ?  2022.05 ..... ISBN 978-2-35488-996-8
+} noimg          _Passye                      ?
+!--- Jeunesse 13+ - GF - 140x220 - 352 pages - 17,50 euros
+- .o .     R     _DRUELLE Arnaud              Le Dernier Fragment [Le CrÇpuscule des Urmes - 1] ˛2022
+o GULF_ET     ?  2022.05 ..... ISBN 978-2-38349-006-7
+} noimg          _Floriane Vernhes            ?
+!--- Jeunesse 9+ - GF - 140x220 - 256 pages - 13,50 euros
+- .o .     R     _RILEY-BLACK Jo              Le Sablier de l'arbre sacrÇ ˛2022
+o GULF_EC     ?  2022.06 ..... ISBN 978-2-38349-007-4
+} noimg          _Patrick Connan              ?
+!--- Jeunesse 13+ - GF - 140x220 - 224 pages - 16,00 euros
+- .oF.     R     _FAYE Estelle               &Hollywood Monsters ˛2022
+&                _LEGERON Fabien              
+o GULF_ET     ?  2022.08 ..... ISBN 978-2-38349-013-5
+} noimg          _Elisabeth Jammes            ?
+!--- Jeunesse 9+ - GF - 140x220 - 304 pages - 13,50 euros
+- .oF.     R     _MEYRONNE Martin             Les Sorciers de Misterheim ˛2022
+o GULF_EL     ?  2022.09 ..... ISBN 978-2-38349-012-8
+} noimg          _?                           ?
+!--- Jeunesse 15+ - GF - 140x220 - 544 pages - 21 euros
+- .oY.     R     _CHALYS Dana B.              Le Dernier Lion d'albÉtre ˛2022
+o GULF_SP     ?  2022.10 ..... ISBN 978-2-38349-021-0
+} noimg          _Nicolas Galkowski           Nicolas Galkowski
+!--- Jeunesse 13+ - GF - 140x220 - 208 pages - 15,50 euros
+- .oF.     R     _MOULIN AurÇlie              A ton tour ˛2022
+o GULF        ?  2022.10 ..... ISBN 978-2-38349-022-7
+} noimg          _Atelier Arsenic & Boule de Gomme ?
+!--- Jeunesse 13+ - GF - 140x220 - 304 pages - 17 euros
+- .oF.     R     _ROZENFELD Carina            L'Appel [Les Anges mÇcaniques - 1] ˛2022
+o GULF        ?  2022.11 ..... ISBN 978-2-38349-019-7
+} noimg          _Passye                      ?
+!--- Jeunesse 13+ - GF - 140x220 - 440 pages - 18,50 euros
+- .oF.     R     _DRUELLE Arnaud              La ProphÇtie du Livre Noir [Le CrÇpuscule des Urmes - 2] ˛2022
+o GULF        ?  2022.11 ..... ISBN 978-2-38349-025-8
+} noimg          _?                           ?
+!--- YA 15+ - GF - 140x220 - 512 pages - 22 euros
+- .oF.     R     _FONTAINE Maxime            &Terres oubliÇes [Sorciers - 2] ˛2022
+&                _WATSON Romain               
+o GULF        ?  2022.11 ..... ISBN 978-2-38349-026-5
+} noimg          _?                           ?
+!--- YA 13+ - GF - 140x220 - 256 pages - 16,50 euros
+- .oF.     R     _MARCASTEL Jean-Luc          Tempus Fugit [L'Agence Lovecraft - 3] ˛2022
+o GULF        ?  2022.11 ..... ISBN 978-2-38349-027-2
+} noimg          _Eloãse Girard               ?
+!--- Jeunesse 9+ - GF - 140x220 - 160 pages - 12,90 euros
+- .oF.     R     _TIBI Marie                  Les Justiciers du K [Les Kidnimaux - 2] ˛2022
 
 
 

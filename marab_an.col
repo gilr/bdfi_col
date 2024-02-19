@@ -4,40 +4,18 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ MARO    Ed. Andr‚ G‚rard, Anthologies
+_ MARO    Andr‚ G‚rard - Anthologies
 !-----------------------------------------------------------------------------
-o MARO        ?  1975.xx ..... ISBN -
-}mar13histsat    _?                           N
-- .oF.    _A13   *BARONIAN Jean-Baptiste     &13 histoires sataniques ((13 histoires)) ş1975
-&                *VAN HAGELAND Albert         
-!--- Traductions originales de Dominique Mols, choix des textes Albert van Hageland et Jean-Baptiste Baronian
-: .oF.     N     _BLOCH Robert                La Prog‚niture du vieil homme ş1958 Spawn of the Dark One / Sweet Sixteen
-: .oF.     N     _CAVE Hugh B.                Engeance de l'enfer ş1932 Spawn of Inferno
-: .oF.     N     _SEIGNOLLE Claude            Mon diable … moi ş?
-: .oF.     N     _HAWTHORNE Nathaniel         Le Jeune MaŒtre Brown ş1835 Young Goodman Brown
-: .oF.     N     _THORPE Trebor               L'Esprit des t‚nŠbres ş1963 Spirit of Darkness
-?: .o .     .     _SEIGNOLLE Claude            Le Grand Vendu ş?
-?: .o .     .     _SEIGNOLLE Claude            Un louis terreux ş?
-?: .o .     .     _SEIGNOLLE Claude            Les Autres et moi ş?
-?: .o .     .     _SEIGNOLLE Claude            Minnah l'‚toile ş?
-?: .o .     .     _SEIGNOLLE Claude            Le Feuillet perdu ş?
-: .oF.     N     _BECKERS Walter              Pastis et Beaujolais ş1967 Pastis en beaujolais
-: .oF.     N     _BIXBY Jerome                Comment peut-on ˆtre aussi belle ? ş1953 Can such Beauty Be?
-: .oF.     N     _BROWN Fredric               Bruissement d'ailes ş1953 Rustle of Wings
-: .oF.     N     _FLANDERS John               Le Diable et Peter Stolz ş?
-: .oF.     N     _GRAYN Michael               Puppet-Show ş1967
-: .oF.     N     _MASEFIELD John              Le Diable et le vieillard ş1913 The Devil and the Old Man
-: .oF.     N     _BERTIN Eddy C.              Une question de concurrence ş1975 A Matter of Competition
-: .oF.     N     _BLOCH Robert                Le Casque … penser ş1953 The Thinking Cap
 o MARO        ?  1973.xx ..... ISBN -
-}marab_recitssf  _?                           N
+} marab_recitssf _?                           N
+!--- GF - 
 - .oS.    kN20   _ROSNY AINE J.-H.           &R‚cits de Science-Fiction ş1973
 &                *BARONIAN Jean-Baptiste      
 : .o .     p     _BARONIAN Jean-Baptiste      Les Fins et les ManiŠres ş1973
 : .o .     p     _VAN HERP Jacques            Et la science-fiction naquit... ş1973
 !--- I. Les autres mondes
 : .o .     N     _ROSNY AINE J.-H.            Un autre monde ş1895
-: .o .     R     _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1] ş1925
+: .o .     r     _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1] ş1925
 : .o .     N     _ROSNY AINE J.-H.            Le Jardin de Mary ş1895
 : .o .     N     _ROSNY AINE J.-H.            Dans le monde des variants ş1939
 !--- II. Les autres vies
@@ -66,8 +44,9 @@ o MARO        ?  1973.xx ..... ISBN -
 !--- III. Les autres sens
 : .o .     N     _ROSNY AINE J.-H.            La L‚gende sceptique ş1889
 o MARO        ?  1973.xx ..... ISBN -
-}maramerfant     _?                           N
-- .oF.    _A17   *FINNE Jacques               L'Am‚rique fantastique (de Poe … Lovecraft, 17 contes d'inqui‚tude, de peur et d'‚pouvante) ş1973
+} maramerfant    _?                           N
+!--- GF - 
+- .oF.    _A17   *FINNE Jacques               L'Am‚rique fantastique - de Poe … Lovecraft, 17 contes d'inqui‚tude, de peur et d'‚pouvante ş1973
 : .oF.     p     _FINNE Jacques               L'Šre des promesses ş1973
 : .oF.     N     _IRVING Washington           Les Invit‚s de l'Œle au gibet ş1855 Guest from Gibbet Island
 : .oF.     N     _AUSTIN William              Peter Rugg, le disparu ş1824 Peter Rugg, the Missing Man
@@ -89,13 +68,14 @@ o MARO        ?  1973.xx ..... ISBN -
 : .oF.     N     _CHAMBERS Robert W.          L'EmblŠme jaune ş1895 The Yellow Sign
 : .oF.     N     _LOVECRAFT Howard P.         La Maison de la sorciŠre ş1933 The Dreams in the Witch House
 o MARO        ?  1973.xx ..... ISBN -
-}marallfant      _?                           N
-- .oF.     A13   *RICHTER Anne               &L'Allemagne fantastique (de Goethe … Meyrink, 13 contes ‚nigmatiques, d‚moniaques et merveilleux) ş1973
+} marallfant     _?                           N
+!--- GF -
+- .oF.     A13   *RICHTER Anne               &L'Allemagne fantastique - de Goethe … Meyrink, 13 contes ‚nigmatiques, d‚moniaques et merveilleux ş1973
 &                *RICHTER Hugo                
-: . .      p     _RICHTER Hugo                De Goethe … Meyrink, ou l'imagination n'est pas imaginaire ş1973
+: .o.      p     _RICHTER Hugo                De Goethe … Meyrink, ou l'imagination n'est pas imaginaire ş1973
 : .oF.     N     _TIECK Ludwig                Le Runenberg ş1804 Der Runenberg şTrad. RICHTER Hugo
 : .oF.     r     _CHAMISSO Adelbert von       L'Extraordinaire histoire de Pierre Schlemihl ş1814 Peter Schlemihls wundersame geschichte şTrad. CHAMISSO Adalbert von
-: .oF.     N     _STORM Theodor               La Maison de Bulemann ş1864 Bulemanns haus şTrad. RICHTER Hugo
+: .oF.     N     _STORM Theodor               La Maison de Bulemann ş1864 Bulemanns Haus şTrad. RICHTER Hugo
 : .oF.     N     _MEYRINK Gustav              Les Quatre FrŠres de la Lune ş1917 Die vier Mondbruder şTrad. RICHTER Hugo
 : .oF.     N     _GOETHE Johan Wolfgang       Histoire d'Antonelli ş1795 Die geschichte von der S„ngerin şTrad. Jacques Porchat
 : .oF.     N     _VON ARNIM Achim             Marie Melck Blainville ş1812 Maria Melck-Blainville şTrad. GAUTIER Th‚ophile Fils
@@ -107,9 +87,10 @@ o MARO        ?  1973.xx ..... ISBN -
 : .oF.     N     _KLEIST Heinrich von         Le Tremblement de terre du Chili ş1807 Jeronimo und Josephe / Das erdbeben in Chili şTrad. RICHTER Hugo
 : .oF.     N     _KELLER Gottfried            Le Petit Chat miroir ş1856 Spiegel das katzchen şTrad. HELLA Alzir et BOURNAC Olivier
 o MARO        ?  1973.xx ..... ISBN -
-}marfrancfant    _?                           N
-- .oF.    kA29   *BARONIAN Jean-Baptiste      La France fantastique (de Balzac … Lou˜s, 29 contes et nouvelles ‚tranges et diaboliques) ş1973
+} marfrancfant   _?                           N
+!--- GF - 
 !--- Pr‚face de Jean-Baptiste Baronian
+- .oF.    kA29   *BARONIAN Jean-Baptiste      La France fantastique - de Balzac … Lou˜s, 29 contes et nouvelles ‚tranges et diaboliques ş1973
 : .o .     p     _BARONIAN Jean-Baptiste      Un certain go–t de l'‚trange ş1973
 : .o .     N     _ASSELINEAU Charles          La Seconde Vie ş1847
 : .o .     N     _BALZAC Honor‚ de            J‚sus-Christ en Flandre ş1830-1845
@@ -141,30 +122,31 @@ o MARO        ?  1973.xx ..... ISBN -
 : .o .     N     _VERNE Jules                 Frritt-Flacc ş1884
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     V‚ra ş1874
 o MARO        ?  1974.xx ..... ISBN -
-}marab_contglac  _?                           N
-- .oFK    _N269  _STERNBERG Jacques           Contes glac‚s ş1974
-!-- TBD antho     *DUHAMEL Joseph              
+} marab_contglac _Roland Topor                Roland Topor
+!--- GF - 24 cm - 375 pages
+!--- TBD antho     *DUHAMEL Joseph               ?
 !--- Recueil de 269 contes brefs ‚crits de 1948 … 1973
 !--- Illustrations Topor, choix des textes Joseph Duhamel
+- .oFK    _N269  _STERNBERG Jacques           Contes glac‚s ş1974
 : .oK.     p     _STERNBERG Jacques           Avant-propos ş?
 !--- LES OBJETS
-: .oK.     n     _STERNBERG Jacques           Le Locataire ş?
-: .oK.     n     _STERNBERG Jacques           La Photographie ş?
-: .oK.     n     _STERNBERG Jacques           L'Attaque ş?
-: .oK.     n     _STERNBERG Jacques           La Haute Fid‚lit‚ ş?
-: .oK.     n     _STERNBERG Jacques           Le Rideau ş?
-: .oK.     n     _STERNBERG Jacques           Le Souvenir de famille ş?
-: .oK.     n     _STERNBERG Jacques           Le Papier peint ş?
-: .oK.     n     _STERNBERG Jacques           Les Preuves ş?
-: .oK.     n     _STERNBERG Jacques           Le Reflet ş?
-: .oK.     n     _STERNBERG Jacques           La Machine … sous ş?
-: .oK.     n     _STERNBERG Jacques           Le But ş?
-: .oK.     n     _STERNBERG Jacques           Le Tapis ş?
-: .oK.     n     _STERNBERG Jacques           La Machine ş?
-: .oK.     n     _STERNBERG Jacques           L'Affiche ş?
+: .oK.     n     _STERNBERG Jacques           Le Locataire ş1953
+: .oK.     n     _STERNBERG Jacques           La Photographie ş1960
+: .oK.     n     _STERNBERG Jacques           L'Attaque ş1960
+: .oK.     n     _STERNBERG Jacques           La Haute Fid‚lit‚ ş1960
+: .oK.     n     _STERNBERG Jacques           Le Rideau ş1953
+: .oK.     n     _STERNBERG Jacques           Le Souvenir de famille ş1955
+: .oK.     n     _STERNBERG Jacques           Le Papier peint ş1953
+: .oK.     n     _STERNBERG Jacques           Les Preuves ş1953
+: .oK.     n     _STERNBERG Jacques           Le Reflet ş1953
+: .oK.     n     _STERNBERG Jacques           La Machine … sous ş1957
+: .oK.     n     _STERNBERG Jacques           Le But ş1955
+: .oK.     n     _STERNBERG Jacques           Le Tapis ş1953
+: .oK.     n     _STERNBERG Jacques           La Machine ş1953
+: .oK.     n     _STERNBERG Jacques           L'Affiche ş1953
 : .oK.     n     _STERNBERG Jacques           La Rampe ş1953
-: .oK.     n     _STERNBERG Jacques           La Cl‚ ş?
-: .oK.     n     _STERNBERG Jacques           Le Miroir ş?
+: .oK.     n     _STERNBERG Jacques           La Cl‚ ş1960
+: .oK.     n     _STERNBERG Jacques           Le Miroir ş1960
 : .oK.     n     _STERNBERG Jacques           La Bouteille ş?
 : .oK.     n     _STERNBERG Jacques           Le T‚l‚phone ş?
 : .oK.     n     _STERNBERG Jacques           Le Communiqu‚ ş?
@@ -172,19 +154,19 @@ o MARO        ?  1974.xx ..... ISBN -
 : .oK.     n     _STERNBERG Jacques           La Vitre ş1974
 : .oK.     n     _STERNBERG Jacques           Les Lunettes ş?
 : .oK.     n     _STERNBERG Jacques           Le Pan de mur ş?
-: .oK.     n     _STERNBERG Jacques           Le Rƒle ş?
-: .oK.     n     _STERNBERG Jacques           Le Tricot ş?
+: .oK.     n     _STERNBERG Jacques           Le Rƒle ş1960
+: .oK.     n     _STERNBERG Jacques           Le Tricot ş1953
 : .oK.     n     _STERNBERG Jacques           La Photo ş?
 : .oK.     n     _STERNBERG Jacques           La Perfection ş1974
 : .oK.     n     _STERNBERG Jacques           La Statue ş?
 : .oK.     n     _STERNBERG Jacques           Le Monument ş?
-: .oK.     n     _STERNBERG Jacques           Le Produit ş?
+: .oK.     n     _STERNBERG Jacques           Le Produit ş1974
 !--- LES AUTRES
-: .oK.     n     _STERNBERG Jacques           La Soif ş?
+: .oK.     n     _STERNBERG Jacques           La Soif ş1960
 : .oK.     n     _STERNBERG Jacques           Les Morts ş?
-: .oK.     n     _STERNBERG Jacques           L'Impensable ş?
+: .oK.     n     _STERNBERG Jacques           L'Impensable ş1974
 : .oK.     n     _STERNBERG Jacques           Le D‚barquement ş?
-: .oK.     n     _STERNBERG Jacques           L'Erreur ş?
+: .oK.     n     _STERNBERG Jacques           L'Erreur ş1953
 : .oK.     n     _STERNBERG Jacques           Les Martiens ş?
 : .oK.     n     _STERNBERG Jacques           L'Invasion ş?
 : .oK.     n     _STERNBERG Jacques           La Tricoteuse ş?
@@ -195,67 +177,67 @@ o MARO        ?  1974.xx ..... ISBN -
 : .oK.     n     _STERNBERG Jacques           Le Temps qui passe ş?
 : .oK.     n     _STERNBERG Jacques           Le Froid ş?
 : .oK.     n     _STERNBERG Jacques           Le Sang ş?
-: .oK.     n     _STERNBERG Jacques           Les Revenants ş?
-: .oK.     n     _STERNBERG Jacques           La Fuite ş?
+: .oK.     n     _STERNBERG Jacques           Les Revenants ş1974
+: .oK.     n     _STERNBERG Jacques           La Fuite ş1953
 : .oK.     n     _STERNBERG Jacques           La Conquˆte ş?
 : .oK.     n     _STERNBERG Jacques           Les Doubles ş?
 : .oK.     n     _STERNBERG Jacques           L'Envoy‚ ş?
 : .oK.     n     _STERNBERG Jacques           La Renomm‚e ş?
-: .oK.     n     _STERNBERG Jacques           Le reste est silence ş?
+: .oK.     n     _STERNBERG Jacques           Le reste est silence ş1963
 !--- LES ANIMAUX
-: .oK.     n     _STERNBERG Jacques           Les Ennemis ş?
-: .oK.     n     _STERNBERG Jacques           Le Plafond ş?
+: .oK.     n     _STERNBERG Jacques           Les Ennemis ş1953
+: .oK.     n     _STERNBERG Jacques           Le Plafond ş1953
 : .oK.     n     _STERNBERG Jacques           Le Mois d'ao–t ş?
-: .oK.     n     _STERNBERG Jacques           Le Boucher ş?
+: .oK.     n     _STERNBERG Jacques           Le Boucher ş1953
 : .oK.     n     _STERNBERG Jacques           Le Fauve ş?
 : .oK.     n     _STERNBERG Jacques           Les Chats ş?
 : .oK.     n     _STERNBERG Jacques           Les Esclaves ş?
 : .oK.     n     _STERNBERG Jacques           Le Poulet ş?
-: .oK.     n     _STERNBERG Jacques           Le Poisson ş?
+: .oK.     n     _STERNBERG Jacques           Le Poisson ş1974
 : .oK.     n     _STERNBERG Jacques           Les Rats ş?
 : .oK.     n     _STERNBERG Jacques           La Mouche ş?
-: .oK.     n     _STERNBERG Jacques           Le Brochet ş?
+: .oK.     n     _STERNBERG Jacques           Le Brochet ş1953
 : .oK.     n     _STERNBERG Jacques           Les Insectes ş?
 !--- LES LIEUX
 : .oK.     n     _STERNBERG Jacques           L'Attente ş?
 : .oK.     n     _STERNBERG Jacques           Le Rien ş1960
 : .oK.     n     _STERNBERG Jacques           La Serre ş?
-: .oK.     n     _STERNBERG Jacques           L'Ennui ş?
-: .oK.     n     _STERNBERG Jacques           Le Dernier Wagon ş?
-: .oK.     n     _STERNBERG Jacques           La FrontiŠre ş?
+: .oK.     n     _STERNBERG Jacques           L'Ennui ş1953
+: .oK.     n     _STERNBERG Jacques           Le Dernier Wagon ş1953
+: .oK.     n     _STERNBERG Jacques           La FrontiŠre ş1953
 : .oK.     n     _STERNBERG Jacques           L'Incarc‚ration ş?
-: .oK.     n     _STERNBERG Jacques           La Gare ş?
-: .oK.     n     _STERNBERG Jacques           L'Emballage ş?
-: .oK.     n     _STERNBERG Jacques           Le Mus‚e ş?
-: .oK.     n     _STERNBERG Jacques           La Sortie ş?
-: .oK.     n     _STERNBERG Jacques           Le Square ş?
-: .oK.     n     _STERNBERG Jacques           Le Caf‚ ş?
-: .oK.     n     _STERNBERG Jacques           La Pension de famille ş?
+: .oK.     n     _STERNBERG Jacques           La Gare ş1953
+: .oK.     n     _STERNBERG Jacques           L'Emballage ş1960
+: .oK.     n     _STERNBERG Jacques           Le Mus‚e ş1953
+: .oK.     n     _STERNBERG Jacques           La Sortie ş1953
+: .oK.     n     _STERNBERG Jacques           Le Square ş1953
+: .oK.     n     _STERNBERG Jacques           Le Caf‚ ş1953
+: .oK.     n     _STERNBERG Jacques           La Pension de famille ş1953
 : .oK.     n     _STERNBERG Jacques           Les Demeures ş?
-: .oK.     n     _STERNBERG Jacques           La Fabrique ş?
-: .oK.     n     _STERNBERG Jacques           La Sanction ş?
-: .oK.     n     _STERNBERG Jacques           La Cure ş?
+: .oK.     n     _STERNBERG Jacques           La Fabrique ş1953
+: .oK.     n     _STERNBERG Jacques           La Sanction ş1953
+: .oK.     n     _STERNBERG Jacques           La Cure ş1953
 : .oK.     n     _STERNBERG Jacques           Le Passage … niveau ş?
-: .oK.     n     _STERNBERG Jacques           Le Train ş?
+: .oK.     n     _STERNBERG Jacques           Le Train ş1957
 : .oK.     n     _STERNBERG Jacques           Le Tunnel ş?
 : .oK.     n     _STERNBERG Jacques           La Question ş?
 : .oK.     n     _STERNBERG Jacques           La Brume ş?
 : .oK.     n     _STERNBERG Jacques           L'Impasse ş?
 : .oK.     n     _STERNBERG Jacques           Le Chƒteau ş?
-: .oK.     n     _STERNBERG Jacques           L'tage ş?
-: .oK.     n     _STERNBERG Jacques           Les Traces ş?
+: .oK.     n     _STERNBERG Jacques           L'tage ş1953
+: .oK.     n     _STERNBERG Jacques           Les Traces ş1953
 : .oK.     n     _STERNBERG Jacques           La Galerie ş?
-: .oK.     n     _STERNBERG Jacques           Le Labyrinthe ş?
+: .oK.     n     _STERNBERG Jacques           Le Labyrinthe ş1953
 : .oK.     n     _STERNBERG Jacques           La Foire ş?
 : .oK.     n     _STERNBERG Jacques           La Cour int‚rieure ş?
-: .oK.     n     _STERNBERG Jacques           L'Erreur ş?
+: .oK.     n     _STERNBERG Jacques           L'Erreur (2) ş1960
 : .oK.     n     _STERNBERG Jacques           La Fermeture ş?
-: .oK.     n     _STERNBERG Jacques           La BibliothŠque ş?
-: .oK.     n     _STERNBERG Jacques           La Pr‚ventive ş?
-: .oK.     n     _STERNBERG Jacques           La Rue ş?
+: .oK.     n     _STERNBERG Jacques           La BibliothŠque ş1960
+: .oK.     n     _STERNBERG Jacques           La Pr‚ventive ş1953
+: .oK.     n     _STERNBERG Jacques           La Rue ş1953
 : .oK.     n     _STERNBERG Jacques           Le Bƒtiment ş?
-: .oK.     n     _STERNBERG Jacques           Les Portes ş?
-: .oK.     n     _STERNBERG Jacques           L'Horticulteur ş?
+: .oK.     n     _STERNBERG Jacques           Les Portes ş1953
+: .oK.     n     _STERNBERG Jacques           L'Horticulteur ş1953
 : .oK.     n     _STERNBERG Jacques           L'criteau ş1974
 : .oK.     n     _STERNBERG Jacques           L'HygiŠne ş?
 : .oK.     n     _STERNBERG Jacques           Mar‚e basse ş1957
@@ -264,31 +246,31 @@ o MARO        ?  1974.xx ..... ISBN -
 : .oK.     n     _STERNBERG Jacques           Le Facteur ş?
 : .oK.     n     _STERNBERG Jacques           L'Op‚ration ş?
 : .oK.     n     _STERNBERG Jacques           Jour f‚ri‚ ş?
-: .oK.     n     _STERNBERG Jacques           Le Laveur de vitres ş?
+: .oK.     n     _STERNBERG Jacques           Le Laveur de vitres ş1953
 : .oK.     n     _STERNBERG Jacques           La Sonnerie ş?
 : .oK.     n     _STERNBERG Jacques           Les Guides ş?
 : .oK.     n     _STERNBERG Jacques           La Famille ş?
 : .oK.     n     _STERNBERG Jacques           L'Acteur ş?
 : .oK.     n     _STERNBERG Jacques           Le Ph‚nomŠne ş?
-: .oK.     n     _STERNBERG Jacques           La Charit‚ ş?
-: .oK.     n     _STERNBERG Jacques           La Prime ş?
-: .oK.     n     _STERNBERG Jacques           La Politesse ş?
+: .oK.     n     _STERNBERG Jacques           La Charit‚ ş1960
+: .oK.     n     _STERNBERG Jacques           La Prime ş1960
+: .oK.     n     _STERNBERG Jacques           La Politesse ş1953
 : .oK.     n     _STERNBERG Jacques           Le Voyageur ş?
 : .oK.     n     _STERNBERG Jacques           L'Inconnue ş?
 : .oK.     n     _STERNBERG Jacques           L'Affaire ş?
-: .oK.     n     _STERNBERG Jacques           Les Repr‚sentants ş?
+: .oK.     n     _STERNBERG Jacques           Les Repr‚sentants ş1953
 : .oK.     n     _STERNBERG Jacques           Les Groupes ş?
 : .oK.     n     _STERNBERG Jacques           L'Oeuvre ş?
-: .oK.     n     _STERNBERG Jacques           Le Sentiment ş?
+: .oK.     n     _STERNBERG Jacques           Le Sentiment ş1953
 : .oK.     n     _STERNBERG Jacques           La Fenˆtre ş?
 : .oK.     n     _STERNBERG Jacques           Le Sous-Sol ş?
-: .oK.     n     _STERNBERG Jacques           Le Noeud ş?
-: .oK.     n     _STERNBERG Jacques           La Logique ş?
-: .oK.     n     _STERNBERG Jacques           La Timidit‚ ş?
+: .oK.     n     _STERNBERG Jacques           Le Noeud ş1957
+: .oK.     n     _STERNBERG Jacques           La Logique ş1960
+: .oK.     n     _STERNBERG Jacques           La Timidit‚ ş1960
 : .oK.     n     _STERNBERG Jacques           Le Chiffre ş?
 : .oK.     n     _STERNBERG Jacques           Les R‚verbŠres ş?
 : .oK.     n     _STERNBERG Jacques           Les Ann‚es ş?
-: .oK.     n     _STERNBERG Jacques           La Bont‚ ş?
+: .oK.     n     _STERNBERG Jacques           La Bont‚ ş1960
 : .oK.     n     _STERNBERG Jacques           La Piti‚ ş?
 : .oK.     n     _STERNBERG Jacques           Le Nouveau-N‚ ş?
 : .oK.     n     _STERNBERG Jacques           Le Documentaire ş?
@@ -310,7 +292,7 @@ o MARO        ?  1974.xx ..... ISBN -
 : .oK.     n     _STERNBERG Jacques           La MŠre ş?
 : .oK.     n     _STERNBERG Jacques           La Publicit‚ ş?
 : .oK.     n     _STERNBERG Jacques           La Sentinelle ş?
-: .oK.     n     _STERNBERG Jacques           L'Employ‚ des postes ş?
+: .oK.     n     _STERNBERG Jacques           L'Employ‚ des postes ş1953
 : .oK.     n     _STERNBERG Jacques           La Continuit‚ ş?
 : .oK.     n     _STERNBERG Jacques           La Demande ş?
 : .oK.     n     _STERNBERG Jacques           L'Acte ş?
@@ -319,20 +301,20 @@ o MARO        ?  1974.xx ..... ISBN -
 : .oK.     n     _STERNBERG Jacques           La Logique ş?
 : .oK.     n     _STERNBERG Jacques           Le PŠlerinage ş?
 !--- L'AILLEURS
-: .oK.     n     _STERNBERG Jacques           La Disparition ş?
+: .oK.     n     _STERNBERG Jacques           La Disparition ş1953
 : .oK.     n     _STERNBERG Jacques           Joyeux No‰l ş?
-: .oK.     n     _STERNBERG Jacques           Le Complot ş?
+: .oK.     n     _STERNBERG Jacques           Le Complot ş1953
 : .oK.     n     _STERNBERG Jacques           Les Mondes parallŠles ş?
 : .oK.     n     _STERNBERG Jacques           La Cause ş?
-: .oK.     n     _STERNBERG Jacques           L'Oubli ş?
-: .oK.     n     _STERNBERG Jacques           Plus loin que la nuit ş?
+: .oK.     n     _STERNBERG Jacques           L'Oubli ş1957
+: .oK.     n     _STERNBERG Jacques           Plus loin que la nuit ş1957
 : .oK.     n     _STERNBERG Jacques           Le D‚nouement ş?
 : .oK.     n     _STERNBERG Jacques           Le Pass‚ ş?
 : .oK.     n     _STERNBERG Jacques           Le N‚ant ş?
-: .oK.     n     _STERNBERG Jacques           La ChaŒne ş?
+: .oK.     n     _STERNBERG Jacques           La ChaŒne ş1953
 : .oK.     n     _STERNBERG Jacques           L'change ş?
-: .oK.     n     _STERNBERG Jacques           La Cr‚ation ş?
-: .oK.     n     _STERNBERG Jacques           Le Temps ş?
+: .oK.     n     _STERNBERG Jacques           La Cr‚ation ş1974
+: .oK.     n     _STERNBERG Jacques           Le Temps ş1953
 : .oK.     n     _STERNBERG Jacques           La ColŠre ş?
 : .oK.     n     _STERNBERG Jacques           La Richesse ş?
 : .oK.     n     _STERNBERG Jacques           L'Invisible ş?
@@ -342,30 +324,30 @@ o MARO        ?  1974.xx ..... ISBN -
 : .oK.     n     _STERNBERG Jacques           L'Administration ş?
 : .oK.     n     _STERNBERG Jacques           L'Obsession ş?
 : .oK.     n     _STERNBERG Jacques           La Pancarte ş?
-: .oK.     n     _STERNBERG Jacques           La Cr‚ature ş?
+: .oK.     n     _STERNBERG Jacques           La Cr‚ature ş1957
 : .oK.     n     _STERNBERG Jacques           Le P‚trole ş?
 : .oK.     n     _STERNBERG Jacques           La Bille ş?
 !--- LES LOIS DE LA NATURE
-: .oK.     n     _STERNBERG Jacques           Le Cri ş?
+: .oK.     n     _STERNBERG Jacques           Le Cri ş1953
 : .oK.     n     _STERNBERG Jacques           L'Oeil ş?
-: .oK.     n     _STERNBERG Jacques           Le Meurtre ş?
+: .oK.     n     _STERNBERG Jacques           Le Meurtre ş1953
 : .oK.     n     _STERNBERG Jacques           La Chute ş?
-: .oK.     n     _STERNBERG Jacques           Le D‚part ş?
+: .oK.     n     _STERNBERG Jacques           Le D‚part ş1953
 : .oK.     n     _STERNBERG Jacques           La Vitrine ş?
 : .oK.     n     _STERNBERG Jacques           L'Absence ş?
 : .oK.     n     _STERNBERG Jacques           L'Eau ş?
 : .oK.     n     _STERNBERG Jacques           Les Aiguilles ş?
 : .oK.     n     _STERNBERG Jacques           Le ProblŠme ş?
-: .oK.     n     _STERNBERG Jacques           Les Vacances ş?
+: .oK.     n     _STERNBERG Jacques           Les Vacances ş1953
 !--- Les lois de la nature (Ce texte n'existe pas, c'est une erreur qui s'est gliss‚e dans le sommaire et que personne n'a remarqu‚ avant l'impression. Les vacances occupe les pages 291 et 292.)
 : .oK.     n     _STERNBERG Jacques           La Distance ş?
 : .oK.     n     _STERNBERG Jacques           Le Noy‚ ş?
 : .oK.     n     _STERNBERG Jacques           Le Retour ş?
-: .oK.     n     _STERNBERG Jacques           Le Choix ş?
-: .oK.     n     _STERNBERG Jacques           Le Temps ş?
-: .oK.     n     _STERNBERG Jacques           Le Rescap‚ ş?
+: .oK.     n     _STERNBERG Jacques           Le Choix ş1960
+: .oK.     n     _STERNBERG Jacques           Le Temps (2) ş1960
+: .oK.     n     _STERNBERG Jacques           Le Rescap‚ ş1953
 : .oK.     n     _STERNBERG Jacques           La Plage ş?
-: .oK.     n     _STERNBERG Jacques           La Perspective ş?
+: .oK.     n     _STERNBERG Jacques           La Perspective ş1953
 : .oK.     n     _STERNBERG Jacques           Le Respect ş?
 : .oK.     n     _STERNBERG Jacques           Le Tireur ş?
 : .oK.     n     _STERNBERG Jacques           La V‚rit‚ ş?
@@ -374,7 +356,7 @@ o MARO        ?  1974.xx ..... ISBN -
 : .oK.     n     _STERNBERG Jacques           Le Panneau ş?
 : .oK.     n     _STERNBERG Jacques           La Profondeur ş?
 : .oK.     n     _STERNBERG Jacques           L'cho ş?
-: .oK.     n     _STERNBERG Jacques           La Ligne droite ş?
+: .oK.     n     _STERNBERG Jacques           La Ligne droite ş1953
 : .oK.     n     _STERNBERG Jacques           Le Plaisir ş?
 : .oK.     n     _STERNBERG Jacques           Le ProgrŠs ş?
 : .oK.     n     _STERNBERG Jacques           L'nergie ş?
@@ -384,16 +366,16 @@ o MARO        ?  1974.xx ..... ISBN -
 : .oK.     n     _STERNBERG Jacques           Le Fiacre ş?
 : .oK.     n     _STERNBERG Jacques           Le Rˆve ş?
 : .oK.     n     _STERNBERG Jacques           Le Point de jonction ş?
-: .oK.     n     _STERNBERG Jacques           Les Images ş?
+: .oK.     n     _STERNBERG Jacques           Les Images ş1953
 : .oK.     n     _STERNBERG Jacques           L'Intuition ş?
 : .oK.     n     _STERNBERG Jacques           Les Pas ş?
 : .oK.     n     _STERNBERG Jacques           La Rencontre ş?
 : .oK.     n     _STERNBERG Jacques           L'Inconnu ş?
-: .oK.     n     _STERNBERG Jacques           L'Inexplicable ş?
+: .oK.     n     _STERNBERG Jacques           L'Inexplicable ş1953
 : .oK.     n     _STERNBERG Jacques           Le Film ş?
-: .oK.     n     _STERNBERG Jacques           Le Train de nuit ş?
-: .oK.     n     _STERNBERG Jacques           La Dent ş?
-: .oK.     n     _STERNBERG Jacques           Les Traces ş?
+: .oK.     n     _STERNBERG Jacques           Le Train de nuit ş1955
+: .oK.     n     _STERNBERG Jacques           La Dent ş1953
+: .oK.     n     _STERNBERG Jacques           Les Traces ş1974
 : .oK.     n     _STERNBERG Jacques           L'Ombre ş?
 : .oK.     n     _STERNBERG Jacques           Le Platane ş?
 : .oK.     n     _STERNBERG Jacques           L'Enterrement ş?
@@ -408,12 +390,12 @@ o MARO        ?  1974.xx ..... ISBN -
 : .oK.     n     _STERNBERG Jacques           Le Commerce ş1974
 : .oK.     n     _STERNBERG Jacques           Le Cadavre ş?
 : .oK.     n     _STERNBERG Jacques           Le Pass‚ ş?
-: .oK.     n     _STERNBERG Jacques           Le Cauchemar ş?
+: .oK.     n     _STERNBERG Jacques           Le Cauchemar ş1953
 : .oK.     n     _STERNBERG Jacques           Le Carr‚ ş?
-: .oK.     n     _STERNBERG Jacques           L'Avenir ş?
+: .oK.     n     _STERNBERG Jacques           L'Avenir ş1953
 : .oK.     n     _STERNBERG Jacques           Le Risque ş?
 : .oK.     n     _STERNBERG Jacques           Le Balcon ş?
-: .oK.     n     _STERNBERG Jacques           Le Peloton ş?
+: .oK.     n     _STERNBERG Jacques           Le Peloton ş1953
 : .oK.     n     _STERNBERG Jacques           La ChaŒne ş?
 : .oK.     n     _STERNBERG Jacques           La Fuite ş?
 : .oK.     n     _STERNBERG Jacques           Le Large ş?
@@ -423,11 +405,12 @@ o MARO        ?  1974.xx ..... ISBN -
 : .oK.     n     _STERNBERG Jacques           La M‚moire ş?
 : .oK.     n     _STERNBERG Jacques           L'Id‚e ş?
 : .oK.     n     _STERNBERG Jacques           L'Enquˆte ş?
-: .oK.     n     _STERNBERG Jacques           L'Ex‚cution ş?
-: .oK.     n     _STERNBERG Jacques           Le Jeu ş?
+: .oK.     n     _STERNBERG Jacques           L'Ex‚cution ş1953
+: .oK.     n     _STERNBERG Jacques           Le Jeu ş1953
 o MARO        ?  1974.xx ..... ISBN -
-}maranglfant     _?                           N
-- .oF.    _A22   *VAN HERP Jacques            L'Angleterre fantastique (de Defoe … Wells, 22 contes de revenants et de terreur) ş1974
+} maranglfant    _?                           N
+!--- GF - 
+- .oF.    _A22   *VAN HERP Jacques            L'Angleterre fantastique - de Defoe … Wells, 22 contes de revenants et de terreur ş1974
 : .o .     p     _VAN HERP Jacques            Pr‚face ş1974
 : .oF.     N     _DEFOE Daniel                Mrs Veal ş1706 Mrs Veal şTrad. CAMILLE Georgette
 : .oF.  47 N     _AIKIN John                  Sir Bertrand : un fragment ş1773 Sir Bertrand: A Fragment şTrad. LEVY Maurice
@@ -443,7 +426,7 @@ o MARO        ?  1974.xx ..... ISBN -
 : .oF.     N     _LANDON Perceval             L'Abbaye de Thurnley ş1908 Thurnley Abbey şTrad. MOLS Dominique
 : .oF.     N     _STOKER Bram                 La Maison du juge ş1891 The Judge's House şTrad. MARTENON Fran‡oise & STRAGLIATI Roland
 : .oF.     N     _DOYLE Arthur Conan          La Hachette d'argent ş1883 The Silver Hatchet şTrad. GAIL Jean de
-: .oF.     N     _STEVENSON Robert Louis      Markheim ş1886 Markheim şTrad. DE LA CHESNAIS E.
+: .oF.     N     _STEVENSON Robert Louis      Markheim ş1885 Markheim şTrad. DE LA CHESNAIS E.
 : .oF.     N     _BENSON Edward F.            Dans le m‚tro ş1923 In the Tube şTrad. MARIA Della
 : .oF.     N     _JAMES Montague Rhodes       Siffle, et je viendrai ş1904 "Oh, Whistle, and I'll Come to You, My Lad" şTrad. DOREMIEUX Alain
 : .oF.     N     _JAMES Montague Rhodes       Le Labyrinthe ş1911 Mr Humphreys and His Inheritance şTrad. BARONIAN Anne
@@ -452,25 +435,27 @@ o MARO        ?  1974.xx ..... ISBN -
 : .oF.     N     _WELLS Herbert George        La Porte dans le mur ş1906 The Door in the Wall şTrad. DAVRAY Henry D. & KOZAKIEWICZ B.
 : .oF.     N     _WELLS Herbert George        La Chambre rouge ş1902 The Red Room şTrad. DAVRAY Henry D.
 o MARO        ?  1975.xx ..... ISBN -
-}mar13histsorc   _?                           N
+} mar13histsorc  _?                           N
+!--- GF - 
+!--- Traductions originales de Henry Fagne, choix des textes Albert van Hageland et Jean-Baptiste Baronian
 - .oF.    _A13   *BARONIAN Jean-Baptiste     &13 histoires de sorcellerie ((13 histoires)) ş1975
 &                *VAN HAGELAND Albert         
-!--- Traductions originales de Henry Fagne, choix des textes Albert van Hageland et Jean-Baptiste Baronian
-: .oF.     N     _BLOCH Robert                Les Serviteurs de Satan ş1949 Satan's Servants
+: .oF.     N     _BLOCH Robert                Les Serviteurs de Satan ş1949 Satan's Servants şTrad. FAGNE Henry
 : .oF.     N     _OWEN Thomas                 Dagydes ş1974
-: .oF.     N     _BERTIN Eddy C.              Un bruissement d'ailes de cuir ş1973 A Whisper of Leathery Wings
-: .oF.     N     _KISSINGER G.                L'Envo–tement du d‚sespoir ş1969 Spell of Desperation
+: .oF.     N     _BERTIN Eddy C.              Un bruissement d'ailes de cuir ş1973 A Whisper of Leathery Wings şTrad. FAGNE Henry
+: .oF.     N     _KISSINGER G.                L'Envo–tement du d‚sespoir ş1969 Spell of Desperation şTrad. FAGNE Henry
 : .oF.     N     _SEIGNOLLE Claude            Le Chupador ş1960
-: .oF.     N     _ROBBINS Wayne               La chose qui vient ş1940 Test-Tube Frankenstein
-: .oF.     N     _ROUSSEAU Victor             Quand veillent les dieux morts ş1931 When Dead Gods Wake
-: .oF.     N     _BROWN Fredric               Les Farfafouilles ş1943 The Geezenstacks
-: .oF.     N     _FLANDERS John               Ecrit dans le ciel ş1969 Geshreven in de Lucht
-: .oF.     N     _THANET Neil                 La Vengeance de la sorciŠre ş1963 Return of the Hag
+: .oF.     N     _ROBBINS Wayne               La chose qui vient ş1940 Test-Tube Frankenstein şTrad. FAGNE Henry
+: .oF.     N     _ROUSSEAU Victor             Quand veillent les dieux morts ş1931 When Dead Gods Wake şTrad. FAGNE Henry
+: .oF.     N     _BROWN Fredric               Les Farfafouilles ş1943 The Geezenstacks şTrad. FAGNE Henry
+: .oF.     N     _FLANDERS John               Ecrit dans le ciel ş1969 Geshreven in de Lucht şTrad. FAGNE Henry
+: .oF.     N     _THANET Neil                 La Vengeance de la sorciŠre ş1963 Return of the Hag şTrad. FAGNE Henry
 : .oF.     N     _--- (anonyme)               L'Enchanteur Faust et la Reine Elisabeth ş1822
-: .oF.     N     _QUINN Seabury               La Ferme fant“me ş1923 The Phantom Farmhouse
-: .oF.     N     _BARLOW George W.            Le Sacrifice du dimanche ş1973
+: .oF.     N     _QUINN Seabury               La Ferme fant“me ş1923 The Phantom Farmhouse şTrad. FAGNE Henry
+: .oF.     N     _BARLOW George W.            Le Sacrifice du dimanche ş1966
 o MARO        ?  1975.xx R.... ISBN -
-}mar13objmal     _?                           N
+} mar13objmal    _?                           N
+!--- GF - 
 - .oF.    _A13   *BARONIAN Jean-Baptiste     &13 histoires d'objets mal‚fiques ((13 histoires)) ş1975
 &                *VAN HAGELAND Albert         
 : .oF.     N     _BLOCH Robert                L'pingle ş1954 The Pin şTrad. FAGNE Henry
@@ -483,21 +468,20 @@ o MARO        ?  1975.xx R.... ISBN -
 : .oF.     N     _MEREDITH Larry Eugene       Les Oeuvres d'Elwin Adams ş1969 The writings of Elwin Adams şTrad. FAGNE Henry
 : .oF.     N     _CHRISTIE Agatha             La Poup‚e de la couturiŠre ş1959 The Dressmaker's Doll
 : .oF.     N     _HEDSTROM Birgit M.          La Bague d'opale noire ş1974 The black opal ring şTrad. FAGNE Henry
-!--- Birgit Magnusdotter Hedstr”m
 : .oF.     N     _DOREMIEUX Alain             Le Crƒne ş1955
 : .oF.     N     _HAMILTON Michael            La Hantise de Charles Quintain ş1967 The haunting of Charles Quintain şTrad. FAGNE Henry
-!--- Pseudonyme de John S. Glaby (1928 - ), anglais
 : .oF.     N     _PREVOT G‚rard               Le D‚ noir de Nora ş1975
 : .oF.     N     _BLISH James                 Le Livre de Vie ş1955 The Book of Your Life şTrad. KERDELAND Jean de
 o MARO        ?  1975.xx ..... ISBN -
-}maritalfant     _?                           N
-- .oF.     A29   *FINNE Jacques               L'Italie fantastique - de Boccacio … Landolfi ş1975
+} maritalfant    _?                           N
+!--- GF - 
 !--- L'Italie fantastique, de Boccaccio … Landolfi, vingt-neuf contes
 !--- inquiets, insidieux et cruels choisis et pr‚sent‚ par Jacques Finn‚,
 !--- traductions de Jacqueline Bloncourt-Herselin, Michel Breitman, Jacques
 !--- Finn‚, Paul-Henri Michel, Veren Muheim, Bernard No‰l, Michelle Plavsic,
 !--- Sabatier de Castres, Giovanni Sciuto, Roland Stragliati. Editions Andr‚
 !--- G‚rard, 1975, 350 p.
+- .oF.     A29   *FINNE Jacques               L'Italie fantastique - de Boccacio … Landolfi ş1975
 : .oF.     p     _FINNE Jacques               Un certain fantastique ş1975
 : .oF.     N     _BOCCACIO Giovanni           La Chasse infernale ş? Nastagio degli Onesti şTrad. CASTRES Sabatier de
 : .oF.     N     _--- (anonyme)               Maredata et Giulio ş1830 ? şTrad. ?
@@ -518,7 +502,7 @@ o MARO        ?  1975.xx ..... ISBN -
 : .oF.     N     _ALVARO Corrado              Voyage … travers les choses ş1930 Viaggi attraverso le cose şTrad. STRAGLIATI Roland
 : .oF.     N     _ALVARO Corrado              Le Pays de Kephalea ş1927 Il paese di Kefalea şTrad. PLAVSIC Michelle
 : .oF.     N     _BUZZATI Dino                Le Chien qui a vu Dieu ş1954 Il cane che ha visto dio şTrad. BREITMAN Michel
-: .oF.     N     _BUZZATI Dino                Les Sept Messagers ş1942 I sette messageri şTrad. BREITMAN Michel
+: .oF.     N     _BUZZATI Dino                Les Sept Messagers ş1942 I sette messaggeri şTrad. BREITMAN Michel
 : .oF.     N     _SOLDATI Mario               La Balle de tennis ş1962 La palla da tennis şTrad. STRAGLIATI Roland
 : .oF.     N     _SOLDATI Mario               Ada et R‚si ş1962 Ada e Resi şTrad. FINNE Jacques
 : .oF.     N     _MORAVIA Alberto             L'H“tel Splendide ş1944 L'albergo Splendido şTrad. PLAVSIC Michelle
@@ -526,13 +510,38 @@ o MARO        ?  1975.xx ..... ISBN -
 : .oF.     N     _MORAVIA Alberto             L'pid‚mie ş1944 L'epidemia şTrad. FINNE Jacques
 : .oF.     N     _LANDOLFI Tommaso            Lettres de province ş1954 Lettere dalla provincia şTrad. STRAGLIATI Roland
 : .oF.     N     _LANDOLFI Tommaso            La Mer des Blattes ş1975 Il mar delle blatte şTrad. NOEL Bernard
-: .oF.     N     _ZAPPONI Bernardino          Il est une voix dans ma vie... ş? Ce una voce nella mia vita... şTrad. STRAGLIATI Roland
+: .oF.     N     _ZAPPONI Bernardino          Il est une voix dans ma vie... ş1967 Ce una voce nella mia vita... şTrad. STRAGLIATI Roland
 : .oF.     N     _GUERRINI Tiberio            Les Vagues de la mer ş1963 L'onda del mare şTrad. STRAGLIATI Roland
 o MARO        ?  1975.xx ..... ISBN -
+} mar13histsat   _?                           N
+!--- GF - 
+!--- Traductions originales de Dominique Mols, choix des textes Albert van Hageland et Jean-Baptiste Baronian
+- .oF.    _A13   *BARONIAN Jean-Baptiste     &13 histoires sataniques ((13 histoires)) ş1975
+&                *VAN HAGELAND Albert         
+: .oF.     N     _BLOCH Robert                La Prog‚niture du vieil homme ş1958 Spawn of the Dark One / Sweet Sixteen şTrad. MOLS Dominique
+: .oF.     N     _CAVE Hugh B.                Engeance de l'enfer ş1932 Spawn of Inferno şTrad. MOLS Dominique
+: .oF.     N     _SEIGNOLLE Claude            Mon diable … moi ş?
+: .oF.     N     _HAWTHORNE Nathaniel         Le Jeune MaŒtre Brown ş1835 Young Goodman Brown şTrad. MOLS Dominique
+: .oF.     N     _THORPE Trebor               L'Esprit des t‚nŠbres ş1963 Spirit of Darkness şTrad. MOLS Dominique
+?: .o .     .     _SEIGNOLLE Claude            Le Grand Vendu ş?
+?: .o .     .     _SEIGNOLLE Claude            Un louis terreux ş?
+?: .o .     .     _SEIGNOLLE Claude            Les Autres Moi ş?
+?: .o .     .     _SEIGNOLLE Claude            Minnah l'‚toile ş?
+?: .o .     .     _SEIGNOLLE Claude            Le Feuillet perdu ş?
+: .oF.     N     _BECKERS Walter              Pastis et Beaujolais ş1967 Pastis en beaujolais şTrad. MOLS Dominique
+: .oF.     N     _BIXBY Jerome                Comment peut-on ˆtre aussi belle ? ş1953 Can such Beauty Be? şTrad. MOLS Dominique
+: .oF.     N     _BROWN Fredric               Bruissement d'ailes ş1953 Rustle of Wings şTrad. MOLS Dominique
+: .oF.     N     _FLANDERS John               Le Diable et Peter Stolz ş?
+: .oF.     N     _GRAYN Michael               Puppet-Show ş1967
+: .oF.     N     _MASEFIELD John              Le Diable et le vieillard ş1913 The Devil and the Old Man şTrad. MOLS Dominique
+: .oF.     N     _BERTIN Eddy C.              Une question de concurrence ş1975 A Matter of Competition şTrad. MOLS Dominique
+: .oF.     N     _BLOCH Robert                Le Casque … penser ş1953 The Thinking Cap şTrad. MOLS Dominique
+o MARO        ?  1975.xx ..... ISBN -
 } marrussfant    _?                           N
-- .oF.    _A21   *BOURS Jean-Pierre           La Russie fantastique (de Pouchkine … Platonov) ş1975
+!--- GF - 
 !--- 21 r‚cits insolites choisis et pr‚sent‚s par Jean-Pierre Bours
 !--- 3 chapitres avec intertitres
+- .oF.    _A21   *BOURS Jean-Pierre           La Russie fantastique - de Pouchkine … Platonov ş1975
 : .o .     p     _BOURS Jean-Pierre           Pr‚face ş1975
 : .C .     C     ****                         Du merveilleux au fantastique
 : .oF.     N     _GOGOL Nicolas               L'Effroyable Vengeance ş1831 Strachna‹a mest' şTrad. TCHERNOSVITOV Eug‚nie
@@ -560,11 +569,12 @@ o MARO        ?  1975.xx ..... ISBN -
 : .oF.     N     _PLATONOV Andrei             Un vent d'immondices ş1934 Moussorny veter şTrad. DENIS Lily
 : .oF.     r     _GOGOL Nicolas               Le Portrait ş1842 Portret şTrad. TRIOLET Elsa
 o MARO        ?  1975.xx ..... ISBN -
-}marbelgfant     _?                           N
-- .oF.    _A28   *BARONIAN Jean-Baptiste      La Belgique fantastique - avant et aprŠs Jean Ray ş1975
+} marbelgfant    _Henri Lievens               N
+!--- GF - 
 !--- R‚‚d Editions Jacques Antoine, 1984
+- .oF.    _A28   *BARONIAN Jean-Baptiste      La Belgique fantastique - avant et aprŠs Jean Ray ş1975
 : .oF.     p     _BARONIAN Jean-Baptiste      Un fantastique de r‚action ş1975
-!--- Avant Jean Ray
+: .C .     C     ****                         Avant Jean Ray
 : .oF.     N     _LA GARDE Marcellin          La Pierre sanglante de Nierbonchera ş1879
 : .oF.     N     _NIMAL Henry de              La SorciŠre ş1889
 : .oF.     N     _DEMADE Pol                  D‚bonnaire Milaine ş1898
@@ -573,7 +583,7 @@ o MARO        ?  1975.xx ..... ISBN -
 : .oF.     N     _LE ROY Gr‚goire             L'trange Aventure de l'abb‚ Levrai ş1913
 : .oF.     N     _EEKHOUD Georges             La Danse macabre du pont de Lucerne ş1920
 : .oF.     N     _HELLENS Franz               Le Double ş1919
-!--- Autour de Jean Ray
+: .C .     C     ****                         Autour de Jean Ray
 : .oF.     N     _RAY Jean                    Le Psautier de Mayence ş1930
 : .oF.     N     _PROUMEN Henri-Jacques       Le Miroir ş1930
 : .oF.     N     _GOEMAERE Pierre             L'Homme qui faisait les cercueils trop grands ş1932
@@ -582,7 +592,7 @@ o MARO        ?  1975.xx ..... ISBN -
 : .oF.     N     _STEEMAN Stanislas-Andr‚     La Patience ş1942
 : .oF.     N     _OWEN Thomas                 La Poule noire ş1975
 : .oF.     N     _POULET Robert               Un degr‚ de plus ş1975
-!--- AprŠs Jean Ray
+: .C .     C     ****                         AprŠs Jean Ray
 : .oF.     N     _AYGUESPARSE Albert          La LumiŠre noire ş1972
 : .oF.     N     _DASNOY Albert               Le Ghoum ş1968
 : .oF.     N     _STERNBERG Jacques           Le Raccourci ş1948
@@ -596,9 +606,10 @@ o MARO        ?  1975.xx ..... ISBN -
 : .oF.     N     _BARONIAN Jean-Baptiste      L'Ange de pierre ş1975
 : .oF.     N     _BOURS Jean-Pierre           Le Peuple nu ş1977
 o MARO        ?  1976.xx ..... ISBN -
-} marautrfant    _?                           N
-- .oF.    cA22   *GYORY Jean                  L'Autriche fantastique (avant et aprŠs Kafka) ş1976
+} marautrfant    _Hans Fronius                N
+!--- GF - 
 !--- 22 contes insolites choisis et pr‚sent‚s par Jean Gyory
+- .oF.    cA22   *GYORY Jean                  L'Autriche fantastique - avant et aprŠs Kafka ş1976
 : .o .     p     _GYORY Jean                  Un fantastique baroque ş1976
 : .o .     N     _STROBL Karl Hans            La Tˆte ş1901 Der kopf
 : .o .  27 N     _AICHINGER Ilse              Histoire dans un miroir ş1952 Spiegelgeschichte şTrad. RICHTER Hugo
@@ -613,18 +624,18 @@ o MARO        ?  1976.xx ..... ISBN -
 : .o .     N     _KAFKA Franz                 Le Vieux Gar‡on ş1936 Blumfeld, ein „lterer Junggeselle
 ?: .o .     N     _KOKOSCHKA Oskar             Un souvenir v‚cu ş? Von Erleben
 ?: .o .     N     _LERNET-HOLENIA Alexander    Le Baron Bagge ş1936 Der Baron Bagge
-: .o .     N     _MEYRINK Gustav              Le Soldat br–lant ş1903 Der heisse Soldat
+: .o .     N     _MEYRINK Gustav              Le Soldat br–lant ş1901 Der heisse Soldat
 ?: .o .     N     _NABL Franz                  Le TroisiŠme Bras ş1936 Der dritte Arm
 : .o .     N     _OKOPENKO Andreas            Le Tube capillaire ş? Die Kapillare
 : .o .     N     _PERUTZ Leo                  La Lune rit ş1914 Der Mond lacht
-!--- TBC 1930 ?
 ?: .o .     N     _PONGRATZ Peter              Coucher de soleil ş? Sonnenuntergang
 : .o .     N     _TOMAN Walter                L'Iceberg ş? Der Eisberg
 : .o .     N     _WERFEL Franz                Le Djinn ş? Der Dschin
 : .o .     N     _WOLFKIND Peter Daniel       La Visite chez Alda ş1972 Besuch bei Alda şTrad. RICHTER Hugo
 : .o .     N     _ZAND Herbert                Un homme discret ş1972 Ein verschwiegener Mensch
 o MARO        ?  1977.xx ..... ISBN -
-}mar13histloup   _?                           N
+} mar13histloup  _?                           N
+!--- GF - 
 - .oF.    _A13   *BARONIAN Jean-Baptiste     &13 histoires de loups-garous ((13 histoires)) ş1977
 &                *VAN HAGELAND Albert         
 : .oF.     p     _VAN HAGELAND Albert         La Chasse au loup-garou (introduction) ş1977
@@ -657,10 +668,11 @@ o MARO        ?  1977.xx ..... ISBN -
 !---- Weird Tales, d‚cembre 1934
 : .oF.     N     _BIERCE Ambrose              Les Yeux de la panthŠre ş1897 The Eyes of the Panther
 o MARO        ?  1977.xx ..... ISBN -
-}maraban_feminin _WILS Lydia                  WILS Lydia
+} maraban_feminin _WILS Lydia                  WILS Lydia
+!--- GF - 
 - .oF.    _A25   *RICHTER Anne                Le Fantastique f‚minin d'Ann Radcliffe … nos jours ((Le Fantastique f‚minin)) ş1977
 : .oF.     p     _RICHTER Anne                Le Fantastique f‚minin ou la chaise en fleurs ş1977
-!--- Objets
+: .C .     C     ****                         Objets
 : .oF.     N     _BRIDGE Ann                  La Limousine bleue ş1939 The Blue Limousine şTrad. CAMILLE Georgette
 : .oF.     N     _BRUGMAN Til                 Propre et net ş1959 ? şTrad. RICHTER Hugo
 : .oF.     N     _CALISHER Hortense           Le Parasite ş1951 Heartburn şTrad. ROTH Max
@@ -669,7 +681,7 @@ o MARO        ?  1977.xx ..... ISBN -
 : .oF.     N     _PARDO BAZAN Emilia          Le Talisman ş1894 El talism n şTrad. GOORDEN Bernard et BRAUWER Ga‰tane de
 : .oF.     N     _WHARTON Edith               L'Appel ş1931 Pomegranate Seed şTrad. CLARENCE Luce
 : .oF.     N     _WOOLF Virginia              Objets massifs ş1921 Solid Objects şTrad. BOLANOWSKI H‚lŠne
-!--- Angoisses
+: .C .     C     ****                         Angoisses
 : .oF.     N     _BODART Marie-Th‚rŠse        La Fenˆtre ş1965
 : .oF.     N     _CASSIAN Nina                L'Animal ş1971 Animalul şTrad. FLEURY Andr‚e
 : .oF.     N     _KASCHNITZ Marie-Luise       Un midi vers la mi-juin ş1960 Eines Mittags, Mitte Juni şTrad. RICHTER Hugo
@@ -677,9 +689,8 @@ o MARO        ?  1977.xx ..... ISBN -
 : .oF.     N     _LEE Vernon                  Une voix mal‚fique ş1887-1890 Voix Maudite / A Wicked Voiced şTrad. CHRESTIEN Michel
 : .oF.     N     _PREAD Campbell Mrs.         Le Bunyip ş1891 The Bunyip şTrad. RICHTER Hugo
 : .oF.     N     _RICHTER Anne                La Grande Bˆte ş1967
-!--- M‚tamorphoses
-: .oF.     N     _BLIXEN Karen                L'Enfant rˆveur ş1942 The Dreaming Child şTrad. METZGER Marthe
-!--- Det dr›mmende barn
+: .C .     C     ****                         M‚tamorphoses
+: .oF.     N     _BLIXEN Karen                L'Enfant rˆveur ş1942 Det dr›mmende barn / The Dreaming Child şTrad. METZGER Marthe
 : .oF.     N     _COUNSELMAN Mary E.          L'pouse de l'arbre ş1950 The Tree's Wife şTrad. PAPY Jacques
 : .oF.     N     _ESCOULA Yvonne              Au futur ancien ş1972
 : .oF.     N     _OCAMPO Silvina              Leurs ailes ş1961 Tales eran sus rostros şTrad. GUILLE Laure
@@ -687,7 +698,7 @@ o MARO        ?  1977.xx ..... ISBN -
 : .oF.     N     _SAND George                 La F‚e aux gros yeux ş1875
 : .oF.     N     _SEGHERS Anna                L'excursion des jeunes filles qui ne sont plus ş1946 Des Ausflug der toten M„dchen şTrad. LEFEBVRE Jo‰l
 : .oF.     N     _SOMERS Armonia              L'boulement ş1953 El derrumbamiento şTrad. GEMIS Francisca
-!--- Objets, Angoisses, M‚tamorphoses
+: .C .     C     ****                         Objets, Angoisses, M‚tamorphoses
 : .oF. 343 N     _AICHINGER Ilse              Le Gar‡on sur l'affiche ş1953 Das Plakat şTrad. RICHTER Hugo
 : .oF.     N     _BLOGOJEVIC Boba             L'Escargot ş1975 Puz şTrad. CAUCIC Sylvie & MANIERE Catherine
 

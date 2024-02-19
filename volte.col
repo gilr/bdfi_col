@@ -1,6 +1,6 @@
 !-----------------------------------------------------------------------------
 _ VOLTE   La Volte
-_ VOLTE_E La Volte, Eutopia
+_ VOLTE_E La Volte - Eutopia
 !-----------------------------------------------------------------------------
 !------------------------
 !=== 2004
@@ -27,12 +27,12 @@ o VOLTE       ?  2006.05 ..... ISBN 2-952221-76-6
 - .oS.     R     _NOON Jeff                   Pollen þ1995 Pollen þTrad. VOLINE Marc
 o VOLTE       ?  2006.09 ..... ISBN 2-952221-75-8
 } noimg          _?                           ?
-- .oS.     R     _NOON Jeff                   Vurt þ1995 Vurt þTrad. VOLINE Marc
+- .oS.     R     _NOON Jeff                   Vurt þ1993 Vurt þTrad. VOLINE Marc
 o VOLTE       ?  2006.10 ..... ISBN 2-9522217-7-4
 } noimg          _?                           ?
 - .oS.     R     _BEAUVERGER St‚phane         La Cit‚ nymphale [Chromozone - 3] þ2006
 o VOLTE       ?  2006.11 ..... ISBN 2-9522217-4-X
-} noimg          _?                           ?
+} lavolte2006_03 _?                           ?
 - .oS.    _A10   ****                         Aux limites du son þ2006
 : .oS.     N     _BARBERI Jacques            &Dies irae þ2006
 &                _JOUANNE Emmanuel            
@@ -94,13 +94,16 @@ o VOLTE       ?  2008.11 ..... ISBN 978-2-917157-00-8
 !--- ou Trad. VOLINE Marc
 - .oS.     R     _NOON Jeff                   Nymphormation þ1997 Nymphomation þTrad. BOUDRY Alfred
 o VOLTE       ?  2008.11 ..... ISBN 978-2-917157-01-5
-} noimg          _?                           ?
-- .oS.    iN50   _NOON Jeff                   Pixel Juice þ1998 Pixel Juice þTrad. SURGERS Marie
+} lavolte2008_04 _?                           ?
+- .oS.    iNx    _NOON Jeff                   Pixel Juice þ1998 Pixel Juice þTrad. SURGERS Marie
 !------------------------
 !=== 2009
 !------------------------
 o VOLTE       ?  2009.01 ..... ISBN 978-2-917157-05-3
 } noimg          _?                           ?
++ VOLTE       ?  2021.10 ..... ISBN 978-2-37049-108-4
+} noimg          _?                           ?
+!--- GF - 170x230 - 420 pages
 - .oS.     R     _BEAUVERGER St‚phane         Le D‚chronologue þ2009
 o VOLTE       ?  2009.02 ..... ISBN 978-2-917157-06-0
 } noimg          _?                           ?
@@ -167,7 +170,7 @@ o VOLTE       ?  2010.10 ..... ISBN 978-2-917157-12-1
 !------------------------
 o VOLTE       ?  2011.02 ..... ISBN 978-2-917157-13-8
 } lavolte19      _St‚phanie Aparicio & Paul Chadeisson
-- .oS.    iN29   _BARBERI Jacques            &Le Landau du rat þ2011
+- .oS.    iNx    _BARBERI Jacques            &Le Landau du rat þ2011
 &                *COMBALLOT Richard           
 : .o .     N     _BARBERI Jacques             Kosmokrim þ1985
 : .o .     N     _BARBERI Jacques             Le Landau du rat þ1987
@@ -181,7 +184,9 @@ o VOLTE       ?  2011.10 ..... ISBN 978-2-917157-15-2
 - .oS.     R     _EVANGELISTI Valerio         Nicolas Eymerich, inquisiteur [Nicolas Eymerich - 1] þ1994 Nicolas Eymerich, inquisitore þTrad. QUADRUPPANI Serge
 o VOLTE       ?  2011.10 ..... ISBN 978-2-917157-16-9
 } noimg          _Corinne Billon              ?
+>--- Cette ‚dition ne contient pas le chapitre original "Skinheads".
 - .oS.     R     _EVANGELISTI Valerio         Les ChaŒnes d'Eymerich [Nicolas Eymerich - 2] þ1995 Le catene di Eymerich þTrad. QUADRUPPANI Serge
+: .o .     N     _EVANGELISTI Valerio         Gorica þ1995 O Gorica, tu sei maledetta þTrad. QUADRUPPANI Serge
 !------------------------
 !=== 2012
 !------------------------
@@ -265,7 +270,7 @@ o VOLTE       ?  2014.02 ..... ISBN 978-2-917157-69-5
 - .oS.     R     _NOON Jeff                   Intrabasses þ2000 Needle in the Groove þTrad. SURGERS Marie
 o VOLTE       ?  2014.04 ..... ISBN 978-2-917157-98-5
 } noimg          _Corinne Billon              ?
-- .oF.     R     _EVANGELISTI Valerio         Picatrix - L'‚chelle pour l'enfer [Nicolas Eymerich - 6] þ1998 Picatrix, la scala per l'inferno þTrad. QUADRUPPANI Serge
+- .oF.     R     _EVANGELISTI Valerio         Picatrix - L'chelle pour l'enfer [Nicolas Eymerich - 6] þ1998 Picatrix, la scala per l'inferno þTrad. QUADRUPPANI Serge
 o VOLTE       ?  2014.10 ..... ISBN 978-2-37049-005-6
 } noimg          _Corinne Billon              ?
 - .oF.     R     _EVANGELISTI Valerio         La LumiŠre d'Orion [Nicolas Eymerich - 9] þ2007 La luce di Orione þTrad. BARBERI Jacques
@@ -358,14 +363,25 @@ o VOLTE       ?  2017.03 ..... ISBN 978-2-37049-036-0
 } noimg          _Corinne Billon              ?
 - .oS.     R     _NOON Jeff                   Alice Automatique þ1996 Automated Alice þTrad. SURGERS Marie
 o VOLTE       ?  2017.04 ..... ISBN 978-2-37049-040-7
-} noimg          _St‚phanie Aparicio          ?
-- .oS.     R     _GORODISCHER Ang‚lica        Kalpa Imp‚rial þ1983 Kalpa Imperial þTrad. BREYNE Mathias de
+} lavolte2017_03 _St‚phanie Aparicio          ?
+- .oY.     C11   _GORODISCHER Ang‚lica        Kalpa Imp‚rial þ1983 Kalpa Imperial þTrad. BREYNE Mathias de
+: .o .     N     _GORODISCHER Ang‚lica        Portrait de l'empereur þ1983 Retrato del Emperador þTrad. BREYNE Mathias de
+: .o .     N     _GORODISCHER Ang‚lica        Les Deux Mains þ1983 Las dos manos þTrad. BREYNE Mathias de
+: .o .     N     _GORODISCHER Ang‚lica        La Fin d'une dynastie, ou l'Histoire naturelle des furets þ1983 El fin de una dinast¡a o Historia natural de los hurones þTrad. BREYNE Mathias de
+: .o .     N     _GORODISCHER Ang‚lica        SiŠge, bataille et victoire de Selimmagud þ1983 Sitio, batalla y victoria de Selimmagud þTrad. BREYNE Mathias de
+: .o .     N     _GORODISCHER Ang‚lica        Au sujet des villes qui poussent … la diable þ1983 Acerca de ciudades que crecen descontroladamente þTrad. BREYNE Mathias de
+: .o .     N     _GORODISCHER Ang‚lica        Portrait de l'imp‚ratrice þ1984 Retrato de la Emperatriz þTrad. BREYNE Mathias de
+: .o .     N     _GORODISCHER Ang‚lica        Et les rues vides þ1984 Y las calles vac¡as þTrad. BREYNE Mathias de
+: .o .     N     _GORODISCHER Ang‚lica        L'tang þ1984 El estanque þTrad. BREYNE Mathias de
+: .o .     N     _GORODISCHER Ang‚lica        PremiŠres armes þ1984 Primeras armas þTrad. BREYNE Mathias de
+: .o .     N     _GORODISCHER Ang‚lica        Tel est le sud þ1984 As¡ es el sur þTrad. BREYNE Mathias de
+: .o .     N     _GORODISCHER Ang‚lica        La Vieille Route de l'encens þ1984 La vieja ruta del incienso þTrad. BREYNE Mathias de
 o VOLTE       ?  2017.09 ..... ISBN 978-2-37049-047-6
 } noimg          _Corinne Billon              ?
 - .oS.     R     _CATANI Vittorio             Le CinquiŠme Principe þ2009 Il Quinto Principio þTrad. BARBERI Jacques
 o VOLTE       ?  2017.09 ..... ISBN 978-2-37049-050-6
 } volte2017_05   _Corinne Billon              ?
-- .oS.    iA21   _CURVAL Philippe            &On est bien seul dans l'univers þ2017
+- .oS.    iAx    _CURVAL Philippe            &On est bien seul dans l'univers þ2017
 &                *COMBALLOT Richard           
 !--- Pr‚face de Simon Br‚an
 : .o .     N     _CURVAL Philippe             On est bien seul dans l'univers þ2000
@@ -442,7 +458,7 @@ o VOLTE       ?  2020.04 ..... ISBN 978-2-37049-090-2
 o VOLTE       ?  2020.06 ..... ISBN 978-2-37049-093-3
 } noimg          _Corinne Billon              ?
 !--- GF - 248 pages - 20 euros
-- .oS.     R     _LESSING Doris               Les Agents sentimentaux de l'empire Volyen [Canopus dans Argo : Archives - 5] þ1983 Documents Relating to the Sentimental Agents in the Volyen Empire þTrad. GUILLOT S‚bastien
+- .oS.     R     _LESSING Doris               Les Agents sentimentaux de l'Empire Volyen [Canopus dans Argo : Archives - 5] þ1983 Documents Relating to the Sentimental Agents in the Volyen Empire þTrad. GUILLOT S‚bastien
 o VOLTE       ?  2020.09 ..... ISBN 978-2-37049-101-5
 } lavolte092020_1 _Laure Afchain               ?
 !--- GF - 416 pages - 20 euros
@@ -471,14 +487,87 @@ o VOLTE       ?  2020.10 ..... ISBN 978-2-37049-099-5
 } lavolte102020  _Laure Afchain               ?
 !--- GF - 320 pages - 18 euros
 - .oS.     R     _CURVAL Philippe             Le Paquebot immobile þ2020
+!------------------------
+!=== 2021
+!------------------------
+o VOLTE       ?  2021.01 ..... ISBN 978-2-37049-097-1
+} noimg          _Corinne Billon              ?
+!--- GF - 165 x 230 - 289 pages
+- .o .     R     _EVANGELISTI Valerio         Le Fant“me d'Eymerich [Nicolas Eymerich - 12] þ2018 Il fantasma di Eymerich þTrad. BARBERI Jacques
+o VOLTE       ?  2021.02 ..... ISBN 978-2-37049-078-0
+} noimg          _Corinne Billon              ?
+!--- GF - 155 x 210 - 368 pages
+- .oS.     R     _NOON Jeff                   Un homme d'ombre [John Nyquist - 1] þ2017 A Man of Shadows þTrad. SURGERS Marie
+o VOLTE       ?  2021.03 ..... ISBN 978-2-37049-106-0
+} noimg          _Corinne Billon              ?
+!--- GF - 155 x 210 - 272 pages
+- .oS.     R     _DICKOW Alexander            Le Premier Souper þ2021
+o VOLTE       ?  2021.09 ..... ISBN 978-2-37049-104-6
+} lavolte2021_04 _Corinne Billon              ?
+!--- GF - 312 pages
+- .oS.     N17   _FOWLER Karen Joy            Comme ce monde est joli þ2021
+: .o .     N     _FOWLER Karen Joy            T‚nŠbres þ1991 The Dark þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            Soir‚e match þ1989 Game Night at the Fox & Goose þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            Lieserl þ1990 Lieserl þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            Rouge Lily þ1988 Lily Red þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            Leurs derniers mots þ2007 The Last Worders þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            Du recul þ1988 Go Back þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            En visage þ1986 Face Value þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            La Science d'elle-mˆme þ2013 The Science of Herself þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            Verre noir þ1991 Black Glass þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            La Guerre des roses þ1985 The War of the Roses þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            Poplar Street þ1985 The Poplar Street Study þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            Comp‚tition þ1986 Contention þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            Shimabara þ1995 Shimabara þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            Always þ2007 Always þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            Duplicit‚ þ1989 Duplicity þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            La Porte aux Fant“mes þ1986 The Gate of Ghosts þTrad. LUVAN & HENRY L‚o
+: .o .     N     _FOWLER Karen Joy            Pelican Bar þ2009 The Pelican Bar þTrad. LUVAN & HENRY L‚o
+o VOLTE       ?  2021.09 ..... ISBN 978-2-37049-088-9
+} noimg          _David Lyle & St‚phanie Aparicio
+!--- GF - 312 pages
+!--- Annonc‚ d'abord en f‚vrier 2020, puis en septembre de la mˆme ann‚e.
+- .oS.     R     _CALVO Sabrina               Melmoth furieux þ2021
+o VOLTE       ?  2021.10 ..... ISBN 978-2-37049-109-1
+} noimg          _?                           ?
+!--- GF - 256 pages
+- .oS.     R     _CURVAL Philippe             Idem's þ2021
+o VOLTE_E     ?  2021.10 ..... ISBN 978-2-37049-119-0
+} noimg          _?                           ?
+!--- GF - 128 pages
+- .oS.     r     _BEAUVERGER St‚phane         Collisions par temps calme þ2021
+!------------------------
+!=== 2022
+!------------------------
+o VOLTE       ?  2022.01 ..... ISBN 978-2-37049-092-6
+} noimg          _Laure Afchain               ?
+!--- MF - 140x190 - 64 pages - 35 euros
+>--- Objet-livre de 16 poŠmes en prose et 6 CD musicaux de Denis Frajerman.
+- .oI.    iP16   _VOLODINE Antoine            Variations Volodine þ2020
+o VOLTE       ?  2022.03 ..... ISBN 978-2-37049-189-3
+} noimg          _Corinne Billon              ?
+!--- GF - 140 x 190 - 224 pages - 18 euros
+- .oS.     R     _ROCH Michael                TŠ Mawon þ2022
+o VOLTE       ?  2022.04 ..... ISBN 978-2-37049-192-3
+} noimg          _Philippe Curval             ?
+!--- GF - 140 x 190 - 256 pages - 18 euros
+- .oS.     R     _CURVAL Philippe             Le Ressac de l'espace þ1962-2022
+o VOLTE       ?  2022.08 ..... ISBN 978-2-37049-195-4
+} noimg          _Nacha Vollenweider          Nacha Vollenweider
+!--- GF - 155 x 210 - 256 pages - 20 euros
+- .oS.     R     _LUVAN                       Splines þ2022
+o VOLTE       ?  2022.09 ..... ISBN 978-2-37049-198-5
+} noimg          _Corinne Billon              ?
+!--- GF - 155 x 210 - 320 pages - 22 euros
+- .oS.     R     _NOON Jeff                   La Ville des histoires [John Nyquist - 2] þ2018 The Body Library þTrad. GAILLARD-PARIS Christel
+o VOLTE       ?  2022.10 ..... ISBN 978-2-37049-204-3
+} noimg          _Anouck Faure                ?
+!--- GF - 155 x 210 mm - 304 pages - 20 euros
+- .oS.     R     _AMBLARD Jacques             Apocalypse blanche (La SirŠne sous la cime) þ2022
+o VOLTE_E     ?  2022.10 ..... ISBN 978-2-37049-207-4
+} noimg          _Jean Pierre N'Guyen/Maxppp  ?
+!--- Poche - 125x170 - 96 pages - 8 euros
+- .oS.     r     _Dilem et Bri                Maraude(s) þ2022
 
-
-?o VOLTE       ?  2020.10 ..... ISBN ?
-?} noimg          _?                           ?
-?- .oS.     R     _NOON Jeff                   Un homme d'ombre [John Nyquist - 1] þ2017 A Man of Shadows þTrad. ?
-?o VOLTE       ?  2020.09 ..... ISBN 978-2-37049-088-9
-?} noimg          _?                           ?
-?!--- Annonc‚ en f‚vrier puis en septembre 2020...
-?- .oS.     R     _CALVO Sabrina               Melmoth furieux þ2020
 
 

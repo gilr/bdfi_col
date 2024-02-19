@@ -2,27 +2,1612 @@
 !--- Editions L'Oeil du Sphinx
 !--- Murmures d'Irem
 !-----------------------------------------------------------------------------
-!-- ODS_BAA Ed. L'Oeil Du Sphinx, Coll. "La bibliothŠque d'Abdul Alhazred"
-!-- ODS_MED Ed. L'Oeil Du Sphinx, Coll. "Les manuscrits d'Edward Derby"
-!-- ODS     Ed. L'Oeil Du Sphinx
-!-- ODS_FC  Ed. L'Oeil Du Sphinx, La feuille de la compagnie
-!-- ODS_GF  Ed. L'Oeil Du Sphinx, La gazette fort‚enne
-!-- ODSDMI  Ed. L'Oeil Du Sphinx, Dragon et Microchips
-!-- ODSDMIH Ed. L'Oeil Du Sphinx, Dragon et Microchips HS
+!-- ODS_BAA L'Oeil Du Sphinx, La bibliothŠque d'Abdul Alhazred
+!-- ODS_MED L'Oeil Du Sphinx, Les manuscrits d'Edward Derby
+!-- ODS     L'Oeil Du Sphinx
+!-- ODS_FC  L'Oeil Du Sphinx, La feuille de la compagnie
+!-- ODS_GF  L'Oeil Du Sphinx, La gazette fort‚enne
+!-- ODSDMI  L'Oeil Du Sphinx, Dragon et Microchips
 !-- ODSMISK Bulletin de l'universit‚ de Miskatonic
-!-- WENDIGO Ed. L'Oeil Du Sphinx, Wendigo
-!-- ODS_IIN Ed. L'Oeil Du Sphinx, Coll. Les Insomniaques d'Innsmouth
-!-- ODS_VIN Ed. L'Oeil Du Sphinx, Vintage Fiction
+!-- WENDIGO L'Oeil Du Sphinx, Wendigo
+!-- ODS_IIN L'Oeil Du Sphinx, Les Insomniaques d'Innsmouth
+!-- ODS_VIN L'Oeil Du Sphinx, Vintage Fiction
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
-_ ODS     Ed. L'Oeil Du Sphinx
+_ ODS     L'Oeil Du Sphinx
 !-----------------------------------------------------------------------------
 !--- Editions de L'Oeil du Sphinx (Association L'Oeil Du Sphinx - AODS)
 !-----------------------------------------------------------------------------
 
+!--- Akheion => Page 24
+
+!--- TBD Akheion => chercher les nouvelles des "Dragon's News"
+!--- Dragon's News 2
+: .o .   3 a     _ARITON Nicolae C.           jurnalul SF ş?
+!--- Dragon's News 4
+: .o .     N     _ANZERAEY Emmanuel           Cabale ş?
+!--- Dragon's News 5
+: .o .     N     _BERNOU Jean-Louis           D‚livrance ş?
+!--- Dragon's News 7
+: .o .   4 N     _BERNOU Jean-Louis           Isabelle ş?
+: .o .  22 P     _BERENGER J‚r‚my             Les CrŠpes du mal ş?
 
 !-----------------------------------------------------------------------------
-_ ODS_EDA L'Oeil Du Sphinx, Coll. "Les ‚tudes du Dr Armitage"
+_ ODSDMI  L'Oeil Du Sphinx - Dragon et Microchips
+_ ODSDMI2 L'Oeil Du Sphinx - Dragon et Microchips, nouvelle s‚rie
+!-----------------------------------------------------------------------------
+!--- "Le Fanzine qui rˆve..."
+!--- Dragon et Microchips (France)
+!--- Edite par l'oeil du sphinx
+!--- N‚ en 1991 sous l'impulsion de Nicolas Miecret et Philippe Marlin
+!--- mailto:Nicolas Miecret<nicdouille@infonie.fr>
+!--- Origine : JdR et jeux micro
+!--- Responsable Philippe Marlin (pmarlin@infonie.fr)
+!--- Il existe deux HS Le bulletin de l'universit‚ du Miskatonic HS1 et
+!---  les manuscrits d'Edward Derby HS1
+!-----------------------------------------------------------------------------
+o ODSDMI      1  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Dragon et Microchips nø 1 ş1991
+! .C .   2 C     ****                         La bibliothŠque d'Abdul Alhazred
+! Les Terres de rˆve ................................................................................. 3
+! Le sort tragique des Editions Golden Goblin ........................................ 4
+! Le continent perdu de Mu ..................................................................... 5
+! Le monde merveilleux des fanzines ...................................................... 6
+: .o .   7 P     _MARLIN Philippe             Les Chiens de Tindalos ş1991
+! Aventures en la Chapitria ...................................................................... 8
+! Nos jeux au banc d'essai ..................................................................... 14
+! Les plans de Dungeon Master ............................................................. 18
+! Pokes & astuces .................................................................................. 24
+o ODSDMI      2  1991.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Dragon et Microchips nø 2 ş1991
+! .C .   2 C     ****                         La bibliothŠque d'Abdul Alhazred
+! Le monde merveilleux des fanzines ...................................................... 7
+! Les archives de l'OEil du Sphinx ............................................................ 9
+! Donjons & Dragons ............................................................................ 17
+: .o .  19 P     _MARLIN Philippe             Un ‚trange sabbat ş1991
+! La Chapitria, g‚ographie ..................................................................... 20
+! La Chapitria, aventures ....................................................................... 25
+! Les tests de D&M ............................................................................... 43
+! Microchips .......................................................................................... 54
+o ODSDMI      3  1991.12 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- 66 pages - 20 francs
+- .o .     Mx    ****                         Dragon et Microchips nø 3 ş1991
+!  2  En direct de Roumanie
+: .o .   3 a     _ARITON Nicolae C.           La SF en Roumanie ş1991
+!  4  Le nouvel Age
+! .C .   5 C     ****                         Le Bulletin de l'Universit‚ de Miskatonic
+! 17  L'arch‚ologie du fandom
+! 35  Litt‚rature & Jeu de r“les
+! 36  Textes
+: .oF.  36 N     _FAIRMARCH Duncan            La Forˆt ş1991
+: .o .  40 P     _MARLIN Philippe             Vision ş1991
+! .C .  41 C     ****                         La bibliothŠque d'Abdul Alhazred
+! 46  Le monde merveilleux des fanzines
+! 59  Bric … brac
+! 60  Sur nos ‚crans
+! 66  Microchips
+o ODSDMI      4  1992.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Dragon et Microchips nø 4 ş1992
+! Sans aucune pr‚tention ......................................................................... 2
+! L'Echo de Melnibone ............................................................................ 3
+! Etudes : les Vikings ............................................................................ 19
+: .o .  20 a     _DELIGNY Philippe            Les Vikings ş1992
+! .C .  27 C     ****                         Le Bulletin de l'Universit‚ de Miskatonic
+! Textes .................................................................................................. 45
+: .o .  46 N     _ARITON Nicolae C.           L'Andro‹de ş1992
+! Bric … brac ........................................................................................... 50
+! R“le and Rˆve ..................................................................................... 51
+! La Gazette de l'Empire ........................................................................ 53
+! .o .  55 a     _--- (inconnu)               Le livre de Thar'Niels ş1992
+! .C .  63 C     ****                         La bibliothŠque d'Abdul Alhazred
+! Coup de coeur ...................................................................................... 66
+: .o .  66 a     _--- (inconnu)               Le mus‚e Jules Verne … Nantes ş1992
+! La lettre de l'Atlantide ......................................................................... 67
+: .o .  75 a     _MARLIN Philippe             El‚ments de fanzinologie ş1992
+! Le dragon … plumes ............................................................................. 78
+! Sur vos ‚crans ..................................................................................... 79
+! Microchips .......................................................................................... 81
+o ODSDMI      5  1992.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Dragon et Microchips nø 5 ş1992
+! .C .   3 C     ****                         Les Etudes du Dr Armitage
+: .o .   4 a     _NICHOLLS Stan               Jack l'‚ventreur ş? ?
+! .C .   9 C     ****                         Le Bulletin de l'Universit‚ de Miskatonic
+: .C .  27 C     ****                         Les Manuscrits d'Edward Derby
+: .o .  28 P     _GARRIDO Jean-Emile          Lyciria ş1992
+: .o .  29 P     _MARLIN Philippe             Phame ş1992
+: .o .  30 N     _FULCONIS Marc               Quand la mort me r‚veilla ş1992
+: .o .  32 N     _FULCONIS Marc               Un mauvais rˆve ş1992
+: .o .  33 N     _GOETZ Lionel                La Mar‚e ş1992
+: .o .  35 N     _GOETZ Lionel                Echange ş1992
+: .o .  35 N     _WARD Dexter                 Naat ş1992
+: .o .  39 N     _DUMAY Gilles                De peur d'attendre les enfants de CerbŠre ş1982
+: .o .  43 N     _DUMAY Gilles                Futur parcellaire ş1992
+: .o .  45 N     _TALLEGHANI Dominique        Bienvenue sur Tarahumaras ş1992
+: .o .  50 N     _STOLZE Pierre               D‚sert d'ocre et cercueil de cristal ş1992
+: .o .  53 N     _ARITON Nicolae C.           Les Voleurs ş1992
+: .o .  56 N     _L'Aigle Bleu                Le Sang royal ş1992
+: .o .  56 N     _LELOUP Fabienne             Le Jardin des mandragores ş1992
+! R“le and Rˆve ..................................................................................... 57
+! La Gazette de l'Empire ........................................................................ 59
+! .C .  63 C     ****                         La bibliothŠque d'Abdul Alhazred
+: .o .  72 a     _--- (inconnu)               Le Dragon … plumes
+! .C .  74 C     ****                         La Lettre de R'lyeh
+! .C .  84 C     ****                         La musique d'Erich Zann
+! Minichips ............................................................................................ 85
+o ODSDMI      6  1993.04 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- 86 pages - 25 francs
+!--- @source : Arkheion 102022
+- .o .     Mx    ****                         Dragon et Microchips nø 6 ş1993
+: .C .   3 C     ****                         Les Etudes du Dr Armitage
+: .o .   8 a     _DUMAY Gilles                H.R. Giger ş1993
+! .C .  11 C     ****                         La musique d'Erich Zann
+: .o .  11 a     _DUMAY Gilles                David Bowie ş1993
+: .o .  13 a     _DUMAY Gilles                The Cramps ş1993
+: .C .  15 C     ****                         La bibliothŠque d'Abdul Alhazred
+: .C .  27 C     ****                         Le Bulletin de l'Universit‚ de Miskatonic
+: .C .  45 C     ****                         Les Manuscrits d'Edward Derby
+: .o .  46 P     _MARLIN Philippe             Tindalos ş1993
+: .o .  47 P     _STOLZE Pierre               Histoire ş1993
+: .o .  48 P     _ANZERAEY Emmanuel           Le Rituel ş1993
+: .o .  50 P     _GARRIDO Jean-Emile          Adieu Lamie ş1993
+: .o .  50 P     _ROULLEAU Michel             Drakkar noir ş1993
+: .o .  51 N     _LELOUP Fabienne             Bois l'amour ş1993
+: .o .  52 N     _L'Aigle Bleu                Le Souffle de la licorne ş1993
+: .o .  53 N     _WARD Philippe               Bit ş1993
+: .o .  54 N     _NGUYEN Jean-Jacques         Les dieux ne sont plus ici ş1993
+: .o .  58 N     _VIET David                  Paternit‚ ş1993
+: .o .  61 N     _DUMAY Gilles                Bad news from the stars ş1993
+: .o .  65 N     _BERNOU Jean-Louis           Papa on t'aime ş1993
+: .o .  66 N     _CAUVIN Daniel               Le Dragon ş1993
+: .o .  69 a     _--- (inconnu)               Le Dragon … plumes
+! .C .  73 C     ****                         La Lettre de R'lyeh
+! 86 Minichips
+o ODSDMI      7  1993.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Dragon et Microchips nø 7 ş1993
+! Bonjour ................................................................................................ 2
+! .C .   3 C     ****                         Les Etudes du Dr Armitage
+: .oF.   4 N     _LE GUYADER Serge            Premier voyage ş1964
+: .o .   6 a     _ARITON Nicolae C.           La SF en Roumanie ş1993
+! .C .  15 C     ****                         La musique d'Erich Zann
+: .o .  16 a     _--- (inconnu)               Le Dragon … plumes
+! .C .  21 C     ****                         La bibliothŠque d'Abdul Alhazred
+! .C .  41 C     ****                         Le Bulletin de l'Universit‚ de Miskatonic
+! .C .  52 C     ****                         La Lettre de R'lyeh
+: .C .  69 C     ****                         Les Manuscrits d'Edward Derby
+: .o .  70 N     _GARRIDO Jean-Emile          Mort pour l'‚ternit‚ ş1993
+: .o .  84 N     _BIDCHIREN Olivier           Les Descendants du dragon ş1993
+: .o .  87 N     _BERNOU Jean-Louis           Immortel ennui ş1993
+! Attention, on boucle ............................................................................ 88
+o ODSDMI      8  1993.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Dragon et Microchips nø 8 ş1992
+! Bonjour ................................................................................................ 2
+: .o .   4 a     _LE GUYADER Serge F.         La Golden Dawn ş1995
+: .o .   9 a     _IRAH Duncan d'              L'AprŠs-Vie ş1993
+! .C .  15 C     ****                         La musique d'Erich Zann
+! Rencontres nocturnes dans les rues de Gotham City par Willy Favre 20
+! Notules h‚t‚roclites ............................................................................. 23
+! Jean-Emile Garrido ou la semence des t‚nŠbres ................................. 37
+! .C .  41 C     ****                         Le Bulletin de l'Universit‚ de Miskatonic
+! .o .  55 a     _FERJAULT Jacky              Impressions d'un n‚ophyte … la lecture d'HP Lovecraft (1Šre partie) ş1995
+! Les MaŒtres du fandom ...................................................................... 64
+! Duncan d'Irah ou la rage d'‚crire ........................................................ 68
+: .o .  69 P     _IRAH Duncan d'              Ne plus vivre d‚sormais... ş1993
+! Les parchemins de Yuggoth ................................................................ 73
+: .o .  90 N     _LELOUP Fabienne             A mort, faux phallus ş1993
+: .o .  92 N     _DUMAY Gilles                Dans les bras de l'arnava ş1993
+: .o . 105 N     _FERRIEU Sylvain             Tourn‚ vers l'Occident ş1993
+: .o . 109 N     _KILPATRICK Nancy            Le Pouvoir de un... ş1993 The Power of One
+! DerniŠre minute ................................................................................ 115
+o ODSDMI      9  1995.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- @source : Arkheion 102022
+- .o .     Mx    ****                         Dragon et Microchips nø 9 (juin-juillet) ş1995
+: .C .   3 C     ****                         Le Bulletin de l'Universit‚ de Miskatonic
+: .o .   5 a     _FERJAULT Jacky              Impressions d'un n‚ophyte … la lecture d'HP Lovecraft (2Šme partie) ş1995
+: .o .  11 a     _ULSANE Alicia               Le N‚cronomicon ş1995
+: .o .  13 a     _ULSANE Alicia               The Avon Necronomicon ş1995
+: .o .  16 a     _--- (inconnu)               Notules pnakotiques ş1995
+: .C .  21 C     ****                         La bibliothŠque d'Abdul Alhazred
+: .o .  23 a     _--- (inconnu)               ExcŠs, irr‚alisme & n‚gativit‚ : Les livres de Sang 2 & 3 ş1995
+: .o .  29 a     _FAVRE Willy                 Lobo's Back ş1995
+: .o .  31 a     _--- (inconnu)               Notules h‚t‚roclites ş1995
+: .o .  34 a     _BOGDANOFF I. & G.           Clefs pour la science-fiction ş1995
+: .C .  53 C     ****                         Les Manuscrits d'Edward Derby
+: .o .  55 N     _DUMAY Gilles                S‚pulture orbitale ş1995
+: .o .  66 N     _ARITON Nicolae C.           A Monsieur Johan, avec amour ş1995
+: .o .  77 N     _DELUC Thierry               Communication d'Outre-Fleur ş1995
+: .o .  81 N     _DOLLO Xavier                SolŠne ş1995
+: .o .  86 N     _POSSAMAI Adam M.            Lilith ş1995
+: .o .  92 N     _COLIN J‚r“me                Le Crime parfait ş1995
+: .C .  99 C     ****                         La Lettre de R'lyeh
+o ODSDMI     10  1995.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- 160 pages - 35 francs
+!--- @source : Arkheion 102022
+- .o .     M6    ****                         Dragon et Microchips nø 10 (janvier-f‚vrier 1996) ş1995
+! .C .   3 C     ****                         Les Etudes du Dr Armitage
+! .o .   4 a     _FERJAULT Jacky              La magie et l'horreur dans l'oeuvre de Shakespeare ş1995
+! .C .  32 C     ****                         Le Bulletin de l'Universit‚ de Miskatonic
+! .o .  34 a     _--- (inconnu)               Le Colloque de Cerisy
+! .o .  39 a     _FERJAULT Jacky              Impressions d'un n‚ophyte … la lecture d'HP Lovecraft (3Šme partie) ş1995
+! .o .  43 a     _--- (inconnu)               Notules pnakotiques
+! .o .  47 a     _--- (inconnu)               De Web Mysteriis
+! .C .  51 C     ****                         La bibliothŠque d'Abdul Alhazred
+! .o .  52 a     _--- (inconnu)               Notules h‚t‚roclites
+! .C .  77 C     ****                         Les Manuscrits d'Edward Derby
+: .o .  79 N     _LE GUYADER Serge F.         MystŠres aux Pierres Vives ş1995
+: .o .  89 N     _PANIER Claire               Le Fantasme et le coucou ş1995
+: .o .  98 N     _BONNO Laurent               Mais qui habite au nø 12 ş1995
+: .o   108 N     _SAUVAGE J‚r‚mi              Un petit coin d'air frais ş1995
+: .o . 110 N     _DUMONT Claude               La Chasse ş1995
+: .o . 117 N     _DAY Thomas                  Le Fils du Requin ş1995
+! .C . 127 C     ****                         La Lettre de R'lyeh
+! .o . 128 a     _--- (inconnu)               Arch‚ologie du fandom : rencontre avec Jacques Bergier
+! .o . 134 a     _--- (inconnu)               Les MaŒtres du fandom : Les MystŠres de l'Annonce-Bouquin
+! .o . 138 a     _--- (inconnu)               Sylvain Ferrieu ou la Cr‚ature Kaotique
+! .o . 145 a     _--- (inconnu)               Les Parchemins de Yuggoth : Notules
+! .o . 151 a     _--- (inconnu)               En vrac : Notulesÿ
+o ODSDMI     11  1996.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- 160 pages - 35 francs
+!--- @source : Arkheion 102022
+!--- TBD Bidel : "Antonin et les ancˆtres" ?
+- .o .     Mx    ****                         Dragon et Microchips nø 11 (aou–t 96) ş1996
+! .C .   4 C     ****                         La bibliothŠque d'Abdul Alhazred
+! .o .   5 a     _--- (inconnu)               Dossier Richard BessiŠre
+! .o .  32 a     _--- (inconnu)               Notules h‚t‚roclites
+! .C .  41 C     ****                         Le Bulletin de l'Universit‚ de Miskatonic
+! .o .  42 a     _HARRIS Steven B.            Horreur scientifique, Ali‚nation & cryog‚nie
+! .o .  53 a     _--- (inconnu)               Notules pnakotiques
+! .C .  59 C     ****                         Les Manuscrits d'Edward Derby
+: .o .  60 N     _ARIBAUD Arthur              Le Bienfaiteur ş1996
+: .o .  65 N     _SAUVAGE J‚r‚mi              H.P. ş1996
+: .o .  71 N     _IRAH Duncan d'              Le Templier de Morgnelais ş1995
+: .o .  81 N     _BONNO Laurent               Vengeance post-mortem ş1996
+: .oS.  87 N     _VALLET Dominik              De source s–re ş1996
+: .o .  93 N     _COLIN J‚r“me                Que la fˆte continue ş1996
+: .o . 101 N     _BIDEL Guy                   Antonin et les "anciens" ş1996
+: .o . 107 N     _DAY Thomas                  Cheyenne Hiver ş1996
+! .C . 112 C     ****                         La Lettre de R'lyeh
+! .o . 113 a     _SAUVAGE J‚r‚mi              Les MaŒtres du Fandom
+! .o . 120 a     _BERNARD CHris               Les MaŒtres du Fandom
+! .o . 126 a     _--- (inconnu)               Les Parchemins de Yuggoth
+! .o . 139 a     _--- (inconnu)               Les Papiers Confidentiels d'Old Marlinius
+! .o . 146 a     _--- (inconnu)               La Chronique de Papy
+! .o . 151 a     _SAUVAGE J‚r‚mi              La Convention de Nancy
+o ODSDMI     12  1997.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- 158 pages - 35 francs
+!--- @source : Arkheion 102022
+- .o .     Mx    ****                         Dragon et Microchips nø 12 ş1997
+: .C .   5 C     ****                         Les Etudes du Dr Armitage
+: .o .   6 a     _FERJAULT Jacky              La Terreur, du Luxembourg … Picpus ş1997
+: .o .  23 a     _SAUVAGE J‚r‚mi              Soci‚t‚ & SF ş1997
+: .C .  28 C     ****                         Le Bulletin de l'Universit‚ de Miskatonic
+: .o .  29 a     _PERIGNY Franck              Lovecraft, raciste, et alors ? ş1997
+: .o .  32 a     _CHE Brice                   Aux couleurs de la Nouvelle-Angleterre ş1997
+: .o .  38 a     _--- (inconnu)               Notules pnakotiques ş1997
+: .C .  41 C     ****                         Les Manuscrits d'Edward Derby
+: .o .  42 N     _CONRAD Daniel               Retrouvailles ş1997
+: .o .  45 N     _NICOLOFF Lo‹c               Op‚ration Baskerville ş1997
+: .o .  55 N     _BERENGER J‚r‚my             Belle comme la mort ş1997
+: .oS.  60 N     _SAUVAGE J‚r‚mi              Le‡on d'exosexualit‚ nø1 ş1997
+: .o .  63 N     _GARRIDO Jean-Emile          La Main d‚chir‚e ş1997
+: .o .  66 N     _KILPATRICK Nancy            G‚n‚ration pourquoi ş1997
+: .o .  71 N     _BIDCHIREN Olivier           La nuit, tout est gris ş1996
+: .C .  75 C     ****                         La bibliothŠque d'Abdul Alhazred
+: .o .  76 a     _--- (inconnu)               Un amphi avec Serge Lehman ş1997
+: .o .  83 a     _--- (inconnu)               Lectures ş1997
+: .C . 114 C     ****                         La Lettre de R'lyeh ş1997
+: .o . 115 a     _--- (inconnu)               Les MaŒtres du Fandom : Daniel Conrad : la splendeur de Dombasle ş1997
+: .o . 125 a     _--- (inconnu)               Les MaŒtres du Fandom : Andr‚ Lejeune : le R‚veil ş1997
+: .o . 131 a     _--- (inconnu)               Les MaŒtres du Fandom : Christian Martin : le cousin qui n'a pas la pˆche ş1997
+: .o . 140 a     _--- (inconnu)               Les Parchemins de Yuggoth ş1997
+: .o . 158 a     _--- (inconnu)               Les Papiers secrets d'Old Marlinius ş1997
+: .o . 151 a     _--- (inconnu)               La Chronique de Papy ş1997
+o ODSDMI     13  1997.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- @source : Arkheion 102022
+!--- 128 pages - 35 francs
+- .oF.    kM4    ****                         Dragon et Microchips nø 13 - Bon anniversaire Dracula (novembre 97) ş1997
+: .o .   7 a     _PORTER Ray                  Le Dracula historique ş1997
+: .o .  17 N     _BOWEN Gary                  L'Apprentie Vampire ş1994 The Amateur Vampire
+: .o .  23 a     _MARLIN Philippe            &Pour quelques gouttes d'h‚moglobine ş1997
+&          a     _MIECRET Nicolas             
+: .o .  55 N     _POSSAMAI Adam M.            Antarctique ş1997
+: .o .  73 K     ****                         Vlad Tepes Draculea (gravures m‚di‚vales) ş?
+: .oY.  95 N     _SAUVAGE J‚r‚mi              Br–lera bien qui br–lera le dernier... ş1997
+: .o . 104 k     _FABRI Samantha              Pers‚phone ş1997
+: .o . 109 N     _BERENGER J‚r‚my             Soudain, cette ampleur m'apparut comme un lien ş1997
+: .o . 125 a     _--- (inconnu)               Les Papiers Sanglants de Vlad Marlinius ş1997
+o ODSDMI     14  1998.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- @source : Arkheion 102022
+!--- 166 pages - 35 francs
+- .o .    kM6    ****                         Dragon et Microchips nø 14 ş1998
+: .C .   6 C     ****                         Les Etudes du Dr Armitage
+: .o .   6 a     _FERJAULT Jacky              Les CimetiŠres de Paris ş1998
+: .C .  46 C     ****                         Le Bulletin de l'Universit‚ de Miskatonic
+: .o .  47 a     _PERIGNY Franck              Comment je suis devenu accro … Lovecraft ş1998
+: .o .  49 a     _REILLY John                 La vie et l'oeuvre du Pr‚sident HPL ş? ?
+: .o .  54 a     _SHEA Vernon J.              The Necronomicon ş? ?
+: .o .  67 a     _--- (inconnu)               Notules pnakotiques ş1998
+: .C .  77 C     ****                         La bibliothŠque d'Abdul Alhazred
+: .o .  77 a     _--- (inconnu)               Notules ş1998
+: .C .  95 C     ****                         Les Manuscrits d'Edward Derby
+: .o .  96 N     _SAUVAGE J‚r‚mi              Flocons de neige ‚ternelle ş1998
+: .o . 102 N     _CLORE Dan                   L'Empereur Ausso ş1998
+: .o . 103 N     _HEURTEL Philippe            Les Reflets mauves des derniers matins ş1998
+: .o . 109 N     _CONRAD Daniel               L'Ombre des Ombres ş1998
+: .o . 116 a     _--- (inconnu)               Nancy (Kilpatrick) for ever - Vive l'h‚moglobine parisienne ş1998
+: .o . 121 N     _KILPATRICK Nancy            La Base d'un Triangle ş1998 Base of a Triangle
+: .o . 124 N     _FERJAULT Jacky              Les P'tits boulots ş1998
+: .C . 133 C     ****                         La Lettre de R'lyeh ş1998
+: .o . 134 a     _--- (inconnu)               Monsieur Guy n'est pas une l‚gende ş1998
+: .o . 138 a     _--- (inconnu)               Les Parchemins de Yuggoth ş1998
+: .o . 157 a     _THIBAULT Emmanuel           Un ravi … Nancy ş1998
+o ODSDMI     15  1998.xx ..... ISBN .-.....-...-.
+} noimg          _El Jice                     El Jice
+!--- @source : Arkheion 092017
+!--- 166 pages - 40 francs
+- .o .    kM9    ****                         Dragon et Microchips nø 15 ş1998
+: .C .   5 C     ****                         Les Etudes du Dr Armitage
+: .o .   6 a     _VONARBURG Elisabeth         Retour au Matin des Magiciens ş1998
+: .o .  12 a     _FERJAULT Jacky              Les Contes de Grimm ş1998
+: .C .  25 C     ****                         Le Bulletin de l'Universit‚ de Miskatonic
+: .o .  26 a     _HILL Christophe             Ufologie transcendentale ş1998
+: .o .  31 a     _DE CAMP Lyon Sprague        Pr‚face du N‚cronomicon ş1973 Preface (Al Azif) / Preface to the Necronomicon 
+: .o .  36 a     _--- (inconnu)               Notules Pnakotiques
+: .C .  51 C     ****                         La bibliothŠque d'Abdul Alhazred
+: .o .  52 a     _PERIGNY Franck              La Quˆte de Philippe Ward, l'Inconnu, par Franck P‚rigny
+: .o .  60 a     _--- (inconnu)               Dossier El jice ş1998
+: .o .  60 a     _EL JICE                     A propos du "Tombeau des ‚toiles" ş1998
+!--- El Jice = Jean-Claude Leroy
+: .o .  64 I     _EL JICE                     Interview ş1998
+: .o .  64 N     _EL JICE                     Premier voyage … Zeda ş1998
+: .o .  78 a     _DOLLO Xavier                L'Affaire Blade & Baker ş1998
+: .o .  85 a     _--- (inconnu)               Notules h‚t‚roclites ş1998
+: .C .  99 C     ****                         Les Manuscrits d'Edward Derby
+: .o . 100 N     _METAYER Lydie               Petite histoire sans nom ş1998
+: .o . 103 N     _BERENGER J‚r‚my             Double malentendu ş1998
+: .o . 110 N     _ROLLET Serge                L'tranger ş1998
+: .o . 113 N     _FERJAULT Jacky              L'Enfant du froid ş1998
+: .x . 120 N     _VALLET Dominik              Voyage au bout de la vie ş1998
+: .o . 123 N     _POSSAMAI Adam M.            Rˆve de saucisson ş1997
+: .o . 131 N     _JOHNSSON Henrik             Le Rˆveur ş? ?
+: .o . 139 N     _RUMATHA                     Simon Grandes Mains ş1998
+: .o . 155 N     _WARD Philippe               Les Vignes du seigneur ş1998
+: .C . 160 C     ****                         Les Papiers Secrets de l'OdS ş1998
+: .o . 160 a     _--- (inconnu)               Papiers ş1998
+: .o . 168 a     _RUMATHA                     J'ai dŒn‚ avec Jack Vance ş1998
+o ODSDMI     16  1999.xx ..... ISBN -
+} noimg          _Philippe Jozelon            Philippe Jozelon, Harrison Fisher, Chlo‚, Laurine Spehner, Christophe Hill, Jacky Ferjault, Fred Thuriaf
+!--- 50 francs
+!--- En compagnie du Roi en jaune, l'univers fantastique de Robert W. Chambers
+!--- Num‚ro r‚alis‚ par Christophe Thill
+!--- @source : Arkheion 092017
+- .o .    kMx    ****                         Dragon et Microchips nø 16 - En compagnie du roi en jaune ş1999
+: .o .  11 a     _JOSHI S.T.                  Robert W. Chambers ş1984 Robert W. Chambers
+: .o .  21 a     _CHAMBERS Robert             La rue des quatre-Vents ş? ?
+: .o .  27 a     _THILL Christophe            Robert Chambers, ses vies, ses oeuvres ş1999
+: .o .  39 a     _--- (inconnu)               Documents
+: .o .  55 N     _JOHNSSON Henrik             La Folie du roi ş2001 The Madness of the King şTrad. ?
+: .o .  59 a     _HARMS Daniel                Le Roi en jaune - FAQ ş1999
+: .o .  65 a     _PRICE Robert M.             Pas de masque ? Pas de masque ? ş? ?
+: .o .  69 N     _PULVER Joseph S. Sr.        A mon bien-aim‚ ş? Once My Beloved şTrad. THILL Christophe
+: .o .  72 a     _THILL Christophe            La vie artistique dans le Paris fin de siŠcle ş1999
+: .o .  89 a     _THILL Christophe            En feuilletant Le roi en Jaune ş1999
+: .o . 101 P     _SCHWADER Ann K.             Deux sonnets ş1999
+: .o . 103 N     _LIROT Aline                 Le D‚guisement du roi ş1999
+: .o . 107 a     _THILL Christophe            Le fantastique selon Chamber ş1999
+: .o . 117 a     _LIROT Aline                 Les chants des Hyades ş1999
+: .o . 135 a     _LOC Larry                   GenŠse du Roi en Jaune ş1999
+: .oF. 119 N     _TYNES John                  Ambrose ş1996 Ambrose şTrad. ?
+: .o . 133 P     _PULVER Joseph S. Sr.        Une file de questions ş1999 A Line of Questions şTrad. ?
+: .o . 145 a     _THILL Christophe            Trois livres que je ne vous conseille pas ş1999
+: .o . 149 a     _THILL Christophe            A travers Paris, sur les traces de Chambers ş1999
+: .o . 157 N     _JOHNSSON Henrik             Fifi et son bonbon ş1999 Fifi and Her Bonbon şTrad. ?
+: .o . 165 a     _THILL Christophe            De Chambers … Lovecraft (et aprŠs) ş1999
+: .oF. 175 N     _TYNES John                  Broadalbin ş1998 Broadalbin şTrad. ?
+: .o . 197 a     _TYNES John                  La route de Hali ş1995 The Road to Hali şTrad. ?
+: .o . 213 N     _BIERCE Ambrose              Un habitant de Carcosa ş1886 An Inhabitant of Carcosa şTrad. ?
+! .o . 219 a     _JOHNSSON Henrik             Notes pour le script d'un film ş? ?
+: .o . 221 N     _PULVER Joseph S. Sr.        Les Visages d'Elle ş1998 The Face of She şTrad. ?
+: .oF. 234 P     _CHAMBERS Robert W.          Chanson de Cassilda ş1895 Cassilda's Song şTrad. THILL Christophe
+: .o . 233 a     _--- (inconnu)               Bibliographie ş1999
+: .o . 246 a     _--- (inconnu)               Table des illustrations ş1999
+: .o . 248 a     _--- (inconnu)               Biographie des auteurs ş1999
+o ODSDMI     17  2000.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- @source : Arkheion 092017
+!--- 248 pages - 60 francs
+- .oS.    kA13   ****                         Encyclop‚die des mondes perdus ş2000
+: .o .   5 a     _BESSIERE Richard            Les Civilisations disparues ş2000
+: .C .     C     ****                         A comme Agartha
+: .o .  19 a     _FERJAULT Jacky              Introduction (A comme Agartha) ş2000
+: .o .  20 a     _HERMIER Claude              Le MystŠre d'un Monde sous Terre ş2000
+: .C .     C     ****                         A comme Atlantide
+: .o .  27 a     _FERJAULT Jacky              Introduction (A comme Atlantide) ş2000
+: .o .  29 a     _PIOTELAT Elisabeth          Une vision raisonnable de l'Atlantide ş2000
+: .o .  30 N     _PANIER-ALIX Claire          Ultimes vestiges ş2000
+: .o .  38 a     _THILL Christophe            L'Atlantide dans l'oeuvre de Platon ş2000
+: .o .  42 N     _VALLET Dominik              L'Atlante-Or ş2000
+: .o .  49 a     _THILL Christophe            Dans les rayons de la bibliothŠque ş2000
+: .o .  52 a     _LOVECRAFT Howard P.         Lovecraft et l'Atlantide ş? ?
+: .o .  55 a     _--- (inconnu)               Conclusions cthulhuiennes ş2000
+: .C .     C     ****                         G comme Gag
+: .o .  58 a     _THILL Christophe            Les Continents Engloutis, mode d'emploi ş2000
+: .o .  60 N     _THIBAULT Emmanuel           Le Monde oubli‚ ş2000
+: .C .     C     ****                         G comme Gondwana
+: .o .  63 a     _FERJAULT Jacky              Introduction (G comme Gondwana) ş2000
+: .o .  63 a     _HERMIER Claude              Les Chevaliers du Ciel ş2000
+: .o .  67 N     _BERENGER J‚r‚my             Arthur R, ensuite ş2000
+: .C .     C     ****                         H comme Hesp‚rides
+: .o .  70 N     _BIDCHIREN Olivier           Le Jardin des Hesp‚rides ş2000
+: .C .     C     ****                         H comme hyperbor‚e
+: .o .  84 a     _FERJAULT Jacky              Introduction (H comme hyperbor‚e) ş2000
+: .o .  87 N     _BIDCHIREN Olivier           Les Survivants d'Hyperbor‚e ş1996
+: .o .  93 a     _--- (inconnu)               Conclusions cthulhuiennes ş2000
+: .C .     C     ****                         L comme L‚murie
+: .o .  95 a     _FERJAULT Jacky              Introduction (L comme L‚murie) ş2000
+: .o .  95 a     _BONHOMME Denise             La L‚murie dans l'oeuvre de H.P. Blatavsky ş2000
+: .o . 105 N     _BIDCHIREN Olivier           La F‚licit‚ du Satyre ş2000
+: .o . 110 a     _--- (inconnu)               Conclusions cthulhuiennes ş2000
+: .C .     C     ****                         M comme Mu
+: .o . 111 a     _FERJAULT Jacky              Introduction (M comme Mu) ş2000
+: .o . 114 a     _THILL Christophe            James Churchward, Mu le continent perdu ş2000
+: .o . 117 a     _CLORE Dan                   Version pr‚sum‚e des tablette Zanthu ş2000
+: .o . 119 a     _--- (inconnu)               Conclusions cthulhuiennes ş2000
+: .C .     C     ****                         O comme Ouf !!!
+: .o . 121 N     _NICOLOFF Lo‹c               Au suivant ş2000
+: .o . 123 N     _FERJAULT Jacky              Feue l'Ile de Tourt'Zel ş2000
+: .C .     C     ****                         R comme Rapa Nui
+: .o . 127 a     _HERMIER Claude              Visions Pascuanes ş2000
+: .C .     C     ****                         R comme R'Lyeh
+: .o . 131 a     SANDERS John V.              Les Titans du Dessous ş2000
+: .o . 133 a     _FrŠre Itheboleth Ier        L'emplacement de R'Lyeh ş2000
+: .o . 136 a     _--- (inconnu)               Conclusions cthuluhiennes ş2000
+: .C .     C     ****                         T comme Terre Creuse
+: .o . 137 a     _--- (inconnu)               La Terre n'est pas creuse, HP Lovecraft ş2000
+: .o . 138 a     _BIDCHIREN Olivier           Le Cycle de Pellucidar ş2000
+: .o . 141 r     _BESSIERE Richard            Les Sept Anneaux de Rh‚a ş2000
+: .C .     C     ****                         T comme Terres du Milieu
+: .o-. 189 a     _PANIER-ALIX Claire          Arda et la Terre du Milieu (dossier Tolkien) ş2000
+: .C .     C     ****                         T comme Th‚tys
+: .o . 202 a     _FERJAULT Jacky              Introduction (T comme Th‚tys) ş2000
+: .o . 204 N     _BIDCHIREN Olivier           Voyage pour Th‚tys ş2000
+: .C .     C     ****                         T comme Thul‚
+: .o . 214 a     _--- (inconnu)               Vie et Mort, HP Lovecraft ş2000
+: .C .     C     ****                         T comme Tribus Oubli‚es
+: .o . 216 N     _DOLLO Xavier                Avaren, le peuple oubli‚ ş2000
+: .o . 224 a     _--- (inconnu)               Encore Quelques Lectures... ş2000
+: .o . 229 a     _TARADE Guy                  Civilisations & Archives oubli‚es ş2000
+o ODSDMI     18  2000.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- 192 pages - 55 francs
+!--- @source : Arkheion 092017
+- .o .    kM7    ****                         Dragon et Microchips nø 18 (septembre-octobre 2000) ş2000
+: .C .     C     ****                         Les Etudes du Dr Armitage
+: .o .   6 a     _MILLET Gilbert              Fantastique & Voyages dans le temps ş2000
+: .o .  19 a     _FERJAULT Jacky              Godzilla & Autres Monstres de Cin‚ma ş2000
+: .C .     C     ****                         Le Bulletin de l'Universit‚ de Miskatonic
+: .o .  38 a     _--- (inconnu)               Le script de l'‚mission de Radio Libertaire sur HPL ş2000
+: .o .  57 a     _THILL Christophe            Deux films lovecaftiens ş2000
+: .o .  61 a     _--- (inconnu)               Notules Pnakotiques ş2000
+: .C .     C     ****                         Les Manuscrits d'Edward Derby
+: .oF.  80 N     _PROUST TANGUY Julie         Ver ş2000
+: .o .  83 d     _POSSAMAI Adam M.            A Miniature Love ş2000
+: .o .  85 N     _DELBE Alain                 La V‚rit‚ sur Alexis Chandhor ş2000
+: .o . 104 N     _POSSAMAI Adam M.            Rˆve de Sanglochon ş2000
+: .o . 110 N     _HEURTEL Philippe            Souvenirs de Paraiso ş2000
+: .o . 119 N     _NICOLOFF Lo‹c               Le Colonel Santˆt ş2000
+: .o . 124 N     _FERJAULT Jacky              Escuinapa de Hidalgo ş2000
+: .o . 137 N     _DOLLO Xavier                L'Erreur martienne ş2000
+: .C .     C     ****                         La bibliothŠque d'Abdul Alhazred
+: .o . 142 a     _MERLIER Fr‚d‚rick           Claude Lecouteux, au-del… du Merveilleux ş2000
+: .o . 151 a     _--- (inconnu)               Pas de poussiŠre sur les ‚tagŠres ş2000
+: .o . 170 a     _--- (inconnu)               Les parchemins Secrets de l'Od‚sie ş2000
+: .C .     C     ****                         Le Bulletin du Cercle Od‚sien des Flandres 2
+o ODSDMI     19  2001.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- 260 pages - 9 euros
+!--- @source : Arkheion 092017
+- .o .     Mx    ****                         Dragon et Microchips nø 19 (juin 2001) ş2001
+: .C .     C     ****                         Les Etudes du Dr Armitage
+: .o .   6 a     _FERRIEU Sylvain             Pouvoir politique & SF
+: .o .  47 a     _DENIS S‚bastien             Search for Extraterrestrial Intelligence
+: .C .     C     ****                         Les Manuscrits d'Edward Derby
+: .o .  54 N     _HEURTEL Philippe            Mortelles chimŠres ş2001
+: .o .  66 N     _GRAS Philippe               Le PoŠte aveugle ş2001
+: .o .  86 P     _EL JICE                     Long Hot Summer Night ş2001
+: .o . 101 N     _SIRE CEDRIC                 N‚crophage ş1999
+: .o . 107 N     _CROW Walter                 La Maison Phil‚mon ş2001
+: .o . 127 N     _KAAN Jess                   Les Disparus du mois d'ao–t ş2001
+: .o . 133 N     _FERRIEU Sylvain             Le pŠre No‰l est rest‚ coinc‚ ş2001
+: .o . 148 N     _LABBE Denis                 Le Banquet ş2001
+: .C . 154 C     _PROUST TANGUY Julie         Petits portraits ş2001
+: .oS. 154 N     _PROUST TANGUY Julie         Lucie ş2001
+: .oF. 156 N     _PROUST TANGUY Julie         L'Enfer ş2001
+: .oF. 158 N     _PROUST TANGUY Julie         Confessions d'un po‚tesse ş2001
+: .o . 160 N     _QUESTIN Marc-Louis          Sup‚rieurs inconnus ş2001
+: .C .     C     ****                         La bibliothŠque d'Abdul Alhazred
+: .o . 163 a     _CARNY Lucien                Claude Seignolle & le Fantastique H‚r‚ditaire
+: .C . 167 C     ****                         Dossier L‚a Silhol
+: .o . 167 N     _SILHOL L‚a                  Assassin ş2001
+: .o . 186 a     _--- (inconnu)               Pour quelques tonnes de papier
+: .C .     C     ****                         Les Parchemins de Yuggoth
+: .o . 206 a     _--- (inconnu)               Les Papiers Secrets de l'Od‚sie
+: .o . 228 a     _ZOELLIG Marc                Entre Soci‚t‚s Utopiques & D‚rives Totalitaires
+: .C .     C     ****                         Le coin des coucous
+o ODSDMI     20  2002.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- @source : Arkheion 092017
+- .oF.    kA18   ****                         Le Bestiaire fantastique - Tome 1 (A-L) ş2002
+: .C .     C     ****                         A comme Animaux
+: .o .   5 a     _FERJAULT Jacky              Des animaux & des hommes ş2002
+: .C .     C     ****                         A comme Arachnide
+: .o .   9 a     _FERJAULT Jacky              Introduction (A comme Arachnide) ş2002
+: .o .  10 N     _DUMONT Claude               Arachnides ş2002
+: .o .  23 N     _PLANQUE Caroll              Filae Aranei ş2002
+: .C .     C     ****                         B comme Baleine des Sables de Mars
+: .o .  27 a     _AUSTIN Anthony              Conf‚rence : Les baleines des sables de Mars ş2002
+: .C .     C     ****                         B comme Berseker
+: .o .  33 a     _FERJAULT Jacky              Introduction (B comme Berseker) ş2002
+: .o .  33 N     _ROLLET Serge                Berserker ş2002
+: .C .     C     ****                         B comme Bˆte du G‚vaudan
+: .o .  45 a     _PAUL Bruno                  Le Pacte des loups ş2002
+: .o .  48 a     _VERGNE Pierre               La bˆte du G‚vaudan ş2002
+: .o .  57 a     _BULEUX Franck               Sous le signe de la Bˆte ş2002
+: .C .     C     ****                         C comme Carpe
+: .o .  65 a     _FERJAULT Jacky              Introduction (C comme Carpe) ş2002
+: .o .     N     _FERRIEU Sylvain             La Pˆche au gros ş1996
+: .C .     C     ****                         C comme Centaure
+: .o .  71 a     _FERJAULT Jacky              Introduction (C comme Centaure) ş2002
+: .o .  73 N     _MILLET Gilbert              Campagne antique ş2002
+: .C .     C     ****                         C comme Chamster
+: .o .  79 N     _BEAULIEU Natasha            Le Chamster ş2002
+: .C .     C     ****                         C comme chat
+: .o .  83 N     _ALLART Patrice              Le gros chat qui venait de l'Aube des Temps ş2002
+: .C .     C     ****                         C comme Cherdeluse
+: .o .  95 N     _GRAS Philippe               Cherdeluse ş2002
+: .C .     C     ****                         C comme Cratophage
+: .o . 100 N     _REBUFAT Fran‡ois            Depuis si longtemps ş2002
+: .C .     C     ****                         C comme Cryptozoologie
+: .o . 103 a     _MARLIN Philippe             Y'a pas le feu au lac ş2002
+: .C .     C     ****                         C Comme cygne
+: .o . 109 a     _FERJAULT Jacky              Introduction (C Comme cygne) ş2002
+: .o . 109 N     _DELBE Alain                 Mariy Da‰l ş2002
+: .C .     C     ****                         D comme Daphn‚
+: .o . 117 a     _FERJAULT Jacky              Introduction (D comme Daphn‚) ş2002
+: .o . 118 N     _GIRARD Johanne              Delirium Humanum ş2002
+: .C .     C     ****                         D comme Dragon
+: .o . 126 a     _FERJAULT Jacky              Introduction (D comme Dragon) ş2002
+: .o . 128 N     _PANIER-ALIX Claire          Ode dragonophile ş2002
+: .o . 134 a     _MARLIN Philippe             Le Dragon, l'Alchimiste & le Kabbaliste ş2002
+: .C .     C     ****                         E comme Echidna
+: .o . 145 a     _FERJAULT Jacky              Introduction (E comme Echidna) ş2002
+: .o . 146 a     _PERNET Fred                 L'Engeance d'Echidna & Typhon ş2002
+: .o . 150 N     _LUDUN Mats                  La R‚surrection d'Echidna ş2002
+: .C .     C     ****                         H comme Hydropode
+: .o . 161 N     _DUMONT Claude               L'Hydropode ş2002
+: .C .     C     ****                         H comme Hippocampe
+: .o . 172 N     _CORDONNIER Anne-Sophie      Le Petit Cheval de Lune ş2002
+: .C .     C     ****                         K comme Korrigan
+: .o . 178 P     _HEURTEL Philippe            Le Korrigan ş2002
+: .C .     C     ****                         K comme Kraken
+: .o . 180 a     _FERJAULT Jacky              Introduction (K comme Kraken) ş2002
+: .o . 180 a     _DENIS S‚bastien             La naturalisation du Kraken ş2002
+: .C .     C     ****                         L comme Licorne
+: .o . 185 a     _FERJAULT Jacky              Introduction (L comme Licorne) ş2002
+: .o . 186 a     _PROUST TANGUY Julie         La Licorne ş2002
+: .oY. 200 N     _PROUST TANGUY Julie         Rencontre ş2002
+: .o . 201 N     _TCHALAI                     La Vache & la Licorne ş2002
+o ODSDMI     20  2003.xx ..... ISBN .-.....-...-.
+} noimg          _El Jice                     ?
+!--- @source : Arkheion 092017
+!--- 196 pages - 9 euros
+- .oF.    kA18   ****                         Le Bestiaire fantastique - Tome 2 (M-Z) ş2003
+: .C .     C     ****                         L comme Loup-Garou
+: .o .   5 a     _FERJAULT Jacky              Introduction (L comme Loup-Garou) ş2003
+: .o .   7 a     _BERNARD Jean-Louis          Le Loup-Garou dans l'oeuvre de Claude Seignolle ş2003
+: .o .  10 N     _DELBE Alain                 Une nuit de terreur ş1984
+: .o .  11 N     _GRENIER Sandrine            L'Ichor et l'Hymen ş2003
+: .C .     C     ****                         M comme Minotaure
+: .o .  14 a     _FERJAULT Jacky              Introduction (M comme Minotaure) ş2003
+: .o .  15 a     _KAAN Jess                   Une lecture l‚gendaire du mythe ş2003
+: .o .  16 N     _KAAN Jess                   Arianne ş2003 ş2003
+: .C .     C     ****                         M comme Mok‚l‚
+: .o .  19 N     _ROLLET Serge                Le Dernier des Mok‚l‚s ş2003
+: .C .     C     ****                         M comme Monstres lovecraftiens
+: .o .  25 a     _FERJAULT Jacky              Introduction (M comme Monstres lovecraftiens) ş2003
+: .o .  26 a     _ALLART Patrice              Monstres lovecraftiens ş2003
+: .o .  31 a     _FERJAULT Jacky              Cthulhu ş2003
+: .C .     C     ****                         M comme Monstres Marins
+: .o .  37 a     _FERJAULT Jacky              Introduction (M comme Monstres Marins) ş2003
+: .o .  39 a     _ALTAIRAC Joseph             Les deux monstres de la mer de Wandell ş2003
+: .C .     C     ****                         O comme Orang-Outang
+: .o .  45 a     _FERJAULT Jacky              Introduction (O comme Orang-Outang) ş2003
+: .o .  46 N     _PROUST TANGUY Julie         Ook ! ş2003
+: .C .     C     ****                         O comme Ouistigris
+: .o .  51 d     _BRANDIN Denis               La folle chasse aux Biclouseux ş2003
+: .C .     C     ****                         P comme PanthŠre
+: .o .  57 N     _CHENU Lucie                 Les Chats ş2003
+: .C .     C     ****                         P comme P‚gase
+: .o .  63 a     _FERJAULT Jacky              Introduction (P comme P‚gase) ş2003
+: .oY.  64 P     _PROUST TANGUY Julie         P‚gase ş2003
+: .oY.  64 P     _PROUST TANGUY Julie         Le Danseur ş2003
+: .C .     C     ****                         P comme P‚rillos
+: .o .  68 a     _DOUZET Andr‚                La l‚gende du Baobab ş2003
+: .C .     C     ****                         R comme Ramponneau
+: .o .  71 N     _GRENIER Pierre              Une enquˆte de Pierre Grenier ş2003
+: .C .     C     ****                         S comme Sanglochon
+: .o .  73 N     _BOLDUC Claude              &L'ennui d‚truit les implacables ş2002
+&                _GENTILHOMME Serena          
+: .C .     C     ****                         S comme Succube
+: .o .  94 a     _FERJAULT Jacky              Introduction (S comme Succube) ş2003
+: .o .  95 N     _SIRE CEDRIC                 Succube ş2003
+: .C .     C     ****                         S comme Suranimaux
+: .o . 100 a     _ALLART Patrice              Le bestiaire de la terreur moderne ş2003
+: .C .     C     ****                         T comme Tigre
+: .o . 105 N     _PROUST TANGUY Julie         Petits ‚clats de vie ş2003
+: .o . 108 a     _PROUST TANGUY Julie         L'obsession du tigre chez BorgŠs ş2003
+: .C .     C     ****                         V comme Vampire
+: .o . 116 a     _FERJAULT Jacky              Introduction (V comme Vampire) ş2003
+: .o . 116 a     _QUESTIN Marc-Louis          Le vampirisme initiatique ş2003
+: .o . 120 N     _HEURTEL Philippe            Double vie ş2003
+: .o . 123 N     _THIBAULT Emmanuel           Jack le jaguar et les vampires ş2003
+: .o . 151 N     _QUESTIN Marc-Louis          Le Tr‚sor du Golem ş2003
+: .C .     C     ****                         V comme Ver
+: .o . 158 a     _FERJAULT Jacky              Introduction (V comme Ver) ş2003
+: .o . 159 a     _ALLART Patrice              Le ver ş2003
+: .C .     C     ****                         V comme VipŠre
+: .o . 164 N     _CHENU Lucie                 Clonage ş2003
+: .C .     C     ****                         Z comme Zanimaux domestiques
+: .o . 175 a     _LOVECRAFT Howard P.         Chats & Chiens ş1926 Cats and Dogs
+: .C .     C     ****                         Z comme Zoiseau
+: .o . 183 P     _MONFREID Rebecca de         Oiseau ş2003
+: .o . 184 N     _DELBE Alain                 Propri‚t‚ priv‚e ş2003
+o ODSDMI     21  2004.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- 208 pages - 12 euros
+!--- @source : Arkheion 092017
+- .o .    kM14   ****                         Dragon et Microchips nø 21 ş2004
+: .C .     C     ****                         Les ‚tudes du Dr Armitage
+: .o .   6 a     _MOISSEEFF Marika            L'amour extra-terrestre : une mythologie … m‚diter ş2004
+: .o .  15 a     _BOUCHARD Erick              Le "paradigme" du jeu de r“les et ses tabous ş2004
+: .o .  21 a     _FERJAULT Jacky              Les momies & le cin‚ma, par Jacky Ferjault ş2004
+: .C .     C     ****                         Les Manuscrits d'Edward Derby
+: .o .  30 N     _TEULADE Daniel              Cave ne cada ş2004
+: .o .  38 N     _LECHEVALIER R‚my            La Cit‚ secrŠte ş2004
+: .o .  50 N     _SAMIE Andr‚                 Le V‚t‚ran ş2004
+: .o .  54 N     _GRAS Philippe               Le Vaisseau de pierre ş2004
+: .o .  77 N     _LAUNOY Yannick              La Cr‚maillŠre ş2004
+: .o .  83 N     _DELBE Alain                 Les ZŠves et les Zomecs ş2004
+: .o .  86 N     _MESSINA Nicolas             L'Explosion de joie du cin‚ma du XXIe siŠcle grƒce … une girafe [Confins et carrefours] ş2004
+: .o .  92 N     _MESSINA Nicolas             Le Tourbillon des ‚toiles [Confins et carrefours] ş2004
+: .o . 110 N     _SAUZE Laurent               Paradis perdu ş2003
+: .o . 113 N     _DELBE Alain                 D‚cr‚ation ş2004
+: .o . 117 N     _THIBAULT Emmanuel           Ironie r‚cr‚atrice ş2004
+: .C .     C     ****                         La BibliothŠque d'Abdul Alhazred
+: .o . 120 a     _KAAN Jess                   Interview de G. Morris ş2004
+: .o . 125 a     _MOKRANE Hakim               Une po‚tique de la trace, lectures de Ren‚ Char ş2004
+: .o . 131 a     _THIBAULT EMmanuel           Go–teux survol de l'oeuvre de Pierre Gripari ş2004
+: .o . 135 a     _--- (inconnu)               Pour quelques tonnes de papier ş2004
+: .C .     C     ****                         Les Parchemins de Yuggoth
+: .o . 178 a     _BRANDIN Denis               B.D. ş2004
+: .o . 485 a     _--- (inconnu)               Les Stances de Fungi ş2004
+: .o . 194 a     _--- (inconnu)               Les papiers secrets de l'Od‚sie ş2004
+: .? . 201 ?     _HEURTEL Philippe            Voyage en Mongolie ş2004
+o ODSDMI     22  2005.xx ..... ISBN .-.....-...-.
+} noimg          _Fr‚d‚rik Thurlaf            ?
+!--- 154 pages - 12 euros
+!--- @source : Arkheion 092017
+- .o .    kM14   ****                         Dragon et Microchips nø 22 ş2005
+: .C .     C     ****                         Les ‚tudes du Dr Armitage
+: .o .   4 a     _THIBAULT Emmanuel           Jeunesse diabolique ş2005
+: .o .   7 a     _MOISEEFF Marika             Le loup-garou, ou la virtualit‚ r‚gressive du pubertaire masculin ş2005
+: .o .  16 a     _MOISEEFF Marika             Un adolescent qui fait mouche, variante sur la m‚tamorphose pubertaire ş2005
+: .o .  23 a     _THIBAULT Emmanuel           Les litt‚ratures de l'imaginaire, un terrain d'exploration de la conscience ş2005
+: .C .     C     ****                         Les Manuscrits d'Edward Derby
+: .o .  28 N     _SAUZE Laurent               Le Savant PiŠge ş2005
+: .o .  36 N     _TOURNEL Fabien              B.B. Bartheolomew ş2005
+: .o .  40 N     _SAMBRE Christophe           A croquer ş2005
+: .o .  45 N     _SAMIE Andr‚                 Jeff Laraclure ş2005
+: .o .  50 N     _BALLY Nico                  Danse sur le feu ş2005
+: .o .  56 N     _JAIME                       Lille Prinsen ş2005
+: .o .  61 N     _SAMIE Andr‚                 La L‚gende du sans-coeur ş2005
+: .o .  67 N     _MESSINA Nicolas             Les Fleurs [Confins et carrefours] ş2005
+: .o .  71 N     _HEURTEL Philippe            Ob‚lix et ses id‚es fixes ş2005
+: .o .  77 N     _SAMBRE Christophe           Oudjat ş2005
+: .o .  86 N     _MESSINA Nicolas             Cyclique supplice [Confins et carrefours] ş2005
+: .o .  89 N     _MOREL Christophe            Le Contrat "hommes en noir" ş2005
+: .o .  91 N     _JOURDE Pascal               Trip cosmique ş2005
+: .o .  96 N     _DENIS S‚bastien             Le Souffle des dieux cr‚ateurs ş2005
+: .C .     C     ****                         La BibliothŠque d'Abdul Alhazred
+: .o . 106 a     _SAUZE Laurent               En d‚fense d'un ami disparu ş2005
+: .o . 109 a     _QUESTIN Marc-Louis          Les musiciens de l'infini ş2005
+: .C . 122 C     ****                         Book review
+: .o .     a     _--- (inconnu)               Les Parchemins de Yugoth ş2005
+: .o . 130 d     _BRANDIN Denis               Une Aventure de Florian & Muguette ş2005
+: .o . 136 a     _--- (inconnu)               Les papiers secrets (fanzines, expos, etc.) ş2005
+o ODSDMI2     1  2006.11 ..... ISBN 2-914405-36-7
+} noimg          _Jaime                       ?
+!--- nø 23 - Nouvelle s‚rie num‚ro 1
+!--- 204 pages - 15 euros
+!--- @source : Arkheion 092017
+- .oF.    kM5    ****                         Dragon et Microchips nouvelle s‚rie nø 1 ş2006
+: .C .     C     ****                         Les Etudes du Dr Armitages
+: .o .   6 a     _MOISEEFF Marika             Que recouvre la violence des images de la procr‚ation dans les films de science-fiction ? ş2006
+: .C .     C     ****                         Les Manuscrits d'Edward Derby
+: .o .  44 N     _SAMBRE Christophe           Libre sans ailes ş2006
+: .o .  60 N     _GRAY Syde T.                La Belle au bunker dormant ş2006
+: .o .  67 N     _JAIME                       Lueurs et ombres ş2006
+: .o .  89 N     _LATREILLE L‚o               La Dormeuse ‚veill‚e ş2006
+: .o . 110 N     _THIBAULT Emmanuel           Les Varices du diable ş2006
+: .C .     C     ****                         La BibliothŠque d'Abdul Alhazred
+: .o . 124 a     _EL JICE                     La T‚tralogie de Rama ş2006
+: .o . 132 a     _--- (inconnu)               Book review ş2006
+: .C .     C     ****                         Les Parchemins de Yugoth
+: .o . 154 d     _BRANDIN Denis               Deux Aventures de Florian & Muguette ş2006
+: .o . 166 a     _--- (inconnu)               Les Stances de Funghi ş2006
+: .o . 170 a     _--- (inconnu)               Les papiers secrets (fanzines, expos, etc.) ş2006
+o ODSDMI2     2  2007.12 ..... ISBN 2-914405-48-0
+} noimg          _?                           ?
+!--- nø 24 - Nouveau num‚ro 2 :
+!--- 274 pages - 16 euros
+!--- @source : Arkheion 092017
+- .oF.    kM6    ****                         Dragon et Microchips nouvelle s‚rie nø 2 ş2007
+: .C .     C     ****                         Les Etudes du Dr Armitage
+: .o .   6 a     _HAUTEPIERRE Jean            Fantasy et po‚sie ş2007
+: .o .  22 a     _MOISEEFF Marika             Le foss‚ des g‚n‚rations dans la mythologie contemporaine : une guerre biologique ş2007
+: .C .     C     ****                         Les Manuscrits d'Edward Derby
+: .o .  55 N     _FILLION Alain               Le Vaisseau oubli‚ ş2007
+: .o .  67 N     _FERJAULT Jacky              Le Novice ş2007
+: .o .  87 N     _ALLART Patrice              Le Nid du coucou ş2007
+: .o . 103 N     _CERVERA MERINO L.V.         La Vall‚e perdue ş2007
+: .o . 117 N     _SAUZE Laurent              &Les MaŒtres verriers ş2007
+&                _SAUZE Sylvie                
+: .o . 127 N     _AELGHIR                     Prince Loup ş2007
+: .C .     C     ****                         La BibliothŠque d'Abdul Alhazred
+: .o . 184 a     _THIBAULT Emmanuel           Carolyn J. Cherryh, virtuose de la diplomatie intergalactique ş2007
+: .o . 195 a     _FERJAULT Jacky              A propos de Billy Budd et d'Herman Melville ş2007
+: .o . 201 a     _--- (inconnu)               Book review ş2007
+: .C .     C     ****                         Les Parchemins de Yugoth
+: .o . 218 d     _BRANDIN Denis               Ligeia de E.A Poe, une nouvelle illustr‚e par Denis Brandin
+: .o . 228 d     _EL JICE                     Epeira ş2007
+: .o . 236 a     _--- (inconnu)               Les Stances de Funghi ş2007
+: .o . 241 a     _--- (inconnu)               Les papiers secrets (fanzines, expos, etc.) ş2007
+
+!-----------------------------------------------------------------------------
+_ ODS_ME1 L'Oeil Du Sphinx - Dragon & Microchops Hors-s‚rie, Les manuscrits d'Edward Derby
+_ ODS_MED L'Oeil Du Sphinx - Les manuscrits d'Edward Derby
+!-----------------------------------------------------------------------------
+!--- Editions de L'Oeil du Sphinx (Association L'Oeil Du Sphinx - AODS)
+!--- Collection "Les manuscrits d'Edward Derby"
+!-----------------------------------------------------------------------------
+!--- premiŠre s‚rie - p‚riodique
+!-----------------------------------------------------------------------------
+!--- Les premiers "manuscrits d'Edward Derby" sont des Dragons & Microchips Hors S‚rie
+!-----------------------------------------------------------------------------
+o ODS_ME1     1  1993.01 ..... ISBN -
+} ods_dm_derby01 _?                           ?
+!--- Dragon & Microchips Hors-s‚rie num‚ro 1
+!--- @source : Arkheion 102022
+- .oF.    kM10   ****                         Les Manuscrits d'Edward Derby (janvier-f‚vrier 1993) ş1993
+!--- sans titre - antho sous la responsabilit‚ de : Philippe Marlin & Nicolas Miecret 
+: .o .   2 N     _FERJAULT Jacky              La MartiniŠre ş1993
+: .o .   7 N     _ARITON Nicolae C.           Voilier dans le ciel ş1993
+: .o .  13 N     _HOLLEVILLE C‚dric           Une genŠse ş1993
+: .oF.  27 N     _LE GUYADER Serge            Le Parchemin maudit ş1991
+: .oT.  34 N     _VIET David                  Sans remord ş1993
+: .o .  39 N     _IRAH Duncan d'              L'Archipel du temps perdu ş1993
+: .o .  59 N     _ROLLET Serge                Aquariophilie ş1993
+: .o .  65 N     _DUMAY Gilles                Symbiose lat‚rale ş1993
+: .o .  72 N     _DUMAY Gilles                Mariposa ş1993
+: .o .  78 N     _FULCONIS Marc               Eihirt, Eihort ş1993
+o ODS_ME1     2  1993.08 ..... ISBN -
+} ods_dm_derby02 _?                           ?
+!--- @source : Arkheion 102022
+- .oF.    kM32   *MARLIN Philippe             Les Manuscrits d'Edward Derby - Sp‚cial po‚sies fantastiques ş1993
+: .o .   2 P     _GARRIDO Jean-Emile          Le Choeur des t‚nŠbres ş1993
+: .o .   5 P     _FERJAULT Jacky              Somnolence ş1993
+: .o .   6 P     _FERJAULT Jacky              Fantasme ş1993
+: .o .   8 P     _FERJAULT Jacky              Auto-portrait ş1993
+: .o .  10 P     _IRAH Duncan d'              La Cascade ş1993
+: .o .  11 P     _IRAH Duncan d'              Le Vaincu de la Non-Ere ş1993
+: .o .  13 P     _IRAH Duncan d'              Le Chaste Seigneur ş1993
+: .o .  15 P     _STEPHAN Bernard             Le Moulin ş1993
+: .o .  16 P     _STEPHAN Bernard             Souvenir d'un chƒteau ş1993
+: .o .  18 P     _NOVY Michel                 A la rencontre d'Ivanon ş1993
+: .o .  22 P     _NOVY Michel                 Invocation ş1993
+: .o .  23 P     _NOVY Michel                 Le Tombeau de H. P. Lovecraft ş1993
+: .o .  24 P     _NOVY Michel                 Souvenirs ş1993
+: .o .  28 P     _DUMAY Gilles                Angelina ş1993
+: .o .  30 P     _DUMAY Gilles                Les Cyons de la guerre ş1993
+: .o .  32 P     _RICHARD Thierry             Nuit ş1993
+: .o .  33 P     _LELOUP Fabienne             La Non-Vie ş1993
+: .o .  34 P     _ANZERAEY Emmanuel           Le Bassin ş1993
+: .o .  37 P     _MARLIN Philippe             Le Damn‚ ş1993
+: .o .  38 P     _BERNARD Chris               Oniro‹de ş1993
+: .o .  40 P     _SAINT BRIEUX                Les Magnifiques ş1993
+: .o .  41 P     _SAINT BRIEUX                Le Chemin ş1993
+: .o .  42 P     _SAINT BRIEUX                Lettre d'une exil‚e ş1993
+: .o .  44 P     _ROULLEAU Michel             Le Monstre de l'Œle flottante ş1993
+: .o .  45 P     _ROULLEAU Michel             L'Innom‚ ş1993
+: .o .  46 P     _BEJOT Pierre                La Cloche ş1993
+: .o .  47 P     _BEJOT Pierre                Imagine ş1993
+: .o .  48 P     _BIDCHIREN Olivier           Au-del… de la-haut ş1993
+: .o .  50 P     _BIDCHIREN Olivier           Oracle occulte ş1993
+: .o .  51 P     _BIDCHIREN Olivier           Etat de l'oiseau ş1993
+: .o .  52 P     _BIDCHIREN Olivier           Les Silhouettes de la libert‚ ş1993
+o ODS_ME1     3  1994.03 ..... ISBN -
+} ods_dm_derby03 _?                           ?
+!--- Dragon & Microchips Hores-s‚rie num‚ro 3
+!--- @source : Arkheion 102022
+- .o .    kA14   *MARLIN Philippe             Les MaŒtres de sang ş1994
+: .o .   2 a     _ARITON Nicolae C.           Vlad Tepes, Dracula et les Roumains ş1994
+: .o .   7 N     _IRAH Duncan d'              Ce que ce fut ş1994
+: .o .  17 N     _ARITON Nicolae C.           Seul parmi les vampires ş1994
+: .o .  25 N     _ROLLET Serge                L'Ombre des docks ş1994
+: .o .  41 N     _SCARECROW                   L'Empreinte du feu ş1994
+: .o .  46 N     _DUMAY Gilles                L'Instinct de l'‚quarisseur ş1994
+: .o .  85 N     _DELUC Thierry               Les Mots et le Maudit ş1994
+: .o .  88 P     _MARLIN Philippe             Amour suivi de haine ş1994
+: .o .  90 N     _BOURGUIGNON Christian       Cela va de soi ş1994
+: .o .  93 N     _ANZERAEY Emmanuel           R‚flexions faites... ş1994
+: .C . 107 C     _LELOUP Fabienne             LŠvres de sang ş1994
+: .o . 107 N     _LELOUP Fabienne             La le‡on du vampire ş1994
+: .o . 108 P     _LELOUP Fabienne             Invitation ş1994
+: .o . 109 P     _LELOUP Fabienne             PriŠre du vampire ş1994
+: .o . 110 P     _LELOUP Fabienne             Lilith ş1994
+: .o . 113 N     _BERNARD Chris               Le Prix du sang ş1994
+o ODS_ME1     4  1994.xx ..... ISBN -
+} ods_dm_derby04 _Pierre Lacroix              ?
+!--- @source : Arkheion 102022
+- .o .    kN8    _NGUYEN Jean-Jacques         Rˆves d'Arkham ş1994
+: .o .   7 N     _NGUYEN Jean-Jacques         Le neurasth‚nique d'Hosfr' Ma‹shr ş1994
+: .o .  13 N     _NGUYEN Jean-Jacques         Celui qui marchait dans les t‚nŠbres ş1994
+: .o .  21 N     _NGUYEN Jean-Jacques         La symphonie de l'au-del… ş1994
+: .o .  27 N     _NGUYEN Jean-Jacques         J'irai t'attendre … l'ombre des grands saules ş1994
+: .o .  45 N     _NGUYEN Jean-Jacques         La porte des enfers ş1994
+: .o .  51 N     _NGUYEN Jean-Jacques         Grand reporter ş1994
+: .o .  57 N     _NGUYEN Jean-Jacques         Swing, puzzle, Harlow ş1994
+: .o .  75 N     _NGUYEN Jean-Jacques         L'Ultime R‚alit‚ ş1994
+o ODS_ME1     5  1995.04 ..... ISBN -
+} ods_dm_derby04 _?                           ?
+!--- @source : Arkheion 102022
+- .o .    kN12   _NGUYEN Jean-Jacques         Rˆves d'ailleurs ş1995
+: .o .   7 N     _NGUYEN Jean-Jacques         Notes sur l'exploration d'une maison hant‚e ş1995
+: .o .  13 N     _NGUYEN Jean-Jacques         Adeline disparue ş1995
+: .o .  17 N     _NGUYEN Jean-Jacques         Courrier en souffrance ş1995
+: .o .  21 N     _NGUYEN Jean-Jacques         Rˆve de Chine ş1992
+: .o .  29 N     _NGUYEN Jean-Jacques         La Piste aux ‚toiles ş1995
+: .o .  35 N     _NGUYEN Jean-Jacques         Temps mort, morte saison ş1995
+: .o .  45 N     _NGUYEN Jean-Jacques         Les Architectes du rˆve ş1994
+: .o .  61 N     _NGUYEN Jean-Jacques         Univers interdit ş1995
+: .o .  69 N     _NGUYEN Jean-Jacques         D‚connexion ş1995
+: .o .  75 N     _NGUYEN Jean-Jacques         Incidents de vill‚giature ş1994
+: .o .  89 N     _NGUYEN Jean-Jacques         Le Jardin temporel ş1995
+: .o .  97 N     _NGUYEN Jean-Jacques         Rˆves roses, rˆves gris ş1995
+o ODS_ME1     6  1999.07 ..... ISBN -
+} ods_dm_derby04 _?                           ?
+!--- @source : Arkheion092017
+- .oF.    kA23   *THILL Christophe            Rˆves d'Innsmouth ş1999
+: .o .   5 N     _PIOTELAT Elisabeth          Les Trois Cloches ş1999
+: .o .   9 N     _BERENGER J‚r‚my             Mat‚ria, mat‚ria ş1999
+: .o .  15 N     _ROLLET Serge                Courrier des lecteurs ş1999
+: .o .  20 N     _ROLLET Serge                L'Ennemi ancien ş1999
+: .o .  40 N     _FERJAULT Jacky              Elias Kurmian ş1999
+: .o .  53 N     _THIBAULT Emmanuel           Cimia ş1999
+: .o .  63 N     _FAVRE Willy                 L'Enchanteur et la Muse ş1999
+: .o .  71 N     _LIROT Aline                 De Profondis ou Requiem pour HPL ş1999
+: .o .  97 N     _SILHOL L‚a                  Maillon d'une ancienne chaŒne ş1999
+: .o . 115 N     _KAAN Jess                   PrŠs du lac ş1999
+: .o . 123 N     _POSSAMAI Adam M.            La Mouette ş1999
+: .o . 130 N     _DELUC Thierry               Fatal appel fractal ş1999
+: .o . 135 N     _PANIER-ALIX Claire          De Sancto Michaele Archangelo ş1999
+: .o . 145 N     _PANIER-ALIX Claire          Mac Fleet ş1999
+: .o . 155 N     _CHEE Estelle                Le Soupirail ş1999
+: .o . 165 N     _CHEE Brice                  La Porte entrouverte ş1999
+: .o . 173 N     _MASTERS Chris A.            Cthulhu R‚incarn‚ ş1999
+: .o . 189 N     _GARCIA Alexandre            L'Œle aux Sans Visages ş1999
+: .o . 205 N     _BOEGLER Laurent             Horreur … Charters ş1999
+: .o . 211 N     _BOEGLER Laurent             Le Caf‚ aou bord du monde ş1999
+: .o . 217 N     _BOEGLER Laurent             Mon ami Howard ş1999
+: .o . 229 N     _VERLINDEN Patrick           Le Poids des mots ş1996
+: .o . 237 N     _DEMMA Fred                  One ş1999
+
+!-----------------------------------------------------------------------------
+!--- La Collection
+!-----------------------------------------------------------------------------
+o ODS_MED     1  2000.10 ..... ISBN 2-914405-00-6
+} ods_derby_01   _El Jice                     ?
+!--- @source : Arkheion092017 + Site ODS
+!--- 23 cm - 250 pages - 95 francs
+!--- TBD deux couvertures diff‚rentes - Contenu identique, mais la pr‚face "Le grain de sel de l'anthologiques" en page 9 et "Continuit‚" en page 11 - 18 euros le second
+- .oS.    _A17   *HEURTEL Philippe            Rˆves d'Alta‹r - 17 r‚cits de science-fiction ş2000
+: .o .   5 p     _HEURTEL Philippe            Pr‚face ş2000
+: .o .   9 N     _NEYRET Fabrice              Continuit‚ ş2000
+: .o .  17 N     _ESPEL LLIMA Roger           Simulation ş2000
+: .o .  29 N     _SEASSAU Marc                Animal ş2000
+: .o .  35 N     _REBUFAT Fran‡ois            A son image ş2000
+: .o .  65 N     _ARIBAUD Albert              Veloxoper ş2000
+: .o .  71 N     _CHERITAT Arnaud             Fourmiland ş2000
+: .oS.  73 N     _VALLET Dominik              Guerre sans faim ş2000
+: .o .  89 N     _BEC Jean-Louis              Energie libre ş2000
+: .o . 129 N     _REBUFAT Fran‡ois            Sur la mˆme longueur d'onde ş2000
+: .o . 137 N     _SEASSAU Marc                Temps de chien ş2000
+: .o . 143 N     _LEBEAU St‚phanie            Terrˆve ş2000
+: .o . 153 N     _SICART Pierre-Alexandre     Comment j'ai sauv‚ la terre des martiens ş2000
+: .o . 155 N     _MARTIN Herv‚                Mascarade ş2000
+: .o . 177 N     _ANCELET Lionel              Sonate posthume ş2000
+: .o . 197 N     _CHERITAT Arnaud             Star stress ş2000
+: .o . 199 N     _LEGLOAHEC Eric              La Voix des ‚toiles ş2000
+: .o . 211 N     _JUBERT Herv‚                L'entropie est une salope ! [La BibliothŠque noire] ş2000
+o ODS_MED     2  2000.09 ..... ISBN 2-914405-01-4
+} ods_derby_02   _Willy Favre                 ?
+!--- Num‚ro deux, mais premier imprim‚
+!--- @source : Arkheion092017
+!--- 23 cm - 105 pages - 65 francs
+- .oI.    kP64   _PROUST TANGUY Julie         Fantasmique et Fa‰rie - Parcours po‚tique ş2000
+: .o .   3 p     _SEIGNOLLE Claude            Pr‚face ş2000
+: .o .   5 P     _PROUST TANGUY Julie         Go–tes d'eau-la-pluie ş2000
+: .o .   7 P     _PROUST TANGUY Julie         La Tempˆte ş2000
+: .o .   8 P     _PROUST TANGUY Julie         La Raie ş2000
+: .o .  10 P     _PROUST TANGUY Julie         Le Tr‚pass‚ ş2000
+: .o .  12 P     _PROUST TANGUY Julie         La Marimorganne ş2000
+: .o .  13 P     _PROUST TANGUY Julie         L'abŒme ş2000
+: .o .  14 P     _PROUST TANGUY Julie         Un Vieux Grimoire ş2000
+: .o .  15 P     _PROUST TANGUY Julie         BibliothŠque ş2000
+: .o .  16 P     _PROUST TANGUY Julie         Cauchemar ş2000
+: .o .  17 P     _PROUST TANGUY Julie         Vivant Cauchemar ş2000
+: .o .  19 P     _PROUST TANGUY Julie         Contre la Peur ş2000
+: .o .  20 P     _PROUST TANGUY Julie         F‚e ? ş2000
+: .o .  22 P     _PROUST TANGUY Julie         Las, mon coeur est las ş2000
+: .o .  23 P     _PROUST TANGUY Julie         J'ai rˆv‚ ş2000
+: .o .  24 P     _PROUST TANGUY Julie         Dors ... ş2000
+: .o .  27 P     _PROUST TANGUY Julie         L'Oubli ş2000
+: .o .  28 P     _PROUST TANGUY Julie         D‚solation ş2000
+: .o .  30 P     _PROUST TANGUY Julie         Une Vie ş2000
+: .o .  33 P     _PROUST TANGUY Julie         Dernier repas ş2000
+: .o .  34 P     _PROUST TANGUY Julie         La Lune Rouge ş2000
+: .o .  35 P     _PROUST TANGUY Julie         Complainte de l'ƒme en peine ş2000
+: .o .  36 P     _PROUST TANGUY Julie         L'Etang de la F‚e ş2000
+: .o .  38 P     _PROUST TANGUY Julie         Jardin Secret ş2000
+: .o .  39 P     _PROUST TANGUY Julie         Dryade endormie ş2000
+: .o .  40 P     _PROUST TANGUY Julie         L'Elfe ş2000
+: .o .  41 P     _PROUST TANGUY Julie         La Vie amoureuse d'une SorciŠre ş2000
+: .o .  43 P     _PROUST TANGUY Julie         Origine de la laideur des SorciŠres ş2000
+: .o .  45 P     _PROUST TANGUY Julie         Le Sabbat ş2000
+: .o .  46 P     _PROUST TANGUY Julie         Le Bouc ş2000
+: .o .  48 P     _PROUST TANGUY Julie         Incantation ş2000
+: .o .  49 P     _PROUST TANGUY Julie         La Demoiselle, L'Amante ş2000
+: .o .  50 P     _PROUST TANGUY Julie         Le Chant ş2000
+: .o .  52 P     _PROUST TANGUY Julie         Loreley ş2000
+: .o .  54 P     _PROUST TANGUY Julie         Orph‚e ş2000
+: .o .  58 P     _PROUST TANGUY Julie         La Poss‚d‚e ş2000
+: .o .  60 P     _PROUST TANGUY Julie         La D‚couverte ou L'ignorance ş2000
+: .o .  62 P     _PROUST TANGUY Julie         Complainte du Corbeau ş2000
+: .o .  64 P     _PROUST TANGUY Julie         Le Hors-les-Lois ş2000
+: .o .  66 P     _PROUST TANGUY Julie         Ballade de la balayeuse ş2000
+: .o .  68 P     _PROUST TANGUY Julie         A une morte ş2000
+: .o .  69 P     _PROUST TANGUY Julie         L'Oubli (bis) ş2000
+: .o .  70 P     _PROUST TANGUY Julie         La prisonniŠre ş2000
+: .o .  72 P     _PROUST TANGUY Julie         Le Mage ş2000
+: .o .  74 P     _PROUST TANGUY Julie         Danse f‚erique ş2000
+: .o .  75 P     _PROUST TANGUY Julie         Danse Macabre ş2000
+: .o .  76 P     _PROUST TANGUY Julie         Mariage vampire-Timmy Valentine ş2000
+: .o .  79 P     _PROUST TANGUY Julie         Elle et Lui ş2000
+: .o .  80 P     _PROUST TANGUY Julie         Les amants ş2000
+: .o .  82 P     _PROUST TANGUY Julie         V‚nus et Adonis ş2000
+: .o .  84 P     _PROUST TANGUY Julie         Rapunzel ş2000
+: .o .  86 P     _PROUST TANGUY Julie         Comptine de l'Ogre ş2000
+: .o .  88 P     _PROUST TANGUY Julie         L'oeil du G‚ant ş2000
+: .o .  89 P     _PROUST TANGUY Julie         Dans l'‚gout ş2000
+: .o .  90 P     _PROUST TANGUY Julie         Ballade du monstre ş2000
+: .o .  92 P     _PROUST TANGUY Julie         Malaise ş2000
+: .o .  93 P     _PROUST TANGUY Julie         Douleur intense ş2000
+: .o .  94 P     _PROUST TANGUY Julie         Deux anges ş2000
+: .o .  95 P     _PROUST TANGUY Julie         Lettre ş2000
+: .o .  96 P     _PROUST TANGUY Julie         L'amoureuse chatte ş2000
+: .o .  97 P     _PROUST TANGUY Julie         Lassitude d'une journ‚e f‚line ş2000
+: .o .  99 P     _PROUST TANGUY Julie         Licorne ş2000
+: .o . 100 P     _PROUST TANGUY Julie         Apparition ş2000
+: .o . 101 P     _PROUST TANGUY Julie         Druroc ş2000
+: .o . 102 P     _PROUST TANGUY Julie         Phoebus ş2000
+o ODS_MED     3  2001.10 ..... ISBN 2-914405-05-7
+} ods_derby_03   _Romuald Reutimann           Willy Favre
+!--- @source : Arkheion092017 + Site ODS
+!--- 23 cm - 277 pages - 20 euros
+!--- "Anthologie de Litt‚rature D‚cadente" en couverture
+!--- TBD deux couvertures diff‚rentes, mˆme date int‚rieure, mais le second a un pr‚face de 20 pages de Philippe Marlin ?! ("Rˆves de d‚cadence en page 5 et L'absente en page 21)
+!--- TBD 294 pages, mˆme ISBN
+- .o .    kA17   *MARLIN Philippe             Rˆves d'absinthe - Dix-sept textes de litt‚rature d‚cadente ş2001
+: .o .   5 N     _THIBAULT Emmanuel           L'Absente ş2001
+: .o .  11 N     _QUEIROS E‡a de              M‚moires d'une potence ş1867 Mem¢rias de uma Forca
+: .o .  21 N     _VENETZA Dean                Songes d'Isis ş2001
+: .oF.  39 N     _PROUST TANGUY Julie         L'ƒme en peine ş2001
+: .o .  41 N     _JOHNSSON Henrik             La Conception ş2001 ?
+: .o .  51 N     _GRAS Philippe               Le Jeu du destin ş2001
+: .o .  67 N     _CROWLEY Aleister            L'preuve d'Ida Pendragon ş2001 The Ordeal of Ida Pendragon şTrad. PISSIER Philippe
+: .o .  95 N     _DOLLO Xavier                La Voix de monsieur Ambrose ş2001
+: .o . 119 N     _SILHOL L‚a                  Lucifer opiomane ş1998
+: .o . 137 N     _VON SIRIUS Lilith           Prˆtresse de Babalon ş2001
+: .o . 171 N     _BOUDREAULT Jean-Claude     &Le FrŠre de G‚latine ş2001
+&                _MAJOUR Bernard              
+: .o . 187 N     _FERJAULT Jacky              B‚r‚zina ş2001
+: .o . 195 N     _KAAN Jess                   Ma p'tite grosse ş2001
+: .C . 209 C     _GENTILHOMME Serena         &Pour quelques larmes de mezcal
+&                _BOLDUC Claude               
+!--- TBD [Pour quelques larmes de Mezcal - 1]
+: .o . 210 N     _BOLDUC Claude               Mezcal ş2001
+!--- TBD [Pour quelques larmes de Mezcal - 2]
+: .o . 220 N     _GENTILHOMME Serena          Bout du rouleau ş2001
+: .o . 239 N     _PISSIER Philippe            In cauda venenum ş2001
+: .o . 263 N     _BOLDUC Claude               Ton jus savoureux ş2001
+o ODS_MED     4  2002.08 ..... ISBN 2-914405-09-X
+} ods_derby_04   _?                           ?
+!--- 23 cm - 222 pages - 16 euros
+!--- @source : Arkheion092017
+- .oF.    _A21   *THILL Christophe            Rˆves d'Ulthar - 21 histoires de chats fantastiques ş2002
+: .o .   7 p     _THILL Christophe            Pr‚face ş2002
+: .o .  11 N     _POE Edgar Allan             Le Chat noir ş1843 The Black Cat
+: .o .  21 N     _GENTILHOMME Serena          Fondue au noir ş2002
+: .o .  31 N     _DELBE Alain                 Les Trois Fils du Shogun ş2002
+: .o .  43 N     _KAAN Jess                   Plus que chat ş2002
+: .o .  61 N     _SCHWARTZMANN Jacky          Maman et la mort ş2002
+: .o .  73 N     _FERJAULT Jacky              Aboulie ş2002
+: .o .  81 N     _LE BUSSY Alain              La Fille qui vendait des chats ş2002
+: .o .  93 N     _VALLET Dominik              L'chappatoire ş2002
+: .o . 111 N     _MINNIS Mike                 La Vie des chats fant“mes ş1998 The Circumstances of Ghostly Cats
+: .o . 123 N     _SILHOL L‚a                  Dialogue avec les ombres ş2002
+: .o . 129 N     _LE MEVEL Gwena‰l            M‚lia ş2002
+: .o . 135 N     _FERRIEU Sylvain             Le Matagot de la M–re ş2002
+: .o . 139 N     _FAZI M‚lanie                Silmaril ş2002
+: .o . 151 N     _SEIGNOLLE Claude            Celui qui s'y frotta ş1967
+: .o . 155 N     _CANNON Peter H.             Le Vieux ş? Old Man
+: .o . 161 N     _PAILLER Jean                Le Professeur perch‚ ş2002
+: .o . 167 N     _ROLLET Serge                Conte de poivrot ş2002
+: .oF. 173 N     _PROUST TANGUY Julie         Quand le chat n'est pas l… ş2002
+: .o . 177 N     _BOLDUC Claude               Ta gueule, Fritz ş2002
+: .o . 191 N     _CERVERA MERINO L.V.         Bois-Joli ş2002
+: .o . 203 N     _MILLER Sylvie              &Mau ş2002
+&                _WARD Philippe               
+o ODS_MED     5  2002.09 ..... ISBN 2-914405-11-1
+} ods_derby_05   _Rorza Tatar                 ?
+!--- @source : Arkheion092017
+!--- 23 cm - 341 pages - 25 euros
+- .oF.    kN24   *GENTILHOMME Serena          Noires soeurs - Antiphonaire sacrilŠge en 24 chants ş2002
+: .oF.   7 p     _GENTILHOMME Serena          Intro‹t ş2002
+: .oF.   9 a     _GENTILHOMME Serena          Laudes 1 : Pour nos brebis ‚gar‚es ş2002
+: .oF.  11 N     _BEAULIEU Natasha            La Milliriard ş1992
+: .oF.  35 N     _LABBE Denis                 Masquarade ş2002
+: .oF.  51 N     _GIRARD Johanne              Sarabande ş2002
+: .oF.  57 N     _BENXAYER Morrad             La Queue de discorde ş2002
+: .oF.  65 N     _FUENTES Roland              Maladite ş2002
+: .oF.  87 N     _PAGEL Michel                Mille pattes [La Com‚die inhumaine] ş2002
+: .oF. 101 N     _DOKE Sara                   333 La tentation des neuf ş2002
+: .oF. 117 a     _GENTILHOMME Serena          Laudes 2 : Pour nos bienfaiteurs ş2002
+: .oF. 119 N     _SPEHNER Norbert             Satanigrad, ou le sourire du d‚mon ş2002
+: .oF. 133 N     _LELOUP Fabienne             Le Bruit de la chasse d'eau ş2001
+: .oF. 139 N     _PARGADE Laura               La Voisine ş2002
+: .oF. 149 N     _LECONTE Marianne            Une golfeuse ‚m‚rite ş2002
+: .oF. 155 N     _LE BUSSY Alain              La Fille qui capturait le temps ş2002
+: .oF. 165 N     _RUELLAN Andr‚               Un th‚ au bourbon ş2002
+: .oF. 171 N     _GERAULT Jean-Fran‡ois       La Beaut‚ du diable ş2002
+: .oF. 177 N     _LENN Jonas                  Malin et demi ş2002
+: .oF. 185 N     _DUGUEL Anne                 Portrait d'un ‚corch‚ en costume marin ş2002
+: .oF. 189 N     _MILLET Gilbert              Le Disque de chevet ş2002
+: .oF. 193 N     _RICHARD Bernadette          Ereiss! Uopala! Aren Ruoterle BabtŠ! ş2002
+: .oF. 203 N     _COLIN Fabrice               Coupable, non coupable ş2002
+: .oF. 215 N     _DELBE Alain                 Le Baiser du Sphinx ş2002
+: .oF. 229 N     _CURVAL Philippe             Bonne r‚ponse ş2002
+: .oF. 273 N     _ERIS Patrick                Nuit moite ş2002
+: .oF. 259 N     _FAZI M‚lanie                Le Passeur ş2002
+: .oF. 283 N     _LAURIER Andr‚e              Le Nom de la chose ş2002
+: .oF. 293 N     _BOLDUC Claude               Toujours plus bas ş1997
+: .oF. 329 a     _GENTILHOMME Serena          Renvoi ş2002
+o ODS_MED     6  2004.11 ..... ISBN 2-914405-18-9
+} ods_derby_06   _?                           N
+!--- @source : Arkheion092017
+!--- 23 cm - 129 pages - 18 euros
+- .oF.    _N12   _HEURTEL Philippe            Puzzles ş2004
+: .o .   5 p     _MILLER Sylvie              &Pr‚face ş2004
+&                _WARD Philippe               
+: .o .  13 N     _HEURTEL Philippe           ÿFenˆtres de l'ƒme ş2004
+: .o .  23 N     _HEURTEL Philippe            Coeur de glaise ş2001
+: .o .  33 N     _HEURTEL Philippe           ÿPuzzles ş2004
+: .o .  37 N     _HEURTEL Philippe            La Lampe ş2004
+: .o .  51 N     _HEURTEL Philippe            Double vie ş2003
+: .o .  55 N     _HEURTEL Philippe            La Nuit du pr‚dateur ş2000
+: .o .  73 N     _HEURTEL Philippe            Anniversaire ş2004
+: .o .  77 N     _HEURTEL Philippe            Le Manuscrit ş2000
+: .o .  89 N     _HEURTEL Philippe            R‚veillon ş2004
+: .o .  95 N     _HEURTEL Philippe           ÿL'Amante ş2004
+: .o . 101 N     _HEURTEL Philippe           ÿGraffitis ş2004
+: .o . 109 N     _HEURTEL Philippe            La F‚e de Londres ş2001
+o ODS_MED     7  2005.09 ..... ISBN 2-914405-23-5
+} ods_derby_07   _?                           N
+!--- @source : Arkheion 102022
+!--- GF - 23 cm - 212 pages - 18 euros
+- .oF.    _N12   _THIBAULT Emmanuel           Cimia ş2005
+: .oF.   7 N     _THIBAULT Emmanuel           Pour la gloire des Gl“mes ş2005
+: .oF.  43 N     _THIBAULT Emmanuel           Jack le jaguar et les vampires ş2003
+: .oF.  81 N     _THIBAULT Emmanuel           Sauvez Kiki ş2005
+: .oF. 107 N     _THIBAULT Emmanuel           Le Monde oubli‚ ş2000
+: .oF. 111 N     _THIBAULT Emmanuel           L'Histoire du vampire … grande bouche ş2005
+: .oF. 131 N     _THIBAULT Emmanuel           L'Absente ş2001
+: .oF. 137 N     _THIBAULT Emmanuel           Mandragora ş1999
+: .oF. 139 N     _THIBAULT Emmanuel           Goth verdammt ş2005
+: .oF. 151 N     _THIBAULT Emmanuel           N‚crophagie ş2005
+: .oF. 161 N     _THIBAULT Emmanuel           Cimia ş1999
+: .oF. 171 N     _THIBAULT Emmanuel           Une histoire sans commencement ş2005
+: .oF. 181 N     _THIBAULT Emmanuel           A bord du vaisseau noir ş2005
+o ODS_MED     8  2006.11 ..... ISBN 2-914405-35-9
+} ods_derby_08   _?                           N
+!--- @source : Arkheion 102022
+!--- 23 cm - 125 pages - 15 euros
+- .oF.    _N8    _HEURTEL Philippe            Zones franches ş2006
+: .oF.   5 p     _NICOT St‚phanie             Pr‚face ş2000
+: .oF.   9 N     _HEURTEL Philippe            La D‚chirure ş2000
+: .oF.  19 N     _HEURTEL Philippe            Les Reflets mauves des derniers matins ş1998
+: .oF.  27 N     _HEURTEL Philippe            Zone franche ş2000
+: .oF.  47 N     _HEURTEL Philippe            Les Larmes d'Ihad‚e ş2006
+: .oF.  57 N     _HEURTEL Philippe            Le Train ş2006
+: .oF.  73 N     _HEURTEL Philippe            Temps de guerre ş2001
+: .oF.  91 N     _HEURTEL Philippe            Souvenirs de Paraiso ş2000
+: .oF. 105 N     _HEURTEL Philippe            Ghost Avenue ş2006
+o ODS_MED     9  2007.xx ..... ISBN 2-914405-37-5
+} ods_derby_09   _?                           N
+!--- @source : Arkheion 102022
+!--- 23 cm - 209 pages - 18 euros
+- .oF.    kN14   _LE BUSSY Alain              Les Filles d'Alain le Bussy ş2007
+: .oF.   5 p     _SMULDERS Anne               Pr‚face ş2007
+: .oF.   9 N     _LE BUSSY Alain              La Fille qui veillait sur le quai A ş2007
+: .oF.  25 N     _LE BUSSY Alain              La Fille qui ne laissait pas de traces sur le sable ş2007
+: .oF.  39 N     _LE BUSSY Alain              La Fille qui avait su se retenir ş2002
+: .oF.  51 N     _LE BUSSY Alain              La Fille qui dansait les quatre saisons ş1999
+: .oF.  59 N     _LE BUSSY Alain              La Fille qui ‚crivait des poŠmes sans mots ş1995
+: .oF.  75 N     _LE BUSSY Alain              La Fille qui capturait le temps ş2002
+: .oF.  85 N     _LE BUSSY Alain              La Fille qui vendait des chats ş2002
+: .oF.  99 N     _LE BUSSY Alain              La Fille qui peignait les nuages ş2007
+: .oF. 119 N     _LE BUSSY Alain              La Fille qui ‚tait volup... tueuse ş2002
+: .oF. 135 N     _LE BUSSY Alain              La Fille qui avait peur de l'eau ş1995
+: .oF. 161 N     _LE BUSSY Alain              La Fille qui chassait la pluie ş2004
+: .oF. 177 N     _LE BUSSY Alain              La Fille qui souffrait d'arachnophobie ş2007
+: .oF. 187 N     _LE BUSSY Alain              La Fille qui d‚testait la routine ş2007
+: .oF. 187 N     _LE BUSSY Alain              La Fille qui faisait tinter la caisse ş2007
+o ODS_MED    10  2007.xx ..... ISBN 978-2-914405-46-1
+} ods_derby_10   _?                           N
+!--- 23 cm - 128 pages - 14 euros 
+- .! .     R     _BELLOCQ-POULONIS Sophie     L'Affaire des vierges de glace - Une enquˆte in‚dite de Sherlock Holmes ş2007
+o ODS_MED    11  2009.xx ..... ISBN 978-2-914405-61-4
+} ods_derby_11   _?                           N
+!--- 23 cm - 107 pages - 12 euros 
+- .! .     R     _BELLOCQ-POULONIS Sophie     Mycroft's testimony ş2009
+o ODS_MED    12  2011.11 ..... ISBN 978-2-914405-71-3
+} ods_derby_12   _?                           N
+!--- @source : Arkheion 102022
+!--- 23 cm - 175 pages - 16 euros 
+- .oF.    kN18   _HEURTEL Philippe            Blanc comme un ast‚ro‹de ş2011
+: .o .   5 N     _HEURTEL Philippe            Objets du d‚sir ş2011
+: .o .  31 N     _HEURTEL Philippe            Cheval de Troie ş2007
+: .o .  37 N     _HEURTEL Philippe            Appuyez sur le bouton ş2004
+: .o .  43 N     _HEURTEL Philippe            Entomo park ş2011
+: .o .  53 N     _HEURTEL Philippe            La Question de madame Pandore ş1998
+: .o .  61 N     _HEURTEL Philippe            Paradoxe ş2004
+: .o .  65 N     _HEURTEL Philippe            Le Miracle du mont des oliviers ş2004
+: .o .  69 N     _HEURTEL Philippe            Le Tour du monde en 80 millisecondes ş2011
+: .o .  71 N     _HEURTEL Philippe            Les Trois Petites Victimes et le grand m‚chant Psyko ş2011
+: .o .  83 N     _HEURTEL Philippe            Gloria Mundi ş2004
+: .o .  85 N     _HEURTEL Philippe            L'Affaire Sandra Lion ş2000
+: .o .  95 N     _HEURTEL Philippe            SortilŠge ş2005
+: .o .  97 N     _HEURTEL Philippe            Achille contre Z‚non ş2011
+: .o . 111 N     _HEURTEL Philippe            Contre-inf‚rence ş2004
+: .o . 125 N     _HEURTEL Philippe            Blanc comme un ast‚ro‹de ş2011
+: .o . 137 N     _HEURTEL Philippe            Les Derniers Dinosaures ş2011
+: .o . 149 N     _HEURTEL Philippe            Les Aventuriers de la sonde perdue ş2011
+: .o . 163 N     _HEURTEL Philippe            Table ş2011
+o ODS_MED    13  2013.03 ..... ISBN 979-10-91506-01-4
+} ods_derby_13   _?                           N
+!--- 23 cm - 326 pages - 25 euros 
+!--- Trad. HAUTEPIERRE Jean
+- .o .    iPx    _SMITH Clark Ashton          Celui qui marchait parmi les ‚toiles - Choix de poŠmes cosmiques ş2013
+o ODS_MED     ?  2013.09 ..... ISBN 979-10-91506-09-0
+} ods_derby_atlantis _Andr‚ Sav‚ant               N
+!--- @source : Arkheion 102022
+- .oFS    kN14   *NOLANE Richard D.           La BibliothŠque d'Atlantis - Nouvelles in‚dites d'un pass‚ myst‚rieux ş2013
+: .o .   5 p     _NOLANE Richard D.           Pr‚face ş2013
+: .o .   7 N     _BEDUNEAU GeneviŠve          Un soir … l'auberge ş2013
+: .o .  13 N     _MOREAU Charles              Celui qui peignait l'Atlantide ş2013
+: .o .  27 N     _LEGAY Piet                  Autodestruction ş2013
+: .o .  71 N     _ROSSI Anne                  La Grande BibliothŠque ş2013
+: .o .  81 N     _REBOUSSIN Didier            Un coup de grisou ş2013
+: .o .  93 N     _GELLON Marianne             Une banque en cornouailles ş2013
+: .o . 103 N     _VINGERT Sylvain             En des temps troubl‚s ş2013
+: .o . 115 N     _RAYMOND Jean-Paul           Les Murailles de Nan Madol ş2013
+: .o . 135 N     _LUONG Aur‚lie               Premier D‚luge ş2013
+: .o . 147 N     _ARCHAIMBAULT Jean-Michel    La Terre est vraiment ronde ş2013
+: .o . 167 N     _MOLES Dominique             Anges d‚chus par la vie ş2013
+: .o . 187 N     _HAY Tepthida                Sous le silence des pierres ş2013
+: .o . 203 N     _DARVEL Robert               Les Revenants de l'Ile de Pƒques ş2013
+: .o . 223 N     _GENEVAUX Patrick            Le Champs des morts ş2013
+: .o . 233 N     _FERJAULT Jacky              Pharos ş2013
+: .o . 239 N     _KAAN Jess                   Reflets d'un ancien monde ş2013
+o ODS_MED    14  2015.xx ..... ISBN 979-10-91506-37-3
+} ods_derby_14   _?                           N
+!--- 23 cm - 233 pages - 16 euros 
+- .oF.     N18   *NOLANE Richard D.           Nouvelles d'outre-mort ş2015
+: .o .     p     _NOLANE Richard D.           Pr‚face ş2015
+: .o .     N     _CAUSSARIEU Morgane          Le Syndrome de Pan ş2015
+: .o .     N     _BLAIZOT Lydie               La Quˆte ş2015
+: .o .     N     _FIEROBE Fran‡ois            Guide du mus‚e de l'en-de‡a ş2015
+: .o .     N     _CAUSSARIEU Morgane          PremiŠre victime ş2015
+: .o .     N     _CENDREVILLE Fabert          Le Ressuscitu‚ ş2015
+: .o .     N     _JOUANNAIS Jean-Jacques      Un sang impur ş2015
+: .o .     N     _KAAN Jess                   Rip M. Delpierre ş2015
+: .o .     N     _PEZENNEC Jean               Tous ensemble ş2015
+: .o .     N     _DARVEL Robert               Le Bruit des os ş2015
+: .o .     N     _LALLOT L‚o                  Hell 2.0 ş2015
+: .o .     N     _PLANQUE Jean-Pierre         La Peur de sa vie ş2015
+: .o .     N     _QUEVAINE Pierre             Nettoyeurs ş2015
+: .o .     N     _MONGRAIN Pierre-Louis       Mort active ş2015
+: .o .     N     _BOODO Sylvain               Un ‚tage avant l'enfer ş2015
+: .o .     N     _MEZIN Guillaume             Jusqu'… ce que la mort nous s‚pare ş2015
+: .o .     N     _AERNOUT Eva                 Kannerezed Noz ş2015
+: .o .     N     _REBOUSSIN Didier            La Madelon ş2015
+: .o .     N     _RICHARD Gaston-Charles      La Terrible Exp‚rience du Dr. C. Bell ş1905
+o ODS_MED    15  2016.02 ..... ISBN 979-10-91506-38-0
+} ods_derby_15   _?                           N
+!--- 23 cm - 132 pages - 15 euros 
+- .oF.     r2    _HAUTEPIERRE Jean            Le Roi en jaune ş2015
+: .o .     r     _HAUTEPIERRE Jean            Le Prince de Carcosa ş2015
+: .o .     r     _HAUTEPIERRE Jean            Le Roi en jaune ş2015
+o ODS_MED    16  2016.11 ..... ISBN 979-10-91506-52-6
+} ods_derby_16   _Jean-Pierre Normand         N
+!--- 21 cm - 224 pages - 15 euros 
+- .o .     R     _DARLTON Clark               Le Cercle des neufs ş1983 Die neun Unbekannten şTrad. ARCHAIMBAULT Jean-Michel
+o ODS_MED    19  2021.xx ..... ISBN 978-2-38014-037-8
+} ods_derby_19   _Jean-Pierre Normand         N
+!--- 21 cm - 267 pages - 17 euros 
+- .x .     E     _DELBE Alain                 Le Mus‚e des mystŠres - Les dossiers Deleb ş2021
+
+o ODS_MED     7  2022.09 ..... ISBN 978-2-38014-049-1
+} ods_derby_7rr22 _El Jic‚                     N
+!--- GF - 125 x 223 mm - 300 pages - 18 euros
+!--- R‚‚dition augment‚e de 5 textes
+- .oF.    _N16   _THIBAULT Emmanuel           Cimia ş2005-2022
+: .oF.   9 p     _DALLA ROSA Richard          Pour la gloire des Gl“mes ş2022
+: .oF.  11 N     _THIBAULT Emmanuel           Pour la gloire des Gl“mes ş2005
+: .oF.  47 N     _THIBAULT Emmanuel           Jack le jaguar et les vampires ş2003
+: .oF.  97 N     _THIBAULT Emmanuel           Sauvez Kiki ş2005
+: .oF. 127 N     _THIBAULT Emmanuel           Le Monde oubli‚ ş2000
+: .oF. 131 N     _THIBAULT Emmanuel           L'Histoire du vampire … grande bouche ş2005
+: .oF. 152 N     _THIBAULT Emmanuel           L'Absente ş2001
+: .oF. 159 N     _THIBAULT Emmanuel           Goth verdammt ş2005
+: .oF. 173 N     _THIBAULT Emmanuel           N‚crophagie ş2005
+: .oF. 185 N     _THIBAULT Emmanuel           Cimia ş1999
+: .oF. 197 N     _THIBAULT Emmanuel           La Muraille ş2022
+: .oF. 209 N     _THIBAULT Emmanuel           A bord du vaisseau noir ş2005
+: .oF. 231 N     _THIBAULT Emmanuel           Une histoire sans commencement ş2005
+: .oF. 241 N     _THIBAULT Emmanuel           Le Temps d'une m‚prise ş2022
+: .oF. 253 N     _THIBAULT Emmanuel           Les Varices du diable ş2006
+: .oF. 265 N     _THIBAULT Emmanuel           L'Envoy‚ ş2022
+: .oF. 275 N     _THIBAULT Emmanuel           Au bord de l'ombre ş2022
+
+!-----------------------------------------------------------------------------
+_ ODS_FC  L'Oeil Du Sphinx - La feuille de la compagnie
+!-----------------------------------------------------------------------------
+!--- Editions de L'Oeil du Sphinx (Association L'Oeil Du Sphinx - AODS)
+!-----------------------------------------------------------------------------
+!--- ISBN 2-914405-07-3 novembre 2001
+
+!-----------------------------------------------------------------------------
+_ ODS_GF  L'Oeil Du Sphinx - La gazette fort‚enne
+!-----------------------------------------------------------------------------
+!--- Editions de L'Oeil du Sphinx (Association L'Oeil Du Sphinx - AODS)
+!-----------------------------------------------------------------------------
+!--- ISBN 2-914405-10-3
+
+!-----------------------------------------------------------------------------
+_ ODSMISK Bulletin de l'universit‚ de Miskatonic
+!-----------------------------------------------------------------------------
+!--- Bulletin de l'universit‚ de Miskatonic
+!--- Suppl‚ment … Dragon & Microchips
+!-----------------------------------------------------------------------------
+o ODSMISK   1bis 1994.10 ..... ISBN -
+} noimg          _?                           ?
+- .o .     M0    ****                         Bulletin de l'Universit‚ de Miskatonic nø 1 bis ş1994
+!--- Les cinq premiers num‚ros du Bulletin ont ‚t‚ publi‚s sous les num‚ros 3, 4, 5, 6, 7 de Dragon & Microchips (1992 - 1993)
+!--- Sommaire :
+! Bulletin de l'Universit‚ de Miskatonic Nø1
+! Bulletin de l'Universit‚ de Miskatonic Nø2
+! Bulletin de l'Universit‚ de Miskatonic Nø3
+! Bulletin de l'Universit‚ de Miskatonic Nø4
+! Bulletin de l'Universit‚ de Miskatonic Nø5
+! + Histoires d'Horreur Lovecraftiennes : - 
+: .o .   5 p     _PUGMIRE W. H.               L'Horreur Lovecraftienne ş1987 Lovecraftian Horror
+: .o .   6 p     _WARD Philippe               Cthulhu Go home ş1994
+: .o .   7 N     _NEIDIGH Kim L.              Anomalie ş1987 Anomaly
+: .o .  11 N     _DEBILL Walter C. Jr.        Celui qui d‚vore ş1987 That Which Devours
+: .o .  19 N     _THEOBALD Lewis III          L'Antique Cercueil ş1987 The Antique Coffin
+: .o .  28 N     _WARNER Bobby G.             Dans la forˆt ş1987 In the Forest
+: .o .  29 P     _NEIDIGH Kim L.              L'Invocation ş1987 The Summoning
+: .o .  30 N     _FULWILLER William           La PiŠce du pentacle ş1987 The Room of the Pentacle
+: .o .  37 N     _GAROFALO Charles            Les Roses du cimetiŠre ş1987 Graveyard Roses
+: .o .  41 N     _CANNON Peter H.             L'Anneau d'‚tain ş1987 The Pewter Ring
+o ODSMISK     3  1995.10 ..... ISBN -
+} noimg          _?                           ?
+- .o .     M0    ****                         Bulletin de l'Universit‚ de Miskatonic nø 3 ş1995
+o ODSMISK     4  1998.xx ..... ISBN -
+} noimg          _?                           ?
+!--- Il est d'ailleurs : long article sur une nouvelle de Lovecraft
+- .o .     Mx    ****                         Bulletin de l'Universit‚ de Miskatonic nø 4 (f‚vrier-mars 1998) ş1998
+: .o .     a     _CERVERA MERINO L.V.         Il est d'ailleurs ş1998
+o ODSMISK     5  ?   .xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         Bulletin de l'Universit‚ de Miskatonic nø 5 ş?
+o ODSMISK     6  2005.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     M1    ****                         Bulletin de l'Universit‚ de Miskatonic nø 6 ş2005
+: .o . 126 N     _HAUTEPIERRE Jean            Les Hurlements de la vall‚e maudite ş2005
+
+o ODSMISK     1  2005.01 ..... ISBN 2-914405-19-1
+} noimg          _?                           ?
+- .oF.     E     _FERJAULT Jacky              Moi, Howard Philip Lovecraft ş2005
+o ODSMISK     2  2008.xx ..... ISBN 2-914405-49-9
+} noimg          _?                           ?
+- .o .     E     _FERJAULT Jacky              Lovecraft et la politique ş2008
+o ODSMISK     3  2012.xx ..... ISBN 2-914405-83-9
+} noimg          _?                           ?
+- .o .     E     _BELLOCQ-POULONIS Sophie     La Mal‚diction de Nephrem-Kƒ ş2012
+o ODSMISK     4  2014.xx ..... ISBN 979-10-91506-14-4
+} noimg          _Emmanuel Thibault           ?
+- .o .     E     _FERJAULT Jacky              100 auteurs ‚voqu‚s par Howard Phillips Lovecraft ş2014
+o ODSMISK     5  2016.11 ..... ISBN 979-10-91506-54-0
+} noimg          _Emmanuel Thibault           ?
+!--- Biographie romanc‚e
+- .o .     E     _FERJAULT Jacky              Moi, Howard Philip Lovecraft … New York ş2016
+o ODSMISK     6  2017.01 ..... ISBN 979-10-91506-55-7
+} noimg          _Andr‚ Sav‚ant               ?
+!--- Biographie romanc‚e
+- .o .     E     _GUILLAUD Lauric             Lovecraft, une approche g‚n‚alogique - De l'horreur au sacr‚ ş2017
+
+!-----------------------------------------------------------------------------
+_ MURM    Murmures d'Irem
+!-----------------------------------------------------------------------------
+!--- Murmures d'Irem (France)
+!-----------------------------------------------------------------------------
+o MURM        ?  1996.xx ..... ISBN -
+} noimg          _?                           ?
+>--- SERIAL : nø 0 … 4
+- .o .     N     _BERENGER J‚r‚my             Rencontres avec un Sup‚rieur Inconnu ş1996
+!-----------------------------------------------------------------------------
+o MURM        0  1995.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Murmures d'Irem nø 0 ş1995
+?: .o .     N     _BIDCHIREN Olivier           L'Appel de la chair ş1995
+) .o .  15 N     _BERENGER J‚r‚my             Rencontres avec un Sup‚rieur Inconnu - 1 ş1995
+: .o .  27 N     _BIDCHIREN Olivier           Obsessionnelles fractions, ou l'ind‚sirable promeneur ş1995
+: .o .  31 P     _BERENGER J‚r‚my             Songe initiatique... ş1995
+o MURM        1  1996.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Murmures d'Irem nø 1 ş1996
+) .o .   3 N     _BERENGER J‚r‚my             Rencontres avec un Sup‚rieur Inconnu - 2 ş1996
+: .o .  47 N     _FERRIEU Sylvain             Une secte d'ath‚es ş1996
+: .o .  56 N     _POSSAMAI Adam M.            Le Droit … l'euthanasie [Dr. John Dee] ş1996
+: .o .     P     _BERENGER J‚r‚my             L'Enfant-Femme de Coomenoolee ş1996
+o MURM        2  1996.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM2    ****                         Murmures d'Irem nø 2 ş1996
+: .o .  85 N     _BIDCHIREN Olivier           Les Survivants d'Hyperbor‚e ş1996
+) .o .  91 N     _BERENGER J‚r‚my             Rencontres avec un Sup‚rieur Inconnu - 3 ş1996
+: .o .  95 P     _BERENGER J‚r‚my             Renaissance ş1996
+o MURM        3  1996.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM2    ****                         Murmures d'Irem nø 3 ş1996
+) .o .     N     _BERENGER J‚r‚my             Rencontres avec un Sup‚rieur Inconnu - 4 ş1996
+: .o .     N     _DOLLO Xavier                Loguivy-Plougras, terre de l‚gende ş1996
+o MURM        4  1996.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM3    ****                         Murmures d'Irem nø 4 (novembre 96) ş1996
+: .o .     N     _BIDEL Guy                   Near Death Eldorado ş1996
+: .o . 109 N     _POSSAMAI Adam M.            Dieu est mort ş1996
+) .o .     N     _BERENGER J‚r‚my             Rencontres avec un Sup‚rieur Inconnu - 5 ş1996
+o MURM        5  1997.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM1    ****                         Murmures d'Irem nø 5 ş1997
+: .o . 104 N     _PANIER Claire               La Halle de Nyr ş1997
+o MURM        6  1997.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM1    ****                         Murmures d'Irem nø 6 ş1997
+: .o .  62 N     _POSSAMAI Adam M.            Aristote, pour ou contre ? ş1997
+o MURM        7  1997.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM1    ****                         Murmures d'Irem nø 7 ş1997
+: .o .     N     _BERENGER J‚r‚my             L'Orme de Pentland Firth ş1997
+?: .* .     ?     _PISSIER Philippe            Hommage … William S. Burroughs ş1997
+o MURM        8  1998.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM0    ****                         Murmures d'Irem nø 8 ş1998
+o MURM        9  1999.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM2    ****                         Murmures d'Irem nø 9 ş1999
+: .o .     N     _BERENGER J‚r‚my             Aux agapes de Taliesin ş1999
+: .o .     N     _THIBAULT Emmanuel           Mandragora ş1999
+o MURM       10  199?.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM0    ****                         Murmures d'Irem nø 10 ş199?
+o MURM       11  2000.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Murmures d'Irem nø 11 (juin-juillet 2000) ş2000
+: .o .     N     _DELBE Alain                 Jeux de cartes ş2000
+?: .o .     ?     _COLNOT Jean-Luc            &D‚cr‚ation ş2004
+?&               _RIVENDAL AgnŠs              
+!--- long article sur une nouvelle de Lovecraft :
+: .o .     a     _CERVERA MERINO L.V.         Charles Duits, voyage au bout du peyotl ş2000
+o MURM       12  2001.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM1    ****                         Murmures d'Irem nø 12 ş2001
+: .o .     N     _DELBE Alain                 Le Mouvement perp‚tuel ş2001
+o MURM       13  2002.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM1    ****                         Murmures d'Irem nø 13 ş2002
+: .o .     N     _DELBE Alain                 La Femme de Yahve ş2002
+o MURM       14  2003.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM0    ****                         Murmures d'Irem nø 14 ş2003
+o MURM       15  2004.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         Murmures d'Irem nø 15 ş2004
+: .o .     N     _QUESTIN Marc-Louis          La Citadelle des vierges noires ş2004
+: .o .     X     _WRIGHT Harold Bell          Le Roi sans couronne ş1910 The Uncrowned King
+o MURM       16  2005.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM0    ****                         Murmures d'Irem nø 16 ş2005
+o MURM       17  2006.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    kM0    ****                         Murmures d'Irem nø 17 ş2006
+
+!-----------------------------------------------------------------------------
+_ ODS_VIN L'Oeil Du Sphinx - Vintage Fiction, RDN Books
+!-----------------------------------------------------------------------------
+o ODS_VIN     ?  2017.11 10.00 ISBN 979-10-91506-75-5
+} ods_ratcrane   _Emsh                        ?
+- .oS.     N4    _PHILLIPS Rog                Un rat dans le crƒne ş2017
+: .oS.     p     _NOLANE Richard D.           Pr‚face ş2017
+: .oS.     N     _PHILLIPS Rog                Un rat dans le crƒne ş1958 Rat in the Skull şTrad. NOLANE Richard D.
+: .oS.     N     _PHILLIPS Rog                Les Anciens Martiens ş1952 The Old Martians şTrad. NOLANE Richard D.
+: .oS.     N     _PHILLIPS Rog                La Galerie ş1959 The Gallery şTrad. NOLANE Richard D.
+: .oS.     N     _PHILLIPS Rog                Les Parias ş1953 Pariah şTrad. NOLANE Richard D.
+o ODS_VIN     ?  2018.06 ..... ISBN 979-10-91506-87-8
+} noimg          _Lawrence                    ?
+!--- 172 pages - 12 euros
+- .oS.     R     _ROUSSEAU Victor             L'Oeil de Balamok ş1920 The Eye of Balamok şTrad. MOUMON Jean-Pierre + NOLANE Richard D.
+o ODS_VIN     ?  2022.xx ..... ISBN 979-2-38014-054-5
+} noimg          _A. T. Smith                 ?
+!--- 172 pages - 12 euros
+- .oF.    kA9    _BOOTHBY Guy                &Un professeur d'‚gyptologie ş1920 The Eye of Balamok şTrad. MOUMON Jean-Pierre + NOLANE Richard D.
+&                *NOLANE Richard D.           
+: .o .   7 p     _NOLANE Richard D.           Guy Boothby, brillant m‚t‚ore du roman populaire victorien ş2022
+: .o .     N     _BOOTHBY Guy                 Un professeur d'‚gyptologie ş1904 A Professor of Egyptology şTrad. ARIBAUD Albert
+: .o .  13 N     _BOOTHBY Guy                 Avec trois fant“mes ş1897 With Three Phantoms şTrad. BLOND Martine
+: .o .  41 N     _BOOTHBY Guy                 Le Tr‚sor de Sacramento Nick ş1894 The Treasure of Sacramento Nick şTrad. BLOND Martine
+: .o .  85 N     _BOOTHBY Guy                 Une vengeance impitoyable ş1902 Remorseless Vengeance şTrad. NOLANE Richard D.
+: .o .  99 N     _BOOTHBY Guy                 Un ‚trange champ aurifŠre ş1904 A Strange Goldfield şTrad. ARIBAUD Albert
+: .o . 109 N     _BOOTHBY Guy                 Le MystŠre de Futuleima ş1898 The Mystery of Futuleima şTrad. BLOND Martine
+: .o . 127 N     _BOOTHBY Guy                 L'Enfant de la mort ş1905 The Death Child şTrad. BLOND Martine
+: .o . 143 N     _BOOTHBY Guy                 Un certain ‚clairage sur la "question japonaise" ş1904 A Side Light on the Japanese Question şTrad. BLOND Martine
+: .o . 163 N     _BOOTHBY Guy                 La Dame noire de Brin Tor ş1904 The Black Lady of Brin Tor şTrad. BLOND Martine
+: .o . 175 a     _NOLANE Richard D.           Bibliographie fran‡aise de Guy Boothby ş2022
+
+
+!-----------------------------------------------------------------------------
+_ WENDIGO L'Oeil Du Sphinx - Wendigo
+!-----------------------------------------------------------------------------
+!--- Wendigo
+!--- Revue cr‚‚e en 2011n dirig‚e par Richard D. Nolane
+!-----------------------------------------------------------------------------
+o WENDIGO     1  2011.01 ..... ISBN 978-2-914405-66-.
+} wendigo01      _?                           ?
+- .oFT     Mx    ****                         Wendigo nø 1 (janvier 2011) ş2011
+!--- Editorial Richard D. Nolane
+: .o .   5 N     _BARR Robert                 Purification ş1896 Purification şTrad. ?
+: .oF.  15 N     _GRIFFITH George             Le Destin du Hollandais Volant ş1894 The True Fate of the Flying Dutchman şTrad. NOLANE Richard D.
+: .o .  27 N     _ROUSSEAU Victor             La Femme de Jackson ş1909 Jackson's Wife
+: .o .  53 N     _ROBERTSON Morgan            L'Horreur des profondeurs ş1913 From the Darkness and the Depths
+: .o .  79 a     _LIGNON Yves                 Du Titanic de M. Robertson au Global consciousness Project ş2011
+: .o .  85 N     _QUINN Seabury               L'Idole de pierre ş1919 The Stone Image
+: .o . 103 N     _MARRAMA D.O.                Le M‚daillon ş1907 Il medaglione
+: .o . 117 N     _FISHER Philip M. Jr.        L'trange Cas de Lemuel Jenkins ş1919 The Strange Case of Lemuel Jenkins
+: .o . 147 N     _ABDULLAH Achmed             Terreur ş1919 Fear
+o WENDIGO     2  2013.02 ..... ISBN 978-10-91506-05-2
+} wendigo02      _C‚line Mi‚cret              ?
+- .oFT     M7    ****                         Wendigo nø 2 ş2013
+!--- Editorial Richard D. Nolane
+: .o .   5 N     _MARSH Richard               Une illustration de la science moderne ş1896 An Illustration of Modern Science şTrad. ?
+: .o .  21 N     _STEVENS Francis             Le PiŠge elfique ş1919 The Elf-Trap şTrad. ARCHIMBAULT Jean-Michel
+: .o .  49 r     _SEIDEL Willy                La Plus Ancienne Chose du monde ş1923 Das „lteste ding des welt şTrad. ?
+: .o . 117 N     _ROUSSEAU Victor             Le Cas de la fille du ge“lier [Ivan Brodsky] ş1910 The Case of the Jailer's Daughter
+: .o . 131 N     _BURT Hugh                   Le S‚pulcre blanchi ş1889 The Whitered Sepulchre şTrad. ?
+: .oF. 141 N     _BOOTHBY Guy                 Un ‚trange terrain aurifŠre ş1904 A Strange Goldfield şTrad. ?
+: .oT. 151 N     _BAYNTON Barbara             Le R“deur ş1896 The Tramp / The Chosen Vessel şTrad. ?
+o WENDIGO     3  2016.02 ..... ISBN 978-10-91506-40-3
+} wendigo-3      _?                           ?
+- .oFT     M9    ****                         Wendigo nø 3 ş2016
+!--- Editorial Richard D. Nolane
+: .o .     N     _MARRAMA D.O.                Le Docteur noir ş1907 Il Dottor Nero
+: .oF.     N     _CHAMBERS Robert W.          Le TroisiŠme Oeil ş? ? şTrad. ?
+: .o .     N     _FEARN John Russell          La Cloche du jugement ş1960 Judgement Bell şTrad. ?
+: .o .     N     _SWAIN John D.               Lucifer ş1923 Lucifer şTrad. ?
+: .o .     N     _FISHER Philip M. Jr.        La Vall‚e aux os ş1918 The Vale of Bones şTrad. ?
+: .o .     N     _ROUSSEAU Victor             L'H‚ritage de la haine [Ivan Brodsky] ş1910 The Legacy of Hate şTrad. ?
+: .o .     N     _ENGLAND George Allan        La Chose venue d'ailleurs ş1923 The Thing from Outside şTrad. ?
+: .oF.     N     _BOOTHBY Guy                 Un professeur d'‚gyptologie ş1904 A Professor of Egyptology şTrad. ?
+: .o .     N     _MERRITT Abraham             Le Bassin du dieu de pierre ş1923 The Pool of the Stone God şTrad. ?
+o WENDIGO     4  2017.08 ..... ISBN 978-10-91506-70-0
+} wendigo4       _?                           ?
+- .oFT     M9    ****                         Wendigo nø 4 ş2017
+!--- Editorial Richard D. Nolane
+: .o .   5 N     _PRICE E. Hoffman            La Fille de Satan ş1936 Satan's Daughter şTrad. ?
+: .o .  27 N     _MARRAMA D.O.                Le Portrait du mort ş1907 Il ritratto del morto şTrad. ?
+: .oF.  37 N     _MARSH Richard               Un chevalier de grand chemin ş1901 A Knight of the Road şTrad. BREQUE Jean-Daniel
+: .o .  65 N     _PHILLIPS Rog                Le Manoir ş1947 The House şTrad. ?
+: .o .  81 N     _BOOTHBY Guy                 L'Enfant de la mort ş1905 The Death Child şTrad. ?
+: .o .  93 N     _FISHER Philip M. Jr.        Le Vaisseau des hommes silencieux ş1920 The Ship of Silent Men şTrad. ?
+: .o . 135 N     _SWAIN John D.               La Marionnette ş1924 The Manikin şTrad. ?
+: .o . 141 N     _ROUSSEAU Victor             Le DixiŠme Commandement [Ivan Brodsky] ş1910 The Tenth Commandment
+: .o . 155 N     _McCLUSKY Thorp              La Marche des zombies ş1939 While Zombies Walked şTrad. ?
+o WENDIGO     5  2019.04 ..... ISBN 978-10-91506-98-4
+} wendigo5       _?                           ?
+- .oFT    kM7    ****                         Wendigo nø 5 ş2019
+!--- Editorial Richard D. Nolane
+: .o .   5 r     _ROUSSEAU Victor             La Mal‚diction d'Amen-Ra ş1932 The Curse of Amen-Ra
+: .o .  67 N     _TANNER Charles R.           La Jarre ş1941 Out of the Jar
+: .o .  79 N     _ALLEN Grant                 Pallinghurst Barrow ş1892 Pallinghurst Barrow
+: .o . 103 N     _PHILLIPS Rog                Mes trous de m‚moire ş1950 Holes in My Head
+: .o . 127 N     _QUINN Seabury               Les D‚mons de la nuit ş1918 Demons of the Night
+: .o . 143 N     _MUMFORD Ethel Watts         Parfums de fant“mes ş1927 Phantom Perfumes
+: .o . 161 N     _PRICE E. Hoffman           &La Demeure du Monoc‚ros ş1941 House of Monoceros 
+&                _SMITH Clark Ashton          
+o WENDIGO     6  2022.03 ..... ISBN 978-2-38014-080-4
+} wendigo6       _?                           ?
+- .oFT    kM10   ****                         Wendigo nø 6 ş2022
+!--- 16 euros
+!--- Editorial Richard D. Nolane
+!--- Traduction Tepthida Hay, Martine Blond, Jean-Daniel BrŠque, Eric M'Gaides et Richard D. Nolane
+: .o .   7 N     _SHACKELFORD Amelia          Un visiteur c‚leste ? ş1871 Had we a Celestial Visitant? / A Celestial Visitant
+: .o .  21 N     _HAWTHORNE Julian            Le Secret de Ken ş1883 Ken's Mystery
+: .o .  46 N     _NESBIT Edith                Dans le noir ş1910 In the Dark
+: .o .  65 N     _MASON A.E.W.                Le Tombeau de glace ş1915 The Crystal Trench
+: .o .  85 N     _LAUMANN E. M.               La Case aux f‚tiches ş1923
+: .o .  89 N     _LAUMANN E. M.               Par le 85ø Nord Quart Nord ş1923
+: .o .  96 N     _POWERS Paul S.              Le S‚rum de vie ş1926 The Life Serum
+: .o . 115 N     _NORMANDY Georges            Le Train fant“me ş1929
+: .o . 125 N     _DWYER James-Francis         L'Antre de l'invisible [Jan Kromhout] ş1939 The Cave of the Invisible
+: .o . 145 N     _YERXA Leroy                 Terreur sur la ligne ş1947 Terror on the Phone
+: .o . 171 a     _LAIGLE Jean-Pierre          James Allison, h‚ros m‚connu de Robert E. Howard ş2022
+
+!-----------------------------------------------------------------------------
+_ ODS_IIN L'Oeil Du Sphinx - Les Insomniaques d'Innsmouth
+!-----------------------------------------------------------------------------
+o ODS_IIN     1  2011.xx ..... ISBN 2-914405-70-7
+} noimg          _Emmanuel Thilbault          ?
+- .oF.     R     _BOYER R‚mi                  Noces de sang … Bucarest ş2011
+o ODS_IIN     2  2014.11 ..... ISBN 979-10-91506-27-4
+} noimg          _Emmanuel Thilbault          ?
+- .oF.     R     _BOYER R‚mi                  Saudade sombre pour le roi cach‚ ş2014
+
+!-----------------------------------------------------------------------------
+_ ODS_EDA L'Oeil Du Sphinx - Les ‚tudes du Dr Armitage
 !-----------------------------------------------------------------------------
 o ODS_EDA     1  2013.05 ..... ISBN 979-10-91506-07-6
 } noimg          _Jeam Tag                    ?
@@ -40,10 +1625,10 @@ o ODS_EDA     5  2017.xx ..... ISBN 979-10-91506-63-2
 - .oS.     E     ****                         Les litt‚ratures maudites - Hommage … H.P. Lovecraft (1890 - 1937) - Actes du salon 2016 d‚di‚ … H.P. Lovecraft ş2017
 
 !-----------------------------------------------------------------------------
-_ ODS_BAA Ed. L'Oeil Du Sphinx, Coll. "La bibliothŠque d'Abdul Alhazred"
+_ ODS_BAA L'Oeil Du Sphinx - La bibliothŠque d'Abdul Alhazred
 !-----------------------------------------------------------------------------
 !--- Editions de L'Oeil du Sphinx (Association L'Oeil Du Sphinx - AODS)
-!--- Coll. "La bibliothŠque d'Abdul Alhazred"
+!--- Collection "La bibliothŠque d'Abdul Alhazred"
 !-----------------------------------------------------------------------------
 o ODS_BAA     ?  1998.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -58,35 +1643,21 @@ o ODS_BAA     ?  1998.xx ..... ISBN .-.....-...-.
 : .o .     N     _POSSAMAI Adam M.            Le Livre des cinq sphŠres - Annexe 1 ş1998
 : .o .     N     _PIOTELAT Elisabeth          Notes scientifiques - Annexe 2 ş1998
 : .o .     N     _SAUVAGE J‚r‚mi              Le Syndrome du tyranosaure ş1998
-o ODS_BAA     ?  19.?.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     N3    ****                         Rˆves d'ailleurs ş?
-: .o .     N     _NGUYEN Jean-Jacques         Rˆve de Chine ş1992
-: .o .     N     _NGUYEN Jean-Jacques         Incidents de vill‚giature ş1994
-: .o .     N     _NGUYEN Jean-Jacques         Les Architectes du rˆve ş1993
-o ODS_BAA     ?  19...xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     N2    ****                         Rˆves d'Arkham ş?
-: .o .     N     _NGUYEN Jean-Jacques         L'Ultime R‚alit‚ ş?
-: .o .     N     _NGUYEN Jean-Jacques         Swing, puzzle, Harlow ş?
 ?o ODS_BAA     ?  19...xx ..... ISBN .-.....-...-.
 ?} noimg          _?                           ?
 ?- .o .     .     _FERJAULY Jacky              Le Champ de Senev‚ ş?
 o ODS_BAA     ?  1998.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .oF.    _N9    ****                         L'Affaire du marlin bleu ş1998
-: .oF.     N     _IRAH Duncan d'              L'Affaire marlin bleu ş1998
-: .oF.     N     _FERJAULT Jacky              Monsieur Le Pr‚sident Directeur G‚n‚ral ş1998
-: .oF.     N     _HEURTEL Philippe            2667, l'odyss‚e de P‚hem ş1998
-: .oF.     N     _VALLET Dominik              Le MaŒtre des portes ş1998
-: .oF.     N     _NICOLOFF Lo‹c               Pmeu ş1998
-: .oF.     N     _PIOTELAT Elisabeth          Paris s'‚veille ş1998
-: .oF.     N     _LE GUYADER Serge            Le Mauvais Rˆve ş1998
-: .oF.     N     _THILL Christophe            Liber Portarum (P.M.) Editions Eye Of The Sphinx 1997 ş1998
-: .oF.     N     _CROW Walter                 La Porte hallucin‚e ş1998
-!--- Nota: ou BRENNER Frank ?
-
-
+- .oF.    _N9    ****                         L'Affaire du Marlin bleu ş1998
+: .oF.   2 N     _IRAH Duncan d'              L'Affaire du Marlin bleu ş1998
+: .oF.  12 N     _FERJAULT Jacky              Monsieur Le Pr‚sident Directeur G‚n‚ral ş1998
+: .oF.  20 N     _HEURTEL Philippe            2667, l'odyss‚e de P‚hem ş1998
+: .oF.  27 N     _VALLET Dominik              Le MaŒtre des portes ş1998
+: .oF.  36 N     _NICOLOFF Lo‹c               Pmeu ş1998
+: .oF.  45 N     _PIOTELAT Elisabeth          Paris s'‚veille ş1998
+: .oF.  48 N     _LE GUYADER Serge            Le Mauvais Rˆve ş1998
+: .oF.  55 N     _THILL Christophe            Liber Portarum ş1998
+: .oF.  63 N     _BRENNER Frank               La Porte hallucin‚e ş1998
 o ODS_BAA     1  2001.03 ..... ISBN 2-914405-02-2
 } noimg          _?                           ?
 - .o .     E     _BERGIER Jacques             Admirations ş1970
@@ -141,8 +1712,9 @@ o ODS_BAA    12  2013.xx ..... ISBN 979-10-91506-11-3
 o ODS_BAA    13  2013.xx ..... ISBN 979-10-91506-12-0
 } noimg          _?                           ?
 - .oS.     E     _CURVAL Philippe             Histoires de lire - Bibliographie illustr‚e et comment‚e ş2013
-o ODS_BAA    14  2014.xx ..... ISBN 979-10-91506-15-1
+o ODS_BAA    14  2014.10 ..... ISBN 979-10-91506-15-1
 } noimg          _Emmanuel Thibault           ?
+!--- ? - 150x230 - 364 pages
 - .oF.     E     _ALLART Patrice              Spectres, monstres & lovecrafteries - Stephen King, son oeuvre et son univers ş2014
 !--- Volume 15 :
 !---   Les secrets de la Bouche de l'enfer - Autour de la correspondance entre Fernando Pessoa et Aleister Crowley / sous la direction d'Emmanuel Thibault
@@ -153,7 +1725,7 @@ o ODS_BAA    17  2017.xx ..... ISBN 979-10-91506-62-5
 - .oF.     E     _ALLART Patrice              Psychose … Arkham - Les Itin‚raires de Robert Bloch et Ramsey Campbell ş2017
 
 !-----------------------------------------------------------------------------
-_ ODS_UNS Ed. L'Oeil Du Sphinx, Coll. "Archives de l'Universit‚ de Nouvelle Souabe"
+_ ODS_UNS L'Oeil Du Sphinx - Archives de l'Universit‚ de Nouvelle Souabe
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 o ODS_UNS     1  2005.06 ..... ISBN 2-914405-22-7
@@ -161,772 +1733,176 @@ o ODS_UNS     1  2005.06 ..... ISBN 2-914405-22-7
 - .o .     R     _ALBERNY Luc                 Le Mammouth bleu ş1935
 
 !-----------------------------------------------------------------------------
-_ ODS_ME1 Ed. L'Oeil Du Sphinx, Coll. Les manuscrits d'Edward Derby, 1Šre s‚rie
-_ ODS_MED Ed. L'Oeil Du Sphinx, Coll. Les manuscrits d'Edward Derby
+_ M&M     Marmite & Micro-onde
 !-----------------------------------------------------------------------------
-!--- Editions de L'Oeil du Sphinx (Association L'Oeil Du Sphinx - AODS)
-!--- Coll. "Les manuscrits d'Edward Derby"
+!--- Marmites & Micro-onde
+!--- Le fanzine de "l'imaginaire culinaire" !
+!--- Il en existe une version ‚lectronique, voir site www.oeildusphinx.com/marmitonde.htm
+!--- Cr‚‚ (en 2001) et dirig‚ par Philippe Heurtel
+!--- 9-11 rue des lavandiŠres St Opportune 75001 Paris
+!--- TBD : format ?
 !-----------------------------------------------------------------------------
-!--- premiŠre s‚rie - p‚riodique
-!-----------------------------------------------------------------------------
-o ODS_ME1     1  1993.01 ..... ISBN .-.....-...-.
+o M&M         1  2000.11 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     Mx    ****                         Les Manuscrits d'Edward Derby (janvier-f‚vrier 1993) ş1993
-!--- sans titre - antho sous la responsabilit‚ de : Philippe Marlin & Nicolas Miecret 
-: .oT.     N     _VIET David                  Sans remord ş1993
-?: .o .     N     _DUMAY Gilles                Symbiose lat‚rale ş?
-?: .o .     N     _DUMAY Gilles                Mariposa ş?
-o ODS_ME1     2  1993.08 ..... ISBN .-.....-...-.
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 1 (novembre 2001) ş2001
+: .o .   2 a     _WARD Philippe               Les Pieds d'ourson pan‚s ş2001
+: .oFY   3 N     _PROUST TANGUY Julie         La Truite ş2001
+: .oF.   4 N     _BOUDREAULT Jean-Claude      La Table ş2001
+: .oF.   6 N     _DELBE Alain                 Apocalypse ş1984
+: .o .   6 a     _PIERAUT Nicolas             La communion hebertienne : de l'‚pice au jaspe ş2001
+o M&M         2  2001.02 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .oF.     Mx    ****                         Les Manuscrits d'Edward Derby - Sp‚cial po‚sies fantastiques ş1993
-!--- Antho sous la responsabilit‚ de : Philippe Marlin
-: .o .     P     _GARRIDO Jean-Emile          Le Choeur des t‚nŠbres ş1993
-: .o .     P     _FERJAULT Jacky              Somnolence ş1993
-: .o .     P     _FERJAULT Jacky              Fantasme ş1993
-: .o .     P     _FERJAULT Jacky              Auto-portrait ş1993
-: .o .     P     _IRAH Duncan d'              La Cascade ş1993
-: .o .     P     _IRAH Duncan d'              Le Vaincu de la Non-Ere ş1993
-: .o .     P     _IRAH Duncan d'              Le Chaste Seigneur ş1993
-: .o .     P     _STEPHAN Bernard             Le Moulin ş1993
-: .o .     P     _STEPHAN Bernard             Souvenir d'un chƒteau ş1993
-: .o .     P     _NOVY Michel                 A la rencontre d'Ivanon ş1993
-: .o .     P     _NOVY Michel                 Invocation ş1993
-: .o .     P     _NOVY Michel                 Le Tombeau de H. P. Lovecraft ş1993
-: .o .     P     _NOVY Michel                 Souvenir x ş1993
-: .o .     P     _NOVY Michel                 Souvenir xx ş1993
-: .o .     P     _DUMAY Gilles                Angelina ş1993
-: .o .     P     _DUMAY Gilles                Les Cyons de la guerre ş1993
-: .o .     P     _RICHARD Thierry             Nuit ş1993
-: .o .     P     _LELOUP Fabienne             La Non-Vie ş1993
-: .o .     P     _ANZERAEY Emmanuel           Le Bassin ş1993
-: .o .     P     _MARLIN Philippe             Le Damn‚ ş1993
-: .o .     P     _BERNARD Chris               Oniroide ş1993
-: .o .     P     _SAINT BRIEUX                Les Magnifiques ş1993
-: .o .     P     _SAINT BRIEUX                Le Chemin ş1993
-: .o .     P     _SAINT BRIEUX                Lettre d'une exil‚e ş1993
-: .o .     P     _ROULLEAU Michel             Le Monstre de l'Œle flottante ş1993
-: .o .     P     _ROULLEAU Michel             L'Innom‚ ş1993
-: .o .     P     _BEJOT Pierre                La Cloche ş1993
-: .o .     P     _BEJOT Pierre                Imagine ş1993
-: .o .     P     _BIDCHIREN Olivier           Au-del… de la-haut ş1993
-: .o .     P     _BIDCHIREN Olivier           Oracle occulte ş1993
-: .o .     P     _BIDCHIREN Olivier           Etat de l'oiseau ş1993
-: .o .     P     _BIDCHIREN Olivier           Les Silhouettes de la libert‚ ş1993
-?o ODS_ME1     3  1994.03 ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
-?- .o .     Ax    *MARLIN Philippe             Les MaŒtres de sang ş?
-?o ODS_ME1     4  1994.xx ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
-?- .o .     ix    _NGUYEN Jean-Jacques         Rˆves d'Arkham ş?
-?o ODS_ME1     5  1995.04 ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
-?- .o .     ix    _NGUYEN Jean-Jacques         Rˆves d'ailleurs ş?
-o ODS_ME1     6  1999.07 ..... ISBN .-.....-...-.
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 2 ş2001
+: .oF.   3 N     _MERIEN Phil C.              App‚tit ş2001
+: .o-.   5 a     _MILLER Sylvie               Burn's Night Fare ş2001
+: .oF.   9 N     _LAFRAMBOISE MichŠle         C‚l‚bration ş2001
+: .? .   9 N     _GRAS Philippe               Le Vin du poŠte ş2001
+o M&M         3  2001.06 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     Ax    *THILL Christophe            Rˆves d'Innsmouth ş1999
-: .o .     N     _KAAN Jess                   PrŠs du lac ş1999
-: .o .     N     _PANIER-ALIX Claire          McFleet ş1999
-: .o .     N     _PANIER-ALIX Claire          De Santiago Michaele Archangelo ş1999
-: .o .     N     _SILHOL L‚a                  Maillon d'une ancienne chaŒne ş1999
-: .o .     N     _GARCIA Alexandre            L'Œle aux Sans Visages ş1999
-o ODS_ME1     7  1999.xx ..... ISBN .-.....-...-.
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 3 (juin 2001) ş2001
+: .oS.   2 N     _TOMASINI Olivier            L'Invasion des Palourdes g‚antes ş2001
+: .oF.   3 N     _DELBE Alain                 Le V‚g‚tarien ş2001
+: .? .   7 N     _MARLIN Philippe             Le Poulet … la Vlad Tepes ş2001
+: .oS.   7 N     _BERTIN Gille                Les Guˆpes ş2001
+: .oF.   8 N     _PROUST TANGUY Julie         La Soupe … la grimace ş2001
+: .o-.   9 a     _HEURTEL Philippe            Le SiŠge de Paris de 1870 ş2001
+o M&M         4  2002.11 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     Mx    *THILL Christophe            Les Mondes perdus ş1999
-: .o .     N     _PANIER-ALIX Claire          Ultimes vestiges ş1999
-: .o-.     a     _PANIER-ALIX Claire          Arda et la Terre du Milieu (dossier Tolkien) ş1999
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 4 ş2002
+: .oS.   2 N     _CAZA Philippe               La Nuit des lasagnes ş2002
+: .oS.   2 N     _PROUST TANGUY Julie         Le Gƒteau de larmes ş2002
+: .oS.   4 N     _VALLET Dominik              Guet-apens ş2002
+: .oS.   4 N     _DORNY Jennie                D‚rive ş2002
+: .oS.   9 N     _BAUDOUY Herv‚               Les Courgettes ş2002
+: .oS.  10 N     _HEURTEL Philippe            Edgar ş2002
+: .o-.  12 a     _RIVERA Jean-Luc             Rencontre de type alimentaire ş2002
+o M&M         5  2002.05 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 5 ş2002
+: .oS.   1 N     _CAZA Philippe               Monstre ş2002
+: .o .   2 N     _LENN Jonas                  Jack et les haricots ş2002
+: .oS.   4 N     _SPEN J‚r“me                 Le Festin imaginaire ş2002
+: .oS.   7 N     _BALAY Matthieu              Les Fourneaux du destin ş2002
+: .oS.   9 N     _COURTEJOIE Th‚o             Gnomes r“tis aux champignons des bois ş2002
+: .oS.  11 h     _HEURTEL Philippe            Harry Cover … l'‚cole des cuisiniers ş2002
+: .oS.  12 N     _SAMEC-LUCIANI Annette       Citrons ş2002
+o M&M         6  2002.09 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 6 ş2002
+: .oS.   1 N     _CAZA Philippe               Brocolis go home ! ş2002
+: .oS.   3 N     _BINOIS Franck               Une soir‚e … l'Universalis ş2002
+: .oS.   5 N     _BERROUKA Karim              L'Indigestion ş2002
+: .oS.   8 N     _GAZOUFER Didier             Le Gigot de sept heure ş2002
+: .oS.   9 N     _DUMONT Claude               L'Astronef de la derniŠre chance ş1963
+: .oS.  11 N     _TOURNEL Fabien              L'Homme qui chaque matin traverse le pont ş2002
+: .oS.  12 N     _DEGLI Line                  Destin ş2002
+o M&M         7  2003.03 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 7 ş2003
+: .oF.   1 N     _SAMEC-LUCIANI Annette       KouKou ş2003
+: .oS.   3 N     _QUAREZ Ronan                Les Vickings ş2003
+: .oF.   3 T     _SPEN J‚r“me                 Homlet ş2003
+: .oT.   4 N     _LELIO                       Nocturne ş2002
+: .oS.  10 N     _BRIAND Ga‰l                 L'Astropoulet ş2003
+: .? .  11 P      WASSONG Tanguy              Coeur d'artichaut ş2003
+: .? .  12 N      BAUDURET Thomas             L'Attaque de la moussaka g‚ante ş2003
+o M&M         8  2003.06 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 8 ş2003
+: .oS.   1 N     _BERROUKA Karim              Guide intergalactique de la pizza (1) : Meldge ş2003
+: .oST   3 N     _TOMASINI Olivier            Le Bˆlement des agneaux ş2003
+: .oS.   4 N     _CURVAL Philippe             Pourquoi fermer Gibraltar ? ş2003
+: .oS.   4 N     _MEZIERE Violaine            La Sauce du d‚but du Monde ş2003
+: .? .   6 P      FONTAYNE Micha‰l            Le corbeau et le renard : la revanche (2003)
+: .oS.   7 N     _RENAUDIE Jean-Marc          Mangez du fer ş2003
+: .x .   8 N     _BETTINELLI Sandrine         Le Go–t du pain ş2003
+: .oS.   9 N     _GECHTER Olivier             La Mousse ş2003
+o M&M         9  2003.10 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- Note : "Le go–t des autres" et un article sur l'anthrophagie dans les films
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 9 ş2003
+: .? .   1 P     _HYVRARD Jeanne              N‚nuphars ş2003
+: .oFH   2 N     _CHARMANT Joan               Mange, ‡a fait grandir ş2003
+: .oF.   3 N     _BERROUKA Karim              Le Sablier ş2003
+: .x-.   5 a     _THILL Christophe            Le Go–t des autres ş2003
+: .xM.   8 N     _BETTINELLI Sandrine         La Recette du vin chaud ş2003
+: .oY.   9 N     _FERMACH H‚lŠne              Recette contre la d‚prime ş2003
+: .oF.  10 N     _GECHTER Olivier             Les Chiens de Jean-Pierre ş2003
+: .? .  10 P     _BELHAIRE Herv‚              Bars et buveurs ş2003
+: .oS.  12 N     _BERROUKA Karim              Guide intergalactique de la pizza (2) : PlanŠte bleue ş2003
+o M&M        10  2004.03 ..... ISBN .-.....-...-.
+} noimg          _?                           Audrey Isbled, S‚bastien Gollut.
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 10 ş2004
+: .? .   1 N     _HEURTEL Philippe            Pour les digestions difficiles ş2004
+: .? .   2 N     _CORLAIX Vincent             V‚g‚tarien ş2004
+: .? .   3 N     _BERROUKA Karim              Le Guide galactique des pizzas ş2004
+: .? .   4 N     _GOLLUT S‚bastien            Pas ‚tonnant quand on voit la gueule d'un chicken wing ş2004
+: .? .   5 N     _BERAHAL Karim               Ce plat qui est le mien ş2004
+: .? .   7 N     _GRENIER Pierre              List‚riose ş2004
+: .? .   8 N     _WASSONG Tanguy              Cuisine moderne, entre amis ş2004
+: .? .   9 N     _TEULADE Daniel              Immo... globine ş2004
+: .? .  10 a     _GOLLUT S‚bastien            Marmite et micro-onde, 3 ans d'amour ş2004
+: .? .  11 N     _FONTAYNE Micha‰l            Le Renard et le fromage ş2004
+: .? .  12 N     _MEZIERE Violaine            Sussuc P‚n‚lope ? ş2004
+o M&M        11  2004.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 11 ş2004
+: .? .   1 N     _BERROUKA Karim              Le Guide de la pizza nø4 ş2004
+: .? .   2 N     _PAUL J‚r“me                 Confits d'oie ş2004
+: .o .   3 N     _CHENU Lucie                 Le Th‚ƒtre de Barbe Bleue ş2004
+: .? .   6 ?     _BALLY Nico                 &Magie ş2004
+&                _GECHTER Olivier             
+: .o .   8 N     _CARDOL Pierre               Le Satyre puant ş2004
+: .? .   8 N     _BETTINELLI Sandrine         Pain chocolat ş2004
+: .? .   9 N     _TRUMEAU Didier              Chapeau ! ş2004
+: .? .  12 N     _GOLLUT S‚bastien            Poisson goulu ş2004
+o M&M        13  2005.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 13 (septembre 2005) ş2005
+: .o .     N     _SCHNEBELEN Fran‡ois         Tout est dans le titre ş2005
+: .oS.     N     _BRIAND Ga‰l                 Massacre … l'‚conomiseur ş2005
+o M&M        14  2006.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 14 (mars 2006) ş2006
+: .oS.     N     _BRIAND Ga‰l                 Les Trois Chauves ş2006
+: .oS.     N     _BRENNE C‚line               Si j'‚tais un poisson pan‚ ş2006
+o M&M        15  2006.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 15 ş2006
+: .o .     N     _GECHTER Olivier             Le Go–t de l'ambroisie ş2006
+o M&M        16  2006.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 16 (septembre 2006) ş2006
+: .oS.     N     _BRIAND Ga‰l                 Une sant‚ de fer ş2006
+o M&M        17  2007.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 17 (mars 2007) ş2007
+: .oS.     N     _BRIAND Ga‰l                 Le Raison de la colŠre ş2007
+o M&M        18  2007.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 18 (ao–t 2007) ş2007
+: .oS.     N     _BRIAND Ga‰l                 L'pop‚e du Grand Mog ş2007
+o M&M        19/ 2007.xx ..... ISBN .-.....-...-.
+/            20
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 19-20 (novembre 2007) ş?
+: .oS.     N     _BRIAND Ga‰l                 La Quˆte ş2007
+o M&M        21  2008.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 21 (juin 2008) ş2008
+: .oS.     N     _PLANQUE Jean-Pierre         Pour un plat de Cornigoules ş1990
+o M&M        22  2009.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 21 (f‚vrier 2009) ş2009
+o M&M        23  2009.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .pI.     Mx    ****                         Marmite & Micro-onde nø 23 (ao–t 2009) ş2009
 
 !-----------------------------------------------------------------------------
-!--- La Collection
+_ M&MHS   Marmite & Micro-onde Hors-S‚rie
 !-----------------------------------------------------------------------------
-o ODS_MED     1i 2000.10 ..... ISBN 2-914405-00-6
+o M&MHS       2  2008.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .oS.    _A17   *HEURTEL Philippe            Rˆves d'Alta‹r ş2000
-: .o .     N     _NEYRET Fabrice              Continuit‚ ş2000
-: .o .     N     _ESPEL LIMAT Roger           Simulation ş2000
-!--- TBC ou ESPEL LLIMA ?
-: .o .     N     _SEASSAU Marc                Animal ş2000
-: .o .     N     _REBUFAT Fran‡ois            A son image ş2000
-: .o .     N     _ARIBAUD Albert              Veloxoper ş2000
-: .o .     N     _CHERITAT Arnaud             Fourmiland ş2000
-: .oS.     N     _VALLET Dominik              Guerre sans faim ş2000
-: .o .     N     _BEC Jean-Louis              Energie libre ş2000
-: .o .     N     _REBUFAT Fran‡ois            Sur la mˆme longueur d'onde ş2000
-: .o .     N     _SEASSAU Marc                Temps de chien ş2000
-: .o .     N     _LEBEAU St‚phanie            Terrˆve ş2000
-: .o .     N     _SICART Pierre-Alexandre     Comment j'ai sauv‚ la terre des martiens ş2000
-: .o .     N     _MARTIN Herv‚                Mascarade ş2000
-: .o .     N     _ANCELET Lionel              Sonate posthume ş2000
-: .o .     N     _CHERITAT Arnaud             Star stress ş2000
-: .o .     N     _LEGLOAHEC Eric              La Voix des ‚toiles ş2000
-: .o .     N     _JUBERT Herv‚                L'entropie est une salope ! [La BibliothŠque noire] ş2000
-o ODS_MED     2i 2000.09 ..... ISBN 2-914405-01-4
-!--- Num‚ro deux, mais premier imprim‚
-} noimg          _?                           ?
-- .oI.     Px    _PROUST TANGUY Julie         Fantasmique et Fa‰rie - Parcours po‚tique ş2000
-o ODS_MED     3  2001.10 ..... ISBN 2-914405-05-7
-} noimg          _?                           ?
-- .o .     A17   *MARLIN Philippe             Rˆves d'absinthe ş2001
-: .o .     N     _THIBAULT Emmanuel           L'Absente ş2001
-?: .o .     N     _QUEIROS E‡a de              M‚moires d'une potence ş2001
-: .o .     N     _VENETZA Dean                Songes d'Isis ş2001
-: .oF.     N     _PROUST TANGUY Julie         L'ƒme en peine ş2001
-: .o .     N     _JOHNSSON Henrik             La Conception ş2001 ?
-: .o .     N     _GRAS Philippe               Le Jeu du destin ş2001
-?: .o .     N     _CROWLEY Aleister            L'preuve d'Ida Pendragon ş2001
-: .o .     N     _DOLLO Xavier                La Voix de monsieur Ambrose ş2001
-: .o .     N     _SILHOL L‚a                  Lucifer opiomane ş1998
-: .o .     N     _VON SIRIUS Lilith           Prˆtresse de Babalon ş2001
-: .o .     N     _BOUDREAULT Jean-Claude     &Le FrŠre de G‚latine ş2001
-&                _MAJOUR Bernard              
-: .o .     N     _FERJAULT Jacky              B‚r‚zina ş2001
-: .o .     N     _KAAN Jess                   Ma p'tite grosse ş2001
-?: .o .     N     _GENTILHOMME Serena         &Pour quelques larmes de Mezcal ş?
-?: .o .           _BOLDUC Claude               ? ş?
-: .o .     N     _GENTILHOMME Serena          Bout du rouleau ş2001
-: .o .     N     _BOLDUC Claude               Mezcal ş2001
-: .o .     N     _PISSIER Philippe            In cauda venenum ş2001
-: .o .     N     _BOLDUC Claude               Ton jus savoureux ş2001
-o ODS_MED     4  2002.08 ..... ISBN 2-914405-09-X
-} noimg          _?                           ?
-- .o .    _A21   *THILL Christophe            Rˆves d'Ulthar, 21 histoires de chats fantastiques ş2002
-: .o .     p     _THILL Christophe            Pr‚face ş2002
-: .o .     N     _POE Edgar Allan             Le Chat noir ş1843 The Black Cat
-: .o .     N     _GENTILHOMME Serena          Fondue au noir ş2002
-: .o .     N     _DELBE Alain                 Les Trois Fils du Shogun ş2002
-: .o .     N     _KAAN Jess                   Plus que chat ş2002
-: .o .     N     _SCHWARTZMANN Jacky          Maman et la mort ş2002
-: .o .     N     _FERJAULT Jacky              Aboulie ş2002
-: .o .     N     _LE BUSSY Alain              La Fille qui vendait des chats ş2002
-: .o .     N     _VALLET Dominik              L'chappatoire ş2002
-: .o .     N     _MINNIS Mike                 La Vie des chats fant“mes ş? ?
-: .o .     N     _SILHOL L‚a                  Dialogue avec les ombres ş2002
-: .o .     N     _LE MEVEL Gwena‰l            M‚lia ş2002
-: .o .     N     _FERRIEU Sylvain             Le Matagot de la M–re ş2002
-: .o .     N     _FAZI M‚lanie                Silmaril ş2002
-: .o .     N     _SEIGNOLLE Claude            Celui qui s'y frotta ş1967
-: .o .     N     _CANNON Peter H.             Le Vieux ş? Old Man
-: .o .     N     _PAILLER Jean                Le Professeur perch‚ ş2002
-: .o .     N     _ROLLET Serge                Conte de poivrot ş2002
-: .oF.     N     _PROUST TANGUY Julie         Quand le chat n'est pas l… ş2002
-: .o .     N     _BOLDUC Claude               Ta gueule, Fritz ! ş2002
-: .o .     N     _CERVERA MERINO L.V.         Bois-Joli ş2002
-: .o .     N     _MILLER Sylvie              &Mau ş2002
-&                _WARD Philippe               
-o ODS_MED     5  2002.09 ..... ISBN 2-914405-11-1
-} noimg          _Rorza Tatar                 ?
-- .oF.     N24   *GENTILHOMME Serena          Noires soeurs - Antiphonaire sacrilŠge en 24 chants ş2002
-: .oF.     N     _BEAULIEU Natasha            La Milliriard ş1992
-: .oF.     N     _BENXAYER Morrad             La Queue de discorde ş2002
-: .oF.     N     _BOLDUC Claude               Toujours plus bas ş1997
-: .oF.     N     _COLIN Fabrice               Coupable, non coupable ? ş2002
-: .oF.     N     _CURVAL Philippe             Bonne r‚ponse ş2002
-: .oF.     N     _DELBE Alain                 Le Baiser du Sphinx ş2002
-: .oF.     N     _DOKE Sara                   333 La tentation des neuf ş2002
-: .oF.     N     _DUGUEL Anne                 Portrait d'un ‚corch‚ en costume marin ş2002
-: .oF.     N     _ERIS Patrick                Nuit moite ş2002
-: .oF.     N     _FAZI M‚lanie                Le Passeur ş2002
-: .oF.     N     _FUENTES Roland              Maladite ş2002
-: .oF.     N     _GERAULT Jean-Fran‡ois       La Beaut‚ du diable ş2002
-: .oF.     N     _GIRARD Johanne              Sarabande ş2002
-: .oF.     N     _LABBE Denis                 Masquarade ş2002
-: .oF.     N     _LAURIER Andr‚e              Le Nom de la chose ş2002
-: .oF.     N     _LE BUSSY Alain              La Fille qui capturait le temps ş2002
-: .oF.     N     _LECONTE Marianne            Une golfeuse ‚m‚rite ş2002
-: .oF.     N     _LELOUP Fabienne             Le Bruit de la chasse d'eau ş2001
-: .oF.     N     _LENN Jonas                  Malin et demi ş2002
-: .oF.     N     _MILLET Gilbert              Le Disque de chevet ş2002
-: .oF.     N     _PAGEL Michel                Mille pattes [La Com‚die inhumaine] ş2002
-: .oF.     N     _PARGADE Laura               La Voisine ş2002
-: .oF.     N     _RICHARD Bernadette          Ereiss! Uopala! ·ren Ruoterle BabtŠ! ş2002
-: .oF.     N     _RUELLAN Andr‚               Un th‚ au bourbon ş2002
-: .oF.     N     _SPEHNER Norbert             Satanigrad, ou le sourire du d‚mon ş2002
-o ODS_MED     6  2004.11 ..... ISBN 2-914405-18-9
-} ods_derby_06   _?                           N
-- .oF.    _N12   _HEURTEL Philippe            Puzzles ş2004
-!--- Pr‚face
-: .o .     N     _HEURTEL Philippe           ÿFenˆtres de l'ƒme ş2004
-: .o .     N     _HEURTEL Philippe            Coeur de glaise ş2001
-: .o .     N     _HEURTEL Philippe           ÿPuzzles ş2004
-: .o .     N     _HEURTEL Philippe            La Lampe ş2004
-: .o .     N     _HEURTEL Philippe            Double vie ş2004
-: .o .     N     _HEURTEL Philippe            La Nuit du pr‚dateur ş2000
-: .o .     N     _HEURTEL Philippe            Anniversaire ş2004
-: .o .     N     _HEURTEL Philippe            Le Manuscrit ş2000
-: .o .     N     _HEURTEL Philippe            R‚veillon ş2004
-: .o .     N     _HEURTEL Philippe           ÿL'Amante ş2004
-: .o .     N     _HEURTEL Philippe           ÿGraffitis ş2004
-: .o .     N     _HEURTEL Philippe            La F‚e de Londres ş2001
-o ODS_MED     7  2005.09 ..... ISBN 2-914405-23-5
-} ods_derby_07   _?                           N
-- .oF.    iNx    _THIBAULT Emmanuel           Cimia ş2005
-: .oF.     N     _THIBAULT Emmanuel           Pour la gloire des Gl“mes ş2005
-: .oF.     N     _THIBAULT Emmanuel           Jack le jaquar et le vampires ş2005
-: .oF.     N     _THIBAULT Emmanuel           Sauvez Kiki ş2005
-: .oF.     N     _THIBAULT Emmanuel           Le Monde oubli‚ ş2005
-: .oF.     N     _THIBAULT Emmanuel           L'Histoire du vampire … grande bouche ş2005
-: .oF.     N     _THIBAULT Emmanuel           L'Absente ş2005
-: .oF.     N     _THIBAULT Emmanuel           Mandragora ş2005
-: .oF.     N     _THIBAULT Emmanuel           Goth verdammt ş2005
-: .oF.     N     _THIBAULT Emmanuel           N‚crophagie ş2005
-: .oF.     N     _THIBAULT Emmanuel           Cimia ş2005
-: .oF.     N     _THIBAULT Emmanuel           Une histoire sans commencement ş2005
-: .oF.     N     _THIBAULT Emmanuel           A bord du vaisseau noir ş2005
-o ODS_MED     8  2006.11 ..... ISBN 2-914405-35-9
-} ods_derby_08   _?                           N
-- .oF.    _N8    _HEURTEL Philippe            Zones franches ş2006
-: .oF.     N     _HEURTEL Philippe            La D‚chirure ş2000
-: .oF.     N     _HEURTEL Philippe            Les Reflets mauves des derniers matins ş2006
-: .oF.     N     _HEURTEL Philippe            Zone franche ş2000
-: .oF.     N     _HEURTEL Philippe            Les Larmes d'Ihad‚e ş2006
-: .oF.     N     _HEURTEL Philippe            Le Train ş2006
-: .oF.     N     _HEURTEL Philippe            Temps de guerre ş2001
-: .oF.     N     _HEURTEL Philippe            Souvenirs de Paraiso ş2006
-: .oF.     N     _HEURTEL Philippe            Ghost Avenue ş2006
-o ODS_MED     9  2007.xx ..... ISBN 2-914405-37-5
-} ods_derby_09   _?                           N
-- .oF.    kN14   _LE BUSSY Alain              Les Filles d'Alain le Bussy ş2007
-: .oF.     N     _LE BUSSY Alain              La Fille qui veillait sur le quai A ş2007
-: .oF.     N     _LE BUSSY Alain              La Fille qui ne laissait pas de traces sur le sable ş2007
-: .oF.     N     _LE BUSSY Alain              La Fille qui avait su se retenir ş2002
-: .oF.     N     _LE BUSSY Alain              La Fille qui dansait les quatre saisons ş1999
-: .oF.     N     _LE BUSSY Alain              La Fille qui ‚crivait des poŠmes sans mots ş1995
-: .oF.     N     _LE BUSSY Alain              La Fille qui capturait le temps ş2002
-: .oF.     N     _LE BUSSY Alain              La Fille qui vendait des chats ş2002
-: .oF.     N     _LE BUSSY Alain              La Fille qui peignait les nuages ş2007
-: .oF.     N     _LE BUSSY Alain              La Fille qui ‚tait volup... tueuse ş2002
-: .oF.     N     _LE BUSSY Alain              La Fille qui avait peur de l'eau ş1995
-: .oF.     N     _LE BUSSY Alain              La Fille qui chassait la pluie ş2004
-: .oF.     N     _LE BUSSY Alain              La Fille qui souffrait d'arachnophobie ş2007
-: .oF.     N     _LE BUSSY Alain              La Fille qui d‚testait la routine ş2007
-: .oF.     N     _LE BUSSY Alain              La Fille qui faisait tinter la caisse ş2007
-!--- Volume 10 :
-!---   L'affaire des vierges de glace - une enquˆte in‚dite de Sherlock Holmes / Sophie Bellocq-Poulonis
-!--- Volume 11 :
-!---   Mycroft's testimony  / Sophie Bellocq-Poulonis
-o ODS_MED    12  2011.11 ..... ISBN 978-2-914405-71-3
-} ods_derby_12   _?                           N
-- .oF.    iNx    _HEURTEL Philippe            Blanc comme un ast‚ro‹de ş2011
-o ODS_MED    13  2013.03 ..... ISBN 979-10-109150601-4
-} ods_derby_13   _?                           N
-!--- Trad. HAUTEPIERRE Jean
-- .o .    iPx    _SMITH Clark Ashton          Celui qui marchait parmi les ‚toiles - Choix de poŠmes cosmiques ş2013
-o ODS_MED     ?  2013.09 ..... ISBN 979-10-91506-09-0
-} noimg          _?                           N
-- .oFS     N14   *NOLANE Richard D.           La BibliothŠque d'Atlantis - Nouvelles in‚dites d'un pass‚ myst‚rieux ş2013
-: .o .     p     _NOLANE Richard D.           Pr‚face ş2013
-: .o .     N     _BEDUNEAU GeneviŠve          Un soir … l'auberge ş2013
-: .o .     N     _MOREAU Charles              Celui qui peignait l'Atlantide ş2013
-: .o .     N     _LEGAY Piet                  Autodestruction ş2013
-: .o .     N     _ROSSI Anne                  La grande bibliothŠque ş2013
-: .o .     N     _REBOUSSIN Didier            Un coup de grisou ş2013
-: .o .     N     _GELLON Marianne             Une banque en cornouailles ş2013
-: .o .     N     _VINGERT Sylvain             En des temps troubl‚s ş2013
-: .o .     N     _RAYMOND Jean-Paul           Les Murailles de Nan Madol ş2013
-: .o .     N     _LUONG Aur‚lie               Premier D‚luge ş2013
-: .o .     N     _ARCHAIMBAULT Jean-Michel    La Terre est vraiment ronde ş2013
-: .o .     N     _MOLES Dominique             Anges d‚chus par la vie ş2013
-: .o .     N     _HAY Tepthida                Sous le silence des pierres ş2013
-: .o .     N     _DARVEL Robert               Les Revenants de l'Ile de Pƒques ş2013
-: .o .     N     _GENEVAUX Patrick            Le Champs des morts ş2013
-: .o .     N     _FERJAULT Jacky              Pharos ş2013
-: .o .     N     _KAAN Jess                   Reflets d'un ancien monde ş2013
-o ODS_MED    14  2015.xx ..... ISBN 979-10-91506-37-3
-} ods_derby_14   _?                           N
-- .oF.     N18   *NOLANE Richard D.           Nouvelles d'outre-mort ş2015
-: .o .     p     _NOLANE Richard D.           Pr‚face ş2015
-: .o .     N     _CAUSSARIEU Morgane          Le Syndrome de Pan ş2015
-: .o .     N     _BLAIZOT Lydie               La Quˆte ş2015
-: .o .     N     _FIEROBE Fran‡ois            Guide du mus‚e de l'en-de‡a ş2015
-: .o .     N     _CAUSSARIEU Morgane          PremiŠre victime ş2015
-: .o .     N     _CENDREVILLE Fabert          Le Ressuscitu‚ ş2015
-: .o .     N     _JOUANNAIS Jean-Jacques      Un sang impur ş2015
-: .o .     N     _KAAN Jess                   Rip M. Delpierre ş2015
-: .o .     N     _PEZENNEC Jean               Tous ensemble ş2015
-: .o .     N     _DARVEL Robert               Le Bruit des os ş2015
-: .o .     N     _LALLOT L‚o                  Hell 2.0 ş2015
-: .o .     N     _PLANQUE Jean-Pierre         La Peur de sa vie ş2015
-: .o .     N     _QUEVAINE Pierre             Nettoyeurs ş2015
-: .o .     N     _MONGRAIN Pierre-Louis       Mort active ş2015
-: .o .     N     _BOODO Sylvain               Un ‚tage avant l'enfer ş2015
-: .o .     N     _MEZIN Guillaume             Jusqu'… ce que la mort nous s‚pare ş2015
-: .o .     N     _AERNOUT Eva                 Kannerezed Noz ş2015
-: .o .     N     _REBOUSSIN Didier            La Madelon ş2015
-: .o .     N     _RICHARD Gaston-Charles      La Terrible Exp‚rience du Dr. C. Bell ş1905
-o ODS_MED    15  2016.02 ..... ISBN 979-10-91506-38-0
-} ods_derby_15   _?                           N
-- .o .     R     _HAUTEPIERRE Jean            Le Roi en jaune ş2015
-o ODS_MED    16  2016.11 ..... ISBN 979-10-91506-52-6
-} ods_derby_16   _Jean-Pierre Normand         N
-- .o .     R     _DARLTON Clark               Le Cercle des neufs ş1983 Die neun Unbekannten şTrad? ARCHAIMBAULT Jean-Michel
+- .pI.    iMx    ****                         Marmite & Micro-onde Hors-S‚rie nø 2 ş2008
+: .oF.     N     _GECHTER Olivier             Les Chiens de Jean-Pierre ş2003
 
-!-----------------------------------------------------------------------------
-_ ODS_FC  Ed. L'Oeil Du Sphinx, La feuille de la compagnie
-!-----------------------------------------------------------------------------
-!--- Editions de L'Oeil du Sphinx (Association L'Oeil Du Sphinx - AODS)
-!-----------------------------------------------------------------------------
-!--- ISBN 2-914405-07-3 novembre 2001
-
-!-----------------------------------------------------------------------------
-_ ODS_GF  Ed. L'Oeil Du Sphinx, La gazette fort‚enne
-!-----------------------------------------------------------------------------
-!--- Editions de L'Oeil du Sphinx (Association L'Oeil Du Sphinx - AODS)
-!-----------------------------------------------------------------------------
-!--- ISBN 2-914405-10-3
-
-!-----------------------------------------------------------------------------
-_ ODSDMI  Ed. L'Oeil Du Sphinx, Dragon et Microchips
-_ ODSDMI2 Ed. L'Oeil Du Sphinx, Dragon et Microchips, nouvelle s‚rie
-_ ODSDMIH Ed. L'Oeil Du Sphinx, Dragon et Microchips HS
-!-----------------------------------------------------------------------------
-!--- Dragon et Microchips (France)
-!--- Edite par l'oeil du sphinx
-!--- N‚ en 1991 sous l'impulsion de Nicolas Miecret et Philippe Marlin
-!--- mailto:Nicolas Miecret<nicdouille@infonie.fr>
-!--- Origine : JdR et jeux micro
-!--- Responsable Philippe Marlin (pmarlin@infonie.fr)
-!--- Il existe deux HS Le bulletin de l'universit‚ du Miskatonic HS1 et
-!---  les manuscrits d'Edward Derby HS1
-!-----------------------------------------------------------------------------
-o ODSDMIH     1  1993.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips HS nø 1 ş1993
-: .o .     N     _PANIER Claire               L'Archipel du temps perdu ş1993
-o ODSDMIH     3  1994.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips HS nø 3 ş1994
-: .o .     N     _PANIER Claire               Ce que ce fut ş1994
-: .oF.     N     _FAIRMARCH Duncan            La Forˆt ş1991
-
-o ODSDMI      5  1982.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips nø 5 ş1982
-: .o .     N     _DUMAY Gilles                De peur d'attendre les enfants de CerbŠre ş1982
-: .o .     N     _DUMAY Gilles                Futur parcellaire ş1982
-o ODSDMI      6  1983.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips nø 6 ş1983
-: .o .     N     _NGUYEN Jean-Jacques         Les dieux ne sont plus ici ş1983
-o ODSDMI      8  1993.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips nø 8 ş1992
-: .o .     N     _FERRIEU Sylvain             Tourn‚ vers l'occident ş1993
-o ODSDMI      9  1995.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips nø 9 (juin-juillet) ş1995
-: .o .     N     _DOLLO Xavier                SolŠne ş1995
-: .o .     N     _POSSAMAI Adam M.            Lilith ş1995
-o ODSDMI     10  1995.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     M6    ****                         Dragon et Microchips nø 10 (janvier-f‚vrier 1996) ş1995
-: .o .     N     _PANIER Claire               Le Fantasme et le coucou ş1995
-o ODSDMI     11  1996.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips nø 11 ş1996
-: .o .     N     _ARIBAUD Arthur              Le Bienfaiteur ş1996
-: .o .     N     _SAUVAGE J‚r‚mi              H.P. ş1996
-: .o .     N     _IRAH Duncan d'              Le Templier de Morgnelais ş1995
-: .oS.     N     _VALLET Dominik              De source s–re ş1996
-?: .o .     N     _BONNO Laurent               Vengeance post-mortem ş1996
-?: .o .     N     _COLIN J‚r“me                Que la Fˆte continue ş1996
-?: .o .     N     _BIDEL Guy                   Antonin et les "anciens" ş1996
-?: .o .     N     _DAY Thomas                  Cheyenne Hiver ş1996
-o ODSDMI     12  199..xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips nø 12 ş?
-?: .o .     N     _CONRAD Daniel               Retrouvailles ş?
-?: .o .     N     _NICOLOFF Lo‹c               Op‚ration Baskerville ş?
-?: .o .     N     _BERENGER J‚r‚mi             Belle comme la mort ş?
-: .oS.     N     _SAUVAGE J‚r‚mi              Le‡on d'exosexualit‚ nø1 ş1997
-?: .o .     N     _GARRIDO Jean-Emile          La Main d‚chir‚e ş?
-?: .o .     N     _KILLPATRICK Nancy           G‚n‚ration pourquoi ş?
-?: .o .     N     _BIDCHIREN Olivier           La nuit, tout est gris ş?
-o ODSDMI     13  1997.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips nø 13 (novembre 97) ş1997
-: .o .     N     _POSSAMAI Adam M.            Antarctique ş1997
-: .oY.     N     _SAUVAGE J‚r‚mi              Br–lera bien qui br–lera le dernier... ş1997
-o ODSDMI     14  199..xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips nø 14 ş?
-?: .o .     N     _SAUVAGE J‚r‚mi              Flocons de neige ‚ternelle ş?
-?: .o .     N     _CLORE Dan                   L'Empereur Ausso ş?
-?: .o .     N     _HEURTEL Philippe            Les Reflets mauves des derniers matins ş?
-?: .o .     N     _CONRAD Daniel               L'Ombre des Ombres ş?
-?: .o .     N     _?                           Nancy (Kilpatrick) for ever ş?
-?: .o .     N     _KILPATRICK Nancy            La Base d'un Triangle ş?
-?: .o .     N     _FERJAULT Jacky              Les P'tits boulots ş?
-o ODSDMI     15  1998.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips nø 15 ş1998
-: .o .     a     _DOLLO Xavier                Artahe, ou comment Philippe Ward fait une entr‚e fracassante dans le milieu fantastique ş1998
-: .o .     a     _DOLLO Xavier                L'Affaire Blade & Baker ş1998
-: .x .     N     _VALLET Dominik              Voyage au bout de la vie ş1998
-: .o .     N     _METAYER Lydie               Petite histoire sans nom ş1998
-?: .o .     N     _BERENGER J‚r‚my             Double malentendu ş1998
-?: .o .     N     _ROLLET Serge                L'tranger ş1998
-?: .o .     N     _FERJAULT Jacky              L'Enfant du froid ş1998
-: .o .     N     _POSSAMAI Adam M.            Rˆve de saucisson ş1997
-?: .o .     N     _?                           Le Rˆveur, Henrik Johsonn ş?
-?: .o .     N     _?                           Simon Grandes Mains, Rumatha ş?
-: .o .     N     _WARD Philippe               Les Vignes du seigneur ş1998
-o ODSDMI     16  1999.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips nø 17 - En compagnie du roi en jaune ş1999
-!--- En compagnie du Roi en jaune, l'univers fantastique de Robert W. Chambers
-!--- Num‚ro r‚alis‚ par Christophe Thill
-: .o .     N     _JOHNSSON Henrik             La Folie du roi ş2001 The Madness of the King şTrad. ?
-: .o .     N     _PULVER Joseph S. Sr.        A mon bien-aim‚ ş? ? şTrad. ?
-?: .o .     N     _LIROT Aline                 Le D‚guisement du roi ş1999
-: .oF.     N     _TYNES John                  Ambrose ş1996 Ambrose şTrad. ?
-: .o .     P     _PULVER Joseph S. Sr.        Une file de questions ş1999 A Line of Questions şTrad. ?
-: .o .     N     _JOHNSSON Henrik             Fifi et son bonbon ş1999 Fifi and her Bonbon şTrad. ?
-: .oF.     N     _TYNES John                  Broadalbin ş1998 Broadalbin şTrad. ?
-: .o .     N     _BIERCE Ambrose              Un habitant de Carcosa ş1886 An Inhabitant of Carcosa şTrad. ?
-: .o .     N     _PULVER Joseph S. Sr.        Les Visages d'Elle ş1998 The Face of She şTrad. ?
-o ODSDMI     17  2000.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Ax    ****                         Encyclop‚die des mondes perdus ş2000
-: .o .     N     _DOLLO Xavier                Avaren, le peuple oubli‚ ş2000
-o ODSDMI     18  2000.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips nø 18 (septembre-octobre 2000) ş2000
-: .oF.     N     _PROUST TANGUY Julie         Ver ş2000
-?: .o .     BD    _POSSAIMI Adam               A miniature for love ş?
-?: .o .     N     _DELBE Alain                 La V‚rit‚ sur Alexis Chandhor ş?
-?: .o .     N     _POSSAMAI Adam               Rˆve de Sanglochon ş?
-: .o .     N     _POSSAMAI Adam M.            Cuisse de sanglier, sauce au geniŠvre ş2000
-?: .o .     N     _HEURTEL Philippe            Souvenirs de Paraiso ş?
-?: .o .     N     _NICOLOFF Lo‹c               Le Colonel Santˆt ş?
-?: .o .     N     _FERJAULT Jacky              Escuinapa de Hidalgo ş?
-: .o .     N     _DOLLO Xavier                L'Oeuvre martienne ş2000
-o ODSDMI     19  2001.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Dragon et Microchips nø 19 (juin 2001) ş2001
-?: .o .     N     _HEURTEL Philippe            Mortelles chimŠres ş?
-?: .o .     N     _GRAS Philippe               Le PoŠre aveugle ş?
-?: .o .     N     _EL JICE                     Long Hot Summer Night ş?
-: .o .     N     _SIRE CEDRIC                 N‚crophage ş1999
-?: .o .     N     _CROW Walter                 La Maison Phil‚mon ş?
-: .o .     N     _KAAN Jess                   Les Disparus du mois d'ao–t ş2001
-: .o .     N     _FERRIEU Sylvain             Le pŠre No‰l est rest‚ coinc‚ ş2001
-: .o .     N     _LABBE Denis                 Le Banquet ş2001
-?: .o .     N     _PROUST TANGUY Julie         Petits portraits ş?
-: .oF.     N     _PROUST TANGUY Julie         L'Enfer ş2001
-: .oS.     N     _PROUST TANGUY Julie         Lucie ş2001
-?: .o .     N     _QUENTIN Marc-Louis          Sup‚rieurs inconnus ş?
-: .o .     N     _SILHOL L‚a                  Assassin ş2001
-o ODSDMI     20  2002.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Ax    ****                         Le Bestiaire fantastique - Tome 1 (A-L) ş2002
-: .oY.     N     _PROUST TANGUY Julie         Rencontre ş2002
-: .o .     N     _FERRIEU Sylvain             La Pˆche au Gros ş1996
-o ODSDMI     20  2003.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Ax    ****                         Le Bestiaire fantastique - Tome 2 (M-Z) ş2003
-: .o .     N     _KAAN Jess                   Ariane ş2003
-: .o .     N     _SIRE CEDRIC                 Succube ş2003
-: .o .     N     _CHENU Lucie                 Clonage ş2003
-: .o .     N     _CHENU Lucie                 Les Chats ş2003
-: .o .     N     _PROUST TANGUY Julie         Petits ‚clats de vie ş2003
-!--- Onirisme
-: .oY.     P     _PROUST TANGUY Julie         P‚gase ş2003
-: .oY.     P     _PROUST TANGUY Julie         Le Danseur ş2003
-: .o .     N     _BOLDUC Claude              &L'Ennui d‚truit les implacables ş2002
-&                _GENTILHOMME Serena          
-o ODSDMI     21  2004.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM14   ****                         Dragon et Microchips nø 21 ş2004
-: .o .     N     _TEULADE Daniel              Cave ne cadas ş2004
-: .o .     N     _LECHEVALIER R‚my            La Cit‚ secrŠte ş2004
-: .o .     N     _SAMIE Andr‚                 Le V‚t‚ran ş2004
-: .o .     N     _GRAS Philippe               Le Vaisseau de pierre ş2004
-: .o .     N     _LAUNOY Yannick              La Cr‚maillŠre ş2004
-: .o .     N     _DELBE Alain                 Les ZŠves et les Zomecs ş2004
-: .o .     N     _MESSINA Nicolas             L'Explosion de joie du cin‚ma du XXIe siŠcle grƒce … une girafe [Confins et carrefours] ş2004
-: .o .     N     _MESSINA Nicolas             Le Tourbillon des ‚toiles [Confins et carrefours] ş2004
-: .o .     N     _SAUZE Laurent               Paradis perdu ş2003
-: .o .     N     _DELBE Alain                 D‚cr‚ation ş2004
-: .o .     N     _THIBAULT Emmanuel           Ironie cr‚atrice ş2004
-o ODSDMI     22  2005.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM14   ****                         Dragon et Microchips nø 22 ş2005
-: .o .     N     _SAUZE Laurent               Le Savant piŠge ş2005
-: .o .     N     _TOURNEL Fabien              B.B. Bartheolomew ş2005
-: .o .     N     _SAMBRE Christophe           A croquer ş2005
-: .o .     N     _SAMIE Andr‚                 Jeff Laraclure ş2005
-: .o .     N     _BALLY Nico                  Danse sur le feu ş2005
-: .o .     N     _JAIME                       Lille Prinsen ş2005
-: .o .     N     _SAMIE Andr‚                 La L‚gende du sans-coeur ş2005
-: .o .     N     _MESSINA Nicolas             Les Fleurs [Confins et carrefours] ş2005
-: .o .     N     _HEURTEL Philippe            Ob‚lix et ses id‚es fixes ş2005
-: .o .     N     _SAMBRE Christophe           Oudjat ş2005
-: .o .     N     _MESSINA Nicolas             Cyclique supplice [Confins et carrefours] ş2005
-: .o .     N     _MOREL Christophe            Le Contrat "hommes en noir" ş2005
-: .o .     N     _JOURDE Pascal               Trip cosmique ş2005
-: .o .     N     _DENIS S‚bastien             Le Souffle des dieux cr‚ateurs ş2005
-o ODSDMI2     1  2006.11 ..... ISBN 2-914405-36-7
-} noimg          _?                           ?
-- .o .     M5    ****                         Dragon et Microchips nø 1 ş2006
-!--- nø 23 - Nouvelle s‚rie num‚ro 1
-: .o .     N     _SAMBRE Christophe           Libre sans ailes ş2006
-: .o .     N     _GRAY Syde T.                La Belle au bunker dormant ş2006
-: .o .     N     _JAIME                       Lueurs et ombres ş2006
-: .o .     N     _LATREILLE L‚o               La Dormeuse ‚veill‚e ş2006
-: .o .     N     _THIBAULT Emmanuel           Les Varices du diable ş2006
-o ODSDMI2     2  2007.12 ..... ISBN 2-914405-48-0
-} noimg          _?                           ?
-- .o .     M6    ****                         Dragon et Microchips nø 2 ş2007
-!--- nø 24 - Nouveau num‚ro 2 :
-: .o .     N     _FILLION Alain               Le Vaisseau oubli‚ ş2007
-: .o .     N     _FERJAULT Jacky              Le Novice ş2007
-: .o .     N     _CERVERA MERINO L.V.         La Vall‚e perdue ş2007
-: .o .     N     _ALLART Patrice              Le Nid du coucou ş2007
-: .o .     N     _SAUZE Laurent              &Les MaŒtres verriers ş2007
-&                _SAUZE Sylvie                
-: .o .     N     _AELGHIR                     Prince Loup ş2007
-
-!-----------------------------------------------------------------------------
-_ ODSMISK Bulletin de l'universit‚ de Miskatonic
-!-----------------------------------------------------------------------------
-!--- Bulletin de l'universit‚ de Miskatonic
-!--- Suppl‚ment … Dragon & Microchips
-!-----------------------------------------------------------------------------
-o ODSMISK   1bis 1994.10 ..... ISBN -
-} noimg          _?                           ?
-- .o .     M0    ****                         Bulletin de l'Universit‚ de Miskatonic nø 1 bis ş1994
-!--- Les cinq premiers num‚ros du Bulletin ont ‚t‚ publi‚s dans les num‚ros 3, 4, 5, 6, 7 de Dragon & Microchips (1992 - 1993)
-!--- Sommaire :
-! Bulletin de l'Universit‚ de Miskatonic Nø1
-! Bulletin de l'Universit‚ de Miskatonic Nø2
-! Bulletin de l'Universit‚ de Miskatonic Nø3
-! Bulletin de l'Universit‚ de Miskatonic Nø4
-! Bulletin de l'Universit‚ de Miskatonic Nø5
-! + Histoires d'Horreur Lovecraftiennes : - 
-: .o .     p     _PUGMIRE W.H                 L'Horreur Lovecraftienne ş1987 Lovecraftian Horror
-: .o .     p     _WARD Philippe               Cthulhu Go home ş1994
-: .o .     N     _NEIDIGH Kim L.              Anomalie ş1987 Anomaly
-: .o .     N     _DEBILL Walter C. Jr.        Celui qui d‚vore ş1987 That Which Devours
-: .o .     N     _THEOBALD Lewis III          L'Antique Cercueil ş1987 The Antique Coffin
-: .o .     N     _WARNER Bobby G.             Dans la forˆt ş1987 In the Forest
-: .o .     P     _NEIDIGH Kim L.              L'Invocation ş1987 The Summoning
-: .o .     N     _FULWILLER William           La PiŠce du pentacle ş1987 The Room of the Pentacle
-: .o .     N     _GAROFALO Charles            Les Roses du cimetiŠre ş1987 Graveyard Roses
-: .o .     N     _CANNON Peter H.             L'Anneau d'‚tain ş1987 The Pewter Ring
-o ODSMISK     3  1995.10 ..... ISBN -
-} noimg          _?                           ?
-- .o .     M0    ****                         Bulletin de l'Universit‚ de Miskatonic nø 3 ş1995
-?o ODSMISK     4  1998.xx ..... ISBN -
-?} noimg          _?                           ?
-?- .o .     Mx    ****                         Bulletin de l'Universit‚ de Miskatonic nø 4 (f‚vrier-mars 1998) ş1998
-?: .o .     a     _CERVERA MERINO L.V.         Il est d'ailleurs ş1998
-?!--- long article sur une nouvelle de Lovecraft
-o ODSMISK     6  2005.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .     M1    ****                         Bulletin de l'Universit‚ de Miskatonic nø 6 ş2005
-: .o .     N     _HAUTEPIERRE Jean            Les Hurlements de la vall‚e maudite ş2005
-
-o ODSMISK     1  2005.01 ..... ISBN 2-914405-19-1
-} noimg          _?                           ?
-- .oF.     E     _FERJAULT Jacky              Moi, Howard Philip Lovecraft ş2005
-o ODSMISK     2  2008.xx ..... ISBN 2-914405-49-9
-} noimg          _?                           ?
-- .o .     E     _FERJAULT Jacky              Lovecraft et la politique ş2008
-o ODSMISK     3  2012.xx ..... ISBN 2-914405-83-9
-} noimg          _?                           ?
-- .o .     E     _BELLOCQ-POULONIS Sophie     La Mal‚diction de Nephrem-Kƒ ş2012
-o ODSMISK     4  2014.xx ..... ISBN 979-10-91506-14-4
-} noimg          _Emmanuel Thibault           ?
-- .o .     E     _FERJAULT Jacky              100 auteurs ‚voqu‚s par Howard Phillips Lovecraft ş2014
-o ODSMISK     5  2016.11 ..... ISBN 979-10-91506-54-0
-} noimg          _Emmanuel Thibault           ?
-!--- Biographie romanc‚e
-- .o .     E     _FERJAULT Jacky              Moi, Howard Philip Lovecraft … New York ş2016
-o ODSMISK     6  2017.01 ..... ISBN 979-10-91506-55-7
-} noimg          _Andr‚ Sav‚ant               ?
-!--- Biographie romanc‚e
-- .o .     E     _GUILLAUD Lauric             Lovecraft, une approche g‚n‚alogique - De l'horreur au sacr‚ ş2017
-
-!-----------------------------------------------------------------------------
-_ MURM    Murmures d'Irem
-!-----------------------------------------------------------------------------
-!--- Murmures d'Irem (France)
-!-----------------------------------------------------------------------------
-o MURM        0  1995.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Murmures d'Irem nø 0 ş1995
-?: .o .     N     _BIDCHIREN Olivier           L'Appel de la chair ş1995
-) .o .     N     _BERENGER J‚r‚my             Rencontres avec un Sup‚rieur Inconnu - 1 ş1995
-: .o .     N     _BIDCHIREN Olivier           Obsessionnelles fractions, ou l'ind‚sirable promeneur ş1995
-: .o .     P     _BERENGER J‚r‚my             Songe initiatique... ş1995
-o MURM        1  1996.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Murmures d'Irem nø 1 ş1996
-) .o .     N     _BERENGER J‚r‚my             Rencontres avec un Sup‚rieur Inconnu - 2 ş1996
-: .o .     N     _FERRIEU Sylvain             Une secte d'ath‚es ş1996
-: .o .     N     _POSSAMAI Adam M.            Le Droit … l'euthanasie [Dr. John Dee] ş1996
-: .o .     P     _BERENGER J‚r‚my             L'Enfant-Femme de Coomenoolee ş1996
-o MURM        2  1996.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM2    ****                         Murmures d'Irem nø 2 ş1996
-: .o .     N     _BIDCHIREN Olivier           Les Survivants d'Hyperbor‚e ş1996
-) .o .     N     _BERENGER J‚r‚my             Rencontres avec un Sup‚rieur Inconnu - 3 ş1996
-: .o .     P     _BERENGER J‚r‚my             Renaissance ş1996
-o MURM        3  1996.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM2    ****                         Murmures d'Irem nø 3 ş1996
-) .o .     N     _BERENGER J‚r‚my             Rencontres avec un Sup‚rieur Inconnu - 4 ş1996
-: .o .     N     _DOLLO Xavier                Loguivy-Plougras, terre de l‚gende ş1996
-o MURM        4  1996.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM3    ****                         Murmures d'Irem nø 4 (novembre 96) ş1996
-: .o .     N     _BIDEL Guy                   N.D.E. ş1996
-: .o .     N     _POSSAMAI Adam M.            Dieu est mort ş1996
-) .o .     N     _BERENGER J‚r‚my             Rencontres avec un Sup‚rieur Inconnu - 5 ş1996
-o MURM        5  1997.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM1    ****                         Murmures d'Irem nø 5 ş1997
-: .o .     N     _PANIER Claire               La Halle de Nyr ş1997
-o MURM        6  1997.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM1    ****                         Murmures d'Irem nø 6 ş1997
-: .o .     N     _POSSAMAI Adam M.            Aristote, pour ou contre ? ş1997
-o MURM        7  1997.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM1    ****                         Murmures d'Irem nø 7 ş1997
-: .o .     N     _BERENGER J‚r‚my             L'Orme de Pentland Firth ş1997
-?: .* .     ?     _PISSIER Philippe            Hommage … William S. Burroughs ş1997
-o MURM        8  1998.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM0    ****                         Murmures d'Irem nø 8 ş1998
-o MURM        9  1999.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM2    ****                         Murmures d'Irem nø 9 ş1999
-: .o .     N     _BERENGER J‚r‚my             Aux agapes de Taliesin ş1999
-: .o .     N     _THIBAULT Emmanuel           Mandragora ş1999
-o MURM       10  199?.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM0    ****                         Murmures d'Irem nø 10 ş199?
-o MURM       11  2000.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Murmures d'Irem nø 11 (juin-juillet 2000) ş2000
-: .o .     N     _DELBE Alain                 Jeux de cartes ş2000
-?: .o .     ?     _COLNOT Jean-Luc            &D‚cr‚ation ş2004
-?&               _RIVENDAL AgnŠs              
-!--- long article sur une nouvelle de Lovecraft :
-: .o .     a     _CERVERA MERINO L.V.         Charles Duits, voyage au bout du peyotl ş2000
-o MURM       12  2001.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM1    ****                         Murmures d'Irem nø 12 ş2001
-: .o .     N     _DELBE Alain                 Le Mouvement perp‚tuel ş2001
-o MURM       13  2002.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM1    ****                         Murmures d'Irem nø 13 ş2002
-: .o .     N     _DELBE Alain                 La Femme de Yahve ş2002
-o MURM       14  2003.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM0    ****                         Murmures d'Irem nø 14 ş2003
-o MURM       15  2004.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Murmures d'Irem nø 15 ş2004
-: .o .     N     _QUESTIN Marc-Louis          La Citadelle des vierges noires ş2004
-: .o .     X     _WRIGHT Harold Bell          Le Roi sans couronne ş1910 The Uncrowned King
-o MURM       16  2005.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM0    ****                         Murmures d'Irem nø 16 ş2005
-o MURM       17  2006.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .    kM0    ****                         Murmures d'Irem nø 17 ş2006
-
-!-----------------------------------------------------------------------------
-_ ODS_VIN Ed. L'Oeil Du Sphinx, Coll. Vintage Fiction, RDN Books
-!-----------------------------------------------------------------------------
-o ODS_VIN     ?  2017.11 10.00 ISBN 979-10-91506-75-5
-} ods_ratcrane   _Emsh                        ?
-- .oS.     N4    _PHILLIPS Rog                Un rat dans le crƒne ş2017
-: .oS.     p     _NOLANE Richard D.           Pr‚face ş2017
-: .oS.     N     _PHILLIPS Rog                Un rat dans le crƒne ş1958 Rat in the Skull şTrad. NOLANE Richard D.
-: .oS.     N     _PHILLIPS Rog                Les Anciens Martiens ş1952 The Old Martians şTrad. NOLANE Richard D.
-: .oS.     N     _PHILLIPS Rog                La Galerie ş1959 The Gallery şTrad. NOLANE Richard D.
-: .oS.     N     _PHILLIPS Rog                Les Parias ş1953 Pariah şTrad. NOLANE Richard D.
-o ODS_VIN     ?  2018.06 ..... ISBN 979-10-91506-87-8
-} noimg          _Lawrence                    ?
-!--- 172 pages - 12 euros
-- .oS.     R     _ROUSSEAU Victor             L'Oeil de Balamok ş1920 The Eye of Balamok şTrad. MOUMON Jean-Pierre + NOLANE Richard D.
-
-!-----------------------------------------------------------------------------
-_ WENDIGO Ed. L'Oeil Du Sphinx, Wendigo
-!-----------------------------------------------------------------------------
-!--- Wendigo
-!--- Revue cr‚‚e en 2011n dirig‚e par Richard D. Nolane
-!-----------------------------------------------------------------------------
-o WENDIGO     1  2011.01 ..... ISBN 978-2-914405-66-.
-} wendigo01      _?                           ?
-- .oFT     Mx    ****                         Wendigo nø 1 (janvier 2011) ş2011
-: .o .     N     _BARR Robert                 Purification ş1896 Purification şTrad. ?
-: .oF.     N     _GRIFFITH George             Le Destin du Hollandais Volant ş1894 The True Fate of the Flying Dutchman şTrad. NOLANE Richard D.
-: .o .     N     _ROUSSEAU Victor             La Femme de Jackson ş1909 Jackson's Wife
-: .o .     N     _ROBERTSON Morgan            L'Horreur des profondeurs ş1913 From the Darkness and the Depths
-?: .o .     a     _LIGNON Yves                 Du Titanic de M. Robertson au Global consciousness Project ş?
-: .o .     N     _QUINN Seabury               L'Idole de pierre ş1919 The Stone Image
-: .o .     N     _MARRAMA D.O.                Le M‚daillon ş1907 Il medaglione
-: .o .     N     _FISHER Philip M. Jr.        L'trange Cas de Lemuel Jenkins ş1919 The Strange Case of Lemuel Jenkins
-: .o .     N     _ABDULLAH Achmed             Terreur ş1919 Fear
-o WENDIGO     2  2013.02 ..... ISBN 978-10-91506-05-2
-} wendigo02      _C‚line Mi‚cret              ?
-- .oFT     M7    ****                         Wendigo nø 2 ş2013
-!--- Editorial Richard D. Nolane
-: .o .     N     _MARSH Richard               Une illustration de la science moderne ş1896 An Illustration of Modern Science şTrad. ?
-: .o .     N     _STEVENS Francis             Le PiŠge elfique ş1919 The Elf-Trap şTrad. ARCHIMBAULT Jean-Michel
-: .o .     r     _SEIDEL Willy                La Plus Ancienne Chose du monde ş1923 Das „lteste ding des welt şTrad. ?
-: .o .     N     _ROUSSEAU Victor             Le Cas de la fille du ge“lier [Ivan Brodsky] ş1910 The Case of the Jailer's Daughter
-: .o .     N     _BURT Hugh                   Le S‚pulcre blanchi ş1889 The Whitered Sepulchre şTrad. ?
-: .oF.     N     _BOOTHBY Guy                 Un ‚trange terrain aurifŠre ş1904 A Strange Goldfield şTrad. ?
-: .oT.     N     _BAYNTON Barbara             Le R“deur ş1896 The Tramp / The Chosen Vessel şTrad. ?
-o WENDIGO     3  2016.02 ..... ISBN 978-10-91506-40-3
-} wendigo-3      _?                           ?
-- .oFT     M9    ****                         Wendigo nø 3 ş2016
-!--- Editorial Richard D. Nolane
-: .o .     N     _MARRAMA D.O.                Le Docteur noir ş1907 Il Dottor Nero
-: .oF.     N     _CHAMBERS Robert W.          Le TroisiŠme Oeil ş? ? şTrad. ?
-: .o .     N     _FEARN John Russell          La Cloche du jugement ş1960 Judgement Bell şTrad. ?
-: .o .     N     _SWAIN John D.               Lucifer ş1923 Lucifer şTrad. ?
-: .o .     N     _FISHER Philip M. Jr.        La Vall‚e aux os ş1918 The Vale of Bones şTrad. ?
-: .o .     N     _ROUSSEAU Victor             L'H‚ritage de la haine [Ivan Brodsky] ş1910 The Legacy of Hate şTrad. ?
-: .o .     N     _ENGLAND George Allan        La Chose venue d'ailleurs ş1923 The Thing from Outside şTrad. ?
-: .oF.     N     _BOOTHBY Guy                 Un professeur d'‚gyptologie ş1904 A Professor of Egyptology şTrad. ?
-: .o .     N     _MERRITT Abraham             Le Bassin du dieu de pierre ş1923 The Pool of the Stone God şTrad. ?
-o WENDIGO     4  2017.08 ..... ISBN 978-10-91506-70-0
-} wendigo4       _?                           ?
-- .oFT     M9    ****                         Wendigo nø 4 ş2017
-!--- Editorial Richard D. Nolane
-: .o .     N     _PRICE E. Hoffman            La Fille de Satan ş1936 Satan's Daughter şTrad. ?
-: .o .     N     _MARRAMA D.O.                Le Portrait du mort ş1907 Il ritratto del morto şTrad. ?
-: .oF.     N     _MARSH Richard               Un chevalier de grand chemin ş1901 A Knight of the Road şTrad. BREQUE Jean-Daniel
-: .o .     N     _PHILLIPS Rog                Le Manoir ş1947 The House şTrad. ?
-: .o .     N     _BOOTHBY Guy                 L'Enfant de la mort ş1905 The Death Child şTrad. ?
-: .o .     N     _FISHER Philip M. Jr.        Le Vaisseau des hommes silencieux ş1920 The Ship of Silent Men şTrad. ?
-: .o .     N     _SWAIN John D.               La Marionnette ş1924 The Manikin şTrad. ?
-: .o .     N     _ROUSSEAU Victor             Le DixiŠme Commandement [Ivan Brodsky] ş1910 The Tenth Commandment
-: .o .     N     _McCLUSKY Thorp              La Marche des zombies ş1939 While Zombies Walked şTrad. ?
-o WENDIGO     5  2019.04 ..... ISBN 978-10-91506-98-4
-} wendigo5       _?                           ?
-- .oFT    kM7    ****                         Wendigo nø 5 ş2019
-!--- Editorial Richard D. Nolane
-: .o .     r     _ROUSSEAU Victor             La Mal‚diction d'Amen-Ra ş1932 The Curse of Amen-Ra
-: .o .     N     _TANNER Charles R.           La Jarre ş1941 Out of the Jar
-: .o .     N     _ALLEN Grant                 Pallinghurst Barrow ş1892 Pallinghurst Barrow
-: .o .     N     _PHILLIPS Rog                Mes trous de m‚moire ş1950 Holes in My Head
-: .o .     N     _QUINN Seabury               Les D‚mons de la nuit ş1918 Demons of the Night
-: .o .     N     _MUMFORD Ethel Watts         Parfums de fant“mes ş1927 Phantom Perfumes
-: .o .     N     _PRICE E. Hoffman           &La Demeure du Monoc‚ros ş1941 House of Monoceros 
-&                _SMITH Clark Ashton          
-
-!-----------------------------------------------------------------------------
-_ ODS_IIN Ed. L'Oeil Du Sphinx, Coll. Les Insomniaques d'Innsmouth
-!-----------------------------------------------------------------------------
-o ODS_IIN     1  2011.xx ..... ISBN 2-914405-70-7
-} noimg          _Emmanuel Thilbault          ?
-- .oF.     R     _BOYER R‚mi                  Noces de sang … Bucarest ş2011
-o ODS_IIN     2  2014.11 ..... ISBN 979-10-91506-27-4
-} noimg          _Emmanuel Thilbault          ?
-- .oF.     R     _BOYER R‚mi                  Saudade sombre pour le roi cach‚ ş2014

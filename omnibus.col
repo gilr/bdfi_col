@@ -3,22 +3,37 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ OMNIBUS Ed. Omnibus
-_ OMNI_SF Ed. Omnibus, Science-Fiction/Fantastique
-_ OMNI_GR Ed. Omnibus, Grands Romans/Histoire/Aventure
-_ OMNI_CL Ed. Omnibus, Classiques
-_ OMNI_RG Ed. Omnibus, R‚gions
-_ OMNI_VL Ed. Omnibus, Villes et lieux de l‚gende
-_ OMNI_PO Ed. Omnibus, Policiers
-_ OMNI_BB Ed. Omnibus, Bibiomnibus
+_ OMNIBUS Omnibus
+_ OMNI_SF Omnibus - Science-Fiction/Fantastique
+_ OMNI_GR Omnibus - Grands Romans/Histoire/Aventure
+_ OMNI_CL Omnibus - Classiques
+_ OMNI_RG Omnibus - R‚gions
+_ OMNI_VL Omnibus - Villes et lieux de l‚gende
+_ OMNI_PO Omnibus - Policiers
+_ OMNI_BB Omnibus - Bibiomnibus
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ OMNinGC <b>in</b> Gens de Carmargue et de Bouvine, Ed. Omnibus
-!-----------------------------------------------------------------------------
-o OMNinGC     ?  1999.xx ..... ISBN .-...-.....-.
+o OMNIBUS     ?  1999.04 ..... ISBN 2-258-05140-1
 } noimg          _?                           ?
-- .oF.     R     _ARBAUD Joseph d'            La Bˆte du VaccarŠs ş1926 La BŠstio d¢u VacarŠs / La BŠstia dau Vacar‚s
+!--- 1034 pages - 130 x 200 mm - 145 francs
+!--- Romans et r‚cits r‚unis pas Guy Dugas.
+- .oF.    iR7Nx  ****                         Gens de Carmargue et de Bouvine ş1999
+: .! .     R     _GUILLOT Ren‚                Crin blanc ş?
+: .! .     R     _PEYRE Joseph                L'‚tang R‚al ş?
+: .! .     R     _ALCARD Jean                 Roi de Camargue ş?
+: .! .     R     _SAMAT Jean-Toussaint        Camard, gardian ş?
+: .oF.     R     _ARBAUD Joseph d'            La Bˆte du VaccarŠs ş1926 La BŠstio d¢u VacarŠs / La BŠstia dau Vacar‚s
+: .! .     R     _BOSCO Henri                 Malicroix ş?
+: .! .     N     _AUBANEL Henry               La Race ş?
+: .! .     N     _AUBANEL Henry               Jabert ş?
+: .! .     N     _AUBANEL Henry               Vengeance ş?
+: .! .     N     _DAUDET Alphonse             En Camargue ş?
+: .! .     N     _DUGAS Guy                   Gens d'en bas, monde du dessous ş?
+: .! .     N     _MISTRAL Fr‚d‚ric            Le Voyage aux Saintes-Maries ş?
+: .! .     N     _DUMAS Alexandre             Une ferrade ş?
+: .! .     N     _FEUILLADE Louis             Fˆtes villageoises ş?
+: .! .     N     _FEUILLADE Louis             Zou de bioou ! ş?
 
 
 o OMNI_SF     ?  1990.xx ..... ISBN 2-258-03291-0
@@ -109,28 +124,28 @@ o OMNI_SF     ?  1993.xx ..... ISBN 2-258-03696-8
 : .o .     R     _DICK Philip K.              Glissement de temps sur Mars ş1963-1964 All We Marsmen / Martian Time-Slip şTrad. PLANCHAT Henry-Luc
 !--- version remani‚e/expans‚e de "Nous les martiens"
 : .o .     R     _DICK Philip K.              Docteur Bloodmoney ş1965 Dr. Bloodmoney (or How We Got Along After the Bomb) şTrad. MARTIN Bruno
-: .o .     R     _DICK Philip K.              Les Joueurs de Titan ş1963 The Game-players of Titan şTrad. BARRIERE Maxime
+: .o .     R     _DICK Philip K.              Les Joueurs de Titan ş1963 The Game-Players of Titan şTrad. BARRIERE Maxime
 : .o .     R     _DICK Philip K.              Simulacres ş1964 The Simulacra şTrad. THAON Marcel + GUERET Christian
 : .o .     R     _DICK Philip K.              En attendant l'ann‚e derniŠre ş1966 Now Wait for Last Year şTrad. DEUTSCH Michel
 o OMNI_SF     ?  1993.xx ..... ISBN 2-258-03732-8
 } noimg          _?                           ?
+!--- Avec une pr‚sentation de Lauric GUILLAUD
+!--- Note : "Le Village a‚rien" ‚galement paru sous le titre "La grande forˆt"
+!--- TBC : date VO 1939 pour "Le Pays des aveugles" ?
+!--- TBC date : _1933_ ou _1993_ pour "Les Horizons perdus" ?
 - .o .     R5N3  ****                         Les Mondes perdus ş1993
-!--- Pr‚sentation de Lauric GUILLAUD
 : .o .     N     _KIPLING Rudyard             L'Homme qui voulut ˆtre roi ş1888 The Man who Would Be King
 : .o .     R     _HAGGARD H. Rider            Le Peuple du brouillard ş1894 The People of the Mist
 : .o .     R     _VERNE Jules                 Le Village a‚rien ş1901
-!--- Note : ‚galement paru sous le titre "La grande forˆt"
 : .o .     N     _WELLS Herbert George        Le Pays des aveugles ş1896 The Country of the Blind
-!-- TBC : VO 1939 ??
 : .o .     N     _WELLS Herbert George        Dans l'abŒme ş1896 In the Abyss
 : .o .     R     _ROSNY AINE J.-H.            L'tonnant Voyage de Hareton Ironcastle ş1922
 : .o .     R     _MERRITT Abraham             Les Habitants du mirage ş1932 Dwellers in the Mirage
 : .o .     R     _HILTON James                Les Horizons perdus ş1933 Lost Horizon
-!--- TBC date : _1933_ ou _1993_ ?
 o OMNI_SF     ?  1993.xx ..... ISBN 2-258-03697-6
 } omnibdick1     _?                           ?
-- .oS.    cR7    _DICK Philip K.              D‚dales sans fin ş1993
 !--- Pr‚sentation Jacques Goimard
+- .oS.    cR7    _DICK Philip K.              D‚dales sans fin ş1993
 : .o .     R     _DICK Philip K.              Les Clans de la lune Alphane ş1964 Clans of the Alphane Moon
 : .o .     R     _DICK Philip K.              BrŠche dans l'espace ş1966 The Crack in Space
 : .o .     R     _DICK Philip K.              Le Dieu venu du Centaure ş1965 The Three Stigmata of Palmer Eldritch
@@ -158,8 +173,8 @@ o OMNI_SF     ?  1994.xx ..... ISBN 2-258-03699-2
 } omnibdick4     _?                           ?
 - .oS.    cR8    _DICK Philip K.              La Porte obscure ş1994
 !--- Pr‚face Jacques Goimard
-: .o .     R     _DICK Philip K.              Les Pantins cosmiques ş1957 The Cosmic Puppets
-!--- Expansion de _A glass of darkness_ (1956)
+!--- Expansion de _A glass of darkness_ (1956) :
+: .oS.     R     _DICK Philip K.              Les Pantins cosmiques ş1956-1957 A Glass of Darkness / The Cosmic Puppets şTrad. ?
 : .o .     R     _DICK Philip K.              Docteur Futur ş1960 Dr. Futurity
 !--- Expansion de _Time pawn_ (1954)
 : .o .     R     _DICK Philip K.              Loterie solaire ş1955-1956 Solar Lottery / World of Chance
@@ -194,13 +209,13 @@ o OMNI_SF     ?  1994.xx ..... ISBN 2-258-00146-3
 : .o .     r     _STEVENSON Robert Louis      Docteur Jekyll et Mr Hyde ş1885 The Strange Case of Dr Jekyll and Mr Hyde şTrad. VARLET Th‚o
 : .oF.     N     _SCHWOB Marcel               La Machine … parler ş1892
 : .o .     R     _VERNE Jules                 Le Chƒteau des Carpathes ş1892
-: .o .     R     _MACHEN Arthur               Le Grand Dieu Pan ş1894 The Great God Pan
+: .o .     r     _MACHEN Arthur               Le Grand Dieu Pan ş1894 The Great God Pan
 : .o .     N     _MACHEN Arthur               Histoire du cachet noir ş1895 The Novel of the Black Seal şTrad. PARSONS Jacques
 : .oS.     R     _WELLS Herbert George        L'Œle du docteur Moreau ş1896 The Island of Dr. Moreau / The Island of Doctor Moreau şTrad. DAVRAY Henry D.
 : .o .     N     _DEMADE Pol                  D‚bonnaire Milaine ş1898
 : .o .     N     _MEYRINK Gustav              Les Plantes du docteur Cinderella ş1905 Die Pflanzen des Doktor Cinderella şTrad. POLLET Jean-Jacques
-: .o .     N     _EWERS Hanns Heinz           La Fianc‚e du Tophar ş1904 Die topharbraut şTrad. GAUTHIER F‚lix & HENRY Marc
-: .o .     r     _BOULGAKOV Mikha‹l           Les Oeufs fatidiques ş1924 Rokov'ie ia‹tsa şTrad. CORNILLOT Fran‡ois & PRECHAC Alain
+: .o .     N     _EWERS Hanns Heinz           La Fianc‚e du Tophar ş1904 Die Topharbraut şTrad. GAUTHIER F‚lix & HENRY Marc
+: .oF.     r     _BOULGAKOV Mikha‹l           Les Oeufs fatidiques ş1925 Rokovye ia‹tsa şTrad. CORNILLOT Fran‡ois & PRECHAC Alain
 o OMNI_SF    11i 1995.xx ..... ISBN 2-258-04163-5
 } omnsw1         _?                           ?
 - .oS.    _R3    ****                         Star Wars - Tome 1 [La Trilogie fondatrice - 1/3][Star Wars] ş1995
@@ -211,7 +226,7 @@ o OMNI_SF     ?  1995.xx ..... ISBN 2-258-04164-3
 } omnsw2         _?                           ?
 - .oS.    _R3    _ZAHN Timothy                Star Wars - Tome 2 [La Croisade noire du jedi fou - 1/3][Star Wars] ş1995
 !--- Pr‚face DEMUTH Michel
-: .o .     R     _ZAHN Timothy                L'H‚ritier de l'empire [La Croisade noire du jedi fou - 1][Star Wars] ş1991 Heir of the Empire şTrad. DEMUTH Michel
+: .o .     R     _ZAHN Timothy                L'H‚ritier de l'empire [La Croisade noire du jedi fou - 1][Star Wars] ş1991 Heir to the Empire şTrad. DEMUTH Michel
 : .o .     R     _ZAHN Timothy                La Bataille des Jedi [La Croisade noire du jedi fou - 2][Star Wars] ş1993 Dark Force Rising şTrad. DEMUTH Michel
 : .o .     R     _ZAHN Timothy                L'Ultime Commandement [La Croisade noire du jedi fou - 3][Star Wars] ş1993 The Last Command şTrad. DEMUTH Michel
 o OMNI_SF     ?  1995.xx R.... ISBN 2-258-00139-0
@@ -259,7 +274,7 @@ o OMNI_SF     ?  1995.xx ..... ISBN 2-258-04026-4
 = .o .     N     _HOWARD Robert E.            Les Miroirs de Tuzun Thune ş1929 The Mirrors of Tuzun Thune
 : .o .     N     _HOWARD Robert E.            La Lune des crƒnes [Solomon Kane] ş1930 The Moon of Skulls
 : .o .     N6    _SMITH Clark Ashton          Pos‚idonis ş1995
-= .o .     N     _SMITH Clark Ashton          La Muse de l'Atlantide ş1922 From a Letter / The Muse of Atlantis
+= .o .     P     _SMITH Clark Ashton          La Muse de l'Atlantide ş1922 From a Letter / The Muse of Atlantis
 = .o .     N     _SMITH Clark Ashton          La DerniŠre Incantation ş1930 The Last Incantation
 = .o .     N     _SMITH Clark Ashton          La Mort de Malygris ş1934 The Death of Malygris
 = .o .     N     _SMITH Clark Ashton          L'Ombre double ş1933 The Double Shadow
@@ -272,7 +287,7 @@ o OMNI_SF     ?  1995.xx ..... ISBN 2-258-04026-4
 : .o .     R     _FLANDERS John               Aux tr‚fonds du mystŠre ş1936
 o OMNI_SF    15i 1996.xx ..... ISBN 2-258-04059-0
 } noimg          _?                           ?
-- .oS.    cR5Nx  _SILVERBERG Robert           Chute dans le r‚el ş1996
+- .oS.     R5Nx  _SILVERBERG Robert           Chute dans le r‚el ş1996
 : .o .     p     _GOIMARD Jacques             Les Profondeurs de l'histoire ş1996
 : .o .     R     _SILVERBERG Robert           Un jeu cruel ş1967 Thorns
 : .o .     R     _SILVERBERG Robert           L'Homme dans le labyrinthe ş1969 The Man in the Maze
@@ -282,20 +297,20 @@ o OMNI_SF    15i 1996.xx ..... ISBN 2-258-04059-0
 = .o .     N     _SILVERBERG Robert           Jorslem [Les Ailes de la nuit - 3] ş1969 To Jorslem
 : .o .     R     _SILVERBERG Robert           La Tour de verre ş1970 The Tower of Glass
 : .o .     R     _SILVERBERG Robert           Le Fils de l'homme ş1971 Son of Man
-: .o .    _N13   _SILVERBERG Robert           La Sangsue et 12 autres nouvelles ş1996
-= .o .     N     _SILVERBERG Robert           La Sangsue ş1957 Warm Man
-= .o .     N     _SILVERBERG Robert           L'Homme qui n'oubliait jamais ş1958 The Man who Never Forgot
-= .o .     N     _SILVERBERG Robert           Le Chemin de la nuit ş1958 Road to Nightfall
-= .o .     N     _SILVERBERG Robert           Issus d'une mˆme couv‚e ş1958 Birds of a Faether
-= .o .     N     _SILVERBERG Robert           Il ‚tait une vieille femme... ş1958 There Was an Old Woman
-= .o .     N     _SILVERBERG Robert           Le Coup de t‚l‚phone ş1959 Mugwump Four
-= .o .     N     _SILVERBERG Robert           Les Colporteurs de souffrance ş1963 The Pain Peddlers
-= .o .     N     _SILVERBERG Robert           Le SixiŠme Palais ş1964 The Sixth Palace
-= .o .     N     _SILVERBERG Robert           La Prison temporelle ş1967 Hawksbill Station
-= .o .     N     _SILVERBERG Robert           Trip dans le r‚el ş1970 The Reality Trip
-= .o .     N     _SILVERBERG Robert           Jour de bonheur en 2381 [Les Monades urbaines] ş1970 A Happy Day in 2381
-= .o .     N     _SILVERBERG Robert           Un personnage en quˆte de corps ş1970 Ringing the Changes
-= .o .     N     _SILVERBERG Robert           Dans les crocs de l'entropie ş1971 In Entropy's Jaws
+: .C .     C     _SILVERBERG Robert           La Sangsue et 12 autres nouvelles ş1996
+: .o .     N     _SILVERBERG Robert           La Sangsue ş1957 Warm Man
+: .o .     N     _SILVERBERG Robert           L'Homme qui n'oubliait jamais ş1958 The Man who Never Forgot
+: .o .     N     _SILVERBERG Robert           Le Chemin de la nuit ş1958 Road to Nightfall
+: .o .     N     _SILVERBERG Robert           Issus d'une mˆme couv‚e ş1958 Birds of a Faether
+: .o .     N     _SILVERBERG Robert           Il ‚tait une vieille femme... ş1958 There Was an Old Woman
+: .o .     N     _SILVERBERG Robert           Le Coup de t‚l‚phone ş1959 Mugwump Four
+: .o .     N     _SILVERBERG Robert           Les Colporteurs de souffrance ş1963 The Pain Peddlers
+: .o .     N     _SILVERBERG Robert           Le SixiŠme Palais ş1964 The Sixth Palace
+: .o .     N     _SILVERBERG Robert           La Prison temporelle ş1967 Hawksbill Station
+: .o .     N     _SILVERBERG Robert           Trip dans le r‚el ş1970 The Reality Trip
+: .o .     N     _SILVERBERG Robert           Jour de bonheur en 2381 [Les Monades urbaines] ş1970 A Happy Day in 2381
+: .o .     N     _SILVERBERG Robert           Un personnage en quˆte de corps ş1970 Ringing the Changes
+: .o .     N     _SILVERBERG Robert           Dans les crocs de l'entropie ş1971 In Entropy's Jaws
 o OMNI_SF     ?  1996.xx R.... ISBN 2-258-03652-6
 } omni_gaf_1     _?                           N
 - .oF.     A53   *GOIMARD Jacques            &La Grande Anthologie du fantastique (Tome 1) ş1996
@@ -303,13 +318,13 @@ o OMNI_SF     ?  1996.xx R.... ISBN 2-258-03652-6
 : .oF.     A12   *GOIMARD Jacques            &Histoires de d‚lires [La Grande Anthologie du fantastique] ş1981
 &                *STRAGLIATI Roland           
 = .o .     N     _IRISH William               Le Ruban bleu ş? The Blue Ribbon şTrad. ENDREBE Maurice Bernard
-= .o .     N     _LANDOLFI Tommaso            Lettres de province ş1961 Lettere dalla provincia şTrad. STRAGLIATI Roland
+= .o .     N     _LANDOLFI Tommaso            Lettres de province ş1954 Lettere dalla provincia şTrad. STRAGLIATI Roland
 = .o .     N     _KIPLING Rudyard             Le Rickshaw fant“me ş1885 The Phantom Rickshaw şTrad. ENDREBE Maurice Bernard
 = .o .     N     _BLACKWOOD Algernon          SortilŠges du fond des ƒges [John Silence] ş1908 Ancient Sorceries şTrad. PARSONS Jacques
 !--- Traduit auparavant (Deno‰l 67) sous "SortilŠges et m‚tamorphoses"
 = .o .     N     _WANDREI Donald              L'Oeil et le doigt ş1944 The Eye and the Finger şTrad. ROTH Max
 !--- traduc casterman 64
-= .o .     N     _BIOY CASARES Adolfo         A la m‚moire de Pauline ş1967 En memoria de Paulina şTrad. ROSSET Fran‡oise-Marie
+= .o .     N     _BIOY CASARES Adolfo         A la m‚moire de Pauline ş1948 En memoria de Paulina şTrad. ROSSET Fran‡oise-Marie
 !--- traduc Laffont 73
 = .o .     N     _GOLDING Louis               La Chemise de nuit bleu pƒle ş1937 Pale Blue Nightgown şTrad. VALLENTIN Antonina
 !--- D'aprŠs la traduction d'Antonina VALLENTIN
@@ -337,7 +352,7 @@ o OMNI_SF     ?  1996.xx R.... ISBN 2-258-03652-6
 = .o .     N     _BENSON Edward F.            La Chambre dans la tour ş1912 The Room in the Tower şTrad. DOREMIEUX Alain
 = .o .     N     _GJALSKI K.S.                Le Rˆve du docteur Misic ş? ? şTrad. GRCHICH Alexandre
 !--- c de Misic avec accent circonflexe retourn‚
-= .o .     N     _MAUGHAM William Somerset    Lord Mountdrago ş1939 Lord Mountdrago şTrad. QUEVAL Jean
+= .o .     N     _MAUGHAM W. Somerset         Lord Mountdrago ş1939 Lord Mountdrago şTrad. QUEVAL Jean
 = .o .     N     _PIRANDELLO Luigi            Effets d'un songe interrompu ş1936 Effetti di uno sogno interrotto şTrad. FINNE Jacques
 = .o .     N     _ARTHUR Robert               Juste un rˆveur [Murchison Morks] ş1941 Just a Dreamer / Wilfried Weem, Dreamer şTrad. FERRY Odette
 = .o .     N     _PAPINI Giovanni             La DerniŠre Visite du gentilhomme malade ş1907 L'ultima visita del gentiluomo malato şTrad. MICHEL Paul-Henri
@@ -388,7 +403,7 @@ o OMNI_SF     ?  1996.xx R.... ISBN 2-258-03653-4
 !--- en fait "d'aprŠs la traduction de..."
 = .o .     N     _DOREMIEUX Alain             Aurora ş1965
 = .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Le Passage Pommeraye ş1946
-= .o .     N     _KAFKA Franz                 La M‚tamorphose ş1915 Die verwandlung şTrad. LORTHOLARY Bernard
+= .o .     r     _KAFKA Franz                 La M‚tamorphose ş1915 Die verwandlung şTrad. LORTHOLARY Bernard
 = .o .     N     _TEM Steve Rasnic            La D‚molition ş1985 The Battering şTrad. SERVAL Nathalie
 : .oF.     A13   *GOIMARD Jacques            &Histoires de choses [La Grande Anthologie du fantastique] ş1996
 &                *STRAGLIATI Roland           
@@ -398,7 +413,7 @@ o OMNI_SF     ?  1996.xx R.... ISBN 2-258-03653-4
 = .o .     N     _LEIBER Fritz                Belsen Express ş1975 Belsen Express şTrad. HOMASSEL Anne-Sylvie
 = .o .     N     _MAUPASSANT Guy de           La Nuit ş1887
 = .o .     N     _HOLLAND Hester              La BibliothŠque ş1933 The Library şTrad. MARTENON Fran‡oise & STRAGLIATI Roland
-= .o .     N     _SEABRIGHT Idris             La D‚esse aux cheveux blancs ş1956 White goddess şTrad. ROSENBLUM Arlette
+= .o .     N     _SEABRIGHT Idris             La D‚esse aux cheveux blancs ş1956 White Goddess şTrad. ROSENBLUM Arlette
 = .o .     N     _POUCHKINE Alexandre         La Dame de pique ş1834 Pikova‹a dama şTrad. MERIMEE Prosper
 = .o .     N     _MERIMEE Prosper             La V‚nus d'Ille ş1837
 = .o .     r     _GOGOL Nicolas               Le Portrait ş1842 Portret şTrad. MEYNIEUX IrŠne, revu par PASCAL Pierre
@@ -412,7 +427,7 @@ o OMNI_SF     ?  1996.xx R.... ISBN 2-258-03653-4
 = .o .     N     _MAUPASSANT Guy de           Lui ? ş1883
 = .o .     N     _O'BRIEN Fitz-James          Qu'‚tait-ce ? ş1859 What Was It? şTrad. PAPY Jacques
 = .o .     N     _MAUPASSANT Guy de           Le Horla ş1886
-= .o .     N     _HICHENS Robert S.           Comment l'amour s'imposa au professeur Guildea ş1900 How Love Came to Professor Guildea şTrad. RAS Jos
+= .o .     r     _HICHENS Robert S.           Comment l'amour s'imposa au professeur Guildea ş1900 How Love Came to Professor Guildea şTrad. RAS Jos
 = .o .     N     _JACKSON Shirley             De l'autre c“t‚ de la porte ş1949 The Demon Lover / The Daemon Lover şTrad. DEUTSCH Michel
 = .o .     N     _MAC ORLAN Pierre            Les Feux du "Batavia" ş1926
 : .oF.     A14   *GOIMARD Jacques            &Histoires de fant“mes [La Grande Anthologie du fantastique] ş1977
@@ -427,7 +442,7 @@ o OMNI_SF     ?  1996.xx R.... ISBN 2-258-03653-4
 = .o .     N     _SOLDATI Mario               La Balle de tennis ş1962 La palla da tennis şTrad. STRAGLIATI Roland
 = .o .     N     _BRIDGE Ann                  La Limousine bleue ş1939 The Blue Limousine şTrad. CAMILLE Georgette
 = .o .     N     _BIERCE Ambrose              Le TroisiŠme Orteil du pied droit ş1890 The Middle Toe of the Right Foot şTrad. PAPY Jacques
-= .o .     N     _RABOU Charles               Le MinistŠre public ş?
+= .o .     N     _RABOU Charles               Le MinistŠre public ş1832
 = .o .     N     _STOKER Bram                 La Maison du juge ş1891 The Judge's House şTrad. MARTENON Fran‡oise & STRAGLIATI Roland
 = .o .     N     _WAKEFIELD Herbert R.        Les Gardes-FrontiŠre ş1929 The Frontier Guards şTrad. MARTENON Fran‡oise & STRAGLIATI Roland
 = .o .     N     _REMY Yves & Ada             Celui qui se faisait appeler Schaeffer ş1968
@@ -444,13 +459,13 @@ o OMNI_SF     ?  1997.xx R.... ISBN 2-258-03654-2
 = .o .     N     _STEVENSON Robert Louis      Janet la torte ş1881 Thrawn Janet şTrad. VARLET Th‚o
 = .o .     N     _BOUQUET Jean-Louis          Alouqa, ou la com‚die des morts ş1951
 = .o .     N     _TOLSTOI Alexei C.           La Famille du Vourdalak ş1847 Sem'ya vurdalaka
-= .o .     N     _JAMES Montague Rhodes       Le Comte Magnus ş1931 Count Magnus şTrad. MARTENON Fran‡oise & STRAGLIATI Roland
+= .o .     N     _JAMES Montague Rhodes       Le Comte Magnus ş1904 Count Magnus şTrad. MARTENON Fran‡oise & STRAGLIATI Roland
 = .o .     N     _GAUTIER Th‚ophile           La Morte amoureuse ş1836
 = .o .     N     _POE Edgar Allan             Ligeia ş1838 Ligeia şTrad. BAUDELAIRE Charles
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     V‚ra ş1874
 = .o .     N     _POE Edgar Allan             La Chute de la maison Usher ş1839 The Fall of the House of Usher şTrad. BAUDELAIRE Charles
 = .o .     N     _MATHESON Richard            La Robe de soie blanche ş1951 Dress of White Silk şTrad. DOREMIEUX Alain
-= .o .     N     _PREVOT G‚rard               La Taverne des ‚tangs ş?
+= .o .     N     _PREVOT G‚rard               La Taverne des ‚tangs ş1975
 = .o .     N     _DE LA MARE Walter           La Tante de Seaton ş1922 Seaton's Aunt şTrad. JEAN-AUBRY G.
 = .o .     N     _SMITH Clark Ashton          Morthylla ş1953 Morthylla
 : .oF.     A12   *GOIMARD Jacques            &Histoires d‚moniaques [La Grande Anthologie du fantastique] ş1977
@@ -482,7 +497,7 @@ o OMNI_SF     ?  1997.xx R.... ISBN 2-258-03654-2
 = .oF.     N     _TOURGUENIEV Ivan            Le Chant de l'amour triomphant ş1881 Pesn' torjestvou‹ouchtche‹ lioubvi
 !--- D'aprŠs la traduction de ALCO Ren‚
 = .o .     N     _SCHWOB Marcel               L'Homme voil‚ ş1890
-= .o .     N     _STRAUB Peter                Blue Rose ş1985 Blue Rose
+= .o .     N     _STRAUB Peter                Blue Rose [Blue Rose] ş1985 Blue Rose
 = .o .     N     _NERVAL G‚rard de            La Main enchant‚e ş1832
 = .o .     N     _JACOBS William W.           La Patte de singe ş1902 The Monkey's Paw şTrad. PAPY Jacques
 = .o .     N     _BIXBY Jerome                Le Charme de la sorciŠre ş1964 Spell of the Witch Wife şTrad. NOUDEL Claire
@@ -528,7 +543,7 @@ o OMNI_SF     ?  1997.xx ..... ISBN 2-258-04782-X
 : .o .     N     _SEIGNOLLE Claude            Pauvre Sonia ş1965
 : .o .     N     _SEIGNOLLE Claude            Le Chupador ş1960
 : .o .     N     _WILKINS-FREEMAN Mary E.     Luella Miller ş1902 Luella Miller
-: .o .     N     _MEYRINK Gustav              La Visite de J.H. Obereit chez les sangsues du temps ş? J.H. Obereit besuch bei den Zeiten geln
+: .o .     N     _MEYRINK Gustav              La Visite de J.H. Obereit chez les sangsues du temps ş1916 J.H. Obereits Besuch bei den Zeit-Egeln
 : .o .     N     _BENSON Edward F.            Mrs Amworth ş1922 Mrs. Amworth
 : .o .     N     _BENSON Edward F.            Et nul oiseau ne chante ş1926 And No Bird Sings
 : .o .     N     _WHARTON Edith               L'Ensorcel‚ ş1925 Bewitched
@@ -536,7 +551,7 @@ o OMNI_SF     ?  1997.xx ..... ISBN 2-258-04782-X
 : .o .     N     _JOHNSTONE David A.          Monsieur Alucard ş1964 Mr. Alucard
 : .o .     N     _SPINRAD Norman              Le Mal des vampires ş1993 Vampire Junkies
 : .o .     R     _SOMTOW S.P.                 Vampire Junction [Vampire Junction - 1] ş1984 Vampire junction
-: .o .     N     _RICE Anne                   Le MaŒtre de Rampling Gate ş1985 The Master of Rampling Gate
+: .o .     N     _RICE Anne                   Le MaŒtre de Rampling Gate ş1984 The Master of Rampling Gate
 !--- Vampires du futur :
 : .o .     N     _MOORE Catherine L.          Shambleau [Northwest Smith] ş1933 Shambleau
 : .o .     N     _MATHESON Richard            DerriŠre l'‚cran ş1951 Through Channels
@@ -545,7 +560,7 @@ o OMNIBUS     ?  1998.05 ..... ISBN 2-258-05013-8
 - .pTP     R5    *BAUDOU Jacques              Paniques - Les Thrillers des ann‚es 80 ş1998
 : .x .     R     _McGIVERN William Peter      La Nuit de l'‚gorgeur ş1975 Night of the Juggler şTrad. ?
 : .o .     R     _MACLEAN Charles             Le Guetteur ş1982 The Watcher şTrad. ?
-: .oT.     R     _BANKS Iain M.               Le Seigneur des guˆpes ş1984 The Wasp Factory şTrad. ?
+: .xT.     R     _BANKS Iain M.               Le Seigneur des guˆpes ş1984 The Wasp Factory şTrad. ?
 : .o .     R     _MAXIM John R.               Temps mort ş1986 Time Out of Mind şTrad. ?
 : .! .     R     _KATZENBACH John             Le Voyageur sans visage ş? ? şTrad. ?
 : .o .     o     _BAUDOU Jacques              Postface ş1998
@@ -553,24 +568,24 @@ o OMNI_SF     ?  1998.xx ..... ISBN 2-258-04058-2
 } noimg          _?                           ?
 + OMNI_SF     ?  2002.xx ..... ISBN 2-258-04920-2
 } noimg          _?                           ?
+!--- TBC si titre avec des accolades ou parenthŠses : "(Moi + n)(Moi - n)"
+!--- TBC Breckenridge en VF et TO
+!--- TBD si recueil/section identifi‚ "N‚ avec les morts et sept autres nouvelles"
 - .oS.    _R4N8  _SILVERBERG Robert           Voyage au bout de l'esprit ş1998
 : .o .     p     _GOIMARD Jacques             Les Hauteurs secrŠtes ş1974
 : .o .     R     _SILVERBERG Robert           Le Temps des changements ş1971 A Time of Changes
 : .o .     R     _SILVERBERG Robert           Le Livre des crƒnes ş1972 The Book of Skulls
 : .o .     R     _SILVERBERG Robert           Dying inside ş1972 Dying Inside
-!--- Note : id "L'oreille interne"
+!--- Note : id "L'Oreille interne"
 : .o .     R     _SILVERBERG Robert           L'Homme programm‚ ş1972 The Second Trip
-!--- N‚ avec les morts et sept autres nouvelles
 : .o .     N     _SILVERBERG Robert           {Moi + n}{Moi - n} ş1972 Now +  N / Now - N
-!--- TBC ou : (Moi + n)(Moi - n) ş1972 {Now + n, now -n}
 : .o .     N     _SILVERBERG Robert           Ce qu'il y avait dans le journal ce matin ş1972 What We Learned from This Morning's Newspaper
 : .o .     N     _SILVERBERG Robert           Quand nous sommes all‚s voir la fin du monde ş1972 When We Went to See the End of the World
 : .o .     N     _SILVERBERG Robert           Breckenridge et le continuum ş1973 Breckenridge and the Continuum
-!--- TBC Breckenridge en VF et TO
 : .o .     N     _SILVERBERG Robert           La Maison des doubles esprits ş1973 In the House of Double Minds
 : .o .     N     _SILVERBERG Robert           Schwartz et les galaxies ş1974 Schwartz Between the Galaxies
-: .o .     N     _SILVERBERG Robert           N‚ avec les morts ş1974 Born With the Dead
-: .o .     N     _SILVERBERG Robert           Le Dybbuk de Mazel Tov IV ş1974 The Dybbuk Of Mazel Tov IV
+: .o .     r     _SILVERBERG Robert           N‚ avec les morts ş1974 Born With the Dead
+: .o .     N     _SILVERBERG Robert           Le Dybbuk de Mazel Tov IV ş1974 The Dybbuk of Mazel Tov IV
 o OMNI_SF     ?  1999.01 ..... ISBN 2-258-05104-5
 } asimov_fondation_1 _?                           ?
 - .oS.    _R3    _ASIMOV Isaac                Le D‚clin de Trantor [Cycle de Fondation - 1][Fondation] ş1999
@@ -608,7 +623,7 @@ o OMNI_SF    26i 1999.xx ..... ISBN 2-258-04805-2
 = .o .     N     _BOULLE Pierre               Une nuit interminable ş1953
 = .o .     N     _BOULLE Pierre               Le Poids d'un sonnet ş1953
 = .o .     N     _BOULLE Pierre               Le RŠgne des sages ş1953
-= .o .     N     _BOULLE Pierre               Le Parfait robot ş1953
+= .o .     N     _BOULLE Pierre               Le Parfait Robot ş1953
 = .o .     N     _BOULLE Pierre               L'Homme qui ha‹ssait les machines ş?
 = .o .     N     _BOULLE Pierre               Les Luniens ş1957
 = .o .     N     _BOULLE Pierre               L'Amour et la pesanteur ş1952
@@ -628,7 +643,7 @@ o OMNIBUS     ?  2011.06 ..... ISBN 978-2-258-09066-8
 = .o .     N     _BOULLE Pierre               Une nuit interminable ş1953
 = .o .     N     _BOULLE Pierre               Le Poids d'un sonnet ş1953
 = .o .     N     _BOULLE Pierre               Le RŠgne des sages ş1953
-= .o .     N     _BOULLE Pierre               Le Parfait robot ş1953
+= .o .     N     _BOULLE Pierre               Le Parfait Robot ş1953
 = .o .     N     _BOULLE Pierre               L'Homme qui ha‹ssait les machines ş?
 = .o .     N     _BOULLE Pierre               Les Luniens ş1957
 = .o .     N     _BOULLE Pierre               L'Amour et la pesanteur ş1952
@@ -649,7 +664,7 @@ o OMNI_SF     ?  2000.xx ..... ISBN 2-258-05559-8
 : .oS.     F     _CLARKE Arthur C.            2001, l'odyss‚e de l'espace [L'Odyss‚e de l'espace - 1] ş1968 2001: A Space Odyssey
 : .oS.     R     _CLARKE Arthur C.            2010 : Odyss‚e deux [L'Odyss‚e de l'espace - 2] ş1982 2010 Odyssey Two
 : .oS.     E     _CLARKE Arthur C.            Le 20 Juillet 2019 ş1986 Arthur C. Clarke's July 20, 2019: Life in the 21st Century
-: .oS.     R     _CLARKE Arthur C.            2061 : odyss‚e trois [L'Odyss‚e de l'espace - 3] ş1988 2061 : Odyssey Three
+: .oS.     R     _CLARKE Arthur C.            2061 : odyss‚e trois [L'Odyss‚e de l'espace - 3] ş1988 2061: Odyssey Three
 : .oS.     R     _CLARKE Arthur C.            3001, l'odyss‚e finale [L'Odyss‚e de l'espace - 4] ş1997 3001: The Final Odyssey
 : .oS.     N     _CLARKE Arthur C.            Rencontres … l'aube [L'Odyss‚e de l'espace] ş1953 Encounter in the Dawn / Expedition to Earth / Encounter at Dawn
 : .oS.     N     _CLARKE Arthur C.            La Sentinelle [L'Odyss‚e de l'espace] ş1951 Sentinel of Eternity / The Sentinel
@@ -669,17 +684,17 @@ o OMNI_SF     ?  2003.xx ..... ISBN 2-258-05858-9
 - .oY.    kA70   *DUVEAU Marc                 La Grande Anthologie de la fantasy ş2003
 !--- Attention, anthos revus depuis les anthos PP : textes supprim‚s et ajout‚s
 : .oY.    kA13   *DUVEAU Marc                 Le Manoir des roses ş1978-2003
-= .o .     N     _DUNSANY Lord                Chu-bu et Sheemish ş1911 Chu-bu and Sheemish şTrad. DUVEAU Marc
+= .o .     N     _DUNSANY Lord                Chu-bu et Sheemish ş1911 Chu-Bu and Sheemish şTrad. DUVEAU Marc
 = .o .     N     _BOK Hannes                  La Quˆte de la pierre ş1974 Jewel Quest
 = .o .     N     _SMITH Clark Ashton          Le Voyage du roi Euvoran ş1933 The Voyage of King Euvoran
 = .o .     P     _HOWARD Robert E.            La Chambre de Belle-Dame ş1978 A Lady's Chamber
 = .o .     N     _VANCE Jack                  Les Dix-Sept Vierges [La Terre mourante] ş1974 The Seventeen Virgins
 = .o .     N     _LE GUIN Ursula K.           La BoŒte d'ombre ş1963 Darkness Box
-= .o .     P     _PEAKE Mervyn                Quand les hommes-f‚lins... ş? When Tiger-men Sat Their Mercurial Coursers
-= .o .     P     _PEAKE Mervyn                Lorsque Dieu eut coup‚ ş? When Gods Pared His Fingernails
-= .o .     P     _PEAKE Mervyn                Aux heures cr‚pusculaires ş? At Times of Half-light
+= .o .     P     _PEAKE Mervyn                Quand les hommes-f‚lins... ş1978 When Tiger-Men Sat Their Mercurial Coursers
+= .o .     P     _PEAKE Mervyn                Lorsque Dieu eut coup‚... ş1978 When God Pared His Fingernails
+= .o .     P     _PEAKE Mervyn                Aux heures cr‚pusculaires ş1978 At Times of Half-Light
 = .o .     N     _CARTER Lin                  Les Dieux de Niom Parma ş1966 The Gods of Niom Parma
-= .o .     N     _NORTON Andr‚                Le Forgeur de rˆves ş1972 Dream smith
+= .o .     N     _NORTON Andre                Le Forgeur de rˆves ş1972 Dream smith
 = .o .     P     _MORRIS William              Deux roses … la brune, rouges sur fond de lune ş1929 Two Red Roses Across the Moon
 = .o .     N     _SWANN Thomas Burnett        Le Manoir des roses ş1966 The Manor of Roses
 : .oY.    kA18   *DUVEAU Marc                 La Citadelle ‚carlate ş1979-2003
@@ -688,23 +703,23 @@ o OMNI_SF     ?  2003.xx ..... ISBN 2-258-05858-9
 = .o .     N     _HOWARD Robert E.            Le Crƒne du silence ş1967 The Skull of Silence
 = .o .     P     _SMITH Clark Ashton          Memnons de la nuit ş1922 Memnons of the Night
 = .o .     N     _DE CAMP Lyon Sprague        Ka le terrifiant [Pos‚idonis] ş1958 Ka the Appalling
-= .o .     N     _LEIBER Fritz                La Tristesse du bourreau ş1973 The Sadness of Executioner
+= .o .     N     _LEIBER Fritz                La Tristesse du bourreau ş1973 The Sadness of the Executioner
 = .o .     P     _HOWARD Robert E.            Clair de lune sur un crƒne ş1933 Moonlight on a Skull
 = .o .     P     _HOWARD Robert E.            Ninive, mais o— sont tes rˆves d'autrefois ş1979 Dreams of Niniveh
 = .o .     N     _CARTER Lin                  Le Gardien de la flame ‚meraude ş1970 Keeper of the Emerald Flame
-= .o .     N     _JAKES John                  Les Fant“mes de pierre ş? Ghosts of Stone
-= .o .     N     _MOORCOCK Michael            Le Retour du dieu mort ş1963 Dead God's Homecoming
+= .o .     N     _JAKES John                  Les Fant“mes de pierre ş1968 Ghosts of Stone
+= .o .     r     _MOORCOCK Michael            Le Retour du dieu mort ş1963 Dead God's Homecoming
 !--- Idem que le premier chapitre du Pocket 5185 avec quelques lignes (de qui ?) en plus en intro et en conclusion pour situer le personnage
 = .o .     N     _WELLS Herbert George        La Plaine des araign‚es ş1903 The Valley of Spiders
 = .o .     N     _SMITH Clark Ashton          Le D‚sert d‚sol‚ de Soom ş1938 The Desolation of Soom
 = .oY.     N     _WALTHER Daniel              Dans le repaire de la goule ş1974
 = .oY.     N     _FONTANA Jean-Pierre         La Cam‚l‚one [La Geste du Halaguen] ş1972
 = .o .     N     _ANDERSON Poul               Le Barbare ş1956 The Barbarian
-= .o .     P     _HOWARD Robert E.            Cimm‚rie ş1932 Cimmeria
-= .o .     N     _HOWARD Robert E.            La Citadelle ‚carlate ş1933 The Scarlet Citadel
+= .o .     P     _HOWARD Robert E.            Cimm‚rie [Conan] ş1932 Cimmeria
+= .o .     N     _HOWARD Robert E.            La Citadelle ‚carlate [Conan] ş1933 The Scarlet Citadel
 : .oY.    kA13   *DUVEAU Marc                 La Cath‚drale de sang ş1982-2003
 = .o .     N     _AKERS Alan Burt             Le Magicien de Scorpio ş1976 Wizard of Scorpio şTrad. DUVEAU Marc
-= .o .     N     _KLINE Otis Aldebert         Une vision de V‚nus ş1933 A Vision of Venus şTrad. GARSAULT Claire & Alain
+= .o .     N     _KLINE Otis Adelbert         Une vision de V‚nus ş1933 A Vision of Venus şTrad. GARSAULT Claire & Alain
 = .o .     N     _JONES Bruce                 L'Orgueil de la flotte ş1977 Pride of the Fleet şTrad. GARSAULT Alain
 = .o .     N     _ELLISON Harlan              Le Jour o— les pierres... ş1972 Bleeding Stones şTrad. PERRIN Mimi
 = .o .     N     _KOONTZ Dean R.              Quand viennent les dragons ş1967 Soft Come the Dragons şTrad. HERSANT Denise
@@ -717,7 +732,7 @@ o OMNI_SF     ?  2003.xx ..... ISBN 2-258-05858-9
 = .o .     N     _REMY Yves & Ada             L'Apocalypse selon Saint EusŠbe ş1979
 = .o .     P     _GUITTEAUD Corinne           Angels and stars ş2003
 : .oY.    kA9    *DUVEAU Marc                 La Dame des crƒnes ş2003
-= .o .     N     _BRADLEY Marion Zimmer       L'p‚e du chaos ş1982 A Sword of Chaos
+= .o .     N     _BRADLEY Marion Zimmer       L'p‚e du chaos [Chroniques de T‚n‚breuse][La Romance de T‚n‚breuse] ş1982 A Sword of Chaos şTrad. ?
 = .o .     N     _LACKEY Mercedes             Sur l'‚p‚e ş1986 Sword-Sworm
 = .o .     N     _ROBERSON Jennifer           La Vall‚e de l'ombre ş1986 Valley of the Shadow
 = .o .     N     _KURTZ Katherine             Bethane ş1982 Bethane
@@ -739,7 +754,7 @@ o OMNI_SF     ?  2003.xx ..... ISBN 2-258-05858-9
 = .o .     P     _YOLEN Jane                  La Belle et la Bˆte, un anniversaire de mariage ş1989 Beauty and the Beast: An Anniversary
 = .o .     N     _MOORCOCK Michael            Etoiles blanches ş1975 White Stars şTrad. GILLES Elisabeth
 = .o .     N     _MARTIN George R.R.          Comme un chant de lumiŠre triste ş1976 The Lonely Songs of Laren Dorr şTrad. PERRIN Mimi
-= .o .     N     _WEIS Margaret               L'preuve des jumeaux ş1987 The Test of the Twins
+= .o .     N     _WEIS Margaret               L'preuve des jumeaux [Lancedragon] ş1987 The Test of the Twins
 = .o .     N     _DE LINT Charles             Roue libre ş1990 Freewheeling
 = .o .     N     _MORRESSY John               L'Heure des comptes ş1990 Timekeeper
 = .o .     N     _HAMILTON Laurell K.         Les Oies sauvages ş1991 Geese
@@ -834,15 +849,15 @@ o OMNI_SF     ?  2004.02 ..... ISBN 2-258-06404-X
 - .oS.     R6    _SIMAK Clifford D.           Les Mines du temps ş2004
 !--- Pr‚face Goimard
 : .oS.    cU9    _SIMAK Clifford D.           Demain les chiens ş1952 City şTrad. ROSENTHAL Jean
-= .oS.     N     _SIMAK Clifford D.           La Cit‚ ş1944 City
-= .oS.     N     _SIMAK Clifford D.           La TaniŠre ş1944 Huddling Place
-= .oS.     N     _SIMAK Clifford D.           Le Recensement ş1944 Census
-= .oS.     N     _SIMAK Clifford D.           Les D‚serteurs ş1944 Desertion
-= .oS.     N     _SIMAK Clifford D.           Le Paradis ş1946 Paradise
-= .oS.     N     _SIMAK Clifford D.           Les Passe-Temps ş1946 Hobbies
-= .oS.     N     _SIMAK Clifford D.           Esope ş1947 Aesop
-= .oS.     N     _SIMAK Clifford D.           Un moyen bien simple ş1951 The Trouble With Ants
-= .oS.     N     _SIMAK Clifford D.           Epilogue ş1973 Epilogue
+= .oS.     N     _SIMAK Clifford D.           La Cit‚ ş1944 City şTrad. ROSENTHAL Jean
+= .oS.     N     _SIMAK Clifford D.           La TaniŠre ş1944 Huddling Place şTrad. ROSENTHAL Jean
+= .oS.     N     _SIMAK Clifford D.           Le Recensement ş1944 Census şTrad. ROSENTHAL Jean
+= .oS.     N     _SIMAK Clifford D.           Les D‚serteurs ş1944 Desertion şTrad. ROSENTHAL Jean
+= .oS.     N     _SIMAK Clifford D.           Le Paradis ş1946 Paradise şTrad. ROSENTHAL Jean
+= .oS.     N     _SIMAK Clifford D.           Les Passe-Temps ş1946 Hobbies şTrad. ROSENTHAL Jean
+= .oS.     N     _SIMAK Clifford D.           Esope ş1947 Aesop şTrad. ROSENTHAL Jean
+= .oS.     N     _SIMAK Clifford D.           Un moyen bien simple ş1951 The Trouble With Ants şTrad. ROSENTHAL Jean
+= .oS.     N     _SIMAK Clifford D.           Epilogue ş1973 Epilog şTrad. ROSENTHAL Jean
 : .oS.     R     _SIMAK Clifford D.           Dans le torrent des siŠcles ş1950 Time and Again / First he Died / Time Quarry şTrad. GALLET Georges H.
 : .oS.     R     _SIMAK Clifford D.           ChaŒne autour du Soleil ş1952 Ring Around the Sun şTrad. SCIAMA Michel
 : .oS.     R     _SIMAK Clifford D.           Le Pˆcheur ş1961 The Fisherman / Time Is the Simplest Thing şTrad. ROSENTHAL Jean
@@ -855,7 +870,7 @@ o OMNI_SF    44i 2004.09 ..... ISBN 2-258-05611-X
 : .oS.     p     _GOIMARD Jacques             Pr‚face ş2004
 : .oS.     N     _VERNE Jules                 L'ternel Adam ş1910
 : .oS.     N     _WELLS Herbert George        L'toile ş1897 The Star
-: .oS.     N     _LOVECRAFT Howard P.         Air froid ş1926 Cool Air
+: .oS.     N     _LOVECRAFT Howard P.         Air froid ş1928 Cool Air
 : .oS.     N     _WYNDHAM John                La Roue ş1952 The Wheel
 : .oS.     N     _SIMAK Clifford D.           Courtoisie ş1951 Courtesy
 : .oS.     N     _MOORE Catherine L.         &Impasse ş1942 Deadlock
@@ -880,21 +895,20 @@ o OMNI_SF    44i 2004.09 ..... ISBN 2-258-05611-X
 : .oS.     N     _SHECKLEY Robert             Tu br–les ! ş1953 Warm
 : .oS.     N     _DICK Philip K.              D‚finir l'humain ş1955 Human Is
 : .oS.     N     _BRUNNER John                La parole est d'argent ş1965 Speech Is Silver
-: .oS.     N     _ALDISS Brian W.             Un dollar ‡a vaut combien ? ş1975 What You Get for Your Dollar?
+: .oS.     N     _ALDISS Brian W.             Un dollar ‡a vaut combien ? ş1975 What You Get for Your Dollar
 !--- Demander … HH : 70 ou 75 ? Quel titre VO ?
 : .oS.     N     _BALLARD James G.            Le G‚ant noy‚ ş1964 The Drowned Giant
 : .oS.     N     _MOORCOCK Michael            La Montagne ş1965 The Mountain
 : .oS.     N     _PRIEST Christopher          La Tˆte et la main ş1972 The Head and the Hand
 : .oS.     N     _WATSON Ian                  L'largissement du monde ş1983 The Width of the World
 : .oS.     N     _SHAW Bob                    LumiŠre des jours enfuis ş1966 Light of Other Days
-: .oS.     N     _SILVERBERG Robert           Voir l'homme invisible ş1963 To See Invisible Man
+: .oS.     N     _SILVERBERG Robert           Voir l'homme invisible ş1963 To See the Invisible Man
 !--- TBC HH titre VO ?
 : .oS.     N     _ZELAZNY Roger               L'Homme qui aimait la Fa‹oli ş1967 The Man who Loved the Faioli
 !--- TBC HH: the ou a Faioli ?
 : .oS.     N     _LAFFERTY Raphael A.         Voyage dans une boŒte de conserve ş1970 Ride in a Tin Can
 : .oS.     N     _DISCH Thomas M.             Le Massacre des voitures ş? Killing the Cars
-: .oS.     N     _LE GUIN Ursula K.           Le Collier de Seml‚ [Cycle de Hain] ş1965 The Dowry of Angyar / Semley's Necklace
-!--- TBC HH : date VO + titre VO
+: .oS.     N     _LE GUIN Ursula K.           Le Collier de Seml‚ [Cycle de Hain] ş1964 The Dowry of Angyar / Semley's Necklace
 : .oS.     N     _SPINRAD Norman              Les Anges du cancer ş1967 Carcinoma Angels
 : .oS.     N     _WILHELM Kate                Demain, le silence ş1970 The Chosen
 : .oS.     N     _BEAR Greg                   Le Chant des leucocytes ş1983 Blood Music
@@ -904,8 +918,7 @@ o OMNI_SF    44i 2004.09 ..... ISBN 2-258-05611-X
 : .oS.     N     _STICKGOLD Bob               La R‚alit‚ de Susie ş1973 Susie's Reality
 : .oS.     N     _RESNICK Mike                Le dernier … quitter la planŠte est pri‚ d'‚teindre le soleil ş1992 Will the Last Person to Leave the Planet Please Shut Off the Sun?
 !-- TBC HH titre VO
-: .oS.     N     _TERTZ Abram                 Pkhentz ş1961 Pkhentz
-!--- TBC HH date VO
+: .oS.     N     _TERTZ Abram                 Pkhentz ş1959 Pkhents / Pkhentz
 : .oS.     N     _LEM Stanislas               La Clinique du docteur Vliperdius ş1971 Zaklad doktor Vliperduisa
 : .oS.     N     _FRANKE Herbert W.           Les Enclaves ş1972 Die Enklaven
 : .oS.     N     _PESTRINIERO Renato          Les Hommes des tableaux ş1972 Quelli dei quadri
@@ -955,7 +968,7 @@ o OMNI_SF     ?  2005.09 ..... ISBN 2-258-06642-5
 : .oF.     N     _STURGEON Theodore          &La SorciŠre du marais ş1942 The Hag S‚leen
 &                _BEARD James H.              
 : .oS.     N     _STURGEON Theodore           Le Bƒton de Miouhou ş1946 Mewhu's Jet şTrad. MARTIN Bruno
-: .o .     N     _STURGEON Theodore           Les Mains de Bianca ş1947 Bianca's Hand's şTrad. PIIR Eric
+: .o .     N     _STURGEON Theodore           Les Mains de Bianca ş1947 Bianca's Hands şTrad. PIIR Eric
 : .o .     N     _STURGEON Theodore           Et la foudre et les roses ş1947 Thunder and Roses şTrad. BILLON Pierre
 : .o .     N     _STURGEON Theodore           Ci-gŒt Sizygie ş1948 It Wasn't Sizygy şTrad. PIIR Eric
 : .oS.     N     _STURGEON Theodore           Un pied dans la tombe ş1948 One Foot in the Grave şTrad. DOREMIEUX Alain
@@ -988,7 +1001,7 @@ o OMNI_SF     ?  2006.01 ..... ISBN 2-258-06972-6
 : .oS.     R     _WYLIE Philip                La Fin du rˆve ş1972 The End of the Dream şTrad. MARTIN Bruno
 : .oS.     R     _CHRISTOPHER John            Terre br–l‚e ş1956 The Death of Grass / No Blade of Grass şTrad. DOREMIEUX Alain
 : .oS.     R     _HARRISON Harry              Soleil vert ş1966 Make Room! Make Room! şTrad. MORATI E. de
-: .oS.     R     _MOORCOCK Michael            La Goelette des glaces ş1966 The Ice Shooner şTrad. GUIOD Jacques
+: .oS.     R     _MOORCOCK Michael            La Goelette des glaces ş1966-1969 The Ice Schooner şTrad. GUIOD Jacques
 : .oS.     R     _DISCH Thomas M.             G‚nocides ş1965 The Genocides şTrad. ABADIA Guy
 o OMNI_SF     ?  2006.02 ..... ISBN 2-258-07022-8
 } omni_mart      _?                           ?
@@ -997,7 +1010,7 @@ o OMNI_SF     ?  2006.02 ..... ISBN 2-258-07022-8
 - .oS.    _R3    _ROBINSON Kim Stanley        La Trilogie martienne [La Trilogie martienne - 1/3] ş1995
 : .oS.     R     _ROBINSON Kim Stanley        Mars la rouge [La Trilogie martienne - 1] ş1992 Red Mars şTrad. HAAS Dominique
 : .oS.     R     _ROBINSON Kim Stanley        Mars la verte [La Trilogie martienne - 2] ş1993 Green Mars şTrad. HAAS Dominique
-: .oS.     R     _ROBINSON Kim Stanley        Mars la bleue [La Trilogie martienne - 3] ş1995 Blue Mars şTrad. HAAS Dominique
+: .oS.     R     _ROBINSON Kim Stanley        Mars la bleue [La Trilogie martienne - 3] ş1996 Blue Mars şTrad. HAAS Dominique
 o OMNI_SF     ?  2006.04 ..... ISBN 2-258-07039-2
 } omnibus_brussolo _?                           ?
 - .oS.    _R4N12 _BRUSSOLO Serge              Cauchemars parallŠles : romans et nouvelles ş2006
@@ -1021,13 +1034,14 @@ o OMNI_SF     ?  2006.04 ..... ISBN 2-258-07039-2
 : .oS.     R     _BRUSSOLO Serge              Proc‚dure d'‚vacuation imm‚diate des mus‚es fant“mes ş1987
 o OMNI_SF     ?  2006.05 ..... ISBN 2-258-06682-4
 } omnibus_elric  _                            ?
-- .oY.     Rx    _MOORCOCK Michael            Le Cycle d'Elric [Le Cycle d'Elric - 1/9] ş2006
-!--- Avant-propose de Michael Moorcock
-!--- Pr‚face de Jacques Goimard
+!--- TBD si prologue identifi‚ / … r‚f‚rencer pour le fixup Stormbringer
+- .oY.     Rx    _MOORCOCK Michael            Le Cycle d'Elric [Le Cycle d'Elric] ş2006
+: .oY.   i p     _MOORCOCK Michael            Avant-propos ş? ?
+: .oY. vii p     _GOIMARD Jacques             Elric l'aviateur ş2006
 : .oY.   7 R     _MOORCOCK Michael            Elric des dragons [Le Cycle d'Elric - 1] ş1972 Elric of Melnibon‚ şTrad. HALIN Daphn‚
-: .oY. 125 R     _MOORCOCK Michael            La Forteresse de la perle [Le Cycle d'Elric - 2] ş1989 The Fortress of the Pearl şTrad. LEBEC G‚rard
-: .oY. 311 R     _MOORCOCK Michael            Le Navigateur sur les mers du destin [Le Cycle d'Elric - 3] ş1976 The Sailor on the Seas of Fate şTrad. BARLOW George W.
-: .oY. 443kN4    _MOORCOCK Michael            Elric le n‚cromancien [Le Cycle d'Elric - 4] ş1977 The Weird of the White Wolf şTrad. DEMUTH Michel & STRASCHITZ Frank
+: .oY. 125 R     _MOORCOCK Michael            La Forteresse de la perle [Le Cycle d'Elric - 7] ş1989 The Fortress of the Pearl şTrad. LEBEC G‚rard
+: .oY. 311 R     _MOORCOCK Michael            Le Navigateur sur les mers du destin [Le Cycle d'Elric - 2] ş1976 The Sailor on the Seas of Fate şTrad. BARLOW George W.
+: .oY. 443kC4    _MOORCOCK Michael            Elric le n‚cromancien [Le Cycle d'Elric - 3] ş1977 The Weird of the White Wolf şTrad. DEMUTH Michel & STRASCHITZ Frank
 = .o . 445 N     _MOORCOCK Michael            Prologue ş1981
 = .o . 446 N     _MOORCOCK Michael            Le Songe du comte Aubec ş1964 Master of Chaos / The Dream of Earl Aubec
 = .o . 458 N     _MOORCOCK Michael            La Cit‚ qui rˆve ş1961 The Dreaming City
@@ -1037,20 +1051,19 @@ o OMNI_SF     ?  2006.05 ..... ISBN 2-258-06682-4
 = .o .     N     _MOORCOCK Michael            Le Tourment du dernier seigneur ş1970 The Torment of the Last Lord
 = .o .     N     _MOORCOCK Michael            PiŠge pour un prince pƒle ş1970 To Snare the Pale Prince
 = .o .     N     _MOORCOCK Michael            Trois h‚ros pour un seul dessein ş1970 Three Heroes With a Single Aim
-: .oY. 665 R     _MOORCOCK Michael            La Revanche de la rose [Le Cycle d'Elric - 6] ş1991 The Revange of the Rose şTrad. MEISTERMANN E.C.L.
-: .oY. 869kC4    _MOORCOCK Michael            L'‚p‚e noire [Le Cycle d'Elric - 7] ş1977 The Bane of the Black Sword şTrad. STRASCHITZ Frank
+: .oY. 665 R     _MOORCOCK Michael            La Revanche de la rose [Le Cycle d'Elric - 8] ş1991 The Revenge of the Rose şTrad. MEISTERMANN E.C.L.
+: .oY. 869kC4    _MOORCOCK Michael            L'‚p‚e noire [Le Cycle d'Elric - 5] ş1977 The Bane of the Black Sword şTrad. STRASCHITZ Frank
 = .o .     N     _MOORCOCK Michael            Le Voleur d'ƒmes ş1962 The Stealer of Souls
 = .o .     N     _MOORCOCK Michael            Les Rois oubli‚s ş1962 Kings in Darkness
 = .o .     N     _MOORCOCK Michael            Les Porteurs de flammes ş1962 The Flame Bringers
-= .o .     N     _MOORCOCK Michael            Sauver Tanelorn ş1963 To Rescue Tanelorn
+= .o .     N     _MOORCOCK Michael            Sauver Tanelorn [La Quˆte d'Erekos‰] ş1962 To Rescue Tanelorn...
 : .oY. 981 N     _MOORCOCK Michael            Le Dernier Enchantement [Le Cycle d'Elric] ş1978 The Last Enchantment
-: .oY. 995 U4    _MOORCOCK Michael            Stormbringer [Le Cycle d'Elric - 8] ş1977 Stormbringer şTrad. STRASCHITZ Frank
-!--- .     N     _MOORCOCK Michael            Prologue ş1965
+: .oY. 995 U4    _MOORCOCK Michael            Stormbringer [Le Cycle d'Elric - 6] ş1965 Stormbringer şTrad. STRASCHITZ Frank
 = .o .     r     _MOORCOCK Michael            Le Retour du dieu mort ş1963 Dead God's Homecoming
 = .o .     r     _MOORCOCK Michael            Les FrŠres de l'‚p‚e noire ş1963 Black Sword's Brothers
 = .o .     r     _MOORCOCK Michael            Le Bouclier du g‚ant triste ş1964 Sad Giant's Shield
 = .o .     r     _MOORCOCK Michael            Le Tr‚pas du seigneur condamn‚ ş1964 Doomed Lord's Passing
-: .oY.1159iNx    _MOORCOCK Michael            Elric … la fin des temps [Le Cycle d'Elric - 9] ş1984 Elric at the End of Time şTrad. MEISTERMANN E.C.L.
+: .o .1159 N     _MOORCOCK Michael            Elric … la fin des temps [Le Cycle d'Elric] ş1981 Elric at the End of Time
 o OMNI_SF     ?  2006.09 ..... ISBN 2-258-07048-1
 } omnichimeres   _?                           ?
 - .oS.    _R11   *LEHMAN Serge                Chasseurs de chimŠres - L'ƒge d'or de la science-fiction fran‡aise ş2006
@@ -1118,14 +1131,14 @@ o OMNIBUS     ?  2007.08 ..... ISBN 978-2-258-07526-9
 : .o .     N     _SEIGNOLLE Claude            Le Chupador ş1960
 !--- Bˆtes et monstres
 : .o .     N     _MAUPASSANT Guy de           Le Horla ş1886
-: .o .     N     _HICHENS Robert S.           Comment l'amour s'imposa au professeur Guildea ş1900 How Love Came to Professor Guildea şTrad. RAS Jos
+: .o .     r     _HICHENS Robert S.           Comment l'amour s'imposa au professeur Guildea ş1900 How Love Came to Professor Guildea şTrad. RAS Jos
 : .o .     N     _MERIMEE Prosper             Lokis ş1869
 : .o .     N     _STEVENSON Robert Louis      Olalla ş1885 Olalla şTrad. VARLET L‚o
 : .o .     N     _KING Stephen                Le Radeau ş1982 The Raft
 : .o .     N     _OWEN Thomas                 PŠre et fille ş1945
 : .o .     r     _CHAMISSO Adelbert von       L'tonnante Histoire de Peter Schlemihl ş1814 Peter Schlemihls wundersame geschichte
 !--- Clans et villages
-: .o .     r     _LOVECRAFT Howard P.         Le Cauchemar d'Innsmouth ş1931 The Shadow Over Innsmouth
+: .o .     r     _LOVECRAFT Howard P.         Le Cauchemar d'Innsmouth ş1936 The Shadow Over Innsmouth
 : .o .     N     _JACKSON Shirley             La Loterie ş1948 The Lottery şTrad. ?
 : .o .     N     _BLACKWOOD Algernon          SortilŠges du fond des ƒges [John Silence] ş1908 Ancient Sorceries şTrad. PARSONS Jacques
 : .o .     N     _JAMES Henry                 Le Coin plaisant ş1908 The Jolly Corner şTrad. SERVICEN Louise
@@ -1133,7 +1146,7 @@ o OMNIBUS     ?  2007.08 ..... ISBN 978-2-258-07526-9
 : .o .     N     _JENSEN Wilhelm              Gradiva ş1903 Gradiva şTrad. OLIVIER Roger
 : .o .     N     _RAY Jean                    La Ruelle t‚n‚breuse ş1932
 : .o .     N     _MATHESON Richard            Escamotage ş1953 Disappearing Act şTrad. DOREMIEUX Alain
-: .o .     N     _KAFKA Franz                 La M‚tamorphose ş1915 Die verwandlung şTrad. LORTHOLARY Bernard
+: .o .     r     _KAFKA Franz                 La M‚tamorphose ş1915 Die verwandlung şTrad. LORTHOLARY Bernard
 !--- Rˆves et d‚lires
 : .o .     N     _HOFFMANN E.T.A.             Le Marchand de sable ş1815 Der sandmann şTrad. GOIMARD Jacques
 : .o .     N     _KIPLING Rudyard             Le Rickshaw fant“me ş1885 The Phantom Rickshaw şTrad. ENDREBE Maurice Bernard
@@ -1156,7 +1169,7 @@ o OMNIBUS     ?  2008.xx ..... ISBN 978-2-258-07608-2
 = .o .     N     _CHESTERTON Gilbert K.       L'Oeil d'Apollon [Le PŠre Brown] ş1911 The Eye of Apollo şTrad. CAMMAERTS Emile
 = .o .     N     _CHESTERTON Gilbert K.       L'p‚e bris‚e [Le PŠre Brown] ş1911 The Sign of the Broken Sword şTrad. CAMMAERTS Emile
 = .o .     N     _CHESTERTON Gilbert K.       Les Trois Instruments de la mort [Le PŠre Brown] ş1911 The Three Tools of Death şTrad. CAMMAERTS Emile
-: .pFP    iN12   _CHESTERTON Gilbert K.       La Sagesse du PŠre Brown [Le PŠre Brown] ş1914 The Wisdom of Father Brown
+: .pFP    iNx    _CHESTERTON Gilbert K.       La Sagesse du PŠre Brown [Le PŠre Brown] ş1914 The Wisdom of Father Brown
 = .o .     N     _CHESTERTON Gilbert K.       L'Absence de Mr Glass [Le PŠre Brown] ş1913 The Absence of Mr Glass şTrad. ANDRE Yves
 = .o .     N     _CHESTERTON Gilbert K.       Le Paradis des voleurs [Le PŠre Brown] ş1913 The Paradise of Thieves şTrad. ANDRE Yves
 = .o .     N     _CHESTERTON Gilbert K.       Le Duel du Dr Hirsch [Le PŠre Brown] ş1914 The Duel of Dr Hirsch şTrad. ANDRE Yves
@@ -1207,12 +1220,27 @@ o OMNIBUS     ?  2008.xx ..... ISBN 978-2-258-07608-2
 : .o .     o     _LACASSIN Fran‡is            Le D‚tective de l'autre c“t‚ du miroir ş2008
 o OMNIBUS     ?  2008.02 ..... ISBN 978-2-258-07664-8
 } omniguerriermars _?                           ?
-- .oS.     Rx    _MOORCOCK Michael            Le Cycle du guerrier de Mars ş2008
-: .oS.     R     _MOORCOCK Michael            La Cit‚ de la Bˆte [Le Cycle du guerrier de Mars - 1] ş1965 Warrior of Mars / City of the Beast şTrad. WALL-ROMANA Christophe & AMSEL J.F
-: .oS.     R     _MOORCOCK Michael            Le Seigneur des araign‚es [Le Cycle du guerrier de Mars - 2] ş1968 Blades of Mars / Lord of the Spiders şTrad. WALL-ROMANA Christophe & AMSEL J.F
-: .oS.     R     _MOORCOCK Michael            Les MaŒtres de la fosse [Le Cycle du guerrier de Mars - 3] ş1965 Barbarians of Mars / Masters of the Pit şTrad. GUILLAUME Anne
-: .o .     U11   _MOORCOCK Michael            Sojan ş1984 Sojan the Swordsman şTrad. DUSOULIER Patrick
-!--- Novella regroupant les 12 (?) nouvelles  de la s‚rie - TBC compil des nouvelles, ou fix-up : voit-on les titres ?
+- .oS.    _R4N   _MOORCOCK Michael            Le Cycle du guerrier de Mars ş2008
+: .oS.     R     _MOORCOCK Michael            La Cit‚ de la bˆte [Le Cycle du guerrier de Mars - 1] ş1965 Warriors of Mars / The City of the Beast / City of the Beast / City of the Beast or Warriors of Mars şTrad. WALL-ROMANA Christophe & AMSEL J.F
+: .oS.     R     _MOORCOCK Michael            Le Seigneur des araign‚es [Le Cycle du guerrier de Mars - 2] ş1965 Blades of Mars / The Lord of the Spiders / Lord of the Spiders / Lord of the Spiders or Blades of Mars şTrad. WALL-ROMANA Christophe & AMSEL J.F
+: .oS.     R     _MOORCOCK Michael            Les MaŒtres de la fosse [Le Cycle du guerrier de Mars - 3] ş1965 Barbarians of Mars / Masters of the Pit / The Masters of the Pit / Masters of the Pit or Barbarians of Mars şTrad. GUILLAUME Anne
+: .oS.    _U5    _MOORCOCK Michael            Sojan [Sojan - 1/12] ş1984 Sojan the Swordsman
+!--- Novella avec les nouvelles de la s‚rie, mais regroup‚es diff‚remment (5 nouvelles et non 12)
+= .o .     U     _MOORCOCK Michael            Sojan le mercenaire [Sojan - 1/2] ş1977 Sojan the Swordsman
+!= .o .     N     _MOORCOCK Michael            Fille d'un roi guerrier [Sojan - 1] ş1957 Sojan the Swordman / Daughter of a Warrior King
+!= .o .     N     _MOORCOCK Michael            Mission en Asno [Sojan - 2] ş1957 Mission to Asno
+= .o .     U     _MOORCOCK Michael            Sojan, guerrier de Zylor [Sojan - 3/4] ş1977 Sojan, Swordsman of Zylor!
+!= .o .     N     _MOORCOCK Michael            R‚volte en Atnor [Sojan - 3] ş1957 Revolt in Hatnor
+!= .o .     N     _MOORCOCK Michael            Les hordes attaquent [Sojan - 4] ş1957 The Hordes Attacks
+= .o .     U     _MOORCOCK Michael            Sojan et la mer des d‚mons [Sojan - 5/9] ş1977 Sojan and the Sea of Demons
+!= .o .     N     _MOORCOCK Michael            La GalŠre pourpre [Sojan - 5] ş1958 The Purple Galley
+!= .o .     N     _MOORCOCK Michael            Les Loups des mers [Sojan - 6] ş1958 The Sea Wolves!
+!= .o .     N     _MOORCOCK Michael            Sojan en mer [Sojan - 7] ş1958 Sojan at Sea
+!= .o .     N     _MOORCOCK Michael            La Mer des d‚mons [Sojan - 8] ş1958 The Sea of Demons
+!= .o .     N     _MOORCOCK Michael            Les Prisonniers de la pierre [Sojan - 9] ş1958 Prisoners in Stone
+= .o .     N     _MOORCOCK Michael            Sojan et la plaine du mystŠre [Sojan - 10] ş1958 Sojan and the Plain of Mystery
+= .o .     N     _MOORCOCK Michael            Sojan et les fils du dieu-serpent [Sojan - 11] ş1958 Sojan and the Sons of the Snake-god
+= .o .     N     _MOORCOCK Michael            Sojan et les chasseurs d‚moniaques de Norj [Sojan - 12] ş1958 Sojan and the Hunters of Norj / Sojan and the Devil Hunters of Norj
 : .oS.     r     _MOORCOCK Michael            La SorciŠre perdue de la citadelle muette ş2001 Lost Sorceress of the Silent Citadel şTrad. AMSEL J.-F.
 o OMNIBUS     ?  2009.01 ..... ISBN 978-2-258-07702-7
 } omni_hawk      _?                           ?
@@ -1224,7 +1252,7 @@ o OMNIBUS     ?  2009.01 ..... ISBN 978-2-258-07702-7
 : .oY.     R     _MOORCOCK Michael            L'p‚e de l'aurore [Hawkmoon - 3] ş1968 The Sword of Dawn şTrad. FERRY Bernard
 : .oY.     R     _MOORCOCK Michael            Le Secret des runes [Hawkmoon - 4] ş1969 The Secret of the Runestaff / The Runestaff şTrad. FERRY Bernard
 : .oY.     R     _MOORCOCK Michael            Le Comte Airain [Hawkmoon - 5] ş1973 Count Brass şTrad. LEBEC G‚rard
-: .oY.     R     _MOORCOCK Michael            Le Champion de Garathorm [Hawkmoon - 6] ş1973 The Champion of Garathorn şTrad. LEBEC G‚rard
+: .oY.     R     _MOORCOCK Michael            Le Champion de Garathorm [Hawkmoon - 6] ş1973 The Champion of Garathorm şTrad. LEBEC G‚rard
 : .oY.     R     _MOORCOCK Michael            La Quˆte de Tanelorn [Hawkmoon - 7] ş1975 The Quest for Tanelorn şTrad. LEBEC G‚rard
 o OMNIBUS     ?  2009.05 ..... ISBN 978-2-258-08019-5
 } omnibusrlune   _?                           ?
@@ -1268,7 +1296,7 @@ o OMNIBUS     ?  2011.05 ..... ISBN 978-2-258-08800-9
 : .? .     N     _GAUTIER Th‚ophile           Les Rou‚s innocents ş?
 : .oF.     N     _GAUTIER Th‚ophile           Le Pavillon sur l'eau ş?
 : .? .     N     _GAUTIER Th‚ophile           Miltona ş?
-: .oF.     N     _GAUTIER Th‚ophile           L'Enfant aux souliers de pain ş?
+: .oF.     N     _GAUTIER Th‚ophile           L'Enfant aux souliers de pain ş1849
 : .? .     N     _GAUTIER Th‚ophile           Jean et Jeannette ş?
 : .o .     N     _GAUTIER Th‚ophile           Arria Marcella, souvenir de Pomp‚i ş1852
 : .o .     r     _GAUTIER Th‚ophile           Avatar ş1856
@@ -1276,6 +1304,14 @@ o OMNIBUS     ?  2011.05 ..... ISBN 978-2-258-08800-9
 : .o .     R     _GAUTIER Th‚ophile           Spirite ş1865
 : .? .     N     _GAUTIER Th‚ophile           Spirite, nouvelle fantastique ş?
 : .? .     N     _GAUTIER Th‚ophile           Mademoiselle Dafn‚ ş?
+o OMNIBUS     ?  2012.02 ..... ISBN 978-2-258-09108-5
+} omnibussvdm    _?                           ?
+- .oZ.    kR5    _PELOT Pierre                Sous le vent du monde [Sous le vent du monde - 1/5] ş2012
+: .oZ.   7 R     _PELOT Pierre                Qui regarde la montagne au loin [Sous le vent du monde - 1] ş1997
+: .oZ. 249 R     _PELOT Pierre                Le Nom perdu du Soleil [Sous le vent du monde - 2] ş1998
+: .oZ. 516 R     _PELOT Pierre                Debout dans le ventre blanc du silence [Sous le vent du monde - 3] ş1999
+: .oZ. 761 R     _PELOT Pierre                Avant la fin du ciel [Sous le vent du monde - 4] ş2000
+: .oZ.1063 R     _PELOT Pierre                Ceux qui parlent au bord de la pierre [Sous le vent du monde - 5] ş2001
 o OMNIBUS     ?  2012.09 ..... ISBN 978-2-258-09180-1
 } omni_tarzan    _?                           ?
 - .xAZ    kR5    _BURROUGHS Edgar Rice       &La L‚gende de Tarzan [Tarzan - 1/5] ş2012
@@ -1290,11 +1326,11 @@ o OMNIBUS     ?  2012.02 ..... ISBN 978-2-258-08770-5
 } omni_mars      _Marc Taraskoff              ?
 - .oS.    kR5    _BURROUGHS Edgar Rice        Le Cycle de Mars [Cycle de Mars - 1/5] ş2012
 : .o .     p     _JACCAUD Fr‚d‚ric            Sous les lunes de Barsoom ş2012
-: .oS.     R     _BURROUGHS Edgar Rice        La Princesse de Mars [Cycle de Mars - 1] ş1912 Under the Moons of Mars / A Princess of Mars şTrad. MARTIN Charles-No‰l
-: .oS.     R     _BURROUGHS Edgar Rice        Les Dieux de Mars [Cycle de Mars - 2] ş1913 The Gods of Mars şTrad. MARTIN Charles-No‰l
-: .oS.     R     _BURROUGHS Edgar Rice        Le Guerrier de Mars [Cycle de Mars - 3] ş1914 The Warlords of Mars şTrad. MARTIN Charles-No‰l
+: .oS.     R     _BURROUGHS Edgar Rice        La Princesse de Mars [Cycle de Mars - 1] ş1912 Under the Moons of Mars / A Princess of Mars / Carter of the Red Planet / The Princess of Mars şTrad. MARTIN Charles-No‰l
+: .oS.     R     _BURROUGHS Edgar Rice        Les Dieux de Mars [Cycle de Mars - 2] ş1913 The Gods of Mars / Gods of Mars şTrad. MARTIN Charles-No‰l
+: .oS.     R     _BURROUGHS Edgar Rice        Le Guerrier de Mars [Cycle de Mars - 3] ş1914 The Warlord of Mars / Warlord of Mars şTrad. MARTIN Charles-No‰l
 : .oS.     R     _BURROUGHS Edgar Rice        Thuvia, vierge de Mars [Cycle de Mars - 4] ş1916 Thuvia Maid of Mars şTrad. MARTIN Charles-No‰l
-: .oS.     R     _BURROUGHS Edgar Rice        Echecs sur Mars [Cycle de Mars - 5] ş1922 The Chessmen of Mars şTrad. PARSONS Jacques
+: .oS.     R     _BURROUGHS Edgar Rice        Echecs sur Mars [Cycle de Mars - 5] ş1922 The Chessmen of Mars / Chessmen of Mars şTrad. PARSONS Jacques
 o OMNIBUS     ?  2013.10 ..... ISBN 978-2-258-10561-4
 } omni_mars2     _Marc Taraskoff              ?
 - .oS.    kR5    _BURROUGHS Edgar Rice        Le Cycle de Mars II [Cycle de Mars - 6/10] ş2013
@@ -1344,7 +1380,7 @@ o OMNIBUS     ?  2014.06 ..... ISBN 978-2-258-10833-2
 = .o .     N     _LE FANU J. Sheridan         Th‚ vert [Le Dr. Hesselius] ş1869 Green Tea
 = .o .     N     _LE FANU J. Sheridan         Le Guetteur [Le Dr. Hesselius] ş1851 The Familiar / The Watcher şTrad. REUMAUX Patrick
 = .o .     N     _LE FANU J. Sheridan         M. le juge Harbottle [Le Dr. Hesselius] ş1872 Mr. Justice Harbottle
-= .o .     r     _LE FANU J. Sheridan         La Chambre de l'auberge du Dragon Volant [Le Dr. Hesselius] ş1872 The Room in the Dragon Volant şTrad. ARNAUD
+= .o .     r     _LE FANU J. Sheridan         La Chambre de l'Auberge du Dragon Volant [Le Dr. Hesselius] ş1872 The Room in the Dragon Volant şTrad. ARNAUD
 = .o .     r     _LE FANU J. Sheridan         Carmilla [Le Dr. Hesselius] ş1871 Carmilla şTrad. REUMAUX Patrick
 : .o .     P     _LE FANU J. Sheridan         D'une fenˆtre, … mi-voix ş1896 A Doggrel in a Dormant-Window şTrad. REUMAUX Patrick
 o OMNIBUS     ?  2014.09 ..... ISBN 978-2-258-10725-0
@@ -1383,75 +1419,89 @@ o OMNIBUS     ?  2007.01 ..... ISBN 978-2-258-07331-9
 } noimg          _?                           ?
 - .oS.    iAx    *DELMAS Marie-Charlotte      D‚mons et sorciers - Les cr‚atures du diable [Le Grand L‚gendaire de France - 3] ş2007
 o OMNIBUS     ?  2012.03 ..... ISBN 978-2-258-09254-9
-} omni_erckmann  _?                           ?
-- .oF.    iAx    _ERCKMANN-CHATRIAN          &Contes fantastiques ((Contes fantastique de Erckmann-Chatrian)) ş2012
+} omni_erckmann  _Odilon Redon                ?
+!--- ISBN num‚rique = 978-2-258-09716-2
+>--- Le texte "Science et g‚nie" est ‚galement pr‚c‚d‚ d'une notice de l'anthologiste.
+>--- Ces textes d'introduction de chaque ouvrage n'ont pas de titres en d‚but de texte.
+- .pF.    kAx    _ERCKMANN-CHATRIAN          &Contes fantastiques ((Contes fantastiques de Erckmann-Chatrian)) ş2012
 &                *RIOUX Jean-Pierre           
-: .oF.    kN4    _ERCKMANN-CHATRIAN           Histoires et contes fantastiques ((Contes fantastique de Erckmann-Chatrian)) ş1849
+: .o .     p     _RIOUX Jean-Pierre           Pr‚sentation ş2012
+: .oF.    kN4    _ERCKMANN-CHATRIAN           Histoires et contes fantastiques ((Contes fantastiques de Erckmann-Chatrian)) ş1849
+= .o .     p     _RIOUX Jean-Pierre           (Notice) ş2012
 = .o .     N     _ERCKMANN-CHATRIAN           La Mal‚diction ş1849
 = .o .     N     _ERCKMANN-CHATRIAN           Vin rouge et vin blanc ş1849
 = .o .     N     _ERCKMANN-CHATRIAN           Rembrandt ş1849
-= .o .     N     _ERCKMANN-CHATRIAN           Fantaisie ş1849
+= .o .     P     _ERCKMANN-CHATRIAN           Fantaisie ş1849
 : .oF.     N     _ERCKMANN-CHATRIAN           Science et g‚nie ş1850
-: .oF.    iNx    _ERCKMANN-CHATRIAN           L'Illustre Docteur Math‚us ş1859
-= .o .     R     _ERCKMANN-CHATRIAN           L'Illustre Docteur Math‚us ş?
-?: .o .     N     _ERCKMANN-CHATRIAN           L'Oeil invisible ou l'auberge des trois pendus ş1858
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Requiem du corbeau ş1858
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Bourgmestre en bouteille ş1857
-?: .o .     N     _ERCKMANN-CHATRIAN           La Tresse noire ş1859
-?: .o .     N     _ERCKMANN-CHATRIAN           Messire Tempus ş1859
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Chant de la tonne ş1859
-: .pF.    iNx    _ERCKMANN-CHATRIAN           Contes de la montagne ş1860
-?: .oF.     N     _ERCKMANN-CHATRIAN           Une nuit dans les bois ş?
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Tisserand de la Steinbach ş?
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Violon du pendu ş?
-?: .oF.     N     _ERCKMANN-CHATRIAN           L'H‚ritage de mon oncle Christian ş?
-?: .o .     r     _ERCKMANN-CHATRIAN           Hugues-le-loup ş1876
-?: .? .     N     _ERCKMANN-CHATRIAN           Pourquoi Hunebourg ne fut pas rendu ş?
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Bouc d'Isra‰l ş1860
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Combat d'ours ş1860
-: .oF.    iNx    _ERCKMANN-CHATRIAN           Contes fantastiques ((Contes fantastiques de Erckmann-Chatrian)) ş1860
-?: .o .     N     _ERCKMANN-CHATRIAN           L'Esquisse myst‚rieuse ş1860
-?: .o .     N     _ERCKMANN-CHATRIAN           Gretchen ş1860
-?: .o .     N     _ERCKMANN-CHATRIAN           Entre deux vins ş1860
-?: .o .     N     _ERCKMANN-CHATRIAN           La Lunette de Hans Schnaps ş1859
-?: .o .     N     _ERCKMANN-CHATRIAN           Crispinus, ou l'histoire interrompue ş1860
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Rˆve de mon cousin Elof ş1859
-?: .o .     N     _ERCKMANN-CHATRIAN           L'Oreille de la chouette ş1860
-?: .o .     N     _ERCKMANN-CHATRIAN           Les Fianc‚s de Grinderwald ş1860
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Combat de coqs, ou le hibou de la synagogue ş1860
-?: .o .     N     _ERCKMANN-CHATRIAN           La Montre du doyen ş1859
-?: .o .     N     _ERCKMANN-CHATRIAN           Les Trois ƒmes ş1859
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Sacrifice d'Abraham ş1860
-?: .o .     N     _ERCKMANN-CHATRIAN           Hans Storkus ş1860
-?: .o .     N     _ERCKMANN-CHATRIAN           L'Araign‚e-Crabe ş1860
-: .pF.    iN9    _ERCKMANN-CHATRIAN           Contes des bords du Rhin ş1862
-?: .o .     N     _ERCKMANN-CHATRIAN           Myrtille ş1860
-?: .? .     N     _ERCKMANN-CHATRIAN           Mon illustre ami Selsam ş?
-?: .oF.     N     _ERCKMANN-CHATRIAN           La Pˆche miraculeuse ş?
-?: .oF.     N     _ERCKMANN-CHATRIAN           Le Tr‚sor du vieux seigneur ş?
-?: .oF.     N     _ERCKMANN-CHATRIAN           La Reine des abeilles ş1862
-?: .? .     N     _ERCKMANN-CHATRIAN           Le Talion ş?
-?: .oF.     N     _ERCKMANN-CHATRIAN           Le Blanc et le noir ş1862
-?: .o .     N     _ERCKMANN-CHATRIAN           La Voleuse d'enfants ş?
-?: .oF.     N     _ERCKMANN-CHATRIAN           Le Cabaliste Hans Weinland ş1862
-: .pF.    iN11   _ERCKMANN-CHATRIAN           Contes populaires ş1866
-?: .? .     N     _ERCKMANN-CHATRIAN           Le Rˆve d'Alo‹us ş?
-?: .o .     N     _ERCKMANN-CHATRIAN           L'Oeil invisible ş1858
-?: .x .     N     _ERCKMANN-CHATRIAN           La ComŠte ş?
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Bourgmestre en bouteille ş1857
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Requiem du corbeau ş1858
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Juif polonais ş?
-?: .? .     N     _ERCKMANN-CHATRIAN           Les Boh‚miens d'Alsace ş?
-?: .o .     N     _ERCKMANN-CHATRIAN           Messire Tempus ş1859
-?: .o .     N     _ERCKMANN-CHATRIAN           Le Chant de la tonne ş1859
-?: .? .     N     _ERCKMANN-CHATRIAN           Le Coquillage de l'oncle Bernard ş?
-?: .o .     N     _ERCKMANN-CHATRIAN           La Tresse noire ş1859
-: .pF.    iN5    _ERCKMANN-CHATRIAN           Contes vosgiens ş1877
-?: .? .     N     _ERCKMANN-CHATRIAN           Annette et Jean-Claude ş?
-?: .? .     N     _ERCKMANN-CHATRIAN           Le R‚cit du pŠre J‚r“me ş?
-?: .x .     N     _ERCKMANN-CHATRIAN           La Trompette des hussards bleus ş?
-?: .x .     N     _ERCKMANN-CHATRIAN           Le Vieux Tailleur ş?
-?: .o .     N     _ERCKMANN-CHATRIAN           Gretchen ş1860
+: .oF.    kN6    _ERCKMANN-CHATRIAN           L'Illustre Docteur Math‚us ş1859
+!--- Seul 6 textes repris, "Le Bourgmestre en bouteille" ‚tant une reprise de "Vin rouge et vin blanc".
+= .o .     p     _RIOUX Jean-Pierre           (Notice) ş2012
+= .o .     R     _ERCKMANN-CHATRIAN           L'Illustre Docteur Math‚us ş1858
+= .o .     N     _ERCKMANN-CHATRIAN           Le Requiem du corbeau ş1858
+= .o .     N     _ERCKMANN-CHATRIAN           L'Oeil invisible ou l'auberge des trois pendus ş1858
+= .o .     N     _ERCKMANN-CHATRIAN           La Tresse noire ş1859
+= .o .     N     _ERCKMANN-CHATRIAN           Messire Tempus ş1859
+= .o .     N     _ERCKMANN-CHATRIAN           Le Chant de la tonne ş1859
+: .pF.    kN8    _ERCKMANN-CHATRIAN           Contes de la montagne ş1860
+= .o .     p     _RIOUX Jean-Pierre           (Notice) ş2012
+= .o .     r     _ERCKMANN-CHATRIAN           Hugues-le-loup ş1860
+= .oF.     N     _ERCKMANN-CHATRIAN           Une nuit dans les bois ş1859
+= .o .     N     _ERCKMANN-CHATRIAN           Le Violon du pendu ş?
+= .o .     N     _ERCKMANN-CHATRIAN           Le Combat d'ours ş1860
+= .oF.     N     _ERCKMANN-CHATRIAN           L'H‚ritage de l'oncle Christian ş1860
+= .o .     N     _ERCKMANN-CHATRIAN           Le Tisserand de la Steinbach ş?
+= .o .     N     _ERCKMANN-CHATRIAN           Le Bouc d'Isra‰l ş1860
+= .? .     N     _ERCKMANN-CHATRIAN           Pourquoi Hunebourg ne fut pas rendu ş?
+: .oF.    kN13   _ERCKMANN-CHATRIAN           Contes fantastiques ((Contes fantastiques de Erckmann-Chatrian)) ş1860
+!--- Seul 13 textes repris, "Le Sacrifice d'Abraham" ‚tant une reprise de "Rembrandt"
+= .o .     p     _RIOUX Jean-Pierre           (Notice) ş2012
+= .o .     N     _ERCKMANN-CHATRIAN           La Lunette de Hans Schnaps ş1859
+= .o .     N     _ERCKMANN-CHATRIAN           Gretchen ş1860
+= .o .     N     _ERCKMANN-CHATRIAN           Entre deux vins ş1860
+= .o .     N     _ERCKMANN-CHATRIAN           Le Rˆve de mon cousin Elof ş1859
+= .o .     N     _ERCKMANN-CHATRIAN           Les Fianc‚s de Grinderwald ş1860
+= .o .     N     _ERCKMANN-CHATRIAN           Le Hibou de la synagogue ş1860
+= .o .     N     _ERCKMANN-CHATRIAN           La Montre du doyen ş1859
+= .o .     N     _ERCKMANN-CHATRIAN           Les Trois ƒmes ş1859
+= .o .     N     _ERCKMANN-CHATRIAN           Hans Storkus ş1860
+= .o .     N     _ERCKMANN-CHATRIAN           L'Esquisse myst‚rieuse ş1860
+= .o .     N     _ERCKMANN-CHATRIAN           Crispinus, ou l'histoire interrompue ş1860
+= .o .     N     _ERCKMANN-CHATRIAN           L'Oreille de la chouette ş1860
+= .o .     N     _ERCKMANN-CHATRIAN           L'Araign‚e-Crabe ş1860
+: .pF.    kN11   _ERCKMANN-CHATRIAN           Contes des bords du Rhin ş1862-1867
+>--- Les deux derniers contes, Les Boh‚miens et Le Citoyen Schneider sont ajout‚s dans la nouvelle ‚dition de 1867
+= .o .     p     _RIOUX Jean-Pierre           (Notice) ş2012
+= .? .     N     _ERCKMANN-CHATRIAN           Mon illustre ami Selsam ş?
+= .o .     N     _ERCKMANN-CHATRIAN           Myrtille ş1860
+= .oF.     N     _ERCKMANN-CHATRIAN           Le Cabaliste Hans Weinland ş1862
+= .? .     N     _ERCKMANN-CHATRIAN           Le Talion ş?
+= .oF.     N     _ERCKMANN-CHATRIAN           La Reine des abeilles ş1862
+= .oF.     N     _ERCKMANN-CHATRIAN           Le Tr‚sor du vieux seigneur ş?
+= .oF.     N     _ERCKMANN-CHATRIAN           Le Blanc et le noir ş1862
+= .oF.     N     _ERCKMANN-CHATRIAN           La Pˆche miraculeuse ş?
+= .o .     N     _ERCKMANN-CHATRIAN           La Voleuse d'enfants ş?
+= .o .     N     _ERCKMANN-CHATRIAN           Les Boh‚miens ş1864
+= .? .     N     _ERCKMANN-CHATRIAN           Le Citoyen Schneider ş1862
+: .pF.    kN4    _ERCKMANN-CHATRIAN           Contes populaires ş1866
+>--- Ne pr‚sente que 4 des 11 contes du recueil original, les autres ayant ‚t‚ repris dans d'autres recueils.
+= .o .     p     _RIOUX Jean-Pierre           (Notice) ş2012
+= .? .     N     _ERCKMANN-CHATRIAN           Le Rˆve d'Alo‹us ş?
+= .x .     N     _ERCKMANN-CHATRIAN           La ComŠte ş1865
+= .? .     N     _ERCKMANN-CHATRIAN           Les Boh‚miens sous la R‚volution ş?
+= .? .     N     _ERCKMANN-CHATRIAN           Le Coquillage de l'oncle Bernard ş?
+: .pF.    kN4    _ERCKMANN-CHATRIAN           Contes vosgiens ş1877
+= .? .     N     _ERCKMANN-CHATRIAN           Annette et Jean-Claude ş?
+= .? .     N     _ERCKMANN-CHATRIAN           Le R‚cit du pŠre J‚r“me ş?
+= .x .     N     _ERCKMANN-CHATRIAN           La Trompette des hussards bleus ş?
+= .x .     N     _ERCKMANN-CHATRIAN           Le Vieux Tailleur ş?
+: .C .     C     _ERCKMANN-CHATRIAN           Varia
+: .x .     N     _ERCKMANN-CHATRIAN           Les Papiers de madame Jeannette ş1870
+: .? .     N     _ERCKMANN-CHATRIAN           Les Orateurs de mon village ş?
+: .? .     N     _ERCKMANN-CHATRIAN           Une veill‚e au village ş?
+: .? .     N     _ERCKMANN-CHATRIAN           Le Pƒt‚ de lapin ş?
+: .? .     N     _ERCKMANN-CHATRIAN           La Vision de M.ÿNicolas Poirier ş?
+: .? .     N     _ERCKMANN-CHATRIAN           Les Trois Amoureux de la grand-mŠre ş?
+: .? .     N     _ERCKMANN-CHATRIAN           Lo‹s ş?
 
 o OMNIBUS     ?  2011.01 ..... ISBN 978-2-258-08379-0
 } omni_auel2rr11 _?                           ?
@@ -1481,18 +1531,18 @@ o OMNIBUS     ?  2018.01 ..... ISBN 978-2-258-14624-2
 o OMNI_CL     ?  2007.01 ..... ISBN 978-2-258-07315-9
 } omnib_balzac   _?                           ?
 !--- XX-1126 pages
-- .pF.    iA30   _BALZAC Honor‚ de           &La Com‚die des t‚nŠbres ş2007
+- .pF.    iAx    _BALZAC Honor‚ de           &La Com‚die des t‚nŠbres ş2007
 &                *LACASSIN Francis            
 : .oF.     R     _BALZAC Honor‚ de            Le Centenaire ou les deux B‚ringheld ş1822
 : .o .     N     _BALZAC Honor‚ de            Le Pacte ş?
 : .oF.     N     _BALZAC Honor‚ de            La Com‚die du diable ş1830
 : .o .     N     _BALZAC Honor‚ de            J‚sus-Christ en Flandre ş1830-1845
 : .o .     N     _BALZAC Honor‚ de            Melmoth r‚concili‚ ş1835
-?: .? .     ?     _BALZAC Honor‚ de            La DerniŠre F‚e ş?
-: .o .     N     _BALZAC Honor‚ de            Histoire v‚ritable de la bossue courageuse ş?
+?: .o .     ?     _BALZAC Honor‚ de            La DerniŠre F‚e ş1823
+: .o .     N     _BALZAC Honor‚ de            Histoire v‚ritable de la bossue courageuse ş1833
 : .oF.     N     _BALZAC Honor‚ de            L'lixir de longue vie ş1830
 : .o .     N     _BALZAC Honor‚ de            Les Deux Rˆves ş1830
-?: .? .     ?     _BALZAC Honor‚ de            Opium ş?
+?: .? .     N     _BALZAC Honor‚ de            L'Opium ş?
 : .oF.     N     _BALZAC Honor‚ de            Les Litanies romantiques ş1830
 : .oF.     N     _BALZAC Honor‚ de            Le D“me des Invalides ş1832
 : .o .     R     _BALZAC Honor‚ de            La Peau de chagrin ş1831
@@ -1538,7 +1588,7 @@ o OMNI_GR     ?  2005.11 ..... ISBN 2-258-06954-8
 - .oF.    _R2    *AZIZA Claude               &L'‚trange Histoire de Arthur Gordon Pym [Arthur Gordon Pym] ş2005
 &                _POE Edgar Allan            &
 &                _VERNE Jules                 
-: .oF.     R     _POE Edgar Allan             Les Aventures d'Arthur Gordon Pym [Arthur Gordon Pym] ş1840 The Narrative of A.Gordon Pym şTrad. BAUDELAIRE Charles
+: .oF.     R     _POE Edgar Allan             Les Aventures d'Arthur Gordon Pym [Arthur Gordon Pym] ş1838 The Narrative of Arthur Gordon Pym of Nantucket şTrad. BAUDELAIRE Charles
 : .xA.     R     _VERNE Jules                 Le Sphinx des glaces [Arthur Gordon Pym] ş1897
 !--- Charles Baudelaire, Edgar Poe, sa vie et ses ouvres, Notes nouvelles sur Edgar Poe
 !--- Jules Verne, Edgar Poe et ses oeuvres
@@ -1582,7 +1632,7 @@ o OMNI_GR     ?  2002.xx ..... ISBN 2-258-05855-4
 o OMNI_GR     ?  2002.11 ..... ISBN 2-258-05856-2
 } omni_4e_feu    _?                           ?
 - .pS.    kRx    _VERNE Jules                 Les Quatre ‚l‚ments - les romans du feu ş2002
-: .o .     R     _VERNE Jules                 Voyage au centre de la Terre ş1864-1967
+: .o .     R     _VERNE Jules                 Voyage au centre de la Terre ş1864-1867
 : .o .     R     _VERNE Jules                 Le Chƒteau des Carpathes ş1892
 : .xA.     R     _VERNE Jules                 Les Indes noires ş1877
 : .oS.     R     _VERNE Jules                 MaŒtre du monde [Robur le conqu‚rant - 2] ş1904
@@ -1799,7 +1849,7 @@ o OMNI_RG    22i 1997.xx ..... ISBN 2-258-04580-0
 ?: .? .     N     _SAND George                 Le Moine des Etangs-Brisses ş1858
 ?: .? .     N     _SEIGNOLLE Claude            Un viol ş?
 ?: .? .     N     _LAPAIRE Hugues              La Vieille qui fit sa mort elle-mˆme ş?
-?: .? .     N     _SEIGNOLLE Claude            Le Christ est veng‚ ş?
+?: .? .     N     _SEIGNOLLE Claude            Le Christ est veng‚ ş1966
 ?: .? .     N     _LAPAIRE Hugues              La Charrue ş?
 : .o .     N     _SAND George                 Le Lupeux ş?
 ?: .? .     N     _Laisnel de la Salle         Langage des animaux ş?
@@ -1809,7 +1859,7 @@ o OMNI_RG    22i 1997.xx ..... ISBN 2-258-04580-0
 ?: .? .     N     _Laisnel de la Salle         Le Serpent au diamant ş?
 ?: .? .     N     _Laisnel de la Salle         Le Devin ş?
 ?: .? .     N     _Jean-Louis Boncour          Le Sorcier Jean-Lou ş?
-?: .? .     N     _SEIGNOLLE Claude            Un bel ensorcel‚ ş?
+?: .? .     N     _SEIGNOLLE Claude            Un bel ensorcel‚ ş1965
 ?: .? .     N     _SEIGNOLLE Claude            L'Odile ş?
 ?: .? .     N     _SAND George                 Les Trois Hommes de pierre ş?
 ?: .? .     N     _SAND George                 Le Meneu' de loups ş?
@@ -1937,13 +1987,14 @@ o OMNI_PO     ?  1993.xx ..... ISBN 2-258-03692-5
 : .pFP     A18   *HITCHCOCK Alfred            Histoires … lire avec pr‚caution ş1979 Tales to Be Read with Caution
 = .? .     N     _HOCH Edward D.              Diamants volent ! ş1972 A Melee of Diamonds
 = .? .     N     _WELLEN Edward               L'Identification ş1959 Which One's the Guilty One?
-= .? .     N     _LUTZ John                   Sans enfreindre la loi ş1972 Within The Law
+= .? .     N     _LUTZ John                   Sans enfreindre la loi ş1972 Within the Law
 = .? .     N     _SCHISGALL Oscar             Les Lettres de Mme de CarrŠre ş1958 The Letters of Mme. de Carrere
 = .? .     N     _SHARKEY Jack                Bleu camarde ş1962 Deadly Shade of Blue
 = .? .     N     _OLSON Donald                Coeur de pierre ş1973 The Man Who Took It with Him
 = .? .     N     _WESTLAKE Donald E.          Ah, mes a‹eux ! ş1961 Never Shake a Family Tree
 = .? .     N     _WASYLYK Stephen             Calcul de probabilit‚s ş1968 The Loose End
-= .? .     N     _LINK W. & LEVINSON R.       Une m‚moire infaillible ş1959 Memory Game
+= .? .     N     _LINK William               &Une m‚moire infaillible ş1959 Memory Game
+&  ?             _LEVINSON Richard            
 = .? .     N     _SMITH Pauline C.            La Disparition de Linda ş1973 Linda Is Gone
 = .? .     N     _GILFORD C.B.                Modus Operandi ş1972 Frightened Lady
 = .? .     N     _GILLIES Jacques             L'Homme multiple ş1959 The Plural Mr. Grimaud
@@ -1955,12 +2006,12 @@ o OMNI_PO     ?  1993.xx ..... ISBN 2-258-03692-5
 = .? .     N     _NIELSEN Helen               Mort d'un vendeur de voiture ş1959 The Very Hard Sell
 : .pFP     A15   *HITCHCOCK Alfred            Histoires dr“lement inqui‚tantes ş1980 Tales to Fill You with Fear and Trembling
 = .? .     N     _McKAY Robert                Un professionnel ş1964 A Professionnal
-= .? .     N     _COLBY Robert                La mort est ma compagne ş1968 Death is a Lonely Lover
+= .? .     N     _COLBY Robert                La mort est ma compagne ş1968 Death Is a Lonely Lover
 = .? .     N     _STARK Richard               On ne badine pas avec la mort 1961 Just a Little Impractical Joke
 = .? .     N     _WALTON Bryce                Docteur Apollon ş1958 Doctor Apollo / My Name Is Apollo
 = .o .     N     _MATHESON Richard            Les Enfants de No‚ ş1957 The Children of Noah şTrad. ?
 = .? .     N     _BRAUND Mary                 Plus vrai que nature ş1972 To the Manner Born
-= .? .     N     _ULLMAN James M.             Un investissement bien r‚fl‚chi ş1967 A Sound Investment
+= .? .     N     _ULLMAN James Michael        Un investissement bien r‚fl‚chi ş1967 A Sound Investment
 = .? .     N     _NUSSBAUM Al                 Le pass‚ est mort ş1968 The Dead Past
 = .? .     N     _GOULART Ron                 Feeling ş1966 The Tin Ear
 = .? .     N     _SMITH Pauline C.            Suicide … l'am‚ricaine ş1953 Scheme for destruction
@@ -1991,12 +2042,12 @@ o OMNI_PO     ?  1994.xx ..... ISBN 2-258-03693-3
 } omnibhitch2    _?                           ?
 + OMNI_PO     ?  2001.xx ..... ISBN 2-258-05872-4
 } omnibhitch2rr01 _?                           ?
-- .pFP    _N100  *HITCHCOCK Alfred            Alfred Hitchcock pr‚sente : 100 nouvelles histoires extraordinaires ş1994
+- .pFP    _A100  *HITCHCOCK Alfred            Alfred Hitchcock pr‚sente : 100 nouvelles histoires extraordinaires ş1994
 : .pFP    _A16   *HITCHCOCK Alfred            Histoires … faire froid dans le dos ş1977 Having a Wonderful Crime
 = .? .     N     _SLESAR Henry                Communaut‚ t‚l‚phonique ş1960 The Deadly Telephone şTrad. ENDREBE Maurice Bernard
 = .o .     N     _RITCHIE Jack                La DerniŠre Bombe ş1957 Bomb #14 şTrad. HEROUX Philippe
 = .? .     N     _CRAIG Jonathan              La QuatriŠme Fois ş1957 Stop Calling Me Mister şTrad. AMALRIC H‚lŠne
-= .? .     N     _FLORA Fletcher              La Voix ş1960 Tune Me In şTrad. KELLERSON Philippe
+= .? .     N     _FLORA Fletcher              La Voix ş1960 Tune Me in şTrad. KELLERSON Philippe
 = .? .     N     _HOCH Edward D.              Le Diable de Jersey ş1971 The Jersey Devil şTrad. BILLON Pierre
 = .? .     N     _HARDWICK Richard            Martha, in memoriam ş1960 Martha: In Memoriam şTrad. MILLOT-JACQUIN Simone
 = .? .     N     _NIELSEN Helen               Les Locataires du premier ş1961 The Affair Upstairs şTrad. DARCIS NoclŠte & Pierre
@@ -2031,7 +2082,7 @@ o OMNI_PO     ?  1994.xx ..... ISBN 2-258-03693-3
 : .pFP    _A14   *HITCHCOCK Alfred            Histoires … vous glacer le sang ş1970 Get Me to the Wake on Time
 = .x .     N     _ELLIS Elijah                Une amŠre victoire ş1968 A Familiar Victory
 = .x .     N     _COLBY Robert                Le Contrat ş1972 An Important Kill
-= .? .     N     _HARDWICK Richard            La Pˆche miraculeuse ş1966 The Deep Six
+= .x .     N     _HARDWICK Richard            La Pˆche miraculeuse ş1966 The Deep Six
 = .x .     N     _BREWER Gil                  Et maintenant, adieu ! ş1968 Goodbye, Now
 = .x .     N     _GILFORD C.B.                Tue-moi gentiment ş1966 Murder Me Gently
 = .x .     N     _DEMING Richard              Le Facteur commun ş1965 The Common Factor
@@ -2049,7 +2100,7 @@ o OMNI_PO     ?  1994.xx ..... ISBN 2-258-03693-3
 = .o .     N     _POWELL Talmage              Un jur‚ unique ş1959 Jury of One
 = .o .     N     _RITCHIE Jack                Entre deux portes ş1959 Between 4 and 12
 = .x .     N     _STARK Richard               Ces curieux ‚vŠnements qui pr‚c‚dŠrent mon ex‚cution ş1960 The Curious Facts Preceding My Execution
-= .? .     N     _DEAL Borden                 Au boniment ş196 Make Your Pitch
+= .x .     N     _DEAL Borden                 Au boniment ş1966 Make Your Pitch
 = .? .     N     _FLORA Fletcher              Un usage trŠs particulier ş1965 Something Very Special
 = .x .     N     _DEMING Richard              L'Avancement ş1965 The Promotion
 = .x .     N     _HARDWICK Richard            Disparu comme par magie ş1960 Gone as by Magic
@@ -2062,22 +2113,22 @@ o OMNI_PO     ?  1994.xx ..... ISBN 2-258-03693-3
 = .x .     N     _LUTZ John                   Le Pique-Nique ş1971 The Day of the Picnic
 = .x .     N     _BLAIR Robert Alan           A Chinois... Chinois et demi ş? ?
 : .pFP    _A18   *HITCHCOCK Alfred            Histoires … fr‚mir debout ş?
-= .? .     N     _FARR Douglas                L'Argent appelle l'argent ş1966 The Rich Get Richer
-= .? .     N     _MERGENDAHL Charles          Pr‚monition ş1957 Premonition
-= .? .     N     _JANIFER Laurence M.         La Poire en deux ş1959 The World's Oldest Motive
-= .x .     N     _DERVEER Max Van             La MeurtriŠre ş1967 The Murderess
+= .x .     N     _FARR Douglas                L'argent appelle l'argent ş1966 The Rich Get Richer
+= .x .     N     _MERGENDAHL Charles          Pr‚monition ş1957 Premonition
+= .x .     N     _JANIFER Laurence M.         La Poire en deux ş1959 The World's Oldest Motive
+= .x .     N     _VAN DERVEER Max             La MeurtriŠre ş1967 The Murderess
 = .x .     N     _DAVIS Franklin M.           Sept millions de suspects ş1959 Seven Million Suspects
 = .x .     N     _ELLIS Dick                  Le Pasteur et la brebis ş1966 Beware the Righteous Man
-= .? .     N     _FLORA Fletcher              Le dŒner sera froid ş1963 Dinner Will Be Cold
+= .x .     N     _FLORA Fletcher              Le dŒner sera froid ş1963 Dinner Will Be Cold
 = .o .     N     _POWELL Talmage              Une intuition que j'ai eue.. ş1959 I Had a Hunch, And...
-= .? .     N     _HUNSBERGER Bruce            Une promotion de poids ş1967 A Weightly Promotion
+= .x .     N     _HUNSBERGER Bruce            Une promotion de poids ş1967 A Weightly Promotion
 = .o .     N     _GILFORD C.B.                Contenu : un cadavre ş1963 Contents: One Body
-= .? .     N     _HARDWICK Richard            Mar‚e haute ş1963 High Tide
+= .x .     N     _HARDWICK Richard            Mar‚e haute ş1963 High Tide
 = .x .     N     _RUSSELL Ray                 La Marquesa ş1969 The Marquesa
 = .x .     N     _HALACY Daniel Stephen       Le Flic coriace ş1965 Hardheaded Cop
 = .x .     N     _PORGES Irwin                Personne avec qui jouer ş1968 Nobody to Play With
 = .x .     N     _COLBY Robert                Un marin en eau trouble ş1968 A Nice Wholesome Girl
-= .? .     N     _HOLDING James               A bon entendeur... ş1972 A Message From Marsha
+= .? .     N     _HOLDING James               A bon entendeur... ş1972 A Message from Marsha
 = .x .     N     _DE ROSSO H.A.               Pas de piti‚ pour le mouchard ş1960 No Tears for an Informer
 = .x .     N     _NIELSEN Helen               Sortie nocturne ş1960 Woman Missing
 : .pFP    _A17   *HITCHCOCK Alfred            Histoires … vous faire dresser les cheveux sur la tˆte ş?
@@ -2106,7 +2157,7 @@ o OMNI_PO     ?  1994.xx ..... ISBN 2-258-03694-1
 = .? .     N     _PORGES Arthur               Pique et pique et dr“le de drame ş1965 Stung 
 = .? .     N     _WESTLAKE Donald E.          Le Doigt sur la d‚tente ş1961 The Feel of the Trigger
 = .? .     N     _HARDWICK Richard            La R‚ussite inattendue ş? ?
-= .? .     N     _ALTER Robert Edmond         Un rire sauvage ş1964 Echo of a Savage
+= .x .     N     _ALTER Robert Edmond         Un rire sauvage ş1964 Echo of a Savage
 = .? .     N     _PHILLIPS Rog                Le Traitement complet ş1961 The Full Treatment
 = .? .     N     _RALTSON Gilbert             D‚truire, dit-il ş? ?
 = .? .     N     _SLESAR Henry                Le Jour de l'ex‚cution ş1957 The Day of the Execution
@@ -2118,14 +2169,34 @@ o OMNI_PO     ?  1994.xx ..... ISBN 2-258-03694-1
 = .? .     N     _RYDE Nedra                  Une attitude d'assassin ş1969 The Attitude of Murder
 = .? .     N     _BRETT Mike                  Le Jeunot dans la guimbarde ş? ?
 = .? .     N     _HELLER David A.             Riche... ou mort ş1967 Rich - or Dead
-: .pFP     Ax    *HITCHCOCK Alfred            Histoires qui font tilt ş? ?
+: .pFP     A20   *HITCHCOCK Alfred            Histoires qui font tilt ş1968 Games Killers Play
+= .? .     N     _GILFORD C.B.                Un assassinat rˆv‚ ş1972 Dream of a Murder
+= .? .     N     _POWELL Talmage              Fric-Frac pianissimo ş1964 Heist In Pianissimo
+= .? .     N     _RITCHIE Jack                L'Attention captive ş1964 Captive Audience
+= .? .     N     _CRAIG Jonathan              Le Bus de Chattanooga ş1964 Bus To Chattanooga
+= .? .     N     _SLESAR Henry                Meurtre en diff‚r‚ ş1962 Murder Delayed
+= .? .     N     _HOCH Edward D.              L'Arbitre des in‚l‚gances ş1969 Arbiter of Uncertainties
+= .? .     N     _LEWIS Richard O.            Un charmant jeune homme ş1975 The Nice Young Man
+= .? .     N     _LACY Ed                     Le crime ne paie pas assez ş1960 Crime Doesn't Pay Enough
+= .? .     N     _DEMING Richard              Brave Type ş1969 Nice Guy
+= .! .     N     _PORGES Arthur               Mutations ş1966 Bad Noose
+= .? .     N     _WOLF Murray                 La Mort dans l'ƒme ş1956 Wetback
+= .? .     N     _LUTZ John                   Paroles fatidiques ş1974 Doom Signal
+= .? .     N     _ALTER Robert Edmond         Double Malchance ş1962 Double Trouble
+= .? .     N     _HARDWICK Richard            De main morte ş1965 Wish You Were Here
+= .! .     N     _FLORA Fletcher              Q.I. 184 ş1962 IQ 184
+= .? .     N     _HARRINGTON Joyce            L'appartement au-dessus du garage ş1975 The Garage Apartment / The Flat Above the Garage
+= .? .     N     _CSIDA Joseph                Les 79 meurtres ş1963 The 79 Murders of Martha Hill Gibbs
+= .? .     N     _ROBY Mary Linn              Mme Gilly et le gigolo ş1965 Mrs. Gilly and the Gigolo
+= .x .     N     _WEBB Jack                   Tout m‚compte fait... ş1960 One November Night
+= .? .     N     _MATHIESON Theodore          S‚cr‚taire … tout faire ş1975 The Compleat Secretary
 : .pFP     A17   *HITCHCOCK Alfred            Histoires … faire pƒlir la nuit ş1971 This One Will Kill You
 = .? .     N     _LACY Ed                     Faut pacifier ! ş1967 Store Cop
-= .? .     N     _ABBOTT Stanley              Je te tiens par la barbichette ş? ?
+= .? .     N     _ABBOTT Stanley              Je te tiens par la barbichette ş1973 Chinless Wonder
 = .? .     N     _SLESAR Henry                Le Sang qui parle ş1961 Thicker than Water
-= .? .     N     _NIELSEN Helen               L'Ironie du sort ş1960 Who has Been Sitting in My Chair?
-= .? .     N     _DEMING Richard              Coucou, la revoil… ! ş1962 The Clock is Cuckoo
-= .? .     N     _COLBY Robert                Une voix dans la nuit ş1969 Voice In The Night
+= .? .     N     _NIELSEN Helen               L'Ironie du sort ş1960 Who Has Been Sitting in My Chair?
+= .? .     N     _DEMING Richard              Coucou, la revoil… ! ş1962 The Clock Is Cuckoo
+= .? .     N     _COLBY Robert                Une voix dans la nuit ş1969 Voice in the Night
 = .? .     N     _HUNSBERGER Bruce            Auto-stop ş1966 The Hitchhikers
 = .? .     N     _HOLDING James               Le P‚dophobe ş1968 The Misopedist
 = .? .     N     _RITCHIE Jack                Poker menteur ş1958 Hospitality Most Serene
@@ -2137,38 +2208,93 @@ o OMNI_PO     ?  1994.xx ..... ISBN 2-258-03694-1
 = .? .     N     _ALTER Robert Edmond         Deux heures … tuer ş1960 Schedule for an Assassin
 = .? .     N     _GILFORD C.B.                Un vrai massacre ş? ?
 = .? .     N     _HARDWICK Richard            Meurtre au ralenti ş1965 Slow Motion Murder
-: .pFP     Ax    *HITCHCOCK Alfred            Histoires noires pour nuits blanches ş? ?
-: .pFP     Ax    *HITCHCOCK Alfred            Histoires … vous mettre K.O. ş? ?
-: .pFP     Ax    *HITCHCOCK Alfred            Histoires fascinantes ş? ?
+: .pFP     A20   *HITCHCOCK Alfred            Histoires noires pour nuits blanches ş1971 I Am Curious (Bloody)
+= .? .     N     _TYRE Nedra                  Meurtre entre amis ş1986 Murder Between Friends
+= .? .     N     _SCHMIRRING Alice-Mary       Le Talisman ş? Charley's Charm
+= .? .     N     _LACY Ed                     Bout de d‚cŠs ş1962 Curtain Speech
+= .? .     N     _HICKS Edwin P.              PiŠges ş1968 Mousetrap
+= .? .     N     _DECKER Duane                Faire le poids ş1960 Weighty Problem
+= .? .     N     _SLESAR Henry                Poup‚e vaudou ş1960 Voodoo Doll
+= .? .     N     _LUTZ John                   On recherche ş1971 One Way
+= .? .     N     _DEMING Richard              Tout bien calcul‚ ş1967 Calculated Alibi
+= .? .     N     _SONTUP Dan                  Infirmit‚ n'est pas vice ş1971 One-Armed Bandit
+= .? .     N     _TREMONT Philip              Le Dernier qui rira... ş1960 That Guy What Laughs Last
+= .? .     N     _DE ROSSO H.A.               Mieux vaut tard que jamais ş1957 Revenge Is Bitter Sweet
+= .? .     N     _NIELSEN Helen               Le SeptiŠme homme ş1967 The Seventh Man
+= .? .     N     _FARR Douglas                Les Racines du mal ş1975 For Every Evil
+= .? .     N     _BRINKMAN Grover             Un coup de chien ş1962 Canine Accomplice
+= .? .     N     _RITCHIE Jack                Sept Victimes ş1958 #8
+= .? .     N     _HOCH Edward D.              L'Orgueil d'Orgueville ş1972 Two Days in Organville
+= .? .     N     _FLORA Fletcher              L'Instrument ş1964 The Tool
+= .? .     N     _ELLSON Hal                  La Femme d'un soir ş1969 Holiday
+= .? .     N     _CRAIG Jonathan              Retour au pays ş1971 Yesterday's Evil
+= .? .     N     _COLBY Robert                La Veuve fatale ş1968 The Accidental Widow
+: .pFP    kA15   *HITCHCOCK Alfred            Histoires … vous mettre K.O. ş1986
+= .? .     N     _RAFFERTY S.S.               N‚crologie ş1975 Death Desk şTrad. KINNET Paul
+= .? .     N     _GILMORE James M.            Quelle moustache vous pique ? ş1966 The Real Criminal şTrad. CHERGE G‚rard de
+= .? .     N     _MARON Margaret B.           Pan ! vous ˆtes morte ş1974 Bang you're Dead şTrad. HUINH Simonne
+= .? .     N     _BRANDNER Gary               Mauvais com‚dien ş1973 Bad Actor şTrad. AUBERT Christiane
+= .? .     N     _HICKS Edwin P.              La Machine infernale du Dr Zinnkopf ş1967 Dr Zinnkopf's Devilish Device şTrad. LEMERLE Sylvette et Jacques
+= .? .     N     _HOWARD Clark                Rien ne va plus ! ş1975 Payoff Time şTrad. CROSSE F.W.
+= .? .     N     _MATHIESON Theodore          DeuxiŠme jeunesse ş1959 Second Spring şTrad. ENDREBE Maurice Bernard
+= .? .     N     _POWELL Talmage              Le Poumon d'acier ş1956 Pigeon in an Iron Lung şTrad. AUBERT Christiane
+= .? .     N     _GILFORD C.B.                Sois sage “ ma conscience ş1974 Hush Dear Conscience şTrad. WATTWILLER Dominique
+= .? .     N     _LACY Ed                     L'H‚ritage p‚rilleux ş1967 Heir to Murder şTrad. AUBERT Christiane
+= .? .     N     _HOCH Edward D.              Le Revenant ş1973 The Man Who Came Back şTrad. BARBIER Philippe
+= .? .     N     _COLBY Robert                Qu'est-ce que cent mille dollars ş1967 The Tenth Part of a Million şTrad. LEMERLE Sylvette et Jacques
+= .? .     N     _LUTZ John                   Roi du monde ş1973 King of the World şTrad. CROSSE F.W.
+= .? .     N     _DEMING Richard              Un certain risque ş1972 An Element of Risk şTrad. KELLERSON Philippe
+= .? .     N     _HARDWICK Richard            L'Entourloupe ş1966 His Brother's Caper şTrad. PIERREFEU L. de
+: .pFP     A20   *HITCHCOCK Alfred            Histoires fascinantes ş1983 A Choice of Evil
+= .? .     N     _WALTON Bryce                L'Assassin contagieux ş1966 The Contagious Killer şTrad. MILLOT-JACQUIN Simone
+= .? .     N     _RITCHIE Jack                Plan 19 ş1966 Plan Nineteen şTrad. LAUSTENNE Jean
+= .? .     N     _WASYLYK Stephen             Bonne le‡on pour un pro ş1973 Lesson for a Pro şTrad. KINNET Paul
+= .? .     N     _ULLMAN James Michael        Vol … cr‚dit ş1973 Lost and Found şTrad. HUINH Simone
+= .? .     N     _FISH Robert L.              Le Jardinier du clair de Lune ş1971 Moonlight Gardener şTrad. AUBERT Christiane
+= .? .     N     _COHEN Stanley               Br–lante vengeance ş1983 The Battered Mailbox şTrad. KELLERSON Philippe
+= .? .     N     _ALTER Robert Edmond         Chaque soir il pressait la d‚tente ş1960 Each Night He Pulled the Trigger şTrad. CHERGE G‚rard de
+= .x .     N     _BRITTAIN William            L'Automobiliste ş1972 The Driver şTrad. CHERGE G‚rard de
+= .? .     N     _DEAL Borden                 Le Chasseur traqu‚ ş1958 Hunters şTrad. CROSSE F. W.
+= .? .     N     _WEBER Thomasina             Chevalier de grands chemins ş1963 King of the Road şTrad. BARBIER Philippe
+= .o .     N     _HENSLEY Joe L.              Une odeur de meurtre ş1981 Killer Scent şTrad. PIERREFEU L. de
+= .? .     N     _LINK William               &Cher corpus delicti ş1960 Dear Corpus Delicti şTrad. ENDREBE Maurice Bernard
+&  ?             _LEVINSON Richard            
+= .? .     N     _GILFORD C.B.                Poursuite et fin ş1969 No Escape şTrad. WATTWILLER Dominique
+= .! .     N     _TREAT Lawrence              Crime … r‚p‚tition ş1957 Murder Me Twice şTrad. ROSENBLUM Arlette
+= .? .     N     _HARTMAN W. Sherwood         L'Ordre et la Justice ş1968 Mean Cop şTrad. ROSENBLUM Arlette
+= .? .     N     _HOCH Edward D.              L'Heure de puissance ş1968 A Certain Power şTrad. CHAPUIS J. P.
+= .? .     N     _OLSON Donald                La V‚rit‚ qui tue ş1972 The Truth that Kills şTrad. VILLEFRANCHE Y.
+= .? .     N     _MARLOWE Dan J.              A la fenˆtre ş1968 Center of Attention şTrad. ALAIN Claude
+= .? .     N     _O'KEEFFE Patrick            Le Vieux Cormoran ş1972 Restored Evidence şTrad. PARSONS Jacques
+= .? .     N     _MERGENDAHL Charles          Le Bricoleur ş1958 Do-It-Yourself şTrad. FLURY Marc
 o OMNI_PO     ?  1995.xx ..... ISBN 2-258-03695-X
 } omnibhitch4    _?                           ?
 - .pFP     A100  *HITCHCOCK Alfred            Alfred Hitchcock pr‚sente : 100 autres histoires extraordinaires ş1995
 : .pFP     A16   *HITCHCOCK Alfred            Histoires qui virent au noir ş? ?
-= .? .     N     _PRONZINI Bill               La Statuette de jade ş1970 The Jade Figurine
-= .? .     N     _DEMING Richard              cr‚mage ş1969 The Skim
-= .? .     N     _WASYLYK Stephen             Un petit acompte ş? ?
-= .? .     N     _LACY Ed                     La Mauvaise Aubaine ş1957 Finders-Killers
-= .? .     N     _CAROUSSO Georges            A l'‚pingl‚ ! ş? ?
-= .? .     N     _COLLINS Michael             Un silence de mort ş? ?
-= .? .     N     _ELLIS Elijah                A feu et … sang ş? ?
-= .? .     N     _BLOCK Laurence              La Joyeuse Kidnapp‚e ş? ?
-= .? .     N     _McKIMMEY James              Un coup de pompe ş1958 Bite of Revenge
-= .? .     N     _HEATH W.L.                  Import-export ş? ?
-= .? .     N     _RITCHIE Jack                Demoiselles … marier ş1966 Big Tony
-= .? .     N     _E. DAN ROSS W.              Les Perles de Li Pong ş? ?
-= .? .     N     _CRAIG Jonathan              Appelez-moi Nick ş1968 Call Me Nick
-= .? .     N     _HOLDING James               Dr“le d'endroit pour se garer ş1971 A Funny Place To Park
-= .? .     N     _HOWARD Clark                Le Gardien ş1971 The Keeper
-= .? .     N     _SANDAVAL Jaime              L'art et la maniŠre ş? ?
-: .xP.    iA17   *HITCHCOCK Alfred            Histoires … vous couper le souffle ş1981 Tales to Make You Weak in the Knees
+= .? .     N     _PRONZINI Bill               La Statuette de jade ş1970 The Jade Figurine şTrad. HERSANT Denise
+= .? .     N     _DEMING Richard              cr‚mage ş1969 The Skim şTrad. ROSENBLUM Arlette
+= .? .     N     _WASYLYK Stephen             Un petit acompte ş1971 A Small Down Payment şTrad. WATTWILLER Dominique
+= .? .     N     _LACY Ed                     La Mauvaise Aubaine ş1957 Finders-Killers şTrad. PIERREFEU L. de
+= .? .     N     _CAROUSSO Georges            A l'‚pingl‚ ! ş1982 The Pin-Up Boss şTrad. ENDREBE Maurice Bernard
+= .? .     N     _COLLINS Michael             Un silence de mort ş1959 Scream All the Way şTrad. KELLERSON Philippe
+= .? .     N     _ELLIS Elijah                A feu et … sang ş1964 Summer in Pokochobee County şTrad. CROSSE F. W.
+= .? .     N     _BLOCK Lawrence              La Joyeuse Kidnapp‚e ş1967 The Most Unusual Snatch şTrad. ENDREBE Maurice Bernard
+= .? .     N     _McKIMMEY James              Un coup de pompe ş1958 Bite of Revenge şTrad. ENDREBE Maurice Bernard
+= .? .     N     _HEATH W.L.                  Import-export ş1956 Thives's Bazaar şTrad. LEMERLE Sylvette
+= .? .     N     _RITCHIE Jack                Demoiselles … marier ş1966 Big Tony şTrad. CHERGE G‚rard de
+= .? .     N     _ROSS W. E. D.               Les Perles de Li Pong ş1957 The Pearls of Li Pong şTrad. HUINH Simone
+= .? .     N     _CRAIG Jonathan              Appelez-moi Nick ş1968 Call Me Nick şTrad. HERSANT Denise
+= .? .     N     _HOLDING James               Dr“le d'endroit pour se garer ş1971 A Funny Place to Park şTrad. BOISSIER M.
+= .? .     N     _HOWARD Clark                Le Gardien ş1971 The Keeper şTrad. KINNET Paul
+= .? .     N     _SANDAVAL Jaime              L'art et la maniŠre ş1971 Martin for the Defense şTrad. KINNET Paul
+: .xP.    iAx    *HITCHCOCK Alfred            Histoires … vous couper le souffle ş1981 Tales to Make You Weak in the Knees
 = .! .     N     _HOWARD Clark                Une fortune … flamber ş1962 Money to Burn şTrad. LEMERLE Sylvette
 = .! .     N     _TYRE Nedra                  Pousse-au-crime ş1975 A Murder Is Arranged şTrad. HUINK Simone
 = .! .     N     _HONIG Donald                Douce violence ş1959 Wonderful, Wonderful Violence şTrad. MILLOT-JACQUIN Simone
 = .! .     N     _WASYLYK Stephen             L'Assassinat de Cendrillon ş1974 The Shoe Freak şTrad. CROSSE F. W.
 = .! .     N     _DEAL Babs H.                L'Invit‚e ş1967 The House Guest şTrad. AUBERT Christiane
-= .! .     N     _LINK W. & LEVINSON R.       L'Homme dans le hall de l'h“tel ş1966 The Man in the Lobby şTrad. BARBIER Philippe
-! .! .     N     _LINK William               &L'Homme dans le hall de l'h“tel ş1966 The Man in the Lobby şTrad. BARBIER Philippe
-!                _LEVINSON Richard            
+= .! .     N     _LINK William               &L'Homme dans le hall de l'h“tel ş1966 The Man in the Lobby şTrad. BARBIER Philippe
+&  !             _LEVINSON Richard            
 = .! .     N     _BROWN Stewart Pierce        Notre homme du bureau 52 ş1964 Our Man in Office 52 şTrad. KINNET Paul
 = .! .     N     _BRETT Mike                  clipse ş1969 Images şTrad. LAUSTENNE Jean
 = .! .     N     _PORGES Irwing               Trouvez Artie Smerz, mort ou vif ! ş1981 Find Artie Smerz - Dead or Alive şTrad. KELLERSON Philippe
@@ -2180,10 +2306,78 @@ o OMNI_PO     ?  1995.xx ..... ISBN 2-258-03695-X
 = .! .     N     _HOCH Edward D.              L'Arc-En-Ciel bris‚ ş1964 Shattered Rainbow şTrad. GIRARD Michel
 = .x .     N     _GOULART Ron                 Cela n'arrivera plus ş1973 That'll Never Happen No More şTrad. BEBOUCH Francis
 = .! .     N     _RITCHIE Jack                Retour au bercail ş1958 What Frightened You, Fred? şTrad. CHERGE G‚rard de
-: .pFP     Ax    *HITCHCOCK Alfred            Histoires … faire peur ş1963 Stories My Mother Never Told Me
-: .pFP     Ax    *HITCHCOCK Alfred            Histoires t‚n‚breuses ş? ?
-: .pFP     Ax    *HITCHCOCK Alfred            Histoires … lire et … pƒlir ş? ?
-: .pFP     Ax    *HITCHCOCK Alfred            Histoires cibl‚es ş1984 Mortal Errors
+: .pFP     A16   *HITCHCOCK Alfred            Histoires … faire peur ş1982 You Share of Fear
+= .! .     N     _CHISHOLM Lee                T‚moin oculaire ş1971 Witness
+= .! .     N     _PARK Maeva                  Petit D‚jeuner au lit ş1965 Breakfast in Bed
+= .x .     N     _McCLOY Helen                Chinoiseries ş1946 Chinoiserie
+= .o .     N     _BLACKWOOD Algernon          Confession ş1921 Confession
+= .x .     N     _HARDWICK Richard            Poup‚e n'est pas jouet ş1966 The Private Eye of Irving Anvil
+= .x .     N     _POWELL Talmage              L'H‚ritier ş1969 The Heir
+= .x .     N     _ELLIS Elijah                La Monnaie d'un dollar ş1967 Change for a Dollar
+= .oS.     N     _QUICK William T.            Une situation explosive ş1979 Rest in Pieces
+= .o .     N     _JAMES Montague Rhodes       Le Mezzo-Tinto ş1904 The Mezzotint
+= .oF.     N     _DOYLE Arthur Conan          Lot 249 ş1892 Lot Nø 249
+= .o .     N     _HOLDING Elisabeth S.        Il est des morts qu'il faut qu'on tue ş1955 The Strange Children
+= .! .     N     _PORGES Arthur               Le Langage des fleurs ş1962 These Daisies Told
+= .! .     N     _SLESAR Henry                Annonce, fait et mari ş1962 Item
+= .! .     N     _HOLDING James               Contrebande ş1964 Contraband
+= .x .     N     _RITCHIE Jack                Petits poisons ş1961 Play a Game of Cyanide
+= .x .     N     _FARR Douglas                Par une nuit de novembre ş1960 One November Night
+: .pFP     A18   *HITCHCOCK Alfred            Histoires t‚n‚breuses ş1984 Grave Suspicions
+= .? .     N     _RITCHIE Jack                Op‚ration tirelire ş1967 Piggy Bank Killer şTrad. DIDIER Maxime
+= .? .     N     _DUMONTE Ed                  Croque-monsieur ş1964 Mr. Reed Goes to Dinner şTrad. GERSAINT
+= .? .     N     _CAPLAN Nora H.              Meurtre en miniature ş1962 Murder in Miniature şTrad. MILLOT-JACQUIN Simone
+= .? .     N     _ALTER Robert Edmond         La Pˆche au gros ş1958 To Catch a Big One şTrad. KINNET Paul
+= .? .     N     _KELLEY Leo P.               Remise en ordre ş1968 Jurisprudence şTrad. HUINH Simone
+= .x .     N     _SMITH Pauline C.            Le Bricoleur de l'‚ther ş1975 The Crazy şTrad. WATTWILLER Dominique
+= .? .     N     _NIELSEN Helen               Une nuit de noces mouvement‚e ş1957 Never Trust a Woman şTrad. CROSSE F. W.
+= .? .     N     _POWELL Talmage              Histoire d'os ş1975 Till Death Do not Us Part şTrad. WATTWILLER Dominique
+= .? .     N     _BOYLAN Eleanor              Ma fille, la meurtriŠre ş1977 My Daughter, the Murderer şTrad. AUBERT Christiane
+= .x .     N     _HOLDING James               La Demeure du Singe Vert ş1966 Monkey King şTrad. KELLERSON Philippe
+= .? .     N     _HONIG Donald                Un coup fulminant ş1962 Nice Work if yu Can Get it şTrad. LEMERK Sylvette et Jacques
+= .? .     N     _MORRISON Jack               Recette pour homicide ş1963 A Dash of Murder şTrad. BARBIER Philippe
+= .? .     N     _CRAIG Jonathan              Une affaire empoisonnante ş1964 This Day's Evil şTrad. PIERREFEU L. de
+= .x .     N     _LUTZ John                   Chantage … domicile ş1969 The Weapon şTrad. CHERGE G‚rard de
+= .? .     N     _OLSON Donald                Une voix dans le feuillage ş1976 A Voice from the Leaves şTrad. CHERGE G‚rard de
+= .? .     N     _STEPHENS William M.         En voiture... ou en bateau ? ş1960 The State Against Sam Tucker şTrad. CHERGE G‚rard de
+= .x .     N     _WEBER Thomasina             La Nuit du serpent de mer ş1970 The Night of the Sea Serpent şTrad. KELLERSON Philippe
+= .? .     N     _WELLEN Edward               Impair et... passe-passe ş1974 Hit or Miss şTrad. ENDREBE M. B.
+: .pFP     A14   *HITCHCOCK Alfred            Histoires … lire et … pƒlir ş1982 Death-Reach
+= .? .     N     _GILFORD C.B.                Ne tuez jamais par amour ş1964 Never Kill for Love
+= .? .     N     _WASYLYK Stephen             L'Enterrement du pass‚ ş? Funeral In a Small Town
+= .? .     N     _CAMPBELL Douglas            Mettez-vous le dans le crƒne ş1961 Fiesta Time
+= .? .     N     _HICKS Edwin P.              Prise, m‚prise et surprise ş1963 The Lure and the Clue
+= .? .     N     _WALTON Bryce                La Liste des victimes ş? Unidentified and Dead
+= .! .     N     _DEAL Borden                 Le Grand Coup ş1962 The Big Bajoor
+= .? .     N     _COLLINS Michael             Qui ? ş1972 Who?
+= .? .     N     _MARTIN Donald               Mauvais calculs ş? Death By Calculation
+= .? .     N     _HARDWICK Richard            Le Chemin du paradis ş1964 Heaven Is a Frame of Mind
+= .! .     N     _NIELSEN Helen               Alias Henry Taylor ş1960 Henry Lowden, alias Henry Taylor
+= .? .     N     _ABBOTT Stanley              Le Malaise malais ş1982 A Quiet Backwater
+= .! .     N     _BLAIR Robert Alan           Fat Jow et le d‚mon ş1968 Fat Jow and the Demon
+= .? .     N     _CROWE John                  Les Risques du m‚tier ş1972 Occupational Hazard
+= .? .     N     _TURNER Robert               Un cadeau de No‰l ş? Christmas Gift
+: .pFP     A20   *HITCHCOCK Alfred            Histoires cibl‚es ş1984 Mortal Errors
+= .? .     N     _PORGES Arthur               Flaques ş1972 Puddle
+= .? .     N     _ANTONICH George             Une vraie tˆte de mule ş1970 The Hung-Up Juror
+= .? .     N     _ELLIS Elijah                Hachassinat ş1964 Death By Misadventure
+= .? .     N     _ELLIS Jamie                 Tapage nocturne ş1974 One Step To Murder
+= .? .     N     _HARTMAN W. Sherwood         Poltergeist ş1967 Poltergeist
+= .? .     N     _HOCH Edward D.              On est seul pour rˆver ş1965 Dreaming Is a Lonely Thing
+= .? .     N     _HONIG Donald                Le Puits hant‚ ş1959 Voices in Dead Man's Well
+= .? .     N     _KIPP George                 Les Le‡ons d'un professionnel ş1968 Lessons From A Pro
+= .? .     N     _LUTZ John                   Ce qu'il y a vraiment de mieux ş? The Very Best
+= .? .     N     _MASUR Harold Q.             Celui qu'on n'attendait pas ş1972 Dead Game
+= .? .     N     _NUSSBAUM Al                 Une proie facile ş1973 An Easy Score
+= .? .     N     _OLSON Donald                Parents par le sang ş? Blood Relatives
+= .? .     N     _RITCHIE Jack                Ma tˆte … couper ş1973 The Wastebasket
+= .? .     N     _SADLER Mark                 L'Alternative ş? The Choice
+= .? .     N     _SLESAR Henry                Des t‚moins de choix ş1966 A Choice of Witnesses
+= .? .     N     _SMITH Pauline C.            La Belle Helen ş? The Night Helen Was Killed
+= .? .     N     _TOOLE Wyc                   Une longue exp‚rience ş? A Matter Of Experience
+= .? .     N     _TYRE Nedra                  Par-del… le mur ş1968 Beyond the Wall
+= .? .     N     _WASYLYK Stephen             Le Pique-Assiette ş? If a Body
+= .? .     N     _WELLEN Edward               Senteurs dans les t‚nŠbres ş1974 Scents in the Dark
 
 !--- ED MCBAIN
 !--- 87e District - Tome 1
@@ -2215,6 +2409,6 @@ o OMNI_PO     ?  1995.xx ..... ISBN 2-258-03695-X
 !--- 87e District - Tome 4
 !--- Edition nouvelle et complŠte en 7 volumes
 !--- La rousse  Mort d'un tatou‚  En piŠces d‚tach‚es  Tout le monde sont l…  AprŠs le tr‚pas  Le sourdingue  Branle-bas au 87e 
-!--- Coll. "Les r‚gions"
+!--- Collection "Les r‚gions"
 
 

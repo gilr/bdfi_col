@@ -6,7 +6,7 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ ANTICIP Ed. La Lucarne, Anticipations (Belgique)
+_ ANTICIP La Lucarne (Belgique) - Anticipations
 !-----------------------------------------------------------------------------
 !---  Editions La Lucarne, … Bruxelles ;
 !--- 15 num‚ros mais seulement 14 volumes (un num‚ro double, le 13/14), parus
@@ -21,14 +21,14 @@ _ ANTICIP Ed. La Lucarne, Anticipations (Belgique)
 !-----------------------------------------------------------------------------
 !--- Les romans ou nouvelles parus en plusieurs parties
 !-----------------------------------------------------------------------------
-_ ANTIC01 <b>in</b> Ed. La Lucarne, Anticipations nø 7, 8 et 9
-o ANTIC01     ?  1946.xx ..... ISBN -
+o ANTICIP     ?  1946.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 7, 8 et 9
 - .o .     N     _WILLIAMSON Jack             Le Mineur de l'infini ş1933 Salvage in Space şAdapt. WEST J.K.
 !-----------------------------------------------------------------------------
-_ ANTIC02 <b>in</b> Ed. La Lucarne, Anticipations nø 10, 11, 12, 13/14 et 15
-o ANTIC02     ?  1946.xx ..... ISBN -
+o ANTICIP     ?  1946.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 10, 11, 12, 13/14 et 15
 - .o .     N     _STOKE L.S.                  Gulliver 3000 aprŠs J‚sus-Christ ş1933 Gulliver 3000 A.D. şAdapt. SADOURBS Ray
 !-----------------------------------------------------------------------------
 o ANTICIP     1  1945.xx ..... ISBN -
@@ -100,8 +100,8 @@ o ANTICIP    13/ 1946.xx ..... ISBN -
 o ANTICIP    15  1946.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     M6    ****                         Anticipations nø 15 ş1946
-: .o .     N     _STEVENS H.G.                Les Hommes sans ombre ş1933 The Men without shadows şAdapt. SADOURBS Ray
-: .o .     N     _BRUELL Edwin                L'trange Docteur Raynell ş1933 Men without Sleep şAdapt. WEST J.K.
+: .o .     N     _STEVENS H.G.                Les Hommes sans ombre ş1933 The Men Without Shadows şAdapt. SADOURBS Ray
+: .o .     N     _BRUELL Edwin                L'trange Docteur Raynell ş1933 Men Without Sleep şAdapt. WEST J.K.
 : .o .     N     _STEVENS H.G.                Intuition ş? ? şAdapt. D'AMBE Andr‚
 : .o .     N     _POLUS Gilbert               Ramsgate-town, la ville la plus souterraine du monde ş1946
 : .o .     N     _JONES Neil R.               Dans l'hydrosphŠre [Les Aventures du Pr. Jameson] ş1933 Into the Hydrosphere şAdapt. MAIBELLE J.N. de
@@ -125,7 +125,7 @@ o LUMENB     10  1965.xx ..... ISBN -
 : .o .     N     _FONTANA Jean-Pierre         Le Temps d'une veill‚e ş1965
 
 !-----------------------------------------------------------------------------
-_ AELPATL AELP, Coll. Atlanta (Belgique)
+_ AELPATL AELP (Belgique) - Atlanta
 !-----------------------------------------------------------------------------
 !--- Edition de l'A.E.L.P., Association europ‚enne des litt‚ratures parallŠles
 !-----------------------------------------------------------------------------
@@ -136,7 +136,7 @@ o AELPATL     ?  1967.xx ..... ISBN -
 
 !-----------------------------------------------------------------------------
 _ ATLA    Atlanta (Belgique)
-_ ATL2    Atlanta - 2iŠme s‚rie (Belgique)
+_ ATL2    Atlanta (Belgique) - 2iŠme s‚rie
 !-----------------------------------------------------------------------------
 !--- Atlanta (Micha‰l Grayn) 1964
 !---  Tirage alcool, transform‚ en imprim‚ en 1966
@@ -196,9 +196,9 @@ o ATL2       12  1967.xx ..... ISBN -
 : .oF.     N     _BECKERS Walter              L'Histoire du Dr. A. Cula & Frank N. Stein ş1967 De story van Dr. A. Cula G Frank N. Stein
 : .o .     N     _WARREN Raoul de             Glaces et neiges, b‚nissez le seigneur ş1951
 : .o .     N     _MAGNEE Pierre-L.            La Fin totale ş?
-?: .o .     N     _SIMONS Walter               Le Miroir magique ş?
-?: .o .     N     _DEGRANGE Ernest             Les Beaux et les belles de la ville endormie ş?
-?: .o .     a     _BORIGHEM Jean-Cl.           L'Amour de la collection ş?
+: .? .     N     _SIMONS Walter               Le Miroir magique ş?
+: .? .     N     _DEGRANGE Ernest             Les Beaux et les belles de la ville endormie ş?
+: .? .     a     _BORIGHEM Jean-Cl.           L'Amour de la collection ş?
 !-- Atlanta 13 non paru
 
 !-----------------------------------------------------------------------------
@@ -207,9 +207,9 @@ o ATL2       12  1967.xx ..... ISBN -
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ AVERBOD Ed. Averbode (Belgique)
-_ AVERBRE Ed. Averbode, Coll. R‚cits-express (Belgique)
-_ AVERB7P Ed. Averbode, Coll. 7 en poche
+_ AVERBOD Averbode (Belgique)
+_ AVERBRE Averbode (Belgique) - R‚cits-express
+_ AVERB7P Averbode (Belgique) - 7 en poche
 !-----------------------------------------------------------------------------
 o AVERBOD     ?  2002.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -218,7 +218,7 @@ o AVERBOD     ?  2002.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oS.     N     _EBLY Philippe               La Nuit des deux Jean-Paul ş2002
 !-----------------------------------------------------------------------------
-!--- AVERBRE Ed. Averbode, Coll. R‚cits-express (Belgique)
+!--- AVERBRE Averbode, R‚cits-express (Belgique)
 !-----------------------------------------------------------------------------
 !--- 10-12 ans
 !-----------------------------------------------------------------------------
@@ -230,7 +230,7 @@ o AVERBRE     5  2007.01 ..... ISBN .-.....-...-.
 - .oS.     N     _EBLY Philippe               Le Messager 107 ş2007
 
 !-----------------------------------------------------------------------------
-!--- AVERB7P Ed. Averbode, Coll. 7 en poche
+!--- AVERB7P Averbode, 7 en poche
 !-----------------------------------------------------------------------------
 !--- 13-15 ans
 !-----------------------------------------------------------------------------
@@ -267,7 +267,7 @@ o AVERB7P    34  2009.03 ..... ISBN 978-90-317-2656-1
 - .oY.     r     _LEGAT Julien                La Cit‚ des rois [Les Contes de Baraznith - 2] ş2009
 
 !-----------------------------------------------------------------------------
-_ PRESTOF Imprimerie d'Averbode, Coll. Presto-Films (Belgique)
+_ PRESTOF Imprimerie d'Averbode (Belgique) - Presto-Films
 !-----------------------------------------------------------------------------
 !--- Imprimerie d'Averbode (petite commune belge)
 !--- Les dessins de couverture, en quadrichromie, sont de Ira
@@ -282,24 +282,25 @@ o PRESTOF     5  1934.10 ..... ISBN -
 } noimg          _?                           ?
 - .oF.     R     _SANFOIS                     Tito, Tita, UrgŠle et le nain Ob‚ron ş1934
 
-?o PRESTOF    20  1934.10 ..... ISBN -
-?!--- Presto-films Hebdomadaire nø 20, 1935
-?: .o .     N     _FLANDERS John               Tempest le terrible ş?
-?o PRESTOF    64  1935.12 ..... ISBN -
-?!--- Presto-films Hebdomadaire nø 64, 08/12/1935
-?: .o .     N     _FLANDERS John               Le Roman de la mer ş?
-?o PRESTOF    81  1936.04 ..... ISBN -
-?!--- Presto-films Hebdomadaire nø 81, 05/04/1936
-?: .o .     N     _FLANDERS John               L'Oiseau myst‚rieux ş?
-?o PRESTOF    87  1936.05 ..... ISBN -
-?!--- Presto-films Hebdomadaire nø 87, 17/05/1936
-?: .o .     N     _FLANDERS John               Le vallon qui chante ş?
-?o PRESTOF   108  1936.10 ..... ISBN -
-?!--- Presto-films Hebdomadaire nø 108, 11/10/1936
-?: .o .     N     _FLANDERS John               L'Auberge du roi gourmand ş?
+o PRESTOF    20  1934.10 ..... ISBN -
+!--- Presto-films Hebdomadaire nø 20, 1935
+- .o .     N     _FLANDERS John               Tempest le terrible ş?
+o PRESTOF    64  1935.12 ..... ISBN -
+!--- Presto-films Hebdomadaire nø 64, 08/12/1935
+- .o .     N     _FLANDERS John               Le Roman de la mer ş?
+o PRESTOF    81  1936.04 ..... ISBN -
+!--- Presto-films Hebdomadaire nø 81, 05/04/1936
+- .o .     N     _FLANDERS John               L'Oiseau myst‚rieux ş?
+o PRESTOF    87  1936.05 ..... ISBN -
+!--- Presto-films Hebdomadaire nø 87, 17/05/1936
+- .o .     N     _FLANDERS John               Le vallon qui chante ş?
+o PRESTOF   108  1936.10 ..... ISBN -
+!--- Presto-films Hebdomadaire nø 108, 11/10/1936
+- .o .     N     _FLANDERS John               L'Auberge du roi gourmand ş?
+
 !-----------------------------------------------------------------------------
 _ DURENDA Durendal (Belgique)
-_ DURROIT Durendal/Lethielleux, Coll. Roitelet
+_ DURROIT Durendal/Lethielleux - Roitelet
 !-----------------------------------------------------------------------------
 o DURENDA     ?  1954.xx ..... ISBN -
 } noimg          _?                           ?
@@ -310,7 +311,7 @@ o DURENDA     ?  1954.xx ..... ISBN -
 ?- .oS.     R     _SCHEGGIA Angelina           L'Apprenti alchimiste ş1943
 
 !-----------------------------------------------------------------------------
-_ BEIRNAE Ed. A. Beirnaerdt, Coll. "Un r‚cit complet"
+_ BEIRNAE A. Beirnaerdt - Un r‚cit complet
 !-----------------------------------------------------------------------------
 !--- 41 rue des Coteaux
 !--- Direction litt‚raire Stanislas Andr‚ Steeman
@@ -320,8 +321,8 @@ o BEIRNAE    29  1941.xx R.... ISBN -
 - .xP.     R     _DUCHATEAU Andr‚-Paul        Meurtre pour meurtre ş1941
 
 !-----------------------------------------------------------------------------
-_ LaSixai Ed. La Sixaine (Belgique)
-_ LaSixRN Ed. La Sixaine, Le Roman Noir (Belgique)
+_ LaSixai La Sixaine (Belgique)
+_ LaSixRN La Sixaine (Belgique) - Le Roman Noir
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 o LaSixai     ?  1947.xx R.... ISBN -
@@ -338,7 +339,7 @@ o LaSixai     ?  1947.xx R.... ISBN -
 : .oF.     N     _CROWE Catherine             Documents d'‚pouvante ş?
 !--- Note : en fait pas une nouvelle, mais des extraits de t‚moignages sur des ph‚nomŠnes surnaturels
 : .oF.     N     _RAY Jean                    La Ruelle t‚n‚breuse ş1932
-: .oF.     N     _OWEN Thomas                 15-12-38 ş1955
+: .oF.     N     _OWEN Thomas                 15-12-38 ş1943
 : .oF.     N     _SAUTON Alice                Iblis, ou la rencontre avec le mauvais ange ş?
 : .oF.     N     _VIGOUREUX Gustave           La Vieille au fichu vert ş1947
 : .oF.     N     _DENOUWE Alphonse            Trois... pour faire un choix ş?
@@ -360,7 +361,7 @@ o LaSixRN     ?  1947.03 ..... ISBN -
 : .o .     o     _RAY Jean                    AprŠs ş1947
 
 !-----------------------------------------------------------------------------
-_ TRAVERS Revue Travers‚e
+_ TRAVERS Revue Travers‚e (Belgique)
 !-----------------------------------------------------------------------------
 !--- Gril (Groupe de r‚flexion et d'information litt‚raire)
 !---  Revue litt‚raire In‚dit/Nouveau
@@ -379,7 +380,7 @@ o TRAVERS    37  2003.xx ..... ISBN .-.....-...-.
 : .o .     N     _BOLDUC Claude               Les Copains ş2003
 
 !-----------------------------------------------------------------------------
-_ GRIL_IN Gril, revue In‚dit/Nouveau
+_ GRIL_IN Gril (Belgique) - revue In‚dit/Nouveau
 !-----------------------------------------------------------------------------
 !--- Gril (Groupe de r‚flexion et d'information litt‚raire)
 !---  Revue litt‚raire In‚dit/Nouveau
@@ -394,7 +395,7 @@ o GRIL_IN   149  2001.xx ..... ISBN .-.....-...-.
 : .o .     N     _DUMORTIER Laurent           L'Imagination au pouvoir ş1999
 
 !-----------------------------------------------------------------------------
-_ CdesLYS Ed. Chlo‚ des Lys
+_ CdesLYS Chlo‚ des Lys (Belgique)
 !-----------------------------------------------------------------------------
 !--- Chlo‚ des Lys
 !-----------------------------------------------------------------------------
@@ -480,8 +481,8 @@ o CdesLYS     ?  2011.06 ..... ISBN 978-2-87459-542-4
 } noimg          _?                           ?
 - .o .     R     _EYCHLOMA Christian          Rechute [Que le diable nous emporte... - 2] ş2011
 o CdesLYS     ?  2011.xx ..... ISBN 978-2-87459-646-9
-}chloedlys_646   _?                           ?
-- .oFT    iN20   _DUMORTIER Laurent           Bruines ş2011
+} chloedlys_646  _?                           ?
+- .oFT    iNx    _DUMORTIER Laurent           Bruines ş2011
 o CdesLYS     ?  2011.xx ..... ISBN 978-2-87459-609-4
 } noimg          _?                           ?
 - .oF.     r     _HIERNAUX Gauthier           Tribu silencieuse ş2011
@@ -506,16 +507,16 @@ o CdesLYS     ?  2014.xx ..... ISBN 978-2-87459-...-.
 - .oS.     R     _HIERNAUX Gauthier           Les Enfants de Jafez [Le Cycle de S‚liandre - 4][L'Empire de la Nouvelle Ere] ş2014
 o CdesLYS     ?  2016.02 ..... ISBN 978-2-87459-904-0
 } noimg          _?                           ?
-- .oFT    iN14   _DUMORTIER Laurent           Sables ş2016
+- .oFT    iNx    _DUMORTIER Laurent           Sables ş2016
 : .o .     N     _DUMORTIER Laurent           Le Sablier ş2016
 : .o .     N     _DUMORTIER Laurent           La SabliŠre ş2016
 : .o .     N     _DUMORTIER Laurent           La Rose des sables ş2016
 o CdesLYS     ?  2018.02 ..... ISBN 978-2-39018-013-5
 } noimg          _?                           ?
-- .oFT    iN26   _DUMORTIER Laurent           Fractures ş2018
+- .oFT    iNx    _DUMORTIER Laurent           Fractures ş2018
 
 !-----------------------------------------------------------------------------
-_ CACTINN Ed. Cactus In‚branlable, Coll. Cactus Noir
+_ CACTINN Cactus In‚branlable (Belgique) - Cactus Noir
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -527,7 +528,7 @@ o CACTINN     ?  2014.xx ..... ISBN 978-2-930659-..-.
 - .oPS     R     _HIERNAUX Gauthier           La Fraternit‚ des atomes ş2014
 
 !-----------------------------------------------------------------------------
-_ DROZ    Droz
+_ DROZ    Droz (Belgique)
 !-----------------------------------------------------------------------------
 !--- Droz (GenŠve)
 !-----------------------------------------------------------------------------
@@ -536,10 +537,20 @@ o DROZ        ?  1991.xx ..... ISBN .-.....-...-.
 - .o .     E     _COMPERE Daniel              Jules Verne ‚crivain ş1991
 
 !-----------------------------------------------------------------------------
-_ EDATAL  Ed. Atalante (Bruxelles)
+_ EDATAL  Atalante (Bruxelles)
 !-----------------------------------------------------------------------------
 !--- 33 rue du Foss‚-aux-Loups
 !-----------------------------------------------------------------------------
+o EDATAL      ?  1946.xx ..... ISBN -
+} atalmysteres46 _?                           ?
+!--- 15 x 21,5 cm - 180 pages
+- .oF.     N6    _FLANDERS John               MystŠres et aventures ((La Neuvaine d'‚pouvante et autres nouvelles)) ş1946
+: .oF.     N     _FLANDERS John               La Statue assassin‚e ş1937
+: .oF.     N     _FLANDERS John               Le Carrefour de la lune rousse ş1946
+: .oF.     N     _FLANDERS John               La Jonque noire ş1946
+: .oF.     N     _FLANDERS John               Le N‚gre de l'ascenseur ş1946
+: .oF.     N     _FLANDERS John               L'Aventure espagnole ş1946
+: .oF.     N     _FLANDERS John               La Neuvaine d'‚pouvante ş1946
 o EDATAL      ?  1946.xx ..... ISBN -
 } atalwhisky46   _?                           ?
 - .oF.     N20   _RAY Jean                    Les Contes du whisky ş1925
@@ -567,9 +578,9 @@ o EDATAL      ?  1946.xx ..... ISBN -
 : .o . 195 N     _RAY Jean                    Mondschein-Dampfer ş1932
 
 !-----------------------------------------------------------------------------
-_ REVD    Ed. de la revue demain (Bruxelles)
+_ REVD    Editions de la revue demain (Bruxelles)
 !-----------------------------------------------------------------------------
-!--- Ed. de la revue demain (Bruxelles)
+!--- Editions de la revue demain (Bruxelles)
 !-----------------------------------------------------------------------------
 o REVD        ?  1935.xx ..... ISBN -
 !--- Sans date - Sign‚ Sir E. Bulwer Lytton
@@ -578,7 +589,7 @@ o REVD        ?  1935.xx ..... ISBN -
 - .o .     R     _BULWER-LYTTON Edward G.     La Race qui nous exterminera ş1871 The Coming Race şTrad. BRAHY G.-L.
 
 !-----------------------------------------------------------------------------
-_ INTZ    Ed. Interzone
+_ INTZ    Interzone (Belgique)
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -600,15 +611,15 @@ o INTZ        ?  2002.xx ..... ISBN .-.....-...-.
 : .o .     N     _POSSAMAI Adam M.            Dieu est mort ş1996
 
 !-----------------------------------------------------------------------------
-_ COMP    Ed. Complexe (Paris - Bruxelles)
-_ COMP_HF Ed. Complexe (Paris - Bruxelles), Coll. L'Heure furtive
+_ COMP    Editions Complexe (Paris/Bruxelles)
+_ COMP_HF Editions Complexe (Paris/Bruxelles) - L'Heure furtive
 !-----------------------------------------------------------------------------
 !--- Complexe (Paris - Bruxelles)
 !-----------------------------------------------------------------------------
 o COMP_HF     ?  1990.xx ..... ISBN 2-87027-342-8
 } noimg          _?                           N
+!--- La pr‚face (1970 Introduction - essay by Rhys Davies) semble non traduite
 - .o .     N15   _KAVAN Anna                  Nouvelles d'une vie - Julia et son bazooka ş1970 Julia and the Bazooka şTrad. MALROUX Julia
-!--- La pr‚face semble non traduite ş1970 Introduction - essay by Rhys Davies
 : .o .   7 N     _KAVAN Anna                  La Vieille Adresse ş1970 The Old Address şTrad. MALROUX Julia
 : .o .  15 N     _KAVAN Anna                  Une visite ş1970 A Visit şTrad. MALROUX Julia
 : .o .  27 N     _KAVAN Anna                  Brouillard ş1970 Fog şTrad. MALROUX Julia
@@ -643,12 +654,12 @@ o COMP        ?  1995.xx ..... ISBN 2-87027-566-5
 : .o .     N     _MAUPASSANT Guy de           Le Horla ş1886
 : .o .     N     _MAUPASSANT Guy de           Le Horla (2iŠme version) ş1886-1887
 : .o .     r     _STEVENSON Robert Louis      L'trange Cas du docteur Jekyll et de Mr Hyde ş1885 The Strange Case of Dr Jekyll and Mr Hyde şTrad. ANDRE Yves
-: .oF.     N     _REGNIER Henri de            Le Menechme ş1909
+: .oF.     N     _REGNIER Henri de            Le M‚nechme ş1909
 : .oF.     N     _CHESTERTON Gilbert K.       L'Homme dans le passage [Le PŠre Brown] ş1913 The Man in the Passage şTrad. ANDRE Yves
 : .o .     N     _GHELDERODE Michel de        Tu fus pendu ş1940
 : .oF.     N     _OCAMPO Silvina              La Maison en sucre ş1959 La casa de az£car şTrad. ROSSET Fran‡oise-Marie
 : .oF.     N     _CORTAZAR Julio              La Lointaine ş1951 Lejana şTrad. GILLE-BATAILLON Laure
-: . .      o     _RICHTER Hugo                L'imagination n'est pas imaginaire ş1973-1995
+: .o.      o     _RICHTER Hugo                L'imagination n'est pas imaginaire ş1973-1995
 o COMP        ?  1995.xx ..... ISBN 2-87027-578-1
 } noimg          _?                           N
 - .oF.    _A31   *RICHTER Anne                Le Fantastique f‚minin d'Ann Radcliffe … Patricia Highsmith ((Le Fantastique f‚minin)) ş1977-1995
@@ -662,14 +673,14 @@ o COMP        ?  1995.xx ..... ISBN 2-87027-578-1
 : .oF.     N     _WHARTON Edith               La Sonnette ş1902 The Lady's Maid's Bell
 : .oF.     N     _WOOLF Virginia              Objets massifs ş1921 Solid Objects şTrad. BOLANOWSKI H‚lŠne
 : .oF.     N     _GEVERS Marie                Les Rumeurs nocturnes ş?
-: .oF.     N     _BLIXEN Karen                L'Enfant rˆveur ş1942 Det dr›mmende barn şTrad. METZGER Marthe
+: .oF.     N     _BLIXEN Karen                L'Enfant rˆveur ş1942 Det dr›mmende barn / The Dreaming Child şTrad. METZGER Marthe
 : .oF.     N     _PREAD Campbell Mrs.         Le Bunyip ş1891 The Bunyip şTrad. RICHTER Hugo
 : .oF.     N     _BRIDGE Ann                  La Limousine bleue ş1939 The Blue Limousine şTrad. CAMILLE Georgette
 : .oF.     N     _TSVETAEVA Marina            Le Diable ş? ?
 : .oF.     N     _KASCHNITZ Marie-Luise       Un midi vers la mi-juin ş1960 Eines Mittags, Mitte Juni şTrad. RICHTER Hugo
 : .oF.     N     _DU MAURIER Daphn‚           Les Oiseaux ş1952 The Birds şTrad. VAN MOPPES Denise
 : .oF.     N     _OCAMPO Silvina              Leurs ailes ş1961 Tales eran sus rostros şTrad. GUILLE Laure
-: .oF.     N     _OCAMPO Silvina              Les Objets ş? ?
+: .o .     N     _OCAMPO Silvina              Les Objets ş1959 Los objetos
 : .oF.     N     _MORANTE Elsa                L'Homme aux lunettes ş1937 L'uomo dagli occhiali şTrad. FUSCO Mario
 : .oF.     N     _BODART Marie-Th‚rŠse        La Fenˆtre ş1965
 : .oF.     N     _SOMERS Armonia              L'boulement ş1953 El derrumbamiento şTrad. GEMIS Francisca
@@ -678,15 +689,15 @@ o COMP        ?  1995.xx ..... ISBN 2-87027-578-1
 : .oS.     N     _HIGHSMITH Patricia          L'Amateur d'escargots ş1964 The Snail Watcher şTrad. DELAHAYE Alain
 : .oF.     N     _CASSIAN Nina                L'Animal ş1971 Animalul şTrad. FLEURY Andr‚e
 : .oF.     N     _MALINOW InŠs                Le Mal du pays ş? ?
-: .oF.     N     _SYLF Christia               Un chef-d'oeuvre de d‚sob‚issance ş?
+: .oF.     N     _SYLF Christia               Un chef-d'oeuvre de d‚sob‚issance ş1974
 : .oF.     N     _JEAN-CHARLES Jehanne        Je m'apelle Annie ş?
 : .oF.     N     _RICHTER Anne                Un sommeil de plante ş1967
 : .oF.     N     _FLEUTIAUX Pierrette         Histoire du toit ş?
 : .oF.     N     _BLOGOJEVIC Boba             L'Escargot ş1975 Puz şTrad. CAUCIC Sylvie & MANIERE Catherine
 
 !-----------------------------------------------------------------------------
-_ MARECHA Ed. Mar‚chal (Belgique)
-_ MARE_EP Ed. Mar‚chal, Coll. "Edgar Poe" (Belgique)
+_ MARECHA Mar‚chal (Belgique)
+_ MARE_EP Mar‚chal (Belgique) - Edgar Poe
 !-----------------------------------------------------------------------------
 !--- Belgique
 !-----------------------------------------------------------------------------
@@ -731,7 +742,7 @@ o MARECHA     ?  1947.xx ..... ISBN -
 : .o .     N     _GHELDERODE Michel de        L'Odeur du sapin ş1940
 
 !-----------------------------------------------------------------------------
-_ KOGGE   Ed. de Kogge (Bruxelles)
+_ KOGGE   Editions de Kogge (Bruxelles)
 !-----------------------------------------------------------------------------
 !--- Editions De Kogge, Avenue Huart-Hamoir, 50 … Bruxelles,
 !--- imprim‚ le 25/09/1944 par Imprimerie Scripta, rue des M‚gissiers, 28 … Bruxelles
@@ -756,10 +767,10 @@ o KOGGE       ?  1944.09 ..... ISBN -
 - .o .     R     _OWEN Thomas                 Le Livre interdit ş1944
 
 !-----------------------------------------------------------------------------
-_ VERNAU  Ed. Jos Vernaut
+_ VERNAU  Jos Vernaut (Belgique)
 !-----------------------------------------------------------------------------
 o VERNAU      ?  1930.xx ..... ISBN -
-} vernaut_boite   ?                           _N
+} vernaut_boite  _?                           _N
 - .o .    iNx    _PROUMEN Henri-Jacques       La BoŒte aux marionnettes ş1930
 : .o .     N     _PROUMEN Henri-Jacques       Le Miroir ş1930
 
@@ -783,92 +794,7 @@ o OFFPUB      ?  1950.xx ..... ISBN -
 : .o .     N     _PROUMEN Henri-Jacques       Frottement, quelle guigne ! ş?
 
 !-----------------------------------------------------------------------------
-_ RENLIV  La Renaissance du Livre
-_ RENLIVB La Renaissance du Livre, Collection litt‚raire belge
-_ RENLIVX La Renaissance du Livre, Coll. In extenso
-_ RENLIVG La Renaissance du Livre, Coll. club g‚ant
-!-----------------------------------------------------------------------------
-o RENLIV      ?  1921.xx ..... ISBN -
-} rdl_hhe_epouv  _Sauvage                     ?
-- .oF.     N10   _EWERS Hanns Heinz           Dans l'‚pouvante - Histoires extraordinaires ş1907 Das Grauen
-: .o .     N     _EWERS Hanns Heinz           Le Pays des f‚es ş1907 Das feenland
-: .o .     N     _EWERS Hanns Heinz           La Sauce tomate ş1905 Die tomatensauce
-: .o .     N     _EWERS Hanns Heinz           Le Coeur des rois ş1907 Die herzen der k”nige
-: .o .     N     _EWERS Hanns Heinz           La Jeune Fille blanche ş1904 Das weisse m„dchen
-: .o .     N     _EWERS Hanns Heinz           Messieurs de la cour ş1906 Die herren juristen
-: .o .     N     _EWERS Hanns Heinz           La Fin de John Hamilton Llewellyn ş1904 John Hamilton Llewellyns ende
-: .o .     N     _EWERS Hanns Heinz           Journal d'un oranger ş1907 Aus dem tagebuch eines orangenbaumes
-: .o .     N     _EWERS Hanns Heinz           Le Juif mort ş1907 Der tote Jude
-: .o .     N     _EWERS Hanns Heinz           La Fianc‚e du Tophar ş1904 Die topharbraut
-: .o .     N     _EWERS Hanns Heinz           La Mamaloi ş1907 Die mamaloi
-o RENLIVX   180  1921.xx ..... ISBN -
-} noimg          _Paul Colin
-!--- 80 pages, 17x25
-- .o .    iNx    _LORDE Andr‚ de              Frissons ş1921
-!--- Contient au moins :
-: .o .     N     _LORDE Andr‚ de              La Peur ş?
-: .o .     N     _LORDE Andr‚ de              L'Horrible Vengeance ş?
-: .o .     N     _LORDE Andr‚ de              L'Arbre vivant ş?
-: .o .     N     _LORDE Andr‚ de              Un drame chez les folles ş?
-o RENLIV      ?  1921.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .     R     _COUTET Alex                 Le Miroir de l'invisible ş1921
-o RENLIV      ?  1922.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .     R     _SHELLEY Mary                Frankenstein ou le Prom‚th‚e moderne ş1818 Frankenstein or the Modern Prometheus şTrad. HANGEST Germain d'
-o RENLIVB     ?  1925.xx ..... ISBN -
-} rdl_jr_whisk25 _-                           ?
-- .oF.     N27   _RAY Jean                    Les Contes du whisky ş1925
-!--- Le Contenu indiqu‚ par ISFDB n'est pas compatible du commentaire Masque Fantastique ("conforme … la 1iŠre ‚dition 1925"), repris ici
-: .C .     C     _RAY Jean                    Les Contes du whisky ş1925
-: .o .     N     _RAY Jean                    Irish whisky ş1923
-: .o .     N     _RAY Jean                    A minuit ş1924
-: .o .     N     _RAY Jean                    Le Nom du bateau ş1924
-: .o .     N     _RAY Jean                    Un conte de f‚es … Whitechapel ş1924
-: .o .     N     _RAY Jean                    La Fortune d'Herbert ş1921
-: .o .     N     _RAY Jean                    Dans les marais du Fenn ş1923
-: .o .     N     _RAY Jean                    La Nuit de Camberwell ş1923
-: .o .     N     _RAY Jean                    Petite femme aim‚e au parfum de verveine... ş1923
-: .o .     N     _RAY Jean                    Le Saumon de Poppelreiter ş1924
-: .o .     N     _RAY Jean                    Entre deux verres ş1924
-: .o .     N     _RAY Jean                    Josuah Gllick, prˆteur sur gages ş1924
-: .o .     N     _RAY Jean                    La Vengeance ş1919
-: .o .     N     _RAY Jean                    Mon ami le mort ş1924
-: .o .     N     _RAY Jean                    Le Crocodile ş1924
-: .o .     N     _RAY Jean                    Une main ş1924
-: .o .     N     _RAY Jean                    La DerniŠre Gorg‚e ş1924
-: .C .     C     _RAY Jean                    ...Et quelques histoires dans le brouillard ş1925
-: .o .     N     _RAY Jean                    Le Singe ş1921
-: .o .     N     _RAY Jean                    La Fenˆtre aux monstres ş1925
-: .oS.     N     _RAY Jean                    Minuit vingt ş1921
-: .o .     N     _RAY Jean                    La Bˆte blanche ş1920
-: .o .     N     _RAY Jean                    Le Gardien du cimetiŠre ş1920
-: .o .     N     _RAY Jean                    La Bonne Action ş1921
-: .o .     N     _RAY Jean                    Le Tableau ş1925
-: .o .     N     _RAY Jean                    L'Observatoire abandonn‚ ş1921
-: .o .     N     _RAY Jean                    Les tranges tudes du Dr Paukenschl„ger ş1923
-: .o .     N     _RAY Jean                    La Dette de Gumpelmeyer ş1922
-: .o .     N     _RAY Jean                    Herr Hubich dans la nuit ş1923
-o RENLIVG     ?  1967.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .     R     _SHELLEY Mary                Frankenstein ou le Prom‚th‚e moderne ş1818 Frankenstein or the Modern Prometheus şTrad. ROCATEL EugŠne & CUVELIER Georges
-o RENLIV      ?  1928.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .     R     _PROUMEN Henri-Jacques       Sur le chemin des dieux ş1928
-o RENLIV      ?  1930.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .     R     _PROUMEN Henri-Jacques       Le Sceptre vol‚ aux hommes ş1930
-o RENLIV      ?  1942.xx ..... ISBN -
-} noimg          _?                           ?
-- .oZ.     Px    _PROUMEN Henri-Jacques       Aubes cruelles ş1942
-!--- PoŠmes sur les temps pr‚historiques
-o RENLIV      ?  1962.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .     R     _THIRY Marcel                Echec au temps ş[1938],1945
-!--- Ecriture 1938 ou 1939 selon les sources
-
-!-----------------------------------------------------------------------------
-_ ECRITUR Ecritures
+_ ECRITUR Ecritures (Belgique)
 !-----------------------------------------------------------------------------
 o ECRITUR    70  1970.xx ..... ISBN -
 } noimg          _?                           ?
@@ -888,252 +814,8 @@ o BELG_AL     ?  1906.xx ..... ISBN -
 - .o .     R     _SMULDERS Carl               Les Feuilles d'Or ş1906
 
 !-----------------------------------------------------------------------------
-_ RENL_CL La Renaissance du Livre, Coll. Litt‚raire et Artistique Internationale
-!-----------------------------------------------------------------------------
-o RENL_CL     ?  1922.xx ..... ISBN -
-}ren1922_bierce  _?                           N
-- .o .    kNx    _BIERCE Ambrose              Aux lisiŠres de la mort ş1922
-!--- Traduction Victor Llona. La Renaissance du Livre -Paris - Collection Litt‚raire et Artistique Internationale, 1922.
-!--- Pr‚face de Victor Llona intitul‚ "Ambrose Bierce, gentleman des lettres" avec une note en fin de pr‚face que je reproduis telle quelle ici :
-!--- "la pr‚sente version de "Un incident au Pont d'Owlt (sic) Creek" a paru dans la Nouvelle revue Fran‡aise de d‚cembre 1921.
-!--- Nous remer‡ions ici M. Jacques RiviŠre qui nous a aimablement autoris‚ … la reproduire ici.
-!--- Aumoment de corriger les ‚preuves de ce recueil, nous apprenons, grƒce … l'obligeance de M. Maurice Bourgeois qui nous en a communique l'‚cho,
-!--- que M. George Kirk, de Cleveland, va publier, en une ‚dition … tirage restreint "Vingt et une lettres d'Ambrose Bierce" avec une notice de Samuel Loveman.
-!--- On y trouvera, parait-il, pour la premiŠre fois, le secret de la disparition de Bierce.
-!--- L'enr“lement de l'‚crivain dans l'arm‚e de Villa serait de pure imagination.
-!--- Il faudrait mˆme s'attendre … apprendre que Bierce vit encore (‚crit en 1921/22 !).
-!--- Pas mal non ? quelqu'un aurait-il l'ouvrage cit‚ de George Kirk (?) de Cleveland (?)... est-il paru ? le mystŠre de la disparition de Bierce fut-il lev‚ ?
-:. C .     C     _BIERCE Ambrose              PremiŠre partie : Quelques soldats
-: .o .     N     _BIERCE Ambrose              Un cavalier dans le ciel ş1889 The Horseman in the Sky
-: .o .     N     _BIERCE Ambrose              Un incident au pont d'Owl-Creek ş1890 An Occurence at Owl Creek Bridge
-: .o .     N     _BIERCE Ambrose              Chickamauga ş1889 Chickamauga
-: .o .     N     _BIERCE Ambrose              Un fils des dieux ş1888 A Son of the Gods
-: .o .     N     _BIERCE Ambrose              Disparu ş1888 One of the Missing
-: .o .     N     _BIERCE Ambrose              Tu‚ … Resaca ş1887 Killed at Resaca
-: .o .     N     _BIERCE Ambrose              L'Affaire de Coulter's Notch ş1889 The Affair at Coulter's Notch
-: .o .     N     _BIERCE Ambrose              Le Coup de grƒce ş1899 The Coup De Grƒce
-: .o .     N     _BIERCE Ambrose              Parker Adderson, philosophe ş1891 Parker Adderson, Philosopher
-:. C .     C     _BIERCE Ambrose              DeuxiŠme partie : Quelques civils
-: .o .     N     _BIERCE Ambrose              Une histoire de revenants, ou comme quoi tout d‚pend du cadre ş1889 The Suitable Surroundings
-: .o .     N     _BIERCE Ambrose              Le Mort et son veilleur ş1889 A Watcher by the Dead
-: .o .     N     _BIERCE Ambrose              L'Homme et le serpent ş1890 The Man and the Snake
-: .o .     N     _BIERCE Ambrose              Une petite horreur ş1882 A Holy Terror
-: .o .     N     _BIERCE Ambrose              La Fenˆtre condamn‚e ş1891 The Boarded Window
-: .o .     N     _BIERCE Ambrose              Le TroisiŠme Orteil du pied droit ş1890 The Middle Toe of the Right Foot
-
-!-----------------------------------------------------------------------------
-_ RENL_DR La Renaissance du Livre, Coll. Le Disque Rouge
-!-----------------------------------------------------------------------------
-!--- La Renaissance du Livre, collection "disque rouge"
-!--- Paris
-!-----------------------------------------------------------------------------
-o RENL_DR     ?  1932.xx R.... ISBN -
-} dr_poudrerose  _?                           N
-- .pF.    _N11   _WELLS Herbert George        La Poudre rose ş1932
-: .o .     N     _WELLS Herbert George        La Poudre rose ş1896 The Story of the Late Mr. Elvesham
-: .x .     N     _WELLS Herbert George        Le Nouveau Dieu ş1898 Jimmy Goggles the God
-: .o .     N     _WELLS Herbert George        Le C“ne ş1894 The Cone
-: .o .     N     _WELLS Herbert George        Par sa fenˆtre ş1894 Through a Window / At a Window
-: .o .     N     _WELLS Herbert George        L'Observatoire d'Avu ş1894 In the Avu Observatory
-: .o .     N     _WELLS Herbert George        Sous le bistouri ş1896 Slip Under the Knife / Under the Knife
-: .o .     N     _WELLS Herbert George        Les Champignons rouges ş1896 The Purple Pileus
-: .x .     N     _WELLS Herbert George        Le Diamant disparu ş1894 A Deal in Ostriches
-: .x .     N     _WELLS Herbert George        Le Tr‚sor du rajah ş1896 The Rajah's Treasure
-: .o .     N     _WELLS Herbert George        Les Amours de Jane ş1894 The Jilting of Jan
-: .o .     N     _WELLS Herbert George        L'Orchid‚e extraordinaire ş1894 The Flowering of the Strange Orchid / The Strange Orchid
-
-o RENL_DR     ?  1932.10 ..... ISBN -
-} dr_contesinde  _?                           N
-- .pF.    _N7    _KIPLING Rudyard             Contes de l'Inde ş1932
-: .oF.     N     _KIPLING Rudyard             Un vivant chez les morts ş1885 The Strange Ride of Morrowbie Jukes şTrad. ?
-: .x .     N     _KIPLING Rudyard             La Rentr‚e en scŠne d'Imray ş? The Return of Imray
-: .x .     N     _KIPLING Rudyard             Bimi ş? Bertran and Bimi
-: .x .     N     _KIPLING Rudyard             Ce qui fut un homme ş? The Man who Was
-: .oF.     N     _KIPLING Rudyard             42ø … l'ombre ş1890 At the End of the Passage şTrad. LECUYER Ren‚
-: .o .     N     _KIPLING Rudyard             Le Rickshaw fant“me ş1885 The Phantom Rickshaw şTrad. LECUYER Ren‚
-: .oF.     N     _KIPLING Rudyard             La Marque de la bˆte ş1890 The Mark of the Beast şTrad. LECUYER Ren‚
-
-o RENL_DR    25  1933.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .     R     _CATERS Christian de         La Sauterelle am‚thyste ş1933
-?o RENL_DR     ?  1933.xx ..... ISBN -
-?} noimg          _?                           ?
-?- .o .     R     _HAGGARD H. Rider            Elle [She - 1] ş1887 She şTrad. LECUYER Ren‚
-
-o RENL_DR     ?  1950.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .     R     _OWEN Thomas                 Le Jeu secret ş1950
-o RENL_DR     ?  1961.xx ..... ISBN -
-} dr_pitie61     _?                           ?
-!--- TBC : une ‚dition ant‚rieure en 1958 chez le mˆme ‚diteur ?
-- .oF.     N15   _OWEN Thomas                 Piti‚ pour les ombres ş1961
-: .o .     N     _OWEN Thomas                 Piti‚ pour les ombres ş1957
-: .o .     N     _OWEN Thomas                 Son ‚poux regrett‚ ş1958
-: .o .     N     _OWEN Thomas                 Le Coffret ş1958
-: .o .     N     _OWEN Thomas                 Passage du Dr Babylon ş1955
-: .o .     N     _OWEN Thomas                 M‚tamorphose ş1958
-: .o .     N     _OWEN Thomas                 La Montre ş1958
-: .o .     N     _OWEN Thomas                 Les Vilaines de nuit ş1958
-: .o .     N     _OWEN Thomas                 Les Petites Filles modŠles ş1958
-: .o .     N     _OWEN Thomas                 Lumineuse dans la nuit ş1958
-: .o .     N     _OWEN Thomas                 Et la vie s'arrˆta ş1958
-: .o .     N     _OWEN Thomas                 L'Assassinat de Lady Rhodes ş1950
-: .o .     N     _OWEN Thomas                 Nocturne ş1958
-: .o .     N     _OWEN Thomas                 Donatienne et son destin ş1958
-: .o .     N     _OWEN Thomas                 Fant“me es-tu l… ? ş1958
-: .o .     N     _OWEN Thomas                 Villa … vendre ş1952
-
-!-----------------------------------------------------------------------------
-_ RENL_MI La Renaissance du Livre, Coll. Les maŒtres de l'imaginaire
-!-----------------------------------------------------------------------------
-!--- La Renaissance du livre, Belgique, 7500 Tournai
-!---  diffus‚ en France par Gallimard
-!---  Collection "Les maŒtres de l'imaginaire" (2000 - ...)
-!-----------------------------------------------------------------------------
-o RENL_MI     ?  2000.xx ..... ISBN 2-8046-0394-6
-} noimg          _?                           ?
-- .o .     E     _BARONIAN Jean-Baptiste      Panorama de la litt‚rature fantastique de langue fran‡aise - Des origines … demain ş1978-2000
-o RENL_MI     1  2000.xx ..... ISBN 2-8046-0371-7
-} renlivmaitrim01 _?                           ?
-- .o .     R3    _DARTEVELLE Alain            Oeuvres choisies ş2000
-: .o .     R     _DARTEVELLE Alain            La Chasse au spectre ş2000
-: .o .     R     _DARTEVELLE Alain            Les Mauvais Rˆves de Marthe ş1989
-: .o .     R     _DARTEVELLE Alain            Borg ou l'agonie d'un monstre ş1983
-o RENL_MI     2  2000.xx ..... ISBN .-.....-...-.
-} renlivmaitrim02 _?                           ?
-- .oF.     RN10  _OWEN Thomas                 Oeuvres choisies - 1 ş2000
-: .o .     R     _OWEN Thomas                 Le T‚trastome ş1988
-: .oF.     N10   _OWEN Thomas                 La Cave aux crapauds ş1945
-= .o .     N     _OWEN Thomas                 La Cave aux crapauds ş1945
-= .o .     N     _OWEN Thomas                 La Pr‚sence d‚sol‚e ş1945
-= .o .     N     _OWEN Thomas                 La Princesse vous demande ş1945
-= .o .     N     _OWEN Thomas                 Ma cousine ş1945
-= .o .     N     _OWEN Thomas                 Le Chƒtelain ş1945
-= .o .     N     _OWEN Thomas                 Dans la maison vide ş1945
-!--- TBC date : _1947_ ou _1945_ ?
-= .o .     N     _OWEN Thomas                 PŠre et fille ş1945
-= .o .     N     _OWEN Thomas                 Elfriede ş1945
-= .o .     N     _OWEN Thomas                 Le Serpent bleu ş1945
-= .o .     N     _OWEN Thomas                 Le Testament de M. Breggins ş1945
-: .o .     R     _OWEN Thomas                 Le Jeu secret ş1950
-: .o .     R     _OWEN Thomas                 Les Grandes Personnes ş1954
-o RENL_MI     3  2000.xx ..... ISBN .-.....-...-.
-} noimg           _?                           ?
-- .xP.     R3    _STEEMAN Stanislas-Andr‚     Oeuvres choisies - 1 ş2000
-!--- … priori romans policiers
-: .x .     R     _STEEMAN Stanislas-Andr‚     L'Assassin habite au 21 ş1939
-: .x .     R     _STEEMAN Stanislas-Andr‚     Les Atouts de M. Wens ş1932
-: .x .     R     _STEEMAN Stanislas-Andr‚     Le Dernier des six ş1931
-o RENL_MI     4  2000.xx ..... ISBN 2-8046-0395-4
-} renlivmaitrim04 _?                           ?
-- .o .     R4    _ADAMEK Andr‚-Marcel         Oeuvres choisies ş2000
-: .o .     R     _ADAMEK Andr‚-Marcel         Le MaŒtre des jardins noirs ş1993
-: .o .     R     _ADAMEK Andr‚-Marcel         La Couleur des abeilles ş1992
-: .o .     R     _ADAMEK Andr‚-Marcel         Un imb‚cile au soleil ş1984
-!--- Prix Jean Mac‚ 1984
-: .o .     R     _ADAMEK Andr‚-Marcel         Le Fusil … p‚tales ş1974
-!--- Duculot 1974, Prix Rossel 1974
-o RENL_MI     5  2000.xx ..... ISBN 2-8046-0447-0
-} renlivmaitrim05 _?                           ?
-- .oAS     R4    _VERNES Henri                Bob Morane, le cycle des crapauds [Les Crapauds - 1/4][Bob Morane] ş2000
-!--- textes revus et corrig‚s
-: .o .     R     _VERNES Henri                Les Crapauds de la mort [Les Crapauds - 1][Bob Morane - 86] ş1967
-: .o .     R     _VERNES Henri                L'Empreinte du crapaud [Les Crapauds - 2][Bob Morane - 89] ş1968
-: .o .     R     _VERNES Henri                Le Masque du crapaud [Les Crapauds - 3][Bob Morane - 129] ş1975
-: .o .     R     _VERNES Henri                L'Antre du crapaud [Les Crapauds - 4][Bob Morane - 174] ş1996
-o RENL_MI     7  2001.02 ..... ISBN 2-8045-0465-9
-} renlivmaitrim07 _?                           ?
-!--- 647 pages
-- .o .    kNx    _MUNO Jean                   Oeuvres choisies ş2001
-: .oFK     N10   _MUNO Jean                   Histoires singuliŠres ş1979
-= .o .     N     _MUNO Jean                   La Mal du pays ş1979
-= .o .     N     _MUNO Jean                   Le Gant de volupt‚ ş1979
-= .o .     N     _MUNO Jean                   La Dame-Au-chien ş1979
-= .o .     N     _MUNO Jean                   La Voix du sang ş1979
-= .o .     N     _MUNO Jean                   La Chaise ş1979
-= .o .     N     _MUNO Jean                   Le M‚dium ş1979
-= .o .     N     _MUNO Jean                   Personne ş1979
-= .o .     N     _MUNO Jean                   La Goule ş1979
-= .o .     N     _MUNO Jean                   Bande dessin‚e ş1979
-= .o .     N     _MUNO Jean                   L'Iguane ş1979
-: .o .    kNx    _MUNO Jean                   Histoires griffues ş1985
-= .o .     N     _MUNO Jean                   Le Banc bleu ş?
-= .o .     N     _MUNO Jean                   Retour … l'envoyeur ş?
-= .o .     N     _MUNO Jean                   Le Vivarium ş?
-= .o .     N     _MUNO Jean                   Le Larech ş?
-= .o .     N     _MUNO Jean                   La Maison natale ş?
-: .o .     r     _MUNO Jean                   L'Homme qui s'efface ş1958
-: .o .     R     _MUNO Jean                   L'Hypparion ş1962
-: .o .    iNx    _MUNO Jean                   La BrŠche ş1973
-!--- + 12 nouvelles in‚dites
-: .o .    iNx    _MUNO Jean                   Nouvelles in‚dites ş2001
-o RENL_MI     ?  2001.xx ..... ISBN 2-8046-0487-X
-} noimg          _?                           ?
-!--- 544 pages - 14,0 x 21,5 cm -
-- .o .    kR4    _STERNBERG Jacques           Oeuvres choisies ş2001
-: .o .     r     _STERNBERG Jacques           Fin de siŠcle ş1971
-: .o .     R     _STERNBERG Jacques           Un jour ouvrable ş1961
-: .o .     R     _STERNBERG Jacques           La Banlieue ş1961
-: .o .     R     _STERNBERG Jacques           Le D‚lit ş1954
-o RENL_MI     9  2001.xx ..... ISBN 2-8046-0517-5
-} renlivmaitrim09 _?                           ?
-- .oFS    kNx    *MERCIER Jacques            &Jean Ray ş2001
-&                _RAY Jean                    
-!--- + biblio + bio
-: .o .     R     _RAY Jean                    Malpertuis ş1943
-: .oF.    kNx    _RAY Jean                    Les Contes du whisky ş1925
-= .o .     N     _RAY Jean                    Irish whisky ş1922
-= .o .     N     _RAY Jean                    A minuit ş1924
-= .o .     N     _RAY Jean                    Le Nom du bateau ş1924
-= .o .     N     _RAY Jean                    Un conte de f‚es … Whitechapel ş1924
-= .o .     N     _RAY Jean                    La Fortune d'Herbert ş1921
-= .o .     N     _RAY Jean                    Dans les marais du Fenn ş1923
-= .o .     N     _RAY Jean                    La Nuit de Camberwell ş1923
-= .o .     N     _RAY Jean                    Petite femme aim‚e au parfum de verveine... ş1923
-= .o .     N     _RAY Jean                    Le Saumon de Poppelreiter ş1924
-= .o .     N     _RAY Jean                    Entre deux verres ş1924
-= .o .     N     _RAY Jean                    Josuah Gllick, prˆteur sur gages ş1924
-= .o .     N     _RAY Jean                    La Vengeance ş1919
-= .o .     N     _RAY Jean                    Mon ami le mort ş1924
-= .o .     N     _RAY Jean                    Le Crocodile ş1924
-= .o .     N     _RAY Jean                    Une main ş1924
-= .o .     N     _RAY Jean                    La DerniŠre Gorg‚e ş1924
-= .o .     N     _RAY Jean                    Le Singe ş1921
-= .o .     N     _RAY Jean                    La Fenˆtre aux monstres ş1925
-= .oS.     N     _RAY Jean                    Minuit vingt ş1921
-= .o .     N     _RAY Jean                    La Bˆte blanche ş1920
-= .o .     N     _RAY Jean                    Le Gardien du cimetiŠre ş1920
-= .o .     N     _RAY Jean                    La Bonne Action ş1921
-= .o .     N     _RAY Jean                    Le Tableau ş1925
-= .o .     N     _RAY Jean                    L'Observatoire abandonn‚ ş1921
-= .o .     N     _RAY Jean                    Les tranges tudes du Dr Paukenschl„ger ş1923
-= .o .     N     _RAY Jean                    La Dette de Gumpelmeyer ş1922
-= .o .     N     _RAY Jean                    Herr Hubich dans la nuit ş1923
-: .o .    iNx    _RAY Jean                    Autres histoires noires et fantastiques ((Histoires noires et fantastiques)) ş?
-?o RENL_MI     ?  2001.xx ..... ISBN 2-8046-0523-X
-?} noimg          _?                           ?
-?- .o .    iNx    _MERCIER Jacques*           &Jacques Crickillon ş2001
-?&                _CRICKILLON Jacques      
-?!--- + biblio + bio
-?: .o .     N     _CRICKILLON Jacques          Babylone demain ş?
-?: .o .     N     _CRICKILLON Jacques          Le Tueur birman ş1987
-?: .o .    iNx    _CRICKILLON Jacques          Parcours 109 ş1982
-?: .o .    iN4    _CRICKILLON Jacques          Supra-Coronada ş1980
-o RENL_MI     ?  2002.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     E     _RICHTER Anne                Le Fantastique f‚minin, un art sauvage ş2002
-o RENL_MI     ?  2003.xx ..... ISBN .-.....-...-.
-} renlivmaitrim12 _?                           ?
-- .o .    iN4    _BARONIAN Jean-Baptiste      Histoires fant“mes ş2003
-?: .o .     N     _BARONIAN Jean-Baptiste      Sept simulacres ş?
-?: .o .     N     _BARONIAN Jean-Baptiste      Le Grand Chalababa ş?
-?: .o .     N     _BARONIAN Jean-Baptiste      La BibliothŠque de feu ş?
-?: .o .     N     _BARONIAN Jean-Baptiste      Disques fant“mes ş?
-?: .o .     N     _BARONIAN Jean-Baptiste      Les Adorateurs de l'oeil ş?
-
-!-----------------------------------------------------------------------------
-_ BOETIE  Ed. La Bo‚tie (Belgique)
-_ BOETIEP Ed. La Bo‚tie (Belgique), Coll. de Poche
+_ BOETIE  La Bo‚tie (Belgique)
+_ BOETIEP La Bo‚tie (Belgique) - Collection de Poche
 !-----------------------------------------------------------------------------
 !--- Editions la Bo‚tie, Bruxelles, belgique
 !-----------------------------------------------------------------------------
@@ -1179,7 +861,7 @@ o BOETIE      ?  1946.xx ..... ISBN -
 - .oF .    r     _LE FANU J. Sheridan         Carmilla [Le Dr. Hesselius] ş1871 Carmilla şTrad. KHARITONOFF H‚lŠne
 
 !-----------------------------------------------------------------------------
-_ ESSOR   Ed. L'Essor (Bruxelles)
+_ ESSOR   L'Essor (Bruxelles)
 !-----------------------------------------------------------------------------
 !--- L'Essor
 !-----------------------------------------------------------------------------
@@ -1203,9 +885,9 @@ o ESSOR       ?  1944.xx ..... ISBN -
 - .oA.     R     _ARCOURT Luc d'              L'Avion fant“me ou La retraite myst‚rieuse du professeur Nantzen ş1944
 
 !-----------------------------------------------------------------------------
-_ ANTOINE Ed. Jacques Antoine (Belgique)
-_ ANTOINN Ed. Jacques Antoine, Les Ecrits du Nord (Belgique)
-_ ANTOINP Ed. Jacques Antoine, Coll. Pass‚ pr‚sent (Belgique)
+_ ANTOINE Jacques Antoine (Belgique)
+_ ANTOINN Jacques Antoine (Belgique) - Les Ecrits du Nord
+_ ANTOINP Jacques Antoine (Belgique) - Pass‚ pr‚sent
 !-----------------------------------------------------------------------------
 !--- Editions Jacques Antoine, Bruxelles
 !-----------------------------------------------------------------------------
@@ -1254,16 +936,19 @@ o ANTOINN     ?  1979.xx ..... ISBN .-.....-...-.
 : .o .     N     _MUNO Jean                   La Goule ş1979
 : .o .     N     _MUNO Jean                   Bande dessin‚e ş1979
 : .o .     N     _MUNO Jean                   L'Iguane ş1979
-o ANTOINN     ?  1979.xx ..... ISBN .-.....-...-.
+o ANTOINN     ?  1979.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.    iN6    _COMPERE Gaston              DerriŠre l'oeil et autres textes fantastiques ş1979
+!--- 22 cm - 229 pages
+- .oF.     N6    _COMPERE Gaston              DerriŠre l'oeil ş1979
 : .oF.     N     _COMPERE Gaston              DerriŠre l'oeil ş1979
 : .oF.     N     _COMPERE Gaston              La TempŠte circulaire ş1979
 : .oF.     N     _COMPERE Gaston              Schawarzstasse ş1979
 : .oF.     N     _COMPERE Gaston              Le Pas du diable ş1979
 : .oF.     N     _COMPERE Gaston              La Polaire ş1979
-?: .oF.     N     _COMPERE Gaston              Lubeck au loin ş1979
 : .oF.     N     _COMPERE Gaston              Le Masque ş1979
+o ANTOINE     ?  1984.xx ..... ISBN 2-8713-2003-9
+} noimg          _?                           ?
+- .o .     E     _RICHTER Anne                Le Fantastique f‚minin - Un art sauvage ş1984
 o ANTOINE     ?  1984.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oF.     A28   *BARONIAN Jean-Baptiste      La Belgique fantastique - avant et aprŠs Jean Ray ş1975
@@ -1301,8 +986,8 @@ o ANTOINE     ?  1984.xx ..... ISBN .-.....-...-.
 : .o .     N     _BOURS Jean-Pierre           Le Peuple nu ş1977
 o ANTOINE     ?  1986.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+!--- TBD pr‚face de_VERNES Henri, Un homme de la renaissance (1962)
 - .oF.    _N12   _GHELDERODE Michel de        SortilŠges et autres contes cr‚pusculaires ş1941-1947
-!--- ??    p     _VERNES Henri                Un homme de la renaissance ş1962
 : .o .     N     _GHELDERODE Michel de        L'crivain public ş1938
 : .o .     N     _GHELDERODE Michel de        Le Diable … Londres ş1938
 : .o .     N     _GHELDERODE Michel de        Le Jardin malade ş1938
@@ -1345,7 +1030,7 @@ o ANTOINP    48  1986.xx ..... ISBN 2-87132-029-2
 : .o .     N     _PREVOT G‚rard               Les Confidences de Gert Verhoeven ş1970
 
 !-----------------------------------------------------------------------------
-_ NOCT    Ed. Nocturne, Belgique
+_ NOCT    Nocturne (Belgique)
 !-----------------------------------------------------------------------------
 !--- Editions Nocturne, Bruxelles (Belgique)
 !-----------------------------------------------------------------------------
@@ -1359,8 +1044,9 @@ o NOCT        ?  1986.xx ..... ISBN .-.....-...-.
 - .o .     R     _STEEMAN Stanislas-Andr‚     Faisons les fous ş1961
 
 !-----------------------------------------------------------------------------
+_ ANTH    Revue Anthˆsis (Belgique)
 _ KHIM    Revue Khimaira (Belgique)
-_ KHIM2   Revue Khimaira, 2iŠme s‚rie (Belgique)
+_ KHIM2   Revue Khimaira (Belgique) - 2iŠme s‚rie
 !-----------------------------------------------------------------------------
 !--- Khimaira (asbl Anthˆsis), Belgique
 !--- (association sans but lucratif)
@@ -1387,10 +1073,9 @@ o ANTH        6  19...xx ..... ISBN .-.....-...-.
 - .o .     Mx    ****                         Anthˆsis nø 6 ş19..
 o ANTH        7  1999.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     M5    ****                         Anthˆsis nø 7 ş1999
 !--- 6 poŠmes et 5 nouvelles
-?: .o .     N     _PILLOY Annie                ? ş?
-?: .o .     N     _R. NARD Amibe               ? ş?
+!--- 1 texte de Annie Pilloy et Amibe R. Nard
+- .o .     M5    ****                         Anthˆsis nø 7 ş1999
 o KHIM        1  1999.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     Mx    ****                         Khimaira nø 1 ş1999
@@ -1468,9 +1153,8 @@ o KHIM        9  2001.xx ..... ISBN .-.....-...-.
 : .o .     N     _BALOGH Arthur Z.            Phase terminale ş2001
 : .o .     P     _ELY Richard                 Naissance de l'incarnat ş2001
 : .o .     P     _ELY Richard                 Tristes cortŠges ş2001
-?!--- TBD : pourquoi en commentaire ? Sans doute … confirmer ?
-?: .o .    N      _CROOKS Pierre               Mauvais Strip ş2001
-?: .o .    N      _VANWEDDINGEN Suzanne        Une certaine id‚e du futur ş2001
+: .o .     N     _CROOKS Pierre               Mauvais Strip ş2001
+: .o .     N     _VANWEDDINGEN Suzanne        Une certaine id‚e du futur ş2001
 : .o .     N     _LABBE Denis                 Le Quai de la gare ş2001
 o KHIM       10  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -1478,11 +1162,9 @@ o KHIM       10  2001.xx ..... ISBN .-.....-...-.
 : .o .     N     _BOLDUC Claude               La Cl‚ ş1996
 : .o .     N     _ROZENBERG Michel            Le Dahyre ş2001
 : .o .     N     _ROGER Frank                 La Sarabande du Chaos ş1997 De sarabande van de chaos
-?!--- TBD : pourquoi en commentaire ? Sans doute … confirmer ?
-?: .o .     P     _GAYOT Claire                De nouds de pieds... ş2001
-?: .o .     P     _ELY Richard                 Fr‚n‚sies... ş2001
-?: .o .     N     _ELY Richard                 Comme le silence est doux pour ceux que le bruit achŠve... ş2001
-?: .o .     P     _ELY Richard                 Lorsque l'esprit... ş2001
+: .o .     P     _ELY Richard                 Fr‚n‚sies... ş2001
+: .o .     N     _ELY Richard                 Comme le silence est doux pour ceux que le bruit achŠve... ş2001
+: .o .     P     _ELY Richard                 Lorsque l'esprit... ş2001
 : .o .     N     _LAFRANCE Pierre-Luc         Pendu … ses lŠvres ş2001
 o KHIM       11  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -1543,7 +1225,7 @@ o KHIM       18  2003.xx ..... ISBN .-.....-...-.
 } noimg          _Marc Moreno
 - .o .     M3    ****                         Khimaira nø 18 (Avril 2003 - dossier Steampunk) ş2003
 : .o .     N     _BOITTE Julie                Les Ondines de l'‚tang ş2003
-!--- BD    N     _LE SOURD Christian          L'ombre du vampire ş2003
+: .! .     d     _LE SOURD Christian          L'ombre du vampire ş2003
 : .o .     N     _MELIADE St‚phane            Le Jardin d'Emily ş2003
 : .o .     N     _SAINT-LAURENT Sandra        Hanuman et moi ş2003
 o KHIM       19  2003.xx ..... ISBN .-.....-...-.
@@ -1573,7 +1255,7 @@ o KHIM       23  2004.xx ..... ISBN .-.....-...-.
 o KHIM       24  2004.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     M1    ****                         Khimaira nø 24 (octobre-d‚cembre) ş2004
-?: .oF.     N     _OZIKHAN Azir                Maman fait du bon caf‚ ş2004
+: .? .     N     _OZIKHAN Azir                Maman fait du bon caf‚ ş2004
 
 o KHIM2       1  2005.01 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -1658,7 +1340,6 @@ o KHIM2      15  2008.xx ..... ISBN .-.....-...-.
 !-----------------------------------------------------------------------------
 _ XUEN    Xuens‚ (Belgique)
 _ XUES    Xuens‚ Sp‚cial (Belgique)
-_ XU01    <b>in</b> Xuens‚ (Belgique) nø 33, 37 et 38
 !-----------------------------------------------------------------------------
 !--- Octazine (Belgique)
 !---
@@ -1718,8 +1399,9 @@ o XUEN        ?  1992.xx ..... ISBN -
 ?-- ??? : .o .     N     _CHRIS                       Pr‚sence ş1992
 
 !-----------------------------------------------------------------------------
-o XU01        ?  1992.xx ..... ISBN .-.....-...-.
+o XUEN        ?  1992.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 33, 37 et 38
 - .o .     N     _WARFA Dominique             Les Ferrailleurs de Colombus ş1991
 !-----------------------------------------------------------------------------
 o XUEN        7  1973.xx ..... ISBN .-.....-...-.
@@ -1828,16 +1510,16 @@ o XUEN       43  1995.xx ..... ISBN .-.....-...-.
 o XUEN       44  1995.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     Mx    ****                         Xuens‚ nø 44 (avril 95) ş1995
+!--- Et un texte de Adam M. POSSAMAI
 : .o .     N     _LE BUSSY Alain              Le Rock du bagne ş1995
-?: .o .     N     _POSSAMAI Adam M.            ? ş?
 : .o .     N     _VERLINDEN Patrick           La DerniŠre Cigarette ş1995
 o XUEN       45  1995.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+!--- TBC contient le texte "Le MystŠre Shesivan (1995)" de ?
 - .o .     Mx    ****                         Xuens‚ nø 45 (octobre 1995) ş1995
 : .o .     N     _MARTIN Christian            Le Cr‚ateur de mondes ş1995
 : .o .     N     _BOLDUC Claude               A tout p‚ch‚ ş1995
 : .o .     N     _SHESIVAN Lucas              Attraction terrestre ş1995
-?: .o .     a     _***                         Le MystŠre Shesivan ş1995
 o XUEN       46  1996.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Xuens‚ nø 46 (avril 1996) ş1996
@@ -2021,25 +1703,15 @@ o OCTA       53  1994.xx ..... ISBN .-.....-...-.
 &                _DUCHENE Cathy               
 o OCTA       54  1995.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     Mx    ****                         Octa nø 54 (octobre 95) ş1995
-?: .o .     N     _POSSAMAI Adam               ? ş?
-?: .o .     N     _ESPRIMONT Pascal            ? ş?
+- .o .    iMx    ****                         Octa nø 54 (octobre 95) ş1995
 : .o .     N     _WARFA Dominique             Cyber-vote ş1995
-?: .o .     N     _DURMAN Ratislav             ? ş?
-!--- Auteur Serbo-Croate
-?: .o .     N     _DUMONT Claude               ? ş?
 : .o .     N     _VERLINDEN Patrick           D‚rapage X / 1 ş1995
-!-- Tiens, pas r‚f‚renc‚e dans la notule du PGEFF ?
-?: .o .     N     _LE BUSSY Alain              ? ş?
 o OCTA       55  1996.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     Mx    ****                         Octa nø 55 (mai 96) ş1996
 : .oS.     N     _VALLET Dominik              S‚lection naturelle ş1996
 : .o .     N     _VERLINDEN Patrick           D‚rapage I et 10 ş1996
-?: .o .     N     _NAJMAN Marie-Pierre         ? ş?
-?: .o .     N     _DUMONT Claude               ? ş?
 : .o .     N     _ROGER Frank                 Le Jardin o— le temps tombait en poussiŠre ş1993 De tuin waar de tijd tot stof verkruimelde
-?: .o .     N     _BROUILLAUD Pierre-Jean      ? ş?
 o OCTA       56  1996.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     Mx    ****                         Octa nø 56 (octobre 96) ş1996
@@ -2060,7 +1732,7 @@ o OCTA       59  1999.xx ..... ISBN .-.....-...-.
 
 o OCTA        ?  1994.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     N12   _MORIN Hugues                Le Marchand de rˆves ş1994
+- .oF.     N12   _MORIN Hugues                Le Marchand de rˆves ş1994
 : .o .     N     _MORIN Hugues                Alice, Mariah, Doc et les autres ş1994
 : .o .     N     _MORIN Hugues                La SirŠne de la vie ş1993
 : .o .     N     _MORIN Hugues                Le Chat ş1994
@@ -2129,17 +1801,17 @@ o MAGI        9  1985.T3 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     M6    ****                         Magie rouge nø 9 ş1985
 : .o .     N     _DELISSE Luc                 Ville ouverte ş1985
-?: .? .     N     _MOINAUT Jos‚                La Tˆte de l'ours ş1985
-?: .? .     N     _SPEDE Lucie                 Le Vieillard ş1985
-?: .? .     N     _URRUTY Ma‹t‚                Le Vertige ş1985
+: .? .     N     _MOINAUT Jos‚                La Tˆte de l'ours ş1985
+: .? .     N     _SPEDE Lucie                 Le Vieillard ş1985
+: .? .     N     _URRUTY Ma‹t‚                Le Vertige ş1985
 : .o .     N     _THOMAS-BILSTEIN Jacques     Le Zombie des Bermudes ş1985
 o MAGI       11  1985.T4 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     M6    ****                         Magie rouge nø 11 ş1985
 : .o .     N     _ANDRIAT Frank               La Chanson de Karima ş1985
-?: .o .     N     _MARINIE Ariel               L'Homme qui marche ş1985
+: .? .     N     _MARINIE Ariel               L'Homme qui marche ş1985
 : .o .     N     _THOMAS-BILSTEIN Jacques     La Brume du temps ş1985
-?: .o .     N     _BINET Roland                La Longue route de la mort ş1985
+: .? .     N     _BINET Roland                La Longue route de la mort ş1985
 : .o .     N     _DESFORGES Andr‚             Bitume ş1985
 : .o .     N     _BAILLY Marc                 Echec et route ş1985
 o MAGI       15  1987.xx ..... ISBN .-.....-...-.
@@ -2228,7 +1900,7 @@ o MAGI       36/ 1992.xx ..... ISBN .-.....-...-.
 - .o .     Mx    ****                         Magie rouge nø 36-37 (d‚cembre 92) ş1992
 !--- 3ieme et 4ieme trimestre 1992
 : .o .     N     _MARTIN Christian            Le Trou sot ş1992
-: .o .     N     _NGUYEN Jean-Jacques         Rˆve de chine ş1992
+: .o .     N     _NGUYEN Jean-Jacques         Rˆve de Chine ş1992
 : .o .     N     _DEMMA Fred                  La Maison en retrait ş1992
 : .o .     N     _POSSAMAI Adam M.            La Raison selon Janus ş1992
 o MAGI       38/ 1993.xx ..... ISBN .-.....-...-.
@@ -2255,12 +1927,8 @@ o MAGI       40/ 1994.xx ..... ISBN .-.....-...-.
 o MAGI       42  1997.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     M6    ****                         Magie rouge nø 42 (avril 1997) ş1997
-?; .o .     N     _OWEN Thomas                 ?
-?; .o .     N     _DUCHATEAU Andr‚-Paul        ?
-?; .o .     N     _BROUILLAUD Pierre-Jean      ?
 : .oF.     N     _LEVILAIN-CLEMENT E.         Les Chants de la mer ş1997
 : .oF.     N     _VERLINDEN Patrick           L'H“te de minuit ş1997
-?; .o .     N     _LE BUSSY Alain              ?
 o MAGI       43  1997.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     M0    ****                         Magie rouge nø 43 (octobre 1997) ş1997
@@ -2269,20 +1937,20 @@ o MAGI       44/ 1998.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     Mx    ****                         Magie rouge nø 44-45 ş1998
 : .o .     N     _VERLINDEN Patrick           L'Oeuvre oubli‚e ş1998
-?: .o .     a     _DUTILLEUL Adrien            Entre les lignes ş1998
+: .o .     a     _DUTILLEUL Adrien            Entre les lignes ş1998
 o MAGI       46/ 2000.xx ..... ISBN .-.....-...-.
 /            47 
 } noimg          _?                           ?
 - .o .     Mx    ****                         Magie rouge nø 46-47 ş2000
 : .o .     N     _PREVOT G‚rard               Aur‚lia 75 ş?
 : .o .     N     _PREVOT G‚rard               La Repr‚sentation ş?
-?: .o .     .     _POE Edgar Allan             Comment ‚crire un article Blacwood ş1885 ?
+: .o .     N     _POE Edgar Allan             Comment ‚crire un article Blackwood ş1838 The Psyche Zenobia / How to Write a Blackwood Article
 o MAGI       48  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     Mx    ****                         Magie rouge nø 48 ş2001
 : .o .     N     _VERLINDEN Patrick          &C'est dur pour tout le monde ş2001
 &                _MYTHIC                      
-?: .o .     a     _DUTILLEUL Adrien            Le Tryptique fantastique de Mythic ş2001
+: .o .     a     _DUTILLEUL Adrien            Le Triptyque fantastique de Mythic ş2001
 
 !-----------------------------------------------------------------------------
 _ ARGON   Argon (Belgique)
@@ -2324,6 +1992,7 @@ o ARGON       6  1975.xx ..... ISBN .-.....-...-.
 - .o .     Mx    ****                         Argon nø 6 (septembre 1975) ş1975
 : .o .     N     _PLANQUE Jean-Pierre         Le Secret ş1975
 : .o .     N     _ALEXANDRE Katia             Et la bulle ‚clata ş1975
+: .oS.     N     _LAVESTA Raymond             Le Terminus des Caravelles ş1975
 o ARGON       7  1975.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     Mx    ****                         Argon nø 7 (octobre 1975) ş1975
@@ -2367,7 +2036,7 @@ o COLI        4  1990.xx ..... ISBN .-.....-...-.
 - .o .    iAx    ****                         Court Lignage ş1990
 
 !-----------------------------------------------------------------------------
-_ ENCN_CS Encre Noire, Coll. La Crois‚e des SphŠres
+_ ENCN_CS Encre Noire (Belgique) - La Crois‚e des SphŠres
 !-----------------------------------------------------------------------------
 !--- La crois‚e des sphŠres
 !--- Plaquettes … bas pris, exp‚di‚es gratuitement aux abonn‚s du fanzine
@@ -2379,7 +2048,7 @@ _ ENCN_CS Encre Noire, Coll. La Crois‚e des SphŠres
 o ENCN_CS     1  1995.08 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     N2    ****                         Ecrase-t-on un grillon parce qu'il chante ? - Ce jour l… ş1995
-: .o .     N     _PAPOZ Micky                 Ecrase-t-on un grillon parce qu'il chante ? ş1995
+: .o .     N     _PAPOZ Micky                 crase-t-on un grillon parce qu'il chante ? ş1995
 : .o .     N     _PAPOZ Micky                 Ce jour l… ş1995
 o ENCN_CS     2  1996.01 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -2416,13 +2085,13 @@ o ENCN_CS     7  1997.12 ..... ISBN .-.....-...-.
 
 !-----------------------------------------------------------------------------
 _ ENCNOIR Encre Noire (Belgique)
-_ ENCN01  <b>in</b> Encre Noire (Belgique) nø 12 et 13
 !-----------------------------------------------------------------------------
 !--- Encre Noire (fantastique) Engis, Belgique
 !---  Encre noire : zine belge, Eric Albert
 !-----------------------------------------------------------------------------
-o ENCN01      ?  1998.xx ..... ISBN .-.....-...-.
+o ENCNOIR     ?  1998.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 12 et 13
 - .oF.     N     _OLIN Jacques                Le Visiteur ş1998
 !-----------------------------------------------------------------------------
 o ENCNOIR     1  1996.xx ..... ISBN .-.....-...-.
@@ -2509,7 +2178,7 @@ o ENCNOIR    21  2001.xx ..... ISBN .-.....-...-.
 o ENCNOIR    22  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oF.     Mx    ****                         Encre Noire nø 22 ş2001
-: .oF.     N     _PAUL J‚rome                 La poupe est sanglante ş2001
+: .oF.     N     _PAUL J‚r“me                 La poupe est sanglante ş2001
 : .oF.     N     _SPORTOUCHE Thierry          L'Encre vampirique ş2001
 : .oF.     N     _CARROLL Jonathan            Salle Jane Fonda ş1982 The Jane Fonda Room
 o ENCNOIR    23  2001.xx ..... ISBN .-.....-...-.
@@ -2570,20 +2239,21 @@ o ENCNOIR    40  2005.xx ..... ISBN .-.....-...-.
 : .oF.     N     _MESSTAVIC Nihil             La Belle Statue du cimetiŠre ş2005
 
 !-----------------------------------------------------------------------------
-_ MEMOR_C Ed. M‚mor (Bruxelles), Coll. Couleurs
+_ MEMOR_C M‚mor (Bruxelles) - Couleurs
 !-----------------------------------------------------------------------------
 o MEMOR_C     ?  2003.01 ..... ISBN 2-930133-93-7
 } memorcontes    _?                           ?
-- .oF.    iN12   _AUBRY Jacques               Contes allant vers... ş2003
+!--- 123 pages - 21 cm - 9 euros
+- .oF.    iNx    _AUBRY Jacques               Contes allant vers... ş2003
 o MEMOR_C     ?  2005.xx ..... ISBN 2-915394-29-6
-} memormarches   _?                           ?
-- .oF.    iN10   _AUBRY Jacques               Marches de l'imaginaire ş2005
-?: .oF.     N     _AUBRY Jacques               La Plante ş2005
-?: .oF.     N     _AUBRY Jacques               Anubis ş2005
+} memormarches   _Fr‚d‚ric Debast             ?
+!--- 135 pages - 9 euros
+- .oF.    iNx    _AUBRY Jacques               Marches de l'imaginaire ş2005
+: .oF.     N     _AUBRY Jacques               Anubis ş2005
 
 !-----------------------------------------------------------------------------
-_ MIJADE  Ed. Mijade
-_ MIJADEJ Ed. Mijade, Zone J
+_ MIJADE  Mijade (Belgique)
+_ MIJADEJ Mijade (Belgique) - Zone J
 !-----------------------------------------------------------------------------
 !--- Mjade Zone J : de 9 … 14 ans
 !--- Mjade Roman : … partir de 15 ans
@@ -2594,7 +2264,13 @@ _ MIJADEJ Ed. Mijade, Zone J
 !--- Attention : des Labor sur site prijade
 !---  (sans ˆtre r‚‚dit.)
 !-----------------------------------------------------------------------------
+o MIJADEJ     ?  2005.xx ..... ISBN ?
+} noimg          _?                           ?
+- .oS.     R     _GUNZIG Thomas               Nom de code : super-pouvoirs ş2005
+!--- s‚lection de 99 contes
 o MIJADEJ     ?  2008.08 ..... ISBN 978-2-87423-010-3
+} mijadej010     _?                           ?
++ MIJADEJ     ?  2020.07 ..... ISBN 978-2-87423-010-3
 } mijadej010     _?                           ?
 - .oF.    _N16   _OWEN Thomas                 Contes … l'encre de la nuit ş1998
 !--- Choix ‚tabli par Joseph Duhamel, Monique Moulin et Catherine Hennebert
@@ -2617,8 +2293,10 @@ o MIJADEJ     ?  2008.08 ..... ISBN 978-2-87423-010-3
 : .o .     N     _OWEN Thomas                 Dans la maison vide ş1945
 o MIJADEJ     ?  2008.05 ..... ISBN 978-2-87423-024-0
 } noimg          _?                           ?
-- .oFK    iN99   _STERNBERG Jacques           Contes glac‚s ş1998
+!--- Poche - 18 cm - 7 euros
 !--- s‚lection de 99 contes
+- .oFK    iAx    _STERNBERG Jacques          &Contes glac‚s ş1998
+&                *DUHAMEL Joseph              
 o MIJADEJ     ?  2008.08 ..... ISBN 978-2-87423-031-8
 } noimg          _?                           ?
 - .oF.     R     _GUDULE                      Le Bal des ombres ş2008
@@ -2626,15 +2304,53 @@ o MIJADEJ     ?  2009.11 ..... ISBN 978-2-87423-044-8
 } noimg          _?                           ?
 !--- int‚grale (plus de 250 r‚cits)
 !--- strictement identique … la publication Marabout 74
-- .oFK    iN269  _STERNBERG Jacques           Contes glac‚s ş1974
+- .oFK    iNx    _STERNBERG Jacques           Contes glac‚s ş1974
 o MIJADE      ?  2010.06 ..... ISBN 978-2-87423-058-5
 } noimg          _?                           ?
 !--- id "Le temps des gueux"
 - .o .     R     _GRIMAUD Michel              Le Recruteur (Le temps des gueux) ş1980
 o MIJADE      ?  2011.11 ..... ISBN 978-2-87423-057-8
-} noimg          _?                           ?
+} mijadeailleurterre _?                           ?
 !--- 270 pages - 12 euros
 - .oS.    iNx    _STERNBERG Jacques           Ailleurs et sur la Terre ş2011
+o MIJADE      ?  2013.03 ..... ISBN ?
+} noimg          _?                           ?
++ MIJADE      ?  2020.02 ..... ISBN ?
+} noimg          _?                           ?
+!--- ? - ? pages - 7,00 euros
+- .oS.     R     _ROBBERECHT Thierry          Reborn ş2013
+o MIJADE      ?  2015.03 ..... ISBN ?
+} noimg          _?                           ?
+!--- ? - ? pages - 6,50 euros
+- .oS.     R     _ROBBERECHT Thierry          Memo 657 ş2015
+o MIJADEJ     ?  2019.xx ..... ISBN 978-2-87423-115-5
+} noimg          _?                           ?
+!--- Poche - 18 cm - 348 pages- 11,50 euros
++ MIJADEJ     ?  2019.xx ..... ISBN 978-2-87423-154-4
+} noimg          _?                           ?
+!--- GF - 21 cm - 348 pages- 11,50 euros
+- .oF.     R     _HONAKER Michel              M‚morandum ş2019
+o MIJADEJ     ?  2019.xx ..... ISBN ?
+} noimg          _?                           ?
+!--- GF - ? cm - ? pages- 8,00 euros
+- .oS.     R     _CHRISTOPHER John            Les Gardiens ş1970 The Guardians şTrad. ?
+o MIJADEJ     ?  2019.10 ..... ISBN ?
+} noimg          _?                           ?
+!--- GF - ? cm - ? pages- 12,00 euros
+- .oF.     R     _ZIMMERMANN N.M.             Esprit, es-tu l… ? [Les Fant“mes d'Ebenezer Hicks - 1] ş2019
+o MIJADEJ     ?  2020.03 ..... ISBN ?
+} noimg          _?                           ?
+!--- GF - ? cm - ? pages- 12,00 euros
+- .oF.     R     _ZIMMERMANN N.M.             Le M‚dium [Les Fant“mes d'Ebenezer Hicks - 1] ş2020
+o MIJADEJ     ?  2021.06 ..... ISBN 978-2-87423-161-2
+} noimg          _?                           ?
+!--- GF - 21 cm - 183 pages- 9,00 euros
+!--- Suite de "La SorciŠre de midi"
+- .oF.     R     _HONAKER Michel              Le Retour d'Amatkine [H‚ritage (M. Honaker) - 1] ş2021
+o MIJADEJ     ?  2021.10 ..... ISBN 978-2-87423-163-6
+} noimg          _?                           ?
+!--- GF - 21 cm - ? pages- 9,00 euros
+- .oF.     R     _HONAKER Michel              Le Rˆgne d'Ishagor [H‚ritage (M. Honaker) - 2] ş2021
 
 !-----------------------------------------------------------------------------
 _ AUTASS  Les Auteurs Associ‚s (Bruxelles)
@@ -2673,7 +2389,7 @@ o AUTASS      ?  1943.xx ..... ISBN -
 : .o .     o     _RAY Jean                    Fin : hors des cercles ş1943
 
 !-----------------------------------------------------------------------------
-_ ARAMIS  ASBL Aramis
+_ ARAMIS  ASBL Aramis (Belgique)
 !-----------------------------------------------------------------------------
 o ARAMIS      ?  2005.xx ..... ISBN -
 } noimg          _?                           ?
@@ -2682,14 +2398,14 @@ o ARAMIS      ?  2005.xx ..... ISBN -
 : .oS.     N     _STEWARD Ketty               Gardien ş2005
 
 !-----------------------------------------------------------------------------
-_ MONDETP ASBL Le Monde des Etoiles, Coll. PoussiŠre d'‚toiles
+_ MONDETP ASBL Le Monde des Etoiles (Belgique) - PoussiŠre d'‚toiles
 !-----------------------------------------------------------------------------
 o MONDETP     ?  2013.11 ..... ISBN 978-2-9601377-0-5
 } noimg          _Ulric Godfroid              ?
 - .oF.     R     _DUBANIEWICZ Vanessa         Le Miroir de Borgoth [Chronique du monde des ‚toiles - 1] ş2013
 
 !-----------------------------------------------------------------------------
-_ EDPAGE  Ed. de la Page (Belgique)
+_ EDPAGE  Editions de la Page (Belgique)
 !-----------------------------------------------------------------------------
 o EDPAGE      ?  2004.11 ..... ISBN 2-87432-011-0
 } noimg          _?                           ?
@@ -2699,7 +2415,7 @@ o EDPAGE      ?  2004.11 ..... ISBN 2-87432-012-9
 - .o .     R     _BERRYL Rose                 Voyage dans la p‚nombre - 2 [Dammendyn - 2] ş2004
 
 !-----------------------------------------------------------------------------
-_ WILQUIN Ed. Luce Wilquin (Belgique)
+_ WILQUIN Luce Wilquin (Belgique)
 !-----------------------------------------------------------------------------
 o WILQUIN     ?  2005.12 ..... ISBN 2-88253-299-7
 } noimg          _?                           ?
@@ -2731,7 +2447,7 @@ o POLLEN     22  2004.xx ..... ISBN .-.....-...-.
 : .o .     N     _BOLDUC Claude               L'Ombre de la camisole ş1995
 
 !-----------------------------------------------------------------------------
-_ DELTA   Ed. Delta (Bruxelles)
+_ DELTA   Delta (Bruxelles)
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -2761,7 +2477,7 @@ o DELTA       ?  1983.04 R.... ISBN 2-8029-0044-7
 : .oF.     N     _OWEN Thomas                 La Chambre d'Oph‚lie ş1983
 
 !-----------------------------------------------------------------------------
-_ DEMEYE  Ed. Robert Demeyer, Coll. Pastiches (LiŠge)
+_ DEMEYE  Robert Demeyer (LiŠge) - Pastiches
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -2815,7 +2531,7 @@ o DEMEYE      ?  2006.xx ..... ISBN .-.....-...-.
 : .o .     N     _LE BUSSY Alain              Rob contre Will [Les Aventures de Rob Mobane] ş2006
 
 !-----------------------------------------------------------------------------
-_ BILOQUE Les Cahiers de la Biloque (belgique)
+_ BILOQUE Les Cahiers de la Biloque (Belgique)
 !-----------------------------------------------------------------------------
 !--- "Les cahiers de la biloque - Revue m‚dicale gantoise", puis
 !--- "Les cahiers de la biloque - Revue d'humanisme m‚dical", puis
@@ -2831,261 +2547,261 @@ _ BILOQUE Les Cahiers de la Biloque (belgique)
 !--- en 1964 : La bˆte des links, de Jean Ray
 !-----------------------------------------------------------------------------
 
-o BILOQUE  2e-1  1952.xx ..... ISBN -
+o BILOQUE  a2-1  1952.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 2e ann‚e - nø 1 (janvier-f‚vrier 1952) ş1952
-o BILOQUE  2e-2  1952.xx ..... ISBN -
+o BILOQUE  a2-2  1952.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 2e ann‚e - nø 2 (mars-avril 1952) ş1952
-o BILOQUE  2e-3  1952.xx ..... ISBN -
+o BILOQUE  a2-3  1952.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 2e ann‚e - nø 3 (mai-juin 1952) ş1952
-o BILOQUE  2e-4  1952.xx ..... ISBN -
+o BILOQUE  a2-4  1952.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 2e ann‚e - nø 4 (juillet-ao–t 1952) ş1952
 : .o .     N     _RAY Jean                    La Conjuration du lundi : histoire d'un sortilŠge ş1952
-o BILOQUE  2e-5  1952.xx ..... ISBN -
+o BILOQUE  a2-5  1952.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 2e ann‚e - nø 5 (septembre-octobre 1952) ş1952
 : .o .     N     _RAY Jean                    C‚sar ş1952
-o BILOQUE  2e-6  1952.xx ..... ISBN -
+o BILOQUE  a2-6  1952.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 2e ann‚e - nø 6 (novembre-d‚cembre 1952) ş1952
-o BILOQUE  3e-1  1953.xx ..... ISBN -
+o BILOQUE  a3-1  1953.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 3e ann‚e - nø 1 (janvier-f‚vrier 1953) ş1953
-o BILOQUE  3e-2  1953.xx ..... ISBN -
+o BILOQUE  a3-2  1953.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 3e ann‚e - nø 2 (mars-avril 1953) ş1953
-o BILOQUE  3e-3  1953.xx ..... ISBN -
+o BILOQUE  a3-3  1953.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 3e ann‚e - nø 3 (mai-juin 1953) ş1953
-o BILOQUE  3e-4  1953.xx ..... ISBN -
+o BILOQUE  a3-4  1953.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 3e ann‚e - nø 4 (juillet-ao–t 1953) ş1953
-o BILOQUE  3e-5  1953.xx ..... ISBN -
+o BILOQUE  a3-5  1953.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 3e ann‚e - nø 5 (septembre-octobre 1953) ş1953
-o BILOQUE  3e-6  1953.xx ..... ISBN -
+o BILOQUE  a3-6  1953.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 3e ann‚e - nø 6 (novembre-d‚cembre 1953) ş1953
-o BILOQUE  4e-1  1954.xx ..... ISBN -
+o BILOQUE  a4-1  1954.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 4e ann‚e - nø 1 (janvier-f‚vrier 1954) ş1954
-o BILOQUE  4e-2  1954.xx ..... ISBN -
+o BILOQUE  a4-2  1954.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 4e ann‚e - nø 2 (mars-avril 1954) ş1954
-o BILOQUE  4e-3  1954.xx ..... ISBN -
+o BILOQUE  a4-3  1954.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 4e ann‚e - nø 3 (mai-juin 1954) ş1954
-o BILOQUE  4e-4  1954.xx ..... ISBN -
+o BILOQUE  a4-4  1954.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 4e ann‚e - nø 4 (juillet-ao–t 1954) ş1954
-o BILOQUE  4e-5  1954.xx ..... ISBN -
+o BILOQUE  a4-5  1954.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 4e ann‚e - nø 5 (septembre-octobre 1954) ş1954
-o BILOQUE  4e-6  1954.xx ..... ISBN -
+o BILOQUE  a4-6  1954.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 4e ann‚e - nø 6 (novembre-d‚cembre 1954) ş1954
-o BILOQUE  5e-1  1955.xx ..... ISBN -
+o BILOQUE  a5-1  1955.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 5e ann‚e - nø 1 (janvier-f‚vrier 1955) ş1955
-o BILOQUE  5e-2  1955.xx ..... ISBN -
+o BILOQUE  a5-2  1955.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 5e ann‚e - nø 2 (mars-avril 1955) ş1955
-o BILOQUE  5e-3  1955.xx ..... ISBN -
+o BILOQUE  a5-3  1955.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 5e ann‚e - nø 3 (mai-juin 1955) ş1955
-o BILOQUE  5e-4  1955.xx ..... ISBN -
+o BILOQUE  a5-4  1955.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 5e ann‚e - nø 4 (juillet-ao–t 1955) ş1955
-o BILOQUE  5e-5  1955.xx ..... ISBN -
+o BILOQUE  a5-5  1955.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 5e ann‚e - nø 5 (septembre-octobre 1955) ş1955
-o BILOQUE  5e-6  1955.xx ..... ISBN -
+o BILOQUE  a5-6  1955.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 5e ann‚e - nø 6 (novembre-d‚cembre 1955) ş1955
-o BILOQUE  6e-1  1956.xx ..... ISBN -
+o BILOQUE  a6-1  1956.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 6e ann‚e - nø 1 (janvier-f‚vrier 1956) ş1956
-o BILOQUE  6e-2  1956.xx ..... ISBN -
+o BILOQUE  a6-2  1956.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 6e ann‚e - nø 2 (mars-avril 1956) ş1956
-o BILOQUE  6e-3  1956.xx ..... ISBN -
+o BILOQUE  a6-3  1956.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 6e ann‚e - nø 3 (mai-juin 1956) ş1956
-o BILOQUE  6e-4  1956.xx ..... ISBN -
+o BILOQUE  a6-4  1956.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 6e ann‚e - nø 4 (juillet-ao–t 1956) ş1956
-o BILOQUE  6e-5  1956.xx ..... ISBN -
+o BILOQUE  a6-5  1956.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 6e ann‚e - nø 5 (septembre-octobre 1956) ş1956
-o BILOQUE  6e-6  1956.xx ..... ISBN -
+o BILOQUE  a6-6  1956.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 6e ann‚e - nø 6 (novembre-d‚cembre 1956) ş1956
-o BILOQUE  7e-1  1957.xx ..... ISBN -
+o BILOQUE  a7-1  1957.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 7e ann‚e - nø 1 (janvier-f‚vrier 1957) ş1957
-o BILOQUE  7e-2  1957.xx ..... ISBN -
+o BILOQUE  a7-2  1957.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 7e ann‚e - nø 2 (mars-avril 1957) ş1957
 : .o .     N     _RAY Jean                    Les Compagnons d'Ulysse ş1957
-o BILOQUE  7e-3  1957.xx ..... ISBN -
+o BILOQUE  a7-3  1957.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 7e ann‚e - nø 3 (mai-juin 1957) ş1957
 : .o .     N     _RAY Jean                    Le Bupreste ş1957
-o BILOQUE  7e-4  1957.xx ..... ISBN -
+o BILOQUE  a7-4  1957.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 7e ann‚e - nø 4 (juillet-ao–t 1957) ş1957
-o BILOQUE  7e-5  1957.xx ..... ISBN -
+o BILOQUE  a7-5  1957.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 7e ann‚e - nø 5 (septembre-octobre 1957) ş1957
-o BILOQUE  7e-6  1957.xx ..... ISBN -
+o BILOQUE  a7-6  1957.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 7e ann‚e - nø 6 (novembre-d‚cembre 1957) ş1957
-o BILOQUE  8e-1  1958.xx ..... ISBN -
+o BILOQUE  a8-1  1958.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 8e ann‚e - nø 1 (janvier-f‚vrier 1958) ş1958
-o BILOQUE  8e-2  1958.xx ..... ISBN -
+o BILOQUE  a8-2  1958.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 8e ann‚e - nø 2 (mars-avril 1958) ş1958
-o BILOQUE  8e-3  1958.xx ..... ISBN -
+o BILOQUE  a8-3  1958.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 8e ann‚e - nø 3 (mai-juin 1958) ş1958
-o BILOQUE  8e-4  1958.xx ..... ISBN -
+o BILOQUE  a8-4  1958.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 8e ann‚e - nø 4 (juillet-ao–t 1958) ş1958
-o BILOQUE  8e-5  1958.xx ..... ISBN -
+o BILOQUE  a8-5  1958.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 8e ann‚e - nø 5 (septembre-octobre 1958) ş1958
-o BILOQUE  8e-6  1958.xx ..... ISBN -
+o BILOQUE  a8-6  1958.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 8e ann‚e - nø 6 (novembre-d‚cembre 1958) ş1958
-o BILOQUE  9e-1  1959.xx ..... ISBN -
+o BILOQUE  a9-1  1959.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 9e ann‚e - nø 1 (janvier-f‚vrier 1959) ş1959
-o BILOQUE  9e-2  1959.xx ..... ISBN -
+o BILOQUE  a9-2  1959.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 9e ann‚e - nø 2 (mars-avril 1959) ş1959
-o BILOQUE  9e-3  1959.xx ..... ISBN -
+o BILOQUE  a9-3  1959.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 9e ann‚e - nø 3 (mai-juin 1959) ş1959
 : .o .     N     _RAY Jean                    Le Beau Dimanche ş1959
-o BILOQUE  9e-4  1959.xx ..... ISBN -
+o BILOQUE  a9-4  1959.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 9e ann‚e - nø 4 (juillet-ao–t 1959) ş1959
-o BILOQUE  9e-5  1959.xx ..... ISBN -
+o BILOQUE  a9-5  1959.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 9e ann‚e - nø 5 (septembre-octobre 1959) ş1959
-o BILOQUE  9e-6  1959.xx ..... ISBN -
+o BILOQUE  a9-6  1959.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 9e ann‚e - nø 6 (novembre-d‚cembre 1959) ş1959
 : .o .     N     _RAY Jean                    Bonjour Mr Jones ! ş1959
-o BILOQUE 10e-1  1960.xx ..... ISBN -
+o BILOQUE a10-1  1960.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 10e ann‚e - nø 1 (janvier-f‚vrier 1960) ş1960
 : .oF.     N     _RAY Jean                    La Chandelle du r‚veillon ş1960
-o BILOQUE 10e-2  1960.xx ..... ISBN -
+o BILOQUE a10-2  1960.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 10e ann‚e - nø 2 (mars-avril 1960) ş1960
 : .o .     N     _RAY Jean                    Le Banc et la porte ş1960
-o BILOQUE 10e-3  1960.xx ..... ISBN -
+o BILOQUE a10-3  1960.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 10e ann‚e - nø 3 (mai-juin 1960) ş1960
 : .oF.     N     _MONOD Jean-Louis M.         Bianca ş1960
 : .o .     N     _RAY Jean                    Funnies ş1960
-o BILOQUE 10e-4  1960.xx ..... ISBN -
+o BILOQUE a10-4  1960.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 10e ann‚e - nø 4 (juillet-ao–t 1960) ş1960
-o BILOQUE 10e-5  1960.xx ..... ISBN -
+o BILOQUE a10-5  1960.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 10e ann‚e - nø 5 (septembre-octobre 1960) ş1960
-o BILOQUE 10e-6  1960.xx ..... ISBN -
+o BILOQUE a10-6  1960.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 10e ann‚e - nø 6 (novembre-d‚cembre 1960) ş1960
-o BILOQUE 11e-1  1961.xx ..... ISBN -
+o BILOQUE a11-1  1961.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 11e ann‚e - nø 1 (janvier-f‚vrier 1961) ş1961
 !--- De Ghelderode Michel, Charles-Quint racont‚ par son peuple
 !--- De Giey Suzane, L'ombre sur la bergerie
 !--- Deauville Max, L'ƒme des choses
 : .o .     N     _RAY Jean                    L'Envoy‚e du retour ş1961
-o BILOQUE 11e-2  1961.xx ..... ISBN -
+o BILOQUE a11-2  1961.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 11e ann‚e - nø 2 (mars-avril 1961) ş1961
 : .oF.     N     _MONOD Jean-Louis M.         Aurore ş1961
 : .o .     N     _RAY Jean                    Tˆte-de-lune ş1961
-o BILOQUE 11e-3  1961.xx ..... ISBN -
+o BILOQUE a11-3  1961.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 11e ann‚e - nø 3 (mai-juin 1961) ş1961
-o BILOQUE 11e-4  1961.xx ..... ISBN -
+o BILOQUE a11-4  1961.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 11e ann‚e - nø 4 (juillet-ao–t 1961) ş1961
-o BILOQUE 11e-5  1961.xx ..... ISBN -
+o BILOQUE a11-5  1961.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 11e ann‚e - nø 5 (septembre-octobre 1961) ş1961
-o BILOQUE 11e-6  1961.xx ..... ISBN -
+o BILOQUE a11-6  1961.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 11e ann‚e - nø 6 (novembre-d‚cembre 1961) ş1961
-o BILOQUE 12e-1  1962.xx ..... ISBN -
+o BILOQUE a12-1  1962.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 12e ann‚e - nø 1 (janvier-f‚vrier 1962) ş1962
-o BILOQUE 12e-2  1962.xx ..... ISBN -
+o BILOQUE a12-2  1962.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 12e ann‚e - nø 2 (mars-avril 1962) ş1962
-o BILOQUE 12e-3  1962.xx ..... ISBN -
+o BILOQUE a12-3  1962.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 12e ann‚e - nø 3 (mai-juin 1962) ş1962
-o BILOQUE 12e-4  1962.xx ..... ISBN -
+o BILOQUE a12-4  1962.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 12e ann‚e - nø 4 (juillet-ao–t 1962) ş1962
-o BILOQUE 12e-5  1962.xx ..... ISBN -
+o BILOQUE a12-5  1962.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 12e ann‚e - nø 5 (septembre-octobre 1962) ş1962
-o BILOQUE 12e-6  1962.xx ..... ISBN -
+o BILOQUE a12-6  1962.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 12e ann‚e - nø 6 (novembre-d‚cembre 1962) ş1962
-o BILOQUE 13e-1  1963.xx ..... ISBN -
+o BILOQUE a13-1  1963.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 13e ann‚e - nø 1 (janvier-f‚vrier 1963) ş1963
 : .oF.     N     _RAY Jean                    Baraterie ş1963
-o BILOQUE 13e-2  1963.xx ..... ISBN -
+o BILOQUE a13-2  1963.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 13e ann‚e - nø 2 (mars-avril 1963) ş1963
-o BILOQUE 13e-3  1963.xx ..... ISBN -
+o BILOQUE a13-3  1963.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 13e ann‚e - nø 3 (mai-juin 1963) ş1963
-o BILOQUE 13e-4  1963.xx ..... ISBN -
+o BILOQUE a13-4  1963.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 13e ann‚e - nø 4 (juillet-ao–t 1963) ş1963
-o BILOQUE 13e-5  1963.xx ..... ISBN -
+o BILOQUE a13-5  1963.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 13e ann‚e - nø 5 (septembre-octobre 1963) ş1963
-o BILOQUE 13e-6  1963.xx ..... ISBN -
+o BILOQUE a13-6  1963.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 13e ann‚e - nø 6 (novembre-d‚cembre 1963) ş1963
-o BILOQUE 14e-1  1964.xx ..... ISBN -
+o BILOQUE a14-1  1964.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 14e ann‚e - nø 1 (janvier-f‚vrier 1964) ş1964
-o BILOQUE 14e-2  1964.xx ..... ISBN -
+o BILOQUE a14-2  1964.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 14e ann‚e - nø 2 (mars-avril 1964) ş1964
-o BILOQUE 14e-3  1964.xx ..... ISBN -
+o BILOQUE a14-3  1964.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 14e ann‚e - nø 3 (mai-juin 1964) ş1964
-o BILOQUE 14e-4  1964.xx ..... ISBN -
+o BILOQUE a14-4  1964.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 14e ann‚e - nø 4 (juillet-ao–t 1964) ş1964
-o BILOQUE 14e-5  1964.xx ..... ISBN -
+o BILOQUE a14-5  1964.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 14e ann‚e - nø 5 (septembre-octobre 1964) ş1964
-o BILOQUE 14e-6  1964.xx ..... ISBN -
+o BILOQUE a14-6  1964.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Cahiers de la Biloque 14e ann‚e - nø 6 (novembre-d‚cembre 1964) ş1964
 : .o .     N     _RAY Jean                    L'Ogre de pierre ş1964
 
 !-----------------------------------------------------------------------------
-_ AUDACRP Ed. Le Rond-Point (belgique), Audace
+_ AUDACRP Le Rond-Point (Belgique) - Audace
 !-----------------------------------------------------------------------------
 !--- Audace - Recueil litt‚raire trimestriel
 !--- Les ‚ditions Le Rond-Point (Bruxelles)
@@ -3102,7 +2818,7 @@ o AUDACRP    11  1956.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Audace nø 11 (avril 1956) ş1956
 : .o .     N     _RAY Jean                    Dents d'or ş1956
-?: .? .     N     _ADERCA Juliette             Le Fou des chutes ş?
+: .? .     N     _ADERCA Juliette             Le Fou des chutes ş1956
 o AUDACRP    14  1957.xx ..... ISBN -
 !--- Collab. avec Edition La Nef de Paris (Paris)
 } noimg          _?                           ?
@@ -3122,13 +2838,13 @@ o AUDACRP    16  1957.xx ..... ISBN -
 o AUDACRP    23  1958.xx ..... ISBN -
 !--- Collab. avec Edition La Nef de Paris (Paris)
 } noimg          _?                           ?
-- .o .     Mx    ****                         Audace nø 23 (? 1958) ş1958
+- .o .     Mx    ****                         Audace nø 23 (1958) ş1958
 : .o .     N     _OWEN Thomas                 Le Petit Fant“me ş1958
 o AUDACRP    24  1959.xx ..... ISBN -
 !--- Collab. avec Edition La Nef de Paris (Paris)
 !--- 1958 ou 1959 ?
 } noimg          _?                           ?
-- .o .     Mx    ****                         Audace nø 24 (? 1959) ş1959
+- .o .     Mx    ****                         Audace nø 24 (1959) ş1959
 !--- Regroup‚s (au moins dans le sommaire) sous "Deux r‚cits fantastiques" :
 : .o .     N     _VILLERS Andr‚               La Cr‚ature de la mer ş1959
 : .o .     N     _VILLERS Andr‚               Imagination ş1959
@@ -3142,83 +2858,83 @@ o AUDACRP    35  1962.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Audace nø 29 (avril 1962) ş1962
 : .o .     N     _RAY Jean                    Tˆte-de-lune ş1961
-?: .? .     N     _CORAN Pierre                La Sacoche ş?
+: .? .     N     _CORAN Pierre                La Sacoche ş1961
 
 !-----------------------------------------------------------------------------
-_ AUDACE  Audace (belgique)
+_ AUDACE  Audace (Belgique)
 !-----------------------------------------------------------------------------
 !--- Les ‚ditions Le Rond-Point : en 1960
 !--- Editions du Large (encore en 64),
 !--- puis Editions Audace (d‚j… en 70)
 !-----------------------------------------------------------------------------
-o AUDACE   9e-2  1963.xx ..... ISBN -
+o AUDACE   a9-2  1963.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Audace nø 2 (juillet 1963) ş1963
 : .o .     N     _OWEN Thomas                 Etranger … Tabiano ş1963
 : .o .     N     _THIRY Marcel                Mort dans son lit ş1963
 : .o .     N     _RAY Jean                    La Maison des cigognes ş1960
-o AUDACE   9e-4  1963.xx ..... ISBN -
+o AUDACE   a9-4  1963.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Audace nø 4 (d‚cembre 1963) ş1963
 : .o .     N     _OWEN Thomas                 Les Moments difficiles ş1963
-o AUDACE  10e-1  1964.xx ..... ISBN -
+o AUDACE  a10-1  1964.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Audace nø 2 (? 1964) ş1964
 : .o .     N     _ADERCA Juliette             Un jeu nomm‚ regard ş1964
-o AUDACE  10e-2  1964.xx ..... ISBN -
+o AUDACE  a10-2  1964.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Audace nø 2 (juillet 1964) ş1964
 : .oF.     N     _MONOD Jean-Louis M.         D‚mence ş1964
-o AUDACE  10e-4  1964.xx ..... ISBN -
+o AUDACE  a10-4  1964.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Audace nø 2 (d‚cembre 1964) ş1964
 : .oK.     N     _MONOD Jean-Louis M.         L'Appel ş1964
-o AUDACE  12e-3  1966.xx ..... ISBN -
+o AUDACE  a12-3  1966.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Audace, 12iŠme ann‚e, nø 3 ş1966
 : .oF.     N     _MONOD Jean-Louis M.         Les jeux sont faits ş1966
-o AUDACE  13e-2  1967.xx ..... ISBN -
+o AUDACE  a13-2  1967.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Audace, 13iŠme ann‚e, nø 2 ş1967
 : .oF.     N     _MONOD Jean-Louis M.         L'Ombre ş1959
-o AUDACE  13e-3  1967.xx ..... ISBN -
+o AUDACE  a13-3  1967.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Audace, 13iŠme ann‚e, nø 3 ş1967
 : .oF.     N     _MONOD Jean-Louis M.         Le Revoir ş1961
-o AUDACE  15e-1  1969.xx ..... ISBN -
+o AUDACE  a15-1  1969.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Audace, 15iŠme ann‚e, nø 1 ş1969
-?: .? .     N     _STEEMAN Stanislas-Andr‚     LumiŠre cendr‚e ş?
-?: .? .     N     _HELLENS Franz               Le Miracle des yeux ş?
-?: .? .     N     _CATHALA Sophie              Nos enfants ş?
-?: .? .     N     _DORSEY Frank                Un chat ş?
+: .? .     N     _STEEMAN Stanislas-Andr‚     LumiŠre cendr‚e ş?
+: .? .     N     _HELLENS Franz               Le Miracle des yeux ş?
+: .o .     N     _CATHALA Sophie              Nos enfants ş1964
+: .? .     N     _DORSEY Frank                Un chat ş?
 : .oF.     N     _MONOD Jean-Louis M.         L'Accident ş1962
-?: .? .     N     _LAMBERT Alain               Yannick au foulard rouge ş?
-?: .? .     N     _JUIN Hubert                 La Dame d'autre monde ş?
+: .? .     N     _LAMBERT Alain               Yannick au foulard rouge ş?
+: .? .     N     _JUIN Hubert                 La Dame d'autre monde ş?
 : .o .     N     _OSTERRATH Jacqueline        Coeur de pierre ş1965
 : .o .     N     _JANSEN Michel               La Fin du UB-65 ş?
-?: .? .     N     _GRAY Micha‰l                De la coupe aux lŠvres ş?
-?: .? .     N     _FLORKIN D‚sir‚              Il faut qu'une grille... ş?
-?: .? .     N     _WARREN Raoul de             On n'enterre pas le jour des morts ş?
-?: .? .     N     _SOL Tina                    Les Furies ş?
-?: .? .     N     _MALAVAL Suzanne             Les Chevaux ş?
+: .? .     N     _GRAY Micha‰l                De la coupe aux lŠvres ş?
+: .? .     N     _FLORKIN D‚sir‚              Il faut qu'une grille... ş?
+: .? .     N     _WARREN Raoul de             On n'enterre pas le jour des morts ş?
+: .? .     N     _SOL Tina                    Les Furies ş?
+: .? .     N     _MALAVAL Suzanne             Les Chevaux ş?
 : .oF.     N     _HENNEBERG Nathalie          Louve d'argent, en abŒme, passant ş1969
 : .o .     N     _OWEN Thomas                 La Boule noire ş1969
-?: .? .     N     _BROSSES Marie-Th‚rŠse       Les Sarcophages ş?
+: .? .     N     _BROSSES Marie-Th‚rŠse       Les Sarcophages ş?
 : .o .     N     _DEBLANDER Gabriel           Les Ramoneurs ş1969
 : .o .     N     _MUNO Jean                   La Chambre ş1969
-?: .? .     N     _BELMANS Jacques             GenŠse ş?
-o AUDACE  16e-2  1970.xx ..... ISBN -
+: .? .     N     _BELMANS Jacques             GenŠse ş?
+o AUDACE  a16-2  1970.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Audace, 16iŠme ann‚e, nø 2 ş1970
 : .o .     N     _ABDELAZIZ Th‚rŠse           Les Ombres autour de Pauline ş1970
-o AUDACE  16e-4  1970.xx ..... ISBN -
+o AUDACE  a16-4  1970.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Audace, 16iŠme ann‚e, nø 4 ş1970
 : .o .     N     _AUDEL St‚phane              La Bague ş1970
 
 !-----------------------------------------------------------------------------
-_ CHAISEL La Chaise Electrique
+_ CHAISEL La Chaise Electrique (Belgique)
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -3246,7 +2962,7 @@ o CHAISEL     9  1967.xx ..... ISBN -
 : .o .     N     _DORFNER Alain               Mais ou est donc pass‚ Rufus ? ş1967
 
 !-----------------------------------------------------------------------------
-_ POELAFR La po‰le … frire (belgique)
+_ POELAFR La po‰le … frire (Belgique)
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -3257,21 +2973,22 @@ o POELAFR    16/ 1963.xx ..... ISBN -
 : .oK.     N     _MONOD Jean-Louis M.         Le Reflet ş1963
 
 !-----------------------------------------------------------------------------
-_ REVBELG <b>in</b> Revue de Belgique
+_ REVBELG Revue de Belgique (Belgique)
 !-----------------------------------------------------------------------------
 o REVBELG     ?  1912.xx ..... ISBN -
 } noimg          _?                           ?
-- .oS.     R     _LEONARD Fran‡ois            Le Triomphe de l'homme ş1912
+- .p .     Mx    ****                         Revue de Belgique ş1912
+: .oS.     R     _LEONARD Fran‡ois            Le Triomphe de l'homme ş1911
 
 !-----------------------------------------------------------------------------
-_ BECKERS Ed. Beckers (Belgique)
-_ BECK_ML Ed. Walter Beckers (Belgique), Coll. Les maudits de la litt‚rature mondiale
-_ BECK_XX Ed. Walter Beckers (Belgique), Coll. Du XXeme siŠcle
-_ BECK_JV Ed. Walter Beckers (Belgique), Oeuvres c‚lŠbres de Jules Verne
-_ BECK_DO Ed. Walter Beckers (Belgique), Oeuvres complŠtes de Sir Arthur Conan Doyle
-_ BECK_CC Ed. Walter Beckers (Belgique), Coll. Cin‚ Club
-_ BECK_IL Ed. Walter Beckers (Belgique), Coll. Les Immortels de la litt‚rature
-_ BECK_RV Ed. Walter Beckers (Belgique), Coll. Le livre rendez-vous
+_ BECKERS Beckers (Belgique)
+_ BECK_ML Walter Beckers (Belgique) - Les maudits de la litt‚rature mondiale
+_ BECK_XX Walter Beckers (Belgique) - Collection du XXeme siŠcle
+_ BECK_JV Walter Beckers (Belgique) - Oeuvres c‚lŠbres de Jules Verne
+_ BECK_DO Walter Beckers (Belgique) - Oeuvres complŠtes de Sir Arthur Conan Doyle
+_ BECK_CC Walter Beckers (Belgique) - Cin‚ Club
+_ BECK_IL Walter Beckers (Belgique) - Les Immortels de la litt‚rature
+_ BECK_RV Walter Beckers (Belgique) - Le livre rendez-vous
 !-----------------------------------------------------------------------------
 !--- Anvers
 !-----------------------------------------------------------------------------
@@ -3285,14 +3002,15 @@ o BECKERS     ?  1966.xx ..... ISBN -
 : .o .     N     _DICKENS Charles             Mr Minns et son cousin ş1833 A Dinner at Poplar Walk / Mr. Minns and His Cousin şTrad. GRAIN Michael
 : .o .     N     _DICKENS Charles             Le Voile noir ş1836 The Black Veil şTrad. GRAIN Michael
 : .o .     N     _DICKENS Charles             La Mort de l'ivrogne ş1836 The Drunkard's Death şTrad. GRAIN Michael
-
 o BECKERS     ?  1968.xx ..... ISBN -
-} noimg          _?                           ?
+} beckers_annoatlantae _?                           ?
+!--- 306 pages - 21 x 24 cm
+!--- Ouvrage illustr‚ de 16 planches hors textes (collages de l'auteur)
 - .oF.    _N15   _BECKERS Walter              Anno Atlantae ş1968
 : .oF.     p     _OWEN Thomas                 Introduction ş1968
 : .oF.     p     _FINNE Jacques               L'Oeuvre et son auteur ş1968
 : .oF.     N     _BECKERS Walter              Blanche pyramide ş1967 Witte piramide
-: .oF.     N     _BECKERS Walter              Hello my Dear ş1967 Hello my Dear
+: .oF.     N     _BECKERS Walter              Hello my Dear ş1967 Hello My Dear
 : .oF.     N     _BECKERS Walter              Une femme, un ange ş1967 Het engelmeisje
 : .oF.     N     _BECKERS Walter              L'Id‚e fixe de Zicherman ş1967 Zichermans dwanggedachte
 : .oF.     N     _BECKERS Walter              L'lixir d'amour ş1967 Het levenselixir
@@ -3343,34 +3061,60 @@ o BECKERS     ?  1968.xx ..... ISBN -
 : .o .     N     _RAY Jean                    Reid Unthank ş1944
 : .o .     N     _RAY Jean                    Au profit des conjectures ş1944
 o BECK_XX     ?  1965.xx ..... ISBN -
+} beckers_neuvaine _?                           ?
 !--- sans date 
 !--- Walter Beckers Editeur, Kalmthout, Anvers. Sans date (1964/1965). Collection " Du Xxeme  SiŠcle ".
 !--- Reliure Editeur simili rouge 14,5 x 22 d‚cor or;
 !--- pr‚c‚d‚e d'une introduction et de pr‚faces de Walter Beckers, Le Dr Thiry, Jacques Van Herp et A. Van Hageland, 269 pages
-} noimg          _?                           ?
-- .oF.    iN6    _FLANDERS John               La Neuvaine d'‚pouvante ş1970
-?: .oF.     N     _FLANDERS John               La Neuvaine d'‚pouvante ş1946
-?: .oF.     N     _FLANDERS John               La Statue assassin‚e ş1937
-?: .oF.     N     _FLANDERS John               Le Carrefour de la lune rousse ş1946
-?: .oF.     N     _FLANDERS John               La Jonque noire ş1946
-?: .oF.     N     _FLANDERS John               Le N‚gre de l'ascenseur ş1946
-?: .oF.     N     _FLANDERS John               L'Aventure espagnole ş1946
+!--- "John Flanders, l'insaisissable", "T‚moignages de Jacques Van Herp"
+- .oF.     N6    _FLANDERS John               La Neuvaine d'‚pouvante et autres nouvelles ş1946
+: .oF.     N     _FLANDERS John               La Neuvaine d'‚pouvante ş1946
+: .oF.     N     _FLANDERS John               La Statue assassin‚e ş1937
+: .oF.     N     _FLANDERS John               Le Carrefour de la lune rousse ş1946
+: .oF.     N     _FLANDERS John               La Jonque noire ş1946
+: .oF.     N     _FLANDERS John               Le N‚gre de l'ascenseur ş1946
+: .oF.     N     _FLANDERS John               L'Aventure espagnole ş1946
 o BECK_XX     ?  1967.xx ..... ISBN -
 } noimg          _?                           ?
 !--- TBC : ... suivi de "L'ange et la bˆte"
 - .o .     r     _STEVENSON Robert Louis      Dr. Jekyll et Mr. Hyde ş1885 The Strange Case of Dr Jekyll and Mr Hyde şTrad. VARLET Th‚o
 o BECK_XX     ?  1970.xx ..... ISBN -
 } noimg          _?                           ?
-- .pF.    iN30   _FLANDERS John               Le Carrousel du suspense ş1970
 !--- Reliure Editeur simili cuir rouge 14,5 x 22 d‚cor or. Introduction et pr‚face de Walter Beckers. 291p+1f
-!--- Avec : Le secret d'Allan Harbury - Le minotaure de m‚tal - L'horreur de Shoreham - Le tr‚sor des ÎáÎíÎİles Far-Oers -
-!--- Le mystŠre des collines rouges - The crusader - Le haveneau de triple J - Charley et le tigre - La cage dans la jungle -
-!--- Feu aux chandelles ! - Le banquet de Pillermaran - Par les moyens du bord - Sue Banks - Le cambrioleur timide - Une moitie de botte -
-!--- La chance d'Hiram bosses - Le charmeur de requins - Le jongleur siamois - Le chapeau de Neptune - La morale de l'histoire -
-!--- La mortadelle royale - L'estomac vole - Papillon noir - La croix - Le crabe dore - La rousserole - La perce-neige -
-!--- Les superstitions de l'or - Le manteau bleu - Drummer-Hin //
 !--- Les cinq premiers contes ainsi que le dernier, ont ‚t‚ traduit du n‚erlandais par Jacques Finne -
 !--- Les autres contes ont ‚t‚ ‚crit en fran‡ais directement par John Flanders lui-mˆme.
+!--- TBC "les collines rouges" ou "le mystŠre des collines rouges"
+- .pF.     N30   _FLANDERS John               Le Carrousel du suspense ş1970
+: .o .     N     _FLANDERS John               Le Secret d'Allan Harbury ş? ? şTrad. FINNE Jacques
+: .o .     N     _FLANDERS John               Le Minotaure de m‚tal ş? ? şTrad. FINNE Jacques
+: .o .     N     _FLANDERS John               L'Horreur de Shoreham ş1946 De verschrikking van Shoreham şTrad. FINNE Jacques
+: .o .     N     _FLANDERS John               Le Tr‚sor des Œles Far-Oers ş? ? şTrad. FINNE Jacques
+: .o .     N     _FLANDERS John               Les Collines rouges ş? De Rode Heuvels şTrad. FINNE Jacques
+: .o .     N     _FLANDERS John               The Crusader ş?
+: .o .     N     _FLANDERS John               Le Haveneau de triple J. ş?
+: .o .     N     _FLANDERS John               Charley et le tigre ş?
+: .o .     N     _FLANDERS John               La Cage dans la jungle ş?
+: .o .     N     _FLANDERS John               Feu aux chandelles ş?
+: .o .     N     _FLANDERS John               Le Banquet de Pillemaran ş?
+: .o .     N     _FLANDERS John               Par les moyens du bord ş?
+: .o .     N     _FLANDERS John               Sur Banks ş?
+: .o .     N     _FLANDERS John               Le Cambrioleur timide ş?
+: .o .     N     _FLANDERS John               Une moiti‚ de botte ş?
+: .o .     N     _FLANDERS John               La chance d'Hiram Bones ş?
+: .o .     N     _FLANDERS John               Le Charmeur de requins ş?
+: .o .     N     _FLANDERS John               Le Jongleur siamois ş?
+: .o .     N     _FLANDERS John               Le Chapeau de Neptune ş?
+: .o .     N     _FLANDERS John               La Morale de l'histoire ş?
+: .o .     N     _FLANDERS John               La Mortadelle royale ş?
+: .o .     N     _FLANDERS John               L'Estomac vol‚ ş?
+: .o .     N     _FLANDERS John               Papillon noir ş?
+: .o .     N     _FLANDERS John               La Croix ş?
+: .o .     N     _FLANDERS John               Le Carabe dor‚ ş?
+: .o .     N     _FLANDERS John               La Rousserole ş?
+: .o .     N     _FLANDERS John               La Perce-Neige ş?
+: .o .     N     _FLANDERS John               Les Superstitions de l'or ş?
+: .o .     N     _FLANDERS John               Le Manteau bleu ş?
+: .o .     N     _FLANDERS John               Drummer-Hinger ş? Drummer-Hinger şTrad. ? şTrad. FINNE Jacques
 o BECK_XX     ?  1971.xx ..... ISBN -
 } noimg          _?                           ?
 - .xP.     R     _VAN VOGT Alfred E.          Une belle brute ş1962 The Violent Man
@@ -3380,22 +3124,13 @@ o BECK_XX     ?     ?.xx ..... ISBN -
 o BECK_XX     ?  1966.xx ..... ISBN -
 } noimg          _?                           ?
 !--- 242 pages
-- .oF.    iNx    _SEIGNOLLE Claude            La Nuit des halles ş1965
+!--- "Th‚rŠse" pourrait ˆtre "La brume ne se l‚vera plus"
+!--- "Val‚rie" pourrait ˆtre "Le MilliŠre Cierge"
+- .oF.    iNx    _SEIGNOLLE Claude            La Nuit des halles - Th‚rŠse - Val‚rie - Sonia ş1965
 o BECK_XX     ?     ?.xx ..... ISBN -
-} noimg          _?                           ?
+} beckers_maledictions _?                           ?
+!--- 284 pages - 145 x 220 mm - couverture cartonn‚e cuir rouge vif, titres en dor‚
 - .oF.    iNx    _SEIGNOLLE Claude            Les Mal‚dictions ş1970
-?: .o .     R     _SEIGNOLLE Claude            La Malvenue ş1952
-?: .o .     r     _SEIGNOLLE Claude            Le Diable en sabots ş1959
-?: .o .     r     _SEIGNOLLE Claude            Le Gƒloup ş1960
-?: .o .     N     _SEIGNOLLE Claude            La Huche ş1965
-?: .o .     R     _SEIGNOLLE Claude            Marie la louve ş1949
-?: .o .     N     _SEIGNOLLE Claude            D‚sir‚e la sangsue ş1962
-?: .o .     N     _SEIGNOLLE Claude            Le Rond des sorciers ş1963
-?: .o .     N     _SEIGNOLLE Claude            Le Hupeur ş1967
-?: .o .     N     _SEIGNOLLE Claude            Le Matagot ş1966
-?: .o .     N     _SEIGNOLLE Claude            Pauvre Sonia ! ş1965
-?: .o .     N     _SEIGNOLLE Claude            Le Faucheur ş1964
-?: .o .     N     _SEIGNOLLE Claude            Le Chupador ş1960
 
 !--- Le tout entre 1972 et 1975...
 o BECK_JV     1  1975.xx ..... ISBN -
@@ -3406,7 +3141,7 @@ o BECK_JV     2  1975.xx ..... ISBN -
 - .o .     R     _VERNE Jules                 De la Terre … la Lune ş1865
 o BECK_JV     3  1975.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _VERNE Jules                 Voyage au centre de la Terre ş1864-1967
+- .o .     R     _VERNE Jules                 Voyage au centre de la Terre ş1864-1867
 o BECK_JV     4  1975.xx ..... ISBN -
 } noimg          _?                           ?
 - .xA.     R     _VERNE Jules                 Cinq semaines en ballon ş1863
@@ -3537,7 +3272,6 @@ o BECK_ML    12  1970.xx ..... ISBN -
 : .o .     N     _BIERCE Ambrose              Le Disparu ş1888 One of the Missing
 : .o .     N     _BIERCE Ambrose              Il trouva la mort … Resaca ş1887 Killed at Resaca
 : .o .     N     _BIERCE Ambrose              L'Affaire de Coulter's Notch ş1889 The Affair at Coulter's Notch
-?: .? .     N     _BIERCE Ambrose              Un duel … mort ş1888 A Tough Tussle
 : .o .     N     _BIERCE Ambrose              Le Coup de grƒce ş1899 The Coup De Grƒce
 : .o .     N     _BIERCE Ambrose              Parker Adderson, philosophe ş1891 Parker Adderson, Philosopher
 !--- Civils
@@ -3563,7 +3297,7 @@ o BECK_RV     ?  1975.xx ..... ISBN -
 - .oF.     R     _STOKER Bram                 Dracula ş1897 Dracula şTrad. ?
 
 !-----------------------------------------------------------------------------
-_ CHARLOT Ed. Charlot
+_ CHARLOT Charlot (Belgique)
 !-----------------------------------------------------------------------------
 o CHARLOT     ?  1947.xx ..... ISBN -
 } noimg          _?                           ?
@@ -3574,62 +3308,64 @@ o CHARLOT     ?  1949.xx ..... ISBN -
 
 
 !-----------------------------------------------------------------------------
-_ ECRITS  Ed. Les Ecrits (Bruxelles)
+_ ECRITS  Les Ecrits (Bruxelles)
 !-----------------------------------------------------------------------------
 o ECRITS      ?  1941.xx ..... ISBN -
 }ecritshellens   _?                           ?
+!--- 270 pages - in-12
 + ECRITS      ?  1946.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.    iNx    _HELLENS Franz               Nouvelles r‚alit‚s fantastiques ş1941
-?: .oF.     N     _HELLENS Franz               Tempˆte au Colis‚e ş1941
+- .oF.     N11   _HELLENS Franz               Nouvelles r‚alit‚s fantastiques ş1941
+: .oF.     N     _HELLENS Franz               Tempˆte au Colis‚e ş1941
 : .oF.     N     _HELLENS Franz               Un voyant ş1941
-?: .oF.     N     _HELLENS Franz               L'amour fait des miracles ş?
+: .oF.     N     _HELLENS Franz               L'amour fait des miracles ş1929
 : .oF.     N     _HELLENS Franz               Au repos de la sant‚ ş1941
-?: .oF.     N     _HELLENS Franz               La Chauve-Souris ş?
+: .oF.     N     _HELLENS Franz               La Chauve-Souris ş?
 : .oF.     N     _HELLENS Franz               Une restitution ş1938
 : .oF.     N     _HELLENS Franz               La mort est une r‚compense ş1941
 : .oF.     N     _HELLENS Franz               Le Brouillard ş1941
-?: .oF.     N     _HELLENS Franz               Le Double ş1919
-?: .oF.     N     _HELLENS Franz               Carlo Salvani ş?
+: .oF.     N     _HELLENS Franz               Le Double ş1919
+: .oF.     N     _HELLENS Franz               Carlo Salvani ş?
 : .oF.     N     _HELLENS Franz               Ce lourd silence de pierre ş1941
 o ECRITS      ?    sd.xx ..... ISBN -
-}ecritspoeatroce _?                           ?
+} ecritspoeatroce _?                           ?
 - .pF.    kN8    _POE Edgar Allan             Une situation atroce ş?
 !--- pr‚face d'Emile LauvriŠre
 : .o .     N     _POE Edgar Allan             Une situation atroce ş? ?
 : .o .     N     _POE Edgar Allan             Ne pariez jamais votre tˆte au diable ş1841 Never Bet the Devil Your Head
 : .o .     a     _POE Edgar Allan             L'Escroquerie ş1843 Diddling Considered as One of the Exact Sciences
 : .o .     N     _POE Edgar Allan             L'Homme d'affaires ş1840 The Business Man
-: .o .     a     _POE Edgar Allan             Cryptographie ş? ?
+: .x .     a     _POE Edgar Allan             Cryptographie ş1841 Secret Writing / Cryptography şTrad. RABBE F‚lix
 : .x .     a     _POE Edgar Allan             Philosophie de l'ameublement ş1840 The Philosophy of Furniture
 : .o .     N     _POE Edgar Allan             Bon-bon ş1832-1850 The Bargain Lost / Bon-Bon
 : .o .     N     _POE Edgar Allan             Le 1002iŠme R‚cit de Scheherazade ş1845 The Thousand-and-second Tale of Scheherazade şTrad. MERAL Paul
 
 !-----------------------------------------------------------------------------
-_ CAH_IND Ed. Les Cahiers Ind‚pendants
+_ CAH_IND Les Cahiers Ind‚pendants (Belgique)
 !-----------------------------------------------------------------------------
 o CAH_IND     ?  1919.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.    iN16   _HELLENS Franz               Nocturnal pr‚c‚d‚ de quinze histoires ş1919
-?: .oF.     N     _HELLENS Franz               Histoire d'une c‚l‚brit‚ ş?
-?: .oF.     N     _HELLENS Franz               Les Plaisanteries de Batman-TchaŒ ş?
-: .oF.     N     _HELLENS Franz               La Courge ş1919
-?: .oF.     N     _HELLENS Franz               Le Dompteur de voix sauvages ş?
-?: .oF.     N     _HELLENS Franz               L'Homme gant‚ ş?
-?: .oF.     N     _HELLENS Franz               R‚cit de Joseph-Arthur Ardisson-Jude ş?
-: .oF.     N     _HELLENS Franz               La Dame en noir ş1919
-: .oF.     N     _HELLENS Franz               Le Conteur ş1919
-?: .oF.     N     _HELLENS Franz               Le Porteur d'eau ş?
-?: .oF.     N     _HELLENS Franz               La Robe de la princesse ş?
-: .oF.     N     _HELLENS Franz               Un crime incodifi‚ ş1919
-: .oF.     N     _HELLENS Franz               Le Squelette d'or ş1919
-?: .oF.     N     _HELLENS Franz               La Divinit‚ indoue ş1919
-?: .oF.     N     _HELLENS Franz               Une histoire vieille comme le monde ş?
-: .oF.     N     _HELLENS Franz               Le Double ş1919
-: .oF.     N     _HELLENS Franz               Nocturnal ş1919
+!--- 135 x 185 mm - 235 pages
+- .oF.    kN16   _HELLENS Franz               Nocturnal pr‚c‚d‚ de quinze histoires ((Nocturnal)) ş1919
+: .? .  11 N     _HELLENS Franz               Histoire d'une c‚l‚brit‚ ş?
+: .? .  23 N     _HELLENS Franz               Les Plaisanteries de Batman-TchaŒ ş?
+: .oF.  33 N     _HELLENS Franz               La Courge ş1919
+: .o .  47 N     _HELLENS Franz               Le Dompteur de voix sauvages ş1919
+: .? .  67 N     _HELLENS Franz               L'Homme gant‚ ş?
+: .o .  75 N     _HELLENS Franz               R‚cit de Joseph-Arthur Ardisson-Jude ş1919
+: .oF.  95 N     _HELLENS Franz               La Dame en noir ş1919
+: .oF. 103 N     _HELLENS Franz               Le Conteur ş1919
+: .? . 113 N     _HELLENS Franz               Le Porteur d'eau ş?
+: .? . 129 N     _HELLENS Franz               La Robe de la princesse ş?
+: .oF. 137 N     _HELLENS Franz               Un crime incodifi‚ ş1919
+: .oF. 151 N     _HELLENS Franz               Le Squelette d'or ş1919
+: .o . 165 N     _HELLENS Franz               La Divinit‚ indoue ş1919
+: .? . 179 N     _HELLENS Franz               Histoire vieille comme le monde ş?
+: .oF. 185 N     _HELLENS Franz               Le Double ş1919
+: .oF. 195 N     _HELLENS Franz               Nocturnal ş1919
 
 !-----------------------------------------------------------------------------
-_ NOYE    Ed. du Noy‚ (Namur)
+_ NOYE    Editions du Noy‚ (Namur, Belgique)
 !-----------------------------------------------------------------------------
 o NOYE        ?  1990.xx ..... ISBN ?
 } noimg          _?                           ?
@@ -3637,7 +3373,7 @@ o NOYE        ?  1990.xx ..... ISBN ?
 
 !-----------------------------------------------------------------------------
 _ CRI     Le Cri (Bruxelles)
-_ CRI_HD  Le Cri (Bruxelles), Harry Dickson
+_ CRI_HD  Le Cri (Bruxelles) - Harry Dickson
 !-----------------------------------------------------------------------------
 !--- Le Cri, Bruxelles
 !-----------------------------------------------------------------------------
@@ -3713,8 +3449,8 @@ o CRI_HD     20  2007.12 ..... ISBN 978-2-8710-6444-2
 - .oF.     r     _RAY Jean                    Le Vampire aux yeux rouges [Harry Dickson] ş1933
 
 !-----------------------------------------------------------------------------
-_ ALICEJ  Alice Editions (Belgique)
-_ ALICELP Alice Editions, Coll. Les Poches (Belgique)
+_ ALICEJ  Alice (Belgique)
+_ ALICELP Alice (Belgique) - Les Poches
 !-----------------------------------------------------------------------------
 !--- Editions Jeunesse
 !-----------------------------------------------------------------------------
@@ -3768,7 +3504,10 @@ o ALICEJ      ?  2013.11 ..... ISBN 978-2-87426-210-4
 - .oF.     R     _TASSET Eric                 Dilmun [Thomas Passe-Mondes - 7] ş2013
 o ALICEJ      ?  2013.10 ..... ISBN 978-2-87426-209-8
 } noimg          _?                           ?
-- .oY.     R     _UKKO                        Bƒtard [Histoires d'orcs - 1] ş2013
+- .oY.     R     _UKKO                        Bƒtard [Bƒtard - 1] ş2013
+o ALICEJ      ?  2016.03 ..... ISBN 978-2-87426-244-9
+} noimg          _?                           ?
+- .oY.     R     _UKKO                        Un orc nomm‚ Bƒtard [Bƒtard - 1] ş2013
 o ALICELP     ?  2014.05 ..... ISBN 978-2-87426-225-8
 } noimg          _?                           ?
 - .oF.     R     _TASSET Eric                 Dilmun [Thomas Passe-Mondes - 7] ş2013
@@ -3777,10 +3516,7 @@ o ALICEJ      ?  2015.04 ..... ISBN 978-2-87426-232-6
 - .oF.     R     _TASSET Eric                 Ancyre [Thomas Passe-Mondes - 8] ş2015
 o ALICEJ      ?  2014.10 ..... ISBN 978-2-87426-237-1
 } noimg          _?                           ?
-- .oY.     R     _UKKO                        Bƒtard sous le joug [Histoires d'orcs - 2] ş2014
-o ALICEJ      ?  2016.03 ..... ISBN 978-2-87426-244-9
-} noimg          _?                           ?
-- .oY.     R     _UKKO                        Un orc nomm‚ Bƒtard [Histoires d'orcs - 1] ş2013
+- .oY.     R     _UKKO                        Bƒtard sous le joug [Bƒtard - 2] ş2014
 o ALICEJ      ?  2016.03 ..... ISBN 978-2-87426-278-4
 } noimg          _?                           ?
 - .oY.     R     _CHRISTOS                    Le Grand Secret [Les Gardiens - 1] ş2016
@@ -3790,11 +3526,25 @@ o ALICELP     ?  2016.03 ..... ISBN 978-2-87426-285-2
 o ALICEJ      ?  2016.06 ..... ISBN 978-2-87426-286-9
 } noimg          _?                           ?
 - .oS.     R     _DUMONT Philippe (Fr)        Chami code R.A.Z. [La Loi des pyramides - 3] ş2016
-
-
+o ALICEJ      ?  2019.xx ..... ISBN 978-2-87426-308-8
+} noimg          _?                           ?
+!--- ? pages - 14 x 21 cm - 11,00 euros
+- .oY.     R     _CHRISTOS                    La Prison du minotaure [Les Gardiens - 2] ş2019
+o ALICEJ      ?  2020.01 ..... ISBN 978-2-87426-354-1
+} noimg          _?                           ?
+!--- 128 pages - 14 x 21 cm - 11,00 euros
+- .oY.     R     _CHRISTOS                    Les Livres fant“mes [Les Gardiens - 3] ş2020
+o ALICEJ      ?  2021.10 ..... ISBN 978-2-87426-470-2
+} noimg          _Julie Staboszevski          ?
+!--- Jeunesse - GF - 141x211 - 262 pages
+- .oS.     R     _GOSSET Delphine             Robules ş2021
+o ALICEJ      ?  2022.01 ..... ISBN 978-2-87426-473-3
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x210 - 408 pages - 15,00 euros
+- .oY.     R     _UKKO                        Bƒtard contre la racaille [Bƒtard - 3] ş2022
 
 !-----------------------------------------------------------------------------
-_ DIAMMYS Ed. Diamond Press (Bruxelles), Coll. Mystery Club Illustr‚
+_ DIAMMYS Diamond Press (Bruxelles) - Mystery Club Illustr‚
 !-----------------------------------------------------------------------------
 !--- 10 num‚ros, s‚rie policiŠre, 1949
 !-----------------------------------------------------------------------------
@@ -3803,31 +3553,31 @@ o DIAMMYS     2  1949.01 ..... ISBN -
 - .o .     r     _LE FANU J. Sheridan         La Myst‚rieuse Carmilla [Le Dr. Hesselius] ş1871 Carmilla şTrad. MONTJOIE Julien
 
 !-----------------------------------------------------------------------------
-_ ARTISTE Ed. des Artistes
+_ ARTISTE Editions des Artistes (Belgique)
 !-----------------------------------------------------------------------------
 o ARTISTE     ?  1961.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.    iNx    _MANIER Bernard              Histoires d'ailleurs et de nulle part ş1961
-?: .o .     p     _RAY Jean                    Pr‚face ş1961
-?: .o .     N     _MANIER Bernard              Le Philodendron ş1961
-: .o .     N     _MANIER Bernard              La Carte ş1961
+: .o .     p     _RAY Jean                    Pr‚face ş1961
+: .? .     N     _MANIER Bernard              Le Philodendron ş1961
+: .o .     N     _MANIER Bernard              La Carte ş1958
 
 !-----------------------------------------------------------------------------
-_ TEMPNOU BibliothŠque des Temps Nouveaux
+_ TEMPNOU BibliothŠque des Temps Nouveaux (Belgique)
 !-----------------------------------------------------------------------------
 o TEMPNOU     ?  1899.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     R     _DEJACQUE Joseph             L'HumanisphŠre ş1859
 
 !-----------------------------------------------------------------------------
-_ LIBBELG Librairie de Belgique
+_ LIBBELG Librairie de Belgique (Belgique)
 !-----------------------------------------------------------------------------
 o LIBBELG     ?  1946.11 ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _GROC L‚on                   Le MaŒtre du Soleil ş1946
 
 !-----------------------------------------------------------------------------
-_ HEMMA_P Ed. Hemma, Coll. Hemma Poche
+_ HEMMA_P Hemma (Belgique) - Hemma Poche
 !-----------------------------------------------------------------------------
 o HEMMA_P     1  1994.01 ..... ISBN 2-8006-....-.
 } noimg          _LAVERDET Marcel             LAVERDET Marcel
@@ -3891,7 +3641,7 @@ o HEMMA_P    20  1996.xx ..... ISBN 2-8006-....-.
 - .o .     R     _JOST Alain                  Les Yeux de Mara ş1996
 
 !-----------------------------------------------------------------------------
-_ HEMMACF Ed. Hemma, Coll. Livre Club Fantastique
+_ HEMMACF Hemma - Livre Club Fantastique
 !-----------------------------------------------------------------------------
 o HEMMACF    76  2001.xx ..... ISBN 2-8006-....-.
 } noimg          _?                           ?
@@ -3901,7 +3651,7 @@ o HEMMACF     ?  2001.xx ..... ISBN 2-8006-....-.
 - .o .     R     _QUELLA-GUYOT Didier         Le Voyage de fin d'ann‚e ş1996
 
 !-----------------------------------------------------------------------------
-_ AJR_FS  Amicale Jean Ray, Coll. Fac simil‚
+_ AJR_FS  Amicale Jean Ray (Belgique) - Fac simil‚
 !-----------------------------------------------------------------------------
 o AJR_FS      3  2004.12 ..... ISBN -
 } noimg          _?                           ?
@@ -3924,7 +3674,6 @@ o AJR_FS      4  2005.12 ..... ISBN -
 : .oS.     r     _RAY Jean                    L'trange Lueur verte [Harry Dickson] ş1932
 : .oF.     r     _RAY Jean                    Le Monstre blanc [Harry Dickson] ş1932
 : .o .     r     _RAY Jean                    Le MystŠre de la vall‚e d'argent [Harry Dickson] ş1932
-!--- idem chevaliers de la Lune
 o AJR_FS      6  2007.xx ..... ISBN -
 } noimg          _?                           ?
 - .oFP     A5    ****                         Harry Dickson - 4 [Harry Dickson] ş2007
@@ -3933,7 +3682,7 @@ o AJR_FS      6  2007.xx ..... ISBN -
 : .o .     r     _RAY Jean                    Les Spectres-Bourreaux [Harry Dickson] ş1933
 
 !-----------------------------------------------------------------------------
-_ BRUXHEL Ed. Brux-Hell
+_ BRUXHEL Brux-Hell (Belgique)
 !-----------------------------------------------------------------------------
 o BRUXHEL     ?  2005.xx ..... ISBN ?
 } noimg          _?                           ?
@@ -3942,7 +3691,7 @@ o BRUXHEL     ?  2005.xx ..... ISBN ?
 : .oF.     N     _EFRATAS Pierre              Le Dernier ş2005
 
 !-----------------------------------------------------------------------------
-_ MAISETU Ed. de la maison des ‚tudiants (belgique)
+_ MAISETU Editions de la maison des ‚tudiants (Belgique)
 !-----------------------------------------------------------------------------
 o MAISETU     ?  1942.xx ..... ISBN -
 } noimg          _?                           ?
@@ -3952,17 +3701,7 @@ o MAISETU     ?  1942.xx ..... ISBN -
 : .o .     T     _ALLARD Robert               Le Carrosse noir ş1942
 
 !-----------------------------------------------------------------------------
-_ REVBELG <b>in</b> La Revue Belge
-!-----------------------------------------------------------------------------
-!--- ?
-!-----------------------------------------------------------------------------
-o REVBELG     ?  1925.04 ..... ISBN -
-!--- 1er avril 1925
-} noimg          _?                           ?
-- .oF.     N     _RAY Jean                    Le Fant“me dans la cale ş1925
-
-!-----------------------------------------------------------------------------
-_ AMILIVR <b>in</b> L'Ami du Livre
+_ AMILIVR L'Ami du Livre (Belgique)
 !-----------------------------------------------------------------------------
 !--- ?
 !-----------------------------------------------------------------------------
@@ -3972,165 +3711,170 @@ _ AMILIVR <b>in</b> L'Ami du Livre
 ?- .o .     N     _RAY Jean                    Irish Stew ş1924
 o AMILIVR     ?  1923.07 ..... ISBN -
 } noimg          _?                           ?
-!--- 01/07/1923
-- .o .     N     _RAY Jean                    Irish whisky ş1923
+- .p .     Mx    ****                         L'Ami du livre - 01/07/1923 ş1923
+: .o .     N     _RAY Jean                    Irish whisky ş1923
 o AMILIVR     ?  1923.08 ..... ISBN -
 } noimg          _?                           ?
-!--- 15/08/1923
-- .o .     N     _RAY Jean                    Herr Hubich dans la nuit ş1923
+- .p .     Mx    ****                         L'Ami du livre - 15/08/1923 ş1923
+: .o .     N     _RAY Jean                    Herr Hubich dans la nuit ş1923
 o AMILIVR     ?  1923.10 ..... ISBN -
 } noimg          _?                           ?
-!--- 01/10/1923
-- .o .     N     _RAY Jean                    La Vengeance par... le livre ş1923
+- .p .     Mx    ****                         L'Ami du livre - 01/10/1923 ş1923
+: .o .     N     _RAY Jean                    La Vengeance par... le livre ş1923
 o AMILIVR     ?  1923.11 ..... ISBN -
 } noimg          _?                           ?
-!--- 01/11/1923
-- .o .     N     _RAY Jean                    Dans les marais du Fenn ş1923
+- .p .     Mx    ****                         L'Ami du livre - 01/11/1923 ş1923
+: .o .     N     _RAY Jean                    Dans les marais du Fenn ş1923
 o AMILIVR     ?  1923.11 ..... ISBN -
 } noimg          _?                           ?
-!--- 15/11/1923
-- .o .     N     _RAY Jean                    La Nuit de Camberwell ş1923
+- .p .     Mx    ****                         L'Ami du livre - 15/11/1923 ş1923
+: .o .     N     _RAY Jean                    La Nuit de Camberwell ş1923
 o AMILIVR     ?  1923.12 ..... ISBN -
 } noimg          _?                           ?
-!--- 15/12/1923
-- .o .     N     _RAY Jean                    Petite femme aim‚e au parfum de verveine... ş1923
+- .p .     Mx    ****                         L'Ami du livre - 15/12/1923 ş1923
+: .o .     N     _RAY Jean                    Petite femme aim‚e au parfum de verveine... ş1923
 o AMILIVR     ?  1924.01 ..... ISBN -
 } noimg          _?                           ?
-!--- 15/01/1924
-- .o .     N     _RAY Jean                    Un conte de f‚es … Whitechapel ş1924
+- .p .     Mx    ****                         L'Ami du livre - 15/01/1924 ş1924
+: .o .     N     _RAY Jean                    Un conte de f‚es … Whitechapel ş1924
 o AMILIVR     ?  1924.02 ..... ISBN -
 } noimg          _?                           ?
-!--- 15/02/1924
-- .o .     N     _RAY Jean                    A minuit ş1924
+- .p .     Mx    ****                         L'Ami du livre - 15/02/1924 ş1924
+: .o .     N     _RAY Jean                    A minuit ş1924
 o AMILIVR     ?  1924.03 ..... ISBN -
 } noimg          _?                           ?
-!--- 01/03/1924
-- .o .     N     _RAY Jean                    Le Saumon de Poppelreiter ş1924
+- .p .     Mx    ****                         L'Ami du livre - 01/03/1924 ş1924
+: .o .     N     _RAY Jean                    Le Saumon de Poppelreiter ş1924
 o AMILIVR     ?  1924.03 ..... ISBN -
 } noimg          _?                           ?
-!--- 15/03/1924
-- .o .     N     _RAY Jean                    Mon ami le mort ş1924
+- .p .     Mx    ****                         L'Ami du livre - 15/03/1924 ş1924
+: .o .     N     _RAY Jean                    Mon ami le mort ş1924
 o AMILIVR     ?  1924.04 ..... ISBN -
 } noimg          _?                           ?
-!--- 01/04/1924
-- .o .     N     _RAY Jean                    Entre deux verres ş1924
+- .p .     Mx    ****                         L'Ami du livre - 01/04/1924 ş1924
+: .o .     N     _RAY Jean                    Entre deux verres ş1924
 o AMILIVR     ?  1924.04 ..... ISBN -
 } noimg          _?                           ?
-!--- 15/04/1924
-- .o .     N     _RAY Jean                    Josuah Gllick, prˆteur sur gages ş1924
+- .p .     Mx    ****                         L'Ami du livre - 15/04/1924 ş1924
+: .o .     N     _RAY Jean                    Josuah Gllick, prˆteur sur gages ş1924
 o AMILIVR     ?  1924.05 ..... ISBN -
 } noimg          _?                           ?
-!--- 01/05/1924
-- .o .     N     _RAY Jean                    Le Nom du bateau ş1924
+- .p .     Mx    ****                         L'Ami du livre - 01/05/1924 ş1924
+: .o .     N     _RAY Jean                    Le Nom du bateau ş1924
 o AMILIVR     ?  1924.06 ..... ISBN -
 } noimg          _?                           ?
-!--- 01/06/1924
-- .o .     N     _RAY Jean                    Le Crocodile ş1924
+- .p .     Mx    ****                         L'Ami du livre - 01/06/1924 ş1924
+: .o .     N     _RAY Jean                    Le Crocodile ş1924
 o AMILIVR     ?  1924.06 ..... ISBN -
 } noimg          _?                           ?
-!--- 15/06/1924
-- .o .     N     _RAY Jean                    Une main ş1924
+- .p .     Mx    ****                         L'Ami du livre - 15/06/1924 ş1924
+: .o .     N     _RAY Jean                    Une main ş1924
 o AMILIVR     ?  1924.07 ..... ISBN -
 } noimg          _?                           ?
-!--- 01/07/1924
-- .o .     N     _RAY Jean                    La DerniŠre Gorg‚e ş1924
+- .p .     Mx    ****                         L'Ami du livre - 01/07/1924 ş1924
+: .o .     N     _RAY Jean                    La DerniŠre Gorg‚e ş1924
 o AMILIVR     ?  1925.02 ..... ISBN -
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    Le Uhu ş1925
+- .p .     Mx    ****                         L'Ami du livre - ? ş1924
+: .o .     N     _RAY Jean                    Le Uhu ş1925
 o AMILIVR     ?  1925.03 ..... ISBN -
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    SS Hjalmar Fenn, Kjobenhavn ş1925
+- .p .     Mx    ****                         L'Ami du livre - ? ş1924
+: .o .     N     _RAY Jean                    SS Hjalmar Fenn, Kjobenhavn ş1925
 o AMILIVR     ?  1925.07 ..... ISBN -
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    L'Assomption de Septimus Kamin ş1925
+- .p .     Mx    ****                         L'Ami du livre - ? ş1924
+: .o .     N     _RAY Jean                    L'Assomption de Septimus Kamin ş1925
 o AMILIVR     ?  1925.08 ..... ISBN -
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    Il y avait une poup‚e … bord ş1925
+- .p .     Mx    ****                         L'Ami du livre - ? ş1924
+: .o .     N     _RAY Jean                    Il y avait une poup‚e … bord ş1925
 
 !-----------------------------------------------------------------------------
-_ JDEGAND <b>in</b> Le Journal de Gand
+_ JDEGAND Le Journal de Gand (Belgique)
 !-----------------------------------------------------------------------------
 !--- quotidien
 !-----------------------------------------------------------------------------
 o JDEGAND     ?  1920.03 ..... ISBN -
-!-- 64iŠme ann‚e, 11 mars 1920
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    La Bˆte blanche ş1920
+- .p .     Mx    ****                         Le Journal de Gand - 64iŠme ann‚e, 11 mars 1920 ş1920
+: .o .     N     _RAY Jean                    La Bˆte blanche ş1920
 o JDEGAND     ?  1920.08 ..... ISBN -
-!-- 64iŠme ann‚e, 03 ao–t 1920
 } noimg          _?                           ?
 !--- paru auparavant en version incomplŠte le 30/11/19 dans "Cin‚"
-- .o .     N     _RAY Jean                    Le Gardien du cimetiŠre ş1920
+- .p .     Mx    ****                         Le Journal de Gand - 64iŠme ann‚e, 03 ao–t 1920 ş1920
+: .o .     N     _RAY Jean                    Le Gardien du cimetiŠre ş1920
 o JDEGAND     ?  1920.10 ..... ISBN -
-!-- 07/10/1920
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    Automobilisme - Etrange histoire ş1920
+- .p .     Mx    ****                         Le Journal de Gand - 07/10/1920 ş1920
+: .o .     N     _RAY Jean                    Automobilisme - Etrange histoire ş1920
 o JDEGAND     ?  1921.03 ..... ISBN -
-!-- 08 mars 1921
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    Maisons hant‚es - Chronique ş1921
+- .p .     Mx    ****                         Le Journal de Gand - 08 mars 1921 ş1921
+: .o .     N     _RAY Jean                    Maisons hant‚es - Chronique ş1921
 o JDEGAND     ?  1921.03 ..... ISBN -
-!-- 10 mars 1921
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    La Maison hant‚e - Chronique fantaisiste ş1921
+- .p .     Mx    ****                         Le Journal de Gand - 10 mars 1921 ş1921
+: .o .     N     _RAY Jean                    La Maison hant‚e - Chronique fantaisiste ş1921
 o JDEGAND     ?  1921.03 ..... ISBN -
-!-- 65iŠme ann‚e, 18 mars 1921
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    Le Singe ş1921
+- .p .     Mx    ****                         Le Journal de Gand - 65iŠme ann‚e, 18 mars 1921 ş1921
+: .o .     N     _RAY Jean                    Le Singe ş1921
 o JDEGAND     ?  1921.05 ..... ISBN -
-!-- 65iŠme ann‚e, 25 mai 1921
 } noimg          _?                           ?
-- .oS.     N     _RAY Jean                    Minuit vingt ş1921
+- .p .     Mx    ****                         Le Journal de Gand - 65iŠme ann‚e, 25 mai 1921 ş1921
+: .oS.     N     _RAY Jean                    Minuit vingt ş1921
 o JDEGAND     ?  1921.06 ..... ISBN -
-!-- 65iŠme ann‚e, 23 juin 1921
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    La Fortune d'Herbert ş1921
+- .p .     Mx    ****                         Le Journal de Gand - 65iŠme ann‚e, 23 juin 1921 ş1921
+: .o .     N     _RAY Jean                    La Fortune d'Herbert ş1921
 o JDEGAND     ?  1921.07 ..... ISBN -
-!-- 65iŠme ann‚e, 01 juillet 1921
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    L'Observatoire abandonn‚ ş1921
+- .p .     Mx    ****                         Le Journal de Gand - 65iŠme ann‚e, 01 juillet 1921 ş1921
+: .o .     N     _RAY Jean                    L'Observatoire abandonn‚ ş1921
 o JDEGAND     ?  1921.07 ..... ISBN -
-!-- 65iŠme ann‚e, 08 juillet 1921
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    La Bonne Action ş1921
+- .p .     Mx    ****                         Le Journal de Gand - 65iŠme ann‚e, 08 juillet 1921 ş1921
+: .o .     N     _RAY Jean                    La Bonne Action ş1921
 o JDEGAND     ?  1921.12 ..... ISBN -
-!-- 12 d‚cembre 1921
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    L'Ange noir ş1921
+- .p .     Mx    ****                         Le Journal de Gand - 12 d‚cembre 1921 ş1921
+: .o .     N     _RAY Jean                    L'Ange noir ş1921 De Swarte Engel
 o JDEGAND     ?  1922.03 ..... ISBN -
-!-- 15/03/1922
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    H“tel de famille ş1922
+- .p .     Mx    ****                         Le Journal de Gand - 15/03/1922 ş1922
+: .o .     N     _RAY Jean                    H“tel de famille ş1922
 o JDEGAND     ?  1922.06 ..... ISBN -
-!-- 19/06/1922
 } noimg          _?                           ?
-- .o .     a     _RAY Jean                    Une collaboration ş1922
+- .p .     Mx    ****                         Le Journal de Gand - 19/06/1922 ş1922
+: .o .     a     _RAY Jean                    Une collaboration ş1922
 o JDEGAND     ?  1922.09 ..... ISBN -
-!-- 14/09/1922
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    Dans la bourrasque - Chronique ş1922
+- .p .     Mx    ****                         Le Journal de Gand - 14/09/1922 ş1922
+: .o .     N     _RAY Jean                    Dans la bourrasque - Chronique ş1922
 o JDEGAND     ?  1922.10 ..... ISBN -
-!-- 66iŠme ann‚e, 11 octobre 1922
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    La Dette de Gumpelmeyer ş1922
+- .p .     Mx    ****                         Le Journal de Gand - 66iŠme ann‚e, 11 octobre 1922 ş1922
+: .o .     N     _RAY Jean                    La Dette de Gumpelmeyer ş1922
 o JDEGAND     ?  1923.01 ..... ISBN -
-!-- 19 janvier 1923 --- ou 19/11/1923 ?
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    Les tranges tudes du Dr Paukenschl„ger ş1923
+!--- TBD ou 19/11/1923 ?
+- .p .     Mx    ****                         Le Journal de Gand - 19 janvier 1923 ş1923
+: .o .     N     _RAY Jean                    Les tranges tudes du Dr Paukenschl„ger ş1923
 o JDEGAND     ?  1923.03 ..... ISBN -
-!-- 23/03/1923
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    La Fiole jaune ş1923
+- .p .     Mx    ****                         Le Journal de Gand - 23/03/1923 ş1923
+: .o .     N     _RAY Jean                    La Fiole jaune ş1923
 
 !-----------------------------------------------------------------------------
-_ INFIACA Ed. Infinite Acacia (Belgique)
+_ INFIACA Infinite Acacia (Belgique)
 !-----------------------------------------------------------------------------
 o INFIACA     ?  2012.11 ..... ISBN 978-1-4783-0750-1
 } noimg          _?                           ?
 - .oS.     R     _ZUWEN Dany G.               Mantax [Saga Tenebrae - 1] ş2010-2012
 
 !-----------------------------------------------------------------------------
-_ DHATSEQ Ed. Didier Hatier, Coll. S‚quences
+_ DHATSEQ Didier Hatier (Belgique) - S‚quences
 !-----------------------------------------------------------------------------
 !--- S‚quences est une collection de dossiers didactiques et de recueils de
 !--- textes destin‚s … l'enseignement du fran‡ais dans les classes du secondaire".
@@ -4160,7 +3904,7 @@ o DHATSEQ     ?  1990.xx ..... ISBN 2-87088-678-0
 : .oF.     N     _OCAMPO Silvina              Leurs ailes ş1961 Tales eran sus rostros şTrad. ROSSET Fran‡oise
 : .o .     N     _CORTAZAR Julio              Axolotl ş1952 Axolotl şTrad. GUILLE Laure
 : .o .     N     _CORTAZAR Julio              Continuit‚ des parcs ş1964 Continuidad de los parques şTrad. CAILLOIS C. & R.
-: .oK.     n     _STERNBERG Jacques           Le Rideau ş?
+: .oK.     n     _STERNBERG Jacques           Le Rideau ş1953
 : .o .     N     _BORGES Jorge Luis           Le Livre de sable ş1975 El libro de arena şTrad. ROSSET Fran‡oise
 : .o .     N     _COMPERE Gaston              Reperiens quem devoret ş1975
 : .o .     N     _OWEN Thomas                 La Boule noire ş1969
@@ -4181,43 +3925,48 @@ o DHATSEQ     ?  1991.xx ..... ISBN 2-87088-732-9
 : .o .     N     _ROSNY AINE J.-H.            Le Jardin de Mary ş1895
 : .o .     N     _LOVECRAFT Howard P.         Hypnos ş1923 Hypnos
 : .o .     N     _CLARKE Arthur C.            La Sentinelle [L'Odyss‚e de l'espace] ş1951 Sentinel of Eternity / The Sentinel şTrad. IAWA TATE
-: .o .     N     _BUZZATI Dino                La Machine … arrˆter le temps ş? ? şTrad. BREITMAN Michel
+: .o .     N     _BUZZATI Dino                La Machine … arrˆter le temps ş1952 La macchina che fermera il tempo şTrad. BREITMAN Michel
 : .o .     N     _LE GUIN Ursula K.           Ceux qui partent d'Omelas ş1973 The Ones who Walk Away from Omelas şTrad. PLANCHAT Henry-Luc
 : .o .     N     _KLEIN G‚rard                Lettre … une ombre chŠre ş1961
 : .o .     N     _HEBERT Louis-Philippe       L'Extracteur de jus ş?
 : .o .     N     _BRUSSOLO Serge              Soleil de soufre ş1980
 : .o .     N     _SEVIGNY Marc                Le Train ş1982
 : .oS.     N     _LEOURIER Christian          La Peau bleue ş1985
-: .o .     N     _STERNBERG Jacques           La Cr‚ature ş1957
+: .o .     n     _STERNBERG Jacques           La Cr‚ature ş1957
 : .o .     N     _STERNBERG Jacques           Le D‚sert ş1954
 : .o .     N     _STERNBERG Jacques           Non humain ş?
-?: .o .     a     _CANVAT Karl                 Incipit ş1991
+: .o .     a     _CANVAT Karl                 Incipit ş1991
 !--- Opinions (Kingsley Amis, J. Van Herp, R. Escarpit, Rafael Pividal & L.V. Thomas) <- quelques lignes de ces auteurs pour d‚finir la S.F.
-?: .o .     a     _CANVAT Karl                 Pour en savoir plus ş1991
+: .o .     a     _CANVAT Karl                 Pour en savoir plus ş1991
 o DHATSEQ     ?  1991.xx ..... ISBN 2-87088-734-5
 } dhatier_seq_sf _?                           ?
 - .oS.     G     _CANVAT Karl                 La Science-Fiction - Vade-mecum du professeur de fran‡ais ş1991
 
 !-----------------------------------------------------------------------------
-_ ETROUGM <b>in</b> Ed. Etoile Rouge, Coll. MystŠre
+_ ETROUGM Etoile Rouge (Belgique) - MystŠre [hebdo]
 !-----------------------------------------------------------------------------
 !--- Hebdo de 32 pages avec romans, nouvelles, cin‚ma et radio … 2frs50 (1933)
 !-----------------------------------------------------------------------------
 o ETROUGM     3  1933.xx ..... ISBN -
 } noimg          _?                           ?
-- .oS.     N     _MOUNOT Pierre               L'Homme sans visage ş1933
+- .p .     Mx    ****                         MystŠre nø 3 ş1933
+: .oS.     N     _MOUNOT Pierre               L'Homme sans visage ş1933
 o ETROUGM     4  1933.xx ..... ISBN -
 } noimg          _?                           ?
-- .oS.     N     _SAUMANE Jean                La Mouche ş1933
+- .p .     Mx    ****                         MystŠre nø 4 ş1933
+: .oS.     N     _SAUMANE Jean                La Mouche ş1933
 o ETROUGM     7  1933.xx ..... ISBN -
 } noimg          _?                           ?
-- .oS.     N     _BARRY L‚o                   Crabes ş1933
+- .p .     Mx    ****                         MystŠre nø 7 ş1933
+: .oS.     N     _BARRY L‚o                   Crabes ş1933
 o ETROUGM     8  1933.xx ..... ISBN -
 } noimg          _?                           ?
-- .oS.     N     _AULNAY Jean d'              L'trange Puissance du savant McCormick ş1933
+- .p .     Mx    ****                         MystŠre nø 8 ş1933
+: .oS.     N     _AULNAY Jean d'              L'trange Puissance du savant McCormick ş1933
 o ETROUGM     9  1933.xx ..... ISBN -
 } noimg          _?                           ?
-- .oS.     N     _LEONARD Jean L. B.          Le Mus‚e des assassin‚s ş1933
+- .p .     Mx    ****                         MystŠre nø 9 ş1933
+: .oS.     N     _LEONARD Jean L. B.          Le Mus‚e des assassin‚s ş1933
 
 !-----------------------------------------------------------------------------
 _ BMARGIN Marginales (Belgique)
@@ -4228,17 +3977,17 @@ o BMARGIN   123  1968.xx ..... ISBN -
 : .o .     N     _AYGUESPARSE Albert          Le Torse ş1968
 
 !-----------------------------------------------------------------------------
-_ LOVANIS Ed. Lovanis (Belgique)
+_ LOVANIS Lovanis (Belgique)
 !-----------------------------------------------------------------------------
 o LOVANIS     ?  1938.11 ..... ISBN -
 } noimg          _?                           ?
 - .oFK     R     _AYGUESPARSE Albert          La Main morte ş1938
 
 !-----------------------------------------------------------------------------
-_ IMPRNOU Ed. Les Impressions Nouvelles, Coll. Traverses (Belgique)
-_ IMPRNOI Ed. Les Impressions Nouvelles, Coll. Imaginaires (Belgique)
-_ IMPRNOJ Ed. Les Impressions Nouvelles, Coll. Jeunesse (Belgique)
-!-- IMPRNOE Ed. Coll. Espace Nord  --> voir espace.col
+_ IMPRNOU Les Impressions Nouvelles (Belgique) - Traverses
+_ IMPRNOI Les Impressions Nouvelles (Belgique) - Imaginaires
+_ IMPRNOJ Les Impressions Nouvelles (Belgique) - Jeunesse
+!-- IMPRNOE Collection Espace Nord  --> voir espace.col
 !-----------------------------------------------------------------------------
 o IMPRNOJ     ?  2011.08 ..... ISBN 978-2-87449-116-0
 } noimg          _?                           ?
@@ -4260,196 +4009,204 @@ o IMPRNOI     ?  2014.10 ..... ISBN 978-2-87449-212-9
 } noimg          _?                           ?
 - .oS.     R     _LANERO ZAMORA Katia         Le Masque du Caracal [Chroniques des h‚misphŠres - 3] ş2014
 
+!-----------------------------------------------------------------------------
+_ MIEUVIV Mieux Vivre (Belgique)
+!-----------------------------------------------------------------------------
+!--- Revue mensuelle de la Croix-Rouge de Belgique
+!-----------------------------------------------------------------------------
+o MIEUVIV     ?  1949.xx ..... ISBN -
+} noimg          _?                           ?
+>--- SERIAL : nø 28-1 (janvier 1949) … 28-3 (mars 1949) et 28-5 (mai 1949)
+!--- janvier 49 (28ie ann‚e nø 1), f‚vrier 49 (28ie ann‚e nø 2), mars 49 (28ie ann‚e nø 3), mai 49 (28ie ann‚e nø 5), 
+- .oS.     N     _KERSH Gerald                Les Voix dans la poussiŠre ş1947 Voices in the Dust / Voices in the Dust of Annan şTrad. L.C.P.
 
 !-----------------------------------------------------------------------------
-_ TINTINB <b>in</b> Editions du Lombard, Le Journal de Tintin
-!-----------------------------------------------------------------------------
-!--- in Tintins
+_ TINTINB Editions du Lombard (Belgique) - Le Journal de Tintin [journal] [hebdo]
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 !--- 1948 - 3iŠme ann‚e
 !-----------------------------------------------------------------------------
-o TINTINB  3-11  1948.xx ..... ISBN -
-!--- 11 mars 1948 - p 12
+o TINTINB a3-11  1948.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Trois longues... une brŠve ş1948
-o TINTINB  3-23  1948.xx ..... ISBN -
-!--- 3 juin 1948 - p 12
+- .p .     Mx    ****                         Le Journal de Tintin nø 11 3iŠme ann‚e - 11 mars 1948 ş1948
+: .! .  12 N     _FLANDERS John               Trois longues... une brŠve ş1948
+o TINTINB a3-23  1948.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Dans les Œles qu'on dit merveilleuse ş1948
-o TINTINB  3-27  1948.xx ..... ISBN -
-!--- 1 juillet 1948 - p 6-7
+- .p .     Mx    ****                         Le Journal de Tintin nø 23 3iŠme ann‚e - 3 juin 1948 ş1948
+: .! .  12 N     _FLANDERS John               Dans les Œles qu'on dit merveilleuse ş1948
+o TINTINB a3-27  1948.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.     N     _FLANDERS John               A bord de la "Margaret Payne" - Une aventure en mer ş1948
-o TINTINB  3-35  1948.xx ..... ISBN -
-!--- 26 ao–t 1948 - p 10
+- .p .     Mx    ****                         Le Journal de Tintin nø 27 3iŠme ann‚e - 1 juillet 1948 ş1948
+: .oF.   6 N     _FLANDERS John               A bord de la "Margaret Payne" - Une aventure en mer ş1948
+o TINTINB a3-35  1948.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Le Dieu Foera ş1948
-o TINTINB  3-36  1948.xx ..... ISBN -
-!--- 2 septembre 1948 - p 14
+- .p .     Mx    ****                         Le Journal de Tintin nø 35 3iŠme ann‚e - 26 ao–t 1948 ş1948
+: .! .  10 N     _FLANDERS John               Le Dieu Foera ş1948
+o TINTINB a3-36  1948.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Le Salutaire mal de mer ş1948
-o TINTINB  3-40  1948.xx ..... ISBN -
-!--- 20 pages - 5 Frs - 30 septembre 1948 - p 1 et 16
+- .p .     Mx    ****                         Le Journal de Tintin nø 36 3iŠme ann‚e - 2 septembre 1948 ş1948
+: .! .  14 N     _FLANDERS John               Le Salutaire mal de mer ş1948
+o TINTINB a3-40  1948.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Vengeance dans les Œles ş1948
-o TINTINB  3-41  1948.xx ..... ISBN -
-!--- 7 octobre 1948 - p ?
+!--- 20 pages - 5 Frs
+- .p .     Mx    ****                         Le Journal de Tintin nø 40 3iŠme ann‚e - 30 septembre 1948 ş1948
+: .! .   1 N     _FLANDERS John               Vengeance dans les Œles ş1948
+o TINTINB a3-41  1948.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Le Ciel lui donna un compagnon ! ş1948
-o TINTINB  3-42  1948.xx ..... ISBN -
-!--- 14 octobre 1948 - p ?
+- .p .     Mx    ****                         Le Journal de Tintin nø 41 3iŠme ann‚e - 7 octobre 1948 ş1948
+: .! .     N     _FLANDERS John               Le Ciel lui donna un compagnon ! ş1948
+o TINTINB a3-42  1948.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Un capitaine de quinze ans ş1948
-o TINTINB  3-46  1948.xx ..... ISBN -
-!--- 11 novembre 1948 - p 14
+- .p .     Mx    ****                         Le Journal de Tintin nø 42 3iŠme ann‚e - 14 octobre 1948 ş1948
+: .! .     N     _FLANDERS John               Un capitaine de quinze ans ş1948
+o TINTINB a3-46  1948.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Je l'ai trait‚ de lƒche !... ş1948
-o TINTINB  3-50  1948.xx ..... ISBN -
-!--- 9 d‚cembre 1948 - p 18
+- .p .     Mx    ****                         Le Journal de Tintin nø 46 3iŠme ann‚e - 11 novembre 1948 ş1948
+: .! .  14 N     _FLANDERS John               Je l'ai trait‚ de lƒche !... ş1948
+o TINTINB a3-50  1948.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               L'trange Lueur bleue ş1948
-o TINTINB  3-53  1948.xx ..... ISBN -
-!--- 30 d‚cembre 1948 - p 18
+- .p .     Mx    ****                         Le Journal de Tintin nø 50 3iŠme ann‚e - 9 d‚cembre 1948 ş1948
+: .! .  18 N     _FLANDERS John               L'trange Lueur bleue ş1948
+o TINTINB a3-53  1948.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.     N     _FLANDERS John               Un guide dans la nuit ş1948
+- .p .     Mx    ****                         Le Journal de Tintin nø 53 3iŠme ann‚e - 30 d‚cembre 1948 ş1948
+: .oF.  18 N     _FLANDERS John               Un guide dans la nuit ş1948
 !-----------------------------------------------------------------------------
 !--- 1949 - 4iŠme ann‚e
 !-----------------------------------------------------------------------------
-o TINTINB   4-1  1949.xx ..... ISBN -
-!--- 27 janvier 1949 - p 14
+o TINTINB  a4-1  1949.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               La Terrible Madame Sue ş1949
-o TINTINB   4-7  1949.xx ..... ISBN -
-!--- 17 f‚vrier 1949 - p 14
+- .p .     Mx    ****                         Le Journal de Tintin nø 1 4iŠme ann‚e - 27 janvier 1949 ş1949
+: .x .  14 N     _FLANDERS John               La Terrible Madame Sue ş1949
+o TINTINB  a4-7  1949.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               L'Homme arc-en-ciel ş1949
-o TINTINB  4-10  1949.xx ..... ISBN -
-!--- 10 mars 1949 - p x
+- .p .     Mx    ****                         Le Journal de Tintin nø 7 4iŠme ann‚e - 17 f‚vrier 1949 ş1949
+: .! .  14 N     _FLANDERS John               L'Homme arc-en-ciel ş1949
+o TINTINB a4-10  1949.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Le Passager du "Rosary" ş1949
-o TINTINB  4-14  1949.xx ..... ISBN -
-!--- 7 avril 1949 - p 14
+- .p .     Mx    ****                         Le Journal de Tintin nø 10 4iŠme ann‚e - 10 mars 1949 ş1949
+: .! .     N     _FLANDERS John               Le Passager du "Rosary" ş1949
+o TINTINB a4-14  1949.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Etranges vacances ş1949
-o TINTINB  4-16  1949.xx ..... ISBN -
-!--- 16 avril 1949 - p 14
+- .p .     Mx    ****                         Le Journal de Tintin nø 14 4iŠme ann‚e - 7 avril 1949 ş1949
+: .! .  14 N     _FLANDERS John               Etranges vacances ş1949
+o TINTINB a4-16  1949.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.     N     _FLANDERS John               Les Pirates rouges ş1949
-o TINTINB  4-32  1949.xx ..... ISBN -
-!--- 11 ao–t 1949 - p 14
+- .p .     Mx    ****                         Le Journal de Tintin nø 16 4iŠme ann‚e - 16 avril 1949 ş1949
+: .oF.  14 N     _FLANDERS John               Les Pirates rouges ş1949
+o TINTINB a4-32  1949.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               La Baguette magique ş1949
+- .p .     Mx    ****                         Le Journal de Tintin nø 32 4iŠme ann‚e - 11 ao–t 1949 ş1949
+: .! .  14 N     _FLANDERS John               La Baguette magique ş1949
 !-----------------------------------------------------------------------------
 !--- 1950 - 5iŠme ann‚e
 !-----------------------------------------------------------------------------
-o TINTINB   5-1  1950.xx ..... ISBN -
-!--- 1 janvier 1950 - p 14
+o TINTINB  a5-1  1950.xx ..... ISBN -
 } noimg          _?                           ?
-- .M .     N     _FLANDERS John               Les Six Rois mages ! ş1950
-o TINTINB   5-4  1950.xx ..... ISBN -
-!--- 1 janvier 1950 - p 13
+- .p .     Mx    ****                         Le Journal de Tintin nø 1 5iŠme ann‚e - 1 janvier 1950 ş1950
+: .M .  14 N     _FLANDERS John               Les Six Rois mages ! ş1950
+o TINTINB  a5-4  1950.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               La R‚surrection du "San Cristobal" ş1950
-o TINTINB  5-17  1950.xx ..... ISBN -
-!--- 27 avril 1950 - p 15
+- .p .     Mx    ****                         Le Journal de Tintin nø 4 5iŠme ann‚e - 1 janvier 1950 ş1950
+: .! .  13 N     _FLANDERS John               La R‚surrection du "San Cristobal" ş1950
+o TINTINB a5-17  1950.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Pris en chasse ! ş1950
-o TINTINB  5-23  1950.xx ..... ISBN -
-!--- 8 juin 1950 - p 16
+- .p .     Mx    ****                         Le Journal de Tintin nø 17 5iŠme ann‚e - 27 avril 1950 ş1950
+: .! .  15 N     _FLANDERS John               Pris en chasse ! ş1950
+o TINTINB a5-23  1950.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.     N     _FLANDERS John               Le Sorcier de Greenock ş1950
-o TINTINB  5-34  1950.xx ..... ISBN -
-!--- 24 ao–t 1950 - p 16
+- .p .     Mx    ****                         Le Journal de Tintin nø 23 5iŠme ann‚e - 8 juin 1950 ş1950
+: .oF.  16 N     _FLANDERS John               Le Sorcier de Greenock ş1950
+o TINTINB a5-34  1950.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Trois hommes derriŠre un mur ş1950
-o TINTINB  5-47  1950.xx ..... ISBN -
-!--- 23 novembre 1950 - p x
+- .p .     Mx    ****                         Le Journal de Tintin nø 34 5iŠme ann‚e - 24 ao–t 1950 ş1950
+: .! .  16 N     _FLANDERS John               Trois hommes derriŠre un mur ş1950
+o TINTINB a5-47  1950.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               En jouant la "Bombara" ş1950
-o TINTINB  5-48  1950.xx ..... ISBN -
-!--- 29 novembre 1950 - p 4 et 12
+- .p .     Mx    ****                         Le Journal de Tintin nø 47 5iŠme ann‚e - 23 novembre 1950 ş1950
+: .! .     N     _FLANDERS John               En jouant la "Bombara" ş1950
+o TINTINB a5-48  1950.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Le Signe du pirate ş1950
+- .p .     Mx    ****                         Le Journal de Tintin nø 48 5iŠme ann‚e - 29 novembre 1950 ş1950
+: .! .   4 N     _FLANDERS John               Le Signe du pirate ş1950
 !-----------------------------------------------------------------------------
 !--- 1951 - 6iŠme ann‚e
 !-----------------------------------------------------------------------------
-o TINTINB  6-16  1951.xx ..... ISBN -
-!--- 18 avril 1951 - p 4 et 12
+o TINTINB a6-16  1951.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Lui ou moi ! ş1951
-o TINTINB  6-44  1951.xx ..... ISBN -
-!--- 31 octobre 1951 - p 4 et 13
+- .p .     Mx    ****                         Le Journal de Tintin nø 16 6iŠme ann‚e - 18 avril 1951 ş1951
+: .! .   4 N     _FLANDERS John               Lui ou moi ! ş1951
+o TINTINB a6-44  1951.xx ..... ISBN -
+} noimg          _?                           ?
+- .p .     Mx    ****                         Le Journal de Tintin nø 44 6iŠme ann‚e - 31 octobre 1951 ş1951
 !--- TBC un peu SF ?
+: .! .   4 N     _FLANDERS John               Le Sous-Marin fant“me ş1951
+!-----------------------------------------------------------------------------
+!--- 1952 - 7iŠme ann‚e
+!-----------------------------------------------------------------------------
+o TINTINB a7-18  1952.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Le Sous-Marin fant“me ş1951
-o TINTINB  7-18  1952.xx ..... ISBN -
-!--- 30 avril 1952 - p 12
+- .p .     Mx    ****                         Le Journal de Tintin nø 18 7iŠme ann‚e - 30 avril 1952 ş1952
+: .! .  12 N     _FLANDERS John               Fant“mes du "Capataz" ş1952
+o TINTINB a7-22  1952.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Fant“mes du "Capataz" ş1952
-o TINTINB  7-22  1952.xx ..... ISBN -
-!--- 28 mai 1952 - p 13
+- .p .     Mx    ****                         Le Journal de Tintin nø 22 7iŠme ann‚e - 28 mai 1952 ş1952
+: .x .  13 N     _FLANDERS John               Le King-Sail ş1952
+o TINTINB a7-32  1952.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Le King-Sail ş1952
-o TINTINB  7-32  1952.xx ..... ISBN -
-!--- 6 ao–t 1952 - p 4
+- .p .     Mx    ****                         Le Journal de Tintin nø 32 7iŠme ann‚e - 6 ao–t 1952 ş1952
+: .! .   4 N     _FLANDERS John               La Terrible Nuit de Bill Baynes ş1952
+o TINTINB a7-45  1952.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               La Terrible Nuit de Bill Baynes ş1952
-o TINTINB  7-45  1952.xx ..... ISBN -
-!--- 5 novembre 1952 - p 13
+- .p .     Mx    ****                         Le Journal de Tintin nø 45 7iŠme ann‚e - 5 novembre 1952 ş1952
+: .! .  13 N     _FLANDERS John               Mirages... ş1952
+o TINTINB a7-47  1952.xx ..... ISBN -
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Mirages... ş1952
-o TINTINB  7-47  1952.xx ..... ISBN -
-!--- 19 novembre 1952 - p 18
-} noimg          _?                           ?
-- .! .     N     _FLANDERS John               Le Souper de St Roch ş1952
+- .p .     Mx    ****                         Le Journal de Tintin nø 47 7iŠme ann‚e - 19 novembre 1952 ş1952
+: .! .  18 N     _FLANDERS John               Le Souper de St Roch ş1952
 o TINTINB 10-16  1955.xx ..... ISBN -
-!--- 20 avril 1955 - p 18
 } noimg          _?                           ?
-- .! .     N     _FLANDERS John               Le Puits de Doniphan ş1955
-
-
-
+- .p .     Mx    ****                         Le Journal de Tintin nø 16 10iŠme ann‚e - 20 avril 1955 ş1955
+: .! .  18 N     _FLANDERS John               Le Puits de Doniphan ş1955
 o TINTINB    32  1964.xx ..... ISBN -
-!--- 10 ao–t 1964 - p 24-25-27
 } noimg          _?                           ?
-- .oS.     N     _COPPI                       Halloween ş1964
+- .p .     Mx    ****                         Le Journal de Tintin nø 32 - 10 ao–t 1964 ş1964
+: .oS.  24 N     _COPPI                       Halloween ş1964
 o TINTINB    47  1964.xx ..... ISBN -
-!--- 24 novembre 1964 - p 27-28 et 38
 } noimg          _?                           ?
-- .oS.     N     _FLANDERS John               La DerniŠre Peste de Bergame ş? De laatste pest van Pergamo
+- .p .     Mx    ****                         Le Journal de Tintin nø 47 - 24 novembre 1964 ş1964
+: .oS.  27 N     _FLANDERS John               La DerniŠre Peste de Bergame ş? De laatste pest van Pergamo
 o TINTINB     1  1965.xx ..... ISBN -
-!--- 5 janvier 1965 - p 26 … 28
 } noimg          _?                           ?
-- .oS.     N     _ACAR Jacques                Halloween ş1965
+- .p .     Mx    ****                         Le Journal de Tintin nø 1 - 5 janvier 1965 ş1965
+: .oS.  26 N     _ACAR Jacques                Halloween ş1965
 o TINTINB     3  1965.xx ..... ISBN -
-!--- 19 janvier 1965 - p 27 … 29
 } noimg          _?                           ?
-- .o .     a     _BERNARDET Jean              Que sera la voiture de demain ? ş1965
+- .p .     Mx    ****                         Le Journal de Tintin nø 3 - 19 janvier 1965 ş1965
+: .o .  27 a     _BERNARDET Jean              Que sera la voiture de demain ? ş1965
 o TINTINB     4  1965.xx ..... ISBN -
-!--- 26 janvier 1965 - p 27 … 29
 } noimg          _?                           ?
-- .oM.     N     _CHRISTIAN Jacques           Fleur de Lune ş1965
-
+- .p .     Mx    ****                         Le Journal de Tintin nø 4 - 26 janvier 1965 ş1965
+: .oM.  27 N     _CHRISTIAN Jacques           Fleur de Lune ş1965
 o TINTINB    28  1970.xx ..... ISBN -
-!--- 17 juillet 1970 - p 36-37-41
 } noimg          _?                           ?
-- .oS.     N     _DUVAL Yves                  Ceci n'est pas un conte ş1970
+- .p .     Mx    ****                         Le Journal de Tintin nø 28 - 17 juillet 1970 ş1970
+: .oS.  36 N     _DUVAL Yves                  Ceci n'est pas un conte ş1970
 o TINTINB    51  1970.xx ..... ISBN -
-!--- 22 d‚cembre 1970 - p 30-32-33
 } noimg          _?                           ?
-- .oS.     N     _PASQUIEZ Jean-Claude        Liquidez cette planŠte ş1970
+- .p .     Mx    ****                         Le Journal de Tintin nø 51 - 22 d‚cembre 1970 ş1970
+: .oS.  30 N     _PASQUIEZ Jean-Claude        Liquidez cette planŠte ş1970
 
 
 !-----------------------------------------------------------------------------
-_ ADEN    Ed. Aden (Bruxelles)
+_ ADEN    Aden (Bruxelles)
 !-----------------------------------------------------------------------------
 o ADEN        ?  2016.09 ..... ISBN 978-2-80590-185-0
 } noimg          _?                           ?
 - .oS.     R     _MORE Thomas                 L'Utopie ş1518 Utopia şTrad. ?
 
 !-----------------------------------------------------------------------------
-_ CLEEDLI Ed. Litt‚raires Cl‚ (LiŠge)
+_ CLEEDLI Editions Litt‚raires Cl‚ (LiŠge)
 !-----------------------------------------------------------------------------
 o CLEEDLI     ?  1997.xx ..... ISBN 2-87397-002-2
 } noimg          _?                           ?
@@ -4457,7 +4214,7 @@ o CLEEDLI     ?  1997.xx ..... ISBN 2-87397-002-2
 - .oS.     R     _BAUDOUIN Francis            2067 - L'In‚vitable Affrontement ş1997
 
 !-----------------------------------------------------------------------------
-_ INSTANT Ed. de l'instant (Belgique)
+_ INSTANT Editions de l'instant (Belgique)
 !-----------------------------------------------------------------------------
 o INSTANT     ?  2016.04 ..... ISBN 978-2-930853-00-0
 } instant_00     _?                           ?
@@ -4468,7 +4225,7 @@ o INSTANT     ?  2016.xx ..... ISBN 978-2-930853-01-7
 o INSTANT     ?  2017.02 ..... ISBN 978-2-930853-02-4
 } instant_02     _?                           ?
 - .oS.     A12   *DECHESNE Patrick            Gentlemen m‚caniques - Compendium de r‚cits steampunk ş2017
-!--- _DESCHESNE Patrick : introduction
+: .o .     p     _DECHESNE Patrick            Introduction ş2017
 : .o .     N     _CROSSHILL Tom               En attendant la num‚ro 5 ş2010 Waiting for Number Five
 : .o .     N     _PI Tony                     La Mal‚diction de ChimŠre ş2010 The Curse of ChimŠre
 : .o .     N     _CHAN Nick T.                La Commande pour l'amour ş2012 The Command for Love
@@ -4483,7 +4240,8 @@ o INSTANT     ?  2017.02 ..... ISBN 978-2-930853-02-4
 : .o .     N     _DAS Indrapramit             La Petite Begum ş2014 The Little Begum
 o INSTANT     ?  2017.05 ..... ISBN 978-2-930853-03-1
 } instant_03     _?                           ?
-- .oS.    kC15   _CHASTELLIERE Emmanuel       C‚lestopol ş2017
+!--- "Dans ce volume de fantasy d'influence steampunk..."
+- .oF.    kC15   _CHASTELLIERE Emmanuel       C‚lestopol ş2017
 : .o .     N     _CHASTELLIERE Emmanuel       Face cach‚e ş2017
 : .o .     N     _CHASTELLIERE Emmanuel       La Chambre d'ambre ş2017
 : .o .     N     _CHASTELLIERE Emmanuel       Dans la brume ş2017
@@ -4503,31 +4261,31 @@ o INSTANT     ?  2018.05 ..... ISBN 978-0-201-37962-4
 } instant_04     _Katarzyna Wimanska          ?
 - .oI.     N21   _OKORAFOR Nnedi              Kabu Kabu ş2013 Kabu Kabu şTrad. DECHESNE Patrick
 : .o .   9 p     _GOLDBERG Whoopi             Avant propos ş2013 Foreword
-: .o .  11 N     _OKORAFOR Nnedi              Le nŠgre magique ş2004 The Magical Negro
+: .o .  11 N     _OKORAFOR Nnedi              Le NŠgre magique ş2004 The Magical Negro
 : .o .  15 N     _OKORAFOR Nnedi              Kabu Kabu ş2013 Kabu Kabu
-: .o .  49 N     _OKORAFOR Nnedi              La tache noire ş2013 The Black Stain
+: .o .  49 N     _OKORAFOR Nnedi              La Tache noire ş2013 The Black Stain
 : .o .  61 N     _OKORAFOR Nnedi              Tumaki ş2010 Tumaki
 : .o .  93 N     _OKORAFOR Nnedi              Comment Inyang obtint ses ailes ş2013 How Inyang Got Her Wings
-: .o . 119 N     _OKORAFOR Nnedi              Les vents de l'harmattan ş2003 Asuquo, or The Winds of Harmattan
-: .o . 141 N     _OKORAFOR Nnedi              Les coureurs de vent ş2002 Windseekers
+: .o . 119 N     _OKORAFOR Nnedi              Les Vents de l'harmattan ş2003 Asuquo, or the Winds of Harmattan
+: .o . 141 N     _OKORAFOR Nnedi              Les Coureurs de vent ş2002 Windseekers
 : .o . 157 N     _OKORAFOR Nnedi              Biafra ş2005 Biafra
-: .o . 167 N     _OKORAFOR Nnedi              La maison des difformit‚s ş2013 The House of Deformities
-: .o . 185 N     _OKORAFOR Nnedi              Le tapis ş2013 The Carpet
+: .o . 167 N     _OKORAFOR Nnedi              La Maison des difformit‚s ş2013 The House of Deformities
+: .o . 185 N     _OKORAFOR Nnedi              Le Tapis ş2013 The Carpet
 : .o . 201 N     _OKORAFOR Nnedi              Sur la route ş2009 On the Road
 : .o . 229 N     _OKORAFOR Nnedi              Ic“ne ş2010 Icon
 : .o . 245 N     _OKORAFOR Nnedi              Popular mechanic ş2007 The Popular Mechanic
-: .o . 261 N     _OKORAFOR Nnedi              L'artiste araign‚e ş2008 Spider the Artist
+: .o . 261 N     _OKORAFOR Nnedi              L'Artiste araign‚e ş2008 Spider the Artist
 : .o . 281 N     _OKORAFOR Nnedi              Bakasi ş2013 Bakasi Man
 : .o . 293 N     _OKORAFOR Nnedi              S‚par‚s ş2007 Asunder
-: .o . 305 N     _OKORAFOR Nnedi              La guerre des babouins ş2012 The Baboon War
-: .o . 321 N     _OKORAFOR Nnedi              L'affreux oiseau ş2013 The Ghastly Bird
-: .o . 329 N     _OKORAFOR Nnedi              Le bandit des palmiers ş2000 The Palm Tree Bandit
-: .o . 335 N     _OKORAFOR Nnedi              L'homme au long juju ş2003 Long Juju Man
-!: .o . 341 a     _OKORAFOR Nnedi              Zula, de la cour de r‚cr‚ de quatriŠme
-!: .o . 349 a     _OKORAFOR Nnedi              La fille qui court
+: .o . 305 N     _OKORAFOR Nnedi              La Guerre des babouins ş2012 The Baboon War
+: .o . 321 N     _OKORAFOR Nnedi              L'Affreux Oiseau ş2013 The Ghastly Bird
+: .o . 329 N     _OKORAFOR Nnedi              Le Bandit des palmiers ş2000 The Palm Tree Bandit
+: .o . 335 N     _OKORAFOR Nnedi              L'Homme au long juju ş2003 Long Juju Man
+: .o . 341 a     _OKORAFOR Nnedi              Zula, de la cour de r‚cr‚ de quatriŠme
+: .o . 349 a     _OKORAFOR Nnedi              La fille qui court
 
 !-----------------------------------------------------------------------------
-_ FINCK   Ed. Finck (Bruxelles)
+_ FINCK   Finck (Bruxelles)
 !-----------------------------------------------------------------------------
 o ADEN        ?  1884.xx ..... ISBN -
 } noimg          _?                           ?
@@ -4537,74 +4295,73 @@ o ADEN        ?  1884.xx ..... ISBN -
 : .o .     N     _VERHAEREN Emile             A l'‚den ş1884
 
 !-----------------------------------------------------------------------------
-_ REV_BEL <b>in</b> La Revue belge
+_ REV_BEL La Revue belge (Belgique)
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 !--- in La Revue belge
 !-----------------------------------------------------------------------------
 o REV_BEL     ?  1925.04 ..... ISBN -
-!--- 01/04/1925
 } noimg          _?                           ?
-- .oF.     N     _RAY Jean                    Le Fant“me dans la cale ş1925
+- .p .     Mx    ****                         La Revue belge - 01/04/1925 ş1925
+: .oF.     N     _RAY Jean                    Le Fant“me dans la cale ş1925
 o REV_BEL     ?  1929.05 ..... ISBN -
-!--- 01/05/1929
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    Le Dernier Voyageur ş1929
+- .p .     Mx    ****                         La Revue belge - 01/05/1929 ş1929
+: .o .     N     _RAY Jean                    Le Dernier Voyageur ş1929
 o REV_BEL     ?  1929.11 ..... ISBN -
-!--- 01/11/1929
 } noimg          _?                           ?
-- .oF.     N     _RAY Jean                    Drer, l'idiot ş1929
+- .p .     Mx    ****                         La Revue belge - 01/11/1929 ş1929
+: .oF.     N     _RAY Jean                    Drer, l'idiot ş1929
 o REV_BEL     ?  1931.02 ..... ISBN -
-!--- 15/02/1931
 } noimg          _?                           ?
-- .oF.     N     _RAY Jean                    Je n'ai mˆme pas vu son visage... ş1931
+- .p .     Mx    ****                         La Revue belge - 15/02/1931 ş1931
+: .oF.     N     _RAY Jean                    Je n'ai mˆme pas vu son visage... ş1931
 
 !-----------------------------------------------------------------------------
-_ BIENPUB <b>in</b> Le Bien Public (Belgique)
+_ BIENPUB Le Bien Public (Belgique)
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 !--- in Bien Public (Belgique)
 !-----------------------------------------------------------------------------
 o BIENPUB     ?  1930.05 ..... ISBN -
-!--- 06/05/1930
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    Le Psautier de Mayence ş1930
+- .p .     Mx    ****                         Le Bien Public - 06/05/1930 ş1930
+: .o .     N     _RAY Jean                    Le Psautier de Mayence ş1930
 o BIENPUB     ?  1932.xx ..... ISBN -
 } noimg          _?                           ?
-!--- premiŠre publi dans "Le Bien Public", revue belge, 1932-1933
-!--- TBD si plusieurs num‚ros se terminant en 33, alors => 1933
-- .oPF     R     _RAY Jean                    Jack-de-Minuit ş1932
+>--- SERIAL : 1932-1933
+- .oPF     R     _RAY Jean                    Jack-de-Minuit ş1933
 o BIENPUB     ?  1933.09 ..... ISBN -
-!--- 08/09/1933
 } noimg          _?                           ?
-- .o .     N     _RAY Jean                    En ville inconnue ş1933
+- .p .     Mx    ****                         Le Bien Public - 08/09/1933 ş1933
+: .o .     N     _RAY Jean                    En ville inconnue ş1933
 
 !-----------------------------------------------------------------------------
-_ FLANLIB <b>in</b> La Flandre lib‚rale (Belgique)
+_ FLANLIB La Flandre lib‚rale (Belgique)
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 !--- in La Flandre lib‚rale (Belgique)
 !-----------------------------------------------------------------------------
 o FLANLIB     ?  1931.03 ..... ISBN -
 } noimg          _?                           ?
-!--- 12/03/1931
 !--- sous "Le Scolopendre" d'aprŠs Alma
-- .o .     N     _RAY Jean                    La Scolopendre ş1931
+- .p .     Mx    ****                         La Flandre lib‚rale - 12/03/1931 ş1931
+: .o .     N     _RAY Jean                    La Scolopendre ş1931
 o FLANLIB     ?  1931.10 ..... ISBN -
 } noimg          _?                           ?
-!--- 04/10/1931 & 05/10/1931
+!---SERIAL : 04/10/1931 & 05/10/1931
 - .o .     N     _RAY Jean                    Monsieur Briscombe et le feu ş1931
 
 !-----------------------------------------------------------------------------
-_ DEBATS  <b>in</b> Les D‚bats (Belgique)
+_ DEBATS  Les D‚bats (Belgique)
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 !--- in Les D‚bats (Belgique)
 !-----------------------------------------------------------------------------
 o DEBATS      ?  1934.11 ..... ISBN -
 } noimg          _?                           ?
-!--- 16/11/1934
-- .o .     N     _RAY Jean                    Last chance ş1934
+- .p .     Mx    ****                         Les D‚bats - 16/11/1934 ş1934
+: .o .     N     _RAY Jean                    Last chance ş1934
 
 !-----------------------------------------------------------------------------
 _ ZONESSE Zones sensibles (Bruxelles)
@@ -4616,7 +4373,7 @@ o ZONESSE     ?  2012.10 ..... ISBN 978-2-930601-05-2
 - .o .     R     _ABBOTT Edwin A.             Flatland - Fantaisie en plusieurs dimensions ş1884 Flatland: a Romance of many Dimensions şTrad. BLANCHARD Philippe
 
 !-----------------------------------------------------------------------------
-_ POLMOSS Polmoss (Bruxelles), Le Roman Scientifique
+_ POLMOSS Polmoss (Bruxelles) - Le Roman Scientifique
 !-----------------------------------------------------------------------------
 o POLMOSS     ?  1919.xx ..... ISBN -
 } noimg          _?                           ?
@@ -4626,10 +4383,150 @@ o POLMOSS     ?  1919.xx ..... ISBN -
 : .o .     N     _PASQUIER Alex               Une histoire d'automate ş1919
 
 !-----------------------------------------------------------------------------
-_ AEBLF   Association des crivains belques de langue fran‡aise, Nos Lettres, HS nø 1
+_ AEBLF   Association des crivains belques de langue fran‡aise (Belgique) - Nos Lettres, HS nø 1
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
 o AEBLF       ?  2020.03 ..... ISBN -
 } noimg          _?                           ?
 - .oS.     r     _PASQUIER Alex               Le Cerveau ‚lectrique ş2020
+
+!-----------------------------------------------------------------------------
+_ LETBELG Les Lettres Belges, A.S.B.L. (LiŠge, Belgique)
+!-----------------------------------------------------------------------------
+o LETBELG     ?  1960.xx ..... ISBN -
+} noimg          _?                           ?
+!--- GF 16 x 21 cm - 292 pages
+- .oF.    _N4    _THIRY Marcel                Nouvelles du Grand Possible ş1960
+: .o .   7 p     _VIVIER Robert               Introduction aux r‚cits en prose d'un poŠte ş1960
+: .o .  17 r     _THIRY Marcel                Distances ş1960
+: .o . 103 N     _THIRY Marcel                Je viendrai commeun voleur ş1960
+: .o . 149 N     _THIRY Marcel                Le Concerto pour Anne Queur ş1960
+: .o . 265 N     _THIRY Marcel                La PiŠce dans la piŠce ş1960
+
+!-----------------------------------------------------------------------------
+_ LUMIER  Les ‚ditions LumiŠre (Belgique)
+!-----------------------------------------------------------------------------
+!--- 
+!-----------------------------------------------------------------------------
+o LUMIER      ?  1944.xx ..... ISBN -
+} lum_fh_fv      _?                           ?
+!--- 229 pages - in-8
+- .oF.    kN4    _HELLENS Franz               Fant“mes vivants ş1944
+: .o .     N     _HELLENS Franz               Ma jeunesse et moi ş1944
+: .o .     N     _HELLENS Franz               Le PŠre et la Fille ş1944
+: .o .     N     _HELLENS Franz               La Femme et l'homme ş1944
+: .o .     N     _HELLENS Franz               Le Solitaire ş1944
+
+!-----------------------------------------------------------------------------
+_ EURYALE Editions d'Euryale (Belgique)
+!-----------------------------------------------------------------------------
+o EURYALE     ?  2007.11 ..... ISBN 978-2-9600766-0-8
+} euryale_reflets _Pascal Thiebaux             ?
+!--- 244 pages
+- .oF.     N7    _ROZENBERG Michel            Les Reflets de la conscience ş2007
+: .o .     p     _BOLDUC Claude               Pr‚face ş2007
+: .o .     N     _ROZENBERG Michel            Tout n'est qu'illusion ş2007
+: .o .     N     _ROZENBERG Michel            Ind‚cence ş2007
+: .o .     N     _ROZENBERG Michel            Allessandra ş2007
+: .o .     N     _ROZENBERG Michel            Bourg paisible ş2007
+: .o .     N     _ROZENBERG Michel            La Proximit‚ des extrˆmes ş2007
+: .o .     N     _ROZENBERG Michel            Jusqu'au bout des rˆves ş2007
+: .o .     N     _ROZENBERG Michel            Chinoiseries ş2007
+o EURYALE     ?  2008.02 ..... ISBN 978-2-9600766-0-8
+} euryale01      _Martine Fassier             ?
+!--- 167 pages -  210x150
+!--- Pr‚face de Jacques Blondiau
+- .oI.     C6    _BIDCHIREN Olivier           Les Miracles du temps ş2008
+: .o .     N     _BIDCHIREN Olivier           Le NeuviŠme Livre de Sappho ş2001
+: .o .     N     _BIDCHIREN Olivier           Le Jardin des Hesp‚rides ş2000
+: .o .     N     _BIDCHIREN Olivier           Le Mois de la S‚cheresse ş2001
+: .o .     N     _BIDCHIREN Olivier           Le Secret de l'‚g‚rie ş2001
+: .o .     N     _BIDCHIREN Olivier           L'Authentique histoire des Incorruptibles ş2001
+: .o .     N     _BIDCHIREN Olivier           Le MystŠre de la Grande Muraille ş2001
+
+!-----------------------------------------------------------------------------
+_ STORY   Story (Belgique)
+!-----------------------------------------------------------------------------
+!--- Source Michel Vincke :
+!--- p‚riodique belge.
+!--- Administration et ‚dition : Editions du Pont-Levis, rue du Houblon, 47 … Bruxelles
+!-----------------------------------------------------------------------------
+o STOR028     ?  1945.xx ..... ISBN -
+} noimg          _?                           ?
+>--- SERIAL : nø 28 (27/12/1945) … 57 (19/07/1946)
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan et le tr‚sor d'Opar [Tarzan - 5] ş1916 Tarzan and the Jewels of Opar
+o STOR177     ?  1948.xx ..... ISBN -
+} noimg          _?                           ?
+>--- SERIAL : nø 177 (05/11/1948) … 200 (15/04/1949)
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan s'‚vade [Tarzan - 12] ş1928 Tarzan and the Lost Empire
+o STOR241     ?  1950.xx ..... ISBN -
+} noimg          _?                           ?
+>--- SERIAL : nø 241 (26/01/1950) … 286 (07/12/1950)
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan [Tarzan - 1] ş1912 Tarzan of the Apes
+o STORY     287  1950.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     M     ****                         Story nø 287 ş1950
+: .o .     N     _DAVIDS Robert               La Caverne aux 100 000 regards ş1950
+o STORY     293  1951.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     M     ****                         Story nø 293 ş1951
+: .oZ.     N     _SEYR Jacques                La PremiŠre Hache ş1951
+
+!-----------------------------------------------------------------------------
+_ HEROALB Heroic Album (Belgique)
+!-----------------------------------------------------------------------------
+!--- P‚riodique BD
+!-----------------------------------------------------------------------------
+o HEROALB     ?  1953.xx ..... ISBN -
+} noimg          _?                           ?
+>--- SERIAL : 10iŠme ann‚e, nø 3, 7 et 10
+- .oS.     N     _SEYR Jacques                Dix mille ans aprŠs l'atome ş1953
+
+!-----------------------------------------------------------------------------
+_ ALERT   Alert (Belgique)
+!-----------------------------------------------------------------------------
+!--- 
+!-----------------------------------------------------------------------------
+o ALERT       ?  1945.xx ..... ISBN -
+} noimg          _?                           ?
+- .p .     Mx    ****                         Alert ş1945
+: .oS.     N     _DEWISME Charles Henri       Dix mille ans aprŠs l'atome ş1945
+
+!-----------------------------------------------------------------------------
+_ PHARDIM Phare Dimanche (Belgique)
+!-----------------------------------------------------------------------------
+!--- in Phare Dimanche
+!-----------------------------------------------------------------------------
+o PHARDIM   836  1962.01 ..... ISBN -
+} noimg          _?                           ?
+- .p .     Mx    ****                         Le Phare dimanche nø 836 ş1962
+: .oF.     N     _MONOD Jean-Louis M.         Le Venin ş1962
+
+!-----------------------------------------------------------------------------
+_ EDIMCOK Edimco (Belgique) - O.K. Magazine
+!-----------------------------------------------------------------------------
+!--- EDIMCO: Editions et Impressions Contemporaines
+!--- Format 13,5 cm x 20,5 cm, Hebdomadaire, 4.50 Fr puis 5Fr ou surtax‚,
+!--- Editeur et Imprimeur Ren‚ Warnotte, 55 avenue du Parc, Bruxelles,
+!--- EDIMCO, 51 rue TraversiŠre Bruxelles (Belgique) Distribution
+!--- Bruxelles-Paris-Amsterdam.
+!--- Publi‚ simultan‚ment en fran‡ais et en n‚erlandais.
+!--- 16 pages plus la couverture
+!-----------------------------------------------------------------------------
+o EDIMCOK    23  1945.xx ..... ISBN -
+} noimg          _?                           ?
+- .oS.     N     _BROWN Lewis                 L'Œle du n‚ant ş1945
+o EDIMCOK    41  1946.xx ..... ISBN -
+} noimg          _?                           ?
+- .oS.     N     _FELTZ Jean-Michel           L'Effroyable Chef-D'oeuvre ş1946
+o EDIMCOK    47  1946.xx ..... ISBN -
+} noimg          _?                           ?
+- .x .     N     _FELTZ Jean-Michel           La Guerre du Soleil ş1946
+o EDIMCOK    53  1946.xx ..... ISBN -
+} noimg          _?                           ?
+- .oS.     N     _FELTZ Jean-Michel           CroisiŠre en l'an 2000 ş1946
+o EDIMCOK    66  1946.xx ..... ISBN -
+} noimg          _?                           ?
+- .oS.     N     _FERENCZ Ladislaus           Le Microbe X ş1946
+

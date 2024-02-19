@@ -6,25 +6,53 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ ROCHER  Ed. du Rocher
-_ ROCHERN Ed. du Rocher, Coll. Nouvelles
-_ ROC_GCL Ed. du Rocher, Coll. Les Grands Classiques
-_ ROC_MLP Ed. du Rocher, Les maŒtres de la litt‚rature policiŠre
-_ ROC_NRP Ed. du Rocher, Coll. N.R.P./Litt‚rature
-_ ROC_LBL Ed. du Rocher, Coll. Les Belles Lettres
-_ ROC_MOT Ed. du Rocher, Coll. Motifs
+_ ROCHER  Editions du Rocher
+_ ROC_LIT Editions du Rocher - Litt‚rature
+_ ROC_GCL Editions du Rocher - Les Grands Classiques
+_ ROC_GRR Editions du Rocher - Grands Romans
+_ ROC_MYT Editions du Rocher - Romans Mythologiques
+_ ROC_MYP Editions du Rocher - MystŠres des provinces
+_ ROC_MLP Editions du Rocher - Les maŒtres de la litt‚rature policiŠre
+_ ROC_NRP Editions du Rocher - N.R.P./Litt‚rature
+_ ROC_LBL Editions du Rocher - Les Belles Lettres
+_ ROC_RMI Editions du Rocher - Roman-miroir
+_ ROC_MOT Editions du Rocher - Motifs
+_ ROC_ALP Editions du Rocher - Alph‚e
+_ ROC_INF Editions du Rocher - Les Infr‚quentables
+_ ROC_CHA Editions du Rocher - Champollion
+_ ROC_MVI Editions du Rocher - Mondes virtuels
+_ ROC_SUS Editions du Rocher - Suspense
+_ ROC_NFI Editions du Rocher - Nouvelle fiction
+_ ROC_BRO Editions du Rocher - Broc‚liande
+_ ROC_GNO Editions du Rocher - Gnose
+_ ROC_NUA Editions du Rocher - Nuage rouge
+_ ROC_PHI Editions du Rocher - La Pierre philosophale
+_ ROCHERN Editions du Rocher - Nouvelles
+_ ROC_S&F Editions du Rocher - Science et fiction
+!-----------------------------------------------------------------------------
+!--- Le Serpent … plumes et Motifs sont devenus des marques des ditions du Rocher, aussi les ouvrages peuvent ˆtre ‚dit‚s par les ditions du Rocher ou ses marques
 !-----------------------------------------------------------------------------
 
 o ROCHER      ?  1947.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _SHELLEY Mary                Frankenstein ş1818 Frankenstein or the Modern Prometheus şTrad. BETJEMAN Hannah
-o ROCHER      ?  1970.xx ..... ISBN -
+o ROCHER      ?  1988.09 ..... ISBN 2-268-00672-7
 } noimg          _?                           ?
+!--- D‚j… paru en 1947 mais autre traducteur
+!--- 249 pages - 23 cm - 89 francs
+- .oS.     R     _SHELLEY Mary                Frankenstein ş1818 Frankenstein or the Modern Prometheus şTrad. COUTURIAU Paul
+o ROC_GCL     ?  1994.xx ..... ISBN 2-268-01918-7
+} noimg          _?                           ?
+!--- 249 pages - 22 cm - 89 francs
+- .oS.     R     _SHELLEY Mary                Frankenstein ş1818 Frankenstein or the Modern Prometheus şTrad. COUTURIAU Paul
+o ROCHER      ?  1970.xx ..... ISBN -
+} rocher_annoatlantae _?                           ?
+!--- 221 pages - 20 cm - 17,10 francs
 - .oF.    _N15   _BECKERS Walter              Anno Atlantae ş1968
 : .oF.     p     _OWEN Thomas                 Introduction ş1968
 : .oF.     p     _FINNE Jacques               L'Oeuvre et son auteur ş1968
 : .oF.     N     _BECKERS Walter              Blanche pyramide ş1967 Witte piramide
-: .oF.     N     _BECKERS Walter              Hello my Dear ş1967 Hello my Dear
+: .oF.     N     _BECKERS Walter              Hello my Dear ş1967 Hello My Dear
 : .oF.     N     _BECKERS Walter              Une femme, un ange ş1967 Het engelmeisje
 : .oF.     N     _BECKERS Walter              L'Id‚e fixe de Zicherman ş1967 Zichermans dwanggedachte
 : .oF.     N     _BECKERS Walter              L'lixir d'amour ş1967 Het levenselixir
@@ -38,170 +66,454 @@ o ROCHER      ?  1970.xx ..... ISBN -
 : .oF.     N     _BECKERS Walter              Barrabas 1967 ş1967 Barabbas 1967
 : .oF.     N     _BECKERS Walter              Nuit et nuage sur C‚sar et Isabelle ş1967 Nacht en leven over Caesar en Isabelle
 : .oF.     N     _BECKERS Walter              Le Festin ş1967 Het feestmaal
-o ROC_NRP     ?  1987.xx ..... ISBN .-.....-...-.
+!------------------------
+!=== 1982
+!------------------------
+o ROC_RMI     ?  1982.xx ..... ISBN 2-268-00140-7
 } noimg          _?                           ?
-- .o .     R     _MEYRINK Gustav              L'Ange … la fenˆtre d'Occident ş1927 Der engel vom westlichen fenster
-o ROCHER      ?  1986.xx ..... ISBN .-.....-...-.
+- .o .     R     _JACQ Christian              La Prodigieuse aventure du Lama Dancing [Le Lama Dancing - 1] ş1982
+o ROC_GNO     ?  1982.xx ..... ISBN 2-268-00169-5
 } noimg          _?                           ?
-- .oY.     R     _SIMONAY Bernard             Dorian et Solyane - Ph‚nix Tome 1 [Trilogie de Ph‚nix - 1.1] ş1986
-o ROCHER      ?  1986.xx ..... ISBN .-.....-...-.
+!--- 21 cm - 188 pages - 60 francs
++ ROC_GNO     ?  1990.02 ..... ISBN 2-268-00169-5
 } noimg          _?                           ?
-- .oY.     R     _SIMONAY Bernard             L'Amour Interdit - Ph‚nix Tome 2 [Trilogie de Ph‚nix - 1.2] ş1986
-o ROCHER      ?  1988.xx ..... ISBN 2-268-00671-9
+- .o .     E     _BULTEAU Michel              Mythologie des filles des eaux ş1982
+o ROCHER      ?  1997.04 ..... ISBN 2-268-02557-8
 } noimg          _?                           ?
-- .o .     R     _SHELLEY Mary                Le Dernier Homme ş1826 The Last Man şTrad. COUTURIAU Paul
-o ROCHER      ?  1988.xx ..... ISBN .-.....-...-.
+!--- 20 cm - 187 pages - 98 francs
+- .o .     E     _BULTEAU Michel              Les Filles des eaux ş1982
+!------------------------
+!=== 1984
+!------------------------
+o ROC_S&F     ?  1984.xx ..... ISBN 2-268-00308-6
 } noimg          _?                           ?
-+ ROCHER      ?  1994.xx ..... ISBN .-.....-...-.
+!--- GF - 23 cm - 130 pages - 50 Francs
+- .o .     R     _CHAUVIN R‚my                Les Veilleurs du temps ş1984
+!------------------------
+!=== 1985
+!------------------------
+o ROC_LIT    19  1985.xx ..... ISBN 2-268-00140-7
 } noimg          _?                           ?
-+ ROCHER      ?  2003.04 ..... ISBN .-.....-...-.
+!--- 248 pages - 75 francs
++ ROC_LIT    19  2003.xx ..... ISBN 2-268-04545-5
 } noimg          _?                           ?
-- .o .     R     _SIMONAY Bernard             Ph‚nix [Trilogie de Ph‚nix - 1] ş1986
-o ROCHER      ?  1987.xx ..... ISBN .-.....-...-.
+!--- 261 pages - 23 cm - 18 euros
+- .o .     R     _MEYRINK Gustav              Le Visage vert ş1916 Das grune gesicht şTrad. SAMPIERI A. D.
+!------------------------
+!=== 1986
+!------------------------
+o ROCHER      ?  1986.03 ..... ISBN 2-268-00422-8
 } noimg          _?                           ?
-- .o .     N23   _MEYRINK Gustav              Histoires fantastiques ş1987
+- .o .     R     _MEYRINK Gustav              Le Dominicain blanc ş1921 Der weiáe dominikaner şTrad. SAMPIERI A.D.
+o ROC_PHI     ?  1995.xx ..... ISBN 2-268-01846-6
+} noimg          _?                           ?
+!--- 240 pages - 23 cm - 120 francs
+- .o .     R     _MEYRINK Gustav              Le Dominicain blanc ş1921 Der weiáe dominikaner şTrad. SAMPIERI A.D.
+o ROCHER      ?  2005.xx ..... ISBN 2-268-05123-4
+} noimg          _?                           ?
+!--- 244 pages - 23 cm
+- .o .     R     _MEYRINK Gustav              Le Dominicain blanc ş1921 Der weiáe dominikaner şTrad. SAMPIERI A.D.
+o ROCHER      ?  1986.xx ..... ISBN 2-268-00453-8
+} noimg          _?                           ?
+!--- 666 pages - in-8 - 120 francs
++ ROCHER      ?  1991.xx ..... ISBN ISBN 2-268-01181-X
+} noimg          _?                           ?
+- .oY.     R     _SIMONAY Bernard             Ph‚nix [Trilogie de Ph‚nix - 1] ş1986
+o ROC_GRR     ?  2003.04 ..... ISBN 2-268-04528-5
+} noimg          _?                           ?
+!--- 678 pages - 24 cm - 22 euros
+- .oY.     R     _SIMONAY Bernard             Ph‚nix [Trilogie de Ph‚nix - 1] ş1986
+o ROC_LIT    20  1986.xx ..... ISBN 2-268-00490-2
+} noimg          _?                           ?
+- .o .     R     _MEYRINK Gustav              L'Ange … la fenˆtre d'Occident ş1927 Der engel vom westlichen fenster şTrad. Saint-Helm
+!------------------------
+!=== 1987
+!------------------------
+o ROC_LIT     ?  1987.10 ..... ISBN 2-268-00588-7
+} rocher_meyrink_hf _?                           ?
+!--- 254 pages - 14 x 22 cm - 95 francs
+!--- Recueil de nouvelles extraites de "Des Deutschen Spiessers Wunderhorn", "Flederm„use" et "Das Haus zur letzten Latern"
 !--- Note : traduites par Elisabeth WILLENZ et Jean-Marc OISEL
-: .oF.     N     _MEYRINK Gustav              Le Cerveau ş? ?
+- .oF.     N23   _MEYRINK Gustav              Histoires fantastiques ş1987
+: .oF.     N     _MEYRINK Gustav              Le Cerveau ş1901 Das Gehirn
 : .oF.     N     _MEYRINK Gustav              L'Effroi ş? ?
-: .oF.     N     _MEYRINK Gustav              Dr. lederer ş? ?
-: .oF.     N     _MEYRINK Gustav              La Reine des C‚r‚belles ş? ?
-: .oF.     N     _MEYRINK Gustav              La Boule noire ş? ?
-: .oF.     N     _MEYRINK Gustav              La Pr‚paration ş1904 Das Pr„parat
-: .o .     N     _MEYRINK Gustav              Larmes de Bologne ş1904 Bologneser Tr„nen şTrad. POLLET Jean-Jacques
-: .oF.     N     _MEYRINK Gustav              Malade ş? ?
-: .oF.     N     _MEYRINK Gustav              Suggestion ş? ?
-: .oF.     N     _MEYRINK Gustav              G.M. ş? ?
+: .oF.     N     _MEYRINK Gustav              Dr. Lederer ş1903 Dr. Lederer
+: .oF.     N     _MEYRINK Gustav              La Reine des C‚r‚belles ş? Das K”nigin unter den Bregen
+: .oF.     N     _MEYRINK Gustav              La Boule noire ş1903 Die Schwarze Kugel
+: .oF.     N     _MEYRINK Gustav              La Pr‚paration ş1903 Das Pr„parat
+: .o .     N     _MEYRINK Gustav              Larmes de Bologne ş1903 Bologneser Tr„nen şTrad. POLLET Jean-Jacques
+: .oF.     N     _MEYRINK Gustav              Malade ş1902 Krank
+: .oF.     N     _MEYRINK Gustav              Suggestion ş1904 Eine Suggestion
+: .oF.     N     _MEYRINK Gustav              G.M. ş1904 G.M.
 : .o .     N     _MEYRINK Gustav              La Chute ş1904 Der Untergang şTrad. ?
 : .o .     N     _MEYRINK Gustav              Coagulum ş1904 Coagulum şTrad. ?
 : .o .     N     _MEYRINK Gustav              Les Plantes du Dr Cinderella ş1905 Die Pflanzen des Doktor Cinderella şTrad. ?
 : .o .     N     _MEYRINK Gustav              Ovinoglobine ş1906 Sch”psoglobin şTrad. ?
-: .oF.     N     _MEYRINK Gustav              Le Cerveau ‚vapor‚ ş? ?
+: .oF.     N     _MEYRINK Gustav              Le Cerveau ‚vapor‚ ş? Das verdunstete Gehirn
 : .o .     N     _MEYRINK Gustav              L'Anneau de Saturne ş1907 Der Saturnring şTrad. ?
-: .o .     N     _MEYRINK Gustav              FiŠvre ş? ? şTrad. ?
-: .o .     N     _MEYRINK Gustav              Le Jeu des grillons ş? ? şTrad. ?
-: .o .     N     _MEYRINK Gustav              Comment le Dr Job Paupersum apporta des roses rouges … sa fille ş? ? şTrad. ?
-: .o .     N     _MEYRINK Gustav              Le Cardinal Napellus ş? Der Kardinal Napellus şTrad. ?
-: .o .     N     _MEYRINK Gustav              La Visite de J.H. Obereit chez les sangsues du temps ş? J.H. Obereit besuch bei den Zeiten geln
-: .o .     N     _MEYRINK Gustav              MaŒtre L‚onard ş? ? şTrad. ?
+: .o .     N     _MEYRINK Gustav              FiŠvre ş1908 Das Fieber şTrad. ?
+: .o .     N     _MEYRINK Gustav              Le Jeu des grillons ş1915 Das Grillenspiel şTrad. ?
+: .o .     N     _MEYRINK Gustav              Comment le Dr Job Paupersum apporta des roses rouges … sa fille ş1915 Wie Dr. Hiob Paupersum seiner Tochter rote Rosen brachte şTrad. ?
+: .o .     N     _MEYRINK Gustav              Le Cardinal Napellus ş1913 Der Kardinal Napellus şTrad. ?
+: .o .     N     _MEYRINK Gustav              La Visite de J.H. Obereit chez les sangsues du temps ş1916 J.H. Obereits Besuch bei den Zeit-Egeln
+: .o .     N     _MEYRINK Gustav              MaŒtre L‚onard ş1916 Meister Leonhard şTrad. ?
 : .o .     N     _MEYRINK Gustav              Les Reflets ş? ? şTrad. ?
-o ROC_MLP     ?  1987.xx ..... ISBN .-.....-...-.
+o ROC_MLP     ?  1987.xx ..... ISBN 2-268-00573-9
 } noimg          _?                           ?
-- .o .     R     _TESSIER Thomas              La Nuit du sang ş1979 The Nightwalker
-!--- TBC 1989 ?
-!--- Note : trŠs bon roman de Loup-Garou
-o ROCHER      ?  1988.09 ..... ISBN 2-268-00672-7
+!--- 195 pages - 23 cm - 75 francs
+!--- Reconnu comme trŠs bon roman de Loup-Garou
+- .oF.     R     _TESSIER Thomas              La Nuit du sang ş1979 The Nightwalker şTrad. MARCEL Patrick
+o ROCHER      ?  1999.xx ..... ISBN 2-268-03230-2
 } noimg          _?                           ?
-!--- D‚j… paru en 1947 mais autre traducteur
-- .oS.     R     _SHELLEY Mary                Frankenstein ş1818 Frankenstein or the Modern Prometheus şTrad. COUTURIAU Paul
-o ROC_GCL     ?  1994.xx ..... ISBN 2-268-00672-7
+!--- 195 pages - 19 cm - 49 francs
+- .oF.     R     _TESSIER Thomas              La Nuit du sang ş1979 The Nightwalker şTrad. MARCEL Patrick
+o ROC_NRP     ?  1987.xx ..... ISBN 2-268-00583-6
 } noimg          _?                           ?
-- .oS.     R     _SHELLEY Mary                Frankenstein ş1818 Frankenstein or the Modern Prometheus şTrad. COUTURIAU Paul
-o ROCHER      ?  1988.11 ..... ISBN .-.....-...-.
+!--- 247 pages - 23 cm - 90 francs
+- .oF.     R     _HORIA Vintila               Une femme pour l'apocalypse ş1968
+!------------------------
+!=== 1988
+!------------------------
+o ROCHER      ?  1988.xx ..... ISBN 2-268-00671-9
+} noimg          _?                           ?
+!--- 420 pages - 23 cm - 130 francs
+- .o .     R     _SHELLEY Mary                Le Dernier Homme ş1826 The Last Man şTrad. COUTURIAU Paul
+o ROC_ALP     ?  1988.09 ..... ISBN 2-268-00675-1
+} noimg          _?                           ?
+!--- 316 pages - 20 cm - 64 francs
+- .oF.     R     _HAWTHORNE Nathaniel         La Maison aux sept pignons ş1851 The House of the Seven Gables şTrad. ?
+o ROCHER      ?  1988.11 ..... ISBN 2-268-00702-2
 } noimg          _?                           ?
 - .oY.     R     _SIMONAY Bernard             Graal [Trilogie de Ph‚nix - 2] ş1988
-o ROCHER      ?  1988.xx ..... ISBN .-.....-...-.
+o ROC_LIT     ?  1988.12 ..... ISBN 2-268-00731-6
 } noimg          _?                           ?
-- .oY.     R     _SIMONAY Bernard             L'Ombre du prophŠte - Graal Tome 1 [Trilogie de Ph‚nix - 2.1] ş1988
-o ROCHER      ?  1988.xx ..... ISBN .-.....-...-.
+!--- 24 cm - 367 pages - 130 francs
+- .oY.     R     _ERSKINE Barbara             L'Autre Vie de Lady H. ş1986 Lady of Hay şTrad. DERBLUM Corine
+!------------------------
+!=== 1989
+!------------------------
+o ROC_ALP     ?  1989.01 ..... ISBN 2-268-00741-3
 } noimg          _?                           ?
-- .oY.     R     _SIMONAY Bernard             Le Sacrifice - Graal Tome 2 [Trilogie de Ph‚nix - 2.2] ş1988
-o ROC_NRP     ?  1989.xx ..... ISBN .-.....-...-.
+- .o .     R     _MEYRINK Gustav              La Nuit de Walpurgis ş1917 Walpurgisnacht şTrad. SAMPIERI A.D.
+o ROC_MYT     ?  1989.xx ..... ISBN 2-268-00835-5
 } noimg          _?                           ?
-- .o .     R     _MEYRINK Gustav              La Nuit de Walpurgis ş1917 Walpurgisnacht
-o ROCHER      ?  1990.06 ..... ISBN .-.....-...-.
+!--- 301 pages - 24 cm - 120 francs
+- .o .     R     _RACHET Guy                  Les 12 Travaux d'Hercule ş1989
+o ROC_GNO     ?  1989.xx ..... ISBN 2-268-00866-5
 } noimg          _?                           ?
-+ ROCHER      ?  2001.06 ..... ISBN .-.....-...-.
+!--- 296 pages - 20 cm - 120 francs
++ ROC_GNO     ?  1997.xx ..... ISBN 2-268-02653-1
+} noimg          _?                           ?
+- .o .    iNx    _SHAH Idries                 Caravane de rˆves ş1968 Caravan of Dreams şTrad. NEAUMET Jean
+o ROC_MYT     ?  1989.xx ..... ISBN 2-268-00868-1
+} noimg          _?                           ?
+!--- 223 pages - 24 cm - 120 francs
+- .o .     R     _GRIMAL Pierre               Le Merveilleux Voyage d'Ulysse ş1989
+!------------------------
+!=== 1990
+!------------------------
+o ROCHER      ?  1990.06 ..... ISBN 2-268-00975-0
+} noimg          _?                           ?
+!--- 500 pages - 24 cm - 145 francs
+- .o .     R     _SIMONAY Bernard             La Mal‚diction de la licorne [Trilogie de Ph‚nix - 3] ş1990
+o ROC_GRR     ?  2001.06 ..... ISBN 2-268-04004-6
+!--- 500 pages - 24 cm - 145 francs
 } noimg          _?                           ?
 - .o .     R     _SIMONAY Bernard             La Mal‚diction de la licorne [Trilogie de Ph‚nix - 3] ş1990
-o ROCHER      ?  1991.xx ..... ISBN .-.....-...-.
+o ROC_MYT     ?  1990.xx ..... ISBN 2-268-00888-6
 } noimg          _?                           ?
+!--- 399 pages - 24 cm - 130 francs
+- .o .     R     _FREDERIC Louis              Les Noces indiennes de Rƒma et Sitƒ ş1990
+!------------------------
+!=== 1991
+!------------------------
+o ROCHER      ?  1991.xx ..... ISBN 2-268-01165-8
+} noimg          _?                           ?
+!--- 259 pages - 23 cm - 98 francs
 - .oF.     R     _SADOUL Jacques              La Cit‚ fabuleuse [Le Domaine de R.] ş1991
-o ROCHER      ?  1991.xx ..... ISBN .-.....-...-.
+o ROC_LIT     ?  1991.xx ..... ISBN 2-268-01231-x
 } noimg          _?                           ?
-- .o .     E     _LACASSIN Francis            Mythologie du fantastique ş?
-
+!--- 388 pages - 23 cm - 145 francs
+- .o .     E     _LACASSIN Francis            Mythologie du fantastique ş1991
+!------------------------
+!=== 1992
+!------------------------
+o ROC_INF     ?  1992.xx ..... ISBN 2-268-01336-7
+} noimg          _?                           ?
+!--- 187 pages - 20 cm - 120 francs
+- .oS.     b     _VILA Christian              William S. Burroughs - Le G‚nie empoisonn‚ ş1992
+o ROC_CHA     ?  1992.xx ..... ISBN 2-268-01459-2
+} noimg          _?                           ?
+!--- 168 pages - 24 cm - 69 francs
+- .o .     R     _GAUTIER Th‚ophile           Le Roman de la momie ş1857
+o ROC_LIT     ?  1992.xx ..... ISBN 2-268-01371-5
+} noimg          _?                           ?
+!--- 214 pages - 23 cm - 120 francs
+- .oBF     R     _DUBOISSET Dominique         Les boucles de Nephtys ş1997
+!------------------------
+!=== 1993
+!------------------------
+o ROCHER      ?  1993.xx ..... ISBN 2-268-01512-2
+} noimg          _?                           ?
+!--- 20 cm - 180 pages - 89 Francs
+- .o .     R     _CHAUVIN R‚my                 Le Nouveau Golem ş1993
+o ROC_MVI     ?  1993.xx ..... ISBN 2-268-01525-4
+} noimg          _?                           ?
+!--- GF - 24 cm - 378 pages - 135 francs
+- .o .     R     _CARRE Lydie                 La Rose de Noumah ş1993
+!------------------------
+!=== 1994
+!------------------------
+o ROC_MVI     ?  1994.01 ..... ISBN 2-268-01639-0
+} noimg          _?                           ?
+- .o .     R     _SIMONAY Bernard             La Porte de bronze ş1994
+o ROC_MVI     ?  1994.05 ..... ISBN 2-268-01751-6
+} noimg          _?                           ?
+- .o .     R     _SIMONAY Bernard             Le Prince d‚chu [Les Enfants de l'Atlantide - 1] ş1994
+o ROC_GCL     ?  1994.10 ..... ISBN 2-268-01835-0
+} rocher_contesnoel1 _?                           ?
+!--- 298 pages - 14,5 x 22 cm - 33,90 francs
+- .oMF    _A10   *LACASSIN Francis            Contes de No‰l ş1994
+: .o .   7 p     _LACASSIN Francis            Quelques No‰ls de l'Šre pr‚-atomique ş1889
+: .o .  11 N     _FRANCE Anatole              Balthasar ş1889
+: .o .  29 N     _PONSON DU TERRAIL           La F‚e de No‰l ş?
+: .oF.  45 N     _ERCKMANN-CHATRIAN           Entre deux vins ş1860
+: .o .  53 N     _DAUDET Alphonse             Les Trois Messes basses ş1860
+: .o .  65 N     _MAUPASSANT Guy de           Conte de No‰l ş1882
+: .oS.  75 N     _VERNE Jules                 M. R‚-DiŠse et Mlle Mi-B‚mol ş1893
+: .o . 113 N     _LE BRAZ Anatole             Le Forgeron de Plouz‚lambre ş?
+: .oF. 137 N     _GOGOL Nicolas               La Nuit de No‰l ş1832 Notch' pered rojdestvom şTrad. ?
+: .o . 203 N     _ANDERSEN Hans Christian     Le Sapin ş1844 Grantraeet şTrad. ?
+: .o . 217 r     _DICKENS Charles             Un cantique de No‰l ş1843 A Christmas Carol şTrad. ?
+!------------------------
+!=== 1995
+!------------------------
+o ROC_MVI     ?  1995.02 ..... ISBN 2-268-01915-2
+} noimg          _?                           ?
+- .o .     R     _SIMONAY Bernard             L'Archipel du soleil [Les Enfants de l'Atlantide - 2] ş1995
 o ROCHER      ?  1995.04 ..... ISBN 2-268-01993-4
 } noimg          _Martin Fraudeau             ?
 - .o .     E     _KING Stephen                Anatomie de l'horreur [Anatomie de l'horreur - 1] ş1981 Danse Macabre şTrad. BREQUE Jean-Daniel
-o ROCHER      ?  1996.04 ..... ISBN 2-268-02079-7
-} noimg          _Cherville                   ?
-- .o .     E     _KING Stephen                Pages noires [Anatomie de l'horreur - 2] ş1981 Danse Macabre şTrad. BREQUE Jean-Daniel
-o ROCHER      ?  1995.xx ..... ISBN 2-268-01846-6
+o ROC_GCL     ?  1995.10 ..... ISBN 2-268-02121-1
+} rocher_contesnoel2 _?                           ?
+!--- 420 pages - 14,5 x 22 cm - 49,90 francs
+- .oMF    _A12   *LACASSIN Francis            Contes de No‰l ** ş1995
+: .o .   7 N     _LORRAIN Jean                La Marjolaine ş1896
+: .o .  15 N     _ANDERSEN Hans Christian     Le Dernier Rˆve du vieux chˆne ş1858 Det gamle Egetr&aelig;es sidste Dr›m şTrad. ?
+: .o .  25 N     _LORRAIN Jean                La Princesse sous verre ş1895
+: .o .  45 N     _LE BRAZ Anatole             No‰l de Chouans ş1897
+: .o .  67 N     _LENOTRE G.                  Le Petit No‰l de quatre sans-culottes ş1910
+: .o .  79 N     _ANDERSEN Hans Christian     Le Livre de l'infirme ş1872 Bogen om Hugleik şTrad. ?
+: .o .  95 N     _LENOTRE G.                  La CarriŠre de monsieur Colleret ş1910
+: .o . 107 N     _FRANCE Anatole              La Messe des ombres ş1890
+: .o . 115 N     _LE BRAZ Anatole             Le No‰l de Jean Rumengol ş1897
+: .x . 143 N     _DOYLE Arthur Conan          Sherlock Holmes et le mystŠre de l'escarboucle bleue ş1892 The Adventure of the Blue Carbuncle şTrad. ?
+: .o . 173 r     _DICKENS Charles             Les Carillons ş1844 The Chimes şTrad. ?
+: .oF. 295 r     _DICKENS Charles             L'Homme hant‚ ş1848 The Haunted Man and the Ghost's Bargain / The Haunted Man şTrad. ?
+o ROC_NUA     ?  1995.06 ..... ISBN 2-268-02045-2
 } noimg          _?                           ?
-- .o .     R     _MEYRINK Gustav              Le Dominicain blanc ş1921 Der weiáe dominikaner şTrad. SAMPIERI A.D.
-o ROCHER      ?  1996.06 ..... ISBN .-.....-...-.
-!--- r‚‚d. 2003.02
+!--- 290 pages - 14 x 23 cm - 135 francs
++ ROC_NUA     ?  1997.05 ..... ISBN 2-268-02636-1
 } noimg          _?                           ?
-- .xPT     R     _SIMONAY Bernard             La Lande maudite ş1996
-o ROCHER      ?  2000.06 ..... ISBN .-.....-...-.
+- .oO.    iYx    _EDMONDS Margot             &Les Voix du vent [L‚gendes indiennes - 1] ş1989 Voices of the Winds: Native American Legends şTrad. LARUELLE DaniŠle
+&                _CLARK Ella E.               
+o ROC_NUA     ?  1995.11 ..... ISBN 2-268-02129-7
 } noimg          _?                           ?
-- .oPT     R     _SIMONAY Bernard             La Fille du diable ş2000
-o ROCHER      ?  1994.05 ..... ISBN .-.....-...-.
+!--- 300 pages - 14 x 23 cm - 139 francs
+- .oO.    iYx    _EDMONDS Margot             &Le Chant de l'aigle [L‚gendes indiennes - 2] ş1989 Voices of the Winds: Native American Legends şTrad. LARUELLE DaniŠle
+&                _CLARK Ella E.               
+!------------------------
+!=== 1996
+!------------------------
+o ROC_BRO     ?  1996.01 ..... ISBN 2-268-02099-1
 } noimg          _?                           ?
-!--- TBC en 1994 : collection "Mondes Virtuels" ?
-+ ROCHER      ?  1997.xx ..... ISBN .-.....-...-.
+!--- 245 pages - 16 x 24 cm - 130 francs
+!--- Pr‚face de Jean Markale
+!--- Traduit en fran‡ais par George Dottin dans les Annales de Bretagne dŠs 1892
+!--- Publi‚s originallement sous "Contes irlandais" en ‚dition bilingue ga‚lique et fran‡ais, en 1893, 1937 et 1980
+!--- "Contes Irlandais- An Sg‚aluidhe Gaedhealach" : Chez "Slatkine Reprints" en 1980 : 2051001189 ; 69,00 ? ; 11/07/2000 ; 687 p. ; Reli‚ - Avec une pr‚face de Donatien Laurent
+!--- l'‚dition fran‡aise uniquement de 35 contes seulement, sans la troisiŠme partie du livre initial intitul‚e ®La semaine du conteur v‚ridique¯. 
+!--- possiblement la premiŠre partie de : https://www.arbredor.com/ebooks/ContesIrlandais.pdf
+!--- aussi : https://lessaisons.fr/livre/1538778-les-sept-nuits-du-conteur-henri-huerre-terre-de-brume-ed
+!--- https://www.amazon.fr/Contes-Irlandais-Georges-Dottin/dp/2842650352
+- .oN.    iNx    _HYDE Douglas                Contes ga‚liques ş1980 şTrad. DOTTIN Georges
+o ROC_MVI     ?  1996.03 ..... ISBN 2-268-02087-8 
 } noimg          _?                           ?
-+ ROCHER      ?  2000.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _SIMONAY Bernard             Le Prince d‚chu [Les Enfants de l'Atlantide - 1] ş1994
-o ROCHER      ?  1995.02 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _SIMONAY Bernard             L'Archipel du soleil [Les Enfants de l'Atlantide - 2] ş1995
-o ROCHER      ?  1996.03 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
+!--- 339 pages - 24 cm - 129 francs
 - .o .     R     _SIMONAY Bernard             Le Cr‚puscule des g‚ants [Les Enfants de l'Atlantide - 3] ş1996
+o ROC_SUS     ?  1996.04 ..... ISBN 2-268-02079-7
+} noimg          _Cherville                   ?
+!--- 286 pages - 24 cm - 119 francs
+- .o .     E     _KING Stephen                Pages noires [Anatomie de l'horreur - 2] ş1981 Danse Macabre şTrad. BREQUE Jean-Daniel
+o ROCHERN     ?  1996.04 ..... ISBN 2-268-02241-3
+} noimg          _?                           ?
+!--- 87 pages - 120 x 165 mm - 39 francs
+- .o .     r     _SCHNEIDER Marcel            La Jeune Fille au sablier ş1996
+o ROCHER      ?  1996.06 ..... ISBN 2-268-02308-7
+} noimg          _?                           ?
++ ROCHER      ?  2003.02 ..... ISBN ?
+} noimg          _?                           ?
+- .oPT     R     _SIMONAY Bernard             La Lande maudite ş1996
+o ROC_NFI     ?  1996.10 ..... ISBN 2-268-02259-5
+} noimg          _?                           ?
+!--- 264 pages - 16 x 24 cm - 149 francs
+- .oS.    iAx    ****                         Demain, les momies ! ş1996
 o ROCHER      ?  1996.11 ..... ISBN 2-268-02414-8
 } noimg          _?                           ?
+!--- TBD : Genre limite... Mettre un "?" ?
 - .o .     N     _CHATEAUREYNAUD G.-O.        Les Ormeaux ş1996
-o ROCHER      ?  1999.xx ..... ISBN 2-268-03372-4
+o ROCHERN     ?  1996.xx ..... ISBN 2-268-02250-1
 } noimg          _?                           ?
-- .oS.     R     _BAUDINAT Charles           &Peur noire ş1999
-&                _BORGET Michel               
-o ROCHER      ?  2001.10 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _SIMONAY Bernard             Le Secret interdit [Les Enfants de l'Atlantide] ş2001
-o ROCHER      ?  2003.10 ..... ISBN 2-268-04872-.
-} noimg          _?                           ?
-- .oF.     R     _DJANA                      &La Bˆte des t‚nŠbres ş2003
-&                _PASCAL Michel               
-o ROCHER      ?  2003.11 ..... ISBN 2-268-04846-2
-} noimg          _?                           ?
-- .o .     R     _SIMONAY Bernard             La Terre des morts [Les Enfants de l'Atlantide - 4] ş2003
-o ROCHER      ?  1994.01 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _SIMONAY Bernard             La Porte de bronze ş1994
+!--- 45 pages - 17 cm - 39 francs
+!--- ‚dition bilingue
+- .o .     N     _THOMAS Dylan                L'‚cole des sorciŠres ş1936 The School for Witches şTrad. BULTEAU Michel
 o ROCHER      ?  1996.xx ..... ISBN 2-268-02377-X
 } noimg          _?                           ?
 - .oS.     R     _ALBERT-WEIL Jean-Claude     Sont les oiseaux... [Saga du Contre-Monde - 1] ş1996
-o ROCHER      ?  1997.xx ..... ISBN 2-268-025926
+o ROC_GRR     ?  1996.xx ..... ISBN 2-268-02290-0
+} noimg          _?                           ?
+!--- 271 pages 24 cm - 110 francs
+- .oS.     R     _BATES Brian                 Le Sorcier - La Voie du Wyrd ş1983 The Way of Wyrd şTrad. APREMONT Arnaud d'
+!------------------------
+!=== 1997
+!------------------------
+o ROC_GRR     ?  1997.xx ..... ISBN 2-268-02592-6
 } noimg          _?                           ?
 - .o .     R     _ALTEN Steven                M‚galodon [Meg - 1] ş1997 MEG şTrad. JOANIN Laure
-?o ROCHER      ?  2001.xx ..... ISBN .-.....-...-.
-?!--- TBD parution et genre … confirmer
-?} noimg          _?                           ?
-?- .o .     .     _BREKILIEN                   Le Druide ş?
-o ROCHER      ?  1999.xx ..... ISBN .-.....-...-.
+o ROC_NUA     ?  1997.xx ..... ISBN 2-268-02641-8
 } noimg          _?                           ?
+!--- 182 pages - 23 cm - 120 francs
+!--- Legend of the Dream Woman (Peyote) -- Legend of the Swift Wind (The Roadrunner) -- Legend of the Vexing Visitor (The Fly) 
+!--- Legend of the Flower Maiden (The Butterfly) -- Legend of the Thunder Wish (The Buffalo) -- Legend of the Endless War (The Cat and the Dog) 
+!--- Legend of the Black Flame (The Gila Monster) -- Legend of the Twin Kings (The Eagle and the Bear) 
+!--- Legend of the Desert Guardian (The Rattlesnake) -- Legend of the Wind Dancer (The Hummingbird). 
+- .oN.    iNx    _CUEVAS Lou                  L‚gendes apaches - White Mountains et Jicarillas ş1991 Apache Legends, Songs of the Wind Dancer şTrad. VAN CLEEVE Sandrine
+o ROC_GRR     ?  1997.11 ..... ISBN 2-268-02712-0
+} noimg          _?                           ?
+!--- 413 pages - 15 x 24 cm - 129 francs
+- .oBF     R     _MARTIN Manuel M.            Genia ş1997
+!------------------------
+!=== 1998
+!------------------------
+o ROC_GRR     ?  1998.xx ..... ISBN 2-268-02851-8
+} noimg          _?                           ?
+!--- 394 pages - 23 cm - 89 francs
+- .oY.     R     _SIMONAY Bernard             Dorian et Solyane - Ph‚nix Tome 1 [Trilogie de Ph‚nix - 1.1] ş1986
+o ROC_GRR     ?  1998.xx ..... ISBN 2-268-02852-6
+} noimg          _?                           ?
+!--- 465 pages - 23 cm - 89 francs
+- .oY.     R     _SIMONAY Bernard             L'Amour interdit - Ph‚nix Tome 2 [Trilogie de Ph‚nix - 1.2] ş1986
+o ROCHER      ?  1998.xx ..... ISBN 2-268-03043-1
+} noimg          _?                           ?
+!--- 149 pages - 22 cm - 89 francs
+- .oF.     R     _WIESEL Elie                 Le Golem - L‚gende d'une l‚gende ş1998
+o ROC_BRO     ?  1998.01 ..... ISBN 2-268-02768-6
+} noimg          _?                           ?
+!--- 194 pages - 140 x 226 mm - 135 francs
+- .oO.    iNx    _OPLER Morris Edward         Mythes et contes des Apaches chiricahuas ş1942 Myths and tales of the Chiricahua Apache Indians şTrad. SABATHE Philippe
+o ROC_BRO     ?  1998.05 ..... ISBN 2-268-02946-8
+} noimg          _?                           ?
+!--- 194 pages - 140 x 226 mm - 135 francs
+- .oO.    iNx    _BREKILIEN Yann              Les mythes traditionnels de Bretagne ş1998
+o ROCHERN     ?  1998.10 ..... ISBN 2-268-02944-1
+} noimg          _?                           ?
+!--- 77 pages - 119 x 165 mm - 34 francs
+!--- ‚dition bilingue
+- .pF.    kN2    _THURBER James               Le Chien qui mordait les gens, suivi de La Nuit o— le fant“me apparut ş1998
+: .x .     N     _THURBER James               Le Chien qui mordait les gens ş1945 The Dog that Bit People şTrad. GUYON Jeanne
+: .o .     N     _THURBER James               La Nuit o— le fant“me apparut ş1933 The Night the Ghost Got in şTrad. GUYON Jeanne
+o ROC_LIT     ?  1999.01 ..... ISBN 2-268-03146-2
+} noimg          _?                           ?
+!--- 174 pages - 11,9 x 18,3 cm - 145 francs
+- .oF.     R     _DELERM Philippe             Mister Mouse ou La m‚taphysique du terrier ş1999
+!------------------------
+!=== 1999
+!------------------------
+o ROC_GRR     ?  1999.xx ..... ISBN 2-268-03150-0
+} noimg          _?                           ?
+!--- 130 pages - 11,5 x 19,0 cm
 - .oY.     R     _CHANTEFABLE Renaud          Le FrŠre crapaud [L'H‚ritiŠre des templiers - 1] ş1999
-o ROCHER      ?  1999.xx ..... ISBN .-.....-...-.
+o ROC_INF     ?  1999.xx ..... ISBN 2-268-03182-9
+} noimg          _?                           ?
++ ROC_INF     ?  2005.09 ..... ISBN 2-268-05548-5
+} noimg          _?                           ?
+!--- 133 pages - 13,5 x 20,0 cm
+!--- Pr‚face de Stephen King traduit par Philippe Mikriammos... seulement dans la r‚‚dition 2005 (pas la 2007)
++ ROC_INF     ?  2007.xx ..... ISBN ?
+} noimg          _?                           ?
+- .oF.     b     _HOUELLEBECQ Michel          H. P. Lovecraft - Contre le monde, contre la vie ş1992
+o ROC_GRR     ?  1999.xx ..... ISBN 2-268-03233-7
 } noimg          _?                           ?
 - .oY.     R     _CHANTEFABLE Renaud          Le Chevalier de Quaranteine [L'H‚ritiŠre des templiers - 2] ş1999
-o ROCHER      ?  1999.xx ..... ISBN .-.....-...-.
+o ROC_GRR     ?  1999.xx ..... ISBN 2-268-03363-5
 } noimg          _?                           ?
 - .oY.     R     _CHANTEFABLE Renaud          Les Ap“tres du nouveau temple [L'H‚ritiŠre des templiers - 3] ş1999
-o ROCHER      ?  2000.xx ..... ISBN .-.....-...-.
+o ROC_GRR     ?  1999.xx ..... ISBN 2-268-03309-0
+} noimg          _?                           ?
+- .oY.     R     _SIMONAY Bernard             L'Ombre du prophŠte - Graal Tome 1 [Trilogie de Ph‚nix - 2.1] ş1988
+o ROC_GRR     ?  1999.xx ..... ISBN 2-268-03307-4
+} noimg          _?                           ?
+- .oY.     R     _SIMONAY Bernard             Le Sacrifice - Graal Tome 2 [Trilogie de Ph‚nix - 2.2] ş1988
+o ROC_LBL     ?  1999.10 ..... ISBN 2-268-03372-4
+} noimg          _?                           ?
+!--- en co-‚dition avec Les Belles Lettres ?
+- .oS.     R     _BAUDINAT Charles           &Peur noire ş1999
+&                _BORGET Michel               
+!------------------------
+!=== 2000
+!------------------------
+o ROC_MYP     ?  2000.01 ..... ISBN 2-268-03382-1
+} rocher_mystp_cabane _?                           ?
+!--- 228 pages - 14 x 23 cm - 115 francs
+- .oF.     A12   _PEYRAMAURE Michel           La Cabane aux f‚es et autres histoires myst‚rieuses ş2000
+: .o .     N     _PEYRAMAURE Michel           La Nuit des pierres sauvages ş2000
+: .o .     N     _PEYRAMAURE Michel           La Nuit des fontaines ş2000
+: .o .     N     _PEYRAMAURE Michel           La Nuit des villes mortes ş2000
+: .o .     N     _PEYRAMAURE Michel           La Nuit des animaux ş2000
+: .o .     N     _PEYRAMAURE Michel           La Nuit des saints ş2000
+: .o .     N     _PEYRAMAURE Michel           La Nuit des familles ş2000
+: .o .     N     _PEYRAMAURE Michel           La Nuit illumin‚e ş2000
+: .o .     N     _PEYRAMAURE Michel           La Nuit des sortilŠges ş2000
+: .o .     N     _PEYRAMAURE Michel           La Nuit des l‚gendes ş2000
+: .o .     N     _PEYRAMAURE Michel           La Nuit des mystŠres ş2000
+: .o .     N     _PEYRAMAURE Michel           La Nuit des superstitions ş2000
+: .o .     N     _PEYRAMAURE Michel           La Nuit ensorcel‚e ş2000
+o ROC_MYP     ?  2000.01 ..... ISBN 2-268-03400-3
+} rocher_mystp_chaudron _?                           ?
+!--- 136 pages - 23 cm - 89 francs
+- .oY.    iAx    _SOYEZ Jean-Marc             Le Chaudron de la sorciŠre et autres histoires myst‚rieuses ş1999
+o ROC_GRR     ?  2000.01 ..... ISBN 2-268-03293-0
 } noimg          _?                           ?
 - .oY.     R     _CHANTEFABLE Renaud          La Colombe cach‚e [L'H‚ritiŠre des templiers - 4] ş2000
+
+
+
+o ROCHER      ?  2000.06 ..... ISBN 2-268-03616-2
+} noimg          _?                           ?
+!--- 261 pages - 24 cm - 118 francs
+- .oPT     R     _SIMONAY Bernard             La Fille du diable ş2000
+o ROCHER      ?  2000.11 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _SIMONAY Bernard             Le Roman de la Belle et la Bˆte ş2000
 o ROCHER      ?  2000.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _BAXTER Stephen             &LumiŠre des jours enfuis ş2000 The Light of Other Days şTrad. ABADIA Guy
 &                _CLARKE Arthur C.            
-o ROCHER      ?  2000.11 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _SIMONAY Bernard             Le Roman de la Belle et la Bˆte ş2000
 o ROCHER      ?  2000.xx ..... ISBN 2-268-03453-4
 } noimg          _?                           ?
 - .o .     R     _ALTEN Steve                 La Terreur des abysses [Meg - 2] ş1999 The Trench şTrad. ELSEN Marie-Claude
+!------------------------
+!=== 2001
+!------------------------
+o ROCHER      ?  2001.03 ..... ISBN 2-268-03909-9
+} noimg          _?                           ?
++ ROCHER      ?  2002.05 ..... ISBN 2-268-04308-8
+} noimg          _?                           ?
+- .oY.     R     _BRADLEY Marion Zimmer      &La Prˆtresse d'Avalon [Les Dames du lac - 4] ş2000 Priestress of Avalon şTrad. LEBAILLY Monique & OCHS Edith
+&                _PAXSON Diana L.             
+o ROCHER      ?  2001.10 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     R     _SIMONAY Bernard             Le Secret interdit [Les Enfants de l'Atlantide] ş2001
 o ROCHER      ?  2001.xx ..... ISBN 2-268-03897-1
 } noimg          _?                           ?
 - .o .     R     _ALTEN Steve                 Le Serpent de l'apocalypse [La Proph‚tie maya - 1] ş2001 Domain şTrad. ELSEN Marie-Claude
@@ -214,9 +526,9 @@ o ROCHER      ?  2001.xx ..... ISBN .-.....-...-.
 - .o .     R     _LENNOX Ring                 Possession ş?
 o ROCHER      ?  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+!--- TBC : vo : 1993 ?
 - .o .     R     _CLARKE Arthur C.           &La D‚tente [Le Feu aux poudres - 1] ş1999 The Trigger şTrad. ABADIA Guy
 &                _KUBE-McDOWELL Michael       
-!--- TBC : vo : 1993 ?
 ?o ROCHER      ?  2001.xx ..... ISBN .-.....-...-.
 ?!--- TBD parution et genre … confirmer
 ?} noimg          _?                           ?
@@ -224,15 +536,38 @@ o ROCHER      ?  2001.xx ..... ISBN .-.....-...-.
 o ROCHER      ?  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _CHANTEFABLE Renaud          La Vengeance du templier [La Vengeance du templier - 1] ş2001
+o ROCHER      ?  2001.xx ..... ISBN 2-268-.....-.
+} noimg          _?                           ?
+- .xP.     R     _SIMMONS Dan                 Vengeance [Trilogie Joe Kurtz - 1] ş2000 Hardcase şTrad. ?
 o ROCHER      ?  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _CHANTEFABLE Renaud          L'Oiseau prophŠte [La Vengeance du templier - 2] ş2001
-o ROCHER      ?  2001.03 ..... ISBN 2-268-03909-9
+?o ROCHER      ?  2001.xx ..... ISBN .-.....-...-.
+?!--- TBD parution et genre … confirmer
+?} noimg          _?                           ?
+?- .o .     .     _BREKILIEN                   Le Druide ş?
+!------------------------
+!=== 2002
+!------------------------
+o ROCHER      ?  2002.02 ..... ISBN 2-268-04321-5
 } noimg          _?                           ?
-+ ROCHER      ?  2002.05 ..... ISBN 2-268-04308-8
+- .o .     R     _BRADLEY Marion Zimmer      &La Princesse au dragon ş1997 The Gratitude of Kings şTrad. LEBAILLY Monique
+&                _WATERS Elisabeth            
+o ROCHERN     ?  2002.08 ..... ISBN 2-268-04402-5
 } noimg          _?                           ?
-- .oY.     R     _BRADLEY Marion Zimmer      &La Prˆtresse d'Avalon [Les Dames du lac - 4] ş2000 Priestress of Avalon şTrad. LEBAILLY Monique & OCHS Edith
-&                _PAXSON Diana L.             
+- .o .     N     _CHATEAUREYNAUD G.-O.        Civils de plomb ş1998
+o ROCHER      ?  2002.10 ..... ISBN 2-268-04362-2
+} noimg          _?                           ?
+- .o .     R     _BRADLEY Marion Zimmer       La Maison entre les mondes ş1980 The House Between the World şTrad. LEBAILLY Monique
+o ROCHER      ?  2002.xx ..... ISBN 2-268-04448-3
+} noimg          _?                           ?
+- .o .     R     _ALTEN Steve                 Goliath ş2002 Goliath şTrad. ELSEN Marie-Claude
+o ROCHER      ?  2002.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oY.     R     _CHANTEFABLE Renaud          La Pierre de Monts‚gur [La Princesse cathare - 1] ş2002
+o ROCHER      ?  2002.xx ..... ISBN -268-04318-5
+} noimg          _?                           ?
+- .x .     R     _SIMMONS Dan                 L'p‚e de Darwin ş2000 Darwin's Blade şTrad. ABADIA Guy
 o ROCHER      ?  2002.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _CHANTEFABLE Renaud          Le Fils du diable [La Vengeance du templier - 3] ş2002
@@ -244,31 +579,12 @@ o ROCHER      ?  2002.xx ..... ISBN .-.....-...-.
 ?!--- TBC Genre
 ?} noimg          _?                           ?
 ?- .? .     R     _REBONDY Michel              Le SixiŠme Doigt ş2002
-o ROCHER      ?  2002.02 ..... ISBN 2-268-04321-5
-} noimg          _?                           ?
-- .o .     R     _BRADLEY Marion Zimmer      &La Princesse au dragon ş1997 The Gratitude of Kings şTrad. LEBAILLY Monique
-&                _WATERS Elisabeth            
-o ROCHER      ?  2002.10 ..... ISBN 2-268-04362-2
-} noimg          _?                           ?
-- .o .     R     _BRADLEY Marion Zimmer       La Maison entre les mondes ş1980 The House Between the World şTrad. LEBAILLY Monique
-o ROCHER      ?  2002.xx ..... ISBN 2-268-04448-3
-} noimg          _?                           ?
-- .o .     R     _ALTEN Steve                 Goliath ş2002 Goliath şTrad. ELSEN Marie-Claude
-o ROCHERN     ?  2002.08 ..... ISBN 2-268-04402-5
-} noimg          _?                           ?
-- .o .     N     _CHATEAUREYNAUD G.-O.        Civils de plomb ş1998
-o ROCHER      ?  2002.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .oY.     R     _CHANTEFABLE Renaud          La Pierre de Monts‚gur [La Princesse cathare - 1] ş2002
+!------------------------
+!=== 2003
+!------------------------
 o ROCHER      ?  2003.01 ..... ISBN 2-268-04438-6
 } noimg          _?                           ?
 - .oF.     R     _CHABOUD Jack                La Diva dans l'‚nigme ş2003
-o ROCHER      ?  2003.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .oY.     R     _CHANTEFABLE Renaud          Le Chevalier d‚ment [La Princesse cathare - 2] ş2003
-o ROCHER      ?  2003.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .oY.     R     _CHANTEFABLE Renaud          Le Secret du moine [La Princesse cathare - 3] ş2003
 o ROCHER      ?  2003.04 ..... ISBN 2-268-04557-9
 } noimg          _?                           ?
 - .oF.     R     _MAGUIRE Gregory             Les Fant“mes de Winnie ş2001 Lost şTrad. VERON Marianne
@@ -283,53 +599,72 @@ o ROCHER      ?  2003.10 ..... ISBN .-.....-...-.
 : .oF.     N     _FUENTES Roland              Une histoire ş2003
 : .oF.     N     _FUENTES Roland              La Maladie ş2003
 : .oF.     N     _FUENTES Roland              Les Pantois ş2003
-: .oF.     N     _FUENTES Roland              Il ş2003
+: .oF.     N     _FUENTES Roland              Il ş2001
 : .oF.     N     _FUENTES Roland              L'Histoire d'Amadeo Lutti ş2003
 : .oF.     N     _FUENTES Roland              Un jour ‚trange, n'est ce pas ? ş2003
 : .oF.     N     _FUENTES Roland              Lignes de fuite ş2003
 : .oF.     N     _FUENTES Roland              Le Dr“le ş2003
 : .oF.     N     _FUENTES Roland              Vous, un autre ş2003
 : .oF.     N     _FUENTES Roland              Prendre souche ş2003
-: .oF.     N     _FUENTES Roland              La Taupe ş2003
+: .oF.     N     _FUENTES Roland              La Taupe ş2000
 : .oF.     N     _FUENTES Roland              Juanito ş2003
 : .oF.     N     _FUENTES Roland              Misserghin ş2003
-: .oF.     N     _FUENTES Roland              Histoire dont vous n'ˆtes pas le lecteur ş2003
+: .oF.     N     _FUENTES Roland              Histoire dont vous n'ˆtes pas le lecteur ş1999
 : .oS.     N     _FUENTES Roland              Douze mŠtres cube de litt‚rature ş2002
 : .oF.     N     _FUENTES Roland              L'Oeuf ş2003
 : .oF.     N     _FUENTES Roland              Boudu, docker … la Joliette ş2003
 : .oF.     N     _FUENTES Roland              La Ronde ş2003
 : .oF.     N     _FUENTES Roland              La Vie scandaleuse de Georges Lee Peanut ş2003
-: .oF.     N     _FUENTES Roland              La Plaine ş2003
+: .oF.     N     _FUENTES Roland              La Plaine ş2002
 : .oF.     N     _FUENTES Roland              Le Village ş2003
 o ROCHER      ?  2003.10 ..... ISBN 2-268-04834-9
 } noimg          _?                           ?
 - .oF.     R     _SIMMONS Dan                 Les Chiens de l'hiver ş2002 A Winter Haunting şTrad. ABADIA Guy
+o ROCHER      ?  2003.10 ..... ISBN 2-268-04872-.
+} noimg          _?                           ?
+- .oF.     R     _DJANA                      &La Bˆte des t‚nŠbres ş2003
+&                _PASCAL Michel               
+o ROCHER      ?  2003.11 ..... ISBN 2-268-04846-2
+} noimg          _?                           ?
+- .o .     R     _SIMONAY Bernard             La Terre des morts [Les Enfants de l'Atlantide - 4] ş2003
+o ROCHER      ?  2003.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oY.     R     _CHANTEFABLE Renaud          Le Chevalier d‚ment [La Princesse cathare - 2] ş2003
+o ROCHER      ?  2003.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oY.     R     _CHANTEFABLE Renaud          Le Secret du moine [La Princesse cathare - 3] ş2003
 o ROCHER      ?  2003.xx ..... ISBN 2-268-04834-9
 } noimg          _?                           ?
 - .p .    kN6    _LEROUX Gaston               Gaston Leroux ou le vrai Rouletabille ş1977
 !--- Biographie de Jean-Claude Lamy, suivie de six histoires ‚pouvantables
 : .p .    kN6    _LEROUX Gaston               Histoires ‚pouvantables ş1977
-= .o .     N     _LEROUX Gaston               La Hache d'or ş1912
+= .x .     N     _LEROUX Gaston               La Hache d'or ş1912
 = .o .     N     _LEROUX Gaston               Le DŒner des bustes ş1911
 = .x .     N     _LEROUX Gaston               La Femme au collier de velours ş1924
 = .x .     N     _LEROUX Gaston               Le No‰l du petit Vincent-Vincent ş1924
 = .x .     N     _LEROUX Gaston               Not'Olympe ş1924
 = .x .     N     _LEROUX Gaston               L'Auberge ‚pouvantable ş1925
-o ROCHER      ?  2004.xx ..... ISBN 2-268-.....-.
-} noimg          _?                           ?
-- .oS.     R     _BELLOT Jean-Michel          Doping Zone - Ao–t 2046 ş2004
+!------------------------
+!=== 2004
+!------------------------
 o ROCHER      ?  2004.03 ..... ISBN 2-268-05001-7
 } noimg          _?                           ?
 - .oY.     R     _JARRY Nicolas               La Citadelle des cendres ş2004
 o ROCHER      ?  2004.04 ..... ISBN 2-268-05103-X
 } noimg          _?                           ?
-- .x .     R     _SIMMONS Dan                 Revanche ş? ? şTrad. ?
+- .xP.     R     _SIMMONS Dan                 Revanche [Trilogie Joe Kurtz - 2] ş2002 Hard Freeze şTrad. ?
 o ROCHER      ?  2004.06 ..... ISBN 2-268-05083-1
 } noimg          _?                           ?
 - .oY.     R     _GRAHAM Mitchell             Le CinquiŠme Anneau [Le CinquiŠme Anneau - 1] ş2003 The Fifth Ring şTrad. BOURG Yannick
 o ROCHER      ?  2004.11 ..... ISBN 2-268-05228-1
 } noimg          _?                           ?
 - .oY.     R     _KEARNEY Paul                Le Voyage d'Hawkwood [Les Monarchies divines - 1] ş1995 Hawkwood's Voyage şTrad. THIRIOUX Marianne
+o ROCHER      ?  2004.xx ..... ISBN 2-268-.....-.
+} noimg          _?                           ?
+- .oS.     R     _BELLOT Jean-Michel          Doping Zone - Ao–t 2046 ş2004
+!------------------------
+!=== 2005
+!------------------------
 o ROCHER      ?  2005.02 ..... ISBN 2-268-05315-6
 } noimg          _?                           ?
 - .oY.     R     _JARRY Nicolas              &Sphinx [Miliale - 1] ş2005
@@ -358,9 +693,12 @@ o ROCHER      ?  2005.11 ..... ISBN 2-268-05625-2
 o ROCHER      ?  2005.11 ..... ISBN 2-268-05648-1
 } noimg          _?                           ?
 - .oY.     R     _KEARNEY Paul                Les Guerres de fer [Les Monarchies divines - 3] ş1998 The Iron Wars şTrad. ELSEN Marie-Claude
-o ROCHER      ?  2006.xx ..... ISBN 2-268-05989-8
+o ROCHER      ?  2005.xx ..... ISBN 2-268-05315-6
 } noimg          _?                           ?
-- .o .     b     _LACASSIN Francis            M‚moires - Sur les chemins qui marchent ş2006
+- .xP.     R     _SIMMONS Dan                 Une balle dans la tˆte [Trilogie Joe Kurtz - 3] ş2003 Hard as Nails şTrad. ?
+!------------------------
+!=== 2006
+!------------------------
 o ROCHER      ?  2006.01 ..... ISBN 2-268-05684-8
 } noimg          _?                           ?
 - .oY.     R     _GRAHAM Mitchell             L'H‚ritage des anciens [Le CinquiŠme Anneau - 3] ş2005 The Ancient Legacy şTrad. ELSEN Marie-Claude
@@ -374,12 +712,90 @@ o ROCHER      ?  2006.06 ..... ISBN 2-268-05475-6
 o ROCHER      ?  2006.10 ..... ISBN 2-268-05971-5
 } noimg          _?                           ?
 - .oY.     R     _KEARNEY Paul                Le Second empire [Les Monarchies divines - 4] ş2000 The Second Empire şTrad. ELSEN Marie-Claude
+o ROCHER      ?  2006.xx ..... ISBN 2-268-05989-8
+} noimg          _?                           ?
+- .o .     b     _LACASSIN Francis            M‚moires - Sur les chemins qui marchent ş2006
+!------------------------
+!=== 2007
+!------------------------
 o ROCHER      ?  2007.04 ..... ISBN 978-2-268-06119-1
 } noimg          _?                           ?
-- .oY.     R     _KEARNEY Paul                Les Vaisseaux de l'ouest [Les Monarchies divines - 5] ş2001 Ships From the West şTrad. ELSEN Marie-Claude
+- .oY.     R     _KEARNEY Paul                Les Vaisseaux de l'ouest [Les Monarchies divines - 5] ş2001 Ships from the West şTrad. ELSEN Marie-Claude
 o ROCHER      ?  2007.05 ..... ISBN 978-2-268-06209-9
 } noimg          _?                           ?
 - .oF.     R     _GARCIA Bob                  La Ville monstre ş2007
+o ROC_MOT   284  2007.04 ..... ISBN 978-2-268-06225-9
+} motifs_284     _?                           ?
+!--- Poche - 17 cm - 396 pages - 8 euros
+- .oFK    kN45   _HEARN Lafcadio              Fant“mes du Japon ş1980
+: .o .     p     _LACASSIN Francis            Lafcadio Hearn ou Le grand tourbillonnement - Fant“me de la Naissance et de la Mort ş1980
+: .C .     C     ****                         Songes et mensonges
+: .o .     N     _HEARN Lafcadio              L'Aveugle qui faisait pleurer les morts ş1904 The Story of Mimi-Nashi-Ho‹chi şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Songe d'un jour d'‚t‚ ş1895 The Dream of a Summer Day şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Rˆve du papillon et de la fourmi ş1904 The Dream of Akonisuk‚ şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Mangeur de rˆves ş1902 The Eater of Dreams şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              La Ville qui ne connaŒt pas la mort et la douleur ş1904 Horai şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Celui qui voulait rencontrer Bouddha ş1899 Story of a Tengu şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              La Reconnaissance de l'Homme-requin ş1900 The Gratitude of the Samebito şTrad. LOGE Marc
+: .C .     C     ****                         Amours et retours
+: .o .     N     _HEARN Lafcadio              La L‚gende du Village des joueurs de koto ş1905 The Story of Ito Norisuk‚ şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Histoire des fant“mes dans le roman de la Lanterne Pivoine ş1899 A Passional Karma şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Celui qui ‚pousa deux fois la mˆme femme ş1900 The Sympathy of Benten şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              La PremiŠre Femme du samura‹ ş1900 The Reconciliation şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Mariage posthume ş1904 The Story of O-tei şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              La Femme de la neige ş1904 Yuki-Onno şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              La Morte trop aimante ş1902 The Story of O-Kam‚ şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Secret que la morte voulait effacer ş1904 A Dead Secret şTrad. LOGE Marc
+: .C .     C     ****                         Horreurs et malheurs
+: .o .     N     _HEARN Lafcadio              Le Fant“me … la tˆte coup‚e ş1904 Rokuro-Kubi şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Celui qui avala un fant“me ş1902 In a Cup of Tea şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le D‚capit‚ qui mordit la pierre ş1904 Diplomacy şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Fant“me sans visage ş1904 Mujina şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Chevaucheur du cadavre ş1900 A Corpse Rider şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Mangeur de cadavres ş1904 Jikininki şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              La Morte aux mains vivantes ş1899 Ingwa-Banashi şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              La L‚gende de la "Cascade des Esprits" ş1902 The Legend of Yurei-Daki şTrad. LOGE Marc
+: .C .     C     ****                         Vertiges et prodiges
+: .o .     N     _HEARN Lafcadio              Le Prˆtre "qui ‚crit avec cinq pinceaux en mˆme temps" ş1894 The Writing of K“b“daishi şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Tableau qui avait une ƒme ş1901 The Story of Kwashin-Koji şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Gamin qui dessinait des chats ş1900 The Boy who Drew Cats şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Celui qui tomba amoureux d'un portrait ş1900 The Screen Maiden şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              La PrisonniŠre du miroir ş1905 The Mirror Maiden şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              A propos d'un miroir et d'une cloche ş1904 Of a Mirror and a Bell şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Grand Incendie de la robe aux longues manches ş1899 Furisod‚ şTrad. LOGE Marc
+: .C .     C     ****                         Enchantements et d‚sagrements
+: .o .     N     _HEARN Lafcadio              Le Vampire au fond des eaux ş1902 The Story of Ch–gor“ şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              La Mort d'un canard sauvage ş1904 Oshidori şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Message de la mouche ş1902 Story of a Fly şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Faisan et le parricide ş1902 Story of a Pheasant şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Celui qui voulait voir l'‚l‚phant blanc … six d‚fenses ş1900 A Legend of Fugen Bosatsu şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le "Cerisier du seiziŠme jour" ş1904 Jiu-Roku-Zakur şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              L'Histoire de "Saule vert" ş1904 The Story of Aoyagi şTrad. LOGE Marc
+: .C .     C     ****                         Du fini a l'infini
+: .o .     N     _HEARN Lafcadio              Le Mort qui protesta contre ses voleurs ş1902 Shiry“ şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Magasin de porcelaines hant‚ par la haine ş1902 Ikyri“ şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              L'Enfant qui naquit deux fois ş1897 The Rebirth of Katsugoro şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Devant la cour suprˆme ş1901 Before the Supreme Court şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le Samura‹ qui fit ouvrir les Portes de la Naissance ş1901 The Story of Umetsu-Chubei şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Celui que le Pass‚ d‚signa pour connaŒtre l'Avenir ş1899 A Story of Divination şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Sur la montagne des crƒnes d'hommes ş1899 Fragment şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              "...Et le temps lui-mˆme est une illusion" ş1897 Within the Circle şTrad. LOGE Marc
+: .C .     C     ****                         Annexes
+: .o .     a     _HEARN Lafcadio              Autopsie d'une l‚gende (L'enfant qui naquit deux fois) ş? ? şTrad. LOGE Marc
+: .o .     a     _HEARN Lafcadio              Images de l'impossible ş1898 The Eternal Haunter şTrad. LOGE Marc
+: .o .     a     _LACASSIN Francis            Bibliographie ş1980
+o ROC_MOT   290  2007.xx ..... ISBN 978-2-268-06256-3
+} noimg          _?                           ?
+- .o .     R     _LEROUX Gaston               La Poup‚e sanglante [La Poup‚e sanglante - 1] ş1923
+o ROC_MOT   292  2007.xx ..... ISBN 978-2-268-06258-7
+} noimg          _?                           ?
+- .oF.     N3    _SAND George                 Voyage dans le cristal ş2007
+: .o .     r     _SAND George                 Laura ou voyage dans le cristal ş1864
+: .o .     N     _SAND George                 L'Orgue du Titan ş1873
+: .o .     N     _SAND George                 Le G‚ant Y‚ous ş1873
+!------------------------
+!=== 2008
+!------------------------
 o ROCHER      ?  2008.01 ..... ISBN 978-2-268-06340-9
 } noimg          _?                           ?
 - .oY.     R     _SIMONAY Bernard             La Vall‚e des neuf cit‚s [Trilogie de Ph‚nix] ş2008
@@ -388,14 +804,14 @@ o ROCHER      ?  2008.10 ..... ISBN 978-2-268-06669-1
 - .oY.     R     _KEARNEY Paul                Le Sceau de Ran [Les Mendiants des mers - 1] ş2003 The Mark of Ran şTrad. ELSEN Marie-Claude
 o ROC_MOT   321  2008.xx ..... ISBN 978-2-268-06680-6
 } noimg          _?                           ?
-- .o .     R     _LEROUX Gaston               La Machine … assassiner ş1923
+- .o .     R     _LEROUX Gaston               La Machine … assassiner [La Poup‚e sanglante - 2] ş1923
 
 !-----------------------------------------------------------------------------
-_ ROCHERJ Ed. du Rocher, Jeunesse
+_ ROCHERJ Editions du Rocher - Jeunesse
 !-----------------------------------------------------------------------------
 o ROCHERJ     ?  2001.10 ..... ISBN 2-268-04071-2
 } noimg          _?                           ?
-- .o .     R     _BELLAIRS John               Le Pendule d'Halloween [Kevin et les magiciens - 1] ş1973 The House With a Clock in the Walls şTrad. TRIDON Nikou
+- .o .     R     _BELLAIRS John               Le Pendule d'Halloween [Kevin et les magiciens - 1] ş1973 The House with a Clock in Its Walls şTrad. TRIDON Nikou
 o ROCHERJ     ?  2002.03 ..... ISBN 2-268-04145-X
 } noimg          _?                           ?
 - .o .     R     _BELLAIRS John               La M‚daille ensorcel‚e [Kevin et les magiciens - 2] ş1975 The Figure in the Shadows şTrad. TRIDON Nikou
@@ -417,7 +833,7 @@ o ROCHERJ     ?  2003.09 ..... ISBN 2-268-04743-1
 - .o .     R     _STRICKLAND Brad             Le Monstre sous le pont [Kevin et les magiciens - 7] ş2000 The Beast Under the Wizard's Bridge şTrad. TRIDON Nikou
 o ROCHERJ     ?  2004.01 ..... ISBN 2-268-04937-X
 } noimg          _?                           ?
-- .o .     R     _STRICKLAND Brad             Le Spectre du mus‚e [Kevin et les magiciens - 8] ş1998 The Specter From the Magician's Museum şTrad. TRIDON Nikou
+- .o .     R     _STRICKLAND Brad             Le Spectre du mus‚e [Kevin et les magiciens - 8] ş1998 The Specter from the Magician's Museum şTrad. TRIDON Nikou
 o ROCHERJ     ?  2004.01 ..... ISBN 2-268-04923-7
 } noimg          _?                           ?
 - .oF.     R     _EWING Lynne                 D‚esse de la nuit [Les Filles de la Lune (Daughters...) - 1] ş2000 Goddess of the Night şTrad. PUECH-CHESTER Sylvie
@@ -570,7 +986,7 @@ o ROCHERJ     ?  2011.05 ..... ISBN 978-2-268-07128-2
 - .oF.     R     _MACHALE D.J.                La LumiŠre [Morpheus Road - 1] ş2010 The Light şTrad. BAUDURET Thomas
 o ROCHERJ     ?  2011.10 ..... ISBN 978-2-268-07189-3
 } noimg          _?                           ?
-- .oF.     R     _TOULEMONT Manon             Symfonia : Ouverture [Symfonia - 1] ş2011
+- .oF.     R     _TOULEMONT Manon             Ouverture [Symfonia - 1] ş2011
 o ROCHERJ     ?  2012.03 ..... ISBN 978-2-268-07300-2
 } noimg          _?                           ?
 - .oF.     R     _MACHALE D.J.                Les T‚nŠbres [Morpheus Road - 2] ş2011 The Black şTrad. BAUDURET Thomas
@@ -582,7 +998,7 @@ o ROCHERJ     ?  2013.06 ..... ISBN 978-2-268-07447-4
 
 
 !-----------------------------------------------------------------------------
-_ ROC_NOV Ed. du Rocher, Coll. Novellas
+_ ROC_NOV Editions du Rocher - Novellas
 !-----------------------------------------------------------------------------
 !--- Collection dirig‚e par Winston Smith
 !-----------------------------------------------------------------------------

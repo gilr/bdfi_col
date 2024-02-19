@@ -5,17 +5,17 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ PYREMON Ed. Pyr‚monde
-_ PYR_UCH Ed. Pyr‚monde, Coll. Uchronie
+_ PYREMON Pyr‚monde
+_ PYR_UCH Pyr‚monde - Uchronie
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
-_ REGIONA Ed. des R‚gionalismes
-_ REG_UCH Ed. des R‚gionalismes, Coll. Uchronie
+_ REGIONA Editions des R‚gionalismes
+_ REG_UCH Editions des R‚gionalismes - Uchronie
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
-_ PRNG_UC Ed. PRNG, Coll. Uchronie
-_ PRNG_PO Ed. PRNG, Coll. de poche "Poutchic"
-_ PRNG_SF Ed. PRNG, Coll. SF
+_ PRNG_UC PRNG - Uchronie
+_ PRNG_PO PRNG - Poutchic
+_ PRNG_SF PRNG - SF
 !-----------------------------------------------------------------------------
 !--- Nouveau nom pour Pyr‚monde
 !---  Group‚ avec "Editions des R‚gionalismes", qui
@@ -27,7 +27,7 @@ _ PRNG_SF Ed. PRNG, Coll. SF
 !-----------------------------------------------------------------------------
 o PYR_UCH     1i 2006.08 ..... ISBN 2-84618-362-7
 } noimg          _?                           ?
-- .oS.uc   R     _RENOUVIER Charles           Uchronie - L'Utopie dans l'histoire þ1858-1876
+- .oS.uc   R     _RENOUVIER Charles           Uchronie - L'Utopie dans l'histoire - Histoire de la civilisation europ‚enne, telle qu'elle n'a pas ‚t‚, telle qu'elle aurait pu ˆtre þ1858-1876
 o PYR_UCH     2i 2007.10 ..... ISBN 978-2-84618-445-8
 } noimg          _?                           ?
 - .oS.uc   R     _GEOFFROY Louis              Napol‚on apocryphe - 1812-1832 - Histoire de la conquˆte du monde et de la monarchie universelle þ1836
@@ -54,7 +54,7 @@ o PYR_UCH     8i 2008.12 ..... ISBN 978-2-84618-610-0
 - .oS.     R     _LAIGLE Jean-Pierre          Ave Caesar Imperator þ2008
 o PYR_UCH    10i 2008.xx ..... ISBN 978-2-84618-611-7
 } noimg          _?                           ?
-- .oS.     R     _POSTERITAS                  Le SiŠge de Londres þ1885 The siege of London
+- .oS.     R     _POSTERITAS                  Le SiŠge de Londres þ1885 The Siege of London
 
 o PYREMON     ?  2007.xx ..... ISBN 978-2-84618-483-.
 } noimg          _?                           ?
@@ -104,11 +104,11 @@ o PYREMON     ?  2008.04 ..... ISBN 978-2-84618-573-8
 : .oF.     N     _DU LAURENS DE LA BARRE E.   La Ville d'Is þ1881
 
 !-----------------------------------------------------------------------------
-! REG_UCH Ed. des R‚gionalismes, Coll. Uchronie
+! REG_UCH Editions des R‚gionalismes, Uchronie
 !-----------------------------------------------------------------------------
 o REG_UCH     1i 2009.xx ..... ISBN 978-2-84618-362-8
 } noimg          _?                           ?
-- .oS.     E     _RENOUVIER Charles           Uchronie : L'Utopie dans l'histoire þ1858-1876
+- .oS.uc   R     _RENOUVIER Charles           Uchronie - L'Utopie dans l'histoire - Histoire de la civilisation europ‚enne, telle qu'elle n'a pas ‚t‚, telle qu'elle aurait pu ˆtre þ1858-1876
 o REG_UCH     2i 2009.xx ..... ISBN 978-2-84618-445-8
 } noimg          _?                           ?
 - .oS.uc   R     _GEOFFROY Louis              Napol‚on apocryphe - 1812-1832 - Histoire de la conquˆte du monde et de la monarchie universelle þ1836
@@ -177,28 +177,49 @@ o PRNG_PO    48i 2020.07 ..... ISBN 978-2-36634-156-0
 !------------------------
 o PRNG_SF     1i 2015.02 ..... ISBN 978-2-36634-045-7
 } noimg          _Fiora                       ?
-- .o .     R     _BURROUGHS Edgar Rice        Une princesse de Mars (Le Conqu‚rant de la planŠte Mars) [Cycle de Mars - 1] þ1912 Under the Moons of Mars / A Princess of Mars þTrad. COBOR Pierre
++ PRNG_SF     1  2022.xx ..... ISBN 978-2-36634-045-7
+} noimg          _Fiora                       ?
+!--- GF - 150x210 - 154 pages - 16,50 euros
+- .o .     R     _BURROUGHS Edgar Rice        Une princesse de Mars (Le Conqu‚rant de la planŠte Mars) [Cycle de Mars - 1] þ1912 Under the Moons of Mars / A Princess of Mars / Carter of the Red Planet / The Princess of Mars þTrad. COBOR Pierre
 o PRNG_SF     2i 2015.07 ..... ISBN 978-2-36634-056-3
 } noimg          _?                           ?
-- .oS.     R     _BURROUGHS Edgar Rice        Les Dieux de Mars [Cycle de Mars - 2] þ1913 The Gods of Mars þTrad. MARTIN Charles-No‰l
++ PRNG_SF     2i 2022.xx ..... ISBN 978-2-36634-056-3
+} noimg          _?                           ?
+!--- GF - 150x210 - 200 pages - 18,75 euros
+- .oS.     R     _BURROUGHS Edgar Rice        Les Dieux de Mars [Cycle de Mars - 2] þ1913 The Gods of Mars / Gods of Mars þTrad. MARTIN Charles-No‰l
 o PRNG_SF     3i 2015.10 ..... ISBN 978-2-36634-061-7
 } noimg          _?                           ?
-- .oS.     R     _BURROUGHS Edgar Rice        Le Seigneur de la guerre de Mars [Cycle de Mars - 3] þ1914 The Warlords of Mars þTrad. MARTIN Charles-No‰l
++ PRNG_SF     3i 2022.xx ..... ISBN 978-2-36634-061-7
+} noimg          _?                           ?
+!--- GF - 150x210 - 164 pages - 16,95 euros
+- .oS.     R     _BURROUGHS Edgar Rice        Le Seigneur de la guerre de Mars [Cycle de Mars - 3] þ1914 The Warlord of Mars / Warlord of Mars þTrad. MARTIN Charles-No‰l
 !------------------------
 !=== 2016
 !------------------------
 o PRNG_SF     4i 2016.02 ..... ISBN 978-2-36634-067-9
 } noimg          _?                           ?
-- .o .     R     _AUDIGIER Camille            La R‚volte des volcans þ1935
++ PRNG_SF     4i 2022.xx ..... ISBN 978-2-36634-067-9
+} noimg          _?                           ?
+!--- GF - 150x210 - 142 pages - 15,50 euros
+- .oS.     R     _AUDIGIER Camille            La R‚volte des volcans þ1935
 o PRNG_SF     5i 2016.03 ..... ISBN 978-2-36634-070-9
 } noimg          _?                           ?
++ PRNG_SF     5i 2022.xx ..... ISBN 978-2-36634-070-9
+} noimg          _?                           ?
+!--- GF - 150x210 - 164 pages - 15,95 euros
 - .oS.     R     _BURROUGHS Edgar Rice        Au coeur de la Terre [Cycle de Pellucidar - 1] þ1914 At the Earth's Core þTrad. BILLON Pierre
 o PRNG_SF     6i 2016.04 ..... ISBN 978-2-36634-072-3
 } noimg          _J. Allen St John            ?
-- .oS.     R     _BURROUGHS Edgar Rice        Thuvia vierge de Mars [Cycle de Mars - 4] þ1916 Thuvia, Maid of Mars þTrad. MARTIN Charles-No‰l
++ PRNG_SF     6i 2022.xx ..... ISBN 978-2-36634-072-3
+} noimg          _J. Allen St John            ?
+!--- GF - 150x210 - 148 pages - 15,75 euros
+- .oS.     R     _BURROUGHS Edgar Rice        Thuvia, vierge de Mars [Cycle de Mars - 4] þ1916 Thuvia, Maid of Mars þTrad. MARTIN Charles-No‰l
 o PRNG_SF     7i 2016.10 ..... ISBN 978-2-36634-078-5
 } noimg          _?                           ?
-- .oS.     R     _BURROUGHS Edgar Rice        L'empire de David Innes [Cycle de Pellucidar - 2] þ1915 Pellucidar þTrad. BILLON Pierre
++ PRNG_SF     7i 2022.xx ..... ISBN 978-2-36634-078-5
+} noimg          _?                           ?
+!--- GF - 150x210 - 184 pages - 18,50 euros
+- .oS.     R     _BURROUGHS Edgar Rice        L'Empire de David Innes [Cycle de Pellucidar - 2] þ1915 Pellucidar þTrad. BILLON Pierre
 o PRNG_SF     8i 2016.11 ..... ISBN 978-2-36634-079-2
 } noimg          _?                           ?
 - .o .     R     _TINSEAU L‚on de             Le Duc Rollon þ1913
@@ -207,16 +228,28 @@ o PRNG_SF     8i 2016.11 ..... ISBN 978-2-36634-079-2
 !------------------------
 o PRNG_SF     9i 2017.01 ..... ISBN 978-2-36634-092-1
 } noimg          _?                           ?
-- .o .     R     _BURROUGHS Edgar Rice        Tanar de Pellucidar [Cycle de Pellucidar - 3] þ1929 Tanar of Pellucidar þTrad. BILLON Pierre
++ PRNG_SF     9i 2022.xx ..... ISBN 978-2-36634-092-1
+} noimg          _?                           ?
+!--- GF - 150x210 - 220 pages - 19,50 euros
+- .oS.     R     _BURROUGHS Edgar Rice        Tanar de Pellucidar [Cycle de Pellucidar - 3] þ1929 Tanar of Pellucidar þTrad. BILLON Pierre
 o PRNG_SF    10i 2017.04 ..... ISBN 978-2-36634-093-8
 } noimg          _?                           ?
-- .o .     R     _BURROUGHS Edgar Rice        Tarzan au coeur de la Terre [Cycle de Pellucidar - 4]+[Tarzan - 13] þ1930 Tarzan at the Earth's Core þTrad. BILLON Pierre
++ PRNG_SF    10i 2022.xx ..... ISBN 978-2-36634-093-8
+} noimg          _?                           ?
+!--- GF - 150x210 - 210 pages - 20,50 euros
+- .oS.     R     _BURROUGHS Edgar Rice        Tarzan au coeur de la Terre [Cycle de Pellucidar - 4]+[Tarzan - 13] þ1930 Tarzan at the Earth's Core þTrad. BILLON Pierre
 o PRNG_SF    11i 2017.10 ..... ISBN 978-2-36634-102-7
 } noimg          _?                           ?
-- .o .     R     _BURROUGHS Edgar Rice        Retour … l'ƒge de pierre [Cycle de Pellucidar - 5] þ1937 Back to the Stone Age þTrad. BILLON Pierre
++ PRNG_SF    11i 2022.xx ..... ISBN 978-2-36634-102-7
+} noimg          _?                           ?
+!--- GF - 150x210 - 220 pages - 17,50 euros
+- .oS.     R     _BURROUGHS Edgar Rice        Retour … l'ƒge de pierre [Cycle de Pellucidar - 5] þ1937 Back to the Stone Age þTrad. BILLON Pierre
 o PRNG_SF    12i 2017.10 ..... ISBN 978-2-36634-103-4
 } noimg          _?                           ?
-- .o .     R     _BURROUGHS Edgar Rice        Terre d'‚pouvante [Cycle de Pellucidar - 6] þ1944 Land of Terror þTrad. BILLON Pierre
++ PRNG_SF    12i 2022.xx ..... ISBN 978-2-36634-103-4
+} noimg          _?                           ?
+!--- GF - 150x210 - 176 pages - 15,95 euros
+- .oS.     R     _BURROUGHS Edgar Rice        Terre d'‚pouvante [Cycle de Pellucidar - 6] þ1944 Land of Terror þTrad. BILLON Pierre
 o PRNG_SF    13i 2017.09 ..... ISBN 978-2-36634-105-8
 } noimg          _?                           ?
 - .oS.     R     _KELLERMANN Bernhard         Le Tunnel - Tome 1er þ1913 Der Tunnel þTrad. BERGER Cyril et KLETTE Werner
@@ -225,15 +258,24 @@ o PRNG_SF    13i 2017.09 ..... ISBN 978-2-36634-105-8
 !------------------------
 o PRNG_SF    14i 2018.02 ..... ISBN 978-2-36634-112-6
 } noimg          _?                           ?
-- .oS.     R     _BURROUGHS Edgar Rice        Jeu d'‚checs sur Mars [Cycle de Mars - 5] þ1922 The Chessmen of Mars þTrad. ?
++ PRNG_SF    14i 2022.xx ..... ISBN 978-2-36634-112-6
+} noimg          _?                           ?
+!--- GF - 150x210 - 204 pages - 19,95 euros
+- .oS.     R     _BURROUGHS Edgar Rice        Jeu d'‚checs sur Mars [Cycle de Mars - 5] þ1922 The Chessmen of Mars / Chessmen of Mars þTrad. PARSONS Jacques
 o PRNG_SF    15i 2018.01 ..... ISBN 978-2-36634-113-3
 } prngsf15       _?                           ?
-- .oY.     r2    _BURROUGHS Edgar Rice        Caspak, monde oubli‚ [Cycle de Caspak - 1] þ1982
-: .o .     r     _BURROUGHS Edgar Rice        La Terre que le temps avait oubli‚... [Cycle de Caspak] þ1918 The Land That Time Forgot
-: .o .     r     _BURROUGHS Edgar Rice        Le Peuple que le temps avait oubli‚... [Cycle de Caspak] þ1918 The People That Time Forgot
++ PRNG_SF    15i 2022.xx ..... ISBN 978-2-36634-113-3
+} prngsf15rr22   _?                           ?
+!--- GF - 150x210 - 184 pages - 16,50 euros
+- .oY.     r2    _BURROUGHS Edgar Rice        Caspak monde oubli‚ [Cycle de Caspak - 1] þ1982
+: .o .     r     _BURROUGHS Edgar Rice        La Terre que le temps avait oubli‚... [Cycle de Caspak] þ1918 The Land That Time Forgot þTrad. PELERIN V‚ronique et Denis
+: .o .     r     _BURROUGHS Edgar Rice        Le Peuple que le temps avait oubli‚... [Cycle de Caspak] þ1918 The People That Time Forgot þTrad. PELERIN V‚ronique et Denis
 o PRNG_SF    16i 2018.03 ..... ISBN 978-2-36634-115-7
 } noimg          _?                           ?
-- .o .     R     _BURROUGHS Edgar Rice        Hors de Caspak [Cycle de Caspak - 2] þ1918 Out of Time's Abyss þTrad. PELERIN V‚ronique et Denis
++ PRNG_SF    16i 2022.xx ..... ISBN 978-2-36634-115-7
+} noimg          _?                           ?
+!--- GF - 150x210 - 148 pages - 15,75 euros
+- .oS.     r     _BURROUGHS Edgar Rice        Hors de Caspak [Cycle de Caspak - 2] þ1918 Out of Time's Abyss þTrad. PELERIN V‚ronique et Denis
 o PRNG_SF    17i 2018.02 ..... ISBN 978-2-36634-116-4
 } noimg          _?                           ?
 - .oS.     R     _KELLERMANN Bernhard         Le Tunnel - Tome II þ1913 Der Tunnel þTrad. BERGER Cyril et KLETTE Werner
@@ -245,32 +287,54 @@ o PRNG_SF    19i 2019.09 ..... ISBN 978-2-36634-125-6
 !------------------------
 o PRNG_SF    20i 2019.04 ..... ISBN 978-2-36634-132-4
 } noimg          _?                           ?
++ PRNG_SF    20i 2022.xx ..... ISBN 978-2-36634-132-4
+} noimg          _?                           ?
+!--- GF - 150x210 - 220 pages - 21 euros
 - .xA.     R     _BURROUGHS Edgar Rice        Tarzan chez les singes [Tarzan - 1] þ1912 Tarzan of the Apes þTrad. BEZRI Marwan
 o PRNG_SF    22i 2019.04 ..... ISBN 978-2-36634-134-8
-} prngsf22       _?                           ?
-- .oS.    iU4    _BURROUGHS Edgar Rice        Llana de Gathol [Cycle de Mars - 10] þ1948 Llana of Gathol þTrad. BLOND Martine
-!: .o .     N     _BURROUGHS Edgar Rice        Les Morts anciens þ1941 The City of the Mummies / The Frozen Men of Mars / The Ancient Dead
-!: .o .     N     _BURROUGHS Edgar Rice        Les Pirates noirs de Barsoom þ1941 Black Pirates of Barsoom
-!: .o .     N     _BURROUGHS Edgar Rice        Evasion sur Mars þ1941 Yellow Men of Mars / Escape on Mars
-!: .o .     N     _BURROUGHS Edgar Rice        Les Hommes invisibles de Mars þ1941 Invisible Men of Mars
+} prngsf22       _?                           John Coleman Burroughs
++ PRNG_SF    22i 2022.xx ..... ISBN 978-2-36634-134-8
+} prng022rr22    _?                           ?
+!--- GF - 150x210 - 224 pages - 17,95 euros
+- .oS.    _U4    _BURROUGHS Edgar Rice        Llana de Gathol [Cycle de Mars - 10] þ1948 Llana of Gathol þTrad. VIALA Gilbert
+: .oS.   5 p     _BURROUGHS Edgar Rice        Avant-propos þ1948 Foreword þTrad. VIALA Gilbert
+: .o .   7 N     _BURROUGHS Edgar Rice        La N‚cropole þ1941 The City of the Mummies / The Frozen Men of Mars / The Ancient Dead þTrad. VIALA Gilbert
+: .o .  61 N     _BURROUGHS Edgar Rice        Les Pirates noirs de Barsoom þ1941 Black Pirates of Barsoom þTrad. VIALA Gilbert
+: .o . 113 N     _BURROUGHS Edgar Rice        Evasion sur Mars þ1941 Yellow Men of Mars / Escape on Mars þTrad. VIALA Gilbert
+: .o . 167 N     _BURROUGHS Edgar Rice        Les Invisibles de Mars þ1941 Invisible Men of Mars þTrad. VIALA Gilbert
 o PRNG_SF    23i 2019.04 ..... ISBN 978-2-36634-135-5
 } noimg          _?                           ?
 - .oS.     R     _VARLET Th‚o                &La Belle Valence þ1922
 &                _BLANDIN Andr‚               
 o PRNG_SF    24i 2019.07 ..... ISBN 978-2-36634-141-6
 } noimg          _?                           ?
++ PRNG_SF    24i 2022.xx ..... ISBN 978-2-36634-141-6
+} noimg          _?                           ?
+!--- GF - 150x210 - 216 pages - 21,50 euros
 - .x .     R     _BURROUGHS Edgar Rice        Le Retour de Tarzan [Tarzan - 2] þ1913 The Return of Tarzan þTrad. BAUDOUX Marc
 o PRNG_SF    25i 2019.08 ..... ISBN 978-2-36634-142-3
 } noimg          _?                           ?
++ PRNG_SF    25i 2022.xx ..... ISBN 978-2-36634-142-3
+} noimg          _?                           ?
+!--- GF - 150x210 - 176 pages - 17,95 euros
 - .x .     R     _BURROUGHS Edgar Rice        Tarzan parmi les fauves [Tarzan - 3] þ1914 The Beasts of Tarzan þTrad. BAUDOUX Marc
 o PRNG_SF    26i 2019.10 ..... ISBN 978-2-36634-144-7
 } noimg          _?                           ?
++ PRNG_SF    26i 2022.xx ..... ISBN 978-2-36634-144-7
+} noimg          _?                           ?
+!--- GF - 150x210 - 168 pages - 17,50 euros
 - .oS.     R     _BURROUGHS Edgar Rice        Les Pirates de V‚nus [Cycle de V‚nus - 1] þ1932 Pirates of Venus þTrad. BLOND Martine
 o PRNG_SF    27i 2019.10 ..... ISBN 978-2-36634-145-4
 } noimg          _?                           ?
++ PRNG_SF    27i 2022.xx ..... ISBN 978-2-36634-145-4
+} noimg          _?                           ?
+!--- GF - 150x210 - 230 pages - 21,95 euros
 - .x .     R     _BURROUGHS Edgar Rice        Le Fils de Tarzan [Tarzan - 4] þ1915 The Son of Tarzan þTrad. BAUDOUX Marc
 o PRNG_SF    28i 2019.11 ..... ISBN 978-2-36634-147-8
 } noimg          _?                           ?
++ PRNG_SF    28i 2022.xx ..... ISBN 978-2-36634-147-8
+} noimg          _?                           ?
+!--- GF - 150x210 - 190 pages - 17,75 euros
 - .x .     R     _BURROUGHS Edgar Rice        Tarzan et le tr‚sor d'Opar [Tarzan - 5] þ1916 Tarzan and the Jewels of Opar þTrad. BAUDOUX Marc
 o PRNG_SF    29i 2019.12 ..... ISBN 978-2-36634-150-8
 } noimg          _?                           ?
@@ -282,6 +346,9 @@ o PRNG_SF    29i 2019.12 ..... ISBN 978-2-36634-150-8
 o PRNG_SF    30i 2020.01 ..... ISBN 978-2-36634-151-5
 } prngsf30       _?                           ?
 !--- GF - 150 x 210 mm - 200 pages - 16,95 euros
++ PRNG_SF    30i 2022.xx ..... ISBN 978-2-36634-151-5
+} prng030rr22    _?                           ?
+!--- GF - 150x210 - 192 pages - 18,95 euros
 - .xAZ     N12   _BURROUGHS Edgar Rice        R‚cits de la jungle de Tarzan [Tarzan - 6] þ1919 Jungle Tales of Tarzan þTrad. BAUDOUX Marc
 : .x .     N     _BURROUGHS Edgar Rice        Le Premier Amour de Tarzan [Tarzan] þ1916 Tarzan's First Love þTrad. BAUDOUX Marc
 : .x .     N     _BURROUGHS Edgar Rice        La Capture de Tarzan [Tarzan] þ1916 The Capture of Tarzan þTrad. BAUDOUX Marc
@@ -298,28 +365,173 @@ o PRNG_SF    30i 2020.01 ..... ISBN 978-2-36634-151-5
 o PRNG_SF    31i 2020.05 ..... ISBN 978-2-36634-153-9
 } noimg          _?                           ?
 !--- GF - 150 x 210 mm - 260 pages - 19,95 euros
++ PRNG_SF    31i 2022.xx ..... ISBN 978-2-36634-153-9
+} noimg          _?                           ?
+!--- GF - 150x210 - 260 pages - 21,95 euros
 - .xA.     R     _BURROUGHS Edgar Rice        Tarzan l'indomptable [Tarzan - 7] þ1919 Tarzan the Untamed þTrad. BAUDOUX Marc
 o PRNG_SF    32i 2020.05 ..... ISBN 978-2-36634-154-6
 } noimg          _?                           ?
 !--- GF - 150 x 210 mm - 244 pages - 19,95 euros
++ PRNG_SF    32i 2022.xx ..... ISBN 978-2-36634-154-6
+} noimg          _?                           ?
+!--- GF - 150x210 - 244 pages - 21 euros
 - .oZA     R     _BURROUGHS Edgar Rice        Tarzan dans la pr‚histoire [Tarzan - 8] þ1921 Tarzan the Terrible þTrad. BAUDOUX Marc
 o PRNG_SF    33i 2020.09 ..... ISBN 978-2-36634-158-4
 } noimg          _?                           ?
 !--- GF - 150 x 210 mm - 202 pages - 16,95 euros
++ PRNG_SF    33i 2022.xx ..... ISBN 978-2-36634-158-4
+} noimg          _?                           ?
+!--- GF - 150x210 - 196 pages - 19,25 euros
 - .xA.     R     _BURROUGHS Edgar Rice        Tarzan et le lion d'or [Tarzan - 9] þ1922 Tarzan and the Golden Lion þTrad. BAUDOUX Marc
 o PRNG_SF    34i 2020.09 ..... ISBN 978-2-36634-159-1
 } noimg          _?                           ?
 !--- GF - 150 x 210 mm - 204 pages - 16,95 euros
++ PRNG_SF    34i 2022.xx ..... ISBN 978-2-36634-159-1
+} noimg          _?                           ?
+!--- GF - 150x210 - 204 pages - 17,95 euros
 - .oA.     R     _BURROUGHS Edgar Rice        Tarzan et les hommes-fourmis [Tarzan - 10] þ1924 Tarzan and the Ant Men þTrad. BAUDOUX Marc
 o PRNG_SF    21i 2020.09 ..... ISBN 978-2-36634-133-1
 } noimg          _?                           ?
 !--- GF - 150 x 210 mm - 188 pages - 15,95 euros
++ PRNG_SF    21i 2022.xx ..... ISBN 978-2-36634-133-1
+} noimg          _?                           ?
+!--- GF - 150x210 - 180 pages - 18,25 euros
 - .xA.     R     _BURROUGHS Edgar Rice        Tarzan et les crois‚s [Tarzan - 11] þ1927 Tarzan, Lord of the Jungle þTrad. BAUDOUX Marc
 o PRNG_SF    35i 2020.12 ..... ISBN 978-2-36634-161-4
 } noimg          _?                           ?
 !--- GF - 150 x 210 mm - 216 pages - 17,95 euros
++ PRNG_SF    35i 2022.xx ..... ISBN 978-2-36634-161-4
+} noimg          _?                           ?
+!--- GF - 150x210 - 196 pages - 19,95 euros
 - .x .     R     _BURROUGHS Edgar Rice        Tarzan et l'empire oubli‚ [Tarzan - 12] þ1928 Tarzan and the Lost Empire þTrad. BAUDOUX Marc
+!------------------------
+!=== 2021
+!------------------------
+o PRNG_SF    36i 2021.02 ..... ISBN 978-2-36634-164-5
+} noimg          _?                           ?
+!--- GF - 150x210 - 188 pages - 16,50 euros
++ PRNG_SF    36i 2022.xx ..... ISBN 978-2-36634-164-5
+} noimg          _Frank R. Paul               ?
+!--- GF - 150x210 - 188 pages - 16,50 euros
+- .oS.     R     _BURROUGHS Edgar Rice        Le Chirurgien de Mars [Cycle de Mars - 6] þ1927 The Master Mind of Mars þTrad. CHAPLAIN Eric
+o PRNG_SF    37i 2021.xx ..... ISBN 978-2-36634-168-3
+} noimg          _?                           ?
+!--- GF - 150x210 - 212 pages - 17,95 euros
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan l'invincible [Tarzan - 14] þ1931 Tarzan the Invincible þTrad. BAUDOUX Marc
+o PRNG_SF    38i 2021.03 ..... ISBN 978-2-36634-169-0
+} noimg          _?                           ?
+!--- GF - 150x210 - 226 pages - 18,50 euros
+- .x .     R     _BURROUGHS Edgar Rice        Le Triomphe de Tarzan [Tarzan - 15] þ1931 Tarzan Triumphant þTrad. BAUDOUX Marc
+o PRNG_SF    39i 2021.10 ..... ISBN 978-2-36634-177-5
+} noimg          _?                           ?
+!--- GF - 150x210 - 164 pages - 14,95 euros
+- .oS.     R     _BURROUGHS Edgar Rice        La Princesse de la Lune [Cycle de la Lune - 1] þ1923 The Moon Maid þTrad. VIALA Gilbert + VANNEREUX Michel
+o PRNG_SF    40i 2021.07 ..... ISBN 978-2-36634-173-7
+} prngsf40       _?                           ?
+!--- GF - 150x210 - 226 pages - 18,50 euros
+- .oY.    kC4    _BURROUGHS Edgar Rice        Sauvage Pellucidar [Cycle de Pellucidar - 7] þ1963 Savage Pellucidar þTrad. ROSENBLUM Arlette
+: .o .     N     _BURROUGHS Edgar Rice        Le Retour de Pellucidar [Cycle de Pellucidar] þ1942 Return to Pellucidar
+: .o .     r     _BURROUGHS Edgar Rice        Les Hommes de l'ƒge de bronze [Cycle de Pellucidar] þ1942 Men of the bronze age
+: .o .     r     _BURROUGHS Edgar Rice        La Jeune Femme aux tigres [Cycle de Pellucidar] þ1942 Tiger Girl
+: .o .     r     _BURROUGHS Edgar Rice        Sauvage Pellucidar [Cycle de Pellucidar] þ1963 Savage Pellucidar
+o PRNG_SF    41i 2021.08 ..... ISBN 978-2-36634-174-4
+} noimg          _?                           ?
+!--- GF - 150x210 - 196 pages
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan et la cit‚ de l'or [Tarzan - 16] þ1933 Tarzan and the City of Gold þTrad. VIALA Gilbert + VANNEREUX Michel
+o PRNG_SF    42i 2021.08 ..... ISBN 978-2-36634-175-1
+} noimg          _?                           ?
+!--- GF - 150x210 - 228 pages - 18,75 euros
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan et l'homme-lion [Tarzan - 17] þ1934 Tarzan and the Lion Man þTrad. ARGELLIES Pierre + VANNEREUX Michel
+o PRNG_SF    43i 2021.09 ..... ISBN 978-2-36634-176-8
+} noimg          _?                           ?
+!--- GF - 150x210 - 204 pages - 17,25 euros
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan et les hommes-l‚opards [Tarzan - 18] þ1935 Tarzan and the Leopard Men þTrad. ARGELLIES Pierre + VANNEREUX Michel
+o PRNG_SF    44i 2021.09 ..... ISBN 978-2-36634-177-5
+} noimg          _?                           ?
+!--- GF - 150x210 - 234 pages - 18,95 euros
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan et les immortels [Tarzan - 19] þ1936 Tarzan's Quest / Tarzan and the Immortal Men þTrad. VIALA Gilbert + VANNEREUX Michel
+o PRNG_SF    45i 2021.10 ..... ISBN 978-2-36634-178-2
+} noimg          _?                           ?
+!--- GF - 150x210 - 206 pages
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan et la Cit‚ interdite [Tarzan - 20] þ1938 Tarzan and the Forbidden City þTrad. ARGELLIES Pierre + VANNEREUX Michel
+o PRNG_SF    46i 2021.11 ..... ISBN 978-2-36634-179-9
+} noimg          _?                           ?
+!--- GF - 150x210 - 206 pages - 18,50 euros
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan le Magnifique [Tarzan - 21] þ1939 Tarzan the Magnificent þTrad. ARGELLIES Pierre + VANNEREUX Michel
+o PRNG_SF    47i 2021.11 ..... ISBN 978-2-36634-180-5
+} noimg          _?                           ?
+!--- GF - 150x210 - 230 pages - 19,95 euros
+- .oS.     R     _LA HIRE Jean de             La Roue fulgurante þ1908
+o PRNG_SF    48i 2021.11 ..... ISBN 978-2-36634-181-2
+} noimg          _?                           ?
+!--- GF - 150x210 - 172 pages - 16,50 euros
+- .o .     R     _LA HIRE Jean de             Le MystŠre des XV [Le MystŠre des XV - 1][Le Nyctalope] þ1911
+o PRNG_SF    49i 2021.11 ..... ISBN 978-2-36634-182-9
+} noimg          _?                           ?
+!--- GF - 150x210 - 206 pages - 18,25 euros
+- .o .     R     _LA HIRE Jean de             Le Nyctalope contre les XV [Le MystŠre des XV - 2][Le Nyctalope] þ1911
+o PRNG_SF    50i 2021.11 ..... ISBN 978-2-36634-183-6
+} prngsf050      _?                           ?
+!--- GF - 150x210 - 224 pages - 19,75 euros
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan et la l‚gion ‚trangŠre [Tarzan - 22] þ1947 Tarzan and the Foreign Legion þTrad. ?
+o PRNG_SF    51i 2021.11 ..... ISBN 978-2-36634-184-3
+} prngsf051      _?                           ?
+!--- GF - 150x210 - 184 pages - 18,95 euros
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan et le Dieu fou [Tarzan - 23] þ1964 Tarzan and the Madman þTrad. ?
+o PRNG_SF    52i 2021.12 ..... ISBN 978-2-36634-185-0
+} prngsf052      _?                           ?
+!--- GF - 150x210 - 190 pages - 18,50 euros
+- .xA.    kN3    _BURROUGHS Edgar Rice        Tarzan et les naufrag‚s [Tarzan - 24] þ1964 Tarzan and the Castaways þTrad. VIALA Gilbert + VANNEREUX Michel
+: .x .     r     _BURROUGHS Edgar Rice        Tarzan et les naufrag‚s [Tarzan] þ1941 The Quest of Tarzan / Tarzan and the Castaways þTrad. VIALA Gilbert + VANNEREUX Michel
+: .x .     N     _BURROUGHS Edgar Rice        Tarzan et le champion [Tarzan] þ1940 Tarzan and the Champion þTrad. VIALA Gilbert + VANNEREUX Michel
+: .x .     N     _BURROUGHS Edgar Rice        Tarzan et les asassins [Tarzan] þ1940 Tarzan and the Jungle Murders þTrad. VIALA Gilbert + VANNEREUX Michel
+o PRNG_SF    53i 2021.12 ..... ISBN 978-2-36634-186-7
+} prngsf053      _?                           ?
+!--- GF - 150x210 - 168 pages - 15,95 euros
+- .xA.    kr2    _BURROUGHS Edgar Rice        Tarzan et les jumeaux [Tarzan - 25] þ1963 Tarzan and the Tarzan Twins þTrad. VIALA Gilbert + VANNEREUX Michel
+: .xA.     r     _BURROUGHS Edgar Rice        Les Jumeaux de Tarzan [Tarzan] þ1927 Tarzan and the Tarzan Twins þTrad. VIALA Gilbert + VANNEREUX Michel
+: .xA.     r     _BURROUGHS Edgar Rice        Tarzan et les jumeaux de Tarzan avec Jad-Bal-Ja le Lion d'Or [Tarzan] þ1936 Tarzan and the Tarzan Twins With Jad-Bal-Ja the Golden Lion þTrad. VIALA Gilbert + VANNEREUX Michel
+o PRNG_SF    54i 2021.12 ..... ISBN 978-2-36634-187-4
+} prngsf054      _?                           ?
+!--- GF - 150x210 - 218 pages - 21,00 euros
+- .o .     R     _BURROUGHS Edgar Rice       &Tarzan l'aventure perdue [Tarzan - 26] þ1995 The Lost Adventure þTrad. VIALA Gilbert + VANNEREUX Michel
+&                _LANSDALE Joe R.             
+!------------------------
+!=== 2022
+!------------------------
+o PRNG_SF    55i 2022.01 ..... ISBN 978-2-36634-189-8
+} prngsf055      _?                           ?
+!--- GF - 150x210 - 162 pages - 16,95 euros
+- .oS.     R     _BURROUGHS Edgar Rice        Les Envahisseurs venus de la Lune [Cycle de la Lune - 2] þ1923 The Moon Men þTrad. CHAPLAIN Eric
+o PRNG_SF    56i 2022.07 ..... ISBN 978-2-36634-190-4
+} prngsf056      _?                           ?
+!--- GF - 150x210 - 136 pages - 15,50 euros
+- .oS.     R     _CARPENTIER Charles          La Ville souterraine þ1887
+o PRNG_SF    58i 2022.08 ..... ISBN 978-2-36634-192-8
+} prngsf058      _?                           ?
+!--- GF - 150x210 - 308 pages - 27,50 euros
+- .oS.     R     _KELLERMANN Bernhard         Le Tunnel þ1913 Der Tunnel þTrad. BERGER Cyril et KLETTE Werner
+o PRNG_SF    59i 2022.08 ..... ISBN 978-2-36634-193-5
+} prngsf059      _?                           ?
+!--- GF - 150x210 - 170 pages - 17,50 euros
+- .oS.     R     _BARBET Pierre               L'Exil‚ du temps [Setni, enquˆteur temporel - 1] þ1969
+o PRNG_SF    60i 2022.08 ..... ISBN 978-2-36634-194-2
+} prngsf060      _?                           ?
+!--- GF - 150x210 - 184 pages - 18,50 euros
+- .oS.     R     _AUDIGIER Camille            Les MystŠres de Vichy þ1932
+o PRNG_SF    61i 2022.xx ..... ISBN 978-2-36634-195-9
+} prngsf061      _?                           ?
+!--- GF - 150x210 - 186 pages - 18,50 euros
+- .oS.     R     _ROBIDA Albert               L'Ing‚nieur Von Satanas þ1919
+o PRNG_SF    63i 2022.xx ..... ISBN 978-2-36634-197-3
+} prngsf063      _?                           ?
+!--- GF - 150x210 - 172 pages - 18,95 euros
+- .oS.     R     _LA HIRE Jean de             Lucifer [Lucifer - 1][Le Nyctalope] þ1922
 
+
+
+
+?- .oS.     R     _LA HIRE Jean de             Nyctalope contre Lucifer [Lucifer - 2][Le Nyctalope] þ1922
 
 
 
@@ -334,7 +546,7 @@ o PRNG_UC     3i 2012.12 ..... ISBN 978-2-36634-000-6
 !------------------------
 o PRNG_UC     1i 2013.11 ..... ISBN 978-2-36634-030-3
 } noimg          _?                           ?
-- .oS.uc   R     _RENOUVIER Charles           Uchronie - L'Utopie dans l'histoire þ1858-1876
+- .oS.uc   R     _RENOUVIER Charles           Uchronie - L'Utopie dans l'histoire - Histoire de la civilisation europ‚enne, telle qu'elle n'a pas ‚t‚, telle qu'elle aurait pu ˆtre þ1858-1876
 o PRNG_UC     2i 2013.03 ..... ISBN 978-2-36634-013-6
 } noimg          _?                           ?
 - .oS.uc   R     _GEOFFROY Louis              Napol‚on apocryphe - 1812-1832 - Histoire de la conquˆte du monde et de la monarchie universelle þ1836
@@ -388,13 +600,13 @@ o PRNG_UC     7i 2018.02 ..... ISBN 978-2-36634-117-1
 - .oS.     R     _DEINCOURT Jean              Napol‚on avait raison þ1932
 o PRNG_UC    18i 2018.04 ..... ISBN 978-2-36634-118-8
 } prngu18        _?                           ?
-- .oS.     N5    _BOIREAU Jacques             Les Enfants d'Ibn Khaldo–n - Chroniques sarrazines þ1988-2018
+- .oS.     N5    _BOIREAU Jacques             Les Enfants d'Ibn Khaldo–n - Chroniques sarrazines þ2018
 : .o .     N     _BOIREAU Jacques             Les Enfants d'Ibn Khaldo–n þ1976
-!--- Chroniques sarrasines þ1988
-: .o .     N     _BOIREAU Jacques             Et‚ þ1984
-: .o .     N     _BOIREAU Jacques             Automne þ1983
-: .o .     N     _BOIREAU Jacques             Hiver þ1984
-: .o .     N     _BOIREAU Jacques             Hiver, toujours þ1986
+: .o .    kN4    _BOIREAU Jacques             Chroniques sarrasines þ1988
+= .o .     N     _BOIREAU Jacques             Et‚ þ1980
+= .o .     N     _BOIREAU Jacques             Automne þ1983
+= .o .     N     _BOIREAU Jacques             Hiver þ1984
+= .o .     N     _BOIREAU Jacques             Hiver, toujours þ1986
 !------------------------
 !=== 2019
 !------------------------
@@ -411,4 +623,23 @@ o PRNG_UC    14i 2020.08 ..... ISBN 978-2-84618-657-5
 } noimg          _?                           ?
 !--- GF - 150 x 210 mm - 148 pages - 12,50 euros
 - .oS.     R     _WALKER John Bernard         La Vengeance du Kaiser - New-York bombard‚ þ1915 America Fallen! The Sequel to the European War þTrad. ?
+!------------------------
+!=== 2021
+!------------------------
+o PRNG_UC    19i 2021.02 ..... ISBN 978-2-36634-163-8
+} noimg          _?                           ?
+!--- GF - 150x210 - 148 pages - 14,50 euros
+!--- Pr‚face : l'Am‚rique orpheline, ou  pas de futur pour l'europe, de R‚my Maure (1982)
+- .oS.     r     _BURROUGHS Edgar Rice        Le Continent oubli‚ (au-del… du 30e m‚ridien) þ1916 Beyond Thirty / The Lost Continent þTrad. CHAPLAIN Eric
+!------------------------
+!=== 2022
+!------------------------
+o PRNG_UC     ?  2022.01 ..... ISBN 978-2-36634-188-1
+} noimg          _?                           ?
+!--- GF - 150x210 - 180 pages - 17,50 euros
+- .oS.     R     _BARBET Pierre               L'Empire du Baphomet þ1972
+o PRNG_UC    18i 2022.06 ..... ISBN 978-2-36634-124-9
+} noimg          _?                           ?
+!--- GF - 150x210 - 272 pages - 25 euros
+- .oS.     R     _LA HIRE Jean de             L'Homme qui peut vivre dans l'eau þ1909
 

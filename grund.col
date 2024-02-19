@@ -1,15 +1,15 @@
 !-----------------------------------------------------------------------------
 _ GRUND   Grnd
-_ GRUND_P Grnd, Grnd poche
-_ GRUNDBP Librairie Grnd, Coll. La bibliothŠque pr‚cieuse
-_ GRUNDFT Librairie Grnd, Coll. Contes et fables de toujours
+_ GRUND_P Grnd - Grnd poche
+_ GRUNDBP Librairie Grnd - La bibliothŠque pr‚cieuse
+_ GRUNDFT Librairie Grnd - Contes et fables de toujours
 !-----------------------------------------------------------------------------
 !--- Grnd
 !--- 
-!--- 1935 Coll. BibliothŠque pr‚cieuse - Poe - Histoires extraordinaires 250p
+!--- 1935 Collection BibliothŠque pr‚cieuse - Poe - Histoires extraordinaires 250p
 !--- r‚‚d. 1939
-!--- 1941 Coll. Mazarine - Histoires extraordinaires - 13nouv. 301 p
-!--- 1941 Coll. Mazarine - Nouvelles Histoires extraordinaires - 288 p
+!--- 1941 Collection Mazarine - Histoires extraordinaires - 13nouv. 301 p
+!--- 1941 Collection Mazarine - Nouvelles Histoires extraordinaires - 288 p
 !---    ces deux volumes illustr‚s par Gus Bofa
 !--- 1941 - Histoires extraordinaires / Nouvelles histoires extraordinaires
 !---      589 pages - Look idem le Tr‚sor de la Litt‚rature Universelle !
@@ -17,8 +17,8 @@ _ GRUNDFT Librairie Grnd, Coll. Contes et fables de toujours
 !-----------------------------------------------------------------------------
 o GRUNDBP     ?  1935.xx ..... ISBN -
 } noimg          _?                           ?
-- .pF.    _N7    _NODIER Charles              Contes ş1935
 !--- "Contes et nouvelles" sur la page de garde
+- .pF.    _N7    _NODIER Charles              Contes ((Contes de Charles Nodier)) ş1935
 : .o .     N     _NODIER Charles              Trilby ou le lutin d'Argail ş1822
 : .o .     N     _NODIER Charles              InŠs de Las Sierras ş1837
 : .o .     N     _NODIER Charles              La Combe de l'homme mort ş1833
@@ -34,7 +34,7 @@ o GRUNDBP     ?  1939.xx ..... ISBN -
 : .oF.     X     _SCOTT Walter                Histoire racont‚e par Willie le vagabond (extrait de : Redgauntlet) ş1824 Wandering Willie's Tale şTrad. DEFAUCONPRET A.J.B.
 : .oF.     X     _SCOTT Walter                Les Aventures de Martin Waldeck (extrait de : L'antiquaire) ş1816 The Fortunes of Martin Waldeck şTrad. DEFAUCONPRET A.J.B.
 : .oF.     N     _SCOTT Walter                Le Miroir de la tante Marguerite ş1828 My Aunt Margaret's Mirror şTrad. DEFAUCONPRET A.J.B.
-: .oF.     N     _SCOTT Walter                La Chambre tapiss‚e, ou la dame en sac ş1826 The Tapestried Chamber / The Tapestried Chamber or The Lady in the Sacque şTrad. DEFAUCONPRET A.J.B.
+: .oF.     N     _SCOTT Walter                La Chambre tapiss‚e, ou la dame en sac ş1826 The Tapestried Chamber / The Tapestried Chamber or the Lady in the Sacque şTrad. DEFAUCONPRET A.J.B.
 o GRUND       ?  1946.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _ANDRE Dominique             Conquˆte de l'‚ternel ş1946
@@ -47,50 +47,115 @@ o GRUND       ?  1961.xx ..... ISBN -
 o GRUNDBP     ?  1970.xx ..... ISBN -
 } noimg          _Jaroslav Serych             Jaroslav Serych
 !--- Traduction Gertrude Fritsch
+!--- + Chez Grnd : Contes japonais, 1970 de Miroslav Novak et Zlata Cerna ( http://opac2.pergame.net/mediatheque-alas-cea-grenoble.net/opac/recherche/resultatautorite?id=109639&page=1&autorite=auteur )
 - .oMF    iNx    _NOVAK Miroslav             &Contes japonais ş1970
 &                _CERNA Zlata                 
 o GRUNDBP     ?  1975.xx ..... ISBN -
-} noimg          _Jaroslav Serych             Jaroslav Serych
+} histoiresfantastiques_grund_1975sansjaquette _Jaroslav Serych             Jaroslav Serych
+- .oMF    _N31   _CERNY V clav               &Histoires fantastiques ş1975 Fantaspick‚ Pohadky şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
 !--- DeuxiŠme ‚dition 1978
+!--- TroisiŠme ‚dition 1980 ISBN 2-7000-0138-9
 !--- 	Cerny, Vaclav (1905 Prague -1987)
 !--- http://docplayer.fr/454532-Les-ecrivains-tcheques-et-slovaques-publies-en-francais-dictionnaire-des-auteurs.html
 !--- 	Cerna, Zlata
 !--- 	Novak, Miroslav (1924-1982)
-!--- D'abord chez Grnd en 1975 avec le contenu suivant :
-!--- La Forˆt argent‚e - Conte serbe
-!--- Une noce chez les d‚mons - Conte g‚orgien
-!--- La Baie des oies sauvages - Conte esquimau du Groenland
-!--- Une Visite inattendue - Conte japonais
-!--- La Vall‚e des d‚mons affam‚s - Conte mongolo-tib‚tain
-!--- Les Compagnons de la bonne chŠre - Conte arabe
-!--- Le Fils du Vieux Loup - Conte caucasien
-!--- La TreiziŠme Balle - Conte japonais
-!--- La Nuit des illusions - Conte persan
-!--- Rencontre prŠs d'une meule - Conte japonais
-!--- La Fˆte des LumiŠres - Conte japonais
-!--- La Tristesse de Madame Li - Conte chinois
-!--- Le Cheval venu de la mer - Conte celte
-!--- Hanaaumo‚ - Conte polyn‚sien
-!--- Le Combat de minuit - Conte lapon
-!--- Les Tˆtes volantes - Conte vietnamien-malais
-!--- Une ‚trange Maladie - Conte hongrois
-!--- La Femme de neige - Conte japonais
-!--- Le Capitaine Hassan, dit l'Eclop‚ - Conte de Born‚o
-!--- Une CarriŠre diff‚r‚e - Conte chinois
-!--- Les Rivaux - Conte guat‚maltŠque
-!--- La Route … travers la montagne - Conte scandinave
-!--- Le Maison du marais - Conte japonais
-!--- Les Souvenirs du derviche Abdullah - Conte d'Asie Centrale
-!--- L'Orphelin - Conte indien
-!--- L'Homme l‚opard - Conte d'Afrique centrale
-!--- La Pagode du Bouclier du Tonnerre - Conte chinois
-!--- La Lionne - Conte africain
-!--- Seketoa - Conte polyn‚sien
-!--- L'Injustice d‚voil‚e - Conte chinois
-!--- La Tˆte du h‚ros - Conte caucasien
-!---
-!--- + Chez Grnd : Contes japonais, 1970 de Miroslav Novak et Zlata Cerna ( http://opac2.pergame.net/mediatheque-alas-cea-grenoble.net/opac/recherche/resultatautorite?id=109639&page=1&autorite=auteur )
-- .oMF    iNx    _CERNY V clav               &Histoires fantastiques ş1975 Fantaspick‚ Pohadky şTrad. KAREL Jean
+!--- Sommaire ‚dition 1980, identique ‚dition 1975
+: .o .  10 p     _CERNY V clav               &Le D‚clin des revenants (introduction) ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  11 N     _CERNY V clav               &La Forˆt argent‚e - Conte serbe ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  16 N     _CERNY V clav               &Une noce chez les d‚mons - Conte g‚orgien ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  24 N     _CERNY V clav               &La Baie des oies sauvages - Conte esquimau du Groenland ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  30 N     _CERNY V clav               &Une Visite inattendue - Conte japonais ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  35 N     _CERNY V clav               &La Vall‚e des d‚mons affam‚s - Conte mongolo-tib‚tain ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  40 N     _CERNY V clav               &Les Compagnons de la bonne chŠre - Conte arabe ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  46 N     _CERNY V clav               &Le Fils du Vieux Loup - Conte caucasien ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  53 N     _CERNY V clav               &La TreiziŠme Balle - Conte japonais ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  57 N     _CERNY V clav               &La Nuit des illusions - Conte persan ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  65 N     _CERNY V clav               &Rencontre prŠs d'une meule - Conte japonais ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  72 N     _CERNY V clav               &La Fˆte des LumiŠres - Conte japonais ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  80 N     _CERNY V clav               &La Tristesse de Madame Li - Conte chinois ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  85 N     _CERNY V clav               &Le Cheval venu de la mer - Conte celte ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  90 N     _CERNY V clav               &Hanaaumo‚ - Conte polyn‚sien ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  94 N     _CERNY V clav               &Le Combat de minuit - Conte lapon ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o .  99 N     _CERNY V clav               &Les Tˆtes volantes - Conte vietnamien-malais ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 105 N     _CERNY V clav               &Une ‚trange Maladie - Conte hongrois ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 112 N     _CERNY V clav               &La Femme de neige - Conte japonais ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 118 N     _CERNY V clav               &Le Capitaine Hassan, dit l'Eclop‚ - Conte de Born‚o ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 127 N     _CERNY V clav               &Une CarriŠre diff‚r‚e - Conte chinois ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 136 N     _CERNY V clav               &Les Rivaux - Conte guat‚maltŠque ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 140 N     _CERNY V clav               &La Route … travers la montagne - Conte scandinave ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 146 N     _CERNY V clav               &Le Maison du marais - Conte japonais ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 153 N     _CERNY V clav               &Les Souvenirs du derviche Abdullah - Conte d'Asie Centrale ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 161 N     _CERNY V clav               &L'Orphelin - Conte indien ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 168 N     _CERNY V clav               &L'Homme l‚opard - Conte d'Afrique centrale ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 175 N     _CERNY V clav               &La Pagode du Bouclier du Tonnerre - Conte chinois ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 192 N     _CERNY V clav               &La Lionne - Conte africain ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 197 N     _CERNY V clav               &Seketoa - Conte polyn‚sien ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 203 N     _CERNY V clav               &L'Injustice d‚voil‚e - Conte chinois ş1975 ? şTrad. KAREL Jean
+&                _CERNA Zlata                &
+&                _NOVAK Miroslav             
+: .o . 208 N     _CERNY V clav               &La Tˆte du h‚ros - Conte caucasien ş1975 ? şTrad. KAREL Jean
 &                _CERNA Zlata                &
 &                _NOVAK Miroslav             
 o GRUNDBP     ?  1985.xx ..... ISBN 2-7000-0281-4

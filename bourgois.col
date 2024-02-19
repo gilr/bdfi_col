@@ -6,13 +6,13 @@
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 _ BOUR    Christian Bourgois
-_ BOUR_DM Christian Bourgois, Coll. Les Dernier Mots
-_ BOUR_PJ Christian Bourgois, Coll. P.J.
-_ BOUR_R  Christian Bourgois, ‚dition reli‚e
-_ BOUR_L  Christian Bourgois, ‚dition luxe
-_ BOURFIC Christian Bourgois, Coll. Fictives
-_ BOURTIT Christian Bourgois, Coll. Titre
-_ BOU_FA  Christian Bourgois, Coll. "Dans le fantastique"
+_ BOUR_DM Christian Bourgois - Les Dernier Mots
+_ BOUR_PJ Christian Bourgois - P.J.
+_ BOUR_R  Christian Bourgois - ‚dition reli‚e
+_ BOUR_L  Christian Bourgois - ‚dition luxe
+_ BOURFIC Christian Bourgois - Fictives
+_ BOURTIT Christian Bourgois - Titre
+_ BOU_FA  Christian Bourgois - "Dans le fantastique"
 !-----------------------------------------------------------------------------
 
 !------------------------
@@ -30,7 +30,7 @@ o BOUR        ?  1969.xx ..... ISBN 2-267-00408-9
 !--- Note,  Note, de Fran‡ois Truchaud d'aprŠs August Derleth  p. 7-8
 !--- H.P. Lovecradt et la cr‚ation fantastique (Avril 1968), par Fran‡ois Truchaud  p. 9-34
 } noimg          _?                           ?
-- .o .     E     _LOVECRAFT Howard P.         Epouvante et surnaturel en Litt‚rature ş1935 Supernatural Horror in Literature şTrad. BERGIER Jacques & TRUCHAUD Fran‡ois
+- .o .     E     _LOVECRAFT Howard P.         Epouvante et surnaturel en Litt‚rature ş1927-1935 Supernatural Horror in Literature şTrad. BERGIER Jacques & TRUCHAUD Fran‡ois
 o BOUR        ?  1969.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _BURROUGHS William S.        Le Ticket qui explosa [La Trilogie Nova] ş1962 The Ticket That Exploded şTrad. BEACH Mary + PELIEU Claude
@@ -51,7 +51,7 @@ o BOU_FA      ?  1971.xx ..... ISBN -
 - .o .     R     _REMY Yves & Ada             Le Grand Midi ş1971
 o BOUR_PJ     ?  1971.xx ..... ISBN -
 } noimg          _?                           ?
-- .x .     R     _ASIMOV Isaac                Une bouff‚e de mort ş1958 A Whiff of Death / The Death Dealers şTrad. DUCHEIN Michel
+- .x .     R     _ASIMOV Isaac                Une bouff‚e de mort ş1958 The Death Dealers / A Whiff of Death şTrad. DUCHEIN Michel
 o BOUR_PJ    24  1971.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     R     _JACKSON Shirley             Nous avons toujours habit‚ le chƒteau ş1962 We Have Always Lived in the Castle şTrad. MALEVAL Fran‡ois & CAMBEUR IrŠne de
@@ -89,18 +89,18 @@ o BOUR        ?  1974.xx ..... ISBN -
 + BOUR        ?  1988.xx ..... ISBN 2-267-0585-9
 } cbtracecthulhur88 _?                           N
 - .oF.     N5    _DERLETH August              La Trace de Cthulhu ş1962 The Trail of Cthulhu
-: .o .     N     _DERLETH August              La Maison de Curwen Street ş1943 The House of Curwen Street
+: .o .     N     _DERLETH August              La Maison de Curwen Street ş1944 The Trail of Cthulhu / The House on Curwen Street
 : .o .     N     _DERLETH August              La Vigie c‚leste ş1945 The Watcher from the Sky
 : .o .     N     _DERLETH August              La Gorge au-del… de Salapunco ş1948 The Gorge Beyond Salapunco
 : .o .     N     _DERLETH August              Le Gardien de la cl‚ ş1951 The Keeper of the Key
 : .o .     N     _DERLETH August              L'Œle noire ş1951 The Black Island
-o BOUR        ?  1974.xx ..... ISBN .-.....-...-.
+o BOUR        ?  1974.xx ..... ISBN -
 } noimg          _?                           ?
 !--- Roman-collection : pourra ˆtre d‚crit comme un recueil de nouvelles li‚es
 - .o .     R     _BURROUGHS William S.        Exterminateur ! ş1973 Exterminator!
-o BOUR        ?  1974.xx ..... ISBN .-.....-...-.
+o BOUR        ?  1974.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     N20   _SMITH Clark Ashton          Autres dimensions ş1970 Other Dimensions
+- .oF.     N20   _SMITH Clark Ashton          Autres dimensions ş1970 Other Dimensions
 : .o .     N     _SMITH Clark Ashton          Abandonn‚s dans l'AndromŠde ş1930 Marooned in Andromeda
 : .o .     N     _SMITH Clark Ashton          L'tonnante PlanŠte ş1931 The Amazing Planet
 : .o .     N     _SMITH Clark Ashton          Une aventure dans le futur ş1931 An Adventure in Futurity
@@ -128,10 +128,10 @@ o BOUR        ?  1974.xx ..... ISBN -
 + BOUR        ?  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oY.     N4    _TOLKIEN J.R.R.              Fa‰rie ş1974
-: .o .     r     _TOLKIEN J.R.R.              Le Fermier Gilles de Ham ş1949 Farmer Gil Of Ham şTrad. LEDOUX F.
+: .o .     r     _TOLKIEN J.R.R.              Le Fermier Gilles de Ham ş1949 Farmer Gil of Ham şTrad. LEDOUX F.
 : .o .     N     _TOLKIEN J.R.R.              Smith de Grand Wootton ş1967 Smith of Wootton Major şTrad. LEDOUX F.
 : .o .     N     _TOLKIEN J.R.R.              Feuille de Niggle ş1945 Leaf by Niggle şTrad. LEDOUX F.
-: .o .     a     _TOLKIEN J.R.R.              Du conte de f‚es ş1939 On Fairy-Stories şTrad. LEDOUX F.
+: .o .     E     _TOLKIEN J.R.R.              Du conte de f‚es ş1939 On Fairy-Stories şTrad. LEDOUX F.
 !------------------------
 !=== 1975
 !------------------------
@@ -168,7 +168,7 @@ o BOUR        ?  1975.xx ..... ISBN -
 - .oF.    _A12   *DERLETH August              L‚gendes du mythe de Cthulhu [L‚gendes du mythe de Cthulhu] ş1975
 !--- ou 1975 puisque incomplet...
 !--- "H.P. Lovecraft and others"
-: .o .     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu ş1926 The Call of Cthulhu
+: .o .     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu ş1928 The Call of Cthulhu
 : .o .     N     _SMITH Clark Ashton          Talion ş1931 The Return of the Sorcerer
 : .o .     N     _SMITH Clark Ashton          Ubbo-Sathla ş1933 Ubbo-Sathla
 : .o .     N     _HOWARD Robert E.            La Pierre noire ş1931 The Black Stone
@@ -185,30 +185,41 @@ o BOUR        ?  1975.xx ..... ISBN -
 - .oF.    kN14   *DERLETH August              L'Horreur dans le mus‚e - Tome 1 ş1970 The Horror in the Museum and Other Revisions
 : .o .     p     _DERLETH August              Les R‚visions de Lovecraft ş1970 Lovecraft's Revisions
 : .o .     p     _LACASSIN Francis            Lovecraft : NŠgre litt‚raire ou accoucheur de talents ? ş1975
-: .o .     N     _BERKELEY Elisabeth         &En rampant dans le chaos ş1920 The Crawling Chaos şTrad. PARSONS Jacques
+: .o .     N     _BERKELEY Elisabeth         &En rampant dans le chaos ş1921 The Crawling Chaos şTrad. PARSONS Jacques
 &                _LOVECRAFT Howard P.         
 : .o .     N     _BERKELEY Elisabeth         &La Verte Prairie ş1927 The Green Meadow şTrad. PARSONS Jacques
 &                _LOVECRAFT Howard P.         
 : .o .     N     _GREENE Sonia                Le Monstre invisible ş1923 The Invisible Monster / The Horror at Martin's Beach şTrad. PARSONS Jacques
 : .o .     N     _GREENE Sonia                Quatre heures ş1949 Four O'clock şTrad. PARSONS Jacques
-: .o .     N     _HEALD Hazel                 L'Homme de pierre ş1932 The Man of Stone şTrad. PARSONS Jacques
-: .o .     N     _HEALD Hazel                 La Mort ail‚e ş1934 Winged Death şTrad. PARSONS Jacques
+: .o .     N     _HEALD Hazel                &L'Homme de pierre ş1932 The Man of Stone şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _HEALD Hazel                &La Mort ail‚e ş1934 Winged Death şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
 : .o .     N     _EDDY C.M. Jr.               Le N‚crophile ş1924 The Loved Dead şTrad. PARSONS Jacques
 : .o .     N     _EDDY C.M. Jr.               Sourd, muet et aveugle ş1925 Deaf, Dumb and Blind şTrad. PARSONS Jacques
 : .o .     N     _EDDY C.M. Jr.               Le Mangeur de spectres ş1924 The Ghost-eater şTrad. PARSONS Jacques
 : .o .     N     _BARLOW Robert H.            Jusqu'… ce que toutes les mers... ş1935 Till All the Seas şTrad. PARSONS Jacques
-: .o .     N     _HEALD Hazel                 L'Horreur dans le mus‚e ş1933 The Horror in the Museum şTrad. PARSONS Jacques
-: .o .     N     _HEALD Hazel                 Surgi du fond des siŠcles ş1935 Out of the Eons şTrad. PARSONS Jacques
-: .o .     N     _LUMLEY William              Le Journal d'Alonso Typer ş1938 The Diary of Alonso Typer şTrad. PARSONS Jacques
-: .o .     N     _HEALD Hazel                 L'Horreur dans le cimetiŠre ş1937 The Horror in the Burying-ground şTrad. PARSONS Jacques
+: .o .     N     _HEALD Hazel                &L'Horreur dans le mus‚e ş1933 The Horror in the Museum şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _HEALD Hazel                &Surgi du fond des siŠcles ş1935 Out of the Eons şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _LUMLEY William             &Le Journal d'Alonso Typer ş1938 The Diary of Alonzo Typer şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _HEALD Hazel                &L'Horreur dans le cimetiŠre ş1937 The Horror in the Burying-Ground şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
 o BOUR        ?  1975.xx ..... ISBN -
 } cbhormusee2    _?                           ?
 - .oF.    kN6    *DERLETH August              L'Horreur dans le mus‚e - Tome 2 ş1970 The Horror in the Museum and Other Revisions
-: .o .     N     _CASTRO Adolpho de           Le Dernier Examen ş1928 The Last Test şTrad. PARSONS Jacques
-: .o .     N     _CASTRO Adolpho de           L'Ex‚cuteur des hautes oeuvres ş1930 The Electric Executioner şTrad. PARSONS Jacques
-: .o .     N     _BISHOP Zealia               La Mal‚diction de Yig ş1929 The Curse of Yig şTrad. PARSONS Jacques
-: .o .     N     _BISHOP Zealia               La Chevelure de M‚duse ş1939 Medusa's Coil şTrad. PARSONS Jacques
-: .o .     N     _BISHOP Zealia               Le Tertre ş1940 The Mound şTrad. PARSONS Jacques
+: .o .     N     _CASTRO Adolpho de          &Le Dernier Examen ş1928 The Last Test şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _CASTRO Adolpho de          &L'Ex‚cuteur des hautes oeuvres ş1930 The Electric Executioner şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _BISHOP Zealia              &La Mal‚diction de Yig ş1929 The Curse of Yig şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _BISHOP Zealia              &La Chevelure de M‚duse ş1939 Medusa's Coil şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _BISHOP Zealia              &Le Tertre ş1940 The Mound şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
 : .o .     N     _TALMAN Wilfred Blanch       Deux bouteilles noires ş1927 Two Black Bottles şTrad. PARSONS Jacques
 !------------------------
 !=== 1977
@@ -216,10 +227,24 @@ o BOUR        ?  1975.xx ..... ISBN -
 o BOUR        ?  1977.xx ..... ISBN -
 } bourgoislpn_77 _?                           ?
 !--- Edit‚es par Baillie Tolkien
+!--- 47 pages
+!--- 16 lettres, parfois incomplŠtes
 + BOUR        ?  1984.xx ..... ISBN 2-267-00369-4
 } noimg          _?                           Ted Nasmith
-!--- Nota : le pocket vers 2010 contient les 30 lettres
-- .oN.    iN15   _TOLKIEN J.R.R.              Les Lettres du PŠre No‰l ş1976 The Father Christmas Letters şTrad. LEMAIRE G‚rard-Georges
+!--- 47 pages
++ BOUR        ?  1993.xx ..... ISBN 2-267-01165-4
+} noimg          _?                           Ted Nasmith
+!--- 47 pages - Contenu identique pour ces 3 premiŠres ‚ditions
+- .oN.    iNx    _TOLKIEN J.R.R.              Les Lettres du PŠre No‰l ş1976 The Father Christmas Letters şTrad. LEMAIRE G‚rard-Georges
+o BOUR_R      ?  2004.xx ..... ISBN 2-267-01697-4
+} noimg          _?                           Ted Nasmith
+!--- 116 pages
+!--- Contient de nouvelles lettres et illustrations
++ BOUR        ?  2022.11 ..... ISBN 978-2-267-04680-9
+} noimg          _?                           ?
+!--- 208 pages - 29 euros
+!--- Encore plus complet, lettres, enveloppes et timbres.
+- .oN.    iNx    _TOLKIEN J.R.R.              Les Lettres du PŠre No‰l ş1976 The Father Christmas Letters şTrad. LEMAIRE G‚rard-Georges + LEROY C‚line
 !------------------------
 !=== 1978
 !------------------------
@@ -267,7 +292,7 @@ o BOUR        ?  1982.xx ..... ISBN 2-267-00321-X
 !--- TBD DeuxiŠme partie : le deuxiŠme ƒge
 : .oY.     N     _TOLKIEN J.R.R.              Une description de l'Œle de N£menor ş1980 A Description of the Island of N£menor şTrad. JOLAS Tina
 : .oY.     N     _TOLKIEN J.R.R.              Aldarion et Erendis ş1980 Aldarion and Erendis: The Mariner's Wife şTrad. JOLAS Tina
-: .oY.     N     _TOLKIEN J.R.R.              La Lign‚e d'Elros : les rois de N£menor ş1980  The Line of Elros: Kings of N£menor from the Founding of the City of Armenelos to the Downfall şTrad. JOLAS Tina
+: .oY.     N     _TOLKIEN J.R.R.              La Lign‚e d'Elros : les rois de N£menor ş1980 The Line of Elros: Kings of N£menor from the Founding of the City of Armenelos to the Downfall şTrad. JOLAS Tina
 : .oY.     N     _TOLKIEN J.R.R.              L'Histoire de Galadriel et Celeboen, et d'Amroth, roi de L¢rien ş1980 The History of Galadriel and Celeborn and of Amroth King of L¢rien şTrad. JOLAS Tina
 !--- TBD TroisiŠme partie : le troisiŠme ƒge
 : .oY.     N     _TOLKIEN J.R.R.              Le D‚sastre des champs d'Iris ş1980 The Disaster of the Gladden Fields şTrad. JOLAS Tina
@@ -290,7 +315,7 @@ o BOUR        ?  1983.xx ..... ISBN ?
 &                _DERLETH August              
 : .o .     N     _LOVECRAFT Howard P.        &Le Survivant ş1954 The Survivor şTrad. FERRY Jean
 &                _DERLETH August              
-: .o .     N     _LOVECRAFT Howard P.        &Le Jour … Wentworth ş1957 The Wentworth's Day şTrad. FERRY Jean
+: .o .     N     _LOVECRAFT Howard P.        &Le Jour … Wentworth ş1957 Wentworth's Day şTrad. FERRY Jean
 &                _DERLETH August              
 : .o .     N     _LOVECRAFT Howard P.        &L'H‚ritage Peabody ş1957 The Peabody Heritage şTrad. FERRY Jean
 &                _DERLETH August              
@@ -324,7 +349,7 @@ o BOUR_DM     ?  1983.05 ..... ISBN 2-267-00335-X
 ! .o .     N     _KAVAN Anna                  ? ş? Machines in the Head
 ! .o .     N     _KAVAN Anna                  ? ş? Asylum Piece
 ! .o .     N     _KAVAN Anna                  ? ş? The End in Sight
-! .o .     N     _KAVAN Anna                  ? ş? There is no End
+! .o .     N     _KAVAN Anna                  ? ş? There Is no End
 !------------------------
 !=== 1986
 !------------------------
@@ -337,13 +362,13 @@ o BOUR        ?  1986.xx ..... ISBN 2-267-00457-7
 !------------------------
 o BOUR        ?  1987.xx ..... ISBN 2-267-00528-X
 } noimg          _?                           N
-- .oF.     RN4   _MACHEN Arthur               Le Peuple blanc ş1965 ?
-!--- Trad et pr‚face PARSONS Jacques
-: .o .     N     _MACHEN Arthur               Le Peuple blanc ş1904 The White People
-: .o .     N     _MACHEN Arthur               Le Grand Retour ş1915 The Great Return
-: .o .     N     _MACHEN Arthur               Les Archers ş1914 The Bowmen
-: .o .     R     _MACHEN Arthur               La Terreur ş1916 The Terror
-: .o .     N     _MACHEN Arthur               La Pyramide de feu ş1895 The Shining Pyramid
+- .oF.     RN4   _MACHEN Arthur               Le Peuple blanc ş1970
+!--- Pr‚face PARSONS Jacques
+: .o .     N     _MACHEN Arthur               Le Peuple blanc ş1904 The White People şTrad. PARSONS Jacques
+: .o .     N     _MACHEN Arthur               Le Grand Retour ş1915 The Great Return şTrad. PARSONS Jacques
+: .o .     N     _MACHEN Arthur               Les Archers ş1914 The Bowmen şTrad. PARSONS Jacques
+: .o .     R     _MACHEN Arthur               La Terreur ş1916 The Terror şTrad. PARSONS Jacques
+: .o .     N     _MACHEN Arthur               La Pyramide de feu ş1895 The Shining Pyramid şTrad. PARSONS Jacques
 !------------------------
 !=== 1988
 !------------------------
@@ -370,7 +395,7 @@ o BOUR        ?  1990.03 ..... ISBN 2-267-00892-0
 } noimg          _?                           ?
 - .o .     R     _KABAKOV Alexandre           Non-retour ş1989 Nevozvrashenetz şTrad. MOURAVIEFF Elisabeth
 o BOUR        ?  1990.xx ..... ISBN 2-267-00856-4
-}cbourgrbmonst   _?                           N
+} cbourgrbmonst  _?                           N
 - .x .     N14   _BRADBURY Ray                Monstrueusement v“tre ş1984 A Memory of Murder şTrad. GIRARD Pierre
 : .x .     p     _BRADBURY Ray                Hammett ? Chandler ? Allons, pas d'affolement ! ş1984 Hammett? Chandler? Not to Worry! şTrad. GIRARD Pierre
 : .x .     N     _BRADBURY Ray                Je ne suis pas si bˆte ş1945 I'm Not so Dumb! şTrad. GIRARD Pierre
@@ -391,8 +416,12 @@ o BOUR        ?  1990.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _FREY Alexander Moritz       Mon nom est personne ş1914 Solneman der Unsichtbare
 o BOUR        ?  1990.xx ..... ISBN 2-267-00952-8
-} noimg          _?                           N
-- .oPF    iNx    _VAZQUEZ MONTALBAN Manuel    Histoires de politique fiction ş1987 Historias de politica ficci¢n şTrad. LAROUTIS Denise
+} bourgois_hpf   _?                           N
+!--- 191 pages - 21 cm - 100 francs
+- .oPF    kN3    _VAZQUEZ MONTALBAN Manuel    Histoires de politique fiction ş1987 Historias de politica ficci¢n şTrad. LAROUTIS Denise
+: .o .     N     _VAZQUEZ MONTALBAN Manuel    Federico III de Castille et Le¢n ş1987 Federico III de Castilla y Le¢n şTrad. LAROUTIS Denise
+: .o .     N     _VAZQUEZ MONTALBAN Manuel    La guerre civile n'est pas finie ş1987 La guerra civil no ha terminado şTrad. LAROUTIS Denise
+: .o .     N     _VAZQUEZ MONTALBAN Manuel    Un certain 23 f‚vrier ş1987 Aquel 23 de febrero şTrad. LAROUTIS Denise
 o BOUR        ?  1990.xx ..... ISBN 2-267-00805-X
 } noimg          _?                           N
 + BOUR        ?  1992.xx ..... ISBN 2-267-01125-5
@@ -403,6 +432,16 @@ o BOUR        ?  1990.xx ..... ISBN 2-267-00805-X
 : .o .     R     _TOLKIEN J.R.R.              Les Deux Tours [Le Seigneur des anneaux - 2] ş1954 The Two Towers şTrad. LEDOUX F.
 : .o .     R     _TOLKIEN J.R.R.              Le Retour du roi [Le Seigneur des anneaux - 3] ş1955 The Return of the King şTrad. LEDOUX F.
 : .oY.    iNx    _TOLKIEN J.R.R.              Appendices et annexes [Le Seigneur des anneaux - 4] ş1986
+o BOUR        ?  1990.10 ..... ISBN 2-267-00616-2
+} noimg          _?                           ?
+!--- 190 pages - 100 francs - MF - 20 cm
+!--- ISBN erron‚ 2-267-00612-2
+- .oS.     N5    _AMIS Martin                 Les Monstres d'Einstein ş1987 Einstein's Monsters şTrad. AMICO G‚raldine d'
+: .oS.     N     _AMIS Martin                 Bujak et la force puissante ou les d‚s de Dieu ş1987 Bujak and the Strong Force, or God's Dice şTrad. AMICO G‚raldine d'
+: .oS.     N     _AMIS Martin                 Intuition au lac de feu ş1987 Insight at Flame Lake şTrad. AMICO G‚raldine d'
+: .oS.     N     _AMIS Martin                 La Maladie du temps ş1987 The Time Disease şTrad. AMICO G‚raldine d'
+: .oS.     N     _AMIS Martin                 Le Petit Chiot qui pouvait ş1987 The Little Puppy That Could şTrad. AMICO G‚raldine d'
+: .oS.     N     _AMIS Martin                 Les Immortels ş1987 The Immortals şTrad. AMICO G‚raldine d'
 !------------------------
 !=== 1992
 !------------------------
@@ -411,6 +450,10 @@ o BOUR        ?  1992.xx ..... ISBN 2-267-01127-1
 + BOUR        ?  1995.xx ..... ISBN 2-267-01317-7
 } noimg          _?                           N
 - .o .     R     _TOLKIEN J.R.R.              Bilbo le hobbit ş1937 The Hobbit şTrad. LEDOUX Francis
+o BOUR        ?  1992.xx ..... ISBN 2-267-00889-0
+} noimg          _?                           ?
+!--- 531 pages - 170 francs - GF - 23 cm
+- .o .     R     _AMIS Martin                 London Fields ş1998 London Fields şTrad. AMICO G‚raldine d'
 !------------------------
 !=== 1993
 !------------------------
@@ -423,7 +466,11 @@ o BOUR        ?  1993.xx ..... ISBN 2-267-01165-4
 } bourgoislpn_04 _?                           ?
 !--- 15 Nouvelles lettres et illustrations
 !--- TBD A priori, nouvelle version depuis 1993; 2004 = 1993
-- .oN.    iN30   _TOLKIEN J.R.R.              Lettres du PŠre No‰l ş1976 The Father Christmas Letters şTrad. LEMAIRE G‚rard-Georges et LEROY C‚line
+- .oN.    iNx    _TOLKIEN J.R.R.              Lettres du PŠre No‰l ş1976 The Father Christmas Letters şTrad. LEMAIRE G‚rard-Georges et LEROY C‚line
+o BOUR        ?  1993.xx ..... ISBN 2-267-01098-4
+} noimg          _?                           ?
+!--- 192 pages - 100 francs - MF - 20 cm
+- .o .     R     _AMIS Martin                 La FlŠche du temps ş1991 Time's Arrow or The Nature of the Offence şTrad. KOFF-D'AMICO G‚raldine
 !------------------------
 !=== 1994
 !------------------------
@@ -441,15 +488,25 @@ o BOUR        ?  1994.xx ..... ISBN 2-267-01254-5
 : .o .     N     _EWERS Hanns Heinz           La Fin de John Hamilton Llewellyn ş1904 John Hamilton Llewellyns ende
 : .o .     N     _EWERS Hanns Heinz           Journal d'un oranger ş1907 Aus dem tagebuch eines orangenbaumes
 : .o .     N     _EWERS Hanns Heinz           Le Juif mort ş1907 Der tote Jude
-: .o .     N     _EWERS Hanns Heinz           La Fianc‚e du Tophar ş1904 Die topharbraut
+: .o .     N     _EWERS Hanns Heinz           La Fianc‚e du Tophar ş1904 Die Topharbraut
 : .o .     N     _EWERS Hanns Heinz           La Mamaloi ş1907 Die mamaloi
-: .o .     N     _EWERS Hanns Heinz           Le Noy‚ ş1907 Die wasserleiche
+: .o .     N     _EWERS Hanns Heinz           Le Noy‚ ş1907 Die Wasserleiche
 o BOUR        ?  1994.xx ..... ISBN 2-267-01213-8
 } noimg          _?                           ?
 - .oS.    kR3    _BURROUGHS William S.        La Machine molle - Le Ticket qui explosa - Nova express [La Trilogie Nova] ş1994
 : .o .     R     _BURROUGHS William S.        La Machine molle [La Trilogie Nova] ş1961 The Soft Machine şTrad. BEACH Mary + PELIEU Claude
 : .o .     R     _BURROUGHS William S.        Le Ticket qui explosa [La Trilogie Nova] ş1962 The Ticket That Exploded şTrad. BEACH Mary + PELIEU Claude
 : .o .     R     _BURROUGHS William S.        Nova express [La Trilogie Nova] ş1964 Nova Express şTrad. BEACH Mary + PELIEU Claude
+o BOUR_R      ?  1994.01 ..... ISBN  2-267-01234-0
+} noimg          _J.R.R. Tolkien              ?
+!--- GF - 32 cm - 99 pages - 250 francs
+!--- Texte et avant-propos de Christopher Tolkien ; trad. de l'anglais par Adam R. Tolkien
++ BOUR_R      ?  2022.11 ..... ISBN 978-2-267-04681-6
+} noimg          _J.R.R. Tolkien              ?
+!--- GF - 270 x 270 mm - 114 pages - 45 euros
+!--- Reli‚ sous ‚tui
+!--- Texte r‚vis‚ par Vincent Ferr‚
+- .oY.     E     _TOLKIEN Christopher         Peintures et aquarelles ş1979-1992 Pictures by J.R.R. Tolkien şTrad. TOLKIEN Adam
 !------------------------
 !=== 1995
 !------------------------
@@ -537,7 +594,7 @@ o BOUR        ?  2000.xx ..... ISBN 2-267-01170-0
 !--- TBD DeuxiŠme partie : le deuxiŠme ƒge
 = .oY.     N     _TOLKIEN J.R.R.              Une description de l'Œle de N£menor ş1980 A Description of the Island of N£menor şTrad. JOLAS Tina
 = .oY.     N     _TOLKIEN J.R.R.              Aldarion et Erendis ş1980 Aldarion and Erendis: The Mariner's Wife şTrad. JOLAS Tina
-= .oY.     N     _TOLKIEN J.R.R.              La Lign‚e d'Elros : les rois de N£menor ş1980  The Line of Elros: Kings of N£menor from the Founding of the City of Armenelos to the Downfall şTrad. JOLAS Tina
+= .oY.     N     _TOLKIEN J.R.R.              La Lign‚e d'Elros : les rois de N£menor ş1980 The Line of Elros: Kings of N£menor from the Founding of the City of Armenelos to the Downfall şTrad. JOLAS Tina
 = .oY.     N     _TOLKIEN J.R.R.              L'Histoire de Galadriel et Celeboen, et d'Amroth, roi de L¢rien ş1980 The History of Galadriel and Celeborn and of Amroth King of L¢rien şTrad. JOLAS Tina
 !--- TBD TroisiŠme partie : le troisiŠme ƒge
 = .oY.     N     _TOLKIEN J.R.R.              Le D‚sastre des champs d'Iris ş1980 The Disaster of the Gladden Fields şTrad. JOLAS Tina
@@ -563,7 +620,7 @@ o BOUR        ?  2001.xx ..... ISBN 978-2-267-.....-.
 o BOUR        ?  2002.xx ..... ISBN 2-267-01609-5
 } bourgoislcp_02 _?                           ?
 !--- ‚dition ‚tablie et pr‚sent‚e par Christopher TOLKIEN
-- .oY.    iN16   _TOLKIEN J.R.R.              Le Livre des contes perdus [Histoire de la Terre du Milieu - 1/2] ş2002
+- .oY.    iNx    _TOLKIEN J.R.R.              Le Livre des contes perdus [Histoire de la Terre du Milieu - 1/2] ş2002
 !------------------------
 !=== 2003
 !------------------------
@@ -572,7 +629,7 @@ o BOUR        ?  2003.xx ..... ISBN 2-267-01696-6
 !--- recueil de poŠmes (aventures de Tom Bombadil) en anglais et en fran‡ais
 - .oY.     N4    _TOLKIEN J.R.R.              Fa‰rie et autres textes ş2003
 : .o .     N     _TOLKIEN J.R.R.              Le Retour de Beorhtnoth ş1953 The Homecoming of Beorhtnoth Beorhthelm's Son şTrad. ?
-: .o .     a     _TOLKIEN J.R.R.              Du conte de f‚es ş1939 On Fairy-Stories şTrad. LEDOUX F.
+: .o .     E     _TOLKIEN J.R.R.              Du conte de f‚es ş1939 On Fairy-Stories şTrad. LEDOUX F.
 : .o .     N     _TOLKIEN J.R.R.              Feuille de Niggle ş1945 Leaf by Niggle şTrad. HEDAYAT Dashiell
 : .o .     r     _TOLKIEN J.R.R.              Le Fermier Gilles de Ham ş1949 Farmer Gil of Ham şTrad. HEDAYAT Dashiell
 : .o .     N     _TOLKIEN J.R.R.              Smith de Grand Wootton ş1967 Smith of Wootton Major şTrad. HEDAYAT Dashiell
@@ -619,7 +676,7 @@ o BOUR_PJ     ?  2006.05 ..... ISBN 2-267-01821-7
 : .o .     P     _TOLKIEN J.R.R.              Le Lai de Leithian ş1985 The Lay of Leithian şTrad. RIOTH Elan & LOUZON Daniel
 !-- 4. Le Nouveau Lai de Leithian - The Lay of Leithian Recommenced
 : .o .     P     _TOLKIEN J.R.R.              Le Nouveau Lai de Leithian ş1985 The Lay of Leithian Recommenced şTrad. RIOTH Elan & LOUZON Daniel
-: .o .     a     _TOLKIEN Christopher         Note sur le Lai de Leithian et Le Silmarillion ş1985 Note on the original submission on the Lay of Leithian and The Silmarillion in 1937 şTrad. RIOTH Elan & LOUZON Daniel
+: .o .     a     _TOLKIEN Christopher         Note sur le Lai de Leithian et le Silmarillion ş1985 Note on the original submission on the Lay of Leithian and the Silmarillion in 1937 şTrad. RIOTH Elan & LOUZON Daniel
 : .o .     a     _TOLKIEN Christopher         Glossaire des termes anglais rares et vieillis ş1985 Glossary of Obsolete, Archaic and Rare Words and Meanings
 : .o .     a     _TOLKIEN Christopher         Index ş1985 Index
 o BOUR        ?  2006.05 ..... ISBN 2-267-01820-9
@@ -630,7 +687,7 @@ o BOUR        ?  2006.05 ..... ISBN 2-267-01820-9
 : .o .     a     _TOLKIEN J.R.R.              Beowulf: les monstres et les critiques ş1937 Beowulf: The Monsters and the Critics
 : .o .     a     _TOLKIEN J.R.R.              Traduire Beowulf ş1940 On Translating Beowulf
 : .o .     a     _TOLKIEN J.R.R.              Sire Gauvain et le Chevalier vert ş1953 Sir Gawain and the Green Knight
-: .o .     a     _TOLKIEN J.R.R.              Du conte de f‚es ş1939 On Fairy-Stories
+: .o .     E     _TOLKIEN J.R.R.              Du conte de f‚es ş1939 On Fairy-Stories
 : .o .     a     _TOLKIEN J.R.R.              L'Anglais et le Gallois ş1955 English and Welsh
 : .o .     a     _TOLKIEN J.R.R.              Un vice secret ş1931 A Secret Vice
 : .o .     a     _TOLKIEN J.R.R.              Discours d'adieu … l'universit‚ d'Oxford ş1959 Valedictory Address
@@ -667,13 +724,13 @@ o BOUR        ?  2008.10 ..... ISBN 978-2-267-02000-7
 } buorgoisrp_08  _?                           ?
 - .oY.     Ax    _TOLKIEN J.R.R.              La Route perdue [Histoire de la Terre du Milieu - 5] ş1987 The Lost Road and Other Writings şTrad. LAUZON Daniel
 : .oY.     p     _TOLKIEN Christopher         Avant-Propos ş1987 Preface
-!--- 1. La Chute de N£menor et la Route perdue - The Fall of N£menor and The Lost Road
+!--- 1. La Chute de N£menor et la Route perdue - The Fall of N£menor and the Lost Road
 : .o .     N     _TOLKIEN J.R.R.              La Chute de N£menor ş1987 The Fall of N£menor
 : .o .     N     _TOLKIEN J.R.R.              La Route perdue ş1987 The Lost Road
 : .o .     P     _TOLKIEN J.R.R.              Le Pays sans nom ş1927 The Nameless Land
 ?: .o .     P     _TOLKIEN J.R.R.              La Chanson d'Aelfwine (version interm‚diaire) ş1987 The Song of Aelfwine (intermediate version)
 : .o .     P     _TOLKIEN J.R.R.              La Chanson d'Aelfwine ş1987 The Song of Aelfwine
-!--- 2. Le Valinor et la Terre du Milieu avant le Seigneur des Anneaux - Valinor and Middle-Earth Before The Lord of the Rings
+!--- 2. Le Valinor et la Terre du Milieu avant le Seigneur des Anneaux - Valinor and Middle-Earth Before the Lord of the Rings
 : .o .     N     _TOLKIEN J.R.R.              Les Nouvelles Annales du Valinor ş1987 Simarillion II: Annals of Valinor
 : .o .     N     _TOLKIEN J.R.R.              Les Nouvelles Annales du Beleriand ş1987 Simarillion III: Annals of Beleriand
 : .o .     N     _TOLKIEN J.R.R.              Ainulindal‰ ş1977 Ainulindal‰
@@ -742,8 +799,8 @@ o BOUR        ?  2012.10 ..... ISBN 978-2-267-02401-2
 } noimg          _Jemima Catlin               Jemima Catlin
 - .oY.     R     _TOLKIEN J.R.R.              Le Hobbit ş1937 The Hobbit şTrad. LAUZON Daniel
 o BOUR_R      ?  2012.10 ..... ISBN 978-2-267-02402-9
-} noimg          _Alan Lee                    Alan Lee
-!--- Illustr‚ et reli‚, avec jaquette - 300p
+} noimg          _Alan Lee                    O: Alan Lee
+!--- reli‚ - jaquette - 300 pages
 - .oY.     R     _TOLKIEN J.R.R.              Le Hobbit ş1937 The Hobbit şTrad. LAUZON Daniel
 !------------------------
 !=== 2013
@@ -761,6 +818,9 @@ o BOUR_L      ?  2013.10 ..... ISBN 978-2-267-02558-3
 o BOUR        ?  2014.10 ..... ISBN 978-2-267-02700-6
 } noimg          _Alan Lee                    ?
 !--- Nouveau traducteur
++ BOUR        ?  2022.09 ..... ISBN 978-2-267-04688-5
+} noimg          _Alan Lee                    ?
+!--- GF - 155x240 - 528 pages - 20 euros
 - .oY.     R     _TOLKIEN J.R.R.              La Fraternit‚ de l'anneau [Le Seigneur des anneaux - 1] ş1954 The Fellowship of the Ring şTrad. LAUZON Daniel
 !------------------------
 !=== 2015
@@ -768,6 +828,9 @@ o BOUR        ?  2014.10 ..... ISBN 978-2-267-02700-6
 o BOUR        ?  2015.10 ..... ISBN 978-2-267-02891-1
 } noimg          _Alan Lee                    ?
 !--- Nouveau traducteur
++ BOUR        ?  2022.09 ..... ISBN 978-2-267-04689-2
+} noimg          _Alan Lee                    ?
+!--- GF - 155x240 - 432 pages - 20 euros
 - .oY.     R     _TOLKIEN J.R.R.              Les Deux Tours [Le Seigneur des anneaux - 2] ş1954 The Two Towers şTrad. LAUZON Daniel
 !------------------------
 !=== 2016
@@ -775,6 +838,9 @@ o BOUR        ?  2015.10 ..... ISBN 978-2-267-02891-1
 o BOUR        ?  2016.10 ..... ISBN 978-2-267-03218-5
 } noimg          _Alan Lee                    ?
 !--- Nouveau traducteur
++ BOUR        ?  2022.09 ..... ISBN 978-2-267-04690-8
+} noimg          _Alan Lee                    ?
+!--- GF - 155x240 - 518 pages - 20 euros
 - .oY.     R     _TOLKIEN J.R.R.              Le Retour du roi [Le Seigneur des anneaux - 3] ş1955 The Return of the King şTrad. LAUZON Daniel
 !------------------------
 !=== 2017
@@ -782,7 +848,7 @@ o BOUR        ?  2016.10 ..... ISBN 978-2-267-03218-5
 o BOUR        ?  2017.06 ..... ISBN 978-2-267-03051-8
 !---TBD  2017.10
 } bourgoisbl2017 _Alan Lee                    ?
-!--- şTrad. Lauzon Daniel
+!--- Trad. Lauzon Daniel
 - .oY.     N11   _TOLKIEN J.R.R.              Beren et L£thien ş2017 Beren and L£thien
 : .o .     p     _TOLKIEN Christopher         Pr‚face ş2017 Preface
 : .o .     a     _TOLKIEN Christopher         Notes sur les Jours Anciens ş2017 Notes on the Elder Days
@@ -790,12 +856,12 @@ o BOUR        ?  2017.06 ..... ISBN 978-2-267-03051-8
 : .o .     a     _TOLKIEN Christopher         Introduction … Beren & L£thien ş2017 Beren and L£thien: annotations
 : .o .     r     _TOLKIEN J.R.R.              Le Conte de Tin£viel ş1984 The Tale of Tin£viel
 : .o .     N     _TOLKIEN J.R.R.              Un passage de l'Esquisse de la Mythologie ş2017 A Passage from the Sketch of the Mythology
-: .o .     P     _TOLKIEN J.R.R.              Un passage extrait du Lai de Leithian ş2017 A Passage Extracted from The Lay of Leithian
+: .o .     P     _TOLKIEN J.R.R.              Un passage extrait du Lai de Leithian ş2017 A Passage Extracted from the Lay of Leithian
 : .o .     a     _TOLKIEN Christopher         La Quenta Noldorinwa ş2017 The Quenta Noldorinwa
 : .o .     N     _TOLKIEN J.R.R.              Un passage extrait de la Quenta ş2017 A Passage Extracted from the Quenta
-: .o .     P     _TOLKIEN J.R.R.              Un deuxiŠme extrait du Lai de Leithian ş2017 A Second Extract from The Lay of Leithian
+: .o .     P     _TOLKIEN J.R.R.              Un deuxiŠme extrait du Lai de Leithian ş2017 A Second Extract from the Lay of Leithian
 : .o .     N     _TOLKIEN J.R.R.              Un nouvel extrait de la Quenta ş2017 A Further Extract from the Quenta
-: .o .     P     _TOLKIEN J.R.R.              Le R‚cit du Lai de Leithian jusqu'… son interruption ş2017 The Narrative in The Lay of Leithian to Its Termination
+: .o .     P     _TOLKIEN J.R.R.              Le R‚cit du Lai de Leithian jusqu'… son interruption ş2017 The Narrative in the Lay of Leithian to Its Termination
 : .o .     a     _TOLKIEN Christopher         La Quenta Silmarillion ş2017 The Quenta Silmarillion
 : .o .     N     _TOLKIEN J.R.R.              Le Retour de Beren et L£thien selon la Quenta Noldorinwa ş2017 The Return of Beren and L£thien According to the Quenta Noldorinwa
 : .o .     N     _TOLKIEN J.R.R.              Un extrait du Conte Perdu intitul‚ le Nauglafring ş2017 Extract from the Lost Tale of the Nauglafring
@@ -810,13 +876,63 @@ o BOUR        ?  2017.06 ..... ISBN 978-2-267-03051-8
 o BOUR        ?  2019.04 ..... ISBN 978-2-267-03141-6
 } noimg          _Alan Lee                    Alan Lee
 - .oY.     R     _TOLKIEN J.R.R.              La Chute de Gondolin ş2018 The Fall of Gondolin şTrad. LAUZON Daniel
-
-
+!------------------------
+!=== 2020
+!------------------------
+o BOUR        ?  2020.02 ..... ISBN 978-2-267-03194-2
+} noimg          _?                           ?
+!--- MF - 120 x 200 - 185 pages
+- .oPF     R     _SOLARES Martin              Quatorze crocs - M‚moires de l'agent Pierre Le Noir … propos des ‚v‚nements surnaturels survenus … Paris en 1927 [M‚moires de l'agent Pierre le Noir] ş2018 Catorce colmillos şTrad. VASSILOT Christilla
+!------------------------
+!=== 2021
+!------------------------
+o BOUR        ?  2021.06 ..... ISBN 978-2-267-04417-1
+} noimg          _?                           ?
+!--- MF - 120 x 200 - 272 pages
+- .oPF     R     _SOLARES Martin              Mort dans le jardin de la Lune - M‚moires de l'agent Pierre Le Noir … propos de nouveaux ‚v‚nements, bien plus inqui‚tants encore, survenus … Paris en novembre 1927 [M‚moires de l'agent Pierre le Noir] ş2020 Muerte en el jardin de la Luna şTrad. VASSILOT Christilla
+o BOUR_L      ?  2021.10 ..... ISBN 978-2-267-04470-6
+} noimg          _Ted Nasmith                 ?
+!--- GF - 152x227 - 480 pages - 39,90 euros
+- .o .     R     _TOLKIEN J.R.R.              Le Silmarillion ş1977 The Silmarillion şTrad. LAUZON Daniel
+!------------------------
+!=== 2022
+!------------------------
+o BOUR        ?  2022.09 ..... ISBN 978-2-267-04668-7
+} noimg          _Ted Nasmith                 ?
+!--- GF - 154x240 - 480 pages - 24,90 euros
+- .o .     R     _TOLKIEN J.R.R.              Le Silmarillion ş1977 The Silmarillion şTrad. LAUZON Daniel
+o BOUR        ?  2022.11 ..... ISBN 978-2-267-04669-4
+} noimg          _?                           ?
+!--- 110 x 178 mm - 120 pages - 14 euros
+!--- Avant-propos de Nathalie Prince
+- .o .     E     _TOLKIEN J.R.R.              Du conte de f‚es ş1939 On Fairy-Stories şTrad. LAFERRIŠRE Christine
+o BOUR_R      ?  2022.10 ..... ISBN 978-2-267-04678-6
+} bourgtolkien102022_1 _Alan Lee + John Howe + Ted Nasmith
+!--- GF - 150x230 - 592 pages - 44,90 euros
+- .oY.     N14   _TOLKIEN J.R.R.              Contes et l‚gendes inachev‚s [Contes et l‚gendes inachev‚s] ş1980 Unfinished Tales of N£menor and Middle Earth şTrad. JOLAS Tina + LOQUIN Pauline
+: .oY.     p     _TOLKIEN Christopher         Introduction ş1980 Introduction
+: .oY.     N     _TOLKIEN J.R.R.              De Tuor et de sa venue … Gondolin ş1980 Of Tuor and His Coming to Gondolin şTrad. JOLAS Tina
+: .oY.     N     _TOLKIEN J.R.R.              Narn I HŒn H£rin, la geste des enfants de H£rin ş1980 NNam I HŒn H£rin: The Tale of the Children of H£rin şTrad. ?
+!--- TBD DeuxiŠme partie : le deuxiŠme ƒge
+: .oY.     N     _TOLKIEN J.R.R.              Une description de l'Œle de N£menor ş1980 A Description of the Island of N£menor şTrad. JOLAS Tina
+: .oY.     N     _TOLKIEN J.R.R.              Aldarion et Erendis ş1980 Aldarion and Erendis: The Mariner's Wife şTrad. JOLAS Tina
+: .oY.     N     _TOLKIEN J.R.R.              La Lign‚e d'Elros : les rois de N£menor ş1980 The Line of Elros: Kings of N£menor from the Founding of the City of Armenelos to the Downfall şTrad. JOLAS Tina
+: .oY.     N     _TOLKIEN J.R.R.              L'Histoire de Galadriel et Celeboen, et d'Amroth, roi de L¢rien ş1980 The History of Galadriel and Celeborn and of Amroth King of L¢rien şTrad. JOLAS Tina
+!--- TBD TroisiŠme partie : le troisiŠme ƒge
+: .oY.     N     _TOLKIEN J.R.R.              Le D‚sastre des champs d'Iris ş1980 The Disaster of the Gladden Fields şTrad. JOLAS Tina
+: .oY.     N     _TOLKIEN J.R.R.              Cirion et Eorl et l'amiti‚ du pays Gondor et du pays Rohan ş1980 Cirion and Eorl and the Friendship of Gondor and Rohan şTrad. JOLAS Tina
+: .oY.     N     _TOLKIEN J.R.R.              L'Exp‚dition d'Erebor ş1980 The Quest of Erebor şTrad. JOLAS Tina
+: .oY.     N     _TOLKIEN J.R.R.              La Quˆte de l'anneau ş1980 The Hunt for the Ring şTrad. JOLAS Tina
+: .oY.     N     _TOLKIEN J.R.R.              Les Batailles des gu‚s de l'Isen ş1980 The Battles of the Fords of Isen şTrad. JOLAS Tina
+!--- TBD QuatriŠme partie
+: .oY.     N     _TOLKIEN J.R.R.              Les Dr£edain ş1980 The Dr£edain şTrad. JOLAS Tina
+: .oY.     N     _TOLKIEN J.R.R.              Les Istari ş1980 The Istari şTrad. JOLAS Tina
+: .oY.     N     _TOLKIEN J.R.R.              Les Palant¡ri ş1980 The Palant¡ri şTrad. JOLAS Tina
 
 
 
 !-----------------------------------------------------------------------------
-_ BOU_EP  Christian Bourgois, Coll. "Dans l'Epouvante"
+_ BOU_EP  Christian Bourgois - Dans l'Epouvante
 !-----------------------------------------------------------------------------
 !---  Collection "Dans l'‚pouvante" Christian Bourgeois
 !-----------------------------------------------------------------------------
@@ -832,7 +948,7 @@ o BOU_EP      1i 1970.xx ..... ISBN -
 : .o .     N     _EWERS Hanns Heinz           La Fin de John Hamilton Llewellyn ş1904 John Hamilton Llewellyns ende
 : .o .     N     _EWERS Hanns Heinz           Journal d'un oranger ş1907 Aus dem tagebuch eines orangenbaumes
 : .o .     N     _EWERS Hanns Heinz           Le Juif mort ş1907 Der tote Jude
-: .o .     N     _EWERS Hanns Heinz           La Fianc‚e du Tophar ş1904 Die topharbraut
+: .o .     N     _EWERS Hanns Heinz           La Fianc‚e du Tophar ş1904 Die Topharbraut
 : .o .     N     _EWERS Hanns Heinz           La Mamaloi ş1907 Die mamaloi
 o BOU_EP      2i 1970.xx ..... ISBN -
 }cbdlep02        _?                           N
@@ -875,12 +991,12 @@ o BOU_EP      4i 1970.xx R.... ISBN -
 o BOU_EP      5i 1970.xx R.... ISBN -
 }cbdlep05        _?                           N
 - .oF.     RN4   _MACHEN Arthur               Le Peuple blanc ş1970
-!--- Trad et pr‚face PARSONS Jacques
-: .o .     N     _MACHEN Arthur               Le Peuple blanc ş1904 The White People
-: .o .     N     _MACHEN Arthur               Le Grand Retour ş1915 The Great Return
-: .o .     N     _MACHEN Arthur               Les Archers ş1914 The Bowmen
-: .o .     R     _MACHEN Arthur               La Terreur ş1916 The Terror
-: .o .     N     _MACHEN Arthur               La Pyramide de feu ş1895 The Shining Pyramid
+!--- Pr‚face PARSONS Jacques
+: .o .     N     _MACHEN Arthur               Le Peuple blanc ş1904 The White People şTrad. PARSONS Jacques
+: .o .     N     _MACHEN Arthur               Le Grand Retour ş1915 The Great Return şTrad. PARSONS Jacques
+: .o .     N     _MACHEN Arthur               Les Archers ş1914 The Bowmen şTrad. PARSONS Jacques
+: .o .     R     _MACHEN Arthur               La Terreur ş1916 The Terror şTrad. PARSONS Jacques
+: .o .     N     _MACHEN Arthur               La Pyramide de feu ş1895 The Shining Pyramid şTrad. PARSONS Jacques
 o BOU_EP      6i 1970.xx ..... ISBN -
 }cbdlep06        _?                           N
 - .o .     R     _STOKER Bram                 Le Repaire du ver blanc ş1911 The Lair of the White Worm
@@ -902,7 +1018,7 @@ o BOU_EP      9i 1971.xx ..... ISBN -
 &                _DERLETH August              
 : .o .     N     _LOVECRAFT Howard P.        &Le Survivant ş1954 The Survivor şTrad. FERRY Jean
 &                _DERLETH August              
-: .o .     N     _LOVECRAFT Howard P.        &Le Jour … Wentworth ş1957 The Wentworth's Day şTrad. FERRY Jean
+: .o .     N     _LOVECRAFT Howard P.        &Le Jour … Wentworth ş1957 Wentworth's Day şTrad. FERRY Jean
 &                _DERLETH August              
 : .o .     N     _LOVECRAFT Howard P.        &L'H‚ritage Peabody ş1957 The Peabody Heritage şTrad. FERRY Jean
 &                _DERLETH August              

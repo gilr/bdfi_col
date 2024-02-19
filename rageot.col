@@ -8,43 +8,44 @@
 
 !-----------------------------------------------------------------------------
 _ HATIER  Hatier
-_ HAT_C   Hatier, Classiques
-_ HAT_CO  Hatier, Le Cercle d'Or
-_ HAT_TE  Hatier, Coll. Terre Etrangäre
-_ HAT_PL  Hatier, Coll. Profil LittÇrature
-_ HAT_O&T Hatier, Coll. Classiques Hatier, Oeuvres & Thämes
-_ HAT_OTI Hatier, Coll. Classiques Hatier, Les Classiques illustrÇs, Oeuvres & Thämes
-_ HAT_CC  Ed. Hatier, Coll. Classiques & Cie
-_ HAT_CCL Ed. Hatier, Coll. Classiques & Cie LycÇe
-_ HAT_CCC Ed. Hatier, Coll. Classiques & Cie Colläge
-_ HAT_CCE Ed. Hatier, Coll. Classiques & Cie Ecole
-_ HAT_RIB Ed. Hatier, Coll. Ribambelle
-_ HAT_ETO Ed. Hatier, Coll. Etoile
-_ HATRAGJ Hatier-Rageot, Jeunesse Poche Anticipation
-_ RAG_HJ  Ed. Rageot, Coll. Heures Joyeuses
+_ HAT_C   Hatier - Classiques
+_ HAT_CO  Hatier - Le Cercle d'Or
+_ HAT_TE  Hatier - Terre Etrangäre
+_ HAT_PL  Hatier - Profil LittÇrature
+_ HAT_O&T Hatier - Classiques Hatier - Oeuvres & Thämes
+_ HAT_OTI Hatier - Classiques Hatier - Les Classiques illustrÇs, Oeuvres & Thämes
+_ HAT_CC  Hatier - Classiques & Cie
+_ HAT_CCL Hatier - Classiques & Cie LycÇe
+_ HAT_CCC Hatier - Classiques & Cie Colläge
+_ HAT_CCE Hatier - Classiques & Cie Ecole
+_ HAT_RIB Hatier - Ribambelle
+_ HAT_ETO Hatier - Etoile
+_ HATRAGJ Hatier-Rageot - Jeunesse Poche Anticipation
+_ RAG_HJ  Rageot - Heures Joyeuses
 _ RAGEOT  Rageot
+_ RAGEOTC Rageot collector
 _ RAGEOTP Rageot Poche
-_ RAGEOTT Rageot, Thriller
-_ RAGEOFF Rageot, Flash Fiction
-_ EAMITIE Ed. de l'AmitiÇ
-_ EAMA    Ed. de l'AmitiÇ, Coll. Les Maåtres de l'Aventure
-_ EABIBAM Ed. de l'AmitiÇ, Coll. Bibliothäque de l'AmitiÇ
-_ EAMAP   Rageot, Coll. Les Maåtres de l'Aventure Policier
-_ RAG_CF  Rageot, Cascade fantastique (jeunesse)
-_ RAG_C   Rageot, Cascade (jeunesse)
-_ RAG_CP  Rageot, Cascade policier (jeunesse)
-_ RAG_HN  Rageot, Coll. "Heure Noire"
-_ RAG_COM Rageot, Le commandeur
+_ RAGEOTT Rageot - Thriller
+_ RAGEOFF Rageot - Flash Fiction
+_ EAMITIE Editions de l'AmitiÇ
+_ EAMA    Editions de l'AmitiÇ - Les Maåtres de l'Aventure
+_ EABIBAM Editions de l'AmitiÇ - Bibliothäque de l'AmitiÇ
+_ EAMAP   Rageot - Les Maåtres de l'Aventure Policier
+_ RAG_CF  Rageot - Cascade fantastique [jeunesse]
+_ RAG_C   Rageot - Cascade [jeunesse]
+_ RAG_CP  Rageot - Cascade policier [jeunesse]
+_ RAG_HN  Rageot - Heure Noire
+_ RAG_COM Rageot - Le commandeur
 !-----------------------------------------------------------------------------
 !--- Hatier
 !--- Hatier, Classiques Hatier
-!--- Hatier, Coll Terre Etrangäre
+!--- Hatier, Terre Etrangäre
 !-----------------------------------------------------------------------------
 o HAT_CO      ?  1951.xx ..... ISBN -
 }hatier_histex51 _?                           ?
-- .oF.    kN7    _POE Edgar Allan             Histoires extraordinaires ˛1856
+- .oF.    kA7    _POE Edgar Allan             Histoires extraordinaires ˛1951
 : .o .     N     _POE Edgar Allan             Double assassinat dans la rue Morgue [Auguste Dupin] ˛1841 The Murders in the Rue Morgue
-: .o .     N     _POE Edgar Allan             La Lettre volÇe [Auguste Dupin] ˛1845 The Purloined Letter
+: .o .     N     _POE Edgar Allan             La Lettre volÇe [Auguste Dupin] ˛1845 The Purloined Letter ˛Trad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Le ScarabÇe d'or ˛1843 The Gold-Bug
 : .o .     N     _POE Edgar Allan             La Chute de la maison Usher ˛1839 The Fall of the House of Usher
 : .o .     N     _POE Edgar Allan             Le Puits et le pendule ˛1843 The Pit and the Pendulum
@@ -64,7 +65,7 @@ o HATIER      ?  2019.02 ..... ISBN 978-2-401-05173-7
 - .oF.     R     _EDGE Christopher            Jamie Drake - L'Çquation cosmique ˛2018 The Jamy Drake Equation ˛Trad. ZACHAYUS Michäle
 
 !-----------------------------------------------------------------------------
-! HAT_O&T Hatier, Coll. Classiques Hatier, Oeuvres & Thämes
+! HAT_O&T Hatier, Classiques Hatier, Oeuvres & Thämes
 !-----------------------------------------------------------------------------
 o HAT_O&T    12  1996.xx ..... ISBN 2-218-06024-8
 } noimg          _Juliette Planque            ?
@@ -89,9 +90,9 @@ o HAT_O&T    25  1996.xx ..... ISBN 2-218-71568-6
 } hatierot025rr04 _?                           ?
 + HAT_O&T    25  2008.xx ..... ISBN 978-2-218-74717-5
 } hatierot025rr08 _?                           ?
-- .oF.    iAx    _MAUPASSANT Guy de           Le Horla ˛1996
 !--- En complÇment, sept textes permettant de prolonger l'Çtude des motifs du fantastique (Hoffmann, Buzzati, Poe ...).
-: .o .     N     _MAUPASSANT Guy de           Le Horla ˛1886
+- .oF.    iAx    _MAUPASSANT Guy de           Le Horla ˛1996
+: .o .     N     _MAUPASSANT Guy de           Le Horla (2iäme version) ˛1886-1887
 ?o HAT_O&T    32  1982.xx ..... ISBN 2-218-05653-4
 ?} noimg          _?                           ?
 ?+ HAT_O&T    32  1994.xx ..... ISBN 2-218-05653-4
@@ -119,7 +120,7 @@ o HAT_O&T    48  1995.xx ..... ISBN 2-218-71079-X
 - .o .     N     _MERIMEE Prosper             La VÇnus d'Ille ˛1837
 o HAT_O&T    63  1995.xx ..... ISBN 2-218-04445-5
 } noimg          _?                           ?
-- .oF.     X     _GAUTIER ThÇophile           Le Roman de la momie ˛1858
+- .oF.     X     _GAUTIER ThÇophile           Le Roman de la momie ˛1857
 o HAT_O&T    67  1996.08 ..... ISBN 2-218-71044-7
 } hatierot067    _?                           ?
 + HAT_O&T    67  2002.xx ..... ISBN 2-218-75110-0
@@ -144,12 +145,11 @@ o HAT_O&T    68  1997.xx ..... ISBN 2-218-71571-6
 } hatierot068rr05 _?                           ?
 + HAT_O&T    68  2008.xx ..... ISBN 978-2-218-75116-5
 } hatierot068rr08 _?                           ?
-!--- ˛Trad. Marie-HÇläne Philippe & Anne Videau
+!--- Trad. Marie-HÇläne Philippe & Anne Videau
 - .oF.    iAx    _OVIDE                       MÇtamorphoses ˛1997
 o HAT_O&T    68  2015.04 ..... ISBN 978-2-218-99137-0
 } hatierot068rr15 _?                           ?
 !--- Texte adaptÇ du latin par Michäle Busseron et HÇläne Potelet
-!--- ˛Trad. Michelle Busseron-Coupel & HÇläne Potelet
 + HAT_O&T    68  2020.09 ..... ISBN 978-2-401-06356-3
 } hatierot068rr20 _?                           ?
 !--- 16 textes :
@@ -185,7 +185,7 @@ o HAT_O&T    75  1997.xx ..... ISBN 2-218-71864-2
 } hatierot075    _?                           ?
 !--- TBD : extraits des nouvelles, ou extrait du recueil ?
 - .oF.    kN7    _POE Edgar Allan             Histoires extraordinaires ˛1998
-: .o .     N     _POE Edgar Allan             La Lettre volÇe ˛1845 The Purloined Letter
+: .o .     N     _POE Edgar Allan             La Lettre volÇe [Auguste Dupin] ˛1845 The Purloined Letter ˛Trad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Morella ˛1835 Morella ˛Trad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Metzengerstein ˛1832-1936 Metzengerstein ˛Trad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Le Puits et le pendule ˛1843 The Pit and the Pendulum
@@ -222,11 +222,11 @@ o HAT_O&T    83  2000.xx ..... ISBN 2-218-72745-5
 } noimg          _?                           ?
 + HAT_O&T    83  2004.xx ..... ISBN 2-218-74715-4
 } noimg          _?                           ?
-!--- ˛Trad. Claude Buridant & Jean Trottin
+!--- Trad. Claude Buridant & Jean Trottin
 - .o .     R     _CHRETIEN de TROYES          Le Chevalier au lion [Les Romans arthuriens - 4] ˛c1180
 o HAT_O&T    83  2007.xx ..... ISBN 978-2-218-74715-1
 } noimg          _?                           ?
-!--- ˛Trad. Claude Buridant & Jean Trottin
+!--- Trad. Claude Buridant & Jean Trottin
 - .oF.     R     _CHRETIEN de TROYES          Yvain, le chevalier au lion [Les Romans arthuriens - 4] ˛c1180
 o HAT_O&T    87  2001.06 ..... ISBN 2-218-73572-5
 } hatierot087    _?                           ?
@@ -259,8 +259,8 @@ o HAT_O&T    89  2001.02 ..... ISBN 2-218-73564-4
 - .oF.     R     _CARROLL Lewis               Alice au pays des merveilles [Alice - 1] ˛1865 Alice's Adventures in Wonderland / Alice in Wonderland ˛Trad. ?
 o HAT_O&T    90  2002.08 ..... ISBN 2-218-73915-1
 } hatierot090    _?                           ?
-- .oF.    iA2    ****                         Deux contes du XIXe siäcle ˛2002
-: .o .     N     _FLAUBERT Gustave            La LÇgende de Saint Julien l'Hospitalier ˛?
+- .oF.     A2    ****                         Deux contes du XIXe siäcle ˛2002
+: .o .     N     _FLAUBERT Gustave            La LÇgende de Saint Julien l'Hospitalier ˛1877
 : .oF.     N     _GAUTIER ThÇophile           Le Chevalier double ˛1840
 o HAT_O&T    92  2002.08 ..... ISBN 2-218-73916-X
 } hatierot092    _?                           ?
@@ -270,7 +270,7 @@ o HAT_O&T    92  2002.08 ..... ISBN 2-218-73916-X
 : .o .     N     _GAUTIER ThÇophile           Le Pied de momie ˛1840
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     VÇra ˛1874
 : .o .     N     _MAUPASSANT Guy de           La Morte ˛1887
-: .o .     N     _BUZZATI Dino                Les Souris ˛1954 ?
+: .o .     N     _BUZZATI Dino                Les Souris ˛1953 I topi
 : .o .     N     _CORTAZAR Julio              Axolotl ˛1952 Axolotl
 : .o .     N     _MATHESON Richard            Le Jeu du bouton ˛1966 Button, Button
 o HAT_O&T    92i 2013.08 ..... ISBN 978-2-218-97157-0
@@ -319,13 +319,13 @@ o HAT_O&T   117  2007.03 ..... ISBN 978-2-218-92626-6
 } noimg          _CÇcile Chicault             ?
 + HAT_O&T   117  2008.xx ..... ISBN 978-2-218-92626-6
 } noimg          _CÇcile Chicault             ?
-!--- ˛Trad. Daniel Poiron
+!--- Trad. Daniel Poiron
 - .o .     R     _CHRETIEN de TROYES          Perceval ou le conte du Graal [Les Romans arthuriens - 5] ˛c1185
 o HAT_O&T   121  2007.xx ..... ISBN 978-2-218-93179-6
 } noimg          _?                           ?
 + HAT_O&T   121  2008.03 ..... ISBN 978-2-218-93179-6
 } noimg          _?                           ?
-!--- ˛Trad. Daniel Poiron
+!--- Trad. Daniel Poiron
 - .o .     R     _CHRETIEN de TROYES          Lancelot ou le Chevalier de la charrette [Les Romans arthuriens - 3] ˛c1180
 o HAT_O&T   122  2007.xx ..... ISBN 978-2-218-93642-5
 } noimg          _Charlotte Gastaut           ?
@@ -340,10 +340,10 @@ o HAT_O&T   122  2015.08 ..... ISBN 978-2-218-99147-9
 - .o .     r     _CASSABOIS Jacques           L'êpopÇe de Gilgamesh ˛2004
 o HAT_O&T   130  2015.08 ..... ISBN 978-2-218-99149-3
 } noimg          _?                           ?
-- .oF.     R     _VERNE Jules                 Un hivernage dans les glaces ˛1855
+- .oS.     N     _VERNE Jules                 Un hivernage dans les glaces ˛1855
 o HAT_O&T   135  2018.04 ..... ISBN 978-2-401-04581-1
 } hatierot135    _?                           ?
-!--- extraits du Livre des Merveilles (1852-1853) ˛? ˛Trad. Pierre Leiris
+!--- extraits du Livre des Merveilles (1852-1853) - Trad. Pierre Leiris
 !--- Peut-àtre rÇÇd. de textes Pocket ((c) Editions Pocket Jeunesse)
 !--- 12 La Tàte de la Gorgone 1851 The Gorgon's Head
 !--- 31 La Chimäre 1851 The Chimaera
@@ -386,7 +386,7 @@ o HAT_O&T     ?  2018.09 ..... ISBN 978-2-401-04766-2
 : .o .     N     _GAUTIER ThÇophile           La Cafetiäre ˛1831
 : .o .     N     _POE Edgar Allan             Le Portrait ovale ˛1842 The Oval Portrait
 : .o .     N     _MAUPASSANT Guy de           Qui sait ? ˛1890
-: .o .     N     _BUZZATI Dino                Le Veston ensorcelÇ ˛1966 La giacca stregata
+: .o .     N     _BUZZATI Dino                Le Veston ensorcelÇ ˛1962 La giacca stregata
 : .o .     N     _MATHESON Richard            Le Jeu du bouton ˛1966 Button, Button
 : .o .     N     _BORDAGE Pierre              Fonds d'Çcran ˛2005
 o HAT_O&T   139  2019.04 ..... ISBN 978-2-401-05281-9
@@ -405,7 +405,7 @@ o HAT_O&T   139  2019.04 ..... ISBN 978-2-401-05281-9
 
 
 !-----------------------------------------------------------------------------
-! HAT_OTI Hatier, Coll. Classiques Hatier, Les Classiques illustrÇs, Oeuvres & Thämes
+! HAT_OTI Hatier, Classiques Hatier, Les Classiques illustrÇs, Oeuvres & Thämes
 !-----------------------------------------------------------------------------
 o HAT_OTI     ?  1987.xx ..... ISBN 2-218-07391-9
 } noimg          _?                           ?
@@ -438,6 +438,7 @@ o HAT_OTI    30  1983.xx ..... ISBN 2-218-06302-6
 + HAT_OTI    30  1993.xx ..... ISBN 2-218-06302-6
 } hatiercliot030r93 _?                           ?
 - .oF.    iNx    _MAUPASSANT Guy de           Le Horla ˛1993
+: .o .     N     _MAUPASSANT Guy de           Le Horla (2iäme version) ˛1886-1887
 o HAT_OTI    33  1984.xx ..... ISBN 2-218-06766-8
 } hatiercliot033 _?                           ?
 + HAT_OTI    33  1993.xx ..... ISBN 2-218-06766-8
@@ -445,7 +446,7 @@ o HAT_OTI    33  1984.xx ..... ISBN 2-218-06766-8
 - .oS.    iNx    _ASIMOV Isaac                Les Robots ˛1984
 o HAT_OTI    48  1990.xx ..... ISBN 2-218-02561-2
 } noimg          _?                           ?
-- .oF.     R     _MERIMEE Prosper             La VÇnus d'Ille ˛1837
+- .oF.     N     _MERIMEE Prosper             La VÇnus d'Ille ˛1837
 o HAT_OTI    60  1993.xx ..... ISBN 2-218-06749-8
 } noimg          _?                           ?
 - .oS.     R     _DOYLE Arthur Conan          Le Monde perdu (Texte abrÇgÇ) ˛1912 The Lost World ˛Trad. ?
@@ -453,7 +454,7 @@ o HAT_OTI    60  1993.xx ..... ISBN 2-218-06749-8
 
 
 !-----------------------------------------------------------------------------
-! HAT_PL  Hatier, Coll. Profil LittÇrature
+! HAT_PL  Hatier, Profil LittÇrature
 !-----------------------------------------------------------------------------
 o HAT_PL    127  1985.06 ..... ISBN 2-218-07239-4
 } noimg          _?                           ?
@@ -463,16 +464,16 @@ o HAT_PL    127  1985.06 ..... ISBN 2-218-07239-4
 &                _EHRSAM Jean                 
 
 !-----------------------------------------------------------------------------
-! HAT_CC  Ed. Hatier, Coll. Classiques & Cie
-! HAT_CCL Ed. Hatier, Coll. Classiques & Cie LycÇe
-! HAT_CCC Ed. Hatier, Coll. Classiques & Cie Colläge
+! HAT_CC  Hatier, Classiques & Cie
+! HAT_CCL Hatier, Classiques & Cie LycÇe
+! HAT_CCC Hatier, Classiques & Cie Colläge
 !-----------------------------------------------------------------------------
-! HAT_CCE Ed. Hatier, Coll. Classiques & Cie Ecole
+! HAT_CCE Hatier, Classiques & Cie Ecole
 !--- Textes avec passages adaptÇs
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-! HAT_CCE Ed. Hatier, Coll. Classiques & Cie Ecole
+! HAT_CCE Hatier, Classiques & Cie Ecole
 !-----------------------------------------------------------------------------
 o HAT_CCE     ?  2017.03 ..... ISBN 978-2-401-00098-8
 } hatierccieeco2017_2 _Thomas Girard               ?
@@ -516,7 +517,7 @@ o HAT_CCE     ?  2017.05 ..... ISBN 978-2-401-00102-2
 o HAT_CCE     ?  2018.03 ..... ISBN 978-2-401-04508-8
 } noimg          _CÇcile Chicault             ?
 !--- D'apräs Les MÇtamorphoses d'Ovide
-!--- ˛Trad. Michelle Busseron-Coupel & HÇläne Potelet
+!--- Trad. Michelle Busseron-Coupel & HÇläne Potelet
 - .oF.     X     _OVIDE                       Icare, Narcisse, DaphnÇ et autres mythes ˛2018
 ! .o .     N     _OVIDE                       PhaÇton et la course du soleil
 ! .o .     N     _OVIDE                       L'Enlävement de Proserpine
@@ -535,10 +536,13 @@ o HAT_CCE     ?  2018.03 ..... ISBN 978-2-401-04508-8
 
 
 !-----------------------------------------------------------------------------
-! HAT_CC  Ed. Hatier, Coll. Classiques & Cie
+! HAT_CC  Hatier, Classiques & Cie
 !-----------------------------------------------------------------------------
 o HAT_CC      3  2002.xx ..... ISBN 2-218-73934-8
 } noimg          _?                           ?
++ HAT_CCL     3  2022.04 ..... ISBN 978-2-401-08629-6
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 126x175 - 480 pages - 3,20 euros
 - .oF.     R     _BALZAC HonorÇ de            La Peau de chagrin ˛1831
 o HAT_CC     39  2005.04 ..... ISBN 2-218-74648-4
 } noimg          _?                           ?
@@ -552,6 +556,7 @@ o HAT_CC     44  2005.xx ..... ISBN 2-218-75068-6
 o HAT_CC     52  2006.03 ..... ISBN 2-218-92291-6
 } hatierccie52   _?                           ?
 - .oF.    iNx    _MAUPASSANT Guy de           Le Horla et autres nouvelles fantastiques ˛2006
+: .o .     N     _MAUPASSANT Guy de           Le Horla (2iäme version) ˛1886-1887
 o HAT_CC     56  2006.08 ..... ISBN 2-218-92339-5
 } hatierccie056   _?                           ?
 - .pF.    iAx    _VOLTAIRE                    MicromÇgas et autres contes ˛2006
@@ -563,7 +568,7 @@ o HAT_CC     74  2008.03 ..... ISBN 978-2-218-93064-5
 - .oF.     N     _MERIMEE Prosper             Lokis ˛1869
 
 !-----------------------------------------------------------------------------
-! HAT_CC  Ed. Hatier, Coll. Classiques & Cie LycÇe
+! HAT_CC  Hatier, Classiques & Cie LycÇe
 !-----------------------------------------------------------------------------
 o HAT_CCL     3  2011.08 ..... ISBN 978-2-218-95880-9
 } noimg          _?                           ?
@@ -580,6 +585,7 @@ o HAT_CCL    44  2012.09 ..... ISBN 978-2-218-96637-8
 o HAT_CCL    52  2013.03 ..... ISBN 978-2-218-93955-6
 } hatierccielyc052 _William Julian-Damazy       ?
 - .oF.    iAx    _MAUPASSANT Guy de           Le Horla et autres nouvelles fantastiques ˛2013
+: .o .     N     _MAUPASSANT Guy de           Le Horla (2iäme version) ˛1886-1887
 o HAT_CCL    56  2012.07 ..... ISBN 978-2-218-96313-1
 } hatierccielyc056 _?                           ?
 - .pF.     A4    _VOLTAIRE                    MicromÇgas et autres contes ˛2012
@@ -590,10 +596,10 @@ o HAT_CCL    56  2012.07 ..... ISBN 978-2-218-96313-1
 o HAT_CCL   114  2019.09 ..... ISBN 978-2-401-05934-4
 } noimg          _?                           ?
 !--- 12.6 x 17.5 cm - 384 pages - 2,95 euros
-- .oSA     R     _VERNE Jules                 Voyage au centre de la Terre ˛1864-1967
+- .oSA     R     _VERNE Jules                 Voyage au centre de la Terre ˛1864-1867
 
 !-----------------------------------------------------------------------------
-! HAT_CC  Ed. Hatier, Coll. Classiques & Cie Colläge
+! HAT_CC  Hatier, Classiques & Cie Colläge
 !-----------------------------------------------------------------------------
 o HAT_CCC     4  2009.xx ..... ISBN 978-2-218-93322-6
 } hatiercciecoll004 _Anne Hemstege               ?
@@ -628,7 +634,7 @@ o HAT_CCC     9  2009.04 ..... ISBN 978-2-218-93332-5
 } hatiercciecoll009 _Jean-Marc Duvivier          ?
 + HAT_CCC     9  2011.09 ..... ISBN 978-2-218-93968-6
 } hatiercciecoll009rr11 _Jean-Marc Duvivier          ?
-- .oF.    iA14   _OVIDE                       PersÇe et autres mÇtamorphoses ˛2009
+- .oF.    iAx    _OVIDE                       PersÇe et autres mÇtamorphoses ˛2009
 o HAT_CCC    11  2009.08 ..... ISBN 978-2-218-93321-9
 } hatiercciecoll011 _Julien Martiniäre           ?
 + HAT_CCC    11  2012.01 ..... ISBN 978-2-218-96299-8
@@ -645,7 +651,10 @@ o HAT_CCC    23  2010.xx ..... ISBN 978-2-218-94320-1
 } noimg          _Franáois Baranger           ?
 + HAT_CCC    23  2018.04 ..... ISBN 978-2-401-04498-2
 } noimg          _Franáois Baranger           ?
-!--- ˛Adapt. Anne-Marie Cadot-Colin
+!--- Adapt. Anne-Marie Cadot-Colin
++ HAT_CCC    23  2022.01 ..... ISBN 978-2-401-08458-2
+} noimg          _Franáois Baranger           ?
+!--- Jeunesse - Poche - 126x175 - 208 pages - 4,40 euros
 - .o .     R     _CHRETIEN de TROYES          Yvain, le chevalier au lion [Les Romans arthuriens - 4] ˛c1180
 o HAT_CCC    25  2010.04 ..... ISBN 978-2-218-94322-5
 } noimg          _Martin Maniez               ?
@@ -673,12 +682,12 @@ o HAT_CCC    33  2010.08 ..... ISBN 978-2-218-94330-0
 : .oF.     N     _MAUPASSANT Guy de           Qui sait ? ˛1890
 o HAT_CCC    34  2011.11 ..... ISBN 978-2-218-93972-3
 } hatiercciecoll034 _Nicolas Thers               ?
-- .oF.     Ax    _BUZZATI Dino                Nouvelles ˛2011 ˛Trad. Jacqueline Remillet
-: .o .     N     _BUZZATI Dino                Le Veston ensorcelÇ ˛1966 La giacca stregata
-: .? .     N     _BUZZATI Dino                Douce nuit ˛? ?
-: .o .     N     _BUZZATI Dino                L'Oeuf ˛1966 L'uovo
-: .o .     N     _BUZZATI Dino                Jeune fille qui tombe... tombe ˛1966 Ragazza che precipita
-: .o .     N     _BUZZATI Dino                Chasseurs de vieux ˛1966 Cacciatori de vecchi
+- .oF.    iAx    _BUZZATI Dino                Nouvelles ((Nouvelles de Dino Buzzati)) ˛2011 ˛Trad. Jacqueline Remillet
+: .o .     N     _BUZZATI Dino                Le Veston ensorcelÇ ˛1962 La giacca stregata
+: .? .     N     _BUZZATI Dino                Douce nuit ˛1962 Dolce notte
+: .o .     N     _BUZZATI Dino                L'Oeuf ˛1962 L'uovo
+: .o .     N     _BUZZATI Dino                Jeune fille qui tombe... tombe ˛1963 Ragazza che precipita
+: .o .     N     _BUZZATI Dino                Chasseurs de vieux ˛1962 Cacciatori di vecchi
 o HAT_CCC    39  2011.03 ..... ISBN 978-2-218-95425-2
 } hatiercciecoll039 _?                           ?
 - .oF.     A3    _GOGOL Nicolas              &Le Nez et autres nouvelles russes ˛2011
@@ -691,13 +700,13 @@ o HAT_CCC    49  2011.08 ..... ISBN 978-2-218-95429-0
 } hatiercciecoll049 _?                           ?
 - .oF.     A2    _POE Edgar Allan             Le Chat noir - La Lettre volÇe ˛2011
 : .o .     N     _POE Edgar Allan             Le Chat noir ˛1843 The Black Cat ˛Trad. BAUDELAIRE Charles
-: .o .     N     _POE Edgar Allan             La Lettre volÇe ˛1845 The Purloined Letter ˛Trad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             La Lettre volÇe [Auguste Dupin] ˛1845 The Purloined Letter ˛Trad. BAUDELAIRE Charles
 o HAT_CCC    50  2011.08 ..... ISBN 978-2-218-95430-6
 } noimg          _?                           ?
 - .oF.     r     _DUMAS Alexandre             La Dame pÉle ˛1849
 o HAT_CCC    51  2012.03 ..... ISBN 978-2-218-95919-6
 } noimg          _Sparth                      ?
-!--- ˛Trad. Anne-Marie Cadot-Colin
+!--- Trad. Anne-Marie Cadot-Colin
 - .oF.     R     _CHRETIEN de TROYES          Perceval ou Le Conte du Graal [Les Romans arthuriens - 5] ˛c1185
 o HAT_CCC    56  2012.03 ..... ISBN 978-2-218-95907-3
 } noimg          _Erwan Fages                 ?
@@ -705,30 +714,31 @@ o HAT_CCC    56  2012.03 ..... ISBN 978-2-218-95907-3
 o HAT_CCC    59  2012.08 ..... ISBN 978-2-218-96282-0
 } hatiercciecoll059 _Marion Janin                ?
 - .oF.     A2    _MAUPASSANT Guy de           Le Horla suivi de Lettre d'un fou ˛2012
-: .o .     N     _MAUPASSANT Guy de           Le Horla ˛1886
+: .o .     N     _MAUPASSANT Guy de           Le Horla (2iäme version) ˛1886-1887
 : .o .     N     _MAUPASSANT Guy de           Lettre d'un fou ˛1885
 o HAT_CCC    63  2013.04 ..... ISBN 978-2-218-96661-3
 } noimg          _Natalie Shau                ?
 - .oF.     R     _CARROLL Lewis               Alice au pays des merveilles [Alice - 1] ˛1865 Alice's Adventures in Wonderland / Alice in Wonderland ˛Trad. LAPORTE Michel
 o HAT_CCC    66  2013.08 ..... ISBN 978-2-218-96663-7
 } hatiercciecoll066 _Carole Gourat               ?
-- .oN.    iA7    _--- (anonyme)               Les Mille et Une Nuits [Les Mille et Une Nuits] ˛?
-! .o .     N     _--- (anonyme)               Contes arabes [Les Mille et Une Nuits] ˛?
-! .o .     N     _--- (anonyme)               Le Marchand et le GÇnie [Les Mille et Une Nuits] ˛?
-! .o .     N     _--- (anonyme)               Histoire du premier vieillard et de la biche [Les Mille et Une Nuits] ˛?
-! .o .     N     _--- (anonyme)               Histoire de Sindbad le marin [Les Mille et Une Nuits] ˛?
-! .o .     N     _--- (anonyme)               Les Aventures du calife Haroun al-Rachid [Les Mille et Une Nuits] ˛?
-! .o .     N     _--- (anonyme)               Histoire de l'aveugle Baba-Abdallah [Les Mille et Une Nuits] ˛?
-! .o .     N     _--- (anonyme)               Histoire d'Ali Baba et de quarante voleurs exterminÇs par une esclave [Les Mille et Une Nuits] ˛?
+- .oN.     A7    _--- (anonyme)               Les Mille et Une Nuits [Les Mille et Une Nuits] ˛?
+: .o .     N     _--- (anonyme)               Contes arabes [Les Mille et Une Nuits] ˛?
+: .o .     N     _--- (anonyme)               Le Marchand et le GÇnie [Les Mille et Une Nuits] ˛?
+: .o .     N     _--- (anonyme)               Histoire du premier vieillard et de la biche [Les Mille et Une Nuits] ˛?
+: .o .     N     _--- (anonyme)               Histoire de Sindbad le marin [Les Mille et Une Nuits] ˛?
+: .o .     N     _--- (anonyme)               Les Aventures du calife Haroun al-Rachid [Les Mille et Une Nuits] ˛?
+: .o .     N     _--- (anonyme)               Histoire de l'aveugle Baba-Abdallah [Les Mille et Une Nuits] ˛?
+: .o .     N     _--- (anonyme)               Histoire d'Ali Baba et de quarante voleurs exterminÇs par une esclave [Les Mille et Une Nuits] ˛?
 o HAT_CCC    68  2013.08 ..... ISBN 978-2-218-96671-2
 } noimg          _Fabrice Lilao               ?
+!--- Dossiers et extraits prÇsentÇs et annotÇs par Fanny Deschamps
 - .oF.     R     _STOKER Bram                 Dracula (Texte abrÇgÇ) ˛1897 Dracula ˛Trad. CHICHEPORTICHE Josette
 o HAT_CCC    70  2014.04 ..... ISBN 978-2-218-97826-5
 } noimg          _Franáois Baranger           ?
-- .oY.     R     _HOMERE                      L'Iliade ˛? ˛Trad. LAFFON Martine
+- .oY.     R     _HOMERE                      L'Iliade ˛? ? ˛Trad. LAFFON Martine
 o HAT_CCC    72  2014.04 ..... ISBN 978-2-218-97841-8
 } noimg          _Raymond SÇbastien           ?
-- .o .     R     _VERNE Jules                 Voyage au centre de la Terre (Texte abrÇgÇ) ˛1864-1967
+- .o .     R     _VERNE Jules                 Voyage au centre de la Terre (Texte abrÇgÇ) ˛1864-1867
 o HAT_CCC    74  2014.08 ..... ISBN 978-2-218-97844-9
 } hatiercciecoll074 _Cathy Doutreligne           ?
 - .oS.     A4    ****                         BÇni soit l'atome et autres nouvelles du futur ˛2014
@@ -778,22 +788,27 @@ o HAT_CCC    89  2018.08 ..... ISBN 978-2-401-04583-5
 o HAT_CCC    94  2019.04 ..... ISBN 978-2-401-05314-4
 } noimg          _?                           ?
 !--- 12.6 x 17.5 cm - 228 pages - 3,95 euros
-- .oS.     R     _SHELLEY Mary                Frankenstein ou le PromÇthÇe moderne (Texte abrÇgÇ) ˛1818 Frankenstein or the Modern Prometheus ˛Trad. CEURVORS Joe
+- .oS.     R     _SHELLEY Mary                Frankenstein ou le PromÇthÇe moderne (Texte abrÇgÇ) ˛1818 Frankenstein or the Modern Prometheus ˛Trad. CEURVORST Joe
+o HAT_CCC     ?  2022.08 ..... ISBN 978-2-401-08462-9
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 126x175 - 352 pages - 4,95 euros
+- .oS.     R     _ORWELL George               1984 (texte abrÇgÇ) ˛1949 Nineteen Eighty-Four / 1984 ˛Trad. ?
 
 
 !-----------------------------------------------------------------------------
-! HAT_ETO Ed. Hatier, Coll. Etoile
+! HAT_ETO Hatier, Etoile
 !-----------------------------------------------------------------------------
 o HAT_ETO     ?  1971.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     N     _ANTOINE                     Le PrÇsident sur la Lune... ˛1991
 
 !-----------------------------------------------------------------------------
-! HAT_RIB Ed. Hatier, Coll. Ribambelle
+! HAT_RIB Hatier, Ribambelle
 !-----------------------------------------------------------------------------
 o HAT_RIB     4  2003.xx ..... ISBN 2-218-74114-8
 } noimg          _?                           ?
-- .o .     R     _GRIMAUD Michel              L'Enfant de la mer ˛1991
+!--- 64 pages
+- .o .     r     _GRIMAUD Michel              L'Enfant de la mer ˛1985
 o HAT_RIB     ?  2006.xx ..... ISBN 2-218-92231-.
 } noimg          _?                           ?
 - .o .     r     _MOURLEVAT Jean-Claude       Kolos et les quatre voleurs ˛1998
@@ -826,13 +841,13 @@ o HATRAGJ    16  1971.xx ..... ISBN -
 - .o .     R     _FOUTSKA Ivan                Prisonnier des robots ˛1965 Vzpoura proti &#269;asu
 o HATRAGJ    18  1972.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _PELOT Pierre                Une autre terre ˛1972
+- .o .     R     _PELOT Pierre                Une autre terre [Arian Dhaye] ˛1972
 o HATRAGJ    23  1972.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _GRENIER Christian           Sabotage sur la planäte rouge ˛1972
 o HATRAGJ    28  1973.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _PELOT Pierre                L'åle aux enragÇs ˛1973
+- .o .     R     _PELOT Pierre                L'åle aux enragÇs [Arian Dhaye] ˛1973
 o HATRAGJ    29  1973.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _WALTERS Hugh                Pionniers des tÇnäbres ˛1968 The Mohole Mystery
@@ -847,7 +862,7 @@ o HATRAGJ    34  1974.xx ..... ISBN -
 - .o .     R     _LIGHTNER Alice Martha       CrÇature d'un autre monde ˛1963 The Rock of Three Planets ˛Trad. ?
 
 !-----------------------------------------------------------------------------
-! RAG_HJ  Ed. Rageot, Coll. Heures Joyeuses
+! RAG_HJ  Rageot, Heures Joyeuses
 !-----------------------------------------------------------------------------
 o RAG_HJ      ?  1945.xx ..... ISBN -
 !--- Chez G.T. Rageot, aux Çditions de l'AmitiÇ ?
@@ -865,6 +880,7 @@ o RAG_HJ      ?  1948.xx ..... ISBN -
 
 !-----------------------------------------------------------------------------
 ! RAGEOT  Rageot
+! RAGEOT  Rageot collector
 ! RAGEOTP Rageot Poche
 ! RAGEOTT Rageot, Thriller
 ! RAGEOFF Rageot, Flash Fiction
@@ -1248,6 +1264,10 @@ o RAGEOTP     ?  2016.09 ..... ISBN 978-2-7002-5156-2
 o RAGEOTP     ?  2016.09 ..... ISBN 978-2-7002-5157-9
 } noimg          _SÇbastien Pelon             ?
 - .oF.     R     _CLAVEL Fabien               Hugo contre le Minotaure [Panique dans la mythologie - 2] ˛2016
+o RAGEOT      ?  2016.10 ..... ISBN 978-2-7002-5122-7
+} noimg          _SÇbastien Pelon             SÇbastien Pelon
+!--- Jeunesse - GF - 145x210 - 355 pages - 14,90 euros
+- .o .     R     _TREBOR Carole               Lumiäre - Le Voyage de Svetlana ˛2016
 o RAGEOT      ?  2016.11 ..... ISBN 978-2-7002-5103-6
 } noimg          _Erwann Surcouf              ?
 !--- 526 pages - Gd format 21 cm
@@ -1334,8 +1354,8 @@ o RAGEOT      ?  2019.05 ..... ISBN 978-2-7002-5924-7
 - .oY.     R     _VAN WILDER Cindy            Le Choix des Çlues [Terre de Brume - 2] ˛2019
 o RAGEOT      ?  2019.09 ..... ISBN 978-2-7002-7386-1
 } noimg          _Franáois Roca               ?
-!--- 120 x 210 - 11,90 euros
-- .oY.     R     _BOTTERO Pierre              Les Aigles de Vishan Lour ˛2005
+!--- 90 pages - 120 x 210 - 11,90 euros
+- .oY.     r     _BOTTERO Pierre              Les Aigles de Vishan Lour ˛2005
 o RAGEOT      ?  2019.10 ..... ISBN 978-2-7002-7378-6
 } noimg          _Uvaat                       ?
 !--- 147 x 210 - 12,90 euros
@@ -1357,16 +1377,136 @@ o RAGEOT      ?  2020.06 ..... ISBN 978-2-7002-7537-7
 - .oS.     R     _CLAVEL Fabien               Le Monde de LlÇna ˛2020
 o RAGEOT      ?  2020.09 ..... ISBN 978-2-7002-7388-5
 } noimg          _?                           ?
-!--- Jeunesse - GF - 147 x 210 mm - 18,90 euros
-- .oF.     R     _BLACK Holly                 Le Prince cruel ˛2018 The Cruel Prince ˛Trad. DAMANT-JEANDEL Leslie
+!--- Jeunesse - GF - 147 x 210 mm - 544 pages - 18,90 euros
+- .oY.     R     _BLACK Holly                 Le Prince cruel [The Folk of the Air - 1] ˛2018 The Cruel Prince ˛Trad. DAMANT-JEANDEL Leslie
+o RAGEOTC     ?  2022.10 ..... ISBN 978-2-7002-7982-5
+} noimg          _?                           ?
+!--- Jeunesse - GF - ReliÇ - 153x217 - 544 pages
+- .oY.     R     _BLACK Holly                 Le Prince cruel [The Folk of the Air - 1] ˛2018 The Cruel Prince ˛Trad. DAMANT-JEANDEL Leslie
+o RAGEOT      ?  2020.10 ..... ISBN 978-2-7002-7550-6
+} noimg          _?                           ?
+!--- Jeunesse - GF - 145 x 210 - 192 pages
+- .o .     R     _HOLZL Ariel                 CrÉne bavard, grimoire et magie noire [Fingus Malister - 2] ˛2020
+o RAGEOT      ?  2020.10 ..... ISBN 978-2-7002-7555-1
+} noimg          _Jim Tierney                 ?
+!--- Jeunesse - GF - 145 x 210 - 400 pages
+- .o .     R     _ERNSHAW Shea                Winterwood - La Foràt des Émes perdues ˛2019 Winterwood ˛Trad. NORD Lilas
+!------------------------
+!=== 2021
+!------------------------
+o RAGEOT      ?  2021.01 ..... ISBN 978-2-7002-7647-3
+} noimg          _Xavier Collette             ?
+!--- Jeunesse - GF - 145 x 210 - 256 pages
+- .o .     R     _LAROCHE Agnäs               Sorciäre rebelle [Prunelle - 1] ˛2021
+o RAGEOT      ?  2021.02 ..... ISBN 978-2-7002-7547-6
+} noimg          _NoÇmie Chevalier            ?
+!--- Jeunesse - GF - 145 x 210 - 640 pages
+- .o .     R     _TOMAS Adrien                Dragons et mÇcanismes ˛2021
+o RAGEOTP     ?  2021.02 ..... ISBN 978-2-7002-7429-5
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 120 x 180 - 448 pages
+- .oY.     R     _BOTTERO Pierre              Les Émes croisÇes ˛2010
+o RAGEOTP     ?  2021.02 ..... ISBN 978-2-7002-7431-8
+} noimg          _Lisa Perrin                 ?
+!--- Jeunesse - Poche - 125 x 180 - 384 pages
+- .oF.     R     _ERNSHAW Shea                The Wicked Deep ˛2018 The Wicked Deep ˛Trad. NORD Lilas
+o RAGEOTP     ?  2021.03 ..... ISBN 978-2-7002-7694-7
+} noimg          _Liliwood                    ?
+!--- Jeunesse - Poche - 128 x 186 - 64 pages
+- .oS.     N     _DAMASIO Alain               Scarlett et Novak ˛2021
+o RAGEOT      ?  2021.04 ..... ISBN 978-2-7002-7645-9
+} noimg          _Sean Freeman                ?
+!--- Jeunesse - GF - 145 x 210 - 480 pages
+- .o .     R     _BLACK Holly                 Le Roi malÇfique [The Folk of the Air - 2] ˛2019 The Wicked King ˛Trad. DAMANT-JEANDEL Leslie
+o RAGEOT      ?  2021.08 ..... ISBN 978-2-7002-7671-8
+} noimg          _?                           ?
+!--- Jeunesse - GF - 145x210 - 304 pages - 15,50 euros
+- .oS.     R     _MARCHAND Gilles            &Le Second Souffle ˛2021
+&                _MURZEAU Jennifer            
+o RAGEOT      ?  2021.09 ..... ISBN 978-2-7002-7674-9
+} noimg          _?                           ?
+!--- Jeunesse - GF - 145x210 - 160 pages
+- .o .     R     _FARGETTON Manon             Manel et les mÇlodies secrätes [Les Tisseurs de ràves - 1] ˛2021
+o RAGEOT      ?  2021.09 ..... ISBN 978-2-7002-7644-2
+} noimg          _?                           ?
+!--- Jeunesse - GF - 145x210 - 704 pages
+- .o .     R     _KEMMERER Brigid             Un sort si noir et Çternel [The Cursebreaker - 1] ˛2019 A Curse So Dark and Lonely ˛Trad. DELARBRE Alice
+o RAGEOT      ?  2021.10 ..... ISBN 978-2-7002-7656-5
+} noimg          _?                           ?
+!--- Jeunesse - GF - 145x210 
+- .o .     R     _FAYE Estelle                L'Arpenteuse de ràves ˛2021
+o RAGEOT      ?  2021.11 ..... ISBN 978-2-7002-7673-2
+} noimg          _?                           ?
+!--- Jeunesse - GF - 145x210 - 320 pages
+- .o .     R     _BEORN Paul                  Le Dernier des dragons ˛2021
+o RAGEOTP     ?  2021.11 ..... ISBN 978-2-7002-7718-0
+} noimg          _SÇbastien Pelon             SÇbastien Pelon
+!--- Jeunesse - Poche - 125x180 - 384 pages - 8,90 euros
+- .o .     R     _TREBOR Carole               Lumiäre - Le Voyage de Svetlana ˛2016
+o RAGEOT      ?  2021.11 ..... ISBN 978-2-7002-7879-8
+} noimg          _Sean Freeman                ?
+!--- Jeunesse - GF - 145x210 - 64 pages
+- .o .     r     _BLACK Holly                 Les Soeurs perdues [The Folk of the Air - 1.5] ˛2018 The Lost Sisters ˛Trad. DAMANT-JEANDEL Leslie
+!------------------------
+!=== 2022
+!------------------------
+o RAGEOT      ?  2022.01 ..... ISBN 978-2-7002-7675-6
+} noimg          _Antonin Faure               ?
+!--- Jeunesse 8+ - GF - 145x210 - 152 pages - 12,60 euros
+- .o .     R     _FARGETTON Manon             Anouk et les liens invisibles [Les Tisseurs de ràves - 2] ˛2022
+o RAGEOT      ?  2022.01 ..... ISBN 978-2-7002-7681-7
+} noimg          _Xavier Collette             ?
+!--- Jeunesse 10 + - GF - 145x210 - 320 pages - 15 euros
+- .oF.     R     _LAROCHE Agnäs               L'Ultime sortiläge [Prunelle - 2] ˛2022
+o RAGEOT      ?  2022.02 ..... ISBN 978-2-7002-7676-3
+} noimg          _Dorian Danielsen            ?
+!--- Jeunesse - GF - 145x210 - 256 pages - 15,50 euros
+- .oF.     R     _CANTIN Marc                &Nous ne serons plus jamais les màmes - Une terre nouvelle ˛2022
+&                _ISABEL                      
+o RAGEOT      ?  2022.03 ..... ISBN 978-2-7002-7693-0
+} noimg          _Sean Freeman                ?
+!--- Jeunesse - GF - 145x210 - 438 pages - 19,90 euros
+- .o .     R     _BLACK Holly                 La Reine sans royaume [The Folk of the Air - 3] ˛2019 The Queen of Nothing ˛Trad. DAMANT-JEANDEL Leslie
+o RAGEOT      ?  2022.05 ..... ISBN 978-2-7002-7650-3
+} noimg          _?                           ?
+!--- Jeunesse - GF - 145x210 - 600 pages - 20 euros
+- .o .     R     _KEMMERER Brigid             Un coeur si loyal et solitaire [The Cursebreaker - 2] ˛2020 A Heart so Fierce and Broken ˛Trad. DELARBRE Alice
+o RAGEOTP     ?  2022.09 ..... ISBN 978-2-7002-7714-2
+} noimg          _Elisabeth Jammes            ?
+!--- Jeunesse 8+ - Poche - 140x190 - 192 pages - 7,20 euros
+- .oF.     R     _TOMAS Adrien                Les Quatre êlÇments [Ultimage, le maåtre des magies - 1] ˛2022
+o RAGEOTP     ?  2022.09 ..... ISBN 978-2-7002-7716-6
+} noimg          _Elisabeth Jammes            ?
+!--- Jeunesse 8+ - Poche - 140x190 - 192 pages - 7,20 euros
+- .oF.     R     _TOMAS Adrien                L'Ombre et la Lumiäre [Ultimage, le maåtre des magies - 2] ˛2022
+o RAGEOT      ?  2022.09 ..... ISBN 978-2-7002-7786-9
+} noimg          _Leslie Damant-Jeandel       ?
+!--- YA - GF - 145x210 - 416 pages - 18,90 euros
+- .oY.     R     _YOUNG Adrienne              L'Aventuriäre des mers [Fable (Adrienne Young) - 1] ˛2020 Fable ˛Trad. DAMANT-JEANDEL Leslie
+o RAGEOTC     ?  2022.09 ..... ISBN 978-2-7002-7977-1
+} noimg          _Leslie Damant-Jeandel       ?
+!--- YA - GF - ReliÇ - 153x218 - 416 pages - 23,90 euros
+- .oY.     R     _YOUNG Adrienne              L'Aventuriäre des mers [Fable (Adrienne Young) - 1] ˛2020 Fable ˛Trad. DAMANT-JEANDEL Leslie
+o RAGEOT      ?  2022.10 ..... ISBN 978-2-7002-7905-4
+} noimg          _?                           ?
+!--- Jeunesse - GF - 145x210 - 384 pages - 15,90 euros
+- .oF.     R     _DESARD Maâlle               L'êcole de minuit ˛2022
+o RAGEOT      ?  2022.10 ..... ISBN 978-2-7002-7780-7
+} noimg          _?                           ?
+!--- Jeunesse - GF - 145x210 - 384 pages - 18,50 euros
+- .oF.     R     _SUTHERLAND Krystal          Les Soeurs Hollow ˛2021 House of Hollow ˛Trad. NORD Lilas
+o RAGEOT      ?  2022.11 ..... ISBN 978-2-7002-7881-1
+} noimg          _Rosina Cai                  ?
+!--- Jeunesse - GF - 145x210 - 192 pages - 17,90 euros
+- .oY.     R     _BLACK Holly                 Comment le prince Cardan en est venu Ö dÇtester les histoires [The Folk of the Air] ˛2020 How the King of Elfhame Learned to Hate Stories ˛Trad. DAMANT-JEANDEL Leslie
 
 
 
 !-----------------------------------------------------------------------------
-! EAMITIE Ed. de l'AmitiÇ
-! EAMA    Ed. de l'AmitiÇ, Coll. Les Maåtres de l'Aventure
-! EABIBAM Ed. de l'AmitiÇ, Coll. Bibliothäque de l'AmitiÇ
-! EAMAP   Rageot, Coll. Les Maåtres de l'Aventure Policier
+! EAMITIE Editions de l'AmitiÇ
+! EAMA    Editions de l'AmitiÇ, Les Maåtres de l'Aventure
+! EABIBAM Editions de l'AmitiÇ, Bibliothäque de l'AmitiÇ
+! EAMAP   Rageot, Les Maåtres de l'Aventure Policier
 !-----------------------------------------------------------------------------
 !--- Editions de l'amitiÇ, collection "Les maåtres de l'aventure"
 !--- puis Rageot, collection "Les maåtres de l'aventure"
@@ -1400,6 +1540,10 @@ o EABIBAM     ?  1986.xx ..... ISBN 2-7002-0329-5
 } noimg          _?                           ?
 !--- 120 pages
 - .oF.     R     _SAUTEREAU Franáois          La CitÇ des brumes ˛1986
+
+o EAMA        ?  1983.xx ..... ISBN 2-7002-0252-X
+} noimg          _?                           VÇronique Roux
+- .o .     R     _PELOT Pierre                Une autre terre [Arian Dhaye] ˛1972-1983
 o EAMA        ?  1986.xx ..... ISBN 2-7002-0330-5
 } noimg          _?                           ?
 - .o .     R     _JURDENNE Roger              La Coläre du dieu serpent ˛1986
@@ -1432,7 +1576,7 @@ o EAMAP       ?  1990.xx ..... ISBN 2-7002-1084-0
 - .o .     R     _SAUTEREAU Franáois          La Fontaine malÇfique [La Longue Marche de Benjamin - 3] ˛1990
 
 !-----------------------------------------------------------------------------
-! RAG_C   Rageot, Cascade (jeunesse)
+! RAG_C   Rageot, Cascade [jeunesse]
 !-----------------------------------------------------------------------------
 o RAG_C       ?  1989.xx ..... ISBN 2-7002-1015-8
 } noimg          _?                           ?
@@ -1443,9 +1587,9 @@ o RAG_C       ?  1989.xx ..... ISBN 2-7002-1015-8
 - .o .     R     _SAUTEREAU Franáois          Classe de Lune ˛1989
 
 !-----------------------------------------------------------------------------
-! RAG_CF  Rageot, Cascade fantastique (jeunesse)
+! RAG_CF  Rageot, Cascade fantastique [jeunesse]
 !-----------------------------------------------------------------------------
-!--- Rageot, Cascade fantastique (jeunesse)
+!--- Rageot, Cascade fantastique [jeunesse]
 !-----------------------------------------------------------------------------
 o RAG_CF      ?  1986.xx ..... ISBN 2-7002-....-.
 } noimg          _?                           ?
@@ -1509,9 +1653,9 @@ o RAG_CP      ?  2001.xx ..... ISBN 2-7002-2433-.
 - .o .     R     _GRENIER Christian           L'Ordinatueur ˛1996
 
 !-----------------------------------------------------------------------------
-! RAG_CP  Rageot, Cascade policier (jeunesse)
+! RAG_CP  Rageot, Cascade policier [jeunesse]
 !-----------------------------------------------------------------------------
-!--- Rageot, Cascade policier (jeunesse)
+!--- Rageot, Cascade policier [jeunesse]
 !-----------------------------------------------------------------------------
 o RAG_CP      ?  1991.xx ..... ISBN 2-7002-1150-2
 } noimg          _?                           ?
@@ -1570,9 +1714,9 @@ o RAG_CP      ?  2003.xx ..... ISBN 2-7002-2822-7
 - .oPF     R     _HONAKER Michel              Le Seigneur des cauchemars [Le Commandeur - 18] ˛2003
 
 !-----------------------------------------------------------------------------
-! RAG_HN  Rageot, Coll. "Heure Noire"
+! RAG_HN  Rageot, "Heure Noire"
 !-----------------------------------------------------------------------------
-!--- Rageot, Coll. "Heure Noire"
+!--- Rageot, "Heure Noire"
 !-----------------------------------------------------------------------------
 o RAG_HN      ?  2004.02 ..... ISBN 2-7002-2914-2
 } noimg          _?                           ?
@@ -1618,8 +1762,16 @@ o RAG_HN      ?  2018.08 ..... ISBN 978-2-7002-5844-8
 - .oS.     R     _FARGETTON Manon             La Nuit des fugitifs [Le Suivant sur la liste - 2] ˛2015
 o RAG_HN      ?  2019.08 ..... ISBN 978-2-7002-5855-4
 } noimg          _Oriol Vidal                 ?
-!--- 10-12 ans - 126 x 186 - 7,70 euros
-- .oS.     R     _GRENIER Christian           Zed, agent I.A. - Menaces sur le concert ˛2019
+!--- Jeunesse 10-12 ans - 126 x 186 - 7,70 euros
+- .oS.     R     _GRENIER Christian           Menaces sur le concert [Zed, agent I.A. - 1] ˛2019
+o RAG_HN      ?  2021.03 ..... ISBN 978-2-7002-5868-4
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 128 x 186 - 256 pages
+- .oS.     R     _BOUSQUET Charlotte          Le Dernier Ours ˛2012
+o RAG_HN      ?  2021.08 ..... ISBN 978-2-7002-5861-5
+} noimg          _?                           ?
+!--- Jeunesse 10+ - Poche - 128x186 - 160 pages - 7,80 euros
+- .oS.     R     _GRENIER Christian           Le Tableau disparu [Zed, agent I.A. - 2] ˛2021
 
 
 

@@ -1,7 +1,19 @@
-
+!--- Rocambole, devenu DOORS
+!--- la startup Rocambole est cr‚‚e en juin 2019
 
 !-----------------------------------------------------------------------------
-_ BROC_FB BibliothŠque du Rocambole, Oeuvres de Fortun‚ du Boisgobey
+_ DOORS   Doors [num‚rique]
+!-----------------------------------------------------------------------------
+!--- Rachet‚ par Vivlio en octobre 2022
+!--- Vivlio est fond‚e en 2011
+!-----------------------------------------------------------------------------
+o DOORS       ?  2021.06 ..... ISBN 978-2-36058-167-2
+} noimg          _?                           ?
+!--- Feuilleton de 10 ‚pisodes
+- .oS.     r     _BLAIZOT Lydie               L'Affaire de la machine infernale þ2021
+
+!-----------------------------------------------------------------------------
+_ BROC_FB BibliothŠque du Rocambole - Oeuvres de Fortun‚ du Boisgobey
 !-----------------------------------------------------------------------------
 !--- dirig‚e par Alfu
 !-----------------------------------------------------------------------------
@@ -9,7 +21,7 @@ _ BROC_FB BibliothŠque du Rocambole, Oeuvres de Fortun‚ du Boisgobey
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ BROC_PT BibliothŠque du Rocambole, Oeuvres de Ponson du Terrail
+_ BROC_PT BibliothŠque du Rocambole - Oeuvres de Ponson du Terrail
 !-----------------------------------------------------------------------------
 !--- dirig‚e par Alfu
 !-----------------------------------------------------------------------------
@@ -20,7 +32,7 @@ o BROC_PT    12  2012.07 ..... ISBN 978-2-36058-149-8
 - .oF.     R     _PONSON DU TERRAIL           Les Fils de Judas þ1867
 
 !-----------------------------------------------------------------------------
-_ BROC_JV BibliothŠque du Rocambole, Oeuvres de Jules Verne
+_ BROC_JV BibliothŠque du Rocambole - Oeuvres de Jules Verne
 !-----------------------------------------------------------------------------
 !--- dirig‚e par Daniel CompŠre
 !-----------------------------------------------------------------------------
@@ -44,7 +56,7 @@ o BROC_JV     6  2011.09 ..... ISBN 978-2-36058-117-7
 - .oS.     R     _VERNE Jules                 Le Testament d'un excentrique þ1899
 o BROC_JV     7  2011.12 ..... ISBN 978-2-36058-116-0
 } noimg          _?                           ?
-- .x .     R     _VERNE Jules                 K‚raban-le-tˆtu þ?
+- .x .     R     _VERNE Jules                 K‚raban-le-tˆtu þ1883
 o BROC_JV     8  2011.10 ..... ISBN 978-2-36058-119-1
 } noimg          _?                           ?
 - .x .     R     _VERNE Jules                 Les Naufrag‚s du "Jonathan" þ?
@@ -59,7 +71,7 @@ o BROC_JV    11  2011.10 ..... ISBN 978-2-36058-136-8
 - .oS.     R     _VERNE Jules                 La Maison … vapeur þ1880
 
 !-----------------------------------------------------------------------------
-_ BROC_GF BibliothŠque du Rocambole, Oeuvres de Georges Le Faure
+_ BROC_GF BibliothŠque du Rocambole - Oeuvres de Georges Le Faure
 !-----------------------------------------------------------------------------
 !--- dirig‚e par Alfu
 !-----------------------------------------------------------------------------
@@ -79,7 +91,7 @@ o BROC_GF     9  2012.01 ..... ISBN 978-2-36058-117-7
 - .oS.     R     _LE FAURE Georges            Les Robinsons lunaires þ1891
 
 !-----------------------------------------------------------------------------
-_ BROC_AL BibliothŠque du Rocambole, Oeuvres d'Andr‚ Laurie
+_ BROC_AL BibliothŠque du Rocambole - Oeuvres d'Andr‚ Laurie
 !-----------------------------------------------------------------------------
 !--- dirig‚e par Xavier No‰l
 !-----------------------------------------------------------------------------
@@ -100,7 +112,7 @@ o BROC_AL     5  2013.02 ..... ISBN 978-2-36058-154-2
 - .oAS     R     _LAURIE Andr‚                Le G‚ant de l'azur þ1904
 
 !-----------------------------------------------------------------------------
-_ BROC_PI BibliothŠque du Rocambole, Oeuvres de Paul d'Ivoi
+_ BROC_PI BibliothŠque du Rocambole - Oeuvres de Paul d'Ivoi
 !-----------------------------------------------------------------------------
 !--- dirig‚e par Marie Pawleska
 !-----------------------------------------------------------------------------
@@ -121,13 +133,13 @@ o BROC_PI     5  2013.12 ..... ISBN 978-2-36058-162-7
 - .x .     R     _D'IVOI Paul                 Millionnaire malgr‚ lui [Les Voyages excentriques - 12] þ1905
 
 !-----------------------------------------------------------------------------
-_ BROC_CD BibliothŠque du Rocambole, Oeuvres du Capitaine Danrit
+_ BROC_CD BibliothŠque du Rocambole - Oeuvres du Capitaine Danrit
 !-----------------------------------------------------------------------------
 !--- dirig‚e par Daniel David
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ BROC_RS BibliothŠque du Rocambole, Romans scientifiques
+_ BROC_RS BibliothŠque du Rocambole - Romans scientifiques
 !-----------------------------------------------------------------------------
 !--- dirig‚e par Daniel CompŠre
 !-----------------------------------------------------------------------------
@@ -148,7 +160,7 @@ o BROC_RS     4  2013.02 ..... ISBN 978-2-36058-148-1
 - .o .     R     _BLEUNARD A.                 La Babylone ‚lectrique þ1888
 
 !-----------------------------------------------------------------------------
-_ BROC_AV BibliothŠque du Rocambole, Aventures & voyages
+_ BROC_AV BibliothŠque du Rocambole - Aventures & voyages
 !-----------------------------------------------------------------------------
 !--- dirig‚e par Daniel CompŠre
 !-----------------------------------------------------------------------------
@@ -167,7 +179,6 @@ _ ROCAMBC Centre Rocambole
 o ROCAMBC     ?  2016.06 ..... ISBN 978-2-36058-167-2
 } noimg          _?                           ?
 - .o .     R     _SERVISS Garrett P.          Edison … la conquˆte de Mars þ1947 Edison's Conquest of Mars
-
 
 !-----------------------------------------------------------------------------
 _ ROCAMB  Le Rocambole

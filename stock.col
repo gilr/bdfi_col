@@ -1,24 +1,24 @@
 
 !-----------------------------------------------------------------------------
-_ STOC_DB Lib. Stock, Delamain et Boutelleau
+_ STOC_DB Lib. Stock - Delamain et Boutelleau
 _ STOCK   Stock
-_ STOCKD2 Stock, Dire/Stock 2
-_ STOCK_2 Stock, Stock 2
-_ STOC_MA Stock, Maia
-_ STOC_GB Stock, BibliothŠque anglaise
-_ STOC_BC Stock, BibliothŠque Cosmopolite
-_ STOC_CC Stock, Le Cabinet Cosmopolite
-_ STOCNCF Stock, Le Nouveau Cabinet Cosmopolite fantastique
-_ STOCNCC Stock, Le Nouveau Cabinet Cosmopolite
+_ STOCKD2 Stock - Dire/Stock 2
+_ STOCK_2 Stock - Stock 2
+_ STOC_MA Stock - Maia
+_ STOC_GB Stock - BibliothŠque anglaise
+_ STOC_BC Stock - BibliothŠque Cosmopolite
+_ STOC_CC Stock - Le Cabinet Cosmopolite
+_ STOCNCF Stock - Le Nouveau Cabinet Cosmopolite fantastique
+_ STOCNCC Stock - Le Nouveau Cabinet Cosmopolite
 !-----------------------------------------------------------------------------
 !--- Editions Stock   (P.-V. Stock)
 !-----------------------------------------------------------------------------
 o STOC_BC    18  1905.xx ..... ISBN -
 } noimg          _?                           ?
-- .p .    =N7    _WILDE Oscar                 Le Crime de Lord Arthur Savile ş1905
+- .pF.    =N7    _WILDE Oscar                 Le Crime de Lord Arthur Savile ş1905
 : .o .   v p     _SAVINE Albert               Pr‚face ş1905
-: .o .   3 N     _WILDE Oscar                 Le Crime de Lord Arthur Savile ş1891 Lord Arthur Savile's Crime şTrad. SAVINE Albert
-: .o .  93 N5    _WILDE Oscar                 Contes ş1888 The Happy Prince and Other Tales
+: .o .   3 N     _WILDE Oscar                 Le Crime de Lord Arthur Savile ş1887 Lord Arthur Savile's Crime şTrad. SAVINE Albert
+: .o .  93 N5    _WILDE Oscar                 Contes ((Le Prince heureux)) ş1888 The Happy Prince and Other Tales
 = .o .  97 N     _WILDE Oscar                 L'Ami d‚vou‚ ş1888 The Devoted Friend
 = .o . 125 N     _WILDE Oscar                 La Fameuse Fus‚e ş1888 The Remarkable Rocket
 = .o . 155 N     _WILDE Oscar                 Le Prince heureux ş1888 The Happy Prince
@@ -32,39 +32,45 @@ o STOC_BC    18  1905.xx ..... ISBN -
 : .! . 241 C     _WILDE Oscar                 La Peau d'orange ş1905
 o STOC_BC    19  1906.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     N11   _POE Edgar Allan             Derniers contes ş1887
+- .oF.     N11   _POE Edgar Allan             Derniers contes ş1887
 !--- Bibliotheque cosmopolite nø 19
-!--- Trad. F‚lix RABBE
-: .o .     N     _POE Edgar Allan             Le Duc de l'Omelette ş1832 The Duc De L'Omelette
-: .o .     N     _POE Edgar Allan             Le Mille et DeuxiŠme Conte de Sch‚h‚razade ş1845 The Thousand-and-second Tale of Scheherazade
+: .o .     N     _POE Edgar Allan             Le Duc de l'Omelette ş1832 The Duc De L'Omelette şTrad. RABBE F‚lix
+: .o .     N     _POE Edgar Allan             Le Mille et DeuxiŠme Conte de Sch‚h‚razade ş1845 The Thousand-and-second Tale of Scheherazade şTrad. RABBE F‚lix
 : .o .     N     _POE Edgar Allan             Mellonta Tauta ş1849 Mellonta Tauta şTrad. RABBE F‚lix
-: .o .     N     _POE Edgar Allan             Comment s'‚crit un article … la Blackwood ş1838 How to Write a Blackwood Article
-: .o .     N     _POE Edgar Allan             La Filouterie consid‚r‚e comme science exacte ş1843 Diddling Considered as One of the Exact Science
-!--- TBC : article ?
-: .o .     N     _POE Edgar Allan             L'Homme d'affaires ş1840 The Business Man
-: .o .     N     _POE Edgar Allan             L'Ensevelissement pr‚matur‚ ş1844 The Premature Burial
-: .o .     N     _POE Edgar Allan             Bon-Bon ş1832-1850 The Bargain Lost / Bon-Bon
-: .o .     N     _POE Edgar Allan             La Cryptographie ş? ?
-: .o .     N     _POE Edgar Allan             Du principe po‚tique ş? ?
-: .o .     N     _POE Edgar Allan             Quelques secrets de la prison du magazine ş? ?
+: .o .     N     _POE Edgar Allan             Comment s'‚crit un article … la Blackwood ş1838 The Psyche Zenobia / How to Write a Blackwood Article şTrad. RABBE F‚lix
+: .o .     a     _POE Edgar Allan             La Filouterie consid‚r‚e comme science exacte ş1843 Diddling Considered as One of the Exact Science şTrad. RABBE F‚lix
+: .o .     N     _POE Edgar Allan             L'Homme d'affaires ş1840 The Business Man şTrad. RABBE F‚lix
+: .o .     N     _POE Edgar Allan             L'Ensevelissement pr‚matur‚ ş1844 The Premature Burial şTrad. RABBE F‚lix
+: .o .     N     _POE Edgar Allan             Bon-Bon ş1832-1850 The Bargain Lost / Bon-Bon şTrad. RABBE F‚lix
+: .x .     a     _POE Edgar Allan             La Cryptographie ş1841 Secret Writing / Cryptography şTrad. RABBE F‚lix
+: .x .     a     _POE Edgar Allan             Du principe po‚tique ş1848 The Poetic Principle şTrad. RABBE F‚lix
+: .x .     a     _POE Edgar Allan             Quelques secrets de la prison du magazine ş1845 Some Secrets of the Magazine Prison-House şTrad. RABBE F‚lix
 o STOC_BC    28  1908.xx ..... ISBN -
 } noimg          _?                           ?
-- .p .    iN7    _DOYLE Arthur Conan          MystŠres et aventures ş1910
-?: .? .     N     _DOYLE Arthur Conan          Le Ravin de la digue de l'homme bleu ş1881 The Gully of Bluemansdyke
-?: .? .     N     _DOYLE Arthur Conan          Le Clergyman du gouffre de Jackman ş1885 The Parson of Jackman's Gulch
-?: .? .     N     _DOYLE Arthur Conan          Mon ami l'assassin ş1882 My Friend the Murderer
+- .p .     N7    _DOYLE Arthur Conan          MystŠres et aventures ş1910
+: .? .     N     _DOYLE Arthur Conan          Le Ravin de la digue de l'homme bleu ş1881 The Gully of Bluemansdyke
+: .? .     N     _DOYLE Arthur Conan          Le Clergyman du gouffre de Jackman ş1885 The Parson of Jackman's Gulch
+: .? .     N     _DOYLE Arthur Conan          Mon ami l'assassin ş1882 My Friend the Murderer
 : .oF.     N     _DOYLE Arthur Conan          La Hachette d'argent ş1883 The Silver Hatchet şTrad. GAIL Jean de
-?: .? .     N     _DOYLE Arthur Conan          L'Homme venu d'Arkhangel ş1885 The Man from Archangel
-?: .? .     N     _DOYLE Arthur Conan          Cette petite caisse ş1881 That Little Square Box
-?: .? .     N     _DOYLE Arthur Conan          Une nuit chez les nihilistes ş1881 A Night Among the Nihilists
+: .? .     N     _DOYLE Arthur Conan          L'Homme venu d'Arkhangel ş1885 The Man from Archangel
+: .? .     N     _DOYLE Arthur Conan          Cette petite caisse ş1881 That Little Square Box
+: .? .     N     _DOYLE Arthur Conan          Une nuit chez les nihilistes ş1881 A Night Among the Nihilists
+o STOC_BC    31  1909.xx ..... ISBN -
+} noimg          _?                           ?
+- .pF.     N5    _DOYLE Arthur Conan          Le Parasite ş1909
+: .oF.     r     _DOYLE Arthur Conan          Le Parasite ş1894 The Parasite
+: .o .     N     _DOYLE Arthur Conan          Le Coup gagnant ş1893 The Winning Shot
+: .o .     N     _DOYLE Arthur Conan          Le Secret de Goresthorpe Grange ş1883 The Secret of Goresthorpe Grange / Selecting a Ghost
+: .? .     N     _DOYLE Arthur Conan          Un duel d'acteur ş1884 The Tragedians
+: .? .     N     _DOYLE Arthur Conan          La Grosse Sally ş1893 The Slapping Sal
 o STOC_BC    39  1910.xx ..... ISBN -
 } noimg          _?                           ?
-- .p .    iN5    _DOYLE Arthur Conan          Nouveaux mystŠres et aventures ş1910
-?: .? .     N     _DOYLE Arthur Conan          Notre-Dame de la mort ş1886 Uncle Jeremy's Household
-?: .? .     N     _DOYLE Arthur Conan          Les Os ş1882 Bones, the April Fool of Harvey's Sluice
-?: .? .     N     _DOYLE Arthur Conan          Le MystŠre de la vall‚e de Sasassa ş1879 The Mystery of Sasassa Valley
-?: .? .     N     _DOYLE Arthur Conan          Notre Cagnotte du derby ş1882 Our Derby Sweepstakes
-?: .? .     N     _DOYLE Arthur Conan          Le R‚cit de l'Am‚ricain ş1880 The American's Tale
+- .p .     N5    _DOYLE Arthur Conan          Nouveaux mystŠres et aventures ş1910
+: .x .     N     _DOYLE Arthur Conan          Notre-Dame de la mort ş1886 Uncle Jeremy's Household
+: .o .     N     _DOYLE Arthur Conan          Les Os ş1882 Bones, the April Fool of Harvey's Sluice
+: .x .     N     _DOYLE Arthur Conan          Le MystŠre de la vall‚e de Sasassa ş1879 The Mystery of Sasassa Valley
+: .? .     N     _DOYLE Arthur Conan          Notre Cagnotte du derby ş1882 Our Derby Sweepstakes
+: .o .     N     _DOYLE Arthur Conan          Le R‚cit de l'Am‚ricain ş1880 The American's Tale
 o STOC_BC    44  1910.xx ..... ISBN -
 !--- Pr‚face (SAVINE Albert)
 !--- Contient aussi, en second :
@@ -74,13 +80,13 @@ o STOC_BC    44  1910.xx ..... ISBN -
 - .oS.     r     _DOYLE Arthur Conan          La Merveilleuse D‚couverte de Raffles Haw ş1891 The Doings of Raffles Haw
 o STOC_BC    52  1911.05 ..... ISBN -
 } noimg          _?                           ?
-- .p .    iN6    _DOYLE Arthur Conan          Derniers mystŠres et aventures ş1910
+- .p .     N6    _DOYLE Arthur Conan          Derniers mystŠres et aventures ş1910
 : .o .     N     _DOYLE Arthur Conan          L'Ensorceleuse ş1884 John Barrington Cowles
-?: .oK.     N     _DOYLE Arthur Conan          Cyprien Overbeck-Wells ş1886 Cyprian Overbeck Wells. A Literary Mosaic
-?: .o .     N     _DOYLE Arthur Conan          La Double vie de John Huxford ş1888 John Huxford's Hiatus
-: .oF.     N     _DOYLE Arthur Conan          L'Anneau de Thoth ş1890 The Ring of Thot şTrad. ?
+: .oK.     N     _DOYLE Arthur Conan          Cyprien Overbeck-Wells ş1886 Cyprian Overbeck Wells. A Literary Mosaic
+: .? .     N     _DOYLE Arthur Conan          La Double vie de John Huxford ş1888 John Huxford's Hiatus
+: .oF.     N     _DOYLE Arthur Conan          L'Anneau de Thoth ş1890 The Ring of Thoth şTrad. ?
 : .oF.     N     _DOYLE Arthur Conan          L'Exp‚rience du grand Keinplatz ş1885 The Great Keinplatz Experiment
-?: .o .     N     _DOYLE Arthur Conan          Le R‚cit de J. Habakuk Jephson ş1884 J. Habakuk Jephson's Statement
+: .o .     N     _DOYLE Arthur Conan          Le R‚cit de J. Habakuk Jephson ş1884 J. Habakuk Jephson's Statement
 o STOCK       ?  1924.xx ..... ISBN -
 } stock_gdguignol _N                           N
 - .o .    _N3    _LORDE Andr‚ de             &Les Drames c‚lŠbres du Grand Guignol ş1924
@@ -96,7 +102,7 @@ o STOCK       ?  1924.xx ..... ISBN -
 !--- repr‚sentation 20/10/1916
 o STOCK       ?  1926.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.    _N9    _HAWTHORNE Nathaniel         Contes ş1926
+- .oF.    _N9    _HAWTHORNE Nathaniel         Contes ((Contes de Hawthorne)) ş1926
 : .o .     N     _HAWTHORNE Nathaniel         La Vieille Fille blanche ş1835 The White Old Maid şTrad. LOGE Marc
 : .o .     N     _HAWTHORNE Nathaniel         Wakefield ş1835 Wakefield şTrad. LOGE Marc
 : .o .     N     _HAWTHORNE Nathaniel         L'Artiste du beau ş1844 The Artist of the Beautiful şTrad. LOGE Marc
@@ -321,19 +327,20 @@ o STOCNCC     ?  1979.xx ..... ISBN 2-234-00805-0
 - .x .     R     _ABE Kobo                    L'Homme boŒte ş1973 Hako otoko şTrad. ROSSET Suzanne
 o STOCK       ?  1965.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.    _N11   _SINGER Isaac Bashevis       Le Dernier D‚mon ş1965 Short Friday şTrad. BERNIER GisŠle
-: .o .     N     _SINGER Isaac Bashevis       Du sang ş1945 Blood
-: .o .     N     _SINGER Isaac Bashevis       Taibele et son d‚mon ş? Teibele and Her Demon
-: .o .     N     _SINGER Isaac Bashevis       Seul ş? ?
-: .o .     N     _SINGER Isaac Bashevis       Grand et petit ş? ?
-: .o .     N     _SINGER Isaac Bashevis       Jachid et Jechidah ş1961 Jachid and Jachida
-: .o .     N     _SINGER Isaac Bashevis       Esther Kreindel la seconde ş1967 Esther Kreindel the Second
-: .o .     N     _SINGER Isaac Bashevis       Le Je–ne ş? ?
-: .o .     N     _SINGER Isaac Bashevis       Yentl … la Yeshiva ş? ?
-: .o .     N     _SINGER Isaac Bashevis       La BrŠve journ‚e du vendredi ş? Short Friday
-: .o .     N     _SINGER Isaac Bashevis       Un mariage … Brownsville ş? ?
-: .o .     N     _SINGER Isaac Bashevis       Le Dernier D‚mon ş1964 The Last Demon
-: .o .     o     _SPATZ Erwin                 Isaac Bashevis Singer et son oeuvre ş1965 ?
+>--- Traduit de l'anglais
+- .oF.    _N11   _SINGER Isaac Bashevis       Le Dernier D‚mon ş1963 Short Friday and Other Stories şTrad. BERNIER GisŠle
+: .o .     N     _SINGER Isaac Bashevis       Du sang ş1945 Treyf blut
+: .o .     N     _SINGER Isaac Bashevis       Taibele et son d‚mon ş1962 Teibele un Hurmiza
+: .o .     N     _SINGER Isaac Bashevis       Seul ş1960 Aleyn
+: .x .     N     _SINGER Isaac Bashevis       Grand et petit ş? ?
+: .o .     N     _SINGER Isaac Bashevis       Jachid et Jechidah ş1964 Yahid un Yehidah
+: .o .     N     _SINGER Isaac Bashevis       Esther Kreindel la seconde ş1964 Ester-Krayndl di tsveyte
+: .o .     N     _SINGER Isaac Bashevis       Le Je–ne ş1961 Der faster
+: .x .     N     _SINGER Isaac Bashevis       Yentl … la Yeshiva ş? ?
+: .o .     N     _SINGER Isaac Bashevis       La BrŠve Journ‚e du vendredi ş1945 Der kurtser fraytik
+: .o .     N     _SINGER Isaac Bashevis       Un mariage … Brownsville ş1962 A khasene in Bronzvil
+: .o .     N     _SINGER Isaac Bashevis       Le Dernier D‚mon ş1959 Mayse Tishevits
+: .o .     o     _SPATZ Erwin                 Isaac Bashevis Singer et son oeuvre ş1965
 o STOCK       ?  1969.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _TOLKIEN J.R.R.              Bilbo le hobbit ş1937 The Hobbit
@@ -391,8 +398,7 @@ o STOCK       ?  1980.xx ..... ISBN 2-234-01215-5
 : .o .135  N     _NADIR Chems                 Retour … Sarmakande ş1980
 o STOCK       ?  1980.xx ..... ISBN 2-234-.-...-.
 } noimg          _?                           ?
-- .o .     N4    _MAUREL Jean-Pierre          Le Diable sur la neige ş1980
-!--- fantastique
+- .oF.     N4    _MAUREL Jean-Pierre          Le Diable sur la neige ş1980
 : .o .     N     _MAUREL Jean-Pierre          Carnaval ş?
 : .o .     N     _MAUREL Jean-Pierre          Conversion ş?
 : .o .     N     _MAUREL Jean-Pierre          Le Diable sur la neige ş?
@@ -478,16 +484,16 @@ o STOCNCC     ?  1998.10 ..... ISBN 2-234-04977-2
 } noimg          _?                           ?
 - .pF.     N11   _TSUTSUI Yasutaka            Le Censeur des rˆves ş1988 ?
 : .oF.     N     _TSUTSUI Yasutaka            Le Censeur des rˆves ş? ?
-?: .o .     N     _TSUTSUI Yasutaka            Le Cercle des gentes dames du quartier ş? ?
+: .? .     N     _TSUTSUI Yasutaka            Le Cercle des gentes dames du quartier ş? ?
 : .o .     N     _TSUTSUI Yasutaka            Soldat … la journ‚e ş? ?
 : .o .     N     _TSUTSUI Yasutaka            Bombe africaine ş1968 Afurika no Bakudan
-?: .o .     N     _TSUTSUI Yasutaka            Les Poissons ş? ?
-?: .o .     N     _TSUTSUI Yasutaka            Le Vent ş? ?
+: .? .     N     _TSUTSUI Yasutaka            Les Poissons ş? ?
+: .? .     N     _TSUTSUI Yasutaka            Le Vent ş1994 Kaze
 : .o .     N     _TSUTSUI Yasutaka            Plant‚e l…... ş? ?
-?: .o .     N     _TSUTSUI Yasutaka            Le Lit, mode d'emploi ş? ?
-?: .o .     N     _TSUTSUI Yasutaka            L'trange Homme-Tatami ş? ?
-?: .o .     N     _TSUTSUI Yasutaka            Une rumeur me concernant ş1974 Ore-ni Kansuru Uwasa
-?: .o .     N     _TSUTSUI Yasutaka            GenŠse bavarde ş? ?
+: .? .     N     _TSUTSUI Yasutaka            Le Lit, mode d'emploi ş? ?
+: .? .     N     _TSUTSUI Yasutaka            L'trange Homme-Tatami ş? Kaiki tatami otoko
+: .? .     N     _TSUTSUI Yasutaka            Une rumeur me concernant ş1974 Ore-ni Kansuru Uwasa
+: .? .     N     _TSUTSUI Yasutaka            GenŠse bavarde ş? Babbling Soseiki
 !------------------------
 !=== 1999
 !------------------------
@@ -502,15 +508,15 @@ o STOC_CO     ?  2001.xx ..... ISBN 2-234-05367-6
 + STOC_CO     ?  2004.xx ..... ISBN 2-234-05367-6
 } noimg          _?                           ?
 !--- Pr‚face Diane de Margerie
-- .oF.    _N4    _WILDE Oscar                 Nouvelles fantastiques ş1891 Lord Savile's Crime and Other Stories şTrad. CASTIER Jules
+- .oF.    _N4    _WILDE Oscar                 Nouvelles fantastiques ((Nouvelles fantastiques de Oscar Wilde)) ş1891 Lord Savile's Crime and Other Stories şTrad. CASTIER Jules
 : .o .     p     _MARGERIE Diane de           Avant-propos ş2001
-: .o .     N     _WILDE Oscar                 Le Crime de Lord Arthur Savile ş1891 Lord Arthur Savile's Crime şTrad. CASTIER Jules
+: .o .     N     _WILDE Oscar                 Le Crime de Lord Arthur Savile ş1887 Lord Arthur Savile's Crime şTrad. CASTIER Jules
 !--- (Etude du devoir)
 : .o .     N     _WILDE Oscar                 Le Spectre des Canterville ş1887 The Canterville Ghost şTrad. CASTIER Jules
 !--- (Fantaise hylo-id‚aliste)
 : .o .     N     _WILDE Oscar                 Le Sphinx sans secret ş1894 The Sphinx Without a Secret şTrad. CASTIER Jules
 !--- (Eau-forte)
-: .! .     N     _WILDE Oscar                 Le Millionaire modŠle ş1891 The Model Millionaire şTrad. CASTIER Jules
+: .x .     N     _WILDE Oscar                 Le Millionaire modŠle ş1891 The Model Millionaire şTrad. CASTIER Jules
 !--- (Note admirative)
 !------------------------
 !=== 2007
@@ -520,7 +526,7 @@ o STOCK       ?  2007.01 ..... ISBN 978-2-234-05850-7
 - .oS.     R     _FONTENAILLE Elise           Unica ş2007
 
 !-----------------------------------------------------------------------------
-_ STO_VI  Stock, Voyages imaginaires
+_ STO_VI  Stock - Voyages imaginaires
 !-----------------------------------------------------------------------------
 !--- Stock - Collection "Voyages imaginaires"
 !-----------------------------------------------------------------------------
@@ -549,7 +555,7 @@ o STO_VI      ?  1949.xx ..... ISBN -
 ?- .o .     R     _HOLBERG Ludwig              Le Voyage souterrain de Niels Klim ş1741 Niels Klims underjordiske reise şTrad. MAUVILLON El‚azar de et GERARD-ARLBERG Gilles
 
 !-----------------------------------------------------------------------------
-_ STOR    Stock, Roman des temps futurs
+_ STOR    Stock - Roman des temps futurs
 !-----------------------------------------------------------------------------
 !--- Stock - Collection "Roman des temps futurs" (1 seul roman)
 !-----------------------------------------------------------------------------
@@ -559,7 +565,7 @@ o STOR        1  1950.xx ..... ISBN -
 !--- paru d'abord en pulp sous le titre "And searching mind"
 
 !-----------------------------------------------------------------------------
-_ STOC_EV Stock, Evasion
+_ STOC_EV Stock - Evasion
 !-----------------------------------------------------------------------------
 !--- Stock - Collection Evasion (3 romans + 3 hors genres)
 !-----------------------------------------------------------------------------
@@ -574,7 +580,7 @@ o STOC_EV     ?  1971.xx ..... ISBN -
 - .o .     R     _BODELSEN Anders             Le Point de cong‚lation ş1969 Frysepunktet şTrad. ALBECK Raymond
 
 !-----------------------------------------------------------------------------
-_ STOC_CO Stock, La Cosmopolite
+_ STOC_CO Stock - La Cosmopolite
 !-----------------------------------------------------------------------------
 o STOCNCC     ?  1980.xx ..... ISBN 2-234-00983-9
 } noimg          _?                           ?
@@ -586,13 +592,13 @@ o STOCNCC     ?  1980.xx ..... ISBN 2-234-00983-9
 !--- parution originale aux USA (seven gothic tales)
 !--- Traduction de l'anglais par France Gleizal et (2004 au moins) Colette Marie Huet
 !--- Paru en suite au danemark : Syv fantastiske fortaellinger, en 1935
-: .o .     N     _BLIXEN Karen                Le Raz de mar‚e de Norderney ş? The Deluge at Norderney
-: .o .     N     _BLIXEN Karen                Le Chevalier errant ş? The Old Chevalier
-: .o .     N     _BLIXEN Karen                Le Singe ş? The Monkey
-: .o .     N     _BLIXEN Karen                Sur la route de Pise ş? The Roads around Pisa
-: .o .     N     _BLIXEN Karen                La Soir‚e d'Elseneur ş? The Supper at Elsinore
-: .o .     N     _BLIXEN Karen                Les Rˆveurs ş? The Dreamers
-: .o .     N     _BLIXEN Karen                Le PoŠte ş? The Poet
+: .o .     N     _BLIXEN Karen                Le Raz de mar‚e de Norderney ş1934 The Deluge at Norderney
+: .o .     N     _BLIXEN Karen                Le Chevalier errant ş1934 The Old Chevalier
+: .o .     N     _BLIXEN Karen                Le Singe ş1934 The Monkey
+: .o .     N     _BLIXEN Karen                Sur la route de Pise ş1934 The Roads around Pisa
+: .o .     N     _BLIXEN Karen                La Soir‚e d'Elseneur ş1934 The Supper at Elsinore
+: .o .     N     _BLIXEN Karen                Les Rˆveurs ş1934 The Dreamers
+: .o .     N     _BLIXEN Karen                Le PoŠte ş1934 The Poet
 
 o STOC_CO     ?  2003.xx ..... ISBN 2-234-05627-6
 } stockcosmoanpech _THIMONIER Didier            N

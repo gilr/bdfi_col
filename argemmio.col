@@ -1,6 +1,6 @@
 !-----------------------------------------------------------------------------
-_ ARGEMM  Ed. Argemmios
-_ ARGEMBC Ed. Argemmios, Coll. Bouts d'cailloux
+_ ARGEMM  Argemmios
+_ ARGEMBC Argemmios - Bouts d'cailloux
 !-----------------------------------------------------------------------------
 !-- Fermeture d‚but avril 2014
 !-----------------------------------------------------------------------------
@@ -12,7 +12,8 @@ o ARGEMM      ?  2008.05 ..... ISBN 978-2-9530239-0-9
 } arg2008_1      _CAMPRUBI Krystal            ?
 - .oY.     R     _DAU Nathalie                Les D‚bris du chaudron þ2008
 o ARGEMM      ?  2008.09 ..... ISBN 978-2-9530239-1-6
-} arg2008_2      _?                           ?
+} arg2008_2      _Krystal Camprubi            ?
+!--- GF - 
 - .oF.    _N10   _BOUSQUET Charlotte          Au miroir des sphinx þ2008
 : .o .     p     _BOUSQUET Charlotte          En guise d'introduction þ2008
 !--- Prologue
@@ -33,8 +34,10 @@ o ARGEMM      ?  2008.09 ..... ISBN 978-2-9530239-1-6
 !=== 2009
 !------------------------
 o ARGEMM      ?  2009.04 ..... ISBN 978-2-9530239-3-0
-} arg2009_1      _COUDRAY Mathieu             ?
-- .oFY    _A18   *DAU Nathalie               &Les H‚ritiers d'HomŠre þ2009
+} arg2009_1      _Mathieu Coudray             ?
+!--- GF - 
+!--- TBD [P‚riples mythologiques - 1]
+- .oF.    _A18   *DAU Nathalie               &Les H‚ritiers d'HomŠre þ2009
 &                *MILLEMANN Jean              
 : .o .     p     _DAU Nathalie               &Ouverture þ2009
 &                _MILLEMANN Jean              
@@ -63,7 +66,8 @@ o ARGEMM      ?  2009.10 ..... ISBN 978-2-9530239-5-4
 !=== 2010
 !------------------------
 o ARGEMM      ?  2010.02 ..... ISBN 978-2-9530239-7-8
-} arg2010_1      _GRIMOIN Gilles              ?
+} arg2010_1      _Gilles Grimoin              ?
+!--- GF - 
 - .oF.    _N13   _LABBE Denis                 Marelle d'ombres þ2010
 : .oF.     p     _DELBE Alain                 Pr‚face þ2010
 : .oF.     N     _LABBE Denis                 Et Omnia Vanitas þ2003-2010
@@ -71,7 +75,7 @@ o ARGEMM      ?  2010.02 ..... ISBN 978-2-9530239-7-8
 : .oF.     N     _LABBE Denis                 Agent de la camarde þ2002-2010
 : .oF.     N     _LABBE Denis                 Papillons de nuit þ1999-2010
 : .oF.     N     _LABBE Denis                 Helldorado þ2000-2010
-: .oF.     N     _LABBE Denis                 La Coupe de ton regard þ2010
+: .o .     N     _LABBE Denis                 La Coupe de ton regard þ2009
 : .oF.     N     _LABBE Denis                 Un meurtre de corbeaux þ2005-2010
 : .oF.     N     _LABBE Denis                 Kourgane au coeur þ2010
 : .oF.     N     _LABBE Denis                 Rosebud þ2003-2010
@@ -136,7 +140,7 @@ o ARGEMM      ?  2012.04 ..... ISBN 978-2-919049-05-9
 : .o .     N     _FERRIC Franck               Totem þ2012
 : .o .     N     _PERRAULT Aurore             Sables noirs þ2012
 : .o .     N     _GRANGIER Carole             Mitakuye Oyasin þ2012
-: .o .     N     _CABASSON Armand             Visions þ2012
+: .o .     N     _CABASSON Armand             Visions þ2005
 : .o .     N     _LABBE Denis                 Le Grand-Sault þ2012
 : .o .     N     _TERRAL Vanessa              Le Dernier Ours d'Articque þ2012
 : .o .     N     _SICART Pierre-Alexandre     La Grotte de l'indien þ2012
@@ -156,7 +160,13 @@ o ARGEMM      ?  2012.08 ..... ISBN 978-2-919049-02-8
 !------------------------
 o ARGEMM      ?  2013.04 ..... ISBN 978-2-919049-09-7
 } arg2013_1      _Mathieu Coudray             ?
-- .oY.     R     _ROBILLARD Chantal           Zoo des chimŠres þ2013
+!--- 112 pages - 8,50 euros
+!--- Le texte "Le coeur de Nino", en plusieurs parties joue un r“le de fil conducteur
+! .o .     N     _ROBILLARD Chantal           Le coeur de Nino þ2013
+! .o .     N     _ROBILLARD Chantal           Le Blues de la belle boudeuse þ2013
+! .o .     N     _ROBILLARD Chantal           Le Maraudeur aux yeux jaunes þ2013
+! .o .     N     _ROBILLARD Chantal           Un Chant de d‚tresse þ2013
+- .oF.    iC28   _ROBILLARD Chantal           Zoo des chimŠres þ2013
 o ARGEMM      ?  2013.xx ..... ISBN 978-2-919049-20-2
 } arg2013_2      _Mathieu Coudray             ?
 - .oI.     r2    _ECHENE AgnŠs               &Rencontres imaginaires en Aubrac þ2013
@@ -193,7 +203,7 @@ o ARGEMM      ?  2013.11 ..... ISBN 978-2-919049-21-9
 o ARGEMBC     ?  2010.11 ..... ISBN 978-2-919049-00-4
 }argemmios07     _COUDRAY Mathieu             BOUTLE Arnaud
 !--- TBC Anthologiste : Nathalie Dau ?
-- .oM.    _A7    ****                         Il ‚tait sept fois þ2010
+- .oFM    _A7    ****                         Il ‚tait sept fois þ2010
 : .o .     N     _GEVART Pierre               Histoire du petit point rouge þ2010
 : .o .     N     _DOLLO Xavier                Caroline la premiŠre girafe þ2010
 : .o .     N     _DANIEL Marie-Catherine      Le Robot malade þ2010

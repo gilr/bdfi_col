@@ -3,16 +3,16 @@
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 _ PCITE   Presses de la Cit‚
-_ PCIT_PS Presses de la Cit‚, Coll. Polars et Suspense
-_ PC_INED Presses de la Cit‚ In‚dit
-_ PCIT_PA Presses de la Cit‚, Coll. "Paniques"
-_ PCIT_MY Presses de la Cit‚, Coll. "MystŠre"
-_ PCIT_T  Presses de la Cit‚, Coll. Turquoise
-_ PCIT_TS Presses de la Cit‚, Coll. Turquoise, S‚rie SortilŠges
-_ PCIT_TM Presses de la Cit‚, Coll. Turquoise, S‚rie M‚daillon
-_ PC_SDE  Presses de la Cit‚, Coll. Sang d'Encre
+_ PCIT_PS Presses de la Cit‚ - Polars et Suspense
+_ PC_INED Presses de la Cit‚ - In‚dit
+_ PCIT_PA Presses de la Cit‚ - Paniques
+_ PCIT_MY Presses de la Cit‚ - MystŠre
+_ PCIT_T  Presses de la Cit‚ - Turquoise
+_ PCIT_TS Presses de la Cit‚ - Turquoise - S‚rie SortilŠges
+_ PCIT_TM Presses de la Cit‚ - Turquoise - S‚rie M‚daillon
+_ PC_SDE  Presses de la Cit‚ - Sang d'Encre
 !-----------------------------------------------------------------------------
-_ PCIC_TS Presses de la Cit‚ Canada, Coll. Turquoise, S‚rie SortilŠges
+_ PCIC_TS Presses de la Cit‚ Canada - Turquoise - S‚rie SortilŠges
 !-----------------------------------------------------------------------------
 !--- MystŠres : format poche
 !-----------------------------------------------------------------------------
@@ -48,7 +48,7 @@ o PCIT_PA     7i 1983.xx ..... ISBN 2-258-01240-6
 ?- .x .     R     _McGIVERN William Peter      La Nuit de l'‚gorgeur þ1975 Night of the Juggler þTrad. WATKINS France-Marie
 o PCIT_PA     9i 1984.xx ..... ISBN 2-258-01347-X
 } noimg          _?                           ?
-- .o .     R     _BANKS Iain M.               Le Seigneur des guˆpes þ1984 The Wasp Factory þTrad. ARNAUD Pierre
+- .xT.     R     _BANKS Iain M.               Le Seigneur des guˆpes þ1984 The Wasp Factory þTrad. ARNAUD Pierre
 o PCIT_PA    10i 1984.xx ..... ISBN 2-258-01422-0
 } noimg          _?                           ?
 - .o .     R     _SOHL Jerry                  Sommeil de mort þ1983 Death Sleep þTrad. DECOURT Martine & ESTEBE Jean-Luc
@@ -124,7 +124,7 @@ o PCIT_PA    30i 2001.xx ..... ISBN 2-258-05589-X
 - .oF.     R     _LITTLE Bentley              L'Ignor‚ þ1997 The Ignored þTrad. MARTINACHE Jacques
 o PCITE      31i 2002.xx ..... ISBN 2-258-05714-0
 } noimg          _?                           ?
-- .o .     R     _MASTERTON Graham            Les Papillons du mal þ2000 Trauma þTrad. TRUCHAUD Fran‡ois
+- .o .     R     _MASTERTON Graham            Les Papillons du mal þ2001 Trauma / Bonnie Winter þTrad. TRUCHAUD Fran‡ois
 
 !-----------------------------------------------------------------------------
 !---                    Presses de la Cit‚ - Polars et Suspense
@@ -197,7 +197,7 @@ o PCITE       ?  1973.xx ..... ISBN -
 } noimg          _?                           ?
 + PCITE       ?  1996.xx ..... ISBN 2-258-04419-7
 } noimg          _?                           ?
-!--- R‚‚d. 1996 : þTrad. BRECARD Jacques + MARTINACHE Jacques
+!--- R‚‚d. 1996 : Trad. BRECARD Jacques + MARTINACHE Jacques
 - .o .     R     _SMITH Wilbur                L'Oiseau de soleil þ1972 The Sunbird þTrad. BRECARD Jacques
 o PCITE       ?  1973.xx ..... ISBN -
 } noimg          _?                           ?
@@ -281,7 +281,7 @@ o PCITE       ?  1982.xx ..... ISBN 2-258-01029-2
 - .o .     R     _CHARBONNEAU Louis           Le Grand Ordinateur þ1979 Intruder þTrad. HUINH Simone
 o PCITE       ?  1982.xx ..... ISBN 2-258-01043-8
 } noimg          _?                           ?
-- .o .     R     _WILSON F. Paul              Le Donjon þ1981 The Keep þTrad. GUIOD Jacques
+- .o .     R     _WILSON F. Paul              Le Donjon [Adversary Cycle - 1] þ1981 The Keep þTrad. GUIOD Jacques
 o PCITE       ?  1982.xx ..... ISBN 2-258-01118-3
 } noimg          _?                           ?
 - .o .     F     _DREW Wayland                Le Dragon du lac de feu þ1981 Dragonslayer þTrad. HEADLINE John
@@ -305,9 +305,6 @@ o PCITE       ?  1983.xx ..... ISBN 2-258-01244-9
 o PCITE       ?  1984.11 ..... ISBN 2-258-01482-4
 } noimg          _?                           ?
 - .o .     R     _CRISPIN Ann C.              Les Visiteurs þ1984 V þTrad. VERNAY Gilles
-o PCITE       ?  1984.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _BANKS Iain M.               Le Seigneur des guˆpes þ1984 The Wasp Factory þTrad. ARNAUD Pierre
 !------------------------
 !=== 1985
 !------------------------
@@ -368,28 +365,31 @@ o PCITE       ?  1988.xx ..... ISBN .-.....-...-.
 !------------------------
 o PCITE       ?  1989.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _SAUL John                   Hantises þ1988 The Unloved
-o PCITE       ?  1989.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
 - .o .     R     _FARRIS John                 L'Ange des t‚nŠbres þ1987 Nightfall
 !------------------------
 !=== 1990
 !------------------------
-o PCITE       ?  1990.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
+o PCITE       ?  1990.xx ..... ISBN 2-258-02769-1
+} noimg          _Wotjek Siudmak              ?
+- .o .     R     _SAUL John                   Hantises þ1988 The Unloved þTrad. ARSON Thierry
+o PCITE       ?  1990.xx ..... ISBN 2-258-03021-8
+} noimg          _Didier Thimonier            ?
 - .o .     R     _McCAMMON Robert             L'Heure du loup þ1989 The Wolf's Hour þTrad. ARSON Thierry
-o PCITE       ?  1990.xx ..... ISBN .-.....-...-.
+o PCITE       ?  1990.xx ..... ISBN 2-258-02923-6
 } noimg          _?                           ?
 - .o .     R     _HERBERT James               Dis-moi qui tu hantes þ1988 Haunted þTrad. ARSON Thierry
 !------------------------
 !=== 1991
 !------------------------
-o PCITE       ?  1991.xx ..... ISBN .-.....-...-.
+o PCITE       ?  1991.xx ..... ISBN 2-258-03025-0
+} pp5506         _G‚rard Mari‚                N
+- .o .     R     _HAMBLY Barbara              Fendragon þ1986 Dragonsbane þTrad. DEMUTH Michel
+o PCITE       ?  1991.xx ..... ISBN 2-258-02770-5
+} noimg          _Don Brautigam               ?
+- .o .     R     _SAUL John                   Cr‚ature þ1989 Creature þTrad. WATWILLER Dominique
+o PCITE       ?  1991.xx ..... ISBN 2-258-03377-2
 } noimg          _?                           ?
-- .o .     R     _SAUL John                   Cr‚ature þ1989 Creature
-o PCITE       ?  1991.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _MASTERTON Graham            La Nuit des salamandres þ1989 Salamander / The Hymn / The Burning þTrad. TRUCHAUD Fran‡ois
+- .oF.     R     _MASTERTON Graham            La Nuit des salamandres þ1991 The Burning / The Hymn þTrad. TRUCHAUD Fran‡ois
 o PCITE       ?  1991.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _HUBBARD L. Ron              Au bout du cauchemar þ1940 Fear þTrad. DEMUTH Michel
@@ -402,30 +402,30 @@ o PCITE       ?  1991.xx ..... ISBN 2-258-03355-1
 !------------------------
 !=== 1992
 !------------------------
-o PCITE       ?  1992.xx ..... ISBN .-.....-...-.
+o PCITE       ?  1992.xx ..... ISBN 2-258-03389-6
 } noimg          _?                           ?
-- .o .     R     _REEVES-STEVENS Garfield     La Danse du scalpel þ1990 Dark matter
+- .o .     R     _REEVES-STEVENS Garfield     La Danse du scalpel þ1990 Dark matter þTrad. MARTINACHE Jacques
 o PCITE       ?  1992.xx ..... ISBN 2-258-03548-1
 } noimg          _?                           ?
-- .o .     R     _ZAHN Timothy                L'H‚ritier de l'empire [La Croisade noire du jedi fou - 1][Star Wars] þ1991 Heir of the Empire
+- .o .     R     _ZAHN Timothy                L'H‚ritier de l'empire [La Croisade noire du jedi fou - 1][Star Wars] þ1991 Heir to the Empire
 o PCITE       ?  1992.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _RIVERS SIDDONS Anne         La Maison d'… c“t‚ þ1978 The House Next Door þTrad. ROUARD Philippe
-o PCITE       ?  1992.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _MASTERTON Graham            Apparition þ1990 Prey / Apparition þTrad. TRUCHAUD Fran‡ois
-o PCITE       ?  1992.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
+o PCITE       ?  1992.xx ..... ISBN 2-258-03539-2
+} noimg          _John Jude Palencar          ?
+- .o .     R     _MASTERTON Graham            Apparition þ1992 Prey þTrad. TRUCHAUD Fran‡ois
+o PCITE       ?  1992.xx ..... ISBN 2-258-03498-1
+} noimg          _Tim O'Brien                 ?
 - .o .     R     _CAMPBELL J. Ramsey          Soleil de minuit þ1990 Midnight Sun þTrad. COISNE G‚rard
 o PCITE       ?  1992.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _HUBBARD L. Ron              Final black-out þ1939 Final Black-out
-o PCITE       ?  1992.xx R.... ISBN .-.....-...-.
+o PCITE       ?  1992.xx R.... ISBN 2-258-03436-1
 } noimg          _?                           ?
 - .o .     R     _FOWLER Christopher          Le Diable aux trousses þ1990 Rune þTrad. GUIOD Jacques
-o PCITE       ?  1992.xx ..... ISBN .-.....-...-.
+o PCITE       ?  1992.xx R.... ISBN 2-258-03601-1
 } noimg          _?                           ?
-- .o .     R     _REEVES-STEVENS Garfield     La Danse du scalpel þ1990 Dark matter þTrad. MARTINACHE Jacques
+- .oF.     R     _COSTELLO Matthew J.         La Chose des profondeurs þ1991 Wurm þTrad. GUIOD Jacques
 !------------------------
 !=== 1993
 !------------------------
@@ -433,10 +433,10 @@ o PCITE       ?  1993.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oS.     R     _VEILLOT Claude             &L'Enfant qui venait du froid þ1993
 &                _THIBAUX Jean-Michel         
-o PCITE       ?  1993.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _LEE Tanith                  La Danse des ombres [L'Op‚ra de sang - 1] þ1992 Dark Dance
-o PCITE       ?  1993.xx ..... ISBN .-.....-...-.
+o PCITE       ?  1993.xx ..... ISBN 2-258-03630-5
+} noimg          _Duduer Thimonier            ?
+- .o .     R     _LEE Tanith                  La Danse des ombres [L'Op‚ra de sang - 1] þ1992 Dark Dance þTrad. ARSON Thierry
+o PCITE       ?  1993.xx ..... ISBN 2-258-03629-1
 } noimg          _?                           ?
 - .o .     R     _WILSON F. Paul              Liens de sang þ1991 Sibs þTrad. GUIOD Jacques
 o PCITE       ?  1993.xx ..... ISBN 2-258-03724-7
@@ -473,9 +473,9 @@ o PCITE       ?  1993.xx ..... ISBN .-.....-...-.
 o PCITE       ?  1993.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _ASIMOV Isaac                L'Aube de Fondation [Fondation] þ1993 Forward the Foundation
-o PCITE       ?  1993.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _MASTERTON Graham            L'Ombre du Manitou [Manitou - 3] þ1991 Bad Moon Rising / Burial þTrad. TRUCHAUD Fran‡ois
+o PCITE       ?  1993.xx ..... ISBN 2-258-03702-6
+} noimg          _Pierre-Olivier Templier     ?
+- .o .     R     _MASTERTON Graham            L'Ombre du Manitou [Manitou - 3] þ1991 Burial þTrad. TRUCHAUD Fran‡ois
 !------------------------
 !=== 1994
 !------------------------
@@ -483,7 +483,7 @@ o PCITE       ?  1994.xx R.... ISBN 2-258-03823-5
 } noimg          _?                           ?
 + PCITE       ?  2018.01 ..... ISBN 978-2-258-15079-9
 } noimg          _?                           ?
-!--- Traduction 2018 : þTrad. DEMUTH Michel + HAAS Dominique
+!--- Traduction 2018 : Trad. DEMUTH Michel + HAAS Dominique
 - .o .     R     _ROBINSON Kim Stanley        Mars la rouge [La Trilogie martienne - 1] þ1992 Red Mars þTrad. DEMUTH Michel
 o PCITE       ?  1994.xx ..... ISBN 2-258-00154-4
 } noimg          _?                           ?
@@ -491,27 +491,33 @@ o PCITE       ?  1994.xx ..... ISBN 2-258-00154-4
 o PCITE       ?  1994.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _SPELLMAN Cathy Cash         Dans les griffes du diable þ1993 Bless the Child þTrad. BEAUVILLARD Claire
-o PCITE       ?  1994.xx ..... ISBN .-.....-...-.
+o PCITE       ?  1994.xx ..... ISBN 2-258-00056-4
 } noimg          _?                           ?
+- .o .     R     _DUANE Diane                 L'Envers du miroir [The Next Generation][Star Trek] þ1993 Dark Mirror
+o PCITE       ?  1994.xx ..... ISBN 2-258-00087-4
+} noimg          _Didier Thimonier            ?
 - .o .     R     _MASTERTON Graham            Tengu þ1983 Tengu þTrad. TRUCHAUD Fran‡ois
-o PCITE       ?  1994.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
+o PCITE       ?  1994.xx ..... ISBN 2-258-03861-8
+} noimg          _Pierre-Olivier Templier     ?
 - .o .     R     _WOOD Bari                   Double vue þ1993 Doll's Eyes þTrad. MARTINACHE Jacques
-o PCITE       ?  1994.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
+o PCITE       ?  1994.xx ..... ISBN 2-258-00098-X
+} noimg          _Didier Thimonier            ?
 - .o .     R     _HERBERT James               Pr‚sages þ1992 Portent þTrad. CRICHTON Anne
-o PCITE       ?  1994.xx ..... ISBN .-.....-...-.
+o PCITE       ?  1994.xx ..... ISBN 2-258-03800-6
+} noimg          _Pierre-Olivier Templier     ?
+- .o .     R     _LEE Tanith                  Le Festin des t‚nŠbres [L'Op‚ra de sang - 2] þ1993 Personal Darkness þTrad. ARSON Thierry
+o PCITE       ?  1994.xx ..... ISBN 2-258-00107-2
+} noimg          _Pierre-Olivier Templier     ?
+- .oF.     R     _LAWS Stephen                Gid‚on þ1993 Gideon þTrad. ROUARD Philippe
+o PCITE       ?  1994.xx ..... ISBN 2-258-03775-1
 } noimg          _?                           ?
-- .o .     R     _LEE Tanith                  Le Festin des t‚nŠbres [L'Op‚ra de sang - 2] þ1993 Personal Darkness
+- .oF.     R     _COSTELLO Matthew J.         N‚ de l'ombre þ1992 Darkborn þTrad. DEMUTH Michel
 !------------------------
 !=== 1995
 !------------------------
-o PCITE       ?  1995.01 ..... ISBN 2-258-00056-4
-} noimg          _?                           ?
-- .o .     R     _DUANE Diane                 L'Envers du miroir [The Next Generation][Star Trek] þ1993 Dark Mirror
 o PCITE       ?  1995.xx ..... ISBN 2-258-04007-8
 } noimg          _?                           ?
-- .o .     R     _BRADLEY Marion Zimmer       La Chute d'Atlantis þ1985 The Fall of Atlantis þTrad. VONARBURG Elisabeth
+- .o .     R     _BRADLEY Marion Zimmer       La Chute d'Atlantis þ1984 Web of Darkness / The Fall of Atlantis þTrad. VONARBURG Elisabeth
 o PCITE       ?  1995.xx ..... ISBN 2-258-03925-8
 } noimg          _?                           ?
 - .o .     R     _TYERS Kathy                 Trˆve … Bakura [Star Wars] þ1994 The Truce at Bakura þTrad. DEMUTH Michel
@@ -519,14 +525,14 @@ o PCITE       ?  1995.xx R.... ISBN 2-258-03930-4
 } noimg          _?                           ?
 + PCITE       ?  2018.01 ..... ISBN 978-2-258-15080-5
 } noimg          _?                           ?
-!--- TBD Traduction 2018 : þTrad. DEMUTH Michel + HAAS Dominique
+!--- TBD Traduction 2018 : Trad. DEMUTH Michel + HAAS Dominique
 - .o .     R     _ROBINSON Kim Stanley        Mars la verte [La Trilogie martienne - 2] þ1993 Green Mars þTrad. DEMUTH Michel
-o PCITE       ?  1995.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _LEE Tanith                  Ca‹n l'obscur [L'Op‚ra de sang - 3] þ1994 Darkness, I
-o PCITE       ?  1995.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _MASTERTON Graham            Sang impur þ1993 Flesh and Blood þTrad. TRUCHAUD Fran‡ois
+o PCITE       ?  1995.xx ..... ISBN 2-258-03879-0
+} noimg          _Pierre-Olivier Templier     ?
+- .o .     R     _LEE Tanith                  Ca‹n l'obscur [L'Op‚ra de sang - 3] þ1994 Darkness, I þTrad. ARSON Thierry
+o PCITE       ?  1995.xx ..... ISBN 2-258-03939-8
+} noimg          _Pierre-Olivier Templier     ?
+- .o .     R     _MASTERTON Graham            Sang impur þ1994 Flesh and Blood þTrad. TRUCHAUD Fran‡ois
 o PCITE       ?  1995.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _FRIEDMAN Michael Jan        Ombres sur le soleil [Star Trek] þ1993 Shadows on the Sun
@@ -536,14 +542,17 @@ o PCITE       ?  1995.xx ..... ISBN 2-258-04101-5
 o PCITE       ?  1995.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _ANSCOMBE Roderick           La Vie secrŠte de Laszlo, comte Dracula þ1994 The Secret Life of Laszlo, Count Dracula þTrad. FALL Eric Lindor
-o PCITE       ?  1995.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _FOWLER Christopher          L'Illusioniste þ1995 Spanky þTrad. GUIOD Jacques
+o PCITE       ?  1995.xx ..... ISBN 2-258-03948-7
+} noimg          _Didier Thimonier            ?
+- .o .     R     _FOWLER Christopher          L'Illusionniste þ1994 Spanky þTrad. GUIOD Jacques
 o PCITE       ?  1995.09 ..... ISBN 2-258-03984-.
 } noimg          _?                           ?
 + PCITE       ?  2003.04 ..... ISBN 2-258-06182-.
 } noimg          _?                           ?
 - .o .     R     _GABALDON Diana              Le Chardon et le Tartan [Le Cercle de pierre - 1] þ1991 Outlander þTrad. SAFAVI Philippe
+o PCITE       ?  1995.xx ..... ISBN 2-258-04121-X
+} noimg          _?                           ?
+- .o .     R     _FARRIS John                 Sacrifice þ1994 Sacrifice þTrad. CHAMPON Alexis
 !------------------------
 !=== 1996
 !------------------------
@@ -562,12 +571,9 @@ o PCITE       ?  1996.xx ..... ISBN 2-258-04100-7
 o PCITE       ?  1996.xx ..... ISBN 2-258-04098-1
 } noimg          _?                           ?
 - .oS.     R     _HAMBLY Barbara              Les Enfants du Jedi [Callista - 1][Star Wars] þ1995 Children of the Jedi þTrad. TOUSSAINT Jean-Marc
-o PCITE       ?  1996.xx ..... ISBN .-.....-...-.
+o PCITE       ?  1996.xx ..... ISBN 2-258-04453-7
 } noimg          _?                           ?
-- .o .     R     _MASTERTON Graham            Walhalla þ1994 The House That Jack Built þTrad. TRUCHAUD Fran‡ois
-o PCITE       ?  1996.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _FARRIS John                 Sacrifice þ1994 Sacrifice þTrad. CHAMPON Alexis
+- .o .     R     _MASTERTON Graham            Walhalla þ1996 The House That Jack Built þTrad. TRUCHAUD Fran‡ois
 o PCITE       ?  1996.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _BESHER Alexander            Le Seigneur du RIM þ1994 RIM: a Novel a Virtual Reality þTrad. TOUSAINT Jean-Marc
@@ -613,9 +619,9 @@ o PCITE       ?  1998.xx ..... ISBN .-.....-...-.
 o PCITE       ?  1998.xx ..... ISBN 2-258-04881-8
 } noimg          _?                           ?
 - .oS.     R     _RUSCH Kristine Kathryn      La Nouvelle R‚bellion [Star Wars] þ1997 The New Rebellion þTrad. DEMUTH Michel
-o PCITE       ?  1998.xx ..... ISBN .-.....-...-.
+o PCITE       ?  1998.xx ..... ISBN 2-258-05021-9
 } noimg          _?                           ?
-- .o .     R     _ROBINSON Kim Stanley        S.O.S. Antartica þ1997 Antartica Inc. þTrad. HAAS Dominique
+- .oS.     R     _ROBINSON Kim Stanley        SOS Antarctica þ1997 Antarctica Inc. þTrad. HAAS Dominique
 o PCITE       ?  1998.xx ..... ISBN 2-258-05020-0
 } noimg          _?                           ?
 - .oS.     R     _HAMBLY Barbara              La PlanŠte du cr‚puscule [Callista - 3][Star Wars] þ1998 Planet of Twilight þTrad. TOUSSAINT Jean-Marc
@@ -637,7 +643,7 @@ o PCITE       ?  1999.xx ..... ISBN 2-258-05041-3
 - .oS.     R     _ZAHN Timothy                Le Spectre du pass‚ [La Main de Thrawn - 1][Star Wars] þ1997 Specter of the Past þTrad. TOUSSAINT Jean-Marc
 o PCITE       ?  1999.06 ..... ISBN 2-258-05229-7
 } noimg          _?                           ?
-- .oS.     F     _BROOKS Terry                Episode I - La Menace fant“me [La PremiŠre Trilogie - 1]|[Episode I][Star Wars] þ1999 The Phantom Menace þTrad. TOUSSAINT Jean-Marc & ARSON Thierry & MALLE Jean-Claude
+- .oS.     F     _BROOKS Terry                pisode I - La Menace fant“me [La PremiŠre Trilogie - 1]|[Episode I][Star Wars] þ1999 The Phantom Menace þTrad. TOUSSAINT Jean-Marc & ARSON Thierry & MALLE Jean-Claude
 o PCITE       ?  1999.xx ..... ISBN 2-258-05042-1
 } noimg          _?                           ?
 - .oS.     R     _ZAHN Timothy                Vision du futur [La Main de Thrawn - 2][Star Wars] þ1998 Vision of the Future þTrad. HAREN G‚rard
@@ -647,9 +653,9 @@ o PCITE       ?  1999.xx ..... ISBN .-.....-...-.
 !------------------------
 !=== 2000
 !------------------------
-o PCITE       ?  2000.xx ..... ISBN .-.....-...-.
+o PCITE       ?  2000.xx ..... ISBN 2-258-05321-8 
 } noimg          _?                           ?
-- .o .     R     _BRIN David                  Le Triomphe de Fondation [La Seconde Trilogie Fondation - 3][Fondation] þ1999 Foundation's Triumph
+- .o .     R     _BRIN David                  Le Triomphe de Fondation [La Seconde Trilogie Fondation - 3][Fondation] þ1999 Foundation's Triumph þTrad. HAAS Dominique
 o PCITE       ?  2000.xx ..... ISBN 2-258-05314-5
 } noimg          _?                           ?
 - .o .     R     _GERRITSEN Tess              ChimŠre þ1999 Gravity þTrad. HAAS Dominique
@@ -674,7 +680,7 @@ o PCITE       ?  2000.xx ..... ISBN 2-258-05422-2
 : .oS.     N     _ROBINSON Kim Stanley        Le Sauvetage du barrage de Noctis þ1999 Saving Noctis Dam þTrad. HAAS Dominique
 : .oS.     N     _ROBINSON Kim Stanley        Grand homme amoureux þ1999 Big Man in Love þTrad. HAAS Dominique
 : .oS.     N     _ROBINSON Kim Stanley        Plaidoyer pour la mise en oeuvre de techniques de terraforming s–res þ1999 An Argument for the Deployment of All Safe Terraforming Technologies þTrad. HAAS Dominique
-: .oS.     N     _ROBINSON Kim Stanley        S‚lection d'extraits du Journal d'‚tudes ar‚ologiques þ1999 Selected Abstracts from The Journal of Areological Studies þTrad. HAAS Dominique
+: .oS.     N     _ROBINSON Kim Stanley        S‚lection d'extraits du Journal d'‚tudes ar‚ologiques þ1999 Selected Abstracts from the Journal of Areological Studies þTrad. HAAS Dominique
 : .oS.     N     _ROBINSON Kim Stanley        Odessa þ1999 Odessa þTrad. HAAS Dominique
 : .oS.     N     _ROBINSON Kim Stanley        Dimorphisme sexuel þ1999 Sexual Dimorphism þTrad. HAAS Dominique
 : .oS.     N     _ROBINSON Kim Stanley        Assez est aussi bien qu'un festin þ1999 Enough Is As Good As a Feast þTrad. HAAS Dominique
@@ -752,7 +758,7 @@ o PCITE       ?  2002.05 ..... ISBN 2-258-05837-8
 - .o .     R     _AUEL Jean M.                Les Refuges de pierre [Les Enfants de la Terre - 5] þ2002 The Shelters of Stone þTrad. MARTINACHE Jacques
 o PCITE       ?  2002.05 ..... ISBN 2-258-05338-2
 } noimg          _ANDERSON Steven D.          ?
-- .o .     F     _SALVATORE R.A.              Episode II - L'Attaque des clones [La PremiŠre Trilogie - 2]|[Clone Wars][Star Wars] þ2002 Attack of the Clones þTrad. TOUSSAINT Jean-Marc
+- .o .     F     _SALVATORE R.A.              pisode II - L'Attaque des clones [La PremiŠre Trilogie - 2]|[Clone Wars][Star Wars] þ2002 Attack of the Clones þTrad. TOUSSAINT Jean-Marc
 o PCITE       ?  2002.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _REYNOLDS Alastair           L'Espace de la r‚v‚lation [L'Espace de la r‚v‚lation - 1] þ2000 Revelation Space þTrad. HAAS Dominique
@@ -818,7 +824,7 @@ o PCITE       ?  2005.04 ..... ISBN 2-258-06354-X
 - .oS.     R     _BAXTER Stephen              Evolution þ2002 Evolution þTrad. HAAS Dominique
 o PCITE       ?  2005.05 ..... ISBN 2-258-06802-9
 } noimg          _?                           ?
-- .oS.     F     _STOVER Matthew Woodring     Episode III - La Revanche des Sith [La PremiŠre Trilogie - 3]|[La Revanche des Sith - 2][Star Wars] þ2005 Revenge of the Sith þTrad. HAAS Dominique & BOUCHAIN Denis
+- .oS.     F     _STOVER Matthew Woodring     pisode III - La Revanche des Sith [La PremiŠre Trilogie - 3]|[La Revanche des Sith - 2][Star Wars] þ2005 Revenge of the Sith þTrad. HAAS Dominique & BOUCHAIN Denis
 o PCITE       ?  2005.10 ..... ISBN 2-258-06893-2
 } noimg          _?                           ?
 - .oS.     R     _LUCENO James                La Force unifi‚e [Le Nouvel Ordre Jedi - 19][Star Wars] þ2004 The Unifying Force þTrad. TOUSSAINT Jean-Marc
@@ -968,8 +974,8 @@ o PCITE       ?  2012.05 ..... ISBN 978-2-258-09281-5
 - .oS.     R     _WALKER Karen Thompson       L'ƒge des miracles þ2012 The Age of Miracles þTrad. DELARBRE Alice
 o PCITE       ?  2012.11 ..... ISBN 978-2-258-09989-0
 } pdccdp12       _?                           ?
+!--- TBC plut“t : Le Chardon et le Tartan - Le Talisman - Livre I-II [Le cercle de pierre - 1/2]
 - .oS.    kR2    _GABALDON Diana              Le Cercle de pierre - 1 [Le Cercle de pierre - 1/2] þ2012
-!--- TBC plut“t  :                            Le Chardon et le Tartan - Le Talisman - Livre I-II [Le cercle de pierre - 1/2] þ2012
 : .o .     R     _GABALDON Diana              Le Chardon et le Tartan [Le Cercle de pierre - 1] þ1991 Outlander þTrad. SAFAVI Philippe
 : .o .     R     _GABALDON Diana              Le Talisman [Le Cercle de pierre - 2] þ1992 Dragonfly in Amber þTrad. SAFAVI Philippe
 o PC_SDE      ?  2012.xx ..... ISBN 978-2-258-09405-5
@@ -986,8 +992,6 @@ o PCITE       ?  2013.02 ..... ISBN 978-2-258-10230-9
 o PCITE       ?  2013.07 ..... ISBN 978-2-258-10409-9
 } noimg          _?                           ?
 - .o .     R     _GABALDON Diana              La Croix de feu [Le Cercle de pierre - 5] þ2001 The Fiery Cross þTrad. SAFAVI Philippe
-!: .o .     R     _GABALDON Diana              La Croix de feu [Le Cercle de pierre - 5.1] þ2001 The Fiery Cross þTrad. SAFAVI Philippe
-!: .o .     R     _GABALDON Diana              Le Temps des rˆves [Le Cercle de pierre - 5.2] þ2001 The Fiery Cross þTrad. SAFAVI Philippe
 o PCITE       ?  2013.05 ..... ISBN 978-2-258-10263-7
 } noimg          _?                           ?
 - .oS.     R     _BEUKES Lauren               Zoo City þ2010 Zoo City þTrad. PHILIBERT-CAILLAT Laurent
@@ -1012,7 +1016,7 @@ o PCITE       ?  2014.10 ..... ISBN 978-2-258-11007-6
 &                _OIKKONEN Miikko             
 o PCITE       ?  2014.10 ..... ISBN 978-2-258-06337-2
 } noimg          _?                           ?
-- .o .     R     _GABALDON Diana              Le prisonnier ‚cossais [Lord John Grey - 3][Le Cercle de pierre] þ2011 The Scottish Prisoner / Lord John and the Scottish Prisoner þTrad. SAFAVI Philippe
+- .o .     R     _GABALDON Diana              Le Prisonnier ‚cossais [Lord John Grey - 3][Le Cercle de pierre] þ2011 The Scottish Prisoner / Lord John and the Scottish Prisoner þTrad. SAFAVI Philippe
 o PC_SDE      ?  2014.xx ..... ISBN 978-2-258-10106-7
 } noimg          _?                           ?
 - .oF.     R     _CONNOLLY John               Les ƒmes perdues de Dutch Island þ2003 Bad Men þTrad. ARTOZQUI Santiago
@@ -1055,6 +1059,10 @@ o PCITE       ?  2016.11 ..... ISBN 978-2-258-13703-5
 o PCITE       ?  2017.01 ..... ISBN 978-2-258-10798-4
 } noimg          _?                           ?
 - .oF.     R     _ITARANTA Emmi               La Cit‚ des m‚duses þ2015 Kudottujen kujien kaupunki þTrad. CARAYOL Martin
+o PCITE       ?  2017.01 ..... ISBN 978-2-258-13395-2
+} noimg          _?                           ?
+!--- GF - 140 x 225 - 272 pages
+- .oS.     R     _BROOKS-DALTON Lily          Good Morning, Midnight þ2016 Good Morning, Midnight þTrad. SCHNEITER Sylvie
 o PCITE       ?  2017.04 ..... ISBN 978-2-258-13695-3
 } noimg          _Thierry Sestier             ?
 - .oS.     R     _NAAM Ramez                  Apex [Nexus 5 - 3] þ2015 Apex þTrad. BREQUE Jean-Daniel
@@ -1091,11 +1099,37 @@ o PC_SDE      ?  2019.xx 21.00 ISBN 978-2-258-16148-1
 : .oF. 119 N     _CONNOLLY John               Les Enfants du docteur Lyall þ2015 The Children of Doctor Lyall þTrad. MARTINACHE Jacques
 : .oF. 141 r     _CONNOLLY John               L'Atlas fractur‚ þ2015 The Fractured Atlas þTrad. MARTINACHE Jacques
 : .oF. 299 N     _CONNOLLY John               Razorchins þ2015 Razorchins þTrad. MARTINACHE Jacques
-: .oF. 323 r     _CONNOLLY John               A propos de La Dissection d'un inconnu (1637), de Frans Mier þ2015 On The Anatomization of an Unknown Man (1637) by Frans Mier þTrad. MARTINACHE Jacques
+: .oF. 323 r     _CONNOLLY John               A propos de La Dissection d'un inconnu (1637), de Frans Mier þ2015 On the Anatomization of an Unknown Man (1637) by Frans Mier þTrad. MARTINACHE Jacques
 : .oF. 331 N     _CONNOLLY John               Fant“mes þ2009 A Haunting þTrad. MARTINACHE Jacques
 : .oF. 345 N     _CONNOLLY John               Lazare þ2010 Lazarus þTrad. MARTINACHE Jacques
 : .oF. 353 N     _CONNOLLY John               Holmes contre Holmes þ2015 Holmes on the Range: A Tale of the Caxton Private Lending Library & Book Depository þTrad. MARTINACHE Jacques
 : .oF. 385 a     _CONNOLLY John               Je vis ici þ2015 I Live Here þTrad. MARTINACHE Jacques
+!------------------------
+!=== 2020
+!------------------------
+o PCITE       ?  2020.03 ..... ISBN 978-2-258-16315-7
+} noimg          _?                           ?
+!--- GF - 142 x 226 - 600 pages
+- .oS.     R     _KHOURY Raymond              Le Secret ottoman þ2019 The Ottoman Secret / Empire of Lies þTrad. HERTZ Florence
+o PCITE       ?  2020.12 ..... ISBN 978-2-258-19590-5
+} noimg          _?                           ?
+!--- GF - 140 x 225 - 272 pages - 19,50 euros
+- .oS.     R     _BROOKS-DALTON Lily          Minuit dans l'univers þ2016 Good Morning, Midnight þTrad. SCHNEITER Sylvie
+!------------------------
+!=== 2022
+!------------------------
+o PCITE       ?  2022.02 ..... ISBN 978-2-258-19273-7
+} noimg          _?                           ?
+!--- GF - 142 x 226 mm - 295 pages - 21 euros
+- .oS.     R     _LABORIE Christian           Les Naufrag‚s du d‚luge þ2020
+o PCITE       ?  2022.02 ..... ISBN 978-2-258-20032-6
+} noimg          _?                           ?
+!--- GF - 142x226 - 456 pages
+- .oS.     R     _BUSSI Michel                Nouvelle Babel þ2022
+o PCITE       ?  2022.08 ..... ISBN 978-2-258-19968-2
+} noimg          _?                           ?
+!--- GF - 140x220 - 320 pages
+- .o .     R     _PELOT Pierre                Se souvenir encore des orages þ2022
 
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
@@ -1106,7 +1140,7 @@ o PC_SDE      ?  2019.xx 21.00 ISBN 978-2-258-16148-1
 
 
 !-----------------------------------------------------------------------------
-_ PC_JEUN Presses de la Cit‚, Jeunesse
+_ PC_JEUN Presses de la Cit‚ - Jeunesse
 !-----------------------------------------------------------------------------
 o PC_JEUN     ?  2012.05 ..... ISBN 978-2-258-09837-4
 } noimg          _?                           ?
@@ -1116,7 +1150,7 @@ o PC_JEUN     ?  2012.05 ..... ISBN 978-2-258-09837-4
 
 
 !-----------------------------------------------------------------------------
-_ PC_AV   Presses de la Cit‚, Coll. Aventures
+_ PC_AV   Presses de la Cit‚ - Aventures
 !-----------------------------------------------------------------------------
 o PC_AV      16  1967.11 ..... ISBN -
 } noimg          _?                           ?
@@ -1124,7 +1158,7 @@ o PC_AV      16  1967.11 ..... ISBN -
 
 
 !-----------------------------------------------------------------------------
-_ PCJO    Presses de la Cit‚, Coll. "Captain W.E. Johns"
+_ PCJO    Presses de la Cit‚ - "Captain W.E. Johns"
 !-----------------------------------------------------------------------------
 !--- Collection "Captain W.E. Johns"
 !--- Livres 18x12,5 avec jaquette couleur
@@ -1132,10 +1166,14 @@ _ PCJO    Presses de la Cit‚, Coll. "Captain W.E. Johns"
 o PCJO       20  1949.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _JOHNS W.E.                  Biggles au tibet [Biggles] þ1935 Biggles Hits the Trail
-?o PCJO       45  1951.xx ..... ISBN -
-?!--- Si recueil complet, 1950 Dr Vane answers the call
-?} noimg          _?                           ?
-?- .o .     .     _JOHNS W.E.                  La Momie egyptienne þ? ?
+o PCJO       45  1951.xx ..... ISBN -
+} noimg          _?                           ?
+!--- jaquette - 191 pages
+!--- L'ouvrage original contient 10 nouvelles :
+!--. The Affair at Dulwich, The Affair of the Egyptian Sorcerer, The Affair at Dawkins' Wharf, The Affair at Daneholt Castle,
+!--. The Affair of the Barrage Balloons, The Affair of the Blonde in Blue, The Affair of the Secret Weapon, 
+!--. The Affair of the Silent Wings, The Affair of the Fifth Column, The Affair of the Mystery Balloons.
+- .x .     R     _JOHNS W.E.                  La Momie egyptienne þ1950 Dr Vane Answers the Call þTrad. BEAUMONT Jeanine
 o PCJO       53  1952.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _JOHNS W.E.                  Les Exploits de Biggles [Biggles] þ1943 Biggles Charter Pilot
@@ -1147,13 +1185,13 @@ o PCJO      105  1954.xx ..... ISBN -
 - .o .     R     _JOHNS W.E.                  Rois de l'espace [Tiger Clinton - 1] þ1954 Kings of Space
 o PCJO      106  1954.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _FRENCH Paul                 La Bataille des astres [David Starr - 2] þ1953 Lucky Starr and the pirates of the asteroids
+- .o .     R     _FRENCH Paul                 La Bataille des astres [David Starr - 2] þ1953 Lucky Starr and the Pirates of the Asteroids þTrad. PACQUET Henri
 o PCJO      113  1955.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _JOHNS W.E.                  Retour sur Mars [Tiger Clinton - 2] þ1955 Return to Mars
 o PCJO      114  1955.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _FRENCH Paul                 V‚nus contre la Terre [David Starr - 3] þ1954 Lucky Starr and the oceans of Venus
+- .o .     R     _FRENCH Paul                 V‚nus contre la Terre [David Starr - 3] þ1954 Lucky Starr and the Oceans of Venus þTrad. PACQUET Henri
 o PCJO      115  1955.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _FRITZ Alfred                Astropolis þ1951 Astropol
@@ -1174,7 +1212,7 @@ o PCJO      138  1958.xx ..... ISBN -
 - .o .     R     _JOHNS W.E.                  Les Mondes sans horizon [Tiger Clinton - 6] þ1959 The Death Rays of Ardilla
 o PCJO      141  1958.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _FRENCH Paul                 L'Espion robot de Jupiter-9 [David Starr - 5] þ1957 Lucky Starr and the moons of Jupiter
+- .o .     R     _FRENCH Paul                 L'Espion robot de Jupiter-9 [David Starr - 5] þ1957 Lucky Starr and the Moons of Jupiter þTrad. PACQUET Henri
 o PCJO      147  1961.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _JOHNS W.E.                  Vers des mondes inconnus [Tiger Clinton - 7] þ1960 To Worlds Unknown
@@ -1189,7 +1227,7 @@ o PCJO      157  1963.xx ..... ISBN -
 - .o .     R     _JOHNS W.E.                  Disparu de l'espace [Tiger Clinton - 10] þ1963 The Man who Vanished Into Space
 
 !-----------------------------------------------------------------------------
-_ PC_JAG  Presses de la Cit‚, Coll. "Jag"
+_ PC_JAG  Presses de la Cit‚ - Jag
 !-----------------------------------------------------------------------------
 !--- Collection "Jag"
 !-----------------------------------------------------------------------------
@@ -1334,7 +1372,7 @@ o PC_JAG     34  1992.xx ..... ISBN .-.....-...-.
 - .o .     R     _CHILLICOTE Zeb              Les Guerriers de verre [Jag - 34] þ1992
 
 !-----------------------------------------------------------------------------
-_ PC_RANG Presses de la Cit‚, Coll. Ranger
+_ PC_RANG Presses de la Cit‚ - Ranger
 !-----------------------------------------------------------------------------
 !--- Collection "Ranger"
 !-----------------------------------------------------------------------------
@@ -1364,7 +1402,7 @@ o PC_RANG     5  1987.06 ..... ISBN 2-258-01976-1
 !                 >SHIRLEY John                
 
 !-----------------------------------------------------------------------------
-_ PCIT_MY Presses de la Cit‚, Coll. "Un mystŠre"
+_ PCIT_MY Presses de la Cit‚ - Un mystŠre
 !-----------------------------------------------------------------------------
 !--- Collection "Un mystŠre"
 !-----------------------------------------------------------------------------
@@ -1385,7 +1423,7 @@ o PCIT_MY   713  1964.xx ..... ISBN -
 : .o .     N     _JAMES Montague Rhodes       Siffle, et je viendrai þ1904 "Oh, Whistle, and I'll Come to You, My Lad" þTrad. DOREMIEUX Alain
 
 !-----------------------------------------------------------------------------
-_ USL     Presses de la Cit‚, Coll. "Univers sans limite"
+_ USL     Presses de la Cit‚ - Univers sans limite
 !-----------------------------------------------------------------------------
 !---  Collection UNIVERS SANS LIMITES (?-?)
 !---  (plutot orient‚ fantastique)
@@ -1460,7 +1498,7 @@ o USL         ?  1990.xx ..... ISBN 2-258-02750-3
 : .o .     N     _ASIMOV Isaac                Le Temps d'‚crire [Azazel] þ1984 Writing Time
 : .o .     N     _ASIMOV Isaac                A fond la caisse dans la neige [Azazel] þ1984 Dashing Through the Snow
 : .o .     N     _ASIMOV Isaac                On est logique ou on ne l'est pas [Azazel] þ1985 Logic Is Logic
-: .o .     N     _ASIMOV Isaac                L'homme qui s'en va tout seul [Azazel] þ1985 He Travel the Fastest
+: .o .     N     _ASIMOV Isaac                L'Homme qui s'en va tout seul [Azazel] þ1985 He Travel the Fastest
 : .o .     N     _ASIMOV Isaac                L'Oeil du t‚moin [Azazel] þ1986 The Eye of the Beholder
 : .o .     N     _ASIMOV Isaac                Plus de choses sur terre et dans les cieux [Azazel] þ1986 More Things in Heaven and Earth
 : .o .     N     _ASIMOV Isaac                Les Dispositions de l'ƒme [Azazel] þ1986 The Mind's Construction
@@ -1489,7 +1527,7 @@ o USL         ?  1991.xx ..... ISBN 2-258-03300-4
 !DEB_HEAD FUT1
 !TIT_COLL Futurama (I)
 !-----------------------------------------------------------------------------
-_ FUT1    Presses de la Cit‚, Coll. Futurama PremiŠre s‚rie þ1974-1976
+_ FUT1    Presses de la Cit‚ - Futurama PremiŠre s‚rie þ1974-1976
 !-----------------------------------------------------------------------------
 !--- Avant de passer au format poche, est parue de 1974 … 1976 une premiŠre
 !--. s‚rie de 6 romans (dont 3 de Budrys) en grand format, dans une collection
@@ -1523,7 +1561,7 @@ o FUT1        6i 1976.xx ..... ISBN 2-258-00009-2
 !DEB_HEAD FUTU
 !TIT_COLL Futurama (II)
 !-----------------------------------------------------------------------------
-_ FUTU    Presses de la Cit‚, Coll. Futurama DeuxiŠme s‚rie þ1976-1982
+_ FUTU    Presses de la Cit‚ - Futurama DeuxiŠme s‚rie þ1976-1982
 !-----------------------------------------------------------------------------
 !--- AprŠs quelques titres Futurama en Grand Format, les Presses de la
 !--. Cit‚ ont lanc‚ la collection poche qui a publi‚ 36
@@ -1583,8 +1621,7 @@ o FUTU       11  1977.xx R.... ISBN 2-258-00320-2
 - .oS.     R     _BRUNNER John                Polymath þ1963-1974 Castaway's World / Polymath þTrad. SABATHE-RICKLIN Odile
 o FUTU       12  1977.10 ..... ISBN 2-258-00321-0
 } fut2_12        _?                           N  
-!--- TBC : Patternmaester ?
-- .oS.     R     _BUTLER Octavia E.           Le MaŒtre du r‚seau þ1976 Pattern Master þTrad. SABATHE-RICKLIN Odile
+- .oS.     R     _BUTLER Octavia E.           Le MaŒtre du r‚seau þ1976 Patternmaster þTrad. SABATHE-RICKLIN Odile
 o FUTU       13  1978.01 R.... ISBN 2-258-00361-X
 } fut2_13        _?                           N  
 - .oS.     R     _DAVIDSON Avram              La Terre des guerriŠres þ1964 Mutiny in Space þTrad. MANCHETTE M‚lissa
@@ -1687,13 +1724,13 @@ o FUTU       35  1982.xx R.... ISBN 2-258-00995-2
 - .oS.     R     _VINGE Joan D.               L'H‚ritage des ‚toiles þ1980 Legacy þTrad. RICKLIN Odile
 o FUTU       36  1982.02 R.... ISBN 2-258-00996-0
 } fut2_36        _?                           N  
-- .oS.     R     _MARTIN George R.R.          Le Volcryn þ1980 Nightflyers þTrad. RICKLIN Odile
+- .oS.     r     _MARTIN George R.R.          Le Volcryn þ1980 Nightflyers þTrad. RICKLIN Odile
 !FIN_COLL FUTU
 
 !DEB_HEAD SLIG
 !TIT_COLL Super Lights
 !-----------------------------------------------------------------------------
-_ SLIG    Presses de la Cit‚, Coll. Superlights þ1982-1986
+_ SLIG    Presses de la Cit‚ - Superlights þ1982-1986
 !-----------------------------------------------------------------------------
 !--- Sponsoris‚ par une marque de cigarette !
 !---
@@ -1766,7 +1803,7 @@ o SLIG       11  1983.xx R.... ISBN 2-258-01278-3
 - .oS.     R     _SIMAK Clifford D.           L'Empire des esprits þ1970 Out of Their Minds þTrad. COLSON G‚rard
 o SLIG       12  1983.11 ..... ISBN 2-258-01280-5
 } futsl12        _?                           N  
-- .oS.     R     _SILVERBERG Robert           Un milliard d'ann‚es plus tard þ1968 Across a Billion Years þTrad. ARNAUD Pierre
+- .oS.     R     _SILVERBERG Robert           Un milliard d'ann‚es plus tard þ1969 Across a Billion Years þTrad. ARNAUD Pierre
 o SLIG       13  1983.10 R.... ISBN 2-258-01300-3
 } futsl13        _?                           N  
 !--- TBC : BNopale donne : La planŠte maudite ??? (et planŠte des damn‚s sur couv.) + "Slaves of the Klau" ???
@@ -1784,9 +1821,8 @@ o SLIG       15  1984.xx ..... ISBN 2-258-01325-9
 - .oS.     R     _SILVERBERG Robert           R‚surrections þ1962 Recalled to Life þTrad. COLSON G‚rard
 o SLIG       16  1984.xx R.... ISBN 2-258-01345-3
 } futsl16        _?                           N  
-!--- Version remani‚e de "A glass of darkness", 1956
-!--- Expansion de _A glass of darkness_ (1956)
-- .oS.     R     _DICK Philip K.              Les Pantins cosmiques þ1957 The Cosmic Puppets þTrad. ESTEBE Jean-Luc
+!--- Version remani‚e et ‚tendue de "A glass of darkness", 1956
+- .oS.     R     _DICK Philip K.              Les Pantins cosmiques þ1956-1957 A Glass of Darkness / The Cosmic Puppets þTrad. ESTEBE Jean-Luc
 o SLIG       17  1984.04 R.... ISBN 2-258-01371-2
 } futsl17        _?                           N  
 !--- Il existe une version r‚vis‚e en 1977. TBC : utilis‚e ici ?
@@ -1813,16 +1849,17 @@ o SLIG       23  1985.02 R.... ISBN 2-258-01520-0
 - .oS.     R     _BUTLER Octavia E.           Humains, plus qu'humains þ1984 Clay's Ark þTrad. RICKLIN Odile
 o SLIG       24  1985.xx ..... ISBN 2-258-01533-2
 } futsl24        _?                           N  
-- .oS.     R     _DICK Philip K.              Les Joueurs de Titan þ1963 The Game-players of Titan þTrad. BARRIERE Maxime
+- .oS.     R     _DICK Philip K.              Les Joueurs de Titan þ1963 The Game-Players of Titan þTrad. BARRIERE Maxime
 o SLIG       25  1985.xx R.... ISBN 2-258-01533-2
 } futsl25        _?                           N  
 - .oS.     R     _CLARKE Arthur C.            LumiŠre cendr‚e þ1955 Earthlight þTrad. BERNIER GisŠle
 o SLIG       26  1985.05 ..... ISBN 2-258-01606-1
 } futsl26        _?                           N  
+!--- L'homme qui n'aimait pas les machines est la novelization d'un sc‚nario TV.
 - .oS.    _N6    _SERLING Rod                 La QuatriŠme Dimension þ1962 New Stories from the Twilight Zone þTrad. SABATHE-RICKLIN Odile
 : .oS.     p     _JEURY Michel                Pour une Science Fiction … dimension humaine þ1985
 : .oS.     N     _SERLING Rod                 Solitude þ1961 The Lonely
-: .oS.     N     _SERLING Rod                 L'Homme qui n'aimait pas les machines þ? ?
+: .oS.     N     _SERLING Rod                 L'Homme qui n'aimait pas les machines þ1961 A Thing about Machines
 : .oS.     N     _SERLING Rod                 Le Super, super voeu þ1961 The Big, Tall Wish
 : .oS.     N     _SERLING Rod                 PoussiŠre þ1961 Dust
 : .oS.     N     _SERLING Rod                 Willoughby, deux minutes d'arrˆt þ1961 A Stop at Willoughby
@@ -1831,8 +1868,8 @@ o SLIG       27  1985.xx ..... ISBN 2-258-01622-3
 } futsl27        _?                           N  
 - .oS.    _N5    _SERLING Rod                 Nouvelles histoires de la quatriŠme dimension þ1961 More Stories from Twilight Zone þTrad. SABATHE-RICKLIN Odile
 : .oS.     N     _SERLING Rod                 Toute la v‚rit‚ þ1962 The Whole Truth
-: .oS.     N     _SERLING Rod                 L'Abri þ? ?
-: .oS.     N     _SERLING Rod                 RŠglement de compte … Hollywood þ? ?
+: .oS.     N     _SERLING Rod                 L'Abri þ1962 The Shelter
+: .oS.     N     _SERLING Rod                 RŠglement de compte … Hollywood þ1962 Showdown with Rance McGrew
 : .oS.     N     _SERLING Rod                 Soleil fou þ1962 The Midnight Sun
 : .oS.     N     _SERLING Rod                 Rip Van Winkle s'amuse þ1962 The Rip Van Winkle Caper
 o SLIG       28  1985.xx ..... ISBN 2-258-01645-2
@@ -1853,11 +1890,11 @@ o SLIG       32  1986.xx ..... ISBN 2-258-01718-1
 o SLIG       33  1986.xx ..... ISBN 2-258-01746-7
 } futsl33        _?                           N  
 - .oS.    _N5    _SERLING Rod                 Les Meilleures Histoires de la quatriŠme dimension þ1960 Stories from the Twilight Zone þTrad. SABATHE-RICKLIN Odile
-: .oS.     N     _SERLING Rod                 Clause d'annulation þ1959 Escape Clause
-: .oS.     N     _SERLING Rod                 Retour au foyer þ?
+: .oS.     N     _SERLING Rod                 Clause d'annulation þ1960 Escape Clause
+: .oS.     N     _SERLING Rod                 Retour au foyer þ1960 Walking Distance
 : .oS.     N     _SERLING Rod                 La FiŠvre þ1960 The Fever
 : .oS.     N     _SERLING Rod                 O— sont-ils tous pass‚s ? þ1959 Where Is Everybody?
-: .oS.     N     _SERLING Rod                 Les Monstres þ?
+: .oS.     N     _SERLING Rod                 Les Monstres þ1960 The Monsters Are Due on Maple Street
 o SLIG       34  1986.xx ..... ISBN 2-258-01774-2
 } futsl34        _?                           N  
 - .oS.     R     _CLARKE Arthur C.            Les Sables de Mars þ1951 The Sands of Mars þTrad. JAGER Andr‚ & VANDEL J.-G.
@@ -1865,8 +1902,8 @@ o SLIG       34  1986.xx ..... ISBN 2-258-01774-2
 
 
 !-----------------------------------------------------------------------------
-! PCIT_TS Presses de la Cit‚, Coll. Turquoise, S‚rie SortilŠges
-! PCIT_TM Presses de la Cit‚, Coll. Turquoise, S‚rie M‚daillon
+! PCIT_TS Presses de la Cit‚, Turquoise, S‚rie SortilŠges
+! PCIT_TM Presses de la Cit‚, Turquoise, S‚rie M‚daillon
 !-----------------------------------------------------------------------------
 
 o PCIT_TM    90  1981.xx ..... ISBN 2-891-16084-3
@@ -1960,7 +1997,7 @@ o PCIT_TS   196  1982.xx ..... ISBN 2-258-01096-9
 - .oF.     R     _GEOFFROY Elisabeth          Un trŠs l‚ger bruit d'ailes þ1982
 
 !-----------------------------------------------------------------------------
-! PCIC_TS Presses de la Cit‚ Canada, Coll. Turquoise, S‚rie SortilŠges
+! PCIC_TS Presses de la Cit‚ Canada, Turquoise, S‚rie SortilŠges
 !-----------------------------------------------------------------------------
 o PCIC_TS    96  1981.10 ..... ISBN 2-89116-090-8
 } turquoisecan096 _Michel Gourdon              ?

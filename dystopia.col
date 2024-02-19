@@ -2,8 +2,8 @@
 
 !-----------------------------------------------------------------------------
 _ DYSTOP  Association Dystopia
-_ DYSTOPN Association Dystopia, ‚dition num‚rique
-_ BELDYST Ed. Le B‚lial et Association Dystopia Workshop
+_ DYSTOPN Association Dystopia - ‚dition num‚rique
+_ BELDYST Le B‚lial' et Association Dystopia Workshop
 !-----------------------------------------------------------------------------
 o DYSTOP      1i 2010.06 ..... ISBN 978-2-9535951-0-9
 } dystopia01     _PERGER St‚phane             PERGER St‚phane
@@ -35,7 +35,7 @@ o DYSTOP      2i 2011.04 ..... ISBN 978-2-9535951-3-0
 : .oF.     N     _TUTTLE Lisa                 L'Heure en plus þ1997 The Extra Hour þTrad. FAZI M‚lanie
 : .oF.     N     _TUTTLE Lisa                 Le RemŠde þ2011 The Cure þTrad. FAZI M‚lanie
 : .oF.     N     _TUTTLE Lisa                 Ma pathologie þ1998 My Pathology þTrad. FAZI M‚lanie
-: .oF.     N     _TUTTLE Lisa                 Mezzo-Tinto þ2003 "The Mezzotint" þTrad. FAZI M‚lanie
+: .oF.     N     _TUTTLE Lisa                 Mezzo-Tinto þ2003 The Mezzotint þTrad. FAZI M‚lanie
 : .oF.     N     _TUTTLE Lisa                 La Fianc‚e du dragon þ1986 The Dragon's Bride þTrad. FAZI M‚lanie
 o DYSTOP      3i 2011.11 ..... ISBN 978-2-9535951-1-6
 } dystopia3      _RIVELAYGUE Laurent          ?
@@ -65,9 +65,8 @@ o DYSTOPN     ?  2012.05 ..... ISBN 978-2-9535951-5-4
 : .o .     N     _HENRY L‚o                   Les Cr‚puscules þ2005
 o DYSTOP      ?  2012.06 ..... ISBN 978-2-9535951-9-2
 } noimg          _Corinne Billon & Laure Afchain
+!--- Roman form‚s de deux textes qui se font suite, L'Ensemenceur et Les Huit Enfants du vizir Fares Ib Me‹moun
 - .o .     R     _REMY Yves & Ada             Le ProphŠte et le vizir þ2012
-?: .o .     r     _REMY Yves & Ada             L'Ensemenceur þ2012
-?: .o .     N     _REMY Yves & Ada             Les Huit Enfants du vizir Fares Ib, Me‹moun þ2012
 o DYSTOP      ?  2012.11 ..... ISBN 979-10-91146-00-5
 } dyst_tadjele   _?                           ?
 - .oS.    kN19   _HENRY L‚o                  &Tadj‚l‚ - R‚cits d'exil þ2012
@@ -143,39 +142,28 @@ o DYSTOP      ?  2012.11 ..... ISBN 979-10-91146-01-2
 ?: .o .     I     _DROMARD Benjamin            Entretien avec L‚o Henry, Jacques Mucchielli et St‚phane Perger þ2012
 : .o .     X     _HENRY L‚o                  &Sur le fleuve þ2012
 &                _MUCCHIELLI Jacques          
-?o XXXX        ?  2013.01 ..... ISBN 979-10-91146-02-9
-?} noimg          _Corinne Billon & Laure Afchain
-?!--- EDIT/COLL : Dystopia : Workshop Num‚rique
-?!--- Anthologiste : Pr‚face : Anne-Sylvie Homassel
-?- .oS.    iNx    _REMY Yves & Ada             Les Soldats de la mer þ1968-1998
 o DYSTOP      ?  2013.07 ..... ISBN 979-10-91146-03-6
 } noimg          _Corinne Billon & Laure Afchain
-- .oF.     C17   _REMY Yves & Ada             Les Soldats de la mer þ1968-1998
-: .o .     p     _SALZMAN Anne-Sylvie         Pr‚face þ1998
-: .o .     N     _REMY Yves & Ada             Naissance de la f‚d‚ration þ1986
-: .o .     N     _REMY Yves & Ada             PremiŠre f‚d‚ration þ1986
+- .oI.     C17   _REMY Yves & Ada             Les Soldats de la mer þ1968
+: .o .     p     _SALZMAN Anne-Sylvie         Comme on chasse ses fant“mes þ1998
 : .o .     N     _REMY Yves & Ada             Suicide par imprudence þ1968
 : .o .     N     _REMY Yves & Ada             Celui qui se faisait appeler Schaeffer þ1968
 : .o .     N     _REMY Yves & Ada             Mort pitoyable d'un oupire þ1968
 : .o .     N     _REMY Yves & Ada             Mon mieutenant, ne prendrez-vous jamais vos quartiers d'hiver ? þ1968
 = .o .     N     _REMY Yves & Ada             Enfants perdus, perdus þ1968
 : .o .     N     _REMY Yves & Ada             La Maison aux engoulevents þ1968
-: .o .     N     _REMY Yves & Ada             DeuxiŠme f‚d‚ration þ1986
 : .o .     N     _REMY Yves & Ada             Les Soldats de plomb de Niccolo Pasani þ1968
-: .o .     N     _REMY Yves & Ada             TroisiŠme f‚d‚ration þ1986
 : .o .     N     _REMY Yves & Ada             Verso d'ailleurs þ1968
 : .o .     N     _REMY Yves & Ada             Les Artilleurs de Cat-Valley þ1968
 : .o .     N     _REMY Yves & Ada             Olga mensonge þ1968
-: .o .     N     _REMY Yves & Ada             QuatriŠme f‚d‚ration þ1986
 : .o .     N     _REMY Yves & Ada             Les Rogandins d'Argos þ1968
 : .o .     N     _REMY Yves & Ada             Le Joueur de dames þ1968
-: .o .     N     _REMY Yves & Ada             CinquiŠme f‚d‚ration þ1986
 : .o .     N     _REMY Yves & Ada             Les Dogues de Tchangoon þ1968
 : .o .     N     _REMY Yves & Ada             Chut ! mon lieutenant þ1968
 : .o .     N     _REMY Yves & Ada             D‚vouement posthume de Charles T”r þ1968
 : .o .     N     _REMY Yves & Ada             La Seconde CarriŠre du g‚n‚ral des Fosses þ1968
 : .o .     N     _REMY Yves & Ada             Fondation þ1968
-: .oS.     p     _REMY Yves & Ada             Pr‚face … l'‚dition de 1968 þ1968
+: .oS.     o     _REMY Yves & Ada             En guise de postface - Pr‚face … l'‚dition de 1968 þ1968
 o DYSTOP      6i 2013.10 ..... ISBN 978-10-91146-04-3
 !--- Num‚rique en juin 2012 - 978-2-9535951-8-5
 } noimg          _St‚phane Perger             ?
@@ -291,6 +279,22 @@ o DYSTOP      ?  2017.06 ..... ISBN 979-10-911463-1-9
 o DYSTOP      ?  2018.06 ..... ISBN 979-10-91146-33-3
 } noimg          _?                           ?
 - .o .     R     _REMY Yves & Ada             La Maison du Cygne þ1978
+o DYSTOP      ?  2021.10 ..... ISBN 979-10-91146-45-6
+} dystopia102021 _St‚phane Perger             ?
+!--- GF - GF - 256 pages
+- .oS.     N12   _LLEWELLYN Livia             Fournaise þ2021
+: .o .     N     _LLEWELLYN Livia             Panopticon þ2010 Panopticon þTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _LLEWELLYN Livia             Stabilimentum þ2013 Stabilimentum þTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _LLEWELLYN Livia             Guˆpe et serpent þ2013 Wasp & Snake þTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _LLEWELLYN Livia             Cinereous þ2013 Cinereous þTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _LLEWELLYN Livia             A toi le droit de commencer þ2013 Yours Is the Right to Begin þTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _LLEWELLYN Livia             Le Seigneur de la chasse þ2012 Lord of the Hunt þTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _LLEWELLYN Livia             C'est plus agr‚able quand on mord þ2014 It Feels Better Biting Down þTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _LLEWELLYN Livia             Allochthon þ2014 Allochthon þTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _LLEWELLYN Livia             Fournaise þ2013 Furnace þTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _LLEWELLYN Livia             Les MystŠres þ2014 The Mysteries þTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _LLEWELLYN Livia             Dernier ‚t‚ dans la puret‚ et la lumiŠre þ2014 The Last, Clean, Bright Summer þTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _LLEWELLYN Livia             Et l'amour n'aura point d'empire þ2011 And Love Shall Have No Dominion þTrad. HOMASSEL Anne-Sylvie
 
 
 

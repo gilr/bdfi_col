@@ -5,7 +5,7 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ NATI    Ed. Naturellement, Coll. "Les Introuvables"
+_ NATI    Naturellement - Les Introuvables
 !-----------------------------------------------------------------------------
 !--- Editions Naturellement, Pantin
 !--- Collection "Les Introuvables"
@@ -27,7 +27,7 @@ o NATI        5i 2002.09 ..... ISBN 2-910370-96-8
 - .o .     R     _DUGUEL Anne                 Baby-sitter þ1995
 
 !-----------------------------------------------------------------------------
-_ NA2c    Ed. Naturellement, Coll. "2000.com"
+_ NA2c    Naturellement - 2000.com
 !-----------------------------------------------------------------------------
 !--- Editions Naturellement, Pantin
 !--- Collection 2000.com, dirig‚e par Marc Bailly
@@ -60,7 +60,7 @@ o NA2c        4i 2000.07 ..... ISBN 2-910370-05-4
 : .o .     N     _TEODORANI Alda              Et Rome pleure þ1996 E Roma piange
 : .o .     N     _NOVE Aldo                   Le Monde de l'amour þ1996 Il mondo dell'amore
 : .o .     N     _LUTTAZZI Daniele            Petit chaperon rouge sang þ1996 Cappuccetto splatter
-: .o .     N     _PINKETTS Andrea G.          Diamonds are for never þ1996 Diamonds are for never
+: .o .     N     _PINKETTS Andrea G.          Diamonds are for never þ1996 Diamonds Are for Never
 !--- Adolescence f‚roce
 : .o .     N     _GOVERNI Massimiliano        Chronique d'un ‚t‚ þ1996 Diario in estate
 : .o .     N     _CURTONI Matteo              Couettes blondes þ1996 Treccine bionde
@@ -95,7 +95,7 @@ o NA2c        9i 2003.xx ..... ISBN .-.....-...-.
 !--- Pr‚face de Henry Vernes
 
 !-----------------------------------------------------------------------------
-_ NAFO    Ed. Naturellement, Coll. "Forces Obscures"
+_ NAFO    Naturellement - Forces Obscures
 !-----------------------------------------------------------------------------
 !--- Editions Naturellement, Pantin
 !--- Collection Forces Obscures (Directeur de coll : Marc Bailly)
@@ -107,7 +107,7 @@ _ NAFO    Ed. Naturellement, Coll. "Forces Obscures"
 o NAFO        ?  1999.03 ..... ISBN 2-910370-52-6
 } naturfobs01    _?                           ?
 - .oFS    _A18   *BAILLY Marc                 Forces obscures - Num‚ro 1 þ1999
-! .o .     p     _BAILLY Marc                 Brisons les barriŠres þ1999
+: .o .     p     _BAILLY Marc                 Brisons les barriŠres þ1999
 : .oT.     N     _STABLEFORD Brian M.         Bourreau des coeurs þ1991 Heartbreaker þTrad. DOKE Sara & DURIEUX Jacob
 : .oS.     N     _LIGNY Jean-Marc             Mamy voit des OVNI þ1996
 : .oS.     N     _ANDERSON Kevin J.           Le Ranch au coeur du temps þ1990 Entropy Ranch þTrad. CORTHOUTS Christophe
@@ -172,7 +172,7 @@ o NAFO        ?  2000.01 ..... ISBN 2-910370-76-3
 o NAFO        ?  2000.11 ..... ISBN 2-910370-14-3
 } naturfobs19    _?                           ?
 - .oF.    _A18   *BAILLY Marc                 Forces obscures - 3 þ2000
-: .o .     N     _NEWMAN Kim                  Ubermensch ! þ1991 Ubermensch þTrad. JACOLIN Ga‰lle
+: .o .     N     _NEWMAN Kim                  Ubermensch ! þ1991 Ubermensch! þTrad. JACOLIN Ga‰lle
 : .o .     N     _HERSON Val‚rie              Podlapinpo þ2000
 : .oS.     N     _BELMAS Claire              &Le Prisme de la lune sombre þ2000
 &                _BELMAS Robert               
@@ -216,13 +216,13 @@ o NAFO        8i 1999.11 ..... ISBN 2-910370-39-9
 - .o .     R     _SAUL John                   Larmes de sable þ1979 Cry for the Strangers þTrad. N'DIAYE Philippe
 o NAFO        4i 1999.07 ..... ISBN 2-910370-58-5
 } noimg          _?                           ?
-- .o .     R     _MASTERTON Graham            Le Sphinx þ1985 The Sphinx
+- .o .     R     _MASTERTON Graham            Le Sphinx þ1978 The Sphinx
 o NAFO       10i 2000.03 ..... ISBN 2-910370-81-X
 } noimg          _?                           ?
-- .o .     R     _MASTERTON Graham            Famine - 1re partie þ1981 Famine þTrad. TRUCHAUD Fran‡ois
+- .x .     R     _MASTERTON Graham            Famine - 1re partie þ1981 Famine þTrad. TRUCHAUD Fran‡ois
 o NAFO       11i 2000.07 ..... ISBN 2-910370-11-9
 } noimg          _?                           ?
-- .o .     R     _MASTERTON Graham            Famine - 2e partie þ1981 Famine
+- .x .     R     _MASTERTON Graham            Famine - 2e partie þ1981 Famine
 o NAFO        9i 2000.03 ..... ISBN 2-910370-83-6
 } noimg          _?                           ?
 - .o .     R     _McCAMMON Robert             La Marche myst‚rieuse - 1re partie þ1983 Mystery Walk
@@ -234,10 +234,12 @@ o NAFO       12i 2000.09 ..... ISBN 2-910370-85-2
 !--- Forces obscures documents
 !-----------------------------------------------------------------------------
 o NAFO        3i 1999.07 ..... ISBN 2-910370-56-9
-} noimg          _?                           ?
-- .o .     E     ****                         Stephen King-Clive Barker, les maŒtres de la terreur þ?
+} noimg          _Photo des auteurs           ?
+!--- ? - 150x230 - 255 pages
 !--- Sous la direction d'Anthony TIMPONE
 !--- Regroupe une trentaine d'articles et d'interview
+!--- Traduction partielle de l'‚dition originale
+- .o .     E     ****                         Stephen King - Clive Barker, les maŒtres de la terreur þ1997 Stephen King - Clive Barker: Masters of the Dark
 o NAFO        7i 1999.10 ..... ISBN 2-910370-73-9
 } noimg          _?                           ?
 - .o .     E     _CORTHOUTS Christophe        Star Wars - La l‚gende þ1999
@@ -251,7 +253,7 @@ o NAFO        ?  2000.01 ..... ISBN 2-910370-69-0
 - .o .     G     _MEISLER Andy                R‚sister ou servir - Le guide officiel des X-Files - Vol. 4 þ2000
 
 !-----------------------------------------------------------------------------
-_ NAEP    Ed. Naturellement, Ecologie et ProgrŠs
+_ NAEP    Naturellement - Ecologie et ProgrŠs
 !-----------------------------------------------------------------------------
 !--- Ecologie et progrŠs
 !-----------------------------------------------------------------------------
@@ -261,7 +263,7 @@ o NAEP        1  2002.xx ..... ISBN .-.....-...-.
 : .o .     N     _DOLLO Xavier                L'Oeuvre martienne þ2000
 
 !-----------------------------------------------------------------------------
-_ NAFI    Ed. Naturellement, Coll. "Fictions"
+_ NAFI    Naturellement - Fictions
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 !--- Editions Naturellement, Pantin
@@ -287,7 +289,7 @@ o NAFI        5i 1998.11 ..... ISBN 2-910370-47-X
 &                _RAPHANEL Nathalie           
 ?: .o .     N     _RAPHANEL Nathalie           ? þ?
 ?: .o .     N     _RAPHANEL Nathalie           ? þ?
-: .o .     N     _PELOSATO Alain              Esp‚rance [Ruines] þ1998
+: .o .     N     _PELOSATO Alain              Esp‚rance [Ruines] þ1997
 : .o .     N     _PELOSATO Alain              Le Clochard þ1998
 : .o .     N     _PELOSATO Alain              Propri‚t‚ priv‚e þ1998
 : .o .     N     _RAPHANEL Nathalie           Recettes d'antan þ1998
@@ -320,7 +322,7 @@ o NAFI       10i 1999.10 ..... ISBN 2-910370-70-4
 : .oF.     N     _SOMTOW S.P.                 Le Plus Vilain des petits canards þ1997 The ugliest duckling þTrad. PIRET BenoŒt
 : .oF.     N     _HODGE Brian                 Le Dernier Testament þ1997 The Last Testament þTrad. PIRET BenoŒt
 : .oF.     N     _GENTILHOMME Serena          Du beau linge þ1999
-: .oF.     N     _KILPATRICK Nancy            Le Jeu þ1996 The game þTrad. PIRET BenoŒt
+: .oF.     N     _KILPATRICK Nancy            Le Jeu þ1996 The Game þTrad. PIRET BenoŒt
 : .oF.     N     _HOLDER Nancy                Sang gothique þ1985 Blood Gothic þTrad. PIRET BenoŒt
 : .oF.     N     _RUSCH Kristine Kathryn      Victimes þ1995 Victims þTrad. KOCH Georges-Louis
 : .oF.     N     _LABBE Denis                 L'horreur vous va si bien þ1999
@@ -344,8 +346,8 @@ o NAFI       15i 2000.05 ..... ISBN 2-910370-06-2
 &                *DOMIS BenoŒt                
 !--- Sous-titre : Les futurs maŒtres fran‡ais de la terreur
 !--- SorciŠres, vampires et maisons hant‚es...
-!---       p     _BRITE Poppy Z.              Introduction þ2000
-!---       p     _CONRAD & DOMIS              L'avenir de la terreur fran‡aise... vingt-deux avocats et un seul juge : vous þ2000
+: .o .     p     _BRITE Poppy Z.              Introduction þ2000
+: .o .     p     _CONRAD & DOMIS              L'avenir de la terreur fran‡aise... vingt-deux avocats et un seul juge : vous þ2000
 : .o .     N     _KENNEL Odile                La Maison d'en face þ2000
 : .o .     N     _FAZI M‚lanie                Ghost town blues þ2000
 : .o .     N     _CIXOUS S‚bastien           &Les Oubli‚s de San Cristobal þ2000
@@ -407,8 +409,8 @@ o NAFI       17i 2001.07 ..... ISBN 2-910370-24-0
 o NAFI       18i 2002.05 ..... ISBN 2-910370-94-1
 } nat_fictions18 _?                           ?
 - .oS.    _A30   *COMBALLOT Richard           Les Enfants du mirage - 2 : les chefs-d'oeuvre de la SF fran‡aise (1980-1990) þ2002
-!---       p     _COMBALLOT Richard           Introduction þ2002
-!---       p     _CURVAL Philippe             L'exp‚rience du vivant þ2002
+: .o .     p     _COMBALLOT Richard           Introduction þ2002
+: .o .     p     _CURVAL Philippe             L'exp‚rience du vivant þ2002
 : .o .     N     _EVRARD Lionel               Le Clavier incendi‚ þ1983
 : .o .     N     _BOIREAU Jacques             Quelques pas en arriŠre en Styx et Ach‚ron þ1981
 : .o .     N     _CURVAL Philippe             Un voyage objectif þ1986
@@ -436,9 +438,9 @@ o NAFI       18i 2002.05 ..... ISBN 2-910370-94-1
 : .o .     N     _FAYARD Colette              L'Anniversaire þ1986
 : .o .     N     _KLEIN G‚rard                M‚moire vive, m‚moire morte þ1986
 : .o .     N     _JEURY Michel                La Vall‚e du temps profond þ1985
-: .o .     N     _VERNAY Jean-Pierre          La Petite Fille et le jardinier þ?
+: .o .     N     _VERNAY Jean-Pierre          La Petite Fille et le jardinier þ1990
 : .o .     N     _WINTREBERT Jo‰lle           Hurlegriffe þ1983
-: .o .     N     _JOUANNE Emmanuel           &Eh ! et si l'amour des ‚toiles avait plus de rapports avec la chair qu'on ne le croit ? Et si les rˆves d'enfant avaient moins de rapports avec les joujoux qu'on ne le croit ? H‚ ! Qu'est-ce que vous dites de ‡a ? þ1986
+: .o .     N     _JOUANNE Emmanuel           &Eh ! et si l'amour des ‚toiles avait plus de rapports avec la chair qu'on ne le croit ? Et si les rˆves d'enfant avaient moins de rapports avec les joujoux qu'on ne le croit ? H‚ ! Qu'est-ce que vous dites de ‡a ? þ1985
 &                _VERNAY Jean-Pierre          
 : .o .     N     _DEMUTH Michel               Dans le ressac ‚lectromagn‚tique þ1981
 o NATU       19i 2002.04 ..... ISBN 2-910370-97-6
@@ -453,7 +455,7 @@ o NATU       19i 2002.04 ..... ISBN 2-910370-97-6
 : .o .     N     _PELOSATO Alain              La Ville þ1997
 : .o .     N     _PELOSATO Alain              Le Sang de Giglio Fava þ1997
 : .o .     N     _PELOSATO Alain              Pirette t‚travalente þ1997
-: .o .     N     _PELOSATO Alain              Esp‚rance þ1997
+: .o .     N     _PELOSATO Alain              Esp‚rance [Ruines] þ1997
 : .o .     N     _PELOSATO Alain              Le Spectre þ1997
 : .o .     N     _PELOSATO Alain              Propri‚t‚ priv‚e þ1998
 : .o .     N     _PELOSATO Alain              Hollywood þ1999
@@ -464,8 +466,8 @@ o NATU       19i 2002.04 ..... ISBN 2-910370-97-6
 ­- .o .    iAx    *COMBALLOT Richard           Les Enfants du mirage - 3 : les chefs-d'oeuvre de la SF fran‡aise (1990-2000) þ2002
 
 !-----------------------------------------------------------------------------
-_ NATU    Ed. Naturellement
-_ NATU_TE Ed. Naturellement, Coll. "Temoins"
+_ NATU    Naturellement
+_ NATU_TE Naturellement - T‚moins
 !-----------------------------------------------------------------------------
 o NAFI        ?  1994.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -490,7 +492,7 @@ o NAFI        ?  1997.xx ..... ISBN 2-910370-33-X
 : .o .     N     _PELOSATO Alain              Pirette t‚travalente þ1997
 : .o .     N     _PELOSATO Alain              Le Sang de Giglio Fava þ1997
 : .o .     N     _PELOSATO Alain              La Ville þ1997
-: .o .     N     _PELOSATO Alain              Esp‚rance þ1997
+: .o .     N     _PELOSATO Alain              Esp‚rance [Ruines] þ1997
 : .o .     N     _PELOSATO Alain              Le Spectre þ1997
 : .o .     N     _BOYER Marcel                Hurle-pierre þ1997
 : .o .     N     _BOYER Marcel                Couleur de lune þ1997
@@ -514,6 +516,7 @@ o NATU_TE     1i 2002.05 ..... ISBN 2-84602-000-0
 } noimg          _?                           ?
 - .o .     E     _PELOSATO Alain              Le Cin‚ma fantastique (2000-2001) þ2002
 o NATU        ?  2003.04 ..... ISBN 2-84602-005-1
-} noimg          _?                           ?
+} noimg          _J‚r“me Bosch                ?
+!--- ? - 150x230 - 394 pages
 - .o .     E     _ERNOULD Roland              Stephen King et le surnaturel - 1. La mise en scŠne þ2003
 

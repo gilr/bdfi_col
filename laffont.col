@@ -3,31 +3,32 @@
 !-----------------------------------------------------------------------------
 !-- LAFFONT Laffont
 !-- LAF_BS  Laffont, Bests-sellers
-!-- LAF_WE  Laffont, Coll. Week-end
-!-- LAF_PAV Laffont, Coll. Pavillons
+!-- LAF_WE  Laffont, Week-end
+!-- LAF_PAV Laffont, Pavillons
 !-- LAF_ETR Laffont, L'Etrange
 !-- LAF_AGE Laffont, L'age des ‚toiles
 !-- LAFBOUQ Laffont, Bouquins
-!-- LAF_PE  Laffont, Coll. Les Portes de l'Etrange
-!-- LAFF_RI Le Hi‚rarch, Coll. "R‚cits initiatiques"
-!-- LAF_PV  Laffont, Coll. Plein Vent
+!-- LAF_PE  Laffont, Les Portes de l'Etrange
+!-- LAFF_RI Le Hi‚rarch, R‚cits initiatiques
+!-- LAF_PV  Laffont, Plein Vent
 !-- LAF_AD  Laffont, Ailleurs et Demain
 !-- LAF_ADC Laffont, Ailleurs et Demain/Classiques
 !-- LAF_ADL Laffont, Ailleurs et Demain/L'‚cart
 !-- LAF_ADE Laffont, Ailleurs et Demain/Essais
 !-- LAF_BIB Laffont, La BibliothŠque
-!-- LAF_EXP Ed. Robert Laffont et L'Express
+!-- LAF_EXP Robert Laffont et L'Express
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
 _ LAFFONT Laffont
-_ LAF_BS  Laffont, Bests-sellers
-_ LAF_VV  Laffont, Coll. Victor Vicas - Les dossiers de l'Aventure Moderne
-_ LAF_WE  Laffont, Coll. Week-end
-_ LAF_EXP Ed. Robert Laffont et L'Express
+_ LAF_BS  Laffont - Bests-sellers
+_ LAF_VV  Laffont - Victor Vicas, Les dossiers de l'Aventure Moderne
+_ LAF_WE  Laffont - Week-end
+_ LAF_EXP Robert Laffont et L'Express
 !-----------------------------------------------------------------------------
 o LAFFONT     ?  1942.xx R.... ISBN -
 } noimg          _?                           ?
+!--- 237 pages
 - .oF.    _N8    _BRION Marcel                Les Escales de la haute nuit ş1942
 : .oF.     N     _BRION Marcel                Les Escales de la haute nuit ş1942
 : .oF.     N     _BRION Marcel                Le Mar‚chal de la peur ş1942
@@ -43,6 +44,19 @@ o LAFFONT     ?  1945.xx ..... ISBN -
 o LAFFONT     ?  1945.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _GANDON Yves                 Le Dernier Blanc ş1945
+o LAFFONT     ?  1951.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 199 pages
++ LAFFONT     ?  1966.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 263 pages
+- .oF.     N6    _PIEYRE DE MANDIARGUES Andr‚ Soleil des loups ş1951
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ L'Arch‚ologue ş1951
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Clorinde ş1951
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Le Pain rouge ş1951
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ L'tudiante ş1951
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ L'Op‚ra des falaises ş1951
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ La Vision capitale ş1951
 o LAFFONT     ?  1958.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     b     _CARR John Dickson           La Vie fantastique de Sir Arthur Conan Doyle ş1949 The Life of Sir Arthur Conan Doyle şTrad. ?
@@ -72,9 +86,9 @@ o LAFFONT     ?  1958.xx ..... ISBN -
 : .o .     N     _DOYLE Arthur Conan          Quand la terre hurla [Le Professeur Challenger] ş1928 When the World Screamed
 o LAFFONT     ?  1958.06 ..... ISBN -
 } noimg          _?                           ?
-- .o .     RN6   _DOYLE Arthur Conan          Romans historiques III [Oeuvres complŠtes de Sir Arthur Conan Doyle - 8] ş1958
+- .pF.     RN6   _DOYLE Arthur Conan          Romans historiques III [Oeuvres complŠtes de Sir Arthur Conan Doyle - 8] ş1958
 : .x .     R     _DOYLE Arthur Conan          La Compagnie blanche ş1891 The White Company şTrad. LATOUR Robert
-: .o .    _N6    _DOYLE Arthur Conan          Contes de l'eau bleue ş?
+: .oF.    _N6    _DOYLE Arthur Conan          Contes de l'eau bleue ş1922 Tales of Blue Water şTrad. TOURVILLE Bernard
 = .o .     N     _DOYLE Arthur Conan          Le Coffre … raies ş1897 The Striped Chest şTrad. TOURVILLE Bernard
 = .o .     N     _DOYLE Arthur Conan          Le Capitaine de la Polestar ş1883 The Captain of the Polestar şTrad. TOURVILLE Bernard
 = .x .     N     _DOYLE Arthur Conan          Le D‚mon de la tonnellerie ş1897 The Fiend of the Cooperage şTrad. TOURVILLE Bernard
@@ -86,7 +100,7 @@ o LAFFONT     ?  1958.07 ..... ISBN -
 - .o .     RN6   _DOYLE Arthur Conan          Romans historiques IV [Oeuvres complŠtes de Sir Arthur Conan Doyle - 9] ş1958
 : .x .     R     _DOYLE Arthur Conan          Les R‚fugi‚s ş1893 The Refugees
 : .o .    iNx    _DOYLE Arthur Conan          Contes du camp ş1958
-: .o .    iN6    _DOYLE Arthur Conan          Contes d'aventures ş1958
+: .o .    iNx    _DOYLE Arthur Conan          Contes d'aventures ş1958
 ?= .o .     N     _DOYLE Arthur Conan          Les D‚buts du Bimbashi Joyce ş1900 The Debut of Bimbashi Joyce
 ?= .o .     N     _DOYLE Arthur Conan          Le M‚decin du Gaster Fell ş1918 The Surgeon of Gaster Fell
 ?= .o .     N     _DOYLE Arthur Conan          ScŠnes de Borrow ş1913 Borrowed Scenes
@@ -96,7 +110,7 @@ o LAFFONT     ?  1958.07 ..... ISBN -
 o LAFFONT     ?  1959.xx ..... ISBN -
 } noimg          _?                           ?
 !--- Pour la s‚rie, voir : http://www.sshf.com/bibliographie.php?id=1058
-- .o .    iRxNx  _DOYLE Arthur Conan          Histoires extraordinaires [Oeuvres complŠtes de Sir Arthur Conan Doyle - 12] ş1959
+- .pF.    iRxNx  _DOYLE Arthur Conan          Histoires extraordinaires [Oeuvres complŠtes de Sir Arthur Conan Doyle - 12] ş1959
 : .o .     R     _DOYLE Arthur Conan          La Trag‚die du Korosko ş1898 The Tragedy of the Korosko
 : .pFT    kN6    _DOYLE Arthur Conan          Contes de terreur ş1959
 = .oF.     N     _DOYLE Arthur Conan          L'Horreur du plein ciel ş1913 The Horror of the Heights şTrad. TOURVILLE Bernard
@@ -107,7 +121,7 @@ o LAFFONT     ?  1959.xx ..... ISBN -
 = .! .     N     _DOYLE Arthur Conan          Le Chat br‚silien ş1898 The Story of the Brazilian Cat
 : .o .     R     _DOYLE Arthur Conan          Le Gouffre Maracot ş1928 The Maracot Deep
 : .pF.    kN12   _DOYLE Arthur Conan          Contes d'entre chien et loup ((Contes de cr‚puscule)) ş1922 Tales of Twilight an the Unseen
-= .oF.     N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand şTrad. VIGNEAUX Pierre
+= .oF.     N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand / The Brown Hand şTrad. VIGNEAUX Pierre
 = .! .     N     _DOYLE Arthur Conan          Le Professeur de Lea House ş1899 The Story of the Latin Tutor / The Usher of Lea House School
 = .! .     N     _DOYLE Arthur Conan          B. 24 ş1899 B. 24
 = .oF.     N     _DOYLE Arthur Conan          La Grande Exp‚rience de Keinplatz ş1885 The Great Keinplatz Experiment şTrad. VIGNEAUX Pierre
@@ -118,7 +132,7 @@ o LAFFONT     ?  1959.xx ..... ISBN -
 = .oF.     N     _DOYLE Arthur Conan          Comment la chose arriva ş1913 How It Happened şTrad. VIGNEAUX Pierre
 = .oF.     N     _DOYLE Arthur Conan          Le Lot nø 249 ş1892 Lot Nø 249 şTrad. VIGNEAUX Pierre
 = .oF.     N     _DOYLE Arthur Conan          De profundis ş1892 De Profundis
-= .! .     N     _DOYLE Arthur Conan          L'Ascenseur ş1922 The Lift
+= .o .     N     _DOYLE Arthur Conan          L'Ascenseur ş1922 The Lift
 o LAFFONT     ?  1960.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _CALONNE Michel              Une folie au bord de la mer ş1960
@@ -164,23 +178,23 @@ o LAFFONT     ?  1960.xx ..... ISBN -
 >--- Contient 19 des 25 histoires du recueil original.
 - .pFP    kA19   *HITCHCOCK Alfred            Histoires abominables ş1957 Stories They Would'nt Let Me Do on T.V. şTrad. RAS Jos & FERRY Odette
 ! .o .   9 p     ****                         Pr‚face ş? ?
-: .o .  13 N     _HICHENS Robert S.           Comment l'amour s'imposa au professeur Guildea ş1900 How Love Come to Professor Guildea
+: .o .  13 r     _HICHENS Robert S.           Comment l'amour s'imposa au professeur Guildea ş1900 How Love Came to Professor Guildea
 : .o .  73 N     _JAMES Montague Rhodes       SortilŠge ş1911 Casting the Runes
 !--- Note : id "Le document secret"
 : .o . 103 N     _JEROME Jerome K.            Un cavalier accompli ş1893 The Dancing Partner
 : .o . 113 N     _WHITE Edward Lucas          Lukundoo ş1925 Luckoundoo
-: .o . 137 N     _ST. CLAIR Margaret          Le travail bien fait ş1946 The Perfectionist
-: .o . 155 N     _MacDONALD Philip            L'Amour qui saigne ş1950 Love Lies Bleeding
-: .o . 187 N     _WILLIAMS Arthur             Le Parfait meurtrier ş1948 Being a Murderer Myself
-: .! . 205 N     _DONNELL C.P. Jr.            Recette de meurtre ş1947 Recope for Murder
+: .o . 137 N     _ST. CLAIR Margaret          Le Travail bien fait ş1946 The Perfectionist
+: .x . 155 N     _MacDONALD Philip            L'Amour qui saigne ş1950 Love Lies Bleeding
+: .x . 187 N     _WILLIAMS Arthur             Le Parfait Meurtrier ş1948 Being a Murderer Myself
+: .! . 205 N     _DONNELL C.P. Jr.            Recette de meurtre ş1947 Recipe for Murder
 : .! . 213 N     _RUSSELL John                Le Prix d'une tˆte ş1916 The Price of the Head
 : .o . 229 N     _SAKI                        Sredni Vashtar ş1910 Sredni Vashtar
 : .o . 237 N     _HODGSON William Hope        La Voix dans la nuit ş1907 The Voice in the Night
 : .o . 255 N     _CONNELL Richard             Le Plus Dangereux des gibiers ş1924 The Most Dangerous Game
 !--- qui a inspir‚ le film "Les chasses du comte Zaroff"
-: .o . 283 N     _DWYER James-Francis         Le Dipl“me de la jungle ş1910 A Jungle Graduate
+: .x . 283 N     _DWYER James-Francis         Le Dipl“me de la jungle ş1910 A Jungle Graduate
 : .o . 299 N     _COLLIER John                La Dame sur le cheval gris ş1951 The Lady on the Gray
-: .o . 311 N     _BLOCH Robert                Au bord de l'eau ş1956 Water's Edge
+: .x . 311 N     _BLOCH Robert                Au bord de l'eau ş1956 Water's Edge
 : .o . 335 N     _ARTHUR Robert               Le Farceur ş1952 The Jokester
 : .o . 347 N     _BURRAGE A.M.                Figures de cire ş1931 The Waxwork
 : .! . 365 N     _BURKE Thomas                L'pouse muette ş1921 The Dumb Wife
@@ -200,10 +214,10 @@ o LAFFONT     ?  1960.xx ..... ISBN -
 !--- - Augustin Calmet : Vampires de la Hongrie (1749)
 !--- - Voltaire : Il n'y en a plus (1764)
 !--- - Louis-Antoine de Caraccioli : Le vampire au couvent (1770)
-?: .o .     a     _LAMBERTINI Prospero         Les Vampires … la lumiŠre de la science ş1749 I vampiri al lume della scienza
+!--- - Article de_LAMBERTINI Prospero : Les Vampires … la lumiŠre de la science (1749 I vampiri al lume della scienza)
 !--- - G‚rard Van Swieten : Rapport m‚dical sur les vampires (1755)
 !--- - Pape BenoŒt XIV : C'est la faute aux prˆtres (1766)
-!--- .     a     _LAMBERTINI Prospero         C'est la faute aux prˆtres ş1756 La colpa e dei pretri
+!--- - Article de _LAMBERTINI Prospero : C'est la faute aux prˆtres (1756 La colpa e dei pretri)
 !--- - EN APARTE
 !--- - Wolfgang Goethe : La fianc‚e de Corinthe (1797)
 !--- - VAMPIROLATRIE
@@ -224,7 +238,7 @@ o LAFFONT     ?  1960.xx ..... ISBN -
 !--- - VAMPIROCLASTIE
 !--- - du Livre des Mille et une Nuits : L'honneur du ghoul (XIIIe siŠcle)
 !--- - Paul F‚val : La ville-vampire (1875)
-!--- - Ray Bradbury : L'homme du second (1947)
+!--- - Ray Bradbury : L'Homme du second (1947)
 !--- - E.C. Tubb : Le blanc-bec (1958)
 !--- - Texte de pr‚sentation de Roger Vadim : HISTOIRES DE VAMPIRES
 o LAFFONT     ?  1961.xx ..... ISBN -
@@ -255,8 +269,8 @@ o LAFFONT     ?  1961.xx ..... ISBN -
 o LAFFONT     ?  1961.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R2    _LEROUX Gaston               Romans fantastiques ş1961
-: .o .     R     _LEROUX Gaston               Le Fant“me de l'op‚ra ş1910
 !--- 1910 = 1ere parution en volume
+: .o .     R     _LEROUX Gaston               Le Fant“me de l'op‚ra ş1910
 : .o .     R     _LEROUX Gaston               L'Homme qui revient de loin ş1916
 o LAFFONT     ?  1962.xx ..... ISBN -
 } noimg          _?                           ?
@@ -302,7 +316,7 @@ o LAFFONT     ?  1962.xx ..... ISBN -
 : .! .     N     _EIDEN Paul                  Trop de co‹ncidences ş1958 Too Many Coincidences şTrad. FERRY Odette
 : .o .     N     _FINNEY Jack                 Des gens disparaissent ş1955 Of Missing Persons şTrad. FERRY Odette
 : .o .     N     _SAMBROT William             L'Œle de la peur ş1958 Island of Fear şTrad. FERRY Odette
-: .! .     N     _ARTHUR Robert               Il faut se d‚barasser de George ş1958 Getting Rid of George şTrad. FERRY Odette
+: .! .     N     _ARTHUR Robert               Il faut se d‚barrasser de George ş1958 Getting Rid of George şTrad. FERRY Odette
 : .o .     N     _JESSE F. Tennyson           Le Tr‚sor ş1928 Thirty Pieces of Silver / Treasure Trove şTrad. FERRY Odette
 : .! .     N     _STEELE Wilbur Daniel        Le Corps du d‚lit ş1930 The Body of the Crime şTrad. FERRY Odette
 : .! .     N     _RUBIN Mann                  Un enj“leur ş1958 A Nice Touch şTrad. FERRY Odette
@@ -315,7 +329,7 @@ o LAFFONT     ?  1963.xx ..... ISBN -
 } rlafhitch4     _?                           ?
 - .pFP     A15   *HITCHCOCK Alfred           &Histoires … ne pas lire la nuit ş1961 Stories for Late at Night
 &                *ARTHUR Robert               
-: .oF.     N     _ARTHUR Robert               La mort est un songe ş1957 Death is a Dream şTrad. ?
+: .oF.     N     _ARTHUR Robert               La mort est un songe ş1957 Death Is a Dream şTrad. ?
 : .o .     N     _BRADBURY Ray                Toute la ville dort ş1950 The Whole Town's Sleeping şTrad. FERRY Odette
 : .o .     N     _CHATTERTON Ruth             Un homme … femmes ş1961 Lady's Man
 : .o .     N     _COLLIER John                L'Ane rouge ş1940 Evening Primrose şTrad. FERRY Odette
@@ -328,13 +342,13 @@ o LAFFONT     ?  1963.xx ..... ISBN -
 : .? .     N     _HUME Cyril                  Une histoire incroyable ş1927 Told for the Truth
 : .o .     N     _JAMES Montague Rhodes       Le Frˆne ş1904 The Ash-Tree
 : .? .     N     _JENKINS Will                L'Enjeu ş1937 Side Bet
-: .o .     N     _LONG Frank Belknap          La DeuxiŠme nuit en mer ş1933 The Black, Dead Thing / Second Night Out şTrad. FERRY Odette
+: .o .     N     _LONG Frank Belknap          La DeuxiŠme Nuit en mer ş1933 The Black, Dead Thing / Second Night Out şTrad. FERRY Odette
 : .? .     N     _PERRY Edward L.             Un coup loup‚ ş1956 The Mugging
 : .? .     N     _RONAN Margaret              Le Doigt ! Le doigt ! ş1941 Finger! Finger! şTrad. FERRY Odette
 : .! .     N     _SMITH Pauline C.            Les Gens d'… c“t‚ ş1952 The People Next Door
 o LAFFONT     ?  1963.xx ..... ISBN -
 } saki2          _?                           N
-- .pFJ    iN26   _SAKI                        Saki : Tome 2 - nouvelles ş1950 The Best of Saki şTrad. ROSENTHAL Jean
+- .pFJ    iNx    _SAKI                        Saki : Tome 2 - nouvelles ş1950 The Best of Saki şTrad. ROSENTHAL Jean
 : .o .     N     _SAKI                        La Musique sur la colline ş1911 The Music on the Hill şTrad. ROSENTHAL Jean
 : .o .     N     _SAKI                        La R‚forme de Groby Lington ş1911 The Remoulding of Groby Lington
 : .o .     N     _SAKI                        Laura ş1914 Laura şTrad. ROSENTHAL Jean
@@ -378,7 +392,7 @@ o LAFFONT     ?  1963.xx ..... ISBN -
 = .o .     N     _RAY Jean                    Le CimetiŠre de Marlyweck ş1943
 = .o .     N     _RAY Jean                    Le Dernier Voyageur ş1929
 = .o .     N     _RAY Jean                    L'Homme qui osa ş1943
-= .o .     N     _RAY Jean                    Drer, l'idiot ş1932
+= .o .     N     _RAY Jean                    Drer, l'idiot ş1929
 = .o .     N     _RAY Jean                    L'Auberge des spectres ş1943
 = .o .     N     _RAY Jean                    L'Histoire du W–lkh ş1943
 = .o .     N     _RAY Jean                    Le Miroir noir ş1943
@@ -439,7 +453,7 @@ o LAFFONT     ?  1964.xx ..... ISBN -
 = .o .     N     _RAY Jean                    La Pr‚sence horrifiante ş1932
 = .o .     N     _RAY Jean                    Le Bout de la rue ş1932
 = .o .     N     _RAY Jean                    Le Dernier Voyageur ş1929
-= .o .     N     _RAY Jean                    Drer, l'idiot ş1932
+= .o .     N     _RAY Jean                    Drer, l'idiot ş1929
 = .o .     N     _RAY Jean                    Mondschein-Dampfer ş1932
 = .o .     N     _RAY Jean                    La Ruelle t‚n‚breuse ş1932
 = .o .     N     _RAY Jean                    Le Psautier de Mayence ş1930
@@ -490,7 +504,7 @@ o LAFFONT     ?  1964.xx ..... ISBN -
 = .o .     N     _RAY Jean                    Reid Unthank ş1944
 = .o .     N     _RAY Jean                    Au profit des conjectures ş1944
 : .o .     R     _RAY Jean                    Malpertuis ş1943
-: .o .    cN7    _RAY Jean                    Les Nouveaux Contes ş?
+: .oF.    cN7    _RAY Jean                    Les Nouveaux Contes ş?
 = .o .     N     _RAY Jean                    Dieu, toi et moi ş1959
 = .o .     N     _RAY Jean                    Je cherche Mr. Pilgrim ş1957
 = .o .     N     _RAY Jean                    Merry-go-round ş1956
@@ -517,13 +531,13 @@ o LAFFONT     ?  1965.xx ..... ISBN -
 : .? .     N     _DIGGES Jeremiah             La Collerette en verre fil‚ ş1936 The Arbutus Collar şTrad. FERRY Odette
 : .o .     N     _FITZGERALD F. Scott         Bref retour … la maison ş1927 A Short Trip Home şTrad. FERRY Odette
 : .? .     N     _HITCHCOCK George            Une invitation … la chasse ş1960 An Invitation to the Hunt şTrad. FERRY Odette
-: .o .     N     _HOCH Edward D.              L'homme qui ‚tait partout ş1957 The Man who Was Everywhere şTrad. FERRY Odette
+: .o .     N     _HOCH Edward D.              L'Homme qui ‚tait partout ş1957 The Man who Was Everywhere şTrad. FERRY Odette
 : .o .     N     _JACKSON Shirley             Les Gens de l'‚t‚ ş1950 The Summer People şTrad. SERVAL Nathalie
 : .? .     N     _MANDEL George               Accomodements ş1956 Adjustments şTrad. FERRY Odette
 : .o .     N     _MATHESON Richard            Les Enfants de No‚ ş1957 The Children of Noah şTrad. FERRY Odette
 : .o .     N     _RICE Jane                   L'Idole des mouches ş1942 The Idol of the Flies şTrad. FERRY Odette
 : .? .     N     _MORRIS Mack                 Courtoisie de la route ş1949 Courtesy of the Road şTrad. FERRY Odette
-: .o .     N     _RITCHIE Jack                Echange de bons proc‚d‚s ş1961 Remains to Be Seen şTrad. FERRY Odette
+: .! .     N     _RITCHIE Jack                Echange de bons proc‚d‚s ş1961 Remains to Be Seen şTrad. FERRY Odette
 : .o .     N     _SLESAR Henry                Chien perdu ş1958 Lost Dog şTrad. FERRY Odette
 : .? .     N     _STANFORD Don                L'otage ş1953 Hostage şTrad. FERRY Odette
 : .o .     N     _THOMAS Gilbert              S‚lection naturelle ş1950 Natural Selection şTrad. FERRY Odette
@@ -544,6 +558,65 @@ o LAFFONT     ?  1966.xx ..... ISBN -
 : .oF.     r     _RAY Jean                    La Terrible Nuit du zoo [Harry Dickson] ş1937
 : .oF.     r     _RAY Jean                    Le Lit du diable [Harry Dickson] ş1935
 : .oF.     r     _RAY Jean                    Le Temple de fer [Harry Dickson] ş1933
+o LAF_PAV     ?  1967.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 374 pages
++ LAF_PAV     ?  2002.03 ..... ISBN 978-2-221-09705-2
+} noimg          _?                           ?
+!--- 374 pages
+- .oF.    _N51   _BUZZATI Dino                Le K ş1966 Il colombre e altri cinquanta racconti şTrad. REMILLET Jacqueline
+: .o .     N     _BUZZATI Dino                Le K ş1961 Il colombre
+: .o .     N     _BUZZATI Dino                La Cr‚ation ş1961 La creazione
+: .o .     N     _BUZZATI Dino                La Le‡on de 1980 ş1961 La lezione del 1980
+: .? .     N     _BUZZATI Dino                G‚n‚ral inconnu ş1961 Generale ignoto
+: .? .     N     _BUZZATI Dino                Le D‚funt par erreur ş1958 L'erroneo fu
+: .? .     N     _BUZZATI Dino                L'Humilit‚ ş1958 L'umilt…
+: .o .     N     _BUZZATI Dino                Et siÿ? ş1959 E se?
+: .? .     N     _BUZZATI Dino                A monsieur le directeur ş1960 Riservatissima al signor direttore
+: .o .     N     _BUZZATI Dino                L'Arme secrŠte ş1960 L'arma segreta
+: .o .     N     _BUZZATI Dino                Un amour troubleÿ? ş1958 Un torbido amore
+: .? .     N     _BUZZATI Dino                Pauvre petit gar‡onÿ! ş1960 Povero bambino!
+: .? .     N     _BUZZATI Dino                Le Casse-pieds ş1960 Il seccatore
+: .o .     N     _BUZZATI Dino                Le Compte ş1960 Il conto
+: .? .     N     _BUZZATI Dino                Week-end ş1966 Week-end
+: .? .     N     _BUZZATI Dino                Le Secret de l'‚crivain ş1958 Il segreto dello scrittore
+: .? .     N     _BUZZATI Dino                Petites histoires du soir ş1964 Storielle della sera
+: .o .     N     _BUZZATI Dino                Chasseurs de vieux ş1962 Cacciatori di vecchi
+: .o .     N     _BUZZATI Dino                L'Oeuf ş1962 L'uovo
+: .o .     N     _BUZZATI Dino                Dix-huitiŠme Trou ş1964 Diciottesima buca
+: .o .     N     _BUZZATI Dino                Le Veston ensorcel‚ ş1962 La giacca stregata
+: .? .     N     _BUZZATI Dino                Le Chien vide ş1962 Il cane vuoto
+: .? .     N     _BUZZATI Dino                Douce nuit ş1962 Dolce notte
+: .o .     N     _BUZZATI Dino                L'Ascenseur ş1962 L'ascensore
+: .? .     N     _BUZZATI Dino                Les D‚passements ş1962 I sorpassi
+: .o .     N     _BUZZATI Dino                Ubiquit‚ ş1962 L'ubiquo
+: .? .     N     _BUZZATI Dino                Le Vent ş1959 Il vento
+: .? .     N     _BUZZATI Dino                Teddy Boys ş1959 Teddy boys
+: .o .     N     _BUZZATI Dino                Le Petit Ballon ş1963 Il palloncino
+: .o .     N     _BUZZATI Dino                Suicide au parc ş1963 Suicidio al parco
+: .o .     N     _BUZZATI Dino                La Chute du saint ş1963 Il crollo del santo
+: .? .     N     _BUZZATI Dino                Esclave ş1963 Schiavo
+: .o .     N     _BUZZATI Dino                La Tour Eiffel ş1964 La torre Eiffel
+: .o .     N     _BUZZATI Dino                Jeune fille qui tombe. tombe ş1963 Ragazza che precipita
+: .? .     N     _BUZZATI Dino                Le Magicien ş1966 Il mago
+: .o .     N     _BUZZATI Dino                La BoŒte de conserve ş1960 La barattola
+: .? .     N     _BUZZATI Dino                L'Autel ş1964 L'altare
+: .o .     N     _BUZZATI Dino                Les Bosses dans le jardin ş1963 Le gobbe in giardino
+: .o .     N     _BUZZATI Dino                Petite Circ‚ ş1959 Piccola Circe
+: .? .     N     _BUZZATI Dino                L'puisement ş1965 Il logorio
+: .o .     N     _BUZZATI Dino                Quiz aux travaux forc‚s ş1959 Quiz all'ergastolo
+: .? .     N     _BUZZATI Dino                Iago ş1961 Jago
+: .? .     N     _BUZZATI Dino                Progressions ş1966 Progressioni
+: .? .     N     _BUZZATI Dino                Les Deux Chauffeurs ş1963 I due autisti
+: .C .     C     _BUZZATI Dino                Voyage aux enfers du siŠcle ş1966 Viaggio agli inferi del secolo
+: .o .     N     _BUZZATI Dino                Un service difficile ş965 Un servizio difficile
+: .o .     N     _BUZZATI Dino                Les Secrets du "MM" ş1965 I segreti della "MM"
+: .o .     N     _BUZZATI Dino                Les Diablesses ş1965 Le diavolesse
+: .o .     N     _BUZZATI Dino                Les Acc‚l‚rations ş1965 Le accelerazioni
+: .o .     N     _BUZZATI Dino                Les Solitudes ş1965 Le solitudini
+: .o .     N     _BUZZATI Dino                L'Entrmpelung ş1965 L'Entrmpelung
+: .o .     N     _BUZZATI Dino                Fauve au volant ş1965 Belva al volante
+: .o .     N     _BUZZATI Dino                Le Jardin ş1965 l giardino
 o LAFFONT     ?  1967.xx ..... ISBN -
 } noimg          _?                           ?
 - .oFM    iNx    _CASSAN Marguerite           A d‚velopper dans l'obscurit‚ ş1967
@@ -580,7 +653,7 @@ o LAF_PAV     ?  1968.xx ..... ISBN -
 : .oK.     N     _BUZZATI Dino                La Nouvelle ş1958 La notizia
 o LAF_BS      ?  1968.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     F     _CLARKE Arthur C.            2001, l'odyss‚e de l'espace [L'Odyss‚e de l'espace - 1] ş1968 2001: A Space Odyssee
+- .o .     F     _CLARKE Arthur C.            2001, l'odyss‚e de l'espace [L'Odyss‚e de l'espace - 1] ş1968 2001: A Space Odyssey
 o LAF_VV      ?  1969.05 ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _FRANK Alain                &L'Homme au cerveau greff‚ ş1969
@@ -617,10 +690,12 @@ o LAF_BS      ?  1971.xx ..... ISBN -
 ?!--- TBD annonc‚ mais pas paru ? (Cf. en Pavillons Poche)
 ?} noimg          _?                           ?
 ?- .oS.     R     _BURGESS Anthony             L'Orange m‚canique ş1962 A Clockwork Orange şTrad. BELMONT Georges & CHABRIER Hortense
-o LAFFONT     ?  1973.xx ..... ISBN -
+o LAF_PAV     ?  1973.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .    iNx    _BIOY CASARES Adolfo         Nouvelles fantastiques ş?
-: .o .     N     _BIOY CASARES Adolfo         A la m‚moire de Pauline ş1967 En memoria de Paulina şTrad. ROSSET Fran‡oise-Marie
+!--- 344 pages
+!--- BNF indique "Extraits traduits de divers recueils de nouvelles de l'auteur"
+- .o .    iNx    _BIOY CASARES Adolfo         Nouvelles fantastiques ((Nouvelles fantastiques de Bioy Casares)) ş1973
+: .o .     N     _BIOY CASARES Adolfo         A la m‚moire de Pauline ş1948 En memoria de Paulina şTrad. ROSSET Fran‡oise-Marie
 o LAF_BS      ?  1977.xx ..... ISBN -
 } noimg          _?                           ?
 - .x .     R     _CUSSLER Clive               Renflouez le Titanic ! [Dirk Pitt - 4] ş1976 Raise the Titanic! şTrad. ROSENTHAL Jean
@@ -704,7 +779,7 @@ o LAF_BS      ?  1984.xx ..... ISBN 2-221-04426-6
 } noimg          _?                           ?
 - .o .     R     _BENEICH Denis              &Softwar ş1984
 &                _BRETON Thierry              
-o DENOEL      ?  1985.xx ..... ISBN 2-221-01292-5
+o LAFFONT     ?  1985.xx ..... ISBN 2-221-01292-5
 } noimg          _?                           ?
 - .x .     R     _SILVERBERG Robert           Le Seigneur des t‚nŠbres ş1983 Lord of Darkness şTrad. ZIMMERMANN Nathalie
 o LAF_BS      ?  1985.xx ..... ISBN 2-221-04644-7
@@ -829,7 +904,7 @@ o LAF_BS      ?  1999.xx ..... ISBN 2-221-08774-7
 o LAF_EXP     ?  1999.06 ..... ISBN 2-221-09060-8
 } noimg          _?                           ?
 !--- 216 pages
-- .pS.    iA50   ****                         Histoires Express ş1999
+- .pS.    iAx    ****                         Histoires Express ş1999
 : .o .     N     _DUNYACH Jean-Claude         M‚mo pour action ş1998
 o LAF_BS      ?  1999.xx ..... ISBN 2-221-08606-6
 } noimg          _?                           ?
@@ -846,7 +921,7 @@ o LAF_BS      ?  2000.xx ..... ISBN 2-221-09205-8
 - .o .     R     _CRICHTON Michael            Prisonniers du temps ş1999 Timeline şTrad. BERTHON Patrick
 o LAF_BS      ?  2000.xx ..... ISBN 2-221-08873-5
 } noimg          _?                           ?
-- .o .     R     _KOONTZ Dean R.              Ne crains rien [Trilogie de Moonlight Bay - 1] ş1998 Fear Nothing şTrad. GARENE MichŠle
+- .o .     R     _KOONTZ Dean R.              Ne crains rien [Trilogie de Moonlight Bay - 1] ş1997 Fear Nothing şTrad. GARENE MichŠle
 o LAF_BS      ?  2000.xx ..... ISBN 2-221-08643-0
 } noimg          _?                           ?
 - .o .     R     _CHILD Lincoln              &Le PiŠge de l'architecte ş1998 Riptide şTrad. GARENE MichŠle
@@ -1018,6 +1093,9 @@ o LAFFONT     ?  2012.xx ..... ISBN 978-2-221-12290-7
 o LAFFONT     ?  2013.05 ..... ISBN 978-2-221-11114-7
 } noimg          _?                           ?
 - .oF.     R     _CRONIN Justin               Les Douze [Le Passage - 2] ş2012 The Twelve şTrad. HAAS Dominique
+o LAFFONT     ?  2013.xx ..... ISBN 978-2-221-12265-5
+} noimg          _?                           ?
+- .oF.     R     _SIMMONS Dan                 Collines noires ş2013 Black Hills şTrad. DEMANGE Odile
 !------------------------
 !=== 2015
 !------------------------
@@ -1033,6 +1111,13 @@ o LAFFONT     ?  2015.03 ..... ISBN 978-2-221-14475-6
 o LAF_BS      ?  2015.10 ..... ISBN 978-2-221-13639-3
 } noimg          _Anna Morrison               ?
 - .oF.     R     _WECKER Helene               La Femme d'argile et l'Homme de feu ş2013 The Golem and the Jinni şTrad. ALBARET-MAATSCH MichŠle
+!------------------------
+!=== 2016
+!------------------------
+o LAFFONT     ?  2016.04 ..... ISBN 978-2-221-19266-5
+} noimg          _?                           ?
+!--- GF - 136 x 216 - 200 pages
+- .oS.     R     _BOUCHET Juliette            Avant j'‚tais juste immortel ş2016
 !------------------------
 !=== 2017
 !------------------------
@@ -1060,80 +1145,97 @@ o LAFFONT     ?  2019.10 ..... ISBN 978-2-221-21868-6
 } noimg          _?                           ?
 - .oF.     R     _SIMMONS Dan                 L'Abominable ş2013 The Abominable şTrad. ARNAUD C‚cile
 !------------------------
-!=== 2019
+!=== 2020
 !------------------------
 o LAFFONT     ?  2020.03 ..... ISBN 978-2-221-24077-9
 } noimg          _?                           ?
 !--- GF
 - .oF.     R     _ROSNAY Tatiana de           Les Fleurs de l'ombre ş2020
+o LAFFONT     ?  2020.xx ..... ISBN 978-2-221-21869-3
+} noimg          _?                           ?
+- .o .     R     _SIMMONS Dan                 Le CinquiŠme Coeur ş2015 The Firth Heart şTrad. ARNAUD C‚cile
+!------------------------
+!=== 2021
+!------------------------
+o LAF_BS      ?  2021.10 ..... ISBN 978-2-221-25024-2
+} noimg          _? Shutterstock              ?
+!--- GF - 137x216 - 306 pages
+- .o .     R     _CLARKE Susanna              PiranŠse ş2020 Piranesi şTrad. PHILIPPE Isabelle D.
+!------------------------
+!=== 2022
+!------------------------
+o LAFFONT     ?  2022.09 ..... ISBN 978-2-221-25891-0
+} noimg          _?                           ?
+!--- GF - 130x200 - 192 pages - 18 euros
+- .oY.     r     _SIMMONS Dan                 Le Nez-Boussole d'Ulf„nt Bander&otilde;z [La Terre mourante] ş2009 The Guiding Nose of Ulf„nt Banderoz şTrad. GUILLOT S‚bastien
 
 
 
 
 
 !-----------------------------------------------------------------------------
-_ LAF_PAV Laffont, Coll. Pavillons
-_ LAF_PAC Laffont, Coll. Classiques Pavillons
+_ LAF_PAV Laffont - Pavillons
+_ LAF_PAC Laffont - Classiques Pavillons
 !-----------------------------------------------------------------------------
 !--- Collection Pavillons
 !-----------------------------------------------------------------------------
 o LAF_PAV     ?  1994.02 ..... ISBN 2-221-07461-0
-} pav_bestiaire  ?                            ?
+} pav_bestiaire  _?                           ?
 !--- Traduction de Bestiario (recueil posthume 1991)
 - .oF.     N50   _BUZZATI Dino                Bestiaire magique ş1991 Bestiario şTrad. BREITMAN Michel
 : .o .     p     _MARABINI Claudio            Pr‚face ş1991 ? şTrad. BREITMAN Michel
 : .C .     C     _BUZZATI Dino                PremiŠre partie - Nouvelles
-: .  .     N     _BUZZATI Dino                D‚molition de l'auberge ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Falstaff de la faune ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Un serpent de mer d‚sassorti ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                A sa place habituelle ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Boeuf vide ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Panique sur la riviŠre ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Une cr‚ature stup‚fiante ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Angoisses d'un chien de bord ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Loup ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                L'Exp‚rience d'Askania Nova ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Les Mouches ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Les Aigles ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le H‚ros ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le rˆve de l'agent municipal ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Eux aussi ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Un verrat ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Un chien progressiste ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                L'Opportuniste ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Tyrannosaurus Rex ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le D‚luge universel ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Secret de l'impr‚sario ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Les vieux amis s'en vont ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Puissance de la haine ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                L'Exp‚rimentation ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                La D‚faite ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Fauve motoris‚ ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                L'Arriviste ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Cas de conscience d'une sentinelle ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Parole de chimpanz‚ ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Les SorciŠres de la mer ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Une promenade en barque ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                La Terrible Lucietta ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Chien universel ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Bestiaire ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                La Construction de la tour ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                D‚molition de l'auberge ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Falstaff de la faune ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Un serpent de mer d‚sassorti ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                A sa place habituelle ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Boeuf vide ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Panique sur la riviŠre ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Une cr‚ature stup‚fiante ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Angoisses d'un chien de bord ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Loup ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                L'Exp‚rience d'Askania Nova ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Les Mouches ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Les Aigles ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le H‚ros ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le rˆve de l'agent municipal ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Eux aussi ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Un verrat ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Un chien progressiste ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                L'Opportuniste ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Tyrannosaurus Rex ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le D‚luge universel ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Secret de l'impr‚sario ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Les vieux amis s'en vont ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Puissance de la haine ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                L'Exp‚rimentation ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                La D‚faite ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Fauve motoris‚ ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                L'Arriviste ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Cas de conscience d'une sentinelle ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Parole de chimpanz‚ ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Les SorciŠres de la mer ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Une promenade en barque ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                La Terrible Lucietta ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Chien universel ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Bestiaire ş1971 Bestiario şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                La Construction de la tour ş? ? şTrad. BREITMAN Michel
 : .C .     C     _BUZZATI Dino                DeuxiŠme partie - Articles
-: .  .     a     _BUZZATI Dino                Une journ‚e de la poule z‚ro ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Le chien litt‚raire n'est guŠre inspir‚ aujourd'hui ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                "Reviens, petite L‚a !" ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Abattu sur le Quirinal ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Chiens et rŠglements ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Le pionnier ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                En lieu et place de La‹ka ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Mes chiens ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Les canaris existentialistes ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                L'adieu du petit singe ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                L'Einstein des chiens s'attendrit sur les chats ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                La petite guenon Toy peintre abstrait ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Un chien mordu par un homme ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Piti‚ pour le "monstre" ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Agonie et mort d'un pauvre chien ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Une journ‚e de la poule z‚ro ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Le chien litt‚raire n'est guŠre inspir‚ aujourd'hui ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                "Reviens, petite L‚a !" ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Abattu sur le Quirinal ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Chiens et rŠglements ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Le pionnier ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                En lieu et place de La‹ka ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Mes chiens ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Les canaris existentialistes ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                L'adieu du petit singe ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                L'Einstein des chiens s'attendrit sur les chats ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                La petite guenon Toy peintre abstrait ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Un chien mordu par un homme ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Piti‚ pour le "monstre" ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Agonie et mort d'un pauvre chien ş? ? şTrad. BREITMAN Michel
 o LAF_PAV     ?  1955.04 ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _WOLFE Bernard               Limbo ş1952 Limbo
@@ -1142,39 +1244,40 @@ o LAF_PAV     ?  1955.xx ..... ISBN -
 - .o .     R     _BIOY CASARES Adolfo         L'Invention de Morel ş1940 La invencion de Morel
 o LAF_PAV     ?  1960.xx ..... ISBN -
 } noimg          _?                           ?
+!--- Quelques nouvelles de moins que le recueil original
 - .o .    cN32   _BUZZATI Dino                L'‚croulement de la Baliverna ş1958 Il crollo della Baliverna şTrad. BREITMAN Michel
-: .o .     N     _BUZZATI Dino                L'croulement de la Baliverna ş? Il crollo della Baliverna
+: .o .     N     _BUZZATI Dino                L'croulement de la Baliverna ş1951 Il crollo della Baliverna
 : .o .     N     _BUZZATI Dino                Le Chien qui a vu Dieu ş1954 Il cane che ha visto dio
-: .o .     N     _BUZZATI Dino                Jusqu'… la derniŠre goutte de sang ş? ?
-: .o .     N     _BUZZATI Dino                Garage Erebus ş? ?
-: .o .     N     _BUZZATI Dino                Il ‚tait arriv‚ quelque chose ş1960 Qualcosa era successo
-: .o .     N     _BUZZATI Dino                La Grosse couleuvre ş? ?
-: .o .     N     _BUZZATI Dino                Le FrŠre transform‚ ş? ?
-: .o .     N     _BUZZATI Dino                Sic transit ş? ?
-: .o .     N     _BUZZATI Dino                Un ver … la maison ş? ?
-: .o .     N     _BUZZATI Dino                La Machine … arrˆter le temps ş? ?
-: .o .     N     _BUZZATI Dino                Les Souris ş1954 ?
-: .o .     N     _BUZZATI Dino                Un corbeau au Vatican ş? ?
-: .o .     N     _BUZZATI Dino                Rendez-vous avec Einstein ş? ?
-: .o .     N     _BUZZATI Dino                L'Obscurit‚ ş? ?
-: .o .     N     _BUZZATI Dino                La Fillette oubli‚e ş? ?
-: .o .     N     _BUZZATI Dino                Les Amis ş? ?
-: .o .     N     _BUZZATI Dino                Les Gladiateurs ş? ?
-: .o .     N     _BUZZATI Dino                Le D‚nonciateur ş? ?
-: .o .     N     _BUZZATI Dino                A l'hydrogŠne ş? ?
-: .o .     N     _BUZZATI Dino                L'Homme qui voulut gu‚rir ş? ?
-: .o .     N     _BUZZATI Dino                24 mars 1968 ş? ?
-: .o .     N     _BUZZATI Dino                Les Tentations de saint Antoine ş? ?
-: .o .     N     _BUZZATI Dino                L'Enfant tyran ş? ?
-: .o .     N     _BUZZATI Dino                Triomphe ş? ?
-: .o .     N     _BUZZATI Dino                Rigoletto ş? ?
-: .o .     N     _BUZZATI Dino                Les Cinq FrŠres ş? ?
-: .o .     N     _BUZZATI Dino                Le Musicien envieux ş? ?
-: .o .     N     _BUZZATI Dino                La Machine ş? ?
-: .o .     N     _BUZZATI Dino                Nuit d'hiver … Philadelphie ş? ?
-: .o .     N     _BUZZATI Dino                L'Avalanche ş? ?
-: .o .     N     _BUZZATI Dino                Ils n'attendaient rien d'autre ş1960 Non aspettavano altro
-: .o .     N     _BUZZATI Dino                La soucoupe se posa ş? ?
+: .o .     N     _BUZZATI Dino                Jusqu'… la derniŠre goutte de sang ş? Fino all'ultima goccia di sangue
+: .o .     N     _BUZZATI Dino                Garage Erebus ş1985 Autorimesa Erebus
+: .o .     N     _BUZZATI Dino                Il ‚tait arriv‚ quelque chose ş1949 Qualcosa era successo
+: .o .     N     _BUZZATI Dino                La Grosse couleuvre ş? La grande biscia
+: .o .     N     _BUZZATI Dino                Le FrŠre transform‚ ş1985 Il fratello cambiato
+: .o .     N     _BUZZATI Dino                Sic transit ş? Sic transit
+: .o .     N     _BUZZATI Dino                Un ver … la maison ş? Un verme in casa
+: .o .     N     _BUZZATI Dino                La Machine … arrˆter le temps ş1952 La macchina che fermera il tempo
+: .o .     N     _BUZZATI Dino                Les Souris ş1953 I topi
+: .o .     N     _BUZZATI Dino                Un corbeau au Vatican ş1950 Un corvo in Vaticano
+: .o .     N     _BUZZATI Dino                Rendez-vous avec Einstein ş1950 Appuntamento con Einstein
+: .o .     N     _BUZZATI Dino                L'Obscurit‚ ş1985 Il buio
+: .o .     N     _BUZZATI Dino                La Fillette oubli‚e ş? La bambina dimenticata
+: .o .     N     _BUZZATI Dino                Les Amis ş1952 Gli amici
+: .o .     N     _BUZZATI Dino                Les Gladiateurs ş1947 I reziarii
+: .o .     N     _BUZZATI Dino                Le D‚nonciateur ş? Il delatore
+: .o .     N     _BUZZATI Dino                A l'hydrogŠne ş1950 All'idrogeno
+: .o .     N     _BUZZATI Dino                L'Homme qui voulut gu‚rir ş1952 L'uomo che volle guarire
+: .o .     N     _BUZZATI Dino                24 mars 1968 ş1949 24 marzo 1958
+: .o .     N     _BUZZATI Dino                Les Tentations de saint Antoine ş1950 Le tentazioni di Sant'Antonio
+: .o .     N     _BUZZATI Dino                L'Enfant tyran ş1985 Il bambino tiranno
+: .o .     N     _BUZZATI Dino                Triomphe ş? Trianfo
+: .o .     N     _BUZZATI Dino                Rigoletto ş1948 Rigoletto
+: .o .     N     _BUZZATI Dino                Les Cinq FrŠres ş? I cinque fratelli
+: .o .     N     _BUZZATI Dino                Le Musicien envieux ş? Il musicista invidioso
+: .o .     N     _BUZZATI Dino                La Machine ş1955 La macchina
+: .o .     N     _BUZZATI Dino                Nuit d'hiver … Philadelphie ş? Notte d'inverno a Filadelfia
+: .o .     N     _BUZZATI Dino                L'Avalanche ş1954 La frana
+: .o .     N     _BUZZATI Dino                Ils n'attendaient rien d'autre ş1947 Non aspettavano altro
+: .o .     N     _BUZZATI Dino                La soucoupe se posa ş1950 Il disco si pos•
 ?o LAF_PAV     ?  1964.xx ..... ISBN -
 ?} noimg          _?                           ?
 !--- Assimil‚ R‚alisme fantastique, mais trŠs trŠs limite...
@@ -1189,7 +1292,7 @@ o LAF_PAV     ?  1960.xx ..... ISBN -
 ?- .o .     R     _BIOY CASARES Adolfo         Dormir au soleil ş?
 o LAF_PAV     ?  1965.xx ..... ISBN -
 } noimg          _?                           ?
-- .x .     T     _BOULGAKOV Mikha‹l           L'Œle pourpre ş1928
+- .x .     T     _BOULGAKOV Mikha‹l           L'Œle pourpre ş1928 Bagrovy ostrov
 o LAF_PAV     ?  1968.xx ..... ISBN -
 } noimg          _?                           ?
 + LAF_PAV     ?  1976.xx ..... ISBN 2-221-00390-X
@@ -1227,7 +1330,7 @@ o LAF_PAV     ?  1973.xx ..... ISBN .-.....-...-.
 ?: .? .     N     _BUZZATI Dino                Icare ş?
 ?: .? .     N     _BUZZATI Dino                L'H“pital malade ş?
 ?: .? .     N     _BUZZATI Dino                Vitesse de la lumiŠre ş?
-?: .? .     N     _BUZZATI Dino                Bestiaire ş?
+?: .? .     N     _BUZZATI Dino                Bestiaire ş1971 Bestiario
 ?: .? .     N     _BUZZATI Dino                L'Ali‚nation ş?
 ?: .? .     N     _BUZZATI Dino                Progressions ş?
 ?: .? .     N     _BUZZATI Dino                Une soir‚e difficile ş?
@@ -1243,16 +1346,15 @@ o LAF_PAV     ?  1973.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .x .     E     _BUZZATI Dino                Mes d‚serts ş?
 !--- Nota : entretiens recueillis en 1971 par Yves Panafieu
-?o LAF_PAV     ?  1974.xx ..... ISBN .-.....-...-.
-?!--- TBD Genre
-?} noimg          _?                           ?
-?- .o .     R     _BURGESS Anthony             La Folle Semence ş1962 The Wanting Seed şTrad. BELMONT Georges & CHABRIER Hortense
+o LAF_PAV     ?  1974.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oS.     R     _BURGESS Anthony             La Folle Semence ş1962 The Wanting Seed şTrad. BELMONT Georges & CHABRIER Hortense
 o LAF_PAV     ?  1974.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _ABRAHAMI Izzy               Le Jeu des grands ensembles ş1973 The Game şTrad. BELMONT Georges & CHABRIER Hortense
 o LAF_PAV     ?  1978.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .x .     R     _DICK Philip K.              Confessions d'un barjo ş1975 Confessions of a Crap Artist şTrad. ?
+- .x .     R     _DICK Philip K.              Confessions d'un barjo ş1959-1975 Confessions of a Crap Artist şTrad. ?
 ?o LAF_PAV     ?  1982.xx ..... ISBN .-.....-...-.
 ?!--- TBD Genre
 ?} noimg          _?                           ?
@@ -1260,7 +1362,7 @@ o LAF_PAV     ?  1978.xx ..... ISBN .-.....-...-.
 o LAF_PAC     ?  1984.03 ..... ISBN 2-221-04320-0
 } noimg          _?                           N
 !--- 284 pages - 13x19.5
-- .pFJ    iN31   _SAKI                       &Le Boeuf en visite ((Saki)) ş1950 The Best of Saki şTrad. ROSENTHAL Jean
+- .pFJ     N31   _SAKI                       &Le Boeuf en visite ((Saki)) ş1950 The Best of Saki şTrad. ROSENTHAL Jean
 &                *GREENE Graham               
 : .o .     p     _GREENE Graham               Introduction ş1950 Introduction şTrad. SIBON Marcelle
 : .o .     N     _SAKI                        La Fenˆtre ouverte ş1911 The Open Window
@@ -1303,14 +1405,33 @@ o LAF_PAV     ?  1989.xx ..... ISBN 2-221-05857-7
 } noimg          _?                           ?
 + LAF_PAV     ?  2004.xx ..... ISBN 2-221-09008-X
 } noimg          _?                           ?
-- .o .    iN24   _BUZZATI Dino                Panique … la Scala ş1958 Sessanta raconti şTrad. BREITMAN Michel
-!--- Nota : 24 nouvelles extraites du recueil original
-: .o .     N     _BUZZATI Dino                Une ombre au sud ş?
-: .o .     N     _BUZZATI Dino                Panique … la Scala ş1948 Paura alla Scala
-: .o .     N     _BUZZATI Dino                La Peste automobilistique ş?
-: .o .     N     _BUZZATI Dino                Oeil pour oeil ş?
-: .o .     N     _BUZZATI Dino                Le ProblŠme du stationnement ş?
-?: .o .     N     _BUZZATI Dino                Et mˆme un conte de no‰l ! ş?
+!--- Le titre original donn‚ est "Paura alla Scala", 1958
+!--- 24 nouvelles extraites du recueil original (sauf les deux derniŠres semble-t-il...)
+- .o .     N24   _BUZZATI Dino                Panique … la Scala ş1958 Sessanta raconti şTrad. BREITMAN Michel
+: .o .     N     _BUZZATI Dino                Une ombre au sud ş1939 Ombra del sud
+: .o .     N     _BUZZATI Dino                La Mise … mort du dragon ş1939 L'uccisione del drago
+: .o .     N     _BUZZATI Dino                Une chose qui commence par un L ş1939 Una cosa che comincia per elle
+: .o .     N     _BUZZATI Dino                Panique … la Scala ! ş1948 Paura alla Scala
+: .o .     N     _BUZZATI Dino                La Fin du monde ş1944 La fine del mondo
+: .o .     N     _BUZZATI Dino                Quelques utiles indications … l'intention de deux authentiques gentilshommes (dont un d‚c‚d‚ de mort violente) ş1949 Qualche utile indicazione a due autentici gentiluomini (di cui uno deceduto di morte violenta)
+: .o .     N     _BUZZATI Dino                Requˆtes superflues ş1946 Inviti superflui
+: .o .     N     _BUZZATI Dino                Conte de No‰l ş1946 Racconto di Natale
+: .o .     N     _BUZZATI Dino                L'Enchantement de la nature ş1953 L'incantesimo della natura
+: .o .     N     _BUZZATI Dino                La Cit‚ personnelle ş1958 La citta personale
+: .o .     N     _BUZZATI Dino                La Course aprŠs le vent ş1955 La corsa dietro il vento
+: .o .     N     _BUZZATI Dino                Deux poids deux mesures ş1955 Due pesi due misure
+: .o .     N     _BUZZATI Dino                Les Pr‚cautions inutiles ş1955 Le precauzioni inutili
+: .o .     N     _BUZZATI Dino                Le Tyran malade ş1955 Il tiranno malato
+: .o .     N     _BUZZATI Dino                Le ProblŠme du stationnement ş1955 Il problema dei posteggi
+: .o .     N     _BUZZATI Dino                C'‚tait interdit ş1955 Era proibito
+: .o .     N     _BUZZATI Dino                L'Invincible ş1956 L'invincibile
+: .o .     N     _BUZZATI Dino                Une lettre d'amour ş1956 Una lettra d'amore
+: .o .     N     _BUZZATI Dino                Oeil pour oeil ş1956 Occhio per occhio
+: .o .     N     _BUZZATI Dino                Le Mot prohib‚ ş1956 La parola proibita
+: .o .     N     _BUZZATI Dino                La Peste automobilistique ş1956 La pesta motoria
+: .o .     N     _BUZZATI Dino                Une odeur de truffe ş? Odore di tartufo
+: .o .     N     _BUZZATI Dino                pouvantable vengeance d'un animal de compagnie ş? Spaventosa vendetta di un animale domestico
+: .o .     N     _BUZZATI Dino                Le Cuirass‚ Tod ş1956 La corazzata "Tod"
 o LAF_PAV     ?  1990.xx ..... ISBN 2-221-06999-4
 } noimg          _?                           ?
 - .o .    iNx    _BUZZATI Dino                Dino Buzzati : Toutes ses nouvelles - 1 - 1942-1966 ş1990
@@ -1323,7 +1444,7 @@ o LAF_PAV     ?  1996.xx ..... ISBN 2-221-07952-3
 : .o .     N     _ELLIS Bret Easton           Dans les Œles ş1994 In the Islands şTrad. WILLERVAL Bernard
 : .o .     N     _ELLIS Bret Easton           Immobile ş1994 Sitting Still şTrad. WILLERVAL Bernard
 : .o .     N     _ELLIS Bret Easton           Le Soleil ne donne pas d'eau ş1994 Water from the Sun şTrad. WILLERVAL Bernard
-: .o .     N     _ELLIS Bret Easton           A la d‚couverte du japon ş1994 Discovering Japan şTrad. WILLERVAL Bernard
+: .o .     N     _ELLIS Bret Easton           A la d‚couverte du Japon ş1994 Discovering Japan şTrad. WILLERVAL Bernard
 : .o .     N     _ELLIS Bret Easton           Lettres de Los Angeles ş1994 Letters from L.A. şTrad. WILLERVAL Bernard
 : .o .     N     _ELLIS Bret Easton           Une autre zone d'ombre ş1994 Another Gray Area şTrad. WILLERVAL Bernard
 : .o .     N     _ELLIS Bret Easton           Les Secrets de l'‚t‚ ş1994 The Secrets of Summer şTrad. WILLERVAL Bernard
@@ -1335,15 +1456,15 @@ o LAF_PAV     ?  1996.xx ..... ISBN 2-221-08086-6
 - .o .     R     _ACKROYD Peter               Le Golem de Londres ş1994 Dan Leno and the Limehouse Golem / Trial of Elizabeth Cree - A Novel of the Limehouse Murders şTrad. TURLE Bernard
 o LAF_PAV     ?  1998.xx ..... ISBN 2-221-08565-5
 } noimg          _?                           ?
-- .oF.    _N6    _BIOY CASARES Adolfo         La Trame c‚leste ş1998
-!---Tir‚s de : 1948, La trama celeste ; 1956, Historia prodigiosa
+- .oF.    _N6    _BIOY CASARES Adolfo         La Trame c‚leste ş1948 La trama celeste
+!--- BNF indique La trama celeste et Historia prodigiosa, mais aucun du second. Sauf le prologue ?
 : .o .     p     _BIOY CASARES Adolfo         Prologue ş? ?
-: .o .     N     _BIOY CASARES Adolfo         En m‚moire de Paulina ş1967 En memoria de Paulina
-: .o .     N     _BIOY CASARES Adolfo         Des rois futurs ş? ?
-: .o .     N     _BIOY CASARES Adolfo         L'Idole ş? ?
+: .o .     N     _BIOY CASARES Adolfo         En m‚moire de Paulina ş1948 En memoria de Paulina
+: .o .     N     _BIOY CASARES Adolfo         Des rois futurs ş1947 De los reyes futuros
+: .o .     N     _BIOY CASARES Adolfo         L'Idole ş1948 El ¡dolo
 : .o .     N     _BIOY CASARES Adolfo         La Trame c‚leste ş? La trama celeste
-: .o .     N     _BIOY CASARES Adolfo         L'Autre Labyrinthe ş? ?
-: .o .     N     _BIOY CASARES Adolfo         Le Parjure de la neige ş? ?
+: .o .     N     _BIOY CASARES Adolfo         L'Autre Labyrinthe ş1946 El otro laberinto
+: .o .     N     _BIOY CASARES Adolfo         Le Parjure de la neige ş1944 El perjurio de la nieve
 o LAF_PAV     ?  1998.xx ..... ISBN 2-221-08754-2
 } noimg          _?                           ?
 - .o .     R     _ACKROYD Peter               Un puritain au paradis ş1996 Milton in America şTrad. TURLE Bernard
@@ -1361,8 +1482,8 @@ o LAF_PAV     ?  2005.xx ..... ISBN 2-221-10411-0
 - .o .     R     _ELLIS Bret Easton           Lunar Park ş2005 Lunar Park şTrad. GUGLIELMINA Pierre
 o LAF_PAV     ?  2006.xx ..... ISBN 2-221-10617-2
 } noimg          _?                           ?
-- .oF.    iN49   _BUZZATI Dino                Nouvelles inquiŠtes ş2006 Le cronache fantastiche di Dino Buzzati şTrad. GACHET Delphine
 !--- S‚lection parmi le recueil original
+- .oF.    iNx    _BUZZATI Dino                Nouvelles inquiŠtes ş2006 Le cronache fantastiche di Dino Buzzati şTrad. GACHET Delphine
 : .o .     p     _GACHET Delphine             Pr‚face ş2006
 o LAF_PAV     ?  2009.01 ..... ISBN 978-2-221-10879-6
 } noimg          _?                           ?
@@ -1377,7 +1498,7 @@ o LAF_PAV     ?  2017.08 ..... ISBN 978-2-221-19209-2
 } noimg          _?                           ?
 - .oS.     R     _ATWOOD Margaret             C'est le coeur qui lƒche en dernier ş2015 The Heart Goes Last şTrad. ALBARET-MAATSCH MichŠle
 o LAF_PAV     ?  2018.04 ..... ISBN 978-2-221-19034-0
-} noimg          _?                           ?
+} rlafpav042018  _?                           ?
 - .oS.     A9    _ATWOOD Margaret             Neuf contes ş2014 Stone Mattress: Nine Tales şTrad. DUSOULIER Patrick
 : .oS.     N     _ATWOOD Margaret             Alphinland ş2014 Alphinland şTrad. DUSOULIER Patrick
 : .oS.     N     _ATWOOD Margaret             Revenante ş2014 Revenant şTrad. DUSOULIER Patrick
@@ -1392,9 +1513,9 @@ o LAF_PAV     ?  2018.04 ..... ISBN 978-2-221-19034-0
 
 
 !-----------------------------------------------------------------------------
-_ LAF_PAP Laffont, Coll. Pavillons Poche
-_ LAF_PPI Laffont, Coll. Pavillons Poche Imaginaire
-_ LAF_PPC Laffont, Coll. Pavillons Poche, Edition Collector
+_ LAF_PAP Laffont - Pavillons Poche
+_ LAF_PPI Laffont - Pavillons Poche Imaginaire
+_ LAF_PPC Laffont - Pavillons Poche, Edition Collector
 !-----------------------------------------------------------------------------
 !--- COLL : Pavillons Poche
 !-----------------------------------------------------------------------------
@@ -1459,6 +1580,10 @@ o LAF_PAP     ?  2011.10 ..... ISBN 978-2-221-12551-9
 + LAF_PAP     ?  2016.10 ..... ISBN 978-2-221-19568-0
 } noimg          _?                           ?
 - .oF.     R     _BLATTY William P.           L'Exorciste ş1971 The Exorcist şTrad. REMILLET Jacqueline
+o LAF_PPC     ?  2021.10 ..... ISBN 978-2-221-25803-3
+} noimg          _?                           ?
+!--- Poche - 120x180 - 560 pages
+- .oF.     R     _BLATTY William P.           L'Exorciste ş1971 The Exorcist şTrad. REMILLET Jacqueline
 o LAF_PAP     ?  2011.05 ..... ISBN 978-2-221-11727-9
 } noimg          _?                           ?
 + LAF_PAP     ?  2016.09 ..... ISBN 978-2-221-19312-9
@@ -1471,57 +1596,57 @@ o LAF_PAP     ?  2012.02 ..... ISBN 978-2-221-12977-7
 - .oF.     N50   _BUZZATI Dino                Bestiaire magique ş1991 Bestiario şTrad. BREITMAN Michel
 : .o .     p     _MARABINI Claudio            Pr‚face ş1991 ? şTrad. BREITMAN Michel
 : .C .     C     _BUZZATI Dino                PremiŠre partie - Nouvelles
-: .  .     N     _BUZZATI Dino                D‚molition de l'auberge ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Falstaff de la faune ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Un serpent de mer d‚sassorti ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                A sa place habituelle ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Boeuf vide ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Panique sur la riviŠre ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Une cr‚ature stup‚fiante ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Angoisses d'un chien de bord ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Loup ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                L'Exp‚rience d'Askania Nova ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Les Mouches ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Les Aigles ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le H‚ros ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le rˆve de l'agent municipal ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Eux aussi ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Un verrat ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Un chien progressiste ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                L'Opportuniste ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Tyrannosaurus Rex ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le D‚luge universel ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Secret de l'impr‚sario ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Les vieux amis s'en vont ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Puissance de la haine ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                L'Exp‚rimentation ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                La D‚faite ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Fauve motoris‚ ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                L'Arriviste ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Cas de conscience d'une sentinelle ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Parole de chimpanz‚ ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Les SorciŠres de la mer ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Une promenade en barque ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                La Terrible Lucietta ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Chien universel ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Bestiaire ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                La Construction de la tour ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                D‚molition de l'auberge ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Falstaff de la faune ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Un serpent de mer d‚sassorti ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                A sa place habituelle ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Boeuf vide ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Panique sur la riviŠre ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Une cr‚ature stup‚fiante ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Angoisses d'un chien de bord ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Loup ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                L'Exp‚rience d'Askania Nova ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Les Mouches ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Les Aigles ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le H‚ros ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le rˆve de l'agent municipal ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Eux aussi ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Un verrat ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Un chien progressiste ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                L'Opportuniste ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Tyrannosaurus Rex ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le D‚luge universel ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Secret de l'impr‚sario ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Les vieux amis s'en vont ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Puissance de la haine ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                L'Exp‚rimentation ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                La D‚faite ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Fauve motoris‚ ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                L'Arriviste ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Cas de conscience d'une sentinelle ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Parole de chimpanz‚ ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Les SorciŠres de la mer ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Une promenade en barque ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                La Terrible Lucietta ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Chien universel ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Bestiaire ş1971 Bestiario şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                La Construction de la tour ş? ? şTrad. BREITMAN Michel
 : .C .     C     _BUZZATI Dino                DeuxiŠme partie - Articles
-: .  .     a     _BUZZATI Dino                Une journ‚e de la poule z‚ro ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Le chien litt‚raire n'est guŠre inspir‚ aujourd'hui ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                "Reviens, petite L‚a !" ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Abattu sur le Quirinal ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Chiens et rŠglements ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Le pionnier ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                En lieu et place de La‹ka ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Mes chiens ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Les canaris existentialistes ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                L'adieu du petit singe ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                L'Einstein des chiens s'attendrit sur les chats ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                La petite guenon Toy peintre abstrait ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Un chien mordu par un homme ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Piti‚ pour le "monstre" ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Agonie et mort d'un pauvre chien ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Une journ‚e de la poule z‚ro ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Le chien litt‚raire n'est guŠre inspir‚ aujourd'hui ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                "Reviens, petite L‚a !" ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Abattu sur le Quirinal ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Chiens et rŠglements ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Le pionnier ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                En lieu et place de La‹ka ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Mes chiens ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Les canaris existentialistes ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                L'adieu du petit singe ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                L'Einstein des chiens s'attendrit sur les chats ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                La petite guenon Toy peintre abstrait ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Un chien mordu par un homme ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Piti‚ pour le "monstre" ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Agonie et mort d'un pauvre chien ş? ? şTrad. BREITMAN Michel
 o LAF_PAP     ?  2012.11 ..... ISBN 978-2-221-13355-2
 } noimg          _?                           ?
 + LAF_PAP     ?  2019.09 ..... ISBN 978-2-221-24284-1
@@ -1531,7 +1656,33 @@ o LAF_PAP     ?  2014.03 ..... ISBN 978-2-221-13535-8
 } noimg          _?                           ?
 + LAF_PAP     ?  2018.xx ..... ISBN 978-2-221-21939-3
 } noimg          _?                           ?
-- .o .    iN24   _BUZZATI Dino                Panique … la Scala ş1958 Sessanta raconti şTrad. BREITMAN Michel
+!--- Le titre original donn‚ est "Paura alla Scala", 1958
+!--- 24 nouvelles extraites du recueil original (sauf les deux derniŠres semble-t-il...)
+- .o .     N24   _BUZZATI Dino                Panique … la Scala ş1958 Sessanta raconti şTrad. BREITMAN Michel
+: .o .     N     _BUZZATI Dino                Une ombre au sud ş1939 Ombra del sud
+: .o .     N     _BUZZATI Dino                La Mise … mort du dragon ş1939 L'uccisione del drago
+: .o .     N     _BUZZATI Dino                Une chose qui commence par un L ş1939 Una cosa che comincia per elle
+: .o .     N     _BUZZATI Dino                Panique … la Scala ! ş1948 Paura alla Scala
+: .o .     N     _BUZZATI Dino                La Fin du monde ş1944 La fine del mondo
+: .o .     N     _BUZZATI Dino                Quelques utiles indications … l'intention de deux authentiques gentilshommes (dont un d‚c‚d‚ de mort violente) ş1949 Qualche utile indicazione a due autentici gentiluomini (di cui uno deceduto di morte violenta)
+: .o .     N     _BUZZATI Dino                Requˆtes superflues ş1946 Inviti superflui
+: .o .     N     _BUZZATI Dino                Conte de No‰l ş1946 Racconto di Natale
+: .o .     N     _BUZZATI Dino                L'Enchantement de la nature ş1953 L'incantesimo della natura
+: .o .     N     _BUZZATI Dino                La Cit‚ personnelle ş1958 La citta personale
+: .o .     N     _BUZZATI Dino                La Course aprŠs le vent ş1955 La corsa dietro il vento
+: .o .     N     _BUZZATI Dino                Deux poids deux mesures ş1955 Due pesi due misure
+: .o .     N     _BUZZATI Dino                Les Pr‚cautions inutiles ş1955 Le precauzioni inutili
+: .o .     N     _BUZZATI Dino                Le Tyran malade ş1955 Il tiranno malato
+: .o .     N     _BUZZATI Dino                Le ProblŠme du stationnement ş1955 Il problema dei posteggi
+: .o .     N     _BUZZATI Dino                C'‚tait interdit ş1955 Era proibito
+: .o .     N     _BUZZATI Dino                L'Invincible ş1956 L'invincibile
+: .o .     N     _BUZZATI Dino                Une lettre d'amour ş1956 Una lettra d'amore
+: .o .     N     _BUZZATI Dino                Oeil pour oeil ş1956 Occhio per occhio
+: .o .     N     _BUZZATI Dino                Le Mot prohib‚ ş1956 La parola proibita
+: .o .     N     _BUZZATI Dino                La Peste automobilistique ş1956 La pesta motoria
+: .o .     N     _BUZZATI Dino                Une odeur de truffe ş? Odore di tartufo
+: .o .     N     _BUZZATI Dino                pouvantable vengeance d'un animal de compagnie ş? Spaventosa vendetta di un animale domestico
+: .o .     N     _BUZZATI Dino                Le Cuirass‚ Tod ş1956 La corazzata "Tod"
 o LAF_PAP     ?  2015.06 ..... ISBN 978-2-221-18996-.
 } noimg          _?                           ?
 - .o .     R     _BOULGAKOV Mikha‹l           Le MaŒtre et Marguerite ş1940 Master i Margarita
@@ -1562,8 +1713,20 @@ o LAF_PAP     ?  2016.10 ..... ISBN 978-2-221-18907-8
 : .o .     N     _SILVERBERG Robert           Translation verticale [Les Monades urbaines] ş1971 All the Way Up, All the Way Down
 o LAF_PAP     ?  2016.10 ..... ISBN 978-2-221-12943-2
 } noimg          _?                           ?
-- .o .    iNx    _BIOY CASARES Adolfo         Nouvelles fantastiques ş1972 Doce Novelas fant sticas şTrad. ROSSET Fran‡oise-Marie
-: .o .     N     _BIOY CASARES Adolfo         Le Crime de Carlos Oribe ş? ?
+!--- TBC id Pavillons ? Mais BNF indique ici traduit, alors qu'en Pavillons indique "extraits de divers recueils..."
+- .o .     N11   _BIOY CASARES Adolfo         Nouvelles fantastiques ((Nouvelles fantastiques de Bioy Casares)) ş1972 Doce Novelas fant sticas şTrad. ROSSET Fran‡oise-Marie
+: .o .     N     _BIOY CASARES Adolfo         Le Crime de Carlos Oribe ş? El perjurio de la nieve / El Crimen de Oribe
+!--- - R‚cit des terribles et myst‚rieux ‚v‚nements qui survinrent … General Paz (district de Chubut) : - Relacion de terribles sucesos que se originaron misteriosamente en general Paz (gobernacion del Chubut)
+: .o .     N     _BIOY CASARES Adolfo         A la m‚moire de Pauline ş1948 En memoria de Paulina
+: .o .     N     _BIOY CASARES Adolfo         Une histoire extraordinaire ş? Historia prodigiosa
+: .o .     N     _BIOY CASARES Adolfo         La Servante d'un autre ş? La sierva ajena
+: .o .     N     _BIOY CASARES Adolfo         La Mouche et l'araign‚e ş? Moscas y ara¤as
+: .o .     N     _BIOY CASARES Adolfo         Le C“t‚ de l'ombre ş? El lado de la sombra
+: .o .     N     _BIOY CASARES Adolfo         Un lion dans le bois de Palermo ş? Un le¢n en el bosque de Palermo
+: .o .     N     _BIOY CASARES Adolfo         Le calmar aime bien son encre ş1962 El calamar opta por su tinta
+: .o .     N     _BIOY CASARES Adolfo         Le Grand S‚raphin ş?  El gran seraf¡n
+: .o .     N     _BIOY CASARES Adolfo         On ne rattrape pas les miracles ş? Los milagros no se recuperan
+: .o .     N     _BIOY CASARES Adolfo         Le Raccourci ş? El atajo
 o LAF_PPI     ?  2017.10 ..... ISBN 978-2-221-18927-6
 } noimg          _?                           ?
 - .oS.     R     _SILVERBERG Robert           Le Chƒteau de Lord Valentin [Majipoor - 1] ş1980 Lord Valentine's Castle şTrad. BERTHON Patrick
@@ -1590,7 +1753,7 @@ o LAF_PPI     ?  2018.06 ..... ISBN 978-2-221-18929-0
 - .oS.     R     _SILVERBERG Robert           Valentin de Majipoor [Majipoor - 3] ş1983 Valentine Pontifex şTrad. BERTHON Patrick & TOURLOURAT Marie-Laure
 o LAF_PAP     ?  2018.06 ..... ISBN 978-2-221-19786-8
 } noimg          _?                           ?
-- pF .    kR2    _BUZZATI Dino                B…rnabo des montagnes, suivi de Le Secret du Bosco Vecchio ş2018
+- .pF.    kR2    _BUZZATI Dino                B…rnabo des montagnes, suivi de Le Secret du Bosco Vecchio ş2018
 : .! .     R     _BUZZATI Dino                B…rnabo des montagnes ş1933 Barnabo delle montagne
 : .o .     R     _BUZZATI Dino                Le Secret du Bosco Vecchio ş1935 Il segreto del Bosco Vecchio
 o LAF_PAP     ?  2018.10 ..... ISBN 978-2-221-22105-1
@@ -1604,11 +1767,11 @@ o LAF_PAP     ?  2018.10 ..... ISBN 978-2-221-22105-1
 ?- .oF.    _N6    _BIOY CASARES Adolfo         La Trame c‚leste ş1998
 ?!---Tir‚s de : 1948, La trama celeste ; 1956, Historia prodigiosa
 ?: .o .     p     _BIOY CASARES Adolfo         Prologue ş? ? şTrad. ?
-?: .o .     N     _BIOY CASARES Adolfo         En m‚moire de Paulina ş1967 En memoria de Paulina şTrad. JIMENEZ Eduardo
+?: .o .     N     _BIOY CASARES Adolfo         En m‚moire de Paulina ş1948 En memoria de Paulina şTrad. JIMENEZ Eduardo
 ?: .o .     N     _BIOY CASARES Adolfo         Des rois futurs ş? ? şTrad. JIMENEZ Eduardo
 ?: .o .     N     _BIOY CASARES Adolfo         L'Idole ş? ? şTrad. JIMENEZ Eduardo
 ?: .o .     N     _BIOY CASARES Adolfo         La Trame c‚leste ş? La trama celeste şTrad. JIMENEZ Eduardo
-: .o .     N     _BIOY CASARES Adolfo         L'Autre Labyrinthe ş? ? şTrad. JIMENEZ Eduardo
+?: .o .     N     _BIOY CASARES Adolfo         L'Autre Labyrinthe ş? ? şTrad. JIMENEZ Eduardo
 ?: .o .     N     _BIOY CASARES Adolfo         Le Parjure de la neige ş? ? şTrad. JIMENEZ Eduardo
 o LAF_PAP     ?  2018.10 ..... ISBN 978-2-221-22112-9
 } noimg          _?                           ?
@@ -1620,7 +1783,10 @@ o LAF_PAP     ?  2019.01 ..... ISBN 978-2-221-24056-4
 } noimg          _?                           ?
 - .o .     R     _BOULGAKOV Mikha‹l           Le MaŒtre et Marguerite ş1940 Master i Margarita şTrad. LIGNY Claude
 o LAF_PAP     ?  2019.04 ..... ISBN 978-2-221-24092-2
-} noimg          _?                           ?
+} rlafpavp042019 _?                           ?
++ LAF_PAP     ?  2021.05 ..... ISBN 978-2-221-25459-2
+} rlafpavp052021_2 _?                           ?
+!--- Poche - 120x180 - 432 pages
 - .oS.     A9    _ATWOOD Margaret             Neuf contes ş2014 Stone Mattress: Nine Tales şTrad. DUSOULIER Patrick
 : .oS.     N     _ATWOOD Margaret             Alphinland ş2014 Alphinland şTrad. DUSOULIER Patrick
 : .oS.     N     _ATWOOD Margaret             Revenante ş2014 Revenant şTrad. DUSOULIER Patrick
@@ -1642,11 +1808,23 @@ o LAF_PPI     ?  2019.10 ..... ISBN 978-2-221-18931-3
 - .oS.     R     _SILVERBERG Robert           Shadrak dans la fournaise ş1976 Shadrach in the Furnace şTrad. LOUIT Robert
 o LAF_PPI     ?  2019.10 ..... ISBN 978-2-221-18932-0
 } noimg          _?                           ?
-- .oS.     R     _SILVERBERG Robert           Roma Aeterna ş2003 Roma Aeterna şTrad. CHAMBON Jean-Marc
+!--- Fix-up de nouvelles modifi‚es par rapport … leur parution initiale.
+- .oS.     U     _SILVERBERG Robert           Roma Aeterna ş2003 Roma Aeterna şTrad. CHAMBON Jean-Marc
 o LAF_PAP     ?  2020.01 ..... ISBN 978-2-221-24994-9
 } noimg          _Jean Renaudat               ?
 !--- Poche - 550 pages - 
-- .o .     R     _ATWOOD Margaret             La Servante ‚carlate [La Servante ‚carlate - 1] ş1986 The Handmaid's Tale şTrad. ALBARET-MAATSCH MichŠle
++ LAF_PAP     ?  2021.01 ..... ISBN 978-2-221-24994-9
+} noimg          _Jo‰l Renaudat               ?
+!--- Poche - 120 x 180 - 547 pages
+- .oS.     R     _ATWOOD Margaret             La Servante ‚carlate [La Servante ‚carlate - 1] ş1986 The Handmaid's Tale şTrad. ALBARET-MAATSCH MichŠle
+o LAF_PAP     ?  2021.05 ..... ISBN 978-2-221-25454-7
+} noimg          _?                           ?
+!--- Poche - 120x180 - 672 pages
+- .oS.     R     _ATWOOD Margaret             Les Testaments [La Servante ‚carlate - 2] ş2019 The Testaments şTrad. ALBARET-MAATSCH MichŠle
+o LAF_PAP     ?  2021.10 ..... ISBN 978-2-221-25804-0
+} noimg          _?                           ?
+!--- Poche - 140x200 - 464 pages
+- .oS.     R     _BURGESS Anthony             La Folle Semence ş1962 The Wanting Seed şTrad. BELMONT Georges & CHABRIER Hortense
 
 
 
@@ -1654,7 +1832,7 @@ o LAF_PAP     ?  2020.01 ..... ISBN 978-2-221-24994-9
 !DEB_HEAD LAF_ETR
 !TIT_COLL L'‚trange
 !-----------------------------------------------------------------------------
-_ LAF_ETR Robert Laffont, Coll. "L'‚trange"
+_ LAF_ETR Robert Laffont - L'‚trange
 !-----------------------------------------------------------------------------
 !--- Collection trŠs brŠve, 4 volumes, tous parus en 1956. Cette collection de
 !--. de fantastique souhaitait r‚unir "des romans qui baignent dans une atmosphŠre
@@ -1685,7 +1863,7 @@ o LAF_ETR     4i 1956.xx ..... ISBN -
 !DEB_HEAD LAF_AGE
 !TIT_COLL L'Age des Etoiles
 !-----------------------------------------------------------------------------
-_ LAF_AGE Laffont, Coll. L'age des ‚toiles ş1977-1979
+_ LAF_AGE Laffont - L'age des ‚toiles ş1977-1979
 !-----------------------------------------------------------------------------
 !--- Une collection pour adolescents, m‚lange de classiques (Robert Silverberg,
 !--. Robert Heinlein, Michel Jeury) et d'ouvrages sp‚cifiques (Michel Grimaud, Christian Grenier).
@@ -1716,7 +1894,7 @@ o LAF_AGE     5  1977.xx ..... ISBr .-.....-...-.
 - .oS.     R     _JEURY Michel                Le Sablier vert ş1977
 o LAF_AGE     6  1977.xx ..... ISBr 2-221-03332-9
 } age06_01       _Jacques Tardi               ?
-- .oS.     R     _NORTON Andr‚                La PlanŠte des ours ş1974 Iron Cage şTrad. TATE Iawa
+- .oS.     R     _NORTON Andre                La PlanŠte des ours ş1974 Iron Cage şTrad. TATE Iawa
 o LAF_AGE     7  1978.xx ..... ISBr 2-221-02501-6
 } age07_01       _Jean-Claude M‚ziŠres        ?
 - .oS.     R     _GRIMAUD Michel              L'Œle sur l'oc‚an nuit ş1978
@@ -1736,7 +1914,7 @@ o LAF_AGE    11  1979.02 R.... ISBN 2-221-00247-4
 !FIN_COLL LAF_AGE
 
 !-----------------------------------------------------------------------------
-_ LAFBOUQ Laffont, Coll. Bouquins
+_ LAFBOUQ Laffont - Bouquins
 !-----------------------------------------------------------------------------
 !---                   Robert Laffont - Bouquins
 !-----------------------------------------------------------------------------
@@ -1746,7 +1924,7 @@ o LAFBOUQ     ?  1984.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .    pRx    _STEVENSON Robert Louis      Robert Louis Stevenson : Oeuvres choisies ş1984
 : .x .     R     _STEVENSON Robert Louis      L'Œle au tr‚sor ş1883 Treasure Island
-: .x .     R     _STEVENSON Robert Louis      Le MaŒtre de Ballantrae ş1889 The Master of Ballentrae
+: .x .     R     _STEVENSON Robert Louis      Le MaŒtre de Ballantrae ş1889 The Master of Ballantrae
 : .x .     R     _STEVENSON Robert Louis      Enlev‚ ! ş1886 Kidnapped
 : .x .     R     _STEVENSON Robert Louis      Catriona ş1893 Catriona
 : .x .     R     _STEVENSON Robert Louis      Veill‚es des Œles ş1894 Island's Night Entertainements
@@ -1775,21 +1953,29 @@ o LAFBOUQ     ?  1985.xx ..... ISBN .-.....-...-.
 : .oZ.     R     _ROSNY AINE J.-H.            Nomai ş1897
 : .oS.     N     _ROSNY AINE J.-H.            Les Xip‚huz ş1887
 : .o .     N     _ROSNY AINE J.-H.            Les Hommes sangliers ş1929
-o LAFBOUQ     ?  1985.xx ..... ISBN .-.....-...-.
+o LAFBOUQ     ?  1985.xx ..... ISBN 2-221-04659-5
 } noimg          _?                           ?
-- .o .    cR5    _HAGGARD H. Rider            Elle-qui-doit-ˆtre-ob‚ie ş?
-: .o .     R     _HAGGARD H. Rider            Elle ou la source de feu ş1887 She
+- .oF.    kR5    _HAGGARD H. Rider            Elle-qui-doit-ˆtre-ob‚ie [She] ş1985
+: .o .     p     _LACASSIN Francis            Pr‚face ş1985
+: .o .     R     _HAGGARD H. Rider            Elle ou la source de feu [She - 1] ş1886 She
 : .o .     R     _HAGGARD H. Rider            Le Retour d'elle [She - 2] ş1905 Ayesha or the Return of She
 : .o .     R     _HAGGARD H. Rider            La Fille de la sagesse [She - 4] ş1923 Wisdom's Daughter
 : .o .     R     _HAGGARD H. Rider            Les Mines du roi Salomon [Aventures d'Allan Quatermain] ş1885 King Solomon's Mines
 : .o .     R     _HAGGARD H. Rider            Elle et Allan Quatermain [She - 3]+[Aventures d'Allan Quatermain] ş1921 She and Allan
+: .o .     a     _HAGGARD H. Rider            Mes d‚buts dans le roman d'aventures fabuleuses ("extrait de : The Days of my Life) ş1926 The Days of My Life
+: .o .     a     _HAGGARD H. Rider            Les v‚ritables "Mines du roi Salomon" ş1907 The Real King Solomon's Mines
+: .o .     a     _HAGGARD H. Rider            Au bord d'un oc‚an fant“me... ("extrait de : The Days of my Life) ş1926 The Days of My Life
+: .o .     a     _LACASSIN Francis            Kipling et Rider Haggard : une collaboration secrŠte ş1985
+: .o .     a     _BENOIT Pierre               Non, "L'Atlantide" n'est pas un plagiat de "Elle" ş1985
+: .o .     a     _LACASSIN Francis            Bibliographie ş1985
+: .o .     a     _ROMER Jean-Claude           H. Rider Haggard … l'‚cran ş1985
 o LAFBOUQ     ?  1986.xx ..... ISBN 2-221-05148-3
 } noimg          _?                           ?
 - .pS.    kRx    _LE ROUGE Gustave           &Le Myst‚rieux Docteur Corn‚lius - Le Prisonnier de la planŠte Mars - La Guerre des vampires - L'Espionne du Grand Lama - Cinq nouvelles retrouv‚es - Les PoŠmes du docteur Corn‚lius ş1986
 &                *LACASSIN Francis            
 : .oS.    kr18   _LE ROUGE Gustave            Le Myst‚rieux Docteur Corn‚lius [Le Myst‚rieux Docteur Corn‚lius - 1/18] ş1986
 = .o .     p     _LACASSIN Francis            Cornelius ou Fant“mas racont‚ par Bernardin de Saint-Pierre ş1966
-= .o .     a     _LACASSIN Francis            R‚pertoire des personnages ş?
+= .o .     a     _LACASSIN Francis            R‚pertoire des personnages ş1986
 = .o .     r     _LE ROUGE Gustave            L'nigme du Creek sanglant [Le Myst‚rieux Docteur Corn‚lius - 1] ş1912
 = .o .     r     _LE ROUGE Gustave            Le Manoir aux diamants [Le Myst‚rieux Docteur Corn‚lius - 2] ş1912
 = .o .     r     _LE ROUGE Gustave            Le Sculpteur de chair humaine [Le Myst‚rieux Docteur Corn‚lius - 3] ş1912
@@ -1812,13 +1998,12 @@ o LAFBOUQ     ?  1986.xx ..... ISBN 2-221-05148-3
 : .o .     R     _LE ROUGE Gustave            Le Prisonnier de la planŠte Mars [Robert Darvel - 1] ş1908
 : .o .     R     _LE ROUGE Gustave            La Guerre des vampires [Robert Darvel - 2] ş1909
 : .o .     R     _LE ROUGE Gustave            L'Espionne du Grand Lama ş1905
-!--- .     N5    _LE ROUGE Gustave            Cinq nouvelles retrouv‚es ş1986
+: .C .     C     _LE ROUGE Gustave            Cinq nouvelles retrouv‚es ş1986
 : .o .     N     _LE ROUGE Gustave            Spectre seul ş1892
 : .o .     N     _LE ROUGE Gustave            Notre-Dame la guillotine ş1893
 : .o .     N     _LE ROUGE Gustave            Le Spectre rouge ş1895
 : .o .     N     _LE ROUGE Gustave            Le Navire de Jules C‚sar ş1896
 : .o .     N     _LE ROUGE Gustave            Dans le ventre d'Huitzilopochtli ş1924
-!--- Les PoŠmes
 : .o .     p     _LACASSIN Francis            Une apologie de l'infra-litt‚rature ş1986
 ! .! .     P     _LE ROUGE Gustave            Les PoŠmes du docteur Corn‚lius ş1986
 ! .! .     P     _LE ROUGE Gustave            West ş?
@@ -1847,20 +2032,20 @@ o LAFBOUQ     ?  1987.xx ..... ISBN .-.....-...-.
 : .o .     R     _LONDON Jack                 Trois coeurs ş1916 Hearts of Three
 : .o .     R     _LONDON Jack                 Le Vagabond des ‚toiles ş1915 The Star Rover
 : .! .     R     _LONDON Jack                 Le Bureau des assassinats ş? The Assassination Bureau, Ltd.
-: .o .    kN9    _LONDON Jack                 Le Dieu tomb‚ du ciel ş1975
-= .o .     N     _LONDON Jack                 L'ternit‚ des formes ş1911 The Eternity of Forms
+: .oS.    kN9    _LONDON Jack                 Le Dieu tomb‚ du ciel ş1975
+= .o .     N     _LONDON Jack                 L'ternit‚ des formes ş1911 The Eternity of Forms / The Dead Do Not Come Back
 = .o .     N     _LONDON Jack                 Qui croit encore aux fant“mes ? ş1895 Who Believes in Ghosts?
+= .x .     N     _LONDON Jack                 Les morts ne reviennent jamais ş1909 That Dead Men Rise Up Never şTrad. ?
 = .oF.     N     _LONDON Jack                 Le Mort qui tue ş1906 Planchette
-?: .oF.     a     _LONDON Jack                 Les morts ne reviennent jamais ş? ?
 = .oF.     N     _LONDON Jack                 L'Ombre et la chair ş1903 The Shadow and the Flash
 = .oF.     N     _LONDON Jack                 Mille fois mort ş1899 A Thousand Deaths
 = .oF.     N     _LONDON Jack                 La Seconde Jeunesse du major Rathbone ş1899 The Rejuvenation of Major Rathbone
 = .o .     N     _LONDON Jack                 Quand le monde ‚tait jeune ş1910 When the World Was Young
 = .o .     N     _LONDON Jack                 Un survivant de la pr‚histoire ş1901 A Relic of the Pliocene
 = .o .     N     _LONDON Jack                 Le Dieu tomb‚ du ciel ş1918 The Red One
-: .o .    kRN4   _LONDON Jack                 Histoires des siŠcles futurs ş1974
+: .oS.    kRN4   _LONDON Jack                 Histoires des siŠcles futurs ş1974
 = .o .     N     _LONDON Jack                 L'Ennemi du monde entier ş1908 The Enemy of All the World
-= .o .     N     _LONDON Jack                 L'Invasion sans pareille ş1910 The Unparallaled Invasion
+= .o .     N     _LONDON Jack                 L'Invasion sans pareille ş1910 The Unparalleled Invasion
 = .o .     N     _LONDON Jack                 Goliath ş1910 Goliah
 = .o .     N     _LONDON Jack                 Un curieux fragment ş1908 A Curious Fragments
 = .o .     r     _LONDON Jack                 La Peste ‚carlate ş1912 The Scarlet Plague
@@ -1915,7 +2100,7 @@ o LAFBOUQ     ?  1988.xx ..... ISBN .-.....-...-.
 ?- .o .     Nx    _KIPLING Rudyard             Tome 2 ş?
 !--- contient plusieurs recueils dont "Au hasard la vie"
 ?: .o .     N     _KIPLING Rudyard             Le Rickshaw fant“me ş1885 The Phantom Rickshaw
-?: .o .     N     _KIPLING Rudyard             Le Retour d'Imray ş? ?
+?: .x .     N     _KIPLING Rudyard             Le Retour d'Imray ş1891 The Return of Imray şTrad. FABULET Louis et AUSTIN-JACKSON Arthur
 ?: .o .     N     _KIPLING Rudyard             La Marque de la bˆte ş1890 The Mark of the Beast
 ?: .o .     N     _KIPLING Rudyard             La Cit‚ de l'‚pouvantable nuit ş? ?
 o LAFBOUQ     ?  1984.xx ..... ISBN 2-221-04257-3
@@ -1942,14 +2127,14 @@ o LAFBOUQ     ?  1990.02 ..... ISBN 2-221-06671-5
 : .o .     N     _SALTREY H. de               Le Purgatoire de Saint-Patrick ş1188 Tractatus De Purgatorio Sancti Patricii şAdapt. MARCHAND Jean
 : .o .     N     _--- (anonyme)               La Vision d'Alb‚ric ş1127 ? şAdapt. MARCHAND Jean
 : .o .     R     _MORUS Thomas                L'Utopie ş1518 Utopia şTrad. STOUVENEL Victor
-: .o .     R     _CAMPANELLA Tommaso          La Cit‚ du Soleil ou id‚e d'une r‚publique philosophique ş1623 Civitas solis şTrad. ROSSET Jules
+: .o .     R     _CAMPANELLA Tommaso          La Cit‚ du Soleil ou id‚e d'une r‚publique philosophique ş1602 La citt… del Sole şTrad. ROSSET Jules
 : .o .     R     _CYRANO DE BERGERAC Savinien L'Autre Monde : les ‚tats et empires de la Lune et du Soleil ş1657
 : .o .     R     _BUNYAN John                 Le Voyage du p‚lerin, de ce monde … celui qui doit venir ş1678 The Pilgrim's Progress, from This World to That Which Is to Come şTrad. MAERKY-RICHARD S.
 : .o .     R     _SWIFT Jonathan              Voyages de Gulliver dans des contr‚es lointaines ş1726 Gulliver's Travels
 : .o .     N     _--- (anonyme)               Le Passage du p“le arctique au p“le antarctique par le centre du monde ş1722
 : .o .     R     _TIPHAIGNE DE LA ROCHE C.-F. Giphantie ş1760
 : .o .     R     _RESTIF DE LA BRETONNE N. E. La D‚couverte australe par un homme-volant, ou le d‚dale fran‡ais ş1781
-o LAFBOUQ     ?  1989.xx ..... ISBN .-.....-...-.
+o LAFBOUQ     ?  1989.xx ..... ISBN 2-221-05630-2
 } noimg          _?                           ?
 - .o .    pRNx   _DOYLE Arthur Conan          Les Exploits du Pr Challenger et autres aventures ‚tranges ş1989
 : .o .     R     _DOYLE Arthur Conan          Le Monde perdu [Le Professeur Challenger] ş1912 The Lost World
@@ -1958,7 +2143,7 @@ o LAFBOUQ     ?  1989.xx ..... ISBN .-.....-...-.
 : .o .     N     _DOYLE Arthur Conan          Quand la Terre hurla [Le Professeur Challenger] ş1928 When the World Screamed
 : .o .     R     _DOYLE Arthur Conan          Au pays des brumes [Le Professeur Challenger] ş1925 The Land of Mist
 : .o .     R     _DOYLE Arthur Conan          Le Monde perdu sous la mer ş1928 The Maracot Deep şTrad. ?
-: .pFT    kN6    _DOYLE Arthur Conan          Contes de terreur ş1959
+: .pFT    kN6    _DOYLE Arthur Conan          Contes de terreur ş1922 Tales of Terror and Mystery
 = .oF.     N     _DOYLE Arthur Conan          L'Horreur du plein ciel ş1913 The Horror of the Heights şTrad. TOURVILLE Bernard
 = .o .     N     _DOYLE Arthur Conan          L'Entonnoir de cuir ş1902 The Leather Funnel
 = .oT.     N     _DOYLE Arthur Conan          De nouvelles catacombes ş1898 The New Catacombs şTrad. TOURVILLE Bernard
@@ -1966,7 +2151,7 @@ o LAFBOUQ     ?  1989.xx ..... ISBN .-.....-...-.
 = .oF.     N     _DOYLE Arthur Conan          Le Trou du Blue John ş1910 The Terror of Blue John Gap
 = .! .     N     _DOYLE Arthur Conan          Le Chat br‚silien ş1898 The Story of the Brazilian Cat
 : .pF.    kN12   _DOYLE Arthur Conan          Contes de cr‚puscule ş1922 Tales of Twilight an the Unseen
-= .oF.     N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand şTrad. VIGNEAUX Pierre
+= .oF.     N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand / The Brown Hand şTrad. VIGNEAUX Pierre
 = .! .     N     _DOYLE Arthur Conan          Le Professeur de Lea House ş1899 The Story of the Latin Tutor / The Usher of Lea House School
 = .! .     N     _DOYLE Arthur Conan          B. 24 ş1899 B. 24
 = .oF.     N     _DOYLE Arthur Conan          La Grande Exp‚rience de Keinplatz ş1885 The Great Keinplatz Experiment şTrad. VIGNEAUX Pierre
@@ -1977,28 +2162,28 @@ o LAFBOUQ     ?  1989.xx ..... ISBN .-.....-...-.
 = .oF.     N     _DOYLE Arthur Conan          Comment la chose arriva ş1913 How It Happened şTrad. VIGNEAUX Pierre
 = .oF.     N     _DOYLE Arthur Conan          Le Lot nø 249 ş1892 Lot Nø 249 şTrad. VIGNEAUX Pierre
 = .oF.     N     _DOYLE Arthur Conan          De profundis ş1892 De Profundis
-= .! .     N     _DOYLE Arthur Conan          L'Ascenseur ş1922 The Lift
-: .o .    iN6    _DOYLE Arthur Conan          Contes d'aventures ş1958
-?= .o .     N     _DOYLE Arthur Conan          Les D‚buts du Bimbashi Joyce ş1900 The Debut of Bimbashi Joyce
+= .o .     N     _DOYLE Arthur Conan          L'Ascenseur ş1922 The Lift
+: .o .     N6    _DOYLE Arthur Conan          Contes d'aventures ş1922 Tales of Adventure and Medical Life
+= .? .     N     _DOYLE Arthur Conan          Les D‚buts du Bimbashi Joyce ş1900 The Debut of Bimbashi Joyce
 = .o .     N     _DOYLE Arthur Conan          Le M‚decin du Gaster Fell ş1918 The Surgeon of Gaster Fell
-?= .o .     N     _DOYLE Arthur Conan          ScŠnes de Borrow ş1913 Borrowed Scenes
+= .? .     N     _DOYLE Arthur Conan          ScŠnes de Borrow ş1913 Borrowed Scenes
 = .o .     N     _DOYLE Arthur Conan          L'Homme d'Arkhangelsk ş1889 The Man from Archangel
 = .oS.     N     _DOYLE Arthur Conan          Le Grand Moteur Brown-Pericord ş1905 The Great Brown-Pericord Motor şTrad. ?
 = .o .     N     _DOYLE Arthur Conan          La Chambre scell‚e ş1898 The Sealed Room
 : .o .     R     _DOYLE Arthur Conan          La Trag‚die du Korosko ş1898 The Tragedy of the Korosko
-: .o .    iN6    _DOYLE Arthur Conan          Contes de l'eau bleue ş?
+: .oF.     N6    _DOYLE Arthur Conan          Contes de l'eau bleue ş1922 Tales of Pirates and Blue Water
 = .o .     N     _DOYLE Arthur Conan          Le Coffre … raies ş1897 The Striped Chest şTrad. TOURVILLE Bernard
-= .o .     N     _DOYLE Arthur Conan          Le Capitaine de l'Etoile Polaire ş1883 The Captain of the Polestar şTrad. TOURVILLE Bernard
-= .! .     N     _DOYLE Arthur Conan          Le D‚mon de la tonnellerie ş1897 The Fiend of the Cooperage şTrad. TOURVILLE Bernard
+= .o .     N     _DOYLE Arthur Conan          Le Capitaine de la Polestar ş1883 The Captain of the Polestar şTrad. TOURVILLE Bernard
+= .x .     N     _DOYLE Arthur Conan          Le D‚mon de la tonnellerie ş1897 The Fiend of the Cooperage şTrad. TOURVILLE Bernard
 = .o .     N     _DOYLE Arthur Conan          Le Voyage de Jelland ş1892 Jelland's Voyage şTrad. TOURVILLE Bernard
-?= .o .     N     _DOYLE Arthur Conan          D‚position de J. Hababuk Jephson ş1884 J. Habakuk Jephson's Statement şTrad. TOURVILLE Bernard
-?= .o .     N     _DOYLE Arthur Conan          La Petite BoŒte carr‚e ş1881 That Little Square Box şTrad. TOURVILLE Bernard
-: .o .    iN6    _DOYLE Arthur Conan          Contes de pirates ş?
-?= .o .     N     _DOYLE Arthur Conan          Le Gouverneur de Saint Kitt [Le Capitaine Sharkey] ş1897 The Governor of St. Kitt's / How the Governor of St. Kitt's Came Home / Captain Sharkey
+= .o .     N     _DOYLE Arthur Conan          D‚position de J. Habaluk Jephson ş1884 J. Habakuk Jephson's Statement şTrad. TOURVILLE Bernard
+= .o .     N     _DOYLE Arthur Conan          Cette petite boŒte carr‚e ş1881 That Little Square Box şTrad. TOURVILLE Bernard
+: .o .    iNx    _DOYLE Arthur Conan          Contes de pirates ş1922
+?= .o .     N     _DOYLE Arthur Conan          Le Gouverneur de Saint Kitts [Le Capitaine Sharkey] ş1897 The Governor of St. Kitt's / How the Governor of St. Kitt's Came Home / Captain Sharkey
 ?= .o .     N     _DOYLE Arthur Conan          Les Rapports du capitaine Sharkey avec Stephen Craddock [Le Capitaine Sharkey] ş1897 The Two Barques / The Two Barks / The Dealing of Captain Sharkey With Stephen Craddock
 ?= .o .     N     _DOYLE Arthur Conan          La Fl‚trissure de Sharkey [Le Capitaine Sharkey] ş1911 The Blighting of Sharkey
 ?= .o .     N     _DOYLE Arthur Conan          Comment Copley Banks extermina le capitaine Sharkey [Le Capitaine Sharkey] ş1897 The Voyage of Copley Banks / How Copley Banks Slew Captain Sharkey
-?= .? .     N     _DOYLE Arthur Conan          La Claquante ş1893 The Slapping Sail
+?= .? .     N     _DOYLE Arthur Conan          La Claquante ş1893 The Slapping Sal
 = .o .     N     _DOYLE Arthur Conan          Un pirate de la terre ş1911 One Crowded Hour
 o LAFBOUQ     ?  1990.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -2007,17 +2192,17 @@ o LAFBOUQ     ?  1990.xx ..... ISBN .-.....-...-.
 : .! .     R     _DOYLE Arthur Conan          L'Oncle Bernac ş1897 Uncle Bernac
 : .! .     R     _DOYLE Arthur Conan          Les Aventures du brigadier G‚rard ş1903 The Adventures of Gerard
 : .! .     R     _DOYLE Arthur Conan          La Grande Ombre ş1892 The Great Shadow
-: .o .    iNx    _DOYLE Arthur Conan          Contes du camp ş1958
-: .! .     R     _DOYLE Arthur Conan          Les R‚fugi‚s ş1893 The Refugees
-: .o .    iNx    _DOYLE Arthur Conan          Contes d'autrefois ş?
-: .o .    iNx    _DOYLE Arthur Conan          Contes du ring ş?
-: .o .    iNx    _DOYLE Arthur Conan          Contes de m‚decins ş?
-: .o .    iNx    _DOYLE Arthur Conan          Contes de mystŠre ş?
+: .o .    iNx    _DOYLE Arthur Conan          Contes du camp ş1922 Tales of the Ring and Camp
+: .x .     R     _DOYLE Arthur Conan          Les R‚fugi‚s ş1893 The Refugees
+: .o .    iNx    _DOYLE Arthur Conan          Contes d'autrefois ş1922 Tales of Long Ago
+: .o .    iNx    _DOYLE Arthur Conan          Contes du ring ş1922 Tales of the Ring and Camp
+: .o .    iNx    _DOYLE Arthur Conan          Contes de m‚decins ş1922 Tales of Adventure and Medical Life
+: .o .    iNx    _DOYLE Arthur Conan          Contes de mystŠre ş1922 Tales of Terror and Mystery
 o LAFBOUQ     ?  1982.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .p .     R8N19 _DOYLE Arthur Conan          In‚dits et introuvables ş1982
 : .o .     R     _DOYLE Arthur Conan          Le MystŠre de Cloomber ş1889 The Mystery of Cloomber
-: .! .     r     _DOYLE Arthur Conan          L'Oncle J‚r‚mie et les siens ş1886 Uncle Jeremy's Household
+: .x .     N     _DOYLE Arthur Conan          L'Oncle J‚r‚mie et les siens ş1886 Uncle Jeremy's Household
 : .o .    iNx    _DOYLE Arthur Conan          MystŠres et aventures ş?
 : .o .    iNx    _DOYLE Arthur Conan          Autres mystŠres et aventures ş?
 : .oF.     r     _DOYLE Arthur Conan          Le Parasite ş1894 The Parasite
@@ -2038,26 +2223,29 @@ o LAFBOUQ     ?  1989.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + LAFBOUQ     ?  2010.02 ..... ISBN 978-2-221-11528-2
 } noimg          _?                           ?
-- .o .    cR5    *LACASSIN Francis            Les ‚vad‚s des t‚nŠbres ş1989
 !--- Pr‚face : PAPY Jacques
+!--- TBC Le Golem : ou Trad. MEUNIER Denise
+- .o .    cR5    *LACASSIN Francis            Les ‚vad‚s des t‚nŠbres ş1989
 : .o .     R     _RADCLIFFE Ann               Les MystŠres du chƒteau d'Udolphe ş1794 The Mysteries of Udolpho şTrad. ?
 : .o .     R     _SHELLEY Mary                Frankenstein ou le Prom‚th‚e ş1818 Frankenstein or the Modern Prometheus şTrad. PAPY Jacques
 : .o .     r     _LE FANU J. Sheridan         Carmilla [Le Dr. Hesselius] ş1871 Carmilla şTrad. PAPY Jacques
 : .o .     R     _STOKER Bram                 Dracula ş1897 Dracula şTrad. PAPY Jacques
 : .o .     R     _MEYRINK Gustav              Le Golem ş1915 Der golem şTrad. PAPY Jacques
-!--- TBC : ou şTrad. MEUNIER Denise
 o LAFBOUQ     ?  1990.xx ..... ISBN .-.....-...-.
 } laffont_renard _?                           ?
+!--- Le MaŒtre de la lumiŠre : En 54 feuilletons quotidiens dans L'intrangiseant, mars … mai 33, puis publi posthume en volume en 1947
+!--- N12 Contes des Mille et un Matins : Collection posthume de contes et nouvelles choisis par Lacassin et Tulaud
+!--- TBC si identifi‚ comme section dans l'ouvrage
+!--- Titre d'origine de Monsieur d'Outremort : Monsieur d'Outremort et autres histoires singuliŠres
+!--- Paru aussi sous "Suite fantastique (M. d'Outremort)" en 1921 chez georges CrŠs et Co. (coll. litt‚raire des romans d'aventures)
 - .oF.    _RxNx  _RENARD Maurice              Romans et contes fantastiques ş1990
 : .oF.    _N3    _RENARD Maurice              Fant“mes et fantoches ş1905
-= .o .     N     _RENARD Maurice              Le Lapidaire ş1905
+= .o .     r     _RENARD Maurice              Le Lapidaire ş1905
 = .o .     N     _RENARD Maurice              La Fˆlure ş1905
 = .o .     N     _RENARD Maurice              Le Bourreau de Dieu ş1905
 : .oST     R     _RENARD Maurice              Le Docteur Lerne, sous-dieu ş1908
 : .o .     R     _RENARD Maurice              Le P‚ril bleu ş1910
 : .o .    _N5    _RENARD Maurice              M. d'Outremort ş1913
-!--- TO : Monsieur d'Outremort et autres histoires singuliŠres.
-!--- Paru aussi sous "Suite fantastique (M. d'Outremort)" en 1921 chez georges CrŠs et Co. (coll. litt‚raire des romans d'aventures)
 = .o .     N     _RENARD Maurice              M. d'Outremort, un gentilhomme physicien ş1913
 = .o .     N     _RENARD Maurice              La Cantatrice ş1912
 = .o .     N     _RENARD Maurice              L'Homme au corps subtil ş1912
@@ -2071,9 +2259,6 @@ o LAFBOUQ     ?  1990.xx ..... ISBN .-.....-...-.
 : .o .     R     _RENARD Maurice              Un homme chez les microbes ş1928
 : .o .     N     _RENARD Maurice              Le Professeur Krantz ş1932
 : .o .     R     _RENARD Maurice              Le MaŒtre de la lumiŠre ş1933
-!--- En 54 feuilletons quotidiens dans L'intrangiseant, mars … mai 33, puis publi posthume en volume en 1947
-!--- .    _N12   _RENARD Maurice              Contes des Mille et un Matins ş?
-!--- Collection posthume de contes et nouvelles choisis par Lacassin et Tulaud
 : .o .     N     _RENARD Maurice              Mystification ş1937
 : .o .     N     _RENARD Maurice              L'Ogre ş1931
 : .o .     N     _RENARD Maurice              La Machine humaine ş1936
@@ -2092,10 +2277,13 @@ o LAFBOUQ     ?  1991.xx ..... ISBN 2-221-05684-1
 } lafbouq_hpl1   _?                           ?
 + LAFBOUQ     ?  2010.02 ..... ISBN 978-2-221-11588-6
 } lafbouq_hpl1rr10 _?                           ?
+!---  TBD si identifi‚ comme recueils ou section : "Les mythes de Cthulu" (2 romans et 18 nouvelles)
+!--- et (… partir des mangeuses d'epaces, "L‚gendes et mythes de Cthulhu"
+!--- TBD si identifo‚ comme section : Premiers contes (… partir de "La petite bouteille...") avec pr‚face de Derleth
+!--- Se terminerait par des aricles et documents de Lovecraft :
+!--- L'Art d'‚crire selon Lovecraft, En marge des mythes de Chtulhu, Le Livre de raison, Sur le fantastique, Lettres et ‚crivains
 - .oSF    kNx    _LOVECRAFT Howard P.         Lovecraft - 1 ş1991
 : .o .     P     _LACASSIN Francis            Pr‚face ş1991
-!---        1991 R2NxLOVECRAFT Howard P.     Les mythes de Cthulu ş?
-!--- 2 romans et 18 nouvelles
 : .o .     N     _LOVECRAFT Howard P.         Dagon ş1919 Dagon
 : .o .     N     _LOVECRAFT Howard P.         Nyarlathotep ş1920 Nyarlathotep
 : .o .     N     _LOVECRAFT Howard P.         La Cit‚ sans nom ş1921 The Nameless City
@@ -2103,20 +2291,19 @@ o LAFBOUQ     ?  1991.xx ..... ISBN 2-221-05684-1
 : .o .     N     _LOVECRAFT Howard P.         Azathoth ş1922 Azathoth
 : .o .     N     _LOVECRAFT Howard P.         Le Festival ş1923 The Festival
 : .o .     N     _LOVECRAFT Howard P.         Le Descendant ş1926 The Descendant
-: .o .     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu ş1926 The Call of Cthulhu
+: .o .     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu ş1928 The Call of Cthulhu
 : .o .     N     _LOVECRAFT Howard P.         L'trange Maison haute dans la brume ş1931 The Strange High House in the Mist
 : .o .     N     _LOVECRAFT Howard P.         La Couleur tomb‚e du ciel ş1927 The Colour Out of Space
 : .o .     R     _LOVECRAFT Howard P.         L'Affaire Charles Dexter Ward ş1927 The Case of Charles Dexter Ward
-: .o .     N     _LOVECRAFT Howard P.         L'Abomination de Dunwich ş1928 The Dunwich Horror
+: .o .     N     _LOVECRAFT Howard P.         L'Abomination de Dunwich ş1929 The Dunwich Horror
 : .o .     r     _LOVECRAFT Howard P.         Celui qui chuchotait dans les t‚nŠbres ş1931 The Whisperer in Darkness
-: .o .     N     _LOVECRAFT Howard P.         Les Montagnes hallucin‚es [Arthur Gordon Pym] ş1936 At the Mountains of Madness
-: .o .     r     _LOVECRAFT Howard P.         Le Cauchemar d'Innsmouth ş1931 The Shadow Over Innsmouth
-: .o .     N     _LOVECRAFT Howard P.         La Maison de la sorciŠre ş1933 The Dream in the Witch House
+: .o .     r     _LOVECRAFT Howard P.         Les Montagnes hallucin‚es [Arthur Gordon Pym] ş1936 At the Mountains of Madness
+: .o .     r     _LOVECRAFT Howard P.         Le Cauchemar d'Innsmouth ş1936 The Shadow Over Innsmouth
+: .o .     N     _LOVECRAFT Howard P.         La Maison de la sorciŠre ş1933 The Dreams in the Witch House
 : .o .     N     _LOVECRAFT Howard P.         Le Monstre sur le seuil ş1937 The Thing on the Doorstep
 : .o .     r     _LOVECRAFT Howard P.         Dans l'abŒme du temps ş1936 The Shadow Out of Time
 : .o .     N     _LOVECRAFT Howard P.         Celui qui hantait les t‚nŠbres ş1936 The Haunter of the Dark
-: .o .     N     _LOVECRAFT Howard P.         Histoire du Necronomicon ş1936 History of the Necronomicon
-?: .o .     N20   _LOVECRAFT Howard P.         L‚gendes et mythes de Cthulhu ş?
+: .o .     N     _LOVECRAFT Howard P.         Histoire du Necronomicon ş1938 History of the Necronomicon
 : .o .     N     _LONG Frank Belknap          Les Mangeuses d'espace ş1928 The Space Eaters
 : .o .     N     _LONG Frank Belknap          Les Chiens de Tindalos ş1929 The Hounds of Tindalos
 : .o .     N     _SMITH Clark Ashton          Talion ş1931 The Return of the Sorcerer
@@ -2137,75 +2324,61 @@ o LAFBOUQ     ?  1991.xx ..... ISBN 2-221-05684-1
 : .o .     N     _LUMLEY Brian                Le Rempart de b‚ton ş1969 Cement Surroundings
 : .o .     N     _WADE James                  Ceux des profondeurs ş1969 The Deep One's
 : .o .     N     _WILSON Colin                Le Retour des Lloigors ş1969 The Return of the Lloigor
-?: .o .     N6    _LOVECRAFT Howard P.         Premiers contes ş?
-?: .o .     p     _DERLETH August              Pr‚face ş? ?
 : .o .     N     _LOVECRAFT Howard P.         La Petite Bouteille de verre ş1959 The Little Glass Bottle
-: .o .     N     _LOVECRAFT Howard P.         La Caverne secrŠte ş1959 The Secret Cave
-: .o .     N     _LOVECRAFT Howard P.         Le MystŠre du cimetiŠre ş1959 The Mystery of the Grave-Yard
+: .o .     N     _LOVECRAFT Howard P.         La Caverne secrŠte ş1959 The Secret Cave, or John Lees Adventuree
+: .o .     N     _LOVECRAFT Howard P.         Le MystŠre du cimetiŠre ş1959 The Mystery of the Grave-Yard, or "A Dead Man's Revenge": A Detective Story
 : .o .     N     _LOVECRAFT Howard P.         Le Vaisseau myst‚rieux ş1959 The Mysterious Ship
-: .o .     N     _LOVECRAFT Howard P.         La Bˆte de la caverne ş1905 The Beast in the Cave
-: .o .     N     _LOVECRAFT Howard P.         L'Alchimiste ş1908 The Alchemist
-?: .? .     E     _LOVECRAFT Howard P.         L'Art d'‚crire selon Lovecraft ş?
-?: .? .     .     _LOVECRAFT Howard P.         En marge des mythes de Chtulhu ş?
-?: .? .     .     _LOVECRAFT Howard P.         Le Livre de raison ş?
-?: .? .     .     _LOVECRAFT Howard P.         Sur le fantastique ş?
-?: .? .     .     _LOVECRAFT Howard P.         Lettres et ‚crivains ş?
+: .o .     N     _LOVECRAFT Howard P.         La Bˆte de la caverne ş1918 The Beast in the Cave
+: .o .     N     _LOVECRAFT Howard P.         L'Alchimiste ş1916 The Alchemist
 o LAFBOUQ     ?  1991.xx ..... ISBN 2-221-06460-7
 } lafbouq_hpl2   _?                           ?
 + LAFBOUQ     ?  1993.xx ..... ISBN .-.....-...-.
 } lafbouq_hpl2   _?                           ?
 + LAFBOUQ     ?  2010.02 ..... ISBN 978-2-221-11589-3
 } lafbouq_hpl2rr10 _?                           ?
+!---  TBD si sections/groupes de textes identifi‚s ("Contes et nouvelles", "L'Horreur dans le mus‚e et autres r‚visions" par exemple)
+!--- Le serviteur de Satan est … base de notes HPL
+!--- Se terminerait pas une section "Documents" de Lovecraft
+!--- TBD si inclus "Fungi de Yuggoth et autres poŠmes fantastiques"
+!--- avec : Pr‚face: continuit‚, Fran‡ois Truchaud
+!--- puis : PoŠmes fantastiques (51 poŠmes)
+!--- puis : Fungi de Yuggoth    (36 poŠmes) 1943-1987 Fungi from Yuggoth
 - .oSF    kNx    _LOVECRAFT Howard P.         Lovecraft - 2 ş1991
-!---       N31   _LOVECRAFT Howard P.         Contes et nouvelles ş?
-: .o .     N     _LOVECRAFT Howard P.         La Tombe ş1917 The Tomb
+: .o .     N     _LOVECRAFT Howard P.         La Tombe ş[1917],1922 The Tomb
 : .o .     N     _LOVECRAFT Howard P.         Souvenir ş1919 Memory
 : .o .     N     _LOVECRAFT Howard P.         Par-del… le mur du sommeil ş1919 Beyond the Wall of Sleep
-: .o .     N     _LOVECRAFT Howard P.         La Transition de Juan Romero ş1919 The Transition of Juan Romero
+: .o .     N     _LOVECRAFT Howard P.         La Transition de Juan Romero ş1944 The Transition of Juan Romero
 : .o .     N     _LOVECRAFT Howard P.         Le Terrible Vieillard ş1921 The Terrible Old Man
-: .o .     N     _LOVECRAFT Howard P.         Le Temple ş1917 The Temple
+: .o .     N     _LOVECRAFT Howard P.         Le Temple ş1925 The Temple
 : .o .     N     _LOVECRAFT Howard P.         Faits concernant feu Arthur Jermyn ş1921 The White Ape / Arthur Jermyn / Facts Concerning the Late Arthur Jermyn and His Family
-: .o .     N     _LOVECRAFT Howard P.         De l'au-del… ş1920 From Beyond
+: .o .     N     _LOVECRAFT Howard P.         De l'au-del… ş1934 From Beyond
 : .o .     N     _LOVECRAFT Howard P.         L'Image dans la maison d‚serte ş1920 The Picture in the House
 : .o .     N     _LOVECRAFT Howard P.         La Rue ş1920 The Street
-: .o .     N     _LOVECRAFT Howard P.         Ex oblivione ş1921 Ex Oblivione
-: .o .     N     _LOVECRAFT Howard P.         La TourbiŠre hant‚e ş1921 The Moon-Bog
+: .o .     P     _LOVECRAFT Howard P.         Ex Oblivione ş1921 Ex Oblivione
+: .o .     N     _LOVECRAFT Howard P.         La TourbiŠre hant‚e ş1926 The Moon-Bog
 : .o .     N     _LOVECRAFT Howard P.         Je suis d'ailleurs ş1926 The Outsider
-: .o .     N     _LOVECRAFT Howard P.         La Musique d'Erich Zann ş1921 The Music of Erich Zann
-: .o .     N     _LOVECRAFT Howard P.         Herbert West, r‚animateur ş1922 Herbert West, R‚animator
-!--- suite = contenu ?
-?: .o .     .     _LOVECRAFT Howard P.         Herbert West, r‚animateur ş?
-?: .o .     .     _LOVECRAFT Howard P.         Le D‚mon de la peste ş?
-?: .o .     .     _LOVECRAFT Howard P.         Six coups de feu au clair de lune ş?
-?: .o .     .     _LOVECRAFT Howard P.         Le Cri du mort ş?
-?: .o .     .     _LOVECRAFT Howard P.         L'Horreur venue des ombres ş?
-?: .o .     .     _LOVECRAFT Howard P.         Les L‚gions des tombes ş?
+: .o .     N     _LOVECRAFT Howard P.         La Musique d'Erich Zann ş1922 The Music of Erich Zann
+: .o .     N     _LOVECRAFT Howard P.         Herbert West, r‚animateur ş1922 Herbert West: Reanimator
 : .o .     N     _LOVECRAFT Howard P.         Hypnos ş1923 Hypnos
 : .o .     N     _LOVECRAFT Howard P.         La Peur qui r“de ş1923 The Lurking Fear
-!--- suite = contenu ?
-?: .o .     .     _LOVECRAFT Howard P.         L'Ombre sur la chemin‚e ş?
-?: .o .     .     _LOVECRAFT Howard P.         Un passant dans la tempˆte ş?
-?: .o .     .     _LOVECRAFT Howard P.         La V‚rit‚ sur la lueur rouge ş?
-?: .o .     .     _LOVECRAFT Howard P.         L'Horreur dans les yeux ş?
 : .o .     N     _LOVECRAFT Howard P.         Ce qu'apporte la Lune ş1923 What the Moon Brings
-: .o .     N     _LOVECRAFT Howard P.         Les Rats dans les murs ş1923 The Rats in the Walls
-: .o .     N     _LOVECRAFT Howard P.         L'Indicible [Randolph Carter] ş1923 The Unnamable
+: .o .     N     _LOVECRAFT Howard P.         Les Rats dans les murs ş1924 The Rats in the Walls
+: .o .     N     _LOVECRAFT Howard P.         L'Indicible [Randolph Carter] ş1925 The Unnamable
 : .o .     N     _LOVECRAFT Howard P.         La Maison maudite ş1928 The Shunned House
-: .o .     N     _LOVECRAFT Howard P.         Horreur … Red Hook ş1925 The Horror at Red Hook
-: .o .     N     _LOVECRAFT Howard P.         Lui ş1925 He
+: .o .     N     _LOVECRAFT Howard P.         Horreur … Red Hook ş1927 The Horror at Red Hook
+: .o .     N     _LOVECRAFT Howard P.         Lui ş1926 He
 : .o .     N     _LOVECRAFT Howard P.         Dans le caveau ş1925 In the Vault
-: .o .     N     _LOVECRAFT Howard P.         Air froid ş1926 Cool Air
+: .o .     N     _LOVECRAFT Howard P.         Air froid ş1928 Cool Air
 : .o .     N     _LOVECRAFT Howard P.         Le ModŠle de Pickman ş1927 Pickman's Model
 : .o .     N     _LOVECRAFT Howard P.         Le Peuple ancien ş[1927],1940 The Very Old Folk
-: .o .     N     _LOVECRAFT Howard P.         Le Clergyman maudit ş1937 The Evil Clergyman
-: .o .     N     _LOVECRAFT Howard P.         Le Livre ş1934 The Book
+: .o .     N     _LOVECRAFT Howard P.         Le Clergyman maudit ş[1933],1939 The Evil Clergyman
+: .o .     N     _LOVECRAFT Howard P.         Le Livre ş1938 The Book
 : .o .     N     _LOVECRAFT Howard P.         La Chose dans la clart‚ lunaire ş1934 The Thing in the Moonlight
 : .o .     N     _MOORE Catherine L.         &Le D‚fi d'outre-espace ş1935 The Challenge from Beyond
 &                _MERRITT Abraham            &
 &                _LOVECRAFT Howard P.        &
 &                _HOWARD Robert E.           &
 &                _LONG Frank Belknap          
-?: .o .     Nx    _LOVECRAFT Howard P.         L'Horreur dans le mus‚e et autres r‚visions ş?
 : .o .     N     _THEOBALD Lewis Jr.         &La Verte Prairie ş1927 The green meadow şTrad. ?
 &                _BERKELEY Elisabeth          
 : .o .     N     _THEOBALD Lewis Jr.         &En rampant dans le chaos ş1920 The crawling chaos şTrad. PARSONS Jacques
@@ -2222,65 +2395,67 @@ o LAFBOUQ     ?  1991.xx ..... ISBN 2-221-06460-7
 : .o .     N     _GREENE Sonia                Quatre heures ş1949 Four O'clock
 : .o .     N     _EDDY C.M. Jr.               Sourd, muet et aveugle ş1925 Deaf, Dumb and Blind
 : .o .     N     _TALMAN Wilfred Blanch       Deux bouteilles noires ş1927 Two Black Bottles
-: .o .     N     _CASTRO Adolpho de           Le Dernier Examen ş1928 The Last Test
-: .o .     N     _BISHOP Zealia               La Mal‚diction de Yig ş1929 The Curse of Yig
+: .o .     N     _CASTRO Adolpho de          &Le Dernier Examen ş1928 The Last Test
+&                _LOVECRAFT Howard P.         
+: .o .     N     _BISHOP Zealia              &La Mal‚diction de Yig ş1929 The Curse of Yig
+&                _LOVECRAFT Howard P.         
 : .o .     r     _LONG Frank Belknap          L'Horreur venue des collines ş1931 The Horror from the Hills
-?: .o .     .     _?                           La Venue de la bˆte de pierre ş?
-?: .o .     .     _?                           L'Atrocit‚ dans le mus‚e ş?
-?: .o .     .     _?                           Une digression arch‚ologique ş?
-?: .o .     .     _?                           L'Horreur sur les collines ş?
-?: .o .     .     _?                           Le Rˆve de Little ş?
-?: .o .     .     _?                           La Machine spacio-temporelle ş?
-?: .o .     .     _?                           Un remŠde au scepticisme ş?
-?: .o .     .     _?                           Ce qu'il advint dans le laboratoire ş?
-?: .o .     .     _?                           L'Horreur frappe ş?
-?: .o .     .     _?                           L'Explication de Little ş?
-: .o .     N     _BISHOP Zealia               Le Tertre ş1940 The Mound
-: .o .     N     _CASTRO Adolpho de           L'Ex‚cuteur des hautes oeuvres ş1930 The Electric Executioner
+: .o .     N     _BISHOP Zealia              &Le Tertre ş1940 The Mound
+&                _LOVECRAFT Howard P.         
+: .o .     N     _CASTRO Adolpho de          &L'Ex‚cuteur des hautes oeuvres ş1930 The Electric Executioner
+&                _LOVECRAFT Howard P.         
 : .o .     N     _LOVECRAFT Howard P.        &Le PiŠge [Gerald Canevin] ş1932 The Trap
 &                _WHITEHEAD Henry S.          
 : .o .     N     _WHITEHEAD Henry S.          Cassius [Gerald Canevin] ş1931 Cassius
 : .o .     N     _WHITEHEAD Henry S.          Bothon ş1946 Bothon
-: .o .     N     _BISHOP Zealia               La Chevelure de M‚duse ş1939 Medusa's Coil
-: .o .     N     _HEALD Hazel                 L'Homme de pierre ş1932 The Man of Stone
-: .o .     N     _HEALD Hazel                 L'Horreur dans le mus‚e ş1933 The Horror in the Museum
-: .o .     N     _HEALD Hazel                 La Mort ail‚e ş1934 Winged Death
-: .o .     N     _HEALD Hazel                 Surgi du fond des siŠcles ş1935 Out of the Eons
+: .o .     N     _BISHOP Zealia              &La Chevelure de M‚duse ş1939 Medusa's Coil
+&                _LOVECRAFT Howard P.         
+: .o .     N     _HEALD Hazel                &L'Homme de pierre ş1932 The Man of Stone
+&                _LOVECRAFT Howard P.         
+: .o .     N     _HEALD Hazel                &L'Horreur dans le mus‚e ş1933 The Horror in the Museum
+&                _LOVECRAFT Howard P.         
+: .o .     N     _HEALD Hazel                &La Mort ail‚e ş1934 Winged Death
+&                _LOVECRAFT Howard P.         
+: .o .     N     _HEALD Hazel                &Surgi du fond des siŠcles ş1935 Out of the Eons
+&                _LOVECRAFT Howard P.         
 : .o .     N     _HEALD Hazel                 Le Coffret scell‚ ş1935 The Sealed Casket
 : .o .     N     _BLOCH Robert                Les Serviteurs de Satan ş1949 Satan's Servants
-!--- … base de notes HPL
 : .o .     N     _BARLOW Robert H.            Jusqu'… ce que toutes les mers... ş1935 Till All the Seas şTrad. PARSONS Jacques
 : .o .     N     _RIMEL Duane W.              Les SortilŠges d'Aphlar ş1934 The Sorcery of Aphlar
 : .o .     N     _RIMEL Duane W.              Le D‚terr‚ ş1935 The Disinterment
 : .o .     N     _RIMEL Duane W.              L'Arbre sur la colline ş1934 The Tree on the Hill
-: .o .     N     _HEALD Hazel                 L'Horreur dans le cimetiŠre ş1937 The Horror in the Burying Ground
+: .o .     N     _HEALD Hazel                &L'Horreur dans le cimetiŠre ş1937 The Horror in the Burying-Ground
+&                _LOVECRAFT Howard P.         
 : .o .     N     _EGGLESTON Hammond           Cosmos effondr‚s ş1938 Collapsing cosmos
-: .o .     N     _LUMLEY William              Le Journal d'Alonso Typer ş1938 The Diary of Alonso Typer
-: .o .     N     _LOVECRAFT Howard P.        &Dans les murs d'Eryx ş1935 In the Walls of Eryx
+: .o .     N     _LUMLEY William             &Le Journal d'Alonso Typer ş1938 The Diary of Alonzo Typer
+&                _LOVECRAFT Howard P.         
+: .o .     N     _LOVECRAFT Howard P.        &Dans les murs d'Eryx ş1939 In the Walls of Eryx
 &                _STERLING Kenneth            
-!--- TBC : 1935 ou 1939
 : .o .     N     _LOVECRAFT Howard P.        &L'Oc‚an de la nuit ş1936 Night Ocean
 &                _BARLOW Robert H.            
-?: .o .     Nx    _LOVECRAFT Howard P.         Fungi de Yuggoth et autres poŠmes fantastiques ş?
-!--- - Pr‚face: continuit‚, Fran‡ois Truchaud
-!--- - PoŠmes fantastiques (51 poŠmes)
-!--- - Fungi de Yuggoth    (36 poŠmes)
-?: .o .     P     _LOVECRAFT Howard P.         Fungi de Yuggoth ş? ?
-: .o .     E     _LOVECRAFT Howard P.         Epouvante et surnaturel en litt‚rature ş?
-!---        1991 .   LOVECRAFT Howard P.     Documents ş?
+: .o .     E     _LOVECRAFT Howard P.         Epouvante et surnaturel en Litt‚rature ş1927-1935 Supernatural Horror in Literature şTrad. DA COSTA Bernard
 o LAFBOUQ     ?  1992.03 ..... ISBN 2-221-06461-5
 } lafbouq_hpl3   _?                           ?
-- .oSF    kNx    _LOVECRAFT Howard P.         Lovecraft - 3 ş1992
 !--- Pour les 3, la couverture comprend tous les titres...
-?: .o .     Nx    _LOVECRAFT Howard P.         Le Monde du rˆve [HPL - 3] ş1992
-!--- Le monde du rˆve (pr‚face: Sur le tapis volant du rˆve par Francis)
-?: .o .     Nx    _LOVECRAFT Howard P.         La Mal‚diction de Sarnath: ş?
+!--- TBC si identifi‚ comme section initiale, "Le Monde du rˆve [HPL - 3]"
+!---   avec comme pr‚face: Sur le tapis volant du rˆve (par Francis)
+!--- TBC si "La Mal‚diction de Sarnath"
+!--- TBC si section "Rˆves et chimŠres: lettres"
+!--- Parodies et pastiches (… partir de "Quelques souvenirs...")
+!---  avec pr‚face Quand Lovecraft s'amuse (par Francis)
+!--- TBC si identifi‚ comme section, "Les collaborations Lovecraft-Derleth"
+!---  avec Pr‚face "August Derleth ou le Saint paul du Lovecraftisme"
+!--- TBC si contient : La Forˆt de Billington, Le Manuscrit de Stephen Bates, Le R‚veil de Winfield Philips
+!--- TBC si les 8 derniers identifi‚s dans une section "Les veilleurs hors du temps"
+!---  et TBC si ces 8 textes sont cr‚dit‚s avec LOVECRAFT
+!---  En partie extrait de 1974 The watchers out of time and other stories
+- .oSF    kNx    _LOVECRAFT Howard P.         Lovecraft - 3 ş1992
 : .o .     N     _LOVECRAFT Howard P.         Polaris ş1920 Polaris
 : .o .     N     _LOVECRAFT Howard P.         Le Bateau blanc ş1919 The White Ship
 : .o .     N     _LOVECRAFT Howard P.         La Mal‚diction de Sarnath ş1920 The Doom That Came to Sarnath
-: .o .     N     _LOVECRAFT Howard P.         L'Arbre ş1920 The Tree
-: .o .     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ş1920 Cats of Ulthar
-: .o .     N     _LOVECRAFT Howard P.         Les Autres dieux ş1921 The Other Gods
+: .o .     N     _LOVECRAFT Howard P.         L'Arbre ş1921 The Tree
+: .o .     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ş1920 The Cats of Ulthar
+: .o .     N     _LOVECRAFT Howard P.         Les Autres Dieux ş1921 The Other Gods
 : .o .     N     _LOVECRAFT Howard P.         Celephais ş1920 Celephais
 : .o .     N     _LOVECRAFT Howard P.         La Quˆte d'Iranon ş1921 The Quest of Iranon
 : .oSF     N4    _LOVECRAFT Howard P.         D‚mons et merveilles ş1955
@@ -2289,25 +2464,17 @@ o LAFBOUQ     ?  1992.03 ..... ISBN 2-221-06461-5
 = .o .     N     _LOVECRAFT Howard P.         La Cl‚ d'argent [Randolph Carter] ş1929 The Silver Key
 = .o .     N     _LOVECRAFT Howard P.        &A travers les portes de la clef d'argent [Randolph Carter] ş1934 Through the Gates of the Silver Key
 &                _PRICE E. Hoffman            
-!--- Rˆves et chimŠres: lettres
-!---        1992 Nx  LOVECRAFT Howard P.     Parodies et pastiches ş?
-!--- Parodies et pastiches (pr‚face: Quand Lovecraft s'amuse par Francis)
-: .o .     .     _LOVECRAFT Howard P.         Quelques souvenirs sur le Dr Johnson ş1917 A Reminiscence of Dr. Samuel Johnson
-: .o .     .     _LOVECRAFT Howard P.         Old bugs ş? ?
-: .o .     .     _LOVECRAFT Howard P.         Douce Ermengarde ou le coeur d'une paysanne ş[1920],1943 Sweet Ermengarde
+: .o .     N     _LOVECRAFT Howard P.         Quelques souvenirs sur le Dr. Johnson ş1917 A Reminiscence of Dr. Samuel Johnson
+: .o .     N     _LOVECRAFT Howard P.         Old bugs ş[1919],1959 Old Bugs
+: .o .     N     _LOVECRAFT Howard P.         Douce Ermengarde ou le coeur d'une paysanne ş[1920],1943 Sweet Ermengarde
 : .o .     N     _LOVECRAFT Howard P.         Ibid ş[1928],1938 Ibid
-: .o .     .     _LOVECRAFT Howard P.         Alfredo ş? ?
-: .o .     N     _LOVECRAFT Howard P.         La Bataille qui marqua la fin du siŠcle ş[1935],1944 The Battle That Ended the Century
-!---        1992 Nx  LOVECRAFT Howard P.     Les collaborations Lovecraft-Derleth ş?
-!--- - Pr‚face August Derleth ou le Saint paul du Lovecraftisme
+: .o .     T     _LOVECRAFT Howard P.         Alfredo ş1966 Alfredo: A Tragedy
+: .o .     N     _LOVECRAFT Howard P.         La Bataille qui marqua la fin du siŠcle ş1934 The Battle That Ended the Century
 : .o .     R     _DERLETH August             &Le R“deur devant le seuil ş1945 The Lurker at the Threshold
 &                _LOVECRAFT Howard P.         
-?: .o .     .     _LOVECRAFT Howard P.         La Forˆt de Billington ş? ?
-?: .o .     .     _LOVECRAFT Howard P.         Le Manuscrit de Stephen Bates ş? ?
-?: .o .     .     _LOVECRAFT Howard P.         Le R‚veil de Winfield Philips ş? ?
 : .o .     N     _LOVECRAFT Howard P.        &Le Survivant ş1954 The Survivor
 &                _DERLETH August              
-: .o .     N     _LOVECRAFT Howard P.        &Le Jour … Wentworth ş1957 Wenworth's Day
+: .o .     N     _LOVECRAFT Howard P.        &Le Jour … Wentworth ş1957 Wentworth's Day
 &                _DERLETH August              
 : .o .     N     _LOVECRAFT Howard P.        &L'H‚ritage Peabody ş1957 The Peabody Heritage
 &                _DERLETH August              
@@ -2334,15 +2501,11 @@ o LAFBOUQ     ?  1992.03 ..... ISBN 2-221-06461-5
 = .o .     N     _LOVECRAFT Howard P.        &Le Sceau de R'lyeh ş1957 The Seal of R'lyeh
 &                _DERLETH August              
 : .oF.    cN5    _DERLETH August              La Trace de Cthulhu ş1962 The Trail of Cthulhu
-= .o .     N     _DERLETH August              La Maison de Curwen Street, ou le manuscrit d'Andrew Phelan ş1943 The House on Curwen Street
+= .o .     N     _DERLETH August              La Maison de Curwen Street, ou le manuscrit d'Andrew Phelan ş1944 The Trail of Cthulhu / The House on Curwen Street şTrad. ?
 = .o .     N     _DERLETH August              La Vigie c‚leste, ou la d‚position d'Abel Keane ş1945 The Watcher from the Sky
 = .o .     N     _DERLETH August              La Gorge au-del… de Salapunco, ou le testament de Clairborne Boyd ş1948 The Gorge Beyond Salapunco
 = .o .     N     _DERLETH August              Le Gardien de la cl‚, ou le r‚cit de Nayland Colum ş1951 The Keeper of the Key
 = .o .     N     _DERLETH August              L'Œle noire, ou le r‚cit d'Horvath Blayne ş1951 The Black Island
-!---        1991 N8  DERLETH August         &Les veilleurs hors du temps
-!---                 LOVECRAFT Howard P.     
-!--- En partie extrait de 1974 The watchers out of time and other stories
-!--- TBC pour les 8 suivants : avec LOVECRAFT ?
 : .o .     N     _DERLETH August             &La Chambre condamn‚e ş1959 The Shuttered Room
 &                _LOVECRAFT Howard P.         
 : .o .     N     _DERLETH August             &Le Pˆcheur du Falcon Point ş1959 The Fisherman of Falcon Point
@@ -2382,11 +2545,11 @@ o LAFBOUQ     ?  1992.xx ..... ISBN .-.....-...-.
 !--- Genres … confirmer
 : .o .     R     _LEROUX Gaston               Le Capitaine Hyx [Aventures effroyables de M. Herbert de Renich - 1] ş1917
 : .o .     R     _LEROUX Gaston               La Bataille invisible [Aventures effroyables de M. Herbert de Renich - 2] ş1917
-: .o .     R     _LEROUX Gaston               La Poup‚e sanglante ş1923
-: .o .     R     _LEROUX Gaston               La Machine … assassiner ş1923
+: .o .     R     _LEROUX Gaston               La Poup‚e sanglante [La Poup‚e sanglante - 1] ş1923
+: .o .     R     _LEROUX Gaston               La Machine … assassiner [La Poup‚e sanglante - 2] ş1923
 : .o .     N     _LEROUX Gaston               L'Homme qui a vu le diable ş1908
 : .oF.     r     _LEROUX Gaston               Le Coeur cambriol‚ ş1920
-: .x .     R     _LEROUX Gaston               L'Homme qui revient de loin ş1916
+: .o .     R     _LEROUX Gaston               L'Homme qui revient de loin ş1916
 : .p .    iNx    _LEROUX Gaston               Histoires ‚pouvantables ş?
 : .x .     R     _LEROUX Gaston               Mister Flow ş1927
 o LAFBOUQ     ?  1995.xx ..... ISBN .-.....-...-.
@@ -2436,16 +2599,16 @@ o LAFBOUQ     ?  2011.10 ..... ISBN 978-2-221-09542-3
 &                _RONZEAUD Pierre            &
 &                _VINCENSINI Jean-Jacques     
 
-!-----------------------------------------------------------------------------
-_ LAFBOED <b>in</b> Les ‚vangiles du diable, suivi de Le Grand et le Petit Albert, Laffont, Bouquins
-!-----------------------------------------------------------------------------
-o LAFBOED     ?  1998.xx ..... ISBN .-.....-...-.
+o LAFBOUQ     ?  1998.xx ..... ISBN 2-221-08508-6
+!--- 1029 pages - 159 francs - 20 cm
 !--- Pr‚face Lacassin
 } noimg          _?                           ?
-- .oF.     E     _SEIGNOLLE Claude            Les ‚vangiles du diable ş1964
+- .pF.     Ex    ****                         Les ‚vangiles du diable, suivi de Le Grand et le Petit Albert ş1964
+: .oF.     E     _SEIGNOLLE Claude            Les ‚vangiles du diable ş1964
+: .! .     E     _Albert le Grand             Le Grand et le Petit Albert ş?
 
 !-----------------------------------------------------------------------------
-!--- LE_CLUB Ed. Le Club => en fait "le grand livre du mois"
+!--- LE_CLUB Editions Le Club => en fait "le grand livre du mois"
 !-----------------------------------------------------------------------------
 ?o LE_CLUB     ?  2000.04 ..... ISBN 2-7028-5404-4
 ?} noimg          _?                           ?
@@ -2481,11 +2644,11 @@ o LAFBOUQ     ?  2000.xx ..... ISBN 2-221-07810-1
 : .o .     N     _POTOCKI Jan                 Histoire du d‚moniaque Pacheco ş?
 : .o .     N     _POTOCKI Jan                 Histoire de Trivulce de Ravenne ş?
 : .o .     X     _POTOCKI Jan                 Histoire de Thibaud de la JacquiŠre (extrait de : Manuscrit trouv‚ … Saragosse) ş1805
-: .o .     X     _POTOCKI Jan                 Histoire du commandeur de Toralva (extrait de : Manuscrit trouv‚ … Saragosse) ş1805
+: .oF.     X     _POTOCKI Jan                 Histoire du commandeur de Toralva (extrait de : Manuscrit trouv‚ … Saragosse) ş1805
 : .oF.va   N     _NODIER Charles              Smarra ou les d‚mons de la nuit ş1821
 : .o .     N     _NODIER Charles              La Combe de l'homme mort ş1833
 : .oF.     X     _NODIER Charles              La F‚e aux miettes ş1832
-: .o .     N     _NODIER Charles              Hurlubleu, Grand Manifafa d'HurlubiŠre ou la Perfectibilit‚ ş1831
+: .o .     N     _NODIER Charles              Hurlubleu - Grand Manifafa d'HurlubiŠre ou la Perfectibilit‚ ş1831
 : .o .     N     _NODIER Charles              Voyage pittoresque et industriel dans le Paraguay-Roux et la Paling‚n‚sie Australe ş1835
 : .o .     N     _BRADI Comtesse de           La Fille du spectre ş?
 : .oM.     N     _BOUCHER DE PERTHES Jacques  Mazular (Les trois songes - 3) ş1832
@@ -2495,7 +2658,7 @@ o LAFBOUQ     ?  2000.xx ..... ISBN 2-221-07810-1
 : .oF.     N     _HUGO Abel                   L'Heure de la mort ş1833
 : .oF.     N     _MORICE Emile                La Griffe du diable ş?
 : .o .     N     _BALZAC Honor‚ de            La F‚e aux perles ş?
-: .o .     N     _BALZAC Honor‚ de            Histoire de la bossue courageuse ş?
+: .o .     N     _BALZAC Honor‚ de            Histoire de la bossue courageuse ş1933
 : .o .     N     _BALZAC Honor‚ de            L'lixir de longue vie ş1830
 : .o .     N     _BALZAC Honor‚ de            Le Pacte ş?
 : .oF.     N     _BALZAC Honor‚ de            La Com‚die du diable ş1830
@@ -2552,7 +2715,7 @@ o LAFBOUQ     ?  2000.xx ..... ISBN 2-221-07810-1
 : .o .     N     _NERVAL G‚rard de            La Danse des morts ş1855
 : .o .     N     _NERVAL G‚rard de            Aur‚lia ş1855
 : .o .     N     _BROT Charles-Alphonse       La Chemin‚e gothique ş?
-: .oF.     N     _GAUTIER Th‚ophile           La cafetiŠre ş1831
+: .oF.     N     _GAUTIER Th‚ophile           La CafetiŠre ş1831
 : .oF.     N     _GAUTIER Th‚ophile           Le Nid de rossignols ş1834
 : .oF.     N     _GAUTIER Th‚ophile           Omphale ş1834
 : .oF.     N     _GAUTIER Th‚ophile           La Morte amoureuse ş1836
@@ -2560,12 +2723,12 @@ o LAFBOUQ     ?  2000.xx ..... ISBN 2-221-07810-1
 : .o .     N     _GAUTIER Th‚ophile           Deux acteurs pour un r“le ş1841
 : .o .     N     _GAUTIER Th‚ophile           La Mille et DeuxiŠme Nuit ş1842
 : .o .     N     _GAUTIER Th‚ophile           Le Club des hachichins ş1846
-: .oFM     N     _GAUTIER Th‚ophile           L'Enfant aux souliers de pain ş?
+: .oFM     N     _GAUTIER Th‚ophile           L'Enfant aux souliers de pain ş1849
 : .oF.     N     _GAUTIER Th‚ophile           Arria Marcella, souvenir de Pomp‚‹ ş1852
 o LAFBOUQ     ?  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .pF.     Rx    _BIOY CASARES Adolfo         Romans ş2001
-!--- Ed. ‚tablie par Michel Lafon
+!--- Edition ‚tablie par Michel Lafon
 : .o .     R     _BIOY CASARES Adolfo         L'Invention de Morel ş1940 La invencion de Morel
 : .o .     R     _BIOY CASARES Adolfo         Plan d'‚vasion ş1945 Plan de evasi¢n
 : .! .     R     _BIOY CASARES Adolfo         Le Songe des h‚ros ş1954 El sue¤o de los h‚roes
@@ -2576,12 +2739,31 @@ o LAFBOUQ     ?  2001.xx ..... ISBN .-.....-...-.
 : .! .     r     _BIOY CASARES Adolfo         Un autre monde ş1998 De un mundo a otro
 o LAFBOUQ     ?  2008.11 ..... ISBN 978-2-221-11014-0
 } lafmushorreurs _?                           N
-- .oFT    iN118  *PRINCE Nathalie             Petit mus‚e des horreurs - Nouvelles fantastiques, cruelles et macabres ş2008
+- .oFT    iNx    *PRINCE Nathalie             Petit mus‚e des horreurs - Nouvelles fantastiques, cruelles et macabres ş2008
+: .C .     C     ****                         PremiŠre partie - Fant“mes, spectres et charognes
+: .C .     C     ****                         Dr“les d'apparitions
 : .o .     N     _RENARD Maurice              Le Rendez-Vous ş1909
-: .o .     N     _DUJARDIN Edouard            La Vierge de fer ş1885
 : .o .     N     _REGNIER Henri de            La Mort de M. de Nouƒtre et de Mme de Ferlinde ş1897
-: .o .     N     _REGNIER Henri de            L'Entrevue ş1919
+: .C .     C     ****                         Tˆtes coup‚es
+: .C .     C     ****                         Je suis mort
 : .oT.     N     _RICHEPIN Jean               Le Diss‚qu‚ ş1876
+: .C .     C     ****                         DeuxiŠme partie - D‚lires, n‚vroses et folies douces
+: .C .     C     ****                         L'horreur … domicile
+: .o . 321 N     _DUJARDIN Edouard            Un testament ş1886
+: .o . 353 N     _DUJARDIN Edouard            L'Enfer ş1886
+: .C .     C     ****                         Peurs
+: .C .     C     ****                         Fous ?
+: .C .     C     ****                         TroisiŠme partie - Amours et d‚samours fantastiques
+: .C .     C     ****                         L'‚trange objet du d‚sir : amours interdites ou impossibles
+: .C .     C     ****                         Erotiques d'outre-tombe : aimer la mort - ou la morte
+: .C .     C     ****                         Quelques massacres de femmes
+: .o . 741 N     _DUJARDIN Edouard            La Vierge en fer ş1885
+: .C .     C     ****                         QuatriŠme partie - Trois mythes fantastiques : Narcisse, Pygmalion, Don Juan
+: .C .     C     ****                         Narcisse
+: .o .     N     _REGNIER Henri de            L'Entrevue ş1919
+: .C .     C     ****                         Pygmalion
+: .C .     C     ****                         Don Juan
+: .C .     C     ****                         Annexe
 
 
 o LAFFONT     ?  1974.xx ..... ISBN -
@@ -2598,7 +2780,7 @@ o LAFFONT     ?  1974.xx ..... ISBN -
 : .o .     N     _SYLF Christia               L'Homme vers elle ş1974
 
 !-----------------------------------------------------------------------------
-_ LAF_PE  Laffont, Coll. Les Portes de l'Etrange
+_ LAF_PE  Laffont - Les Portes de l'Etrange
 !-----------------------------------------------------------------------------
 !--- Laffont, Les Portes de l'Etrange
 !--- ISSN 0768-0260
@@ -2638,7 +2820,7 @@ o LAF_PE      ?  1982.02 ..... ISBN 2-221-00839-1
 ?- .o .     R2    _TUR Jean                    Le Nautile solaire - L'Envoy‚ d'Allone-A‚lennel ş?
 
 !-----------------------------------------------------------------------------
-_ LAFF_RI Le Hi‚rarch, Coll. "R‚cits initiatiques"
+_ LAFF_RI Le Hi‚rarch - R‚cits initiatiques
 !-----------------------------------------------------------------------------
 !--- Collection "R‚cits initiatiques"
 !--- ISSN 1144-6838
@@ -2648,7 +2830,7 @@ o LAFF_RI     ?  1989.xx ..... ISBN 2-906803-07-3
 - .o .     R     _SYLF Christia               Markosamo le sage - Chronique d'Atlantis ş1972
 
 !-----------------------------------------------------------------------------
-_ LAF_PV  Laffont, Coll. Plein Vent
+_ LAF_PV  Laffont - Plein Vent
 !-----------------------------------------------------------------------------
 !---  Laffont, Plein Vent
 !-----------------------------------------------------------------------------
@@ -2705,7 +2887,9 @@ o LAF_PV    112  1975.xx ..... ISBN -
 - .o .     R     _CAMERON Ian                 L'trange Bˆte de la Terre de Feu [L'Œle sur le toit du monde - 2] ş1972 The Mountain at the Bottom of the World şTrad. MULLER Andr‚
 
 !-----------------------------------------------------------------------------
-_ LAF_AD  Laffont, Coll. Ailleurs et Demain
+_ LAF_AD  Laffont - Ailleurs et Demain
+_ LAF_ACO Laffont - Ailleurs et Demain - Edition Collector
+_ LAF_AFN Laffont - Ailleurs et Demain - Edition sp‚ciale FNAC
 !-----------------------------------------------------------------------------
 !--- Ailleurs et Demain (1969 - ...)
 !--- Directeur de collection: G‚rard KLEIN
@@ -2720,7 +2904,7 @@ _ LAF_AD  Laffont, Coll. Ailleurs et Demain
 !--- Les ex-couvertures argent‚es ont fait place … la couleur et … une
 !--- sobri‚t‚ de meilleur gout. Elle sont envelopp‚es d'une jaquette couleur
 !--- depuis d‚but 1998.
-!--- Le format, lui, n'a pas chang‚: 13,5x21,5.
+!--- Le format, lui, n'a pas chang‚: 135 x 215 mm
 !-----------------------------------------------------------------------------
 o LAF_AD      1i 1969.xx ..... ISBN -
 } noimg          _?                           ?
@@ -2746,7 +2930,21 @@ o LAF_AD      6i 1970.xx ..... ISBN -
 } noimg          _?                           ?
 + LAF_AD      6i 2000.12 ..... ISBN 2-221-02602-0
 } noimg          _?                           ?
++ LAF_AD      ?  2021.01 ..... ISBN 978-2-221-25205-5
+} noimg          _Aur‚lien Police             ?
+!--- GF - 135 x 215 - 630 pages
 - .oS.     R     _HERBERT Frank               Dune [Dune - 1] ş1965 Dune şTrad. DEMUTH Michel
+o LAF_ACO     ?  2021.10 ..... ISBN 978-2-221-24948-2
+} noimg          _Alex Trochut                ?
+!--- GF Cartonn‚ - 150 x 210 - 720 pages - 25,90 euros
+!--- Edition collector - dition du cinquantenaire - Revue et corrig‚e
+!--- Pr‚faces de Denis Villeneuve et Pierre Bordage. Postface de G‚rard Klein. Traduit de l'anglais (tats-Unis) par Michel Demuth.
+- .oS.     R     _HERBERT Frank               Dune [Dune - 1] ş1965 Dune şTrad. DEMUTH Michel + L'‚paule d'Orion
+o LAF_AFN     ?  2021.10 ..... ISBN 978-2-221-25816-3
+} noimg          _Aur‚lien Police             ?
+!--- GF - 140 x 220 - 625 pages - 22,95 euros
+!--- Edition sp‚ciale FNAC - Edition limit‚e en coffret contenant 6 illustrations d'Aur‚lien Police pour le cycle de Dune.
+- .oS.     R     _HERBERT Frank               Dune [Dune - 1] ş1965 Dune şTrad. DEMUTH Michel + L'‚paule d'Orion
 o LAF_AD      7i 1971.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _KLEIN G‚rard                Les Seigneurs de la guerre ş1971
@@ -2761,6 +2959,10 @@ o LAF_AD      9i 1971.04 ..... ISBN -
 } noimg          _?                           ?
 + LAF_AD      9i 2000.10 ..... ISBN 2-221-09400-X
 } noimg          _?                           ?
++ LAF_AD      ?  2021.10 ..... ISBN 978-2-221-25569-8
+} noimg          _Alice Peronnet              ?
+!--- GF - 135x215 
+!--- R‚vision traduction en 2021 : Trad. BAILHACHE Jean + GUILLOT S‚bastien
 - .oS.     R     _LE GUIN Ursula K.           La Main gauche de la nuit [Cycle de l'Ekumen - 1][Cycle de Hain] ş1969 The Left Hand of Darkness şTrad. BAILHACHE Jean
 o LAF_AD     10i 1971.xx ..... ISBN -
 } noimg          _?                           ?
@@ -2788,7 +2990,15 @@ o LAF_AD     14i 1972.xx ..... ISBN .-.....-...-.
 - .o .     R     _LEOURIER Christian          Les Montagnes du soleil ş1972
 o LAF_AD     15i 1972.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _HERBERT Frank               Le Messie de Dune [Dune - 2] ş1969 Dune Messiah / The Messiah of Dune
++ LAF_AD      ?  2021.03 ..... ISBN 978-2-221-25230-7
+} noimg          _Aur‚lien Police             ?
+!--- GF - 135 x 215 - 270 pages
+- .oS.     R     _HERBERT Frank               Le Messie de Dune [Dune - 2] ş1969 Dune Messiah / The Messiah of Dune şTrad. DEMUTH Michel
+o LAF_ACO     ?  2021.09 ..... ISBN 978-2-221-25572-8
+} noimg          _?                           ?
+!--- GF - Reli‚ - 135x215 - 336 pages - 21,90 euros
+!--- Edition collector, traduction r‚vis‚e. Pr‚face de Laurent Genefort. Postface de Nicolas Martin
+- .oS.     R     _HERBERT Frank               Le Messie de Dune [Dune - 2] ş1969 Dune Messiah / The Messiah of Dune şTrad. DEMUTH Michel + DIVERS 
 o LAF_AD      ?  1975.xx ..... ISBN -
 } a&d0020r75     _?                           ?
 + LAF_AD      ?  1977.xx ..... ISBN -
@@ -2876,14 +3086,16 @@ o LAF_AD     28i 1974.xx ..... ISBN .-.....-...-.
 o LAF_AD     29i 1974.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _HJORTSBERG William          MatiŠres grises ş1971 Gray Matters
-o LAF_AD     30i 1974.xx ..... ISBN .-.....-...-.
-} ad030          _?                           N  
-- .oS.    _RN4   _COLIN Vladimir              Les Dents de Chronos ş?
-: .oS.     N     _COLIN Vladimir              Sous d'autres ‚toiles ş? ? şTrad. FLEURY Andr‚e
-: .oS.     N     _COLIN Vladimir              La Vestale du temps ş? ? şTrad. FLEURY Andr‚e
-: .oS.     N     _COLIN Vladimir              Toujours plus prŠs ş? ? şTrad. FLEURY Andr‚e
-: .oS.     R     _COLIN Vladimir              Divertissement pour sorciŠre ş? ? şTrad. FLEURY Andr‚e
-: .oS.     N     _COLIN Vladimir              Les Dernier Avatar de Tristan ş? ? şTrad. FLEURY Andr‚e
+o LAF_AD     30i 1974.xx ..... ISBN -
+} ad030          _?                           N
+>--- Recueil trŠs diff‚rent du volume original cr‚dit‚ (Capcanele timpului, 1972), qui contient plus d'une douzaine de nouvelles, 
+>--. et dans lequel ne figure pas les deux derniers textes de ce recueil.
+- .oS.    _RN4   _COLIN Vladimir              Les Dents de Chronos ş1974
+: .oS.     N     _COLIN Vladimir              Sous d'autres ‚toiles ş1972 Sub alte stele şTrad. FLEURY Andr‚e
+: .oS.     N     _COLIN Vladimir              La Vestale du temps ş1972 Func&#355;ionara timpului şTrad. FLEURY Andr‚e
+: .oS.     N     _COLIN Vladimir              Toujours plus prŠs ş1972 In cerc, tot mai aproape şTrad. FLEURY Andr‚e
+: .oS.     R     _COLIN Vladimir              Divertissement pour sorciŠre ş1972 Divertisment pentru vr&#462;jitoare şTrad. FLEURY Andr‚e
+: .oS.     N     _COLIN Vladimir              Les Dernier Avatar de Tristan ş1966 Ultimul avatar al lui Tristan şTrad. FLEURY Andr‚e
 o LAF_AD     31i 1974.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + LAF_AD     31i 2009.02 ..... ISBN 978-2-221-11230-4
@@ -2905,7 +3117,7 @@ o LAF_AD     34i 1975.xx ..... ISBN .-.....-...-.
 !--- Nota : reprise de la nouvelle parue la mˆme ann‚e
 o LAF_AD     35i 1975.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _CLARKE Arthur C.            Rendez-vous avec Rama [Rama - 1] ş1973 Rendez-vous With Rama şTrad. PEMERLE Didier
+- .o .     R     _CLARKE Arthur C.            Rendez-vous avec Rama [Rama - 1] ş1973 Rendezvous With Rama şTrad. PEMERLE Didier
 o LAF_AD     36i 1975.xx ..... ISBN -
 } a&d0046        _?                           ?
 - .oS.    _A4    *JEURY Michel                Utopies 75 ş1975
@@ -2925,16 +3137,23 @@ o LAF_AD     38i 1975.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + LAF_AD     38i 2000.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _LE GUIN Ursula K.           Les D‚poss‚d‚s [Cycle de l'Ekumen - 3][Cycle de Hain] ş1974 The Dispossessed şTrad. PLANCHAT Henry-Luc
++ LAF_AD      ?  2022.03 ..... ISBN 978-2-221-26000-5
+} noimg          _?                           ?
+!--- GF - Reli‚ - 140x210 - 408 pages
+!--- Traduction revue par S‚bastien Guillot
+- .oS.     R     _LE GUIN Ursula K.           Les D‚poss‚d‚s [Cycle de l'Ekumen - 3][Cycle de Hain] ş1974 The Dispossessed şTrad. PLANCHAT Henry-Luc
 o LAF_AD     39i 1976.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + LAF_AD     38i 2006.03 ..... ISBN 2-221-10584-2
 } noimg          _?                           ?
-- .oS.     R     _WOLFE Gene                  La CinquiŠme Tˆte de cerbŠre ş1972 The Fifth Head of Cerberus şTrad. ABADIA Guy
+- .oS.    kC3    _WOLFE Gene                  La CinquiŠme Tˆte de cerbŠre ş1972 The Fifth Head of Cerberus şTrad. ABADIA Guy
+: .o .     r     _WOLFE Gene                  La CinquiŠme Tˆte de cerbŠre ş1972 The Fifth Head of Cerberus
+: .o .     r     _WOLFE Gene                  R‚cit ş1972 A Story
+: .o .     r     _WOLFE Gene                  V.R.T. ş1972 V.R.T.
 o LAF_AD     40i 1976.xx ..... ISBN .-.....-...-.
 } ad040          _?                           N  
-- .o .    cC7    _CHRISTIN Pierre             Les Pr‚dateurs enjoliv‚s ş1976
 !--- Nota : recueil ou cycle de nouvelles
+- .oS.    cC7    _CHRISTIN Pierre             Les Pr‚dateurs enjoliv‚s ş1976
 : .o .     N     _CHRISTIN Pierre             Ce jour l… encore l'anomie pernicieuse fit 86511 victimes ş1976
 : .o .     N     _CHRISTIN Pierre             Et, dans la douce chaleur d'un repas de famille ş1976
 : .o .     N     _CHRISTIN Pierre             C'est alors que les rats voulurent voir le soleil ş1976
@@ -3012,7 +3231,15 @@ o LAF_AD     50i 1978.xx ..... ISBN 2-221-00045-5
 } noimg          _?                           ?
 + LAF_AD     50i 1999.xx ..... ISBN 2-221-08703-8
 } noimg          _?                           ?
-- .o .     R     _HERBERT Frank               Les Enfants de Dune [Dune - 3] ş1976 Children of Dune
++ LAF_AD      ?  2021.05 ..... ISBN 978-2-221-25231-4
+} noimg          _Aur‚lien Police             ?
+!--- GF - 135x215 - 504 pages
+- .oS.     R     _HERBERT Frank               Les Enfants de Dune [Dune - 3] ş1976 Children of Dune şTrad. DEMUTH Michel
+o LAF_ACO     ?  2022.02 ..... ISBN 978-2-221-25993-1
+} noimg          _?                           ?
+!--- GF - Reli‚ - 135x215 - 504 pages - 23,90 euros
+!--- Edition collector, traduction r‚vis‚e. Pr‚face de Sylvie Denis. Postface de Natacha Vas Deyres
+- .oS.     R     _HERBERT Frank               Les Enfants de Dune [Dune - 3] ş1976 Children of Dune şTrad. DEMUTH Michel
 o LAF_AD     51i 1978.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _REMY Yves & Ada             La Maison du Cygne ş1978
@@ -3140,7 +3367,15 @@ o LAF_AD     73i 1982.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + LAF_AD     73i 1999.09 ..... ISBN 2-221-00775-1
 } noimg          _?                           ?
-- .o .     R     _HERBERT Frank               L'Empereur-Dieu de Dune [Dune - 4] ş1981 God-emperor of Dune şTrad. ABADIA Guy
++ LAF_AD      ?  2021.07 ..... ISBN 978-2-221-25232-1
+} noimg          _Aur‚lien Police             ?
+!--- GF - 135x215 
+- .oS.     R     _HERBERT Frank               L'Empereur-Dieu de Dune [Dune - 4] ş1981 God Emperor of Dune şTrad. ABADIA Guy
+o LAF_ACO     ?  2022.06 ..... ISBN 978-2-221-26317-4
+} noimg          _?                           ?
+!--- GF - Reli‚ - 135x215 - 576 pages - 23,90 euros
+!--- Edition collector, traduction revue et corrig‚e. Pr‚face de IrŠne Langlet. Postface de Serge Lehman
+- .oS.     R     _HERBERT Frank               L'Empereur-Dieu de Dune [Dune - 4] ş1981 God Emperor of Dune şTrad. ABADIA Guy
 o LAF_AD     74i 1982.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _SWIGART Rob                 Le Livre des r‚v‚lations ş1981 The Book of Revelations
@@ -3160,20 +3395,20 @@ o LAF_AD     78i 1983.xx ..... ISBN .-.....-...-.
 - .o .     R     _JOUANNE Emmanuel            Nuage [Nuage] ş1983
 o LAF_AD     79i 1983.04 ..... ISBN 2-221-01195-3
 } a&d0101        _?                           ?
-- .oS.     N14   _WOLFE Gene                  L'Œle du docteur Mort et autres histoires ş1980 The Island of Dr. Death and Other Stories and Other Stories
+!--- GF - 135 x 215 mm
+- .oS.    kN14   _WOLFE Gene                  L'Œle du docteur Mort et autres histoires ş1980 The Island of Dr. Death and Other Stories and Other Stories
 : .o .     N     _WOLFE Gene                  L'Œle du docteur Mort et autres histoires ş1970 The Island of Dr. Death and Other Stories şTrad. BAILHACHE Jean
 : .o .     N     _WOLFE Gene                  Les Cailloux d'un autre monde ş1972 Alien Stones şTrad. CANET Charles
 : .o .     N     _WOLFE Gene                  La Befana ş1973 La Befana şTrad. CANET Charles
 : .o .     N     _WOLFE Gene                  Ou le h‚ros apparaŒt sous les traits d'un autre monde ş1975 The Hero as Werwolf şTrad. CANET Charles
 : .o .     N     _WOLFE Gene                  Trois doigts ş1976 Three Fingers şTrad. CANET Charles
 : .o .     r     _WOLFE Gene                  La Mort du docteur Ile ş1973 The Death of Dr. Island şTrad. PLANCHAT Henry-Luc
-: .o .     N     _WOLFE Gene                  Les Tiges de duvet ş1973 Feather Tiger şTrad. CANET Charles
+: .o .     N     _WOLFE Gene                  Les Tigres de duvet ş1973 Feather Tigers şTrad. CANET Charles
 : .o .     N     _WOLFE Gene                  La Minute de v‚rit‚ ş1973 Hour of Trust şTrad. CANET Charles
 : .o .     r     _WOLFE Gene                  Chant de chasse ş1975 Tracking Song şTrad. CANET Charles
 : .o .     N     _WOLFE Gene                  Le Th‚ƒtre de marionnettes ş1971 The Toy Theater şTrad. CANET Charles
-: .o .     N     _WOLFE Gene                  Le Docteur de l'Œle de la mort ş1978 The Doctor of Death Island şTrad. CANET Charles
+: .o .     r     _WOLFE Gene                  Le Docteur de l'Œle de la mort ş1978 The Doctor of Death Island şTrad. CANET Charles
 : .o .     N     _WOLFE Gene                  Messages sensoriels ş1974 Cues şTrad. CANET Charles
-?: .o .    ?     _WOLFE Gene                  ? ş? How I Lost the Second World War
 : .o .     r     _WOLFE Gene                  Les Visions miraculeuses ş1976 The Eyeflash Miracles şTrad. CANET Charles
 : .o .     r     _WOLFE Gene                  Sept nuits am‚ricaines ş1978 Seven American Nights şTrad. CANET Charles
 o LAF_AD     80i 1984.xx ..... ISBN .-.....-...-.
@@ -3183,7 +3418,7 @@ o LAF_AD     81i 1983.xx ..... ISBN 2-221-01266-6
 } noimg          _?                           ?
 + LAF_AD     81i 1984.xx ..... ISBN 2-221-01266-6
 } noimg          _?                           ?
-- .o .     R     _SHECKLEY Robert             Dramocles ş1983 Dramocles şTrad. DESMOND William Olivier
+- .o .     R     _SHECKLEY Robert             DramoclŠs ş1983 Dramocles şTrad. DESMOND William Olivier
 o LAF_AD     82i 1983.xx ..... ISBN 2-221-01135-X
 } noimg          _?                           ?
 + LAF_AD     82i 1985.xx ..... ISBN 2-221-01135-X
@@ -3209,7 +3444,7 @@ o LAF_AD     86i 1984.xx ..... ISBN .-.....-...-.
 - .o .     R     _SHEFFIELD Charles           La Toile entre les mondes ş1979 The Web Between the Worlds
 o LAF_AD     87i 1984.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _BAYLEY Barrington J.        Le Rayon zen ş1980 The Zen Gun
+- .o .     R     _BAYLEY Barrington J.        Le Rayon zen ş1983 The Zen Gun
 o LAF_AD     88i 1984.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + LAF_AD     88i 1987.xx ..... ISBN 2-221-04528-9
@@ -3242,7 +3477,10 @@ o LAF_AD      ?  1985.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + LAF_AD      ?  1999.xx ..... ISBN 2-221-08675-9
 } noimg          _?                           ?
-- .o .     R     _HERBERT Frank               Les H‚r‚tiques de Dune [Dune - 5] ş1984 Heretics of Dune şTrad. ABADIA Guy
++ LAF_AD      ?  2021.09 ..... ISBN 978-2-221-25233-8
+} noimg          _Aur‚lien Police             ?
+!--- GF - 135x215 - 576 pages
+- .oS.     R     _HERBERT Frank               Les H‚r‚tiques de Dune [Dune - 5] ş1984 Heretics of Dune şTrad. ABADIA Guy
 o LAF_AD     93i 1985.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _JEURY Michel                Le Jeu du monde ş1985
@@ -3267,7 +3505,10 @@ o LAF_AD     98i 1986.xx ..... ISBN .-.....-...-.
 - .o .     R     _O'DONNELL Kevin             Ora:cle ş1984 Ora:cle
 o LAF_AD     99i 1986.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _HERBERT Frank               La Maison des mŠres [Dune - 6] ş1985 Chapterhouse: Dune şTrad. ABADIA Guy
++ LAF_AD      ?  2021.09 ..... ISBN 978-2-221-25234-5
+} noimg          _Aur‚lien Police             ?
+!--- GF - 135x215 - 558 pages
+- .oS.     R     _HERBERT Frank               La Maison des mŠres [Dune - 6] ş1985 Chapterhouse: Dune şTrad. ABADIA Guy
 o LAF_AD    100i 1986.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + LAF_AD    100i 1999.xx ..... ISBN .-.....-...-.
@@ -3369,7 +3610,9 @@ o LAF_AD    118i 1989.xx ..... ISBN .-.....-...-.
 o LAF_AD    119i 1989.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _BEAR Greg                   Eon [Eon - 1] ş1985 Eon
-o LAF_AD    120i 1989.xx ..... ISBN .-.....-...-.
+o LAF_AD    120i 1989.xx ..... ISBN 2-221-06478-X
+} noimg          _?                           ?
++ LAF_AD    120i 1990.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _BEAR Greg                   ternit‚ [Eon - 2] ş1988 Eternity
 o LAF_AD    121i 1989.xx ..... ISBN .-.....-...-.
@@ -3396,7 +3639,7 @@ o LAF_AD    126i 1990.xx ..... ISBN .-.....-...-.
 - .o .     R     _BENFORD Gregory             Mar‚es de lumiŠre [Centre galactique - 4] ş1989 Tides of Light
 o LAF_AD    127i 1990.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .oS.     R     _SILVERBERG Robert           La Reine du printemps [Cycle du peuple - 2] ş1990 The New Springtime şTrad. BERTHON Patrick
+- .oS.     R     _SILVERBERG Robert           La Reine du printemps [Cycle du peuple - 2] ş1989 The New Springtime şTrad. BERTHON Patrick
 o LAF_AD    128i 1990.xx ..... ISBN 2-221-.....-.
 } noimg          _?                           ?
 + LAF_AD      ?  2010.04 ..... ISBN 978-2-221-11374-5
@@ -3433,7 +3676,10 @@ o LAF_AD    134i 1991.xx R.... ISBN .-.....-...-.
 } noimg          _?                           ?
 + LAF_AD    134i 1999.xx R.... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _SIMMONS Dan                 Hyp‚rion [Hyp‚rion - 1] ş1989 Hyperion şTrad. ABADIA Guy
++ LAF_AD      ?  2022.09 ..... ISBN 978-2-221-26316-7
+} noimg          _?                           ?
+!--- GF - 135x215 - 528 pages
+- .oS.     R     _SIMMONS Dan                 Hyp‚rion [Hyp‚rion - 1] ş1989 Hyperion şTrad. ABADIA Guy
 o LAF_AD    135i 1992.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + LAF_AD    135i 2005.11 ..... ISBN 2-221-10549-4
@@ -3469,7 +3715,7 @@ o LAF_AD    144i 1994.xx ..... ISBN .-.....-...-.
 - .o .     R     _REED Robert                 La Voie terrestre ş1991 Down the Bright Way
 o LAF_AD    145i 1994.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _SHEFFIELD Charles           Le FrŠre des dragons ş1992 Brother of Worlds
+- .o .     R     _SHEFFIELD Charles           Le FrŠre des dragons ş1992 Brother to Dragons
 o LAF_AD    146i 1994.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _HARRISON Harry             &Le ProblŠme de Turing ş1992 The Turing Option şTrad. SIGAUD Bernard
@@ -3478,6 +3724,10 @@ o LAF_AD    147i 1994.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + LAF_AD      ?  2011.04 ..... ISBN 978-2-221-12577-9
 } noimg          _?                           ?
++ LAF_AD      ?  2022.10 ..... ISBN 978-2-221-26568-0
+} noimg          _Aur‚lien Police             ?
+!--- GF - 135x215 - 672 pages
+!--- Traduction revue
 - .oS.     R     _VINGE Vernor                Un feu sur l'abŒme ş1992 A Fire Upon the Deep şTrad. ABADIA Guy
 o LAF_AD    148i 1995.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -3496,7 +3746,7 @@ o LAF_AD    152i 1996.xx ..... ISBN .-.....-...-.
 - .o .     R     _STEPHENSON Neal             Le Samoura‹ virtuel ş1992 Snow Crash
 o LAF_AD    153i 1996.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EGAN Greg                   La Cit‚ des permutants ş1994 Permutation City
+- .o .     R     _EGAN Greg                   La Cit‚ des permutants ş1994 Permutation City şTrad. SIGAUD Bernard
 o LAF_AD    154i 1996.xx R.... ISBN .-.....-...-.
 } noimg          _?                           ?
 + LAF_AD    154i 1999.xx R.... ISBN .-.....-...-.
@@ -3554,7 +3804,7 @@ o LAF_AD    167i 2000.xx ..... ISBN .-.....-...-.
 - .o .     R     _HAMILTON Peter F.           Rupture dans le r‚el 2 : Expansion [L'Aube de la nuit - 2] ş1996 The Reality Disfunction şTrad. REY Pierre K. & BREQUE Jean-Daniel
 o LAF_AD      ?  2000.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _ANDERSON Kevin J.          &La Maison des Atre‹des [Avant Dune - 1][Dune] ş1999 Before Dune: House Atreides
+- .o .     R     _ANDERSON Kevin J.          &La Maison des Atre‹des [Avant Dune - 1][Dune] ş1999 House Atreides
 &                _HERBERT Brian               
 o LAF_AD      ?  2000.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -3573,7 +3823,7 @@ o LAF_AD      ?  2000.xx ..... ISBN 2-221-09135-3
 : .o .     R     _LE GUIN Ursula K.           Le nom du monde est forˆt [Cycle de l'Ekumen - 2][Cycle de Hain] ş1972 The Word for World Is Forest şTrad. DURASTANTI Pierre
 o LAF_AD    171i 2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _ANDERSON Kevin J.          &La Maison Harkonnen [Avant Dune - 2][Dune] ş1999 Before Dune: House Harkonen şTrad. DEMUTH Michel
+- .o .     R     _ANDERSON Kevin J.          &La Maison Harkonnen [Avant Dune - 2][Dune] ş1999 House Harkonen şTrad. DEMUTH Michel
 &                _HERBERT Brian               
 o LAF_AD    172i 2000.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -3581,7 +3831,7 @@ o LAF_AD    172i 2000.xx ..... ISBN .-.....-...-.
 !--- Nota : Pr‚quelle de "un feu sur l'abŒme"
 o LAF_AD    173i 2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .oS.     R     _BEAR Greg                   L'chelle de Darwin ş2000 Darwin's Radio şTrad. BREQUE Jean-Daniel
+- .oS.     R     _BEAR Greg                   L'chelle de Darwin [Darwin] ş2000 Darwin's Radio şTrad. BREQUE Jean-Daniel
 o LAF_AD    174i 2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _HAMILTON Peter F.           L'Alchimiste du neutronium 2 : conflit [L'Aube de la nuit - 4] ş1997 The Neutronium Alchemist şTrad. BREQUE Jean-Daniel
@@ -3590,7 +3840,7 @@ o LAF_AD    175i 2001.xx ..... ISBN .-.....-...-.
 - .o .     R     _EGAN Greg                   T‚ran‚sie ş1999 Teranesia şTrad. DURASTANTI Pierre-Paul
 o LAF_AD    176i 2002.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _ANDERSON Kevin J.          &La Maison Corrino [Avant Dune - 3][Dune] ş2000 Before Dune: House Corrino şTrad. DEMUTH Michel
+- .o .     R     _ANDERSON Kevin J.          &La Maison Corrino [Avant Dune - 3][Dune] ş2000 House Corrino şTrad. DEMUTH Michel
 &                _HERBERT Brian               
 o LAF_AD    177i 2002.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -3622,7 +3872,7 @@ o LAF_AD    183i 2003.xx ..... ISBN .-.....-...-.
 : .oS.     N     _LE GUIN Ursula K.           Les Os de la Terre [Terremer] ş2001 Bones of the Earth şTrad. DURASTANTI Pierre-Paul
 o LAF_AD    184i 2003.09 ..... ISBN 2-221-09936-2
 } noimg          _?                           ?
-- .oS.     R     _BEAR Greg                   Les Enfants de Darwin ş2003 Darwin's Children
+- .oS.     R     _BEAR Greg                   Les Enfants de Darwin [Darwin] ş2003 Darwin's Children
 o LAF_AD    185i 2003.11 ..... ISBN 2-221-09590-1
 } noimg          _?                           ?
 - .oS.     R     _McMULLEN Sean               Le Calculeur [Les ƒmes dans la grande machine - 1] ş1999 Souls in the Great Machine şTrad. PROVOST Rapha‰le
@@ -3641,11 +3891,13 @@ o LAF_AD    189i 2004.05 ..... ISBN 2-221-09452-2
 - .oS.     R     _SIMMONS Dan                 Ilium ş2003 Ilium şTrad. BREQUE Jean-Daniel
 o LAF_AD    190i 2004.09 ..... ISBN 2-221-09854-4
 } noimg          _?                           ?
-- .oS.     R     _SILVERBERG Robert           Roma Aeterna ş2003 Roma Aeterna şTrad. CHAMBON Jean-Marc
+!--- Fix-up de nouvelles modifi‚es par rapport … leur parution initiale.
+- .oS.     U     _SILVERBERG Robert           Roma Aeterna ş2003 Roma Aeterna şTrad. CHAMBON Jean-Marc
 o LAF_AD    191i 2004.10 ..... ISBN 2-221-09977-X
-} noimg          _?                           ?
-- .oS.     R     _STROSS Charles              Le Bureau des atrocit‚s [Le Bureau des atrocit‚s] ş2001 The Atrocity Archive şTrad. SIGAUD Bernard
-: .oS.     r     _STROSS Charles              La Jungle de b‚ton [Le Bureau des atrocit‚s] ş2004 The Concrete Jungle şTrad. SIGAUD Bernard
+} a&d0219.jpg    _?                           ?
+- .oS.     Rr    _STROSS Charles              Le Bureau des atrocit‚s [La Laverie] ş2004
+: .oS.     R     _STROSS Charles              Le Bureau des atrocit‚s [La Laverie - 1] ş2001 The Atrocity Archive şTrad. SIGAUD Bernard
+: .oS.     r     _STROSS Charles              La Jungle de b‚ton [La Laverie] ş2004 The Concrete Jungle şTrad. SIGAUD Bernard
 o LAF_AD    192i 2005.02 ..... ISBN 2-221-10409-9
 } noimg          _?                           ?
 - .oS.     R     _PANCHARD Georges            Forteresse ş2005
@@ -3694,7 +3946,7 @@ o LAF_AD    202i 2006.11 ..... ISBN 2-221-10661-X
 &                _HERBERT Brian               
 : .oS.  27 r     _ANDERSON Kevin J.          &La PlanŠte de l'‚pice - PremiŠre partie [Dune] ş2005 Spice Planet Part 1 şTrad. DEMUTH Michel
 &                _HERBERT Brian               
-: .oS. 143 r     _ANDERSON Kevin J.          &La PlanŠte de l'‚pice - DeuxiŠme partie [Dune] ş2005  Spice Planet Part 2 şTrad. DEMUTH Michel
+: .oS. 143 r     _ANDERSON Kevin J.          &La PlanŠte de l'‚pice - DeuxiŠme partie [Dune] ş2005 Spice Planet Part 2 şTrad. DEMUTH Michel
 &                _HERBERT Brian               
 : .oS. 305 a     _HERBERT Frank               Ils ont arrˆt‚ les sables mouvants ş2005 The Stopped the Moving Sands şTrad. DEMUTH Michel
 : .oS. 315 a     _BLASSINGAME Lutton         &lettres de Dune ş2005 The Letters of Dune şTrad. DEMUTH Michel
@@ -3723,7 +3975,7 @@ o LAF_AD      ?  2007.05 ..... ISBN 2-221-10846-9
 - .oS.     R     _VINGE Vernor                Rainbows end ş2006 Rainbows End şTrad. DUSOULIER Patrick
 o LAF_AD      ?  2007.09 ..... ISBN 978-2-221-10839-0
 } noimg          _?                           ?
-- .oS.     R     _ANDERSON Kevin J.          &Les Chasseurs de Dune [AprŠs Dune - 1][Dune] ş2006 Dune Sequels : Hunters of Dune şTrad. DUSOULIER Patrick
+- .oS.     R     _ANDERSON Kevin J.          &Les Chasseurs de Dune [AprŠs Dune - 1][Dune] ş2006 Hunters of Dune şTrad. DUSOULIER Patrick
 &                _HERBERT Brian               
 o LAF_AD      ?  2007.10 ..... ISBN 978-2-221-10978-6
 } a&d0235        _?                           ?
@@ -3846,15 +4098,18 @@ o LAF_AD      ?  2014.11 ..... ISBN 978-2-221-11388-2
 - .oS.     R     _HERBERT Brian              &Les Mentats de Dune [Dune, les origines - 2][Dune] ş2014 Mentats of Dune şTrad. DUSOULIER Patrick
 &                _ANDERSON Kevin J.           
 
-!-----------------------------------------------------------------------------
-_ LAFAD20 <b>in</b> Ailleurs et demain … vingt ans, Laffont, Coll. Ailleurs et Demain
-!-----------------------------------------------------------------------------
-o LAFAD20     ?  1990.xx ..... ISBN ?
+
+o LAF_AD      ?  1990.03 ..... ISBN 2-221-06786-X
 } noimg          _?                           ?
-- .o .     N     _RENARD Maurice              Le Voyage immobile ş1909
+!--- 122 pages - 25 francs
+!--- pr‚face de G‚rard Klein
+!--- Pierre Adornier est le pseudonyme de Lucien Job, n‚ le 14/02/1885, mort le 25/06/1968
+- .o .     Ex    ****                         Ailleurs et demain … vingt ans ş1990
+: .o .     N     _RENARD Maurice              Le Voyage immobile ş1909
+: .o .     N     _ADORNIER Pierre             La Mort du film ş1923
 
 !-----------------------------------------------------------------------------
-_ LAF_ADC Laffont, Coll. Ailleurs et Demain/Classiques
+_ LAF_ADC Laffont - Ailleurs et Demain/Classiques
 !-----------------------------------------------------------------------------
 !---          "Ailleurs et demain" Classiques - LAFFONT (1970 - ??)
 !---  Mˆme format, mˆme pr‚sentation que A&D, mais pour les r‚‚ditions (DICK,
@@ -3903,7 +4158,7 @@ o LAF_ADC     7i 1973.xx ..... ISBN -
 } a&d0027        _?                           ?
 - .oS.     A4    *KLEIN G‚rard               &Sur l'autre face du monde et autres romans scientifiques de Sciences et Voyages ş1973
 &                *VAN HERP Jacques            
-: .o .     R     _THEVENIN Ren‚               Les Chasseurs d'hommes ş1929-1930
+: .o .     R     _THEVENIN Ren‚               Les Chasseurs d'hommes ş1930
 : .o .     R     _BREMOND Raoul               Par del… l'univers ş?
 : .o .     R     _D'ARMEN Guy                 La Cit‚ de l'or et de la lŠpre [Doc Ardan] ş1928
 : .o .     R     _VALERIE A.                  Sur l'autre face du monde ş1935
@@ -3959,7 +4214,7 @@ o LAF_ADC    17i 1979.xx ..... ISBN 2-221-00134-6
 + LAF_ADC    17i 1982.xx ..... ISBN .-.....-...-.
 } a&d0070r82     _?                           ?
 - .oS.    cR2    _FARMER Philip Jos‚          Le Fleuve de l'‚ternit‚ [Le Fleuve de l'‚ternit‚ - 1/2] ş1979
-: .o .     R     _FARMER Philip Jos‚          Le Monde du fleuve [Le Fleuve de l'‚ternit‚ - 1] ş1971 To your Scattered Bodies Go şTrad. ABADIA Guy
+: .o .     R     _FARMER Philip Jos‚          Le Monde du fleuve [Le Fleuve de l'‚ternit‚ - 1] ş1971 To Your Scattered Bodies Go şTrad. ABADIA Guy
 : .o .     R     _FARMER Philip Jos‚          Le Bateau fabuleux [Le Fleuve de l'‚ternit‚ - 2] ş1971 The Fabulous Riverboat şTrad. ABADIA Guy
 o LAF_ADC    18i 1980.xx ..... ISBN 2-221-00270-9
 } noimg          _?                           ?
@@ -3976,7 +4231,11 @@ o LAF_ADC    20i 1982.xx ..... ISBN .-.....-...-.
 !--- Note : bonjour l'accord !!! (Pass‚ la ...)
 o LAF_ADC    21i 1983.xx R.... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     F     _CLARKE Arthur C.            2001, l'odyss‚e de l'espace [L'Odyss‚e de l'espace - 1] ş1968 2001: A Space Odyssee
++ LAF_AD      ?  2021.10 ..... ISBN 978-2-221-24162-2
+} noimg          _?                           ?
+!--- GF - 135x215 
+!--- Traduction 2021 Trad. GOULLET Gilles
+- .o .     F     _CLARKE Arthur C.            2001, l'odyss‚e de l'espace [L'Odyss‚e de l'espace - 1] ş1968 2001: A Space Odyssey
 o LAF_ADC    22i 1985.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _DICK Philip K.              Coulez mes larmes, dit le policier ş1974 Flow My Tears, the Policeman Said
@@ -4007,9 +4266,19 @@ o LAF_ADC    25i 1999.xx ..... ISBN .-.....-...-.
 + LAF_ADC    25i 2014.03 ..... ISBN 978-2-221-14157-1
 } noimg          _?                           ?
 - .oS.     R     _HEINLEIN Robert             En terre ‚trangŠre ş1961 Stranger in a Strange Land şTrad. STRASCHITZ Frank
+o LAF_AD      ?  2021.06 ..... ISBN 978-2-221-25170-6
+} noimg          _Aur‚lien Police             ?
+!--- GF - 135x215 - 468 pages
+- .oS.     R     _ANDERSON Kevin J.          &Le Duc [Chroniques de Caladan - 1][Dune] ş2020 The Duke of Caladan şTrad. BOUCHER Fr‚d‚rique Le
+&                _HERBERT Brian               
+o LAF_AD      ?  2022.05 ..... ISBN 978-2-221-25171-3
+} noimg          _Aur‚lien Police             ?
+!--- GF - 135x215 - 594 pages - 22,90 euros
+- .oS.     R     _ANDERSON Kevin J.          &La Dame [Chroniques de Caladan - 2][Dune] ş2021 The Lady of Caladan şTrad. BOUCHER Fr‚d‚rique Le
+&                _HERBERT Brian               
 
 !-----------------------------------------------------------------------------
-_ LAF_ADL Laffont, Coll. Ailleurs et Demain/L'‚cart
+_ LAF_ADL Laffont - Ailleurs et Demain/L'‚cart
 !-----------------------------------------------------------------------------
 !--- "Ailleurs et demain" - L'‚cart
 !-----------------------------------------------------------------------------
@@ -4018,7 +4287,7 @@ o LAF_ADL     1i 1979.xx ..... ISBN .-.....-...-.
 - .o .     R     _LHOSTIS Christian-Yves      Tous ces pas vers le jaune ş?
 
 !-----------------------------------------------------------------------------
-_ LAF_ADE Laffont, Coll. Ailleurs et Demain/Essais
+_ LAF_ADE Laffont - Ailleurs et Demain/Essais
 !-----------------------------------------------------------------------------
 !---  "Ailleurs et demain" - Essais (1973 - 1984)
 !-----------------------------------------------------------------------------
@@ -4033,7 +4302,7 @@ o LAF_ADE     3i 1984.xx ..... ISBN .-.....-...-.
 - .o .     E     _SADOUL Jacques              Histoire de la science-fiction moderne ş1973-1984
 
 !-----------------------------------------------------------------------------
-_ LAF_BIB Laffont, Coll. La BibliothŠque
+_ LAF_BIB Laffont - La BibliothŠque
 !-----------------------------------------------------------------------------
 !---
 !-----------------------------------------------------------------------------
@@ -4062,14 +4331,14 @@ o LAF_BIB     4  2003.10 ..... ISBN 2-221-91329-9
 } lafbib4        _?                           ?
 >--- R‚uni en coffret avec le volume contenant les trois romans pr‚c‚dents.
 - .oS.    _R3    _HERBERT Frank               Le Cycle de Dune - 2 [Dune - 4/6] ş2003
-: .oS.     R     _HERBERT Frank               L'Empereur-Dieu de Dune [Dune - 4] ş1981 God-emperor of Dune
+: .oS.     R     _HERBERT Frank               L'Empereur-Dieu de Dune [Dune - 4] ş1981 God Emperor of Dune
 : .oS.     R     _HERBERT Frank               Les H‚r‚tiques de Dune [Dune - 5] ş1984 Heretics of Dune
 : .oS.     R     _HERBERT Frank               La Maison des mŠres [Dune - 6] ş1985 Chapterhouse: Dune şTrad. ABADIA Guy
 o LAF_BIB     5  2003.10 ..... ISBN 2-221-91327-2
 } noimg          _?                           ?
 >--- R‚uni en coffret avec le volume contenant les deux romans suivants.
 - .oS.    _R3    _FARMER Philip Jos‚          Le Fleuve de l'‚ternit‚ - 1 [Le Fleuve de l'‚ternit‚ - 1/3] ş1979
-: .oS.     R     _FARMER Philip Jos‚          Le Monde du fleuve [Le Fleuve de l'‚ternit‚ - 1] ş1971 To your Scattered Bodies Go şTrad. ABADIA Guy
+: .oS.     R     _FARMER Philip Jos‚          Le Monde du fleuve [Le Fleuve de l'‚ternit‚ - 1] ş1971 To Your Scattered Bodies Go şTrad. ABADIA Guy
 : .oS.     R     _FARMER Philip Jos‚          Le Bateau fabuleux [Le Fleuve de l'‚ternit‚ - 2] ş1971 The Fabulous Riverboat şTrad. ABADIA Guy
 : .oS.     R     _FARMER Philip Jos‚          Le Noir Dessein [Le Fleuve de l'‚ternit‚ - 3] ş1977 The Dark Design
 o LAF_BIB     6  2003.11 ..... ISBN 2-221-91327-2
@@ -4080,9 +4349,9 @@ o LAF_BIB     6  2003.11 ..... ISBN 2-221-91327-2
 : .oS.     R     _FARMER Philip Jos‚          Les Dieux du fleuve [Le Fleuve de l'‚ternit‚ - 5] ş1983 Gods of Riverworld şTrad. CANET Charles
 
 !-----------------------------------------------------------------------------
-_ LAFF_R  Laffont, Coll. R
-_ LAFF_RJ Laffont, Coll. R Jeunesse
-_ LAFF_RC Laffont, Coll. R Edition Collector
+_ LAFF_R  Laffont - R
+_ LAFF_RJ Laffont - R Jeunesse
+_ LAFF_RC Laffont - R Edition Collector
 !-----------------------------------------------------------------------------
 !--- Dir coll : Glenn Tavennec
 !-----------------------------------------------------------------------------
@@ -4418,6 +4687,9 @@ o LAFF_R      ?  2018.10 ..... ISBN 978-2-221-20296-8
 - .oS.     R     _MORGAN Kass                 Light Years [Light Years - 1] ş2018 Lignt Years şTrad. LE BOUCHER Fr‚d‚rique
 o LAFF_R      ?  2018.11 ..... ISBN 978-2-221-22107-5
 } noimg          _?                           ?
++ LAFF_R      ?  2021.06 ..... ISBN 978-2-221-25198-0
+} noimg          _?                           ?
+!--- YA - GF - 135x215 - 450 pages
 - .oS.     R     _SHUSTERMAN Neal            &Dry ş2018 Dry şTrad. ARDILLY C‚cile
 &                _SHUSTERMAN Jarrod           
 o LAFF_RC     ?  2018.11 ..... ISBN 978-2-221-22103-7
@@ -4465,14 +4737,82 @@ o LAFF_R      ?  2020.06 ..... ISBN 978-2-221-24222-3
 o LAFF_R      ?  2020.06 ..... ISBN 978-2-221-14073-4
 } noimg          _?                           ?
 !--- Ado - 135 x 215 mm - 360 pages - 17.90 euros
-- .oY.     R     _CASS Kiera                  La Fianc‚e ş2020 The Betrothed şTrad. NASALIK Madeleine
+- .oY.     R     _CASS Kiera                  La Fianc‚e [La Fianc‚e - 1] ş2020 The Betrothed şTrad. NASALIK Madeleine
 o LAFF_R      ?  2020.10 ..... ISBN 978-2-221-25057-0
 } noimg          _?                           ?
 !--- Jeunesse - 135 x 215 mm - 496 pages - 16.00 euros
++ LAFF_R      ?  2022.05 ..... ISBN 978-2-221-26319-8
+} noimg          _?                           ?
+!--- Jeunesse - 135 x 215 mm - 496 pages - 9.90 euros
 - .oF.     R     _DIXEN Victor                La Cour des t‚nŠbres [Vampyria - 1] ş2020
+!------------------------
+!=== 2021
+!------------------------
+o LAFF_R      ?  2021.02 ..... ISBN 978-2-221-21841-9
+} noimg          _Leonard Dupond              ?
+!--- YA - GF - 135 x 215 - 312 pages
+- .o .     R     _SHUSTERMAN Neal             Eclats d'‚toile [Eclats d'‚toile - 1] ş1994 Scorpion Shards şTrad. ARDILLY C‚cile
+o LAFF_R      ?  2021.05 ..... ISBN 978-2-221-24824-9
+} noimg          _?                           ?
+!--- YA - GF - 135x215 - 468 pages
++ LAFF_R      ?  2022.03 ..... ISBN 978-2-221-26114-9
+} noimg          _?                           ?
+!--- YA - GF - 135x215 - 468 pages - 9,90 euros
+- .o .     R     _JEANERES Caroline           Fils de la grande ourse [Ursibel - 1] ş2021
+o LAFF_R      ?  2021.06 ..... ISBN 978-2-221-25068-6
+} noimg          _?                           ?
+!--- YA - GF - 135x215 - 528 pages
+- .o .     R     _DIXEN Victor                La Cour des miracles [Vampyria - 2] ş2021
+o LAFF_R      ?  2021.07 ..... ISBN 978-2-221-14074-1
+} noimg          _? Shutterstock & Arcangel Images
+!--- YA - GF - 135x215 - 336 pages
+- .o .     R     _CASS Kiera                  Amoureuse [La Fianc‚e - 2] ş2021 The Betrayed şTrad. NASALIK Madeleine
+o LAFF_R      ?  2021.09 ..... ISBN 978-2-221-24753-2
+} noimg          _?                           ?
+!--- YA - GF - 135x215 - 396 pages - 17,90 euros
+- .o .     R     _SILVERA Adam                Fils de l'infini [Fils de l'infini - 1] ş2020 Infinity Son şTrad. MASCUREAU Constance de
+o LAFF_R      ?  2021.10 ..... ISBN 978-2-221-24246-9
+} noimg          _Shyama Golden               ?
+!--- YA - GF - 135x215 
+- .o .     R     _MORGAN Kass                &Les Ailes d'ombre [Les Ailes d'ombre - 1] ş2020 The Ravens şTrad. NASALIK Madeleine
+&                _PAIGE Danielle              
+o LAFF_R      ?  2021.11 ..... ISBN 978-2-221-21842-6
+} noimg          _Leonard Dupond              ?
+!--- YA - GF - 135x215 - 378 pages
+- .o .     R     _SHUSTERMAN Neal             Le D‚voreur d'ƒmes [Eclats d'‚toile - 2] ş1999 Thief of Souls şTrad. ARDILLY C‚cile
+!------------------------
+!=== 2022
+!------------------------
+o LAFF_R      ?  2022.01 ..... ISBN 978-2-221-26319-8
+} noimg          _?                           ?
+!--- Jeunesse - 135 x 215 mm - 400 pages - 18.50 euros
+- .o .     R     _KOSZELYK Alexandra          Le Sanctuaire d'Emona ş2022
+o LAFF_R      ?  2022.05 ..... ISBN 978-2-221-26319-8
+} noimg          _?                           ?
+!--- Jeunesse - 135 x 215 mm - 608 pages - 18.00 euros
+- .o .     R     _DIXEN Victor                La Cour des ouragans [Vampyria - 3] ş2022
+o LAFF_R      ?  2022.06 ..... ISBN 978-2-221-24754-9
+} noimg          _?                           ?
+!--- YA - GF - 135x215 - 558 pages - 1‡,50 euros
+- .o .     R     _SILVERA Adam                Fils du n‚ant [Fils de l'infini - 2] ş2021 Infinity Reaper şTrad. ARDILLY C‚cile
+o LAFF_R      ?  2022.07 ..... ISBN 978-2-221-24247-6
+} noimg          _?                           ?
+!--- YA - GF - 135x215 - 432 pages - 19,90 euros
+- .oF.     R     _MORGAN Kass                &Les Ailes de feu [Les Ailes d'ombre - 2] ş2022 The Monarchs şTrad. NASALIK Madeleine
+&                _PAGE Danielle               
+o LAFF_R      ?  2022.10 ..... ISBN 978-2-221-26088-3
+} noimg          _?                           ?
+!--- YA - GF - 135x215 - 416 pages - 18,50 euros
+- .oY.     R     _CHEVALIER Chlo‚             La Sans-toiles [Loin des Œles mauves - 1] ş2022
+o LAFF_R      ?  2022.11 ..... ISBN 978-2-221-21843-3
+} noimg          _Leonard Dupond              ?
+!--- YA - GF - 135x215 - 684 pages
+- .oF.     R     _SHUSTERMAN Neal             Supernovas [Eclats d'‚toile - 3] ş2002 Shattered Sky şTrad. ARDILLY C‚cile
+
+
 
 !-----------------------------------------------------------------------------
-! LAFF_RJ Laffont, Coll. R Jeunesse
+! LAFF_RJ Laffont, R Jeunesse
 !-----------------------------------------------------------------------------
 !------------------------
 !=== 2016
@@ -4504,4 +4844,65 @@ o LAFF_RJ     ?  2018.11 ..... ISBN 978-2-221-20280-7
 !------------------------
 !=== 2019
 !------------------------
+
+
+
+
+!-----------------------------------------------------------------------------
+_ LAFFONn Laffont [num‚rique]
+!-----------------------------------------------------------------------------
+o LAFFONn     ?  2021.03 ..... ISBN 978-2-221-24738-9
+} rlafds1n       _?                           ?
+- .oF.    kN5    _SIMMONS Dan                 L'Amour, la mort ş1993 Lovedeath şTrad. LEBAILLY Monique
+: .x .     N     _SIMMONS Dan                 Le Lit de l'entropie … minuit ş1990 Entropy's Bed at Midnight şTrad. LEBAILLY Monique
+: .o .     N     _SIMMONS Dan                 Mourir … Bangkok ş1993 Death in Bangkok şTrad. LEBAILLY Monique
+: .o .     r     _SIMMONS Dan                 Coucher avec des femmes dentues ş1993 Sleeping With Teeth Women şTrad. LEBAILLY Monique
+: .o .     N     _SIMMONS Dan                 Flash-back ş1993 Flashback şTrad. LEBAILLY Monique
+: .o .     r     _SIMMONS Dan                 Le Grand Amant ş1993 The Great Lover şTrad. LEBAILLY Monique
+o LAFFONn     ?  2021.03 ..... ISBN 978-2-221-24745-7
+} noimg          _?                           ?
+- .o .     R     _SIMMONS Dan                 L'Homme nu ş1992 The Hollow Man şTrad. LEBAILLY Monique
+o LAFFONn     ?  2021.03 ..... ISBN 978-2-221-24732-7
+} rlafds2n       _?                           ?
+- .oF.     R     _SIMMONS Dan                 L'chiquier du mal ş1989 Carrion Comfort şTrad. BREQUE Jean-Daniel
+o LAFFONn     ?  2021.03 ..... ISBN 978-2-221-24736-5
+} rlafds3n       _?                           ?
+- .x .     R     _SIMMONS Dan                 L'p‚e de Darwin ş2000 Darwin's Blade şTrad. ABADIA Guy
+o LAFFONn     ?  2021.03 ..... ISBN 978-2-221-24741-9
+} noimg          _?                           ?
+- .o .     R     _SIMMONS Dan                 Le Chant de Kali ş1985 Song of Kali şTrad. EMMERICH Bernadette
+o LAFFONn     ?  2021.03 ..... ISBN 978-2-221-24731-0
+} rlafds5n       _?                           ?
+- .oF.     N12   _SIMMONS Dan                 Le Styx coule … l'envers ş1997
+: .o .     N     _SIMMONS Dan                 Le Styx coule … l'envers ş1982 The River Styx Runs Upstream şTrad. BREQUE Jean-Daniel
+: .o .     N     _SIMMONS Dan                 Vanni Fucci est bien vivant et il vit en enfer ş1988 Vanni Fucci Is Alive and Well and Living in Hell şTrad. BREQUE Jean-Daniel
+: .o .     N     _SIMMONS Dan                 Passeport pour Vietnamland ş1987 E-Ticket to 'Namland şTrad. BREQUE Jean-Daniel
+: .o .     N     _SIMMONS Dan                 Deux minutes quarante-cinq secondes ş1988 Two Minutes Forty-Five Seconds şTrad. BREQUE Jean-Daniel
+: .o .     N     _SIMMONS Dan                 M‚tastases ş1988 Metastasis şTrad. BREQUE Jean-Daniel
+: .o .     N     _SIMMONS Dan                 Douce nuit, sainte nuit ş1985 Vexed to Nightmare by a Rocking Cradle şTrad. BREQUE Jean-Daniel
+: .o .     N     _SIMMONS Dan                 M‚moires priv‚s de la pand‚mie des stigmates d'Hoffer ş1991 My Private Memoirs of the Hoffer Stigmata Pandemic şTrad. BREQUE Jean-Daniel
+: .o .     N     _SIMMONS Dan                 Les Fosses d'Iverson ş1988 Iverson's Pits şTrad. BREQUE Jean-Daniel
+: .o .     N     _SIMMONS Dan                 Le Conseiller ş1991 The Counselor şTrad. BREQUE Jean-Daniel
+: .o .     N     _SIMMONS Dan                 Photo de classe ş1992 This Year's Class Picture şTrad. BREQUE Jean-Daniel
+!--- TBC titre vo : _This year's class picture_ ou _This Year's Class Picture_ ?
+: .o .     N     _SIMMONS Dan                 Mes Copsa Mica ş1994 My Copsa Mica şTrad. BREQUE Jean-Daniel
+: .o .     N     _SIMMONS Dan                 A la recherche de Kelly Dahl ş1995 Looking for Kelly Dahl şTrad. BREQUE Jean-Daniel
+o LAFFONn     ?  2021.03 ..... ISBN 978-2-221-24737-2
+} rlafds6n       _?                           ?
+- .o .     R     _SIMMONS Dan                 Les Feux de l'‚den ş1994 Fires of Eden şTrad. LEBAILLY Monique
+o LAFFONn     ?  2021.03 ..... ISBN 978-2-221-24733-4
+} rlafds4n       _?                           ?
+- .o .     R     _SIMMONS Dan                 Les Fils des t‚nŠbres ş1992 Children of the Night şTrad. LEBAILLY Monique
+o LAFFONn     ?  2021.03 ..... ISBN 978-2-221-24735-8
+} rlafds7n       _?                           ?
+- .x .     R     _SIMMONS Dan                 Les Forbans de Cuba ş1999 The Crook Factory şTrad. BREQUE Jean-Daniel
+o LAFFONn     ?  2021.03 ..... ISBN 978-2-221-24740-2
+} noimg          _?                           ?
+- .oF.     R     _SIMMONS Dan                 Les Larmes d'Icare ş1989 Phases of Gravity şTrad. BREQUE Jean-Daniel
+o LAFFONn     ?  2021.03 ..... ISBN 978-2-221-24743-3
+} noimg          _?                           ?
+- .xP.     R     _SIMMONS Dan                 Vengeance [Trilogie Joe Kurtz - 1] ş2000 Hardcase şTrad. ABADIA Guy
+o LAFFONn     ?  2021.03 ..... ISBN 978-2-221-24744-0
+} noimg          _?                           ?
+- .xP.     R     _SIMMONS Dan                 Revanche [Trilogie Joe Kurtz - 2] ş2002 Hard Freeze şTrad. ABADIA Guy
 

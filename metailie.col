@@ -29,7 +29,7 @@ o SEUIMET     ?  2008.04 ..... ISBN 978-2-02-090454-4
 - .o .     R     _BODOC Liliana               Le Feu [La Saga des confins - 3] þ2004 Los dias del fuego þTrad. GUGNON Isabelle
 
 !-----------------------------------------------------------------------------
-_ ECUREUI Ed. de l'Ecureuil
+_ ECUREUI Editions de l'Ecureuil
 !-----------------------------------------------------------------------------
 o ECUREUI     ?  1943.xx ..... ISBN -
 } noimg          _?                           ?
@@ -45,7 +45,7 @@ o METNOIR    11  1999.xx ..... ISBN .-.....-...-.
 - .o .     R     _VETTIER Jacques             N‚croprocesseurs þ?
 
 !-----------------------------------------------------------------------------
-_ MET_BHI M‚taili‚, BibliothŠque hispanique
+_ MET_BHI M‚taili‚ - BibliothŠque hispanique
 !-----------------------------------------------------------------------------
 o MET_BHI     ?  2002.09 ..... ISBN 2-86424-434-9
 } noimg          _?                           ?
@@ -61,7 +61,7 @@ o MET_BHI     ?  2019.09 ..... ISBN 979-10-226-0942-5
 - .oF.     R     _MONTERO Rosa                Le Temps de la haine [Bruna Husky - 3] þ2018 Los tiempos del odio þTrad. CHIROUSSE Myriam
 
 !-----------------------------------------------------------------------------
-_ MET_BHA M‚taili‚, BibliothŠque hispano-am‚ricaine
+_ MET_BHA M‚taili‚ - BibliothŠque hispano-am‚ricaine
 !-----------------------------------------------------------------------------
 !--- M‚taili‚ / BibliothŠque Hispano-Am‚ricaine
 !-----------------------------------------------------------------------------
@@ -148,16 +148,19 @@ o MET_BHA     ?  1995.xx ..... ISBN 2-86424-198-6
 : .o .     N     _QUIROGA Horacio             Les Exil‚s þ1926 Los desterrados
 : .o .     N     _QUIROGA Horacio             Van Houten þ1926 Van Houten
 : .o .     N     _QUIROGA Horacio             Tacuara-Mansi¢n þ1926 Tacuara Mansi¢n
-: .o .     N     _QUIROGA Horacio             L'Homme mort þ1920 El hombre muerte
+: .o .     N     _QUIROGA Horacio             L'Homme mort þ1920 El hombre muerto
 : .o .     N     _QUIROGA Horacio             Le Toit d'encens þ1926 El techo de incienso
 : .o .     N     _QUIROGA Horacio             La Chambre noire þ1926 La c mara oculta
 : .o .     N     _QUIROGA Horacio             Les Distillateurs d'oranges þ1926 Los destiladores de naranja
+o MET_BHA     ?  2000.xx ..... ISBN 2-86424-359-8
+} noimg          _?                           ?
+- .oF.     R     _ANDAHAZI Federico           La Villa des mystŠres þ1998 Las piadosas þTrad. BLETON Claude
 o MET_BHA     ?  2012.02 ..... ISBN 978-1-86424-854-5
 } noimg          _?                           ?
 - .o .     R     _DE SANTIS Pablo             La Soif primordiale þ2010 Los Anticuarios þTrad. GAUDRY Fran‡ois
 
 !-----------------------------------------------------------------------------
-_ MET_BAS M‚taili‚, BibliothŠque anglo-saxonne
+_ MET_BAS M‚taili‚ - BibliothŠque anglo-saxonne
 !-----------------------------------------------------------------------------
 !--- M‚taili‚ / BibliothŠque Anglo-saxonne
 !-----------------------------------------------------------------------------
@@ -170,11 +173,11 @@ o MET_BAS     ?  2001.xx ..... ISBN .-.....-...-.
 &                _PENROSE Roger               
 o MET_BAS     ?  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .oS.    _N21   _ALDISS Brian W.             Supertoys : intelligence artificielle et autres histoires du futur þ2001 Supertoys Last All Summer Long and Others Stories of Future Time
-: .oS.     N     _ALDISS Brian W.             Les Supertoys durent tout l'et‚ þ1969 Supertoys Last All Summer Long þTrad. LEOBARDY Catherine de
+!--- TBC si absent : Trois genres de solitude (2001 Three types of solitude, Trad. LEOBARDY Catherine de)
+- .oS.    _N21   _ALDISS Brian W.             Supertoys : intelligence artificielle et autres histoires du futur þ2001 Super-Toys Last All Summer Long and Others Stories of Future Time
+: .oS.     N     _ALDISS Brian W.             Les Supertoys durent tout l'et‚ þ1969 Super-Toys Last All Summer Long þTrad. LEOBARDY Catherine de
 : .oS.     N     _ALDISS Brian W.             Les Supertoys quand arrive l'hiver þ2001 Supertoys when Winter Comes þTrad. LEOBARDY Catherine de
 : .oS.     N     _ALDISS Brian W.             Supertoys les autres saisons þ2001 Supertoys in Other Seasons þTrad. LEOBARDY Catherine de
-!--- Trois genres de solitude þ2001 Three types of solitude þTrad. LEOBARDY Catherine de
 : .oS.     N     _ALDISS Brian W.             Le Bonheur … l'envers : Trois genres de solitude þ2001 Happiness in Reverse - Three Types of Solitude þTrad. LEOBARDY Catherine de
 : .oS.     N     _ALDISS Brian W.             L'Id‚e fixe : Trois genres de solitude þ2001 A Single-Minded Artist - Three Types of Solitude þTrad. LEOBARDY Catherine de
 : .oS.     N     _ALDISS Brian W.             Les Cubes parlants : Trois genres de solitude þ2001 Talking Cubes - Three Types of Solitude þTrad. LEOBARDY Catherine de
@@ -207,7 +210,7 @@ o MET_BAS     ?  2002.xx ..... ISBN .-.....-...-.
 - .o .     R     _ALDISS Brian W.             Super ‚tat þ2002 Super State, a Novel of the European Union Forty Years Hense þTrad. LEMOINE Daniel
 
 !-----------------------------------------------------------------------------
-_ MET_ECO M‚taili‚, BibliothŠque ‚cossaise
+_ MET_ECO M‚taili‚ - BibliothŠque ‚cossaise
 !-----------------------------------------------------------------------------
 !--- M‚taili‚ / BibliothŠque ‚cossaise
 !-----------------------------------------------------------------------------
@@ -222,13 +225,13 @@ o MET_ECO     ?  2003.xx 18.00 ISBN 2-86424-462-4
 - .oS.     R     _GRAY Alasdair               Le Faiseur d'histoire þ1994 A History Maker þTrad. SCHWALLER C‚line
 
 !-----------------------------------------------------------------------------
-_ METSUIT M‚taili‚, Coll. Suites
+_ METSUIT M‚taili‚ - Suites
 !-----------------------------------------------------------------------------
 !--- 19 x 13 ISSN 1281-5667
 !-----------------------------------------------------------------------------
 o METSUIT     1  1997.01 ..... ISBN 2-86424-246-X
 } noimg          _?                           ?
-- .oFK    iN29   *COUFFON Claude              Histoires ‚tranges et fantastiques d'Am‚rique Latine þ1989
+- .oFK    iNx    *COUFFON Claude              Histoires ‚tranges et fantastiques d'Am‚rique Latine þ1989
 : .o .     N     _ALCORTA Gloria              Le Ressuscit‚ þ1987
 : .o .     N     _GARRO Elena                 Le Jour o— nous f–mes des chiens þ1964 El d¡a que fuimos perros þTrad. COUFFON Claude
 o METSUIT     5  1997.10 ..... ISBN 2-86424-258-3
@@ -240,7 +243,7 @@ o METSUIT     5  1997.10 ..... ISBN 2-86424-258-3
 : .o .     N     _QUIROGA Horacio             Les Exil‚s þ1926 Los desterrados
 : .o .     N     _QUIROGA Horacio             Van Houten þ1926 Van Houten
 : .o .     N     _QUIROGA Horacio             Tacuara-Mansi¢n þ1926 Tacuara Mansi¢n
-: .o .     N     _QUIROGA Horacio             L'Homme mort þ1920 El hombre muerte
+: .o .     N     _QUIROGA Horacio             L'Homme mort þ1920 El hombre muerto
 : .o .     N     _QUIROGA Horacio             Le Toit d'encens þ1926 El techo de incienso
 : .o .     N     _QUIROGA Horacio             La Chambre noire þ1926 La c mara oculta
 : .o .     N     _QUIROGA Horacio             Les Distillateurs d'oranges þ1926 Los destiladores de naranja

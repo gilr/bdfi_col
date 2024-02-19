@@ -1,12 +1,12 @@
 !-----------------------------------------------------------------------------
 _ SEMA    S‚ma ‚ditions (Belgique)
-_ SEMAGAL S‚ma ‚ditions (Belgique), Coll. S‚ma Galaxie
-_ SEMAGIQ S‚ma ‚ditions (Belgique), Coll. S‚ma'gique
-_ SEMALSA S‚ma ‚ditions (Belgique), Coll. S‚ma'lsain
-_ SEMALSn S‚ma ‚ditions (Belgique), Coll. S‚ma'lsain (num‚rique)
-_ SEMAPHO S‚ma ‚ditions (Belgique), Coll. S‚ma'phore
-_ SEMACAB S‚ma ‚ditions (Belgique), Coll. S‚ma'cabre
-_ SEM-PHE S‚ma ‚ditions (Belgique), Phenix
+_ SEMAGAL S‚ma ‚ditions (Belgique) - S‚ma Galaxie
+_ SEMAGIQ S‚ma ‚ditions (Belgique) - S‚ma'gique
+_ SEMALSA S‚ma ‚ditions (Belgique) - S‚ma'lsain
+_ SEMALSn S‚ma ‚ditions (Belgique) - S‚ma'lsain [num‚rique]
+_ SEMAPHO S‚ma ‚ditions (Belgique) - S‚ma'phore
+_ SEMACAB S‚ma ‚ditions (Belgique) - S‚ma'cabre
+_ SEM-PHE S‚ma ‚ditions (Belgique) - Phenix
 !-----------------------------------------------------------------------------
 !--- S‚ma ‚ditions, 2 rue F‚licien Terwagne, 5020 Vedrin Belgique
 !-----------------------------------------------------------------------------
@@ -173,7 +173,7 @@ o SEMAGIQ     ?  2018.03 ..... ISBN 978-2-930880-41-9
 - .oS.     R     _NUNCQ Emmanuelle            Les Chercheurs du temps þ2018
 o SEMALSA     ?  2018.06 ..... ISBN 978-2-930880-44-0
 } noimg          _Fleurine R‚tor‚             ?
-!---  id : La Seconde Mort de Camille Millien þ2009
+!---  idem : La Seconde Mort de Camille Millien (2009)
 !---  TBD r‚vis‚ en 2018 ?
 - .oF.     R     _FAVARD Jean-Pierre          A l'heure o— je succombe þ2009
 o SEMAGIQ     ?  2018.06 ..... ISBN 978-2-930880-47-1
@@ -239,7 +239,7 @@ o SEMALSA     ?  2019.04 ..... ISBN 978-2-930880-77-8
 &                _LIVYNS Fr‚d‚ric             
 : .o .     N     _LIVYNS Fr‚d‚ric             La Bouche de l'ancien þ2019
 : .o .     N     _MASTERTON Graham            R‚sonances mal‚fiques þ2018 Resonant Evil þTrad. CORTHOUTS Christophe
-: .o .     N     _LIVYNS Fr‚d‚ric             Zombio þ2019
+: .o .     N     _LIVYNS Fr‚d‚ric             Zombio þ2015
 : .o .     N     _MASTERTON Graham            Le Plus Beau des cadeaux þ2016 The Greatest Gift þTrad. CORTHOUTS Christophe
 : .o .     N     _LIVYNS Fr‚d‚ric             A l'aulne de ta souffrance þ2019
 : .o .     N     _MASTERTON Graham            Septis‚mie þ2009 Sepsis þTrad. CORTHOUTS Christophe
@@ -275,9 +275,17 @@ o SEMACAB     ?  2020.02 ..... ISBN 978-2-930880-95-2
 !--- GF - 314 pages - 18,90 euros
 - .oF.     R     _TRAVIS Daph K.              Wild Dandy Boy þ2020
 o SEMAGIQ     ?  2020.02 ..... ISBN 978-2-930880-98-3
-} noimg          _Priscilla Gr‚d‚             ?
+} sema_frayeurs  _Priscilla Gr‚d‚             ?
 !--- Jeunesse - GF - 146 pages - 11,90 euros
-- .oF.    iNx    _LIVERIC                     FrayeurS þ2020
+>--- Nouvelles ‚crites en collaboration avec les ‚lŠves de classes de plusieurs ‚coles belges.
+- .oF.     N7    _LIVERIC                     FrayeurS þ2020
+: .o .     N     _LIVERIC                     La Citadelle maudite þ2020
+: .o .     N     _LIVERIC                     La Dame aux yeux ferm‚s þ2020
+: .o .     N     _LIVERIC                     La Soir‚e pyjama þ2020
+: .o .     N     _LIVERIC                     La Nuit … l'‚cole þ2020
+: .o .     N     _LIVERIC                     Une histoire presque imaginaire þ2020
+: .o .     N     _LIVERIC                     Le Clown tueur þ2020
+: .o .     N     _LIVERIC                     L'Ami du placard þ2020
 o SEMA        ?  2020.09 ..... ISBN ?
 } noimg          _Fabrice Bertolotto          978-2-39054-000-7
 !--- GF - 186 pages - 13.90 euros
@@ -285,7 +293,7 @@ o SEMA        ?  2020.09 ..... ISBN ?
 o SEMAGIQ     ?  2020.10 ..... ISBN 978-2-39054-003-8
 } noimg          _CloveredC                   ?
 !--- Jeunesse - GF - 176 pages - 13,00 euros
-- .oF.     R     _BRULHET Pierre              Les Naissances fant“mes [L'enfant du cimetiŠre - 3] þ2020
+- .oF.     R     _BRULHET Pierre              Les Naissances fant“mes [L'Enfant du cimetiŠre - 3] þ2020
 
 
 

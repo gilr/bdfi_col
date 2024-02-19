@@ -1,14 +1,14 @@
-_ BORDAS  Ed. Bordas
-_ BORD_CL Ed. Bordas, Coll. Classiques
-_ BORD_UL Ed. Bordas, Coll. Univers des lettres
-_ BORDAS1 Ed. Bordas, Coll. 1er siŠcle de cin‚ma
-_ BORDAS4 Ed. Bordas, Coll. Aux quatre coins du temps
-_ BORDASK Ed. Bordas, Coll. Les Compacts
-_ BORDASC Ed. Bordas, Coll. Bordas Connaissance
-_ BORDASP Ed. Bordas, Coll. Bordas Poche
+_ BORDAS  Bordas
+_ BORD_CL Bordas - Classiques
+_ BORD_UL Bordas - Univers des lettres
+_ BORDAS1 Bordas - 1er siŠcle de cin‚ma
+_ BORDAS4 Bordas - Aux quatre coins du temps
+_ BORDASK Bordas - Les Compacts
+_ BORDASC Bordas - Bordas Connaissance
+_ BORDASP Bordas - Bordas Poche
 
 !-----------------------------------------------------------------------------
-! BORDAS  Ed. Bordas
+! BORDAS  Bordas
 !-----------------------------------------------------------------------------
 !--- Editions Bordas
 !--- Rue Mouton-Duvernet, Paris
@@ -28,7 +28,7 @@ o BORDAS      ?  1946.xx ..... ISBN -
 - .oF.     R     _BONCOMPAIN Claude           Sybille þ1946
 
 !-----------------------------------------------------------------------------
-! BORD_CL Ed. Bordas, Coll. Classiques
+! BORD_CL Bordas, Classiques
 !-----------------------------------------------------------------------------
 o BORD_CL     7  1996.05 ..... ISBN 2-04-028159-2
 } bordasclass07  _?                           ?
@@ -93,7 +93,7 @@ o BORD_CL    59  2005.04 ..... ISBN 2-04-730751-1
 - .oF.     Ax    ****                         Nouvelles du XIXe siŠcle þ2005
 
 !-----------------------------------------------------------------------------
-! BORD_UL Ed. Bordas, Coll. Univers des lettres
+! BORD_UL Bordas, Univers des lettres
 !-----------------------------------------------------------------------------
 o BORD_UL   280  1977.xx ..... ISBN 2-04-002963-X
 } bordasulb280   _?                           ?
@@ -130,14 +130,14 @@ o BORD_UL     ?  1992.xx ..... ISBN 2-04-016113-9
 
 
 !-----------------------------------------------------------------------------
-! BORDAS1 Ed. Bordas, Coll. 1er siŠcle de cin‚ma
+! BORDAS1 Bordas, 1er siŠcle de cin‚ma
 !-----------------------------------------------------------------------------
 o BORDAS1     ?  1995.xx ..... ISBN 2-86311-271-6
 } noimg          _?                           ?
 - .o .     R     _LACASSIN Francis            MaŒtre des lions et des vampires - Louis Feuillade þ1995
 
 !-----------------------------------------------------------------------------
-! BORDAS4 Ed. Bordas, Coll. Aux quatre coins du temps
+! BORDAS4 Bordas, Aux quatre coins du temps
 !-----------------------------------------------------------------------------
 !--- 13 x 18 cm - A partir de 1978
 !--- Directeur de col. : Paul Pagliano
@@ -230,10 +230,10 @@ o BORDAS4    60  1987.xx ..... ISBN 2-04-016746-3
 } noimg          _?                           ?
 + BORDAS4    60  1993.xx ..... ISBN 2-04-016746-3
 } noimg          _?                           ?
-- .oSF    iN8    _ANDREVON Jean-Pierre        Le Train des galaxies et autres histoires þ1987
+- .oSF    iNx    _ANDREVON Jean-Pierre        Le Train des galaxies et autres histoires þ1987
 
 !-----------------------------------------------------------------------------
-! BORDASK Ed. Bordas, Coll. Les Compacts
+! BORDASK Bordas, Les Compacts
 !-----------------------------------------------------------------------------
 !--- Collection "Les Compacts"
 !-----------------------------------------------------------------------------
@@ -243,7 +243,7 @@ o BORDASK     ?  1994.xx ..... ISBN .-.....-...-.
 &                _RAYMOND Fran‡ois            
 
 !-----------------------------------------------------------------------------
-! BORDASC Ed. Bordas, Coll. Bordas Connaissance
+! BORDASC Bordas, Bordas Connaissance
 !-----------------------------------------------------------------------------
 !--- Collection "Bordas connaissance"
 !-----------------------------------------------------------------------------
@@ -252,7 +252,7 @@ o BORDASC    17  1971.xx ..... ISBN -
 - .o .     E     _BAUDIN Henri                La Science-Fiction - Un univers en expansion þ1971
 
 !-----------------------------------------------------------------------------
-! BORDASP Ed. Bordas, Coll. Bordas Poche
+! BORDASP Bordas, Bordas Poche
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------

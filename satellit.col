@@ -4,16 +4,10 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ SATE    Satellite, Les Cahiers de la Science Fiction
-_ SATEESL Ed. Scientifiques et Litt‚raires, Revue Satellite
-_ SATB    Ed. Scientifiques et Litt‚raires, Revue Satellite/Bis
-_ SATE01  <b>in</b> Satellite, Les Cahiers de la Science Fiction nø 1 et 2
-_ SATE02  <b>in</b> Satellite, Les Cahiers de la Science Fiction nø 1, 2, 3, 4, 5 et 9
-_ SATE03  <b>in</b> Satellite, Les Cahiers de la Science Fiction nø 3, 4 et 5
-_ SATE04  <b>in</b> Satellite, Les Cahiers de la Science Fiction nø 6, 7 et 8
-_ SATE05  <b>in</b> Satellite, Les Cahiers de la Science Fiction nø 10 et 11
-_ SATE06  <b>in</b> Ed. Scientifiques et Litt‚raires, Revue Satellite nø 28, 32 et 33
-_ SATE07  <b>in</b> Ed. Scientifiques et Litt‚raires, Revue Satellite nø 39 et 40
+_ SATE    Satellite - Les Cahiers de la Science Fiction
+_ SATEESL Editions Scientifiques et Litt‚raires - Revue Satellite
+_ SATB    Editions Scientifiques et Litt‚raires - Revue Satellite/Bis
+_ SAT_SEL Editions Scientifiques et Litt‚raires - Satellite s‚lection
 !-----------------------------------------------------------------------------
 !--- Satellite - Editions scientifiques et litt‚raires (Soci‚t‚ Anonyme)
 !--- TBC : Soci‚t‚ des Editions de Science-Fiction … partir du 48
@@ -27,7 +21,7 @@ _ SATE07  <b>in</b> Ed. Scientifiques et Litt‚raires, Revue Satellite nø 39 et 4
 !---     les dates originales, mais celle de la revue...
 !---
 !--- Le duo Satellite/HypothŠses d‚bute avec le num‚ro 25
-!--- Les "satellite s‚lection" comportent 2 duos Satellite/HypothŠses
+!--- Les "satellite s‚lection" comportent au d‚part 2 duos Satellite/HypothŠses, puis des Cahiers de la SF
 !---
 !---     001 002 003 004 005 006 007 008 009
 !--- 010 011 012 013 014 015 --- --- 018 ooo
@@ -35,26 +29,35 @@ _ SATE07  <b>in</b> Ed. Scientifiques et Litt‚raires, Revue Satellite nø 39 et 4
 !--- 030 031 032 033 034 035 036 037 038 039
 !--- 040 041 042 043 044 045 046 047 xxx xxx 
 !-----------------------------------------------------------------------------
-o SATE01      ?  1958.xx ..... ISBN -
+!--- En feuilleton :
+!-----------------------------------------------------------------------------
+o SATE        ?  1958.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 1 et 2
 - .o .     R     _ANDERSON Poul               BarriŠre mentale þ1954 Brain Wave þTrad. DOREMIEUX Alain
-o SATE02      ?  1958.xx ..... ISBN -
+o SATE        ?  1958.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 1, 2, 3, 4, 5 et 9
 - .o .     R     _STARR Mark                  Agent galactique þ1957
-o SATE03      ?  1958.xx ..... ISBN -
+o SATE        ?  1958.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 3, 4 et 5
 - .o .     R     _RUSSELL Eric Frank          Sentinelle de l'espace þ1951-1953 The Star Watchers / Sentinels from Space þTrad. CHOMET Richard
-o SATE04      ?  1958.xx ..... ISBN -
+o SATE        ?  1958.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 6, 7 et 8
 - .o .     R     _KAZANTZEV Alexandre         L'Œle en feu þ1941 Pyla‹ouchtchi ostrov
-o SATE05      ?  1958.xx ..... ISBN -
+o SATE        ?  1958.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 10 et 11
 - .o .     R     _HENNEBERG Charles           Le Chant des astronautes þ1958
-o SATE06      ?  1961.xx ..... ISBN -
+o SATEESL     ?  1961.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 28, 32 et 33
 - .o .     N     _CAP Jean                    La Brigade du temps þ1961
-o SATE07      ?  1961.xx ..... ISBN -
+o SATEESL     ?  1961.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 39 et 40
 - .o .     R     _ANDERSON Poul               Question sans r‚ponse þ1955 Question and Answer
 !-----------------------------------------------------------------------------
 o SATE        1  1958.xx ..... ISBN -
@@ -75,7 +78,7 @@ o SATE        2  1958.xx ..... ISBN -
 ) .o .     R     _STARR Mark                  Agent galactique - 2 þ1957
 : .o .     N     _BOILEAU-NARCEJAC            Le Retour þ1958
 : .o .     N     _KLEIN G‚rard                D‚monstration þ1958
-: .o .     N     _VERSINS Pierre              Le Contact þ1958
+: .o .     N     _VERSINS Pierre              Le Contact þ1955
 : .o .     N     _Mac BREID Red               A cor et … cris þ1958 With corn and cry þTrad. BRIARE Jacques
 : .o .     N     _McLEWIS Shane               H‚ritage sid‚ral þ1958 Old Shadner þTrad. MORRIS Pierre
 o SATE        3  1958.xx ..... ISBN -
@@ -373,7 +376,7 @@ o SATE       23  1959.xx ..... ISBN -
 : .o .     N     _MERWIN Sam Jr.              Le Lendemain þ1955 Day After Fear þTrad. J.M.G.
 : .o .     N     _COX Irving Jr.              Mission accomplie þ1957 Mission to the Enemy þTrad. CATOZZI Denise
 : .o .     N     _ABIGEO Raymond              C.M.S.O. þ1959
-: .o .     N     _BOREN S.S.                  Une histoire v‚cue þ1955 Noogles have to explain þTrad. CATOZZI Denise
+: .o .     N     _BOREN S.S.                  Une histoire v‚cue þ1955 Noogles Have to Explain þTrad. CATOZZI Denise
 : .o .     N     _CHANDLER A. Bertram         Le Chant des sirŠnes þ1957 The Song þTrad. J.M.G.
 : .o .     N     _VAN DE VET Charles          La Riposte þ1953 Countercheck þTrad. DELAVAUD Colin
 : .o .     N     _DEMUTH Michel               Les Climats þ1959
@@ -514,8 +517,8 @@ o SATEESL    35/ 1961.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Satellite nø 35-36 (Juillet-aout 61) þ1961
 : .o .     R     _ASIMOV Isaac                Face aux feux du soleil þ1956 The Naked Sun þTrad. RICHARD Andr‚-Yves
-: .o .     R     _CAP Jean                    Porte de sortie... þ1959
-!: .o .     R      DORPENNE Wil                Panne dans l'espace þ?
+: .o .     N     _CAP Jean                    Porte de sortie... þ1959
+: .o .     N      DORPENNE Wil                Panne dans l'espace þ1961
 o SATEESL    37  1961.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Satellite nø 37 (Septembre 61) þ1961
@@ -569,7 +572,7 @@ o SATEESL    42  1962.xx ..... ISBN -
 o SATEESL    43  1962.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Satellite nø 43 (Mai-juin 62) þ1962
-: .o .     N     _LEINSTER Murray             Les Meilleurs Amis de l'homme þ1955 Exploration Team þTrad? RICHARD Andr‚-Yves
+: .o .     N     _LEINSTER Murray             Les Meilleurs Amis de l'homme þ1955 Exploration Team þTrad. RICHARD Andr‚-Yves
 : .o .     N     _OSTERRATH Jacqueline        La Chute de Troie þ1962
 : .o .     N     _LONG Frank Belknap          J'aime mieux, ma mie, “ gu‚ þ1959 The Flame of Life
 : .o .     N     _DICKSON Gordon R.           Au seuil de l'espoir þ1957 Cloak and Stagger þTrad. DELAVAUD Colin
@@ -584,7 +587,7 @@ o SATEESL    44/ 1962.xx ..... ISBN -
 : .o .     N     _CROUTCH Leslie A.           Le Pochard inspir‚ þ1941 Salvage job þTrad. RAY Yves
 : .o .     N     _ROC Gil                     Voix des sirŠnes þ1962
 : .o .     N     _D'EAUBONNE Fran‡oise        Le Gang flottant þ1962
-: .o .     N     _WEINBAUM Stanley G.         Les Lotophages þ1935 The Lotus Eaters
+: .o .     N     _WEINBAUM Stanley G.         Les Lotophages [Ham Hammond] þ1935 The Lotus Eaters
 o SATEESL    46  1962.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Satellite nø 46 (Octobre 62) þ1962
@@ -633,22 +636,20 @@ _ CAHI    Satellite, les cahiers de la Science-Fiction þ1958-1960
 !-----------------------------------------------------------------------------
 o CAHI        1  1958.xx ..... ISBN -
 } noimg          _?                           ?
+!--- suppl‚ments aux num‚ros 3-4
 - .o .     R     _WILLIAMSON Jack            &Le Pont sur les ‚toiles þ1955 Star Bridge þTrad. COLLIN-DELAVAUD Henri
 &                _GUNN James E.               
-!--- suppl‚ments aux num‚ros 3-4
 o CAHI        2  1958.xx ..... ISBN -
 } noimg          _?                           ?
 !--- suppl‚ments aux num‚ros 3-4
-!--- Nota : _Les hommes stellaires_ : d'abord _The starmen_ (1952) puis
-!--- _The Galactic breed_ (1955), raccourci de 20000 mots, puis _The starmen of llyrdis_ (1976) ‚galement un peu plus court
-- .oS.     R     _BRACKETT Leigh              Les Hommes stellaires þ1952 The Starmen þTrad. RONDARD Suzanne
+- .oS.     R     _BRACKETT Leigh              Les Hommes stellaires þ1951 The Starmen of Llyrdis / The Starmen þTrad. RONDARD Suzanne
 o CAHI        3  1958.xx ..... ISBN -
 } noimg          _?                           ?
 !--- suppl‚ments aux num‚ros 5-8
 - .o .     R     _LEINSTER Murray             La Galaxie noire þ1949-1954 The Black Galaxy þTrad. CHOMET Rosine & TARNIER Pierre
 o CAHI        4  1959.xx ..... ISBN -
-!--- suppl‚ments aux num‚ros 9 … 12
 } noimg          _?                           ?
+!--- suppl‚ments aux num‚ros 9 … 12
 - .o .     R     _JONES Raymond F.            Renaissance þ1944 Renaissance þTrad. BENATRE Monique
 : .o .     N     _BIXBY Jerome                La Mort en son miroir þ1954 Mirror, Mirror þTrad. ?
 : .o .     N     _COGSWELL Theodore R.        La BarriŠre þ1954 Barrier þTrad. ?
@@ -658,28 +659,35 @@ o CAHI        5  1959.xx ..... ISBN -
 - .o .     R     _BRUNNER John                Au seuil de l'‚ternit‚ þ1957 Threshold of Eternity þTrad. DEUTSCH Michel
 o CAHI        6  1959.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _DE CAMP Lyon Sprague        Chasse cosmique [Krishna - 1][Viagens Interplanetarias] þ1949 The Queen of Zamba / Cosmic Manhunt þTrad. COLLIN-DELAVAUD Henri
 !--- Suppl‚ment au nø 14 de  Satellite
+- .o .     R     _DE CAMP Lyon Sprague        Chasse cosmique [Krishna - 1][Viagens Interplanetarias] þ1949 The Queen of Zamba / Cosmic Manhunt þTrad. COLLIN-DELAVAUD Henri
 o CAHI        7  1959.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _DICK Philip K.              Les Mondes divergents þ1957 Eye in the Sky þTrad. KLEIN G‚rard
 !--- Suppl‚ment au nø 16 de  Satellite
 !--- Num‚ro 15bis
-: .o .     N     _REYNOLDS Mack               Comment soigner les maris þ1954 Husbands, Care and Feeding Of þTrad. COLET Louise
+- .o .     R     _DICK Philip K.              Les Mondes divergents þ1957 Eye in the Sky þTrad. KLEIN G‚rard
+: .o .     N     _REYNOLDS Mack               Comment soigner les maris þ1954 Husbands, Care and Feeding of þTrad. COLET Louise
 : .o .     N     _ROCKLYNNE Ross              Le Cr‚ateur þ1942 The Creator þTrad. CATOZZI Denise
 o CAHI        8  1959.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _ANDERSON Poul               La Route ‚toil‚e þ1956 Star Ways þTrad. COLLIN-DELAVAUD Henri
 !--- Num‚ro 16bis
+- .o .     R     _ANDERSON Poul               La Route ‚toil‚e þ1956 Star Ways þTrad. COLLIN-DELAVAUD Henri
 : .o .     N     _RAYMOND Hugh                Clagget et son dada þ1942 Claggett's Folly þTrad. ?
 : .o .     N     _CHRISTOPHER John            Les Risques du m‚tier þ1954 Occupational Risk þTrad. CATOZZI Denise
 o CAHI        9  1959.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _VAN VOGT Alfred E.          Cr‚ateur d'univers þ1953 The Universe Maker þTrad. DEUTSCH Michel
 !--- Num‚ro 17bis
+- .o .     R     _VAN VOGT Alfred E.          Cr‚ateur d'univers þ1953 The Universe Maker þTrad. DEUTSCH Michel
 o CAHI       10  1960.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _CAP Jean                    A la recherche de l'homme cosmique þ1960
 !--- textes recueillis, traduits et comment‚s et pr‚sent‚s par Jean CAP ?
 !--- (Pseudo)
+- .o .     R     _CAP Jean                    A la recherche de l'homme cosmique þ1960
+
+o SAT_SEL    13  1958.xx ..... ISBN -
+} noimg          _?                           ?
+- .oS.    kR2    _BRACKETT Leigh             &Les Hommes stellaires - La Galaxie noire þ1958
+&                _LEINSTER Murray             
+: .oS.     R     _BRACKETT Leigh              Les Hommes stellaires þ1951 The Starmen of Llyrdis / The Starmen þTrad. RONDARD Suzanne
+: .o .     R     _LEINSTER Murray             La Galaxie noire þ1949-1954 The Black Galaxy þTrad. CHOMET Rosine & TARNIER Pierre
 

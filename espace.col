@@ -3,6 +3,13 @@
 !---      Espace Nord
 !-----------------------------------------------------------------------------
 
+!-----------------------------------------------------------------------------
+_ LAB_LO  Labor - Un livre, une oeuvre
+!-----------------------------------------------------------------------------
+o LAB_LO      ?  1986.xx ..... ISBN 2-8040-0193-8
+} noimg          _?                           ?
+!--- 64 pages - 18 cm
+- .o .     E     _CARION Jacques              Jean Ray, Le Grand Nocturne þ1986
 
 !-----------------------------------------------------------------------------
 _ LABO    Labor
@@ -24,10 +31,10 @@ o LAB_EN    144  1998.xx ..... ISBN 2-8040-1327-8
 - .o .     T     _GHELDERODE Michel de        Pantagleize þ1925
 
 !-----------------------------------------------------------------------------
-_ LABJ    Labor, Espace Nord Junior
-_ LAB_ENJ Labor, Espace Nord Zone J
+_ LABJ    Labor - Espace Nord Junior
+_ LAB_ENJ Labor - Espace Nord Zone J
 !-- LAB_EN  Labor (Bruxelles), Espace Nord  --> espace.col
-!-- PIRE_EN Ed. Luc Pire (Bruxelles), Espace Nord  --> espace.col
+!-- PIRE_EN Luc Pire (Bruxelles), Espace Nord  --> espace.col
 !-----------------------------------------------------------------------------
 !--- Labor, Espace Nord
 !--- Labor : faillite en 2007
@@ -38,112 +45,112 @@ o LAB_ENJ    14  1998.xx ..... ISBN 2-8040-1585-8
 } noimg          _?                           ?
 - .oFK    _N99   _STERNBERG Jacques           Contes glac‚s þ1998
 !--- LES OBJETS
-: .oK.     n     _STERNBERG Jacques           Le Tapis þ?
-: .oK.     n     _STERNBERG Jacques           La Photographie þ?
-: .oK.     n     _STERNBERG Jacques           Le Rideau þ?
-: .oK.     n     _STERNBERG Jacques           Le Miroir þ?
+: .oK.     n     _STERNBERG Jacques           Le Tapis þ1953
+: .oK.     n     _STERNBERG Jacques           La Photographie þ1960
+: .oK.     n     _STERNBERG Jacques           Le Rideau þ1953
+: .oK.     n     _STERNBERG Jacques           Le Miroir þ1960
 : .oK.     n     _STERNBERG Jacques           La Vitre þ1974
-: .oK.     n     _STERNBERG Jacques           Le Souvenir de famille þ?
-: .oK.     n     _STERNBERG Jacques           Les Preuves þ?
-: .oK.     n     _STERNBERG Jacques           L'Attaque þ?
-: .oK.     n     _STERNBERG Jacques           Le Locataire þ?
+: .oK.     n     _STERNBERG Jacques           Le Souvenir de famille þ1955
+: .oK.     n     _STERNBERG Jacques           Les Preuves þ1953
+: .oK.     n     _STERNBERG Jacques           L'Attaque þ1960
+: .oK.     n     _STERNBERG Jacques           Le Locataire þ1953
 : .oK.     n     _STERNBERG Jacques           La Rampe þ1953
-: .oK.     n     _STERNBERG Jacques           Le Rƒle þ?
-: .oK.     n     _STERNBERG Jacques           Le But þ?
-: .oK.     n     _STERNBERG Jacques           La Machine … sous þ?
-: .oK.     n     _STERNBERG Jacques           La Machine þ?
+: .oK.     n     _STERNBERG Jacques           Le Rƒle þ1960
+: .oK.     n     _STERNBERG Jacques           Le But þ1955
+: .oK.     n     _STERNBERG Jacques           La Machine … sous þ1957
+: .oK.     n     _STERNBERG Jacques           La Machine þ1953
 : .oK.     n     _STERNBERG Jacques           La Perfection þ1974
 : .oK.     n     _STERNBERG Jacques           Le Communiqu‚ þ?
 : .oK.     n     _STERNBERG Jacques           Le Monument þ?
 !--- LES AUTRES
 : .oK.     n     _STERNBERG Jacques           Les Morts þ?
 : .oK.     n     _STERNBERG Jacques           Les Martiens þ?
-: .oK.     n     _STERNBERG Jacques           Les Revenants þ?
+: .oK.     n     _STERNBERG Jacques           Les Revenants þ1974
 : .oK.     n     _STERNBERG Jacques           La Conquˆte þ?
 : .oK.     n     _STERNBERG Jacques           Les Doubles þ?
 : .oK.     n     _STERNBERG Jacques           L'Envoy‚ þ?
 !--- LES ANIMAUX
-: .oK.     n     _STERNBERG Jacques           Les Ennemis þ?
-: .oK.     n     _STERNBERG Jacques           Le Plafond þ?
+: .oK.     n     _STERNBERG Jacques           Les Ennemis þ1953
+: .oK.     n     _STERNBERG Jacques           Le Plafond þ1953
 : .oK.     n     _STERNBERG Jacques           Le Mois d'ao–t þ?
-: .oK.     n     _STERNBERG Jacques           Le Boucher þ?
+: .oK.     n     _STERNBERG Jacques           Le Boucher þ1953
 : .oK.     n     _STERNBERG Jacques           Les Chats þ?
 : .oK.     n     _STERNBERG Jacques           Les Esclaves þ?
-: .oK.     n     _STERNBERG Jacques           Le Poisson þ?
+: .oK.     n     _STERNBERG Jacques           Le Poisson þ1974
 : .oK.     n     _STERNBERG Jacques           La Mouche þ?
 : .oK.     n     _STERNBERG Jacques           Les Insectes þ?
 !--- LES LIEUX
 : .oK.     n     _STERNBERG Jacques           Le Rien þ1960
-: .oK.     n     _STERNBERG Jacques           Le Dernier Wagon þ?
-: .oK.     n     _STERNBERG Jacques           La FrontiŠre þ?
-: .oK.     n     _STERNBERG Jacques           La Gare þ?
-: .oK.     n     _STERNBERG Jacques           L'Emballage þ?
-: .oK.     n     _STERNBERG Jacques           Le Mus‚e þ?
-: .oK.     n     _STERNBERG Jacques           La Sortie þ?
-: .oK.     n     _STERNBERG Jacques           Le Square þ?
-: .oK.     n     _STERNBERG Jacques           Le Caf‚ þ?
-: .oK.     n     _STERNBERG Jacques           La Pension de famille þ?
-: .oK.     n     _STERNBERG Jacques           La Fabrique þ?
-: .oK.     n     _STERNBERG Jacques           La Sanction þ?
-: .oK.     n     _STERNBERG Jacques           Le Train þ?
+: .oK.     n     _STERNBERG Jacques           Le Dernier Wagon þ1953
+: .oK.     n     _STERNBERG Jacques           La FrontiŠre þ1953
+: .oK.     n     _STERNBERG Jacques           La Gare þ1953
+: .oK.     n     _STERNBERG Jacques           L'Emballage þ1960
+: .oK.     n     _STERNBERG Jacques           Le Mus‚e þ1953
+: .oK.     n     _STERNBERG Jacques           La Sortie þ1953
+: .oK.     n     _STERNBERG Jacques           Le Square þ1953
+: .oK.     n     _STERNBERG Jacques           Le Caf‚ þ1953
+: .oK.     n     _STERNBERG Jacques           La Pension de famille þ1953
+: .oK.     n     _STERNBERG Jacques           La Fabrique þ1953
+: .oK.     n     _STERNBERG Jacques           La Sanction þ1953
+: .oK.     n     _STERNBERG Jacques           Le Train þ1957
 : .oK.     n     _STERNBERG Jacques           Le Tunnel þ?
 : .oK.     n     _STERNBERG Jacques           La Brume þ?
-: .oK.     n     _STERNBERG Jacques           L'tage þ?
-: .oK.     n     _STERNBERG Jacques           Les Traces þ?
-: .oK.     n     _STERNBERG Jacques           Le Labyrinthe þ?
-: .oK.     n     _STERNBERG Jacques           L'Erreur þ?
-: .oK.     n     _STERNBERG Jacques           La BibliothŠque þ?
-: .oK.     n     _STERNBERG Jacques           La Rue þ?
-: .oK.     n     _STERNBERG Jacques           Les Portes þ?
+: .oK.     n     _STERNBERG Jacques           L'tage þ1953
+: .oK.     n     _STERNBERG Jacques           Les Traces þ1953
+: .oK.     n     _STERNBERG Jacques           Le Labyrinthe þ1953
+: .oK.     n     _STERNBERG Jacques           L'Erreur þ1953
+: .oK.     n     _STERNBERG Jacques           La BibliothŠque þ1960
+: .oK.     n     _STERNBERG Jacques           La Rue þ1953
+: .oK.     n     _STERNBERG Jacques           Les Portes þ1953
 : .oK.     n     _STERNBERG Jacques           Mar‚e basse þ1957
 !--- LES ETRES HUMAINS
-: .oK.     n     _STERNBERG Jacques           Le Laveur de vitres þ?
+: .oK.     n     _STERNBERG Jacques           Le Laveur de vitres þ1953
 : .oK.     n     _STERNBERG Jacques           La Famille þ?
-: .oK.     n     _STERNBERG Jacques           La Charit‚ þ?
-: .oK.     n     _STERNBERG Jacques           La Prime þ?
-: .oK.     n     _STERNBERG Jacques           La Politesse þ?
+: .oK.     n     _STERNBERG Jacques           La Charit‚ þ1960
+: .oK.     n     _STERNBERG Jacques           La Prime þ1960
+: .oK.     n     _STERNBERG Jacques           La Politesse þ1953
 : .oK.     n     _STERNBERG Jacques           L'Inconnue þ?
-: .oK.     n     _STERNBERG Jacques           Les Repr‚sentants þ?
+: .oK.     n     _STERNBERG Jacques           Les Repr‚sentants þ1953
 : .oK.     n     _STERNBERG Jacques           L'Oeuvre þ?
-: .oK.     n     _STERNBERG Jacques           Le Sentiment þ?
-: .oK.     n     _STERNBERG Jacques           Le Noeud þ?
-: .oK.     n     _STERNBERG Jacques           La Bont‚ þ?
+: .oK.     n     _STERNBERG Jacques           Le Sentiment þ1953
+: .oK.     n     _STERNBERG Jacques           Le Noeud þ1957
+: .oK.     n     _STERNBERG Jacques           La Bont‚ þ1960
 : .oK.     n     _STERNBERG Jacques           Le Champion þ?
 : .oK.     n     _STERNBERG Jacques           La C‚l‚brit‚ þ?
 : .oK.     n     _STERNBERG Jacques           La Foi þ?
 : .oK.     n     _STERNBERG Jacques           L'Acte þ?
 : .oK.     n     _STERNBERG Jacques           Le Publiciste þ?
-: .oK.     n     _STERNBERG Jacques           La Logique þ?
+: .oK.     n     _STERNBERG Jacques           La Logique þ1960
 !--- L'AILLEURS
-: .oK.     n     _STERNBERG Jacques           La Disparition þ?
+: .oK.     n     _STERNBERG Jacques           La Disparition þ1953
 : .oK.     n     _STERNBERG Jacques           Joyeux No‰l þ?
 : .oK.     n     _STERNBERG Jacques           Le D‚nouement þ?
 : .oK.     n     _STERNBERG Jacques           Le N‚ant þ?
-: .oK.     n     _STERNBERG Jacques           La ChaŒne þ?
+: .oK.     n     _STERNBERG Jacques           La ChaŒne þ1953
 : .oK.     n     _STERNBERG Jacques           L'change þ?
-: .oK.     n     _STERNBERG Jacques           La Cr‚ation þ?
+: .oK.     n     _STERNBERG Jacques           La Cr‚ation þ1974
 : .oK.     n     _STERNBERG Jacques           L'Emploi þ?
 : .oK.     n     _STERNBERG Jacques           Le Point final þ?
-: .oK.     n     _STERNBERG Jacques           La Cr‚ature þ?
+: .oK.     n     _STERNBERG Jacques           La Cr‚ature þ1957
 !--- LES LOIS DE LA NATURE
-: .oK.     n     _STERNBERG Jacques           Le Cri þ?
-: .oK.     n     _STERNBERG Jacques           Le Meurtre þ?
-: .oK.     n     _STERNBERG Jacques           Le D‚part þ?
-: .oK.     n     _STERNBERG Jacques           Les Vacances þ?
-: .oK.     n     _STERNBERG Jacques           Le Choix þ?
+: .oK.     n     _STERNBERG Jacques           Le Cri þ1953
+: .oK.     n     _STERNBERG Jacques           Le Meurtre þ1953
+: .oK.     n     _STERNBERG Jacques           Le D‚part þ1953
+: .oK.     n     _STERNBERG Jacques           Les Vacances þ1953
+: .oK.     n     _STERNBERG Jacques           Le Choix þ1960
 : .oK.     n     _STERNBERG Jacques           La V‚rit‚ þ?
-: .oK.     n     _STERNBERG Jacques           La Ligne droite þ?
+: .oK.     n     _STERNBERG Jacques           La Ligne droite þ1953
 : .oK.     n     _STERNBERG Jacques           Le Naufrage þ?
 !--- LES INCIDENTS
-: .oK.     n     _STERNBERG Jacques           Les Images þ?
+: .oK.     n     _STERNBERG Jacques           Les Images þ1953
 : .oK.     n     _STERNBERG Jacques           La Rencontre þ?
-: .oK.     n     _STERNBERG Jacques           L'Inexplicable þ?
+: .oK.     n     _STERNBERG Jacques           L'Inexplicable þ1953
 : .oK.     n     _STERNBERG Jacques           La Descente þ?
-: .oK.     n     _STERNBERG Jacques           Le Commerce þ?
-: .oK.     n     _STERNBERG Jacques           L'Avenir þ?
+: .oK.     n     _STERNBERG Jacques           Le Commerce þ1964
+: .oK.     n     _STERNBERG Jacques           L'Avenir þ1953
 : .oK.     n     _STERNBERG Jacques           La ChaŒne þ?
-: .oK.     n     _STERNBERG Jacques           La Fuite þ?
-: .oK.     n     _STERNBERG Jacques           L'Ex‚cution þ?
+: .oK.     n     _STERNBERG Jacques           La Fuite þ1953
+: .oK.     n     _STERNBERG Jacques           L'Ex‚cution þ1953
 o LABJ       16  1998.xx ..... ISBN 2-8040-1284-0
 } noimg          _?                           ?
 - .oF.    _N16   _OWEN Thomas                 Contes … l'encre de la nuit þ1998
@@ -173,7 +180,7 @@ o LABJ        ?  2002.xx ..... ISBN .-.....-...-.
 : .o .     N     _RAY Jean                    Le Rituel de la mort [Harry Dickson] þ1936
 o LAB_ENJ    44i 2003.03 ..... ISBN 2-8040-1743-5
 } laborzj44      _?                           ?
-- .oFK    iN13   _BARONIAN Jean-Baptiste      Miroirs obscurs þ2003
+- .oFK    iNx    _BARONIAN Jean-Baptiste      Miroirs obscurs þ2003
 : .o .     N     _BARONIAN Jean-Baptiste      La LumiŠre bleue þ2003
 : .o .     N     _BARONIAN Jean-Baptiste      Le Livre rouge þ2003
 : .o .     N     _BARONIAN Jean-Baptiste      L'Enfer d'une saison þ2003
@@ -183,7 +190,7 @@ o LAB_ENJ     ?  2005.08 ..... ISBN 2-8040-1977-2
 
 !-----------------------------------------------------------------------------
 !--- Collection lanc‚e en 1983 par les ‚ditions Labor
-!--- Faillite en 2007, fond rachet‚ par les Ed. Luc Pire
+!--- Faillite en 2007, fond rachet‚ par les Editions Luc Pire
 !---  qui continue la collection
 !--- En 2010, rachet‚ par la Communaut‚ fran‡aise de Belgique, qui devient
 !---  la f‚d‚ration Wallonie-Bruxelles en 2011
@@ -191,12 +198,12 @@ o LAB_ENJ     ?  2005.08 ..... ISBN 2-8040-1977-2
 !--- En parallŠle, "Espace Nord Junior" et devenue "Zone J"
 !---
 !-----------------------------------------------------------------------------
-_ LAB_EN  Ed. Labor (Bruxelles), Coll. Espace Nord
-_ LAB_ENR Ed. Labor et RTBF Editions (Bruxelles), Coll. Espace Nord
-_ PIRE_EN Ed. Luc Pire (Bruxelles), Coll. Espace Nord
-! IMPRNOE Ed. Les Impressions Nouvelles (Belgique), Coll. Espace Nord
-_ IMPRNOE Ed. Collection Espace Nord (Belgique)
-_ ESPNORD Ed. Collection Espace Nord (Belgique)
+_ LAB_EN  Labor (Bruxelles) - Espace Nord
+_ LAB_ENR Labor et RTBF Editions (Bruxelles) - Espace Nord
+_ PIRE_EN Luc Pire (Bruxelles) - Espace Nord
+! IMPRNOE Les Impressions Nouvelles (Belgique) - Espace Nord
+_ IMPRNOE Collection Espace Nord (Belgique)
+_ ESPNORD Collection Espace Nord (Belgique)
 !-----------------------------------------------------------------------------
 
 o LAB_EN     13  1984.xx ..... ISBN 2-8040-0040-0
@@ -234,8 +241,8 @@ o LAB_EN     13  1984.xx ..... ISBN 2-8040-0040-0
 o ESPNORD    13  2019.12 ..... ISBN 978-2-87568-419-6
 } espnord122019_1 _?                           ?
 >--- 12 x 18,5 cm - 480 pages - 10,00 euros
-- .oF.    iN16   _RAY Jean                    Le Grand nocturne suivi de Les cercles de l'‚pouvante ((Le Grand Nocturne et Les Cercles de l'‚pouvante)) þ1942
-: .oF.    iN7    _RAY Jean                    Le Grand Nocturne þ1942
+- .oF.     N16   _RAY Jean                    Le Grand nocturne suivi de Les cercles de l'‚pouvante ((Le Grand Nocturne et Les Cercles de l'‚pouvante)) þ1942
+: .oF.     N7    _RAY Jean                    Le Grand Nocturne þ1942
 = .oF.     N     _RAY Jean                    Le Grand Nocturne þ1942
 = .oF.     N     _RAY Jean                    Les Sept Chƒteaux du roi de la mer þ1942
 = .oF.     N     _RAY Jean                    La Ruelle t‚n‚breuse þ1932
@@ -243,7 +250,7 @@ o ESPNORD    13  2019.12 ..... ISBN 978-2-87568-419-6
 = .oF.     N     _RAY Jean                    Quand le Christ marcha sur la mer þ1931
 = .oF.     N     _RAY Jean                    La Scolopendre þ1931
 = .oF.     N     _RAY Jean                    Le Psautier de Mayence þ1930
-: .oF.    iN9    _RAY Jean                    Les Cercles de l'‚pouvante þ1943
+: .oF.     N9    _RAY Jean                    Les Cercles de l'‚pouvante þ1943
 ?= .o .     p     _RAY Jean                    Liminaire : les cercles þ1943
 = .o .     N     _RAY Jean                    La Main de Goetz Von Berlichingen þ1943
 = .o .     N     _RAY Jean                    L'Assiette de Moustiers þ1943
@@ -281,24 +288,28 @@ o LAB_EN     39  1987.xx ..... ISBN 2-8040-0246-2
 } espnord039r98  _?                           ?
 + LAB_EN     39  2002.xx ..... ISBN 2-8040-1298-0
 } espnord039rr02 _?                           ?
-- .oF.     N7    _THIRY Marcel                Nouvelles du grand possible þ1958
-: .o .     N     _THIRY Marcel                Distances þ?
-: .o .     N     _THIRY Marcel                Besdur þ?
+- .oF.    kN7    _THIRY Marcel                Nouvelles du Grand Possible þ1960-1987
+: .o .     p     _VIVIER Robert               Introduction aux r‚cits en prose d'un poŠte þ1960
+: .o .     N     _THIRY Marcel                Distances þ1960
 : .o .     N     _THIRY Marcel                De deux choses l'une þ?
 : .o .     N     _THIRY Marcel                Mort dans son lit þ1963
-: .o .     N     _THIRY Marcel                R‚cit du grand-pŠre þ?
-: .o .     N     _THIRY Marcel                Simple alerte þ1936
-: .o .     N     _THIRY Marcel                Le Concerto pour Anne Queur þ?
+: .o .     N     _THIRY Marcel                Besdur þ?
+: .o .     N     _THIRY Marcel                Je viendrai commeun voleur þ1960
+: .o .     N     _THIRY Marcel                Le Concerto pour Anne Queur þ1960
+: .o .     N     _THIRY Marcel                La PiŠce dans la piŠce þ1960
+: .o .     N     _THIRY Marcel                La PiŠce dans la piŠce þ1960
+: .o .     o     _DURAND Pascal               Postface aux r‚cits po‚tiques d'un prosateur þ1987
 o IMPRNOE    39  2015.xx ..... ISBN 978-2-87568-006-8
 } espnord039rr15 _?                           ?
-- .oF.     N7    _THIRY Marcel                Nouvelles du grand possible et autres r‚cits þ1958
-: .o .     N     _THIRY Marcel                Distances þ?
-: .o .     N     _THIRY Marcel                Besdur þ?
+- .oF.     N7    _THIRY Marcel                Nouvelles du Grand Possible et autres r‚cits þ1960-1987
+: .o .     p     _VIVIER Robert               Introduction aux r‚cits en prose d'un poŠte þ1960
+: .o .     N     _THIRY Marcel                Distances þ1960
 : .o .     N     _THIRY Marcel                De deux choses l'une þ?
 : .o .     N     _THIRY Marcel                Mort dans son lit þ1963
-: .o .     N     _THIRY Marcel                R‚cit du grand-pŠre þ?
-: .o .     N     _THIRY Marcel                Simple alerte þ1936
-: .o .     N     _THIRY Marcel                Le Concerto pour Anne Queur þ?
+: .o .     N     _THIRY Marcel                Besdur þ?
+: .o .     N     _THIRY Marcel                Je viendrai commeun voleur þ1960
+: .o .     N     _THIRY Marcel                Le Concerto pour Anne Queur þ1960
+: .o .     N     _THIRY Marcel                La PiŠce dans la piŠce þ1960
 
 !--- ICI
 !--- Voir pour Babel Actes Sud : http://fr.wikipedia.org/wiki/Babel_%28collection%29
@@ -344,7 +355,10 @@ o LAB_EN      ?  2003.06 ..... ISBN 2-8040-1748-6
 : .o .     N     _MOCKEL Albert               La Balle d'or þ1905
 : .o .     N     _DEMADE Pol                  Le Masque þ1910
 : .o .     N     _LE ROY Gr‚goire             La Mal‚diction du soleil þ1913
-o LAB_EN     88  2006.03 ..... ISBN 2-8040-2221-8
+o LAB_EN     88  1993.xx ..... ISBN 2-8040-0902-5
+} noimg          _?                           ?
+!--- 272 pages - 18 cm
++ LAB_EN     88  2006.03 ..... ISBN 2-8040-2221-8
 } noimg          _?                           ?
 - .oF.     R     _RAY Jean                    Malpertuis þ1943
 o PIRE_EN    88  2009.05 ..... ISBN 978-2-507-00242-8
@@ -449,17 +463,17 @@ o PIRE_EN   205  2009.xx ..... ISBN 2-507-00253-.
 - .oV.     R     _ADAMEK Andr‚-Marcel         La Fˆte interdite þ1997
 o LAB_EN    210  2005.02 ..... ISBN 2-8040-1975-6
 } noimg          _?                           ?
-- .oF.     A12   *LYSOE Eric                  Belgique, terre de l'‚trange - Tome 3 : 1914-1945 þ2005
 !--- En fait : Litt‚ratures fantastiques - Belgique, terre de l'‚trange - Tome 3 : 1914-1945
 !--- Collection Espace Nord - Ref‚rences
-: .o .     N     _PASQUIER Alex               Une histoire d'automate þ1913
+!--- TBD date Hellens : Au repos de la Sant‚ (1923)
+!--- TBD date Owen : Non-lieu (1933)
+- .oF.     A12   *LYSOE Eric                  Belgique, terre de l'‚trange - Tome 3 : 1914-1945 þ2005
+: .o .     N     _PASQUIER Alex               Une histoire d'automate þ1919
 : .o .     N     _VANZYPE Gustave             Les Fouilles þ1920
 : .o .     N     _RAY Jean                    La Fiole jaune þ1923
-!--- TBD date : Au repos de la Sant‚ þ1923
 : .oF.     N     _HELLENS Franz               Au repos de la sant‚ þ1941
 : .o .     N     _POULET Robert               Le Briquet þ1925
 : .o .     T     _GHELDERODE Michel de        Pantagleize þ1925
-!--- TBD date : Non-lieu þ1933
 : .o .     N     _OWEN Thomas                 Non-lieu þ1943
 : .o .     N     _THIRY Marcel                La Couleur þ1936
 : .o .     N     _DE BOSCHERE Jean            J'entends crever ces bulles þ1938
@@ -488,7 +502,7 @@ o LAB_EN    259  2006.07 ..... ISBN 2-8040-2310-9
 : .o .     N     _PREVOT G‚rard               L'Affaire du caf‚ de Paris þ?
 : .o .     N     _PREVOT G‚rard               Les Amours de PergolŠse þ?
 : .o .     N     _PREVOT G‚rard               Un jardin dans l'Œle d'Arran þ?
-: .o .     N     _PREVOT G‚rard               Les Confidences de Gert Verhoeven þ?
+: .o .     N     _PREVOT G‚rard               Les Confidences de Gert Verhoeven þ1970
 : .o .     N     _PREVOT G‚rard               Le Math‚maticien þ?
 : .o .     N     _PREVOT G‚rard               Le Feu purificateur þ?
 : .o .     N     _PREVOT G‚rard               Le Guitariste de minuit þ?
@@ -498,13 +512,13 @@ o LAB_EN    259  2006.07 ..... ISBN 2-8040-2310-9
 : .o .     N     _PREVOT G‚rard               L'Amn‚sique þ?
 : .o .     N     _PREVOT G‚rard               Le Diable dans la forteresse þ?
 : .o .     N     _PREVOT G‚rard               La Valse interdite þ?
-: .o .     N     _PREVOT G‚rard               Les Fous de Damme þ?
+: .o .     N     _PREVOT G‚rard               Les Fous de Damme þ1970
 : .o .     N     _PREVOT G‚rard               Le Cadavre de Beachy Head þ?
 : .o .     N     _PREVOT G‚rard               La Doublure þ?
 : .o .     N     _PREVOT G‚rard               La Trajectoire þ?
-: .o .     N     _PREVOT G‚rard               La Petite Gare de North Berwick þ?
+: .o .     N     _PREVOT G‚rard               La Petite Gare de North Berwick þ1970
 : .o .     N     _PREVOT G‚rard               Etrange ‚clipse þ?
-: .o .     N     _PREVOT G‚rard               Le Rapport venu du Rhin þ?
+: .o .     N     _PREVOT G‚rard               Le Rapport venu du Rhin þ1970
 o LAB_EN    264  2006.05 ..... ISBN 2-8040-2315-X
 } noimg          _?                           ?
 - .oF.    iNx    _RAY Jean                    Le Carrousel des mal‚fices þ1964
@@ -530,7 +544,7 @@ o LAB_EN    264  2006.05 ..... ISBN 2-8040-2315-X
 o ESPNORD   264  2020.05 ..... ISBN 978-2-87568-480-6
 } espnord032020_2 _?                           ?
 >--- Poche - 12 x 18,5 cm - 340 pages - 10,00 euros
-- .oF.    iN19   _RAY Jean                    Le Carrousel des mal‚fices þ1964
+- .oF.     N19   _RAY Jean                    Le Carrousel des mal‚fices þ1964
 : .o .     N     _RAY Jean                    Math‚matiques sup‚rieures þ1958
 : .o .     N     _RAY Jean                    La Tˆte de monsieur Ramberger þ1955
 : .o .     N     _RAY Jean                    Bonjour Mr Jones ! þ1959
@@ -555,10 +569,12 @@ o LAB_EN    266  2006.07 ..... ISBN 2-8040-2345-1
 - .oF.    iNx    _RAY Jean                    Les Contes noirs du golf þ1964
 o LAB_EN    268  2006.10 ..... ISBN 2-8040-2375-3
 } noimg          _?                           ?
-- .oFK    iN269  _STERNBERG Jacques           Contes glac‚s þ1974
+!--- Poche - 19 cm - 185 pages
+- .oFK    iAx    _STERNBERG Jacques          &Contes glac‚s þ1998
+&                *DUHAMEL Joseph              
 o LAB_EN    276  2006.11 ..... ISBN 2-8040-2443-1
 } espnord276     _?                           ?
-- .oF.    iN7    _ADAMEK Andr‚-Marcel         Contes tir‚s du vin bleu þ2006
+- .oF.    iNx    _ADAMEK Andr‚-Marcel         Contes tir‚s du vin bleu þ2006
 !--- dont 4 d‚j… parus, dont 2 revus ici
 ?: .o .     N     _ADAMEK Andr‚-Marcel         Le Vin bleu þ2006
 ?: .o .     N     _ADAMEK Andr‚-Marcel         L'Arche þ2006
@@ -574,23 +590,33 @@ o LAB_EN    276  2006.11 ..... ISBN 2-8040-2443-1
 o PIRE_EN   278  2008.xx ..... ISBN 978-2-507-00078-3
 } noimg          _?                           ?
 - .o .     R     _OWEN Thomas                 Le Jeu secret þ1950
+o PIRE_EN   286  2009.02 ..... ISBN 978-2-507-00179-7
+} noimg          _?                           ?
+!--- 240 pages
+!--- R‚‚dition augment‚e d'une pr‚face de Jacques Cels et d'une lecture d'Eric Brogniet,
+- .o .    iCx    _CRICKILLON Jacques          supra-coronada þ1980
 o PIRE_EN   288  2009.02 ..... ISBN 978-2-507-00178-0
 } espnord288     _?                           ?
-- .oF.     N16   _HELLENS Franz               Le Double et autres contes fantastiques choisis þ2009
+- .oF.    kN16   _HELLENS Franz               Le Double et autres contes fantastiques choisis þ2009
+: .C .     C     _HELLENS Franz               Nocturnal pr‚c‚d‚ de quinze histoires (1919)
 : .oF.     N     _HELLENS Franz               La Courge þ1919
 : .oF.     N     _HELLENS Franz               La Dame en noir þ1919
 : .oF.     N     _HELLENS Franz               Un crime incodifi‚ þ1919
 : .oF.     N     _HELLENS Franz               La Divinit‚ indoue þ1919
 : .oF.     N     _HELLENS Franz               Le Double þ1919
+: .C .     C     _HELLENS Franz               R‚alit‚s fantastiques (1923)
 : .oF.     N     _HELLENS Franz               Le Portrait þ1923
+: .C .     C     _HELLENS Franz               Nouvelles r‚alit‚s fantastiques (1941)
 : .oF.     N     _HELLENS Franz               Un voyant þ1941
 : .oF.     N     _HELLENS Franz               Au repos de la sant‚ þ1941
 : .oF.     N     _HELLENS Franz               Une restitution þ1938
 : .oF.     N     _HELLENS Franz               La mort est une r‚compense þ1941
 : .oF.     N     _HELLENS Franz               Le Brouillard þ1941
 : .oF.     N     _HELLENS Franz               Ce lourd silence de pierre þ1941
+: .C .     C     _HELLENS Franz               Herbes m‚chantes et autres contes insolites (1964)
 : .oF.     N     _HELLENS Franz               L'Habit du mort þ1964
 : .oF.     N     _HELLENS Franz               Le Portrait r‚calcitrant þ1964
+: .C .     C     _HELLENS Franz               Le Dernier jour du monde (1967)
 : .oF.     N     _HELLENS Franz               Blaise et Monique þ1967
 o PIRE_EN   295  2009.xx ..... ISBN 978-2-5070-0440-8
 } noimg          _?                           ?
@@ -611,8 +637,8 @@ o PIRE_EN   299  2010.03 ..... ISBN 978-2-5070-0306-7
 : .o .     N     _DARTEVELLE Alain            Post-mortem þ1994
 : .o .     N     _STERNBERG Jacques           Menaces þ?
 : .o .     N     _PREVOT G‚rard               Etrange ‚clipse þ?
-: .o .     N     _DEVIS Liliane               La Maison des dunes þ?
-: .o .     N     _MUNO Jean                   L'Iguane þ?
+: .o .     N     _DEVIS Liliane               La Maison des dunes þ1965
+: .o .     N     _MUNO Jean                   L'Iguane þ1979
 : .o .     N     _VAES Guy                    L'Homme qui jouait les blues þ?
 : .o .     N     _DASNOY Albert               La Longueur du temps þ1968
 o IMPRNOE   321  2013.xx ..... ISBN 978-2-930646-27-5
@@ -622,7 +648,7 @@ o IMPRNOE   324  2014.01 ..... ISBN 978-2-930646-60-2
 } noimg          _?                           ?
 !--- Pr‚face de Roger Caillois
 !--- Postface de Pascal Durand
-- .oS.     R     _THIRY Marcel                Echec au temps þ1938
+- .oS.     R     _THIRY Marcel                Echec au temps þ[1938],1945
 o IMPRNOE   332  2014.xx ..... ISBN 978-2-930646-92-3
 } espnord332     _?                           ?
 - .oFK     N10   _MUNO Jean                   Histoires singuliŠres þ1979
@@ -656,5 +682,5 @@ o ESPNORD   369  2018.10 ..... ISBN 978-2-87568-407-3
 o ESPNORD   379  2019.12 ..... ISBN 978-2-87568-420-2
 } espnord122019_2 _?                           ?
 >--- Poche - 12 x 18,5 cm - 320 pages - 10,00 euros
-- .oF.    iNx    _RAY Jean                    Les Contes du Whisky þ1925
+- .oF.    iNx    _RAY Jean                    Les Contes du whisky þ1925
 

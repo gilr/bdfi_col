@@ -1,8 +1,8 @@
 
 !DEB_HEAD ADASTR
 !-----------------------------------------------------------------------------
-_ ADASTRA Ed. Ad Astra
-_ ADASTRV Ed. Ad Astra, Coll. Ad-ventures
+_ ADASTRA Ad Astra
+_ ADASTRV Ad Astra - Ad-ventures
 !-----------------------------------------------------------------------------
 !TIT_COLL Editions Ad Astra
 !-----------------------------------------------------------------------------
@@ -30,7 +30,8 @@ o ADASTRV     1i 2010.xx ..... ISBN 978-2-919241-00-2
 - .oS.     R     _WHALE Laurent               Les Pilleurs d'ƒmes þ2010
 o ADASTRA     2i 2010.09 ..... ISBN 978-2-919241-01-9
 } adastra02      _Eric Scala                  ?
-- .oSM    kA16   *CHENU Lucie                 Contes de villes et de fus‚es þ2010
+!--- GF - 
+- .oFM    kA16   *CHENU Lucie                 Contes de villes et de fus‚es þ2010
 : .oMS     p     _CHENU Lucie                 Il ‚tait une nouvelle fois þ2010
 : .o .     N     _FOURET Julien               Une le‡on de conte de f‚es þ2010
 : .o .     N     _MILLEMANN Jean              La F‚e des glaces þ2010
@@ -51,6 +52,7 @@ o ADASTRA     2i 2010.09 ..... ISBN 978-2-919241-01-9
 : .o .     N     _LARA L‚onor                 Sacrifice þ2004
 o ADASTRA     ?  2011.05 ..... ISBN 978-2-919241-03-3
 } adastra03      _Laurent Guillet             ?
+!--- GF - 
 - .oS.    kN3    _MILLEMANN Jean              Sansh“d“ - La Voie des trois v‚rit‚s þ2011
 : .o .     N     _MILLEMANN Jean              Lanatkka-nagui þ2011
 : .o .     N     _MILLEMANN Jean              Leboeuf se paye une toile þ2011
@@ -66,6 +68,7 @@ o ADASTRV     ?  2011.12 ..... ISBN 978-2-919241-05-7
 - .oS.     R     _BRUNEAU Oph‚lie             Et pour quelques gigahertz de plus... þ2011
 o ADASTRV     ?  2012.05 ..... ISBN 978-2-919241-07-1
 } adastra07      _Laurent Guillet             ?
+!--- GF - 
 - .oS.     C6    _LORUSSO Adriana             Des nouvelles de Ta-Shima [Ta-Shima] þ2012
 : .o .     N     _LORUSSO Adriana             L'Homme d'au-del… du soleil [Ta-Shima] þ2012
 : .o .     N     _LORUSSO Adriana             Mutation spontan‚e [Ta-Shima] þ2012

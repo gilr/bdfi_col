@@ -5,8 +5,8 @@
 !---
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
-_ LIBRIO  Ed. Librio ˛1994 - ...
-_ LIBRION Ed. Librio Noir ˛? - ...
+_ LIBRIO  Librio ˛1994
+_ LIBRION Librio Noir
 !--- Au sein des Editions J'ai Lu, du Groupe Flammarion
 !-----------------------------------------------------------------------------
 
@@ -54,9 +54,12 @@ o LIBRIO      3  1994.xx ..... ISBN 2-277-30003-9
 } librio0003rr09 _?                           ?
 + LIBRIO      3  2012.xx ..... ISBN 978-2-290-33533-8
 } librio0003rr12 _?                           ?
++ LIBRIO      3  2022.06 ..... ISBN 978-2-290-37670-6
+} librio0003rr22 _(c) Shutterstock            ?
+!--- MF - 130x205 - 96 pages - 2 euros
 - .oF.    _N2    _KAFKA Franz                 La MÇtamorphose, suivi de dans la colonie pÇnitentiaire ˛1994
+: .oF.     r     _KAFKA Franz                 La MÇtamorphose ˛1915 Die verwandlung ˛Trad. LORTHOLARY Bernard
 : .oF.     N     _KAFKA Franz                 La Colonie pÇnitenciaire ˛1919 In der Strafkolonie ˛Trad. LORTHOLARY Bernard
-: .oF.     N     _KAFKA Franz                 La MÇtamorphose ˛1915 Die verwandlung ˛Trad. LORTHOLARY Bernard
 o LIBRIO      4  1994.01 R.... ISBN 2-277-30004-7
 } librio0004     _Vloo                        ?
 + LIBRIO      4  1994.xx ..... ISBN 2-277-30004-7
@@ -86,10 +89,12 @@ o LIBRIO      4  1994.01 R.... ISBN 2-277-30004-7
 !--- En 2012, le titre se transforme "Le Singe, suivi du Chenal"
 + LIBRIO      4  2012.xx ..... ISBN 978-2-290-33456-0
 } librio0004rr12 _?                           ?
++ LIBRIO      4  2021.06 ..... ISBN 978-2-290-26187-3
+} librio0004rr21 _? Mindscape Studio          ?
+!--- MF - 130x205 - 96 pages
 - .oF.    _N2    _KING Stephen                Le Singe, suivi de Le Chenal ˛1994
-!--- Trad. Michäle PressÇ et Serge Quadruppani.
-: .oF.     N     _KING Stephen                Le Singe ˛1980 The Monkey
-: .oF.     N     _KING Stephen                Le Chenal ˛1981 The Reach
+: .oF.     N     _KING Stephen                Le Singe ˛1980 The Monkey ˛Trad. PRESSÇ Michäle & QUADRUPPANI Serge
+: .oF.     N     _KING Stephen                Le Chenal ˛1981 The Reach ˛Trad. PRESSÇ Michäle & QUADRUPPANI Serge
 o LIBRIO     19  1994.xx ..... ISBN 2-277-30019-5
 } librio0019     _GAZ David                   ?
 - .oF.    kN6    _BELLETTO RenÇ               Le Temps mort - 1 : L'homme de main ˛1994
@@ -283,7 +288,7 @@ o LIBRIO     64  1995.xx ..... ISBN 2-277-30064-0
 } librio0064     _ERTE                        ?
 + LIBRIO     64  1996.xx ..... ISBN 2-277-30064-0
 } librio0064r96  _ERTE                        ?
-- .oF.     R     _MACHEN Arthur               Le Grand Dieu Pan ˛1894 The Great God Pan ˛Trad. TOULET Paul-Jean
+- .oF.     r     _MACHEN Arthur               Le Grand Dieu Pan ˛1894 The Great God Pan ˛Trad. TOULET Paul-Jean
 o LIBRIO     66  1995.xx ..... ISBN 2-277-30066-7
 } librio0066     _Erte                        ?
 + LIBRIO     66  1996.xx ..... ISBN 2-277-30066-7
@@ -294,6 +299,9 @@ o LIBRIO     66  1995.xx ..... ISBN 2-277-30066-7
 } librio0066rr09 _Jules-Descartes Ferat       ?
 + LIBRIO     66  2016.06 ..... ISBN 978-2-290-12949-4
 } librio0066rr16 _Edouard Manet               ?
++ LIBRIO     66  2021.05 ..... ISBN 978-2-290-25913-9
+} librio0066rr21 _LÇonard Dupond              ?
+!--- MF - 125x178 - 96 pages
 - .xA.     r     _VERNE Jules                 Les Forceurs de blocus ˛1895
 o LIBRIO     68  1995.xx R.... ISBN 2-277-30068-3
 } librio0068     _WHELAN Michael              ?
@@ -302,13 +310,13 @@ o LIBRIO     68  1995.xx R.... ISBN 2-277-30068-3
 + LIBRIO     68  2002.xx ..... ISBN 2-290-33128-7
 } librio0068rr02 _COULTHART John              ?
 - .oF.    kN8    _LOVECRAFT Howard P.         Les Autres Dieux ˛1995
-: .oF.     N     _LOVECRAFT Howard P.         Herbert West, rÇanimateur ˛1922 Herbert West, RÇanimator
-: .oF.     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ˛1920 Cats of Ulthar
-: .oF.     N     _LOVECRAFT Howard P.         Les Autres dieux ˛1921 The Other Gods
+: .oF.     N     _LOVECRAFT Howard P.         Herbert West, rÇanimateur ˛1922 Herbert West: Reanimator
+: .oF.     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ˛1920 The Cats of Ulthar
+: .oF.     N     _LOVECRAFT Howard P.         Les Autres Dieux ˛1921 The Other Gods
 : .oF.     N     _LOVECRAFT Howard P.         L'êtrange Maison haute dans la brume ˛1931 The Strange High House in the Mist
 : .oF.     N     _LOVECRAFT Howard P.         Celephais ˛1920 Celephais
 : .oF.     N     _LOVECRAFT Howard P.         La MalÇdiction de Sarnath ˛1920 The Doom That Came to Sarnath
-: .oF.     N     _LOVECRAFT Howard P.         La Tombe ˛1917 The Tomb
+: .oF.     N     _LOVECRAFT Howard P.         La Tombe ˛[1917],1922 The Tomb
 : .o .     N     _HOUDINI Harry              &Prisonnier des pharaons ˛1924 Imprisoned With the Pharaons
 &                _LOVECRAFT Howard P.         
 o LIBRIO     72  1995.xx ..... ISBN 2-277-30072-1
@@ -333,9 +341,12 @@ o LIBRIO     74  1995.xx ..... ISBN 2-277-30074-8
 } librio0074rr07 _QUENTIN DE LA TOUR Maurice  ?
 + LIBRIO     74  2012.xx ..... ISBN 978-2-290-33955-8
 } librio0074rr12 _QUENTIN DE LA TOUR Maurice  ?
++ LIBRIO     74  2022.10 ..... ISBN 978-2-290-38142-7
+} librio0074rr22 _(c) Shutterstock            ?
+!--- MF - 131 x 205 - 128 pages - 3 euros
 - .oF.    kN2    _POUCHKINE Alexandre         La Dame de pique, suivi de Doubrovsky ˛1995
-: .o .     N     _POUCHKINE Alexandre         La Dame de pique ˛1834 Pikovaãa dama
-: .o .     N     _POUCHKINE Alexandre         Doubrovsky ˛1833 Doubrovski
+: .o .     N     _POUCHKINE Alexandre         La Dame de pique ˛1834 Pikovaãa dama ˛Trad. MERIMEE Prosper
+: .o .     N     _POUCHKINE Alexandre         Doubrovsky ˛1833 Doubrovski ˛Trad. CHOPIN Jean-Marie
 o LIBRIO     77  1995.xx ..... ISBN 2-277-30077-2
 } librio0077     _?                           ?
 + LIBRIO     77  2001.xx ..... ISBN 2-290-31425-0
@@ -361,7 +372,7 @@ o LIBRIO     78  1995.xx ..... ISBN 2-290-31412-9
 } noimg          _?                           ?
 + LIBRIO     78  2020.01 ..... ISBN 978-2-290-22538-7
 } noimg          _Justine Thibault            ?
-- .o .     R     _SAND George                 La Mare au diable ˛1946
+- .o .     R     _SAND George                 La Mare au diable ˛1846
 o LIBRIO     81  1999.xx ..... ISBN 2-277-30081-0
 } librio0081     _?                           ?
 + LIBRIO     81  2001.xx ..... ISBN 2-290-31563-X
@@ -396,9 +407,12 @@ o LIBRIO     93  1995.xx ..... ISBN 2-277-30213-9
 } librio0093rr07 _?                           ?
 + LIBRIO     93  2012.xx ..... ISBN 978-2-290-35220-5
 } librio0093rr12 _?                           ?
++ LIBRIO     93  2021.05 ..... ISBN 978-2-290-25907-8
+} librio0093rr21 _Djohr                       ?
+!--- MF - 125x178 - 112 pages
 - .oF.    _N2    _POE Edgar Allan             Le ScarabÇe d'or, suivi de la lettre volÇe ˛1995
 : .o .     N     _POE Edgar Allan             Le ScarabÇe d'or ˛1843 The Gold-Bug ˛Trad. BAUDELAIRE Charles
-: .o .     N     _POE Edgar Allan             La Lettre volÇe ˛1845 The Purloined Letter ˛Trad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             La Lettre volÇe [Auguste Dupin] ˛1845 The Purloined Letter ˛Trad. BAUDELAIRE Charles
 o LIBRIO    100  1996.02 R.... ISBN 2-277-30100-0
 } librio0100     _Mezzo                       ?
 + LIBRIO    100  1999.xx ..... ISBN 2-277-30100-0
@@ -440,7 +454,7 @@ o LIBRIO    110  1996.xx ..... ISBN 2-277-30110-8
 - .oF.    kN5    _TROYAT Henri                La Rouquine et autres nouvelles fantastiques ˛1996
 : .o .     N     _TROYAT Henri                Le GuÇridon ˛1945
 : .o .     N     _TROYAT Henri                Le Philanthrope ˛1945
-: .o .     N     _TROYAT Henri                Maldone ˛1945
+: .o .     N     _TROYAT Henri                Maldonne ˛1945
 : .o .     N     _TROYAT Henri                Le Sortiläge ˛1945
 : .o .     N     _TROYAT Henri                La Rouquine ˛1945
 o LIBRIO    113  1996.xx ..... ISBN 2-277-30113-2
@@ -554,7 +568,7 @@ o LIBRIO    147  1996.xx ..... ISBN 2-277-30147-7
 } noimg          _?                           ?
 + LIBRIO    147  2019.03 ..... ISBN 978-2-290-17353-4
 } noimg          _?                           ?
-!--- ˛Trad. Antoine Galland
+!--- Trad. Antoine Galland
 - .oN.     N     _--- (anonyme)               Sindbad le marin [Les Mille et Une Nuits] ˛?
 o LIBRIO    150  1996.xx R.... ISBN 2-277-30150-7
 } librio0150     _J.K. Potter                 ?
@@ -658,7 +672,10 @@ o LIBRIO    171  1997.xx ..... ISBN 2-277-30171-X
 } librio0171rr12 _?                           ?
 + LIBRIO    171  2015.04 ..... ISBN 978-2-290-10888-8
 } librio0171rr15 _Victor Hugo                 ?
-- .o .     R     _VERNE Jules                 Le ChÉteau des Carpathes ˛1892
++ LIBRIO    171  2021.04 ..... ISBN 978-2-290-25855-2
+} noimg          _?                           ?
+!--- Poche - 125 x 178 - 222 pages
+- .oS.     R     _VERNE Jules                 Le ChÉteau des Carpathes ˛1892
 o LIBRIO    176  1997.xx ..... ISBN 2-277-300176-0
 } librio0176     _BOLL Dominique              ?
 - .o .     R     _TWAIN Mark                  Trois mille ans chez les microbes ˛1905 Three Thousand Years Among the Microbs ˛Trad. WALDBERG Michel
@@ -673,8 +690,8 @@ o LIBRIO    189  1997.xx ..... ISBN 2-277-30189-2
 : .o .     N     _TCHEKHOV Anton              Un homme dans un Çtui ˛1898 Tchelovekv fultiare ˛Trad. STOIANOV Colette
 o LIBRIO    190  1997.xx ..... ISBN 2-277-30190-6
 } librio0190     _NICOLLET Jean-Michel        ?
-- .oFP    kr2    _RAY Jean                    Harry Dickson - Les illustres fils du Zodiaque, suivi de Le vampire qui chante [Harry Dickson] ˛1997
-: .o .     r     _RAY Jean                    Les Illustres fils du Zodiaque [Harry Dickson] ˛?
+- .oFP    kr2    _RAY Jean                    Harry Dickson - Les Illustres Fils du Zodiaque, suivi de Le vampire qui chante [Harry Dickson] ˛1997
+: .o .     r     _RAY Jean                    Les Illustres Fils du Zodiaque [Harry Dickson] ˛1935
 : .o .     r     _RAY Jean                    Le vampire qui chante [Harry Dickson] ˛1934
 o LIBRIO    191  1997.xx ..... ISBN 2-277-30191-4
 } noimg          _?                           ?
@@ -690,11 +707,11 @@ o LIBRIO    191  1997.xx ..... ISBN 2-277-30191-4
 } noimg          _?                           ?
 + LIBRIO    191  2017.06 ..... ISBN 978-2-290-14624-8
 } noimg          _?                           ?
-!--- ˛Trad. Antoine Galland
+!--- Trad. Antoine Galland
 - .oN.     N     _--- (anonyme)               Aladdin ou La lampe merveilleuse [Les Mille et Une Nuits] ˛?
 o LIBRIO    192  1997.xx ..... ISBN 2-277-30192-2
 } librio0192     _LE DON Pascale              ?
-- .o .     r     _ERCKMANN-CHATRIAN           Hugues-le-loup ˛1876
+- .o .     r     _ERCKMANN-CHATRIAN           Hugues-le-loup ˛1860
 o LIBRIO    193  1997.xx R.... ISBN 2-277-30193-0
 } librio0193     _J.K. Potter                 ?
 + LIBRIO    193  2002.12 ..... ISBN 2-290-33081-7
@@ -716,7 +733,7 @@ o LIBRIO    197  1997.xx R.... ISBN 2-277-30197-3
 : .oF.     N     _LEMONNIER Camille           La Noâl du petit joueur de violon ˛1873
 : .oF.     N     _DAUDET Alphonse             Les Trois Messes basses ˛1860
 : .oF.     N     _MAUPASSANT Guy de           Conte de Noâl ˛1882
-: .oF.     N     _STEVENSON Robert Louis      Markheim ˛1886 Markheim
+: .oF.     N     _STEVENSON Robert Louis      Markheim ˛1885 Markheim
 : .oF.     N     _LE BRAZ Anatole             La Noâl de Marthe ˛1869
 : .oF. 126 N     _ALLAIS Alphonse             Conte de Noâl ˛1895
 : .oF. 129 N     _ALLAIS Alphonse             Santa Clau's Mistake ˛1897
@@ -871,14 +888,14 @@ o LIBRIO    248  1998.xx ..... ISBN 2-277-30248-1
 } librio0248rr11 _?                           ?
 + LIBRIO    248  2014.xx ..... ISBN 978-2-290-32070-9
 } librio0248rr14 _?                           ?
-- .oN.    iNx    _GRIMM Jacob & Wilhelm       Blanche-Neige et autres contes ((Contes de Grimm)) ˛1998
-: .oN.     N     _GRIMM Jacob & Wilhelm       Blanche-Neige ˛1812 Schneewittchen
-o LIBRIO    248  2016.xx ..... ISBN 978-2-290-11246-5
-} librio0248rr16 _John Hassal                 ?
-- .oF.     Nx    _GRIMM Jacob & Wilhelm       Contes ((Contes de Grimm)) ˛1998
+- .oM.    iNx    _GRIMM Jacob & Wilhelm       Blanche-Neige et autres contes ((Contes de Grimm)) ˛1998
+: .o .     N     _GRIMM Jacob & Wilhelm       Blanche-Neige ˛1812 Schneewittchen
 o LIBRIO    248  2015.06 ..... ISBN 978-2-290-11246-5
 } librio0248rr15 _John Hassal                 ?
-- .oF.    iNx    _GRIMM Jacob & Wilhelm       Contes ((Contes de Grimm)) ˛1998
++ LIBRIO    248  2016.xx ..... ISBN 978-2-290-11246-5
+} librio0248rr16 _John Hassal                 ?
+!--- TBD : Contenu 2016 identique Ö 2015 ?
+- .oM.    iNx    _GRIMM Jacob & Wilhelm       Contes ((Contes de Grimm)) ˛1998-2015
 : .o .     N     _GRIMM Jacob & Wilhelm       La Belle au bois dormant ˛1812 Dornrîschen
 o LIBRIO    249  1998.11 R.... ISBN 2-277-30249-X
 } librio0249     _J.K. Potter                 ?
@@ -900,7 +917,7 @@ o LIBRIO    252  1998.xx ..... ISBN 2-277-30252-X
 : .o .     N     _GOGOL Nicolas               La Veille de la Saint-Jean ˛1830 Vetcher nakanoune Ivana Koupala ˛Trad. TCHERNOSVITOW EugÇnie
 o LIBRIO    260  1999.xx R.... ISBN 2-277-30260-0
 } librio0260     _VOLCKMAN Christian          ?
-- .o .    _N3    _SIMMONS Dan                 Le Conseiller et autres nouvelles ˛1999
+- .oF.    _N3    _SIMMONS Dan                 Le Conseiller et autres nouvelles ˛1999
 : .o .     N     _SIMMONS Dan                 Le Conseiller ˛1991 The Counselor ˛Trad. BREQUE Jean-Daniel
 : .o .     N     _SIMMONS Dan                 A la recherche de Kelly Dahl ˛1995 Looking for Kelly Dahl ˛Trad. BREQUE Jean-Daniel
 : .o .     N     _SIMMONS Dan                 Photo de classe ˛1992 This Year's Class Picture ˛Trad. BREQUE Jean-Daniel
@@ -937,6 +954,12 @@ o LIBRIO    263  1999.xx ..... ISBN 2-277-30263-5
 !--- 2012 : iLa morte amoureuse suivi d'Une nuit...
 : .o .     N     _GAUTIER ThÇophile           La Morte amoureuse ˛1836
 : .o .     N     _GAUTIER ThÇophile           Une nuit de ClÇopÉtre ˛1838
+o LIBRIO    263  2022.04 ..... ISBN 978-2-290-37527-3
+} librio263rr22  _Julien Brogard              ?
+!--- MF - 125x178 - 112 pages - 2,00 euros
+- .oF.    kN2    _GAUTIER ThÇophile           La Morte amoureuse suivi de Arria Marcella ˛1998
+: .o .     N     _GAUTIER ThÇophile           La Morte amoureuse ˛1836
+: .oF.     N     _GAUTIER ThÇophile           Arria Marcella, souvenir de PompÇã ˛1852
 o LIBRIO    268  1999.xx ..... ISBN 2-277-30268-6
 } librio0268     _ROMANO Jong                 ?
 - .o .     R     _PRATCHETT Terry             Le Peuple du tapis ˛1971-1992 The Carpet People
@@ -960,13 +983,13 @@ o LIBRIO    271  1999.xx R.... ISBN 2-277-30271-6
 : .oF.     N     _FARRERE Claude              Les Deux Masques de cire ˛1928
 : .oF.     N     _BRION Marcel                La Corne de corail ˛1943
 : .oF.     N     _PORGES Arthur               1 dollar 98 ˛1954 $ 1.98
-: .oF.     N     _BROWN Fredric               Du sang ! ˛1954 Blood ˛Trad. DOREMIEUX Alain
+: .oF.     N     _BROWN Fredric               Du sang ! ˛1955 Blood ˛Trad. DOREMIEUX Alain
 : .oF.     N     _BRADBURY Ray                Le Vent ˛1943 The Wind ˛Trad. DORINGE
 : .oF.     N     _JODOROWSKY Alexandro        Les Fräres siamois ˛1965 Los hermanos siameses ˛Trad. SADOUL Jacques
 ?o LIBRIO    274  1999.xx ..... ISBN 2-277-.....-.
 ?} librio0274     _?                           ?
 ?!--- TBC Genre
-?- .o .    iN10   _HOUELLEBECQ Michel          Rester vivant et autres textes ˛1999
+?- .o .    iNx    _HOUELLEBECQ Michel          Rester vivant et autres textes ˛1999
 ?: .o .     N     _HOUELLEBECQ Michel          Rester vivant ˛?
 ?: .o .     N     _HOUELLEBECQ Michel          Prise de contrìle sur NumÇris ˛?
 ?: .o .     N     _HOUELLEBECQ Michel          Approches du dÇsarroi ˛?
@@ -1039,7 +1062,7 @@ o LIBRIO    298  1999.xx ..... ISBN 2-277-30298-8
 } librio0298rr16 _?                           ?
 + LIBRIO    298  2019.03 ..... ISBN 978-2-290-17355-8
 } librio0298rr19 _(c)Studio crÇation J'ai Lu  ?
-!--- ˛Trad. Antoine Galland
+!--- Trad. Antoine Galland
 !--- Pages 7 et 59 dans Çditions 2019
 - .oN.     N2    _--- (anonyme)               Ali Baba et les quarante voleurs suivi de Histoire du cheval enchantÇ [Les Mille et Une Nuits] ˛? ˛Trad. Antoine Galland
 : .o .   7 N     _--- (anonyme)               Ali Baba et les quarante voleurs [Les Mille et Une Nuits] ˛?
@@ -1056,7 +1079,7 @@ o LIBRIO    300  1999.08 ..... ISBN 2-277-30300-3
 } noimg          _?                           ?
 + LIBRIO    300  2019.06 ..... ISBN 978-2-290-21059-8
 } noimg          _? Studio J'ai Lu            ?
-- .oF.     X     _HOMERE                      L'OdyssÇe ˛? ˛Trad. Charles-Franáois Lebrun
+- .oF.     X     _HOMERE                      L'OdyssÇe ˛? ? ˛Trad. Charles-Franáois Lebrun
 o LIBRIO    315  1999.xx ..... ISBN 2-277-30315-1
 } librio0315     _?                           ?
 - .o .     R     _BACH Richard                Illusions - Le Messie rÇcalcitrant ˛1977 Illusions: the Adventures of a Reluctant Messiah ˛Trad. CASARIL Guy
@@ -1148,7 +1171,7 @@ o LIBRIO    345  2000.xx R.... ISBN 2-290-30094-2
 } librio0345     _BITLER Bertrand             ?
 - .oS.     A8    *SADOUL Jacques              Une histoire de la science-fiction - 1 (1901-1937 - Les premiers maåtres) ˛2000
 ?: .o .     p     _SADOUL Jacques              Introduction ˛2000
-: .o .     N     _MERRITT Abraham             Les àtres de l'abåme ˛1918 People of the Pit ˛Trad. WATKINS France-Marie
+: .o .     N     _MERRITT Abraham             Les àtres de l'abåme ˛1918 The People of the Pit ˛Trad. WATKINS France-Marie
 : .o .     N     _LOVECRAFT Howard P.         Dagon ˛1919 Dagon
 : .o .     N     _LONG Frank Belknap          Les Chiens de Tindalos ˛1929 The Hounds of Tindalos ˛Trad. WATKINS France-Marie
 : .o .     N     _HOWARD Robert E.            Les Miroirs de Tuzun Thune ˛1929 The Mirrors of Tuzun Thune ˛Trad. WATKINS France-Marie
@@ -1179,7 +1202,7 @@ o LIBRIO    355  2000.xx ..... ISBN 2-290-30495-6
 : .o .     N     _MATHESON Richard            Quand le veilleur s'endort ˛1950 The Waker Dreams / When the Waker Sleeps ˛Trad. CHAMBON Jacques
 : .o .     N     _MATHESON Richard            L'habit fait l'homme ˛1951 Clothes Make the Man ˛Trad. CHAMBON Jacques
 : .o .     N     _MATHESON Richard            La Chose ˛1951 The Thing ˛Trad. CHAMBON Jacques
-: .o .     N     _MATHESON Richard            Avis Ö la population ˛1951 Advance Notice ˛Trad. CHAMBON Jacques
+: .o .     N     _MATHESON Richard            Avis Ö la population ˛1952 Letter to the Editor / Advance Notice ˛Trad. CHAMBON Jacques
 : .o .     N     _MATHESON Richard            Mamour, quand tu es präs de moi ˛1952 Lover, when You Are Near Me ˛Trad. CHAMBON Jacques
 : .o .     N     _MATHESON Richard            La Maison enragÇe ˛1953 Mad House ˛Trad. CHAMBON Jacques
 : .o .     N     _MATHESON Richard            Une rÇsidence de haut vol ˛1952 Shipshape Home ˛Trad. CHAMBON Jacques
@@ -1196,7 +1219,7 @@ o LIBRIO    362  2001.xx ..... ISBN 2-290-30537-5
 !--- Traduite et complÇtÇe par Daniel WALTHER
 : .oF.     N     _TIMPERLEY Rosemary          Harry ˛1955 Harry ˛Trad. BILLON Pierre
 : .oF.     N     _OWEN Thomas                 Le Petit Fantìme ˛1958
-: .oF.     N     _JAMES Montague Rhodes       Mezzo Tinto ˛1904 Mezzo Tinto ˛Trad. PERRET Xavier
+: .oF.     N     _JAMES Montague Rhodes       Mezzo Tinto ˛1904 The Mezzotint ˛Trad. PERRET Xavier
 : .oF.     N     _BLOCH Robert                Cher fantìme ˛1957 The Proper Spirit ˛Trad. GEORGES Evelyne
 : .oF.     N     _SIMAK Clifford D.           Le Fantìme d'une Ford T ˛1975 The Ghost of a Model T ˛Trad. WATKINS France-Marie
 : .oF.     N     _STURGEON Theodore           La Hantise ˛1941 The Haunt ˛Trad. PIIR Eric
@@ -1272,10 +1295,14 @@ o LIBRIO    389  2000.xx ..... ISBN 2-290-30694-0
 } librio0389rr06 _?                           ?
 + LIBRIO    389  2010.03 ..... ISBN 978-2-290-34347-0
 } librio0389rr10 _?                           ?
-+ LIBRIO    389  2015.06 ..... ISBN 978-2-290-10640-2
-} librio0389rr15 _Sir John Tenniel            ?
-!--- 2015 :  Alice au pays des merveilles
 - .oF.     R     _CARROLL Lewis               Les Aventures d'Alice au pays des merveilles [Alice - 1] ˛1865 Alice's Adventures in Wonderland / Alice in Wonderland ˛Trad. RIOT Elen
+o LIBRIO    389  2015.06 ..... ISBN 978-2-290-10640-2
+} librio0389rr15 _Sir John Tenniel            ?
+!--- A partir de 2015 :  Alice au pays des merveilles
++ LIBRIO    389  2022.04 ..... ISBN 978-2-290-37411-5
+} noimg          _Sir John Tenniel            John Tenniel
+!--- Jeunesse - MF - 125x177 - 112 pages - 2 euros
+- .oF.     R     _CARROLL Lewis               Alice au pays des merveilles [Alice - 1] ˛1865 Alice's Adventures in Wonderland / Alice in Wonderland ˛Trad. PARISOT Henri
 o LIBRIO    404  2000.xx R.... ISBN 2-290-30741-6
 } librio0404     _BITLER Bertrand             ?
 - .oS.    _A8    *SADOUL Jacques              Une histoire de la science-fiction - 3 (1958-1981 - L'expansion) ˛2000
@@ -1306,10 +1333,10 @@ o LIBRIO    437  2001.xx R.... ISBN 2-290-30874-9
 : .oS.     N     _GIBSON William              GravÇ sur chrome ˛1982 Burning Chrome ˛Trad. BONNEFOY Jean
 : .oS.     N     _ROBINSON Kim Stanley        Venise engloutie ˛1981 Venice Drowned ˛Trad. DURASTANTI Pierre-Paul
 : .oS.     N     _BAXTER Stephen              Au PVSH ˛1996 In the MSOB ˛Trad. KESH Alexandre
-: .oS.     N     _WILLIS Connie               Ado ˛1993 Ado ˛Trad. PUGI Jean-Pierre
+: .oS.     N     _WILLIS Connie               Ado ˛1988 Ado ˛Trad. PUGI Jean-Pierre
 : .oS.     N     _McDONALD Ian                Frooks ˛1995 Frooks ˛Trad. GAILLARD NoÇ
 : .oS.     N     _STERLING Bruce              Maneki Neko ˛1998 Maneki Neko ˛Trad. REY Pierre K.
-: .oS.     N     _SIMMONS Dan                 Le Styx coule Ö l'envers ˛1981 The River Styx Runs Upstream ˛Trad. CHAMBON Jacques
+: .oS.     N     _SIMMONS Dan                 Le Styx coule Ö l'envers ˛1982 The River Styx Runs Upstream ˛Trad. CHAMBON Jacques
 o LIBRIO    485  2001.xx R.... ISBN 2-290-31445-5
 } librio0485     _BITLER Bertrand             ?
 - .oS.    kA10   *SADOUL Jacques              Une histoire de la science-fiction - 5 (1950-2000 - La science-fiction franáaise) ˛2001
@@ -1374,8 +1401,8 @@ o LIBRIO    587  2005.xx ..... ISBN 2-290-33324-7
 } noimg          _?                           ?
 + LIBRIO    587  2019.06 ..... ISBN 978-2-290-21060-4
 } noimg          _? Studio J'ai Lu            ?
-!--- ˛Trad. Charles-Franáois Lebrun
-- .oF.     X     _HOMERE                      L'Iliade ˛?
+!--- Trad. Charles-Franáois Lebrun
+- .oF.     X     _HOMERE                      L'Iliade ˛? ?
 o LIBRIO    591  2002.xx ..... ISBN 2-290-33326-3
 } librio0591     _HENON GrÇgoire              ?
 + LIBRIO    591  2006.xx ..... ISBN 2-290-33326-3
@@ -1400,7 +1427,7 @@ o LIBRIO    592  2003.10 ..... ISBN 2-290-33327-1
 - .oF.     R     _BAUM Frank Lyman            Le Magicien d'Oz [Le Pays d'Oz - 1] ˛1900 The Wonderful Wizard of Oz ˛Trad. DELCOURT Anne
 o LIBRIO    597  2003.xx ..... ISBN 2-290-33320-4
 } librio0597     _?                           ?
-- .oF.    iN10   _VILLIERS DE L'ISLE-ADAM     Contes au fer rouge ˛2003
+- .oF.     N10   _VILLIERS DE L'ISLE-ADAM     Contes au fer rouge ˛2003
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     La Torture par l'espÇrance ˛1888
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Vox populi ˛1880
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     L'Amour du naturel ˛1888
@@ -1456,13 +1483,13 @@ o LIBRIO    666  2004.xx ..... ISBN 2-290-34266-1
 } librio0666     _?                           ?
 - .oN.    kA9    *SAMOYAULT Tiphaine          Le Chant des siränes ˛2004
 !--- 3 rÇcits antiques : la femme oiseau
-: .o .     X     _HOMERE                      L'OdyssÇe ˛?
+: .o .     X     _HOMERE                      L'OdyssÇe ˛? ?
 : .o .     X     _APOLLONIOS de RHODES        Les Argonautiques ˛?
-: .o .     X     _OVIDE                       Les MÇtamorphoses ˛?
+: .o .     X     _OVIDE                       Les MÇtamorphoses ˛? ?
 !--- 3 visions aquatiques : la femme poisson
 : .oY.     N     _ANDERSEN Hans Christian     La Petite Siräne ˛1837 Den lille Havfrue
 : .o .     X     _WELLS Herbert George        Miss Waters, roman d'une siräne ˛1901 The Sea Lady
-: .o .     X     _GIRAUDOUX Jean              Ondine ˛1931
+: .o .     t     _GIRAUDOUX Jean              Ondine ˛1931
 !--- 3 visions modernes : l'amour et la mort
 : .o .     N     _MAUCLAIR Camille            L'Argonaute et la siräne ˛1903
 : .o .     N     _VIVIEN RenÇe                L'Ondine et la siräne muette ˛?
@@ -1478,6 +1505,7 @@ o LIBRIO    682  2005.xx ..... ISBN 2-290-34276-9
 + LIBRIO    682  2019.03 ..... ISBN 978-2-290-17352-7
 } librio0682rr19 _?                           ?
 !--- Absence de la derniäre nouvelle dans l'Çdition 2019 ? (sommaire)
+!--- Le Dernier Ràve du vieux chàne (1858 Det gamle Egetr&aelig;es sidste Drõm)
 !--- Etait-elle dans une version antÇrieure ?
 - .oM.    kN8    _ANDERSEN Hans Christian     La Petite Siräne et autres contes ˛2005
 : .o . 7   N     _ANDERSEN Hans Christian     La Petite Siräne ˛1837 Den lille Havfrue ˛Trad. PRIVAT Jacques
@@ -1488,7 +1516,6 @@ o LIBRIO    682  2005.xx ..... ISBN 2-290-34276-9
 : .o . 67  N     _ANDERSEN Hans Christian     La Bergäre et le Ramoneur ˛1845 Hyrdinden og Skorsteensfeieren ˛Trad. PRIVAT Jacques
 : .o . 74  N     _ANDERSEN Hans Christian     La Petite Fille aux allumettes ˛1845 Den lille Pige med Svovlstikkerne ˛Trad. PRIVAT Jacques
 : .o . 78  N     _ANDERSEN Hans Christian     Ib et la petite Christine ˛1855 Ib og lille Christine ˛Trad. PRIVAT Jacques
-!--- .     N     _ANDERSEN Hans Christian     Le Dernier Ràve du vieux chàne ˛1858 Det gamle Egetr&aelig;es sidste Drõm ˛Trad. PRIVAT Jacques
 o LIBRIO    691  2005.04 ..... ISBN 2-290-34449-4
 } librio0691     _?                           ?
 - .oF.     N2    _GOGOL Nicolas               Le Manteau suivi de Le Nez ((Le Nez)) ˛2005
@@ -1512,7 +1539,7 @@ o LIBRIO    754  2006.xx ..... ISBN 2-290-35214-4
 } librio0754     _?                           ?
 - .oF.    kN7    _POE Edgar Allan             Le Systäme du Dr Goudron et du Pr Plume et autres histoires extraordinaires ˛2006
 : .o .     N     _POE Edgar Allan             Le Systäme du docteur Goudron et du professeur Plume ˛1845 The System of Dr. Tarr and Professor Fether ˛Trad. BAUDELAIRE Charles
-: .o .     N     _POE Edgar Allan             Le Coeur rÇvÇlateur ˛1843 The Tell-tale Heart ˛Trad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             Le Coeur rÇvÇlateur ˛1843 The Tell-Tale Heart ˛Trad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Le DÇmon de la perversitÇ ˛1845 The Imp of the Perverse ˛Trad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Un ÇvÇnement Ö JÇrusalem ˛1832-1836 Tale of Jerusalem ˛Trad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Lionnerie ˛1835 Lion-izing ˛Trad. BAUDELAIRE Charles
@@ -1558,6 +1585,9 @@ o LIBRIO    868  2008.04 ..... ISBN 978-2-290-00863-8
 - .o .     r     _SCHEER LÇo                  Gilgamesh (adaptation) ˛2008
 o LIBRIO    885  2008.09 ..... ISBN 978-2-290-00953-6
 } librio0885     _CARRE Benjamin              ?
++ LIBRIO    885  2021.06 ..... ISBN 978-2-290-26179-8
+} noimg          _? Studio Flammarion         ?
+!--- MF - 130x205 - 96 pages
 - .oY.     r     _HOBB Robin                  Retour au pays [L'Assassin royal] ˛2004 Homecoming ˛Trad. DAVID-MARESCOT VÇronique
 o LIBRIO    909  2009.05 ..... ISBN 978-2-290-01586-5
 } librio0909     _?                           ?
@@ -1597,17 +1627,20 @@ o LIBRIO    968  2010.07 ..... ISBN 978-2-290-02220-7
 : .oF.     N     _BOUQUET Jean-Louis          Les Filles de la nuit ˛1954
 o LIBRIO   1014  2012.08 ..... ISBN 978-2-290-03860-4
 } librio1014     _?                           ?
++ LIBRIO   1014  2021.06 ..... ISBN 978-2-290-26178-1
+} librio1014rr21 _? Studio Flammarion         ?
+!--- MF - 130x205 - 96 pages
 - .oF.    kN7    _LOVECRAFT Howard P.         Polaris et autres nouvelles ˛2012
 : .o .     N     _LOVECRAFT Howard P.         Polaris ˛1920 Polaris ˛Trad. CAMUS David
 : .o .     N     _LOVECRAFT Howard P.         La Quàte d'Iranon ˛1921 The Quest of Iranon ˛Trad. CAMUS David
 : .o .     N     _LOVECRAFT Howard P.         La MalÇdiction qui s'abattit sur Sarnath ˛1920 The Doom That Came to Sarnath ˛Trad. CAMUS David
 : .o .     N     _LOVECRAFT Howard P.         Hypnos ˛1923 Hypnos ˛Trad. CAMUS David
-: .o .     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ˛1920 Cats of Ulthar ˛Trad. CAMUS David
-: .o .     N     _LOVECRAFT Howard P.         Les Autres dieux ˛1921 The Other Gods ˛Trad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ˛1920 The Cats of Ulthar ˛Trad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Les Autres Dieux ˛1921 The Other Gods ˛Trad. CAMUS David
 : .o .     N     _LOVECRAFT Howard P.         Le TÇmoignage de Randolph Carter [Randolph Carter] ˛1920 The Statement of Randolph Carter ˛Trad. CAMUS David
 o LIBRIO   1036  2012.10 ..... ISBN 978-2-290-05398-0
 } librio1036     _?                           ?
-- .oO.    iN13   _SERGENT Bernard             La Fin du Monde - Treize lÇgendes des dÇluges mÇsopotamiens au mythe maya ˛2012
+- .oO.    iNx    _SERGENT Bernard             La Fin du monde - Treize lÇgendes des dÇluges mÇsopotamiens au mythe maya ˛2012
 ?o LIBRIO   1054  2013.01 ..... ISBN 978-2-290-05848-0
 ?} librio1054     _?                           ?
 ?- .xA.     R2    _VERNE Jules                 Les RÇvoltÇs de la Bounty suivi de Une åle ˛2005
@@ -1621,6 +1654,9 @@ o LIBRIO   1063  2013.03 ..... ISBN 978-2-290-05891-4
 - .o .     X     _SWIFT Jonathan              Voyage au pays des Houyhnhnms (Les voyages de Gulliver, quatriäme partie) ˛1726 Gulliver's Travels ˛Trad. LAMOINE Georges
 o LIBRIO   1066  2013.04 ..... ISBN 978-2-290-05409-3
 } librio1066     _?                           ?
++ LIBRIO   1066  2022.10 ..... ISBN 978-2-290-38140-3
+} noimg          _Flamidon                    Edwin A. Abbott
+!--- MF - 131 x 205 - 128 pages - 3 euros
 - .o .     R     _ABBOTT Edwin A.             Flatland - Une aventure Ö plusieurs dimensions ˛1884 Flatland: a Romance of many Dimensions ˛Trad. GILLE Elisabeth
 o LIBRIO   1089  2013.11 ..... ISBN 978-2-290-08046-7
 } librio1089     _Eleanor Vere Boyle          ?
@@ -1651,7 +1687,7 @@ o LIBRIO   1098  2014.04 ..... ISBN 978-2-290-07839-6
 } noimg          _?                           ?
 + LIBRIO   1098  2019.06 ..... ISBN 978-2-290-21057-4
 } noimg          _? Studio J'ai Lu            ?
-!--- ˛Trad. ROUSSE Michel
+!--- Trad. ROUSSE Michel
 - .oF.     R     _CHRETIEN de TROYES          Yvain ou le Chevalier au lion [Les Romans arthuriens - 4] ˛c1180
 o LIBRIO   1103  2017.11 ..... ISBN 978-2-290-07853-2
 } librio1103     _Bruno Mangyoku              ?
@@ -1662,22 +1698,29 @@ o LIBRIO   1103  2017.11 ..... ISBN 978-2-290-07853-2
 : .o .  55 N     _AULNOY Madame d'            L'Oiseau bleu ˛1697
 o LIBRIO   1118  2014.06 ..... ISBN 978-2-290-07846-4
 } noimg          _?                           ?
-!--- ˛Trad. Jean Dufournet
+!--- Trad. Jean Dufournet
++ LIBRIO   1118  2022.04 ..... ISBN 978-2-290-37419-1
+} noimg          _Olivier Balez               ?
+!--- MF - 125x178 - 144 pages - 2 euros
+!--- Extraits choisis - Dossier Sonia Taãbi - Trad. Jean Dufournet
 - .oF.     R     _CHRETIEN de TROYES          Perceval ou Le Conte du Graal [Les Romans arthuriens - 5] ˛c1185
 o LIBRIO   1180  2016.06 ..... ISBN 978-2-290-12079-8
 } librio1180     _Le Caravage                 ?
 !--- Extraits des MÇtamorphoses, de l'OdyssÇe, de Frankenstein, de Dracula et 3 contes de Perrault (intÇgral)
 !--- 96 pages - 12.9 x 20.4
++ LIBRIO   1180  2021.05 ..... ISBN 978-2-290-26189-7
+} librio1180rr21 _Nicolas Galkowski           ?
+!--- MF - 125x178 - 96 pages
 - .oFM    iAx    *ZABKA Camille               Les Monstres et l'Humain - Si proches, si lointains ˛2016
 !--- L'OdyssÇe, Homäre
-! .o .     X     _HOMERE                      Le Cyclope Polyphäme (extrait de : L'OdyssÇe)
-! .o .     X     _HOMERE                      Les Siränes (extrait de : L'OdyssÇe)
+! .o .     X     _HOMERE                      Le Cyclope Polyphäme (extrait de : L'OdyssÇe) ˛? ?
+! .o .     X     _HOMERE                      Les Siränes (extrait de : L'OdyssÇe) ˛? ?
 !--- Les MÇtamorphoses, Ovide
-! .o .     X     _OVIDE                       PersÇe (extrait de : Les MÇtamorphoses)
-! .o .     X     _OVIDE                       Les MÇtamorphoses monstrueuses (extrait de : Les MÇtamorphoses)
-! .o .     X     _OVIDE                       Callisto (extrait de : Les MÇtamorphoses)
-! .o .     X     _OVIDE                       Lycaon (extrait de : Les MÇtamorphoses)
-! .o .     X     _OVIDE                       ArachnÇ (extrait de : Les MÇtamorphoses)
+! .o .     X     _OVIDE                       PersÇe (extrait de : Les MÇtamorphoses) ˛? ?
+! .o .     X     _OVIDE                       Les MÇtamorphoses monstrueuses (extrait de : Les MÇtamorphoses) ˛? ?
+! .o .     X     _OVIDE                       Callisto (extrait de : Les MÇtamorphoses) ˛? ?
+! .o .     X     _OVIDE                       Lycaon (extrait de : Les MÇtamorphoses) ˛? ?
+! .o .     X     _OVIDE                       ArachnÇ (extrait de : Les MÇtamorphoses) ˛? ?
 !--- Les Monstres dans la mythologie grÇco-romaine
 ! .o .     X     _XXX                         Le Minotaure
 ! .o .     X     _XXX                         MÇdÇe
@@ -1686,7 +1729,7 @@ o LIBRIO   1180  2016.06 ..... ISBN 978-2-290-12079-8
 ! .o .     X     _--- (anonyme)               Aladdin ou la Lampe merveilleuse ˛ ?
 : .o .     N     _PERRAULT Charles            Le Petit Poucet ˛1697
 : .o .     N     _PERRAULT Charles            Barbe Bleue ˛1697
-: .oY.     X     _ANDERSEN Hans Christian     La Petite Siräne ˛1837 Den lille Havfrue ˛Trad. ?
+: .oY.     x     _ANDERSEN Hans Christian     La Petite Siräne ˛1837 Den lille Havfrue ˛Trad. ?
 : .o .     N     _LEPRINCE DE BEAUMONT J.-M.  La Belle et la Bàte ˛1757
 !--- Les Monstres dans les romans et nouvelles
 : .o .     X     _SHELLEY Mary                Frankenstein ˛1818 Frankenstein or the Modern Prometheus ˛Trad. ?
@@ -1695,7 +1738,7 @@ o LIBRIO   1182  2016.06 ..... ISBN 978-2-290-12092-7
 } noimg          _Walter Cresswell            ?
 + LIBRIO   1182  2020.01 ..... ISBN 978-2-290-22537-0
 } noimg          _LÇonard Dupond              ?
-- .xA.     R     _VERNE Jules                 Un hivernage dans les glaces ˛1855
+- .oS.     N     _VERNE Jules                 Un hivernage dans les glaces ˛1855
 o LIBRIO   1209  2017.11 ..... ISBN 978-2-290-13722-2
 } librio1209     _Anita Oum                   ?
 - .o .     N     _HOFFMANN E.T.A.             Casse-Noisette et le Roi des souris ˛1816 Nu·knacker und Mausekînig ˛Trad. LA BEDOLLIERE Emile de
@@ -1710,16 +1753,16 @@ o LIBRIO   1226  2018.06 ..... ISBN 978-2-290-15463-2
 o LIBRIO   1227  2018.06 ..... ISBN 978-2-290-15458-8
 } librio1227     _Bruno Mangyoku              ?
 - .pM.    kA10   ****                         Le Roi des taupes et sa fille - Dix contes merveilleux ˛2018
-: .o . 7   N     _DUMAS Alexandre             Le Roi des taupes et sa fille ˛?
-: .o . 28  N     _GRIMM Jacob & Wilhelm       Le Prince grenouille ˛1812 Der Froschkînig oder der eiserne Heinrich
-: .o . 34  N     _DUMAS Alexandre             Le Prince charmant ˛?
-: .o . 37  N     _PERRAULT Charles            Riquet Ö la houppe ˛1697
-: .! . 46  N     _LEPRINCE DE BEAUMONT J.-M.  Belote et Laidronette ˛1757
-: .o . 57  N     _ANDERSEN Hans Christian     Le Vilain Petit Canard ˛1843 Den grimme &AElig;lling ˛Trad. ?
-: .o . 70  N     _GRIMM Jacob & Wilhelm       Dame Trude ˛1812 Frau Trude
-: .o . 72  N     _BASILE Giambattista         L'Ourse ˛? ?
-: .o . 81  N     _GRIMM Jacob & Wilhelm       Peau-de-toutes-bàtes ˛1812 Allerleirauh
-: .o . 89  N     _PERRAULT Charles            Peau d'Éne ˛1694
+: .o .   7 N     _DUMAS Alexandre             Le Roi des taupes et sa fille ˛1857
+: .o .  28 N     _GRIMM Jacob & Wilhelm       Le Prince grenouille ˛1812 Der Froschkînig oder der eiserne Heinrich
+: .o .  34 N     _DUMAS Alexandre             Le Prince charmant ˛?
+: .o .  37 N     _PERRAULT Charles            Riquet Ö la houppe ˛1697
+: .! .  46 N     _LEPRINCE DE BEAUMONT J.-M.  Belote et Laidronette ˛1757
+: .o .  57 N     _ANDERSEN Hans Christian     Le Vilain Petit Canard ˛1843 Den grimme &AElig;lling ˛Trad. ?
+: .o .  70 N     _GRIMM Jacob & Wilhelm       Dame Trude ˛1812 Frau Trude
+: .o .  72 N     _BASILE Giambattista         L'Ourse ˛? ?
+: .o .  81 N     _GRIMM Jacob & Wilhelm       Peau-de-toutes-bàtes ˛1812 Allerleirauh
+: .o .  89 N     _PERRAULT Charles            Peau d'Éne ˛1694
 o LIBRIO   1228  2018.06 ..... ISBN 978-2-290-15460-1
 } noimg          _Nicolas Galkowski           ?
 - .oS.     r     _LONDON Jack                 La Peste Çcarlate ˛1912 The Scarlet Plague ˛Trad. POSTIF Louis & GRUYER Paul
@@ -1756,6 +1799,12 @@ o LIBRIO   1238  2018.09 ..... ISBN 978-2-290-15805-0
 : .! .     N     _VERNE Paul                  Quanrantiäme ascension franáaise au Mont Blanc ˛?
 : .C .     C     ****                         Le voyage ou la fin de l'aventure
 : .! .     N     _ROBIDA Albert               Voyages et aventures de M. Biff ˛?
+o LIBRIO   1286  2021.04 ..... ISBN 978-2-290-25853-8
+} noimg          _?                           ?
+!--- Poche - 125 x 178 - 160 pages
+!--- Trad. BOULENGER Jacques
+- .o .     R     _CHRETIEN de TROYES          Lancelot ou le Chevalier de la charrette [Les Romans arthuriens - 3] ˛c1180
+
 
 !-----------------------------------------------------------------------------
 !--- Librio noir

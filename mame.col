@@ -2,8 +2,8 @@
 !-----------------------------------------------------------------------------
 _ MAME_A  Maison Alfred Mame et fils (Tours)
 _ MAME    Mame
-_ MAME_SJ Mame, SuccŠs pour la jeunesse
-_ MAME_CT Mame, La Collection pour tous
+_ MAME_SJ Mame - SuccŠs pour la jeunesse
+_ MAME_CT Mame - La Collection pour tous
 !-----------------------------------------------------------------------------
 !--- Mame
 !-----------------------------------------------------------------------------
@@ -28,6 +28,10 @@ o MAME_CT   117  1934.xx ..... ISBN -
 o MAME_CT   126  1935.xx ..... ISBN -
 }mame_collpt126  _BRODERS Roger               -
 - .o .     R     _PRICE Georges               La Grotte myst‚rieuse þ?
+o MAME_CT   134  s.d..xx ..... ISBN -
+}mame_collpt134  _?                           -
+!--- Contenu = "La Caravane" et "Le Cheik"
+- .o .    iNx    _HAUFF Wilhelm               Contes merveilleux þ?
 o MAME_CT   361  1947.xx ..... ISBN -
 }mame_collpt361  _FRANC-NOHAIN Francine       FRANC-NOHAIN Francine
 - .oMF    _N7    _STROWSKI Magdelaine         Contes sans f‚es þ1947
@@ -39,15 +43,47 @@ o MAME_CT   361  1947.xx ..... ISBN -
 : .o .     N     _STROWSKI Magdelaine         La Maison enchant‚e þ1947
 : .o .     N     _STROWSKI Magdelaine         L'Effarant voyage des petits Cape et des petites Bonnet þ1947
 
+o MAME_A      ?  1890.xx ..... ISBN -
+} noimg          _?                           ?
+!--- En avant-texte, "Pour deux enfants", une d‚dicace du traducteur Louis de Hessem pour ses enfants.
+- .oMN    _N15   _HAUFF Wilhelm               Contes merveilleux ((Contes de Wilhelm Hauff)) þ1890
+: .oMN    _C6    _HAUFF Wilhelm               La Caravane þ1825 Die Karawane
+>--- Ensemble d'histoires que se racontent les marchands d'une caravane … chaque ‚tape.
+>--. Pr‚sent‚ sous la forme de 13 chapitres, les chapitres suppl‚mentaires s'intercalent avant, entre et aprŠs chaque histoire, et ont pour titre les titres suivants :
+>--.  "La Caravane", "Nouvelle ‚tape", "Le M‚decin grec", "Les Pirates du d‚sert", "Fin du voyage", "Repos" et enfin "D‚nouement impr‚vu".
+= .o .  13 N     _HAUFF Wilhelm               Le Calife cigogne þ1825 Die Geschichte vom Kalif Storch þTrad. HESSEM Louis de
+= .o .  32 N     _HAUFF Wilhelm               Le Vaisseau fant“me þ1825 Die Geschichte von dem Gespensterschff þTrad. HESSEM Louis de
+= .o .  48 N     _HAUFF Wilhelm               La main coup‚e þ1825 Die Geschichte von der abgehauenen Hand þTrad. HESSEM Louis de
+= .o .  66 N     _HAUFF Wilhelm               La D‚livrance de Fatmah þ1825 Die Errettung Fatmes þTrad. HESSEM Louis de
+= .o .  90 N     _HAUFF Wilhelm               Le Petit Mouck þ1825 Die Geschichte vom kleinen Muck þTrad. HESSEM Louis de
+= .o . 118 N     _HAUFF Wilhelm               MaŒtre Labakan þ1825 Das M„rchen vom falschen Prinzen þTrad. HESSEM Louis de
+: .oMN    _C4    _HAUFF Wilhelm               Le Cheik ((Le Cheikh d'Alexandrie et ses esclaves)) þ1826 Der Scheik von Alessandria und seine Sklaven
+>--- Ensemble d'histoires racont‚es par des esclaves affranchis.
+>--. Pr‚sent‚ sous la forme de 10 chapitres, les chapitres suppl‚mentaires s'intercalent avant, entre et aprŠs chaque histoire, et ont pour titre les titres suivants :
+>--.  "Le Cheik", "L'Anniversaire", "Interruption", "Conversation", "Le Derviche" et "Conclusion".
+= .o . 156 N     _HAUFF Wilhelm               Le Nain þ1826 Der Zwerg Nase þTrad. HESSEM Louis de
+= .o . 192 N     _HAUFF Wilhelm               Abner þ1826 Abner, der Jude, der nichts gesehen hat þTrad. HESSEM Louis de
+= .o . 205 N     _HAUFF Wilhelm               Le Jeune Anglais þ1826 Der Affe als Mensch þTrad. HESSEM Louis de
+= .o . 229 N     _HAUFF Wilhelm               Almanzor þ1826 Die Geschichte Almansors þTrad. HESSEM Louis de
+: .oMN    _C5    _HAUFF Wilhelm               L'Auberge du Spessart þ1827 Das Wirtshaus im Spessart
+>--- Ensemble d'histoires racont‚es par des voyageurs dans une auberge.
+>--. L'ouvrage pr‚sente 11 chapitres, les chapitres qui encadrent les nouvelles ayant pour titre : "Un gite peu rassurant", "Incident", "Nouvel incident",
+>--. "Menus propos", "L'Attaque nocturne" et "La Fuite".
+= .o . 249 N     _HAUFF Wilhelm               La L‚gende du florin þ1827 Die Sage vom Horschgulden
+= .o . 274 N     _HAUFF Wilhelm               Le Coeur de pierre - Premier r‚cit þ1827 Das kalte Herz - Erste Abteilung
+= .o . 304 N     _HAUFF Wilhelm               Aventures de Sa‹d þ1827 Saids Schicksale
+= .o . 345 N     _HAUFF Wilhelm               La Caverne de Steenfoll þ1827 Die H”hle von Steenfoll - Eine schottl„nsdische Sage
+= .o . 372 N     _HAUFF Wilhelm               Le Coeur de pierre - Second r‚cit þ1827 Das kalte Herz - Zweite Abteilung
 o MAME_CT     ?  1896.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _PRICE Georges               Les Trois Disparus du "Sirius" þ1896
 o MAME        ?  1911.xx ..... ISBN -
 } noimg          _ROBIDA A.                   ROBIDA A.
+!--- Cartonnage in-12ø - 234 pages
 - .o .     R     _GACHONS Jacques des         Le Ballon fant“me þ1911
 o MAME        ?  1911.xx ..... ISBN -
-!--- Illustr‚ par Robida; plusieurs concurrents tentent de battre le record du Phileas Fogg de Jules Verne
 } noimg          _?                           ?
+!--- Illustr‚ par Robida; plusieurs concurrents tentent de battre le record du Phileas Fogg de Jules Verne
 - .x .     R     _BERTHAUT L‚on               Le Record du tour du monde þ1911
 o MAME        ?  1911.xx ..... ISBN -
 } noimg          _?                           ?
@@ -61,13 +97,6 @@ o MAME_A      ?  1921.xx ..... ISBN -
 !--- Non dat‚
 } noimg          _?                           ?
 - .o .     r     _Marie Reine de Roumanie     Kildine - Histoire d'une m‚chante petite princesse þ1917 The Story of Naughty Kildeen
-o MAME        ?  1925.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .    iN4    _HAUFF Wilhelm               Le Cheikh d'Alexandrie et ses esclaves þ1925
-: .o .     N     _HAUFF Wilhelm               Le Nain Nasique þ1826 Der Zwerg Nase þTrad. TAUBES Nicole
-: .o .     N     _HAUFF Wilhelm               Abner, le juif qui n'a rien vu þ1826 Abner, der Jude, der nichts gesehen hat þTrad. TAUBES Nicole
-: .o .     N     _HAUFF Wilhelm               Le Singe sous les traits d'un homme þ1826 Der Affe als Mensch (Der junge Engl„nder) þTrad. TAUBES Nicole
-: .o .     N     _HAUFF Wilhelm               L'Histoire d'al-Mansur þ1826 Die Geschichte Almansors þTrad. TAUBES Nicole
 o MAME_A    222  1931.xx ..... ISBN -
 } noimg          _LE COULTRE C.               LE COULTRE C. (illus. hors texte)
 - .oS.     R     _MOWBRAY Henri               La Pyramide des atlantes þ1931
@@ -94,8 +123,8 @@ o MAME        ?  1934.xx ..... ISBN -
 - .oF.     r     _Marie Reine de Roumanie     Kildine - Histoire d'une m‚chante petite princesse þ1917 The Story of Naughty Kildeen
 o MAME        ?  1939.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _POE Edgar Allan             Pole blanc [Arthur Gordon Pym] þ1838 The Narrative of Arthur Gordon Pym þTrad. ?
 !--- Titre alternatif; texte non int‚gral
+- .o .     R     _POE Edgar Allan             Pole blanc [Arthur Gordon Pym] þ1838 The Narrative of Arthur Gordon Pym of Nantucket þTrad. ?
 o MAME_SJ    18  1954.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _ANTON Emil                  Les Robots du mont maudit þ1954
@@ -104,7 +133,7 @@ o MAME_SJ    18  1954.xx ..... ISBN -
 !GRP_OUVR 6
 !TIT_COLL SuccŠs Anticipation
 !-----------------------------------------------------------------------------
-_ MAME_SA Mame, Coll. "SuccŠs anticipation"
+_ MAME_SA Mame - SuccŠs anticipation
 !-----------------------------------------------------------------------------
 !--- La collection SuccŠs Anticipation des ‚ditions Mame est une collection
 !--. jeunesse qui dura de fin 1955 … 1958, et comportant 5 volumes qui se
@@ -134,4 +163,12 @@ o MAME_SA     5  1958.T4 ..... ISBN -
 }mame_sa5        _?                           N
 - .oS.     R     _HEINLEIN Robert             D'une planŠte … l'autre þ1951 Planet in Combat / Between Planets þTrad. CHAVANON Madeleine
 !FIN_COLL MAME_SA
+
+!-----------------------------------------------------------------------------
+_ MAME_NH Mame - Nouveaux Horizons
+!-----------------------------------------------------------------------------
+o MAME_NH    58  1965.xx ..... ISBN -
+}mame_sa5        _?                           N
+- .x .     E     _SILVERBERG Robert           Ceux qui gu‚rissent - D'Hippocrate … nos jours... (‚dition abr‚g‚e) þ1964 The Great Doctors þTrad. WALTERS Richard
+
 

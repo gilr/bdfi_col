@@ -27,13 +27,8 @@
 !---    Yvonne MAILLARD et Gilles DUMAY de fin 1998 a 2000
 !---
 !-----------------------------------------------------------------------------
-_ PDF     Deno‰l, Pr‚sence du Futur
-_ PDFY    Deno‰l, Pr‚sence du Futur/Fantasy
-_ PDFF    Deno‰l, Pr‚sence du Futur/Fantastique
-_ PDFS    Deno‰l, Pr‚sence du Futur/SF
-_ PDFT    Deno‰l, Pr‚sence du Futur/Terreur
-_ PDFC    Deno‰l, Pr‚sence du Futur, Catalogue analytique
-_ PDFH    Deno‰l, Pr‚sence du Futur, hors collection
+_ PDF     Deno‰l - Pr‚sence du Futur
+_ PDFC    Deno‰l - Pr‚sence du Futur, Catalogue analytique
 !-----------------------------------------------------------------------------
 
 !DEB_HEAD PDFUT
@@ -81,7 +76,7 @@ o PDF         1  1954.xx ..... ISBN -
 } pdf001r91      _Marie-Christine Forrest     ?
 - .oS.    _N26   _BRADBURY Ray                Chroniques martiennes ş1950 The Martian Chronicles şTrad. ROBILLOT Henry
 : .oS.     N     _BRADBURY Ray                Janvier 1999. L't‚ de la fus‚e ş1947 Rocket Summer
-: .oS.     N     _BRADBURY Ray                F‚vrier 1999. Ylla ş1950 Ylla / I'll Look for Wine
+: .oS.     N     _BRADBURY Ray                F‚vrier 1999. Ylla ş1950 Ylla / I'll Not Look for Wine
 : .oS.     N     _BRADBURY Ray                Ao–t 1999. La Nuit d'‚t‚ ş1949 The Summer Night / The Spring Night
 : .oS.     N     _BRADBURY Ray                Ao–t 1999. Les Hommes de la Terre ş1948 The Earth Men
 : .oS.     N     _BRADBURY Ray                Mars 2000. Le Contribuable ş1950 The Taxpayer
@@ -113,7 +108,7 @@ o PDF         1  1997.09 ..... ISBN 2-207-24638-8
 - .oS.    _N28   _BRADBURY Ray                Chroniques martiennes ş1950-1997 The Martian Chronicles şTrad. ROBILLOT Henry & CHAMBON Jacques
 !--- R‚‚dition avec dates et qq titres modifi‚s, plus deux nouvelles
 : .oS.     N     _BRADBURY Ray                Janvier 2030. L't‚ de la fus‚e ş1947 Rocket Summer
-: .oS.     N     _BRADBURY Ray                F‚vrier 2030. Ylla ş1950 Ylla / I'll Look for Wine
+: .oS.     N     _BRADBURY Ray                F‚vrier 2030. Ylla ş1950 Ylla / I'll Not Look for Wine
 : .oS.     N     _BRADBURY Ray                Ao–t 2030. La Nuit d'‚t‚ ş1949 The Summer Night / The Spring Night
 : .oS.     N     _BRADBURY Ray                Ao–t 2030. Les Hommes de la Terre ş1948 The Earth Men
 : .oS.     N     _BRADBURY Ray                Mars 2031. Le Contribuable ş1950 The Taxpayer
@@ -183,7 +178,7 @@ o PDF         3  1954.xx ..... ISBN -
 } pdf003r99      _Vincent Froissard           ?
 - .oS.    _N18   _BRADBURY Ray                L'Homme illustr‚ ş1951 The Illustrated Man şTrad. ANDRONIKOF Constantin
 : .oS.     p     _BRADBURY Ray                Prologue ş1951 Prologue: the Illustrated Man şTrad. ANDRONIKOF Constantin
-: .oS.     N     _BRADBURY Ray                La Brousse ş1950 The Veld
+: .oS.     N     _BRADBURY Ray                La Brousse ş1950 The Veldt / The Veld
 : .oS.     N     _BRADBURY Ray                Kal‚idoscope ş1949 Kaleidoscope
 : .oS.     N     _BRADBURY Ray                Comme on se retrouve ş1951 The Other Foot
 : .oS.     N     _BRADBURY Ray                La Grand-Route ş1950 The Highway
@@ -198,7 +193,6 @@ o PDF         3  1954.xx ..... ISBN -
 : .oS.     N     _BRADBURY Ray                Le Visiteur ş1948 The Visitor
 : .oS.     N     _BRADBURY Ray                La B‚tonneuse ş1949 The Concrete Mixer
 : .oS.     N     _BRADBURY Ray                Automates, soci‚t‚ anonyme ş1949 Marionettes, Inc.
-!--- TBC titre vo : _Marionettes, Inc._ ou _Marionettes Inc._ ?
 : .oS.     N     _BRADBURY Ray                La Ville ş1950 The City / Purpose
 : .oS.     N     _BRADBURY Ray                L'Heure H ş1947 Zero Hour
 : .oS.     N     _BRADBURY Ray                La Fus‚e ş1950 The Rocket / Outcast of the Stars
@@ -224,8 +218,8 @@ o PDF         4  1954.04 ..... ISBN -
 - .oF.    _N4    _LOVECRAFT Howard P.         La Couleur tomb‚e du ciel ş1954
 !--- r‚‚d en 1994 - Pr‚face : BERGIER Jacques
 : .oF.     N     _LOVECRAFT Howard P.         La Couleur tomb‚e du ciel ş1927 The Colour Out of Space şTrad. PAPY Jacques
-: .oF.     N     _LOVECRAFT Howard P.         L'Abomination de Dunwich ş1928 The Dunwich Horror şTrad. PAPY Jacques
-: .oF.     r     _LOVECRAFT Howard P.         Le Cauchemar d'Innsmouth ş1931 The Shadow Over Innsmouth şTrad. PAPY Jacques
+: .oF.     N     _LOVECRAFT Howard P.         L'Abomination de Dunwich ş1929 The Dunwich Horror şTrad. PAPY Jacques
+: .oF.     r     _LOVECRAFT Howard P.         Le Cauchemar d'Innsmouth ş1936 The Shadow Over Innsmouth şTrad. PAPY Jacques
 : .oF.     r     _LOVECRAFT Howard P.         Celui qui chuchotait dans les t‚nŠbres ş1931 The Whisperer in Darkness şTrad. PAPY Jacques
 o PDF         5  1954.04 ..... ISBN -
 } pdf005         _?                           ?
@@ -245,9 +239,9 @@ o PDF         5  1954.04 ..... ISBN -
 } pdf005r92      _Serge Bihannic              ?
 - .oF.    _N4    _LOVECRAFT Howard P.         Dans l'abŒme du temps ş1954
 : .oF.     r     _LOVECRAFT Howard P.         Dans l'abŒme du temps ş1936 The Shadow Out of Time şTrad. PAPY Jacques
-: .oF.     N     _LOVECRAFT Howard P.         La Maison de la sorciŠre ş1933 The Dream in the Witch House şTrad. PAPY Jacques
-: .oF.     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu ş1926 The Call of Cthulhu şTrad. PAPY Jacques
-: .oF.     N     _LOVECRAFT Howard P.         Les Montagnes hallucin‚es [Arthur Gordon Pym] ş1936 At the Mountains of Madness şTrad. PAPY Jacques
+: .oF.     N     _LOVECRAFT Howard P.         La Maison de la sorciŠre ş1933 The Dreams in the Witch House şTrad. PAPY Jacques
+: .oF.     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu ş1928 The Call of Cthulhu şTrad. PAPY Jacques
+: .oF.     r     _LOVECRAFT Howard P.         Les Montagnes hallucin‚es [Arthur Gordon Pym] ş1936 At the Mountains of Madness şTrad. PAPY Jacques
 o PDF         6  1955.01 ..... ISBN -
 } pdf006         _?                           ?
 + PDF         6  1958.xx ..... ISBN -
@@ -447,7 +441,7 @@ o PDF        16  1956.xx ..... ISBN -
 } pdf016r94      _Serge Bihannic              ?
 - .oF.    _RN4   _LOVECRAFT Howard P.         Par-del… le mur du sommeil ş1956
 : .oF.     N     _LOVECRAFT Howard P.         Par-del… le mur du sommeil ş1919 Beyond the Wall of Sleep şTrad. PAPY Jacques
-: .oF.     N     _LOVECRAFT Howard P.         Les Rats dans les murs ş1923 The Rats in the Walls şTrad. PAPY Jacques
+: .oF.     N     _LOVECRAFT Howard P.         Les Rats dans les murs ş1924 The Rats in the Walls şTrad. PAPY Jacques
 : .oF.     N     _LOVECRAFT Howard P.         Le Monstre sur le seuil ş1937 The Thing on the Doorstep şTrad. PAPY Jacques
 : .oF.     N     _LOVECRAFT Howard P.         Celui qui hantait les t‚nŠbres ş1936 The Haunter of the Dark şTrad. PAPY Jacques
 : .oF.     R     _LOVECRAFT Howard P.         L'Affaire Charles Dexter Ward ş1927 The Case of Charles Dexter Ward şTrad. PAPY Jacques
@@ -563,18 +557,18 @@ o PDF        21  1957.xx ..... ISBN -
 : .o .     N     _STERNBERG Jacques           Contes encore assez brefs ş1957
 : .o .     N     _STERNBERG Jacques           Contes trŠs brefs ş1957
 : .o .     N     _STERNBERG Jacques           Guerre et paix ş1957
-: .o .     N     _STERNBERG Jacques           La Machine … sous ş1957
-: .o .     N     _STERNBERG Jacques           Le But ş1957
+: .o .     n     _STERNBERG Jacques           La Machine … sous ş1957
+: .o .     n     _STERNBERG Jacques           Le But ş1955
 : .o .     N     _STERNBERG Jacques           Le D‚l‚gu‚ ş1957
 : .o .     N     _STERNBERG Jacques           Le monde a bien chang‚ ş1957
 : .o .     N     _STERNBERG Jacques           Le Pass‚ ş1957
 : .o .     N     _STERNBERG Jacques           Les Striges ş1957
-: .o .     N     _STERNBERG Jacques           L'Oubli ş1957
+: .o .     n     _STERNBERG Jacques           L'Oubli ş1957
 : .o .     n     _STERNBERG Jacques           Mar‚e basse ş1957
 : .o .     N     _STERNBERG Jacques           Partir, c'est mourir un peu moins ş1957
-: .o .     N     _STERNBERG Jacques           Plus loin que la nuit ş1957
+: .o .     n     _STERNBERG Jacques           Plus loin que la nuit ş1957
 : .o .     N     _STERNBERG Jacques           Pr‚cis de l'histoire du futur ş1957
-: .o .     N     _STERNBERG Jacques           Quoi ? ş1957
+: .o .     N     _STERNBERG Jacques           Quoi ? ş1955
 : .o .     N     _STERNBERG Jacques           Univers z‚ro ş1957
 : .o .     N     _STERNBERG Jacques           Vos passeports messieurs ş1957
 o PDF        22  1958.xx ..... ISBN -
@@ -617,12 +611,12 @@ o PDF        25  1983.xx ..... ISBN 2-207-30025-0
 !--- Sans la note bibliographique de Halevy
 - .oS.    kRN2   _ROSNY AINE J.-H.            La Mort de la Terre ş1983
 : .oS.     R     _ROSNY AINE J.-H.            La Mort de la Terre ş1910
-: .o .     R     _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1] ş1925
+: .o .     r     _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1] ş1925
 : .o .     N     _ROSNY AINE J.-H.            Le Cataclysme ş1888
 o PDF        25  1999.02 ..... ISBN 2-207-24824-0
 } pdf025r99      _Mandy                       ?
 - .oS.    kRN2   _ROSNY AINE J.-H.            La Mort de la Terre ş1983
-: .o .     R     _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1] ş1925
+: .o .     r     _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1] ş1925
 : .o .     N     _ROSNY AINE J.-H.            Le Cataclysme ş1888
 : .oS.     R     _ROSNY AINE J.-H.            La Mort de la Terre ş1910
 o PDF        26  1958.xx ..... ISBN -
@@ -690,6 +684,7 @@ o PDF        28  1959.02 ..... ISBN -
 !--- r‚‚dition en 1995 sous "le village des damn‚s (Les coucous de Midwich)"
 o PDF        28  1961.xx ..... ISBN -
 } pdf028r61      _?                           ?
+!--- jaquette
 + PDF        28  1995.xx ..... ISBN 2-207-30028-5
 } pdf028r95      _Adrien Veillon              ?
 - .oF.     R     _WYNDHAM John                Le Village des damn‚s (Les Coucous de Midwich) ş1957 The Midwich Cuckoos / Village of the Damned şTrad. VEILLON Adrien
@@ -703,7 +698,7 @@ o PDF        29  1959.xx ..... ISBN -
 } pdf029r90      _Frank Van al der Werelt     ?
 + PDF        29  1999.xx ..... ISBN 2-207-50029-2
 } pdf029r99      _Manchu                      ?
-- .oS.     R     _ALDISS Brian W.             CroisiŠre sans escale ş1958 Non-stop / Starship şTrad. DEUTSCH Michel
+- .oS.     R     _ALDISS Brian W.             CroisiŠre sans escale ş1958 Non-Stop / Starship şTrad. DEUTSCH Michel
 o PDF        30  1959.04 ..... ISBN -
 } pdf030         _?                           ?
 + PDF        30  1978.02 ..... ISBN -
@@ -796,7 +791,7 @@ o PDF        36  1960.xx ..... ISBN -
 : .oS.     N     _CLARKE Arthur C.            Les Feux int‚rieurs ş1946 The Fires Within
 : .oS.     N     _CLARKE Arthur C.            Le R‚veil ş1942 The Awakening
 : .oS.     N     _CLARKE Arthur C.            L'indigŠne est r‚tif ş1951 Captain Wyxtphll's Flying Saucer / Trouble with the Natives
-: .o .     N     _CLARKE Arthur C.            La Mal‚diction ş1947 The Curse
+: .o .     N     _CLARKE Arthur C.            La Mal‚diction ş1946 The Curse / Nightfall
 : .oS.     N     _CLARKE Arthur C.            Le Vecteur temporel ş1950 Time's Arrow
 : .oS.     N     _CLARKE Arthur C.            Jupiter Cinq ş1953 Jupiter Five
 : .oS.     N     _CLARKE Arthur C.            Les Poss‚d‚s ş1953 The Posseded
@@ -856,8 +851,8 @@ o PDF        42  1960.xx ..... ISBN -
 } pdf042r72      _?                           ?
 + PDF        42  1983.xx ..... ISBN 2-207-30042-0
 } pdf042r83      _?                           ?
+>--- 5 textes dans le recueil original de 1872, le roman "The Room in the Dragon Volant" n'‚tant pas repris ici.
 - .oF.    _N4    _LE FANU J. Sheridan         Carmilla [Le Dr. Hesselius] ş1872 In a Glass Darkly şTrad. DOREMIEUX Alain + GILLE Elisabeth
->--- 5 nouvelles dans le recueil de 1872; la nouvelle "The room in the Dragon Volant" n'est pas reprise ici.
 : .oF.     r     _LE FANU J. Sheridan         Carmilla [Le Dr. Hesselius] ş1871 Carmilla
 : .oF.     N     _LE FANU J. Sheridan         Th‚ vert [Le Dr. Hesselius] ş1869 Green Tea
 : .oF.     N     _LE FANU J. Sheridan         Le Familier [Le Dr. Hesselius] ş1851 The Familiar / The Watcher
@@ -872,9 +867,9 @@ o PDF        43  1960.xx ..... ISBN -
 } pdf043r89      _Jimminy                     ?
 - .oS.    _N15   _SHECKLEY Robert             P‚lerinage … la Terre ş1958 Pilgrimage to Earth şTrad. DERAMAT Jean-Michel
 : .o .     N     _SHECKLEY Robert             P‚lerinage … la terre ş1956 Love Incorporated / Pilgrimage to Earth şTrad. DERAMAT Jean-Michel
-: .o .     N     _SHECKLEY Robert             Tout ce que nous sommes ş1956 All the Thing You Are şTrad. DERAMAT Jean-Michel
+: .o .     N     _SHECKLEY Robert             Tout ce que nous sommes ş1956 All the Things You Are şTrad. DERAMAT Jean-Michel
 !--- TBC titre vo : _All the thing you are_ ou _All the things you are_ ?
-: .o .     N     _SHECKLEY Robert             PiŠge ş1956 The Trap şTrad. DERAMAT Jean-Michel
+: .o .     N     _SHECKLEY Robert             PiŠge ş1956 Trap şTrad. DERAMAT Jean-Michel
 : .o .     N     _SHECKLEY Robert             Le Corps ş1956 The Body şTrad. DERAMAT Jean-Michel
 : .o .     N     _SHECKLEY Robert             ModŠle exp‚rimental ş1956 Early Model şTrad. DERAMAT Jean-Michel
 : .o .     N     _SHECKLEY Robert             Service de d‚barras ş1955 Disposal Service şTrad. DERAMAT Jean-Michel
@@ -886,7 +881,7 @@ o PDF        43  1960.xx ..... ISBN -
 : .o .     N     _SHECKLEY Robert             Le Clandestin ş1955 Deadhead şTrad. DERAMAT Jean-Michel
 : .o .     N     _SHECKLEY Robert             L'Acad‚mie ş1954 The Academy şTrad. DERAMAT Jean-Michel
 : .o .     N     _SHECKLEY Robert             Une tourn‚e de laitier ş1954 The Milk Run şTrad. DERAMAT Jean-Michel
-: .o .     N     _SHECKLEY Robert             La R‚volte du bateau de sauvetage ş1955 The Life Boat Muniny şTrad. DERAMAT Jean-Michel
+: .o .     N     _SHECKLEY Robert             La R‚volte du bateau de sauvetage ş1955 The Life Boat Mutiny şTrad. DERAMAT Jean-Michel
 : .o .     N     _SHECKLEY Robert             Les Grands RemŠdes ş1956 Bad Medicine şTrad. DERAMAT Jean-Michel
 o PDF        44  1960.xx ..... ISBN -
 } pdf044         _?                           ?
@@ -918,12 +913,12 @@ o PDF        45  1961.xx ..... ISBN -
 - .oF.    kN11   _LOVECRAFT Howard P.         Je suis d'ailleurs ş1961
 !--- TBC : N9, sans Pickman et peur qui r“de ?
 : .oF.     N     _LOVECRAFT Howard P.         Je suis d'ailleurs ş1926 The Outsider şTrad. RIVIERE Yves
-: .oF.     N     _LOVECRAFT Howard P.         La Musique d'Erich Zann ş1921 The Music of Erich Zann şTrad. RIVIERE Yves
-: .oF.     N     _LOVECRAFT Howard P.         L'Indicible [Randolph Carter] ş1923 The Unnamable şTrad. RIVIERE Yves
-: .oF.     N     _LOVECRAFT Howard P.         Air froid ş1926 Cool Air şTrad. RIVIERE Yves
+: .oF.     N     _LOVECRAFT Howard P.         La Musique d'Erich Zann ş1922 The Music of Erich Zann şTrad. RIVIERE Yves
+: .oF.     N     _LOVECRAFT Howard P.         L'Indicible [Randolph Carter] ş1925 The Unnamable şTrad. RIVIERE Yves
+: .oF.     N     _LOVECRAFT Howard P.         Air froid ş1928 Cool Air şTrad. RIVIERE Yves
 : .oF.     N     _LOVECRAFT Howard P.         Le Molosse ş1924 The Hound şTrad. RIVIERE Yves
 : .oF.     N     _LOVECRAFT Howard P.         La Maison maudite ş1928 The Shunned House şTrad. RIVIERE Yves
-: .oF.     N     _LOVECRAFT Howard P.         La TourbiŠre hant‚e ş1921 The Moon-Bog şTrad. RIVIERE Yves
+: .oF.     N     _LOVECRAFT Howard P.         La TourbiŠre hant‚e ş1926 The Moon-Bog şTrad. RIVIERE Yves
 : .o .     N     _LOVECRAFT Howard P.         Arthur Jermyn ş1921 The White Ape / Arthur Jermyn / Facts Concerning the Late Arthur Jermyn and His Family şTrad. RIVIERE Yves
 : .oF.     N     _LOVECRAFT Howard P.         Le ModŠle de Pickman ş1927 Pickman's Model
 : .oF.     N     _LOVECRAFT Howard P.         La Cit‚ sans nom ş1921 The Nameless City şTrad. RIVIERE Yves
@@ -988,7 +983,7 @@ o PDF        49  1961.xx ..... ISBN -
 : .o .     N     _BRADBURY Ray                Le Sourire ş1952 The Smile
 : .o .     N     _BRADBURY Ray                Le Premier Soir de Carˆme ş1956 The First Night of Lent
 : .o .     N     _BRADBURY Ray                L'Heure du grand d‚part ş1956 The Time of Going Away
-: .o .     N     _BRADBURY Ray                Et l'‚t‚ ne dura qu'un jour ş1958 All Summer in a Day
+: .o .     N     _BRADBURY Ray                Et l'‚t‚ ne dura qu'un jour ş1954 All Summer in a Day
 : .o .     N     _BRADBURY Ray                Le Cadeau ş1959 The Gift
 : .o .     N     _BRADBURY Ray                La Collision m‚morable de lundi dernier ş1958 The Great Collision of Monday Last
 : .o .     N     _BRADBURY Ray                Les Petites Souris ş1955 The Little Mice
@@ -1050,7 +1045,7 @@ o PDF        55  1962.01 ..... ISBN -
 + PDF        55  1985.xx ..... ISBN 2-207-30055-2
 } pdf055r85      _?                           ?
 - .oS.    kN6    _SZILARD L‚o                 La Voix des dauphins ş1961 The Voice of the Dolphins and Other Stories
-!--- şTrad. Philippe Chardeyron & Claude Saunier
+!--- Trad. Philippe Chardeyron & Claude Saunier
 : .oS.   9 P     _BENET Stephen Vincent       Cauchemar pour le temps futur ş1938 Nightmare for Future Reference
 : .oS.  21 N     _SZILARD L‚o                 Mon procŠs comme criminiel de guerre ş1949 My Trial as a War Criminal
 : .oS.  41 N     _SZILARD L‚o                 La Fondation Mark Gable ş1961 The Mark Gable Foundation
@@ -1328,7 +1323,7 @@ o PDF        77  1964.10 ..... ISBN -
 : .o .     N     _BRUNNER John                Les Fontaines du ciel ş1956 Two Be Two / The Windows of Heaven
 !--- VT (r‚vis‚) The windows of heaven 1962
 : .o .     N     _BRUNNER John                La Foire ş1956 Fair
-: .o .     N     _BRUNNER John                La Panne ş1957 Out Of Order
+: .o .     N     _BRUNNER John                La Panne ş1957 Out of Order
 : .o .     N     _BRUNNER John                Ne pas d‚ranger ş1959 Silence / Elected Silence
 : .o .     N     _BRUNNER John                Le Grand M‚chant Loup ş1960 Badman
 : .o .     N     _BRUNNER John                Rapport sur la composition de la surface lunaire ş1960 Report on the Nature of the Lunar Surface
@@ -1545,13 +1540,13 @@ o PDF        91  1966.04 ..... ISBN -
 } pdf091r84      _St‚phane Dumont             ?
 - .oF.    _N7    _BLACKWOOD Algernon          ElŠve de quatriŠme... dimension ş1966
 : .oF.     p     _PARSONS Jacques             Avant-propos ş1966
-: .oF.     N     _BLACKWOOD Algernon          L'Affaire Pikestaffe ş1916 The Pikestaffe Case şTrad. PARSONS Jacques
+: .oF.     N     _BLACKWOOD Algernon          L'Affaire Pikestaffe ş1924 The Pikestaffe Case şTrad. PARSONS Jacques
 : .oF.     N     _BLACKWOOD Algernon          Les Saules ş1907 The Willows şTrad. PARSONS Jacques
 : .oF.     N     _BLACKWOOD Algernon          Le PiŠge du destin ş1921 The Decoy şTrad. PARSONS Jacques
-: .oF.     N     _BLACKWOOD Algernon          La Veille du premier mai ş1916 May Day Eve şTrad. PARSONS Jacques
-: .oF.     N     _BLACKWOOD Algernon          Le Vieil homme des visions ş1916 The Old Man of Visions şTrad. PARSONS Jacques
-: .oF.     N     _BLACKWOOD Algernon          L'Histoire du fant“me de la femme ş1916 The Woman's Ghost Story şTrad. PARSONS Jacques
-: .oF.     N     _BLACKWOOD Algernon          La Vall‚e des bˆtes sauvages ş1916 The Valley of the Beasts şTrad. PARSONS Jacques
+: .oF.     N     _BLACKWOOD Algernon          La Veille du premier mai ş1907 May Day Eve şTrad. PARSONS Jacques
+: .oF.     N     _BLACKWOOD Algernon          Le Vieil Homme des visions ş1907 The Old Man of Visions şTrad. PARSONS Jacques
+: .oF.     N     _BLACKWOOD Algernon          L'Histoire du fant“me de la femme ş1907 The Woman's Ghost Story şTrad. PARSONS Jacques
+: .oF.     N     _BLACKWOOD Algernon          La Vall‚e des bˆtes sauvages ş1921 The Valley of the Beasts şTrad. PARSONS Jacques
 o PDF        92  1966.T1 ..... ISBN -
 } pdf092         _?                           ?
 + PDF        92  1969.xx ..... ISBN -
@@ -1756,7 +1751,7 @@ o PDF       109  1980.03 ..... ISBN -
 : .o .     N     _LEM Stanislas               PremiŠre croisade ou le PiŠge de Gargancien ş1965 Wyprawa pierwsza, czyli pulapka Gargancjana
 : .o .     N     _LEM Stanislas               Croisade nø 1 bis ou l'‚lectrouvŠre de Trurl ş1965 Wyprawa pierwsza A, czyli Elektrybalt Trurla
 : .o .     N     _LEM Stanislas               Seconde croisade ou l'Offre du roi F‚rocien ş1965 Wyprawa druga, czyli oferta kr¢la Okrucyusza
-: .o .     N     _LEM Stanislas               TroisiŠme croisade ou le Dragon des probabilit‚s ş1965 Wyprawa trzecia, czyli smoki prawdopodobienstwa
+: .o .     N     _LEM Stanislas               TroisiŠme croisade ou le dragon des probabilit‚s ş1965 Wyprawa trzecia, czyli smoki prawdopodobienstwa
 : .o .     N     _LEM Stanislas               QuatriŠme croisade ou comment Trurl recourut au f‚minotron dans le but de d‚livrer le prince Pantarctique des tourments de l'amour et comment l'on en vint subs‚quemment ş1965 Wyprawa czwarta, czyli o tym, jak Trurl kobietron zastosowal, kr¢lewicza Pantarktyka od mak milosnych chcac zbawic, i jak potem do uzycia dzieciomiotu przyszlo
 : .o .     N     _LEM Stanislas               CinquiŠme croisade ou les Tours du roi Jambonnier ş1965 Wyprawa piata, czyli o figlach kr¢la Baleryona
 : .o .     N     _LEM Stanislas               Croisade nø 5 bis ou la Consultation de Trurl ş1965 Wyprawa piata A, czyli konsultacja Trurla
@@ -1893,6 +1888,7 @@ o PDF       122  1970.xx ..... ISBN -
 } pdf122r84      _Bernard Couderc             ?
 + PDF       122  1998.10 ..... ISBN 2-207-24784-8
 } pdf122r98      _Olivier Frot                ?
+!--- Il s'agit bien d'un roman malgr‚ le "Nouvelles traduites pas ..." en page de titre
 - .oY.     R     _DE CAMP Lyon Sprague        Le Coffre d'Avlen [Novaria - 1] ş1968 The Goblin Tower şTrad. HILLING Simone
 o PDF       123  1970.01 ..... ISBN -
 } pdf123         _?                           ?
@@ -1964,7 +1960,7 @@ o PDF       125  1970.xx ..... ISBN -
 : .oS.     N     _ASIMOV Isaac                En une juste cause... ş1951 In a Good Cause / Ideals Dies Hard şTrad. SILLING Simone
 : .oS.     N     _ASIMOV Isaac                Et si... ş1952 What If şTrad. SILLING Simone
 : .oS.     N     _ASIMOV Isaac                Sally ş1953 Sally şTrad. SILLING Simone
-: .oS.     N     _ASIMOV Isaac                Personne ici, sauf... ş1953 Nobody Here But şTrad. SILLING Simone
+: .oS.     N     _ASIMOV Isaac                Personne ici, sauf... ş1953 Nobody Here but şTrad. SILLING Simone
 : .oS.     N     _ASIMOV Isaac                Quelle belle journ‚e ! ş1954 It's such a Beautiful Day şTrad. SILLING Simone
 : .oS.     N     _ASIMOV Isaac                L'amour, vous connaissez ? ş1961 Playboy and the Slime God / What Is This Thing Called Love? şTrad. SILLING Simone
 o PDF       126/ 1970.10 ..... ISBN -
@@ -2114,8 +2110,8 @@ o PDF       135  1989.04 ..... ISBN 2-207-50135-3
 : .oS.     N     _ANDREVON Jean-Pierre        Les Fourmis ş1971
 : .oS.     N     _ANDREVON Jean-Pierre        ... Il revient au galop ş1971
 : .C .     C     _ANDREVON Jean-Pierre        III - Ce qui revient ş1989
-: .oS.     N     _ANDREVON Jean-Pierre        Le Lointain voyage ş1989
-: .oS.     N     _ANDREVON Jean-Pierre        Un petit saut dans le pass‚ ş1989
+: .oS.     N     _ANDREVON Jean-Pierre        Le Lointain Voyage ş1970
+: .oS.     N     _ANDREVON Jean-Pierre        Un petit saut dans le pass‚ ş1971
 : .C .     C     _ANDREVON Jean-Pierre        IV - En guide de postface ş1989
 : .oS.     o     _ANDREVON Jean-Pierre        Ce n'est pas l'‚crivain qui ‚crit, c'est l'homme qui vous parle ş1989
 o PDF       136  1971.xx ..... ISBN -
@@ -2256,7 +2252,7 @@ o PDF       155/ 1972.10 ..... ISBN -
 /           156/
 /           157 
 } pdf155r78      _St‚phane Dumont             ?
-- .oS.     R     _STAPLEDON Olaf              Les Derniers et les premiers ş1930 Last and First Men şTrad. SAUNIER Claude
+- .oS.     R     _STAPLEDON Olaf              Les Derniers et les Premiers ş1930 Last and First Men şTrad. SAUNIER Claude
 o PDF       158/ 1972.11 ..... ISBN -
 /           159 
 } pdf158-159     _?                           ?
@@ -2307,7 +2303,7 @@ o PDF       164  1973.03 ..... ISBN -
 : .o .     N     _ALDISS Brian W.             L'Instant de l'‚clipse ş1969 The Moment of Eclipse
 : .o .     N     _ALDISS Brian W.             Le Jour de l'embarquement pour CythŠre ş1970 The Day We Embarked for Cythera
 : .o .     N     _ALDISS Brian W.             L'Orgie des vivants et des mourants ş1970 Orgy of the Living and the Dying
-: .o .     N     _ALDISS Brian W.             Des jouets pour l'‚t‚ ş1969 Super-toys Last All Summer Long
+: .o .     N     _ALDISS Brian W.             Des jouets pour l'‚t‚ ş1969 Super-Toys Last All Summer Long
 : .o .     N     _ALDISS Brian W.             Le Filou du village ş1968 The Village Swindler
 : .o .     N     _ALDISS Brian W.             En redescendant la spirale ş1967 Down the Up Escalation
 : .o .     N     _ALDISS Brian W.             Entre l'art et la vie ş1969 That Uncomfortable Pause Between Life and Art
@@ -2395,7 +2391,7 @@ o PDF       172  1973.11 ..... ISBN -
 : .oS. 119 N     _DISCH Thomas M.             La Cage d'‚cureuil ş1966 The Squirrel Cage şTrad. DELOUYA Roland
 : .oS. 137 N     _DISCH Thomas M.             Le nombre que vous avez atteint ş1967 The Number You Have Reached şTrad. DELOUYA Roland
 : .oS. 149 N     _DISCH Thomas M.             1-A ş1968 1-A şTrad. DELOUYA Roland
-: .oS. 163 N     _DISCH Thomas M.             Achetez-vous une nouvelle tˆte ş1966 Fun With Your New Head
+: .oS. 163 N     _DISCH Thomas M.             Achetez-vous une nouvelle tˆte ş1966 Fun with Your New Head
 : .oS. 167 N     _DISCH Thomas M.             La Cit‚ o— rayonne la lumiŠre ş1968 The City of Penetring Light
 : .oS. 171 N     _DISCH Thomas M.             PoussiŠre de lune, odeur de foin et mat‚rialisme dialectique ş1967 Moondust, the Smell of Hay, and Dialectical Materialism şTrad. DELOUYA Roland
 : .oS. 177 N     _DISCH Thomas M.             ThŠse sur les formes sociales et les contr“les sociaux aux USA ş1964 A Thesis on Social Forms and Social Controls in the U.S.A. şTrad. DELOUYA Roland
@@ -2455,7 +2451,7 @@ o PDF       179  1974.04 ..... ISBN -
 } pdf179         _?                           ?
 + PDF       179  1982.xx ..... ISBN 2-207-30179-6
 } pdf179r82      _St‚phane Dumont             ?
-- .oS.     R     _STROUGATSKI Arcady         &Le lundi commence le samedi ş1966 Ponedel'nik nachinactsia v subhotu şTrad. DU CREST Bernadette
+- .oS.     R     _STROUGATSKI Arcady         &Le lundi commence le samedi ş1965 Ponedel'nik nachinactsia v subhotu şTrad. DU CREST Bernadette
 &                _STROUGATSKI Boris           
 o PDF       180  1974.xx ..... ISBN -
 } pdf180         _?                           ?
@@ -2536,6 +2532,7 @@ o PDF       187  1974.11 ..... ISBN -
 : .oS.     N     _ASIMOV Isaac                Brimade ş1942 The Hazing şTrad. FILLION Jane
 o PDF       188  1975.10 ..... ISBN -
 } pdf188         _?                           ?
+>--- Cet ouvrage est indiqu‚ par erreur nø184
 - .oS.    _N12   _SUSSAN Ren‚                 L'Anneau de fum‚e ş1975
 : .o .     N     _SUSSAN Ren‚                 En maniŠre d'introduction ş1975
 : .o .     N     _SUSSAN Ren‚                 Sphynx ş1975
@@ -2669,7 +2666,7 @@ o PDF       203  1976.02 ..... ISBN -
 - .oS.    _N6    _DISCH Thomas M.             334 ş1972 334 şTrad. BLUNDEN Ronald
 : .oS.     N     _DISCH Thomas M.             La Mort de Socrate ş1967 Problems of Creativeness şTrad. BLUNDEN Ronald
 : .oS.     N     _DISCH Thomas M.             Corps ş1971 Bodies şTrad. BLUNDEN Ronald
-: .oS.     N     _DISCH Thomas M.             La Vie quotidienne sous la fin de l'empire romain ş1972 Everyday Life in the Later Roman Empire şTrad. BLUNDEN Ronald
+: .oS.     N     _DISCH Thomas M.             La Vie quotidienne sous la fin de l'Empire romain ş1972 Everyday Life in the Later Roman Empire şTrad. BLUNDEN Ronald
 : .oS.     N     _DISCH Thomas M.             Emancipation ş1969 Emancipation, A Romance of Time to Come şTrad. BLUNDEN Ronald
 : .oS.     N     _DISCH Thomas M.             Angoulˆme ş1971 Angouleme şTrad. BLUNDEN Ronald
 : .oS.     N     _DISCH Thomas M.             334 ş1972 334 şTrad. BLUNDEN Ronald
@@ -2727,7 +2724,7 @@ o PDF       213  1976.04 ..... ISBN -
 - .oS.     R     _VILLARET Bernard            Visa pour l'outre-temps ş1976
 o PDF       214  1976.05 ..... ISBN -
 } pdf214         _St‚phane Dumont             ?
-- .oS.     R     _COWPER Richard              Le Cr‚puscule de Briareus ş1974 The Twilight of Briaerus şTrad. SAUNIER Claude
+- .oS.     R     _COWPER Richard              Le Cr‚puscule de Briareus ş1974 The Twilight of Briareus şTrad. SAUNIER Claude
 o PDF       215  1976.04 ..... ISBN -
 } pdf215         _St‚phane Dumont             ?
 - .oS.     R     _SHAW Bob                    Une longue marche dans la nuit ş1967 Night Walk şTrad. SAUNIER Claude
@@ -2782,7 +2779,7 @@ o PDF       224  1976.12 ..... ISBN -
 : .oS.     N     _CHARNOCK Graham             Les BoŒtes chinoises ş1970 The Chinese Boxes şTrad. CARTANO Fran‡oise
 : .oS.     N     _JAKUBOWSKI Maxim            Un ‚pisode de la guerre du phosphore ş1973 Nothing Extraordinary Ever Happens şTrad. JAKUBOWSKI Maxim
 : .oS.     N     _JONES Langdon               La Salle des machines ş1968 The Hall of Machines şTrad. CARTANO Fran‡oise
-: .oS.     N     _McEVAN Ian                  G‚om‚trie dans l'espace ş1974 Solid geometry şTrad. CARTANO Fran‡oise
+: .oS.     N     _McEWAN Ian                  G‚om‚trie dans l'espace ş1974 Solid geometry şTrad. CARTANO Fran‡oise
 : .oS.     N     _PRIEST Christopher          L't‚ de l'infini ş1976 An Infinite Summer şTrad. FLORENS Sonia
 : .oS.     N     _SHAW Bob                    Sombre Icare ş1974 Dark Icarus / A Little Night Flying şTrad. FLORENS Sonia
 : .oS.     N     _TRAVERS Andrew              Cit‚ - Orgasme ş1976 In Her Movie şTrad. CARTANO Tony
@@ -2911,7 +2908,7 @@ o PDF       242  1977.08 ..... ISBN -
 : .oS.     N     _DURAND Ren‚                 Petits moments exquis de r‚sistance dans les garrigues ş1977
 : .oS.     N     _RENARD Christine            Entre parenthŠses ş1977
 : .oS.     N     _BLANC Bernard               Les Foetus ne passeront pas ş1977
-: .oS.     N     _ANDREVON Jean-Pierre        Le Futur t'attends ! ş1977
+: .oS.     N     _ANDREVON Jean-Pierre        Le futur t'attend ! ş1977
 : .oS.     N     _PELOT Pierre                Un amour de vacances (avec le clair de lune, les violons, tout le bordel en somme) ş1977
 : .oS.     N     _CHEINISSE Claude F.         Terre, si douce Terre... ş1977
 o PDF       243  1977.09 ..... ISBN -
@@ -3154,8 +3151,8 @@ o PDF       268  1978.12 ..... ISBN -
 } pdf268         _St‚phane Dumont             ?
 >--- 3 piŠces en 1 acte, la seconde ‚tant tir‚e de la nouvelle homonyme, et la derniŠre de la nouvelle "La SirŠne".
 - .oS.    _T3    _BRADBURY Ray                La Colonne de feu ş1975 Pillar of Fire and Other Plays şTrad. LEGRIS Jacques
-: .o .     T     _BRADBURY Ray                La Colonne de feu ş1948 Pillar of Fire şTrad. LEGRIS Jacques
-: .o .     T     _BRADBURY Ray                Kal‚idoscope ş1949 Kaleidoscope şTrad. LEGRIS Jacques
+: .o .     T     _BRADBURY Ray                La Colonne de feu ş1975 Pillar of Fire şTrad. LEGRIS Jacques
+: .o .     T     _BRADBURY Ray                Kal‚idoscope ş1975 Kaleidoscope şTrad. LEGRIS Jacques
 : .o .     T     _BRADBURY Ray                La Corne de brume ş1975 The Fog Horn şTrad. LEGRIS Jacques
 o PDF       269  1979.01 ..... ISBN -
 } pdf269         _St‚phane Dumont             ?
@@ -3222,7 +3219,6 @@ o PDF       276  1979.xx ..... ISBN -
 - .oS.    _N5    _VARLEY John                 Dans le palais des rois martiens ((Persistance de la vision)) ş1978 The Persistence of Vision şTrad. DEUTSCH Michel
 : .o .     N     _VARLEY John                 Le Fant“me du Kansas ş1976 The Phantom of Kansas
 : .o .     N     _VARLEY John                 Raid a‚rien ş1977 Air Raid şTrad. DEUTSCH Michel
-!--- paru originellement sous le pseudonyme de Herb BOEM
 : .o .     N     _VARLEY John                 Un ‚t‚ retrograde ş1975 Retrograde Summer
 : .o .     N     _VARLEY John                 Le Passage du trou noir ş1975 The Black Hole Passes
 : .o .     N     _VARLEY John                 Dans le palais des rois martiens ş1977 In the Hall of the Martian Kings
@@ -3266,7 +3262,7 @@ o PDF       279  1979.05 ..... ISBN -
 : .o .     N     _MOORCOCK Michael            La Travers‚e du Cambodge ş1979 Crossing Into Cambodia
 o PDF       280  1979.06 ..... ISBN -
 } pdf280         _St‚phane Dumont             ?
-- .oS.     R     _CURVAL Philippe             La Forteresse de coton ş1979
+- .oS.     R     _CURVAL Philippe             La Forteresse de coton ş1967
 o PDF       281  1979.06 ..... ISBN -
 } pdf281         _St‚phane Dumont             ?
 + PDF       281  1991.04 ..... ISBN 2-207-50281-3
@@ -3574,7 +3570,7 @@ o PDF       319  1981.04 ..... ISBN -
 : .o .     N     _BALLARD James G.            Des vacances formidables ş1978 Having a Wonderful Time şTrad. Monique Lebailly
 : .o .     N     _BAYLEY Barrington J.        Le ProblŠme de l'‚mission de Morley ş1978 The Problem of Morley's Emission şTrad. Monique Lebailly
 : .o .     N     _BRUNNER John                Le Dernier Esseul‚ ş1964 The Last Lonely Man şTrad. Monique Lebailly
-: .o .     N     _COMPTON D.G.                Bender, Fenugreek, Slatterman Et Mupp ş1980 Bender, Fenugreek, Slatterman And Mupp şTrad. Monique Lebailly
+: .o .     N     _COMPTON D.G.                Bender, Fenugreek, Slatterman Et Mupp ş1980 Bender, Fenugreek, Slatterman and Mupp şTrad. Monique Lebailly
 : .o .     N     _CONEY Michael               En quˆte du professeur Greatrex ş1978 In Search of Profesor Greatrex şTrad. Monique Lebailly
 : .o .     N     _HOLDSTOCK Robert            La Vall‚e des statues ş1979 In the Valley of the Statues şTrad. Monique Lebailly
 : .o .     N     _KILWORTH Garry              Les LŠvres du dieu, froides comme marbre ş1979 The Marble of God's Cold Lips şTrad. Monique Lebailly
@@ -3599,10 +3595,10 @@ o PDF       321  1981.04 ..... ISBN -
 } pdf321         _St‚phane Dumont             ?
 + PDF       321  1990.xx ..... ISBN 2-207-30321-7
 } pdf321r90      _Sami ben Mehidi             ?
-- .oS.     R     _WOLFE Gene                  L'Ombre du bourreau [Le Livre du second soleil de Teur - 1] ş1980 The Shadow of the Torturer şTrad. DESMOND William Olivier
+- .oS.     R     _WOLFE Gene                  L'Ombre du bourreau [Le Livre du nouveau soleil - 1] ş1980 The Shadow of the Torturer şTrad. DESMOND William Olivier
 o PDF       322  1981.xx ..... ISBN -
 } pdf322         _St‚phane Dumont             ?
-- .o .    _N9    _HALDEMAN Joe                Rˆves infinis ş1978 Infinite Dreams şTrad. BLUNDEN Ronald
+- .oS.    _N9    _HALDEMAN Joe                Rˆves infinis ş1978 Infinite Dreams şTrad. BLUNDEN Ronald
 : .o .     N     _HALDEMAN Joe                Contrepoint ş1972 Counterpoint
 : .o .     N     _HALDEMAN Joe                La R‚volution Mazel-Tovienne ş1974 The Mazel Tov Revolution
 : .o .     N     _HALDEMAN Joe                Habeas Mens ş1974 A Mind of His Own
@@ -3711,8 +3707,7 @@ o PDF       334  1982.02 ..... ISBN 2-207-30334-9
 o PDF       335  1982.02 ..... ISBN 2-207-30335-7
 } pdf335         _St‚phane Dumont             ?
 - .oS.    _A11   *FREMION Yves                Territoires du tendre ş1982
-: .o .     N     _LE MAY Jean-Louis           Sur les thalles bruns des algues marines ş1982
-!--- TBC date : _1982_ ou _1980_ ?
+: .o .     N     _LE MAY Jean-Louis           Sur les thalles bruns des algues marines ş1980
 : .o .     N     _LEE Tanith                  La Trˆve ş1976 The Truce şTrad. LEBAILLY Monique
 : .o .     N     _ROBERTS Keith               La Synth‚tique ş1966 Synth şTrad. LEBAILLY Monique
 : .o .     N     _MALZBERG Barry N.           A c“t‚ de la plaque ş1973 Getting Around şTrad. LEBAILLY Monique
@@ -3779,7 +3774,7 @@ o PDF       342  1982.05 ..... ISBN 2-207-30342-X
 : .o .     N     _VARLEY John                 Beatnik bayou ş1980 Beatnik Bayou şTrad. BONNEFOY Jean
 : .o .     N     _VARLEY John                 Adieu, Robinson Cruso‚ ş1977 Goodbye Robinson Crusoe şTrad. BONNEFOY Jean
 : .o .     N     _VARLEY John                 Sucre d'orge et b‚b‚ noir ş1977 Lollipop and the Tar Baby şTrad. BONNEFOY Jean
-: .o .     N     _VARLEY John                 Pique-nique sur la face proche ş1979 Picnic on Nearside şTrad. BONNEFOY Jean
+: .o .     N     _VARLEY John                 Pique-nique sur la face proche ş1974 Picnic on Nearside şTrad. BONNEFOY Jean
 o PDF       343  1982.06 ..... ISBN 2-207-30343-8
 } pdf343         _St‚phane Dumont             ?
 - .oS.     R     _WALTHER Daniel              Happy end ş1982
@@ -3809,7 +3804,7 @@ o PDF       344  1982.08 ..... ISBN 2-207-30344-6
 &                _COUSIN Philippe             
 o PDF       345  1982.09 ..... ISBN 2-207-30345-4
 } pdf345         _Daniel Furon                ?
-- .oS.     R     _WOLFE Gene                  La Griffe du demi-dieu [Le Livre du second soleil de Teur - 2] ş1981 The Claw of the Conciliator şTrad. DESMOND William Olivier
+- .oS.     R     _WOLFE Gene                  La Griffe du demi-dieu [Le Livre du nouveau soleil - 2] ş1981 The Claw of the Conciliator şTrad. DESMOND William Olivier
 o PDF       346  1982.10 ..... ISBN 2-207-30346-2
 } pdf346         _Daniel Furon                ?
 - .oS.     R     _LIGNY Jean-Marc             Furia ! ş1982
@@ -3925,7 +3920,7 @@ o PDF       360  1983.04 ..... ISBN 2-207-30360-8
 - .oS.     R     _LO DUCA J.M.                La SphŠre de platine ş1945
 o PDF       361  1983.04 ..... ISBN 2-207-30361-6
 } pdf361         _Raymond Hermange            ?
-- .oS.     R     _WOLFE Gene                  L'p‚e du licteur [Le Livre du second soleil de Teur - 3] ş1982 The Sword of the Lictor şTrad. DESMOND William Olivier
+- .oS.     R     _WOLFE Gene                  L'p‚e du licteur [Le Livre du nouveau soleil - 3] ş1982 The Sword of the Lictor şTrad. DESMOND William Olivier
 o PDF       362  1983.05 ..... ISBN 2-207-30362-4
 } pdf362         _Philippe Cousin             ?
 - .oS.    _N7    _COUSIN Philippe             Mange ma mort ş1983
@@ -3980,7 +3975,7 @@ o PDF       367  1983.10 ..... ISBN 2-207-30367-5
 : .o .     N     _MONDOLONI Jacques           Papa 1er ş1982
 o PDF       368  1983.11 ..... ISBN 2-207-30368-3
 } pdf368         _Georges Raimondo            ?
-- .o .    _N7    _BAKER Scott                 Nouvelle recette pour canard au sang ş1983
+- .oF.    _N7    _BAKER Scott                 Nouvelle recette pour canard au sang ş1983
 !--- le recueil est paru en GB en 1985
 : .o .     N     _BAKER Scott                 Nouvelle recette pour canard au sang ş1983 The Lurking Duck şTrad. DESMOND William
 : .o .     N     _BAKER Scott                 Attente ş1983 Attente şTrad. DESMOND William
@@ -4036,7 +4031,7 @@ o PDF       374  1984.02 ..... ISBN 2-207-30374-8
 - .oS.     R     _TEVIS Walter                Le Soleil pas … pas ş1983 The Steps of the Sun şTrad. BONNEFOY Jean
 o PDF       375  1984.02 ..... ISBN 2-207-30375-6
 } pdf375         _Daniel Furon                ?
-- .oS.     R     _WOLFE Gene                  La Citadelle de l'Autarque [Le Livre du second soleil de Teur - 4] ş1982 The Citadel of the Autarch şTrad. DESMOND William Olivier
+- .oS.     R     _WOLFE Gene                  La Citadelle de l'Autarque [Le Livre du nouveau soleil - 4] ş1982 The Citadel of the Autarch şTrad. DESMOND William Olivier
 o PDF       376  1984.03 ..... ISBN 2-207-30376-4
 } pdf376         _Ali Merzoug                 ?
 - .oS.     R     _HUBERT Jean-Pierre          Les Faiseurs d'orages ş1984
@@ -4067,7 +4062,7 @@ o PDF       382  1984.06 ..... ISBN 2-207-30382-9
 } pdf382         _Patrick Demuth              ?
 - .oS.    _N10   _BALLARD James G.            Les Chasseurs de V‚nus ş1980 The Venus Hunters şTrad. DEMUTH Michel
 : .o .     N     _BALLARD James G.            Trois, deux, un... z‚ro ş1959 Now: Zero
-: .o .     N     _BALLARD James G.            Les Tombes du temps ş1963 The Time-tombs
+: .o .     N     _BALLARD James G.            Les Tombes du temps ş1963 The Time-Tombs
 : .o .     N     _BALLARD James G.            La Plage douze ş1958 Track 12
 : .o .     N     _BALLARD James G.            Passeport pour l'‚ternit‚ ş1962 Passport to Eternity
 : .o .     N     _BALLARD James G.            Perte de temps ş1956 Escapement
@@ -4147,10 +4142,10 @@ o PDF       391  1984.12 ..... ISBN 2-207-30391-8
 : .o .     N     _CURVAL Philippe             Si vous n'avez rien … me dire ş1984
 o PDF       392  1985.01 ..... ISBN 2-207-30392-6
 } pdf392         _Jean-Jos‚ Peltriaux         ?
-- .oS.     R     _BENFORD Gregory             Dans l'oc‚an de la nuit - 1 [Centre galactique - 1] ş1978 In the Ocean of Night şTrad. DESMOND William Olivier
+- .oS.     R     _BENFORD Gregory             Dans l'oc‚an de la nuit - 1 [Centre galactique - 1] ş1977 In the Ocean of Night şTrad. DESMOND William Olivier
 o PDF       393  1985.01 ..... ISBN 2-207-30393-4
 } pdf393         _Jean-Jos‚ Peltriaux         ?
-- .oS.     R     _BENFORD Gregory             Dans l'oc‚an de la nuit - 2 [Centre galactique - 1] ş1978 In the Ocean of Night şTrad. DESMOND William Olivier
+- .oS.     R     _BENFORD Gregory             Dans l'oc‚an de la nuit - 2 [Centre galactique - 1] ş1977 In the Ocean of Night şTrad. DESMOND William Olivier
 o PDF       394  1985.02 ..... ISBN 2-207-30394-2
 } pdf394         _S‚bastien Lebeaut           ?
 - .oS.     R     _MOURIER Maurice             Parcs de m‚moire ş1985
@@ -4342,7 +4337,8 @@ o PDF       421  1986.05 ..... ISBN 2-207-30421-3
 - .oS.    kA8    *DUVIC Patrice               Demain les puces - Science-fiction et micro-informatique ş1986
 : .o .   9 N     _LEINSTER Murray             Un logique nomm‚ Joe ş1946 A Logic Named Joe
 : .o .  31 a     _DUVIC Patrice               Interface 1 ş1986
-: .o .  39 N     _MADDOX Tom                  Ga‹a de silicium ş? Gaia in Silicon
+!--- PremiŠre publication en fran‡ais :
+: .o .  39 N     _MADDOX Tom                  Ga‹a de silicium ş1986 Gaia in Silicon
 : .o .  61 N     _DELANEY Joseph H.          &Valentina ş1984 Valentina
 &                _STIEGLER Marc               
 : .o . 153 N     _CURVAL Philippe             Nous avions tous d‚cid‚ d'ˆtre heureux ş1986
@@ -4356,12 +4352,13 @@ o PDF       421  1997.10 ..... ISBN 2-207-50421-2
 !--- Existe aussi en r‚‚dition en coffret "Les cybernautes"
 - .oS.    kA7    *DUVIC Patrice               Demain les puces - Science-fiction et informatique (version 1.2) ş1996
 : .o .   9 N     _LEINSTER Murray             Un logique nomm‚ Joe ş1946 A Logic Named Joe
-: .o .  31 a     _DUVIC Patrice               Interface 1 ş?
-: .o .  39 N     _MADDOX Tom                  Ga‹a de silicium ş? Gaia in Silicon
+: .o .  31 a     _DUVIC Patrice               Interface 1 ş1986
+!--- PremiŠre publication en fran‡ais :
+: .o .  39 N     _MADDOX Tom                  Ga‹a de silicium ş1986 Gaia in Silicon
 : .o .  61 N     _DELANEY Joseph H.          &Valentina ş1984 Valentina
 &                _STIEGLER Marc               
 : .o . 155 N     _CURVAL Philippe             Nous avions tous d‚cid‚ d'ˆtre heureux ş1986
-: .o . 185 a     _KLEIN G‚rard                Interface 2 ş?
+: .o . 185 a     _KLEIN G‚rard                Interface 2 ş1986
 : .o . 195 N     _SLADEK John T.              Des r‚ponses ş1984 Answers
 : .o . 221 N     _VALERY Francis              Bumpie<SUP>TM</SUP> ş1988
 !--- l‚g‚rement retouch‚
@@ -4493,7 +4490,7 @@ o PDF       435  1987.02 ..... ISBN 2-207-30435-3
 } pdf435         _Laurence Terrel             ?
 - .oS.    _N5    _SHEPARD Lucius              Le Chasseur de jaguar ş1987 The Jaguar Hunter şTrad. DESMOND William
 : .o .     N     _SHEPARD Lucius              Le Chasseur de jaguar ş1985 The Jaguar Hunter şTrad. DESMOND William
-: .o .     N     _SHEPARD Lucius              L'Homme qui peignit le dragon Griaule ş1984 The Man who Painted the Dragon Griaule şTrad. DESMOND William
+: .o .     N     _SHEPARD Lucius              L'Homme qui peignit le dragon Griaule [Griaule] ş1984 The Man who Painted the Dragon Griaule şTrad. DESMOND William
 : .o .     N     _SHEPARD Lucius              Salvador ş1984 Salvador şTrad. DESMOND William
 : .o .     N     _SHEPARD Lucius              Comment chuchote et crie le vent … Makadet ş1985 How the Wind Spoke at Makadet şTrad. DESMOND William
 : .o .     N     _SHEPARD Lucius              Corail noir ş1984 Black Coral şTrad. DESMOND William
@@ -4549,7 +4546,7 @@ o PDF       444  1987.xx ..... ISBN 2-207-30444-2
 + PDF       444  1997.03 ..... ISBN 2-207-24581-0
 } pdf444r97      _Elrik + Odile B.            ?
 !--- premiŠre version de SIVA
-- .SS.     R     _DICK Philip K.              Radio libre Albemuth [La Trilogie divine] ş[1972],1985 Radio Free Albemuth şTrad. JOUANNE Emmanuel
+- .oS.     R     _DICK Philip K.              Radio libre Albemuth [La Trilogie divine] ş[1972],1985 Radio Free Albemuth şTrad. JOUANNE Emmanuel
 o PDF       445  1987.09 ..... ISBN 2-207-30445-0
 } pdf445         _Elrik                       ?
 - .oS.     R     _POHL Frederik               L'AvŠnement des chats quantiques ş1986 The Coming of the Quantum Cats şTrad. BONNEFOY Jean
@@ -4761,7 +4758,7 @@ o PDF       471  1988.05 ..... ISBN 2-207-30471-X
 !--- TBC : … pr‚server ?
 : .o .     N     _DICK Philip K.              Les Braconniers du cosmos ş1953 The Cosmic Poachers şTrad. DURASTANTI P.-P.
 : .o .     N     _DICK Philip K.              Dans le jardin ş1953 Out in the Garden şTrad. DURASTANTI P.-P.
-: .o .     N     _DICK Philip K.              Le Grand O ş1953 The Great C. şTrad. DURASTANTI P.-P.
+: .o .     N     _DICK Philip K.              Le Grand O ş1953 The Great C şTrad. DURASTANTI P.-P.
 : .o .     N     _DICK Philip K.              Le ProblŠme des bulles ş1953 The Trouble With Bubbles
 o PDF       472  1988.06 ..... ISBN 2-207-30472-8
 } pdf472         _Philippe Gauckler           ?
@@ -4771,8 +4768,8 @@ o PDF       473  1988.06 ..... ISBN 2-207-30473-6
 - .oS.     R     _LIGNY Jean-Marc             D.A.R.K. ş1988
 o PDF       474  1988.09 ..... ISBN 2-207-30474-4
 } pdf474         _Roland Topor                ?
-- .oS.    iN188  _STERNBERG Jacques           188 contes … r‚gler ş1988
 !--- 188 short-stories
+- .oS.    iNx    _STERNBERG Jacques           188 contes … r‚gler ş1988
 o PDF       475  1988.10 ..... ISBN 2-207-30475-2
 } pdf475         _Dominique Le Nouaille       ?
 - .oS.     R     _MANN Phillip                La Chute des familles [Pawl Paxwax, le jardinier - 2] ş1987 The Fall of the Families şTrad. LEDERER Michel
@@ -4803,7 +4800,7 @@ o PDF       481  1988.11 ..... ISBN 2-207-30481-7
 - .oS.    _N8    _DICK Philip K.             &DerriŠre la porte [L'Int‚grale des nouvelles de P.K. Dick - 3] ş1988
 &                *DURASTANTI Pierre-Paul     &
 &                *JOUANNE Emmanuel            
-!--- şTrad. DOREMIEUX Alain & Pierre K. Rey
+!--- Trad. DOREMIEUX Alain & Pierre K. Rey
 : .o .     a     _DICK Philip K.              L'volution d'un amour vital ş1975 The Evolution of a Vital Love
 : .o .     N     _DICK Philip K.              Tant qu'il y a de la vie... ş1953 Some Kinds of Life
 : .o .     N     _DICK Philip K.              Le Pendu dans le square ş1953 The Hanging Stranger
@@ -4859,10 +4856,10 @@ o PDF       487  1989.04 ..... ISBN 2-207-30487-6
 : .o .     N     _FAYARD Colette              Les Chasseurs au bord de la nuit ş1989
 o PDF       488  1989.04 ..... ISBN 2-207-30488-4
 } pdf488         _Luigi Castiglioni           ?
-- .oS.     R     _WOLFE Gene                  Le Nouveau Soleil de Teur - 1 [Le Livre du second soleil de Teur - 5] ş1987 The Urth of the New Sun şTrad. DESMOND William Olivier
+- .oS.     R     _WOLFE Gene                  Le Nouveau Soleil de Teur - 1 [Le Livre du nouveau soleil - 5] ş1987 The Urth of the New Sun şTrad. DESMOND William Olivier
 o PDF       489  1989.04 ..... ISBN 2-207-30489-2
 } pdf489         _Luigi Castiglioni           ?
-- .oS.     R     _WOLFE Gene                  Le Nouveau Soleil de Teur - 2 [Le Livre du second soleil de Teur - 5] ş1987 The Urth of the New Sun şTrad. DESMOND William Olivier
+- .oS.     R     _WOLFE Gene                  Le Nouveau Soleil de Teur - 2 [Le Livre du nouveau soleil - 5] ş1987 The Urth of the New Sun şTrad. DESMOND William Olivier
 o PDF       490  1989.05 ..... ISBN 2-207-30490-6
 } pdf490         _Sato Yamamoto               ?
 + PDF       490  1999.xx ..... ISBN 2-207-24933-6
@@ -4873,7 +4870,7 @@ o PDF       490  1989.05 ..... ISBN 2-207-30490-6
 !--- id "En attendant le tremblement de terre"
 : .o .     N     _SILVERBERG Robert           Gianni ş1982 Gianni şTrad. CHAMBON Jacques
 : .o .     N     _SILVERBERG Robert           La Substitution ş1982 The Changeling şTrad. CHAMBON Jacques
-: .o .     N     _SILVERBERG Robert           Le R‚missionnaire ş1987 The Pardonner's Tale şTrad. CHAMBON Jacques
+: .o .     N     _SILVERBERG Robert           Le R‚missionnaire ş1987 The Pardoner's Tale şTrad. CHAMBON Jacques
 : .o .     N     _SILVERBERG Robert           L'Amant de Jennifer ş1982 Jennifer's Lover şTrad. CHAMBON Jacques
 : .o .     N     _SILVERBERG Robert           Notre-Dame des Sauropodes ş1980 Our Lady of the Sauropods şTrad. CHAMBON Jacques
 : .o .     N     _SILVERBERG Robert           La Compagne secrŠte ş1987 The Secret Sharer şTrad. CHAMBON Jacques
@@ -4884,7 +4881,7 @@ o PDF       492  1989.05 ..... ISBN 2-207-30492-2
 } pdf492         _Elrik                       ?
 - .oS.    _N8    _DICK Philip K.             &Un auteur ‚minent [L'Int‚grale des nouvelles de P.K. Dick - 4] ş1989
 &                *JOUANNE Emmanuel            
-!--- şTrad. DOREMIEUX Alain & DURASTANTI Pierre-Paul
+!--- Trad. DOREMIEUX Alain & DURASTANTI Pierre-Paul
 : .o .     a     _DICK Philip K.              Drogues, hallucinations et quˆte de la r‚alit‚ ş1964 Drugs, Hallucination and the Quest for Reality
 : .o .     N     _DICK Philip K.              Un cadeau pour Pat ş1954 A Present for Pat şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _DICK Philip K.              James P. Crow ş1954 James P. Crow
@@ -4914,7 +4911,7 @@ o PDF       495  1989.06 ..... ISBN 2-207-30495-7
 } pdf495         _Elrik                       ?
 - .oS.    _N7    _DICK Philip K.             &Souvenir [L'Int‚grale des nouvelles de P.K. Dick - 5] ş1989
 &                *JOUANNE Emmanuel            
-!--- şTrad. JOUANNE Emmanuel & COLLON H‚lŠne
+!--- Trad. JOUANNE Emmanuel & COLLON H‚lŠne
 : .o .     a     _DICK Philip K.              Le Nazisme et le Haut-Chƒteau ş1964 Naziism and the High Castle şTrad. ?
 : .o .     a     _DICK Philip K.              La Schizophr‚nie et le Livre des Changements ş1965 Schizophrenia & the Book of Changes şTrad. ?
 : .o .     N     _DICK Philip K.              Rajustement ş1954 Adjustement Team
@@ -4938,7 +4935,7 @@ o PDF       497  1989.09 ..... ISBN 2-207-30497-3
 : .o .     N     _DICK Philip K.              Immunit‚ ş1955 The Hood Maker şTrad. COLLON H‚lŠne
 : .o .     N     _DICK Philip K.              Chrome et chƒtiment ş1955 The Chromium Fence şTrad. COLLON H‚lŠne
 : .o .     N     _DICK Philip K.              Voyage de surface ş1955 A Surface Raid şTrad. COLLON H‚lŠne
-: .o .     N     _DICK Philip K.              Le Psi et l'enfant ş1955 Psi-man Heal My Child! şTrad. COLLON H‚lŠne
+: .o .     N     _DICK Philip K.              Le Psi et l'enfant ş1955 Psi-Man / Psi-Man Heal My Child! şTrad. COLLON H‚lŠne
 : .o .     N     _DICK Philip K.              Au service du maŒtre ş1956 To Serve the Master şTrad. COLLON H‚lŠne
 o PDF       497  1999.11 ..... ISBN 2-207-24998-0
 } pdf497r99      _Olivier Ledroit             ?
@@ -4952,7 +4949,7 @@ o PDF       497  1999.11 ..... ISBN 2-207-24998-0
 : .o .     N     _DICK Philip K.              Chasse au capuchon ş1955 The Hood Maker şTrad. COLLON H‚lŠne
 : .o .     N     _DICK Philip K.              L… o— il y a de l'hygiŠne ş1955 The Chromium Fence şTrad. COLLON H‚lŠne
 : .o .     N     _DICK Philip K.              Exp‚dition en surface ş1955 A Surface Raid şTrad. COLLON H‚lŠne
-: .o .     N     _DICK Philip K.              Consultation externe ş1955 Psi-man Heal My Child! şTrad. COLLON H‚lŠne
+: .o .     N     _DICK Philip K.              Consultation externe ş1955 Psi-Man / Psi-Man Heal My Child! şTrad. COLLON H‚lŠne
 : .o .     N     _DICK Philip K.              Au service du maŒtre ş1956 To Serve the Master şTrad. COLLON H‚lŠne
 o PDF       498  1989.10 ..... ISBN 2-207-30498-1
 } pdf498         _Philippe Sadziak            ?
@@ -4967,7 +4964,7 @@ o PDF       499  1989.10 ..... ISBN 2-207-30499-X
 : .o .     N     _ALDANI Lino                 Quo vadis, Francisco ? ş1986 Quo vadis, Francisco ?
 : .o .     N     _ALDANI Lino                 Babel ş1981 Babele
 : .o .     N     _ALDANI Lino                 La Maison-Femme ş1988 La Casa-femmina
-: .o .     N     _ALDANI Lino                 Un harem dans une valise ş1963 Harem nella valiglia
+: .o .     N     _ALDANI Lino                 Un harem dans une valise ş1963 Harem nella valigia
 : .o .     N     _ALDANI Lino                 Mochuelo ş1987 Mochuelo
 : .o .     N     _ALDANI Lino                 Une vir‚e … la plage ş1967 Domenica romana / Gita al mare
 : .o .     N     _ALDANI Lino                &Gestes lointains ş1978 Gesti lontani
@@ -5025,8 +5022,8 @@ o PDF       504  1990.02 ..... ISBN 2-207-30504-X
 : .o .     N     _VERNAY Jean-Pierre          Histoire pour ceux qui ne croient pas qu'il y eut une grande r‚publique d'Ukraine ş1990
 : .o .     N     _VERNAY Jean-Pierre          Les Guerres ‚tranges ş1990
 : .o .     N     _VERNAY Jean-Pierre          Lied pour une Lorelei ş1985
-: .o .     N     _VERNAY Jean-Pierre          Beyrouth-sur-IsŠre ş?
-: .o .     N     _VERNAY Jean-Pierre          En bas ş?
+: .o .     N     _VERNAY Jean-Pierre          Beyrouth-sur-IsŠre ş1990
+: .o .     N     _VERNAY Jean-Pierre          En bas ş1990
 : .o .     N     _VERNAY Jean-Pierre          Dialectique du plan et de la guerre ş1990
 : .o .     N     _VERNAY Jean-Pierre          Roule. Roule. ş1990
 : .o .     N     _VERNAY Jean-Pierre          Femmes, agitez vos mouchoirs, le navire s'en va ş1990
@@ -5036,10 +5033,10 @@ o PDF       504  1990.02 ..... ISBN 2-207-30504-X
 : .o .     N     _VERNAY Jean-Pierre          Lamantins ş1990
 : .o .     N     _VERNAY Jean-Pierre          Amours et voyages pour une enfant pubŠre ş1990
 : .o .     N     _VERNAY Jean-Pierre          Enfants lointains ş1990
-: .o .     N     _VERNAY Jean-Pierre          Pavane pour un assassin ş?
+: .o .     N     _VERNAY Jean-Pierre          Pavane pour un assassin ş1990
 : .o .     N     _VERNAY Jean-Pierre          Holocauste pour un homme seul ş1982
 : .o .     N     _VERNAY Jean-Pierre          Albatros ş1990
-: .o .     N     _VERNAY Jean-Pierre          La Petite Fille et le jardinier ş?
+: .o .     N     _VERNAY Jean-Pierre          La Petite Fille et le jardinier ş1990
 : .o .     N     _VERNAY Jean-Pierre          C‚r‚monie … l'ancienne ş1990
 : .o .     N     _VERNAY Jean-Pierre          Oscar Wilde est mort. Assassin‚. ş1990
 o PDF       505  1990.02 ..... ISBN 2-207-30505-8
@@ -5078,7 +5075,7 @@ o PDF       510  1990.xx ..... ISBN 2-207-30510-4
 : .o .     N     _DICK Philip K.              Une belle prise ş1959 Fair Game
 : .o .     N     _DICK Philip K.              Qu'allons nous faire de Ragland Park ? ş1963 What'll We Do With Ragland Park?
 : .o .     N     _DICK Philip K.              Un num‚ro in‚dit ş1964 Novelty Act
-: .o .     N     _DICK Philip K.              L'Histoire pour mettre fin … toutes les histoires pour l'anthologie d'Harlan Ellison Dangereuses visions ş1968 The Story to End All Stories Fot Harlan Ellison's Anthology Dangereuses Visions
+: .o .     N     _DICK Philip K.              L'Histoire pour mettre fin … toutes les histoires pour l'anthologie d'Harlan Ellison Dangereuses visions ş1968 The Story to End All Stories for Harlan Ellison's Anthology Dangerous Visions
 : .o .     N     _DICK Philip K.              Le Cas Rautavaara ş1980 Rautavaara's Case
 : .o .     N     _DICK Philip K.              Le Voyage gel‚ ş1980 Frozen Journey
 : .o .     N     _DICK Philip K.              L'Esprit ‚tranger ş1981 The Alien Mind
@@ -5093,7 +5090,7 @@ o PDF       510  1999.06 ..... ISBN 2-207-50510-3
 : .o .     N     _DICK Philip K.              Une proie rˆv‚e ş1959 Fair Game şTrad. JOUANNE Emmanuel
 : .o .     N     _DICK Philip K.              Que faire de Ragland Park ? ş1963 What'll We Do With Ragland Park? şTrad. JOUANNE Emmanuel
 : .o .     N     _DICK Philip K.              Un num‚ro in‚dit ş1964 Novelty Act şTrad. JOUANNE Emmanuel & COLLON H‚lŠne
-: .o .     N     _DICK Philip K.              L'Histoire qui met fin … toutes les histoires pour l'anthologie d'Harlan Ellison Dangereuses visions ş1968 The Story to End All Stories Fot Harlan Ellison's Anthology Dangereuses Visions şTrad. JOUANNE Emmanuel & COLLON H‚lŠne
+: .o .     N     _DICK Philip K.              L'Histoire qui met fin … toutes les histoires pour l'anthologie d'Harlan Ellison Dangereuses visions ş1968 The Story to End All Stories for Harlan Ellison's Anthology Dangerous Visions şTrad. JOUANNE Emmanuel & COLLON H‚lŠne
 : .o .     N     _DICK Philip K.              Le Cas Rautavaara ş1980 Rautavaara's Case şTrad. JOUANNE Emmanuel & COLLON H‚lŠne
 : .o .     N     _DICK Philip K.              Le Voyage gel‚ ş1980 Frozen Journey şTrad. JOUANNE Emmanuel & COLLON H‚lŠne
 : .o .     N     _DICK Philip K.              L'Autremental ş1981 The Alien Mind şTrad. JOUANNE Emmanuel & COLLON H‚lŠne
@@ -5108,7 +5105,7 @@ o PDF       512  1990.09 ..... ISBN 2-207-30512-0
 o PDF       513  1990.09 ..... ISBN 2-207-30513-9
 } pdf513         _Otso                        ?
 - .oS.    _N10   _WALDROP Howard              Ces chers vieux monstres ş1990
-!--- şTrad. REY Pierre K. Rey & CHAMBON Jacques
+!--- Trad. REY Pierre K. Rey & CHAMBON Jacques
 : .o .     N     _WALDROP Howard              L'horreur nous avons ‡a ş1979 Horror, We Got
 : .o .     N     _WALDROP Howard              Le Gorille secret du Dr Hudson ş1977 Dr. Hudson's Secret Gorilla
 : .o .     N     _WALDROP Howard              Gentian, l'homme-montagne ş1983 Man-Mountain Gentian
@@ -5124,20 +5121,24 @@ o PDF       514  1990.11 ..... ISBN 2-207-30514-7
 - .oS.     R     _BARBERI Jacques             Guerre de rien ş1990
 o PDF       515  1990.11 ..... ISBN 2-207-30515-5
 } pdf515         _Pascal Moret                ?
+>--- Ce recueil pr‚sente 16 des 34 nouvelles du recueil original.
+>--. Les autres nouvelles sont pr‚sent‚es dans le recueil "Toutes les couleurs de l'enfer", en collection Pr‚sence du fantastique.
 - .oS.    _N16   _WOLFE Gene                  Silhouettes ş1989 Endangered Species şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _WOLFE Gene                  L'Ultime Histoire … faire fr‚mir ş1982 The Last Thrilling Wonder Story şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _WOLFE Gene                  Guerre sous l'arbre ş1979 War Beneath the Tree şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _WOLFE Gene                  La Maison des ancˆtres ş1968 House of Ancestors şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _WOLFE Gene                  La Carte ş1984 The Map şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _WOLFE Gene                  La Carte [Le Livre du nouveau soleil] ş1984 The Map şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _WOLFE Gene                  Quand j'‚tais Ming l'implacable ş1976 When I Was Ming the Merciless şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _WOLFE Gene                  IbŠme ş1970 Eyebem şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _WOLFE Gene                  Le Chat ş1983 The Cat şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _WOLFE Gene                  Le Chat [Le Livre du nouveau soleil] ş1983 The Cat şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _WOLFE Gene                  Les ZOROS de la guerre ş1970 The HORARS of War şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _WOLFE Gene                  Le Dieu et son homme ş1980 The God and His Man şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _WOLFE Gene                  La Femme qui aimait Pholus le centaure ş1979 The Woman who Loved the Centaur Pholus şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _WOLFE Gene                  La Femme qu'aimait la licorne ş1981 The Woman the Unicorn Loved şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _WOLFE Gene                  Les Fauteurs de paix ş1987 The Peace Spy şTrad. DURASTANTI Pierre-Paul
-: .o .     N     _WOLFE Gene                  Procr‚ation ş1985 Procreation şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _WOLFE Gene                  Creation [Procr‚ation] ş1985 Creation şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _WOLFE Gene                  R‚cr‚ation [Procr‚ation] ş1985 Re-creation şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _WOLFE Gene                  Le T‚moignage de la soeur [Procr‚ation] ş1985 The Sister's Account şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _WOLFE Gene                  L'Autre Mort ş1987 The Other Dead Man şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _WOLFE Gene                  Douce fille des forˆts ş1971 Sweet Forest Maid şTrad. DURASTANTI Pierre-Paul
 : .o .     N     _WOLFE Gene                  Silhouette ş1975 Silhouette şTrad. DURASTANTI Pierre-Paul
@@ -5170,7 +5171,7 @@ o PDF       521  1991.06 ..... ISBN 2-207-30521-X
 } pdf521         _Elrik                       ?
 - .oS.    _N8    _DICK Philip K.             &L'Oeil de la sibylle [L'Int‚grale des nouvelles de P.K. Dick - 8] ş1991
 &                *JOUANNE Emmanuel            
-!--- şTrad. JOUANNE Emmanuel + COLLON H‚lŠne
+!--- Trad. JOUANNE Emmanuel + COLLON H‚lŠne
 : .o .     a     _DICK Philip K.              La Bombe atomique sera-t-elle jamais mise au point et, si oui, qu'adviendra-t-il de Robert Heinlein ? ş1966 Will the Atomic Bomb Ever Be Perfected, And, if So, What Becomes of Robert Heinlein? şTrad. JOUANNE Emmanuel
 : .o .     a     _DICK Philip K.              Notes r‚dig‚es tard le soir par un ‚crivain de science-fiction fatigu‚ ş1972 Notes Made Late at Night by a Weary SF Writer şTrad. JOUANNE Emmanuel
 : .o .     N     _DICK Philip K.              Stabilit‚ ş[1947],1987 Stability şTrad. JOUANNE Emmanuel
@@ -5196,7 +5197,7 @@ o PDF       524  1991.11 ..... ISBN 2-207-30524-4
 >--- Huit nouvelles sur les douze du volume original, la dernier groupe de texte, "Fantasy", n'‚tant pas repris.
 - .oS.    _N8    _STERLING Bruce              Cristal express ş1989 Crystal Express şTrad. BONNEFOY Jean
 : .C .     C     _STERLING Bruce              Fenˆtres sur un futur proche ş1989 Science fiction
-: .o .     N     _STERLING Bruce              Mise au vert … Brunei ş1985 Green Days in Brunei şTrad. BONNEFOY Jean
+: .o .     r     _STERLING Bruce              Mise au vert … Brunei ş1985 Green Days in Brunei şTrad. BONNEFOY Jean
 : .o .     N     _STERLING Bruce              Spectre ş1983 Spook şTrad. BONNEFOY Jean
 : .o .     N     _STERLING Bruce              Le Beau et le sublime ş1986 The Beautiful and the Sublime şTrad. BONNEFOY Jean
 : .C .     C     _STERLING Bruce              Fenˆtres sur un futur lointain ş1989 Shaper/Mechanist
@@ -5204,7 +5205,7 @@ o PDF       524  1991.11 ..... ISBN 2-207-30524-4
 : .o .     N     _STERLING Bruce              Rose l'Aragne ş1982 Spider Rose şTrad. BONNEFOY Jean
 : .o .     N     _STERLING Bruce              La Reine des cigales ş1983 Cicada Queen şTrad. BONNEFOY Jean
 : .o .     N     _STERLING Bruce              Jardins engloutis ş1984 Sunken Gardens şTrad. BONNEFOY Jean
-: .o .     N     _STERLING Bruce              Vingt ‚vocations ş1984 Shaper Era : 20 Evocations şTrad. BONNEFOY Jean
+: .o .     N     _STERLING Bruce              Vingt ‚vocations ş1984 Life in the Mechanist/Shaper Era: 20 Evocation şTrad. BONNEFOY Jean
 o PDF       525  1991.10 ..... ISBN 2-207-30525-2
 } pdf525         _Philippe Gauckler           ?
 - .oS.    _RN2   _WESTLAKE Donald E.          Anarchaos ş1991
@@ -5333,7 +5334,7 @@ o PDF       552  1994.10 ..... ISBN 2-207-30548-1
 - .oS.     R     _ADAMS Douglas               Globalement inoffensive [Guide du routard galactique - 5] ş1992 Mostly Harmless şTrad. BONNEFOY Jean
 o PDF       553  1994.10 ..... ISBN 2-207-30536-8
 } pdf553         _Elrik                       ?
-- .oS.     r     _SPINRAD Norman              Deus ex ş1992 Deus X şTrad. DELORD-PHILIPPE Isabelle
+- .oS.     r     _SPINRAD Norman              Deus ex ş1993 Deus X şTrad. DELORD-PHILIPPE Isabelle
 o PDF       554  1994.11 ..... ISBN 2-207-30559-7
 } pdf554         _Philippe Gauckler           ?
 - .oS.     R     _JABLOKOV Alexander          Sculpteurs de ciel - 1 ş1991 Carve the Sky şTrad. SIGAUD Bernard
@@ -5405,7 +5406,7 @@ o PDF       573  1996.09 ..... ISBN 2-207-30579-1
 : .o .     N     _SILVERBERG Robert           Longue nuit de veille au temple ş1992 A Long Night's Vigil at the Temple şTrad. COLLON H‚lŠne
 : .o .     N     _SILVERBERG Robert           Passagers ş1968 Passengers şTrad. COLLON H‚lŠne
 : .o .     N     _SILVERBERG Robert           La Route de Spectre City ş1992 The Way to Spook City şTrad. COLLON H‚lŠne
-: .o .     N     _SILVERBERG Robert           Carnets d'Henry James - R‚cit de l'invasion martienne ş1996 The Martian Invasion. Journals of Henry James, War of the Worlds şTrad. COLLON H‚lŠne
+: .o .     N     _SILVERBERG Robert           Carnets d'Henry James - R‚cit de l'invasion martienne ş1996 The Martian Invasion Journals of Henry James şTrad. COLLON H‚lŠne
 o PDF       574  1997.01 ..... ISBN 2-207-30573-2
 } pdf574         _Marc Mosnier                ?
 - .oS.     R     _STERLING Bruce              Gros temps ş1994 Heavy Weather şTrad. BONNEFOY Jean
@@ -5467,13 +5468,13 @@ o PDF       591  1998.05 ..... ISBN 2-207-30597-X
 o PDF       592  1998.04 ..... ISBN 2-207-24617-5
 } pdf592         _Marc Mosnier                ?
 - .oF.     R     _ETCHISON Dennis             California Gothic ş1995 California Gothic şTrad. BERTON Gilles
-o PDFY      593  1998.06 ..... ISBN 2-207-24752-1
+o PDF       593  1998.06 ..... ISBN 2-207-24752-1
 } pdf593         _Florence Magnin             ?
 - .oS.     R     _DOOM Kitty                  La Forteresse blanche - La Peau du diable [Le Dormeur ‚ternel - 3] ş1998
-o PDFY      594  1998.09 ..... ISBN 2-207-24776-7
+o PDF       594  1998.09 ..... ISBN 2-207-24776-7
 } pdf594         _Bruno David                 ?
 - .oS.     R     _MORLOK D.                   Le Clan du grand crƒne [La Saga de Shag l'idiot - 1] ş1998
-o PDFY      595  1998.10 ..... ISBN 2-207-24789-9
+o PDF       595  1998.10 ..... ISBN 2-207-24789-9
 } pdf595         _Bruno David                 ?
 - .oS.     R     _MORLOK D.                   Les Guerriers du grand crƒne [La Saga de Shag l'idiot - 2] ş1998
 o PDF       596  1998.10 ..... ISBN 2-207-24616-7
@@ -5485,13 +5486,13 @@ o PDF       597  1998.10 ..... ISBN 2-207-24795-3
 o PDF       596  2000.01 ..... ISBN 2-207-25054-7
 } pdf596_597rr00 _?                           ?
 - .oS.     R     _MILLER Walter M.            L'H‚ritage de Saint Leibowitz ş1997 Saint Leibowitz and the Wild Horse Woman şTrad. BREQUE Jean-Daniel
-o PDFT      598  1998.11 ..... ISBN 2-207-24792-9
+o PDF       598  1998.11 ..... ISBN 2-207-24792-9
 } pdf598         _Philippe Jozelon            ?
 - .oF.     R     _BERNARD Nathalie            N‚ d'entre les mort ş1998
-o PDFY      599  1998.11 ..... ISBN 2-207-24791-0
+o PDF       599  1998.11 ..... ISBN 2-207-24791-0
 } pdf599         _Bruno David                 ?
 - .oS.     R     _MORLOK D.                   Les Dieux du grand crƒne [La Saga de Shag l'idiot - 3] ş1998
-o PDFS      600  1999.03 ..... ISBN 2-207-24849-6
+o PDF       600  1999.03 ..... ISBN 2-207-24849-6
 } pdf600         _Caza                        ?
 - .oS.    _A15   *CURVAL Philippe             Mus‚es, des mondes ‚nigmatiques ş1999
 : .o .     N     _STANIA Alexandre            Max : visite du d‚partement des croyances arbitraires - Religions ş1999
@@ -5509,13 +5510,13 @@ o PDFS      600  1999.03 ..... ISBN 2-207-24849-6
 : .o .     N     _CIRIEZ Fr‚d‚ric             La Canne … ‚bullition de turquoises : visite du d‚partement des f‚tiches d'‚crivains ş1999
 : .o .     N     _ROUX BenoŒt                 [VITA PER MARIA] : visite du d‚partement des matrices ş1999
 : .o .     N     _CHAUMIN David               Fin de siŠcle : visite du d‚partement de cryog‚nie ş1999
-o PDFS      601  1999.01 ..... ISBN 2-207-24771-6
+o PDF       601  1999.01 ..... ISBN 2-207-24771-6
 } pdf601         _Philippe Gauckler           ?
 - .oS.     R     _GENEFORT Laurent            Les Chasseurs de sŠve ş1994
-o PDFY      602  1999.01 ..... ISBN 2-207-30598-8
+o PDF       602  1999.01 ..... ISBN 2-207-30598-8
 } pdf602         _Mandy                       ?
 - .oS.     R     _PELOT Pierre                Le PŠre de feu [Les Hommes sans futur - 4] ş1984
-o PDFF      603  1999.02 ..... ISBN 2-207-24832-1
+o PDF       603  1999.02 ..... ISBN 2-207-24832-1
 } pdf603         _Jeam Tag                    ?
 - .oS.    _N3    _STOLZE Pierre               La Maison Usher ne chutera pas ş1999
 : .o .     N     _STOLZE Pierre               Elucidation du Gouzipanpan ş1999
@@ -5531,7 +5532,7 @@ o PDF       604  1999.02 ..... ISBN 2-207-24800-3
 : .o .     N     _ANDREVON Jean-Pierre        Apparition des monstres ş1978
 : .o .     N     _ANDREVON Jean-Pierre        Belle et sombre ş1982
 : .o .     N     _ANDREVON Jean-Pierre        Les Crocs de l'enfance ş1984
-o PDFY      605  1999.02 ..... ISBN 2-207-30599-6
+o PDF       605  1999.02 ..... ISBN 2-207-30599-6
 } pdf605         _Mandy                       ?
 - .oS.     R     _PELOT Pierre                Le chien courait sur l'autoroute en criant son nom [Les Hommes sans futur - 5] ş1984
 o PDF       606  1999.03 ..... ISBN 2-207-30600-3
@@ -5543,7 +5544,7 @@ o PDF       607  1999.03 ..... ISBN 2-207-24850-X
 o PDF       608  1999.03 ..... ISBN 2-207-24851-8
 } pdf608         _Guillaume Sorel             ?
 - .oF.     R     _SIMMONS Dan                 L'chiquier du mal - Tome 2 ş1989 Carrion Comfort şTrad. BREQUE Jean-Daniel
-o PDFF      609  1999.03 R.... ISBN 2-207-24852-6
+o PDF       609  1999.03 R.... ISBN 2-207-24852-6
 } pdf609         _Guillaume Sorel             ?
 - .oF.    _N12   _BRITE Poppy Z.              Contes de la f‚e verte ş1994 Swamp Foetus şTrad. BREQUE Jean-Daniel
 : .o .     p     _SIMMONS Dan                 Prol‚gomŠnes … toute m‚taphysique future de Poppy ş1994 A Prolegomena to Any Future Metaphysics of Poppy
@@ -5574,7 +5575,7 @@ o PDF       612  1999.05 ..... ISBN 2-207-60042-4
 : .o .     N     _DOREMIEUX Alain             Aurora ş1965
 : .o .     N     _DOREMIEUX Alain             A la fenˆtre d'en face ş1967
 : .o .     N     _DOREMIEUX Alain             La Femme modŠle ş1964
-: .o .     N     _DOREMIEUX Alain             La Nuit du Vert-Galant ş1959
+: .o .     N     _DOREMIEUX Alain             La Nuit du Vert-Galant ş1958
 : .o .     N     _DOREMIEUX Alain             Carrefour du temps ş1967
 : .o .     N     _DOREMIEUX Alain             Fin d'un amour ş1967
 : .o .     N     _DOREMIEUX Alain             L'Heure du passage ş1967
@@ -5619,7 +5620,7 @@ o PDF       618  1999.11 R.... ISBN 2-207-24956-5
 : .o .     N     _BAXTER Stephen              Tu ne toucheras plus jamais terre ş1993 No Longer Touch the Earth şTrad. CHARRIER MichŠle
 : .o .     N     _SWANWICK Michael            La Voie du dragon ş1998 The Dragon Line şTrad. DURASTANTI Pierre-Paul
 : .o .     r     _RHEYSS Michael              L'Apopis r‚publicain ş1999
-o PDFF      619  1999.11 ..... ISBN 2-207-24999-9
+o PDF       619  1999.11 ..... ISBN 2-207-24999-9
 } pdf619         _Olivier Ledroit             ?
 - .oF.     R     _LIGNY Jean-Marc             La mort peut danser ş1994
 o PDF       620  2000.01 ..... ISBN 2-207-24950-6
@@ -5627,24 +5628,23 @@ o PDF       620  2000.01 ..... ISBN 2-207-24950-6
 - .oS.     R     _VALERY Francis              La Cit‚ entre les mondes ş2000
 o PDF       621  2000.01 ..... ISBN 2-207-25001-6
 } pdf621         _Paul Siraudeau              ?
-- .oS.    _N6    _SILVERBERG Robert          &Le Nez de Cl‚opƒtre ş1993
-&                *CHAMBON Jacques             
+- .oS.    _N6    _SILVERBERG Robert           Le Nez de Cl‚opƒtre ş1993
 !--- recueil d'uchronies
-!--- Couv SIRAUDEAU Paul
-: .o .     N     _SILVERBERG Robert           L‚gendes de la forˆt Veniane ş1989 Tales from the Venia Woods şTrad. COLLON H‚lŠne
-: .o .     N     _SILVERBERG Robert           Le Trait‚ de Dsseldorf ş1959 Translation Error şTrad. COLLON H‚lŠne
-: .o .     r     _SILVERBERG Robert           Tombouctou … l'heure du lion [La Porte des mondes] ş1990 Lion Time in Timbuctoo şTrad. COLLON H‚lŠne
-: .o .     N     _SILVERBERG Robert           Le Sommeil et l'oubli ş1989 A Sleep and a Forgetting şTrad. COLLON H‚lŠne
-: .o .     N     _SILVERBERG Robert           Entre un soldat, puis un autre ş1989 Enter a Soldier. Later: Enter Another şTrad. COLLON H‚lŠne
-: .o .     N     _SILVERBERG Robert           Basileus ş1983 Basileus şTrad. COLLON H‚lŠne
+!--- Serait une anthologie de Jacques CHAMBON ?
+: .oS.     N     _SILVERBERG Robert           L‚gendes de la forˆt Veniane ş1989 Tales from the Venia Woods şTrad. COLLON H‚lŠne
+: .oS.     N     _SILVERBERG Robert           Le Trait‚ de Dsseldorf ş1959 Translation Error şTrad. COLLON H‚lŠne
+: .oS.     r     _SILVERBERG Robert           Tombouctou … l'heure du lion [La Porte des mondes] ş1990 Lion Time in Timbuctoo şTrad. COLLON H‚lŠne
+: .oS.     N     _SILVERBERG Robert           Le Sommeil et l'oubli ş1989 A Sleep and a Forgetting şTrad. COLLON H‚lŠne
+: .oS.     N     _SILVERBERG Robert           Entre un soldat, puis un autre ş1989 Enter a Soldier. Later: Enter Another şTrad. COLLON H‚lŠne
+: .oS.     N     _SILVERBERG Robert           Basileus ş1983 Basileus şTrad. COLLON H‚lŠne
 o PDF       622  2000.03 ..... ISBN 2-207-25089-X
 } pdf622         _Guillaume Sorel             ?
-- .oF.    _N12   _SIMMONS Dan                 Le styx coule … l'envers ş1997
+- .oF.    _N12   _SIMMONS Dan                 Le Styx coule … l'envers ş1997
 !--- Trad. BREQUE Jean-Daniel
-: .o .     N     _SIMMONS Dan                 Le styx coule … l'envers ş1982 The River Styx Runs Upstream
+: .o .     N     _SIMMONS Dan                 Le Styx coule … l'envers ş1982 The River Styx Runs Upstream
 : .o .     N     _SIMMONS Dan                 Vanni Fucci est bien vivant et il vit en enfer ş1988 Vanni Fucci Is Alive and Well and Living in Hell
 : .o .     N     _SIMMONS Dan                 Passeport pour Vietnamland ş1987 E-Ticket to 'Namland
-: .o .     N     _SIMMONS Dan                 Deux minutes quarante-cinq secondes ş1988 Two Minutes Forty-five Seconds
+: .o .     N     _SIMMONS Dan                 Deux minutes quarante-cinq secondes ş1988 Two Minutes Forty-Five Seconds
 : .o .     N     _SIMMONS Dan                 M‚tastases ş1988 Metastasis
 : .o .     N     _SIMMONS Dan                 Douce nuit, sainte nuit ş1985 Vexed to Nightmare by a Rocking Cradle
 : .o .     N     _SIMMONS Dan                 M‚moires priv‚s de la pand‚mie des stigmates d'Hoffer ş1991 My Private Memoirs of the Hoffer Stigmata Pandemic
@@ -5678,7 +5678,7 @@ o PDF       627  2000.03 ..... ISBN 2-207-24907-7
 - .oS.     R     _DOZOIS Gardner R.           L'trangŠre ş1978 Strangers şTrad. GUIOD Jacques
 o PDF       628  2000.03 ..... ISBN 2-207-24937-9
 } pdf628         _Manchu                      ?
-- .oS.     R     _SPINRAD Norman              Ces hommes dans la jungle ş1967 The Men in a Jungle şTrad. GUIOD Jacques
+- .oS.     R     _SPINRAD Norman              Ces hommes dans la jungle ş1967 The Men in the Jungle şTrad. GUIOD Jacques
 o PDF       629  2000.04 R.... ISBN 2-207-25071-7
 } pdf629         _Vincent Dutrait             ?
 - .oS.    _A3    *DUMAY Gilles                Aventures lointaines - Num‚ro 2 ş2000
@@ -5695,15 +5695,12 @@ o PDF       631  2000.04 ..... ISBN 2-207-24935-2
 - .oS.     R     _SPINRAD Norman              Les Solariens ş1966 The Solarians şTrad. CHARRIER MichŠle
 o PDF       632  2000.04 ..... ISBN 2-207-25067-9
 } pdf632         _Benjamin Carr‚              ?
-- .oF.     R     _MATHESON Richard C.         Cauchemar cathodique ş1993 Created By şTrad. REICHERT Frank
+- .oF.     R     _MATHESON Richard C.         Cauchemar cathodique ş1993 Created by şTrad. REICHERT Frank
 o PDF       666  2000.04 ..... ISBN 2-207-25008-3
 } pdf666         _Manchu                      ?
 - .oS.     R     _ZELAZNY Roger               Route 666 ş1969 Damnation Alley şTrad. BAUDURET Thomas
 
 !FIN_COLL PDF
-!FIN_COLL PDFY
-!FIN_COLL PDFF
-!FIN_COLL PDFT
 !FIN_COLL PDFUT
 
 
@@ -5729,7 +5726,6 @@ o PDFC        ?  1979.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     M1    ****                         Catalogue analytique 1979 ş1979
 : .o .     N     _ASIMOV Isaac                L'amour, vous connaissez ? ş1961 Playboy and the Slime God / What Is This Thing Called Love?
-!--- TBC titre vo : _Playboy and the slime god / What is this thing called loved?_ ou _Playboy and the slime god / What is this thing called love?_ ?
 !--- TBC date : _1961_ ou _1953_ ?
 ?: .o .     N     _BRADBURY Ray                Octobre 2026. le pique nique d'un million d'ann‚es ş?
 o PDFC        ?  1988.xx R.... ISBN .-.....-...-.
@@ -5779,7 +5775,7 @@ o PDF         ?  1981.xx ..... ISBN -
 o PDF         ?  1996.03 ..... ISBN -
 } noimg          _Ned Land                    ?
 - .oS.     E     _BONNEFOY Jean               Surtout pas de panique ! [Guide du routard galactique] ş1996
-o PDFH        ?  2000.03 ..... ISBN -
+o PDF         ?  2000.03 ..... ISBN -
 } pdfhs          _St‚phane Barry              ?
 - .oS.    _N3    ****                         Rock'n'roll Altitude ş2000
 : .o .     N     _DOZOIS Gardner R.          &En tourn‚e ş1981 Touring şTrad. PUGI Jean-Pierre

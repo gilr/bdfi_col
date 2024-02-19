@@ -4,21 +4,21 @@
 !--- cr‚‚es par L‚a SILHOL et 4 autres associ‚s en 1999
 !--- Fin annonc‚e le mercredi 9 ao–t
 !-----------------------------------------------------------------------------
-!-- OXY_EP  Ed. de l'Oxymore, Coll. Epreuves
-!-- OXY_GEM Ed. de l'Oxymore, Coll. Gemmail
-!-- OXY_EMY Ed. de l'Oxymore, Coll. EmblŠmythiques
-!-- OXY_ESS Ed. de l'Oxymore, Essais
-!-- OXY_EMB Ed. de l'Oxymore, Coll. EmblŠmes
-!-- OXY_MAN Ed. de l'Oxymore, Coll. ManiŠres Noires
-!-- OXY_MOI Ed. de l'Oxymore, Coll. Moirages
+!-- OXY_EP  Editions de l'Oxymore, Epreuves
+!-- OXY_GEM Editions de l'Oxymore, Gemmail
+!-- OXY_EMY Editions de l'Oxymore, EmblŠmythiques
+!-- OXY_ESS Editions de l'Oxymore, Essais
+!-- OXY_EMB Editions de l'Oxymore, EmblŠmes
+!-- OXY_MAN Editions de l'Oxymore, ManiŠres Noires
+!-- OXY_MOI Editions de l'Oxymore, Moirages
 !--- Distribu‚ par l'Oxymore :
 !-- REQ_CEV Revue Requiem, cercle d'‚tude vampirique
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ OXY_EP  Ed. de l'Oxymore, Coll. Epreuves
+_ OXY_EP  Editions de l'Oxymore - Epreuves
 !-----------------------------------------------------------------------------
-!--- Coll. Epreuves (demi-poche, consacr‚e au domaine francophone)
+!--- Collection Epreuves (demi-poche, consacr‚e au domaine francophone)
 !-----------------------------------------------------------------------------
 o OXY_EP      1  2003.05 ..... ISBN 2-913939-26-0
 } oxy_epreuves1  _?                           ?
@@ -134,9 +134,9 @@ o OXY_EP      7  2005.10 ..... ISBN 2-913939-51-1
 
 
 !-----------------------------------------------------------------------------
-_ OXY_GEM Ed. de l'Oxymore, Coll. Gemmail
+_ OXY_GEM Editions de l'Oxymore - Gemmail
 !-----------------------------------------------------------------------------
-!--- Coll. Gemmail
+!--- Collection Gemmail
 !-----------------------------------------------------------------------------
 o OXY_GEM     1i 2002.05 ..... ISBN 2-913939-16-3
 } oxygem01       _?                           ?
@@ -156,9 +156,9 @@ o OXY_GEM     1i 2002.05 ..... ISBN 2-913939-16-3
 : .oF.     N     _LEE Tanith                  Le TroisiŠme Cavalier þ1979 The Third Horseman
 
 !-----------------------------------------------------------------------------
-_ OXY_EMY Ed. de l'Oxymore, Coll. EmblŠmythiques
+_ OXY_EMY Editions de l'Oxymore - EmblŠmythiques
 !-----------------------------------------------------------------------------
-!--- Coll. EmblŠmythiques : Antho th‚matiques
+!--- Collection EmblŠmythiques : Antho th‚matiques
 !-----------------------------------------------------------------------------
 o OXY_EMY     1i 1999.12 ..... ISBN 2-913939-01-5
 } oxyemblmyth01  _?                           ?
@@ -166,8 +166,8 @@ o OXY_EMY     1i 1999.12 ..... ISBN 2-913939-01-5
 !--- sous-titre : 18 contes entre Ciel et Terre
 !--- Avant-propos de l'anthologiste : "Des anges et des hommes".
 !--- Egalement paru en Fission (100 exemplaires sign‚s, autre couverture)
-: .oF.     N     _VONARBURG Elisabeth         L'Aile þ1990
-: .oF.     N     _KILPATRICK Nancy            Votre indispensable h‚ros m‚connu þ1995 Your essential unsung hero þTrad. BenoŒt Piret
+: .oF.     N     _VONARBURG Elisabeth         L'Aile þ1991
+: .oF.     N     _KILPATRICK Nancy            Votre indispensable h‚ros m‚connu þ1995 Your Essential Unsung Hero þTrad. BenoŒt Piret
 : .oF.     N     _LABBE Denis                 Helldorado þ2000
 : .oF.     N     _LINNSKY Fabrice             Profil c‚leste þ2000
 : .oF.     N     _LOVEGROVE James             Ailes þ1995 Wings þTrad. LABBE Denis
@@ -262,7 +262,7 @@ o OXY_EMY     5i 2004.09 ..... ISBN 2-913939-31-7
 : .oF.     N     _LELIO                       Dans la nuit de Skagerrak þ2004
 
 !-----------------------------------------------------------------------------
-_ OXY_FIS Ed. de l'Oxymore, Coll. Fissions
+_ OXY_FIS Editions de l'Oxymore - Fissions
 !-----------------------------------------------------------------------------
 o OXY_FIS     2i 2001.xx ..... ISBN 2-913939-08-2
 } noimg          _?                           ?
@@ -304,7 +304,7 @@ o OXY_FIS     9  2004.11 ..... ISBN 2-913939-46-5
 - .oY.    kN12   _SILHOL L‚a                  Musiques de la frontiŠre [Frontier] þ2004
 !--- Egalement paru en Moirages
 : .oF.     p     _KAAN Jess                   Toucher Frontier... þ2004
-: .oF.     N     _SILHOL L‚a                  Runaway Train [Frontier] þ2004
+: .oF.     N     _SILHOL L‚a                  Runaway Train [Frontier] þ2000
 : .oF.     N     _SILHOL L‚a                  Il ne neige pas … Frontier [Frontier] þ2001
 : .oF.     N     _SILHOL L‚a                  Arcane I / Le magicien [Frontier] þ2002
 : .oF.     N     _SILHOL L‚a                  Faire surface (Arcane XX / Le jugement) [Frontier] þ2004
@@ -315,7 +315,7 @@ o OXY_FIS     9  2004.11 ..... ISBN 2-913939-46-5
 : .oF.     N     _SILHOL L‚a                  L'Encre, le sang (Arcane II / La papesse) [Frontier] þ2004
 : .oF.     N     _SILHOL L‚a                  Vado Mori (Arcane XVIII / La Lune) [Frontier] þ2003
 : .oF.     N     _SILHOL L‚a                  Voix de sŠve [Frontier] þ2004
-: .oF.     N     _SILHOL L‚a                  Comme marchent les ombres [Frontier] þ2004
+: .oF.     N     _SILHOL L‚a                  Comme marchent les ombres [Frontier] þ2002
 : .oF.     o     _GIORDANO Natacha            PrŠs des nids de coucous þ2004
 o OXY_FIS     8  2005.10 ..... ISBN 2-913939-52-6
 } noimg          _?                           ?
@@ -326,8 +326,8 @@ o OXY_FIS     1i 1999.12 ..... ISBN 2-913939-..-.
 !--- sous-titre : 18 contes entre Ciel et Terre
 !--- Avant-propos de l'anthologiste : "Des anges et des hommes".
 !--- Egalement paru en Fission (100 exemplaires sign‚s, autre couverture)
-: .oF.     N     _VONARBURG Elisabeth         L'Aile þ1990
-: .oF.     N     _KILPATRICK Nancy            Votre indispensable h‚ros m‚connu þ1995 Your essential unsung hero þTrad. BenoŒt Piret
+: .oF.     N     _VONARBURG Elisabeth         L'Aile þ1991
+: .oF.     N     _KILPATRICK Nancy            Votre indispensable h‚ros m‚connu þ1995 Your Essential Unsung Hero þTrad. BenoŒt Piret
 : .oF.     N     _LABBE Denis                 Helldorado þ2000
 : .oF.     N     _LINNSKY Fabrice             Profil c‚leste þ2000
 : .oF.     N     _LOVEGROVE James             Ailes þ1995 Wings þTrad. LABBE Denis
@@ -362,7 +362,7 @@ o OXY_FIS     ?  2002.05 ..... ISBN 2-913939-17-4
 : .oF.     N     _LEE Tanith                  Le TroisiŠme Cavalier þ1979 The Third Horseman
 
 !-----------------------------------------------------------------------------
-_ OXY_ESS Ed. de l'Oxymore, Essais
+_ OXY_ESS Editions de l'Oxymore - Essais
 !-----------------------------------------------------------------------------
 !--- Essais
 !-----------------------------------------------------------------------------
@@ -374,7 +374,7 @@ o OXY_ESS     ?  1999.08 ..... ISBN 2-913939-00-7
 !--- L‚a Silhol : Avant Propos. De l'‚toffe dont nos t‚nŠbres sont faites_
 !--- 
 !--- Massimo Introvigne : La naissance du vampire dans l'Europe du 18e siŠcle
-!--- Greg Silhol : Vampires d'extrˆme-orient
+!--- Greg Silhol : Vampires d'extrˆme-Orient
 !--- Laurent Biscarrat : Nodier, M‚rim‚e et les vampires
 !--- Serena Gentilhomme : Pieu, Famille, Patrie, les valeurs des Vourdalak
 !--- 
@@ -395,12 +395,12 @@ o OXY_ESS     ?  2002.11 ..... ISBN 2-913939-23-6
 - .oY.     E     _RUAUD Andr‚-Fran‡ois        Le Dictionnaire f‚‚rique þ2002
 o OXY_ESS     ?  2005.xx ..... ISBN 2-913939-..-.
 } noimg          _?                           ?
-- .o .     E     _POZZUOLI Alain              Dracula, le lexique du vampire þ2005
+- .o .     E     _POZZUOLI Alain              Dracula, le lexique du vampire þ1996-2005
 
 !-----------------------------------------------------------------------------
-_ OXY_EMB Ed. de l'Oxymore, Coll. EmblŠmes
+_ OXY_EMB Editions de l'Oxymore - EmblŠmes
 !-----------------------------------------------------------------------------
-!--- Coll. EmblŠmes
+!--- Collection EmblŠmes
 !-----------------------------------------------------------------------------
 o OXY_EMB     1  2001.02 ..... ISBN 2-913939-05-8
 } oxyembl01      _?                           ?
@@ -409,11 +409,11 @@ o OXY_EMB     1  2001.02 ..... ISBN 2-913939-05-8
 - .oF.    _A11   *SILHOL L‚a                  Vampyres þ2001
 : .o .     p     _SILHOL L‚a                  Le Blanc et le Noir þ2001
 : .o .     N     _NICOLAS Christophe          Ces veines þ2001
-: .o .     X     _PRESKETT PREST Thomas      &Varney le Vampyre ou le festin de Sang þ1847 Varney the Vampire ot The Feast of Blood þTrad. VALLS DE GOMIS Estelle
+: .o .     X     _PRESKETT PREST Thomas      &Varney le Vampyre ou le festin de Sang þ1847 Varney the Vampire or the Feast of Blood þTrad. VALLS DE GOMIS Estelle
 &                _RYMER James Malcolm         
 : .o .     N     _NEWMAN Kim                  Les morts voyagent vite þ2000 Dead Travel Fast þTrad. PIRET BenoŒt
 : .o .     N     _EBATBUOK                    E-mails þ2001
-: .o .     N     _COLLINS Nancy A.            Le Vampire roi des corbeaux þ1998 Vampire, King of the Goth Chicks þTrad. PROULX Michel
+: .o .     N     _COLLINS Nancy A.            Le Vampire roi des corbeaux [Sonja Blue] þ1998 Vampire King of the Goth Chicks þTrad. PROULX Michel
 : .o .     N     _COLIN Fabrice               Int‚rieur nuit þ2001
 : .o .     N     _BELMON Lionel               Mensonges þ2001
 : .o .     N     _LABBE Denis                 L'horreur se porte si bien þ2001
@@ -439,7 +439,7 @@ o OXY_EMB     3  2001.10 ..... ISBN 2-913939-12-0
 : .o .     X     _STOKER Bram                 La Tombe d'une reine (extrait de : Le Joyau aux sept ‚toiles) þ1903 The Jewel of the Seven Stars
 : .o .     N     _VALLS DE GOMIS Estelle      Tire la bandelette et la chevillette cherra þ2001
 : .o .     N     _ROHWALD Jean                Le Rempla‡ant þ2001
-: .o .     N     _KILPATRICK Nancy            Ton ombre te connait bient þ2001 Your shadow knows you well
+: .o .     N     _KILPATRICK Nancy            Ton ombre te connait bient þ2001 Your Shadow Knows you Well
 : .o .     N     _ROUGE-HERON Didier          Un jeu d'enfer þ2001
 : .o .     N     _DUGUEL Anne                 Face … face þ2001
 : .o .     N     _CARBONNIER Marie            La Mal‚diction de Xolotl þ2001
@@ -477,12 +477,12 @@ o OXY_EMB     5  2002.02 ..... ISBN 2-913939-13-9
 : .o .     N     _LEE Tanith                  V‚nus s'‚levant des eaux þ1991 Venus Rising on Water þTrad. VALLS DE GOMIS Estelle
 o OXY_EMB     6  2002.08 ..... ISBN 2-913939-15-5
 } oxyembl06      _?                           ?
-- .oFN     A11   *SILHOL Greg                 ExtrŠme-orient þ2002
+!--- TBD titre du texte de L‚a Silhol : "Diff‚rentes couleurs - Cinq priŠres japonaises"
+- .oFN     A11   *SILHOL Greg                 ExtrŠme-Orient þ2002
 : .o .     p     _SILHOL Greg                 Avant-propos þ2002
 : .o .     N     _SILHOL L‚a                  Diff‚rentes couleurs þ2002
-!---             _SILHOL L‚a                  Diff‚rentes couleurs (Cinq priŠres japonaises) þ2002
 : .o .     N     _KILWORTH Garry              Le Tueur de dragon þ1990 The Dragon Slayer þTrad. LABBE Denis
-: .o .     N     _HEARN Lafcadio              Rokuro-kubi þ1904 Kokuro-kubi þTrad. SILHOL Greg
+: .o .     N     _HEARN Lafcadio              Rokuro-kubi þ1904 Rokuro-Kubi þTrad. SILHOL Greg
 : .o .     N     _LUVAN                       Le Dit des cheveux þ2002
 : .o .     N     _FAUVEL Pierre               L'Ombre d'un regret þ2002
 : .o .     N     _SCHIMEL Lawrence           &Les Enfants du dragon þ2002 Children of the Dragon þTrad. CEDRIC Sire
@@ -495,6 +495,7 @@ o OXY_EMB     6  2002.08 ..... ISBN 2-913939-15-5
 : .o .     N     _JOHNSON Kij                 Magie des renards þ1993 Fox Magic þTrad. FAZI M‚lanie
 o OXY_EMB     7  2002.11 ..... ISBN 2-913939-19-8
 } oxyembl07      _?                           ?
+!--- Contient un article final, "Guide d'‚criture"
 - .oF.     A9    *SILHOL L‚a                  La Mort, ses vies þ2002
 : .o .     p     _SILHOL L‚a                  L'Oeuvre au noir þ2002
 : .o .     N     _LEE Tanith                  Elle est trois, (La Mort) þ1983 Elle Est Trois, (La Mort)
@@ -507,7 +508,6 @@ o OXY_EMB     7  2002.11 ..... ISBN 2-913939-19-8
 : .o .     N     _BERROUKA Karim              Sous l'aile maternelle de la mort þ2002
 : .o .     N     _GAZENGEL Cyril              No man's land þ2002
 : .o .     a     _SIRE CEDRIC                 Ecrire la mort þ2002
-!--- Guide d'‚criture (?)
 o OXY_EMB     8  2003.02 ..... ISBN 2-913939-22-8
 } oxyembl08      _?                           ?
 - .oF.    cA9    *POZZUOLI Alain              Cit‚s perdues þ2003
@@ -661,7 +661,7 @@ o OXY_EMB  HS 2  2004.xx ..... ISBN 2-913939-48-1
 : .oF.     p     _SILHOL L‚a                  Elficomanes þ2004
 : .oF.     N     _HERMANT Martine             Un si pr‚cieux ‚lixir þ2004
 : .oF.     N     _McKILLIP Patricia A.        Un troll et deux roses þ1985 A Troll and Two Roses þTrad. VALLS DE GOMIS Estelle
-: .oF.     N     _LORRAIN Jean                Oriane vaincue þ2004
+: .oF.     N     _LORRAIN Jean                Oriane vaincue þ1893
 : .oF.     N     _BERJAUD Yoann               La Rose d'Oisin þ2004
 : .oF.     N     _NIOGRET Justine             Un chant d'‚t‚ þ2004
 : .oF.     N     _FERRIC Franck               F‚e d'hiver þ2004
@@ -675,9 +675,9 @@ o OXY_EMB  HS 2  2004.xx ..... ISBN 2-913939-48-1
 : .oF.     N     _SILHOL L‚a                  Les F‚es þ2004
 
 !-----------------------------------------------------------------------------
-_ OXY_MAN Ed. de l'Oxymore, Coll. ManiŠres Noires
+_ OXY_MAN Editions de l'Oxymore - ManiŠres Noires
 !-----------------------------------------------------------------------------
-!--- Coll. ManiŠres Noires : romans fantastique
+!--- Collection ManiŠres Noires : romans fantastique
 !-----------------------------------------------------------------------------
 o OXY_MAN     1  2001.07 ..... ISBN 2-913939-02-3
 } noimg          _?                           ?
@@ -687,9 +687,9 @@ o OXY_MAN     2  2005.10 ..... ISBN 2-913939-53-8
 - .oT.     R     _LEE Tanith                  La Danse des ombres [L'Op‚ra de sang - 1] þ1992 Dark Dance þTrad. ARSON Thierry
 
 !-----------------------------------------------------------------------------
-_ OXY_MOI Ed. de l'Oxymore, Coll. Moirages
+_ OXY_MOI Editions de l'Oxymore - Moirages
 !-----------------------------------------------------------------------------
-!--- Coll. Moirages : romans Fantasy
+!--- Collection Moirages : romans Fantasy
 !-----------------------------------------------------------------------------
 o OXY_MOI     1  2001.05 ..... ISBN 2-913939-07-4
 } noimg          _?                           ?
@@ -776,7 +776,7 @@ o OXY_MOI     9i 2004.11 ..... ISBN 2-913939-47-3
 - .oY.    kN12   _SILHOL L‚a                  Musiques de la frontiŠre [Frontier] þ2004
 !--- Egalement paru en Fission nø 7
 : .oF.     p     _KAAN Jess                   Toucher Frontier... þ2004
-: .oF.     N     _SILHOL L‚a                  Runaway Train [Frontier] þ2004
+: .oF.     N     _SILHOL L‚a                  Runaway Train [Frontier] þ2000
 : .oF.     N     _SILHOL L‚a                  Il ne neige pas … Frontier [Frontier] þ2001
 : .oF.     N     _SILHOL L‚a                  Arcane I / Le magicien [Frontier] þ2002
 : .oF.     N     _SILHOL L‚a                  Faire surface (Arcane XX / Le jugement) [Frontier] þ2004
@@ -787,11 +787,11 @@ o OXY_MOI     9i 2004.11 ..... ISBN 2-913939-47-3
 : .oF.     N     _SILHOL L‚a                  L'Encre, le sang (Arcane II / La papesse) [Frontier] þ2004
 : .oF.     N     _SILHOL L‚a                  Vado Mori (Arcane XVIII / La Lune) [Frontier] þ2003
 : .oF.     N     _SILHOL L‚a                  Voix de sŠve [Frontier] þ2004
-: .oF.     N     _SILHOL L‚a                  Comme marchent les ombres [Frontier] þ2004
+: .oF.     N     _SILHOL L‚a                  Comme marchent les ombres [Frontier] þ2002
 : .oF.     o     _GIORDANO Natacha            PrŠs des nids de coucous þ2004
 
 !-----------------------------------------------------------------------------
-_ OXY_OZA Ed. de l'Oxymore, Coll. Comme des Ozalids
+_ OXY_OZA Editions de l'Oxymore - Comme des Ozalids
 !-----------------------------------------------------------------------------
 !--- COLL : Comme des Ozalids
 !-----------------------------------------------------------------------------
@@ -838,7 +838,7 @@ o REQ_CEV     8  1998.xx ..... ISBN 2-913939-..-.
 } noimg          _?                           ?
 - .o .     M3    ****                         Requiem nø 8 þ1998
 : .o .     N     _FABRE RUBIO Philippe        Le Manjasang þ1998
-: .o .     N     _SEIGNOLLE Claude            Deux dents, pas plus þ1966
+: .o .     N     _SEIGNOLLE Claude            Deux dents, pas plus... þ1966
 : .o .     N     _MARTZ Sandra                Une ‚ternit‚ pour vivre þ1998
 o REQ_CEV     9  1999.xx ..... ISBN 2-913939-..-.
 } noimg          _?                           ?

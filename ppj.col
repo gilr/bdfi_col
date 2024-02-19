@@ -1,39 +1,60 @@
 !-----------------------------------------------------------------------------
-!--- Collections Jeunes, bilangue et sp‚cifiques (Star Wars, Perry Rhodan)
+!--- Presses-Pocket, puis Pocket depuis 1993
 !-----------------------------------------------------------------------------
-_ PP_LPT  Pocket, Coll. Langues pour tous
-_ PP_BIL  Presses Pocket, Coll. "Les langues pour tous", S‚rie Bilingue
-_ PP_AGO  Pocket, Coll. Agora
-_ PP_RHOD Pocket, Coll. Perry Rhodan
-_ PP_SW   Pocket, Coll. Star Wars
+!-----------------------------------------------------------------------------
+!--- Collections Jeunes, bilingue et sp‚cifiques (Star Wars, Perry Rhodan)
+!-----------------------------------------------------------------------------
+_ PP_LPT  Pocket - Langues pour tous
+_ PP_BIL  Presses Pocket - Les langues pour tous, Bilingue
+_ PO_BIL  Pocket - Les langues pour tous, Bilingue
+_ PP_AGO  Pocket - Agora
+_ PP_RHOD Pocket - Perry Rhodan
+_ PP_SW   Pocket - Star Wars
 !-----------------------------------------------------------------------------
 !--- Les Jeunesse en Poche :
 !-----------------------------------------------------------------------------
-_ PP_KID  Pocket, Coll. Kid Pocket
+_ PP_KID  Pocket - Kid Pocket
 _ PP_JUN  Pocket Junior
-_ PP_JJUN Pocket Jeunesse, Coll. Pocket Junior
-_ PP_JEUP Pocket Jeunesse, Poche
-_ PP_JEUC Pocket Jeunesse, Classiques
-_ PP_JA   Pocket, Jeunes adultes
+_ PP_JMYT Pocket Junior - Mythologies
+_ PP_JJUN Pocket Jeunesse - Pocket Junior
+_ PP_JEUP Pocket Jeunesse - Poche
+_ PP_JEUC Pocket Jeunesse - Classiques
+_ PP_JA   Pocket - Jeunes adultes
+_ PO_UOUV Pocket & Nathan - Une oeuvre, une voix
 !-----------------------------------------------------------------------------
+!--- Mythologies : dirig‚e par Claude Aziza
+!-----------------------------------------------------------------------------
+!-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+!--- Presses Pocket, Collection "Une oeuvre, une voix"
+!-----------------------------------------------------------------------------
+!--- Indiqu‚ ‚galement sur site collection "classiques - parascolaires"
+!-----------------------------------------------------------------------------
+o PO_UOUV     ?  2022.08 ..... ISBN 978-2-266-32874-6
+} noimg          _?                           ?
+!--- Poche - 125x180 - 320 pages - 4 euros
+- .o .     R     _VERNE Jules                 Le Tour du monde en 80 jours þ1873
+o PO_UOUV     ?  2022.08 ..... ISBN 978-2-266-32875-3
+} noimg          _?                           ?
+!--- Poche - 125x180 - 300 pages - 4 euros
+- .oF.     R     _WILDE Oscar                 Le Portrait de Dorian Gray þ1891 The Picture of Dorian Gray þTrad. TIENNE Michel + MORTIER Daniel
 
 !-----------------------------------------------------------------------------
 !--- Presses Pocket, Collection "Les langues pour tous", s‚rie Bilingue
 !-----------------------------------------------------------------------------
 o PP_BIL   3095  1989.xx R.... ISBN 2-266-.-...-.
 } pp3095         _?                           ?
-+ PP_BIL   3095  1996.xx ..... ISBN 2-266-07357-5
++ PO_BIL   3095  1996.xx ..... ISBN 2-266-07357-5
 } pp3095r96      _?                           ?
-+ PP_BIL   3095  2003.12 ..... ISBN 2-266-13706-9
++ PO_BIL   3095  2003.12 ..... ISBN 2-266-13706-9
 } pp3095rr03     _?                           ?
 - .o .     A5    _BRADBURY Ray               &Nouvelles - Short Stories þ1989
 &                *RICHELET Annie              
 : .o .     N     _BRADBURY Ray                L'Assassin þ1953 The Murderer þTrad. RICHELET Annie
 : .o .     N     _BRADBURY Ray                Un coup de tonnerre þ1952 A Sound of Thunder þTrad. RICHELET Annie
-: .o .     N     _BRADBURY Ray                Ao–t 1999. les hommes de la Terre þ1950 The Earth Men þTrad. RICHELET Annie
-!---   Ao–t 1999 : les hommes de la Terre þ1950 August 1999: the earth men
+: .o .     N     _BRADBURY Ray                Ao–t 1999. les hommes de la Terre þ1948 The Earth Men þTrad. RICHELET Annie
 : .o .     N     _BRADBURY Ray                D‚cembre 2005. les villes muettes þ1949 The Silent Towns þTrad. RICHELET Annie
-!---   D‚cembre 2005 : les villes muettes þ1949 December 2005: the silent towns
 : .o .     N     _BRADBURY Ray                La Pluie þ1951 The Long Rain þTrad. RICHELET Annie
 o PP_LPT   2213  1991.xx ..... ISBN 2-266-.....-.
 } pp2213         _?                           N
@@ -56,9 +77,9 @@ o PP_BIL   2704  1987.xx ..... ISBN 2-266-01912-0
 : .oF.     N     _BIERCE Ambrose              Cette maudite chose þ1893 The Damned Thing
 : .oF.     N     _HODGSON William Hope        La Chambre qui sifflait [Carnacki] þ1910 The Whistling Room
 : .oF.     N     _LOVECRAFT Howard P.         La D‚claration de Randolph Carter [Randolph Carter] þ1920 The Statement of Randolph Carter
-o PP_BIL   2704  2000.xx ..... ISBN 2-266-09815-2
+o PO_BIL   2704  2000.xx ..... ISBN 2-266-09815-2
 } pp2704rr00     _?                           ?
-+ PP_BIL   2704  2003.11 ..... ISBN 2-266-13707-7
++ PO_BIL   2704  2003.11 ..... ISBN 2-266-13707-7
 } pp2704rr03     _?                           ?
 - .oF.    _A5    *LOFFICIER Jean-Marc         Les Grands MaŒtres du fantastique - Weird Tales by great masters ((Les Grands MaŒtres de l'insolite)) þ1987
 !--- Bilingue Am‚ricain-Fran‡ais
@@ -73,71 +94,71 @@ o PP_BIL   2709  1987.04 ..... ISBN 2-266-01929-5
 : .oF.     N     _KIPLING Rudyard             L'trange Chevauch‚e de Morrowbie Jukes þ1885 The Strange Ride of Morrowbie Jukes þTrad. ?
 : .o .     N     _KIPLING Rudyard             Une conf‚rence au sommet þ1893 A Conference of the Power
 : .o .     N     _KIPLING Rudyard             La L‚gion perdue þ1892 The Lost Legion
-o PP_BIL   2709  2012.03 ..... ISBN 978-2-266-22831-2
+o PO_BIL   2709  2012.03 ..... ISBN 978-2-266-22831-2
 } pp2709rr12     _?                           ?
 - .oF.    kA2    _KIPLING Rudyard             Deux nouvelles - Two Short Stories þ1987-2012
 : .oF.     N     _KIPLING Rudyard             L'trange Chevauch‚e de Morrowbie Jukes þ1885 The Strange Ride of Morrowbie Jukes þTrad. ?
 : .o .     N     _KIPLING Rudyard             La L‚gion perdue þ1892 The Lost Legion
 o PP_BIL   2723  1988.xx ..... ISBN 2-266-03871-.
 } noimg          _?                           ?
-+ PP_BIL   2723  2007.xx ..... ISBN 978-2-266-17003-1
++ PO_BIL   2723  2007.xx ..... ISBN 978-2-266-17003-1
 } noimg          _?                           ?
-+ PP_BIL   2723  2009.08 ..... ISBN 978-2-266-20005-9
++ PO_BIL   2723  2009.08 ..... ISBN 978-2-266-20005-9
 } pp2709         _?                           ?
 - .o .     r     _STEVENSON Robert Louis      L'trange Cas du Dr Jekyll et de Mr Hyde þ1885 The Strange Case of Dr Jekyll and Mr Hyde þTrad. HERMET Georges
-o PP_BIL   3098  1998.xx ..... ISBN 2-266-08367-8
+o PO_BIL   3098  1998.xx ..... ISBN 2-266-08367-8
 } noimg          _?                           ?
 - .o .     R     _JAMES Henry                 Le Tour d'‚crou - The Turn of the Screw þ1898 The Turn of the Screw þTrad. NEMER Monique
-o PP_BIL   3287  1999.04 ..... ISBN 2-266-09265-1
+o PO_BIL   3287  1999.04 ..... ISBN 2-266-09265-1
 } pp3287         _?                           ?
-+ PP_BIL   3287  2003.xx ..... ISBN 2-266-13554-2
++ PO_BIL   3287  2003.xx ..... ISBN 2-266-13554-2
 } pp3287rr03     _?                           ?
 - .pF.     A3    _WILDE Oscar                 Nouvelles - Short Stories þ1999
 : .o .     N     _WILDE Oscar                 Le Fant“me de Canterville þ1887 The Canterville Ghost
-: .! .     N     _WILDE Oscar                 Le Millionaire modŠle þ1891 The Model Millionaire
+: .x .     N     _WILDE Oscar                 Le Millionaire modŠle þ1891 The Model Millionaire
 !--- TBC : milliardaire dans la r‚‚d. 2003 ?
 : .o .     N     _WILDE Oscar                 Le Prince heureux þ1888 The Happy Prince
 o PP_BIL   3296  1990.05 ..... ISBN 2-266-07186-6
 } pp3296         _?                           ?
-+ PP_BIL   3296  1998.xx ..... ISBN 2-266-08984-6
++ PO_BIL   3296  1998.xx ..... ISBN 2-266-08984-6
 } pp3296r98      _?                           ?
-+ PP_BIL   3296  2002.07 ..... ISBN 2-266-.....-.
++ PO_BIL   3296  2002.07 ..... ISBN 2-266-.....-.
 } pp3296rr02     _?                           ?
-+ PP_BIL   3296  2005.03 ..... ISBN 2-266-14789-7
++ PO_BIL   3296  2005.03 ..... ISBN 2-266-14789-7
 } pp3296rr05     _?                           ?
 - .oF.     N2    _KING Stephen                Nouvelles - Short Stories þ1990
 : .oF.     N     _KING Stephen                Le Singe þ1980 The Monkey þTrad. ORIANO Michel
 : .oF.     N     _KING Stephen                Le Raccourci de Mme Todd þ1984 Mrs. Todd Shortcuts þTrad. ORIANO Michel
 o PP_BIL   3530  1992.11 ..... ISBN 2-266-09945-0
 } pp3530         _?                           ?
-+ PP_BIL   3530  2010.03 ..... ISBN 978-2-266-20360-9
++ PO_BIL   3530  2010.03 ..... ISBN 978-2-266-20360-9
 } pp3530rr10     _?                           ?
 - .oF.     R     _CARROLL Lewis               Les Aventures d'Alice au pays des merveilles [Alice - 1] þ1865 Alice's Adventures in Wonderland / Alice in Wonderland þTrad. BERMAN Jean-Pierre
-o PP_BIL  11129  2000.09 ..... ISBN 2-266-10616-3
+o PO_BIL  11129  2000.09 ..... ISBN 2-266-10616-3
 } pp11129        _?                           ?
-+ PP_BIL  11129  2005.06 ..... ISBN 2-266-14790-.
++ PO_BIL  11129  2005.06 ..... ISBN 2-266-14790-.
 } pp11129rr05    _?                           ?
 - .oF.     N3    _DOYLE Arthur Conan          Histoires extraordinaires - Extraordinary Tales þ2005
 : .o .     N     _DOYLE Arthur Conan          Quand la Terre hurla [Le Professeur Challenger] þ1928 When the World Screamed þTrad. MARCHETEAU Michel
-: .oF.     N     _DOYLE Arthur Conan          Le Train vol‚ þ1908 The Lost Special þTrad. LABAT Louis
+: .oF.     N     _DOYLE Arthur Conan          Le Train vol‚ þ1898 The Lost Special þTrad. LABAT Louis
 : .o .     N     _DOYLE Arthur Conan          La Brute de Brocas Court þ1921 The Bully of Brocas Court þTrad. MARCHETEAU Michel
-o PP_BIL  12194  2004.xx ..... ISBN 2-266-13865-0
+o PO_BIL  12194  2004.xx ..... ISBN 2-266-13865-0
 } pp12194        _?                           ?
 - .oT.    kN2    _MASTERTON Graham            Nouvelles - Short Stories þ2004
 : .oT.     N     _MASTERTON Graham            Chagrin þ1996 Grief þTrad. WTTERSHEIM Eric
 : .o .     N     _MASTERTON Graham            Le Coeur d'Helen Day þ1991 The Heart of Helen Day þTrad. WTTERSHEIM Eric
-o PP_BIL  12755  2009.01 ..... ISBN 978-2-266-18883-8
+o PO_BIL  12755  2009.01 ..... ISBN 978-2-266-18883-8
 } noimg          _?                           ?
 - .o .     N     _FITZGERALD F. Scott         L'trange Histoire de Benjamin Button þ1922 The Curious Case of Benjamin Button þTrad. LESCANNE Dominique
-o PP_BIL  12761  2010.03 ..... ISBN 978-2-266-19669-7
+o PO_BIL  12761  2010.03 ..... ISBN 978-2-266-19669-7
 } pp12761        _?                           ?
 - .oF.    kA3    _IRVING Washington          &Histoires de fant“mes - Ghoststories þ2010
 &                _SCOTT Walter               &
 &                _STOKER Bram                 
 : .oF.     r     _IRVING Washington           La L‚gende de Sleepy Hollow þ1819 The Legend of Sleepy Hollow þTrad. LESCANNE Dominique
-: .oF.     N     _SCOTT Walter                La Chambre tapiss‚e þ1826 The Tapestried Chamber / The Tapestried Chamber or The Lady in the Sacque þTrad. LESCANNE Dominique
+: .oF.     N     _SCOTT Walter                La Chambre tapiss‚e þ1826 The Tapestried Chamber / The Tapestried Chamber or the Lady in the Sacque þTrad. LESCANNE Dominique
 : .oF.     N     _STOKER Bram                 La Maison du juge þ1891 The Judge's House þTrad. LESCANNE Dominique
-o PP_BIL  12762  2011.03 ..... ISBN 978-2-266-19815-8
+o PO_BIL  12762  2011.03 ..... ISBN 978-2-266-19815-8
 } pp12762        _?                           ?
 - .oF.    kA3    _LE FANU J. Sheridan        &Histoires diaboliques - Tales of the Devil þ2011
 &                _HAWTHORNE Nathaniel        &
@@ -145,26 +166,53 @@ o PP_BIL  12762  2011.03 ..... ISBN 978-2-266-19815-8
 : .o .     N     _LE FANU J. Sheridan         Le March‚ de Sir Dominick þ1872 Sir Dominick's Bargain þTrad. YVINEC Henri
 : .oF.     N     _HAWTHORNE Nathaniel         Le Jeune MaŒtre Brown þ1835 Young Goodman Brown þTrad. YVINEC Henri
 : .oF.     N     _HARDY Thomas                Le Bras atrophi‚ þ1888 The Withered Arm þTrad. YVINEC Henri
-o PP_BIL  12769  2011.08 ..... ISBN 978-2-266-21699-9
+o PO_BIL  12769  2011.08 ..... ISBN 978-2-266-21699-9
 } pp12769        _?                           ?
 - .oF.    kA3    _POE Edgar Allan             Trois nouvelles - Three Short Stories þ2011
 : .o .     N     _POE Edgar Allan             La Chute de la maison Usher þ1839 The Fall of the House of Usher þTrad. LESCANNE Dominique
 : .o .     N     _POE Edgar Allan             Le Chat noir þ1843 The Black Cat þTrad. LESCANNE Dominique
 : .o .     N     _POE Edgar Allan             La Barrique d'Amontillado þ1846 The Cask of Amontillado þTrad. LESCANNE Dominique
-o PP_BIL  12773  2012.11 ..... ISBN 978-2-266-22828-2
+o PO_BIL  12773  2012.11 ..... ISBN 978-2-266-22828-2
 } pp12773        _?                           ?
 - .oF.     A2    _IRVING Washington          &Histoires fantastiques - Tales of Mystery þ2012
 &                _HAWTHORNE Nathaniel         
 : .o .     N     _IRVING Washington           Rip van Winkle þ1819 Rip Van Winkle þTrad. LESCANNE Dominique
 : .oF.     N     _HAWTHORNE Nathaniel         La Fille de Rappacini þ1844 Rappaccini's Daughter þTrad. LESCANNE Dominique
-o PP_BIL  12784  2013.04 ..... ISBN 978-2-266-23914-1
+o PO_BIL  12784  2013.04 ..... ISBN 978-2-266-23914-1
 } pp12784        _???                         ?
 - .oSF    kN2    _LOVECRAFT Howard P.         L'Appel de Cthulhu - The Call of Cthulhu þ2013
-: .o .     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu þ1926 The Call of Cthulhu þTrad. MARCHETEAU Michel
+: .o .     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu þ1928 The Call of Cthulhu þTrad. MARCHETEAU Michel
 : .o .     N     _LOVECRAFT Howard P.         La Mal‚diction qui s'abattit sur Sarnath þ1920 The Doom That Came to Sarnath þTrad. SAVIO Michel
-o PP_BIL  12793  2015.09 ..... ISBN 978-2-266-25854-8
+o PO_BIL  12793  2015.09 ..... ISBN 978-2-266-25854-8
 } pp12793        _?                           ?
-- .o .     N     _KING Stephen                L'Ordinateur des dieux þ1983 Word Processor of the Gods þTrad. BERMAN Jean-Pierre
+!--- Poche - 108x177 - 96 pages - 4.95 euros
+- .o .     N     _KING Stephen                L'Ordinateur des dieux - Word Processor of the Gods þ1983 Word Processor of the Gods þTrad. BERMAN Jean-Pierre
+o PO_BIL  12801  2021.10 ..... ISBN 978-2-266-27511-8
+} pp12801        _?                           ?
+!--- Poche - 108x178 - 144 pages - 6.50 euros
+- .oY.    iP16   _TOLKIEN J.R.R.              Les Aventures de Tom Bombadil þ1962 The Adventures of Tom Bombadil and Other Verses from the Red Book þTrad. HEDAYAT Dashiell
+! .o .     p     _TOLKIEN J.R.R.              Pr‚face þ1962 Preface
+! .o .     P     _TOLKIEN J.R.R.              Les Aventures de Tom Bombadil þ1962 The Adventures of Tom Bombadil
+! .o .     P     _TOLKIEN J.R.R.              Bombadil en bateau þ1962 Bombadil Goes Boating
+! .o .     P     _TOLKIEN J.R.R.              Errance þ1962 Errantry
+! .o .     P     _TOLKIEN J.R.R.              Princesse Moa þ1962 Princess Mee
+! .o .     P     _TOLKIEN J.R.R.              L'homme dans la lune a veill‚ trop tard þ1962 The Man in the Moon Stayed Up Too Late
+! .o .     P     _TOLKIEN J.R.R.              L'homme dans la lune est descendu trop t“t þ1962 The Man in the Moon Came Down Too Soon
+! .o .     P     _TOLKIEN J.R.R.              Le Troll de pierre þ1962 The Stone Troll
+! .o .     P     _TOLKIEN J.R.R.              Perry-le-Bigorneau þ1962 Perry-the-Winkle
+! .o .     P     _TOLKIEN J.R.R.              Les Miaulabres þ1962 The Mewlips
+! .o .     P     _TOLKIEN J.R.R.              Oliphant þ1962 Oliphaunt
+! .o .     P     _TOLKIEN J.R.R.              Fastitocalon þ1962 Fastitocalon
+! .o .     P     _TOLKIEN J.R.R.              Chat þ1962 Cat
+! .o .     P     _TOLKIEN J.R.R.              La Femme de l'ombre þ1962 Shadow-Bride
+! .o .     P     _TOLKIEN J.R.R.              Le Tr‚sor þ1962 The Hoard
+! .o .     P     _TOLKIEN J.R.R.              La Cloche marine þ1962 The Sea-Bell
+! .o .     P     _TOLKIEN J.R.R.              Le Dernier Vaisseau þ1962 The Last Ship
+o PO_BIL  12821  2022.06 ..... ISBN 978-2-266-32743-5
+} pp12821        _?                           ?
+!--- YA - Poche - 108x178 - 240 pages - 7,40 euros
+- .oS.     r     _ORWELL George               La Ferme des animaux - Animal Farm þ1945 Animal Farm þTrad. RECOURSE Charles
+
 
 !-----------------------------------------------------------------------------
 !--- Pocket Agora
@@ -340,7 +388,8 @@ o PP_RHOD     ?  2014.02 ..... ISBN 978-2-266-24691-0
 &                _DARLTON Clark               
 o PP_RHOD     ?  2014.03 ..... ISBN 978-2-266-24845-7
 } noimg          _Guy Roger                   ?
-!--- Die Truppe der Berserker + Im Land der Riesen + Begegnung auf Zaltertepe + Invasion der Feuerkugeln þTrad. GIRARD AgnŠs
+!--- Die Truppe der Berserker + Im Land der Riesen + Begegnung auf Zaltertepe + Invasion der Feuerkugeln
+!--- Trad. GIRARD AgnŠs
 !--- [Cycle 15 : Citadelle cosmique - 4]
 - .oS.     R     _SCHEER K.H.                &Margor, grandeur et chute [Les Citadelles cosmiques - 4][Perry Rhodan - 309] þ1979 Murcons verm„chtnis þTrad. GIRARD AgnŠs
 &                _DARLTON Clark               
@@ -786,9 +835,15 @@ o PP_SW     121  2013.10 ..... ISBN 978-2-266-22813-8
 - .oS.     R     _GOLDEN Christie             Alli‚s [Le Destin des Jedi - 5][Star Wars] þ2010 Allies þTrad. DEMOULIN Axelle & ANCION Nicolas
 o PP_SW     122  2013.12 ..... ISBN 978-2-266-22814-5
 } noimg          _?                           ?
++ PP_SW     122  2021.05 ..... ISBN 978-2-266-22814-5
+} noimg          _Ian Keltie                  ?
+!--- Poche - 110x178 - 544 pages
 - .oS.     R     _DENNING Troy                Vortex [Le Destin des Jedi - 6][Star Wars] þ2010 Vortex þTrad. ARSON Thierry
 o PP_SW     123  2014.02 ..... ISBN 978-2-266-22815-2
 } noimg          _?                           ?
++ PP_SW     123  2021.05 ..... ISBN 978-2-266-22815-2
+} noimg          _? LucasArts                 ?
+!--- Poche - 108x178 
 - .oS.     R     _ALLSTON Aaron               Jugement [Le Destin des Jedi - 7][Star Wars] þ2011 Conviction þTrad. BRODHY Gabrielle
 o PP_SW     124  2014.04 ..... ISBN 978-2-266-22816-9
 } noimg          _?                           ?
@@ -797,6 +852,9 @@ o PP_SW     124  2014.04 ..... ISBN 978-2-266-22816-9
 - .oS.     R     _GOLDEN Christie             Ascension [Le Destin des Jedi - 8][Star Wars] þ2011 Ascension þTrad. DEMOULIN Axelle & ANCION Nicolas
 o PP_SW     125  2014.06 ..... ISBN 978-2-266-22817-6
 } noimg          _?                           ?
++ PP_SW     125  2021.05 ..... ISBN 978-2-266-22817-6
+} noimg          _? LucasArts                 ?
+!--- Poche - 108x178 - 640 pages
 - .oS.     R     _DENNING Troy                Apocalypse [Le Destin des Jedi - 9][Star Wars] þ2012 Apocalypse þTrad. ARSON Thierry
 o PP_SW     126  2014.08 ..... ISBN 978-2-266-25253-9
 } noimg          _? LucasArts                 ?
@@ -813,10 +871,13 @@ o PP_SW     129  2015.02 ..... ISBN 978-2-266-25597-4
 - .oS.     R     _LEBBON Tim                  L'Aube des Jedis [L'Aube des Jedi - 1][Star Wars] þ2013 Into the Void þTrad. BRODHY Gabrielle
 o PP_SW     130  2015.04 ..... ISBN 978-2-266-25598-1
 } noimg          _LucasArts                   ?
++ PP_SW     130  2021.05 ..... ISBN 978-2-266-25598-1
+} noimg          _? LucasArts                 ?
+!--- Poche - 108x178 - 448 pages
 - .oS.     R     _DENNING Troy                L'Ultime preuve [Le Destin des Jedi - 9][Star Wars] þ2013 Crucible þTrad. DEMOULIN Axelle & ANCION Nicolas
 o PP_SW     131  2015.08 ..... ISBN 978-2-266-25599-8
 } noimg          _? LucasArts                 ?
-- .oS.     R     _MILLER John Jackson         Kenobi [Star Wars] þ2013 Legends: Kenobi þTrad. ?
+- .oS.     R     _MILLER John Jackson         Kenobi [Star Wars] þ2013 Legends: Kenobi þTrad. JULIEN Sandy
 o PP_SW     132  2015.10 ..... ISBN 978-2-266-25600-1
 } noimg          _? LucasArts                 ?
 - .oS.     R     _SCHREIBER Joe               Maul : Prisonnier [Star Wars] þ2014 Darth Maul: Lockdown þTrad. Axelle Demoulin & Nicolas Ancion
@@ -878,7 +939,7 @@ o PP_SW     150  2015.10 ..... ISBN 978-2-266-26221-7
 o PP_SW     151  2015.11 ..... ISBN 978-2-266-26220-0
 } ppsw151        _LucasArts                   ?
 - .oS.    kR3    _ZAHN Timothy                La Croisade noire du Jedi fou - Int‚grale [La Croisade noire du jedi fou - 1/3][Star Wars] þ2015
-: .o .     R     _ZAHN Timothy                L'H‚ritier de l'empire [La Croisade noire du jedi fou - 1][Star Wars] þ1991 Heir of the Empire þTrad. DEMUTH Michel
+: .o .     R     _ZAHN Timothy                L'H‚ritier de l'empire [La Croisade noire du jedi fou - 1][Star Wars] þ1991 Heir to the Empire þTrad. DEMUTH Michel
 : .o .     R     _ZAHN Timothy                La Bataille des Jedi [La Croisade noire du jedi fou - 2][Star Wars] þ1993 Dark Force Rising þTrad. DEMUTH Michel
 : .o .     R     _ZAHN Timothy                L'Ultime Commandement [La Croisade noire du jedi fou - 3][Star Wars] þ1993 The Last Command þTrad. DEMUTH Michel
 o PP_SW     152  2016.11 ..... ISBN 978-2-266-27304-6
@@ -912,7 +973,7 @@ o PP_SW     157  2018.04 ..... ISBN 978-2-266-28355-7
 - .oS.     R     _DAWSON Delilah S.           Phasma [Voyage vers Star Wars ‚pisode VIII : Les Derniers Jedi][Star Wars] þ2017 Phasma þTrad. BETAN Julien
 o PP_SW     158  2018.04 ..... ISBN 978-2-266-28356-4
 } noimg          _?                           ?
-- .oS.     R     _FREED Alexander             Rogue One [Star Wars] þ2016 Rogue One þTrad. DEMOULIN Axelle & ANCION Nicolas
+- .oS.     R     _FREED Alexander             Rogue One [Rogue One][Star Wars] þ2016 Rogue One þTrad. DEMOULIN Axelle & ANCION Nicolas
 o PP_SW     159  2019.02 ..... ISBN 978-2-266-28357-1
 } noimg          _? Lucasarts                 ?
 - .oS.     R     _WENDIG Chuck                Chute de l'empire [Riposte - 3][Star Wars] þ2017 Empire's End þTrad. ANCION Nicolas & DEMOULIN Axelle
@@ -940,7 +1001,7 @@ o PP_SW     166  2019.04 ..... ISBN 978-2-266-29469-0
 o PP_SW     167  2020.02 ..... ISBN 978-2-266-30607-2
 } noimg          _(c)LucasArts                ?
 !--- Poche - 108 x 177 mm - 608 pages - 9.80 euros
-- .oS.     R     _FREED Alexander             L'Escadron alphabet [Star Wars] þ2019 Alphabet Squadron þTrad. ARSON Thierry
+- .oS.     R     _FREED Alexander             L'Escadron Alphabet [L'Escadron Alphabet - 1][Star Wars] þ2019 Alphabet Squadron þTrad. ARSON Thierry
 o PP_SW     168  2019.06 ..... ISBN 978-2-266-29528-4
 } noimg          _? Lucasarts                 ?
 - .oS.     R     _ZAHN Timothy                Alliances [Thrawn - 2][Star Wars] þ2018 Alliances þTrad. GALLIOT Lucile
@@ -973,7 +1034,67 @@ o PP_SW     175  2020.12 ..... ISBN 978-2-266-30727-7
 o PP_SW     176  2020.12 ..... ISBN 978-2-266-29948-0
 } noimg          _? Lucasarts                 ?
 !--- Poche - 108 x 177 mm - 336 pages - 9.50 euros
-- .oS.     R     _JOHNSTON Emily Kate         L'Ombre de la reine [Star Wars] þ2019 Queen's Shadow þTrad. JULIEN Sandy
+- .oS.     R     _JOHNSTON Emily Kate         L'Ombre de la reine [La Trilogie de Padm‚ - 1][Star Wars] þ2019 Queen's Shadow þTrad. JULIEN Sandy
+o PP_SW     177  2021.02 ..... ISBN 978-2-266-29207-8
+} noimg          _(c)LucasArts                ?
+!--- Poche - 108 x 178 - 400 pages
+- .oS.     R     _GRAY Claudia                Leia : Princesse d'Alderaan [Voyage vers Star Wars ‚pisode VIII : Les Derniers Jedi][Star Wars] þ2017 Leia: Princess of Alderaan þTrad. ANCION Nicolas
+o PP_SW     178  2021.03 ..... ISBN 978-2-266-31789-4
+} noimg          _(c)LucasArts                ?
+!--- Poche - 108 x 178 - 512 pages - 9,50 euros
+- .oS.     R     _SOULE Charles               La LumiŠre des Jedi [La Haute R‚publique - 1][Star Wars] þ2021 Light of the Jedi þTrad. JULIEN Sandy & GALLIOT Lucile
+o PP_SW     179  2021.04 ..... ISBN 978-2-266-31549-4
+} noimg          _(c)LucasArts                ?
+!--- Poche - 108 x 178 - 448 pages - 9,50 euros
+- .oS.     R     _GRAY Claudia                En pleines t‚nŠbres [La Haute R‚publique (YA) - 1][Star Wars] þ2021 Into the Dark þTrad. BETAN Julien
+o PP_SW     180  2021.06 ..... ISBN 978-2-266-31606-4
+} noimg          _?                           ?
+!--- YA - Poche - 108x178 
+- .oS.     R     _SEGURA Alex                 Poe Dameron - Chute Libre [Star Wars] þ2020 Poe Dameron: Free Fall þTrad. DEMOULIN Axelle & ANCION Nicolas
+o PP_SW     181  2021.07 ..... ISBN 978-2-266-31607-1
+} noimg          _Andr‚e Wallin               ?
+!--- Poche - 108x178 - 368 pages
+- .oS.     F     _CARSON Rae                  L'Ascension de Skywalker [La TroisiŠme Trilogie - 3][Star Wars] þ2019 The Rise of Skywalker þTrad. ANCION Nicolas & DEMOULIN Axelle
+o PP_SW     182  2021.08 ..... ISBN 978-2-266-31605-7
+} noimg          _? LucasArts                 ?
+!--- Poche - 108x178 
+- .oS.     R     _FREED Alexander             O— l'ombre s'abat [L'Escadron Alphabet - 2][Star Wars] þ2020 Shadow Fall þTrad. ARSON Thierry
+o PP_SW     183  2021.11 ..... ISBN 978-2-266-31824-2
+} noimg          _Magali Villeneuve           ?
+!--- Poche - 108x178 
+- .oS.     R     _ZAHN Timothy                Chaos croissant [Thrawn l'Ascendance - 1][Star Wars] þ2020 Chaos Rising þTrad. RENAUD Thomas & GALLIOT Lucille
+o PP_SW     184  2021.12 ..... ISBN 978-2-266-31825-9
+} noimg          _(c)Pilot Studio             ?
+!--- Poche - 108x178 - 9,50 euros
+- .oS.     R     _GRAY Claudia                toiles perdues [Voyage vers Star Wars : Le r‚veil de la Force - 4][Star Wars] þ2015 Lost Stars þTrad. ANCION Nicolas & DEMOULIN Axelle
+o PP_SW     185  2022.01 ..... ISBN 978-2-266-32493-9
+} noimg          _Joseph Meehan               ?
+!--- Poche - 108 x 178 - 560 pages - 9,50 euros
+- .oS.     R     _SCOTT Cavan                 L'orage gronde [La Haute R‚publique - 2][Star Wars] þ2021 The Rising Storm þTrad. JULIEN Sandy
+o PP_SW     186  2022.02 ..... ISBN 978-2-266-32494-6
+} noimg          _Ario Anindito & Grzegorz Krysinski ?
+!--- Poche - 108 x 178 - 400 pages - 9,50 euros
+- .oS.     R     _IRELAND Justina             Hors de l'ombre [La Haute R‚publique (YA) - 2][Star Wars] þ2021 Out of the Shadows þTrad. BETAN Julien
+o PP_SW     187  2022.05 ..... ISBN 978-2-266-32495-3
+} noimg          _Magali Villeneuve           ?
+!--- Poche - 108 x 178 - 608 pages - 9,90 euros
+- .oS.     R     _ZAHN Timothy                Bien commun [Thrawn l'Ascendance - 2][Star Wars] þ2021 Greater Good þTrad. RENAUD Thomas & GALLIOT Lucille
+o PP_SW     188  2022.06 ..... ISBN 978-2-266-32498-4
+} noimg          _Jama Jurabaev               ?
+!--- Poche - 108 x 178 - 464 pages - 9,50 euros
+- .oS.     R     _GRAY Claudia                La Chute de l'‚toile [La Haute R‚publique - 3][Star Wars] þ2022 The Fallen Star þTrad. JULIEN Sandy
+o PP_SW     189  2022.08 ..... ISBN 978-2-266-32499-1
+} noimg          _Cristiano Spadoni & Ornella Savarese & Gregor Krysinski ?
+!--- Poche - 108 x 178 - 480 pages - 9,50 euros
+- .oS.     R     _OLDER Daniel Jos‚           Horizon funŠbre [La Haute R‚publique (YA) - 3][Star Wars] þ2022 Midnight Horizon þTrad. BETAN Julien
+o PP_SW     190  2022.11 ..... ISBN 978-2-266-32496-0
+} noimg          _Tara Philips                ?
+!--- Poche - 108 x 178 - 288 pages - 9,50 euros
+- .oS.     R     _JOHNSTON Emily Kate         Le P‚ril de la reine [La Trilogie de Padm‚ - 2][Star Wars] þ2020 Queen's Peril þTrad. NODOT KAUFMAN Claire
+o PP_SW     191  2022.12 ..... ISBN  978-2-266-32497-7
+} noimg          _?                           ?
+!--- Poche - 108 x 178 - 672 pages - 10,00 euros
+- .oS.     R     _FREED Alexander             Le Prix de la victoire [L'Escadron Alphabet - 3][Star Wars] þ2021 Victory's Price þTrad. ?
 
 !-----------------------------------------------------------------------------
 !--- Les Stars Wars semblent les seuls non ‚tiquet‚s "poche" mais num‚rot‚s
@@ -1021,6 +1142,9 @@ o PP_KID     18  1994.xx ..... ISBN 2-266-05174-6
 : .o .     N     _STAMPER J.B.                La Chasse au dahut þ1989 Snipe Hunt
 o PP_JUN     19  1994.xx ..... ISBN 2-266-00378-X 
 } noimg          _?                           ?
++ PP_JEUP    19  2021.08 ..... ISBN 978-2-266-31140-3
+} noimg          _?                           ?
+!--- YA - Poche - 108x178 - 416 pages
 - .oS.     R     _BARJAVEL Ren‚               La Nuit des temps þ1968
 o PP_JUN     26  1995.xx ..... ISBN 2-266-00464-6
 } noimg          _?                           ?
@@ -1041,7 +1165,7 @@ o PP_JUN     29  1994.xx ..... ISBN 2-266-00430-1
 } noimg          _?                           ?
 + PP_JUN     29  1998.11 ..... ISBN 2-266-08551-4
 } noimg          _?                           ?
-- .oF.     R     _BARKER Clive                Le Voleur d'‚ternit‚ þ1992 The Thief of Always þTrad. BAUDURET  Thomas
+- .oF.     R     _BARKER Clive                Le Voleur d'‚ternit‚ þ1992 The Thief of Always þTrad. BAUDURET Thomas
 o PP_KID     37  1994.xx ..... ISBN 2-266-00753-X
 } noimg          _?                           ?
 + PP_JUN     37  1999.06 ..... ISBN 2-266-08857-2
@@ -1057,12 +1181,24 @@ o PP_JUN     48  1994.xx ..... ISBN 2-266-00682-7
 - .oS.     R     _BOULLE Pierre               La PlanŠte des singes þ1963
 o PP_JUN     50  1994.05 ..... ISBN 2-266-06211-5
 } noimg          _Christophe Kro              ?
-- .oS.     R     _NORTON Andr‚                L'Arche du temps [Les Aventuriers du monde magique - 1] þ1963 Witch World þTrad. DUPREUX Gilles
+- .oS.     R     _NORTON Andre                L'Arche du temps [Les Aventuriers du monde magique - 1] þ1963 Witch World þTrad. DUPREUX Gilles
 o PP_KID     55  1994.xx ..... ISBN 2-266-00747-5
 } noimg          _Tove Jansson                ?
 + PP_JUN     55  1999.xx ..... ISBN 2-266-08855-6
 } noimg          _Tove Jansson                ?
 - .oY.     R     _JANSSON Tove                Moumine le troll [Moumine le troll - 3] þ1948 Trollkarlens hatt þTrad. CHAPLET Kersti et Pierre
+o PP_JMYT    58  1994.xx ..... ISBN 2-266-00683-5
+} noimg          _Jo‰l Bordier                Dominique Fage
+!--- 193 pages - 18 cm - 29,00 francs
+- .oN.    _N7    _CAMIGLIERI Laurence         L‚gendes des Chevaliers de la Table Ronde þ1976
+: .o .     p     _CAMIGLIERI Laurence         Avant-Propos þ1976
+: .o .     N     _CAMIGLIERI Laurence         Merlin l'Enchanteur þ1976
+: .o .     N     _CAMIGLIERI Laurence         L'Enfance de Lancelot þ1976
+: .o .     N     _CAMIGLIERI Laurence         Les Amours de Lancelot du Lac þ1976
+: .o .     N     _CAMIGLIERI Laurence         Galehaut, sire des Œles lointaines þ1976
+: .o .     N     _CAMIGLIERI Laurence         Le Chevalier … la charrette þ1976
+: .o .     N     _CAMIGLIERI Laurence         Le Chƒteau aventureux þ1976
+: .o .     N     _CAMIGLIERI Laurence         La Mort d'Artus þ1976
 o PP_JUN     59  1994.xx ..... ISBN 2-266-00724-5
 } noimg          _?                           ?
 + PP_JUN     59  1998.xx ..... ISBN 2-266-08496-8
@@ -1081,6 +1217,9 @@ o PP_JUN     71  1994.xx ..... ISBN 2-266-00467-0
 } noimg          _?                           ?
 + PP_JUN     71  2001.xx ..... ISBN 2-266-11313-5
 } noimg          _?                           ?
++ PP_JEUP    71  2021.08 ..... ISBN 978-2-266-31141-0
+} noimg          _?                           ?
+!--- YA - Poche - 108x178 - 320 pages
 - .oS.     R     _HUXLEY Aldous               Le Meilleur des mondes þ1932 Brave New World þTrad. CASTIER Jules
 o PP_JUN     75  1994.xx ..... ISBN 2-266-06274-3
 } noimg          _?                           ?
@@ -1097,7 +1236,7 @@ o PP_JUN     77  1994.xx ..... ISBN 2-266-06303-0
 - .oF.     R     _SOMTOW S.P.                 Messages de l'au-del… þ1987 Forgetting places þTrad. CALIFANO Claude
 o PP_JUN     86  1995.xx ..... ISBN 2-266-06280-8
 } noimg          _?                           ?
-- .oS.     R     _NORTON Andr‚                La Vall‚e dans l'ombre [Les Aventuriers du monde magique - 2] þ1964 Web of the Witch World þTrad. DUPREUX Gilles
+- .oS.     R     _NORTON Andre                La Vall‚e dans l'ombre [Les Aventuriers du monde magique - 2] þ1964 Web of the Witch World þTrad. DUPREUX Gilles
 o PP_JUN     87  1994.xx ..... ISBN 2-266-06142-9
 } noimg          _?                           ?
 + PP_JUN     87  1999.xx ..... ISBN 2-266-09290-1
@@ -1115,7 +1254,7 @@ o PP_JUN     99  1995.xx ..... ISBN 2-266-08544-1
 } noimg          _?                           ?
 + PP_JUN     99  1998.xx ..... ISBN 2-266-08544-1
 } noimg          _?                           ?
-- .oF.     R     _DREADSTONE Carl             La Fianc‚e de Frankenstein þ1977 The bride of Frankenstein þTrad. GIULIANI Pierre
+- .oF.     R     _DREADSTONE Carl             La Fianc‚e de Frankenstein þ1977 The Bride of Frankenstein þTrad. GIULIANI Pierre
 !------------------------
 !--- --- 100
 !------------------------
@@ -1151,7 +1290,7 @@ o PP_KID    142  1994.xx ..... ISBN 2-266-06645-5
 - .oS.     R     _COVILLE Bruce               Mon prof s'allume dans le noir [Mon prof est un extraterrestre - 3] þ1991 My Teacher Gloves in the Dark þTrad. MEDINA Jean-Baptiste
 o PP_JUN    145  1995.xx ..... ISBN 2-266-06281-6
 } noimg          _?                           ?
-- .o .     R     _NORTON Andr‚                L'Ann‚e de la licorne [Les Aventuriers du monde magique - 3] þ1965 Year of the unicorn þTrad. DUPREUX Gilles
+- .o .     R     _NORTON Andre                L'Ann‚e de la licorne [Les Aventuriers du monde magique - 3] þ1965 Year of the unicorn þTrad. DUPREUX Gilles
 o PP_JUN    146  1995.xx ..... ISBN 2-266-05798-7
 } noimg          _?                           ?
 + PP_JUN    146  1998.xx ..... ISBN 2-266-06857-1
@@ -1210,7 +1349,7 @@ o PP_KID    198  1995.11 ..... ISBN 2-266-06709-5
 - .oS.     R     _COVILLE Bruce               Mon prof a bousill‚ la planŠte [Mon prof est un extraterrestre - 4] þ1992 My Teacher Flunked the Planet þTrad. MEDINA Jean-Baptiste
 o PP_JUN    199  1996.xx ..... ISBN 2-266-06282-4
 } noimg          _?                           ?
-- .o .     R     _NORTON Andr‚                Les Montagnes de l'oubli [Les Aventuriers du monde magique - 4] þ1965 Three against the Witch World þTrad. DUPREUX Gilles
+- .o .     R     _NORTON Andre                Les Montagnes de l'oubli [Les Aventuriers du monde magique - 4] þ1965 Three against the Witch World þTrad. DUPREUX Gilles
 !------------------------
 !--- --- 200
 !------------------------
@@ -1220,14 +1359,14 @@ o PP_JUN    200  1995.11 ..... ISBN 2-266-07082-7
 } noimg          _?                           ?
 - .oF.     R     _PIERCE Richard              La Cr‚ation [Les Enfants de Frankenstein - 1] þ1994 The Creation þTrad. CHARRIER Michelle
 o PP_JUN    205  1996.xx ..... ISBN 2-266-07010-X
-} noimg          _?                           ?
+} pj0205         _?                           ?
 + PP_JUN    205  1998.xx ..... ISBN 2-266-08650-2
-} noimg          _?                           ?
+} pj0205r98      _?                           ?
 - .oF.    iNx    _HAWTHORNE Nathaniel         Le Premier Livre des merveilles þ1953 Tanglewood Tales þTrad. LEYRIS Pierre
 o PP_JUN    206  1996.xx ..... ISBN 2-266-07092-4
-} noimg          _?                           ?
+} pj0206         _?                           ?
 + PP_JUN    206  1998.xx ..... ISBN 2-266-08649-9
-} noimg          _?                           ?
+} pj0206r98      _?                           ?
 - .oF.    iNx    _HAWTHORNE Nathaniel         Le Second Livre des merveilles ((Le Premier Livre des merveilles)) þ1953 Tanglewood Tales þTrad. LEYRIS Pierre
 o PP_JUN    208  1996.xx ..... ISBN 2-266-05859-2
 } noimg          _?                           ?
@@ -1288,7 +1427,7 @@ o PP_JUN    257  1996.xx ..... ISBN 2-266-07294-3
 - .oY.    _N4    _TOLKIEN J.R.R.              DeuxiŠme ƒge [Contes et l‚gendes inachev‚s - 2] þ1980 Unfinished Tales of N£menor and Middle Earth þTrad. JOLAS Tina
 : .oY.     N     _TOLKIEN J.R.R.              Une description de l'Œle de N£menor þ1980 A Description of the Island of N£menor þTrad. JOLAS Tina
 : .oY.     N     _TOLKIEN J.R.R.              Aldarion et Erendis þ1980 Aldarion and Erendis: The Mariner's Wife þTrad. JOLAS Tina
-: .oY.     N     _TOLKIEN J.R.R.              La Lign‚e d'Elros : les rois de N£menor þ1980  The Line of Elros: Kings of N£menor from the Founding of the City of Armenelos to the Downfall þTrad. JOLAS Tina
+: .oY.     N     _TOLKIEN J.R.R.              La Lign‚e d'Elros : les rois de N£menor þ1980 The Line of Elros: Kings of N£menor from the Founding of the City of Armenelos to the Downfall þTrad. JOLAS Tina
 : .oY.     N     _TOLKIEN J.R.R.              L'Histoire de Galadriel et Celeboen, et d'Amroth, roi de L¢rien þ1980 The History of Galadriel and Celeborn and of Amroth King of L¢rien þTrad. JOLAS Tina
 o PP_JUN    258  1996.xx ..... ISBN 2-266-07295-1
 } pj0258         _?                           ?
@@ -1316,7 +1455,7 @@ o PP_JUN    263  1996.xx ..... ISBN 2-266-06881-4
 - .oS.     R     _DAVIDS Paul & Hollace       Le Destin du prince Jedi [La Saga du prince Ken - 6][Star Wars] þ1995 Prophets of the Dark Side þTrad. GUILLAUME Rosalie
 o PP_JUN    264  1996.xx ..... ISBN 2-266-06283-2
 } noimg          _?                           ?
-- .o .     R     _NORTON Andr‚                Kemoc le prodigieux [Les Aventuriers du monde magique - 5] þ1967 Warlock of the Witch World þTrad. DUPREUX Gilles
+- .o .     R     _NORTON Andre                Kemoc le prodigieux [Les Aventuriers du monde magique - 5] þ1967 Warlock of the Witch World þTrad. DUPREUX Gilles
 o PP_JUN    265  1996.xx ..... ISBN 2-266-07449-0
 } noimg          _?                           ?
 + PP_JUN    265  1998.xx ..... ISBN 2-266-08498-4
@@ -1326,7 +1465,7 @@ o PP_KID    267  1997.xx ..... ISBN 2-266-07268-4
 } noimg          _?                           ?
 + PP_JUN    267  1999.xx ..... ISBN 2-266-08677-4
 } noimg          _?                           ?
-- .oF.     R     _PIASECKI Jerry              Bon sang, le prof est un vampire ! þ1995 Teacher Vic Is a Vampire! þTrad. MUHLEISEN Laurent
+- .oF.     R     _PIASECKI Jerry              Bon sang, le prof est un vampire ! þ1995 Teacher Vic Is a Vampire... Retired þTrad. MUHLEISEN Laurent
 o PP_JUN    271  1997.xx ..... ISBN 2-266-09787-3
 } noimg          _?                           ?
 + PP_JUN    271  1999.09 ..... ISBN 2-266-09787-3
@@ -1334,7 +1473,7 @@ o PP_JUN    271  1997.xx ..... ISBN 2-266-09787-3
 - .oS.     R     _GOLDEN Christopher          Les Ombres de l'empire [Star Wars] þ1995 Shadows of the Empire þTrad. DUPREUX Gilles
 o PP_JUN    277  1997.02 ..... ISBN 2-266-07555-1
 } noimg          _S‚verine Pineaux            ?
-- .oF.     R     _GRANT Charles L.            Hypnose þ1993 He Told Me To þTrad. CHARRIER Michelle
+- .oF.     R     _GRANT Charles L.            Hypnose þ1993 He Told Me to þTrad. CHARRIER Michelle
 o PP_JUN    279  1997.xx ..... ISBN 2-266-07328-1
 } noimg          _?                           ?
 - .oF.     R     _FRY Rosalie                 Le Secret de Roan Inish þ1928 The Secret of the Ron Mor Skerry þTrad. BAUDURET Thomas
@@ -1843,7 +1982,7 @@ o PP_JUN    377  1998.xx ..... ISBN 2-266-08179-9
 &                _ENGLE Marty                 
 o PP_JUN    378  1998.xx ..... ISBN 2-266-08189-6
 } noimg          _?                           ?
-- .oS.     R     _BARNES Johnny Ray          &Les Profondeurs de Watanga [Paranormal - 6] þ1995 The Last One In þTrad. JUSFORGUES Pascale
+- .oS.     R     _BARNES Johnny Ray          &Les Profondeurs de Watanga [Paranormal - 6] þ1995 The Last One in þTrad. JUSFORGUES Pascale
 &                _ENGLE Marty                 
 o PP_JUN    379  1998.xx ..... ISBN 2-266-08034-2
 } noimg          _?                           ?
@@ -1857,7 +1996,7 @@ o PP_KID    388  1998.xx ..... ISBN 2-266-08080-6
 } noimg          _?                           ?
 + PP_KID    388  1999.12 ..... ISBN 2-266-09542-0
 } noimg          _?                           ?
-- .oS.     R     _COVILLE Bruce               Bleurk l'enquiquineur de l'espace [Bleurk - 1] þ1992 Space Brat þTrad. CHAINE  Catherine
+- .oS.     R     _COVILLE Bruce               Bleurk l'enquiquineur de l'espace [Bleurk - 1] þ1992 Space Brat þTrad. CHAINE Catherine
 o PP_JUN    390  1998.xx ..... ISBN 2-266-08159-4
 } noimg          _?                           ?
 - .oS.     R     _L'ENGLE Madeleine           Un raccourci dans le temps [Un raccourci dans le temps - 1] þ1962 A Wrinkle in Time þTrad. CRICHTON Anne
@@ -1916,11 +2055,11 @@ o PP_KID    407  1998.06 ..... ISBN 2-266-08098-4
 } noimg          _?                           ?
 + PP_KID    407  1998.11 ..... ISBN 2-266-09109-3
 } noimg          _?                           ?
-- .oF.    iNx    _DEMOUZON Alain              Le G‚nie dans une boite de coca et autres contes du gobe-mouche þ1990
+- .oF.    iNx    _DEMOUZON Alain              Le G‚nie dans une boŒte de coca et autres contes du gobe-mouche þ1990
 o PP_KID    408  1998.06 ..... ISBN 2-266-08099-7
-} noimg          _?                           ?
+} pj0408         _?                           ?
 + PP_KID    408  1998.11 ..... ISBN 2-266-09110-7
-} noimg          _?                           ?
+} pj0408r98      _?                           ?
 - .oF.    iNx    _DEMOUZON Alain              La SorciŠre du cong‚lateur et autres contes du gobe-mouche þ1990
 o PP_KID    409  1998.xx ..... ISBN 2-266-07922-0
 } noimg          _?                           ?
@@ -1934,9 +2073,9 @@ o PP_JUN    413  1998.xx ..... ISBN 2-266-08453-4
 } noimg          _?                           ?
 - .o .     F     _DUBOWSKI Cathy East         Flubber þ1998 Flubber þTrad. BOUCHAREINE Christine
 o PP_JUN    418  1998.xx ..... ISBN 2-266-08100-4
-} noimg          _?                           ?
+} pj0418         _?                           ?
 + PP_JUN    418  2003.09 ..... ISBN ?
-} noimg          _?                           ?
+} pj0418rr03     _?                           ?
 - .o .    iNx    _DEMOUZON Alain              Contes d'Excalibur þ1993
 o PP_JUN    419  1998.xx ..... ISBN 2-266-08414-3
 } noimg          _?                           ?
@@ -1956,7 +2095,7 @@ o PP_JUN    436  1998.xx ..... ISBN 2-266-08040-7
 - .oF.     R     _HAYNES Betsy                Des monstres trŠs collants [Froid dans le dos - 10] þ1996 Night of the Living Clay þTrad. MUHLEISEN Laurent
 o PP_JUN    442  1998.xx ..... ISBN 2-266-08361-9
 } noimg          _?                           ?
-- .o .     R     _PRATCHETT Terry             Johnny et les morts [Johnny Maxwell - 2] þ1993 Johnny and the Deads þTrad. COUTON Patrick
+- .o .     R     _PRATCHETT Terry             Johnny et les morts [Johnny Maxwell - 2] þ1993 Johnny and the Dead þTrad. COUTON Patrick
 o PP_JUN    443  1998.xx ..... ISBN 2-266-08416-X 
 } noimg          _?                           ?
 - .oF.     R     _PIKE Christopher            Les Voleurs de vie [Spooksville - 15] þ1997 Invasion of the No Ones þTrad. MALLE Jean-Claude
@@ -1975,11 +2114,11 @@ o PP_JUN    452  1999.xx ..... ISBN 2-266-08998-6
 } noimg          _?                           ?
 !--- 18 cm - 160 pages - 30 Fr.
 - .xP.     A5    *HITCHCOCK Alfred            Cinq crimes en eaux troubles þ1999
-: .x .     N     _ALTER Robert Edmond         Malencontres þ1954 A Habit for the Voyage
-: .! .     N     _HARDWICK Richard            La Pˆche miraculeuse þ? ?
-: .! .     N     _HARDWICK Richard            Mar‚e haute þ1963 High Tide
+: .x .     N     _ALTER Robert Edmond         Malencontres þ1964 A Habit for the Voyage
+: .x .     N     _HARDWICK Richard            La Pˆche miraculeuse þ1966 The Deep Six
+: .x .     N     _HARDWICK Richard            Mar‚e haute þ1963 High Tide
 : .x .     N     _BRITTAIN William            Joshua þ1964 Joshua
-: .! .     N     _ALTER Robert Edmond         Un rire sauvage þ1964 Echo of a Savage
+: .x .     N     _ALTER Robert Edmond         Un rire sauvage þ1964 Echo of a Savage
 o PP_JUN    453  1999.xx ..... ISBN 2-266-08178-0
 } noimg          _?                           ?
 - .oF.     R     _STEIBER Ellen               La Lande ensorcel‚e þ1994 Fangs of Evil þTrad. BOUIN Anne
@@ -2219,8 +2358,8 @@ o PP_JUN    593  2000.xx ..... ISBN 2-266-10038-6
 - .pP.     A5    *HITCHCOCK Alfred            Cinq suspects sous surveillance þ2000
 : .? .     N     _DEAL Borden                 Le Gros Coup þ1961 A Try for the Big Prize
 : .x .     N     _ACKWORTH Robert C.          Le Tueur d'‚bŠne þ1962 Ebony Killer
-: .? .     N     _WELLEN Edward               L'Identification þ? ?
-: .? .     N     _HOCH Edward D.              Le Ring aux cordes de velours þ1968 The Ring With The Velvet Ropes
+: .? .     N     _WELLEN Edward               L'Identification þ1959 Which One's the Guilty One?
+: .? .     N     _HOCH Edward D.              Le Ring aux cordes de velours þ1968 The Ring with the Velvet Ropes
 : .! .     N     _HOWARD Clark                Une fortune … flamber þ1962 Money to Burn þTrad. LEMERLE Sylvette
 o PP_JUN    594  2000.xx ..... ISBN 2-266-09979-5
 } noimg          _?                           ?
@@ -2244,7 +2383,7 @@ o PP_JUN    601  2000.xx ..... ISBN 2-266-09841-1
 } noimg          _?                           ?
 - .oS.     R     _WHITMAN John                Le Vaisseau de l'enfer [Galaxie de la peur - 10][Star Wars] þ1998 Doomsday Ship þTrad. PIECE MichŠle
 o PP_KID    603  2000.xx ..... ISBN 2-266-10156-0
-} noimg          _?                           ?
+} noimg          _Dylan Pelot                 Dylan Pelot
 - .oF.     R     _GUDULE                      Le Vampire du CE1 þ2000
 o PP_JUN    609  2000.xx ..... ISBN 2-266-10277-X 
 } noimg          _?                           ?
@@ -2521,8 +2660,8 @@ o PP_JUN    791  2002.03 ..... ISBN 2-266-09923-X
 !--- --- 800
 !------------------------
 o PP_JUN    805  2002.05 ..... ISBN 2-266-11711-4
-} noimg          _?                           ?
-- .oF.    iN8    ****                         Un d‚fi pour Sabrina [Sabrina l'apprentie sorciŠre - 14] þ1999 Eight Spells a Week þTrad. FERRIER Bertrand
+} pj0805         _?                           ?
+- .oF.    iNx    ****                         Un d‚fi pour Sabrina [Sabrina l'apprentie sorciŠre - 14] þ1999 Eight Spells a Week þTrad. FERRIER Bertrand
 o PP_JUN    810  2002.06 ..... ISBN 2-266-11687-8
 } noimg          _?                           ?
 - .oF.     R     _NOONAN Rosalind             Quand le pass‚ revient [Charmed - 4] þ2000 Whispers from the Past þTrad. CARTON Dominique et ATTUCI Josiane
@@ -2917,7 +3056,7 @@ o PP_JEUP  1327  2004.08 ..... ISBN 2-266-14266-6
 - .oF.     R     _GALLAGHER Diana G.          La Ceinture sacr‚e [Charmed - 12] þ2002 Spirit of the Wolf þTrad. MANTRAN Florence & SIMON Nouannipha
 o PP_JA    1331  2004.xx ..... ISBN 2-266-14307-7
 } noimg          _?                           ?
-+ PP_JA    1331  2012.xx ..... ISBN  978-2-266-14307-3
++ PP_JA    1331  2012.xx ..... ISBN 978-2-266-14307-3
 } noimg          _?                           ?
 - .o .     R     _LEWIS Roy                   Pourquoi j'ai mang‚ mon pŠre þ1960 What We Did to Father / The Evolution Man þTrad. BARISSE Vercord et Rita
 o PP_JEUP  1346  2005.xx ..... ISBN 2-266-14380-8
@@ -3046,7 +3185,7 @@ o PP_JEUP  1553  2006.xx ..... ISBN 2-266-15372-2
 o PP_JEUP  1554  2006.xx ..... ISBN 2-266-15373-0
 } noimg          _?                           ?
 - .oZ.     R     _REYNAUD Florence            Les Chevaux des roches noires [Yona, fille de la pr‚histoire - 6] þ2006
-o PP_JEUP  1570  2006.xx ..... ISBN  2-266-15448-6
+o PP_JEUP  1570  2006.xx ..... ISBN 2-266-15448-6
 } noimg          _?                           ?
 - .oY.     R     _KESSLER Liz                 mily la sirŠne [Emily - 1] þ2003 The Tail of Emily Windsnap þTrad. ?
 o PP_JEUP  1571  2005.05 ..... ISBN 2-266-15449-4
@@ -3239,16 +3378,16 @@ o PP_JEUP  1906  2012.06 ..... ISBN 978-2-266-17456-5
 - .oY.     R     _HOTTE Sylvain               La Mal‚diction [Darhan - 4] þ2007
 o PP_JEUP  1914  2008.02 ..... ISBN 978-2-266-17476-3
 } noimg          _?                           ?
-- .oF.     R     _FARSHTEY Greg               L'Œle de la damnation [L‚gendes - 1][Bionicle] þ2006 Island of Doom þTrad. PILOTTO
+- .oF.     R     _FARSHTEY Greg               L'Œle de la damnation [Bionicle L‚gendes - 1][Bionicle] þ2006 Island of Doom þTrad. PILOTTO
 o PP_JEUP  1915  2008.02 ..... ISBN 978-2-266-17478-7
 } noimg          _?                           ?
-- .oF.     R     _FARSHTEY Greg               Sombre destin [L‚gendes - 2][Bionicle] þ2006 Dark Destiny þTrad. PILOTTO H‚lŠne
+- .oF.     R     _FARSHTEY Greg               Sombre destin [Bionicle L‚gendes - 2][Bionicle] þ2006 Dark Destiny þTrad. PILOTTO H‚lŠne
 o PP_JEUP  1916  2008.06 ..... ISBN 978-2-266-17479-4
 } noimg          _?                           ?
-- .oF.     R     _FARSHTEY Greg               Jeux de pouvoir [L‚gendes - 3][Bionicle] þ2006 Power Play þTrad. PILOTTO H‚lŠne
+- .oF.     R     _FARSHTEY Greg               Jeux de pouvoir [Bionicle L‚gendes - 3][Bionicle] þ2006 Power Play þTrad. PILOTTO H‚lŠne
 o PP_JEUP  1917  2008.11 ..... ISBN 978-2-266-17480-0
 } noimg          _?                           ?
-- .oF.     R     _FARSHTEY Greg               L'Incarnation du mal [L‚gendes - 4][Bionicle] þ2006 Legacy of Evil þTrad. PILOTTO H‚lŠne
+- .oF.     R     _FARSHTEY Greg               L'Incarnation du mal [Bionicle L‚gendes - 4][Bionicle] þ2006 Legacy of Evil þTrad. PILOTTO H‚lŠne
 o PP_JEUP  1920  2007.10 ..... ISBN 978-2-266-17502-9
 } noimg          _?                           ?
 - .oY.     R     _RODDA Emily                 La Caverne de la peur [La Quˆte de Deltora 2 - 1][La Quˆte de Deltora] þ2002 Deltora Shadowlands: Cavern of the Fear þTrad. POULAIN Christiane
@@ -3360,10 +3499,10 @@ o PP_JEUP  1989  2008.12 ..... ISBN 978-2-266-18023-8
 - .oY.     R     _ABBOTT Tony                 La Cit‚ de Tarkoum [Le Monde de Droon - 11] þ2001 The Hawk Bandits of Tarkoom þTrad. BUDON Florence
 o PP_JEUP  1990  2009.03 ..... ISBN 978-2-266-18024-5
 } noimg          _Tim Jessell                 ?
-- .oY.     R     _ABBOTT Tony                 La SorciŠre du fond des mers [Le Monde de Droon - 12] þ2001 Under The Serpent Sea þTrad. SERVAL Nathalie
+- .oY.     R     _ABBOTT Tony                 La SorciŠre du fond des mers [Le Monde de Droon - 12] þ2001 Under the Serpent Sea þTrad. SERVAL Nathalie
 o PP_JEUP  1991  2008.05 ..... ISBN 978-2-266-18025-2
 } noimg          _?                           ?
-- .oY.     R     _RODDA Emily                 Le Nid du Dragon [La Quˆte de Deltora III - 1][La Quˆte de Deltora] þ2004 Dragon's Nest þTrad. POULAIN Christiane
+- .oY.     R     _RODDA Emily                 Le Nid du dragon [La Quˆte de Deltora III - 1][La Quˆte de Deltora] þ2004 Dragon's Nest þTrad. POULAIN Christiane
 o PP_JEUP  1993  2008.05 ..... ISBN 978-2-266-18026-9
 } noimg          _?                           ?
 - .oY.     R     _RODDA Emily                 La Porte de l'ombre [La Quˆte de Deltora III - 2][La Quˆte de Deltora] þ2004 Shadowgate þTrad. POULAIN Christiane
@@ -3519,7 +3658,7 @@ o PP_JEU   2100  2009.10 ..... ISBN 978-2-266-18848-7
 - .oY.     R     _LASKY Kathryn               Le Devin [Les Gardiens de Ga'Hoole - 9] þ2006 The First Collier þTrad. MORAN C‚cile
 o PP_JEU   2101  2010.04 ..... ISBN 978-2-266-18849-4
 } noimg          _Richard Cowdrey             ?
-- .oY.     R     _LASKY Kathryn               Le Prince [Les Gardiens de Ga'Hoole - 10] þ2006 The Coming Of Hoole þTrad. MORAN C‚cile
+- .oY.     R     _LASKY Kathryn               Le Prince [Les Gardiens de Ga'Hoole - 10] þ2006 The Coming of Hoole þTrad. MORAN C‚cile
 o PP_JEU   2102  2010.07 ..... ISBN 978-2-266-18850-0
 } noimg          _Richard Cowdrey             ?
 - .oY.     R     _LASKY Kathryn               La Reconquˆte [Les Gardiens de Ga'Hoole - 11] þ2006 To Be a King þTrad. MORAN C‚cile
@@ -3572,12 +3711,12 @@ o PP_JEUP  2157  2013.04 ..... ISBN 978-2-266-23601-0
 - .oY.     R     _BRENNAN Herbie              La Reine du royaume [La Guerre des f‚es - 3] þ2006 Ruler of the Realm þTrad. FRAISSE Fr‚d‚rique
 o PP_JEUC  2159  2009.xx ..... ISBN 978-2-266-19058-9
 } noimg          _?                           ?
-!--- þTrad. COLLOGNAT-BARES Annie
-- .oF.     R     _HOMERE                      L'Iliade et l'Odyss‚e þ? 
+!--- Trad. COLLOGNAT-BARES Annie
+- .oF.     R     _HOMERE                      L'Iliade et l'Odyss‚e þ? ?
 o PP_JEUC  2161  2009.xx ..... ISBN 978-2-266-19060-2
 } noimg          _?                           ?
-!--- þTrad. DRONNE GisŠle
-- .oF.     X     _OVIDE                       Les M‚tamorphoses (extraits) þ?
+!--- Trad. DRONNE GisŠle
+- .oF.     X     _OVIDE                       Les M‚tamorphoses (extraits) þ? ?
 o PP_JEUP  2164  2009.08 ..... ISBN 978-2-266-19148-7
 } noimg          _Julien Delval               ?
 - .oY.     R     _ROBSON Mark                 Vulcain [L'Oeil du dragon - 1] þ2008 Firestorm þTrad. BERGANZ Fabienne
@@ -3645,7 +3784,7 @@ o PP_JEUP  2210  2010.04 ..... ISBN 978-2-266-19894-3
 - .oF.     r     _LECOEUR Pascale             Le Complot [Alien Force - 2][Ben 10] þ2010
 o PP_JEUP  2211  2010.07 ..... ISBN 978-2-266-19895-0
 } noimg          _?                           ?
-!--- d'aprŠs un sc‚nario de Dwayne McDuffie - 2008 Every Body Talks About The Weather
+!--- d'aprŠs un sc‚nario de Dwayne McDuffie - 2008 Every Body Talks About the Weather
 - .oF.     r     _LECOEUR Pascale             Le MystŠre de l'hiver de feu [Alien Force - 3][Ben 10] þ2010
 o PP_JEUP  2212  2010.11 ..... ISBN 978-2-266-19896-7
 } noimg          _?                           ?
@@ -3669,9 +3808,6 @@ o PP_JEU   2236  2010.11 ..... ISBN 978-2-266-20048-6
 o PP_JEUP  2238  2010.04 ..... ISBN 978-2-266-20050-9
 } noimg          _Mike Spoor                  ?
 - .oF.     R     _STONE Rex                   Le Royaume des diplodocus [La Grotte des dinosaures - 9] þ2009 Tracking the Gigantic Beast / Tracking the Diplodocus þTrad. LE ROY Fabien
-o PP_JEUP  2242  2016.06 ..... ISBN 978-2-266-27085-4
-} noimg          _Brandon Murillo + Getty Images
-- .oS.     R     _DASHNER James               Le Labyrinthe [L'‚preuve - 1] þ2009 The Maze Runner þTrad. FOURNIER Guillaume
 o PP_JEUP  2258  2010.07 ..... ISBN 978-2-266-20145-2
 } noimg          _Mike Spoor                  ?
 - .oF.     R     _STONE Rex                   Sur les traces du pr‚dateur [La Grotte des dinosaures - 10] þ2009 Escape from the Fierce Predator þTrad. LE ROY Fabien
@@ -3869,7 +4005,7 @@ o PP_JEUP  2416  2012.07 ..... ISBN 978-2-266-22189-4
 - .oS.     R     _STONE Rex                   L'Offensive des l‚zards volants [La Grotte des dinosaures - 17] þ2011 Swarm of the Fanged Lizards þTrad. ROSSON Christophe
 o PP_JEUP  2417  2012.10 ..... ISBN 978-2-266-22190-0
 } noimg          _Mike Spoor                  ?
-- .oS.     R     _STONE Rex                   Les Voleurs de l'aube [La Grotte des dinosaures - 18] þ2011 Snatched By the Dawn Thief þTrad. ROSSON Christophe
+- .oS.     R     _STONE Rex                   Les Voleurs de l'aube [La Grotte des dinosaures - 18] þ2011 Snatched by the Dawn Thief þTrad. ROSSON Christophe
 o PP_JEUP  2431  2012.03 ..... ISBN 978-2-266-22148-1
 } noimg          _Jessica Jung                ?
 + PP_JEUP  2431  2013.xx ..... ISBN 978-2-266-22148-1
@@ -4421,6 +4557,9 @@ o PP_JEUP  2897  2016.11 ..... ISBN 978-2-266-27065-6
 o PP_JEUP  2898  2017.02 ..... ISBN 978-2-266-27066-3
 } noimg          _Jason Chan                  ?
 - .oS.     R     _MESSENGER Shannon           Gardiens des cit‚s perdues [Gardiens des cit‚s perdues - 1] þ2012 Keeper of the Lost Cities þTrad. BOUHON Mathilde
+o PP_JEUP  2899  2016.06 ..... ISBN 978-2-266-27085-4
+} noimg          _Brandon Murillo + Getty Images
+- .oS.     R     _DASHNER James               Le Labyrinthe [L'‚preuve - 1] þ2009 The Maze Runner þTrad. FOURNIER Guillaume
 !------------------------
 !--- --- 2900
 !------------------------
@@ -4652,6 +4791,10 @@ o PP_JEUP  3188  2020.03 ..... ISBN 978-2-266-29110-1
 } noimg          _?                           ?
 !--- Poche - Jeunesse - 108 x 177 mm - 480 pages - 8.40 euros
 - .oS.     R     _STRAGIER Nathalie           Ne retournez jamais chez une fille du pass‚ [La Fille du futur - 2] þ2016
+o PP_JEUP  3189  2021.01 ..... ISBN 978-2-266-29111-8
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108 x 177 - 544 pages
+- .oS.     R     _STRAGIER Nathalie           Ne dites jamais jamais [La Fille du futur - 3] þ2017
 o PP_JEUP  3193  2019.01 ..... ISBN 978-2-266-29275-7
 } noimg          _?                           ?
 - .oS.     R     _GAGNON Michelle             N'oublie pas [Exp‚rience Noa Torson - 3] þ2014 Don't Let Go þTrad. CHEVRE Julien
@@ -4667,7 +4810,7 @@ o PP_JEUP  3201  2019.08 ..... ISBN 978-2-266-29355-6
 o PP_JEUP  3202  2020.03 ..... ISBN 978-2-266-29356-3
 } noimg          _?                           ?
 !--- Poche - Jeunesse
-- .oF.     r     _HARRISON Paula              L'oeil du tigre [Les Princesses magiques - 8] þ2013 The Shimmering Stone þTrad. FIORE Faustina
+- .oF.     r     _HARRISON Paula              L'Oeil du tigre [Les Princesses magiques - 8] þ2013 The Shimmering Stone þTrad. FIORE Faustina
 o PP_JEUP  3214  2019.04 ..... ISBN 978-2-266-29371-6
 } noimg          _Gustavo Marx                ?
 - .oF.     R     _CASS Kiera                  L'lite [La S‚lection - 2] þ2013 The Elite þTrad. NASALIK Madeleine
@@ -4701,6 +4844,7 @@ o PP_JEUP  3225  2019.11 ..... ISBN 978-2-266-29382-2
 o PP_JEUP  3228  2020.01 ..... ISBN 978-2-266-29384-6
 } noimg          _?                           ?
 !---  108 x 177 mm - 368 pages - 7.95 euros
+!--- TBD 3228 ou 3328 ??
 - .oF.     R     _BEASLEY Cassie              Circus Mirandus [Circus Mirandus - 1] þ2015 Circus Mirandus þTrad. HAMZI Farah
 o PP_JEUP  3231  2019.04 ..... ISBN 978-2-266-29387-7
 } noimg          _Alexandre Chaudret          ?
@@ -4722,6 +4866,10 @@ o PP_JEUP  3255  2020.10 ..... ISBN 978-2-266-29631-1
 } noimg          _Larry Rostant               ?
 !---  Jeunesse 13+ - Poche - 108 x 177 mm - 496 pages - 8.40 euros
 - .oS.     R     _DIXEN Victor                Phobos - Tome 2 [Phobos - 2] þ2015
+o PP_JEUP  3256  2021.05 ..... ISBN 978-2-266-29632-8
+} noimg          _Larry Rostant               ?
+!--- YA - Poche - 108x178 - 840 pages
+- .oS.     R     _DIXEN Victor                Phobos - Tome 3 [Phobos - 3] þ2016
 o PP_JEUP  3257  2020.09 ..... ISBN 978-2-266-29322-8
 } noimg          _? Warner Bros               ?
 !---  Jeunesse 13+ - Poche - 108 x 177 mm - 360 pages - 7.60 euros
@@ -4730,6 +4878,14 @@ o PP_JEUP  3258  2020.09 ..... ISBN 978-2-266-29323-5
 } noimg          _? Warner Bros               ?
 !---  Jeunesse 13+ - Poche - 108 x 177 mm - 360 pages - 7.60 euros
 - .oS.     R     _MORGAN Kass                 21e jour [Les 100 - 2] þ2014 Day 21 þTrad. LE ROY Fabien
+o PP_JEUP  3259  2021.03 ..... ISBN 978-2-266-29324-2
+} noimg          _(c)Warner Bros              ?
+!--- YA - Poche - 108 x 177 - 336 pages
+- .oS.     R     _MORGAN Kass                 Retour [Les 100 - 3] þ2015 Homecoming þTrad. FRAISSE Fr‚d‚rique
+o PP_JEUP  3260  2021.08 ..... ISBN 978-2-266-29325-9
+} noimg          _? Warner Bros               ?
+!--- YA - Poche - 108x178 - 312 pages
+- .oS.     R     _MORGAN Kass                 R‚bellion [Les 100 - 4] þ2016 Rebellion þTrad. FRAISSE Fr‚d‚rique
 o PP_JEUP  3261  2020.02 ..... ISBN 978-2-266-29460-7
 } noimg          _?                           ?
 !--- Poche - Jeunesse - 108 x 177 mm - 216 pages - 6.50 euros
@@ -4758,11 +4914,11 @@ o PP_JEUP  3286  2019.10 ..... ISBN 978-2-266-29976-3
 o PP_JEUP  3287  2019.11 ..... ISBN 978-2-266-29977-0
 } noimg          _?                           ?
 !--- Poche - Jeunesse - 108 x 177 mm - 456 pages - 7.95 euros
-- .oF.     R     _CHAINANI Soman              Un monde sans Princes [L'‚cole du bien et du mal - 2] þ2014 A World without Princes þTrad. BOITELLE-TESSIER Leslie
+- .oF.     R     _CHAINANI Soman              Un monde sans Princes [L'‚cole du bien et du mal - 2] þ2014 A World Without Princes þTrad. BOITELLE-TESSIER Leslie
 o PP_JEUP  3288  2019.10 ..... ISBN 978-2-266-30063-6
 } noimg          _Shane Rebenschied           ?
 !--- Poche - Jeunesse - 108 x 177 mm - 576 pages - 8.40 euros
-- .oF.     R     _TAHIR Sabaa                 Une flamme dans la nuit [Une braise sous la cendre - 2] þ2016 Ember in the Ashes 2 : A Torch Against the Night þTrad. H‚lŠne Zylberait
+- .oF.     R     _TAHIR Sabaa                 Une flamme dans la nuit [Une braise sous la cendre - 2] þ2016 A Torch Against the Night þTrad. H‚lŠne Zylberait
 o PP_JEUP  3290  2019.06 ..... ISBN 978-2-266-29407-2
 } noimg          _?                           ?
 - .oFS     R     _MURAIL Elvire              &Level 01 [Golem - 1] þ2002
@@ -4798,6 +4954,15 @@ o PP_JEUP  3297  2020.09 ..... ISBN 978-2-266-30473-3
 !---  Jeunesse 8+ - Poche - 108 x 177 mm - 368 pages - 7.60 euros
 !                >BALDRY Cherith              
 - .oY.     R     _HUNTER Erin                 Soleil levant [Le Pouvoir des ‚toiles - 6][La Guerre des clans] þ2009 Sunrise þTrad. CARLIER Aude
+o PP_JEUP  3298  2021.08 ..... ISBN 978-2-266-30474-0
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108x177 - 288 pages
+- .oF.     R     _LITTLEWOOD Kathryn          Une pinc‚e de magie [La Patisserie Bliss - 2] þ2013 Sweet / A Dash of Magic þTrad. LE Juliette
+o PP_JEUP  3299  2021.03 ..... ISBN 978-2-266-30475-7
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108 x 177 - 192 pages
+!--- _CANALS Cuca & GARCIA LOPEZ Miguel
+- .oS.     R     _NEMO C.                     L'Œle perdue [Les Aventures du jeune Jules Verne - 1] þ? La isla perdida þTrad. CANAVESI Vanessa
 !------------------------
 !--- --- 3300
 !------------------------
@@ -4818,6 +4983,10 @@ o PP_JEUP  3304  2020.02 ..... ISBN 978-2-266-30481-8
 !--- Poche - Jeunesse - 108 x 177 mm - 368 pages - 7.60 euros
 !--- Le titre du volume n'apparaŒt pas en premiŠre de couveture
 - .oS.     R     _DASHNER James               La Partie infinie [Le Jeu du maŒtre - 1] þ2013 The Eye of Minds þTrad. FOURNIER Guillaume
+o PP_JEUP  3306  2021.05 ..... ISBN 978-2-266-30483-2
+} noimg          _Brandon Murillo / Getty Images
+!--- Jeunesse - Poche - 108x178 - 448 pages
+- .oS.     R     _DASHNER James               La Braise [Avant le labyrinthe][L'‚preuve] þ2016 The Fever Code þTrad. FOURNIER Guillaume
 o PP_JEUP  3311  2020.01 ..... ISBN 978-2-266-30495-5
 } noimg          _?                           ?
 !--- Poche - Jeunesse - 108 x 177 mm - 552 pages - 8.20 euros
@@ -4838,21 +5007,269 @@ o PP_JEUP  3337  2020.11 ..... ISBN 978-2-266-30535-8
 } noimg          _?                           ?
 !---  Jeunesse 13+ - Poche - 108 x 177 mm - 480 pages - 8.20 euros
 - .oF.     R     _DRAKE Brenda                La Gardienne des mensonges [Library Jumpers - 2] þ2017 Guardian of Secrets þTrad. DUROCHER Diane
+o PP_JEUP  3340  2022.10 ..... ISBN 978-2-266-30537-2
+} noimg          _Jason Chan                  ?
+!--- Jeunesse - Poche - 108x177 - 832 pages - 9 euros
+- .oY.     R     _MESSENGER Shannon           R‚miniscences [Gardiens des cit‚s perdues - 7] þ2018 Flashback þTrad. TAMAE-BOUHON Mathilde
 o PP_JEUP  3347  2020.03 ..... ISBN 978-2-266-30591-4
 } noimg          _?                           ?
 !--- Poche - Jeunesse - 108 x 177 mm - 288 pages - 7.60 euros
 - .oS.     R     _HINCKEL Florence            #Bleue þ2015
+o PP_JEUP  3351  2021.02 ..... ISBN 978-2-266-30595-2
+} noimg          _Brandon Murillo / Getty Images
+!--- Jeunesse - Poche - 108 x 177 - 360 pages
+- .oS.     R     _DASHNER James               La R‚volution [Le Jeu du maŒtre - 2] þ2014 The Rule of Thoughts þTrad. FOURNIER Guillaume
 o PP_JEUP  3352  2020.11 ..... ISBN 978-2-266-30776-5
 } noimg          _?                           ?
 !---  Jeunesse 13+ - Poche - 108 x 177 mm - 408 pages - 7.60 euros
 - .oF.     R     _SPOTSWOOD Jessica           Soeurs sorciŠres - Livre 1 [Soeurs sorciŠres - 1] þ2012 Born Wicked þTrad. ORTALDA Maud
+o PP_JEUP  3357  2021.02 ..... ISBN 978-2-266-30862-5
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108 x 177 - 216 pages
+- .oF.     R     _ROZENFELD Carina            La Baie aux arc-en-ciels [L'H‚ritier des Draconis - 3] þ2018
+o PP_JEUP  3381  2021.04 ..... ISBN 978-2-266-31095-6
+} noimg          _?                           ?
+!--- YA - Poche - 108 x 177 - 560 pages
+- .oF.     R     _DRAKE Brenda                La Briseuse d'illusions [Library Jumpers - 3] þ2018 Assassin of Truth þTrad. DUROCHER Diane
+o PP_JEUP  3394  2021.10 ..... ISBN 978-2-266-31425-1
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108x178 - 552 pages
+- .oF.     R     _PLICHOTA Anne              &L'Espoir des lendemains [Oksa Pollock - 7] þ2019
+&                _WOLF Cendrine               
+o PP_JEUP  3395  2021.02 ..... ISBN 978-2-266-31432-9
+} noimg          _Kevin Tong                  ?
+!--- YA - Poche - 108 x 177 - 600 pages
+- .oS.     R     _SHUSTERMAN Neal             La Faucheuse [La Faucheuse - 1] þ2016 Scythe þTrad. ARDILLY C‚cile
+o PP_JEUP  3396  2021.09 ..... ISBN 978-2-266-31433-6
+} noimg          _?                           ?
+!--- YA - Poche - 108x178 - 672 pages
+- .oS.     R     _SHUSTERMAN Neal             Thunderhead [La Faucheuse - 2] þ2017 Thunderhead þTrad. LEIGNIEL St‚phanie
+o PP_JEUP  3399  2021.03 ..... ISBN 978-2-266-31437-4
+} noimg          _Wayne McLaughlin            ?
+!--- Jeunesse - Poche - 108 x 177 - 360 pages
+!                >BALDRY Cherith              
+- .oY.     R     _HUNTER Erin                 La QuatriŠme Apprentie [Les Signes du destin - 1][La Guerre des clans] þ2009 The Fourth Apprentice þTrad. CARLIER Aude
+!------------------------
+!--- --- 3400
+!------------------------
+o PP_JEUP  3401  2021.04 ..... ISBN 978-2-266-31443-5
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108 x 177 - 368 pages
+- .oS.     R     _EVANS Richard Paul          Tornade de feu [Le Cercle des 17 - 5] þ2015 Storm of Lightning þTrad. ROSSON Christophe
+o PP_JEUP  3403  2021.03 ..... ISBN 978-2-266-31445-9
+} noimg          _Antoine Brivet              ?
+!--- Jeunesse - Poche - 108 x 177 - 144 pages
+- .oF.     R     _COLIN Fabrice               M‚galopolis [WonderPark - 2] þ2016
+o PP_JEUP  3416  2021.07 ..... ISBN 978-2-266-31458-9
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108x178 - 216 pages
+- .oF.     R     _ROZENFELD Carina            Les Secrets de Br–le-Dragon [L'H‚ritier des Draconis - 4] þ2018
+o PP_JEUP  3417  2021.08 ..... ISBN 978-2-266-31459-6
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108x177 - 288 pages
+!--- Gilian Philip 
+- .oF.     R     _HUNTER Erin                 L'Ennemi dans l'ombre [Survivants (E. Hunter) - 2] þ2013 A Hidden Enemy þTrad. FRAISSE Fr‚d‚rique
+o PP_JEUP  3426  2021.09 ..... ISBN 978-2-266-31473-2
+} noimg          _Wayne McLaughlin            ?
+!--- Jeunesse - Poche - 108x177 - 384 pages
+!--- Kate Cary 
+- .oY.     R     _HUNTER Erin                 Un ‚cho lointain [Les Signes du destin - 2][La Guerre des clans] þ2010 Fading Echoes þTrad. CARLIER Aude
+o PP_JEUP  3428  2021.10 ..... ISBN 978-2-266-31476-3
+} noimg          _Larry Rostant               ?
+!--- YA - Poche - 108x178 - 864 pages
+- .oS.     R     _DIXEN Victor                Phobos - Tome 4 [Phobos - 4] þ2017
+o PP_JEUP  3431  2021.11 ..... ISBN 978-2-266-31481-7
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108x178 - 216 pages
+- .o .     R     _ROZENFELD Carina            La DerniŠre Bataille [L'H‚ritier des Draconis - 5] þ2019
+o PP_JEUP  3432  2021.11 ..... ISBN 978-2-266-31482-4
+} noimg          _Antoine Brivet              ?
+!--- Jeunesse - Poche - 108x178 
+- .oF.     R     _COLIN Fabrice               Cyclos [WonderPark - 3] þ2017
+o PP_JEUP  3433  2021.11 ..... ISBN 978-2-266-31483-1
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108x178 - 456 pages
+- .oF.     R     _SPOTSWOOD Jessica           Soeurs sorciŠres - Livre 2 [Soeurs sorciŠres - 2] þ2013 Star Cursed þTrad. VASSALLO Rose-Marie
+o PP_JEUP  3439  2021.11 ..... ISBN 978-2-266-31496-1
+} noimg          _Iacopo Bruno                ?
+!--- Jeunesse - Poche - 108x177 - 624 pages
+- .oF.     R     _CHAINANI Soman              Rˆves de gloire [L'‚cole du bien et du mal - 4] þ2017 Quests for Glory þTrad. BOITELLE Leslie
+o PP_JEUP  3444  2021.06 ..... ISBN 978-2-266-31676-7
+} noimg          _April Ward + Shutterstock   ?
+!--- Jeunesse - Poche - 108x178 
+- .oS.     R     _MATSON Lynne                Nil [Nil - 1] þ2014 Nil þTrad. FOURNIER Guillaume
+o PP_JEUP  3445  2021.06 ..... ISBN 978-2-266-31677-4
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108x178 
+- .oY.     R     _MATSON Lynne                Les Secrets de Nil [Nil - 2] þ2015 Nil Unlocked þTrad. FRANCOIS Guillaume
+o PP_JEUP  3446  2021.06 ..... ISBN 978-2-266-31678-1
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108x178 
+- .oY.     R     _MATSON Lynne                La ColŠre de Nil [Nil - 3] þ2016 Nil on Fire þTrad. FRANCOIS Guillaume
+o PP_JEUP  3447  2021.01 ..... ISBN 978-2-266-31679-8
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108 x 177 - 264 pages
+- .oY.     R     _ROBSON Mark                 Vulcain [L'Oeil du dragon - 1] þ2008 Firestorm þTrad. BERGANZ Fabienne
+o PP_JEUP  3448  2021.01 ..... ISBN 978-2-266-31680-4
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108 x 177 - 240 pages
+- .oY.     R     _ROBSON Mark                 Souffle d'ombre [L'Oeil du dragon - 2] þ2008 Shadow þTrad. BERGANZ Fabienne
+o PP_JEUP  3449  2021.06 ..... ISBN 978-2-266-31681-1
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108x178 
+- .oY.     R     _ROBSON Mark                 Dent de sabre [L'Oeil du dragon - 3] þ2009 Longfang þTrad. BERGANZ Fabienne
+o PP_JEUP  3450  2021.11 ..... ISBN 978-2-266-31682-8
+} noimg          _Julien Delval               ?
+!--- Jeunesse - Poche - 108x178 
+- .oY.     R     _ROBSON Mark                 Aurore [L'Oeil du dragon - 4] þ2009 Aurora þTrad. BERGANZ Fabienne
+o PP_JEUP  3453  2021.01 ..... ISBN 978-2-266-31686-6
+} pj3453         _?                           ?
+!--- Jeunesse - Poche - 108 x 177 - 288 pages
+- .oS.     N4    _ROTH Veronica               Divergente racont‚ par Quatre [Divergent] þ2014 Four: A Divergent Collection þTrad. DELCOURT Anne
+: .oS.     r     _ROTH Veronica               Le Transfert [Divergent] þ2013 The Transfer þTrad. DELCOURT Anne
+: .oS.     r     _ROTH Veronica               Le Novice [Divergent] þ2014 The Initiate þTrad. DELCOURT Anne
+: .oS.     r     _ROTH Veronica               Le Fils [Divergent] þ2014 The Son þTrad. DELCOURT Anne
+: .oS.     r     _ROTH Veronica               Le TraŒtre [Divergent] þ2014 The Traitor þTrad. DELCOURT Anne
+o PP_JEUP  3454  2021.05 ..... ISBN 978-2-266-31703-0
+} noimg          _?                           ?
+!--- YA - Poche - 108x178 - 120 pages
+- .o .     R     _ORWELL George               La Ferme des animaux þ1945 Animal Farm þTrad. RECOURSE Charles
+o PP_JEUP  3456  2022.02 ..... ISBN 978-2-266-31730-6
+} noimg          _Jason Chan                  ?
+!--- YA 13+ - Poche - 108x178 - 840 pages - 9 euros
+- .oS.     R     _SHUSTERMAN Neal             Le Glas [La Faucheuse - 3] þ2019 The Toll þTrad. ARDILLY C‚cile
+o PP_JEUP  3486  2022.01 ..... ISBN 978-2-266-32316-1
+} noimg          _?                           ?
+!--- Jeunesse 13+ - Poche - 108x177 - 448 pages - 7,70 euros
+- .oF.     R     _VAREILLE Marie              Saison froide [Elia, la passeuse d'ƒmes - 2] þ2018
+o PP_JEUP  3487  2022.01 ..... ISBN 978-2-266-32315-4
+} noimg          _?                           ?
+!--- Jeunesse 13+ - Poche - 108x177 - 448 pages - 7,70 euros
+- .oF.     R     _VAREILLE Marie              Saison chaude [Elia, la passeuse d'ƒmes - 3] þ2019
+o PP_JEUP  3488  2022.01 ..... ISBN 978-2-266-32326-0
+} noimg          _?                           ?
+!--- Jeunesse 8+ - Poche - 108x177 - 208 pages - 6,80 euros
+- .oF.     R     _SAINT CHAMAS BenoŒt de     &Le D‚mon aux mille visages [Strom] þ2013
+&                _SAINT CHAMAS Emmanuelle de  
+o PP_JEUP  3493  2022.04 ..... ISBN 978-2-266-32329-1
+} noimg          _?                           ?
+!--- Jeunesse 8+ - Poche - 108x177 - 432 pages - 7,70 euros
+- .oF.     R     _SPOTSWOOD Jessica           Soeurs sorciŠres - Livre 3 [Soeurs sorciŠres - 3] þ2014 Sisters' Fate þTrad. VASSALLO Rose-Marie
+!------------------------
+!--- --- 3500
+!------------------------
+o PP_JEUP     ?  2022.03 ..... ISBN 978-2-266-32338-3
+} noimg          _Wayne McLaughlin            ?
+!--- Jeunesse 8+ - Poche - 108x177 - 336 pages - 7,95 euros
+- .oY.     R     _HUNTER Erin                 Des murmures dans la nuit [Les Signes du destin - 3][La Guerre des clans] þ2010 Night Whispers þTrad. CARLIER Aude
+o PP_JEUP  3505  2022.04 ..... ISBN 978-2-266-32349-9
+} noimg          _Antoine Brivet              ?
+!--- Jeunesse 8+ - Poche - 108x177 - 144 pages - 5,10 euros
+- .oF.     R     _COLIN Fabrice               Askaran [WonderPark - 4] þ2017
+o PP_JEUP  3508  2022.04 ..... ISBN 978-2-266-32360-4
+} noimg          _Gustavo Marx                ?
+!--- Ado 13+ - Poche - 108x177 - 384 pages - 7,95 euros
+- .oF.     R     _CASS Kiera                  La SirŠne þ2009 The Siren þTrad. NASALIK Madeleine
+o PP_JEUP  3509  2022.05 ..... ISBN 978-2-266-32362-8
+} noimg          _?                           ?
+!--- Jeunesse 8+ - Poche - 108x177 - 448 pages - 7,70 euros
+- .oS.     R     _EVANS Richard Paul          La Chute d'Hades [Le Cercle des 17 - 6] þ2016 Fall of Hades þTrad. ROSSON Christophe
+o PP_JEUP  3510  2022.05 ..... ISBN 978-2-266-32364-2
+} noimg          _Larry Rostant               ?
+!--- Ado 13+ - Poche - 108x177 - 408 pages - 7,70 euros
+- .oS.     R     _DIXEN Victor                Phobos Origines [Phobos] þ2016
+o PP_JEUP  3513  2022.05 ..... ISBN 978-2-266-32329-1
+} noimg          _?                           ?
+!--- Jeunesse 8+ - Poche - 108x177 - 400 pages - 7,70 euros
+!                >PHILIPPS Gillian            
+- .oY.     R     _HUNTER Erin                 Nouvelle alliance [Bravelands - 1] þ2017 Broken Pride þTrad. ROSSON Christophe
+o PP_JEUP  3514  2022.03 ..... ISBN 978-2-266-32368-0
+} noimg          _Iacopo Bruno                ?
+!--- Jeunesse 8+ - Poche - 108x177 - 336 pages - 7,95 euros
+- .oF.     R     _LITTLEWOOD Kathryn          Magie … croquer [La Patisserie Bliss - 3] þ2014 Bite-Sized Magic þTrad. LE Juliette
+o PP_JEUP  3518  2021.10 ..... ISBN 978-2-266-31964-5
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108x177 - 456 pages
+- .oS.     R     _EASLEY Sean                 L'H“tel invisible [Les Entremondes - 1] þ2018 The Hotel Between þTrad. MORZELLE C‚line
+o PP_JEUP  3520  2022.06 ..... ISBN 978-2-266-32371-0
+} noimg          _?                           ?
+!--- Jeunesse 8+ - Poche - 108x177 - 456 pages - 7,95 euros
+- .oS.     R     _EASLEY Sean                 La Cl‚ des tr‚sors oubli‚s [Les Entremondes - 2] þ2019 The Key of Lost Things þTrad. MORZELLE C‚line
+o PP_JEUP  3531  2022.09 ..... ISBN 978-2-266-32441-0
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 108x178 - 360 pages - 7,95 euros
+- .oY.     R     _HUNTER Erin                 L'Empreinte de la Lune [Les Signes du destin - 4][La Guerre des clans] þ2011 Sign of the Moon þTrad. CARLIER Aude
+o PP_JEUP  3532  2022.09 ..... ISBN 978-2-266-32442-7
+} noimg          _Iacopo Bruno                ?
+!--- Jeunesse - Poche - 108x178 - 696 pages - 9 euros
+- .oF.     R     _CHAINANI Soman              Le Cristal du Temps [L'‚cole du bien et du mal - 5] þ2019 A Crystal of Time þTrad. BOITELLE Leslie
+o PP_JEUP  3536  2022.09 ..... ISBN 978-2-266-32446-5
+} noimg          _?                           ?
+!--- YA - Poche - 108x178 - 672 pages - 8,75 euros
+- .oS.     R     _DIXEN Victor                Cogito þ2019
+o PP_JEUP  3537  2022.08 ..... ISBN 978-2-266-32447-2
+} noimg          _Antoine Brivet              ?
+!--- Jeunesse - Poche - 108x178 - 144 pages - 5,10 euros
+- .oF.     R     _COLIN Fabrice               Discordia [WonderPark - 5] þ2017
+o PP_JEUP  3573  2022.11 ..... ISBN 978-2-266-32949-1
+} pj3573         _?                           ?
+!--- Jeunesse - Poche - 108x177 - 456 pages - 7,95 euros
+- .oS.    kN23   _GREVET Yves                &Contagion [U4] þ2016
+&                _HINCKEL Florence           &
+&                _TREBOR Carole              &
+&                _VILLEMINOT Vincent          
+: .C .     C     ****                         Nouvelles de la contagion
+: .o .  11 N     _VILLEMINOT Vincent          Charles, Idun, Marco, Emilie, Ahmed, Philo, Julien, Salien, Philippe, Alice, Mila, Julia ,Fiametta, Alex, Terzieff... et tellement d'autres - Lignes de front [U4] þ2016
+: .o .  51 N     _HINCKEL Florence            Lena - Le Bunker [U4] þ2016
+: .o .  77 N     _GREVET Yves                 Le Pr‚sident de la r‚publique - Discours [U4] þ2016
+: .! .  97 d     _TREBOR Carole              &Alicia - Avant Jules [U4] þ2016
+&  !       d     _LIZANO Marc                 
+: .o . 114 N     _VILLEMINOT Vincent          Reggie - A peine deux secondes avant la fin [U4] þ2016
+: .o . 119 N     _HINCKEL Florence            Happy [U4] þ2016
+: .o . 143 N     _TREBOR Carole               S‚verine - Combien de morts portera-t-il ? [U4] þ2016
+: .o . 168 N     _GREVET Yves                 Erell - Dans les boucles du temps [U4] þ2016
+: .o . 176 N     _HINCKEL Florence            St‚phane - Ce ne sont que des l‚gendes [U4] þ2016
+: .o . 186 N     _VILLEMINOT Vincent          Nicolas - Le Pont [U4] þ2016
+: .o . 197 N     _HINCKEL Florence            Fran‡ois - Les Inadapt‚s [U4] þ2016
+: .o . 218 N     _VILLEMINOT Vincent          Paul - La Distance id‚ale pour le tir [U4] þ2016
+: .o . 229 N     _TREBOR Carole               C‚dric et Isa - Une lettre par phalange [U4] þ2016
+: .o . 247 N     _VILLEMINOT Vincent          Yannis - Naissance des fant“mes [U4] þ2016
+: .o . 259 N     _GREVET Yves                 Sarah, AdŠle, Zo‚, Coline et Lola - En route vers le Far West [U4] þ2016
+: .o . 281 N     _HINCKEL Florence            Les Survivants [U4] þ2016
+: .o . 293 N     _TREBOR Carole               Isa - Dos au mur [U4] þ2016
+: .o . 313 N     _GREVET Yves                 Koridwen - La Suite [U4] þ2016
+: .o . 356 N     _HINCKEL Florence           &St‚phane et Yannis - AprŠs [U4] þ2016
+&                _VILLEMINOT Vincent          
+: .! .     d     _LYLIAN                     &14 d‚cembre [U4] þ2016
+&  !       d     _CEZARD Pierre-Yves          
+: .C .     C     ****                         Fan fictions
+: .o . 410 N     _JUGE Claire                 Alicia [U4] þ2016
+: .o . 419 N     _DECAUX Dess-Laura           H‚lo‹se [U4] þ2016
+: .o . 427 N     _SUCHERE Clara               Cindy [U4] þ2016
+: .o . 435 N     _CHATTON Sylvain             Francis [U4] þ2016
+: .C .     C     ****                         Sur U4 Live...
+: .o .     a     _--- (inconnu)               Le Sc‚nario d'une catastrophe [U4] þ2016
+: .o .     a     _--- (inconnu)               Conseil de survie pour nos h‚ros [U4] þ2016
+!------------------------
+!--- --- 3600
+!------------------------
+o PP_JEUP  3635  2022.10 ..... ISBN 978-2-266-33090-9
+} pj3635         _?                           ?
+!--- Jeunesse - Poche - 110x180 - 336 pages - 7,95 euros
+- .oY.    kr3    _HUNTER Erin                 La Guerre des clans - Recueil de 3 nouvelles [La Guerre des clans] þ2016 Shadows of the Clans þTrad. CARLIER Aude
+: .o .     r     _HUNTER Erin                 La Vengeance d'Ombre d'Erable [La Guerre des clans] þ2016 Mapleshade's Vengeance þTrad. CARLIER Aude
+: .o .     r     _HUNTER Erin                 La Mal‚diction de Plume d'Oie [La Guerre des clans] þ2016 Goosefeather's Curse þTrad. CARLIER Aude
+: .o .     r     _HUNTER Erin                 Les Adieux de Nuage de Jais [La Guerre des clans] þ2016 Ravenpaw's Farewell þTrad. CARLIER Aude
+
+
+
 
 !-----------------------------------------------------------------------------
 !--- Les jeunesses Moyen/Grand Format
 !---- Quelques grands formats "Pocket Junior" … partir de 2001
 !---- D‚but des non num‚rot‚s grand format "Pocket Jeunesse" en 2003
 !-----------------------------------------------------------------------------
-_ PP_JEUL Pocket Jeunesse Litt‚rature
+_ PP_JEUL Pocket Jeunesse - Litt‚rature
 _ PP_JEU  Pocket Jeunesse
 !-----------------------------------------------------------------------------
 !------------------------
@@ -6072,7 +6489,7 @@ o PP_JEU      ?  2016.05 ..... ISBN 978-2-266-21892-4
 - .oY.     R     _CAREY Anna                  Le Choix [La Vie rˆv‚e d'Eve - 2] þ2012 Once þTrad. ZILBERAIT H‚lŠne
 o PP_JEU      ?  2016.05 ..... ISBN 978-2-266-24957-7
 } noimg          _?                           ?
-- .oF.     R     _CHAINANI Soman              Un monde sans Princes [L'‚cole du bien et du mal - 2] þ2014 A World without Princes þTrad. BOITELLE-TESSIER Leslie
+- .oF.     R     _CHAINANI Soman              Un monde sans Princes [L'‚cole du bien et du mal - 2] þ2014 A World Without Princes þTrad. BOITELLE-TESSIER Leslie
 o PP_JEU      ?  2016.06 ..... ISBN 978-2-266-26766-3
 } noimg          _?                           ?
 - .oF.     R     _PETITJEAN Fr‚d‚ric          Le Dernier Puits [Les Dolce - 3] þ2016
@@ -6445,7 +6862,7 @@ o PP_JEU      ?  2019.09 ..... ISBN 978-2-266-28760-9
 o PP_JEU      ?  2019.10 ..... ISBN 978-2-266-29979-4
 } noimg          _?                           ?
 !--- 140 x 225 mm - 368 pages - 17.90 euros
-- .oF.     R     _MURAIL Lorris               La Fille du Bal des Ombres [Vampyre - 1] þ2019
+- .oF.     R     _MURAIL Lorris               Vampyre - La Fille du bal des ombres þ2019
 o PP_JEU      ?  2019.10 ..... ISBN 978-2-266-28078-5
 } noimg          _?                           ?
 !--- 140 x 225 mm - 528 pages - 17.90 euros
@@ -6534,7 +6951,7 @@ o PP_JEU         2020.10 ..... ISBN 978-2-266-28046-4
 o PP_JEU      ?  2020.10 ..... ISBN 978-2-266-29683-0
 } noimg          _?                           ?
 !--- Jeunesse 8+ - 140 x 225 mm - 256 pages - 14.90 euros
-- .oF.     R     _ARDEN Katherine             Terreur … Smoke Hollow þ2018 Small Spaces þTrad. ORTALDA Maud
+- .oF.     R     _ARDEN Katherine             Terreur … Smoke Hollow [Terreur … Smoke Hollow - 1] þ2018 Small Spaces þTrad. ORTALDA Maud
 o PP_JEU         2020.11 ..... ISBN 978-2-266-31313-1
 } noimg          _?                           ?
 !--- Jeunesse 8+ - GF - 140 x 225 mm - 320 pages - 17,90 euros
@@ -6547,10 +6964,246 @@ o PP_JEU      ?  2020.12 ..... ISBN 978-2-266-30578-5
 } noimg          _?                           ?
 !--- Jeunesse 13+ - GF - 140 x 225 mm - 648 pages - 20,90 euros
 - .oS.     R     _MEYER Marissa               Supernova [Le Gang des prodiges - 3] þ2019 Supernova þTrad. FOURNIER Guillaume
+!------------------------
+!=== 2021
+!------------------------
+o PP_JEU      ?  2021.02 ..... ISBN 978-2-266-28038-9
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140 x 225 - 720 pages
+- .o .     R     _CLARE Cassandra             La ChaŒne d'or [Les DerniŠres Heures - 1][La Cit‚ des t‚nŠbres] þ2019 Chain of Gold þTrad. LAFON Julie
+o PP_JEU      ?  2021.03 ..... ISBN 978-2-266-31438-1
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140 x 225 - 448 pages
+- .o .     R     _HUNTER Erin                 Ombre et tonnerre [De l'ombre … la lumiŠre - 2][La Guerre des clans] þ2016 Thunder and Shadow þTrad. CARLIER Aude
+o PP_JEU      ?  2021.04 ..... ISBN 978-2-266-31025-3
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140 x 225 - 408 pages
+- .o .     R     _FAWCETT Heather             Ambre et les dragons de glace þ2019 Ember and the Ice Dragons þTrad. ROSSON Christophe
+o PP_JEU      ?  2021.04 ..... ISBN 978-2-266-31509-8
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140 x 225 - 576 pages
+- .o .     R     _WOLFF Tracy                 Assoiff‚s [Assoiff‚s - 1] þ2020 Crave þTrad. MANCO Aylin
+o PP_JEU      ?  2021.04 ..... ISBN 978-2-266-31503-6
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140 x 225 - 456 pages
+- .oS.     R     _VILLEMINOT Vincent          L'Œle þ2021
+o PP_JEU      ?  2021.05 ..... ISBN 978-2-266-29726-4
+} noimg          _Rich Deas                   ?
+!--- Jeunesse - GF - 140x225 - 480 pages
+- .o .     R     _OWEN Margaret               L'Aigle impitoyable [Merciful Crow - 2] þ2020 The Faithless Hawk þTrad. CHARTRES C‚cile
+o PP_JEU      ?  2021.05 ..... ISBN 978-2-266-31066-6
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x225 - 456 pages
+- .o .     R     _REPPELIN Marie              La Carte des Confins [La Carte des Confins - 1] þ2021
+o PP_JEU      ?  2021.05 ..... ISBN 978-2-266-28047-1
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x225 - 368 pages
+- .o .     R     _HUNTER Erin                 La Menace des ombres [Bravelands - 4] þ2019 Shifting Shadows þTrad. ROSSON Christophe
+o PP_JEU      ?  2021.05 ..... ISBN 978-2-266-31791-7
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x225 - 144 pages
+- .oS.     r     _DASHNER James               Le Destin de Newt [L'‚preuve] þ2020 Crank Palace þTrad. FOURNIER Guillaume
+o PP_JEU      ?  2021.05 ..... ISBN 978-2-266-28977-1
+} noimg          _Iacopo Bruno                ?
+!--- Jeunesse - GF - 140x225 - 704 pages
+- .o .     R     _CHAINANI Soman              Un seul v‚ritable roi [L'‚cole du bien et du mal - 6] þ2020 One True King þTrad. BOITELLE Leslie
+o PP_JEU      ?  2021.06 ..... ISBN 978-2-266-31396-4
+} noimg          _?                           ?
+!--- YA - GF - 140x225 - 672 pages
+- .oS.     R     _BUSSI Michel                Les Deux Chƒteaux [N.E.O. - 2] þ2021
+o PP_JEU      ?  2021.07 ..... ISBN 978-2-266-31510-4
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x225 - 576 pages
+!--- Kate Cary 
+- .o .     R     _HUNTER Erin                 La Vision de Vol du Papillon [Super Edition - 8][La Guerre des clans] þ2015 Moth Flight's Vision þTrad. CARLIER Aude
+o PP_JEU      ?  2021.07 ..... ISBN 978-2-266-28194-2
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x225 - 352 pages
+- .o .     Z     _RILEY James                 Le livre dont vous ˆtes le h‚ros [Les Voleurs d'histoires - 4] þ2017 Pick the Plot þTrad. BERGANZ Fabienne
+o PP_JEU      ?  2021.09 ..... ISBN 978-2-266-31468-8
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x225 - 336 pages
+- .o .     R     _HUNTER Erin                 Eclats de ciel [De l'ombre … la lumiŠre - 3][La Guerre des clans] þ2017 Shattered Sky þTrad. CARLIER Aude
+o PP_JEU      ?  2021.09 ..... ISBN 978-2-266-28079-2
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x225 - 640 pages
+- .o .     R     _TOWNSEND Jessica            Hollowpox - La Traque de Morrigane Crow [Nevermoor - 3] þ2020 Hollowpox þTrad. Lˆ Juliette & CHAPMAN Isabelle
+o PP_JEU      ?  2021.09 ..... ISBN 978-2-266-31664-4
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x225 - 312 pages
+- .oS.     R     _DASHNER James               Le Rivage des Survivants [L'‚preuve] þ2021 The Wicked String þTrad. FOURNIER Guillaume
+o PP_JEU      ?  2021.10 ..... ISBN 978-2-266-31508-1
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x225 - 264 pages
+- .o .     R     _ARDEN Katherine             Frissons au Mont Hemlock [Terreur … Smoke Hollow - 2] þ2019 Dead Voices þTrad. ORTALDA Maud
+o PP_JEU      ?  2021.11 ..... ISBN 978-2-266-28042-6
+} noimg          _?                           ?
+!--- Jeunesse - GF - 130x205 - 480 pages
+- .oF.     R     _CLARE Cassandra            &Le Livre blanc [La Mal‚diction des anciens - 2][La Cit‚ des t‚nŠbres] þ2020 The Lost Book of the White þTrad. LAFON Julie
+&                _CHU Wesley                   
+o PP_JEU      ?  2021.11 ..... ISBN 978-2-266-28048-8
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x225 
+- .o .     R     _HUNTER Erin                 Les Mangeurs d'ƒmes [Bravelands - 5] þ2020 The Spirit-Eaters þTrad. ROSSON Christophe
+!------------------------
+!=== 2022
+!------------------------
+o PP_JEU      ?  2022.01 ..... ISBN 978-2-266-28039-6
+} noimg          _Cliff Nielsen               ?
+!--- Jeunesse 13+ - GF - 140 x 225 - 800 pages - 19,90 euros
+- .o .     R     _CLARE Cassandra             La ChaŒne de fer [Les DerniŠres Heures - 2][La Cit‚ des t‚nŠbres] þ2021 Chain of Iron þTrad. LAFON Julie
+o PP_JEU      ?  2022.01 ..... ISBN 978-2-266-31612-5
+} noimg          _?                           ?
+!--- Jeunesse 13+ - GF - 140 x 225 - 640 pages - 19,90 euros
+- .o .     R     _WOLFF Tracy                 Foudroy‚s [Assoiff‚s - 2] þ2020 Crush þTrad. MANCO Aylin
+o PP_JEU      ?  2022.02 ..... ISBN 978-2-266-31428-2
+} noimg          _?                           ?
+!--- Jeunesse 8+ - GF - 130 x 205 - 176 pages - 11,90 euros
+- .oS.     R     _NEMO C.                     Le Rayon vert [Les Aventures du jeune Jules Verne - 8] þ? El rayo verde þTrad. CANAVESI Vanessa
+o PP_JEU      ?  2022.02 ..... ISBN 978-2-266-31553-1
+} noimg          _?                           ?
+!--- Jeunesse 13+ - GF - 140 x 225 - 456 pages - 18,90 euros
+- .oS.     R     _BARNES Jennifer Lynn        Inheritance Games [The Inheritance Games - 1] þ2020 Inheritance Games þTrad. FOURNIER Guillaume
+o PP_JEU      ?  2022.03 ..... ISBN 978-2-266-32070-2
+} noimg          _?                           ?
+!--- Jeunesse 13+ - GF - 140 x 225 - 608 pages - 19,90 euros
+- .o .     R     _OWEN Margaret               Vanja et le loup þ2021 Little Thieves þTrad. CHARTRES C‚cile
+o PP_JEU      ?  2022.03 ..... ISBN 978-2-266-32149-5
+} noimg          _?                           ?
+!--- Jeunesse 8+ - GF - 140 x 225 - 384 pages - 15,20 euros
+- .o .     R     _HUNTER Erin                 P‚ril nocturne [De l'ombre … la lumiŠre - 4][La Guerre des clans] þ2017 Darkest Night þTrad. CARLIER Aude
+o PP_JEU      ?  2022.04 ..... ISBN 978-2-266-28195-9
+} noimg          _?                           ?
+!--- Jeunesse 8+ - GF - 140 x 225 mm - 448 pages - 18,90 euros
+- .o .     R     _RILEY James                 Entre deux mondes [Les Voleurs d'histoires - 5] þ2018 Worlds Apart þTrad. BERGANZ Fabienne
+o PP_JEU      ?  2022.04 ..... ISBN 978-2-266-32460-1
+} noimg          _?                           ?
+!--- Ado 13+ - GF - 140 x 225 mm - 528 pages - 18,50 euros
+- .o .     R     _REPPELIN Marie              La Carte des Confins - Tome 2 [La Carte des Confins - 2] þ2022
+o PP_JEU      ?  2022.04 ..... ISBN 978-2-266-32114-3
+} noimg          _?                           ?
+!--- Jeunesse 8+ - GF - 140 x 225 mm - 272 pages - 15,20 euros
+- .o .     R     _HUNTER Erin                 Sauv‚s des eaux [Les Messagers du dragon - 1] þ2021 Creatures of the Flood þTrad. FRAISSE Fr‚d‚rique
+o PP_JEU      ?  2022.05 ..... ISBN 978-2-266-28049-5
+} noimg          _?                           ?
+!--- Jeunesse 8+ - GF - 140x225 - 304 pages - 15,20 euros
+- .o .     R     _HUNTER Erin                 Le Serment des braves [Bravelands - 6] þ2020 Oathkeeper þTrad. ROSSON Christophe
+o PP_JEU      ?  2022.05 ..... ISBN 978-2-266-31668-2
+} noimg          _?                           ?
+!--- Ado 13+ - GF - 140x225 - 264 pages - 17,90 euros
+- .oF.     R     _FEREY Caryl                 Ils sont venus du froid þ2022
+o PP_JEU      ?  2022.06 ..... ISBN 978-2-266-32064-1
+} noimg          _?                           ?
+!--- Ado 13+ - GF - 140 x 225 mm - 640 pages - 19,90 euros
+- .oS.     R     _BUSSI Michel                L'Empire de la mort [N.E.O. - 3] þ2022
+o PP_JEU      ?  2022.07 ..... ISBN 978-2-266-31030-7
+} noimg          _?                           ?
+!--- Jeunesse 8+ - GF - 140x225 - 432 pages - 19,50 euros
+- .oF.     R     _FAWCETT Heather             Le Chant des fant“mes þ2020 The Language of Ghosts þTrad. ROSSON Christophe
+o PP_JEU      ?  2022.07 ..... ISBN 978-2-266-32095-5
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x225 - 480 pages - 18,50 euros
+>                _BALDRY Cherith              
+- .oY.     R     _HUNTER Erin                 Le Voyage d'aile de faucon [Super Edition - 9][La Guerre des clans] þ2016 Hawkwing's Journey þTrad. CARLIER Aude
+o PP_JEU      ?  2022.08 ..... ISBN 978-2-266-31613-2
+} noimg          _?                           ?
+!--- YA - GF - 140x225 - 456 pages - 19,90 euros
+- .oF.     R     _WOLFF Tracy                 Convoit‚s [Assoiff‚s - 3] þ2021 Covet þTrad. MANCO Aylin
+o PP_JEU      ?  2022.09 ..... ISBN 978-2-266-31554-8
+} noimg          _?                           ?
+!--- YA - GF - 140x225 - 432 pages - 18,90 euros
+!--- Sous-titre site ‚diteur "Les h‚ritiers disparus"
+- .oS.     R     _BARNES Jennifer Lynn        Inheritance Games 2 [The Inheritance Games - 2] þ2021 The Hawthorne Legacy þTrad. FOURNIER Guillaume
+o PP_JEU      ?  2022.09 ..... ISBN 978-2-266-32150-1
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x225 - 336 pages
+>                _BALDRY Cherith              
+- .oY.     R     _HUNTER Erin                 La RiviŠre de feu [De l'ombre … la lumiŠre - 5][La Guerre des clans] þ2018 River of Fire þTrad. CARLIER Aude
+o PP_JEU      ?  2022.10 ..... ISBN 978-2-266-32458-8
+} noimg          _?                           ?
+!--- Jeunesse 8+ - GF - 140x225 - 216 pages - 15,20 euros
+- .oF.     R     _ARDEN Katherine             Peur sur le lac [Terreur … Smoke Hollow - 3] þ2021 Dark Waters þTrad. ORTALDA Maud
+o PP_JEU      ?  2022.10 ..... ISBN 978-2-266-32115-0
+} noimg          _?                           ?
+!--- Jeunesse - GF - 140x225 - 272 pages - 15,90 euros
+- .oY.     R     _HUNTER Erin                 Une riviŠre de secrets [Les Messagers du dragon - 2] þ2022 River of Secrets þTrad. FRAISSE Fr‚d‚rique
+o PP_JEU      ?  2022.11 ..... ISBN 978-2-266-32858-6
+} noimg          _?                           ?
+!--- YA - GF - 140x225 - 288 pages - 17,90 euros
+- .oF.     R     _WOLFF Tracy                 Prisonniers [Assoiff‚s - 4] þ2022 Court þTrad. MANCO Aylin
 
 
 !-----------------------------------------------------------------------------
-_ PP_J12  Pocket, 12/21 (num‚rique)
+! Les moyens formats num‚rot‚s
+!-----------------------------------------------------------------------------
+o PP_JEU   2929  2016.08 ..... ISBN 978-2-266-26543-0
+} noimg          _?                           ?
+!--- Jeunesse - GF - 131 x 206 - 224 pages
+- .oS.     R     _NEMO C.                     L'Œle perdue [Les Aventures du jeune Jules Verne - 1] þ? La isla perdida þTrad. CANAVESI Vanessa
+o PP_JEU   2930  2016.11 ..... ISBN 978-2-266-26544-7
+} noimg          _Paco Porres                 ?
+!--- Jeunesse - GF - 131 x 206 - 176 pages
+- .oS.     R     _NEMO C.                     Le Phare maudit [Les Aventures du jeune Jules Verne - 2] þ? El faro maldito þTrad. CANAVESI Vanessa
+o PP_JEU   2931  2017.03 ..... ISBN 978-2-266-26545-4
+} noimg          _?                           ?
+!--- Jeunesse - GF - 131 x 206 - 208 pages
+- .oS.     R     _NEMO C.                     Voyage dans les abŒmes [Les Aventures du jeune Jules Verne - 3] þ? Viaje al abismo þTrad. CANAVESI Vanessa
+o PP_JEU   3124  2017.11 ..... ISBN 978-2-266-28181-2
+} noimg          _?                           ?
+!--- Jeunesse - GF - 131 x 206 - 192 pages
+- .oS.     R     _NEMO C.                     Aux confins des oc‚ans [Les Aventures du jeune Jules Verne - 4] þ? En el fondo del mar þTrad. CANAVESI Vanessa
+o PP_JEU   3161  2018.03 ..... ISBN 978-2-266-28321-2
+} noimg          _?                           ?
+!--- Jeunesse - GF - 131 x 206 - 192 pages
+- .oS.     R     _NEMO C.                     Pi‚g‚s sur la Lune [Les Aventures du jeune Jules Verne - 5] þ? Atrapados en la luna þTrad. CANAVESI Vanessa
+o PP_JEU   3162  2018.08 ..... ISBN 978-2-266-28322-9
+} noimg          _?                           ?
+!--- Jeunesse - GF - 131 x 206 - 176 pages
+- .oS.     R     _NEMO C.                     Un capitaine de douze ans [Les Aventures du jeune Jules Verne - 6] þ? Un capit n de doce a¤os þTrad. CANAVESI Vanessa
+o PP_JEU   3415  2021.06 ..... ISBN 978-2-266-31457-2
+} noimg          _?                           ?
+!--- Jeunesse - MF - 130x205
+- .o .     R     _JAILLET Nicolas             La Fille de feu [Dragon Mania - 1] þ2021
+o PP_JEU   3477  2021.03 ..... ISBN 978-2-266-31426-8
+} noimg          _?                           ?
+!--- Jeunesse - GF - 130 x 205 - 160 pages
+- .oS.     R     _NEMO C.                     Le Compte … rebours [Les Aventures du jeune Jules Verne - 7] þ2018 La cuenta atras þTrad. CANAVESI Vanessa
+o PP_JEU   3521  2021.06 ..... ISBN 978-2-266-31970-6
+} noimg          _?                           ?
+!--- Jeunesse - MF - 130x205 - 240 pages
+- .oF.     R     _STINE R. L.                 La Disparue [Fear Street - 1] þ1989 The New Girl þTrad. FOURNIER Guillaume
+o PP_JEU   3522  2021.06 ..... ISBN 978-2-266-31971-3
+} noimg          _?                           ?
+!--- Jeunesse - MF - 130x205 - 240 pages
+- .o .     R     _STINE R. L.                 Nuit Fatale [Fear Street - 2] þ1989 The Surprise Party þTrad. FOURNIER Guillaume
+o PP_JEU   3523  2021.07 ..... ISBN 978-2-266-31972-0
+} noimg          _?                           ?
+!--- Jeunesse - MF - 130x205 - 208 pages
+- .o .     R     _STINE R. L.                 Les T‚nŠbres [Fear Street - 3] þ1989 The Overnight þTrad. FOURNIER Guillaume
+o PP_JEU   3524  2021.10 ..... ISBN 978-2-266-32056-6
+} noimg          _?                           ?
+!--- Jeunesse - MF - 130x205 - 240 pages
+- .o .     R     _STINE R. L.                 Les Effac‚s [Fear Street - 4] þ1989 Missing þTrad. FOURNIER Guillaume
+o PP_JEU   3525  2021.10 ..... ISBN 978-2-266-32109-9
+} noimg          _?                           ?
+!--- Jeunesse - MF - 130x205 - 304 pages
+- .o .     R     _STINE R. L.                 Dernier Acte [Fear Street - 36] þ1996 Secret Admirer þTrad. FOURNIER Guillaume
+o PP_JEU   3465  2022.06 ..... ISBN 978-2-266-31901-0
+} noimg          _?                           ?
+!--- Jeunesse 8+ - MF - 130x205 - 208 pages - 9,95 euros
+- .o .     R     _JAILLET Nicolas             Invasion [Dragon Mania - 2] þ2022
+o PP_JEU   3526  2022.04 ..... ISBN 978-2-266-32110-5
+} noimg          _Owen Richardson             ?
+!--- Jeunesse - MF - 130x205 - 208 pages - 9,95 euros
+- .o .     R     _STINE R. L.                 La Fugitive [Fear Street - 41] þ1997 Runaway þTrad. FOURNIER Guillaume
+o PP_JEU   3547  2022.07 ..... ISBN 978-2-266-32461-8
+} noimg          _Owen Richardson             ?
+!--- YA - GF - 130x205 - 191 pages
+- .oF.     R     _STINE R. L.                 Belle … en mourir [Fear Street - 37] þ1996 The Perfect Date þTrad. FOURNIER Guillaume
+
+
+!-----------------------------------------------------------------------------
+_ PP_J12  Pocket - 12/21 [num‚rique]
 !-----------------------------------------------------------------------------
 o PP_J12      ?  2020.09 ..... ISBN -
 } noimg          _?                           ?

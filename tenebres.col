@@ -8,11 +8,11 @@
 !---
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
-_ LUEA    Ed. Lueurs mortes, Coll. "Affres collection"
-_ LUEU    Ed. Lueurs mortes
-_ LUEN    Ed. Lueurs mortes, Coll. Nightmare
-_ SHOW    Ed. Lueurs mortes, revue "Show Effroi"
-_ TENEBRE Lueurs Mortes, Revue T‚nŠbres ş1996-...
+_ LUEA    Lueurs mortes - Affres collection
+_ LUEU    Lueurs mortes
+_ LUEN    Lueurs mortes - Nightmare
+_ SHOW    Lueurs mortes - Revue "Show Effroi"
+_ TENEBRE Lueurs Mortes - Revue T‚nŠbres ş1996-...
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
@@ -41,15 +41,20 @@ o LUEU        ?  1995.xx ..... ISBN .-.....-...-.
 !-----------------------------------------------------------------------------
 o LUEN        ?  1996.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     N     _PELOT Pierre                Le Dernier des misfits ş1994
+- .o .     N     _PELOT Pierre                Le Dernier des misfits ş1996
 o LUEN        ?  1995.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     N4    _LE BUSSY Alain              L'Angoisse que je lis dans mes yeux dans le miroir ş1995
 : .o .     N     _LE BUSSY Alain              La Fille qui avait peur de l'eau ş1995
 : .o .     N     _LE BUSSY Alain              Destins ş1995
 : .o .     N     _LE BUSSY Alain              Fixation ş1995
-: .o .     N     _LE BUSSY Alain              L'Angoisse que je lis dans mes yeux dans le miroir ş1991
+: .o .     N     _LE BUSSY Alain              L'Angoisse que je lis dans mes yeux dans le miroir ş1988
 
+
+o LUEU        ?  1994.12 ..... ISBN -
+} noimg          _Photo de S.K.               ?
+!--- ? - 145x210 - 45 pages
+- .o .     E     ****                         Dans l'ombre de Stephen King ş1994
 
 o LUEU        ?  1995.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -237,7 +242,7 @@ o TENEBRE     8  1999.xx R.... ISBN .-.....-...-.
 : .o .     N     _DARRIEUSSECQ Marie          My mother told me monsters do not exist ş1999
 : .o .     N     _GAIMAN Neil                 Que crois-tu qu'on ressente ? ş1996 How Do You Think It Feels? şTrad. MARCEL Patrick
 : .o .     N     _BOUHIER Florence            Mal de mer ş1999
-: .o .     N     _ROGERS Bruce Holland        L'Essence des morts ş1995 These Shoes Strangers Have Died Of şTrad. SERVAL Nathalie
+: .o .     N     _ROGERS Bruce Holland        L'Essence des morts ş1995 These Shoes Strangers Have Died of şTrad. SERVAL Nathalie
 : .o .     N     _ERIS Patrick                Zombies de tous pays... ş1999
 : .o .     N     _WILLIAMS Sean               Le Jeu du couteau ş1993 Twist of the Knife şTrad. FAZI M‚lanie
 : .o .     N     _VALERY Francis              Bleu ş1999
@@ -255,7 +260,7 @@ o TENEBRE     9  2000.xx R.... ISBN .-.....-...-.
 : .o .     N     _MILLER Sylvie              &Le Mur ş2000
 &                _WARD Philippe               
 : .o .     N     _CALVEZ Jean-Michel          Le Jeune Homme et l'horloge ş2000
-: .o .     N     _HOPKINS Brian A.            Je marche au milieu des vivants ş1995 To Walk Among the Living şTrad. MILLER Sylvie
+: .o .     N     _HOPKINS Brian A.            Je marche au milieu des vivants ş1992 To Walk Among the Living şTrad. MILLER Sylvie
 : .o .     N     _DARNAUDET Fran‡ois          Le Baiser de M”bius ş2000
 : .o .     N     _SMULDERS Anne               Les Mille Yeux de la mer ş1995
 !--- premiŠre publication dans "Cauchemars 95"
@@ -270,10 +275,11 @@ o TENEBRE    10  2000.xx R.... ISBN .-.....-...-.
 : .o .     N     _McAULEY Paul J.             Nommer les morts ş1999 Naming the Dead şTrad. BREQUE Jean-Daniel
 : .o .     N     _SMITH Douglas               La Parade du Hoyl [Herok'a] ş1999 A bird in the hand şTrad. DOMIS BenoŒt
 : .o .     N     _DUGUEL Anne                 Voix sans issue ş2000
-o TENEBRE    11/ 2000.xx R.... ISBN .-.....-...-.
+o TENEBRE    11/ 2000.01 R.... ISBN .-.....-...-.
 /            12 
-} noimg          _?                           ?
-- .o .     M6    ****                         T‚nŠbres 11-12 (Septembre 2000/janvier 2001) ş2000
+} noimg          _Lionel Londeix & Vincent Richard
+!--- ? - 150x210 - 408 pages
+- .o .     M6    ****                         T‚nŠbres 11-12 - Sp‚cial Stephen King (Septembre 2000/janvier 2001) ş2000
 : .o .     N     _KING Stephen                La Caisse ş1979 The Crate şTrad. DOMIS BenoŒt
 : .o .     N     _WIATER Stanley              L'Homme qui refusait d'ˆtre King ş1986 The Man who Would Not Be King şTrad. MILLER Sylvie
 : .o .     N     _KING Stephen                Tout est ‚ventuel ş1997 Everything's Eventual şTrad. BREQUE Jean-Daniel
@@ -312,17 +318,18 @@ o TENEBRE    14  2001.xx R.... ISBN .-.....-...-.
 
 !-----------------------------------------------------------------------------
 _ DREAMPR Dreampress.com
-_ DREAMCT Dreampress.com, 100Tinelles
-_ DTENEBR Dreampress.com, Anthologie annuelle T‚nŠbres
+_ DREAMCT Dreampress.com - 100Tinelles
+_ DTENEBR Dreampress.com - Anthologie annuelle T‚nŠbres
 !-----------------------------------------------------------------------------
 !--- Dreampress
 !-----------------------------------------------------------------------------
 o DREAMPR     1i 2003.10 ..... ISBN 2-84958-000-7
 } noimg          _?                           ?
-- .oY.     R     _BERTHELOT Francis           Le Serpent … collerette ş2003
+!--- 85 pages - 18 cm
+- .oY.     N     _BERTHELOT Francis           Le Serpent … collerette ş2003
 o DREAMCT     1i 2005.xx ..... ISBN 2-84958-001-5
 } noimg          _?                           ?
-- .oSH    iN94   _ANDREVON Jean-Pierre        Le Fromage de nos voisins de la planŠte Xyloon pue tout particuliŠrement ş2005
+- .oSH    iNx    _ANDREVON Jean-Pierre        Le Fromage de nos voisins de la planŠte Xyloon pue tout particuliŠrement ş2005
 o DREAMCT     2i 2005.03 ..... ISBN 2-84958-002-3
 } noimg          _?                           ?
 - .oF.    _N7    _HOPKINS Brian A.            11 minutes en septembre ş2005
@@ -335,7 +342,7 @@ o DREAMCT     2i 2005.03 ..... ISBN 2-84958-002-3
 : .oF.     N     _HOPKINS Brian A.            Je marche au milieu des vivants ş1992 To Walk Among the Living şTrad. MILLER Sylvie
 : .oF.     N     _HOPKINS Brian A.            L'ternelle Mascarade ş1996 The Endless Masquerade şTrad. BOURDIER Laurent
 : .oF.     N     _HOPKINS Brian A.            Par la petite porte ş1997 Out the Back Door şTrad. BOURDIER Laurent
-: .oF.     N     _HOPKINS Brian A.            Ceux … qui j'appartiens ş2000 People I Belong To şTrad. BOURDIER Laurent
+: .oF.     N     _HOPKINS Brian A.            Ceux … qui j'appartiens ş2000 People I Belong to şTrad. BOURDIER Laurent
 o DREAMCT     3i 2006.01 ..... ISBN 2-84958-003-1
 } noimg          _?                           ?
 - .oS.    kN2    _WATSON Ian                  La Voix de Wormwood, suivi de Le Passeur ş2005
@@ -503,10 +510,12 @@ o DREAMPR     ?  2017.11 ..... ISBN 978-2-84958-022-6
 
 
 
-o DREAMPR     ?  2003.xx ..... ISBN 2-84958-004-X
-} noimg          _?                           ?
-- .oT.     E     *CONRAD Daniel              &Le Livre des livres de Stephen King ş2005
+o DREAMPR     ?  2006.11 ..... ISBN 2-84958-004-X
+} noimg          _Thomas Desmond              ?
+!--- GF - 140x200 - 374 pages
+- .oT.     E     *CONRAD Daniel              &Le Livre des livres de Stephen King ş2006
 &                *DOMIS BenoŒt                
+
 
 !-----------------------------------------------------------------------------
 !--- T‚nŠbres annuels
@@ -518,7 +527,7 @@ o DTENEBR     ?  2007.xx R.... ISBN .-.....-...-.
 : .oF.     N     _NIOGRET Justine             Je suis un soir d'‚t‚ ş2007
 : .oF.     N     _MAMIER Claude               Celui qui te touche ş2007
 ?: .oF.     I     _CHARRIER MichŠle            Interview de Claude Mamier ş2007
-: .oF.     N     _CASTLE Mort                 Le Vieil homme et les morts ş1992 The Old Man and the Dead şTrad. ?
+: .oF.     N     _CASTLE Mort                 Le Vieil Homme et les morts ş1992 The Old Man and the Dead şTrad. ?
 : .oF.     N     _BERROUKA Karim              Eclairage sur un mythe urbain : la dame blanche dans toute sa confondante r‚alit‚ ş2007
 ?: .oF.     a     _CONRAD Daniel               Derniers mots, derniŠres phrases : mes ‚pitaphes ş2007
 : .oF.     N     _EBORY Elisabeth             Fall ş2007
@@ -636,7 +645,7 @@ o DTENEBR     ?  2014.xx ..... ISBN 978-2-84958-015-8
 : .o .     N     _MEIKLE William              La Porte rouge ş? A Haunting
 : .o .     N     _FLAJOLET-TOUBAS Jennifer    Mon dernier voyage ş2014
 : .o .     N     _PEZENNEC Jean               Une aventure p‚tersbourgeoise ş2014
-: .o .     N     _STRAND Jeff                 La Vengeance … huit pattes ş2010  Eight-Legged Vengeance
+: .o .     N     _STRAND Jeff                 La Vengeance … huit pattes ş2010 Eight-Legged Vengeance
 : .o .     N     _ROUSSEAU Rapha‰l            La Dame en gris ş2014
 : .o .     N     _CROUZET Yves-Daniel         Papillonite ş2014
 : .o .     N     _SERVAL Nathalie             Troubles ş2014
@@ -726,7 +735,7 @@ o DREAMPR     ?  2018.11 ..... ISBN 978-2-84958-023-3
 : .o .     N     _MOURET St‚phane             La Bande … Lazare ş2018
 : .o .     N     _LAMACHE St‚phanie           La Marche du temps ş2018
 : .o .     N     _GENTILHOMME Serena          Divine laideur ş2018
-: .o .     N     _BONDONI Gustavo             Le son porte loin dans le veld ş2009 Bridge over the Cunene şTrad. LE VU C‚line
+: .o .     N     _BONDONI Gustavo             Le son porte loin dans le veld ş2009 Bridge Over the Cunene şTrad. LE VU C‚line
 !--- Titre VO de Slatter … confirmer
 : .o .     N     _SLATTER Angela              Retour au foyer ş2014 Home and Hearth şTrad. FAVRE Audrey
 : .o .     N     _GUIZANI Sophie              Pour un brin de muguet ş2018

@@ -1,24 +1,24 @@
 !-----------------------------------------------------------------------------
 _ ECOL    L'‚cole des loisirs
-_ ECOL_NR L'‚cole des loisirs, Nouvelles et romans de l'‚cole des loisirs
+_ ECOL_NR L'‚cole des loisirs - Nouvelles et romans de l'‚cole des loisirs
 !-----------------------------------------------------------------------------
-_ ECOL_MO L'‚cole des loisirs, Coll. Mouche
+_ ECOL_MO L'‚cole des loisirs - Mouche
 !-----------------------------------------------------------------------------
-_ ECOL_9  L'‚cole des loisirs, Coll. Neuf
-_ ECOL_9P L'‚cole des loisirs, Coll. Neuf en Poche
+_ ECOL_9  L'‚cole des loisirs - Neuf
+_ ECOL_9P L'‚cole des loisirs - Neuf en Poche
 !-----------------------------------------------------------------------------
-_ ECOL_M  L'‚cole des loisirs, M‚dium
-_ ECOL_M+ L'‚cole des loisirs, M‚dium +
-_ ECOL_MG L'‚cole des loisirs, M‚dium Grand Format
-_ ECOL_MP L'‚cole des loisirs, M‚dium poche
+_ ECOL_M  L'‚cole des loisirs - M‚dium
+_ ECOL_M+ L'‚cole des loisirs - M‚dium +
+_ ECOL_MG L'‚cole des loisirs - M‚dium Grand Format
+_ ECOL_MP L'‚cole des loisirs - M‚dium poche
 !-----------------------------------------------------------------------------
-_ ECOLCLA L'‚cole des loisirs, Coll. Classiques
-_ ECOLABR L'‚cole des loisirs, Coll. Classiques abr‚g‚s
-_ ECOL_IC L'‚cole des loisirs, Coll. Illustres Classiques
-_ ECOL_KA L'‚cole des loisirs, Kal‚idoscope
+_ ECOLCLA L'‚cole des loisirs - Classiques
+_ ECOLABR L'‚cole des loisirs - Classiques abr‚g‚s
+_ ECOL_IC L'‚cole des loisirs - Illustres Classiques
+_ ECOL_KA L'‚cole des loisirs - Kal‚idoscope
 !-----------------------------------------------------------------------------
-_ ECOL_MA L'‚cole des loisirs, Maximax
-_ ECOL_MJ L'‚cole des loisirs, Majeur
+_ ECOL_MA L'‚cole des loisirs - Maximax
+_ ECOL_MJ L'‚cole des loisirs - Majeur
 !-----------------------------------------------------------------------------
 
 !=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -203,9 +203,18 @@ o ECOL_M      ?  2010.11 ..... ISBN 978-2-211-20319-7
 o ECOL_M      ?  2011.xx ..... ISBN 978-2-211-20379-1
 } noimg          _?                           ?
 - .oF.     R     _FIERPIED Ma‰lle             GalymŠde - F‚e blanche, ombre de Thym ş2011
+o ECOL_M      ?  2011.xx ..... ISBN 978-2-211-09766-6
+} noimg          _?                           ?
+- .oF.     R     _HUBBARD Susan               La Soci‚t‚ des S [La Soci‚t‚ des S - 1] ş2007 The Society of S şTrad. DANTON Marion
+o ECOL_M      ?  2011.xx ..... ISBN 978-2-211-09763-5
+} noimg          _?                           ?
+- .oF.     R     _HUBBARD Susan               Le Temps des disparitions [La Soci‚t‚ des S - 2] ş2008 The Year of Disappearances şTrad. DANTON Marion
 o ECOL_M+     ?  2012.01 ..... ISBN 978-2-211-20379-1
 } noimg          _?                           ?
 - .oF.     R     _FIERPIED Ma‰lle             GalymŠde - F‚e blanche, ombre de Thym ş2011
+o ECOL_M      ?  2012.xx ..... ISBN 978-2-211-20817-8
+} noimg          _?                           ?
+- .oF.     R     _HUBBARD Susan               La Saison des dangers [La Soci‚t‚ des S - 3] ş2010 The Season of Risks şTrad. DANTON Marion
 o ECOL_M      ?  2012.05 ..... ISBN 978-2-211-20868-0
 } noimg          _?                           ?
 - .oF.     R     _LAVACHERY Thomas            Les Mille BanniŠres [Bjorn aux arm‚es - 2][Bjorn le morphir - 7] ş2012
@@ -243,13 +252,25 @@ o ECOL_M+     ?  2020.03 ..... ISBN 978-2-211-30693-5
 } noimg          _Siegfried de Turkheim       ?
 !--- Poche - 19 cm - 534 pages - 9,80 euros
 - .oS.     R     _FARMER Nancy                La Maison du scorpion ş2002 The House of the Scorpion şTrad. DAYRE Val‚rie
+o ECOL_M+     ?  2020.10 ..... ISBN 978-2-211-31016-1
+} noimg          _?                           ?
+!--- YA 13+ - GF 149 x 218 mm - 416 pages - 17 euros
+- .oS.     R     _HOLZL Ariel                 Bpocalypse ş2022
+o ECOL_M      ?  2020.11 ..... ISBN 978-2-211-31014-7
+} noimg          _?                           ?
+!--- Jeunesse - GF - 150x220 - 512 pages
+- .oF.     R     _OKORAFOR Nnedi              Akata Warrior [Akata] ş2017 Akata Warrior şTrad. COHEN-BEUCHER Anne
+o ECOL_M+     ?  2022.10 ..... ISBN 978-2-211-32456-4
+} noimg          _?                           ?
+!--- YA 13+ - GF - 352 pages - 17 euros
+- .oS.     R     _HOLZL Ariel                 Pax Automata ş2022
 
 !-----------------------------------------------------------------------------
 !--- L'Ecole des Loisirs, M‚dium Poche
 !-----------------------------------------------------------------------------
 o ECOL_MP     ?  1987.xx ..... ISBN 2-211-05525-7
 } noimg          _?                           ?
-!--- 1979 Coll. Renard Poche nø 78
+!--- 1979 Collection Renard Poche nø 78
 !--- 1982 Nouvelles et romans de l'cole des loisirs
 !--- 1987 Medium Poche (r‚‚d. 1996)
 !--- 2019 Classiques
@@ -260,7 +281,7 @@ o ECOL_MP     ?  1987.xx R.... ISBN 2-211-01340-6
 : .o .     N     _CATHALA Sophie              Un gentil petit bled ş1963
 : .o .     N     _CARROUGES Michel            Le Cache-Nez de caoutchouc ş1954
 : .o .     N     _BALLARD James G.            Le Vinci disparu ş1964 The Lost Leonardo
-: .o .     N     _OWEN Thomas                 Une aile de papillon mort ş1963
+: .o .     N     _OWEN Thomas                 Une aile de papillon mort ş1943
 : .o .     N     _FARRERE Claude              Le Train perdu ş1921
 : .o .     N     _CASSAC Bernard              L'Arbre du portugais ş1977
 o ECOL_MP     ?  1988.xx R.... ISBN 2-211-02932-9
@@ -298,20 +319,20 @@ o ECOL_MP     ?  1993.xx ..... ISBN 2-211-01267-1
 o ECOL_MP     ?  1996.xx ..... ISBN 2-211-03888-3
 } noimg          _?                           ?
 - .oIK     A9    *POSLANIEC Christian         Il ‚tait arriv‚ quelque chose et autres histoires insolites ş1996
-: .o .     N     _BUZZATI Dino                Il ‚tait arriv‚ quelque chose ş1960 Qualcosa era successo
+: .o .     N     _BUZZATI Dino                Il ‚tait arriv‚ quelque chose ş1949 Qualcosa era successo
 : .o .     N     _WUL Stefan                  Expertise ş1958
 : .o .     N     _ANDREVON Jean-Pierre        L'Arche de Marcel Dupond ş1979
 : .o .     N     _CHICA                       L'Escaladeur ş1986
 : .o .     N     _KLEIN G‚rard                Le Bord du chemin ş1957
 : .o .     N     _BROWN Fredric               Les Vies courtes et heureuses d'Eustache Weaver ş1961 The Short Happy Lives of Eustace Weaver şTrad. ?
-: .o .     N     _MANIER Bernard              La Carte ş1961
-: .o .     N     _CHRISTIE Agatha             La Vivante et la morte ş1925 The Fourth Man
+: .o .     N     _MANIER Bernard              La Carte ş1958
+: .o .     N     _CHRISTIE Agatha             La Vivante et la morte ş1933 The Fourth Man
 : .o .     N     _ROBERTS Jane                Le Chariot rouge ş1956 The Red Wagon
-o ECOL_MP     ?  1998.xx ..... ISBN .-.....-...-.
+o ECOL_MP     ?  1998.xx ..... ISBN 2-211-04838-2
 } noimg          _?                           ?
 + ECOL_MP     ?  2015.04 ..... ISBN 978-2-211-22258-7
 } noimg          _?                           ?
-- .oF.     R     _MURAIL Marie-Aude           Amour, vampire et loup-garou ş2015
+- .oPF     R     _MURAIL Marie-Aude           Amour, vampire et loup-garou ş1998
 o ECOL_MP     ?  2015.11 ..... ISBN 978-2-211-22324-9
 } noimg          _?                           ?
 - .oS.     R     _LOWRY Lois                  Passeuse de rˆve ş2006 Gossamer şTrad. PRESSMANN Fr‚d‚rique
@@ -353,15 +374,19 @@ o ECOL_MP     ?  2017.11 ..... ISBN 978-2-211-23171-8
 o ECOL_MP     ?  2019.09 ..... ISBN 978-2-211-30214-2
 } noimg          _?                           ?
 - .oS.     R     _LOWRY Lois                  Le Fils [Le Passeur - 4] ş2012 Son şTrad. PRESSMANN Fr‚d‚rique
+o ECOL_MP     ?  2022.11 ..... ISBN 978-2-211-32489-2
+} noimg          _?                           ?
+!--- YA 13+ - Poche - 120x190 - 512 pages - 9,50 euros
+- .oS.     R     _HOLZL Ariel                 Bpocalypse ş2020
 
 
 
 
 ?o ECOL        ?  1981.xx ..... ISBN 2-211-06998-3
-?!--- Ed. 1987 : ISBN 2-211-06998-3 (rectifi‚). - ISBN 2-211-069980-3 (erron‚)
+?!--- Edition 1987 : ISBN 2-211-06998-3 (rectifi‚). - ISBN 2-211-069980-3 (erron‚)
 ?} noimg          _Philippe Dumas              ?
 ?!--- ComplŠtement hors genre
-?- .pN.    iN9    _MAUPASSANT Guy de           Neuf contes et nouvelles ş1981
+?- .pN.     N9    _MAUPASSANT Guy de           Neuf contes et nouvelles ş1981
 ?: .o .     N     _MAUPASSANT Guy de           La Bˆte … maŒt'Belhomme ş?
 ?: .o .     N     _MAUPASSANT Guy de           La ficelle ş?
 ?: .o .     N     _MAUPASSANT Guy de           Sur l'eau ş?
@@ -510,7 +535,7 @@ o ECOLCLA     ?  1979.xx ..... ISBN 2-211-05592-3
 - .oM.     N10   _ANDERSEN Hans Christian     Contes - Tome 3 ((Contes d'Andersen)) ş1979
 : .o .     N     _ANDERSEN Hans Christian     L'Aiguille … repriser ş1845 Stoppenaalen şTrad. ?
 : .o .     N     _ANDERSEN Hans Christian     La BergŠre et le Ramoneur ş1845 Hyrdinden og Skorsteensfeieren şTrad. ?
-: .o .     N     _ANDERSEN Hans Christian     La Petite Fille et les allumettes ş1845 Den Lille pige med Svovlstikkerne şTrad. ?
+: .o .     N     _ANDERSEN Hans Christian     La Petite Fille et les allumettes ş1845 Den lille Pige med Svovlstikkerne şTrad. ?
 : .o .     N     _ANDERSEN Hans Christian     L'Ombre ş1847 Skyggen şTrad. ?
 : .o .     N     _ANDERSEN Hans Christian     La Vieille Maison ş1847 Det gamle Huus şTrad. ?
 : .o .     N     _ANDERSEN Hans Christian     Le Chanvre ş1848 H›rren şTrad. ?
@@ -564,7 +589,7 @@ o ECOLCLA     ?  1979.xx ..... ISBN 2-211-05665-2
 : .o .     N     _GRIMM Jacob & Wilhelm       La Fianc‚e blanche et la fianc‚e noire ş1815 Die weiáe und die schwarze Braut
 : .o .     N     _GRIMM Jacob & Wilhelm       Mont Simeli ş1815 Simelberg
 : .o .     N     _GRIMM Jacob & Wilhelm       Les Thalers des ‚toiles ş1815 Die Sterntaler
-: .o .     N     _GRIMM Jacob & Wilhelm       Neige-Blanche et Rose-Rouge ş1837 Scheeweisschen und rosenrot
+: .o .     N     _GRIMM Jacob & Wilhelm       Neige-Blanche et Rose-Rouge ş1837 Scheeweisschen und Rosenrot
 : .o .     N     _GRIMM Jacob & Wilhelm       MaŒtre Poin‡on ş1843 Meister Pfriem
 : .o .     N     _GRIMM Jacob & Wilhelm       La Gardeuse d'oies prŠs de la fontaine ş1843 Die G„nsehirtin am Brunnen
 : .o .     N     _GRIMM Jacob & Wilhelm       La Vraie Fianc‚e ş1843 Die wahre Braut
@@ -578,7 +603,7 @@ o ECOLABR     ?  1980.xx ..... ISBN 2-211-06947-.
 + ECOLABR     ?  2018.06 ..... ISBN 978-2-211-12452-2
 } noimg          _?                           ?
 !--- Abr‚g‚ par Bernard No‰l
-- .oS.     R     _VERNE Jules                 Voyage au centre de la Terre (Texte abr‚g‚) ş1864-1967
+- .oS.     R     _VERNE Jules                 Voyage au centre de la Terre (Texte abr‚g‚) ş1864-1867
 o ECOLCLA     ?  1982.xx ..... ISBN 2-211-08761-2
 } noimg          _?            ?
 + ECOLCLA     ?  2019.11 ..... ISBN 978-2-211-30459-7
@@ -610,18 +635,18 @@ o ECOLABR     ?  1988.xx ..... ISBN 2-211-04122-1
 + ECOLABR     ?  2018.05 ..... ISBN 978-2-211-12448-5
 } noimg          _Notor                       ?
 !--- Trad. Lecomte de Lisle + Bruno R‚my
-- .oF.     R     _HOMERE                      L'Odyss‚e (Texte abr‚g‚) ş?
+- .oF.     R     _HOMERE                      L'Odyss‚e (Texte abr‚g‚) ş? ?
 o ECOLABR     ?  1990.xx ..... ISBN 2-211-07200-3
 } noimg          _Notor                       ?
 + ECOLABR     ?  2019.01 ..... ISBN 978-2-211-23969-1
 } noimg          _Isabelle Chƒtelet           ?
 !--- Trad. Lecomte de Lisle + Bruno R‚my
-- .oF.     R     _HOMERE                      L'Iliade (Texte abr‚g‚) ş?
+- .oF.     R     _HOMERE                      L'Iliade (Texte abr‚g‚) ş? ?
 o ECOLCLA     ?  1992.xx ..... ISBN 2-211-01983-5
 } noimg          _?            ?
 + ECOLCLA     ?  2019.01 ..... ISBN 978-2-211-23848-9
 } noimg          _?                           ?
-!--- şTrad. Jean-Pierre Tusseau
+!--- Trad. Jean-Pierre Tusseau
 - .o .     R     _CHRETIEN de TROYES          Yvain, le chevalier au lion [Les Romans arthuriens - 4] şc1180
 o ECOLABR     ?  2014.05 ..... ISBN 978-2-211-07380-6
 } noimg          _?                           ?
@@ -646,12 +671,11 @@ o ECOLABR     ?  2008.xx ..... ISBN 978-2-211-09019-3
 o ECOLCLA     ?  2008.10 ..... ISBN 978-2-211-09309-5
 } ecole_09309    _?                           ?
 - .oF.     N6    _POE Edgar Allan             Double assassinat dans la rue Morgue et autres histoires extraordinaires ş2008
-!--- şTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             La Chute de la maison Usher ş1839 The Fall of the House of Usher
 : .o .     N     _POE Edgar Allan             Double assassinat dans la rue Morgue [Auguste Dupin] ş1841 The Murders in the Rue Morgue şTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             La Lettre vol‚e [Auguste Dupin] ş1845 The Purloined Letter şTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Le Chat noir ş1843 The Black Cat şTrad. BAUDELAIRE Charles
-: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur ş1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur ş1843 The Tell-Tale Heart
 : .o .     N     _POE Edgar Allan             Le Puits et le pendule ş1843 The Pit and the Pendulum şTrad. BAUDELAIRE Charles
 : .oF.     N     _POE Edgar Allan             Le Masque de la mort rouge ş1842 The Masque of the Red Death şTrad. BAUDELAIRE Charles
 o ECOLCLA     ?  2009.05 ..... ISBN 978-2-211-09386-6
@@ -659,8 +683,8 @@ o ECOLCLA     ?  2009.05 ..... ISBN 978-2-211-09386-6
 - .oF.     R     _WILDE Oscar                 Le Portrait de Dorian Gray ş1891 The Picture of Dorian Gray şTrad. MOISSARD Boris
 o ECOLCLA     ?  2009.10 ..... ISBN 978-2-211-09816-8
 } noimg          _?                          ?
+!--- textes r‚unis et traduits par... Trad. SABARD Marie-H‚lŠne
 - .oF.    iNx    _DICKENS Charles             Histoires de fant“mes : Un conte de No‰l et autres r‚cits ((Histoires de fant“mes de Charles Dickens)) ş2009
-!--- textes r‚unis et traduits par... şTrad. SABARD Marie-H‚lŠne
 : .o .     r     _DICKENS Charles             Un chant de No‰l ş1843 A Christmas Carol şTrad. SIBON Marcelle
 : .oF.     N     _DICKENS Charles             L'Aiguilleur ş1886 The Signal-man
 : .oF.     N     _DICKENS Charles             Le TreiziŠme Jur‚ ou Le ProcŠs pour crime ş1865 The Trial for Murder
@@ -684,7 +708,7 @@ o ECOLCLA     ?  2009.10 ..... ISBN 978-2-211-09388-0
 : .o .     N     _SAND George                 Le Lupeux ş?
 : .? .     N     _SAND George                 Les Laveuses de nuit ou lavandiŠres ş?
 : .? .     N     _SAND George                 Le Casseu' de bois ş?
-: .?F.     N     _SAND George                 Le G‚ant Y‚ous ş1873
+: .oF.     N     _SAND George                 Le G‚ant Y‚ous ş1873
 o ECOLABR     ?  2009.xx ..... ISBN 978-2-211-09694-2
 } noimg          _?            ?
 + ECOLABR     ?  2018.09 ..... ISBN 978-2-211-23831-1
@@ -724,10 +748,9 @@ o ECOLABR     ?  2012.xx ..... ISBN 978-2-211-20623-5
 - .oF.     R     _GRAHAME Kenneth             Le Vent dans les saules (Texte abr‚g‚) ş1908 The Wind in the Willows şTrad. LOMRE Maurice
 o ECOLABR     ?  2012.xx ..... ISBN 978-2-211-21132-1
 } noimg          _?                           ?
+!--- Trad./Adapt. SABARD Marie-H‚lŠne
+!--- TBD s'il faut identifier en contenu les deux romans abr‚g‚s (v‚rifiable seulement avec l'ouvrage seul)
 - .oF.     R     _BAUM Frank Lyman            Oz (Texte abr‚g‚) [Le Pays d'Oz - 1/2] ş2012
-!--- şTrad. SABARD Marie-H‚lŠne
-?: .oF.     R     _BAUM Frank Lyman            Le Magicien d'Oz [Le Pays d'Oz - 1] ş1900 The Wonderful Wizard of Oz şTrad. HOMASSEL Anne-Sylvie & LONGRE Blandine
-?: .oF.     R     _BAUM Frank Lyman            Le Merveilleux Pays d'Oz [Le Pays d'Oz - 2] ş1904 The Marvelous Land of Oz şTrad. HOMASSEL Anne-Sylvie & LONGRE Blandine
 o ECOLCLA     ?  2013.11 ..... ISBN 978-2-211-21229-8
 } noimg          _?                           ?
 + ECOLCLA     ?  2019.11 ..... ISBN 978-2-211-30467-2

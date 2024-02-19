@@ -1,20 +1,24 @@
 !-----------------------------------------------------------------------------
 !---            Black Library France
 !-----------------------------------------------------------------------------
-_ BLF_WAR Black Library, Warhammer
-_ BLF_WCH Black Library, Warhammer Chronicles
-_ BLF_W40 Black Library, Warhammer 40 000
-_ BLF_W4P Black Library, Warhammer 40 000 Poche
-_ BLF_TOL Black Library, Times of Legends
-_ BLF_HH  Black Library, The Horus Heresy
-_ BLF_WAS Black Library, Age Of Sigmar
-_ BLF_WAP Black Library, Age Of Sigmar Poche
-_ BLn_WAS Black Library, Age Of Sigmar (num‚rique)
-_ BLF_C1n Black Library, Romans Courts (num‚rique)
-_ BLF_C2n Black Library, Romans Courts s‚rie 2 (num‚rique)
-_ BLF_ADV Black Library, Warhammer Adventures
-_ BLF_HOR Black Library, Warhammer Horror
-_ BLF_NEC Black Library, Necromunda
+_ BLF_WAR Black Library - Warhammer
+_ BLn_WAR Black Library - Warhammer [num‚rique]
+_ BLF_WCH Black Library - Warhammer Chronicles
+_ BLF_W40 Black Library - Warhammer 40 000
+_ BLn_W40 Black Library - Warhammer 40 000 [num‚rique]
+_ BLF_CRI Black Library - Warhammer 40 000 - Warhammer Crime
+_ BLn_CRI Black Library - Warhammer 40 000 - Warhammer Crime [num‚rique]
+_ BLF_W4P Black Library - Warhammer 40 000 Poche
+_ BLF_TOL Black Library - Times of Legends
+_ BLF_HH  Black Library - The Horus Heresy
+_ BLF_WAS Black Library - Age of Sigmar
+_ BLF_WAP Black Library - Age of Sigmar [poche]
+_ BLn_WAS Black Library - Age of Sigmar [num‚rique]
+_ BLF_C1n Black Library - Romans Courts [num‚rique]
+_ BLF_C2n Black Library - Romans Courts s‚rie 2 [num‚rique]
+_ BLF_ADV Black Library - Warhammer Adventures
+_ BLF_HOR Black Library - Warhammer Horror
+_ BLF_NEC Black Library - Necromunda
 !-----------------------------------------------------------------------------
 
 !--- EDIT : Black Library France
@@ -37,7 +41,7 @@ o BLF_WAR     ?  2011.06 ..... ISBN 978-1-78030-000-9
 : .oY.     R     _KING William                Tueur de d‚mons [Gotrek et Felix - 3] þ1999 Daemonslayer þTrad. BEAUBRUN Philippe
 o BLF_WAR     ?  2011.06 ..... ISBN 978-1-78030-001-6
 } blw014         _?                           ?
-- .oY.    kR3    _KING William                Gotrek et Felix - Le DeuxiŠme Omnibus [Gotrek et Felix - 4/6] þ2011
+- .oY.    kR3    _KING William                Gotrek et Felix - Le deuxiŠme omnibus [Gotrek et Felix - 4/6] þ2006 Gotrek & Felix: The Second Omnibus
 : .oY.     R     _KING William                Tueur de dragons [Gotrek et Felix - 4] þ2000 Dragonslayer þTrad. BEAUBRUN Philippe
 : .oY.     R     _KING William                Tueur de monstres [Gotrek et Felix - 5] þ2001 Beastslayer þTrad. BEAUBRUN Philippe
 : .oY.     R     _KING William                Tueur de vampires [Gotrek et Felix - 6] þ2001 Vampireslayer þTrad. BEAUBRUN Philippe
@@ -96,7 +100,7 @@ o BLF_WAR     ?  2012.05 ..... ISBN 978-1-78030-077-1
 - .oY.     R     _LONG Nathan                 Tueur de zombies [Gotrek et Felix - 12] þ2010 Zombieslayer þTrad. ?
 o BLF_WAR     ?  2012.06 ..... ISBN 978-1-78030-041-2
 } blw054         _?                           ?
-- .oY.    kR3    _KING William               &Gotrek et Felix - Le TroisiŠme Omnibus [Gotrek et Felix - 7/9] þ2012
+- .oY.    kR3    _KING William               &Gotrek et Felix - Le troisiŠme omnibus [Gotrek et Felix - 7/9] þ2009 Gotrek & Felix: The Third Omnibus
 &                _LONG Nathan                 
 : .oY.     R     _KING William                Tueur de g‚ants [Gotrek et Felix - 7] þ2003 Giantslayer þTrad. BEAUBRUN Philippe
 : .oY.     R     _LONG Nathan                 Tueur d'orques [Gotrek et Felix - 8] þ2006 Orcslayer þTrad. BEAUBRUN Philippe
@@ -133,10 +137,10 @@ o BLF_WAR     ?  2013.06 ..... ISBN 978-1-78030-066-5
 o BLF_WAR     ?  2013.08 ..... ISBN 978-1-78030-137-2
 } noimg          _?                           ?
 - .oS.     R     _HALEY Guy                   Skarsnik þ2013 Skarsnik þTrad. ?
-?o XXXX        ?  2013.09 ..... ISBN ?
-?!--- E-book only en novembre :
-?} noimg          _?                           ?
-?- .oY.     R     _EARL Robert                 Les Rivages br–lants [Florin & Lorenzo - 1] þ2004 Florin and Lorenzo 1 : The Burning Shore þTrad. Olivier Fanton
+o BLn_WAR     ?  2013.09 ..... ISBN ?
+} noimg          _?                           ?
+!--- E-book only en novembre
+- .oY.     R     _EARL Robert                 Les Rivages br–lants [Florin & Lorenzo - 1] þ2004 The Burning Shore þTrad. FANTON Olivier
 o BLF_WAR     ?  2013.09 ..... ISBN 978-1-78030-109-9
 } noimg          _?                           ?
 - .oS.     R     _HINKS Darius                Les Vo–tes hivernales [Orion - 1] þ2012 The Vaults of Winter þTrad. BECONE Billy
@@ -207,11 +211,11 @@ o BLF_TOL     ?  2013.05 ..... ISBN 978-1-78030-136-5
 - .oS.     R     _THORPE Gav                  Caledor - Volume 2 [La D‚chirure - 3.2] þ2011 Caledor þTrad. VESSIERE J‚r“me
 o BLF_TOL     ?  2013.07 ..... ISBN 978-1-78030-114-3
 } noimg          _?                           ?
-!---TBC : þTrad. J‚r“me VessiŠre
+!---TBC : Trad. J‚r“me VessiŠre
 - .oS.     R     _WERNER C.L.                 Hiver mort [La Peste noire - 1] þ2012 Dead Winter þTrad. DELMAS S‚bastien
-?!--- Le suivant, pr‚vu en juin, n'est toujours pas paru en d‚cembre...
 ?o BLF_TOL     ?  2014.xx ..... ISBN 978-1-78030-173-0
 ?} noimg          _?                           ?
+?!--- Pr‚vu en juin en 2014, toujours pas paru fin 2021
 ?- .oY.     R     _WERNER C.L.                 Les Ruines de l'empire [La Peste noire - 2] þ2013 Blighted Empire þTrad. ?
 
 !-----------------------------------------------------------------------------
@@ -267,6 +271,9 @@ o BLF_HH      ?  2012.01 ..... ISBN 978-1-78030-057-3
 } noimg          _?                           ?
 + BLF_HH      ?  2020.07 ..... ISBN 978-1-78030-512-7
 } noimg          _?                           ?
++ BLF_HH      ?  2021.11 ..... ISBN 978-1-78030-512-7
+} noimg          _?                           ?
+!--- GF - 235x155 - 400 pages
 - .oS.     R     _LEE Mike                    Les Anges d‚chus [L'H‚r‚sie d'Horus - 11] þ2009 Fallen Angels þTrad. ATTINOST BenoŒt
 o BLF_HH      ?  2012.02 ..... ISBN 978-1-78030-046-7
 } blw040         _?                           ?
@@ -383,7 +390,7 @@ o BLF_HH      ?  2014.10 ..... ISBN 978-1-78030-187-7
 o BLF_HH      ?  2015.01 ..... ISBN 978-1-78030-191-4
 } blw140         _?                           ?
 - .oS.     RN2   _McNEILL Graham              Les Fils de Lupercal [L'H‚r‚sie d'Horus] þ2015
-: .oS.     N     _McNEILL Graham              Luna Mendax [L'H‚r‚sie d'Horus] þ2014 Luna Mendax þTrad. DROUET Julien
+: .oS.     N     _McNEILL Graham              Luna Mendax [L'H‚r‚sie d'Horus] þ2013 Luna Mendax þTrad. DROUET Julien
 : .oS.     N     _McNEILL Graham              L'Adoratrice divine [L'H‚r‚sie d'Horus] þ2014 The Devine Adoratrice þTrad. DROUET Julien
 : .oS.     R     _McNEILL Graham              Les Fils de Lupercal [Vengeful Spirit - 1][L'H‚r‚sie d'Horus - 29] þ2014 Vengeful Spirit þTrad. DROUET Julien
 o BLF_HH      ?  2015.02 ..... ISBN 978-1-78030-228-7
@@ -600,7 +607,7 @@ o BLF_HH      ?  2018.09 ..... ISBN 978-1-78030-393-2
 - .oS.     R     _KYME Nick                   La Vieille Terre [L'H‚r‚sie d'Horus - 47] þ2017 Old Earth þTrad. CLEMENT Sylvain
 o BLF_HH      ?  2018.10 ..... ISBN 978-1-78030-405-2
 } noimg          _Mikhail Savier              ?
-- .oS.     R     _ANNANDALE David             Vulkan, seigneur des Dracs [Les Primarques - 9][L'H‚r‚sie d'Horus] þ2018 Vulkan þTrad. FERAUD Marianne
+- .oS.     R     _ANNANDALE David             Vulkan - Seigneur des Dracs [Les Primarques - 9][L'H‚r‚sie d'Horus] þ2018 Vulkan þTrad. FERAUD Marianne
 o BLF_HH      ?  2018.11 ..... ISBN 978-1-78030-409-0
 } noimg          _Neil Roberts                ?
 - .oS.     R     _HALEY Guy                   Le Fl‚au du Loup [L'H‚r‚sie d'Horus - 49] þ2018 Wolfsbane þTrad. DROUET Julien
@@ -613,7 +620,7 @@ o BLF_HH      ?  2018.12 ..... ISBN 978-1-78030-424-3
 o BLF_HH      ?  2019.01 ..... ISBN 978-1-78030-419-9
 } noimg          _Mikhail Savier              ?
 !--- Reli‚
-- .oS.     R     _HALEY Guy                   Corax, seigneur des ombres [Les Primarques - 10][L'H‚r‚sie d'Horus] þ2019 Corax Lord of Shadows þTrad. PINON Philippe
+- .oS.     R     _HALEY Guy                   Corax - Seigneur des ombres [Les Primarques - 10][L'H‚r‚sie d'Horus] þ2019 Corax Lord of Shadows þTrad. PINON Philippe
 o BLF_HH      ?  2019.02 ..... ISBN 978-1-78030-468-7
 } noimg          _Mikhail Savier              ?
 - .oS.     R     _FRENCH John                 Esclaves des t‚nŠbres [L'H‚r‚sie d'Horus - 51] þ2018 Slaves to Darkness þTrad. CLEMENT Sylvain
@@ -637,10 +644,10 @@ o BLF_HH      ?  2019.09 ..... ISBN 978-1-78030-495-3
 - .oY.     R     _HALEY Guy                   Konrad Curze - Hante-La-Nuit [Les Primarques - 12][L'H‚r‚sie d'Horus] þ2019 Konrad Curze þTrad. DEBOT Anthony
 o BLF_HH      ?  2019.10 ..... ISBN 978-1-78030-513-4
 } blw309         _?                           ?
+!--- volume est agr‚ment‚ de 12 illustrations en noir et blanc des principaux personnages et des scŠnes clefs des r‚cit
 - .oS.    kR3    _ABNETT Dan                 &The Horus Heresy - Collection I [L'H‚r‚sie d'Horus - 1/3] þ2019
 &                _McNEILL Graham             &
 &                _COUNTER Ben                 
-!--- volume est agr‚ment‚ de 12 illustrations en noir et blanc des principaux personnages et des scŠnes clefs des r‚cit
 : .oS.     R     _ABNETT Dan                  L'Ascension d'Horus [L'H‚r‚sie d'Horus - 1] þ2006 Horus Rising þTrad. DROUET Julien
 : .oS.     R     _McNEILL Graham              Les Faux dieux [L'H‚r‚sie d'Horus - 2] þ2006 False Gods þTrad. DROUET Julien
 : .oS.     R     _COUNTER Ben                 La Galaxie en flammes [L'H‚r‚sie d'Horus - 3] þ2006 Galaxy in Flames þTrad. DROUET Julien
@@ -650,7 +657,7 @@ o BLF_HH      ?  2019.11 ..... ISBN 978-1-78030-508-0
 o BLF_HH      ?  2019.12 ..... ISBN 978-1-78030-504-2
 } blw313         _Neil Roberts                ?
 - .oS.     A11   *GOULDING Laurie             Les L‚gions Bris‚es [L'H‚r‚sie d'Horus - 43] þ2017 Shattered Legions þTrad. DEBOT Anthony
-: .o .     N     _ABNETT Dan                  Meduson par Dan Abnett þ2016 ?
+: .o .     N     _ABNETT Dan                  Meduson þ2016 Meduson
 : .o .     N     _ANNANDALE David             Le Noeud coulant þ2016 The Noose
 : .o .     N     _FRENCH John                 Les Cl‚s de Hel þ2016 The Keys of Hel
 : .o .     N     _HALEY Guy                   Inforg‚ þ2016 Unforged
@@ -738,6 +745,148 @@ o BLF_HH      ?  2020.12 ..... ISBN 978-1-78030-605-6
 !--- GF - 136 x 205 mm - 256 pages - 17 euros
 !--- Paru ? (non d'aprŠs Decitre au 20/12)
 - .oS.     R     _GUYMER David                Lion El'Jonson - Seigneur de la PremiŠre [Les Primarques - 13][L'H‚r‚sie d'Horus] þ2020 Lion El'Jonson: Lord of the First þTrad. DEBOT Anthony
+!------------------------
+!=== 2021
+!------------------------
+o BLF_HH      ?  2021.01 ..... ISBN 978-1-78030-527-1
+} blw360         _?                           ?
+!--- GF - 127 x 216 - 480 pages
+- .oS.     N5    _KYME Nick                   Forg‚s par les flammes [L'H‚r‚sie d'Horus - 50] þ2018 Born of Flame þTrad. DEBOT Anthony
+: .o .     r     _KYME Nick                   Soleil prom‚th‚en [L'H‚r‚sie d'Horus] þ2011 Promethean Sun þTrad. DEBOT Anthony
+: .o .     r     _KYME Nick                   Terre br–l‚e [L'H‚r‚sie d'Horus] þ2013 Scorched Earth þTrad. DEBOT Anthony
+: .o .     r     _KYME Nick                   Fils de la forge [L'H‚r‚sie d'Horus] þ2016 Sons of the Forge þTrad. DEBOT Anthony
+: .o .     N     _KYME Nick                   Art‚facts [L'H‚r‚sie d'Horus] þ2014 Artefacts þTrad. DEBOT Anthony
+: .o .     N     _KYME Nick                   Devoir immortel [L'H‚r‚sie d'Horus] þ2016 Immortal Duty þTrad. DEBOT Anthony
+o BLF_HH      ?  2021.04 ..... ISBN 978-1-78030-619-3
+} blw362         _?                           ?
+!--- GF - 140 x 220 - 484 pages
+- .oS.     r2    _McNEILL Graham              Les Fils bris‚s [Le SiŠge de Terra][L'H‚r‚sie d'Horus] þ2021
+: .oS.     r     _McNEILL Graham              Fils des Selenar [Le SiŠge de Terra][L'H‚r‚sie d'Horus] þ2020 Sons of the Selenar þTrad. DROUET Julien
+: .oS.     r     _McNEILL Graham              La Fureur de Magnus [Le SiŠge de Terra][L'H‚r‚sie d'Horus] þ2021 Fury of Magnus þTrad. DROUET Julien
+o BLF_HH      ?  2021.05 ..... ISBN 978-1-78030-649-0
+} blw369         _?                           ?
+!--- GF - 137x215 - 368 pages
+- .oS.     A16   ****                         H‚rauts du siŠge [L'H‚r‚sie d'Horus - 52] þ2018 Heralds of the Siege
+: .o .     N     _WRAIGHT Chris               Bouclier Noir [L'H‚r‚sie d'Horus] þ2016 Blackshield
+: .o .     N     _HALEY Guy                   Le Comte peinturlur‚ [L'H‚r‚sie d'Horus] þ2016 The Painted Count
+: .o .     N     _THORPE Gav                  Le Corbeau gris [L'H‚r‚sie d'Horus] þ2016 The Grey Raven
+: .o .     N     _WRAIGHT Chris               Le Dernier Fils de Prospero [L'H‚r‚sie d'Horus] þ2016 The Last Son of Prospero
+: .o .     N     _HALEY Guy                   Le devoir attend [L'H‚r‚sie d'Horus] þ2017 Duty Waits
+: .o .     N     _REYNOLDS Anthony            Enfants de Sicarus [L'H‚r‚sie d'Horus] þ2018 Children of Sicarius
+: .o .     N     _SWALLOW James               Exocytose [L'H‚r‚sie d'Horus] þ2016 Exocytosis
+: .o .     N     _SANDERS Rob                 Les Loups de Braise [L'H‚r‚sie d'Horus] þ2017 The Ember Wolves
+: .o .     N     _WRAIGHT Chris               Magisterium [L'H‚r‚sie d'Horus] þ2017 Magisterium
+: .o .     N     _SANDERS Rob                 Myriade [L'H‚r‚sie d'Horus] þ2016 Myriad
+: .o .     N     _THORPE Gav                  Les piŠces sont en place [L'H‚r‚sie d'Horus] þ2017 The Board Is Set
+: .o .     N     _FRENCH John                 Que sonne minuit [L'H‚r‚sie d'Horus] þ2017 Now Peals Midnight
+: .o .     N     _KYME Nick                   Rˆves d'unit‚ [L'H‚r‚sie d'Horus] þ2017 Dreams of Unity
+: .o .     N     _WRAIGHT Chris               Le Sans-Ame [L'H‚r‚sie d'Horus] þ2017 The Soul, Severed
+: .o .     N     _FRENCH John                 Sombre soumission [L'H‚r‚sie d'Horus] þ2017 Dark Compliance
+: .o .     N     _THORPE Gav                  Valerius [L'H‚r‚sie d'Horus] þ2017 Valerius
+o BLF_HH      ?  2021.06 ..... ISBN 978-1-78030-561-5
+} noimg          _?                           ?
+!--- GF - 135x215 - 528 pages
+- .oS.     R     _FRENCH John                 Mortis [Le SiŠge de Terra - 5][L'H‚r‚sie d'Horus] þ2021 Mortis þTrad. ?
+o BLF_HH      ?  2021.07 ..... ISBN 978-1-78030-565-3
+} blw378         _?                           ?
+!--- GF - 148x210 - 912 pages
+- .oS.    kR3    _DUNN Christian             &The Horus Heresy - Collection VI [L'H‚r‚sie d'Horus - 16/18] þ2021
+&                _McNEILL Graham             &
+&                _THORPE Gav                  
+: .oS.    kA9    *DUNN Christian              L'ƒge des t‚nŠbres [L'H‚r‚sie d'Horus - 16] þ2011 Age of Darkness þTrad. DROUET Julien
+= .oS.     r     _McNEILL Graham              Les RŠgles du combat [L'H‚r‚sie d'Horus] þ2011 Rules of Engagement þTrad. ?
+= .oS.     r     _SWALLOW James               Le Fruit du mensonge [L'H‚r‚sie d'Horus] þ2011 Liar's Due
+= .oS.     r     _KYME Nick                   Les Fils oubli‚s [L'H‚r‚sie d'Horus] þ2011 Forgotten Sons
+= .oS.     N     _FRENCH John                 Le Dernier Comm‚morateur [L'H‚r‚sie d'Horus] þ2011 The Last Remembrancer
+= .oS.     N     _WRAIGHT Chris               Renaissance [L'H‚r‚sie d'Horus] þ2011 Rebirth
+= .oS.     N     _THORPE Gav                  Le Visage de la trahison [L'H‚r‚sie d'Horus] þ2011 The Face of Treachery
+= .oS.     N     _ABNETT Dan                  L'Autre Horus [L'H‚r‚sie d'Horus] þ2011 Little Horus
+= .oS.     r     _SANDERS Rob                 Coeur de fer [L'H‚r‚sie d'Horus] þ2011 The Iron Within
+= .oS.     N     _DEMBSKI-BOWDEN Aaron        Des armes brutales [L'H‚r‚sie d'Horus] þ2011 Savage Weapons
+: .oS.     R     _McNEILL Graham              Les Morts oubli‚s [L'H‚r‚sie d'Horus - 17] þ2011 The Outcast Dead þTrad. DROUET Julien
+: .oS.     R     _THORPE Gav                  D‚livrance perdue [L'H‚r‚sie d'Horus - 18] þ2011 Deliverance Lost þTrad. DROUET Julien
+o BLF_HH      ?  2021.08 ..... ISBN 978-1-80026-100-6
+} noimg          _?                           ?
+!--- GF - 129x198 
+- .oS.     R     _BROOKS Mike                 Alpharius - La Tˆte de l'hydre [Les Primarques - 14][L'H‚r‚sie d'Horus] þ2021 Alpharius: Head of the Hydra þTrad. ? 
+o BLF_HH      ?  2021.12 ..... ISBN 978-1-80026-155-6
+} noimg          _?                           ?
+!--- GF - 129x198 
+- .oS.     R     _WRAIGHT Chris               Le Faucon [Le SiŠge de Terra - 6][L'H‚r‚sie d'Horus] þ2021 Warhawk þTrad. ? 
+!------------------------
+!=== 2022
+!------------------------
+o BLF_HH      ?  2022.03 ..... ISBN 978-1-80026-170-9
+} blw398         _?                           ?
+!--- GF - 135x206 - 240 pages - 17 euros
+- .oS.     R     _WRAIGHT Chris               Valdor - La Naissance de l'Imperium [L'H‚r‚sie d'Horus] þ2022 Valdor: Birth of the Imperium þTrad. DROUET Julien
+o BLF_HH      ?  2022.04 ..... ISBN 978-1-80026-162-4
+} blw400         _?                           ?
+!--- GF - 155 x 218 - 944 pages - 28 euros
+- .oS.    kR3    _ABNETT Dan                 &The Horus Heresy - Collection VII [L'H‚r‚sie d'Horus - 19/21] þ2022
+&                _DUNN Christian             &
+&                _SWALLOW James               
+: .oS.     R     _ABNETT Dan                  La Bataille de Calth [L'H‚r‚sie d'Horus - 19] þ2012 Know No Fear þTrad. DROUET Julien
+: .oS.    kA4    *DUNN Christian              Les Primarques [L'H‚r‚sie d'Horus - 20] þ2012 The Primarchs þTrad. DROUET Julien
+= .oS.     r     _McNEILL Graham              Et le reflet se brisa [L'H‚r‚sie d'Horus] þ2012 The Reflection Crack'd þTrad. DROUET Julien
+= .oS.     r     _KYME Nick                   Triomphe de fer [L'H‚r‚sie d'Horus] þ2012 Feat of Iron þTrad. DROUET Julien
+= .oS.     r     _THORPE Gav                  Le Lion [L'H‚r‚sie d'Horus] þ2012 The Lion þTrad. DROUET Julien
+= .oS.     r     _SANDERS Rob                 Le Serpent en dessous [L'H‚r‚sie d'Horus] þ2012 The Serpent Beneath þTrad. DROUET Julien
+: .oS.     R     _SWALLOW James               Signus Daemonicus [L'H‚r‚sie d'Horus - 21] þ2012 Fear to Tread þTrad. DROUET Julien
+o BLF_HH      ?  2022.06 ..... ISBN 978-1-78030-566-0
+} blw388         _Sam Lamont                  ?
+!--- GF - 135 x 205 - 304 pages - 17 euros
+!--- Le sommaire num‚rique donne le titre "Sur le fil de l'abime" pour la seconde nouvelle
+- .oS.    kA8    ****                         Les Fils de l'empereur [Les Primarques][L'H‚r‚sie d'Horus] þ2019 Sons of the Emperor þTrad. DEBOT Anthony
+: .o .     N     _FRENCH John                 Un ange passe [Les Primarques][L'H‚r‚sie d'Horus] þ2019 The Passing of Angels þTrad. DEBOT Anthony
+: .o .     N     _DEMBSKI-BOWDEN Aaron        Le Gouffre abyssal [Les Primarques][L'H‚r‚sie d'Horus] þ2019 The Abyssal Edge þTrad. DEBOT Anthony
+: .o .     N     _KYME Nick                   La Compassion du dragon [Les Primarques][L'H‚r‚sie d'Horus] þ2019 Mercy of the Dragon þTrad. DEBOT Anthony
+: .o .     N     _THORPE Gav                  L'Ombre du pass‚ [Les Primarques][L'H‚r‚sie d'Horus] þ2019 Shadow of the Past þTrad. DEBOT Anthony
+: .o .     N     _HALEY Guy                   L'Architecte de l'empereur [Les Primarques][L'H‚r‚sie d'Horus] þ2019 The Emperor's Architect þTrad. DEBOT Anthony
+: .o .     N     _GOULDING L. J.              Prince de sang [Les Primarques][L'H‚r‚sie d'Horus] þ2019 Prince of Blood þTrad. DEBOT Anthony
+: .o .     N     _McNEILL Graham              L'ancien attend [Les Primarques][L'H‚r‚sie d'Horus] þ2019 The Ancient Awaits þTrad. DEBOT Anthony
+: .o .     N     _ABNETT Dan                  Aberrant [Les Primarques][L'H‚r‚sie d'Horus] þ2019 Misbegotten þTrad. DEBOT Anthony
+o BLF_HH      ?  2022.06 ..... ISBN 978-1-80026-856-2
+} blw405         _?                           ?
+!--- GF - 135 x 205 - 208 pages - 15 euros
+- .oS.    kA8    ****                         La Chute de Cthonia [L'H‚r‚sie d'Horus] þ2022 Cthonia's Reckoning þTrad. ? 
+: .o .     N     _FRENCH John                 Fils de Cthonia [L'H‚r‚sie d'Horus] þ2022 Sons of Cthonia
+: .o .     N     _HASPIL Michael F.           Jusqu'au bout [L'H‚r‚sie d'Horus] þ2022 To the Last
+: .o .     N     _KLOSTER Gary                Les Gangs du dessous [L'H‚r‚sie d'Horus] þ2022 The Gangs Beneath
+: .o .     N     _WOLF Nicholas               La Moisson humaine [L'H‚r‚sie d'Horus] þ2022 The Flesh Harvest
+: .o .     N     _VAN NGUYEN Noah             La Foi d'un traŒtre [L'H‚r‚sie d'Horus] þ2022 Traitor's Faith
+: .o .     N     _THORPE Gav                  Pouss‚ par la haine [L'H‚r‚sie d'Horus] þ2022 For Hate's Sake
+: .o .     N     _FORRESTER Chris             Le Postulant [L'H‚r‚sie d'Horus] þ2022 Postulant
+o BLF_HH      ?  2022.09 ..... ISBN 978-1-80026-226-3
+} noimg          _?                           ?
+!--- GF - 135 x 215 - 477 pages - 18 euros
+- .oS.     R     _DEMBSKI-BOWDEN Aaron        chos d'‚ternit‚ [Le SiŠge de Terra - 7][L'H‚r‚sie d'Horus] þ2022 Echoes of Eternity þTrad. DROUET Julien
+o BLF_HH      ?  2022.10 ..... ISBN 978-1-80407-191-5
+} noimg          _?                           ?
+!--- GF - 137 x 205 - 256 pages - 17 euros
+- .oS.     R     _THORPE Gav                  Luther - Premier des d‚chus [L'H‚r‚sie d'Horus] þ2021 Luther: First of the Fallen þTrad. DEBOT Anthony
+o BLF_HH      ?  2022.11 ..... ISBN 978-1-80407-194-6
+} blw412         _?                           ?
+!--- GF - 154 x 217 - 944 pages - 30 euros
+- .oS.    kR3    *DUNN Christian             &The Horus Heresy - Collection VIII [L'H‚r‚sie d'Horus - 22/24] þ2022
+&                *KYME Nick                  &
+&                _McNEILL Graham             &
+&                _DEMBSKI-BOWDEN Aaron        
+: .oS.    kA7    *DUNN Christian             &Les Ombres de la traitrise [L'H‚r‚sie d'Horus - 22] þ2012 Shadows of Treachery
+&                *KYME Nick                   
+= .o .     r     _FRENCH John                 Le Poing ‚carlate [L'H‚r‚sie d'Horus] þ2012 The Crimson Fist þTrad. DROUET Julien & HUET Nathalie
+= .o .     N     _McNEILL Graham              Le Roi sombre [L'H‚r‚sie d'Horus] þ2010 The Dark King þTrad. DROUET Julien & HUET Nathalie
+= .o .     N     _ABNETT Dan                  La Tour foudroy‚e [L'H‚r‚sie d'Horus] þ2010 The Lightning Tower þTrad. DROUET Julien & HUET Nathalie
+= .o .     N     _McNEILL Graham              Le Projet Kaban [L'H‚r‚sie d'Horus] þ2012 The Kaban Project þTrad. DROUET Julien & HUET Nathalie
+= .o .     N     _THORPE Gav                  Le Vol du corbeau [L'H‚r‚sie d'Horus] þ2012 Raven's Flight þTrad. DROUET Julien & HUET Nathalie
+= .o .     N     _McNEILL Graham              Mort d'un orfŠvre [L'H‚r‚sie d'Horus] þ2012 Death of a Silversmith þTrad. DROUET Julien & HUET Nathalie
+= .o .     r     _DEMBSKI-BOWDEN Aaron        Le Prince des corbeaux [L'H‚r‚sie d'Horus] þ2012 Prince of Crows þTrad. DROUET Julien & HUET Nathalie
+: .oS.     R     _McNEILL Graham              L'Ange Exterminatus [L'H‚r‚sie d'Horus - 23] þ2012 Angel Exterminatus þTrad. DROUET Julien
+: .oS.     R     _DEMBSKI-BOWDEN Aaron        F‚lon [L'H‚r‚sie d'Horus - 24] þ2013 Betrayer þTrad. DROUET Julien
+o BLF_HH      ?  2022.12 ..... ISBN 978-1-80407-195-3
+} noimg          _?                           ?
+!--- GF - 135 x 205 - 208 pages - 18 euros
+- .oS.     R     _ANNANDALE David             Mortarion - Le Roi pƒle [Les Primarques - 15][L'H‚r‚sie d'Horus] þ2022 Mortarion: The Pale King þTrad. ? 
 
 
 !-----------------------------------------------------------------------------
@@ -756,20 +905,21 @@ o BLF_W40     ?  2011.06 ..... ISBN 978-1-78030-016-0
 : .oS.     R     _ABNETT Dan                  Necropolis [La Fondation - 3][Fant“mes de Gaunt] þ2000 Necropolis þTrad. DROUET Julien
 o BLF_W40     ?  2011.06 ..... ISBN 978-1-78030-020-7
 } blw012         _?                           ?
-- .oS.    kR3    _McNEILL Graham              Ultramarines [Ultramarine - 1/3] þ2011
-: .oS.     R     _McNEILL Graham              Nightbringer [Ultramarine - 1] þ2002 Nightbringer þTrad. LE RUDULIER Matthieu
-: .oS.     R     _McNEILL Graham              Les Guerriers d'Ultramar [Ultramarine - 2] þ2003 Warriors of Ultramar þTrad. LACROUTS Laurent
-: .oS.     R     _McNEILL Graham              Ciel mort, soleil noir [Ultramarine - 3] þ2004 Dead Sky, Black Sun þTrad. LACROUTS Laurent
+- .oS.    kR3    _McNEILL Graham              Ultramarines [Uriel Ventris][Ultramarine - 1/3] þ2011
+: .oS.     R     _McNEILL Graham              Nightbringer [Uriel Ventris][Ultramarine - 1] þ2002 Nightbringer þTrad. LE RUDULIER Matthieu
+: .oS.     R     _McNEILL Graham              Les Guerriers d'Ultramar [Uriel Ventris][Ultramarine - 2] þ2003 Warriors of Ultramar þTrad. LACROUTS Laurent
+: .oS.     R     _McNEILL Graham              Ciel mort, soleil noir [Uriel Ventris][Ultramarine - 3] þ2004 Dead Sky, Black Sun þTrad. LACROUTS Laurent
 o BLF_W40     ?  2020.09 ..... ISBN 978-1-78030-626-1
 } blw012rr20     _?                           ?
 !--- GF - 12,8 cm x 19,8 cm - 845 pages - 17.00 euros
-- .oS.     R3    _McNEILL Graham              Les Chroniques d'Uriel Ventris - 1iŠre partie [Ultramarine - 1/3] þ2011-2020
 !--- Decitre : 3 romans ... plus des nouvelles qui les relient
 !--- Blacklib : 3 romans ... plus une nouvelle
+!--- TBD nouvelle "Hi‚rarchie" ?
+- .oS.     R3    _McNEILL Graham              Les Chroniques d'Uriel Ventris - 1iŠre partie [Uriel Ventris][Ultramarine - 1/3] þ2011-2020
 ?: .o .     N     _McNEILL Graham              Hi‚rarchie [Ultramarine] þ2020 Chains of Command
-: .oS.     R     _McNEILL Graham              Nightbringer [Ultramarine - 1] þ2002 Nightbringer þTrad. LE RUDULIER Matthieu
-: .oS.     R     _McNEILL Graham              Les Guerriers d'Ultramar [Ultramarine - 2] þ2003 Warriors of Ultramar þTrad. LACROUTS Laurent
-: .oS.     R     _McNEILL Graham              Ciel mort, soleil noir [Ultramarine - 3] þ2004 Dead Sky, Black Sun þTrad. LACROUTS Laurent
+: .oS.     R     _McNEILL Graham              Nightbringer [Uriel Ventris][Ultramarine - 1] þ2002 Nightbringer þTrad. LE RUDULIER Matthieu
+: .oS.     R     _McNEILL Graham              Les Guerriers d'Ultramar [Uriel Ventris][Ultramarine - 2] þ2003 Warriors of Ultramar þTrad. LACROUTS Laurent
+: .oS.     R     _McNEILL Graham              Ciel mort, soleil noir [Uriel Ventris][Ultramarine - 3] þ2004 Dead Sky, Black Sun þTrad. LACROUTS Laurent
 o BLF_W40     ?  2011.06 ..... ISBN 978-1-78030-021-4
 } noimg          _?                           ?
 - .oS.     R     _PARKER Steve                Le Monde de Rynn [Les Batailles de l'Astartes - 1] þ2010 Rynn's World þTrad. ATTINOST BenoŒt
@@ -791,7 +941,7 @@ o BLF_W40     ?  2011.08 ..... ISBN 978-1-78030-026-9
 } blw021         _?                           ?
 + BLF_W40     ?  2019.04 ..... ISBN 978-1-78030-476-2
 } blw021rr19     _Clint Langley               ?
-- .oS.    kR3N3  _MITCHELL Sandy              H‚ros de l'imperium [Ciaphas Cain] þ2007 Ciaphas Cain: Hero of the Imperium
+- .oS.    kR3N3  _MITCHELL Sandy              H‚ros de l'imperium [Ciaphas Cain] þ2007 Hero of the Imperium
 : .oS.     N     _MITCHELL Sandy              Combattre ou fuir, il faut choisir ! [Ciaphas Cain] þ2002 Fight or Flight þTrad. CHASSIGNOL Gilles
 : .oS.     R     _MITCHELL Sandy              Pour l'empereur [Ciaphas Cain - 1] þ2003 For the Emperor þTrad. CHASSIGNOL Gilles
 : .oS.     N     _MITCHELL Sandy              Les ‚chos de la tombe [Ciaphas Cain] þ2004 Echoes of the Tomb þTrad. CHASSIGNOL Gilles
@@ -817,7 +967,7 @@ o BLF_W40     ?  2011.11 ..... ISBN 978-1-78030-030-6
 o BLF_W40     ?  2011.12 ..... ISBN 978-1-78030-048-1
 } blw034         _?                           ?
 - .oS.    kA10   *DUNN Christian              Craignez l'alien þ2010 Fear the Alien þTrad. ?
-: .oS.     N     _ABNETT Dan                  Les Jardins de Tycho þ2010 Gardens of Tycho þTrad. ?
+: .oS.     N     _ABNETT Dan                  Les Jardins de Tycho [Eisenhorn] þ2005 The Gardens of Tycho þTrad. ?
 : .oS.     N     _McKENNA Juliet E.           La Peur en soi þ2010 Fear Itself þTrad. ?
 : .oS.     N     _KYME Nick                   Requiem prom‚th‚en þ2010 Prometheus Requiem þTrad. ?
 : .oS.     N     _CAMPBELL Braden             Un pr‚sent pour dame Baecia þ2010 Mistress Baeda's Gift þTrad. ?
@@ -825,10 +975,13 @@ o BLF_W40     ?  2011.12 ..... ISBN 978-1-78030-048-1
 : .oY.     N     _CLAPHAM Mark                Sanctifi‚ þ2010 Sanctified þTrad. ?
 : .oY.     N     _FARRER Matthew              Visages þ2010 Faces þTrad. ?
 : .oY.     N     _GILMER James                Unit‚ þ2010 Unity þTrad. ?
-: .oS.     N     _DEMBSKI-BOWDEN Aaron        Le Coeur þ2010 The Core þTrad. ?
+: .oS.     N     _DEMBSKI-BOWDEN Aaron        Le Coeur [Night Lords] þ2010 The Core þTrad. ?
 : .oY.     N     _HOARE Andy                  L'ambition n'a pas de limites þ2010 Ambition knows no Bounds þTrad. ?
 o BLF_W40     ?  2011.12 ..... ISBN 978-1-78030-063-4
 } blw033         _?                           ?
++ BLF_W40     ?  2021.02 ..... ISBN 978-1-78030-560-8
+} blw033rr21     _?                           ?
+!--- GF - 130 x 200 - 560 pages
 - .oS.    kR2    _ABNETT Dan                  Les ‚gar‚s - Volume 1 [Les ‚gar‚s - 1/2][Fant“mes de Gaunt] þ2011
 : .oS.     R     _ABNETT Dan                  Le Traitre [Les ‚gar‚s - 1][Fant“mes de Gaunt] þ2004 Traitor General þTrad. DROUET Julien
 : .oS.     R     _ABNETT Dan                  Son dernier ordre [Les ‚gar‚s - 2][Fant“mes de Gaunt] þ2005 His Last Command þTrad. DROUET Julien
@@ -856,19 +1009,19 @@ o BLF_W40     ?  2012.02 ..... ISBN 978-1-78030-045-0
 : .oS.     R     _SWALLOW James               Deus Sanguinius [Blood Angels - 2] þ2005 Deus Sanguinius þTrad. LACROUTS Laurent
 o BLF_W40     ?  2012.03 ..... ISBN 978-1-78030-054-2
 } noimg          _?                           ?
-- .oS.     R     _McNEILL Graham              Champ de mort [Ultramarine - 4] þ2008 The Killing Ground þTrad. LACROUTS Laurent
+- .oS.     R     _McNEILL Graham              Champ de mort [Uriel Ventris][Ultramarine - 4] þ2008 The Killing Ground þTrad. LACROUTS Laurent
 o BLF_W40     ?  2012.03 ..... ISBN 978-1-78030-055-9
 } noimg          _?                           ?
-- .oS.     R     _McNEILL Graham              Courage et honneur [Ultramarine - 5] þ2009 Courage and Honour þTrad. BEAUBRUN Philippe
+- .oS.     R     _McNEILL Graham              Courage et honneur [Uriel Ventris][Ultramarine - 5] þ2009 Courage and Honour þTrad. BEAUBRUN Philippe
 o BLF_W40     ?  2012.03 ..... ISBN 978-1-78030-050-4
 } noimg          _?                           ?
-- .oS.     R     _McNEILL Graham              La Part du chapitre [Ultramarine - 6] þ2010 Chapter's Due þTrad. BEAUBRUN Philippe
+- .oS.     R     _McNEILL Graham              La Part du chapitre [Uriel Ventris][Ultramarine - 6] þ2010 Chapter's Due þTrad. BEAUBRUN Philippe
 o BLF_W40     ?  2012.04 ..... ISBN 978-1-78030-036-8
 } noimg          _?                           ?
 - .oS.     R     _ABNETT Dan                  L'Armure de m‚pris [Les ‚gar‚s - 3][Fant“mes de Gaunt] þ2006 The Armour of Contempt þTrad. DROUET Julien
 o BLF_W40     ?  2012.04 ..... ISBN 978-1-78030-051-1
 } noimg          _?                           ?
-- .oS.     R     _ABNETT Dan                  Seule la mort [Fant“mes de Gaunt] þ2007 Only in Death þTrad. Laurent Philibert-Caillat
+- .oS.     R     _ABNETT Dan                  Seule la mort [Les ‚gar‚s - 4][Fant“mes de Gaunt] þ2007 Only in Death þTrad. PHILIBERT-CAILLAT Laurent
 o BLF_W40     ?  2012.05 ..... ISBN 978-1-78030-053-5
 } noimg          _?                           ?
 - .oS.     R     _KYME Nick                   Salamander [Trilogie du tome de feu - 1] þ2009 Salamander þTrad. BEAUBRUN Philippe
@@ -930,14 +1083,17 @@ o BLF_W40     ?  2013.04 ..... ISBN 978-1-78030-133-4
 - .oS.     R     _ABNETT Dan                  Xenos [Eisenhorn - 1] þ2001 Xenos þTrad. HUET Nathalie
 o BLF_W40     ?  2013.04 ..... ISBN 978-1-78030-095-5
 } blw089         _?                           ?
-- .oS.    kR2    _ABNETT Dan                  Les ‚gar‚s - Fant“mes de Gaunt volume 2 [Fant“mes de Gaunt] þ2013
++ BLF_W40     ?  2021.10 ..... ISBN 978-1-80026-151-8
+} blw089rr21     _?                           ?
+!--- GF - GF 
+- .oS.    kR2    _ABNETT Dan                  Les ‚gar‚s - Fant“mes de Gaunt volume 2 [Les ‚gar‚s - 3/4][Fant“mes de Gaunt] þ2013
 : .oS.     R     _ABNETT Dan                  L'Armure de m‚pris [Les ‚gar‚s - 3][Fant“mes de Gaunt] þ2006 The Armour of Contempt þTrad. DROUET Julien
-: .oS.     R     _ABNETT Dan                  Seule la mort [Les ‚gar‚s][Fant“mes de Gaunt] þ2007 Only in Death þTrad. PHILIBERT-CAILLAT Laurent
+: .oS.     R     _ABNETT Dan                  Seule la mort [Les ‚gar‚s - 4][Fant“mes de Gaunt] þ2007 Only in Death þTrad. PHILIBERT-CAILLAT Laurent
 o BLF_W40     ?  2013.04 ..... ISBN 978-1-78030-093-1
 } noimg          _?                           ?
 + BLF_W40     ?  2014.06 ..... ISBN 978-1-78030-168-6
 } noimg          _?                           ?
-- .oS.     R     _ABNETT Dan                  Le Pacte de sang [Fant“mes de Gaunt] þ2009 Blood Pact þTrad. KALVIS Alain
+- .oS.     R     _ABNETT Dan                  Le Pacte de sang [La Victoire - 1][Fant“mes de Gaunt] þ2009 Blood Pact þTrad. KALVIS Alain
 o BLF_W40     ?  2013.05 ..... ISBN 978-1-78030-134-1
 } noimg          _Adrian Smith                ?
 - .oS.     R     _ABNETT Dan                  Malleus [Eisenhorn - 2] þ2001 Malleus þTrad. HUET Nathalie
@@ -950,7 +1106,7 @@ o BLF_W40     ?  2013.05 ..... ISBN 978-1-78030-096-2
 : .oS.     r     _FRENCH John                 Le Tisseur de destins [Les Batailles de l'Astartes] þ2012 Fateweaver þTrad. ?
 o BLF_W40     ?  2013.06 ..... ISBN 978-1-78030-131-0
 } noimg          _?                           ?
-- .oS.     R     _ABNETT Dan                  Paria þ2012 Warhammer 40 000 Pariah: Ravenor Versus Eisenhorn þTrad. HUET Nathalie
+- .oS.     R     _ABNETT Dan                  Paria [Bequin - 1] þ2012 Pariah: Ravenor Versus Eisenhorn þTrad. HUET Nathalie
 o BLF_W40     ?  2013.06 ..... ISBN 978-1-78030-135-8
 } noimg          _Adrian Smith                ?
 - .oS.     R     _ABNETT Dan                  Hereticus [Eisenhorn - 3] þ2002 Hereticus þTrad. HUET Nathalie
@@ -1018,11 +1174,11 @@ o BLF_W40     ?  2014.06 ..... ISBN 978-1-78030-167-9
 } noimg          _?                           ?
 !--- Celui-ci est quasiment introuvable, pourquoi ? (un exemplaire … 132 euros sur le net !)
 !--- ISBN 237-9 en paperback, en 2015
-- .oS.     R     _ABNETT Dan                  Mission : Salvation's Reach [Fant“mes de Gaunt] þ2011 Salvation's Reach þTrad. KALVIS Alain
+- .oS.     R     _ABNETT Dan                  Mission : Salvation's Reach [La Victoire - 2][Fant“mes de Gaunt] þ2011 Salvation's Reach þTrad. KALVIS Alain
 ?o BLF_W40     ?  2015.10 ..... ISBN 978-1-78030-237-9
 ?} noimg          _Stef Kopinksi               ?
-?!---  semble indisponible...
-?- .oS.     R     _ABNETT Dan                  Mission : Salvation's Reach [Fant“mes de Gaunt] þ2011 Salvation's Reach þTrad. KALVIS Alain
+?!---  ... Et celui-l… semble indisponible...
+?- .oS.     R     _ABNETT Dan                  Mission : Salvation's Reach [La Victoire - 2][Fant“mes de Gaunt] þ2011 Salvation's Reach þTrad. KALVIS Alain
 o BLF_W40     ?  2014.07 ..... ISBN 978-1-78030-175-4
 } noimg          _Jon Sullivan                ?
 + BLF_W40     ?  2015.09 ..... ISBN 978-1-78030-234-8
@@ -1088,9 +1244,17 @@ o BLF_W40     ?  2015.05 ..... ISBN 978-1-78030-218-8
 - .oS.     R     _McNEILL Graham              Les Dieux de Mars [The Adeptus Mechanicus - 3] þ2014 Gods of Mars þTrad. CHASSIGNOL Gilles
 o BLF_W40     ?  2015.06 ..... ISBN 978-1-78030-221-8
 } blw152         _?                           ?
-- .oS.    kR3    _DEMBSKI-BOWDEN Aaron        Night Lords - L'omnibus [Night Lords - 1/3] þ2014 Night Lords
++ BLF_W40     ?  2022.06 ..... ISBN 978-1-80026-872-2
+} blw152rr22     _?                           ?
+!--- 129 x 198 mm - 19 euros
+!--- En 2022, le sous-titre  "La trilogie" remplace "L'omnibus" en couverture.
+- .oS.    _R3N3  _DEMBSKI-BOWDEN Aaron        Night Lords [Night Lords - 1/3] þ2014 Night Lords
+: .oS.     p     _DEMBSKI-BOWDEN Aaron        Introduction de l'auteur þ2014 ?
+: .o .     N     _DEMBSKI-BOWDEN Aaron        Le Chevalier de l'ombre [Night Lords] þ2009 Shadow Knight
 : .oS.     R     _DEMBSKI-BOWDEN Aaron        Le Chasseur d'ƒmes [Night Lords - 1] þ2010 Soul Hunter þTrad. CHASSIGNOL Gilles
+: .o .     N     _DEMBSKI-BOWDEN Aaron        Le Tr“ne des mensonges [Night Lords] þ2012 Throne of Lies
 : .oS.     R     _DEMBSKI-BOWDEN Aaron        Le Pilleur de sang [Night Lords - 2] þ2011 Blood Reaver þTrad. CHASSIGNOL Gilles
+: .oS.     N     _DEMBSKI-BOWDEN Aaron        Le Coeur [Night Lords] þ2010 The Core þTrad. ?
 : .oS.     R     _DEMBSKI-BOWDEN Aaron        Le Traqueur des abŒmes [Night Lords - 3] þ2012 Void Stalker þTrad. CHASSIGNOL Gilles
 o BLF_W40     ?  2015.06 ..... ISBN 978-1-78030-183-9
 } noimg          _Raymond Swanland            ?
@@ -1113,7 +1277,7 @@ o BLF_W40     ?  2015.08 ..... ISBN 978-1-78030-231-7
 : .oS.     R     _PARKER Steve                Le Monde de Rynn [Les Batailles de l'Astartes - 1] þ2010 Rynn's World þTrad. ATTINOST BenoŒt
 : .o .     r     _LEE Mike                    La Vall‚e des traitres [Les Batailles de l'Astartes] þ2013 Traitor's Gorge þTrad. ?
 : .o .     N     _PARKER Steve                X‚nocide þ2014 Culling the Horde þTrad. ?
-: .o .     N     _PARKER Steve                Pedro Kantor : le poing vengeur [Lords of the Space Marines] þ2014 Pedro Kantor : The Vengeful Fist þTrad. ?
+: .o .     N     _PARKER Steve                Pedro Kantor : le poing vengeur [Lords of the Space Marines] þ2014 Pedro Kantor: The Vengeful Fist þTrad. ?
 : .o .     N     _LEE Mike                    Les Survivants þ2014 The Few þTrad. ?
 o BLF_W40     ?  2015.10 ..... ISBN 978-1-78030-236-2
 } blw158         _Raymond Swanland            ?
@@ -1121,11 +1285,11 @@ o BLF_W40     ?  2015.10 ..... ISBN 978-1-78030-236-2
 : .o .     N     _ABNETT Dan                  Famille þ2015 Family
 : .o .     N     _SANDERS Rob                 Li‚s par le sang þ2015 The Blood Bound
 : .o .     N     _ABNETT Dan                  On ne sait jamais þ2015 You Never Know
-: .o .     N     _FRENCH John                 Fils de Sek þ2015 Son Of Sek
+: .o .     N     _FRENCH John                 Fils de Sek þ2015 Son of Sek
 : .o .     N     _KYME Nick                   Tempˆte þ2015 Tempest
 : .o .     N     _VINCENT Nik                 Veuvage þ2015 Viduity
 : .o .     N     _ANNANDALE David             Les Plaies les plus profondes þ2015 The Deeper Wound
-: .o .     N     _ABNETT Dan                  Fant“mes et Ombres Mal‚fiques þ2015 Ghost And Bad Shadows
+: .o .     N     _ABNETT Dan                  Fant“mes et Ombres Mal‚fiques þ2015 Ghost and Bad Shadows
 : .o .     N     _DEMBSKI-BOWDEN Aaron        Arnaugor þ2015 Arnogaur
 : .o .     N     _FARRER Matthew              Le Roi h‚ritier þ2015 The Inheritor King
 : .o .     N     _VINCENT Nik                 La Fissure þ2015 The Fissure
@@ -1186,7 +1350,7 @@ o BLF_W40     ?  2016.11 ..... ISBN 978-1-78030-324-6
 - .oS.     R     _THORPE Gav                  Asmodai [L'H‚ritage de Caliban - 2] þ2014 Master of Sanctity þTrad. ?
 o BLF_W40     ?  2016.11 ..... ISBN 978-1-78030-325-3
 } noimg          _Fares Maese                 ?
-- .oS.     R     _FRENCH John                 Ahriman : l'immuable [Ahriman - 3] þ2015 Ahriman 3: Unchanged þTrad. VESSIERE J‚r“me
+- .oS.     R     _FRENCH John                 Ahriman : l'immuable [Ahriman - 3] þ2015 Ahriman: Unchanged þTrad. VESSIERE J‚r“me
 !------------------------
 !=== 2017
 !------------------------
@@ -1249,7 +1413,7 @@ o BLF_W40     ?  2017.10 ..... ISBN 978-1-78030-352-9
 - .oS.     R     _REYNOLDS Josh               Primog‚niteur [Fabius Bile - 1] þ2016 Primogenitor þTrad. ?
 o BLF_W40     ?  2017.11 ..... ISBN 978-1-78030-358-1
 } noimg          _?                           ?
-- .oS.     R     _MACNIVEN Robbie             La dŒme de sang [Carcharodons] þ2017 Red Tithe þTrad. BEAUBRUN Philippe
+- .oS.     R     _MacNIVEN Robbie             La dŒme de sang [Carcharodons] þ2017 Red Tithe þTrad. BEAUBRUN Philippe
 o BLF_W40     ?  2017.11 ..... ISBN 978-1-78030-353-6
 } noimg          _?                           ?
 - .oS.     R     _ST MARTIN Ian               Lucius : La lame exemplaire [Lucius l'‚ternel] þ2017 Lucius: The Faultless Blade þTrad. CHASSIGNOL Gilles
@@ -1277,27 +1441,26 @@ o BLF_W40     ?  2018.02 ..... ISBN 978-1-78030-397-0
 : .oS.     R     _ABNETT Dan                  Xenos [Eisenhorn - 1] þ2001 Xenos þTrad. HUET Nathalie
 : .oS.     R     _ABNETT Dan                  Malleus [Eisenhorn - 2] þ2001 Malleus þTrad. HUET Nathalie
 : .oS.     R     _ABNETT Dan                  Hereticus [Eisenhorn - 3] þ2002 Hereticus þTrad. HUET Nathalie
-?!--- E-book only en janvier 2019 sur le site ‚diteur
-?o BLF_W40     ?  2018.02 ..... ISBN 978-1-78030-364-2
-?} noimg          _Lie Setiawan                ?
-?- .oS.     R     _KELLY Phil                  Farsight : Foi en crise þ2017 Farsight 2 : Crisis of Faith þTrad. Sylvain Cl‚ment
 o BLF_W40     ?  2018.03 ..... ISBN 978-1-78030-367-3
 } noimg          _?                           ?
 - .oS.     R     _HINKS Darius                H‚ritier de Sanguinius [Mephiston - 1]+[Blood Angels] þ2017 Blood of Sanguinius þTrad. BECONE Billy
 o BLF_W40     ?  2018.03 ..... ISBN 978-1-78030-366-6
 } blw223         _?                           ?
-- .oS.    kR2    _MACNIVEN Robbie            &L'H‚ritage des Wulfen [Ragnar Blackmane - 9] þ2017 Legacy of the Wulfen þTrad. BEAUBRUN Philippe
+- .oS.    kR2    _MacNIVEN Robbie            &L'H‚ritage des Wulfen [Ragnar Blackmane - 9] þ2017 Legacy of the Wulfen þTrad. BEAUBRUN Philippe
 &                _ANNANDALE David             
-: .oS.     R     _MACNIVEN Robbie             L'H‚ritage de Russ [Ragnar Blackmane] þ2017 Legacy of Russ þTrad. BEAUBRUN Philippe
+: .oS.     R     _MacNIVEN Robbie             L'H‚ritage de Russ [Ragnar Blackmane] þ2017 Legacy of Russ þTrad. BEAUBRUN Philippe
 : .oS.     R     _ANNANDALE David             La Mal‚diction du Wulfen [Ragnar Blackmane] þ2016 Curse of the Wulfen þTrad. BEAUBRUN Philippe
 o BLF_W40     ?  2018.04 ..... ISBN 978-1-78030-377-2
 } blw226         _Raymond Swanland            ?
-- .oS.    kR2    _ABNETT Dan                  La Victoire PremiŠre partie [La Victoire - 1/2][Fant“mes de Gaunt] þ2018
++ BLF_W40     ?  2022.06 ..... ISBN 978-1-80026-167-9
+} blw226rr22     _?                           ?
+!--- 129 x 198 mm - 576 pages - 16 euros
+- .oS.    _R2    _ABNETT Dan                  La Victoire - PremiŠre partie [La Victoire - 1/2][Fant“mes de Gaunt] þ2018
 : .oS.     R     _ABNETT Dan                  Le Pacte de sang [La Victoire - 1][Fant“mes de Gaunt] þ2009 Blood Pact þTrad. KALVIS Alain
 : .oS.     R     _ABNETT Dan                  Mission : Salvation's Reach [La Victoire - 2][Fant“mes de Gaunt] þ2011 Salvation's Reach þTrad. KALVIS Alain
 o BLF_W40     ?  2018.04 ..... ISBN 978-1-78030-376-5
 } noimg          _Igor Sid                    ?
-- .oS.     R     _HALEY Guy                   Imperium Sombre [Sombre Imperium - 1] þ2018 Dark Imperium þTrad. HUET F‚lix
+- .oS.     R     _HALEY Guy                   Sombre Imperium [Sombre Imperium - 1] þ2018 Dark Imperium þTrad. HUET F‚lix
 o BLF_W40     ?  2018.05 ..... ISBN 978-1-78030-400-7
 } blw230         _?                           ?
 - .oS.    kR3    _ABNETT Dan                  Ravenor [Ravenor - 1/3] þ2009 Ravenor: The Omnibus
@@ -1309,7 +1472,7 @@ o BLF_W40     ?  2018.05 ..... ISBN 978-1-78030-381-9
 - .oS.     R     _ABNETT Dan                  Le MaŒtre de guerre [La Victoire - 3][Fant“mes de Gaunt] þ2015 The Warmaster þTrad. CHASSIGNOL Gilles
 o BLF_W40     ?  2018.05 ..... ISBN 978-1-78030-380-2
 } noimg          _Rezunenko Bogdan            ?
-- .oS.     R     _WRAIGHT Chris               la L‚gion de l'Empereur [Gardiens du tr“ne - 1] þ2017 The Emperor's Legion þTrad. FERAUD Marianne
+- .oS.     R     _WRAIGHT Chris               la L‚gion de l'empereur [Gardiens du tr“ne - 1] þ2017 The Emperor's Legion þTrad. FERAUD Marianne
 o BLF_W40     ?  2018.06 ..... ISBN 978-1-78030-385-7
 } noimg          _Neil Roberts                ?
 - .oS.     R     _HALEY Guy                   La D‚vastation de Baal [Space Marine Conquests - 1][Les Batailles de l'Astartes] þ2017 The Devastation of Baal þTrad. BEAUBRUN Philippe
@@ -1333,11 +1496,11 @@ o BLF_W40     ?  2018.09 ..... ISBN 978-1-78030-395-6
 - .oS.     R     _THORPE Gav                  Les Cendres de Prospero [Space Marine Conquests - 2][Les Batailles de l'Astartes] þ2018 The Ashes of Prospero þTrad. SIDHOUM Ana‹s
 o BLF_W40     ?  2018.09 ..... ISBN 978-1-78030-391-8
 } noimg          _Marc Lee                    ?
-- .oS.     R     _MACNIVEN Robbie             Le Sang d'Iax þ2018 Blood of Iax þTrad. MASSON Lo‹c
+- .oS.     R     _MacNIVEN Robbie             Le Sang d'Iax þ2018 Blood of Iax þTrad. MASSON Lo‹c
 o BLF_W4P     ?  2018.09 ..... ISBN 978-1-78030-403-8
 } blw247         _Johan Grenier               ?
 - .oS.     N12   _ABNETT Dan                  Magos [Eisenhorn - 4] þ2018 The Magos þTrad. HUET Nathalie
-: .o .     N     _ABNETT Dan                  Les Jardins de Tycho [Eisenhorn] þ2018 The Gardens of Tycho þTrad. HUET Nathalie
+: .oS.     N     _ABNETT Dan                  Les Jardins de Tycho [Eisenhorn] þ2005 The Gardens of Tycho þTrad. HUET Nathalie
 : .o .     N     _ABNETT Dan                  Port‚s disparus [Eisenhorn] þ2018 Missing in Action þTrad. HUET Nathalie
 : .o .     N     _ABNETT Dan                  Pestilence [Eisenhorn] þ2018 Pestilence þTrad. HUET Nathalie
 : .o .     N     _ABNETT Dan                  La Transgression de MaŒtre Imus [Eisenhorn] þ2018 Master Imus's Transgression þTrad. HUET Nathalie
@@ -1388,6 +1551,10 @@ o BLF_W40     ?  2018.12 ..... ISBN 978-1-78030-417-5
 !------------------------
 !=== 2019
 !------------------------
+o BLn_W40     ?  2019.01 ..... ISBN 978-1-78030-364-2
+} noimg          _Lie Setiawan                ?
+!--- E-book only en janvier 2019 sur le site ‚diteur
+- .oS.     R     _KELLY Phil                  Foi en crise [Farsight - 1] þ2017 Crisis of Faith þTrad. Sylvain Cl‚ment
 o BLF_W40     ?  2019.01 ..... ISBN 978-1-78030-423-6
 } blw271         _?                           ?
 - .oS.    kR2    _THORPE Gav                 &L'‚veil de la Bˆte - Volume 2 [L'‚veil de la Bˆte - 3/4] þ2019
@@ -1412,8 +1579,7 @@ o BLF_W40     ?  2019.02 ..... ISBN 978-1-78030-465-6
 : .oS.     R     _KING William                La Chute de Macharius [La Croisade macharienne - 3] þ2014 Fall of Macharius þTrad. DEBOT Anthony
 o BLF_W40     ?  2019.02 ..... ISBN 978-1-78030-466-3
 } noimg          _Mikhail Savier              ?
-!--- Book 1 of the Cadian serie
-- .oS.     R     _HILL Justin D.              Cadia tiendra [Astra Militarum] þ2019 Cadia Stands þTrad. FEASSON Vivien
+- .oS.     R     _HILL Justin D.              Cadia tiendra [Cadia - 1][Astra Militarum] þ2019 Cadia Stands þTrad. FEASSON Vivien
 o BLF_W40     ?  2019.03 ..... ISBN 978-1-78030-470-0
 } noimg          _Marc Lee                    ?
 - .oS.     R     _HARRISON Rachel             Dans la loyaut‚ et la foi [Astra Militarum] þ2019 Honourbound þTrad. CHASTELLIERE Emmanuel
@@ -1440,7 +1606,7 @@ o BLF_W40     ?  2019.05 ..... ISBN 978-1-78030-485-4
 : .oS.     R     _THORPE Gav                  La Bˆte doit mourir [L'‚veil de la Bˆte - 8] þ2016 The Beast Must Die þTrad. ?
 o BLF_W40     ?  2019.05 ..... ISBN 978-1-78030-483-0
 } noimg          _Diego Gisbert Llorens       ?
-- .oS.     R     _MACNIVEN Robbie             La Noirceur Ext‚rieure [Carcharodons - 2] þ2018 Outer Dark þTrad. FERAUD Marianne
+- .oS.     R     _MacNIVEN Robbie             La Noirceur Ext‚rieure [Carcharodons - 2] þ2018 Outer Dark þTrad. FERAUD Marianne
 o BLF_W40     ?  2019.06 ..... ISBN 978-1-78030-487-8
 } noimg          _?                           ?
 - .oS.     R     _FEHERVARI Peter             Requiem infernal [Adepta Sorotiras] þ2019 Requiem Infernal þTrad. MASSON Lo‹c
@@ -1459,7 +1625,7 @@ o BLF_W40     ?  2019.07 ..... ISBN 978-1-78030-491-5
 o BLF_W40     ?  2019.08 ..... ISBN 978-1-78030-500-4
 } blw299         _?                           ?
 - .oS.     N4    _KYME Nick                   Sicarius - le MaŒtre du Guet þ2019
-!--- þTrad. Elena Badiqu‚ & Antoine Prono
+!--- Trad. Elena Badiqu‚ & Antoine Prono
 : .oS.     N     _KYME Nick                   Assaut sur Black Reach þ2008 Assault on Black Reach
 : .oS.     N     _KYME Nick                   Voile de t‚nŠbres þ2013 Veil of Darkness
 : .oS.     N     _KYME Nick                   Le MaŒtre du Guet [Lords of the Space Marines] þ2013 Cato Sicarius: Master of the Watch
@@ -1492,13 +1658,13 @@ o BLF_W40     ?  2019.10 ..... ISBN 978-1-78030-556-1
 : .oS.     R     _THORPE Gav                  Les Impardonn‚s [L'H‚ritage de Caliban - 3] þ2015 The Unforgiven þTrad. CHASSIGNOL Gilles
 o BLF_W40     ?  2019.10 ..... ISBN 978-1-78030-505-9
 } noimg          _?                           ?
-- .oS.     R     _KYME Nick                   Les Chevaliers de Macragge [Ultramarines] þ2019 Knights of Macragge þTrad. MINDEL Julien
+- .oS.     R     _KYME Nick                   Les Chevaliers de Macragge [Uriel Ventris][Ultramarine] þ2019 Knights of Macragge þTrad. MINDEL Julien
 o BLF_W40     ?  2019.11 ..... ISBN 978-1-78030-557-8
 } noimg          _Clint Langley               ?
 - .oY.     R     _MITCHELL Sandy              La Mort ou la Gloire [Ciaphas Cain - 4] þ2006 Death or Glory þTrad. MINDEL Julien
 o BLF_W40     ?  2019.12 ..... ISBN 978-1-78030-550-9
 } noimg          _?                           ?
-- .oS.     R     _HILL Justin D.              L'Honneur Cadien [Astra Militarum] þ2018 Cadian Honour þTrad. VOLAIT Matthieu
+- .oS.     R     _HILL Justin D.              L'Honneur Cadien [Cadia - 2][Astra Militarum] þ2018 Cadian Honour þTrad. VOLAIT Matthieu
 !------------------------
 !=== 2020
 !------------------------
@@ -1526,7 +1692,7 @@ o BLF_W40     ?  2020.03 ..... ISBN 978-1-78030-522-6
 o BLF_W40     ?  2020.03 ..... ISBN 978-1-78030-555-4
 } noimg          _Marta Dettlaff              ?
 !--- GF - 21,5 cm x 30,3 cm - 240 pages - 55.00 euros
-- .oS.     E     _ABNETT Dan                  La Croisade des Mondes de Sabbat [Fant“mes de Gaunt] þ2005 The Sabbat Worlds Crusade þTrad. BOUET Gr‚gory & DROUET Julien & DE MAEN Mehdi
+- .oS.     G     _ABNETT Dan                  La Croisade des mondes de Sabbat [Fant“mes de Gaunt] þ2005 The Sabbat Worlds Crusade þTrad. BOUET Gr‚gory & DROUET Julien & DE MAEN Mehdi
 o BLF_W40     ?  2020.06 ..... ISBN 978-1-78030-509-7
 } noimg          _Maria Zolotukhina           ?
 !--- GF - 12,9 cm x 19,8 cm - 416 pages - 14.00 euros
@@ -1576,8 +1742,7 @@ o BLF_W4P     ?  2020.09 ..... ISBN 978-1-78030-637-7
 o BLF_W40     ?  2020.10 ..... ISBN 978-1-78030-610-0
 } noimg          _?                           ?
 !--- GF - 12,9 cm x 19,8 cm - 589 pages - 15.00 euros
-!--- TBD Le Fils vengeur [L'Aube de feu - 1]
-- .oS.     R     _HALEY Guy                   Aube de feu - Le Fils vengeur þ2020 Avenging Sun þTrad. MASSON Lo‹c
+- .oS.     R     _HALEY Guy                   Le Fils vengeur [L'Aube de feu - 1] þ2020 Avenging Sun þTrad. MASSON Lo‹c
 o BLF_W40     ?  2020.10 ..... ISBN 978-1-78030-612-4
 } noimg          _?                           ?
 !--- GF - 12,8 cm x 19,8 cm - 331 pages - 13.00 euros
@@ -1592,7 +1757,7 @@ o BLF_W40     ?  2020.11 ..... ISBN 978-1-78030-615-5
 : .o .     N     _PARROTT Thomas              L'preuve de foi þ2019 The Test of Faith þTrad. HUET F‚lix
 : .o .     N     _HARRISON Rachel             Les Heures cr‚pusculaires þ2019 The Darkling Hours þTrad. HUET F‚lix
 : .o .     N     _McLEAN Peter                Attaque ‚clair þ2018 Lightning Run þTrad. HUET F‚lix
-: .o .     N     _ABNETT Dan                  Port‚s disparus þ2001 Missing in Action þTrad. HUET F‚lix
+: .o .     N     _ABNETT Dan                  Port‚s disparus [Eisenhorn] þ2018 Missing in Action þTrad. ?
 : .o .     N     _WARE Danie                  La Cath‚drale de cristal þ2019 The Crystal Cathedral þTrad. HUET F‚lix
 : .o .     N     _HALEY Guy                   Parler d'une seule voix þ2019 To Speak As One þTrad. HUET F‚lix
 : .o .     N     _BROOKS Mike                 Tant que ya l'warp ya moyen þ2019 Where Dere's Da Warp Dere's a Way þTrad. HUET F‚lix
@@ -1617,12 +1782,190 @@ o BLF_W40     ?  2020.11 ..... ISBN 978-1-78030-603-2
 o BLF_W40     ?  2020.12 ..... ISBN 978-1-78030-602-5
 } blw355         _Hardy Fowler                ?
 !--- GF - 128 x 197 mm - 846 pages - 17 euros
-- .oS.     R3N   _McNEILL Graham              Les Chroniques d'Uriel Ventris - 2Šme partie [Ultramarine - 4/6] þ2020
-: .oS.     R     _McNEILL Graham              Champ de mort [Ultramarine - 4] þ2008 The Killing Ground þTrad. LACROUTS Laurent
-: .oS.     R     _McNEILL Graham              Courage et honneur [Ultramarine - 5] þ2009 Courage and Honour þTrad. BEAUBRUN Philippe
-: .oS.     R     _McNEILL Graham              La Part du chapitre [Ultramarine - 6] þ2010 Chapter's Due þTrad. BEAUBRUN Philippe
-: .oS.     N     _McNEILL Graham              La Mort d'Uriel Ventris [Ultramarine] þ2020 The Death of Uriel Ventris
+- .oS.     R3N   _McNEILL Graham              Les Chroniques d'Uriel Ventris - 2Šme partie [Uriel Ventris][Ultramarine - 4/6] þ2020
+: .oS.     R     _McNEILL Graham              Champ de mort [Uriel Ventris][Ultramarine - 4] þ2008 The Killing Ground þTrad. LACROUTS Laurent
+: .oS.     R     _McNEILL Graham              Courage et honneur [Uriel Ventris][Ultramarine - 5] þ2009 Courage and Honour þTrad. BEAUBRUN Philippe
+: .oS.     R     _McNEILL Graham              La Part du chapitre [Uriel Ventris][Ultramarine - 6] þ2010 Chapter's Due þTrad. BEAUBRUN Philippe
+: .oS.     N     _McNEILL Graham              La Mort d'Uriel Ventris [Uriel Ventris][Ultramarine] þ2020 The Death of Uriel Ventris
+!------------------------
+!=== 2021
+!------------------------
+o BLF_W40     ?  2021.01 ..... ISBN 978-1-78030-627-8
+} noimg          _Kenson Low                  ?
+!--- GF - 129 x 198 - 272 pages
+- .oS.     R     _THORPE Gav                  13Šme L‚gion [Les Tˆtes br–l‚es - 1] þ2000 13th Legion þTrad. ? 
+o BLF_W40     ?  2021.04 ..... ISBN 978-1-78030-647-6
+} noimg          _Clint Langley               ?
+!--- GF - 130 x 200 - 328 pages
+- .oS.     R     _MITCHELL Sandy              La Der des ders de Cain [Ciaphas Cain - 6] þ2008 Cain's Last Stand þTrad. MINDEL Julien
+o BLF_W40     ?  2021.04 ..... ISBN 978-1-78030-562-2
+} noimg          _?                           ?
+!--- GF - 129 x 198 - 480 pages
+- .oS.     R     _CLARK Andy                  La Porte des ossements [L'Aube de feu - 2] þ2021 The Gate of Bones þTrad. MASSON Lo‹c
+o BLF_W40     ?  2021.04 ..... ISBN 978-1-78030-646-9
+} noimg          _?                           ?
+!--- GF - 129 x 198 - 288 pages
+- .oS.     R     _McNEILL Graham              Les Ep‚es de Calth [Uriel Ventris][Ultramarine] þ2021 The Swords of Calth þTrad. MASSON Lo‹c
+o BLF_W40     ?  2021.04 ..... ISBN 978-1-78030-642-1
+} noimg          _?                           ?
+!--- GF - 129 x 198 - 432 pages
+- .oS.     R     _ABNETT Dan                  Paria [Bequin - 1] þ2012 Pariah: Ravenor Versus Eisenhorn þTrad. HUET Nathalie
+o BLF_W40     ?  2021.04 ..... ISBN 978-1-78030-645-2
+} noimg          _?                           ?
+!--- GF - 129 x 198 - 320 pages
+- .oS.     R     _ABNETT Dan                  P‚nitente [Bequin - 2] þ2021 Penitent þTrad. HUET Nathalie
+o BLF_W40     ?  2021.05 ..... ISBN 978-1-78030-629-2
+} noimg          _?                           ?
+!--- GF - 158x240 - 384 pages
+- .oS.     R     _HALEY Guy                   L'Ombre de Sanguinius þ2020 Darkness in the Blood þTrad. HUET F‚lix
+o BLF_W40     ?  2021.05 ..... ISBN 978-1-78030-567-7
+} noimg          _?                           ?
+!--- GF - 130x200 - 432 pages
+- .oS.     R     _MITCHELL Sandy              La Fine Fleur de l'Imp‚rium [Ciaphas Cain - 7] þ2010 The Emperor's Finest þTrad. MINDEL Julien
+o BLF_W40     ?  2021.06 ..... ISBN 978-1-80026-092-4
+} noimg          _Kenson Low                  ?
+!--- GF - 130x200 - 352 pages
+- .oS.     R     _THORPE Gav                  Equipe de choc [Les Tˆtes br–l‚es - 2] þ2001 Kill Team þTrad. QUEMENER Mirabelle
+o BLF_W40     ?  2021.07 ..... ISBN 978-1-80026-098-6
+} noimg          _?                           ?
+!--- GF - 129x198 - 256 pages
+- .oS.     R     _CLARK Andy                  C‚lestine, la Sainte Vivante þ2019 Celestine: The Living Saint þTrad. MASSON Lo‹c
+o BLF_W40     ?  2021.07 ..... ISBN 978-1-80026-096-2
+} blw380         _?                           ?
+!--- GF - 129x198 - 364 pages
+!==== TBD ?? [Les Chroniques de Sabbat][Les Mondes de Sabbat]
+!==== TBD ?? Attention, tous les fant“mes de Gaune devraient ˆtre [Fant“mes de Gaunt][Les Mondes de Sabbat]
+- .oS.     A9    *ABNETT Dan                  La Guerre de Sabbat [Les Chroniques de Sabbat - 1] þ2021 Sabbat War þTrad. ?
+: .o .     N     _ABNETT Dan                  Le Parfum de la victoire þ2021 This Is What Victory Feels Like (Forever the Same)
+: .o .     N     _McNEILL Graham              Celui que nul n'entend plus þ2021 Whose Voice Is Heard no More
+: .o .     N     _RATH Robert                 Les Ailes de la gloire þ2021 Glory Flight
+: .o .     N     _COLLINS Marc                La Mort du prophŠte þ2021 The Death of the Prophet
+: .o .     N     _FARRER Matthew              Dix-neuf-trois, cap sur le coeur galactique þ2021 Nineteen-Three Coreward, Resolved
+: .o .     N     _HILL Justin D.              La Tombe de Vichres þ2021 The Tomb of Vichres
+: .o .     N     _ALBERT Edoardo              Dans le tr‚fonds þ2021 Deep
+: .o .     N     _FRENCH John                 Armaduke þ2021 Armaduke
+: .o .     N     _HARRISON Rachel             L'Indomptable þ2021 Indomitable Spirit
+: .o .     N     _ABNETT Dan                  Celui qui part revient þ2021 From There to Here
+o BLF_W40     ?  2021.07 ..... ISBN 978-1-78030-648-3
+} noimg          _?                           ?
+!--- GF - 129x198 - 368 pages
+- .oS.     R     _ALBERT Edoardo              Les Pr‚dateurs du silence [Carcharodons] þ2021 Carcharodons: Silent Hunters þTrad. CHASSIGNOL Gilles
+o BLF_W40     ?  2021.07 ..... ISBN 978-1-80026-095-5
+} noimg          _?                           ?
+!--- GF - 129x198 - 412 pages
+!==== TBD ?? [Les Chroniques de Sabbat][Les Mondes de Sabbat]
+!==== TBD ?? Attention, tous les fant“mes de Gaune devraient ˆtre [Fant“mes de Gaunt][Les Mondes de Sabbat]
+- .oS.     R     _FARRER Matthew              Urdesh - Le Serpent et la Sainte [Les Chroniques de Sabbat - 2] þ2021 Urdesh: The Serpent and the Saint þTrad. DEBOT Anthony
+o BLF_W40     ?  2021.08 ..... ISBN 978-1-80026-154-9
+} noimg          _?                           ?
+!--- GF - 129x198 - 512 pages
+- .oS.     R     _HALEY Guy                   Fl‚au divin [Sombre Imperium - 3] þ2021 Godblight þTrad. DEBOT Anthony
+o BLF_W40     ?  2021.08 ..... ISBN 978-1-80026-223-2
+} noimg          _?                           ?
+!--- GF - 129x198 - 368 pages
+- .oS.     R     _KELLY Phil                  L'Empire des mensonges [Farsight - 2] þ2020 Empire of Lies þTrad. QUEMENER Mirabelle
+o BLF_W40     ?  2021.10 ..... ISBN 978-1-80026-160-0
+} noimg          _?                           ?
+!--- GF - 129x198 - 288 pages
+- .oS.     R     _ANNANDALE David             Ephra‰l Stern - La Sainte h‚r‚tique þ2020 Ephrael Stern: The Heretic Saint þTrad. ? 
+o BLF_W40     ?  2021.12 ..... ISBN 978-1-80026-153-2
+} noimg          _Clint Langley               ?
+!--- GF - 129x198 - 368 pages
+- .oS.     R     _MITCHELL Sandy              Derniers retranchements [Ciaphas Cain - 8] þ2012 The Last Ditch þTrad. ? 
+!------------------------
+!=== 2022
+!------------------------
+o BLF_W40     ?  2022.01 ..... ISBN 978-1-80026-157-0
+} blw393         _Kenson Low                  ?
+!--- GF - 130x208 - 356 pages - 14 euros
+- .oS.     R     _THORPE Gav                  Mission annihilation [Les Tˆtes br–l‚es - 3] þ2004 Annihilation Squad þTrad. QUEMENER Mirabelle
+o BLF_W40     ?  2022.01 ..... ISBN 978-1-80026-161-7
+} blw394         _?                           ?
+!--- GF - 130 x 200 - 328 pages - 14 euros
+>--- Contient un prologue et un ‚pilogue, sans titres et non cr‚dit‚s, qui d‚crivent la d‚couverte du "Livre des martyrs" par une soeur de l'ordre et son comportement aprŠs sa lecture.
+- .oS.    kA8    _WARE Danie                 &Le Livre des martyrs [Adepta Sorotiras] þ2022 The Book Of Martyrs þTrad. ? 
+&                _WORLEY Alec                &
+&                _KELLY Phil                  
+: .o .     N     _WORLEY Alec                 Le Martyre de soeur Ishani [Adepta Sorotiras] þ2022 The Martyrdon of Sister Ishani
+: .o .     N     _KELLY Phil                  Le Martyre de soeur Anarchia [Adepta Sorotiras] þ2022 The Martyrdom of Sister Anarchia
+: .o .     N     _WARE Danie                  Le Martyre de soeur Laureline [Adepta Sorotiras] þ2022 The Martyrdom of Sister Laurelyn
+o BLF_W40     ?  2022.02 ..... ISBN 978-1-80026-164-8
+} blw393         _?                           ?
+!--- GF - 130x200 - 442 pages - 14 euros
+- .oS.     R     _FARRER Matthew              Urdesh - Le Magister et la Martyre [Les Chroniques de Sabbat - 3] þ2021 Urdesh: The Magister and The Martyr þTrad. ?
+o BLF_W40     ?  2022.02 ..... ISBN 978-1-80026-227-0
+} blw393         _?                           ?
+!--- GF - 130x200 - 400 pages - 15 euros
+- .o .     R     _WRAIGHT Chris               La Porte de l'hiver [Ragnar Blackmane] þ2021 The Helwinter Gate þTrad. MASSON Lo‹c
+o BLF_W40     ?  2022.03 ..... ISBN 978-1-80026-158-7
+} noimg          _?                           ?
+!--- GF - 129 x 198 - 576 pages - 15 euros
+- .oS.     R     _THORPE Gav                  L'Šre du loup [L'Aube de feu - 3] þ2021 The Wolftime þTrad. MASSON Lo‹c
+o BLF_W40     ?  2022.03 ..... ISBN 978-1-78030-563-9
+} noimg          _?                           ?
+!--- GF - 129 x 198 - 416 pages - 14 euros
+- .oS.     R     _CROWLEY Nate                Ruine [Le Roi mort deux fois - 1] þ2021 Ruin þTrad. ?
+o BLF_W40     ?  2022.04 ..... ISBN 978-1-78030-604-9
+} noimg          _?                           ?
+!--- GF - 129 x 198 - 480 pages - 15 euros
+- .oS.     R     _HILL Justin D.              Le Roc aux traitres [Cadia - 3][Astra Militarum] þ2021 Traitor Rock þTrad. QUEMENER Mirabelle
+o BLF_W40     ?  2022.06 ..... ISBN 978-1-80026-862-3
+} noimg          _?                           ?
+!--- GF - 129 x 198 - 336 pages - 13 euros
+- .oS.     R     _LYONS Steve                 Krieg [Death Korps] þ2022 Krieg þTrad. NIOGRET Justine
+o BLF_W40     ?  2022.08 ..... ISBN 978-1-80026-851-7
+} noimg          _?                           ?
+!--- MF - 130 x 198 - 544 pages - 15 euros
+- .oS.     R     _HALEY Guy                   Le Tr“ne de lumiŠre [L'Aube de feu - 4] þ2022 Throne of Light þTrad. MASSON Lo‹c
+o BLF_W40     ?  2022.08 ..... ISBN 978-1-80026-859-3
+} noimg          _?                           ?
+!--- MF - 136 x 205 - 286 pages - 17 euros
+- .oS.     R     _CROWLEY Nate                Ghazghkull Thraka - ProphŠte de la Waaagh ! þ2022 Ghazghkull Thraka: Prophet of the Waaagh! þTrad. CLEMENT Sylvain
+o BLF_W40     ?  2022.10 ..... ISBN 978-1-80407-190-8
+} noimg          _?                           ?
+!--- MF - 130 x 198 - 215 pages - 12 euros
+- .oS.     R     _TCHAIKOVSKY Adrian          Le Jour de l'Ascension  þ2022 Day of Ascension þTrad. PLANCHAT Henry-Luc
+o BLF_W40     ?  2022.11 ..... ISBN 978-1-80407-193-9
+} blw411         _?                           ?
+!--- MF - 130 x 198 - 942 pages - 19 euros
+- .oS.    kR3    _HALEY Guy                   Sombre Imperium - La Trilogie [Sombre Imperium - 1/3] þ2022
+: .oS.     R     _HALEY Guy                   Sombre Imperium [Sombre Imperium - 1] þ2018 Dark Imperium þTrad. HUET F‚lix
+: .oS.     R     _HALEY Guy                   Guerre et Peste [Sombre Imperium - 2] þ2018 PlagueWar þTrad. DEBOT Anthony
+: .oS.     R     _HALEY Guy                   Fl‚au divin [Sombre Imperium - 3] þ2021 Godblight þTrad. DEBOT Anthony
+o BLF_W40     ?  2022.11 ..... ISBN 978-1-80026-847-0
+} noimg          _?                           ?
+!--- MF - 130 x 198 - 426 pages - 14 euros
+- .oS.     R     _CROWLEY Nate                RŠgne [Le Roi mort deux fois - 2] þ2022 Reign þTrad. CHASSIGNOL Nate
+o BLF_W40     ?  2022.11 ..... ISBN 978-1-80407-188-5
+} noimg          _?                           ?
+!--- MF - 130 x 198 - 270 pages - 13 euros
+- .oS.     R     _ABNETT Dan                  L'Insurrection de Vincula [Dossiers fant“mes - 1][Fant“mes de Gaunt] þ2022 The Vincula Insurgency þTrad. QUEMENER Mirabelle
+o BLF_W40     ?  2022.12 ..... ISBN 978-1-78999-639-5
+} noimg          _?                           ?
+!--- MF - 130 x 198 - 368 pages - 13 euros
+- .oS.     R     _DEMBSKI-BOWDEN Aaron        Le Sang cadien [Garde imp‚riale - 7]+[Astra Militarum] þ2009 Cadian Blood þTrad. ?
+o BLF_W40     ?  2022.12 ..... ISBN 978-1-80407-192-2
+} noimg          _?                           ?
+!--- MF - 130 x 198 - 316 pages - 14 euros
+- .oS.     R     _CLARK Andy                  CortŠge d'acier þ2021 Steel Tread þTrad. ?
 
+!-----------------------------------------------------------------------------
+!--- COLL : Warhammer Crime
+!-----------------------------------------------------------------------------
+!--- Nom de la collection et logo sont indiqu‚s dans le livre, et sur la couv pour "Aberrations"
+!-----------------------------------------------------------------------------
+o BLn_CRI     ?  2020.12 ..... ISBN -
+} noimg          _?                           ?
+!--- GF - 129 x 198 - 58 pages - 3,99 euros
+- .oS.     N     _WRAIGHT Chris               Aberrations [Agusto Zidarov] þ2020 Aberrant þTrad. ?
+o BLF_CRI     ?  2021.04 ..... ISBN 978-1-78030-643-8
+} noimg          _?                           ?
+!--- GF - 129 x 198 - 320 pages
+- .oS.     R     _WRAIGHT Chris               Lign‚es sanglantes [Agusto Zidarov] þ2020 Bloodlines þTrad. HUET Nathalie
+o BLF_CRI     ?  2022.05 ..... ISBN 978-1-80026-848-7
+} noimg          _?                           ?
+!--- GF - 129 x 198 - 448 pages - 14 euros
+- .oS.     R     _HALEY Guy                   La Chair et l'Acier [Noctis et Lux] þ2020 Flesh and Steel þTrad. HUET F‚lix
 
 !-----------------------------------------------------------------------------
 !--- COLL : Age of Sigmar
@@ -1641,9 +1984,9 @@ o BLF_WAS     ?  2017.11 ..... ISBN 978-1-78496-750-5
 : .o .     N     _GUYMER David                A l'ombre du pouce noir [Age of Sigmar] þ2017 Beneath the Black Thumb
 : .o .     N     _REYNOLDS Josh               Assaut sur le bastion de la mandragore [Age of Sigmar] þ2017 Assault on the Mandrake Bastion
 : .o .     N     _GUYMER David                Le Grand Rouge [Age of Sigmar] þ2017 Great Red
-: .o .     N     _MACNIVEN Robbie             Coeur de Sylve [Age of Sigmar] þ2016 Heartwood
+: .o .     N     _MacNIVEN Robbie             Coeur de Sylve [Age of Sigmar] þ2016 Heartwood
 : .o .     N     _ANNANDALE David             Les Cl‚s de la ruine [Age of Sigmar] þ2016 The Keys to Ruin
-: .o .     X     _REYNOLDS Josh               Le Jardin de la peste [Hallowed Knights][Age of Sigmar] þ2017 Plague Garden þTrad. ?
+: .oY.     X     _REYNOLDS Josh               Le Jardin de la peste [Hallowed Knights - 1][Age of Sigmar] þ2017 Plague Garden þTrad. ?
 !------------------------
 !=== 2018
 !------------------------
@@ -1652,7 +1995,7 @@ o BLF_WAS     ?  2018.02 ..... ISBN 978-1-78030-369-7
 - .oS.     R     _REYNOLDS Josh               La Lance des Ombres [Les Huit Lamentations - 1][Age of Sigmar] þ2017 Spear of Shadows þTrad. ?
 o BLF_WAS     ?  2018.04 ..... ISBN 978-1-78030-375-8
 } noimg          _Johan Grenier               ?
-- .oY.     R     _WERNER C.L.                 Corsaires du Dragon de Fer [Kharadron Overlords - 1][Age of Sigmar] þ2017 Overlords of the Iron Dragon þTrad. OLIVIER Philippe
+- .oY.     R     _WERNER C.L.                 Corsaires du dragon de fer [Kharadron Overlords - 1][Age of Sigmar] þ2017 Overlords of the Iron Dragon þTrad. OLIVIER Philippe
 o BLF_WAS     ?  2018.06 ..... ISBN 978-1-78030-383-3
 } noimg          _Igor Sid                    ?
 - .oS.     R     _REYNOLDS Josh               la Guerre des ƒmes [Age of Sigmar] þ2018 Soul Wars þTrad. VESSIERE J‚r“me
@@ -1661,7 +2004,7 @@ o BLF_WAS     ?  2018.08 ..... ISBN 978-1-78030-390-1
 - .oY.     R     _HORTH Nick                  Callis & Toll - L'‚clat d'argent [Age of Sigmar] þ2018 The Silver Shard þTrad. ?
 o BLF_WAS     ?  2018.10 ..... ISBN 978-1-78030-404-5
 } noimg          _?                           ?
-- .oS.     R     _REYNOLDS Josh               Shadespire : La Cit‚ miroir [Age of Sigmar] þ2018 Shadespire: The Mirrored City þTrad. VESSIERE J‚r“me
+- .oS.     R     _REYNOLDS Josh               Shadespire - La Cit‚ miroir [Age of Sigmar] þ2018 Shadespire: The Mirrored City þTrad. VESSIERE J‚r“me
 o BLF_WAS     ?  2018.12 ..... ISBN 978-1-78030-415-1
 } noimg          _?                           ?
 - .oY.     R     _WERNER C.L.                 Le Coeur corrompu [Age of Sigmar] þ2018 The Tainted Heart þTrad. VESSIERE J‚r“me
@@ -1718,11 +2061,11 @@ o BLF_WAS     ?  2020.11 ..... ISBN 978-1-78030-592-9
 : .o .     N     _ANNANDALE David             L'pave, Le cr‚puscule de l'espoir þ2012 The Wreckage, Eclipse of Hope
 : .o .     N     _ANNANDALE David             La Danse des crƒnes [Age of Sigmar] þ2017 The Danse of the Skull
 : .o .     N     _KYME Nick                   Les Sacrements de la souffrance þ2013 Rite of Pain
-: .o .     N     _KYME Nick                   Voile de t‚nŠbres þ2017 Veil of Darkness
+: .o .     N     _KYME Nick                   Voile de t‚nŠbres þ2013 Veil of Darkness
 : .o .     N     _McNEILL Graham              Hi‚rarchie þ2001 Chains of Command
 : .o .     N     _HALEY Guy                   R‚dempteur þ2019 Redeemer
 : .o .     N     _DEMBSKI-BOWDEN Aaron        Extinction þ2012 Extinction
-: .o .     N     _DEMBSKI-BOWDEN Aaron        Chevalier des ombres þ2009 Shadow Knight
+: .o .     N     _DEMBSKI-BOWDEN Aaron        Chevalier des ombres [Night Lords] þ2009 Shadow Knight
 : .o .     N     _REYNOLDS Josh               Prodigue þ2016 Prodiqual
 : .o .     N     _REYNOLDS Josh               Les Fant“mes de Demesnus þ2018 Ghosts of Demesnu
 : .o .     N     _THORPE Gav                  Coeur de Feu þ2017 Fireheart
@@ -1750,6 +2093,28 @@ o BLF_WAP     ?  2020.11 ..... ISBN 978-1-78030-593-6
 : .o .     N     _WERNER C.L.                 Les Tueurs de sorciŠres [Age of Sigmar] þ2017 The Witch Takers
 : .o .     N     _THORPE Gav                  La Source courrouc‚e [Age of Sigmar] þ2018 Wrathspring
 : .o .     r     _HALEY Guy                   La Route de Volturung [Age of Sigmar] þ2018 The Volturung Road
+!------------------------
+!=== 2021
+!------------------------
+o BLF_WAS     ?  2021.05 ..... ISBN 978-1-78030-616-4
+} noimg          _?                           ?
+!--- GF - 130x200 - 365 pages
+- .o .     R     _WERNER C.L.                 La Cit‚ maudite þ2021 Cursed City þTrad. QUEMENER Mirabelle
+o BLF_WAS     ?  2021.06 ..... ISBN 978-1-78030-568-4
+} noimg          _?                           ?
+!--- GF - 130x200 - 352 pages
+- .o .     R     _HINKS Darius                Tueur de Gitz [Gotrek et Felix] þ2021 Gitslayer þTrad. VESSIERE J‚r“me
+o BLF_WAS     ?  2021.08 ..... ISBN 978-1-80026-094-8
+} noimg          _?                           ?
+!--- GF - 129x198 - 400 pages
+- .o .     R     _HINKS Darius                Dominion - Fort Ardent [Age of Sigmar] þ2021 Dominion þTrad. VESSIERE J‚r“me
+!------------------------
+!=== 2022
+!------------------------
+o BLF_WAS     ?  2022.05 ..... ISBN 978-1-80026-850-0
+} noimg          _?                           ?
+!--- GF - 129x198 - 368 pages - 14 euros
+- .o .     R     _HINKS Darius                Tueur d'ƒmes [Gotrek et Felix] þ2021 Soulslayer þTrad. ?
 
 
 
@@ -1808,6 +2173,27 @@ o BLF_WCH     ?  2020.07 ..... ISBN 978-1-78030-506-6
 : .oY.     R     _McNEILL Graham              Heldenhammer [La L‚gende de Sigmar - 1] þ2008 Heldenhammer þTrad. HUET Nathalie
 : .oY.     R     _McNEILL Graham              Empire [La L‚gende de Sigmar - 2] þ2009 Empire þTrad. PHILIBERT-CAILLOT Laurent
 : .oY.     R     _McNEILL Graham              Le Roi dieu [La L‚gende de Sigmar - 3] þ2010 God-King þTrad. Gilles Chassignol
+!------------------------
+!=== 2021
+!------------------------
+o BLF_WCH     ?  2021.10 ..... ISBN 978-1-78030-628-5
+} blw014rr21     _?                           ?
+!--- GF - 130 x 198 - 800 pages - 17 euros
+- .oY.    kR3    _KING William                Gotrek et Felix - Seconde trilogie [Gotrek et Felix - 4/6] þ2006 Gotrek & Felix: The Second Omnibus
+: .oY.     R     _KING William                Tueur de dragons [Gotrek et Felix - 4] þ2000 Dragonslayer þTrad. BEAUBRUN Philippe
+: .oY.     R     _KING William                Tueur de monstres [Gotrek et Felix - 5] þ2001 Beastslayer þTrad. BEAUBRUN Philippe
+: .oY.     R     _KING William                Tueur de vampires [Gotrek et Felix - 6] þ2001 Vampireslayer þTrad. BEAUBRUN Philippe
+!------------------------
+!=== 2022
+!------------------------
+o BLF_WCH     ?  2022.09 ..... ISBN 978-1-80407-189-2
+} blw054rr22     _?                           ?
+!--- GF - 130 x 199 - 845 pages - 17 euros
+- .oY.    kR3    _KING William               &Gotrek et Felix - TroisiŠme trilogie [Gotrek et Felix - 7/9] þ2009 Gotrek & Felix: The Third Omnibus
+&                _LONG Nathan                 
+: .oY.     R     _KING William                Tueur de g‚ants [Gotrek et Felix - 7] þ2003 Giantslayer þTrad. BEAUBRUN Philippe
+: .oY.     R     _LONG Nathan                 Tueur d'orques [Gotrek et Felix - 8] þ2006 Orcslayer þTrad. BEAUBRUN Philippe
+: .oY.     R     _LONG Nathan                 Tueur d'humains [Gotrek et Felix - 9] þ2007 Manslayer þTrad. BEAUBRUN Philippe
 
 
 !-----------------------------------------------------------------------------
@@ -1842,7 +2228,7 @@ o BLF_C1n     8  2018.11 ..... ISBN -
 - .oS.     r     _DICKEN Evan                 Les Heures rouges [Age of Sigmar] þ2018 The Red Hours þTrad. ?
 o BLF_C1n     9  2018.11 ..... ISBN -
 } noimg          _?                           ?
-- .oS.     r     _MACNIVEN Robbie             Le D‚sert des ossements [Age of Sigmar] þ2018 The Bone Desert þTrad. ?
+- .oS.     r     _MacNIVEN Robbie             Le D‚sert des ossements [Age of Sigmar] þ2018 The Bone Desert þTrad. ?
 o BLF_C1n    10  2018.11 ..... ISBN -
 } noimg          _?                           ?
 - .oS.     r     _HORTH Nick                  Le Coeur de l'hiver [Age of Sigmar] þ2018 Heart of Winter þTrad. ?
@@ -1895,14 +2281,33 @@ o BLF_ADV     ?  2020.01 ..... ISBN 978-1-78030-531-8
 } noimg          _Cole Marchetti & Magnus Nor‚n
 !--- Jeunesse - GF - 12,9 cm x 19,8 cm - 240 pages - 7.00 euros
 - .oS.     R     _SCOTT Cavan                 La Guerre des Orks [Les Galaxies distordues - 4] þ2010 War of the Orks þTrad. VESSIERE J‚r“me
+o BLF_ADV     ?  2021.05 ..... ISBN 978-1-78030-600-1
+} noimg          _Cole Marchetti & Dan Boultwood
+!--- Jeunesse - GF - 129x198 - 192 pages
+- .oY.     R     _HUDDLESTON Tom              La Forteresse des fant“mes [Les 8 Royaumes Mortels - 5] þ2021 Fortress of Ghosts þTrad. VESSIERE J‚r“me
+o BLF_ADV     ?  2021.05 ..... ISBN 978-1-78030-601-8
+} noimg          _Cole Marchetti & Dan Boultwood
+!--- Jeunesse - GF - 129x198 - 224 pages
+- .oS.     R     _SCOTT Cavan                 La Peste des Nurglings [Les Galaxies distordues - 5] þ2021 Plague of the Nurglings þTrad. VESSIERE J‚r“me
+o BLF_ADV     ?  2021.11 ..... ISBN 978-1-78030-447-2
+} noimg          _Cole Marchetti & Dan Boultwood
+!--- Jeunesse - GF - 129x198 
+- .oS.     R     _SCOTT Cavan                 La Tombe des N‚crons [Les Galaxies distordues - 6] þ2021 Tomb of the Necron þTrad. VESSIERE J‚r“me
+o BLF_ADV     ?  2021.10 ..... ISBN 978-1-78030-448-9
+} noimg          _Cole Marchetti & Dan Boultwood
+!--- Jeunesse - GF - 129x198 
+- .oY.     R     _HUDDLESTON Tom              Bataille pour la Source-ƒme [Les 8 Royaumes Mortels - 6] þ2021 Battle for the Soulspring þTrad. ? 
+
 
 !-----------------------------------------------------------------------------
 !--- COLL : Warhammer Horror
 !-----------------------------------------------------------------------------
+!--- Les R‚prouv‚s (Peter Fehervari) - Short - num‚rique
+!-----------------------------------------------------------------------------
 o BLF_HOR     ?  2020.02 ..... ISBN 978-1-78030-630-8
 } blw323         _Rachel Williams             ?
-- .oTF    kA12   ****                         Mal‚dictions þ2019 Maledictions
 >--- Le douziŠme et dernier texte a ‚t‚ ajout‚ dans la version fran‡aise, il n'existe pas dans le recueil original.
+- .oTF    kA12   ****                         Mal‚dictions þ2019 Maledictions
 : .o .     N     _KHAW Cassandra              Le N‚penthŠs þ2019 Nepenthe
 : .o .     N     _STRACHAN Richard            La Mar‚e des veuves þ2019 The Widow Tide
 : .o .     N     _McNEILL Graham              Le mieux est l'ennemi du bien þ2019 No Good Deed
@@ -1916,7 +2321,7 @@ o BLF_HOR     ?  2020.02 ..... ISBN 978-1-78030-630-8
 : .o .     N     _WHORLEY Alec                Les Nullƒmes þ2019 The Nothings
 : .o .     r     _McNEILL Graham              Le Journal de la colonelle þ2019 The Colonel's Monograph
 o BLF_HOR     ?  2020.11 ..... ISBN 978-1-78030-608-7
-} noimg          _?                           ?
+} blw354         _?                           ?
 !--- GF - 12,8 cm x 19,8 cm - 484 pages - 13 euros
 - .oTF     A12   ****                         Invocations þ2019 Invocations þTrad. ?
 : .o .     N     _ANNANDALE David             La Traque þ2019 The Hunt
@@ -1931,6 +2336,16 @@ o BLF_HOR     ?  2020.11 ..... ISBN 978-1-78030-608-7
 : .o .     N     _WERNER C.L.                 Vengeance d'outre-tombe þ2019 The Summons of Shadows
 : .o .     N     _CLULEY Ray                  De chair et de sang þ2019 Flesh and Blood
 : .o .     N     _ANNANDALE David             L'Appel des ombres þ2019 The Summons of Shadows
+o BLF_HOR     ?  2021.11 ..... ISBN 978-1-80026-225-6
+} blw390         _?                           ?
+!--- GF - 129x198 - 332 pages - 13 euros
+>--- Trois personnages se racontent leur histoire. Elles sont intercal‚es entre de courts chapitres intitul‚s "Silence" (parties 1 … 4) du nom de la planŠte ou ils se rencontrent.
+- .oSF    kC3    _REYNOLDS Josh              &Les D‚ments et les damn‚s þ2019 The Wicked and the Damned þTrad. FERAUD Marianne
+&                _KELLY Phil                 &
+&                _ANNANDALE David            
+: .o .     r     _REYNOLDS Josh               La Bˆte dans les tranch‚es þ2019 The Beast in the Trenches þTrad. FERAUD Marianne
+: .o .     r     _KELLY Phil                  La Femme emmur‚e þ2019 The Woman in the Walls þTrad. FERAUD Marianne
+: .o .     r     _ANNANDALE David             La Foi et la chair þ2019 The Faith and the Flesh þTrad. FERAUD Marianne
 
 !-----------------------------------------------------------------------------
 !--- COLL : Necromunda
@@ -1943,4 +2358,8 @@ o BLF_NEC     ?  2020.06 ..... ISBN 978-1-78030-633-9
 } noimg          _Clint Langley               ?
 !--- GF - 12,9 cm x 19,8 cm - 301 pages - 12 euros
 - .oY.     R     _McDERMOTT Will              Cardinal Carmin [Kal Jerico - 2][Necromunda] þ2006 Cardinal Crimson þTrad. QUEMENER Mirabelle
+o BLF_NEC     ?  2021.01 ..... ISBN 978-1-78030-613-1
+} noimg          _Clint Langley               ?
+!--- GF - 129 x 198 - 304 pages
+- .oS.     R     _McDERMOTT Will              Noces … bout portant [Kal Jerico - 3][Necromunda] þ2007 Lasgun Wedding þTrad. QUEMENER Mirabelle
 

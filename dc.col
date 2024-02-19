@@ -5,7 +5,7 @@
 
 !-----------------------------------------------------------------------------
 _ DC      Destination Cr‚puscule
-_ DCBS    Destination Cr‚puscule, Coll. La BibliothŠque Solarienne
+_ DCBS    Destination Cr‚puscule - La BibliothŠque Solarienne
 !-----------------------------------------------------------------------------
 !--- Destination Cr‚puscule
 !-----------------------------------------------------------------------------
@@ -50,7 +50,7 @@ o DC          ?  1997.xx ..... ISBN -
 - .o .     R     _PETOUD Wildy                Tigre au ralenti ş1997
 
 !-----------------------------------------------------------------------------
-_ DCA     Destination Cr‚puscule, Anthologies
+_ DCA     Destination Cr‚puscule - Anthologies
 !-----------------------------------------------------------------------------
 !--- Destination Cr‚puscule
 !--- Anthologies (1994 - 1996)
@@ -68,7 +68,7 @@ o DCA         1  1994.xx ..... ISBN -
 : .o .     N     _LELOUP Fabienne             Mandrimage ş1994
 : .o .     N     _LEMOSQUET Marc              Le Renard, l'‚tudiant chauve et le bobby ş?
 : .o .     N     _NGUYEN Jean-Jacques         Temps mort, morte saison ş1995
-: .o .     N     _PAGEL Michel                Ce n'‚tait qu'un rˆve... ş1994
+: .o .     N     _PAGEL Michel                Ce n'‚tait qu'un rˆve... [La Com‚die inhumaine] ş1994
 : .o .     N     _PAPOZ Micky                 Zombies d'ailleurs ş1994
 : .o .     N     _PASTOR Philippe             Lonelyheart ş1983
 : .o .     N     _RUAUD Andr‚-Fran‡ois        Imago ş1994
@@ -92,6 +92,8 @@ o DCA         2  1995.xx ..... ISBN -
 : .o .     N     _THIBERGE Guillaume          FiŠvre ş1995
 o DCA         3  1996.03 ..... ISBN -
 } destcrep05     _Patrick Larme               ?
+!--- TBD comment reproduire le titre du texte de j‚r‚my Sauvage ? \*\ş\*\_\_\î
+!---   Faisable en UTF-8 ou 16 ? ou scan du titre ?
 - .oF.    kA12   *DUMAY Gilles                Destination cr‚puscule - 3 ş1996
 : .o .     N     _NGUYEN Jean-Jacques         L'Homme singulier ş1996
 : .o .     N     _THIBERGE Guillaume          Vergessen sie nicht des Fhrer ş1996
@@ -101,9 +103,7 @@ o DCA         3  1996.03 ..... ISBN -
 : .o .     N     _RAVEAU Patrick              Jeu de lumiŠre ş1996
 : .o .     N     _DEMMA Fred                  Tangente ş1996
 : .oS.     N     _DI ROLLO Thierry            L'trange ş1996
-?: .o .     N     _SAUVAGE J‚r‚mi              (Le titre est constitu‚ d'une suite de caratŠres non-ascii) ş1996
-!--- *ş*__î  TBD: … faire avec des polices windows ?
-!---           ou signes speciaux HTML ? ou scan du titre ?
+: .o .     N     _SAUVAGE J‚r‚mi              (Le titre est constitu‚ d'une suite de caratŠres non-ascii) ş1996
 : .o .     N     _DENIS Sylvie               &Voil… les hommes ! ş1996
 &                _RAMSEY Kevin H.             
 : .o .     N     _RUAUD Andr‚-Fran‡ois        Vent du sud ş1996

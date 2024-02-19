@@ -7,7 +7,7 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ MALP_AB Ed. Malpertuis, Coll. Absinthes, ‚thers, opiums
+_ MALP_AB Malpertuis - Absinthes, ‚thers, opiums
 !--- Directeur : Christophe Thill
 !-----------------------------------------------------------------------------
 o MALP_AB     1i 2007.07 ..... ISBN 978-2-917035-00-9
@@ -17,6 +17,11 @@ o MALP_AB     1i 2007.07 ..... ISBN 978-2-917035-00-9
 - .oF.    kN10   _CHAMBERS Robert W.          Le Roi en jaune þ1895 The King in Yellow þTrad. THILL Christophe
 !--- Pr‚face
 !--- Biographie de l'auteur
+!---  puis suivi de :
+!--- Critiques d'‚poque
+!--- Etudes sur les origines du livre
+!--- Bibliographie
+: .oF.     N     _THILL Christophe            Pr‚face þ2007
 : .oF.     N     _CHAMBERS Robert W.          Le Restaurateur de r‚putation þ1895 The Repairer of Reputations þTrad. THILL Christophe
 : .oF.     N     _CHAMBERS Robert W.          Le Masque þ1895 The Mask þTrad. THILL Christophe
 : .oF.     N     _CHAMBERS Robert W.          Le Signe jaune þ1895 The Yellow Sign þTrad. THILL Christophe
@@ -27,9 +32,6 @@ o MALP_AB     1i 2007.07 ..... ISBN 978-2-917035-00-9
 : .oF.     N     _CHAMBERS Robert W.          La Rue du premier obus þ1895 The Street of the First Shell þTrad. THILL Christophe
 : .oF.     N     _CHAMBERS Robert W.          La Rue Notre-Dame des Champs þ1895 The Street of Our Lady of the Fields þTrad. THILL Christophe
 : .oF.     N     _CHAMBERS Robert W.          Rue barr‚e þ1895 Rue Barr‚e þTrad. THILL Christophe
-!--- Critiques d'‚poque
-!--- Etudes sur les origines du livre
-!--- Bibliographie
 o MALP_AB     7  2009.05 ..... ISBN 978-2-917035-08-5
 } malpertuis07   _?                           ?
 - .oF.    _r2    _TARVEL Brice                Les Dossiers secrets de Harry Dickson - Tome 1 [Harry Dickson] þ2009
@@ -237,10 +239,17 @@ o MALP_AB    52  2019.11 ..... ISBN 978-2-917035-72-6
 - .oF.     N2    _TARVEL Brice                Les Dossiers secrets de Harry Dickson - Tome 5 [Harry Dickson] þ2019
 : .oF.     N     _TARVEL Brice                La Forˆt des dieux [Harry Dickson] þ2019
 : .oF.     N     _TARVEL Brice                Les Voleurs d'ombres [Harry Dickson] þ2019
+o MALP_AB    61  2022.03 ..... ISBN 978-2-917035-90-0
+} malpertuis61   _Christophe AlvŠs            ?
+!--- 15,6 x 23,4 cm - 134 pages - 12 euros
+- .oF.    kN2    _TARVEL Brice                Les Dossiers secrets de Harry Dickson - Tome 6 [Harry Dickson] þ2022
+: .o .     N     _TARVEL Brice                La BibliothŠque des t‚nŠbres [Harry Dickson] þ2022
+: .o .     N     _TARVEL Brice                L'Amicale des contagieux [Harry Dickson] þ2022
+
 
 
 !-----------------------------------------------------------------------------
-_ MALP_LO Ed. Malpertuis, Coll. Lovecraftiana
+_ MALP_LO Malpertuis - Lovecraftiana
 !--- Directeur : Christophe Thill
 !-----------------------------------------------------------------------------
 o MALP_LO     1i 2007.09 ..... ISBN 978-2-917035-02-3
@@ -249,7 +258,7 @@ o MALP_LO     1i 2007.09 ..... ISBN 978-2-917035-02-3
 } malpertuis03rr09 _?                           ?
 - .oFS     A22   *THILL Christophe            HPL 2007 þ2007
 : .o .     p     _THILL Christophe            Pr‚face þ2007
-: .o .     N     _LI-CAM                      Maudite providence þ2007
+: .o .     N     _LI-CAM                      Maudite providence þ2005
 : .o .     N     _REY Timoth‚e                La Providence du reclus þ2007
 : .o .     N     _LIGNER Meddy                Manuscrit trouv‚ dans une malle d'Estr‚madure þ2007
 : .o .     N     _POUTHE Eric                 Horreur au Ward Institute þ2007
@@ -259,7 +268,7 @@ o MALP_LO     1i 2007.09 ..... ISBN 978-2-917035-02-3
 : .o .     N     _LAMAZERE Vanessa            La Goulue þ2007
 : .o .     N     _JOFFRAIN Adam               Le Puits þ2007
 : .o .     N     _MOREL Ghislain              De feu et d'acier þ2007
-: .o .     N     _FERRIC Franck               Les Pas du golem þ2007
+: .o .     N     _FERRIC Franck               Les Pas du golem þ2006
 : .o .     N     _CALVEZ Jean-Michel          Liquid moon þ2007
 : .o .     N     _NIELSEN Marija              Re-animator revisited þ2007
 : .o .     N     _TOMASSINI S‚bastien         L'Invasion þ2007
@@ -274,7 +283,7 @@ o MALP_LO     1i 2007.09 ..... ISBN 978-2-917035-02-3
 : .o .     N     _BOUTON Bertrand             Le Dernier Jour du monde þ2007
 
 !-----------------------------------------------------------------------------
-_ MALP_BR Ed. Malpertuis, Coll. Brouillards
+_ MALP_BR Malpertuis - Brouillards
 !--- Directeur : Thomas Bauduret
 !-----------------------------------------------------------------------------
 !------------------------
@@ -599,7 +608,8 @@ o MALP_BR    28  2014.04 ..... ISBN 978-2-917035-32-0
 - .oF.     R     _DAUDIN-CLAVAUD Paul         Le SeiziŠme Anneau du serpent þ2014
 o MALP_BR    29  2014.05 ..... ISBN 978-2-917035-33-7
 } malpertuis29   _Nemo Sandman                ?
-- .oF.    kA25   *BAUDURET Thomas             Malpertuis - V þ2014
+!--- D'aprŠs Georges Murand, la nouvelle "La Pr‚dation des lumiŠres", qui pr‚cŠde "Les LavandiŠres..." n'est pas de lui, serait de Fran‡ois Fierobe
+- .oF.     A25   *BAUDURET Thomas             Malpertuis - V þ2014
 : .o .     N     _CALVEZ Jean-Michel          Le Test þ2014
 : .o .     N     _COUDIERE B‚n‚dicte          Cr‚ation þ2014
 : .o .     N     _PINGAULT V‚ronique          Emoi dans le beffroi þ2014
@@ -609,7 +619,6 @@ o MALP_BR    29  2014.05 ..... ISBN 978-2-917035-33-7
 : .o .     N     _COULON David                L'Amante þ2014
 : .o .     N     _SCIPION Johan               Oedipe superstar þ2014
 : .o .     N     _ROUVELOUX Anne-Sophie       Boudin zombie þ2014
-: .o .     N     _MUGAND Georges              La Pr‚dation des lumiŠres þ2014
 : .o .     N     _CONSEIL Julie               Les LavandiŠres de la nuit þ2014
 : .o .     N     _CAUSSARIEU Morgane          Rasta Boy þ2014
 : .o .     N     _NOKOMISM                    L'Arbre aux lucioles þ2014
@@ -877,13 +886,13 @@ o MALP_BR    54  2020.06 ..... ISBN 978-2-917035-76-4
 !--- GF - 15,6 x 23,4 cm - 202 pages - 14.90 euros
 - .oF.     N20   _MALOSSE Pascal              Soleil trompeur þ2020
 : .oF.     N     _MALOSSE Pascal              Le Chantier þ2020
-: .oF.     N     _MALOSSE Pascal              L'Œle morte þ2020
+: .oF.     N     _MALOSSE Pascal              L'Œle morte þ2019
 : .oF.     N     _MALOSSE Pascal              La Fuite þ2015
 : .oF.     N     _MALOSSE Pascal              L'AbŒme þ2020
 : .oF.     N     _MALOSSE Pascal              L'Assembl‚e þ2019
 : .oF.     N     _MALOSSE Pascal              Souvenir d'enfance þ2020
-: .oF.     N     _MALOSSE Pascal              Erreur de classe þ2020
-: .oF.     N     _MALOSSE Pascal              Les Fantoches þ2020
+: .oF.     N     _MALOSSE Pascal              Erreur de classe þ2018
+: .oF.     N     _MALOSSE Pascal              Les Fantoches þ2018
 : .oF.     N     _MALOSSE Pascal              Jusqu'… la source þ2020
 : .oF.     N     _MALOSSE Pascal              La Folie d'H‚raclŠs þ2020
 : .oF.     N     _MALOSSE Pascal              La Cath‚drale þ2020
@@ -943,31 +952,65 @@ o MALP_BR    58  2020.09 ..... ISBN 978-2-917035-84-9
 o MALP_BR    56  2020.10 ..... ISBN 978-2-917035-80-1
 } malpertuis56   _Cindy Can‚vet               ?
 !--- 15,6 x 23,4 cm - 288 pages - 16 euros
-- .oF.    iA26   *BAUDURET Thomas             Malpertuis - XI þ2020
+- .oF.    iAx    *BAUDURET Thomas             Malpertuis - XI þ2020
 : .o .     N     _SERRANO Elodie              Biscotte þ2020
 : .o .     N     _LEMURI Dominique            La Crocheteuse þ2020
 : .o .     N     _BLINEAU Caroline            Jamais plus þ2020
+: .o .     N     _UNBEKANNT Artikel           Xebru þ2020
+: .o .     N     _CARAU Cyril                 Fast and thief þ2020
+: .? .     N     _MAYOLLE Swann               La R‚colte des flammes þ2020
+: .oF.     N     _HENNINGER Bernard           Labyrinthe de craie þ2018
 o MALP_BR    59  2020.12 ..... ISBN 978-2-917035-86-3
 } malpertuis59   _Philippe Jozelon            ?
 !--- GF - 156 x 234 mm - 220 pages - 14,90 euros
-- .oF.    iN17   _LATOUR Marie                Des rives enfantines þ2020
+- .oF.     N24   _LATOUR Marie                Des rives enfantines þ2020
+: .o .     N     _LATOUR Marie                La Maison de papier þ2017
 : .o .     N     _LATOUR Marie                Le Chat de Schr”dinger þ2015
 : .o .     N     _LATOUR Marie                Au nom de la mŠre þ2015
 : .o .     N     _LATOUR Marie                Echec et mat þ2020
 : .o .     N     _LATOUR Marie                Grand-pŠre þ2016
 : .o .     N     _LATOUR Marie                A‹da þ2016
-: .o .     N     _LATOUR Marie                La Maison de papier þ2017
+: .o .     N     _LATOUR Marie                Les 1001 fant“mes d'H‚line þ2020
 : .o .     N     _LATOUR Marie                Harlem Ghetto þ2020
-: .o .     N     _LATOUR Marie                L'Absence þ2018
 : .o .     N     _LATOUR Marie                Tuer la mŠre þ2018
 : .o .     N     _LATOUR Marie                (R‚)unis þ2018
 : .o .     N     _LATOUR Marie                Berlin rouge þ2020
-! .o .     N     _LATOUR Marie                ? þ2020
 : .o .     N     _LATOUR Marie                L'Ombre furieuse þ2020
 : .o .     N     _LATOUR Marie                Domus Corpus þ2020
-: .o .     N     _LATOUR Marie                Humain, trop humain þ2020
+: .o .     N     _LATOUR Marie                Humain, trop animal þ2020
 : .o .     N     _LATOUR Marie                Nostalgie þ2020
 : .o .     N     _LATOUR Marie                Mea Culpa þ2016
-
+: .o .     N     _LATOUR Marie                Jusqu'… la mort þ2019
+: .o .     N     _LATOUR Marie                L'Enfant þ2020
+: .o .     N     _LATOUR Marie                Le Sergent Bouchard þ2020
+: .o .     N     _LATOUR Marie                Grand-MŠre þ2020
+: .o .     N     _LATOUR Marie                Le Chiguane þ2020
+: .o .     N     _LATOUR Marie                L'Absence þ2018
+: .o .     N     _LATOUR Marie                Les Heures d'Elyranthe þ2020
+: .o .     N     _LATOUR Marie                Les Escarpins rouges dor‚s þ2020
+o MALP_BR    60  2021.10 ..... ISBN 978-2-917035-88-7
+} malpertuis102021_1 _Philippe Jozelon            ?
+!--- 15,6 x 23,4 cm - 290 pages - 16 euros
+- .oF.    iAx    *BAUDURET Thomas             Malpertuis - XII þ2021
+: .o .     N     _UNBEKANNT Artikel           La Maison-MŠre þ2021
+: .o .     N     _FAUQUEMBERGUE Thierry       Gestation þ2021
+o MALP_BR    62  2022.05 ..... ISBN 978-2-917035-92-4
+} malpertuis62   _Alexis Susani               ?
+!--- 15,6 x 23,4 cm - 192 pages - 14,90 euros
+- .oF.    iNx    _MALOSSE Pascal              Sous nos latitudes sombres þ2022
+: .oF.     N     _MALOSSE Pascal              Une pluie sans fin þ2022
+: .oF.     N     _MALOSSE Pascal              La RiviŠre vout‚e þ2022
+: .oF.     N     _MALOSSE Pascal              Le Niveau de la mer þ2022
+: .oF.     N     _MALOSSE Pascal              La Travers‚e þ2022
+: .oF.     N     _MALOSSE Pascal              La Fonctionnaire þ2022
+: .oF.     N     _MALOSSE Pascal              Le Puits des ƒmes þ2022
+: .oF.     N     _MALOSSE Pascal              Tiergarten þ2022
+: .oF.     N     _MALOSSE Pascal              Le Moulin charnel þ2022
+: .oF.     N     _MALOSSE Pascal              L'Arbre du roi þ2022
+o MALP_BR    63  2022.09 ..... ISBN 978-2-917035-94-8
+} noimg          _Cassandre de Delphes        ?
+!--- 15,6 x 23,4 cm - 302 pages - 16 euros
+- .oF.    iAx    *BAUDURET Thomas             Malpertuis - XIII þ2022
+: .o .     N     _BRULHET Pierre              La Lutte finale þ2022
 
 

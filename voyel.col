@@ -1,14 +1,18 @@
 !-----------------------------------------------------------------------------
 _ VOYEL   Voy'[el]
-_ VOYELCO Voy'[el], Collector
-_ VOYELAT Voy'[el], Atom
-_ VOYEL_Y Voy'[el], Y
+_ VOYELCO Voy'[el] - Collector
+_ VOYELAT Voy'[el] - Atom
+_ VOYEL_Y Voy'[el] - Y
 !-----------------------------------------------------------------------------
 !--- Voy'el - http://www.editions-voyel.fr
 !-----------------------------------------------------------------------------
+
 o VOYEL       ?  2007.09 ..... ISBN 978-2-916307-00-8
 } voyel01        _?                           ?
 - .oS.     R     _GUITTEAUD Corinne           Les Chevaliers Trinitaires [La Trilogie atlante] ş2007
+!------------------------
+!=== 2009
+!------------------------
 o VOYEL       ?  2009.03 ..... ISBN 978-2-916307-03-9
 } voyel02        _?                           ?
 - .oF.     R     _GUITTEAUD Corinne           Le Cr‚puscule des anges ş2009
@@ -18,7 +22,7 @@ o VOYEL       ?  2009.xx ..... ISBN 978-2-916307-04-6
 o VOYEL       ?  2009.06 ..... ISBN 978-2-916307-01-5
 } voyel04        _?                           ?
 - .oY.     R     _GUITTEAUD Corinne           La Fille de Dre‹a [Les Portes du temps - 1] ş1998-2009
-o VOYEL       ?  2009.06 ..... ISBN 978-2-916307-05-3
+o VOYEL       ?  2009.05 ..... ISBN 978-2-916307-05-3
 } voyel05        _?                           ?
 - .oS.    _N5    _GUITTEAUD Corinne           La Vague ş2009
 : .oS.     N     _GUITTEAUD Corinne           La Vague ş2009
@@ -29,6 +33,9 @@ o VOYEL       ?  2009.06 ..... ISBN 978-2-916307-05-3
 o VOYEL       ?  2009.08 ..... ISBN 978-2-916307-06-0
 } voyel06        _?                           ?
 - .oS.     R     _WENTA Isabelle              Le Destin des Eaglestone [La Saga d'Orion - 1] ş1990
+!------------------------
+!=== 2010
+!------------------------
 o VOYEL       ?  2010.01 ..... ISBN 978-2-916307-16-9
 } voyel07        _niobe                       ?
 - .oS.    kA8    *GUITTEAUD Corinne           Le Monde selon Eve ş2010
@@ -42,7 +49,7 @@ o VOYEL       ?  2010.01 ..... ISBN 978-2-916307-16-9
 : .o .     N     _WEISS Bernard               Charmants enfants ş2010
 o VOYEL       ?  2010.03 ..... ISBN 978-2-916307-17-6
 } voyel08        _?                           ?
-- .oS.     R     _GUITTEAUD Corinne           Les Fils du Soleil [La Trilogie atlante - 2] ş2000
+- .oS.     R     _GUITTEAUD Corinne           Les Fils du Soleil [La Trilogie atlante - 2] ş2001
 o VOYEL       ?  2010.05 ..... ISBN 978-2-916307-18-3
 } noimg          _Magali Villeneuve           ?
 - .oY.     R     _DUQUENNE C‚cile             Entrechats ş2010
@@ -93,55 +100,60 @@ o VOYEL       ?  2010.11 ..... ISBN 978-2-916307-47-3
 ?: .oS.     N     _REY Timoth‚e                Offerte aux mille traits de sa passion torride ş2010
 : .oS.     N     _GECHTER Olivier             Le Jugement ş2010
 : .oS.     N     _GEHA Thomas                 Bris ş2010
+!------------------------
+!=== 2011
+!------------------------
 o VOYELCO     ?  2011.02 ..... ISBN 978-2-916307-48-0
-!--- Editions avec une nouvelle suppl‚mentaire, couverture rigide
 } voyel15        _SIMONI C‚line               ?
-- .oSY    iN22   _BOULANGER Anthony           Ecosyst‚matique de fin du monde ş2011
-: .oSY     N     _BOULANGER Anthony           La Porte de la Bleue ş2011
-: .oSY     N     _BOULANGER Anthony           La DerniŠre F‚e et la mort ş2011
-: .oSY     N     _BOULANGER Anthony           Les Sentes noires ş2011
-: .oSY     N     _BOULANGER Anthony           Ragnarok ş2011
-: .oSY     N     _BOULANGER Anthony           Oxyde de magie ş2011
-: .oSY     N     _BOULANGER Anthony           Noire ş2011
-: .oSY     N     _BOULANGER Anthony           Alpha om‚ga alpha ş2011
-: .oSY     N     _BOULANGER Anthony           Le RŠgne des glaces ş2011
-: .oSY     N     _BOULANGER Anthony           Smog ş2011
-: .oSY     N     _BOULANGER Anthony           (Re)naissance ş2011
-: .oSY     N     _BOULANGER Anthony           Une journ‚e et une nuit en providence ş2011
-: .oSY     N     _BOULANGER Anthony           Dans sa demeure de R'lyeh la morte... ş2011
-: .oSY     N     _BOULANGER Anthony           Les Suivants ş2011
-: .oSY     N     _BOULANGER Anthony           Reborn ş2011
-: .oSY     N     _BOULANGER Anthony           Elec et mat ş2011
-: .oSY     N     _BOULANGER Anthony           La Cr‚ature qui fit de Mars la planŠte rouge ş2011
-: .oSY     N     _BOULANGER Anthony           Wasteworld ş2011
-: .oSY     N     _BOULANGER Anthony           Le D‚litement de la Licorne ş2011
-: .oSY     N     _BOULANGER Anthony           Au final, tout disparaŒtra ş2011
-: .oSY     N     _BOULANGER Anthony           A‰sthol, ou le dernier des fils du n‚ant ş2011
-: .oSY     N     _BOULANGER Anthony           Les R‚volutions du Serpentaire ş2011
+!--- Editions avec une nouvelle suppl‚mentaire, couverture rigide
+!--- TBD quelle nouvelle en plus ?
+- .oS.    iNx    _BOULANGER Anthony           Ecosyst‚matique de fin du monde ş2011
+: .o .     N     _BOULANGER Anthony           La Porte de la Bleue ş2011
+: .o .     N     _BOULANGER Anthony           La DerniŠre F‚e et la mort ş2011
+: .o .     N     _BOULANGER Anthony           Les Sentes noires ş2011
+: .o .     N     _BOULANGER Anthony           Ragnarok ş2011
+: .o .     N     _BOULANGER Anthony           Oxyde de magie ş2011
+: .o .     N     _BOULANGER Anthony           Noire ş2011
+: .o .     N     _BOULANGER Anthony           Alpha om‚ga alpha ş2011
+: .o .     N     _BOULANGER Anthony           Le RŠgne des glaces ş2011
+: .o .     N     _BOULANGER Anthony           Smog ş2011
+: .o .     N     _BOULANGER Anthony           (Re)naissance ş2011
+: .o .     N     _BOULANGER Anthony           Une journ‚e et une nuit en providence ş2011
+: .o .     N     _BOULANGER Anthony           Dans sa demeure de R'lyeh la morte... ş2011
+: .o .     N     _BOULANGER Anthony           Les Suivants ş2011
+: .o .     N     _BOULANGER Anthony           Reborn ş2011
+: .o .     N     _BOULANGER Anthony           Elec et mat ş2011
+: .o .     N     _BOULANGER Anthony           La Cr‚ature qui fit de Mars la planŠte rouge ş2011
+: .o .     N     _BOULANGER Anthony           Wasteworld ş2011
+: .o .     N     _BOULANGER Anthony           Le D‚litement de la Licorne ş2011
+: .o .     N     _BOULANGER Anthony           Au final, tout disparaŒtra ş2011
+: .o .     N     _BOULANGER Anthony           A‰sthol, ou le dernier des fils du n‚ant ş2011
+: .o .     N     _BOULANGER Anthony           Les R‚volutions du Serpentaire ş2011
 o VOYEL       ?  2011.02 ..... ISBN 978-2-916307-52-7
 } voyel15        _SIMONI C‚line               ?
-- .oSY    kN21   _BOULANGER Anthony           Ecosyst‚matique de fin du monde ş2011
-: .oSY     N     _BOULANGER Anthony           La Porte de la Bleue ş2011
-: .oSY     N     _BOULANGER Anthony           La DerniŠre F‚e et la mort ş2011
-: .oSY     N     _BOULANGER Anthony           Les Sentes noires ş2011
-: .oSY     N     _BOULANGER Anthony           Ragnarok ş2011
-: .oSY     N     _BOULANGER Anthony           Oxyde de magie ş2011
-: .oSY     N     _BOULANGER Anthony           Noire ş2011
-: .oSY     N     _BOULANGER Anthony           Alpha om‚ga alpha ş2011
-: .oSY     N     _BOULANGER Anthony           Le RŠgne des glaces ş2011
-: .oSY     N     _BOULANGER Anthony           Smog ş2011
-: .oSY     N     _BOULANGER Anthony           (Re)naissance ş2011
-: .oSY     N     _BOULANGER Anthony           Une journ‚e et une nuit en providence ş2011
-: .oSY     N     _BOULANGER Anthony           Dans sa demeure de R'lyeh la morte... ş2011
-: .oSY     N     _BOULANGER Anthony           Les Suivants ş2011
-: .oSY     N     _BOULANGER Anthony           Reborn ş2011
-: .oSY     N     _BOULANGER Anthony           Elec et mat ş2011
-: .oSY     N     _BOULANGER Anthony           La Cr‚ature qui fit de Mars la planŠte rouge ş2011
-: .oSY     N     _BOULANGER Anthony           Wasteworld ş2011
-: .oSY     N     _BOULANGER Anthony           Le D‚litement de la Licorne ş2011
-: .oSY     N     _BOULANGER Anthony           Au final, tout disparaŒtra ş2011
-: .oSY     N     _BOULANGER Anthony           A‰sthol, ou le dernier des fils du n‚ant ş2011
-: .oSY     N     _BOULANGER Anthony           Les R‚volutions du Serpentaire ş2011
+!--- MF - 130 x 200 - 234 pages
+- .oS.    kN21   _BOULANGER Anthony           Ecosyst‚matique de fin du monde ş2011
+: .o .     N     _BOULANGER Anthony           La Porte de la Bleue ş2011
+: .o .     N     _BOULANGER Anthony           La DerniŠre F‚e et la mort ş2011
+: .o .     N     _BOULANGER Anthony           Les Sentes noires ş2011
+: .o .     N     _BOULANGER Anthony           Ragnarok ş2011
+: .o .     N     _BOULANGER Anthony           Oxyde de magie ş2011
+: .o .     N     _BOULANGER Anthony           Noire ş2011
+: .o .     N     _BOULANGER Anthony           Alpha om‚ga alpha ş2011
+: .o .     N     _BOULANGER Anthony           Le RŠgne des glaces ş2011
+: .o .     N     _BOULANGER Anthony           Smog ş2011
+: .o .     N     _BOULANGER Anthony           (Re)naissance ş2011
+: .o .     N     _BOULANGER Anthony           Une journ‚e et une nuit en providence ş2011
+: .o .     N     _BOULANGER Anthony           Dans sa demeure de R'lyeh la morte... ş2011
+: .o .     N     _BOULANGER Anthony           Les Suivants ş2011
+: .o .     N     _BOULANGER Anthony           Reborn ş2011
+: .o .     N     _BOULANGER Anthony           Elec et mat ş2011
+: .o .     N     _BOULANGER Anthony           La Cr‚ature qui fit de Mars la planŠte rouge ş2011
+: .o .     N     _BOULANGER Anthony           Wasteworld ş2011
+: .o .     N     _BOULANGER Anthony           Le D‚litement de la Licorne ş2011
+: .o .     N     _BOULANGER Anthony           Au final, tout disparaŒtra ş2011
+: .o .     N     _BOULANGER Anthony           A‰sthol, ou le dernier des fils du n‚ant ş2011
+: .o .     N     _BOULANGER Anthony           Les R‚volutions du Serpentaire ş2011
 o VOYEL       ?  2011.02 ..... ISBN 978-2-916307-53-4
 } noimg          _?                           ?
 + VOYEL       ?  2015.08 ..... ISBN 978-2-36475-290-0
@@ -178,6 +190,9 @@ o VOYEL       ?  2011.11 ..... ISBN 978-2-916307-95-4
 } noimg          _Genkis                      ?
 !-- En collection Collector : 978-2-916307-99-2
 - .oY.     R     _CHAUMETTE Jean-Christophe   Les Guerriers de l'enfer [Le NeuviŠme Cercle - 10] ş2011
+!------------------------
+!=== 2012
+!------------------------
 o VOYEL       ?  2012.01 ..... ISBN 978-2-916307-98-5
 } voyelrobots    _SIMONI C‚line               ?
 - .oS.    kA10   *GUITTEAUD Corinne           Les Robots sont-ils vraiment nos amis ? ş2012
@@ -222,7 +237,7 @@ o VOYEL       ?  2012.08 ..... ISBN 978-2-36475-143-9
 : .oS.     N     _GUITTEAUD Corinne           Les Brouteurs ş2012
 : .oS.     N     _GUITTEAUD Corinne           Traqu‚es ş2012
 : .oS.     N     _GUITTEAUD Corinne           Les Suzerains ş2012
-: .oS.     N     _GUITTEAUD Corinne           Que doit-on croire ? ş2012
+: .oS.     N     _GUITTEAUD Corinne           Que doit-on croire ? ş2007
 : .oS.     N     _GUITTEAUD Corinne           La Faille ş2012
 : .oS.     N     _PINSON Julien               Une octave de r‚alit‚ ş2012
 o VOYEL       ?  2012.09 ..... ISBN 978-2-36475-084-5
@@ -242,8 +257,12 @@ o VOYEL       ?  2012.09 ..... ISBN 978-2-36475-084-5
 o VOYEL       ?  2012.11 ..... ISBN 978-2-36475-151-4
 } noimg          _?                           ?
 - .oS.     r     _BLAIZOT Lydie               N.I.X ş2012
+!------------------------
+!=== 2013
+!------------------------
 o VOYEL       ?  2013.02 ..... ISBN 978-2-36475-173-6
 } voyel35        _?                           ?
+!--- "La route des p‚lerins" a ‚t‚ publi‚e en 2009 dans un webzine (Itin‚raires nø 4)
 - .oS.     N19   _GECHTER Olivier             La BoŒte de Schr”dinger ş2013
 : .o .     N     _GECHTER Olivier             Le Go–t de l'ambroisie ş2006
 : .oF.     N     _GECHTER Olivier             Les Chiens de Jean-Pierre ş2003
@@ -252,7 +271,6 @@ o VOYEL       ?  2013.02 ..... ISBN 978-2-36475-173-6
 : .o .     N     _GECHTER Olivier             Randonn‚e en solitaire ş2013
 : .oS.     N     _GECHTER Olivier             La Grande Marche ş2002
 : .oS.     N     _GECHTER Olivier             La Route des pŠlerins ş2013
-!--- mais en 2009 dans un webzine (Itin‚raires nø 4)
 : .o .     N     _GECHTER Olivier             Le "la" naturel ş2004
 : .o .     N     _GECHTER Olivier             Et la face du monde changea ş2013
 : .oS.     N     _GECHTER Olivier             Mot de passe incorrect ş2004
@@ -260,7 +278,7 @@ o VOYEL       ?  2013.02 ..... ISBN 978-2-36475-173-6
 : .oS.     N     _GECHTER Olivier             Le pouvoir absolu n'est plus ce qu'il ‚tait ş2009
 : .oF.     N     _GECHTER Olivier             CinquiŠme ‚tage, porte gauche ş2005
 : .oS.     N     _GECHTER Olivier             La Boucle de Zurvan ş2008
-: .oS.     N     _GECHTER Olivier             Un beau ciel bleu ş2008
+: .oS.     N     _GECHTER Olivier             Un beau ciel bleu ş2004
 : .oS.     N     _GECHTER Olivier             Pilotage automatique ş2010
 : .oTJ     N     _GECHTER Olivier             L'Envoy‚ ş2009
 : .o .     N     _GECHTER Olivier             Le Prix … payer (deuxiŠme version) ş2003-2013
@@ -274,6 +292,9 @@ o VOYEL       ?  2013.xx ..... ISBN 978-2-36475-183-5
 o VOYEL       ?  2013.10 ..... ISBN 978-2-36475-207-8
 } noimg          _?                           ?
 - .oF.     r     _DUQUENNE C‚cile             L'trange Cas du docteur Ravna et de monsieur Gray [Les N‚crophiles anonymes - 2] ş2013
+!------------------------
+!=== 2014
+!------------------------
 o VOYEL       ?  2014.01 ..... ISBN 978-2-36475-210-8
 } noimg          _?                           ?
 - .o .     R     _WILLIAM Cendrine N.         Rˆves fatals [Mark Storm - 4] ş2014
@@ -290,6 +311,9 @@ o VOYEL       ?  2014.11 ..... ISBN 978-2-36475-267-2
 } noimg          _?                           ?
 !--- Editions int‚grale du feuilleton paru en num‚rique
 - .oF.     R     _GUITTEAUD Corinne           N‚cromanciennes ş2014
+!------------------------
+!=== 2015
+!------------------------
 o VOYEL       ?  2015.xx ..... ISBN 978-2-36475-273-3
 } noimg          _EL THEO                     ?
 !--- Editions int‚grale du feuilleton paru en num‚rique
@@ -306,20 +330,20 @@ o VOYEL       ?  2015.02 ..... ISBN 978-2-36475-285-6
 &                *DUQUENNE C‚cile             
 : .oI.     p     _BORA Aodez S.              &Pr‚face ş2015
 &                _DUQUENNE C‚cile             
-!--- Les Œles du Levant
+: .C .     C     ****                         Les Œles du Levant
 : .o .     N     _BOULANGER Anthony           Hiderigami et le Tanuki ş2015
-: .o .     N     _MACHOROWSKI Marthe          Fin de cycle ş2015
+: .o .     N     _MACHOROWSKI Marthe          Fin de cycle ş2013
 : .o .     N     _GARISAKI Tesha              Les Treize Orphelins ş2015
 : .o .     N     _BOULANGER Anthony           Feu lib‚r‚, feu honni ş2015
 : .o .     N     _KESSENS Lilia               Uso-tsuki ş2015
 : .o .     N     _PESCHET Lilian              Les Mondes superpos‚s ş2015
 : .o .     N     _DENIEL Philippe             Ryok“sha ş2015
-!--- Interlude sib‚rien
+: .C .     C     ****                         Interlude sib‚rien
 : .o .     N     _EVANS Alex                  La Trace du grand serpent ş2015
-!--- Sud de l'Himalaya
+: .C .     C     ****                         Sud de l'Himalaya
 : .o .     N     _GREYS Flora                 Les D‚fenseurs de Siddapur ş2015
 : .o .     N     _ETCHEBERRY C‚line           Le Cygne et l'Albatros ş2015
-!--- Aux bords des mers de Chine
+: .C .     C     ****                         Aux bords des mers de Chine
 : .o .     N     _CHATILLON-FAUCHEZ Julien    Bhusunda ş2015
 : .o .     N     _SILIS T‚o                   Danser avec le diable ş2015
 : .o .     N     _BOILE Olivier               Le Roi de la Mer Orientale et le Prince de Chine ş2015
@@ -334,21 +358,21 @@ o VOYELCO     ?  2015.xx ..... ISBN 978-2-36475-297-9
 &                *DUQUENNE C‚cile             
 : .oI.     p     _BORA Aodez S.              &Pr‚face ş2015
 &                _DUQUENNE C‚cile             
-!--- Les Œles du Levant
+: .C .     C     ****                         Les Œles du Levant
 : .o .     N     _BOULANGER Anthony           Hiderigami et le Tanuki ş2015
-: .o .     N     _MACHOROWSKI Marthe          Fin de cycle ş2015
+: .o .     N     _MACHOROWSKI Marthe          Fin de cycle ş2013
 : .o .     N     _GARISAKI Tesha              Les Treize Orphelins ş2015
 : .o .     N     _BOULANGER Anthony           Feu lib‚r‚, feu honni ş2015
 : .o .     N     _KESSENS Lilia               Uso-tsuki ş2015
 : .o .     N     _PESCHET Lilian              Les Mondes superpos‚s ş2015
 : .o .     N     _DENIEL Philippe             Ryok“sha ş2015
-!--- Interlude sib‚rien
+: .C .     C     ****                         Interlude sib‚rien
 : .o .     N     _EVANS Alex                  La Trace du grand serpent ş2015
-!--- Sud de l'Himalaya
+: .C .     C     ****                         Sud de l'Himalaya
 : .o .     N     _GREYS Flora                 Les D‚fenseurs de Siddapur ş2015
 : .o .     N     _ETCHEBERRY C‚line           Le Cygne et l'Albatros ş2015
 : .o .     N     _CHATILLON-FAUCHEZ Julien    Bhusunda ş2015
-!--- Aux bords des mers de Chine
+: .C .     C     ****                         Aux bords des mers de Chine
 : .o .     N     _SILIS T‚o                   Danser avec le diable ş2015
 : .o .     N     _BOILE Olivier               Le Roi de la Mer Orientale et le Prince de Chine ş2015
 : .o .     N     _LALLOT L‚o                  Serinette pour un Qilin ş2015
@@ -359,17 +383,17 @@ o VOYELCO     ?  2015.xx ..... ISBN 978-2-36475-297-9
 o VOYEL       ?  2015.05 ..... ISBN 978-2-36475-309-9
 } noimg          _?                           ?
 - .oI.     A10   *BORA Aodez S.               Sur les ailes de l'imaginaire ş2015
-: .oS.     N     _VAN WILDER Cindy            Au service des insectes ş2015
-: .oS.     N     _TERRAL Vanessa              Les Vagues de Clamatlice ş2015
-: .oS.     N     _TERRAL Vanessa              Saison de pluie sur Clamatlice ş2015
-: .oS.     N     _DUQUENNE C‚cile             Le Troimphe de l'imp‚ratrice ş2015
-: .oS.     N     _BOILE Olivier               L'Envol du cygne jaune ş2015
-: .oS.     N     _PINSON Julien               Une octave de r‚alit‚ ş2012
-: .oS.     N     _GARISAKI Tesha              La Chasse aux marqu‚s ş2015
-: .oS.     N     _MILORA                      Un sacr‚ coup de pouce ş2015
-: .oS.     N     _FLAUX C‚lia                 Lucy's Liberty ş2015
-: .oS.     N     _EVANS Alex                  Pour l'honneur des M‚rina ş2015
-: .oS.     r     _CHATILLON-FAUCHEZ Julien    R‚miges de cendre ş2015
+: .o .     N     _VAN WILDER Cindy            Au service des insectes ş2015
+: .o .     N     _TERRAL Vanessa              Les Vagues de Clamatlice ş2015
+: .o .     N     _TERRAL Vanessa              Saison de pluie sur Clamatlice ş2015
+: .o .     N     _DUQUENNE C‚cile             Le Troimphe de l'imp‚ratrice ş2015
+: .o .     N     _BOILE Olivier               L'Envol du cygne jaune ş2015
+: .o .     N     _PINSON Julien               Une octave de r‚alit‚ ş2012
+: .o .     N     _GARISAKI Tesha              La Chasse aux marqu‚s ş2015
+: .o .     N     _MILORA                      Un sacr‚ coup de pouce ş2015
+: .o .     N     _FLAUX C‚lia                 Lucy's Liberty ş2015
+: .o .     N     _EVANS Alex                  Pour l'honneur des M‚rina ş2015
+: .o .     r     _CHATILLON-FAUCHEZ Julien    R‚miges de cendre ş2015
 o VOYEL       ?  2015.09 ..... ISBN 978-2-36475-310-5
 } noimg          _?                           ?
 - .oS.     R     _FLAUX C‚lia                 Iceltane ş2015
@@ -388,6 +412,9 @@ o VOYEL       ?  2016.01 ..... ISBN 978-2-36475-328-0
 o VOYEL       ?  2015.12 ..... ISBN 978-2-36475-323-5
 } noimg          _?                           ?
 - .oF.     R     _GUITTEAUD Corinne           393 R‚sidence Avalon [Les Eg‚riades - 1] ş2015
+!------------------------
+!=== 2016
+!------------------------
 o VOYEL       ?  2016.07 ..... ISBN 978-2-36475-332-7
 } noimg          _ALQUIER Camille             ?
 - .oS.     R     _CHAULIAC Fabrice            Absyrialle ş2016
@@ -404,6 +431,9 @@ o VOYEL_Y     ?  2016.xx ..... ISBN 978-2-36475-363-1
 } noimg          _?                           ?
 !--- 240 pages
 - .oS.     R     _McBRIDE Belinda             Le Souverain perdu [King Helios - 1] ş2013 An Uncommon Whore şTrad. HYDE Jessica
+!------------------------
+!=== 2017
+!------------------------
 o VOYEL_Y     ?  2017.xx ..... ISBN 978-2-36475-393-8
 } noimg          _?                           ?
 !--- 310 pages
@@ -411,6 +441,9 @@ o VOYEL_Y     ?  2017.xx ..... ISBN 978-2-36475-393-8
 o VOYEL       ?  2017.12 ..... ISBN 978-2-36475-399-0
 } noimg          _?                           ?
 - .oF.     R     _FISCHER Sophie              Jack O'Lantern [Cauchemars (S. Fischer) - 1] ş2017
+!------------------------
+!=== 2018
+!------------------------
 o VOYEL       ?  2018.01 ..... ISBN 978-2-36475-396-9
 } voyel012018    _?                           ?
 - .oI.     A10   *GUITTEAUD Corinne           Sur les ailes de l'imaginaire - 2 ş2018
@@ -427,9 +460,9 @@ o VOYEL       ?  2018.01 ..... ISBN 978-2-36475-396-9
 : .o .     N     _VASSEUR Fr‚d‚ric            Effet de masse ş2018
 : .o .     N     _VERRY Patrice               Arch‚ogenŠse ş2018
 : .o .     N     _CARMIN Alix                 Viviane ş2018
-: .o .     N     _BASSETERRE Luce             Ceux qui sont rest‚s ş2018
+: .o .     N     _BASSETERRE Luce             Ceux qui sont rest‚s ş2015
 : .o .     N     _BORA Aodez S.               Ame de feu ş2018
-: .o .     N     _BOULANGER Anthony           La descente aux enfers d'Orph‚e et Eurydice ş2018
+: .o .     N     _BOULANGER Anthony           La Descente aux enfers d'Orph‚e et Eurydice ş2008
 o VOYEL       ?  2018.02 ..... ISBN 978-2-36475-414-0
 } noimg          _?                           ?
 !--- 300 pages
@@ -440,8 +473,16 @@ o VOYEL_Y     ?  2018.04 ..... ISBN 978-2-36475-419-6
 - .oS.     R     _DELANGHE Cyriane            Le Magicien furieux ş2018
 o VOYEL       ?  2018.03 ..... ISBN 978-2-36475-416-4
 } noimg          _Mathieu Coudray             ?
-!--- Nouvelle ‚dition enrichie - contient une nouvelle en plus - 124 pages
-- .oY.     R     _ROBILLARD Chantal           Zoo des chimŠres ş2013-2018
+!--- 124 pages - 10 euros
+!--- Nouvelle ‚dition enrichie - contient une nouvelle en plus, "Zoo d'‚chime [Commandant Merlin]"
+!--- Note:  [Commandant Merlin] pour Dimension Broc‚liande et Merlin et la f‚e des flashs (Nutty Sheep)
+! .o .     N     _ROBILLARD Chantal           Le coeur de Nino ş2013
+! .o .     N     _ROBILLARD Chantal           Le Blues de la belle boudeuse ş2013
+! .o .     N     _ROBILLARD Chantal           Le Maraudeur aux yeux jaunes ş2013
+! .o .     N     _ROBILLARD Chantal           Un Chant de d‚tresse ş2013
+! .o .     N     _ROBILLARD Chantal           L'Eve des bˆtes ş2013
+- .oF.    iC29   _ROBILLARD Chantal           Zoo des chimŠres ş2013-2018
+: .o .     N     _ROBILLARD Chantal           Zoo d'‚chime ş2018
 o VOYEL       ?  2018.07 ..... ISBN 978-2-36475-426-3
 } noimg          _?                           ?
 - .oF.     R     _DUQUENNE C‚cile             L'Œle aux d‚mons [Les N‚crophiles anonymes - 4] ş2016
@@ -449,7 +490,10 @@ o VOYEL       ?  2018.12 ..... ISBN 978-2-36475-434-8
 } noimg          _?                           ?
 !--- 152 x 229 cm - 312 pages - 19,00 euros
 - .oF.     R     _FISCHER Sophie              Dullahan [Cauchemars (S. Fischer) - 2] ş2018
-o VOYEL       ?  2019.10 ..... ISBN 978-2-36475-441-6
+!------------------------
+!=== 2019
+!------------------------
+o VOYEL       ?  2019.09 ..... ISBN 978-2-36475-441-6
 } noimg          _?                           ?
 !--- 152 x 229 cm - 174 pages - 15,00 euros
 - .oS.     N7    _VERRY Patrice               H‚ro‹nes pour demain et aprŠs ş2019
@@ -460,6 +504,80 @@ o VOYEL       ?  2019.10 ..... ISBN 978-2-36475-441-6
 : .o .     N     _VERRY Patrice               Sniper ş2019
 : .o .     N     _VERRY Patrice               Arch‚ogenŠse ş2018
 : .oS.     N     _VERRY Patrice               Une visite au Mont Saint-Michel ş2013
+!------------------------
+!=== 2020
+!------------------------
+o VOYEL       ?  2020.xx ..... ISBN 978-2-36475-447-8
+} voyel_af       _C‚line Simoni               ?
+!--- 150 x 230 cm - 310 pages - 18,00 euros
+- .oF.     A17   ****                         Arts & fantastique ş2020
+: .o .     p     _GUITTEAUD Corinne           Pr‚face ş2020
+: .o .     N     _SALLES Audrey               La mort n'a qu'un visage ş2020
+: .o .     N     _DI FOLCO Julia              Ceci n'est pas un tableau ş2020
+: .o .     N     _CHEVALLIER MOREUX Emilie    Golem ş2020
+: .o .     N     _NORDEN Sylwen               De l'autre c“t‚ de la nuit ş2020
+: .o .     N     _GOFFART H‚lŠne              Gasandji ş2020
+: .o .     N     _BARRIER Florence            Le Chant du cygne ş2020
+: .o .     N     _GENET Aur‚lie               La Dame sur un lit de satin ş2020
+: .o .     N     _TAMBURRINI Sandra           Le Jardin des statues ş2020
+: .o .     N     _MARTIN Jean-Pascal          Lune sur le Trieux ş2020
+: .o .     N     _LESIEUR Christophe          Fou … lier, fous alli‚s ş2020
+: .o .     N     _LYSOE Eric                  Fausses notes ş2020
+: .o .     N     _BOURDIN IrŠne               Op‚ra tragique ş2020
+: .o .     N     _LEMAIRE Pascal              Une mosa‹que d'avenirs ş2020
+: .o .     N     _PACI Florent                Tendregorge, L‚cheglotte et Croqueladent ş2020
+: .o .     N     _DEVIGNE Lilian              Le Fruit d‚fendu ş2020
+: .o .     N     _RIGER Emilie                Le Mur des Je t'aime ş2019
+: .o .     N     _SIDRE Pauline               Mademoiselle de Boisanteil et sa soeur ş2020
+o VOYEL       ?  2020.09 ..... ISBN 978-2-36475-452-2
+} noimg          _?                           ?
+!--- ? - 150x230 - 290 pages
+- .oS.     R     _VERRY Patrice               Les Artefacts [Ce qui grignotait le fond de l'univers - 1] ş2020
+o VOYEL       ?  2020.09 ..... ISBN 978-2-36475-450-8
+} noimg          _Sabrina Tobal               ?
+!--- GF - 270 pages
+- .oS.     R     _WILLIAM Cendrine N.         Les Territoires de la rose [L'Ombre de la rose noire - 1][Mark Storm] ş2020
+!------------------------
+!=== 2021
+!------------------------
+o VOYEL       ?  2021.06 ..... ISBN 978-2-36475-460-7
+} noimg          _?                           ?
+!--- GF - 150x230 - 232 pages
+- .oS.     R     _RECO Aude                   Green Horn & Co. [Ocre rouge - 1] ş2021
+o VOYEL       ?  2021.06 ..... ISBN 978-2-36475-458-4
+} noimg          _?                           ?
+!--- GF - 150x230 - 304 pages
+- .oS.     R     _GUITTEAUD Corinne           Veddam Prime : La Colonie perdue ş2021
+!------------------------
+!=== 2022
+!------------------------
+o VOYEL       ?  2022.01 ..... ISBN 978-2-36475-462-1
+} noimg          _Baptiste Perez              ?
+!--- GF - 150x230 - 214 pages - 17 euros
+- .oS.     R     _LOISEAU Catherine           Le Coeur des Liris ş2022
+o VOYEL       ?  2022.04 ..... ISBN 978-2-36475-470-6
+} noimg          _Niob‚                       ?
+!--- GF - 150x230 - 304 pages - 18 euros
+- .oF.     R     _GUITTEAUD Corinne           Silver Lake ş2022
+o VOYEL       ?  2022.05 ..... ISBN 978-2-36475-467-6
+} voyel052022_1   _C‚line Simoni               ?
+!--- GF - 150x230 - 140 pages - 14 euros
+- .oF.    kN3    _VERRY Patrice               Fant“mes, cr‚atures et territoires ‚tranges ş2022
+: .o .     N     _VERRY Patrice               Je suis morte au cap de la colŠre ş2022
+: .o .     N     _VERRY Patrice               Incompatibilit‚ ş2022
+: .o .     N     _VERRY Patrice               Quatre saisons en enfer ş2022
+o VOYEL       ?  2022.09 ..... ISBN 978-2-36475-472-0
+} noimg          _Fabrice Chauliac            ?
+!--- GF - 150x230 - 232 pages - 18 euros
+- .oF.     R     _CHAULIAC Fabrice            Apre-Roc ş2022
+o VOYEL       ?  2022.09 ..... ISBN 978-2-36475-474-4
+} noimg          _Lisa Pegaz-Blanc            ?
+!--- YA - GF - 150x230 - 278 pages - 18 euros
+- .oY.     R     _LABONNE Anouchka            Le Manoir Archenias [La DerniŠre Province - 1] ş2022
+o VOYEL       ?  2022.10 ..... ISBN 978-2-36475-465-2
+} noimg          _Sabrina Tobal               ?
+!--- GF - 150x230 - 242 pages - 21 euros
+- .oS.     R     _WILLIAM Cendrine N.         Les Ombres du pass‚ [L'Ombre de la rose noire - 2][Mark Storm] ş2022
 
 
 !-----------------------------------------------------------------------------

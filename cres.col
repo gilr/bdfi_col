@@ -1,9 +1,9 @@
 !-----------------------------------------------------------------------------
-_ CRES    Ed. G. Cräs & Cie
-_ CRES_AN Ed. G. Cräs & Cie, Coll. Anglia
-_ CRES_RA Ed. G. Cräs & Cie, Coll. littÇraire des romans d'aventures
-_ CRES_HP Ed. G. Cräs & Cie, Coll. Drames d'histoire et de police
-_ CRES_ML Ed. G. Cräs & Cie, Coll. Les Maåtres du livre
+_ CRES    G. Cräs & Cie
+_ CRES_AN G. Cräs & Cie - Anglia
+_ CRES_RA G. Cräs & Cie - littÇraire des romans d'aventures
+_ CRES_HP G. Cräs & Cie - Drames d'histoire et de police
+_ CRES_ML G. Cräs & Cie - Les Maåtres du livre
 !-----------------------------------------------------------------------------
 o CRES_ML   113  1924.05 ..... ISBN -
 } noimg          _?                           Maurice de Becque
@@ -48,7 +48,7 @@ o CRES        ?  1911.xx ..... ISBN -
 - .o .     R     _CYRIL-BERGER                La Merveilleuse Aventure ˛?
 o CRES        ?  1918.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _MACHEN Arthur               Le Grand Dieu Pan ˛1894 The Great God Pan
+- .o .     r     _MACHEN Arthur               Le Grand Dieu Pan ˛1894 The Great God Pan
 o CRES        ?  1919.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _CYRIL-BERGER                La Merveilleuse Aventure de Jim Stappelton ˛?
@@ -71,14 +71,22 @@ o CRES        ?  1920.xx ..... ISBN -
 : .oS.     N     _RENARD Maurice              L'Homme au corps subtil ˛1912
 : .oS.     N     _RENARD Maurice              Le Brouillard du 26 octobre ˛1912
 : .o .     N     _RENARD Maurice              La Gloire du Comacchio ˛1913
+o CRES_AN     ?  1920.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 494 pages - 19 cm
+- .o .     R     _HAGGARD H. Rider            Elle [She - 1] ˛1886 She ˛Trad. HILLEMACHER Jacques
+o CRES_RA     ?  1920.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _CAZAL Edmond                Joe Rollon, l'autre homme invisible ˛1919
 o CRES        ?  1921.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     R     _CHESTERTON Gilbert K.       La Sphäre et la Croix ˛1909 The Ball and the Cross ˛Trad. GROLLEAU Charles
 o CRES        ?  1921.xx ..... ISBN -
 } noimg          _?                           ?
+!--- Conte des oeufs dans le somaire
+!--- TBD si les deux sous-recueils (N18) Coeur double (1891) et (N16) La LÇgende des gueux (1891) sont identifiÇs
 - .oF.     N34   _SCHWOB Marcel               Coeur double ˛1891
 : .oF.     p     _SCHWOB Marcel               PrÇface ˛1891
-!---      kN18   _SCHWOB Marcel               Coeur double ˛1891
 : .oF.     N     _SCHWOB Marcel               Les Striges ˛1891
 : .oF.     N     _SCHWOB Marcel               Le Sabot ˛1891
 : .o .     N     _SCHWOB Marcel               Les Trois Gabelous ˛1891
@@ -96,9 +104,7 @@ o CRES        ?  1921.xx ..... ISBN -
 : .o .     N     _SCHWOB Marcel               Sur les dents ˛1891
 : .o .     N     _SCHWOB Marcel               L'Homme gras ˛1891
 : .o .     N     _SCHWOB Marcel               Le Conte des oeufs ˛1891
-!--- Conte des oeufs dans le somaire
 : .o .     N     _SCHWOB Marcel               Le Dom ˛1891
-!---      kN16   _SCHWOB Marcel               La LÇgende des gueux ˛1891
 : .o .     N     _SCHWOB Marcel               L'Ége de la pierre polie - La Vendeuse d'ambre ˛1891
 : .o .     N     _SCHWOB Marcel               L'êpoque romaine - La Moisson Sabine ˛1890
 : .o .     N     _SCHWOB Marcel               Quatorziäme siäcle - Les Routiers - MÇrigot Marchäs ˛1891
@@ -121,10 +127,7 @@ o CRES        ?  1921.xx ..... ISBN -
 o CRES        ?  1921.xx ..... ISBN -
 } noimg          _?                           ?
 !---  Trad. BAUDELAIRE
-- .o .    iNx    _POE Edgar Allan             Histoires grotesques et sÇrieuses ˛1864
-o CRES_RA     ?  1920.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .     R     _CAZAL Edmond                Joe Rollon, l'autre homme invisible ˛1919
+- .oF.    iNx    _POE Edgar Allan             Histoires grotesques et sÇrieuses ˛1864
 o CRES_RA     ?  1921.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _ROSNY JEUNE J.-H.           La ContrÇe aux embñches ˛1920
@@ -185,11 +188,11 @@ o CRES        ?  1924.xx ..... ISBN -
 - .o .     R     _LICHTENBERGER AndrÇ         Les Centaures ˛1904
 o CRES        ?  1925.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _HAGGARD H. Rider            Elle [She - 1] ˛1887 She ˛Trad. HILLEMACHER Jacques
+- .o .     R     _HAGGARD H. Rider            Elle [She - 1] ˛1886 She ˛Trad. HILLEMACHER Jacques
 o CRES        ?  1926.xx ..... ISBN -
 } noimg          _?                           ?
 !--- BrochÇ, Çdition originale
-- .o .    kN9    _RENARD Maurice              L'Invitation Ö la peur ˛1926
+- .oF.    kN9    _RENARD Maurice              L'Invitation Ö la peur ˛1926
 : .o .     N     _RENARD Maurice              ParthÇnope ou l'escale imprÇvue ˛1909
 : .o .     N     _RENARD Maurice              La Berlue de madame d'Estrailles ˛1920
 : .o .     N     _RENARD Maurice              L'Affaire du miroir ˛1926

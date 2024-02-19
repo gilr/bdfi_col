@@ -5,10 +5,11 @@
 !-----------------------------------------------------------------------------
 _ ATALANT L'Atalante
 _ ATA_ROM L'Atalante
-_ ATA_BIB L'Atalante, BibliothŠque de l'‚vasion ş1988
-_ ATADENT L'Atalante, La Dentelle du Cygne ş1988
-_ ATADLUX L'Atalante, La Dentelle du Cygne, ‚dition de luxe ş1988
-_ ATA_POL L'Atalante, Policier/Roman noir
+_ ATA_BIB L'Atalante - BibliothŠque de l'‚vasion
+_ ATADENT L'Atalante - La Dentelle du Cygne
+_ ATADLUX L'Atalante - La Dentelle du Cygne - ‚dition de luxe
+_ ATADCOL L'Atalante - La Dentelle du Cygne - Collector
+_ ATA_POL L'Atalante - Policier/Roman noir
 _ ATALEHA L'Atalante & Leha
 !-----------------------------------------------------------------------------
 
@@ -18,7 +19,7 @@ _ ATALEHA L'Atalante & Leha
 o ATA_BIB     ?  1988.xx ..... ISBN 2-905158-05-0
 } atal0001       _?                           ?
 - .o .     R     _MOORCOCK Michael            Le Chevalier des ‚p‚es [Corum - 1] ş1971 The Knight of the Swords şTrad. COUTON Patrick
-o ATA_BIB     ?  1998.xx ..... ISBN 2-905158-06-9
+o ATA_BIB     ?  1988.xx ..... ISBN 2-905158-06-9
 } atal0002       _?                           ?
 - .o .     R     _MOORCOCK Michael            La Reine des ‚p‚es [Corum - 2] ş1971 The Queen of the Swords şTrad. COUTON Patrick
 o ATA_BIB     ?  1988.xx ..... ISBN 2-905158-07-7
@@ -28,7 +29,6 @@ o ATA_BIB     ?  1988.xx ..... ISBN 2-905158-07-7
 !=== 1989
 !------------------------
 o ATA_BIB     ?  1999.xx ..... ISBN 2-905158-08-5
-!--- TBD r‚‚d 2002 ?
 } atal0004       _?                           ?
 - .o .     R     _DICK R.A.                   Mme Muir et le fant“me ş1945 The Ghost and Mrs Muir şTrad. DAUVEN L.-R.
 o ATA_BIB     ?  1989.xx ..... ISBN 2-905158-10-7
@@ -80,17 +80,21 @@ o ATA_BIB     ?  1991.xx ..... ISBN 2-905158-39-5
 - .o .     R     _ANTHONY Piers               H‚rald ou la quˆte Kirlian - Tome 2 [Le Cycle des Constellations - 3] ş1978 Kirlian Quest şTrad. AUBOUX Fran‡ois
 o ATA_BIB     ?  1991.xx ..... ISBN 2-905158-41-7
 } atal0018       _?                           ?
-- .o .     R     _MOORCOCK Michael            Le Programme final [Jerry Cornelius - 1] ş1968 The Final Programme şTrad. GUIOD Jacques
+>--- Adapt‚ au cin‚ma par Robert Fuest en 1973, sous ce mˆme titre ("Les D‚cimales du futur" en fran‡ais).
+>--- Fixup de 3 nouvelles, "Phase Three", "Further Information" et "Preliminary Data"
+- .o .     U     _MOORCOCK Michael            Le Programme final [Jerry Cornelius - 1] ş1968-1979 The Final Programme şTrad. GUIOD Jacques
 o ATALANT     ?  1991.xx ..... ISBN 2-905158-49-2
 } atal0019       _?                           ?
 !--- TBC Collection : BIB ? POL ?
 - .oF.     r     _BARANOV Dimitri             Pierrot noir ş1991 Pernyj pero
 o ATA_BIB     ?  1991.xx ..... ISBN 2-905158-51-4
 } atal0020       _?                           ?
++ ATA_BIB     ?  1998.xx ..... ISBN ?
+} atal0020r98    _?                           ?
 - .o .     R     _CARD Orson Scott            Le SeptiŠme Fils [Chroniques d'Alvin le Faiseur - 1] ş1987 Seventh Son şTrad. COUTON Philippe
 o ATA_BIB     ?  1991.xx ..... ISBN 2-905158-45-X
 } atal0021       _?                           ?
-- .o .    kN10   _SABERHAGEN Fred             Les Machines de mort [Berserkers - 1] ş1967 Berserker
+- .oS.    kN10   _SABERHAGEN Fred             Les Machines de mort [Berserkers - 1] ş1967 Berserker
 !--- 10 des 11 nouvelles du recueil original
 : .o .     N     _SABERHAGEN Fred             Bonnevie [Berserkers] ş1963 Goodlife şTrad. BILLON Pierre
 : .o .     N     _SABERHAGEN Fred             Dans le temple de Mars [Berserkers] ş1966 In the Temple of Mars şTrad. ALPERINE Paul
@@ -110,7 +114,7 @@ o ATA_BIB     ?  1991.xx ..... ISBN 2-905158-46-8
 - .oS.    _N3    _SABERHAGEN Fred             FrŠre assassin [Berserkers - 2] ş1969 Brother Assassin / Brother Berserker
 !--- Fix-Up de "The stone man", "The windget helmet" et "Brother Berserker"
 : .oS.     N     _SABERHAGEN Fred             L'Homme de pierre [Berserkers] ş1967 Stone Man şTrad. ALPERINE Paul
-: .oS.     N     _SABERHAGEN Fred             Le Casque ail‚ [Berserkers] ş1967 The Windget Helmet şTrad. ?
+: .oS.     N     _SABERHAGEN Fred             Le Casque ail‚ [Berserkers] ş1967 The Winged Helmet şTrad. ?
 : .oS.     N     _SABERHAGEN Fred             FrŠre Berserker [Berserkers] ş1967 Brother Berserker şTrad. ?
 o ATA_BIB     ?  1991.xx ..... ISBN 2-905158-43-3
 } atal0024       _?                           ?
@@ -123,6 +127,8 @@ o ATA_BIB     ?  1991.xx ..... ISBN 2-905158-35-2
 !------------------------
 o ATA_BIB     ?  1992.xx ..... ISBN 2-905158-66-2
 } atal0025       _?                           ?
++ ATA_BIB     ?  1996.xx ..... ISBN ?
+} atal0025r96    _?                           ?
 - .o .     R     _CARD Orson Scott            Le ProphŠte rouge [Chroniques d'Alvin le Faiseur - 2] ş1988 Red Prophet şTrad. COUTON Patrick
 o ATA_BIB     ?  1992.xx ..... ISBN 2-905158-47-6
 } atal0026       _?                           ?
@@ -145,7 +151,7 @@ o ATA_BIB     ?  1992.xx ..... ISBN 2-905158-59-X
 : .o .     R     _MOORCOCK Michael            Le Glaive et l'‚talon [Corum - 6] ş1974 The Sword and the Stallion şTrad. COUTON Patrick
 o ATA_BIB     ?  1992.xx ..... ISBN 2-905158-48-4
 } atal0029       _?                           ?
-- .o .    kN10   _SABERHAGEN Fred             Le Sourire du Berserker [Berserkers - 4] ş1979 The Ultimate Enemy
+- .oS.    kN10   _SABERHAGEN Fred             Le Sourire du Berserker [Berserkers - 4] ş1979 The Ultimate Enemy
 !--- 1 nouvelle de plus (l'assassin de m‚tal) que le recueil original
 : .o .     N     _SABERHAGEN Fred             L'Abolition d'Angkor Apeiron [Berserkers] ş1975 The Annihilation of Angkor Apeiron şTrad. KATTNIG Alain
 : .o .     N     _SABERHAGEN Fred             Les Ailes du pass‚ [Berserkers] ş1974 Wings Out of Shadow şTrad. KATTNIG Alain
@@ -154,7 +160,7 @@ o ATA_BIB     ?  1992.xx ..... ISBN 2-905158-48-4
 : .o .     N     _SABERHAGEN Fred             Le Jardin du Berserker [Berserkers] ş1967 Berserker's Prey / Pressure şTrad. ALPERINE Paul
 : .o .     N     _SABERHAGEN Fred             Le Jeu [Berserkers] ş1977 The Game şTrad. KATTNIG Alain
 : .o .     N     _SABERHAGEN Fred             Le Musicien de l'enfer [Berserkers] ş1968 Starsong şTrad. DEMUTH Michel
-: .o .     N     _SABERHAGEN Fred             Que voulez-vous que je fasse pour prouver que je suis humain stop [Berserkers] ş1974 What Do You Want Me to Do to Prove I'm Human Stop şTrad. HUPP Philippe R.
+: .o .     N     _SABERHAGEN Fred             Que voulez-vous que je fasse pour prouver que je suis humain stop [Berserkers] ş1974 Inhuman Error / What Do You Want Me to Do to Prove I'm Human Stop şTrad. HUPP Philippe R.
 : .o .     N     _SABERHAGEN Fred             Le Sourire du Berserker [Berserkers] ş1977 The Smile şTrad. KATTNIG Alain
 : .o .     N     _SABERHAGEN Fred             Sous le radiant du temple [Berserkers] ş1979 Some Events at the Templar Radiant şTrad. KATTNIG Alain
 !------------------------
@@ -167,10 +173,12 @@ o ATA_BIB     ?  1993.xx ..... ISBN 2-905158-69-7
 - .o .     R     _BORDAGE Pierre              Les Guerriers du silence [Les Guerriers du silence - 1] ş1993
 o ATA_BIB     ?  1993.xx ..... ISBN 2-905158-70-0
 } atal0031       _?                           ?
++ ATA_BIB     ?  1997.xx ..... ISBN ?
+} atal0031r97    _?                           ?
 - .o .     R     _CARD Orson Scott            L'Apprenti [Chroniques d'Alvin le Faiseur - 3] ş1989 Prentice Alvin şTrad. COUTON Patrick
 o ATA_BIB     ?  1993.xx ..... ISBN 2-905158-56-5
 } atal0032       _?                           ?
-- .o .     R     _SABERHAGEN Fred             L'Homme Berserker [Berserkers - 5] ş1979 Berserker Man şTrad. SERPH Fran‡oise
+- .oS.     R     _SABERHAGEN Fred             L'Homme Berserker [Berserkers - 5] ş1979 Berserker Man şTrad. SERPH Fran‡oise
 o ATA_BIB     ?  1993.xx ..... ISBN 2-905158-71-9
 } atal0033       _?                           ?
 !--- ‚crit en 1958, mais premiŠre publication en 1979
@@ -200,17 +208,14 @@ o ATA_BIB     ?  1993.10 ..... ISBN 2-905158-79-4
 !------------------------
 o ATA_BIB     ?  1994.xx ..... ISBN 2-905158-82-4
 } atal0039       _?                           ?
++ ATA_BIB     ?  1998.xx ..... ISBN ?
+} atal0039r98    _?                           ?
+!--- _Jason Valois_ : si on parle de _The worthing chronicle_ c'est 1983 (… noter qu'il s'agit d'un fix-up rewrit‚ des romans _Capitol_ & _Hot sleep_),
+!--- la biblio de Card chez Overlook indique qu'il existe une ‚dition l'Atalante de 1990 (?) sous le TF _Jason valois_ qui correspond … _Hot sleep_ (1979),
+!--- en fait OS a r‚‚crit au moins trois fois l'histoire Worthing : 2 romans (_Capitol_ & _Hot sleep_), puis un fix-up modifi‚ de ces romans et d'autres
+!--- textes (_The worthing chronicle_ 1983) puis encore une modification pour aboutir … _The worthing saga_ (1990). En contradiction avec elle mˆme la
+!--- biblio de Card indique que l'‚dition de l'atalante de 1994 correspond … ces textes d‚coup‚s en deux volumes.
 - .o .     R     _CARD Orson Scott            Jason Valois [La Geste Valois - 1] ş1989 The Worthing Chronicle şTrad. FAURE-GEORS Corinne
-!--- _Jason Valois_ : si on parle de _The worthing chronicle_ c'est 1983 (…
-!--- noter qu'il s'agit d'un fix-up rewrit‚ des romans _Capitol_ & _Hot sleep_),
-!--- la biblio de Card chez Overlook indique qu'il existe une ‚dition l'Atalante
-!--- de 1990 (?) sous le TF _Jason valois_ qui correspond … _Hot sleep_ (1979),
-!--- en fait OS a r‚‚crit au moins trois fois l'histoire Worthing : 2 romans
-!--- (_Capitol_ & _Hot sleep_), puis un fix-up modifi‚ de ces romans et d'autres
-!--- textes (_The worthing chronicle_ 1983) puis encore une modification pour
-!--- aboutir … _The worthing saga_ (1990).  En contradiction avec elle mˆme la
-!--- biblio de Card indique que l'‚dition de l'atalante de 1994 correspond …
-!--- ces textes d‚coup‚s en deux volumes.
 o ATA_BIB     ?  1994.03 ..... ISBN 2-905158-83-2
 } atal0040       _?                           ?
 + ATALANT     ?  2009.11 ..... ISBN 978-2-905158-83-3
@@ -218,7 +223,7 @@ o ATA_BIB     ?  1994.03 ..... ISBN 2-905158-83-2
 - .oS.     R     _MOORCOCK Michael            Gloriana ou la reine inassouvie ş1978 Gloriana the Unfulfilled Queen şTrad. COUTON Patrick
 o ATA_BIB     ?  1994.xx ..... ISBN 2-905158-57-3
 } atal0041       _?                           ?
-- .o .     R     _SABERHAGEN Fred             Le Tr“ne Berserker [Berserkers - 6] ş1985 The Berserker Throne
+- .oS.     R     _SABERHAGEN Fred             Le Tr“ne Berserker [Berserkers - 6] ş1985 The Berserker Throne
 o ATA_BIB     ?  1994.xx ..... ISBN 2-905158-84-0
 } atal0042       _?                           ?
 + ATALANT     ?  2014.11 ..... ISBN 978-2-84172-692-9
@@ -239,8 +244,10 @@ o ATA_BIB     ?  1994.xx ..... ISBN 2-905158-89-1
 - .o .     R     _PRATCHETT Terry             Le Sauveur de l'humanit‚ - C'est toi ! [Johnny Maxwell - 1] ş1992 Only You Can Save Mankind<sup>TM</sup>
 o ATA_BIB     ?  1994.xx ..... ISBN 2-905158-91-3
 } atal0046       _?                           ?
++ ATA_BIB     ?  1998.xx ..... ISBN ?
+} atal0046r98    _?                           ?
 - .oY.    _N9    _CARD Orson Scott            Contes de Capitole et de la forˆt des Eaux [La Geste Valois - 2] ş1979 Capitol: The Worthing Chronicles şTrad. FAURE-GEORS Corinne
-!--- TBC : ou ş1989 Tales of capitol, tales of the forest of waters
+!--- TBC : ou est-ce Tales of capitol, tales of the forest of waters (1989)
 !--- TBC : The Worthing Saga - Tales of Capitol. Tales of the Forest of Waters, 1989
 !--- TBC : recueil "Capitol, 1979", au contenu diff‚rent ?
 : .oY.     N     _CARD Orson Scott            Et les pierres ricochaient sur l'eau ş1979 Skipping Stones
@@ -314,13 +321,19 @@ o ATA_BIB     ?  1995.xx ..... ISBN 2-84172-020-9
 - .o .     R     _CARD Orson Scott            Le G‚n‚ral [Terre des origines - 2] ş1993 The Call of Earth şTrad. MOUSNIER-LOMPRE Arnaud
 o ATA_BIB     ?  1995.xx ..... ISBN 2-905158-58-1
 } atal0062       _?                           ?
-- .o .     R     _SABERHAGEN Fred             L‚viathan, l'ombre bleue [Berserkers - 7] ş1985 Berserker: Blue Death şTrad. PAVONI Isabelle
+- .oS.     R     _SABERHAGEN Fred             L‚viathan, l'ombre bleue [Berserkers - 7] ş1985 Berserker: Blue Death şTrad. PAVONI Isabelle
 !------------------------
 !=== 1996
 !------------------------
 o ATA_BIB     ?  1996.xx ..... ISBN 2-84172-037-3
 } atal0063       _?                           ?
 - .o .     R     _CARD Orson Scott            Le Compagnon [Chroniques d'Alvin le Faiseur - 4] ş1995 Alvin Journeyman şTrad. COUTON Patrick
+o ATADENT     ?  2021.02 ..... ISBN 979-10-360-0067-6
+} noimg          _Vincent Madras              ?
+!--- GF - 145 x 200 - 416 pages
+- .oY.     RN    _CARD Orson Scott            Le Compagnon [Chroniques d'Alvin le Faiseur] ş2021
+: .o .     R     _CARD Orson Scott            Le Compagnon [Chroniques d'Alvin le Faiseur - 4] ş1995 Alvin Journeyman şTrad. COUTON Patrick
+: .o .     P     _CARD Orson Scott            L'apprenti Alvin et le soc bon-rien [Chroniques d'Alvin le Faiseur] ş1989 The Tales of Alvin Maker. Prentice Alvin and the No-Good Plow şTrad. COUTON Patrick
 o ATA_BIB     ?  1996.xx ..... ISBN 2-84172-040-3
 } atal0064       _?                           ?
 - .oY.    kR3    _CARD Orson Scott            Les Chroniques d'Alvin le Faiseur [Chroniques d'Alvin le Faiseur - 1/3] ş1996
@@ -343,7 +356,7 @@ o ATA_BIB     ?  1996.xx ..... ISBN 2-84172-031-4
 - .o .     R     _SERVAT Gilles               La Navigation de Myrdhinn [Les Chroniques d'Arcturus - 2] ş1996
 o ATA_BIB     ?  1996.xx ..... ISBN 2-84172-035-7
 } atal0069       _?                           ?
-- .o .     R     _MOORCOCK Michael            Les Rives du cr‚puscule [Von Bek - 3] ş1966 The Twilight Man / The Shores of Death şTrad. MOUSNIER-LOMPRE Arnaud
+- .o .     R     _MOORCOCK Michael            Les Rives du cr‚puscule ş1966 The Twilight Man / The Shores of Death şTrad. MOUSNIER-LOMPRE Arnaud
 o ATA_BIB     ?  1996.xx ..... ISBN 2-84172-038-1
 } atal0070       _?                           ?
 - .o .     R     _VINGE Vernor                La Captive du temps perdu ş1986 Marooned in Realtime şTrad. MANFREDO St‚phane
@@ -352,7 +365,7 @@ o ATA_BIB     ?  1996.xx ..... ISBN 2-84172-041-1
 - .o .     R     _BORDAGE Pierre              Les Portes d'Occident [Wang - 1] ş1996
 o ATA_BIB     ?  1996.xx ..... ISBN 2-84172-028-4
 } atal0072       _?                           ?
-- .o .    kA13   *SABERHAGEN Fred             La Base Berserker [Berserkers - 8] ş1985 Berserker Base
+- .oS.    kA13   *SABERHAGEN Fred             La Base Berserker [Berserkers - 8] ş1985 Berserker Base
 : .o .     N     _SABERHAGEN Fred             La Base des prisonniers [Berserkers] ş1985 Prisoner's Base şTrad. PAVONI Isabelle
 : .o .     N     _WILLIS Connie               De curieux alli‚s [Berserkers] ş1985 With Friends Like These şTrad. PAVONI Isabelle
 : .o .     N     _ANDERSON Poul               Les Entrailles de la mort [Berserkers] ş1983 Deathwomb şTrad. PAVONI Isabelle
@@ -384,17 +397,17 @@ o ATA_BIB     ?  1997.xx ..... ISBN 2-84172-062-4
 o ATADENT     ?  2014.03 ..... ISBN 978-2-84172-667-7
 } atal0075rr14   _DEFOSSEZ Rapha‰l            Gess
 - .oS.    kR3N   _BORDAGE Pierre              Trilogie des guerriers du silence [Les Guerriers du silence - 1/3] ş1997-2014
-: .oS.     N     _BORDAGE Pierre              Le Pacte ş2014
+: .oS.     N     _BORDAGE Pierre              Le Pacte ş2012
 : .oS.     R     _BORDAGE Pierre              Les Guerriers du silence [Les Guerriers du silence - 1] ş1993
 : .oS.     R     _BORDAGE Pierre              Terra Mater [Les Guerriers du silence - 2] ş1994
-: .oS.     R     _BORDAGE Pierre              La Citadelle Hyponeros [Les Guerriers du silence - 3] ş1995
+: .oS.     R     _BORDAGE Pierre              La Citadelle Hypon‚ros [Les Guerriers du silence - 3] ş1995
 o ATADENT     ?  2020.05 ..... ISBN 979-10-360-0038-6
 } atal0075rr20   _Leraf                       ?
 - .oS.    kR3N   _BORDAGE Pierre              Les guerriers du silence - L'int‚grale [Les Guerriers du silence - 1/3] ş1997-2014
-?: .oS.     N     _BORDAGE Pierre              Le Pacte ş2014
+?: .oS.     N     _BORDAGE Pierre              Le Pacte ş2012
 : .oS.     R     _BORDAGE Pierre              Les Guerriers du silence [Les Guerriers du silence - 1] ş1993
 : .oS.     R     _BORDAGE Pierre              Terra Mater [Les Guerriers du silence - 2] ş1994
-: .oS.     R     _BORDAGE Pierre              La Citadelle Hyponeros [Les Guerriers du silence - 3] ş1995
+: .oS.     R     _BORDAGE Pierre              La Citadelle Hypon‚ros [Les Guerriers du silence - 3] ş1995
 o ATA_BIB     ?  1997.xx ..... ISBN 2-84172-045-4
 } atal0076       _?                           ?
 + ATADENT     ?  2015.04 ..... ISBN 978-2-84172-716-2
@@ -440,6 +453,8 @@ o ATA_BIB     ?  1997.xx ..... ISBN 2-84172-063-2
 - .o .     R     _SERVAT Gilles               Arcturus [Les Chroniques d'Arcturus - 3] ş1997
 o ATA_BIB     ?  1997.xx ..... ISBN 2-84172-064-0
 } atal0087       _?                           ?
++ ATADENT     ?  2004.xx ..... ISBN ?
+} atal0087rr04   _?                           ?
 - .o .     R     _CARD Orson Scott            Patience d'Imakulata ş1987 Wyrms şTrad. MOUSNIER-LOMPRE Arnaud
 !------------------------
 !=== 1998
@@ -462,7 +477,7 @@ o ATA_BIB     ?  1998.xx ..... ISBN 2-84172-070-5
 - .o .     R     _ANTHONY Piers               L'Infini ‚clat‚ [L'Adepte bleu - 1] ş1980 Split Infinity şTrad. SCHMITT J.
 o ATA_BIB     ?  1998.xx ..... ISBN 2-84172-074-8
 } atal0092       _?                           ?
-- .o .     R     _COOK Glen                   La Compagnie noire [Les Annales de la compagnie noire - 1] ş1984 The Black Company şTrad. COUTON Patrick
+- .o .     R     _COOK Glen                   La Compagnie noire [Les Livres du Nord - 1][Les Annales de la compagnie noire - 1] ş1984 The Black Company şTrad. COUTON Patrick
 o ATA_BIB     ?  1998.xx ..... ISBN 2-84172-073-X
 } atal0093       _?                           ?
 - .o .     R     _CARD Orson Scott            Le Tr‚sor dans la boŒte ş1996 Treasure Box şTrad. MOUSNIER-LOMPRE Arnaud
@@ -503,20 +518,21 @@ o ATA_BIB     ?  1999.xx ..... ISBN 2-84172-095-0
 o ATA_BIB     ?  1999.02 R.... ISBN 2-84172-098-5
 } atal0102       _?                           ?
 - .o .     R     _WAGNER Roland C.            Le Chant du cosmos ş1999
-o ATA_BIB     ?  1999.xx ..... ISBN 2-84172-099-3
-} atal0103       _?                           ?
-- .o .     R     _CARD Orson Scott            Flammes de vie [Chroniques d'Alvin le Faiseur - 5] ş1998 Heartfire şTrad. COUTON Patrick
 o ATA_BIB     ?  1999.xx ..... ISBN 2-84172-105-1
 } atal0104       _?                           ?
 - .o .     R     _HENNEBERG Nathalie          La Plaie ş1963
 o ATA_BIB     ?  1999.xx ..... ISBN 2-84172-100-0
 } atal0105       _?                           ?
-- .o .     R     _COOK Glen                   Le Chƒteau noir [Les Annales de la compagnie noire - 2] ş1984 Shadows Linger şTrad. ROBERT Alain
+- .o .     R     _COOK Glen                   Le Chƒteau noir [Les Livres du Nord - 2][Les Annales de la compagnie noire - 2] ş1984 Shadows Linger şTrad. ROBERT Alain
 o ATA_BIB     ?  1999.xx ..... ISBN 2-84172-102-7
 } aral0106       _?                           ?
 + ATADENT     ?  2016.05 ..... ISBN 978-2-84172-761-2
 } aral0106rr16   _Josh Kirby                  ?
 - .oY.     R     _PRATCHETT Terry             Les Petits Dieux [Les Annales du Disque-monde - 13][Le Disque-Monde] ş1992 Small Gods şTrad. COUTON Patrick
+o ATA_BIB     ?  1999.xx ..... ISBN 2-84172-121-3
+} noimg          _?                           ?
+!--- 30 pages - 18 cm
+- .o .     P     _CARD Orson Scott            L'apprenti Alvin et le soc bon-rien [Chroniques d'Alvin le Faiseur] ş1989 The Tales of Alvin Maker. Prentice Alvin and the No-Good Plow şTrad. COUTON Patrick
 
 
 
@@ -526,7 +542,7 @@ o ATALANT     ?  1999.xx ..... ISBN 2-84172-912-5
 : .o .     N     _BENSON St‚phanie            Le Conseil des sages ş1999
 : .o .     N     _BORDAGE Pierre              God‚ron ş1999
 !--- TBC : ou "Pierres de Lune" ?
-: .o .     N     _CARD Orson Scott            La Femme du milieu ş1993 Middle Woman
+: .o .     N     _CARD Orson Scott            La Femme du milieu ş1981 Middle Woman
 : .o .     N     _JONQUET Thierry             Il n'y a pas de sot m‚tier ş?
 : .o .     N     _MONDOLONI Jacques           L'Agence de voyage ş?
 : .o .     N     _MOORCOCK Michael            La Pierre d'achoppement ş1975 The Stone Thing
@@ -545,6 +561,12 @@ o ATALANT     ?  1999.xx ..... ISBN 2-84172-912-5
 !------------------------
 !=== 1999
 !------------------------
+o ATADENT     ?  1999.xx ..... ISBN 2-84172-099-3
+} atal0103       _?                           ?
++ ATADENT     ?  2021.06 ..... ISBN 979-10-360-0078-2
+} noimg          _Vincent Madras              ?
+!--- GF - 145x200 
+- .o .     R     _CARD Orson Scott            Flammes de vie [Chroniques d'Alvin le Faiseur - 5] ş1998 Heartfire şTrad. COUTON Patrick
 o ATADENT     ?  1999.xx ..... ISBN 2-84172-103-5
 } atal0107       _?                           ?
 - .oS.     R     _WEBER David                 Mission Basilic [Honor Harrington - 1] ş1993 On Basilisk Station şTrad. MOUSNIER-LOMPRE Arnaud
@@ -594,13 +616,13 @@ o ATADENT     ?  1999.xx ..... ISBN 2-84172-112-4
 : .o .     N     _SHERMAN Josepha             L'Affaire du vol du lisitek ş1995 The Case of the Purloined Lisitek
 : .o .     N     _LEWIS Anthony R.            L'Aventure de l'extraterrestre en situation irr‚guliŠre ş1995 The Adventure of the Illegal Alien
 : .o .     N     _MALZBERG Barry N.           Chiens, masques, amours, morts, fleurs ş1995 Dogs, Masques, Loves, Deaths: Flowers
-: .o .     N     _SAWYER Robert J.            Vous voyez, mais vous n'observez pas ş1995 You See But you Do Not Observe
+: .o .     N     _SAWYER Robert J.            Vous voyez, mais vous n'observez pas ş1995 You See but you Do Not Observe
 !---    Holmes aprŠs la mort
 : .o .     N     _SIMNER Janni Lee            Illusions ş1995 Illusions
 : .o .     N     _RESNICK Mike                L'Aventure des portes de nacre ş1995 The Adventure of the Pearly Gates
 o ATADENT     ?  1999.xx ..... ISBN 2-84172-113-2
 } atal0111       _?                           ?
-- .o .    kN11   _CARD Orson Scott            L'Homme transform‚ - R‚cits d'angoisse [Portulans de l'imaginaire - 1] ş1990 Maps in a Mirror: the Changed Man
+- .o .    kN11   _CARD Orson Scott            L'Homme transform‚ - R‚cits d'angoisse [Portulans de l'imaginaire - 1] ş1992 Maps in a Mirror: the Changed Man
 : .o .     p     _CARD Orson Scott            Introduction ş1990
 : .o .     N     _CARD Orson Scott            L'Homme transform‚ et le roi des mots ş1982 The Changed Man and the King of Words
 : .o .     N     _CARD Orson Scott            Les Eum‚nides dans les toilettes du quatriŠme ş1979 Eumenides in the Fourth Floor Lavatory
@@ -620,7 +642,7 @@ o ATADENT     ?  1999.xx ..... ISBN 2-84172-117-5
 - .oY.     R     _PRATCHETT Terry             Nobliaux et sorciŠres [Les Annales du Disque-monde - 14][Le Disque-Monde] ş1992 Lords and Ladies şTrad. COUTON Patrick
 o ATADENT     ?  1999.xx ..... ISBN 2-84172-119-1
 } atal0113       _?                           ?
-- .o .     R     _COOK Glen                   La Rose blanche [Les Annales de la compagnie noire - 3] ş1985 The White Rose şTrad. ROBERT Alain
+- .o .     R     _COOK Glen                   La Rose blanche [Les Livres du Nord - 3][Les Annales de la compagnie noire - 3] ş1985 The White Rose şTrad. ROBERT Alain
 o ATADENT     ?  1999.xx ..... ISBN 2-84172-118-3
 } atal0114       _?                           ?
 - .o .     R     _ANTHONY Piers               Juxtaposition [L'Adepte bleu - 3] ş1982 Juxtaposition şTrad. BURY Florence
@@ -643,14 +665,13 @@ o ATADENT     ?  2000.01 ..... ISBN 2-84172-124-8
 - .o .     R     _SUMNER Mark                 Le Train du Diable ş1997 Devil's Engine şTrad. COUTON Patrick
 o ATADENT     ?  2000.xx ..... ISBN 2-84172-128-0
 } atal0118       _?                           ?
-!--- TBD titre int‚rieur ? La Cit‚ des ombres [L'Aube du soleil noir - 1]
 - .o .     R     _FRIEDMAN Celia S.           L'Aube du soleil noir - Tome 1 [L'Aube du soleil noir - 1] ş1991 Black Sun Rising şTrad. ROBERT Alain
 o ATADENT     ?  2000.xx ..... ISBN 2-84172-126-4
 } atal0119       _?                           ?
 - .o .     R     _SERVAT Gilles               Les Ssahanis [Les Chroniques d'Arcturus - 4] ş2000
 o ATADENT     ?  2000.xx ..... ISBN 2-84172-130-2
 } atal0120       _?                           ?
-- .o .    kN7    _CARD Orson Scott            Avatars - r‚cits d'avenirs [Portulans de l'imaginaire - 2] ş1990 Maps in a Mirror: Flux
+- .o .    kN7    _CARD Orson Scott            Avatars - r‚cits d'avenirs [Portulans de l'imaginaire - 2] ş1992 Maps in a Mirror: Flux
 : .o .     p     _CARD Orson Scott            Introduction ş?
 : .o .     N     _CARD Orson Scott            Mille morts ş1978 A Thousand Deaths
 : .o .     N     _CARD Orson Scott            A moins que l'ƒme ne tape dans ses mains ş1982 Claps Hands and Sing
@@ -666,7 +687,7 @@ o ATADENT     ?  2000.xx ..... ISBN 2-84172-129-9
 o ATADENT     ?  2000.xx ..... ISBN 2-84172-133-7
 } atal0122       _?                           ?
 - .oS.    kR4    _MOORCOCK Michael            Les Aventures de Jerry Cornelius [Jerry Cornelius - 1/4] ş2000
-: .o .     R     _MOORCOCK Michael            Le Programme final [Jerry Cornelius - 1] ş1968 The Final Programme şTrad. GUIOD Jacques
+: .o .     U     _MOORCOCK Michael            Le Programme final [Jerry Cornelius - 1] ş1968-1979 The Final Programme şTrad. GUIOD Jacques
 : .o .     R     _MOORCOCK Michael            A bas le cancer [Jerry Cornelius - 2] ş1971 A Cure for Cancer şTrad. GARCIA-MELGARES M.
 : .o .     R     _MOORCOCK Michael            L'Assassin anglais [Jerry Cornelius - 3] ş1972 The English Assassin şTrad. WAUTIER Jean-Paul
 : .o .     R     _MOORCOCK Michael            Vous aimez la muzak ? [Jerry Cornelius - 4] ş1977 The Condition of Musak şTrad. FAURE-GEORS C.
@@ -684,7 +705,6 @@ o ATADENT     ?  2000.xx ..... ISBN 2-84172-136-1
 : .o .     R     _BORDAGE Pierre              Saphyr d'Antiter [Rohel le Vioter - 14] ş1997
 o ATADENT     ?  2000.xx ..... ISBN 2-84172-137-X
 } atal0125       _?                           ?
-!--- TBD titre int‚rieur ? Citadelle des tempˆtes [L'Aube du soleil noir - 2]
 - .o .     R     _FRIEDMAN Celia S.           L'Aube du soleil noir - Tome 2 [L'Aube du soleil noir - 2] ş1991 Black Sun Rising şTrad. ROBERT Alain
 o ATADENT     ?  2000.xx ..... ISBN 2-84172-141-8
 } atal0126       _?                           ?
@@ -756,7 +776,7 @@ o ATADENT     ?  2000.xx ..... ISBN 2-84172-139-6
 + ATADENT     ?  2009.10 ..... ISBN 978-2-84172-139-9
 !--- collector gratuit, donn‚ avec le Guet des orfŠvres
 } atalpratchhs   _Jess Tourby                 ?
-- .oY.     N     _PRATCHETT Terry             Drame de troll ş1992 Troll Bridge şTrad. COUTON Patrick
+- .oY.     N     _PRATCHETT Terry             Drame de troll [Les Annales du Disque-monde][Le Disque-Monde] ş1992 Troll Bridge şTrad. COUTON Patrick
 !------------------------
 !=== 2001
 !------------------------
@@ -772,7 +792,7 @@ o ATADENT     ?  2001.xx ..... ISBN 2-84172-162-0
 - .o .     R     _PRATCHETT Terry             Le Vade-Mecum [Le Disque-Monde] ş1994 The Discworld Companion şTrad. COUTON Patrick
 o ATADENT     ?  2001.xx ..... ISBN 2-84172-165-5
 } atal0140       _?                           ?
-- .oF.    kN10   _CARD Orson Scott            Sonates frelat‚es - Fables et contes fantastiques [Portulans de l'imaginaire - 3] ş1990 Maps in a Mirror: Monkeys Sonatas
+- .oF.    kN10   _CARD Orson Scott            Sonates frelat‚es - Fables et contes fantastiques [Portulans de l'imaginaire - 3] ş1993 Maps in a Mirror: Monkeys Sonatas
 : .o .     N     _CARD Orson Scott            Sonate sans accompagnement ş1979 Unaccompanied Sonata
 : .o .     N     _CARD Orson Scott            En route pour assassiner Richard Nixon ş1979 A Cross Country Trip to Kill Richard Nixon
 !--- TBC VO : ou 1980
@@ -785,7 +805,7 @@ o ATADENT     ?  2001.xx ..... ISBN 2-84172-165-5
 : .o .     N     _CARD Orson Scott            Le Plus Beau Jour ş1984 The Best Day
 !--- initialement sous pseudo
 : .o .     N     _CARD Orson Scott            Les Papillons ş1981 A Plague of Butterflies
-: .o .     N     _CARD Orson Scott            Un jardin de roses ş1979 The Monkeys Throught 'twas All in Fun
+: .o .     N     _CARD Orson Scott            Un jardin de roses ş1979 The Monkeys Thought 'twas All in Fun
 o ATADENT     ?  2001.xx ..... ISBN 2-84172-167-1
 } atal0141       _?                           ?
 + ATADENT     ?  2016.04 ..... ISBN 978-2-84172-756-8
@@ -799,7 +819,7 @@ o ATADENT     ?  2001.xx ..... ISBN 2-84172-169-8
 - .o .     R     _MOORCOCK Michael            Voici l'homme ş1969 Behold the Man şTrad. RENAUD Martine & VERSINS Pierre
 o ATADENT     ?  2001.xx ..... ISBN 2-84172-173-6
 } atal0144       _?                           ?
-- .o .     R     _COOK Glen                   Jeux d'ombres [Les Annales de la compagnie noire - 4] ş1989 Shadow Games şTrad. ROBERT Alain
+- .o .     R     _COOK Glen                   Jeux d'ombres [Les Livres du Sud - 1][Les Annales de la compagnie noire - 4] ş1989 Shadow Games şTrad. ROBERT Alain
 o ATADENT     ?  2001.xx ..... ISBN 2-84172-172-8
 } atal0145       _?                           ?
 - .oS.    _N9    _DUNYACH Jean-Claude         D‚chiffrer la trame ş2001
@@ -825,7 +845,7 @@ o ATADENT     ?  2001.xx ..... ISBN 2-84172-182-5
 - .o .     R     _WELLS Martha                La Mort du n‚cromant [Ile-Rien] ş1998 The Death of the Necromant şTrad. REICHERT Frank
 o ATADENT     ?  2001.xx ..... ISBN 2-84172-184-1
 } atal0149       _?                           ?
-- .o .     R     _COOK Glen                   Rˆves d'acier [Les Annales de la compagnie noire - 5] ş1990 Dreams of Steel şTrad. ROBERT Alain
+- .o .     R     _COOK Glen                   Rˆves d'acier [Les Livres du Sud - 2][Les Annales de la compagnie noire - 5] ş1990 Dreams of Steel şTrad. ROBERT Alain
 o ATADENT     ?  2001.xx ..... ISBN 2-84172-185-X
 } atal0150       _?                           ?
 - .o .     R     _CARD Orson Scott            La Strat‚gie de l'ombre, un roman parallŠle … la strat‚gie Ender [La Saga des ombres - 1][Ender] ş1999 Ender's Shadow şTrad. MOUSNIER-LOMPRE Arnaud
@@ -854,8 +874,8 @@ o ATADENT     ?  2001.xx ..... ISBN 2-84172-192-2
 - .o .     R     _WEBER David                 Au champ du d‚shonneur [Honor Harrington - 4] ş1994 Field of Dishonor şTrad. BURY Florence
 o ATADENT     ?  2001.xx ..... ISBN 2-84172-193-0
 } atal0154       _?                           ?
-- .o .    kRNx   _SABERHAGEN Fred             Les Berserkers - Vol. 1 [Berserkers] ş2001
-: .o .    kN10   _SABERHAGEN Fred             Les Machines de mort [Berserkers - 1] ş1967 Berserker
+- .oS.    kRNx   _SABERHAGEN Fred             Les Berserkers - Vol. 1 [Berserkers] ş2001
+: .oS.    kN10   _SABERHAGEN Fred             Les Machines de mort [Berserkers - 1] ş1967 Berserker
 = .o .     N     _SABERHAGEN Fred             Bonnevie [Berserkers] ş1963 Goodlife şTrad. BILLON Pierre
 = .o .     N     _SABERHAGEN Fred             Dans le temple de Mars [Berserkers] ş1966 In the Temple of Mars şTrad. ALPERINE Paul
 = .o .     N     _SABERHAGEN Fred             L'Essaim de pierres [Berserkers] ş1965 Stone Place şTrad. BILLON Pierre
@@ -868,10 +888,10 @@ o ATADENT     ?  2001.xx ..... ISBN 2-84172-193-0
 = .o .     N     _SABERHAGEN Fred             Le Visage de l'abŒme [Berserkers] ş1966 The Face of the Deep şTrad. ALPERINE Paul
 : .oS.    _N3    _SABERHAGEN Fred             FrŠre assassin [Berserkers - 2] ş1969 Brother Assassin / Brother Berserker
 = .oS.     N     _SABERHAGEN Fred             L'Homme de pierre [Berserkers] ş1967 Stone Man şTrad. ALPERINE Paul
-= .oS.     N     _SABERHAGEN Fred             Le Casque ail‚ [Berserkers] ş1967 The Windget Helmet şTrad. ?
+= .oS.     N     _SABERHAGEN Fred             Le Casque ail‚ [Berserkers] ş1967 The Winged Helmet şTrad. ?
 = .oS.     N     _SABERHAGEN Fred             FrŠre Berserker [Berserkers] ş1967 Brother Berserker şTrad. ?
 : .o .     R     _SABERHAGEN Fred             La PlanŠte du Berserker [Berserkers - 3] ş1974 Berserker Planet
-: .o .    kN10   _SABERHAGEN Fred             Le Sourire du Berserker [Berserkers - 4] ş1979 The Ultimate Enemy
+: .oS.    kN10   _SABERHAGEN Fred             Le Sourire du Berserker [Berserkers - 4] ş1979 The Ultimate Enemy
 = .o .     N     _SABERHAGEN Fred             L'Abolition d'Angkor Apeiron [Berserkers] ş1975 The Annihilation of Angkor Apeiron şTrad. KATTNIG Alain
 = .o .     N     _SABERHAGEN Fred             Les Ailes du pass‚ [Berserkers] ş1974 Wings Out of Shadow şTrad. KATTNIG Alain
 = .o .     N     _SABERHAGEN Fred             L'Assassin de m‚tal [Berserkers] ş1980 Adventure of the Metal Murderer / Metal Murderer şTrad. KATTNIG Alain
@@ -879,9 +899,13 @@ o ATADENT     ?  2001.xx ..... ISBN 2-84172-193-0
 = .o .     N     _SABERHAGEN Fred             Le Jardin du Berserker [Berserkers] ş1967 Berserker's Prey / Pressure şTrad. ALPERINE Paul
 = .o .     N     _SABERHAGEN Fred             Le Jeu [Berserkers] ş1977 The Game şTrad. KATTNIG Alain
 = .o .     N     _SABERHAGEN Fred             Le Musicien de l'enfer [Berserkers] ş1968 Starsong şTrad. DEMUTH Michel
-= .o .     N     _SABERHAGEN Fred             Que voulez-vous que je fasse pour prouver que je suis humain stop [Berserkers] ş1974 What Do You Want Me to Do to Prove I'm Human Stop şTrad. HUPP Philippe R.
+= .o .     N     _SABERHAGEN Fred             Que voulez-vous que je fasse pour prouver que je suis humain stop [Berserkers] ş1974 Inhuman Error / What Do You Want Me to Do to Prove I'm Human Stop şTrad. HUPP Philippe R.
 = .o .     N     _SABERHAGEN Fred             Le Sourire du Berserker [Berserkers] ş1977 The Smile şTrad. KATTNIG Alain
 = .o .     N     _SABERHAGEN Fred             Sous le radiant du temple [Berserkers] ş1979 Some Events at the Templar Radiant şTrad. KATTNIG Alain
+o ATADENT     ?  2001.xx ..... ISBN  2-84172-181-7
+} noimg          _?                           ?
+!--- 18 cm - 29 pages
+- .o .     N     _BORDAGE Pierre              Ma main … couper ş1999
 !------------------------
 !=== 2002
 !------------------------
@@ -906,7 +930,7 @@ o ATADENT     ?  2002.xx ..... ISBN 2-84172-202-3
 - .o .     R     _STOVER Matthew Woodring     Aube de fer ş1997 Iron Dawn şTrad. REICHERT Frank
 o ATADENT     ?  2002.xx ..... ISBN 2-84172-201-5
 } atal0160       _?                           ?
-- .o .    kN6    _CARD Orson Scott            Cruels miracles - Contes de la mort, l'espoir et la saintet‚ [Portulans de l'imaginaire - 4] ş1990 Maps in a Mirror: Cruel Miracles
+- .o .    kN6    _CARD Orson Scott            Cruels miracles - Contes de la mort, l'espoir et la saintet‚ [Portulans de l'imaginaire - 4] ş1993 Maps in a Mirror: Cruel Miracles
 : .o .     N     _CARD Orson Scott            Grace salvatrice ş1987 Saving Grace
 : .o .     N     _CARD Orson Scott            Le Conte de Sainte Amy ş1980 St. Amy's Tale
 : .o .     N     _CARD Orson Scott            Les Dieux mortels ş1979 Mortal Gods
@@ -948,11 +972,11 @@ o ATADENT     ?  2002.xx ..... ISBN 2-84172-214-7
 - .o .     R     _WELLS Martha                Le Feu primordial [Ile-Rien] ş1993 The Element of Fire şTrad. COUTON Patrick
 o ATADENT     ?  2002.xx ..... ISBN 2-84172-215-5
 } atal0170       _?                           ?
-- .o .    kNx    _SABERHAGEN Fred             Les Berserker - Vol. 2 [Berserkers] ş2002
+- .oS.    kNx    _SABERHAGEN Fred             Les Berserker - Vol. 2 [Berserkers] ş2002
 : .o .     R     _SABERHAGEN Fred             L'Homme Berserker [Berserkers - 5] ş1979 Berserker Man
 : .o .     R     _SABERHAGEN Fred             Le Tr“ne Berserker [Berserkers - 6] ş1985 The Berserker Throne
 : .o .     R     _SABERHAGEN Fred             L‚viathan, l'ombre bleue [Berserkers - 7] ş1985 Berserker: Blue Death
-: .o .    kA13   *SABERHAGEN Fred             La Base Berserker [Berserkers - 8] ş1985 Berserker Base
+: .oS.    kA13   *SABERHAGEN Fred             La Base Berserker [Berserkers - 8] ş1985 Berserker Base
 = .o .     N     _SABERHAGEN Fred             La Base des prisonniers [Berserkers] ş1985 Prisoner's Base şTrad. PAVONI Isabelle
 = .o .     N     _WILLIS Connie               De curieux alli‚s [Berserkers] ş1985 With Friends Like These şTrad. PAVONI Isabelle
 = .o .     N     _ANDERSON Poul               Les Entrailles de la mort [Berserkers] ş1983 Deathwomb şTrad. PAVONI Isabelle
@@ -992,7 +1016,7 @@ o ATADENT     ?  2002.10 ..... ISBN 2-84172-219-8
 : .oS.     N     _YOSS                        Kaishaku ş2002 Kaishaku
 o ATADENT     ?  2002.xx ..... ISBN 2-84172-220-1
 } atal0174       _?                           ?
-- .oS.     R     _CARD Orson Scott            L'Ombre de l'H‚g‚mon [La Saga des ombres - 2][Ender] ş2000 Shadow of the Hegemon şTrad. MOUSNIER-LOMPRE Arnaud
+- .oS.     R     _CARD Orson Scott            L'Ombre de l'H‚g‚mon [La Saga des ombres - 2][Ender] ş2001 Shadow of the Hegemon şTrad. MOUSNIER-LOMPRE Arnaud
 o ATADENT     ?  2002.xx ..... ISBN 2-84172-223-6
 } atal0175       _?                           ?
 + ATADENT     ?  2016.10 ..... ISBN 978-2-84172-787-2
@@ -1023,7 +1047,7 @@ o ATADENT     ?  2003.xx ..... ISBN 2-84172-231-7
 - .o .     R     _PRATCHETT Terry             Va-t-en-guerre [Les Annales du Disque-monde - 21][Le Disque-Monde] ş1997 Jingo şTrad. COUTON Patrick
 o ATADENT     ?  2003.xx ..... ISBN 2-84172-232-5
 } atal0180       _?                           ?
-- .oY.     R     _COOK Glen                   Saisons funestes [Les Annales de la compagnie noire - 7] ş1996 Black Seasons şTrad. ROBERT Alain
+- .oY.     R     _COOK Glen                   Saisons funestes [Les Livres de la pierre scintillante - 1][Les Annales de la compagnie noire - 7] ş1996 Bleak Seasons şTrad. ROBERT Alain
 o ATADENT     ?  2003.04 ..... ISBN 2-84172-239-2
 } atal0181       _?                           ?
 - .oS.    kRN    _WAGNER Roland C.            L'Aube incertaine, suivi de Honor‚ … disparu [Les Futurs MystŠres de Paris] ş2003
@@ -1082,7 +1106,7 @@ o ATADENT     ?  2003.11 R.... ISBN 2-84172-255-4
 : .oS.     N     _HSI-KUO Chang               Le Retour ş2003 Gui şTrad. MORENO Lucas
 : .oS.     N     _MILLER Sylvie               L'Ombre ş2003
 : .oS.     N     _WOOD Nick                   Dieu sur ordonnance ş2002 God in the box şTrad. HERVIEUX Pascale
-: .oS.     N     _EVANGELISTI Valerio         Angry red planet ş2003 Angry red planet şTrad. VIAL Eric
+: .oS.     N     _EVANGELISTI Valerio         Angry red planet ş2003 Guerre stellari preventive / Marte distrugger… la Terra şTrad. VIAL Eric
 : .oS.     N     _GARDINI Carlos              Timbouctou ş1996 Timbuct£ şTrad. MILLER Sylvie
 : .oS.     N     _ENDE Michael                Le Corridor de Borromeo Colmi ş1992 Der korridor des Borromeo Colmi şTrad. DUVAL Claire
 : .oS.     N     _TIDHAR Lavie                Crucifixation ş2003 Crucifixation şTrad. BURY Florence
@@ -1097,10 +1121,10 @@ o ATADENT     ?  2003.11 ..... ISBN 2-84172-257-0
 !------------------------
 o ATADENT     ?  2004.01 R.... ISBN 2-84172-259-7
 } atal0196       _?                           ?
-- .oY.     R     _COOK Glen                   Elle est les t‚nŠbres - 1 [Les Annales de la compagnie noire - 8] ş1997 She Is the Darkness şTrad. REICHERT Frank
+- .oY.     R     _COOK Glen                   Elle est les t‚nŠbres - 1 [Les Livres de la pierre scintillante - 2.1][Les Annales de la compagnie noire - 8] ş1997 She Is the Darkness şTrad. REICHERT Frank
 o ATADENT     ?  2004.01 R.... ISBN 2-84172-258-9
 } atal0197       _?                           ?
-- .oY.     R     _COOK Glen                   Elle est les t‚nŠbres - 2 [Les Annales de la compagnie noire - 9] ş1997 She Is the Darkness şTrad. REICHERT Frank
+- .oY.     R     _COOK Glen                   Elle est les t‚nŠbres - 2 [Les Livres de la pierre scintillante - 2.2][Les Annales de la compagnie noire - 9] ş1997 She Is the Darkness şTrad. REICHERT Frank
 o ATADENT     ?  2004.02 R.... ISBN 2-84172-262-7
 } atal0198       _?                           ?
 - .oF.     R     _CARD Orson Scott            Les Marionnettes de l'ombre [La Saga des ombres - 3][Ender] ş2002 Shadow Puppets şTrad. MOUSNIER-LOMPRE Arnaud & CARISSIMO Luc
@@ -1145,6 +1169,9 @@ o ATADENT     ?  2004.05 ..... ISBN 2-84172-274-0
 - .oS.     R     _ESCHBACH Andreas            Le Projet Mars [Le Projet Mars - 1] ş2001 Das Marsprojekt / Das ferne Leuchten şTrad. DUVAL Claire
 o ATADENT     ?  2004.06 ..... ISBN 2-84172-276-7
 } atal0206       _?                           ?
++ ATADENT     ?  2021.11 ..... ISBN 979-10-360-0098-0
+} noimg          _Vincent Madras              ?
+!--- GF - 145x200 
 - .oS.     R     _CARD Orson Scott            La Cit‚ de cristal [Chroniques d'Alvin le Faiseur - 6] ş2003 The Crystal City şTrad. COUTON Patrick
 o ATADENT     ?  2004.08 ..... ISBN 2-84172-278-3
 } atal0207       _?                           ?
@@ -1197,10 +1224,10 @@ o ATADENT     ?  2004.11 ..... ISBN 2-84172-292-9
 !------------------------
 o ATADENT     ?  2005.01 ..... ISBN 2-84172-293-7
 } atal0216       _?                           ?
-- .oY.     R     _COOK Glen                   L'eau dort - 1 [Les Annales de la compagnie noire - 10] ş1999 Water Sleeps şTrad. REICHERT Frank
+- .oY.     R     _COOK Glen                   L'eau dort - 1 [Les Livres de la pierre scintillante - 3.1][Les Annales de la compagnie noire - 10] ş1999 Water Sleeps şTrad. REICHERT Frank
 o ATADENT     ?  2005.01 ..... ISBN 2-84172-294-5
 } atal0217       _?                           ?
-- .oY.     R     _COOK Glen                   L'eau dort - 2 [Les Annales de la compagnie noire - 11] ş1999 Water Sleeps şTrad. REICHERT Frank
+- .oY.     R     _COOK Glen                   L'eau dort - 2 [Les Livres de la pierre scintillante - 3.2][Les Annales de la compagnie noire - 11] ş1999 Water Sleeps şTrad. REICHERT Frank
 o ATADENT     ?  2005.02 ..... ISBN 2-84172-296-1
 } atal0218       _?                           ?
 - .oS.     R     _WAGNER Roland C.            Le Temps du voyage ş2005
@@ -1247,13 +1274,13 @@ o ATADENT     ?  2005.05 ..... ISBN 2-84172-306-2
 : .o .     r     _ANDERSON Poul               Le Fl‚au des maŒtres [Flandry] ş1960 A Plague of Masters / The Plague of Masters / Earthman, Go Home! şTrad. STRASCHITZ Frank
 o ATADENT     ?  2005.05 ..... ISBN 2-84172-305-4
 } atal0224       _?                           ?
-- .oY.    kR3    _COOK Glen                   Les Livres du Nord [Les Annales de la compagnie noire - 1/3] ş2005
-: .oY.     R     _COOK Glen                   La Compagnie noire [Les Annales de la compagnie noire - 1] ş1984 The Black Company şTrad. COUTON Patrick
-: .oY.     R     _COOK Glen                   Le Chƒteau noir [Les Annales de la compagnie noire - 2] ş1984 Shadows Linger şTrad. ROBERT Alain
-: .oY.     R     _COOK Glen                   La Rose blanche [Les Annales de la compagnie noire - 3] ş1985 The White Rose şTrad. ROBERT Alain
+- .oY.    kR3    _COOK Glen                   Les Livres du Nord [Les Livres du Nord - 1/3][Les Annales de la compagnie noire - 1/3] ş2005
+: .oY.     R     _COOK Glen                   La Compagnie noire [Les Livres du Nord - 1][Les Annales de la compagnie noire - 1] ş1984 The Black Company şTrad. COUTON Patrick
+: .oY.     R     _COOK Glen                   Le Chƒteau noir [Les Livres du Nord - 2][Les Annales de la compagnie noire - 2] ş1984 Shadows Linger şTrad. ROBERT Alain
+: .oY.     R     _COOK Glen                   La Rose blanche [Les Livres du Nord - 3][Les Annales de la compagnie noire - 3] ş1985 The White Rose şTrad. ROBERT Alain
 o ATADENT     ?  2005.06 ..... ISBN 2-84172-308-9
 } atal0225       _?                           ?
-- .oS.     R     _WRIGHT John C.              La Haute Transcendance - La Fin de la mascarade [Une geste de l'avenir lointain - 3] ş2003 The Golden Transcendence, or The End of the Masquerade şTrad. BREQUE Jean-Daniel
+- .oS.     R     _WRIGHT John C.              La Haute Transcendance - La Fin de la mascarade [Une geste de l'avenir lointain - 3] ş2003 The Golden Transcendence, or the End of the Masquerade şTrad. BREQUE Jean-Daniel
 o ATADENT     ?  2005.06 ..... ISBN 2-84172-307-0
 } atal0226       _?                           ?
 - .oS.     R     _GREEN Simon R.              L'Honneur de Traquemort [Saga d'Owen Traquemort - 4] ş1998 Deathstalker Honor şTrad. MOUSNIER-LOMPRE Arnaud
@@ -1306,10 +1333,10 @@ o ATADENT     ?  2005.11 ..... ISBN 2-84172-116-7
 !------------------------
 o ATADENT     ?  2006.01 ..... ISBN 2-84172-323-2
 } atal0236       _?                           ?
-- .oY.     R     _COOK Glen                   Soldats de pierre - Tome 1 [Les Annales de la compagnie noire - 12] ş2000 Soldiers Live şTrad. REICHERT Frank
+- .oY.     R     _COOK Glen                   Soldats de pierre - Tome 1 [Les Livres de la pierre scintillante - 4.1][Les Annales de la compagnie noire - 12] ş2000 Soldiers Live şTrad. REICHERT Frank
 o ATADENT     ?  2006.01 ..... ISBN 2-84172-324-0
 } atal0237       _?                           ?
-- .oY.     R     _COOK Glen                   Soldats de pierre - Tome 2 [Les Annales de la compagnie noire - 13] ş2000 Soldiers Live şTrad. REICHERT Frank
+- .oY.     R     _COOK Glen                   Soldats de pierre - Tome 2 [Les Livres de la pierre scintillante - 4.2][Les Annales de la compagnie noire - 13] ş2000 Soldiers Live şTrad. REICHERT Frank
 o ATADENT     ?  2006.01 ..... ISBN 2-84172-325-9
 } atal0238       _?                           ?
 - .oS.     R     _ESCHBACH Andreas            Le Dernier de son espŠce ş2003 Der Letzte seiner Art şTrad. DUVAL Claire
@@ -1339,8 +1366,8 @@ o ATADENT     ?  2006.05 ..... ISBN 2-84172-334-8
 o ATADENT     ?  2006.05 ..... ISBN 2-84172-335-6
 } atal0245       _?                           ?
 - .oY.    _R3    _COOK Glen                   Les Livres du Sud [Les Annales de la compagnie noire - 4/6] ş2006
-: .o .     R     _COOK Glen                   Jeux d'ombres [Les Annales de la compagnie noire - 4] ş1989 Shadow Games şTrad. ROBERT Alain
-: .o .     R     _COOK Glen                   Rˆves d'acier [Les Annales de la compagnie noire - 5] ş1990 Dreams of Steel şTrad. ROBERT Alain
+: .o .     R     _COOK Glen                   Jeux d'ombres [Les Livres du Sud - 1][Les Annales de la compagnie noire - 4] ş1989 Shadow Games şTrad. ROBERT Alain
+: .o .     R     _COOK Glen                   Rˆves d'acier [Les Livres du Sud - 2][Les Annales de la compagnie noire - 5] ş1990 Dreams of Steel şTrad. ROBERT Alain
 : .o .     R     _COOK Glen                   La Pointe d'argent [Les Annales de la compagnie noire - 6] ş1989 The Silver Spike şTrad. ROBERT Alain
 o ATADENT     ?  2006.05 ..... ISBN 2-84172-337-2
 } atal0246       _Gess                        Vincent Madras
@@ -1361,6 +1388,9 @@ o ATADENT     ?  2006.06 ..... ISBN 2-84172-339-9
 - .oY.     R     _PRATCHETT Terry             Les Ch'tits hommes libres [Les Annales du Disque-monde - 28][Le Disque-Monde] ş2003 The Wee Free Men şTrad. COUTON Patrick
 o ATADENT     ?  2006.08 ..... ISBN 2-84172-340-2
 } atal0249       _?                           ?
++ ATADENT     ?  2022.05 ..... ISBN 979-10-360-0117-8
+} noimg          _Dorian Danielsen            ?
+!--- GF - 145x200 - 512 pages - 24,50 euros
 - .oY.     R     _WELLS Martha                Chasseurs de sorciers [La Chute d'Ile-Rien - 1][Ile-Rien] ş2003 The Wizard Hunters şTrad. BELLE Anne
 o ATADENT     ?  2006.08 ..... ISBN 2-84172-344-5
 } atal0250       _?                           ?
@@ -1401,7 +1431,7 @@ o ATADENT     ?  2007.01 ..... ISBN 2-84172-354-2
 : .oS.     N     _MOUJAN OTANO Magdalena      Gu ta Gutarrak ş1970 Gu ta gutarrak / Nosotros y los nuestros şTrad. MILLER Sylvie
 : .oS.     N     _MOMMERS Helmuth W.          On est pas des sauvages, tout de mˆme ! ş2003 Wir sind doch keine Wilden ! şTrad. CHRISTOPH Vanessa & DELLA CHIESA Bruno
 : .oS.     N     _THEO Sabina                 Le Secret du sureau ş1997 ? şTrad. DELLA CHIESA H‚lŠne
-: .oS.     N     _LE GUIN Ursula K.           Trahisons [Cycle de l'Ekumen] ş1994 Betrayals şTrad. SURGERS Marie
+: .oS.     N     _LE GUIN Ursula K.           Trahisons [Cycle de l'Ekumen][Cycle de Hain] ş1994 Betrayals şTrad. SURGERS Marie
 : .oS.     N     _MERISCA Lucian              Les Tribulations v‚locip‚diques de Terriens sur Outreterria ş1981 Aventuri Œn Exterrior şTrad. SURGERS Marie
 !->- TBD plut“t : Peripe&#355;iile unor pamŒnteni Œn Exterrior , dans le volume Aventuri Œn Exterrior
 o ATADENT     ?  2006.11 ..... ISBN 2-84172-355-0
@@ -1453,9 +1483,9 @@ o ATADENT     ?  2007.04 ..... ISBN 978-2-84172-364-5
 - .oY.     R     _COOK Glen                   Chagrins de ferraille [Garrett, d‚tective priv‚ - 4] ş1989 Old Tin Sorrows şTrad. LE RUYET Jean-Fran‡ois
 o ATADENT     ?  2007.05 ..... ISBN 978-2-84172-366-9
 } atal0270       _?                           Didier Graffet
-- .oY.    kR2    _COOK Glen                   Les Livres de la pierre scintillante I [Les Annales de la compagnie noire - 7/9] ş2007
-: .oY.     R     _COOK Glen                   Saisons funestes [Les Annales de la compagnie noire - 7] ş1996 Bleak Seasons şTrad. ROBERT Alain
-: .oY.     R     _COOK Glen                   Elle est les t‚nŠbres [Les Annales de la compagnie noire - 8/9] ş1997 She Is the Darkness şTrad. REICHERT Frank
+- .oY.    kR2    _COOK Glen                   Les Livres de la pierre scintillante I [Les Livres de la pierre scintillante - 1/2][Les Annales de la compagnie noire - 7/9] ş2007
+: .oY.     R     _COOK Glen                   Saisons funestes [Les Livres de la pierre scintillante - 1][Les Annales de la compagnie noire - 7] ş1996 Bleak Seasons şTrad. ROBERT Alain
+: .oY.     R     _COOK Glen                   Elle est les t‚nŠbres [Les Livres de la pierre scintillante - 2][Les Annales de la compagnie noire - 8/9] ş1997 She Is the Darkness şTrad. REICHERT Frank
 o ATADENT     ?  2007.05 ..... ISBN 978-2-84172-367-6
 } atal0271       _?                           ?
 - .oY.     R     _PRATCHETT Terry            &La Science du Disque-monde [La Science du Disque-monde - 1][Le Disque-Monde] ş1999 The Science of Discworld şTrad. COUTON Patrick
@@ -1467,8 +1497,8 @@ o ATADENT     ?  2007.06 ..... ISBN 978-2-84172-368-3
 &                _WENTA Isabelle              
 o ATADENT     ?  2007.06 ..... ISBN 978-2-84172-370-6
 } atal0273       _?                           ?
-- .oY.    _N6    _LE GUIN Ursula K.           Quatre chemins de pardon ş1995 Four Ways to Forgiveness şTrad. SURGERS Marie
-: .oS.     N     _LE GUIN Ursula K.           Trahisons ş1994 Betrayals şTrad. SURGERS Maries
+- .oS.    _N6    _LE GUIN Ursula K.           Quatre chemins de pardon ş1995 Four Ways to Forgiveness şTrad. SURGERS Marie
+: .oS.     N     _LE GUIN Ursula K.           Trahisons [Cycle de l'Ekumen][Cycle de Hain] ş1994 Betrayals şTrad. SURGERS Marie
 : .oS.     N     _LE GUIN Ursula K.           Jour de pardon ş1994 Forgiveness Day şTrad. SURGERS Maries
 : .oS.     N     _LE GUIN Ursula K.           Un homme du peuple ş1995 A Man of the People şTrad. SURGERS Maries
 : .oS.     N     _LE GUIN Ursula K.           Lib‚ration d'une femme ş1995 A Woman's Liberation şTrad. SURGERS Maries
@@ -1479,7 +1509,7 @@ o ATADENT     ?  2007.06 ..... ISBN 978-2-84172-369-0
 - .oS.     R     _SCALZI John                 Les Brigades fant“mes [Le Vieil Homme et la guerre - 2] ş2006 The Ghost Brigades şTrad. EMERICH Bernadette
 o ATADENT     ?  2007.06 ..... ISBN 978-2-84172-372-6
 } atal0275       _?                           ?
-- .oY.    _N7    _DUNYACH Jean-Claude         S‚parations ş2007
+- .oS.    _N7    _DUNYACH Jean-Claude         S‚parations ş2007
 : .oS.     N     _DUNYACH Jean-Claude         La Ronde de nuit ş1983
 : .oS.     N     _DUNYACH Jean-Claude         Autoportrait ş1986
 : .oS.     N     _DUNYACH Jean-Claude         Libellules ş2003
@@ -1507,6 +1537,9 @@ o ATADENT     ?  2007.10 ..... ISBN 978-2-84172-386-7
 - .oY.     R     _SERVAT Gilles               La Lance de Lughern [Les Chroniques d'Arcturus - 7] ş2007
 o ATADENT     ?  2007.10 ..... ISBN 978-2-84172-384-3
 } atal0282       _?                           ?
++ ATADENT     ?  2022.11 ..... ISBN 979-10-360-0127-7
+} noimg          _Dorian Danielsen            ?
+!--- GF - Reli‚ - 155x207 - 528 pages - 24,50 euros
 - .oY.     R     _WELLS Martha                Les Vaisseaux des airs [La Chute d'Ile-Rien - 2][Ile-Rien] ş2004 The Ships of Air şTrad. BELLE Anne
 o ATADENT     ?  2007.10 ..... ISBN 978-2-84172-389-8
 } atal0283       _?                           ?
@@ -1554,9 +1587,9 @@ o ATADENT     ?  2008.03 ..... ISBN 978-2-84172-407-9
 - .oY.     R     _HOHLBEIN Wolfgang           Le Coup de grƒce [La Chronique des immortels - 3] ş2001 Der Todesstoss şTrad. HERVIEUX Pascale
 o ATADENT     ?  2008.03 ..... ISBN 978-2-84172-425-3
 } atal0296       _?                           ?
-- .oY.    kR2    _COOK Glen                   Les Livres de la pierre scintillante II [Les Annales de la compagnie noire - 10/13] ş2008
-: .oY.     R     _COOK Glen                   L'eau dort [Les Annales de la compagnie noire - 10/11] ş1999 Water Sleeps şTrad. REICHERT Frank
-: .oY.     R     _COOK Glen                   Soldats de pierre [Les Annales de la compagnie noire - 12/13] ş2000 Soldiers Live şTrad. REICHERT Frank
+- .oY.    kR2    _COOK Glen                   Les Livres de la pierre scintillante II [Les Livres de la pierre scintillante - 3/4][Les Annales de la compagnie noire - 10/13] ş2008
+: .oY.     R     _COOK Glen                   L'eau dort [Les Livres de la pierre scintillante - 3][Les Annales de la compagnie noire - 10/11] ş1999 Water Sleeps şTrad. REICHERT Frank
+: .oY.     R     _COOK Glen                   Soldats de pierre [Les Livres de la pierre scintillante - 4][Les Annales de la compagnie noire - 12/13] ş2000 Soldiers Live şTrad. REICHERT Frank
 o ATADENT     ?  2008.04 ..... ISBN 978-2-84172-417-8
 } atal0297       _?                           ?
 - .oS.     R     _CARD Orson Scott            Trahison ş1979/1988 A Planet Called Treason / Treason şTrad. BURY Florence
@@ -1906,7 +1939,7 @@ o ATADENT     ?  2011.09 ..... ISBN 978-2-84172-553-3
 - .oY.     R     _MARILLIER Juliet            Enfant de la proph‚tie - Tome 2 [Le Domaine de Septenaigue - 6] ş2001 Child of the Prophecy şTrad. BURY H‚lŠne
 o ATADENT     ?  2011.10 ..... ISBN 978-2-84172-560-1
 } atal0388       _Gess                        ?
-- .oY.     R     _CARD Orson Scott            La Porte perdue [Les Mages de Westil - 1] ş2011 The Lost Gate şTrad. BREQUE Jean-Daniel
+- .oY.     R     _CARD Orson Scott            La Porte perdue [Les Mages de Westil - 1] ş2010 The Lost Gate şTrad. BREQUE Jean-Daniel
 o ATADENT     ?  2011.10 ..... ISBN 978-2-84172-561-8
 } atal0389       _Beet                        ?
 - .oF.     R     _NEGRETE Javier              Yugaro‹ - La Nuit des dieux [Chronique de Tramor‚e - 3] ş2010 El sue¤o de los dioses şTrad. JOSSE Christophe
@@ -2028,7 +2061,7 @@ o ATADENT     ?  2012.10 ..... ISBN 978-2-84172-612-7
 - .oS.     R     _PAQUET Olivier              Le Melkine [Le Melkine - 1] ş2012
 o ATADENT     ?  2012.11 ..... ISBN 978-2-84172-621-9
 } atal0419       _Beet                        ?
-- .oY.     R     _NEGRETE Javier              Agarta - Le Coeur de Tramor‚e [Chronique de Tramor‚e - 4] ş2011 El coraz¢n de Tram¢rea şTrad. JOSSE Christophe
+- .oY.     R     _NEGRETE Javier              Agarta - Le Coeur de Tramor‚e I [Chronique de Tramor‚e - 4] ş2011 El coraz¢n de Tram¢rea şTrad. JOSSE Christophe
 o ATADENT     ?  2012.10 ..... ISBN 978-2-84172-608-0
 } atal0420       _Miguel Coimbra              ?
 - .oY.     R     _WEBER David                 Cavaliers du vent - Tome 1 [Le Dieu de la guerre - 3.1] ş2004 Wind Rider's Oath şTrad. REICHERT Frank
@@ -2131,10 +2164,6 @@ o ATADENT     ?  2013.09 ..... ISBN 978-2-84172-648-6
 o ATADENT     ?  2013.10 ..... ISBN 978-2-84172-650-9
 } atal0447       _KIDBY Paul                  ?
 - .oHF     R     _PRATCHETT Terry             Roublard ş2012 Dodger şTrad. COUTON Patrick
-?o ATADENT     ?  2013.10 ..... ISBN 978-2-84172-650-9
-?} noimg          _DENNIS Peter                ?
-?!--- TBD Genre - limite
-?- .oHF     R     _PRATCHETT Terry             Le Monde merveilleux du caca, par Mlle F‚licit‚ Bidel ş2012 Miss Felicity Beedle's The World of Poo şTrad. COUTON Patrick
 o ATADENT     ?  2013.10 ..... ISBN 978-2-84172-652-3
 } atal0448       _CARRE Benjamin              ?
 - .oS.     R     _CARD Orson Scott           &Avertir la Terre [La PremiŠre Guerre formique - 1][Ender] ş2012 Earth Unaware şTrad. BURY Florence
@@ -2228,7 +2257,6 @@ o ATADENT     ?  2014.10 ..... ISBN 978-2-84172-685-1
 - .oF.     R     _CAREY M. R.                 Celle qui a tous les dons ş2014 The Girl With All the Gifts şTrad. MEGE Nathalie
 o ATADENT     ?  2014.10 ..... ISBN 978-2-84172-684-4
 } atal0474       _DEFOSSEZ Rapha‰l            ?
-!--- TBD ou      _SIERRA Xavier de            ?
 - .oY.     R     _MEYER Kai                   La Guerre des voeux [Les Seigneurs des tempˆtes - 2] ş2009 Wunschkrieg şTrad. DEBORD Didier
 o ATADENT     ?  2014.11 ..... ISBN 978-2-84172-688-2
 } atal0475       _KIDBY Paul                  ?
@@ -2240,19 +2268,21 @@ o ATADENT     ?  2014.11 ..... ISBN 978-2-84172-687-5
 - .oY.     G     _PRATCHETT Terry             Tout Ankh-Morpork - Guide touristique exhaustif [Le Disque-Monde] ş2012 The Compleat Ankh-Morpork: City Guide şTrad. COUTON Patrick
 o ATADENT     ?  2014.11 ..... ISBN 978-2-84172-696-7
 } atal0477       _?                           ?
-- .pS.    iN12   _SERVAT Gilles               Couleurs ş2014
-?: .o .     N     _SERVAT Gilles               Pen ar bed ş2014
-?: .o .     N     _SERVAT Gilles               Comment on devient Grain-de-Poivre ş2014
-?: .o .     N     _SERVAT Gilles               Couleurs ş2014
-?: .oS.     N     _SERVAT Gilles               Le Messager ş2014
-?: .o .     N     _SERVAT Gilles               Paul et Antoinette ş2014
-?: .o .     N     _SERVAT Gilles               OnziŠme ş2014
-?: .o .     N     _SERVAT Gilles               Tr‚gor ş2014
-?: .o .     N     _SERVAT Gilles               Les Chevaux de mer ş2014
-?: .o .     N     _SERVAT Gilles               Je suis un ours ş2014
-?: .o .     N     _SERVAT Gilles               G.P.E. ş2014
-?: .o .     N     _SERVAT Gilles               Passage Pommeraye ş2014
-?: .o .     N     _SERVAT Gilles               Le Cochon de Mac Dath¢ ş2014
+>--- Les Boyaux du cochon de Mac Datho est en fait une petite partition musicale, parole et musique de l'auteur.
+- .pS.    kN12   _SERVAT Gilles               Couleurs ş2014
+: .x .     N     _SERVAT Gilles               Pen ar bed ş2014
+: .oF.     N     _SERVAT Gilles               Comment on devient Grain-de-Poivre ş2014
+: .x .     N     _SERVAT Gilles               Couleurs ş2014
+: .x .     N     _SERVAT Gilles               Passage Pommeraye ş2014
+: .o .     N     _SERVAT Gilles               Je suis un ours ş2014
+: .oS.     N     _SERVAT Gilles               G.P.E. ş2014
+: .oS.     N     _SERVAT Gilles               Le Messager ş2014
+: .x .     N     _SERVAT Gilles               Paul et Antoinette ş2014
+: .x .     N     _SERVAT Gilles               OnziŠme ş2014
+: .x .     N     _SERVAT Gilles               Tr‚gor ş2014
+: .o .     N     _SERVAT Gilles               Les Chevaux de mer ş2014
+: .o .     N     _SERVAT Gilles               Le Cochon de Mac Dath¢ ş2014
+: .o .     c     _SERVAT Gilles               Les Boyaux du cochon de Mac Dath¢ ş2014
 o ATADENT     ?  2014.11 ..... ISBN 978-2-84172-693-6
 } atal0478       _TARDI                       ?
 - .oS.    kRN2   _SCALZI John                 Humanit‚ divis‚e [Le Vieil Homme et la guerre] ş2013 The Human Division şTrad. CABON Mikael
@@ -2451,7 +2481,7 @@ o ATADENT     ?  2016.06 ..... ISBN 978-2-84172-767-4
 : .o .     N     _BORDAGE Pierre              Hier je vous donnerai de mes nouvelles ş2016
 : .oS.     N     _BORDAGE Pierre              En suspens ş2010
 : .oY.     N     _BORDAGE Pierre              L'Autre Bord ş2012
-: .oS.     N     _BORDAGE Pierre              Le Pacte ş2014
+: .oS.     N     _BORDAGE Pierre              Le Pacte ş2012
 : .o .     N     _BORDAGE Pierre              La Petite Fille au regard per‡ant ş2009
 : .o .     N     _BORDAGE Pierre              Terre promise ş2011
 : .o .     N     _BORDAGE Pierre              La DerniŠre Affaire de Sagamor ş2013
@@ -2465,7 +2495,11 @@ o ATADENT     ?  2016.06 ..... ISBN 978-2-84172-767-4
 : .o .     N     _BORDAGE Pierre              Origo ş2012
 o ATADENT     ?  2016.08 ..... ISBN 978-2-84172-766-7
 } atal0515       _Cl‚mence Haller             ?
-- .oS.     R     _CHAMBERS Becky              L'Espace d'un an [Les Voyageurs (B. Chambers) - 3] ş2015 The Long Way to a Small, Angry Planet şTrad. SURGERS Marie
+- .oS.     R     _CHAMBERS Becky              L'Espace d'un an [Les Voyageurs (B. Chambers) - 1] ş2015 The Long Way to a Small, Angry Planet şTrad. SURGERS Marie
+o ATADCOL     ?  2022.05 ..... ISBN 979-10-360-0114-7
+} noimg          _Nicolas Sarter              ?
+!--- GF - 145x200 - 448 pages - 26,50 euros
+- .oS.     R     _CHAMBERS Becky              L'Espace d'un an [Les Voyageurs (B. Chambers) - 1] ş2015 The Long Way to a Small, Angry Planet şTrad. SURGERS Marie
 o ATADENT     ?  2016.08 ..... ISBN 978-2-84172-777-3
 } atal0516       _Aur‚lien Police             ?
 - .oS.     R     _PAQUET Olivier              Jardin d'hiver ş2016
@@ -2551,12 +2585,12 @@ o ATADENT     ?  2017.04 ..... ISBN 978-2-84172-807-7
 : .o .     N     _ZAHN Timothy                D'une pierre... ş2003 With One Stone
 : .o .     N     _RINGO John                 &Un vaisseau nomm‚ Francis ş2003 A Ship Named Francis
 &                _MITCHELL Victor             
-: .o .     N     _RINGO John                  Partons pour Prague ş2003 Let's Go To Prague
+: .o .     N     _RINGO John                  Partons pour Prague ş2003 Let's Go to Prague
 : .o .     N     _FLINT Eric                  Fanatique ş2003 Fanatic
 : .o .     N     _WEBER David                 Au service du sabre ş2003 The Service of the Sword
 o ATADENT     ?  2017.05 ..... ISBN 978-2-84172-760-5
 } noimg          _Gilles Fransescano          ?
-- .oY.     r     _DUNYACH Jean-Claude         L'Enfer du Troll ş2017
+- .oY.     r     _DUNYACH Jean-Claude         L'Enfer du troll ş2017
 o ATADENT     ?  2017.05 ..... ISBN 978-2-84172-808-4
 } noimg          _Killian Prevost             ?
 - .oS.     R     _ESCHBACH Andreas            Aquamarine ş2015 Aquamarin şTrad. DUVAL Claire
@@ -2568,6 +2602,10 @@ o ATADENT     ?  2017.06 ..... ISBN 978-2-84172-810-7
 - .oS.     R     _HONSINGER H. Paul           Rapprochement … gisement constant [De haut bord - 2] ş2013 For Honor We Stand şTrad. REICHERT Frank
 o ATADENT     ?  2017.06 ..... ISBN 978-2-84172-811-4
 } noimg          _Cl‚mence Haller             ?
+- .oS.     R     _CHAMBERS Becky              Libration [Les Voyageurs (B. Chambers) - 2] ş2016 A Closed and Common Orbit şTrad. SURGERS Marie
+o ATADCOL     ?  2022.11 ..... ISBN 979-10-360-0126-0
+} noimg          _Nicolas Sarter              ?
+!--- 145 x 200 - 384 pages - 26,50 euros
 - .oS.     R     _CHAMBERS Becky              Libration [Les Voyageurs (B. Chambers) - 2] ş2016 A Closed and Common Orbit şTrad. SURGERS Marie
 o ATADENT     ?  2017.08 ..... ISBN 978-2-84172-820-6
 } noimg          _Pierre Bourgerie            ?
@@ -2605,10 +2643,10 @@ o ATADENT     ?  2017.10 ..... ISBN 978-2-84172-839-8
 : .o .     N     _PAQUET Olivier              Rudyard Kipling 2210 ş2002
 : .oS.     N     _PAQUET Olivier              Cauchemar d'enfant ş2003
 : .oS.     N     _PAQUET Olivier              Une fille aux pieds nus ş2017
-?o ATADENT     ?  2017.10 ..... ISBN 978-2-84172-832-9
-?} noimg          _Mark Beech                  ?
-?!---TBD          _Rapha‰l Defossez / Pal Hansen
-?- .x .     ?     _PRATCHETT Terry             Lapsus clavis ş2014 A Slip of the Keyboard: Collected Non-Fiction şTrad. ?
+o ATADENT     ?  2017.10 ..... ISBN 978-2-84172-832-9
+} noimg          _Rapha‰l Defossez / Pal Hansen
+!--- Articles de presse, lettres, discours, souvenirs, r‚flexions...
+- .o .     E     _PRATCHETT Terry             Lapsus clavis ş2014 A Slip of the Keyboard: Collected Non-Fiction şTrad. COUTON Patrick
 o ATADENT     ?  2017.11 ..... ISBN 978-2-84172-840-4
 } noimg          _Pierre Bourgerie            ?
 - .oS.     r     _SAWYER Jamie                IntermŠde - R‚demption [Lazare en guerre] ş2015 Redemption şTrad. BURY Florence
@@ -2643,7 +2681,7 @@ o ATADENT     ?  2018.02 ..... ISBN 978-2-84172-845-9
 : .o .     N     _GLUKHOVSKY Dmitry           Une pour tous ş2010 Odna na vsekh şTrad. ?
 : .o .     N     _GLUKHOVSKY Dmitry           Apparition ş2010 Iavlenie şTrad. ?
 : .o .     N     _GLUKHOVSKY Dmitry           Toucher le fond ş2010 Na dne şTrad. ?
-: .o .     N     _GLUKHOVSKY Dmitry           Deus ex machina ş2010 Deux ex Machina şTrad. ?
+: .o .     N     _GLUKHOVSKY Dmitry           Deux ex machina ş2010 Deux ex Machina şTrad. ?
 : .o .     N     _GLUKHOVSKY Dmitry           Pas de ce monde ş2010 Ne ot mira sego şTrad. ?
 : .o .     N     _GLUKHOVSKY Dmitry           Avant et aprŠs ş2008 Do i posle şTrad. ?
 o ATADENT     ?  2018.03 ..... ISBN 978-2-84172-852-7
@@ -2704,7 +2742,7 @@ o ATALANT     ?  2018.06 ..... ISBN 978-2-84172-863-3
 : .o .     N     _PRATCHETT Terry             Rincepresse, le gnome de la lande morte ş1966 Rincemangle, the Gnome of Even Moor şTrad. COUTON Patrick
 o ATADENT     ?  2018.08 ..... ISBN 978-2-84172-870-1
 } noimg          _Rapha‰l Defossez            ?
-- .oY.     R     _KAY Guy Gavriel             Enfants de la Terre et du Ciel ş2016 Children of Earth and Sky şTrad. CABON Mikael
+- .oY.     R     _KAY Guy Gavriel             Enfants de la Terre et du Ciel [La Mosa‹que sarantine] ş2016 Children of Earth and Sky şTrad. CABON Mikael
 o ATADENT     ?  2018.08 ..... ISBN 978-2-84172-869-5
 } noimg          _Julie Manescau              ?
 - .oF.     R     _LEBOULANGER Camille         Malboire ş2018
@@ -2725,7 +2763,7 @@ o ATADENT     ?  2018.10 ..... ISBN 978-2-84172-875-6
 - .oF.     R     _DUFOUR Catherine            Entends la nuit ş2018
 o ATADENT     ?  2018.10 ..... ISBN 978-2-84172-880-0
 } atal0569       _Mark Beech                  ?
-- .oY.    iN11   _PRATCHETT Terry             La Fausse Barbe du PŠre No‰l ş2017 Father Christmas's Fake Beard şTrad. COUTON Patrick
+- .oY.    iNx    _PRATCHETT Terry             La Fausse Barbe du PŠre No‰l ş2017 Father Christmas's Fake Beard şTrad. COUTON Patrick
 o ATADENT     ?  2018.11 ..... ISBN 978-2-84172-881-7
 } noimg          _David Demaret               ?
 - .oS.     R     _CAMPBELL Jack               Ascendant [La GenŠse de la flotte - 2][La Flotte perdue] ş2018 Ascendant şTrad. REICHERT Frank
@@ -2789,7 +2827,7 @@ o ATADENT     ?  2019.09 ..... ISBN 979-10-360-0013-3
 - .oY.     R     _KAY Guy Gavriel             Voile vers Sarance [La Mosa‹que sarantine - 1] ş1998 Sailing to Sarantium şTrad. CABON Mikael
 o ATADENT     ?  2019.10 ..... ISBN 979-10-360-0019-5
 } noimg          _Jos‚phine Cardin            ?
-- .oF.     R     _DIATCHENKO Marina          &Vita Nostra ş2007 Vita Nostra şTrad. SAVINE Denis E.
+- .oF.     R     _DIATCHENKO Marina          &Vita Nostra [Les M‚tamorphoses - 1] ş2007 Vita Nostra şTrad. SAVINE Denis E.
 &                _DIATCHENKO Serguei          
 o ATADENT     ?  2019.10 ..... ISBN 979-10-360-0021-8
 } noimg          _Cl‚mence Haller             ?
@@ -2858,30 +2896,185 @@ o ATADENT     ?  2020.10 ..... ISBN 979-10-360-0058-4
 !--- GF - 14,5 x 20 cm - 608 pages - 27,90 euros
 - .oY.     R     _KAY Guy Gavriel             Le Seigneur des empereurs [La Mosa‹que sarantine - 2] ş2000 Lord of Emperors şTrad. CABON Mikael
 o ATADENT     ?  2020.10 ..... ISBN 979-10-360-0057-7
-} noimg          _Paul Kidby                  Paul Kidby
+} atal0606       _Paul Kidby                  Paul Kidby
 !--- GF - 240 x 240 mm - 240 pages - 35,00 euros
-- .oY.     G     _PRATCHETT Terry            &Les Archives d'Ankh Morpork [Le Disque-Monde] ş2019 The Ankh-Morpork Archives şTrad. COUTON Patrick
+- .oY.     G4    _PRATCHETT Terry            &Les Archives d'Ankh Morpork [Le Disque-Monde] ş2019 The Ankh-Morpork Archives şTrad. COUTON Patrick
 &                _BRIGGS Stephen                 
-: .oY.     G     _PRATCHETT Terry            &L'Universit‚ de l'invisible [Le Disque-Monde] ş1998 Discworld's Unseen University Diary
+: .oY.     G     _PRATCHETT Terry            &L'Universit‚ de l'invisible [Le Disque-Monde] ş1998 Discworld's Unseen University Diary / Unsse University şTrad. COUTON Patrick
 &                _BRIGGS Stephen                 
-: .oY.     G     _PRATCHETT Terry            &La Guilde des assassins [Le Disque-Monde] ş2000 Discworld Assassins' Guild Yearbook and Diary
+: .oY.     G     _PRATCHETT Terry            &La Guilde des assassins [Le Disque-Monde] ş2000 Discworld Assassins' Guild Yearbook and Diary / Assassin's Guild şTrad. COUTON Patrick
 &                _BRIGGS Stephen                 
-: .oY.     G     _PRATCHETT Terry            &La Guilde des voleurs [Le Disque-Monde] ş2002 Discworld Thieves' Guild Yearbook and Diary
+: .oY.     G     _PRATCHETT Terry            &La Guilde des voleurs [Le Disque-Monde] ş2002 Discworld Thieves' Guild Yearbook and Diary / Thieve's Guild şTrad. COUTON Patrick
 &                _BRIGGS Stephen                 
-: .oY.     G     _PRATCHETT Terry            &La Poste [Le Disque-Monde] ş2007 Ankh-Morpork Post Office Handbook
+: .oY.     G     _PRATCHETT Terry            &La Poste [Le Disque-Monde] ş2007 Ankh-Morpork Post Office Handbook / Post Office şTrad. COUTON Patrick
 &                _BRIGGS Stephen                 
+!------------------------
+!=== 2021
+!------------------------
+o ATADENT     ?  2021.01 ..... ISBN 979-10-360-0060-7
+} noimg          _BenoŒt Bourgerie            ?
+!--- GF - 145 x 200 - 432 pages
+- .oS.     R     _SAWYER Jamie                AvŠnement [La Guerre sans fin - 3] ş2019 Dominion şTrad. BURY Florence
+o ATADENT     ?  2021.02 ..... ISBN 979-10-360-0066-9
+} noimg          _Gilles Francescano          ?
+!--- GF - 145 x 200 - 191 pages
+- .o .     R     _DUNYACH Jean-Claude         L'Empire du troll ş2021
+o ATADENT     ?  2021.02 ..... ISBN 979-10-360-0065-2
+} noimg          _Sparth                      ?
+!--- GF - 145 x 200 - 320 pages
+- .oS.     R     _SCALZI John                 La DerniŠre Emperox [L'Interd‚pendance - 3] ş2020 The Last Emperox şTrad. CABON Mikael
+o ATADENT     ?  2021.03 ..... ISBN 979-10-360-0070-6
+} noimg          _Mirko Failoni               ?
+!--- GF - 145 x 200 - 462 pages
+- .oS.     R     _BORDAGE Pierre              Rive Droite [M‚tro Paris 2033 - 2] ş2021
+o ATADENT     ?  2021.03 ..... ISBN 979-10-360-0071-3
+} noimg          _Anna Bertreux               ?
+!--- GF - 145 x 200 - 312 pages
+- .o .     R     _LEBOULANGER Camille         Ru ş2021
+o ATADENT     ?  2021.04 ..... ISBN 979-10-360-0073-7
+} noimg          _Yann Tisseron               ?
+!--- GF - 145 x 200 - 368 pages
+- .o .     R     _GODDYN R‚gis                Le Sang des 7 rois - Pr‚lude I [Le Sang des 7 rois - 8] ş2021
+o ATADENT     ?  2021.04 ..... ISBN 979-10-360-0074-4
+} atal0613       _Benjamin Carr‚              ?
+!--- GF - 145 x 200 - 144 pages
+- .oFS     N2    _CLARK P. DjŠl¡              Les Tambours du dieu noir, suivi de L'‚trange affaire du djinn du Caire ş2021
+: .o .     r     _CLARK P. DjŠl¡              Les Tambours du dieu noir ş2018 The Black God's Drums şTrad. MONTIER Mathilde
+: .o .     N     _CLARK P. DjŠl¡              L'trange Affaire du djinn du Caire ş2016 A Dead Djinn in Cairo şTrad. MONTIER Mathilde
+o ATADENT     ?  2021.05 ..... ISBN 979-10-360-0076-8
+} noimg          _Divers                      ?
+!--- GF - 145x200 
+- .oF.     R     _DIATCHENKO Marina          &Num‚rique [Les M‚tamorphoses - 2] ş2009 Brevis est şTrad. SAVINE Denis E.
+&                _DIATCHENKO Serguei          
+o ATADENT     ?  2021.06 ..... ISBN 979-10-360-0082-9
+} noimg          _Stephan MartiniŠre          ?
+!--- GF - 145x200 
+- .o .     R     _CLARK P. DjŠl¡              Le MystŠre du Tramway hant‚ ş2019 The Haunting of Tram Car 015 şTrad. MONTIER Mathilde
+o ATADENT     ?  2021.08 ..... ISBN 979-10-360-0062-1
+} atal0619       _Manchu                      ?
+!--- GF - 145x200  - 1598 pages - 29.90 euros
+- .oS.     R3    _SUHNER Laurence             QuanTika [QuanTika - 1/3] ş2021
+: .oS.     R     _SUHNER Laurence             Vestiges [QuanTika - 1] ş2012
+: .oS.     R     _SUHNER Laurence             L'Ouvreur des chemins [QuanTika - 2] ş2013
+: .oS.     R     _SUHNER Laurence             Origines [QuanTika - 3] ş2015
+o ATADENT     ?  2021.08 ..... ISBN 979-10-360-0083-6
+} noimg          _Julien Delval               ?
+!--- GF - 145x200 - 560 pages
+- .o .     R     _KAY Guy Gavriel             Les Derniers Feux du soleil ş2004 The Last Light of the Sun şTrad. CABON Mikael
+o ATADENT     ?  2021.08 ..... ISBN 979-10-360-0084-3
+} noimg          _Leraf                       ?
+!--- GF - 145x200 - 144 pages
+- .oS.     r     _WELLS Martha                T‚l‚m‚trie fugitive [Journal d'un AssaSynth - 6] ş2021 Fugitive Telemetry şTrad. MONTIER Mathilde
+o ATADENT     ?  2021.09 ..... ISBN 979-10-360-0086-7
+} noimg          _Dorian Danielsen & V‚ronique Meignaud
+!--- GF - 145x200 - 416 pages - 23,90 euros
+- .oS.     R     _CAREY M. R.                 Le Livre de Koli [Remparts - 1] ş2020 The Book of Koli şTrad. COUTON Patrick
+o ATADENT     ?  2021.10 ..... ISBN 979-10-360-0091-1
+} noimg          _Manchu                      ?
+!--- GF - 145x200 - 560 pages
+- .oS.     R     _SUHNER Laurence             Celle qui sait [Ziusudra] ş2021
+o ATADENT     ?  2021.10 ..... ISBN 979-10-360-0092-8
+} noimg          _Dorian Danielsen            ?
+!--- GF - 145x200 - 176 pages
+- .o .     r     _CLARK P. DjŠl¡              Ring Shout ş2020 Ring Shout şTrad. MONTIER Mathilde
+o ATADENT     ?  2021.11 ..... ISBN 979-10-360-0088-1
+} atal0623       _Paul Kidby                  Paul Kidby
+!--- GF - 240x204 - 252 pages - 53 euros
+- .oY.     G4    _PRATCHETT Terry            &Les Archives d'Ankh Morpork - Volume II [Le Disque-Monde] ş2020 The Ankh-Morpork Archives - Volume II şTrad. COUTON Patrick
+&                _BRIGGS Stephen                 
+: .oY.     G     _PRATCHETT Terry            &Le Guet municipal [Le Disque-Monde] ş1998 Discworld's Ankh-Morpork City Watch Diary / City Watch
+&                _BRIGGS Stephen                 
+: .oY.     G     _PRATCHETT Terry            &La Guilde des fous [Le Disque-Monde] ş2000 Discworld Fools' Guild Yearbook and Diary / Fool's Guild
+&                _BRIGGS Stephen                 
+: .oY.     G     _PRATCHETT Terry            &Les Vampyres repentis [Le Disque-Monde] ş2002 Discworld (Reformed) Vampyre's Diary / Reformed Vampyres
+&                _BRIGGS Stephen                 
+: .oY.     G     _PRATCHETT Terry            &Lou-ts‚ [Le Disque-Monde] ş2007 Lu-Tze's Yearbook of Enlightenment / Lu-Tze
+&                _BRIGGS Stephen                 
+o ATADENT     ?  2021.11 ..... ISBN 979-10-360-0094-2
+} noimg          _David Demaret               ?
+!--- GF - 145x200 
+- .oS.     R     _CAMPBELL Jack               Triomphant [La GenŠse de la flotte - 3][La Flotte perdue] ş2019 Triumphant şTrad. PAGEL Michel
+!------------------------
+!=== 2022
+!------------------------
+o ATADENT     ?  2022.01 ..... ISBN 979-10-360-0099-7
+} atal0625       _Leraf                       ?
+!--- GF - 145x200 - 432 pages - 21,90 euros
+- .oS.     R     _Les Agglom‚r‚.e.s           Subtil b‚ton ş2022
+o ATADENT     ?  2022.02 ..... ISBN 979-10-360-0102-4
+} atal0625       _Julien Pacaud               ?
+!--- GF - 145x200 - 240 pages - 12,90 euros
+- .oS.    kN10   _LIGNY Jean-Marc             Dix l‚gendes des ƒges sombres ş2022
+: .o .     p     _LIGNY Jean-Marc             Un petit mot de l'auteur ş2022
+: .o .     N     _LIGNY Jean-Marc             L'Ouragan ş2000
+: .o .     N     _LIGNY Jean-Marc             Lettre … Elise ş2001
+: .o .     N     _LIGNY Jean-Marc             La Route du Nord ş2009
+: .o .     N     _LIGNY Jean-Marc             Le Porteur d'eau ş2009
+: .o .     N     _LIGNY Jean-Marc             Mission divine ş2016
+: .o .     N     _LIGNY Jean-Marc             Le D‚sert ş2018
+: .o .     N     _LIGNY Jean-Marc             2030/2300 ş2020
+: .o .     N     _LIGNY Jean-Marc             La FrontiŠre ş2020
+: .o .     N     _LIGNY Jean-Marc             L'A‚roport ş2020
+: .o .     N     _LIGNY Jean-Marc             La Horde ş2022
+o ATADENT     ?  2022.02 ..... ISBN 979-10-360-0101-7
+} noimg          _St‚phane MartiniŠre         ?
+!--- 145 x 200 - 480 pages - 26,50 euros
+- .o .     R     _CLARK P. DjŠl¡              MaŒtre des djinns ş2021 A Master of Djinn şTrad. MONTIER Mathilde
+o ATADCOL     ?  2022.02 ..... ISBN 979-10-360-0104-8
+} noimg          _St‚phane MartiniŠre         ?
+!--- Reli‚ - 145 x 200 - 480 pages - 28,50 euros - Tirage limit‚
+- .o .     R     _CLARK P. DjŠl¡              MaŒtre des djinns ş2021 A Master of Djinn şTrad. MONTIER Mathilde
+o ATADENT     ?  2022.03 ..... ISBN 979-10-360-0087-4
+} noimg          _Dorian Danielsen            ?
+!--- GF - 145x200 - 304 pages - 19,90 euros
+- .oF.     R     _HELIOT Johan                Les Enfants de la terreur ş2022
+o ATADENT     ?  2022.03 ..... ISBN 979-10-360-0103-1
+} noimg          _Dorian Danielsen            ?
+!--- GF - 145x200 - 448 pages - 24,50 euros
+- .oS.     R     _CAREY M. R.                 Les preuves de Koli [Remparts - 2] ş2020 The Trials of Koli şTrad. COUTON Patrick
+o ATADENT     ?  2022.04 ..... ISBN 979-10-360-0106-2
+} noimg          _Mirko Failoni               ?
+!--- GF - 145x200 - 464 pages - 24,50 euros
+- .oS.     R     _BORDAGE Pierre              Cit‚ [M‚tro Paris 2033 - 3] ş2022
+o ATADENT     ?  2022.04 ..... ISBN 979-10-360-0108-6
+} noimg          _Yann Tisseron               ?
+!--- GF - 145x200 - 368 pages - 22,50 euros
+- .o .     R     _GODDYN R‚gis                Le Sang des 7 rois - Pr‚lude II [Le Sang des 7 rois - 9] ş2022
+o ATADENT     ?  2022.05 ..... ISBN 979-10-360-0110-9
+} noimg          _David Palumbo               ?
+!--- GF - 145x200 - 96 pages - 8,90 euros
+- .oS.     r     _CAMPBELL Jack               Le Suprˆme Sacrifice ş2013 The Last Full Measure şTrad. MONTIER Mathilde
+o ATADENT     ?  2022.08 ..... ISBN 979-10-360-0120-8
+} noimg          _Matthew Revert              ?
+!--- GF - 145x200 - 248 pages - 16,90 euros
+- .o .     R     _CHAPLINSKY Joshua           Les Jumeaux du paradoxe ş2021 The Paradox Twins şTrad. CABON Mikael
+o ATADENT     ?  2022.08 ..... ISBN 979-10-360-0121-5
+} noimg          _Aur‚lien Police             ?
+!--- GF - 145x200 - 272 pages - 19,90 euros
+- .o .     R     _PAQUET Olivier              Composite ş2022
+o ATADENT     ?  2022.09 ..... ISBN 979-10-360-0119-2
+} noimg          _Feifei Ruan                 ?
+!--- GF - 145x200 - 136 pages - 12,90 euros
+- .o .     r     _CHAMBERS Becky              Un psaume pour les recycl‚s sauvages [Histoires de moine et de robot - 1] ş2021 A Psalm for the Wild-Built şTrad. SURGERS Marie
+o ATADENT     ?  2022.09 ..... ISBN 979-10-360-0124-6
+} noimg          _Dorian Danielsen & V‚ronique Meignaud
+!--- GF - 145x200 - 528 pages - 26,50 euros
+- .oS.     R     _CAREY M. R.                 La Chute de Koli [Remparts - 3] ş2021 The Falls of Koli şTrad. COUTON Patrick
 
 
 
 
-!--- TBD : 
-o ATADENT    HS  2005.10 ..... ISBN 2-84172-319-4
+
+o ATADENT     ?  2005.10 ..... ISBN 2-84172-319-4
 } noimg          _?                           ?
-- .oF.     R     _--- (anonyme)               Kelo— Pennmoc'h Mab Dath¢. Le Cochon de Mac Dath¢ ş2005 Sc‚la Muicce Meic Dath¢ şTrad. SERVAT Gilles
+!--- in-12 - 40 pages
+!--- Trilingue : "Ceci n'est pas la traduction litt‚rale mais l'adaptation en fran‡ais de Sc‚la Muicce Meic Dath¢. Suit une traduction plus proche
+!--- de l'original, en breton, qui mieux que le fran‡ais se prˆte … la traduction du ga‚lique sans perdre sa saveur."
+- .oF.     N     _--- (anonyme)               Kelo— Pennmoc'h Mab Dath¢. Le Cochon de Mac Dath¢ ş2005 Sc‚la Muicce Meic Dath¢ şAdapt. SERVAT Gilles
 
 
 !-----------------------------------------------------------------------------
-!--- Coll. Romans, etc...
+!--- Collection Romans, etc...
 !--- Autres collections ou hors collection
 !-----------------------------------------------------------------------------
 o ATA_ROM     ?  1988.01 ..... ISBN 2-84172-122-1
@@ -2911,12 +3104,20 @@ o ATA_ROM     ?  2004.06 ..... ISBN 2-84172-277-5
 
 o ATADENT     ?  2015.01 ..... ISBN 978-2-84172-698-1
 } atal0051rr15   _?                           Rapha‰l Defossez
++ ATADENT     ?  2022.10 ..... ISBN 979-10-360-0128-4
+} atal0051rr22   _Charles Ernest Butler       ?
+!--- MF - 145 x 200 - 1056 pages
 - .oY.     R     _MALORY Thomas               Le Roman du Roi Arthur et de ses chevaliers de la Table Ronde ş1485 Le Morte D'Arthur şTrad. GOUBERT Pierre
 
 o ATALEHA     ?  2020.11 ..... ISBN 979-10-360-0059-1
 } noimg          _Aur‚lien Police             ?
 !--- GF
 - .oS.     G     *CHERY Lloyd                 Dune - le Mook ş2020
+o ATALEHA     ?  2021.09 ..... ISBN ?
+} noimg          _Aur‚lien Police             ?
+!--- GF
+!--- Le Mook Dune devient Tout sur Dune, un beau-livre augment‚ de 48 pages d'articles, d'entretiens et d'images in‚dites. 
+- .oS.     G     *CHERY Lloyd                 Tout sur Dune ş2020-2021
 
 !-----------------------------------------------------------------------------
 !--- policiers/Roman noir
@@ -2926,7 +3127,7 @@ o ATA_POL     ?  1999.xx ..... ISBN .-.....-...-.
 - .x .     R     _FAST Howard                 Spartacus ş? ?
 
 !-----------------------------------------------------------------------------
-_ ATAMAED L'Atalante, Le MaŠdre
+_ ATAMAED L'Atalante - Le MaŠdre
 !-----------------------------------------------------------------------------
 !--- Puis "Atalante Jeunesse"
 !--- Puis "Young Adult"
@@ -3134,15 +3335,9 @@ o ATAMAED     ?  2015.11 ..... ISBN 978-2-84172-741-4
 !=== 2016
 !------------------------
 
-?o ATAMAED     ?  2000.xx ..... ISBN 978-2-84172-518-2
-?!--- TBD Parution
-?!--- ‚dition totalement revue
-?} noimg          _?                           ?
-?- .oF.     R     _LIGNY Jean-Marc             Les Voleurs de rˆves ş?
-
 
 !-----------------------------------------------------------------------------
-_ ATAL_IF L'Atalante, Insomniaques et ferroviaires
+_ ATAL_IF L'Atalante - Insomniaques et ferroviaires
 !-----------------------------------------------------------------------------
 o ATAL_IF     ?  1990.04 ..... ISBN 2-905158-24-7
 } noimg          _?                           ?
@@ -3216,7 +3411,7 @@ o ATAL_IF     ?  2000.05 ..... ISBN 2-84172-134-5
 : .o .     p     _LACOURBE Roland             Introduction ş2000
 !--- Histoires criminelles
 : .! .     N     _SHORE Viola Brothers        L'trange Affaire Mackenzie ş?
-: .! .     N     _HARDWICK Richard            Mar‚e haute ş1963 High Tide
+: .x .     N     _HARDWICK Richard            Mar‚e haute ş1963 High Tide
 : .! .     N     _GILFORD C.B.                Plut“t mourir dans l'eau profonde ş?
 : .! .     N     _ZUROY Michael               L'Appel de la mer ş?
 : .! .     N     _WALTON Bryce                Le Temps des requins ş1974 A Time for Sharks
@@ -3259,7 +3454,7 @@ o ATAL_IF     ?  2005.02 ..... ISBN 2-84172-297-X
 } atalif11       _Nicolas de la CasiniŠre     ?
 - .oKF    _A25   *LACOURBE Roland             Vingt pas dans l'insolite ş2005
 : .oF.     p     _LACOURBE Roland             Traquer l'insolite ş2005
-: .oF.     N     _BARR Stephen                Une histoire incroyable ş1958 The Devil To Pay şTrad. ROSENBLUM Arlette
+: .oF.     N     _BARR Stephen                Une histoire incroyable ş1958 The Devil to Pay şTrad. ROSENBLUM Arlette
 : .oF.     N     _McCLOY Helen                Le Miroir obscur ş1948 Through a Glass, Darkly şTrad. DURAND Ren‚
 : .oF.     a     _LACOURBE Roland             Notes sur un ph‚nomŠne ‚trange: la bilocation ş2005
 : .oF.     N     _ROBBINS Wayne               La Chose ş1940 The Thing from Beyond şTrad. CORNIER Vincent
@@ -3278,7 +3473,7 @@ o ATAL_IF     ?  2005.02 ..... ISBN 2-84172-297-X
 : .oF.     N     _COMMINGS Joseph             Mort d'une ballerine ş1957 Die, Ballerine, Die şTrad. GRIVEL DaniŠle
 : .oF.     N     _HOCH Edward D.              Le Vol dans la chambre vide ş1972 The Theft from the Empty Room şTrad. GRIVEL DaniŠle
 : .oF.     N     _HALTER Paul                 Le Clown de minuit ş1999
-: .oF.     N     _ARMSTRONG Anthony           La Larve ş1952  The Maggot şTrad. ?
+: .oF.     N     _ARMSTRONG Anthony           La Larve ş1952 The Maggot şTrad. ?
 : .oF.     N     _COMMINGS Joseph             Le Juif errant ş1963 The Wandering Jew şTrad. GRIVEL DaniŠle
 : .oF.     N     _GORES Joe                   MNCH JE VS M ş1962 Darl I Luv U şTrad. MARTIN Bruno
 : .oF.     N     _BIGGLE Lloyd Jr.            Justice sup‚rieure ş1971 The Frayed String on the Stretched Forefinger of Time şTrad. MARTIN Bruno
@@ -3295,14 +3490,14 @@ o ATADENT     ?  2010.02 ..... ISBN 978-2-84172-493-2
 - .oS.     R     _WILLIAMS Walter Jon         Ceci n'est pas un jeu [Dagmar Shaw] ş2008 This Is Not a Game şTrad. BREQUE Jean-Daniel
 
 !-----------------------------------------------------------------------------
-_ ATAL_BC L'Atalante, BibliothŠque de la Chamaille
+_ ATAL_BC L'Atalante - BibliothŠque de la Chamaille
 !-----------------------------------------------------------------------------
 o ATALANT     ?  2005.04 ..... ISBN 2-84172-302-X
 } atal0200       _?                           ?
 - .oS.     T     _VERNE Jules                 Voyage … travers l'impossible ş1882
 
 !-----------------------------------------------------------------------------
-_ ATAPETD L'Atalante, L'Atalante Poche
+_ ATAPETD L'Atalante - L'Atalante Poche
 !-----------------------------------------------------------------------------
 !--- "La Petite Dentelle"
 !-----------------------------------------------------------------------------
@@ -3471,3 +3666,115 @@ o ATAPETD     ?  2020.11 ..... ISBN 979-10-360-0061-4
 } noimg          _Didier Graffet              ?
 !--- Poche
 - .oY.     R     _GODDYN R‚gis                Le Sang des 7 rois - Livre cinq [Le Sang des 7 rois - 5] ş2015
+!------------------------
+!=== 2021
+!------------------------
+o ATAPETD     ?  2021.01 ..... ISBN 979-10-360-0064-5
+} noimg          _Didier Graffet              ?
+!--- Poche - 108 x 178 - 512 pages
+- .o .     R     _GODDYN R‚gis                Le Sang des 7 rois - Livre six [Le Sang des 7 rois - 6] ş2015
+o ATAPETD     ?  2021.03 ..... ISBN 979-10-360-0072-0
+} noimg          _?                           ?
+!--- Poche - 108 x 178 - 208 pages
+- .o .     R     _LEBOULANGER Camille         Enfin la nuit ş2011
+o ATAPETD     ?  2021.04 ..... ISBN 979-10-360-0075-1
+} noimg          _Didier Graffet              ?
+!--- Poche - 108 x 178 - 512 pages
+- .o .     R     _GODDYN R‚gis                Le Sang des 7 rois - Livre sept [Le Sang des 7 rois - 7] ş2016
+o ATAPETD     ?  2021.06 ..... ISBN 979-10-360-0051-5
+} noimg          _?                           ?
+!--- Poche - 108x178 
+- .oS.     R     _GENEFORT Laurent            La M‚canique du talion ş2003
+o ATAPETD     ?  2021.06 ..... ISBN 979-10-360-0080-5
+} noimg          _Aur‚lien Police             ?
+!--- Poche - 108x178 
+- .oS.     R     _PAQUET Olivier              Jardin d'hiver ş2016
+o ATAPETD     ?  2021.06 ..... ISBN 979-10-360-0079-9
+} noimg          _Vincent Madras              ?
+!--- Poche - 108x178 
+- .oY.     R     _NEGRETE Javier              Z‚mal - L'‚p‚e de feu [Chronique de Tramor‚e - 1] ş2003 La Espada de fuego şTrad. JOSSE Christophe
+o ATAPETD     ?  2021.09 ..... ISBN 979-10-360-0081-2
+} atalp052       _Leraf                       ?
+!--- Poche - 108x178 - 400 pages - 8,50 euros
+- .oS.    kN11   _ECKEN Claude                Au r‚veil il ‚tait midi ş2012
+: .oS.     N     _ECKEN Claude                Asphyxie ş2012
+: .oS.     N     _ECKEN Claude                Soutien psychologique ş2012
+: .oS.     N     _ECKEN Claude                La Foire aux palabres ş2012
+: .oS.     N     _ECKEN Claude                Je vous apprendrai la haine ş2012
+: .oS.     N     _ECKEN Claude                Sparadrap et bouts de ficelle ş2012
+: .oS.     N     _ECKEN Claude                La Morale de l'histoire ş2012
+: .oS.     N     _ECKEN Claude                La Petite Fille entre deux mondes ş2012
+: .oS.     N     _ECKEN Claude                Schizono‹a ş2012
+: .oS.     N     _ECKEN Claude                La Ville de cristal ş2012
+: .oS.     N     _ECKEN Claude                Pierre Martino, un cas ş2012
+: .oS.     N     _ECKEN Claude                2021 ş2012
+o ATAPETD     ?  2021.09 ..... ISBN 979-10-360-0089-8
+} noimg          _Vincent Madras              ?
+!--- Poche - 108x178 - 576 pages
+- .oY.     R     _NEGRETE Javier              Syfr&otilde;n - L'Esprit du mage I [Chronique de Tramor‚e - 2.1] ş2005 El Espiritu del Mago şTrad. JOSSE Christophe
+o ATAPETD     ?  2021.09 ..... ISBN 979-10-360-0090-4
+} noimg          _Vincent Madras              ?
+!--- Poche - 108x178 - 576 pages
+- .o .     R     _NEGRETE Javier              Ataga‹re - L'Esprit du mage II [Chronique de Tramor‚e - 2.2] ş2005 El Espiritu del Mago şTrad. JOSSE Christophe
+o ATAPETD     ?  2021.11 ..... ISBN 979-10-360-0095-9
+} noimg          _Genkis                      ?
+!--- Poche - 108x178 - 10,50 euros
+- .oS.     R     _WEBER David                 Sans concession - Tome 1 [Honor Harrington - 14.1] ş2018 Uncompromising Honor şTrad. PAGEL Michel
+o ATAPETD     ?  2021.11 ..... ISBN 979-10-360-0096-6
+} noimg          _Genkis                      ?
+!--- Poche - 108x178 - 10,50 euros
+- .oS.     R     _WEBER David                 Sans concession - Tome 2 [Honor Harrington - 14.2] ş2018 Uncompromising Honor şTrad. PAGEL Michel
+!------------------------
+!=== 2022
+!------------------------
+o ATAPETD     ?  2022.02 ..... ISBN 979-10-360-0097-3
+} noimg          _Vincent Madras              ?
+!--- Poche - 108x178 - 576 pages - 10,50 euros
+!--- "Livre quatre"
+- .oF.     R     _NEGRETE Javier              Yugaro‹ - La Nuit des dieux [Chronique de Tramor‚e - 3] ş2010 El sue¤o de los dioses şTrad. JOSSE Christophe
+o ATAPETD     ?  2022.03 ..... ISBN 979-10-360-0109-3
+} atalp058       _Julien Pacaud               ?
+!--- Poche - 108x178 - 208 pages - 7,50 euros
+- .oS.    kRN    _WAGNER Roland C.            La Balle du n‚ant [Les Futurs MystŠres de Paris] ş2002
+: .o .     R     _WAGNER Roland C.            La Balle du n‚ant [Les Futurs MystŠres de Paris - 1] ş1996
+: .o .     N     _WAGNER Roland C.            S'il n'‚tait vivant [Les Futurs MystŠres de Paris] ş1999
+o ATAPETD     ?  2022.03 ..... ISBN 979-10-360-0105-5
+} atalp059       _Julien Pacaud               ?
+!--- Poche - 108x178 - 208 pages - 7,50 euros
+- .oS.    kRN    _WAGNER Roland C.            Les Ravisseurs quantiques [Les Futurs MystŠres de Paris] ş2002
+: .o .     R     _WAGNER Roland C.            Les Ravisseurs quantiques [Les Futurs MystŠres de Paris - 2] ş1996
+: .o .     N     _WAGNER Roland C.            Le R‚veil du parasite [Les Futurs MystŠres de Paris] ş2002
+o ATAPETD     ?  2022.04 ..... ISBN 979-10-360-0107-9
+} atalp060       _Vincent Madras              ?
+!--- Poche - 108x178 - 544 pages - 10,00 euros
+!--- "Livre cinq"
+- .oY.     R     _NEGRETE Javier              Agarta - Le Coeur de Tramor‚e I [Chronique de Tramor‚e - 4] ş2011 El coraz¢n de Tram¢rea şTrad. JOSSE Christophe
+o ATAPETD     ?  2022.06 ..... ISBN 979-10-360-0112-3
+} atalp061       _Vincent Madras              ?
+!--- Poche - 108x178 - 464 pages - 10,00 euros
+!--- "Livre six"
+- .oY.     R     _NEGRETE Javier              PratŠs - Le Coeur de Tramor‚e II [Chronique de Tramor‚e - 5] ş2011 El coraz¢n de Tram¢rea şTrad. JOSSE Christophe
+o ATAPETD     ?  2022.06 ..... ISBN 979-10-360-0118-5
+} atalp062       _Leoncio Harmr               ?
+!--- Poche - 108x178 - 560 pages - 10,70 euros
+- .oY.     R     _GODDYN R‚gis                L'Ensorceleur des choses menues ş2019
+o ATAPETD     ?  2022.06 ..... ISBN 979-10-360-0116-1
+} atalp063       _Leraf                       ?
+!--- Poche - 108x178 - 416 pages - 8,50 euros
+- .oS.     R     _GESSLER Vincent             Mimosa ş2012
+o ATAPETD     ?  2022.08 ..... ISBN 979-10-360-0122-2
+} atalp064       _Aur‚lien Police             ?
+!--- Poche - 108x178 - 544 pages - 8,70 euros
+- .oS.     R     _PAQUET Olivier              Les Machines fant“mes ş2019
+o ATAPETD     ?  2022.10 ..... ISBN 979-10-360-0113-0
+} atalp065       _Julien Pacaud               ?
+!--- Poche - 108x178 - 320 pages - 8,50 euros
+- .oS.    kRN    _WAGNER Roland C.            L'Odyss‚e de l'espŠce [Les Futurs MystŠres de Paris] ş2002
+: .o .     R     _WAGNER Roland C.            L'Odyss‚e de l'espŠce [Les Futurs MystŠres de Paris - 3] ş1997
+: .o .     N     _WAGNER Roland C.            Recristallisation [Les Futurs MystŠres de Paris] ş1999
+o ATAPETD     ?  2022.09 ..... ISBN 979-10-360-0123-9
+} atalp066       _Leraf                       ?
+!--- Poche - 108x178 - 512 pages - 10,00 euros
+- .oS.     R     _Les Agglom‚r‚.e.s           Subtil b‚ton ş2022
+
+

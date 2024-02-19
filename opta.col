@@ -2,16 +2,16 @@
 !---                     OPTA
 !---
 !-----------------------------------------------------------------------------
-!--- OptNebu Ed. Opta, Nebula þ1975-1977
-!--- OptAnti Ed. Opta, Anti-mondes þ1972-1977
-_ OptMarg Ed. Opta, Marginal þ1973-1977
-_ XLII_OM Marginal (Pastiche des 42)
-_ MYSM    Ed. Opta, MystŠre magazine
-_ MYSM_NS Ed. Opta, MystŠre magazine nouvelle s‚rie
-_ ELQM    Ed. Opta, Ellery Queen magazine
-_ MYSA    Ed. Opta, MystŠre magazine, Anthologies
-_ MAGMYST Ed. Opta, Le magazine du mystŠre
-_ ESPIONN Ed. Opta, Revue Espionnage
+!--- OptNebu Opta, Nebula
+!--- OptAnti Opta, Anti-mondes
+_ OptMarg Opta þ1933-1981 - Marginal þ1973-1977
+_ XLII_OM Marginal - Pastiche des 42
+_ MYSM    Opta - MystŠre magazine
+_ MYSM_NS Opta - MystŠre magazine nouvelle s‚rie
+_ ELQM    Opta - Ellery Queen magazine
+_ MYSA    Opta - MystŠre magazine, Anthologies
+_ MAGMYST Opta - Le magazine du mystŠre
+_ ESPIONN Opta - Revue Espionnage
 !--- Hithcock magazine
 !-----------------------------------------------------------------------------
 !---
@@ -26,7 +26,7 @@ _ ESPIONN Ed. Opta, Revue Espionnage
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
-_ OPTA    Ed. Opta
+_ OPTA    Opta
 !-----------------------------------------------------------------------------
 o OPTA        ?  1976.xx ..... ISBN -
 } noimg          _?                           ?
@@ -41,7 +41,7 @@ o OPTA        ?  1976.xx ..... ISBN -
 
 !DEB_HEAD OptNebu
 !TIT_COLL N‚bula
-_ OptNebu Opta, Nebula þ1975-1977
+_ OptNebu Opta - Nebula þ1975-1977
 !-----------------------------------------------------------------------------
 !--- La collection N‚bula n'a connu qu'une brŠve existence : 15 titres en deux
 !--. ans et demi, alternant auteurs anglo-saxons "difficiles" et fran‡ais de
@@ -200,7 +200,7 @@ o OptNebu    15  1977.05 ..... ISBN 2-7201-0091-9
 !FIN_COLL OptNebu
 
 !DEB_HEAD OptAnti
-_ OptAnti Opta, Anti-mondes þ1972-1977
+_ OptAnti Opta - Anti-mondes þ1972-1977
 !TIT_COLL Anti-mondes
 !-----------------------------------------------------------------------------
 !--- Une collection de 34 titres parus entre 1972 et 1977, par quasiment tous les
@@ -280,7 +280,7 @@ o OptAnti    22  1975.xx ..... ISBN 2-7201-0039-0
 - .oS.     R     _ANTHONY Piers               Zodiacal þ1969 Macroscope þTrad. SERPH Fran‡oise
 o OptAnti    23  1976.xx ..... ISBN 2-7201-0044-7
 }optaam23        _?                           N
-- .oS.     R     _MOORCOCK Michael            Le Seigneur des airs [Oswald Bastable - 1] þ1971 Warlord of the Air þTrad. HERSANT Denise
+- .oS.     R     _MOORCOCK Michael            Le Seigneur des airs [Oswald Bastable - 1] þ1971 The Warlord of the Air þTrad. HERSANT Denise
 o OptAnti    24  1976.xx ..... ISBN 2-7201-0048-X
 }optaam24        _?                           N
 - .oS.     R     _KOONTZ Dean R.              La Chair dans la fournaise þ1972 The Flesh in the Furnace þTrad. HALIN Daphn‚
@@ -295,7 +295,7 @@ o OptAnti    27  1976.xx R.... ISBN 2-7201-0063-3
 - .oS.     R     _SHAW Bob                    Orbitville þ1974 Orbitsville þTrad. ABONYI Dominique
 o OptAnti    28  1976.xx ..... ISBN 2-7201-0078-1
 }optaam28        _?                           N
-- .oS.     R     _HALDEMAN Joe                La Guerre ‚ternelle [La Guerre ‚ternelle] þ1974 The Forever War þTrad. LEBEC G‚rard & BROWER Diane
+- .oS.     R     _HALDEMAN Joe                La Guerre ‚ternelle [La Guerre ‚ternelle - 1] þ1974 The Forever War þTrad. LEBEC G‚rard & BROWER Diane
 o OptAnti    29  1976.xx ..... ISBN 2-7201-0073-0
 }optaam29        _?                           N
 - .oS.     R     _MOORCOCK Michael            Le L‚viathan des terres [Oswald Bastable - 2] þ1974 The Land Leviathan þTrad. HERSANT Denise
@@ -368,7 +368,7 @@ o OptMarg     2  1974.xx R.... ISBN -
 : .oS.     N     _BOUCHER Anthony             Point de transfert þ1950 Transfer Point þTrad. BALFET Nicole
 : .oS.     N     _BROWN Fredric               Jeu de glaces þ1953 Hall of Mirrors þTrad. CANET Charles
 : .oS.     N     _TUBB E.C.                   Un peu de temps … tuer þ1956 Time to Kill þTrad. HUPP Philippe R.
-: .oS.     N     _TENN William                La Soudaine gloire de Morniel Mathaway þ1955 The Discovery of Morniel Mathaway þTrad. HUPP Philippe R.
+: .oS.     N     _TENN William                La Soudaine Gloire de Morniel Mathaway þ1955 The Discovery of Morniel Mathaway þTrad. HUPP Philippe R.
 o OptMarg     3  1974.xx ..... ISBN -
 } marginal03     _?                           N
 + OptMarg     3  1974.xx ..... ISBN -
@@ -421,7 +421,7 @@ o OptMarg     6  1975.xx R.... ISBN -
 } marginal06b    _?                           N
 - .oS.    _A6    *DEMUTH Michel               Rois ‚tranges et dictateurs fous de l'avenir þ1975
 : .o .     p     _DEMUTH Michel               Plus ‡a change... þ1975
-: .oS.     N     _ARR Stephen                 Monsieur le pr‚sident þ1953 Mr President
+: .oS.     N     _ARR Stephen                 Monsieur le pr‚sident þ1953 Mr. President
 : .oS.     N     _ANDERSON Poul               Manipulation þ1951 Inside Earth
 : .oS.     N     _ROBIN Ralph                 Faites de beaux rˆves þ1951 Pleasant Dreams
 : .oS.     N     _TENN William                Votre tout-puissant serviteur þ1955 The Servant Problem
@@ -524,7 +524,7 @@ o OptMarg    13  1976.xx R.... ISBN -
 - .oS.    _A8    *DEMUTH Michel               Rires cosmiques, gargouillis galactiques et futurs d‚sopilants þ1976
 : .o .     p     _DEMUTH Michel               Ouaaahh ! þ1976
 : .oS.     N     _MORRISON William            Le Mauvais Bouton þ1957 The Sly Bungerhop þTrad. HALIN Daphn‚
-: .oS.     N     _SMITH Evelyn E.             A votre service ! þ1955 Helpfully Yours! þTrad. ABONYI Dominique
+: .oS.     N     _SMITH Evelyn E.             A votre service ! þ1955 Helpfully Yours þTrad. ABONYI Dominique
 : .oS.     N     _WELLEN Edward               Sommaire de m‚decine galactique þ1953 Origins of Galactic M‚decine þTrad. ABONYI Dominique
 : .oS.     N     _SMITH Evelyn E.             PiŠge V‚nusien þ1956 The Venus Trap þTrad. SERPH Fran‡oise
 : .oS.     N     _ANDERSON Poul               Le Tire-Bouchon spatial þ1956 The Corkscrew of Space þTrad. HALIN Daphn‚
@@ -542,7 +542,7 @@ o OptMarg    14  1977.xx ..... ISBN -
 : .oS.     N     _KNIGHT Damon                Une belle invention þ1958 Thing of Beauty þTrad. TERMATH Andr‚-Fran‡ois
 !--- indiqu‚e "Anachron" par suite d'une erreur de transcription
 : .oS.     N     _LEINSTER Murray             All“, Sam ? Ici Sam ! þ1955 Sam, This Is You! þTrad. HUPP Philippe R.
-: .oS.     N     _DANIEL Lucius               L'Heure du choix þ1955 Up for renewal
+: .oS.     N     _DANIEL Lucius               L'Heure du choix þ1954 Up for Renewal
 : .oS.     N     _VAN DE VET Charles          Pour qui sait attendre þ1953 Delayed Action
 : .oS.     N     _STURGEON Theodore           Dans l'ouragan þ1955 Hurricane Trio þTrad. HUPP Philippe R.
 o OptMarg    15  1977.xx ..... ISBN -
@@ -596,7 +596,7 @@ o MYSM       21  1949.10 ..... ISBN -
 o MYSM       22  1949.11 ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         MystŠre magazine nø 22 (novembre 1949) þ1949
-: .o .     N     _QUENTIN Patrick             La Cascade þ1948 Mother, May I Got Out to Swim?
+: .! .     N     _QUENTIN Patrick             La Cascade þ1948 Mother, May I Got Out to Swim?
 o MYSM       34  1950.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         MystŠre magazine nø 34 þ1950
@@ -613,6 +613,10 @@ o MYSM       49  1952.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         MystŠre magazine nø 49 þ1952
 : .o .     N     _OWEN Thomas                 Villa … vendre þ1952
+o MYSM       59  1952.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     Mx    ****                         MystŠre magazine nø 59 - d‚cembre 1952 þ1952
+: .x .     N     _WILLIAMS Arthur             ChŠre de poules þ1948 Being a Murderer Myself
 o MYSM       81  1954.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         MystŠre magazine nø 81 þ1954
@@ -646,7 +650,7 @@ o MYSM      143  1959.xx ..... ISBN -
 o MYSM      145  1960.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         MystŠre magazine nø 145 (F‚vrier 60) þ1960
-: .o .     N     _KLEIN G‚rard                Vous mourrez quand mˆme... þ1960
+: .x .     N     _KLEIN G‚rard                Vous mourrez quand mˆme... þ1960
 o MYSM      163  1961.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         MystŠre magazine nø 163 (Ao–t 61) þ1961
@@ -771,7 +775,7 @@ o ELQM       80  1954.09 ..... ISBN -
 o ELQM      119  1957.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Ellery Queen magazine nø 119 (D‚cembre 57) þ1957
-: .o .     N     _BLOCH Robert                Dingue de tombe þ1957 Dig That Crazy Grave!
+: .o .     N     _BLOCH Robert                Dingue de tombe ! þ1957 Dig That Crazy Grave!
 o ELQM      130  1958.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Ellery Queen magazine nø 130 (Novembre 58) þ1958
@@ -825,7 +829,7 @@ o ESPIONN     3  1970.10 ..... ISBN -
 : .o .     N     _BARBET Pierre               Stup‚fiante planŠte þ1970
 
 !-----------------------------------------------------------------------------
-_ OPTA_LP Ed. Opta, Coll. Club du livre policier - Les Classiques du roman policier
+_ OPTA_LP Opta - Club du livre policier - Les Classiques du roman policier
 !-----------------------------------------------------------------------------
 o OPTA_LP    47  1968.xx ..... ISBN -
 } noimg          _?                           ?

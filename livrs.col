@@ -1,5 +1,8 @@
 !-----------------------------------------------------------------------------
-_ LIVR-S  Ed. Livr'S (Belgique)
+_ LIVR-S  Livr'S (Belgique)
+!-----------------------------------------------------------------------------
+!--- TBD collections, label imprim‚ ou pas
+!---  … priori oui, par exemple "collection Horreur" en 4iŠme de couv de "La divinatrice"
 !-----------------------------------------------------------------------------
 
 !------------------------
@@ -93,13 +96,13 @@ o LIVR-S      ?  2017.03 ..... ISBN 978-2-930839-56-1
 !--- Collections Nouvelles - 456 pages
 - .pI.     A18   ****                         Nouvelles Saisons þ2017
 : .o .     N     _ANSCIAUX Emilie             En sommeil þ2017
-: .? .     N     _CLAUSTIAUX Geoffrey         La M‚lodie du temps þ2017
+: .? .     N     _CLAUSTRIAUX Geoffrey        La M‚lodie du temps þ2017
 : .? .     N     _GINESTET Sylvie             L'Ancolie þ2017
 : .oS.     N     _ANSCIAUX Emilie             L'Autre Cot‚ þ2017
 : .? .     N     _CLAUSTRIAUX Geoffrey        Roca Sangre : printemps þ2017
 : .? .     N     _WILLIAM S.A.                Le Temps d'un verre þ2017
 : .? .     N     _ANSCIAUX Emilie             DerniŠre ‚tage þ2017
-: .? .     N     _XCLAUSTIAUX Geoffrey        Roca Sangre : ‚t‚ þ2017
+: .? .     N     _CLAUSTRIAUX Geoffrey        Roca Sangre : ‚t‚ þ2017
 : .o .     N     _LIVYNS Fr‚d‚ric             Supplici‚s þ2017
 : .? .     N     _ANSCIAUX Emilie             La Chute des feuilles þ2017
 : .? .     N     _CLAUSTRIAUX Geoffrey        Yellow Brick Road þ2017
@@ -172,7 +175,7 @@ o LIVR-S      ?  2018.11 ..... ISBN 978-2-37910-002-4
 o LIVR-S      ?  2019.02 ..... ISBN 978-2-37910-006-2
 } livrs2019_1    _Geoffrey Claustriaux        ?
 !-- Collection Horreur - 436 pages - 19 euros
-- .oF.     R     _MASTERTON Graham            Ghost Virus þ2018 Ghost Virus þTrad. QUENTIN Daniel
+- .oF.     R     _MASTERTON Graham            Ghost Virus [Pardoe et Patel] þ2018 Ghost Virus þTrad. QUENTIN Daniel
 o LIVR-S      ?  2019.02 ..... ISBN 978-2-37910-010-9
 } livrs2019_2    _Sarah Bertagna              ?
 !--- Collection Fantastique - 305 pages - 18 euros
@@ -203,7 +206,7 @@ o LIVR-S      ?  2019.06 ..... ISBN 978-2-37910-022-2
 - .oY.     G     _BERTAGNA Sarah              L'Encyclop‚die des dames du l‚gendaire arthurien þ2019
 o LIVR-S      ?  2019.07 ..... ISBN 978-2-37910-025-3
 } livrs2019_10   _G. Claustriaux              ?
-!--- Collection Fantastique - 141 pages - 18 euros
+!--- Collection Fantastique - 150x210 - 141 pages - 18 euros
 - .oF.     R     _ANSCIAUX Emilie            &Dans ton camp þ2019
 &                _CLAUSTRIAUX Geoffrey       &
 &                _WILLIAM S.A.               
@@ -235,29 +238,58 @@ o LIVR-S      ?  2020.03 ..... ISBN 978-2-37910-033-8
 !--- Collection Fantastique - 76 pages - 10 euros
 - .oF.     r     _NAIT MAZI Mona             &Club 27 þ2020
 &                _CLAUSTRIAUX Geoffrey        
-
-
-
-!=== Informations auteurs non encore en base
-
-!- Emily Ansciaux : belge, 20 mars 1987
-
-!- Sarah Bertagna: france, 1989, Reims
-
-!- Marc Brucker: france
-
-!- Sam Cornell: france, 1971
-
-!- Bertand Crapez : france
-
-!- Katia Goriatchkine : belge
-
-!- Mona Na‹t Mazi : belge, 2001, La LouviŠre
-
-!- C‚line Saint Charles: france, Paris, 1969, enseignante (maternelle)
-
-!- Fabrizio Schiavetto : journaliste
-
-!- Marine Stengel : france, 1992
-
+o LIVR-S      ?  2020.06 ..... ISBN ?978-2-37910-043-7
+} noimg          _?                           ?
+!--- GF - 150x210 - 358 pages - 19 euros
+- .oF.     R     _MASTERTON Graham            Les Anges oubli‚s [Pardoe et Patel] þ2020 The Children God Forgot þTrad. CORTHOUTS Christophe
+o LIVR-S      ?  2020.09 ..... ISBN 978-2-37910-049-9
+} noimg          _Jennifer Peulen             ?
+!--- Jeunesse - GF - 150x210 - 388 pages - 18 euros
+- .oF.     R     _OMBREMONT M. d'             Cl‚ment Coudpel contre les spectres de Samain þ2020
+o LIVR-S      ?  2020.09 ..... ISBN 978-2-37910-062-8
+} noimg          _?                           ?
+!--- Jeunesse - GF - 150x210 - 19 euros
+- .oY.     R     _BRAUN L.A.                  Le Sang et la guerre [Le Cr‚puscule des 5 piliers - 1] þ2020
+!------------------------
+!=== 2021
+!------------------------
+o LIVR-S      ?  2021.02 ..... ISBN 978-2-37910-050-5
+} noimg          _Lo‹c Canavaggia             ?
+!--- Jeunesse - GF - 150x210 - 354 pages - 18 euros
+- .oY.     R     _CRAPEZ Bertrand             L'h‚ritier du roi Arthur - Livre I [Chroniques des proph‚ties oubli‚es - 1] þ2016
+o LIVR-S      ?  2021.02 ..... ISBN 978-2-37910-051-2
+} noimg          _Lo‹c Canavaggia             ?
+!--- Jeunesse - GF - 150x210 - 350 pages - 18 euros
+- .oY.     R     _CRAPEZ Bertrand             L'h‚ritier du roi Arthur - Livre II [Chroniques des proph‚ties oubli‚es - 2] þ2017
+o LIVR-S      ?  2021.02 ..... ISBN 978-2-37910-052-9
+} noimg          _Lo‹c Canavaggia             ?
+!--- Jeunesse - GF - 150x210 - 350 pages - 18 euros
+- .oY.     R     _CRAPEZ Bertrand             L'h‚ritier du roi Arthur - Livre III [Chroniques des proph‚ties oubli‚es - 3] þ2018
+o LIVR-S      ?  2021.05 ..... ISBN 978-2-37910-070-3
+} noimg          _Aur‚lien Police             ?
+!--- Jeunesse - GF - 150x210 - 190 pages - 18 euros
+- .oF.     R     _MAURI Alex                  Alegr¡a þ2021
+o LIVR-S      ?  2021.05 ..... ISBN 978-2-37910-068-0
+} noimg          _Tiphs                       ?
+!--- GF - 150x210 - 236 pages - 18 euros
+- .oY.     R     _GENET Aur‚lie               Aquaal, le secret de l'Œle Originelle þ2021
+o LIVR-S      ?  2021.10 ..... ISBN 978-2-37910-084-0
+} noimg          _?                           ?
+!--- Jeunesse - GF - 150x210 - 204 pages - 16,00 euros
+- .oF.     R     _CRAPEZ Bertrand             1, 2, 3... Vampires ! þ2021
+o LIVR-S      ?  2021.10 ..... ISBN 978-2-37910-080-2
+} noimg          _?                           ?
+!--- GF - 150x210 - 404 pages - 19 euros
+- .oF.     R     _DEBOUVERIE Gilles           Talisman þ2021
+!------------------------
+!=== 2022
+!------------------------
+o LIVR-S      ?  2022.06 ..... ISBN 978-2-37910-097-0
+} noimg          _?                           ?
+!--- GF - 150x210 - 358 pages
+- .oF.     R     _MASTERTON Graham            La Maison aux cent murmures þ2020 The House of a Hundred Whispers þTrad. CORTHOUTS Christophe
+o LIVR-S      ?  2022.08 ..... ISBN 978-2-37910-099-4
+} noimg          _Geoffrey Claustriaux        ?
+!--- GF - 150x210 - 430 pages
+- .oF.     R     _HARRIS Dawn G.              La Divinatrice þ2018 Diviner þTrad. CORTHOUTS Christophe
 

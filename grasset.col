@@ -1,16 +1,17 @@
 !-----------------------------------------------------------------------------
 !---            GRASSET
 !-----------------------------------------------------------------------------
-!--- Grasset Ed. Grasset
-!--- GrassJ  Ed. Grasset, Coll.  Jeunesse
-!--- GrassCR Ed. Grasset, Coll. "Les cahiers rouges"
-!--- GrassLP Ed. Grasset, Coll. "Lampe de Poche"
+!--- Grasset Grasset
+!--- GrassJ  Grasset, Jeunesse
+!--- GrassCR Grasset, Les cahiers rouges
+!--- GrassLP Grasset, Lampe de Poche
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ Grasset Ed. Grasset
-_ GrassCV Ed. Grasset, Coll. Les cahiers verts
-_ GrassCR Ed. Grasset, Coll. Les cahiers rouges
+_ Grasset Grasset
+_ GrassCV Grasset - Les cahiers verts
+_ GrassC2 Grasset - Les cahiers verts nouvelle s‚rie
+_ GrassCR Grasset - Les cahiers rouges
 !-----------------------------------------------------------------------------
 !--- Editions Grasset
 !-----------------------------------------------------------------------------
@@ -80,9 +81,9 @@ o Grasset     ?  1942.xx ..... ISBN -
 !=== 1950+
 !------------------------
 o Grasset     ?  1950.xx ..... ISBN -
-}grass_histimp50 _?                           ?
+} grass_histimp50 _?                           ?
 + Grasset     ?  1956.xx ..... ISBN -
-}grass_histimp56 _?                           ?
+} grass_histimp56 _?                           ?
 - .oKF    kN17   _BIERCE Ambrose              Histoires impossibles þ1950
 !--- Trad. Jacques Papy
 : .oKF    kN13   _BIERCE Ambrose              Histoires impossibles þ1950
@@ -100,7 +101,7 @@ o Grasset     ?  1950.xx ..... ISBN -
 = .o .     N     _BIERCE Ambrose              Nocturne au Ravin du Mort þ1874 The Night-Doings at Deadman's
 = .o .     N     _BIERCE Ambrose              La Tombe sans fond þ1888 A Bottomless Grave
 : .oKF    kN4    _BIERCE Ambrose              Le Club des parenticides þ1946 The Parenticide Club
-= .o .     N     _BIERCE Ambrose              A l'‚preuve du feu þ1886 An Imperfect Conflagration
+= .x .     N     _BIERCE Ambrose              A l'‚preuve du feu þ1886 An Imperfect Conflagration
 = .o .     N     _BIERCE Ambrose              L'Hypnotiseur þ1893 John Bolger, Hypnotist / The Hypnotist
 = .o .     N     _BIERCE Ambrose              Mon meurtre pr‚f‚r‚ þ1888 My Favorite Murder
 = .o .     N     _BIERCE Ambrose              Huile de chien þ1890 The Oil of a Dog / Oil of Dog
@@ -108,7 +109,7 @@ o Grasset     ?  1953.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _VELLE Louis                 Ma petite femme þ1953
 o Grasset     ?  1957.xx ..... ISBN -
-}grass_mortsviol _?                           ?
+} grass_mortsviol _?                           ?
 - .oF.    iNx    _BIERCE Ambrose              Morts violentes þ1957
 : .o .     N     _BIERCE Ambrose              La RiviŠre de la mort þ1889 Chickamauga
 !------------------------
@@ -142,6 +143,14 @@ o Grasset     ?  1973.03 ..... ISBN -
 : .o .     N     _CHATEAUREYNAUD G.-O.        Ses derniŠres pages þ1973
 : .o .     r     _CHATEAUREYNAUD G.-O.        AprŠs þ1973
 : .o .     N     _CHATEAUREYNAUD G.-O.        L…-bas dans le sud þ1973
+o Grasset     ?  1974.05 ..... ISBN 2-246-00004-7
+} noimg          _?                           ?
+!--- 230 pages - 19 cm - 20 francs
+- .oF.    kN3    _SCHNEIDER Marcel            D‚j… la neige - Trois nouvelles pr‚c‚d‚es de Discours du fantastique þ1974
+: .o .     a     _SCHNEIDER Marcel            Discours du fantastique þ1974
+: .o .     N     _SCHNEIDER Marcel            D‚j… la neige þ1974
+: .o .     N     _SCHNEIDER Marcel            Une soif d‚vorante þ1974
+: .o .     r     _SCHNEIDER Marcel            Le Granit et l'absence þ1947
 o Grasset     ?  1976.02 ..... ISBN 2-246-00302-4
 } noimg          _?                           ?
 - .oFK    kN10   _CHATEAUREYNAUD G.-O.        La Belle CharbonniŠre þ1976
@@ -190,7 +199,7 @@ o Grasset     ?  1978.08 ..... ISBN 2-246-00678-3
 = .o .     N     _BIERCE Ambrose              Nocturne au Ravin du Mort þ1874 The Night-Doings at Deadman's
 = .o .     N     _BIERCE Ambrose              La Tombe sans fond þ1888 A Bottomless Grave
 : .oKF    kN4    _BIERCE Ambrose              Le Club des parenticides þ1946 The Parenticide Club
-= .o .     N     _BIERCE Ambrose              A l'‚preuve du feu þ1886 An Imperfect Conflagration
+= .x .     N     _BIERCE Ambrose              A l'‚preuve du feu þ1886 An Imperfect Conflagration
 = .o .     N     _BIERCE Ambrose              L'Hypnotiseur þ1893 John Bolger, Hypnotist / The Hypnotist
 = .o .     N     _BIERCE Ambrose              Mon meurtre pr‚f‚r‚ þ1888 My Favorite Murder
 = .o .     N     _BIERCE Ambrose              Huile de chien þ1890 The Oil of a Dog / Oil of Dog
@@ -223,6 +232,19 @@ o Grasset     ?  1985.xx ..... ISBN 2-246-34601-0
 o Grasset     ?  1985.xx ..... ISBN 2-246-35301-7
 } noimg          _?                           ?
 - .oF.     R     _CHATEAUREYNAUD G.-O.        Le CongrŠs de fantomologie þ1985
+o Grasset     ?  1985.xx ..... ISBN 2-246-35271-1
+} noimg          _?                           ?
+!--- 260 pages - 75 francs
+- .p .    kN10   _SCHNEIDER Marcel            Histoires … mourir debout þ1985
+: .? .     N     _SCHNEIDER Marcel            El Hikmet þ?
+: .? .     N     _SCHNEIDER Marcel            Terre de songe þ?
+: .? .     N     _SCHNEIDER Marcel            La Poitrine supplici‚e þ?
+: .? .     N     _SCHNEIDER Marcel            Un bal … Clichy þ?
+: .o .     N     _SCHNEIDER Marcel            N‚morin þ1998
+: .? .     N     _SCHNEIDER Marcel            Proph‚ties … Martinsbourg þ?
+: .? .     N     _SCHNEIDER Marcel            Un l‚vrier de sable þ?
+: .? .     N     _SCHNEIDER Marcel            Le Lait sanglant de la libert‚ þ?
+: .? .     N     _SCHNEIDER Marcel            Les Archers de l'arriŠre-monde þ?
 o Grasset     ?  1987.xx ..... ISBN 2-246-38021-9
 } noimg          _?                           ?
 - .o .     R     _CUSSLER Clive               Cyclope [Dirk Pitt - 8] þ1986 Cyclops þTrad. LEDERER Michel
@@ -281,21 +303,23 @@ o Grasset     ?  1994.09 ..... ISBN 2-246-42371-6
 !=== 1995
 !------------------------
 o Grasset     ?  1995.02 ..... ISBN 2-246-51211-5
-} noimg          _?                           ?
-- .oM.    iNx    _GARNER James Finn           Politiquement correct - Contes d'autrefois pour lecteurs d'aujourd'hui þ1994 Politically Correct Bedtime Stories
-?: .o .     N     _GARNER James Finn           Le Petit Chaperon rouge þ1994 Little Red Riding Hood
-?: .o .     N     _GARNER James Finn           Les Habits neufs de l'Empereur þ1994 The Emperor's New Clothes
-?: .o .     N     _GARNER James Finn           Les Trois Petits Cochons þ1994 The Three Little Pigs
-?: .o .     N     _GARNER James Finn           Otroupistache þ1994 Rumplestiltskin
-?: .o .     N     _GARNER James Finn           Les Trois Cod‚pendants boucs Bourru þ1994 The Three Codependent Goats Gruff
-?: .o .     N     _GARNER James Finn           Raiponce þ1994 Rapunzel
-?: .o .     N     _GARNER James Finn           Cendrillon þ1994 Cinderella
-?: .o .     N     _GARNER James Finn           Boucles d'Or þ1994 Goldilocks
-?: .o .     N     _GARNER James Finn           Blanche-Neige þ1994 Snow White
-?: .o .     N     _GARNER James Finn           Petit-Poulet þ1994 Chicken Little
-?: .o .     N     _GARNER James Finn           Le Roi Grenouille þ1994 The Frog Prince
-?: .o .     N     _GARNER James Finn           Jacques et le Haricot Magique þ1994 Jack and The Beanstalk
-?: .o .     N     _GARNER James Finn           Le Joueur de fl–te de Hamelin þ1994 The Pied Piper of Hamelin
+} grasset_garner1 _?                           ?
+!--- 120 x 170 mm - 112 pages
+- .oM.    kN13   _GARNER James Finn           Politiquement correct - Contes d'autrefois pour lecteurs d'aujourd'hui þ1994 Politically Correct Bedtime Stories þTrad. DEPLAND Daniel
+: .o .     p     _GARNER James Finn           Avant-propos þ1994 Introduction þTrad. DEPLAND Daniel
+: .o .     N     _GARNER James Finn           Le Petit Chaperon rouge þ1994 Little Red Riding Hood þTrad. DEPLAND Daniel
+: .o .     N     _GARNER James Finn           Les Habits neufs de l'empereur þ1994 The Emperor's New Clothes þTrad. DEPLAND Daniel
+: .o .     N     _GARNER James Finn           Les Trois Petits Cochons þ1994 The Three Little Pigs þTrad. DEPLAND Daniel
+: .o .     N     _GARNER James Finn           Outroupistache þ1994 Rumplestiltskin þTrad. DEPLAND Daniel
+: .o .     N     _GARNER James Finn           Les Trois Cod‚pendants Boucs bourru þ1994 The Three Codependent Goats Gruff þTrad. DEPLAND Daniel
+: .o .     N     _GARNER James Finn           Raiponce þ1994 Rapunzel þTrad. DEPLAND Daniel
+: .o .     N     _GARNER James Finn           Cendrillon þ1994 Cinderella þTrad. DEPLAND Daniel
+: .o .     N     _GARNER James Finn           Boucles d'Or þ1994 Goldilocks þTrad. DEPLAND Daniel
+: .o .     N     _GARNER James Finn           Blanche-Neige þ1994 Snow White þTrad. DEPLAND Daniel
+: .o .     N     _GARNER James Finn           Petit-Poulet þ1994 Chicken Little þTrad. DEPLAND Daniel
+: .o .     N     _GARNER James Finn           Le Roi-Grenouille þ1994 The Frog Prince þTrad. DEPLAND Daniel
+: .o .     N     _GARNER James Finn           Jacques et le haricot magique þ1994 Jack and the Beanstalk þTrad. DEPLAND Daniel
+: .o .     N     _GARNER James Finn           Le Joueur de fl–te de Hamelin þ1994 The Pied Piper of Hamelin þTrad. DEPLAND Daniel
 o Grasset     ?  1995.xx ..... ISBN 2-246-50161-X
 } noimg          _?                           ?
 - .x .     R     _CUSSLER Clive               L'Or des Incas [Dirk Pitt - 12] þ1994 Inca Gold þTrad. LANGLOIS-CHASSAIGNON Claudie
@@ -306,25 +330,28 @@ o Grasset     ?  1996.09 ..... ISBN 2-246-53211-6
 } noimg          _?                           ?
 - .o .     R     _HARPMAN Jacqueline          Orlanda þ1996
 o Grasset     ?  1996.11 ..... ISBN 2-246-52731-7
-} noimg          _?                           ?
-- .oM.    iNx    _GARNER James Finn           De plus en plus politiquement correct - Nouveaux contes d'autrefois pour lecteurs d'aujourd'hui þ1994 Once Upon a More Enlightened Time
-?: .o .     N     _GARNER James Finn           H„nsen et Gretel þ?
-?: .o .     N     _GARNER James Finn           La Cigale et la fourmi þ?
-?: .o .     N     _GARNER James Finn           La Princesse au petit pois þ?
-?: .o .     N     _GARNER James Finn           Le Petit Poisson-SirŠne þ?
-?: .o .     N     _GARNER James Finn           Le LiŠvre et la tortue þ?
-?: .o .     N     _GARNER James Finn           Chat bott‚ þ?
-?: .o .     N     _GARNER James Finn           Une personne endormie plus belle que la moyenne þ?
-?: .o .     N     _GARNER James Finn           Le Rat de la ville et le rat de la banlieue þ?
+} grasset_garner2 _?                           ?
+!--- 120 x 170 mm - 112 pages
+!--- Titres fran‡ais … d‚finir
+!: .o .     N     _GARNER James Finn           Hansen et Gretel þ1994 Hansel and Gretel
+!: .o .     N     _GARNER James Finn           La Cigale et la fourmi þ1994 The Ant and the Grasshopper
+!: .o .     N     _GARNER James Finn           La Princesse au petit pois þ1994 The Princess and the Pea
+!: .o .     N     _GARNER James Finn           Le Petit Poisson-SirŠne þ1994 The Little Mer-Persun
+!: .o .     N     _GARNER James Finn           Le LiŠvre et la tortue þ1994 The Tortoise and the Hare
+!: .o .     N     _GARNER James Finn           Le Chat bott‚ þ1994 Puss in Boots
+!: .o .     N     _GARNER James Finn           Une personne endormie plus belle que la moyenne þ1994 Sleeping Persun of Better-Than-Average Attractiveness
+!: .o .     N     _GARNER James Finn           Le Rat de la ville et le rat de la banlieue þ1994 The City Mouse and the Suburban Mouse
+- .oM.    iNx    _GARNER James Finn           De plus en plus politiquement correct - Nouveaux contes d'autrefois pour lecteurs d'aujourd'hui ((Politiquement correct)) þ1994 Once Upon a More Enlightened Time
 !------------------------
 !=== 1997
 !------------------------
 o Grasset     ?  1997.05 ..... ISBN 2-246-52931-X
 } noimg          _?                           ?
 - .x .     R     _CUSSLER Clive               Onde de choc [Dirk Pitt - 13] þ1996 Shock Wave þTrad. LANGLOIS-CHASSAIGNON Claudie
-o Grasset     ?  1997.xx ..... ISBN 2-246-52391-5
-} noimg          _?                           ?
-- .oM.    iNx    _GARNER James Finn           Contes de No‰l politiquement correct þ? Politically Correct Holiday Stories: For an Enlightened Yuletide Season
+o Grasset     ?  1997.11 ..... ISBN 2-246-52391-5
+} grasset_garner3 _?                           ?
+!--- 130 x 180 mm - 136 pages
+- .oM.    iNx    _GARNER James Finn           Contes de No‰l politiquement corrects ((Politiquement correct)) þ? Politically Correct Holiday Stories: For an Enlightened Yuletide Season
 !------------------------
 !=== 1998
 !------------------------
@@ -341,17 +368,17 @@ o Grasset     ?  1998.xx ..... ISBN 2-246-58459-0
 &                *CHATEAUREYNAUD G.-O.        
 : .o .     p     _CHATEAUREYNAUD G.-O.        Marcel Schneider, le maŒtre du domaine þ1998
 : .o .     N     _SCHNEIDER Marcel            Op‚ra massacre þ1965
-: .o .     N     _SCHNEIDER Marcel            Le Granit et l'absence þ?
+: .o .     r     _SCHNEIDER Marcel            Le Granit et l'absence þ1947
 : .o .     N     _SCHNEIDER Marcel            D‚j… la neige þ1974
-: .o .     N     _SCHNEIDER Marcel            Les Larmes du chƒteau d'oubli þ?
-: .o .     N     _SCHNEIDER Marcel            L'Apparition de la rose þ?
-: .o .     N     _SCHNEIDER Marcel            Le Pilier de l'univers þ?
-: .o .     N     _SCHNEIDER Marcel            Le Lait sanglant de la libert‚ þ?
-: .o .     N     _SCHNEIDER Marcel            N‚morin þ?
-: .o .     N     _SCHNEIDER Marcel            Et carnaval triomphe þ?
-: .o .     N     _SCHNEIDER Marcel            La Seconde Vue þ?
-: .o .     N     _SCHNEIDER Marcel            Sur la c“te sauvage þ?
-: .o .     N     _SCHNEIDER Marcel            Le Trait‚ de Presbourg þ?
+: .o .     N     _SCHNEIDER Marcel            Les Larmes du chƒteau d'oubli þ1998
+: .o .     r     _SCHNEIDER Marcel            L'Apparition de la rose þ1980
+: .o .     N     _SCHNEIDER Marcel            Le Pilier de l'univers þ1998
+: .o .     N     _SCHNEIDER Marcel            Le Lait sanglant de la libert‚ þ1998
+: .o .     N     _SCHNEIDER Marcel            N‚morin þ1998
+: .o .     N     _SCHNEIDER Marcel            Et carnaval triomphe þ1998
+: .o .     N     _SCHNEIDER Marcel            La Seconde Vue þ1955
+: .o .     N     _SCHNEIDER Marcel            Sur la c“te sauvage þ1998
+: .o .     N     _SCHNEIDER Marcel            Le Trait‚ de Presbourg þ1998
 !------------------------
 !=== 1999
 !------------------------
@@ -399,7 +426,7 @@ o Grasset     ?  2004.xx ..... ISBN 2-246-63161-0
 - .o .     R     _RUIZ ZAFON Carlos           L'Ombre du vent [Le CimetiŠre des livres oubli‚s - 1] þ2001 La sombra del viento þTrad. MASPERO Fran‡ois
 o Grasset     ?  2004.05 ..... ISBN 2-246-65451-3
 } noimg          _?                           ?
-- .o .     R     _ALLENDE Isabel              Le Royaume du Dragon d'or [Alexander Cole - 2] þ2003 El reino del Drag¢n de Oro þTrad. LHERMILLIER Alex et Nelly
+- .o .     R     _ALLENDE Isabel              Le Royaume du dragon d'or [Alexander Cole - 2] þ2003 El reino del Drag¢n de Oro þTrad. LHERMILLIER Alex et Nelly
 o Grasset     ?  2004.xx ..... ISBN 2-246-63961-1
 } noimg          _?                           ?
 - .o .     R     _CUSSLER Clive               Walhalla [Dirk Pitt - 16] þ2001 Valhalla Rising þTrad. VIDONNE Fran‡ois
@@ -414,8 +441,8 @@ o Grasset     ?  2005.02 ..... ISBN 2-246-44891-3
 - .oS.     R     _RAMBAUD Patrick             L'Idiot du village þ2005
 o Grasset     ?  2005.02 ..... ISBN 2-246-68281-9
 } noimg          _?                           ?
+!--- Les nouvelles seraient toutes de 1990 … 2002
 - .oF.    kN11   _CHATEAUREYNAUD G.-O.        Singe savant tabass‚ par deux clowns þ2005
-!--- nouvelles de 1990 … 2002
 : .o .     N     _CHATEAUREYNAUD G.-O.        La Seule Mortelle þ2005
 : .o .     N     _CHATEAUREYNAUD G.-O.        Les Ormeaux þ1996
 : .o .     N     _CHATEAUREYNAUD G.-O.        Civils de plomb þ1998
@@ -429,6 +456,7 @@ o Grasset     ?  2005.02 ..... ISBN 2-246-68281-9
 : .o .     N     _CHATEAUREYNAUD G.-O.        La Rue douce þ2005
 o Grasset     ?  2005.02 ..... ISBN 2-246-68361-0
 } noimg          _?                           ?
+!--- 242 pages - 21 cm - 18 euros
 - .oFM     N10   _SCHNEIDER Marcel            Jours de f‚erie - Dix contes merveilleux þ2005
 : .o .     N     _SCHNEIDER Marcel            Un rayon de soleil þ2005
 : .o .     N     _SCHNEIDER Marcel            Un lambeau de nuit þ2005
@@ -450,7 +478,7 @@ o Grasset     ?  2006.05 ..... ISBN 2-246-67181-7
 - .o .     R     _ALLENDE Isabel              La Forˆt des pygm‚es [Alexander Cole - 3] þ2004 El bosque de los Pigmeos þTrad. LHERMILLIER Alex et Nelly
 o Grasset     ?  2006.05 ..... ISBN 2-246-59171-6
 } noimg          _?                           ?
-- .pFS    iN25   _BOYLE T.C.                  25 histoires bizarres þ2006
+- .pFS     N25   _BOYLE T.C.                  25 histoires bizarres þ2006
 !--- Trad. PEPIN Robert, TOMBEUR Kef, ZAVRIEW Andr‚
 : .o .     N     _BOYLE T.C.                  AprŠs le fl‚au þ1999 After the Plague
 : .? .     N     _BOYLE T.C.                  Rupert Beersley et le maŒtre mendiant de Sivani-Hoota þ1985 Rupert Beersley and the Beggar Master of Sivani-Hoota
@@ -470,7 +498,7 @@ o Grasset     ?  2006.05 ..... ISBN 2-246-59171-6
 : .? .     N     _BOYLE T.C.                  En haut de la chaŒne alimentaire þ1994 Top of the Food Chain
 : .? .     N     _BOYLE T.C.                  Zapatos þ1989 Zapatos
 : .o .     N     _BOYLE T.C.                  Le Grand Garage þ1981 The Big Garage
-: .? .     N     _BOYLE T.C.                  L'Explorateur de l'arctique þ? The Artic Explorer
+: .? .     N     _BOYLE T.C.                  L'Explorateur de l'arctique þ? The Arctic Explorer
 : .? .     N     _BOYLE T.C.                  L'Appel des profondeurs þ? Rapture of the deep
 : .? .     N     _BOYLE T.C.                  Qui vole un oeuf... þ? ?
 : .o .     N     _BOYLE T.C.                  Pluie de sang þ1979 Bloodfall
@@ -566,6 +594,14 @@ o Grasset     ?  2016.02 ..... ISBN 978-2-246-86006-8
 : .o .     N     _CHATEAUREYNAUD G.-O.        Le Chef-d'Oeuvre de Guardicci þ1996
 : .o .     N     _CHATEAUREYNAUD G.-O.        L'Autre Histoire þ1997
 : .o .     N     _CHATEAUREYNAUD G.-O.        Tombola þ1997
+o Grasset     ?  2016.09 ..... ISBN 978-2-246-86164-5
+} noimg          _?                           ?
+!--- GF - 140x205 - 317 pages
++ Grasset     ?  2021.11 ..... ISBN 978-2-246-86164-5
+} noimg          _?                           ?
+!--- GF - 140x205 - 317 pages
+- .oS.     R     _AMMANITI Niccolo            Anna þ2015 Anna þTrad. BOUZAHER Myriem
+
 !------------------------
 !=== 2017
 !------------------------
@@ -620,14 +656,14 @@ o Grasset     ?  2019.09 ..... ISBN 978-2-246-81360-6
 - .oS.     R     _MIANO L‚onora               Rouge Imp‚ratrice þ2019
 
 !-----------------------------------------------------------------------------
-_ GrassJ  Ed. Grasset, Coll.  Jeunesse
+_ GrassJ  Grasset - Jeunesse
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 o GrassJ      ?  1963.xx ..... ISBN -
 } noimg          _?                           ?
 + GrassJ      ?  1985.xx ..... ISBN 2-246-30671-X
 } noimg          _?                           ?
-- .o .     N13   _GRIPARI Pierre              Contes de la Folie M‚ricourt [Contes de la Folie M‚ricourt] þ1963
+- .oF.     N13   _GRIPARI Pierre              Contes de la Folie M‚ricourt [Contes de la Folie M‚ricourt] þ1963
 : .o .     N     _GRIPARI Pierre              Les D‚m‚nageurs þ1963
 : .o .     N     _GRIPARI Pierre              Le Renard et sa queue þ1963
 : .o .     N     _GRIPARI Pierre              Pirlipipi, deux sirops, une sorciŠre þ1963
@@ -643,7 +679,7 @@ o GrassJ      ?  1963.xx ..... ISBN -
 : .o .     N     _GRIPARI Pierre              La SorciŠre et le commissaire þ1963
 o GrassJ      ?  1989.xx ..... ISBN 2-246-42491-7
 } noimg          _?                           Boiry
-!--- Grasset jeunesse, Coll. Th‚ƒtre
+!--- Grasset jeunesse, Collection Th‚ƒtre
 + GrassJ      ?  2013.xx ..... ISBN 978-2-246-78698-6
 } noimg          _?                           Till Charlier
 - .o .     N8    _GRIPARI Pierre              Huit farces pour coll‚giens þ1989
@@ -670,7 +706,7 @@ o GrassJ      ?  1990.xx ..... ISBN 2-246-43911-6
 } noimg          _?                           ?
 - .oF.     N6    _GRIPARI Pierre              Autres contes de la rue Broca [Contes de la rue Broca] þ1990
 : .o .     N     _GRIPARI Pierre              La SorciŠre du placard aux balais þ1967
-: .o .     N     _GRIPARI Pierre              La Maison de l'oncle Pierre þ1967
+: .o .     N     _GRIPARI Pierre              La Maison de l'oncle Pierre þ1966
 : .o .     N     _GRIPARI Pierre              Le Prince Blub et la sirŠne þ1967
 : .o .     N     _GRIPARI Pierre              Le Petit Cochon fut‚ þ1967
 : .o .     N     _GRIPARI Pierre              Roman d'amour d'une patate þ1967
@@ -679,7 +715,7 @@ o GrassJ      ?  1990.xx ..... ISBN 2-246-43781-4
 } noimg          _?                           ?
 + GrassJ      ?  1993.xx ..... ISBN 2-246-43782-2
 } noimg          _?                           ?
-!--- Coll. "Grands lecteurs" pour cette r‚‚d. 1993 d'aprŠs BNF
+!--- Collection "Grands lecteurs" pour cette r‚‚d. 1993 d'aprŠs BNF
 + GrassJ      ?  2012.xx ..... ISBN 978-2-246-78689-4
 } noimg          _Guillaume Long              Guillaume Long
 - .oF.    _N8    _GRIPARI Pierre              Contes d'ailleurs et d'autre part þ1990
@@ -702,28 +738,28 @@ o GrassJ      ?  2019.08 ..... ISBN 978-2-246-81651-5
 - .oF.     R     _CARROLL Lewis               De l'autre c“t‚ du miroir [Alice - 2] þ1871 Throught the Looking Glass and What Alice Found There þTrad. ?
 
 !-----------------------------------------------------------------------------
-! GrassCV Ed. Grasset, Les cahiers verts
-! GrassCV Ed. Grasset, Les cahiers verts, nouvelle s‚rie
+! GrassCV Grasset, Les cahiers verts
+! GrassC2 Grasset, Les cahiers verts, nouvelle s‚rie
 !-----------------------------------------------------------------------------
 o GrassCV    43  1924.xx ..... ISBN -
 } noimg          _?                           ?
-- .oFK     R     _GARNETT David               La Femme chang‚e en renard þ1922 Lady Into Fox þTrad. BUSSY Jane Simone et MAUROIS Andr‚
+- .oFK     r     _GARNETT David               La Femme chang‚e en renard þ1922 Lady into Fox þTrad. BUSSY Jane Simone et MAUROIS Andr‚
 o GrassCV    64  1926.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     R     _ARBAUD Joseph d'            La Bˆte du VaccarŠs þ1926 La BŠstio d¢u VacarŠs / La BŠstia dau Vacar‚s
-o GrassCV    51  1959.03 ..... ISBN -
+o GrassC2    51  1959.03 ..... ISBN -
 } noimg          _?                           ?
-- .o .    iN7    _PIEYRE DE MANDIARGUES Andr‚ Feu de braise þ1959
-: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Feu de braise þ?
-: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Rodogune þ?
-: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Miroir morne þ?
-: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ L'Enfantillage þ?
-: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Le Nu parmi les cercueils þ?
-: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Les Pierreuses þ?
+- .oF.    kN7    _PIEYRE DE MANDIARGUES Andr‚ Feu de braise þ1959
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Feu de braise þ1959
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Rodogune þ1959
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Les Pierreuses þ1959
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Le Nu parmi les cercueils þ1959
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Miroir morne þ1959
 : .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Le Diamant þ1959
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ L'Enfantillage þ1959
 
 !-----------------------------------------------------------------------------
-! GrassCR Ed. Grasset, Coll. "Les cahiers rouges"
+! GrassCR Grasset, Les cahiers rouges
 !-----------------------------------------------------------------------------
 o GrassCR    42  1985.xx ..... ISBN 2-246-17683-2
 } noimg          _?                           ?
@@ -756,14 +792,14 @@ o GrassCR    47  1985.08 ..... ISBN 2-246-36633-X
 = .o .     N     _BIERCE Ambrose              Huile de chien þ1890 The Oil of a Dog / Oil of Dog
 o GrassCR    26  1984.05 ..... ISBN 2-246-15622-X
 } noimg          _?                           ?
-- .o .    iN7    _PIEYRE DE MANDIARGUES Andr‚ Feu de braise þ1959
-: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Feu de braise þ?
-: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Rodogune þ?
-: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Miroir morne þ?
-: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ L'Enfantillage þ?
-: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Le Nu parmi les cercueils þ?
-: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Les Pierreuses þ?
+- .oF.    kN7    _PIEYRE DE MANDIARGUES Andr‚ Feu de braise þ1959
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Feu de braise þ1959
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Rodogune þ1959
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Les Pierreuses þ1959
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Le Nu parmi les cercueils þ1959
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Miroir morne þ1959
 : .o .     N     _PIEYRE DE MANDIARGUES Andr‚ Le Diamant þ1959
+: .o .     N     _PIEYRE DE MANDIARGUES Andr‚ L'Enfantillage þ1959
 o GrassCR    68  1987.xx ..... ISBN 2-246-38882-1
 } grasscr68      _?                           ?
 !--- Existence ‚dition 1985 ?
@@ -788,13 +824,14 @@ o GrassCR    68  1987.xx ..... ISBN 2-246-38882-1
 : .o .     N     _BIERCE Ambrose              L'Oiseau moqueur þ1891 The Mocking-Bird
 o GrassCR   195  1994.xx ..... ISBN 2-246-12162-0
 } noimg          _?                           ?
-- .oFK     R     _GARNETT David               La Femme chang‚e en renard þ1922 Lady Into Fox þTrad. BUSSY Jane Simone et MAUROIS Andr‚
+- .oFK     r     _GARNETT David               La Femme chang‚e en renard þ1922 Lady into Fox þTrad. BUSSY Jane Simone et MAUROIS Andr‚
 o GrassCR     ?  2002.05 ..... ISBN 2-246-17102-4
 } noimg          _?                           ?
-- .oF.    iNx    _DHOTEL Andr‚                L'Œle aux oiseaux de fer þ1956
+!--- 126 pages - 19 cm
+- .oF.     r     _DHOTEL Andr‚                L'Œle aux oiseaux de fer þ1956
 
 !-----------------------------------------------------------------------------
-_ GrassLP Ed. Grasset, Coll. "Lampe de Poche"
+_ GrassLP Grasset - Lampe de Poche
 !-----------------------------------------------------------------------------
 !--- Editions Grasset - collection "Lampe de Poche"
 !-----------------------------------------------------------------------------
@@ -818,7 +855,7 @@ o GrassLP     3  1996.xx ..... ISBN 2-246-53651-0
 : .o .     N     _GRIPARI Pierre              La SorciŠre du placard aux balais þ1967
 : .o .     N     _GRIPARI Pierre              La Paire de chaussures þ1967
 : .o .     N     _GRIPARI Pierre              Roman d'amour d'une patate þ1967
-: .o .     N     _GRIPARI Pierre              La Maison de l'oncle Pierre þ1967
+: .o .     N     _GRIPARI Pierre              La Maison de l'oncle Pierre þ1966
 : .o .     N     _GRIPARI Pierre              Le Petit Cochon fut‚ þ1967
 o GrassLP     4  1996.xx ..... ISBN 2-246-54621-4
 } noimg          _?                           ?

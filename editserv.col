@@ -3,7 +3,7 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ EDITOS  Edito-Service, Les chefs-d'oeuvre de la SF ˛1974-1976
+_ EDITOS  Edito-Service - Les chefs-d'oeuvre de la SF ˛1974-1976
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 !--- Edition EDITO-SERVICE (Genäve)
@@ -74,14 +74,14 @@ o EDITOS     18i 1976.xx ..... ISBN .-.....-...-.
 - .o .     R     _HERBERT Frank               L'êtoile et le fouet [Bureau des sabotages - 1] ˛1970 Whipping Star
 o EDITOS     19i 1976.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _ANDERSON Poul               Barriäre mentale ˛1954 Brain Waves
+- .o .     R     _ANDERSON Poul               Barriäre mentale ˛1954 Brain Wave ˛Trad. ?
 o EDITOS     20i 1976.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _HUXLEY Aldous               Le Meilleur des mondes ˛1932 Brave New World ˛Trad. MEUNIER Denise
 : .o .     E     _HUXLEY Aldous               Retour au meilleur des mondes ˛1958 Brave New World Revisited ˛Trad. MEUNIER Denise
 
 !-----------------------------------------------------------------------------
-_ EDITO_A Edito-Service, Coll. Anticipation
+_ EDITO_A Edito-Service - Anticipation
 !-----------------------------------------------------------------------------
 !--- Edition EDITO-SERVICE (Genäve)
 !--- Collection Anticipation
@@ -159,7 +159,7 @@ o EDITO_A    21i 1984.xx ..... ISBN .-.....-...-.
 &                _STROUGATSKI Boris           
 o EDITO_A    22i 1984.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _SURAGNE Pierre              Mais si les papillons trichent... ˛1974
+- .o .     R     _SURAGNE Pierre              Mais si les papillons trichent ˛1974
 o EDITO_A    23i 1984.xx R.... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _STROUGATSKI Arcady         &L'Arc-En-ciel lointain ˛1963 Daliokaãa Radouga ˛Trad. DELMOTTE Svetlana
@@ -181,6 +181,9 @@ o EDITO_A     ?  1984.xx R.... ISBN 2-8302-1542-7
 : .oS.     N     _BRUNNER John                Ràve de Teq ˛1970 The Wager Lost by Winning
 : .oS.     N     _BRUNNER John                Ràve de Taxhling ˛1979 The Things That Are Gods
 : .oS.     N     _BRUNNER John                Ràve de Cleftor ˛1971 Dread Empire
+o EDITO_A     ?  1984.xx ..... ISBN 2-8302-1543-5
+} noimg          _?                           ?
+- .oS.     R     _SILVERBERG Robert           Au temps pour l'espace ˛1959 Starman's Quest ˛Trad. LODIGIANI Michel
 
 !---
 !--- POE  Edgar  Allan ; OEUVRES 
@@ -195,8 +198,16 @@ o EDITO_A     ?  1984.xx R.... ISBN 2-8302-1542-7
 !--- BEL  ENSEMBLE
 
 !-----------------------------------------------------------------------------
-_ EDIT_CH Edito-Service, Chefs-d'oeuvre du roman fantastique
+_ EDIT_CH Edito-Service - Chefs-d'oeuvre du roman fantastique
 !-----------------------------------------------------------------------------
+o EDIT_CH     ?  1968.xx ..... ISBN -
+} noimg          _?                           Christian Broutin
+- .oF.     RN4   _STEVENSON Robert Louis      Dr. Jekyll et Mr. Hyde, suivi de quatre rÇcits ((Le Cas Çtrange du Dr. Jekyll et de Mr. Hyde)) ˛1968
+: .o .     r     _STEVENSON Robert Louis      Dr. Jekyll et Mr. Hyde ˛1885 The Strange Case of Dr Jekyll and Mr Hyde ˛Trad. GUERNE Armel
+: .o .     N     _STEVENSON Robert Louis      Alolla ˛1885 Olalla ˛Trad. VARLET ThÇo
+: .o .     N     _STEVENSON Robert Louis      Le Voleur de cadavres ˛1884 The Body Snatcher
+: .oF.     N     _STEVENSON Robert Louis      Janet la dÇjetÇe ˛1881 Thrawn Janet ˛Trad. VARLET ThÇo
+: .oF.     N     _STEVENSON Robert Louis      Markheim ˛1885 Markheim ˛Trad. VARLET ThÇo
 o EDIT_CH     ?  1968.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     R     _STOKER Bram                 Dracula ˛1897 Dracula ˛Trad. ?
@@ -206,7 +217,7 @@ o EDIT_CH     ?  1969.xx ..... ISBN -
 
 
 !-----------------------------------------------------------------------------
-_ EDITO_C Edito-Service, Coll. Les Classiques du Crime
+_ EDITO_C Edito-Service - Les Classiques du Crime
 !-----------------------------------------------------------------------------
 o EDITO_C    15  1983.xx ..... ISBN 2-8302-0199-X
 } noimg          _?                           ?
@@ -214,7 +225,7 @@ o EDITO_C    15  1983.xx ..... ISBN 2-8302-0199-X
 
 !-----------------------------------------------------------------------------
 !--- Edition SpÇciale
-_ EDITO_P Edito-Service, Les Chefs-d'oeuvre du roman policier
+_ EDITO_P Edito-Service - Les Chefs-d'oeuvre du roman policier
 !-----------------------------------------------------------------------------
 o EDITO_P     ?  1974.xx ..... ISBN -
 } noimg          _?                           MaãtÇ Bournoud-Schorp
@@ -233,4 +244,28 @@ o EDITO_P     ?  1974.xx ..... ISBN -
 : .o .     N     _CHESTERTON Gilbert K.       L'Oeil d'Apollon [Le Päre Brown] ˛1911 The Eye of Apollo ˛Trad. CAMMAERTS Emile
 : .o .     N     _CHESTERTON Gilbert K.       L'êpÇe brisÇe [Le Päre Brown] ˛1911 The Sign of the Broken Sword ˛Trad. CAMMAERTS Emile
 : .o .     N     _CHESTERTON Gilbert K.       Les Trois Instruments de la mort [Le Päre Brown] ˛1911 The Three Tools of Death ˛Trad. CAMMAERTS Emile
+
+!-----------------------------------------------------------------------------
+_ EDITOJL Edito-Service
+!-----------------------------------------------------------------------------
+o EDITOJL     ?  1975.xx ..... ISBN -
+} noimg          _?                           HÇläne Abplanalp
+!--- XXVI + 273 pages - 19 cm - 31 francs
+!--- PrÇface de Francis Lacassin
+- .oF.     N9    _LONDON Jack                &Le Dieu tombÇ du ciel (quand le monde Çtait jeune) ˛1975
+&                *LACASSIN Francis            
+: .o .   3 N     _LONDON Jack                 L'êternitÇ des formes ˛1911 The Eternity of Forms / The Dead Do Not Come Back
+: .o .  22 N     _LONDON Jack                 Qui croit encore aux fantìmes ? ˛1895 Who Believes in Ghosts? ˛Trad. POSTIF Franáois
+: .x .  36 N     _LONDON Jack                 Les morts ne reviennent jamais ˛1909 That Dead Men Rise Up Never ˛Trad. POSTIF Louis
+: .oF.  50 N     _LONDON Jack                 Le Mort qui tue ˛1906 Planchette
+: .oF. 102 N     _LONDON Jack                 L'Ombre et la chair ˛1903 The Shadow and the Flash
+: .oF. 126 N     _LONDON Jack                 Mille fois mort ˛1899 A Thousand Deaths
+: .oF. 144 N     _LONDON Jack                 La Seconde Jeunesse du major Rathbone ˛1899 The Rejuvenation of Major Rathbone
+: .o . 163 N     _LONDON Jack                 Quand le monde Çtait jeune ˛1910 When the World Was Young
+: .o . 192 N     _LONDON Jack                 Un survivant de la prÇhistoire ˛1901 A Relic of the Pliocene
+: .o . 208 N     _LONDON Jack                 Le Dieu tombÇ du ciel ˛1918 The Red One
+: .o . 245 a     _LONDON Joan                 William H. Chaney, päre de Jack London ? ˛1966 W. H. Chaney, A Reappraisal
+: .o .     a     _ASIMOV Isaac                Deux romans fantastiques de Jack London ? ˛1963 Two Out-of-Print
+: .o .     a     _LEIBER Fritz                London et le fantastique rÇvolutionnaire ? ˛1963 The Alien Worlds of Jack London by Dale Walker
+
 

@@ -21,20 +21,21 @@
 !---    aprŠs 95 :  10-18 quasi-exclusivement
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
-_ UGE     UGE, Coll. 10/18
-_ UGE_GD  UGE, Coll. 10/18, Grands D‚tectives
-_ UGE_DE  UGE, Coll. 10/18, Domaine Etranger
-_ UGE_DP  UGE, Coll. 10/18, Domaine Policier
-_ UGE_AI  UGE, Coll. 10/18, Coll. L'aventure insens‚e
-_ UGE_NB  Christian Bourgois, Coll. 10-18, S‚rie "Nuits blˆmes"
-_ UGE_SPE UGE, Coll. 10/18, Edition Sp‚ciale
+_ UGE     UGE - 10/18
+_ UGE_GD  UGE - 10/18 - Grands D‚tectives
+_ UGE_DE  UGE - 10/18 - Domaine Etranger
+_ UGE_DP  UGE - 10/18 - Domaine Policier
+_ UGE_AI  UGE - 10/18 - L'aventure insens‚e
+_ UGE_NB  Christian Bourgois - 10-18 - S‚rie "Nuits blˆmes"
+_ UGE_SPE UGE - 10/18 - Edition Sp‚ciale
+_ UGE_VAU UGE - Dossiers Vaugirard
 !-----------------------------------------------------------------------------
-_ 1018    Ed. 10/18
-_ 1018_GD Ed. 10/18, Coll. Grands d‚tectives
-_ 1018_DF Ed. 10/18, Coll. Domaine fran‡ais
-_ 1018_DE Ed. 10/18, Coll. Domaine ‚tranger
-_ 1018_DP Ed. 10/18, Coll. Domaine policier
-_ 1018_LE Ed. 10/18, Coll. Litt‚rature ‚trangŠre
+_ 1018    10/18
+_ 1018_GD 10/18 - Grands d‚tectives
+_ 1018_DF 10/18 - Domaine fran‡ais
+_ 1018_DE 10/18 - Domaine ‚tranger
+_ 1018_DP 10/18 - Domaine policier
+_ 1018_LE 10/18 - Litt‚rature ‚trangŠre
 !-----------------------------------------------------------------------------
 !-- UGE_MEP UGE, Les maŒtres de l'‚trange et de la peur
 !-----------------------------------------------------------------------------
@@ -86,16 +87,16 @@ o UGE       219/ 1964.xx ..... ISBN -
 o UGE       371/ 1967.xx ..... ISBN -
 /           372
 } 1018_0371      _?                           ?
+!--- L'essai contient les 3 "documents suppl‚mentaires", "The Next Phase of Life", "Automatic Writing" et "The Cheriton Dugout".
 - .oF.    kN6    _DOYLE Arthur Conan          Histoires et messages de l'au-del… ş1967
 : .oF.     p     _LACASSIN Francis            Conan Doyle aux ‚coutes des morts ş1967
 : .oF.     N     _DOYLE Arthur Conan          La Hachette d'argent ş1883 The Silver Hatchet şTrad. ?
 : .oF.     N     _DOYLE Arthur Conan          L'Entonnoir de cuir ş1902 The Leather Funnel şTrad. ?
-: .oF.     N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand şTrad. ?
+: .oF.     N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand / The Brown Hand şTrad. ?
 : .oF.     N     _DOYLE Arthur Conan          Le Lot nø 249 ş1892 Lot Nø 249 şTrad. ?
 : .oF.     r     _DOYLE Arthur Conan          Le Parasite ş1894 The Parasite şTrad. ?
 : .oF.     N     _DOYLE Arthur Conan          Jouer avec le feu ş1900 Playing With Fire şTrad. ?
-!--- Ce dernier essai contient les 3 "documents suppl‚mentaires" :
-!: .o .     a     _DOYLE Arthur Conan          La Nouvelle R‚v‚lation ş1916 The New Revelation şTrad. ?
+: .x .     E     _DOYLE Arthur Conan          La Nouvelle R‚v‚lation ş1916 The New Revelation şTrad. ?
 !--- TBD Boris Vian 496 Les Fourmis 1970 r‚‚d 1979
 !--- TBD 3 volumes suivants, de 498 … 502 (donc 2 doubles, les deux premiers … priori)
 !--- TBD 498-499 : BOULENGER Jacques Les Enfances de Lancelot du Lac. Merlin l'Enchanteur. Les Amours de Lancelot du Lac
@@ -123,7 +124,7 @@ o UGE       583  1971.xx ..... ISBN -
 + UGE       583  1975.xx ..... ISBN -
 } 1018_0583r75   _?                           ?
 !--- Index des noms avec compl‚ment biographiques p. 167-180
-- .o .     E     _LOVECRAFT Howard P.         Epouvante et surnaturel en Litt‚rature ş1935 Supernatural Horror in Literature şTrad. DA COSTA Bernard
+- .o .     E     _LOVECRAFT Howard P.         Epouvante et surnaturel en Litt‚rature ş1927-1935 Supernatural Horror in Literature şTrad. DA COSTA Bernard
 o UGE       498/ 1971.xx ..... ISBN -
 /           499
 } 1018_0498      _?                           ?
@@ -167,13 +168,13 @@ o UGE       681  1972.xx ..... ISBN -
 : .o .     N     _FLANDERS John               Ecrit dans le vent ş?
 : .o .     N     _FLANDERS John               Le Fils de Manu‚ ş?
 : .o .     N     _FLANDERS John               Le Tr‚sor du Wulk ş?
-: .o .     N     _FLANDERS John               Drummer-Hinger ş?
+: .oF.     N     _FLANDERS John               Drummer-Hinger ş? Drummer-Hinger şTrad. ?
 : .o .     N     _FLANDERS John               La Mal‚diction ş?
 : .o .     N     _FLANDERS John               L'Œle Crayratt ş?
 !--- Creyrat dans la texte
 : .o .     N     _FLANDERS John               La DerniŠre Peste de Bergame ş? De laatste pest van Pergamo
 : .o .     N     _FLANDERS John               L'Automate ş?
-: .o .     N     _FLANDERS John               L'Horreur de Shorcham ş?
+: .oF.     N     _FLANDERS John               L'Horreur de Shoreham ş1946 De verschrikking van Shoreham
 : .o .     N     _FLANDERS John               Le Monstre des abŒmes ş?
 : .o .     N     _FLANDERS John               Le Visage du p“le ş?
 : .o .     N     _FLANDERS John               Le Justicier de la mer ş?
@@ -182,15 +183,15 @@ o UGE       681  1972.xx ..... ISBN -
 : .o .     N     _FLANDERS John               L'Avare fant“me ş?
 : .o .     N     _FLANDERS John               La Trouvaille de monsieur Sweetpipe ş?
 !--- II. Contes d'aventures
-: .o .     N     _FLANDERS John               Les Collines rouges ş?
+: .oF.     N     _FLANDERS John               Les Collines rouges ş? De Rode Heuvels
 : .o .     N     _FLANDERS John               La Statue assassin‚e ş1937
 : .o .     N     _FLANDERS John               Le Client de minuit ş?
-: .o .     N     _FLANDERS John               L'Ange noir ş1921
-: .o .     N     _FLANDERS John               Le Secret d'Allan Harbury ş?
+: .oF.     N     _FLANDERS John               L'Ange noir ş1921 De Swarte Engel
+: .o .     N     _FLANDERS John               Le Secret d'Allan Harbury ş? ?
 : .o .     N     _FLANDERS John               Brouillard et compagnie ş?
-: .o .     N     _FLANDERS John               Le Miroir v‚nitien ş? ?
+: .o .     N     _FLANDERS John               Le Miroir v‚nitien ş1969 Het Gelaat in de Spiegel şTrad. ?
 : .o .     N     _FLANDERS John               Les Contes de ma mŠre l'oye ş?
-: .o .     N     _FLANDERS John               Le Minotaure de m‚tal ş?
+: .o .     N     _FLANDERS John               Le Minotaure de m‚tal ş? ?
 : .o .     N     _FLANDERS John               La Neuvaine d'‚pouvante ş1946
 !--- II. Contes marins
 : .o .     N     _FLANDERS John               Le Diable … bord ş?
@@ -206,8 +207,9 @@ o UGE       700  1972.T3 ..... ISBN -
 + UGE       700  1975.04 ..... ISBN -
 } 1018_0700r75   _Pierre Bernard              ?
 - .o .     R     _BURROUGHS William S.        Le Ticket qui explosa [La Trilogie Nova] ş1962 The Ticket That Exploded şTrad. BEACH Mary + PELIEU Claude
-o UGE       757  1972.xx ..... ISBN -
+o UGE       736  1972.xx ..... ISBN -
 } 1018_0757      _?                           ?
+!--- 18 cm - 502 pages - 9,30 francs
 - .o .     R     _LEWIS Matthew Gregory       Le Moine ş1796 The Monk şTrad. WAILLY L‚on de
 !------------------------
 !=== 1973
@@ -231,7 +233,6 @@ o UGE       823  1973.xx ..... ISBN -
 } 1018_0823      _?                           ?
 !--- Id Joseph Corti
 !--- Pr‚face Hubert Juin
-!--- TBD Contenu
 - .oF.    iNx    _GAUTIER Th‚ophile           Contes fantastiques ((Contes fantastiques de Th‚ophile Gautier)) ş1962
 !------------------------
 !=== 1974
@@ -253,7 +254,7 @@ o UGE       863  1974.xx ..... ISBN -
 : .o .     p     _LACASSIN Francis            Jack London, entre le merveilleux contestataire et le jugement dernier ş1974
 : .o .     N     _LONDON Jack                 L'Ennemi du monde entier ş1908 The Enemy of All the World
 : .o .     N     _LONDON Jack                 L'Invasion sans pareille ş1910 The Unparalleled Invasion
-: .o .     N     _LONDON Jack                 Goliath ş1910 Goliath
+: .o .     N     _LONDON Jack                 Goliath ş1910 Goliah
 : .o .     N     _LONDON Jack                 Un curieux fragment ş1908 A Curious Fragments
 : .o .     r     _LONDON Jack                 La Peste ‚carlate ş1912 The Scarlet Plague
 o UGE_AI    869  1974.xx ..... ISBN -
@@ -300,7 +301,7 @@ o UGE       882  1974.09 ..... ISBN -
 : .o .     N     _LORRAIN Jean                L'Homme au bracelet ş1896
 : .o .     N     _LORRAIN Jean                Haricot vert ş1895
 : .o .     N     _LORRAIN Jean                L'Homme au tˆte de cires ş1893
-: .o .     N     _LORRAIN Jean                Le Verre de sang ş1893
+: .o .     N     _LORRAIN Jean                Le Verre de sang ş1892
 : .o .     N     _LORRAIN Jean                L'Impossible alibi ş1899
 : .o .     N     _LORRAIN Jean                Le Masque ş1900
 : .o .     N     _LORRAIN Jean                Oraison funŠbre ş1891
@@ -309,9 +310,9 @@ o UGE       882  1974.09 ..... ISBN -
 : .o .     N     _LORRAIN Jean                R‚clamation posthume ş1895
 : .o .     N     _LORRAIN Jean                Un crime inconnu ş1895
 : .o .     N     _LORRAIN Jean                Les Trous du masque ş1895
-: .o .     N     _LORRAIN Jean                Le Visionnaire ş1895
-: .o .     N     _LORRAIN Jean                Le Poss‚d‚ ş1895
-: .o .     N     _LORRAIN Jean                La Main gant‚e ş1895
+: .o .     N     _LORRAIN Jean                Le Visionnaire ş1892
+: .o .     N     _LORRAIN Jean                Le Poss‚d‚ ş1893
+: .o .     N     _LORRAIN Jean                La Main gant‚e ş1893
 : .o .     N     _LORRAIN Jean                Le Double ş1895
 : .o .     N     _LORRAIN Jean                Lanterne magique ş1900
 : .o .     N     _LORRAIN Jean                L'gr‚gore ş1888
@@ -360,12 +361,12 @@ o UGE       911  1974.xx ..... ISBN -
 !------------------------
 o UGE       924  1975.xx ..... ISBN -
 } 1018_0924      _?                           ?
-- .o .    kN23   _KLEIN G‚rard                Histoires comme si... ş1975
+- .oS.    kN23   _KLEIN G‚rard                Histoires comme si... ş1975
 : .o .     N     _KLEIN G‚rard                Rencontre ş1960
 : .o .     N     _KLEIN G‚rard                Le Bord du chemin ş1957
 : .o .     N     _KLEIN G‚rard                La Pluie ş1959
 : .o .     N     _KLEIN G‚rard                Le Dernier Moustique de l'‚t‚ ş1962
-: .o .     N     _KLEIN G‚rard                Le Vieil homme et l'espace ş1962
+: .o .     N     _KLEIN G‚rard                Le Vieil Homme et l'espace ş1962
 : .o .     N     _KLEIN G‚rard                La Vall‚e des ‚chos ş1959
 : .o .     N     _KLEIN G‚rard                Discours pour le centiŠme anniversaire de l'Internationale v‚g‚tarienne ş1968
 : .o .     N     _KLEIN G‚rard                Les Plus Honorables emplois de la Terre... ş1966
@@ -383,31 +384,35 @@ o UGE       924  1975.xx ..... ISBN -
 : .o .     N     _KLEIN G‚rard                Les Recruteurs ş1958
 : .o .     N     _KLEIN G‚rard                Les enfers sont les enfers ş1960
 : .o .     N     _KLEIN G‚rard                Magie noire ş1964
-: .o .     N     _KLEIN G‚rard                Vous mourrez quand mˆme... ş1960
+: .x .     N     _KLEIN G‚rard                Vous mourrez quand mˆme... ş1960
 : .o .     N     _KLEIN G‚rard                Le Cavalier au centipŠde ş1958
 o UGE       953  1976.01 ..... ISBN 2-264-00010-4
 } 1018_0953      _?                           ?
 - .o .     R     _BIOY CASARES Adolfo         L'Invention de Morel ş1940 La invencion de Morel şTrad. PIERHAL Armand
 o UGE       957  1975.xx ..... ISBN -
 } 1018_0957      _?                           ?
-- .oF.    kN9    _LONDON Jack                &Le Dieu tomb‚ du ciel ş1975
+!--- 298 pages - 18 cm - 11,22 francs
+- .oF.     N9    _LONDON Jack                &Le Dieu tomb‚ du ciel ş1975
 &                *LACASSIN Francis            
-: .o .     N     _LONDON Jack                 L'ternit‚ des formes ş1911 The Eternity of Forms
+: .o .     N     _LONDON Jack                 L'ternit‚ des formes ş1911 The Eternity of Forms / The Dead Do Not Come Back
 : .o .     N     _LONDON Jack                 Qui croit encore aux fant“mes ? ş1895 Who Believes in Ghosts?
+: .x .     N     _LONDON Jack                 Les morts ne reviennent jamais ş1909 That Dead Men Rise Up Never şTrad. ?
 : .oF.     N     _LONDON Jack                 Le Mort qui tue ş1906 Planchette
-!: .oF.     a     _LONDON Jack                 Les morts ne reviennent jamais ş? ?
 : .oF.     N     _LONDON Jack                 L'Ombre et la chair ş1903 The Shadow and the Flash
 : .oF.     N     _LONDON Jack                 Mille fois mort ş1899 A Thousand Deaths
 : .oF.     N     _LONDON Jack                 La Seconde Jeunesse du major Rathbone ş1899 The Rejuvenation of Major Rathbone
 : .o .     N     _LONDON Jack                 Quand le monde ‚tait jeune ş1910 When the World Was Young
 : .o .     N     _LONDON Jack                 Un survivant de la pr‚histoire ş1901 A Relic of the Pliocene
 : .o .     N     _LONDON Jack                 Le Dieu tomb‚ du ciel ş1918 The Red One
+: .o .     a     _LONDON Joan                 William H. Chaney, pŠre de Jack London ? ş1966 W. H. Chaney, A Reappraisal
+: .o .     a     _ASIMOV Isaac                Deux romans fantastiques de Jack London ? ş1963 Two Out-of-Print
+: .o .     a     _LEIBER Fritz                London et le fantastique r‚volutionnaire ? ş1963 The Alien Worlds of Jack London by Dale Walker
 o UGE       960  1975.xx ..... ISBN -
 } 1018_0960      _?                           ?
-- .o .     R2    _FLANDERS John               Le Secret des Sargasses ş?
+- .o .     R2    _FLANDERS John               Le Secret des Sargasses, suivi de la Porte sous les eaux ş1975
 !--- Adaptation Jacques VAN HERP, pr‚sent‚s par Hageland
 : .o .     R     _FLANDERS John               Le Secret des Sargasses ş? Geheimen van het Noorden
-: .o .     R     _FLANDERS John               La Porte sous les eaux ş?
+: .o .     R     _FLANDERS John               La Porte sous les eaux ş1960
 o UGE_AI    970  1975.xx ..... ISBN -
 } 1018_0970      _?                           ?
 - .oF.     R     _DUMAS Alexandre             Le Chƒteau d'Eppstein ş1844
@@ -473,7 +478,7 @@ o UGE_AI   1044  1976.04 ..... ISBN 2-264-00034-1
 : .o .     N     _STEVENSON Robert Louis      Will du moulin ş1877 Will O' the Mill şTrad. VARLET Th‚o
 : .o .     N     _STEVENSON Robert Louis      Janet la revenante ş1881 Thrawn Janet şTrad. VARLET Th‚o
 : .o .     N     _STEVENSON Robert Louis      Olalla ş1885 Olalla şTrad. VARLET Th‚o
-: .oF.     N     _STEVENSON Robert Louis      Markheim ş1886 Markheim şTrad. VARLET Th‚o
+: .oF.     N     _STEVENSON Robert Louis      Markheim ş1885 Markheim şTrad. VARLET Th‚o
 : .oF.     N     _STEVENSON Robert Louis      Histoire de Tod Lapraik ş1893 The Tale of Tod Lapraik şTrad. VARLET Th‚o
 : .o .     N     _STEVENSON Robert Louis      Thorgunna la solitaire ş1916 The Waif Woman şTrad. VARLET Th‚o
 : .o .     o     _LACASSIN Francis            Robert-Louis Setevenson ou le fantastique de l'expiation ş1976
@@ -538,7 +543,6 @@ o UGE      1163  1977.T3 ..... ISBN 2-264-00185-2
 !--- Introduction par Miles
 !--- Roman-collection : pourra ˆtre d‚crit comme un recueil de nouvelles li‚es
 - .o .     R     _BURROUGHS William S.        Exterminateur ! ş1973 Exterminator! şTrad. BEACH Mary et WASHBURN Claude P.
-!--- TBD 1166 Marc CHOLODENKO Le Roi des f‚es 1977 - reed 2014 (conte & l‚gende & adulte) ?
 !------------------------
 !=== 1978
 !------------------------
@@ -578,7 +582,7 @@ o UGE      1236  1978.xx ..... ISBN 2-264-00891-1
 : .o .     N     _DISCH Thomas M.             Quinconce ş1969 Quincunx
 : .o .     N     _SALLIS James                Jim et Mary G. ş1970 Jim and Mary G
 : .o .     N     _SAXTON Josephine            L'Enfant de la nature ş1971 Nature Boy
-: .o .     N     _BLATTLIN Dominique          Vurna le goŒtreux ş1975
+: .o .     N     _BLATTLIN Dominique          Vurna le goŒtreux ş1976
 : .o .     N     _VILA Christian              Oc‚an ş1978
 : .o .     N     _BRUSSOLO Serge             &L'‚vad‚ ş1972
 &                _DUL Jean-Jacques            
@@ -589,7 +593,7 @@ o UGE      1243  1978.xx ..... ISBN 2-264-00912-8
 + UGE      1243  1982.xx ..... ISBN .-.....-...-.
 } 1018_1243r82   _?                           ?
 - .oY.    _N3    _TOLKIEN J.R.R.              Fa‰rie ş1974
-: .o .     r     _TOLKIEN J.R.R.              Le Fermier Gilles de Ham ş1949 Farmer Gil Of Ham
+: .o .     r     _TOLKIEN J.R.R.              Le Fermier Gilles de Ham ş1949 Farmer Gil of Ham
 : .o .     N     _TOLKIEN J.R.R.              Smith de Grand Wootton ş1967 Smith of Wootton Major
 : .o .     N     _TOLKIEN J.R.R.              Feuille de Niggle ş1945 Leaf by Niggle
 : .o .     a     _TOLKIEN J.R.R.              Du conte de f‚es ş1939 On Fairy-Stories şTrad. LEDOUX F.
@@ -619,10 +623,11 @@ o UGE      1244  1978.xx ..... ISBN 2-264-00913-6
 : .o .     P     _TOLKIEN J.R.R.              Le Dernier Vaisseau ş1962 The Last Ship
 o UGE_AI   1245  1982.T2 ..... ISBN 2-264-00914-4
 } 1018_1245      _?                           ?
-- .oS.    kRN    _LE ROUGE Gustave            Le Sous-Marin Jules Verne ş1982
-!&                _GUITTON Gustave             
+- .oS.    kRN    _LE ROUGE Gustave           &Le Sous-Marin Jules Verne ş1982
+&                _GUITTON Gustave             
 : .o .     p     _LE ROUGE Gustave            Dans le sillage du Nautilus ş1982
-: .o .     R     _LE ROUGE Gustave            Le Sous-Marin Jules Verne ş1902
+: .o .     R     _LE ROUGE Gustave           &Le Sous-Marin Jules Verne ş1902
+&                _GUITTON Gustave             
 : .o .     N     _LE ROUGE Gustave            La Rue hant‚e ş1914
 !------------------------
 !=== 1979
@@ -633,10 +638,10 @@ o UGE      1273  1979.xx ..... ISBN 2-264-00947-0
 o UGE      1298  1979.xx ..... ISBN 2-264-00978-0
 } 1018_1298      _?                           ?
 !--- Pr‚face Hubert Juin
+!--- TBD si les recueils (N18 Coeur double et N16 La L‚gende des gueux) sont identifi‚s
 - .pF.     RN34  _SCHWOB Marcel               Coeur double - Mimes ş1979
 : .oF.     N34   _SCHWOB Marcel               Coeur double ş1891
 = .oF.     p     _SCHWOB Marcel               Pr‚face ş1891
-!---      kN18   _SCHWOB Marcel               Coeur double ş1891
 = .oF.     N     _SCHWOB Marcel               Les Striges ş1891
 = .oF.     N     _SCHWOB Marcel               Le Sabot ş1891
 = .o .     N     _SCHWOB Marcel               Les Trois Gabelous ş1891
@@ -655,7 +660,6 @@ o UGE      1298  1979.xx ..... ISBN 2-264-00978-0
 = .o .     N     _SCHWOB Marcel               L'Homme gras ş1891
 = .o .     N     _SCHWOB Marcel               Le Conte des oeufs ş1891
 = .o .     N     _SCHWOB Marcel               Le Dom ş1891
-!---      kN16   _SCHWOB Marcel               La L‚gende des gueux ş1891
 = .o .     N     _SCHWOB Marcel               L'ƒge de la pierre polie - La Vendeuse d'ambre ş1891
 = .o .     N     _SCHWOB Marcel               L'poque romaine - La Moisson Sabine ş1890
 = .o .     N     _SCHWOB Marcel               QuatorziŠme siŠcle - Les Routiers - M‚rigot MarchŠs ş1891
@@ -801,7 +805,7 @@ o UGE_AI   1479  1982.xx ..... ISBN 2-264-00432-0
 : .oF.     r     _DOYLE Arthur Conan          Le Parasite ş1894 The Parasite şTrad. ?
 : .oF.     N     _DOYLE Arthur Conan          L'Horreur du Blue John ş1910 The Terror of Blue John Gap şTrad. ?
 : .! .     N     _DOYLE Arthur Conan          Le Chat du Br‚sil ş1898 The Story of the Brazilian Cat şTrad. ?
-: .! .     N     _DOYLE Arthur Conan          Le MystŠre de la vall‚e de Sasassa ş1879 The Mystery of Sasassa Valley şTrad. ?
+: .x .     N     _DOYLE Arthur Conan          Le MystŠre de la vall‚e de Sasassa ş1879 The Mystery of Sasassa Valley şTrad. ?
 : .oS.     N     _DOYLE Arthur Conan          La Machine … d‚sint‚grer [Le Professeur Challenger] ş1928 The Disintegration Machine şTrad. ?
 : .oF.     N     _DOYLE Arthur Conan          Comment la chose arriva ş1913 How It Happened şTrad. ?
 : .! .     N     _DOYLE Arthur Conan          A travers le voile ş1911 Trough the Veil şTrad. ?
@@ -816,7 +820,7 @@ o UGE_AI   1482  1982.03 ..... ISBN 2-264-00425-8
 : .o .     N     _DOYLE Arthur Conan          Le M‚decin noir ş1912 The Black Doctor
 : .o .     N     _DOYLE Arthur Conan          Le Collier du grand prˆtre ş1899 The Jew's Breastplate
 : .! .     N     _DOYLE Arthur Conan          L'picier au pied-bot ş1898 The Story of the Club-Footer Grocer
-: .o .     N     _DOYLE Arthur Conan          Le Chasseur de scarab‚es ş1911 The Beetle Hunter
+: .x .     N     _DOYLE Arthur Conan          Le Chasseur de scarab‚es ş1898 The Story of the Beetle Hunter
 : .o .     N     _DOYLE Arthur Conan          L'trange Professeur ş1899 The Story of the Latin Tutor / The Usher of Lea House School
 : .o .     N     _DOYLE Arthur Conan          Une heure bien remplie ş1911 One Crowded Hour
 : .! .     N     _DOYLE Arthur Conan          Pris au piŠge ş1899 B. 24
@@ -885,7 +889,7 @@ o UGE_GD   1562  1983.xx ..... ISBN 2-264-00525-4
 !------------------------
 o UGE_DE   1600  1984.xx ..... ISBN 2-264-00566-1
 } 1018_1600      _?                           ?
-- .oFK     R     _GARNETT David               La Femme chang‚e en renard ş1922 Lady Into Fox şTrad. BUSSY J.-S et MAUROIS A.
+- .oFK     r     _GARNETT David               La Femme chang‚e en renard ş1922 Lady into Fox şTrad. BUSSY J.-S et MAUROIS A.
 o UGE_DE   1622  1984.03 ..... ISBN 2-264-00594-7
 } 1018_1622      _?                           ?
 + UGE_DE   1622  1993.xx ..... ISBN 2-264-00594-7
@@ -973,12 +977,12 @@ o UGE_AI   1853  1987.xx ..... ISBN 2-264-01050-9
 !--- + postface Lacassin ?
 !--- Discours d'adieu au CongrŠs Spirite International de 1928, Conan Doyle
 !--- Bibliographie, F. Lacassin
-: .oF.     N     _DOYLE Arthur Conan          L'Anneau de Thoth ş1890 The Ring of Thot şTrad. ?
+: .oF.     N     _DOYLE Arthur Conan          L'Anneau de Thoth ş1890 The Ring of Thoth şTrad. ?
 : .o .     N     _DOYLE Arthur Conan          Le Miroir d'argent ş1908 The Silver Mirror şTrad. ?
 : .oF.     N     _DOYLE Arthur Conan          Le Lot nø 249 ş1892 Lot Nø 249 şTrad. ?
 : .oF.     N     _DOYLE Arthur Conan          La Grande Exp‚rience de Keinplatz ş1885 The Great Keinplatz Experiment şTrad. ?
 : .o .     N     _DOYLE Arthur Conan          Le Manoir hant‚ de Goresthorpe ş1883 The Secret of Goresthorpe Grange / Selecting a Ghost şTrad. ?
-: .oF.     N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand şTrad. ?
+: .oF.     N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand / The Brown Hand şTrad. ?
 : .o .     N     _DOYLE Arthur Conan          Les Trois Fianc‚s morts ş1884 John Barrington Cowles şTrad. ?
 : .o .     N     _DOYLE Arthur Conan          Le Capitaine de l'‚toile polaire ş1883 The Captain of the Polestar şTrad. ?
 : .oF.     N     _DOYLE Arthur Conan          En jouant avec le feu ş1900 Playing With Fire şTrad. ?
@@ -1080,18 +1084,18 @@ o UGE_GD   1980  1989.xx ..... ISBN 2-264-01274-9
 } 1018_1980r99   _?                           N
 - .xP.    _N12   _ASIMOV Isaac                Le Club des Veufs Noirs [Le Club des Veufs Noirs - 1] ş1974 Tales of the Black Widowers şTrad. VALENCIA MichŠle
 !--- s‚rie "Grands d‚tectives"
-: .xP.     N     _ASIMOV Isaac                Le Sourire acquisiteur ş1972 The Acquisitive Chuckle
-: .xP.     N     _ASIMOV Isaac                Dr“le de doctorat ! ş1972 The Phony Ph. D.
-: .xP.     N     _ASIMOV Isaac                Rien que la v‚rit‚ ş1972 The Man Who Never Told a Lie
-: .xP.     N     _ASIMOV Isaac                Vogue, petite plaquette ş1972 The Matchbook Collector
-: .xP.     N     _ASIMOV Isaac                Dimanche matin, aux aurores ş1973 The Biological Clock
-: .xP.     N     _ASIMOV Isaac                L'vidence mˆme ş1973 The Obvious Factor
-: .xP.     N     _ASIMOV Isaac                Ce qu'il montrait du doigt ş1973 The Pointing Finger
-: .xP.     N     _ASIMOV Isaac                Miss quoi ? ş1973 A Warning to Miss Earth
-: .xP.     N     _ASIMOV Isaac                La Berceuse de Broadway ş1974 The Lullaby of Broadway
-: .xP.     N     _ASIMOV Isaac                Yankee Doodle s'en est all‚ en ville ş1974 Yankee Doodle Went to Town
-: .xP.     N     _ASIMOV Isaac                La Curieuse omission ş1974 The Curious Omission
-: .xP.     N     _ASIMOV Isaac                Hors de vue ş1973 The Six Suspects
+: .xP.     N     _ASIMOV Isaac                Le Sourire acquisiteur [Le Club des Veufs Noirs] ş1972 The Acquisitive Chuckle
+: .xP.     N     _ASIMOV Isaac                Dr“le de doctorat ! [Le Club des Veufs Noirs] ş1972 The Phony Ph. D.
+: .xP.     N     _ASIMOV Isaac                Rien que la v‚rit‚ [Le Club des Veufs Noirs] ş1972 The Man Who Never Told a Lie
+: .xP.     N     _ASIMOV Isaac                Vogue, petite plaquette [Le Club des Veufs Noirs] ş1972 The Matchbook Collector
+: .xP.     N     _ASIMOV Isaac                Dimanche matin, aux aurores [Le Club des Veufs Noirs] ş1973 The Biological Clock
+: .xP.     N     _ASIMOV Isaac                L'vidence mˆme [Le Club des Veufs Noirs] ş1973 The Obvious Factor
+: .xP.     N     _ASIMOV Isaac                Ce qu'il montrait du doigt [Le Club des Veufs Noirs] ş1973 The Pointing Finger
+: .xP.     N     _ASIMOV Isaac                Miss quoi ? [Le Club des Veufs Noirs] ş1973 A Warning to Miss Earth
+: .xP.     N     _ASIMOV Isaac                La Berceuse de Broadway [Le Club des Veufs Noirs] ş1974 The Lullaby of Broadway
+: .xP.     N     _ASIMOV Isaac                Yankee Doodle s'en est all‚ en ville [Le Club des Veufs Noirs] ş1974 Yankee Doodle Went to Town
+: .xP.     N     _ASIMOV Isaac                La Curieuse omission [Le Club des Veufs Noirs] ş1974 The Curious Omission
+: .xP.     N     _ASIMOV Isaac                Hors de vue [Le Club des Veufs Noirs] ş1973 The Six Suspects
 o UGE_DE   1983  1989.xx ..... ISBN 2-264-01277-3
 } 1018_1983      _?                           ?
 - .o .     R     _ELIADE Mirc‚a               Mademoiselle Christina ş1936 Domnisoara Christina şTrad. LEVENSON Claude B.
@@ -1129,7 +1133,7 @@ o UGE_DE   2012  1989.04 ..... ISBN 2-264-01337-0
 &                *ZYLBERSTEIN Jean-Claude     
 : .oS.     N     _DICK Philip K.              Foster, vous ˆtes mort ! ş1955 Foster, You're Dead
 : .oS.     N     _DICK Philip K.              Les Rampeurs ş1954 The Crawlers
-: .oS.     N     _DICK Philip K.              Un monde de talents ş1954 A World of Talent
+: .oS.     N     _DICK Philip K.              Un monde de talents ş1954 A World of Talents
 : .oS.     N     _DICK Philip K.              Le PŠre truqu‚ ş1953 The Father-thing
 : .oS.     N     _DICK Philip K.              ClientŠle captive ş1955 Captive Market
 : .oS.     N     _DICK Philip K.              Autofac ş1955 Autofac
@@ -1141,18 +1145,18 @@ o UGE      2015  1989.xx ..... ISBN 2-264-01344-3
 + UGE      2015  1999.07 ..... ISBN 2-264-02666-9
 } 1018_2015r99   _?                           N
 - .xP.    _N12   _ASIMOV Isaac                Retour au club des Veufs Noirs [Le Club des Veufs Noirs - 2] ş1976 More Tales of the Black Widowers şTrad. VALENCIA MichŠle
-: .xP.     N     _ASIMOV Isaac                Quand nul ne les poursuit ş1974 When No Man Pursueth
-: .xP.     N     _ASIMOV Isaac                En un clin d'oil ş1974 Quicker than the Eye
-: .xP.     N     _ASIMOV Isaac                Le Joyau de fer ş1974 A Chip of the Black Stone / The Iron Gem
-: .xP.     N     _ASIMOV Isaac                Les Trois Nombres ş1974 All in the Way You Read It / The Three Numbers
-: .xP.     N     _ASIMOV Isaac                Un meurtre ? Rien de tel ş1974 Nothing Like Murder
-: .xP.     N     _ASIMOV Isaac                D‚fense de fumer ş1975 Confessions of an American Cigarette Smoker / No Smoking
-: .xP.     N     _ASIMOV Isaac                Meilleurs voeux ş1976 Season's Greeting!
-: .xP.     N     _ASIMOV Isaac                La Seule et unique … l'Est ş1975 The One and only East
-: .xP.     N     _ASIMOV Isaac                Coucher de terre et ‚toile du soir ş1975 Earthset and Evening Star
-: .xP.     N     _ASIMOV Isaac                Vendredi treize ş1975 Friday the Thirteenth
-: .xP.     N     _ASIMOV Isaac                L'Int‚grale ş1976 The Unabridged
-: .xP.     N     _ASIMOV Isaac                Le Crime suprˆme ş1976 The Ultimate Crime
+: .xP.     N     _ASIMOV Isaac                Quand nul ne les poursuit [Le Club des Veufs Noirs] ş1974 When No Man Pursueth
+: .xP.     N     _ASIMOV Isaac                En un clin d'oeil [Le Club des Veufs Noirs] ş1974 Quicker than the Eye
+: .xP.     N     _ASIMOV Isaac                Le Joyau de fer [Le Club des Veufs Noirs] ş1974 A Chip of the Black Stone / The Iron Gem
+: .xP.     N     _ASIMOV Isaac                Les Trois Nombres [Le Club des Veufs Noirs] ş1974 All in the Way You Read It / The Three Numbers
+: .xP.     N     _ASIMOV Isaac                Un meurtre ? Rien de tel [Le Club des Veufs Noirs] ş1974 Nothing Like Murder
+: .xP.     N     _ASIMOV Isaac                D‚fense de fumer [Le Club des Veufs Noirs] ş1975 Confessions of an American Cigarette Smoker / No Smoking
+: .xP.     N     _ASIMOV Isaac                Meilleurs voeux [Le Club des Veufs Noirs] ş1976 Season's Greeting!
+: .xP.     N     _ASIMOV Isaac                La Seule et unique … l'Est [Le Club des Veufs Noirs] ş1975 The One and only East
+: .xP.     N     _ASIMOV Isaac                Coucher de Terre et ‚toile du soir [Le Club des Veufs Noirs] ş1975 Earthset and Evening Star
+: .x .     N     _ASIMOV Isaac                Vendredi treize [Le Club des Veufs Noirs] ş1976 Friday the Thirteenth şTrad. MARTIN Bruno
+: .xP.     N     _ASIMOV Isaac                L'Int‚grale [Le Club des Veufs Noirs] ş1976 The Unabridged
+: .xP.     N     _ASIMOV Isaac                Le Crime suprˆme [Le Club des Veufs Noirs] ş1976 The Ultimate Crime
 o UGE_NB   2016  1989.xx ..... ISBN 2-264-01375-3
 } 1018_2016      _?                           ?
 - .x .     R     _MATHESON Richard            Jour de fureur ş1953 Fury on Sunday şTrad. WATKINS F.M.
@@ -1174,18 +1178,18 @@ o UGE_GD   2061  1989.xx ..... ISBN 2-264-01431-8
 + UGE      2061  1999.07 ..... ISBN 2-264-02694-4
 } 1018_2061r99   _?                           ?
 - .xP.    _N12   _ASIMOV Isaac                A table avec les Veufs Noirs [Le Club des Veufs Noirs - 3] ş1984 Banquets of the Black Widowers şTrad. VALENCIA MichŠle
-: .xP.     N     _ASIMOV Isaac                Soixante millions de milliard de combinaisons ş1980 64 Million Trillion Combination / Sixty Million Trillion Combination
-: .xP.     N     _ASIMOV Isaac                Une femme dans un bar ş1980 The Man who Pretended to Like Baseball / The Woman in the Bar
-: .xP.     N     _ASIMOV Isaac                Le Chauffeur ş1984 The Driver
-: .xP.     N     _ASIMOV Isaac                Le Bon Samaritain ş1980 The Good Samaritan
-: .xP.     N     _ASIMOV Isaac                Le D‚but de l'action ş1981 The Gilbert and Sullivan Mystery / The Year of the Action
-: .xP.     N     _ASIMOV Isaac                Pouvez-vous le prouver ? ş1981 Can You Prove It?
-: .xP.     N     _ASIMOV Isaac                La Babiole ph‚nicienne ş1982 The Phoenician Bauble
-: .xP.     N     _ASIMOV Isaac                Un lundi d'avril ş1983 A Monday in April
-: .xP.     N     _ASIMOV Isaac                Ni brute, ni humain ş1984 Neither Brute nor Human
-: .xP.     N     _ASIMOV Isaac                La Rousse ş1984 The Redhead
-: .xP.     N     _ASIMOV Isaac                Quand on se trompe de maison ş1984 The Wrong House
-: .xP.     N     _ASIMOV Isaac                L'Intrusion ş1984 The Intrusion
+: .xP.     N     _ASIMOV Isaac                Soixante millions de milliard de combinaisons [Le Club des Veufs Noirs] ş1980 64 Million Trillion Combination / Sixty Million Trillion Combination
+: .xP.     N     _ASIMOV Isaac                Une femme dans un bar [Le Club des Veufs Noirs] ş1980 The Man who Pretended to Like Baseball / The Woman in the Bar
+: .xP.     N     _ASIMOV Isaac                Le Chauffeur [Le Club des Veufs Noirs] ş1984 The Driver
+: .xP.     N     _ASIMOV Isaac                Le Bon Samaritain [Le Club des Veufs Noirs] ş1980 The Good Samaritan
+: .xP.     N     _ASIMOV Isaac                Le D‚but de l'action [Le Club des Veufs Noirs] ş1981 The Gilbert and Sullivan Mystery / The Year of the Action
+: .xP.     N     _ASIMOV Isaac                Pouvez-vous le prouver ? [Le Club des Veufs Noirs] ş1981 Can You Prove It?
+: .xP.     N     _ASIMOV Isaac                La Babiole ph‚nicienne [Le Club des Veufs Noirs] ş1982 The Phoenician Bauble
+: .xP.     N     _ASIMOV Isaac                Un lundi d'avril [Le Club des Veufs Noirs] ş1983 A Monday in April
+: .xP.     N     _ASIMOV Isaac                Ni brute, ni humain [Le Club des Veufs Noirs] ş1984 Neither Brute nor Human
+: .xP.     N     _ASIMOV Isaac                La Rousse [Le Club des Veufs Noirs] ş1984 The Redhead
+: .xP.     N     _ASIMOV Isaac                Quand on se trompe de maison [Le Club des Veufs Noirs] ş1984 The Wrong House
+: .xP.     N     _ASIMOV Isaac                L'Intrusion [Le Club des Veufs Noirs] ş1984 The Intrusion
 o UGE_AI   2067  1989.xx ..... ISBN 2-264-01304-4
 } 1018_2067      _?                           ?
 !--- CHoix, pr‚face et biblio Lacassin
@@ -1211,7 +1215,7 @@ o UGE_NB   2079  1990.xx ..... ISBN 2-264-01453-9
 } 1018_2079      _?                           ?
 !--- Nouvelles extraites de Contes de terreurs
 !--- TBD Contenu
-- .o .    iN15   _BLOCH Robert                La Dame en rouge ş1990
+- .o .    iNx    _BLOCH Robert                La Dame en rouge ş1990
 : .o .     N     _BLOCH Robert                La Dame en rouge ş1957 Luck Is No Lady şTrad. DEMUTH Michel
 o UGE_GD   2082  1990.03 ..... ISBN 2-264-01386-9
 } 1018_2082      _?                           ?
@@ -1225,7 +1229,7 @@ o UGE_GD   2083  1990.xx ..... ISBN 2-264-01280-3
 } 1018_2083      _?                           ?
 !--- Intro Ellery Queen, Trad. VALENCIA MichŠle
 !--- Peut-ˆtre aussi 1972 Murder in the Rue Royale ?
-- .oF.    iN7    _HARRISON Michael            Le Retour du chevalier Dupin [Auguste Dupin] ş1968 The Exploits of Chevalier Dupin
+- .oF.    iNx    _HARRISON Michael            Le Retour du chevalier Dupin [Auguste Dupin] ş1968 The Exploits of Chevalier Dupin
 !: .oF.     N     _HARRISON Michael            ? [Auguste Dupin] ş1965 The Vanished Treasure
 !: .oF.     N     _HARRISON Michael            Le MystŠre des documents Fulton [Auguste Dupin] ş1966 The Mystery of the Fulton Documents
 !: .oF.     N     _HARRISON Michael            ? [Auguste Dupin] ş1966 The Man in the Blue Spectacles
@@ -1253,18 +1257,18 @@ o UGE_GD   2142  1990.xx ..... ISBN 2-264-01383-4
 o UGE_GD   2146  1990.xx ..... ISBN 2-264-01432-6
 } 1018_2146      _?                           N
 - .xP.    _N12   _ASIMOV Isaac                Casse-tˆte au club des Veufs Noirs [Le Club des Veufs Noirs - 4] ş1980 Casebook of the Black Widowers şTrad. VALENCIA MichŠle
-: .xP.     N     _ASIMOV Isaac                La Croix de Lorraine ş1976 The Cross of Lorraine
-: .xP.     N     _ASIMOV Isaac                Un pŠre de famille ş1976 A Case of Income-tax Fraud / The Familly Man
-: .xP.     N     _ASIMOV Isaac                La Page des sports ş1977 The Sports Page
-: .xP.     N     _ASIMOV Isaac                En deuxiŠme position ş1980 Second Best
-: .xP.     N     _ASIMOV Isaac                Ce qui manquait ş1977 The Missing Item
-: .xP.     N     _ASIMOV Isaac                Le Lendemain ş1978 The Next Day
-: .xP.     N     _ASIMOV Isaac                Aucun rapport ! ş1979 A Matter of Irrelevance / Irrelevance
-: .xP.     N     _ASIMOV Isaac                Il n'est de pire aveugle ş1979 None so Blind
-: .xP.     N     _ASIMOV Isaac                A rebours ş1979 The Backward Look
-: .xP.     N     _ASIMOV Isaac                Quelle heure est-il ? ş1980 What Time Is It?
-: .xP.     N     _ASIMOV Isaac                DeuxiŠme pr‚nom ş1980 Middle Name
-: .xP.     N     _ASIMOV Isaac                Le Legs ş1979 To the Barest
+: .xP.     N     _ASIMOV Isaac                La Croix de Lorraine [Le Club des Veufs Noirs] ş1976 The Cross of Lorraine
+: .xP.     N     _ASIMOV Isaac                Un bon pŠre de famille [Le Club des Veufs Noirs] ş1976 A Case of Income-tax Fraud / The Family Man
+: .xP.     N     _ASIMOV Isaac                La Page des sports [Le Club des Veufs Noirs] ş1977 The Sports Page
+: .xP.     N     _ASIMOV Isaac                En deuxiŠme position [Le Club des Veufs Noirs] ş1980 Second Best
+: .xP.     N     _ASIMOV Isaac                Ce qui manquait [Le Club des Veufs Noirs] ş1977 The Missing Item
+: .xP.     N     _ASIMOV Isaac                Le Lendemain [Le Club des Veufs Noirs] ş1978 The Next Day
+: .xP.     N     _ASIMOV Isaac                Aucun rapport ! [Le Club des Veufs Noirs] ş1979 A Matter of Irrelevance / Irrelevance
+: .xP.     N     _ASIMOV Isaac                Il n'est de pire aveugle [Le Club des Veufs Noirs] ş1979 None so Blind
+: .xP.     N     _ASIMOV Isaac                A rebours [Le Club des Veufs Noirs] ş1979 The Backward Look
+: .xP.     N     _ASIMOV Isaac                Quelle heure est-il ? [Le Club des Veufs Noirs] ş1980 What Time Is It?
+: .xP.     N     _ASIMOV Isaac                DeuxiŠme pr‚nom [Le Club des Veufs Noirs] ş1980 Middle Name
+: .xP.     N     _ASIMOV Isaac                Le Legs [Le Club des Veufs Noirs] ş1979 To the Barest
 !------------------------
 !=== 1991
 !------------------------
@@ -1289,18 +1293,18 @@ o UGE      2183  1990.xx ..... ISBN 2-264-01615-9
 + UGE      2183  1999.04 ..... ISBN 2-264-02695-2
 } 1018_2183r99   _?                           N
 - .xP.    _N12   _ASIMOV Isaac                Puzzles au club des Veufs Noirs [Le Club des Veufs Noirs - 5] ş1990 Puzzles of the Black Widowers şTrad. VALENCIA MichŠle
-: .xP.     N     _ASIMOV Isaac                Le QuatriŠme Homonyme ş1985 The Fourth Homonym
-: .xP.     N     _ASIMOV Isaac                Est unique ce qu'on veut bien trouver unique ş1985 Unique Is Where You Find It
-: .xP.     N     _ASIMOV Isaac                Le Porte-Bonheur ş1990 The Lucky Piece
-: .xP.     N     _ASIMOV Isaac                Triple diable ş1985 Triple Devil
-: .xP.     N     _ASIMOV Isaac                Coucher de soleil sur l'eau ş1986 Sunset on the Water
-: .xP.     N     _ASIMOV Isaac                O— est-il ? ş1986 Where Is He?
-: .xP.     N     _ASIMOV Isaac                Le Vieux Sac ş1987 The Old Purse / The Snatched Purse
-: .xP.     N     _ASIMOV Isaac                Un petit coin tranquille ş1988 The Quiet Place
-: .xP.     N     _ASIMOV Isaac                Le TrŠfle … quatre feuilles ş1990 The Four-leaf Clover
-: .xP.     N     _ASIMOV Isaac                L'Enveloppe ş1989 The Envelope
-: .xP.     N     _ASIMOV Isaac                A vos souhaits ! ş To Your Health
-: .xP.     N     _ASIMOV Isaac                La Recette ş1990 The Recipe
+: .xP.     N     _ASIMOV Isaac                Le QuatriŠme Homonyme [Le Club des Veufs Noirs] ş1985 The Fourth Homonym
+: .xP.     N     _ASIMOV Isaac                Est unique ce qu'on veut bien trouver unique [Le Club des Veufs Noirs] ş1985 Unique Is Where You Find It
+: .xP.     N     _ASIMOV Isaac                Le Porte-Bonheur [Le Club des Veufs Noirs] ş1990 The Lucky Piece
+: .xP.     N     _ASIMOV Isaac                Triple diable [Le Club des Veufs Noirs] ş1985 Triple Devil
+: .xP.     N     _ASIMOV Isaac                Coucher de soleil sur l'eau [Le Club des Veufs Noirs] ş1986 Sunset on the Water
+: .xP.     N     _ASIMOV Isaac                O— est-il ? [Le Club des Veufs Noirs] ş1986 Where Is He?
+: .xP.     N     _ASIMOV Isaac                Le Vieux Sac [Le Club des Veufs Noirs] ş1987 The Old Purse / The Snatched Purse
+: .xP.     N     _ASIMOV Isaac                Un petit coin tranquille [Le Club des Veufs Noirs] ş1988 The Quiet Place
+: .xP.     N     _ASIMOV Isaac                Le TrŠfle … quatre feuilles [Le Club des Veufs Noirs] ş1990 The Four-leaf Clover
+: .xP.     N     _ASIMOV Isaac                L'Enveloppe [Le Club des Veufs Noirs] ş1989 The Envelope
+: .xP.     N     _ASIMOV Isaac                A vos souhaits ! [Le Club des Veufs Noirs] ş1989 To Your Health
+: .xP.     N     _ASIMOV Isaac                La Recette [Le Club des Veufs Noirs] ş1990 The Recipe
 o UGE_GD   2188  1991.xx ..... ISBN 2-264-01565-9
 } 1018_2188      _?                           ?
 - .o .     R     _BRAUN Lilian Jackson        Le Chat qui voyait rouge [Le Chat qui... - 4] ş1986 The Cat Who Saw Red şTrad. NAVARRO Marie-Louise
@@ -1351,7 +1355,7 @@ o UGE_DE   2254  1992.xx ..... ISBN 2-264-01756-2
 } 1018_2254      _?                           ?
 + UGE      2254  1996.xx ..... ISBN 2-264-01...-.
 } 1018_2254r96   _?                           ?
-- .o .     R     _BALLARD James G.            Crash ! ş1973 Crash! şTrad. LOUIT Robert
+- .o .     R     _BALLARD James G.            Crash ! ş1973 Crash şTrad. LOUIT Robert
 o UGE      2263  1992.xx ..... ISBN 2-264-01743-0
 } 1018_2263      _?                           N
 - .x .     N14   _BRADBURY Ray                Monstrueusement v“tre ş1984 A Memory of Murder şTrad. GIRARD Pierre
@@ -1384,12 +1388,12 @@ o UGE      2291  1992.xx ..... ISBN 2-264-01701-5
 + UGE_DE   2291  1997.xx ..... ISBN 2-264-02567-0
 } 1018_2291r97   _?                           N
 !--- Pr‚face Alain Pozzuoli
+!--- TBC si titre traduit de "The secret of growing gold" n'est pas plut“t "Le Secret de la chevelure d'or"
 - .oF.     N9    _STOKER Bram                 L'Invit‚ de Dracula ş1914 Dracula's Guest and Other Weird Stories
 : .oF.     N     _STOKER Bram                 L'Invit‚ de Dracula ş1914 Dracula's Guest / Dracula's Daughter
 : .oF.     N     _STOKER Bram                 La Maison du juge ş1891 The Judge's House şTrad. MARTENON Fran‡oise & STRAGLIATI Roland
 : .oF.     N     _STOKER Bram                 La Squaw ş1893 The Squaw
 : .oF.     N     _STOKER Bram                 Le Secret de l'or qui croŒt ş1892 The Secret of Growing Gold
-!--- TBC : ou    Le secret de la chevelure d'or ş1892 The secret of growing gold
 : .oF.     N     _STOKER Bram                 Une proph‚tie de boh‚mienne ş1883 A Gipsy Prophecy
 : .oF.     N     _STOKER Bram                 Le Retour d'Abel Behenna ş1914 The Coming of Abel Behenna
 : .oF.     N     _STOKER Bram                 L'Enterrement des rats ş1874 The Burial of the Rats
@@ -1397,6 +1401,13 @@ o UGE      2291  1992.xx ..... ISBN 2-264-01701-5
 : .oF.     N     _STOKER Bram                 Les Sables de Crooken ş1894 Crooken Sands
 : .oF.     N     _STOKER Bram                 Au-del… du cr‚puscule ş1881 Under the Sunset
 : .oF.     N     _STOKER Bram                 Mick le diable ş1908 Mick the Devil
+o UGE_GD   2298  1992.xx ..... ISBN 2-264-01712-0
+} 1018_2298      _?                           ?
+!--- 191 pages - 18 cm - 36 francs
+- .oPF    kN3    _VAZQUEZ MONTALBAN Manuel    Histoires de politique fiction ş1987 Historias de politica ficci¢n şTrad. LAROUTIS Denise
+: .o .     N     _VAZQUEZ MONTALBAN Manuel    Federico III de Castille et Le¢n ş1987 Federico III de Castilla y Le¢n şTrad. LAROUTIS Denise
+: .o .     N     _VAZQUEZ MONTALBAN Manuel    La guerre civile n'est pas finie ş1987 La guerra civil no ha terminado şTrad. LAROUTIS Denise
+: .o .     N     _VAZQUEZ MONTALBAN Manuel    Un certain 23 f‚vrier ş1987 Aquel 23 de febrero şTrad. LAROUTIS Denise
 o UGE_GD   2303  1992.xx ..... ISBN 2-264-01699-X
 } 1018_2303      _?                           ?
 - .o .     R     _BRAUN Lilian Jackson        Le Chat qui sniffait de la colle [Le Chat qui... - 8] ş1988 The Cat Who Sniffed Glue şTrad. NAVARRO Marie-Louise
@@ -1442,18 +1453,18 @@ o UGE_DE   2420  1993.xx ..... ISBN 2-264-01772-4
 - .x .     R     _DICK Philip K.              Mon royaume pour un mouchoir ş1957-1985 Puttering About in a Small Land şTrad. GEORGEL Jacques
 o UGE      2427  1993.xx ..... ISBN 2-264-00010-4
 } 1018_2427      _?                           ?
-- .oFK    _N45   _HEARN Lafcadio              Le Mangeur de rˆves ş1993
+- .oFK     N45   _HEARN Lafcadio              Le Mangeur de rˆves ((Fant“mes du Japon)) ş1980
 : .o .     p     _LACASSIN Francis            Pr‚face ş1993
-!--- SONGES ET MENSONGES
+: .C .     C     ****                         Songes et mensonges
 : .o .     N     _HEARN Lafcadio              L'Aveugle qui faisait pleurer les morts ş1904 The Story of Mimi-Nashi-Ho‹chi şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Le Songe d'un jour d'‚t‚ ş1895 The Dream of a Summer Day şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Le Rˆve du papillon et de la fourmi ş1904 The Dream of Akonisuk‚ şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Le Mangeur de rˆves ş1902 The Eater of Dreams şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              La Ville qui ne connaŒt pas la mort et la douleur ş1904 Horai şTrad. LOGE Marc
-: .o .     N     _HEARN Lafcadio              Celui qui voulait rencontrer Bouddha ş1899 The Story of a Tangu şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Celui qui voulait rencontrer Bouddha ş1899 Story of a Tengu şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              La Reconnaissance de l'Homme-requin ş1900 The Gratitude of the Samebito şTrad. LOGE Marc
-!--- AMOURS ET RETOURS
-: .o .     N     _HEARN Lafcadio              La L‚gende du Village-des-Joueurs-de-Koto ş1905 The Story of Ito Norisuk‚ şTrad. LOGE Marc
+: .C .     C     ****                         Amours et retours
+: .o .     N     _HEARN Lafcadio              La L‚gende du Village des joueurs de koto ş1905 The Story of Ito Norisuk‚ şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Histoire des fant“mes dans le roman de la Lanterne Pivoine ş1899 A Passional Karma şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Celui qui ‚pousa deux fois la mˆme femme ş1900 The Sympathy of Benten şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              La PremiŠre Femme du samura‹ ş1900 The Reconciliation şTrad. LOGE Marc
@@ -1461,7 +1472,7 @@ o UGE      2427  1993.xx ..... ISBN 2-264-00010-4
 : .o .     N     _HEARN Lafcadio              La Femme de la neige ş1904 Yuki-Onno şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              La Morte trop aimante ş1902 The Story of O-Kam‚ şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Le Secret que la morte voulait effacer ş1904 A Dead Secret şTrad. LOGE Marc
-!--- HORREURS ET MALHEURS
+: .C .     C     ****                         Horreurs et malheurs
 : .o .     N     _HEARN Lafcadio              Le Fant“me … la tˆte coup‚e ş1904 Rokuro-Kubi şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Celui qui avala un fant“me ş1902 In a Cup of Tea şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Le D‚capit‚ qui mordit la pierre ş1904 Diplomacy şTrad. LOGE Marc
@@ -1470,23 +1481,23 @@ o UGE      2427  1993.xx ..... ISBN 2-264-00010-4
 : .o .     N     _HEARN Lafcadio              Le Mangeur de cadavres ş1904 Jikininki şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              La Morte aux mains vivantes ş1899 Ingwa-Banashi şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              La L‚gende de la "Cascade des Esprits" ş1902 The Legend of Yurei-Daki şTrad. LOGE Marc
-!--- VERTIGES ET PRODIGES
+: .C .     C     ****                         Vertiges et prodiges
 : .o .     N     _HEARN Lafcadio              Le Prˆtre "qui ‚crit avec cinq pinceaux en mˆme temps" ş1894 The Writing of K“b“daishi şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Le Tableau qui avait une ƒme ş1901 The Story of Kwashin-Koji şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Le Gamin qui dessinait des chats ş1900 The Boy who Drew Cats şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Celui qui tomba amoureux d'un portrait ş1900 The Screen Maiden şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              La PrisonniŠre du miroir ş1905 The Mirror Maiden şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              A propos d'un miroir et d'une cloche ş1904 Of a Mirror and a Bell şTrad. LOGE Marc
-: .o .     N     _HEARN Lafcadio              Grand Incendie de la robe aux longues manches ş1899 Furisod‚ şTrad. LOGE Marc
-!--- ENCHANTEMENTS ET DESAGREMENTS
+: .o .     N     _HEARN Lafcadio              Le Grand Incendie de la robe aux longues manches ş1899 Furisod‚ şTrad. LOGE Marc
+: .C .     C     ****                         Enchantements et d‚sagrements
 : .o .     N     _HEARN Lafcadio              Le Vampire au fond des eaux ş1902 The Story of Ch–gor“ şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              La Mort d'un canard sauvage ş1904 Oshidori şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Le Message de la mouche ş1902 Story of a Fly şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Le Faisan et le parricide ş1902 Story of a Pheasant şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Celui qui voulait voir l'‚l‚phant blanc … six d‚fenses ş1900 A Legend of Fugen Bosatsu şTrad. LOGE Marc
-: .o .     N     _HEARN Lafcadio              Le "Cerisier du seiziŠme jour" ş1904 Jiu-Roku-Zakur) şTrad. LOGE Marc
+: .o .     N     _HEARN Lafcadio              Le "Cerisier du seiziŠme jour" ş1904 Jiu-Roku-Zakur şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              L'Histoire de "Saule vert" ş1904 The Story of Aoyagi şTrad. LOGE Marc
-!--- DU FINI A L'INFINI
+: .C .     C     ****                         Du fini a l'infini
 : .o .     N     _HEARN Lafcadio              Le Mort qui protesta contre ses voleurs ş1902 Shiry“ şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Le Magasin de porcelaines hant‚ par la haine ş1902 Ikyri“ şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              L'Enfant qui naquit deux fois ş1897 The Rebirth of Katsugoro şTrad. LOGE Marc
@@ -1495,13 +1506,13 @@ o UGE      2427  1993.xx ..... ISBN 2-264-00010-4
 : .o .     N     _HEARN Lafcadio              Celui que le Pass‚ d‚signa pour connaŒtre l'Avenir ş1899 A Story of Divination şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              Sur la montagne des crƒnes d'hommes ş1899 Fragment şTrad. LOGE Marc
 : .o .     N     _HEARN Lafcadio              "...Et le temps lui-mˆme est une illusion" ş1897 Within the Circle şTrad. LOGE Marc
-!--- ANNEXES
-!--- Autopsie d'une l‚gende (l'Enfant qui naquit deux fois)
-!--- Images de l'Impossible
-!--- Bibliographie, par Francis Lacassin
+: .C .     C     ****                         Annexes
+: .o .     a     _HEARN Lafcadio              Autopsie d'une l‚gende (L'enfant qui naquit deux fois) ş? ? şTrad. LOGE Marc
+: .o .     a     _HEARN Lafcadio              Images de l'impossible ş1898 The Eternal Haunter şTrad. LOGE Marc
+: .o .     a     _LACASSIN Francis            Bibliographie ş1980
 o UGE_DE   2430  1993.xx ..... ISBN 2-264-01867-4
 } 1018_2430      _?                           N
-- .o .    kN5    _WHARTON Edith               Le Triomphe de la nuit ş1937 The Ghost Stories of Edith Wharton şTrad. LEVY-PAOLONI Florence
+- .oF.    kN5    _WHARTON Edith               Le Triomphe de la nuit ş1937 The Ghost Stories of Edith Wharton şTrad. LEVY-PAOLONI Florence
 : .o .     N     _WHARTON Edith               La Cloche de la femme de chambre ş1902 The Lady's Maid's Bell şTrad. LEVY-PAOLONI Florence
 : .o .     N     _WHARTON Edith               Les Yeux ş1910 The Eyes şTrad. LEVY-PAOLONI Florence
 : .o .     N     _WHARTON Edith               Plus tard ş1909 Afterward şTrad. LEVY-PAOLONI Florence
@@ -1550,6 +1561,11 @@ o UGE_DE   2553  1994.xx ..... ISBN 2-264-01773-2
 o UGE_DE   2561  1994.xx ..... ISBN 2-264-00082-1
 } 1018_2561      _?                           ?
 - .o .     R     _SHIEL Matthew P.            Le Nuage pourpre ş1910 The Purple Cloud şTrad. GIBET Jean
+o UGE_VAU     ?  1994.xx ..... ISBN 2-265-04988-1
+} noimg          _?                           ?
+!---  ISBN 2-265-04988-3 (rectifi‚). - ISBN 2-265-04988-1 (erron‚)
+- .o .     E     _NOLANE Richard D.          &La Chair et le Sang - Vampires et vampirisme ş1994
+&                _CAMPOS Elisabeth
 !------------------------
 !=== 1995
 !------------------------
@@ -1559,6 +1575,16 @@ o 1018_DE  2584  1995.xx ..... ISBN 2-264-00151-8
 o 1018_GD  2585  1995.xx ..... ISBN 2-264-00235-2
 } 1018_2585      _?                           ?
 - .o .     R     _BRAUN Lilian Jackson        Le Chat qui allait au placard [Le Chat qui... - 15] ş1993 The Cat Who Went into the Closet şTrad. NAVARRO Marie-Louise
+o 1018_DE  2610  1995.xx ..... ISBN 2-264-02193-4
+} 1018_2610      _?                           ?
+!--- 284 pages - 18 cm - 44 francs
+- .pF.     N6    _MAUGHAM W. Somerset         Le SortilŠge malais ş1926 The casuarina tree şTrad. MARTIN Jacky, THOMAS Claude et NORDON Pierre
+: .! .     N     _MAUGHAM W. Somerset         Avant la garden-party ş1926 Before the Party şTrad. ?
+: .o .     N     _MAUGHAM W. Somerset         P. and O. ş1923 P. & O. şTrad. ?
+: .! .     N     _MAUGHAM W. Somerset         Le Poste dans la brousse ş1926 The Outstation şTrad. ?
+: .! .     N     _MAUGHAM W. Somerset         La Force des choses ş1926 The Force of Circumstance şTrad. ?
+: .! .     N     _MAUGHAM W. Somerset         La Goutte jaune ş1926 The Yellow Streak şTrad. ?
+: .! .     N     _MAUGHAM W. Somerset         L'Affaire Crosbie ş1926 The Letter şTrad. ?
 o 1018_GD  2625  1995.06 ..... ISBN 2-264-01558-6
 } 1018_2625      _?                           ?
 - .oF.    _N7    _HODGSON William Hope        Carnacki et les fant“mes [Carnacki] ş1913 Carnacki the Ghost-Finder şTrad. TRUCHAUD Fran‡ois
@@ -1579,7 +1605,7 @@ o 1018_DE  2645  1995.xx ..... ISBN 2-264-02257-4
 o 1018_GD  2648  1995.xx ..... ISBN 2-264-02289-2
 } 1018_2648      _?                           ?
 !--- TBD contenu (3 nouvelles + bourgois + politique fiction)
-- .oPF    iN3    _VAZQUEZ MONTALBAN Manuel    Histoires de fant“mes ş1986 Historias de fantasmas şTrad. LAROUTIS Denise
+- .oPF    iNx    _VAZQUEZ MONTALBAN Manuel    Histoires de fant“mes ş1986 Historias de fantasmas şTrad. LAROUTIS Denise
 o 1018_GD  2677  1995.xx ..... ISBN 2-264-02126-8
 } 1018_2677      _?                           ?
 - .o .     R     _BRAUN Lilian Jackson        Le Chat qui donnait un coup de sifflet [Le Chat qui... - 17] ş1995 The Cat Who Blew the Whistle şTrad. NAVARRO Marie-Louise
@@ -1589,7 +1615,7 @@ o 1018_DE  2679  1995.xx ..... ISBN 2-264-00126-7
 : .o .     N     _PERUTZ Leo                  Seigneur, ayez piti‚ de moi ! ş1930 Herr, erbarme Dich meiner !
 : .o .     N     _PERUTZ Leo                  Mardi 12 octobre 1916 ş? Dienstag, 12 Oktober 1916
 : .o .     N     _PERUTZ Leo                  La Naissance de l'Ant‚christ ş1921 Die geburt des Antichrist
-: .o .     N     _PERUTZ Leo                  La Lune rit ş1914 Der mond lacht
+: .o .     N     _PERUTZ Leo                  La Lune rit ş1914 Der Mond lacht
 : .o .     N     _PERUTZ Leo                  L'Auberge A la bombarde ş? Das gasthaus zur Kart„tsche
 : .o .     N     _PERUTZ Leo                  Une simple pression sur le bouton ş? Nur ein druck auf den knopf
 : .o .     N     _PERUTZ Leo                  Le Jour sans soir ş? Der tag ohne abend
@@ -1610,62 +1636,66 @@ o 1018_GD  2725  1996.xx ..... ISBN 2-264-02322-8
 !------------------------
 !=== 1997
 !------------------------
+o 1018_DE  2813  1997.xx ..... ISBN 2-264-02357-0
+} noimg          _?                           ?
+!--- 530 pages - 55 francs - Poche - 18 cm
+- .o .     R     _AMIS Martin                 London Fields ş1998 London Fields şTrad. AMICO G‚raldine d'
 o 1018_DE  2865  1997.xx ..... ISBN 2-264-02245-0
 } 1018_2865      _?                           N
 - .oF.     N50   _BUZZATI Dino                Bestiaire magique ş1991 Bestiario şTrad. BREITMAN Michel
 : .o .     p     _MARABINI Claudio            Pr‚face ş1991 ? şTrad. BREITMAN Michel
 : .C .     C     _BUZZATI Dino                PremiŠre partie - Nouvelles
-: .  .     N     _BUZZATI Dino                D‚molition de l'auberge ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Falstaff de la faune ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Un serpent de mer d‚sassorti ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                A sa place habituelle ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Boeuf vide ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Panique sur la riviŠre ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Une cr‚ature stup‚fiante ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Angoisses d'un chien de bord ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Loup ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                L'Exp‚rience d'Askania Nova ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Les Mouches ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Les Aigles ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le H‚ros ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le rˆve de l'agent municipal ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Eux aussi ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Un verrat ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Un chien progressiste ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                L'Opportuniste ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Tyrannosaurus Rex ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le D‚luge universel ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Secret de l'impr‚sario ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Les vieux amis s'en vont ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Puissance de la haine ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                L'Exp‚rimentation ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                La D‚faite ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Fauve motoris‚ ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                L'Arriviste ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Cas de conscience d'une sentinelle ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Parole de chimpanz‚ ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Les SorciŠres de la mer ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Une promenade en barque ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                La Terrible Lucietta ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Le Chien universel ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                Bestiaire ş? ? şTrad. BREITMAN Michel
-: .  .     N     _BUZZATI Dino                La Construction de la tour ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                D‚molition de l'auberge ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Falstaff de la faune ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Un serpent de mer d‚sassorti ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                A sa place habituelle ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Boeuf vide ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Panique sur la riviŠre ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Une cr‚ature stup‚fiante ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Angoisses d'un chien de bord ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Loup ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                L'Exp‚rience d'Askania Nova ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Les Mouches ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Les Aigles ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le H‚ros ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le rˆve de l'agent municipal ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Eux aussi ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Un verrat ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Un chien progressiste ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                L'Opportuniste ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Tyrannosaurus Rex ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le D‚luge universel ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Secret de l'impr‚sario ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Les vieux amis s'en vont ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Puissance de la haine ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                L'Exp‚rimentation ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                La D‚faite ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Fauve motoris‚ ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                L'Arriviste ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Cas de conscience d'une sentinelle ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Parole de chimpanz‚ ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Les SorciŠres de la mer ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Une promenade en barque ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                La Terrible Lucietta ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Le Chien universel ş? ? şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                Bestiaire ş1971 Bestiario şTrad. BREITMAN Michel
+: .? .     N     _BUZZATI Dino                La Construction de la tour ş? ? şTrad. BREITMAN Michel
 : .C .     C     _BUZZATI Dino                DeuxiŠme partie - Articles
-: .  .     a     _BUZZATI Dino                Une journ‚e de la poule z‚ro ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Le chien litt‚raire n'est guŠre inspir‚ aujourd'hui ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                "Reviens, petite L‚a !" ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Abattu sur le Quirinal ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Chiens et rŠglements ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Le pionnier ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                En lieu et place de La‹ka ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Mes chiens ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Les canaris existentialistes ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                L'adieu du petit singe ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                L'Einstein des chiens s'attendrit sur les chats ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                La petite guenon Toy peintre abstrait ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Un chien mordu par un homme ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Piti‚ pour le "monstre" ş? ? şTrad. BREITMAN Michel
-: .  .     a     _BUZZATI Dino                Agonie et mort d'un pauvre chien ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Une journ‚e de la poule z‚ro ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Le chien litt‚raire n'est guŠre inspir‚ aujourd'hui ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                "Reviens, petite L‚a !" ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Abattu sur le Quirinal ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Chiens et rŠglements ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Le pionnier ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                En lieu et place de La‹ka ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Mes chiens ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Les canaris existentialistes ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                L'adieu du petit singe ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                L'Einstein des chiens s'attendrit sur les chats ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                La petite guenon Toy peintre abstrait ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Un chien mordu par un homme ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Piti‚ pour le "monstre" ş? ? şTrad. BREITMAN Michel
+: .o .     a     _BUZZATI Dino                Agonie et mort d'un pauvre chien ş? ? şTrad. BREITMAN Michel
 o 1018_GD  2870  1997.xx ..... ISBN 2-264-02609-X
 } 1018_2870      _?                           ?
 - .o .     R     _BRAUN Lilian Jackson        Le Chat qui flairait une piste [Le Chat qui... - 19] ş1997 The Cat Who Tailed a Thief şTrad. NAVARRO Marie-Louise
@@ -1676,24 +1706,28 @@ o 1018_DE  2904  1997.xx ..... ISBN 2-264-02305-8
 !------------------------
 !=== 1998
 !------------------------
+o 1018_DE  2887  1998.xx ..... ISBN 2-264-02358-9
+} noimg          _?                           ?
+!--- 192 pages - 38 francs - Poche - 18 cm
+- .o .     R     _AMIS Martin                 La FlŠche du temps ş1991 Time's Arrow or The Nature of the Offence şTrad. KOFF-D'AMICO G‚raldine
 o 1018_GD  2917  1998.xx ..... ISBN 2-264-02556-5
 } 1018_2917      _Louis Wain                  N
-- .oPF    =Nx    _BRAUN Lilian Jackson        Le Chat qui racontait des histoires [Le Chat qui...]ş1988 The Cat Who Had 14 Tales şTrad. NAVARRO Marie-Louise
+- .oPF    =Nx    _BRAUN Lilian Jackson        Le Chat qui racontait des histoires [Le Chat qui...] ş1988 The Cat Who Had 14 Tales şTrad. NAVARRO Marie-Louise
 !--- Sommaire bas‚ sur nouveau tirage octobre 2001
-: .o .     N     _BRAUN Lilian Jackson        Un chat trop petit pour ses moustaches ş1988 A Cat Too Small for His Whiskers şTrad. NAVARRO Marie-Louise
-: .o .     N     _BRAUN Lilian Jackson        Le H‚ros de Drummond Street ş1988 The Hero of Drummond Street şTrad. NAVARRO Marie-Louise
-: .o .     N     _BRAUN Lilian Jackson        Le Ph‚nomŠne Fluppie ş1988 The Fluppie Phenomenon şTrad. NAVARRO Marie-Louise
-: .o .     N     _BRAUN Lilian Jackson        Le P‚ch‚ de madame Phloi ş1962 The Sin of Madame Phloi şTrad. NAVARRO Marie-Louise
-: .o .     N     _BRAUN Lilian Jackson        Stanley et Spook ş1988 Stanley and Spook şTrad. NAVARRO Marie-Louise
-: .o .     N     _BRAUN Lilian Jackson        Le Week-End de la Grande Mare ş1988 Weekend of the Big Puddle şTrad. NAVARRO Marie-Louise
-: .o .     N     _BRAUN Lilian Jackson        East Side Story ş1988 East Side Story şTrad. NAVARRO Marie-Louise
-: .o .     N     _BRAUN Lilian Jackson        Phut Phat se concentre ş1964 Phut Phat Concentrates şTrad. NAVARRO Marie-Louise
-: .o .     N     _BRAUN Lilian Jackson        Le Chat gardien de mus‚e ş1988 The Mad Museum Mouser şTrad. NAVARRO Marie-Louise
-: .o .     N     _BRAUN Lilian Jackson        Dark Wan ş1966 The Dark One şTrad. NAVARRO Marie-Louise
-: .o .     N     _BRAUN Lilian Jackson        Pompette et le ministŠre de la sant‚ publique ş1988 Tipsy and the Board of Health şTrad. NAVARRO Marie-Louise
-: .o .     N     _BRAUN Lilian Jackson        SuSu et le fant“me de 20 h 30 ş1964 SuSu and the 8:30 Ghost şTrad. NAVARRO Marie-Louise
-: .o .     N     _BRAUN Lilian Jackson        Un chat nomm‚ Conscience ş1988 A Cat Named Conscience şTrad. NAVARRO Marie-Louise
-: .o .     N     _BRAUN Lilian Jackson        Le Nouvel An tragique ş1968 Tragedy on New Year's Eve şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Un chat trop petit pour ses moustaches [Le Chat qui...] ş1988 A Cat Too Small for His Whiskers şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le H‚ros de Drummond Street [Le Chat qui...] ş1988 The Hero of Drummond Street şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le Ph‚nomŠne Fluppie [Le Chat qui...] ş1988 The Fluppie Phenomenon şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le P‚ch‚ de madame Phloi [Le Chat qui...] ş1962 The Sin of Madame Phloi şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Stanley et Spook [Le Chat qui...] ş1988 Stanley and Spook şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le Week-End de la Grande Mare [Le Chat qui...] ş1988 Weekend of the Big Puddle şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        East Side Story [Le Chat qui...] ş1988 East Side Story şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Phut Phat se concentre [Le Chat qui...] ş1964 Phut Phat Concentrates şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le Chat gardien de mus‚e [Le Chat qui...] ş1988 The Mad Museum Mouser şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Dark Wan ş1966 The Dark One [Le Chat qui...] şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Pompette et le ministŠre de la sant‚ publique [Le Chat qui...] ş1988 Tipsy and the Board of Health şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        SuSu et le fant“me de 20 h 30 [Le Chat qui...] ş1964 SuSu and the 8:30 Ghost şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Un chat nomm‚ Conscience [Le Chat qui...] ş1988 A Cat Named Conscience şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le Nouvel An tragique [Le Chat qui...] ş1968 Tragedy on New Year's Eve şTrad. NAVARRO Marie-Louise
 o 1018_DE  2924  1998.xx ..... ISBN 2-264-02693-6
 } 1018_2924      _?                           ?
 - .x .     R     _BURROUGHS Edgar Rice        Tarzan, seigneur de la jungle [Tarzan - 1] ş1912 Tarzan of the Apes şTrad. BAUDOUX Marc
@@ -1706,7 +1740,7 @@ o 1018_DE  2953  1998.04 ..... ISBN 2-264-02654-5
 : .o .     N     _ELLIS Bret Easton           Dans les Œles ş1994 In the Islands şTrad. WILLERVAL Bernard
 : .o .     N     _ELLIS Bret Easton           Immobile ş1994 Sitting Still şTrad. WILLERVAL Bernard
 : .o .     N     _ELLIS Bret Easton           Le Soleil ne donne pas d'eau ş1994 Water from the Sun şTrad. WILLERVAL Bernard
-: .o .     N     _ELLIS Bret Easton           A la d‚couverte du japon ş1994 Discovering Japan şTrad. WILLERVAL Bernard
+: .o .     N     _ELLIS Bret Easton           A la d‚couverte du Japon ş1994 Discovering Japan şTrad. WILLERVAL Bernard
 : .o .     N     _ELLIS Bret Easton           Lettres de Los Angeles ş1994 Letters from L.A. şTrad. WILLERVAL Bernard
 : .o .     N     _ELLIS Bret Easton           Une autre zone d'ombre ş1994 Another Gray Area şTrad. WILLERVAL Bernard
 : .o .     N     _ELLIS Bret Easton           Les Secrets de l'‚t‚ ş1994 The Secrets of Summer şTrad. WILLERVAL Bernard
@@ -1754,6 +1788,15 @@ o 1018_GD  3020  1998.xx ..... ISBN 2-264-02771-1
 !------------------------
 !=== 1999
 !------------------------
+o 1018_DE  3032  1999.xx ..... ISBN 2-264-00088-0
+} noimg          _?                           ?
+!--- 188 pages - 38 francs - Poche - 18 cm
+- .oS.     N5    _AMIS Martin                 Les Monstres d'Einstein ş1987 Einstein's Monsters şTrad. AMICO G‚raldine d'
+: .oS.     N     _AMIS Martin                 Bujak et la force puissante ou les d‚s de Dieu ş1987 Bujak and the Strong Force, or God's Dice şTrad. AMICO G‚raldine d'
+: .oS.     N     _AMIS Martin                 Intuition au lac de feu ş1987 Insight at Flame Lake şTrad. AMICO G‚raldine d'
+: .oS.     N     _AMIS Martin                 La Maladie du temps ş1987 The Time Disease şTrad. AMICO G‚raldine d'
+: .oS.     N     _AMIS Martin                 Le Petit Chiot qui pouvait ş1987 The Little Puppy That Could şTrad. AMICO G‚raldine d'
+: .oS.     N     _AMIS Martin                 Les Immortels ş1987 The Immortals şTrad. AMICO G‚raldine d'
 o 1018_LE  3034  1999.02 ..... ISBN 2-264-02881-5
 } 1018_3034      _?                           ?
 + 1018_LE  3034  2003.10 ..... ISBN 2-264-0....-.
@@ -1782,7 +1825,7 @@ o 1018_DE  3133  1999.11 ..... ISBN 2-264-01990-5
 - .pF.    iNx    _JAMES Henry                 La Madone du futur ş1999
 !--- et autres nouvelles
 !--- Extrait de Rˆves yankees et le Dernier des Valerii
-!--- şTrad. RIVIERE Fran‡ois et SERVICEN Louise
+!--- TBD Trad. RIVIERE Fran‡ois et SERVICEN Louise
 : .o .     N     _JAMES Henry                 Le Dernier des Valerii ş1874 The Last of the Valerii şTrad. SERVICEN Louise
 : .o .     N     _JAMES Henry                 Le Roman de quelques vieilles robes ş1868 The Romance of Certain Old Clothes şTrad. SERVICEN Louise
 : .! .     N     _JAMES Henry                 Une liasse de lettres ş1881 A Bundle of Letter şTrad. SERVICEN Louise
@@ -1847,7 +1890,7 @@ o 1018_DE  3549  2003.xx ..... ISBN 2-264-03434-3
 : .o .     N     _DAHL Roald                  Quelqu'un comme toi ş1944 Someone Like You şTrad. MALIGNON Jean
 o 1018_DE  3564  2003.xx ..... ISBN 2-264-03555-2
 } 1018_3564      _?                           ?
-- .o .    iN30   _HETI Sheila                 Les Fables du milieu ş2004 The Middle Stories şTrad. ZUMSTEIN Doroth‚e
+- .o .    iNx    _HETI Sheila                 Les Fables du milieu ş2004 The Middle Stories şTrad. ZUMSTEIN Doroth‚e
 o 1018_DE  3593  2003.xx ..... ISBN 2-264-03291-X
 } 1018_3593      _?                           ?
 - .o .     R     _JOHNSON Denis               D‚j… mort ş1997 Already Dead: A California Gothic şTrad. MATTHIEUSENT Brice
@@ -1892,8 +1935,34 @@ o 1018_GD  3837  2005.xx ..... ISBN 2-264-04171-4
 - .o .     R     _BRAUN Lilian Jackson        Le Chat qui jetait des peaux de banane [Le Chat qui... - 27] ş2004 The Cat Who Wnet Bananas şTrad. NAVARRO Marie-Louise
 o 1018_GD  3838  2007.xx ..... ISBN 978-2-264-04015-2
 } 1018_3838      _?                           ?
-!--- TBD Contenu
-- .oPF    iNx    _BRAUN Lilian Jackson        L‚gendes du comt‚ de Moose [Le Chat qui...] ş2003 Short and Tall Tales - Moose County Legends şTrad. NAVARRO Marie-Louise
+- .oPF     N27   _BRAUN Lilian Jackson        L‚gendes du comt‚ de Moose [Le Chat qui...] ş2003 Short and Tall Tales - Moose County Legends şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        La L‚gende du tas d'ordures ş2003 The Legend of the Rubbish Heap şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le Secret de la femme du forgeron ş2003 Secret of the Blacksmiths Wife şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Visites … cheval ş2003 Housecalls on Horseback şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Hilda les cisailles ş2003 Hilda the Clipper şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Milo, le cultivateur de pommes de terre ş2003 Milo the Potato Farmer şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le Vieux Petit Homme des bois ş2003 The Little Old Man in the Woods şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        La Mine de charbon de mon arriŠre-grand-mŠre ş2003 My Great-Grandmother's Coal Mine şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        La V‚ritable (?) Histoire de l'eau de Squunk ş2003 The True (?) History of Squunk Water şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Faire la noce avec les b–cherons ş2003 Whooping It Up with the Loggers şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le Princess et les pirates ş2003 "The Princess" and the Pirates şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Chat sauvage et vieille loco ş2003 Wildcattin' with an Old Hog şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        On a gratt‚ sous la porte ş2003 The Scratching Under the Door şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        La Mal‚diction de Dimsdale ş2003 The Dimsdale Jinx şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le MystŠre du Trou du Diable ş2003 The Mystery of Dank Hollow şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        L'Histoire des deux tombes ş2003 Tale of Two Tombstones şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        L'Incident de la boŒte de porc aux haricots au fond du mar‚cage ş2003 The Pork-And-Beans Incident at Boggy Bottom şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Enfin, un h“pital dans le d‚sert ş2003 At Last, a Hospital in the Wilderness şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Emmaline et l'escalier en spirale ş2003 Emmaline and the Spiral Staircase şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le Curieux Destin du Jenny Lee ş2003 The Curious Fate of the Jenny Lee şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Une exp‚rience effrayante sur un pont couvert ş2003 A Scary Experience on a Covered Bridge şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Un r‚cit de chat : Sainte Terreur et l'‚vˆque ş2003 A Cat Tale: Holy Terror and the Bishop şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Ces ambitieuses myrtilles du comt‚ de Moose ş2003 Those Pushy Moose County Blueberries şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        La Mal‚diction sur le verger au pommes ş2003 The Curse on the Apple Orchard şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Mathilda, une h‚ro‹ne familiale ş2003 Matilda, a Family Heroine şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Comment Pleasant Street gagna son nom ş2003 How Pleasant Street Got Its Name şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Les Nobles Fils du noeud coulant ş2003 The Noble Sons of the Noose şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        La Fabuleuse Collection de Phineas Ford ş2003 Phineas Ford's Fabulous Collection şTrad. NAVARRO Marie-Louise
 !------------------------
 !=== 2006
 !------------------------
@@ -1912,17 +1981,38 @@ o 1018     3925  2006.06 ..... ISBN 2-264-04194-3
 - .oS.     R     _DICK Philip K.              Simulacres ş1964 The Simulacra şTrad. THAON Marcel
 o 1018_DE  3942  2006.xx ..... ISBN 2-264-04280-X
 } 1018_3942      _?                           ?
-- .o .    iN24   _BUZZATI Dino                Panique … la Scala ş1958 Sessanta raconti şTrad. BREITMAN Michel
+- .o .    iNx    _BUZZATI Dino                Panique … la Scala ş1958 Sessanta raconti şTrad. BREITMAN Michel
 o 1018_GD  3967  2006.xx ..... ISBN 978-2-264-04249-4
 } 1018_3967      _?                           ?
 - .o .     R     _ROBERTS John Maddox         Le Temple des muses [SPQR - 4] ş1992 The Temple of the Muses şTrad. CHAMPON Alexis
 !------------------------
 !=== 2007
 !------------------------
-o 1018_GD  4039  2007.xx ..... ISBN 978-2-264-04014-5
+o 1018_GD  4039  2007.07 ..... ISBN 978-2-264-04014-5
 } 1018_4039      _?                           ?
-!--- TBD Contenu
-- .oPF    iNx    _BRAUN Lilian Jackson        La Vie secrŠte du chat qui... [Le Chat qui...] ş2003 The Private Life of the Cat Who... şTrad. NAVARRO Marie-Louise
+- .oPF     N22   _BRAUN Lilian Jackson        La Vie secrŠte du chat qui... - Contes de Koko et Yom Yom d'aprŠs le journal de James Mackintosh Qwilleran [Le Chat qui...] ş2003 The Private Life of the Cat Who... şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Entr‚e en scene de Kao K'O Kung, hurlant ş2003 Enter: Kao K'o Kung, Howling şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Entr‚e en scene de Yom Yom, criant ş2003 Enter: Yum Yum, Shrieking şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Confessions d'un homme qui ignorait tout des chats ş2003 Confessions of a Cat-Illiterate şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le Chat qui poss‚dait soixante vibrisses ş2003 The Cat who Had 60 Whiskers şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Yom Yom la patte ş2003 Yum Tum the Paw şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Koko et le coup du noeud siamois ş2003 Koko and the Siamese Rope Trick şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Yom Yom et la d‚coratrice d'int‚rieur ş2003 Yum Yum and the Interior Designer şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Koko et le syndrome Rum Tum Tugger ş2003 Koko and the Rum Tum Tugger Syndrome şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Les Chats ! Qui peut les comprendre ? ş2003 Cats! Wha can Understand Them? şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        La Question du d‚ d'argent ş2003 The Matter of the Silver Thimble şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        L'Almanach de Cool Koko ş2003 Cool Koko's Almanac şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Pourquoi les chats agissent-ils comme ils le font ? ş2003 Why Do Cat Do What They Do? şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Les chats ont-ils le sens de l'humour ? ş2003 Do Cats Have a Sense of Humor? şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le Jour o— Yom Yom s'‚chappa ş2003 The Day Yum Yum Got Out şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Limericks ş2003 Limericks: Fun in the Boondock şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Cool Koko dit aussi... ş2003 Cool Koko Also Says şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Du bel art de donner un nom a un chat ş2003 The Fine Art of Naming Cats şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Yom Yom et le grand lit double ş2003 Yum Yum and the Queen-Size Bed şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Le Comportement social unique de Koko ş2003 Koko's Unique Social Graces şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Kidnapp‚e ! ş2003 Kidnapped! şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Encore un peu de Cool-Koko‹sme ş2003 More Cool Kokoisms şTrad. NAVARRO Marie-Louise
+: .o .     N     _BRAUN Lilian Jackson        Yom Yom d‚couvre ses ailes ş2003 Yum Yum dscovers Her Wings şTrad. NAVARRO Marie-Louise
 o 1018_DE  4048  2007.xx ..... ISBN 978-2-264-04473-X
 } 1018_4048      _?                           ?
 - .oF.     R     _MURAKAMI Haruki             Kafka sur le rivage ş2003 Umibe no Kafuka şTrad. ATLAN Corinne
@@ -1989,15 +2079,15 @@ o 1018     4175  2008.11 ..... ISBN 978-2-264-04862-2
 - .oF.     R     _FFORDE Jasper               Sauvez Hamlet ! [Thursday Next - 4] ş2004 Something Rotten şTrad. AZIMI Roxane
 o 1018_DE  4182  2008.xx ..... ISBN 978-2-264-04793-9
 } 1018_4182      _?                           ?
-- .oF.    iN49   _BUZZATI Dino                Nouvelles inquiŠtes ş2006 Le cronache fantastiche di Dino Buzzati şTrad. GACHET Delphine
 !--- S‚lection parmi le recueil original
+- .oF.    iNx    _BUZZATI Dino                Nouvelles inquiŠtes ş2006 Le cronache fantastiche di Dino Buzzati şTrad. GACHET Delphine
 : .o .     p     _GACHET Delphine             Pr‚face ş2006
 !------------------------
 !=== 2009
 !------------------------
 o 1018_DE  4200  2009.02 ..... ISBN 978-2-264-04838-7
 } 1018_4200      _?                           ?
-- .x .     R     _DICK Philip K.              Les Voix de l'asphalte ş[1953],2007 Voices From the Street şTrad. RICHARD Nicolas
+- .x .     R     _DICK Philip K.              Les Voix de l'asphalte ş[1953],2007 Voices from the Street şTrad. RICHARD Nicolas
 o 1018_GD  4207  2009.03 ..... ISBN 978-2-264-04916-2
 } 1018_4207      _?                           ?
 - .oF.     R     _BOURLAND Fabrice            La DerniŠre Enquˆte du chevalier Dupin [Auguste Dupin] ş2009
@@ -2043,6 +2133,33 @@ o 1018_DE  4292  2009.12 ..... ISBN 978-2-264-04255-2
 !------------------------
 !=== 2010
 !------------------------
+o 1018_DE  4318  2010.02 ..... ISBN 978-2-264-04474-7
+} 1018_4318      _?                           ?
+!--- 512 pages - 108 x 177 mm - 8,60 euros
+- .pFK    kN23   _MURAKAMI Haruki             Saules aveugles, femme endormie ş2006 Mekurayanagi to nemuru onna şTrad. MORITA H‚lŠne
+: .oF.  12 N     _MURAKAMI Haruki             Saules aveugles, femme endormie ş1983 Mekurayanagi to nemuru onna şTrad. MORITA H‚lŠne
+: .oF.  24 N     _MURAKAMI Haruki             Le Jour de ses vingt ans ş2002 B&#257;sudei G&#257;ru şTrad. MORITA H‚lŠne
+: .o .  35 N     _MURAKAMI Haruki             La Trag‚die de la mine de New York ş? ? şTrad. MORITA H‚lŠne
+: .o .  45 N     _MURAKAMI Haruki             L'Avion, ou Il se parlait … lui-mˆme comme s'il lisait un poŠme ş? ? şTrad. MORITA H‚lŠne
+: .o .  53 N     _MURAKAMI Haruki             Le Miroir ş? ? şTrad. MORITA H‚lŠne
+: .o .  58 N     _MURAKAMI Haruki             Un r‚cit folklorique de notre temps : la pr‚histoire du capitalisme … son stade ultime ş? ? şTrad. MORITA H‚lŠne
+: .o .  75 N     _MURAKAMI Haruki             Le Couteau de chasse ş? ? şTrad. MORITA H‚lŠne
+: .o .  88 N     _MURAKAMI Haruki             Le Bon Jour pour les kangourous ş? ? şTrad. MORITA H‚lŠne
+: .o .  92 N     _MURAKAMI Haruki             Le Petit GrŠbe ş? ? şTrad. MORITA H‚lŠne
+: .o .  98 N     _MURAKAMI Haruki             Les Chats mangeurs de chair humaine ş? ? şTrad. MORITA H‚lŠne
+: .o . 113 N     _MURAKAMI Haruki             L'Histoire d'une tante pauvre ş? ? şTrad. MORITA H‚lŠne
+: .o . 128 N     _MURAKAMI Haruki             Naus‚e 1979 ş? ? şTrad. MORITA H‚lŠne
+: .o . 137 N     _MURAKAMI Haruki             Le SeptiŠme Homme ş? ? şTrad. MORITA H‚lŠne
+: .o . 148 N     _MURAKAMI Haruki             L'Ann‚e des spaghettis ş? ? şTrad. MORITA H‚lŠne
+: .o . 153 N     _MURAKAMI Haruki             Les Vicissitudes des piqu'crocks ş? ? şTrad. MORITA H‚lŠne
+: .o . 157 N     _MURAKAMI Haruki             L'Homme de glace ş? ? şTrad. MORITA H‚lŠne
+: .o . 165 N     _MURAKAMI Haruki             Les Crabes ş? ? şTrad. MORITA H‚lŠne
+: .o . 170 N     _MURAKAMI Haruki             La Luciole ş? ? şTrad. MORITA H‚lŠne
+: .o . 187 N     _MURAKAMI Haruki             Hasard, hasard ş? ? şTrad. MORITA H‚lŠne
+: .o . 202 N     _MURAKAMI Haruki             La Baie de Hanalei ş? ? şTrad. MORITA H‚lŠne
+: .o . 218 N     _MURAKAMI Haruki             O— le trouverai-je ? ş? ? şTrad. MORITA H‚lŠne
+: .o . 234 N     _MURAKAMI Haruki             La Pierre-En-Forme-De-Rein qui se d‚place chaque jour ş? ? şTrad. MORITA H‚lŠne
+: .o . 250 N     _MURAKAMI Haruki             Le Singe de Shinagawa ş? ? şTrad. MORITA H‚lŠne
 o 1018_DE  4330  2010.xx ..... ISBN 978-2-264-05113-4
 } 1018_4330      _?                           ?
 - .o .     R     _ELLIS Bret Easton           Lunar Park ş2005 Lunar Park şTrad. GUGLIELMINA Pierre
@@ -2071,7 +2188,8 @@ o 1018_LE  4498  2011.11 ..... ISBN 978-2-264-05215-5
 !=== 2012
 !------------------------
 o 1018_LE  4577  2012.08 ..... ISBN 978-2-264-05096-0
-} 1018_4577      _?                           ?
+} 1018_4577      _Getty Images                ?
+!--- Poche - 110x180 
 - .oF.     R     _POWERS Richard              G‚n‚rosit‚ ş2009 Generosity: An Enhancement şTrad. PELLEGRIN Jean-Yves
 o 1018     4604  2012.xx ..... ISBN 978-2-264-05788-4
 } 1018_4604      _?                           ?
@@ -2084,13 +2202,13 @@ o 1018     4645  2013.xx ..... ISBN 978-2-264-05788-4
 - .oF.     R     _MURAKAMI Haruki             1Q84 - Livre 3 - Octobre-d‚cembre [1Q84 - 3] ş2010 AQ84: Book 3 şTrad. MORITA H‚lŠne
 o 1018     4608  2012.11 ..... ISBN 978-2-264-05946-8
 } 1018_4608      _?                           ?
-- .oF.     R     _FFORDE Jasper               La Route de Haut-Safran [La Tyrannie de l'arc-en-ciel - 1] ş2009 The Road to High Saffron şTrad. DUSOULIER Patrick
+- .oF.     R     _FFORDE Jasper               La Route de Haut-Safran [La Tyrannie de l'arc-en-ciel - 1] ş2009 Shades of Grey: The Road to High Saffron şTrad. DUSOULIER Patrick
 o 1018_DE  4737  2014.02 ..... ISBN 978-2-264-06106-5
 } 1018_4737      _?                           ?
 - .oS.     R     _WALKER Karen Thompson       L'ƒge des miracles ş2012 The Age of Miracles şTrad. DELARBRE Alice
 o 1018     4750  2014.11 ..... ISBN 978-2-264-05641-2
 } 1018_4750      _?                           ?
-- .oF.     R     _KHARA David S.              Les Vestiges de l'Aube ş2010
+- .oPF     R     _KHARA David S.              Les Vestiges de l'Aube [Barry Donovan - 1] ş2010
 !------------------------
 !=== 2013
 !------------------------
@@ -2129,7 +2247,7 @@ o 1018     4979  2015.10 ..... ISBN 978-2-264-06090-7
 - .oF.     R     _FFORDE Jasper               Le MystŠre du hareng saur [Thursday Next - 6] ş2011 One of Our Thursdays Is Missing şTrad. MERLE Jean-Fran‡ois
 o 1018     4986  2015.xx ..... ISBN 978-2-264-06732-6
 } 1018_4986      _?                           ?
-- .oY.     R     _KHARA David S.              Une nuit ‚ternelle ş2014
+- .oY.     R     _KHARA David S.              Une nuit ‚ternelle [Barry Donovan - 2] ş2014
 o 1018     5012  2015.xx ..... ISBN 978-2-264-06692-3
 } 1018_5012      _?                           ?
 - .oF.     R     _GOLD Glen David             Carter contre le diable ş2002 Carter Beats the Devil şTrad. BROCA Olivier de
@@ -2153,7 +2271,7 @@ o 1018     5060  2016.04 ..... ISBN 978-2-264-06824-8
 - .oS.     R     _STEPHENSON Neal             La FrontiŠre [Les Deux Mondes - 2] ş2011 Reamde şTrad. ESQUIE H‚lo‹se
 o 1018     5128  2016.xx ..... ISBN 978-2-264-06809-5
 } 1018_5218      _? Arcangel Images           ?
-- .oS.     R     _SMITH Michael Farris        Une pluie sans fin ş2013 Rivers şTrad. CHARRIER  Michelle
+- .oS.     R     _SMITH Michael Farris        Une pluie sans fin ş2013 Rivers şTrad. CHARRIER Michelle
 o 1018     5141  2016.xx ..... ISBN 978-2-264-06734-0
 } 1018_5141      _? Arcangel Images           ?
 - .oF.     R     _CANTERO Edgar               Le Monde cach‚ d'Axton House ş2014 The Supernatural Enhancements şTrad. BENITA Paul
@@ -2223,13 +2341,38 @@ o 1018     5543  2020.06 ..... ISBN 978-2-264-06406-6
 o 1018     5612  2020.11 ..... ISBN 978-2-264-07654-0
 } noimg          _?                           ?
 !--- Poche - 108 x 177 mm - 696 pages - 10,20 euros
-- .oF.     R     _MURAKAMI Haruki             La Fin des temps ş1985 Sekai no owari to hƒdo boirudo wandƒrando şTrad. ATLAN Corinne
+- .oF.     R     _MURAKAMI Haruki             La Fin des temps ş1985 Sekai no owari to hƒdo boirudo wand&#257;rando şTrad. ATLAN Corinne
+o 1018     5475  2019.09 ..... ISBN 978-2-264-07443-0
+} noimg          _?                           ?
+!--- Poche - 110x180 - 744 pages
++ 1018     5475  2020.11 ..... ISBN 978-2-264-07759-2
+} noimg          _?                           ?
+!--- Poche - 110x180 - 752 pages
+- .oS.     R     _POWERS Richard              L'Arbre-monde ş2018 The Overstory şTrad. CHAUVIN Serge
+!------------------------
+!=== 2021
+!------------------------
+o 1018     5656  2021.04 ..... ISBN 978-2-264-07800-1
+} noimg          _?                           ?
+!--- Poche - 108 x 178 - 142 pages
+- .oS.     R     _ORWELL George               La Ferme des animaux ş1945 Animal Farm şTrad. QUEVAL Jean
+o 1018     5690  2021.03 ..... ISBN 978-2-264-07841-4
+} noimg          _?                           ?
+!--- Poche - 108 x 177 - 456 pages
+- .o .     R     _ALLAN Nina                  La Fracture ş2017 The Rift şTrad. SIGAUD Bernard
+!------------------------
+!=== 2022
+!------------------------
+o UGE      5789  2022.08 ..... ISBN 978-2-264-08096-7
+} noimg          _?                           ?
+!--- Poche - 108x177 - 456 pages
+- .oF.     R     _ALLAN Nina                  Le Cr‚ateur de poup‚es ş2019 The Dollmaker şTrad. SIGAUD Bernard
 
 
 !DEB_HEAD UGE_MEP
 !TIT_COLL Les maŒtres de l'‚trange et de la peur
 !-----------------------------------------------------------------------------
-_ UGE_MEP UGE, Les maŒtres de l'‚trange et de la peur
+_ UGE_MEP UGE - Les maŒtres de l'‚trange et de la peur
 !-----------------------------------------------------------------------------
 !--- 
 !---
@@ -2238,9 +2381,9 @@ _ UGE_MEP UGE, Les maŒtres de l'‚trange et de la peur
 !DEB_COLL UGE_MEP
 o UGE_MEP     ?  1980.xx ..... ISBN 2-264-00303-0
 } ugemep_lorrain _?                           ?
-- .o .    _N36   _LORRAIN Jean               &Princesses d'ivoire et d'ivresse ş1980
+- .oFM    _N36   _LORRAIN Jean               &Princesses d'ivoire et d'ivresse ş1980
 &                *LACASSIN Francis            
-!--- Pr‚face de l'auteur
+: .o .     p     _LORRAIN Jean                Les Contes ş1902
 !--- PRINCESSES D'IVOIRE ET D'IVRESSE
 : .o .     N     _LORRAIN Jean                La Princesse aux lys rouges ş1894
 : .o .     N     _LORRAIN Jean                La Princesse des chemins ş1892
@@ -2279,24 +2422,92 @@ o UGE_MEP     ?  1980.xx ..... ISBN 2-264-00303-0
 : .o .     N     _LORRAIN Jean                La Princesse aux oies ş?
 : .o .     N     _LORRAIN Jean                Sainte Bilde de Courlande ş?
 : .o .     N     _LORRAIN Jean                L'Anneau d'or ş?
-!--- 
 : .o .     N     _LORRAIN Jean                La Mandragore ş1899
 : .o .     N     _LORRAIN Jean                La Jonque dor‚e ş1911
 !--- HISTOIRES D'ENFANCE ET DE JEUNESSE
 : .o .     N     _LORRAIN Jean                Les Niais de Malhant“t ş?
 : .o .     N     _LORRAIN Jean                Le Miracle de Bretagne ş1898
-: .o .     N     _LORRAIN Jean                La Marjolaine ş?
+: .o .     N     _LORRAIN Jean                La Marjolaine ş1896
 : .o .     N     _LORRAIN Jean                Sur un portrait ş?
-: .o .     o     _LACASSIN Francis            Postface ş1980
-!--- Postface, par Francis Lacassin
-!--- Bibliographie, par Francis Lacassin
+: .o .     o     _LACASSIN Francis            Jean Lorrain entre le paradis perdu de l'enfance et les enfers de l'ƒge adulte ş1980
+: .o .     a     _LACASSIN Francis            Bibliographie ş1980
 o UGE_MEP     ?  1980.xx ..... ISBN 2-264-00304-9
 } ugemep_dumas   _?                           ?
-- .o .    iNx    _DUMAS Alexandre             Histoire d'un mort racont‚e par lui-mˆme ş1980
+- .oF.    kN17   _DUMAS Alexandre            &Histoire d'un mort racont‚e par lui-mˆme ş1980
+&                *LACASSIN Francis            
+: .o .     p     _LACASSIN Francis            Alexandre Dumas ou le surnaturel au coin du feu ş1980
+: .o .     N     _DUMAS Alexandre             Histoire merveilleuse de Don Bernardo de Zuniga ş1849
+: .o .     N     _DUMAS Alexandre             Le Bracelet de cheveux ş1849
+: .o .     N     _DUMAS Alexandre             Les Tombeaux de Saint-Denis ş1849
+: .o .     N     _DUMAS Alexandre             Histoire d'un mort racont‚e par lui-mˆme ş1844
+: .o .     N     _DUMAS Alexandre             Les Deux tudiants ş1849
+: .o .     N     _DUMAS Alexandre             Histoire du d‚mon familier du sire de Corasse ş1838
+: .o .     N     _DUMAS Alexandre             Le Roi des quilles ş1859
+: .o .     N     _DUMAS Alexandre             Les Chasses du comte de Foix ş1838
+: .o .     N     _DUMAS Alexandre             Pierre et son oie ş1860
+: .o .     N     _DUMAS Alexandre             Le Roi des taupes et sa fille ş1857
+: .o .     N     _DUMAS Alexandre             Le Sifflet enchant‚ ş1859
+: .o .     N     _DUMAS Alexandre             L'Homme sans larmes ş1860
+: .o .     N     _DUMAS Alexandre             Un voyage … la Lune ş1857
+: .o .     N     _DUMAS Alexandre             Les toiles commis voyageurs ş1854
+: .o .     N     _DUMAS Alexandre             Une ƒme … naŒtre ş1844
+: .o .     N     _DUMAS Alexandre             D‚sir et possession ş1854
+: .o .     N     _DUMAS Alexandre             Invraisemblance ş1844
+: .o .     a     _DUMAS Alexandre             G‚rard de Nerval ou l'homme aux contes ş?
+: .o .     a     _DUMAS Alexandre             Aux portes d'un autre monde ş?
+: .o .     b     _LACASSIN Francis            Bibliographie ş1980
 o UGE_MEP     ?  1980.xx ..... ISBN 2-264-00305-7
 } ugemep_hearn   _?                           ?
-- .o .    iNx    _HEARN Lafcadio              Fant“mes du Japon ş1980
-!--- Trad. LOGE Marc
+- .oF.    kN45   _HEARN Lafcadio              Fant“mes du Japon ş1980
+: .o .   7 p     _LACASSIN Francis            Lafcadio Hearn ou Le grand tourbillonnement - Fant“me de la Naissance et de la Mort ş1980
+: .o .  15 N     _HEARN Lafcadio              L'Aveugle qui faisait pleurer les morts ş1904 The Story of Mimi-Nashi-Ho‹chi şTrad. LOGE Marc
+: .o .  25 N     _HEARN Lafcadio              Le Songe d'un jour d'‚t‚ ş1895 The Dream of a Summer Day şTrad. LOGE Marc
+: .o .  39 N     _HEARN Lafcadio              Le Rˆve du papillon et de la fourmi ş1904 The Dream of Akonisuk‚ şTrad. LOGE Marc
+: .o .  45 N     _HEARN Lafcadio              Le Mangeur de rˆves ş1902 The Eater of Dreams şTrad. LOGE Marc
+: .o .  49 N     _HEARN Lafcadio              La Ville qui ne connaŒt pas la mort et la douleur ş1904 Horai şTrad. LOGE Marc
+: .o .  53 N     _HEARN Lafcadio              Celui qui voulait rencontrer Bouddha ş1899 Story of a Tengu şTrad. LOGE Marc
+: .o .  57 N     _HEARN Lafcadio              La Reconnaissance de l'Homme-requin ş1900 The Gratitude of the Samebito şTrad. LOGE Marc
+: .o .  65 N     _HEARN Lafcadio              La L‚gende du Village des joueurs de koto ş1905 The Story of Ito Norisuk‚ şTrad. LOGE Marc
+: .o .  77 N     _HEARN Lafcadio              Histoire des fant“mes dans le roman de la Lanterne Pivoine ş1899 A Passional Karma şTrad. LOGE Marc
+: .o .  97 N     _HEARN Lafcadio              Celui qui ‚pousa deux fois la mˆme femme ş1900 The Sympathy of Benten şTrad. LOGE Marc
+: .o . 103 N     _HEARN Lafcadio              La PremiŠre Femme du samura‹ ş1900 The Reconciliation şTrad. LOGE Marc
+: .o . 107 N     _HEARN Lafcadio              Le Mariage posthume ş1904 The Story of O-tei şTrad. LOGE Marc
+: .o . 111 N     _HEARN Lafcadio              La Femme de la neige ş1904 Yuki-Onno şTrad. LOGE Marc
+: .o . 115 N     _HEARN Lafcadio              La Morte trop aimante ş1902 The Story of O-Kam‚ şTrad. LOGE Marc
+: .o . 119 N     _HEARN Lafcadio              Le Secret que la morte voulait effacer ş1904 A Dead Secret şTrad. LOGE Marc
+: .o . 125 N     _HEARN Lafcadio              Le Fant“me … la tˆte coup‚e ş1904 Rokuro-Kubi şTrad. LOGE Marc
+: .o . 135 N     _HEARN Lafcadio              Celui qui avala un fant“me ş1902 In a Cup of Tea şTrad. LOGE Marc
+: .o . 139 N     _HEARN Lafcadio              Le D‚capit‚ qui mordit la pierre ş1904 Diplomacy şTrad. LOGE Marc
+: .o . 143 N     _HEARN Lafcadio              Le Fant“me sans visage ş1904 Mujina şTrad. LOGE Marc
+: .o . 145 N     _HEARN Lafcadio              Le Chevaucheur du cadavre ş1900 A Corpse Rider şTrad. LOGE Marc
+: .o . 149 N     _HEARN Lafcadio              Le Mangeur de cadavres ş1904 Jikininki şTrad. LOGE Marc
+: .o . 153 N     _HEARN Lafcadio              La Morte aux mains vivantes ş1899 Ingwa-Banashi şTrad. LOGE Marc
+: .o . 157 N     _HEARN Lafcadio              La L‚gende de la "Cascade des Esprits" ş1902 The Legend of Yurei-Daki şTrad. LOGE Marc
+: .o . 163 N     _HEARN Lafcadio              Le Prˆtre "qui ‚crit avec cinq pinceaux en mˆme temps" ş1894 The Writing of K“b“daishi şTrad. LOGE Marc
+: .o . 167 N     _HEARN Lafcadio              Le Tableau qui avait une ƒme ş1901 The Story of Kwashin-Koji şTrad. LOGE Marc
+: .o . 175 N     _HEARN Lafcadio              Le Gamin qui dessinait des chats ş1900 The Boy who Drew Cats şTrad. LOGE Marc
+: .o . 179 N     _HEARN Lafcadio              Celui qui tomba amoureux d'un portrait ş1900 The Screen Maiden şTrad. LOGE Marc
+: .o . 183 N     _HEARN Lafcadio              La PrisonniŠre du miroir ş1905 The Mirror Maiden şTrad. LOGE Marc
+: .o . 189 N     _HEARN Lafcadio              A propos d'un miroir et d'une cloche ş1904 Of a Mirror and a Bell şTrad. LOGE Marc
+: .o . 195 N     _HEARN Lafcadio              Le Grand Incendie de la robe aux longues manches ş1899 Furisod‚ şTrad. LOGE Marc
+: .o . 201 N     _HEARN Lafcadio              Le Vampire au fond des eaux ş1902 The Story of Ch–gor“ şTrad. LOGE Marc
+: .o . 207 N     _HEARN Lafcadio              La Mort d'un canard sauvage ş1904 Oshidori şTrad. LOGE Marc
+: .o . 209 N     _HEARN Lafcadio              Le Message de la mouche ş1902 Story of a Fly şTrad. LOGE Marc
+: .o . 213 N     _HEARN Lafcadio              Le Faisan et le parricide ş1902 Story of a Pheasant şTrad. LOGE Marc
+: .o . 217 N     _HEARN Lafcadio              Celui qui voulait voir l'‚l‚phant blanc … six d‚fenses ş1900 A Legend of Fugen Bosatsu şTrad. LOGE Marc
+: .o . 221 N     _HEARN Lafcadio              Le "Cerisier du seiziŠme jour" ş1904 Jiu-Roku-Zakur şTrad. LOGE Marc
+: .o . 223 N     _HEARN Lafcadio              L'Histoire de "Saule vert" ş1904 The Story of Aoyagi şTrad. LOGE Marc
+: .o . 233 N     _HEARN Lafcadio              Le Mort qui protesta contre ses voleurs ş1902 Shiry“ şTrad. LOGE Marc
+: .o . 237 N     _HEARN Lafcadio              Le Magasin de porcelaines hant‚ par la haine ş1902 Ikyri“ şTrad. LOGE Marc
+: .o . 241 N     _HEARN Lafcadio              L'Enfant qui naquit deux fois ş1897 The Rebirth of Katsugoro şTrad. LOGE Marc
+: .o . 247 N     _HEARN Lafcadio              Devant la cour suprˆme ş1901 Before the Supreme Court şTrad. LOGE Marc
+: .o . 251 N     _HEARN Lafcadio              Le Samura‹ qui fit ouvrir les Portes de la Naissance ş1901 The Story of Umetsu-Chubei şTrad. LOGE Marc
+: .o . 255 N     _HEARN Lafcadio              Celui que le Pass‚ d‚signa pour connaŒtre l'Avenir ş1899 A Story of Divination şTrad. LOGE Marc
+: .o . 259 N     _HEARN Lafcadio              Sur la montagne des crƒnes d'hommes ş1899 Fragment şTrad. LOGE Marc
+: .o . 263 N     _HEARN Lafcadio              "...Et le temps lui-mˆme est une illusion" ş1897 Within the Circle şTrad. LOGE Marc
+: .o . 269 a     _HEARN Lafcadio              Autopsie d'une l‚gende (L'enfant qui naquit deux fois) ş? ? şTrad. LOGE Marc
+: .o . 275 a     _HEARN Lafcadio              Images de l'impossible ş1898 The Eternal Haunter şTrad. LOGE Marc
+: .o . 279 a     _LACASSIN Francis            Bibliographie ş1980
 o UGE_MEP     ?  1980.xx ..... ISBN 2-264-00306-5
 } ugemep_gogol   _Alain Tercinet              ?
 - .oF.    kN9    _GOGOL Nicolas               La Veille de la Saint-Jean ş1980
@@ -2317,7 +2528,7 @@ o UGE_MEP     ?  1980.xx ..... ISBN 2-264-00307-3
 : .o .     p     _LACASSIN Francis            Erckmann-Chatrian ou les liens secrets de l'homme et l'univers ş1980
 : .o .     N     _ERCKMANN-CHATRIAN           L'Oeil invisible ou l'auberge des trois pendus ş1858
 : .o .     N     _ERCKMANN-CHATRIAN           Les Trois ƒmes ş1859
-: .o .     N     _ERCKMANN-CHATRIAN           La Reine des abeilles ş1862
+: .o .     N     _ERCKMANN-CHATRIAN           La Reine des abeilles ş1861
 : .o .     N     _ERCKMANN-CHATRIAN           Le Rˆve de mon cousin Elof ş1859
 : .o .     N     _ERCKMANN-CHATRIAN           L'Esquisse myst‚rieuse ş1860
 : .o .     N     _ERCKMANN-CHATRIAN           La Montre du doyen ş1859
@@ -2332,87 +2543,152 @@ o UGE_MEP     ?  1980.xx ..... ISBN 2-264-00307-3
 : .o .     N     _ERCKMANN-CHATRIAN           L'Oreille de la chouette ş1860
 o UGE_MEP     ?  1980.xx ..... ISBN 2-264-00322-7
 } ugemep_bouquet _?                           ?
-- .o .    _N10   _BOUQUET Jean-Louis         &Mondes noirs ş1980
+- .oF.    _N10   _BOUQUET Jean-Louis         &Mondes noirs ş1980
 &                *LACASSIN Francis            
-: .o .     p     _LACASSIN Francis            Jean-Louis Bouquet ou les t‚nŠbres de l'au-dedans ş1980
-: .o .     N     _BOUQUET Jean-Louis          La Recluse de Cimiez ş[1954],1978
-: .o .     N     _BOUQUET Jean-Louis          Laurine ou la clef d'argent ş1951
-: .o .     N     _BOUQUET Jean-Louis          Naamƒ, ou la dive incestueuse ş1978
-: .o .     N     _BOUQUET Jean-Louis          Annie Grand Nez ş[1947],1980
-: .o .     N     _BOUQUET Jean-Louis          L'Obsession de madame Valette ş[1954],1980
-: .o .     N     _BOUQUET Jean-Louis          L'trange Madame Enfant [Prodiges au vieux pays - 1] ş1966
-: .o .     N     _BOUQUET Jean-Louis          La Belle … la toque verte [Prodiges au vieux pays - 2] ş1966
-: .o .     N     _BOUQUET Jean-Louis          La Preuve ş1954
-: .o .     N     _BOUQUET Jean-Louis          La Cit‚ d'Ombre ş[1967],1980
-: .o .     N     _BOUQUET Jean-Louis          Le Soleil noir d'Ermenonville ş[1946],1980
-: .o .     H     _BOUQUET Jean-Louis          Rendez-vous avec le d‚mon ş[1953],1980
-!: .o .     I     _BOUQUET Jean-Louis          Au fond de tout thŠme fantastique perce le d‚moniaque ş?
-!--- Jean-Louis BOUQUET & Francis LACASSIN, Au fond de tout thŠme fantastique perce le d‚moniaque pages 223 … 228, Interview 
-!--- Liminaire pour le Visage de Feu pages 221 … 222, Pr‚face 
-!--- Francis LACASSIN, Bibliographie pages 229 … 237
+: .o .   9 p     _LACASSIN Francis            Jean-Louis Bouquet ou les t‚nŠbres de l'au-dedans ş1980
+: .o .  27 N     _BOUQUET Jean-Louis          La Recluse de Cimiez ş[1954],1978
+: .o .  53 N     _BOUQUET Jean-Louis          Laurine ou la clef d'argent ş1951
+: .o .  67 N     _BOUQUET Jean-Louis          Naamƒ, ou la dive incestueuse ş1978
+: .o . 103 N     _BOUQUET Jean-Louis          Annie Grand Nez ş[1947],1980
+: .o . 115 N     _BOUQUET Jean-Louis          L'Obsession de madame Valette ş[1954],1980
+: .C . 133 C     _BOUQUET Jean-Louis          Prodiges au vieux pays (2 textes)
+: .o . 133 N     _BOUQUET Jean-Louis          L'trange Madame Enfant [Prodiges au vieux pays - 1] ş1966
+: .o . 139 N     _BOUQUET Jean-Louis          La Belle … la toque verte [Prodiges au vieux pays - 2] ş1966
+: .o . 143 N     _BOUQUET Jean-Louis          La Preuve ş1954
+: .o . 149 N     _BOUQUET Jean-Louis          La Cit‚ d'ombre ş[1967],1980
+: .o . 171 N     _BOUQUET Jean-Louis          Le Soleil noir d'Ermenonville ş[1946],1980
+: .C . 193 C     ****                         Annexes
+: .o . 193 H     _BOUQUET Jean-Louis          Rendez-vous avec le d‚mon ş[1953],1980
+: .o . 221 I     _LACASSIN Francis            Au fond de tout thŠme fantastique perce le d‚moniaque ş?
+! .o . 221 i     _BOUQUET Jean-Louis          Au fond de tout thŠme fantastique perce le d‚moniaque ş?
+: .o . 227 a     _BOUQUET Jean-Louis          Liminaire pour le Visage de Feu ş?
 o UGE_MEP     ?  1980.xx ..... ISBN 2-264-00323-5
 } ugemep_nodier  _?                           ?
-- .oF.    iNx    _NODIER Charles              Les D‚mons de la nuit ş?
+>--- "Mon ami Nodier" est la reprise du 1er chapitre ("L'Arsenal") du roman "La Femme au collier de velours" d'Alexandre Dumas.
+- .oF.    kA9    _NODIER Charles              Les D‚mons de la nuit ş1980
+: .o .     p     _LACASSIN Francis            Charles Nodier ou les portes secrŠtes du sommeil ş1980
+: .o .     N     _NODIER Charles              Trilby ou le lutin d'Argail ş1822
+: .o .     N     _NODIER Charles              La Neuvaine de la Chandeleur ş1839
+: .o .     X     _NODIER Charles              La F‚e aux miettes ş1832
+: .o .     N     _NODIER Charles              Le Songe d'or ş1832
+: .o .     N     _NODIER Charles              Hurlubleu - Grand Manifafa d'HurlubiŠre ou la Perfectibilit‚ ş1831
+: .o .     N     _NODIER Charles              Voyage pittoresque et industriel dans le Paraguay-Roux et la Paling‚n‚sie Australe ş1835
+: .o .     N     _NODIER Charles              Smarra ou les d‚mons de la nuit ş1821
+: .o .     N     _NODIER Charles              Le Pays des rˆves ş1831
+: .o .     a     _NODIER Charles              Le Vampire ş1819
+: .o .     X     _DUMAS Alexandre             Mon ami Nodier (extrait de : La Femme au collier de velours) ş1850
+: .o .     P     _HUGO Victor                 A Trilby, le lutin d'Argail ş1826
+: .o .     a     _LACASSIN Francis            Bibliographie ş1980
 o UGE_MEP     ?  1980.xx ..... ISBN 2-264-00327-8
 } ugemep_sand    _?                           ?
-- .oF.    cN9    _SAND George                &Le Chˆne parlant ş1981
+!--- Recueil de contes extraits des "Contes d'une grand-mŠre", de "L‚gendes rustiques" et de "La Revue des deux mondes".
+- .oF.    kN9    _SAND George                &Le Chˆne parlant ş1980
 &                *LACASSIN Francis            
-!--- avant-propos des ‚diteurs
-: .o .     N     _SAND George                 Le Chƒteau de Pictordu ş1873
-: .o .     N     _SAND George                 Le Moine des Etangs-Brisses ş1858
-: .o .     N     _SAND George                 Les Flambettes ş1858
-: .o .     N     _SAND George                 Le Chˆne parlant ş1875
-: .o .     N     _SAND George                 Les Ailes de courage ş1872
-: .o .     N     _SAND George                 Le Nuage rose ş1872
-: .o .     N     _SAND George                 La F‚e poussiŠre ş1875
-: .o .     N     _SAND George                 Ce que disent les fleurs ş1875
-: .o .     N     _SAND George                 Ce que dit le ruisseau ş1863
-!--- ou Textes autobiographiques ?
-!--- Bibliographie, F. Lacassin
+: .o .   9 p     ****                         Avant-propos des ‚diteurs ş1980
+: .o .  11 N     _SAND George                 Le Chƒteau de Pictordu ş1873
+: .o .  77 N     _SAND George                 Le Moine des Etangs-Brisses ş1858
+: .o .  83 N     _SAND George                 Les Flambettes ş1858
+: .o .  89 N     _SAND George                 Le Chˆne parlant ş1875
+: .o . 115 N     _SAND George                 Les Ailes de courage ş1872
+: .o . 181 N     _SAND George                 Le Nuage rose ş1872
+: .o . 209 N     _SAND George                 La F‚e poussiŠre ş1875
+: .o . 219 N     _SAND George                 Ce que disent les fleurs ş1875
+: .o . 227 N     _SAND George                 Ce que dit le ruisseau ş1863
+: .o . 239 a     _LACASSIN Francis            Bibliographie ş1980
 o UGE_MEP     ?  1980.xx ..... ISBN 2-264-00328-6
 } ugemep_doyle   _?                           ?
-- .oF.    cN10   _DOYLE Arthur Conan         &L'Horreur des altitudes ş1980
+- .oF.    _N10   _DOYLE Arthur Conan         &L'Horreur des altitudes ş1980
 &                *LACASSIN Francis            
-!: .o .     p     _SIGAUD Gilbert              Pr‚face ş1981
-: .oF.     N     _DOYLE Arthur Conan          L'Anneau de Thoth ş1890 The Ring of Thot şTrad. ?
-: .o .     N     _DOYLE Arthur Conan          Le Miroir d'argent ş1908 The Silver Mirror şTrad. ?
-: .oF.     N     _DOYLE Arthur Conan          Le Lot nø 249 ş1892 Lot Nø 249 şTrad. ?
-: .oF.     N     _DOYLE Arthur Conan          La Grande Exp‚rience de Keinplatz ş1885 The Great Keinplatz Experiment şTrad. ?
-: .o .     N     _DOYLE Arthur Conan          Le Manoir hant‚ de Goresthorpe ş1883 The Secret of Goresthorpe Grange / Selecting a Ghost şTrad. ?
-: .oF.     N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand şTrad. ?
-: .o .     N     _DOYLE Arthur Conan          Les Trois Fianc‚s morts ş1884 John Barrington Cowles şTrad. ?
-: .o .     N     _DOYLE Arthur Conan          Le Capitaine de l'‚toile polaire ş1883 The Captain of the Polestar şTrad. ?
-: .oF.     N     _DOYLE Arthur Conan          En jouant avec le feu ş1900 Playing With Fire şTrad. ?
-: .oF.     N     _DOYLE Arthur Conan          L'Horreur des altitudes ş1913 The Horror of the Heights
-: .o .     o     _LACASSIN Francis            Conan Doyle ou la d‚faite de la mort ş1981
-!--- Discours d'adieu au CongrŠs Spirite International de 1928, Conan Doyle
-!--- Bibliographie, F. Lacassin
+: .o .   7 p     _SIGAUD Gilbert              Pr‚face ş1981
+: .oF.  39 N     _DOYLE Arthur Conan          L'Anneau de Thoth ş1890 The Ring of Thoth şTrad. ?
+: .o .  57 N     _DOYLE Arthur Conan          Le Miroir d'argent ş1908 The Silver Mirror şTrad. ?
+: .oF.  67 N     _DOYLE Arthur Conan          Le Lot nø 249 ş1892 Lot Nø 249 şTrad. ?
+: .oF. 105 N     _DOYLE Arthur Conan          La Grande Exp‚rience de Keinplatz ş1885 The Great Keinplatz Experiment şTrad. ?
+: .o . 121 N     _DOYLE Arthur Conan          Le Manoir hant‚ de Goresthorpe ş1883 The Secret of Goresthorpe Grange / Selecting a Ghost şTrad. ?
+: .oF. 141 N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand / The Brown Hand şTrad. ?
+: .o . 155 N     _DOYLE Arthur Conan          Les Trois Fianc‚s morts ş1884 John Barrington Cowles şTrad. ?
+: .o . 177 N     _DOYLE Arthur Conan          Le Capitaine de l'‚toile polaire ş1883 The Captain of the Polestar şTrad. ?
+: .oF. 197 N     _DOYLE Arthur Conan          En jouant avec le feu ş1900 Playing With Fire şTrad. ?
+: .oF. 211 N     _DOYLE Arthur Conan          L'Horreur des altitudes ş1913 The Horror of the Heights
+: .o . 227 o     _LACASSIN Francis            Conan Doyle ou la d‚faite de la mort ş1981
+: .oF. 239 a     _DOYLE Arthur Conan          Discours d'adieu au CongrŠs Spirite International de 1928 ş1928 Meeting at the Congress of the International Federation of Spiritualists
+: .o . 245 a     _LACASSIN Francis            Bibliographie ş1980
 o UGE_MEP     ?  1980.xx ..... ISBN 2-264-00332-4
 } ugemep_kipling _?                           ?
-- .o .    iNx    _KIPLING Rudyard             Dans la cit‚ des morts ş1980
+- .oF.    kN11   _KIPLING Rudyard             Dans la cit‚ des morts ş1980
+: .o .   9 N     _KIPLING Rudyard             Une version nouvelle de ce qui arriva au Jardin d'Eden ş1924 The Enemies to Each Other şTrad. DUDON Nathalie
+: .o .  21 N     _KIPLING Rudyard             Les Enfants du zodiaque ş1891 The Children of the Zodiac şTrad. VARLET Th‚o
+: .o .  37 N     _KIPLING Rudyard             L'Oeil d'Allah ş1926 The Eye of Allah şTrad. DUDON Nathalie
+: .o .  59 N     _KIPLING Rudyard             La Marque de la bˆte ş1890 The Mark of the Beast şTrad. DUDON Nathalie
+: .o .  73 N     _KIPLING Rudyard             La Tombe de ses ancˆtres ş1897 The Tomb of His Ancestors şTrad. SAVINE Albert
+: .x . 107 N     _KIPLING Rudyard             Le Retour d'Imray ş1891 The Return of Imray şTrad. VARLET Th‚o
+: .o . 119 N     _KIPLING Rudyard             Dans la cit‚ des morts ş1885 The Strange Ride of Morrowbie Jukes şTrad. SAVINE Albert
+: .o . 145 N     _KIPLING Rudyard             Aux lumiŠres de la cit‚ du sommeil ş1895 The Brushwood Boy şTrad. BORJANE Henry
+: .o . 179 N     _KIPLING Rudyard             La Porte des cieux - Une histoire de 1916 ş1926 On the Gate: A Tale of '16 şTrad. DUDON Nathalie
+: .o . 197 N     _KIPLING Rudyard             Aussi simple que B.A.C. ş1912 As Easy as ABC şTrad. LEROLLE Guillaume
+: .o . 227 N     _KIPLING Rudyard             La DerniŠre Histoire ş1888 The Last of the Stories şTrad. BORJANE Henry
+: .o . 243 a     _LACASSIN Francis            Kipling ou "quand les demi-dieux s'en vont, les dieux arrivent..." ş1980
+: .o . 263 a     _LACASSIN Francis            Bibliographie ş1980
 o UGE_MEP     ?  1980.xx ..... ISBN 2-264-00372-9
 } ugemep_sand2   _?                           ?
-- .o .    kNx    _SAND George                 Voyage dans le cristal ş1980
-: .o .     N     _SAND George                 Laura, voyage dans le cristal ş1864
+- .oF.    kNx    _SAND George                 Voyage dans le cristal ş1980
+: .o .     p     _LACASSIN Francis            La Nature contre les f‚es ş1980
+: .o .     r     _SAND George                 Laura, voyage dans le cristal ş1864
 : .o .     N     _SAND George                 L'Orgue du Titan ş1873
 : .o .     N     _SAND George                 La F‚e aux gros yeux ş1875
 : .o .     N     _SAND George                 Le G‚ant Y‚ous ş1873
 : .o .     N     _SAND George                 La Reine Coax ş1872
 : .o .     N     _SAND George                 La Coupe ş1865
 : .o .     N     _SAND George                 Le Chien et la fleur sacr‚e ş1875
-: .o .     a     _SAND George                 Les Visions de la nuit dans les campagnes ş?
-: .o .     N     _SAND George                 La Maison d‚serte ş?
-: .o .     N     _SAND George                 L‚gendes fantastiques ş?
+: .o .     a     _SAND George                 Les Visions de la nuit dans les campagnes ş1857
+: .o .     a     _SAND George                 La Maison d‚serte ş1837
+: .o .     a     _SAND George                 L‚gendes fantastiques ş?
+: .o .     a     _LACASSIN Francis            Bibliographie ş1980
 o UGE_MEP     ?  1981.xx ..... ISBN 2-264-00345-6
 } ugemep_maupass _?                           ?
-- .o .    iNx    _MAUPASSANT Guy de           Qui sait ? ş1981
+- .oF.    kN31   _MAUPASSANT Guy de           Qui sait ? et autres histoires ‚tranges ş1981
+: .o .     N     _MAUPASSANT Guy de           La Main d'‚corch‚ ş1875
+: .o .     N     _MAUPASSANT Guy de           Apparition ş1883
+: .o .     N     _MAUPASSANT Guy de           La Main ş1883
+: .o .     N     _MAUPASSANT Guy de           Un fou ? ş1884
+: .o .     N     _MAUPASSANT Guy de           Lettre d'un fou ş1885
+: .o .     N     _MAUPASSANT Guy de           Le Horla (2iŠme version) ş1886-1887
+: .o .     N     _MAUPASSANT Guy de           La Morte ş1887
+: .o .     N     _MAUPASSANT Guy de           Conte de No‰l ş1882
+: .o .     N     _MAUPASSANT Guy de           La Nuit ş1887
+: .o .     N     _MAUPASSANT Guy de           AuprŠs d'un mort ş1883
+: .o .     N     _MAUPASSANT Guy de           Sur les chats ş1886
+: .o .     N     _MAUPASSANT Guy de           L'Auberge ş1886
+: .o .     N     _MAUPASSANT Guy de           La Peur (2iŠme version) ş1882-1884
+: .o .     N     _MAUPASSANT Guy de           Madame Hermet ş1887
+: .o .     N     _MAUPASSANT Guy de           La Peur ş1882
+: .o .     N     _MAUPASSANT Guy de           Le Loup ş1882
+: .o .     N     _MAUPASSANT Guy de           Lui ? ş1883
+: .o .     N     _MAUPASSANT Guy de           Fou ? ş1882
+: .o .     N     _MAUPASSANT Guy de           Le Diable ş1886
+: .o .     N     _MAUPASSANT Guy de           Moiron ş1887
+: .o .     N     _MAUPASSANT Guy de           La MŠre aux monstres ş1883
+: .o .     N     _MAUPASSANT Guy de           L'Inconnue ş1885
+: .o .     N     _MAUPASSANT Guy de           Le Tic ş1884
+: .o .     N     _MAUPASSANT Guy de           Un fou ş1885
+: .o .     N     _MAUPASSANT Guy de           La Chevelure ş1884
+: .o .     N     _MAUPASSANT Guy de           Le Masque ş1889
+: .o .     N     _MAUPASSANT Guy de           Un cas de divorce ş1886
+: .o .     N     _MAUPASSANT Guy de           Le Condamn‚e … mort ş1883
+: .o .     N     _MAUPASSANT Guy de           L'Endormeuse ş1889
+: .o .     N     _MAUPASSANT Guy de           Menuet ş1882
+: .o .     N     _MAUPASSANT Guy de           L'Homme de Mars ş1888
+: .o .     a     _MAUPASSANT Guy de           Adieu mystŠres ş1881
+: .o .     a     _MAUPASSANT Guy de           Par-del… ş1884
+: .o .     a     _MAUPASSANT Guy de           Un prophŠte ş1886
+: .o .     a     _LACASSIN Francis            Guy de Maupassant ou "le vrai peut quelquefois n'ˆtre pas vraisemblable" ş1981
 o UGE_MEP     ?  1981.xx ..... ISBN 2-264-00346-4
 } ugemep_rohmer  _Alain Tercinet              ?
+!--- Maison de chauchemar est la version augment‚e de 1920 The Haunting of Low Fennel
 - .oF.     N12   _ROHMER Sax                 &La Mal‚diction des mille baisers ş1981
 &                *LACASSIN Francis            
 : .o .     N     _ROHMER Sax                  Tcheriapine ş1922 Tcheriapin şTrad. CASTEL Robert-Pierre
 : .o .     N     _ROHMER Sax                  Maison de cauchemar ş1932 Nightmare House şTrad. CASTEL Robert-Pierre
-!--- (version augment‚e de 1920 The Haunting of Low Fennel)
 : .o .     N     _ROHMER Sax                  La LumiŠre de l'atlantide ş1932 The Light of Atlantis şTrad. CASTEL Robert-Pierre
 : .o .     N     _ROHMER Sax                  La Vall‚e du juste ş1914 Valley of the Just şTrad. CASTEL Robert-Pierre
 : .o .     N     _ROHMER Sax                  Le MaŒtre de Hollow Grange ş1918 The Master of Hollow Grange şTrad. CASTEL Robert-Pierre
@@ -2427,62 +2703,82 @@ o UGE_MEP     ?  1981.xx ..... ISBN 2-264-00346-4
 : .o .     a     _LACASSIN Francis            Bibliographie ş1981
 o UGE_MEP     ?  1981.xx ..... ISBN 2-264-00359-6
 } ugemep_pouchkine _?                           ?
-- .o .    iNx    _POUCHKINE Alexandre         La Princesse morte et les sept chevaliers ş1981
+- .oF.    iNx    _POUCHKINE Alexandre         La Princesse morte et les sept chevaliers ş1981
 o UGE_MEP     ?  1981.xx ..... ISBN 2-264-00360-X
 } ugemep_scott   _?                           ?
-- .o .    iN8    _SCOTT Walter                Le Berceau du chat ((Contes fantastiques de Walter Scott)) ş1981
+- .oF.    kN8    _SCOTT Walter                Le Berceau du chat ((Contes fantastiques de Walter Scott)) ş1981
 : .oF.     p     _LE ROUGE Gustave            Avertissement ş1932
-: .oF.     N     _SCOTT Walter                La Veuve des Highlands ş1827 The Highlands Widow şTrad. DEFAUCONPRET A.J.B.
+: .oF.     N     _SCOTT Walter                La Veuve des Hautes-Terres ş1827 The Highland Widow şTrad. DEFAUCONPRET A.J.B.
 : .oF.     N     _SCOTT Walter                Les Deux Bouviers ş1827 The Two Drovers şTrad. DEFAUCONPRET A.J.B.
 : .oF.     X     _SCOTT Walter                Le Berceau du chat (extrait de : Redgauntlet) ş1824 Wandering Willie's Tale şTrad. DEFAUCONPRET A.J.B.
 : .oF.     X     _SCOTT Walter                Les Aventures de Martin Waldeck (extrait de : L'antiquaire) ş1816 The Fortunes of Martin Waldeck şTrad. DEFAUCONPRET A.J.B.
 : .oF.     N     _SCOTT Walter                Le Miroir de la tante Marguerite ş1828 My Aunt Margaret's Mirror şTrad. DEFAUCONPRET A.J.B.
-: .oF.     N     _SCOTT Walter                La Chambre tapiss‚e, ou la dame en sac ş1826 The Tapestried Chamber / The Tapestried Chamber or The Lady in the Sacque şTrad. DEFAUCONPRET A.J.B.
-: .oF.     X     _SCOTT Walter                Le Feu sacr‚ (extrait de : Anne de Geierstein) ş1829 Anne of Geierstein şTrad. DEFAUCONPRET A.J.B.
+: .oF.     N     _SCOTT Walter                La Chambre tapiss‚e, ou la dame en sac ş1826 The Tapestried Chamber / The Tapestried Chamber or the Lady in the Sacque şTrad. DEFAUCONPRET A.J.B.
+: .oF.     X     _SCOTT Walter                Le Feu sacr‚ (extrait de : Anne de Geierstein) ş1829 Anne of Geierstein şTrad. COHEN Jean
+: .oF.     a     _SCOTT Walter                Du merveilleux dans le roman ş? On the Supernatural in the Fictions Compositions şTrad. DEFAUCONPRET A.J.B.
 : .oF.     X     _SCOTT Walter                La Fontaine de la sirŠne (extrait de : La fianc‚e de Lammermoor) ş1819 The Bride of Lammermoor şTrad. DEFAUCONPRET A.J.B.
+: .oF.     a     _SCOTT Walter                Walter Scott et trois des Milles et Un Fant“mes d'Alexandre Dumas (extrait de : La D‚monologie ou Histoire des d‚mons et sorciers) ş1830 Letters on Demonology and Witchcraft şTrad. MONTEMONT Albert
+: .oF.     a     _BALZAC Honor‚ de            Walter Scott vu par Balzac ş?
+: .oF.     o     _LACASSIN Francis            Walter Scott ou le miracle en libert‚ surveill‚e ş1981
+: .oF.     a     _LACASSIN Francis            Bibliographie ş1981
 o UGE_MEP     ?  1981.xx ..... ISBN 2-264-00364-2
 } ugemep_vampires _?                           ?
 - .oF.    _A10   *LACASSIN Francis            Vampires de Paris ş1981
-: .o .     p     _LACASSIN Francis            Pr‚face ş1981
-: .o .     N     _BERARD Cyprien              Le Ministre du Duc de ModŠne ş?
-: .o .     N     _GAUTIER Th‚ophile           La Morte amoureuse ş1836
-: .o .     N     _DUMAS Alexandre             Histoire de la dame pƒle ş1849
-: .o .     N     _MAUPASSANT Guy de           Le Horla ş1886
-: .o .     N     _BLOY L‚on                   La Salamandre vampire ş1893
-: .o .     N     _LORRAIN Jean                Forains ş1904
-: .o .     X     _LE ROUGE Gustave            Le MystŠre martien (La guerre des vampires) [Robert Darvel] ş1909
-: .o .     N     _RAY Jean                    Le Gardien du cimetiŠre ş1920
-: .o .     N     _BOUQUET Jean-Louis          Laurine ou la clef d'argent ş1955
-: .o .     N     _BOILEAU Pierre              La DerniŠre Victime ş?
-: .o .     N     _SEIGNOLLE Claude            Le Chupador ş1960
-: .o .     X     _KLOTZ Claude                Paris-vampire ş1974
-!--- Bibliographie, F. Lacassin
-!--- R‚pertoire des auteurs, F. Lacassin
+: .o .   9 p     _LACASSIN Francis            Pr‚face ş1981
+: .o .  29 N     _BERARD Cyprien              Le Ministre du Duc de ModŠne ş?
+: .o .  45 N     _GAUTIER Th‚ophile           La Morte amoureuse ş1836
+: .o .  73 N     _DUMAS Alexandre             Histoire de la dame pƒle ş1849
+: .o . 109 N     _MAUPASSANT Guy de           Le Horla ş1886
+: .o . 117 N     _BLOY L‚on                   La Salamandre vampire ş1893
+: .o . 123 N     _LORRAIN Jean                Forains ş1904
+: .o . 129 X     _LE ROUGE Gustave            Le MystŠre martien (La guerre des vampires) [Robert Darvel] ş1909
+: .o . 173 N     _RAY Jean                    Le Gardien du cimetiŠre ş1920
+: .o . 183 N     _BOUQUET Jean-Louis          Laurine ou la clef d'argent ş1951
+: .o . 199 N     _BOILEAU Pierre              La DerniŠre Victime ş?
+: .o . 203 N     _SEIGNOLLE Claude            Le Chupador ş1960
+: .o . 223 X     _KLOTZ Claude                Paris-vampire (‚pisode) ş1974
+: .o . 241 a     _LACASSIN Francis            Bibliographie ş1981
+: .o .     a     _LACASSIN Francis            R‚pertoire des auteurs ş1981
 o UGE_MEP     ?  1981.xx ..... ISBN 2-264-00369-3
 } ugemep_balzac  _?                           ?
-- .o .    iNx    _BALZAC Honor‚ de            Histoire v‚ritable de la bossue courageuse ş1981
-: .o .     N     _BALZAC Honor‚ de            Histoire v‚ritable de la bossue courageuse ş?
+- .oF.     N13   _BALZAC Honor‚ de            Histoire v‚ritable de la bossue courageuse ş1981
+: .o .     N     _BALZAC Honor‚ de            Histoire v‚ritable de la bossue courageuse ş1833
+: .o .     X     _BALZAC Honor‚ de            La DerniŠre F‚e ş1823
+: .o .     N     _BALZAC Honor‚ de            Histoire v‚ritable de la bossue courageuse ş1833
+: .o .     N     _BALZAC Honor‚ de            J‚sus-Christ en Flandre ş1830-1845
+: .o .     N     _BALZAC Honor‚ de            La Tour de la Birette ş1830
+: .o .     N     _BALZAC Honor‚ de            L'lixir de longue vie ş1830
+: .o .     N     _BALZAC Honor‚ de            Le Pacte ş?
+: .o .     N     _BALZAC Honor‚ de            Melmoth r‚concili‚ ş1835
+: .o .     X     _BALZAC Honor‚ de            La Somnambule de la rue Saint-Honor‚ (extrait de Ursule Mirou‰t) ş1841
+: .o .     N     _BALZAC Honor‚ de            L'Opium ş?
+: .o .     N     _BALZAC Honor‚ de            Les Deux Rˆves ş1830
+: .o .     X     _BALZAC Honor‚ de            Le conte de f‚es du fantassin Goguelat (Extrait de Le M‚decin de campagne) ş1833
+: .o .     N     _BALZAC Honor‚ de            Le Grand d'Espagne ş1832
+: .x .     N     _BALZAC Honor‚ de            Sarrasine ş1830
+: .o .     o     _LACASSIN Francis            Postface ş1981
+: .o .     a     _LACASSIN Francis            Bibliographie ş1981
 o UGE_MEP     ?  1981.05 ..... ISBN 2-264-00371-5
 } ugemep_london  _?                           ?
-- .oF.    cN11   _LONDON Jack                &Mille fois mort ş1981
+- .oF.    _N11   _LONDON Jack                &Mille fois mort ş1981
 &                *LACASSIN Francis            
-: .o .     N     _LONDON Jack                 L'ternit‚ des formes ş1911 The Eternity of Forms
-: .o .     N     _LONDON Jack                 L'Homme sans nom ş1900 Semper Idem
-: .o .     N     _LONDON Jack                 Qui croit encore aux fant“mes ? ş1895 Who Believes in Ghosts?
-: .o .     N     _LONDON Jack                 Quand le monde ‚tait jeune ş1910 When the World Was Young
-: .oF.     N     _LONDON Jack                 Mille fois mort ş1899 A Thousand Deaths
-: .o .     N     _LONDON Jack                 L'Invasion sans pareille ş1910 The Unparallaled Invasion
-: .o .     N     _LONDON Jack                 Un nez pour le roi ş1906 A Nose for the King
-: .o .     N     _LONDON Jack                 Dans la caverne des morts ş1918 In the Cave of the Dead
-: .o .     N     _LONDON Jack                 Le Dieu tomb‚ du ciel ş1918 The Red One
-: .o .     X     _LONDON Jack                 Avant Adam ş1906 Before Adam
+: .o .   9 N     _LONDON Jack                 L'ternit‚ des formes ş1911 The Eternity of Forms / The Dead Do Not Come Back
+: .o .  23 N     _LONDON Jack                 L'Homme sans nom ş1900 Semper Idem
+: .o .  29 N     _LONDON Jack                 Qui croit encore aux fant“mes ? ş1895 Who Believes in Ghosts?
+: .o .  39 N     _LONDON Jack                 Quand le monde ‚tait jeune ş1910 When the World Was Young
+: .oF.  57 N     _LONDON Jack                 Mille fois mort ş1899 A Thousand Deaths
+: .o .  69 N     _LONDON Jack                 L'Invasion sans pareille ş1910 The Unparalleled Invasion
+: .o .  83 N     _LONDON Jack                 Un nez pour le roi ş1906 A Nose for the King
+: .o .  89 N     _LONDON Jack                 Dans la caverne des morts ş1918 In the Cave of the Dead
+: .o . 111 N     _LONDON Jack                 Le Dieu tomb‚ du ciel ş1918 The Red One
+: .o . 135 X     _LONDON Jack                 Avant Adam (‚pisodes) ş1906 Before Adam
 !--- I. Mes rˆves - II. Mes chutes - IV. Oreille-Pendante
 !--- VIII. Dent-de-Sabre - XVIII. Fin de nos p‚r‚grinations
-: .o .     N     _LONDON Jack                 Les Trois Manchots ş1918 The Princess
-!--- Le terrible et le tragique dans la fiction
-!--- Jack London et le fantastique r‚volutionnaire, par Fritz Leiber
-!--- Postface, F. Lacassin
-!--- Bibliographie, F. Lacassin
+: .o . 161 N     _LONDON Jack                 Les Trois Manchots ş1918 The Princess
+: .o . 187 a     _LONDON Jack                 Le terrible et le tragique dans la fiction
+: .o . 197 a     _LEIBER Fritz                Jack London et le fantastique r‚volutionnaire ş1963 The Alien Worlds of Jack London by Dale Walker
+: .o . 201 a     _LACASSIN Francis            Postface ş1981
+: .o . 213 a     _LACASSIN Francis            Bibliographie ş1981
 !FIN_COLL UGE_MEP
 
 

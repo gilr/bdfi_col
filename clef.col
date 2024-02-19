@@ -1,7 +1,7 @@
 !-----------------------------------------------------------------------------
 !---                     La Clef d'Argent
 !-----------------------------------------------------------------------------
-_ CLEF_TC Ed. La Clef d'Argent, TÇnäbres et Cie
+_ CLEF_TC La Clef d'Argent - TÇnäbres et Cie
 !-----------------------------------------------------------------------------
 !--- Editions La Clef d'Argent
 !--- Collection TÇnÇbres et Cie.
@@ -44,7 +44,7 @@ o CLEF_TC     8  2011.12 ..... ISBN 978-2-908254-95-2
 - .oF.     R     _LENN Jonas                  Captifs de Terroma ? [Coolter et Quincampoix] ˛2011
 
 !-----------------------------------------------------------------------------
-_ CLEF_J  La Clef d'Argent, Coll. Jeunesse
+_ CLEF_J  La Clef d'Argent - Jeunesse
 !-----------------------------------------------------------------------------
 o CLEF_J      1  2009.11 ..... ISBN 978-2-908254-75-4
 }clefjeunesse01  _KARA                        N
@@ -71,7 +71,7 @@ o CLEF_J      6  2014.01 ..... ISBN 978-10-90662-19-3
 
 
 !-----------------------------------------------------------------------------
-_ CLEF_SM Ed. La Clef d'Argent, Coll. Spiritus Mundi
+_ CLEF_SM La Clef d'Argent - Spiritus Mundi
 !-----------------------------------------------------------------------------
 !--- ISSN 1151-7557
 !-----------------------------------------------------------------------------
@@ -91,7 +91,7 @@ o CLEF_SM     ?  1990.10 ..... ISBN 2-908254-09-3
 - .oF.     R     _NEGEL Lucile                Ilve la blonde ˛1990
 
 !-----------------------------------------------------------------------------
-_ CLEF    Ed. La Clef d'Argent
+_ CLEF    La Clef d'Argent
 !-----------------------------------------------------------------------------
 !--- Editions La Clef d'Argent - Hors Collections
 !-----------------------------------------------------------------------------
@@ -178,10 +178,34 @@ o CLEF        ?  2017.05 ..... ISBN 979-10-90662-42-1
 o CLEF        ?  2019.xx ..... ISBN 979-10-90662-54-4
 } noimg          _LÇo Gontier                 ?
 - .oF.     R     _MANTESE Laurent             La Mort de Paul Asseman ˛2019
+o CLEF        ?  2021.11 ..... ISBN 979-10-90662-64-3
+} noimg          _LÇo Gontier                 ?
+!--- 130 x 200 mm - 374 pages - 19 euros
+- .oS.    kN18   *LANUQUE Jean-Guillaume      A l'assaut du ciel - Anthologie d'imaginaire communard ˛2021
+: .o .     p     _VIDELIER Philippe           PrÇface ˛2021
+: .o .     p     _LANUQUE Jean-Guillaume      PrÇsentation : l'ÇternitÇ par les Communes ˛2021
+: .o .     N     _CLAVEL Fabien               1871 - Je suis de ce parti dangereux qui fait grÉce ˛2021
+: .o .     N     _DANREMONT Marc              Rosa ˛2021
+: .oY.     N     _GUILHEM Morgane             Les Paris du petit peuple ˛2021
+: .o .     N     _ABRAXAS                     Le Sang des cerises ˛2021
+: .o .     N     _GARNOTEL Maâl               Un crachat rouge et noir ˛2021
+: .o .     N     _HEILIGENSTEIN Lucie         Tuer l'obscur ˛2021
+: .o .     N     _JANIN Louise                Le Feu de la Commune ˛2021
+: .o .     N     _GEVART Pierre               Chapitre 46 ˛2021
+: .o .     N     _TRUDEL Jean-Louis           Les Feux du futur ˛2021
+: .o .     N     _MALTERE CÇline              Pipistrelle commune ˛2021
+: .o .     N     _PERIN JÇrÇmie               Adolphe mon amour ˛2021
+: .o .     N     _LENEC Nagan                 Chez Pickman, rue d'Auseil ˛2021
+: .o .     N     _ZEUGMA Martin               En commun ˛2021
+: .o .     N     _PEREZ Louis-Xavier          Le Hussard rouge ˛2021
+: .o .     N     _LEVASSORT Nathalie          La Communeuse ˛2021
+: .o .     N     _CUIDET Arnaud               Commune 2871 ˛2021
+: .o .     N     _NORDEN Sylwen               Les Sorciäres de l'aube ˛2021
+: .o .     N     _PAMART Nolwenn              La Complainte des terrassiäres ˛2021
 
 
 !-----------------------------------------------------------------------------
-_ CLEF_FT Ed. La Clef d'Argent, Coll. FiKhThOn
+_ CLEF_FT La Clef d'Argent - FiKhThOn
 !-----------------------------------------------------------------------------
 o CLEF_FT     1  2009.04 ..... ISBN 978-2-908254-72-3
 } fikhthon01     _?                           ?
@@ -202,8 +226,8 @@ o CLEF_FT     5  2017.xx ..... ISBN 978-10-90662-47-6
 
 
 !-----------------------------------------------------------------------------
-_ LICORNE Ed. Ateliers de la Licorne, Coll. Infini
-_ LICORNX Ed. Ateliers de la Licorne, Coll. XVIIIe - XIXe siäcle
+_ LICORNE Ateliers de la Licorne - Infini
+_ LICORNX Ateliers de la Licorne - XVIIIe XIXe siäcle
 !-----------------------------------------------------------------------------
 o LICORNX     ?  2002.xx ..... ISBN 2-912670-16-0
 } noimg          _?                           N
@@ -219,7 +243,7 @@ o LICORNE     ?  2007.xx ..... ISBN 2-912670-11-X
 - .o .     N     _JOUGLA Christian            Chants d'automne - Le Manuscrit ˛2004
 
 !-----------------------------------------------------------------------------
-_ CLEF_KT Ed. La Clef d'Argent, Coll. KharThak
+_ CLEF_KT La Clef d'Argent - KharThak
 !-----------------------------------------------------------------------------
 o CLEF_KT     1  2007.xx ..... ISBN 978-2-908254-51-8
 } noimg          _?                           ?
@@ -231,7 +255,7 @@ o CLEF_KT     2  2007.xx ..... ISBN 978-2-908254-52-5
 - .oF.     N     _PRICE E. Hoffman            Le Seigneur de l'illusion ˛[1932],1982 The Lord of Illusion ˛Trad. GINDRE Philippe
 
 !-----------------------------------------------------------------------------
-_ CLEF_KH Ed. La Clef d'Argent, Coll. KhThOn
+_ CLEF_KH La Clef d'Argent - KhThOn
 !-----------------------------------------------------------------------------
 o CLEF_KH     1  2007.xx ..... ISBN 978-2-908254-50-1
 } noimg          _DOUGNIER Philippe           ?
@@ -246,10 +270,14 @@ o CLEF_KH     3  2013.02 ..... ISBN 978-10-90662-11-7
 o CLEF_KH     4  2017.02 ..... ISBN 979-10-90662-37-7
 } noimg          _Photo F.B. Long             ?
 - .oF.     E     _MAYNADIER Boris             Lovecraft - Sous le signe du chat ˛2017
+o CLEF_KH     5  2021.04 ..... ISBN 979-10-90662-61-2
+} noimg          _Saidi Saeed Abdoul Naim, Ilm al-Raal   ?
+!--- 130 x 120 mm - 90 pages - 9 euros
+- .o .     E     _MONGET CÇdric               Lovecraft, l'Arabe, l'horreur - Orient et Islam chez le gentleman de Providence ˛2021
 
 
 !-----------------------------------------------------------------------------
-_ CLEF_KR Ed. La Clef d'Argent, Coll. KhRhOn
+_ CLEF_KR La Clef d'Argent - KhRhOn
 !-----------------------------------------------------------------------------
 o CLEF_KR     1  2008.xx ..... ISBN 978-2-908254-56-3
 } noimg          _MALLET Patrick              ?
@@ -265,7 +293,7 @@ o CLEF_KR     4  2008.10 ..... ISBN 978-2-908254-69-3
 - .o .     E     _GINDRE Philippe             Les Jardins de Klarash-Ton - L'horreur vÇgÇtale selon Clark Ashton Smith ˛2008
 
 !-----------------------------------------------------------------------------
-_ CLEF_KY Ed. La Clef d'Argent, Coll. KhRhOnyk
+_ CLEF_KY La Clef d'Argent - KhRhOnyk
 !-----------------------------------------------------------------------------
 !-- Chroniques merveilleuses & terrifiantes des royaumes de l'imaginaire
 !-- ISSN 2108-9337
@@ -286,10 +314,13 @@ o CLEF_KY     5  2020.02 ..... ISBN 978-10-90662-57-7
 } khrhonyk05     _Fernando Goncalves-Felix    N
 !--- Poche
 - .oY.     R     _MALTERE CÇline              La Science des Folles - Histoire de Katia TrismÇgiste [Le Cycle de Goth - 3] ˛2020
-
+o CLEF_KY     6  2021.01 ..... ISBN 979-10-90662-62-9
+} khrhonyk06     _Fernando Goncalves-Felix    N
+!--- Poche - 110 x 175 mm - 196 pages - 12 euros
+- .oF.     R     _NEGEL Lucile                Ilve la blonde ˛1990
 
 !-----------------------------------------------------------------------------
-_ CLEF_LO Ed. La Clef d'Argent, Coll. LoKhale
+_ CLEF_LO La Clef d'Argent - LoKhale
 !-----------------------------------------------------------------------------
 o CLEF_LO     1  2015.04 ..... ISBN 978-10-90662-24-7
 } noimg          _Philippe & LÇo Gontier      ?
@@ -330,9 +361,13 @@ o CLEF_LO     8  2019.06 ..... ISBN 979-10-90662-55-1
 o CLEF_LO     9  2019.09 ..... ISBN 979-10-90662-56-8
 } noimg          _LÇo Gontier                 ?
 - .oF.     R     _LENN Jonas                  Notre-Dame de Minuit ˛2019
+o CLEF_LO    10  2021.09 ..... ISBN 979-10-90662-63-6
+} noimg          _LÇo Gontier                 ?
+!--- 110 x 175 mm - 150 pages - 9 euros
+- .o .     R     _MALTERE CÇline              Liviyatan ˛2021
 
 !-----------------------------------------------------------------------------
-_ CLEF_KL Ed. La Clef d'Argent, Coll. KholekTh
+_ CLEF_KL La Clef d'Argent - KholekTh
 !-----------------------------------------------------------------------------
 !--- ISSN 1962-6142
 !--- Contes et nouvelles Çtranges et fantastiques : un livre, un auteur
@@ -355,9 +390,9 @@ o CLEF_KL     2  2008.11 ..... ISBN 978-2-908254-70-9
 } kholekth02     _HAYEZ SÇbastien             N
 - .oFK    _N7    _REY TimothÇe                Caviardages et autres nouvelles ˛2008
 : .o .     N     _REY TimothÇe                Caviardages ˛2008
-: .o .     N     _REY TimothÇe                Dans la galette ˛2008
+: .o .     N     _REY TimothÇe                Dans la galette ˛2007
 : .o .     N     _REY TimothÇe                Reperdre Giuletta ˛2008
-: .o .     N     _REY TimothÇe                On n'est jamais trop prudent ˛2008
+: .o .     N     _REY TimothÇe                On n'est jamais trop prudent ˛2005
 : .o .     N     _REY TimothÇe                L'êtude du soir ˛2008
 : .o .     N     _REY TimothÇe                Quand áa part en brioche ˛2008
 : .o .     N     _REY TimothÇe                Chambre d'Çcho ˛2008
@@ -392,16 +427,16 @@ o CLEF_KL     4  2009.10 ..... ISBN 978-2-908254-74-7
 : .o .     N     _ANDREVON Jean-Pierre        MaternitÇ ˛?
 : .o .     N     _ANDREVON Jean-Pierre        La Bàte ˛1982
 : .o .     N     _ANDREVON Jean-Pierre        La TÇlÇvision ˛1978
-: .o .     N     _ANDREVON Jean-Pierre        ProcrÇation ˛1978
+: .o .     N     _ANDREVON Jean-Pierre        ProcrÇation ˛1977
 : .o .     N     _ANDREVON Jean-Pierre        L'Espionne au coeur tendre ˛1974
 : .o .     N     _ANDREVON Jean-Pierre        La Nuit de la tendresse ˛?
 : .o .     N     _ANDREVON Jean-Pierre        L'Infidäle ˛?
 : .o .     N     _ANDREVON Jean-Pierre        Derniäres classes ˛1978
 : .o .     N     _ANDREVON Jean-Pierre        Le Combattant ˛1978
 : .o .     N     _ANDREVON Jean-Pierre        Le Pillage du musÇe d'Alger ˛1982
-: .o .     N     _ANDREVON Jean-Pierre        Venus de la montagne ˛1978
+: .o .     N     _ANDREVON Jean-Pierre        Venus de la montagne ˛1977
 : .o .     N     _ANDREVON Jean-Pierre        Le ChÉteau ˛?
-: .o .     N     _ANDREVON Jean-Pierre        Un jardin en hiver ˛1978
+: .o .     N     _ANDREVON Jean-Pierre        Un jardin en hiver ˛1977
 : .o .     N     _ANDREVON Jean-Pierre        Ràver ˛1982
 : .o .     N     _ANDREVON Jean-Pierre        Pluies ˛1982
 : .o .     N     _ANDREVON Jean-Pierre        AntiquitÇs ˛?
@@ -421,7 +456,7 @@ o CLEF_KL     4  2009.10 ..... ISBN 978-2-908254-74-7
 : .o .     N     _ANDREVON Jean-Pierre        Dragons ˛?
 : .oF.     N     _ANDREVON Jean-Pierre        Goñter, savourer, en reprendre ˛2001
 : .oS.     N     _ANDREVON Jean-Pierre        L'Enfer ˛1998
-: .o .     N     _ANDREVON Jean-Pierre        Le Facteur ˛1978
+: .o .     N     _ANDREVON Jean-Pierre        Le Facteur ˛1977
 : .o .     N     _ANDREVON Jean-Pierre        Histoire de Kropp ˛?
 : .o .     N     _ANDREVON Jean-Pierre        Le DÇpart de Petits-Petons ˛1978
 : .o .     N     _ANDREVON Jean-Pierre        Des vacances aux åles ˛?
@@ -472,7 +507,7 @@ o CLEF_KL     7  2010.11 ..... ISBN 978-2-908254-86-0
 : .oFK     N     _RUAUD AndrÇ-Franáois        Les Fantìmes du canal ˛2003
 o CLEF_KL     8  2011.06 ..... ISBN 978-2-908254-88-4
 } kholekth08     _Thomas Balard               ?
-- .oF.    iN365  _FUENTEALBA Jacques          Scribuscules - 365 micronouvelles ˛2011
+- .oF.    iNx    _FUENTEALBA Jacques          Scribuscules - 365 micronouvelles ˛2011
 o CLEF_KL     9  2011.xx ..... ISBN 978-2-908254-88-4
 } kholekth09     _BALARD Thomas               ?
 - .oF.    kN17   _VIDAL Philippe              La Soixante-Cinquiäme Case ˛2011
@@ -517,11 +552,11 @@ o CLEF_KL    10  2011.09 ..... ISBN 978-2-908254-91-4
 o CLEF_KL    11  2011.10 ..... ISBN 978-2-908254-93-8
 } kholekth11     _Maãeutique                  N
 - .oF.    kN3    _DUPUIS Patrice              Dans le dÇsert et sous la Lune ˛2011
-: .oF.     p     _DUPUIS Patrice              Mundus est fabula - Prologue ˛2011
+: .oF.     N     _DUPUIS Patrice              Mundus est fabula - Prologue ˛2011
 : .oF.     N     _DUPUIS Patrice              Quand le train s'arràte ˛2011
 : .oF.     N     _DUPUIS Patrice              (Le soleil ne s'est pas levÇ ce matin) ˛2011
 : .oF.     N     _DUPUIS Patrice              Le Sursis ˛2011
-: .oF.     o     _DUPUIS Patrice              Lettre Ö Marina - Epilogue ˛2011
+: .oF.     N     _DUPUIS Patrice              Lettre Ö Marina - Epilogue ˛2011
 o CLEF_KL    12  2012.01 ..... ISBN 978-2-908254-97-6
 } kholekth12     _SÇbastien Hayez             ?
 - .oF.    kN9    _FIEROBE Franáois            La MÇmoire de l'orchidÇe ˛2012
@@ -546,7 +581,7 @@ o CLEF_KL    13  2012.xx ..... ISBN 978-10-90662-00-1
 : .o .     N     _GANCHE Edouard              Litanies de la Mort ˛1909
 : .o .     N     _GANCHE Edouard              Une autopsie Ö la Morgue ˛1909
 : .o .     N     _GANCHE Edouard              Le Squelette ˛1909
-: .o .     N     _GANCHE Edouard              L'OpÇrÇe ˛1909-1938
+: .x .     N     _GANCHE Edouard              L'OpÇrÇe ˛1909-1938
 : .o .     N     _GANCHE Edouard              La Tàte de mort ˛1909
 : .o .     N     _GANCHE Edouard              L'Agonie ˛1909
 : .o .     N     _GANCHE Edouard              La Cave aux cercueils ˛1909
@@ -593,15 +628,15 @@ o CLEF_KL    16  2012.05 ..... ISBN 979-10-90662-03-2
 : .o .     N     _FAVARD Jean-Pierre          Le Fils de la femme Ö barbe ˛2012
 o CLEF_KL    17  2012.xx ..... ISBN 979-10-90662-04-9
 } kholekth17     _SCARABINO Luigi             ?
-- .oF.    iN9    _BAILLY Gilles               Aucun fondement logique ˛2012
+- .oF.    iNx    _BAILLY Gilles               Aucun fondement logique ˛2012
 o CLEF_KL    18  2012.07 ..... ISBN 979-10-90662-05-6
 } kholekth18     _?                           ?
-- .oF.    kNx    _DUPUIS Patrice              Le Guetteur de sÇmaphore ˛2012
-: .oF.     p     _DUPUIS Patrice              Prologue ˛2012
-: .o .     N     _DUPUIS Patrice              Le Palimpseste (In libro veritas) ˛2012
-: .o .     N     _DUPUIS Patrice              Le Veilleur somnambule ˛2012
-: .o .     N     _DUPUIS Patrice              Terre de feu ou la faiseuse d'ange ˛2012
-?: .oF.     ?     _DUPUIS Patrice              Remerciements ˛2012
+- .oF.    kNx    _DUPUIS Patrice              Le Guetteur de sÇmaphore - Nouvelles Ö quatre mains ˛2012
+: .oF.   9 N     _DUPUIS Patrice              Prologue (Le Guetteur de sÇmaphore) ˛2012
+: .o .  15 N     _DUPUIS Patrice              Le Palimpseste (In libro veritas) ˛2012
+: .o .  57 N     _DUPUIS Patrice              Le Veilleur somnambule ˛2012
+: .o .  83 N     _DUPUIS Patrice              Terre de feu ou la faiseuse d'ange ˛2012
+: .oF. 105 a     _DUPUIS Patrice              Remerciements ˛2012
 o CLEF_KL    19  2012.10 ..... ISBN 978-10-90662-09-4
 } kholekth19     _?                           N
 - .oF.    kN5    _JOUGLA Christian            Chants d'automne ˛2012
@@ -629,7 +664,7 @@ o CLEF_KL    20  2012.11 ..... ISBN 978-10-90662-10-0
 : .o .     N     _MORIN Anne                  La Bibliothäque ˛2009
 o CLEF_KL    21  2013.xx ..... ISBN 979-10-90662-13-1
 } kholekth21     _ANDREVON Jean-Pierre        ?
-- .oF.    iN66   _ANDREVON Jean-Pierre        Soixante-six synopsis ...et autant d'histoires Ö Çcrire ˛2013
+- .oF.    iNx    _ANDREVON Jean-Pierre        Soixante-six synopsis ...et autant d'histoires Ö Çcrire ˛2013
 o CLEF_KL    22  2013.05 ..... ISBN 979-10-90662-14-8
 } kholekth22     _Victor Habbick              ?
 - .oF.    kN6    _LENN Jonas                  Crop Circles ˛2013
@@ -655,11 +690,11 @@ o CLEF_KL    23  2013.08 ..... ISBN 979-10-90662-15-5
 o CLEF_KL    24  2013.09 ..... ISBN 979-10-90662-16-1
 } kholekth24     _DUPUIS Patrice              ?
 - .oF.    kNx    _DUPUIS Patrice              Murmure de soupirail ˛2013
-: .o .     N     _DUPUIS Patrice              Le Papillon de papier (Prologue) ˛2013
-: .o .     N     _DUPUIS Patrice              Bleu falaise ˛2013
-: .o .     N     _DUPUIS Patrice              La Montre d'HÇloãse ˛2013
-: .o .     N     _DUPUIS Patrice              MÇmoire d'une page blanche ˛2013
-: .o .     N     _DUPUIS Patrice              Le Sarcophage (Epilogue) ˛2013
+: .o .   9 N     _DUPUIS Patrice              Le Papillon de papier (Prologue) ˛2013
+: .o .  13 N     _DUPUIS Patrice              Bleu falaise ˛2013
+: .o .  65 N     _DUPUIS Patrice              La Montre d'HÇloãse ˛2013
+: .o .  75 N     _DUPUIS Patrice              MÇmoire d'une page blanche ˛2013
+: .o . 113 N     _DUPUIS Patrice              Le Sarcophage (Epilogue) ˛2013
 o CLEF_KL    25  2013.xx ..... ISBN 979-10-90662-17-9
 } kholekth25     _HUE Emmanuelle              ?
 - .oF.    kN7    _HUGUET Sylvie               Rouge Alice ˛2013
@@ -717,12 +752,11 @@ o CLEF_KL    28  2014.12 ..... ISBN 979-10-90662-22-3
 o CLEF_KL    29  2016.03 ..... ISBN 979-10-90662-29-2
 } kholekth29     _Pascal MoguÇrou             ?
 - .oKF    kN5    _DUPUIS Patrice              Le Voyage des enfants perdus, ou Le Joueur de flñte avant l'orage ˛2016
-: .o .     N     _DUPUIS Patrice              Le Voyage des enfants perdus (Prologue - Epilogue) ˛2016
-?: .o . 11  N     _DUPUIS Patrice              Prologue ˛2016
+: .o . 11  N     _DUPUIS Patrice              Prologue (le voyage des enfants perdus) ˛2016
 : .o . 19  N     _DUPUIS Patrice              Le Jugement de dieu - Conte de Noâl ˛2016
 : .o . 35  N     _DUPUIS Patrice              La Vie träs exacte et trÇs Çdifiante d'Alibert de Thuringe ou Victor e Bienheureux ˛2016
 : .o . 51  N     _DUPUIS Patrice              La FÇe ÇlectricitÇ ˛2016
-?: .o . 65  N     _DUPUIS Patrice              Epilogue ˛2016
+: .o . 65  N     _DUPUIS Patrice              Epilogue (le voyage des enfants perdus) ˛2016
 o CLEF_KL    30  2016.03 ..... ISBN 979-10-90662-30-8
 } kholekth30     _Pascal MoguÇrou             ?
 - .oF.    kN19   _BILLOT Romain               Les PrÇdateurs de l'ombre ˛2016
@@ -805,28 +839,28 @@ o CLEF_KL    33  2017.04 ..... ISBN 979-10-90662-39-1
 : .o .     N     _HUGUET Sylvie               Point final ˛2017
 o CLEF_KL    34  2017.05 ..... ISBN 979-10-90662-40-7
 } kholekth34     _Patrice Dupuis              ?
-- .oF.    kNx    _DUPUIS Patrice              Le Sang des femmes ˛2017
-: .o .     N     _DUPUIS Patrice              Prologue ˛2017
-: .o .     N     _DUPUIS Patrice              La Serrure Ö secret ˛2016-2017
-: .o .     N     _DUPUIS Patrice              La Lazaret ˛2017
-: .o .     N     _DUPUIS Patrice              Une pause dans l'ÇternitÇ ˛2017
-: .o .     N     _DUPUIS Patrice              Epilogue ˛2017
+- .oF.    kN5    _DUPUIS Patrice              Le Sang des femmes ˛2017
+: .o .  11 N     _DUPUIS Patrice              Prologue (Le Sang des femmes) ˛2017
+: .o .  15 N     _DUPUIS Patrice              La Serrure Ö secret ˛2016-2017
+: .o .  41 N     _DUPUIS Patrice              La Lazaret ˛2017
+: .o .  87 N     _DUPUIS Patrice              Une pause dans l'ÇternitÇ ˛2017
+: .o .  99 N     _DUPUIS Patrice              Epilogue (Le Sang des femmes) ˛2017
 o CLEF_KL    35  2017.05 ..... ISBN 979-10-90662-41-4
 } kholekth35     _Pierre-Eugäne-êmile HÇbert  ?
 - .pF.    kNx    _GANCHE Edouard              L'Ordre de la Mort et autres nouvelles ˛2017
-: .! .     N     _GANCHE Edouard              Grand Ami ˛1903
-: .! .     N     _GANCHE Edouard              Emma ˛1903
-: .! .     N     _GANCHE Edouard              Olga Dimitroff ˛1903
-: .! .     N     _GANCHE Edouard              Dans la vie ˛1903
-: .! .     N     _GANCHE Edouard              M. Mars ˛1903
-: .! .     N     _GANCHE Edouard              Un type ˛1903
-: .! .     N     _GANCHE Edouard              Le GÇnie du mal ˛1904
-: .! .     N     _GANCHE Edouard              La Mort du mÇdecin ˛1907
+: .x .     N     _GANCHE Edouard              Grand Ami ˛1903
+: .x .     N     _GANCHE Edouard              Emma ˛1903
+: .x .     N     _GANCHE Edouard              Olga Dimitroff ˛1903
+: .x .     N     _GANCHE Edouard              Dans la vie ˛1903
+: .x .     N     _GANCHE Edouard              M. Mars ˛1903
+: .x .     N     _GANCHE Edouard              Un type ˛1903
+: .x .     N     _GANCHE Edouard              Le GÇnie du mal ˛1904
+: .x .     N     _GANCHE Edouard              La Mort du mÇdecin ˛1913
 : .o .     N     _GANCHE Edouard              L'Ordre de la mort ˛1909
 : .o .     N     _GANCHE Edouard              Chiens ! ... A la curÇe ! ... ˛1909
-: .! .     N     _GANCHE Edouard              L'OpÇrÇe ˛1909
+: .x .     N     _GANCHE Edouard              L'OpÇrÇe ˛1909
 : .o .     N     _GANCHE Edouard              Le Sorcier du Bosphore ˛1909
-: .! .     N     _GANCHE Edouard              Les MisÇrables ˛1913
+: .x .     N     _GANCHE Edouard              Les MisÇrables ˛1913
 : .o .     o     _GINDRE Philippe             MiscellanÇes ganchÇennes ˛2017
 o CLEF_KL    37  2018.11 ..... ISBN 979-10-90662-51-3
 } kholekth37     _Jean-Pierre Andrevon        ?
@@ -911,7 +945,7 @@ o CLEF_KL    38  2018.05 ..... ISBN 979-10-90662-52-0
 
 
 !-----------------------------------------------------------------------------
-_ CLEF_FH Ed. La Clef d'Argent, Coll. Fhtagn
+_ CLEF_FH La Clef d'Argent - Fhtagn
 !-----------------------------------------------------------------------------
 !--- Pastiches et hommages loveraftiens
 !-----------------------------------------------------------------------------
@@ -924,7 +958,7 @@ o CLEF_FH     2  2012.09 ..... ISBN 979-10-90662-06-3
 
 
 !-----------------------------------------------------------------------------
-_ CLEF_NK Ed. La Clef d'Argent, Coll. NoKhThys
+_ CLEF_NK La Clef d'Argent - NoKhThys
 !-----------------------------------------------------------------------------
 ?o CLEF_NK     1  2008.xx ..... ISBN 978-2-908254-55-6
 ?} nokhthys01     _GONCALVES-FELIX Fernando    N
@@ -977,16 +1011,16 @@ o CLEF_NK     8  2012.09 ..... ISBN 979-10-90662-08-7
 
 
 !-----------------------------------------------------------------------------
-_ CLEF_TA Ed. Les Aventuriers de l'Art Perdu et La Clef d'Argent, Coll. Terreurs Anciennes
+_ CLEF_TA Les Aventuriers de l'Art Perdu et La Clef d'Argent - Terreurs Anciennes
 !-----------------------------------------------------------------------------
 o CLEF_TA     1  2012.01 ..... ISBN 978-2-908254-98-3
 } clef_terranc01 _GONTIER Philippe            N
-- .oFK    kA26   *GONTIER Philippe            Trains de cauchemar ˛2012
+- .pFK    kA26   *GONTIER Philippe            Trains de cauchemar ˛2012
 !--- Anthologie d'Çpouvante et d'insolite ferriaires
 !--- Trains de terreur et de mort
 : .o .     X     _CLARETIE LÇo                Le Train 17 ˛?
 : .o .     N     _ROLLINAT Maurice            Le Tunnel ˛?
-: .oF.     N     _LORRAIN Jean                La Main gantÇe ˛1895
+: .oF.     N     _LORRAIN Jean                La Main gantÇe ˛1893
 !--- Trains de l'au-delÖ
 : .o .     N     _SAUVENIERE Alfred de        L'InexpliquÇ ˛1887
 : .oF.     N     _SCHWOB Marcel               Le Train 081 ˛1891
@@ -1003,20 +1037,22 @@ o CLEF_TA     2  2017.06 ..... ISBN 978-10-90662-43-8
 : .o .     N     _LEVEL Maurice               Le Fou ˛?
 : .oF.     N     _LEVEL Maurice               La Photographie ˛1906
 : .o .     N     _LEVEL Maurice               On ? ˛1908
-: .o .     N     _LEVEL Maurice               A neuf mille sept cent mätres ˛?
-: .o .     N     _LEVEL Maurice               Babel ˛?
+: .o .     N     _LEVEL Maurice               A neuf mille sept cents mätres ˛1923
+: .o .     N     _LEVEL Maurice               Babel ˛1910
 : .o .     N     _LEVEL Maurice               L'AllÇe ˛?
 : .o .     N     _LEVEL Maurice               La Bonne Märe ˛?
 : .o .     N     _LEVEL Maurice               Le Tigre du major Atkinson ˛?
 : .o .     a     _BUARD Jean-Luc              Bibliographie des nouvelles ˛2017
 o CLEF_TA     3  2017.12 ..... ISBN 978-2-90662-48-3
 } clef_terranc03 _Adolphe Louis Charles Crespin
-- .oFK    kA23   *GONTIER Philippe            Trains de cauchemar ˛2017
+- .pFK    kA23   *GONTIER Philippe            Trains de terreur ˛2017
 !--- Anthologie d'Çpouvante et d'insolite ferriaires
 : .o .     p     _GONTIER Philippe            Introduction ˛2017
+: .o .     N     _RODENBACH Georges           Suggestion ˛1899
+: .o .     N     _PRICE Georges               Une heure d'express ˛1910
 
 !-----------------------------------------------------------------------------
-_ CLEF_CD Ed. La Clef d'Argent, Coll. Le Club Diogäne
+_ CLEF_CD La Clef d'Argent - Le Club Diogäne
 !-----------------------------------------------------------------------------
 !--- ISSN en cours
 o CLEF_CD     ?  2002.03 ..... ISBN 2-908254-34-4
@@ -1034,20 +1070,21 @@ o CLEF_CD     ?  2006.03 ..... ISBN 2-908254-47-6
 &                _MOURET StÇphane             
 
 !-----------------------------------------------------------------------------
-_ CLEFET1 <b>in</b> Ed. La Clef d'Argent, L'Echo du Tonneau n¯ 1 Ö 3
-_ CLEFET2 <b>in</b> Ed. La Clef d'Argent, L'Echo du Tonneau n¯ 3 Ö 6
+_ CLEFET  La Clef d'Argent - L'Echo du Tonneau
 !-----------------------------------------------------------------------------
-o CLEFET1     ?  2008.xx ..... ISBN -
+o CLEFET      ?  2008.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : L'Echo du Tonneau n¯ 1 Ö 3
 - .oF.     N     _SORRE JÇrìme               &Une amie commune [Le Club Diogäne] ˛2007
 &                _MOURET StÇphane             
-o CLEFET1     ?  2008.xx ..... ISBN -
+o CLEFET      ?  2008.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : L'Echo du Tonneau n¯ 3 Ö 6
 - .oF.     N     _SORRE JÇrìme               &Le Sorcier de Toläde [Le Club Diogäne] ˛2008
 &                _MOURET StÇphane             
 
 !-----------------------------------------------------------------------------
-_ CLEF_CM Ed. La Clef d'Argent, Le Cri MÇcanique
+_ CLEF_CM La Clef d'Argent - Le Cri MÇcanique
 !-----------------------------------------------------------------------------
 !--- Le Cri MÇcanique.  Editions de la Clef d'argent, Dole
 !--- format 10x15 cm
@@ -1119,7 +1156,7 @@ o CLEF_CM     5  1989.05 ..... ISBN .-.....-...-.
 ?: .o .     p     _GINDRE Philippe             La Perversion des valeurs ˛1989
 : .oF.     P     _LOVECRAFT Howard P.         De la vanitÇ de l'ambition humaine ˛1902 On the Vanity of Human Ambition ˛Trad. GINDRE Philippe
 !--- (court poäme de jeunesse) extrait du volume II de ses "Poemata minora"
-: .oF.     N     _DUNSANY Lord                Le PrÇ oó dansaient les satyres ˛1928 The Field Where The Satyr Danced ˛Trad. GAULARD Norbert
+: .oF.     N     _DUNSANY Lord                Le PrÇ oó dansaient les satyres ˛1928 The Field Where the Satyr Danced ˛Trad. GAULARD Norbert
 : .oF.     N     _LABORDE-CASTEX Philippe     La Batisse noire ˛1989
 : .oF.     N     _GINDRE Philippe             La CrÇmation de Lin-Yo ˛1989
 : .oF.     N     _YEATS William Butler        Regina, Regina Pigmeorum Veni ˛? ? ˛Trad. DRAVAINE Claude
@@ -1134,7 +1171,7 @@ o CLEF_CM  5bis  1989.09 ..... ISBN .-.....-...-.
 !--- (une Nouvelle inÇdite de Howard)
 
 !-----------------------------------------------------------------------------
-_ CLEF_CA Ed. La Clef d'Argent, Codex Atlanticus
+_ CLEF_CA La Clef d'Argent - Codex Atlanticus
 !-----------------------------------------------------------------------------
 !--- Codex Atlanticus.  Editions de la Clef d'argent
 !--- format 14x20.5
@@ -1233,8 +1270,8 @@ o CLEF_CA     8  1999.12 ..... ISBN 2-908254-18-2
 : .oF.     N     _FRONDAIE Pierre             Le Voyageur fantastique ˛1911
 : .oF.     N     _HIBON Christian             L'HÇritier ˛1999
 : .oF.     N     _SILHOL LÇa                  Le Lys noir ˛1999
-: .oF.     N     _ZEUGMA Martin               Koimàtàrion ˛?
-: .oF.     N     _FUENTES Roland              Histoire dont vous n'àtes pas le lecteur ˛?
+: .oF.     N     _ZEUGMA Martin               Koimàtàrion ˛1999
+: .oF.     N     _FUENTES Roland              Histoire dont vous n'àtes pas le lecteur ˛1999
 : .oF.     N     _ROUSSEL Alain               Une ombre encombrante ˛1999
 : .oF.     N     _EHRET Bruno                 Un grognement incongru ˛?
 o CLEF_CA     9  2000.06 ..... ISBN 2-908254-23-9
@@ -1293,13 +1330,13 @@ o CLEF_CA    14  2003.06 ..... ISBN 2-908254-41-7
 : .oF.     N     _LEGRAND Alain               L'Avion des dimanches ˛2003
 : .oF.     N     _BOURS Jean-Pierre           Le ChÉteau des rÇminiscences ˛1977
 : .oF.     N     _SORRE JÇrìme                Reflets de soie ˛2003
-: .oF.     N     _PARRAL Victor               Epistola Temporis ˛2003
+: .oF.     N     _PARRAL Victor               Epistola temporis ˛2001
 : .oF.     N     _DELANNE Robert              Les Grandes DÇcouvertes ˛2003
 : .oF.     N     _GONTIER Philippe            A Charenton-le-Pont ˛2003
 : .oF.     N     _LIAUTOT J.                 &De la sylvocombustion spontanÇe ˛2003
 &                _D'AUBY Y.                   
 : .oF.     N     _RUAUD AndrÇ-Franáois        Les Fantìmes du canal ˛2003
-: .oF.     N     _ZEUGMA Martin               Deus ex machina ˛2003
+: .oF.     N     _ZEUGMA Martin               Deus Ex Machina ˛2003
 o CLEF_CA    15  2004.06 ..... ISBN 2-908254-43-3
 } noimg          _?                           ?
 - .oF.     M11   ****                         La Clef d'Argent n¯ 15 (juin 2004) ˛2004

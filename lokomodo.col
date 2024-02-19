@@ -7,12 +7,12 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ LOKOMOD Ed. Lokomodo
-_ LOKO_PO Ed. Lokomodo Poche
-_ LOKO_SF Ed. Lokomodo, SF
-_ LOKO_FY Ed. Lokomodo, Fantasy
-_ LOKO_FA Ed. Lokomodo, Fantastique
-_ LOKO_ZO Ed. Lokomodo, Zone d'Ombres
+_ LOKOMOD Lokomodo
+_ LOKO_PO Lokomodo - Lokomodo poche [poche]
+_ LOKO_SF Lokomodo - SF [sf]
+_ LOKO_FY Lokomodo - Fantasy [fantasy]
+_ LOKO_FA Lokomodo - Fantastique [fantastique]
+_ LOKO_ZO Lokomodo - Zone d'Ombres
 !-----------------------------------------------------------------------------
 !---
 !-----------------------------------------------------------------------------
@@ -219,7 +219,6 @@ o LOKO_PO    11  2011.10 ..... ISBN 978-2-35900-035-1
 } lokomodop11    _COUDRAU Mathieu             ?
 - .oF.     RN12  _GUILLAUME C‚line            La Perle d'‚ternit‚ et autres r‚cits fantastiques þ2011
 : .oF.     R     _GUILLAUME C‚line            La Perle d'‚ternit‚ þ2004-2011
-!--- .     Nx    _GUILLAUME C‚line            Nouvelles þ2011
 :  o .     N     _GUILLAUME C‚line            Au bout du chemin oubli‚ þ2008
 :  o .     N     _GUILLAUME C‚line            Le Coma des amazones þ2008
 :  o .     N     _GUILLAUME C‚line            Les Flammes de l'au-del… þ2006
@@ -410,7 +409,7 @@ o LOKOMOD     ?  2013.04 ..... ISBN 978-2-35900-166-2
 - .oY.     R     _WOLFS Sylvie                Traque sauvage [La L‚gende de la Femme-Louve - 2] þ2013
 o LOKOMOD     ?  2013.05 ..... ISBN 978-2-35900-172-3
 } lokomodo45     _Alexandra V. Bach           ?
-- .oF.    iN12   _GUIBE Mathieu               A un sanglot de moi, tu reposes þ2013
+- .oF.    iNx    _GUIBE Mathieu               A un sanglot de moi, tu reposes þ2013
 o LOKOMOD     ?  2013.05 ..... ISBN 978-2-35900-171-6
 } noimg          _Alexandre Bonvalot          ?
 - .oS.     R     _BOUCHARD Nicolas            Astronef aux enchŠres [Rachel Farhner - 1] þ1999
@@ -496,7 +495,7 @@ o LOKO_SF     ?  2014.02 ..... ISBN 978-2-35900-194-5
 
 
 !-----------------------------------------------------------------------------
-_ MIDGARD Ed. Midgard
+_ MIDGARD Midgard
 !-----------------------------------------------------------------------------
 o MIDGARD     ?  2012.03 ..... ISBN 978-2-36599-000-4
 } midgard01      _Jimmy Kerast                ?
@@ -527,13 +526,14 @@ o MIDGARD     ?  2012.04 ..... ISBN 978-2-365990-03-5
 - .oS.     R     _PERROT Christian            Naufrageurs galactiques [Agents photoniques - 1] þ2012
 o MIDGARD     ?  2012.06 ..... ISBN 978-2-365990-04-2
 } midgard05      _?                           ?
+!--- 466 pages - 21 cm
 - .oY.     R     _LABBE Denis                 Les Ombres de Nemain [La Geste de Wolveric - 1] þ2012
 o MIDGARD     ?  2012.05 ..... ISBN 978-2-365990-05-9
 } midgard06      _Lo‹c Brillant               ?
-- .oY.     R     _DURAND Thomas C.            Premier souffle [Les ‚nigmes de l'aube - 1] þ2012
+- .oY.     R     _DURAND Thomas C.            Premier souffle [Les ‚nigmes de l'aube - 1] þ2011
 o MIDGARD     ?  2012.06 ..... ISBN 978-2-36599-006-6
 } midgard07      _?                           ?
-- .oF.     R     _VAN LERBERGHE Luc           Chronique d'un esprit vagabond [Arthamios - 1] þ2012
+- .oF.     R     _VAN LERBERGHE Luc           Arthamios [Chroniques d'un esprit vagabond - 1] þ2012
 o MIDGARD     ?  2012.09 ..... ISBN 978-2-36599-007-3
 } midgard08      _?                           ?
 - .oY.     R     _GAY Olivier                 Le Boucher [Les ‚p‚es de glace - 1] þ2012
@@ -545,7 +545,7 @@ o MIDGARD     ?  2012.10 ..... ISBN 978-2-36599-022-6
 - .oY.     R     _DURAND Thomas C.            Les Quatre V‚rit‚s [Les ‚nigmes de l'aube - 2] þ2012
 o MIDGARD     ?  2013.01 ..... ISBN 978-2-36599-031-8
 } midgard11      _QUIDAULT Pascal             ?
-- .oY.     R     _CROS Ana‹s                  La Mer des songes þ2013
+- .oY.     R     _CROS Ana‹s                  La Mer des songes þ2008
 o MIDGARD     ?  2013.02 ..... ISBN 978-2-36599-030-1
 } midgard12      _QUIDAULT Pascal             ?
 - .oF.     R     _HAUCHECORNE Anthelme        Ames de verre þ2013
@@ -571,7 +571,7 @@ o MIDGARD     ?  2013.05 ..... ISBN 978-2-36599-036-3
 : .o .     N     _CLUZEAU Nicolas             Le Syndrome du dragon invers‚ þ2001
 o MIDGARD     ?  2013.06 ..... ISBN 978-2-36599-039-4
 } midgard16      _Michel Borderie             ?
-- .oF.     R     _VAN LERBERGHE Luc           Le Sage des courants [Arthamios - 2] þ2013
+- .oF.     R     _VAN LERBERGHE Luc           Le Sage des courants [Chroniques d'un esprit vagabond - 2] þ2013
 o MIDGARD     ?  2013.07 ..... ISBN 978-2-36599-040-0
 } midgard17      _?                           ?
 - .oF.     R     _LABBE Denis                 Les Larmes de Llyr [La Geste de Wolveric - 2] þ2013
@@ -583,7 +583,7 @@ o MIDGARD     ?  2013.10 ..... ISBN 978-2-36599-046-2
 - .oF.     N13   _HAUCHECORNE Anthelme        Punk's Not Dead þ2013
 : .o .     N     _HAUCHECORNE Anthelme        D‚cembre aux cendres þ2013
 : .o .     N     _HAUCHECORNE Anthelme        Sarabande m‚canique þ2012
-: .o .     N     _HAUCHECORNE Anthelme        No Future þ2013
+: .o .     N     _HAUCHECORNE Anthelme        No Future þ2012
 : .o .     N     _HAUCHECORNE Anthelme        C.F.D.T. þ2007
 : .o .     N     _HAUCHECORNE Anthelme        Sale petite peste þ2011
 : .o .     N     _HAUCHECORNE Anthelme        Les Gentlemen … manivelle þ2013
@@ -611,11 +611,11 @@ o MIDGARD     ?  2014.03 ..... ISBN 978-2-36599-051-6
 
 
 !-----------------------------------------------------------------------------
-_ ASGARD  Ed. Asgard
-_ ASGA_NA Ed. Asgard, Coll. Les Nuits d'Avril
-_ ASGA_RA Ed. Asgard, Coll. Reflets d'Ailleurs
-_ ASGA_ZO Ed. Asgard, Coll. Zones d'ombres
-_ ASGA_MI Ed. Asgard, Coll. Micronos
+_ ASGARD  Asgard
+_ ASGA_NA Asgard - Les nuits d'avril
+_ ASGA_RA Asgard - Reflets d'ailleurs
+_ ASGA_ZO Asgard - Zones d'ombres
+_ ASGA_MI Asgard - Micronos
 !-----------------------------------------------------------------------------
 
 !------------------------
@@ -645,8 +645,8 @@ o ASGA_ZO     ?  2011.02 ..... ISBN 978-2-919140-04-6
 - .oPF     R     _FETIS Laurent               Nocturne pour instruments divers þ2011
 o ASGA_RA     ?  2011.03 ..... ISBN 978-2-919140-01-5
 } asgardra02     _Al”dƒh                      ?
-- .oI.    kA11   *RIQUET Thomas               Eternelle jeunesse þ2011
 !--- Anthologie officielle du Festival Zone Franche 2011
+- .oI.    kA11   *RIQUET Thomas               Eternelle jeunesse þ2011
 : .oS.     p     _RIQUET Thomas               L… o— le temps s'arrˆte... þ2011
 : .oS.     N     _BLANC Julie                 L'Illusion noire þ2011
 : .oF.     N     _VAN PETEGHEM Peggy          Strip-poker þ2011
@@ -702,7 +702,7 @@ o ASGA_NA     ?  2011.11 ..... ISBN 978-2-919140-12-1
 &                _MUZART Isabelle             
 o ASGA_RA     7  2011.11 ..... ISBN 978-2-919140-11-4
 } noimg          _Lo‹c Billant                ?
-- .oY.     R     _DURAND Thomas C.            Premier souffle þ2011
+- .oY.     R     _DURAND Thomas C.            Premier souffle [Les ‚nigmes de l'aube - 1] þ2011
 o ASGA_MI     3  2011.11 ..... ISBN 978-2-919140-13-8
 } noimg          _Michel Borderie             ?
 - .oS.     R     _CALVEZ Jean-Michel          Ali‚nations þ2011
@@ -720,19 +720,19 @@ o ASGA_MI     ?  2012.04 ..... ISBN 978-2-919140-50-3
 - .oS.     R     _BROCARD Anthony             ErŠbe þ2012
 o ASGA_MI     ?  2012.04 ..... ISBN 978-2-919140-54-1
 } asgardmic03    _Michel Borderie             ?
-- .oS.     N12   _POSSAMAI Adam M.            Le XXIe siŠcle de Dickerson et Ferra þ2011
-: .oS.     N     _POSSAMAI Adam M.            Cyber Babe þ1998-2012
-: .oS.     N     _POSSAMAI Adam M.            David III Knox þ1992-2012
-: .oS.     N     _POSSAMAI Adam M.            Morituri te salutant þ1995-2012
-: .oS.     N     _POSSAMAI Adam M.            Aristote : pour ou contre ? þ1992-2012
-: .oS.     N     _POSSAMAI Adam M.            La Mouette þ1999-2012
-: .oS.     N     _POSSAMAI Adam M.            La Mort de Montagovitch þ2012
-: .oS.     N     _POSSAMAI Adam M.            L'on voit des hommes tomber þ1993-2012
-: .oS.     N     _POSSAMAI Adam M.            Ainsi parlait Zarathousa þ1995-2012
-: .oS.     N     _POSSAMAI Adam M.            Les G‚n‚rations "Bƒtisseurs" þ1995-2012
-: .oS.     N     _POSSAMAI Adam M.            Amarama þ2012
-: .oS.     N     _POSSAMAI Adam M.            Le Droit … l'euthanasie þ1992-2012
-: .oS.     N     _POSSAMAI Adam M.            Pour une poign‚e de spleen þ1992-2012
+- .oS.     C12   _POSSAMAI Adam M.            Le XXIe siŠcle de Dickerson et Ferra þ2012
+: .o .     N     _POSSAMAI Adam M.            Cyber Babe þ1998-2012
+: .o .     N     _POSSAMAI Adam M.            David III Knox þ1992-2012
+: .o .     N     _POSSAMAI Adam M.            Morituri te salutant þ1995-2012
+: .o .     N     _POSSAMAI Adam M.            Aristote : pour ou contre ? þ1992-2012
+: .o .     N     _POSSAMAI Adam M.            La Mouette þ1999-2012
+: .o .     N     _POSSAMAI Adam M.            La Mort de Montagovitch þ2012
+: .o .     N     _POSSAMAI Adam M.            L'on voit des hommes tomber þ1993-2012
+: .o .     N     _POSSAMAI Adam M.            Ainsi parlait Zarathousa þ1995-2012
+: .o .     N     _POSSAMAI Adam M.            Les G‚n‚rations "Bƒtisseurs" þ1995-2012
+: .o .     N     _POSSAMAI Adam M.            Amarama þ2012
+: .o .     N     _POSSAMAI Adam M.            Le Droit … l'euthanasie [Dr. John Dee] þ1996-2012
+: .o .     N     _POSSAMAI Adam M.            Pour une poign‚e de spleen þ1992-2012
 o ASGA_RA     ?  2012.04 ..... ISBN 978-2-919140-51-0
 } noimg          _Pascal Quidault             ?
 - .oY.     R     _HEM Julien d'               L'Oeil et le poing [Sohl - 1] þ2012
@@ -819,7 +819,7 @@ o ASGARD      ?  2013.09 ..... ISBN 978-2-36574-011-1
 - .oF.     R     _LENN Jonas                  Palace Ath‚na þ2013
 o ASGARD      ?  2013.11 ..... ISBN 978-2-36574-006-7
 } noimg          _Geoffrey Sondant            ?
-- .oF.     R     _GECHTER Olivier             Evariste þ2013
+- .oF.     R     _GECHTER Olivier             Evariste [Evariste Cosson] þ2013
 !------------------------
 !=== 2014
 !------------------------
@@ -844,7 +844,7 @@ o ASGARD      ?  2014.02 ..... ISBN 978-2-36574-007-4
 
 
 !-----------------------------------------------------------------------------
-_ LUCIOLE Ed. Les Lucioles
+_ LUCIOLE Les Lucioles - Les lucioles [jeunesse]
 !--- Sp‚cialis‚e jeunesse (‚ditions Lokomodo)
 !-----------------------------------------------------------------------------
 o LUCIOLE     ?  2010.10 ..... ISBN 978-2-919472-00-0

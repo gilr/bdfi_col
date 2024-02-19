@@ -5,7 +5,7 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ MAG_BIB Bibliothäque Magnard
+_ MAG_BIB Magnard - Bibliothäque Magnard
 !-----------------------------------------------------------------------------
 !--- Magnard, Bibliothäque Magnard
 !-----------------------------------------------------------------------------
@@ -36,9 +36,9 @@ o MAG_BIB    25  1991.xx ..... ISBN 2-210-98825-X
 
 
 !-----------------------------------------------------------------------------
-_ MAG_C&C Magnard, Classiques & Contemporains
-_ MAG_CCC Magnard, Classiques & Contemporains Colläge
-_ MAG_CCL Magnard, Classiques & Contemporains LycÇe
+_ MAG_C&C Magnard - Classiques & Contemporains
+_ MAG_CCC Magnard - Classiques & Contemporains Colläge
+_ MAG_CCL Magnard - Classiques & Contemporains LycÇe
 !-----------------------------------------------------------------------------
 o MAG_C&C     3  2000.06 ..... ISBN 2-210-75404-6
 } magnard_cc003  _?                           ?
@@ -61,7 +61,7 @@ o MAG_C&C     9  2001.06 ..... ISBN 2-210-75412-7
 } magnclascont009rr17 _?                           ?
 !--- CommentÇ par Sykvie Howlett
 - .oF.     A4    ****                         Nouvelles fantastiques ˛2001
-: .o .     N     _POE Edgar Allan             Le Coeur rÇvÇlateur ˛1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Coeur rÇvÇlateur ˛1843 The Tell-Tale Heart
 : .o .     N     _GAUTIER ThÇophile           Deux acteurs pour un rìle ˛1841
 : .o .     N     _MAUPASSANT Guy de           La Nuit - Cauchemar ˛1887
 : .o .     N     _GOGOL Nicolas               La Perspective Nevsky ˛1835 Nevski prospekt
@@ -122,7 +122,7 @@ o MAG_CCL    44  2002.08 ..... ISBN 2-210-75449-6
 - .o .     R     _WELLS Herbert George        L'Homme invisible ˛1897 The Invisible Man ˛Trad. LAURENT Achille
 o MAG_CCC    69  2005.06 ..... ISBN 2-210-75480-1
 }magnclascont069 _?                           ?
-- .oF.    iA16   ****                         Contes populaires de Palestine ˛2005 ˛Trad. Praline Gay-Para
+- .oF.    iAx    ****                         Contes populaires de Palestine ˛2005 ˛Trad. Praline Gay-Para
 o MAG_CCC    71  2005.06 ..... ISBN 2-210-75482-8
 }magnclascont071 _?                           ?
 + MAG_CCC    71  2017.xx ..... ISBN 978-2-210-75482-9
@@ -147,7 +147,7 @@ o MAG_CCC    77  2006.06 ..... ISBN 2-210-75488-7
 o MAG_CCC    89  2007.07 ..... ISBN 978-2-210-75517-8
 } magnard_cc089  _?                           ?
 !--- CommentÇ par Nathalie Lebailly, Matthieu Gamard
-- .pFM    iA7    ****                         Nouvelles animaliäres ˛2007
+- .pFM    iAx    ****                         Nouvelles animaliäres ˛2007
 : .oS.     N     _HIGHSMITH Patricia          L'Amateur d'escargots ˛1964 The Snail Watcher ˛Trad. ?
 : .oS.     N     _HIGHSMITH Patricia          A la recherche du Claveringi ˛1967 The Quest for Blank Claveringi ˛Trad. ?
 : .o .     N     _POE Edgar Allan             Le Chat noir ˛1843 The Black Cat ˛Trad. BAUDELAIRE Charles
@@ -158,7 +158,7 @@ o MAG_CCC    89  2007.07 ..... ISBN 978-2-210-75517-8
 ?o MAG_C&C    90  2008.04 ..... ISBN 978-2-210-75518-5
 ?} magnard_cc090  _?                           ?
 ?!--- CommentÇ par CÇcile Pellissier
-?- .o .    iN2    _GAUDE Laurent               Voyages en terres inconnues - Deux rÇcits sidÇrants ˛2008
+?- .o .    iNx    _GAUDE Laurent               Voyages en terres inconnues - Deux rÇcits sidÇrants ˛2008
 ?- .o .     N     _GAUDE Laurent               Sang nÇgier ˛?
 ?- .o .     N     _GAUDE Laurent               Dans la nuit Mozambique ˛?
 o MAG_CCC    91  2008.06 ..... ISBN 978-2-210-75519-2
@@ -199,7 +199,7 @@ o MAG_CCC   131  2012.06 ..... ISBN 978-2-210-75567-3
 - .o .     R     _BENOIT Pierre               L'Atlantide ˛1919
 o MAG_CCL   133  2012.06 ..... ISBN 978-2-210-75569-7
 } magnard_cc133  _?                           ?
-- .o .     N     _KAFKA Franz                 La MÇtamorphose ˛1915 Die verwandlung ˛Trad. BRIU Jean-Jacques
+- .o .     r     _KAFKA Franz                 La MÇtamorphose ˛1915 Die verwandlung ˛Trad. BRIU Jean-Jacques
 o MAG_CCC   134  2012.06 ..... ISBN 978-2-210-75570-3
 } magnard_cc134  _?                           ?
 - .oS.     N3    _DU MAURIER DaphnÇ           Les Oiseaux et deux autres nouvelles ˛2012
@@ -211,7 +211,7 @@ o MAG_CCC   136  2012.06 ..... ISBN 978-2-210-75572-7
 - .oF.     N     _POUCHKINE Alexandre         La Dame de pique ˛1834 Pikovaãa dama ˛Trad. MÇrimÇe Prosper
 o MAG_CCC   137  2012.06 ..... ISBN 978-2-210-75573-4
 } magnard_cc137  _?                           ?
-- .o .     N     _WILDE Oscar                 Le Crime de Lord Arthur Savile ˛1891 Lord Arthur Savile's Crime ˛Trad. CASTIER Jules
+- .o .     N     _WILDE Oscar                 Le Crime de Lord Arthur Savile ˛1887 Lord Arthur Savile's Crime ˛Trad. CASTIER Jules
 o MAG_CCC   145  2013.06 ..... ISBN 978-2-210-75581-9
 } magnclascont145 _?                           ?
 + MAG_CCC   145  2017.xx ..... ISBN 978-2-210-75581-9
@@ -222,7 +222,7 @@ o MAG_CCC   145  2013.06 ..... ISBN 978-2-210-75581-9
 : .o .     N     _KIPLING Rudyard             Le LÇopard et ses taches ˛1901 How the Leopard Got His Spots ˛Trad. HUMIERES Robert d' & FABULET Louis
 : .o .     N     _KIPLING Rudyard             L'Enfant ÇlÇphant ˛1900 The Elephant's Child ˛Trad. HUMIERES Robert d' & FABULET Louis
 : .o .     N     _KIPLING Rudyard             La Complainte du petit päre kangourou ˛1900 The Sing-Song of Old Man Kangaroo ˛Trad. HUMIERES Robert d' & FABULET Louis
-: .o .     N     _KIPLING Rudyard             Le Chat qui s'en va tout seul ˛1902 The Cat that Walked By Himself ˛Trad. HUMIERES Robert d' & FABULET Louis
+: .o .     N     _KIPLING Rudyard             Le Chat qui s'en va tout seul ˛1902 The Cat That Walked by Himself ˛Trad. HUMIERES Robert d' & FABULET Louis
 o MAG_CCC   165  2016.04 ..... ISBN 978-2-210-75047-0
 } noimg          _?                           ?
 + MAG_CCC   165  2017.xx ..... ISBN 978-2-210-75047-0
@@ -245,10 +245,10 @@ o MAG_CCC   165  2016.04 ..... ISBN 978-2-210-75047-0
 : .oK.     n     _STERNBERG Jacques           La Perfection ˛1974
 : .o .     N     _WERBER Bernard              Les androãdes se cachent pour mourir ˛2014
 !--- Science-fiction et totalitarisme
-: .o .     X     _ORWELL George               1984 ˛1949 1984
+: .o .     X     _ORWELL George               1984 ˛1949 Nineteen Eighty-Four / 1984
 : .oS.     N     _BRADBURY Ray                L'êclat du phÇnix ˛1963 Bright Phoenix
 : .o .     N     _WERBER Bernard              Le Maåtre de cinÇma ˛2008
-: .o .     X     _HUXLEY Aldous               Le meilleur des mondes ˛1932 Brave New World
+: .o .     X     _HUXLEY Aldous               Le Meilleur des mondes ˛1932 Brave New World
 !--- Fins du monde
 : .o .     R     _ROSNY AINE J.-H.            La Mort de la Terre ˛1910
 : .o .     N     _FARRERE Claude              Fin de planäte ˛1927
@@ -296,10 +296,28 @@ o MAG_C&C   209  2020.07 ..... ISBN 978-2-210-76560-3
 : .oK.  89 n     _STERNBERG Jacques           La Perfection ˛1974
 : .oS.  91 N     _BORDAGE Pierre              La Classe de Maåtre Moda ˛2002
 : .o . 113 N     _THIBERT Colin               Alter Ego ˛2009
+o MAG_C&C   215  2021.06 ..... ISBN 978-2-210-77067-6
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 192 pages - 3,80 euros
+!--- PrÇsentation, notes, questions et apräs-texte Çtablis par Philippe Tomblaine
+- .oF.     R     _JAMES Henry                 Le Tour d'Çcrou ˛1898 The Turn of the Screw ˛Trad. LE CORBEILLER Jean-Maurice + MICHEL Pascal
+o MAG_C&C   216  2021.06 ..... ISBN 978-2-210-77068-3
+} magnardcc216   _?                           ?
+!--- Jeunesse - Poche - 128 pages - 3,80 euros
+!--- PrÇsentation, notes, questions et apräs-texte Çtablis par Philippe Tomblaine
+- .oSF    _N2    _LONDON Jack                &La Peste Çcarlate, suivi du Masque de la mort rouge ˛2021
+&                _POE Edgar Allan             
+: .oS.   7 r     _LONDON Jack                 La Peste Çcarlate ˛1912 The Scarlet Plague ˛Trad. POSTIF Louis & GRUYER Paul
+: .oF.  89 N     _POE Edgar Allan             Le Masque de la mort rouge ˛1842 The Masque of the Red Death ˛Trad. BAUDELAIRE Charles
+o MAG_CCC     ?  2022.06 ..... ISBN 978-2-210-77257-1
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 130x180 - 80 pages - 5,40 euros
+!--- PrÇsentation, notes, questions et apräs-texte Çtablis par Pascal Michel
+- .o .     N     _FITZGERALD F. Scott         L'êtrange Histoire de Benjamin Button ˛1922 The Curious Case of Benjamin Button ˛Trad. BAAZIZ Malika et FOURNIER Audrey
 
 
 !-----------------------------------------------------------------------------
-_ MAG_C&P Magnard, Classiques & Patrimoine
+_ MAG_C&P Magnard - Classiques & Patrimoine
 !-----------------------------------------------------------------------------
 o MAG_C&P     6  2011.04 ..... ISBN 978-2-210-75563-5
 } magnard_cp06   _?                           ?
@@ -330,7 +348,7 @@ o MAG_C&P    14  2012.06 ..... ISBN 978-2-210-76072-1
 : .o .   8 N     _PERRAULT Charles            Le Petit Poucet ˛1697
 : .o .     N     _PERRAULT Charles            Barbe Bleue ˛1697
 : .o .     N     _PERRAULT Charles            Les FÇes ˛1697
-: .o .     N     _PERRAULT Charles            Les Souhaits ridicules ˛?
+: .o .     N     _PERRAULT Charles            Les Souhaits ridicules ˛1693
 : .o .     N     _PERRAULT Charles            Peau d'Éne ˛1694
 : .o .  72 a     _SUDRET Laurence             Etude de l'oeuvre : sÇances ˛2012
 : .o .  92 a     _SUDRET Laurence             Autour de l'oeuvre : textes et images dans le contexte ˛2012
@@ -340,7 +358,7 @@ o MAG_C&P    25  2012.06 ..... ISBN 978-2-210-76083-7
 - .oF.    kN4    _POE Edgar Allan             Quatre histoires extraordinaires ˛2012
 : .o .     N     _POE Edgar Allan             Le ScarabÇe d'or ˛1843 The Gold-Bug
 : .o .     N     _POE Edgar Allan             Petite discussion avec une momie ˛1845 Some Words With a Mummy ˛Trad. BAUDELAIRE Charles
-: .o .     N     _POE Edgar Allan             La Lettre volÇe ˛1845 The Purloined Letter ˛Trad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             La Lettre volÇe [Auguste Dupin] ˛1845 The Purloined Letter ˛Trad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Le Portrait ovale ˛1842 The Oval Portrait ˛Trad. BAUDELEAIRE Charles
 o MAG_C&P    28  2013.06 ..... ISBN 978-2-210-76086-8
 } magnard_cp28   _Rackham                     ?
@@ -363,11 +381,11 @@ o MAG_C&P    30  2013.06 ..... ISBN 978-2-210-76088-2
 - .o .     r     _VOLTAIRE                    MicromÇgas ˛1752
 o MAG_C&P    33  2013.06 ..... ISBN 978-2-210-76091-2
 } noimg          _?                           ?
-!--- ˛Trad. HÇläne Dardelin
+!--- Trad. HÇläne Dardelin
 - .oF.     R     _CHRETIEN de TROYES          Yvain ou le Chevalier au lion [Les Romans arthuriens - 4] ˛c1180
 o MAG_C&P    34  2013.06 ..... ISBN 978-2-210-76092-9
 } noimg          _?                           ?
-- .oF.     R     _HOMERE                      L'OdyssÇe ˛? ˛Trad. LECONTE DE LISLE + LEROY Evelyne
+- .oF.     R     _HOMERE                      L'OdyssÇe ˛? ? ˛Trad. LECONTE DE LISLE + LEROY Evelyne
 o MAG_C&P    48  2014.03 ..... ISBN 978-2-210-74058-7
 } magnard_cp48   _John Tenniel                ?
 !--- texte intÇgral
@@ -447,7 +465,7 @@ o MAG_C&P    86  2017.06 ..... ISBN 978-2-210-75683-0
 : .oF.     N     _GAUTIER ThÇophile           La Cafetiäre ˛1831
 o MAG_C&P    89  2017.06 ..... ISBN 978-2-210-75686-1
 } noimg          _?                           ?
-- .oF.     N     _ANDERSEN Hans Christian     La Petite Siräne ˛1837 Den Lille Havfrue ˛Trad. SOLDI David
+- .oF.     N     _ANDERSEN Hans Christian     La Petite Siräne ˛1837 Den lille Havfrue ˛Trad. SOLDI David
 o MAG_C&P    92  2017.06 ..... ISBN 978-2-210-75689-2
 } noimg          _?                           ?
 - .oF.     r     _DICKENS Charles             Conte de Noâl ˛1843 A Christmas Carol ˛Trad. Mlle de Saint-Romain & M. de Goy
@@ -459,13 +477,13 @@ o MAG_C&P    95  2018.06 ..... ISBN 978-2-210-75882-7
 - .oF.     R     _WILDE Oscar                 Le Portrait de Dorian Gray (extraits choisis) ˛1891 The Picture of Dorian Gray ˛Trad. TARDIEU Eugäne
 o MAG_C&P    97  2018.06 ..... ISBN 978-2-210-75884-1
 } noimg          _?                           ?
-- .oF.     X     _OVIDE                       Les MÇtamorphoses (extraits choisis) ˛2018 ˛Trad. LAFAYE Georges
+- .oF.     X     _OVIDE                       Les MÇtamorphoses (extraits choisis) ˛? ? ˛Trad. LAFAYE Georges
 o MAG_C&P    98  2018.06 ..... ISBN 978-2-210-75885-8
 } noimg          _?                           ?
 - .o .     N     _ANDERSEN Hans Christian     La Reine des neiges ˛1844 Sneedronningen ˛Trad. GREGOIRE Ernest & MOLAND Louis
 o MAG_C&P   102  2018.06 ..... ISBN 978-2-210-75889-6
 } noimg          _?                           ?
-- .oF.     R     _HOMERE                      L'Iliade (extraits choisis) ˛? ˛Trad. LECONTE DE LISLE + LEROY Evelyne
+- .oF.     X     _HOMERE                      L'Iliade (extraits choisis) ˛? ? ˛Trad. LECONTE DE LISLE + LEROY Evelyne
 o MAG_C&P   103  2018.06 ..... ISBN 978-2-210-75890-2
 } noimg          _?                           ?
 - .o .     X     _SWIFT Jonathan              Voyage Ö Lilliput - Premier voyage de Gulliver ˛1726 Gulliver's Travels: A Voyage to Lilliput ˛Trad. GAUSSERON B.H. + COLY Sylvie
@@ -487,20 +505,39 @@ o MAG_C&P   128  2020.06 ..... ISBN 978-2-210-76571-9
 - .oF.    _N2    _GOGOL Nicolas               Le Nez - Le Portrait ˛2020
 : .o .   9 N     _GOGOL Nicolas               Le Nez ˛1836 Nos
 : .oF.  51 r     _GOGOL Nicolas               Le Portrait ˛1842 Portret
-
-
+o MAG_C&P   139  2021.06 ..... ISBN 978-2-210-77074-4
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 160 pages - 2,95 euros
+- .o .     X     _POE Edgar Allan             Les Aventures d'Arthur Gordon Pym (extraits choisis) [Arthur Gordon Pym] ˛1838 The Narrative of Arthur Gordon Pym of Nantucket ˛Trad. BAUDELAIRE Charles + COLY Sylvie
+o MAG_C&P   145  2021.06 ..... ISBN 978-2-210-77080-5
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 144 pages - 2,95 euros
+- .oS.     N     _VERNE Jules                 Un hivernage dans les glaces ˛1855
+o MAG_C&P     ?  2022.06 ..... ISBN 978-2-210-77244-1
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 130 x 180 - 352 pages - 4,95 euros
+!--- "Furne corrigÇ", 1845
+- .o .     R     _BALZAC HonorÇ de            La Peau de chagrin ˛1831
+o MAG_C&P     ?  2022.06 ..... ISBN 978-2-210-77248-9
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 130 x 180 - 112 pages - 2,95 euros
+- .oF.     N     _NERVAL GÇrard de            Sylvie ˛1853
+o MAG_C&P     ?  2022.06 ..... ISBN 978-2-210-77250-2
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 130 x 180 - 288 pages - 4,95 euros
+- .oF.     R     _HAWTHORNE Nathaniel         La Lettre Çcarlate ˛1850 The Scarlet Letter ˛Trad. CANAVAGGIA Marie
 
 
 !-----------------------------------------------------------------------------
 _ MAG_FIA Fantasia
 _ MAG_FAR Fantasia rose
-_ MAGFACB Ed. Magnard, Coll. Fantasia Cheval Bleu
-_ MAGFACR Ed. Magnard, Coll. Fantasia Cheval Rouge
+_ MAGFACB Magnard - Fantasia Cheval Bleu
+_ MAGFACR Magnard - Fantasia Cheval Rouge
 !-----------------------------------------------------------------------------
 !--- Magnard, Fantasia
 !-----------------------------------------------------------------------------
 o MAG_FIA     ?  1958.xx ..... ISBN -
-!--- Pas de point d'exclamation su jaquette
+!--- Pas de point d'exclamation sur jaquette
 } noimg          _?                           ?
 - .oS.     R     _DEVAUX Pierre               XP.15 en feu ! [Robert Lyax] ˛1945
 o MAG_FIA    33  1962.xx ..... ISBN -
@@ -598,7 +635,7 @@ o MAGFACB    34  1962.xx ..... ISBN -
 - .oS.     R     _VERT Marie-Louise           Le Bal des Çtoiles ˛1962
 
 !-----------------------------------------------------------------------------
-_ MAG_FR4 FrÇquence 4
+_ MAG_FR4 Magnard - FrÇquence 4
 !-----------------------------------------------------------------------------
 !--- Magnard, FrÇquence 4
 !-----------------------------------------------------------------------------
@@ -607,7 +644,7 @@ o MAG_FR4     ?  1987.xx ..... ISBN 2-210-97111-X
 - .oS.     R     _FROELICH Jean-Claude        La Horde de Gor [Investigations spatio-temporelles] ˛1967
 
 !-----------------------------------------------------------------------------
-_ MAG_TLI Le Temps d'un Livre
+_ MAG_TLI Magnard - Le Temps d'un Livre
 !-----------------------------------------------------------------------------
 !--- Magnard, Le Temps d'un Livre
 !-----------------------------------------------------------------------------
@@ -629,8 +666,8 @@ o MAG_TLI    27  1981.xx ..... ISBN 2-210-97027-X
 
 !-----------------------------------------------------------------------------
 _ MAGNARD Magnard
-_ MAGN_LL Magnard, Coll. Lecture en libertÇ
-_ MAGN_GF Magnard, Grand Format
+_ MAGN_LL Magnard - Lecture en libertÇ
+_ MAGN_GF Magnard - Grand Format
 !-----------------------------------------------------------------------------
 !--- Magnard, Anthologie poche 2001
 !-----------------------------------------------------------------------------
@@ -661,12 +698,12 @@ o MAGNARD     ?  2003.xx ..... ISBN 2-210-96906-9
 - .oF.     R     _BOISSET Eric                L'Oeil du mainate [Trilogie des Charmettes - 2] ˛2003
 
 !-----------------------------------------------------------------------------
-_ MAG_TIP Magnard, Coll. Tipik
-_ MAG_TIJ Magnard, Coll. Tipik Junior
-_ MAG_TIC Magnard, Coll. Tipik Cadet
-_ MAG_TIL Magnard, Coll. Tipik LittÇrature
+_ MAG_TIP Magnard - Tipik
+_ MAG_TIJ Magnard - Tipik Junior
+_ MAG_TIC Magnard - Tipik Cadet
+_ MAG_TIL Magnard - Tipik LittÇrature
 !-----------------------------------------------------------------------------
-!--- Magnard, Coll. "Tipik"
+!--- Magnard, Collection "Tipik"
 !-----------------------------------------------------------------------------
 o MAG_TIP     ?  2004.05 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -743,7 +780,7 @@ o MAG_TIL     ?  2008.11 ..... ISBN 978-2-210-96929-2
 
 !-----------------------------------------------------------------------------
 _ MAG_JEU Magnard Jeunesse
-_ MAG_ROM Magnard Jeunesse, Les Romans
+_ MAG_ROM Magnard Jeunesse - Les Romans
 !-----------------------------------------------------------------------------
 !--- Magnard, Jeunesse
 !-----------------------------------------------------------------------------
@@ -845,10 +882,10 @@ o MAG_JEU     ?  2019.06 ..... ISBN 978-2-210-96742-7
 : .oY.     R     _BOISSET Eric                Le Sarcophage d'Outretemps [La Trilogie d'Arkandias - 3] ˛1999
 
 !-----------------------------------------------------------------------------
-_ MAG_FA  Magnard Jeunesse, Coll. "Les Fantastiques"
-_ MAG_FA2 Magnard Jeunesse, Coll. "Les Fantastiques", 2iäme sÇrie
+_ MAG_FA  Magnard Jeunesse - Les Fantastiques
+_ MAG_FA2 Magnard Jeunesse - Les Fantastiques - 2iäme sÇrie
 !-----------------------------------------------------------------------------
-!--- Magnard Jeunesse, Coll. "Les Fantastiques"
+!--- Magnard Jeunesse, Collection "Les Fantastiques"
 !-----------------------------------------------------------------------------
 o MAG_FA      1i 1996.xx ..... ISBN 2-210-97734-1
 } noimg          _?                           ?
@@ -1038,9 +1075,11 @@ o MAG_FA2    31  2003.xx ..... ISBN 2-210-98447-5
 - .o .     R     _AUBRY Florence              L'êtrange Cicatrice ˛2003
 
 !-----------------------------------------------------------------------------
-_ MAG_PFA Magnard, Coll. "Les P'tits Fantastiques"
+_ MAG_PFA Magnard - Les P'tits Fantastiques
 !-----------------------------------------------------------------------------
-!--- Magnard, Coll. "Les P'tits Fantastiques"
+!--- Magnard, Collection "Les P'tits Fantastiques"
+!-----------------------------------------------------------------------------
+!--- TBD : voir les longueurs, beaucoup semble àtre moins de 50 pages...
 !-----------------------------------------------------------------------------
 o MAG_PFA     ?  1998.xx ..... ISBN 2-210-977..-.
 } noimg          _?                           ?
@@ -1063,9 +1102,9 @@ o MAG_PFA     ?  2001.xx ..... ISBN .-.....-...-.
 o MAG_PFA     ?  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      Ma petite soeur Ö des supers pouvoirs ˛2001
-o MAG_PFA     ?  2001.xx ..... ISBN .-.....-...-.
+o MAG_PFA     ?  2001.xx ..... ISBN 2-210-98041-0
 } noimg          _?                           ?
-- .o .     R     _KA Olivier                  Y a pas plus trouillard qu'un vampire ˛2001
+- .o .     R     _KA Olivier                  Y a pas plus trouillard qu'un vampire ! ˛2001
 o MAG_PFA     ?  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _REBERG Evelyne              L'Hotel du diable ˛2001
@@ -1101,9 +1140,9 @@ o MAG_PFA     ?  2002.xx ..... ISBN .-.....-...-.
 - .o .     R     _KA Olivier                  Le Sourire de MÇmÇ ˛2002
 
 !-----------------------------------------------------------------------------
-_ MAG_SA  Magnard, Coll. "Science et Aventures"
+_ MAG_SA  Magnard - Science et Aventures
 !-----------------------------------------------------------------------------
-!--- Magnard, Coll. "Science et Aventures"
+!--- Magnard, Collection "Science et Aventures"
 !-----------------------------------------------------------------------------
 o MAG_SA      1  1945.T2 ..... ISBN -
 } noimg          _?                           ?

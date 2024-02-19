@@ -4,7 +4,7 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ ANTA    Ed. AntarŠs
+_ ANTA    AntarŠs
 !-----------------------------------------------------------------------------
 o ANTA        ?  1991.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -43,15 +43,15 @@ o ANTA        ?  2008.xx ..... ISBN .-.....-...-.
 
 !-----------------------------------------------------------------------------
 _ MELL    Mellonta
-_ MELL01  <b>in</b> Mellonta nø 1, 2 et 3
 !-----------------------------------------------------------------------------
 !--- Magazine Mellonta
 !--- (cr‚‚ pour la conv fran‡aise 89)
 !--- nø 0 fin 88 ou d‚but 89 : contient un texte de Claude Ecken
 !--- devait y avoir 4 num‚ros de 44 pages
 !-----------------------------------------------------------------------------
-o MELL01      ?  1989.xx ..... ISBN .-.....-...-.
+o MELL        ?  1989.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 1, 2 et 3
 - .o .     N     _RAYMOND Jean-Paul           Le Sarcophage de Saint James Park ş1989
 !-----------------------------------------------------------------------------
 o MELL        0  1988.xx ..... ISBN .-.....-...-.
@@ -84,16 +84,17 @@ o MELL        4  1989.xx ..... ISBN .-.....-...-.
 : .o .     N     _VERLANGER Julia             Les Bulles ş1956
 
 !-----------------------------------------------------------------------------
-_ ANTA_MT AntarŠs, Coll. les m‚moires des t‚nŠbres
+_ ANTA_MT AntarŠs - Les m‚moires des t‚nŠbres
 !-----------------------------------------------------------------------------
 !--- Collection "Les m‚moires des t‚nŠbres"
 !-----------------------------------------------------------------------------
-o ANTA_MT     ?  1982.xx ..... ISBN .-.....-...-.
-} solomon_1      _?                           ?
-- .oY.     N2    _ZUDDAS Gianluigi            La Mal‚diction de Solomon Kane [Solomon Kane] ş1982
-: .o .     p     _ZUDDAS Gianluigi            Comment faire revivre Solomon Kane ş? Kane redivivo
-: .o .     N     _ZUDDAS Gianluigi            L'Œle du serpent … plume [Solomon Kane] ş1968 L'isola del serpente piumato
-: .o .     N     _ZUDDAS Gianluigi            La Couronne d'Asa [Solomon Kane] ş1968 La corona di Asa
+o ANTA_MT     ?  1982.10 ..... ISBN -
+} solomon_1      _J. Esus                     ?
+!--- Poche - 
+- .oF.     N2    _ZUDDAS Gianluigi            La Mal‚diction de Solomon Kane [Solomon Kane] ş1982
+: .o .     p     _ZUDDAS Gianluigi            Comment faire revivre Solomon Kane ş? Kane redivivo şTrad. MOUMON Jean-Pierre
+: .o .     N     _ZUDDAS Gianluigi            L'Œle du serpent … plume [Solomon Kane] ş1968 L'isola del serpente piumato şTrad. MOUMON Jean-Pierre
+: .o .     N     _ZUDDAS Gianluigi            La Couronne d'Asa [Solomon Kane] ş1968 La corona di Asa şTrad. MOUMON Jean-Pierre
 : .o .     o     _MAURE R‚mi                  Gianluigi Zuddas : l'‚pop‚e fantastique … l'italienne ş1982
 !--- 500 ex.
 !--- pastiche de Robert E. Howard par son traducteur italien.
@@ -113,13 +114,14 @@ o ANTA_MT     ?  1982.xx ..... ISBN .-.....-...-.
 !--- - "L'isola del serpente piumato", in idem
 
 !-----------------------------------------------------------------------------
-_ ANTA_MF AntarŠs, Coll. les m‚moires du futur
+_ ANTA_MF AntarŠs - Les m‚moires du futur
 !-----------------------------------------------------------------------------
 !--- Collection "Les m‚moires du futur"
 !-----------------------------------------------------------------------------
 o ANTA_MF     ?  1982.xx ..... ISBN -
 } memfutur01_1   _TONI Jacques                ?
-- .o .     R     _BURROUGHS Edgar Rice        L'Odyss‚e barbare ş1916 Beyond Thirty şTrad. BLOND Martine
+!--- Pr‚face : l'Am‚rique orpheline, ou  pas de futur pour l'europe, de R‚my Maure
+- .o .     r     _BURROUGHS Edgar Rice        L'Odyss‚e barbare ş1916 Beyond Thirty / The Lost Continent şTrad. BLOND Martine
 o ANTA_MF     ?  1983.xx ..... ISBN -
 } memfutur02_1   _BLANCHARD Pierre            ?
 - .o .     R     _BURROUGHS Edgar Rice        La Princesse de la Lune [Cycle de la Lune - 1] ş1923 The Moon Maid şTrad. BLOND Martine
@@ -171,24 +173,23 @@ o ANTA_MF     ?  1998.xx ..... ISBN -
 
 
 !-----------------------------------------------------------------------------
-_ ANTA_OR AntarŠs, L'or du temps
+_ ANTA_OR AntarŠs - L'or du temps
 !-----------------------------------------------------------------------------
 !--- Collection "L'or du temps"
 !-----------------------------------------------------------------------------
-o ANTA_OR     1  1991.04 ..... ISBN .-.....-...-.
+o ANTA_OR     1  1991.04 ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _ROUSSEAU Victor             L'Oeil de Balamok ş1920 The Eye of Balamok
-o ANTA_OR     2  1991.04 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-!--- 130 pages, 500 exemplaires
-- .oS.     R2    _WILLIAMSON Jack             A l'Šre de la Lune ş1991
-: .o .     R     _WILLIAMSON Jack             A l'Šre de la Lune ş1932 The Moon Era şTrad. BARLOW George W.
-: .o .     r     _WILLIAMSON Jack             N‚es du soleil ş1934 Born of the Sun şTrad. MOUMON Jean-Pierre
+o ANTA_OR     2  1991.04 ..... ISBN -
+} noimg          _Frank R. Paul               ?
+!--- Poche - 130 pages, 500 exemplaires
+- .oS.     A2    _WILLIAMSON Jack             A l'Šre de la Lune ş1991
+: .o .     r     _WILLIAMSON Jack             A l'Šre de la Lune ş1932 The Moon Era şTrad. BARLOW George W.
+: .o .     N     _WILLIAMSON Jack             N‚es du soleil ş1934 Born of the Sun şTrad. MOUMON Jean-Pierre
 
 !-----------------------------------------------------------------------------
 _ APEX    Apex
-_ APEX_01 <b>in</b> Apex, nø 42 … 48
-_ APEXPER Apex, Coll. "P‚riodica"
+_ APEXPER Apex - P‚riodica
 !-----------------------------------------------------------------------------
 !--- Collection "Periodica" Editions APEX, diffusion ANTARES
 !--- Il existe une collection "Apex International"
@@ -216,7 +217,7 @@ o APEXPER     ?  199..xx ..... ISBN .-.....-...-.
 - .o .     R     _FARLEY Ralph Milne          Le Guerrier de V‚nus ş1924 The Radio Man / An Earth Man on Venus
 o APEXPER     ?  1996.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _PERRIN Jules                L'Hallucination de M. Forbe ş1908
+- .o .     R     _PERRIN Jules                L'Hallucination de Monsieur Forbe ş1908
 o APEXPER    20  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _COUVREUR Andr‚              Une invasion de macrobes [Le Professeur Tornada] ş1909
@@ -240,9 +241,9 @@ o APEXPER    10  1995.xx ..... ISBN .-.....-...-.
 : .o .     E     _ROBIDA Albert               L'Aviation en 1950 ş1908
 o APEXPER     ?  1997.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
--          R     _DERMEZE Yves                Les Robinsons souterrains ş1944
 !--- Nota : r‚‚dition en fac-simil‚, avec titre erron‚ (au lieu de "Les robinsons de l'abŒme")
 !--- Nota : roman avec plus de dessins que de texte
+- .o .     R     _DERMEZE Yves                Les Robinsons souterrains ş1944
 o APEXPER    13  1997.03 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _CYRIUS                      Les Robinsons de la planŠte Mars [Aventures merveilleuses de Serge Myrandhal - 1/3] ş1908-1925
@@ -283,26 +284,24 @@ o APEXPER    22  2001.xx ..... ISBN .-.....-...-.
 !--- Nota : Adaptation du film d'Irving Pichel (publi Bayard 1951)
 
 !--- Hors collection
+!-- plusieurs publications en anglais dans cette collection :
+!-- - 1995 MITCHELL J.A.           The Last American (1889)
+!-- - 1995 TREVARTHEN Hal P.       World D. (1935)
+!-- - 1995 VOGEL Julius            Anno Domini 2000 - Woman's destiny (1889)
+!-- - 2000 MILNER H.M.             Frankestein - adaptation du roman "Frankenstein" de Shelley (PiŠce en 2 actes) par H.M. Milner
+!--- 
 o APEX        ?  1995.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _--- (anonyme)               Le Monstre des Black Mountains ş?
 o APEX        ?  1995.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _DUNAN Ren‚e                 Baal ou la magicienne passionn‚e ş1924
-!-- APEX    ? 1995 R   MITCHELL J.A.           The last american ş1889
-!--- parution en anglais
-!-- APEX    ? 1995 R   TREVARTHEN Hal P.       World D. ş1935
-!--- parution en anglais
-!-- APEX    ? 2000 T   MILNER H.M.             Frankestein ş?
-!--- Adaptation du roman de Shelley (PiŠce en 2 actes)
 o APEX        ?  2002.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _DERENNES Charles            Le Peuple du p“le ş1907
-!-- APEX    ? 1995 R   VOGEL Julius            Anno Domini 2000 - Woman's destiny ş1889
-!--- parution en anglais
 o APEX        ?  2002.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _SOUVESTRE Emile             Le Monde tel qu'il sera ş2002
+- .o .     R     _SOUVESTRE Emile             Le Monde tel qu'il sera ş1845
 o APEX        ?  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _GIFFARD Pierre              La Guerre infernale (Vol. 1) ş1908
@@ -322,10 +321,11 @@ o APEX        ?  2004.xx ..... ISBN .-.....-...-.
 o APEX        ?  2004.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oS.     R     _MAS Andr‚                   Drym‚a, monde de vierges ş1923
-o APEX_01     ?  2004.xx ..... ISBN .-.....-...-.
+o APEX        ?  2004.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .oS.     R     _MOSELLI Jos‚                Le Peuple del'abŒme ş1919
+>--- SERIAL : nø 42 … 48
 !--- Le peuple de l'abŒme = Le roi des boxeurs
+!--- Liste des ‚pisodes :
 !---   42 Le peuple de l'abŒme
 !---   43 Dans l'inconnu
 !---   44 Une vieille connaissance
@@ -333,9 +333,10 @@ o APEX_01     ?  2004.xx ..... ISBN .-.....-...-.
 !---   46 La gangue de pierre
 !---   47 L'agonie sous la terre
 !---   48 Dans le cratŠre
+- .oS.     R     _MOSELLI Jos‚                Le Peuple de l'abŒme ş1919
 
 !-----------------------------------------------------------------------------
-_ APEXBD  Apex, B‚d‚philia
+_ APEXBD  Apex - B‚d‚philia
 !-----------------------------------------------------------------------------
 o APEXBD      7  1994.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -360,8 +361,7 @@ o ORIO        ?  1990.xx ..... ISBN .-.....-...-.
 - .o .     R     _MESSAC R‚gis                Le Miroir flexible ş1933
 
 !-----------------------------------------------------------------------------
-_ ANTR    AntarŠs, revue "Science-Fiction et Fantastique sans frontiŠres"
-_ ANTR01  <b>in</b> AntarŠs, revue "Science-Fiction et Fantastique sans frontiŠres" nø 28 et 29
+_ ANTR    AntarŠs - Revue "Science-Fiction et Fantastique sans frontiŠres"
 !-----------------------------------------------------------------------------
 !--- Revue Antares, "Science-Fiction et Fantastique sans frontiŠres"
 !--- trimestriel
@@ -372,22 +372,23 @@ _ ANTR01  <b>in</b> AntarŠs, revue "Science-Fiction et Fantastique sans frontiŠr
 !--- ISSN 0751-7580
 !--- la Valette
 !-----------------------------------------------------------------------------
-o ANTR01      ?  1988.xx ..... ISBN .-.....-...-.
+o ANTR        ?  1988.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 28 et 29
 - .o .     R     _STROUGATSKI Arcady         &Tentative de fuite [L'Univers du Midi] ş1962 Popytka k begstvou şTrad. CABARET Andr‚
 &                _STROUGATSKI Boris           
 !-----------------------------------------------------------------------------
 o ANTR        1  1981.xx ..... ISBN -
 } antares01      _?                           ?
-- .o .    _M6    ****                         AntarŠs nø 1 ş1981
 !--- 1er trimestre 1981
+- .o .    _M6    ****                         AntarŠs nø 1 ş1981
 : .o .     N     _ARANGO Angel                D‚voreur d'‚toiles ş1971 El fin del caos llega quietamente şTrad. BLOND Martine
 : .o .     N     _CARNEIRO Andr‚              La Prostitu‚e ş1963 A Prostituta şTrad. MOUMON Jean-Pierre
 : .o .     N     _HAARS Peter                 Retour au chƒteau des Frankenstein ş1977 Tilbakekomsten eller : brevet i den dodes hand şTrad. MOUMON Jean-Pierre
 : .o .     N     _MERRITT Abraham             La Porte des dragons ş1917 Through the Dragon Glass şTrad. MOUMON Jean-Pierre
 : .o .     N     _RANK Heiner                 La Fianc‚e du tigre ş1980 Schone bella şTrad. BLOND Martine
 : .o .     r     _SERNINE Daniel              H‚cate … la gueule sanglante ş1981
-?: .o .     I      SERNINE Daniel              Par JP MOUMON et M. BLOND ş1981
+: .o .     i      SERNINE Daniel              Par JP MOUMON et M. BLOND ş1981
 o ANTR        2  1981.xx ..... ISBN -
 } antares02      _?                           ?
 - .o .    _M6    ****                         AntarŠs nø 2 ş1981
@@ -401,7 +402,7 @@ o ANTR        2  1981.xx ..... ISBN -
 : .o .     N     _MARTENSSON Bertil           La Femme au diadŠme ş1981 Kvinna med diadem şTrad. MOUMON Jean-Pierre
 : .o .     N     _FARMER Philip Jos‚          Le Volcan ş1976 The Volcano şTrad. BLOND Martine
 !->- Nota : originellement parue sous "Paul CHAPIN"
-?: .o .     I     _FARMER Philip Jos‚          Par JP MOUMON et M. BLOND ş1981
+: .o .     i     _FARMER Philip Jos‚          Par JP MOUMON et M. BLOND ş1981
 o ANTR        3  1981.xx ..... ISBN -
 } antares03      _?                           ?
 - .o .    _M7    ****                         AntarŠs nø 3 ş1981
@@ -412,7 +413,7 @@ o ANTR        3  1981.xx ..... ISBN -
 : .o .     N     _LASSWITZ Kurd               Le Fabricant de rˆve ş1886 Der traumfabrikant şTrad. BLOND Martine
 : .o .     N     _MARTENSSON Bertil           La Mort de Grangorn le terrible ş1981 Grangorn Gryms d”d şTrad. MOUMON Jean-Pierre
 : .o .     N     _HAARS Peter                 La Maison abandonn‚e ş1977 Det forlatte hus şTrad. MOUMON Jean-Pierre
-?: .o .     I      LEE Tanith                  Par JP MOUMON et M. BLOND ş1981
+: .o .     i      LEE Tanith                  Par JP MOUMON et M. BLOND ş1981
 : .o .     a      HOLMBERG John-Henri         La Science-Fiction en SuŠde ş1981 Science fiction i Sverige şTrad. MOUMON Jean-Pierre
 o ANTR        4  1981.xx ..... ISBN -
 } antares04      _?                           ?
@@ -425,7 +426,7 @@ o ANTR        4  1981.xx ..... ISBN -
 : .o .     N     _COLIN Vladimir              Ast‚ro‹de 1964 AI ş1965 Stinca de Brocart şTrad. MOUMON Jean-Pierre
 : .o .     N     _MYHRE Oyvind                D‚tournement ş1975 Kaprerne şTrad. MOUMON Jean-Pierre
 : .o .     N     _BUSSON Paul                 Le Coffret de Tormento ş1905 Die kleinodien des Tormento şTrad. BLOND Martine
-?: .o .     I      LEE Tanith                  Par JP MOUMON et M. BLOND ş1981
+: .o .     i      LEE Tanith                  Par JP MOUMON et M. BLOND ş1981
 : .o .     a      HOLMBERG John-Henri         La Science-Fiction en SuŠde - 2 ş1981 Science fiction i Sverige şTrad. MOUMON Jean-Pierre
 o ANTR        5  1982.xx ..... ISBN -
 } antares05      _?                           ?
@@ -439,7 +440,7 @@ o ANTR        5  1982.xx ..... ISBN -
 : .o .     N     _BDKER Cecil                L'Oeil ş1961 jet şTrad. MOUMON Jean-Pierre
 : .o .     N     _CARNEIRO Andr‚              Le Fusil ş1966 A Espingarda şTrad. MOUMON Jean-Pierre
 : .o .     N     _WILLIAMSON Jack             L'Homme de m‚tal ş1928 The Metal Man şTrad. BLOND Martine
-?: .o .     I      WILLIAMSON Jack             Par JP MOUMON et M. BLOND ş1981
+: .o .     i      WILLIAMSON Jack             Par JP MOUMON et M. BLOND ş1981
 : .o .     a      SCHILER Carsten            La SF au Danemark ş1982 Science Fiction i Danmark şTrad. MOUMON Jean-Pierre
 o ANTR        6  1982.xx ..... ISBN -
 } antares06      _?                           ?
@@ -454,7 +455,7 @@ o ANTR        6  1982.xx ..... ISBN -
 : .o .     N     _CORREA Hugo                 L'Estivant ş1969 El veraneante şTrad. GOORDEN Bernard
 : .o .     N     _COLIN Vladimir              Un rideau de glycine ş1982 O Perdra de Glicina şTrad. COLIN Vladimir
 : .o .     N     _MARTENSSON Bertil           Les Cath‚drales volantes ş1982 De flygande katedralerna şTrad. MOUMON Jean-Pierre
-?: .o .     I      MARTENSSON Bertil           Par JP MOUMON et M. BLOND ş1981
+: .o .     i      MARTENSSON Bertil           Par JP MOUMON et M. BLOND ş1981
 : .o .     a      SCHILER Carsten            La SF au Danemark - 2 ş1982 Science Fiction i Danmark şTrad. MOUMON Jean-Pierre
 o ANTR        7  1982.xx ..... ISBN -
 } antares07      _?                           ?
@@ -469,8 +470,7 @@ o ANTR        7  1982.xx ..... ISBN -
 : .o .     N     _ALDUNATE BEZANILLA E.       Angelica et le dauphin ş1977 Ang‚lica y el Delfin şTrad. BLOND Martine
 : .o .     N     _CARNEIRO Andr‚              La Question ş1982 A Pergunta şTrad. MOUMON Jean-Pierre
 : .o .     a      MAURE R‚mi                  La SF au Chili ş1982 Science Fiction i Danmark şTrad. MOUMON Jean-Pierre
-?: .o .     I      SUCHARITKUL Somtow          Par JP MOUMON et M. BLOND ş1981
-?: .o .     .                                  Galerie Antar‚s : Jos‚ LUIS ş?
+: .o .     i      SUCHARITKUL Somtow          Par JP MOUMON et M. BLOND ş1981
 o ANTR        8  1982.xx ..... ISBN -
 } antares08      _BORELLI Robert              ?
 - .o .    _M7    ****                         AntarŠs nø 8 ş1982
@@ -482,9 +482,8 @@ o ANTR        8  1982.xx ..... ISBN -
 : .o .     N     _DE PEDROLO Manuel           Recensement total ş1975 El Cens Total şTrad. MOUMON Jean-Pierre
 : .o .     N     _MYHRE Oyvind                La Ballade de John Henry ş1982 John Henry şTrad. MOUMON Jean-Pierre & BLOND Martine
 : .o .     N     _POLLACK Frank Lillie        Finis ş1906 Finis şTrad. MOUMON Jean-Pierre
-?: .o .     I      DE CAMP Lyon Sprague        Par JP MOUMON et M. BLOND ş1981
+: .o .     i      DE CAMP Lyon Sprague        Par JP MOUMON et M. BLOND ş1981
 : .o .     a      MUNNE-JORDA A.              La SF Catalane - 1 ş1982
-?: .o .     .                                  Galerie Antar‚s : Pierre Djada Lacroix ş?
 o ANTR        9  1983.xx ..... ISBN -
 } antares09      _?                           ?
 - .o .    _M13   ****                         AntarŠs nø 9 ş1983
@@ -505,7 +504,7 @@ o ANTR        9  1983.xx ..... ISBN -
 = .o .     P     _SMITH Clark Ashton          La M‚duse des cieux ş1912 The Medusa of the Skies
 = .o .     P     _SMITH Clark Ashton          Mort blanche ş1912 White Death
 = .o .     P     _SMITH Clark Ashton          Dans les cryptes du souvenir ş1917 From the Crypts of Memory
-?: .o .     I     _BRUNNER John                Par JP MOUMON et M. BLOND ş1981
+: .o .     i     _BRUNNER John                Par JP MOUMON et M. BLOND ş1981
 : .o .     a      MUNNE-JORDA A.              La SF Catalane - 2 ş?
 o ANTR       10  1983.xx ..... ISBN -
 } antares10      _?                           ?
@@ -607,7 +606,7 @@ o ANTR       18  1985.xx ..... ISBN -
 : .o .     N     _CHERRIER Yann               L'Oeil du minotaure ş1985
 : .o .     N     _GORBOVSKI Alexandre         L'Amplitude de la joie ş1967 Amplitouda radosti şTrad. CABARET Andr‚
 : .o .     N     _LEVEGHI Riccardo            L'Oracle des collines ş1985 L'oracolo delle colline şTrad. MOUMON Jean-Pierre
-: .o .     N     _LOVECRAFT Howard P.        &L'Arbre sur la colline ş1920 The Tree şTrad. MOLL-BOUYAT Marie Jo‰lle
+: .o .     N     _LOVECRAFT Howard P.        &L'Arbre sur la colline ş1940 The Tree on the Hill şTrad. MOLL-BOUYAT Marie Jo‰lle
 &                _RIMEL Duane W.              
 : .o .     N     _MYHRE Oyvind                Le Chien austral ş1975 Australhunden şTrad. BLOND Martine & MOUMON Jean-Pierre
 : .o .     N     _MARTINS Walter              Tuj ş1965 Tuj şTrad. MOUMON Jean-Pierre

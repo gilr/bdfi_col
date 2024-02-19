@@ -4,9 +4,9 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ BL_CABN Les Belles Lettres, Coll. Le cabinet noir
-_ BL_GCAB Les Belles Lettres, Coll. Le Grand Cabinet Noir (GdF)
-_ BL_GCAM Manitoba / Les Belles Lettres, Coll. Le Grand Cabinet Noir (GdF)
+_ BL_CABN Les Belles Lettres - Le cabinet noir
+_ BL_GCAB Les Belles Lettres - Le Grand Cabinet Noir
+_ BL_GCAM Manitoba / Les Belles Lettres - Le Grand Cabinet Noir
 !-----------------------------------------------------------------------------
 !--- Collection : Le cabinet noir
 !---  dirig‚e par H‚lŠne et Pierre Jean Oswald
@@ -102,7 +102,9 @@ o BL_CABN    13  1998.xx ..... ISBN 2-251-77112-3
 - .xP.     R     _WILSON Colin                La Cage de verre ş1966 The Glass Cage
 o BL_CABN    14  1998.xx ..... ISBN 2-251-77113-1
 } cabn14         _HAMOIR R‚mi                 N
-- .oF.    _N10   _BLOCH Robert                Les Yeux de la momie ş1984
+!--- TBC : La nouvelle de POE non termin‚e, Le phare (1953 The lighthouse) est-elle reprise au cabinet noir ?
+- .oF.    _A11   _BLOCH Robert               &Les Yeux de la momie ş1984
+&                *TRUCHAUD Fran‡ois           
 : .o .     N     _BLOCH Robert                Le Visiteur venu des ‚toiles ş1935 The Shambler from the Stars şTrad. BOLAND-MASKENS Claude
 : .o .     N     _BLOCH Robert                Les Yeux de la momie ş1938 The Eyes of the Mummy şTrad. PAPY Jacques
 : .o .     N     _BLOCH Robert                Scarab‚es ş1938 Beetles şTrad. PAPY Jacques
@@ -113,9 +115,6 @@ o BL_CABN    14  1998.xx ..... ISBN 2-251-77113-1
 : .o .     N     _BLOCH Robert                Irma la douce ş1947 Sweets to the Sweet şTrad. PAPY Jacques
 : .o .     N     _BLOCH Robert                L'Ombre du clocher ş1950 The Shadow from the Steeple şTrad. BOLAND-MASKENS Claude
 : .o .     N     _BLOCH Robert                Manuscrit trouv‚ dans une maison d‚serte ş1951 Notebook Found in a Deserted House şTrad. LATHIERE Ren‚
-!--- TBC   N     _BLOCH Robert                Le phare ş1953 The lighthouse şTrad. FINNE Jacques
-!--- note : Il s'agit d'une nouvelle de POE non termin‚e
-!--- TBC : non reprise au cabinet noir ?
 o BL_CABN    15  1998.xx ..... ISBN 2-251-77114-X
 } cab15          _HAMOIR R‚mi                 N
 - .x .     R     _FAST Howard                 L'Assassin qui rendit son arme ş?
@@ -124,7 +123,7 @@ o BL_CABN    16  1998.xx ..... ISBN 2-251-77115-8
 - .o .     R     _DUMAS Alexandre             Le Chƒteau d'Eppstein ş1844
 o BL_CABN    17  1998.xx ..... ISBN 2-251-77117-4
 } cabn17         _HAMOIR R‚mi                 N
-- .x .    iN17   _FAJARDIE Fr‚d‚ric H.        Les Neuf Cercles de l'enfer ş1998
+- .x .    iNx    _FAJARDIE Fr‚d‚ric H.        Les Neuf Cercles de l'enfer ş1998
 o BL_CABN    18  1998.09 R.... ISBN 2-251-77118-2
 } cab18          _HAMOIR R‚mi                 N
 >--- Les 13 premiŠres nouvelles du recueil original.
@@ -145,7 +144,7 @@ o BL_CABN    18  1998.09 R.... ISBN 2-251-77118-2
 : .o .     N     _SMITH Clark Ashton          La Bˆte d'Averoigne ş1932 The Beast of Averoigne
 : .C .     C     _SMITH Clark Ashton          Zothique
 : .o .     N     _SMITH Clark Ashton          L'Empire des n‚cromants ş1932 The Empire of the Necromancers
-: .o .     N     _SMITH Clark Ashton          L'Œle des tortionnaires ş1932 The Isle of the Torturers
+: .o .     N     _SMITH Clark Ashton          L'Œle des tortionnaires ş1933 The Isle of the Torturers
 : .o .     N     _SMITH Clark Ashton          Les N‚cromanciens de Naat ş1936 Necromancy in Naat
 : .o .     N     _SMITH Clark Ashton          Xeethra ş1934 Xeethra
 o BL_CABN    19  1998.10 ..... ISBN 2-251-77119-0
@@ -153,16 +152,16 @@ o BL_CABN    19  1998.10 ..... ISBN 2-251-77119-0
 - .oF.    kN154  _STERNBERG Jacques           Si loin de nulle part ş1998
 !--- Contient un "Le commerce" encore diff‚rent des deux autres
 : .o .     N     _STERNBERG Jacques           Si loin de nulle part 1998 ş?
-: .o .     N     _STERNBERG Jacques           La Cr‚ation ş1998
+: .o .     n     _STERNBERG Jacques           La Cr‚ation ş1974
 : .o .     N     _STERNBERG Jacques           L'pitaphe ş1998
 : .o .     N     _STERNBERG Jacques           La Fenˆtre ş1998
 : .o .     N     _STERNBERG Jacques           L'Examen ş1998
-: .o .     N     _STERNBERG Jacques           La Cr‚ature ş1957
+: .o .     n     _STERNBERG Jacques           La Cr‚ature ş1957
 : .o .     N     _STERNBERG Jacques           La M‚moire ş1974
 : .o .     N     _STERNBERG Jacques           Le Pass‚ ş1957
 : .o .     N     _STERNBERG Jacques           L'Obsession ş1998
 : .o .     N     _STERNBERG Jacques           La Demande ş1998
-: .o .     N     _STERNBERG Jacques           La Charit‚ ş1998
+: .o .     n     _STERNBERG Jacques           La Charit‚ ş1960
 : .o .     N     _STERNBERG Jacques           L'change ş1998
 : .o .     N     _STERNBERG Jacques           L'Alliance ş1974
 : .o .     N     _STERNBERG Jacques           La T‚l‚culture ş1998
@@ -179,7 +178,7 @@ o BL_CABN    19  1998.10 ..... ISBN 2-251-77119-0
 : .o .     N     _STERNBERG Jacques           Le BaromŠtre ş1998
 : .o .     N     _STERNBERG Jacques           La D‚ception ş1998
 : .o .     N     _STERNBERG Jacques           La Connaissance ş1998
-: .o .     N     _STERNBERG Jacques           L'criteau ş1974
+: .o .     n     _STERNBERG Jacques           L'criteau ş1974
 : .o .     N     _STERNBERG Jacques           La Rencontre ş1974
 : .o .     N     _STERNBERG Jacques           L'Arriv‚e ş1998
 : .o .     N     _STERNBERG Jacques           L'Inventeur ş1998
@@ -193,14 +192,14 @@ o BL_CABN    19  1998.10 ..... ISBN 2-251-77119-0
 : .o .     N     _STERNBERG Jacques           La Prudence ş1998
 : .o .     N     _STERNBERG Jacques           Le Rescap‚ ş1974
 : .o .     N     _STERNBERG Jacques           Le Comble ş1998
-: .o .     N     _STERNBERG Jacques           Le Noeud ş1957
+: .o .     n     _STERNBERG Jacques           Le Noeud ş1957
 : .o .     N     _STERNBERG Jacques           L'Odorat ş1998
 : .o .     N     _STERNBERG Jacques           La Galerie ş1974
 : .o .     N     _STERNBERG Jacques           La Machinerie ş1998
 : .o .     N     _STERNBERG Jacques           La Reconnaissance ş1998
 : .o .     N     _STERNBERG Jacques           La Fatalit‚ ş1998
 : .o .     N     _STERNBERG Jacques           La Nuance ş1998
-: .o .     N     _STERNBERG Jacques           Le Choix ş1974
+: .o .     n     _STERNBERG Jacques           Le Choix ş1960
 : .o .     N     _STERNBERG Jacques           La Chute ş1998
 : .o .     N     _STERNBERG Jacques           L'Accident ş1998
 : .o .     N     _STERNBERG Jacques           La Confession ş1998
@@ -226,7 +225,7 @@ o BL_CABN    19  1998.10 ..... ISBN 2-251-77119-0
 : .o .     N     _STERNBERG Jacques           La R‚vision ş1998
 : .o .     N     _STERNBERG Jacques           L'Attente ş1998
 : .o .     N     _STERNBERG Jacques           Le D‚sir ş1998
-: .o .     N     _STERNBERG Jacques           L'Oubli ş1957
+: .o .     n     _STERNBERG Jacques           L'Oubli ş1957
 : .o .     N     _STERNBERG Jacques           Le Battant ş1998
 : .o .     N     _STERNBERG Jacques           La Distance ş1998
 : .o .     N     _STERNBERG Jacques           La D‚ception ş1998
@@ -235,7 +234,7 @@ o BL_CABN    19  1998.10 ..... ISBN 2-251-77119-0
 : .o .     N     _STERNBERG Jacques           L'EsthŠte ş1998
 : .o .     N     _STERNBERG Jacques           La Propret‚ ş1998
 : .o .     N     _STERNBERG Jacques           L'Essai ş1998
-: .o .     N     _STERNBERG Jacques           Les Revenants ş1974
+: .o .     n     _STERNBERG Jacques           Les Revenants ş1974
 : .o .     N     _STERNBERG Jacques           Le D‚tail ş1998
 : .o .     N     _STERNBERG Jacques           L'ˆtre ş1998
 : .o .     N     _STERNBERG Jacques           La Raison ş1998
@@ -245,7 +244,7 @@ o BL_CABN    19  1998.10 ..... ISBN 2-251-77119-0
 : .o .     N     _STERNBERG Jacques           L'Id‚e ş1998
 : .o .     N     _STERNBERG Jacques           La Crainte ş1998
 : .o .     N     _STERNBERG Jacques           Le D‚but ş1998
-: .o .     N     _STERNBERG Jacques           L'Impensable ş1974
+: .o .     n     _STERNBERG Jacques           L'Impensable ş1974
 : .o .     N     _STERNBERG Jacques           La Concision ş1998
 : .o .     N     _STERNBERG Jacques           Le Noy‚ ş1998
 : .o .     N     _STERNBERG Jacques           Les trangers ş1998
@@ -254,10 +253,10 @@ o BL_CABN    19  1998.10 ..... ISBN 2-251-77119-0
 : .o .     N     _STERNBERG Jacques           Le Couple ş1998
 : .o .     N     _STERNBERG Jacques           La Pire ş1998
 : .o .     N     _STERNBERG Jacques           Le R‚sum‚ ş1998
-: .o .     N     _STERNBERG Jacques           Le Tricot ş1957
+: .o .     n     _STERNBERG Jacques           Le Tricot ş1953
 : .o .     N     _STERNBERG Jacques           Le Respect ş1998
 : .o .     N     _STERNBERG Jacques           La R‚p‚tition ş1998
-: .o .     N     _STERNBERG Jacques           Le Poisson ş1974
+: .o .     n     _STERNBERG Jacques           Le Poisson ş1974
 : .o .     N     _STERNBERG Jacques           Le Champion ş1998
 : .o .     N     _STERNBERG Jacques           La Performance ş1998
 : .o .     N     _STERNBERG Jacques           Le Pan de mur ş1998
@@ -271,12 +270,12 @@ o BL_CABN    19  1998.10 ..... ISBN 2-251-77119-0
 : .o .     N     _STERNBERG Jacques           Le Fiacre ş1955
 : .o .     N     _STERNBERG Jacques           Le Calcul ş1998
 : .o .     N     _STERNBERG Jacques           L'Affairiste ş1998
-: .o .     N     _STERNBERG Jacques           La Cure ş1955
+: .o .     n     _STERNBERG Jacques           La Cure ş1953
 : .o .     N     _STERNBERG Jacques           Le Rendez-Vous ş1998
-: .o .     N     _STERNBERG Jacques           Le Commerce ş1998
+: .o .     n     _STERNBERG Jacques           Le Commerce ş1964
 : .o .     N     _STERNBERG Jacques           La Ressemblance ş1998
 : .o .     N     _STERNBERG Jacques           La Sonnerie ş1955
-: .o .     N     _STERNBERG Jacques           Le Brochet ş1955
+: .o .     n     _STERNBERG Jacques           Le Brochet ş1953
 : .o .     N     _STERNBERG Jacques           Le Placement ş1998
 : .o .     N     _STERNBERG Jacques           L'Histoire ş1998
 : .o .     N     _STERNBERG Jacques           Le Cauchemar ş1974
@@ -286,27 +285,27 @@ o BL_CABN    19  1998.10 ..... ISBN 2-251-77119-0
 : .o .     N     _STERNBERG Jacques           Les Ann‚es ş1998
 : .o .     N     _STERNBERG Jacques           Le Savoir-Vivre ş1998
 : .o .     N     _STERNBERG Jacques           La Rancune ş1998
-: .o .     N     _STERNBERG Jacques           Les Ennemis ş1998
+: .o .     n     _STERNBERG Jacques           Les Ennemis ş1953
 : .o .     N     _STERNBERG Jacques           Les Groupes ş1974
-: .o .     N     _STERNBERG Jacques           Le Rien ş1960
+: .o .     n     _STERNBERG Jacques           Le Rien ş1960
 : .o .     N     _STERNBERG Jacques           La Demande ş1998
-: .o .     N     _STERNBERG Jacques           La Pr‚ventive ş1974
+: .o .     n     _STERNBERG Jacques           La Pr‚ventive ş1953
 : .o .     N     _STERNBERG Jacques           La Requˆte ş1998
-: .o .     N     _STERNBERG Jacques           Les Vacances ş1998
+: .o .     n     _STERNBERG Jacques           Les Vacances ş1953
 : .o .     N     _STERNBERG Jacques           Le Chƒteau ş1974
 : .o .     N     _STERNBERG Jacques           La Montre ş1998
 : .o .     N     _STERNBERG Jacques           L'Acteur ş1998
-: .o .     N     _STERNBERG Jacques           L'Ennui ş1974
+: .o .     n     _STERNBERG Jacques           L'Ennui ş1953
 : .o .     N     _STERNBERG Jacques           L'Auteur ş1998
 : .o .     N     _STERNBERG Jacques           La Rencontre ş1998
 : .o .     N     _STERNBERG Jacques           La V‚rit‚ ş1974
 : .o .     N     _STERNBERG Jacques           Le Faux pas ş1998
-: .o .     N     _STERNBERG Jacques           La Logique ş?
-: .o .     N     _STERNBERG Jacques           Le Produit ş1974
+: .o .     n     _STERNBERG Jacques           La Logique ş1960
+: .o .     n     _STERNBERG Jacques           Le Produit ş1974
 : .o .     N     _STERNBERG Jacques           La M‚moire ş1998
 : .o .     N     _STERNBERG Jacques           La Cour int‚rieure ş1998
-: .o .     N     _STERNBERG Jacques           Le Papier peint ş1974
-: .o .     N     _STERNBERG Jacques           Le reste est silence ş1963
+: .o .     n     _STERNBERG Jacques           Le Papier peint ş1953
+: .o .     n     _STERNBERG Jacques           Le reste est silence ş1963
 o BL_CABN    20  1998.xx ..... ISBN 2-251-77120-4
 } cab20          _?                           N
 - .x .     R     _HART Frances Noyes          Le ProcŠs Bellamy ş1927 The Bellamy Trial şTrad. ENDREBE Mauric-eBernard
@@ -395,11 +394,11 @@ o BL_CABN    32  1999.05 R.... ISBN 2-251-77134-4
 : .o .     N     _FONTENAY Charles L.         Par un aprŠs-midi d'‚t‚ ş1957 A Summer Afternoon şTrad. LATHIERE Ren‚
 : .o .     N     _FONTENAY Charles L.         L'Impasse ş1957 Blind Alley şTrad. DIEUMORAIN Alex
 : .o .     N     _FONTENAY Charles L.         La PlanŠte des spectres ş1958 Ghost Planet şTrad. LATHIERE Ren‚
-: .o .     N     _FONTENAY Charles L.         Les Marieurs ş1956 Match Maker şTrad. ABONYI Dominique
+: .o .     N     _FONTENAY Charles L.         Les Marieurs ş1960 Matchmaker şTrad. ABONYI Dominique
 : .o .     N     _FONTENAY Charles L.         Z ş1956 Z şTrad. SERPH Fran‡oise
 o BL_CABN    33  1999.xx ..... ISBN 2-251-77135-2
 } cabn33         _?                           N
-- .x .    iN14   _FAJARDIE Fr‚d‚ric H.        Chrysalide des villes ş1999
+- .x .    iNx    _FAJARDIE Fr‚d‚ric H.        Chrysalide des villes ş1999
 o BL_CABN    34  1999.xx ..... ISBN 2-251-77136-0
 } cab34          _?                           N
 - .o .     R     _BLISH James                 Les Six Lendemains ş1949-1952 Let the Finder Beware / Jack of Eagles şTrad. GRATIAS Jean-Paul
@@ -427,7 +426,7 @@ o BL_CABN    36  1999.10 R.... ISBN 2-251-77138-7
 : .o .     N     _ANDREVON Jean-Pierre        Une erreur au Centre ş1999
 !o BL_CABN    37  1999.xx ..... ISBN 2-251-771140-9
 !} cabn37         _?                           N
-!- .x .    iN12   _WESTLAKE Donald E.          PiŠces d‚tach‚es ş1981
+!- .x .    iNx    _WESTLAKE Donald E.          PiŠces d‚tach‚es ş1981
 o BL_CABN    38  1999.xx ..... ISBN 2-251-77141-7
 } cabn38         _?                           N
 - .oF.    _C15   _DUMAS Alexandre             Les Mille et un fant“mes ş1849
@@ -455,7 +454,7 @@ o BL_CABN    40  2000.xx ..... ISBN 2-251-77143-3
 - .o .     R     _WARREN Raoul de             L'Insolite Aventure de Marina Sloty ş1981
 o BL_CABN    41  2000.xx ..... ISBN 2-251-77144-1
 } noimg          _?                           ?
-- .xP.     R     _CAIN James                  Le M‚cŠne ş1976 The Institute
+- .!P.     R     _CAIN James                  Le M‚cŠne ş1976 The Institute
 o BL_CABN    42  2000.xx ..... ISBN 2-251-77145-X
 } cabn42         _?                           N
 - .oS.    _N8    _STURGEON Theodore           Le Professeur et l'ours en peluche ((Les Enfants de Sturgeon)) ş1977
@@ -490,10 +489,10 @@ o BL_CABN    48  2000.xx ..... ISBN 2-251-77153-0
 !--- Collection : Le grand cabinet noir
 !-----------------------------------------------------------------------------
 o BL_GCAB     1i 1998.xx ..... ISBN 2-251-77116-6
-}gcabn01         _?                           N
+} gcabn01        _?                           N
 - .x .     R     _WILSON Colin                Le Tueur ş1970 The Killer
 o BL_GCAB     2i 1998.xx ..... ISBN 2-251-77123-9
-}gcabn02         _?                           N
+} gcabn02        _?                           N
 - .oF.    _A13   *BOURGOIN St‚phane           Halloween - Les citrouilles de l'horreur ş1998
 : .oF.     N     _PRONZINI Bill               La Citrouille mal‚fique ş1985 Pumpkin şTrad. TRUCHAUD Fran‡ois
 : .oF.     N     _TREMAYNE Peter              Samhain Feis ş1985 The Samhain Feis şTrad. TRUCHAUD Fran‡ois
@@ -510,10 +509,10 @@ o BL_GCAB     2i 1998.xx ..... ISBN 2-251-77123-9
 : .oF.     N     _RYAN Alan                   La Maison de Halloween ş1986 The Halloween House şTrad. TRUCHAUD Fran‡ois
 : .oF.     o     _BOURGOIN St‚phane           La Nuit la plus dangereuse ş1988
 o BL_GCAB     3i 1999.xx ..... ISBN 2-251-77132-8
-}gcabn03         _?                           N
+} gcabn03        _?                           N
 - .x .     R     _WILSON Colin                Meurtre d'une ‚coliŠre ş1974 The Schoolgirl Murder Case
 o BL_GCAB     4i 1999.xx ..... ISBN 2-251-77139-5
-}gcabn04         _?                           N
+} gcabn04        _?                           N
 - .x .     R     _WILSON Colin                Le Sacre de la nuit ş1960 Ritual in the Dark
 o BL_GCAB     5i 2000.xx ..... ISBN 2-251-77148-4
 } noimg          _?                           ?
@@ -522,7 +521,7 @@ o BL_GCAB     6i 2000.xx ..... ISBN 2-251-77152-2
 } noimg          _?                           ?
 - .? .     R     _WILSON Colin                L'Homme qui n'avait pas d'ombre ş1963 The Sex Diairy of Gerard Sorme / Man Without a Shadow
 o BL_GCAB     7i 2000.xx ..... ISBN 2-251-77154-9
-}gcabn07         _?                           N
+} gcabn07        _?                           N
 - .oT.    kA12   *BOURGOIN St‚phane           12 serial killers ş2000
 : .oT.     p     _BOURGOIN St‚phane           Pr‚face ş2000
 : .o .     N     _SULLIVAN Tim                Osselets ş1988 Knucklebones şTrad. TRUCHAUD Fran‡ois
@@ -544,7 +543,7 @@ o BL_GCAB     9i 2001.xx ..... ISBN 2-251-77156-5
 } noimg          _?                           ?
 - .xP.     R     _RODOLPHE                    Les Petits Meurtres ş2001
 o BL_GCAB    12i 2001.xx ..... ISBN 2-251-77160-3
-}gcabn12         _?                           N
+} gcabn12        _?                           N
 - .oF.    kN10   _ESTIENNE D'ORVES Nicolas d' Le Sourire des enfants morts ş2001
 : .o .     N     _ESTIENNE D'ORVES Nicolas d' Narcisse et moi ş2001
 : .o .     N     _ESTIENNE D'ORVES Nicolas d' Corpus Christi ş2001
@@ -557,44 +556,44 @@ o BL_GCAB    12i 2001.xx ..... ISBN 2-251-77160-3
 : .o .     N     _ESTIENNE D'ORVES Nicolas d' La Sainte Famille - Trilogie ut‚rine ş2001
 : .o .     N     _ESTIENNE D'ORVES Nicolas d' Carapate ş2001
 o BL_GCAB    13i 2001.xx ..... ISBN 2-251-771..-.
-}gcabn13         _?                           N
+} gcabn13        _?                           N
 !--- trad. revue et augment‚e par Fran‡ois Truchaud
 - .o .     R     _WILSON Colin                La Pierre philosophale ş1969 The Philosopher's Stone şTrad. BLANC G‚rard
 o BL_GCAB    14i 2001.xx ..... ISBN 2-251-77154-9
-}gcabn14         _?                           N
+} gcabn14        _?                           N
 - .oT.     A13   *BOURGOIN St‚phane           13 nouveaux serial killers ş2001
 : .o .     p     _BOURGOIN St‚phane           Pr‚face ş2001
-: .o .     N     _McCAMMON Robert             Ses meilleurs amis ş1987 Best friends şTrad. TRUCHAUD Fran‡ois
-: .o .     N     _LANSDALE Joe R.             Un rencard au drive-in ş1991 Drive-in date şTrad. TRUCHAUD Fran‡ois
-: .! .     N     _RITCHIE Jack                Pour tous les gens mal ‚lev‚s ş1961 For all the rude people şTrad. NicolŠte & Pierre Darcis
+: .o .     N     _McCAMMON Robert             Ses meilleurs amis ş1987 Best Friends şTrad. TRUCHAUD Fran‡ois
+: .o .     N     _LANSDALE Joe R.             Un rencard au drive-in ş1991 Drive-in Date şTrad. TRUCHAUD Fran‡ois
+: .! .     N     _RITCHIE Jack                Pour tous les gens mal ‚lev‚s ş1961 For All the Rude People şTrad. NicolŠte & Pierre Darcis
 : .o .     N     _SCHOW David J.              Auto-stop ş1991 Pick Me Up şTrad. TRUCHAUD Fran‡ois
-: .o .     N     _LANSDALE Joe R.             Incident sur et … proximit‚ d'une route de montagne ş1991 Incident on and off a mountain road şTrad. TRUCHAUD Fran‡ois
-: .o .     N     _GRANT Charles L.            L'ƒme sour ş1991 Kin şTrad. TRUCHAUD Fran‡ois
+: .o .     N     _LANSDALE Joe R.             Incident sur et … proximit‚ d'une route de montagne ş1991 Incident on and off a Mountain Road şTrad. TRUCHAUD Fran‡ois
+: .o .     N     _GRANT Charles L.            L'ƒme soeur ş1991 Kin şTrad. TRUCHAUD Fran‡ois
 : .o .     N     _BLOCH Robert                Votre d‚vou‚ Jack l'‚ventreur ş1943 Yours Truly, Jack the Ripper şTrad. ?
 : .o .     N     _BRYANT Edward               Colfax Avenue ş1987 Doing Colfax şTrad. TRUCHAUD Fran‡ois
 : .o .     N     _McCAMMON Robert             La nuit appelle le Faucon Vert ş1988 Night calls the Green Falcon şTrad. TRUCHAUD Fran‡ois
-: .o .     N     _GRANT Charles L.            Mon ombre est le brouillard ş1988 My shadow is the fog şTrad. TRUCHAUD Fran‡ois
+: .o .     N     _GRANT Charles L.            Mon ombre est le brouillard ş1988 My Shadow Is the Fog şTrad. TRUCHAUD Fran‡ois
 : .? .     N     _LONGUET Isabelle            L'irr‚ductible histoire de H.H. ş2001
 : .! .     N     _WILKEN Stewart              Les confessions du tueur ş? ? şTrad. TRUCHAUD Fran‡ois
-: .? .     N     _MANSON Charles              Il ‚tait une fois... ş? Once upon a time. şTrad. BOURGOIN St‚phane
+: .? .     N     _MANSON Charles              Il ‚tait une fois... ş? Once Upon a Time. şTrad. BOURGOIN St‚phane
 o BL_GCAB    15i 2001.xx ..... ISBN 2-251-77163-8
-}gcabn15         _?                           N
+} gcabn15        _?                           N
 - .o .     R     _LEROY J‚r“me                Bref rapport sur une trŠs fugitive beaut‚ ş2001
 o BL_GCAB    17i 2002.xx ..... ISBN 2-251-77157-3
-}gcabn17         _?                           N
+} gcabn17        _?                           N
 - .oF.    _RN2   _DUMAS Alexandre             L'Œle de feu ş2002
 : .oF.     R     _DUMAS Alexandre             L'Œle de feu ş1837
 : .oF.     N     _DUMAS Alexandre             Un bal masqu‚ ş1835
 : .o .     N     _DUMAS Alexandre             Invraisemblance, ou histoire d'un mort racont‚e par lui-mˆme ş1835
 o BL_GCAB    18i 2002.xx ..... ISBN 2-251-77164-6
-}gcabn18         _?                           N
+} gcabn18        _?                           N
 - .o .     R     _ESTIENNE D'ORVES Nicolas d' Othon ou l'aurore immobile ş2002
 o BL_GCAB    21i 2002.11 ..... ISBN 2-251-77168-9
-}gcabn21         _?                           N
-- .oF.    iN153  _STERNBERG Jacques           300 contes pour solde de tout compte ş2002
-!--- En coop‚ration avec Manitoba :
+} gcabn21        _?                           N
+- .oF.    iNx    _STERNBERG Jacques           300 contes pour solde de tout compte ş2002
 o BL_GCAM    23i 2003.xx ..... ISBN 2-251-77170-0
-}gcabn23         _?                           N
+!--- En coop‚ration avec Manitoba :
+} gcabn23        _?                           N
 - .oF.    kN12   _ESTIENNE D'ORVES Nicolas d' Le Regard du poussin ş2003
 : .o .     N     _ESTIENNE D'ORVES Nicolas d' Le Regard du poussin ş2003
 : .o .     N     _ESTIENNE D'ORVES Nicolas d' Glop ş2003
@@ -609,7 +608,7 @@ o BL_GCAM    23i 2003.xx ..... ISBN 2-251-77170-0
 : .o .     N     _ESTIENNE D'ORVES Nicolas d' SorciŠre ! ş2003
 : .o .     N     _ESTIENNE D'ORVES Nicolas d' L'Arme … gauche ş2003
 o BL_GCAM    24i 2003.xx ..... ISBN 2-251-77170-0
-}gcabn24         _?                           N
+} gcabn24        _?                           N
 - .pSF    kN14   *LAGRANGE Pierre             Noirs complots ş2003
 : .oS.     N     _HELIOT Johan                Op‚ration Mnchhausen ş2003
 : .! .     N     _WINCKLER Martin             Le mensonge est ici ş2003
@@ -663,9 +662,9 @@ o BL          ?  2003.xx ..... ISBN 2-251-44239-1
 _ BL      Les Belles Lettres
 _ BLJ     Les Belles Lettres Jeunesse
 _ BLMANI  Les Belles Lettres & Manitoba
-_ BL_RAL  Les Belles Lettres, Coll. La Roue … Livres
-_ BL_CLA  Les Belles Lettres, Coll. Classiques en poche
-_ BL_CLB  Les Belles Lettres, Coll. Classiques en poche bilingue
+_ BL_RAL  Les Belles Lettres - La Roue … Livres
+_ BL_CLA  Les Belles Lettres - Classiques en poche
+_ BL_CLB  Les Belles Lettres - Classiques en poche bilingue
 !-----------------------------------------------------------------------------
 o BL_RAL      ?  1992.xx ..... ISBN 2-251-33914-0
 } noimg          _?                           ?
@@ -687,17 +686,17 @@ o BL          ?  2004.01 ..... ISBN 2-251-44250-2
 } noimg          _?                           ?
 - .oF.     R     _MILO Daniel Shobeta‹        Et-ou [Les Porteurs de cerveau - 1] ş2004
 o BL          ?  2004.01 ..... ISBN 2-251-44251-0
-}frenchgothic    _?                           ?
+} frenchgothic   _?                           ?
 - .oF.     A39   *POZZUOLI Alain              French Gothic ş2004
 : .oF.     p     _POZZUOLI Alain              Du fantastique au gothique ş2004
 !--- Chapitre 9 du roman - "Les Tombeaux de Paris" en sommaire
 : .oF.     X     _DUMAS Alexandre             Les Tombeaux de Saint-Denis (extrait de : Les Mille et un fant“mes) ş1849
 : .oF.     N     _MERIMEE Prosper             Il Viccolo di Madama Lucrezia ş[1846],1873
-: .oF.     X     _SAND George                 Les Visions de la nuit dans les campagnes (extrait de : Promenades autour d'un village) ş1857
+: .oF.     a     _SAND George                 Les Visions de la nuit dans les campagnes ş1857
 : .oF.     N     _KARR Alphonse               Berthe et Rodolphe ş1852
 : .oF.     N     _KARR Alphonse               Les Willis ş1840
 : .oF.     N     _GAUTIER Th‚ophile           Le Chevalier double ş1840
-: .oF.     N     _GAUTIER Th‚ophile           Spirite ş1865
+: .oF.     X     _GAUTIER Th‚ophile           Spirite ş1865
 : .oF.     N     _FEVAL Paul                  Terreurs nocturnes ş1853
 : .oF.     N     _FEVAL Paul                  La Croix-Qui-Marche ş1853
 : .oF.     X     _FLAUBERT Gustave            Le Festin (extrait de : Salammb“) ş1862
@@ -715,7 +714,7 @@ o BL          ?  2004.01 ..... ISBN 2-251-44251-0
 : .oF.     X     _MIRBEAU Octave              Divagations sur le meurtre (extrait de : Le Jardin des supplices) ş1899
 : .oF.     N     _MAUPASSANT Guy de           La Morte ş1887
 : .oF.     N     _MAUPASSANT Guy de           Apparition ş1883
-: .oF.     N     _LORRAIN Jean                Narkiss ş1909
+: .oF.     N     _LORRAIN Jean                Narkiss ş1898
 : .oF.     N     _LORRAIN Jean                M‚lusine enchant‚e ş1892
 : .oF.     N     _GOURMONT R‚my de            Le Magnolia ş1894
 : .oF.     P     _PELADAN Joseph              Hymne … l'Androgyne ş1891
@@ -727,7 +726,7 @@ o BL          ?  2004.01 ..... ISBN 2-251-44251-0
 : .oF.     N     _LORDE Andr‚ de              Morphinomane ş?
 : .oF.     N     _LORDE Andr‚ de              Figures de cire ş?
 : .oF.     N     _BEALU Marcel                L'Araign‚e d'eau ş1948
-: .oF.     N     _BEALU Marcel                Les Lys et le sang ş1964
+: .oF.     N     _BEALU Marcel                Les Lys et le Sang ş1964
 : .oF.     N     _SEIGNOLLE Claude            Un petit monstre … louer au quart d'heure ş1964
 : .oF.     N     _SILHOL L‚a                  LumiŠre noire [S‚quence d'Isenne - 3] ş2004
 : .oF.     N     _BAUMIER Matthieu            Un ‚trange tombeau ş2004
@@ -779,9 +778,9 @@ o BL          ?  2004.xx ..... ISBN 2-251-44266-9
 : .oF.     N     _LE BIBLIOPHILE Jacob        Le Loup-Garou ş?
 : .oF.     N     _DUMAS Alexandre             Le Loup noir ş?
 : .oF.     N     _SAND George                 Lubins et lupins ş1858
-: .oF.     x     _ERCKMANN-CHATRIAN           Hugues-le-loup ş1876
-?: .oF.     a     _FABRE Fran‡ois              PremiŠres apparitions de la Bˆte ş?
-?: .oF.     a     _FABRE Fran‡ois              Incursions de la Bˆte en Auvergne ş?
+: .oF.     x     _ERCKMANN-CHATRIAN           Hugues-le-loup ş1860
+: .o .     a     _FABRE Fran‡ois              PremiŠres apparitions de la Bˆte ş?
+: .o .     a     _FABRE Fran‡ois              Incursions de la Bˆte en Auvergne ş?
 : .oF.     N     _VIAN Boris                  Le Loup-Garou ş?
 : .oF.     N     _MUNN H. Warner              Le Loup-Garou de Ponkert ş1925 Werewolf of Ponkert
 : .oF.     N     _HOUSMAN Clemence            Fourrure blanche ş1890 The Were-Wolf
@@ -809,7 +808,7 @@ o BL          ?  2005.01 ..... ISBN 2-251-49162-7
 : .oF.     N     _ROUGE-HERON Didier          Le Beau Gr‚gorio ş2005
 : .oF.     N     _AMELIA G.                   D‚sir ş1994 Wanting şTrad. ?
 : .oF.     N     _KALDERA Raven               L'Arnaque du sang şThe Blood Hustle şTrad. ?
-: .oF.     N     _GENTILHOMME Serena          Du beau linge ş2005
+: .oF.     N     _GENTILHOMME Serena          Du beau linge ş1999
 : .oF.     N     _SIRE CEDRIC                 Muses ş2001
 : .oF.     N     _MAP Gautier                 Une autre Carmen ş2005
 : .oF.     N     _JURTH Bernard               L'Hybride de Castro ş2005
@@ -825,7 +824,7 @@ o BL          ?  2005.10 ..... ISBN 2-251-49165-1
 - .oF.    _A21   *POZZUOLI Alain              Tatouages : une histoire et des histoires ş2005
 : .o .     p     _POZZUOLI Alain              Avant-tatouage ş2005
 : .o .     a     _KOBER Marc                  Fleurs de peau ş2005
-: .o .     N     _BRADBURY Ray                L'Homme illustr‚ ş1950 The Illustrated Man ş1950
+: .o .     N     _BRADBURY Ray                L'Homme illustr‚ ş1950 The Illustrated Man şTrad. ?
 : .o .     N     _TANIZAKI Junichiro          Le Tatouage ş1910 ? şTrad. ?
 : .o .     N     _EUDELINE Patrick            Flick-Knife ş2005
 : .o .     N     _BAUMIER Matthieu            Du sang en son ƒme ş2005
@@ -839,7 +838,7 @@ o BL          ?  2005.10 ..... ISBN 2-251-49165-1
 : .o .     N     _KAAN Jess                   Encr‚ en moi ş2005
 : .o .     N     _DAHAN AgnŠs                 Bienvenue … Palerme ş2005
 : .o .     N     _BERTHELOT Francis           Le Livre et le portail ş2005
-: .o .     N     _HEARN Lafcadio              Hoichi-sans-oreilles ş? H”‹chi-the-Earless
+: .o .     N     _HEARN Lafcadio              Hoichi-sans-oreilles ş? H”‹chi-the-Earless şTrad. ?
 : .o .     N     _LE CLERC DE LA HERVERIE J.  La Griffe et les ombres ş2005
 : .o .     N     _CALVEZ Jean-Michel          All‚geance ş2005
 : .o .     N     _ACOT-MIRANDE Thierry        Interview ş2005
@@ -891,7 +890,7 @@ o BL          ?  2013.02 ..... ISBN 978-2-251-83007-0
 - .oF.     R     _HOFFMANN E.T.A.             Les ‚lixirs du diable ş1816 Die Elixieren des Teufels
 o BL          ?  2017.04 ..... ISBN 978-2-251-44666-0
 } noimg          _?                           ?
-!--- şTrad. Patrick Honnor‚
+!--- Trad. Patrick Honnor‚
 - .oF.     N47   _UCHIDA Hyakken              Au-del… - Entr‚e triomphale dans Port-Arthur ş2017
 : .o .     p     _FOREST Philippe             Le roman rˆve ş2017
 : .oF.     N18   _UCHIDA Hyakken              Au-del… ş1922 Meido
@@ -972,7 +971,7 @@ o BLJ         ?  2005.05 ..... ISBN 2-251-45009-2
 - .oS.     R     _MALYE Jean                  Hector et la traqueuse de vampire [Les Manuscronautes - 5] ş2005
 
 !-----------------------------------------------------------------------------
-!--- Coll. Tr‚sor de la nouvelle
+!--- Collection Tr‚sor de la nouvelle
 !-----------------------------------------------------------------------------
 _ BL      Les Belles Lettres
 !-----------------------------------------------------------------------------
@@ -1051,7 +1050,8 @@ o BL          ?  1999.03 ..... ISBN 2-251-44156-5
 o BL          ?  2001.11 ..... ISBN 2-251-44195-6
 } noimg          _?                           ?
 - .pF.    kA5    *MEYER C‚dric                Tr‚sor de la nouvelle de la litt‚rature anglaise - Tome 1 ş2001
-: .! .     N     _LAMB Charles & Mary         Rom‚o et Juliette ş? ?
+: .! .     N     _LAMB Charles               &Rom‚o et Juliette ş? ?
+&  !       N     _LAMB Mary                   
 : .oF.     N     _SCOTT Walter                Le Miroir de la tante Marguerite ş1828 My Aunt Margaret's Mirror şTrad. ?
 : .o .     r     _DICKENS Charles             Un chant de No‰l ş1843 A Christmas Carol şTrad. ?
 : .! .     N     _BRONTE  Charlotte           Albion et Marina ş? ?
@@ -1060,16 +1060,16 @@ o BL          ?  2001.11 ..... ISBN 2-251-44195-6
 o BL          ?  2001.11 ..... ISBN 2-251-44195-6
 } noimg          _?                           ?
 - .pF.    kA10   *MEYER C‚dric                Tr‚sor de la nouvelle de la litt‚rature anglaise - Tome 2 ş2001
-: .! .     N     _STEVENSON Robert Louis     L'Œle aux voix ş1896 The Isle of Voices
+: .o .     N     _STEVENSON Robert Louis      L'Œle aux voix ş1893 The Isle of Voices
 ?!--- TBD j'avais :
 ?: .o .     N     _STEVENSON Robert Louis      La Bouteille diabolique ş1891 The Bottle Imp
 : .! .     N     _HARDY Thomas                Une femme imaginative ş? ?
 : .! .     N     _CORVO Baron                 Les Deux Martyrs ş? ?
 : .oF.     N     _KIPLING Rudyard             La Marque de la bˆte ş1890 The Mark of the Beast şTrad. LECUYER Ren‚
-: .o .     N     _CHESTERTON Gilbert K.       Les Trois Cavaliers de l'apocalypse ş1951 The Three Horsemen of Apocalypse şTrad. ?
+: .x .     N     _CHESTERTON Gilbert K.       Les Trois Cavaliers de l'apocalypse ş1935 The Three Horsemen of Apocalypse şTrad. ?
 : .! .     N     _WOOLF Virginia              Une soci‚t‚ ş? ?
-: .! .     N     _MAUGHAM William Somerset    Le Chant de la tourterelle ş? ?
-: .! .     N     _THOMAS Dylan                Une histoire ş? ?
+: .! .     N     _MAUGHAM W. Somerset         Le Chant de la tourterelle ş? ?
+: .! .     N     _THOMAS Dylan                Une histoire ş1953 A Story
 : .o .     N     _DAHL Roald                  L'Homme au parapluie ş1979 The Umbrella Man
 : .! .     N     _BOYD William                Sur la base yankee ş? ?
 ?: .o .     a     _***                         Notices sur les auteurs ş2000
@@ -1135,13 +1135,14 @@ o BL          ?  2004.11 ..... ISBN 2-251-44276-6
 ?: .o .     a     _***                         Remerciements ş2004
 o BL          ?  2004.11 ..... ISBN 2-251-44276-6
 } noimg          _?                           ?
+!--- TBC plut“t Matilde Serao
 - .pF.    kA6    *AZAY Lucien d'              Tr‚sor de la nouvelle - La litt‚rature italienne - Tome 2 ş2006
-: .o .     N     _BOITO Arrigo                Le Fou noir ş1867 L'alfier nero
+: .x .     N     _BOITO Arrigo                Le Fou noir ş1867 L'alfier nero
 : .o .     N     _BOITO Arrigo                Un corps ş? ?
 : .! .     N     _VERGA Giovanni              Rosso Malpelo ş? ?
 : .! .     N     _VERGA Giovanni              Cavalleria rusticana ş? ?
 : .! .     N     _ROBERTO Federico de         Le Voyage … San Vito ş? ?
-: .! .     N     _SERAO Mathilde Serao        La Vertu de Checchina ş? ?
+: .! .     N     _SERAO Mathilde              La Vertu de Checchina ş? ?
 ?: .o .     a     _***                         Notices sur les auteurs ş2004
 ?: .o .     a     _***                         Remerciements ş2004
 o BL          ?  2007.11 ..... ISBN 978-2-251-44330-0
@@ -1173,60 +1174,54 @@ o BL          ?  2009.11 ..... ISBN 978-2-251-44375-1
 - .pF.    iAx    *BOYER R‚gis                 Tr‚sor de la nouvelle - La litt‚rature scandinave - Tome 2 ş2009
 
 !-----------------------------------------------------------------------------
-!-----------------------------------------------------------------------------
-_ BL_ANGB Les Belles Lettres, Coll. Les anges du bizarre
-_ SO_ANGB Ed. SortilŠges, Coll. Les anges du bizarre
-!--- et/ou (?) Editions SortilŠges
+_ SO_ANGB SortilŠges - Les Belles Lettres, Les anges du bizarre
 !-----------------------------------------------------------------------------
 !--- Collection : Les anges du bizarre, Editions SortilŠges
 !--- directeur de collection : Jean ROLLIN
 !-----------------------------------------------------------------------------
-o BL_ANGB     1  1998.xx ..... ISBN .-.....-...-.
+o SO_ANGB     1  1998.05 ..... ISBN 2-251-82001-9
 } noimg          _?                           ?
-- .o .     R     _ROUSSEL Max                 Le Festin des charognes ş?
-o BL_ANGB     2  1998.xx ..... ISBN .-.....-...-.
+- .oG.     R     _ROUSSEL Max                 Le Festin des charognes ş1949
+o SO_ANGB     2  1998.05 ..... ISBN 2-251-82002-7
 } noimg          _?                           ?
-- .o .     R     _DUGUEL Anne                 Mon ƒme est une porcherie ş1998
+- .oG.     R     _DUGUEL Anne                 Mon ƒme est une porcherie ş1998
 o SO_ANGB     3  1998.xx ..... ISBN 2-251-82003-5
 } noimg          _?                           ?
-- .o .     R     _DE WARGNY Guy               La Bˆte noire ş1965
-o BL_ANGB     4  1998.xx ..... ISBN .-.....-...-.
+- .o .     R     _WARGNY Guy de               La Bˆte noire ş1965
+o SO_ANGB     4  1998.xx ..... ISBN 2-251-82004-3
 } noimg          _?                           ?
 - .o .     R     _ROLLIN Jean                 Enfer priv‚ ş1998
-o BL_ANGB     5  1998.xx ..... ISBN .-.....-...-.
+o SO_ANGB     5  1998.09 ..... ISBN 2-251-82005-1
 !--- a sign‚ ‚galement Lori ANH : D‚g‚nerescence (FN Frayeur)
 } noimg          _?                           ?
-- .o .     R     _VO-ANH Sandra               Dans mon dedans ş1998
-o BL_ANGB     6  1998.xx ..... ISBN .-.....-...-.
+- .oG.     R     _VO-ANH Sandra               Dans mon dedans ş1998
+o SO_ANGB     6  1998.09 ..... ISBN 2-251-82006-X
 } noimg          _?                           ?
-- .o .     R     _GRAY Anna                   Salauds ! ş1948
-!--- TBC: Anta GREY ?
-o BL_ANGB     7  1998.xx ..... ISBN .-.....-...-.
+- .o .     R     _GRAY Anta                   Salauds ş1948
+o SO_ANGB     7  1998.10 ..... ISBN 2-251-82007-8
 } noimg          _?                           ?
 - .o .     R     _ROLLIN Jean                 La Statue de chair ş1998
-
-?o BL_ANGB     8  1998.xx ..... ISBN .-.....-...-.
-?!--- TBD Genre
-?} noimg          _?                           ?
-?- .o .     R     _MAXWELL George              Fallait pas me doubler ! [La M“me Double Shit - 1] ş?
-?o BL_ANGB     ?  1998.xx ..... ISBN .-.....-...-.
-?!--- TBD
-?} noimg          _?                           ?
-?- .o .     R     _RATNO Ernst                 Ne sont pas mort tous les sadiques ş?
-?o BL_ANGB    10  1998.xx ..... ISBN .-.....-...-.
-?!--- TBD parution
-?} noimg          _?                           ?
-?- .o .     R     _MAXWELL George              Va te faire voir ! [La M“me Double Shit - 2] ş?
-
-o BL_ANGB     9  1999.xx ..... ISBN .-.....-...-.
+o SO_ANGB     8  1998.xx ..... ISBN 2-251-82008-6
 } noimg          _?                           ?
-- .o .     r2    _ROLLIN Jean                 La Promeneuse - Le palais des jungles ş1999
+- .! .     R     _MAXWELL George              Fallait pas me doubler ! [La M“me Double Shot - 1] ş1952
+o SO_ANGB     9  1999.xx ..... ISBN 2-251-82009-4
+} noimg          _?                           ?
+!--- 198 pages
+- .o .     R     _JOLY Alice                  La Fantastique histoire du seigneur Jacobus ş1945
+o SO_ANGB    10  1998.xx ..... ISBN 2-251-82010-8
+} noimg          _?                           ?
+- .! .     R     _MAXWELL George              Va te faire voir ! [La M“me Double Shot - 2] ş1952
+
+!-----------------------------------------------------------------------------
+_ BL_SORT SortilŠges - Les Belles Lettres
+!-----------------------------------------------------------------------------
+o BL_SORT     ?  1999.10 ..... ISBN 2-251-49137-6
+} noimg          _?                           ?
+!--- 220 pages - 136 x 200 mm
+- .o .     r2    _ROLLIN Jean                 La Promeneuse, suivi de Le Palais des jungles ş1999
 : .o .     r     _ROLLIN Jean                 La Promeneuse ş1999
 : .o .     r     _ROLLIN Jean                 Le Palais des jungles ş1999
-o BL_ANGB    10  1999.xx ..... ISBN .-.....-...-.
+o BL_SORT     ?  2001.02 ..... ISBN 2-251-49154-6
 } noimg          _?                           ?
-- .o .     R     _JOLY Alice                  La Fantastique histoire du seigneur Jacobus ş1945
-o BL_ANGB    11  2001.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _ROLLIN Jean                 Tuatha ş2001
+- .oF.     R     _ROLLIN Jean                 Tuatha ş2001
 

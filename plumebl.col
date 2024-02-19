@@ -1,139 +1,159 @@
 
 !-----------------------------------------------------------------------------
-_ PLUMB_N Ed. Plume Blanche, Coll. Plume Noire
-_ PLUMB_A Ed. Plume Blanche, Coll. Plume d'Argent
-_ PLUMB_Z Ed. Plume Blanche, Coll. Plume d'Azur
-_ PLUMB_O Ed. Plume Blanche, Coll. Plume d'Or
-_ PLUMB_R Ed. Plume Blanche, Coll. Plume Rose
+_ PLUMB_N Plume Blanche - Plume Noire
+_ PLUMB_A Plume Blanche - Plume d'Argent
+_ PLUMB_Z Plume Blanche - Plume d'Azur
+_ PLUMB_O Plume Blanche - Plume d'Or
+_ PLUMB_R Plume Blanche - Plume Rose
+_ PLUMB_P Plume Blanche - Plume de Poche
 !-----------------------------------------------------------------------------
 !------------------------
 !=== 2015
 !------------------------
 o PLUMB_A     ?  2015.09 ..... ISBN 979-10-94786-00-0
-} noimg          _?                           ?
-!--- 355 pages - 22 cm
-- .oF.     R     _JOMAHE LÇna                 Derniers Jours [Les OubliÇs - 1] ˛2014-2015
+} noimg          _Cendre                      ?
+!--- YA - GF - 160x220 - 355 pages
+- .oS.     R     _JOMAHE LÇna                 Derniers Jours [Les OubliÇs - 1] ˛2014-2015
 o PLUMB_N     ?  2015.11 ..... ISBN 979-10-94786-01-7
-} noimg          _?                           ?
-!--- 422 pages - 15.5 x 22 cm
-- .o .     R     _TRINAME Sandra              Salem ˛2015
+} noimg          _Cendre                      ?
+!--- GF - 160x220 - 455 pages
+- .oF.     R     _TRINAME Sandra              Salem ˛2015
 !------------------------
 !=== 2016
 !------------------------
-o PLUMB_N     ?  2016.01 ..... ISBN 979-10-94786-02-4
+o PLUMB_P     ?  2016.01 ..... ISBN 979-10-94786-02-4
 } noimg          _?                           ?
-!--- 140 pages - 11 x 18 cm - Plume de Poche
+!--- 140 pages - 11 x 18 cm - 6,99 euros
+!--- Plume Noire + Plume de Poche
 - .oF.     R     _DIGUET Westley              Le Rägne du sang ˛2016
 o PLUMB_Z     ?  2016.03 ..... ISBN 979-10-94786-06-2
 } noimg          _?                           ?
-!--- 274 pages - 15.5 x 22 cm
-- .o .     R     _CLAIN Sarah                 De l'autre cìtÇ de l'eau ˛2016
+!--- Jeunesse - GF - 160x220 - 274 pages
+- .oF.     R     _CLAIN Sarah                 De l'autre cìtÇ de l'eau ˛2016
 o PLUMB_N     ?  2016.05 ..... ISBN 979-10-94786-08-6
-} noimg          _?                           ?
-- .o .     R     _BARANGER MÇlanie            Au-delÖ des limbes ˛2016
+} noimg          _Guillaume Czakow            ?
+!--- Poche - 110x180 - 172 pages
+- .oF.     R     _BARANGER MÇlanie            Au-delÖ des limbes ˛2016
 o PLUMB_N     ?  2016.09 ..... ISBN 979-10-94786-10-9
-} noimg          _?                           ?
-!--- 424 pages - 15.5 x 22 cm
-- .o .     R     _AREKIN Angel                L'Apprenti [Le Porteur de mort - 1] ˛2016
+} noimg          _Nicolas Jamonneau           ?
+!--- GF - 160x220 - 424 pages
+- .oF.     R     _AREKIN Angel                L'Apprenti [Le Porteur de mort - 1] ˛2016
 o PLUMB_A     ?  2016.11 ..... ISBN 979-10-94786-12-3
+} noimg          _Cendre                      ?
+!--- YA - GF - 160x220 - 325 pages
+- .oS.     R     _JOMAHE LÇna                 Jour un [Les OubliÇs - 2] ˛2016
+o PLUMB_N     ?  2016.07 ..... ISBN 979-10-94786-14-7
 } noimg          _?                           ?
-!--- 325 pages - 22 cm
-- .oF.     R     _JOMAHE LÇna                 Jour un [Les OubliÇs - 2] ˛2016
-o PLUMB_N     ?  2016.xx ..... ISBN 979-10-94786-14-7
-} noimg          _?                           ?
-!--- 193 pages - 22 cm
+!--- GF - 160x220 - 193 pages
 - .oRF     R     _GRACE America               Jeux du sort [Dentelle et ruban d'argent - 1] ˛2016
 !------------------------
 !=== 2017
 !------------------------
-o PLUMB_A     ?  2017.01 ..... ISBN 979-10-94786-16-1
-} noimg          _?                           ?
-!--- 375 pages - 15.5 x 22 cm
-- .oF.     R     _RUGRAFF Morgane             AmnÇsie [Ray Shepard - 1] ˛2014
+o PLUMB_A     ?  2017.01 ..... ISBN 979-10-94786-18-5
+} noimg          _Mina M.                     ?
+!--- YA - GF - 160x220 - 375 pages - 19,99 euros
+- .oF.     R     _RUGRAFF Morgane             AmnÇsie [Ray Shepard - 1] ˛2017
 o PLUMB_N     ?  2017.03 ..... ISBN 979-10-94786-21-5
-} noimg          _?                           ?
-!--- 376 pages - 15.5 x 22 cm
-- .o .     R     _TRINAME Sandra              A ma vie, Ö ta mort ˛2017
+} noimg          _Marcela Bolivar             ?
+!--- GF - 160x220 - 376 pages
+- .oF.     R     _TRINAME Sandra              A ma vie, Ö ta mort ˛2017
 o PLUMB_N     ?  2017.05 ..... ISBN 979-10-94786-16-1
-} noimg          _?                           ?
-!--- 424 pages - 15.5 x 22 cm
-- .o .     R     _AREKIN Angel                Tenshin [Le Porteur de mort - 2] ˛2017
+} noimg          _Nicolas Jamonneau           ?
+!--- GF - 160x220 - 424 pages
+- .oF.     R     _AREKIN Angel                Tenshin [Le Porteur de mort - 2] ˛2017
 o PLUMB_N     ?  2017.09 ..... ISBN 979-10-94786-19-2
+} noimg          _Mina M.                     ?
+!--- GF - 160x220 - 176 pages
+- .oF.     R     _MOYON Sandra                Le Survivant [Les Autres - 1] ˛2017
+o PLUMB_N     ?  2017.07 ..... ISBN 979-10-94786-20-8
 } noimg          _?                           ?
-!--- 176 pages - 15.5 x 22 cm
-- .o .     R     _MOYON Sandra                Le Survivant [Les Autres - 1] ˛2017
-o PLUMB_N     ?  2017.xx ..... ISBN 979-10-94786-20-8
-} noimg          _?                           ?
-!--- 291 pages - 22 cm
+!--- GF - 160x220 - 291 pages
 - .oRF     R     _GRACE America               Jeu de miroirs [Dentelle et ruban d'argent - 2] ˛2017
 o PLUMB_N     ?  2017.07 ..... ISBN 979-10-94786-30-7
-} noimg          _?                           ?
-!--- 244 pages - 15.5 x 22 cm
-- .o .     R     _MOYON Sandra                Le Calice [Les Autres - 2] ˛2017
-o PLUMB_Z     ?  2017.11 ..... ISBN 979-10-94786-32-1
-} noimg          _?                           ?
-!--- 256 pages - 15.5 x 22 cm
-- .o .     N     _SERRANO Elodie              Les Baleines cÇlestes ˛2017
+!--- GF - 160x220 - 241 pages - 15 euros
+- .oF.     R     _MOYON Sandra                Le Calice [Les Autres - 2] ˛2017
+o PLUMB_P     ?  2017.11 ..... ISBN 979-10-94786-22-2
+} noimg          _Blanche Edenn               ?
+!--- Poche - 110x180 - 163 pages - 7,99 euros
+- .oF.     R     _EDENN Blanche               Etre divisÇ ˛2017
 !------------------------
 !=== 2018
 !------------------------
 o PLUMB_A     ?  2018.01 ..... ISBN 979-10-94786-24-6
 } noimg          _?                           ?
-!--- 480 pages - 15.5 x 22 cm
+!--- YA - GF - 160x220 - 480 pages - 19,99 euros
 - .oF.     R     _RUGRAFF Morgane             HÇrÇsie [Ray Shepard - 2] ˛2018
-o PLUMB_N     ?  2018.03 ..... ISBN 979-10-94786-25-3
-} noimg          _?                           ?
+o PLUMB_N     ?  2018.05 ..... ISBN 979-10-94786-25-3
+} noimg          _Nicolas Jamonneau           ?
 !--- 424 pages - 15.5 x 22 cm
+!--- GF - 160x220 - 424 pages - 21,90 euros
 - .o .     R     _AREKIN Angel                Le Lion blanc [Le Porteur de mort - 3] ˛2018
 o PLUMB_A     ?  2018.03 ..... ISBN 979-10-94786-31-4
 } noimg          _AurÇlien Police             ?
 !--- 396 pages - 15.5 x 22 cm
+!--- YA - GF - 160x220 - 387 pages - 19,99 euros
 - .oS.     R     _SIZEL C.                    IdentitÇs ˛2018
 o PLUMB_A     ?  2018.09 ..... ISBN 979-10-94786-35-2
-} noimg          _?                           ?
-!--- 336 pages - 15.5 x 22 cm
+} noimg          _Patricia Lo                 ?
+!--- YA - GF - 160x220 - 336 pages - 19,99 euros
 - .oY.     R     _DANAE Laâtitia              Rozenn - Livre 1 [Rozenn - 1] ˛2018
 o PLUMB_Z     ?  2018.11 ..... ISBN 979-10-94786-32-1
 } noimg          _?                           ?
+!--- Jeunesse - GF - 160x220 - 256 pages - 15 euros
 - .oF.     R     _SERRANO Elodie              Les Baleines cÇlestes ˛2018
 !------------------------
 !=== 2019
 !------------------------
 o PLUMB_A     ?  2019.01 ..... ISBN 979-10-94786-46-8
 } noimg          _Mina M.                     ?
+!--- YA - GF - 160x220 - 359 pages
 - .oF.     R     _RUGRAFF Morgane             Hallali [Ray Shepard - 3] ˛2019
 o PLUMB_Z     ?  2019.02 ..... ISBN 979-10-94786-33-8
 } noimg          _Jean-Mathias Xavier         ?
+!--- Jeunesse - GF - 160x220 - 327 pages
 - .oF.     R     _SCANU Melissa               Rivage [Seirens - 1] ˛2019
 o PLUMB_A     ?  2019.03 ..... ISBN 979-10-94786-34-5
-} noimg          _?                           ?
-- .o .     R     _JODTS Julie                 Semblables - Tome 1 [Semblables - 1] ˛2019
+} noimg          _Tiphs                       ?
+!--- YA - GF - 160x220 - 243 pages
+- .oY.     R     _JODTS Julie                 Semblables - Tome 1 [Semblables - 1] ˛2019
 o PLUMB_O     ?  2019.04 ..... ISBN 979-10-94786-48-2
 } noimg          _Blanche Edenn               ?
+!--- YA - GF - 160x220 - 513 pages - 20 euros
 - .oF.     R     _JOMAHE LÇna                 Blood Witch - IntÇgrale [La Sorciäre rouge] ˛2019
 o PLUMB_N     ?  2019.05 ..... ISBN 979-10-94786-49-9
 } noimg          _Nicolas Jamonneau           ?
+!--- GF - 160x220 - 421 pages
 - .oF.     R     _AREKIN Angel                Poursuite [Le Porteur de mort - 4] ˛2019
 o PLUMB_N     ?  2019.06 ..... ISBN 979-10-94786-55-0
-} noimg          _?                           ?
+} noimg          _Tania Fortun-Sanchez        ?
+!--- GF - 160x220 - 381 pages
 - .oF.     R     _DARCO Elie                  Le CrÇpuscule d'Aesir ˛2019
 o PLUMB_A     ?  2019.07 ..... ISBN 979-10-94786-45-1
-} noimg          _?                           ?
+} noimg          _Patricia Lo                 ?
+!--- YA - GF - 160x220 - 390 pages
 - .oY.     R     _DANAE Laâtitia              Rozenn - Livre 2 [Rozenn - 2] ˛2019
 o PLUMB_O     ?  2019.08 ..... ISBN 979-10-94786-53-6
 } noimg          _Jean-Mathias Xavier         Jean-Mathias Xavier
+!--- GF - 160x220 - 729 pages - 20 euros
 !--- Le premier tome est devenu le premier chapitre
 ! .oF.     N     _OBRY Marion                 Prologue [L'Ange dÇchu - 1] ˛2019
 ! .oF.     R     _OBRY Marion                 Le Hunter [L'Ange dÇchu - 1] ˛2013
 - .oF.     R     _OBRY Marion                 L'Ange dÇchu - IntÇgrale [L'Ange dÇchu] ˛2019
 o PLUMB_A     ?  2019.09 ..... ISBN 979-10-94786-44-4
-} noimg          _?                           ?
+} noimg          _Cyril Barreaux              ?
+!--- YA - GF - 160x220 - 525 pages
 - .oF.     R     _POGGIO Elisa M.             Outre-Temps - Livre 1 ˛2019
 o PLUMB_N     ?  2019.10 ..... ISBN 979-10-94786-47-5
 } noimg          _Mina M.                     ?
+!--- GF - 160x220 - 269 pages
 - .oF.     R     _MOYON Sandra                Le Saigneur [Les Autres - 3] ˛2019
+o PLUMB_O     ?  2019.11 ..... ISBN 979-10-94786-52-9
+} noimg          _Nicolas Jamonneau           ?
+!--- YA - GF - 160x220 - 823 pages - 25 euros
+- .oF.     R     _TRINAME Sandra              Black Diamond - IntÇgrale [Black Diamond] ˛2014-2019
 o PLUMB_O     ?  2019.12 ..... ISBN 979-10-94786-50-5
 } noimg          _?                           ?
+!--- YA - GF - 160x220 - 683 pages - 20 euros
 - .oF.     R2    _JOMAHE LÇna                 Les OubliÇs - IntÇgrale [Les OubliÇs - 1/2] ˛2019
 : .oF.     R     _JOMAHE LÇna                 Derniers Jours [Les OubliÇs - 1] ˛2014-2015
 : .oF.     R     _JOMAHE LÇna                 Jour un [Les OubliÇs - 2] ˛2016
@@ -141,37 +161,61 @@ o PLUMB_O     ?  2019.12 ..... ISBN 979-10-94786-50-5
 !=== 2020
 !------------------------
 o PLUMB_A     ?  2020.01 ..... ISBN 979-10-94786-70-3
-} noimg          _?                           ?
-- .o .     R     _JODTS Julie                 Semblables - Tome 2 [Semblables - 2] ˛2020
+} noimg          _Tiphs                       ?
+!--- YA - GF - 160x220 - 297 pages
+- .oY.     R     _JODTS Julie                 Semblables - Tome 2 [Semblables - 2] ˛2020
 o PLUMB_N     ?  2020.02 ..... ISBN 979-10-94786-51-2
 } noimg          _Nicolas Jamonneau           ?
+!--- YA - GF - 155x220 - 396 pages - 20 euros
 - .oF.     R     _AREKIN Angel                Le Prisonnier [Le Porteur de mort - 5] ˛2020
+o PLUMB_A     ?  2020.03 ..... ISBN 979-10-94786-68-0
+} noimg          _Chane + Serenya Howell      ?
+!--- YA - GF - 155x220 - 612 pages - 20 euros
+- .oY.     R     _HOWELL Serenya              Les Cycles corrompus [Les AånÇs - 1] ˛2020
+o PLUMB_A     ?  2020.03 ..... ISBN 979-10-94786-67-3
+} noimg          _Anna Dittmann               ?
+!--- YA - GF - 160x220 - 516 pages - 20 euros
+- .oY.     R     _DUCHEMIN OphÇlie            Rose Çternelle ˛2020
 o PLUMB_A     ?  2020.05 ..... ISBN 979-10-94786-79-6
+} noimg          _Jean-Mathias Xavier         ?
+!--- YA - GF - 160x220 - 305 pages
++ PLUMB_A     ?  2023.01 ..... ISBN 979-10-94786-79-6
 } noimg          _?                           ?
-!--- Jeunesse - GF
+!--- YA - GF - 160x220 - 305 pages
 - .oF.     R     _JOMAHE LÇna                 DÇgÇnÇrescence ˛2019
 o PLUMB_Z     ?  2020.05 ..... ISBN 979-10-94786-80-2
 } noimg          _Jean-Mathias Xavier         ?
 !--- Jeunesse - GF - 155 x 220 mm - 312 pages - 19,99 euros
 - .oF.     R     _SCANU Melissa               Mirage [Seirens - 2] ˛2020
-o PLUMB_A     ?  2020.07 ..... ISBN 979-10-94786-73-4
-} noimg          _?                           ?
-!--- YA - GF - 155 x 220 mm - 648 pages - 19,99 euros
-- .oF.     R     _POGGIO Elisa M.             Outre-Temps - Livre 2 ˛2020
 o PLUMB_A     ?  2020.06 ..... ISBN 979-10-94786-77-2
-} noimg          _?                           ?
+} noimg          _Johan Blais                 ?
 !--- YA - GF - 155 x 220 mm - 396 pages - 20 euros
 - .oY.     R     _HOPE Oxanna                 Paulownia [De larmes et de cendres - 1] ˛2020
+o PLUMB_A     ?  2020.07 ..... ISBN 979-10-94786-94-9
+} noimg          _Mina M.                     ?
+!--- YA - GF - 160x220 - 1168 pages - 20 euros
+- .oF.    kR3    _RUGRAFF Morgane             Ray Shepard - L'intÇgrale [Ray Shepard - 1/3] ˛2020
+: .oF.     R     _RUGRAFF Morgane             AmnÇsie [Ray Shepard - 1] ˛2017
+: .oF.     R     _RUGRAFF Morgane             HÇrÇsie [Ray Shepard - 2] ˛2018
+: .oF.     R     _RUGRAFF Morgane             Hallali [Ray Shepard - 3] ˛2019
 o PLUMB_A     ?  2020.08 ..... ISBN 979-10-94786-81-9
-} noimg          _?                           ?
+} noimg          _? The Art of Naãky + Tiphs  ?
 !--- YA - GF - 155 x 220 mm - 384 pages - 20 euros
-- .oF.     R     _DANAE Laâtitia              Que la Mort soit douce - Tome 1 ˛2020
+- .oF.     R     _DANAE Laâtitia              Que la mort soit douce - Livre premier ˛2020
+o PLUMB_A     ?  2020.09 ..... ISBN 979-10-94786-73-4
+} noimg          _Cyril Barreaux              ?
+!--- YA - GF - 155 x 220 mm - 648 pages - 19,99 euros
+- .oF.     R     _POGGIO Elisa M.             Outre-Temps - Livre 2 ˛2020
 o PLUMB_A     ?  2020.09 ..... ISBN 979-10-94786-74-1
-} noimg          _?                           ?
+} noimg          _Fanny Liabeuf               ?
 !--- YA - GF - 155 x 220 mm - 288 pages - 15 euros
 - .oF.     R     _KNEIB Marie                 Les Noces mÇcaniques ˛2020
+o PLUMB_A     ?  2020.09 ..... ISBN 979-10-94786-96-3
+} noimg          _Gwendoline Bally            ?
+!--- YA - GF - 160x220 - 634 pages - 20 euros
+- .oF.     R     _DANAE Laâtitia              Rozenn - IntÇgrale [Rozenn - 1/2] ˛2020
 o PLUMB_N     ?  2020.10 ..... ISBN 979-10-94786-64-2
-} noimg          _?                           ?
+} noimg          _A. Andrew Gonzalez          ?
 !--- GF - 155 x 220 mm - 300 pages - 18 euros
 - .oF.     R     _RUGRAFF Morgane             CrÇpuscule [Lune ardente - 1] ˛2020
 o PLUMB_N     ?  2020.11 ..... ISBN 979-10-94786-72-7
@@ -179,16 +223,151 @@ o PLUMB_N     ?  2020.11 ..... ISBN 979-10-94786-72-7
 !--- GF - 155 x 220 mm - 516 pages - 20 euros
 - .oF.     R     _AREKIN Angel                Ombres ˛2020
 o PLUMB_A     ?  2020.12 ..... ISBN 979-10-94786-66-6
-} noimg          _?                           ?
+} noimg          _Tiphs                       ?
 !--- YA - GF - 155 x 220 mm - 396 pages - 20 euros
 - .oF.     R     _BASTIENNE                   Passer la nuit ˛2020
-o PLUMB_A     ?  2021.01 ..... ISBN 979-10-94786-65-9
+!------------------------
+!=== 2021
+!------------------------
+o PLUMB_P     ?  2021.01 ..... ISBN 979-10-94786-65-9
 } noimg          _?                           ?
-!--- Poche - 110 x 180 mm - 96 pages - 55555os
-- .oF.     N     _OBRY Marion                 Le Tombeau des Émes perdues ˛2021
-o PLUMB_N     ?  2021.01 ..... ISBN ?
+!--- YA - Poche - 110x180 - 96 pages - 5 euros
+- .oF.     r     _OBRY Marion                 Le Tombeau des Émes perdues ˛2021
+o PLUMB_N     ?  2021.01 ..... ISBN 979-10-94786-65-9
+} noimg          _A. Andrew Gonzalez          ?
+!--- YA - GF - 155 x 220 mm - 300 pages - 18 euros
+- .oF.     R     _RUGRAFF Morgane             êclipse [Lune ardente - 2] ˛2021
+o PLUMB_N     ?  2021.02 ..... ISBN 978-2-38199-005-7
+} noimg          _Lionel Prats                ?
+!--- GF - 155x220 - 336 pages - 18 euros
+- .oF.     R     _JOMAHE LÇna                 Les Bracelets rouges [Headline - 1] ˛2021
+o PLUMB_N     ?  2021.03 ..... ISBN 978-2-38199-003-3
+} noimg          _Cindy CanÇvet + Tiphs       ?
+!--- Jeunesse - GF - 160 x 220 - 564 pages - 20 euros
+- .oF.     R     _TRISS Anna                  Le Don de mort - Partie 1 [La Guilde des Ombres - 1.1] ˛2021
+o PLUMB_A     ?  2020.03 ..... ISBN 979-10-94786-67-3
+} noimg          _Anna Dittmann               ?
+!--- Jeunesse - GF - 155 x 220 - 516 pages
+- .o .     R     _DUCHEMIN OphÇlie            Rose Çternelle ˛2020
+o PLUMB_N     ?  2021.03 ..... ISBN 978-2-38199-004-0
+} noimg          _Cindy CanÇvet + Tiphs       ?
+!--- Jeunesse - GF - 160 x 220 - 564 pages - 20 euros
+- .oF.     R     _TRISS Anna                  Le Don de mort - Partie 2 [La Guilde des Ombres - 1.2] ˛2021
+o PLUMB_A     ?  2021.04 ..... ISBN 979-10-94786-95-6
+} noimg          _Tiphs                       ?
+!--- Jeunesse - GF - 155 x 220 - 444 pages - 20 euros
+- .o .     R     _TIPHS                       Allunia - Tome 1 ˛2021
+o PLUMB_Z     ?  2021.05 ..... ISBN 979-10-94786-98-7
+} noimg          _Jean-Mathias Xavier         ?
+!--- Jeunesse - GF - 160x220 - 312 pages - 18 euros
+- .oF.     R     _SCANU Melissa               Sauvage [Seirens - 3] ˛2021
+o PLUMB_A     ?  2021.06 ..... ISBN 979-10-94786-86-4
+} noimg          _Johan Blais                 ?
+!--- YA - GF - 155x220 - 276 pages - 15 euros
+- .oF.     R     _HOPE Oxanna                 Dehan [De larmes et de cendres - 2] ˛2021
+o PLUMB_N     ?  2021.07 ..... ISBN 979-10-94786-97-0
+} noimg          _Nicolas Jamonneau           ?
+!--- GF - 155x220 - 480 pages - 20 euros
+- .oF.     R     _AREKIN Angel                Retour aux sources [Le Porteur de mort - 6] ˛2021
+o PLUMB_O     ?  2021.07 ..... ISBN 978-2-38199-025-5
+} noimg          _Len-Yan                     ?
+!--- GF - 160x220 - 756 pages - 20 euros
+- .oF.    kR3    _MOYON Sandra                Les Autres - IntÇgrale [Les Autres - 1/3] ˛2021
+: .oF.     R     _MOYON Sandra                Le Survivant [Les Autres - 1] ˛2017
+: .o .     R     _MOYON Sandra                Le Calice [Les Autres - 2] ˛2017
+: .oF.     R     _MOYON Sandra                Le Saigneur [Les Autres - 3] ˛2019
+o PLUMB_A     ?  2021.08 ..... ISBN 978-2-38199-006-4
+} noimg          _Chane                       ?
+!--- YA - GF - 155x220 - 480 pages - 20 euros
+- .oY.     R     _HOWELL Serenya              Le Cycle honni [Les AånÇs - 2] ˛2021
+o PLUMB_A     ?  2021.09 ..... ISBN 978-2-38199-000-2
+} noimg          _GaÇtan Weltzer + J. Robin   ?
+!--- YA - GF - 155x220 - 516 pages - 20 euros
+- .oY.     R     _ROBIN J.                    Les Princes du feu ˛2021
+o PLUMB_A     ?  2021.10 ..... ISBN 978-2-38199-007-1
+} noimg          _Mina M.                     ?
+!--- YA - GF - 155x220 - 276 pages - 15 euros
+- .oF.     R     _MOYON Sandra                Les Gardiens - Tome 1 ˛2021
+o PLUMB_A     ?  2021.11 ..... ISBN 979-10-94786-92-5
+} noimg          _(c)The Art of Naãky         ?
+!--- YA - GF - 155x220 - 240 pages - 15 euros
+- .oF.     R     _SMACS MÇlodie               L'êternel de Te Rangi ˛2021
+o PLUMB_A     ?  2021.12 ..... ISBN 979-10-94786-99-4
+} noimg          _Tania Fortun-Sanchez        ?
+!--- YA - GF - 155x220 - 252 pages - 15 euros
+- .oF.     R     _BERGIERS Djenny             Les Entraves de l'hiver ˛2021
+!------------------------
+!=== 2022
+!------------------------
+o PLUMB_A     ?  2022.01 ..... ISBN 978-2-38199-020-0
+} noimg          _Lionel Prats                ?
+!--- YA - GF - 155x220 - 432 pages - 20 euros
+- .oF.     R     _STENGEL Marine              Premiäre Çpreuve [Systra - 1] ˛2022
+o PLUMB_A     ?  2022.02 ..... ISBN 978-2-38199-041-5
+} noimg          _Lionel Prats                ?
+!--- YA - GF - 155x220 - 324 pages - 18 euros
+- .oF.     R     _SIZEL C.                    Maudite ˛2022
+o PLUMB_A     ?  2022.03 ..... ISBN 978-2-38199-030-9
+} noimg          _Tania Fortun-Sanchez        ?
+!--- YA - GF - 155x220 - 264 pages - 15 euros
+- .oF.     R     _BERGIERS Djenny             Les Chimäres du printemps ˛2022
+o PLUMB_N     ?  2022.04 ..... ISBN 978-2-38199-031-6
+} noimg          _Cindy CanÇvet + Tiphs       ?
+!--- GF - 155x220 - 540 pages - 20 euros
+- .oF.     R     _TRISS Anna                  Le Don de vie - Partie 1 [La Guilde des Ombres - 2.1] ˛2022
+o PLUMB_N     ?  2022.04 ..... ISBN 978-2-38199-040-8
+} noimg          _Cindy CanÇvet + Tiphs       ?
+!--- GF - 155x220 - 624 pages - 20 euros
+- .oF.     R     _TRISS Anna                  Le Don de vie - Partie 2 [La Guilde des Ombres - 2.2] ˛2022
+o PLUMB_A     ?  2022.05 ..... ISBN 978-2-38199-026-2
+} noimg          _Tiphs                       ?
+!--- YA - GF - 155x220 - 576 pages - 20 euros
+- .oF.     R     _TIPHS                       Allunia - Tome 2 ˛2021
+o PLUMB_N     ?  2022.06 ..... ISBN 978-2-38199-027-9
+} noimg          _Nicolas Jamonneau           ?
+!--- GF - 155x220 - 324 pages - 18 euros
+- .oF.     R     _AREKIN Angel                Chasse Ö l'homme [Ruine - 1][Le Porteur de mort] ˛2022
+o PLUMB_A     ?  2022.07 ..... ISBN 978-2-38199-021-7
+} noimg          _Anna Dittmann               ?
+!--- YA - GF - 155x220 - 576 pages - 20 euros
+- .oF.     R     _DUCHEMIN OphÇlie            Murmures de l'OcÇan ˛2022
+o PLUMB_Z     ?  2022.08 ..... ISBN 978-2-38199-017-0
+} noimg          _Gwendoline Bally            ?
+!--- Jeunesse - GF - 155x220 - 228 pages - 15 euros
+- .oS.     R     _POGGIO Elisa M.             100 jours de nuit ˛2022
+o PLUMB_A     ?  2022.10 ..... ISBN 978-2-38199-016-3
+} noimg          _Xavier Collette             ?
+!--- YA - GF - 155x220 - 312 pages - 18 euros
+- .oY.     R     _HOWELL Serenya              Le Cycle brisÇ [Les AånÇs - 3] ˛2022
+o PLUMB_A     ?  2022.10 ..... ISBN 978-2-38199-035-4
 } noimg          _?                           ?
-!--- GF - 155 x 220 mm - 300 pages - 18 euros
-- .oF.     R     _RUGRAFF Morgane             Elipse  [Lune ardente - 2] ˛2021
-
+!--- YA - GF - 155x220 - 408 pages - 20 euros
+- .oF.     R     _MOYON Sandra                Les Gardiens - Tome 2 ˛2022
+o PLUMB_A     ?  2022.11 ..... ISBN 978-2-38199-032-3
+} noimg          _Tiphs                       ?
+!--- YA - GF - 155x220 - 372 pages - 20 euros
+- .oY.     R     _LYS Alexiane de             Le Choix d'Astar [Thiziri - 1] ˛2022
+o PLUMB_A     ?  2022.12 ..... ISBN 979-10-94786-91-8
+} noimg          _(c)The Art of Naãky + Tiphs ?
+!--- YA - GF - 160x220 - 432 pages - 20 euros
+- .oF.     R     _DANAE Laâtitia              Que la mort soit douce - Livre second ˛2022
+!------------------------
+!=== 2023
+!------------------------
+o PLUMB_N     ?  2023.01 ..... ISBN 978-2-38199-089-7
+} noimg          _Lionel Prats                ?
+!--- GF - 155x220 - 336 pages - 18 euros
+- .oF.     R     _JOMAHE LÇna                 La Drogue au sang bleu [Headline - 2] ˛2021
+?o PLUMB_A     ?  2023.02 ..... ISBN 978-2-38199-073-6
+?} noimg          _?                           ?
+?!--- YA - GF - 160x220 
+?- .oF.     R     _TIPHS                       Elvira ˛2023
+?o PLUMB_A     ?  2023.02 ..... ISBN 978-2-38199-090-3
+?} noimg          _?                           ?
+?!--- YA - GF - ReliÇ - 160x220 
+?- .oF.     R     _TIPHS                       Elvira (Collector) ˛2023
+?o PLUMB_A     ?  2023.05 ..... ISBN 978-2-38199-072-9
+?} noimg          _Lionel Prats                ?
+?!--- YA - GF - 160x220 
+?- .oF.     R     _STENGEL Marine              Seconde Çpreuve [Systra - 2] ˛2023
 

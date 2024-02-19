@@ -3,16 +3,16 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ PANINI  Ed. Panini Books
-_ PANI_PO Ed. Panini Books, Poche
-_ PANI_CR Ed. Panini, Coll. Crimson
-_ PANI_EC Ed. Panini, Eclipse
-_ PANI_SC Ed. Panini, Scarlett
-_ PANI_GA Ed. Panini, Gamers
+_ PANINI  Panini Books
+_ PANI_PO Panini Books - Poche
+_ PANI_CR Panini - Crimson
+_ PANI_EC Panini - Eclipse
+_ PANI_SC Panini - Scarlett
+_ PANI_GA Panini - Gamers
 !--- Blizzard : 
-_ PANI_BZ Ed. Panini Books
-_ PANI_BP Ed. Panini Books, Poche
-_ PANI_BL Ed. Panini Books, Blizzard Legends
+_ PANI_BZ Panini Books
+_ PANI_BP Panini Books - Poche
+_ PANI_BL Panini Books - Blizzard Legends
 !-----------------------------------------------------------------------------
 
 o PANINI      ?  2012.08 ..... ISBN 978-2-8094-2422-5
@@ -58,8 +58,9 @@ o PANI_BZ     ?  2013.01 ..... ISBN 978-2-8094-2473-7
 - .oS.     R     _GOLDEN Christie             L'Embrasement [Starcraft II][Starcraft] ˛2012 Flashpoint ˛Trad. ?
 o PANI_BZ     ?  2013.11 ..... ISBN 978-2-8094-3201-5
 } noimg          _?                           ?
-- .oY.    iA16   ****                         LÇgendes [World of Warcraft][Warcraft] ˛2013
-!--- ˛Trad. VESSIERE JÇrìme
+!--- TBC contenu
+- .oY.    iAx    ****                         LÇgendes [World of Warcraft][Warcraft] ˛2013
+!--- Trad. VESSIERE JÇrìme
 ?: .o .     N     _WAUGH James                 Genn Grisetàte : Le seigneur de la meute [World of Warcraft][Warcraft] ˛? ?
 ?: .o .     N     _PINE Sarah                  Garrosh Hurlenfer : L'Éme du guerrier [World of Warcraft][Warcraft] ˛? ?
 ?: .o .     N     _BURNS Matt                  Le Conseil des Trois Marteaux : le fer et le feu [World of Warcraft][Warcraft] ˛? ?
@@ -303,7 +304,7 @@ o PANI_PO     ?  2016.03 ..... ISBN 978-2-8094-5620-2
 
 
 !-----------------------------------------------------------------------------
-!-- PANI_CR Ed. Panini, Crimson
+!-- PANI_CR Panini, Crimson
 !-----------------------------------------------------------------------------
 !--- Crimson: collection de bit-lit et de romance paranormale
 !-----------------------------------------------------------------------------
@@ -318,7 +319,7 @@ o PANI_CR     ?  2013.01 ..... ISBN 978-2-8094-2787-5
 - .oF.     R     _CAINE Rachel                La Maåtresse du vent [Les Gardiens des ÇlÇments - 1] ˛2003 Ill Wind ˛Trad. AUDOUARD Marianne
 o PANI_CR     ?  2013.02 ..... ISBN 978-2-8094-2785-1
 } pbcrimson03    _Cliff Nielsen               ?
-- .oF.     R     _HUNTER Faith                Jane Yellowrock, tueuse de vampires [Jane Yellowrock - 1] ˛2009 Skinwalker ˛Trad. DROUET Camille
+- .oF.     R     _HUNTER Faith                Tueuse de vampires [Jane Yellowrock - 1] ˛2009 Skinwalker ˛Trad. DROUET Camille
 o PANI_CR     ?  2013.03 ..... ISBN 978-2-8094-2788-2
 } pbcrimson04    _Larry Rostant               ?
 - .oF.     R     _CAINE Rachel                Vague de chaleur [Les Gardiens des ÇlÇments - 2] ˛2004 Heat Stroke ˛Trad. HOUESNARD Annaãg
@@ -412,7 +413,7 @@ o PANI_CR     ?  2015.02 ..... ISBN 978-2-8094-4666-1
 - .oF.     R     _PETTERSSON Vicki            La Caresse des ombres [L'Çtreinte du zodiaque - 3] ˛2008 The Touch of Twilight ˛Trad. ROULET Carine
 
 !-----------------------------------------------------------------------------
-!-- PANI_SC Ed. Panini, Scarlett
+!-- PANI_SC Panini, Scarlett
 !-----------------------------------------------------------------------------
 !--- Collection jeune adulte de Panini Books
 !--- CrÇation juin 2013
@@ -468,7 +469,7 @@ o PANI_SC     ?  2015.09 ..... ISBN 978-2-8094-5053-8
 
 
 !-----------------------------------------------------------------------------
-!-- PANI_EC Ed. Panini, Eclipse
+!-- PANI_EC Panini, Eclipse
 !-----------------------------------------------------------------------------
 !--- Eclipse est le label des Çditions Panini spÇcialisÇ en fantasy,
 !---  science-fiction, fantastique, zombie, adaptation jeux vidÇos,
@@ -525,7 +526,7 @@ o PANI_EC     ?  2013.04 ..... ISBN 978-2-8094-3042-4
 - .oF.     R     _RECHT Z.A.                  Les Cendres des morts [Le Virus Morningstar - 2] ˛2008 Thunder and Ashes ˛Trad. JOLY Fabrice
 o PANI_EC     ?  2013.04 ..... ISBN 978-2-8094-3044-8
 } pbeclipse15    _Michael J. Windsor          ?
-- .oF.     R     _HOWARD Jonathan L.          Johannes Cabal le nÇcromancien [Johannes Cabal] ˛2009 Johannes Cabal the Necromancer ˛Trad. VESSIERE JÇrìme
+- .oF.     R     _HOWARD Jonathan L.          Johannes Cabal le nÇcromancien [Johannes Cabal - 1] ˛2009 Johannes Cabal the Necromancer ˛Trad. VESSIERE JÇrìme
 o PANI_EC     ?  2013.05 ..... ISBN 978-2-8094-3135-3
 } pbeclipse16    _Gene Mollica                ?
 - .oY.     R     _RUCKLEY Brian               Droit du sang [Un monde sans dieux - 2] ˛2008 Bloodheir ˛Trad. HUET Nathalie
@@ -617,14 +618,14 @@ o PANI_EC     ?  2013.12 ..... ISBN 978-2-8094-3480-4
 !------------------------
 o PANI_EC     ?  2014.01 ..... ISBN 978-2-8094-3616-7
 } pbeclipse43    _?                           ?
-!--- TBD titre VO ˛2011 El Principio del Fin ?
+!--- TBD titre VO : 2011 El Principio del Fin ?
 - .oS.     R     _LOUREIRO Manel              Le DÇbut de la fin [Apocalypse Z - 1] ˛2008 Apocalipsis Z ˛Trad. BAUDIN Alexandre
 o PANI_EC     ?  2014.01 ..... ISBN 978-2-8094-3620-4
 } pbeclipse44    _Christian Hecker            ?
 - .oS.     R     _MORDEN Simon                L'êquation de la vie [MÇtrozone - 1] ˛2011 Equations of Life ˛Trad. LIGNY Jean-Marc
 o PANI_EC     ?  2014.01 ..... ISBN 978-2-8094-3618-1
 } pbeclipse45    _Gene Mollica                ?
-- .oS.     R     _McCLELLAN Brian             La Promesse du sang [Les Poudremages - 1] ˛2013 Promise of Blood ˛Trad. BAUDURET Thomas
+- .oS.     R     _McCLELLAN Brian             La Promesse du sang [La Trilogie des Poudremages - 1] ˛2013 Promise of Blood ˛Trad. BAUDURET Thomas
 o PANI_EC     ?  2014.01 ..... ISBN 978-2-8094-3619-8
 } pbeclipse46    _John Coulthart              ?
 - .oS.     R     _SHEVDON Mike                La Septiäme Cour [Les Cours des feys - 1] ˛2009 Sixty-One Nails ˛Trad. QUEYSSI Laurent
@@ -793,7 +794,7 @@ o PANI_EC     ?  2016.11 ..... ISBN 978-2-8094-5965-4
 
 
 !-----------------------------------------------------------------------------
-!-- PANI_GA Ed. Panini, Gamers
+!-- PANI_GA Panini, Gamers
 !-----------------------------------------------------------------------------
 !------------------------
 !=== 2013
@@ -813,9 +814,9 @@ o PANI_GA     ?  2013.12 ..... ISBN 978-2-8094-3322-7
 !------------------------
 o PANI_GA     ?  2014.06 ..... ISBN 978-2-8094-4114-7
 } pbgamers04     _?                           ?
-- .oF.    kr2    _SANDERSON Brandon           Infinity Blade ˛2014
-: .o .     r     _SANDERSON Brandon           L'êveil ˛2011 Awakening ˛Trad. CHASTELLIERE Emmanuel
-: .o .     r     _SANDERSON Brandon           RÇdemption ˛2013 Redemption ˛Trad. CHASTELLIERE Emmanuel
+- .oF.    kr2    _SANDERSON Brandon           Infinity Blade [Infinity Blade - 1/2] ˛2014
+: .o .     r     _SANDERSON Brandon           L'êveil [Infinity Blade - 1] ˛2011 Awakening ˛Trad. CHASTELLIERE Emmanuel
+: .o .     r     _SANDERSON Brandon           RÇdemption [Infinity Blade - 2] ˛2013 Redemption ˛Trad. CHASTELLIERE Emmanuel
 !------------------------
 !=== 2015
 !------------------------
@@ -831,7 +832,7 @@ o PANINI      ?  2015.08 ..... ISBN 978-2-8094-3959-5
 : .oY.     R     _SOESBEE Ree                 La Mer des lamentations [GuildWars] ˛2013 Sea of Sorrows ˛Trad. DEBOT Anthony
 o PANINI      ?  2015.05 ..... ISBN 978-2-8094-4994-5
 } pbgamers06     _?                           ?
-- .oF.     G     ****                         Le Monde de The Witcher ˛2015 The World of The Witcher ˛Trad. ?
+- .oF.     G     ****                         Le Monde de the Witcher ˛2015 The World of the Witcher ˛Trad. ?
 o PANINI      ?  2015.08 ..... ISBN 978-2-8094-4157-4
 } pbgamers07     _?                           ?
 - .oY.     G     ****                         Le Guide d'Azeroth [World of Warcraft][Warcraft] ˛2013 World of Warcraft: Ultimate Visual Guide ˛Trad. ?

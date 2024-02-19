@@ -1,14 +1,22 @@
 
 !-----------------------------------------------------------------------------
-_ RIVBLHS Black Coat Press, RiviŠre Blanche
-_ RIV_ICA Black Coat Press, RiviŠre Blanche / I Cal Ana
-!--- I Cal Ana : micro-‚dition
-_ RIVBL   Black Coat Press, RiviŠre Blanche, Coll. Blanche
-_ RIVBL_N Black Coat Press, RiviŠre Blanche, Coll. Noire
-_ RIVBL_F Black Coat Press, RiviŠre Blanche, Coll. Fus‚e
-_ RIVBL_B Black Coat Press, RiviŠre Blanche, Coll. Baskerville
-_ BCP_BAB Black Coat Press, Coll. Babel Library
+_ RIV_ICA Black Coat Press - RiviŠre Blanche / I Cal Ana
+!--- I Cal Ana : micro-‚dition / labels
+_ RIVBLHS Black Coat Press - RiviŠre Blanche - Hors-S‚ries
+_ RIVBL   Black Coat Press - RiviŠre Blanche - Blanche
+_ RIVBL_N Black Coat Press - RiviŠre Blanche - Noire
+_ RIVBL_F Black Coat Press - RiviŠre Blanche - Fus‚e
+_ RIVBL_B Black Coat Press - RiviŠre Blanche - Baskerville
+_ RIVBL_A Black Coat Press - RiviŠre Blanche Art Books
+_ BCP_BAB Black Coat Press - Babel Library
 !-----------------------------------------------------------------------------
+
+o RIVBL_A     4  2009.xx ..... ISBN 978-1-934543-86-3
+} noimg          _Philippe Lemaire            Philippe Lemaire
+- .oF.     N     _LEMAIRE Philippe           &Confession d'un vampire [Radu Dracula] ş2009
+&                _WARD Philippe               
+
+
 !------------------------
 !=== 2004
 !------------------------
@@ -276,7 +284,7 @@ o RIVBL    2049  2008.09 ..... ISBN 978-1-934543-36-8
 : .oS.     R     _PIRET Daniel                Le Cr‚puscule des idoles ş2008
 o RIVBL    2050  2008.10 ..... ISBN 978-1-934543-27-6
 } rivb2050       _?                           ?
-- .oS.     R     _RUAUD Andr‚-Fran‡ois        Les Vents de Spica ş2008
+- .oS.     R     _RUAUD Andr‚-Fran‡ois        Les Vents de Spica [Spica] ş2008
 o RIVBL    2051  2008.11 ..... ISBN 978-1-934543-52-8
 } rivb2051       _?                           ?
 - .oS.     R     _SELLIG                      Pour une poign‚e de Koumlaks... ş2008
@@ -306,7 +314,7 @@ o RIVBL    2055  2009.03 ..... ISBN 978-1-934543-73-3
 : .? .     N     _LOFFICIER Jean-Marc         La DerniŠre Soir‚e sur Terre ş?
 : .? .     N     _LOFFICIER Jean-Marc         Carnac et les ‚toiles ş?
 : .? .     N     _LOFFICIER Jean-Marc         Eyrinie ş?
-: .? .     N     _LOFFICIER Jean-Marc         Enfer priv‚ ş?
+: .o .     N     _LOFFICIER Jean-Marc         Enfer priv‚ ş?
 : .? .     N     _LOFFICIER Jean-Marc         Rˆve sombre, beaut‚ sombre ş?
 !--- RETOUR AU VILLAGE
 : .? .     N     _LOFFICIER Jean-Marc         Pour toujours "Nadia" ş?
@@ -316,16 +324,17 @@ o RIVBL    2055  2009.03 ..... ISBN 978-1-934543-73-3
 : .? .     N     _LOFFICIER Jean-Marc         L'Interlude Quatermass ş?
 : .? .     N     _LOFFICIER Jean-Marc         Rumpole au Village ş?
 !--- DESSINS ANIMES
-: .! .     d     _LOFFICIER Jean-Marc         Superpowers : La ruse de Darkseid ş?
+: .? .     N     _LOFFICIER Jean-Marc         Superpowers : La ruse de Darkseid ş?
 !--- LES COMICS
-!: .! .     k     _LOFFICIER Jean-Marc         Ph‚nix : La boŒte rouge (dessins: Fernando Pasarin) ş?
-!: .! .     k     _LOFFICIER Jean-Marc         Kabur : La jeunesse de Kabur (dessins: David LaFuente) ş?
-!: .! .     k     _LOFFICIER Jean-Marc         LŠvre & Fouet: Un match de pitzal (illustrations: Dave Taylor) ş?
-!: .! .     k     _LOFFICIER Jean-Marc         LŠvre & Fouet: Seconde rencontre ş?
+!--- Contenu peu clair : des comic strips ?
+!--- .     N     _LOFFICIER Jean-Marc         Ph‚nix : La boŒte rouge (dessins: Fernando Pasarin)
+!--- .     N     _LOFFICIER Jean-Marc         Kabur : La jeunesse de Kabur (dessins: David LaFuente)
+!--- .     N     _LOFFICIER Jean-Marc         LŠvre & Fouet: Un match de pitzal (illustrations: Dave Taylor)
+!--- .     N     _LOFFICIER Jean-Marc         LŠvre & Fouet: Seconde rencontre
 !--- CHRONIQUES MARSIENNES
 : .? .     .     _LOFFICIER Jean-Marc         Les Flammes de Meldoch ş?
 !--- LES COMPAGNONS DE L'OMBRE
-! (illustrations: Fernando Calvi) ş?
+!--- avec des illustrations de Fernando Calvi
 : .o .     a     _LOFFICIER Jean-Marc         M‚moires d'un ex-compagnon de l'ombre ş2008
 : .o .     N     _LOFFICIER Jean-Marc         Le Tarot de Fant“mas ş2006
 : .o .     N     _LOFFICIER Jean-Marc         Les Petits de Figaro ş2006
@@ -334,9 +343,9 @@ o RIVBL    2055  2009.03 ..... ISBN 978-1-934543-73-3
 : .o .     N     _LOFFICIER Jean-Marc         Objets trouv‚s ş2006
 : .o .     N     _LOFFICIER Jean-Marc         Marguerite ş2005
 : .o .     N     _LOFFICIER Randy             La Princesse r‚calcitrante ş2008
-: .o .     N     _LOFFICIER Jean-Marc        &ArsŠne Lupin arrive trop tard ş2005
+: .!P.     N     _LOFFICIER Jean-Marc        &ArsŠne Lupin arrive trop tard ş2005
 &                _LOFFICIER Randy             
-: .o .     N     _LOFFICIER Jean-Marc         La Plus Douloureuse des blessures ş2005
+: .!P.     N     _LOFFICIER Jean-Marc         La Plus Douloureuse des blessures ş2005
 : .o .     N     _LOFFICIER Jean-Marc         On n'‚chappe pas au coup de foudre ş2005
 : .o .     N     _LOFFICIER Jean-Marc         Le Meurtre de Randolph Carter ş2006
 : .o .     N     _LOFFICIER Jean-Marc         Les Yeux de son pŠre ş2006
@@ -476,7 +485,7 @@ o RIVBL    2068  2010.04 ..... ISBN 978-1-935558-22-4
 : .o .     N     _LEGRAND Claude J.           Un si gentil l‚vrier ş?
 : .o .     N     _LEGRAND Claude J.           L'Imposteur ş?
 : .o .     N     _LEGRAND Claude J.           L'vasion ş?
-: .o .     N     _LEGRAND Claude J.           La Machine … r‚tr‚cir ş?
+: .o .     N     _LEGRAND Claude J.           La Machine … r‚tr‚cir ş2010
 : .o .     N     _LEGRAND Claude J.           Le Vaisseau cosmique Argoxhal ş?
 : .o .     N     _LEGRAND Claude J.           Otto de Wittenburg ş?
 : .o .     N     _LEGRAND Claude J.           Le Polymorphe ş?
@@ -885,7 +894,7 @@ o RIVBL    2136  2015.12 ..... ISBN 978-1-61227-477-5
 &                _LOFFICIER Randy             
 : .o .     p     _LOFFICIER Jean-Marc        &Introduction ş2015
 &                _LOFFICIER Randy             
-: .? .     N     _LOFFICIER Jean-Marc         M‚moires d'un ex-compagnon de l'Ombre (2)
+: .? .     a     _LOFFICIER Jean-Marc         M‚moires d'un ex-compagnon de l'Ombre (2)
 : .? .     N     _LOFFICIER Jean-Marc        &Manon des sorts ş2015
 &                _LOFFICIER Randy             
 : .o .     N     _LOFFICIER Randy             Le Bal du gentleman anglais ş2009
@@ -1181,7 +1190,7 @@ o RIVBL    2185  2020.02 ..... ISBN 978-1-61227-942-8
 : .o .     N     _BECKER Phil                 Un appartement pour Jerry ş2015
 : .o .     N     _BECKER Phil                 L'Affaire de la cave ş2020
 : .o .     N     _BECKER Phil                 Le Dernier Lama Exterus ş2013
-: .o .     N     _BECKER Phil                 Climax & Cie ş2016
+: .o .     N     _BECKER Phil                 Climax & Cie ş2014
 : .o .     N     _BECKER Phil                 Mille et Une Portes ş2011
 : .o .     N     _BECKER Phil                 Nos habitats interstitiels ş2020
 : .o .     N     _BECKER Phil                 Acier froid sur les poumons ş2013
@@ -1211,24 +1220,24 @@ o RIVBL    2189  2020.06 ..... ISBN 978-1-61227-986-2
 } rivb2189       _S‚bastien Fagot             ?
 - .oS.     R     _LIORAC Nicolas              Le Dit du mausol‚e ş2020
 o RIVBL    2190  2020.07 ..... ISBN 978-1-61227-988-6
-} rivbl2190      _Jean-Pierre Normand         ?
+} rivb2190       _Jean-Pierre Normand         ?
 - .oS.     R     _PROU Gil                   &Nyx et Thanatos ş2020
 &          R     _OKSANA                      
 o RIVBL    2191  2020.09 ..... ISBN 978-1-64932-001-8
-} rivbl2191      _Mike Hoffman                ?
+} rivb2191       _Mike Hoffman                ?
 - .o .     R     _ESSARD Manuel               Au nom du roi [Au nom du roi - 1/2] ş2020
 !--- Regroupe les deux romans FN plus une nouvelle in‚dite du cycle
 !: .o .     R     _ESSARD Manuel               De bitume et de sang [Au nom du roi - 1] ş1991
 !: .o .     R     _ESSARD Manuel               Une si jolie prison [Au nom du roi - 2] ş1991
 o RIVBL    2192  2020.10 ..... ISBN 978-1-64932-009-4
-} rivbl2192      _Jean-F‚lix Lyon             ?
+} rivb2192       _Jean-F‚lix Lyon             ?
 - .oS.     R     _FARLAN Pierre               Acc‚l‚ration [Humanit‚ stade terminal - 2] ş2020
 o RIVBL    2193  2020.11 ..... ISBN 978-1-64932-011-7
-} rivbl2193      _Barpov                      ?
+} rivb2193       _Barpov                      ?
 !--- 280 pages - 20 euros
 - .oS.     R     _GEVART Pierre               Les Jeux nobiliaires [Le Sommeil des dieux - 3] ş2020
 o RIVBL    2194  2020.12 ..... ISBN 978-1-64932-023-0
-} rivbl2194      _Grillon (Stephan MartiniŠre)
+} rivb2194       _Grillon (Stephan MartiniŠre)
 !--- GF - 212 pages - 20 euros
 !--- Roman … tiroir
 !--- Louis Thirion suivi de Dum‚ Antoni, Jean-Michel Archaimbault, Gilles Bergal, Alain Blondelon, Franck Cassilis, Cathy Coopman, Olivier Deparis,
@@ -1236,7 +1245,142 @@ o RIVBL    2194  2020.12 ..... ISBN 978-1-64932-023-0
 !--- Jean-Marc Lofficier, Randy Lofficier, Xavier Maum‚jean, Ya‰l-July Nahon, Oksana, Michel Pagel, Arnauld Pontier, Adam Possama‹, Gil Prou, Chantal Robillard,
 !--- Serge Rollet, Charles-Andronic Thirion, Philippe Ward et Laurent Whale.
 - .oS.     R     ****                         La Ronde de Glorvd ş2020
-
+!------------------------
+!=== 2021
+!------------------------
+o RIVBL    2195  2021.01 ..... ISBN 978-1-64932-026-1
+} rivb2195       _Mike Hoffman                ?
+!--- GF - 352 pages - 23 euros
+- .oS.     R     _MORINEAU Philippe           Les Concepteurs de destin‚es [Uchronomicon - 1] ş2021
+o RIVBL    2196  2021.02 ..... ISBN 978-1-64932-035-3
+} rivb2196       _Jean-Pierre Normand         ?
+!--- GF - 412 pages - 26 euros
+- .oS.     R     _BOUCHARD Nicolas            Le Temple du Milieu ş2021
+o RIVBL    2197  2021.03 ..... ISBN 978-1-64932-040-7
+} rivb2197       _W. Hagen                    ?
+!--- GF - 268 pages - 20 euros
+- .oS.     R     _BORIE Andr‚                 D‚anar de Fl‚rial [Masas Hirsingue] ş2021
+o RIVBL    2198  2021.04 ..... ISBN 978-1-64932-049-0
+} rivb2198       _Vincent Laik                ?
+!--- GF - 252 pages - 23 euros
+- .oS.     N16   _FLEURY Xavier-Marc          Oublier les ‚toiles ş2021
+: .o .     N     _FLEURY Xavier-Marc          La PremiŠre Quˆte ş2017
+: .o .     N     _FLEURY Xavier-Marc          Noir ş2017
+: .o .     N     _FLEURY Xavier-Marc          Les H‚bergeurs ş2014
+: .o .     N     _FLEURY Xavier-Marc          Soixante secondes chrono ş2018
+: .o .     N     _FLEURY Xavier-Marc          La Crique ş2017
+: .oS.     N     _FLEURY Xavier-Marc          Les Derniers Terriens ş2013
+: .o .     N     _FLEURY Xavier-Marc          La M‚tamorphose de Luna Moth ş2021
+: .o .     N     _FLEURY Xavier-Marc          Le Travail assassin‚ ş2021
+: .o .     N     _FLEURY Xavier-Marc          L'Ami secret ş2019
+: .o .     N     _FLEURY Xavier-Marc          Jeu de guerre ş2019
+: .o .     N     _FLEURY Xavier-Marc          Pourfendre les dragons ş2017
+: .o .     N     _FLEURY Xavier-Marc          vanescence ş2020
+: .o .     N     _FLEURY Xavier-Marc          Un cadeau presque parfait ş2021
+: .o .     N     _FLEURY Xavier-Marc          La Forˆt ş2021
+: .o .     N     _FLEURY Xavier-Marc          Immersion ş2021
+: .o .     N     _FLEURY Xavier-Marc          Oublier les ‚toiles ş2019
+o RIVBL    2199  2021.05 ..... ISBN 978-1-64932-056-8
+} rivb2199       _Frederic Leighton           ?
+!--- GF - 536 pages - 35 euros
+- .oS.     R     _OKSANA                     &Le Festin de Tisiphone ş2021
+&          R     _PROU Gil                    
+o RIVBL    2200  2021.06 ..... ISBN 978-1-64932-065-0
+} rivb2200       _Mike Hoffman                ?
+!--- GF - 248 pages - 20 euros
+- .oS.     RN    _LEGAY Piet                  Les Koboldoks ş2021
+: .oS.     R     _LEGAY Piet                  Les Koboldoks ş2021
+: .o .     N     _LEGAY Piet                  R‚plique mortelle ş2017
+o RIVBL    2201  2021.07 ..... ISBN 978-1-64932-082-7
+} rivb2201       _Mike Hoffman                ?
+!--- GF - 204 pages - 18 euros
+- .oS.     R     _CUIDET Arnaud               La Quˆte de Temple Blanc [Le Cr‚puscule des rois - 4] ş2021
+o RIVBL    2202  2021.08 ..... ISBN 978-1-64932-087-2
+} rivb2202       _Sarah G‚vart (fond : Nele-Diel & personnage : Krystal Camprubi)
+!--- GF - 292 pages - 22 euros
+- .oS.     R     _GEVART Pierre               L'Imp‚ratrice et le Cartographe [Le Sommeil des dieux - 4] ş2021
+o RIVBL    2203  2021.09 ..... ISBN 978-1-64932-091-9
+} rivb2203       _Jean-F‚lix Lyon             ?
+!--- GF - 384 pages - 26 euros
+- .oS.     R     _GEVART Pierre               La Cit‚ piŠge d'Eridan ş2021
+o RIVBL    2204  2021.10 ..... ISBN 978-1-64932-090-2
+} rivb2204       _Grillon                     ?
+!--- GF - 240 pages - 20 euros
+- .oS.     RN    _LEGAY Piet                  Citya Ramalek, Princesse Sangarie ş2021
+!--- TBD Citya Ramalek, Princesse Sangarie, ou L'Escorte
+: .oS.     R     _LEGAY Piet                  Citya Ramalek, Princesse Sangarie ş2021
+: .o .     N     _LEGAY Piet                  Autodestruction ş2013
+o RIVBL    2205  2021.11 ..... ISBN 978-1-64932-098-8
+} rivb2205       _Mike Hoffman                ?
+!--- GF - 388 pages - 25 euros
+- .oS.     R     _PARRINI Leina               L'p‚e Mange-Sort ş2021
+o RIVBL    2206  2021.12 ..... ISBN 978-1-64932-096-4
+} rivb2206       _Jean-F‚lix Lyon             ?
+!--- GF - 340 pages - 23 euros
+- .o .     R     _GAPDY Jean Christophe       Les Murailles du temps ş2021
+!------------------------
+!=== 2022
+!------------------------
+o RIVBL    2207  2022.01 ..... ISBN 978-1-64932-114-5
+} rivb2207       _Mike Hoffman                ?
+!--- GF - 332 pages - 24 euros
+- .oS.     R     _MORINEAU Philippe           La Guerre des Uchronautes [Uchronomicon - 2] ş2022
+o RIVBL    2208  2022.02 ..... ISBN 978-1-64932-115-2
+} rivb2208       _Vincent Biwer               ?
+!--- GF - 256 pages - 20 euros
+- .o .     R     _QUERO Yann                  Tous les fant“mes du soleil ş2022
+o RIVBL    2209  2022.03 ..... ISBN 978-1-64932-124-4
+} rivb2209       _Jean-F‚lix Lyon             ?
+!--- GF - 242 pages - 20 euros
+- .oS.     R     _DIONISIO Vincent            Kyuk ş2022
+o RIVBL    2210  2022.04 ..... ISBN 978-1-64932-127-5
+} rivb2210       _Marije Berting              ?
+!--- GF - 236 pages - 20 euros
+- .oS.     R     _OKSANA                     &Un cri dans l'abime ş2022
+&          R     _PROU Gil                    
+o RIVBL    2211  2022.05 ..... ISBN 978-1-64932-133-6
+} rivb2211       _Mike Hoffman                ?
+!--- GF - 176 pages - 18 euros
+- .oS.     R     _LEGAY Piet                  La R‚volte des Shangars ş2022
+o RIVBL    2212  2022.06 ..... ISBN 978-1-64932-140-4
+} rivb2212       _W. Hagen                    ?
+!--- GF - 240 pages - 20 euros
+- .oS.     R     _BORIE Andr‚                 La ColŠre de l'Antilan ş2022
+o RIVBL    2213  2022.07 ..... ISBN 978-1-64932-151-0
+} rivb2213       _Barpov                      ?
+!--- GF - 280 pages - 20 euros
+- .oS.     R     _GEVART Pierre               L'Homme de nulle part [Le Sommeil des dieux - 5] ş2022
+o RIVBL    2214  2022.08 ..... ISBN 978-1-64932-167-1
+} rivb2214       _Christophe Palma            ?
+!--- GF - 200 pages - 18 euros
+- .oY.     R     _RODRIGUEZ Raphael           Le Monarque noir [Le Monde de Xavi El Valent][La Saga de Xavi El Valent] ş2022
+o RIVBL    2215  2022.09 ..... ISBN 978-1-64932-155-8
+} rivb2215       _Adeline Martin              ?
+!--- GF - 320 pages - 22 euros
+- .oS.     R     _RENAUT Wilfried             Silvaxis ş2022
+o RIVBL    2216  2022.10 ..... ISBN 978-1-64932-160-2
+} rivb2216       _Adam Tredowski              ?
+!--- GF - 240 pages - 20 euros
+!--- Pr‚face Ugo Bellagamba
+- .oS.    kRN6   _CRUCIANI H‚lŠne             Dissonances sur Ga‹ta ş2022
+: .oS.     R     _CRUCIANI H‚lŠne             Dissonances sur Ga‹ta ş2022
+: .o .     N     _CRUCIANI H‚lŠne             Le Dilemne de Bokil ş2020
+: .oS.     N     _CRUCIANI H‚lŠne             Un Omamori rouge et or ş2022
+: .o .     N     _CRUCIANI H‚lŠne             Voiles de lumiŠre ş2019
+: .oS.     N     _CRUCIANI H‚lŠne             Pardon … Simov ş2022
+: .oS.     N     _CRUCIANI H‚lŠne             Une nuit sans ‚toiles ş2022
+: .o .     N     _CRUCIANI H‚lŠne             Promenez-vous avec le Petit Prince ş2018
+o RIVBL    2217  2022.11 ..... ISBN 978-1-64932-176-3
+} rivb2217       _Patricia Perry              ?
+!--- GF - 396 pages - 28 euros
+- .oS.     R     _COOPMAN Cathy               Enquˆtes cycladines ş2022
+o RIVBL    2218  2022.12 ..... ISBN 978-1-64932-175-6
+} rivb2218       _Jean-F‚lix Lyon             ?
+!--- GF - 300 pages - 22 euros
+- .o .     R     _GAPDY Jean Christophe       Vineta ş2022
+!------------------------
+!=== 2023
+!------------------------
 
 !-----------------------------------------------------------------------------
 !--- Collection Noire
@@ -1329,7 +1473,7 @@ o RIVBL_N     8  2008.02 ..... ISBN 978-1-934543-18-4
 - .oFG    _R2N17 _BERGAL Gilles               La Nuit des hommes-loups ş2008
 : .oG.     R     _BERGAL Gilles               Cauchemar … Staten Island ş1986
 : .o .     R     _BERGAL Gilles               La Nuit des hommes-loups ş[1988],2008
-: .o .    _N17   _BERGAL Gilles               Cr‚atures des t‚nŠbres ş1985-2008
+: .oF.    _N17   _BERGAL Gilles               Cr‚atures des t‚nŠbres ş1985-2008
 = .oF.     N     _BERGAL Gilles               Les Profanateurs ş1982
 = .oF.     N     _BERGAL Gilles               Tu viens ch‚ri ? ş1985
 = .oF.     N     _BERGAL Gilles               L'Œle sous le brouillard ş1985
@@ -1341,60 +1485,60 @@ o RIVBL_N     8  2008.02 ..... ISBN 978-1-934543-18-4
 = .oF.     N     _BERGAL Gilles               Le Chat ş1981
 = .oF.     N     _BERGAL Gilles               L'tincelle ş1985
 = .oF.     N     _BERGAL Gilles               Gros b‚b‚ ş1980
-= .oF.     N     _BERGAL Gilles               Les Hordes du brouillard ş1983
+= .oF.     N     _BERGAL Gilles               Les Hordes du brouillard ş1982
 = .oF.     N     _BERGAL Gilles               L'Appel de la banshee ş1976
 = .oF.     N     _BERGAL Gilles               Print : Magie Noire ş1985
-= .oF.     N     _BERGAL Gilles               Le Masque de haine ş1981
+= .oF.     N     _BERGAL Gilles               Le Masque de haine ş1980
 = .oF.     N     _BERGAL Gilles               Le Mort aux dents digne d'un don ş1974
-= .oF.     N     _BERGAL Gilles               La Statuette ş1978
+= .oF.     N     _BERGAL Gilles               La Statuette ş1980
 o RIVBL_N     9  2008.xx ..... ISBN 978-1-934543-08-5
 } rivbn09        _?                           N
 - .pF.     A22   *LOFFICIER Jean-Marc         Les Compagnons de l'ombre - 1 ş2008
 !--- A priori partiellement hors-genre (mais r‚pertori‚ sur ISFDB ?)
-: .o .     p     _LOFFICIER Jean-Marc         M‚moires d'un ex-compagnon de l'ombre ş2008
+: .o .     a     _LOFFICIER Jean-Marc         M‚moires d'un ex-compagnon de l'ombre ş2008
 : .o .     N     _BAUGH Matthew               Le Masque du monstre ş2005 Mask of the Monster
+!--- Pr‚publi‚ traduit, "The Tarot of Fant“mas"
 : .o .     N     _LOFFICIER Jean-Marc         Le Tarot de Fant“mas ş2006
-!--- The Tarot of Fant“mas
 : .o .     N     _DICKS Terrance              Quand Lemmy rencontre Jules ş2005 When Lemmy Met Jules
+!--- Pr‚publi‚ traduit, "Figaro's Children"
 : .o .     N     _LOFFICIER Jean-Marc         Les Petits de Figaro ş2006
-!--- Figaro's Children
 : .o .     N     _NEWMAN Kim                  Les Anges de la musique [Les Anges de la musique - 1] ş2005 Angels of Music
+!--- Pr‚publi‚ traduit, "ArsŠne Lupin's Christmas"
 : .o .     N     _LOFFICIER Jean-Marc         Le No‰l d'ArsŠne Lupin ş2006
-!--- ArsŠne Lupin's Christmas
 : .o .     N     _PEEL John                   Le Tortionnaire au grand coeur ş2005 The Kind-Hearted Torturer
+!--- Pr‚publi‚ traduit, "The Star Prince"
 : .o .     N     _LOFFICIER Jean-Marc         Le Prince des ‚toiles ş2006
-!--- The Star Prince
 : .o .     N     _ROBERSON Chris              P‚nombre ş2005 Penumbra
+!--- Pr‚publi‚ traduit, "Lost and Found"
 : .o .     N     _LOFFICIER Jean-Marc         Objets trouv‚s ş2006
-!--- Lost and Found
 : .o .     N     _MENGEL Brad                 En amour comme … la guerre... ş2006 All's Fair...
-: .o .     N     _LOFFICIER Jean-Marc        &ArsŠne Lupin arrive trop tard ş2005
+: .!P.     N     _LOFFICIER Jean-Marc        &ArsŠne Lupin arrive trop tard ş2005
 &                _LOFFICIER Randy             
 : .o .     N     _MAUMEJEAN Xavier            Bonjour chez vous! ş2005
-!--- Be Seeing You!
-: .o .     N     _LOFFICIER Jean-Marc         La Plus Douloureuse des blessures ş2005
+!--- Pr‚publi‚ traduit, "Be Seeing You!"
+: .!P.     N     _LOFFICIER Jean-Marc         La Plus Douloureuse des blessures ş2005
 : .o .     N     _LOFFICIER Jean-Marc         On n'‚chappe pas au coup de foudre ş2005
+!--- Pr‚publi‚ traduit, "The Vanishing Diamonds"
 : .o .     N     _MILLER Sylvie              &Les Ferrets invisibles ş2005
-!--- The Vanishing Diamonds
 &                _WARD Philippe               
 : .o .     N     _LOFFICIER Jean-Marc         Marguerite ş2005
 : .o .     N     _ECKERT Win Scott            L'Oeil d'Oran [Doc Ardan] ş2006 The Eye of Oran
 : .o .     N     _CUNNINGHAM Bill             Traumatisme ş2005 Trauma
+!--- Pr‚publi‚ traduit, "The Murder of Randolph Carter"
 : .o .     N     _LOFFICIER Jean-Marc         Le Meurtre de Randolph Carter ş2006
-!--- The Murder of Randolph Carter
 : .o .     N     _SHECKLEY Robert             L'Horloge Paris-GanymŠde ş2005 The Paris-Ganymede Clock
-: .o .     N     _LEHMAN Serge                Les Melons de Trafalmadore ş2005
-!--- The Melons of Trafalmadore
+!--- Pr‚publi‚ traduit, "The Melons of Trafalmadore"
+: .oS.     N     _LEHMAN Serge                Les Melons de Trafalmadore [Le Docteur Om‚ga] ş2005
 o RIVBL_N    10  2008.06 ..... ISBN 978-1-934543-32-0
 } rivbn10        _?                           N
 - .pF.    kA12   *LOFFICIER Jean-Marc         Les Compagnons de l'ombre - 2 ş2008
 !--- Pr‚face: L'Entente Cordiale des Ombres
 : .o .     N     _GICK G.L.                   Le Loup-Garou de Rutherford Grange [Sƒr Dubnotal]+[Harry Dickson] ş2005 The Werewolf of Rutherford Grange
-: .o .     N     _BAUGH Matthew               Le Coeur de la Lune ş2006 The Heart of the Moon
-: .o .     N     _ROBERSON Chris              Annus Mirabilis ş2005 Annus Mirabilis
-: .o .     N     _HILTZ Travis                Trois hommes, un Martien et un couffin ş2008 Three Men, A Martian and a Baby
-: .o .     N     _MOORCOCK Michael            L'Affaire du Bassin des Hivers ş2006 The Affair of the Bassin Les Hivers
-: .o .     N     _HILTZ Travis                La Danse de la Nuit et de la Mort ş2006 A Dance of Night and Death
+: .o .     N     _BAUGH Matthew               Le Coeur de la Lune [Le Docteur Om‚ga] ş2006 The Heart of the Moon
+: .oS.     N     _ROBERSON Chris              Annus Mirabilis [Le Docteur Om‚ga] ş2006 Annus Mirabilis şTrad. ?
+: .o .     N     _HILTZ Travis                Trois hommes, un Martien et un couffin [Le Docteur Om‚ga] ş2008 Three Men, A Martian and a Baby
+: .o .     N     _MOORCOCK Michael            L'Affaire du Bassin des Hivers ş2007 The Affair of the Bassin Les Hivers
+: .o .     N     _HILTZ Travis                La Danse de la nuit et de la mort ş2006 A Dance of Night and Death
 : .o .     N     _ROBINSON Robert L.          Deux chasseurs ş2006 Two Hunters
 : .o .     N     _LOFFICIER Jean-Marc         Les Yeux de son pŠre ş2006
 : .o .     N     _LOFFICIER Randy             La Princesse r‚calcitrante ş2008
@@ -1507,13 +1651,13 @@ o RIVBL_N    18  2010.02 ..... ISBN 978-1-935558-08-8
 : .o .     o     _CURVAL Philippe             Promenades avec la mort, l'amour et l'humour ş2010
 o RIVBL_N    19  2010.03 ..... ISBN 978-1-935558-21-7
 } rivbn19        _LEMAIRE Philippe            N
-- .oPF     R     _KHARA David S.              Les Vestiges de l'aube ş2010
+- .oPF     R     _KHARA David S.              Les Vestiges de l'aube [Barry Donovan - 1] ş2010
 o RIVBL_N    20  2010.06 ..... ISBN 978-1-935558-52-1
 } rivbn20        _SERRA Daniele               N
 - .pF.     A16   *LOFFICIER Jean-Marc         Les Compagnons de l'ombre - 6 ş2010
 : .oF.     N     _LEGRAND Olivier             Lost in Averoigne ş2009
+!--- Pr‚publi‚ traduit, "The Three Lives of Magdalena"
 : .oF.     N     _STEPHAN Michel              Les Trois Vies de Maddalena ş2009
-!--- The Three Lives of Magdalena
 : .o .     N     _HARRIS Micah                Les Damn‚s de la Terre ş2009 May the Ground Not Consume Thee...
 : .o .     N     _PENSWICK Neil               La Petite Vampire ş2009 The Vampire Murders
 : .o .     N     _NEVINS Jess                 La Mission de Lecoq ş2009 A Root that Beareth Gall and Worms
@@ -1523,15 +1667,15 @@ o RIVBL_N    20  2010.06 ..... ISBN 978-1-935558-52-1
 : .o .     N     _CAREY Christopher Paul     &De fer et de bronze [Doc Ardan] ş2009 Iron and Bronze
 &                _ECKERT Win Scott            
 : .o .     N     _PEEL John                   L'Arme fatale [Doc Ardan] ş2009 The Biggest Guns
+!--- Pr‚publi‚ traduit, "Out of time"
 : .o .     N     _GORLIER Emmanuel            Nyctalope, si tu savais... ş2009
-!--- Out of time
 : .o .     N     _LEARY Roman                 Les Enfants d'Hercule [Le Nyctalope] ş2009 The Children of Heracles
 : .o .     N     _MAYNARD William Patrick     Le No‰l de Fant“mas ş2009 Yes Virginia There Is a Fant“mas
 : .o .     N     _LAI Rick                    Un incident pendant la guerre des Boers ş2009 Incident in the Boer War
+!--- Pr‚publi‚ traduit, "The Spear of Destiny"
 : .o .     N     _LOFFICIER Randy             La Lance de Longinus ş2009
-!--- The Spear of Destiny
+!--- Pr‚publi‚ traduit, "J.C. in Alphaville"
 : .o .     N     _LOFFICIER Jean-Marc         Le Monstre sacr‚ ş2008
-!--- J.C. in Alphaville
 o RIVBL_N    21  2010.08 ..... ISBN 978-1-935558-59-0
 } rivbn21        _FERNANDEZ Fabien            N
 - .oF.    kAx    _BOUSQUET Charlotte          Lettres aux t‚nŠbres et autres r‚cits vampiriques ş2010
@@ -1604,7 +1748,7 @@ o RIVBL_N    25  2011.01 ..... ISBN 978-1-935558-84-2
 - .oF.     R     _SADOUL Jacques              Le Miroir de Drusilla ş2011
 o RIVBL_N    26  2011.03 ..... ISBN 978-1-935558-92-7
 } rivbn26        _Philippe Lemaire            ?
-- .oF.     R     _LEMAIRE Philippe           &... Ceci est mon sang [Radu Dracula - 1] ş2011
+- .oF.     R     _LEMAIRE Philippe           &... Prenez et buvez, ceci est mon sang ! [Radu Dracula - 1] ş2011
 &                _WARD Philippe               
 o RIVBL_N    27  2011.04 ..... ISBN 978-1-61227-001-2
 } rivbn27        _Arnaud Demaegd              ?
@@ -1689,10 +1833,11 @@ o RIVBL_N    35  2011.12 ..... ISBN 978-1-61227-066-1
 } rivbn35        _SERRA Daniele               ?
 - .oF.     N14   _ARCHAIMBAULT Jean-Michel    Requiem pour ƒmes d'ombre ş2011
 !--- Pr‚face d'Anne Dugu‰l
+!--- TBD si un texte "L'histoire du lapin" avant "La Fraternit‚ de Molua"
+!--- En annexe : "Une Acad‚mie pour Perry Rhodan"
 : .o .     N     _ARCHAIMBAULT Jean-Michel    Les Jeux d'une ƒme d'ombre ş2011
 : .o .     N     _ARCHAIMBAULT Jean-Michel    La Faute aux fus‚es ş2011
 : .o .     N     _ARCHAIMBAULT Jean-Michel    Les Angles interdits ş2011
-!--- ?? : .o .     N     _ARCHAIMBAULT Jean-Michel    L'histoire du lapin ş2011
 : .o .     N     _ARCHAIMBAULT Jean-Michel    La Fraternit‚ de Molua ş2011
 : .o .     N     _ARCHAIMBAULT Jean-Michel    Dix de la masse critique ş2011
 : .o .     N     _ARCHAIMBAULT Jean-Michel    L'Appel ş2011
@@ -1704,7 +1849,6 @@ o RIVBL_N    35  2011.12 ..... ISBN 978-1-61227-066-1
 : .o .     N     _ARCHAIMBAULT Jean-Michel    Krynn ş2011
 : .o .     N     _ARCHAIMBAULT Jean-Michel    Wuellig ş2011
 : .o .     N     _ARCHAIMBAULT Jean-Michel    Requiem pour ƒmes d'ombre ş2011
-!--- Annexe : Une Acad‚mie pour Perry Rhodan
 !------------------------
 !=== 2012
 !------------------------
@@ -1763,7 +1907,7 @@ o RIVBL_N    37  2012.xx ..... ISBN 978-1-61227-081-4
 : .o .     N     _DUGUEL Anne                 Satan ş2012
 : .o .     N     _DUGUEL Anne                 Little Alice ş1995
 : .o .     N     _DUGUEL Anne                 O temps suspends ton vol ş2012
-: .o .     N     _DUGUEL Anne                 Mademoiselle Irma ş2012
+: .o .     N     _DUGUEL Anne                 Mademoiselle Irma ş2002
 : .o .     N     _DUGUEL Anne                 La Belle et la Bˆte ş2012
 : .o .     N     _DUGUEL Anne                 Les f‚es en vos palais r‚pandront leur bouquet ş2006
 : .o .     N     _DUGUEL Anne                 La Passeuse ş2012
@@ -1805,13 +1949,30 @@ o RIVBL_N    41  2012.06 ..... ISBN 978-1-61227-108-8
 : .o .     N     _LOFFICIER Jean-Marc         Les Ides de Mars [Le Nyctalope] ş2012
 o RIVBL_N    42  2012.07 ..... ISBN 978-1-61227-120-0
 } rivbn42        _WALLON Christian            ?
-- .oF.    iNx    ****                         L'Antre des sorciers ş2012
-!--- En collaboration avec le concours de nouvelles de la mairie de Chalabre
-!--- sur le thŠme de la sorcellerie
-: .o .     N     _GAILLARD Fr‚d‚ric           Dans les cheveux de la sorciŠre ş2012
+>--- Recueil du concours de nouvelles de Chalabre 2012
+>--- En partenariat avec la mairie de Chalabre
+>--- Textes s‚lectionn‚s par Philippe Ward, Christian Guilhamat, No‰lle Danjou, MarylŠne Arens, Fran‡oise Delamare, Pierre Fonta et Jean-Mare Lofficier.
+- .oF.    _N19   ****                         L'Antre des sorciers ş2012
+: .o .     N     _CALVET Jean-Marie           Les P‚trifi‚s ş2012
+: .o .     N     _HIRSON Gregory              La Page d‚chir‚e ş2012
 : .o .     N     _SIMON Val‚rie               Le Sourcier et la jeune fille au bord du grouffre ş2012
+: .o .     N     _ARNOT                       Rencontre en Ombrie ş2012
 : .o .     N     _DEROUAULT Christophe        La SorciŠre ş2012
+: .o .     N     _VIEILFAULT Guy              Le Corbeau de Saint-Elme ş2012
+: .o .     N     _EVEN                        Le Piment bleu ş2012
+: .o .     N     _BASSELIER Pascale           Ma nuit chez une sorciŠre ş2012
+: .o .     N     _GEOFFRAY Sylvie             Sors Immanis ş2012
+: .o .     N     _PICOT J‚r“me                Jojo … l'‚cole des sorciers ş2012
+: .o .     N     _GUERVENO Yannick            La Mort d'un sorcier n'est pas la mort du Diable ş2012
+: .o .     N     _GAILLARD Fr‚d‚ric           Dans les cheveux de la sorciŠre ş2012
 : .o .     N     _VERGES Valentin             Le Fl–tiste ş2012
+: .o .     N     _BAGES Sylvie                Araign‚e, poignard, goules et autres brigands ş2012
+: .o .     N     _TOURNIER Pierrette          Chagrin d'amour ş2012
+: .o .     N     _GOOSSENS V‚ronique          Petits sorts entre amis ş2012
+: .o .     N     _GILBERT Jean-Marc           La Lune s'en va ş2012
+: .o .     N     _KHEFIF Tom                  Le Rocher imprenable ş2012
+: .o .     N     _GONCALVEZ C‚cilia          &Effrayant tˆte-…-tˆte ş2012
+&                _BOULBET Ma‹a                
 o RIVBL_N    43  2012.08 ..... ISBN 978-1-61227-125-5
 } rivbn43        _TUIS Alex                   ?
 !--- Entretien par Georges Nahon
@@ -1923,7 +2084,7 @@ o RIVBL_N    54  2013.xx ..... ISBN 978-1-61227-212-2
 : .oT.     N     _STEPHAN Michel              La MaŒtresse du Haut-Chƒteau [Mme Atomos] ş2012
 o RIVBL_N    55  2013.xx ..... ISBN 978-1-61227-225-2
 } rivbn55        _LEMAIRE Philippe            ?
-- .oF.     R     _LEMAIRE Philippe            L'Un de vous me livrera ! [Radu Dracula - 3] ş2013
+- .oF.     R     _LEMAIRE Philippe            L'un de vous me livrera ! [Radu Dracula - 3] ş2013
 o RIVBL_N    56  2013.10 ..... ISBN 978-1-61227-220-7
 } rivbn56        _GENKIS & SEV                ?
 - .pF.     A25   *LOFFICIER Randy             L'Ombre de Judex ş2013
@@ -1934,7 +2095,7 @@ o RIVBL_N    56  2013.10 ..... ISBN 978-1-61227-220-7
 : .o .     N     _DENNION Matthew             La Qualit‚ de la vengeance ş2013 The Quality of Vengeance
 : .o .     N     _GORLIER Emmanuel            Judex ab Chaos ş2013
 : .o .     N     _BAUGH Matthew               Le Masque du monstre ş2005 Mask of the Monster
-: .o .     N     _LOFFICIER Jean-Marc         Objets trouv‚s ş2005
+: .o .     N     _LOFFICIER Jean-Marc         Objets trouv‚s ş2006
 : .o .     N     _ROBINSON Robert L.          Deux chasseurs ş2006 Two Hunters
 : .o .     N     _BAUGH Matthew               Les Gargouilles de Notre-Dame ş2013 The Gargoyles of Notre-Dame
 : .o .     N     _ROBERSON Chris              P‚nombre ş2005 Penumbra
@@ -1948,7 +2109,7 @@ o RIVBL_N    56  2013.10 ..... ISBN 978-1-61227-220-7
 : .o .     N     _BOVING Nicholas             Le Talisman ş2013 The Talisman
 : .o .     N     _DENNION Matthew             Une session d'entraŒnement ş2013 Training Day
 : .o .     N     _POWER Dennis E.             Le Codex Judex ş2013 The Judex Codex 
-: .o .     N     _NIGRO Christofer            L'Oeil de l'homme-tigre [Judex]|[F‚lifax] ş2013 Eye of the Tiger-Man
+: .o .     N     _NIGRO Christofer            L'Oeil de l'homme-tigre [Judex]+[F‚lifax] ş2013 Eye of the Tiger-Man
 : .o .     N     _LAI Rick                    Le Verdict de Judex ş2013 Judex Rules
 : .o .     N     _GALLAGHER John              Judex vs. Belphegor ş2013 Judex vs. Belphegor
 : .o .     N     _HUISSIER Romain d'          Un billet pour Thul‚ ş2011
@@ -2051,7 +2212,7 @@ o RIVBL_N    67  2014.09 ..... ISBN 978-1-61227-339-6
 } rivbn67        _LADRONN J.O.                ?
 - .pF.     Ax    *LOFFICIER Jean-Marc         Les Compagnons de l'ombre - 15 ş2014
 : .o .     N     _BAUGH Matthew               La Quˆte des Vourdalaques ş2013 Quest of the Vourdalaki
-: .o .     N     _DENNION Matthew             Rira bien qui rira le dernier ş2013 He Who Laughs Last
+: .o .     N     _DENNION Matthew             Rira bien qui rira le dernier ş2013 He who Laughs Last
 : .o .     N     _LAI Rick                    La Marque d'une femme ş2013 The Mark of a Woman
 : .o .     N     _GALLAGHER Brian             La Cit‚ des Nosferatu ş2013 City of the Nosferatu
 : .o .     N     _LOFFICIER Jean-Marc         Le No‰l de l'Aiglon ş2014
@@ -2071,11 +2232,11 @@ o RIVBL_N    68  2014.xx ..... ISBN 978-1-61227-342-6
 : .o .     N     _LAI Rick                    La Renaissance du vampire ş2011 Vampire Renaissance
 : .o .     N     _WELCH Jared                 La Vampire de La Nouvelle-Orl‚ans ş2013 The Vampire of New Orleans
 !--- CARMILLA
-: .o .     N     _STEPHAN Michel              Les Trois Vies de Maddalena ş2014
+: .oF.     N     _STEPHAN Michel              Les Trois Vies de Maddalena ş2009
 !--- LE CAPITAINE VAMPIRE
 : .o .     N     _BAUGH Matthew               La Quˆte des Vourdalaques ş2013 Quest of the Vourdalaki
 !--- LA VILLE-VAMPIRE
-: .o .     N     _BAUGH Matthew               Le Coeur de la Lune ş2006 The Heart of the Moon
+: .o .     N     _BAUGH Matthew               Le Coeur de la Lune [Le Docteur Om‚ga] ş2006 The Heart of the Moon
 : .o .     N     _GALLAGHER Brian             La Cit‚ des Nosferatu ş2013 City of the Nosferatu
 !--- DRACULA
 : .o .     N     _LAI Rick                    Tous les pr‚dateurs du monde... ş2009 All Predators Great and Small
@@ -2089,7 +2250,7 @@ o RIVBL_N    68  2014.xx ..... ISBN 978-1-61227-342-6
 !--- LE VAMPIRE CONTRE LES NAZIS
 : .o .     N     _McDONALD David              Le Moindre des maux ş2013 The Lesser of Two Evils
 !--- LA COMTESSE BATHORY
-: .o .     N     _ECKERT Win Scott            Les LŠvres rouges ş2007 Les LŠvres Rouges
+: .o .     N     _ECKERT Win Scott            Les LŠvres rouges [Doc Ardan] ş2007 Les LŠvres Rouges
 !--- LA COMTESSE CARODY
 : .o .     N     _ECKERT Win Scott            L'Invitation de Nadine ş2010 Nadine's Invitation
 : .o .     N     _ECKERT Win Scott            Les Larmes de Marguerite ş2011 Marguerite's Tears
@@ -2176,7 +2337,7 @@ o RIVBL_N    79  2015.09 ..... ISBN 978-1-61227-428-7
 : .o .     N     _GALLAGHER Brian             Le ProcŠs de Van Helsing [Van Helsing] ş2014 The Trial of Van Helsing
 !--- DRACULA
 : .o .     N     _CARDNO Anthony R.           Tant nous ont quitt‚s ş2013 So Much Loss
-: .o .     N     _MORLOCK Frank J.            L'Aventure du vampire bienveillant ş2004 The Adventure of The Beneficent Vampire
+: .o .     N     _MORLOCK Frank J.            L'Aventure du vampire bienveillant ş2004 The Adventure of the Beneficent Vampire
 !--- KOSCHEI L'IMMORTEL
 : .o .     N     _McDONALD David              La Comtesse d'Odessa ş2012 The Girl from Odessa
 !--- MRS. STONE
@@ -2195,7 +2356,7 @@ o RIVBL_N    79  2015.09 ..... ISBN 978-1-61227-428-7
 !--- HARRY DICKSON CONTRE LES VAMPIRES
 : .o .     N     _PENSWICK Neil               La Petite Vampire ş2009 The Vampire Murders
 !--- LES VAMPIRES DE LOUIS FEUILLADE
-: .o .     N     _HILTZ Travis                La Danse de la nuit et de la mort ş2007 A Dance of Night and Death
+: .o .     N     _HILTZ Travis                La Danse de la nuit et de la mort ş2006 A Dance of Night and Death
 o RIVBL_N    80  2015.10 ..... ISBN 978-1-61227-459-1
 } rivbn80        _BARBIER Ren‚                ?
 - .oF.     R     _BAUDOU Jacques              Au grenier des sortilŠges ş2015
@@ -2207,8 +2368,8 @@ o RIVBL_N    82  2015.12 ..... ISBN 978-1-61227-473-7
 - .oF.     RN9   _ROLLET Serge                Le Dieu sans nom ş2015
 : .o .     p     _UNBEKANNT Artikel           Pr‚face ş2015
 : .o .     R     _ROLLET Serge                Le Dieu sans nom ş2015
-: .o .     N     _ROLLET Serge                L'Ennemi ancien ş2015
-: .o .     N     _ROLLET Serge                L'Ombre des docks ş2015
+: .o .     N     _ROLLET Serge                L'Ennemi ancien ş1999
+: .o .     N     _ROLLET Serge                L'Ombre des docks ş1994
 : .o .     N     _ROLLET Serge                Baphomet ş1994
 : .o .     N     _ROLLET Serge                Le Portrait ş2015
 : .o .     N     _ROLLET Serge                L'tranger ş1998
@@ -2356,7 +2517,7 @@ o RIVBL_N    91  2016.09 ..... ISBN 978-1-61227-567-3
 : .o .     N     _UNBEKANNT Artikel           Ali‚nation [Alien] ş2016
 : .o .     N     _UNBEKANNT Artikel           Le Masque et la marque [L‚onox]+[M‚phista] ş2014
 : .o .     N     _UNBEKANNT Artikel           Le P‚ril jaune ş2016
-: .o .     N     _UNBEKANNT Artikel           Travaux forc‚s [Panth‚ra] ş2019
+: .o .     N     _UNBEKANNT Artikel           Travaux forc‚s [Panth‚ra] ş2016
 : .C .     C     _***                         No future ş2016
 : .oF.     N     _UNBEKANNT Artikel           Japon, ann‚e z‚ro ş2014
 : .o .     N     _UNBEKANNT Artikel           Angst ş2014
@@ -2469,7 +2630,7 @@ o RIVBL_N   104  2017.11 ..... ISBN 978-1-61227-678-6
 : .o .     N     _ROSSELET Dola               Dans la taniŠre du loup ş2017
 : .o .     N     _ROSSELET Dola               Deus ex machina ş2017
 : .o .     N     _ROSSELET Dola               Trois ‚toiles ş2017
-: .o .     N     _ROSSELET Dola               Exode ş2017
+: .o .     N     _ROSSELET Dola               Exode ş2016
 : .o .     N     _ROSSELET Dola               Exploration ş2017
 : .o .     N     _ROSSELET Dola               A en mourir ş2015
 : .o .     N     _ROSSELET Dola               Enfantillages ş2017
@@ -2479,7 +2640,7 @@ o RIVBL_N   104  2017.11 ..... ISBN 978-1-61227-678-6
 : .o .     N     _ROSSELET Dola               Princesses ş2017
 : .o .     N     _ROSSELET Dola               Devenir gris ş2017
 : .o .     N     _ROSSELET Dola               L'Alpha et l'Om‚ga ş2017
-: .o .     N     _ROSSELET Dola               FrŠres d'A(r)mes ş2015
+: .o .     N     _ROSSELET Dola               FrŠres d'A(r)mes ş2014
 o RIVBL_N   105  2017.12 ..... ISBN 978-1-61227-710-3
 } noimg          _Philippe Lemaire            ?
 - .oF.     R     _LEMAIRE Philippe            Pleine Lune [Moras, la mal‚diction - 1] ş2017
@@ -2522,7 +2683,7 @@ o RIVBL_N   110  2018.05 ..... ISBN 978-1-61227-747-9
 : .o .     N     _ROLLET Serge                L‚o ş2018
 : .o .     N     _ROLLET Serge                M‚tamorphoses ş2018
 : .o .     N     _ROLLET Serge                L'Anneau de Seth ş2018
-: .o .     N     _ROLLET Serge                Le Dernier des Mok‚l‚s ş2018
+: .o .     N     _ROLLET Serge                Le Dernier des Mok‚l‚s ş2003
 : .o .     N     _ROLLET Serge                Dans le reflux du temps ş2018
 : .o .     N     _ROLLET Serge                Nettoyeur de tranch‚es ş2018
 : .o .     N     _ROLLET Serge                La Mort sinueuse ş2018
@@ -2613,7 +2774,7 @@ o RIVBL_N   117  2018.12 ..... ISBN 978-1-61227-770-7
 : .o .     N     _GALLAGHER John              Les Princes de l'univers ş2017 Princes of the Universe
 : .o .     N     _LAI Rick                    La Mascarade du fant“me ş2017 Phantom Masquerade
 : .o .     N     _GATELY Martin               Rouletabille … Londres [Rouletabille] ş2017 Rouletabille at the Old Bailey
-: .o .     N     _NIGRO Christofer            Des bˆtes du mˆme acabit [Judex]|[F‚lifax] ş2017 Kindred Beasts
+: .o .     N     _NIGRO Christofer            Des bˆtes du mˆme acabit [Judex]+[F‚lifax] ş2017 Kindred Beasts
 : .o .     N     _VINEYARD David L.           Le TroisiŠme Oeil d'Osiris ş2017 The Third Eye of Osiris
 : .o .     N     _ILSEMAN Matthew             La Visite guid‚e d'endroits secrets ş2017 Guided Tours of Famous Secret Places
 : .o .     N     _HUGLI Paul                  La Nuit du plein soleil [Le Nyctalope] ş2017 The Night of the Dazzling Sun
@@ -2645,14 +2806,14 @@ o RIVBL_N   119  2019.02 ..... ISBN 978-1-61227-843-8
 o RIVBL_N   122  2019.05 ..... ISBN 978-1-61227-844-5
 } rivbn122       _Mike Shoyket                ?
 - .pF.    kN13   *LOFFICIER Jean-Marc         Les Compagnons de l'ombre - 25 ş2019
-: .oY.     N     _DAVY John                   L'Orgue des os [Setni, enquˆteur temporel]+[Titus Crow] ş? ?
+: .oY.     N     _DAVY John                   L'Orgue des os [Setni, enquˆteur temporel]+[Titus Crow] ş2017 An Organ of Bones
 : .oS.     N     _LANUQUE Jean-Guillaume      Les D‚dales de Lucretius ş2018
 : .oS.     N     _CABANISS Nathan             Un h‚ros de deux mondes ş2017 Hero of Two Worlds
 : .o .     N     _PEEL John                   Le Dieu des bas-fonds [Carnacki] ş2018 The Gutter God
 : .o .     N     _HILTZ Travis                R‚union de famille ş2016 Family Reunion
 : .o .     N     _JOBY Gulzar                 La science outrag‚e, la science assassin‚e ! Que font les autorit‚s ? ş2018
 : .o .     N     _HILTZ Travis                L'Affaire du reste … voir ş2017 The Case of the Remains to Be Seen
-: .o .     N     _SCHILDINER Frank            Irma Vep et le cottage de la mort ş2018 Irma Vep and the Cottage of Doom
+: .o .     N     _SCHILDINER Frank            Irma Vep et le cottage de la mort [Irma Vep] ş2018 Irma Vep and the Cottage of Doom
 : .o .     N     _VINEYARD David L.           Le Vol de l'aspic d'or [Fu Manchu] ş2018 The Theft of the Golden Asp
 : .o .     N     _NIGRO Christofer            L'Alliance anti-Adonis [Judex] ş2018 The Anti-Adonis Alliance
 : .o .     N     _BEZECNY Adam Mudman         La Mal‚diction d'Orlac [Sƒr Dubnotal] ş2017 The Curse of Orlac
@@ -2660,11 +2821,11 @@ o RIVBL_N   122  2019.05 ..... ISBN 978-1-61227-844-5
 : .o .     N     _MALCOLM Nigel               Les Lendemains du Nyctalope [Le Nyctalope] ş2017 Tomorrow Belongs to the Nyctalope
 o RIVBL_N   123  2019.06 ..... ISBN 978-1-61227-878-0
 } rivbn123       _Mandy                       ?
-- .F .     R     _GAYRAUD S‚bastien           Galerie Noir ş2018
+- .oF.     R     _GAYRAUD S‚bastien           Galerie Noir ş2018
 o RIVBL_N   124  2019.07 ..... ISBN 978-1-61227-869-8
 } rivbn124       _Grillon                     ?
+!--- Traducteurs BLOND Martine, LOFFICIER Jean-Marc et PUJOL Lisa
 - .oF.    kN7    _GALLAGHER Brian             Le Retour du Capitaine Vampire ş2019
-!--- şTrad. BLOND Martine, LOFFICIER Jean-Marc et PUJOL Lisa
 : .oF.     p     _STABLEFORD Brian M.         Introduction ş2019
 : .oF.     N     _GALLAGHER Brian             La Cit‚ des Nosferatu ş2013 City of the Nosferatu
 : .oF.     N     _GALLAGHER Brian             Le ProcŠs de Van Helsing [Van Helsing] ş2014 The Trial of Van Helsing
@@ -2675,6 +2836,7 @@ o RIVBL_N   124  2019.07 ..... ISBN 978-1-61227-869-8
 : .oF.     N     _GALLAGHER Brian             Le Pr‚sident Vampire ş2019 The Vampire Candidate
 o RIVBL_N   125  2019.08 ..... ISBN 978-1-61227-891-9
 } rivbn125       _Phil Cohen                  ?
+!--- TBD : "Le L‚murien qui faisait des claquettes" au lieu de "qui dansait"
 - .pIP    kN13   _FAIVRE D'ARCIER Jeanne      Monsieur Boum-Boum ş2019
 : .o .     N     _FAIVRE D'ARCIER Jeanne      Monsieur Boum-Boum ş2000
 : .? .     N     _FAIVRE D'ARCIER Jeanne      Alice au pays des droits de l'homme ş2001
@@ -2686,7 +2848,6 @@ o RIVBL_N   125  2019.08 ..... ISBN 978-1-61227-891-9
 : .oT.     N     _FAIVRE D'ARCIER Jeanne      Yaksini ş2001
 : .oF.     N     _FAIVRE D'ARCIER Jeanne      Les Trompettes de l'archange ş2006
 : .oF.     N     _FAIVRE D'ARCIER Jeanne      L'Alchimie des soupirs ş2004
-!--- TBD : "qui faisait" au lieu de "qui dansait"
 : .o .     N     _FAIVRE D'ARCIER Jeanne      Le L‚murien qui dansait des claquettes ş2006
 : .o .     N     _FAIVRE D'ARCIER Jeanne      N'oublie pas les nuits du Caire ş2001
 : .oF.     N     _FAIVRE D'ARCIER Jeanne      Faustina ş1999
@@ -2783,7 +2944,7 @@ o RIVBL_N   136  2020.07 ..... ISBN 978-1-61227-985-5
 - .oF.     R     _ANTONI Dum‚                 Le Serpent autour de l'‚toile ş2020
 o RIVBL_N   137  2020.09 ..... ISBN 978-1-61227-998-5
 } rivbn137       _Mike Hoffman                ?
-- .o .    kN14   _LAMUR Sylvain               Un voyageur de passage ş2020
+- .oF.    kN14   _LAMUR Sylvain               Un voyageur de passage ş2020
 : .o .     N     _LAMUR Sylvain               Un voyageur de passage ş2020
 : .o .     N     _LAMUR Sylvain               La Vigne ş2016
 : .o .     N     _LAMUR Sylvain               No‰l au coin du feu ş2020
@@ -2832,17 +2993,364 @@ o RIVBL_N   139  2020.10 ..... ISBN 978-1-64932-012-4
 o RIVBL_N   140  2020.12 ..... ISBN 978-1-64932-021-6
 } rivbn140       _Jean-Claude Claeys          ?
 !--- GF
-- .oF.    kA8    ****                         Les Compagnons de l'ombre - 27 ş2020
+- .oF.    kA8    *LOFFICIER Jean-Marc         Les Compagnons de l'ombre - 27 ş2020
 : .o .     N     _SCHILDINER Frank            La Diplomatie des vampires ş2019 Vampire Diplomacy
-: .o .     N     _HILTZ Travis                Une Vie de pirate ş2019 A Pirate's Life for Me
+: .o .     N     _HILTZ Travis                Une vie de pirate ş2019 A Pirate's Life for Me
 : .o .     N     _BAUGH Matthew               Les Singuliers Chats de la mer des rˆves ş2019 The Peculiar Cats of the Sea of Dreams
 : .o .     r     _PEEL John                   L'Oeil du faucon [Doc Ardan] ş2019 The Eye of the Hawk
 : .o .     N     _VINEYARD David L.           La Pierre de Salomon ş2019 The Stone of Solomon
 : .o .     N     _DENNION Matthew             Celui qui vit dans les t‚nŠbres ş2019 Dwelling in the Dark
 : .o .     N     _MALCOLM Nigel               Idiots utiles ş2019 Useful Idiot
-: .o .     N     _UNBEKANNT Artikel           Travaux forc‚s ş2020
-
-
+: .o .     N     _UNBEKANNT Artikel           Travaux forc‚s [Panth‚ra] ş2016
+!------------------------
+!=== 2021
+!------------------------
+o RIVBL_N   141  2021.01 ..... ISBN 978-1-64932-027-8
+} rivbn141       _Mariusz Gandzel             ?
+!--- GF - 340 pages - 25 euros
+- .o .     R     _SCHILDINER Frank            Le Pays de l'‚ternelle nuit [Les Chasseurs de vampires de Napol‚on - 3] ş2020 The Land of Everlasting Gloom şTrad. BAUDURET Thomas
+o RIVBL_N   142  2021.02 ..... ISBN 978-1-64932-042-1
+} rivbn142       _Daniele Serra               ?
+!--- GF - 240 pages - 20 euros
+- .oF.     N13   _POSSAMAI Adam M.            Perles noires ş2002-2021
+: .o .     N     _POSSAMAI Adam M.            Les Poils et les balles ş1997
+: .o .     N     _POSSAMAI Adam M.            Alice au pays des sŠches ş2002
+: .o .     N     _POSSAMAI Adam M.            A boire ! ş1996
+: .o .     N     _POSSAMAI Adam M.            Antarctique ş1997
+: .o .     N     _POSSAMAI Adam M.            Le Misanthrope de la banlieue ş1993
+: .o .     N     _POSSAMAI Adam M.            Lilith ş1995
+: .o .     N     _POSSAMAI Adam M.            La Raison selon Janus ş1992
+: .o .     N     _POSSAMAI Adam M.            Cuisse de sanglier, sauce au geniŠvre ş2000
+: .o .     N     _POSSAMAI Adam M.            J'ai couch‚ avec la mort ş1996
+: .o .     N     _POSSAMAI Adam M.            Tabula rasa ş1997
+: .o .     N     _POSSAMAI Adam M.            Echo ş1996
+: .o .     N     _POSSAMAI Adam M.            Dieu est mort ş1996
+: .o .     N     _POSSAMAI Adam M.            L'Amour-Vivant ş2021
+o RIVBL_N   143  2021.03 ..... ISBN 978-1-64932-036-0
+} rivbn143       _Mariusz Gandzel             ?
+!--- GF - 248 pages - 20 euros
+- .o .     R     _FARLAN Pierre               Perceval Hardy et le Souvenir Disparu ş2021
+o RIVBL_N   144  2021.04 ..... ISBN 978-1-64932-050-6
+} rivbn144       _Mike Hoffman                ?
+!--- GF - 216 pages - 18 euros
+- .oFS     N23   _PAPOZ Micky                 Que le Diable les emporte ! ş2021
+: .o .     p     _UNBEKANNT Artikel           Pr‚face ş2021
+: .o .     N     _PAPOZ Micky                 Une ‚trange journ‚e ş2021
+: .o .     N     _PAPOZ Micky                 Rue de la Passerose ş1987
+: .o .     N     _PAPOZ Micky                 MaŒtresse des t‚nŠbres ş2021
+: .o .     N     _PAPOZ Micky                 L'Entr‚e interdite ş2021
+: .o .     N     _PAPOZ Micky                 Ce jour l… ş1995
+: .o .     N     _PAPOZ Micky                 Le Petit Train de G‚henne ş1989
+: .o .     N     _PAPOZ Micky                 L'Ange de B”o ş1986
+: .o .     N     _PAPOZ Micky                 Salvatoris ş2021
+: .o .     N     _PAPOZ Micky                 Les ‚lus ş2021
+: .o .     N     _PAPOZ Micky                 L'Appel du sang ş2021
+: .o .     N     _PAPOZ Micky                 Comme une seconde peau ş1988
+: .o .     N     _PAPOZ Micky                 crase-t-on un grillon parce qu'il chante ? ş1995
+: .o .     N     _PAPOZ Micky                 Les Chats et les chiens d'abord ! ş2021
+: .o .     N     _PAPOZ Micky                 Pass‚, pr‚sent, avenir ? ş2021
+: .o .     N     _PAPOZ Micky                 Besoin d'ailleurs ? ş2017
+: .o .     N     _PAPOZ Micky                 Sarra ş2021
+: .o .     N     _PAPOZ Micky                 Mais o— sont les princes d'antan ? ş2021
+: .o .     N     _PAPOZ Micky                 Le Puits au mal ş1987
+: .o .     N     _PAPOZ Micky                 Isadora ş2021
+: .o .     N     _PAPOZ Micky                 Vilaine fille ş1993
+: .o .     N     _PAPOZ Micky                 M‚chant gar‡on ! ş1993
+: .o .     N     _PAPOZ Micky                 L'‚pouilleuse ş2021
+: .o .     N     _PAPOZ Micky                 Mille roses d'Orient ş2021
+o RIVBL_N   145  2021.05 ..... ISBN 978-1-64932-055-1
+} rivbn145       _Danielle Serra              ?
+!--- GF - 252 pages - 20 euros
+- .o .     N5    _INNOCENZI Jean              Nuit rauque ş2021
+: .o .     N     _INNOCENZI Jean              Nuit rauque ş2021
+: .o .     N     _INNOCENZI Jean              Intervalles ş2021
+: .o .     N     _INNOCENZI Jean              Le Rˆveur ş2021
+: .o .     N     _INNOCENZI Jean              Anachronismes ş2021
+: .o .     N     _INNOCENZI Jean              M‚andres ş2021
+o RIVBL_N   146  2021.06 ..... ISBN 978-1-64932-072-8
+} rivbn146       _Ladr”nn                     ?
+!--- GF - 316 pages - 22 euros
+- .o .     R     _SY Mouhamadou Moustapha     Sapiens Vampiris ş2021
+o RIVBL_N   147  2021.07 ..... ISBN 978-1-64932-077-3
+} rivbn147       _Mike Hoffman                ?
+!--- GF - 232 pages - 20 euros
+!--- Pr‚face Artikel Unbekannt
+- .oST     N6    _ANTONI Dum‚                 Six lunes noires dans une nuit blanche ş2021
+: .o .     N     _ANTONI Dum‚                 Programme Schr”dinger ş2021
+: .o .     N     _ANTONI Dum‚                 SOS ş2020
+: .o .     N     _ANTONI Dum‚                 13/11/2015 ş2021
+: .o .     N     _ANTONI Dum‚                 Mˆme les monstres ont une mŠre ş2021
+: .o .     N     _ANTONI Dum‚                 Quand le jour se lŠve … l'ouest ş2021
+: .o .     N     _ANTONI Dum‚                 Du sang, des larmes et un cerveau ş2021
+o RIVBL_N   148  2021.08 ..... ISBN 978-1-64932-076-6
+} rivbn148       _Phil Cohen                  ?
+!--- GF - 300 pages - 22 euros
+- .oF.     A9    *LOFFICIER Jean-Marc         Les Compagnons de l'ombre - 28 ş2021
+: .o .     N     _GATELY Martin               Les Pionniers du d‚sert ş2017 The Woodlanders in the Desert 
+: .o .     N     _DENNION Matthew             Certificat m‚dical ş2017 Doctor's Note
+: .o .     N     _BAUGH Matthew               Le Volume cubique de l'ƒme ş2017 The Cubic Displacement of the Soul
+: .o .     N     _GALLAGHER Brian             Le Docteur de Sarajevo ş2017 The Doctor of Sarajevo
+: .o .     N     _NIGRO Christofer            La Fureur des f‚lins ş2017 Wrath of the Cat People
+: .o .     N     _CABANISS Nathan             Rage ou terreur ş2019 Rage of Terror
+: .o .     N     _GIBSON Joseph               Les Autres Vampires de Paris ş2019 The Other Vampires of Paris
+: .o .     N     _LOFFICIER Randy             L'Ange fant“me et Le Nain assassin‚ ş2021
+: .o .     N     _MALCOLM Nigel               La r‚volution est pour ce soir ş? ?
+o RIVBL_N   149  2021.09 ..... ISBN 978-1-64932-078-0
+} rivbn149       _Mike Hoffman                ?
+!--- GF - 320 pages - 22 euros
+- .oF.     N17   _MATT C‚cile                 L'enfer est d‚j… ici ş2021
+: .o .     p     _BOUAK Gr‚gory               Pr‚face ş2021
+: .o .     N     _MATT C‚cile                 Le Sublime ş2021
+: .o .     N     _MATT C‚cile                 Le Monde libre ş2021
+: .o .     N     _MATT C‚cile                 La Cit‚ de Dieu ş2021
+: .o .     N     _MATT C‚cile                 Simulacrash ş2021
+: .o .     N     _MATT C‚cile                 Le TrŠfle ‚carlate ş2021
+: .o .     N     _MATT C‚cile                 La Ligne ş2021
+: .o .     N     _MATT C‚cile                 Romance ş2021
+: .o .     N     _MATT C‚cile                 Trop tard ş2021
+: .o .     N     _MATT C‚cile                 Nuit de No‰l ş2021
+: .o .     N     _MATT C‚cile                 Melencolia ş2021
+: .o .     N     _MATT C‚cile                 Le Retour d'Oreste ş2021
+: .o .     N     _MATT C‚cile                 Dimo‚tŠs ş2021
+: .o .     N     _MATT C‚cile                 La Morte ş2021
+: .o .     N     _MATT C‚cile                 Le Jour et la Nuit ş2021
+: .o .     N     _MATT C‚cile                 Les Larves ş2021
+: .o .     N     _MATT C‚cile                 Petites aiguilles ş2021
+: .o .     N     _MATT C‚cile                 Les Amants d'Isis ş2021
+o RIVBL_N   150  2021.10 ..... ISBN 978-1-64932-079-7
+} rivbn150       _Mike Hoffman                ?
+!--- GF - 256 pages - 20 euros
+- .oF.     N26   _KURZAWA Fr‚d‚ric            Les Brumes de l'autre monde ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Chevalier dans la brume ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Une larme de solitude ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Rencontre nocturne ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            L'Aire de repos ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            L'Autoroute ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            De la fenˆtre d'en haut ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Ligne de vie ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Un Passalorynchithe incompris ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Les Graffitis ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Rien … d‚clarer ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            L'Auto-Stoppeuse ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            La Clef ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Mur ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Brouillard ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            La FlŠche des dieux ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Puits ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            L'Homme qui avait peur du feu ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            La Corde du pendu ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Chant des lavandiŠres ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Les Chevaux ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            L'Ossuaire ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Cauchemar ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            L'Accident ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            L'Avare ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Concert ş2021
+: .o .     N     _KURZAWA Fr‚d‚ric            La Devinette ş2021
+o RIVBL_N   151  2021.11 ..... ISBN 978-1-64932-097-1
+} rivbn151       _Mike Hoffman                ?
+!--- GF - 332 pages - 23 euros
+- .oFG     R2N6  _BERGAL Gilles               Gore Stories ş2021
+: .o .     R     _BERGAL Gilles               Camping sauvage ş1989
+: .oF.     R     _BERGAL Gilles               Gore Story ş2015
+: .o .     N     _BERGAL Gilles               L'Homme maigre ş2019
+: .o .     N     _BERGAL Gilles               Les Momies de Walpurgis ş2020
+: .? .     N     _BERGAL Gilles               L'H‚ritage ş2021
+: .o .     N     _BERGAL Gilles               TreiziŠme ‚tage ş2020
+: .? .     N     _BERGAL Gilles               Nouvelle vie ş2015
+: .? .     N     _BERGAL Gilles               N'aie pas peur ş2021
+o RIVBL_N   152  2021.12 ..... ISBN 978-1-64932-095-7
+} rivbn152       _Christine Clavel            ?
+!--- GF - 292 pages - 22 euros
+- .oF.     R     _ORLOFF Pierre-Alexis        Panth‚ra et le d‚mon [Panth‚ra] ş2021
+!------------------------
+!=== 2022
+!------------------------
+o RIVBL_N   153  2022.01 ..... ISBN 978-1-64932-100-8
+} rivbn153       _Daniele Serra               ?
+!--- GF - 258 pages - 20 euros
+- .oS.     C12   _POSSAMAI Adam M.            Amarama ((Le XXIe siŠcle de Dickerson et Ferra)) ş2012
+: .o .     N     _POSSAMAI Adam M.            Cyber Babe ş1998-2012
+: .o .     N     _POSSAMAI Adam M.            David III Knox ş1992-2012
+: .o .     N     _POSSAMAI Adam M.            Morituri te salutant ş1995-2012
+: .o .     N     _POSSAMAI Adam M.            Aristote : pour ou contre ? ş1992-2012
+: .o .     N     _POSSAMAI Adam M.            La Mouette ş1999-2012
+: .o .     N     _POSSAMAI Adam M.            La Mort de Montagovitch ş2012
+: .o .     N     _POSSAMAI Adam M.            L'on voit des hommes tomber ş1993-2012
+: .o .     N     _POSSAMAI Adam M.            Ainsi parlait Zarathousa ş1995-2012
+: .o .     N     _POSSAMAI Adam M.            Les G‚n‚rations "Bƒtisseurs" ş1995-2012
+: .o .     N     _POSSAMAI Adam M.            Amarama ş2012
+: .o .     N     _POSSAMAI Adam M.            Le Droit … l'euthanasie [Dr. John Dee] ş1996-2012
+: .o .     N     _POSSAMAI Adam M.            Pour une poign‚e de spleen ş1992-2012
+o RIVBL_N   154  2022.02 ..... ISBN 978-1-64932-119-0
+} rivbn154       _Daniele Serra               ?
+!--- GF - 212 pages - 20 euros
+- .oFG    iNx    _GAYRAUD S‚bastien           Saignements ş2022
+: .o .     p     _SIEBERT Christophe          Miroirs de sang ş2022
+: .C .     C     _GAYRAUD S‚bastien           FATA
+: .? .     N     _GAYRAUD S‚bastien           La fenˆtre d'en face ş2022
+: .? .     N     _GAYRAUD S‚bastien           Le montreur de merveilles ş?
+: .? .     N     _GAYRAUD S‚bastien           La nuit des chiens ş?
+: .? .     N     _GAYRAUD S‚bastien           Iris ş?
+: .? .     N     _GAYRAUD S‚bastien           Le bazar bizarre de Bob ş?
+: .? .     N     _GAYRAUD S‚bastien           Le cin‚ma de b‚ton  ş?
+: .C .     C     _GAYRAUD S‚bastien           Morgana
+: .? .     N     _GAYRAUD S‚bastien           1973, la maison foudroy‚e ş?
+: .? .     N     _GAYRAUD S‚bastien           Le chant de N‚ron ş?
+: .? .     N     _GAYRAUD S‚bastien           Th‚ƒtre de sang ş?
+: .? .     N     _GAYRAUD S‚bastien           G‚n‚ration cadavre ş? 
+: .? .     N     _GAYRAUD S‚bastien           1998 ş?  
+: .? .     N     _GAYRAUD S‚bastien           Le gardien ş?
+: .? .     N     _GAYRAUD S‚bastien           Komakino ş?
+: .? .     N     _GAYRAUD S‚bastien           Le chƒteau parallŠle ş?
+: .? .     N     _GAYRAUD S‚bastien           Le mort qui marche ş?
+: .? .     N     _GAYRAUD S‚bastien           La crˆte ş?
+: .? .     N     _GAYRAUD S‚bastien           Autodaf‚ (1999-2019) ş?
+o RIVBL_N   155  2022.03 ..... ISBN 978-1-64932-099-5
+} rivbn155       _Mike Hoffman                ?
+!--- GF - 280 pages - 22 euros
+- .oF.    kN50   _KURZAWA Fr‚d‚ric            Aux confins de l'angoisse ş2022
+: .o .     p     _KURZAWA Fr‚d‚ric            Avant-Propos ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Une fille de rˆve ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Les Ciseaux ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Filtre ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Un vendredi pas comme les autres ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Union post-mortem... ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Marc ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            L'Anorexique ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Vampires en colŠre ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Un cas de s‚rendipit‚ ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Destin de Josiane ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            La Perruque ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Dialogue d'outre-tombe ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Un supermarch‚ inhabituel ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Ceinturon ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Jouvence ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Papier peint ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Stephen King ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Un produit de beaut‚ miraculeux ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            L'Interrogatoire ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Vieillard et la Fillette ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Sombre Dessein ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            La Fianc‚e de Pinocchio ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Voeu ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Esprit es-tu l… ? ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Pendu ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            A cache-cache ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            La Farandole ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Les Deux Charlatans ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            La Parturiente ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            L'Enterrement ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            (D‚s)int‚gration ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Une peinture r‚aliste ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Portrait ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Vieux Fumeur qui tuait le temps ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Perp‚tuit‚ ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Deux soeurs siamoises ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Tatou‚ ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Levain dans la pƒte ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            L'Abbaye de Monte-…-Regret ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Grimoire ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            L'Aveugle ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Carrousel ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Malchanceux ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Une hallucination hypnopompiquue ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Un magicien consciencieux ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Le Lamineur ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Rubrique n‚crologique ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            ArsŠne ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            Record battu ! ş2022
+: .o .     N     _KURZAWA Fr‚d‚ric            En boŒte ! ş2022
+o RIVBL_N   156  2022.04 ..... ISBN 978-1-64932-118-3
+} rivbn156       _Mike Hoffman                ?
+!--- GF - 364 pages - 25 euros
+- .oF.    iNx    _LOFFICIER Jean-Marc        &Docteur Despair ş2022
+&                _LOFFICIER Randy             
+o RIVBL_N   157  2022.05 ..... ISBN 978-1-64932-135-0
+} rivbn157       _Philippe Lemaire            ?
+!--- GF - 260 pages - 20 euros
+- .oF.     R     _LEMAIRE Philippe            L'Obscur et la lueur ş2022
+o RIVBL_N   158  2022.06 ..... ISBN 978-1-64932-136-7
+} rivbn158       _Fran‡ois Vaillancourt       ?
+!--- GF - 368 pages - 25 euros
+- .oF.    kN35   _DURAND Fr‚d‚rick            L'heure approche o— j'aurai tes yeux ş2022
+: .o .     N     _DURAND Fr‚d‚rick            Nocturne ş1998
+: .o .     N     _DURAND Fr‚d‚rick            Pique-la-Mer ş2008
+: .o .     N     _DURAND Fr‚d‚rick            Les Ombres d‚livr‚es ş2020
+: .oF.     N     _DURAND Fr‚d‚rick            Le March‚ vesp‚ral ş2013
+: .o .     N     _DURAND Fr‚d‚rick            Tu n'es pas seule ş2011
+: .o .     N     _DURAND Fr‚d‚rick            Ceci n'est pas une crise cardiaque ş2006
+: .o .     N     _DURAND Fr‚d‚rick            Quand revivra le th‚ƒtre inerte ş2012
+: .o .     N     _DURAND Fr‚d‚rick            Tel pŠre, tel fils ş2007
+: .o .     N     _DURAND Fr‚d‚rick            J‚sabelle et les portes intangibles ş2022
+: .o .     N     _DURAND Fr‚d‚rick            Compulsion ş2022
+: .o .     N     _DURAND Fr‚d‚rick            Pour que s'anime le ciel factice ş2013
+: .o .     N     _DURAND Fr‚d‚rick            Le Chemin d‚lest‚ ş2013
+: .o .     N     _DURAND Fr‚d‚rick            Les Amis du crime ş2008
+: .o .     N     _DURAND Fr‚d‚rick            Le R‚servoir ş2005
+: .o .     N     _DURAND Fr‚d‚rick            J‚sabelle, rescap‚e des sortilŠges ş2020
+: .o .     N     _DURAND Fr‚d‚rick            D‚compression en rouge profond ş2011
+: .o .     N     _DURAND Fr‚d‚rick            L'heure approche o— j'aurai tes yeux ş2011
+: .o .     N     _DURAND Fr‚d‚rick            Le T‚l‚phone ‚carlate ş2008
+: .o .     N     _DURAND Fr‚d‚rick            Thandor, les origines ş2013
+: .o .     N     _DURAND Fr‚d‚rick            A l'intention des ombres ş2008
+: .o .     N     _DURAND Fr‚d‚rick            Et ton coeur noir s'arrˆtera ş2016
+: .o .     N     _DURAND Fr‚d‚rick            R‚actions en chaŒne ş2008
+: .o .     N     _DURAND Fr‚d‚rick            Possession sur commande ş1996
+: .o .     N     _DURAND Fr‚d‚rick            Prochaine station : Lac-des-Morts ş2018
+: .o .     N     _DURAND Fr‚d‚rick            Elvis et moi ş2008
+: .oF.     N     _DURAND Fr‚d‚rick            Le Jour du souvenir ş2014
+: .o .     N     _DURAND Fr‚d‚rick            Les Vacances disloqu‚es ş2019
+: .o .     N     _DURAND Fr‚d‚rick            J‚sabelle et les ruines fossilis‚es ş2015
+: .o .     N     _DURAND Fr‚d‚rick            Le Croqueur d'ƒmes ş2008
+: .o .     N     _DURAND Fr‚d‚rick            Le Soir o— la haine givra ton coeur ş2022
+: .o .     N     _DURAND Fr‚d‚rick            Le Scieur nocturne ş2008
+: .o .     N     _DURAND Fr‚d‚rick            La Fianc‚e des flammes ş2008
+: .o .     N     _DURAND Fr‚d‚rick            Le Jardin des saules ş2008
+: .o .     N     _DURAND Fr‚d‚rick            Le Saloon des deux crƒnes ş2016
+o RIVBL_N   159  2022.07 ..... ISBN 978-1-64932-143-5
+} rivbn159       _Phil Cohen                  ?
+!--- GF - 294 pages - 22 euros
+!--- postface de Jean-Marc Lofficier
+- .oF.     R     _SCHILDINER Frank            Irma Vep contre le Grand Cerveau [Irma Vep] ş2019 Irma Vep and the Great Brain of Mars şTrad. BAUDURET Thomas
+o RIVBL_N   160  2022.08 ..... ISBN 978-1-64932-145-9
+} rivbn160       _Marius Gandzel              ?
+!--- GF - 300 pages - 22 euros
+- .pF.    kA9    *LOFFICIER Jean-Marc         Les Compagnons de l'ombre - 29 ş2022
+: .o .     N     _HILTZ Travis                Voyage dans les Œles ş2020 These are the Voyages
+: .o .     N     _PEEL John                   L'Enfant oubli‚ par le temps ş2020 The Child That Time Forgot
+: .o .     N     _CABANISS Nathan             Le MaŒtre de l'Ouest ş2020 Master of the Six-Gun
+: .o .     N     _McFADYEN Rod                Le monde nous appartiendra ş2020 The World Will Belong to us
+: .o .     N     _BEZECNY Atom Mudman         Marche … l'ombre ş2020 Walking on Foreign Ground, Like a Shadow
+: .o .     N     _RAYMOND Jean-Paul           Le Spectre de la Walkyrie ş2020
+: .o .     N     _BAUGH Matthew              &Chronologie des aventures de Jules de Grandin ş? ?
+&                _LAI Rick                    
+: .o .     N     _VINEYARD David L.           Le Cam‚e des Dufort ş2020 The Dufort Cameo
+: .o .     N     _SCHILDINER Frank            Le Seul et l'unique ş2020 Only One.
+o RIVBL_N   161  2022.09 ..... ISBN 978-1-64932-171-8
+} rivbn161       _Aur‚lien Maccarelli         ?
+!--- GF - 352 pages - 25 euros
+!--- Pr‚faceÿLa Bourse et la Vie:ÿDialogues d'Andr‚ Ruellan et Philippe Curval
+- .oFT    _R3    _STEINER Kurt                Angoisses - 3 ş2022
+: .o .     R     _STEINER Kurt                Sueurs ş1957
+: .o .     R     _STEINER Kurt                Syncope blanche ş1958
+: .o .     R     _STEINER Kurt                Glace sanglante ş1960
+o RIVBL_N   162  2022.10 ..... ISBN 978-1-64932-170-1
+} rivbn162       _Mike Hoffman                ?
+!--- GF - 304 pages - 22 euros
+- .oF.     R     _MZE Ali                     Odeyken ş2022
+o RIVBL_N   163  2022.11 ..... ISBN 978-1-64932-164-0
+} rivbn163       _Mariusz Gandzel             ?
+!--- GF - 260 pages - 20 euros
+- .oF.    kR2    _BERGAL Gilles               Survivance [Bernard Bordes] ş2022
+: .o .     R     _BERGAL Gilles               Les Fils du tyrannosaure [Bernard Bordes] ş1995
+: .o .     R     _BERGAL Gilles               L'Œle perdue [Bernard Bordes] ş[1996],2022
+o RIVBL_N   164  2022.12 ..... ISBN 978-1-64932-159-6
+} rivbn164       _Mike Hoffman                ?
+!--- GF - 306 pages - 22 euros
+- .oS.    kR2    _LEGAY Piet                  Kannibal ş2022
+: .oST     R     _LEGAY Piet                  Kannibal ş2022
+: .o .     R     _LEGAY Piet                  D‚monia, planŠte maudite ş1977-2022
 
 !-----------------------------------------------------------------------------
 !--- Collection Fus‚e
@@ -2854,7 +3362,7 @@ o RIVBL_F     1  2006.10 ..... ISBN 1-932983-85-6
 } rivbf01        _?                           N
 - .oS.    _A11   *MILLER Sylvie               Dimension Espagne - Anthologie de SF espagnole ş2006
 : .oS.     p     _MILLER Sylvie               Au menu ? Des "Tapas de SF" ! ş2006
-: .oS.     N     _AGUILERA Juan Miguel        La Forˆt de glace ş1996 El Bosque de Hielo şTrad. MILLER Sylvie
+: .oS.     N     _AGUILERA Juan Miguel        La Forˆt de glace ş1996 El bosque de hielo şTrad. MILLER Sylvie
 : .oS.     N     _AGUILERA Juan Miguel        DerniŠre visite avant le Christ ş2003 C.T.C. şTrad. MILLER Sylvie
 : .oS.     N     _AGUILERA Juan Miguel        Voyage au centre de l'univers ş2005 Todo lo que una persona puede imaginar şTrad. MILLER Sylvie
 : .oS.     N     _BARCELO Elia                Les R‚apparus ş2001 Muertos şTrad. MILLER Sylvie
@@ -2864,7 +3372,7 @@ o RIVBL_F     1  2006.10 ..... ISBN 1-932983-85-6
 : .oS.     N     _MARTINEZ Rodolfo            Il traverse le d‚sert ş2002 Atraviesa el desierto şTrad. MILLER Sylvie
 : .oS.     N     _MARTINEZ Rodolfo            La Route ş1993 La carretera şTrad. MILLER Sylvie
 : .oS.     N     _VAQUERIZO Eduardo           Les Chemins du rˆve ş2000 Los caminos del sue¤o şTrad. MILLER Sylvie
-: .oS.     N     _VAQUERIZO Eduardo           Une terre pleine de questions ş2002 Tierra poblada de preguntas şTrad. MILLER Sylvie
+: .oS.     N     _VAQUERIZO Eduardo           Une Terre pleine de questions ş2001 Tierra poblada de preguntas şTrad. MILLER Sylvie
 : .oS.     a     _MILLER Sylvie               La SF espagnole, dynamisme et identit‚ ş2006
 !------------------------
 !=== 2007
@@ -2931,7 +3439,7 @@ o RIVBL_F     5  2009.03 ..... ISBN 978-1-934543-70-2
 : .oS.     N     _SIMONIAN Karen A.           Le Pr‚ ş1968 Loug şTrad. ?
 : .oS.     N     _PODOLNY Roman               Une derniŠre histoire de t‚l‚pathie ş1978 Posledni rasskaz o telepatii şTrad. ?
 : .oS.     N     _KOLOUPAEV Victor            Quels dr“les d'arbres ş1975 Kakie smechnye derev'ia şTrad. ?
-: .oS.     N     _DROZD Vladimir              Pygmalion ş1976 Pigmalion şTrad. ?
+: .oS.     N     _DROZD Vladimir              Pygmalion ş1969 Pigmalion şTrad. ?
 : .oS.     N     _BOULYTCHEV Kir              Un cheechako dans le d‚sert ş1981 Tchetchako v poustyne şTrad. ?
 : .oS.     N     _SOLOVIOVA Valentina         La Station interm‚diaire ş1984 Promejoutotchna‹a stantsia şTrad. ?
 : .oS.     N     _POKROVSKI Vladimir          La Toute derniŠre guerre au monde ş1984 Sama‹a posledniaia v mire vo‹na şTrad. ?
@@ -3023,7 +3531,7 @@ o RIVBL_F    10  2010.06 ..... ISBN 978-1-935558-24-8
 o RIVBL_F    11  2010.07 ..... ISBN 978-1-935558-54-5
 } rivbf11        _LADRONN                     N
 - .oI.    kN9    _STABLEFORD Brian M.         Dimension Brian Stableford ş2010
-: .o .     N     _STABLEFORD Brian M.         L'Exposition secrŠte ş1999 The Secret Exhibition şTrad. RABIER Catherine
+: .o .     N     _STABLEFORD Brian M.         L'Exposition secrŠte [Mn‚mosyne] ş1999 The Secret Exhibition şTrad. RABIER Catherine
 : .o .     N     _STABLEFORD Brian M.         L'Homme qui inventa le bon go–t ş1991 The Man who Invented Good Taste şTrad. DENIS Sylvie
 : .oY.     N     _STABLEFORD Brian M.         Le Mal que font les hommes ş1995 The Evil That Men Do şTrad. DOLISI Florence
 : .oY.     N     _STABLEFORD Brian M.         L'lixir de jouvence ş2003 The Elixir of Youth şTrad. DOLISI Florence
@@ -3083,8 +3591,8 @@ o RIVBL_F    14  2011.02 ..... ISBN 978-1-935558-86-6
 o RIVBL_F    15  2011.03 ..... ISBN 978-1-935558-90-3
 } rivbf15        _Grillon                     ?
 !--- Stephan MartiniŠre
+!--- Trad. Victoryia & Patrice Lajoye
 - .oS.     N2    _BOULYTCHEV Kir              La Robe blanche de Cendrillon ş2011
-!--- şTrad. Victoryia & Patrice Lajoye
 : .oS.     p     _MANAKOV Mikha‹l            &Le Don unique de Kir Boulytchev ş? ?
 &          p     _RATNIKOV Kirill             
 : .oS.     p     _LAJOYE Patrice              Docteur Slava Pavlych, m‚decin de bord de la flotte des confins (1968-1988) ş2011
@@ -3198,7 +3706,7 @@ o RIVBL_F    22  2011.11 ..... ISBN 978-1-61227-060-9
 : .o .     N     _NIEUDAN Eric                Le Geis du shaman ş2011
 : .o .     N     _PINON Philippe              Ninouska ş2011
 : .o .     N     _COMBREXELLE Anthony         Sans fin l'espace est ş2011
-: .o .     N     _LEGRAND Claude J.           La Machine … r‚tr‚cir ş2011
+: .o .     N     _LEGRAND Claude J.           La Machine … r‚tr‚cir ş2010
 : .o .     N     _HEYLBROECK Julien           Faux frŠre ş2011
 : .o .     N     _BAUGH Matthew               Pour une poign‚e de Crucifix ş2011 High Noon of the Living Dead
 : .o .     N     _CHADOUR Nelly               La Disgrƒce de Cagliostro ş2011
@@ -3305,11 +3813,11 @@ o RIVBL_F    28  2013.06 ..... ISBN 978-1-61227-204-7
 } rivbf28        _Hank Mayo                   ?
 - .oZI     A15   *LIGNER Meddy                Dimension Pr‚histoire ş2013
 : .o .     N     _GEVART Pierre               Les Amants de la houillŠre ş2013
-: .o .     N     _GEVART Pierre               Le Troupeau ş2013
+: .o .     N     _GEVART Pierre               Le Troupeau ş2007
 : .o .     N     _BERTHET Elie                Les Parisiens … l'ƒge de pierre ş1876
 : .o .     N     _SICART Pierre-Alexandre     Eve ş2013
 : .oF.     N     _TANNER Rachel               Le Frisson de la savane ş2013
-: .o .     N     _GEVART Pierre               Evolution ş2013
+: .o .     N     _GEVART Pierre               Evolution ş2007
 : .o .     N     _DURAND Fr‚d‚rick            Pour que s'anime le ciel factice ş2013
 : .o .     N     _KAAN Jess                   Au temps des aurochs ş2013
 : .o .     N     _GELINAS Ariane              La M‚moire ensevelie ş2013
@@ -3426,7 +3934,7 @@ o RIVBL_F    33  2014.06 ..... ISBN 978-1-61227-306-8
 : .o .     N     _GEVART Pierre               Sven ş2007
 : .o .     N     _VAN GAERT Hugo              Poser les bonnes questions ş2007
 : .oS.     N     _VAN GAERT Hugo              Acc‚l‚r‚ ş2007
-: .oS.     N     _VAN GAERT Hugo              Le Prix de l'or ş2007
+: .oS.     N     _VAN GAERT Hugo              Le Prix de l'or ş1983
 : .oS.     N     _VAN GAERT Hugo              Rel‚gation relative ş1983
 : .oS.     N     _GEVART Pierre               Des colons ş1983
 : .oS.     N     _VAN GAERT Hugo              Merde, ils ont boug‚ ! ş2006
@@ -3554,6 +4062,8 @@ o RIVBL_F    37  2015.xx ..... ISBN 978-1-61227-419-5
 : .o .     N     _JOUET Jacques               Une rencontre sous la neige ş2015
 o RIVBL_F    38  2015.07 ..... ISBN 978-1-61227-438-6
 } rivbf38        _HANSEN Mainert              ?
+!--- Suivi d'une "Bibliographie indicative", puis d'une "Sitographie"
+!--- Peut-ˆtre ‚galement un article sur les prix Jules Verne avant les deux derniers articles
 - .oS.     A14   *LANUQUE Jean-Guillaume      Dimension merveilleux scientifique ş2015
 ?: .o .     p     _VAS-DEYRES Natacha          Pr‚face ş2015
 ?: .o .     p     _LANUQUE Jean-Guillaume      Pr‚sentation ş2015
@@ -3572,11 +4082,8 @@ o RIVBL_F    38  2015.07 ..... ISBN 978-1-61227-438-6
 : .o .     N     _NETSCHAIEV Faust            L'Origine du Mal ş2014
 : .o .     N     _PLEUDON Luc                 J'‚tais, je suis, je serais ş2015
 : .o .     a     _BOUTEL Jean-Luc             La Litt‚rature d'imagination scientifique : genŠse et continuit‚ d'un genre ş2015
-!---  Les prix Jules Verne
 : .o .     a     _LANUQUE Jean-Guillaume      Le Retour du refoul‚ ? Sur le renouveau du merveilleux scientifique ş2015
 : .o .     a     _JOBY Gulzar                 Du merveilleux scientifique dans le futur et de la persistance de la notion de cauchemar ş2015
-!--- Bibliographie indicative ş2015
-!--- Sitographie ş2015
 o RIVBL_F    39  2015.08 ..... ISBN 978-1-61227-419-5
 } rivbf39        _YOZ                         ?
 - .oS.    kA30   *WARD Philippe               Dimension New York 1 - R‚trobabylon ((Dimension New York)) ş2015
@@ -3605,8 +4112,8 @@ o RIVBL_F    39  2015.08 ..... ISBN 978-1-61227-419-5
 : .o .     N     _CRISCUOLO David             Station fant“me ş2015
 : .o .     N     _RABIER Catherine            Skyline ş2015
 : .o .     N     _SURIEUX Christian           NY Velvet ş2015
-: .o .     N     _BARR Robert                 Le Sorcier de Wall Street ş2015
-: .o .     N     _BARR Robert                 Op‚ration boursiŠre ş2015
+: .? .     N     _BARR Robert                 Le Sorcier de Wall Street ş? The Wizard of Wall Street
+: .? .     N     _BARR Robert                 Op‚ration boursiŠre ş? A Deal on Change
 : .o .     N     _SICART Pierre-Alexandre     25 &cent; ş2001
 : .o .     N     _COOPMAN Cathy               La Dogwalkeuse ş2015
 : .o .     N     _ESPINOSA Micha‰l            Les Invisibles ş2015
@@ -3617,12 +4124,12 @@ o RIVBL_F    40  2015.10 ..... ISBN 978-1-61227-470-6
 : .? .     p     _CHENU Lucie                 Le Merveilleux M‚di‚val, entre Histoire et Imaginaire ş2015
 : .? .     N     _KAAN Jess                   L'Ours ş2015
 : .o .     N     _LENCOU Antoine              Symbiose ş2015
-: .? .     N     _CLAVEL Fabien               Chamane ş2015
+: .o .     N     _CLAVEL Fabien               Chamane ş2010
 : .? .     N     _FERNANDEZ Fabien            L'Envol ‚carlate ş2015
 : .? .     N     _LAJOYE Patrice              Dafydd ap Sais ş2015
 : .? .     N     _ANDREVON Jean-Pierre        La DerniŠre Croisade ş2015
 : .? .     N     _MAROT AgnŠs                 Les Amants du temps perdu ş2015
-: .? .     N     _STOLZE Pierre               Les Chevaliers chiens ş2015
+: .o .     N     _STOLZE Pierre               Les Chevaliers chiens ş1990
 : .? .     N     _CALVEZ Jean-Michel          Droit de passage ş2015
 : .? .     N     _TRUDEL Jean-Louis           De l'origine des espŠces nouvelles ş2015
 : .? .     N     _MAY Olivier                 Je suis revenu fermer la boutique de Pierre ş2015
@@ -3799,7 +4306,7 @@ o RIVBL_F    48  2016.05 ..... ISBN 978-1-61227-534-5
 : .! .     N     _VINCENT Patrice             Suicide illusoire ş2016
 : .! .     N     _DESSAINT Philippe           Le Vol noir du dragon ş2016
 : .o .     N     _DOLHENT Christophe          Home Sweet Home ş2016
-: .o .     N     _PAGES Nicolas A.            La Bombe, Le Flic et le Puant ş2016
+: .o .     N     _PAGES Nicolas               La Bombe, Le Flic et le Puant ş2016
 : .o .     N     _POCHESCI Bruno              Dix Petits Warps ş2016
 : .o .     N     _ARSEN Nick                  Sommeil rouge ş2016
 o RIVBL_F    49  2016.xx ..... ISBN 978-1-61227-533-8
@@ -4001,7 +4508,7 @@ o RIVBL_F    60  2017.08 ..... ISBN 978-1-61227-671-7
 : .o .     N     _MINIERE Isabelle            Le MystŠre de la forˆt ş2017
 o RIVBL_F    61  2017.09 ..... ISBN 978-1-61227-681-6
 } rivbf61        _Mariusz Gandzel             ?
-- . I.     Ax    *LIGNER Meddy                Dimension Renaissance et Temps Modernes ş2017
+- .oI.     Ax    *LIGNER Meddy                Dimension Renaissance et Temps Modernes ş2017
 !--- XVe siŠcle
 : .o .     N     _CLAVEL Fabien               Fils du corbeau, fils du dragon ş2017
 : .o .     N     _KAAN Jess                   Coeurs d'hommes, voies divines ş2017
@@ -4033,7 +4540,7 @@ o RIVBL_F    62  2017.10 ..... ISBN 978-1-61227-683-0
 : .o .     N     _ANDREVON Jean-Pierre        Des amis fidŠles ş2017
 : .o .     N     _MYTHIC                      Robotic-tac ş2017
 : .o .     N     _LEBLANC J.B.                Sans ƒme ş2017
-: .o .     N     _CHEVIN Barnett              Illumination ş2017
+: .o .     N     _CHEVIN Barnett              Illumination ş2016
 : .o .     N     _LALLOT L‚o                  R‚surgence ş2017
 : .o .     N     _TRUDEL Jean-Louis           L'Amour de l'autre ş2017
 : .o .     N     _HAY Tepthida                La Pieuvre ş2017
@@ -4063,7 +4570,7 @@ o RIVBL_F    64  2018.01 ..... ISBN 978-1-61227-721-9
 : .o .     R     _TUBB E.C.                   Le Mur ş1952 The Wall şTrad. BLOND Martine
 : .o .     N     _TUBB E.C.                   Destin‚e galactique ş1959 Galactic Destiny şTrad. BLOND Martine
 : .o .     N     _TUBB E.C.                   J pour Jeanne ş1965 J Is for Jeanne şTrad. BLOND Martine
-: .o .     N     _TUBB E.C.                   Pas un mot ş1958 Talk Not at all şTrad. BLOND Martine
+: .o .     N     _TUBB E.C.                   Pas un mot ş1958 Talk Not at All şTrad. BLOND Martine
 : .o .     a     _TUBB E.C.                   Discours d'E. C. Tubb … la Convention Mondiale de Heidelberg 1970 ş2011
 o RIVBL_F    65  2018.02 ..... ISBN 978-1-61227-726-4
 } rivbf65        _Mike Hoffman                ?
@@ -4147,7 +4654,7 @@ o RIVBL_F    70  2018.07 ..... ISBN 978-1-61227-772-1
 : .? .     N     _TROXLER Sylvie              Un rˆve ‚veill‚ ş2018
 : .? .     N     _TROXLER Sylvie              Au jardin des d‚lices ş2018
 : .? .     N     _URBAN-MENNINGER Fran‡oise   On devient ce que l'on mange ! ş2018
-: .? .     N     _URBAN-MENNINGER Fran‡oise   Les Compotes d'Eve ş2018
+: .! .     N     _URBAN-MENNINGER Fran‡oise   Les Compotes d'Eve ş2009
 : .? .     N     _VISSE Bernard               Sous le grand catalpa ş2018
 : .? .     N     _WALTER Jean-Claude          Saisons rebelles ş2018
 : .? .     N     _ZEHNACKER Pierre            Souvenirs dans un jardin ş2018
@@ -4240,27 +4747,27 @@ o RIVBL_F    72  2018.09 ..... ISBN 978-1-61227-781-3
 : .? .     N     _GAYRAUD S‚bastien           Komakino ş2018
 o RIVBL_F    73  2018.10 ..... ISBN 978-1-61227-793-6
 } rivbf073       _Grillon                     Barbara Quissolle
-- .oS.     Ax    *BOSCH Thierry              &Dimension Technosciences @ Venir ş2018
+- .oS.    kA9    *BOSCH Thierry              &Dimension Technosciences @ Venir ş2018
 &                *DUNYACH Jean-Claude         
 : .o .     N     _MAUMEJEAN Xavier            La science du coeur ş2018
-!: .o .     a     _* *                         Sur la nature subjective et incarn‚e de l'intelligence humaine et son rapport … l'omnipr‚sence de l'intelligence num‚rique  25 ş2018
+: .o .     a     _SOUERES Philippe            Sur la nature subjective et incarn‚e de l'intelligence humaine et son rapport … l'omnipr‚sence de l'intelligence num‚rique ş2018
 : .o .     N     _EDGAR SilŠne                Pl‚nitude ş2018
-!: .o .     a     _* *                         Demain, tous t‚l‚pathes ? ş2018
+: .o .     a     _LARRIEU Guilhem             Demain, tous t‚l‚pathes ? ş2018
 : .o .     N     _TRUDEL Jean-Louis           Semeuses d'amour en orbite instable ş2018
-!: .o .     a     _* *                         Le femtosat et les ‚toiles ş2018
+: .o .     a     _LLOPIS Olivier              Le femtosat et les ‚toiles ş2018
 : .o .     N     _DUFOUR Catherine            Sans retour et sans nous ş2018
-!: .o .     a     _* *                         Avec nos robots ş2018
+: .o .     a     _LACROIX Simon               Avec nos robots ş2018
 : .o .     N     _PAQUET Olivier              Pour le comprendre ş2018
-!: .o .     a     _* *                         Pour (nous) comprendre (un peu) ş2018
+: .o .     a     _ALAMI Rachid                Pour (nous) comprendre (un peu) ş2018
 : .o .     N     _DAVOUST Lionel              Changelin ş2018
-!: .o .     a     _* *                         L'impression 3D, un conte de f‚es ? ş2018
+: .o .     a     _MALAQUIN Laurent            L'impression 3D, un conte de f‚e ? ş2018
 : .o .     N     _DENIS Sylvie                Contaminations ş2018
-!: .o .     a     _* *                         Du devenir de nos paysans dans une campagne contamin‚e par la technologie ş2018
+: .o .     a     _DEVY Michel                 Du devenir de nos paysans dans une campagne contamin‚e par la technologie ş2018
 : .o .     N     _GRANIER DE CASSAGNAC R.     Oeil pour oeil ş2018
-!: .o .     a     _* *                         Toucher pour voir ? ş2018
+: .o .     a     _BERGAUD Christian           Toucher pour voir ? ş2018
 : .o .     N     _BORDAGE Pierre              H+ ş2018
-!: .o .     a     _* *                         H- revisit‚ ş2018
-: .o .     a     _SAINT-MARTIN Francis        Anticipation n'est pas Proph‚tie ! ou, Les misŠres d'un auteur de science-fiction ş2018
+: .o .     a     _VIEU Christophe             H- revisit‚ ş2018
+: .o .     a     _SAINT-MARTIN Francis        Anticipation n'est pas Proph‚tie ! ou Les misŠres d'un auteur de science-fiction ş2018
 : .o .     a     _LEHOUCQ Roland              Sciences et SF, des rapports ‚tranges ? ş2018
 o RIVBL_F    74  2018.11 ..... ISBN 978-1-61227-817-9
 } rivbf074       _Tiffanie Uldry              ?
@@ -4272,14 +4779,14 @@ o RIVBL_F    74  2018.11 ..... ISBN 978-1-61227-817-9
 : .o .     N     _CAPELLE S‚bastien           Le Non de la Rose ş2018
 : .o .     N     _CLAVEL Fabien               La Marche d'Almer¡a ş2018
 : .o .     N     _MILLET Thomas               L'Exp‚dition perdue ş2018
-: .o .     N     _GARISAKI Tesha              Le Festival des Dragons de Tenochtitlan ş2018
+: .o .     N     _GARISAKI Tesha              Le Festival des dragons de Tenochtitlan ş2018
 : .o .     N     _LEAUTE Pierre               Code Noir ş2018
 : .o .     N     _CZARNECKI Marie             La Cantatrice ş2018
 : .o .     N     _CHASTELLIERE Emmanuel       Un dernier th‚ en Antarctique ş2018
 : .o .     N     _DOKE Sara                   L‚opard cha-cha ş2018
 : .o .     N     _GASTEBOIS Louis             Projections ş2018
 : .o .     N     _DANGLES Zo‚                 Celle qui glisse sur les ondes ş2018
-: .o .     N     _OLTION Jerry                Alerte rouge ş1991 Red Alert şTrad? DEVOS Erwan & HEMON Hermine
+: .o .     N     _OLTION Jerry                Alerte rouge ş1991 Red Alert şTrad. DEVOS Erwan & HEMON Hermine
 o RIVBL_F    75  2018.12 ..... ISBN 978-1-61227-824-7
 } rivbf075       _Jos‚ Luis Ruiz P‚rez        ?
 - .oS.     A15   *CAMPEIS Bertrand            Dimension Super-H‚ros - 4 ş2018
@@ -4302,7 +4809,7 @@ o RIVBL_F    75  2018.12 ..... ISBN 978-1-61227-824-7
 !--- (Le Pilote Noir)
 : .o .     N     _CLAVEL Fabien               Le Secret d'Altotas ş2018
 !--- (Le Lys Noir)
-: .o .     N     _ODIVART Yohan               L'homme qui ne peut pas mourir ş2018
+: .o .     N     _ODIVART Yohan               L'Homme qui ne peut pas mourir ş2018
 !--- (Le Comte de Saint-Germain)
 : .o .     N     _HUISSIER Romain d'          L'H‚ritiŠre ş2018
 !--- (Kit Kappa)
@@ -4323,11 +4830,11 @@ o RIVBL_F    77  2019.02 ..... ISBN 978-1-61227-841-4
 : .o .     N     _ISS Raymond                 Morte plaine ş1987
 : .o .     N     _CLAVEL Fabien               Le Fouet de feu ş2019
 : .o .     N     _GODDYN R‚gis                Les Comptes fantastiques de Paris ş2019
-: .o .     N     _CABASSON Armand             La Dame de Chickamauga ş2019
+: .oF.     N     _CABASSON Armand             La Dame de Chickamauga ş2007
 : .o .     N     _TRUDEL Jean-Louis           Les Ailes plomb‚es de l'oiseau noir ş2019
 : .o .     N     _POCHESCI Bruno              Perdre la face ş2019
 : .o .     N     _HENNEBERG Nathalie          Les MaŒtres de l'heure ş1967
-: .o .     N     _LAMBERT Christophe          Nuit rouge ş2019
+: .o .     N     _LAMBERT Christophe          Nuit rouge ş2010
 : .o .     N     _LENCOU Antoine              U229 ş2019
 : .o .     N     _ANDREVON Jean-Pierre        Il faut sauver Hitler ! ş2019
 : .o .     N     _LIGNER Meddy                AuprŠs de Miranda ş2019
@@ -4352,7 +4859,7 @@ o RIVBL_F    79  2019.04 ..... ISBN 978-1-61227-851-3
 o RIVBL_F    80  2019.05 ..... ISBN 978-1-61227-865-0
 } rivbf080       _Arnaud Demaegd              ?
 - .oSP    kA13   *ROUSSEL Pascal              Dimension ‚tranges d‚tectives ş2019
-: .o .     N     _VERRY Patrice               Deux Ex Machina ş2019
+: .o .     N     _VERRY Patrice               Deus Ex Machina ş2019
 : .o .     N     _PAGES Nicolas               Has-been ş2019
 : .o .     N     _TARVEL Brice                Le MystŠre des d‚s … coudre ş2019
 : .o .     N     _ROUSSEL Pascal              Mon effort de guerre ş2019
@@ -4364,7 +4871,7 @@ o RIVBL_F    80  2019.05 ..... ISBN 978-1-61227-865-0
 : .o .     N     _CUIDET Arnaud               Andr‚a contre Docteur X. ş2019
 : .o .     N     _DARNAUDET Boris            &La Nuit des dinosaures ş2019
 &                _DARNAUDET Fran‡ois          
-: .o .     N     _PONTIER Arnauld             L'Affaire de la chandeleur ş2019
+: .o .     N     _PONTIER Arnauld             L'Affaire de la Chandeleur ş2019
 : .o .     N     _GRESSIER Rose Marie-No‰le   La Cr‚ature des enfers ş2019
 o RIVBL_F    81  2019.06 ..... ISBN 978-1-61227-870-4
 } rivbf081       _Tiffanie Uldry              ?
@@ -4372,7 +4879,7 @@ o RIVBL_F    81  2019.06 ..... ISBN 978-1-61227-870-4
 : .o .     p     _BARILLIER Etienne           Pr‚face ş2019
 : .o .     N     _LEMAIRE Pascal              Mort d'un encyclop‚diste ş2019
 : .o .     N     _GAUDEFROY Olivier           La R‚publique pneumatique ş2019
-: .o .     N     _LESAFFRE St‚phane           Europa ş2019
+: .o .     N     _LESAFFRE St‚phane           Europa ş2015
 : .o .     N     _BOILE Olivier               Noches tristes ş2019
 : .o .     N     _SOULAS Floriane             This land is mine ş2019
 : .o .     N     _ROUSSEL Pascal              Op‚ration Baphomet ş2019
@@ -4392,6 +4899,7 @@ o RIVBL_F    81  2019.06 ..... ISBN 978-1-61227-870-4
 : .o .     N     _BODARD Aliette de           L'Homme emport‚ par le vent ş2010 The Wind-Blown Man şTrad. ?
 o RIVBL_F    82  2019.07 ..... ISBN 978-1-61227-884-1
 } rivbf082       _Mandy                       ?
+!--- Se termine par "Le merveilleux entretien - conversation avec Joseph Altairac et Guy Costes"
 - .oS.    kA9    *LANUQUE Jean-Guillaume      Dimension merveilleux scientifique - 5 ş2019
 : .o .     p     _LANUQUE Jean-Guillaume      Pr‚sentation ş2019
 : .o .     N     _BOSCH Thierry               Pour le salut de notre bel empire ş2019
@@ -4405,7 +4913,6 @@ o RIVBL_F    82  2019.07 ..... ISBN 978-1-61227-884-1
 : .o .     a     _LACAZE Dominique            Albert Robida et le merveilleux scientifique ş2019
 : .o .     a     _GONTIER Philippe            Les romanciers d'anticipation oubli‚s : Jules Perrin ş2019
 : .o .     a     _MUNDZIK Fabrice             Un "oubli‚" : F. Jean-Desthieux ş2019
-!--- Le merveilleux entretien - conversation avec Joseph Altairac et Guy Costes ş2019
 o RIVBL_F    83  2019.08 ..... ISBN 978-1-61227-816-2
 } rivbf083       _Jean-Pierre Normand         Olivier Jubo
 - .oI.    kA18   _LIGNER Meddy                Un dimanche aprŠs-midi sur la Lune ş2019
@@ -4500,7 +5007,7 @@ o RIVBL_F    88  2020.02 ..... ISBN 978-1-61227-952-7
 : .o . 223 N     _DANDO-REYREAU Margaux       Irish Punt ş2020
 : .o . 237 N     _GALLERNE Gilbert            TreiziŠme ‚tage ş2020
 : .o . 262 N     _DURAND Fr‚d‚rick            Les Ombres d‚livr‚es ş2020
-: .o . 273 N     _ROSSELET Dola               Devenir gris ş2020
+: .o . 273 N     _ROSSELET Dola               Devenir gris ş2017
 : .o . 277 N     _UNBEKANNT Artikel           Aux morts ş2020
 : .o . 283 N     _LATOUR Marie                Harlem Ghetto ş2020
 : .o . 288 N     _ZAROFF                      Jugement fatal ş2020
@@ -4515,7 +5022,7 @@ o RIVBL_F    89  2020.03 ..... ISBN 978-1-61227-954-1
 : .o .     N     _BARIATINSKI Vladimir        Les Lettres de Mars - Conte ş1904 Pis'ma s Marsa şTrad. LAJOYE Viktoriya & LAJOYE Patrice
 : .oF.     N     _OSSENDOWSKI Ferdynand       Le Brig "Le Terreur" ş1913 Brig "Uzas" şTrad. LAJOYE Viktoriya et Patrice
 : .oS.     N     _KOUPRINE Alexandre          Le Parc royal ş1911 Korolevski park şTrad. LAJOYE Viktoriya & LAJOYE Patrice
-: .o .     X     _BOGORAZ Vladimir            La Conquˆte de l'univers (extrait) ş? Zavo‹evanie vselenno‹ şTrad. LAJOYE Viktoriya & LAJOYE Patrice
+: .o .     X     _BOGORAZ Vladimir            La Conquˆte de l'univers (extrait) ş[1909],1989 Zavo‹evanie vselenno‹ şTrad. LAJOYE Viktoriya & LAJOYE Patrice
 : .o .     N     _SOLOMINE Sergue‹            Les Ancˆtres ş1913 Predki şTrad. LAJOYE Viktoriya & LAJOYE Patrice
 : .o .     N     _FRANTCHITCH Valentin        Les Rayons de la mort ş1916 Loutchi smerti şTrad. LAJOYE Viktoriya & LAJOYE Patrice
 : .o .     N     _FRANTCHITCH Valentin        Le Char du diable ş1917 Kolesnitsa d'iavola şTrad. LAJOYE Viktoriya et Patrice
@@ -4563,6 +5070,7 @@ o RIVBL_F    91  2020.05 ..... ISBN 978-1-61227-976-3
 : .o .     N     _UNBEKANNT Artikel           Seasons of the witch ş2020
 o RIVBL_F    92  2020.06 ..... ISBN 978-1-61227-982-4
 } rivbf092       _Yoz                         ?
+!--- L'article de Brian Stableford pourrait ˆtre extrait de "Scientific Romance in Britain 1890-1950" ?
 - .oS.    kA9    *LANUQUE Jean-Guillaume      Dimension merveilleux scientifique - 6 ş2020
 : .o .     p     _LANUQUE Jean-Guillaume      Pr‚sentation ş2020
 : .o .     N     _AIGNAN Fabien               Mirage ş2020
@@ -4586,10 +5094,10 @@ o RIVBL_F    93  2020.07 ..... ISBN 978-1-61227-989-3
 : .? .     N     _VANHEL Antoine              God War ş2020
 : .o .     N     _DUC H‚lŠne                  Virtua Fanea ş2020
 : .? .     N     _BOILE Olivier               Stade terminal ş2020
-: .? .     N     _CHEVALIER-MOREUX Emilie     Danseurs ş2020
+: .? .     N     _CHEVALLIER MOREUX Emilie    Danseurs ş2020
 : .o .     N     _RENAUT Wilfried             Les Saturnautes ş2018
 : .o .     N     _LAMUR Sylvain               - 0.96 ş2016
-: .? .     N     _VIAL BONACCI Eric           Black Fridus Maximus ş2020
+: .? .     N     _VIAL-BONACCI Eric           Black Fridus Maximus ş2020
 : .? .     N     _FIEROBE Fran‡ois            Neuropodium ş2020
 : .o .     N     _LHOMME Xavier               Le Pitzballer ş2020
 : .? .     N     _DESLACS Andr‚a              Mens sana in corpore sano ş2020
@@ -4603,23 +5111,23 @@ o RIVBL_F    94  2020.09 ..... ISBN 978-1-61227-999-2
 : .? .     N     _CHAUDERON Samantha          La Maladie du Corail ş2020
 : .? .     N     _DELPORTE Emmanuel           Riders on the storm ş2020
 : .? .     N     _ESSARD Manuel               Wihtikow ş2020
-: .? .     N     _GEDDES Gwen                 La Voix int‚rieure ş2020
+: .o .     N     _GEDDES Gwen                 La Voix int‚rieure ş2020
 : .? .     N     _GOAZ Philippe               De la guitare dans l'air ş2020
-: .? .     N     _HEYLBROECK Julien           Nous avons peur et nous sommes seuls ş2020
+: .o .     N     _HEYLBROECK Julien           Nous avons peur et nous sommes seuls ş2020
 : .? .     N     _JOHNSON Sylvain             Death on two legs ş2020
-: .? .     N     _JONES Southeast             Rendez-vous … C‚res ş2020
-: .? .     N     _LAMUR Sylvain               Les Souliers rouges ş2020
-: .? .     N     _LEMURI Dominique            La DerniŠre Randonn‚e ş2020
-: .? .     N     _NOLOT Pascaline             Prayers for RAIN ş2020
-: .? .     N     _PAGŠS Nicolas               Recherche bassiste d‚sesp‚r‚ment ş2020
-: .? .     N     _POCHESCI Bruno              Et toutes ses dents ş2020
-: .? .     N     _QUERBALEC Emilie            Mars H“tel California ş2020
+: .o .     N     _JONES Southeast             Rendez-vous … C‚res ş2020
+: .o .     N     _LAMUR Sylvain               Les Souliers rouges ş2020
+: .o .     N     _LEMURI Dominique            La DerniŠre Randonn‚e ş2020
+: .o .     N     _NOLOT Pascaline             Prayers for RAIN ş2020
+: .? .     N     _PAGES Nicolas               Recherche bassiste d‚sesp‚r‚ment ş2020
+: .o .     N     _POCHESCI Bruno              Et toutes ses dents ş2020
+: .o .     N     _QUERBALEC Emilie            Mars H“tel California ş2020
 : .? .     N     _SIMON Val‚rie               Vamos, Che ş2020
-: .? .     N     _THOMAS C‚line               We'll burn the sky ş2020
-: .? .     N     _WHALE Laurent               Retour … Cable Hogue ş2020
+: .o .     N     _THOMAS C‚line               We'll burn the sky ş2020
+: .o .     N     _WHALE Laurent               Retour … Cable Hogue ş2020
 o RIVBL_F    95  2020.10 ..... ISBN 978-1-64932-013-1
 } rivbf095       _Danielle Serra              ?
-!---  Includes previously published stories "Where Zombies Armies Clash By Night" and "The Necromancers of London"
+!---  Includes previously published stories "Where Zombies Armies Clash by Night" and "The Necromancers of London"
 - .oF.     R     _STABLEFORD Brian M.         Frankenstein … Londres [L'Empire des n‚cromants - 3] ş2010 Frankenstein in London şTrad. BLOND Martine
 o RIVBL_F    96  2020.11 ..... ISBN 978-1-64932-014-8
 } rivbf096       _Jean-Pierre Normand         ?
@@ -4639,9 +5147,12 @@ o RIVBL_F    96  2020.11 ..... ISBN 978-1-64932-014-8
 : .o .     N     _STATTEN Vargo               Le Culte du h‚ros ş1940 He Conquered Venus şTrad. BLOND Martine
 : .o .     a     _HARBOTTLE Philip            Les r‚cits policiers de John Russell Fearn ş2020
 : .o .     a     _NOLANE Richard D.           Bibliographie francaise de John Russell Fearn ş2020
-o RIVBL_F    97  2021.xx ..... ISBN 978-1-64932-030-8
+!------------------------
+!=== 2021
+!------------------------
+o RIVBL_F    97  2021.01 ..... ISBN 978-1-64932-030-8
 } rivbf097       _Michel Borderie             ?
-!--- 304 pages - 21 euros
+!--- GF - 304 pages - 21 euros
 ! Pr‚face de Richard Nolane
 ! ENFANT DE LA TERRE.
 ! LE DOSSIER EARL DUMAREST:
@@ -4652,11 +5163,72 @@ o RIVBL_F    97  2021.xx ..... ISBN 978-1-64932-030-8
 ! Sur les traces de Dumarest par Jean-Marc Lofficier
 ! BIBLIOGRAPHIE ILLUSTREE (100 pages)
 - .oS.     R     _TUBB E.C.                   Enfant de la Terre [Dumarest - 33] ş2008 Child of Earth şTrad. NOLANE Richard D.
-
-
-
-
-
+o RIVBL_F    98  2021.05 ..... ISBN 978-1-64932-059-9
+} rivbf098       _Mike Hoffman                ?
+!--- GF - 288 pages - 20 euros
+- .oS.     R2    _LAIGLE Jean-Pierre         &Dimension Jean-Pierre Laigle ş2021
+&                *BLOND Martine               
+: .o .     p     _NOLANE Richard D.           Laigle s'est envol‚ ş2021
+: .o .     p     _ECKEN Claude                De l'immortalit‚, des civilisations et des chats ş2021
+: .o .     p     _BLOND Martine               Introduction ş2021
+: .o .     N     _LAIGLE Jean-Pierre          Le Dernier Tr‚sor d'Opar ş2021
+: .o .     N     _LAIGLE Jean-Pierre          Erek le maudit ş2021
+: .o .     N     _LAIGLE Jean-Pierre          Glaxies perdues ş2021
+: .o .     N     _LAIGLE Jean-Pierre          Dans trois milliards d'ann‚es ş2021
+: .o .     N     _LAIGLE Jean-Pierre          Le Chat de Tchernobyl ş2006
+: .o .     N     _LAIGLE Jean-Pierre          Sanguis Ad Aeternitatem... ş2021
+: .o .     N     _LAIGLE Jean-Pierre          Les Larves ş2016
+: .o .     N     _LAIGLE Jean-Pierre          Une invasion f‚line ş2021
+o RIVBL_F    99  2021.07 ..... ISBN 978-1-64932-081-0
+} rivbf099       _Mike Hoffman                ?
+!--- GF - 392 pages - 26 euros
+!--- Introduction Jean-Marc Lofficier
+- .oS.     R2    _KLINE Otis Adelbert         L'Aventurier de Mars ş2021
+: .oS.     R     _KLINE Otis Adelbert         L'Aventurier de Mars ş1933 The Swordsman of Mars şTrad. BLOND Martine
+: .oS.     R     _KLINE Otis Adelbert         Les Hors-la-loi de Mars ş1934 The Outlaws of Mars şTrad. BLOND Martine
+!------------------------
+!=== 2022
+!------------------------
+o RIVBL_F   100  2022.02 ..... ISBN 978-1-64932-120-6
+} rivbf100       _Mike Hoffman                ?
+!--- GF - 300 pages - 22 euros
+!--- Inspir‚ du roman de Charles Lomon & P.-B. Gheusi "Les Derniers jours de l'Atlantide" (1905)
+- .o .     R     _SCHILDINER Frank            L'ƒme de Soroe [Les Atlantes - 1] ş2021 The Soul of Soroe şTrad. BAUDURET Thomas
+o RIVBL_F   101  2022.04 ..... ISBN 978-1-64932-134-3
+} rivbf101       _Mike Hoffman                ?
+!--- GF - 424 pages - 28 euros
+- .oS.     R2    _KLINE Otis Adelbert         Le Prince de V‚nus ş2022
+: .o .     R     _KLINE Otis Adelbert         Les P‚rils de V‚nus ş1929 Planet of Peril şTrad. BLOND Martine
+: .o .     R     _KLINE Otis Adelbert         Le Prince de V‚nus ş1930 The Prince of Peril şTrad. BLOND Martine
+!------------------------
+!=== 2023
+!------------------------
+o RIVBL_F   102  2023.xx ..... ISBN 978-1-64932-197-8
+} rivbf102       _Jean-Pierre Normand         ?
+!--- GF - 242 pages - 20 euros
+- .oS.    kN21   *BLAIZOT Denis              &Dimension William L. Alden ş2023
+&                *BLAIZOT Lydie               
+: .o .     N     _ALDEN William L.            La Peste Rouge ş1895 The Purple Death
+: .o .     N     _ALDEN William L.            Une soupape volcanique [Van Wagener] ş1897 A Volcanic Valve
+: .o .     N     _ALDEN William L.            Un vampire moderne ş1895 A Modern Vampire
+: .o .     N     _ALDEN William L.            Un fant“me condens‚ ş1893 A Condensed Ghost
+: .o .     N     _ALDEN William L.            Louise ş1895 Louise
+: .o .     N     _ALDEN William L.            Un Train fant“me ş1896 A Ghost Train
+: .x .     N     _ALDEN William L.            Les Oreilles fatales ş1896 The Fatal Ears
+: .o .     N     _ALDEN William L.            Les chats … incandescence de Carter [Van Wagener] ş1894 Carter's Incandescent Cats / Incandescent Cats 
+: .o .     N     _ALDEN William L.            Les Souris remŠde ş1897 The Mouse Cure
+: .o .     N     _ALDEN William L.            Un tricycle pour deux [Van Wagener] ş1894 A Tricycle Made for Two
+: .o .     N     _ALDEN William L.            Le Chien explosif [Van Wagener] ş1895 The Explosive Dog 
+: .o .     N     _ALDEN William L.            L'Aimant flottant [Van Wagener] ş1898 The Floating Magnet
+: .o .     N     _ALDEN William L.            Un ballon scientifique ş1896 A Scientific Balloon
+: .o .     N     _ALDEN William L.            La Torpille amphibie [Van Wagener] ş1898 The Amphibious Torpedo
+: .o .     N     _ALDEN William L.            Le Saut du Professeur [Van Wagener] ş1898 The Professor's Jump
+: .o .     N     _ALDEN William L.            Une marche a‚rienne [Van Wagener] ş1896 A Flying March
+: .o .     N     _ALDEN William L.            Un piŠge scientifique [Van Wagener] ş1898 A Scientific Trap 
+: .o .     N     _ALDEN William L.            Le Chat volant [Van Wagener] ş1898 Van Wagener's Flying Cat / The Flying Cat
+: .o .     N     _ALDEN William L.            L'Oeil ‚lectrique [Van Wagener] ş1895 Professor Van Wagener's Eye
+: .o .     N     _ALDEN William L.            Les Horloges de Van Wagener [Van Wagener] ş1898 Van Wagener's Clocks
+: .o .     N     _ALDEN William L.            Wagenerium [Van Wagener] ş1906 "Wagenerium"
 
 
 
@@ -4674,7 +5246,7 @@ o RIVBL_B     3  2011.xx ..... ISBN 978-1-61227-044-9
 } rivbb03        _PONZIO Jean-Michel          ?
 - .oF.    kN4    _BARR Robert                 Fant“mes et assassins ş2011
 : .o .     r     _BARR Robert                 Le Fant“me mˆne l'enquˆte ş1893 From Whose Bourne? şTrad. BREQUE Jean-Daniel
-: .o .     N     _BARR Robert                 Un passager encombrant ş1892 The Man Who Was Not on the Passenger List şTrad. BREQUE Jean-Daniel
+: .o .     N     _BARR Robert                 Un passager encombrant ş1892 The Man who Was Not on the Passenger List şTrad. BREQUE Jean-Daniel
 : .o .     N     _BARR Robert                 Le Sablier ş1898 The Hour-Glass şTrad. BREQUE Jean-Daniel
 : .o .     N     _BARR Robert                 La Vengeance du mort ş1894 The Vengeance of the Dead şTrad. BREQUE Jean-Daniel
 o RIVBL_B     4  2011.xx ..... ISBN 978-1-61227-057-9
@@ -4683,9 +5255,9 @@ o RIVBL_B     4  2011.xx ..... ISBN 978-1-61227-057-9
 !--- EDIT/COLL : Black Coat Press : RiviŠre Blanche
 o RIVBL_B     8  2012.06 ..... ISBN 978-1-61227-109-5
 } rivbb08        _Mandy                       ?
+!--- Trad. P. Douhaire, Hell‚, G. Leroy, et Patrice & Viktoria Lajoye.
 - .oFM    kA19   _ODOIEVSKI Vladimir         &La Cit‚ sans nom ş2012
 &                *LAJOYE Patrice              
-!--- şTrad. P. Douhaire, Hell‚, G. Leroy, et Patrice & Viktoria Lajoye.
 !--- Contes fantastiques
 : .oF.     N     _ODOIEVSKI Vladimir          Le Fant“me ş1838 Prividenie
 : .oF.     N     _ODOIEVSKI Vladimir          Opere del cavaliere Gian-Batista Piranesi ş1831 Opere del cavaliere Gian-Batista Piranessi
@@ -4723,7 +5295,7 @@ o RIVBL_B    10  2012.11 ..... ISBN 978-1-61227-138-5
 ?- .xP.     R     _VANCE Louis Joseph          Le Loup solitaire ş1914 The Lone Wolf şTrad. Th‚o Varlet & Louis Postif
 ?o RIVBL_B    13  2013.05 ..... ISBN 978-1-61227-191-0
 ?} rivbb13        _Sylvain Despretz            ?
-?- .xP.     R     _BARR Robert                 Lord Stranleigh ş? ? şTrad. Jean-Daniel BrŠque
+?- .xP.     R     _BARR Robert                 Lord Stranleigh ş? Young Lord Stranleigh şTrad. Jean-Daniel BrŠque
 ?o RIVBL_B    14  2013.07 ..... ISBN 978-1-61227-210-8
 ?} rivbb14        _Tim Lambon                  ?
 ?- .x .     R     _HUME Fergus                 Le Secret d'un Crime ş? ? şTrad. Jean de La Vingtrie
@@ -4744,7 +5316,7 @@ o RIVBL_B    10  2012.11 ..... ISBN 978-1-61227-138-5
 ?- .x .     R     _HILL Headon                 Les Vengeurs ş? ? şTrad. BREQUE Jean-Daniel
 ?o RIVBL_B    20  2014.xx ..... ISBN 978-161227-322-8
 ?} rivbb20        _Sylvain Despretz            ?
-?- .x .     R     _BARR Robert                 Lors Stranleigh, Millionnaire ş? ? şTrad. BREQUE Jean-Daniel
+?- .x .     R     _BARR Robert                 Lord Stranleigh, Millionnaire ş? Stranleigh's Millions şTrad. BREQUE Jean-Daniel
 ?o RIVBL_B    21  2014.xx ..... ISBN 978-161227-336-5
 ?} rivbb20        _Jean-Claude Claeys          ?
 ?- .x .     R     _VANCE Louis Joseph          Noirs diamants [Le Loup solitaire - 3] ş? ? şTrad. VARLET Th‚o & POSTIF Louis + BREQUE Jean-Daniel
@@ -4761,19 +5333,19 @@ o RIVBL_B    10  2012.11 ..... ISBN 978-1-61227-138-5
 ?} rivbb28        _Mike Hoffman                ?
 ?- .x .     R     _TRACY Louis                 L'Etrange Disparition de Lady Delia ş2015 ? şTrad. Th‚odore de Wyzewa
 o RIVBL_B    31  2016.xx ..... ISBN 978-1-61227-209-2
-} rivbb31        _Yoz                         ?
-- .pF.    iA16   _BARR Robert                &Apocalypses et Aigrefins ş2016
+} rivbb31        _Jean-Michel Ponzio          ?
+- .pF.    iAx    _BARR Robert                &Apocalypses et Aigrefins ş2016
 &                *BREQUE Jean-Daniel          
 : .o .     N     _BARR Robert                 Une partie d'‚checs ş1900 A Game of Chess
-: .? .     N     _BARR Robert                 Amende honorable ş? ?
-: .? .     N     _BARR Robert                 Op‚ration boursiŠre ş? ?
-: .? .     N     _BARR Robert                 Le Prisonnier du pacha ş? ?
-: .? .     N     _BARR Robert                 M‚tamorphoses de Johnson ş? ?
-: .? .     N     _BARR Robert                 La Chimie de l'anarchie ş? ?
-: .? .     N     _BARR Robert                 En marge de la loi ş? ?
+: .? .     N     _BARR Robert                 Amende honorable ş? The Count's Apology
+: .? .     N     _BARR Robert                 Op‚ration boursiŠre ş? A Deal on Change
+: .? .     N     _BARR Robert                 Le Prisonnier du pacha ş? The Pasha's Prisonner
+: .? .     N     _BARR Robert                 M‚tamorphoses de Johnson ş? The Metamorphoses of Johnson
+: .? .     N     _BARR Robert                 La Chimie de l'anarchie ş? The Breakup of the Soho Anarchist League
+: .? .     N     _BARR Robert                 En marge de la loi ş1895 Not According to the Code
 : .o .     N     _BARR Robert                 Divorce … la montagne ş1893 An Alpine Divorce
 : .o .     N     _BARR Robert                 Le Plus Fourbe des deux ş1894 The Hour and the Man
-: .? .     N     _BARR Robert                 Le SixiŠme Banc ş? ?
+: .? .     N     _BARR Robert                 Le SixiŠme Banc ş? The Sixth Bench
 : .? .     N     _BARR Robert                 Le Sorcier de Wall Street ş? The Wizard of Wall Street
 : .? .     N     _BARR Robert                 L'Exterminateur ş? The Death Dealer
 : .oS.     N     _BARR Robert                 La Fin de Londres ş1892 The Doom of London
@@ -4810,10 +5382,10 @@ o RIVBL_B    37  2017.xx ..... ISBN 978-1-61227-648-9
 } rivbb37        _Jean-F‚lix Lyon             ?
 - .pF.     N17   _DOYLE Arthur Conan          Contes autour du feu ş2017
 : .o .     N     _DOYLE Arthur Conan          L'Entonnoir de cuir ş1902 The Leather Funnel
-: .o .     N     _DOYLE Arthur Conan          Le Chasseur de scarab‚es ş1911 The Beetle Hunter
+: .x .     N     _DOYLE Arthur Conan          Le Chasseur de scarab‚es ş1898 The Story of Beetle Hunter
 : .o .     N     _DOYLE Arthur Conan          L'Homme aux six montres ş1911 The Man with the Watches
 : .o .     N     _DOYLE Arthur Conan          Le Pot de caviar ş1908 The Pot of Caviare
-: .! .     N     _DOYLE Arthur Conan          La BoŒte de laque ş1899 The Japanned Box
+: .! .     N     _DOYLE Arthur Conan          La BoŒte de laque ş1899 The Story of the Japanned Box
 : .o .     N     _DOYLE Arthur Conan          Le Docteur noir ş1912 The Black Doctor
 : .oF.     N     _DOYLE Arthur Conan          En jouant avec le feu ş1900 Playing With Fire şTrad. ?
 : .o .     N     _DOYLE Arthur Conan          Une piŠce de mus‚e ş1899 The Jew's Breastplate
@@ -4822,7 +5394,7 @@ o RIVBL_B    37  2017.xx ..... ISBN 978-1-61227-648-9
 : .o .     N     _DOYLE Arthur Conan          La Chambre scell‚e ş1898 The Sealed Room
 : .! .     N     _DOYLE Arthur Conan          Le Chat du Br‚sil ş1898 The Story of the Brazilian Cat
 : .o .     N     _DOYLE Arthur Conan          L'trange CollŠgue ş1899 The Story of the Latin Tutor / The Usher of Lea House School
-: .oF.     N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand şTrad. ?
+: .oF.     N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand / The Brown Hand şTrad. ?
 : .! .     N     _DOYLE Arthur Conan          L'Œle hant‚e ş1897 The Fiend of the Cooperage
 : .o .     N     _DOYLE Arthur Conan          Le Voyage de Jelland ş1892 Jelland's Voyage
 : .! .     N     _DOYLE Arthur Conan          Une visite nocturne ş1899 B. 24
@@ -4882,7 +5454,7 @@ o RIVBLHS     ?  2009.03 ..... ISBN 978-1-934543-84-9
 : .o .     N     _GILARD Eric                 Des millions de vies ş2009
 : .o .     N     _MILLER Sylvie              &N'est pacha qui veut [Lasser, d‚tective des dieux] ş2009
 &                _WARD Philippe               
-: .o .     N     _MENOLLY                     Merci pour les croquettes ş2009
+: .o .     N     _MENOLLY                     Merci pour les croquettes ş2005
 : .o .     N     _HALVICK Philippe            Plus petit que soi ş2009
 : .o .     N     _CARAU Cyril                 Ultane et son chevalier ş2009
 : .o .     N     _MAIA Emmanuelle             L'Adoption ş2009
@@ -4895,7 +5467,7 @@ o RIVBLHS     ?  2009.06 ..... ISBN 978-1-934543-00-9
 : .oS.     N     _ROBERSON Chris              Annus Mirabilis [Le Docteur Om‚ga] ş2006 Annus Mirabilis şTrad. ?
 : .o .     N     _HILTZ Travis                Trois hommes, un Martien et un couffin [Le Docteur Om‚ga] ş2008 Three Men, A Martian and a Baby
 : .o .     N     _BAUGH Matthew               Le Coeur de la Lune [Le Docteur Om‚ga] ş2006 The Heart of the Moon
-: .oS.     N     _LEHMAN Serge                Les Melons de Trafalmadore [Le Docteur Om‚ga] ş2008
+: .oS.     N     _LEHMAN Serge                Les Melons de Trafalmadore [Le Docteur Om‚ga] ş2005
 o RIVBLHS     ?  2009.xx ..... ISBN 978-1-934543-98-6
 !--- Cout. Monsu Desiderio
 } noimg          _?                           ?
@@ -4909,7 +5481,7 @@ o RIVBLHS     ?  2009.xx ..... ISBN -
 : .o .     N     _BERGAL Gilles               Planche contact ş1993
 : .oS.     N     _DARNAUDET Fran‡ois          Quoi que vous voulez ? ş2005
 : .oS.     N     _GEHA Thomas                 L'Šre du Tambalacoque [A comme Alone] ş2009
-: .oS.     N     _HERAULT P.J.                Le Secret des Loys [Cal de Ter] ş2008
+: .oS.     N     _HERAULT P.J.                Le Secret des Loys [Cal de Ter] ş2007
 : .oS.     N     _LEGRAND Claude J.           Le Rat de Mirfak ş2009
 : .o .     N     _LIMAT Maurice               La ColŠre des martiens ş1958
 : .oS.     N     _LOFFICIER Jean-Marc         Faut pas pousser Mamie dans les Schlingniarfs [La Machine] ş2007
@@ -4948,8 +5520,8 @@ o RIVBLHS     ?  2010.05 ..... ISBN 978-1-935558-20-0
 : .oS.     N     _DAVOUST Lionel              PriŠre … Aarluk ş2010
 
 !--- TBC hors genres ? ou partiellement fantastique ?
-?o RIVBLHS  HS12  2010.10 ..... ISBN 978-1-935558-74-3
-?} noimg          _Christophe Palma            ?
+?o RIVBLHS        2010.10 ..... ISBN 978-1-935558-74-3
+?} rivbhs12       _Christophe Palma            ?
 ?- .oF.     R     _DARNAUDET Fran‡ois          Trois guerres pour Emma ş2010
 
 o RIVBLHS     ?  2011.06 ..... ISBN 978-1-61227-016-6
@@ -4963,7 +5535,7 @@ o RIVBLHS     ?  2011.06 ..... ISBN 978-1-61227-017-3
 } noimg          _Denis Rodier                ?
 - .oF.     R     _LA HIRE Jean de             Nyctalope contre Lucifer [Lucifer - 1/2][Le Nyctalope] ş1922
 o RIVBLHS     ?  2011.09 ..... ISBN 978-1-61227-047-0
-} rivbhs15       _Mary-Ga‰l Tramon            ?
+} rivbhs15       _Mary-Ga‰l Tramon            Mary-Ga‰l Tramon
 - .oF.    kT2    _SADOUL Barbara              Vampirette et sortilŠges ş2011
 : .oF.     T     _SADOUL Barbara              Le R‚veil d'une vampirette ş2011
 : .oF.     T     _SADOUL Barbara              Pustules et sortilŠges ş2005
@@ -4972,8 +5544,8 @@ o RIVBLHS     ?  2011.11 ..... ISBN 978-1-61227-059-3
 } rivbhs16       _PAYER Anne-Claire           N
 - .pFS    kN11   _PAGEL Michel                La Vie … ses rˆves ş2011
 : .oY.     N     _PAGEL Michel                Pour ˆtre un homme ş1998
-: .o .     N     _PAGEL Michel                Les Mains de Farah Yole ş1990
-: .xP.     N     _PAGEL Michel                L'Index bris‚ ş2005
+: .oF.     N     _PAGEL Michel                Les Mains de Farah Yole [La Com‚die inhumaine] ş1990
+: .!P.     N     _PAGEL Michel                L'Index bris‚ ş2005
 : .o .     N     _PAGEL Michel                Adieu, prince charmant ş2011
 : .oS.     N     _PAGEL Michel                La Route de Memphis ş2003
 : .o .     N     _PAGEL Michel                Le Petit Coup d'‚p‚e de Maurevert ş2008
@@ -5003,7 +5575,7 @@ o RIVBLHS     ?  2013.02 ..... ISBN 978-1-61227-166-8
 : .oS.     N     _ISS Raymond                 L'Ambassadeur ş2007
 : .o .     N     _ISS Raymond                 Les Beaux Voyages de l'oncle Paul ş1994
 : .o .     N     _ISS Raymond                 Soldats de lumiŠre ş1994
-: .o .     N     _ISS Raymond                 La Fenˆtre d'orient ş2013
+: .o .     N     _ISS Raymond                 La Fenˆtre d'Orient ş2013
 o RIVBLHS     ?  2013.02 ..... ISBN 978-1-61227-216-0
 } rivbhs19       _Mad Dog                     ?
 - .oS.     R2N6  _SELLIG                      L'Int‚grale Koumlaks ş2013
@@ -5089,10 +5661,10 @@ o RIVBLHS     ?  2015.12 ..... ISBN 978-1-61227-472-0
 !--- TBC roman ou 4 nouvelles ? : … priori 4 
 !--- Introduction par Brian Stableford & J.-M. Lofficier
 - .oPF     N4    _SEVESTRE Norbert            Sƒr Dubnotal contre Jack l'‚ventreur [Sƒr Dubnotal] ş2015
-: .o .     N     _SEVESTRE Norbert            Tserpchikopf, le sanglant hypnotiseur [Sƒr Dubnotal] ş1909
-: .o .     N     _SEVESTRE Norbert            L'cartel‚e de Montmartre [Sƒr Dubnotal] ş1909
-: .o .     N     _SEVESTRE Norbert            Jack l'‚ventreur [Sƒr Dubnotal] ş1909
-: .o .     N     _SEVESTRE Norbert            Haine posthume [Sƒr Dubnotal] ş1909
+: .o .     N     _SEVESTRE Norbert            Tserpchikopf, le sanglant hypnotiseur [Sƒr Dubnotal - 7] ş1909
+: .o .     N     _SEVESTRE Norbert            L'cartel‚e de Montmartre [Sƒr Dubnotal - 9] ş1909
+: .o .     N     _SEVESTRE Norbert            Jack l'‚ventreur [Sƒr Dubnotal - 10] ş1909
+: .o .     N     _SEVESTRE Norbert            Haine posthume [Sƒr Dubnotal - 11] ş1909
 o RIVBLHS     ?  2016.xx ..... ISBN 978-1-61227-509-3
 } rivbhs28       _Jean-F‚lix Lyon             ?
 - .o .     R     _KRAPIVINE Vladislav         Les Sanzindes ş? ? şTrad. DOILLON Fran‡ois et PALMA Tatiana
@@ -5211,7 +5783,7 @@ o RIVBLHS    47i 2018.01 ..... ISBN 978-1-61227-539-0
 } rivbhs2017_1   _Mike Hoffman                ?
 - .oIK     A40   _ROGERS Bruce Holland        L'Op‚ra des serrures ş2005 The Keyhole Opera şTrad. DAVOUST Lionel
 : .o .     p     _VANDERMEER Jeff             Hommage … un maŒtre de la forme courte ş2005 An Appreciation of a Master of the Short Form
-: .o .     p     _BISHOP Michael              Une introduction … une ouverture … L'Op‚ra des serrures ş2005 An Introduction to an Overture to The Keyhole Opera / Rogerian Modes of Discourse: An Overture
+: .o .     p     _BISHOP Michael              Une introduction … une ouverture … L'Op‚ra des serrures ş2005 An Introduction to an Overture to the Keyhole Opera / Rogerian Modes of Discourse: An Overture
 : .C .     C     _ROGERS Bruce Holland        R‚cits ş2005 Stories
 : .o .     N     _ROGERS Bruce Holland        Le R‚cit d'Avery ş1988 Avery's Story
 : .o .     N     _ROGERS Bruce Holland        La DerniŠre Fenˆtre invisible du train inaper‡u ş1999 The Last Unseen Window in the Last Unseen Car
@@ -5243,14 +5815,14 @@ o RIVBLHS    47i 2018.01 ..... ISBN 978-1-61227-539-0
 : .o .     N     _ROGERS Bruce Holland        Que vienne la r‚volution ş2001 Come the Revolution
 : .o .     N     _ROGERS Bruce Holland        Analyse de texte ş2005 A Story for Discussion
 : .C .     C     _ROGERS Bruce Holland        Contes ş2005 Tales
-: .o .     N     _ROGERS Bruce Holland        Le Djinn qui vivait entre la nuit et le jour ş2001 The Djinn Who Lives Between Night and Day
+: .o .     N     _ROGERS Bruce Holland        Le Djinn qui vivait entre la nuit et le jour ş2001 The Djinn who Lives Between Night and Day
 : .o .     N     _ROGERS Bruce Holland        Ecoute, ‚coute ş1994 Listening, Listening
 : .o .     N     _ROGERS Bruce Holland        Les Rames ş2003 The Rower
 : .o .     N     _ROGERS Bruce Holland        La Moiti‚ de l'empire ş2002 Half of the Empire
 : .o .     N     _ROGERS Bruce Holland        Des cavit‚s comme dans une ruche ş1994 Chambers Like a Hive
 : .o .     N     _ROGERS Bruce Holland        Gombo, Sorgho, Igname ş2003 Okra, Sorghum, Yam
 : .o .     N     _ROGERS Bruce Holland        La Bˆte ş2004 The Beast
-: .o .     N     _ROGERS Bruce Holland        Le Conqu‚rant ş2004 The One Who Conquers
+: .o .     N     _ROGERS Bruce Holland        Le Conqu‚rant ş2004 The One who Conquers
 : .o .     N     _ROGERS Bruce Holland        Les Clochettes ş2002 Tiny Bells
 : .o .     N     _ROGERS Bruce Holland        Le Gar‡on mort … votre fenˆtre ş1998 The Dead Boy at Your Window
 : .C .     C     _ROGERS Bruce Holland        Sym‚trinas ş2005 Symmetrinas
@@ -5268,7 +5840,7 @@ o RIVBLHS    51i 2018.06 ..... ISBN 978-1-61227-769-1
 } noimg          _Jean-F‚lix Lyon             ?
 !--- Semble SF, mais … confirmer
 - .oS.     R     _ISS Raymond                 Le Bar des Afrancesados ş2018
-!o RIVBLHS    52  2018.07 ..... ISBN 978-1-61227-775-2
+!o RIVBLHS    52i 2018.07 ..... ISBN 978-1-61227-775-2
 !} noimg          _Mike Hoffman                ?
 !!--- Chroniques cin‚ma
 !- .x .     E     _PAGEL Michel                Pour une Poign‚e de Nanars ş2018
@@ -5301,8 +5873,8 @@ o RIVBLHS    53i 2018.08 ..... ISBN 978-1-61227-786-8
 : .o .     N     _OLIVIER Jean-Jacques        Le Tableau de Zimmerman ş2018
 : .o .     N     _OLIVIER Jean-Jacques        Message pour le futur ş1963
 : .oS.     N     _OLIVIER Jean-Jacques        Le Hollandais volant ş2014
-!o RIVBL    HS54  2018.09 ..... ISBN 978-1-61227-803-2
-!} noimg          _Maddog                      ?
+!o RIVBL     54i  2018.09 ..... ISBN 978-1-61227-803-2
+!} rivbhs54       _Maddog                      ?
 !- .x .     R     _SELLIG                      Quand le chat est l…, les souris dansent ş2018
 o RIVBLHS    55i 2018.11 ..... ISBN 978-1-61227-823-0
 } rivbhs55       _Ladr”nn                     ?
@@ -5359,7 +5931,7 @@ o RIVBLHS    65  2019.09 ..... ISBN 978-1-61227-858-2
 - .oF.     R     _WARD Philippe               Le MaŒtre du Nil ş2019
 o RIVBLHS    66  2019.10 ..... ISBN 978-1-61227-914-5
 } rivbhs66       _Adam Tredowski              ?
-- .oS.    iR3N   _BLONDELON Alain             Onde de choc - L'int‚grale [Onde de choc] ş2019
+- .oS.    iR3Nx  _BLONDELON Alain             Onde de choc - L'int‚grale [Onde de choc] ş2019
 : .oS.     R     _BLONDELON Alain             Onde de choc [Onde de choc - 1] ş2009
 : .oS.     R     _BLONDELON Alain             D‚g‚n‚ration future [Onde de choc - 2] ş2012
 : .oS.     R     _BLONDELON Alain             Ronces mortelles [Onde de choc - 3] ş2018
@@ -5390,9 +5962,9 @@ o RIVBLHS    71  2020.07 ..... ISBN 978-1-61227-987-9
 &                _BELMAS Robert               
 : .o .     N     _BELMAS Claire              &Mort d'un simili ş2020
 &                _BELMAS Robert               
-: .o .     N     _BELMAS Claire              &Le Nid de la Sphinge ş2020
+: .o .     N     _BELMAS Claire              &Le Nid de la Sphinge ş2018
 &                _BELMAS Robert               
-: .o .     N     _BELMAS Claire              &Le Bal des Ardents ş2020
+: .oS.     N     _BELMAS Claire              &Le Bal des ardents [Cycle des Terres Mortes] ş2001
 &                _BELMAS Robert               
 : .o .     N     _BELMAS Claire              &Mon beau miroir... ş2020
 &                _BELMAS Robert               
@@ -5454,6 +6026,118 @@ o RIVBLHS     ?  2020.12 ..... ISBN 978-1-64932-032-2
 : .o .     N     _MALOSSE Pascal              Le Jeu ş2020
 : .o .     N     _POCHESCI Bruno              La Dame en noir et blanc ş2020
 : .o .     N     _BOULANGER Anthony           Roaring districts & bubbles ş2020
+!------------------------
+!=== 2021
+!------------------------
+o RIVBLHS     ?  2021.02 ..... ISBN 978-1-64932-043-8
+} rivbhs75       _Mandy                       ?
+!--- GF - 228 pages
+- .oI.     N40   _BESNARD Dominique           Extravagances ş2021
+: .o .     p     _RENESSON Jean-Michel        Pr‚face ş2021
+: .o .     N     _BESNARD Dominique           M‚tamorphose ş2021
+: .o .     N     _BESNARD Dominique           N'a-qu'un-oeil et Longues-Pattes ş2021
+: .o .     N     _BESNARD Dominique           Le Boyau de l'horreur ş2021
+: .o .     N     _BESNARD Dominique           L'Observatoire ş2021
+: .o .     N     _BESNARD Dominique           L'Escalier ş2021
+: .o .     N     _BESNARD Dominique           Fleur de courgette ş2021
+: .o .     N     _BESNARD Dominique           Une ‚vasion peu banale ş2021
+: .o .     N     _BESNARD Dominique           La Tribu ş2021
+: .o .     N     _BESNARD Dominique           Le Tricot ş2021
+: .o .     N     _BESNARD Dominique           La Transparente ş2021
+: .o .     N     _BESNARD Dominique           L'‚ph‚mŠre ‚ph‚m‚ride ş2021
+: .o .     N     _BESNARD Dominique           Un si long voyage ş2021
+: .o .     N     _BESNARD Dominique           L'oeil ş2021
+: .o .     N     _BESNARD Dominique           L'Aventurier ş2021
+: .o .     N     _BESNARD Dominique           Les Disques fantastiques ş2021
+: .o .     N     _BESNARD Dominique           Le Train fant“me ş2021
+: .o .     N     _BESNARD Dominique           L'Amour … contre-jour ş2021
+: .o .     N     _BESNARD Dominique           La Brocante vivante ş2021
+: .o .     N     _BESNARD Dominique           Jour aprŠs jour ş2021
+: .o .     N     _BESNARD Dominique           Par une nuit d'orage ş2021
+: .o .     N     _BESNARD Dominique           Dans-Ta-Tˆte ş2021
+: .o .     N     _BESNARD Dominique           "Ils" ş2021
+: .o .     N     _BESNARD Dominique           La Bˆte ş2021
+: .o .     N     _BESNARD Dominique           Un jour Facebook t'avalera ! ş2021
+: .o .     N     _BESNARD Dominique           James Bondy ş2021
+: .o .     N     _BESNARD Dominique           Je suis un monstre ş2021
+: .o .     N     _BESNARD Dominique           Les Fant“mes de la tour Eiffel ş2021
+: .o .     N     _BESNARD Dominique           La Boule … neige ş2021
+: .o .     N     _BESNARD Dominique           La Dent du Diable ş2021
+: .o .     N     _BESNARD Dominique           Les Roses tr‚miŠres de l'Œle d'Ol‚ron ş2021
+: .o .     N     _BESNARD Dominique           AchŠte-moi ! ş2021
+: .o .     N     _BESNARD Dominique           Le Tableau infernal ş2021
+: .o .     N     _BESNARD Dominique           L'Ombre ş2021
+: .o .     N     _BESNARD Dominique           L'Obscure et obs‚dante obsidienne ş2021
+: .o .     N     _BESNARD Dominique           Rajtalia ş2021
+: .o .     N     _BESNARD Dominique           Chut ! ş2021
+: .o .     N     _BESNARD Dominique           Le Vide-Maison ş2021
+: .o .     N     _BESNARD Dominique           La Boule disco ş2021
+: .o .     N     _BESNARD Dominique           L'Araign‚e ş2021
+: .o .     N     _BESNARD Dominique           Disparition ş2021
+o RIVBLHS     ?  2021.03 ..... ISBN 978-1-64932-047-6
+} rivbhs76       _Jean-Claude Forest          ?
+!--- GF - 240 pages
+!--- 14 entretiens avec des auteurs anglo-saxons et fran‡ais
+- .o .     E     _BERGAL Gilles               Les Fabricants de rˆves ş2021
+o RIVBLHS     ?  2021.12 ..... ISBN 978-1-64932-101-5
+} rivbhs78       _Mandy                       ?
+!--- GF - 132 pages - 12 euros
+!--- 32 micro-nouvelles
+- .oFT     A32   *UNBEKANNT Artikel           PrŠs de l'os ş2021
+: .o .     N     _BE Henri                    Dans le miroir du salon ş2021
+: .o .     N     _BE Henri                    "Si tu regardes dans un abŒme, l'abŒme regarde aussi en toi" ş2021
+: .o .     N     _BE Henri                    Les Hommes noirs ş2021
+: .o .     N     _ROBERT Catherine            Neige rouge ş2021
+: .o .     N     _ROBERT Catherine            Un pied d'enfer ş2021
+: .o .     N     _ROBERT Catherine            Au ralenti ş2021
+: .o .     N     _ROLLET Serge                Ailurophobie ş2021
+: .o .     N     _ROLLET Serge                Le roi est mort ş2021
+: .o .     N     _ROLLET Serge                MaŒtres du monde ş2021
+: .o .     N     _KY'                         A vous l'honneur ! ş2021
+: .o .     N     _KY'                         Au menu ş2021
+: .o .     N     _KY'                         Mantidae ş2021
+: .o .     N     _MARTINS Steve               C‚sures ş2021
+: .o .     N     _MARTINS Steve               Corpore sano ş2021
+: .o .     N     _MARTINS Steve               Panne d'humanit‚ ş2021
+: .o .     N     _LOFFICIER Jean-Marc         Papa ş2012
+: .o .     N     _LOFFICIER Jean-Marc         Enfer priv‚ ş?
+: .o .     N     _LATOUR Marie                Paroles de robots ş2021
+: .o .     N     _LATOUR Marie                Je suis un zombie ş2021
+: .o .     N     _LATOUR Marie                Confession ş2021
+: .o .     N     _CANCEREUGENE                Rupture ş2021
+: .o .     N     _CANCEREUGENE                Autoroute du soleil ş2021
+: .o .     N     _CANCEREUGENE                Bascule ş2021
+: .o .     N     _BUSCHMANN Sarah             SanCorp ş2021
+: .o .     N     _BUSCHMANN Sarah             Tu br–les ş2021
+: .o .     N     _BUSCHMANN Sarah             Couleur pass‚ ş2021
+: .o .     N     _ZAROFF                      Variant Omicron ş2021
+: .o .     N     _ZAROFF                      Leucos‚lophobie ş2021
+: .o .     N     _ZAROFF                      Un rˆve d'ailleurs ş2021
+: .o .     N     _ROSSELET Dola               Comme du chiendent ş2021
+: .o .     N     _ROSSELET Dola               Le Mardi, … l'infini ş2021
+: .o .     N     _ROSSELET Dola               Extinction des feux ş2021
+o RIVBLHS     ?  2022.01 ..... ISBN 978-1-64932-106-0
+} rivbhs79       _My-Ly Vu                    ?
+!--- GF - 264 pages - 20 euros
+- .pSF     N12   _CANAL Richard               Bunker Hill ş2022
+: .o .     N     _CANAL Richard               Potemkine ş1999
+: .? .     N     _CANAL Richard               La Limonade ş?
+: .o .     N     _CANAL Richard               Les Grenats et les anges ş1997
+: .? .     N     _CANAL Richard               Le Ticket jaune ş?
+: .o .     N     _CANAL Richard               Petit Paul, Petit Jean et mon oncle ş1991
+: .o .     N     _CANAL Richard               Tentation ş1982
+: .o .     N     _CANAL Richard               Mille soleils ş1990
+: .? .     N     _CANAL Richard               Dinosaures ş?
+: .o .     N     _CANAL Richard               Crever les yeux de Dieu ş1993
+: .? .     N     _CANAL Richard               L'Homme lourd ş?
+: .? .     N     _CANAL Richard               Les Profils d'Allah ş?
+: .? .     N     _CANAL Richard               Bunker Hill  ş?
+o RIVBLHS     ?  2022.09 ..... ISBN 978-1-64932-150-3
+} rivbhs80       _Adam Tredowski              ?
+!--- GF - 312 pages - 20 euros
+- .oS.     R2    _BLONDELON Alain             Chroniques des D‚fricheurs - L'Int‚grale [Chroniques des d‚fricheurs - 1/2] ş2022
+: .o .     R     _BLONDELON Alain             Connexions mentales [Chroniques des d‚fricheurs - 1] ş2014-2022
+: .o .     R     _BLONDELON Alain             Le Royaume des D“mes [Chroniques des d‚fricheurs - 2] ş2022
 
 
 !-----------------------------------------------------------------------------
@@ -5472,7 +6156,7 @@ o RIV_ICA     ?  2009.01 ..... ISBN 978-1-932983-75-3
 : .oF.     N     _VIAUD Eva                   Elle m'a tu‚... ş?
 : .oF.     N     _VIAUD Eva                   Personne n'‚chappe … son destin ş?
 : .oF.     N     _VIAUD Eva                   La Greffe du pass‚ ş2006
-: .oF.     N     _VIAUD Eva                   Descente aux enfers ş?
+e .oF.     N     _VIAUD Eva                   Descente aux enfers ş?
 : .oF.     N     _VIAUD Eva                   Maudite soit la boh‚mienne ş?
 : .oF.     N     _VIAUD Eva                   Promesse tenue ş?
 : .oF.     N     _VIAUD Eva                   Un plat qui se mange froid ş?
@@ -5499,16 +6183,16 @@ o RIV_ICA     ?  2009.01 ..... ISBN 978-1-932983-75-3
 ?: .oF.     .     _VIAUD Eva                   Sources ş?
 
 !-----------------------------------------------------------------------------
-_ RIVCHAB Ed. RiviŠre Blanche et Mairie de Chalabre
+_ RIVCHAB RiviŠre Blanche et Mairie de Chalabre
 !-----------------------------------------------------------------------------
 o RIVCHAB     ?  2006.xx ..... ISBN 1-932983-90-2
 } rivchab01      _?                           N
-- .p .    iA18   ****                         Dieu reconnaŒtra les siens... ş2006
+- .p .    iAx    ****                         Dieu reconnaŒtra les siens... ş2006
 : .oFA     N     _PERROT Christian            M‚moire Cathare ş2006
 : .oFA     N     _DEBATS Jeanne-A             Cendres ş2006
 o RIVCHAB     ?  2013.xx ..... ISBN 978-1-61227-316-7
 } rivchab13      _?                           N
-- .pS.    iA18   *WARD Philippe               Tous les tr‚sors du monde ş2013
+- .pS.    iAx    *WARD Philippe               Tous les tr‚sors du monde ş2013
 : .oS.     N     _BOIVIN Elodie               L'Arche de Svalbarg ş2013
 
 o RIVBLHS     ?  2010.07 ..... ISBN 978-1-935558-55-2
@@ -5538,5 +6222,5 @@ o RIVBLHS     ?  2010.07 ..... ISBN 978-1-935558-55-2
 : .oY.     N     _PERROT Christian            Miroitement ş2010
 : .oY.     N     _PONTIER Arnauld             Eau ş2010
 : .oY.     N     _VIDAL Gabriel               Les Montagnes tambours ş2010
-: .oY.     N     _WARD Philippe               Le Fils de l'eau ş2010
+: .oS.     N     _WARD Philippe               Le Fils de l'eau ş2003
 

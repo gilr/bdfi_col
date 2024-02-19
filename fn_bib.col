@@ -15,13 +15,13 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ FN_BIBF Fleuve Noir, BibliothŠque du fantastique
+_ FN_BIBF Fleuve Noir - BibliothŠque du fantastique
 !-----------------------------------------------------------------------------
 !--- BibliothŠque du fantastique (1997 - ...)
 !--- Collection dirig‚e par Fran‡ois DUCOS
 !-----------------------------------------------------------------------------
 o FN_BIBF     1i 1997.xx ..... ISBN 2-265-05928-5
-} fnbib01        _?                           N
+} bibfant01      _?                           N
 - .oF.     A6    ****                         La Mal‚diction des momies ş1997
 : .oF.     R     _BOOTHBY Guy                 Pharos l'‚gyptien ş1899 Pharos, the Egyptian: a Romance şTrad. AUBRY J.-H.
 : .oF.     N     _BLOCH Robert                Les Yeux de la momie ş1938 The Eyes of the Mummy
@@ -30,14 +30,14 @@ o FN_BIBF     1i 1997.xx ..... ISBN 2-265-05928-5
 : .oF.     N     _ALLEN Grant                 Le Jour de l'an chez les momies ş1878 My New Year's Eve Among the Mummies
 : .oF.     N     _HERING H.A.                 Deux professeurs et une momie ş1901 Two Professors and One Mummy şTrad. ?
 o FN_BIBF     2i 1997.xx ..... ISBN 2-265-05745-2
-} fnbib02        _?                           N
+} bibfant02      _?                           N
 - .oT.     R4    _PELOT Pierre                La Peau de l'orage ş1997
 : .oT.     R     _PELOT Pierre                La Peau de l'orage ş1973
 : .oT.     R     _PELOT Pierre                Duz ş1973
 : .oT.     R     _PELOT Pierre                Je suis la brume ş1974
-: .oT.     R     _PELOT Pierre                Brouillards ş1973
+: .oT.     R     _PELOT Pierre                Brouillards ş1975
 o FN_BIBF     3i 1997.11 ..... ISBN 2-265-06376-2
-} fnbib03        _?                           N
+} bibfant03      _?                           N
 - .oT.     R4    _AGAPIT Marc                 La Bˆte immonde ş1997
 : .oT.     R     _AGAPIT Marc                 La Bˆte immonde ş1959
 : .oT.     R     _AGAPIT Marc                 Agence tous crimes ş1958
@@ -71,7 +71,7 @@ o FN_BIBF     4i 1998.01 ..... ISBN 2-265-06225-1
 : .o .     N     _PREVOT G‚rard               La Petite Gare de North Berwick ş1970
 : .o .     N     _PREVOT G‚rard               Etrange ‚clipse ş?
 : .o .     N     _PREVOT G‚rard               Le Rapport venu du Rhin ş1970
-: .o .     N     _PREVOT G‚rard               Celui qui venait de partout ş?
+: .o .     N     _PREVOT G‚rard               Celui qui venait de partout ş1973
 : .o .     N     _PREVOT G‚rard               La Rencontre ş?
 : .o .     N     _PREVOT G‚rard               Le TroisiŠme Chat ş?
 : .o .     N     _PREVOT G‚rard               La Bu‚e ş1973
@@ -85,11 +85,11 @@ o FN_BIBF     4i 1998.01 ..... ISBN 2-265-06225-1
 : .o .     N     _PREVOT G‚rard               Les Oyats ş?
 : .o .     N     _PREVOT G‚rard               Le Spectre m‚canique ş1974
 o FN_BIBF     5i 1998.xx ..... ISBN 2-265-06475-0
-} fnbib05        _?                           N
-- .oF.     RN5   _REMY Yves & Ada             Les Soldats de la mer ş1998
+} bibfant05      _?                           N
+- .oI.     RN5   _REMY Yves & Ada             Les Soldats de la mer ş1998
 !--- pr‚face de Daniel RICHE
 : .o .     p     _RICHE Daniel                Pr‚face ş1998
-: .oF.     C23   _REMY Yves & Ada             Les Soldats de la mer ş1968-1998
+: .oI.     C23   _REMY Yves & Ada             Les Soldats de la mer ş1968-1986
 = .o .     N     _REMY Yves & Ada             Naissance de la f‚d‚ration ş1986
 = .o .     N     _REMY Yves & Ada             PremiŠre f‚d‚ration ş1986
 = .o .     N     _REMY Yves & Ada             Suicide par imprudence ş1968
@@ -122,7 +122,7 @@ o FN_BIBF     5i 1998.xx ..... ISBN 2-265-06475-0
 !--- piŠce radiophonique :
 : .o .     H     _REMY Yves & Ada             Le Colporteur de bruits ş1998
 o FN_BIBF     6i 1998.xx ..... ISBN 2-265-06486-6
-} fnbib06        _?                           N
+} bibfant06      _?                           N
 - .oF.    _RN17  _RENARD Christine           &La Mante au fil des jours ş1998
 &                *RUAUD Andr‚-Fran‡ois        
 !--- Pr‚face et biblio de Andr‚-Fran‡ois RUAUD
@@ -145,7 +145,7 @@ o FN_BIBF     6i 1998.xx ..... ISBN 2-265-06486-6
 : .o .     N     _RENARD Christine            Aux abords des sources ş1977
 : .o .     N     _RENARD Christine            Tendres humanit‚s ş1986
 o FN_BIBF     7i 1998.xx ..... ISBN 2-265-06482-3
-} fnbib07        _?                           N
+} bibfant07      _?                           N
 - .oF.     R2N4  _STOKER Bram                 Le Joyau des sept ‚toiles ((R‚cits gothiques)) ş1994
 : .o .     R     _STOKER Bram                 Le Repaire du ver blanc ş1911 The Lair of the White Worm şTrad. TRUCHAUD Fran‡ois
 : .o .     R     _STOKER Bram                 Le Joyau des sept ‚toiles ş1903 The Jewel of Seven Stars şTrad. PARSONS Jacques
@@ -178,23 +178,22 @@ o FN_BIBF     8i 1998.xx R.... ISBN 2-265-06487-4
 = .o .     N     _BOUQUET Jean-Louis          L'Obsession de madame Valette ş[1954],1980
 = .o .     N     _BOUQUET Jean-Louis          Prodiges au vieux pays ş1966
 = .o .     N     _BOUQUET Jean-Louis          La Preuve ş1954
-= .o .     N     _BOUQUET Jean-Louis          La Cit‚ d'Ombre ş[1967],1980
-= .o .     N     _BOUQUET Jean-Louis          Le Soleil Noir d'Ermenonville ş[1946],1980
+= .o .     N     _BOUQUET Jean-Louis          La Cit‚ d'ombre ş[1967],1980
+= .o .     N     _BOUQUET Jean-Louis          Le Soleil noir d'Ermenonville ş[1946],1980
 = .o .     H     _BOUQUET Jean-Louis          Rendez-vous avec le d‚mon ş[1953],1980
 o FN_BIBF     9i 1998.xx ..... ISBN 2-265-06567-6
-} fnbib09        _?                           N
+} bibfant09      _?                           N
 - .o .     R4    _ANDRIAT Frank              &Les L‚gions du n‚ant [Dogston H. Juge] ş1998
 &                _MYTHIC                      
 : .o .     R     _ANDRIAT Frank              &Juridiction z‚ro [Dogston H. Juge] ş1980
 &                _MYTHIC                      
-!--- Glenat 1980, r‚‚d. M‚mor 1995
 : .o .     R     _ANDRIAT Frank              &Duckstone [Dogston H. Juge] ş1995
 &                _MYTHIC                      
 : .o .     R     _ANDRIAT Frank              &Le Voleur d'ans [Dogston H. Juge] ş1995
 &                _MYTHIC                      
 : .o .     R     _MYTHIC                      Les L‚gions du n‚ant [Dogston H. Juge] ş1995
 o FN_BIBF    10i 1998.xx ..... ISBN 2-265-06612-5
-} fnbib10        _?                           N
+} bibfant10      _?                           N
 - .oF.    _R3N5  _PAGEL Michel               &La Com‚die inhumaine ş1998
 &                *RUAUD Andr‚-Fran‡ois        
 : .o .     R     _PAGEL Michel                Sylvana [La Com‚die inhumaine] ş1989
@@ -208,11 +207,14 @@ o FN_BIBF    10i 1998.xx ..... ISBN 2-265-06612-5
 !--- Nouvelle version de "Kensa‹"
 : .o .     N     _PAGEL Michel                Ce n'‚tait qu'un rˆve... [La Com‚die inhumaine] ş1994
 o FN_BIBF    11i 1999.xx ..... ISBN 2-265-06581-1
-} fnbib11        _?                           N
-- .o .     R2N37 _RUELLAN Andr‚               De flamme et d'ombre ş1999
+} bibfant11      _?                           N
 !--- 2 romans et 37 nouvelles
+!--- Le texte "Bon voyage en perspective (1962) est le mˆme que "La consultation"
+!--- TBD si les deux recueils inclus (L'amour et la mort, N13, et L'Attila du gai-savoir, N15) sont identifi‚s
+!--- ainsi qu'une section "IntermŠde panique", "PoŠmes"
+!--- TBD ‚galement si inclus et identif‚ le recueil N24 "Contes au scalpel" ?
+- .o .     R2N37 _RUELLAN Andr‚               De flamme et d'ombre ş1999
 : .o .     R     _RUELLAN Andr‚               De flamme et d'ombre ş1956
-!---       N13   _RUELLAN Andr‚               L'amour et la mort ş?
 : .oF.     N     _RUELLAN Andr‚               Lorsque l'enfant paraŒt ş1966
 : .oF.     N     _RUELLAN Andr‚               Un jour, une nuit ş1965
 : .oF.     N     _RUELLAN Andr‚               L'change ş1967
@@ -227,7 +229,6 @@ o FN_BIBF    11i 1999.xx ..... ISBN 2-265-06581-1
 : .oF.     N     _RUELLAN Andr‚               Une torture … visage humain ş1980
 : .oF.     N     _RUELLAN Andr‚               Don Juan et le Petit Chaperon Rouge ş1965
 : .o .     R     _RUELLAN Andr‚               L'Envers du masque ş1957
-!---       N15   _RUELLAN Andr‚               L'Attila du gai-savoir ş?
 : .oF.     N     _RUELLAN Andr‚               Comment rater sa naissance ş1962
 : .oF.     N     _RUELLAN Andr‚               Comment rater son existence ş1964
 : .oF.     N     _RUELLAN Andr‚               Comment d‚passer Guillaume d'Orange ş1969
@@ -243,13 +244,10 @@ o FN_BIBF    11i 1999.xx ..... ISBN 2-265-06581-1
 : .oF.     N     _RUELLAN Andr‚               Projets pour ma prochaine cr‚ation ş1965
 : .oF.     N     _RUELLAN Andr‚               J'ai ‚crit un sc‚nario extra ş1969
 : .oF.     N     _RUELLAN Andr‚               Le Porte-Clefs des songes ş1967
-?: .o .     Nx    _RUELLAN Andr‚               IntermŠde panique ş?
 : .oF.     N     _RUELLAN Andr‚               Le Testament consid‚r‚ comme document anti-panique ş1973
 : .oF.     N     _RUELLAN Andr‚               La Cure d'effroi ş1969
 : .oF.     N     _RUELLAN Andr‚               La Gu‚rison panique ş1973
-!---       N24   _RUELLAN Andr‚               Contes au scalpel ş?
 : .oS.     N     _RUELLAN Andr‚               Bon voyage en perspective ş1962
-!--- Idem "La consultation"
 : .oF.     N     _RUELLAN Andr‚               Nuit blanche ş1963
 : .oF.     N     _RUELLAN Andr‚               Le Chamisseur ş1963
 : .oF.     N     _RUELLAN Andr‚               Souriez ş1964
@@ -273,7 +271,6 @@ o FN_BIBF    11i 1999.xx ..... ISBN 2-265-06581-1
 : .oF.     N     _RUELLAN Andr‚               Bon app‚tit ! ş1985
 : .oF.     N     _RUELLAN Andr‚               Cocktail ş1985
 : .oF.     N     _RUELLAN Andr‚               Nettoyage ş1995
-!---       P4    _RUELLAN Andr‚               Poˆmes ş?
 : .oF.     P     _RUELLAN Andr‚               Pour la vie ş1983
 : .oF.     P     _RUELLAN Andr‚               On a retourn‚ la maison ş1983
 : .oF.     P     _RUELLAN Andr‚               Le Patapon ş1997
@@ -304,27 +301,32 @@ o FN_BIBF    12i 1999.xx R.... ISBN 2-265-06226-X
 : .o .     N     _PREVOT G‚rard               Les Tourterelles ş?
 : .o .     N     _PREVOT G‚rard               Une soir‚e … l'auberge des gueux de mer ş?
 : .o .     N     _PREVOT G‚rard               Le Bunker ş?
-: .o .     N     _PREVOT G‚rard               La Taverne des ‚tangs ş?
+: .o .     N     _PREVOT G‚rard               La Taverne des ‚tangs ş1975
 : .o .     N     _PREVOT G‚rard               Le D‚ noir de Nora ş1975
 : .o .     N     _PREVOT G‚rard               La Louve de la rue Vaneau ş?
-: .o .     N     _PREVOT G‚rard               Le Balustre ostendais ş?
+: .o .     N     _PREVOT G‚rard               Le Balustre ostendais ş1979
 : .o .     R     _PREVOT G‚rard               La Fouille ş1973
 !--- publi‚ chez Robert Morel en 1973
 : .o .     R     _PREVOT G‚rard               Pas de fant“me sans fum‚e ş1955
 o FN_BIBF    13i 1999.xx ..... ISBN 2-265-06856-X
 } bibfant15      _?                           N
-- .oF.    _N39   _RENARD Maurice              Fant“mes et fantoches ş1999
+!--- 640 pages - 11 x 18 cm - 59 Francs
+- .oF.    _N39   _RENARD Maurice              Fant“mes et fantoches, suivi de Contes … la plume d'oie, et autres histoires ‚tranges ş1999
 !--- Pr‚face et biblio de Claude DEMEOCQ (D‚m‚ocq)
-: .oF.    _N7    _RENARD Maurice              Fant“mes et fantoches ş1905
-= .o .     N     _RENARD Maurice              Le Lapidaire ş1905
+: .o .     p     _DEMEOCQ Claude              Avant-propos ş1999
+: .o .     p     _DEMEOCQ Claude              Maurice Renard, maŒtre du mystŠre et chantre du merveilleux scientifique ş1999
+: .oF.    _N7    _RENARD Maurice              Fant“mes et fantoches ş1999
+= .o .     p     _DEMEOCQ Claude              Pr‚sentation ş1999
+= .o .     p     _RENARD Maurice              Pr‚face ş1905
+= .o .     r     _RENARD Maurice              Le Lapidaire ş1905
 = .o .     N     _RENARD Maurice              Tokutaro et Murasaki ş1905
 = .o .     N     _RENARD Maurice              Le Bourreau de Dieu ş1905
 = .o .     N     _RENARD Maurice              Amaryllis ş1905
 = .o .     N     _RENARD Maurice              La Fˆlure ş1905
 = .o .     N     _RENARD Maurice              Offrande … Cypris porte miroir ş1905
 = .o .     r     _RENARD Maurice              Les Vacances de monsieur Dupont ş1905
-!--- publi‚ initialement en 1905 sous le pseudo "Vincent Saint-Vincent"
 : .oF.    _N23   _RENARD Maurice              Contes … la plume d'oie ş1999
+= .o .     p     _DEMEOCQ Claude              Pr‚sentation ş1999
 = .o .     P     _RENARD Maurice              Complicit‚ ş[1929],1999
 = .o .     N     _RENARD Maurice              Parth‚nope ou l'escale impr‚vue ş1909
 = .o .     N     _RENARD Maurice              Dressage ş1935
@@ -348,8 +350,8 @@ o FN_BIBF    13i 1999.xx ..... ISBN 2-265-06856-X
 = .o .     N     _RENARD Maurice              L'Invention ş1931
 = .o .     N     _RENARD Maurice              Mademoiselle de Saint Preux ş1934
 = .o .     N     _RENARD Maurice              La Marotte ş1932
-!---      _N9    _RENARD Maurice              Autres histoires ‚tranges ş?
-!--- TBC : (Pastiches … la maniŠre de Wells, Poe, Ray...)
+: .C .     C     _RENARD Maurice              Autres histoires ‚tranges
+!--- Pastiches … la maniŠre de Wells, Poe, Ray...
 : .o .     N     _RENARD Maurice              La Roine ş[1929],1999
 : .x .     N     _RENARD Maurice              L'Homme qui voulait ˆtre invisible ş1923
 : .o .     N     _RENARD Maurice              La Rencontre ş1911
@@ -359,8 +361,9 @@ o FN_BIBF    13i 1999.xx ..... ISBN 2-265-06856-X
 : .o .     N     _RENARD Maurice              Feu John ş1932
 : .o .     N     _RENARD Maurice              La Photographie de Mme Lebret ş1930
 : .o .     N     _RENARD Maurice              La Nuit de Keynestadt ş1923
+: .C .     C     _RENARD Maurice              Articles sur Maurice Renard
 o FN_BIBF    14i 1999.10 ..... ISBN 2-265-06815-2
-} fnbib14        _?                           N
+} bibfant14      _?                           N
 - .o .     R3N4  _BRUSSOLO Serge              La Nuit du venin ş1999
 !--- TBC : nø 5668 ?
 : .o .     R     _BRUSSOLO Serge              La Nuit du venin - 1 ş?
@@ -373,14 +376,14 @@ o FN_BIBF    14i 1999.10 ..... ISBN 2-265-06815-2
 : .o .     N     _BRUSSOLO Serge              Les Enfants de Prot‚e ş1979
 : .o .     N     _BRUSSOLO Serge              Le PiŠge … chance ş1978
 o FN_BIBF    15i 1999.xx ..... ISBN .-.....-...-.
-} fnbib15        _?                           N
+} bibfant16      _?                           N
 - .o .     R4    _ARNAUD G.-J.                La Dalle aux maudits ş1999
 : .o .     R     _ARNAUD G.-J.                La Dalle aux maudits ş1974
 : .o .     R     _ARNAUD G.-J.                Le Dossier Atr‚e ş1972
 : .o .     R     _ARNAUD G.-J.                Ils sont revenus ş1973
 : .o .     R     _ARNAUD G.-J.                La Mort noire ş1973
 o FN_BIBF    16i 1999.xx ..... ISBN 2-265-06754-7
-} fnbib16        _?                           N
+} bibfant13      _?                           N
 - .oF.     N4    _VARENDE Yves                Sherlock Holmes et les fant“mes ş1999
 : .o .     p     _VARENDE Yves                Le Fant“me de Sherlock Holmes ş1999
 !--- en fin d'ouvrage :
@@ -396,7 +399,7 @@ o FN_BIBF    16i 1999.xx ..... ISBN 2-265-06754-7
 : .o .     N     _VARENDE Yves                Le Fant“me de Prague ş1999
 
 !-----------------------------------------------------------------------------
-_ FN_SUPP Fleuve Noir, Coll. Super Poche
+_ FN_SUPP Fleuve Noir - Super Poche
 !-----------------------------------------------------------------------------
 !--- Collection Super Poche (199.. - 19..)
 !--- Collection dirig‚e par Fran‡ois DUCOS
@@ -410,9 +413,10 @@ o FN_SUPP     5  1993.02 ..... ISBN 2-265-04870-4
 } fnsp05         _?                           N
 + FN_SUPP     5  1996.xx ..... ISBN 2-265-06168-9
 } fnsp05r96      _?                           N
-- .oF.    _Nx    _RAY Jean                    Histoires noires et fantastiques ş1993
 !--- contient les recueils "Le grand nocturne", "Les cercles de l'‚pouvante", "Le livre des fant“mes",
 !--- plus sous "Premiers contes", en annexe : "Sur la route", "L'ange noir", "Il y avait une poup‚e … bord", "L'apprentie sorciŠre".
+!--- TBC si le court roman "Saint-Judas-de-la-nuit" est inclus
+- .oF.    _Nx    _RAY Jean                    Histoires noires et fantastiques ş1993
 : .oF.    _N7    _RAY Jean                    Le Grand Nocturne ş1942
 = .oF.     N     _RAY Jean                    Le Grand Nocturne ş1942
 = .oF.     N     _RAY Jean                    Les Sept Chƒteaux du roi de la mer ş1942
@@ -428,7 +432,7 @@ o FN_SUPP     5  1993.02 ..... ISBN 2-265-04870-4
 = .o .     N     _RAY Jean                    Le CimetiŠre de Marlyweck ş1943
 = .o .     N     _RAY Jean                    Le Dernier Voyageur ş1929
 = .o .     N     _RAY Jean                    L'Homme qui osa ş1943
-= .o .     N     _RAY Jean                    Drer, l'idiot ş1932
+= .o .     N     _RAY Jean                    Drer, l'idiot ş1929
 = .o .     N     _RAY Jean                    L'Auberge des spectres ş1943
 = .o .     N     _RAY Jean                    L'Histoire du W–lkh ş1943
 = .o .     N     _RAY Jean                    Le Miroir noir ş1943
@@ -445,12 +449,10 @@ o FN_SUPP     5  1993.02 ..... ISBN 2-265-04870-4
 = .o .     N     _RAY Jean                    Ronde de nuit … Koenigstein ş1947
 = .o .     N     _RAY Jean                    Le Cousin Passeroux ş1947
 = .o .     N     _RAY Jean                    Rues ş1947
-!--- TBC   r     _RAY Jean                    Saint-Judas-de-la-nuit ş1966
 = .o .     o     _RAY Jean                    AprŠs ş1947
-!--- plus sous "Premiers contes", en annexe :
-!=.oF.     N4    _RAY Jean                    Premiers contes ş1993
+: .C .     C     _RAY Jean                    Premiers contes ş1993
 : .o .     N     _RAY Jean                    Sur la route ş?
-: .o .     N     _RAY Jean                    L'Ange noir ş1921
+: .o .     N     _RAY Jean                    L'Ange noir ş1921 De Swarte Engel
 : .o .     N     _RAY Jean                    Il y avait une poup‚e … bord ş1925
 : .o .     N     _RAY Jean                    L'Apprentie sorciŠre ş?
 !--- FN_SUPP 6 199. .   ***                     Hollywood story
@@ -519,6 +521,13 @@ o FN_SUPP    12  1993.11 ..... ISBN 2-265-00114-7
 !--- FN_SUPP13 199. .   MALET L‚o               Nestor Burma
 !--- FN_SUPP14 199. .   NESS Eliot              Les incorruptibles
 !--- FN_SUPP15 199. .   ***                     Juges et assassins
+o FN_SUPP    15  1994.02 ..... ISBN 2-265-00389-1
+} fnsp15         _?                           N
+!--- 480 pages
+- .pP.    iAx    *BOURS Jean-Pierre           Juges et assassins ş1994
+: .o . 265 N     _GRIPARI Pierre              Un t‚moin … d‚charge ş1972
+: .o . 277 N     _THIRY Marcel                Besdur ş?
+: .x . 463 N     _BROWN Fredric               Sentence ş1957 Sentence şTrad. DE CHERGE G‚rard
 !--- FN_SUPP16 199. .   BLOCH Robert            Psychomania
 o FN_SUPP    17  1994.xx ..... ISBN 2-265-05113-6
 } fnsp17         _?                           N
@@ -551,10 +560,10 @@ o FN_SUPP    18  1994.xx ..... ISBN .-.....-...-.
 &                _REYNOLDS Mack               
 o FN_SUPP    19  1994.11 ..... ISBN 2-265-05176-4
 } fnsp19         _?                           N
+!--- TBD si le recueil/section "L'enterrement des rats (1890 The burial of the rats) est identifi‚ comme tel
 - .oF.    _R2N4  _STOKER Bram                 R‚cits gothiques ş1994
 : .o .     R     _STOKER Bram                 Le Repaire du ver blanc ş1911 The Lair of the White Worm şTrad. TRUCHAUD Fran‡ois
 : .o .     R     _STOKER Bram                 Le Joyau des sept ‚toiles ş1903 The Jewel of Seven Stars şTrad. PARSONS Jacques
-!--- ?=.o .     N4    _STOKER Bram                 L'enterrement des rats ş1890 The burial of the rats
 : .o .     N     _STOKER Bram                 L'Enterrement des rats ş1874 The Burial of the Rats şTrad. KREMER Jean-Pierre
 : .o .     N     _STOKER Bram                 Un rˆve de mains rouges ş1902 A Dream of Red Hands şTrad. KREMER Jean-Pierre
 : .o .     N     _STOKER Bram                 Le Secret de l'or qui croŒt ş1892 The Secret of Growing Gold şTrad. KREMER Jean-Pierre
@@ -626,40 +635,39 @@ o FN_SUPP    28  1996.xx ..... ISBN 2-265-05952-8
 : .oF.     N     _QUINN Seabury               La Chapelle de l'horreur mystique [Jules de Grandin] ş1928 The Chapel of Mystic Horror şTrad. CLARO Christophe
 o FN_SUPP    29  1996.06 ..... ISBN 2-265-05929-3
 } fnsp29         _?                           N
-- .oF.    iN29   _DOLE G‚rard                 Les Exploits de Harry Dickson [Harry Dickson] ş1996
+- .oF.     N29   _DOLE G‚rard                 Les Exploits de Harry Dickson [Harry Dickson] ş1996
 !--- Publi‚ en 1996, aux ‚ditions Fleuve Noir, dans la collection Super Poche
 !--- nø 29, cet ouvrage rassemble l'ensemble des nouvelles relatant les
 !--- exploits du d‚tective Harry Dickson ‚crites par G‚rard D“le et
 !--- initialement publi‚es aux ‚ditions Corps 9, entre 1984 et 1989
-?: .o .     p     _DEMEOCQ Claude              Pr‚face de Claude Dem‚ocq ş?
+?: .o .     p     _DEMEOCQ Claude              Pr‚face ş?
 : .oF.     N     _DOLE G‚rard                 Les MystŠres de la Tamise [Harry Dickson] ş1984
-!--- TBD   N     _DOLE G‚rard                 Harry Dickson raconte... (32 pp.). 
+! .oF.     N     _DOLE G‚rard                 Harry Dickson raconte... [Harry Dickson] ş?
 : .oF.     N     _DOLE G‚rard                 Le MystŠre du Mathilda Briggs [Harry Dickson] ş2004
 : .oF.     N     _DOLE G‚rard                 L'Oeil d'Osiris [Harry Dickson] ş1984
 : .oF.     N     _DOLE G‚rard                 Les Masques de mort [Harry Dickson] ş1984
-!--- TBD ou  Les masques de la mort (8 pp.). 
 : .oF.     N     _DOLE G‚rard                 L'Aventure ‚triqu‚e [Harry Dickson] ş1984
 : .oF.     N     _DOLE G‚rard                 L'Abominable Freaks Museum [Harry Dickson] ş1984
 : .oF.     N     _DOLE G‚rard                &La Mal‚diction du lac Tritrive [Harry Dickson] ş1984
 &                _PONCET Dominique            
 : .oF.     N     _DOLE G‚rard                 Le Cas de Lord Glanmour [Harry Dickson] ş1985
 : .oF.     N     _DOLE G‚rard                 Le Fant“me du British Museum [Harry Dickson] ş1989
-: .oF.     N     _DOLE G‚rard                 La Bande du Sakya Mouni [Harry Dickson] ş1989
-!--- TBD   N     _DOLE G‚rard                 Harry Dickson raconte... (16 pp.). 
+: .oF.     N     _DOLE G‚rard                 La Bande du Sakya-Mouni [Harry Dickson] ş1989
+! .oF      N     _DOLE G‚rard                 Harry Dickson raconte... [Harry Dickson] ş?
 : .oF.     N     _DOLE G‚rard                 Le Tr‚sor de Jim le Borgne [Harry Dickson] ş1989
 : .oF.     N     _DOLE G‚rard                 Les Chevaliers du Chardon Bleu [Harry Dickson] ş1989
-!--- TBD   N     _DOLE G‚rard                 L'aiguille de Cl‚opƒtre (32 pp.). 
-!--- TBD   N     _DOLE G‚rard                 Le champignon du diable (14 pp.). 
-!--- TBD   N     _DOLE G‚rard                 Le vampyre de Londres (88 pp.). 
-: .oF.     c     _DOLE G‚rard                 La Complainte de Harry Dickson [Harry Dickson] ş2004
-!--- Bibliographie et Discographie de G‚rard D“le, ‚tablie par Fran‡ois Ducos (14 pp.). 
-!--- Harry Dickson : les continuateurs, bibliographie ‚tablie par Kevin Rocamir (14 pp.). 
+: .oF.     N     _DOLE G‚rard                 L'Aiguille de Cl‚opƒtre [Harry Dickson] ş1996
+: .oF.     N     _DOLE G‚rard                 Le Champignon du diable [Harry Dickson] ş1996
+: .oF.     N     _DOLE G‚rard                 Le Vampyre de Londres [Harry Dickson] ş1996
+: .oF.     c     _DOLE G‚rard                 La Complainte de Harry Dickson [Harry Dickson] ş1996
+!--- Bibliographie et Discographie de G‚rard D“le, ‚tablie par Fran‡ois Ducos (14 pp.)
+!--- Harry Dickson : les continuateurs, bibliographie ‚tablie par Kevin Rocamir (14 pp.)
 o FN_SUPP    30  1996.xx R.... ISBN .-.....-...-.
 } fnsp30         _?                           N
 - .oF.    _R3    _LUMLEY Brian                L'Invincible Cthulhu [La L‚gende de Titus Crow - 2][Titus Crow - 4/6] ş1996
-: .oF.     R     _LUMLEY Brian                Le D‚mon du vent [Titus Crow - 4] ş1978 Spawn of the Wind şTrad. WATKINS France-Marie
+: .oF.     R     _LUMLEY Brian                Le D‚mon du vent [Titus Crow - 4] ş1978 Spawn of the Winds şTrad. WATKINS France-Marie
 : .oF.     R     _LUMLEY Brian                Les Lunes de Bor‚e [Titus Crow - 5] ş1979 In the Moons of Borea şTrad. WATKINS France-Marie
-: .oF.     R     _LUMLEY Brian                Elysia [Titus Crow - 6] ş1989 Elysia, or the Coming of Cthulhu şTrad. BILLION Bruno
+: .oF.     R     _LUMLEY Brian                Elysia [Titus Crow - 6] ş1989 Elysia: The Coming of Cthulhu şTrad. BILLION Bruno
 
 !--- TBD suivants : annonc‚ mais pas parus ?
 ?o FN_SUPP     ?  1995.xx R.... ISBN .-.....-...-.

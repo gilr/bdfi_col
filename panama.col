@@ -1,17 +1,16 @@
 !-----------------------------------------------------------------------------
-_ PANA_BB Ed. FMR - Panama, Coll. la BibliothŠque de Babel
+_ PANA_BB FMR-Panama - la BibliothŠque de Babel
 !-----------------------------------------------------------------------------
 o PANA_BB     1i 2006.02 ..... ISBN 2-7557-0102-1
 }babel01_panama  _?                           N
 - .oF.    _N3    _MEYRINK Gustav              Le Cardinal Napellus ş1977
-!---
-: .o .     N     _MEYRINK Gustav              Le Cardinal Napellus ş? Der Kardinal Napellus şTrad. SCHNEIDER Marcel
+: .o .     N     _MEYRINK Gustav              Le Cardinal Napellus ş1913 Der Kardinal Napellus şTrad. SCHNEIDER Marcel
 : .oF.     N     _MEYRINK Gustav              Les Quatre FrŠres de la Lune ş1917 Die vier Mondbruder şTrad. SCHNEIDER Marcel
-: .o .     N     _MEYRINK Gustav              Les Sangsues du temps ş? J. H. Obereit besuch bei den Zeitengeln şTrad. SCHNEIDER Marcel
+: .o .     N     _MEYRINK Gustav              Les Sangsues du temps ş1916 J.H. Obereits Besuch bei den Zeit-Egeln şTrad. SCHNEIDER Marcel
 o PANA_BB     2i 2006.03 ..... ISBN 2-7557-0103-X
 }babel02_panama  _?                           N
-- .oF.    _N2    _ALARCON Pedro A. de         L'Ami de la mort/La grande femme ş1982
-: .oF.     r     _ALARCON Pedro A. de         L'Ami de la mort ş1882 El amigo de la muerte şTrad. CLEMENCOT Isabelle
+- .oF.    _N2    _ALARCON Pedro A. de         L'Ami de la mort - La grande femme ş1982
+: .oF.     r     _ALARCON Pedro A. de         L'Ami de la mort ş1852 El amigo de la muerte şTrad. CLEMENCOT Isabelle
 : .oF.     N     _ALARCON Pedro A. de         La Grande Femme ş1882 La mujer alta şTrad. CLEMENCOT Isabelle
 o PANA_BB     3i 2006.09 ..... ISBN 2-7557-0126-9
 }babel03_panama  _?                           N
@@ -46,14 +45,14 @@ o PANA_BB     6i 2007.11 ..... ISBN 978-2-7557-0273-6
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Convive des derniŠres fˆtes ş1874
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     La Torture par l'esp‚rance ş1888
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     L'Aventure de Ts‚-i-La ş?
-: .o .     N     _VILLIERS DE L'ISLE-ADAM     L'Enjeu ş?
+: .o .     N     _VILLIERS DE L'ISLE-ADAM     L'Enjeu ş1888
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     La Reine Ysabeau ş1880
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Sombre r‚cit, conteur plus sombre ş1877
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     V‚ra ş1874
 o PANA_BB     ?  2008.09 ..... ISBN 978-2-7557-0343-6
 } panamabibbabel5 _?                           ?
+!-- intro Borges traduite par LEIBOVICI Sarah
 - .pS.    _N5    _LONDON Jack                 Les Morts concentriques ş1978
-!-- intro Borges şTrad. LEIBOVICI Sarah
 : .o .     N     _LONDON Jack                 Les Morts concentriques ş1901 The Minions of Midas şTrad. POSTIF Louis
 : .o .     N     _LONDON Jack                 L'Ombre et la chair ş1903 The Shadow and the Flash şTrad. POSTIF Louis
 : .x .     N     _LONDON Jack                 La Loi de la vie ş? The Law of Life şTrad. POSTIF Louis
@@ -61,23 +60,23 @@ o PANA_BB     ?  2008.09 ..... ISBN 978-2-7557-0343-6
 : .x .     N     _LONDON Jack                 La Maison de Mapouhi ş1909 The House of Mapuhi şTrad. POSTIF Louis
 o PANA_BB     ?  2008.09 ..... ISBN 978-2-7557-0342-9
 } panamabibbabel2 _?                           ?
+!-- intro Borges traduite par LEIBOVICI Sarah
 - .o .    _N5    _CHESTERTON Gilbert K.       L'Oeil d'Apollon ş1977
-!-- intro Borges şTrad. LEIBOVICI Sarah
 : .o .     N     _CHESTERTON Gilbert K.       L'Oeil d'Apollon [Le PŠre Brown] ş1911 The Eye of Apollo şTrad. DUTOURD Jean
 : .o .     N     _CHESTERTON Gilbert K.       L'Honneur d'Isra‰l Gow [Le PŠre Brown] ş1911 The Strange Justice / The Honour of Israel Gow şTrad. DUTOURD Jean
 : .o .     N     _CHESTERTON Gilbert K.       Le Duel du professeur Hirsh [Le PŠre Brown] ş1914 The Duel of Dr Hirsch şTrad. DUTOURD Jean
 : .o .     N     _CHESTERTON Gilbert K.       Les Pas dans le couloir [Le PŠre Brown] ş1910 The Queer Feet şTrad. DUTOURD Jean
-: .o .     N     _CHESTERTON Gilbert K.       Les Trois Cavaliers de l'apocalypse ş1951 The Three Horsemen of Apocalypse şTrad. ?
+: .x .     N     _CHESTERTON Gilbert K.       Les Trois Cavaliers de l'apocalypse ş1935 The Three Horsemen of Apocalypse şTrad. ?
 
 !-----------------------------------------------------------------------------
-_ PANAMA  Ed. du Panama
+_ PANAMA  Editions du Panama
 !-----------------------------------------------------------------------------
 o PANAMA      ?  2006.03 ..... ISBN 2-7557-0091-2
 } noimg          _?                           ?
 - .oF.     R     _LARBALESTIER Justine        Dans les griffes de la sorciŠre [Au-del… de la porte - 1] ş2005 Magic of Madness şTrad. DESCOMBEY Anne-Judith
 o PANAMA      ?  2006.04 ..... ISBN 2-7557-0072-6
 } noimg          _?                           ?
-- .oF.     R     _MOERS Walter                La cit‚ des livres qui rˆvent ş2006 Die Stadt der tr„umenden Bcher şTrad. ?
+- .oF.     R     _MOERS Walter                La cit‚ des livres qui rˆvent ş2006 Die Stadt der tr„umenden Bcher şTrad. MATHIEU Fran‡ois & TAFFIN-JOUHAUD Dominique
 o PANAMA      ?  2007.02 ..... ISBN 978-2-7557-0169-.
 } noimg          _?                           ?
 - .oF.     R     _GANDOLFI Silvana            Le Baume du dragon ş1993 Pasta di drago şTrad. FIORE Faustina

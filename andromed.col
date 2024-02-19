@@ -1,10 +1,10 @@
 !-----------------------------------------------------------------------------
-!---                     Ed. ANDROMEDE
+!---                     Editions ANDROMEDE
 !---                  Maison de la Fiction
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ PROX    Ed. AndromŠde, Proxima
+_ PROX    AndromŠde - Proxima
 !-----------------------------------------------------------------------------
 !--- Proxima (nø 1 en 84) Alain GARGUIR   Trimestriel
 !--- Proxima, une photographie de la science-fiction
@@ -15,10 +15,9 @@ _ PROX    Ed. AndromŠde, Proxima
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ PROX00  <b>in</b> Ed. AndromŠde, Proxima nø 1 (1984) … 5 (1985)
-!-----------------------------------------------------------------------------
-o PROX00      ?  1985.xx ..... ISBN -
+o PROX        ?  1985.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 1 (1984) … 5 (1985)
 - .o .     R     _VELLINO Raf                 La CentiŠme Affaire - Parties 2 … 7 þ1983
 !-----------------------------------------------------------------------------
 
@@ -111,7 +110,7 @@ o PROX        8  1985.T4 ..... ISBN 2-905856-15-7
 : .o .     N     _DESMET Franklin             Eph‚meride de l'univers : l'orbite þ1985
 
 !-----------------------------------------------------------------------------
-_ PROS    Ed. AndromŠde, Proxima sp‚cial 
+_ PROS    AndromŠde - Proxima sp‚cial 
 !-----------------------------------------------------------------------------
 !--- Proxima sp‚cial 
 !--- Proxima, une photographie de la science-fiction
@@ -132,7 +131,7 @@ o PROS        2/ 1986.T3 ..... ISBN 2-905856-17-3
 : .o .     N     _BARBERI Jacques            &L'ƒge de raison þ1986
 &                _JOUANNE Emmanuel            
 : .o .     N     _JAN Gabriel                 Vaporeuse visite þ1986
-: .o .     N     _SERNINE Daniel              Monsieur Olier devient ministre þ1984
+: .o .     N     _SERNINE Daniel              Monsieur Olier devient ministre þ1986
 : .o .     N     _GADRAS Herv‚                Le Camelot (L‚zard mŠne … geai) þ1985
 o PROS        4  1987.T4 ..... ISBN 2-905856-18-1
 } noimg          _?                           ?
@@ -143,8 +142,9 @@ o PROS        4  1987.T4 ..... ISBN 2-905856-18-1
 : .o .     N     _MANGUY Henri                Descente aux catacombes þ1987
 
 !-----------------------------------------------------------------------------
-_ PROXMF  Ed. AndromŠde, Proxima S‚rie MF
+_ PROXMF  AndromŠde - Proxima S‚rie MF
 !-----------------------------------------------------------------------------
+!--- Proxima s‚rie MF = Proxima s‚rie "Maison de la Fiction"
 !--- Proxima "Maison de la Fiction" - BP 42 - 59009 Lille C‚dex
 !--- ISSN 0758-7686
 !--- CPPAP 65750
@@ -174,7 +174,7 @@ o PROXMF      4  1989.T2 ..... ISBN 2-905856-22-X
 : .o .     N     _RAVEAU Patrick              En voiture jeunesse ! þ1989
 
 !-----------------------------------------------------------------------------
-_ PROA    Ed. AndromŠde, Les cahiers d'AndromŠde (antho annuelle)
+_ PROA    AndromŠde - Les cahiers d'AndromŠde
 !-----------------------------------------------------------------------------
 !--- Anthologies annuelles des ‚ditions AndromŠdes
 !--- "Les cahiers d'AndromŠde"
@@ -182,27 +182,27 @@ _ PROA    Ed. AndromŠde, Les cahiers d'AndromŠde (antho annuelle)
 !-----------------------------------------------------------------------------
 o PROA        1  1981.xx ..... ISBN 2-905856-25-4
 } noimg          _?                           ?
-- .o .     A3    *GARGUIR Alain               Chroniques de mort þ1981
+!--- Poche
+- .oI.     A3    *GARGUIR Alain               Chroniques de mort þ1981
 : .o .     N     _GRUDZIEN Guy                Le Saphir ‚rod‚ þ1981
 : .o .     N     _LETEL Jos                   La Fin þ1981
 : .o .     N     _GADRAS Herv‚                Une bien belle fille þ1981
 o PROA        2  1982.xx ..... ISBN 2-905856-26-2
 } noimg          _?                           ?
-- .o .     A6    *GARGUIR Alain               Chroniques de haine þ1982
+!--- Poche
 !--- 190 pages GF, 25 Fr
+!--- Or‚noque est un ensemble de poŠmes, "La Tempˆte", "Les Canaux" et "Am‚nag‚"
+- .oI.     A6    *GARGUIR Alain               Chroniques de haine þ1982
 : .o .     r     _GRUDZIEN Guy                D‚sert et abbaye þ1982
 : .o .     N     _LETEL Jos                   Or‚noque þ1982
-!--- Ensemble de 4 poŠmes
-?: .o .     P     _LETEL Jos                   La Tempˆte þ1982
-?: .o .     P     _LETEL Jos                   Les Canaux þ1982
-?: .o .     P     _LETEL Jos                   Am‚nag‚ þ1982
 : .o .     N     _DORION Damien               Empathie þ1982
 : .o .     N     _RABASTENS Daniel            Terminus þ1982
 : .o .     N     _HONAKER Michel              Ce qui revient þ1982
 : .o .     N     _GADRAS Herv‚                R‚union interplan‚taire chez Jeffers þ1982
 o PROA        3  1983.xx ..... ISBN 2-905856-27-0
 } noimg          _?                           ?
-- .o .     A7    *GARGUIR Alain               Chroniques de folie noire þ1983
+!--- Poche - 
+- .oI.     A7    *GARGUIR Alain               Chroniques de folie noire þ1983
 : .o .     N     _GRUDZIEN Guy                L'Ange d‚terminateur þ1983
 : .o .     N     _LEBLANC Patricia            ThŠme pour Mahogany þ1983
 : .o .     N     _ROCQUET Jean-Pol            La Clef du problŠme þ1983
@@ -212,7 +212,8 @@ o PROA        3  1983.xx ..... ISBN 2-905856-27-0
 : .o .     R     _VELLINO Raf                 La CentiŠme Affaire - Partie 1 þ1983
 o PROA        4  1984.xx ..... ISBN 2-905856-28-9
 } noimg          _?                           ?
-- .o .     A11   *GARGUIR Alain               Chroniques d'humour sombre þ1984
+!--- Poche -
+- .oI.     A11   *GARGUIR Alain               Chroniques d'humour sombre þ1984
 : .o .     N     _GADRAS Herv‚                La Moutarde þ1984
 : .o .     N     _GADRAS Herv‚                La Poudre þ1984
 : .o .     N     _DUPREZ St‚phane             La planŠte nous regarde þ1984
@@ -226,7 +227,8 @@ o PROA        4  1984.xx ..... ISBN 2-905856-28-9
 : .o .     N     _CABARET Andr‚               Plaisir de vie þ1984
 o PROA        5  1985.xx ..... ISBN 2-905856-29-7
 } noimg          _?                           ?
-- .oS.    _A11   *GARGUIR Alain               Chroniques d'amour monstre þ1985
+!--- Poche -
+- .oI.    _A11   *GARGUIR Alain               Chroniques d'amour monstre þ1985
 : .o .     N     _PLANQUE Jean-Pierre         Le Syndrome de la mort simultan‚e þ1985
 : .o .     N     _GADRAS Herv‚                La Le‡on þ1985
 : .o .     N     _MANGUY Henri                La Mer au quatre-vingtiŠme ‚tage þ1985
@@ -240,21 +242,23 @@ o PROA        5  1985.xx ..... ISBN 2-905856-29-7
 : .o .     N     _LEBLANC Patricia            Lili MarlŠne þ1985
 
 !-----------------------------------------------------------------------------
-_ VISE    Visions de l'‚trange, Ed. AndromŠde
+_ VISE    Visions de l'‚trange - AndromŠde
 !-----------------------------------------------------------------------------
 !--- Visions de l'‚trange
 !--- ISSN 0765-1082
 !-----------------------------------------------------------------------------
 o VISE        1  1985.xx ..... ISBN 2-905856-00-9
 } noimg          _?                           ?
-- .o .    _M4    ****                         Visions de l'‚trange nø 1 (septembre 1985) þ1985
+!--- Poche -
+- .oI.    _M4    ****                         Visions de l'‚trange nø 1 (septembre 1985) þ1985
 : .o .     N     _LEBLANC Patricia            L'Ame de fond þ1983
 : .o .     N     _DARTEVELLE Alain            L'Univers aller-retour þ1985
 : .o .     N     _HERVIER Claude              Moriabur þ1988
 : .o .     N     _RAMEZ Serge                 Parfums charismatiques þ1985
 o VISE        2  1986.xx ..... ISBN 2-905856-01-7
 } noimg          _?                           ?
-- .o .    _M5    ****                         Visions de l'‚trange nø 2 (mars 1986) þ1986
+!--- Poche -
+- .oI.    _M5    ****                         Visions de l'‚trange nø 2 (mars 1986) þ1986
 : .o .     N     _JOUANNE Emmanuel            Ecrit pour la surface, en vertu de mes certificats þ1982
 : .o .     N     _MILESI Raymond              Au bon vieux temps þ1986
 : .o .     N     _GRUDZIEN Guy                Le Bar trop plein (Souvenirs de France) þ1986
@@ -262,7 +266,8 @@ o VISE        2  1986.xx ..... ISBN 2-905856-01-7
 : .o .     N     _BROUILLAUD Pierre-Jean      Les Conqu‚rants de la solitude þ1986
 o VISE        3  1986.xx ..... ISBN 2-905856-02-5
 } noimg          _?                           ?
-- .o .    _M5    ****                         Visions de l'‚trange nø 3 (novembre 1986) þ1986
+!--- Poche -
+- .oI.    _M5    ****                         Visions de l'‚trange nø 3 (novembre 1986) þ1986
 : .o .     N     _VALLET Fran‡ois             Pavane þ1986
 : .o .     N     _MANGUY Henri                Je voudrais ˆtre toi þ1986
 : .o .     N     _VANDERNBERGHE M.            Les Nuits de Sainte Gwladys þ1986
@@ -270,7 +275,8 @@ o VISE        3  1986.xx ..... ISBN 2-905856-02-5
 : .o .     N     _TRIOLO Jean-Luc             Lorsque revient la pluie... þ1986
 o VISE        4  1988.xx ..... ISBN 2-905856-06-8
 } noimg          _?                           ?
-- .o .    _M3    ****                         Visions de l'‚trange nø 4 (septembre 1988) þ1988
+!--- Poche -
+- .oI.    _M3    ****                         Visions de l'‚trange nø 4 (septembre 1988) þ1988
 : .o .     N     _BROUILLAUD Pierre-Jean      Les Pionniers du pass‚ þ1988
 : .o .     N     _GRUDZIEN Guy                Dix dollars - Pour quelques dollars de l'US þ1988
 : .o .     N     _DORIAN Franck               Comme des ombres pƒles... þ1988
@@ -282,8 +288,9 @@ _ MAIS    La maison de la fiction
 !-----------------------------------------------------------------------------
 o MAIS        ?  1986.xx R.... ISBN 2-905856-05-X
 } ordesrayons    _?                           _SERVENT Olivier
-- .oS.    _A18   *DOUAN Monique               L'Or des rayons þ1986
+!--- Poche - 
 !--- theme : la bibliothŠque du futur
+- .oS.    _A18   *DOUAN Monique               L'Or des rayons þ1986
 : .o .     p     _DOUAN Monique               Pr‚face þ1986
 : .o .     N     _CALONNE Michel              Le Mythe obscur de la bibliothŠque þ1986
 : .o .     N     _JEURY Michel                L'Or des rayons þ1986
@@ -308,7 +315,7 @@ o MAIS        ?  1986.xx R.... ISBN 2-905856-05-X
 !--- Texte final accompagnant ses illustrations
 
 !-----------------------------------------------------------------------------
-_ MAIB    La maison de la fiction, bulletin
+_ MAIB    La maison de la fiction - bulletin
 !-----------------------------------------------------------------------------
 o MAIB        6  1988.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -316,12 +323,13 @@ o MAIB        6  1988.xx ..... ISBN .-.....-...-.
 : .o .     N     _GRUDZIEN Guy                Max ou le d‚fi þ1988
 
 !-----------------------------------------------------------------------------
-_ MAIC    La maison de la fiction, Coll. "Contes de l'Univers Connu"
+_ MAIC    La maison de la fiction - Contes de l'Univers Connu
 !--- Corps 9 - AndromŠde - Maison de la Fiction
 !-----------------------------------------------------------------------------
-o MAIC        ?  1988.xx ..... ISBN .-.....-...-.
+o MAIC        ?  1988.01 ..... ISBN 2-904846-44-2
 } univconnu1     _?                           N
-- .oS.    _N8    _NIVEN Larry                 Les Conqu‚rants [Known space] þ1975 Tales of Known Space
+- .oS.    _N8    _NIVEN Larry                 Les Conqu‚rants [Known space] þ1975 Tales of Known Space þTrad. GADRAS Herv‚
+!--- Poche 
 !--- Nota : Seulement 8 des 12 nouvelles du recueil original
 !--- Collection Contes de l'univers connu - 1
 !--- Publication Corps 9/AndromŠdes/Maison de la Fiction
@@ -335,10 +343,11 @@ o MAIC        ?  1988.xx ..... ISBN .-.....-...-.
 : .oS.     N     _NIVEN Larry                 L'Homme puzzle [Known space] þ1967 The Jigsaw Man þTrad. GADRAS Herv‚
 : .oS.     N     _NIVEN Larry                 L'Interminable Attente þ1968 Wait It Out þTrad. GADRAS Herv‚
 : .oS.     N     _NIVEN Larry                 Les Menteurs [Known space] þ1968 The Deceivers / Intent to Deceive þTrad. GADRAS Herv‚
-o MAIC        ?  1988.xx ..... ISBN .-.....-...-.
+o MAIC        ?  1988.05 ..... ISBN 2-904846-47-6
 } univconnu2     _?                           N
+!--- Poche 
 !--- Collection Contes de l'univers connu - 2
-- .oS.    _N3    _NIVEN Larry                 Le TroisiŠme Bras [Known space] þ1976 The Long Arm of Gil Hamilton
+- .oS.    _N3    _NIVEN Larry                 Le TroisiŠme Bras [Known space] þ1976 The Long Arm of Gil Hamilton þTrad. GADRAS Herv‚
 : .oS.     N     _NIVEN Larry                 Mourir de plaisir [Known space] þ1969 Death by Ectasy / The Organleggers þTrad. GADRAS Herv‚
 : .oS.     N     _NIVEN Larry                 Morts sans d‚fense [Known space] þ1973 The Defensele þTrad. GADRAS Herv‚ss dead
 : .oS.     r     _NIVEN Larry                 Les BRAs [Known space] þ1975 ARM þTrad. GADRAS Herv‚

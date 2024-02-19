@@ -1,22 +1,23 @@
 !-----------------------------------------------------------------------------
-_ CHATNOI Ed. du Chat Noir
-_ CHATNPA Ed. du Chat Noir, Coll. Panthera (Collector)
-_ CHATNOG Ed. du Chat Noir, Coll. Graphicat
+_ CHATNOI Editions du Chat Noir
+_ CHATNPA Editions du Chat Noir - Panthera [Collector]
+_ CHATNOG Editions du Chat Noir - Graphicat
 !---    Graphicat : artbook et livres illustr‚s
-_ CHATNGS Ed. du Chat Noir, Coll. Griffe Sombre
+_ CHATNGS Editions du Chat Noir - Griffe Sombre
 !---    Griffe Sombre : fantastique sombre et gothique
-_ CHATNFE Ed. du Chat Noir, Coll. F‚line
-_ CHATNFN Ed. du Chat Noir, Coll. F‚line (Num‚rique)
+_ CHATNFE Editions du Chat Noir - F‚line
+_ CHATNFN Editions du Chat Noir - F‚line [num‚rique]
 !---    F‚line : bit-lit et urban fantasy
-_ CHATNBS Ed. du Chat Noir, Coll. Black Steam
+_ CHATNBS Editions du Chat Noir - Black Steam
 !---    Black Steam : steampunk et gaslight fantasy
-_ CHATNCH Ed. du Chat Noir, Coll. Cheshire
+_ CHATNCH Editions du Chat Noir - Cheshire
 !---    Cheshire : young adult
-_ CHATNHA Ed. du Chat Noir, Coll. Chatons Hant‚s
+_ CHATNHA Editions du Chat Noir - Chatons Hant‚s
 !---    Chatons Hant‚s : jeunesse
-_ CHATNGO Ed. du Chat Noir, Coll. Gothicat
+_ CHATNGO Editions du Chat Noir - Gothicat
 !---    perles oubli‚es de la litt‚rature gothique et romantique 18e et 19e siŠcle
-_ CHATNKO Ed. du Chat Noir, Coll. Neko
+_ CHATNKO Editions du Chat Noir - Neko
+_ CHATNIG Editions du Chat Noir - F.nigripes
 !-----------------------------------------------------------------------------
 
 !------------------------
@@ -338,7 +339,7 @@ o CHATNGS     ?  2017.04 ..... ISBN 978-2-37568-033-9
 &                _GUIBE Mathieu               
 o CHATNGS     ?  2017.04 ..... ISBN 978-2-37568-034-6
 } noimg          _Miesis                      ?
-!--- TBD Le Sang des sorciŠres [Omnia - 1] þ2017
+!--- TBD Le Sang des sorciŠres [Omnia - 1] ? (si oui, existence d'un tome 2 ?)
 - .oF.     R     _LABBE Denis                 Omnia - Le Sang des sorciŠres þ2017
 o CHATNFE     ?  2017.04 ..... ISBN 978-2-37568-035-3
 } noimg          _Mina M.                     ?
@@ -394,7 +395,7 @@ o CHATNPA     ?  2017.10 ..... ISBN 979-10-90627-56-8
 - .oF.     R     _CALDERA Georgia             Quintessesce [Les Larmes rouges - 3] þ2015
 o CHATNFE     ?  2017.10 ..... ISBN 978-2-37568-053-7
 } noimg          _Miesis                      ?
-- .oF.     R     _GERMAIN Alison              Le Souffle de Midas [Chroniques hom‚rides  - 1] þ2017
+- .oF.     R     _GERMAIN Alison              Le Souffle de Midas [Chroniques hom‚rides - 1] þ2017
 o CHATNCH     ?  2017.12 ..... ISBN 978-2-37568-059-9
 } noimg          _Selina Fenech               ?
 - .oF.     R     _FENECH Selina               Le RŠgne de l'espoir [La Trilogie du voile - 2] þ2013 Hope's Reign þTrad. BONZI Marina
@@ -461,7 +462,7 @@ o CHATNOG     ?  2018.12 ..... ISBN 979-2-37568-099-5
 } chatnoirgrcat2018_01 _Mina M.                     ?
 !--- 48 pages - 9 r‚cits courts d'environ 3 pages
 !--- Pic et Bulle - Anosmie et Alambic - Sardonique et T‚m‚rit‚ - MystŠre et Solitude - An‚mie et Constantia -  Neurasth‚nie et Cigu‰
-- .oF.    iN9    _M. Mina                     Petites d‚faillances þ2018
+- .oF.    iNx    _M. Mina                     Petites d‚faillances þ2018
 ?o CHATNGO     ?  2018.12 ..... ISBN 978-2-37568-100-8
 ?} noimg          _Toby Edward Rosenthal       ?
 ?!--- TBD genre ?
@@ -480,7 +481,7 @@ o CHATNKO     ?  2019.04 ..... ISBN 978-2-37568-108-4
 - .oF.     R     _GODEFROY Cl‚mence           Okami-Hime [Les H‚ritiers d'Higashi - 1] þ2019
 o CHATNFE     ?  2019.04 ..... ISBN 978-2-37568-109-1
 } noimg          _Miesis                      ?
-- .oF.     R     _GERMAIN Alison              L'Ultime Oracle [Chroniques hom‚rides  - 2] þ2019
+- .oF.     R     _GERMAIN Alison              L'Ultime Oracle [Chroniques hom‚rides - 2] þ2019
 o CHATNBS     ?  2019.04 ..... ISBN 978-2-37568-110-7
 } noimg          _Miesis                      ?
 - .o .     R     _BOUGON Marie-Lucie          Le Club des ‚rudits hallucin‚s þ2019
@@ -488,7 +489,7 @@ o CHATNCH     ?  2019.06 ..... ISBN 978-2-37568-115-2
 } noimg          _Mina M.                     ?
 - .oF.     R     _ALLYN Anya                  Music Box [Le Carrousel ‚ternel - 4] þ2015 Music Box þTrad. MATHIS H‚lŠne
 o CHATNOG     ?  2019.06 ..... ISBN 978-2-37568-105-3
-} noimg          _Lo‹c Canavaggia           ?
+} noimg          _Lo‹c Canavaggia             ?
 - .oF.     N     _HAUCHECORNE Anthelme        Noces d'‚cailles þ2019
 o CHATNKO     ?  2019.06 ..... ISBN 978-2-37568-114-5
 } noimg          _Anato Finnstark             ?
@@ -563,6 +564,131 @@ o CHATNKO     ?  2020.10 ..... ISBN 978-2-37568-149-7
 } noimg          _Wacalac                     ?
 !--- GF - 19.90 euros
 - .oF.     R     _CHEVET C‚line               Sous les sabots des dieux þ2020
-
-
+!------------------------
+!=== 2021
+!------------------------
+o CHATNCH     ?  2021.02 ..... ISBN 978-2-37568-153-4
+} noimg          _Mina M.                     ?
+!--- GF - 150 x 210 - 448 pages
+- .o .     R     _KURTAGICH Dawn              Les Brumes affam‚es þ2019 Teeth in the Mist þTrad. MATHIS H‚lŠne
+o CHATNGS     ?  2021.02 ..... ISBN 978-2-37568-154-1
+} noimg          _Robin Ha                    ?
+!--- GF - 150 x 210 - 186 pages
+- .o .     R     _STARLING Caitlin            Secrets empoisonn‚s [Yellow Jessamine] þ2020 Yellow Jessamine þTrad. MATHIS H‚lŠne
+o CHATNCH     ?  2021.04 ..... ISBN 978-2-37568-157-2
+} noimg          _Tullius Heuer               ?
+!--- GF - 150 x 210 - 347 pages
+- .o .     R     _VAGNER Estelle              Le Prince des oubli‚s [Les Chuchoteurs - 1] þ2021
+o CHATNKO     ?  2021.04 ..... ISBN 978-2-37568-158-9
+} noimg          _Wacalac                     ?
+!--- GF - 150 x 210 - 384 pages
+- .o .     R     _CHEVET C‚line               Sous les sabots des dieux - 2 þ2021
+o CHATNCH     ?  2021.06 ..... ISBN 978-2-37568-161-9
+} noimg          _Mina M.                     ?
+!--- GF - 150x210 - 360 pages
+- .o .     R     _M. Mina                     ReveR Double þ2021
+o CHATNGS     ?  2021.06 ..... ISBN 978-2-37568-162-6
+} chatnoir2021_05 _Tullius Heuer               ?
+!--- GF - 150x210 - 228 pages - 14,90 euros
+- .o .     A9    *GUIBE Mathieu               9 þ2021
+: .o .     N     _AKKOUCHE J‚r“me             La Justice des ogres þ2021
+: .o .     N     _VERBOZ Mathilde             La 9e symphonie þ2021
+: .o .     N     _MALHERBE Emilie             Les Larmes du Kyubiko þ2021
+: .o .     N     _GODEFROY Cl‚mence           La Maison des Gabory þ2021
+: .o .     N     _ABONNENC Sophie             Le Pendu þ2021
+: .o .     N     _VIGNE Jean                  Nine þ2021
+: .o .     N     _CHEVET C‚line               Kaibyo þ2021
+: .o .     N     _MARTIN Adrien               Neuf jours pour l'enfer þ2021
+: .o .     N     _KISTE Gwendolyn             Les 9 fant“mes de Mayfair þ2021
+o CHATNGS     ?  2021.08 ..... ISBN 978-2-37568-166-4
+} noimg          _C‚cile Guillot              ?
+!--- GF - 150x210 - 220 pages
+- .o .     R     _KISTE Gwendolyn             Plumes & Cigu‰ þ2020 Boneset & Feathers þTrad. MATHIS H‚lŠne
+o CHATNKO     ?  2021.08 ..... ISBN 978-2-37568-165-7
+} noimg          _Anato Finnstark             ?
+!--- GF 
+- .o .     R     _GODEFROY Cl‚mence           Inari-sama [Les H‚ritiers d'Higashi - 3] þ2021
+o CHATNCH     ?  2021.08 ..... ISBN 978-2-37568-164-0
+} noimg          _Natalia Drepina             ?
+!--- GF - 150x210 - 318 pages
+- .o .     R     _BERUBE Amelinda             Ici se cachent les monstres þ2021
+o CHATNCH     ?  2021.10 ..... ISBN 978-2-37568-170-1
+} noimg          _?                           ?
+!--- GF 
+- .o .     R     _FELTON Lizzie               Les Brumes vermeilles [A l'ombre du manoir - 1] þ2021
+o CHATNOI     ?  2021.10 ..... ISBN 978-2-37568-172-5
+} noimg          _Mina M.                     ?
+!--- GF - 112 pages
+- .o .     r     _GUILLOT C‚cile              Lullaby þ2021
+o CHATNOI     ?  2021.10 ..... ISBN 978-2-37568-171-8
+} noimg          _?                           ?
+!--- GF 
+- .o .     r     _DUCHARME Jayson Robert      Quand vient le d‚gel þ2021 Come Forth in Thaw þTrad. ?
+!------------------------
+!=== 2022
+!------------------------
+o CHATNGO     ?  2022.02 ..... ISBN 978-2-37568-178-7
+} noimg          _?                           ?
+!--- GF - 150 x 210 - ? pages - 14,90 euros
+- .o .     E     _GUILLOT C‚cile              Dames de rˆves, dames d'ombres þ2022
+o CHATNCH     ?  2022.02 ..... ISBN 978-2-37568-180-0
+} noimg          _Tommy TC                    ?
+!--- GF - 150 x 210 - ? pages - 19,90 euros
+- .o .     R     _MEYRAT Laetitia             Un papillon en hiver þ2022
+o CHATNFE     ?  2022.02 ..... ISBN 978-2-37568-179-4
+} noimg          _Selina Fenech               ?
+!--- GF - 150 x 210 - 236 pages - 17.90 euros
+- .oF.     R     _FENECH Selina               D'or et de mensonges - A Rumpelstiltskin Retelling þ2020 A Cage of Gold and Lies þTrad. ?
+o CHATNFE     ?  2022.04 ..... ISBN 978-2-37568-176-3
+} noimg          _Miesis                      ?
+!--- GF - 150 x 210 - 372 pages - 19.90 euros
+- .oF.     R     _GERMAIN Alison              La Marque de Chronos [Chroniques hom‚rides - 3] þ2022
+o CHATNIG     ?  2022.04 ..... ISBN 978-2-37568-184-8
+} noimg          _Mina M.                     ?
+!--- GF - 150 x 210 - 130 pages - 12.00 euros
+- .oF.     r     _KISTE Gwendolyn             Jolies Mary þ2017 Pretty Marys All in a Row þTrad. GUILLOT C‚cile
+o CHATNKO     ?  2022.04 ..... ISBN 978-2-37568-183-1
+} noimg          _?                           ?
+!--- GF - 150 x 210 mm - 190 pages - 14.90 euros
+- .oF.     R     _DAVID Julie                 La Rumeur des racines þ2022
+o CHATNCH     ?  2022.05 ..... ISBN 978-2-37568-187-9
+} noimg          _Tullius Heuer               ?
+!--- GF - 150 x 210 - 302 pages - 19,90 euros
+- .o .     R     _VAGNER Estelle              Le Sang d'or [Les Chuchoteurs - 2] þ2022
+o CHATNBS     ?  2022.05 ..... ISBN 978-2-37568-189-3
+} noimg          _Juliette Amadis             ?
+!--- GF - 150 x 210 - 294 pages - 19,90 euros
+- .o .     R     _AKKOUCHE J‚r“me             Lupus in Fabula þ2022
+o CHATNIG     ?  2022.05 ..... ISBN 978-2-37568-190-9
+} noimg          _Mina M.                     ?
+!--- GF - 150 x 210 - 120 pages - 12.00 euros
+- .oF.     r     _GORLIER Nina                Miranda þ2022
+o CHATNGS     ?  2022.05 ..... ISBN 978-2-37568-188-6
+} noimg          _Nicolas Jamonneau           ?
+!--- GF - 150 x 210 mm - 306 pages - 19,90 euros
+- .oF.     R     _SIDRE Pauline               Chaudron de bruyŠre [Crimes surnaturels - 1] þ2022
+o CHATNCH     ?  2022.08 ..... ISBN 978-2-37568-195-4
+} noimg          _Marcela Bolivar             ?
+!--- GF - 150x210 - 330 pages
+- .oF.     R     _BOWERS Georgia              Sombre Tilly þ2021 Mark of the Wicked þTrad. MATHIS H‚lŠne
+o CHATNCH     ?  2022.08 ..... ISBN 978-2-37568-196-1
+} noimg          _Mina M.                     ?
+!--- GF - 150x210 - 382 pages - 19,90 euros
+- .oF.     R     _WATERS Erica                Une riviŠre furieuse þ2021 The River Has Teeth þTrad. GUILLOT C‚cile
+o CHATNIG     ?  2022.08 ..... ISBN 978-2-37568-197-8
+} noimg          _Marcela Bolivar             ?
+!--- GF - 150x210 - 116 pages - 12 euros
+- .oF.     r     _SAINTCLAIR HJ               Le Respir þ2022
+o CHATNCH     ?  2022.10 ..... ISBN 978-2-37568-204-3
+} noimg          _Nicolas Jamonneau           ?
+!--- GF - 150x210 - 416 pages - 19,90 euros
+- .oF.     R     _MARTIN Aiden R.             Nos destins sombres þ2022
+o CHATNHA     ?  2022.10 ..... ISBN 978-2-37568-205-0
+} noimg          _Mina M.                     ?
+!--- Jeunesse - GF - 150x210 - 136 pages - 10 euros
+- .oF.     R     _LE FLOCH M. G.              Moor House - La Maison de la lande þ2022
+o CHATNIG     ?  2022.12 ..... ISBN 978-2-37568-207-4
+} noimg          _Claudia Ianniciello         ?
+!--- GF - 150x210 - 116 pages - 12 euros
+- .oF.     r     _SANGUINE                    Va au diable ! þ2022
 

@@ -1,15 +1,15 @@
 
 !-----------------------------------------------------------------------------
 _ DELAGRA Delagrave
-_ DELAJUV Delagrave, Coll. "Juventa"
-_ DELA_AJ Delagrave, Coll. Aventure et jeunesse
-_ DELA_BO Delagrave, Coll. Bouton d'Or
+_ DELAJUV Delagrave - Juventa
+_ DELA_AJ Delagrave - Aventure et jeunesse
+_ DELA_BO Delagrave - Bouton d'Or
 !-----------------------------------------------------------------------------
 !--- Delagrave
 !-----------------------------------------------------------------------------
 o DELAJUV     ?  1939.xx ..... ISBN -
-}delagrave_he39  _?                           ?
-- .oF.    kN10   _POE Edgar Allan             Histoires extraordinaires þ1856
+} delagrave_he39 _?                           ?
+- .oF.    kA10   _POE Edgar Allan             Histoires extraordinaires þ1939
 : .o .     N     _POE Edgar Allan             La Lettre vol‚e [Auguste Dupin] þ1845 The Purloined Letter
 : .o .     N     _POE Edgar Allan             Le Scarab‚e d'or þ1843 The Gold-Bug
 : .o .     N     _POE Edgar Allan             Les Souvenirs de M. Auguste Bedloe þ1844 A Tale of the Ragged Mountains þTrad. BAUDELAIRE Charles
@@ -26,10 +26,36 @@ o DELAGRA     ?  1884.xx ..... ISBN -
 o DELAGRA     ?  1898.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     A4    _IRVING Washington           RIP þ1898
-: .o .     N     _IRVING Washington           RIP þ1819 Rip Van Winkle þTrad. Georges ELWALL
-: .o .     N     _IRVING Washington           Le Fianc‚ fant“me þ1819 The Spectre Bridegroom þTrad. Georges ELWALL
-: .o .     r     _IRVING Washington           La L‚gende du vallon endormi þ1819 The Legend of Sleepy Hollow þTrad. Georges ELWALL
-: .o .     N     _IRVING Washington           Le Legs du Maure þ1832 The Legend of the Moor's Legacy þTrad. Georges ELWALL
+: .o .     N     _IRVING Washington           RIP þ1819 Rip Van Winkle þTrad. ELWALL Georges
+: .o .     N     _IRVING Washington           Le Fianc‚ fant“me þ1819 The Spectre Bridegroom þTrad. ELWALL Georges
+: .o .     r     _IRVING Washington           La L‚gende du vallon endormi þ1819 The Legend of Sleepy Hollow þTrad. ELWALL Georges
+: .o .     N     _IRVING Washington           Le Legs du Maure þ1832 The Legend of the Moor's Legacy þTrad. ELWALL Georges
+o DELAGRA     ?  1901.xx ..... ISBN -
+} noimg          _?                           R. Leinweber
+>--- L'ouvrage reprend "L'Auberge du Spessart" dans son int‚gralit‚, et y ajoute dans le d‚sordre l'ensemble des histoires des deux ouvrages, "La Caravane" et "Le Cheik", mais
+>--. sans en reprendre l'ensemble des textes de liaison, introduction, interm‚diaires et finaux.
+- .oMN    _RN9   _HAUFF Wilhelm               Dans la Forˆt noire þ1901
+: .oMN    _C5    _HAUFF Wilhelm               Dans la Forˆt noire ((L'Auberge du Spessart)) þ1827 Das Wirtshaus im Spessart þTrad. LAVALLEE A.
+>--- Ensemble d'histoires racont‚es par des voyageurs dans une auberge.
+>--. L'ouvrage pr‚sente 14 chapitres dont plusieurs chapitres de liaisons entre les histoires, et qui s'enchaŒnent de la fa‡on suivante : "Dans la forˆt noire",
+>--. "Hohenzollern le bourru", "O— il ne reste que peu de chose d'un h‚ritage", "O— l'aubergiste inspire de moins en moins confiance aux voyageurs",
+>--. "V‚ridique histoire d'un coeur de pierre", "Michel le Hollandais", "Pierre devient un personnage important", "Dans lequel arrivent ceux qu'on attendait",
+>--. "Comment Sa‹d courut les aventures malgr‚ lui", "Le prix de l'assistance", " O— il est montr‚ qu'il n'est pas bon de trop aimer l'or",
+>--. "Dans lequel F‚lix joue un tour pendable … Messieurs les brigands", "Comment finit la v‚ridique histoire du coeur de pierre" et "O— tout le monde est satisfait". 
+= .o .  13 N     _HAUFF Wilhelm               Hohenzollern le bourru þ1827 Die Sage vom Horschgulden þTrad. LAVALLEE A.
+= .o .  43 N     _HAUFF Wilhelm               V‚ridique histoire d'un coeur de pierre þ1827 Das kalte Herz - Erste Abteilung þTrad. LAVALLEE A.
+= .o .  77 N     _HAUFF Wilhelm               Comment Sa‹d courut les aventures malgr‚ lui þ1827 Saids Schicksale þTrad. LAVALLEE A.
+= .o . 121 N     _HAUFF Wilhelm               Ou il est montr‚ qu'il n'est pas bon de trop aimer l'or þ1827 Die H”hle von Steenfoll - Eine schottl„nsdische Sage þTrad. LAVALLEE A.
+= .o . 157 N     _HAUFF Wilhelm               Comment finit la v‚ritable histoire du coeur de pierre þ1827 Das kalte Herz - Zweite Abteilung þTrad. LAVALLEE A.
+: .o . 197 N     _HAUFF Wilhelm               Tˆte et poing - Histoire tragique þ1825 Die Geschichte von der abgehauenen Hand þTrad. LAVALLEE A.
+: .o . 217 N     _HAUFF Wilhelm               Histoire de Mesrob þ1826 Abner, der Jude, der nichts gesehen hat þTrad. LAVALLEE A.
+: .o . 231 N     _HAUFF Wilhelm               Le Calife cigigne þ1825 Die Geschichte vom Kalif Storch þTrad. LAVALLEE A.
+: .o . 247 N     _HAUFF Wilhelm               L'habit ne fait pas le moine þ1825 Das M„rchen vom falschen Prinzen þTrad. LAVALLEE A.
+: .o . 273 N     _HAUFF Wilhelm               Le Vaisseau enchant‚ þ1825 Die Geschichte von dem Gespensterschff þTrad. LAVALLEE A.
+: .o . 291 N     _HAUFF Wilhelm               Le Petit Mouck þ1825 Die Geschichte vom kleinen Muck þTrad. LAVALLEE A.
+: .o . 317 N     _HAUFF Wilhelm               Comment Fatm‚ fut d‚livr‚e þ1825 Die Errettung Fatmes þTrad. LAVALLEE A.
+: .o . 339 N     _HAUFF Wilhelm               Almanzor - Histoire d'un petit ‚gyptien þ1826 Die Geschichte Almansors þTrad. LAVALLEE A.
+: .o . 357 N     _HAUFF Wilhelm               Nasibus et Mimi - Conte des jadis þ1826 Der Zwerg Nase þTrad. LAVALLEE A.
 o DELAGRA     ?  1912.xx ..... ISBN -
 } noimg          _?                           ?
 + DELAGRA     ?  1925.xx ..... ISBN -
@@ -78,22 +104,22 @@ o DELAGRA     ?  1927.xx ..... ISBN -
 : .! .     N     _BARBEY D'AUREVILLY J.       Un drame en Vend‚e þ?
 : .! .     N     _DICKENS Charles             Le Remords þ? ? þTrad. LORRAIN P.
 : .! .     N     _DOSTOIEVSKY                 Le Crime þ? ? þTrad. FERENCZI J.
-: .! .     X     _HUGO Victor                 La Pieuvre (extrait de : Les travailleurs de la mer) þ?
+: .! .     X     _HUGO Victor                 La Pieuvre (extrait de : Les Travailleurs de la mer) þ?
 !--- L'homme et la pieuvre dans le sommaire
 : .o .     N     _MAUPASSANT Guy de           L'Auberge þ1886
 : .o .     N     _MERIMEE Prosper             La V‚nus d'Ille þ1837
 : .o .     N     _POE Edgar Allan             Le Puits et le pendule þ1843 The Pit and the Pendulum þTrad. BAUDELAIRE Charles
-: .o .     x     _STEVENSON Robert Louis      La Confession du docteur Jekyll (extrait de : Le cas ‚trange du Dr Jekyll et de M. Hyde) þ1885 The Strange Case of Dr. Jekyll and Mr. Hyde þTrad. LAPARRA Mme W.
-: .o .     X     _SUE EugŠne                  La Mort de la chouette (extrait de : Les mystŠres de Paris) þ1842
+: .o .     x     _STEVENSON Robert Louis      La Confession du docteur Jekyll (extrait de : Le Cas ‚trange du Dr Jekyll et de M. Hyde) þ1885 The Strange Case of Dr Jekyll and Mr Hyde þTrad. LAPARRA Mme W.
+: .o .     X     _SUE EugŠne                  La Mort de la chouette (extrait de : Les MystŠres de Paris) þ1842
 : .! .     N     _VILLIERS DE L'ISLE-ADAM     Catalina þ?
-: .! .     X     _ZOLA Emile                  La Fin de Coupeau (extrait de : L'assomoir) þ?
+: .! .     X     _ZOLA Emile                  La Fin de Coupeau (extrait de : L'Assomoir) þ?
 !--- VingtiŠme siŠcle
 : .! .     N     _DU BOIS Albert              Le Secret de la villa des trois cyprŠs þ?
-: .! .     X     _DORGELES Roland             Le Mont Calvaire (extrait de : Les croix de bois) þ1919
-: .! .     X     _DOYLE Arthur Conan          La Mal‚diction des Baskerville (extrait de : Le chien des Baskerville) þ?
+: .! .     X     _DORGELES Roland             Le Mont Calvaire (extrait de : Les Croix de bois) þ1919
+: .! .     X     _DOYLE Arthur Conan          La Mal‚diction des Baskerville (extrait de : Le Chien des Baskerville) þ?
 : .o .     N     _EWERS Hanns Heinz           Le Juif mort þ1907 Der tote Jude
 : .o .     X     _FARRERE Claude              Hors du silence (extrait de : Fum‚e d'opium) þ1904
-: .! .     N     _FOLEY Charles               Au t‚l‚phone þ?
+: .x .     N     _FOLEY Charles               Au t‚l‚phone þ?
 : .! .     N     _HARAUCOURT Edmond           L'Agenda þ1907
 : .! .     N     _HERVIEU Paul                Le Taureau du Jouvet þ1885
 !--- Dans L'Alpe homici‚e (extrait ou nouvelle ?)
@@ -142,9 +168,8 @@ o DELA_AJ     ?  1961.xx ..... ISBN -
 - .oS.     R     _FONTUGNE Christian         &Disparus de l'espace þ1961
 &                _CAREY Maurice               
 o DELA_BO    10  1964.xx ..... ISBN -
-} noimg          _?                           ?
+} noimg          _?                           Monique Berthoumeyrou
 + DELA_BO    10  1973.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.     R     _ANTON Emil                  La Princesse embaum‚e þ?
-!--- Idem "Les momies vivantes"
+- .oF.     R     _ANTON Emil                  La Princesse embaum‚e þ1953
 

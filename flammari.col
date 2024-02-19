@@ -6,19 +6,19 @@
 !-- FLA     Flammarion
 !-- FLANOIR Flammarion Noir
 !-- AUBIER  Aubier
-!-- AUBFBIL Aubier Flammarion, Coll. Bilingue
-!-- GARNIER Ed. Garnier
-!-- GARN_FR Ed. Garnier Fräres (Paris)
+!-- AUBFBIL Aubier Flammarion, Bilingue
+!-- GARNIER Garnier
+!-- GARN_FR Garnier Fräres (Paris)
 !-- GARN_CL Classiques Garnier
 !-- GFLA    Garnier Flammarion
-!-- GFLA_BI Garnier Flammarion, Coll. Bilingue
-!-- GFLA_EC Garnier Flammarion, Coll. Etonnants Classiques
-!-- FLATEXT Flammarion, Coll. textes
-!-- FLAGDOR Flammarion, Coll. L'age d'or
+!-- GFLA_BI Garnier Flammarion, Bilingue
+!-- FLA_EC  Garnier Flammarion, Etonnants Classiques
+!-- FLATEXT Flammarion, Textes
+!-- FLAGDOR Flammarion, L'age d'or
 !-- FLAIMAG Flammarion, Imagine
 !-- FLAQUAR Flammarion, Quark noir
-!-- FLATRIB Flammarion, Coll. Tribal
-!-- FLACHAP Flammarion, Bib. du Chat PerchÇ
+!-- FLATRIB Flammarion, Tribal
+!-- FLACHAP Flammarion, Bibliothäque du Chat PerchÇ
 !-- FLACP   Flammarion, Castor Poche
 !---- FLACPJu Flammarion, Castor Poche Junior
 !-- FLACPSe Flammarion, Castor Poche Senior
@@ -29,15 +29,23 @@
 !-----------------------------------------------------------------------------
 _ MARPFLA C. Marpon et E. Flammarion
 !-----------------------------------------------------------------------------
+!-----------------------------------------------------------------------------
+o MARPFLA     ?  1884.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _DEBANS Camille              Les Malheurs de John Bull ˛1884
+o MARPFLA     ?  1883.xx ..... ISBN -
+} noimg          _?                           ?
+- .pS.     Nx    _D'HERVILLY Ernest           Timbales d'histoires Ö la parisienne ˛1883
+: .o .  51 N     _D'HERVILLY Ernest           Josuah Electricmann ˛1883
 o MARPFLA     ?  1888.xx ..... ISBN -
 } noimg          _?                           ?
 !--- La numÇrotation des pages du sommaire est approximative.
-- .o .    =N9    _POE Edgar Allan             Contes extraordinaires ˛1888
+- .oF.    =N9    _POE Edgar Allan             Contes extraordinaires ˛1888
 : .o .   1 N     _POE Edgar Allan             Le ScarabÇe d'or ˛1843 The Gold-Bug ˛Trad. BAUDELAIRE Charles
 : .o .  53 N     _POE Edgar Allan             Le Puits et le pendule ˛1843 The Pit and the Pendulum
 : .o .  79 N     _POE Edgar Allan             Le Portrait ovale ˛1842 The Oval Portrait
 : .o .  89 N     _POE Edgar Allan             La Lettre volÇe [Auguste Dupin] ˛1845 The Purloined Letter ˛Trad. BAUDELAIRE Charles
-= .o . 119 N     _POE Edgar Allan             Le Chat noir ˛1843 The Black Cat
+: .o . 119 N     _POE Edgar Allan             Le Chat noir ˛1843 The Black Cat
 : .o . 139 N     _POE Edgar Allan             Double assassinat dans la rue Morgue [Auguste Dupin] ˛1841 The Murders in the Rue Morgue ˛Trad. BAUDELAIRE Charles
 : .o . 197 N     _POE Edgar Allan             Hop-Frog ˛1849 Hop-Frog
 : .o . 215 N     _POE Edgar Allan             La VÇritÇ sur le cas de M. Valdemar ˛1845 The Facts in the Case of Mr. Valdemar ˛Trad. BAUDELAIRE Charles
@@ -47,7 +55,7 @@ o MARPFLA     ?  1890.xx ..... ISBN -
 - .o .     R     _BOUSSENARD Louis            10,000 ans dans un bloc de glace ˛1889
 
 !-----------------------------------------------------------------------------
-_ FLA_OUB Flammarion, Coll. Une heure d'oubli...
+_ FLA_OUB Flammarion - Une heure d'oubli...
 !-----------------------------------------------------------------------------
 o FLA_OUB    34  1920.02 ..... ISBN -
 !--- Contiendrait Çgalement la nouvelle "La silencieuse" (hors genres)
@@ -63,17 +71,22 @@ o FLA_OUB    82  1921.xx ..... ISBN -
 !-----------------------------------------------------------------------------
 _ FLA_ERN Ernest Flammarion
 _ FLA     Flammarion
-_ FLA_FLA Flammarion, Coll. Flammarion
-_ FLAM_AC Flammarion, Coll. Auteurs CÇläbres
+_ FLA_FLA Flammarion - Flammarion
+_ FLA_KIO Flammarion - Kiosque
+_ FLAM_AC Flammarion - Auteurs CÇläbres
 _ FLAJ    Flammarion Jeunesse
-_ FLAJP   Flammarion Jeunesse, Poche
-_ FLAJ_CA Flammarion Jeunesse, Coll. Capsule
-_ FLANOIR Flammarion Noir
-_ FLA_MDM Flammarion, Le Meilleur des Mondes
-_ FLASEL  Flammarion, Select-Collection
-_ FLA_OMB Flammarion, Coll. Ombres Noires
-_ OMBRNOI Ed. Ombres Noires
+_ FLAJP   Flammarion Jeunesse - Poche
+_ FLAJ_CA Flammarion Jeunesse - Capsule
+_ FLANOIR Flammarion - Flammarion Noir
+_ FLA_MDM Flammarion - Le Meilleur des Mondes
+_ FLASEL  Flammarion - Select-Collection
+_ FLA_OMB Flammarion - Ombres Noires
+_ OMBRNOI Ombres Noires
 !-----------------------------------------------------------------------------
+o FLA_ERN     ?  1896.xx ..... ISBN -
+} noimg          _?                           ?
+- .p .    iNx    _AURIOL George               Hanneton vole ! ˛1896
+: .o .     N     _AURIOL George               L'Agence Cook interdite au rägne vÇgÇtal ˛1896
 o FLA         ?  1898.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _BELLAMY Edward              Looking Backward (En l'an 2000) ˛1888 Looking Backward ˛Trad. POYNTER-REDFERN Mme
@@ -144,7 +157,12 @@ o FLA         ?  1910.xx ..... ISBN -
 - .o .     R     _SEMANT Paul de              Le Fulgur ˛1910
 o FLA         ?  1914.xx ..... ISBN -
 } noimg          _?                           ?
-- .oT.    iN30   _LEVEL Maurice               Les Oiseaux de nuit ˛1913
+- .oT.    iNx    _LEVEL Maurice               Les Oiseaux de nuit ˛1913
+: .o .     N     _LEVEL Maurice               Le Chenil ˛?
+: .o .     N     _LEVEL Maurice               Le Baiser dans la nuit ˛?
+: .o .     N     _LEVEL Maurice               La Nuit et le Silence ˛?
+: .o .     N     _LEVEL Maurice               Sous le chloroforme ˛?
+: .o .     N     _LEVEL Maurice               Dans les blÇs ˛?
 o FLA         ?  1915.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _ROLAND Marcel               Faiseur d'or ˛1915
@@ -174,23 +192,27 @@ o FLA_ERN     ?  1921.xx ..... ISBN -
 : .o .     N     _RICHEPIN Jean               Les Soeurs Moche ˛1921
 : .o .     N     _RICHEPIN Jean               L'Éme double ˛1921
 : .o .     N     _RICHEPIN Jean               L'Autre Sens ˛1921
-: .o .     N     _RICHEPIN Jean               La CitÇ des gemmes ˛1921
+: .o .     N     _RICHEPIN Jean               La CitÇ des gemmes ˛1908
 : .o .     N     _RICHEPIN Jean               L'Homme-Peste ˛1899
 : .o .     N     _RICHEPIN Jean               Le Nouvel Explosif ˛1921
+o FLA_ERN     ?  1922.xx ..... ISBN -
+} noimg          _?                           ?
+- .p .     Nx    _RICHEPIN Jean               Contes sans morale ˛1922
+: .o . 212 N     _RICHEPIN Jean               Vieux neuf ˛1899
 o FLASEL    141  1922.xx ..... ISBN -
 } flamselect141  _?                           N
 - .oF.    _N12   _MAUPASSANT Guy de           Le Horla ˛1922
-: .o .     N     _MAUPASSANT Guy de           Le Horla ˛1886
-: .o .     N     _MAUPASSANT Guy de           Amour ˛1886
-: .o .     N     _MAUPASSANT Guy de           Le Trou ˛1886
-: .o .     N     _MAUPASSANT Guy de           SauvÇe ˛1885
-: .o .     N     _MAUPASSANT Guy de           Clochette ˛1886
-: .o .     N     _MAUPASSANT Guy de           Le Marquis de Fumerol ˛1886
+: .o .     N     _MAUPASSANT Guy de           Le Horla (2iäme version) ˛1886-1887
+: .! .     N     _MAUPASSANT Guy de           Amour ˛1886
+: .! .     N     _MAUPASSANT Guy de           Le Trou ˛1886
+: .! .     N     _MAUPASSANT Guy de           SauvÇe ˛1885
+: .! .     N     _MAUPASSANT Guy de           Clochette ˛1886
+: .! .     N     _MAUPASSANT Guy de           Le Marquis de Fumerol ˛1886
 : .o .     N     _MAUPASSANT Guy de           Le Diable ˛1886
-: .o .     N     _MAUPASSANT Guy de           Les Rois ˛1887
-: .o .     N     _MAUPASSANT Guy de           Au bois ˛1886
-: .o .     N     _MAUPASSANT Guy de           Une famille ˛1886
-: .o .     N     _MAUPASSANT Guy de           Joseph ˛1885
+: .! .     N     _MAUPASSANT Guy de           Les Rois ˛1887
+: .! .     N     _MAUPASSANT Guy de           Au bois ˛1886
+: .! .     N     _MAUPASSANT Guy de           Une famille ˛1886
+: .! .     N     _MAUPASSANT Guy de           Joseph ˛1885
 : .o .     N     _MAUPASSANT Guy de           L'Auberge ˛1886
 o FLA         ?  1924.xx ..... ISBN -
 } flamrip1924    _?                           ?
@@ -224,7 +246,7 @@ o FLA         ?  1928.xx ..... ISBN -
 !--- I. Ràves
 : .o .     N     _FARRERE Claude              Une hypothäse ˛1928
 : .o .     N     _FARRERE Claude              Les Deux Soeurs irrÇprochablement vertueuses ˛1928
-: .o .     N     _FARRERE Claude              Oó ? ˛1928
+: .o .     N     _FARRERE Claude              Oó ? ˛1923
 !--- La nouvelle "Oó ?" contient 6 sous-textes :
 !---  1. L'infini (&infini;)
 !---  2. Sept (7)
@@ -269,18 +291,31 @@ o FLASEL      ?  1941.xx ..... ISBN -
 o FLASEL    113  1942.xx ..... ISBN -
 } flamselect113  _?                           N
 - .oF.    _N12   _MAUPASSANT Guy de           Le Horla ˛1922
-: .o .     N     _MAUPASSANT Guy de           Le Horla ˛1886
-: .o .     N     _MAUPASSANT Guy de           Amour ˛1886
-: .o .     N     _MAUPASSANT Guy de           Le Trou ˛1886
-: .o .     N     _MAUPASSANT Guy de           SauvÇe ˛1885
-: .o .     N     _MAUPASSANT Guy de           Clochette ˛1886
-: .o .     N     _MAUPASSANT Guy de           Le Marquis de Fumerol ˛1886
+: .o .     N     _MAUPASSANT Guy de           Le Horla (2iäme version) ˛1886-1887
+: .! .     N     _MAUPASSANT Guy de           Amour ˛1886
+: .! .     N     _MAUPASSANT Guy de           Le Trou ˛1886
+: .! .     N     _MAUPASSANT Guy de           SauvÇe ˛1885
+: .! .     N     _MAUPASSANT Guy de           Clochette ˛1886
+: .! .     N     _MAUPASSANT Guy de           Le Marquis de Fumerol ˛1886
 : .o .     N     _MAUPASSANT Guy de           Le Diable ˛1886
-: .o .     N     _MAUPASSANT Guy de           Les Rois ˛1887
-: .o .     N     _MAUPASSANT Guy de           Au bois ˛1886
-: .o .     N     _MAUPASSANT Guy de           Une famille ˛1886
-: .o .     N     _MAUPASSANT Guy de           Joseph ˛1885
+: .! .     N     _MAUPASSANT Guy de           Les Rois ˛1887
+: .! .     N     _MAUPASSANT Guy de           Au bois ˛1886
+: .! .     N     _MAUPASSANT Guy de           Une famille ˛1886
+: .! .     N     _MAUPASSANT Guy de           Joseph ˛1885
 : .o .     N     _MAUPASSANT Guy de           L'Auberge ˛1886
+o FLA         ?  1945.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 221 pages
+- .oF.     N9    _TROYAT Henri                Du Philanthrope Ö la Rouquine ˛1945
+: .o .     N     _TROYAT Henri                Le Philanthrope ˛1945
+: .o .     N     _TROYAT Henri                Le GuÇridon ˛1945
+: .o .     N     _TROYAT Henri                Le Portrait ˛1945
+: .o .     N     _TROYAT Henri                Le Fils du ciel ˛1945
+: .? .     N     _TROYAT Henri                La Gloire ˛1945
+: .o .     N     _TROYAT Henri                Maldonne ˛1945
+: .o .     N     _TROYAT Henri                Le Sortiläge ˛1945
+: .o .     N     _TROYAT Henri                La VÇritÇ ˛1945
+: .o .     N     _TROYAT Henri                La Rouquine ˛1945
 o FLA_FLA    21  1950.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _DANRIT Capitaine            Robinsons sous-marins ˛1908
@@ -311,22 +346,22 @@ o FLA         ?  1966.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.    _N17   _TROYAT Henri                Les Ailes du diable ˛1966
 : .o .     N     _TROYAT Henri                Monsieur Citrine ˛1966
-: .o .     N     _TROYAT Henri                Le Fils du ciel ˛1966
+: .o .     N     _TROYAT Henri                Le Fils du ciel ˛1945
 : .o .     N     _TROYAT Henri                Le Ressac ˛1966
 : .o .     N     _TROYAT Henri                L'êtrange Histoire de Mr Breadborough ˛1966
 : .o .     N     _TROYAT Henri                Les Cobayes ˛1966
 : .o .     N     _TROYAT Henri                Le Vertige ˛1966
 : .o .     N     _TROYAT Henri                Erratum ˛1966
-: .o .     N     _TROYAT Henri                Le Sortiläge ˛1966
+: .o .     N     _TROYAT Henri                Le Sortiläge ˛1945
 : .o .     N     _TROYAT Henri                Le Tandem ˛1966
-: .o .     N     _TROYAT Henri                Maldonne ˛1966
+: .o .     N     _TROYAT Henri                Maldonne ˛1945
 : .o .     N     _TROYAT Henri                Le Ratuset ˛1966
-: .o .     N     _TROYAT Henri                La VÇritÇ ˛1966
+: .o .     N     _TROYAT Henri                La VÇritÇ ˛1945
 : .o .     N     _TROYAT Henri                Le Jugement de Dieu ˛1966
-: .o .     N     _TROYAT Henri                Le GuÇridon ˛1966
+: .o .     N     _TROYAT Henri                Le GuÇridon ˛1945
 : .o .     N     _TROYAT Henri                La Dame noire ˛1966
-: .o .     N     _TROYAT Henri                Le Portrait ˛1966
-: .o .     N     _TROYAT Henri                Le Philanthrope ˛1966
+: .o .     N     _TROYAT Henri                Le Portrait ˛1945
+: .o .     N     _TROYAT Henri                Le Philanthrope ˛1945
 o FLA         ?  1967.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     R     _ESCARPIT Robert             Honorius, pape ˛1967
@@ -372,7 +407,7 @@ o FLA         ?  1974.xx ..... ISBN -
 o FLA         ?  1976.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _ADAMS Richard               Les Garennes de Watership-Down ˛1972 Watership Down ˛Trad. CLINQUART Pierre
-o FLAM        ?  1976.xx ..... ISBN 2-08-060879-7
+o FLA         ?  1976.xx ..... ISBN 2-08-060879-7
 } noimg          _?                           ?
 !--- Gobalement hors genre; disparitions non rÇsolues, quelques ÇlÇments Çtranges, rÇfÇrence au ràve...
 !--- Le dernier chapitre (retirÇ sur demande de l'Çditeur et republiÇ plus tard) laisse apparaåtre quelques ÇlÇments non rationels
@@ -401,8 +436,8 @@ o FLA         ?  1984.xx ..... ISBN .-.....-...-.
 o FLA         ?  1984.xx ..... ISBN 2-08-064653-2
 } noimg          _?                           ?
 !--- PrÇface de Rhys Davies
-- .oI.    iN10   _KAVAN Anna                  Mon Éme en Chine ˛1975 My Soul is in China ˛Trad. LALAIN Odile de
-: .o .     r     _KAVAN Anna                  Mon Éme en Chine ˛1975 My Soul is in China ˛Trad. LALAIN Odile de
+- .oI.     N10   _KAVAN Anna                  Mon Éme en Chine ˛1975 My Soul Is in China ˛Trad. LALAIN Odile de
+: .o .     r     _KAVAN Anna                  Mon Éme en Chine ˛1975 My Soul Is in China ˛Trad. LALAIN Odile de
 : .o .     N     _KAVAN Anna                  Cinq journÇes d'un compte Ö rebours ˛1975 Five More Days to Countdown ˛Trad. LALAIN Odile de
 : .o .     N     _KAVAN Anna                  Doux JÇsus ˛1975 Tiny Thin ˛Trad. LALAIN Odile de
 : .o .     N     _KAVAN Anna                  Le Sous-Marin jaune ˛1975 Yellow Submarine ˛Trad. LALAIN Odile de
@@ -417,7 +452,7 @@ o FLA         ?  1985.xx ..... ISBN 2-08-064738-5
 - .o .     R     _BACH Richard                Un pont sur l'infini - Une histoire d'amour ˛1984 The Bridge Across Forever: A Lovestory ˛Trad. FROBERGER Jean
 o FLA         ?  1988.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _BALLARD James G.            Le Jour de la crÇation ˛1988 The Day of Creation ˛Trad. LOUIT Robert
+- .o .     R     _BALLARD James G.            Le Jour de la crÇation ˛1987 The Day of Creation ˛Trad. LOUIT Robert
 o FLA         ?  1989.xx ..... ISBN 2-08-066183-3
 } noimg          _?                           ?
 - .x .     R     _CURVAL Philippe             Akiloâ ˛1989
@@ -441,7 +476,7 @@ o FLA         ?  1996.xx ..... ISBN 2-08-161299-2
 - .o .     R     _COLLODI Carlo               Pinocchio ˛1881 Le avventure di Pinocchio ˛Trad. PONCET Claude
 o FLA         ?  1996.xx ..... ISBN 2-08-067253-3
 } noimg          _?                           ?
-!--- Coll. Etat de choc
+!--- Collection Etat de choc
 - .oS.     R     _DARNTON John                NÇandertal ˛1996 Neanderthal ˛Trad. MENARD Pierre
 o FLA         ?  1997.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -458,6 +493,10 @@ o FLA         ?  1998.xx ..... ISBN .-.....-...-.
 o FLA         ?  1998.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _MATHESON Richard            Au-delÖ de nos ràves ˛1978 What Dreams May Come
+o FLA_KIO     ?  1998.xx ..... ISBN 2-08-067596-6
+} noimg          _?                           ?
+!--- GF - 19 cm - 142 pages - 39 francs
+- .oF.     R     _BOULGAKOV Mikhaãl           Coeur de chien ˛[1925],1968 Sobacheye Serdste ˛Trad. LEVY Janine
 o FLA         ?  1999.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _COMBAZ Christian            Le Seigneur d'Uranie ˛?
@@ -507,7 +546,7 @@ o FLA         ?  2003.10 ..... ISBN 2-08-068481-7
 - .oF.     R     _LOEVENBRUCK Henri           Le Testament des siäcles ˛2003
 o FLA         ?  2003.xx ..... ISBN 2-08-068397-7
 } noimg          _?                           ?
-- .p .     N4    _DANTEC Maurice G.           PÇriphÇriques ˛2003
+- .pS.     N4    _DANTEC Maurice G.           PÇriphÇriques ˛2003
 !--- Recueils de 4 nouvelles, d'articles et d'interview
 : .oS.     N     _DANTEC Maurice G.           Dieu porte-t-il des lunettes noires ? ˛1995
 : .oS.     N     _DANTEC Maurice G.           THX baby ˛1994
@@ -515,7 +554,7 @@ o FLA         ?  2003.xx ..... ISBN 2-08-068397-7
 : .xP.     N     _DANTEC Maurice G.           Quand clignote la mort Çlectrique ˛1995
 o FLANOIR     ?  2003.xx ..... ISBN 2-08-068374-8
 } noimg          _?                           ?
-- .x .     R     _MATHESON Richard            La Traque ˛2002 Hunted Past Reason ˛Trad? NARBONNE HÇläne
+- .x .     R     _MATHESON Richard            La Traque ˛2002 Hunted Past Reason ˛Trad. NARBONNE HÇläne
 o FLAJ        ?  2003.11 ..... ISBN 2-08-162427-3
 } noimg          _?                           ?
 !--- GF - Jeunesse 11+ - 135 x 210 mm - 160 pages - 10,00 euros
@@ -564,7 +603,7 @@ o FLA         ?  2006.11 ..... ISBN 2-07-163373-6
 } flam_poegrimly _GRIMLY Gris                 GRIMLY Gris
 - .oF.     N4    _POE Edgar Allan             4 histoires fantastiques illustrÇes ˛2006
 : .o .     N     _POE Edgar Allan             Le Chat noir ˛1843 The Black Cat
-: .o .     N     _POE Edgar Allan             Le Masque de la mort rouge ˛1842 The Mask of the Red Death ˛Trad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             Le Masque de la mort rouge ˛1842 The Masque of the Red Death ˛Trad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Hop-Frog ˛1849 Hop-Frog
 : .o .     N     _POE Edgar Allan             La Chute de la maison Usher ˛1839 The Fall of the House of Usher
 o FLACP       ?  2006.xx ..... ISBN 2-07-163389-2
@@ -685,7 +724,7 @@ o FLAJ        ?  2010.11 ..... ISBN 978-2-08-125024-6
 : .o .     N     _CALMET Augustin             Des nouvelles de l'autre monde ˛1751
 : .o .     N     _NERVAL GÇrard de            Le ChÉteau du diable ˛?
 !--- Idem "Le monstre vert" ?
-: .o .     N     _POE Edgar Allan             Le Masque de la mort rouge ˛1842 The Mask of the Red Death ˛Trad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             Le Masque de la mort rouge ˛1842 The Masque of the Red Death ˛Trad. BAUDELAIRE Charles
 : .o .     N     _MAUPASSANT Guy de           Qui sait ? ˛1890
 : .o .     N     _APOLLINAIRE Guillaume       La Disparition d'HonorÇ Subrac ˛1910
 : .o .     N     _BRADBURY Ray                Le Coquillage ˛1944 The Sea Shell ˛Trad. CHAMBON Jacques
@@ -718,6 +757,24 @@ o FLAJ        ?  2011.xx ..... ISBN 978-2-08-126247-8
 } noimg          _?                           ?
 !--- AdaptÇ par Camille Sander ; d'apräs ChrÇtien de Troyes et Wolfram von Eschenbach ; illustrations FrÇdÇric Sochard
 - .oF.     R     _CHRETIEN de TROYES          Perceval ou Le Conte du Graal - Edition bilingue [Les Romans arthuriens - 5] ˛c1185
+o FLAJ        ?  2011.08 ..... ISBN 978-2-08-124416-0
+} flaj_vampires  _FrÇdÇric Sochard            FrÇdÇric Sochard
+!--- Jeunesse 11+ - Poche - 125 x 177 - 224 pages - 5,60 euros
+- .oF.     A13   _RACHMUHL Franáoise          13 histoires de vampires ˛2011
+!--- En fait 12 nouvelles et une biographie de Vlad Tepes
+: .o .     p     _RACHMUHL Franáoise          Avant-propos ˛2011
+: .o .     N     _RACHMUHL Franáoise          La Famille du Vourdalak - Moldavie ˛2011
+: .o .     N     _RACHMUHL Franáoise          Le Carrosse noir ˛2011
+: .o .     N     _RACHMUHL Franáoise          Le Vampire, le coq et la poule ˛2011
+: .o .     N     _RACHMUHL Franáoise          La Complainte du lin ˛2011
+: .o .     N     _RACHMUHL Franáoise          La Petite Princesse gourmande ˛2011
+: .o .     N     _RACHMUHL Franáoise          Maritza ˛2011
+: .o .     N     _RACHMUHL Franáoise          La Fille ràvÇe ˛2011
+: .o .     N     _RACHMUHL Franáoise          Clairs de lune ˛2011
+: .o .     N     _RACHMUHL Franáoise          Le Sourire de Philinnion ˛2011
+: .o .     N     _RACHMUHL Franáoise          Le Mariage de Ning ˛2011
+: .o .     N     _RACHMUHL Franáoise          Le Kapotier ˛2011
+: .o .     N     _RACHMUHL Franáoise          Le Chat sans nom ˛2011
 !------------------------
 !=== 2012
 !------------------------
@@ -732,7 +789,8 @@ o FLAJ        ?  2012.04 ..... ISBN 978-2-08-125032-1
 - .oF.     R     _WEBB Holly                  Rose et le masque vÇnitien [Rose - 3] ˛2010 Rose and the Magician's Mask ˛Trad. ?
 o FLAJ        ?  2012.05 ..... ISBN 978-2-08-127822-6
 } noimg          _?                           ?
-- .oF.     R     _STOKER Bram                 Dracula ˛1897 Dracula ˛Adapt. HONAKER Michel
+!--- Traduit et adaptÇ par Michel Honaker
+- .oF.     R     _STOKER Bram                 Dracula (Texte adaptÇ) ˛1897 Dracula ˛Adapt. HONAKER Michel
 o FLA         ?  2012.09 ..... ISBN 978-2-08-125639-2
 } noimg          _?                           ?
 - .oS.     R     _BORDAGE Pierre              Ceux qui sauront [Ceux qui sauront - 1] ˛2008
@@ -751,7 +809,7 @@ o FLAJ        ?  2012.11 ..... ISBN 978-2-08-123371-3
 : .oY.     N     _SAMOSATE Lucien de          L'Apprenti sorcier ˛2ie
 : .oY.     N     _YOLEN Jane                  Fräre Cerf ˛1978 Brother Hart ˛Trad. BOSCHETTI Federica
 : .oY.     N     _WAGNER Roland C.            Pour une poignÇe de cailloux ˛1999
-: .oY.     N     _YOSS                        Le Gardien ˛2002 El gardian ˛Trad. MORENO Lucas
+: .oY.     N     _YOSS                        Le Gardien ˛2002 El guardian ˛Trad. MORENO Lucas
 : .oY.     N     _BORDAGE Pierre              L'Autre Bord ˛2012
 : .oY.     N     _BOUSQUET Charlotte          De sable et de vent ˛2012
 : .oY.     N     _JAWORSKI Jean-Philippe      Secondes noces ˛2012
@@ -787,7 +845,7 @@ o FLAJ        ?  2013.06 ..... ISBN 978-2-08-129974-0
 - .oF.     R     _WEBB Holly                  Lily et la magie dÇfendue [Lily - 1] ˛2011 Lily ˛Trad. ?
 o FLAJ        ?  2013.08 ..... ISBN 978-2-08-130302-7
 } flaj_eap_ht    _AurÇlien Police             ?
-- .pF.    iA17   _POE Edgar Allan            &Histoires terribles ˛2013
+- .pF.     A17   _POE Edgar Allan            &Histoires terribles ˛2013
 &                *MARTINIGOL Danielle         
 !--- Textes prÇsentÇs par Danielle Martinigol
 !--- Textes amputÇs pour beaucoup semble-t-il...
@@ -795,17 +853,17 @@ o FLAJ        ?  2013.08 ..... ISBN 978-2-08-130302-7
 : .o .     N     _POE Edgar Allan             Metzengerstein ˛1832-1936 Metzengerstein
 : .o .     N     _POE Edgar Allan             William Wilson ˛1839 William Wilson
 : .o .     N     _POE Edgar Allan             Le Chat noir ˛1843 The Black Cat
-: .o .     N     _POE Edgar Allan             Le Coeur rÇvÇlateur ˛1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Coeur rÇvÇlateur ˛1843 The Tell-Tale Heart
 : .o .     N     _POE Edgar Allan             BÇrÇnice ˛1835 Berenice
 : .o .     N     _POE Edgar Allan             Ligeia ˛1838 Ligeia
-: .o .     P     _POE Edgar Allan             Le Corbeau ˛1845 The raven
+: .o .     P     _POE Edgar Allan             Le Corbeau ˛1845 The Raven
 !--- En deux versions : celle de Baudelaire et celle de MallarmÇ
 : .o .     N     _POE Edgar Allan             La Chute de la maison Usher ˛1839 The Fall of the House of Usher
 !--- II. Poe prÇcurseur du roman policier.
 : .o .     N     _POE Edgar Allan             Double assassinat dans la rue Morgue [Auguste Dupin] ˛1841 The Murders in the Rue Morgue
 : .o .     r     _POE Edgar Allan             Le Mystäre de Marie Roget [Auguste Dupin] ˛1842 The Mystery of Marie Roget
 !--- III. Poe prÇcurseur du roman d'aventures.
-: .o .     X     _POE Edgar Allan             Les Aventures d'Arthur Gordon Pym de Nantucket [Arthur Gordon Pym] ˛1838 The Narrative of Arthur Gordon Pym
+: .o .     X     _POE Edgar Allan             Les Aventures d'Arthur Gordon Pym de Nantucket [Arthur Gordon Pym] ˛1838 The Narrative of Arthur Gordon Pym of Nantucket
 !--- IV. : Poe prÇcurseur du roman de science-fiction.
 : .o .     N     _POE Edgar Allan             Aventure sans pareille d'un certain Hans Pfaall ˛1835 The Unparalleled Adventure of One Hans Pfaall
 : .o .     N     _POE Edgar Allan             Le Canard au ballon ˛1844 The Balloon Hoax
@@ -813,7 +871,7 @@ o FLAJ        ?  2013.08 ..... ISBN 978-2-08-130302-7
 : .o .     N     _POE Edgar Allan             La Semaine des trois dimanches ˛1841 Three Sundays in a Week
 : .o .     N     _POE Edgar Allan             Le Mille et Deuxiäme Conte de SchÇhÇrazade ˛1845 The Thousand-and-second Tale of Scheherazade
 !--- Conclusion
-: .o .     a     _POE Edgar Allan             La Genäse d'un poäme ˛? ?
+: .o .     a     _POE Edgar Allan             La Genäse d'un poäme ˛1846 The Philosophy of Composition ˛Trad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Ombre ˛1835 Shadow - A Parable
 o FLAJ        ?  2013.09 ..... ISBN 978-2-08-129976-4
 } noimg          _?                           ?
@@ -829,7 +887,7 @@ o FLA         ?  2013.03 ..... ISBN 978-2-08-129414-1
 !------------------------
 o FLA         ?  2014.01 ..... ISBN 978-2-08-129031-0
 } noimg          _?                           ?
-!--- GF - 136 x 210 mm - 218 pages - 17,00 euros
+!--- GF - 136 x 210 mm - 228 pages - 17,00 euros
 - .oF.     R     _QUIRINY Bernard             Le Village Çvanoui ˛2014
 o FLA         ?  2014.01 ..... ISBN 978-2-08-131431-3
 } noimg          _?                           ?
@@ -862,6 +920,9 @@ o FLAJ        ?  2014.10 ..... ISBN 978-2-08-134432-7
 + FLAJ        ?  2018.10 ..... ISBN 978-2-08-143402-8
 } noimg          _JÇrÇmie Fleury              JÇrÇmie Fleury
 !--- Edition Collector cartonnÇe - 224 pages - 152x208 (au lieu de 145x200)
++ FLAJ        ?  2021.06 ..... ISBN 978-2-08-025423-8
+} noimg          _JÇrÇmie Fleury              ?
+!--- Jeunesse - GF - 140x200 - 224 pages
 - .oF.     R     _O'DONNELL Cassandra         La Foràt des tÇnäbres [Malenfer - 1] ˛2014
 o OMBRNOIR    ?  2014.xx ..... ISBN 978-2-0813-4927-8
 } noimg          _?                           ?
@@ -880,7 +941,7 @@ o FLAJ        ?  2015.04 ..... ISBN 978-2-08-134431-0
 - .oY.     R     _O'DONNELL Cassandra         La Source magique [Malenfer - 2] ˛2015
 o FLAJ        ?  2015.06 ..... ISBN 978-2-08-126521-9
 } noimg          _Benjamin CarrÇ              ?
-- .oY.     R     _HOBB Robin                  La DÇchirure [Le Soldat chamane - 1] ˛2005 Shaman's Crossing ˛Trad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  La DÇchirure [Le Soldat chamane - 1.1] ˛2005 Shaman's Crossing ˛Trad. MOUSNIER-LOMPRE Arnaud
 o FLAJ        ?  2015.09 ..... ISBN 978-2-08-134300-9
 } noimg          _Vivienne To                 ?
 - .o .     R     _FIEDLER Lisa                Hopper contre-attaque [La Guerre des Mus - 2] ˛2015 Hopper's Destiny ˛Trad. FIORE Faustina
@@ -997,7 +1058,7 @@ o FLAJ        ?  2019.05 ..... ISBN 978-2-08-148647-8
 : .o .     N     _CALMET Augustin             Des nouvelles de l'autre monde ˛1751
 : .o .     N     _NERVAL GÇrard de            Le ChÉteau du diable ˛?
 !--- Idem "Le monstre vert" ?
-: .o .     N     _POE Edgar Allan             Le Masque de la mort rouge ˛1842 The Mask of the Red Death ˛Trad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             Le Masque de la mort rouge ˛1842 The Masque of the Red Death ˛Trad. BAUDELAIRE Charles
 : .o .     N     _MAUPASSANT Guy de           Qui sait ? ˛1890
 : .o .     N     _APOLLINAIRE Guillaume       La Disparition d'HonorÇ Subrac ˛1910
 : .o .     N     _BRADBURY Ray                Le Coquillage ˛1944 The Sea Shell ˛Trad. CHAMBON Jacques
@@ -1030,7 +1091,7 @@ o FLAJ_CA     ?  2019.09 ..... ISBN 978-2-08-144948-0
 : .oS.     N     _MARTINIGOL Danielle         Le Petit Lapin tondu ˛2007
 : .oS.     N     _WOLLHEIM Donald A.          Aquella ˛1942 The Planet Called Aquella
 : .oS.     N     _DISCH Thomas M.             Les Oiseaux ˛1973 The Birds
-: .oS.     N     _HOFFMAN Lee                 Dans le silence du soir ˛1983 Soundless Evening
+: .oS.     N     _HOFFMAN Lee                 Dans le silence du soir ˛1972 Soundless Evening
 : .oS.     N     _BLOCH Robert                Le jour se läve ˛1958 Daybroke
 : .oS.     N     _LAMBERT Christophe          Homo jardinus ˛2007
 : .oS.     N     _BORDAGE Pierre              Dans le regard des miens ˛2007
@@ -1043,6 +1104,10 @@ o FLAJ        ?  2019.10 ..... ISBN 978-2-08-144913-8
 !------------------------
 !=== 2020
 !------------------------
+o FLAJ        ?  2020.01 ..... ISBN 978-2-08-149561-6
+} noimg          _?                           ?
+!--- YA - GF - 136 x 209 - 240 pages
+- .oS.     R     _PAVLENKO Marie              Et le dÇsert disparaåtra ˛2020
 o FLAJ_CA     ?  2020.02 ..... ISBN 978-2-08-149792-4
 } noimg          _Benjamin CarrÇ              ?
 !--- 141 x 190 mm - 448 pages - 12,00 euros
@@ -1054,11 +1119,11 @@ o FLAJP       ?  2020.02 ..... ISBN 978-2-08-147980-7
 o FLAJP       ?  2020.03 ..... ISBN 978-2-08-151309-9
 } noimg          _Fred Sochard                ?
 !--- Jeunesse 9+ - 125 x 178 mm - 160 pages - 5,60 euros
-- .oO.    iN16   _OVIDE                       16 nouvelles MÇtamorphoses d'Ovide ˛2020 ˛Adapt. Franáoise RachmÅl
+- .oO.    iNx    _OVIDE                       16 nouvelles MÇtamorphoses d'Ovide ˛2020 ˛Adapt. Franáoise RachmÅl
 o FLAJP       ?  2020.03 ..... ISBN 978-2-08-149460-2
 } noimg          _Fred Sochard                ?
 !--- Jeunesse 9+ - 125 x 178 mm - 160 pages - 5,20 euros
-- .oO.     R     _HOMERE                      L'OdyssÇe ˛2020 ˛Adapt. Michel Honaker
+- .oO.     R     _HOMERE                      L'OdyssÇe ˛? ? ˛Adapt. Michel Honaker
 o FLAJ        ?  2020.06 ..... ISBN 978-2-08-151390-7
 } noimg          _Jean-Mathias Xavier         Jean-Mathias Xavier
 !--- Jeunesse 10+ - GF 219 x 247 mm - 320 pages - 12,50 euros
@@ -1066,19 +1131,19 @@ o FLAJ        ?  2020.06 ..... ISBN 978-2-08-151390-7
 o FLAJ        ?  2020.06 ..... ISBN 978-2-08-151150-7
 } noimg          _Franáois Roca               ?
 !--- Jeunesse 9+ - 125 x 178 mm - 93 pages - 4,20 euros
-- .oO.    _N12   _RACHMUL Franáoise           Monstres et crÇatures de la mythologie ˛2020
-: .oO.   7 N     _RACHMUL Franáoise           Les Premiers Monstres ˛2020
-: .oO.  13 N     _RACHMUL Franáoise           Les Enfants de Typhon et d'êchidna ˛2020
-: .oO.  19 N     _RACHMUL Franáoise           Apollon et le serpent Python ˛2020
-: .oO.  25 N     _RACHMUL Franáoise           PersÇe, MÇduse et le dragon marin ˛2020
-: .oO.  35 N     _RACHMUL Franáoise           BellÇrophon et la Chimäre ˛2020
-: .oO.  39 N     _RACHMUL Franáoise           Cadmos et le dragon d'Aräs ˛2020
-: .oO.  45 N     _RACHMUL Franáoise           Quelques travaux d'HÇracläs ˛2020
-: .oO.  63 N     _RACHMUL Franáoise           Le Sphinx et Oedipe ˛2020
-: .oO.  67 N     _RACHMUL Franáoise           ThÇsÇe et le Minotaure ˛2020
-: .oO.  75 N     _RACHMUL Franáoise           La MÇtamorphose de Scylla ˛2020
-: .oO.  81 N     _RACHMUL Franáoise           Rencontres d'Ulysse avec des monstres ˛2020
-: .oO.  89 N     _RACHMUL Franáoise           Monologue de Polyphäme ˛2020
+- .oO.    _N12   _RACHMUHL Franáoise          Monstres et crÇatures de la mythologie ˛2020
+: .oO.   7 N     _RACHMUHL Franáoise          Les Premiers Monstres ˛2020
+: .oO.  13 N     _RACHMUHL Franáoise          Les Enfants de Typhon et d'êchidna ˛2020
+: .oO.  19 N     _RACHMUHL Franáoise          Apollon et le serpent Python ˛2020
+: .oO.  25 N     _RACHMUHL Franáoise          PersÇe, MÇduse et le dragon marin ˛2020
+: .oO.  35 N     _RACHMUHL Franáoise          BellÇrophon et la Chimäre ˛2020
+: .oO.  39 N     _RACHMUHL Franáoise          Cadmos et le dragon d'Aräs ˛2020
+: .oO.  45 N     _RACHMUHL Franáoise          Quelques travaux d'HÇracläs ˛2020
+: .oO.  63 N     _RACHMUHL Franáoise          Le Sphinx et Oedipe ˛2020
+: .oO.  67 N     _RACHMUHL Franáoise          ThÇsÇe et le Minotaure ˛2020
+: .oO.  75 N     _RACHMUHL Franáoise          La MÇtamorphose de Scylla ˛2020
+: .oO.  81 N     _RACHMUHL Franáoise          Rencontres d'Ulysse avec des monstres ˛2020
+: .oO.  89 N     _RACHMUHL Franáoise          Monologue de Polyphäme ˛2020
 o FLAJ        ?  2020.11 ..... ISBN 978-2-08-152230-5
 } noimg          _JÇrÇmie Fleury              ?
 !--- Jeunesse 10+ - GF - 146 x 202 mm - 528 pages - 16,90 euros
@@ -1090,6 +1155,75 @@ o FLAJ        ?  2020.12 ..... ISBN 978-2-08-144912-1
 } noimg          _Xavier Collette             ?
 !--- Jeunesse 13+ - GF - 135 x 210 mm - 432 pages - 15,00 euros
 - .oF.     R     _O'DONNELL Cassandra         Le Clan des aigles [La LÇgende des quatre - 4] ˛2020
+o FLA         ?  2020.xx ..... ISBN 978-2-0814-7331-7
+} noimg          _Benjamin Flouw              ?
+!--- GF - ? x 210 - 224 pages
+- .oS.     R     _DJIAN Philippe              2030 ˛2020
+!------------------------
+!=== 2021
+!------------------------
+o FLAJ        ?  2021.05 ..... ISBN 978-2-08-024545-8
+}  etclass202108_1 _?                           ?
+!--- Jeunesse 9+ - Poche - 125x175 - 256 pages - 5,20 euros
+- .oS.     A15   _VERNE Jules                &Voyage au centre de la Terre et autres rÇcits ˛2021
+&                *MARTINIGOL Danielle         
+: .o .     p     _MARTINIGOL Danielle         Avant-propos sous forme de conversation avec Jules Verne ˛2021
+: .C .     C     _VERNE Jules                 DÇpart : Paris
+: .o .     X     _VERNE Jules                 Robur le conquÇrant [Robur le conquÇrant - 1] ˛1886
+: .C .     C     _VERNE Jules                 Premiäre Çtape : Autour du monde
+: .xA.     X     _VERNE Jules                 Le Tour du monde en 80 jours ˛1873
+: .xA.     X     _VERNE Jules                 Les Enfants du capitaine Grant ˛1867
+: .C .     C     _VERNE Jules                 Deuxiäme Çtape : Au pìle Nord
+: .xA.     X     _VERNE Jules                 Le Pays des fourrures ˛?
+: .oA.     X     _VERNE Jules                 Les Aventures du capitaine Hatteras ˛1865
+: .C .     C     _VERNE Jules                 Troisiäme Çtape : Au pìle Sud et Ö travers les ocÇans
+: .o .     X     _VERNE Jules                 Vingt mille lieues sous les mers ˛1870
+: .oA.     X     _VERNE Jules                 L'åle mystÇrieuse ˛1875
+: .C .     C     _VERNE Jules                 Quatriäme Çtape : En Afrique
+: .xA.     X     _VERNE Jules                 Cinq semaines en ballon ˛1863
+: .C .     C     _VERNE Jules                 Cinquiäme Çtape : En Asie
+: .x .     X     _VERNE Jules                 Michel Strogoff ˛1876
+: .C .     C     _VERNE Jules                 Sixiäme Çtape : En AmÇrique
+: .o .     X     _VERNE Jules                 Les Cinq Cents millions de la BÇgum ˛1879
+: .C .     C     _VERNE Jules                 Septiäme Çtape : Loin de la Terre
+: .o .     X     _VERNE Jules                 De la Terre Ö la Lune ˛1865
+: .o .     X     _VERNE Jules                 Autour de la Lune ˛1870
+: .C .     C     _VERNE Jules                 Huitiäme Çtape : A l'intÇrieur de la Terre
+: .xA.     X     _VERNE Jules                 Les Indes noires ˛1877
+: .o .     X     _VERNE Jules                 Voyage au centre de la Terre ˛1864-1867
+: .C .     C     _VERNE Jules                 Retour : Paris
+: .oS.     X     _VERNE Jules                 Paris au XXe siäcle ˛[1860],1994
+o FLAJ        ?  2021.06 ..... ISBN 978-2-08-149876-1
+} noimg          _JÇrÇmie Fleury              JÇrÇmie Fleury
+!--- Jeunesse 9+ - GF - 140x200 - 240 pages - 10,00 euros
+- .o .     R     _O'DONNELL Cassandra         La CitÇ noire [Malenfer - 7] ˛2021
+!------------------------
+!=== 2022
+!------------------------
+o FLAJ        ?  2022.02 ..... ISBN 978-2-08-023754-5
+} noimg          _Jean-Mathias Xavier         ?
+!--- Jeunesse 10+ - GF - 135x210 - 304 pages - 12,50 euros
+- .oF.     R     _O'DONNELL Cassandra         La Cible [Le Colläge malÇfique - 3] ˛2022
+o FLAJ        ?  2022.03 ..... ISBN 978-2-08-023773-6
+} noimg          _?                           ?
+!--- Jeunesse 10+ - GF - 153x225 - 370 pages - 16,90 euros
+- .oF.     R     _LECHERMEIER Philippe        Les Enfants de la lÇgende [Maldoror - 1] ˛2022
+o FLAJP       ?  2022.06 ..... ISBN 978-2-08-028326-9
+} noimg          _?                           ?
+!--- Jeunesse 9+ - Poche - 125x177 - 288 pages - 6,95 euros
+- .oY.     R     _MONTELLA Christian de       La Neige et le sang [Graal - 2] ˛2004
+o FLAJP       ?  2022.06 ..... ISBN 978-2-08-028327-6
+} noimg          _?                           ?
+!--- Jeunesse 9+ - Poche - 123x177 - 352 pages - 7,50 euros
+- .oY.     R     _MONTELLA Christian de       Le Chevalier sans nom [Graal - 1] ˛2004
+o FLAJ        ?  2022.06 ..... ISBN 978-2-08-028329-0
+} noimg          _JÇrÇmie Fleury              ?
+!--- Jeunesse 9+ - GF - 145x200 - 256 pages - 10,00 euros
+- .oF.     R     _O'DONNELL Cassandra         Le Troisiäme Roi [Malenfer - 8] ˛2022
+o FLAJ        ?  2022.10 ..... ISBN 978-2-08-027301-7
+} noimg          _?                           ?
+!--- Jeunesse 10+ - GF - 151x225 - 344 pages - 16,90 euros
+- .oF.     R     _LECHERMEIER Philippe        Le Prince fauve [Maldoror - 2] ˛2022
 
 
 
@@ -1101,7 +1235,7 @@ o FLAJ        ?  2020.12 ..... ISBN 978-2-08-144912-1
 
 
 !-----------------------------------------------------------------------------
-_ FLAQUEB Ed. Flammarion QuÇbec
+_ FLAQUEB Flammarion QuÇbec
 !-----------------------------------------------------------------------------
 o FLAQUEB     ?  2008.05 ..... ISBN 978-2-89077-339-4
 } noimg          _?                           ?
@@ -1176,9 +1310,14 @@ o FLAQUEB     ?  2013.02 ..... ISBN 978-2-89077-428-5
 o FLAQUEB     ?  2014.01 ..... ISBN 978-2-89077-554-1
 } noimg          _?                           ?
 - .oF.     R     _HARRIS Charlaine            Mort Ö jamais [La CommunautÇ du sud - 13] ˛2013 Dead Ever After ˛Trad. ?
+o FLAQUEB     ?  2021.03 ..... ISBN 978-2-89077-963-1
+} noimg          _?                           ?
+!--- GF - 145x220 - 384 pages
+- .o .     R     _HOGAN Chuck                &Les Avides [Les Dossiers Blackwood - 1] ˛2020 The Hollow Ones ˛Trad. ESPENAN Agnäs 
+&                _DEL TORO Guillermo         
 
 !-----------------------------------------------------------------------------
-_ FLAM_UK Flammarion, Coll. Ukronie
+_ FLAM_UK Flammarion - Ukronie
 !-----------------------------------------------------------------------------
 !--- Ukronie, Grand format
 !-----------------------------------------------------------------------------
@@ -1217,8 +1356,7 @@ o FLAM_UK     ?  2010.08 ..... ISBN 978-2-08-123043-9
 
 
 !-----------------------------------------------------------------------------
-_ AUBIERM Aubier Ed. Montaigne, Coll. L'histoire littÇraire
-_ AUBMBIL Aubier Montagne, Coll. Bilingue
+_ AUBIERM Aubier Çditions Montaigne - L'histoire littÇraire
 _ AUBIER  Aubier
 !-----------------------------------------------------------------------------
 !--- Aubier
@@ -1226,18 +1364,6 @@ _ AUBIER  Aubier
 o AUBIERM     ?  1947.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     E     _LEMONNIER LÇon              Edgar Poe et les conteurs franáais ˛1947
-o AUBMBIL     ?  1957.xx ..... ISBN -
-} noimg          _?                           ?
-+ AUBMBIL     ?  1976.07 ..... ISBN -
-} noimg          _?                           ?
-+ AUBMBIL     ?  1992.01 ..... ISBN 2-7007-0040-6
-} noimg          _?                           ?
-+ AUBMBIL     ?  2001.xx ..... ISBN 2-7007-0040-6
-} noimg          _?                           ?
-!--- Titre intÇrieur "Nouvelles de nulle part ou Une äre de repos" d'apräs BNF
-!--- 520 pages
-- .oS.     R     _MORRIS William              Nouvelles de nulle part ˛1890 News from Nowhere, or An Epoch of Rest ˛Trad. DUPONT, Victor
-
 o AUBIER      ?  1984.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     E     _CORDESSE GÇrard             La Nouvelle Sience-Fiction amÇricaine ˛?
@@ -1249,11 +1375,31 @@ o AUBIER      ?  1993.10 ..... ISBN 2-7007-1659-7
 } noimg          _?                           ?
 - .oF.     Ax    *LEVY AndrÇ                  Histoires extraordinaires et rÇcits fantastiques de la Chine ancienne ˛1993
 !--- [Chefs-d'oeuvre de la nouvelle, dynastie des Tang 618-907 - 2]
-!--- Coll. Domaine Chinois
+!--- Collection Domaine Chinois
 !--- trad LEVY AndrÇ
 
 !-----------------------------------------------------------------------------
-_ AUBFBIL Aubier Flammarion, Coll. Bilingue
+_ AUBMBIL Aubier Montaigne - Collection bilingue des classiques Çtrangers
+!-----------------------------------------------------------------------------
+o AUBMBIL     ?  1957.xx ..... ISBN -
+} noimg          _?                           ?
++ AUBMBIL     ?  1976.07 ..... ISBN -
+} noimg          _?                           ?
++ AUBMBIL     ?  1992.01 ..... ISBN 2-7007-0040-6
+} noimg          _?                           ?
++ AUBMBIL     ?  2001.xx ..... ISBN 2-7007-0040-6
+} noimg          _?                           ?
+!--- Titre de couv "Nouvelles de nulle part" seul
+!--- 520 pages
+- .oS.     R     _MORRIS William              Nouvelles de nulle part ou une äre de repos ˛1890 News from Nowhere, or An Epoch of Rest ˛Trad. DUPONT Victor
+o AUBMBIL     ?  1962.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .    kN2    _HOFFMANN E.T.A.             Le Vase d'or - Les Mines de Falun ˛1962
+: .o .     N     _HOFFMANN E.T.A.             Le Vase d'or ˛1814 Der goldne Topf. Ein MÑrchen aus der neuen Zeit
+: .oF.     N     _HOFFMANN E.T.A.             Les Mines de Falun ˛1819 Die Bergwerke zu Falun
+
+!-----------------------------------------------------------------------------
+_ AUBFBIL Aubier Flammarion - Bilingue
 !-----------------------------------------------------------------------------
 !--- Aubier - Flammarion
 !--- Collection "Bilingue"
@@ -1268,7 +1414,7 @@ o AUBFBIL     2  1968.xx ..... ISBN -
 ?- .* .     ?     _SHELLEY                     PromÇthÇe dÇlivrÇ ˛1820 Prometheus Unbound 
 o AUBFBIL    30  1969.xx ..... ISBN -
 } noimg          _?                           ?
-- .pF.    iAx    _JAMES Henry                 Nouvelles ˛1969
+- .pF.    iAx    _JAMES Henry                 Nouvelles ((Nouvelles de Henry James)) ˛1969
 o AUBFBIL    31  1969.xx ..... ISBN -
 } aubier_bil031  _?                           N
 - .oF.    _N3    _TIECK Ludwig                Contes fantastiques ˛1969
@@ -1286,7 +1432,7 @@ o AUBFBIL    42  2002.xx ..... ISBN .-.....-...-.
 : .oF.     N     _CARROLL Lewis               La Chasse au Snark ˛1876 The Hunting of the Snark
 o AUBFBIL    56  1973.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .    iN2    _WELLS Herbert George        Deux nouvelles d'anticipation ˛1973
+- .o .    iNx    _WELLS Herbert George        Deux nouvelles d'anticipation ˛1973
 : .o .     N     _WELLS Herbert George        Un ràve d'apocalypse ˛1901 A Dream of Armageddon
 o AUBFBIL    64  1978.xx R.... ISBN 2-7007-0122-4
 } aubier_bil064  _?                           ?
@@ -1306,9 +1452,9 @@ o AUBFBIL    64  1978.xx R.... ISBN 2-7007-0122-4
 !--- A vÇrifier dans le livre...
 
 !-----------------------------------------------------------------------------
-_ GARN_FR Ed. Garnier Fräres (Paris)
-_ GARN_CL Ed. Garnier Fräres (Paris), Classiques Garnier
-_ GARNIER Ed. Garnier
+_ GARN_FR Garnier Fräres (Paris)
+_ GARN_CL Garnier Fräres (Paris) - Classiques Garnier
+_ GARNIER Garnier
 !-----------------------------------------------------------------------------
 !--- GARNIER
 !-----------------------------------------------------------------------------
@@ -1343,21 +1489,21 @@ o GARN_FR     ?  1875.xx ..... ISBN -
 : .o .     N     _ANDERSEN Hans Christian     Le Sapin ˛1844 Grantraeet
 : .o .     N     _ANDERSEN Hans Christian     Le Porcher ˛1841 Svinedrengen
 : .o .     N     _ANDERSEN Hans Christian     La Petite Siräne ˛1837 Den lille Havfrue
-: .o .     N     _ANDERSEN Hans Christian     La Soupe Ö la Brochette ˛1858 Suppe paa en Põlsepind
-: .o .     N     _ANDERSEN Hans Christian     Cinq dans une Cosse ˛1852 Fem fra en &AElig;rteb&aelig;lg
+: .o .     N     _ANDERSEN Hans Christian     La Soupe Ö la brochette ˛1858 Suppe paa en Põlsepind
+: .o .     N     _ANDERSEN Hans Christian     Cinq dans une cosse ˛1852 Fem fra en &AElig;rteb&aelig;lg
 : .o .     N     _ANDERSEN Hans Christian     L'Histoire d'une Märe ˛1847 Historien om en Moder
 : .o .     N     _ANDERSEN Hans Christian     Le Vilain Petit Canard ˛1843 Den grimme &AElig;lling
 : .o .     N     _ANDERSEN Hans Christian     Poucette ˛1835 Tommelise
 : .o .     N     _ANDERSEN Hans Christian     Grand Claus et Petit Claus ˛1835 Lille Claus og store Claus
-: .o .     N     _ANDERSEN Hans Christian     Le Goulot de la Bouteille ˛1857 Flaskehalsen
+: .o .     N     _ANDERSEN Hans Christian     Le Goulot de la bouteille ˛1857 Flaskehalsen
 : .o .     N     _ANDERSEN Hans Christian     Les Habits de l'empereur ˛1837 Keiserens nye Kl&aelig;der
 : .o .     N     _ANDERSEN Hans Christian     Les Cygnes sauvages ˛1838 De vilde Svaner
 : .o .     N     _ANDERSEN Hans Christian     Bougie et Chandelle ˛1870 Lysene
 : .o .     N     _ANDERSEN Hans Christian     La Plus Heureuse ˛1868 Hvem var den Lykkeligste?
-: .o .     N     _ANDERSEN Hans Christian     Scäne de Basse-Cour ˛1861 I Andegaarden
+: .o .     N     _ANDERSEN Hans Christian     Scäne de basse-cour ˛1861 I Andegaarden
 : .o .     N     _ANDERSEN Hans Christian     La PÉquerette ˛1838 Gaaseurten
 : .o .     N     _ANDERSEN Hans Christian     Le Stercoraire ˛1861 Skarnbassen
-: .o .     N     _ANDERSEN Hans Christian     TrÇsor DorÇ ˛1865 Guldskat
+: .o .     N     _ANDERSEN Hans Christian     TrÇsor dorÇ ˛1865 Guldskat
 : .o .     N     _ANDERSEN Hans Christian     Le Rossignol et l'empereur de Chine ˛1843 Nattergalen
 : .o .     N     _ANDERSEN Hans Christian     L'Enfant au tombeau ˛1859 Barnet i Graven
 : .o .     N     _ANDERSEN Hans Christian     L'Histoire de Valdemar Daae ˛1859 Vinden fort&aelig;ller om Valdemar Daae og hans Dõttre
@@ -1445,7 +1591,7 @@ o GARN_FR     ?  1906.xx ..... ISBN -
 : .o .     N     _HOFFMANN E.T.A.             Gluck ˛1809 Ritter Gluck
 : .o .     N     _HOFFMANN E.T.A.             Agafia ˛1819 Erscheinungen
 : .o .     N     _HOFFMANN E.T.A.             La Leáon de violon ˛1820 Der Baron von B.
-: .o .     N     _HOFFMANN E.T.A.             Le Spectre fiancÇ ˛1819 Der unheimleiche Gast
+: .o .     N     _HOFFMANN E.T.A.             Le Spectre fiancÇ ˛1819 Der unheimliche Gast
 o GARN_FR     ?  1946.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.    _N13   _POE Edgar Allan             Histoires extraordinaires ˛1856
@@ -1478,7 +1624,7 @@ o GARN_FR     ?  1947.xx ..... ISBN -
 : .o .     N     _POE Edgar Allan             Le Chat noir ˛1843 The Black Cat
 : .o .     N     _POE Edgar Allan             William Wilson ˛1839 William Wilson
 : .o .     N     _POE Edgar Allan             L'Homme des foules ˛1840 The Man of the Crowd
-: .o .     N     _POE Edgar Allan             Le Coeur rÇvÇlateur ˛1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Coeur rÇvÇlateur ˛1843 The Tell-Tale Heart
 : .o .     N     _POE Edgar Allan             BÇrÇnice ˛1835 Berenice
 : .o .     N     _POE Edgar Allan             La Chute de la maison Usher ˛1839 The Fall of the House of Usher
 : .o .     N     _POE Edgar Allan             Le Puits et le pendule ˛1843 The Pit and the Pendulum
@@ -1502,7 +1648,7 @@ o GARN_FR     ?  1947.xx ..... ISBN -
 !--- Le cottage d'Edgar Poe Ö New York
 o GARN_FR     ?  1950.T2 ..... ISBN -
 } noimg          _?                           ?
-- .o .    iNx    _POE Edgar Allan             Histoires grotesques et sÇrieuses - Derniers contes ˛1950
+- .oF.    iNx    _POE Edgar Allan             Histoires grotesques et sÇrieuses, suivies des Derniers contes ((Histoires grotesques et sÇrieuses)) ˛1950
 !--- HISTOIRES GROTESQUES ET SERIEUSES
 !--- Traduction de Charles Baudelaire.
 !--- Introduction et notes de LÇon Lemonnier.
@@ -1514,31 +1660,31 @@ o GARN_FR     ?  1950.T2 ..... ISBN -
 !--- Table des matiäres :
 !--- (Introduction)
 !--- Histoires grotesques et sÇrieuses
-: .o .     N7    _POE Edgar Allan             Histoires grotesques et sÇrieuses ˛1864
+: .oF.     N7    _POE Edgar Allan             Histoires grotesques et sÇrieuses ˛1864
 = .o .     r     _POE Edgar Allan             Le Mystäre de Marie Roget [Auguste Dupin] ˛1842 The Mystery of Marie Roget
 = .o .     N     _POE Edgar Allan             ElÇonora ˛1842 Eleonora
 = .o .     N     _POE Edgar Allan             Un ÇvÇnement Ö JÇrusalem ˛1832-1836 Tale of Jerusalem
 = .o .     N     _POE Edgar Allan             L'Ange du bizarre ˛1844 The Angel of the Odd - An Extravaganza
 = .o .     N     _POE Edgar Allan             Le Systäme du docteur Goudron et du professeur Plume ˛1845 The System of Dr. Tarr and Professor Fether
-= .o .     a     _POE Edgar Allan             Le Domaine d'Arnheim ˛1847 The Domain of Arnheim
-= .o .     a     _POE Edgar Allan             Le Cottage Landor ˛1849 Landor's Cottage
+= .x .     a     _POE Edgar Allan             Le Domaine d'Arnheim ˛1847 The Domain of Arnheim
+= .x .     a     _POE Edgar Allan             Le Cottage Landor ˛1849 Landor's Cottage
 !--- Dernier contes
-: .o .    kNx    _POE Edgar Allan             Derniers contes ˛1950
+: .oF.    kNx    _POE Edgar Allan             Derniers contes ˛1950
 = .o .     N     _POE Edgar Allan             Le Duc de l'Omelette ˛1832 The Duc De L'Omelette
 = .o .     N     _POE Edgar Allan             Perte d'haleine ˛1832-1840 Loss of Breath
-= .o .     N     _POE Edgar Allan             Le MarchÇ manquÇ ˛? ?
+= .o .     N     _POE Edgar Allan             Le MarchÇ manquÇ ˛1832 The Bargain Lost ˛Trad. LEMONNIER LÇon
 = .o .     N     _POE Edgar Allan             Lionnerie ˛1835 Lion-izing
 = .o .     N     _POE Edgar Allan             Le Visionnaire ˛1835 The Visionary
 = .o .     N     _POE Edgar Allan             Bon-Bon ˛1832-1850 The Bargain Lost / Bon-Bon
-= .o .     N     _POE Edgar Allan             Comment on Çcrit un article pour le Blackwood ˛1838 How to Write a Blackwood Article
-= .o .     N     _POE Edgar Allan             L'In-Folio club ˛? ?
+= .o .     N     _POE Edgar Allan             Comment on Çcrit un article pour le Blackwood ˛1838 The Psyche Zenobia / How to Write a Blackwood Article
+= .o .     a     _POE Edgar Allan             L'In-Folio club ˛1833 The Folio Club
 = .o .     N     _POE Edgar Allan             L'Homme dont il ne restait rien ˛1839 The Man That Was Used Up
 = .o .     N     _POE Edgar Allan             Mystification ˛1840 Mystification
-= .o .     N     _POE Edgar Allan             Pourquoi le petit franáais porte la main en Çcharpe ˛1840 Why the Little Frenchman Wears His Hand in a Sling
+= .o .     N     _POE Edgar Allan             Pourquoi le petit Franáais porte la main en Çcharpe ˛1840 Why the Little Frenchman Wears His Hand in a Sling
 = .o .     N     _POE Edgar Allan             L'Homme d'affaires ˛1840 The Business Man
 = .o .     N     _POE Edgar Allan             Ne pariez jamais votre tàte au diable ˛1841 Never Bet the Devil Your Head
 = .o .     N     _POE Edgar Allan             La Semaine des trois dimanches ˛1841 Three Sundays in a Week
-= .o .     N     _POE Edgar Allan             Le Jardin paysage ˛? ?
+= .x .     a     _POE Edgar Allan             Le Jardin paysage ˛1847 The Domain of Arnheim ˛Trad. BAUDELAIRE Charles
 = .o .     a     _POE Edgar Allan             De l'escroquerie considÇrÇe comme une des sciences exactes ˛1843 Diddling Considered as One of the Exact Sciences
 = .o .     N     _POE Edgar Allan             Matin sur le Wissahiccon ˛1844 Morning on the Wissahiccon
 = .o .     N     _POE Edgar Allan             Les Lunettes ˛1844 The Spectacles
@@ -1560,8 +1706,8 @@ o GARN_CL     ?  1968.xx ..... ISBN -
 } noimg          _?                           ?
 + GARN_CL     ?  1980.xx ..... ISBN 2-7050-0311-8
 } noimg          _?                           ?
-- .o .    _Nx    _VILLIERS DE L'ISLE-ADAM     Contes cruels - Nouveaux contes cruels ˛1980
-: .o .     N28   _VILLIERS DE L'ISLE-ADAM     Contes cruels ˛1883
+- .pF.    _Nx    _VILLIERS DE L'ISLE-ADAM     Contes cruels - Nouveaux contes cruels ˛1980
+: .pF.     N28   _VILLIERS DE L'ISLE-ADAM     Contes cruels ˛1883
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     Les Demoiselles de BienfilÉtre ˛1874
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     VÇra ˛1874
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     Vox populi ˛1880
@@ -1572,13 +1718,13 @@ o GARN_CL     ?  1968.xx ..... ISBN -
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     Duke of Portland ˛1883
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     Virginie et Paul ˛1874
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Convive des derniäres fàtes ˛1874
-= .o .     N     _VILLIERS DE L'ISLE-ADAM     A s'y mÇprendre ˛1875
+= .o .     N     _VILLIERS DE L'ISLE-ADAM     A s'y mÇprendre ! ˛1875
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     Impatience de la foule ˛1876
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Secret de l'ancienne musique ˛1876
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     Sentimentalisme ˛1875
-= .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Plus Beau Dåner du monde ˛1874
+= .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Plus Beau Dåner du monde ! ˛1874
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     Le DÇsir d'àtre un homme ˛1882
-= .o .     N     _VILLIERS DE L'ISLE-ADAM     Fleurs de tÇnäbre ˛1880
+= .o .     N     _VILLIERS DE L'ISLE-ADAM     Fleurs de tÇnäbres ˛1880
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     L'Appareil pour l'analyse chimique du dernier soupir ˛1874
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     Les Brigands ˛1882
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     La Reine Ysabeau ˛1880
@@ -1590,7 +1736,7 @@ o GARN_CL     ?  1968.xx ..... ISBN -
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     Conte d'amour ˛1880
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     Souvenirs occultes ˛1867
 = .o .     N     _VILLIERS DE L'ISLE-ADAM     L'Annonciateur ˛1869
-: .o .    iNx    _VILLIERS DE L'ISLE-ADAM     Nouveaux contes cruels ˛1888
+: .pF.    iNx    _VILLIERS DE L'ISLE-ADAM     Nouveaux contes cruels ˛1888
 o GARNIER     ?  2000.11 ..... ISBN 2-84431-031-1
 } noimg          _?                           ?
 - .o .    iNx    *ENGELIBERT Jean-Paul        L'Homme fabriquÇ - RÇcits de la crÇation de l'homme par l'homme ˛2000
@@ -1612,10 +1758,10 @@ o GARNIER     ?  2000.11 ..... ISBN 2-84431-031-1
 : .oT.     N     _CARTER Angela               Les Amours de Lady Pourpre ˛1974 The Loves of Lady Purple ˛Trad. CARTANO Franáoise
 
 !-----------------------------------------------------------------------------
-_ GFLA    Ed. Garnier-Flammarion, Coll. GF
-_ GFLA_BI Ed. Garnier-Flammarion, Coll. GF Bilingue
-_ FLA_GF  Ed. Flammarion, Coll. GF
-_ FLA_GB  Ed. Flammarion, Coll. GF Bilingue
+_ GFLA    Garnier-Flammarion - GF
+_ GFLA_BI Garnier-Flammarion - GF Bilingue
+_ FLA_GF  Flammarion - GF
+_ FLA_GB  Flammarion - GF Bilingue
 !-----------------------------------------------------------------------------
 !--- Garnier-Flammarion (imprimerie-reliure Mame)
 !---  LycÇens et Çtudiants
@@ -1626,7 +1772,7 @@ _ FLA_GB  Ed. Flammarion, Coll. GF Bilingue
 o GFLA       35  1964.xx ..... ISBN -
 } noimg          _?                           N
 !---978-2-08-07-0035-3
-- .o .     R     _SAND George                 La Mare au diable ˛1946
+- .o .     R     _SAND George                 La Mare au diable ˛1846
 o GFLA       39  1965.xx ..... ISBN -
 } gf_0039        _?                           N
 + GFLA       39  1975.02 ..... ISBN 2-08-070039-1
@@ -1659,7 +1805,7 @@ o GFLA       55  1965.T2 ..... ISBN -
 : .o .     N     _POE Edgar Allan             Le Chat noir ˛1843 The Black Cat
 : .o .     N     _POE Edgar Allan             William Wilson ˛1839 William Wilson
 : .o .     N     _POE Edgar Allan             L'Homme des foules ˛1840 The Man of the Crowd
-: .o .     N     _POE Edgar Allan             Le Coeur rÇvÇlateur ˛1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Coeur rÇvÇlateur ˛1843 The Tell-Tale Heart
 : .o .     N     _POE Edgar Allan             BÇrÇnice ˛1835 Berenice
 : .o .     N     _POE Edgar Allan             La Chute de la maison Usher ˛1839 The Fall of the House of Usher
 : .o .     N     _POE Edgar Allan             Le Puits et le pendule ˛1843 The Pit and the Pendulum
@@ -1711,12 +1857,16 @@ o FLA_GF    149  1967.xx ..... ISBN -
 + FLA_GF    149  2019.xx ..... ISBN 978-2-08-147019-4
 } noimg          _?                           ?
 - .oF.    iNx    _BARBEY D'AUREVILLY J.       Les Diaboliques ˛1967
+o GFLA      242  1971.xx ..... ISBN 2-08-070242-4
+} noimg          _?                           ?
+!--- 5 Francs
+- .oF.     R     _BALZAC HonorÇ de            La Peau de chagrin ˛1831
 o GFLA      296  1977.xx ..... ISBN -
 } noimg          _?                           ?
 + FLA_GF    296  2014.09 ..... ISBN 978-2-08-134244-6
 } noimg          _?                           ?
 !--- prÇsentation par Simone Vierne
-- .oS.     R     _VERNE Jules                 Voyage au centre de la Terre ˛1864-1967
+- .oS.     R     _VERNE Jules                 Voyage au centre de la Terre ˛1864-1867
 o GFLA      330  1979.xx ..... ISBN -
 } gf_0330        _?                           N
 - .oF.    _N7    _HOFFMANN E.T.A.             Contes fantastiques ((Contes d'Hoffmann)) ˛1979
@@ -1731,7 +1881,7 @@ o GFLA      330  1979.xx ..... ISBN -
 : .o .     N     _HOFFMANN E.T.A.             Le Bonheur au jeu ˛1820 SpielerglÅck
 o GFLA      340  1980.xx ..... ISBN -
 } gf_0340        _?                           N
-- .oF.    _N28   _VILLIERS DE L'ISLE-ADAM     Contes cruels ˛1883
+- .pF.    _N28   _VILLIERS DE L'ISLE-ADAM     Contes cruels ˛1883
 !--- Introduction, notices et notes par Pierre Citron
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Les Demoiselles de BienfilÉtre ˛1874
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     VÇra ˛1874
@@ -1743,13 +1893,13 @@ o GFLA      340  1980.xx ..... ISBN -
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Duke of Portland ˛1883
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Virginie et Paul ˛1874
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Convive des derniäres fàtes ˛1874
-: .o .     N     _VILLIERS DE L'ISLE-ADAM     A s'y mÇprendre ˛1875
+: .o .     N     _VILLIERS DE L'ISLE-ADAM     A s'y mÇprendre ! ˛1875
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Impatience de la foule ˛1876
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Secret de l'ancienne musique ˛1876
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Sentimentalisme ˛1875
-: .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Plus Beau Dåner du monde ˛1874
+: .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Plus Beau Dåner du monde ! ˛1874
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Le DÇsir d'àtre un homme ˛1882
-: .o .     N     _VILLIERS DE L'ISLE-ADAM     Fleurs de tÇnäbre ˛1880
+: .o .     N     _VILLIERS DE L'ISLE-ADAM     Fleurs de tÇnäbres ˛1880
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     L'Appareil pour l'analyse chimique du dernier soupir ˛1874
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Les Brigands ˛1882
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     La Reine Ysabeau ˛1880
@@ -1776,7 +1926,7 @@ o GFLA      358  1980.xx ..... ISBN -
 : .o .     N     _HOFFMANN E.T.A.             Gluck ˛1809 Ritter Gluck
 : .o .     N     _HOFFMANN E.T.A.             Agafia ˛1819 Erscheinungen
 : .o .     N     _HOFFMANN E.T.A.             La Leáon de violon ˛1820 Der Baron von B.
-: .o .     N     _HOFFMANN E.T.A.             Le Spectre fiancÇ ˛1819 Der unheimleiche Gast
+: .o .     N     _HOFFMANN E.T.A.             Le Spectre fiancÇ ˛1819 Der unheimliche Gast
 o GFLA      361  1979.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _CAZOTTE Jacques             Le Diable amoureux ˛1772-1788
@@ -1904,10 +2054,10 @@ o FLA_GF    569  1990.xx ..... ISBN 2-08-070569-5
 - .oF.     R     _CHRETIEN de TROYES          Yvain ou le Chevalier au lion [Les Romans arthuriens - 4] ˛c1180
 o FLA_GF    625  2013.10 ..... ISBN 978-2-08-130952-4
 } noimg          _?                           ?
-- .oF.     r     _STEVENSON Robert Louis      Le Cas Çtrange du Dr Jekyll et de M. Hyde ˛1885 The Strange Case of Dr. Jekyll and Mr. Hyde ˛Trad. VARLET ThÇo
+- .oF.     r     _STEVENSON Robert Louis      Le Cas Çtrange du Dr Jekyll et de M. Hyde ˛1885 The Strange Case of Dr Jekyll and Mr Hyde ˛Trad. VARLET ThÇo
 o GFLA_BI   697  1992.xx ..... ISBN 2-08-070697-7
 } gf_0697        _?                           ?
-- .oF.    iA2    _JAMES Henry                 Histoires de fantìmes - Ghostly tales ˛1992
+- .oF.     A2    _JAMES Henry                 Histoires de fantìmes - Ghostly tales ˛1992
 : .oF.     N     _JAMES Henry                 Sir Edmund Orme ˛1891 Sir Edmund Orme ˛Trad. SERVICEN Louise
 : .oF.     N     _JAMES Henry                 Le Coin plaisant ˛1908 The Jolly Corner ˛Trad. SERVICEN Louise
 o GFLA      704  1992.xx ..... ISBN 2-08-070704-3
@@ -1921,6 +2071,13 @@ o FLA_GB    875  1997.06 ..... ISBN 2-08-070875-9
 } noimg          _?                           ?
 !--- Edition bilingue
 - .oF.     T     _MARLOWE Christopher         Le Docteur Faust - Doctor Faustus ˛[1592],1604 The Tragical History of Doctor Faustus / Doctor Faustus ˛Trad. LAROQUE Franáois & VILLQUIN Jean-Pierre
+o FLA_GF    899  1996.xx ..... ISBN 2-08-070899-6
+} noimg          _?                           ?
++ FLA_GF    899  2022.05 ..... ISBN 978-2-08-027322-2
+} noimg          _Virginie Berthemet          ?
+!--- Jeunesse - Poche - 108x178 - 450 pages - 3,20 euros
+!--- Edition avec dossier; PrÇsentation, notes, annexe, chronologie et bibliographie de Nadine Satiat. Dossier de Vincent Bierce.
+- .oF.     R     _BALZAC HonorÇ de            La Peau de chagrin ˛1831
 o FLA_GF    969  1997.xx ..... ISBN 2-08-070969-0
 } noimg          _?                           ?
 + FLA_GF    969  2014.09 ..... ISBN 978-2-08-134243-9
@@ -1929,7 +2086,7 @@ o FLA_GF    969  1997.xx ..... ISBN 2-08-070969-0
 o GFLA     1014  1998.xx ..... ISBN 2-08-071014-1
 } noimg          _?                           ?
 !--- [Chefs-d'oeuvre de la nouvelle, dynastie des Tang 618-907 - 2]
-!--- Coll. GF
+!--- Collection GF
 !--- trad LEVY AndrÇ
 !--- o N   ?                     Le Miroir magique
 !--- o N   ?                     Le Singe ravisseur
@@ -1943,33 +2100,16 @@ o GFLA     1014  1998.xx ..... ISBN 2-08-071014-1
 !--- o N   ?                     Le Prodigue
 !--- o N   ?                     Carpe fut...
 !--- o N   ?                     Barbe-BouclÇe
-- .oF.    iA12   *LEVY AndrÇ                  Histoires extraordinaires et rÇcits fantastiques de la Chine ancienne ˛1993
+- .oF.    iAx    *LEVY AndrÇ                  Histoires extraordinaires et rÇcits fantastiques de la Chine ancienne ˛1993
 o FLA_GF   1087  2001.xx ..... ISBN 2-08-071087-7
 } noimg          _?                           ?
 - .o .     R     _COLLODI Carlo               Pinocchio ˛1881 Le avventure di Pinocchio ˛Trad. VIOLANTE Isabel
-o FLA_GF   1236  2005.xx ..... ISBN 2-08-071236-.
+o FLA_GF   1151  2005.xx ..... ISBN 2-08-071151-2
 } noimg          _?                           ?
-- .oS.     R     _VERNE Jules                 Vingt mille lieues sous les mers ˛1870
-o FLA_GF      ?  2006.xx ..... ISBN 2-08-......-.
-} noimg          _?                           ?
-- .oF.    kNx    _MEYRINK Gustav             &Histoires fantastiques pragoises ˛2006
-&                *POLLET Jean-Jacques         
-: .oF.     N     _MEYRINK Gustav              Le Cerveau ˛? ?
-: .oF.     N     _MEYRINK Gustav              Thanatopraxie ˛? ?
-: .oF.     N     _MEYRINK Gustav              Les Plantes du docteur Cinderella ˛1905 Die Pflanzen des Doctor Cinderella ˛Trad. POLLET Jean-Jacques
-: .oF.     N     _MEYRINK Gustav              Le Cabinet des figures de cire ˛? ?
-: .oF.     N     _MEYRINK Gustav              L'Albinos ˛? ?
-: .oF.     N     _MEYRINK Gustav              Effets de miroir ˛? ?
-: .oF.     N     _MEYRINK Gustav              Mirages ˛? ?
-: .oF.     N     _MEYRINK Gustav              Zaba ˛? ?
-: .oF.     N     _MEYRINK Gustav              Le Cacatoäs blanc du docteur Haselmayer ˛? ?
-: .oF.     R     _MEYRINK Gustav              La Maison de l'alchimiste ˛? ?
-o FLA_GF      ?  2008.06 ..... ISBN 978-2-08-121143-8
-} noimg          _?                           ?
-- .o .     R     _POTOCKI Jean                Manuscrit trouvÇ Ö Saragosse ˛1804
-o FLA_GF      ?  2008.06 ..... ISBN 978-2-08-121144-5
-} noimg          _?                           ?
-- .o .     R     _POTOCKI Jean                Manuscrit trouvÇ Ö Saragosse ˛1804-1810
+!--- PrÇsentation par Jacques Bony
+- .oF.    iNx    _BERTRAND Aloysius           Gaspard de la nuit - Fantaisies Ö la maniäre de Rembrandt et de Callot ˛1842
+! .o .     a     _BONY Jaques                 PrÇsentation ˛1842
+! .o .     p     _BONY Jaques                 Note sur le texte ˛1842
 o FLA_GF   1194  2004.03 ..... ISBN 2-08-071194-6
 } gf_1194        _?                           N
 - .oMF    =N13   _SAND George                 Contes d'une grand-märe [Contes d'une grand'märe - 1/2] ˛2004
@@ -1994,6 +2134,34 @@ o FLA_GF   1194  2004.03 ..... ISBN 2-08-071194-6
 : .o . 459 a     _DIDIER BÇatrice             Annexes ˛2004
 : .o . 501 a     _DIDIER BÇatrice             Chronologie ˛2004
 : .o . 504 a     _DIDIER BÇatrice             Bibliographie ˛2004
+o FLA_GF   1215  2004.xx ..... ISBN 2-0807-1215-2
+} noimg          _?                           ?
+- .o .     R     _MEYRINK Gustav              La Nuit de Walpurgis ˛1917 Walpurgisnacht ˛Trad. SAMPIERI AndrÇe Diana
+o FLA_GF   1226  2006.xx ..... ISBN 2-08-071226-8
+} noimg          _?                           ?
+- .oF.    kNx    _MEYRINK Gustav             &Histoires fantastiques pragoises ˛2006
+&                *POLLET Jean-Jacques         
+: .oF.     N     _MEYRINK Gustav              Le Cerveau ˛1901 Das Gehirn ˛Trad. POLLET Jean-Jacques
+: .oF.     N     _MEYRINK Gustav              Thanatopraxie ˛? Das PrÑparat ˛Trad. POLLET Jean-Jacques
+: .oF.     N     _MEYRINK Gustav              Les Plantes du docteur Cinderella ˛1905 Die Pflanzen des Doktor Cinderella ˛Trad. POLLET Jean-Jacques
+: .o .     N     _MEYRINK Gustav              Le Cabinet des figures de cire ˛1907 Das Wachsfigurenkabinett ˛Trad. POLLET Jean-Jacques
+: .o .     N     _MEYRINK Gustav              L'Albinos ˛1904 Der Albino ˛Trad. POLLET Jean-Jacques
+: .oF.     N     _MEYRINK Gustav              Effets de miroir ˛1928 Spiegelbilder ˛Trad. POLLET Jean-Jacques
+: .oF.     N     _MEYRINK Gustav              Mirages ˛1904 ChimÑre ˛Trad. POLLET Jean-Jacques
+: .oF.     N     _MEYRINK Gustav              Zaba ˛1930 Zaba ˛Trad. POLLET Jean-Jacques
+: .oF.     N     _MEYRINK Gustav              Le Cacatoäs blanc du docteur Haselmayer ˛1929 Dr. Haselmayers wei·er Kakadu ˛Trad. POLLET Jean-Jacques
+: .oF.     R     _MEYRINK Gustav              La Maison de l'alchimiste ˛? Das Haus des Alchemisten ˛Trad. POLLET Jean-Jacques
+o FLA_GF   1236  2005.xx ..... ISBN 2-08-071236-.
+} noimg          _?                           ?
+- .oS.     R     _VERNE Jules                 Vingt mille lieues sous les mers ˛1870
+o FLA_GF   1342  2008.06 ..... ISBN 978-2-08-121143-8
+} noimg          _?                           ?
+!--- Çtablissement du texte, prÇsentation, notes, chronologie et bibliographie par Franáois Rosset et Dominique Triaire
+- .o .     R     _POTOCKI Jean                Manuscrit trouvÇ Ö Saragosse - Version de 1804 ˛[1805],2008
+o FLA_GF   1343  2008.06 ..... ISBN 978-2-08-121144-5
+} noimg          _?                           ?
+!--- Çtablissement du texte, prÇsentation, notes, chronologie et bibliographie par Franáois Rosset et Dominique Triaire
+- .o .     R     _POTOCKI Jean                Manuscrit trouvÇ Ö Saragosse - Version de 1810 ˛[1805-1810],2008
 o FLA_GF   1386  2008.11 ..... ISBN 978-2-08-122112-3
 } gf_1387        _?                           N
 + FLA_GF   1386  2010.03 ..... ISBN 978-2-08-123805-3
@@ -2021,7 +2189,7 @@ o FLA_GF   1387  2008.11 ..... ISBN 978-2-08-122114-7
 : .o .     N     _POE Edgar Allan             Le Chat noir ˛1843 The Black Cat
 : .o .     N     _POE Edgar Allan             William Wilson ˛1839 William Wilson
 : .o .     N     _POE Edgar Allan             L'Homme des foules ˛1840 The Man of the Crowd
-: .o .     N     _POE Edgar Allan             Le Coeur rÇvÇlateur ˛1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Coeur rÇvÇlateur ˛1843 The Tell-Tale Heart
 : .o .     N     _POE Edgar Allan             BÇrÇnice ˛1835 Berenice
 : .o .     N     _POE Edgar Allan             La Chute de la maison Usher ˛1839 The Fall of the House of Usher
 : .o .     N     _POE Edgar Allan             Le Puits et le pendule ˛1843 The Pit and the Pendulum
@@ -2043,6 +2211,17 @@ o FLA_GF   1387  2008.11 ..... ISBN 978-2-08-122114-7
 o FLA_GF   1441  2010.03 ..... ISBN 978-2-08-123803-9
 } noimg          _?                           ?
 - .oF.     R     _CARROLL Lewis               Alice au pays des merveilles [Alice - 1] ˛1865 Alice's Adventures in Wonderland / Alice in Wonderland ˛Trad. PARISOT Henri
+o FLA_GF   1452  2010.xx ..... ISBN 978-2-08-124488-7
+} noimg          _Virginie Berthemet          ?
+!--- 2,40 euros
++ FLA_GF   1452  2022.03 ..... ISBN 978-2-08-027785-5
+} noimg          _Virginie Berthemet          ?
+!--- Jeunesse - Poche - 108x178 - 124 pages - 2,40 euros
+- .oF.     r     _KAFKA Franz                 La MÇtamorphose ˛1915 Die verwandlung ˛Trad. LORTHOLARY Bernard
+o FLA_GF   1471  2011.xx ..... ISBN 9782-0812-5561-6
+} noimg          _?                           ?
+!--- 18 cm - 458 pages - 8,90 euros
+- .o .     R     _LEWIS Matthew Gregory       Le Moine ˛1796 The Monk ˛Trad. WAILLY LÇon de + BURY Laurent
 o FLA_GF   1507  2012.xx ..... ISBN 978-2-08-122538-1
 } noimg          _?                           ?
 !--- traduction, prÇsentation, notes, chronologie et rÇpertoire des noms propres par Jean Dufournet
@@ -2067,23 +2246,26 @@ o FLA_GF   3075  2006.02 ..... ISBN 2-08-073075-4
 - .oF.    iAx    *VIEGNES Michel              Le Fantastique ˛2019
 
 !-----------------------------------------------------------------------------
-_ GFLA_EC Garnier Flammarion, Coll. Etonnants Classiques
+_ FLA_EC  Flammarion - Etonnants Classiques
 !-----------------------------------------------------------------------------
-!--- Garnier-Flammarion, Etonnants Classiques
+!--- Flammarion, Etonnants Classiques
 !--- CrÇÇ en 1995
 !--- Colläges et lycÇes
 !--- NumÇrotation : xx ou 20xx (ex pour le Wilde, on trouve 33 ou 2033)
+!---   2006: les volumes deviennent numÇrotÇs dans la sÇrie et non plus dans la collection principale (mais des erreurs existent ensuite)
+!---   Plus de numÇrotation Ö partir de 2012
+!--- A partir de 2012, collection Ö part entiäre (et non plus une sÇrie de "GF-Flammarion")
 !-----------------------------------------------------------------------------
-o GFLA_EC  2001  1995.xx ..... ISBN 2-08-072001-5
+o FLA_EC   2001  1995.xx ..... ISBN 2-08-072001-5
 } gfec2001       _?                           ?
-!--- ˛Trad. MÇdÇric Dufour
+!--- Trad. MÇdÇric Dufour
 - .o .     X     _HOMERE                      Ulysse reviendra-t-il Ö Ithaque (Extraits de L'OdyssÇe - Chants I Ö VII) ˛1995
-o GFLA_EC  2002  1995.05 ..... ISBN 2-08-072002-3
+o FLA_EC   2002  1995.05 ..... ISBN 2-08-072002-3
 } gfec2002       _?                           N
 !---  PrÇsentation et dossier-jeu par Daniel Lauwers
-+ GFLA_EC  2002  1999.xx ..... ISBN 2-08-072002-3
++ FLA_EC   2002  1999.xx ..... ISBN 2-08-072002-3
 } gfec2002r99    _?                           N
-+ GFLA_EC     2  2007.08 ..... ISBN 978-2-08-120474-4
++ FLA_EC      2  2007.08 ..... ISBN 978-2-08-120474-4
 } gfec0002rr07   _?                           N
 - .oF.    _N3    _MERIMEE Prosper             La VÇnus d'Ille et autres contes fantastiques ˛1995
 !--- PrÇsentation et dossier par Daniel Leuwers - 109 pages
@@ -2092,63 +2274,63 @@ o GFLA_EC  2002  1995.05 ..... ISBN 2-08-072002-3
 : .oF.     N     _MERIMEE Prosper             Il Viccolo di Madama Lucrezia ˛[1846],1873
 !--- ----- 2003  .... -
 !--- ----- 2004  .... - Le papa de Simon et autres nouvelles, Guy de Maupassant
-o GFLA_EC  2005  1995.10 ..... ISBN 2-08-072005-8
+o FLA_EC   2005  1995.10 ..... ISBN 2-08-072005-8
 } gfec2005       _?                           ?
-+ GFLA_EC  2005  1998.xx ..... ISBN 2-08-072005-8
++ FLA_EC   2005  1998.xx ..... ISBN 2-08-072005-8
 } gfec2005r98    _?                           ?
-+ GFLA_EC     5  2006.10 ..... ISBN 2-08-072299-9
++ FLA_EC      5  2006.10 ..... ISBN 2-08-072299-9
 } gfec0005rr06   _?                           ?
 - .oF.    kN2    _GOGOL Nicolas               Le Nez - Le Manteau ˛1995
 : .o .     N     _GOGOL Nicolas               Le Manteau ˛1843 Chinel'
 : .o .     N     _GOGOL Nicolas               Le Nez ˛1836 Nos
 !--- ----- 2006  .... -
 !--- ----- 2007  .... -
-o GFLA_EC  2008  1995.xx ..... ISBN 2-08-072008-2
+o FLA_EC   2008  1995.xx ..... ISBN 2-08-072008-2
 } gfec2008       _?                           ?
-+ GFLA_EC     8  2007.xx ..... ISBN 978-2-08-121152-0
++ FLA_EC      8  2007.xx ..... ISBN 978-2-08-121152-0
 } gfec0008rr07   _?                           ?
 !--- TBD rÇÇd. 2002
 - .oF.     N     _--- (anonyme)               Sindbad le marin [Les Mille et Une Nuits] ˛? ˛Trad. ASTRE Marie-Louise
-o GFLA_EC  2009  1995.xx ..... ISBN 2-08-072009-0
+o FLA_EC   2009  1995.xx ..... ISBN 2-08-072009-0
 } gfec2009       _?                           ?
 - .oF.     N     _--- (anonyme)               Le Pàcheur et le GÇnie - Histoire de Ganem [Les Mille et Une Nuits] ˛? ˛Trad. ASTRE Marie-Louise
 !--- ----- 2010  .... - Les fourberies de Scapin, Moliäre
-o GFLA_EC  2011  1995.07 ..... ISBN 2-07-072011-5
+o FLA_EC   2011  1995.07 ..... ISBN 2-07-072011-5
 } gfec2011       _?                           N
-+ GFLA_EC  2011  1999.xx ..... ISBN 2-08-072011-5
++ FLA_EC   2011  1999.xx ..... ISBN 2-08-072011-5
 } gfec2011r99    _?                           N
-+ GFLA_EC  2011  2001.xx ..... ISBN 2-08-072011-5
++ FLA_EC   2011  2001.xx ..... ISBN 2-08-072011-5
 } gfec2011rr01   _?                           N
-+ GFLA_EC    11  2006.08 ..... ISBN 2-08-072263-8
++ FLA_EC     11  2006.08 ..... ISBN 2-08-072263-8
 } gfec0011rr06   _?                           N
-+ GFLA_EC     ?  2013.08 ..... ISBN 978-2-08-131479-5
++ FLA_EC      ?  2013.08 ..... ISBN 978-2-08-131479-5
 } gfec0011rr13   _?                           ?
-+ GFLA_EC     ?  2017.08 ..... ISBN 978-2-08-139583-1
++ FLA_EC      ?  2017.08 ..... ISBN 978-2-08-139583-1
 } gfec2017_07    _?                           ?
 - .oF.     N12   _MAUPASSANT Guy de           Le Horla et autres contes fantastiques ˛1995
+: .o .     N     _MAUPASSANT Guy de           Le Horla (2iäme version) ˛1886-1887
 : .o .     N     _MAUPASSANT Guy de           La Main d'ÇcorchÇ ˛1875
 : .o .     N     _MAUPASSANT Guy de           Sur l'eau ˛1876
 : .oF.     N     _MAUPASSANT Guy de           La Peur (2iäme version) ˛1882-1884
 : .o .     N     _MAUPASSANT Guy de           Apparition ˛1883
-: .o .     N     _MAUPASSANT Guy de           Le Horla ˛1886
 : .o .     N     _MAUPASSANT Guy de           La Nuit ˛1887
 !--- ----- 2012  .... - L'Avare de Moliäre
 !--- ----- 2013  .... - Aliocha, Henry Troyat
 !--- ----- 2014  1996 - Le roman de Renart
 !--- ----- 2015  1995 - L'odyssÇe tome II, Homäre
-o GFLA_EC  2015  1995.xx ..... ISBN 2-08-072015-5
+o FLA_EC   2015  1995.xx ..... ISBN 2-08-072015-5
 } gfec2015       _?                           ?
-!--- ˛Trad. MÇdÇric Dufour
+!--- Trad. MÇdÇric Dufour
 - .o .     X     _HOMERE                      Les Aventures extraordinaires d'Ulysse (Extraits de L'OdyssÇe - Chants VIII Ö XII) ˛1995
-o GFLA_EC  2016  1995.xx ..... ISBN 2-08-072015-5
+o FLA_EC   2016  1995.xx ..... ISBN 2-08-072015-5
 } gfec2016       _?                           ?
-!--- ˛Trad. MÇdÇric Dufour
+!--- Trad. MÇdÇric Dufour
 - .o .     X     _HOMERE                      La Vengeance d'Ulysse (Extraits de L'OdyssÇe - Chants XIII Ö XXIV) ˛1995
 !--- ----- 2017  .... - Le malade imaginaire, Moliäre
 !--- ----- 2018  .... - Le Cid, Corneille
-o GFLA_EC  2019  1998.xx ..... ISBN 2-08-072019-8
+o FLA_EC   2019  1998.xx ..... ISBN 2-08-072019-8
 } gf_ec019       _?                           ?
-+ GFLA_EC    19  2007.06 ..... ISBN 978-2-08-120470-6
++ FLA_EC     19  2007.06 ..... ISBN 978-2-08-120470-6
 } gf_ec019rr07   _?                           ?
 - .pF.     N3    _POUCHKINE Alexandre         La Dame de pique et autres nouvelles ˛1998
 : .oF.     N     _POUCHKINE Alexandre         Le Marchand de cercueils ˛1831 Grobovchtchik
@@ -2159,14 +2341,14 @@ o GFLA_EC  2019  1998.xx ..... ISBN 2-08-072019-8
 !--- ----- 2022  .... -
 !--- ----- 2023  .... -
 !--- ----- 2024  .... -
-o GFLA_EC  2025  1996.01 ..... ISBN 2-08-072025-2
+o FLA_EC   2025  1996.01 ..... ISBN 2-08-072025-2
 } gfec2025       _?                 ?
-+ GFLA_EC  2025  2001.xx ..... ISBN 2-08-072025-2
++ FLA_EC   2025  2001.xx ..... ISBN 2-08-072025-2
 } gfec2025rr01   _?                 ?
 !--- En 2001 et 2007, titre "La Morte amoureuse, la cafetiäre et autres nouvelles"
-+ GFLA_EC    25  2007.11 ..... ISBN 978-2-08-120700-4
++ FLA_EC     25  2007.11 ..... ISBN 978-2-08-120700-4
 } gfec0025rr07   _?                 ?
-+ GFLA_EC     ?  2014.01 ..... ISBN 978-2-08-133025-2
++ FLA_EC      ?  2014.01 ..... ISBN 978-2-08-133025-2
 } gfec0025rr14   _?                 ?
 !--- Retour au titre de couv initial en 2014
 - .oF.    kN4    _GAUTIER ThÇophile           La Morte amoureuse et autres nouvelles ˛1996
@@ -2182,11 +2364,11 @@ o GFLA_EC  2025  1996.01 ..... ISBN 2-08-072025-2
 !--- ----- 2030  .... - Zadig, Voltaire
 !--- ----- 2031  .... -
 !--- ----- 2032  .... -
-o GFLA_EC  2033  1996.08 ..... ISBN 2-08-072033-3
+o FLA_EC   2033  1996.08 ..... ISBN 2-08-072033-3
 } gfec2033       _?                           ?
-+ GFLA_EC  2033  2001.xx ..... ISBN 2-08-072033-3
++ FLA_EC   2033  2001.xx ..... ISBN 2-08-072033-3
 } gfec2033rr01   _?                           ?
-+ GFLA_EC    33  2006.10 ..... ISBN 2-08-072265-4
++ FLA_EC     33  2006.10 ..... ISBN 2-08-072265-4
 } gfec0033rr06   _?                           ?
 !--- traduit de l'anglais par Jules Castier, Marcel Schwob, revue par
 !--- Marie-Louise Astre
@@ -2194,17 +2376,17 @@ o GFLA_EC  2033  1996.08 ..... ISBN 2-08-072033-3
 - .pF.     N3    _WILDE Oscar                 Le Fantìme de Canterville et autres nouvelles ((Le Fantìme des Canterville)) ˛1996
 !--- le gÇant Çgoãste en 1996
 : .o .     N     _WILDE Oscar                 Le Fantìme de Canterville ˛1887 The Canterville Ghost ˛Trad. ?
-: .! .     N     _WILDE Oscar                 Le Millionaire modäle ˛1891 The Model Millionaire ˛Trad. ?
+: .x .     N     _WILDE Oscar                 Le Millionaire modäle ˛1891 The Model Millionaire ˛Trad. ?
 : .o .     N     _WILDE Oscar                 Le GÇant Çgoãste ˛1888 The Selfish Giant
 !--- ----- 2034  .... -
-o GFLA_EC  2035  1996.xx ..... ISBN 2-08-072035-X
+o FLA_EC   2035  1996.xx ..... ISBN 2-08-072035-X
 } gfec2035       _?                           N
 - .o .     N2    _VERNE Jules                 Le Humbug - Frritt-Flacc ˛1996
 : .o .     N     _VERNE Jules                 Le Humbug ˛1886
 : .o .     N     _VERNE Jules                 Frritt-Flacc ˛1884
-o GFLA_EC  2036  1997.xx ..... ISBN 2-08-072036-8
+o FLA_EC   2036  1997.xx ..... ISBN 2-08-072036-8
 } gf_ec036       _?                           N
-+ GFLA_EC  2036  2008.04 ..... ISBN 978-2-08-121218-3
++ FLA_EC   2036  2008.04 ..... ISBN 978-2-08-121218-3
 } gf_ec036rr08   _?                           N
 - .oF.    kN2    _HOFFMANN E.T.A.             Le Violon de CrÇmone - Les Mines de Falun ˛1997
 : .o .     N     _HOFFMANN E.T.A.             Le Violon de CrÇmone ˛1817 Rat Krespel
@@ -2214,35 +2396,35 @@ o GFLA_EC  2036  1997.xx ..... ISBN 2-08-072036-8
 !--- ----- 2039  .... - Voyages en bohäme
 !--- ----- 2040  .... - PoÇsies tome 1, Victor Hugo
 !--- ----- 2041  .... - PoÇsies tome 2, Victor Hugo
-o GFLA_EC  2042  1996.08 ..... ISBN 2-08-072042-9
+o FLA_EC   2042  1996.08 ..... ISBN 2-08-072042-9
 } gfec2042       _?                           ?
 - .o .     N     _SAND George                 Le GÇant YÇous ˛1873
 !--- ----- 2043  .... - Aucassin et Nicolette
 !--- ----- 2044  .... - Vanina Vanini / le coffre et le revenant, Stendhal
-o GFLA_EC  2045  1996.xx ..... ISBN 2-08-072045-7
+o FLA_EC   2045  1996.xx ..... ISBN 2-08-072045-7
 } gfec2045       _?                           ?
-+ GFLA_EC    45  2006.10 ..... ISBN 2-08-072298-1
++ FLA_EC     45  2006.10 ..... ISBN 2-08-072298-1
 } gfec0045rr06   _?                           ?
-+ GFLA_EC     ?  2017.11 ..... ISBN 978-2-08-142185-1
++ FLA_EC      ?  2017.11 ..... ISBN 978-2-08-142185-1
 } gfec2017_12    _?                           ?
 - .oF.     N2    _POE Edgar Allan             Double assassinat dans la rue Morgue - La Lettre volÇe [Auguste Dupin] ˛1996
 : .o .     N     _POE Edgar Allan             Double assassinat dans la rue Morgue [Auguste Dupin] ˛1841 The Murders in the Rue Morgue
 : .o .     N     _POE Edgar Allan             La Lettre volÇe [Auguste Dupin] ˛1845 The Purloined Letter
 !--- ----- 2046  .... -
 !--- ----- 2047  .... - Un coeur simple, Gustave Flaubert
-o GFLA_EC  2048  1997.xx ..... ISBN 2-08-072048-1
+o FLA_EC   2048  1997.xx ..... ISBN 2-08-072048-1
 } gfec2048       _?                           ?
 !--- Trad. GALLAND Antoine
 - .o .     N     _--- (anonyme)               Ali Baba et les quarante voleurs [Les Mille et Une Nuits] ˛?
 !--- ----- 2049  .... -
-o GFLA_EC  2050  1997.xx ..... ISBN 2-08-072050-3
+o FLA_EC   2050  1997.xx ..... ISBN 2-08-072050-3
 } gfec2050       _?                           ?
-+ GFLA_EC  2050  1998.xx ..... ISBN 2-08-072050-3
++ FLA_EC   2050  1998.xx ..... ISBN 2-08-072050-3
 } gfec2050r98    _?                           ?
-+ GFLA_EC    50  2008.xx ..... ISBN 978-2-08-120827-8
++ FLA_EC     50  2008.xx ..... ISBN 978-2-08-120827-8
 } gfec0050rr08   _?                           ?
 - .oS.    _N3    _BRADBURY Ray                L'Heure H et autres nouvelles ˛1997
-: .o .     N     _BRADBURY Ray                Et l'ÇtÇ ne dura qu'un jour ˛1958 All Summer in a Day
+: .o .     N     _BRADBURY Ray                Et l'ÇtÇ ne dura qu'un jour ˛1954 All Summer in a Day
 : .oS.     N     _BRADBURY Ray                Automates, sociÇtÇ anonyme ˛1949 Marionettes, Inc.
 : .o .     N     _BRADBURY Ray                L'Heure H ˛1947 Zero Hour
 !--- ----- 2051  .... -
@@ -2257,24 +2439,24 @@ o GFLA_EC  2050  1997.xx ..... ISBN 2-08-072050-3
 !--- ----- 2060  .... -
 !--- ----- 2061  .... -
 !--- ----- 2062  .... -
-o GFLA_EC  2062  1997.xx ..... ISBN 2-08-072062-7
+o FLA_EC   2062  1997.xx ..... ISBN 2-08-072062-7
 } gfec2062       _?                           ?
-+ GFLA_EC    62  2006.xx ..... ISBN 2-08-072278-2
++ FLA_EC     62  2006.xx ..... ISBN 2-08-072278-2
 } gfec0062rr06   _?                           ?
 - .o .     N     _SAND George                 Les Ailes de courage ˛1872
-o GFLA_EC  2063  1997.08 ..... ISBN 2-08-072063-5
+o FLA_EC   2063  1997.08 ..... ISBN 2-08-072063-5
 } gfec2063       _?                           ?
 - .oS.     R     _ROSNY AINE J.-H.            La Mort de la Terre ˛1910
 !--- ----- 2064  .... - Le dernier probläme / La maison vide, Arthir Conan Doyle
-o GFLA_EC  2065  1997.xx ..... ISBN 2-08-072065-1
+o FLA_EC   2065  1997.xx ..... ISBN 2-08-072065-1
 } gfec2065       _?                           ?
-+ GFLA_EC  2065  1999.xx ..... ISBN 2-08-072065-1
++ FLA_EC   2065  1999.xx ..... ISBN 2-08-072065-1
 } gfec2065r99    _?                           ?
-+ GFLA_EC    65  2006.xx ..... ISBN 2-08-072264-5
++ FLA_EC     65  2006.xx ..... ISBN 2-08-072264-5
 } gfec0065rr06   _?                           ?
-+ GFLA_EC     ?  2013.xx ..... ISBN 978-2-08-129392-2
++ FLA_EC      ?  2013.xx ..... ISBN 978-2-08-129392-2
 } gfec0065rr13   _?                           ?
-+ GFLA_EC     ?  2017.06 ..... ISBN 978-2-08-140862-3
++ FLA_EC      ?  2017.06 ..... ISBN 978-2-08-140862-3
 } gfec2017_06    _Mr Xerty                    ?
 - .oM.     N9    _PERRAULT Charles            Contes ((Contes de Perrault)) ˛1997
 : .o .     N     _PERRAULT Charles            La Belle au bois dormant ˛1696
@@ -2286,31 +2468,35 @@ o GFLA_EC  2065  1997.xx ..... ISBN 2-08-072065-1
 : .o .     N     _PERRAULT Charles            Riquet Ö la houppe ˛1697
 : .o .     N     _PERRAULT Charles            Le Petit Poucet ˛1697
 : .o .     N     _PERRAULT Charles            Peau d'Éne ˛1694
-o GFLA_EC  2066  1997.xx ..... ISBN 2-08-072066-X
+o FLA_EC   2066  1997.xx ..... ISBN 2-08-072066-X
 } gfec2066       _?                           ?
 !--- Trad. de Michel Rousse adaptÇe ; prÇsentation, notes et dossier-jeu par Marie-Louise Astre
-+ GFLA_EC  2066  1999.xx ..... ISBN 2-08-072066-X
++ FLA_EC   2066  1999.xx ..... ISBN 2-08-072066-X
 } gfec2066r99    _?                           ?
-+ GFLA_EC    66  2006.xx ..... ISBN 2-08-072250-6
++ FLA_EC     66  2006.xx ..... ISBN 2-08-072250-6
 } gfec0066rr06   _?                           ?
-+ GFLA_EC     ?  2012.xx ..... ISBN 978-2-08-128595-8
++ FLA_EC      ?  2012.xx ..... ISBN 978-2-08-128595-8
 } gfec0066rr12   _?                           ?
 !--- A partir de 2012 : cahier photos par Marie-Anne de BÇru
-+ GFLA_EC     ?  2014.xx ..... ISBN 978-2-0813-4938-4
++ FLA_EC      ?  2014.xx ..... ISBN 978-2-0813-4938-4
 } gfec0066rr14   _?                           ?
-+ GFLA_EC     ?  2018.06 ..... ISBN 978-2-08-142208-7
++ FLA_EC      ?  2018.06 ..... ISBN 978-2-08-142208-7
 } gfec0066rr18   _Laurent Rivelayque          ?
 !--- A partir de 2018 : mise Ö jour par Bruno Delignon et Rafaâl Meneghin
-- .oF.     X     _CHRETIEN de TROYES          Yvain ou le Chevalier au lion [Les Romans arthuriens - 4] ˛c1180
-o GFLA_EC  2067  1997.08 ..... ISBN 2-08-072067-8
++ FLA_EC      ?  2022.01 ..... ISBN 978-2-08-026881-5
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125x178 - 192 pages
+!--- Texte intÇgral avec prÇsentation et dossier
+- .oF.     R     _CHRETIEN de TROYES          Yvain ou le Chevalier au lion [Les Romans arthuriens - 4] ˛c1180 ˛Trad. ROUSSE Michel
+o FLA_EC   2067  1997.08 ..... ISBN 2-08-072067-8
 } gf_ec067       _?                           ?
 - .o .     N     _HOFFMANN E.T.A.             L'Enfant Çtranger ˛1817 Das fremde Kind ˛Trad. BEGUIN Albert
 !--- ----- 2068  .... - Lettres de mon moulin, Alphonse Daudet
-o GFLA_EC  2069  1997.08 ..... ISBN 2-08-072069-4
+o FLA_EC   2069  1997.08 ..... ISBN 2-08-072069-4
 } gfec2069       _?                           Laurent Pariety
-+ GFLA_EC    69  2007.xx ..... ISBN 978-2-08-120824-7
++ FLA_EC     69  2007.xx ..... ISBN 978-2-08-120824-7
 } gfec0069rr07   _?                           ?
-+ GFLA_EC     ?  2015.06 ..... ISBN 978-2-08-136341-0
++ FLA_EC      ?  2015.06 ..... ISBN 978-2-08-136341-0
 } gfec0069rr15   _Nicolas Duffaut             ?
 - .oF.    =N4    _POE Edgar Allan             Le Chat noir et autres contes fantastiques ˛1997
 !--- En fin d'ouvrage, un dossier "A vous de jouer" (p 125) + Solutions (p 152)
@@ -2326,105 +2512,104 @@ o GFLA_EC  2069  1997.08 ..... ISBN 2-08-072069-4
 !--- ----- 2072  .... - Poämes de la renaissance
 !--- ----- 2073  .... -
 !--- ----- 2074  .... -
-o GFLA_EC  2075  1998.xx ..... ISBN 2-08-072075-9
+o FLA_EC   2075  1998.xx ..... ISBN 2-08-072075-9
 } gfec2075       _?                           ?
-+ GFLA_EC  2075  2008.12 ..... ISBN 978-2-08-120807-0
++ FLA_EC   2075  2008.12 ..... ISBN 978-2-08-120807-0
 } gfec0075rr08   _?                           ?
-+ GFLA_EC     ?  2015.10 ..... ISBN 978-2-08-136645-9
++ FLA_EC      ?  2015.10 ..... ISBN 978-2-08-136645-9
 } gfec0075rr15   _Sidonie Mangin              ?
 - .oF.     R     _CARROLL Lewis               Alice au pays des merveilles [Alice - 1] ˛1865 Alice's Adventures in Wonderland / Alice in Wonderland ˛Trad. PARISOT Henri
 !--- ----- 2076  .... - Histoire de Moãse
 !--- ----- 2077  1998 - RÇcits de voyage tome 1, Jean de LÇry
 !--- ----- 2078  .... - Candide, Voltaire
 !--- ----- 2079  .... - Raconter, sÇduire, convaincre
-o GFLA_EC  2080  1998.xx ..... ISBN 2-08-072080-5
+o FLA_EC   2080  1998.xx ..... ISBN 2-08-072080-5
 } gfec2080       _?                           ?
-+ GFLA_EC    80  2006.xx ..... ISBN 978-2-08-072302-4
++ FLA_EC     80  2006.xx ..... ISBN 978-2-08-072302-4
 } gfec0080rr06   _?                           ?
-+ GFLA_EC     ?  2014.xx ..... ISBN 978-2-08-133658-2
++ FLA_EC      ?  2014.xx ..... ISBN 978-2-08-133658-2
 } gfec0080rr14   _Mr Xerty                    ?
 - .oF.     R     _BORON Robert de             Le Roman de Merlin ˛? ˛Trad. MICHA Alexandra + TUSSEAU Jean-Pierre
 !--- ----- 2081  .... - RÇcits de voyage II, les merveilles de l'Orient
 !--- ----- 2082  .... -
-o GFLA_EC  2083  1999.xx ..... ISBN 2-08-072083-X
+o FLA_EC   2083  1999.xx ..... ISBN 2-08-072083-X
 } gfec2083       _?                           ?
-+ GFLA_EC    83  2007.02 ..... ISBN 978-2-08-120465-2
++ FLA_EC     83  2007.02 ..... ISBN 978-2-08-120465-2
 } gfec0083rr07   _?                           ?
-+ GFLA_EC     ?  2014.02 ..... ISBN 978-2-08-131669-0
++ FLA_EC      ?  2014.02 ..... ISBN 978-2-08-131669-0
 } gfec0083rr14   _?                           ?
-- .o .     N     _KAFKA Franz                 La MÇtamorphose ˛1915 Die verwandlung ˛Trad. LORTHOLARY Bernard
-o GFLA_EC  2084  1998.11 ..... ISBN 2-08-072084-8
+- .o .     r     _KAFKA Franz                 La MÇtamorphose ˛1915 Die verwandlung ˛Trad. LORTHOLARY Bernard
+o FLA_EC   2084  1998.11 ..... ISBN 2-08-072084-8
 } gfec2084       _?                           ?
-+ GFLA_EC    84  2007.12 ..... ISBN 978-2-08-120686-1
++ FLA_EC     84  2007.12 ..... ISBN 978-2-08-120686-1
 } gfec0084rr07   _?                           ?
-+ GFLA_EC     ?  2014.03 ..... ISBN 978-2-08-131670-6
++ FLA_EC      ?  2014.03 ..... ISBN 978-2-08-131670-6
 } gfec0084rr14   _?                           ?
-!--- TBC ou (2014 seul ?) ˛Trad. VARLET ThÇo
-- .oF.     r     _STEVENSON Robert Louis      Le Cas Çtrange du Dr Jekyll et de M. Hyde ˛1885 The Strange Case of Dr. Jekyll and Mr. Hyde ˛Trad. VARLET ThÇo
+!--- TBC ou (2014 seul ?) Trad. VARLET ThÇo
+- .oF.     r     _STEVENSON Robert Louis      Le Cas Çtrange du Dr Jekyll et de M. Hyde ˛1885 The Strange Case of Dr Jekyll and Mr Hyde ˛Trad. VARLET ThÇo
 !--- ----- 2085  .... - Le comte de Monte-Cristo, tome 1, Alexandre Dumas
 !--- ----- 2086  .... -
 !--- ----- 2087  .... -
-o GFLA_EC  2088  2001.xx ..... ISBN 2-08-072088-0
+o FLA_EC   2088  2001.xx ..... ISBN 2-08-072088-0
 } gfec2088       _?                           ?
 !--- trad. de Jean Dufournet ; prÇsentation, notes, chronologie et dossier par HervÇ-Franáois Fournier
-+ GFLA_EC    88  2013.12 ..... ISBN 978-2-0813-1483-2
++ FLA_EC     88  2013.12 ..... ISBN 978-2-0813-1483-2
 } gfec0088rr13   _?                           ?
-+ GFLA_EC     ?  2018.06 ..... ISBN 978-2-08-143306-9
++ FLA_EC      ?  2018.06 ..... ISBN 978-2-08-143306-9
 } gfec0088rr18   _Laurent Rivelayque          ?
-!--- dossier mis Ö jour par Bruno Delignon et Raphael Meneghin,Ed. revue
+!--- dossier mis Ö jour par Bruno Delignon et Raphael Meneghin, Çdition revue
 - .oF.     R     _CHRETIEN de TROYES          Perceval ou Le Conte du Graal [Les Romans arthuriens - 5] ˛c1185
 !--- ----- 2089  .... -
-o GFLA_EC  2090  1999.04 ..... ISBN 2-08-072090-2
+o FLA_EC   2090  1999.04 ..... ISBN 2-08-072090-2
 } gfec2090       _?                           ?
-+ GFLA_EC    90  2007.08 ..... ISBN 978-2-08-120471-3
++ FLA_EC     90  2007.08 ..... ISBN 978-2-08-120471-3
 } gfec0090rr07   _?                           ?
-+ GFLA_EC    90  2011.08 ..... ISBN 978-2-08-126636-0
++ FLA_EC     90  2011.08 ..... ISBN 978-2-08-126636-0
 } gfec0090rr11   _?                           ?
 !--- 2011 : avec cahier photo
-+ GFLA_EC     ?  2014.08 ..... ISBN 978-2-08-133071-9
++ FLA_EC      ?  2014.08 ..... ISBN 978-2-08-133071-9
 } gfec0090rr14   _?                           ?
-+ GFLA_EC     ?  2017.01 ..... ISBN 978-2-08-137546-8
++ FLA_EC      ?  2017.01 ..... ISBN 978-2-08-137546-8
 } gfec2017_01    _?                           ?
-- .oN.     N5    ****                         La Belle et la Bàte et autres contes ˛1999
++ FLA_EC      ?  2021.08 ..... ISBN 978-2-08-025236-4
+} etclass202108_2 _?                           ?
+!--- Jeunesse - Poche - 125x178 - 128 pages
 !--- *BERVAS-LEROUX Anne
-: .o .  21 N     _LEPRINCE DE BEAUMONT J.-M.  La Belle et la Bàte ˛1757
-!: .o .   7 a     ****                         PrÇsentation ˛1999
-!: .o .   7 a     ****                         Chronologie ˛1999
-!: .C .  47 C     ****                         Autour de la Belle et la Bàte, quatre contes populaires
-!--- TBC si vraiment anonyme
-!: .o .  51 N     _--- (anonyme)               La Belle et la Bàte ˛?
-!: .o .  55 N     _--- (anonyme)               Courbasset, petit corbeau ˛?
-?: .o .  62 N     _--- (anonyme)               L'Homme-Poulain ˛?
-!: .o .  72 N     _--- (anonyme)               Le Loup blanc ˛?
-!: .o .  77 a     ****                         Dossier ˛1999
-! ? DaphnÇ ?
+!--- Le contenu de l'appareil pÇdagogique, prÇsentation, notes, articles, dossier varie selon l'annÇe d'Çdition.
+- .oN.     N5    ****                         La Belle et la Bàte et autres contes ˛1999
+: .o .     N     _LEPRINCE DE BEAUMONT J.-M.  La Belle et la Bàte ˛1757
+: .C .     C     ****                         Autour de la Belle et la Bàte, quatre contes populaires
+: .o .     N     _FELICE A. de                La Belle et la Bàte ˛1944
+: .o .     N     _--- (anonyme)               Courbasset, petit corbeau ˛1950
+: .o .     N     _LUZEL Franáois-Marie        L'Homme-Poulain ˛1869
+: .o .     N     _COSQUIN Emmanuel            Le Loup blanc ˛1886
 !--- ----- 2091  .... - L'åle au trÇsor, Robert Louis Stevenson
-o GFLA_EC  2092  2000.xx ..... ISBN 2-08-072092-9
+o FLA_EC   2092  2000.xx ..... ISBN 2-08-072092-9
 } gfec2092       _?                           ?
-+ GFLA_EC    92  2006.xx ..... ISBN 2-08-072256-5
++ FLA_EC     92  2006.xx ..... ISBN 2-08-072256-5
 } gfec0092rr06   _?                           ?
-+ GFLA_EC     ?  2014.02 ..... ISBN 978-2-0813-1486-3
++ FLA_EC      ?  2014.02 ..... ISBN 978-2-0813-1486-3
 } gfec0092rr14   _Casajordi                   ?
-+ GFLA_EC     ?  2020.06 ..... ISBN 978-2-08-151163-7
++ FLA_EC      ?  2020.06 ..... ISBN 978-2-08-151163-7
 } noimg          _?                           ?
-!--- ˛Trad. Caroline Charlet
-- .oF.     X     _OVIDE                       Les MÇtamorphoses - 17 rÇcits ˛? ˛Trad. Joseph Chamonard
+!--- Trad. Caroline Charlet
+- .oF.     X     _OVIDE                       Les MÇtamorphoses - 17 rÇcits ˛? ? ˛Trad. Joseph Chamonard
 !--- ----- 2093  .... -
 !--- ----- 2094  .... - Le roman d'un enfant, Pierre Loti
 !--- ----- 2095  .... - Lettres persanes, Charles de Montesquieu
 !--- ----- 2096  .... - Les misÇrables, tome 1, Victor Hugo
 !--- ----- 2097  .... -
-o GFLA_EC  2098  1999.08 ..... ISBN 2-08-072098-8
+o FLA_EC   2098  1999.08 ..... ISBN 2-08-072098-8
 } gfec2098       _?                           ?
-+ GFLA_EC    98  2006.12 ..... ISBN 2-08-072285-3
++ FLA_EC     98  2006.12 ..... ISBN 2-08-072285-3
 } gfec0098rr06   _?                           ?
-+ GFLA_EC     ?  2013.xx ..... ISBN 978-2-08-122287-8
++ FLA_EC      ?  2013.xx ..... ISBN 978-2-08-122287-8
 } gfec0098rr13   _?                           ?
-+ GFLA_EC     ?  2014.05 ..... ISBN 978-2-08-133655-1
++ FLA_EC      ?  2014.05 ..... ISBN 978-2-08-133655-1
 } gfec0098rr14   _?                           ?
-- .oF.     N20   _GRIMM Jacob & Wilhelm       Le Petit Chaperon rouge et autres contes ˛1999
+- .oM.     N20   _GRIMM Jacob & Wilhelm       Le Petit Chaperon rouge et autres contes ˛1999
 !--- Caecilia Pieri
-!--- ˛Trad. GUERNE Armel
+!--- Trad. GUERNE Armel
 : .o .     N     _GRIMM Jacob & Wilhelm       Le Petit Chaperon rouge ˛1812 RotkÑppchen
 : .o .     N     _GRIMM Jacob & Wilhelm       Les Trois Fileuses ˛1812 Die drei Spinnerinnen
 : .o .     N     _GRIMM Jacob & Wilhelm       Jeannot et Margot ˛1812 HÑnsel und Gretel
@@ -2456,42 +2641,42 @@ o GFLA_EC  2098  1999.08 ..... ISBN 2-08-072098-8
 !--- ----- 2107  .... -
 !--- ----- 2108  .... -
 !--- ----- 2109  .... -
-o GFLA_EC  2110  2000.04 ..... ISBN 2-08-072110-0
+o FLA_EC   2110  2000.04 ..... ISBN 2-08-072110-0
 } gfec2110       _?                           ?
 - .oS.    _N4    _BRADBURY Ray                L'Homme brñlant et autres nouvelles ˛2000
 : .o .     N     _BRADBURY Ray                L'Homme brñlant ˛1976 The Burning Man
 : .o .     N     _BRADBURY Ray                Le Jeu d'octobre ˛1948 The October Game
-: .o .     N     _BRADBURY Ray                Je ne suis pas si bàte ˛1945 I'm Not so Dumb!
+: .x .     N     _BRADBURY Ray                Je ne suis pas si bàte ˛1945 I'm Not so Dumb!
 : .x .     N     _BRADBURY Ray                Les Fruits posÇs au fond de la coupe ˛1953 The Fruits at the Bottom of the Bowl / Touch and Go
-o GFLA_EC  2111  2000.04 ..... ISBN 2-08-072111-9
+o FLA_EC   2111  2000.04 ..... ISBN 2-08-072111-9
 } gfec2111       _?                           ?
 - .o .     N     _FLAUBERT Gustave            La LÇgende de Saint Julien l'Hospitalier ˛1877
 !--- ----- 2112  .... - Cyrano de Bergerac, Edmond Rostand
-o GFLA_EC  2113  2000.xx ..... ISBN 2-08-072113-5
+o FLA_EC   2113  2000.xx ..... ISBN 2-08-072113-5
 } gfec2113       _?                           ?
-+ GFLA_EC   113  2007.xx ..... ISBN 978-2-08-120133-0
++ FLA_EC    113  2007.xx ..... ISBN 978-2-08-120133-0
 } gfec0113rr07   _?                           ?
-+ GFLA_EC     ?  2015.xx ..... ISBN 978-2-08-136342-7
++ FLA_EC      ?  2015.xx ..... ISBN 978-2-08-136342-7
 } gfec0113rr15   _?                           ?
-- .oF.     X     _HOMERE                      L'Iliade ˛? ˛Trad. LASSERE Eugäne
+- .oF.     X     _HOMERE                      L'Iliade ˛? ? ˛Trad. LASSERE Eugäne
 !--- ----- 2114  .... - Un chapeau de paille d'Italie, Eugäne Labiche
 !--- ----- 2115  .... - Les fleurs du mal, Charles Baudelaire
-o GFLA_EC  2116  2003.xx ..... ISBN 2-08-072116-X
+o FLA_EC   2116  2003.xx ..... ISBN 2-08-072116-X
 } gfec2116       _?                           ?
-+ GFLA_EC   116  2006.10 ..... ISBN 2-08-072294-8
++ FLA_EC    116  2006.10 ..... ISBN 2-08-072294-8
 } gfec0116rr06   _?                           ?
-+ GFLA_EC     ?  2012.08 ..... ISBN 978-2-08-128590-3
++ FLA_EC      ?  2012.08 ..... ISBN 978-2-08-128590-3
 } gfec0116rr12   _Paolo Uccello               ?
-+ GFLA_EC     ?  2014.12 ..... ISBN 978-2-08-134937-7
++ FLA_EC      ?  2014.12 ..... ISBN 978-2-08-134937-7
 } gfec0116rr14   _Sidonie Mangin              ?
-+ GFLA_EC     ?  2020.06 ..... ISBN 978-2-08-151235-1
++ FLA_EC      ?  2020.06 ..... ISBN 978-2-08-151235-1
 } noimg          _?                           ?
 !--- 124 x 178 mm - 192 pages - 2,90 euros
-!--- ˛Trad. Jean-Claude Aubailly
+!--- Trad. Jean-Claude Aubailly
 - .o .     X     _CHRETIEN de TROYES          Lancelot ou le Chevalier de la charrette [Les Romans arthuriens - 3] ˛c1180
 !--- ----- 2117  .... -
 !--- ----- 2118  .... -
-o GFLA_EC  2119  2002.04 ..... ISBN 2-08-072119-4
+o FLA_EC   2119  2002.04 ..... ISBN 2-08-072119-4
 } gfec2199       _Joâlle Jolivet              ?
 !--- Edition Emmanuelle RÇmond-Dalyac
 !--- en trois parties (les Dieux, le pharaon, les hommes)
@@ -2501,27 +2686,30 @@ o GFLA_EC  2119  2002.04 ..... ISBN 2-08-072119-4
 !--- ----- 2122  .... - La peine de mort, Ovide
 !--- ----- 2123  .... -
 !--- ----- 2124  .... - La parure, Guy de Maupassant
-o GFLA_EC  2125  2000.xx ..... ISBN 2-08-072125-9
+o FLA_EC   2125  2000.xx ..... ISBN 2-08-072125-9
 } gfec2125       _?                           ?
-+ GFLA_EC   125  2006.xx ..... ISBN 2-08-072253-0
++ FLA_EC    125  2006.xx ..... ISBN 2-08-072253-0
 } gfec0125rr06   _?                           ?
-+ GFLA_EC     ?  2012.xx ..... ISBN 978-2-08-128210-0
++ FLA_EC      ?  2012.xx ..... ISBN 978-2-08-128210-0
 } gfec0125rr12   _?                           ?
-+ GFLA_EC     ?  2018.xx ..... ISBN 978-2-08-142209-4
++ FLA_EC      ?  2018.xx ..... ISBN 978-2-08-142209-4
 } gfec0125rr18   _Lucie Arnoux                ?
++ FLA_EC      ?  2022.01 ..... ISBN 978-2-08-026883-9
+} noimg          _Lucie Arnoux                ?
+!--- Jeunesse - Poche - 125x178 - 160 pages
 - .oF.     R     _HOMERE                      L'OdyssÇe ˛? ? ˛Trad. DUFOUR MÇdÇric
 !--- ----- 2126  .... -
-o GFLA_EC  2127  2002.xx ..... ISBN 2-08-072127-5
+o FLA_EC   2127  2002.xx ..... ISBN 2-08-072127-5
 } gfec2127       _Joâlle Jolivet              ?
 !--- Edition ou anthologie de Suzanne Desfray
 - .oF.    iNx    ****                         Mythes et dieux de l'Olympe ˛2002
-o GFLA_EC  2128  2002.02 ..... ISBN 2-08-072128-3
+o FLA_EC   2128  2002.02 ..... ISBN 2-08-072128-3
 } gfec2128       _?                           ?
-+ GFLA_EC   128  2007.xx ..... ISBN 978-2-08-120134-7
++ FLA_EC    128  2007.xx ..... ISBN 978-2-08-120134-7
 } gfec0128rr07   _?                           ?
-+ GFLA_EC     ?  2012.05 ..... ISBN 978-2-08-128212-4
++ FLA_EC      ?  2012.05 ..... ISBN 978-2-08-128212-4
 } gfec0128rr12   _?                           ?
-+ GFLA_EC     ?  2016.10 ..... ISBN 978-2-08-139503-9
++ FLA_EC      ?  2016.10 ..... ISBN 978-2-08-139503-9
 } gfec2016_05    _?                           ?
 - .o .     X     _SHELLEY Mary                Frankenstein ou le PromÇthÇe moderne ˛1818 Frankenstein or the Modern Prometheus ˛Trad. D'HANGEST Germain
 } noimg          _Hugues Charlier             ?
@@ -2531,20 +2719,20 @@ o GFLA_EC  2128  2002.02 ..... ISBN 2-08-072128-3
 !--- ----- 2132  .... - Le bal des sceaux, Balzac
 !--- ----- 2133  .... - Le bourgeois gentilhomme, Moliäre
 !--- ----- 2134  .... - Ceux de Verdun, Patrice Kleff
-o GFLA_EC  2135  2001.xx ..... ISBN 2-08-072135-6
+o FLA_EC   2135  2001.xx ..... ISBN 2-08-072135-6
 } gfec2135       _?                           ?
-+ GFLA_EC   135  2006.xx ..... ISBN 978-2-08-072301-7
++ FLA_EC    135  2006.xx ..... ISBN 978-2-08-072301-7
 } gfec0135rr06   _?                           ?
-+ GFLA_EC     ?  2013.xx ..... ISBN 978-2-08-129388-5
++ FLA_EC      ?  2013.xx ..... ISBN 978-2-08-129388-5
 } gfec0135rr13   _Charles Monet               ?
-+ GFLA_EC     ?  2017.08 ..... ISBN 978-2-08-141613-0
++ FLA_EC      ?  2017.08 ..... ISBN 978-2-08-141613-0
 } gfec0135rr17   _Hugues Charlier             ?
 - .oS.     r     _VOLTAIRE                    MicromÇgas ˛1752
-o GFLA_EC  2136  2001.08 ..... ISBN 2-08-072136-4
+o FLA_EC   2136  2001.08 ..... ISBN 2-08-072136-4
 } gfec2136       _JOLIVET Joâlle              N
-+ GFLA_EC  2136  2007.12 ..... ISBN 978-2-08-120835-3
++ FLA_EC   2136  2007.12 ..... ISBN 978-2-08-120835-3
 } gfec0136rr07   _?                           N
-+ GFLA_EC     ?  2018.11 ..... ISBN 978-2-08-145122-3
++ FLA_EC      ?  2018.11 ..... ISBN 978-2-08-145122-3
 } gfec0136rr18   _?                           ?
 - .o .     R     _COLLODI Carlo               Pinocchio ˛1881 Le avventure di Pinocchio ˛Trad. VIOLANTE Isabel
 !--- ----- 2137  .... - De l'Çducation
@@ -2560,16 +2748,16 @@ o GFLA_EC  2136  2001.08 ..... ISBN 2-08-072136-4
 !--- ----- 2147  .... - Les grandes heures de Rome
 !--- ----- 2148  .... - Ferragus, Balzac
 !--- ----- 2149  .... - Il faut qu'une porte soit ouverte ou fermÇe, de Musset
-o GFLA_EC  2150  2002.02 ..... ISBN 2-08-072150-X
+o FLA_EC   2150  2002.02 ..... ISBN 2-08-072150-X
 } gfec2150       _?                           N
-+ GFLA_EC   150  2008.xx ..... ISBN 978-2-08-120861-2
++ FLA_EC    150  2008.xx ..... ISBN 978-2-08-120861-2
 } gfec0150rr08   _?                           N
 - .oF.    _N5    _VILLIERS DE L'ISLE-ADAM     VÇra et autres nouvelles fantastiques ˛2009
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     VÇra ˛1874
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Convive des derniäres fàtes ˛1874
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     L'Intersigne ˛1867
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Le DÇsir d'àtre un homme ˛1882
-: .o .     N     _VILLIERS DE L'ISLE-ADAM     Fleurs de tÇnäbre ˛1880
+: .o .     N     _VILLIERS DE L'ISLE-ADAM     Fleurs de tÇnäbres ˛1880
 !--- ----- 2151  .... - La chanson de Roland
 !--- ----- 2152  .... - Le surrÇalisme
 !--- ----- 2153  .... - Mademoiselle Chambon, Eric Holder
@@ -2586,7 +2774,7 @@ o GFLA_EC  2150  2002.02 ..... ISBN 2-08-072150-X
 !--- ----- 2164  2003 - La controverse de Valladolid, Jean-Claude Carriäre
 !--- ----- 2165  .... - L'humanisme et la renaissance, collectif
 !--- ----- 2166  2003 - Lettres, Madamde de SÇvignÇ
-o GFLA_EC  2167  2003.xx ..... ISBN 2-08-072167-4
+o FLA_EC   2167  2003.xx ..... ISBN 2-08-072167-4
 } gfec2167       _?                           ?
 !--- PrÇsentation et dossier de Agathe Entanaclaz
 !--- Anthologies de rÇÇcritures (sans doute des extraits ?)
@@ -2594,11 +2782,11 @@ o GFLA_EC  2167  2003.xx ..... ISBN 2-08-072167-4
 !--- ----- 2168  .... -
 !--- ----- 2169  .... -
 !--- ----- 2170  .... - Paul et Virginie, JH Bernardin de Saint-Pierre
-o GFLA_EC  2171  2002.09 ..... ISBN 2-08-072171-2
+o FLA_EC   2171  2002.09 ..... ISBN 2-08-072171-2
 } gfec2171       _?                           ?
-+ GFLA_EC    71  2007.01 ..... ISBN 978-2-08-120132-3
++ FLA_EC     71  2007.01 ..... ISBN 978-2-08-120132-3
 } gfec0171rr07   _?                           ?
-+ GFLA_EC     ?  2014.03 ..... ISBN 978-2-08-133157-0
++ FLA_EC      ?  2014.03 ..... ISBN 978-2-08-133157-0
 } gfec0171rr14   _?                           ?
 - .oM.     N10   _ANDERSEN Hans Christian     La Petite Fille et les allumettes et autres contes ˛1979
 !--- Edition de Caeilia Pieri
@@ -2614,25 +2802,25 @@ o GFLA_EC  2171  2002.09 ..... ISBN 2-08-072171-2
 : .o .     N     _ANDERSEN Hans Christian     Les Amours d'un faux-col ˛1847 Flipperne ˛Trad. ?
 !--- ----- 2172  .... - Baroque et classicisme
 !--- ----- 2173  2004 - PoÇsie et lyrisme
-o GFLA_EC  2174  2003.09 ..... ISBN 2-08-072174-7
+o FLA_EC   2174  2003.09 ..... ISBN 2-08-072174-7
 } gfec2174       _?                           ?
-+ GFLA_EC  2174  2007.08 ..... ISBN 978-2-08-120489-8
++ FLA_EC   2174  2007.08 ..... ISBN 978-2-08-120489-8
 } gfec0174rr07   _?                           ?
 - .o .     r     _CHAMISSO Adelbert von       L'êtrange Histoire de Peter Schlemihl ˛1814 Peter Schlemihls wundersame geschichte ˛Trad. ?
 !--- ----- 2175  .... -
-o GFLA_EC  2176  2005.05 ..... ISBN 2-08-072176-3
+o FLA_EC   2176  2005.05 ..... ISBN 2-08-072176-3
 } gfec2176       _?                           ?
-+ GFLA_EC   176  2009.01 ..... ISBN 978-2-08-122358-5
++ FLA_EC    176  2009.01 ..... ISBN 978-2-08-122358-5
 } gfec0176rr09   _?                           ?
-+ GFLA_EC     ?  2015.03 ..... ISBN 978-2-08-135776-1
++ FLA_EC      ?  2015.03 ..... ISBN 978-2-08-135776-1
 } gfec0176rr15   _Tofdru                      ?
-- .oF.     R     _HOFFMANN E.T.A.             L'Homme au sable ˛1816 Der Sandmann ˛Trad. LOEVE-VEIMARS
+- .oF.     R     _HOFFMANN E.T.A.             L'Homme au sable ˛1816 Der sandmann ˛Trad. LOEVE-VEIMARS
 !--- ----- 2177  .... -
-o GFLA_EC  2178  2004.03 ..... ISBN 2-08-072178-X
+o FLA_EC   2178  2004.03 ..... ISBN 2-08-072178-X
 } gfec2178       _?                           ?
-+ GFLA_EC  2178  2007.08 ..... ISBN 978-2-08-120510-9
++ FLA_EC   2178  2007.08 ..... ISBN 978-2-08-120510-9
 } gfec0178rr07   _?                           ?
-+ GFLA_EC     ?  2015.02 ..... ISBN 978-2-08-135314-5
++ FLA_EC      ?  2015.02 ..... ISBN 978-2-08-135314-5
 } gfec0178rr15   _Tofdru                      ?
 - .oF.    kN5    _MATHESON Richard            Au bord du prÇcipice et autres nouvelles ˛2004
 : .o .     N     _MATHESON Richard            Au bord du prÇcipice ˛1958 The Edge
@@ -2640,16 +2828,16 @@ o GFLA_EC  2178  2004.03 ..... ISBN 2-08-072178-X
 : .o .     N     _MATHESON Richard            Paille humide ˛1953 Wet Straw
 : .o .     N     _MATHESON Richard            J'veux voir le Päre Noâl ˛1957 I'll Make It Look Good / A Visit to Santa Claus
 : .o .     N     _MATHESON Richard            Le Jeu du bouton ˛1966 Button, Button
-o GFLA_EC  2179  2004.01 ..... ISBN 2-08-072179-.
+o FLA_EC   2179  2004.01 ..... ISBN 2-08-072179-.
 } gfec2179       _?                           ?
-+ GFLA_EC   179  2008.08 ..... ISBN 978-2-08-121351-7
++ FLA_EC    179  2008.08 ..... ISBN 978-2-08-121351-7
 } gfec0179rr08   _?                           ?
-+ GFLA_EC     ?  2017.08 ..... ISBN 978-2-08-139577-0
++ FLA_EC      ?  2017.08 ..... ISBN 978-2-08-139577-0
 } gfec2017_087   _?                           ?
 - .o .     X     _SWIFT Jonathan              Voyage Ö Lilliput (Les voyages de Gulliver, premiäre partie) ˛1726 Gulliver's Travels ˛Trad. VILLENEUVE Guillaume
-o GFLA_EC  2180  2005.04 ..... ISBN 2-08-072180-1
+o FLA_EC   2180  2005.04 ..... ISBN 2-08-072180-1
 } gfec2180       _?                           N
-+ GFLA_EC   180  2007.08 ..... ISBN 978-2-08-120198-9
++ FLA_EC    180  2007.08 ..... ISBN 978-2-08-120198-9
 } gfec0180rr07   _?                           N
 - .oF.     N6    *GOUGELMANN StÇphane         Comment Wang-Fì fut sauvÇ et autres rÇcits [Nouvelles fantastiques - 1] ˛2007
 : .o .     N     _POE Edgar Allan             Le Puits et le pendule ˛1843 The Pit and the Pendulum
@@ -2665,33 +2853,40 @@ o GFLA_EC  2180  2005.04 ..... ISBN 2-08-072180-1
 !--- ----- 2185  .... -
 !--- ----- 2186  2004 - Les caractäres, Jean de la Bruyäre
 !--- ----- 2187  .... - C'est Ö ce prix que vous mangez du sucre
-o GFLA_EC  2188  2004.03 ..... ISBN 2-08-072188-7
+o FLA_EC   2188  2004.03 ..... ISBN 2-08-072188-7
 } gfec2188       _?                           ?
-+ GFLA_EC   188  2006.09 ..... ISBN 2-08-072306-5
++ FLA_EC    188  2006.09 ..... ISBN 2-08-072306-5
 } gfec0188rr06   _?                           ?
-+ GFLA_EC     ?  2012.08 ..... ISBN 978-2-08-128585-9
++ FLA_EC      ?  2012.08 ..... ISBN 978-2-08-128585-9
 } gfec0188rr12   _?                           ?
-+ GFLA_EC     ?  2017.02 ..... ISBN 978-2-08-140438-0
++ FLA_EC      ?  2017.02 ..... ISBN 978-2-08-140438-0
 } gfec2017_02    _?                           ?
-!--- Version abrÇgÇe (? - IndiquÇ "Extraits" en couv.) avec prÇsentation et dossier
-- .oF.     X     _STOKER Bram                 Dracula ˛1897 Dracula ˛Trad. FINNE Jacques
++ FLA_EC      ?  2022.01 ..... ISBN 978-2-08-026882-2
+} noimg          _Tofdru                      ?
+!--- Jeunesse - Poche - 125x178 - 224 pages - 2,90 euros
+!--- Version abrÇgÇe par extraits. Les passages supprimÇs sont signalÇs et rÇsumÇs. Avec prÇsentation et dossier
+- .oF.     R     _STOKER Bram                 Dracula (Texte abrÇgÇ) ˛1897 Dracula ˛Trad. FINNÇ Jacques
 !--- ----- 2189  .... - SupplÇment au voyage de Bougainville, Denis Diderot
-o GFLA_EC  2190  2003.09 ..... ISBN 2-08-072192-5
+o FLA_EC   2190  2003.09 ..... ISBN 2-08-072190-9
 } gf_ec190       _?                           ?
-+ GFLA_EC   190  2008.08 ..... ISBN 978-2-08-121354-8
+!--- 188 pages - 18 cm - 3,60 euros
++ FLA_EC    190  2008.08 ..... ISBN 978-2-08-121354-8
 } gf_ec190rr08   _?                           ?
 - .oF.    iNx    _BARBEY D'AUREVILLY J.       Les Diaboliques ˛2004
 : .o .     N     _BARBEY D'AUREVILLY J.       Le Rideau cramoisi ˛1874
 : .o .     N     _BARBEY D'AUREVILLY J.       Le Bonheur dans le crime ˛1871
-o GFLA_EC  2191  2004.06 ..... ISBN 2-08-072191-7
+o FLA_EC   2191  2004.06 ..... ISBN 2-08-072191-7
 } gfec2191       _?                           ?
 - .oF.    iAx    *ERARD CÇdric                Monstres et chimäres ˛2004
-o GFLA_EC  2192  2003.09 ..... ISBN 2-08-121354-.
+o FLA_EC   2192  2003.09 ..... ISBN 2-08-072192-5
 } gfec2190       _?                           ?
-+ GFLA_EC   192  2008.11 ..... ISBN 978-2-08-121445-3
++ FLA_EC    192  2008.11 ..... ISBN 978-2-08-121445-3
 } gfec0190rr08   _?                           ?
-+ GFLA_EC     ?  2018.02 ..... ISBN 978-2-08-142378-7
++ FLA_EC      ?  2018.02 ..... ISBN 978-2-08-142378-7
 } gfec0190rr18   _Tofdru                      ?
++ FLA_EC      ?  2022.08 ..... ISBN 978-2-08-029055-7
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125x178 - 192 pages - 3,80 euros
 - .oF.     R     _BARRIE James                Peter Pan [Peter Pan] ˛1911 Peter Pan ˛Trad. METRAL Yvette
 !--- ----- 2193  .... -
 !--- ----- 2194  .... -
@@ -2703,38 +2898,31 @@ o GFLA_EC  2192  2003.09 ..... ISBN 2-08-121354-.
 !--- ----- 2200  .... -
 !--- ----- 2201  2005 - Le crime d'une nuit/le retour de l'enfant, E. Bove
 !--- ----- 2202  2005 - Le parfum de la dame en noir, Gaston Leroux
-o GFLA_EC  2203  2004.xx ..... ISBN 2-08-072203-4
+o FLA_EC   2203  2004.xx ..... ISBN 2-08-072203-4
 } gfec2203       _?                           ?
-+ GFLA_EC   203  2006.09 ..... ISBN 2-08-072283-3
++ FLA_EC    203  2006.09 ..... ISBN 2-08-072283-3
 } gfec0203rr06   _?                           ?
 !--- prÇsentation et dossier Caecilia Pieri
-!--- Ce recueil regroupe sept contes dont Cendrillon, le Malin Petit Tailleur
-!--- mais Çgalement un rÇcit biblique :Samson et Dalila, une ÇpopÇe
-!--- grecque : Ulysse et Polyphäme et un mythe greco-latin : Apollon et DaphnÇ
-- .oM.     A7    *PIERI Caecilia              Il Çtait une fois... ((Il Çtait une fois)) [Contes merveilleux - 1] ˛2004
-!: .o .     N     _?                           Samson et Dalila
-!: .o .     N     _?                           Ulysse et Polyphäne
-!: .o .     N     _?                           Apollon et DaphnÇ
-!: .o .     N     _?                           Le Jongleur de Notre-Dame
-!: .o .     N     _?                           Cendrillon
-!: .o .     N     _?                           Le Malin Petit Tailleur
-!: .o .     N     _?                           Tit Vanousse
-o GFLA_EC  2204  2004.04 ..... ISBN 2-08-072204-2
+!--- Ce recueil regroupe sept contes dont Cendrillon et le Malin Petit Tailleur, mais Çgalement un rÇcit biblique :Samson et Dalila, 
+!--- une ÇpopÇe grecque : Ulysse et Polyphäme ainsi qu'un mythe greco-latin : Apollon et DaphnÇ
+!--- Samson et Dalila / Ulysse et Polyphäne / Apollon et DaphnÇ / Le Jongleur de Notre-Dame / Cendrillon / Le Malin Petit Tailleur / Tit Vanousse
+- .oM.    iAx    *PIERI Caecilia              Il Çtait une fois... ((Il Çtait une fois)) [Contes merveilleux - 1] ˛2004
+o FLA_EC   2204  2004.04 ..... ISBN 2-08-072204-2
 } gfec2204       _?                           ?
-+ GFLA_EC   204  2008.06 ..... ISBN 978-2-08-121417-0
++ FLA_EC    204  2008.06 ..... ISBN 978-2-08-121417-0
 } gfec0204rr08   _?                           ?
-+ GFLA_EC     ?  2008.06 ..... ISBN 978-2-08-121417-0
++ FLA_EC      ?  2008.06 ..... ISBN 978-2-08-121417-0
 } gfec0204rr12   _?                           ?
-+ GFLA_EC     ?  2020.02 ..... ISBN 978-2-08-148713-0
++ FLA_EC      ?  2020.02 ..... ISBN 978-2-08-148713-0
 } noimg          _?                           ?
 - .xA.     X     _VERNE Jules                 Le Tour du monde en 80 jours ˛1873
 !--- ----- 2205  .... - Le portrait, collectif
 !--- ----- 2206  .... - L'accompagnatrice, Nina Berberova
 !--- ----- 2207  .... -
 !--- ----- 2208  .... -
-o GFLA_EC  2209  2004.09 ..... ISBN 2-08-072209-3
+o FLA_EC   2209  2004.09 ..... ISBN 2-08-072209-3
 } gfec2209       _?                           ?
-+ GFLA_EC   209  2008.04 ..... ISBN 978-2-08-121388-3
++ FLA_EC    209  2008.04 ..... ISBN 978-2-08-121388-3
 } gfec0209rr08   _?                           ?
 - .oF.    _N5    _MATHESON Richard            Enfer sur mesure et autres nouvelles ˛2004
 : .oF.     N     _MATHESON Richard            Enfer sur mesure ˛1952 To Fit the Crime ˛Trad. ?
@@ -2751,21 +2939,14 @@ o GFLA_EC  2209  2004.09 ..... ISBN 2-08-072209-3
 !--- ----- 2216  .... - Lettres d'une pÇruvienne, Mme de Graffigny
 !--- ----- 2217  .... - Des femmes, collectif
 !--- ----- 2218  .... - Le neveu de Rameau, Denis Diderot
-o GFLA_EC  2219  2005.08 ..... ISBN 2-08-072219-0
+o FLA_EC   2219  2005.08 ..... ISBN 2-08-072219-0
 } gfec2219       _?                           ?
-+ GFLA_EC   219  2007.10 ..... ISBN 978-2-08-120678-6
-!--- prÇsentation et dossier Caecilia Pieri
++ FLA_EC    219  2007.10 ..... ISBN 978-2-08-120678-6
 } gfec0219rr07   _?                           ?
-- .oM.    iA9    *PIERI Caecilia              FÇes, ogres et lutins ((FÇes, ogres et lutins)) [Contes merveilleux - 2] ˛2005
-!: .o .     N     _?                           Les FÇes
-!: .o .     N     _?                           Dame Trude
-!: .o .     N     _?                           Le Cercueil de verre
-!: .o .     N     _?                           L'Anneau magique, conte oriental
-!: .o .     N     _?                           Outroupistache ˛? Rumpelstilzchen
-!: .o .     N     _?                           Le Manoir de Coatbily, conte breton
-!: .o .     N     _?                           La Tarasque, conte provenáal
-!: .o .     N     _?                           Le Briquet
-!: .o .     N     _?                           L'Oiseau phÇnix
+!--- prÇsentation et dossier Caecilia Pieri
+!--- Les FÇes / Dame Trude / Le Cercueil de verre / L'Anneau magique, conte oriental / Outroupistache (Rumpelstilzchen) /
+!--- Le Manoir de Coatbily, conte breton / La Tarasque, conte provenáal / Le Briquet / L'Oiseau phÇnix
+- .oM.    iAx    *PIERI Caecilia              FÇes, ogres et lutins ((FÇes, ogres et lutins)) [Contes merveilleux - 2] ˛2005
 !--- ----- 2220  .... - Jeannot et Colin/Le monde comme il va, Voltaire
 !--- ----- 2221  .... - La tÇlÇ nous rend fous !, Patrice Kleff
 !--- ----- 2222  .... - Noire sÇrie... (nouvelles policiäres 2), collectif
@@ -2781,7 +2962,7 @@ o GFLA_EC  2219  2005.08 ..... ISBN 2-08-072219-0
 !--- ----- 2232  .... -
 !--- ----- 2233  .... - Pauline, Alexandre Dumas
 !--- ----- 2234  .... - Don Quichotte, extraits, Miguel de Cervantäs
-o GFLA_EC   235  2006.04 ..... ISBN 2-08-072235-2
+o FLA_EC    235  2006.04 ..... ISBN 2-08-072235-2
 } gfec0235       _?                           N
 - .oF.     N6    *GOUGELMANN StÇphane         Je suis d'ailleurs et autres rÇcits [Nouvelles fantastiques - 2] ˛2006
 : .oFK     N     _MERIMEE Prosper             Djoñmane ˛1873
@@ -2790,7 +2971,7 @@ o GFLA_EC   235  2006.04 ..... ISBN 2-08-072235-2
 : .oF.     N     _LOVECRAFT Howard P.         Je suis d'ailleurs ˛1926 The Outsider ˛Trad. RIVIERE Yves
 : .oF.     N     _BOUTET FrÇdÇric             Un fantìme ˛1898
 : .oF.     N     _DAUDET Alphonse             Wood'stown ˛1874
-o GFLA_EC   236  2006.xx ..... ISBN 2-08-072236-0
+o FLA_EC    236  2006.xx ..... ISBN 2-08-072236-0
 } gfec00236      _?                           N
 - .oF.     R     _JAMES Henry                 Le Tour d'Çcrou ˛1898 The Turn of the Screw ˛Trad. PAVANE Jean
 !--- -----  237  .... - La mouette, Anton Tchekhov
@@ -2823,17 +3004,17 @@ o GFLA_EC   236  2006.xx ..... ISBN 2-08-072236-0
 !--- -----  310  2007 - Le message, AndrÇe Chedid
 !--- -----  311  2007 - Trois contes philosophiques
 !--- -----  312  2007 - Toine et autres contes normands, Maupassant
-o GFLA_EC   313  2007.08 ..... ISBN 978-2-08-120290-0
+o FLA_EC    313  2007.08 ..... ISBN 978-2-08-120290-0
 } gfec0313       _?                           ?
 - .oF.     r     _LE FANU J. Sheridan         Carmilla [Le Dr. Hesselius] ˛1871 Carmilla ˛Trad. PAPY Jacques
 !--- -----  314  2007 - Le club des veufs noirs, Asimov
-o GFLA_EC   315  2007.05 ..... ISBN 978-2-08-120285-6
+o FLA_EC    315  2007.05 ..... ISBN 978-2-08-120285-6
 } gfec0315       _?                           ?
-+ GFLA_EC   315  2020.10 ..... ISBN 978-2-08-020516-2
++ FLA_EC    315  2020.10 ..... ISBN 978-2-08-020516-2
 } noimg          _?                           William Wallace Denslow
 !--- 125 x 178 mm - 224 pages - 3,90 euros
 - .oF.     R     _BAUM Frank Lyman            Le Magicien d'Oz [Le Pays d'Oz - 1] ˛1900 The Wonderful Wizard of Oz ˛Trad. METRAL Yvette
-o GFLA_EC   316  2007.05 ..... ISBN 978-2-08-120287-0
+o FLA_EC    316  2007.05 ..... ISBN 978-2-08-120287-0
 } gfec0316       _?                           N
 - .oF.    kN2    ****                         Nouvelles de fantasy - 1 ˛2002
 !--- *KLEFF Patrice
@@ -2849,30 +3030,32 @@ o GFLA_EC   316  2007.05 ..... ISBN 978-2-08-120287-0
 !--- -----  324  2008 - La grotte, Jean Anouilh
 !--- -----  325  2008 - Les fleurs du mal, Charles Baudelaire
 !--- -----  326  2008 - Afropean Soul et autres nouvelles, Leonora Miano
-o GFLA_EC   327  2008.03 ..... ISBN 978-2-08-120962-6
+o FLA_EC    327  2008.03 ..... ISBN 978-2-08-120962-6
 } gfec0327       _?                           ?
-+ GFLA_EC     ?  2012.xx ..... ISBN 978-2-08-127909-4
++ FLA_EC      ?  2012.xx ..... ISBN 978-2-08-127909-4
 } gfec0327rr12   _?                           ?
-+ GFLA_EC     ?  2017.10 ..... ISBN 978-2-08-141619-2
++ FLA_EC      ?  2017.10 ..... ISBN 978-2-08-141619-2
 } gfec2017_11    _?                           ?
++ FLA_EC      ?  2021.10 ..... ISBN 978-2-08-026229-5
+} gfec0327rr21   _Manchu                      ?
 - .oS.     R     _COLIN Fabrice               Projet oXatan ˛2002
 !--- -----  328  .... -
 !--- -----  329  2008 - Dom Juan, Moliäre
-o GFLA_EC   330  2008.05 ..... ISBN 978-2-08-121444-6
+o FLA_EC    330  2008.05 ..... ISBN 978-2-08-121444-6
 } gfec0330       _?                           ?
 !--- PrÇsentation, notes et dossier par FrÇdÇric Maget
-+ GFLA_EC     ?  2019.03 ..... ISBN 978-2-08-144487-4
++ FLA_EC      ?  2019.03 ..... ISBN 978-2-08-144487-4
 } gfec0330rr19   _?                           ?
 !--- PrÇsentation, notes et dossier par FrÇdÇric Maget; Çdition mise Ö jour par Fabien Clavel et Samuel Miloux
 - .oS.    kN2    _LANGELAAN George            La Mouche - Temps mort ˛2008
 ?: .o .     p     _MAGET FrÇdÇric              Introduction ˛2008
 : .o .     N     _LANGELAAN George            La Mouche ˛1957
 : .o .     r     _LANGELAAN George            Temps mort ˛1962
-o GFLA_EC   331  2008.08 ..... ISBN 978-2-08-121284-8
+o FLA_EC    331  2008.08 ..... ISBN 978-2-08-121284-8
 } gf_ec331       _?                           ?
-+ GFLA_EC     ?  2014.05 ..... ISBN 978-2-08-133653-7
++ FLA_EC      ?  2014.05 ..... ISBN 978-2-08-133653-7
 } gf_ec331rr14   _?                           ?
-+ GFLA_EC     ?  2017.02 ..... ISBN 978-2-08-140439-7
++ FLA_EC      ?  2017.02 ..... ISBN 978-2-08-140439-7
 !--- Nouvelle Çdition mise Ö jour par StÇphane DesprÇs
 !--- TBD contenu identique ?
 } gfec2017_03    _?                           ?
@@ -2885,7 +3068,7 @@ o GFLA_EC   331  2008.08 ..... ISBN 978-2-08-121284-8
 : .o .     N     _GRIPARI Pierre              La Sorciäre du placard aux balais ˛1967
 : .o .     N     _FRIOT Bernard               La Sorciäre amoureuse ˛1988
 : .o .     X     _DAHL Roald                  Les Vraies Sorciäres (extrait de : SacrÇes sorciäres) ˛1983 The Witches
-: .o .     X     _OVIDE                       MÇdÇe (extrait de : Les MÇtamorphoses) ˛?
+: .o .     X     _OVIDE                       MÇdÇe (extrait de : Les MÇtamorphoses) ˛? ?
 : .o .     N     _CLAVEL Bernard              Les Sorciäres de Pe§iscola ˛1975
 : .o .     N     _MONTELLE Edith              Le Balai volant ˛?
 : .o .     N     _GRIMM Jacob & Wilhelm       Yorinde et Yoringue ˛1812 Jorinde und Joringel
@@ -2899,7 +3082,7 @@ o GFLA_EC   331  2008.08 ..... ISBN 978-2-08-121284-8
 !--- -----  335  .... -
 !--- -----  336  .... -
 !--- -----  337  .... -
-o GFLA_EC   338  2009.01 ..... ISBN 978-2-08-120958-9
+o FLA_EC    338  2009.01 ..... ISBN 978-2-08-120958-9
 } gfec0338       _?                           ?
 !--- PrÇface de Patrice Kleff
 - .oY.     r     _HOBB Robin                  Retour au pays [L'Assassin royal] ˛2004 Homecoming ˛Trad. DAVID-MARESCOT VÇronique
@@ -2909,11 +3092,11 @@ o GFLA_EC   338  2009.01 ..... ISBN 978-2-08-120958-9
 !--- -----  342  .... -
 !--- -----  343  2009 - Harold et Maude, Colin Higgins
 !--- -----  344  .... -
-o GFLA_EC   345  2009.04 ..... ISBN 978-2-08-122469-8
+o FLA_EC    345  2009.04 ..... ISBN 978-2-08-122469-8
 } gfec0345       _?                           ?
-+ GFLA_EC     ?  2015.03 ..... ISBN 978-2-08-135778-5
++ FLA_EC      ?  2015.03 ..... ISBN 978-2-08-135778-5
 } gfec0345rr15   _?                           ?
-- .pIN    iA17   *DESTAING JÇrìme             RÇcits pour aujourd'hui - 17 fables et apologues contemporains ˛2009
+- .pIN    iAx    *DESTAING JÇrìme             RÇcits pour aujourd'hui - 17 fables et apologues contemporains ˛2009
 !--- I. MÇtamorphoses de fables
 !    AndrÇe Chedid, Fàtes et Lubies (1973)
 !        La Fourmi et la Cigale
@@ -2956,9 +3139,9 @@ o GFLA_EC   345  2009.04 ..... ISBN 978-2-08-122469-8
 !        La LÇgende de la peinture
 !--- -----  346  .... -
 !--- -----  347  .... -
-o GFLA_EC   348  2009.08 ..... ISBN 978-2-08-122585-5
+o FLA_EC    348  2009.08 ..... ISBN 978-2-08-122585-5
 } gfec0348       _?                           ?
-+ GFLA_EC     ?  2013.10 ..... ISBN 978-2-08-130817-6
++ FLA_EC      ?  2013.10 ..... ISBN 978-2-08-130817-6
 } gfec0002rr13   _?                           N
 !--- 143 pages
 - .oF.    _N3    _MERIMEE Prosper             La VÇnus d'Ille et autres contes fantastiques ˛2000
@@ -2971,9 +3154,9 @@ o GFLA_EC   348  2009.08 ..... ISBN 978-2-08-122585-5
 !--- -----  352  .... -
 !--- -----  353  .... -
 !--- -----  354  .... -
-o GFLA_EC   355  2010.03 ..... ISBN 978-2-08-121986-1
+o FLA_EC    355  2010.03 ..... ISBN 978-2-08-121986-1
 } gf_0355        _?                           N
-+ GFLA_EC     ?  2013.06 ..... ISBN 978-2-08-130315-7
++ FLA_EC      ?  2013.06 ..... ISBN 978-2-08-130315-7
 } gfec0355rr13   _?                           N
 - .oF.     A3    *DESPRES StÇphane            Contes de vampires ˛2010
 : .o .     N     _POLIDORI John-William       Le Vampire ˛1819 The Vampyre, a Tale by the Right Honourable Lord Byron
@@ -2982,21 +3165,21 @@ o GFLA_EC   355  2010.03 ..... ISBN 978-2-08-121986-1
 !--- -----  356  .... -
 !--- -----  357  .... -
 !--- -----  358  .... -
-o GFLA_EC   359  2010.04 ..... ISBN 978-2-08-121970-0
+o FLA_EC    359  2010.04 ..... ISBN 978-2-08-121970-0
 } gfec0359       _?                           N
-+ GFLA_EC     ?  2014.01 ..... ISBN 978-2-08-131487-0
++ FLA_EC      ?  2014.01 ..... ISBN 978-2-08-131487-0
 } gfec0359rr14   _?                           N
-+ GFLA_EC     ?  2018.03 ..... ISBN 978-2-08-140437-3
++ FLA_EC      ?  2018.03 ..... ISBN 978-2-08-140437-3
 } gfec0359rr18   _Laurent Rivelayque          ?
 - .oF.    kN8    _BUZZATI Dino                Nouvelles Çtranges et inquiÇtantes ˛2010
-: .oF.     N     _BUZZATI Dino                Le Monstre ˛? ? ˛Trad. GACHET Delphine
-: .oF.     N     _BUZZATI Dino                L'Influence des astres ˛? ? ˛Trad. GACHET Delphine
-: .oF.     N     _BUZZATI Dino                Lettre ennuyeuse ˛? ? ˛Trad. GACHET Delphine
-: .oF.     N     _BUZZATI Dino                Alias rue SÇsostris ˛? ? ˛Trad. GACHET Delphine
-: .oF.     N     _BUZZATI Dino                Chez le mÇdecin ˛? ? ˛Trad. GACHET Delphine
-: .oF.     N     _BUZZATI Dino                Quand descend l'ombre ˛? ? ˛Trad. GACHET Delphine
-: .oF.     N     _BUZZATI Dino                Une lettre d'amour ˛? ? ˛Trad. GACHET Delphine
-: .oF.     N     _BUZZATI Dino                Escorte personnelle ˛? ? ˛Trad. GACHET Delphine
+: .oF.     N     _BUZZATI Dino                Le Monstre ˛1946 Il mostro ˛Trad. GACHET Delphine
+: .oF.     N     _BUZZATI Dino                L'Influence des astres ˛1971 L'influsso degli astri ˛Trad. GACHET Delphine
+: .oF.     N     _BUZZATI Dino                Lettre ennuyeuse ˛1971 Lettera noiosa  ˛Trad. GACHET Delphine
+: .oF.     N     _BUZZATI Dino                Alias rue SÇsostris ˛1965 Alias in via Sesostri ˛Trad. GACHET Delphine
+: .oF.     N     _BUZZATI Dino                Chez le mÇdecin ˛1971 Dal medico ˛Trad. GACHET Delphine
+: .oF.     N     _BUZZATI Dino                Quand descend l'ombre ˛1939 Quando l'ombra scende ˛Trad. GACHET Delphine
+: .oF.     N     _BUZZATI Dino                Une lettre d'amour ˛1956 Una lettra d'amore ˛Trad. GACHET Delphine
+: .oF.     N     _BUZZATI Dino                Escorte personnelle ˛? Scorta Personale ˛Trad. GACHET Delphine
 !--- -----  360  .... - Autoportrait d'un reporter
 !--- -----  361  .... -
 !--- -----  362  .... - Les yeux secs, Arnaud Cathrine
@@ -3011,10 +3194,12 @@ o GFLA_EC   359  2010.04 ..... ISBN 978-2-08-121970-0
 !--- -----  371  .... -
 !--- -----  372  .... -
 !--- -----  373  2011 - Comment on meurt, Emile Zola
-o GFLA_EC   373  2011.05 ..... ISBN 978-2-08-125578-4
+o FLA_EC    373  2011.05 ..... ISBN 978-2-08-125578-4
 } gfec0373       _Marion Tigreat              ?
-+ GFLA_EC     ?  2017.08 ..... ISBN 978-2-08-141612-3
++ FLA_EC      ?  2017.08 ..... ISBN 978-2-08-141612-3
 } gfec2017_09    _?                           ?
++ FLA_EC      ?  2021.10 ..... ISBN 978-2-08-026228-8
+} gfec2021_04    _?                           ?
 - .oS.    kN5    _BORDAGE Pierre              Nouvelle vie <sup>TM</sup> et autres rÇcits ˛2011
 !--- *CLAVEL Fabien
 : .oS.     N     _BORDAGE Pierre              Nouvelle vie <sup>TM</sup> ˛2004
@@ -3025,19 +3210,22 @@ o GFLA_EC   373  2011.05 ..... ISBN 978-2-08-125578-4
 !------------------------
 !=== 2013
 !------------------------
-o GFLA_EC     ?  2013.xx ..... ISBN 978-2-08-129895-8
+o FLA_EC      ?  2013.xx ..... ISBN 978-2-08-129895-8
 } noimg          _?                           ?
++ FLA_EC      ?  2022.03 ..... ISBN 978-2-08-027684-1
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125x178 - 160 pages - 3,50 euros
+!--- texte intÇgram avec dossier de Patrice Kieff
 - .oS.     N     _VERNE Jules                 Un hivernage dans les glaces ˛1855
-!--- 2013
-o GFLA_EC     ?  2014.05 ..... ISBN 978-2-08-133654-4
+o FLA_EC      ?  2014.05 ..... ISBN 978-2-08-133654-4
 } gfeccremag     _?                           ?
 !--- prÇsentation et dossier Caecilia Pieri
 !--- Màme contenu que FÇes, ogres et lutins
-- .oM.    iA9    *PIERI Caecilia              CrÇatures magiques et contes merveilleux ((FÇes, ogres et lutins)) [Contes merveilleux - 2] ˛2005
+- .oM.    iAx    *PIERI Caecilia              CrÇatures magiques et contes merveilleux ((FÇes, ogres et lutins)) [Contes merveilleux - 2] ˛2005
 !------------------------
 !=== 2014
 !------------------------
-o GFLA_EC     ?  2014.08 ..... ISBN 978-2-08-131392-7
+o FLA_EC      ?  2014.08 ..... ISBN 978-2-08-131392-7
 } noimg          _?                           ?
 - .pI.     A7    ****                         Histoires de ceux qui oublient... ou pas ˛2014
 : .! .     N     _SCHMITT Eric-Emmanuel       Le Retour ˛?
@@ -3050,13 +3238,13 @@ o GFLA_EC     ?  2014.08 ..... ISBN 978-2-08-131392-7
 !------------------------
 !=== 2015
 !------------------------
-o GFLA_EC     ?  2015.04 ..... ISBN 978-2-08-134778-6
+o FLA_EC      ?  2015.04 ..... ISBN 978-2-08-134778-6
 } gfetclas042015 _Nicolas Duffaut             ?
 - .pF.     A8    ****                         La Peur et autres rÇcits ˛2015
 : .o .     N     _POE Edgar Allan             Le Portrait ovale ˛1842 The Oval Portrait
 : .o .     N     _MAUPASSANT Guy de           La Main ˛1883
 : .o .     N     _APOLLINAIRE Guillaume       La Disparition d'HonorÇ Subrac ˛1910
-: .o .     N     _BUZZATI Dino                Le Veston ensorcelÇ ˛1966 La giacca stregata
+: .o .     N     _BUZZATI Dino                Le Veston ensorcelÇ ˛1962 La giacca stregata
 : .o .     N     _MAUPASSANT Guy de           L'Ivrogne ˛1884
 : .? .     N     _NEMIROVSKY Iräne            La Peur ˛?
 : .o .     N     _BROWN Fredric               Cauchemar en jaune ˛1961 Nightmare in Yellow
@@ -3064,23 +3252,23 @@ o GFLA_EC     ?  2015.04 ..... ISBN 978-2-08-134778-6
 !------------------------
 !=== 2016
 !------------------------
-o GFLA_EC     ?  2016.06 ..... ISBN 978-2-08-128971-0
+o FLA_EC      ?  2016.06 ..... ISBN 978-2-08-128971-0
 } gfec2016_01    _Tofdru                      ?
 - .o .    iNx    _BURGER G. A.               &Aventures du baron de MÅnchhausen ˛1786 Abenteueur des berÅhmten Freiherrn von MÅnchhausen ˛Trad. GAUTIER ThÇophile
 &                _RASPE R.E.                  
-o GFLA_EC     ?  2016.08 ..... ISBN 978-2-08-137549-9
+o FLA_EC      ?  2016.08 ..... ISBN 978-2-08-137549-9
 } gfec2016_02    _Mr Xerty                    ?
-- .pF.    iA9    ****                         9 Histoires extraordinaires ˛2016
+- .pF.    iAx    ****                         9 Histoires extraordinaires ˛2016
 !--- Toute une annÇe au soleil
 !--- La Ville sous la neige
 !--- La Fille
 !--- La Ronde
 !--- Le salaire du sniper
 : .o .     N     _MATHESON Richard            L'habit fait l'homme ˛1951 Clothes Make the Man
-: .o .     N     _BUZZATI Dino                Le Veston ensorcelÇ ˛1966 La giacca stregata
+: .o .     N     _BUZZATI Dino                Le Veston ensorcelÇ ˛1962 La giacca stregata
 !--- La vÇritÇ sort-elle de la bouche des enfants?
 !--- Le croissant du trottoir
-o GFLA_EC     ?  2016.08 ..... ISBN 978-2-08-138514-6
+o FLA_EC      ?  2016.08 ..... ISBN 978-2-08-138514-6
 } gfec2016_03    _Tofdru                      ?
 !--- 160 pages
 !--- beaucoup d'extraits manifestement...
@@ -3090,14 +3278,16 @@ o GFLA_EC     ?  2016.08 ..... ISBN 978-2-08-138514-6
 !--- 2. Le Moyen Age et l'hÇroãsme des chevaliers
 !--- 3. L'êpoque moderne : entre hÇros et antihÇros
 !--- 4. L'êpoque contemporaine : le hÇros rÇinventÇ ?
-o GFLA_EC     ?  2016.10 ..... ISBN 978-2-08-138518-4
+o FLA_EC      ?  2016.10 ..... ISBN 978-2-08-138518-4
 } gfec2016_04    _?                           ?
 - .oF.    iAx    ****                         Le Monstre aux limites de l'humain ˛2016
 !------------------------
 !=== 2017
 !------------------------
-o GFLA_EC     ?  2017.06 ..... ISBN 978-2-08-139575-6
+o FLA_EC      ?  2017.06 ..... ISBN 978-2-08-139575-6
 } gfec2017_05    _?                           ?
++ FLA_EC      ?  2021.10 ..... ISBN 978-2-08-026377-3
+} gfec2021_05    _?                           ?
 - .oS.     A5    *CLAVEL Fabien              &Ràver le progräs - 5 nouvelles d'anticipation ˛2017
 &                *PERIER Isabelle             
 : .oS.     N     _WELLS Herbert George        Le Nouvel AccÇlÇrateur ˛1901 The New Accelerator
@@ -3108,12 +3298,12 @@ o GFLA_EC     ?  2017.06 ..... ISBN 978-2-08-139575-6
 !------------------------
 !=== 2018
 !------------------------
-o GFLA_EC     ?  2018.04 ..... ISBN 978-2-08-142207-0
+o FLA_EC      ?  2018.04 ..... ISBN 978-2-08-142207-0
 } gfec2018_1     _?                           ?
 !--- Traductions d'Antoine Galland
 !--- Anthos Patrice Kleff
 - .oN.     Ax    _--- (anonyme)               Ali Baba, le Pàcheur et autres contes [Les Mille et Une Nuits] ˛2018
-!: .o .  23 N     _--- (anonyme)               [Le Sacrifice de Scheherazade] ˛?
+: .o .  23 N     _--- (anonyme)               Le Sacrifice de Scheherazade [Les Mille et Une Nuits] ˛?
 : .o .  29 N     _--- (anonyme)               Histoire du pàcheur [Les Mille et Une Nuits] ˛?
 : .o .  40 N     _--- (anonyme)               Histoire du roi grec et du mÇdecin Douban [Les Mille et Une Nuits] ˛?
 : .o .  48 N     _--- (anonyme)               Histoire du mari et du perroquet [Les Mille et Une Nuits] ˛?
@@ -3121,21 +3311,43 @@ o GFLA_EC     ?  2018.04 ..... ISBN 978-2-08-142207-0
 : .o .  65 N     _--- (anonyme)               Histoire du petit bossu [Les Mille et Une Nuits] ˛? ? ˛Trad. GALLAND
 : .o .  78 N     _--- (anonyme)               Histoire de Sidi Nouman [Les Mille et Une Nuits] ˛? ? ˛Trad. GALLAND
 : .o .  99 N     _--- (anonyme)               Histoire d'Ali Baba et de quarante voleurs exterminÇs par une esclave [Les Mille et Une Nuits] ˛?
-!: .o . 132 N     _--- (anonyme)               [Mille et une nuits s'Çtaient ÇcoulÇes...] ˛?
+: .o . 132 N     _--- (anonyme)               Mille et une nuits s'Çtaient ÇcoulÇes... [Les Mille et Une Nuits] ˛?
 !------------------------
 !=== 2019
 !------------------------
-o GFLA_EC     ?  2019.08 ..... ISBN 978-2-08-148986-8
+o FLA_EC      ?  2019.08 ..... ISBN 978-2-08-148986-8
 } noimg          _?                           ?
 !--- 352 pages
-- .oS.     R     _VERNE Jules                 Voyage au centre de la Terre ˛1864-1967
++ FLA_EC      ?  2021.08 ..... ISBN 978-2-08-025465-8
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125x178 - 352 pages
+- .oS.     R     _VERNE Jules                 Voyage au centre de la Terre ˛1864-1867
+!------------------------
+!=== 2021
+!------------------------
+o FLA_EC      ?  2021.01 ..... ISBN 978-2-08-152149-0
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125 x 178 - 192 pages
+- .oF.     R     _ORWELL George               La Ferme des animaux ˛1945 Animal Farm ˛Trad. MEYER Clothilde
+o FLA_EC      ?  2021.10 ..... ISBN 978-2-08-024653-0
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125x178 - 160 pages
+- .oS.     X     _VERNE Jules                 Vingt mille lieues sous les mers (Extraits) ˛1870
+!------------------------
+!=== 2022
+!------------------------
+o FLA_EC      ?  2022.05 ..... ISBN 978-2-08-027829-6
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125x177 - 416 pages - 3 euros
+!--- Dossier de Marguerite Chotard
+- .oF.     R     _BALZAC HonorÇ de            La Peau de chagrin ˛1831
 
 !-----------------------------------------------------------------------------
-_ FLA_ETO Flammarion, Coll. Etonnantiss!mes
+_ FLA_ETO Flammarion - Etonnantiss!mes
 !-----------------------------------------------------------------------------
 o FLA_ETO     ?  2012.04 ..... ISBN 978-2-08-125004-8
 } noimg          _?                           ?
-- .o .     T     _GRUMBERT Jean-Claude        Marie des grenouilles ˛2003
+- .o .     T     _GRUMBERG Jean-Claude        Marie des grenouilles ˛2003
 o FLA_ETO     ?  2012.06 ..... ISBN 978-2-08-124997-4
 } noimg          _?                           ?
 - .oY.     R     _CLAVEL Fabien               La Derniäre OdyssÇe [La Derniäre OdyssÇe - 1] ˛2007
@@ -3150,13 +3362,13 @@ o FLA_ETO     ?  2014.03 ..... ISBN 978-2-08-131385-9
 - .oF.     R     _MALZIEU Mathias             La MÇcanique du coeur ˛2007
 o FLA_ETO     ?  2015.05 ..... ISBN 978-2-08-128979-6
 } noimg          _?                           ?
-- .o .     T     _GRUMBERT Jean-Claude        Le Petit Chaperon Uf ˛2005
+- .o .     T     _GRUMBERG Jean-Claude        Le Petit Chaperon Uf ˛2005
 o FLA_ETO     ?  2018.06 ..... ISBN 978-2-08-141780-9
 } noimg          _?                           ?
-- .o .     T     _GRUMBERT Jean-Claude        Pinok et Barbie ˛2004
+- .o .     T     _GRUMBERG Jean-Claude        Pinok et Barbie ˛2004
 
 !-----------------------------------------------------------------------------
-_ FLATEXT Flammarion, Coll. textes
+_ FLATEXT Flammarion - Textes
 !-----------------------------------------------------------------------------
 !--- Collection Textes
 !-----------------------------------------------------------------------------
@@ -3165,7 +3377,7 @@ o FLATEXT     ?  1987.xx ..... ISBN .-.....-...-.
 - .o .     R     _MARGAT Claude               MÇnagerie ˛1987
 
 !-----------------------------------------------------------------------------
-_ FLAGDOR Flammarion, Coll. L'age d'or
+_ FLAGDOR Flammarion - L'age d'or
 !-----------------------------------------------------------------------------
 !--- Collection L'age d'or, dirigÇe par Henri Parisot
 !-----------------------------------------------------------------------------
@@ -3224,12 +3436,13 @@ o FLAGDOR     5i 1966.xx ..... ISBN -
 - .o .    iPx    *PARISOT Henri               Les Poätes hallucinÇs  - Anthologie de la poÇsie fantastique ˛1966
 o FLAGDOR     6i 1967.xx ..... ISBN -
 } flamm_agedor6a _?                           ?
-!--- texte franáais et prÇsentation par Armel Guerne - 533+506p
 !--- Traduction de : Kinder-und HausmÑrchen
-- .oF.    iNx    _GRIMM Jacob & Wilhelm       Les Contes - Volume 1 ((Contes de Grimm)) ˛1967
+!--- Texte franáais et prÇsentation par Armel Guerne - 533 + 506p
+!--- Les noms des personnages sont systÇmatiquement franáisÇs
+- .oM.    iNx    _GRIMM Jacob & Wilhelm       Les Contes - Volume 1 ((Contes de Grimm)) ˛1967
 o FLAGDOR     6i 1967.xx ..... ISBN -
 } flamm_agedor6b _?                           ?
-- .oF.    iNx    _GRIMM Jacob & Wilhelm       Les Contes - Volume 2 ((Contes de Grimm)) ˛1967
+- .oM.    iNx    _GRIMM Jacob & Wilhelm       Les Contes - Volume 2 ((Contes de Grimm)) ˛1967
 o FLAGDOR     7i 1968.xx ..... ISBN -
 } flamm_agedor07 _?                           ?
 - .oF.     R     _CARROLL Lewis               Alice au pays des merveilles [Alice - 1] ˛1865 Alice's Adventures in Wonderland / Alice in Wonderland ˛Trad. PARISOT Henri
@@ -3238,7 +3451,7 @@ o FLAGDOR     8i 1968.xx ..... ISBN -
 - .oF.    kN3    _MACHEN Arthur               Le Cachet noir ˛1968
 : .o .     p     _J.P.                        Avant-Propos ˛1968
 !--- Jacques PARSONS, pseudo de AndrÇ Gilliard
-: .o .     N     _MACHEN Arthur               Le Cachet noir ˛1895 The Black Seal ˛Trad. PARSONS Jacques
+: .o .     N     _MACHEN Arthur               Le Cachet noir ˛1895 The Novel of the Black Seal ˛Trad. PARSONS Jacques
 : .o .     N     _MACHEN Arthur               La Lumiäre intÇrieure ˛1894 The Inmost Light ˛Trad. PARSONS Jacques
 : .o .     N     _MACHEN Arthur               Histoire de la poudre blanche ˛1895 The Novel of the White Powder ˛Trad. PARSONS Jacques
 o FLAGDOR     9i 1969.xx ..... ISBN -
@@ -3248,7 +3461,7 @@ o FLAGDOR     9i 1969.xx ..... ISBN -
 : .oF.     N     _CARROLL Lewis               La Chasse au Snark ˛1876 The Hunting of the Snark ˛Trad. PARISOT Henri
 o FLAGDOR    10i 1970.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     RN    _GAUTIER ThÇophile           Spirite/La morte amoureuse ˛1970
+- .o .     RN    _GAUTIER ThÇophile           Spirite, suivi de La Morte amoureuse ˛1970
 : .o .     R     _GAUTIER ThÇophile           Spirite ˛1865
 : .o .     N     _GAUTIER ThÇophile           La Morte amoureuse ˛1836
 !--- 11 - Fanferlise et autres contes, Clemens Brentano, trad. de l'allemand par Henri Thomas
@@ -3283,7 +3496,7 @@ o FLAGDOR    17i 1976.xx ..... ISBN 2-08-060851-7
 !--- 19 - Trouver sans chercher - Gisäle Prassinos - 1976
 o FLAGDOR    20i 1977.xx ..... ISBN 2-08-064022-4
 } noimg          _?                           ?
-- .o .    iN3    _HAWTHORNE Nathaniel         L'Enterrement de Roger Malvin et autres contes Çtranges ˛1977
+- .o .     N3    _HAWTHORNE Nathaniel         L'Enterrement de Roger Malvin et autres contes Çtranges ˛1977
 : .o .     N     _HAWTHORNE Nathaniel         L'Enterrement de Roger Malvin ˛1832 Roger Malvin's Burial ˛Trad. PARISOT Henri
 : .o .     N     _HAWTHORNE Nathaniel         La Tache de naissance ˛1843 The Birthmark ˛Trad. PARISOT Henri
 : .o .     N     _HAWTHORNE Nathaniel         L'Artiste du beau ˛1844 The Artist of the Beautiful ˛Trad. PARISOT Henri
@@ -3294,7 +3507,7 @@ o FLAGDOR     ?  1986.xx ..... ISBN 2-08-064866-7
 - .o .     R     _ABEILLE Jacques             Le Veilleur du jour [Le Cycle des contrÇes - 2] ˛1986
 
 !-----------------------------------------------------------------------------
-_ FLAIMAG Flammarion, Imagine
+_ FLAIMAG Flammarion - Imagine
 !-----------------------------------------------------------------------------
 !--- Collection Imagine
 !---  dirigÇe par Jacques CHAMBON - dÇbut Mars 1999
@@ -3302,7 +3515,7 @@ _ FLAIMAG Flammarion, Imagine
 o FLAIMAG     1i 1999.xx ..... ISBN 2-08-067732-2
 } ima001         _?                           N
 - .oF.     N19   _MATHESON Richard            Derriäre l'Çcran [Nouvelles de Richard Matheson - 1] ˛1999
-!--- ˛Trad. COLLON HÇläne & CHAMBON Jacques
+!--- Trad. COLLON HÇläne & CHAMBON Jacques
 : .o .     N     _MATHESON Richard            NÇ de l'homme et de la femme ˛1950 Born of Man and Woman
 : .o .     N     _MATHESON Richard            La Troisiäme Ö partir du Soleil ˛1950 Third from the Sun
 : .o .     N     _MATHESON Richard            Quand le veilleur s'endort ˛1950 The Waker Dreams / When the Waker Sleeps
@@ -3394,7 +3607,7 @@ o FLAIMAG    12i 2000.03 ..... ISBN 2-08-067741-1
 : .o .     N     _MATHESON Richard            Une tripotÇe de donzelles ˛1956 A Flourish of Strumpetts
 o FLAIMAG    13i 2000.04 ..... ISBN 2-08-067823-X
 } ima013         _?                           N
-- .oF.     R     _SIMMONS Dan                 Les Forbans de Cuba ˛1999 The Crook Factory ˛Trad. BREQUE Jean-Daniel
+- .x .     R     _SIMMONS Dan                 Les Forbans de Cuba ˛1999 The Crook Factory ˛Trad. BREQUE Jean-Daniel
 o FLAIMAG    14i 2000.04 ..... ISBN 2-08-067824-8
 } ima014         _?                           N
 - .oS.     R     _RESNICK Mike                Sur la piste de la licorne ˛1987 Stalking the Unicorn, a Fable of Tonight ˛Trad. CHAMBON Jean-Marc
@@ -3406,49 +3619,53 @@ o FLAIMAG    16i 2000.05 ..... ISBN 2-08-067881-7
 - .oY.     R     _SADOUL Jacques              Chroniques des dragons oubliÇs [Shaggartha - 1][Le Domaine de R.] ˛2000
 o FLAIMAG    17i 2000.09 ..... ISBN 2-08-067939-2
 } ima017         _?                           N
-- .oS.     A20   *SILVERBERG Robert           Destination 3001 ˛2000 Destination 3001
-!---       N     _CHAMBON Jacques             Introduction ˛2000
-!---       N     _SILVERBERG Robert           Introduction ˛2000
-: .o .     N     _AYERDHAL                    Notre Terre ˛2000
-: .o .     N     _BENFORD Gregory             Onde de choc ˛2000 The Hyfrogen Wall
-: .o .     N     _CARD Orson Scott            Angles ˛2000 Angles
-: .o .     N     _CURVAL Philippe             On est bien seul dans l'univers ˛2000
-: .o .     N     _DENIS Sylvie                La Balade du singe ˛2000
-: .o .     N     _DUNYACH Jean-Claude         Les Nuits inutiles ˛2000
-: .o .     N     _HABER Karen                 L'êpineux Probläme de la tàte Ö Grand-Märe ˛2000 The Unfortunate Problem With Grandma's Head
-: .o .     N     _HALDEMAN Joe                Quatre courts romans ˛2000 Four Short Movies
-: .o .     N     _HOUSSIN Joâl                Jolie petite fille ˛2000
-: .o .     N     _LEHMAN Serge                Le Temps des Olympiens ˛2000
-: .o .     N     _PRIEST Christopher          Retour au foyer ˛2000 The Discharge
-: .o .     N     _WAGNER Roland C.            Marche et cräve ˛2000
-: .o .     N     _EVANGELISTI Valerio         Paradis ˛2000 Paradice
-: .o .     N     _ESCHBACH Andreas            Le Semeur de cauchemar ˛2000 Der Alptraummann
-: .o .     N     _McAULEY Paul J.             Van Gogh Ö la fin du monde ˛2000 Searching for Van Gogh at The
+- .oS.    kA20   *SILVERBERG Robert          &Destination 3001 ˛2000
+&                _CHAMBON Jacques             
+: .o .     p     _SILVERBERG Robert          &Introduction ˛2000
+&                _CHAMBON Jacques             
+: .o .     N     _HALDEMAN Joe                Quatre courts romans ˛2000 Four Short Novels
+: .o .     N     _EVANGELISTI Valerio         Paradi ˛2000 Paradice
 : .o .     N     _KRESS Nancy                 Notre märe qui dansez ˛2000 My Mother, Dancing
-: .o .     N     _RICCIARDELLO Franco         L'Hiver de Turing ˛2000 L'inverno di Turing
+: .o .     N     _LEHMAN Serge                Le Temps des Olympiens ˛2000
+: .o .     N     _ESCHBACH Andreas            Le Semeur de cauchemar ˛2000 Der Alptraummann
 : .o .     N     _SILVERBERG Robert           Millenium Express ˛2000 The Millenium Express
-: .o .     N     _SIMMONS Dan                 Le 9 av ˛2000 The Ninth of Av
+: .o .     N     _AYERDHAL                    Notre Terre ˛2000
+: .o .     N     _HABER Karen                 L'êpineux Probläme de la tàte Ö Grand-Märe ˛2000 The Unfortunate Problem of Grandmother's Head
+: .o .     N     _CARD Orson Scott            Angles ˛2000 Angles
+: .o .     N     _PRIEST Christopher          Retour au foyer ˛2000 The Discharge
+: .o .     N     _RICCIARDELLO Franco         L'Hiver de Turing ˛2000 L'inverno di Turing
+: .o .     N     _HOUSSIN Joâl                Jolie petite fille ˛2000
+: .o .     N     _McAULEY Paul J.             Van Gogh Ö la fin du monde ˛2000 Searching for Van Gogh at the World
+: .o .     N     _DUNYACH Jean-Claude         Les Nuits inutiles ˛2000
+: .o .     N     _WAGNER Roland C.            Marche et cräve ˛2000
+: .o .     N     _BENFORD Gregory             Onde de choc ˛2000 The Hydrogen Wall
+: .o .     N     _DENIS Sylvie                La Balade du singe ˛2000
 : .o .     N     _SPINRAD Norman              EntitÇs ˛2000 Entities
+: .o .     N     _CURVAL Philippe             On est bien seul dans l'univers ˛2000
+: .o .     N     _SIMMONS Dan                 Le 9 av ˛2000 The Ninth of Av
 o FLAIMAG    18i 2000.10 ..... ISBN 2-08-067872-8
 } ima018         _?                           N
 - .oF.     R     _CARROLL Jonathan            Le Bñcher des immortels ˛1999 The Marriage of Sticks ˛Trad. COLLON HÇläne
 o FLAIMAG    19i 2000.11 ..... ISBN 2-08-067742-X
 } ima019         _?                           N
-- .oF.     N16   _MATHESON Richard            Le Pays de l'ombre [Nouvelles de Richard Matheson - 4] ˛2000
-: .o .     N     _MATHESON Richard            Le Jour du jugement ˛1953 The Last Day
-: .o .     N     _MATHESON Richard            L'Homme des jours de fàte ˛1956 The Holiday Man
+- .oF.     N19   _MATHESON Richard            Le Pays de l'ombre [Nouvelles de Richard Matheson - 4] ˛2000
+: .o .     N     _MATHESON Richard            L'IndÇracinable ˛1956 Steel
 : .o .     N     _MATHESON Richard            J'veux voir le Päre Noâl ˛1957 I'll Make It Look Good / A Visit to Santa Claus
 : .o .     N     _MATHESON Richard            Les Enfants de Noah ˛1957 The Children of Noah
-: .o .     N     _MATHESON Richard            Au bord du prÇcipice ˛1958 The Edge
-: .o .     N     _MATHESON Richard            Le Distributeur ˛1958 The Distributor
+: .o .     N     _MATHESON Richard            L'Homme des jours de fàte ˛1956 The Holiday Man
 : .o .     N     _MATHESON Richard            Lemmings ˛1958 Lemmings
-: .o .     N     _MATHESON Richard            Date limite ˛1959 Deadline
-: .o .     N     _MATHESON Richard            Les vampires n'existent pas ˛1959 No such Thing as a Vampire
+: .o .     N     _MATHESON Richard            Jours disparus ˛1957 Old Haunts
+: .o .     N     _MATHESON Richard            Le Distributeur ˛1958 The Distributor
+: .o .     N     _MATHESON Richard            Au bord du prÇcipice ˛1958 The Edge
+: .o .     N     _MATHESON Richard            Une surprise de taille ˛1959 Big Surprise / What Was in the Box ˛Trad. GIRARD Michel
 : .o .     N     _MATHESON Richard            L'Horreur rampante ˛1959 The Creeping Terror
+: .o .     N     _MATHESON Richard            Date limite ˛1959 Deadline
 : .o .     N     _MATHESON Richard            Mantage ˛1959 Mantage
-: .o .     N     _MATHESON Richard            Le Pays de l'ombre ˛1960 From Shadowed Places
+: .o .     N     _MATHESON Richard            Les vampires n'existent pas ˛1959 No such Thing as a Vampire
 : .o .     N     _MATHESON Richard            Les Grillons ˛1960 Crickets
+: .o .     N     _MATHESON Richard            Le Jour du jugement ˛1960 Day of Reckoning
 : .o .     N     _MATHESON Richard            Premier anniversaire ˛1960 First Anniversary
+: .o .     N     _MATHESON Richard            Le Pays de l'ombre ˛1960 From Shadowed Places
 : .o .     N     _MATHESON Richard            Cauchemar Ö six mille mätres ˛1961 Nightmare at 20 000 Feet
 : .o .     N     _MATHESON Richard            Le Langage des mains ˛1962 Finger Prints
 o FLAIMAG    20i 2001.01 ..... ISBN 2-08-067891-4
@@ -3507,7 +3724,7 @@ o FLAIMAG    25i 2001.05 ..... ISBN 2-08-067986-4
 } ima025         _?                           N
 - .oS.     N12   _ELLISON Harlan              La Machine aux yeux bleus ˛2001
 : .o .     p     _CHAMBON Jacques             Dites bonjour Ö Harlan Ellison ˛2001
-: .o .     N     _ELLISON Harlan              La Machine aux yeux bleus ˛1967 Prettie Maggie Moneyeyes
+: .o .     N     _ELLISON Harlan              La Machine aux yeux bleus ˛1967 Pretty Maggie Moneyeyes
 : .o .     N     _ELLISON Harlan              Mal de solitude ˛1964 Lonelyache
 : .o .     N     _ELLISON Harlan              La Plainte des chiens battus ˛1973 The Whimper of Whipped Dogs
 : .o .     N     _ELLISON Harlan              Le Septiäme Jour ˛1975 Shatterday
@@ -3563,12 +3780,12 @@ o FLAIMAG    31i 2002.02 ..... ISBN 2-08-068196-6
 o FLAIMAG    32i 2002.03 ..... ISBN 2-08-068235-0
 } ima032         _?                           N
 - .oS.    _N41   _SILVERBERG Robert           Le Chemin de la nuit (1953-1970) [Nouvelles au fil du temps - 1] ˛2002
-: .oS.     N     _SILVERBERG Robert           Le Chemin de la nuit ˛1958 Road to Night Fall
+: .oS.     N     _SILVERBERG Robert           Le Chemin de la nuit ˛1958 Road to Nightfall
 : .oS.     N     _SILVERBERG Robert           Operation MÇduse ˛1954 Gorgon Planet
 : .oS.     N     _SILVERBERG Robert           La Colonie silencieuse ˛1954 The Silent Colony
 : .oS.     N     _SILVERBERG Robert           Absolument inflexible ˛1956 Absolutely Inflexible
 : .oS.     N     _SILVERBERG Robert           Le Circuit Macauley ˛1956 The Macauley Circuit
-: .oS.     N     _SILVERBERG Robert           Les Chants de l'ÇtÇ ˛1956 The Song of Summer
+: .oS.     N     _SILVERBERG Robert           Les Chants de l'ÇtÇ ˛1956 The Songs of Summer
 : .oS.     N     _SILVERBERG Robert           Alaree ˛1958 Alaree
 : .oS.     N     _SILVERBERG Robert           L'Affaire des antiquitÇs ˛1957 The Artifact Business
 : .oS.     N     _SILVERBERG Robert           Les Collecteurs ˛1956 Collecting Team
@@ -3582,17 +3799,17 @@ o FLAIMAG    32i 2002.03 ..... ISBN 2-08-068235-0
 : .oS.     N     _SILVERBERG Robert           Les DÇviateurs ˛1959 The Outbreeders
 : .oS.     N     _SILVERBERG Robert           L'Homme qui n'oubliait jamais ˛1958 The Man who Never Forgot
 : .oS.     N     _SILVERBERG Robert           Il Çtait une vieille femme... ˛1958 There Was an Old Woman
-: .oS.     N     _SILVERBERG Robert           Le Chancelier de fer ˛1958 The Iron Chancelor
+: .oS.     N     _SILVERBERG Robert           Le Chancelier de fer ˛1958 The Iron Chancellor
 : .oS.     N     _SILVERBERG Robert           Ozymandias ˛1958 Ozymandias
-: .oS.     N     _SILVERBERG Robert           Voir l'homme invisible ˛1963 To See Invisible Man
+: .oS.     N     _SILVERBERG Robert           Voir l'homme invisible ˛1963 To See the Invisible Man
 : .oS.     N     _SILVERBERG Robert           Les Colporteurs de souffrance ˛1963 The Pain Peddlers
 : .oS.     N     _SILVERBERG Robert           Le Sixiäme Palais ˛1964 The Sixth Palace
-: .oS.     N     _SILVERBERG Robert           Voisins ˛1964 Neighbour
+: .oS.     N     _SILVERBERG Robert           Voisins ˛1964 Neighbor
 : .oS.     N     _SILVERBERG Robert           Comme des mouches ˛1967 Flies
 : .oS.     N     _SILVERBERG Robert           Carrefour des mondes ˛1966 Halfway House
 : .oS.     N     _SILVERBERG Robert           L'êtoile noire ˛1968 To the Dark Star
-: .oS.     N     _SILVERBERG Robert           Passagers ˛1969 Passengers
-: .oS.     N     _SILVERBERG Robert           L'êpouse 91 ˛1967 Bride Ninety One
+: .oS.     N     _SILVERBERG Robert           Passagers ˛1968 Passengers
+: .oS.     N     _SILVERBERG Robert           L'êpouse 91 ˛1967 Bride Ninety-One / Bride 91
 : .oS.     N     _SILVERBERG Robert           Je vous 1000110 ˛1968 Going Down Smooth
 : .oS.     N     _SILVERBERG Robert           Les Arbres qui avaient des dents ˛1968 The Fangs of the Trees
 : .oS.     N     _SILVERBERG Robert           Les Amours d'Ismaâl ˛1970 Ismael in Love
@@ -3633,7 +3850,7 @@ o FLAIMAG    33i 2002.04 ..... ISBN 2-08-068154-0
 : .o .     N     _MATHESON Richard C.         Le Film ˛1997 The Film
 : .o .     N     _MATHESON Richard C.         Apräs la pluie... ˛1986 The Good Always Comes Back
 : .o .     N     _MATHESON Richard C.         Manifeste ˛2000 Manifesto
-: .o .     N     _MATHESON Richard C.         L'Homme idÇal ˛1984 Mr. Right
+: .x .     N     _MATHESON Richard C.         L'Homme idÇal ˛1984 Mr. Right
 : .o .     N     _MATHESON Richard C.         Chirurgien Ö mains nues ˛1994 Visit to a Psychic Surgeon
 : .o .     N     _MATHESON Richard C.         Rupture ˛1987 Break Up
 o FLAIMAG    34i 2002.05 ..... ISBN 2-08-068264-4
@@ -3652,13 +3869,13 @@ o FLAIMAG    36i 2002.09 ..... ISBN 2-08-068253-9
 : .o .     N     _SILVERBERG Robert           Des mondes Ö profusion ˛1973 Many Mansions ˛Trad. CHAMBON Jacques
 : .o .     N     _SILVERBERG Robert           Bonnes nouvelles du Vatican ˛1971 Good News from the Vatican ˛Trad. HUPP Philippe
 : .o .     N     _SILVERBERG Robert           Le Collectif ˛1973 In the Group ˛Trad. CHAMBON Jacques
-: .o .     N     _SILVERBERG Robert           La Fàte de Saint Dionysos ˛1975 The Feast of St Dyonisius ˛Trad. FERRY Bernard
+: .o .     N     _SILVERBERG Robert           La Fàte de Saint Dionysos ˛1973 The Feast of St Dyonisius ˛Trad. FERRY Bernard
 : .o .     N     _SILVERBERG Robert           Bon pour le service des organes ˛1972 Caught in the Organ Draft ˛Trad. PEMERLE Didier
 : .o .     N     _SILVERBERG Robert           (moi + n, moi - n) ˛1972 Now + N, Now - N ˛Trad. CHAMBON Jacques
 : .o .     N     _SILVERBERG Robert           Caliban ˛1972 Caliban ˛Trad. CHAMBON Jacques
 : .o .     N     _SILVERBERG Robert           Traverser la ville ˛1973 Getting Across ˛Trad. CHAMBON Jacques
-: .o .     N     _SILVERBERG Robert           Breckenridge et le continuum ˛1972 Breckenridge and the Continuum ˛Trad. FERRY Bernard
-: .o .     N     _SILVERBERG Robert           La Maison des doubles esprits ˛1973 In the House of the Double Minds ˛Trad. FERRY Bernard
+: .o .     N     _SILVERBERG Robert           Breckenridge et le continuum ˛1973 Breckenridge and the Continuum ˛Trad. FERRY Bernard
+: .o .     N     _SILVERBERG Robert           La Maison des doubles esprits ˛1973 In the House of Double Minds ˛Trad. FERRY Bernard
 : .o .     N     _SILVERBERG Robert           Le PanthÇon de la Science Fiction ˛1973 The Science Fiction Hall of Fame ˛Trad. REY Pierre K.
 : .o .     N     _SILVERBERG Robert           Le Vent et la pluie ˛1973 The Wind and the Rain ˛Trad. CHAMBON Jacques
 : .o .     N     _SILVERBERG Robert           Une mer de visages ˛1974 A Sea of Faces ˛Trad. CHAMBON Jacques
@@ -3670,9 +3887,9 @@ o FLAIMAG    36i 2002.09 ..... ISBN 2-08-068253-9
 : .o .     N     _SILVERBERG Robert           Dans les crocs de l'entropie ˛1971 In Entropy's Jaws ˛Trad. PLANCHAT Henry-Luc
 : .o .     N     _SILVERBERG Robert           Manuscrit trouvÇ dans une machine temporelle abandonnÇe ˛1971 Ms. Found in an Abandoned Time Machine ˛Trad. CHAMBON Jacques
 : .o .     N     _SILVERBERG Robert           La Saison des mutants ˛1973 The Mutant Season ˛Trad. CHAMBON Jacques
-: .o .     N     _SILVERBERG Robert           La Route morte ˛1973 This Is the Way ˛Trad. FERRY Bernard
+: .o .     N     _SILVERBERG Robert           La Route morte ˛1973 This Is the Road ˛Trad. FERRY Bernard
 : .o .     N     _SILVERBERG Robert           Notre Dame des Sauropodes ˛1980 Our Lady of the Sauropods ˛Trad. CHAMBON Jacques
-: .o .     N     _SILVERBERG Robert           En attendant le cataclysme ˛1980 Waiting for the Earthquake ˛Trad. CHAMBON Jacques
+: .o .     N     _SILVERBERG Robert           En attendant le cataclysme ˛1981 Waiting for the Earthquake ˛Trad. CHAMBON Jacques
 : .o .     N     _SILVERBERG Robert           Les HabituÇs ˛1981 The Regulars ˛Trad. REY Pierre K.
 : .o .     N     _SILVERBERG Robert           L'ApogÇe de la courbe en cloche ˛1982 The Far Side of the Bell-shaped Curve ˛Trad. REY Pierre K.
 o FLAIMAG    37i 2002.10 ..... ISBN 2-08-068160-5
@@ -3682,7 +3899,7 @@ o FLAIMAG    37i 2002.10 ..... ISBN 2-08-068160-5
 : .o .     N     _MATHESON Richard C.         Les Redoutables ˛1982 The Dark Ones
 : .o .     N     _MATHESON Richard C.         L'Homme qui achetait par correspondance ˛2000 The Mail-Order Man
 : .o .     N     _MATHESON Richard C.         Agresseur ˛1987 Mugger
-: .o .     N     _MATHESON Richard C.         Je suis toujours lÖ ˛1989 I'm Allways Here
+: .o .     N     _MATHESON Richard C.         Je suis toujours lÖ ˛1989 I'm Always Here
 : .o .     N     _MATHESON Richard C.         Une chaleur d'enfer ˛1987 Hell
 : .o .     N     _MATHESON Richard C.         Yeux ˛1989 Eyes
 : .o .     N     _MATHESON Richard C.         Obsoläte ˛1987 Obsolete
@@ -3738,7 +3955,7 @@ o FLAIMAG    42i 2003.03 ..... ISBN 2-08-068254-7
 : .o .     N     _SILVERBERG Robert           Le Probläme de Sempoanga ˛1982 The Trouble With Sempoanga ˛Trad. DURASTANTI Pierre-Paul
 : .o .     N     _SILVERBERG Robert           L'Amant de Jennifer ˛1982 Jennifer's Lover ˛Trad. CHAMBON Jacques
 : .o .     N     _SILVERBERG Robert           Pas notre fräre ˛1982 Not Our Brother ˛Trad. REY Pierre K.
-: .o .     N     _SILVERBERG Robert           Une aiguille dans une meute de temps ˛1983 Needle in a Timestack ˛Trad. REY Pierre K.
+: .o .     N     _SILVERBERG Robert           Une aiguille dans une meule de temps ˛1983 Needle in a Timestack ˛Trad. REY Pierre K.
 : .o .     N     _SILVERBERG Robert           La Substitution ˛1982 The Changeling ˛Trad. CHAMBON Jacques
 : .o .     N     _SILVERBERG Robert           Le Chemin du retour ˛1983 Homefaring ˛Trad. FARGEOT Claire
 : .o .     N     _SILVERBERG Robert           Basileus ˛1983 Basileus ˛Trad. COLLON HÇläne
@@ -3821,7 +4038,7 @@ o FLAIMAG    49i 2004.09 ..... ISBN 2-08-068456-6
 } ima049         _KAIN                        N
 - .oS.    _N25   _BRADBURY Ray                Les Garáons de l'ÇtÇ ˛2002 One More for the Road ˛Trad. COLLON HÇläne
 : .oS.     N     _BRADBURY Ray                La RentrÇe ˛2002 First Day
-: .oS.     N     _BRADBURY Ray                Greffe de cour ˛1981 Heart Transplant
+: .oS.     N     _BRADBURY Ray                Greffe de coeur ˛1981 Heart Transplant
 : .oS.     N     _BRADBURY Ray                Donnant donnant ˛2000 Quid Pro Quo
 : .oS.     N     _BRADBURY Ray                Apräs le bal ˛2002 After the Ball
 : .oS.     N     _BRADBURY Ray                In memoriam ˛2002 In Memoriam
@@ -3891,7 +4108,7 @@ o FLAIMAG    51i 2004.10 ..... ISBN 2-08-068609-7
 : .oS.     N     _BARRETT Neal Jr.            Les Guerres des rhidos ˛2001 Rhido Wars
 
 !-----------------------------------------------------------------------------
-_ FLAQUAR Flammarion, Quark noir
+_ FLAQUAR Flammarion - Quark noir
 !-----------------------------------------------------------------------------
 !--- Collection Quark noir
 !---  perso rÇcurrents. Polard limite SF
@@ -3935,7 +4152,7 @@ o FLAQUAR    10i 2000.xx ..... ISBN 2-08-067917-1
 ?- .? .     R     _RIOU Jean-Michel            Rendez-vous chez Scylla ˛2000
 
 !-----------------------------------------------------------------------------
-_ FLATRIB Flammarion, Coll. Tribal
+_ FLATRIB Flammarion - Tribal
 !-----------------------------------------------------------------------------
 !--- Collection Tribal
 !-----------------------------------------------------------------------------
@@ -3943,11 +4160,11 @@ o FLATRIB     1  1999.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + FLATRIB     1  2006.xx ..... ISBN .-.....-...-.
 } noimg          _THIDET StÇphane             ?
-- .o .     R     _HONAKER Michel              Intelligence building ˛1999
 !--- Reprise remaniÇe de "Building", 1987
+- .o .     R     _HONAKER Michel              Intelligence building ˛1999
 o FLATRIB     2  1999.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _PELOT Pierre                La Passante ˛1999
+- .! .     R     _PELOT Pierre                La Passante ˛1999
 o FLATRIB     3  1999.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _HONAKER Michel              Le Chant du Vorkeul [Le Vorkul - 1] ˛1985
@@ -3980,7 +4197,8 @@ o FLATRIB    11  2000.xx ..... ISBN .-.....-...-.
 - .o .     R     _COHEN-SCALI Sarah           Vue sur crime ˛2000
 o FLATRIB     ?  2000.10 ..... ISBN 2-08-161347-6
 } noimg          _?                           ?
-- .oT.    iN6    _COHEN-SCALI Sarah           Mauvais sang ˛2000
+!--- TBD vÇrifier contenu 6 nouvelles
+- .oT.    iNx    _COHEN-SCALI Sarah           Mauvais sang ˛2000
 ?: .oT.     N     _COHEN-SCALI Sarah           Mauvais plan ˛2000
 ?: .oT.     N     _COHEN-SCALI Sarah           The end ˛2000
 ?: .oT.     N     _COHEN-SCALI Sarah           La Maison ˛2000
@@ -4010,7 +4228,7 @@ o FLATRIB     ?  2007.03 ..... ISBN 978-2-08-120185-9
 : .oS.     N     _MARTINIGOL Danielle         Le Petit Lapin tondu ˛2007
 : .oS.     N     _WOLLHEIM Donald A.          Aquella ˛1942 The Planet Called Aquella
 : .oS.     N     _DISCH Thomas M.             Les Oiseaux ˛1973 The Birds
-: .oS.     N     _HOFFMAN Lee                 Dans le silence du soir ˛1983 Soundless Evening
+: .oS.     N     _HOFFMAN Lee                 Dans le silence du soir ˛1972 Soundless Evening
 : .oS.     N     _BLOCH Robert                Le jour se läve ˛1958 Daybroke
 : .oS.     N     _LAMBERT Christophe          Homo jardinus ˛2007
 : .oS.     N     _BORDAGE Pierre              Dans le regard des miens ˛2007
@@ -4022,7 +4240,7 @@ o FLATRIB     ?  2008.03 ..... ISBN 978-2-08-120591-8
 - .oF.     R     _HONAKER Michel              Chasseur noir [Chasseur noir - 1] ˛2008
 o FLATRIB     ?  2008.03 ..... ISBN 978-2-08-120578-9
 } noimg          _?                           ?
-- .oT.    iN8    _COHEN-SCALI Sarah           Mauvais dÇlires ˛2008
+- .oT.    iNx    _COHEN-SCALI Sarah           Mauvais dÇlires ˛2008
 o FLATRIB     ?  2008.10 ..... ISBN 978-2-08-120576-5
 } noimg          _?                           ?
 + FLATRIB     ?  2012.05 ..... ISBN 978-2-08-126816-6
@@ -4058,7 +4276,7 @@ o FLATRIB     ?  2014.02 ..... ISBN 978-2-08-130865-7
 
 
 !-----------------------------------------------------------------------------
-_ FLACHAP Flammarion, Bib. du Chat PerchÇ
+_ FLACHAP Flammarion - Bib. du Chat PerchÇ
 !-----------------------------------------------------------------------------
 !--- ISSN 0182-2934
 !-----------------------------------------------------------------------------
@@ -4095,17 +4313,17 @@ o FLACHAP     ?  1984.xx ..... ISBN 2-08-091764-1
 ?- .oY.     R     _LEWIS C.S.                  Le Cheval et son Çcuyer [Les Chroniques de Narnia - 3] ˛1954 The Horse and His Boy ˛Trad. ?
 
 !-----------------------------------------------------------------------------
-_ FLACP   Flammarion, Castor Poche
-_ FLACROM Flammarion, Castor Roman
-_ FLACPJu Flammarion, Castor Poche Junior
-_ FLACPSe Flammarion, Castor Poche Senior
-_ FLACPFa Flammarion, Castor Poche Fantastique
-_ FLACPSF Flammarion, Castor Poche SF
-_ FLACPAv Flammarion, Castor Poche Aventure
-_ FLAPC   Flammarion, Päre Castor
-_ FLAPCFL Flammarion, Päre Castor, Faim de Loup
-_ FLA_APC Flammarion, Les P'tits albums du Päre Castor
-_ FLAC_MI Castor-Flammarion, Coll. Mon Ile
+_ FLACP   Flammarion - Castor Poche
+_ FLACROM Flammarion - Castor Roman
+_ FLACPJu Flammarion - Castor Poche Junior
+_ FLACPSe Flammarion - Castor Poche Senior
+_ FLACPFa Flammarion - Castor Poche Fantastique
+_ FLACPSF Flammarion - Castor Poche SF
+_ FLACPAv Flammarion - Castor Poche Aventure
+_ FLAPC   Flammarion - Päre Castor
+_ FLAPCFL Flammarion - Päre Castor - Faim de Loup
+_ FLA_APC Flammarion - Les P'tits albums du Päre Castor
+_ FLAC_MI Castor-Flammarion - Mon Ile
 !-----------------------------------------------------------------------------
 !--- Collection Castor Poche :
 !---            Castor Poche Junior
@@ -4219,7 +4437,7 @@ o FLAPC       ?  1989.xx ..... ISBN 2-08-160749-2
 } noimg          _KLINTING Lars               ?
 !--- 88 pages - abrÇgÇe
 - .o .     R     _LAGERLOF Selma              Le Merveilleux Voyage de Nils Holgersson Ö travers la Suäde (Çdition abrÇgÇe) ˛1907 Nils Holgerssons underbara resa genom Sverige ˛Trad. SEGOL Agneta & BRICK-AIDA Pascale
-o FLAPC       ?  2015.xx ..... ISBN  978-2-9168-9958-9
+o FLAPC       ?  2015.xx ..... ISBN 978-2-9168-9958-9
 } noimg          _KLINTING Lars               ?
 !--- 58 pages - AdaptÇ 6+
 - .o .     R     _LAGERLOF Selma              Le Merveilleux Voyage de Nils Holgersson (Çdition adaptÇe) ˛1907 Nils Holgerssons underbara resa genom Sverige ˛Adapt. LATYK Olivier
@@ -4243,7 +4461,7 @@ o FLACPJu   360  1992.xx ..... ISBN 2-08-..-...-.
 - .o .     R     _GRAVEL Geary                Hook ˛1991 Hook
 o FLACPSe   361  1992.xx ..... ISBN 2-08-..-...-.
 } noimg          _?                           ?
-- .o .    iNx    _POUCHKINE Alexandre         La Dame de pique ˛1992
+- .oF.    iNx    _POUCHKINE Alexandre         La Dame de pique ˛1992
 : .o .     N     _POUCHKINE Alexandre         La Dame de pique ˛1834 Pikovaãa dama
 o FLACPSe   365  1992.xx ..... ISBN 2-08-..-...-.
 } noimg          _?                           ?
@@ -4389,9 +4607,9 @@ o FLACPSF   645  1998.xx ..... ISBN 2-08-164330-8
 &                _LEFEVRE Laurence            
 : .oS.     N     _KORB Liliane               &Les Çclaireurs ˛1998
 &                _LEFEVRE Laurence            
-o FLACPSe   652  1998.xx ..... ISBN 2-08-..-...-.
+o FLACPSe   652  1998.xx ..... ISBN 2-08-164388-X
 } noimg          _?                           ?
-- .o .     R     _WINTREBERT Joâlle           L'OcÇanide ˛1996
+- .o .     R     _WINTREBERT Joâlle           L'OcÇanide ˛1992
 o FLACPSe   653  1998.xx ..... ISBN 2-08-..-...-.
 } noimg          _?                           ?
 - .o .     R     _BARRAQUE Gilles             Cosmopollen ˛1998
@@ -4420,7 +4638,7 @@ o FLACPFa   694  1999.xx ..... ISBN 2-08-..-...-.
 - .o .     R     _MURAIL Lorris               Le Petit Cirque des horreurs ˛1999
 o FLACPSF   696  1999.xx ..... ISBN 2-08-..-...-.
 } noimg          _?                           ?
-- .o .     R     _KLEIN Robin                 Au milieu de la galaxie, tournez Ö gauche ˛1985 Halfway Across the Galaxy And Turn Left
+- .o .     R     _KLEIN Robin                 Au milieu de la galaxie, tournez Ö gauche ˛1985 Halfway Across the Galaxy and Turn Left
 o FLACP       ?  2000.xx ..... ISBN 2-08-164789-3
 } noimg          _?                           ?
 - .oF.    _N13   _RACHMUHL Franáoise          13 contes et rÇcits d'Halloween ˛2000
@@ -4546,7 +4764,7 @@ o FLACPJu  1013  2005.xx ..... ISBN 2-08-163139-3
 : .o .     N     _CALMET Augustin             Des nouvelles de l'autre monde ˛1751
 : .o .     N     _NERVAL GÇrard de            Le ChÉteau du diable ˛?
 !--- Idem "Le monstre vert" ?
-: .o .     N     _POE Edgar Allan             Le Masque de la mort rouge ˛1842 The Mask of the Red Death ˛Trad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             Le Masque de la mort rouge ˛1842 The Masque of the Red Death ˛Trad. BAUDELAIRE Charles
 : .o .     N     _MAUPASSANT Guy de           Qui sait ? ˛1890
 : .o .     N     _APOLLINAIRE Guillaume       La Disparition d'HonorÇ Subrac ˛1910
 : .o .     N     _BRADBURY Ray                Le Coquillage ˛1944 The Sea Shell ˛Trad. CHAMBON Jacques
@@ -4601,7 +4819,8 @@ o FLACP       ?  2011.06 ..... ISBN 978-2-08-124707-9
 
 o FLAPCFL     ?  1997.xx ..... ISBN 2-08-160602-X
 } noimg          _?                           ?
-- .o .     R     _GRIMAUD Michel              L'Enfant de la mer ˛1991
+!--- 57 pages
+- .o .     r     _GRIMAUD Michel              L'Enfant de la mer ˛1985
 
 o FLAC_MI     ?  1996.xx ..... ISBN 2-08-164908-X
 } noimg          _?                           ?

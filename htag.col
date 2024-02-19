@@ -1,7 +1,7 @@
 !-----------------------------------------------------------------------------
 _ HTAGED  H.Tag Editions
-_ FARALON Ed. Faralonn
-_ FARALOJ Ed. Faralonn, Jeunesse
+_ FARALON Faralonn
+_ FARALOJ Faralonn - Faralonn [jeunesse]
 !-----------------------------------------------------------------------------
 !--- 4 associÇs
 !--- ThÇräse Le Jeune - Directrice Çditoriale
@@ -37,7 +37,7 @@ o HTAGED      ?  2017.09 ..... ISBN 979-10-96987-03-0
 !------------------------
 o HTAGED      ?  2018.02 ..... ISBN 979-10-96987-02-3
 } noimg          _?                           ?
-- .oF.     R     _SAINT-VAL Fabien            L'Immortel [Walter Bishop - 1] ˛2018
+- .oF.     R     _SAINT-VAL Fabien            Walter Bishop 1692 - L'Immortel [Witch Side - 1] ˛2018
 o HTAGED      ?  2018.04 ..... ISBN 979-10-96987-07-8
 } noimg          _?                           ?
 - .oY.     R     _GRANT Lobo                  Chroniques d'espÇrance ˛2018
@@ -61,34 +61,33 @@ o HTAGED      ?  2019.xx ..... ISBN 979-10-96987-20-7
 !--- Au moins partiellement hors genres ?
 !--- "anthologie rÇunissant 15 auteurs autours de 14 nouvelles fantastiques sur le thäme du corbeau" d'apräs HTAG
 !--- Thäme : "nouvelle noire sur le thäme du corbeau avec un message positif"
-- .pFP     A14   ****                         Analectes du corbeau ˛2019
-?: .o .     N     _BOUCHONNET VÇronique        Hector ˛2019
-?: .o .     N     _BACHET VÇronique            Hector ˛2019
-!--- VÇronique Bouchonnet-Bachet
-?: .o .     N     _LIYTA                       Aucorbe ˛2019
-?!--- Pseu de Carole MARTIN
-?: .o .     N     _PANARISI Raphaâl            Un tout nouveau job ˛2019
-?: .o .     N     _SOUCHON Christine           L'Eldelweiss noir ˛2019
-?: .o .     N     _GRANT Lobo                  Coeur de corbeau ˛2019
-: .o .     N     _CHANEL ClÇmence             La Voix de la Terre ˛2019
-?: .o .     N     _RIGER Emilie                Dix-sept ˛2019
+!--- Plusieurs erreurs en 4iäme de couv... ou alors maquette...
+!--- TBD ou "VÇronique Bouchonnet" ou "VÇronique Bouchonnet-Bachet" ?
+!--- Liyta = Pseu de Carole MARTIN
 !--- Autre signature Emilie Collins - Facebook Emilie Riger Collins
-?: .o .     N     _RUIZ MARTIN David           Comme un appel ˛2019
-?: .o .     N     _RUIZ David                  Comme un appel ˛2019
-?: .o .     N     _FENRYCK David               Mort Ö l'arrivÇ d'un corbeau voyageur ˛2019
-?: .o .     N     _JUDAS Aaron                 Croa ˛2019
-?: .o .     N     _PHILIPPE RÇgine             L'AnnÇe du corbeau ˛2019
-?: .o .     N     _MASSON Mireille             Le Monde de Jorel ˛2019
-?!--- Et pas MASSON Michel
-?: .o .     N     _GRIMALDI Claudia            Un temps Ö freux au QuÇbec ˛2019
-?: .o .     N     _NICOSIA Marie              &Le Rayonnement des ombres ˛2019
-?&                _HAMADA Inäs                 
+!--- Et pas MASSON Mireille et non Michel
+- .pFP     A14   ****                         Analectes du corbeau ˛2019
+: .? .     N     _BACHET VÇronique            Hector ˛2019
+: .? .     N     _LIYTA                       Aucorbe ˛2019
+: .? .     N     _PANARISI Raphaâl            Un tout nouveau job ˛2019
+: .o .     N     _SOUCHON Christine           L'Eldelweiss noir ˛2019
+: .o .     N     _GRANT Lobo                  Coeur de corbeau ˛2019
+: .o .     N     _CHANEL ClÇmence             La Voix de la Terre ˛2019
+: .? .     N     _RIGER Emilie                Dix-sept ˛2019
+: .? .     N     _RUIZ MARTIN David           Comme un appel ˛2019
+: .o .     N     _FENRYCK David               Mort Ö l'arrivÇ d'un corbeau voyageur ˛2019
+: .o .     N     _JUDAS Aaron                 Croa ˛2019
+: .o .     N     _PHILIPPE RÇgine             L'AnnÇe du corbeau ˛2019
+: .? .     N     _MASSON Mireille             Le Monde de Jorel ˛2019
+: .? .     N     _GRIMALDI Claudia            Un temps Ö freux au QuÇbec ˛2019
+: .? .     N     _NICOSIA Marie              &Le Rayonnement des ombres ˛2019
+&  ?             _HAMADA Inäs                 
 o HTAGED      ?  2019.01 ..... ISBN 979-10-96987-22-1
 } noimg          _?                           ?
 - .oS.     R     _CITERNE JÇrìme              Le Cube perdu [Yabrir Service - 1] ˛2017
 o HTAGED      ?  2019.01 ..... ISBN 979-10-96987-21-4
 } noimg          _?                           ?
-- .oF.     R     _VIAL-BONACCI Eric           Le Monde de l'autre cìtÇ de l'air ˛2019
+- .oF.     R     _VIAL-BONACCI Eric           Le Monde de l'autre cìtÇ de l'air [Le Monde de l'autre cìtÇ de l'air - 1] ˛2019
 o HTAGED      ?  2019.01 ..... ISBN 979-10-96987-19-1
 } noimg          _?                           ?
 - .o .     R     _GRANT Lobo                  La Cinquiäme Saison ˛2019
@@ -116,9 +115,13 @@ o HTAGED      ?  2019.03 ..... ISBN 979-10-96987-29-0
 o HTAGED      ?  2019.03 ..... ISBN 979-10-96987-30-6
 } noimg          _?                           ?
 - .oS.     R     _LEROUX Yann                 La CitÇ des grimpeurs ˛2019
+o FARALON     ?  2022.11 ..... ISBN 978-2-38131-132-6
+} noimg          _SF Cover                    ?
+!--- YA - GF - 130 x 210 - 278 pages
+- .oS.     R     _LEROUX Yann                 La CitÇ des grimpeurs ˛2019
 o HTAGED      ?  2019.03 ..... ISBN 979-10-96987-28-3
 } noimg          _?                           ?
-- .oY.    iN10   _GRANT Lobo                  Les ContrÇes de l'imaginaire ˛2019
+- .oI.    iNx    _GRANT Lobo                  Les ContrÇes de l'imaginaire ˛2017
 : .o .     N     _GRANT Lobo                  L'Union des 5 ˛2017
 : .oY.     N     _GRANT Lobo                  GOB8 ˛2017
 : .o .     N     _GRANT Lobo                  Premier Ége ˛2017
@@ -145,13 +148,13 @@ o HTAGED      ?  2019.04 ..... ISBN 979-10-96987-36-8
 o HTAGED      ?  2019.05 ..... ISBN 979-10-96987-38-2
 } noimg          _?                           ?
 !--- 310 pages
-- .oF.     R     _SIROT FrÇdÇric              Les Chroniques de Badenweiler ˛2019
+- .oF.     R     _SIROT FrÇdÇric              LÇgendes [Les Chroniques de Badenweiler - 1] ˛2019
 o HTAGED      ?  2019.05 ..... ISBN 979-10-96987-37-5
 } noimg          _?                           ?
 - .o .     R     _PESCHARD Edouard            Arthur et le dragon de BrocÇliande [Les Enfants du continent perdu - 2] ˛2017
 
 !-----------------------------------------------------------------------------
-! FARALON Ed. Faralonn
+! FARALON Faralonn
 !-----------------------------------------------------------------------------
 !------------------------
 !=== 2019
@@ -162,17 +165,21 @@ o FARALON     ?  2019.06 ..... ISBN 979-10-96987-44-3
 &                _MARCOUX Robin               
 o FARALON     ?  2019.06 ..... ISBN 979-10-96987-45-0
 } noimg          _?                           ?
++ FARALON     ?  2022.11 ..... ISBN 978-2-38131-157-9
+} noimg          _SF Cover                    ?
+!--- YA - MF - 130 x 210 - 228 pages
 - .oS.     R     _CITERNE JÇrìme              Le Rouleau de Sumer [Athanatos - 1] ˛2019
 o FARALON     ?  2019.07 ..... ISBN 979-10-96987-46-7
 } noimg          _?                           ?
-- .oS.     R     _ESSARD Manuel               Moskava [Pour l'Empire ! - 1] ˛2019
+- .oS.     R     _ESSARD Manuel               Moskava [Pour l'empire ! - 1] ˛2019
 o FARALON     ?  2019.07 ..... ISBN 979-10-96987-48-1
 } noimg          _?                           ?
 - .oS.     R     _BREMENT Floriane           &Tensions [The Project - 1] ˛2019
 &                _DARMOCHOD May               
 o FARALON     ?  2019.08 ..... ISBN 979-10-96987-40-5
 } noimg          _?                           ?
-- .oF.     R     _GOURBEAULT-PETRUS Danielle  Esclarmonde et les dÇvoreurs de lumiäre [Chroniques des sept lunes - 1] ˛2019
+!--- ? - 112 pages
+- .oF.     r     _GOURBEAULT-PETRUS Danielle  Esclarmonde et les dÇvoreurs de lumiäre [Chroniques des sept lunes - 1] ˛2019
 o FARALON     ?  2019.xx ..... ISBN 979-10-96987-42-9
 } noimg          _?                           GÇromine Richard
 - .oY.     R     _PANARISI Raphaâl            Les Mille et Une Nuits de PÇpin Pern ˛2018
@@ -206,20 +213,33 @@ o FARALON     ?  2019.11 ..... ISBN 979-10-96987-56-6
 o FARALON     ?  2019.12 ..... ISBN 979-10-96987-58-0
 } noimg          _?                           ?
 - .oS.     R     _GUYOT Magali                Exil [Les Chroniques de la CitÇ - 2] ˛2019
+o FARALON     ?  2019.12 ..... ISBN 979-10-96987-61-0
+} noimg          _SF Cover                    ?
+!--- GF - 148 x 210 - 484 pages - 25,00 euros
+- .oF.     R     _KOCHMANN Joseph             Mute [Trilogie des singes de la bàtise - 2] ˛2019
 !------------------------
 !=== 2020
 !------------------------
 o FARALON     ?  2020.01 ..... ISBN 979-10-96987-63-4
 } noimg          _SF Cover                    ?
 !--- GF - 288 pages - 16,90 euros
++ FARALON     ?  2022.11 ..... ISBN 978-2-38131-158-6
+} noimg          _SF Cover                    ?
+!--- YA - MF - 130 x 210 - 230 pages
 - .oF.     R     _CITERNE JÇrìme              Le Rouleau du Nil [Athanatos - 2] ˛2020
 o FARALON     ?  2020.02 ..... ISBN 978-2-38131-006-0
 } noimg          _Dan Mirica / Freepik        ?
 !--- GF - 148 x 210 mm - 314 pages - 17,90 euros
++ FARALON     ?  2022.12 ..... ISBN 978-2-38131-137-1
+} noimg          _SF Cover                    ?
+!--- GF - 130 x 210 - 210 pages
 - .oF.     R     _TOUZET Alexandra            L'Air [Le Refuge des hÇritiers - 1] ˛2016
 o FARALON     ?  2020.02 ..... ISBN 978-2-38131-007-7
 } noimg          _Dan Mirica / Freepik        ?
 !--- GF - 328 pages - 17,90 euros
++ FARALON     ?  2022.12 ..... ISBN 978-2-38131-138-8
+} noimg          _SF Cover                    ?
+!--- GF - 130 x 210 - 232 pages
 - .oF.     R     _TOUZET Alexandra            L'Eau [Le Refuge des hÇritiers - 2] ˛2017
 o FARALON     ?  2020.02 ..... ISBN 978-2-38131-008-4
 } noimg          _SF Cover                    ?
@@ -228,7 +248,7 @@ o FARALON     ?  2020.02 ..... ISBN 978-2-38131-008-4
 o FARALON     ?  2020.02 ..... ISBN 978-2-38131-011-4
 } noimg          _SF Cover                    ?
 !--- GF - 148 x 210 mm - 358 pages - 17,90 euros
-- .oF.    iN10   _CHEVALIER SM                Mìlne - Les Cicatrices infernales ˛2020
+- .oF.    iNx    _CHEVALIER SM                Mìlne - Les Cicatrices infernales ˛2020
 o FARALON     ?  2020.03 ..... ISBN 978-2-38131-019-0
 } noimg          _SF Cover                    ?
 !--- GF - 544 pages - 25,00 euros
@@ -240,14 +260,19 @@ o FARALON     ?  2020.03 ..... ISBN 978-2-38131-012-1
 o FARALON     ?  2020.03 ..... ISBN 978-2-38131-014-5
 } noimg          _SF Cover                    ?
 !--- GF - 524 pages - 25,00 euros
-- .oF.     R     _KAHEL Caroline              La MalÇdiction de Blackstone [Le Retour de la Dame Blanche - 1] ˛2019
+- .oF.     R     _KAHEL Caroline              Le Retour de la Dame Blanche [La MalÇdiction de Blackstone - 1] ˛2019
 o FARALON     ?  2020.06 ..... ISBN 978-2-38131-023-7
 } noimg          _Philippe Jozelon            ?
 !--- GF - 25,00 euros
++ FARALON     ?  2022.11 ..... ISBN 978-2-38131-161-6
+} noimg          _Philippe Jozelon            ?
+!--- YA - GF - 130 x 210 - 296 pages
 - .oF.     R     _LEGRAND Geoffrey            Le Seigneur de la branche [Osukateã - 1] ˛2020
 o FARALON     ?  2020.06 ..... ISBN 978-2-38131-025-1
 } noimg          _Philippe Jozelon            ?
-!--- GF - 412 pages - 24,00 euros
+!--- YA - GF - 130 x 210 - 412 pages - 24,00 euros
++ FARALON     ?  2022.11 ..... ISBN 978-2-38131-162-3
+} noimg          _Philippe Jozelon            ?
 - .oF.     R     _LEGRAND Geoffrey            Les Chevaliers de la nouvelle alliance [Osukateã - 2] ˛2020
 o FARALON     ?  2020.06 ..... ISBN 978-2-38131-021-3
 } noimg          _SF Cover                    ?
@@ -277,7 +302,7 @@ o FARALON     ?  2020.09 ..... ISBN 978-2-38131-036-7
 o FARALON     ?  2020.09 ..... ISBN 978-2-38131-034-3
 } noimg          _SF Cover                    ?
 !--- GF - 332 pages - 20,50 euros
-- .oF.     R     _BLACK Jo-Riley              MÇmoires de Thirgoths - La Menace Hykxi ˛2020
+- .oF.     R     _RILEY-BLACK Jo              La Menace Hykxi [MÇmoires de Thirgoths - 1] ˛2020
 o FARALOJ     ?  2020.10 ..... ISBN 978-2-38131-038-1
 } noimg          _Julien Bringer Deik         ?
 !--- Jeunesse - GF - 82 pages - 11,50 euros
@@ -285,11 +310,11 @@ o FARALOJ     ?  2020.10 ..... ISBN 978-2-38131-038-1
 o FARALOJ     ?  2020.10 ..... ISBN 978-2-38131-040-4
 } noimg          _SF Cover                    ?
 !--- Jeunesse - GF - 80 pages - 11,50 euros
-- .oF.    iN4    _VIAL-BONACCI Eric           Les MystÇrieuses Aventures de Tim et Lou ˛2020
+- .oF.    iNx    _VIAL-BONACCI Eric           Les MystÇrieuses Aventures de Tim et Lou ˛2020
 o FARALON     ?  2020.11 ..... ISBN 978-2-38131-042-8
 } noimg          _SF Cover                    ?
 !--- GF - 448 pages - 25,00 euros
-- .oF.     R     _KOCHMANN Joseph             Blind ˛2020
+- .oF.     R     _KOCHMANN Joseph             Blind [Trilogie des singes de la bàtise - 1] ˛2020
 o FARALON     ?  2020.11 ..... ISBN 978-2-38131-043-5
 } noimg          _SF Cover                    ?
 !--- GF - 21,00 euros
@@ -302,6 +327,10 @@ o FARALON     ?  2020.11 ..... ISBN 978-2-38131-039-8
 } noimg          _SF Cover                    ?
 !--- GF - 240 pages - 17,00 euros
 - .oS.     R     _LEROUX Yann                 Le Retour interdit [Christophe Colomb - 1] ˛2020
+o FARALON     ?  2022.11 ..... ISBN 978-2-38131-155-5
+} noimg          _SF Cover                    ?
+!--- YA - GF - 130 x 210 - 246 pages - 14,80 euros
+- .oS.     R     _LEROUX Yann                 Christophe Colomb [Christophe Colomb - 1] ˛2020
 o FARALON     ?  2020.11 ..... ISBN 978-2-38131-041-1
 } noimg          _SF Cover                    ?
 !--- GF - 230 euros - 17,00 euros
@@ -326,13 +355,139 @@ o FARALON     ?  2020.12 ..... ISBN 978-2-38131-049-7
 o FARALON     ?  2020.12 ..... ISBN 978-2-38131-046-6
 } noimg          _SF Cover                    ?
 !--- GF - 378 pages - 24,50 euros
++ FARALON     ?  2022.11 ..... ISBN 978-2-38131-159-3
+} noimg          _SF Cover                    ?
+!--- YA - MF - 130 x 210 - 288 pages
 - .oF.     R     _CITERNE JÇrìme              Le Rouleau Ionien [Athanatos - 3] ˛2020
 o FARALON     ?  2020.12 ..... ISBN 978-2-38131-044-2
 } noimg          _SF Cover                    ?
 !--- GF - 246 pages - 18,50 euros
 - .oF.     R     _THEAUX Nathalie            &Les Pyramides de Visoko [Arpenteurs de la source - 1] ˛2020
 &                _OLEV Sacha                  
-
+!------------------------
+!=== 2021
+!------------------------
+o FARALON     ?  2021.02 ..... ISBN 978-2-38131-054-1
+} noimg          _SF Cover                    ?
+!--- ? - 130x200 - 132 pages
+- .o .     r     _GOURBEAULT-PETRUS Danielle  Esclarmonde et le nectar d'Çveil [Chroniques des sept lunes - 2] ˛2021
+o FARALON     ?  2021.02 ..... ISBN 978-2-38131-052-7
+} noimg          _SF Cover                    ?
+!--- ? - 130x200 - 174 pages
+- .o .     R     _CHOTTEAU Evelyne            Le Chant des Dracals [Le Bracelet de Pouvoir - 1] ˛2021
+o FARALON     ?  2021.02 ..... ISBN 978-2-38131-053-4
+} noimg          _SF Cover                    ?
+!--- ? - 130x200 - 370 pages
+- .o .     R     _BATIGNE RÇmy                Le Roi et ses haches [Les Enfants de Platin - 1] ˛2021
+o FARALON     ?  2021.03 ..... ISBN 978-2-38131-066-4
+} noimg          _SF Cover                    ?
+!--- ? - 150x210 - 486 pages
+- .oS.     R     _GODEFROY Fred               L'EntitÇ [Nefilim, Chroniques contemporaines - 1] ˛2021
+o FARALON     ?  2021.03 ..... ISBN 978-2-38131-074-9
+} noimg          _SF Cover                    ?
+!--- GF - 150 x 210 - 492 pages
+- .o .     R     _KAHEL Caroline              Le Secret du dragon [La MalÇdiction de Blackstone - 2] ˛2021
+o FARALON     ?  2021.04 ..... ISBN 978-2-38131-075-6
+} noimg          _SF Cover                    ?
+!--- ? - 150x210 - 246 pages
+- .oS.     R     _LE NAOUR Pierre             Voyage vers le Futur ˛2021
+o FARALON     ?  2021.05 ..... ISBN 978-2-38131-077-0
+} noimg          _Philippe Jozelon            ?
+!--- GF - 150x210 - 474 pages
+- .o .     R     _LEGRAND Geoffrey            L'äre du feu [Osukateã - 3] ˛2021
+o FARALON     ?  2021.06 ..... ISBN 978-2-38131-087-9
+} noimg          _SF Cover                    ?
+!--- GF - 150x210 - 332 pages
+- .oPF     R     _KOCHMANN Joseph             Deaf [Trilogie des singes de la bàtise - 3] ˛2021
+o FARALON     ?  2021.06 ..... ISBN 978-2-38131-089-3
+} noimg          _Dan Mirica / Freepik        ?
+!--- GF - 150x210 - 268 pages
++ FARALON     ?  2022.12 ..... ISBN 978-2-38131-139-5
+} noimg          _SF Cover                    ?
+!--- YA - MF - 148 x 210 - 246 pages
+- .o .     R     _TOUZET Alexandra            Le Feu [Le Refuge des hÇritiers - 3] ˛2021
+o FARALON     ?  2021.09 ..... ISBN 978-2-38131-090-9
+} noimg          _SF Cover                    ?
+!--- GF - 148x210 - 300 pages
+- .oS.     R     _FORD Devon C.               Survie [Depuis ce jour - 1] ˛2016 Survival
+o FARALON     ?  2021.09 ..... ISBN 978-2-38131-091-6
+} noimg          _SF Cover                    ?
+!--- MF - 133x203 - 288 pages
+- .o .     R     _RILEY-BLACK Jo              La Vengeance [MÇmoires de Thirgoths - 2] ˛2021
+o FARALON     ?  2021.09 ..... ISBN 978-2-38131-092-3
+} noimg          _SF Cover                    ?
+!--- MF - 130x203 - 374 pages
++ FARALON     ?  2022.11 ..... ISBN 978-2-38131-160-9
+} noimg          _SF Cover                    ?
+!--- YA - GF - 148 x 210 - 296 pages
+- .o .     R     _CITERNE JÇrìme              Le Rouleau punique [Athanatos - 4] ˛2021
+o FARALOJ     ?  2021.09 ..... ISBN 978-2-38131-097-8
+} noimg          _SF Cover                    ?
+!--- MF - 170x240 - 66 pages
+- .o .     r     _SOUCHON Christine           Le Monde d'Aionios ˛2021
+o FARALOJ     ?  2021.10 ..... ISBN 978-2-38131-094-7
+} noimg          _SF Cover                    ?
+!--- Jeunesse - MF - 133x203 - 138 pages
+- .o .     R     _VIAL-BONACCI Eric           êchec aux ombres [Le Monde de l'autre cìtÇ de l'air - 2] ˛2021
+o FARALON     ?  2021.10 ..... ISBN 978-2-38131-095-4
+} noimg          _?                           ?
+!--- Jeunesse - GF - 170x240 - 136 pages
+- .o .     r     _PANARISI Raphaâl            Au crÇpuscule et apräs ˛2021
+o FARALON     ?  2021.10 ..... ISBN 978-2-38131-093-0
+} noimg          _?                           ?
+!--- GF - 150x210 - 315 pages
+- .o .     R     _HANSON Elie                 Le Carnet maudit ˛2011
+o FARALON     ?  2021.11 ..... ISBN 978-2-38131-099-2
+} noimg          _SF Cover                    ?
+!--- GF - 135x205 - 321 pages
+- .oS.     R     _FENRYCK David               Chauffeure ˛2021
+o FARALON     ?  2021.11 ..... ISBN 978-2-38131-100-5
+} noimg          _?                           ?
+!--- Jeunesse - GF - 148x210 - 415 pages
+- .o .     R     _JANUEL Alexandre            L'åle au-delÖ de la neuviäme vague ˛2021
+o FARALON     ?  2021.11 ..... ISBN 978-2-38131-101-2
+} noimg          _?                           ?
+!--- Jeunesse - GF - 148x210 - 497 pages
+- .o .     R     _PEATIER Daniel              Pleniäre d'Yvalyne ˛2021
+o FARALON     ?  2021.xx ..... ISBN 978-2-38131-109-8
+} noimg          _SF Cover                    ?
+!--- 424 pages - 28,50 euros
+- .o .     R     _BATIGNE RÇmy                Le Patriache [Les Enfants de Platin - 2] ˛2021
+o FARALON     ?  2021.xx ..... ISBN 978-2-38131-112-8
+} noimg          _SF Cover                    ?
+!--- 474 pages - 25,00 euros
+- .o .     R     _KAHEL Caroline              L'HÇritage d'Eoghain [La MalÇdiction de Blackstone - 3] ˛2021
+o FARALON     ?  2021.xx ..... ISBN 978-2-38131-110-4
+} noimg          _SF Cover                    ?
+!--- 210 pages - 13,50 euros
+- .o .     R     _DEHENNE Alix M.             Les Ràveurs et les autres ˛2021
+o FARALOJ     ?  2021.xx ..... ISBN 978-2-38131-113-5
+} noimg          _SF Cover                    ?
+!--- 144 pages - 12,50 euros
+- .o .     R     _CHOTTEAU Evelyne            Les Chemins d'avenir [Le Bracelet de Pouvoir - 2] ˛2021
+!------------------------
+!=== 2022
+!------------------------
+o FARALON     ?  2022.02 ..... ISBN 978-2-38131-115-9
+} noimg          _SF Cover                    ?
+!--- GF - 148 x 210 - 190 pages - 16,50 euros
+- .oF.     R     _SIROT FrÇdÇric              Archanges [Les Chroniques de Badenweiler - 2] ˛2022
+o FARALON     ?  2022.07 ..... ISBN 978-2-38131-130-2
+} noimg          _SF Cover                    ?
+!--- 148 x 210 mm - 412 pages - 19,90 euros
+- .o .     R     _KAHEL Caroline              Briser le cercle [Safe Haven - 1] ˛2022
+o FARALON     ?  2022.12 ..... ISBN 978-2-38131-172-2
+} noimg          _SF Cover                    ?
+!--- YA - GF - 148 x 210 - 440 pages - 22 euros
+- .o .     R     _KAHEL Caroline              L'Ultime RÇvolution [Safe Haven - 2] ˛2022
+o FARALON     ?  2022.12 ..... ISBN 978-2-38131-168-5
+} noimg          _SF Cover                    ?
+!--- YA - GF - 148 x 210 - 360 pages
+- .o .     R     _ROCCHIA LEBRETON Sandrine   Le Nouveau Cycle [Alliances Çternelles - 1] ˛2015
+o FARALON     ?  2022.12 ..... ISBN 978-2-38131-134-0
+} noimg          _SF Cover                    ?
+!--- GF - 148 x 210 - 368 pages
+- .o .     R     _ROTH Nadja                  Les Contes sanglants [Elli Werner - 1] ˛2022
 
 
 

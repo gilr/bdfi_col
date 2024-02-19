@@ -1,6 +1,6 @@
 !-----------------------------------------------------------------------------
 _ LEVY    Michel L‚vy FrŠres
-_ LEVYCML Michel L‚vy FrŠres, Collection Michel L‚vy
+_ LEVYCML Michel L‚vy FrŠres - Collection Michel L‚vy
 !-----------------------------------------------------------------------------
 !--- Michel L‚vy FrŠres
 !-----------------------------------------------------------------------------
@@ -42,12 +42,12 @@ o LEVY        ?  1857.xx ..... ISBN -
 : .o .     N     _GIRARDIN Madame de          No‚mi ou l'enfant cr‚dule þ?
 : .oF.     N     _GIRARDIN Madame de          L'Œle des marmitons þ1833
 : .oF.     N     _GIRARDIN Madame de          Zo‚ ou la m‚tamorphose þ?
-: .o .     N     _GIRARDIN Madame de          M. Martin de Montmartre þ?
+: .o .     N     _GIRARDIN Madame de          M. Martin de Montmartre þ1833
 : .oF.     N     _GIRARDIN Madame de          M. de PhilomŠle þ1833
 : .oF.     N     _GIRARDIN Madame de          La F‚e Grignotte þ1833
-?: .o .     N     _GIRARDIN Madame de          La danse n'est pas ce que j'aime þ?
-?: .o .     N     _GIRARDIN Madame de          Le Chien volant þ?
-?: .o .     N     _GIRARDIN Madame de          Le Palais de la vanit‚ þ?
+: .? .     N     _GIRARDIN Madame de          La danse n'est pas ce que j'aime þ?
+: .o .     N     _GIRARDIN Madame de          Le Chien volant þ1833
+: .? .     N     _GIRARDIN Madame de          Le Palais de la vanit‚ þ?
 o LEVY        ?  1857.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     N23   _POE Edgar Allan             Nouvelles histoires extraordinaires þ1857
@@ -56,7 +56,7 @@ o LEVY        ?  1857.xx ..... ISBN -
 : .o .     N     _POE Edgar Allan             Le Chat noir þ1843 The Black Cat
 : .o .     N     _POE Edgar Allan             William Wilson þ1839 William Wilson
 : .o .     N     _POE Edgar Allan             L'Homme des foules þ1840 The Man of the Crowd
-: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-Tale Heart
 : .o .     N     _POE Edgar Allan             B‚r‚nice þ1835 Berenice
 : .o .     N     _POE Edgar Allan             La Chute de la maison Usher þ1839 The Fall of the House of Usher
 : .o .     N     _POE Edgar Allan             Le Puits et le pendule þ1843 The Pit and the Pendulum
@@ -78,6 +78,13 @@ o LEVY        ?  1857.xx ..... ISBN -
 o LEVY        ?  1858.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     R     _SOULIE Fr‚d‚ric             Les M‚moires du diable þ1838
+o LEVY        ?  1859.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 18 cm - 316 pages
++ LEVY        ?  1871.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 18 cm - 312 pages
+- .o .     R     _SOUVESTRE Emile             Le Monde tel qu'il sera þ1845
 o LEVY        ?  1865.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _EYRAUD Achille              Voyage … V‚nus þ1865
@@ -85,7 +92,7 @@ o LEVY        ?  1868.xx ..... ISBN -
 } noimg          _?                           ?
 + LEVY        ?  1879.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .    kNx    _SOUVESTRE Emile             Les Merveilles de la nuit de No‰l, r‚cits fantastiques du Foyer Breton þ1868
+- .oF.    kNx    _SOUVESTRE Emile             Les Merveilles de la nuit de No‰l, r‚cits fantastiques du Foyer Breton þ1868
 o LEVY        ?  1869.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     N29   _POE Edgar Allan             Nouvelles histoires extraordinaires þ1857
@@ -93,7 +100,7 @@ o LEVY        ?  1869.xx ..... ISBN -
 : .o .     N     _POE Edgar Allan             Le Chat noir þ1843 The Black Cat
 : .o .     N     _POE Edgar Allan             William Wilson þ1839 William Wilson
 : .o .     N     _POE Edgar Allan             L'Homme des foules þ1840 The Man of the Crowd
-: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-Tale Heart
 : .o .     N     _POE Edgar Allan             B‚r‚nice þ1835 Berenice
 : .o .     N     _POE Edgar Allan             La Chute de la maison Usher þ1839 The Fall of the House of Usher
 : .o .     N     _POE Edgar Allan             Le Puits et le pendule þ1843 The Pit and the Pendulum
@@ -117,8 +124,8 @@ o LEVY        ?  1869.xx ..... ISBN -
 : .o .     N     _POE Edgar Allan             Un ‚v‚nement … J‚rusalem þ1832-1836 Tale of Jerusalem
 : .o .     N     _POE Edgar Allan             L'Ange du bizarre þ1844 The Angel of the Odd - An Extravaganza
 : .o .     N     _POE Edgar Allan             Le SystŠme du docteur Goudron þ1845 The System of Dr. Tarr and Professor Fether
-: .o .     a     _POE Edgar Allan             Le Domaine d'Arnheim þ1847 The Domain of Arnheim
-: .o .     a     _POE Edgar Allan             Le Cottage Landor þ1849 Landor's Cottage
+: .x .     a     _POE Edgar Allan             Le Domaine d'Arnheim þ1847 The Domain of Arnheim
+: .x .     a     _POE Edgar Allan             Le Cottage Landor þ1849 Landor's Cottage
 o LEVY        ?  1858.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _POE Edgar Allan             Les Aventures d'Arthur Gordon Pym [Arthur Gordon Pym] þ1838 The Narrative of Arthur Gordon Pym of Nantucket þTrad. BAUDELAIRE Charles
@@ -173,7 +180,6 @@ o LEVY        ?  1860.xx ..... ISBN -
 } noimg          _?                           ?
 - .pF.     Nx    _MERY Joseph                 Le Chƒteau des trois tours þ1860
 : .oF.     N     _MERY Joseph                 Souvenirs de voyages þ1860
-!--- Idem "La punition"
 
 o LEVY        ?  1866.xx ..... ISBN -
 } noimg          _?                           ?
@@ -213,16 +219,21 @@ o LEVY        ?  1876.xx ..... ISBN -
 : .o .     N     _HAWTHORNE Nathaniel         Les Caprices du sort þ1837 David Swan þTrad. SPOLL Edouard-Auguste
 : .! .     N     _HAWTHORNE Nathaniel         La Promenade de la petite Annie þ1835 Little Annie's Ramble þTrad. SPOLL Edouard-Auguste
 : .o .     N     _HAWTHORNE Nathaniel         La Statue de bois þ1844 Drowne's Wodden Image þTrad. SPOLL Edouard-Auguste
-: .o .     N     _HAWTHORNE Nathaniel         Le Voyage de noce þ1837 The Wedding-Knell þTrad. SPOLL Edouard-Auguste
+: .o .     N     _HAWTHORNE Nathaniel         Le Voyage de noce þ1836 The Wedding-Knell þTrad. SPOLL Edouard-Auguste
 : .o .     N     _HAWTHORNE Nathaniel         La Catastrophe de M. Higginbotham þ1834 Mr. Higginbotham's Catastrophe þTrad. SPOLL Edouard-Auguste
 : .o .     N     _HAWTHORNE Nathaniel         Wakefield þ1835 Wakefield þTrad. SPOLL Edouard-Auguste
 : .o .     N     _HAWTHORNE Nathaniel         La Grande Escarboucle þ1837 The Great Carbuncle þTrad. SPOLL Edouard-Auguste
 : .oF.     N     _HAWTHORNE Nathaniel         Les Portraits proph‚tiques þ1837 The Prophetic Pictures þTrad. SPOLL Edouard-Auguste
 
 !-----------------------------------------------------------------------------
-_ MLEVYTD <b>in</b> Ed. Michel L‚vy FrŠres, Le tiroir du diable
 !-----------------------------------------------------------------------------
-o MLEVYTD     ?  1857.xx ..... ISBN -
-} noimg          _?                           ?
-- .oS.     N     _GAUTIER Th‚ophile           Le Diable … Paris - Paris futur þ1851
+o LEVY        ?  1857.xx ..... ISBN -
+} noimg          _?                           Gavarni, Bertall, ...
+!--- 305 pages - In-12
+>--- Cet ouvrage fait partie d'une s‚rie de recueils compos‚s d'articles, de courts essais et de quelques contes d'auteurs renomm‚s (Honor‚ de Balzac, G‚rard de Nerval, Alfred de Musset, George Sand, Th‚ophile Gauthier, Charles Nodier...). La s‚rie comprend ‚galement "Paris et les parisiens" (1853, avec illustation, et 1857 sans illustrations) et "Le Diable … Paris - Les Parisiennes … Paris" (1857, sans illustrations).
+>--- Les deux premiers volumes sont parus initialement chez Hetzel en 1945, sans le "Tiroir du diable", publi‚ ult‚rieurement. Hetzel r‚‚ditera le tout en 1968, augment‚ de trŠs nombreuses illustrations.
+>--- Ils ont ‚t‚ r‚‚dit‚s en 1992 par Paris-Mus‚es, … l'occasion de l'op‚ration "Collection Capitale" organis‚e par la Mairie de Paris du 14 au 18 mars 1992.
+- .oS.    iAx    ****                         Le Diable … Paris - Le Tiroir du diable þ1851
+: .oS.     N     _GAUTIER Th‚ophile           Paris futur þ1851
+
 

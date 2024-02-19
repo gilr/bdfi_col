@@ -6,26 +6,27 @@
 !---
 !--- MASQJ   Librairie des Champs Elys‚es, Le Masque Jeunesse
 !--- MASQ_AV Le Masque de l'Avenir
-!--- MASQ_SF Le Masque SF
+!--- MASQ_SF Le Masque SF --> masqsf.col
 !--- LCEANTH Librairie des Champs Elys‚es, Anthologies
 !--- MASQUE  Le Masque
 !--- MASQ_RP Le Masque, Les maŒtres du roman policier
 !--- LCE     Librairie des Champs Elys‚es
 !--- LCE_GCF Librairie des Champs Elys‚es, Les grands contes fantastiques
 !--- LCE_HD  Librairie des Champs Elys‚es, Harry Dickson
-!--- MASQFA1 Le Masque Fantastique "rouge"
-!--- MASQFA2 Le Masque Fantastique "noir"
-!--- LCE_ABY Librairie des Champs Elys‚es, Abysses ş1998-1999
-!--- LCE_MIL Librairie des Champs Elys‚es, Abysses, Coll. Millenium
+!--- MASQFA1 Le Masque Fantastique "rouge" --> masqfa.col
+!--- MASQFA2 Le Masque Fantastique "noir" --> masqfa.col
+!--- LCE_ABY Librairie des Champs Elys‚es, Abysses
+!--- LCE_MIL Librairie des Champs Elys‚es, Abysses, Millenium
 !--- LCE_BM  Librairie des Champs Elys‚es, Bob Morane
-!--- EDMASQU Ed. du Masque
-!--- MASQMSK Ed. du Masque, MSK
-!--- MASQTHR Ed. du Masque, Coll. Thrillers
-!--- MASQCLU Ed. du Masque, Le Club des Masques
+!--- EDMASQU Edtions du Masque
+!--- MASQMSK Editions du Masque, MSK
+!--- MASQTHR Editions du Masque, Thrillers
+!--- MASQCLU Editions du Masque, Le Club des Masques
+!--- MASQP_J Editions du Masque, Masque poche, Jaune
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ MASQJ   Ed. Hachette, Masque Jeunesse
+_ MASQJ   Hachette - Masque Jeunesse
 !-----------------------------------------------------------------------------
 !--- Masque Jeunesse - collection des ann‚es 80
 !--- Pour les plus de 12 ans
@@ -64,11 +65,10 @@ o MASQ_AV     1  1980.04 R.... ISBN 2-7024-0978-4
 - .oS.     R     _MARTIN George R.R.          L'Agonie de la lumiŠre ş1977 After the Festival / Dying of the Light
 o MASQ_AV     2  1980.T2 R.... ISBN 2-7024-1086-3
 } masqueavenir2  _?                           N
-- .oS.    _N17   _SABERHAGEN Fred             Berserker [Berserkers] ş1978
 !--- ou N17, cf site Laurent
-!--- TBC : 1967 Berserker
-!--- Le num‚ro 2, pr‚vu, n'est jamais paru. En cause, un procŠs des ‚ditions Opta pour ressemblance avec les CLA.
-!--- Quelques num‚ros ont malgr‚ tout ‚chapp‚s … la casse...
+>--- Ce num‚ro 2 n'a jamais ‚t‚ commercialis‚, en raison d'un procŠs des ‚ditions Opta mettant en cause la ressemblance avec les CLA.
+>--- Quelques (plus ou moins rares) num‚ros ont malgr‚ tout ‚chapp‚s au pilon.
+- .oS.    _N17   _SABERHAGEN Fred             Berserker [Berserkers] ş1978
 : .oS.     N     _SABERHAGEN Fred             Forteresse [Berserkers] ş1963 Fortress Ship / Without a Thought şTrad. MARTIN Bruno
 : .oS.     N     _SABERHAGEN Fred             Les Prisonniers de la machine [Berserkers] ş1963 Goodlife şTrad. BILLON Pierre
 : .oS.     N     _SABERHAGEN Fred             La Vie contre la vie [Berserkers] ş1964 The Peacemaker / The Life Hater şTrad. DEMUTH Michel
@@ -76,778 +76,19 @@ o MASQ_AV     2  1980.T2 R.... ISBN 2-7024-1086-3
 : .oS.     N     _SABERHAGEN Fred             T, le traŒtre [Berserkers] ş1965 What T and I Did ş STRASSCHITZ Frank
 : .oS.     N     _SABERHAGEN Fred             Que le loup soit d‚truit ! [Berserkers] ş1965 Sign of the Wolf şTrad. ALPERINE Paul
 : .oS.     N     _SABERHAGEN Fred             Protecteur des arts [Berserkers] ş1965 Patron of the Arts şTrad. BILLON Pierre
-: .oS.     N     _SABERHAGEN Fred             Le Masque du berserker rouge [Berserkers] ş1965 Masque of the Red Shift şTrad. ALPERINE Paul
+: .oS.     N     _SABERHAGEN Fred             Le Masque du Berserker rouge [Berserkers] ş1965 Masque of the Red Shift şTrad. ALPERINE Paul
 : .oS.     N     _SABERHAGEN Fred             Prisonnier de l'hypermasse [Berserkers] ş1966 The Face of the Deep şTrad. ALPERINE Paul
-: .oS.     N     _SABERHAGEN Fred             Monsieur Plaisantin [Berserkers] ş1966 Mr Jester şTrad. ALPERINE Paul
+: .oS.     N     _SABERHAGEN Fred             Monsieur Plaisantin [Berserkers] ş1966 Mr. Jester şTrad. ALPERINE Paul
 : .oS.     N     _SABERHAGEN Fred             Dans le temple de Mars [Berserkers] ş1966 In the Temple of Mars şTrad. ALPERINE Paul
-: .oS.     N     _SABERHAGEN Fred             L'Homme de pierre [Berserkers] ş1967 The Stone Man şTrad. ALPERINE Paul
+: .oS.     N     _SABERHAGEN Fred             L'Homme de pierre [Berserkers] ş1967 Stone Man şTrad. ALPERINE Paul
 : .oS.     N     _SABERHAGEN Fred             Le Casque ail‚ [Berserkers] ş1967 The Winged Helmet şTrad. DEUTSCH Michel
-: .oS.     N     _SABERHAGEN Fred             FrŠre berserker [Berserkers] ş1967 Brother Berserker şTrad. PUGI Jean Pierre
-: .oS.     N     _SABERHAGEN Fred             La Proie du berserker [Berserkers] ş1967 Pressure / Berserker's Prey şTrad. ALPERINE Paul
+: .oS.     N     _SABERHAGEN Fred             FrŠre Berserker [Berserkers] ş1967 Brother Berserker şTrad. PUGI Jean Pierre
+: .oS.     N     _SABERHAGEN Fred             La Proie du Berserker [Berserkers] ş1967 Berserker's Prey / Pressure şTrad. ALPERINE Paul
 : .oS.     N     _SABERHAGEN Fred             Le Musicien de l'enfer [Berserkers] ş1968 Starsong şTrad. DEUTSCH Michel
 : .oS.     N     _SABERHAGEN Fred             Que voulez-vous que je fasse pour prouver que je suis humain stop [Berserkers] ş1974 Inhuman Error / What Do You Want Me to Do to Prove I'm Human Stop şTrad. Philippe R. Hupp
 
-!DEB_HEAD MASQ_SF
 !-----------------------------------------------------------------------------
-_ MASQ_SF Le Masque SF
-!-----------------------------------------------------------------------------
-!GRP_OUVR 8
-!TIT_COLL Le Masque science-fiction
-!IMG_LOGO lmsf_logo
-!-----------------------------------------------------------------------------
-!--- Le Masque Science-Fiction (1974-1981)
-!---
-!--- 116 ouvrages de poche, de bonne qualit‚ et de pr‚sentation sympathique, sans
-!--. presque le moindre rat‚.
-!--- Moins connue que d'autres collections de l'‚poque, et pourtant, y furent publi‚s nombre de maŒtres tels Jack Vance, Brian W. Aldiss,
-!--. Philip Jos‚ Farmer, Harry Harrison, Philip K. Dick,
-!--. Frank Herbert, Bob Shaw, Leigh Brackett, Raymond F. Jones ou Isaac Asimov, mais aussi quelques perles
-!--. d'auteurs moins connus, tel James White, Paul Van Herck ou encore Alexei Panshin.
-!--- 
-!--- Directeur de collection : Jacques Van Herp (de 1974 … 1978) puis Michel Demuth (de 1978 … 1981).
-!--- Format : 16,5 cm x 11 cm.
-!-----------------------------------------------------------------------------
-!FIN_HEAD MASQ_SF
-!DEB_COLL MASQ_SF
-o MASQ_SF     1  1974.03 R.... ISBN 2-7024-0227-5
->--- R‚impressions 05/1974 et 01/1975
->--- 256 pages
-!--- J'ai la version de janvier 1975
-} lmsf001        _Christopher Foss            ?
-- .oS.    =R     _SUTTON Jeff                 Le Cerveau solitaire ş1970 Alton's Unguessable şTrad. DEUTSCH Michel
-o MASQ_SF     2  1974.03 R.... ISBN 2-7024-0228-3
-} lmsf002        _Paul Lehr                   ?
->--- R‚impression 10/1974
->--- 256 pages
->--- Expansion de _Time pawn_ (1954)
-- .oS.    =R     _DICK Philip K.              Le Voyageur de l'inconnu ş1960 Dr. Futurity şTrad. ROBINET Florian
-o MASQ_SF     3  1974.03 R.... ISBN 2-7024-0229-1
-} lmsf003        _?                           N  
->--- Tous les textes sont sign‚s … l'origine Lewis Padgett.
->--- Bien que consid‚r‚ comme un Fix-Up, les nouvelles sont chacune situ‚e dans chapitre pr‚c‚d‚e d'une introduction, le tout suivi d'un chapitre 6 ‚pilogue.
->--- Plusieurs r‚impressions : 05/1974, 08/1974, 01/1975 et T1/1980
->--- 256 pages
-!--- J'ai la version de janvier 1975
-- .oS.    =U5    _KUTTNER Henry               Les Mutants ş1953 Mutant şTrad. STRASCHITZ Frank
-: .o .   9 N     _KUTTNER Henry               Le Fils du joueur de fl–te ş1945 The Piper's Son
-: .o .  46 N     _KUTTNER Henry               Trois souris aveugles ş1945 Three Blind Mices
-: .o .  94 N     _KUTTNER Henry               Le Lion et la licorne ş1945 The Lion and the Unicorn
-: .o . 144 N     _KUTTNER Henry               Les Mendiants de velours ş1945 Beggars in Velvet
-: .o . 202 N     _KUTTNER Henry               Humpty Dumpty ş1953 Humpty Dumpty
-o MASQ_SF     4  1974.03 R.... ISBN 2-7024-0230-5
-} lmsf004        _?                           ?
->--- Indiqu‚ comme une adaptation et non une traduction.
->--- 256 pages
-- .oS.    =R     _LEINSTER Murray             La Galaxie noire ş1949-1954 The Black Galaxy şTrad. CHOMET Rosine & TARNIER Pierre
-o MASQ_SF     5  1974.03 R.... ISBN 2-7024-0231-3
-} lmsf005        _Richard Powers              ?
->--- R‚impressions 05/1974, 08/1974, 01/1975 et 05/1975.
->--- 256 pages
->--- Il ne s'agit pas d'une traduction de la variante _The Peregrine_, qui date de 1978.
-!--- J'ai la version du 05/1974
-- .oS.    =R     _ANDERSON Poul               La Route ‚toil‚e ş1956 Star Ways şTrad. DELAVAUD Collin
-o MASQ_SF     6  1974.03 R.... ISBN 2-7024-0232-1
-} lmsf006        _Christopher Foss            ?
->--- R‚impression 08/1974 et 10/1974
->--- 288 pages
-!--- J'ai la version du 08/1974
-+ MASQ_SF     6  1981.xx ..... ISBN 2-7024-0232-1
-} lmsf006r81     _Kelly Freas                 ?
-- .oS.    =R     _ASIMOV Isaac                Les Courants de l'espace ş1952 The Currents of Space şTrad. DEUTSCH Michel
-o MASQ_SF     7  1974.04 R.... ISBN 2-7024-0250-X
-} lmsf007        _Bruce Pennington            ?
->--- R‚impressions 08/1974 et 01/1975
->--- 256 pages
-!--- J'ai la version du 01/1975
-- .oS.    =R     _DERMEZE Yves                L'Image de l'autre ş1974
-o MASQ_SF     8  1974.05 R.... ISBN 2-7024-0265-8
-} lmsf008        _Jack Gaugham                ?
->--- R‚impression 10-1974
->--- 256 pages
->--- Le texte d'origine _The Starmen_ (1952) a ensuite ‚t‚ publi‚ raccourci de 20000 mots sous le titre
->--. _The Galactic Breed_ en 1955, puis ‚galement un peu plus court sous le titre _The Starmen of Llyrdis_ en 1976.
-- .oS.    =R     _BRACKETT Leigh              Les Hommes stellaires ş1952 The Starmen şTrad. BARRIERE Maxime
-o MASQ_SF     9  1974.06 R.... ISBN 2-7024-0277-1
-} lmsf009        _Gray Morrow                 ?
->--- R‚impression 10/1974
->--- 254 pages
-!--- J'ai la version du 10/1974
-- .oS.    =R     _BAYLEY Barrington J.        Les planŠtes meurent aussi ş1972 Annihilation Factor şTrad. DEUTSCH Michel
-o MASQ_SF    10  1974.06 R.... ISBN 2-7024-0278-X
-} lmsf010        _?                           ?
->--- R‚impression 01/1975
->--- 256 pages
-!--- J'ai la version de 01/1975
-- .oS.    =R     _HAMILTON Edmond             La Vall‚e magique ş1948-1964 The Valley of Creation şTrad. MARTIN Bruno
-o MASQ_SF    11  1974.07 R.... ISBN 2-7024-0279-8
-} lmsf011        _Jack Gaughan                ?
->--- R‚impressions 01-1975 et T2-1980
->--- 256 pages
-- .oS.    =R     _RUSSELL Eric Frank          Sentinelle de l'espace ş1951-1953 The Star Watchers / Sentinels from Space şTrad. CHOMET Richard
-o MASQ_SF    12  1974.09 R.... ISBN 2-7024-0280-1
-} lmsf012        _Paul Lehr                   ?
->--- 256 pages
-- .oS.    =R     _HAMILTON Edmond             La Ville sous globe ş1950-1951 The City at World's End şTrad. GREGOIRE Catherine
-o MASQ_SF    13  1974.09 R.... ISBN 2-7024-0304-2
-} lmsf013        _?                           ?
->--- 256 pages
-- .oS.    =R     _HARKER Kenneth              Les Fleurs de f‚vrier ş1970 The Flowers of February şTrad. ROBINET Florian
-o MASQ_SF    14  1974.10 R.... ISBN 2-7024-0305-0
-} lmsf014        _Paul Lehr                   ?
->--- R‚impressions 01/1975 et T1-1979
->--- 256 pages
-!--- J'ai la version 1979
-- .oS.    =R     _ANDERSON Poul               BarriŠre mentale ş1954 Brain Wave şTrad. DOREMIEUX Alain
-o MASQ_SF    15  1974.11 R.... ISBN 2-7024-0306-9
-} lmsf015        _?                           ?
->--- R‚impression 05/1975
->--- 256 pages
-!--- J'ai la version 05/1975
-- .oS.    =R     _ZEBROWSKI George            Le Point Omega [Omega Point - 2] ş1972 Omega Point şTrad. BERNIER GisŠle
-o MASQ_SF    16  1974.12 R.... ISBN 2-7024-0307-7
-} lmsf016        _Christopher Foss            ?
->--- R‚impressions 05-1975 et T3-1979
->--- 256 pages
-!--- J'ai la version 1975
-- .oS.    =R     _DICK Philip K.              Dedalusman ş1965 Project Plowshare / The Zap Gun şTrad. ALBECK Raymond
-o MASQ_SF    17  1975.01 R.... ISBN 2-7024-0334-4
-} lmsf017        _?                           ?
->--- R‚impression 05/1975
->--- 256 pages
-!--- J'ai la version 05/1975
-- .oS.    =R     _TUBB E.C.                   Les MaŒtres du hasard ş1963-1964 Window on the Moon / Moonbase şTrad. HUET Jacqueline
-o MASQ_SF    18  1975.01 R.... ISBN 2-7024-0333-6
-} lmsf018        _?                           ?
->--- 256 pages
-- .oS.    =R     _EKLUND Gordon               Le Silence de l'aube ş1971 The Eclipse of Dawn şTrad. BARRIERE Maxime
-o MASQ_SF    19  1975.02 R.... ISBN 2-7024-0335-2
-} lmsf019        _Kelly Freas                 ?
->--- R‚impression T3-1979
->--- 256 pages
->--- Seul Jack Williamson est cr‚dit‚ sur la couverture et sur le dos.
-!--- J'ai la version T3-1979
-- .oS.    =R     _WILLIAMSON Jack            &Le Pont sur les ‚toiles ş1955 Star Bridge şTrad. DELAVAUD Collin
-&                _GUNN James E.               
-o MASQ_SF    20  1975.03 R.... ISBN 2-7024-0336-0
-} lmsf020        _Gray Morrow                 ?
->--- 256 pages
-- .oS.    =R     _DERMEZE Yves                Via Velpa ş1955
-o MASQ_SF    21  1975.03 R.... ISBN 2-7024-0343-3
-} lmsf021        _?                           ?
->--- 256 pages
->--- Le titre "Sub-espace" (sans article) apparait en couverture et sur le dos.
-- .oS.    =R     _SERIEL J‚r“me               Le Sub-Espace ş1961
-o MASQ_SF    22  1975.04 R.... ISBN 2-7024-0344-1
-} lmsf022        _?                           ?
->--- 288 pages
-- .oS.    =R     _DICK Philip K.              Le Prisme du n‚ant ş1974 Flow My Tears, the Policeman Said şTrad. DEUTSCH Michel
-o MASQ_SF    23  1975.05 R.... ISBN 2-7024-0345-X
-} lmsf023        _Paul Lehr                   ?
->--- 256 pages
-- .oS.    =R     _DAVIES L.P.                 Les Cavernes de l'Id ş1966 Psychogeist şTrad. ZRIBI Anne
-o MASQ_SF    24  1975.06 R.... ISBN 2-7024-0346-8
-} lmsf024        _?                           ?
->--- 256 pages
-- .oS.    =R     _BULMER Kenneth              La Cit‚ folle ş1971 The Insane City şTrad. ROSENTHAL Mary
-o MASQ_SF    25  1975.06 R.... ISBN 2-7024-0385-9
-} lmsf025        _Richard Powers              N  
->--- 256 pages
-- .oS.    =N4    _JONES Raymond F.            Risques calcul‚s ş1964 The Non-Statistical Man şTrad. BARRIERE Maxime
-: .oS.   7 r     _JONES Raymond F.            Risques calcul‚s ş1956 The Non-Statistical Man şTrad. BARRIERE Maxime
-: .oS. 127 N     _JONES Raymond F.            On ne marchera plus sur la Lune ş1953 The Moon Is Death şTrad. BARRIERE Maxime
-: .oS. 151 N     _JONES Raymond F.            L'Arbre solitaire ş1957 The Gardener şTrad. BARRIERE Maxime
-: .oS. 179 N     _JONES Raymond F.            Entracte, le dernier concert ş1953 Intermission Time şTrad. BARRIERE Maxime
-o MASQ_SF    26  1975.06 R.... ISBN 2-7024-0387-5
-} lmsf026        _?                           ?
->--- R‚impression T1/1979
->--- 256 pages
-- .oS.    =R     _HENNEBERG Charles           Le Chant des astronautes ş1958
-o MASQ_SF    27  1975.07 R.... ISBN 2-7024-0386-7
-} lmsf027        _Paul Lehr                   ?
->--- 256 pages
->--- Introduction de Jacques Van Herp
-! .o .   7 p     _VAN HERP Jacques            Introduction ş1975
-- .oS.  11=R     _CLARKE Arthur C.            LumiŠre cendr‚e ş1955 Earthlight şTrad. BERNIER GisŠle
-o MASQ_SF    28  1975.08 R.... ISBN 2-7024-0388-3
-} lmsf028        _Karel Thole                 ?
->--- 256 pages
->--- Expansion de la novella de mˆme titre datant de 1956.
-- .oS.    =R     _DICK Philip K.              Les Marteaux de Vulcain ş1960 Vulcan's Hammer şTrad. BENATRE Monique
-o MASQ_SF    29  1975.09 R.... ISBN 2-7024-0428-6
-} lmsf029        _Paul Lehr                   ?
->--- 256 pages
->--- Fix-up de quatre nouvelles devenues des chapitres : _The Man from Outside_, _Man Down_, _The Happiest Creature_ et _A Planet for Plundering_.
-!--- Fix-up des textes suivants qui sont devenus des chapitres :
-!: .o .     N     _WILLIAMSON Jack             - ş1951 The Man from Outside
-!: .o .     N     _WILLIAMSON Jack             - ş1952 Man Down
-!: .o .     N     _WILLIAMSON Jack             - (Factice/La Plus Heureuse Cr‚ature) ş1953 The Happiest Creature
-!: .o .     N     _WILLIAMSON Jack             - (Une planŠte … piller) ş1962 A Planet for Plundering
-- .oS.    =U     _WILLIAMSON Jack             Les PlanŠtes en sursis ş1962 The Trial of Terra şTrad. BARRIERE Maxime
-o MASQ_SF    30  1975.09 R.... ISBN 2-7024-0429-4
-} lmsf030        _?                           ?
->--- 256 pages
->--- Seul Charles est indiqu‚ en couverture et sur le dos.
-- .oS.     R     _HENNEBERG Nathalie         &Les Dieux verts ş1961
-&                _HENNEBERG Charles           
-o MASQ_SF    31  1975.10 R.... ISBN 2-7024-0430-8
-} lmsf031        _J‚r“me Podwill              N  
->--- R‚impression T3-1979
->--- 288 pages
->--- Les deux derniŠres nouvelles de l'‚dition am‚ricaine, _Autofac_ et __A World of Talent_ (Un monde de talent) sont absentes.
-!--- J'ai la version de T3-1979
-- .oS.    =N3    _DICK Philip K.              L'Homme variable ş1957 The Variable Man şTrad. ROSENTHAL Mary
-: .oS.   7 r     _DICK Philip K.              L'Homme variable ş1953 The Variable Man şTrad. ROSENTHAL Mary
-: .oS. 131 N     _DICK Philip K.              DeuxiŠme vari‚t‚ ş1953 Second Variety şTrad. ROSENTHAL Mary
-: .oS. 205 N     _DICK Philip K.              Rapport minoritaire ş1956 The Minority Report şTrad. ROSENTHAL Mary
-o MASQ_SF    32  1975.10 R.... ISBN 2-7024-0431-6
-} lmsf032        _?                           ?
->--- 256 pages
->--- Les deux premiers ‚pisodes de _The Hand of Zei_ (parus en 4 ‚pisodes dans Astounding SF de octobre 1950 … janvier 1951)
->--. ont ‚t‚ regroup‚s et r‚vis‚s pour former ce premier volume en 1962.
-- .oS.    =R     _DE CAMP Lyon Sprague        Zei [Krishna - 2][Viagens Interplanetarias] ş1950-1962 The Hand of Zei / The Search for Zei şTrad. RIVELIN Michel
-o MASQ_SF    33  1975.T4 R.... ISBN 2-7024-0432-4
-} lmsf033        _Bruce Pennington            ?
->--- 256 pages
->---  Version d‚velopp‚e de la nouvelle _Greenslave_, 1965
-- .oS.    =R     _HERBERT Frank               Le Cerveau vert ş1966 The Green Brain şTrad. HUET Jacqueline
-o MASQ_SF    34  1976.T1 R.... ISBN 2-7024-0443-X
-} lmsf034        _Chris Foss                  ?
->--- 256 pages
-- .oS.    =R     _SPRIGEL Olivier             Cr‚puscule du futur ş1976
-o MASQ_SF    35  1976.T1 R.... ISBN 2-7024-0444-8
-} lmsf035        _Eddie Jones                 N  
->--- 256 pages
->--- Le recueil original contient 4 textes, soit un de plus, _Gulf_ (1949).
-- .oS.    =N3    _HEINLEIN Robert             Trois pas dans l'‚ternit‚ ş1953 Assignment in Eternity şTrad. HUET Jacqueline
-: .oS.   7 N     _HEINLEIN Robert             En quelque temps ş1941 Elsewhere / Elsewhen şTrad. HUET Jacqueline
-: .oS.  61 r     _HEINLEIN Robert             H‚ritage perdu ş1941 Lost Legion / Lost Legacy şTrad. HUET Jacqueline
-: .oS. 207 N     _HEINLEIN Robert             Un homme ş1947 Jerry Is a Man / Jerry Was a Man şTrad. HUET Jacqueline
-o MASQ_SF    36  1976.T1 R.... ISBN 2-7024-0445-6
-} lmsf036        _?                           ?
->--- 256 pages
->--- Les deux derniers ‚pisodes de _The Hand of Zei_ (parus en 4 ‚pisodes dans Astounding SF de octobre 1950 … janvier 1951) ont ‚t‚ regroup‚s et r‚vis‚s pour former ce second volume en 1963.
-- .oS.    =R     _DE CAMP Lyon Sprague        La Main de Zei [Krishna - 3][Viagens Interplanetarias] ş1951-1963 The Hand of Zei şTrad. RIVELIN Michel
-o MASQ_SF    37  1976.T1 R.... ISBN 2-7024-0469-3
-} lmsf037        _Gray Morrow                 N
->--- Cr‚dit‚ comme une traduction du recueil _The Best of John Windham_, mais ne correspond … aucune des anthologies parues sous ce titre.
->--- Six des nouvelles (sur 7) appartiennent … la premiŠre version du recueil, datant de 1973 et contenant 12 nouvelles.
->--- 256 pages
-- .oS.    =N7    _WYNDHAM John                La Machine perdue ş1976 şTrad. ROSENTHAL Mary
-: .oS.   7 N     _WYNDHAM John                La Machine perdue ş1932 The Lost Machine şTrad. ROSENTHAL Mary
-: .oS.  41 N     _WYNDHAM John                Le Troc des mondes ş1931 Worlds to Barter şTrad. ROSENTHAL Mary
-: .oS.  93 N     _WYNDHAM John                Le Survivant ş1934 The Man from Beyond şTrad. ROSENTHAL Mary
-: .oS. 137 N     _WYNDHAM John                Adaptation ş1949 Adaptation şTrad. ROSENTHAL Mary
-: .oS. 165 N     _WYNDHAM John                Les Murs de Jericho ş1951 And the Walls Came Tumbling Down şTrad. ROSENTHAL Mary
-: .oS. 193 N     _WYNDHAM John                La Perfection mˆme ş1937 The Perfect Creature şTrad. ROSENTHAL Mary
-: .oS. 229 N     _WYNDHAM John                Le Vide de l'espace ş1960 The Emptiness of Space şTrad. ROSENTHAL Mary
-o MASQ_SF    38  1976.T1 R.... ISBN 2-7024-0470-7
-} lmsf038        _Dean Ellis                  ?
->--- 256 pages
-- .oS.    =R     _DERMEZE Yves                Les LumiŠres ş1976
-o MASQ_SF    39  1976.T2 R.... ISBN 2-7024-0471-5
-} lmsf039        _Gray Morrow                 ?
->--- R‚impression T2-1980
->--- 256 pages
->--- Pr‚c‚d‚ d'un Avant-propos (Foreword, 1969) et suivi d'une Note de l'auteur (Author's note, 1969).
-- .oS.    =R     _POHL Frederik               L'Šre du satisfacteur ş1966-1969 The Age of the Pussyfoot şTrad. BARRIERE Maxime
-o MASQ_SF    40  1976.T2 R.... ISBN 2-7024-0472-3
-} lmsf040        _?                           N  
->--- Ne contient que 12 des 17 nouvelles du recueil original, et compl‚t‚ d'une autre texte (Effet miroir).
->--- 256 pages
->--- R‚impression T3-1979
-- .oS.    =N13   _ASIMOV Isaac                Espace vital ş1957 Earth Is Room Enough şTrad. DEUTSCH Michel
-: .oS.   7 N     _ASIMOV Isaac                Espace vital ş1956 Living Space
-: .oS.  28 N     _ASIMOV Isaac                Les Cendres du pass‚ ş1956 The Dead Past
-: .oS.  98 N     _ASIMOV Isaac                Effet miroir [Les Cavernes d'acier] ş1972 Mirror Image
-: .oS. 121 N     _ASIMOV Isaac                Devoir civique ş1955 Franchise
-: .oS. 145 N     _ASIMOV Isaac                Le Pacte ş1956 The Brazen Locked Room / Gimmicks Three
-: .oS. 154 N     _ASIMOV Isaac                Des histoires pour gosses ş1953 Kid Stuff
-: .oS. 175 N     _ASIMOV Isaac                Avec de l'eau partout ş1956 The Watery Place
-: .oS. 182 N     _ASIMOV Isaac                Le Message ş1956 The Message
-: .oS. 185 N     _ASIMOV Isaac                Satisfaction garantie [Robots] ş1951 Satisfaction Guaranted
-: .oS. 207 N     _ASIMOV Isaac                Le Feu de l'Enfer ş1956 Hell Fire
-: .oS. 210 N     _ASIMOV Isaac                La DerniŠre Trompette ş1955 The Last Trump
-: .oS. 234 N     _ASIMOV Isaac                Le Barde immortel ş1954 The Immortal Bard
-: .oS. 238 N     _ASIMOV Isaac                Un jour... ş1956 Someday
-o MASQ_SF    41  1976.T2 R.... ISBN 2-7024-0506-1
-} lmsf041        _Bruce Pennington            ?
->--- 256 pages
-+ MASQ_SF    41  1981.T2 R.... ISBN 2-7024-0506-1
-} lmsf041r81     _Jean-Christophe Sayag       ?
-- .oS.    =R     _DICK Philip K.              Les ChaŒnes de l'avenir ş1956 The World Jones Made şTrad. HUET Jacqueline
-o MASQ_SF    42  1976.T2 R.... ISBN 2-7024-0507-X
-} lmsf042        _?                           ?
->--- 256 pages
->--- Pr‚c‚d‚ d'un pr‚face du traducteur Michel V‚d‚w‚.
-- .oS.    =R     _VAN HERCK Paul              Caroline oh ! Caroline ş1976 Caroline O Caroline şTrad. VEDEWE Michel
-o MASQ_SF    43  1976.xx R.... ISBN 2-7024-0508-8
-} lmsf043        _Peter Manesis               ?
->--- 256 pages
-- .oS.    =R     _GOTLIEB Phyllis             Psycataclysme ş1964 Sunburst şTrad. BARRIERE Maxime
-o MASQ_SF    44  1976.T2 R.... ISBN 2-7024-0509-6
-} lmsf044        _Dean Ellis                  ?
->--- 256 pages
-- .oS.    =R     _POHL Frederik              &L'Enfant des ‚toiles [La Paix des ‚toiles - 2] ş1965 Starchild şTrad. BILLON Pierre
-&                _WILLIAMSON Jack             
-o MASQ_SF    45  1976.T3 R.... ISBN 2-7024-0546-6
-} lmsf045        _Jack Gaughan                ?
->--- 256 pages
->--- Suivi d'une postface de G‚rard Klein, "Le Point de vue litt‚raire"
-!--- Hors cycle de Zei, mais sur la mˆme planŠte Krishna. Alors [Zei - 3] ou pas ?
-- .oS.    =R     _DE CAMP Lyon Sprague        Chasse cosmique [Krishna - 1][Viagens Interplanetarias] ş1949 The Queen of Zamba / Cosmic Manhunt şTrad. DELAVAUD Collin
-o MASQ_SF    46  1976.T3 R.... ISBN 2-7024-0547-9
-} lmsf046        _?                           N  
->--- 256 pages
->--- Le titre de la premiŠre nouvelle n'apparaŒt en fait que dans le sommaire.
-- .oS.    =N6    _VICTOR Ren‚ Jacques         Les Doigts du hasard ş1976
-: .oS.   9 N     _VICTOR Ren‚ Jacques         Jlee ş1976
-: .oS.  49 N     _VICTOR Ren‚ Jacques         Chut.chut.chut... ş1976
-: .oS.  95 N     _VICTOR Ren‚ Jacques         Ambassadeurs ş1976
-: .oS. 131 N     _VICTOR Ren‚ Jacques         L'Ange au bout de la piste ş1976
-: .oS. 173 N     _VICTOR Ren‚ Jacques         Une rose au coeur d'une montre ş1976
-: .oS. 207 N     _VICTOR Ren‚ Jacques         Une vieille maison dans les Bartas ş1976
-o MASQ_SF    47  1976.T4 R.... ISBN 2-7024-0548-7
-} lmsf047        _J. J. Vincent               ?
->--- 256 pages
-- .oS.    =R     _HERBERT James               Les Rats [Les Rats - 1] ş1974 The Rats şTrad. HUET Jacqueline
-o MASQ_SF    48  1976.T4 R.... ISBN 2-7024-0549-5
-} lmsf048        _Gray Morrow                 ?
->--- 256 pages
-- .oS.    =R     _DERMEZE Yves                Le Titan de l'espace ş1954
-o MASQ_SF    49  1976.T4 R.... ISBN 2-7024-0564-9
-} lmsf049        _J. J. Vincent               ?
->--- 256 pages
-- .oS.    =R     _ANDERSON Poul               Fatum ş1971 The Dancer from Atlantis şTrad. BARRIERE Maxime
-o MASQ_SF    50  1976.T4 R.... ISBN 2-7024-0563-0
-} lmsf050        _?                           ?
->--- 256 pages
-- .oS.    =R     _BRACKETT Leigh              Les Voix de Skaith [Skaith - 1][Eric John Stark] ş1974 The Ginger Star şTrad. ROSENTHAL Mary
-o MASQ_SF    51  1977.T1 R.... ISBN 2-7024-0562-2
-} lmsf051        _Viktor Kalin                ?
->--- 256 pages
-- .oS.    =R     _HENNEBERG Charles           La Naissance des dieux ş1954
-o MASQ_SF    52  1977.T1 R.... ISBN 2-7024-0565-7
-} lmsf052        _Gray Morrow                 ?
->--- 288 pages
-- .oS.     R     _HANOST Paul                 Le Livre des ‚toiles ş1977
-o MASQ_SF    53  1977.T1 R.... ISBN 2-7024-0599-1
-} lmsf053        _Chriss Foss                 N
->--- La seconde nouvelle apparaŒt au singulier ("Racine sur la trŠs belle") dans le sommaire.
-!--- Le titre original de la derniŠre nouvelle est indiqu‚ "Behind the Black Nebular" au lieu de "... Nebula".
->--- 256 pages
-- .oS.    =A6    *LECONTE Marianne            Les PiŠges de l'espace ş1977
-: .oS.   7 N     _ANDERSON Poul               La Main tendue ş1950 The Helping Hand şTrad. BARRIERE Maxime
-: .oS.  55 N     _CALONNE Michel              Racines sur la trŠs belle ş1977
-: .oS.  97 N     _LEIBER Fritz                La Forˆt enchant‚e ş1950 The Enchanted Forest şTrad. BARRIERE Maxime
-: .oS. 131 N     _PRIEST Christopher          G‚n‚ration spontan‚e ş1970 Breeding Ground şTrad. BARRIERE Maxime
-: .oS. 155 N     _CURVAL Philippe             Un op‚ra de l'espace ş1977
-: .oS. 205 N     _HUBBARD L. Ron              DerriŠre la n‚buleuse noire ş1949 The Invaders / Behind the Black Nebula şTrad. BARRIERE Maxime
-o MASQ_SF    54  1977.T1 R.... ISBN 2-7024-0600-9
-} lmsf054        _Jack Gaughan                N  
->--- 192 pages
-- .oS.    =N4    _VAN VOGT Alfred E.          Alpha et Omega ş1977
-: .oS.   7 r     _VAN VOGT Alfred E.         &Alpha et Omega ş1965 Research Alpha şTrad. HUET Jacqueline
-&                _SCHMITZ James H.            
-: .oS. 103 N     _VAN VOGT Alfred E.          Libert‚ programm‚e ş1971 All the Loving Androids şTrad. HUET Jacqueline
-: .oS. 153 N     _VAN VOGT Alfred E.          La Balan‡oire [Isher] ş1941 The Seesaw şTrad. HUET Jacqueline
-: .oS. 173 N     _VAN VOGT Alfred E.          Le Char de Juggernaut ş1944 Juggernaut şTrad. HUET Jacqueline
-o MASQ_SF    55  1977.T1 R.... ISBN 2-7024-0601-7
-} lmsf055        _Michael Whelan              N  
->--- 256 pages
->--- Le premier texte s'intitule dans le sommaire "Les sorciers doivent bruler".
-- .oS.    =U3    _GUNN James E.               L'Holocauste ş1972 The Burning şTrad. ROSENTHAL Mary
-: .oS.   9 N     _GUNN James E.               Au b–cher, les sorciers ! ş1956 Witches Must Burn şTrad. ROSENTHAL Mary
-: .oS.  81 N     _GUNN James E.               L'preuve du feu ş1969 Trial by Fire şTrad. ROSENTHAL Mary
-: .oS. 165 r     _GUNN James E.               La Chasse aux sorciers ş1969 Witch Hunt şTrad. ROSENTHAL Mary
-o MASQ_SF    56  1977.T2 R.... ISBN 2-7024-0602-5
-} lmsf056        _Jan Parker                  ?
->--- 256 pages
->--- Traduction en fran‡ais depuis la traduction anglaise.
-- .oS.    =R     _VAN HERCK Paul              Cresudi dernier ? ş1968-1973 Sam of de pluterdag / Where Were You Last Pluterday? şTrad. ROSENTHAL Mary
-o MASQ_SF    57  1977.T2 R.... ISBN 2-7024-0603-3
-} lmsf057        _Chris Foss                  ?
->--- 288 pages
->--- Seule Marion Zimmer Bradley est cr‚dit‚e, comme d'ailleurs dans toutes les ‚ditions anglophones avant 1992.
-- .oS.    =R     _BRADLEY Marion Zimmer      &Chasse sur la lune rouge [Unit‚ - 1] ş1973 Hunters of the Red Moon şTrad. BARRIERE Maxime
-&                _ZIMMER Paul Edwin           
-o MASQ_SF    58  1977.T2 R.... ISBN 2-7024-0604-1
-} lmsf058        _?                           N  
->--- 256 pages
->--- Chaque nouvelle est pr‚c‚d‚e d'une courte pr‚sentation, probablement de l'anthologiste.
->--- Le titre de la derniŠre nouvelle (Le Cageot) est mal orthographi‚, "Le Gageot" en premiŠre page du texte.
->--- Le nom du traducteur de la sixiŠme nouvelle (Une ombre, juste...) est orthographi‚ "Elic Piir".
-- .oS.    =A8    _STURGEON Theodore          &Les Enfants de Sturgeon ş1977
-&                *LECONTE Marianne            
-: .oS.   5 N     _STURGEON Theodore           Le Moutard ş1941 Brat şTrad. PIIR Eric
-: .oS.  37 N     _STURGEON Theodore           Deux pour cent d'inspiration ş1941 Two Percent Inspiration şTrad. PIIR Eric
-: .oS.  75 N     _STURGEON Theodore           Le Bƒton de Miouhou ş1946 Mewhu's Jet şTrad. MARTIN Bruno
-: .oS. 139 N     _STURGEON Theodore           Le Professeur et l'ours en peluche ş1948 The Professor's Teddy Bear şTrad. DEMUTH Michel
-: .oS. 159 N     _STURGEON Theodore           Le Prodige ş1949 Prodigy şTrad. DEMUTH Michel
-: .oS. 179 N     _STURGEON Theodore           Une ombre, juste une ombre sur le mur ş1951 Shadow, Shadow on the Wall şTrad. PIIR Eric
-: .oS. 197 N     _STURGEON Theodore           Etincelle ş1955 Twink şTrad. PIIR Eric
-: .oS. 231 N     _STURGEON Theodore           Le Cageot ş1970 Crate şTrad. PIIR Eric
-o MASQ_SF    59  1977.T2 R.... ISBN 2-7024-0605-X
-} lmsf059        _Chris Foss                  N  
->--- 256 pages
-- .oS.    =N3    _DEMUTH Michel               La Cl‚ des ‚toiles ş1977
-: .oS.   7 r     _DEMUTH Michel               La Cl‚ des ‚toiles ş1960
-: .oS. 151 N     _DEMUTH Michel               Nocturne pour d‚mons ş1964
-: .oS. 189 N     _DEMUTH Michel               A l'est du Cygne ş1964
-o MASQ_SF    60  1977.T3 R.... ISBN 2-7024-0628-9
-} lmsf060        _Chriss Foss                 ?
->--- 256 pages
->--- Signature Robert Chilson
-- .oS.    =R     _CHILSON Rob                 CimetiŠre de rˆves ş1974 As the Curtain Falls şTrad. BARRIERE Maxime
-o MASQ_SF    61  1977.T3 R.... ISBN 2-7024-0650-5
-} lmsf061        _Jean-Claude Hadi            ?
->--- 256 pages
-- .oS.     R     _SPRIGEL Olivier             Venusine [Setni, enquˆteur temporel] ş1977
-o MASQ_SF    62  1977.T4 R.... ISBN 2-7024-0651-3
-} lmsf062        _Chris Foss                  ?
->--- 256 pages
-- .oS.     R     _HAMILTON Edmond             L'Arme de nulle part [Les Loups des ‚toiles - 1] ş1967 The Weapon from Beyond şTrad. CHOMET Richard
-o MASQ_SF    63  1977.T4 R.... ISBN 2-7024-0652-1
-} lmsf063        _Bruce Pennington            ?
->--- 256 pages
-- .oS.    =R     _BRACKETT Leigh              Les Chiens de Skaith [Skaith - 2][Eric John Stark] ş1974 The Hounds of Skaith şTrad. ROSENTHAL Mary
-o MASQ_SF    64  1977.T4 R.... ISBN 2-7024-0653-X
-} lmsf064        _J. J. Vincent               ?
->--- 256 pages
-- .oS.    =R     _PIPER H. Beam               Les Hommes de poche [Tinounours - 1] ş1962 Little Fuzzy şTrad. HUET Jacqueline
-o MASQ_SF    65  1977.T4 R.... ISBN 2-7024-0694-7
-} lmsf065        _?                           ?
->--- 256 pages
-- .oS.    =R     _BRUNNER John                clipse totale ş1974 Total Eclipse şTrad. ROSENTHAL Mary
-o MASQ_SF    66  1977.T4 R.... ISBN 2-7024-0695-5
-} lmsf066        _Joseph Lombardero           N  
->--- 256 pages
->--- Seul la sixiŠme nouvelle, "Galat‚e" est sign‚e en fin de texte (Charles Henneberg).
-!--- TBD : revoir les auteurs v‚ritables de chaque texte
-- .oS.    =N8    _HENNEBERG Charles          &D‚mons et chimŠres ş1977
-&                _HENNEBERG Nathalie          
-: .oS.   7 N     _HENNEBERG Charles           D‚mons et chimŠres ş1959
-: .oS.  37 N     _HENNEBERG Charles           La Fus‚e fant“me ş1958
-: .oS.  64 N     _HENNEBERG Charles           Pavane pour une plante ş1958
-: .oS.  84 N     _HENNEBERG Nathalie          L'pave ş1962
-: .oS. 107 N     _HENNEBERG Nathalie          Du fond des t‚nŠbres ş1960
-: .oS. 143 N     _HENNEBERG Charles           Galat‚e ş1960
-: .oS. 160 N     _HENNEBERG Nathalie          Ysolde ş1960
-: .oS. 189 N     _HENNEBERG Nathalie          Le Rˆve min‚ral ş1964
-o MASQ_SF    67  1977.T4 R.... ISBN 2-7024-0696-3
-} lmsf067        _Chris Foss                  N  
->--- 256 pages
->--- Chacune des trois nouvelles est pr‚c‚d‚e d'une courte pr‚sentation.
-- .oS.    =A3    *LECONTE Marianne            Les Champs de l'infini ş1977
-: .oS.   7 p     _LECONTE Marianne            Pr‚face ş1977
-: .oS.  11 r     _STURGEON Theodore           La Spirale d'or ş1954 The Golden Helix şTrad. ROSENTHAL Mary
-: .oS. 107 N     _HOLDSTOCK Robert            Un ‚v‚nement sans importance ş1977 A Small Event şTrad. ROSENTHAL Mary
-: .oS. 141 r     _SCORTIA Thomas N.           Les Rives de la nuit ş1956 The Shores of Night şTrad. ROSENTHAL Mary
-o MASQ_SF    68  1978.T1 R.... ISBN 2-7024-0697-1
-} lmsf068        _Jean-Claude Hadi            ?
->--- 192 pages
->--- Le titre original indiqu‚ en page de titre est factice (Martin Slang est le pseudonyme de Paul B‚rato),
->--. et contient probablement une erreur de typo (...Good Says au lieu de ...God Says).
-- .oS.    =R     _SLANG Martin                Dieu ne veut pas mourir ş1978 Thou Shall Not Kill... Ine! Good Says
-o MASQ_SF    69  1978.T1 R.... ISBN 2-7024-0707-2
-} lmsf069        _Bruce Pennington            N  
->--- 256 pages
->--- Chacune des quatre nouvelles du fix-up est pr‚c‚d‚e d'un num‚ro de partie (PremiŠre partie … QuatriŠme partie).
-- .oS.    =U4    _GUNN James E.               Les Immortels ş1962 The Immortals şTrad. ROSENTHAL Mary
-: .oS.   7 N     _GUNN James E.               Le Sang neuf ş1955 New Blood şTrad. ROSENTHAL Mary
-: .oS.  49 N     _GUNN James E.               Le Don ş1960 Donor şTrad. ROSENTHAL Mary
-: .oS.  97 N     _GUNN James E.               L'Interne ş1957 Not so Great an Enemy / Medic şTrad. ROSENTHAL Mary
-: .oS. 175 N     _GUNN James E.               Immortalit‚ ş1958 The Immortals şTrad. ROSENTHAL Mary
-o MASQ_SF    70  1978.T1 R.... ISBN 2-7024-0708-0
-} lmsf070        _Chris Foss                  ?
->--- 256 pages
-- .oS.    =R     _HAMILTON Edmond             Les Mondes interdits [Les Loups des ‚toiles - 2] ş1968 The Closed Worlds şTrad. CHOMET Richard
-o MASQ_SF    71  1978.T1 R.... ISBN 2-7024-0709-9
-} lmsf071        _?                           ?
->--- 288 pages
->--- Fix-up de 5 nouvelles des ann‚es 1943 … 1946.
->--- Seule le nom d'A. E. Van Vogt" est cr‚dit‚ dans l'ouvrage.
-- .oS.    =U     _VAN VOGT Alfred E.         &PlanŠtes … vendre ş1954 Planets for Sale şTrad. HUET Jacqueline
-&                _HULL Edna Mayne             
-o MASQ_SF    72  1978.T2 R.... ISBN 2-7024-0710-2
-} lmsf072        _Bruce Pennington            N  
->--- 256 pages
->--- La premiŠre nouvelle est intitul‚e "Les Anges de la colŠre" dans le sommaire, et "Les Anges de colŠre" en titre de texte.
->--- L'ouvrage est cr‚dit‚  "Nathalie Ch. Henneberg" en page de titre, "N. Henneberg" en couverture et "Nathalie Ch-Henneberg" sur le dos et en quatriŠme de couverture.
-- .oS.    =N6    _HENNEBERG Nathalie          Les Anges de la colŠre ş1978
-: .oS.   7 N     _HENNEBERG Nathalie          Les Anges de colŠre ş1961
-: .oS.  37 N     _HENNEBERG Nathalie          La Jeune Fille et les deux villes ş1970
-: .oS.  71 N     _HENNEBERG Nathalie          Monstre … voix de sirŠne ş1961
-: .oS.  99 N     _HENNEBERG Nathalie          Les MaŒtres de l'heure ş1967
-: .oS. 145 N     _HENNEBERG Nathalie          Port‚s disparus ş1971
-: .o . 195 N     _HENNEBERG Nathalie          Le Soleil de Thul‚ ş1965
-o MASQ_SF    73  1978.T2 R.... ISBN 2-7024-0729-3
-} lmsf073        _Bruce Pennington            N  
->--- 256 pages
-- .oS.    =RN    _LEIBER Fritz                Le Grand Jeu du temps [La Guerre des modifications] ş1978
-: .oS.   7 R     _LEIBER Fritz                La Guerre des modifications [La Guerre des modifications] ş1958 The Big Time şTrad. DENES Herv‚
-!--- Identique … "guerre dans le n‚ant", 58 en magazine, 59 en livre.
-: .o . 217 N     _LEIBER Fritz                L'Homme de guerre [La Guerre des modifications] ş1960 The Oldest Soldier şTrad. LATHIERE Ren‚
-o MASQ_SF    74  1978.T2 R.... ISBN 2-7024-0730-7
-} lmsf074        _Chris Foss                  ?
->--- 256 pages
-- .oS.     R     _DICK Philip K.              Les Joueurs de Titan ş1963 The Game-players of Titan şTrad. BARRIERE Maxime
-o MASQ_SF    75  1978.T2 R.... ISBN 2-7024-0731-5
-} lmsf075        _Jack Faragasso              N  
->--- 256 pages
->--- R‚impression T2-1981
->--- La derniŠre nouvelle est orthographi‚e "s'entrouvre" dans le sommaire, et "s'entr'ouvre" en titre de texte.
-- .oS.    =A4    _STURGEON Theodore          &M‚duse ş1978
-&                *LECONTE Marianne            
-: .oS.   5 p     _LECONTE Marianne            Avant-propos ş1978
-: .oS.   8 N     _STURGEON Theodore           M‚duse ş1942 Medusa şTrad. ROSENTHAL Mary
-: .oS.  43 N     _STURGEON Theodore           Il n'y a pas de d‚fense ş1948 There Is No Defense şTrad. ROSENTHAL Mary
-: .oS. 119 N     _STURGEON Theodore           L'union fait la force ş1948 Unite and Conquer şTrad. ROSENTHAL Mary
-: .oS. 187 N     _STURGEON Theodore           Que le ciel s'entr'ouvre ş1957 It Opens the Sky şTrad. ROSENTHAL Mary
-o MASQ_SF    76  1978.T2 R.... ISBN 2-7024-0732-3
-} lmsf076        _J.-J. Vincent               ?
->--- 256 pages
-- .oS.    =R     _PIPER H. Beam               Tinounours sapiens [Tinounours - 2] ş1964 The Other Human Race / Fuzzy Sapiens şTrad. HUET Jacqueline
-o MASQ_SF    77  1978.T3 R.... ISBN 2-7024-0769-2
-} lmsf077        _Chris Foss                  N  
->--- 256 pages
-- .oS.    =N3    _VAN VOGT Alfred E.          La DerniŠre Forteresse ş1978
-: .oS.   9 r     _VAN VOGT Alfred E.          La DerniŠre Forteresse ş1942 The Last Fortress şTrad. HUET Jacqueline
-: .oS. 123 N     _VAN VOGT Alfred E.          Les Hommes refl‚t‚s ş1971 The Reflected Men şTrad. HUET Jacqueline
-: .oS. 203 N     _VAN VOGT Alfred E.          Les Assassins de la Terre ş1949 The Earth Killers şTrad. PUGI J.-P.
-o MASQ_SF    78  1978.T3 R.... ISBN 2-7024-0770-6
-} lmsf078        _?                           ?
->--- 256 pages
-- .oS.    =R     _SPRIGEL Olivier             Lendemains incertains ş1978
-o MASQ_SF    79  1978.T3 R.... ISBN 2-7024-0771-4
-} lmsf079        _Jean-Claude Hadi            ?
->--- 256 pages
-- .oS.    =R     _HAMILTON Edmond             La PlanŠte des loups [Les Loups des ‚toiles - 3] ş1968 World of the Starwolves şTrad. CHOMET Richard
-o MASQ_SF    80  1978.xx R.... ISBN 2-7024-0772-2
-} lmsf080        _Laurence Kresek             ?
->--- 256 pages
->--- Traduit de la traduction am‚ricaine de 1976.
-- .oS.    =R     _STROUGATSKI Arcady         &Le Dernier Cercle du paradis [Le Monde d'Ivan Jiline] ş1956-1976 Khichtchnye vechtchi veka / The Final Circle of Paradise şTrad. BARRIERE Maxime
-&                _STROUGATSKI Boris           
-o MASQ_SF    81  1978.T4 R.... ISBN 2-7024-0811-7
-} lmsf081        _Thierry Leroux              ?
->--- 256 pages
-- .oS.    =R     _HARRISON Harry              L'Univers captif ş1969 Captive Universe şTrad. TRUCHAUD Fran‡ois
-o MASQ_SF    82  1978.T4 R.... ISBN 2-7024-0812-5
-} lmsf082        _John Schoenherr             ?
->--- 256 pages
-- .oS.    =R     _LAUMER Keith                La Cage infinie ş1972 The Infinite Cage şTrad. HUET Jacqueline
-o MASQ_SF    83  1978.T4 R.... ISBN 2-7024-0813-3
-} lmsf083        _Jean-Claude Hadi            ?
->--- 256 pages
->--- "Le Message de Frolix 8" en couverture, mais "Message de Frolix 8" en page de titre (et sur le dos).
-- .oS.    =R     _DICK Philip K.              Message de Frolix 8 ş1970 Our Friends from Frolix 8 şTrad. LOUIT Robert
-o MASQ_SF    84  1979.xx R.... ISBN 2-7024-0814-1
-} lmsf084        _Thierry Leroux              ?
->--- 256 pages
->--- Les publications originales ant‚rieures l'ont ‚t‚ exclusivement sous le pseudonyme Cyril Judd.
-- .oS.    =R     _KORNBLUTH Cyril M.         &L'Enfant de Mars ş1951 Mars Child / Outpost Mars / Sin in Space şTrad. MARTIN Bruno
-&                _MERRIL Judith               
-o MASQ_SF    85  1979.T1 R.... ISBN 2-7024-0840-0
-} lmsf085        _Raimondo                    ?
->--- 256 pages
->--- Version allong‚e de sa nouvelle _Skeleton Crew_, 1963.
-- .oS.     R     _ALDISS Brian W.             Terrassement ş1965 Earthworks şTrad. MAILLET Fran‡oise
-o MASQ_SF    86  1979.T1 R.... ISBN 2-7024-0841-9
-} lmsf086        _Jean-Claude Hadi            ?
->--- 192 pages
-- .oS.    =R     _HOSKINS Robert              Les Fracass‚s ş1975 The Shattered People şTrad. BARRIERE Maxime
-o MASQ_SF    87  1979.T1 R.... ISBN 2-7024-0842-7
-} lmsf087        _Fran‡ois Allot              ?
->--- 256 pages
-- .oS.    =R     _VANCE Jack                  Les Domaines de Koryphon ş1974 The Domains of Koryphon / The Gray Prince şTrad. PUGI J.-P.
-o MASQ_SF    88  1979.T2 R.... ISBN 2-7024-0843-5
-} lmsf088        _Patrick Demuth              ?
->--- 320 pages
-- .oS.    =R     _ROBERTS Keith               Les Furies ş1965 The Furies şTrad. STRACHITZ Frank
-o MASQ_SF    89  1979.T2 R.... ISBN 2-7024-0879-6
-} lmsf089        _Bilal                       ?
->--- 192 pages
->--- L'ouvrage est le seul de la collection … ne poss‚der ni titre ni auteur sur le dos.
-- .oS.    =R     _TUBB E.C.                   Lallia [Dumarest - 6] ş1971 Lallia şTrad. MAILLET Fran‡oise
-o MASQ_SF    90  1972.T2 R.... ISBN 2-7024-0898-2
-} lmsf090        _Jean-Claude Hadi            ?
->--- 256 pages
->--- R‚vision du roman _Heisenberg's Eyes_ paru en deux ‚pisodes dans Galaxy mi-1966.
-- .oS.    =R     _HERBERT Frank               Les Yeux d'Heisenberg ş1968 The Eyes of Heisenberg şTrad. GERSAULT Alain & CARON-LOWINS Evelyne
-o MASQ_SF    91  1979.T2 R.... ISBN 2-7024-0899-0
-} lmsf091        _Philippe Caza               ?
->--- 256 pages
->--- Chacune des cinq parties de l'ouvrage reprend une nouvelle pr‚c‚demment publi‚e en magazine.
-- .oS.    =U5    _WHITE James                 L'H“pital des ‚toiles [Secteur G‚n‚ral] ş1962 Hospital Station şTrad. PUGI J.-P.
-: .oS.   5 N     _WHITE James                 Docteur [Secteur G‚n‚ral] ş1960 O'Mara's Orphan / Medic şTrad. PUGI J.-P.
-: .oS.  52 N     _WHITE James                 H“pital g‚n‚ral [Secteur G‚n‚ral] ş1957 Sector General şTrad. PUGI J.-P.
-: .oS. 113 N     _WHITE James                 Emily pose des problŠmes [Secteur G‚n‚ral] ş1958 Trouble with Emily / The Trouble with Emily şTrad. PUGI J.-P.
-: .oS. 151 N     _WHITE James                 Un dangereux visiteur [Secteur G‚n‚ral] ş1959 Visitor at Large şTrad. PUGI J.-P.
-: .oS. 199 N     _WHITE James                 Cinq... Un patient peu patient [Secteur G‚n‚ral] ş1960 Out-Patient şTrad. PUGI J.-P.
-o MASQ_SF    92  1979.T2 R.... ISBN 2-7024-0902-4
-} lmsf092        _J.-C. Sayag                 N  
->--- 256 pages
->--- La seconde nouvelle a pour titre "Un m‚t‚orite de calibre 32" en titre de texte, et "Un m‚t‚ore de calibre 32" en sommaire.
-- .oS.    =N5    _LEIBER Fritz                Les Racines du pass‚ ş1979
-!--- Nouvelles appartenant au cycle de la guerre des modifications sauf "Minuit dans le monde miroir" (d'aprŠs isfdb)
-: .oS.   9 N     _LEIBER Fritz                Le Matin de la damnation [La Guerre des modifications] ş1959 Damnation Morning şTrad. CHEDAILLE Eric
-: .oS.  37 N     _LEIBER Fritz                Un m‚t‚orite de calibre 32 [La Guerre des modifications] ş1958 Try and Change the Past şTrad. CHEDAILLE Eric
-: .oS.  55 N     _LEIBER Fritz                Pavane pour les filles-fant“mes [La Guerre des modifications] ş1958 A Deskful of Girls şTrad. CHEDAILLE Eric
-: .oS. 113 N     _LEIBER Fritz                Minuit dans le monde-miroir ş1964 Midnight in the Mirror World şTrad. CHEDAILLE Eric
-: .oS. 147 r     _LEIBER Fritz                Les Racines du pass‚ [La Guerre des modifications] ş1963 No Great Magic şTrad. HERSANT Denise
-o MASQ_SF    93  1979.T3 R.... ISBN 2-7024-0914-8
-} lmsf093        _J.-C. Sayag                 ?
->--- 256 pages
-- .oS.    =R     _NEVILLE Kris                Bettyann ş1970 Bettyann şTrad. POLANIS Jacques
-o MASQ_SF    94  1979.T3 R.... ISBN 2-7024-0929-6
-} lmsf094        _Jean-Claude Hadi            ?
->--- 256 pages
-- .oS.    =R     _LEE Tanith                  Ne mords pas le soleil [Le Bain des Limbes - 1] ş1976 Don't Bite the Sun şTrad. BARRIERE Maxime
-o MASQ_SF    95  1979.T3 R.... ISBN 2-7024-0941-5
-} lmsf095        _Raimondo                    ?
->--- 256 pages
->--- Version expans‚e et r‚vis‚e de _Listen! The Stars!_ (1962).
-- .oS.    =R     _BRUNNER John                A l'‚coute des ‚toiles ş1972 The Stardroppers şTrad. HUET Jacqueline
-o MASQ_SF    96  1979.T4 R.... ISBN 2-7024-0953-9
-} lmsf096        _Jean-Claude Hadi            ?
->--- 256 pages
-- .oS.    =R     _BRACKETT Leigh              Les Pillards de Skaith [Skaith - 3][Eric John Stark] ş1976 The Reavers of Skaith şTrad. ROSENTHAL Mary
-o MASQ_SF    97  1979.T4 R.... ISBN 2-7024-0955-5
-} lmsf097        _Philippe Caza               ?
->--- 256 pages
-- .oS.    =R     _REYNOLDS Mack               La Puissance d'un dieu ş1966 Of Godlike Power / Earth Unaware şTrad. PUGI Jean-Pierre
-o MASQ_SF    98  1979.T4 R.... ISBN 2-7024-0954-7
-} lmsf098        _Patrick Demuth              ?
->--- 256 pages
-- .oS.    =R     _KING Vincent                Une derniŠre lueur ş1969 Light a Last Candle şTrad. CHEDAILLE Eric
-o MASQ_SF    99  1979.T4 R.... ISBN 2-7024-0965-2
-} lmsf099        _Fran‡ois Allot              ?
->--- 192 pages
-- .oS.    =R     _BULMER Kenneth              Irunium ş1967 The Key to Irunium şTrad. SERPH Fran‡oise
-o MASQ_SF   100  1979.T4 R.... ISBN 2-7024-0979-2
-} lmsf100        _Richard Powers              ?
->--- 256 pages
-- .oS.    =R     _KORNBLUTH Cyril M.         &Le Fusilier Cade ş1952 Gunner Cade şTrad. MARTIN Bruno
-&                _MERRIL Judith               
-o MASQ_SF   101  1980.T1 R.... ISBN 2-7024-0990-3
-} lmsf101        _Billi                       ?
->--- 256 pages
->--- Le titre est orthographi‚ "J'ai d'autres brebis..." en couverture et sur le dos.
-- .oS.    =R     _JONES Raymond F.           &J'ai d'autres brebis ş1978 Weeping May Tarry şTrad. LEBEC G‚rard
-&                _DEL REY Lester              
-o MASQ_SF   102  1980.T1 R.... ISBN 2-7024-0991-3
-} lmsf102        _Philippe Adamoff            ?
->--- 320 pages
->--- Bien ‚loign‚ du recueil originel puisque sont absentes deux nouvelles (_To Bell the Cat_ et _The Crystal Ship_) ainsi que les notes de l'auteur, et une nouvelle est ajout‚e ("L'Aide du colporteur").
->--- Vernor Vinge n'est d'ailleurs pas cr‚dit‚ pour cette nouvelle dont il est le co-auteur (L'Aide du colporteur).
-- .oS.    =N5    _VINGE Joan D.               Les Yeux d'ambre ş1979 Eyes of Amber and Other Stories şTrad. PUGI Jean-Pierre
-: .oS.   7 N     _VINGE Joan D.               Les Yeux d'ambre ş1977 Eyes of Amber şTrad. PUGI Jean-Pierre
-: .oS.  71 N     _VINGE Joan D.               Depuis des hauteurs impensables ş1978 View from a Heigh şTrad. PUGI Jean-Pierre
-: .oS.  95 r     _VINGE Joan D.               Mediaman ş1976 Media Man şTrad. PUGI Jean-Pierre
-: .oS. 177 N     _VINGE Joan D.              &L'Aide du colporteur ş1975 The Peddler's Apprentice şTrad. PUGI Jean-Pierre
-&                _VINGE Vernor                
-: .o . 243 r     _VINGE Joan D.               Soldat de plomb ş1974 Tin Soldier şTrad. PUGI Jean-Pierre
-o MASQ_SF   103  1980.T1 R.... ISBN 2-7024-1044-8
-} lmsf103        _Georges Raimondo            ?
->--- 256 pages
-- .oS.    =R     _VANCE Jack                  La Vie ‚ternelle ş1956 To Live Forever şTrad. MAILLET Fran‡oise
-o MASQ_SF   104  1980.T1 R.... ISBN 2-7024-1059-6
-} lmsf104        _Patrick Demuth              ?
->--- 192 pages
-- .oS.    =R     _LUNDWALL Sam J.             Le Monde d'Alice [Alice] ş1971 Alice's world şTrad. GHYS Dominique
-o MASQ_SF   105  1980.T2 R.... ISBN 2-7024-1062-6
-} lmsf105        _Michel Deveaux              ?
->--- 320 pages
->--- Le seul ouvrage de la collection … poss‚der sur le dos une ‚toile (noire dans un disque blanc). On retrouve cette ‚toile sur le dos de deux ouvrages de la collection soeur Le Masque fantastique. Qui sait pourquoi ?
-- .oS.    =R     _FARMER Philip Jos‚          Le Monde Lavalite [La Saga des hommes-dieux - 5] ş1977 The Lavalite World şTrad. PUGI Jean-Pierre
-o MASQ_SF   106  1980.T2 R.... ISBN 2-7024-1072-3
-} lmsf106        _Jean-Claude Hadi            ?
->--- 256 pages
-- .oS.    =R     _PANSHIN Alexei              Source ‚toil‚e [Anthony Villiers - 1] ş1968 Star Well şTrad. MEISTERMANN E.C.L.
-o MASQ_SF   107  1980.T2 R.... ISBN 2-7024-1080-4
-} lmsf107        _Jean-Claude Hadi            ?
->--- 256 pages
->--- Expansion de la novella _The Wonderful Secret_ (1977).
-- .oS.    =R     _LAUMER Keith                Ultimax ş1978 The Ultimax Man şTrad. CHEDAILLE Eric
-o MASQ_SF   108  1980.T2 R.... ISBN 2-7024-1088-X
-} lmsf108        _Kelly Freas                 ?
->--- 288 pages
->--- L'illustration de couverture est cr‚dit‚e "Illustration Three Lions" en quatriŠme de couverture.
-- .oS.    =R     _LUPOFF Richard A.           Trinit‚ ş1976 The Triune Man şTrad. LEBEC G‚rard
-o MASQ_SF   109  1980.T3 R.... ISBN 2-7024-1087-1
-} lmsf109        _Michael Brickman            ?
->--- 192 pages
->--- Expansion de la nouvelle _The Winds of Siros_ ("Les vents de Siros").
-- .oS.    =R     _SILVERBERG Robert           La Semence de la Terre ş1962 The Seed of Earth şTrad. CHEDAILLE Eric
-o MASQ_SF   110  1980.T3 R.... ISBN 2-7024-1089-8
-} lmsf110        _Jean-Claude Hadi            ?
->--- 256 pages
-- .oS.    =R     _LEE Tanith                  Le Vin saphir [Le Bain des Limbes - 2] ş1977 Drinking Sapphire Wine şTrad. BARRIERE Maxime
-o MASQ_SF   111  1980.T4 R.... ISBN 2-7024-1149-5
-} lmsf111        _Philippe Adamoff            ?
->--- 256 pages
->--- Il s'agit d'un ensemble d'histoires racont‚es par les clients d'un mˆme bar, le Callahan.
-- .oS.    =C9    _ROBINSON Spider             Le Bar du coin des temps ş1977 Callahan's Crosstime Saloon şTrad. ERLICH Michel
-: .o .   7 N     _ROBINSON Spider             Le Regard du type ş1973 The Guy With the Eyes
-: .o .  29 N     _ROBINSON Spider             Le Voyageur temporel ş1974 The Time Traveler
-: .o .  72 N     _ROBINSON Spider             Le Complexe du mille-pattes ş1977 The Centipede's Dilemna
-: .o .  81 N     _ROBINSON Spider             Deux tˆtes valent mieux qu'une ş1975 Two Heads Are Better than One
-: .o . 116 N     _ROBINSON Spider             La Loi de la conservation de la douleur ş1974 The Law of Conservation of Pain
-: .o . 151 N     _ROBINSON Spider             En guise de dessert ş1977 Just Dessert
-: .o . 158 N     _ROBINSON Spider             Une voix retentit... ş1975 A Voice Is Heard in Ramah...
-: .o . 189 N     _ROBINSON Spider             Causes surnaturelles ş1975 Unnatural Causes
-: .o . 238 N     _ROBINSON Spider             L'Esprit du bien ş1977 The Wonderful Conspiracy
-o MASQ_SF   112  1980.T4 R.... ISBN 2-7024-1148-7
-} lmsf112        _Pascal Bodin                ?
->--- 224 pages
-- .oS.    =R     _SHAW Bob                    L'Autre Pr‚sent ş1968 The Two-Timers şTrad. GUIOD Jacques
-o MASQ_SF   113  1980.T4 R.... ISBN 2-7024-1177-0
-} lmsf113        _Bilal                       ?
->--- 224 pages
-- .oS.    =R     _TUBB E.C.                   Veruchia [Dumarest - 8] ş1973 Veruchia şTrad. MAILLET Fran‡oise
-o MASQ_SF   114  1981.T1 ..... ISBN 2-7024-1208-4
-} lmsf114        _Fran‡ois Allot              ?
->--- 256 pages
-- .oS.     R     _VANCE Jack                  Les Baladins de la planŠte g‚ante [PlanŠte g‚ante - 2] ş1975 Showboat World şTrad. SERPH Fran‡oise
-o MASQ_SF   115  1981.T1 R.... ISBN 2-7024-1209-2
-} lmsf115        _Jean-Claude Hadi            ?
->--- 224 pages
-- .oS.    =R     _PANSHIN Alexei              La R‚volution Thurb [Anthony Villiers - 2] ş1968 The Thurb Revolution şTrad. MEISTERMANN E.C.L.
-o MASQ_SF   116  1981.T2 R.... ISBN 2-7024-1228-9
-} lmsf116        _Philippe Caza               ?
->--- 288 pages
-- .oS.     R     _WHITE James                 Chirurgien galactique [Secteur G‚n‚ral] ş1963 Star Surgeon şTrad. PUGI Jean-Pierre
-!--- Les ouvrages suivants furent pr‚vus mais jamais ‚dit‚s :
-­o MASQ_SF   117  198?.xx R.... ISBN 2-7024-....-.
-­} lmsf117        _?                           ?
-­>-- Annonc‚ en sommaire des derniers num‚ros.
-­- .oS.     R     _BRACKETT Leigh              La Lune disparue ş1948 The Moon That Vanished / The Moonfire Gods şTrad. ?
-­o MASQ_SF   118  198?.xx R.... ISBN 2-7024-....-.
-­} lmsf118        _?                           ?
-­>--- Annonc‚ en sommaire du num‚ro 115.
-­- .oS.     R     _BUSBY F.M.                  Retour … jamais ş? ? şTrad. ?
-­o MASQ_SF   119  198?.xx R.... ISBN 2-7024-....-.
-­} lmsf119        _?                           ?
-­>--- Annonc‚ en sommaire du num‚ro 115.
-­- .oS.     R     _VANCE Jack                  Le Visage du d‚mon ş1979 The Face şTrad. ?
-­o MASQ_SF   120  198?.xx R.... ISBN 2-7024-....-.
-­} lmsf120        _?                           ?
-­>--- Annonc‚ en sommaire du num‚ro 115.
-­- .oS.     R     _VAN DE VET Charles          Programme sp‚cial ş1975 Special Feature şTrad. ?
-­o MASQ_SF     ?  198?.xx R.... ISBN 2-7024-....-.
-­} lmsf121        _?                           ?
-­- .oS.     R     _WHITE James                 Op‚ration capitale [Secteur G‚n‚ral] ş1971 Major Operation şTrad. ?
-­o MASQ_SF     ?  198?.xx R.... ISBN 2-7024-....-.
-­} lmsf122        _?                           ?
-­- .oS.     R     _WHITE James                 L'Ambulance des ‚toiles [Secteur G‚n‚ral] ş1979 Ambulance Ship şTrad. ?
-­o MASQ_SF     ?  198?.xx R.... ISBN 2-7024-....-.
-­} lmsf123        _?                           ?
-­>--- Annonc‚ "… paraŒtre bient“t" en fin de texte du num‚ro 115.
-­- .oS.     R     _PANSHIN Alexei              Monde mascarade [Anthony Villiers - 3] ş1969 Masque World şTrad. ?
-!FIN_COLL MASQ_SF
-
-!-----------------------------------------------------------------------------
-_ LCEANTH Librairie des Champs Elys‚es, Anthologies
+_ LCEANTH Librairie des Champs Elys‚es - Anthologies
 !-----------------------------------------------------------------------------
 !--- Anthologies fantastiques
 !-----------------------------------------------------------------------------
@@ -857,8 +98,7 @@ o LCEANTH     ?  1978.04 ..... ISBN 2-7024-0743-9
 : .o .     p     _LEVY Michel                 Pr‚face ş1978
 : .o .     p     _LEVY Michel                 Introduction ş1978
 !--- --- Vampires traditionnels ---
-: .oF.     N     _BENSON Edward F.            Le Visage ş1928 The Face şTrad. MARIGNY Jean
-!--- TBC : ou vo 1924 ?
+: .oF.     N     _BENSON Edward F.            Le Visage ş1924 The Face şTrad. MARIGNY Jean
 : .oF.     N     _ROMAN Victor                Quatre pieux de bois ş1925 Foor wooden stakes şTrad. MARIGNY Jean
 : .oF.     N     _HOWARD Robert E.            Le Tertre maudit ş1932 The Horror from the Mound şTrad. MARIGNY Jean
 : .oF.     N     _DERLETH August              Tourbillons de neige ş1939 The Drifting Snow şTrad. MOLS Dominique
@@ -878,7 +118,7 @@ o LCEANTH     ?  1978.04 ..... ISBN 2-7024-0743-9
 : .oF.     N     _WELLS Herbert George        L'trange Orchid‚e ş1894 The Flowering of the Strange Orchid / The Strange Orchid şTrad. MARIGNY Jean
 : .oF.     N     _KELLER David H.             La Guerre du lierre ş1930 The Ivy War şTrad. WATKINS France-Marie
 !--- --- Monstres vampires ---
-: .oF.     N     _BENSON Edward F.            Negotium perambulans ş1924 Negotium Perambulans şTrad. MARIGNY Jean
+: .oF.     N     _BENSON Edward F.            Negotium perambulans ş1922 Negotium Perambulans şTrad. MARIGNY Jean
 : .oF.     N     _BLOCH Robert                Le Visiteur venu des ‚toiles ş1935 The Shambler from the Stars şTrad. BOLAND-MASKENS Claude
 : .oF.     N     _CHETWYND-HAYES Ronald       En quˆte de quelque chose … sucer ş1969 Looking for Something to Suck şTrad. MOLS Dominique
 !--- --- Vampires du futur ---
@@ -950,9 +190,9 @@ o LCEANTH     ?  1980.xx R.... ISBN 2-7024-1160-6
 : .oF.     N     _BEALU Marcel                L'Ultime Seconde ş?
 : .oF.     N     _BIDDELOO Karel              Le Train nautique ş? De watertrain şTrad. D'HOOGHE Marc
 : .oF.     N     _BLOCH Robert                Le Train pour l'enfer ş1958 That Hell-bound Train şTrad. DURAND Ren‚
-: .oF.     N     _BUZZATI Dino                Il ‚tait arriv‚ quelque chose ş1960 Qualcosa era successo
+: .oF.     N     _BUZZATI Dino                Il ‚tait arriv‚ quelque chose ş1949 Qualcosa era successo
 : .oF.     N     _COMPERE Gaston              La Chute dans le gris ş?
-: .oF.     N     _DOYLE Arthur Conan          Le Train vol‚ ş1908 The Lost Special şTrad. LABAT Louis
+: .oF.     N     _DOYLE Arthur Conan          Le Train vol‚ ş1898 The Lost Special şTrad. LABAT Louis
 : .oF.     N     _DAISNE Johan                La Maison du lac ş1947 Hof ter meren şTrad. MELINE Marie-Anne
 : .oF.     N     _FARRERE Claude              Le Train perdu ş1921
 : .oF.     N     _FERRY Jean                  Le M‚canicien ş?
@@ -961,7 +201,7 @@ o LCEANTH     ?  1980.xx R.... ISBN 2-7024-1160-6
 : .oF.     N     _NOYES Alfred                Le Train de minuit ş1935 Midnight Express
 : .oF.     N     _RENARD Maurice              Le Rail sanglant ş1927
 : .oF.     N     _SCHWOB Marcel               L'Homme voil‚ ş1890
-: .oF.     N     _STERNBERG Jacques           Le Train ş1957
+: .oF.     n     _STERNBERG Jacques           Le Train ş1957
 : .oF.     N     _VIAN Boris                  Les Poissons morts ş1955
 : .oF.     N     _VAN REMOORTERE Julien       Le Saut du train ş1974 Treinspringen şTrad. D'HOOGHE Marc
 o LCEANTH     ?  1981.05 R.... ISBN 2-7024-1232-7
@@ -1014,8 +254,8 @@ o LCE         ?  1981.xx ..... ISBN 2-7024-1226-2
 &                _LEVIE Fran‡oise             
 
 !-----------------------------------------------------------------------------
-_ MASQUE  Librairie des Champs Elys‚es, Coll. Le Masque
-_ EDMASQU Ed. du Masque
+_ MASQUE  Librairie des Champs Elys‚es - Le Masque
+_ EDMASQU Editions du Masque
 !-----------------------------------------------------------------------------
 !--- Librairie des Champs Elys‚es, Le Masque
 !--- Le Masque. Collection de romans d'aventures, cr‚‚e et dirig‚e par Albert Pigasse.
@@ -1043,9 +283,12 @@ o MASQUE    107  1932.xx ..... ISBN -
 o MASQUE    139  1933.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     R     _ROHMER Sax                  Le Masque de Fu-Manchu [Fu Manchu - 3] ş1917 The Si-Fan Mysteries / The Hand of Fu Manchu şTrad. THIES Henri
-o MASQUE    185  1935.xx ..... ISBN _
+o MASQUE    185  1935.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     R     _ROHMER Sax                  La Fille de Fu-Manchu [Fu Manchu - 4] ş1931 The Daughter of Fu Manchu şTrad. ?
+o MASQUE      ?  1990.xx ..... ISBN 2-7024-2019-2
+} noimg          _?                           ?
+- .o .     R     _CARR John Dickson           La Chambre ardente ş1937 The Burning Court şTrad. ENDREBE Maurice-Bernard
 o MASQUE   2455  2001.xx ..... ISBN 2-7024-3055-4
 } noimg          _?                           ?
 !--- [HL] En apparence, petite ville tranquille et gens biens sous tous rapports, mais en r‚alit‚, cingl‚s sectaires et tueurs de l'ombre.
@@ -1104,7 +347,7 @@ o EDMASQU     ?  2014.02 ..... ISBN 978-2-7024-3587-8
 &                _BRETIN Denis                
 
 !-----------------------------------------------------------------------------
-_ MASQITR Librairie des Champs Elys‚es, Les Introuvables du Masque
+_ MASQITR Librairie des Champs Elys‚es - Les Introuvables du Masque
 !-----------------------------------------------------------------------------
 o MASQITR    94  1996.12 ..... ISBN 2-7024-2708-1
 } noimg          _?                           ?
@@ -1114,7 +357,7 @@ o MASQITR   107  1997.04 ..... ISBN 2-7024-2718-9
 - .oF.     R     _ROHMER Sax                  Le Diabolique Fu-Manchu [Fu Manchu - 2] ş1916 The Devil Doctor / The Return of Dr Fu Manchu şTrad. THIES Henri
 
 !-----------------------------------------------------------------------------
-_ MASQINT Librairie des Champs Elys‚es, Les Int‚grales du Masque
+_ MASQINT Librairie des Champs Elys‚es - Les Int‚grales du Masque
 !-----------------------------------------------------------------------------
 o MASQINT     ?  1996.xx ..... ISBN 2-7024-2680-8
 } noimg          _?                           ?
@@ -1134,7 +377,7 @@ o MASQINT     ?  1996.06 ..... ISBN 2-7024-2561-5
 : .oF.     R     _ROHMER Sax                  Le ProphŠte au masque d'or [Fu Manchu - 5] ş1932 The Mask of Fu Manchu şTrad. PARSONS Jacques
 
 !-----------------------------------------------------------------------------
-_ MASQCLU Ed. du Masque, Le Club des Masques
+_ MASQCLU Editions du Masque - Le Club des Masques
 !-----------------------------------------------------------------------------
 !--- Poche
 !-----------------------------------------------------------------------------
@@ -1151,7 +394,7 @@ o MASQCLU   584  1988.06 ..... ISBN 2-7024-1809-0
 : .o .     N     _CHRISTIE Agatha             Le Cas ‚trange de sir Arthur Carmichael ş1933 The Strange Case of Sir Arthur Carmichael
 : .o .     N     _CHRISTIE Agatha             Dans un battement d'ailes ş1933 The Call of Wings
 : .o .     N     _CHRISTIE Agatha             La Gitane ş1933 The Gipsy
-: .o .     N     _CHRISTIE Agatha             La Vivante et la morte ş1925 The Fourth Man
+: .o .     N     _CHRISTIE Agatha             La Vivante et la morte ş1933 The Fourth Man
 : .o .     N     _CHRISTIE Agatha             Fleur de magnolia ş1925 Magnolia Blossom
 : .o .     N     _CHRISTIE Agatha             La DerniŠre S‚ance ş1926 The Last Seance
 : .o .     N     _CHRISTIE Agatha             Le Miroir ş1934 In a Glass Darkly
@@ -1159,7 +402,7 @@ o MASQCLU   584  1999.xx ..... ISBN 2-7024-1809-0
 } noimg          _?                           ?
 + MASQCLU   584  2006.06 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-!--- TBD si identique version 88 (plus de pages, pas de cr‚dit F. Gu‚rif sur BNF... mˆme remarques que version 1992)
+!--- TBD si identique version 88 (plus de pges, pas de cr‚dit F. Gu‚rif sur BNF... mˆme remarques que version 1992)
 - .oF.    cN12   _CHRISTIE Agatha             Le Flambeau ş1933 The Hound of Death and Other Stories şTrad. MARTIN Jean-Paul
 : .o .     N     _CHRISTIE Agatha             La DerniŠre S‚ance ş1926 The Last Seance
 : .o .     N     _CHRISTIE Agatha             Le Chien de la mort ş1933 The Hound of Death
@@ -1173,10 +416,13 @@ o MASQCLU   584  1999.xx ..... ISBN 2-7024-1809-0
 : .o .     N     _CHRISTIE Agatha             Le Cas ‚trange de sir Arthur Carmichael ş1933 The Strange Case of Sir Arthur Carmichael
 : .o .     N     _CHRISTIE Agatha             Dans un battement d'ailes ş1933 The Call of Wings
 : .o .     N     _CHRISTIE Agatha             S.O.S. ş1926 S.O.S.
+o MASQCLU   616  1992.xx ..... ISBN 2-7024-2312-4
+} noimg          _?                           ?
+- .o .     R     _CARR John Dickson           La Chambre ardente ş1937 The Burning Court şTrad. ENDREBE Maurice-Bernard
 
 !-----------------------------------------------------------------------------
-_ MASQ_PO Le Masque, Coll. Police
-_ MASQ_RP Le Masque, Coll. les MaŒtres du Roman Policier
+_ MASQ_PO Le Masque - Police
+_ MASQ_RP Le Masque - Les MaŒtres du Roman Policier
 !-----------------------------------------------------------------------------
 o MASQ_PO  1969  1969.xx ..... ISBN -
 } noimg          _?                           ?
@@ -1199,7 +445,7 @@ o MASQ_RP  2446  2001.xx ..... ISBN 2-7024-3001-5
 : .oSP     N     _GARRETT Randall             Le Napoli Express [Les Enquˆtes de Lord Darcy] ş1979 The Napoli Express şTrad. MEISTERMANN C. & L.
 
 !-----------------------------------------------------------------------------
-_ LCE_GCF Librairie des Champs Elys‚es, Les grands contes fantastiques
+_ LCE_GCF Librairie des Champs Elys‚es - Les grands contes fantastiques
 !-----------------------------------------------------------------------------
 !--- Collection "Les grands contes fantastiques"
 !-----------------------------------------------------------------------------
@@ -1219,27 +465,27 @@ o LCE_GCF     1  1980.05 ..... ISBN 2-7024-1081-2
 : .oF.     N     _JACOBI Carl                 Le Visage dans le vent ş1936 The Face in the Wind şTrad. FINNE Jacques
 o LCE_GCF     2  1980.10 ..... ISBN 2-7024-1144-4
 } champs_gcf2    _?                           ?
-- .oKF    _N20   _JACKSON Shirley             La Loterie ş1949 The Lottery şTrad. MOLS Dominique
+- .pFK    _N20   _JACKSON Shirley             La Loterie ş1949 The Lottery şTrad. MOLS Dominique
 : .o .     p     _BARONIAN Jean-Baptiste      Avant-propos ş1980
 : .o .     N     _JACKSON Shirley             La Dent ş1948 The Tooth
 : .o .     N     _JACKSON Shirley             L'Amant diabolique ş1949 The Deamon Lover
-: .o .     N     _JACKSON Shirley             Le Villageois ş1944 The Villager
-: .o .     N     _JACKSON Shirley             Charles ş1948 Charles
-: .o .     N     _JACKSON Shirley             Ma vie chez R.H. Macy ş1941 My Life With R. H. Macy
-: .o .     N     _JACKSON Shirley             Le Sorcier ş1949 The Witch
-: .o .     N     _JACKSON Shirley             Sept types d'ambigu‹t‚ ş1946 Seven Types of Ambiguity
-: .o .     N     _JACKSON Shirley             Les Ren‚gats ş1948 The Renegade
-: .o .     N     _JACKSON Shirley             Ebri‚t‚ ş1949 The Intoxicated
+: .x .     N     _JACKSON Shirley             Le Villageois ş1944 The Villager
+: .x .     N     _JACKSON Shirley             Charles ş1948 Charles
+: .x .     N     _JACKSON Shirley             Ma vie chez R.H. Macy ş1941 My Life With R. H. Macy
+: .x .     N     _JACKSON Shirley             Le Sorcier ş1949 The Witch
+: .x .     N     _JACKSON Shirley             Sept types d'ambigu‹t‚ ş1946 Seven Types of Ambiguity
+: .x .     N     _JACKSON Shirley             Les Ren‚gats ş1948 The Renegade
+: .x .     N     _JACKSON Shirley             Ebri‚t‚ ş1949 The Intoxicated
 : .o .     N     _JACKSON Shirley             Statue de sel ş1948 Pillar of Salt
-: .o .     N     _JACKSON Shirley             Colloque ş1944 Colloquy
-: .o .     N     _JACKSON Shirley             Le Pantin ş1949 The Dummy
-: .o .     N     _JACKSON Shirley             Combat judiciaire ş1944 Trial by Combat
-: .o .     N     _JACKSON Shirley             Bien sur ş1949 Of Course
-: .o .     N     _JACKSON Shirley             Les Hommes avec leurs grosses chaussures ! ş1947 Men With Their Big Shoes
-: .o .     N     _JACKSON Shirley             La Lettre de Jimmy ş1949 Got a Letter from Jimmy
-: .o .     N     _JACKSON Shirley             Comme ma mŠre les faisait ş1949 Like Mother Used to Make
-: .o .     N     _JACKSON Shirley             Jardin fleuri ş1949 Flower Garden
-: .o .     N     _JACKSON Shirley             Venez en Irlande danser avec moi ş1943 Come Dance With Me in Ireland
+: .x .     N     _JACKSON Shirley             Colloque ş1944 Colloquy
+: .x .     N     _JACKSON Shirley             Le Pantin ş1949 The Dummy
+: .x .     N     _JACKSON Shirley             Combat judiciaire ş1944 Trial by Combat
+: .x .     N     _JACKSON Shirley             Bien s–r ş1949 Of Course
+: .x .     N     _JACKSON Shirley             Les Hommes avec leurs grosses chaussures ! ş1947 Men With Their Big Shoes
+: .x .     N     _JACKSON Shirley             La Lettre de Jimmy ş1949 Got a Letter from Jimmy
+: .x .     N     _JACKSON Shirley             Comme ma mŠre les faisait ş1949 Like Mother Used to Make
+: .x .     N     _JACKSON Shirley             Jardin fleuri ş1949 Flower Garden
+: .x .     N     _JACKSON Shirley             Venez en Irlande danser avec moi ş1943 Come Dance With Me in Ireland
 : .o .     N     _JACKSON Shirley             La Loterie ş1948 The Lottery
 o LCE_GCF     3i 1981.xx ..... ISBN 2-7024-1206-8
 } champs_gcf3    _?                           ?
@@ -1285,15 +531,26 @@ o LCE_GCF     4i 1981.10 ..... ISBN 2-7024-1257-2
 !--- Sous-titre : (Extrait des notes du regrett‚ Dr Edward Carstairs, docteur en m‚decine et ‚minent psychologue)
 : .o .     N     _CHRISTIE Agatha             Dans un battement d'ailes ş1933 The Call of Wings şTrad. MOLS Dominique
 : .o .     N     _CHRISTIE Agatha             La Gitane ş1933 The Gipsy şTrad. BARRIERE Maxime
-: .o .     N     _CHRISTIE Agatha             La Vivante et la morte ş1925 The Fourth Man şTrad. DURAND Roger
+: .o .     N     _CHRISTIE Agatha             La Vivante et la morte ş1933 The Fourth Man şTrad. DURAND Roger
 : .o .     N     _CHRISTIE Agatha             Fleur de magnolia ş1925 Magnolia Blossom şTrad. MOLS Dominique
 : .o .     N     _CHRISTIE Agatha             La DerniŠre S‚ance ş1926 The Last Seance şTrad. H. R.
 : .o .     N     _CHRISTIE Agatha             Le Miroir ş1934 In a Glass Darkly şTrad. MOLS Dominique
 
+!-----------------------------------------------------------------------------
+_ LCE_PUL Librairie des Champs Elys‚es - Pulp S‚rie
+!-----------------------------------------------------------------------------
+!--- 
+!-----------------------------------------------------------------------------
+o LCE_PUL     9  1998.xx ..... ISBN 2-7024-1081-2
+} noimg          _?                           ?
+!--- Raymond Chandler, Ed McBain, James Hadley Chase, Dashiell Hammett, Mickey Spillane, Ross Macdonald, Peter Cheyney, James Ellroy, Elmore Leonard and Quentin Tarantino
+- .xP.    iNx    *HAINING Peter               Pulp Frictions ş1996 Pulp Frictions: Hardboiled Stories
+: .x .     N     _KING Stephen                Quatuor … cinq ş1972 The Fifth Quarter
+
 !DEB_HEAD LCE_HD
 !TIT_COLL Harry Dickson
 !-----------------------------------------------------------------------------
-_ LCE_HD  Librairie des Champs Elys‚es, Harry Dickson
+_ LCE_HD  Librairie des Champs Elys‚es - Harry Dickson
 !-----------------------------------------------------------------------------
 !--- De 1980 … 1981, la Librairie des Champs Elys‚es a propos‚ sa propree
 !--. collection Harry Dickson. Neufs recueils sont parus, contenant chacun
@@ -1316,11 +573,11 @@ o LCE_HD      2  1980.05 ..... ISBN 2-7024-1042-1
 - .oFP    _r3    _RAY Jean                    Harry Dickson - Tome 2 [Harry Dickson] ş1980
 : .o .     r     _RAY Jean                    L'Ermite du marais du diable [Harry Dickson] ş1931
 : .o .     r     _RAY Jean                    Le D‚mon pourpre [Harry Dickson] ş1932
-: .o .     r     _RAY Jean                    Le Signe de la mort [Harry Dickson] ş?
+: .o .     r     _RAY Jean                    Le Signe de la mort [Harry Dickson] ş1931
 o LCE_HD      3  1980.05 ..... ISBN 2-7024-1043-X
 } lce_hd3        _?                           N
 - .oFP    _r3    _RAY Jean                    Harry Dickson - Tome 3 [Harry Dickson] ş1980
-: .o .     r     _RAY Jean                    Les Feux follets du marais rouge [Harry Dickson] ş?
+: .o .     r     _RAY Jean                    Les Feux follets du marais rouge [Harry Dickson] ş1932
 : .o .     r     _RAY Jean                    La Bande de l'araign‚e [Harry Dickson] ş1933
 : .oF.     r     _RAY Jean                    Le Monstre blanc [Harry Dickson] ş1932
 o LCE_HD      4  1980.10 ..... ISBN 2-7024-1143-6
@@ -1328,7 +585,7 @@ o LCE_HD      4  1980.10 ..... ISBN 2-7024-1143-6
 - .oFP    _r3    _RAY Jean                    Harry Dickson - Tome 4 [Harry Dickson] ş1980
 : .o .     r     _RAY Jean                    Le Tr‚sor du manoir de Streetham [Harry Dickson] ş1932
 : .o .     r     _RAY Jean                    Les Spectres-Bourreaux [Harry Dickson] ş1933
-: .o .     r     _RAY Jean                    La Maison du scorpion [Harry Dickson] ş?
+: .o .     r     _RAY Jean                    La Maison du scorpion [Harry Dickson] ş1933
 o LCE_HD      5  1980.10 R.... ISBN 2-7024-1150-9
 } lce_hd5        _?                           N
 - .oFP    _r3    _RAY Jean                    Harry Dickson - Tome 5 [Harry Dickson] ş1980
@@ -1339,7 +596,7 @@ o LCE_HD      6  1980.10 ..... ISBN 2-7024-1151-7
 } lce_hd6        _?                           N
 - .oFP    _r3    _RAY Jean                    Harry Dickson - Tome 6 [Harry Dickson] ş1980
 : .oF.     r     _RAY Jean                    Le Vampire aux yeux rouges [Harry Dickson] ş1933
-: .o .     r     _RAY Jean                    La FlŠche fant“me [Harry Dickson] ş?
+: .o .     r     _RAY Jean                    La FlŠche fant“me [Harry Dickson] ş1933
 : .o .     r     _RAY Jean                    Les Chevaliers de la Lune [Harry Dickson] ş1932
 o LCE_HD      7  1981.03 ..... ISBN 2-7024-1203-3
 } lce_hd7        _?                           N
@@ -1352,7 +609,7 @@ o LCE_HD      8  1981.03 ..... ISBN 2-7024-1204-1
 - .oFP    _r3    _RAY Jean                    Harry Dickson - Tome 8 [Harry Dickson] ş1981
 : .o .     r     _RAY Jean                    L'Œle de la terreur [Harry Dickson] ş1933
 : .o .     r     _RAY Jean                    Le MystŠre de la forˆt [Harry Dickson] ş1933
-: .o .     r     _RAY Jean                    La Maison hant‚e de Fulham Road [Harry Dickson] ş?
+: .o .     r     _RAY Jean                    La Maison hant‚e de Fulham Road [Harry Dickson] ş1933
 o LCE_HD      9  1981.03 R.... ISBN 2-7024-1205-X
 } lce_hd9        _?                           N
 - .oFP    _r3    _RAY Jean                    Harry Dickson - Tome 9 [Harry Dickson] ş1981
@@ -1361,458 +618,8 @@ o LCE_HD      9  1981.03 R.... ISBN 2-7024-1205-X
 : .o .     r     _RAY Jean                    La Pieuvre noire [Harry Dickson] ş1933
 !FIN_COLL LCE_HD
 
-!DEB_HEAD MASQFA1
-!TIT_COLL Le Masque Fantastique
 !-----------------------------------------------------------------------------
-_ MASQFA1 Le Masque Fantastique "rouge" ş1976-1977
-!-----------------------------------------------------------------------------
-!--- Cette jolie collection, dite "1Šre s‚rie" ou "rouge" contient 18 ouvrages
-!--. se partageant entre fantastique et Heroic fantasy (Fox,
-!--. Howard, Carter, Verlanger). On y trouve ‚galement un peu de science-fiction (Henneberg).
-!--- A noter, les deux derniers volumes de la suite des aventures de Kothar
-!--. (Kothar and the conjurer's Curse et Kothar and the Wizard Slayer) n'ont
-!--. malheureusement jamais ‚t‚ traduit.
-!--- Directeur de collection : TBD
-!-----------------------------------------------------------------------------
-!FIN_HEAD MASQFA1
-!DEB_COLL MASQFA1
-o MASQFA1     1  1976.xx R.... ISBN 2-7024-0479-0
-} lmf1_01        _?                           N
-- .oF.    _N8    _HOWARD Robert E.            L'Homme noir ş1963 The Dark Man şTrad. TRUCHAUD Fran‡ois
-: .o .     N     _HOWARD Robert E.            L'Homme noir ş1931 The Dark Man şTrad. TRUCHAUD Fran‡ois
-: .o .     N     _HOWARD Robert E.            Les Pigeons de l'enfer ş1938 Pigeons from Hell şTrad. TRUCHAUD Fran‡ois
-: .o .     N     _HOWARD Robert E.            Les Dieux de Bal-Sagoth ş1931 The Gods of Bal-Sagoth şTrad. TRUCHAUD Fran‡ois
-: .o .     N     _HOWARD Robert E.            Les Enfants de la nuit ş1931 The Children of the Night şTrad. TRUCHAUD Fran‡ois
-: .o .     N     _HOWARD Robert E.            Le Jardin de la peur ş1934 The Garden of Fear şTrad. TRUCHAUD Fran‡ois
-: .o .     N     _HOWARD Robert E.            La Chose ail‚e sur le toit ş1932 The Thing on the Roof şTrad. TRUCHAUD Fran‡ois
-: .o .     N     _HOWARD Robert E.            Ne me creusez pas de tombe ş1937 Dig Me No Grave şTrad. TRUCHAUD Fran‡ois
-: .o .     N     _HOWARD Robert E.            Dans la forˆt de VillefŠre ş1925 In the Forest of VillefŠre şTrad. TRUCHAUD Fran‡ois
-o MASQFA1     2  1976.xx R.... ISBN 2-7024-0480-4
-} lmf1_02        _?                           N
-- .oF.    cU4    _ANDERSON Poul               Op‚ration Chaos ş1971 Operation Chaos şTrad. ROSENTHAL Mary
-?: .o .     N     _ANDERSON Poul               - (sans titre) ş1956 Operation Afreet
-?: .o .     N     _ANDERSON Poul               - (sans titre) ş1957 Operation Salamander
-?: .o .     N     _ANDERSON Poul               - (sans titre) ş1959 Operation Incubus
-?: .o .     N     _ANDERSON Poul               - (sans titre) ş1969 Operation Changeling
-o MASQFA1     3  1976.xx R.... ISBN 2-7024-0481-2
-} lmf1_03        _?                           N
-- .oS.     R     _VERLANGER Julia             Les Portes sans retour ş1976
-o MASQFA1     4  1976.xx R.... ISBN 2-7024-0482-0
-} lmf1_04        _?                           N
-- .oS.     R     _HENNEBERG Nathalie          Le Sang des astres ş1963
-o MASQFA1     5  1976.xx R.... ISBN 2-7024-0512-6
-} lmf1_05        _?                           N
-!--- Contient L'‚p‚e du sorcier ; Le tr‚sor dans le labyrinthe ; La femme du bois ensorcel‚
-- .oY.     R     _FOX Gardner F.              Kothar le barbare [Kothar] ş1970 Kothar-Barbarian Swordman şTrad. TRUCHAUD Fran‡ois
-o MASQFA1     6  1976.xx R.... ISBN 2-7024-0513-4
-} lmf1_06        _?                           N
-- .oF.     R     _STEINER Kurt                La ChaŒne de feu ş1959
-o MASQFA1     7  1976.xx R.... ISBN 2-7024-0514-2
-} lmf1_07        _?                           N
-!--- 1943 dans Unknown, sortie livre en 1953
-- .oF.     R     _LEIBER Fritz                Ballet de sorciŠres ş1943 Conjure Wife şTrad. ROSENTHAL Mary
-o MASQFA1     8  1976.xx R.... ISBN 2-7024-0543-6
-} lmf1_08        _?                           N
-- .oY.     R     _CARTER Lin                  La Geste de Kadji ş1971 The Quest of Kadji şTrad. HUET Jacqueline
-o MASQFA1     9  1976.xx R.... ISBN 2-7024-0515-0
-} lmf1_09        _?                           N
-- .oY.     R     _VERLANGER Julia             La Fl–te de verre froid ş1976
-o MASQFA1    10  1976.xx R.... ISBN 2-7024-0544-4
-} lmf1_10        _?                           N
-!--- Contient : L'h‚lice de Nirvalla ; Une nu‚e de d‚mons
-- .oY.     R     _FOX Gardner F.              Kothar l'aventurier [Kothar] ş1969 Kothar of the Magic Sword şTrad. TRUCHAUD Fran‡ois
-o MASQFA1    11  1976.xx R.... ISBN 2-7024-0545-2
-} lmf1_11        _?                           N
-- .oY.     R     _CARTER Lin                  Thongor et le magicien de L‚murie [Thongor - 1] ş1965 The Wizard of Lemuria / Thongor and the Wizard of Lemuria şTrad. TRUCHAUD Fran‡ois
-o MASQFA1    12  1977.xx R.... ISBN 2-7024-0580-0
-} lmf1_12        _?                           N
-- .oF.     R     _LUCK John                   L'ˆtre myst‚rieux [L‚onox] ş1977
-o MASQFA1    13  1977.xx R.... ISBN 2-7024-0581-9
-} lmf1_13        _?                           N
-- .oS.    _N9    _HENNEBERG Charles           D'or et de nuit ş1977
-: .oS.     N     _HENNEBERG Nathalie          D'or et de nuit ş1962
-: .oS.     N     _HENNEBERG Charles           Les Non-Humains ş1958
-: .oS.     N     _HENNEBERG Charles           Pˆcheurs de lune ş1959
-: .oS.     N     _HENNEBERG Charles           Exil‚es ş1959
-: .oS.     N     _HENNEBERG Nathalie          La Mandragore noire ş1964
-: .oS.     N     _HENNEBERG Charles           L'vasion ş1957
-: .oS.     N     _HENNEBERG Charles           La Sentinelle ş1956
-: .oS.     N     _HENNEBERG Charles           Vert comme esp‚rance ş1959
-: .oS.     N     _HENNEBERG Charles           La PlanŠte pourpre ş1959
-o MASQFA1    14  1977.xx R.... ISBN 2-7024-0582-7
-} lmf1_14        _?                           N
-- .oF.    _N7    _HODGSON William Hope        Carnacki et les fant“mes [Carnacki] ş1913 Carnacki the Ghost-Finder şTrad. TRUCHAUD Fran‡ois
-: .oF.     N     _HODGSON William Hope        La Porte [Carnacki] ş1910 The Gateway of the Monster şTrad. TRUCHAUD Fran‡ois
-: .oF.     N     _HODGSON William Hope        La Maison parmi les lauriers [Carnacki] ş1910 The House Among the Laurels / Carnacki the Ghost-Finder şTrad. TRUCHAUD Fran‡ois
-: .oF.     N     _HODGSON William Hope        La Chambre qui sifflait [Carnacki] ş1910 The Whistling Room şTrad. TRUCHAUD Fran‡ois
-: .oF.     N     _HODGSON William Hope        Le MystŠre de la maison hant‚e [Carnacki] ş1910 The Searcher of the End House şTrad. TRUCHAUD Fran‡ois
-: .oF.     N     _HODGSON William Hope        Le Cheval de l'invisible [Carnacki] ş1910 The Horse of the Invisible şTrad. TRUCHAUD Fran‡ois
-: .oF.     N     _HODGSON William Hope        Le Jarvee [Carnacki] ş1929 The Haunted Jarvee şTrad. TRUCHAUD Fran‡ois
-: .oF.     N     _HODGSON William Hope        Le Verrat [Carnacki] ş1913 The Hog şTrad. TRUCHAUD Fran‡ois
-o MASQFA1    15  1977.xx R.... ISBN 2-7024-0583-5
-} lmf1_15        _?                           N
-- .oY.     R     _FOX Gardner F.              Kothar et les d‚mons [Kothar] ş1969 Kothar and the Demon Queen şTrad. TRUCHAUD Fran‡ois
-o MASQFA1    16  1977.xx R.... ISBN 2-7024-0614-9
-} lmf1_16        _?                           N
-!--- Intitul‚ "Thongor et la cit‚ des dragons" … la fois sur couverture et au dos.
-- .oY.     R     _CARTER Lin                  Thongor et la cit‚ du dragon [Thongor - 2] ş1970 Thongor of Lemuria / Thongor and the Dragon City şTrad. FAGNE Henry
-o MASQFA1    17  1977.xx R.... ISBN 2-7024-0615-7
-} lmf1_17        _?                           N
-- .oF.     R     _STEINER Kurt                Le Masque des regrets ş1960
-o MASQFA1    18  1977.xx R.... ISBN 2-7024-0616-5
-} lmf1_18        _?                           N
-- .oF.     R     _HAIGH Alan                  La Porte des t‚nŠbres ş1977
-!--- Les ouvrages suivants furent pr‚vus mais jamais ‚dit‚s :
-­o MASQFA1    19  197?.xx ..... ISBN -
-­} noimg          _?                           ?
-­- .oY.     R     _LEIBER Fritz                Le Livre des ‚p‚es ş? ?
-­o MASQFA1    20  197?.xx ..... ISBN -
-­} noimg          _?                           ?
-­- .oY.     R     _FOX Gardner F.              Kothar et les n‚cromants [Kothar] ş1970 Kothar and The Conjuror's Curse
-­o MASQFA1    21  197?.xx ..... ISBN -
-­} noimg          _?                           ?
-­- .oF.     Ax    *LECONTE Marianne            Les Fant“mes de Sturgeon ş?
-­o MASQFA1    22  197?.xx ..... ISBN -
-­} noimg          _?                           ?
-­- .oY.     R     _LEIBER Fritz                Les Deux Voleurs de Lankhmar [Le Livre des ‚p‚es T.2] ş? ?
-!FIN_COLL MASQFA1
-
-!DEB_HEAD MASQFA2
-!TIT_COLL Le Masque Fantastique
-!-----------------------------------------------------------------------------
-_ MASQFA2 Le Masque Fantastique "noir" ş1978-1980
-!-----------------------------------------------------------------------------
-!--- Si la premiŠre s‚rie du Masque Fantastique m‚lait all‚grement fantasy, 
-!--. fantastique et SF, cette seconde mouture, "deuxiŠme s‚rie" ou "noir",
-!--. a ‚t‚ beaucoupe plus s‚lective, en effectuant un retour au sources du
-!--. fantastique traditionnel : Haggard, Perutz, Quinn, Shirley Jackson, le Dracula de Stoker, qui
-!--. cotoient les bons auteurs plus modernes (Sturgeon, Campbell, Masterton, Shirley Jackson).
-!--- A noter que Jean Ray s'y taille une place de roi, avec 9 ouvrages sur 30 !
-!--- Directeur de collection : TBD
-!--- Format : TBD, couverture noire avec illustration de Tibor Csernus
-!-----------------------------------------------------------------------------
-!FIN_HEAD MASQFA2
-!DEB_COLL MASQFA2
-o MASQFA2     1  1978.xx ..... ISBN 2-7024-0723-4
-} lmf2_01        _?                           N
-- .oF.     R     _RAY Jean                    Malpertuis ş1943
-o MASQFA2     2  1978.xx R.... ISBN 2-7024-0724-2
-} lmf2_02        _?                           N
-- .oF.    _N9    _RAY Jean                    Les Cercles de l'‚pouvante ş1943
-: .oF.     p     _RAY Jean                    Liminaire : les cercles ş1943
-: .oF.     N     _RAY Jean                    La Main de Goetz Von Berlichingen ş1943
-: .oF.     N     _RAY Jean                    L'Assiette de Moustiers ş1943
-: .oF.     N     _RAY Jean                    Le CimetiŠre de Marlyweck ş1943
-: .oF.     N     _RAY Jean                    Le Dernier Voyageur ş1929
-: .oF.     N     _RAY Jean                    L'Homme qui osa ş1943
-: .oF.     N     _RAY Jean                    Drer, l'idiot ş1929
-: .oF.     N     _RAY Jean                    L'Auberge des spectres ş1943
-: .oF.     N     _RAY Jean                    L'Histoire du W–lkh ş1943
-: .oF.     N     _RAY Jean                    Le Miroir noir ş1943
-: .oF.     o     _RAY Jean                    Fin : hors des cercles ş1943
-o MASQFA2     3  1978.xx R.... ISBN 2-7024-0725-0
-} lmf2_03        _?                           N
-- .oF.     R     _PERUTZ Leo                  Le MaŒtre du jugement dernier ş1923 Der meister des jngsten tages şTrad. RICHTER Hugo
-o MASQFA2     4  1978.xx R.... ISBN 2-7024-0680-7
-} lmf2_04        _?                           N
-- .oF.    _A8    _STURGEON Theodore          &Fant“mes et sortilŠges ş1978
-&                *LECONTE Marianne            
-: .o .     N     _STURGEON Theodore           Le Bouffon caratique ş1941 Shottle Bop şTrad. PIIR Eric
-: .o .     N     _STURGEON Theodore           La Hantise ş1941 The Haunt şTrad. PIIR Eric
-: .o .     N     _STURGEON Theodore           Les Mains de Bianca ş1947 Bianca's Hand's şTrad. PIIR Eric
-: .o .     N     _STURGEON Theodore           Une cargaison ş1940 Cargo şTrad. PIIR Eric
-: .o .     N     _STURGEON Theodore           Pas de quoi perdre la tˆte ş1940 Derm Fool şTrad. PIIR Eric
-: .o .     N     _STURGEON Theodore           L'Ombre d'une chance ş1943 The Green-eyed Monster / Ghost of a Chance şTrad. PIIR Eric
-: .o .     N     _STURGEON Theodore           La Cafarde ş1947 Blabbermouth şTrad. PIIR Eric
-: .o .     N     _STURGEON Theodore           Ci-gŒt Sizygie ş1948 It Wasn't Sizygy şTrad. PIIR Eric
-o MASQFA2     5  1978.xx R.... ISBN 2-7024-0726-9
-} lmf2_05        _?                           N
-} lmf2_05bis     _?                           N
-- .oT.     R     _MASTERTON Graham            Le Faiseur d'‚pouvantes [Manitou - 1] ş1975 The Manitou şTrad. TRUCHAUD Fran‡ois
-o MASQFA2     6  1978.xx R.... ISBN 2-7024-0727-7
-} lmf2_06        _?                           N
-- .oF.     R     _MYERS Robert J.             Le Sang de Frankenstein ş1975 The Cross of Frankenstein şTrad. LEVIE Fran‡oise
-o MASQFA2     7  1978.T2 ..... ISBN 2-7024-0728-5
-} lmf2_07        _?                           N
-- .oF.    _N10   _BENSON Edward F.            La Chambre dans la tour ş1920 The Room in the Tower and Other Stories şTrad. FINNE Jacques
-!--- I : Variations sur un vampire
-: .oF.     N     _BENSON Edward F.            La Chambre dans la tour ş1912 The Room in the Tower
-: .oF.     N     _BENSON Edward F.            Mrs Amworth ş1922 Mrs. Amworth
-: .oF.     N     _BENSON Edward F.            Et nul oiseau ne chante ş1926 And No Bird Sings
-!--- II : Les monstres du dehors
-: .oF.     N     _BENSON Edward F.            Negotium Perambulans ş1924 Negotium Perambulans
-!--- III : Les monstres du dedans
-: .oF.     N     _BENSON Edward F.            Home sweet home ş1928 Home Sweet Home
-: .oF.     N     _BENSON Edward F.            Le Sanctuaire ş1934 The Sanctuary
-: .oF.     N     _BENSON Edward F.            Les Chenilles ş1912 Caterpillars
-: .oF.     N     _BENSON Edward F.            La Maison du coin ş1928 The Corner House
-: .oF.     N     _BENSON Edward F.            Le Visage ş1928 The Face
-: .oF.     N     _BENSON Edward F.            Les Singes ş1933 Monkeys
-!--- III : Postface
-: .oF.     o     _FINNE Jacques               Edward Frederic Benson et le fantastique ş1978
-o MASQFA2     8  1978.xx R.... ISBN 2-7024-0785-4
-} lmf2_08        _?                           N
-- .oF.     R     _HERBERT James               Celui qui survit ş1976 The Survivor şTrad. MOLS Dominique
-o MASQFA2     9  1978.xx ..... ISBN 2-7024-0796-X
-} lmf2_09        _?                           N
-- .oF.    cN26   _RAY Jean                    Les Contes noirs du golf ş1964
-: .o .     N     _RAY Jean                    72 holes... 36... 72 ş1964
-: .o .     N     _RAY Jean                    Le Golfeur de Mabuse ş1964
-: .o .     N     _RAY Jean                    Seul, dans le club-house ş1964
-: .o .     N     _RAY Jean                    Mademoiselle Andrette Froget ş1964
-: .o .     N     _RAY Jean                    Influence ş1964
-: .o .     N     _RAY Jean                    La Balle de l'engoulevent ş1964
-: .o .     N     _RAY Jean                    La Parade des soldats de bois ş1964
-: .o .     N     _RAY Jean                    Les Hasards du colonel Midgett ş1964
-: .o .     N     _RAY Jean                    Le Swing ş1964
-: .o .     N     _RAY Jean                    La Bˆte des links ş1964
-: .o .     N     _RAY Jean                    Les Links hant‚s ş1964
-: .o .     N     _RAY Jean                    La Grande Ourse ş1964
-: .o .     N     _RAY Jean                    La Chance des aigles blancs ş1964
-: .o .     N     _RAY Jean                    Le Plus Ancien membre ş1964
-: .o .     N     _RAY Jean                    EG-1405 ş1964
-: .o .     N     _RAY Jean                    La Balle vol‚e ş1964
-: .o .     N     _RAY Jean                    La Forˆt de Madrones ş1964
-: .o .     N     _RAY Jean                    H‚cate ş1964
-: .o .     N     _RAY Jean                    Monsieur Ram ş1964
-: .o .     N     _RAY Jean                    La Fin ş1964
-: .o .     N     _RAY Jean                    Le SeptiŠme Trou ş1964
-: .o .     N     _RAY Jean                    Qui ? ş1964
-: .o .     N     _RAY Jean                    La Belle Partie ş1964
-: .o .     N     _RAY Jean                    Le Driver dor‚ ş1964
-: .o .     N     _RAY Jean                    Le Vestiaire ş1964
-: .o .     N     _RAY Jean                    Le MystŠre du Dip-club ş1964
-o MASQFA2    10  1978.xx R.... ISBN 2-7024-0797-8
-} lmf2_10        _?                           N
-- .oF.    _N19   _RAY Jean                    Le Carrousel des mal‚fices ş1964
-: .o .     N     _RAY Jean                    Math‚matiques sup‚rieures ş1958
-: .o .     N     _RAY Jean                    La Tˆte de monsieur Ramberger ş1955
-: .o .     N     _RAY Jean                    Bonjour Mr Jones ! ş1959
-: .o .     N     _RAY Jean                    Histoires dr“les ş1960
-: .o .     N     _RAY Jean                    Tˆte-de-lune ş1961
-: .o .     N     _RAY Jean                    Le Banc et la porte ş1960
-: .o .     N     _RAY Jean                    Croquemitaine n'est plus ş1948
-: .o .     N     _RAY Jean                    Puzzle ş1957
-: .o .     N     _RAY Jean                    L'Envoy‚e du retour ş1961
-: .o .     N     _RAY Jean                    La Sortie de l'araign‚e ş1959
-: .o .     N     _RAY Jean                    Le Beau Dimanche ş1959
-: .o .     N     _RAY Jean                    Le "Tessaract" ş1961
-: .o .     N     _RAY Jean                    La SorciŠre ş1952
-: .o .     N     _RAY Jean                    Les Gens c‚lŠbres de Tudor Street ş1953
-: .o .     N     _RAY Jean                    Trois petites vieilles sur un banc ş1956
-: .o .     N     _RAY Jean                    La Conjuration du lundi ş1952
-: .o .     N     _RAY Jean                    Un tour de cochon ş1958
-: .o .     N     _RAY Jean                    Smith... comme tout le monde ş1962
-: .o .     N     _RAY Jean                    Le Formidable Secret du p“le ş1936
-o MASQFA2    11  1978.xx R.... ISBN 2-7024-0798-6
-} lmf2_11        _?                           N
-- .oF.    _N12   _SMITH Clark Ashton          Zothique ş1970 Zothique şTrad. LEVIE Fran‡oise
-: .oF.     p     _BARONIAN Jean-Baptiste      Avant-propos ş1978
-: .oF.     N     _SMITH Clark Ashton          Les N‚cromanciens de Naat ş1936 Necromancy in Naat
-: .oF.     N     _SMITH Clark Ashton          Morthylla ş1953 Morthylla
-: .oF.     N     _SMITH Clark Ashton          Le Dieu carnivore ş1934 The Charnel God
-: .oF.     N     _SMITH Clark Ashton          La Fileuse de momies ş1934 The Weaver in the Vault
-: .oF.     N     _SMITH Clark Ashton          Le MaŒtre des crabes ş1934 The Master of the Crabs
-: .oF.     N     _SMITH Clark Ashton          Les Charmes d'Ulua ş1934 The Witchcraft of Ulua
-!--- TBC a verifier, chances ou charmes
-: .oF.     N     _SMITH Clark Ashton          Le Sup‚rieur noir de Puthuum ş1936 The Black Abbot of Puthuum
-: .oF.     N     _SMITH Clark Ashton          Le frai de la tombe ş1934 The Tomb-spawn
-: .oF.     N     _SMITH Clark Ashton          Le Dernier Hi‚roglyphe ş1935 The Last Hieroglyph
-: .oF.     N     _SMITH Clark Ashton          Le Jardin d'Adompha ş1938 The Garden of Adompha
-: .oF.     N     _SMITH Clark Ashton          L'Œle des tortionnaires ş1932 The Isle of the Torturers
-: .oF.     N     _SMITH Clark Ashton          L'Idole noire ş1935 The Dark Eidolon
-o MASQFA2    12  1978.xx R.... ISBN 2-7024-0799-4
-} lmf2_12        _?                           N
-- .oF.    _A4    ****                         Les Adorateurs de Cthulhu ş1976 The disciples of Cthulhu şTrad. FINNE Jacques
-!--- Extrait de l'Antho "The disciples of Cthulhu", 1976, ed. BERGLUND Edward P.
-: .oF.     N     _DEBILL Walter C. Jr.        L… o— marche Yidhra ş1976 Where Yidhra Walks şTrad. FINNE Jacques
-: .oF.     N     _CARTER Lin                  Zoth-Ommog ş1976 Zoth-Ommog şTrad. FINNE Jacques
-: .oF.     N     _WADE James                  Le Silence d'Erika Zann ş1976 The Silence of Erika Zann şTrad. FINNE Jacques
-: .oF.     N     _BERTIN Eddy C.              Obscur est mon nom ş1976 Darkness, my name is şTrad. FINNE Jacques
-o MASQFA2    13  1979.xx ..... ISBN 2-7024-0831-1
-} lmf2_13        _?                           N
-- .oF.     R     _JACKSON Shirley             Nous avons toujours habit‚ le chƒteau ş1962 We Have Always Lived in the Castle şTrad. MALEVAL Fran‡ois & CAMBEUR IrŠne de
-!--- TBC CM : 1962
-o MASQFA2    14  1979.xx R.... ISBN 2-7024-0832-X
-} lmf2_14        _?                           N
-- .oF.    _N7    _RAY Jean                    Le Grand Nocturne ş1942
-: .oF.     N     _RAY Jean                    Le Grand Nocturne ş1942
-: .oF.     N     _RAY Jean                    Les Sept Chƒteaux du roi de la mer ş1942
-: .oF.     N     _RAY Jean                    La Ruelle t‚n‚breuse ş1932
-: .oF.     N     _RAY Jean                    Le Fant“me dans la cale ş1925
-: .oF.     N     _RAY Jean                    Quand le Christ marcha sur la mer ş1931
-: .oF.     N     _RAY Jean                    La Scolopendre ş1931
-: .oF.     N     _RAY Jean                    Le Psautier de Mayence ş1930
-o MASQFA2    15  1979.xx R.... ISBN 2-7024-0838-8
-} lmf2_15        _?                           N
-- .oT.     R     _MASTERTON Graham            Le Djinn ş1977 The Djinn şTrad. ROSENTHAL Mary
-o MASQFA2    16  1979.xx R.... ISBN 2-7024-0860-5
-} lmf2_16        _?                           N
-- .oF.    _A14   _CAMPBELL J. Ramsey         &L'Homme du souterrain ş1979
-&                *NOLANE Richard D.           
-: .o .     N     _CAMPBELL J. Ramsey          L'Homme du souterrain ş1975 The Man in the Underpass şTrad. MOLS Dominique
-: .o .     N     _CAMPBELL J. Ramsey          Le Petit Ami de Jack ş1975 Jack's Little Friend şTrad. MOLS Dominique
-: .o .     N     _CAMPBELL J. Ramsey          Le G‚missement ş1974 The Whining şTrad. MOLS Dominique
-: .o .     N     _CAMPBELL J. Ramsey          La Cicatrice ş1969 The Scar şTrad. MOLS Dominique
-: .o .     N     _CAMPBELL J. Ramsey          Coup de foudre ş1973 As First Sight şTrad. MOLS Dominique
-: .o .     N     _CAMPBELL J. Ramsey          Avis de disparition ş1976 Missing şTrad. MOLS Dominique
-: .o .     N     _CAMPBELL J. Ramsey          Le Cri le plus aigu ş1976 The Height of the Scream şTrad. MOLS Dominique
-: .o .     N     _CAMPBELL J. Ramsey          Feu de joie ş1973 The Guy şTrad. MOLS Dominique
-: .o .     N     _CAMPBELL J. Ramsey          Les Sentinelles ş1973 The Sentinels şTrad. MOLS Dominique
-: .o .     N     _CAMPBELL J. Ramsey          Made in Goatswood ş1973 Made in Goatswood şTrad. MOLS Dominique
-: .o .     N     _CAMPBELL J. Ramsey          Le Potentiel ş1973 Potential şTrad. MOLS Dominique
-: .o .     N     _CAMPBELL J. Ramsey          Le Manoir Napier ş1971 Napier Court şTrad. MOLS Dominique
-: .o .     N     _CAMPBELL J. Ramsey          Les Mots qui comptent ş1976 The Words That Count şTrad. MOLS Dominique
-: .o .     N     _CAMPBELL J. Ramsey          Un cadeau de No‰l ş1975 The Christmas Present şTrad. MOLS Dominique
-: .o .     o     _NOLANE Richard D.           Postface ş1979
-o MASQFA2    17  1979.xx R.... ISBN 2-7024-0900-8
-} lmf2_17        _?                           N
-- .oF.     R     _STOKER Bram                 Dracula ş1897 Dracula şTrad. FINNE Jacques
-o MASQFA2    18  1979.xx R.... ISBN 2-7024-0913-X
-} lmf2_18        _?                           N
-- .oF.    _N7    _STROBL Karl Hans            Le Triomphe de la m‚canique ş1973 Unheimliche geschichten şTrad. RICHTER Hugo
-!--- Extraits de "Lemuria", 1917
-: .o .     p     _BARONIAN Jean-Baptiste      Avant-propos ş1979
-: .o .     N     _STROBL Karl Hans            Mon s‚jour au PŠre Lachaise ş1913 Das grabmal auf dem PŠre Lachaise şTrad. RICHTER Hugo
-: .o .     N     _STROBL Karl Hans            Mon aventure avec Jonas Trom ş1907 Mein abenteuer mit Jonas Barg şTrad. RICHTER Hugo
-: .o .     N     _STROBL Karl Hans            Danse macabre ş1917 Geb„rden da gibt es vertrackte şTrad. RICHTER Hugo
-: .o .     N     _STROBL Karl Hans            La Tˆte ş1901 Der kopf şTrad. RICHTER Hugo
-: .o .     N     _STROBL Karl Hans            La‰rtes ş1907 Laertes şTrad. RICHTER Hugo
-: .o .     N     _STROBL Karl Hans            Le Petit Homme qui faisait des saign‚es ş1907 Das aderlaám„nnchen şTrad. RICHTER Hugo
-: .o .     N     _STROBL Karl Hans            Le Triomphe de la m‚canique ş1907 Der triumph der mechanik şTrad. RICHTER Hugo
-o MASQFA2    19  1979.xx ..... ISBN 2-7024-0931-8
-} lmf2_19        _?                           N
-- .oF.     R     _RAY Jean                    La Cit‚ de l'indicible peur ş1943
-o MASQFA2    20  1979.xx R.... ISBN 2-7024-0933-4
-} lmf2_20        _?                           N
-- .oF.    _A6    _QUINN Seabury              &Les Archives de Jules de Grandin [Jules de Grandin] ş1979
-&                *LAET Danny de               
-: .o .     p     _LAET Danny de               Docteur de Grandin, je pr‚sume ? ş1979
-: .o .     N     _QUINN Seabury               Terreur au golf [Jules de Grandin] ş1925 The Horror on the Links şTrad. ROSENTHAL Mary
-: .o .     N     _QUINN Seabury               La Mal‚diction de Broussac [Jules de Grandin] ş1925 The Tenants of Broussac şTrad. ROSENTHAL Mary
-: .o .     N     _QUINN Seabury               La Mal‚diction d'Everard Maundy [Jules de Grandin] ş1927 The Curse of Everard Maundy şTrad. ROSENTHAL Mary
-: .o .     N     _QUINN Seabury               Le Poltergeist [Jules de Grandin] ş1927 The Poltergeist şTrad. ROSENTHAL Mary
-: .o .     N     _QUINN Seabury               Les Descendants d'Ubasti [Jules de Grandin] ş1929 Children of Ubasti şTrad. ROSENTHAL Mary
-: .o .     N     _QUINN Seabury               La Mort venue de loin [Jules de Grandin] ş1930 Stealthy Deaths şTrad. ROSENTHAL Mary
-o MASQFA2    21  1979.xx R.... ISBN 2-7024-0911-3
-} lmf2_21        _?                           N
-- .oF.     R     _HALLAHAN William            Les Renaissances de Joseph Tully ş1974 The Search for Joseph Tully şTrad. MOLS Dominique
-!--- TBC : … v‚rifier, mais douteux : Jules de Grandin ???
-o MASQFA2    22  1979.xx R.... ISBN 2-7024-0950-4
-} lmf2_22        _?                           N
-- .oF.     R     _SHELLEY Mary                Frankenstein ş1818 Frankenstein or the Modern Prometheus şTrad. MELLET Jean-Marie
-o MASQFA2    23  1979.xx R.... ISBN 2-7024-0951-2
-} lmf2_23        _?                           N
->--- Il s'agit d'un groupe de personnes se racontant des histoires, reli‚es par de courts chapitres de transition.
-- .oF.    =C32   _RAY Jean                    Les Derniers Contes de Canterbury ş1944
-: .o .     N     _RAY Jean                    Le Prologue fantastique ş1944
-: .o .     N     _RAY Jean                    M. Kupfergrun prend la parole ş1944
-: .o .     N     _RAY Jean                    Irish Stew ş1924
-: .o .     N     _RAY Jean                    Le docteur Canivet raconte ş1944
-: .o .     N     _RAY Jean                    Les Noces de Mlle Bonvoisin ş1944
-: .o .     N     _RAY Jean                    La clergesse parle ş1944
-: .o .     N     _RAY Jean                    Tyburn ş1944
-: .o .     N     _RAY Jean                    L'Odyss‚e de M. Gallagher ş1944
-: .o .     N     _RAY Jean                    M. Gallagher went home ş1944
-: .o .     N     _RAY Jean                    Une ‚trange femme s'‚crie ş1944
-: .o .     N     _RAY Jean                    Je cherche Herr Hazenfraz ! ş1944
-: .o .     N     _RAY Jean                    M. Tipps raconte sa vie ş1944
-: .o .     N     _RAY Jean                    Suite … Tyburn ş1944
-: .o .     N     _RAY Jean                    Histoire d'un fantoche ş1944
-: .o .     N     _RAY Jean                    Le Bonhomme Mayeux ş1944
-: .o .     N     _RAY Jean                    Un marin raconte ş1944
-: .o .     N     _RAY Jean                    La Terreur rose ş1944
-: .o .     N     _RAY Jean                    L'Histoire du fou ş1944
-: .o .     N     _RAY Jean                    Le Uhu ş1925
-: .o .     N     _RAY Jean                    L'homme de la Rum-Row lit trois histoires ş1944
-: .o .     N     _RAY Jean                    La Plus Belle Petite fille du Monde ş1925
-: .o .     N     _RAY Jean                    La Danse de Salom‚ ş1925
-: .o .     N     _RAY Jean                    L'Assomption de Septimus Kamin ş1925
-: .o .     N     _RAY Jean                    M. Kupfergrun reprend la parole ş1944
-: .o .     N     _RAY Jean                    Le Fleuve Flinders ş1944
-: .o .     N     _RAY Jean                    Le gros homme raconte ş1944
-: .o .     N     _RAY Jean                    Falstaff se souvient ş1944
-: .o .     N     _RAY Jean                    Au tour du Chat Murr ş1944
-: .o .     N     _RAY Jean                    Le Chat assassin‚ ş1944
-: .o .     N     _RAY Jean                    La Fin de la nuit ş1944
-: .o .     N     _RAY Jean                    Reid Unthank ş1944
-: .o .     N     _RAY Jean                    Au profit des conjectures ş1944
-o MASQFA2    24  1979.xx R.... ISBN 2-7024-0952-0
-} lmf2_24        _?                           N
-- .oF.     R     _JACKSON Shirley             Maison hant‚e ş1959 The Haunting of Hill House şTrad. MOLS Dominique
-o MASQFA2    25  1980.xx R.... ISBN 2-7024-0979-X
-} lmf2_25        _?                           N
-- .oF.    _N10   _RAY Jean                    Le Livre des fant“mes ş1947
-: .o .     p     _RAY Jean                    En matiŠre de pr‚face ş1947
-: .o .     N     _RAY Jean                    Mon fant“me … moi ş1947
-: .o .     N     _RAY Jean                    Maison … vendre ş1947
-: .o .     N     _RAY Jean                    La Choucroute ş1947
-: .o .     N     _RAY Jean                    M. Wohlmut et Franz Benschneider ş1947
-: .o .     N     _RAY Jean                    La Nuit de Pentonville ş1947
-: .o .     N     _RAY Jean                    L'Histoire de Marshall Grove ş1947
-: .o .     N     _RAY Jean                    La V‚rit‚ sur l'oncle Timotheus ş1947
-: .o .     N     _RAY Jean                    Ronde de nuit … Koenigstein ş1947
-: .o .     N     _RAY Jean                    Le Cousin Passeroux ş1947
-: .o .     N     _RAY Jean                    Rues ş1947
-: .o .     o     _RAY Jean                    AprŠs ş1947
-o MASQFA2    26  1980.T1 R.... ISBN 2-7024-0988-1
-} lmf2_26        _?                           N
-- .oF.     R     _SHERMAN Jory                Les Germes du diable ş1978 Satan's Seed şTrad. HOOGHE Marie
-o MASQFA2    27  1980.xx R.... ISBN 2-7024-1065-0
-} lmf2_27        _?                           N
-- .oF.     R     _ANDREVON Jean-Pierre        Le Reflux de la nuit ş1972
-o MASQFA2    28  1980.xx R.... ISBN 2-7024-1064-2
-} lmf2_28        _?                           N
-- .oF.     R     _HAGGARD H. Rider            She [She - 1] ş1887 She şTrad. HILLEMACHER Jacques
-o MASQFA2    29  1980.xx R.... ISBN 2-7024-1141-X
-} lmf2_29        _?                           N
-- .oF.     R     _MASTERTON Graham            La Maison de chair ş1978 Charnel House şTrad. HOOGHE Marie
-o MASQFA2    30  1980.xx R.... ISBN 2-7024-1142-X
-} lmf2_30        _Tibor Csernus               N
-!--- "La pr‚sente ‚dition est conforme au recueil original paru en 1925"
-- .oF.    =N27   _RAY Jean                    Les Contes du whisky ş1925
-: .C .   7 C     _RAY Jean                    Les Contes du whisky ş1925
-: .o .   9 N     _RAY Jean                    Irish whisky ş1923
-: .o .  26 N     _RAY Jean                    A minuit ş1924
-: .o .  29 N     _RAY Jean                    Le Nom du bateau ş1924
-: .o .  34 N     _RAY Jean                    Un conte de f‚es … Whitechapel ş1924
-: .o .  41 N     _RAY Jean                    La Fortune d'Herbert ş1921
-: .o .  46 N     _RAY Jean                    Dans les marais du Fenn ş1923
-: .o .  51 N     _RAY Jean                    La Nuit de Camberwell ş1923
-: .o .  56 N     _RAY Jean                    Petite femme aim‚e au parfum de verveine... ş1923
-: .o .  62 N     _RAY Jean                    Le Saumon de Poppelreiter ş1924
-: .o .  67 N     _RAY Jean                    Entre deux verres ş1924
-: .o .  72 N     _RAY Jean                    Josuah Gllick, prˆteur sur gages ş1924
-: .o .  82 N     _RAY Jean                    La Vengeance ş1919
-: .o .  87 N     _RAY Jean                    Mon ami le mort ş1924
-: .o .  93 N     _RAY Jean                    Le Crocodile ş1924
-!--- "Une maison" dans le sommaire !
-: .o .  98 N     _RAY Jean                    Une main ş1924
-: .o . 101 N     _RAY Jean                    La DerniŠre Gorg‚e ş1924
-: .C . 105 C     _RAY Jean                    ...Et quelques histoires dans le brouillard ş?
-: .o . 107 N     _RAY Jean                    Le Singe ş1921
-: .o . 114 N     _RAY Jean                    La Fenˆtre aux monstres ş1925
-: .oS. 118 N     _RAY Jean                    Minuit vingt ş1921
-!--- "La Tˆte blanche" dans le sommaire !
-: .o . 124 N     _RAY Jean                    La Bˆte blanche ş1920
-: .o . 133 N     _RAY Jean                    Le Gardien du cimetiŠre ş1920
-: .o . 146 N     _RAY Jean                    La Bonne Action ş1921
-: .o . 150 N     _RAY Jean                    Le Tableau ş1925
-: .o . 156 N     _RAY Jean                    L'Observatoire abandonn‚ ş1921
-: .o . 162 N     _RAY Jean                    Les tranges tudes du Dr Paukenschl„ger ş1923
-: .o . 171 N     _RAY Jean                    La Dette de Gumpelmeyer ş1922
-: .o . 179 N     _RAY Jean                    Herr Hubich dans la nuit ş1923
-!--- Les ouvrages suivants furent pr‚vus mais jamais ‚dit‚s :
-­o MASQFA2    31  198?.xx R.... ISBN -
-­} noimg          _?                           ?
-­- .oF.     R     _RAY Jean                    Saint-Judas de la nuit ş1966
-­o MASQFA2    32  198?.xx R.... ISBN -
-­} noimg          _?                           ?
-­- .oF.     Ax    _SMITH Clark Ashton          Pos‚‹donis ş?
-!FIN_COLL MASQFA2
-
-!-----------------------------------------------------------------------------
-_ LCE_ABY Librairie des Champs Elys‚es, Abysses ş1998-1999
+_ LCE_ABY Librairie des Champs Elys‚es - Abysses ş1998-1999
 !-----------------------------------------------------------------------------
 !---             La librairie des Champs-Elys‚es - Abysses
 !--- Directeur de collection : BRUSSOLO, puis H‚lŠne ALMARIC
@@ -1822,7 +629,7 @@ o LCE_ABY     1i 1998.xx ..... ISBN 2-7024-9570-2
 - .o .     R     _SUZUKO Akira                L'Œle des ombres [Les Harponneurs d'‚toiles - 1] ş1998
 o LCE_ABY     2i 1998.03 R.... ISBN 2-7024-9557-5
 } noimg          _?                           ?
-- .oY.     R     _HAMBLY Barbara              Les Forces de la nuit [Le Cycle de Darwarth - 1] ş1982 The Time of the Dark şTrad. MAILLET Fran‡oise
+- .oY.     R     _HAMBLY Barbara              Les Forces de la nuit [Le Cycle de Darwath - 1] ş1982 The Time of the Dark şTrad. MAILLET Fran‡oise
 o LCE_ABY     3i 1998.xx ..... ISBN 2-7024-....-.
 } noimg          _?                           ?
 - .o .     R     _KILWORTH Garry              La Compagnie des f‚es ş1996 A Midsummer's Nightmare şTrad. TRUCHAUD Fran‡ois
@@ -1844,7 +651,7 @@ o LCE_ABY     8  1998.xx ..... ISBN 2-7024-9629-6
 &                _SHEA Robert                 
 o LCE_ABY     9  1998.09 R.... ISBN 2-7024-9625-3
 } noimg          _?                           ?
-- .oY.     R     _HAMBLY Barbara              Les Murs des t‚nŠbres [Le Cycle de Darwarth - 2] ş1983 The Walls of Air şTrad. MAILLET Fran‡oise
+- .oY.     R     _HAMBLY Barbara              Les Murs des t‚nŠbres [Le Cycle de Darwath - 2] ş1983 The Walls of Air şTrad. MAILLET Fran‡oise
 o LCE_ABY    10  1998.xx ..... ISBN 2-7024-9616-4
 } noimg          _?                           ?
 - .o .     R     _GARRETT Randall             Tous des magiciens ! [Les Enquˆtes de Lord Darcy - 1] ş1966 Too many Magicians şTrad. MEISTERMANN C. & L.
@@ -1862,7 +669,7 @@ o LCE_ABY    14  1998.xx ..... ISBN 2-7024-9651-2
 - .o .     R     _SUZUKO Akira                Les Fils des loups [Les Nighthowlers - 2] ş1998
 o LCE_ABY    15  1998.xx R.... ISBN 2-7024-9626-1
 } noimg          _?                           ?
-- .o .     R     _HAMBLY Barbara              Les Arm‚es du jour [Le Cycle de Darwarth - 3] ş1983 The Armies of Daylight şTrad. MAILLET Fran‡oise
+- .o .     R     _HAMBLY Barbara              Les Arm‚es du jour [Le Cycle de Darwath - 3] ş1983 The Armies of Daylight şTrad. MAILLET Fran‡oise
 o LCE_ABY    16  1999.xx R.... ISBN 2-7024-9653-9
 } noimg          _?                           ?
 - .o .     R     _JUBERT Herv‚                La Fˆte ‚lectrique [La BibliothŠque noire - 2] ş1999
@@ -1893,7 +700,7 @@ o LCE_ABY    18  1999.05 R.... ISBN 2-7024-9634-2
 ­- .o .     R     _HAMBLY Barbara              Les Magiciens de la nuit ş1992 The Magicians of Night
 
 !-----------------------------------------------------------------------------
-_ LCE_MIL Librairie des Champs Elys‚es, Abysses, Coll. Millenium
+_ LCE_MIL Librairie des Champs Elys‚es - Abysses, Millenium
 !-----------------------------------------------------------------------------
 !--- collection Millenium
 !-----------------------------------------------------------------------------
@@ -1905,7 +712,7 @@ o LCE_MIL     ?  1998.xx ..... ISBN 2-7024-9583-4
 - .oS.     S     _GANNETT Lewis               G‚henne [Millenium] ş1997 Gehenna
 
 !-----------------------------------------------------------------------------
-_ LCE_BM  Librairie des Champs Elys‚es, Bob Morane
+_ LCE_BM  Librairie des Champs Elys‚es - Bob Morane
 !-----------------------------------------------------------------------------
 !--- Bob Morane
 !-----------------------------------------------------------------------------
@@ -2014,7 +821,7 @@ o LCE_BM     34  1980.xx ..... ISBN .-.....-...-.
 
 !-----------------------------------------------------------------------------
 !--- Editions du Masque, Grand format
-_ EMASQGF Ed. du Masque, Grand format
+_ EMASQGF Editions du Masque - Grand format
 !-----------------------------------------------------------------------------
 o EMASQGF     ?  1994.11 ..... ISBN 2-7024-7826-3
 } noimg          _?                           ?
@@ -2038,7 +845,7 @@ o EMASQGF     ?  2005.06 ..... ISBN 2-7024-8015-2
 - .oY.     R     _MOORE Viviane               Par le vent [La Trilogie celte - 3] ş2005
 
 !-----------------------------------------------------------------------------
-_ MASQLAB Ed. du Masque, Coll. Labyrinthes
+_ MASQLAB Editions du Masque - Labyrinthes
 !-----------------------------------------------------------------------------
 o MASQLAB    97  2002.xx ..... ISBN 2-7024-9730-6
 } noimg          _?                           ?
@@ -2078,10 +885,14 @@ o EDMASQU     ?  2011.xx ..... ISBN 978-2-7024-3484-0
 o EDMASQU     ?  2017.xx ..... ISBN 978-2-7024-4111-4
 } noimg          _?                           ?
 - .oF.     R     _KERR Philip                 P‚nitence ş2013 Prayer şTrad. BONNET Philippe
+o EDMASQU     ?  2022.05 ..... ISBN 978-2-7024-4995-0
+} noimg          _Jany Bassey                 ?
+!--- GF - 140x225 - 392 pages - 21,90 euros
+- .oS.     R     _CAREY C. J.                 Widowland ş2021 Widowland şTrad. GONDRAND Fabienne
 
 
 !-----------------------------------------------------------------------------
-_ MASQTHR Ed. du Masque, Coll. Thrillers
+_ MASQTHR Editions du Masque - Thrillers
 !-----------------------------------------------------------------------------
 o MASQTHR     ?  1996.06 ..... ISBN 2-7024-7845-X
 } noimg          _?                           ?
@@ -2091,7 +902,7 @@ o MASQTHR     ?  1997.xx ..... ISBN 2-7024-7860-3
 - .oF.     R     _KERR Philip                 Esa ou Le Chainon manquant ş1996 Esau şTrad. HAMEL Annie
 
 !-----------------------------------------------------------------------------
-_ MASQJAU Ed. du Masque, Coll. Masque Jaune
+_ MASQJAU Editions du Masque - Masque Jaune
 !-----------------------------------------------------------------------------
 o MASQUE   1882  1987.xx ..... ISBN 2-7024-1763-9
 } noimg          _?                           ?
@@ -2103,7 +914,7 @@ o MASQUE   1882  1987.xx ..... ISBN 2-7024-1763-9
 : .o .     N     _CHRISTIE Agatha             Le Cas ‚trange de sir Arthur Carmichael ş1933 The Strange Case of Sir Arthur Carmichael
 : .o .     N     _CHRISTIE Agatha             Dans un battement d'ailes ş1933 The Call of Wings
 : .o .     N     _CHRISTIE Agatha             La Gitane ş1933 The Gipsy
-: .o .     N     _CHRISTIE Agatha             La Vivante et la morte ş1925 The Fourth Man
+: .o .     N     _CHRISTIE Agatha             La Vivante et la morte ş1933 The Fourth Man
 : .o .     N     _CHRISTIE Agatha             Fleur de magnolia ş1925 Magnolia Blossom
 : .o .     N     _CHRISTIE Agatha             La DerniŠre S‚ance ş1926 The Last Seance
 : .o .     N     _CHRISTIE Agatha             Le Miroir ş1934 In a Glass Darkly
@@ -2130,7 +941,30 @@ o MASQJAU     ?  2008.05 ..... ISBN 978-2-7024-3415-4
 - .oF.     R     _BRUSSOLO Serge              Cauchemar … louer ş1990
 
 !-----------------------------------------------------------------------------
-_ MASQMSK Ed. du Masque, Coll. MSK
+_ MASQPOC Editions du Masque - Masque poche
+_ MASQP_C Editions du Masque - Masque poche - Contemporain
+_ MASQP_J Editions du Masque - Masque poche - Jaune
+!-----------------------------------------------------------------------------
+o MASQP_C    23  2013.xx ..... ISBN 978-2-7024-3929-6
+} noimg          _?                           ?
+!--- Poche - 110 x 180 - 427 pages
+- .oS.     R     _SHUSTERMAN Neal             Les Fragment‚s [Les Fragment‚s - 1] ş2007 Unwind şTrad. PASSERIEUX Emilie
+o MASQP_J    35  2013.xx ..... ISBN 978-2-7024-4036-0
+} noimg          _?                           ?
+!--- Poche - 110 x 178 - 320 pages
+- .o .     R     _CARR John Dickson           La Chambre ardente ş1937 The Burning Court şTrad. ENDREBE Maurice-Bernard
+o MASQP_C    43  2014.xx ..... ISBN 978-2-7024-4108-4
+} noimg          _?                           ?
+- .oF.     R     _BRETIN Denis                Le Mort-Homme ş2005
+o MASQPOC    47  2014.xx ..... ISBN 978-2-7024-4106-0
+} noimg          _?                           ?
+- .oCF     R     _BRUSSOLO Serge              Le Manoir des sortilŠges ş1999
+o MASQPOC    72  2016.xx ..... ISBN 978-2-7024-4570-9
+} noimg          _?                           ?
+- .oPF     R     _BORNAIS Gilles              Le Diable de Glasgow ş2001
+
+!-----------------------------------------------------------------------------
+_ MASQMSK Editions du Masque - MSK
 !-----------------------------------------------------------------------------
 o MASQMSK     ?  2008.02 ..... ISBN 978-2-7024-3343-0
 } noimg          _?                           ?
@@ -2161,7 +995,7 @@ o MASQMSK     ?  2009.02 ..... ISBN 978-2-7024-3352-2
 &                _PETRUCHA Stefan             
 o MASQMSK     ?  2009.10 ..... ISBN 978-2-7024-3443-7
 } noimg          _?                           ?
-- .oF.     R     _FANTASKEY Beth              Comment se d‚barasser d'un vampire amoureux [Jessica Packwood - 1] ş2009 Jessicas Guide to Dating on the Dark Side şTrad. GANEM Elsa
+- .oF.     R     _FANTASKEY Beth              Comment se d‚barrasser d'un vampire amoureux [Jessica Packwood - 1] ş2009 Jessicas Guide to Dating on the Dark Side şTrad. GANEM Elsa
 o MASQMSK     ?  2008.10 ..... ISBN 978-2-7024-3416-1
 } noimg          _?                           ?
 - .oF.     R     _LEPAGE Fr‚d‚ric             Le Camp des ‚l‚phants [Micah et les voix de la jungle - 1] ş2008
@@ -2197,7 +1031,7 @@ o MASQMSK     ?  2010.09 ..... ISBN 978-2-7024-3492-5
 - .oF.     R     _FANTASKEY Beth              Alchimie ş2009 Jekel Loves Hyde şTrad. PERRONNY Nathalie
 o MASQMSK     ?  2011.01 ..... ISBN 978-2-7024-3496-3
 } noimg          _?                           ?
-- .oS.     R     _KLUVER Cayla                Le Temps de la vengeance [Alera - 1] ş2008 Legacy şTrad. MENAGE Nicole
+- .oS.     R     _KLUVER Cayla                Alera [Alera - 1] ş2008 Legacy şTrad. MENAGE Nicole
 o MASQMSK     ?  2011.02 ..... ISBN 978-2-7024-3464-2
 } noimg          _Christian McGrath           ?
 - .oF.     R     _SLADE Arthur                La Cit‚ bleue d'Icaria [Les Agents de M. Socrate - 2] ş2010 The Dark Deeps şTrad. CAMBOLIEU Marie
@@ -2293,8 +1127,8 @@ o MASQMSK     ?  2014.11 ..... ISBN 978-2-7024-3838-1
 } noimg          _?                           ?
 - .oF.     R     _GRAUDIN Ryan                Fuir la citadelle ş2014 The Walled City şTrad. KIEFE Laurence
 o MASQMSK     ?  2015.01 ..... ISBN 978-2-7024-4011-7
-!--- TBC ISBN ISBN 978-2-7024-4101-5
-!--- TBC traducteur şTrad. M‚lanie Fazi
+!--- TBC ISBN 978-2-7024-4101-5
+!--- TBC traducteur : Trad. M‚lanie Fazi
 } noimg          _STONE Steve                 ?
 - .oF.     R     _WEITZ Chris                 The Young World [The Young World - 1] ş2014 The Young World şTrad. GUILLOT S‚bastien
 o MASQMSK     ?  2015.02 ..... ISBN 978-2-7024-4150-3
@@ -2333,6 +1167,10 @@ o MASQMSK     ?  2017.06 ..... ISBN 978-2-7024-4103-9
 o MASQMSK     ?  2017.11 ..... ISBN 978-2-7024-4638-6
 } noimg          _Julie Simoens               ?
 - .oF.     R     _AVIT Cl‚lie                 Le CinquiŠme Artefact [Les Messagers des vents - 4] ş2017
+o MASQMSK     ?  2020.11 ..... ISBN 978-2-7024-4913-4
+} noimg          _Julie Simoens               ?
+!--- Jeunesse - GF - 150x215 - 752 pages
+- .o .     R     _AVEYARD Victoria            War Storm [Red Queen - 4] ş2018 War Storm şTrad. DELARBRE Alice
 
 
 

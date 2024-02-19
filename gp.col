@@ -23,30 +23,34 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ GPBRO_1 G.P., Coll. BibliothŠque Rouge et Or (premiŠre p‚riode)
+_ GPBRO_1 G.P. - BibliothŠque Rouge et Or premiŠre p‚riode
 !-----------------------------------------------------------------------------
 !--- PremiŠre p‚riode : 1947 - 1952
 !--- Sous-titr‚e "BibliothŠque des moins de ving ans"
-!--- Cartonnage maroquin‚ rouge - format 21x15 - jaquette illustr‚e
+!--- Cartonnage maroquin‚ rouge, format 21 x 15 cm, et jaquette illustr‚e
 !--- 11 volumes d'imaginaire sur une cinquantaine
 !-----------------------------------------------------------------------------
 o GPBRO_1     5  1947.xx ..... ISBN -
 } noimg          _?                           ?
+!--- jaquette - 150 x 210 mm
 - .oM.    iNx    _PERRAULT Charles            Contes ((Contes de Perrault)) þ1947
 o GPBRO_1    14  1948.xx ..... ISBN -
 } noimg          _?                           DIMBRE Henri
+!--- jaquette - 150 x 210 mm
 - .o .     R     _SWIFT Jonathan              Les Voyages de Gulliver þ1726 Gulliver's Travels
 o GPBRO_1    15  1948.xx ..... ISBN -
 } noimg          _?                           JOURCIN Andr‚
+!--- jaquette - 150 x 210 mm
 - .oF.     R     _CARROLL Lewis               Alice au pays des merveilles [Alice - 1] þ1865 Alice's Adventures in Wonderland / Alice in Wonderland þTrad. ?
 o GPBRO_1    19  1949.02 ..... ISBN -
 }gp_poe_histex49 _?                           CHIEZE Jean
-- .oF.    _N11   _POE Edgar Allan             Histoires extraordinaires þ1856
+!--- jaquette - 150 x 210 mm
+- .oF.    _A11   _POE Edgar Allan             Histoires extraordinaires þ1949
 : .o .     N     _POE Edgar Allan             Une descente dans le maelstr”m þ1841 A Descent Into the Maelstrom þTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Manuscrit trouv‚ dans une bouteille þ1833 Manuscript Found in a Bottle þTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             L'Œle de la f‚e þ1841 The Island of the Fay
 : .o .     N     _POE Edgar Allan             Le Scarab‚e d'or þ1843 The Gold-Bug
-: .o .     N     _POE Edgar Allan             La Lettre vol‚e þ1845 The Purloined Letter
+: .o .     N     _POE Edgar Allan             La Lettre vol‚e [Auguste Dupin] þ1845 The Purloined Letter
 : .o .     N     _POE Edgar Allan             Aventure sans pareille d'un certain Hans Pfaall þ1835 The Unparalleled Adventure of One Hans Pfaall þTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Souvenirs de M. Auguste Bedloe þ1844 A Tale of the Ragged Mountains þTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Le Portrait ovale þ1842 The Oval Portrait
@@ -55,24 +59,33 @@ o GPBRO_1    19  1949.02 ..... ISBN -
 : .o .     N     _POE Edgar Allan             Le Canard au ballon þ1844 The Balloon Hoax þTrad. BAUDELAIRE Charles
 o GPBRO_1    22  1949.xx ..... ISBN -
 } noimg          _?                           JOURCIN Andr‚
+!--- jaquette - 150 x 210 mm
 - .o .    iNx    _ANDERSEN Hans Christian     Contes ((Contes d'Andersen)) þ1949
 o GPBRO_1    32  1950.xx ..... ISBN -
 } noimg          _?                           LECONTE Pierre
+!--- jaquette - 150 x 210 mm
 - .o .     R     _POE Edgar Allan             Les Aventures d'Arthur Gordon Pym [Arthur Gordon Pym] þ1838 The Narrative of Arthur Gordon Pym of Nantucket þTrad. BAUDELAIRE Charles
-!-- Nø36 CONTES DES MILLE ET UNE NUITS. Antoine GALLAND (Trad.) et Jean SABRAN (Adapt.)1951
-!--- ill. Andr‚ JOURCIN.
-!--- Nø43  CONTES DES MILLE ET UNE NUITS. Tome 2. Antoine GALLAND et Jean SABRAN. 1951
-!--- ill. Andr‚ JOURCIN
+o GPBRO_1    36  1951.xx ..... ISBN -
+} noimg          _?                           Andr‚ Jourcin
+!--- Trad. Antoine Galland et Adapt. Jean Sarran
+!--- jaquette - 150 x 210 mm
+- .o .     R     _--- (anonyme)               Contes des mille et une nuits - Tome 1 [Les Mille et Une Nuits] þ1951
+o GPBRO_1    43  1951.xx ..... ISBN -
+} noimg          _?                           Andr‚ Jourcin
+!--- Trad. Antoine Galland et Adapt. Jean Sarran
+!--- jaquette - 150 x 210 mm
+- .o .     R     _--- (anonyme)               Contes des mille et une nuits - Tome 2 [Les Mille et Une Nuits] þ1951
 o GPBRO_1    45  1951.xx ..... ISBN -
 } noimg          _?                           CHIEZE Jean
-- .x .     R     _ROSNY AINE J.-H.            Helgvor du fleuve bleu þ1930
+!--- jaquette - 150 x 210 mm
+- .oZ.     R     _ROSNY AINE J.-H.            Helgvor du fleuve bleu þ1930
 o GPBRO_1    46  1951.xx ..... ISBN -
 } noimg          _?                           JOURCIN Andr‚
+!--- jaquette - 150 x 210 mm
 - .oF.     R     _GAUTIER Th‚ophile           Le Roman de la momie þ1857
-!--- 53 Le Grand-Meaulnes - Alain-fournier
 
 !-----------------------------------------------------------------------------
-_ GP      Ed. G.P.
+_ GP      G.P.
 !-----------------------------------------------------------------------------
 o GP          ?  1982.xx ..... ISBN 2-261-01112-1
 } noimg          _?                           ?
@@ -82,8 +95,8 @@ o GP          ?  1983.xx ..... ISBN 2-261-01306-X
 - .oS.     F     _KAHN James                  Le Retour du Jedi [La Trilogie fondatrice - 3][Star Wars] þ1983 Return of the Jedi þTrad. RICKLIN Odile
 
 !-----------------------------------------------------------------------------
-_ GP_SUPE Ed. G.P., Coll. Super
-_ GP_SBIB Ed. G.P., Coll. Super BibliothŠque
+_ GP_SUPE G.P. - Super
+_ GP_SBIB G.P. - Super BibliothŠque
 !-----------------------------------------------------------------------------
 o GP_SUPE    70  1962.xx ..... ISBN -
 } noimg          _?                           ?
@@ -99,14 +112,14 @@ o GP_SBIB   192  1975.xx ..... ISBN -
 - .oS.     R     _BARJAVEL Ren‚               La Nuit des temps þ1968
 
 !-----------------------------------------------------------------------------
-_ GP_SPIR G.P., Coll. Spirale
+_ GP_SPIR G.P. - Spirale
 !-----------------------------------------------------------------------------
 o GP_SPIR     3  1959.xx ..... ISBN -
 } noimg          _?                           Claude Delaunay
-- .o .     R     _SAND George                 La Mare au diable þ1946
+- .o .     R     _SAND George                 La Mare au diable þ1846
 o GP_SPIR     7  1959.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _ABOUT Edmond                L'Homme … l'oreille cass‚e þ1861
+- .o .     R     _ABOUT Edmond                L'Homme … l'oreille cass‚e þ1862
 o GP_SPIR   174  1971.xx ..... ISBN -
 } noimg          _?                           Jean Reschofsky
 !--- De Ernestine Bourbon - recueillis par son fils Vercors
@@ -120,7 +133,7 @@ o GP_SPIR   252  1976.12 ..... ISBN 2-261-00198-3
 - .oS.     R     _GRENIER Christian           Les Fleurs de l'espace - Le magniscope de Mathias Delfaux þ1976
 o GP_SPIR   255  1976.xx ..... ISBN 2-261-00251-3
 } noimg          _Jacqueline Verly            Jacqueline Verly
-- .o .     R     _SAND George                 La Mare au diable þ1946
+- .o .     R     _SAND George                 La Mare au diable þ1846
 o GP_SPIR   267  1977.xx ..... ISBN 2-261-00376-5
 } noimg          _Pierre Ferrier              Pierre Ferrier
 - .o .     R     _NOGUES Jean-C“me            Le Mammouth et la chƒtaigne þ1977
@@ -135,13 +148,13 @@ o GP_SPIR   279  1978.xx ..... ISBN 2-261-00488-5
 - .o .     R     _VERNE Jules                 De la Terre … la Lune þ1865
 o GP_SPIR   280  1978.xx ..... ISBN 2-261-00490-7
 } noimg          _?                           ?
-- .o .     R     _VERNE Jules                 Voyage au centre de la Terre þ1864-1967
+- .o .     R     _VERNE Jules                 Voyage au centre de la Terre þ1864-1867
 o GP_SPIR   282  1978.xx ..... ISBN 2-261-00530-X
 } noimg          _?                           ?
 - .o .     R     _VERNE Jules                 Autour de la Lune þ1870
 
 !-----------------------------------------------------------------------------
-_ GPANGLE G.P., Coll. Grand Angle
+_ GPANGLE G.P. - Grand Angle
 !-----------------------------------------------------------------------------
 o GPANGLE     1  1974.xx ..... ISBN -
 } noimg          _?                           ?
@@ -171,15 +184,15 @@ o GPANGLE    38  1977.xx ..... ISBN 2-261-00409-5
 
 
 !-----------------------------------------------------------------------------
-_ GPREO   G.P., Coll. Rouge et Or
-_ GPREOB  G.P., Coll. BibliothŠque Rouge et Or
-_ GPREO_S G.P., Coll. Rouge et Or Souveraine
-_ GPREO_D G.P., Coll. Rouge et Or Dauphine
-_ GPREO_O G.P., Coll. Rouge et Or Olympic
+_ GPREO   G.P. - Rouge et Or
+_ GPREOB  G.P. - BibliothŠque Rouge et Or
+_ GPREO_S G.P. - Rouge et Or Souveraine
+_ GPREO_D G.P. - Rouge et Or Dauphine
+_ GPREO_O G.P. - Rouge et Or Olympic
 !-----------------------------------------------------------------------------
 ?o GPREO_S     ?  1951.xx ..... ISBN -
 ?} noimg          _?                           ?
-?- .x .     R     _ROSNY AINE J.-H.            Helgvor du fleuve bleu þ1930
+?- .oZ.     R     _ROSNY AINE J.-H.            Helgvor du fleuve bleu þ1930
 o GPREO_S    74  1954.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _BERNA Paul                  La Porte des ‚toiles þ1954
@@ -265,7 +278,7 @@ o GPREO      51  1990.xx ..... ISBN 2-261-03057-6
 - .oS.     R     _GRENIER Christian           Fleur de monstre þ1990
 
 !-----------------------------------------------------------------------------
-_ ROUGEOR Rouge et Or, Coll. BibliothŠque Rouge et Or
+_ ROUGEOR Rouge et Or - BibliothŠque Rouge et Or
 !-----------------------------------------------------------------------------
 o ROUGEOR    36  1989.xx ..... ISBN 2-261-02632-3
 } noimg          _?                           ?
@@ -288,8 +301,8 @@ o ROUGEOR    23  2012.xx ..... ISBN 978-2-261-40411-7
 - .oZ.     R     _ROSNY AINE J.-H.            La Guerre du feu þ1911
 
 !-----------------------------------------------------------------------------
-_ GP_GSTV Ed. GP, Coll. G.S. Albums T‚l‚vision
-_ GP_GS   Ed. GP, Coll. G.S.
+_ GP_GSTV GP - G.S. Albums T‚l‚vision
+_ GP_GS   GP - G.S.
 !--- G.S. = Grand SuccŠs
 !-----------------------------------------------------------------------------
 o GP_GSTV     ?  1979.xx ..... ISBN .-.....-...-.
@@ -301,7 +314,7 @@ o GP_GS       ?  1980.xx ..... ISBN 2-261-00756-6
 - .oS.     F     _GLUT Donald F.              L'empire contre-attaque [La Trilogie fondatrice - 2][Star Wars] þ1980 The Empire Strikes Back þTrad. SABATHE-RICKLIN Odile
 
 !-----------------------------------------------------------------------------
-_ GPREB   Ed. G.P., Coll. Rouge et Bleu (Jeunesse)
+_ GPREB   G.P. - Rouge et Bleu [jeunesse]
 !-----------------------------------------------------------------------------
 o GPREB      28  1954.xx ..... ISBN -
 } noimg          _?                           ?

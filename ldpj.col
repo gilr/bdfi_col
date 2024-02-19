@@ -4,20 +4,20 @@
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 _ LDPJ    Le Livre de Poche Jeunesse
-_ LDPJ_B  Le Livre de Poche Jeunesse, Benjamin
-_ LDPJ_C  Le Livre de Poche Jeunesse, Cadet
-_ LDPJ_J  Le Livre de Poche Jeunesse, Junior
-_ LDPJ_S  Le Livre de Poche Jeunesse, Senior
-_ LDPJ_GS Le Livre de Poche Jeunesse, Gai Savoir
-_ LDPJ_PT Le Livre de Poche Jeunesse, Pour Tous
-_ LDPJ_FY Le Livre de Poche Jeunesse, Fantasy
-_ LDPJ_SF Le Livre de Poche Jeunesse, Science-Fiction
-_ LDPJ_IF Le Livre de Poche Jeunesse, Coll. Fantasy
-_ LDPJ_IS Le Livre de Poche Jeunesse, Coll. SF
+_ LDPJ_B  Le Livre de Poche Jeunesse - Benjamin
+_ LDPJ_C  Le Livre de Poche Jeunesse - Cadet
+_ LDPJ_J  Le Livre de Poche Jeunesse - Junior
+_ LDPJ_S  Le Livre de Poche Jeunesse - Senior
+_ LDPJ_GS Le Livre de Poche Jeunesse - Gai Savoir
+_ LDPJ_PT Le Livre de Poche Jeunesse - Pour Tous
+_ LDPJ_FY Le Livre de Poche Jeunesse - Fantasy
+_ LDPJ_SF Le Livre de Poche Jeunesse - Science-Fiction
+_ LDPJ_IF Le Livre de Poche Jeunesse - Fantasy
+_ LDPJ_IS Le Livre de Poche Jeunesse - SF
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-!--- LDPJ_IF Livre de Poche Jeunesse, Coll. I-Poche (?) Fantasy & SF
+!--- LDPJ_IF Livre de Poche Jeunesse, I-Poche (?) Fantasy & SF
 !-----------------------------------------------------------------------------
 !------------------------
 !=== 2006
@@ -249,10 +249,11 @@ o LDPJ       14  1979.xx ..... ISBN 2-253-02346-9
 !--- En couv : "et autres contes" en 1988
 !---           "et autres nouvelles" en 2008 et 2014
 !---           Rien les ann‚es interm‚diaires
-- .pF.     N3    _WILDE Oscar                 Le Fant“me de Canterville et autres contes ((Le Fant“me des Canterville)) ş1979
-: .o .     N     _WILDE Oscar                 Le Fant“me de Canterville ş1887 The Canterville Ghost şTrad. CASTIER Jules
-: .o .     N     _WILDE Oscar                 Le Crime de Lord Arthur Savile ş1891 Lord Arthur Savile's Crime şTrad. CASTIER Jules
-: .! .     N     _WILDE Oscar                 Le Millionaire modŠle ş1891 The Model Millionaire şTrad. CASTIER Jules
+!--- Pagination premier ISBN
+- .pF.    kN3    _WILDE Oscar                 Le Fant“me de Canterville et autres contes ((Le Fant“me des Canterville)) ş1979
+: .o .   5 N     _WILDE Oscar                 Le Fant“me de Canterville ş1887 The Canterville Ghost şTrad. CASTIER Jules
+: .o .  69 N     _WILDE Oscar                 Le Crime de Lord Arthur Savile ş1887 Lord Arthur Savile's Crime şTrad. CASTIER Jules
+: .x . 139 N     _WILDE Oscar                 Le Millionaire modŠle ş1891 The Model Millionaire şTrad. CASTIER Jules
 o LDPJ       15  1979.xx ..... ISBN 2-253-02347-7
 } ldpj0015       _Michel Sim‚on               ?
 + LDPJ       15  1988.xx ..... ISBN 2-01-013923-2
@@ -278,7 +279,7 @@ o LDPJ       18  1979.xx ..... ISBN 2-253-02367-1
 } ldpj0018r94    _?                           Morgan
 + LDPJ       18  2002.06 ..... ISBN 2-01-322000-6
 } ldpj0018rr02   _Jean-Pierre Duffour         Morgan
-- .oF.    iNx    _GRIMM Jacob & Wilhelm       Le Roi grenouille et autres contes ş1979
+- .oM.    iNx    _GRIMM Jacob & Wilhelm       Le Roi grenouille et autres contes ş1979
 : .o .     N     _GRIMM Jacob & Wilhelm       Dame Hiver ş1812 Frau Holle şTrad. DURAND Pierre
 : .o .     N     _GRIMM Jacob & Wilhelm       Le Pˆcheur et sa femme ş1812 Von dem Fischer un syner Fru şTrad. DURAND Pierre
 : .o .     N     _GRIMM Jacob & Wilhelm       Le Loup et les sept chevreaux ş1812 Der Wolf und die sieben jungen Geisslein şTrad. DURAND Pierre
@@ -302,7 +303,7 @@ o LDPJ       19  1979.xx ..... ISBN 2-253-02368-X
 : .o .     N     _ANDERSEN Hans Christian     L'Intr‚pide Soldat de plomb ş1838 Den standhaftige Tinsoldat şTrad. ?
 : .o .     N     _ANDERSEN Hans Christian     Poucette ş1835 Tommelise şTrad. ?
 : .o .     N     _ANDERSEN Hans Christian     Les Habits neufs de l'empereur ş1837 Keiserens nye Kl&aelig;der şTrad. ?
-: .o .     N     _ANDERSEN Hans Christian     La Petite Fille aux allumettes ş1845 Den Lille pige med Svovlstikkerne şTrad. ?
+: .o .     N     _ANDERSEN Hans Christian     La Petite Fille aux allumettes ş1845 Den lille Pige med Svovlstikkerne şTrad. ?
 : .o .     N     _ANDERSEN Hans Christian     La Malle volante ş1839 Den flyvende Kuffert
 : .o .     N     _ANDERSEN Hans Christian     Le Rossignol de l'empereur de Chine ş1843 Nattergalen
 : .oY.     N     _ANDERSEN Hans Christian     Le Briquet ş1835 Fyrt›iet şTrad. LA CHESNAIS P. G.
@@ -332,7 +333,7 @@ o LDPJ       20  1979.xx ..... ISBN 2-253-02369-8
 : .o .  77 N     _PERRAULT Charles            Riquet … la houppe ş1697
 : .o .  97 N     _PERRAULT Charles            Le Petit Poucet ş1697
 : .o . 129 N     _PERRAULT Charles            La Belle au bois dormant ş1696
-: .o . 159 N     _PERRAULT Charles           &Peau d'ƒne ş1781
+: .o . 159 N     _PERRAULT Charles           &Peau d'ƒne ş1694-1781
 &                _--- (inconnu)               
 !--- Texte en prose d'un auteur inconnu … partir du conte en vers, et repris pour la premiŠre fois en 1781 dans une ‚dition de ses contes
 : .o . 195 N     _PERRAULT Charles            Peau d'ƒne ş1694
@@ -717,7 +718,7 @@ o LDPJ      157  1983.xx ..... ISBN 2-253-03324-3
 } ldpj0157       _Bruno Pilorget              ?
 + LDPJ      157  1994.xx ..... ISBN 2-01-321031-0
 } ldpj0157r94    _Matthieu Blanchin           ?
-- .x .     R     _ROSNY AINE J.-H.            Le F‚lin g‚ant ş1920
+- .oZ.     R     _ROSNY AINE J.-H.            Le F‚lin g‚ant ş1920
 !------------------------
 !=== 1984
 !------------------------
@@ -743,6 +744,8 @@ o LDPJ      176  1984.xx ..... ISBN 2-253-03354-5
 - .oF.     R     _BICHONNIER Henriette        Emilie et le crayon magique ş1984
 o LDPJ      178  1984.xx ..... ISBN 2-253-03412-6
 } ldpj0178       _?                           ?
++ LDPJ      178  1989.xx ..... ISBN ?
+} ldpj0178r84    _?                           ?
 - .o .     R     _PELOT Pierre                Les L‚gendes de Terre ş1973
 o LDPJ      180  1984.xx ..... ISBN 2-253-03414-2
 } ldpj0180       _Paul & Ga‰tan Brizzi        ?
@@ -790,14 +793,13 @@ o LDPJ      209  1985.xx ..... ISBN 2-253-03698-6
 } ldpj0209rr16   _?                           V‚ronique Boiry
 - .oF.    _A9    *DAHL Roald                  Histoires de fant“mes ş1983 Roald Dahl's Book of Ghosts Stories şTrad. MENARD Jean-Fran‡ois
 !--- r‚‚d Hachette 1988, LdP 1993
+!--- La nouvelle "Dans le m‚tro" (1923 In the Tube) est pr‚sente en VO mais absente de la traduction
 !-- ICI : reste biblio HARTLEY, BENSON et CRAWFORD avant bibantho - voir visage vert
 : .o .     p     _DAHL Roald                  Introduction ş1983 Introduction
 : .o .     N     _BURRAGE A.M.                Le Balayeur ş1931 The Sweeper
 : .oF.     N     _TIMPERLEY Rosemary          Harry ş1955 Harry şTrad. ?
 : .o .     N     _HARTLEY Leslie P.           W.S. ş1952 W.S. şTrad. ?
 : .o .     N     _ASQUITH Cynthia             La Boutique du coin ş1926 The Corner Shop şTrad. RENARD Jean-Fran‡ois
-!--- La nouvelle suivante est pr‚sente en VO mais absente de la traduction :
-!---    Dans le m‚tro ş1923 In the Tube
 : .o .     N     _TIMPERLEY Rosemary          Rencontre … No‰l ş1951 Christmas Meeting
 : .o .     N     _LIE Jonas                   Elias et le Draug ş1902 The Fisherman and the Draug şTrad. ?
 : .o .     N     _BURRAGE A.M.                Compagnes de jeu ş1927 Playmates
@@ -815,6 +817,8 @@ o LDPJ      215  1985.xx ..... ISBN 2-253-03718-4
 } ldpj0215       _Yves Beaujard               ?
 + LDPJ      215  1991.xx ..... ISBN 2-01-015898-9
 } ldpj0215r91    _Yves Beaujard               ?
++ LDPJ      215  1994.xx ..... ISBN 2-01-020484-0
+} ldpj0215r94    _?                           ?
 - .o .     R     _SILVERBERG Robert           La Guerre du froid ş1964 Time of the Great Freeze şTrad. DERET Jean-Claude
 o LDPJ      217  1985.xx ..... ISBN 2-253-03731-1
 } ldpj0217       _?                           ?
@@ -837,8 +841,8 @@ o LDPJ      230  1986.xx ..... ISBN 2-253-03882-2
 } ldpj0230       _Manchu                      ?
 - .o .     R     _O'BRIEN Robert C.           Z comme Zacharie ş1975 Z for Zachariah şTrad. BOUNIORT Jeanne
 o LDPJ      234  1986.xx ..... ISBN 2-253-03950-0
-} ldpj0234       _Yves Beaujard               ?
-- .pF.    iN2    _FLEISCHMAN Sid              Le Fant“me du samedi soir ş1980
+} ldpj0234       _Yves Beaujard               Yves Beaujard
+- .pF.    kN2    _FLEISCHMAN Sid              Le Fant“me du samedi soir, suivi de Un bandit sur un bourrin borgne ş1980
 : .o .     N     _FLEISCHMAN Sid              Le Fant“me du samedi soir ş1974 The Ghost on Saturday Night şTrad. TENAILLE Marie
 : .! .     N     _FLEISCHMAN Sid              Un bandit sur un bourrin borgne ş1977 Me and the Man on the Moon-Eyed Horse şTrad. FOURNEL Paul
 o LDPJ      243  1986.xx ..... ISBN 2-253-03985-3
@@ -857,16 +861,19 @@ o LDPJ      259  1987.xx ..... ISBN 2-253-04266-8
 + LDPJ_J    259  1998.xx ..... ISBN 2-01-321426-X
 !--- TBD ou ISBN 978-2-01-321651-7 - ou les deux ?
 } ldpj0259r98    _?                           ?
-- .oF.    iN10   _ALCOCK Vivien               Le fant“me vous salue bien ş1984 Ghostly Companions şTrad. LAMBLIN Simone
+- .oF.    iNx    _ALCOCK Vivien               Le fant“me vous salue bien ş1984 Ghostly Companions şTrad. LAMBLIN Simone
 o LDPJ      260  1987.xx ..... ISBN 2-253-04340-0
 } ldpj0260       _Fran‡oise Boudignon         ?
 - .oY.     R     _McKINLEY Robin              Casque de feu ş1984 The Hero and the Crown şTrad. BOUNIORT Jeanne
+o LDPJ      299  1990.xx ..... ISBN 2-01-015750-8
+} ldpj0299       _?                           Jean-No‰l Rochut
+- .oY.    iNx    _SOMMER-BODENBURG Angela     Je frissonne, tu frissonnes... ş1984 Wenn du dich gruseln willst şTrad. ROYER Alain
 o LDPJ      300  1987.xx ..... ISBN 2-253-04121-1
 } ldpj0300       _?                           ?
 - .o .     r     _ESCARPIT Robert             L'Enfant qui venait de l'espace ş1984
 o LDPJ      303  1987.xx ..... ISBN 2-253-04124-6
 } ldpj0303       _Philippe Berthet            ?
-- .o .     r     _COHEN Olivier               Je m'appelle Dracula ş1985
+- .o .     r     _COHEN Olivier               Je m'appelle Dracula ş1984
 !------------------------
 !=== 1988
 !------------------------
@@ -995,7 +1002,7 @@ o LDPJ      340  1991.xx ..... ISBN 2-01-017827-0
 : .o .     N     _KIPLING Rudyard             Comment le chameau acquit sa bosse ş1898 How the Camel Got His Hump
 : .o .     N     _KIPLING Rudyard             Comment le rhinoc‚ros acquit sa peau ş1898 How the Rhinoceros Got His Skin
 : .o .     N     _KIPLING Rudyard             Comment le l‚opard acquit ses taches ş1901 How the Leopard Got His Spots
-: .o .     N     _KIPLING Rudyard             L'Enfant ‚l‚phant ş1900 The Elephant's Child ş1900 The Elephant's Child
+: .o .     N     _KIPLING Rudyard             L'Enfant ‚l‚phant ş1900 The Elephant's Child
 : .o .     N     _KIPLING Rudyard             La Rengaine du pŠre kangourou ş1900 The Sing-Song of Old Man Kangaroo
 : .o .     N     _KIPLING Rudyard             La Naissance des tatous ş1900 The Beginning of the Armadillos
 : .o .     N     _KIPLING Rudyard             Comment naquit la premiŠre lettre ş1901 How the First Letter Was Written
@@ -1017,8 +1024,6 @@ o LDPJ      361  1992.xx ..... ISBN 2-01-018407-6
 - .o .     R     _DEJEAN Jean-Luc             O— est pass‚ le chat ? ş1992
 o LDPJ      393  1992.xx ..... ISBN 2-01-019549-3
 } ldpj0393       _Matthieu Blanchin           ?
-?+ LDPJ      393  1996.xx ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
 - .o .     R     _WINTREBERT Jo‰lle           L'Oc‚anide ş1992
 !------------------------
 !=== 1993
@@ -1092,7 +1097,7 @@ o LDPJ_S    510  1994.xx ..... ISBN 2-01-321054-X
 } ldpj0510       _Matthieu Blanchin           N
 + LDPJ_GS   510  1997.xx ..... ISBN 2-01-321581-9
 } ldpj0510r97    _Matthieu Blanchin           N
-- .oF.     N6    _POE Edgar Allan             Histoires extraordinaires ş1856
+- .oF.     A6    _POE Edgar Allan             Histoires extraordinaires ş1997
 : .o .     N     _POE Edgar Allan             Double assassinat dans la rue Morgue [Auguste Dupin] ş1841 The Murders in the Rue Morgue şTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             La Lettre vol‚e [Auguste Dupin] ş1845 The Purloined Letter şTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Le Scarab‚e d'or ş1843 The Gold-Bug şTrad. BAUDELAIRE Charles
@@ -1338,11 +1343,11 @@ o LDPJ_J    604  1997.xx ..... ISBN 2-01-321363-8
 o LDPJ_J    613  1997.xx ..... ISBN 2-01-321059-0
 } ldpj0613       _Claire Gourdin              ?
 - .oF.     R     _JOLIS Alan                  Monsieur M‚tro ş? ? şTrad. COSTA Marianne
-o LDPJ_S    623  1997.xx ..... ISBN 2-01-321518-5
+o LDPJ_S    623  1997.06 ..... ISBN 2-01-321518-5
 } ldpj0623       _Tudor Banus                 N
-- .oF.     r2    _WESTALL Robert              Le Mal‚fice de Muncaster suivi de Brangwyn Gardens ş1997
-: .o .     r     _WESTALL Robert              Le Mal‚fice de Muncaster ş1991 The Stones of Muncaster Cathedral şTrad. DALLE Sophie
-: .o .     r     _WESTALL Robert              Brangwyn Gardens ş1991 Brangwyn Gardens şTrad. DALLE Sophie
+- .oF.    _r2    _WESTALL Robert              Le Mal‚fice de Muncaster suivi de Brangwyn Gardens ş1997
+: .o .   9 r     _WESTALL Robert              Le Mal‚fice de Muncaster ş1991 The Stones of Muncaster Cathedral şTrad. DALLE Sophie
+: .o . 139 r     _WESTALL Robert              Brangwyn Gardens ş1991 Brangwyn Gardens şTrad. DALLE Sophie
 o LDPJ_C    632  1997.xx ..... ISBN 2-01-321548-7
 } ldpj0632       _BenoŒt Debecker             ?
 - .oF.     R     _JOLIS Alan                  Les Aventures de la sorciŠre Infecte au Shengali ş? ? şTrad. COSTA Marianne
@@ -1358,8 +1363,11 @@ o LDPJ      635  1997.11 ..... ISBN 2-01-321547-9
 o LDPJ_C    637  1997.11 ..... ISBN 2-01-321582-7
 !--- R‚‚d. ISBN 978-2-01-323365-1
 } ldpj0637       _Thoisy Marie-GeneviŠve      ?
-- .oS.    iN4    _ANDREVON Jean-Pierre        La Nuit des bˆtes et autres histoires fantastiques d'animaux ş1997
+- .oS.    kN4    _ANDREVON Jean-Pierre        La Nuit des bˆtes et autres histoires fantastiques d'animaux ş1997
 : .o .     N     _ANDREVON Jean-Pierre        La Nuit des bˆtes ş1983
+: .o .     N     _ANDREVON Jean-Pierre        La Porte au fond de l'armoire ş1997
+: .o .     N     _ANDREVON Jean-Pierre        S‚bastien qui voulait avoir un cheval ş1997
+: .o .     N     _ANDREVON Jean-Pierre        Un paysage d'octobre ş1997
 o LDPJ      638  1997.xx ..... ISBN 2-01-321574-6
 } ldpj0638       _?                           ?
 - .oF.     R     _GERMAIN Alain               Les Origines de l'homme ou les Aventures du professeur Coppensius ş1997
@@ -1367,8 +1375,7 @@ o LDPJ_GS  1125  1997.xx ..... ISBN 2-01-321538-X
 } ldpj1125       _Andr‚ Verret                ?
 + LDPJ     1125  2002.xx ..... ISBN 2-01-321970-9
 } ldpj1125rr02   _?                           Andr‚ Verret
-!--- En 2002 et 2007, couv. sous : L'‚trange Cas du Dr Jekyll et Mr Hyde
-!--- .oF.     r     _STEVENSON Robert Louis      L'trange Cas du docteur Jekyll et M. Hyde ş1885 The Strange Case of Dr Jekyll and Mr Hyde şTrad. MURAY Jean
+!--- En 2002 et 2007, couverture avec : "L'‚trange Cas du Dr Jekyll et Mr Hyde"
 + LDPJ     1125  2007.10 ..... ISBN 978-2-01-322511-3
 } ldpj1125rr07   _?                           Andr‚ Verret
 + LDPJ     1125i 2015.02 ..... ISBN 978-2-01-220230-6
@@ -1397,8 +1404,8 @@ o LDPJ_GS  1129  1997.xx ..... ISBN 2-01-321579-7
 !------------------------
 o LDPJ_C    644  1998.02 R.... ISBN 2-01-321599-1
 } ldpj0644       _Fran‡oise Moreau            N
+!--- TBD titre int‚rieur : M. Routine s'efface, et autres aventures fantastiques (1998)
 - .oFM    _N5    _ECKEN Claude                M. Routine s'efface ş1998
-!--- TBD int‚rieur : M. Routine s'efface, et autres aventures fantastiques ş1998
 : .oFM     N     _ECKEN Claude                M. Routine s'efface ş1998
 : .oFM     N     _ECKEN Claude                Un brin d'arc-en-ciel ş1998
 : .oFM     N     _ECKEN Claude                Le Miroir polisson ş1998
@@ -1893,7 +1900,7 @@ o LDPJ     1082  2005.02 ..... ISBN 2-01-321145-7
 } ldpj1082rr08   _?                           ?
 + LDPJ     1082  2014.10 ..... ISBN 978-2-01-002370-5
 } ldpj1082rr14   _?                           ?
-- .oS.     R     _VERNE Jules                 Voyage au centre de la Terre ş1864-1967
+- .oS.     R     _VERNE Jules                 Voyage au centre de la Terre ş1864-1867
 o LDPJ     1084  2005.03 ..... ISBN 2-01-321151-1
 } ldpj1084       _?                           ?
 + LDPJ     1084  2015.04 ..... ISBN 978-2-01-161413-1
@@ -1921,12 +1928,13 @@ o LDPJ     1085  2005.03 ..... ISBN 2-01-321153-8
 : .oF.     N     _CROSSLEY-HOLLAND Kevin      Le Dieu Thor et les g‚ants ş2000 Thor Goes Visiting
 : .oF.     N     _CROSSLEY-HOLLAND Kevin      Le Vilain Petit Canard ş2000 The Ugly Duckling
 : .oF.     N     _CROSSLEY-HOLLAND Kevin      L'Arm‚e des ours ş2000 The Army of Bears
-: .oF.     N     _CROSSLEY-HOLLAND Kevin      La Main tranch‚e ş2000 With my Right Hand
+: .oF.     N     _CROSSLEY-HOLLAND Kevin      La Main tranch‚e ş2000 With My Right Hand
 : .oF.     N     _CROSSLEY-HOLLAND Kevin      Pers‚phone, de retour … la lumiŠre ş2000 Persephone, Rising
 : .oF.     N     _CROSSLEY-HOLLAND Kevin      Arthur, notre roi ! ş2000 Arthur the King
 o LDPJ     1086  2005.xx ..... ISBN 2-01-321159-7
 } ldpj1086       _Mayalen Goust               ?
-- .oM.    iN12   _LAPORTE Michel              Douze contes de f‚es ş2005
+!--- TBD v‚rif contenu
+- .oM.    iNx    _LAPORTE Michel              Douze contes de f‚es ş2005
 ?: .o .     N     _LAPORTE Michel              Peau d'Ane ş2005
 ?: .o .     N     _LAPORTE Michel              Aurore et Aim‚e ş2005
 ?: .o .     N     _LAPORTE Michel              Les F‚es ş2005
@@ -1960,7 +1968,7 @@ o LDPJ     1099  2005.05 ..... ISBN 2-01-321166-X
 - .oTF    _N9    _HOROWITZ Anthony            La Photo qui tue - Neuf histoires … vous glacer le sang ((Destination Horreur)) ş1999 Horowitz Horror şTrad. LE GOYAT Annick
 : .oF.     N     _HOROWITZ Anthony            La Photo qui tue ş1999 Killer Camera
 : .oF.     N     _HOROWITZ Anthony            Bain du soir ş1994 Bath Night
-: .oF.     N     _HOROWITZ Anthony            Transport ‚clair ş1999 Light Move
+: .oF.     N     _HOROWITZ Anthony            Transport ‚clair ş1999 Light Moves
 : .oF.     N     _HOROWITZ Anthony            Le Bus de nuit ş1999 The Night Bus
 : .oF.     N     _HOROWITZ Anthony            L'Horrible Rˆve de Harriet ş1999 Harriet's Horrible Dream
 : .oF.     N     _HOROWITZ Anthony            Peur ş1999 Scared
@@ -1971,12 +1979,12 @@ o LDPJ     1160  2005.xx ..... ISBN 2-01-321133-3
 } ldpj1160       _Yann Autret                 ?
 + LDPJ     1160  2007.10 ..... ISBN 978-2-01-322469-7
 } ldpj1160rr07   _Yann Autret                 ?
-- .oF.     R     _GUDULE                      La sorciŠre est dans l'‚cole [Les Frousses de Zo‚ - 1] ş1996
+- .oF.     R     _GUDULE                      La sorciŠre est dans l'‚cole [Les Frousses de Zo‚] ş1996
 o LDPJ     1161  2005.xx ..... ISBN 2-01-321167-8
 } ldpj1161       _Yann Autret                 ?
 + LDPJ     1161  2007.10 ..... ISBN 978-2-01-322385-0
 } ldpj1161rr07   _Yann Autret                 ?
-- .oF.     R     _GUDULE                      Un requin dans la piscine [Les Frousses de Zo‚ - 2] ş1997
+- .oF.     R     _GUDULE                      Un requin dans la piscine [Les Frousses de Zo‚] ş1997
 o LDPJ     1166  2005.07 ..... ISBN 2-01-116782-5
 } ldpj1166       _Emmanuel Saint              ?
 - .oS.     R     _BRUSSOLO Serge              Les Mangeurs de murailles [Sigrid et les mondes perdus - 4] ş2003
@@ -1985,7 +1993,7 @@ o LDPJ     1170  2005.xx ..... ISBN 2-01-321171-6
 + LDPJ     1170  2008.xx ..... ISBN 978-2-01-322608-0
 } ldpj1170rr08   _?                           ?
 - .oF.     N9    _MAUPASSANT Guy de           Le Horla et autres nouvelles fantastiques ş2005
-: .o .     N     _MAUPASSANT Guy de           Le Horla ş1886
+: .o .     N     _MAUPASSANT Guy de           Le Horla (2iŠme version) ş1886-1887
 : .o .     N     _MAUPASSANT Guy de           L'Auberge ş1886
 : .o .     N     _MAUPASSANT Guy de           Qui sait ? ş1890
 : .o .     N     _MAUPASSANT Guy de           La Peur ş1882
@@ -2053,12 +2061,12 @@ o LDPJ     1230  2006.03 ..... ISBN 2-01-321231-3
 } ldpj1230       _Yann Autret                 ?
 + LDPJ     1230  2007.11 ..... ISBN 978-2-01-322490-1
 } ldpj1230rr07   _Yann Autret                 ?
-- .oF.     R     _GUDULE                      Le dentiste est un vampire [Les Frousses de Zo‚ - 3] ş1996
+- .oF.     R     _GUDULE                      Le dentiste est un vampire [Les Frousses de Zo‚] ş1996
 o LDPJ     1238  2006.05 ..... ISBN 2-01-321233-X
 } ldpj1238       _Yann Autret                 ?
 + LDPJ     1238  2008.04 ..... ISBN 978-2-01-322652-3
 } ldpj1238rr08   _Yann Autret                 ?
-- .oF.     R     _GUDULE                      Le Fant“me de la salle de bain [Les Frousses de Zo‚ - 4] ş2006
+- .oF.     R     _GUDULE                      Le Fant“me de la salle de bain [Les Frousses de Zo‚] ş1997
 o LDPJ     1244  2006.xx ..... ISBN 2-01-322274-2
 } ldpj1244       _St‚phanie Hans              ?
 - .o .     R     _MERLE Claude                L'Aigle et le feu ş2006
@@ -2105,7 +2113,7 @@ o LDPJ     1285  2007.03 ..... ISBN 978-2-01-322380-5
 - .oF.     R     _VAGLIO M‚lusine             Kitty Lord et le secret des N‚philim [Kitty Lord - 1] ş2005
 o LDPJ     1287  2007.xx ..... ISBN 978-2-01-322652-3
 } ldpj1287       _Yann Autret                 ?
-- .oF.     R     _GUDULE                      Zo‚ contre Zo‚ [Les Frousses de Zo‚ - 5] ş2007
+- .oF.     R     _GUDULE                      Zo‚ contre Zo‚ [Les Frousses de Zo‚] ş1998
 o LDPJ     1295  2007.06 ..... ISBN 978-2-01-322377-5
 } ldpj1295       _Arnaud Cremet               Cornelia Funke
 + LDPJ     1295  2008.xx ..... ISBN 978-2-01-322680-6
@@ -2142,17 +2150,17 @@ o LDPJ     1351  2008.xx ..... ISBN 978-2-01-322656-1
 } ldpj1351       _Brigitte Susini             ?
 + LDPJ     1351  2014.xx ..... ISBN 978-2-01-322656-1
 } ldpj1351rr14   _Brigitte Susini             ?
-- .oN.     N7    _CASSABOIS Jacques           L'Oiseau de feu - Sept contes de Russie ş2008
+- .oN.    kN7    _CASSABOIS Jacques           L'Oiseau de feu - Sept contes de Russie ş2008
 : .o .     N     _CASSABOIS Jacques           L'Oiseau de feu ş2008
 : .o .     N     _CASSABOIS Jacques           Les Deux Chances ş2008
 : .o .     N     _CASSABOIS Jacques           Le Gel craquant ş2008
 : .o .     N     _CASSABOIS Jacques           Rien ne s'oublie aussi vite qu'un service rendu ş2008
-: .o .     N     _CASSABOIS Jacques           Ivan-Tsarevitch et le Blanc Guerrier de la plaine ş2008
+: .o .     N     _CASSABOIS Jacques           Ivan-Tsar‚vitch et le Blanc Guerrier de la plaine ş2008
 : .o .     N     _CASSABOIS Jacques           Les Bonnes R‚ponses ş2008
 : .o .     N     _CASSABOIS Jacques           Le Songe proph‚tique ş2008
 o LDPJ     1354  2008.xx ..... ISBN 978-2-01-322662-2
 } ldpj1354       _?                           ?
-- .oN.     Nx    _GRIMM Jacob & Wilhelm       Blanche-Neige et autres contes ş2008
+- .oM.     Nx    _GRIMM Jacob & Wilhelm       Blanche-Neige et autres contes ş2008
 : .o .     N     _GRIMM Jacob & Wilhelm       Blanche-Neige ş1812 Schneewittchen şTrad. GEORGES Anne
 o LDPJ     1355  2008.xx ..... ISBN 978-2-01-322657-8
 } ldpj1355       _?                           ?
@@ -2221,7 +2229,7 @@ o LDPJ     1378  2009.01 ..... ISBN 978-2-01-322343-0
 - .oY.     R     _FLANAGAN John               L'Ordre des r“deurs [L'Apprenti d'Araluen - 1] ş2004 The Ruins of Gorlan şTrad. LONGRE Blandine
 o LDPJ     1380  2009.01 ..... ISBN 978-2-01-322772-8
 } ldpj1380       _?                           ?
-- .oF.     R     _RAYBAN Chlo‰                Dans la peau d'un gar‡on ş1994 Virtual Sexual Reality şTrad. PERONNY Nathalie
+- .oF.     R     _RAYBAN Chlo‰                Dans la peau d'un gar‡on [Justine - 2] ş1994 Virtual Sexual Reality şTrad. PERONNY Nathalie
 o LDPJ     1388  2009.03 ..... ISBN 978-2-01-322784-1
 } ldpj1388       _?                           ?
 + LDPJ     1388  2016.xx ..... ISBN 978-2-01-322784-1
@@ -2523,7 +2531,7 @@ o LDPJ     1552  2011.06 ..... ISBN 978-2-01-322967-8
 - .oF.     R     _ZINK Michelle               La Proph‚tie des soeurs [Maudites - 1] ş2009 Prophecy of the Sisters şTrad. KIEfE Laurence
 o LDPJ     1554  2011.06 ..... ISBN 978-2-01-322970-8
 } ldpj1554       _?                           ?
-- .oF.    kA5    ****                         Amours d'enfer ş2008 Love is Hell şTrad. DESURVIRE Maud
+- .oF.    kA5    ****                         Amours d'enfer ş2008 Love Is Hell şTrad. DESURVIRE Maud
 : .o .     N     _WESTERFELD Scott            Un monde (presque) parfait ş2008 Stupid Perfect World şTrad. DESURVIRE Maud
 : .o .     N     _MARR Melissa                Coup de foudre ş2008 Love Struck şTrad. DESURVIRE Maud
 : .o .     N     _STOLARZ Laurie Faria        Le Fant“me de mes rˆves ş2008 Sleeping With the Spirit şTrad. DESURVIRE Maud
@@ -2617,23 +2625,24 @@ o LDPJ     1586  2011.11 ..... ISBN 978-2-01-323015-5
 } ldpj1586       _Jean-Pierre Duffour         MORGAN
 + LDPJ     1586i 2015.09 ..... ISBN 978-2-01-249021-5
 } ldpj1586rr15   _?                           ?
-- .oF.     N10   _GRIMM Jacob & Wilhelm       Le Roi grenouille et autres contes ş1979
-: .o .     N     _GRIMM Jacob & Wilhelm       Le Roi grenouille ou Henri de Fer ş1812 Der Froschk”nig oder der eiserne Heinrich) şTrad. DURAND Pierre
-: .o .     N     _GRIMM Jacob & Wilhelm       Tom Pouce ş1812 Daumesdick şTrad. DURAND Pierre
-: .o .     N     _GRIMM Jacob & Wilhelm       Les Trois Cheveux d'or du diable ş1812 Der Teufel mit den drei goldenen Haaren şTrad. DURAND Pierre
-: .o .     N     _GRIMM Jacob & Wilhelm       Blanche-Neige ş1812 Schneewittchen şTrad. DURAND Pierre
-: .o .     N     _GRIMM Jacob & Wilhelm       H„nsel et Gretel ş1812 H„nsel und Gretel şTrad. DURAND Pierre
-: .o .     N     _GRIMM Jacob & Wilhelm       Dame Hiver ş1812 Frau Holle şTrad. DURAND Pierre
-: .o .     N     _GRIMM Jacob & Wilhelm       Les Musiciens de la ville de Brˆme ş1812 Die Bremer Stadtmusikanten şTrad. DURAND Pierre
-: .o .     N     _GRIMM Jacob & Wilhelm       Le Pˆcheur et sa femme ş1812 Von dem Fischer un syner Fru şTrad. DURAND Pierre
-: .o .     N     _GRIMM Jacob & Wilhelm       Le Loup et les sept chevreaux ş1812 Der Wolf und die sieben jungen Geisslein şTrad. DURAND Pierre
-: .o .     N     _GRIMM Jacob & Wilhelm       Le Vaillant Petit Tailleur ş1812 Das tapfere Schneiderlein şTrad. DURAND Pierre
+!--- sommaire ‚dition 2011
+- .oM.    kN10   _GRIMM Jacob & Wilhelm       Le Roi grenouille et autres contes ş1979
+: .o .     N     _GRIMM Jacob & Wilhelm       Le Roi grenouille ou Henri de Fer ş1812 Der Froschk”nig oder der eiserne Heinrich) şTrad. GEORGES Anne
+: .o .     N     _GRIMM Jacob & Wilhelm       Tom Pouce ş1812 Daumesdick şTrad. GEORGES Anne
+: .o .     N     _GRIMM Jacob & Wilhelm       Les Trois Cheveux d'or du diable ş1812 Der Teufel mit den drei goldenen Haaren şTrad. GEORGES Anne
+: .o .     N     _GRIMM Jacob & Wilhelm       Blanche-Neige ş1812 Schneewittchen şTrad. GEORGES Anne
+: .o .     N     _GRIMM Jacob & Wilhelm       H„nsel et Gretel ş1812 H„nsel und Gretel şTrad. GEORGES Anne
+: .o .     N     _GRIMM Jacob & Wilhelm       Dame Hiver ş1812 Frau Holle şTrad. GEORGES Anne
+: .o .     N     _GRIMM Jacob & Wilhelm       Les Musiciens de la ville de Brˆme ş1812 Die Bremer Stadtmusikanten şTrad. GEORGES Anne
+: .o .     N     _GRIMM Jacob & Wilhelm       Le Pˆcheur et sa femme ş1812 Von dem Fischer un syner Fru şTrad. GEORGES Anne
+: .o .     N     _GRIMM Jacob & Wilhelm       Le Loup et les sept chevreaux ş1812 Der Wolf und die sieben jungen Geisslein şTrad. GEORGES Anne
+: .o .     N     _GRIMM Jacob & Wilhelm       Le Vaillant Petit Tailleur ş1812 Das tapfere Schneiderlein şTrad. GEORGES Anne
 !------------------------
  2012
 !------------------------
 o LDPJ     1589  2012.01 ..... ISBN 978-2-01-323022-3
 } ldpj1589       _?                           ?
-- .oF.     R     _DE LA CRUZ Melissa          Les Sang-D'argent [Les Sang-Bleu - 3] ş2008 Revelations şTrad. LE PLOUHINEC Val‚rie
+- .oF.     R     _DE LA CRUZ Melissa          Les Sang-d'Argent [Les Sang-Bleu - 3] ş2008 Revelations şTrad. LE PLOUHINEC Val‚rie
 o LDPJ     1590  2012.01 ..... ISBN 978-2-01-323024-7
 } ldpj1590       _Gavin Dayton Duffy          ?
 - .oY.     R     _STOLARZ Laurie Faria        Gris secret [Bleu cauchemar - 3] ş2005 Silver Is for Secrets şTrad. LE PLOUHINEC Val‚rie
@@ -2688,10 +2697,10 @@ o LDPJ     1607  2012.03 ..... ISBN 978-2-01-323274-6
 - .oF.     R     _JAMES Syrie                 Dracula mon amour ş2010 Dracula, My Love: The Secret Journals of Mina Harker şTrad. RIGOUREAU Luc
 o LDPJ     1608  2012.03 ..... ISBN 978-2-01-323016-2
 } ldpj1608       _?                           ?
-- .oS.    _N4    _LOVECRAFT Howard P.         Les Montagnes hallucin‚es ş2012
-!--- şTrad. Jacques Papy & Simone Lamblin
-: .o .     N     _LOVECRAFT Howard P.         Les Montagnes hallucin‚es [Arthur Gordon Pym] ş1936 At the Mountains of Madness şTrad. ?
-: .o .     N     _LOVECRAFT Howard P.         Air froid ş1926 Cool Air şTrad. ?
+!--- Trad. Jacques Papy & Simone Lamblin
+- .oF.    _N4    _LOVECRAFT Howard P.         Les Montagnes hallucin‚es ş2012
+: .o .     r     _LOVECRAFT Howard P.         Les Montagnes hallucin‚es [Arthur Gordon Pym] ş1936 At the Mountains of Madness şTrad. ?
+: .o .     N     _LOVECRAFT Howard P.         Air froid ş1928 Cool Air şTrad. ?
 : .o .     N     _LOVECRAFT Howard P.         Le ModŠle de Pickman ş1927 Pickman's Model şTrad. ?
 : .o .     N     _LOVECRAFT Howard P.         La Couleur tomb‚e du ciel ş1927 The Colour Out of Space şTrad. ?
 o LDPJ     1610  2012.03 ..... ISBN 978-2-01-323275-3
@@ -2738,7 +2747,7 @@ o LDPJ     1636  2012.05 ..... ISBN 978-2-01-323392-7
 o LDPJ     1637  2012.06 ..... ISBN 978-2-01-323298-2
 } ldpj1637       _?                           ?
 !--- "L'initiation" sur site ‚diteur
-!--- TBC trad şTrad. Fr‚d‚rique Le Boucher
+!--- TBC Trad. Fr‚d‚rique Le Boucher
 - .oF.     R     _SMITH L.J.                  The Secret Circle [Le Cercle secret - 1] ş1992 The Initiation şTrad. TOLILA Isabelle
 o LDPJ     1638  2012.06 ..... ISBN 978-2-01-323299-9
 } ldpj1638       _?                           ?
@@ -2772,7 +2781,7 @@ o LDPJ     1651  2012.08 ..... ISBN 978-2-01-323413-9
 o LDPJ     1652  2012.07 ..... ISBN 978-2-01-323414-6
 } ldpj1652       _?                           ?
 !--- "La fuite" sur le site de l'‚diteur
-- .oF.     R     _TIERNAN Cate                Immortels [Immortels - 1] ş2010 Immortal Beloved şTrad. LONGRE Blandine
+- .oF.     R     _TIERNAN Cate                Immortels [Immortels (C. Tiernan) - 1] ş2010 Immortal Beloved şTrad. LONGRE Blandine
 o LDPJ     1658  2012.09 ..... ISBN 978-2-01-323521-1
 } ldpj1658       _?                           ?
 - .oF.     R     _PAVER Michelle              Le Serment [Chroniques des temps obscurs - 5] ş2008 Oath Breaker şTrad. LONGRE Blandine
@@ -2812,7 +2821,7 @@ o LDPJ     1677  2012.09 ..... ISBN 978-2-01-323520-4
 } ldpj1677rr14   _J‚r‚my Fleury               ?
 + LDPJ     1677i 2015.03 ..... ISBN 978-2-01-203171-5
 } ldpj1677rr15   _J‚r‚mie Fleury              ?
-- .oS.     R     _VERNE Jules                 Voyage au centre de la Terre ş1864-1967
+- .oS.     R     _VERNE Jules                 Voyage au centre de la Terre ş1864-1867
 o LDPJ     1678  2012.10 ..... ISBN 978-2-01-320069-1
 } ldpj1678       _?                           ?
 + LDPJ     1678i 2015.11 ..... ISBN 978-2-01-181029-8
@@ -2933,14 +2942,17 @@ o LDPJ     1711  2013.02 ..... ISBN 978-2-01-320093-6
 - .oF.     R     _SHAN Darren                 Jeux de sang [Darren Shan - 3] ş2000 Tunnels of Blood şTrad. LEMOINE Aude
 o LDPJ     1712  2013.02 ..... ISBN 978-2-01-322341-6
 } ldpj1712       _Yann Tisseron               ?
-- .oF.     R     _PIERCE Tamora               Chaman du d‚sert [Alanna - 3] ş1986 The Woman Who Rides Like a Man şTrad. BELLOT Florence
+- .oF.     R     _PIERCE Tamora               Chaman du d‚sert [Alanna - 3] ş1986 The Woman who Rides Like a Man şTrad. BELLOT Florence
 o LDPJ     1713  2013.02 ..... ISBN 978-2-01-320094-3
 } ldpj1713       _?                           ?
 - .oF.     R     _PATTERSON James            &Les Rebelles du Nouvel Ordre [Witch & Wizard - 1] ş2009 Witch and Wizard şTrad. LEMOINE Aude
 &                _CHARBONNET Gabrielle        
 o LDPJ     1714  2013.01 ..... ISBN 978-2-01-320095-0
 } ldpj1714       _Laurent Besson              ?
-- .oF.     R     _DE LA CRUZ Melissa          Bloody Valentine [Les Sang-Bleu - 6] ş2010 Bloody Valentine şTrad. LE PLOUHINEC Val‚rie
+- .oF.     N3    _DE LA CRUZ Melissa          Bloody Valentine [Les Sang-Bleu - 6] ş2010 Bloody Valentine şTrad. LE PLOUHINEC Val‚rie
+: .oF.     N     _DE LA CRUZ Melissa          Nuit d'ivresse … Manhattan [Les Sang-Bleu] ş2010 Just Another Night in Suck City
+: .oF.     N     _DE LA CRUZ Melissa          Tout ce que je vois me fait penser … toi [Les Sang-Bleu] ş2010 Always Something There to Remind Me
+: .oF.     N     _DE LA CRUZ Melissa          L'Anneau de feu [Les Sang-Bleu] ş2010 Ring of Fire
 o LDPJ     1715  2013.03 ..... ISBN 978-2-01-320096-7
 } ldpj1715       _?                           ?
 !--- "La soif de sang" sur les sites ‚diteur
@@ -2955,7 +2967,7 @@ o LDPJ     1717  2013.03 ..... ISBN 978-2-01-320098-1
 o LDPJ     1718  2013.03 ..... ISBN 978-2-01-320099-8
 } ldpj1718       _Shuutterstock               ?
 !--- "La traque" sur le site de l'‚diteur
-- .oF.     R     _TIERNAN Cate                La Traque [Immortels - 2] ş2011 Darkness Falls şTrad. LONGRE Blandine
+- .oF.     R     _TIERNAN Cate                La Traque [Immortels (C. Tiernan) - 2] ş2011 Darkness Falls şTrad. LONGRE Blandine
 o LDPJ     1719  2013.03 ..... ISBN 978-2-01-320100-1
 } ldpj1719       _?                           ?
 - .oF.    kR3    _TIERNAN Cate                Wicca [Magie blanche - 1/3] ş2010 Sweep: Book of Shadows - The Coven - Blood Witch şTrad. CARLIER Aude
@@ -3143,7 +3155,7 @@ o LDPJ     1813  2014.03 ..... ISBN 978-2-01-323974-5
 - .oF.     R     _SMITH L.J.                  Journal d'un vampire - Tome 2 [Vampires - 2] ş1991 The Struggle şTrad. TOLILA Isabelle
 o LDPJ     1814  2014.03 ..... ISBN 978-2-01-323975-2
 } ldpj1814       _?                           ?
-- .oF.     R     _CHANDLER Elizabeth          Le Retour de l'ange - Tome 3 [Le Retour de l'Ange - 3][Le Baiser de l'ange - 6] ş2012 Everafter şTrad. GUILLET Catherine
+- .oF.     R     _CHANDLER Elizabeth          Le Retour de l'ange - Tome 3 [Le Retour de l'ange - 3][Le Baiser de l'ange - 6] ş2012 Everafter şTrad. GUILLET Catherine
 o LDPJ     1815  2014.03 ..... ISBN 978-2-01-323976-9
 } ldpj1815       _Michael Frost               ?
 - .oF.     R     _OLIVER Lauren               Pandemonium [Delirium - 2] ş2012 Pandemonium şTrad. DELARBRE Alice
@@ -3327,6 +3339,11 @@ o LDPJ        ?  2016.02 ..... ISBN 978-2-01-319306-1
 o LDPJ        ?  2016.02 ..... ISBN 978-2-01-319309-2
 } ldpj2016_05    _Talexi                      ?
 - .oF.     R     _MAAS Sarah J.               La PrisonniŠre [Keleana - 1] ş2012 Throne of Glass şTrad. DESCOMBEY Anne-Judith
+o LDPJ        ?  2022.07 ..... ISBN 978-2-01-720222-6
+} ldpj2022_13    _(c)Livre de poche Studio    ?
+!--- R‚‚dition sous le titre de s‚rie "Le Tr“ne de cristal"
+!--- YA - 125x178 mm - 496 pages - 8,90 euros
+- .oF.     R     _MAAS Sarah J.               L'Assassineuse [Keleana - 1] ş2012 Throne of Glass şTrad. DESCOMBEY Anne-Judith
 o LDPJ        ?  2016.03 ..... ISBN 978-2-01-319311-5
 } ldpj2016_06    _(c)PlainPicture / Ableimages / Corbis
 - .oF.     R     _AGUIRRE Ann                 Enclave - Tome 2 [Enclave - 2] ş2012 Outpost şTrad. FARADAY Charlotte
@@ -3341,7 +3358,7 @@ o LDPJ        ?  2016.02 ..... ISBN 978-2-01-319314-6
 o LDPJ        ?  2016.03 ..... ISBN 978-2-01-319312-2
 } ldpj2016_09    _(C)Shutterstock             ?
 !--- "Cr‚‚ par L.J. Smith"
-- .oF.     R     _--- (inconnu)               Cruelle destin‚e [Journal d'un vampire - 8] ş2012 The Hunters 3: Destiny Rising şTrad. DEMOULIN Axelle
+- .oF.     R     _--- (inconnu)               Cruelle destin‚e [Vampires - 8] ş2012 The Hunters 3: Destiny Rising şTrad. DEMOULIN Axelle
 o LDPJ        ?  2016.03 ..... ISBN 978-2-01-319310-8
 } ldpj2016_10    _Steve Stone / Adam Swaab    ?
 - .oS.     R     _WEITZ Chris                 The Young World [The Young World - 1] ş2014 The Young World şTrad. FAZI M‚lanie
@@ -3356,6 +3373,10 @@ o LDPJ        ?  2016.05 ..... ISBN 978-2-01-393800-6
 - .oY.     R     _FLANAGAN John               Les Histoires perdues [L'Apprenti d'Araluen - 11] ş2011 The Lost Stories şTrad. LONGRE Blandine
 o LDPJ        ?  2016.05 ..... ISBN 978-2-01-393802-0
 } ldpj2016_14    _Alex Taini                  ?
++ LDPJ        ?  2022.07 ..... ISBN 978-2-01-720223-3
+} ldpj2022_14    _(c)Livre de Poche Studio    ?
+!--- R‚‚dition sous le titre de s‚rie "Le Tr“ne de cristal"
+!--- YA - 125x178 mm - 496 pages - 8,90 euros
 - .oF.     R     _MAAS Sarah J.               La Reine sans couronne [Keleana - 2] ş2013 Crown of Midnight şTrad. DESCOMBEY Anne-Judith
 o LDPJ        ?  2016.06 ..... ISBN 978-2-01-203203-3
 } ldpj2016_15    _R‚mi Saillard               ?
@@ -3364,7 +3385,7 @@ o LDPJ        ?  2016.06 ..... ISBN 978-2-01-393807-5
 } ldpj2016_16    _(c)Shutterstock             ?
 !--- "Cr‚‚ par L.J. Smith"
 !--- Ecrit par Gary Bowen / Cr‚dit‚ via le pseudonyme Aubrey Clark aux US
-- .oF.     R     _--- (inconnu)               Le Cauchemar [Journal d'un vampire - 9] ş2013 The Salvation: Unseen şTrad. ANCION Nicolas & DEMOULIN Axelle
+- .oF.     R     _--- (inconnu)               Le Cauchemar [Vampires - 9] ş2013 The Salvation: Unseen şTrad. ANCION Nicolas & DEMOULIN Axelle
 o LDPJ        ?  2016.08 ..... ISBN 978-2-01-182511-7
 } ldpj2016_17    _(c)PlainPicture / Pictorium / Rauschen
 - .oF.     R     _AGUIRRE Ann                 Enclave - Tome 3 [Enclave - 3] ş2013 Horde şTrad. FARADAY Charlotte
@@ -3378,6 +3399,10 @@ o LDPJ        ?  2016.09 ..... ISBN 978-2-01-910985-1
 - .oF.     R     _--- (inconnu)               La Traque [Vampires - 10] ş2013 The Salvation 2: Unspoken şTrad. ANCION Nicolas & DEMOULIN Axelle
 o LDPJ        ?  2016.09 ..... ISBN 978-2-01-182505-6
 } ldpj2016_20    _Alex Taini                  ?
++ LDPJ        ?  2022.11 ..... ISBN 978-2-01-720224-0
+} ldpj2022_25    _(c)Studio LHF               ?
+!--- R‚‚dition sous le titre de s‚rie "Le Tr“ne de cristal"
+!--- Jeunesse - 125x178 mm - 592 pages - 8,90 euros
 - .oF.     R     _MAAS Sarah J.               L'H‚ritiŠre du feu [Keleana - 3] ş2014 Heir of Fire şTrad. DESCOMBEY Anne-Judith
 o LDPJ        ?  2016.09 ..... ISBN 978-2-01-910980-6
 } noimg          _?                           ?
@@ -3426,6 +3451,9 @@ o LDPJ        ?  2017.01 ..... ISBN 978-2-01-911023-9
 - .oF.     R     _GIER Kerstin                Rouge rubis [Rouge rubis - 1] ş2009 Rubinrot şTrad. LEMAIRE Nelly
 o LDPJ        ?  2017.02 ..... ISBN 978-2-01-911027-7
 } noimg          _Carson Ellis                ?
++ LDPJ        ?  2021.06 ..... ISBN 978-2-01-911027-7
+} noimg          _Carson Ellis                ?
+!--- Jeunesse - Poche - 125x178 - 544 pages
 - .oF.     R     _STEWART Trenton Lee         Le Myst‚rieux Cercle Benedict [Le Myst‚rieux Cercle Benedict - 1] ş2007 The Mysterious Benedict Society şTrad. DUPIN Jean-Baptiste
 o LDPJ        ?  2017.02 ..... ISBN 978-2-01-700999-3
 } noimg          _?                           ?
@@ -3539,7 +3567,7 @@ o LDPJ        ?  2017.10 ..... ISBN 978-2-01-626533-8
 - .oF.     R     _KIRBY Matthew J.            Last Descendants [Last Descendants - 1][Assassin's Creed] ş2016 Last Descendants şTrad. RIVELINE Anath
 o LDPJ        ?  2017.10 ..... ISBN 978-2-01-626537-6
 } noimg          _Thomas Walker               ?
-- .oF.     R     _BARDUGO Leigh               Six of Crows [Six of Crows - 1] ş2015 Six of Crows şTrad. RIVELINE Anath
+- .oF.     R     _BARDUGO Leigh               Six of Crows [Six of Crows - 1][Grisha] ş2015 Six of Crows şTrad. RIVELINE Anath
 o LDPJ        ?  2017.10 ..... ISBN 978-2-01-701007-4
 } ldpj2017_26    _Antoine Guillopp‚           ?
 - .oFI     A12   *GROUSSET Alain             &Anthologie du monstre ş2017
@@ -3569,7 +3597,7 @@ o LDPJ        ?  2017.11 ..... ISBN 978-2-01-626531-4
 - .oY.     R     _RIDDELL Chris               Apolline et le fant“me de l'‚cole [Apolline - 2] ş2008 Ottoline Goes to School şTrad. SARN Am‚lie
 o LDPJ        ?  2017.11 ..... ISBN 978-2-01-626561-1
 } ldpj2017_42    _Carole Gourrat              ?
-- .oM.    iN13   _CASSABOIS Jacques           Les Trois Dons et autres contes de magie ((Dix contes de magie)) ş2007-2017
+- .oM.    iNx    _CASSABOIS Jacques           Les Trois Dons et autres contes de magie ((Dix contes de magie)) ş2007-2017
 o LDPJ        ?  2017.11 ..... ISBN 978-2-01-626544-4
 } noimg          _Aleksi Briclot              ?
 !--- Bonus in‚dit inclus : ?
@@ -3630,7 +3658,7 @@ o LDPJ        ?  2018.05 ..... ISBN 978-2-01-703846-7
 - .oF.     R     _PARRY B.F.                  La Guerre des cauchemars [Oniria - 3] ş2015
 o LDPJ        ?  2018.05 ..... ISBN 978-2-01-703837-5
 } noimg          _Thomas Walker               ?
-- .oF.     R     _BARDUGO Leigh               La Cit‚ corrompue [Six of Crows - 2] ş2016 Crooked Kingdom şTrad. RIVELINE Anath
+- .oF.     R     _BARDUGO Leigh               La Cit‚ corrompue [Six of Crows - 2][Grisha] ş2016 Crooked Kingdom şTrad. RIVELINE Anath
 o LDPJ        ?  2018.05 ..... ISBN 978-2-01-704359-1
 } noimg          _?                           ?
 - .oF.     R     _BARDUGO Leigh               Warbringer [Wonder Woman] ş2017 Warbringer şTrad. ROMAN Marion
@@ -3695,7 +3723,7 @@ o LDPJ        ?  2018.10 ..... ISBN 978-2-01-705202-9
 - .oF.     R     _MATHARU Taran               Inquisition [L'Invocateur - 2] ş2016 The Inquisition şTrad. LONGRE Blandine
 o LDPJ        ?  2018.11 ..... ISBN 978-2-01-704374-4
 } noimg          _Chris Riddell               ?
-- .oF.     R     _RIDDELL Chris               Une fˆte d'enfer [Lili Goth - 2] ş2015 Goth Girl and the Wuthering Fright şTrad. SARN Am‚lie
+- .oF.     R     _RIDDELL Chris               Une fˆte d'enfer ! [Lili Goth - 2] ş2014 Goth Girl and the Fete Worse Than Death şTrad. SARN Am‚lie
 o LDPJ        ?  2018.11 ..... ISBN 978-2-01-705208-1
 } noimg          _Benjamin Lacombe            ?
 - .oF.     R     _OLIVER Lauren              &La Tˆte r‚duite [Le Mus‚e des monstres - 1] ş2015 The Shrunken Head şTrad. DELARBRE Alice
@@ -3781,7 +3809,7 @@ o LDPJ        ?  2019.05 ..... ISBN 978-2-01-708047-3
 &                _CHESTER H.C.                
 o LDPJ        ?  2019.05 ..... ISBN 978-2-01-708038-1
 } noimg          _Chris Riddell               ?
-- .oF.     R     _RIDDELL Chris               Les Hauts de Hurlefrousse [Lili Goth - 3] ş2014 Goth Girl and the Wuthering Fright şTrad. SARN Am‚lie
+- .oF.     R     _RIDDELL Chris               Les Hauts de Hurlefrousse [Lili Goth - 3] ş2015 Goth Girl and the Wuthering Fright şTrad. SARN Am‚lie
 o LDPJ        ?  2019.06 ..... ISBN 978-2-01-786701-2
 } noimg          _James Madsen                ?
 - .oF.     R     _DE LA CRUZ Melissa          L'Œle de l'Oubli se rebelle [L'Œle de l'Oubli - 3][Descendants] ş2017 Rise of the Isle of the Lost şTrad. REMY-HEBERT Brigitte
@@ -3881,10 +3909,7 @@ o LDPJ        ?  2020.03 ..... ISBN 978-2-01-711899-2
 o LDPJ        ?  2020.03 ..... ISBN 978-2-01-711906-7
 } noimg          _(c)Troicka                  ?
 !--- Jeunesse - Poche - 12,7 x 17,8 - 256 pages - 5,50 euros
-- .oF.     R     _COLLODI Carlo               Pinocchio ş1881 Le Avventure di Pinocchio şTrad. RICCI Anna
-o LDPJ        ?  2020.04 ..... ISBN 978-2-01-711915-9
-} noimg          _?                           ?
-- .oY.     R     _DE VAILLY Corinne           L'Ordre de l'‚p‚e [M‚lusine et Phil‚mon - 2] ş2012
+- .oF.     R     _COLLODI Carlo               Pinocchio ş1881 Le avventure di Pinocchio şTrad. RICCI Anna
 o LDPJ        ?  2020.05 ..... ISBN 978-2-01-628800-9
 } noimg          _Ta‹ Marc Le Thanh           ?
 !--- Jeunesse - Poche - 12,7 x 17,8 - 224 pages - 5,90 euros
@@ -3928,7 +3953,7 @@ o LDPJ        ?  2020.08 ..... ISBN 978-2-01-711907-4
 o LDPJ        ?  2020.09 ..... ISBN 978-2-01-628828-3
 } noimg          _? Chad Michael Stutio       ?
 !--- Jeunesse - Poche - 672 pages - 9,90 euros
-- .oF.     R     _RIGGS Ransom                La Carte des jours [Miss Peregrine - 4] ş2018 Miss Peregrine 4: A Map of Days şTrad. Sidonie van den Dries
+- .oF.     R     _RIGGS Ransom                La Carte des jours [Miss Peregrine - 4] ş2018 A Map of Days şTrad. Sidonie van den Dries
 o LDPJ        ?  2020.09 ..... ISBN 978-2-01-628820-7
 } noimg          _Levente Szabo               ?
 !--- Jeunesse - Poche - 125 x 178 mm - 400 pages - 6,90 euros
@@ -3948,11 +3973,11 @@ o LDPJ        ?  2020.10 ..... ISBN 978-2-01-628829-0
 o LDPJ        ?  2020.10 ..... ISBN 978-2-01-628826-9
 } noimg          _Sara Gianassi               ?
 !--- Jeunesse - Poche - 126 x 178 mmm - 297 pages - 6,90 euros
-- .oY.     R     _BARRETT Tracy               Marabel et le livre du Destin ş2018 Marabel and the Book of Fate şTrad. PLISSON Emmanuel
+- .oY.     R     _BARRETT Tracy               Marabel et le livre du Destin [Marabel - 1] ş2018 Marabel and the Book of Fate şTrad. PLISSON Emmanuel
 o LDPJ        ?  2020.10 ..... ISBN 978-2-01-628823-8
 } noimg          _Harriet Muncaster           ?
 !--- Jeunesse - Poche - 128 pages - 6,90 euros
-- .oF.     r     _MUNCASTER Harriet           Mirabelle joue des mauvais tours ş2020 Mirabelle Gets up to Mischief şTrad. FARADAY Charlotte
+- .oF.     r     _MUNCASTER Harriet           Mirabelle joue des mauvais tours [Mirabelle - 1] ş2020 Mirabelle Gets up to Mischief şTrad. FARADAY Charlotte
 o LDPJ        ?  2020.11 ..... ISBN 978-2-01-628821-4
 } noimg          _Guillaume Morellec          ?
 !--- Jeunesse - Poche - 125 x 178 mm - 416 pages - 6,90 euros
@@ -3961,4 +3986,234 @@ o LDPJ        ?  2020.11 ..... ISBN 978-2-01-628807-8
 } noimg          _Divers illustrateurs        ?
 !--- Jeunesse - Poche - 125 x 179 mm - 384 pages - 6,90 euros
 - .oF.     R     _GIER Kerstin                Silver - Livre troisiŠme [Silver - 3] ş2015 Das dritte Buch der Tr„ume şTrad. LEMAIRE Nelly
+!------------------------
+!=== 2021
+!------------------------
+o LDPJ        ?  2021.01 ..... ISBN 978-2-01-713405-3
+} noimg          _Carine Hinder               ?
+!--- Jeunesse - Poche - 125 x 178 - 192 pages
+- .oY.     R     _KESSLER Liz                 Emily et la bague maudite [Emily - 3] ş2006 Emily Windsnap and the Castle in the Mist şTrad. FARADAY Charlotte
+o LDPJ        ?  2021.01 ..... ISBN 978-2-01-711915-9
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125 x 178 - 240 pages
+- .oY.     R     _DE VAILLY Corinne           L'Ordre de l'‚p‚e [M‚lusine et Phil‚mon - 2] ş2012
+o LDPJ        ?  2021.01 ..... ISBN 978-2-01-708026-8
+} noimg          _?                           ?
+!--- YA - Poche - 125 x 178 - 144 pages
+- .oS.     R     _ORWELL George               La Ferme des animaux ş1945 Animal Farm şTrad. LABB‚ St‚phane
+o LDPJ        ?  2021.01 ..... ISBN 978-2-01-713403-9
+} noimg          _Melchior Ascaride           ?
+!--- Jeunesse - Poche - 125 x 178 - 271 pages
+- .o .     R     _HOLZL Ariel                 Le Complot des corbeaux [Les Soeurs Carmines] ş2017
+o LDPJ        ?  2021.01 ..... ISBN 978-2-01-713399-5
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125 x 178 - 192 pages
+- .o .     R     _SIMUKKA Salla               Soeurs de coeur ş2016 Sisarla şTrad. CAGNOLI S‚bastien
+o LDPJ        ?  2021.02 ..... ISBN 978-2-01-713409-1
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125 x 178 - 304 pages
+- .oS.     Z     _FERET-FLEURY Madeleine     &Cassandre [Ready - 1] ş2018
+&                _HULLOT-GUIOT Marushka       
+o LDPJ        ?  2021.02 ..... ISBN 978-2-01-713410-7
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125 x 178 - 375 pages
+- .oS.     Z     _FERET-FLEURY Madeleine     &Elijah [Ready - 2] ş2018
+&                _HULLOT-GUIOT Marushka       
+o LDPJ        ?  2021.02 ..... ISBN 978-2-01-713413-8
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125 x 178 - 222 pages
+- .oO.     R     _MERLE Claude                Le Sommeil des immortels [Les Secrets de l'Olympe - 2] ş2018
+o LDPJ        ?  2021.03 ..... ISBN 978-2-01-711934-0
+} noimg          _Harriet Muncaster           ?
+!--- Jeunesse - Poche - 125 x 178 - 160 pages
+- .o .     R     _MUNCASTER Harriet           Isadora Moon assiste … un mariage [Isadora Moon - 12] ş2020 Isadora Moon Goes to a Wedding şTrad. FARADAY Charlotte
+o LDPJ        ?  2021.03 ..... ISBN 978-2-01-713419-0
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125 x 178 - 640 pages
+- .oF.     R     _SEBASTIAN Laura             Lady Smoke [Ash Princess - 2] ş2019 Lady Smoke şTrad. HOMASSEL Anne-Sylvie
+o LDPJ        ?  2021.03 ..... ISBN 978-2-01-713418-3
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125 x 178 - 224 pages
+- .o .     R     _BARRETT Tracy               Marabel et l'‚pouvantable souhait [Marabel - 2] ş2019 Marabel and the Runaway Wish şTrad. PLISSON Emmanuel
+o LDPJ        ?  2021.04 ..... ISBN 978-2-01-713422-0
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125 x 178 - 256 pages
+- .oS.     R     _MOITET David                L'Ombre blanche [Les Mondes de l'Alliance - 1] ş2014
+o LDPJ        ?  2021.05 ..... ISBN 978-2-01-713397-1
+} noimg          _? Shutterstock              ?
+!--- Jeunesse - Poche - 125x178 - 304 pages
+- .oF.     R     _GAY Olivier                 La Menace [Le noir est ma couleur - 2] ş2014
+o LDPJ        ?  2021.05 ..... ISBN 978-2-01-715506-5
+} noimg          _Harriet Muncaster           ?
+!--- Jeunesse - Poche - 125x178 - 128 pages
+- .o .     R     _MUNCASTER Harriet           Mirabelle enfreint les rŠgles [Mirabelle - 2] ş2021 Mirabelle Breaks the Rules şTrad. FARADAY Charlotte
+o LDPJ        ?  2021.06 ..... ISBN 978-2-01-715497-6
+} noimg          _Daniel Long                 ?
+!--- Jeunesse - Poche - 125x178 - 448 pages
+- .oF.     R     _HOLLAND Sara                Everless [Everless - 1] ş2018 Everless şTrad. MOREAU Eric
+o LDPJ        ?  2021.07 ..... ISBN 978-2-01-715523-2
+} noimg          _Matt Murphy                 ?
+!--- Jeunesse - Poche - 125x178 - 400 pages
+- .oS.     R     _ALIX Maiwenn                D‚connexion [In Real Life - 1] ş2018
+o LDPJ        ?  2021.08 ..... ISBN 978-2-01-708025-1
+} noimg          _Nicolas Carmine             ?
+!--- Poche - 125x178 - 304 pages
+!--- Pr‚f : St‚phane Labb‚ 
+- .oS.     R     _ORWELL George               1984 (abr‚g‚) ş1949 Nineteen Eighty-Four / 1984 şTrad. GUILLIER G‚raldine
+o LDPJ        ?  2021.08 ..... ISBN 978-2-01-715508-9
+} noimg          _Harriet Muncaster           ?
+!--- Jeunesse - Poche - 125x178 - 160 pages
+- .o .     R     _MUNCASTER Harriet           Isadora Moon rencontre la petite souris [Isadora Moon - 13] ş2021 Isadora Moon Meets the Tooth Fairy şTrad. FARADAY Charlotte
+o LDPJ        ?  2021.08 ..... ISBN 978-2-01-715520-1
+} noimg          _Jo‰l Corcia                 ?
+!--- Jeunesse - Poche - 125x178 - 208 pages
+- .oF.     R     _GEORGE Kallie               La Course des Dieux [Z‚phyr, cheval de l'Olympe - 1] ş2019 Wings of Olympus şTrad. MORAN C‚cile
+o LDPJ        ?  2021.09 ..... ISBN 978-2-01-716413-5
+} noimg          _? Shutterstock              ?
+!--- Poche - 125x178 - 528 pages
+- .o .     R     _BAUTHIAN Isabelle           Face au dragon ş2018
+o LDPJ        ?  2021.09 ..... ISBN 978-2-01-716417-3
+} noimg          _Tom Clohosy Cole            ?
+!--- Jeunesse - Poche - 125x178 - 384 pages
+- .oF.     R     _HADDIX Margaret Peterson    La Disparition des enfants Greystone [La Disparition des enfants Greystone - 1] ş2019 The Strangers şTrad. DAMANT-JEANDEL Leslie
+o LDPJ        ?  2021.09 ..... ISBN 978-2-01-713423-7
+} noimg          _Dogan Oztel                 ?
+!--- Jeunesse - Poche - 125x178 - 272 pages
+- .oS.     R     _MOITET David                Le Secteur C [Les Mondes de l'Alliance - 2] ş2014
+o LDPJ        ?  2021.10 ..... ISBN 978-2-01-713425-1
+} noimg          _Melchior Ascaride           ?
+!--- YA - Poche - 125x178 - 352 pages
+- .o .     R     _HOLZL Ariel                 Belle de gris [Les Soeurs Carmines] ş2017
+o LDPJ        ?  2021.10 ..... ISBN 978-2-01-715517-1
+} noimg          _? Shutterstock              ?
+!--- Jeunesse - Poche - 125x178 - 240 pages
+- .oF.     R     _BERTHOLON Delphine          Celle qui marche la nuit ş2019
+o LDPJ        ?  2021.10 ..... ISBN 978-2-01-716434-0
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125x178 - 240 pages
+- .oF.     R     _BOUILLOC Judith             L'Arrache-mots ş2019
+o LDPJ        ?  2021.10 ..... ISBN 978-2-01-716429-6
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125x178 - 192 pages
+- .oF.     R     _ALEXANDER K.R.              Les Oubli‚es ş2018 The Collector şTrad. NAGEL Fran‡oise
+o LDPJ        ?  2021.10 ..... ISBN 978-2-01-715519-5
+} noimg          _Chloe Brisol                ?
+!--- Jeunesse - Poche - 125x178 - 448 pages
+- .oF.     R     _GUTERSON Ben                Retour … Winterhouse H“tel [Winterhouse H“tel - 2] ş2018 The Secrets of Winterhouse şTrad. HOMASSEL Anne-Sylvie
+o LDPJ        ?  2021.11 ..... ISBN 978-2-01-716428-9
+} noimg          _Daniel Long                 ?
+!--- Jeunesse - Poche - 125x178 - 432 pages
+- .oF.     R     _HOLLAND Sara                Evermore [Everless - 2] ş2018 Evermore şTrad. MOREAU Eric
+o LDPJ        ?  2021.11 ..... ISBN 978-2-01-716438-8
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125x178 - 416 pages
+- .oF.     R     _RIGGS Ransom                La Conf‚rence des oiseaux [Miss Peregrine - 5] ş2020 The Conference of the Birds şTrad. VAN DEN DRIES Sidonie
+o LDPJ        ?  2021.11 ..... ISBN 978-2-01-713398-8
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125x178 - 304 pages
+- .oF.     R     _GAY Olivier                 La Riposte [Le noir est ma couleur - 3] ş2015
+o LDPJ        ?  2021.11 ..... ISBN 978-2-01-716431-9
+} noimg          _Bill Bragg                  ?
+!--- Jeunesse - Poche - 125x178 - 336 pages
+- .oF.     R     _DOYLE Catherine             Le Gardien des tempˆtes [Le Gardien des tempˆtes - 1] ş2018 The Storm Keeper's Island şTrad. VAN DEN DRIES Sidonie
+o LDPJ        ?  2021.11 ..... ISBN 978-2-01-628811-5
+} noimg          _Karl James Mountford        ?
+!--- Jeunesse - Poche - 125x178 - 352 pages
+- .oF.     R     _BELL Jennifer               Les MystŠres de Londinor [Les Extraordinaires - 1] ş2016 The Crooked Sixpence şTrad. MORAN C‚cile
+!------------------------
+!=== 2022
+!------------------------
+o LDPJ        ?  2022.01 ..... ISBN 978-2-01-717148-5
+} noimg          _(c)Hachette Book Group      ?
+!--- YA - Poche - 125x178 - 502 pages - 7,90 euros
+- .oY.     R     _GOODLETT Ellen              Rule [Rule - 1] ş2018 Rule şTrad. MOREAU Eric
+o LDPJ        ?  2022.01 ..... ISBN 978-2-01-717150-8
+} noimg          _Carine Hinder               ?
+!--- Jeunesse - Poche - 125x178 - 208 pages - 5,90 euros
+- .oY.     R     _KESSLER Liz                 Emily et le secret de la sirŠne [Emily - 4] ş2009 Emily Windsnap and the Siren's Secret şTrad. FARADAY Charlotte
+o LDPJ        ?  2022.02 ..... ISBN 978-2-01-716437-1
+} noimg          _Sarah Nichole Kaufman       ?
+!--- Jeunesse - Poche - 125x178 - 752 pages - 7,90 euros
+- .o .     R     _AVEYARD Victoria            War Storm [Red Queen - 4] ş2018 War Storm şTrad. DELARBRE Alice
+o LDPJ        ?  2022.02 ..... ISBN 978-2-01-717165-2
+} noimg          _Petur Atli Antonsson        ?
+!--- Jeunesse - Poche - 125x178 - 304 pages - 5,90 euros
+- .o .     R     _TSANG Katie                &La Montagne [Camp Dragon - 1] ş2020 Dragon Mountain şTrad. DABAT Sophie
+&                _TSANG Kevin                 
+o LDPJ        ?  2022.03 ..... ISBN 978-2-01-717160-7
+} noimg          _(c)Faceout Studios          ?
+!--- Jeunesse - Poche - 125x178 - 384 pages - 7,90 euros
+- .oF.     R     _BROWN Pierce                Iron Gold - I [Red Rising - 4] ş2017 Iron Gold şTrad. LENOIR H.
+o LDPJ        ?  2022.03 ..... ISBN 978-2-01-717158-4
+} noimg          _John Rocco                  ?
+!--- Jeunesse - Poche - 125x178 - 496 pages - 7,90 euros
+- .oF.     R     _RIORDAN Rick                La DerniŠre preuve [Les Travaux d'Apollon - 5] ş2020 The Tower of Nero şTrad. PRACONTAL Mona de & HOMASSEL Anne-Sylvie
+o LDPJ        ?  2022.04 ..... ISBN 978-2-01-717177-5
+} noimg          _Karl James Mountford        ?
+!--- Jeunesse - Poche - 125x178 - 384 pages - 7,90 euros
+- .oF.     R     _BELL Jennifer               Le Sablier fumant [Les Extraordinaires - 2] ş2017 The Smoking Hourglass şTrad. MORAN C‚cile
+o LDPJ        ?  2022.04 ..... ISBN 978-2-01-788107-0
+} noimg          _Bill Bragg                  ?
+!--- Jeunesse - Poche - 125x178 - 368 pages - 7,90 euros
+- .oF.     R     _DOYLE Catherine             Les Guerriers de la mar‚e perdue [Le Gardien des tempˆtes - 2] ş2019 The Lost Tide Warriors şTrad. Sidonie Van den Dries
+o LDPJ        ?  2022.04 ..... ISBN 978-2-01-788108-7
+} noimg          _Tom Clohosy Cole            ?
+!--- Jeunesse - Poche - 125x178 - 416 pages - 8,90 euros
+- .oF.     R     _HADDIX Margaret Peterson    Les Imposteurs [La Disparition des enfants Greystone - 2] ş2020 The Deceivers şTrad. ?
+o LDPJ        ?  2022.05 ..... ISBN 978-2-01-788112-4
+} noimg          _Benjamin Carr‚              ?
+!--- Jeunesse - Poche - 125x178 - 448 pages - 7,90 euros
+- .oY.     R     _CLARK Zack Loran           &La Guilde des aventuriers [La Guilde des aventuriers - 1] ş2017 The Adventurers Guild şTrad. ?
+&                _ELIOPULOS Nick              
+o LDPJ        ?  2022.xx ..... ISBN 978-2-01-788120-9
+} noimg          _Roger Hagadone              ?
+!--- YA - Poche - 125x178 - 960 pages - x,90 euros
+- .oF.     R     _MEYER Stephenie             Midnight Sun [Fascination - 5] ş2020 Midnight Sun şTrad. RIGOUREAU Luc
+o LDPJ        ?  2022.05 ..... ISBN 978-2-01-788116-2
+} noimg          _Tom Sanderson               ?
+!--- Jeunesse - Poche - 125x178 - 960 pages - 10,90 euros
+- .o .     R     _TSANG Katie                &La L‚gende [Camp Dragon - 2] ş2021 Dragon Legend şTrad. DABAT Sophie
+&                _TSANG Kevin                 
+o LDPJ        ?  2022.08 ..... ISBN 978-2-01-720221-9
+} noimg          _(c)Forceout Studio          ?
+!--- YA - Poche - 125x178 - 368 pages - 8,90 euros
+- .oF.     R     _BROWN Pierce                Iron Gold - II [Red Rising - 5] ş2017 Iron Gold şTrad. LENOIR H.
+o LDPJ        ?  2022.09 ..... ISBN 978-2-01-788133-9
+} noimg          _Delphine Gu‚chot            ?
+!--- Jeunesse - Poche - 125x178 - 576 pages - 9,90 euros
+- .oF.     R     _SEBASTIAN Laura             Ember Queen [Ash Princess - 3] ş2020 Ember Queen şTrad. HOMASSEL Anne-Sylvie
+o LDPJ        ?  2022.09 ..... ISBN 978-2-01-788110-0
+} noimg          _Germain Barth‚l‚my          ?
+!--- Jeunesse - Poche - 125x178 - 528 pages - 8,90 euros
+- .o .     R     _LAMBERT Cassandre           L'Antidote mortel [L'Antidote mortel - 1] ş2021
+o LDPJ        ?  2022.09 ..... ISBN 978-2-01-788131-
+} noimg          _J‚r‚mie Fleury              ?
+!--- Jeunesse - Poche - 125x178 - 320 pages - 7,90 euros
+- .oF.     R     _LAPINSKI L. D.              L'Agence Mond‚tranges ş2020 The Strangeworlds Travel Agency şTrad. PORCHE Laure
+o LDPJ        ?  2022.09 ..... ISBN 978-2-01-720226-4
+} noimg          _Lindsey Andrews & Anna Booth ?
+!--- Jeunesse - Poche - 125x178 - 656 pages - 11,90 euros
+- .o .     R     _RIGGS Ransom                Les D‚solations de l'Arpent du Diable [Miss Peregrine - 6] ş2021 The Desolations of Devil's Acre şTrad. DRIES Sidonie van den
+o LDPJ        ?  2022.10 ..... ISBN 978-2-01-720227-1
+} noimg          _Benjamin Carr‚              ?
+!--- Jeunesse - Poche - 125x178 - 512 pages - 8,90 euros
+- .o .     R     _CLARK Zack Loran           &Le Cr‚puscule des elfes [La Guilde des aventuriers - 2] ş2018 Twilight of the Elves şTrad. NAGEL Fran‡oise
+&                _ELIOPULOS Nick              
+o LDPJ        ?  2022.10 ..... ISBN 978-2-01-717175-1
+} noimg          _Chloe Brisol                ?
+!--- Jeunesse - Poche - 125x178 - 278 pages - 8,90 euros
+- .oF.     R     _GUTERSON Ben                Les MystŠres de Winterhouse H“tel [Winterhouse H“tel - 3] ş2019 The Winterhouse Mysteries şTrad. HOMASSEL Anne-Sylvie
+o LDPJ        ?  2022.10 ..... ISBN 978-2-01-720234-9
+} noimg          _Guillaume Morellec          ?
+!--- Jeunesse - Poche - 125x178 - 544 pages - 8,90 euros
+- .oY.     R     _DEVILLEPOIX El‚onore        La Ville sans vent [La Ville sans vent - 1] ş2020
+o LDPJ        ?  2022.10 ..... ISBN 978-2-01-788104-9ÿ
+} noimg          _Karl James Mountford        ?
+!--- Jeunesse - Poche - 125x178 - 384 pages - 7,90 euros
+- .oF.     R     _BELL Jennifer               L'Arm‚e des spectres [Les Extraordinaires - 3] ş2018 The Frozen Telescope şTrad. MORAN C‚cile
+o LDPJ        ?  2022.11 ..... ISBN 978-2-01-720241-7
+} noimg          _Oriol Vidal                 ?
+!--- Jeunesse - Poche - 125x178 - 128 pages
+- .oF.     r     _SOMERS Nathalie             Le Tombeau de Pharaon [La Boutique extraordinaire de NicodŠme - 1] ş2020
+
 

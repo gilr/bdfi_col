@@ -1,7 +1,7 @@
 !-----------------------------------------------------------------------------
 _ PREE    Pr‚sences d'Esprits
-_ PREE_A  Pr‚sences d'Esprits Anthologies
-_ PRE_AOC Pr‚sences d'Esprits, AOC
+_ PREE_A  Pr‚sences d'Esprits - Anthologies
+_ PRE_AOC Pr‚sences d'Esprits - AOC
 !-----------------------------------------------------------------------------
 !--- Pr‚sences d'esprits
 !-----------------------------------------------------------------------------
@@ -32,7 +32,7 @@ o PREE       14  1997.xx ..... ISBN -
 o PREE       15  1998.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Pr‚sence d'esprits nø 15 (mars 98) ş1998
-!: .o .     N     _FONTAINHAS A.               cologiste ş1998
+: .o .     N     _FONTAINHAS A.               cologiste ş1998
 o PREE       16  1998.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Pr‚sence d'esprits nø 16 (juin 1998) ş1998
@@ -45,8 +45,8 @@ o PREE       17  1998.xx ..... ISBN -
 - .o .     Mx    ****                         Pr‚sence d'esprits nø 17 (septembre 1998) ş1998
 o PREE       18  1998.xx ..... ISBN -
 } noimg          _?                           ?
+!--- nouvelle de SICE D.
 - .o .     Mx    ****                         Pr‚sence d'esprits nø 18 (d‚cembre 1998) ş1998
-!: .o .     N     _SICE D.                     ? ş?
 o PREE       19  1999.03 ..... ISBN -
 } noimg          _?                           ?
 - .o .     M3    ****                         Pr‚sence d'esprits nø 19 (mars 1999) ş1999
@@ -124,8 +124,8 @@ o PREE       32  2002.06 ..... ISBN -
 : .oS.     N     _VASSE Yohan                 Voile gris ş2002
 o PREE       33  2002.09 ..... ISBN -
 } noimg          _?                           ?
-- .o .     M1    ****                         Pr‚sence d'esprits nø 33 (automne 2002) ş2002
 !--- (Non-SF) Le g‚n‚ral T'ang … Valley Dam de Paul Myron Anthony Linebarger (alias Cordwainer Smith)(Une nouvelle de jeunesse de Cordwainer Smith.)
+- .o .     M1    ****                         Pr‚sence d'esprits nø 33 (automne 2002) ş2002
 o PREE       34  2002.12 ..... ISBN -
 } noimg          _?                           ?
 - .o .     M4    ****                         Pr‚sence d'esprits nø 34 (hiver 2002-2003) ş2002
@@ -222,7 +222,7 @@ o PREE       53  2007.xx ..... ISBN -
 o PREE       54  2008.05 ..... ISBN -
 } noimg          _?                           ?
 - .o .     M0    ****                         Pr‚sence d'esprits nø 54 ş2008
-!: .o .     N     _SAINTE MAREVILLE Cyrille de Luviana ş2008
+: .o .     N     _SAINTE MAREVILLE Cyrille de Luviana ş2008
 o PREE       56  2008.10 ..... ISBN -
 } noimg          _?                           ?
 - .o .     M0    ****                         Pr‚sence d'esprits nø 56 ş2008
@@ -268,14 +268,14 @@ o PREE       67  2011.09 ..... ISBN -
 o PREE       68  2011.10 ..... ISBN -
 } noimg          _?                           ?
 - .o .     M1    ****                         Pr‚sence d'esprits nø 68 ş2011
-!: .oS.     N     _LOUATI M.M.                 Urban-Peace ş2011
+: .oS.     N     _LOUATI M.M.                 Urban-Peace ş2011
 o PREE       69  2011.12 ..... ISBN -
 } noimg          _?                           ?
 - .o .     M0    ****                         Pr‚sence d'esprits nø 69 ş2011
 o PREE       70  2012.03 ..... ISBN -
 } noimg          _?                           ?
+!--- Nouvelle "La Fin des haricots"
 - .o .     M1    ****                         Pr‚sence d'esprits nø 70 ş2012
-!: .oS.     N     _???                         La Fin des haricots ş2012
 o PREE       71  2012.06 ..... ISBN -
 } noimg          _?                           ?
 - .o .     M1    ****                         Pr‚sence d'esprits nø 71 ş2012
@@ -378,7 +378,7 @@ o PREE       96  2019.xx ..... ISBN -
 o PREE       97  2019.07 ..... ISBN -
 } noimg          _Vincent Fourneuf            ?
 - .o .    kM1    ****                         Pr‚sence d'esprits nø 97 (‚t‚ 2019) ş2019
-!: .oY.     N     _BONNAIRE Atmann             R‚confort m‚canique ş2019
+: .oY.     N     _BONNAIRE Atmann             R‚confort m‚canique ş2019
 o PREE       98  2019.12 ..... ISBN -
 } noimg          _Vincent Fourneuf            ?
 - .o .    kM1    ****                         Pr‚sence d'esprits nø 98 (automne 2019) ş2019
@@ -399,7 +399,42 @@ o PREE      102  2020.11 ..... ISBN -
 } noimg          _C‚dric Taillefer            ?
 - .o .    kM1    ****                         Pr‚sence d'esprits nø 102 (automne 2020) ş2020
 : .o .     N     _DUC H‚lŠne                  Une odeur all‚chante ş2020
-
+o PREE      103  2021.02 ..... ISBN -
+} noimg          _C‚dric Taillefer            ?
+- .o .    kM1    ****                         Pr‚sence d'esprits nø 103 (hiver 2021) ş2021
+: .o .     N     _MARTIN Jean-Pascal          L'‚cole des Quadrus ş2021
+o PREE      104  2021.06 ..... ISBN -
+} noimg          _C‚dric Taillefer            ?
+- .o .    kM1    ****                         Pr‚sence d'esprits nø 104 (printemps 2021) ş2021
+: .o .     N     _MYRIEL Jonathan             Le Test ş2021
+o PREE      105  2021.11 ..... ISBN -
+} noimg          _C‚dric Taillefer            ?
+- .o .    kM1    ****                         Pr‚sence d'esprits nø 105 (‚t‚ 2021) ş2021
+: .o .     N     _CLERJAUD Matthieu           Si ce n'est toi ş2021
+o PREE      106  2021.11 ..... ISBN -
+} noimg          _C‚dric Taillefer            ?
+- .o .    kM1    ****                         Pr‚sence d'esprits nø 106 (automne 2021) ş2021
+: .o .     N     _ELOI-HAMMER H‚lo‹se         Une femme puissante ş2021
+o PREE      107  2022.03 ..... ISBN -
+} noimg          _Gr‚gory Fromenteau          ?
+- .o .    kM1    ****                         Pr‚sence d'esprits nø 107 (hiver 2022) ş2022
+: .o .     N     _VONARBURG Elisabeth         Les Invisibles ş2007
+o PREE      108  2022.06 ..... ISBN -
+} noimg          _Valonia                     ?
+- .o .    kM1    ****                         Pr‚sence d'esprits nø 108 (printemps 2022) ş2022
+: .o .     N     _BESSIERE Richard            Et ron... et ron... petit patapon.. ş1972
+o PREE      109  2022.xx ..... ISBN -
+} noimg          _Caza                        ?
+- .o .    kM1    ****                         Pr‚sence d'esprits nø 109 (‚t‚ 2022) ş2022
+: .o .     N     _REBOUSSIN Didier            Les Petits M‚tiers du futur ş2022
+o PREE      110  2022.xx ..... ISBN -
+} noimg          _Reed Man                    ?
+- .o .    kM1    ****                         Pr‚sence d'esprits nø 110 (automne 2022) ş2022
+: .o .     N     _WITZ Jocelyn                Les Enfants de Bran ş2022
+o PREE      111  2023.xx ..... ISBN -
+} noimg          _Reed Man                    ?
+- .o .    kM1    ****                         Pr‚sence d'esprits nø 111 (hiver 2023) ş2023
+: .o .     N     _COLL Doroth‚e               Ces ombres qui trahissent, ces ombres qui r‚vŠlent ş2023
 
 !-----------------------------------------------------------------------------
 !--- Antho
@@ -426,10 +461,10 @@ o PREE        ?  2016.xx ..... ISBN .-.....-...-.
 !-----------------------------------------------------------------------------
 !--- Esprits mutants
 !-----------------------------------------------------------------------------
-o PREE_A      1  2002.xx ..... ISBN 2-9518997-0-X
+o PREE_A      1  2002.10 ..... ISBN 2-9518997-0-X
 } pree_em01      _?                           ?
-- .o .    kAx    ****                         Esprits mutants - premiŠre g‚n‚ration ş2002
 !--- Rassemble les meilleurs textes produits lors des ateliers d'‚criture
+- .oS.    kAx    ****                         Esprits mutants - premiŠre g‚n‚ration ş2002
 : .o .     N     _PASTOR Philippe             L'enfer est … nous ! ş2002
 : .o .     N     _PASTOR Philippe             Etrangers … nous-mˆmes ş2002
 : .o .     N     _BEUZIT Evelyne              Au-del… ş2002
@@ -447,34 +482,34 @@ o PREE_A      1  2002.xx ..... ISBN 2-9518997-0-X
 : .o .     N     _PETIT David                 Un silence de velours ş2002
 : .oS.     N     _BENARD Lionel               L'Aube de Phoul ş2002
 : .oS.     N     _LE BUSSY Alain              Le Sang lisse des Ognats ş2002
-o PREE_A      2  2008.01 ..... ISBN 2-9518997-.-.
-} pree_em01      _?                           ?
+o PREE_A      2  2008.01 ..... ISBN 978-2-9518997-1-1
+} pree_em02      _?                           ?
 - .oI.    iAx    ****                         Esprits mutants - seconde g‚n‚ration ş2008
 : .o .     p     _MANSON Fran‡ois             Introduction ş2008
-!: .o .     a     _ECKEN Claude                Ouvrir les portes ş2008
+: .o .     a     _ECKEN Claude                Ouvrir les portes ş2008
 : .o .     N     _DENIEL Philippe             Notre-Dame des cauchemars ş2008
-!: .o .     N     _DUCROCQ Alexandre           Jugement ş2008
+: .o .     N     _DUCROCQ Alexandre           Jugement ş2008
 : .oS.     N     _LANIECE Anne                Babel Bell ş2008
 : .o .     N     _CROOKS Pierre               Furiae ş2008
-!: .o .     a     _LAMBERT Christophe          L'Art de raconter des histoires ş2008
+: .o .     a     _LAMBERT Christophe          L'Art de raconter des histoires ş2008
 : .o .     N     _GAGNERE Sylvie              1999, les funestes cons‚quences d'une tempˆte ş2008
 : .o .     N     _DIVIANADIN Marcel           Des monstres partout ! (R) ş2008
-!: .o .     N     _RASPAUD Delphine            Rˆve d'or ş2008
+: .o .     N     _RASPAUD Delphine            Rˆve d'or ş2008
 : .o .     N     _BEUZIT Evelyne              Zuliette ou la cloche magique ş2008
-!: .o .     a     _PASTOR Philippe             L… o— ‡a chauffe ş2008
+: .o .     a     _PASTOR Philippe             L… o— ‡a chauffe ş2008
 : .o .     N     _MANSON Fran‡ois             Vocation ş2008
 : .o .     N     _PERNOT Marc                 Une autre histoire de l'Ouest ş2008
-!: .o .     N     _BELLET Anne-C‚cile          Un problŠme de contact ş2008
+: .o .     N     _BELLET Anne-C‚cile          Un problŠme de contact ş2008
 : .o .     N     _PETIT David                 Pens‚es volatiles ş2008
-!: .o .     a     _GUERO Anne                  Rendez-vous avec un Ange ş2008
+: .o .     a     _GUERO Anne                  Rendez-vous avec un Ange ş2008
 : .o .     N     _FUENTEALBA Jacques          Trop de paperasse ! ş2008
-!: .o .     N     _SERRANO Gilles              Ga‹a, d‚livre-nous du mƒle ş2008
+: .o .     N     _SERRANO Gilles              Ga‹a, d‚livre-nous du mƒle ş2008
 : .o .     N     _BEUZIT Evelyne              Le Rendez-Vous ş2008
 : .o .     N     _TAFFIN B‚n‚dicte            Les Tours de Grendsham ş2008
-!: .o .     N     _CASADO Mathieu              Communion ş2008
-!: .o .     N     _WINDRIF-HOCHET Marie-H‚lŠne Bonnes r‚solutions et mauvais plants ! ş2008
+: .o .     N     _CASADO Mathieu              Communion ş2008
+: .o .     N     _WINDRIF-HOCHET Marie-H‚lŠne Bonnes r‚solutions et mauvais plants ! ş2008
 : .o .     N     _DIVIANADIN Marcel           PiŠge pour Gaia ş2008
-!: .o .     a     _VILA Christian              Version relue ET corrig‚e ş2008
+: .o .     a     _VILA Christian              Version relue ET corrig‚e ş2008
 : .o .     N     _GAGNERE Sylvie              Au menu, tendron ! ş2008
 : .o .     N     _BENARD Lionel               Conscience ş2008
 : .o .     N     _THIENNOT Christophe         Merlin l'imposteur ş2008
@@ -622,22 +657,22 @@ o PRE_AOC    14  2010.02 ..... ISBN -
 o PRE_AOC    15  2010.03 ..... ISBN -
 } noimg          _?                           ?
 - .oS.    kM6    ****                         AOC nø 15 ş2010
-!: .oS.     N     _DUGUE Hughes                La ParenthŠse verte ş2010
+: .oS.     N     _DUGUE Hughes                La ParenthŠse verte ş2010
 : .oS.     N     _DEYDIER Cyril               Le Train du roi ş2010
 : .oS.     N     _BENARD Lionel               Une derniŠre chance ş2010
 : .oS.     N     _LASJUILLIARIAS Sylvain      L'Homme qui rebondit ş2010
 : .oS.     N     _HENNINGER Bernard           Thalie des morts ş2010
-!: .oS.     N     _LEGION                      Graine ş2010
+: .oS.     N     _LEGION                      Graine ş2010
 o PRE_AOC    16  2010.03 ..... ISBN -
 } noimg          _?                           ?
 - .oS.    kMx    ****                         AOC nø 16 (mai 2010) ş2010
-!: .oS.     N     _JULLIARD S‚bastien          La Cigarette ş2010
+: .oS.     N     _JUILLARD S‚bastien          La Cigarette ş2010
 : .oS.     N     _BOILE Olivier               Vingt-cinq millions de pardons ş2010
 : .oS.     N     _MATEO Prune                 L'Archipel ş2010
 : .oS.     N     _BECKER Phil                 Le Volontaire ş2010
 : .oS.     N     _FLAJOLET-TOUBAS Jennifer    Exil ş2010
 : .oS.     N     _LUCAZEAU Romain             Le Vieux Jardinier des pierres ş2010
-!: .oS.     N     _TIENNOT Christophe          Superman oui, mais papa non ! ş2010
+: .oS.     N     _THIENNOT Christophe         Superman oui, mais papa non ! ş2010
 o PRE_AOC    17  2010.08 ..... ISBN -
 } noimg          _?                           ?
 - .oS.    kM5    ****                         AOC nø 17 (juillet 2010) ş2010
@@ -657,8 +692,8 @@ o PRE_AOC    19  2010.12 ..... ISBN -
 - .oS.    kM4    ****                         AOC nø 19 (d‚cembre 2010) ş2010
 : .o .     N     _CLEDEN Marie-Anne           La Foi en marche ş2010
 : .o .     N     _SILVA L‚a                   Promesses de l'aube ş2010
-!: .oS.     N     _PICHON-SINTES Romain        Les Doubles de Genova ş2010
-!: .oS.     N     _ZARAK                       Imb‚cile ş2010
+: .oS.     N     _PICHON-SINTES Romain        Les Doubles de Genova ş2010
+: .oS.     N     _ZARAK                       Imb‚cile ş2010
 o PRE_AOC    20  2011.03 ..... ISBN -
 } noimg          _?                           ?
 - .oS.    kM5    ****                         AOC nø 20 (mars 2011) ş2011
@@ -697,7 +732,7 @@ o PRE_AOC    24  2012.06 ..... ISBN -
 : .o .     N     _MACHOROWSKI Marthe          L'trange Monsieur Ming ş2012
 : .o .     N     _WELLENSTEIN Aur‚lie         Jade et le G. ş2012
 : .o .     N     _CLEDEN Marie-Anne           La MŠre, les brutes et le stagiaire ş2012
-!: .o .     N     _LEGRAIS Cyril               Seul ş2012
+: .o .     N     _LEGRAIS Cyril               Seul ş2012
 o PRE_AOC    25  2012.08 ..... ISBN -
 } noimg          _?                           ?
 - .oS.    kM4    ****                         AOC nø 25 ş2012
@@ -716,9 +751,9 @@ o PRE_AOC    27  2013.01 ..... ISBN -
 } noimg          _?                           ?
 - .oS.    kM8    ****                         AOC nø 27 - D‚cembre 2012 ş2013
 !--- Les trois etxtes gagnants du match d'‚criture des imaginales :
-!: .o .     N     _SOYAEL                      La Mort des saisons ? ş2013
-!: .o .     N     _ELURIAN                     A la crois‚e des ƒmes ş2013
-!: .o .     N     _AZILIZ                      (sans titre) ş2013
+: .o .     N     _SOYAEL                      La Mort des saisons ? ş2013
+: .o .     N     _ELURIAN                     A la crois‚e des ƒmes ş2013
+: .o .     N     _AZILIZ                      (sans titre) ş2013
 : .o .     N     _SALIPANTE Laurent           Alg‚rie 1958 ş2013
 : .o .     N     _ARZON Emmanuelle d'         Hector ş2013
 : .o .     N     _CZILINDER Fr‚d‚ric          Noces d'argent ş2013
@@ -729,7 +764,7 @@ o PRE_AOC    28  2013.03 ..... ISBN -
 } aoc028         _BODIN Lucie                 ? 
 - .oS.    kM4    ****                         AOC nø 28 - Mars 2013 ş2013
 : .o .     N     _GRIFFIN Alice B.            Une boŒte … musique ş2013
-!: .o .     N     _GODARD Pierre               Le Sort tragique de la louve Anastasia ş2013
+: .o .     N     _GODARD Pierre               Le Sort tragique de la louve Anastasia ş2013
 : .o .     N     _MOUCHA Mathias              L'Homme en noir ş2013
 : .o .     N     _DESIENNE St‚phane           Faces cach‚es ş2013
 o PRE_AOC    29  2013.09 ..... ISBN -
@@ -744,7 +779,7 @@ o PRE_AOC    30  2013.12 ..... ISBN -
 - .oS.    kM4    ****                         AOC nø 30 - Automne 2013 ş2013
 : .o .     N     _MILORA                      Mamie Lucie ş2013
 : .o .     N     _BENXAYER Morrad             L'Alif ş2013
-!: .o .     N     _CABANNE Arnaud              Point de fuite ş2013
+: .o .     N     _CABANNE Arnaud              Point de fuite ş2013
 : .o .     N     _OREGGIA Marc                Dark Rocks ş2013
 o PRE_AOC    31  2014.02 ..... ISBN -
 } aoc031         _DUMOULIN Elodie             ? 
@@ -756,15 +791,15 @@ o PRE_AOC    31  2014.02 ..... ISBN -
 o PRE_AOC    32  2014.02 ..... ISBN -
 } aoc032         _DUMOULIN Elodie             ? 
 - .oS.    kM4    ****                         AOC nø 32 - Printemps 2014 ş2014
-: .oS.           _LICTEVOUT Hugues            Le Jour o— mardi fut suivi de mercredi ş2014
+: .o .     N     _LICTEVOUT Hugues            Le Jour o— mardi fut suivi de mercredi ş2014
 : .oF.     N     _LEMURI Dominique            En Adon je puise mes forces ş2014
 : .oF.     N     _ARIAUDO Tom                 La Banshee ş2014
 : .oF.     N     _VENETZA Dean                Noir comme p‚trole ş2014
 o PRE_AOC    33  2014.09 ..... ISBN -
 } aoc033         _DUMOULIN Elodie             ? 
 - .oS.    kM5    ****                         AOC nø 33 - Et‚ 2014 ş2014
-!: .o .     N     _STECKEN BenoŒt              L'Employ‚ polyvalent ş2014
-!: .o .     N     _ACKERMANN Diane             Noble mystŠre ş2014
+: .o .     N     _STECKEN BenoŒt              L'Employ‚ polyvalent ş2014
+: .o .     N     _ACKERMANN Diane             Noble mystŠre ş2014
 : .o .     N     _MACHOROWSKI Marthe          Tournez manŠge ş2014
 : .oS.     N     _LATOUR Marie                Trous de m‚moire ş2014
 !--- BD : La Matrice, de Tony Szabo
@@ -774,7 +809,7 @@ o PRE_AOC    34  2014.10 ..... ISBN -
 - .oS.    kM4    ****                         AOC nø 34 - Automne 2014 ş2014
 !--- Nouvelles laur‚ates du prix Visions du futur 2014 :
 : .o .     N     _POCHESCI Bruno              In vinylo veritas ş2014
-!: .o .     N     _GIRARD Etienne              Le Dernier Croyant ş2014
+: .o .     N     _GIRARD Etienne              Le Dernier Croyant ş2014
 : .o .     N     _MACHOROWSKI Marthe          Une grande artiste ş2014
 : .o .     N     _CONSEIL Julie               Famille Waldeck, cit‚ Tomate ş2014
 o PRE_AOC    35  2015.02 ..... ISBN -
@@ -804,15 +839,15 @@ o PRE_AOC    38  2015.xx ..... ISBN -
 - .oI.    kM5    ****                         AOC nø 38 - Automne 2015 ş2015
 : .o .     N     _VENETZA Dean                Pavillon noir ş2015
 : .o .     N     _VASSE Yohan                 Fiorentina ş2015
-!: .o .     N     _CEAUCESCU Pauline           Naya ş2015
+: .o .     N     _CEAUCESCU Pauline           Naya ş2015
 : .o .     N     _KAUFFMAN Christophe         Le rouge est mis ş2015
-!: .o .     N     _T. K.                       Le Fil ş2015
+: .o .     N     _T. K.                       Le Fil ş2015
 o PRE_AOC    39  2016.xx ..... ISBN -
 } aoc039         _FAURE-BRAC Eric             ? 
 !--- Contient ‚galement les textes vainqueurs du match des Imaginales 2015 :
 !---  Des textes sign‚s Tom Ariaudo, Elodie Serrano et Lia Guillaumet
 - .oI.    kM4    ****                         AOC nø 39 - Hiver 2016 ş2016
-!: .? .     N     _FLEURY IsmŠne               Racines ş2016
+: .o .     N     _FLEURY IsmŠne               Racines ş2016
 : .o .     N     _GUILLEMAIN Christophe       La Tour dans le labyrinthe ş2016
 : .o .     N     _CHAPRON Dominique           Un monde parfait ş2016
 : .o .     N     _MORLEVAT Eric               Nous voyons loin ş2016
@@ -821,7 +856,7 @@ o PRE_AOC    40  2016.xx ..... ISBN -
 - .oI.    kM6    ****                         AOC nø 40 - Printemps 2016 ş2016
 : .oS.     N     _BALLEYGUIER Renaud          Un jour sur Terre ş2016
 : .o .     N     _JACQUET Alexandra           closion ş2016
-!: .? .     N     _CAPITAN Guillaume           Une sale nuit d'hiver ş2016
+: .o .     N     _CAPITAN Guillaume           Une sale nuit d'hiver ş2016
 : .o .     N     _BARONHEID Thomas            Suzy ş2016
 : .o .     N     _JARRIGE Olivier             Moi, cauchemar ş2016
 : .o .     N     _PORTEBOIS Xavier            Monologue ş2016
@@ -843,10 +878,11 @@ o PRE_AOC    42  2016.11 ..... ISBN -
 : .o .     N     _GERVAIS M‚lody              Pour quelques patates de plus ş2016
 o PRE_AOC    43  2017.01 ..... ISBN -
 } aoc043         _?                           ?
+!--- A priori sign‚ "Mormensil" seul
 - .oI.    kM5    ****                         AOC nø 43 - Hiver 2017 ş2017
 : .o .     N     _GARISAKI Tesha              Le Chemin vers Shambhala ş2017
 : .o .     N     _NAUD Florent                Le Paradoxe ş2017
-!: .o .     N     _MIROMENSIL                  Dans le creux des m‚andres ş2017
+: .o .     N     _MIROMENSIL Jeanne           Dans le creux des m‚andres ş2017
 : .o .     N     _DOLS Laurent                Pagaille sur Valance ş2017
 o PRE_AOC    44  2017.04 ..... ISBN -
 } aoc044         _?                           ?
@@ -881,12 +917,13 @@ o PRE_AOC    47  2018.xx ..... ISBN -
 : .o .     N     _COUDIERE B‚n‚dicte          Pour un bocal de souvenirs ş2018
 o PRE_AOC    48  2018.xx ..... ISBN -
 } aoc048         _Sandara                     ?
+!--- Peut-ˆtre sign‚  _GOAZEMPIS Philippe
 - .oI.    kM6    ****                         AOC nø 48 - Printemps 2018 ş2018
 : .o .     N     _RENAUT Wilfried             Les Lunographes ş2018
 : .o .     N     _DAVERAT Lo‹c                Diszklet et One Z‚ro font le mur ş2018
 : .o .     N     _MARTIN Jason                Aux lisiŠres des songes ş2018
 : .o .     N     _DOLS Laurent                Le r‚veil d'Ussanto ş2018
-!: .o .     N     _GOAZEMPIS Philippe           Le Rh“ne est rouge sang ş2018
+: .o .     N     _GOAZ Philippe               Le Rh“ne est rouge sang ş2018
 o PRE_AOC    49  2017.xx ..... ISBN -
 } aoc049         _Wysoka                      ?
 - .oI.    kM5    ****                         AOC nø 49 - Et‚ 2018 ş2018
@@ -899,22 +936,22 @@ o PRE_AOC    50  2018.xx ..... ISBN -
 } aoc050         _Anthony Avon                ?
 - .oI.    kM4    ****                         AOC nø 50 - Automne 2018 ş2018
 !--- es laur‚ats du concours Visions du futur 2018
-: .o .     N     _OLRY Christophe             Le Luck ou La Vie ş2018
+: .o .     N     _OLRY Christophe             Le Luck ou La Vie ? ş2018
 : .o .     N     _GOULARD Anne                Souvenirs du monde flottant ş2018
-!: .o .     N     _GOLIATHUS                   Seul ş2019
+: .o .     N     _GOLIATHUS                   Seul ş2019
 : .o .     N     _QUERBALEC Emilie            La Cloche, hasta siempre ş2018
 o PRE_AOC    51  2019.xx ..... ISBN -
 } aoc051         _Anato Finnstark             ?
-- .oI.    kM9    ****                         AOC nø 51 - Hiver 2019 ş2018
-!: .o .     N     _MASSON Mathieu              Jamais trop tard ş2019
+- .oI.    kM9    ****                         AOC nø 51 - Hiver 2019 ş2019
+: .o .     N     _MASSON Mathieu              Jamais trop tard ş2019
 : .o .     N     _DOUGUET-DINHUT Ga‰lle       La Patrouille des chapardeurs en exp‚dition ş2019
 : .o .     N     _BOUCHAIN Marilyn            Ma cuisine au sang gourmande ş2019
 : .o .     N     _SERRANO Elodie              Ensemble, sinon rien ş2019
-: .o .     N     _RENAUT Wilfried             Nunc et la Bˆte de Fabulle ş2019
+: .o .     N     _RENAUT Wilfried             Nunc et la bˆte de Fabulle ş2019
 !--- + les vainqueurs du match des imaginales :
-!: .o .     N     _FONVIEILLE Aymeline         ? ş2019
 : .o .     N     _PLEYNET Audrey              Beaut‚s ş2019
-!: .o .     N     _BOUCHET Sophie              ? ş2019
+: .o .     N     _BOUCHET Sophie              Sur la route avec Hubert ş2019
+: .o .     N     _FONVIEILLE Aymeline         912.1 ATL ş2019
 : .o .     N     _BONA Charlotte              Tu honoreras tes parents ş2019
 o PRE_AOC    52  2019.xx ..... ISBN -
 } aoc052         _Andreas Rocha               ?
@@ -931,19 +968,19 @@ o PRE_AOC    53  2019.xx ..... ISBN -
 : .o .     N     _FLEURY Xavier-Marc          L'Ami secret ş2019
 : .o .     N     _BEUQUE Ange                 Sisyphe de papier ş2019
 : .o .     N     _CUVELIER Pierre             Comme un vol de frelons dans la nuit affam‚e ş2009
-!: .o .     N     _GODARD S‚bastien            Raviver la flamme ş2019
+: .o .     N     _GODARD S‚bastien            Raviver la flamme ş2019
 o PRE_AOC    54  2019.xx ..... ISBN -
 } aoc054         _Elie Rigaut                 ?
-- .oI.    kM4    ****                         AOC nø 54 - Automne 2019 ş2019
 !--- Les quatre nouvelles gagnantes du concours Visions du futur
-: .o .     N     _LE QUELLEC Annaiq           Surgente vento ş2019
+- .oI.    kM4    ****                         AOC nø 54 - Automne 2019 ş2019
+: .o .     N     _LE QUELLEC Anna‹g           Surgente vento ş2019
 : .o .     N     _BEUQUE Ange                 Les Indissociables ş2019
 : .o .     N     _LHOMME Xavier               Si tu crois que je m'amuse ş2019
-!: .o .     N     _BLANCHON Jean-Ludovic       Les Filles du vent ş2019
+: .o .     N     _BLANCHON Jean-Ludovic       Les Filles du vent ş2019
 o PRE_AOC    55  2020.06 ..... ISBN -
 } aoc055         _Marion Bouzir               ?
 - .oI.    kM4    ****                         AOC nø 55 - Hiver 2020 ş2020
-!: .o .     N     _WIRZBICKI Marjorie          L'Autre Fille ş2020
+: .o .     N     _WIRZBICKI Marjorie          L'Autre Fille ş2020
 : .o .     N     _BECKER Phil                 Avec un homme de la Lune ş2020
 : .o .     N     _MALOSSE Pascal              Jusqu'… la source ş2020
 !--- + Les textes vainqueurs du match d'‚criture des Imaginales 2019
@@ -952,7 +989,7 @@ o PRE_AOC    56  2020.06 ..... ISBN -
 } aoc056         _Tudor Popa                  ?
 - .oI.    kM5    ****                         AOC nø 56 - Printemps 2020 ş2020
 : .o .     N     _BONA Charlotte              D‚livrances ş2020
-!: .o .     N     _BEAU Laetitia               Mahana Te Miti ş2020
+: .o .     N     _BEAU Laetitia               Mahana Te Miti ş2020
 : .o .     N     _NAUD Florent                Zo‚, individu ş2020
 : .o .     N     _BALLEYGUIER Renaud          Un long cr‚puscule ş2020
 : .o .     N     _GRANDIN Jonathan            No n‚gociations n'‚chouent pas ş2020
@@ -961,26 +998,98 @@ o PRE_AOC    57  2020.xx ..... ISBN -
 - .oI.    kM4    ****                         AOC nø 57 - Et‚ 2020 ş2020
 : .o .     N     _LE ROUX Brice              &Nos ‚ternit‚s ş2020
 &                _LE ROUX Romain              
-!: .o .     N     _MANRIQUE Claudine           Sula‹ ş2020
+: .o .     N     _MANRIQUE Claudine           Sula‹ ş2020
 : .o .     N     _KUNZI Christophe            Au-del… des limbes artificiels ş2020
 : .o .     N     _GOUDOUR Anne               &Holographie oubli‚e des nuages ş2020
 &                _PETIT David                 
 o PRE_AOC    58  2021.01 ..... ISBN -
 } aoc058         _Kriseis                     ?
-- .oI.    iMx    ****                         AOC nø 58 - Automne 2020 ş2021
-!: .o .     N     _CABANAZ Olivia              Le Voyage de Jisong ş2021
+- .oI.    kM4    ****                         AOC nø 58 - Automne 2020 ş2021
+: .o .     N     _CABANAZ Olivia              Le Voyage de Jisong ş2021
 : .o .     N     _LE GOURRIEREC Manuel        Victoire disparaŒt ş2021
 : .o .     N     _MILLER St‚phane             Zone 70 ş2021
 : .o .     N     _OLRY Christophe             Spin pong ş2021
+o PRE_AOC    59  2021.03 ..... ISBN -
+} aoc059         _Leortoon                    ?
+!--- 88 pages, 3 euros 50
+- .oI.    kM4    ****                         AOC nø 59 - Automne 2020 ş2021
+: .o .     N     _DAVID Andr‚                 Ressac ş2021
+: .o .     N     _MACHOROWSKI Marthe          De l'autre c“t‚ du mur ş2021
+: .o .     N     _MARGAUD NadŠge              L'Au-Dehors ş2021
+: .o .     N     _HENNINGER Bernard           Le Gotspeau ş2021
+: .o .     N     _MILLER St‚phane             Out utero ş2021
+o PRE_AOC    60  2021.08 ..... ISBN -
+} aoc060         _Lorenz Hideyoshi Ruwwe      ?
+!--- 78 pages, 3 euros 50
+- .oI.    iMx    ****                         AOC nø 60 - Printemps 2021 ş2021
+: .o .     N     _PEYTOUREAU Anzala           N“ ş2021
+: .o .     N     _GAPDY J.C.                  Irr‚prochable propret‚ ş2021
+: .o .     N     _TOURNOIS Agathe             Entre deux mondes ş2021
+o PRE_AOC    61  2021.11 ..... ISBN -
+} aoc061         _Aeon Lux                    ?
+!--- 84 pages, 3 euros 50
+- .oI.    kM3    ****                         AOC nø 61 - Et‚ 2021 ş2021
+: .o .     N     _PACCAUD St‚phane            AbŒme int‚rieur ş2021
+: .o .     N     _GOUDOUR Anne                De l'autre c“t‚ de l'‚corce ş2021
+: .o .     N     _ESNAULT Vivien              Tu n'es pas Charlie ş2021
+o PRE_AOC    62  2021.12 ..... ISBN -
+} aoc062         _Asur Misoa                  Jubo, Eric Malterre, 570 et St‚phanie Peltier
+!--- 84 pages, 4 euros
+!--- Les quatre nouvelles gagnantes du concours Visions du futur
+- .oI.    kM4    ****                         AOC nø 62 - Automne 2021 ş2021
+: .oS.     N     _GUILHEM Morgane             AB+ ş2021
+: .o .     N     _PAGE Sacha D.               Diss‚mination ş2021
+: .o .     N     _TOURNOIS Agathe             Shiawase Lady ş2021
+: .o .     N     _CABANAZ Olivia              Camara Transfer ş2021
+o PRE_AOC    63  2022.04 ..... ISBN -
+} aoc063         _Amaury Bndgen              St‚phanie Peltier, 570 et Eric Malterre
+!--- 84 pages, 4 euros
+- .oI.    kM3    ****                         AOC nø 63 - Hiver 2022 ş2022
+: .o .     N     _SIMON Paul                  La Disparition ş2022
+: .o .     N     _VANHEL Antoine              Bien plus qu'une plainte ş2022
+: .o .     N     _NUNCQ Emmanuelle            Le Corps d'Albine ş2022
+o PRE_AOC    64  2022.04 ..... ISBN -
+} aoc064         _Jeffrey Read                Arthur Delinotte, Eric Faure-Brac, 570 et Jubo
+!--- 84 pages, 4 euros
+- .oI.    kM4    ****                         AOC nø 64 - Printemps 2022 ş2022
+: .o .     N     _PIGUET Tristan              Bleu sang ş2022
+: .o .     N     _TORSIAC Nicolas de          DerniŠre mise au poings pour Big Mama ş2022
+: .o .     N     _GALOPIN Maxime              La Larme de Sirona ş2022
+: .o .     N     _GENOIS Mathieu              La Neige ş2022
+: .o .     N     _CORVEN Morgan               Le R‚veil de Kasparov ş2022
+o PRE_AOC    65  2022.10 ..... ISBN -
+} aoc065         _CCDriver                    Yohan Vasse, Marthe Machorowski, Jean-Michel Prats et Eric Faure-Brac
+!--- 90 pages, 4 euros
+- .oI.    kM4    ****                         AOC nø 65 - Et‚ 2022 ş2022
+: .o .     N     _ALBERT Marie                Le Divan des h‚ros ş2022
+: .o .     N     _PARIS Jean                  Double rencontre au British Museum ş2022
+: .o .     N     _FAUQUEMBERGUE Thierry       Je suis Bertram Ranzer ş2022
+: .o .     N     _BECKER Phil                 Le Dieu d'os ş2022
+o PRE_AOC    66  2022.11 ..... ISBN -
+} aoc066         _Magali Couzigou             Jean-Michel Prats, Olivier Bourdy, Nelljob et Eric Malterre
+!--- 92 pages, 4 euros
+- .oI.    kM4    ****                         AOC nø 66 - Automne 2022 ş2022
+: .o .     N     _CORVEN Morgan               J'irai danser au Face Cach' ş2022
+: .o .     N     _SEFARIS Marc                Rita Hayworth ş2022
+: .o .     N     _CONSEIL Julie               Viens sur ma comŠte ş2022
+: .o .     N     _HEILIGENSTEIN Lucie         Miette de ciel ş2022
+o PRE_AOC    67  2023.02 ..... ISBN -
+} aoc066         _Stella Colorado             570, Eric Malterre et Dimitri Polzin
+!--- 92 pages, 4 euros
+- .oI.    iM7    ****                         AOC nø 67 - Hiver 2023 ş2023
+: .o .     N     _ERIKSEN Charlie             Capucine et les oiseaux ş2023
+: .o .     N     _ABABOU Alexandre            Convocation divine ş2023
+: .o .     N     _VILA CORNELLAS Jordi        L'H‚ritage d'Arfang ş2023
+
 
 
 !-----------------------------------------------------------------------------
 !--- Les cuv‚es d'AOC
 !-----------------------------------------------------------------------------
-_ PREAOCC Pr‚sences d'Esprits, Les Cuv‚es d'AOC
+_ PREAOCC Pr‚sences d'Esprits - Les Cuv‚es d'AOC
 !-----------------------------------------------------------------------------
 o PREAOCC     1  2014.04 ..... ISBN 2-9518997-3-4
-} pdecuvaoc1     _VIRGILLES                   ? 
+} pdecuvaoc1     _Virgilles                   ?
 - .oF.    kA9    _WELLENSTEIN Aur‚lie         Ferrous Occire et autres r‚cits ş2014
 : .o .     N     _WELLENSTEIN Aur‚lie         Des profondeurs ş2013-2014
 : .o .     N     _WELLENSTEIN Aur‚lie         Le Catalyseur ş2009-2014

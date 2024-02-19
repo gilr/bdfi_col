@@ -1,8 +1,6 @@
 !-----------------------------------------------------------------------------
 _ FIGUIER EugŠne FiguiŠre
-_ FIGUIEC EugŠne FiguiŠre, Collection des petits livres du chevet
-_ FIGLLDA <b>in</b> La Lampe d'agate, de Jean Aubourg, EugŠne FiguiŠre
-_ FIGPLAT <b>in</b> Platoniquement, EugŠne FiguiŠre
+_ FIGUIEC EugŠne FiguiŠre - Collection des petits livres du chevet
 !-----------------------------------------------------------------------------
 !---  Editions EugŠne FiguiŠre
 !--- Paris, 166 Boulevard Montparnasse
@@ -34,34 +32,47 @@ o FIGUIER     ?  1922.xx ..... ISBN -
 : .o .     T     _LORDE Andr‚ de              Figures de cire þ?
 : .o .     T     _LORDE Andr‚ de              L'Enfant mort þ?
 : .o .     T     _LORDE Andr‚ de              Attaque nocturne þ?
-o FIGPLAT     ?  1923.xx ..... ISBN -
+o FIGUIER     ?  1923.xx ..... ISBN -
 } noimg          _?                           Daniel Girard
-!--- 206 pages
+!--- 206 pages - in-12
+!--- Edgar Poe est orthographi‚ "Edgard Poe" en couverture
 - .oF.     N4    _POE Edgar Allan             Les Meilleurs Contes þ1923
 : .o .     N     _POE Edgar Allan             Une descente dans le maelstr”m þ1841 A Descent Into the Maelstrom þTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Le Scarab‚e d'or þ1843 The Gold-Bug þTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Manuscrit trouv‚ dans une bouteille þ1833 Manuscript Found in a Bottle þTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Double assassinat dans la rue Morgue [Auguste Dupin] þ1841 The Murders in the Rue Morgue þTrad. BAUDELAIRE Charles
-o FIGPLAT     ?  1924.xx ..... ISBN -
+o FIGUIER     ?  1924.xx ..... ISBN -
 } noimg          _?                           ?
-!--- 142 pages - 5 Fr.
-- .oZ.     N     _AXIEROS                     La Conquˆte þ1924
+!--- 144 pages - 5 Francs
+!--- "La Conquˆte" relate la d‚couverte de l'amour homosexuel entre deux hommes pr‚historiques.
+- .pZ.    iN12   _AXIEROS                     Platoniquement þ1924
+: .! .     N     _AXIEROS                     Dialogue liminaire þ1924
+: .oZ.     N     _AXIEROS                     La Conquˆte þ1924
+: .! .     N     _AXIEROS                     Les Sur-Dieux þ1924
+: .! .     N     _AXIEROS                     Resurrexit þ1924
+: .! .     N     _AXIEROS                     Yakin þ1924
+: .! .     N     _AXIEROS                     Ferrum Victorem Cepit þ1924
+: .! .     N     _AXIEROS                     Excelsior þ1924
+: .! .     N     _AXIEROS                     La Porte entr'ouverte þ1924
+: .! .     N     _AXIEROS                     L'‚toile engloutie þ1924
+: .! .     N     _AXIEROS                     Lettre ensevelie þ1924
+: .! .     N     _AXIEROS                     Rˆve ou remembrance ? þ1924
 o FIGUIER     ?  1924.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     N14   _DUNSANY Lord                Le Livre des merveilles þ1912 The Book of Wonder, A Chronicle of Little Adventures at the Edge of the World þTrad. AMOUROUX Marie
 : .oF.     p     _DUNSANY Lord                Pr‚face þ1912 Preface þTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                La Fianc‚e du centaure þ1911 The Bride of the Man-Horse þTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                La Lamentable Histoire de Thangobrind le joaillier et de sa fin malheureuse þ1911 The Distressing Tale of Thangobrind the Jeweller and the Doom That Befell Him þTrad. AMOUROUX Marie
-: .oF.     N     _DUNSANY Lord                La Maison de la sphynge þ1912 The House of the Sphinx þTrad. AMOUROUX Marie
+: .oF.     N     _DUNSANY Lord                La Maison de la sphynge þ1911 The House of the Sphinx þTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                Ce qui arriva probablement aux trois ‚crivains þ1911 The Probably Adventure of the Three Literary Men þTrad. AMOUROUX Marie
-: .oF.     N     _DUNSANY Lord                L'Imprudente PriŠre de Pombo l'idolƒtre þ1912 The Injudicious Prayers of Pombo the Idolater þTrad. AMOUROUX Marie
+: .oF.     N     _DUNSANY Lord                L'Imprudente PriŠre de Pombo l'idolƒtre þ1910 The Injudicious Prayers of Pombo the Idolater þTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                La Prise de Bombasharna þ1910 The Loot of Bombasharna þTrad. AMOUROUX Marie
-: .oF.     N     _DUNSANY Lord                Miss Cubbidge et le dragon des l‚gendes þ1912 Miss Cubbidge and the Dragon of Romance þTrad. AMOUROUX Marie
+: .oF.     N     _DUNSANY Lord                Miss Cubbidge et le dragon des l‚gendes þ1911 Miss Cubbidge and the Dragon of Romance þTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                La Queste des larmes de la reine þ1910 The Quest of the Queen's Tears þTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                Le Tr‚sor des Gibbelins þ1911 The Hoard of the Gibbelins þTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                Comment Nuth aurait, paraŒt-il, exerc‚ son art sur les Gnoles þ1912 How Nuth Would Have Practised His Art Upon the Gnoles þTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                Comment quelqu'un entra, ainsi qu'il avait ‚t‚ pr‚dit, dans la cit‚ de nulle part þ1911 How One Came, as Was Foretold, to the City of Never þTrad. AMOUROUX Marie
-: .oF.     N     _DUNSANY Lord                Le Couronnement de M. Thomas Shap þ1912 The Coronation of Mr. Thomas Shap þTrad. AMOUROUX Marie
+: .oF.     N     _DUNSANY Lord                Le Couronnement de M. Thomas Shap þ1911 The Coronation of Mr. Thomas Shap þTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                Chu-bu et Sheemish þ1911 Chu-Bu and Sheemish þTrad. AMOUROUX Marie
 : .oF.     N     _DUNSANY Lord                La Fenˆtre merveilleuse þ1911 The Wonderful Window þTrad. AMOUROUX Marie
 : .oF.     o     _DUNSANY Lord                Epilogue þ1912 Epilogue þTrad. AMOUROUX Marie
@@ -81,7 +92,7 @@ o FIGUIER     ?  1928.xx ..... ISBN -
 o FIGUIER     ?  1928.12 ..... ISBN -
 } figgaleriemonstres _Adrien barriŠre             N
 !--- in-12 - 12 x 18,5 cm - 218 pages
-- .oT.    iN7    *LORDE Andr‚ de              La Galerie des monstres þ1928
+- .oT.    iNx    *LORDE Andr‚ de              La Galerie des monstres þ1928
 !: .o .     N     _?                           La Galerie des monstres þ?
 !: .o .     N     _?                           La Galerie des masques þ?
 !: .o .     ?     _SOREL Albert                L'Homme qui fait peur þ?
@@ -181,10 +192,12 @@ o FIGUIER     ?  1936.09 ..... ISBN -
 } noimg          _?                           ?
 !--- 30 septembre 1936
 - .oS.     R     _BARAUDE Henri               La Catastrophe þ1936
-o FIGLLDA     ?  1936.09 ..... ISBN -
+o FIGUIER     ?  1936.09 ..... ISBN -
 } noimg          _?                           ?
-!--- Nouvelle en fin d'ouvrage en plus du roman (horsg genres) ; Ouvrage in-12ø de 268 pages
-- .oS.     N     _AUBOURG Jean                Une nuit … bord þ1936
+!--- in-12ø - 268 pages
+!--- Pr‚face de Rosny-AŒn‚
+- .x .     R     _AUBOURG Jean                La Lampe d'agate þ1936
+: .oS.     N     _AUBOURG Jean                Une nuit … bord þ1936
 o FIGUIER     ?  1936.xx ..... ISBN -
 } figgrandguignol _?                           ?
 !--- in-12 - 208 pages

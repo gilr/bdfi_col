@@ -1,6 +1,6 @@
 
 !-----------------------------------------------------------------------------
-_ PROG    Ed. du ProgrŠs
+_ PROG    Editions du ProgrŠs
 !-----------------------------------------------------------------------------
 !--- Editions du ProgrŠs, Moscou
 !-----------------------------------------------------------------------------
@@ -13,8 +13,8 @@ o PROG        ?  1979.xx ..... ISBN .-.....-...-.
 !--- histoire romanc‚e sur la grŠce antique et l'‚gypte
 
 !-----------------------------------------------------------------------------
-_ ELETRAN Ed. En langue ‚trangŠre
-_ ELETBAS Ed. En langue ‚trangŠre, BibliothŠque d'ouvrages d'anticipation scientifique
+_ ELETRAN Editions En langue ‚trangŠre
+_ ELETBAS Editions En langue ‚trangŠre - BibliothŠque d'ouvrages d'anticipation scientifique
 !-----------------------------------------------------------------------------
 !--- Editions en langue ‚trangŠre - Moscou
 !--- BibliothŠque d'ouvrages d'anticipation scientifique
@@ -23,7 +23,7 @@ _ ELETBAS Ed. En langue ‚trangŠre, BibliothŠque d'ouvrages d'anticipation scient
 o ELETBAS     ?  1954.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.    kN8    _EFREMOV Ivan                R‚cits - Contes scientifiques ((Le Lac hant‚)) þ1953 Zvezdnye korabli
-!--- Rasskazy. Naoutchaia fatastika þTrad. LUSTERNIK H.
+!--- Rasskazy. Naoutchaia fatastika, Trad. LUSTERNIK H.
 : .o .     N     _EFREMOV Ivan                L'Ombre du pass‚ þ1944 Ten' Minouvchego
 : .o .     N     _EFREMOV Ivan                L'Observatoire de Nour-i-Decht þ1944 Observatoria Nour-i-Decht
 : .o .     N     _EFREMOV Ivan                Rencontre au-dessus du Tuscarora þ1943 Vstretcha nad Touskaroro‹
@@ -35,7 +35,7 @@ o ELETBAS     ?  1954.xx ..... ISBN -
 o ELETBAS     ?  1954.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.    kN8    _EFREMOV Ivan                Le Lac hant‚ et autres r‚cits scientifiques þ1953 Zvezdnye korabli
-!--- Rasskazy. Naoutchaia fatastika þTrad. LUSTERNIK H.
+!--- Rasskazy. Naoutchaia fatastika, Trad. LUSTERNIK H.
 : .o .     N     _EFREMOV Ivan                L'Ombre du pass‚ þ1944 Ten' Minouvchego
 : .o .     N     _EFREMOV Ivan                L'Observatoire de Nour-i-Decht þ1944 Observatoria Nour-i-Decht
 : .o .     N     _EFREMOV Ivan                Rencontre au-dessus du Tuscarora þ1943 Vstretcha nad Touskaroro‹
@@ -95,7 +95,7 @@ o ELETRAN     ?  19...xx ..... ISBN -
 - .o .     R     _OBROUTCHEV Vladimir         La Plutonie þ[1915],1924 Ploutonia, Neobytcha‹no‹e poutechestvie v nedra Zemli þTrad. ARSENIEVA M.
 
 !-----------------------------------------------------------------------------
-_ MOSCOU  Ed. de Moscou
+_ MOSCOU  Editions de Moscou
 !-----------------------------------------------------------------------------
 !--- Editions de Moscou (diffus‚ en F. par l'Agence Litt‚raire et Artistique Parisienne)
 !-----------------------------------------------------------------------------
@@ -111,9 +111,9 @@ o MOSCOU      ?  1960.xx ..... ISBN -
 - .o .     R     _EFREMOV Ivan                Aux confins de l'oecumŠne þ1949 Na kra‹ou o‹koumeny þTrad. LUSTERNIK Harold
 
 !-----------------------------------------------------------------------------
-_ RADOUGA Radouga (Moscou), Coll. Aventure et Science-Fiction
+_ RADOUGA Radouga (Moscou) - Aventure et Science-Fiction
 !-----------------------------------------------------------------------------
-!--- Coll. Aventure et science-fiction
+!--- Collection Aventure et science-fiction
 !-----------------------------------------------------------------------------
 o RADOUGA     ?  1987.xx 60F.. ISBN 5-05-001085-3
 } noimg          _?                           Igor Melkinov
@@ -177,6 +177,7 @@ o RADOUGA     ?  1990.xx ..... ISBN 5-05-003192-3
 &                _ABRAMOV Sergei              
 o RADOUGA     ?  1990.xx ..... ISBN 5-05-003201-6
 } noimg          _?                           ?
+!--- Est absent du recueil (hors genres) : "Anitra" distribue des lauriers ("Anitra" raspredelia‹et lavry)
 - .oS.    kN14   _MIKHANOVSKI Vladimir        H“tel Sigma þ1979 Gostinitsa "Sigma" þTrad. ?
 : .o .     N     _MIKHANOVSKI Vladimir        H“tel Sigma þ1974 Gostinits "Sigma"
 : .o .     N     _MIKHANOVSKI Vladimir        Le Secret de Pluton þ1962 Zagadka Ploutona
@@ -186,7 +187,6 @@ o RADOUGA     ?  1990.xx ..... ISBN 5-05-003201-6
 : .o .     N     _MIKHANOVSKI Vladimir        Referme la boŒte de Pandore þ1967 Zakhlopni iachtchik Pandory
 : .o .     N     _MIKHANOVSKI Vladimir        Le Petit et le Rustre þ1969 Malych i Groubian
 : .o .     N     _MIKHANOVSKI Vladimir        Sa place dans la vie þ1979 Mesto v jizni
-!-- Absent du recueil : x "Anitra" distribue des lauriers þ? "Anitra" raspredelia‹et lavry
 : .o .     R     _MIKHANOVSKI Vladimir        Histoire steppigue þ1979 Stepna‹a byl'
 : .o .     R     _MIKHANOVSKI Vladimir        Le Tentateur þ1979 Iskoussitel'
 : .o .     R     _MIKHANOVSKI Vladimir        La Soif þ1966 Jajda
@@ -196,7 +196,7 @@ o RADOUGA     ?  1990.xx ..... ISBN 5-05-003201-6
 
 
 !-----------------------------------------------------------------------------
-_ MIR     Ed. Mir (Moscou)
+_ MIR     Mir (Moscou)
 !-----------------------------------------------------------------------------
 !--- Editions Mir, Moscou
 !-----------------------------------------------------------------------------
@@ -211,14 +211,18 @@ o MIR         ?  1975.xx ..... ISBN .-.....-...-.
 - .o .     R     _SAVTCHENKO Vladimir         D‚couverte de soi-mˆme þ1967 Otkrytie sebia
 
 !-----------------------------------------------------------------------------
-_ NOUMOSC <b>in</b> Les Nouvelles de Moscou
+_ NOUMOSC Les Nouvelles de Moscou (Moscou) þ1956-...
 !-----------------------------------------------------------------------------
-o NOUMOSC     ?  1960.01 ..... ISBN -
-} noimg          _?                           ?
-- .oS.     N     _JOURAVLEVA Valentina        Rapsodie Stellaire þ1959 Zvezdna‹a rapsodia þTrad. NOVIKOV N.
+!--- ‚dit‚ par la Soci‚t‚ pour les relations culturelles entre l'URSS et les pays ‚trangers
+!-----------------------------------------------------------------------------
 o NOUMOSC     ?  1959.04 ..... ISBN -
 } noimg          _?                           ?
-- .oS.     N     _JOURAVLEVA Valentina        Une pierre tomb‚e des ‚toiles þ1959 Zvezdny kamen' þTrad. GAURIN Louis
+- .p .     Mx    ****                         Les Nouvelles de Moscou þ1959
+: .oS.     N     _JOURAVLEVA Valentina        Une pierre tomb‚e des ‚toiles þ1959 Zvezdny kamen' þTrad. GAURIN Louis
+o NOUMOSC     ?  1960.01 ..... ISBN -
+} noimg          _?                           ?
+- .p .     Mx    ****                         Les Nouvelles de Moscou þ1960
+: .oS.     N     _JOURAVLEVA Valentina        Rapsodie Stellaire þ1959 Zvezdna‹a rapsodia þTrad. NOVIKOV N.
 
 !-----------------------------------------------------------------------------
 _ ETUDSOV Etudes sovi‚tiques
@@ -246,7 +250,7 @@ o LETTSOV   270  1981.xx ..... ISBN .-.....-...-.
 o LETTSOV   271  1981.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .    _M1    ****                         Lettres sovi‚tiques nø 271 þ1981
-: .o .     N     _MIKHANOVSKI Vladimir        La Poursuite þ1973 Pogonia þTrad. BOGDAN Tatiana
+: .o .     N     _MIKHANOVSKI Vladimir        La Poursuite þ1962 Pogonia þTrad. BOGDAN Tatiana
 o LETTSOV   273  1981.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .    _M1    ****                         Lettres sovi‚tiques nø 273 þ1981
@@ -300,7 +304,7 @@ o LETTSOV   302  1984.xx ..... ISBN .-.....-...-.
 : .oS.     N     _KOLOUPAEV Victor            Quels dr“les d'arbres þ1975 Kakie smechnye derev'ia þTrad. ?
 : .oS.     N     _FAZILOV Abdoukhakim         Le Mirage þ1982 Miraj þTrad. KARVOVSKI Alexandre
 : .oS.     N     _CHTCHERBAKOV Vladimir       Vacances au bord de la mer þ1982 Kanikouly ou moria þTrad. MIKHALKOVA Varvara
-: .oS.     N     _DROZD Vladimir              Pygmalion þ1976 Pigmalion þTrad. ?
+: .oS.     N     _DROZD Vladimir              Pygmalion þ1969 Pigmalion þTrad. ?
 : .oS.     N     _SILETSKI Alexandre          La Peste florale þ1980 Tsvetotchna‹a tchouma þTrad. MOURAVIOVA Elisabeth
 : .o .     N     _BELIAEV Alexandre           La LumiŠre invisible [Les Inventions du professeur Wagner] þ1938 Nevidimy svet þTrad. MOURAVIOVA Elisabeth
 o LETTSOV   303  1984.xx ..... ISBN .-.....-...-.
@@ -326,7 +330,7 @@ o LETTSOV   314  1984.xx ..... ISBN .-.....-...-.
 o LETTSOV   318  1985.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .    _Mx    ****                         Lettres sovi‚tiques nø 318 - Science-fiction sovi‚tique moderne þ1985
-: .oS.     N     _ASTAKHOVA Natalia           Permettez-moi de naŒtre þ1983 Pozvol'te rodit'sia þTrad. ISKHAKOV Ilya
+: .oS.     N     _ASTAKHOVA Natalia           Permettez-moi de naŒtre þ1981 Pozvol'te rodit'sia þTrad. ISKHAKOV Ilya
 : .oS.     N     _BABENKO Vitali              Maudit et prometteur þ1976 Prokliaty i blagoslavlenny‹ þTrad. KARVOVSKI Alexandre
 : .oS.     N     _BLOKHINE Nikola‹            R‚pliques þ1983 Repliki þTrad. KARVOVSKI Alexandre
 : .oS.     N     _GLAZKOV Youri               Le Noir silence þ1987 Tcherno‹e bezmolvie þTrad. MOURAVIOVA Elisabeth

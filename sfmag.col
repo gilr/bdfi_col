@@ -4,74 +4,74 @@
 
 !-----------------------------------------------------------------------------
 _ OZON    Ozone
-_ OZON01  <b>in</b> Ozone nø 0 et 1
-_ OZON02  <b>in</b> Ozone nø 0 et 1
 !-----------------------------------------------------------------------------
 !--- Ozone
 !--- revue dirig‚e par Heni Loevenbruck et Alain N‚vant
 !--- devenue ensuite Science-Fiction Magazine
 !--- ISSN 1267-9909
 !-----------------------------------------------------------------------------
-o OZON01      ?  1996.xx ..... ISBN .-.....-...-.
+o OZON        ?  1996.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 0 et 1
 - .o .     N     _DEMAEGD Cyril               Parousia þ1996
-o OZON02      ?  1996.xx ..... ISBN .-.....-...-.
+o OZON        ?  1996.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 0 et 1
 - .o .     N     _MASSON Philippe             Kenya þ1996
 !-----------------------------------------------------------------------------
-o OZON        0  1995.xx ..... ISBN .-.....-...-.
+o OZON        0  1995.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     M2    ****                         Ozone nø 0 þ1995
 ) .o .     N     _DEMAEGD Cyril               Parousia - 1 þ1995
 ) .o .     N     _MASSON Philippe             Kenya - 1 þ1995
-o OZON        1  1996.xx ..... ISBN .-.....-...-.
+o OZON        1  1996.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     M3    ****                         Ozone nø 1 þ1996
 ) .o .     N     _MASSON Philippe             Kenya - 2 þ1996
 : .o .     N     _DEVISME Samuel              Atropine þ1996
 ) .o .     N     _DEMAEGD Cyril               Parousia - 2 þ1996
-o OZON        2  1996.xx ..... ISBN .-.....-...-.
+o OZON        2  1996.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     M3    ****                         Ozone nø 2 þ1996
 : .o .     N     _LIGNY Jean-Marc             Mamy voit des OVNI þ1996
 : .o .     N     _MACHINE Philippe           &Astroformeur þ?
 &                _LOEVENBRUCK Henri           
 : .o .     N     _BARBET Pierre               Belle jeunesse þ1967
-o OZON        3  1996.xx ..... ISBN .-.....-...-.
+o OZON        3  1996.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     M3    ****                         Ozone nø 3 þ1996
 : .o .     N     _LLOP Perrine                Les Enfants de la violence þ?
 : .o .     N     _M'TOUGHI Hamza              Les Deux Licornes þ?
 : .o .     N     _LE BUSSY Alain              Lou þ1988
-o OZON        4  1996.xx ..... ISBN .-.....-...-.
+o OZON        4  1996.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     M1    ****                         Ozone nø 4 þ1996
 : .o .     N     _TRUDEL Jean-Louis           L'Obsession þ1996
-o OZON        5  1997.xx ..... ISBN .-.....-...-.
+o OZON        5  1997.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Ozone nø 5 þ1997
-o OZON        ?  1997.xx ..... ISBN .-.....-...-.
+o OZON        ?  1997.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     M2    ****                         Ozone Hors s‚rie - sp‚cial humour, SF, fantasy þ?
 : .o .     N     _HOLT Tom                    Devine quel dieu vient dŒner ce soir ? þ1997 The God Who Came to Dinner
 !--- PremiŠre parution papier
 : .o .     N     _LIGNY Jean-Marc             Enzo rode … gain þ1997
-o OZON        6  1997.xx ..... ISBN .-.....-...-.
+o OZON        6  1997.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     M1    ****                         Ozone nø 6 þ1997
 : .o .     N     _WUL Stefan                  Solitude þ?
-o OZON        7  1997.xx ..... ISBN .-.....-...-.
+o OZON        7  1997.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     M1    ****                         Ozone nø 7 þ1997
 : .o .     N     _AYERDHAL                    Apoptoses þ1997
-o OZON        8  1997.xx ..... ISBN .-.....-...-.
+o OZON        8  1997.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     M1    ****                         Ozone nø 8 þ1997
 : .o .     N     _GENEFORT Laurent            Le Tr“ne de Yadtar [Les Aventures d'Alaet] þ1997
 
 !-----------------------------------------------------------------------------
-_ SFM1    Ozone, Science-Fiction Magazine
-_ SFM1HS  Ozone, Science-Fiction Magazine Hors-S‚rie
+_ SFM1    Ozone - Science-Fiction Magazine
+_ SFM1HS  Ozone - Science-Fiction Magazine Hors-S‚rie
 !-----------------------------------------------------------------------------
 !--- Science-Fiction Magazine (suite d'Ozone)
 !--- revue dirig‚e par Heni Loevenbruck et Alain N‚vant jusqu'au nø 8
@@ -110,10 +110,8 @@ o SFM1        8  1999.xx ..... ISBN .-.....-...-.
 : .oF.     N     _PELOT Pierre                Fin du monde þ1999
 
 !-----------------------------------------------------------------------------
-_ SFM2    Ed. Naturellement, Science-Fiction Magazine
-_ SFM3    SFM Editions, Science-Fiction Magazine
-_ SF01    <b>in</b> Ed. Naturellement, Science-Fiction Magazine, nø 16, 17, 18, 19 et 20
-_ SF02    <b>in</b> Ed. Naturellement, Science-Fiction Magazine, nø 30, 31 et 32
+_ SFM2    Naturellement - Science-Fiction Magazine
+_ SFM3    SFM Editions - Science-Fiction Magazine
 !-----------------------------------------------------------------------------
 !--- Science-Fiction Magazine (suite d'Ozone)
 !--- revue dirig‚e par Marc Bailly (depuis le nø 9)
@@ -121,11 +119,13 @@ _ SF02    <b>in</b> Ed. Naturellement, Science-Fiction Magazine, nø 30, 31 et 32
 !--- Depuis avril 2003 (d‚pot de bilan Naturellement),
 !--- le titre a ‚t‚ c‚d‚ … Alain P‚losato
 !-----------------------------------------------------------------------------
-o SF01        ?  2001.xx ..... ISBN .-.....-...-.
+o SFM2        ?  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oS.     r     _WILLIS Connie               Les Vents de Marble Arch þ1999 The Winds of Marble Arch
-o SF02        ?  2003.xx ..... ISBN .-.....-...-.
+>--- SERIAL : nø 16, 17, 18, 19 et 20
+o SFM2        ?  2003.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 30, 31 et 32
 - .o .     r     _NOLANE Richard D.           Une tˆte de martyr ! þ2003
 !-----------------------------------------------------------------------------
 o SFM2        9  2000.xx ..... ISBN .-.....-...-.
@@ -293,14 +293,43 @@ o SFM3       69  2010.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oS.     Mx    ****                         Science-Fiction Magazine nø 69 þ2010
 : .oF.     N     _DAGON Pierre                Lettre … Ralsa Marsh þ2010
-o SFM3      110  2021.xx ..... ISBN .-.....-...-.
+o SFM3      100  2018.04 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .oS.     Mx    ****                         Science-Fiction Magazine nø 110 þ2021
+- .oS.     M0    ****                         Science-Fiction Magazine nø 100 (Mai-juin-juillet 2018) þ2018
+o SFM3      108  2020.07 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oS.     M0    ****                         Science-Fiction Magazine nø 108 (ao–t-septembre-octobre 2020) þ2020
+o SFM3      109  2020.11 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oS.     Mx    ****                         Science-Fiction Magazine nø 109 (novembre-d‚cembre-janvier) þ2020
+: .oF.     N     _COVIN Gr‚gory               Toutes sirŠnes dehors þ2020
+o SFM3      110  2021.01 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oS.     Mx    ****                         Science-Fiction Magazine nø 110 (f‚vrier-mars-avril 2021) þ2021
 : .oF.     N     _COVIN Gr‚gory               Chasseur de fant“me þ2021
+o SFM3      111  2021.04 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oS.     M1    ****                         Science-Fiction Magazine nø 111 (Mai-juin-juillet 2021) þ2021
+: .o .     N     _COVIN Gr‚gory               Entre les gouttes þ2006
+o SFM3      112  2021.07 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oS.     M1    ****                         Science-Fiction Magazine nø 112 (ao–t-septembre-octobre 2021) þ2021
+: .o .     N     _COVIN Gr‚gory               Amn‚sie þ2021
+o SFM3      113  2021.10 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oS.     M0    ****                         Science-Fiction Magazine nø 113 (novembre-d‚cembre-janvier) þ2021
+o SFM3      114  2022.01 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oS.     M1    ****                         Science-Fiction Magazine nø 114 (f‚vrier-mars-avril 2022) þ2022
+: .o .     N     _COVIN Gr‚gory               Mars et ‡a repart ! þ2018
+o SFM3      115  2022.04 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oS.     M1    ****                         Science-Fiction Magazine nø 115 (mai-juin-juillet 2022) þ2022
+: .oF.     N     _COVIN Gr‚gory               Six pieds sous terre þ2022
 
 !-----------------------------------------------------------------------------
-_ SFMP    Ed. Naturellement, Sfmag pr‚sente
-_ SFMH    Ed. Naturellement, Sfmag Hors-S‚rie
+_ SFMP    Naturellement - Sfmag pr‚sente
+_ SFMH    Naturellement - Sfmag Hors-S‚rie
 !-----------------------------------------------------------------------------
 !--- num‚ros sp‚ciaux : alterne les HS et les SF-Mag pr‚sente
 !--- HS (2 par an)

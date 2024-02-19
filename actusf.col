@@ -1,14 +1,18 @@
 !-----------------------------------------------------------------------------
-_ ACTUSF  ActuSF, Les Trois Souhaits
-_ ACTU_CO ActuSF, Les Trois Souhaits Collector
-_ ACTUSFn ActuSF, Les Trois Souhaits (num‚rique)
+_ ACTUSF  ActuSF - Les Trois Souhaits
+_ ACTU_CO ActuSF - Les Trois Souhaits [collector]
+_ ACTUSFn ActuSF - Les Trois Souhaits [num‚rique]
+_ ACTCDNn ActuSF - Club de la Nouvelle [num‚rique]
 _ ACTU_HC ActuSF
-_ ACTU_PE ActuSF, Perles d'Epices
-_ ACTU_PC ActuSF, Perles d'Epices Collector
-_ ACTU_BW ActuSF, Bad Wolf
-_ ACTU_AG ActuSF, Aventures … Gu‚delon
-_ ACTU_GR ActuSF, Graphic
-_ MARMOTT de la Marmotte
+_ ACTUnum ActuSF [num‚rique]
+_ ACTU_PE ActuSF - Perles d'Epices
+_ ACTU_PC ActuSF - Perles d'Epices [collector]
+_ ACTU_BW ActuSF - Bad Wolf
+_ ACTU_AG ActuSF - Aventures … Gu‚delon
+_ ACTU_GR ActuSF - Graphic
+_ ACTU_QL ActuSF - Quand est-ce qu'on lit ?
+_ ACTU_MA ActuSF - Les Collections de la Maison d'Ailleurs
+_ MARMOTT La Marmotte
 !-- ACT_HEL ActuSF, H‚lios --> helios.col
 !-----------------------------------------------------------------------------
 
@@ -17,12 +21,13 @@ _ MARMOTT de la Marmotte
 !------------------------
 o ACTUSF      ?  2005.02 ..... ISBN 2-9522502-0-0
 } actusf01       _Fabien Fernandez            N
-- .oS.    _A5    *FAKHOURI Anne               Au travers du labyrinthe ş2005
-: .oS.     N     _FOVEAU Georges              Labyrinthe ş2005
-: .oS.     N     _GAILLARD St‚phanie          Aub‚pine ş2005
-: .oS.     N     _BIANCARELLI Blanche         Le Monde hazard ş2005
-: .oS.     N     _DENIEL Philippe             Le Prisonnier ş2005
-: .oS.     N     _DESLANDES H‚r‚Lys           Un souffle de soufre ş2005
+!--- GF - 105 pages
+- .oF.    _A5    *FAKHOURI Anne               Au travers du labyrinthe ş2005
+: .o .     N     _FOVEAU Georges              Labyrinthe ş2005
+: .o .     N     _GAILLARD St‚phanie          Aub‚pine ş2005
+: .o .     N     _BIANCARELLI Blanche         Le Monde hazard ş2005
+: .o .     N     _DENIEL Philippe             Le Prisonnier ş2005
+: .o .     N     _DESLANDES H‚r‚Lys           Un souffle de soufre ş2005
 o ACTUSF      ?  2005.xx ..... ISBN 2-9522502-1-9
 } actusf02       _Marc Roca                   N
 + ACTUSF      ?  2008.10 ..... ISBN 978-2-9522502-1-4
@@ -32,34 +37,36 @@ o ACTUSF      ?  2005.xx ..... ISBN 2-9522502-1-9
 !------------------------
 !=== 2006
 !------------------------
-o ACTUSF      ?  2006.11 ..... ISBN 2-9522502-3-5
+o ACTUSF      ?  2006.10 ..... ISBN 2-9522502-3-5
 } actusf03       _Fablyrr                     N
-- .oY.    _A5    *FAKHOURI Anne               Fugue en ogre mineur ş2006
-: .oY.     N     _DEBATS Jeanne-A             L'Ogre de ciment [Navarre] ş2006
-: .oY.     N     _GAILLARD St‚phanie          La Chasse … l'ogre ş2006
-: .oY.     N     _MARS Ida                    Les Ogres font-ils de bons pŠres ? ş2006
-: .oY.     N     _GUILLOTTE Audrey            La Chair choisie ş2006
-: .oY.     N     _NIOGRET Justine             Dure, bleue comme la glace ş2006
+!--- GF - 91 pages
+- .oF.    _A5    *FAKHOURI Anne               Fugue en ogre mineur ş2006
+: .o .     N     _DEBATS Jeanne-A             L'Ogre de ciment [Navarre] ş2006
+: .o .     N     _GAILLARD St‚phanie          La Chasse … l'ogre ş2006
+: .o .     N     _MARS Ida                    Les Ogres font-ils de bons pŠres ? ş2006
+: .o .     N     _GUILLOTTE Audrey            La Chair choisie ş2006
+: .o .     N     _NIOGRET Justine             Dure, bleue comme la glace ş2006
 o ACTUSF      ?  2009.12 ..... ISBN 978-2-9522502-3-8
 } actusf03rr09   _Fablyrr                     N
-!--- R‚‚dition avec changement de nom de Audrey
-- .oY.    _A5    *FAKHOURI Anne               Fugue en ogre mineur ş2006
-: .oY.     N     _DEBATS Jeanne-A             L'Ogre de ciment [Navarre] ş2006
-: .oY.     N     _GAILLARD St‚phanie          La Chasse … l'ogre ş2006
-: .oY.     N     _MARS Ida                    Les Ogres font-ils de bons pŠres ? ş2006
-: .oY.     N     _ALWETT Audrey               La Chair choisie ş2006
-: .oY.     N     _NIOGRET Justine             Dure, bleue comme la glace ş2006
+!--- R‚‚dition avec changement de nom de l'autrice Audrey Alwett
+- .oF.    _A5    *FAKHOURI Anne               Fugue en ogre mineur ş2006
+: .o .     N     _DEBATS Jeanne-A             L'Ogre de ciment [Navarre] ş2006
+: .o .     N     _GAILLARD St‚phanie          La Chasse … l'ogre ş2006
+: .o .     N     _MARS Ida                    Les Ogres font-ils de bons pŠres ? ş2006
+: .o .     N     _ALWETT Audrey               La Chair choisie ş2006
+: .o .     N     _NIOGRET Justine             Dure, bleue comme la glace ş2006
 !------------------------
 !=== 2007
 !------------------------
 o ACTUSF      ?  2007.02 ..... ISBN 978-2-9522502-2-1
 } actusf04       _Caza                        N
-- .o .     N     _WAGNER Roland C.            H.P.L. (1890-1991) ş1994
+- .o .     N     _WAGNER Roland C.            H.P.L. (1890-1991) ş1995
 o ACTUSF      ?  2007.04 ..... ISBN 978-2-9522502-4-3
 } actusf05       _Caza                        N
 - .oF.     r     _WAGNER Roland C.            Celui qui bave et qui glougloute ş1999
 o ACTUSF      ?  2007.10 ..... ISBN 978-2-9522502-7-6
 } actusf06       _Daylon                      N
+!--- GF 
 - .oS.    _N4    _DI ROLLO Thierry            Cendres ş2007
 : .oS.     N     _DI ROLLO Thierry            Cendres ş1997
 : .oS.     N     _DI ROLLO Thierry            Jaune papillon ş1996-2007
@@ -67,6 +74,7 @@ o ACTUSF      ?  2007.10 ..... ISBN 978-2-9522502-7-6
 : .oS.     N     _DI ROLLO Thierry            Quelques grains de riz ş2003
 o ACTUSF      ?  2007.10 ..... ISBN 978-2-9522502-5-2
 } actusf07       _Gilles Francescano          N
+!--- GF - 87 pages
 - .oS.    _N6    _LAINE Sylvie                Le Miroir aux ‚perluettes ş2007
 : .oS.     N     _LAINE Sylvie                La Bulle d'Euze ş2003
 : .oS.     N     _LAINE Sylvie                La Mirotte ş2001
@@ -74,17 +82,89 @@ o ACTUSF      ?  2007.10 ..... ISBN 978-2-9522502-5-2
 : .oS.     N     _LAINE Sylvie                Question de mode ş2007
 : .oS.     N     _LAINE Sylvie                Un rˆve d'herbe ş1987
 : .oS.     N     _LAINE Sylvie                Un signe de Setty ş2002
-o ACTUSF      ?  2007.10 ..... ISBN 978-2-9522502-8-3
+o ACTUSF      ?  2007.11 ..... ISBN 978-2-9522502-8-3
 } actusf08       _?                           N
-- .oS.    iA30   *VINCENT J‚r“me              Appel d'air ş2007
-: .o .     n     _TOMASINI Olivier            Le Temps de... Cerise ş2007
-: .o .     n     _DENIS Sylvie                1 mai 2010 - 20h12 ş2007
-: .oS.     n     _DUFOUR Catherine            Mentions l‚gales ş2007
+!--- GF - 93 pages
+- .oS.     A30   *VINCENT J‚r“me              Appel d'air ş2007
+: .o .     p     _HOLSTEIN Eric              &Pr‚face ş2007
+&                _VINCENT J‚r“me             &
+&                _VOLPER Charlotte            
+: .o .     N     _COLIN Fabrice               Interruption momentan‚e des programmes ş2007
+: .o .     N     _MAMIER Claude               Nulle part ş2007
+: .o .     N     _BEAUVERGER St‚phane         S‚curit‚ / Impunit‚ (scŠne v‚cue … venir) ş2007
+: .o .     N     _WAGNER Roland C.            "La gratuit‚ c'est le vol" d‚clare le Ministre des Finances ş2007
+: .o .     N     _MIZIO Francis               S'en sortir en 2010 : facile ş2007
+: .o .     N     _DAY Thomas                  Miin ş2007
+: .o .     N     _DENIS Sylvie                1 mai 2010 - 20h12 ş2007
+: .o .     N     _ERIS Patrick                21 mars 201... ş2007
+: .o .     N     _TOMASINI Olivier            Le Temps de... Cerise ş2007
+: .o .     N     _LEICHT Markus               Chroniques des ann‚es matinales ş2007
+: .o .     N     _ECKEN Claude                Les Nouvelles b‚atitudes ş2007
 : .o .     N     _LIGNY Jean-Marc             Pour une d‚mocratie plus nette, des ‚lections modernes ! ş2007
-: .oS.     N     _CHENU Lucie                 Traitement de textes ş2007
-!--- 
+: .o .     N     _LI-CAM                      Qui sommes-nous ? ş2007
+: .o .     N     _BOUSQUET Charlotte          Ballade des id‚es du temps jadis ş2007
+: .o .     N     _HELIOT Johan                Appel urgent ş2007
+: .o .     N     _FONTANA Jean-Pierre         Science-Friction ş2007
+: .o .     N     _LEHMAN Serge                Un ancien dissident … nouveau autoris‚ … publier ş2007
+: .o .     N     _WINTREBERT Jo‰lle           Slam party d‚busqu‚e par la brigade anti-criminalit‚ ş2007
+: .o .     N     _LAINE Sylvie                Ch“meurs et fils ş2007
+: .o .     N     _WAHL Vincent                Machine … s'indigner ş2007
+: .o .     N     _DAMASIO Alain               D‚finitivement ş2007
+: .o .     N     _ANDREVON Jean-Pierre        Un certain 6 mai 2007 ş2007
+: .o .     N     _WHALE Laurent               Nicoland ş2007
+: .o .     N     _BERTHELOT Francis           Le Questeur ş2007
+: .o .     N     _SANAHUJAS Simon             Comment fut-ce possible ? ş2007
+: .o .     N     _CHENU Lucie                 Traitement de textes ş2007
+: .o .     N     _BELLAGAMBA Ugo              Le Suicide de la d‚mocratie ş2007
+: .o .     N     _N. Lise                     Souches rabougries sur la pente droite de la scŠne ş2007
+: .o .     N     _DAMASIO Alain               Disparitions ş2007
+: .o .     N     _DUFOUR Catherine            Mentions l‚gales ş2007
+o ACTUSFn     ?  2012.05 ..... ISBN 978-2-36629-037-0
+} noimg          _?                           N
+!--- GF - 100 pages
 !--- Appel d'air 2 - Num‚rique seul - mai 2012
-?: .o .     N     _CHENU Lucie                 Mission humanitaire ş2012
+- .oS.    =A30   *VINCENT J‚r“me              Appel d'air 2 ((Appel d'air)) ş2012
+: .o .   4 p     _VINCENT J‚r“me             &Introduction ş2007
+&                _DAMASIO Alain              &
+&                _BERCE Antoine               
+: .C .   6 C     ****                         Chapitre 1 - Antisocial tu perds ton sang-froid ş2012
+: .o .   7 N     _BOUSQUET Charlotte          Triptyque ş2012
+: .o .  11 N     _LE PILLOUER Pierre          Gigue ş2012
+: .o .  12 N     _BOJKO Jean                  Les petits sont devenus si petits qu'on a pris l'habitude de ne plus les remarquer ş2012
+: .o .  15 N     _CHANTREIN Michel            Chien de Fonctionnaire ş2012
+: .o .  17 N     _CAMAC MuriŠle               La Faute aux fautifs ş2012
+: .o .  18 N     _REY Timoth‚e                Les cimetiŠres sont remplis de gens indispensables ş2012
+: .o .  22 N     _AZAM Edith                  Pedro ş2012
+: .o .  23 N     _TORLINI Yannick             Camarade ş2012
+: .C .  25 C     ****                         Chapitre 2 - Nick's Movie ş2012
+: .o .  26 N     _ECKEN Claude                Arrˆte ton cin‚ma ! ş2012
+: .o .  31 N     _PELOT Pierre                Citoyens-fans dŠs la maternelle ş2012
+: .o .  33 N     _KOKOSCHKA                   Poudre au nez ş2012
+: .o .  34 N     _FELIX Tristan               Moi, je, sarkophage* ş2012
+: .C .  36 C     ****                         Chapitre 3 - Comparses et liasses ş2012
+: .o .  37 N     _KOKOSCHKA                   D‚tenu comme un ver ş2012
+: .o .  38 N     _DEMARCQ Jacques             CompiŠgne qui foutra ş2012
+: .o .  39 N     _HELISSEN Alain              Mille milliards deux mille d'abord ! ş2012
+: .o .  41 N     _BORMAND Georges             France SARLs ş2012
+: .C .  43 C     ****                         Chapitre 4 - De quel bois... t'aboies ? ş2012
+: .o .  44 N     _STEWARD Ketty               L'cran bleu de la mort ş2012
+: .o .  51 N     _BERCE Antoine               Machine … enfumer ş2012
+: .o .  56 N     _GELLE Albane                Sans titre ş2012
+: .o .  57 N     _LI-CAM                      Le Bourbier sans nom... ş2012
+: .o .  59 N     _BIGER Fran‡oise             Seulement reprendre la main d'Edith, sans prendre langue et … mon tour passer la main ş2012
+: .o .  61 N     _COUVE Jean-Marc             1/rection ş2012
+: .o .  63 N     _GACHE Andr‚                 Idit ş2012
+: .o .  65 N     _DANIEL Marie-Catherine      Fatras politico-fantastique ş2012
+: .C .  67 C     ****                         Chapitre 5 - Exodes ş2012
+: .o .  68 N     _NICOLAS Christophe          R‚sistance ş2012
+: .o .  74 N     _LAJOYE Patrice              Ensemble, pour un monde meilleur et une France Populaire forte ş2012
+: .o .  78 N     _GIRAUD Th‚ophile de         Empreinte ‚cologique ş2012
+: .o .  80 N     _PALMAL2                     "Et libre soit cette infortune" ş2012
+: .o .  81 N     _LE FLOCH Xavier             2012 ne connaŒt pas la crise ş2012
+: .o .  82 N     _FELIX Tristan               Se rincer le n‚ant ş2012
+: .o .  84 N     _CHENU Lucie                 Mission humanitaire ş2012
+: .o .  90 N     _GARCIA Cathy                Sommes-nous ? ş2012
+: .o .  95 N     _LAMBERSY Werner             Sans titre ş2012
 o ACTUSF      ?  2007.12 ..... ISBN 978-2-9522502-6-9
 } actusf09       _Daniel Maclise              N
 - .oY.     G     _DEMETZ Pierre              &Le Petit Guide … trimballer de la Fantasy ş2007
@@ -100,20 +180,23 @@ o ACTUSF      ?  2011.11 ..... ISBN 978-2-917689-33-2
 o ACTUSF      ?  2008.02 ..... ISBN 978-2-9522502-9-0
 } actusf10       _Olivier Vatine              N
 - .oY.     r     _GENEFORT Laurent            L'Affaire du rochile [Cycle d'Omale] ş2008
-o ACTUSF      ?  2008.xx ..... ISBN 978-2-917689-00-4
+o ACTUSF      ?  2008.03 ..... ISBN 978-2-917689-00-4
 } actusf11       _Olivier Vatine              N
+!--- GF - 98 pages
 - .oS.    _N4    _MOORCOCK Michael            London Bone ş2008
 : .o .     N     _MOORCOCK Michael            Le Cardinal dans la glace ş1987 The Frozen Cardinal şTrad. ?
 : .o .     N     _MOORCOCK Michael            London Bone ş1997 London Bone şTrad. SERVAL Nathalie
 : .oS.     N     _MOORCOCK Michael            Un samedi soir au calme au Surrealist Sporting Club ş2001 A Slow Saturday Night at the Surrealist Sporting Club
-: .oS.     N     _MOORCOCK Michael            Le Jardin d'agr‚ment de Felipe Sagittarius ş1966 The Pleasure Garden of Felipa Sagittarius şTrad. CHAMBON Jacques
+: .oS.     N     _MOORCOCK Michael            Le Jardin d'agr‚ment de Felipe Sagittarius ş1965 The Pleasure Garden of Felipe Sagittarius şTrad. CHAMBON Jacques
 o ACTUSF      ?  2008.05 ..... ISBN 978-2-917689-01-1
 } actusf12       _Christian Lesourd           N
-- .oS.    _N2    _MARIGNAC Thierry            Maudit soit l'‚ternel ! ş2008
+!--- GF - 75 pages
+- .oS.    _C2    _MARIGNAC Thierry            Maudit soit l'‚ternel ! ş2008
 : .oS.     N     _MARIGNAC Thierry            Maudit soit l'‚ternel ! ş2008
 : .oS.     N     _MARIGNAC Thierry            Dieu n'a pas que ‡a … foutre... ş2008
 o ACTUSF      ?  2008.05 ..... ISBN 978-2-917689-02-8
 } actusf13       _Thomas Brechler             N
+!--- GF - 106 pages
 - .oS.    kN4    _LIGNY Jean-Marc             Le Voyageur solitaire [Chroniques des Nouveaux Mondes - 1] ş2008
 : .o .     N     _LIGNY Jean-Marc             Le Voyageur solitaire [Chroniques des Nouveaux Mondes] ş1989
 : .o .     N     _LIGNY Jean-Marc             Le Traqueur d'extrˆmes [Chroniques des Nouveaux Mondes] ş1980
@@ -130,8 +213,9 @@ o ACTUSF      ?  2007.12 ..... ISBN 978-2-917689_05-9
 } actusf16       _?                           N
 - .o .     G     _REBILLAT Jean              &Le Petit Guide … trimballer de l'imaginaire fran‡ais ş2008
 &                _RUAS Nathalie               
-o ACTUSF      ?  2008.11 ..... ISBN 978-2-917689-08-0
+o ACTUSF      ?  2008.10 ..... ISBN 978-2-917689-08-0
 } actusf17       _Alex Cherry                 N
+!--- GF - 156 pages
 - .oF.    _N7    _CALVEZ Jean-Michel          ManiŠres noires ş2008
 : .o .     p     _CHENU Lucie                 Pr‚face ş2008
 : .o .     N     _CALVEZ Jean-Michel          ManiŠre noire ş2008
@@ -139,10 +223,11 @@ o ACTUSF      ?  2008.11 ..... ISBN 978-2-917689-08-0
 : .o .     N     _CALVEZ Jean-Michel          Une rencontre diaphane ş2008
 : .o .     N     _CALVEZ Jean-Michel          De l'autre c“t‚ du miroir ş2008
 : .o .     N     _CALVEZ Jean-Michel          Forages ş2007
-: .o .     N     _CALVEZ Jean-Michel          Dernier souffle ş2008
+: .o .     N     _CALVEZ Jean-Michel          Dernier souffle ş2007
 : .o .     N     _CALVEZ Jean-Michel          La Visiteuse des tombes ş2008
 o ACTUSF      ?  2008.10 ..... ISBN 978-2-917689-07-3
 } actusf18       _Gilles Francescano          N
+!--- GF - 112 pages
 - .oS.    _N6    _LAINE Sylvie                Espaces ins‚cables ş2008
 : .oS.     p     _DUFOUR Catherine            Pr‚face ş2008
 : .oS.     N     _LAINE Sylvie                Carte blanche ş1986
@@ -156,12 +241,14 @@ o ACTUSF      ?  2008.10 ..... ISBN 978-2-917689-07-3
 !------------------------
 o ACTUSF      ?  2009.03 ..... ISBN 978-2-917689-09-7
 } actusf19       _Diego Tripodi               N
+!--- GF - 121 pages
 - .oS.    _N3    _DAY Thomas                  This is not America ş2009
 : .o .     N     _DAY Thomas                  Cette ann‚e-l…, l'hiver commen‡a le 22 novembre... ş1999
 : .o .     N     _DAY Thomas                  American drug trip ş2002
 : .o .     N     _DAY Thomas                  loges du sacrifice ş2009
 o ACTUSF      ?  2009.03 ..... ISBN 978-2-917689-10-3
 } actusf20       _V‚ronique Meignaud          N
+!--- GF - 178 pages
 - .oS.    _N5    _VANCE Jack                  Baroudeur ş2009
 : .oS.     N     _VANCE Jack                  Personnes d‚plac‚es ş1953 DP!
 : .oS.     N     _VANCE Jack                  Le Papillon de lune ş1961 The Moon Moth
@@ -170,6 +257,7 @@ o ACTUSF      ?  2009.03 ..... ISBN 978-2-917689-10-3
 : .oS.     N     _VANCE Jack                  Le Bruit ş1952 Noise
 o ACTUSF      ?  2009.04 ..... ISBN 978-2-917689-11-0
 } actusf21       _Thomas Brechler             N
+!--- GF - 118 pages
 - .oS.    _N4    _LIGNY Jean-Marc             Les Chants de glaces [Chroniques des Nouveaux Mondes - 2] ş2009
 : .o .     N     _LIGNY Jean-Marc             La Guerre de trois secondes [Chroniques des Nouveaux Mondes] ş2001
 : .oS.     N     _LIGNY Jean-Marc             Les Chants de glace [Chroniques des Nouveaux Mondes] ş1991
@@ -180,24 +268,27 @@ o ACTUSF      ?  2009.04 ..... ISBN 978-2-917689-12-7
 !--- TBC r‚‚dition en d‚cembre 2009
 - .oS.     G     _BARSAGOL Virginie          &Le Guide des f‚es - Regards sur la femme ş2009
 &                _CANSOT Audrey               
-o ACTUSF      ?  2009.05 ..... ISBN 978-2-917689-13-4
+o ACTUSF      ?  2009.06 ..... ISBN 978-2-917689-13-4
 } actusf23       _Cali Rezo                   N
+!--- GF - 149 pages
 - .oSF    _N5    _DENIS Sylvie                P‚lerinage ş2009
 : .o .     N     _DENIS Sylvie                Adr‚nochrome ş1991
 : .o .     N     _DENIS Sylvie                P‚lerinage ş1997
 : .o .     N     _DENIS Sylvie                Le Ventre de la mer ş1999
 : .o .     N     _DENIS Sylvie                Le Zombie du frŠre ş2009
 : .o .     N     _DENIS Sylvie                La Dame du Wisconsin ş2009
-o ACTUSF      ?  2009.05 ..... ISBN 978-2-917689-14-1
+o ACTUSF      ?  2009.06 ..... ISBN 978-2-917689-14-1
 } actusf24       _Patrick Imbert              N
-- .oS.    _N2    _BECKER Thomas              &W.O.M.B ş2009
+!--- GF - 91 pages
+- .oF.    _N2    _BECKER Thomas              &W.O.M.B ş2009
 &                _WOJEWODKA S‚bastien         
 : .o .     N     _BECKER Thomas               Channel Chain Schizoid ş2009
 : .o .     N     _WOJEWODKA S‚bastien         Untitled ou l'intercession ş2009
-o ACTUSF      ?  2009.11 ..... ISBN 978-2-917689-15-8
+o ACTUSF      ?  2009.10 ..... ISBN 978-2-917689-15-8
 } actusf25       _Diego Tripodi               N
+!--- GF - 164 pages
 - .oIQ    _N12   *VOLPER Charlotte            69 ş2009
-: .o .     N     _BEAUVERGER St‚phane         Eddy Merckx n'est jamais all‚ … V‚rone ş2009
+: .x .     N     _BEAUVERGER St‚phane         Eddy Merckx n'est jamais all‚ … V‚rone ş2009
 : .o .     N     _MAZAURETTE Ma‹a             Saturnales ş2009
 : .o .     N     _DAYLON                      Misvirginity ş2009
 : .o .     N     _FAZI M‚lanie                Miroir de porcelaine ş2009
@@ -211,6 +302,7 @@ o ACTUSF      ?  2009.11 ..... ISBN 978-2-917689-15-8
 : .o .     N     _WINTREBERT Jo‰lle           Cam‚lions ş2009
 o ACTUSF      ?  2009.11 ..... ISBN 978-2-917689-16-5
 } actusf26       _Gilles Francescano          N
+!--- GF - 102 pages
 - .oS.    _N3    _LAINE Sylvie                Marouflages ş2009
 : .o .     p     _WINTREBERT Jo‰lle           Le Mentir vrai ş2009
 : .o .     N     _LAINE Sylvie                Les Yeux d'Elsa ş2005
@@ -218,6 +310,7 @@ o ACTUSF      ?  2009.11 ..... ISBN 978-2-917689-16-5
 : .o .     N     _LAINE Sylvie                FidŠle … ton pas balanc‚ ş2009
 o ACTUSF      ?  2009.11 ..... ISBN 978-2-917689-17-2
 } actusf27       _James Gurnet                N
+!--- GF - 188 pages
 - .oS.    _A6    *HOLSTEIN Eric              &Utopiales 09 ş2009
 &                *VINCENT J‚r“me             &
 &                *VOLPER Charlotte            
@@ -230,11 +323,12 @@ o ACTUSF      ?  2009.11 ..... ISBN 978-2-917689-17-2
 : .oY.     N     _JAWORSKI Jean-Philippe      Pr‚quelle ş2009
 o ACTUSF      ?  2009.12 ..... ISBN 978-2-917689-18-9
 } actusf28       _Eric Scala                  N
+!--- GF - 174 pages
 - .oY.    kA8    *FAKHOURI Anne               F‚es dans la ville ş2009
 : .o .     p     _FAKHOURI Anne               Comme des papillons sur une planche de liŠge ş2009
 : .o .     N     _VANCE Jack                  Magie verte ş1963 Green Magic şTrad. RENARD Christine
 : .o .     N     _ROBILLARD Tony              Le Mur des lilas ş2009
-: .o .     N     _HOLSTEIN Eric               A la crois‚e ş2009
+: .o .     N     _HOLSTEIN Eric               A la crois‚e ş2006
 : .o .     N     _DEBATS Jeanne-A             Le Sceau d'Alphonse [Navarre] ş2009
 : .o .     N     _BERROUKA Karim              L'Histoire commence … Falloujah ş2009
 : .o .     N     _GECHTER Olivier             J'veux un dragon ş2003
@@ -251,6 +345,7 @@ o ACTUSF      ?  2010.02 ..... ISBN 978-2-917689-20-2
 - .oF.     R     _BOUDRY Alfred               La Digitale ş2010
 o ACTUSF      ?  2010.11 ..... ISBN 978-2-917689-25-7
 } actusf31       _Lasth                       N
+!--- GF - 112 pages
 - .oS.    _N6    _DI ROLLO Thierry            Cr‚puscules ş2010
 : .oS.     N     _DI ROLLO Thierry            El‚phants bleus ş1997
 : .oS.     N     _DI ROLLO Thierry            Hippo ! ş1998
@@ -259,16 +354,18 @@ o ACTUSF      ?  2010.11 ..... ISBN 978-2-917689-25-7
 : .oS.     N     _DI ROLLO Thierry            La Ville o— la mort n'existait pas ş1997
 : .oS.     N     _DI ROLLO Thierry            Le Cr‚puscule des Dieux ş2010
 o ACTUSF      ?  2010.11 ..... ISBN 978-2-917689-23-3
-} actusf32       _BRECHLER Tomas              N
+} actusf32       _Tomas Brechler              ?
+!--- GF - 212 pages
 - .oS.    _N4    _LIGNY Jean-Marc             Survivants des arches stellaires [Chroniques des Nouveaux Mondes - 3] ş2010
 : .o .     N     _LIGNY Jean-Marc             La Ballade de Silla [Chroniques des Nouveaux Mondes] ş2001
 : .o .     N     _LIGNY Jean-Marc             Eros [Chroniques des Nouveaux Mondes] ş1991
 : .oS.     N     _LIGNY Jean-Marc             Survivants des arches stellaires [Chroniques des Nouveaux Mondes] ş2010
 : .o .     N     _LIGNY Jean-Marc             Aux portes de l'enfer [Chroniques des Nouveaux Mondes] ş1991-2006
-?: .oS.     a     _LIGNY Jean-Marc             RepŠres historiques sur les chroniques des Nouveaux Mondes ş2010
-?: .oS.     a     _LIGNY Jean-Marc             Le Lexique des chroniques des Nouveaux Mondes ş2010
+: .o .     a     _LIGNY Jean-Marc             RepŠres historiques sur les chroniques des Nouveaux Mondes ş2010
+: .o .     a     _LIGNY Jean-Marc             Le Lexique des chroniques des Nouveaux Mondes ş2010
 o ACTUSF      ?  2010.11 ..... ISBN 978-2-917689-27-1
-} actusf33       _DRUILLET Philippe           N
+} actusf33       _Philippe Druillet           N
+!--- GF - 222 pages
 - .oS.    _A8    ****                         Utopiales 10 ş2010
 : .o .     p     _BORDAGE Pierre              FrontiŠres et paradoxes ş2010
 : .o .     N     _GESSLER Vincent             Miroirs du ciel ş2010
@@ -277,7 +374,7 @@ o ACTUSF      ?  2010.11 ..... ISBN 978-2-917689-27-1
 : .o .     N     _NIVEN Larry                 Reviens, Carol ! ş1966 By Mind Alone
 : .o .     N     _McDONALD Ian                Le vieux cosmonaute et l'ouvrier du bƒtiment rˆvent de Mars ş2002 The Old Cosmonaut and the Construction Worker Dream of Mars
 : .o .     N     _DAY Thomas                  La Ville f‚minicide ş2010
-: .o .     N     _SHEPARD Lucius              Le Chasseur de jaguar ş1985 The Jaguar Junter
+: .o .     N     _SHEPARD Lucius              Le Chasseur de jaguar ş1985 The Jaguar Hunter
 : .o .     N     _NIOGRET Justine             Les Rivages extrˆmes de la mer int‚rieure ş2010
 o ACTUSF      ?  2010.11 ..... ISBN 978-2-917689-24-0
 } actusf34       _Jonathan Haggard            ?
@@ -290,7 +387,7 @@ o ACTU_PE     ?  2010.05 ..... ISBN 978-2-917689-22-6
 - .oS.     r     _SILVERBERG Robert           Les Vestiges de l'automne [Cycle du peuple] ş2005 A Piece of the Great World şTrad. DOLISI Jacqueline
 o ACTU_PE     ?  2010.05 ..... ISBN 978-2-917689-21-9
 } actusfpe02     _Lasth                       ?
-- .oS.     R     _MARTIN George R.R.          Le Volcryn ş1981 Nightflyers şTrad. RICKLIN Odile + AYERDHAL
+- .oS.     r     _MARTIN George R.R.          Le Volcryn ş1980 Nightflyers şTrad. RICKLIN Odile + AYERDHAL
 o ACTUSF      ?  2010.xx ..... ISBN 978-2-917689-10-3
 } actusfpe03     _V‚ronique Meignaud          N
 - .oS.     N5    _VANCE Jack                  Baroudeur ş2009
@@ -308,6 +405,7 @@ o ACTUSF      ?  2011.04 ..... ISBN 978-2-917689-28-8
 &                _RICHARD C‚cile              
 o ACTUSF      ?  2011.11 ..... ISBN 978-2-917689-32-5
 } actusf36       _Greg Broadmore              ?
+!--- GF - 235 pages
 - .oS.    kA7    *VINCENT J‚r“me              Utopiales 11 ş2011
 : .o .     N     _MORROW James                Le Radeau du Titanic ş2010 The Raft of the Titanic şTrad. HOLSTEIN Eric
 : .o .     N     _WAGNER Roland C.            Le Train de la r‚alit‚ (fragment) ş2011
@@ -320,7 +418,8 @@ o ACTUSF      ?  2011.11 ..... ISBN 978-2-917689-32-5
 !--- Perles d'Epice
 !----
 o ACTU_PE     ?  2011.03 ..... ISBN 978-2-917689-26-4
-} actusfpe04     _BLAIR Scott                 ?
+} actusfpe04     _Scott Blair                 ?
+!--- GF - 240 pages
 - .oS.     A4    _HEINLEIN Robert            &Jackpots ş2011
 &                _PICHOLLE Eric               
 : .o .     p     _PICHOLLE Eric               Pr‚face ş2011
@@ -330,11 +429,12 @@ o ACTU_PE     ?  2011.03 ..... ISBN 978-2-917689-26-4
 : .o .     N     _HEINLEIN Robert             Une ann‚e faste ş1952 The Year of the Jackpot şTrad. VILLERS Aur‚lie
 o ACTU_PE     ?  2011.05 ..... ISBN 978-2-917689-29-5
 } actusfpe05     _Andrew Brase                ?
+!--- GF - 140x200 - 190 pages
 - .oYT    kN4    _MARTIN George R.R.          Dragon de glace ş2011
 : .o .     N     _MARTIN George R.R.          Dragon de glace ş1980 The Ice Dragon şTrad. DURASTANTI Pierre-Paul
 : .oY.     N     _MARTIN George R.R.          Dans les contr‚es perdues ş1982 In the Lost Lands şTrad. BAUDURET Thomas
-: .o .     N     _MARTIN George R.R.          L'Homme en forme de poire ş1987 The Pear-shaped Man şTrad. GOULLET Gilles
-: .o .     N     _MARTIN George R.R.          Portrait de famille ş1985 Portraits of His CHildren şTrad. ?
+: .o .     N     _MARTIN George R.R.          L'Homme en forme de poire ş1987 The Pear-Shaped Man şTrad. GOULLET Gilles
+: .o .     N     _MARTIN George R.R.          Portrait de famille ş1985 Portraits of His Children şTrad. ?
 o ACTU_PE     ?  2011.05 ..... ISBN 978-2-917689-30-1
 } actusfpe06     _Eric Holstein               ?
 !--- 36 pages
@@ -344,6 +444,7 @@ o ACTU_PE     ?  2011.05 ..... ISBN 978-2-917689-30-1
 !------------------------
 o ACTUSF      ?  2012.02 ..... ISBN 978-2-917689-31-8
 } actusf37       _Greg Vezon                  ?
+!--- GF - 248 pages
 - .oS.    kN8    _QUEYSSI Laurent             Comme un automate d‚ment reprogramm‚ … la mi-temps ş2012
 : .o .     p     _MAUMEJEAN Xavier            Portrait en d‚coupe sur ‚cran ş2012
 : .o .     N     _QUEYSSI Laurent             Sense of Wonder 2.0 ş2008
@@ -358,7 +459,9 @@ o ACTUSF      ?  2012.02 ..... ISBN 978-2-917689-31-8
 : .oS.     N     _QUEYSSI Laurent             Nuit noire, sol froid ş2009
 o ACTUSF      ?  2012.04 ..... ISBN 978-2-917689-35-6
 } actusf38       _Diego Tripodi               ?
+!--- GF - 208 pages
 - .oS.    kN5    _DAY Thomas                  Women in chains ş2012
+: .o .     p     _DUFOUR Catherine            Guide du queutard, guide du d‚sespoir ş2010
 : .oS.     N     _DAY Thomas                  La Ville f‚minicide ş2010
 : .oS.     N     _DAY Thomas                  Eros-center ş2012
 : .oS.     N     _DAY Thomas                  Tu ne laisseras point vivre... ş2012
@@ -369,6 +472,7 @@ o ACTUSF      ?  2012.05 ..... ISBN 978-2-917689-37-0
 - .oS.     E     _BARILLIER Etienne           Le Petit Guide … trimbaler de Philip K. Dick ş2012
 o ACTUSF      ?  2012.06 ..... ISBN 978-2-917689-38-7
 } actusf40       _David Patel                 ?
+!--- GF - 198 pages
 - .oY.    kN8    _GABORIT Mathieu             D'une rive … l'autre ş2012
 : .o .     N     _GABORIT Mathieu             Naissances ş2012
 : .o .     N     _GABORIT Mathieu             Aux frontiŠres de Sienne ş2000
@@ -380,6 +484,7 @@ o ACTUSF      ?  2012.06 ..... ISBN 978-2-917689-38-7
 : .o .     N     _GABORIT Mathieu             Involution ş2010
 o ACTUSF      ?  2012.09 ..... ISBN 978-2-917689-43-1
 } actusf41       _Roberlan Borges             ?
+!--- GF - 131 pages
 - .oS.    kA9    *GIDON Laurent               Contrepoint ş2012
 : .o .     p     _GIDON Laurent               Qu'est-ce qu'on se raconte ? ş2012
 : .o .     N     _REY Timoth‚e                L'Amour devant la mer en cage ş2012
@@ -393,6 +498,7 @@ o ACTUSF      ?  2012.09 ..... ISBN 978-2-917689-43-1
 : .o .     N     _DAY Thomas                  Semaine utopique ş2012
 o ACTUSF      ?  2012.11 ..... ISBN 978-2-917689-41-7
 } actusf42       _Nicolas Fructus             ?
+!--- GF - 292 pages
 - .oS.    kA10   ****                         Utopiales 12 ş2012
 : .o .     p     _BELLAGAMBA Ugo             &Origines ş2012
 &                _LEHOUCQ Roland              
@@ -403,7 +509,7 @@ o ACTUSF      ?  2012.11 ..... ISBN 978-2-917689-41-7
 : .o .     N     _SUHNER Laurence             La Chose du lac ş2012
 : .o .     N     _GAIMAN Neil                 "Et pleurer, comme Alexandre" ş2011 "And Weep Like Alexander" şTrad. GOULLET Gilles
 : .o .     N     _ECKEN Claude                La Fin de L‚th‚ ş2012
-: .o .     N     _PINCIO Tommaso              Petite excursion … l'endroit des atomes ş2011 Gita al posto degli atomi şTrad. ASCIONE  Milena
+: .o .     N     _PINCIO Tommaso              Petite excursion … l'endroit des atomes ş2011 Gita al posto degli atomi şTrad. ASCIONE Milena
 : .o .     N     _MAUMEJEAN Xavier           &En attendant demain ş2012
 &                _QUEYSSI Laurent             
 : .o .     N     _AYERDHAL                    RCW ş2012
@@ -412,11 +518,11 @@ o ACTUSF      ?  2012.11 ..... ISBN 978-2-917689-41-7
 !----
 o ACTU_PE     ?  2012.02 ..... ISBN 978-2-917689-34-9
 } actusfpe07     _Andrew Brase                ?
-- .oPF     R     _MARTIN George R.R.          Skin Trade ş1988 The Skin Trade şTrad. HOUESNARD Anna‹g
+- .oPF     r     _MARTIN George R.R.          Skin Trade ş1988 The Skin Trade şTrad. HOUESNARD Anna‹g
 o ACTU_PE     ?  2012.10 ..... ISBN 978-2-917689-42-4
 !--- TBD : num‚rique seulement ?
 } actusfpe08     _PROP4G4ND4                  ?
-- .oS.     r     _KRESS Nancy                 L'une rˆve et l'autre pas ş1991 Beggars in Spain şTrad. MICHEL Claire
+- .o .     r     _KRESS Nancy                 L'une rˆve, l'autre pas [Cycle des insomniaques] ş1991 Beggars in Spain şTrad. MICHEL Claire
 o ACTU_PE     ?  2012.10 ..... ISBN 978-2-917689-40-0
 } actusfpe09     _Zariel                      ?
 - .oS.     R     _SILVERBERG Robert           Le Dernier Chant d'Orph‚e ş2010 The Last Song of Orpheus şTrad. DOLISI Florence & CALLIER Jacqueline
@@ -425,6 +531,7 @@ o ACTU_PE     ?  2012.10 ..... ISBN 978-2-917689-40-0
 !------------------------
 o ACTUSF      ?  2013.02 ..... ISBN 978-2-917689-46-2
 } actusf43       _Cesar Moreno                ?
+!--- GF - 240 pages
 - .oS.    kN9    _BERROUKA Karim              Les ballons dirigeables rˆvent-ils de poup‚es gonflables ? ş2013
 : .o .     N     _BERROUKA Karim              L'Histoire commence … Falloujah ş2009
 : .oS.     N     _BERROUKA Karim              Concerto pour une r‚surrection ş2006
@@ -437,6 +544,7 @@ o ACTUSF      ?  2013.02 ..... ISBN 978-2-917689-46-2
 : .oF.     N     _BERROUKA Karim              Le Cirque des ombres ş2005
 o ACTUSF      ?  2013.03 ..... ISBN 978-2-917689-47-9
 } actusf44       _Gilles Francescano          ?
+!--- GF - 196 pages
 - .oS.    kN2    _AYERDHAL                    La TroisiŠme Lame ş2013
 : .o .     N     _AYERDHAL                    La TroisiŠme Lame ş1996
 : .oS.     N     _AYERDHAL                    Pollinisation ş2001
@@ -445,7 +553,8 @@ o ACTUSF      ?  2013.06 ..... ISBN 978-2-917689-50-9
 - .x .     R     _DI ROLLO Thierry            Les Solitudes de l'ours blanc ş2013
 o ACTUSF      ?  2013.06 ..... ISBN 978-2-917689-51-6
 } actusf46       _Daphn‚ Desroziers           ?
-- .oS.    kA10   *NICOT St‚phanie             Les Coups de coeur des Imaginales ş2013
+!--- GF - 320 pages
+- .oI.    kA10   *NICOT St‚phanie             Les Coups de coeur des Imaginales ş2013
 : .o .     p     _NICOT St‚phanie             Dix ans de coups de coeur ! ş2013
 : .o .     N     _DI ROLLO Thierry            Une simple promesse ş2013
 : .o .     N     _CAMUT J‚r“me                Le Secret de Parsigou ş2013
@@ -453,7 +562,7 @@ o ACTUSF      ?  2013.06 ..... ISBN 978-2-917689-51-6
 : .o .     N     _TANNER Rachel               La Strat‚gie du chasseur ş2013
 : .o .     N     _FAZI M‚lanie                Trois renards ş2013
 : .o .     N     _JAWORSKI Jean-Philippe      Profanation ş2013
-: .o .     N     _SIRE CEDRIC                 S‚r‚na ş2013
+: .o .     N     _SIRE CEDRIC                 S‚r‚na ş2004
 : .o .     N     _BOUSQUET Charlotte          La Nuit sur le plateau de K'fˆn ş2013
 : .o .     N     _DAVOUST Lionel              DerriŠre les barreaux ş2013
 : .o .     R     _BAILLY Samantha             Elixir ş2013
@@ -461,8 +570,9 @@ o ACTUSF      ?  2013.06 ..... ISBN 978-2-917689-49-3
 } actusf47       _Alexandre Bourgois          ?
 - .oS.     E     _BARILLIER Etienne          &Le Guide Steampunk ş2013
 &                _MORGAN Arthur               
-o ACTUSF      ?  2013.06 ..... ISBN 978-2-917689-53-0
+o ACTUSF      ?  2013.08 ..... ISBN 978-2-917689-53-0
 } actusf48       _Lasth                       ?
+!--- GF - 216 pages
 - .oYH     N9    _CABASSON Armand             La Chasse sauvage du colonel Rels ş2013
 : .o .     N     _CABASSON Armand             1348 ş2013
 : .o .     N     _CABASSON Armand             La Chasse sauvage du colonel Rels ş2013
@@ -475,6 +585,7 @@ o ACTUSF      ?  2013.06 ..... ISBN 978-2-917689-53-0
 : .o .     N     _CABASSON Armand             Les Mange-Sommeils ş2013
 o ACTUSF      ?  2013.10 ..... ISBN 978-2-917689-55-4
 } actusf49       _Vincent Callebaut           ?
+!--- GF - 392 pages
 - .oS.    kA14   ****                         Utopiales 13 ş2013
 : .o .     N     _GIBSON William              Dougal d‚sincarn‚ ş2010 Dougal Discarnate şTrad. QUEYSSI Laurent
 : .o .     N     _TRUDEL Jean-Louis           Trois relations de la fin de l'‚crivain ş2013
@@ -484,7 +595,7 @@ o ACTUSF      ?  2013.10 ..... ISBN 978-2-917689-55-4
 : .o .     N     _LAINE Sylvie                Grenade au bord du ciel ş2013
 : .o .     N     _BEAUVERGER St‚phane         Vert dur ş2013
 : .o .     N     _MORENO Lucas                Comment je suis devenu un biotech ş2013
-: .o .     N     _ANDREVON Jean-Pierre        Dans les mines de Mars ş2013
+: .o .     N     _ANDREVON Jean-Pierre        Dans les mines de Mars ş1971
 : .o .     N     _DI ROLLO Thierry            J'ai eu trente ans ş2013
 : .o .     N     _McDONALD Ian                Trois futurs ş2013 Three Futures şTrad. GOULLET Gilles
 : .o .     N     _DAY Thomas                  La Femme aux abeilles ş2013
@@ -498,6 +609,7 @@ o ACTU_PE     ?  2013.02 ..... ISBN 978-2-917689-45-5
 - .o .     R     _VANCE Jack                  Les Cinq Rubans d'or ş1950 The Five Gold Bands şTrad. HAAS Dominique
 o ACTU_PE     ?  2013.05 ..... ISBN 978-2-917689-48-6
 } actusfpe11     _Andy Brase                  ?
+!--- GF - 14 x 20 cm - 386 pages
 - .oY.    kA7    *DOZOIS Gardner R.          &Chansons de la Terre mourante - 1 [La Terre mourante] ş2009 Songs of the Dying Earth
 &                *MARTIN George R.R.          
 : .o .     p     _KOONTZ Dean R.              Merci, M. Vance ş2009 Thank You, Mr. Vance
@@ -511,11 +623,12 @@ o ACTU_PE     ?  2013.05 ..... ISBN 978-2-917689-48-6
 : .oY.     N     _VANDERMEER Jeff             La DerniŠre Quˆte du mage Sarnod ş2009 The Final Quest of the Wizard Sarnod şTrad. ?
 o ACTU_PE     ?  2013.10 ..... ISBN 978-2-917689-54-7
 } actusfpe12     _Andy Brase                  ?
+!--- GF - 14 x 20 cm - 432 pages
 - .oY.    kA7    *DOZOIS Gardner R.          &Chansons de la Terre mourante - 2 [La Terre mourante] ş2009 Songs of the Dying Earth
 &                *MARTIN George R.R.          
 : .o .     N     _LEE Tanith                  Evillo l'ing‚nu ş2009 Evillo the Uncunning şTrad. DOLISI Florence
 : .o .     N     _VOLSKY Paula                Les Traditions de Karzh ş2009 The Traditions of Karzh şTrad. CHAZEL C‚lia
-: .o .     N     _WILLIAMS Tad                La Trag‚die lamentablement comique (ou la com‚die ridiculement tragique) de Lixal Laqavee ş2009 The Lamentably Comical Tragedy (or The Laughably Tragic Comedy) of Lixal Laqavee şTrad. CHASTELLIERE Emmanuel
+: .o .     N     _WILLIAMS Tad                La Trag‚die lamentablement comique (ou la com‚die ridiculement tragique) de Lixal Laqavee ş2009 The Lamentably Comical Tragedy (or the Laughably Tragic Comedy) of Lixal Laqavee şTrad. CHASTELLIERE Emmanuel
 : .o .     N     _SHEPARD Lucius              La Proclamation de Sylgarmo ş2009 Sylgarmo's Proclamation şTrad. BREQUE Jean-Daniel
 : .o .     N     _HUGHES Matthew              Gorlion d'Alm‚rie ş2009 Grolion of Almery şTrad. DUSOULIER Patrick
 : .o .     N     _MOON Elizabeth              Incident … Uskvosk ş2009 An Incident in Uskvosk şTrad. DURASTANTI Pierre-Paul
@@ -523,6 +636,7 @@ o ACTU_PE     ?  2013.10 ..... ISBN 978-2-917689-54-7
 : .o .     N     _GAIMAN Neil                 Invocation de l'incuriosit‚ ş2009 An Invocation of Incuriosity şTrad. HOLSTEIN Eric
 o ACTU_PE     ?  2013.11 ..... ISBN 978-2-917689-56-1
 } actusfpe13     _BRASE Andrew                ?
+!--- GF - 140x200 - 326 pages
 - .oS.    kA7    _MARTIN George R.R.          Au fil du temps ş2013
 : .oS.     N     _MARTIN George R.R.          La Forteresse ş2003 The Fortress şTrad. HOLSTEIN Eric
 : .oS.     N     _MARTIN George R.R.          Et la mort est son h‚ritage... ş2003 And Death His Legacy şTrad. HOLSTEIN Eric
@@ -542,15 +656,17 @@ o ACTUSF      ?  2014.04 ..... ISBN 978-2-917689-61-5
 } actusf51       _Diego Tripodi               ?
 - .oPY     R     _BERROUKA Karim              F‚es, weed et guillotines - Petite fantaisie pleine d'urbanit‚ ş2014
 o ACTUSF      ?  2014.04 ..... ISBN 978-2-917689-36-3
-} actusf52       _FRANCESCANO Gilles          N
+} actusf52       _Gilles Francescano          N
 - .oS.    _N4    _LAINE Sylvie                L'Op‚ra de Shaya ş2014
+!--- GF - 192 pages
 : .o .     p     _LIGNY Jean-Marc             Le paradis, c'est les autres ? ş2014
 : .o .     N     _LAINE Sylvie                L'Op‚ra de Shaya ş2014
-: .o .     N     _LAINE Sylvie                Grenade au bord du ciel ş2014
+: .o .     N     _LAINE Sylvie                Grenade au bord du ciel ş2013
 : .o .     N     _LAINE Sylvie                Petits arrangements intra-galactiques ş2012
 : .o .     N     _LAINE Sylvie                Un amour de sable ş2014
 o ACTUSF      ?  2014.04 ..... ISBN 978-2-917689-63-9
-} actusf53       _HASE Ryohei                 ?
+} actusf53       _Ryohei Hase                 ?
+!--- GF - 384 pages
 - .oY.    kA9    ****                         Lancelot ş2014
 : .o .     N     _DAU Nathalie                Le Donjon noir ş2014
 : .o .     N     _CLAVEL Fabien               Lancelot-Dragon ş2014
@@ -567,19 +683,17 @@ o ACTUSF      ?  2014.06 ..... ISBN 978-2-917689-66-0
 - .oS.     R     _HEYLBROECK Julien           Stoner Road ş2014
 o ACTUSF      ?  2014.08 ..... ISBN 978-2-917689-67-7
 } actusf55       _SAHLSTROM Henrik            ?
-!--- R‚vis‚ en seul roman; Prologue - Le Coz-Pors + 3 parties correspondants au 3 romans
-?: .oS.     R     _LIGNY Jean-Marc             Rasalgethi [La Saga d'Oap Ta” - 1] ş1990-2014
-?: .oS.     R     _LIGNY Jean-Marc             Apex M57 [La Saga d'Oap Ta” - 2] ş1990-2014
-?: .oS.     R     _LIGNY Jean-Marc             B‚r‚nice [La Saga d'Oap Ta” - 3] ş1990-2014
+>--- R‚vis‚ en seul roman, contenu un Prologue (Le Coz-Pors) puis les trois parties correspondants au 3 romans, Rasalgethi, Apex M5  et B‚r‚nice.
 - .oS.     R     _LIGNY Jean-Marc             La Saga d'Oap T„o [La Saga d'Oap Ta” - 1/3] ş1990-2014
 o ACTUSF      ?  2014.10 ..... ISBN 978-2-917689-75-2
 } actusf56       _WORM Damien                 ?
 - .oF.     R     _DEBATS Jeanne-A             L'H‚ritiŠre [Navarre] ş2014
 o ACTUSF      ?  2014.11 ..... ISBN 978-2-917689-72-1
-} actusf57       _SAVA Laura                  ?
+} actusf57       _Laura Sava                  ?
+!--- GF - 424 pages
 - .oS.    kA11   ****                         Utopiales 14 ş2014
 : .o .     p     _RUMPALA Yannick             Intelligence(s) ş2014
-: .o .     N     _GENEFORT Laurent            Chaperon ş2014
+: .o .     N     _GENEFORT Laurent            Chaperon ş2010
 : .o .     N     _HENRY L‚o                   Fe6 !! ou La Transfiguration de Bobby J. Fischer ş2014
 : .o .     N     _WALTON Jo                   En sommeil ş2014 Sleeper şTrad. DENIS Sylvie
 : .o .     N     _GLUKHOVSKY Dmitry           L'Evangile selon Artyom [M‚tro 2033] ş2011 Yevangu‚lie ot Artioma şTrad. SAVINE Denis E.
@@ -596,11 +710,11 @@ o ACTUSF      ?  2014.11 ..... ISBN 978-2-917689-72-1
 !----
 o ACTU_PE     ?  2014.02 ..... ISBN 978-2-917689-60-8
 } actusfpe14     _Yana Moskaluk               ?
-!--- broch‚ - 288 pages - 19.00 euros
+!--- broch‚ - GF - 140x200 - 288 pages - 19.00 euros
 + ACTU_PE     ?  2020.07 ..... ISBN 978-2-37686-306-9
 } actusfpe14     _Zariel                      ?
 !--- broch‚ - 19.90 euros
-- .oY.    kN6    _BRUST Steven               &Liavek [Liavek] ş2014
+- .oY.    kA6    _BRUST Steven               &Liavek [Liavek] ş2014
 &                _FROST Gregory              &
 &                _LINDHOLM Megan             
 : .o .     N     _BRUST Steven                Un acte de contrition [Liavek] ş1985 An Act of Contrition şTrad. CALLIER Jacqueline
@@ -614,7 +728,7 @@ o ACTU_PE     ?  2014.02 ..... ISBN 978-2-917689-60-8
 &                _LINDHOLM Megan             
 o ACTU_PC     ?  2018.06 ..... ISBN 978-2-36629-890-1
 } actusfpe14rr18 _Ammo                        ?
-- .oY.    kN6    _BRUST Steven               &Liavek [Liavek] ş2014
+- .oY.    kA6    _BRUST Steven               &Liavek [Liavek] ş2014
 &                _FROST Gregory              &
 &                _LINDHOLM Megan             
 : .o .     N     _BRUST Steven                Un acte de contrition [Liavek] ş1985 An Act of Contrition şTrad. CALLIER Jacqueline
@@ -627,7 +741,8 @@ o ACTU_PC     ?  2018.06 ..... ISBN 978-2-36629-890-1
 &                _FROST Gregory              &
 &                _LINDHOLM Megan             
 o ACTU_PE     ?  2014.06 ..... ISBN 978-2-917689-64-6
-} actusfpe15     _CHANG Jun Shan              ?
+} actusfpe15     _Jung Shan Chang             ?
+!--- GF - 448 pages
 - .oS.    kN7    _SILVERBERG Robert           DerniŠres nouvelles de Majipoor [Majipoor] ş2013 Tales of Majipoor
 : .oS.     N     _SILVERBERG Robert           Le Bout du chemin [Majipoor] ş2011 The End of the Line şTrad. HOLSTEIN Eric
 : .oS.     N     _SILVERBERG Robert           Le Livre des changements [Majipoor] ş2003 The Book of Changes şTrad. PUGI jean-Pierre
@@ -638,7 +753,8 @@ o ACTU_PE     ?  2014.06 ..... ISBN 978-2-917689-64-6
 : .oS.     N     _SILVERBERG Robert           Le SeptiŠme Sanctuaire [Majipoor] ş1998 The Seventh Shrine şTrad. HOLSTEIN Eric
 o ACTU_PE     ?  2014.09 ..... ISBN 978-2-917689-69-1
 } actusfpe16     _SAHLSTROM Henrik            ?
-- .oS.    kA7    _MARTIN George R.R.          La Fleur de verre ş2014
+!--- GF - 140x200 - 314 pages
+- .oI.    kA7    _MARTIN George R.R.          La Fleur de verre ş2014
 : .o .     p     _VINCENT J‚r“me              Note de l'‚diteur ş2014
 : .o .     N     _MARTIN George R.R.          Fleur de verre ş1986 The Glass Flower şTrad. HOLSTEIN Eric
 : .o .     N     _MARTIN George R.R.          Une nuit au chalet du lac ş2009 A Night at the Tarn House şTrad. HOLSTEIN Eric
@@ -666,12 +782,16 @@ o ACTUSF      ?  2015.01 ..... ISBN 978-2-917689-74-5
 o ACTUSF      ?  2015.03 ..... ISBN 978-2-917689-83-7
 } actusf60       _JAKUBIEC Milek              ?
 !--- Pr‚face de Ugo Bellagamba
++ ACTUSF      ?  2021.04 ..... ISBN 978-2-37686-339-7
+} noimg          _?                           ?
+!--- GF - 140 x 200 - 304 pages
 - .oY.     RN    _DEL SOCORRO Jean-Laurent    Royaume de vent et de colŠres ş2015
 : .o .     p     _BELLAGAMBA Ugo              Pr‚face ş2015
 : .o .     R     _DEL SOCORRO Jean-Laurent    Royaume de vent et de colŠres ş2015
 : .o .     N     _DEL SOCORRO Jean-Laurent    Gabin sans "aime" ş2015
 o ACTUSF      ?  2015.04 ..... ISBN 978-2-917689-85-1
-} actusf61       _VILLENEUVE Magalie & DAINCHE Alexandre
+} actusf61       _Magali Villeneuve & Alexandre Dainche
+!--- GF - 304 pages
 - .oY.    kA10   *FRANCES Val‚rie             Trolls et l‚gendes - L'anthologie officielle ş2015
 : .o .     p     _FRANCESCANO Gilles          Pr‚face ş2015
 : .o .     N     _PEVEL Pierre                Sous les ponts de Paris [Le Paris des merveilles] ş2015
@@ -694,7 +814,6 @@ o ACTUSF      ?  2015.09 ..... ISBN 978-2-917689-93-6
 } actusf64       _Diego Tripodi               ?
 - .oS.     RN7   _ANDREVON Jean-Pierre        Le Travail du furet ş2015
 : .o .     R     _ANDREVON Jean-Pierre        Le Travail du furet ş1983
-?: .oS.     .     _ANDREVON Jean-Pierre        Synopsis du tome 2 ş2015
 : .o .     N     _ANDREVON Jean-Pierre        Le Dernier Dinosaure ş1977
 : .oS.     N     _ANDREVON Jean-Pierre        Exzone Z ş1976
 : .o .     N     _ANDREVON Jean-Pierre        Un combattant modŠle ş1970
@@ -707,6 +826,7 @@ o ACTUSF      ?  2015.11 ..... ISBN 978-2-917689-95-0
 - .oS.     R     _CLAVEL Fabien               Feuillets de cuivre ş2015
 o ACTUSF      ?  2015.11 ..... ISBN 978-2-917689-97-4
 } actusf66       _MANCHU                      ?
+!--- GF - 408 pages
 - .oS.    kA11   ****                         Utopiales 15 ş2015
 : .o .     p     _LAINE Sylvie               &R‚alit‚s ş2015
 &                _LEHOUCQ Roland              
@@ -730,7 +850,8 @@ o ACTUSF      ?  2015.06 ..... ISBN 978-2-917689-89-9
 } noimg          _Roberlan Borges             ?
 - .oS.     E     *COMBALLOT Richard           Philip K. Dick - Simulacres et illusions ş2015
 o ACTUSF      ?  2015.10 ..... ISBN 978-2-917689-99-8
-}actusf102015-hs _Diego Tripodi               ?
+} actusf102015-hs _Diego Tripodi               ?
+!--- GF - 128 pages
 !--- Ouvrage offert pour deux livres achet‚s
 - .oS.    kN5    _HENRY L‚o                   Philip K. Dick Goes to Hollywood ş2015
 : .oS.     N     _HENRY L‚o                   Philip Goes to Hollywood ş2015
@@ -743,7 +864,7 @@ o ACTUSF      ?  2015.10 ..... ISBN 978-2-917689-99-8
 !----
 o ACTU_PE     ?  2015.02 ..... ISBN 978-2-917689-81-3
 } actusfpe19     _Jamie Olivier               ?
-- .oS.     R     _ROBINSON Spider            &La Danse des ‚toiles ş1977 Stardance şTrad. MANCHETTE M‚lissa
+- .oS.     R     _ROBINSON Spider            &La Danse des ‚toiles ş1979 Stardance şTrad. MANCHETTE M‚lissa
 &                _ROBINSON Jeanne             
 o ACTU_PE     ?  2015.08 ..... ISBN 978-2-917689-87-5
 } actusfpe20     _Diego Tripodi               ?
@@ -775,6 +896,7 @@ o ACTUSF      ?  2016.05 ..... ISBN 978-2-36629-816-1
 ?- .oF.     G     _GUERINEAU J‚r‚my            Le Guide Stephen King ş2016
 o ACTUSF      ?  2016.11 ..... ISBN 978-2-36629-828-4
 } actusf72       _?                           ?
+!--- GF - 496 pages
 - .oS.    kN26   _LAINE Sylvie                FidŠle … ton pas balanc‚ ş2016
 : .oS.     p     _LAINE Sylvie                Pr‚face ş2016
 : .oS.     N     _LAINE Sylvie                Question de mode ş2007
@@ -795,7 +917,7 @@ o ACTUSF      ?  2016.11 ..... ISBN 978-2-36629-828-4
 : .oS.     N     _LAINE Sylvie                Le Chemin de la rencontre ş1985
 : .o .     N     _LAINE Sylvie                L'Op‚ra de Shaya ş2014
 : .oS.     N     _LAINE Sylvie                D‚finissez : priorit‚s ş2000
-: .o .     N     _LAINE Sylvie                Grenade au bord du ciel ş2014
+: .o .     N     _LAINE Sylvie                Grenade au bord du ciel ş2013
 : .o .     N     _LAINE Sylvie                Un amour de sable ş2014
 : .oS.     N     _LAINE Sylvie                Temps, bulle et patchouli ş2016
 : .oS.     N     _LAINE Sylvie                La Mirotte ş2001
@@ -805,8 +927,9 @@ o ACTUSF      ?  2016.11 ..... ISBN 978-2-36629-828-4
 : .o .     N     _LAINE Sylvie                FidŠle … ton pas balanc‚ ş2009
 o ACTUSF      ?  2016.11 ..... ISBN 978-2-36629-827-7
 } actusf73       _Daniel Bajram               ?
-- .oS.    kA13   ****                         Utopiales 16 ş2016
+!--- GF - 352 pages
 !--- Titre int‚rieur "Utopiales 2016"
+- .oS.    kA13   ****                         Utopiales 16 ş2016
 : .o .     p     _KLEIN G‚rard                De l'outil … la machine, et au-del… ş2016
 : .o .     N     _BREAN Simon                 La Vieille Dame ş2016
 : .o .     N     _LECKIE Ann                  Pour Hesperia et pour la gloire ş2006 Hesperia and Glory şTrad. DEVOS Erwan et HEMON Hermine
@@ -867,20 +990,20 @@ o ACTUSF      ?  2017.03 ..... ISBN 978-2-36629-834-5
 - .oF.     E     _***                         Lovecraft - Au coeur du cauchemar ş2017
 o ACTUSF      ?  2017.11 ..... ISBN 978-2-36629-856-7
 } actusf112017_1 _Laurent Durieux             ?
-- .oS.     A11   ****                         Utopiales 17 ş2017
+!--- GF - 328 pages
 !--- Titre int‚rieur "Utopiales 2017"
+!--- Contient, aprŠs le texte de Moorcock, 2 poŠmes de KAY Guy Gavriel , tradutuis par DEVOS Erwan et HEMON Hermine
+- .oS.     A11   ****                         Utopiales 17 ş2017
 : .o .     p     _DOUAY Dominique             Ding ş2017
 : .o .     N     _DEL SOCORRO Jean-Laurent    43 200 secondes ş2017
 : .o .     N     _NEWMAN Emma                 La Place d'une femme ş2014 A Woman's Place şTrad. DEVOS Erwan et HEMON Hermine
-: .o .     N     _GECHTER Olivier             Huit siŠcle sur une ‚chelle de temps ş2017
+: .o .     N     _GECHTER Olivier             Huit siŠcles sur une ‚chelle de temps ş2017
 : .o .     N     _OUALI Nabil                 Le Sphincter de l'oesophage ş2017
 : .o .     N     _JINGFANG Hao                P‚kin origami ş2014 Beijing Zhedie şTrad. VALLET Michel
 : .o .     N     _FAYE Estelle                Les Anges tiŠdes ş2016
 : .o .     N     _GELINAS Ariane              Les Cristallines ş2017
 : .o .     N     _REY Timoth‚e                Les arbres sont des gens comme les autres ş2017
 : .o .     N     _MOORCOCK Michael            Les Oiseaux lunaires ş1995 The Birds of the Moon şTrad. DURASTANTI Pierre-Paul
-!--- 2 poŠmes    _KAY Guy Gavriel             ? ş? ? şTrad. DEVOS Erwan et HEMON Hermine
-!--- 2 poŠmes    _KAY Guy Gavriel             ? ş? ? şTrad. DEVOS Erwan et HEMON Hermine
 : .o .     N     _DAVOUST Lionel              L'Œle close ş2008
 : .o .     N     _ALWETT Audrey               Le Gnome qui voulut ˆtre f‚e ş2017
 o ACTUSF      ?  2017.10 ..... ISBN 978-2-36629-842-0
@@ -894,6 +1017,10 @@ o ACTUSF      ?  2017.11 ..... ISBN 978-2-36629-858-1
 !----
 o ACTU_PE     ?  2017.06 ..... ISBN 978-2-36629-844-4
 } noimg          _Fredrik Rattzen             ?
+!--- GF - 464 pages
++ ACTU_PE     ?  2022.01 ..... ISBN 978-2-37686-400-4
+} noimg          _AMMO                        ?
+!--- GF - 150x210 - 635 pages
 - .oS.     R     _RUSSELL Mary Doria          Le Moineau de Dieu ş1996 The Sparrow şTrad. VIERNE B‚atrice
 o ACTU_PE     ?  2017.10 ..... ISBN 978-2-36629-854-3
 } noimg          _Travis Davids               ?
@@ -939,18 +1066,19 @@ o ACTU_CO     ?  2018.06 ..... ISBN 978-2-36629-889-5
 : .o .     N     _DEL SOCORRO Jean-Laurent    Le vert est ‚ternel ş2015
 o ACTUSF      ?  2018.09 ..... ISBN 978-2-36629-951-9
 } actusf80       _Beb-deum                    ?
+!--- Jeunesse - GF - 144 pages
 - .oS.     A5    *DEBATS Jeanne-A             Les Utop' 18 jeunesse ş2018
 : .o .     p     _DEBATS Jeanne-A             Pr‚face ş2018
-: .o .     N     _LAINE Sylvie                M‚lomania ş2018
+: .o .     N     _LAINE Sylvie                M‚lomania ş2015
 : .o .     N     _MARTINIGOL Danielle         CrŠve-Horizon ş2018
 : .o .     N     _DENIS Sylvie                Sans but ni fin ni port d'attache ş2018
 : .o .     N     _BOUCHET Nils                Un programme sachant tuer ş2018
 : .o .     N     _ROLAND Louane               Nouvelle mode ş2018
 o ACTUSF      ?  2018.11 ..... ISBN 978-2-36629-947-2
 } actusf81       _Beb-deum                    ?
-- .oS.     A13   ****                         Utopiales 18 ş2018
+!--- GF - 328 pages
 !--- Titre int‚rieur "Utopiales 2018"
-!: .o .     p     _***                         Avant-propos ş2018
+- .oS.     A13   ****                         Utopiales 18 ş2018
 : .o .     N     _COTTE Olivier               AnamnŠse de la chair ş2018
 : .o .     N     _LI-CAM                      Monade Incarnate ş2018
 : .o .     N     _GENEFORT Laurent            Conatus ş2018
@@ -960,9 +1088,9 @@ o ACTUSF      ?  2018.11 ..... ISBN 978-2-36629-947-2
 : .o .     N     _DEWDNEY Patrick K.          Ascension ş2018
 : .o .     N     _LE GUIN Ursula K.           La PremiŠre Pierre ş1992 The Rock That Changed Things şTrad. ?
 : .o .     N     _WINTERS Ben H.              Le Gar‡on du go–teur ş2013 The Food Taster's Boy şTrad. ?
-: .o .     N     _CAUSSARIEU Morgane          Le Syndrome de Pan ş2018
-: .o .     N     _JOHNSON Kij                 Magie des renards ş2013 Fox Magic şTrad. ?
-: .o .     N     _VONARBURG Elisabeth         L'Amour au temps des chimŠres ş2018
+: .o .     N     _CAUSSARIEU Morgane          Le Syndrome de Pan ş2015
+: .o .     N     _JOHNSON Kij                 Magie des renards ş1993 Fox Magic şTrad. ?
+: .o .     N     _VONARBURG Elisabeth         L'Amour au temps des chimŠres ş2011
 : .o .     N     _EVANS Alex                  La Pluie ş2018
 : .o .     N     _ROUSSEAU Jehanne            Morts … cr‚dits ş2018
 !----
@@ -974,13 +1102,14 @@ o ACTU_PE     ?  2018.01 ..... ISBN 978-2-36629-860-4
 - .o .     R     _ZELAZNY Roger               Le Songe d'une nuit d'octobre ş1993 A Night in the Lonesome October şTrad. DESMARAIS Ange
 o ACTU_PE     ?  2018.10 ..... ISBN 978-2-36629-927-4
 } actusfpe27     _Zariel                      ?
+!--- GF - 140x200 - 492 pages
 - .oS.    kRN5   _MARTIN George R.R.          Nightflyers et autres r‚cits ş2018
-: .o .     R     _MARTIN George R.R.          Le Volcryn ş1981 Nightflyers şTrad. SABATHE-RICKLIN Odile + AYERDHAL
+: .o .     r     _MARTIN George R.R.          Le Volcryn ş1980 Nightflyers şTrad. SABATHE-RICKLIN Odile + AYERDHAL
 : .o .     N     _MARTIN George R.R.          Pour une poign‚e de volutoines ş1973 Override şTrad. CARTANAS Monique & LUONG M.-C.
 : .o .     N     _MARTIN George R.R.          Week-end en zone de guerre ş1977 Weekend in a War Zone şTrad. HOLSTEIN Eric
 : .o .     N     _MARTIN George R.R.          Sept fois, sept fois l'homme, jamais ! ş1975 And Seven Times Never Kill Man şTrad. CARTANAS Monique & LUONG M.-C.
 : .o .     N     _MARTIN George R.R.          Ni les feux multicolores d'un anneau stellaire ş1976 Nor the Many-Colored Fires of a Star Ring şTrad. DEVOS Erwan & HEMON Hermione
-: .o .     N     _MARTIN George R.R.          Une chanson pour Lya ş1973 A Song for Lya şTrad. CARTANAS Monique & LUONG M.-C.
+: .o .     N     _MARTIN George R.R.          Une chanson pour Lya ş1974 A Song for Lya şTrad. CARTANAS Monique & LUONG M.-C.
 o ACTU_PE     ?  2018.10 ..... ISBN 978-2-36629-911-3
 } noimg          _Cindy Can‚vet               ?
 - .oS.     R     _KRESS Nancy                 Les Hommes d‚natur‚s ş1998 Maximum Light şTrad. CHAMBON Jean-Marc
@@ -1040,12 +1169,13 @@ o ACTUSF      ?  2019.05 ..... ISBN 978-2-36629-466-8
 ! .o .     E     _TUAILLON-DEMESY Audrey      L'exp‚rience ludique de l'histoire. L'exemple des combats en reconstitution historique ş2019
 o ACTUSF      ?  2019.10 ..... ISBN 978-2-36629-478-1
 } noimg          _Zariel                      ?
-- .oS.     R     _BARILIER Etienne           &Les Brigades du Steam ş2019
+- .oS.     R     _BARILLIER Etienne          &Les Brigades du Steam [Les Brigades du Steam - 1] ş2019
 &                _DUQUENNE C‚cile             
 o ACTUSF      ?  2019.11 ..... ISBN 978-2-36629-483-5
 } actusf112019_0 _Mathieu Bablet              ?
-- .oS.     A14   ****                         Utopiales 19 ş2019
+!--- GF - 440 pages
 !--- Titre int‚rieur "Utopiales 2019"
+- .oS.     A14   ****                         Utopiales 19 ş2019
 : .o .     p     _BELLAGAMBA Ugo              Pr‚face ş2019
 : .o .     N     _LEOURIER Christian          Une faute de go–t ş2019
 : .o .     N     _BARBERI Jacques             Neurostar ş2019
@@ -1063,7 +1193,18 @@ o ACTUSF      ?  2019.11 ..... ISBN 978-2-36629-483-5
 : .o .     N     _ECKEN Claude                La Promesse du monstre ş2019
 o ACTUSF      ?  2019.11 ..... ISBN 978-2-36629-484-2
 } actusf112019_3 _Mathieu Bablet              ?
-- .oS.    iA5    *DEBATS Jeanne-A             Les Utop' 19 jeunesse ş2019
+!--- Jeunesse - GF - 200 pages
+- .oS.     A10   *DEBATS Jeanne-A             Les Utop' 19 jeunesse ş2019
+: .o .     N     _ANGE                        Un monde o— elle serait libre ş2019
+: .o .     N     _BELLAGAMBA Ugo              Les M-uses ş2019
+: .o .     N     _DIXEN Victor                Rˆvolution ş2019
+: .o .     N     _COUZIGOU Magali             Nature humaine ş2015
+: .o .     N     _DEBATS Jeanne-A             Avertissement ş2019
+: .o .     N     _LUCAS Romain                Premier Contact ş2019
+: .o .     N     _LEGOFF Luna                 Sentiments 2.0 ş2019
+: .o .     N     _DAOULAS-ETOURNEAU Areski    In an emotional I.A. ş2019
+: .o .     N     _OUDIT Jeanne                Microman ş2019
+: .o .     N     _DAOULAS-ETOURNEAU Areski    Temporall 3 ş2019
 !----
 !--- Perles d'Epice
 !----
@@ -1083,7 +1224,7 @@ o ACTU_PE     ?  2019.05 ..... ISBN 978-2-36629-995-3
 - .oS.     R     _WILSON Robert Charles       Bios ş1999 Bios şTrad. GOULLET Gilles
 o ACTU_PE     ?  2019.06 ..... ISBN 978-2-36629-467-5
 } noimg          _?                           ?
-- .oY.     R     _LINDHOLM Megan              Le Dieu dans l'ombre ş1991 Cloven Hooves şTrad. RICHETIN Claudine
+- .oF.     R     _LINDHOLM Megan              Le Dieu dans l'ombre ş1991 Cloven Hooves şTrad. RICHETIN Claudine
 o ACTU_PC     ?  2019.07 ..... ISBN 978-2-37686-200-0
 } noimg          _Cindy Can‚vet               ?
 !--- Edition collector, int‚grale en un tome, limit‚e … 70 exemplaires num‚rot‚s. 
@@ -1094,20 +1235,24 @@ o ACTU_PC     ?  2019.10 ..... ISBN 978-2-36629-477-4
 - .oF.     R     _DEL SOCORRO Jean-Laurent    Je suis fille de rage ş2019
 o ACTU_PC     ?  2019.10 ..... ISBN 978-2-36629-479-8
 } actusf086      _AMMO                        ?
-- .oY.    iRN5   _KUSHNER Ellen               A la pointe de l'‚p‚e ş2019
+- .oY.     RN10  _KUSHNER Ellen               A la pointe de l'‚p‚e ş2019
 !--- Edition augment‚e de nouvelles (dont certaines in‚dites en fran‡ais), mais aussi de textes en exclusivit‚ mondiale : les lettres d'Octavia Saint-ViŠre
-!--- Les Lettres d'Octavia Saint-ViŠre sont intercal‚es entre chaque nouvelle
-: .oY.     p     _NICOT St‚phanie             Le Cycle de Richard Saint-ViŠre ş2019
+>--- Les Lettres d'Octavia Saint-ViŠre sont intercal‚es entre chaque nouvelle
+: .oY.     p     _NICOT St‚phanie             Le Cycle de Richard Saint-ViŠre... ş2019
 : .oS.     N     _KUSHNER Ellen               Un jeune homme de mauvaise vie ş2009 A Wild and a Wicked Youth şTrad. MARCEL Patrick
 : .oY.     N     _KUSHNER Ellen               Lettre de Anne Chilton … Octavia Saint-ViŠre ş2019 ? şTrad. MARCEL Patrick
 : .oY.     N     _KUSHNER Ellen               Au temps o— j'‚tais brigand ş2017 When I Was a Highwayman şTrad. MARCEL Patrick
-: .oS.     N     _KUSHNER Ellen               Le Bretteur qui n'‚tait pas la Mort ş1991 The Swordsman Whose Name Was Not Death şTrad. MARCEL Patrick
+: .oY.     N     _KUSHNER Ellen               Lettre de Arnulf Saint-ViŠre … Octavia Saint-ViŠre ş2019 ? şTrad. MARCEL Patrick
 : .oY.     R     _KUSHNER Ellen               A la pointe de l'‚p‚e ş1987 Swordpoint şTrad. MARCEL Patrick
+: .oY.     N     _KUSHNER Ellen               Lettre de Diane, Duchesse de Tr‚montaine, … MaŒtre Arnulf Saint-ViŠre ş2019 ? şTrad. MARCEL Patrick
+: .oS.     N     _KUSHNER Ellen               Le Bretteur qui n'‚tait pas la Mort ş1991 The Swordsman Whose Name Was Not Death şTrad. MARCEL Patrick
+: .oY.     N     _KUSHNER Ellen               Lettre … MaŒtre Richard Saint-ViŠre aux bons soins de la Taverne du Chien Brun, les Bords-d'Eaux ş2019 ? şTrad. MARCEL Patrick
 : .oY.     N     _KUSHNER Ellen               Le Duc des Bords-d'Eaux ş2011 The Duke of Riverside şTrad. MARCEL Patrick
+: .oY.     N     _KUSHNER Ellen               Epilogue ş2019 ? şTrad. MARCEL Patrick
 : .oY.     N     _KUSHNER Ellen               Cape-Rouge ş1982 Red-Cloak şTrad. MARCEL Patrick
 o ACTU_PC     ?  2019.11 ..... ISBN 978-2-36629-480-4
 } noimg          _AMMO                        ?
-- .oF.     R     _MARTIN George R.R.          Skin Trade ş1988 The Skin Trade şTrad. HOUESNARD Anna‹g
+- .oF.     r     _MARTIN George R.R.          Skin Trade ş1988 The Skin Trade şTrad. HOUESNARD Anna‹g
 o ACTU_PE     ?  2019.11 ..... ISBN 978-2-36629-480-4
 } noimg          _?                           ?
 - .o .     r     _KLAGES Ellen                Passing Strange ş2017 Passing Strange şTrad. HOLSTEIN Eric
@@ -1129,30 +1274,31 @@ o ACTUSF      ?  2020.01 ..... ISBN 978-2-37686-235-2
 - .o .     R     _VERLOMME Hugo               Mermere [Mermere - 1] ş1978-2020
 o ACTU_PE     ?  2020.01 ..... ISBN 978-2-36629-480-4
 } actusfpe35     _?                           ?
+!--- GF - 14x20 - 250 pages
 - .oI.     N21   _OKORAFOR Nnedi              Kabu Kabu ş2013 Kabu Kabu şTrad. DECHESNE Patrick
-: .o .   9 p     _GOLDBERG Whoopi             Avant propos ş2013 Foreword
-: .o .  11 N     _OKORAFOR Nnedi              Le nŠgre magique ş2004 The Magical Negro
-: .o .  15 N     _OKORAFOR Nnedi              Kabu Kabu ş2013 Kabu Kabu
-: .o .  49 N     _OKORAFOR Nnedi              La tache noire ş2013 The Black Stain
-: .o .  61 N     _OKORAFOR Nnedi              Tumaki ş2010 Tumaki
-: .o .  93 N     _OKORAFOR Nnedi              Comment Inyang obtint ses ailes ş2013 How Inyang Got Her Wings
-: .o . 119 N     _OKORAFOR Nnedi              Les vents de l'harmattan ş2003 Asuquo, or The Winds of Harmattan
-: .o . 141 N     _OKORAFOR Nnedi              Les coureurs de vent ş2002 Windseekers
-: .o . 157 N     _OKORAFOR Nnedi              Biafra ş2005 Biafra
-: .o . 167 N     _OKORAFOR Nnedi              La maison des difformit‚s ş2013 The House of Deformities
-: .o . 185 N     _OKORAFOR Nnedi              Le tapis ş2013 The Carpet
-: .o . 201 N     _OKORAFOR Nnedi              Sur la route ş2009 On the Road
-: .o . 229 N     _OKORAFOR Nnedi              Ic“ne ş2010 Icon
-: .o . 245 N     _OKORAFOR Nnedi              Popular mechanic ş2007 The Popular Mechanic
-: .o . 261 N     _OKORAFOR Nnedi              L'artiste araign‚e ş2008 Spider the Artist
-: .o . 281 N     _OKORAFOR Nnedi              Bakasi ş2013 Bakasi Man
-: .o . 293 N     _OKORAFOR Nnedi              S‚par‚s ş2007 Asunder
-: .o . 305 N     _OKORAFOR Nnedi              La guerre des babouins ş2012 The Baboon War
-: .o . 321 N     _OKORAFOR Nnedi              L'affreux oiseau ş2013 The Ghastly Bird
-: .o . 329 N     _OKORAFOR Nnedi              Le bandit des palmiers ş2000 The Palm Tree Bandit
-: .o . 335 N     _OKORAFOR Nnedi              L'homme au long juju ş2003 Long Juju Man
-!: .o . 341 a     _OKORAFOR Nnedi              Zula, de la cour de r‚cr‚ de quatriŠme
-!: .o . 349 a     _OKORAFOR Nnedi              La fille qui court
+: .o .     p     _GOLDBERG Whoopi             Avant propos ş2013 Foreword
+: .o .     N     _OKORAFOR Nnedi              Le NŠgre magique ş2004 The Magical Negro
+: .o .     N     _OKORAFOR Nnedi              Kabu Kabu ş2013 Kabu Kabu
+: .o .     N     _OKORAFOR Nnedi              La Tache noire ş2013 The Black Stain
+: .o .     N     _OKORAFOR Nnedi              Tumaki ş2010 Tumaki
+: .o .     N     _OKORAFOR Nnedi              Comment Inyang obtint ses ailes ş2013 How Inyang Got Her Wings
+: .o .     N     _OKORAFOR Nnedi              Les Vents de l'harmattan ş2003 Asuquo, or the Winds of Harmattan
+: .o .     N     _OKORAFOR Nnedi              Les Coureurs de vent ş2002 Windseekers
+: .o .     N     _OKORAFOR Nnedi              Biafra ş2005 Biafra
+: .o .     N     _OKORAFOR Nnedi              La Maison des difformit‚s ş2013 The House of Deformities
+: .o .     N     _OKORAFOR Nnedi              Le Tapis ş2013 The Carpet
+: .o .     N     _OKORAFOR Nnedi              Sur la route ş2009 On the Road
+: .o .     N     _OKORAFOR Nnedi              Ic“ne ş2010 Icon
+: .o .     N     _OKORAFOR Nnedi              Popular mechanic ş2007 The Popular Mechanic
+: .o .     N     _OKORAFOR Nnedi              L'Artiste araign‚e ş2008 Spider the Artist
+: .o .     N     _OKORAFOR Nnedi              Bakasi ş2013 Bakasi Man
+: .o .     N     _OKORAFOR Nnedi              S‚par‚s ş2007 Asunder
+: .o .     N     _OKORAFOR Nnedi              La Guerre des babouins ş2012 The Baboon War
+: .o .     N     _OKORAFOR Nnedi              L'Affreux Oiseau ş2013 The Ghastly Bird
+: .o .     N     _OKORAFOR Nnedi              Le Bandit des palmiers ş2000 The Palm Tree Bandit
+: .o .     N     _OKORAFOR Nnedi              L'Homme au long juju ş2003 Long Juju Man
+: .o .     a     _OKORAFOR Nnedi              Zula, de la cour de r‚cr‚ de quatriŠme
+: .o .     a     _OKORAFOR Nnedi              La Fille qui court
 o ACTU_BW     ?  2020.02 ..... ISBN 978-2-37686-237-6
 !--- broch‚ - 19,90 euros
 } actusfbw13     _Dogan Oztel                 ?
@@ -1163,11 +1309,11 @@ o ACTUSF      ?  2020.05 ..... ISBN 978-2-37686-242-0
 - .oPF     R     _AURIBEAU Philippe           carlate ş2020
 o ACTU_GR     ?  2020.05 ..... ISBN 978-2-37686-255-0
 } actusfgraph02  _Cindy Can‚vet              Cindy Can‚vet
-!--- reli‚ sous jaquette - 128 pages - 19,00 euros
+!--- reli‚ - jaquette - 128 pages - 19,00 euros
 - .oY.     N     _MOORE Alan                  L'HypothŠse du l‚zard [Liavek] ş1987 A Hypothetical Lizard şTrad. MARCEL Patrick
 o ACTU_GR     ?  2020.06 ..... ISBN 978-2-37686-253-6
 } actusfgraph01  _Marc Simonetti             Marc Simonetti
-!--- reli‚ sous jaquette - 128 pages - 19,00 euros
+!--- reli‚ - jaquette - 128 pages - 19,00 euros
 !--- [Royaume de vent et de colŠres]
 - .oY.     N     _DEL SOCORRO Jean-Laurent    La Guerre des trois rois ş2020                
 o ACTUSF      ?  2020.06 ..... ISBN 978-2-37686-249-9
@@ -1181,11 +1327,11 @@ o ACTUSF      ?  2020.06 ..... ISBN 978-2-37686-223-9
 &                _TRESPALLE Nicolas           
 o ACTUSF      ?  2020.07 ..... ISBN 978-2-37686-264-2
 } noimg          _Zariel                      ?
-!--- 29,90 euros
+!--- 20,90 euros
 - .oS.     R     _LINDHOLM Megan              Alien Earth ş1992 Alien Earth şTrad. RICHETIN Claudine
 o ACTUSF      ?  2020.07 ..... ISBN 978-2-37686-259-8
 } actusf094      _Yak                        ?
-!--- broch‚ - 400 pages - 19,90 euros
+!--- broch‚ - GF - 140x200 - 529 pages - 19,90 euros
 - .oS.    kA10   *AURIAS Aline               &Nos futurs ş2020
 &                *LEHOUCQ Roland             &
 &                *SUCHET Daniel              &
@@ -1203,32 +1349,41 @@ o ACTUSF      ?  2020.07 ..... ISBN 978-2-37686-259-8
 o ACTU_BW     ?  2020.08 ..... ISBN 978-2-37686-304-5
 } actusfbw13     _Dogan Oztel                 ?
 !--- broch‚ - 19,90 euros
-- .oYJ     R     _DURAND Thomas C.            Premier souffle [Les ‚nigmes de l'aube - 1] ş2012
+- .oYJ     R     _DURAND Thomas C.            Premier souffle [Les ‚nigmes de l'aube - 1] ş2011
 o ACTUSF      ?  2020.09 ..... ISBN 978-2-37686-290-1
-} noimg          _Ammo                        ?
+} actusfcollect2020_2 _Ammo                        ?
 !--- 21,90 euros
-- .oS.     R     _MARTIN George R.R.          Le Voyage de Haviland Tuf ş1986 Tuf Voyaging şTrad. ROBERT Alain
+- .oS.     U7    _MARTIN George R.R.          Le Voyage de Haviland Tuf ş1986 Tuf Voyaging şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          L'toile de la Peste ş1985 The Plague Star şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Pains et poissons ş1985 Loaves and Fishes şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Les Gardiens ş1981 Guardians şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Seconds services ş1985 Second Helpings şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Une bˆte pour Norne ş1976 A Beast for Norn şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          On l'appelait Mo‹se ş1978 Call Him Moses şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Manne c‚leste ş1985 Manna from Heaven şTrad. ROBERT Alain
 o ACTUSF      ?  2020.10 ..... ISBN 978-2-37686-318-2
 } actusf096      _Alex Alice                  ?
-!--- 240 pages - 5,00 euros
-!--- Pr‚face : Ariel KYROU 
-- .oS.    iA5    *DEBATS Jeanne-A             Les Utop' 20 jeunesse ş2020
-!: .o .     N     _ANDORYSS Mel                ? ş2020
-: .o .     N     _GECHTER Olivier             La B‚n‚diction de Mama ş2020
-!: .o .     N     _HANSEN Nathael              ? ş2020
-!: .o .     N     _ADOUNAISKI Anna             ? ş2020
-!: .o .     N     _PERRIN DOLIQUE Rowanne      ? ş2020
-!: .o .     N     _TEUSAN Sarah                ? ş2020
-!: .o .     N     _RAYNOND Axel                ? ş2020
-!: .o .     N     _BRUNEAU Oph‚lie             ? ş2020
-o ACTUSF      ?  2020.10 ..... ISBN 978-2-37686-287-1
+!--- Jeunesse - Poche - 120x180 - 240 pages - 5,00 euros
+- .oS.     A8    *DEBATS Jeanne-A             Les Utop' 20 jeunesse ş2020
+: .o .   9 p     _DEBATS Jeanne-A             Pr‚face ş2020
+: .o .  21 N     _ANDORYSS Mel                R‚manente ş2020
+: .o .  55 N     _GECHTER Olivier             La B‚n‚diction de Mama ş2020
+: .o .  97 N     _BRUNEAU Oph‚lie             Voltigeuse ş2020
+: .o . 119 N     _HANSEN Nathael              Le Chant de la montagne de cristal ş2020
+: .C .     C     ****                         Concours 2019 ş2020
+: .o . 195 p     _DEBATS Jeanne-A             Pr‚face ş2020
+: .o . 199 N     _ZADOUNAISKI Anna            Puce PO4 ş2020
+: .o . 207 N     _PERRIN DOLIQUE Rowanne      Un Diablinien pas si horrible ş2020
+: .o . 219 N     _TEUSAN Sarah                Une journ‚e au mus‚e ş2020
+: .o . 231 N     _RAYNOND Axel                Le Destin de l'humanit‚ ş2020
+o ACTUSF      ?  2020.11 ..... ISBN 978-2-37686-287-1
 } actusf098      _Alex Alice                  ?
-- .oS.    iA12   ****                         Utopiales 20 ş2020
+!--- Poche - 120x180 - 392 pages - 15,00 euros
 !--- Titre int‚rieur "Utopiales 2020"
-!--- 392 pages - 15,00 euros
+- .oS.     A10   ****                         Utopiales 20 ş2020
 : .o .     p     _KYROU Ariel                 Pr‚face ş2020
 : .o .     a     _LEGRAND Ad‚la‹de            Le Mot du p“le ludique des Utopiales ş2020
-: .o .     N     _BENEDETTI Caroline de       Un genre de traces ş2020
+: .o .     a     _BENEDETTI Caroline de       Un genre de traces ş2020
 : .o .     N     _DAVOUST Lionel              Une forme de d‚mence ş2017
 : .o .     N     _GLENCOE Morgan Of           La Piste des oiseaux ş2020
 : .o .     N     _DURAND Thomas C.            Le Premier Chapeau ş2020
@@ -1244,6 +1399,7 @@ o ACTUSF      ?  2020.10 ..... ISBN 978-2-37686-316-8
 - .oS.     E     _KYROU Ariel                 Dans les imaginaires du futur ş2020
 o ACTU_PE     ?  2020.10 ..... ISBN 978-2-37686-313-7
 } actusfpe38     _?                           ?
+!--- GF - 15x21 - 420 pages - 21,90 euros
 - .oFT    kA12   *LILJA Hans-Ake              Shining in the dark - F‚ter les vingt ans de Lilja's Library ş2018 Shining in the Dark : Celebrating Twenty Years of Lilja's Library
 : .o .     p     _LILJA Hans-Ake              Fˆter les vingt ans de Lilja's Library : Une introduction ş2018 Celebrating 20 Years of Lilja's Library - An Introduction şTrad. HOLSTEIN Eric
 : .o .     N     _KING Stephen                Le Compresseur bleu : Un r‚cit horrifique ş1971 The Blue Air Compressor şTrad. HOUESNARD Anna‹g
@@ -1256,7 +1412,7 @@ o ACTU_PE     ?  2020.10 ..... ISBN 978-2-37686-313-7
 : .o .     N     _CHIZMAR Richard             La Danse du cimetiŠre ş1992 Cemetery Dance şTrad. HOUESNARD Anna‹g
 : .o .     r     _QUIGLEY Kevin               L'Attraction des flammes ş2018 Drawn to the Flame şTrad. HOUESNARD Anna‹g
 : .o .     N     _CAMPBELL J. Ramsey          Le Compagnon ş1976 The Companion şTrad. BREQUE Jean-Daniel
-: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur ş1843 The Tell Tale Heart şTrad. BAUDELAIRE
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur ş1843 The Tell-Tale Heart şTrad. BAUDELAIRE
 : .o .     N     _FREEMAN Brian James         L'Amour d'une mŠre ş2018 A Mother's Love şTrad. HOUESNARD Anna‹g
 : .o .     N     _LINDQVIST John Ajvide       Le Manuel du gardien ş2018 The Keeper's Companion şTrad. HOLSTEIN Eric
 : .o .     o     _LILJA Hans-Ake              Fˆter les vingt ans de Lilja's Library : Postface ş2018 Celebrating 20 Years of Lilja's Library : An Afterword şTrad. HOLSTEIN Eric
@@ -1268,15 +1424,319 @@ o ACTU_CO     ?  2020.12 ..... ISBN 978-2-37686-280-2
 } noimg          _?                           ?
 !--- broch‚ - 400 pages - 20.90 euros
 - .oF.     R     _MOORE Alan                  La Voix du feu ş1996 Voice of the Fire şTrad. MARCEL Patrick
-
-
-
-?o ACTUSF      ?  2020.11 ..... ISBN 978-2-37686-319-9
-?} noimg          _?                           ?
-?- .o .     R     _BERROUKA Karim              Le Jour o— l'humanit‚ a niqu‚ la fantasy ş2020
-
-
-
+!------------------------
+!=== 2021
+!------------------------
+o ACTU_CO     ?  2021.01 ..... ISBN 978-2-37686-332-8
+} noimg          _AMMO                        ?
+!--- GF - 150 x 210 - 331 pages
+- .o .     R     _FAYE Estelle                Un reflet de lune [Jazzy Chet] ş2021
+o ACTU_BW     ?  2021.02 ..... ISBN 978-2-37686-342-7
+} noimg          _Zariel                      ?
+!--- GF - 140 x 200 - 350 pages
+- .oS.     R     _SNYERS Damien               Ex Dei ş2021
+o ACTU_BW     ?  2021.03 ..... ISBN 978-2-37686-260-4
+} noimg          _Mina M.                     ?
+!--- GF - 140 x 200 - 600 pages
+- .o .     R     _BAUTHIAN Isabelle           MontŠs [Les Rh‚teurs - 3] ş2021
+o ACTU_BW     ?  2021.04 ..... ISBN 978-2-37686-351-9
+} noimg          _Zariel                      ?
+!--- GF - 145 x 200 - 350 pages
+- .o .     R     _DEL SOCORRO Jean-Laurent    Du roi je serai l'assassin ş2021
+o ACTUSF      ?  2021.02 ..... ISBN 978-2-3768-6337-3
+} noimg          _?                           ?
+!--- GF - 140 x 200 - 359 pages
+- .oS.     R     _LANERO ZAMORA Katia         La Machine ş2021
+o ACTUSF      ?  2021.02 ..... ISBN 978-2-37686-319-9
+} noimg          _?                           ?
+!--- GF - 140 x 200 - 425 pages
+- .o .     R     _BERROUKA Karim              Le Jour o— l'humanit‚ a niqu‚ la fantasy ş2021
+o ACTUSF      ?  2021.04 ..... ISBN 978-2-37686-346-5
+} noimg          _Zariel                      ?
+!--- GF - 140 x 200 - 450 pages
+- .o .     R     _CLAVEL Fabien               Les H‚ritiers ş2021
+o ACTU_PE     ?  2021.04 ..... ISBN 978-2-37686-282-6
+} noimg          _Diego Tripodi               ?
+!--- GF - 140 x 200 - 350 pages
+- .oS.     R     _WINTERS Ben H.              Golden State ş2019 Golden State şTrad. HOLSTEIN Eric
+o ACTU_CO     ?  2021.04 ..... ISBN 978-2-37686-341-0
+} noimg          _AMMO                        ?
+!--- GF - 150 x 210 - 344 pages
+- .oS.     R     _CLAVEL Fabien               Feuillets de cuivre ş2015
+o ACTU_PE     ?  2021.05 ..... ISBN 978-2-37686-362-5
+} noimg          _Zariel                      ?
+!--- GF - 140x200 - 350 pages
+- .oY.     R     _KUSHNER Ellen               Thomas le Rimeur ş1991 Thomas the Rhymer şTrad. VIERNE B‚atrice
+o ACTU_GR     ?  2021.05 ..... ISBN 978-2-37686-360-1
+} noimg          _Zariel                      Zariel
+!--- YA - GF - 140x220 - 128 pages
+- .o .     N     _OKORAFOR Nnedi              La Fille aux mains magiques ş2016 The Girl with the Magic Hands şTrad. DUQUENNE C‚cile
+o ACTU_QL     ?  2021.05 ..... ISBN 978-2-37686-403-5
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 130 x 180 - 141 pages - 6,90 euros
+- .oS.     R     _LE BRETON Nicolas           Une lampe myst‚rieuse [La Lampe des siŠcles - 1] ş2021
+o ACTU_QL     ?  2021.05 ..... ISBN 978-2-37686-405-9
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 130 x 180 - 163 pages - 6,90 euros
+- .oS.     R     _GIROULET Ga‰lle             Le Masque romain [La Lampe des siŠcles - 2] ş2021
+o ACTU_PE     ?  2021.07 ..... ISBN 978-2-37686-372-4
+} actusfpe39     _Zariel                      ?
+!--- GF - 140x200 - 500 pages
+- .oY.     R2    _LINDHOLM Megan              Le Peuple des rennes [Le Peuple des rennes - 1/2] ş2012
+: .oY.     R     _LINDHOLM Megan              Le Peuple des rennes [Le Peuple des rennes - 1] ş1988 The Reindeer People şTrad. SSOSSE Maryvonne
+: .oY.     R     _LINDHOLM Megan              Le FrŠre du loup [Le Peuple des rennes - 2] ş1988 Wolf's Brother şTrad. SSOSSE Maryvonne
+o ACTU_BW     ?  2021.08 ..... ISBN 978-2-37686-376-2
+} noimg          _?                           ?
+!--- GF - 140x200 - 400 pages
+- .oY.     R     _DURAND Thomas C.            Les Quatre V‚rit‚s [Les ‚nigmes de l'aube - 2] ş2012
+o ACTUSF      ?  2021.08 ..... ISBN 978-2-37686-369-4
+} noimg          _?                           ?
+!--- GF - GF - 464 pages
+- .oS.     E     *MEULEMANS David             Ursula K. Le Guin - De l'autre c“t‚ des mots ş2021
+o ACTU_QL     ?  2021.09 ..... ISBN 978-2-37686-412-7
+} noimg          _Zariel                      ?
+!--- Jeunesse - Poche - 130 x 180 - 133 pages - 6,90 euros
+- .oS.     R     _LE BRETON Nicolas           Le Gardien de la crypte [La Lampe des siŠcles - 3] ş2021
+o ACTUSF      ?  2021.09 ..... ISBN 978-2-37686-419-6
+} noimg          _Zariel                      ?
+!--- GF - GF - 450 pages - 19,90 euros
+- .oS.     E     _KYROU Ariel                 ABC Dick ş2009
+o ACTUSF      ?  2021.10 ..... ISBN 978-2-37686-417-2
+} noimg          _Zariel                      ?
+!--- GF - GF - 412 pages
+- .o .     E     *BESSON Anne                 Game of Thrones - Actes du colloque des Imaginales 2020 ş2021
+o ACTUSF      ?  2021.10 ..... ISBN 978-2-37686-386-1
+} actusf106      _Zariel                      ?
+!--- GF - 143x206 - 550 pages
+- .oS.     A19   ****                         Par-del… l'Horizon ş2021
+: .o .     p     _GUILLOT S‚bastien           Introduction ş2021
+: .o .     N     _QUERBALEC Emilie            La Parfaite quation du bonheur ş2021
+: .o .     N     _BEAUVERGER St‚phane         Deimocratos ş2021
+: .o .     N     _LUVAN                       p&aring; ”n ş2021
+: .o .     N     _KLOETZER L.L.               Le Pack ş2021
+: .o .     N     _EDGAR SilŠne                Espoir ş2021
+: .o .     N     _BORDAGE Pierre              Et le verbe se fit cher ş2021
+: .o .     N     _DUFANT Lauriane             Carne ş2021
+: .o .     N     _LEOURIER Christian          Le Juge, le bot et l'‚cureuil ş2021
+: .o .     N     _SOULAS Floriane             Projet Cerebrus ş2021
+: .o .     N     _LUCAZEAU Romain             Variation sur un poŠme de Borges ş2021
+: .o .     N     _PLEYNET Audrey              La Solitude des fant“mes ş2021
+: .o .     N     _ROCH Michael                L'Heure o— s'‚crasent les ZabŠy ş2021
+: .o .     N     _LUVAN                       In der H”hle ş2021
+: .o .     N     _HENRY L‚o                   J'ai senti venir l'avalanche dŠs les premiers flocons ş2021
+: .o .     N     _STEWARD Ketty               Quantique pour la libert‚ ş2021
+: .o .     N     _DEL SOCORRO Jean-Laurent    Ne vous inqui‚tez pas, on va s'y mettre ş2021
+: .o .     N     _DEBATS Jeanne-A             Ch‚lo‹des ş2021
+: .o .     N     _JACCAUD Fr‚d‚ric            Golden age blues ş2021
+: .o .     N     _VUKLISEVIC Chris            Ce qui se tapit dans la tour ş2021
+: .o .     o     _KYRIOU Ariel                Par-del… la science-fiction ş2021
+o ACTU_GR     ?  2021.11 ..... ISBN 978-2-37686-393-9
+} noimg          _Fanny Liabeuf               ?
+!--- YA - GF - 140x220 - 116 pages
+- .o .     N     _FITZGERALD F. Scott         L'trange Histoire de Benjamin Button ş1922 The Curious Case of Benjamin Button şTrad. BEGHAIN V‚ronique
+o ACTUSF      ?  2021.11 ..... ISBN 978-2-37686-398-4
+} actusf107      _Alex Alice                  ?
+!--- Poche - 120x180 - 450 pages
+- .oS.     A12   ****                         Utopiales 21 ş2021
+: .o .     N     _DUVIVIER Claire             Mesurer l'empreinte ş2021
+: .o .     N     _SIEBERT Christophe          Empatia ş2021
+: .o .     N     _BEIRAM Elisa                Ma Puce ş2021
+: .o .     N     _BAUTHIAN Isabelle           Catharsis ş2021
+: .o .     N     _BARET Jean                  15:51-58 ş2021
+: .o .     N     _DENIS Sylvie                AprŠs l'Eden ş2021
+: .o .     N     _BASSETERRE Luce             Arnaque, prothŠses et recyclage ş2021
+: .o .     N     _STANKIEWIEZ Morgane         Transdivinit‚ ş2021
+: .o .     N     _LANERO ZAMORA Katia         L'Appel ş2021
+: .o .     N     _CANAL Richard               Le Projet Thermopyles ş2021
+: .o .     N     _BERROUKA Karim              La bande se m‚tamorphose ş2017
+: .o .     N     _LEBOULANGER Camille         La PlanŠte Cit‚ ş2021
+o ACTU_PE     ?  2021.11 ..... ISBN 978-2-37686-277-2
+} noimg          _?                           ?
+!--- GF - GF - 384 pages - 19,90 euros
+- .o .     R     _HOWARD Jonathan L.          Le N‚cromancien [Johannes Cabal - 1] ş2009 The Necromancer şTrad. VESSIERE J‚r“me
+o ACTU_CO     ?  2021.12 ..... ISBN 978-2-37686-401-1
+} noimg          _Diego Tripodi               Zariel
+!--- GF - 150x210 - 400 pages
+!--- Reli‚, avec un album CD in‚dit de Karim Berrouka
+- .oS.     R     _BERROUKA Karim              Le Club des punks contre l'apocalypse zombie ş2016
+o ACTU_QL     ?  2021.11 ..... ISBN 978-2-37686-397-7
+} actusf109      _Alex Alice                  ?
+!--- Jeunesse - Poche - 120x180 - 120 pages
+- .oS.     A8    *DEBATS Jeanne-A             Les Utop' Jeunesse 21 ş2021
+: .o .     N     _COTTE Olivier               A la masse ş2021
+: .o .     N     _MANGIN Val‚rie              Nouvelles Eves ş2021
+: .o .     N     _BAUTHIAN Isabelle           Catalepsie ş2021
+: .o .     N     _RASPAUD Daelf               clipse annul‚e ş2021
+: .o .     N     _WINTREBERT Jo‰lle           Le mouchard ş2021
+: .o .     N     _HUBERT Antoine              Maki la fourmi ş2021
+: .o .     N     _CHALOPIN Timoth‚e           Une bonne action ş2021
+: .o .     N     _MONTACLAIR L‚o              Momotanucigas ş2021
+!------------------------
+!=== 2022
+!------------------------
+o ACTU_PE     ?  2022.01 ..... ISBN 978-2-37686-367-0
+} actusfpe41     _ClemCrea                    ?
+!--- GF - 140x210 - 344 pages
+- .oS.     N18   _LE GUIN Ursula K.           Unlocking the Air ş1996 Unlocking the Air and Other Stories
+: .o .     p     _HENNINGER Bernard           Pr‚face ş2022
+: .o .     N     _LE GUIN Ursula K.           Quatre heures et demi ş1987 Half Past Four şTrad. DESCOMBEY Anne-Judith
+: .o .     N     _LE GUIN Ursula K.           Les Maisons du professeur ş1982 The Professor's Houses
+: .o .     N     _LE GUIN Ursula K.           Ruby sur la 67 ş1996 Ruby on the 67
+: .o .     N     _LE GUIN Ursula K.           Limberlost ş1989 Limberlost
+: .o .     N     _LE GUIN Ursula K.           Cr‚atures de mon esprit ş1990 The Creatures on My Mind
+: .o .     N     _LE GUIN Ursula K.           Tenir ses positions ş1992 Standing Ground
+: .o .     N     _LE GUIN Ursula K.           Les CuillŠres de la cave ş1982 The Spoons in the Basement
+: .o .     N     _LE GUIN Ursula K.           Dimanche d'‚t‚ … Seatown ş1995 Sunday in Summer in Seatown
+: .o .     N     _LE GUIN Ursula K.           Saison sŠche ş1993 In the Drought
+: .oF.     N     _LE GUIN Ursula K.           Ether ou ş1995 Ether, OR
+: .o .     N     _LE GUIN Ursula K.           La Clef des airs [L'Orsinie] ş1990 Unlocking the Air şTrad. DESCOMBEY Anne-Judith
+: .o .     N     _LE GUIN Ursula K.           Une ‚pouse enfant ş1984 A Child Bride
+: .o .     N     _LE GUIN Ursula K.           Grimper jusqu'… la Lune ş1992 Climbing to the Moon
+: .oF.     N     _LE GUIN Ursula K.           La Grande Fille … son papa ş1987 Daddy's Big Girl
+: .oF.     N     _LE GUIN Ursula K.           D‚couvertes ş1992 Findings
+: .o .     N     _LE GUIN Ursula K.           Anciens ş1995 Olders şTrad. DESCOMBEY Anne-Judith
+: .oF.     N     _LE GUIN Ursula K.           La Femme sage ş1995 The Wise Woman
+: .oF.     N     _LE GUIN Ursula K.           Le Braconnier ş1992 The Poacher
+o ACTUSF      ?  2022.01 ..... ISBN 978-2-37686-435-6
+} noimg          _?                           ?
+!--- GF - 384 pages - 20,90 euros
+- .oS.     R     _FAYE Estelle                Un ‚clat de givre [Jazzy Chet] ş2014
+o ACTUSF      ?  2022.02 ..... ISBN 978-2-37686-440-0
+} noimg          _Alexandre Bourgois          ?
+!--- Poche - 110 x 160 - 250 pages - 10,00 euros
+- .o .     E     _CHAZARENG Yannick           Le Guide Stephen King ş2022
+o ACTU_BW     ?  2022.03 ..... ISBN 978-2-37686-438-7
+} noimg          _Zariel                      ?
+!--- MF - 140 x 200 - 320 pages - 20,90 euros
+- .oF.     R     _RENNBERG Karine             Meute ş2022
+o ACTUSF      ?  2022.03 ..... ISBN 978-2-37686-455-4
+} actusf109      _Zariel                      ?
+!--- GF - 140 x 200 - 500 pages - 17,90 euros
+!--- Nouvelles pour la plupart d‚j… parues dans "Valeurs solidaires"
+- .oS.     A14   *KYROU Ariel                 Nos Futurs solidaires ş2022
+: .o .     N     _LI-CAM                      La Map d'Iris ş?
+: .o .     N     _JAULIN R‚gis Antoine        L'Affection ş?
+: .o .     N     _PLEYNET Audrey              Entrer en r‚sonance ş?
+: .o .     N     _CHEVALIER Chlo‚             Les D‚rout‚s ş?
+: .o .     N     _BOREL Vincent               L'Enfant de th‚rapie ş?
+: .o .     N     _DUFOUR Catherine            Bootz change de mode ş?
+: .o .     N     _DEVRIESE Anne-Sophie        Auxi' ş?
+: .o .     N     _CURVAL Philippe             Baobab city ş?
+: .o .     N     _CALVO Sabrina               Reliance ş?
+: .o .     N     _ROCH Michael                Les Vies de Man Pitak ş?
+: .o .     N     _HENRY L‚o                   Un jour, tout ceci sera … toi ş?
+: .o .     N     _MERJAGNAN Norbert           De nos corps inveill‚s viendra … la vie ‚ternelle ş?
+: .o .     N     _LAINE Sylvie                ligibles ş?
+: .o .     N     _STEWARD Ketty               Six faces d'un mˆme Cube ş?
+o ACTUSF      ?  2022.04 ..... ISBN 978-2-37686-457-8
+} actusf113      _Zariel                      ?
+!--- GF - 140 x 200 - 350 pages - 19,90 euros
+- .oS.     R     _DUQUENNE C‚cile            &Les Chiens de porcelaine [Les Brigades du Steam - 2] ş2022
+&                _BARILLIER Etienne           
+o ACTU_CO     ?  2022.05 ..... ISBN 978-2-37686-464-6
+} actusf113      _Ammo                        ?
+!--- GF - 150 x 210 - 480 pages - 20,90 euros
+!--- ‚dition r‚vis‚e et augment‚e d'une nouvelle
+- .oY.     R     _FERRAND C‚dric              Wastburg ş2011-2022
+o ACTU_CO     ?  2022.06 ..... ISBN 978-2-37686-471-4
+} actusf113      _Ammo                        ?
+!--- GF - 150 x 210 - 612 pages - 20,90 euros
+- .oF.     R     _OKORAFOR Nnedi              Qui a peur de la mort ? ş2010 Who Fears Death şTrad. PHILIBERT-CAILLAT Laurent
+o ACTU_QL     ?  2022.05 ..... ISBN 978-2-37686-421-9
+} noimg          _Zariel                      ?
+!--- Jeunesse - Poche - 120x180 - 125 pages
+- .oS.     R     _GIROULET Ga‰lle             Toutes les piŠces moins une [La Lampe des siŠcles - 4] ş2022
+o ACTU_PE     ?  2022.06 ..... ISBN 978-2-37686-462-2
+} noimg          _Zariel                      ?
+!--- 143x201 - 140 x 200 - 450 pages - 22,90 euros
+- .oY.     R     _KUSHNER Ellen               Le PrivilŠge de l'‚p‚e ş2006 The Privilege of the Sword şTrad. MARCEL Patrick
+o ACTU_PE     ?  2022.06 ..... ISBN 978-2-37686-483-7
+} actusfpe43     _Zariel                      ?
+!--- 142x201 - 140 x 200 - 350 pages - 20,90 euros
+- .oS.    kN13   _WEINSTEIN Alexander         After Yang et autres nouvelles ş2016 Children of the New World şTrad. HEMON Hermine et DEVOS Erwan
+: .o .     N     _WEINSTEIN Alexander         Nos adieux … Yang ş2010 Saying Goodbye to Yang 
+: .o .     N     _WEINSTEIN Alexander         Les Cartographes ş2014 The Cartographers
+: .o .     N     _WEINSTEIN Alexander         Hearthland ş2011 Heartland
+: .o .     N     _WEINSTEIN Alexander         Extraits du dictionnaire autoris‚ du Nouveau Monde ş2013 Excerpts from The New World Authorized Dictionary
+: .o .     N     _WEINSTEIN Alexander         Moksha ş2016 Moksha
+: .o .     N     _WEINSTEIN Alexander         Les Enfants du Nouveau Monde ş2013 Children of the New World
+: .o .     N     _WEINSTEIN Alexander         Ligne de pente ş2016 Fall Line
+: .o .     N     _WEINSTEIN Alexander         Une brŠve histoire de la r‚volution qui a ‚chou‚ ş2010 A Brief History of the Failed Revolution
+: .o .     N     _WEINSTEIN Alexander         Migration ş2012 Migration
+: .o .     N     _WEINSTEIN Alexander         La Pyramide et le cul ş2009 The Pyramid and the Ass
+: .o .     N     _WEINSTEIN Alexander         La Nuit de la fus‚e ş2013 Rocket Night
+: .o .     N     _WEINSTEIN Alexander         Ouverture ş2016 Openness
+: .o .     N     _WEINSTEIN Alexander         Age de glace ş2012 Ice Age 
+o ACTU_PE     ?  2022.06 ..... ISBN 978-2-37686-469-1
+} noimg          _Zariel                      ?
+!--- 142 x 200 - 383 pages - 20,90 euros
+- .oF.     R     _OKORAFOR Nnedi              Le Livre de Ph‚nix ş2015 The Book of Phoenix şTrad. HEMON Hermine et DEVOS Erwan
+o ACTU_QL     ?  2022.06 ..... ISBN 978-2-37686-473-8
+} noimg          _Zariel                      ?
+!--- Jeunesse - Poche - 130x180 - 150 pages - 6,90 euros
+- .oS.     R     _LE BRETON Nicolas           Le Nez de l'astronome [La Lampe des siŠcles - 5] ş2022
+o ACTU_QL     ?  2022.06 ..... ISBN 978-2-37686-467-7
+} noimg          _Zariel                      ?
+!--- Jeunesse - Poche - 130 x 180 - 150 pages - 6,90 euros
+- .oS.     R     _FOURNIE Isabelle            La Bille de m‚tal ou le secret de Gutenberg ş2022
+o ACTU_PE     ?  2022.07 ..... ISBN 978-2-37686-475-2
+} noimg          _Zariel                      ?
+!--- MF - 140x200 - 432 pages - 20,90 euros
+- .oS.     R     _RAJANIEMI Hannu             Summerland ş2018 Summerland şTrad. HOUESNARD Anna‹g
+o ACTUSF      ?  2022.08 ..... ISBN 978-2-37686-492-9
+} noimg          _Zariel                      ?
+!--- MF - 140x200 - 650 pages - 22,90 euros
+- .oF.     E     _PARTY Adrien                Vampirologie ş2022
+o ACTU_BW     ?  2022.08 ..... ISBN 978-2-37686-490-5
+} noimg          _Zariel                      ?
+!--- MF - 140x200 - 450 pages - 20,90 euros
+- .oF.     R     _KRUST Claire                L'H‚ritage de l'esprit-roi ş2022
+o ACTU_QL     ?  2022.08 ..... ISBN 978-2-37686-493-6
+} noimg          _Zariel                      ?
+!--- Jeunesse - Poche - 120x180 - 200 pages - 6,90 euros
+- .oF.     R     _DANIEL Marie-Catherine      Les Garloup ş2022
+o ACTU_PE     ?  2022.09 ..... ISBN 978-2-37686-495-0
+} noimg          _Zariel                      ?
+!--- MF - 140x200 - 400 pages - 21,90 euros
+- .oS.     R     _LAM Laura                   La LumiŠre lointaine des ‚toiles ş2020 Goldilocks şTrad. HEMON Hermine & DEVOS Erwan
+o ACTUSF      ?  2022.09 ..... ISBN 978-2-37686-497-4
+} noimg          _?                           ?
+!--- Poche - 110 x 160 - 350 pages - 10,00 euros
+- .o .     E     _CHAZARENG Yannick           Le Guide Tolkien ş2022
+o ACTUSF      ?  2022.10 ..... ISBN 978-2-37686-523-0
+} noimg          _?                           ?
+!--- MF - 140x200 - 350 pages - 20,90 euros
+- .oF.     R     _TASSY Vincent              &Entrevue choc avec un vampire ş2022
+&                _CAUSSARIEU Morgane          
+o ACTUSF      ?  2022.10 ..... ISBN 978-2-37686-528-5
+} noimg          _Marc-Antoine Mathieu        ?
+!--- MF - 140x200 - 450 pages - 15 euros
+- .oS.    iA13   ****                         Utopiales 22 ş2022
+: .o .     N     _LIGNY Jean-Marc             L'Œle ş2022
+: .o .     N     _CAUSSARIEU Morgane          La Maman de Martin ş2022
+: .o .     N     _MARTIN Nicolas              Loup, y es-tu ? ş2022
+: .o .     N     _WELLENSTEIN Aur‚lie         Tarbh dans le labyrinthe ş2022
+: .o .     N     _SOULAS Floriane             Foudre ş2022
+o ACTU_QL     ?  2022.10 ..... ISBN 978-2-37686-501-8
+} noimg          _Zariel                      ?
+!--- Jeunesse - Poche - 120x180 - 200 pages - 6,90 euros
+- .oF.     R     _COLAU Axelle                Les Fant“mes de Gergovie ş2022
+o ACTU_QL     ?  2022.10 ..... ISBN 978-2-37686-525-4
+} noimg          _Marc-Antoine Mathieu        ?
+!--- Poche - 120x180 - ? pages - 5,90 euros
+- .oS.    iAx    ****                         Les Utop Jeunesse 22 ş2022
+o ACTUSF      ?  2022.11 ..... ISBN 978-2-37686-529-2
+} noimg          _Zariel                      Zariel
+!--- GF - 180x220 - 550 pages - 32 euros
+- .oS.     E     ****                         Alien - La X‚nographie [Alien] ş2022
+o ACTU_CO     ?  2022.12 ..... ISBN 978-2-37686-535-3
+} noimg          _Zariel                      ?
+!--- GF - Reli‚ - 150x210 - 552 pages - 23,90 euros
+- .oS.     R     _LINDHOLM Megan              Alien Earth ş1992 Alien Earth şTrad. RICHETIN Claudine
+o ACTU_CO     ?  2022.12 ..... ISBN 978-2-37686-534-6
+} noimg          _Zariel                      ?
+!--- GF - Reli‚ - 150x210 - 552 pages - 23,90 euros
+- .oF.     R     _LINDHOLM Megan              Le Dieu dans l'ombre ş1991 Cloven Hooves şTrad. RICHETIN Claudine
 
 
 !-----------------------------------------------------------------------------
@@ -1295,6 +1755,14 @@ o MARMOTT     ?  2020.10 ..... ISBN 978-2-37686-331-1
 } marmotte03     _Cindy Cav‚net               ?
 !--- Jeunesse - 160 pages - 5,00 euros
 - .oF.     R     _COSTE Nadia                 Dans les pas de Mandrin [Les Chevaliers de la raclette - 3] ş2020
+o MARMOTT     ?  2021.03 ..... ISBN 978-2-491708-06-1
+} noimg          _Cindy Can‚vet               ?
+!--- Jeunesse - Poche - 120 x 180 - 172 pages
+- .oS.     R     _DEL SOCORRO Jean-Laurent    Les Derniers Jours de Boutae [Les Chevaliers de la raclette - 4] ş2021
+o MARMOTT     ?  2021.09 ..... ISBN 978-2-491708-08-5
+} noimg          _Cindy Can‚vet               ?
+!--- Jeunesse - Poche - 120x180 - 168 pages
+- .oS.     R     _DEL SOCORRO Jean-Laurent    Le Secret de Tami‚ [Les Chevaliers de la raclette - 5] ş2021
 
 !-----------------------------------------------------------------------------
 !--- Num‚rique exclusivement
@@ -1313,7 +1781,7 @@ o ACTUSFn     ?  2013.02 ..... ISBN 978-2-36629-092-9
 : .o .     N     _BERROUKA Karim              L'Enfant rouge ş2008
 : .o .     N     _BERROUKA Karim              ... comme un ange gardien ş2013
 : .o .     N     _BERROUKA Karim              Le Piano ş2013
-: .o .     N     _BERROUKA Karim              Conjonction  ş2013
+: .o .     N     _BERROUKA Karim              Conjonction ş2013
 : .o .     N     _BERROUKA Karim              Clothilde court dans la forˆt ş2005
 : .o .     N     _BERROUKA Karim              Ils sont cinq ş2013
 o ACTUSFn     ?  2015.01 ..... ISBN 978-2-36629-333-3
@@ -1398,7 +1866,7 @@ o ACTUSFn     ?  2017.05 ..... ISBN 978-2-36629-423-1
 : .o .     N     _BELLAGAMBA Ugo              Purple Brain ş2016
 : .o .     N     _BELLAGAMBA Ugo              Quand il y aura des pommiers sur Mars ş2005
 : .o .     N     _BELLAGAMBA Ugo              Le R‚ducteur de possibilit‚s ş?
-: .o .     N     _BELLAGAMBA Ugo              Le Suicide de la d‚mocratie ş?
+: .o .     N     _BELLAGAMBA Ugo              Le Suicide de la d‚mocratie ş2007
 : .o .     N     _BELLAGAMBA Ugo              Le Tigre de la Lune ş?
 o ACTUSFn     ?  2020.03 ..... ISBN -
 } noimg          _Zariel                      ?
@@ -1417,22 +1885,289 @@ o ACTUSFn     ?  2020.04 ..... ISBN -
 - .oF.     E     *TUAILLON DEMEDY Audrey     &Zombie : mythe ou r‚alit‚ ? ş2020
 &                *GROSPRETRE Sidney           
 o ACTUSFn     ?  2020.07 ..... ISBN -
-} noimg          _?                           ?
+} actusfnum2020_3 _?                           ?
 !--- 9,99 euros
 !--- En couv : "Une chanson d'hiver dans l'univers de la derniŠre geste"
 !--- Page de titre : "24 petites histoires de solstices d'hiver avant "Dans l'ombre de Paris "
+!---  ou "Petites histoires dans dans le monde de la DerniŠre Geste "
 - .oY.    iNx    _GLENCOE Morgan Of           Le Temps du Teuz [La DerniŠre Geste] ş2020
-! .oY.     N     _GLENCOE Morgan Of           Le Solstice sp‚cial de William Longway [La DerniŠre Geste] ş2020
-! .oY.     N     _GLENCOE Morgan Of           Le Solstice sp‚cial de Cers & Mistral Alethia [La DerniŠre Geste] ş2020
-! .oY.     N     _GLENCOE Morgan Of           Le Solstice sp‚cial de Mona d'Enez Eusa [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Temps du Teuz [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de William Longway [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Cers & Mistral Alethia [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Mona d'Enez Eusa [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Camille-AgnŠs Albane du Mont de Trente-Chˆnes [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Jack william Longway [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Nekohaima Kenz“ [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Gabrielle de France [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Samuel Duchamp [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Nekohaima Yuri [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Alo‹se [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Tsuru Haruko [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Lucien Longchamp [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de D'Ali‚nor-H‚lo‹se AdŠle de Fontainebleau-d'ArmentiŠres [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Louis-Philippe Auguste Capet de France [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Lady Lore Nightingale [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Mei Yun & Augustina C‚saire [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Bran Irwazh & Ned Longway [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Ren, Al & Shadow [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Manon Martin [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Siegfried Jolicoeur [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Ry–zaki & HA-17 [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Pyro Saint-Elme [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Lilas Mwanza [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Dernier Solstice [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Danser dans la tempˆte [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Taliesin le Bleu [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Imbolc [La DerniŠre Geste] ş2020
+: .oY.     a     _GLENCOE Morgan Of           Qu'est-ce qu'un Teuz ? [La DerniŠre Geste] ş2020
+: .oY.     a     _GLENCOE Morgan Of           Au coeur de la DerniŠre Geste : les musiques de l'univers [La DerniŠre Geste] ş2020
+o ACTUnum     ?  2022.07 ..... ISBN 978-2-37686-536-0
+} noimg          _?                           ?
+!--- 3,99 euros
+- .oS.     R     _DESIENNE St‚phane           Evasion [S‚quoia - 1] ş2022
+o ACTUnum     ?  2022.08 ..... ISBN 978-2-37686-537-7
+} noimg          _?                           ?
+!--- 4,99 euros
+- .oF.     r     _BADAROUX C‚line             Le Gang des lolitas contre la sirŠne vampire ş2022
+o ACTUnum     ?  2022.11 ..... ISBN ?
+} noimg          _?                           ?
+!--- 7,99 euros
+- .oS.     R     _DESIENNE St‚phane           Abordage [S‚quoia - 2] ş2022
+
+!-----------------------------------------------------------------------------
+!--- Num‚rique - Club de la nouvelle
+!-----------------------------------------------------------------------------
+o ACTCDNn     ?  2022.04 ..... ISBN 978-2-37686-485-1
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _GLENCOE Morgan Of           La Piste des oiseaux ş2020
+o ACTCDNn     ?  2022.04 ..... ISBN 978-2-37686-486-8
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _DEBATS Jeanne-A             Ch‚lo‹des ş2021
+o ACTCDNn     ?  2022.04 ..... ISBN 978-2-37686-487-5
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _CANAL Richard               Le Projet Thermopyles ş2021
+o ACTCDNn     ?  2022.04 ..... ISBN 978-2-37686-488-2
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _FAYE Estelle                Jardins ş2019
+o ACTCDNn     ?  2022.04 ..... ISBN 978-2-37686-489-9
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _EVANS Alex                  La Pluie ş2018
+o ACTCDNn     ?  2022.05 ..... ISBN 978-2-37686-505-6
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _EDGAR SilŠne                Inconnue … cette adresse ş2019
+o ACTCDNn     ?  2022.05 ..... ISBN 978-2-37686-506-3
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _STEWARD Ketty               Quantique pour la libert‚ ş2021
+o ACTCDNn     ?  2022.05 ..... ISBN 978-2-37686-507-0
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _OUALI Nabil                 Baby Doomers ş2022
+o ACTCDNn     ?  2022.05 ..... ISBN 978-2-37686-508-7
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _DUVIVIER Claire             Mesurer l'empreinte ş2021
+o ACTCDNn     ?  2022.05 ..... ISBN 978-2-37686-509-4
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _ANDORYSS Mel                Sublimation ş2019
+o ACTCDNn     ?  2022.06 ..... ISBN 978-2-36629-897-0
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _ALWETT Audrey               Le Gnome qui voulut ˆtre f‚e ş2017
+o ACTCDNn     ?  2022.06 ..... ISBN 978-2-37686-511-7
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _DURAND Thomas C.            Le Premier Chapeau ş2020
+o ACTCDNn     ?  2022.06 ..... ISBN 978-2-37686-512-4
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _REY Timoth‚e                Les arbres sont des gens comme les autres ş2017
+o ACTCDNn     ?  2022.06 ..... ISBN 978-2-37686-513-1
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _BARET Jean                  15:51-58 ş2021
+o ACTCDNn     ?  2022.06 ..... ISBN 978-2-37686-538-4
+} noimg          _?                           ?
+!--- 1,99 euros
+- .o .     N     _LAINE Sylvie                Le Karma du chat ş2015
+o ACTCDNn     ?  2022.07 ..... ISBN 978-2-37686-516-2
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _BAUTHIAN Isabelle           Catharsis ş2021
+o ACTCDNn     ?  2022.07 ..... ISBN 978-2-37686-517-9
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _DESIENNE St‚phane           Divorce symbiotique ş2022
+o ACTCDNn     ?  2022.07 ..... ISBN 978-2-37686-518-6
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _VONARBURG Elisabeth         L'Amour au temps des chimŠres ş2011
+o ACTCDNn     ?  2022.07 ..... ISBN 978-2-37686-515-5
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _QUERBALEC Emilie            La Parfaite quation du bonheur ş2021
+o ACTCDNn     ?  2022.07 ..... ISBN 978-2-37686-514-8
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _WINTREBERT Jo‰lle           Te retrouver ş2020
+o ACTCDNn     ?  2022.08 ..... ISBN 978-2-37686-543-8
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _DUFANT Lauriane             Carne ş2021
+o ACTCDNn     ?  2022.08 ..... ISBN 978-2-37686-545-2
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _ANDREVON Jean-Pierre        Dans les mines de Mars ş1971
+o ACTCDNn     ?  2022.08 ..... ISBN 978-2-37686-542-1
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _BRUNEAU Oph‚lie             La Grande Course au noyau-m‚moire ş2019
+o ACTCDNn     ?  2022.08 ..... ISBN 978-2-37686-546-9
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _GESSLER Vincent             Miroirs du ciel ş2010
+o ACTCDNn     ?  2022.08 ..... ISBN 978-2-37686-544-5
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _LI-CAM                      Monade Incarnate ş2018
+o ACTCDNn     ?  2022.09 ..... ISBN 978-2-37686-550-6
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oF.     N     _SUHNER Laurence             La Chose du lac ş2012
+o ACTCDNn     ?  2022.09 ..... ISBN 978-2-37686-548-3
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oF.     N     _MARTIN Nicolas              Le Cruciverbiste ş2019
+o ACTCDNn     ?  2022.09 ..... ISBN 978-2-37686-551-3
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oF.     N     _CAUSSARIEU Morgane          Le Syndrome de Pan ş2015
+o ACTCDNn     ?  2022.09 ..... ISBN 978-2-37686-549-0
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oF.     N     _BEAULIEU Baptiste           Les Cinq Marques ş2020
+o ACTCDNn     ?  2022.09 ..... ISBN 978-2-37686-547-6
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oF.     N     _ANG-CHO Marc                Une invasion mentale ş2022
+o ACTCDNn     ?  2022.10 ..... ISBN 978-2-37686-552-0
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _EDGAR SilŠne                Espoir ş2021
+o ACTCDNn     ?  2022.10 ..... ISBN 978-2-37686-554-4
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _MILLER Sylvie              &Le Sage qui entre dans la paix [Lasser, d‚tective des dieux] ş2014
+&                _WARD Philippe               
+o ACTCDNn     ?  2022.10 ..... ISBN 978-2-37686-556-8
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _COUZIGOU Magali             Nature humaine ş2015
+o ACTCDNn     ?  2022.10 ..... ISBN 978-2-37686-555-1
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _DIXEN Victor                Rˆvolution ş2019
+o ACTCDNn     ?  2022.10 ..... ISBN 978-2-37686-553-7
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oF.     N     _STANKIEWIEZ Morgane         Transdivinit‚ ş2021
+o ACTCDNn     ?  2022.11 ..... ISBN 978-2-37686-580-3
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _PANDELAKIS Saul            &Dis-moi la nuit ş2022
+&                _PANDELAKIS Leslie          
+o ACTCDNn     ?  2022.11 ..... ISBN 978-2-37686-581-0
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _IMBERT Marguerite           Incident grave de voyageur ş2022
+o ACTCDNn     ?  2022.11 ..... ISBN 978-2-37686-584-1
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oF.     N     _BRY David                   Je suis forˆt ş2019
+o ACTCDNn     ?  2022.11 ..... ISBN 978-2-37686-582-7
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oS.     N     _GEHA Thomas                 Mais o— est donc Ernie Carb ? ş2022
+o ACTCDNn     ?  2022.11 ..... ISBN 978-2-37686-583-4
+} noimg          _?                           ?
+!--- 1,99 euros
+- .oF.     N     _RENNBERG Karine             Ronces & chardons ş2022
 
 
-?o ACTUSF      ?  2014.11 ..... ISBN 978-2-917689-76-9
-?} noimg          _?                           ?
-?- .oS.     E     _BOILLAT Alain               Star Wars, un monde en expansion ş2014
-?o ACTUSF      ?  2014.11 ..... ISBN 978-2-917689-77-6
-?} noimg          _?                           ?
-?- .oS.     E     _VALERY Francis              De H.P. Lovecraft … J.R.R. Tolkien ş2014
 
 
 
+
+
+
+!-----------------------------------------------------------------------------
+!--- COLL : les collections de la maison d'ailleurs
+!-----------------------------------------------------------------------------
+o ACTU_MA     1  2013.09 ..... ISBN 978-2-917689-57-8
+} noimg          _?                           ?
+!--- ? pages - 7,30 euros
+- .oS.     E     _ATTALAH Marc                Le post-apocalyptique ş2013
+o ACTU_MA     2  2014.03 ..... ISBN 978-2-917689-62-2
+} noimg          _?                           ?
+!--- ? pages - 7,30 euros
+- .oS.     E     _ATTALAH Marc                Les super-h‚ros ş2014
+o ACTU_MA     3  2014.11 ..... ISBN 978-2-917689-76-9
+} noimg          _?                           ?
+!--- 96 pages - 7,30 euros
+- .oS.     E     _BOILLAT Alain               Star Wars, un monde en expansion ş2014
+o ACTU_MA     4  2014.11 ..... ISBN 978-2-917689-77-6
+} noimg          _?                           ?
+!--- 96 pages - 7,30 euros
+- .oS.     E     _VALERY Francis              De H.P. Lovecraft … J.R.R. Tolkien ş2014
+o ACTU_MA     5  2015.06 ..... ISBN 978-2-917689-90-5
+} noimg          _?                           ?
+!--- 96 pages - 7,30 euros
+- .oS.     E     _ATTALAH Marc               &Les robots ş2015
+&                _VALERY Francis             &
+&                _JACCAUD Fr‚d‚ric            
+o ACTU_MA     6  2016.05 ..... ISBN 978-2-36629-823-9
+} noimg          _?                           ?
+!--- 96 pages - 7,30 euros
+- .oS.     E     _ATTALAH Marc                L'art de la science-fiction ş2016
+!o ACTU_MA     7  2016.10 ..... ISBN 978-2-36629-829-1
+!} noimg          _?                           ?
+!- .x .     E     _JAVET David                &Les mangas ş2016
+!&                _PELLET Matthieu             
+o ACTU_MA     8  2017.05 ..... ISBN 978-2-36629-846-8
+} noimg          _?                           ?
+!--- 96 pages - 7,30 euros
+- .oS.     E     _ATTALAH Marc               &Le posthumain ş2017
+&                _JACCAUD Fr‚d‚ric            
+!o ACTU_MA     9  2019.01 ..... ISBN 978-2-36629-958-8
+!} noimg          _?                           ?
+!- .x .     E     _ATTALAH Marc               &Le jeu ş2019
+!&                _JACCAUD Fr‚d‚ric            
+o ACTU_MA    10  2020.03 ..... ISBN 978-2-37686-224-6
+} noimg          _?                           ?
+!--- 96 pages - 7,30 euros
+- .oS.     E     _ATTALAH Marc               &Les dystopies du num‚rique ş2020
+&                _JACCAUD Fr‚d‚ric            
+o ACTU_MA    11  2021.05 ..... ISBN 978-2-37686-402-8
+} noimg          _?                           ?
+!--- Poche - 120x180 - 95 pages
+- .oS.     E     _JACCAUD Fr‚d‚ric            Universal Monsters ş2021
+
+!-----------------------------------------------------------------------------
+_ CERES   ActuSF - C‚rŠs [num‚rique] [revue]
+!-----------------------------------------------------------------------------
+o CERES       1  2021.11 ..... ISBN 978-2-37686-445-5
+} noimg          _?                           ?
+- .o .    kM3    ****                         C‚rŠs nø 1 ş2021
+: .o .     N     _LAINE Sylvie                Petits arrangements intra-galactiques ş2012
+: .o .     N     _GECHTER Olivier             Huit siŠcles sur une ‚chelle de temps ş2017
+: .o .     N     _ALWETT Audrey               Le Gnome qui voulut ˆtre f‚e ş2017
+: .o .     a     _CAMPEIS Bertrand            2020 - Phoque Year ş2021
+: .o .     a     _BARILLIER Etienne           Dans le r‚tro (futur) ş2021
+: .o .     a     _JACCAUD Fr‚d‚ric            Maison d'ailleurs ş2021

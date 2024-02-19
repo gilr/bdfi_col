@@ -1,8 +1,8 @@
 !-----------------------------------------------------------------------------
 !--- Buchet Chastel
 !-----------------------------------------------------------------------------
-_ BUCH    Ed. Buchet-Chastel
-_ BUCH_FY Ed. Buchet-Chastel, Coll. Fantasy
+_ BUCH    Buchet-Chastel
+_ BUCH_FY Buchet-Chastel - Fantasy
 !-----------------------------------------------------------------------------
 !DEB_HEAD BUCHCHA
 !-----------------------------------------------------------------------------
@@ -36,7 +36,8 @@ o BUCH        ?  1964.xx ..... ISBN -
 } noimg          _?                           ?
 !--- BNF Format 19 cm, 256 pages
 !--- Avec Serge Gouchtchev d'aprŠs BNF
-- .o .     R     _VASSILIEV Mikhail           La Vie au XXIŠme SiŠcle þ1964 ? þTrad. NEUBOURG C. de
+- .o .     E     _VASSILIEV Mikhail          &La Vie au XXIŠme SiŠcle þ1964 ? þTrad. NEUBOURG C. de
+&                _GOUCHTCHEV Serge            
 !------------------------
 !=== 1982
 !------------------------
@@ -47,7 +48,7 @@ o BUCH        ?  1982.xx ..... ISBN -
 !------------------------
 !=== 1992
 !------------------------
-o BUCH        ?  1992.xx ..... ISBN  2-7020-1555-7
+o BUCH        ?  1992.xx ..... ISBN 2-7020-1555-7
 } noimg          _?                           ?
 !--- BNF Format 21 cm, 319 pages
 - .oYM     R     _GESLIN Colette              Les Feux de Beltaine þ1992
@@ -191,7 +192,7 @@ o BUCH_FY     ?  2003.10 ..... ISBN 2-283-01890-0
 o BUCH_FY     ?  2004.01 ..... ISBN 2-283-01897-8
 } bcf24          _Bruno David                 ?
 !--- BNF Format 24 cm, 570 pages
-- .oY.     R     _RADFORD Irene               Griffin [Les Descendants de Merlin - 2] þ2001 Guardian of the Vision þTrad. HOWE Anne
+- .oY.     R     _RADFORD Irene               Griffin [Les Descendants de Merlin - 3] þ2001 Guardian of the Vision þTrad. HOWE Anne
 !------------------------
 !=== 2010
 !------------------------
@@ -248,5 +249,12 @@ o BUCH        ?  2020.01 ..... ISBN 978-2-283-03325-8
 } noimg          _?                           ?
 !--- 14 x 18 cm - 288 pages - 18,00 euros
 - .oS.     R     _RYCHNER Antoinette          AprŠs le monde þ2020
+!------------------------
+!=== 2021
+!------------------------
+o BUCH        ?  2021.10 ..... ISBN 978-2-283-03366-1
+} noimg          _?                           ?
+!--- GF - 140x205 - 352 pages
+- .o .     R     _WINTERSON Jeanette          Frankissstein þ2019 Frankissstein þTrad. LEROY C‚line
 
 

@@ -1,8 +1,8 @@
 
 !-----------------------------------------------------------------------------
-_ CARNOPL Ed. Le Carnoplaste
-_ CARNOPC Ed. Le Carnoplaste, Coll. Cover to Cover
-_ CARNOPA Ed. Le Carnoplaste, Coll. Aventures
+_ CARNOPL Le Carnoplaste
+_ CARNOPC Le Carnoplaste - Cover to Cover
+_ CARNOPA Le Carnoplaste - Aventures
 !-----------------------------------------------------------------------------
 !------------------------
 !=== 2008
@@ -134,7 +134,7 @@ o CARNOPL     ?  2014.04 ..... ISBN 978-2-35790-029-5
 - .o .     N     _DARVEL Robert               L'Œle du docteur Corman þ2014
 o CARNOPL     ?  2014.04 ..... ISBN 978-2-35790-030-1
 } noimg          _J. Lab                      ?
-- .o .     N     _NADA Blaise                 Miasme m‚canique sur Mercure þ2014
+- .o .     N     _NADA Blaise                 Miasmes m‚caniques sur Mercure þ2014
 o CARNOPL     ?  2014.09 ..... ISBN 978-2-35790-031-8
 } noimg          _Ma M'Bo                     ?
 !--- Officiellement : Traduction FIEROBE Fran‡ois
@@ -189,19 +189,19 @@ o CARNOPL     ?  2016.11 ..... ISBN 978-2-35790-048-6
 o CARNOPA     1  2017.04 ..... ISBN 978-2-35790-049-3
 } noimg          _Fred Grivaud                ?
 !--- 32 pages (28)
-- .o .     N     _BAUDOU Jacques              Le Naufrag‚ de l'Œle de chair þ2017
-?o CARNOPA     2  2017.04 ..... ISBN 978-2-35790-050-9
-?} noimg          _Fred Grivaud                ?
-?!--- 32 pages
-?- .o .     N     _VILLACAMPA Jean-Hugues      Loyola de la jungle þ2017
+- .oA.     N     _BAUDOU Jacques              Le Naufrag‚ de l'Œle de chair þ2017
+o CARNOPA     2  2017.04 ..... ISBN 978-2-35790-050-9
+} noimg          _Fred Grivaud                ?
+!--- 32 pages
+- .xA.     N     _VILLACAMPA Jean-Hugues      Loyola de la jungle þ2017
 o CARNOPA     3  2017.04 ..... ISBN 978-2-35790-051-6
 } noimg          _Fred Grivaud                ?
 !--- 32 pages
-- .o .     N     _CUIDET Arnaud               Les Choeurs de la mer rouge þ2017
+- .oF.     N     _CUIDET Arnaud               Les Choeurs de la mer rouge þ2017
 o CARNOPA     4  2017.04 ..... ISBN 978-2-35790-052-3
 } noimg          _Fred Grivaud                ?
 !--- 32 pages
-- .o .     N     _HERBRETEAU Romuald          Perdus dans la zone commerciale þ2017
+- .oF.     N     _HERBRETEAU Romuald          Perdus dans la zone commerciale þ2017
 ?o CARNOPA     5  2017.06 ..... ISBN 978-2-35790-053-0
 ?} noimg          _Fred Grivaud                ?
 ?!--- 32 pages
@@ -209,23 +209,23 @@ o CARNOPA     4  2017.04 ..... ISBN 978-2-35790-052-3
 o CARNOPA     6  2017.06 ..... ISBN 978-2-35790-054-7
 } noimg          _Fred Grivaud                ?
 !--- 32 pages
-- .o .     N     _KARLOFF Elsa                Les Perles rouges de la d‚esse dragon þ2017
+- .oF.     N     _KARLOFF Elsa                Les Perles rouges de la d‚esse dragon þ2017
 o CARNOPA     7  2017.06 ..... ISBN 978-2-35790-055-4
 } noimg          _Fred Grivaud                ?
 !--- 32 pages
-- .o .     N     _V. J‚r“me                   Scelerata, rousse … l'ƒme noire þ2017
-?o CARNOPA     8  2017.06 ..... ISBN 978-2-35790-056-1
-?} noimg          _Fred Grivaud                ?
-?!--- 32 pages
-?- .? .     N     _SWAL Christophe             Les MonastŠre des femmes de cire þ2017
-?o CARNOPA     9  2017.09 ..... ISBN 978-2-35790-057-8
-?} noimg          _Fred Grivaud                ?
-?!--- 32 pages
-?- .x .     N     _HENRY Nicolas               Prisonniers des serpents þ2017
-?o CARNOPA    10  2017.09 ..... ISBN 978-2-35790-058-5
-?} noimg          _Fred Grivaud                ?
-?!--- 32 pages
-?- .o .     N     _PARTY Adrien                La Mort au crƒne de plƒtre þ2017
+- .oF.     N     _V. J‚r“me                   Scelerata, rousse … l'ƒme noire þ2017
+o CARNOPA     8  2017.06 ..... ISBN 978-2-35790-056-1
+} noimg          _Fred Grivaud                ?
+!--- 32 pages
+- .o .     N     _SWAL Christophe             Les MonastŠre des femmes de cire þ2017
+o CARNOPA     9  2017.09 ..... ISBN 978-2-35790-057-8
+} noimg          _Fred Grivaud                ?
+!--- 32 pages
+- .oAF     N     _HENRY Nicolas               Prisonniers des serpents þ2017
+o CARNOPA    10  2017.09 ..... ISBN 978-2-35790-058-5
+} noimg          _Fred Grivaud                ?
+!--- 32 pages
+- .oS.     N     _PARTY Adrien                La Mort au crƒne de plƒtre þ2017
 o CARNOPA    11  2017.09 ..... ISBN 978-2-35790-059-2
 } noimg          _Fred Grivaud                ?
 !--- 32 pages
@@ -233,7 +233,7 @@ o CARNOPA    11  2017.09 ..... ISBN 978-2-35790-059-2
 o CARNOPA    12  2017.09 ..... ISBN 978-2-35790-060-8
 } noimg          _Fred Grivaud                ?
 !--- 32 pages
-- .o .     N     _GEHA Thomas                 La Grande Guerre contre les os þ2017
+- .oFZ     N     _GEHA Thomas                 La Grande Guerre contre les os þ2017
 o CARNOPL     ?  2017.11 ..... ISBN 978-2-35790-061-5
 } noimg          _Patrick Mallet              ?
 - .o .     N     _BARILLIER Etienne           Jupiter aux dactyles þ2017
@@ -250,4 +250,41 @@ o CARNOPL     ?  2018.11 ..... ISBN 978-2-35790-068-4
 } noimg          _Isidore Moeduns             ?
 !--- "Fascicule nø 191"
 - .o .     N     _DARVEL Robert               Un couteau inconsolable [Harry Dickson] þ2018
+o CARNOPL     ?  2018.11 ..... ISBN 978-2-35790-068-4
+} noimg          _Isidore Moeduns             ?
+!--- "Fascicule nø 191"
+- .o .     N     _DARVEL Robert               Un couteau inconsolable [Harry Dickson] þ2018
+
+o CARNOPA    13  2018.04 ..... ISBN 978-2-35790-063-9
+} noimg          _?                           ?
+!--- 32 pages - 11,5 x 18 cm - 3 euros
+- .oF.     N     _CHADOUR Nelly               L'Horloge … cinq doigts þ2018
+o CARNOPA    14  2018.04 ..... ISBN 978-2-35790-064-6
+} noimg          _Fred Grivaud                ?
+!--- 32 pages - 11,5 x 18 cm - 3 euros
+- .oS.     N     _VALLET Dominik              Le visiteurs de l'‚toile naine þ2018
+o CARNOPA    15  2018.04 ..... ISBN 978-2-35790-065-3
+} noimg          _Fred Grivaud                ?
+!--- 32 pages - 11,5 x 18 cm - 3 euros
+- .oF.     N     _HEYLBROECK Julien           Les FrŠres Swamp þ2018
+o CARNOPA    16  2018.04 ..... ISBN 978-2-35790-066-0
+} noimg          _?                           ?
+!--- 32 pages - 11,5 x 18 cm - 3 euros
+- .? .     N     _CHIBH Phara                 Les Fakirs du pays vertical þ2018
+o CARNOPA    17  2018.11 ..... ISBN 978-2-35790-070-7
+} noimg          _?                           ?
+!--- 32 pages - 11,5 x 18 cm - 3 euros
+- .? .     N     _SOREL Nicolas               Sous les sables mouvants þ2018
+o CARNOPA    18  2018.11 ..... ISBN 978-2-35790-071-4
+} noimg          _?                           ?
+!--- 32 pages - 11,5 x 18 cm - 3 euros
+- .? .     N     _ROBIN Philippe              La Cellule t‚n‚breuse þ2018
+o CARNOPA    19  2018.11 ..... ISBN 978-2-35790-072-1
+} noimg          _?                           ?
+!--- 32 pages - 11,5 x 18 cm - 3 euros
+- .oF.     N     _CORTEGGIANI Fran‡ois        Sous les Sargasses þ2018
+o CARNOPA    20  2018.11 ..... ISBN 978-2-35790-073-8
+} noimg          _?                           ?
+!--- 32 pages - 11,5 x 18 cm - 3 euros
+- .oS.     N     _GEHA Thomas                 Traqu‚es dans une aube de pierre þ2018
 

@@ -1,7 +1,7 @@
 
 !-----------------------------------------------------------------------------
-_ B&C_ETR Ed. Banquises & ComŠtes, Coll. Archives de l'‚trange
-_ B&C_REV Ed. Banquises & ComŠtes, Revue Archives de l'‚trange (num‚rique)
+_ B&C_ETR Banquises & ComŠtes - Archives de l'‚trange
+_ B&C_REV Banquises & ComŠtes - Revue Archives de l'‚trange [num‚rique]
 !-----------------------------------------------------------------------------
 
 !------------------------
@@ -69,22 +69,32 @@ o B&C_ETR     ?  2018.xx ..... ISBN 979-10-94569-41-2
 !------------------------
 o B&C_ETR     ?  2019.xx ..... ISBN 979-10-94569-34-4
 } banqcom12      _?                           ?
-- .o .     R     _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1] þ1925
+- .o .     r     _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1] þ1925
 o B&C_ETR     ?  2019.xx ..... ISBN 979-10-94569-02-3
 } banqcom13       _?                           ?
 - .oF.     N2    _HAWTHORNE Nathaniel         La Fille aux poisons suivi de La Marque de naissance þ2019
 : .oF.     N     _HAWTHORNE Nathaniel         La Fille aux poisons þ1844 Rappaccini's Daughter
 : .o .     N     _HAWTHORNE Nathaniel         La Marque de naissance þ1843 The Birthmark
+!------------------------
+!=== 2020
+!------------------------
+o B&C_ETR     ?  2020.03 ..... ISBN 979-10-94569-45-0
+} banqcom14      _?                           ?
+!--- 140x210 - 140 pages - 10, 00 euros
+- .oF.    kN3    _DOYLE Arthur Conan          Trois contes fantastiques þ2020
+: .oF.     r     _DOYLE Arthur Conan          Le Parasite þ1894 The Parasite
+: .oF.     N     _DOYLE Arthur Conan          Le Lot nø 249 þ1892 Lot Nø 249 þTrad. VIGNEAUX Pierre
+: .o .     N     _DOYLE Arthur Conan          La Main brune þ1899 The Story of the Brown Hand / The Brown Hand
 
 !-----------------------------------------------------------------------------
-_ B&C_FRI Ed. Banquises & ComŠtes, Coll. Frisson du jour
+_ B&C_FRI Banquises & ComŠtes - Frisson du jour
 !-----------------------------------------------------------------------------
 o B&C_FRI     ?  2016.xx ..... ISBN 979-10-94569-23-8
 } noimg          _?                           ?
 - .o .     N     _RABASCO Antoine             C.U.P.I.D.O.N. - Erreur fatale þ2016
 
 !-----------------------------------------------------------------------------
-_ B&C_ROB Ed. Banquises & ComŠtes, Coll. Robinson et Cie
+_ B&C_ROB Banquises & ComŠtes - Robinson et Cie
 !-----------------------------------------------------------------------------
 o B&C_ROB     ?  2014.xx ..... ISBN 979-10-94569-01-6
 } noimg          _?                           Manuel Orazi
@@ -119,7 +129,7 @@ o B&C_ROB     ?  2017.xx ..... ISBN 979-10-94569-10-8
 
 
 !-----------------------------------------------------------------------------
-_ B&C_PPN Ed. Banquises & ComŠtes, Coll. Premier pas dans le noir
+_ B&C_PPN Banquises & ComŠtes - Premier pas dans le noir
 !-----------------------------------------------------------------------------
 o B&C_PPN     ?  2018.xx ..... ISBN 979-10-94569-35-1
 } banqcom1erpas01 _Jacques W‚ly                ?
@@ -134,4 +144,5 @@ o B&C_PPN     ?  2018.xx ..... ISBN 979-10-94569-35-1
 
 ?o B&C_ETR     ?  2015.01 ..... ISBN ??
 ?} noimg          _?                           ?
-?- .oF.     R     _NODIER Charles              Contes fantastiques þ2015
+?- .oF.     R     _NODIER Charles              Contes fantastiques ((Contes de Charles Nodier)) þ2015
+

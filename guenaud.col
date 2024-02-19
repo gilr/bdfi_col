@@ -1,5 +1,5 @@
 !-----------------------------------------------------------------------------
-_ CGAZ    Ed. Gu‚naud, Coll. Azimut
+_ CGAZ    Gu‚naud - Azimut
 !-----------------------------------------------------------------------------
 !--- Editions Gu‚naud - Collection Azimut
 !-----------------------------------------------------------------------------
@@ -16,7 +16,7 @@ o CGAZ        ?  1977.xx ..... ISBN 2-86215-003-7
 ?- .? .     N5    _BLOCH Robert                Les cadavres ne meurent jamais þ?
 
 !-----------------------------------------------------------------------------
-_ CGPO    Ed. Clancier-Gu‚naud, Coll. "Polars"
+_ CGPO    Clancier-Gu‚naud - "Polars"
 !-----------------------------------------------------------------------------
 !--- Editions Clancier-Gu‚naud
 !---  Collection "Polars" dirig‚e Fran‡ois GUERIF
@@ -47,7 +47,7 @@ o CGPO        4  1981.xx ..... ISBN 2-86215-019-3
 } noimg          _?                           ?
 !--- six nouvelles in‚dites
 !--- traduit de l'am‚ricain par MichŠle Valencia ; postface de Michael Avallone
-- .xP.    iN6    _IRISH William               La Ran‡on du hasard þ1981
+- .xP.    iNx    _IRISH William               La Ran‡on du hasard þ1981
 o CGPO        5  1981.xx ..... ISBN 2-86215-021-5
 !--- erron‚ 2-86215-022-
 } noimg          _?                           ?
@@ -127,7 +127,7 @@ o CGPO       24  1987.xx ..... ISBN 2-86215-096-7
 !--- nø 2 de la s‚rie "Thackeray Phin", aprŠs "L'Aura mal‚fique"
 
 !-----------------------------------------------------------------------------
-_ CGLP    Ed. Clancier-Gu‚naud, Litt‚rature policiŠre et d'anticipation
+_ CGLP    Clancier-Gu‚naud - Litt‚rature policiŠre et d'anticipation
 !-----------------------------------------------------------------------------
 !--- Editions Clancier-Gu‚naud
 !--- Litt‚rature policiŠre et d'anticipation
@@ -149,7 +149,7 @@ o CGLP        ?  1987.xx ..... ISBN .-.....-...-.
 - .oS.     R     _BLISH James                 S‚quence sigma þ1949-1952 Let the Finder Beware / Jack of Eagles
 
 !-----------------------------------------------------------------------------
-_ CGTO    Ed. Clancier-Gu‚naud, Coll. "Au troisiŠme oeil"
+_ CGTO    Clancier-Gu‚naud - Au troisiŠme oeil
 !-----------------------------------------------------------------------------
 !--- Collection "Au troisiŠme oeil"   Direction St‚phane BOURGOIN
 !-----------------------------------------------------------------------------
@@ -158,7 +158,7 @@ o CGTO        1  1983.xx ..... ISBN 2-86215-042-8
 - .oF.     A9    _BLOCH Robert               &Le D‚mon noir þ1983
 &                *BOURGOIN St‚phane           
 !--- Nouvelles ‚crites pour Weird Tales en hommage … HPL
-: .o .     N     _BLOCH Robert                Le secret de la tombe þ1935 The Secret in the Tomb
+: .o .     N     _BLOCH Robert                Le Secret de la tombe þ1935 The Secret in the Tomb
 : .o .     N     _BLOCH Robert                L'Exp‚rience de James Allington þ1935 The Suicide in the Study
 : .o .     N     _BLOCH Robert                Le Dieu sans visage þ1936 The Faceless God
 : .o .     N     _BLOCH Robert                Le D‚mon noir þ1936 The Dark Demon
@@ -236,7 +236,7 @@ o CGTO        6  1987.xx ..... ISBN 2-86215-097-5
 !GRP_OUVR 8
 !TIT_COLL S‚rie 33
 !-----------------------------------------------------------------------------
-_ CG33    Ed. Clancier-Gu‚naud, Coll. "S‚rie 33"
+_ CG33    Clancier-Gu‚naud - S‚rie 33
 !-----------------------------------------------------------------------------
 !--- 16 ouvrages, romans ou recueils de nouvelles sympathiques de grands noms du
 !--. genre dans cette collection qui mŠle polar, thriller, fantastique et SF,
@@ -247,51 +247,52 @@ _ CG33    Ed. Clancier-Gu‚naud, Coll. "S‚rie 33"
 !FIN_HEAD CG33
 !DEB_COLL CG33
 o CG33        1  1988.03 ..... ISBN 2-86215-104-1
-}cguenaud_s33_1  _?                           N
+} cguenaud_s33_1 _?                           N
 - .x .     R     _NISHIMURA Kyotaro           Les grands d‚tectives n'ont pas froid aux yeux þ? ? þTrad. BOUVIER Jean-Christian
 o CG33        2  1988.03 ..... ISBN 2-86215-113-0
-}cguenaud_s33_2  _?                           N
+} cguenaud_s33_2 _?                           N
 - .xP.     R     _BROWN Fredric               La mort a ses entr‚es [Ed et Am Hunter] þ1951 Death Has many Doors þTrad. LENCLUD Jacqueline
 o CG33        3  1988.03 ..... ISBN 2-86215-102-5
-}cguenaud_s33_3  _?                           N
+} cguenaud_s33_3 _?                           N
 - .o .     R     _MATHESON Richard            Echos þ1958 A Stir of Echoes þTrad. GRATIAS Jean-Paul
 o CG33        4  1988.03 R.... ISBN 2-86215-109-2
 !--- A v‚rifier : -009-5 (erron‚) sur le livre ?
-}cguenaud_s33_4  _?                           N
+} cguenaud_s33_4 _?                           N
 - .x .     R     _BLOCH Robert                Psychopathe þ1962 The Couch þTrad. BOURGOIN St‚phane
 o CG33        5  1988.04 R.... ISBN 2-86215-120-3
-}cguenaud_s33_5  _?                           N
+} cguenaud_s33_5 _?                           N
 - .oF.    _N3    _BROWN Fredric              &Mort d'un vampire þ1988
 &                *BOURGOIN St‚phane           
 : .oF.     N     _BROWN Fredric               Rouge comme l'enfer þ1942 Red Is the Hue of Hell þTrad. BOURGOIN St‚phane
 : .oF.     N     _BROWN Fredric               Mort d'un vampire þ1943 Death of a Vampire þTrad. BOURGOIN St‚phane
 : .oF.     N     _BROWN Fredric               Meurtre chez les monstres þ1943 The Freak Show Murders þTrad. BOURGOIN St‚phane
 o CG33        6  1988.04 ..... ISBN 2-86215-122-X
-}cguenaud_s33_6  _?                           N
+} cguenaud_s33_6 _?                           N
 - .o .     R     _IRISH William               Le Territoire des morts þ1952 Savage Bride þTrad. CHERGE G‚rard de
 o CG33        7  1988.04 R.... ISBN 2-86215-121-1
-}cguenaud_s33_7  _?                           N
+} cguenaud_s33_7 _?                           N
 - .o .     R     _SLADEK John T.              L'Aura mal‚fique þ1974 Black Aura þTrad. GRATIAS Jean-Paul
 o CG33        8  1988.04 ..... ISBN 2-86215-107-6
-}cguenaud_s33_8  _?                           N
+} cguenaud_s33_8 _?                           N
+>--- Ne contient que 6 des 12 nouvelles du recueil original.
 - .oF.    _N6    _FINNEY Jack                 Contretemps þ1970 Time and Again þTrad. VERAIN J‚r“me
 : .o .     p     _BOURGOIN St‚phane           Jack Finney : … la recherche du temps perdu þ1988
 : .o .     N     _FINNEY Jack                 Un printemps … Galesburg þ1960 I Love Galesburg in the Springtime þTrad. VERAIN J‚r“me
 : .o .     N     _FINNEY Jack                 Des voisins originaux þ1951 Such Interesting Neighbors þTrad. VERAIN J‚r“me
 : .o .     N     _FINNEY Jack                 La Photo þ1962 The Face in the Photo / Time Has No Boundaries þTrad. VERAIN J‚r“me
 : .o .     N     _FINNEY Jack                 Les Disparus þ1955 Of Missing Persons þTrad. VERAIN J‚r“me
-: .o .     N     _FINNEY Jack                 J'ai peu þ1951 I'm Scared þTrad. VERAIN J‚r“me
-: .o .     N     _FINNEY Jack                 H‚ ! regardez-moi... þ1962 Hey, Look at Me! þTrad. VERAIN J‚r“me
+: .o .     N     _FINNEY Jack                 J'ai peur þ1951 I'm Scared þTrad. VERAIN J‚r“me
+: .o .     N     _FINNEY Jack                 H‚ ! Regardez-moi... þ1962 Hey, Look at Me! þTrad. VERAIN J‚r“me
 o CG33        9  1988.06 ..... ISBN 2-86215-128-9
-}cguenaud_s33_9  _?                           N
+} cguenaud_s33_9 _?                           N
 - .oF.    _N9    _MATHESON Richard           &CimetiŠre blues þ1988
 &                *BOURGOIN St‚phane           
 : .o .     N     _MATHESON Richard            Les Autres þ1953 Full Circle þTrad. BOURGOIN St‚phane
-: .o .     N     _MATHESON Richard            Le Dernier Jour þ1954 Descent þTrad. BOURGOIN St‚phane
+: .o .     N     _MATHESON Richard            Le Dernier Jour þ1953 The Last Day þTrad. BOURGOIN St‚phane
 : .o .     N     _MATHESON Richard            Le D‚sert de la mort þ1953 Dying Room Only þTrad. BOURGOIN St‚phane
 : .o .     N     _MATHESON Richard            Des nerfs d'acier þ1956 Steel þTrad. BOURGOIN St‚phane
 : .o .     N     _MATHESON Richard            Invasion USA þ1959 The Creeping Terror / A Touch of Grapefruit þTrad. BOURGOIN St‚phane
-: .o .     N     _MATHESON Richard            Alien nation þ1951 Letter to the Editor / Advance Notice þTrad. BOURGOIN St‚phane
+: .o .     N     _MATHESON Richard            Alien nation þ1952 Letter to the Editor / Advance Notice þTrad. BOURGOIN St‚phane
 : .o .     N     _MATHESON Richard            CimetiŠre blues þ1960 Day of Reckoning / The Faces þTrad. BOURGOIN St‚phane
 : .o .     N     _MATHESON Richard            Les Grillons þ1960 Crickets þTrad. BOURGOIN St‚phane
 : .o .     N     _MATHESON Richard            Julie þ1962 The Likeness of Julie þTrad. BOURGOIN St‚phane
@@ -309,8 +310,8 @@ o CG33       13  1988.10 ..... ISBN 2-86215-148-3
 - .p .     Nx    _NISHIMURA Kyotaro           Petits crimes japonais þ? ? þTrad. BOUVIER Jean-Christophe et GRATIAS Jean-Paul
 : .o .     N     _NISHIMURA Kyotaro           Petit crime japonais þ? ? þTrad. VIALA J.
 o CG33       14  1988.10 R.... ISBN 2-86215-140-8
-}cguenaud_s33_14 _?                           N
-- .o .     N8    _BLOCH Robert                Le MaŒtre du pass‚ þ1955 The Past Master þTrad. BOURGOIN St‚phane
+} cguenaud_s33_14 _?                           N
+- .oF.     N8    _BLOCH Robert                Le MaŒtre du pass‚ þ1955 The Past Master þTrad. BOURGOIN St‚phane
 : .o .     N     _BLOCH Robert                C'est arriv‚ demain þ1943 It Happened Tomorrow þTrad. BOURGOIN St‚phane
 : .o .     N     _BLOCH Robert                La Pension des monstres þ1939 Unheavenly Twin þTrad. BOURGOIN St‚phane
 : .o .     N     _BLOCH Robert                Une dent contre lui þ1950 Tooth or Consequences þTrad. BOURGOIN St‚phane
@@ -321,7 +322,7 @@ o CG33       14  1988.10 R.... ISBN 2-86215-140-8
 : .o .     N     _BLOCH Robert                Le MaŒtre du pass‚ þ1955 The Past Master þTrad. BOURGOIN St‚phane
 o CG33       15  1988.10 ..... ISBN 2-86215-141-6
 }cguenaud_s33_15 _?                           N
-- .x .     R     _GOODIS David                Obsession þ1952 Of tender sin þTrad. CHERGE G‚rard de
+- .x .     R     _GOODIS David                Obsession þ1952 Of Tender Sin þTrad. CHERGE G‚rard de
 o CG33       16  1988.10 ..... ISBN 2-86215-139-4
 }cguenaud_s33_16 _?                           N
 - .oS.    _N4    _BROWN Fredric              &La Vie sexuelle sur Mars þ1988

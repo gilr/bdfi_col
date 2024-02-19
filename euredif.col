@@ -2,7 +2,7 @@
 !DEB_HEAD EUREDFG
 !TIT_COLL Flash Gordon
 !-----------------------------------------------------------------------------
-_ EUREDFG Eur‚dif, Coll. Flash Gordon
+_ EUREDFG Eur‚dif - Flash Gordon
 !-----------------------------------------------------------------------------
 !--- Cette collection qui date de 1981 traduit les novelisations de bandes
 !--. dessin‚es de Dan Barry, d'aprŠs le personnage cr‚‚ par Alex Raymond,
@@ -23,7 +23,7 @@ o EUREDFG     3  1981.xx ..... ISBN 2-7167-0809-6
 - .oS.     R     _STEFFANSON Con              Les Hommes-Lions de Mongo [Flash Gordon] þ1974 The Lion Men of Mongo þTrad. MANOUKIAN P.
 o EUREDFG     4  1981.xx ..... ISBN 2-7167-0810-X
 }euredfg04       _?                           ?
-- .oS.     R     _STEFFANSON Con              Le Pendulum de Ming XIII [Flash Gordon] þ1974 The Time Trap of Ming XIII þTrad. MANOUKIAN P.
+- .oS.     R     _BINGHAM Carston             Le Pendulum de Ming XIII [Flash Gordon] þ1974 The Time Trap of Ming XIII þTrad. MANOUKIAN P.
 o EUREDFG     5  1981.xx ..... ISBN 2-7167-0817-7
 }euredfg05       _?                           ?
 - .oS.     R     _STEFFANSON Con              Les Musiques de la mort [Flash Gordon] þ1974 The Plague of Sound þTrad. MANOUKIAN P.
@@ -35,7 +35,7 @@ o EUREDFG     6  1981.xx ..... ISBN 2-7167-0818-5
 !DEB_HEAD EUREDIP
 !TIT_COLL Science Fiction
 !-----------------------------------------------------------------------------
-_ EUREDIP Euredif/Playboy, Science Fiction
+_ EUREDIP Euredif/Playboy - Science Fiction
 !-----------------------------------------------------------------------------
 !---  ISSN 0763-336-X
 !-----------------------------------------------------------------------------
@@ -49,7 +49,7 @@ o EUREDIP     7  1984.xx ..... ISBN 2-7167-1136-4
 - .oS.     R     _BARNES Tex                  Le Cas Jackson þ1984
 o EUREDIP    11  1984.xx ..... ISBN 2-7167-1150-X
 } playboy11      _?                           N
-- .oS.     R     _SURTISS James               Les Disparus de Duvla þ1984
+- .oS.     R     _SURISS James                Les Disparus de Duvla þ1984
 o EUREDIP    15  1984.xx ..... ISBN 2-7167-1157-7
 } playboy15      _?                           N
 - .oF.     R     _HODGSON William Hope        Les Canots du "Glen Carrig" þ1907 The Boats of the "Glen Carrig"
@@ -83,7 +83,7 @@ o EUREDIP    35  1984.T4 ..... ISBN 2-7167-1223-9
 : .oY.     N     _HOWARD Robert E.            Ceux qui allŠrent au del… du soleil levant þ1967 Riders Beyond the Sunrise
 : .oY.     N     _HOWARD Robert E.            Par cette hache, je rŠgne ! þ1967 By This Axe I Rule!
 : .oY.     N     _HOWARD Robert E.            Le Coup de gong þ1967 The Striking of the Gong
-: .oY.     N     _HOWARD Robert E.            Les ‚p‚es du royaume pourpre þ1967 Swords of the Purple
+: .oY.     N     _HOWARD Robert E.            Les ‚p‚es du royaume pourpre þ1967 Swords of the Purple Kingdom
 : .oY.     N     _HOWARD Robert E.            Magicien et guerrier þ1967 Wizard and Warrior
 : .oY.     N     _HOWARD Robert E.            Les Miroirs de Tuzun Thune þ1929 The Mirrors of Tuzun Thune
 : .oY.     N     _HOWARD Robert E.            Le Roi et le chˆne þ1939 The King and the Oak
@@ -93,15 +93,15 @@ o EUREDIP    39  1985.xx ..... ISBN 2-7167-1263-8
 - .oSJ     R     _CREMIEUX A. & J.            Chute libre [Chute libre - 1] þ1955
 o EUREDIP    45  1985.xx ..... ISBN 2-7167-1275-1
 } playboy45      _?                           N
+>--- Le titre est orthographi‚ "... et je viendrais" (pas seulement en couverture).
 - .oF.    _N9    _JAMES Montague Rhodes       Siffle et je viendrai þ1982
-!--- "... et je viendrais" (partout, pas seulement en couverture !)
 : .o .     N     _JAMES Montague Rhodes       SortilŠge þ1911 Casting the Runes þTrad. RAS Jos
 : .o .     N     _JAMES Montague Rhodes       Coeurs perdus þ1895 Lost Hearts þTrad. PAPY Jacques
 : .o .     N     _JAMES Montague Rhodes       Le Labyrinthe þ1911 Mr Humphreys and His Inheritance þTrad. BARONIAN Anne
 : .o .     N     _JAMES Montague Rhodes       Le Num‚ro 13 þ1899 Number 13 þTrad. CAMILLE Georgette
 : .o .     N     _JAMES Montague Rhodes       Le Frˆne þ1904 The Ash-Tree þTrad. FERRY Odette
 : .o .     N     _JAMES Montague Rhodes       La Maison de poup‚es hant‚e þ1923 The Haunted Dolls' House þTrad. DOREMIEUX Alain
-: .o .     N     _JAMES Montague Rhodes       Siffle, et je viendrai þ1904 "Oh Whistle, and I'll Come to You, My Lad" þTrad. DOREMIEUX Alain
+: .o .     N     _JAMES Montague Rhodes       Siffle, et je viendrai þ1904 "Oh, Whistle, and I'll Come to You, My Lad" þTrad. DOREMIEUX Alain
 : .o .     N     _JAMES Montague Rhodes       Du haut de la colline þ1925 A View from a Hill þTrad. DEMUTH Michel
 : .o .     N     _JAMES Montague Rhodes       Le Comte Magnus þ1904 Count Magnus þTrad. STRAGLIATI Roalnd et MARTENON Fran‡oise
 o EUREDIP    51  1985.T1 ..... ISBN 2-7167-1287-5
@@ -129,7 +129,7 @@ o EUREDIP    57  1985.xx ..... ISBN 2-7167-1297-2
 !-- 10 :RP:1984:2716711496:  McGerr, Patricia Pariez sur la victime
 !-- 11 :SF:1984:271671150X:  Surtiss, James Les Disparus de Duvla
 !-- 12   Lengton, Tony PiŠge … Capri
-!-- 13   M‚moires de Suzon : sour du portier des Chartreux. (Suivis de) Histoire de Marguerite : fille de Suzon
+!-- 13   M‚moires de Suzon : soeur du portier des Chartreux. (Suivis de) Histoire de Marguerite : fille de Suzon
 !-- 14   Contrucci, Jean La Poisse
 !-- 15 :SF:1984:271671....:  Hodgson, William Hope Les Canots du "Glen Carrig"
 !-- 16 :AE:1984:271671....:  Aldiss, Brian Wilson Un Petit gar‡on ‚lev‚ … la main
@@ -179,7 +179,7 @@ o EUREDIP    57  1985.xx ..... ISBN 2-7167-1297-2
 !-- 60  Benjamin, Jo‰l Refuge d'amours
 
 !-----------------------------------------------------------------------------
-_ EUREDIA Euredif, Coll. AtmosphŠre
+_ EUREDIA Euredif - AtmosphŠre
 !-----------------------------------------------------------------------------
 !---  
 !-----------------------------------------------------------------------------

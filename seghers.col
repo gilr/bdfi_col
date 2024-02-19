@@ -8,8 +8,8 @@
 !-----------------------------------------------------------------------------
 _ SEGHERS Seghers
 _ SEGH_J  Seghers Jeunesse
-_ SEGH_PS Seghers, Coll. P.S.
-_ SEGH_MH Seghers, Coll. 1001 histoires
+_ SEGH_PS Seghers - P.S.
+_ SEGH_MH Seghers - 1001 histoires
 !-----------------------------------------------------------------------------
 o SEGHERS     ?  1949.xx ..... ISBN -
 } noimg          _?                           Salvador Dali
@@ -26,7 +26,7 @@ o SEGHERS     ?  1976.xx ..... ISBN .-.....-...-.
 - .o .     G     _BOGDANOFF I. & G.           Clefs pour la science-fiction ş1976
 o SEGHERS     ?  1979.xx ..... ISBN -
 } noimg          _?                           ?
-- .oT.     R     _STRAUB Peter                Julia ş1976 Julia şTrad. STRASCHITZ Frank
+- .oT.     R     _STRAUB Peter                Julia ş1975 Julia şTrad. STRASCHITZ Frank
 !--- film "le cercle infernal"
 o SEGHERS     ?  1979.xx ..... ISBN -
 } noimg          _?                           ?
@@ -780,7 +780,7 @@ o SEGH_J      ?  2005.09 ..... ISBN 2-232-12271-9
 
 
 !-----------------------------------------------------------------------------
-_ SEGC    Seghers, Constellations
+_ SEGC    Seghers - Constellations
 !-----------------------------------------------------------------------------
 !--- collection "Constellations", dirig‚e par G‚rard Klein
 !-----------------------------------------------------------------------------
@@ -794,14 +794,14 @@ o SEGC        1i 1975.xx ..... ISBN 2-232-11477-5
 : .oS.     N     _EKLUND Gordon               Memphis, par un ‚t‚ torride ş1972 White Summer in Memphis
 : .oS.     N     _LAFFERTY Raphael A.         Grincantes charniŠres du monde ş1971 Groaning Hinges of the World
 : .oS.     N     _LE GUIN Ursula K.           Ceux qui partent d'Omelas ş1973 The Ones who Walk Away from Omelas şTrad. PLANCHAT Henry-Luc
-: .oS.     N     _WOLFE Gene                  La Mort du docteur Ile ş1973 The Death of Dr. Island
+: .oS.     r     _WOLFE Gene                  La Mort du docteur Ile ş1973 The Death of Dr. Island
 : .oS.     N     _ZELAZNY Roger               Nuit sans lune … Byzance ş1962 Moonless in Byzantium şTrad. PLANCHAT Henry-Luc
 : .oS.     N     _TIPTREE James Jr.           Le plan est l'amour, le plan est la mort ş1973 Love Is the Plan, the Plan Is Death
 : .oS.     N     _DELANY Samuel               Le Temps consid‚r‚ comme une h‚lice de pierres semi-pr‚cieuses ş1969 Time Considered as a Helix of Semi-precious Stones
 : .oS.     N     _McINTYRE Vonda N.           De Source, S‚ve, et Sable ş1973 Of Myst, and Grass, and Sand
 o SEGC        2i 1975.xx ..... ISBN 2-232-11482-1
 } seghconst2     _?                           ?
-- .oS.     A20   *KLEIN G‚rard               &Le Grandiose avenir [Anthologie de la SF fran‡aise - Tome 1 : Les ann‚es 50] ş1975
+- .oS.     A20   *KLEIN G‚rard               &Le Grandiose avenir - Les ann‚es 50 [Anthologie de la SF fran‡aise - 1] ş1975
 &                *BATTESTINI Monique          
 : .oS.     N     _BARJAVEL Ren‚               B‚ni soit l'atome ş1945
 : .oS.     N     _MADEC Gil                   Le Contretype ş1955
@@ -826,7 +826,7 @@ o SEGC        2i 1975.xx ..... ISBN 2-232-11482-1
 : .oS.     N     _PORTE Jean                  Le Grandiose avenir ş1958
 o SEGC        3i 1976.xx ..... ISBN 2-232-11456-2
 } seghconst3     _?                           ?
-- .oS.    _A20   *KLEIN G‚rard                En un autre pays [Anthologie de la SF fran‡aise - Tome 2 : 1960-1964] ş1976
+- .oS.    _A20   *KLEIN G‚rard                En un autre pays - 1960-1964 [Anthologie de la SF fran‡aise - 2] ş1976
 : .oS.     N     _DOREMIEUX Alain             L'Habitant des ‚toiles ş1960
 : .oS.     N     _TOPOR Roland                L'Amour fou ş1960
 : .oS.     N     _RUELLAN Andr‚               Point de tangence ş1963
@@ -838,7 +838,7 @@ o SEGC        3i 1976.xx ..... ISBN 2-232-11456-2
 : .oS.     N     _VERLANGER Julia             Le Mal du dieu ş1960
 : .oS.     N     _BATTIN Marcel               Le Visiteur ş1961
 : .oS.     N     _VERSINS Pierre              L'Enfant n‚ pour l'espace ş1964
-: .oS.     N     _DOBZYNSKI Charles           L'Op‚ra de l'espace ş1963
+: .oS.     P     _DOBZYNSKI Charles           L'Op‚ra de l'espace ş1963
 : .oS.     N     _STERNBERG Jacques           Les ‚ph‚mŠres ş1962
 : .oS.     N     _HENNEBERG Charles           La Vall‚e d'Avallon ş1960
 : .oS.     N     _EHRWEIN Michel              Le Retour des cigognes ş1961
@@ -849,7 +849,7 @@ o SEGC        3i 1976.xx ..... ISBN 2-232-11456-2
 : .oS.     N     _DEMUTH Michel               L'Homme de l'‚t‚ ş1963
 o SEGC        4i 1977.xx ..... ISBN 2-232-11402-3
 } seghconst4     _?                           ?
-- .oS.    _A17   *KLEIN G‚rard               &Ce qui vient des profondeurs [Anthologie de la SF fran‡aise - Tome 3 : 1965-1970] ş1977
+- .oS.    _A17   *KLEIN G‚rard               &Ce qui vient des profondeurs - 1965-1970 [Anthologie de la SF fran‡aise - 3] ş1977
 &                *GOIMARD Jacques             
 : .oS.     p     _GOIMARD Jacques             Pr‚face ş1977
 : .oS.     N     _KLEIN G‚rard                Avis aux directeurs de jardins zoologiques ş1969
@@ -864,21 +864,21 @@ o SEGC        4i 1977.xx ..... ISBN 2-232-11402-3
 : .oS.     N     _WALTHER Daniel              Wilovyi ş1968
 : .oS.     N     _DOREMIEUX Alain             Journal d'une jeune fille du XXVŠme siŠcle ş1967
 : .oS.     N     _NIGON Serge                 L'Hosite ş1969
-: .oS.     N     _DEMUTH Michel               La Course de l'oiseau boum-boum [Les Galaxiales] ş1967
+: .oS.     N     _DEMUTH Michel               La Course de l'oiseau Boum-Boum [Les Galaxiales] ş1967
 : .oS.     N     _MICHEL Gilbert              Comme un oiseau bless‚ ş1970
 : .oS.     N     _ANDREVON Jean-Pierre        La R‚serve ş1968
 : .oS.     c     _BEART Guy                   Ann‚es-lumiŠre ş1976
 : .oS.     c     _BEART Guy                   Les Enfants de la Lune ş1976
 
 !-----------------------------------------------------------------------------
-_ SEGF    Seghers, Les fenˆtres de la nuit
+_ SEGF    Seghers - Les fenˆtres de la nuit
 !-----------------------------------------------------------------------------
 !---  Collection   Les fenˆtres de la nuit (1980-1983)
 !--- Collection dirig‚e par G‚rard Klein et Bernard Ourdin
 !-----------------------------------------------------------------------------
 o SEGF        1  1980.xx ..... ISBN 2-221-50103-9
 } fnuit01        _?                           ?
-- .oF.     C17   _REMY Yves & Ada             Les Soldats de la mer ş1968
+- .oI.     C17   _REMY Yves & Ada             Les Soldats de la mer ş1968
 : .o .     N     _REMY Yves & Ada             Suicide par imprudence ş1968
 : .o .     N     _REMY Yves & Ada             Celui qui se faisait appeler Schaeffer ş1968
 : .o .     N     _REMY Yves & Ada             Mort pitoyable d'un oupire ş1968
@@ -926,31 +926,32 @@ o SEGF        9  1982.xx ..... ISBN 2-221-00906-1
 - .oS.     R     _ROSZAK Theodore             Puces ş1981 Bugs şTrad. POLANIS Jacques
 o SEGF       10  1983.xx ..... ISBN 2-221-00762-X
 } fnuit10        _?                           ?
-- .oF.     R     _PERUTZ Leo                  Le Cavalier su‚dois ş1936 Der schweidische reiter şTrad. DABER Fr‚d‚rique
 !--- version tronqu‚e
+- .oF.     R     _PERUTZ Leo                  Le Cavalier su‚dois ş1936 Der schweidische reiter şTrad. DABER Fr‚d‚rique
 o SEGF       11  1983.xx ..... ISBN 2-221-01106-6
 } fnuit11        _?                           ?
-- .oF.    iN20   _HARVEY William F.           La Bˆte … cinq doigts ş1946 Midnight Tales şTrad. BAUDRY Yvonne
-: .o .     N     _HARVEY William F.           La Maison de minuit ş1910 Midnigh House
-: .o .     N     _HARVEY William F.           Les Dabblers ş1928 The Dabblers
-: .o .     N     _HARVEY William F.           De fil en aiguille ş1910 Unwinding
-: .o .     N     _HARVEY William F.           Madame Ormerod ş1933 Mrs. Ormerod
-: .o .     N     _HARVEY William F.           Les D‚mons vont par deux ş1933 Double Demon
-: .o .     N     _HARVEY William F.           L'Instrument ş1928 The Tool
-: .o .     N     _HARVEY William F.           Le Coeur de l'ƒtre ş1928 The Heart of the Fire
-: .o .     N     _HARVEY William F.           Le R‚veil ş1928 The Clock
-: .o .     N     _HARVEY William F.           Peter Levisham ş1928 Peter Levisham
-: .o .     N     _HARVEY William F.           Miss Cornelius ş1928 Miss Cornelius
-: .o .     N     _HARVEY William F.           L'Homme qui d‚testait les aspidistras ş1933 The Man who Hated Aspidistras
-: .o .     N     _HARVEY William F.           Sambo ş1910 Sambo
-: .o .     N     _HARVEY William F.           L'toile ş1910 The Star
-: .o .     N     _HARVEY William F.           A travers la lande ş1910 Across the Moors
-: .o .     N     _HARVEY William F.           Le Disciple ş1933 The Follower
-: .o .     N     _HARVEY William F.           Dans la chaleur d'ao–t ş1910 August Heat
-: .o .     N     _HARVEY William F.           Sarah Bennet, la poss‚d‚e ş1910 Sarah Bennet's Possession
-: .o .     N     _HARVEY William F.           Le Banc d'‚glise des Ankardyne ş1928 The Ankardyne Pew
-: .o .     N     _HARVEY William F.           Miss Avenal ş1928 Miss Avenal
-: .o .     N     _HARVEY William F.           La Bˆte … cinq doigts ş1928 The Beast With Five Fingers
+- .oF.    kN20   _HARVEY William F.           La Bˆte … cinq doigts ş1946 Midnight Tales şTrad. BAUDRY Yvonne
+: .o .     p     _RICHARDSON Maurice          Pr‚face ş1946 Introduction şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           La Maison de minuit ş1910 Midnigh House şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Les Dabblers ş1928 The Dabblers şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           De fil en aiguille ş1910 Unwinding şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Madame Ormerod ş1933 Mrs. Ormerod şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Les D‚mons vont par deux ş1933 Double Demon şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           L'Instrument ş1928 The Tool şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Le Coeur de l'ƒtre ş1928 The Heart of the Fire şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Le R‚veil ş1928 The Clock şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Peter Levisham ş1928 Peter Levisham şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Miss Corn‚lius ş1928 Miss Cornelius şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           L'Homme qui d‚testait les aspidistras ş1933 The Man who Hated Aspidistras şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Sambo ş1910 Sambo şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           L'toile ş1910 The Star şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           A travers la lande ş1910 Across the Moors şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Le Disciple ş1933 The Follower şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Dans la chaleur d'ao–t ş1910 August Heat şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Sarah Bennet, la poss‚d‚e ş1910 Sarah Bennet's Possession şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Le Banc d'‚glise des Ankardyne ş1928 The Ankardyne Pew şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           Miss Avenal ş1928 Miss Avenal şTrad. BAUDRY Yvonne
+: .o .     N     _HARVEY William F.           La Bˆte … cinq doigts ş1928 The Beast With Five Fingers şTrad. BAUDRY Yvonne
 o SEGF       12  1983.xx ..... ISBN 2-221-00999-1
 } fnuit12        _?                           ?
 - .oF.     R     _TONKIN Peter                Le Journal d'Edwin Underhill ş1981 The Journal of Edwin Underhill şTrad. DEMUTH Michel
@@ -959,7 +960,7 @@ o SEGF       13  1983.xx ..... ISBN 2-221-01207-0
 - .oY.     R     _MOORCOCK Michael            Le Chien de guerre [Von Bek - 1] ş1981 The War Hound and the World's Pain şTrad. PLANCHAT Henry-Luc
 
 !-----------------------------------------------------------------------------
-_ SEGHDEC Seghers, Coll. D‚couvrir
+_ SEGHDEC Seghers - D‚couvrir
 !-----------------------------------------------------------------------------
 o SEGHDEC     ?  1975.xx ..... ISBN -
 } seghersdecouvsf _?                           ?
@@ -1007,7 +1008,7 @@ o SEGHDEC     ?  1975.xx ..... ISBN -
 : .oS.     X     _VAN VOGT Alfred E.          La Faune de l'espace ş1950 The Voyage of the Space Beagle şTrad. ?
 : .oS.     X     _VAN VOGT Alfred E.          Le Monde des non-A [Le Cycle du non-A - 1] ş1945-1948 The World of A / The World of Null-A şTrad. ?
 : .o .     X     _VILLARET Bernard            Le Chant de la coquille Kalasa‹ ş1973
-: .o .     X     _WILLIAMSON Jack             Les Com‚taires [La L‚gion de l'espace] ş1936 The Cometeers
+: .o .     X     _WILLIAMSON Jack             Les Com‚taires [La L‚gion de l'espace - 2] ş1936 The Cometeers
 : .o .     X     _WUL Stefan                  Oms en s‚rie ş1957
 : .o .     X     _WYNDHAM John                Le p‚ril vient de la mer ş1953 The Kraken Wakes
 : .o .     X     _ZELAZNY Roger               L'Œle des morts [Francis Sandow] ş1969 Isle of the Dead

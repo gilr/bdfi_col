@@ -5,10 +5,10 @@
 
 !-----------------------------------------------------------------------------
 _ CLEVY   Calmann-L‚vy
-_ CLEVYML Calmann-L‚vy, Coll. Michel L‚vy
-_ CLEVYCI Calmann-L‚vy, Nouvelle Collection Illustr‚e
-_ CLEVY_I Calmann-L‚vy, Coll. Interstices
-_ CLEVY_P Calmann-L‚vy, Coll. Pourpre
+_ CLEVYML Calmann-L‚vy - Michel L‚vy
+_ CLEVYCI Calmann-L‚vy - Nouvelle Collection Illustr‚e
+_ CLEVY_I Calmann-L‚vy - Interstices
+_ CLEVY_P Calmann-L‚vy - Pourpre
 !-----------------------------------------------------------------------------
 !--- Calmann Levy ‚diteur
 !--- Ancienne maison Michel L‚vy frŠres
@@ -20,13 +20,85 @@ o CLEVYCI     ?  1879.xx ..... ISBN -
 } noimg          _?                           ?
 - .pS.    kNx    _MERY Joseph                 Les Nuits parisiennes þ1855
 : .oS.     N     _MERY Joseph                 Les Lunariens þ1855
-
+o CLEVY       ?  1883.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 352 pages - 19 cm
++ CLEVY       ?  1893.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 352 pages - 19 cm
+!--- 7e ‚dition
++ CLEVY       ?  1898.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 352 pages - 19 cm
+!--- 8e ‚dition
++ CLEVY       ?  1906.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 352 pages - in-16
+!--- 11e ‚dition
+!--- Pagination sur premiŠre ‚dition 1883
+!--- Certains poŠmes du "Conte d'amour" ont ‚t‚ publi‚es s‚par‚ment : la 1re a paru dans "Isis" en 1862, p. 219-220, et la 4e dans "El‰n" en 1866. 
+!---- Erreurs de sommaire :
+!---- - Duke of Portlant est annonc‚ page 85 au lieu de 83
+!---- - Manque de point d'exclamation aux deux contes "A s'y m‚prendre" et "Le Plus Beau DŒner du monde"
+!---   En page 317, titre "Epilogue - L'Annonciateur"
+- .pF.    =N28   _VILLIERS DE L'ISLE-ADAM     Contes cruels þ1883
+: .o .   1 N     _VILLIERS DE L'ISLE-ADAM     Les Demoiselles de Bienfilƒtre þ1874
+: .o .  13 N     _VILLIERS DE L'ISLE-ADAM     V‚ra þ1874
+: .o .  28 N     _VILLIERS DE L'ISLE-ADAM     Vox populi þ1880
+: .o .  34 N     _VILLIERS DE L'ISLE-ADAM     Deux augures þ1883
+!--- Id "La D‚couverte de M. Grave" :
+: .o .  52 N     _VILLIERS DE L'ISLE-ADAM     L'Affichage c‚leste þ1873
+!--- Id "Le M‚daillon"
+!--- etc... Cf. https://catalogue.bnf.fr/ark:/12148/cb31584747k
+: .o .  59 N     _VILLIERS DE L'ISLE-ADAM     Antonie þ1874
+: .o .  61 N     _VILLIERS DE L'ISLE-ADAM     La Machine … gloire þ1874
+: .o .  83 N     _VILLIERS DE L'ISLE-ADAM     Duke of Portland þ1883
+: .o .  93 N     _VILLIERS DE L'ISLE-ADAM     Virginie et Paul þ1874
+: .o .  99 N     _VILLIERS DE L'ISLE-ADAM     Le Convive des derniŠres fˆtes þ1874
+: .o . 132 N     _VILLIERS DE L'ISLE-ADAM     A s'y m‚prendre ! þ1875
+: .o . 137 N     _VILLIERS DE L'ISLE-ADAM     Impatience de la foule þ1876
+: .o . 148 N     _VILLIERS DE L'ISLE-ADAM     Le Secret de l'ancienne musique þ1876
+: .o . 155 N     _VILLIERS DE L'ISLE-ADAM     Sentimentalisme þ1875
+: .o . 168 N     _VILLIERS DE L'ISLE-ADAM     Le Plus Beau DŒner du monde ! þ1874
+: .o . 179 N     _VILLIERS DE L'ISLE-ADAM     Le D‚sir d'ˆtre un homme þ1882
+: .o . 193 N     _VILLIERS DE L'ISLE-ADAM     Fleurs de t‚nŠbre þ1880
+: .o . 196 N     _VILLIERS DE L'ISLE-ADAM     L'Appareil pour l'analyse chimique du dernier soupir þ1874
+: .o . 206 N     _VILLIERS DE L'ISLE-ADAM     Les Brigands þ1882
+: .o . 216 N     _VILLIERS DE L'ISLE-ADAM     La Reine Ysabeau þ1880
+: .o . 226 N     _VILLIERS DE L'ISLE-ADAM     Sombre r‚cit, conteur plus sombre þ1877
+: .o . 238 N     _VILLIERS DE L'ISLE-ADAM     L'Intersigne þ1867
+: .o . 263 N     _VILLIERS DE L'ISLE-ADAM     L'Inconnue þ1876
+: .o . 282 N     _VILLIERS DE L'ISLE-ADAM     Maryelle þ1883
+: .o . 295 N     _VILLIERS DE L'ISLE-ADAM     Le Traitement du Docteur Tristan þ1877
+: .o . 302 N     _VILLIERS DE L'ISLE-ADAM     Conte d'amour þ1880
+: .o . 309 N     _VILLIERS DE L'ISLE-ADAM     Souvenirs occultes þ1867
+: .o . 319 N     _VILLIERS DE L'ISLE-ADAM     L'Annonciateur þ1869
+o CLEVY       ?  1898.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 280 pages - 19 cm
+!--- 3e ‚dition
+- .pF.    iNx    _VILLIERS DE L'ISLE-ADAM     Nouveaux contes cruels, et Propos d'au-del… þ1898
 o CLEVYCI     ?  1904.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _AUZIAS-TURENNE Raymond      Le Dernier Mammouth þ1902
 o CLEVYCI    37  1909.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .    iNx    _VILLIERS DE L'ISLE-ADAM     Contes cruels þ1883
+} noimg          _?                           Paul Destez
+!--- 116 pages - in-8
+- .pF.    =N12   _VILLIERS DE L'ISLE-ADAM     Contes cruels þ1909
+: .o .   5 N     _VILLIERS DE L'ISLE-ADAM     Les Demoiselles de Bienfilƒtre þ1874
+: .o .  15 N     _VILLIERS DE L'ISLE-ADAM     Duke of Portland þ1883
+: .o .  23 N     _VILLIERS DE L'ISLE-ADAM     Le Convive des derniŠres fˆtes þ1874
+: .o .  47 N     _VILLIERS DE L'ISLE-ADAM     La Reine Ysabeau þ1880
+: .o .  55 N     _VILLIERS DE L'ISLE-ADAM     Sombre r‚cit, conteur plus sombre þ1877
+!--- id "L'Estime la‹que" : 
+: .? .  65 N     _VILLIERS DE L'ISLE-ADAM     Les Amies de pension þ1888
+: .o .  71 N     _VILLIERS DE L'ISLE-ADAM     La Torture par l'esp‚rance þ1888
+!--- id "Sylvanire"
+: .? .  79 N     _VILLIERS DE L'ISLE-ADAM     Sylvabel þ1888
+: .o .  85 N     _VILLIERS DE L'ISLE-ADAM     L'Enjeu þ1888
+: .? .  91 N     _VILLIERS DE L'ISLE-ADAM     L'Incomprise þ1888
+: .? .  97 N     _VILLIERS DE L'ISLE-ADAM     Soeur Natalia þ1888
+: .? . 101 N     _VILLIERS DE L'ISLE-ADAM     Le Meilleur Amour þ?
 o CLEVYCI    72  1912.xx ..... ISBN -
 } noimg          _?                           ?
 + CLEVYCI    72  1925.xx ..... ISBN -
@@ -181,7 +253,7 @@ o CLEVY       ?  1988.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oS.    cN10   _HIGHSMITH Patricia          Catastrophes þ1987 Tales of Natural and Unnatural Catastrophes
 : .o .     N     _HIGHSMITH Patricia          Le CimetiŠre myst‚rieux þ1987 The Mysterious Cemetery
-: .o .     N     _HIGHSMITH Patricia          Moby Dick II ou la baleine torpille þ1987 Moby Dick II or The Missile Whale
+: .o .     N     _HIGHSMITH Patricia          Moby Dick II ou la baleine torpille þ1987 Moby Dick II or the Missile Whale
 : .o .     N     _HIGHSMITH Patricia          Panique aux Jade Towers þ1987 Trouble at the Jade Towers
 : .o .     N     _HIGHSMITH Patricia          Au Nabuti, bienvenu … une d‚l‚gation des Nations Unies þ1987 Nabuti: Warm Welcome to a UN Committee
 : .o .     N     _HIGHSMITH Patricia          Pique-nique … la Maison Blanche þ1987 Sweet Freedom! And a Picnic on the White House Lawn
@@ -201,7 +273,7 @@ o CLEVY       ?  1996.xx ..... ISBN .-.....-...-.
 - .o .     R     _HESSE Hermann               Le Jeu des perles de verre þ1943 Das Glasperlenspiel
 o CLEVY       ?  1997.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _WARRINGTON Freda            Le Retour de Dracula þ?
+- .o .     R     _WARRINGTON Freda            Le Retour de Dracula þ1997 Dracula the Undead þTrad. DESMOND William Olivier
 o CLEVY       ?  1997.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _AMBROSE David               Cyber Killer þ1995 Mother of God þTrad. MERCADET L‚on
@@ -232,13 +304,16 @@ o CLEVY_I     ?  2006.xx ..... ISBN 2-7021-3736-9
 - .oF.     R     _MOORE Christopher           Le Sot de l'ange þ2004 The Stupidest Angel: A Heartwarming Tale of Christmas Terror þTrad. BARANGER Luc
 o CLEVY_I     ?  2006.05 ..... ISBN 2-7021-3673-7
 } noimg          _?                           ?
-- .oY.     R     _TAKAMI Koshun               Battle royale þ1999 Battle royale þTrad. HONORE Patrick
+- .oY.     R     _TAKAMI Koshun               Battle royale þ1999 Battle Royale þTrad. HONORE Patrick
 o CLEVY_I     ?  2006.05 ..... ISBN 2-702-13674-5
 } noimg          _?                           ?
 - .oY.     R     _STEWART Sean                L'Oiseau moqueur þ1998 Mockingbird þTrad. MEGE Nathalie
 o CLEVY_I     ?  2006.10 ..... ISBN 2-7021-3709-1
 } noimg          _?                           ?
 - .oY.     R     _VANDERMEER Jeff             La Cit‚ des saints et des fous þ2002 City of Saints and Madmen þTrad. GOULLET Gilles
+o CLEVY       ?  2007.11 ..... ISBN 978-2-7021-3847-2
+} noimg          _?                           ?
+- .oY.     R     _YAMADA Futaro               Shinobi þ2005 Shinobi - Koga Ninpo Cho þTrad. CHUPIN Sylvain
 o CLEVY_I     ?  2007.xx ..... ISBN 978-2-7021-....-.
 } noimg          _?                           ?
 - .oF.     R     _KEYES Daniel                Les Mille et Une Vies de Billy Milligan þ1981 The Minds of Billy Milligan þTrad. CARASSO Jean-Pierre
@@ -248,6 +323,11 @@ o CLEVY_I     ?  2007.08 ..... ISBN 978-2-7021-3827-4
 o CLEVY_I     ?  2007.10 ..... ISBN 978-2-7021-3839-7
 } noimg          _?                           ?
 - .oF.     R     _MOORE Christopher           Un sale boulot þ2006 A Dirty Job þTrad. BARANGER Luc
+o CLEVY       ?  2007.xx ..... ISBN 978-2-7021-3734-5
+} noimg          _?                           ?
+- .oF.     N2    *McBAIN Ed                   Transgressions - Tome 3 þ2006 Transgressions, Vol. 2
+: .oF.     N     _KING Stephen                Laiss‚s pour compte þ2005 The Things They Left Behind þTrad. DESMOND William Olivier
+: .o .     r     _FARRIS John                 Les Femmes Ransome þ2005 The Ransome Women þTrad. GOULLET Gilles
 o CLEVY_I     ?  2008.01 ..... ISBN 978-2-7021-3753-6
 } noimg          _?                           ?
 - .oF.     R     _MOORE Alan                  La Voix du feu þ1996 Voice of the Fire þTrad. MARCEL Patrick
@@ -263,6 +343,9 @@ o CLEVY_I     ?  2008.10 ..... ISBN 978-2-7021-3946-2
 o CLEVY_I     ?  2008.10 ..... ISBN 978-2-7021-3943-1
 } noimg          _?                           ?
 - .oF.     R     _MOORE Christopher           Les Dents de l'amour þ1995 Bloodsucking Fiends þTrad. BARANGER Luc
+o CLEVY       ?  2009.05 ..... ISBN 978-2-7021-4005-5
+} noimg          _?                           ?
+- .oF.     R     _BARRY Brunonia              SortilŠges de dentelle þ2007 The Lace Reader þTrad. CHAIX Jean-Fran‡ois
 o CLEVY_I     ?  2009.01 ..... ISBN 978-2-7021-3801-4
 } noimg          _?                           ?
 - .oF.     R     _KEYES Daniel                Les Mille et Une Guerres de Billy Milligan þ1986 The Milligan Wars þTrad. ?
@@ -352,6 +435,10 @@ o CLEVY       ?  2019.01 ..... ISBN 978-2-7021-6539-3
 o CLEVY       ?  2019.04 ..... ISBN 978-2-7021-6299-6
 } noimg          _?                           ?
 - .oF.     R     _HARKNESS Deborah            La Force du Temps þ2018 Time's Convert þTrad. LOUBET Pascal
+o CLEVY       ?  2019.08 ..... ISBN 978-2-7021-6622-2
+} noimg          _?                           ?
+!--- 135 x 215 mm - 170 pages - 17 euros
+- .oS.     R     _L'HOMME Erik                Un peu de nuit en plein jour þ2019
 !------------------------
 !=== 2020
 !------------------------
@@ -364,398 +451,19 @@ o CLEVY       ?  2020.06 ..... ISBN 978-2-7021-6671-0
 !--- Calmann Levy Noir 
 !--- 153 x 235 mm - 416 pages - 23.90 euros
 - .oF.     R     _CHBOSKY Stephen             L'Ami imaginaire þ2019 Imaginary Friend þTrad. ESCH Jean
+!------------------------
+!=== 2021
+!------------------------
+o CLEVY       ?  2021.04 ..... ISBN 978-2-7021-8075-4
+} noimg          _?                           ?
+!--- GF - 155 x 235 - 330 pages
+- .o .     R     _BROOKS Max                  D‚volution þ2020 Devolution þTrad. IMBERT Patrick
 
 
 
-
-
-
-
-
-
-!DEB_HEAD CL_DIME
-!TIT_COLL Dimensions SF
-!-----------------------------------------------------------------------------
-_ CL_DIME Calmann-L‚vy, Dimensions SF þ1973-1984
-!-----------------------------------------------------------------------------
-!--- 55 volumes pour une collection de trŠs bonne qualit‚ (Ian Watson, James Ballard,
-!--. Stanislas Lem, Christopher Priest, Brain W. Aldiss...). Une des plus prestigieuses
-!--. collection des ann‚es 70-80.
-!--- Format 14 x 21, couverture bicolore assez quelconque. Quelques num‚ros sont parus avec jaquette
-!--. illustr‚es.
-!--- Directeur de collection : Robert Louit
-!-----------------------------------------------------------------------------
-!FIN_HEAD CL_DIME
-!DEB_COLL CL_DIME
-o CL_DIME     1i 1973.xx ..... ISBN -
-} dsf01          _?                           N
-!--- Nota : Probable expansion de la s‚rialisation de 1962
-- .oS.     R     _POHL Frederik               L'Ultime Fl‚au þ1962-1965 A Plague of Pythons þTrad. GIL Jos‚
-o CL_DIME     2i 1973.01 ..... ISBN -
-} dsf02          _?                           N
-- .oS.     R     _LAFFERTY Raphael A.         Le MaŒtre du pass‚ þ1968 Past Master þTrad. ZRIBI Anne
-o CL_DIME     3i 1973.xx ..... ISBN -
-} dsf03          _?                           N
-- .oS.     R     _DICK Philip K.              Simulacres þ1964 The Simulacra þTrad. THAON Marcel & GUERET Christian
-o CL_DIME     4i 1973.xx ..... ISBN -
-} dsf04          _?                           N
-- .oS.     R     _BRUNNER John                La ville est un ‚chiquier þ1965 The Squares of the City þTrad. BALDY Ren‚
-o CL_DIME     5i 1973.xx R.... ISBN -
-} dsf05          _?                           N
-- .oS.     R     _JAKES John                  PlanŠte … six-coups þ1970 Six-gun Planet
-o CL_DIME     6i 1973.xx R.... ISBN -
-} dsf06          _?                           N
-- .oS.     R     _KING Vincent                Candy man þ1971 Candy Man þTrad. PEMERLE Didier
-o CL_DIME     7i 1973.xx ..... ISBN -
-} dsf07          _?                           N
-- .oS.     R     _DELANY Samuel               Babel 17 þ1966 Babel 17 þTrad. PERRIN Mimi
-o CL_DIME     8i 1974.xx ..... ISBN -
-} dsf08          _?                           N
-- .oS.     R     _WATSON Ian                  L'Enchƒssement þ1973 The Embedding þTrad. PEMERLE Didier
-o CL_DIME     9i 1974.xx ..... ISBN -
-} dsf09          _?                           N
-} dsf09bis       _?                           N
-- .oS.     R     _BALLARD James G.            Crash ! þ1973 Crash! þTrad. LOUIT Robert
-o CL_DIME    10i 1974.xx ..... ISBN -
-} dsf10          _?                           N
-- .oS.    _N14   _BROWN Fredric               Paradoxe perdu þ1973 Paradox Lost, and Twelve Other Great S-F Stories þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               Paradoxe perdu þ1943 Paradox Lost þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               Spectacle de marionnettes þ1962 Puppet Show þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               Le Dernier Train þ1950 The Last Train þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               Il ne s'est rien pass‚ þ1963 It Didn't Happen þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               Ob‚issance þ1950 Obedience þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               Monsieur dix pour cent þ1963 Ten Percenter þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               A‚lurophobe þ1962 Aelurophobe þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               Sirius et Pas-coutume þ1944 Nothing Sirius þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               Deux poids, deux mesures þ1963 Double Standard þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               Sch‚ma de principe þ1954 Pattern þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               Politesse þ1957 Politeness þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               Les Ondulats þ1945 The Waveries þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               Dieu þ1954 Search þTrad. SENDY Jean
-: .oS.     N     _BROWN Fredric               Marguerites þ1957 Daisies þTrad. SENDY Jean
-o CL_DIME    11i 1974.xx ..... ISBN -
-} dsf11          _?                           N
-- .oS.     R     _ALDISS Brian W.             L'Heure de 80 minutes þ1974 The Eighty-minute Hour þTrad. LESSEPS Barth‚l‚my de
-o CL_DIME    12i 1974.xx ..... ISBN -
-} dsf12          _?                           N
-} dsf12bis       _?                           N
-- .oS.     R     _BALLARD James G.            L'Œle de b‚ton þ1974 Concrete Island þTrad. FRADIER Georges
-o CL_DIME    13i 1975.xx ..... ISBN 2-7021-0003-1
-} dsf13          _?                           N
-- .oS.     R     _PRIEST Christopher          Le Monde inverti þ1974 Inverted World þTrad. MARTIN Bruno
-o CL_DIME    14i 1975.xx R.... ISBN 2-7021-0028-7
-} dsf14          _?                           N
-- .oS.     R     _ADLARD Mark                 Interface þ1971 Interface þTrad. PALOMERA Marie-France de
-o CL_DIME    15i 1975.T2 ..... ISBN 2-7021-0035-X
-} dsf15          _Atelier BCG                 N
-- .oS.     R     _LEM Stanislas               M‚moires trouv‚s dans une baignoire þ1961 Pamietnick znaleziony w wannie þTrad. SILA Dominique & LABEDZKA Anna
-o CL_DIME    16i 1975.xx ..... ISBN 2-7021-0074-0
-} dsf16          _?                           N
-} dsf16a         _?                           N
-- .oS.     R     _COMPTON D.G.                L'Incurable þ1974 The Continuous Katherine Mortenhoe þTrad. LESSEPS Barth‚lemy de
-o CL_DIME    17i 1975.xx ..... ISBN 2-7021-0004-X
-} dsf17          _?                           N
-- .oS.     R     _DICK Philip K.              Le Temps d‚sarticul‚ þ1959 Time Out of Joint þTrad. HUPP Philippe
-o CL_DIME    18i 1976.xx ..... ISBN 2-7021-0096-1
-} dsf18          _?                           N
-} dsf18a         _?                           N
-- .oS.     R     _BALLARD James G.            I.G.H. þ1975 High Rise þTrad. LOUIT Robert
-o CL_DIME    19i 1976.xx ..... ISBN 2-7021-0097-X
-} dsf19          _Atelier BCG                 N
-- .oS.     R     _LEM Stanislas               Le CongrŠs de futurologie þ1971 Kongres futurologiczny ze wspomnien Ijona Tichego þTrad. SILA Dominique & LABEDZKA Anna
-o CL_DIME    20i 1976.xx R.... ISBN 2-7021-0133-X
-} dsf20          _?                           N
-- .oS.     R     _SHECKLEY Robert             Options þ1975 Options þTrad. HUPP Philippe R.
-o CL_DIME    21i 1976.xx ..... ISBN 2-7021-0140-2
-} dsf21          _?                           N
-- .oS.    kU2    _CONEY Michael               Charisme þ1975 Charisma þTrad. POLANIS Jacques
-!--- Nota : Fix-Up de _Susanna, susanna !_ et _The gateway to now_
-o CL_DIME    22i 1976.xx ..... ISBN 2-7021-0149-6
-} dsf22          _?                           N
-- .oS.     R     _WATSON Ian                  Le ModŠle Jonas þ1975 The Jonah Kit þTrad. PERRIN Mimi
-o CL_DIME    23i 1976.xx ..... ISBN 2-7021-0168-2
-} dsf23          _?                           N
-- .oS.    _A8    _SILVERBERG Robert          &Trips þ1976
-&                *CHAMBON Jacques             
-: .oS.     N     _SILVERBERG Robert           Traverser la ville þ1973 Getting Across þTrad. CHAMBON Jacques
-: .oS.     N     _SILVERBERG Robert           Ce qu'il y avait dans le journal ce matin þ1972 What We Learned from This Morning's Newspaper þTrad. CHAMBON Jacques
-: .o .     N     _SILVERBERG Robert           Une mer de visage þ1974 A Sea of Faces þTrad. CHAMBON Jacques
-: .o .     N     _SILVERBERG Robert           Schwartz et les galaxies þ1974 Schwartz Between the Galaxies þTrad. CHAMBON Jacques
-: .o .     N     _SILVERBERG Robert           Trips þ1974 Trips þTrad. CHAMBON Jacques
-: .o .     N     _SILVERBERG Robert           Un personnage en quˆte de corps þ1970 Ringing the Changes þTrad. CHAMBON Jacques
-: .o .     N     _SILVERBERG Robert           Les Jeux du Capricorne þ1974 Capricorn Games þTrad. CHAMBON Jacques
-: .o .     N     _SILVERBERG Robert           Partir þ1971 Going þTrad. CHAMBON Jacques
-o CL_DIME    24i 1977.xx ..... ISBN 2-7021-0172-0
-} dsf24          _?                           N
-- .oS.     R     _ALDISS Brian W.             Cryptozo‹que þ1967 An Age / Cryptozoic þTrad. ABONYI Dominique
-o CL_DIME    25i 1977.xx ..... ISBN 2-7021-0180-1
-} dsf25          _?                           N
-- .oS.     R     _PRIEST Christopher          Futur int‚rieur þ1977 A Dream of Wessex / The Perfect Lover þTrad. EISENSCHITZ Bernard
-o CL_DIME    26i 1977.xx ..... ISBN 2-7021-0195-X
-} dsf26          _?                           N
-- .oS.     R     _SHECKLEY Robert             Les Erreurs de Joenes þ1962 Journey Beyond Tomorrow þTrad. BATTIN Marcel
-o CL_DIME    27i 1977.xx ..... ISBN 2-7021-0182-8
-} dsf27          _?                           N
-- .oS.     R     _POHL Frederik               Homme-plus þ1976 Man Plus þTrad. HUPP Philippe
-o CL_DIME    28i 1977.xx ..... ISBN 2-7021-0218-2
-} dsf28          _Atelier BCG                 N
-- .oS.    kN5    _LEM Stanislas               M‚moires d'Ijon Tichy þ1977
-!--- TBD : 1971 Ratujmy kosmos
-: .oS.     N     _LEM Stanislas               Sauvons le cosmos (Lettre ouverte d'Ijon Tichy) þ1971 Ratujmi kosmos (List otwarty, Ijona Tichego) þTrad. SILA Dominique
-: .oS.     N     _LEM Stanislas               M‚moires de Ijon Tichy þ1971 Ze wspomnien Ijona Tichego þTrad. SILA Dominique
-: .oS.     N     _LEM Stanislas               La Clinique du docteur Vliperdius þ1971 Zaklad doktor Vliperduisa þTrad. SILA Dominique
-: .oS.     N     _LEM Stanislas               Le Docteur Diagoras þ1971 Doktor Diagoras þTrad. SILA Dominique
-: .oS.     N     _LEM Stanislas               Le Professeur A. Donda þ1971 Profsor A. Donda þTrad. SILA Dominique
-o CL_DIME    29i 1977.xx ..... ISBN 2-7021-0233-6
-} dsf29          _?                           N
-- .oS.     R     _DELANY Samuel               Triton þ1976 Triton þTrad. PLANCHAT Henry-Luc
-o CL_DIME    30i 1978.xx ..... ISBN 2-7021-0238-7
-} dsf30          _?                           N
-- .oS.     R     _WATSON Ian                  L'Inca de Mars þ1977 The Martian Inca þTrad. NEUMANN DaniŠle
-o CL_DIME    31i 1978.xx ..... ISBN 2-7021-0239-5
-} dsf31          _?                           N
-- .oS.     R     _POHL Frederik               La Grande Porte [Les Heechees - 1] þ1977 Gateway þTrad. MEISTERMANN E.C.L.
-o CL_DIME    32i 1978.xx R.... ISBN 2-7021-0254-9
-} dsf32          _?                           N
-- .oS.     R     _VARLEY John                 Le Canal Ophite þ1977 The Ophiuchi Hotline þTrad. LOBRY R‚mi
-o CL_DIME    33i 1978.xx R.... ISBN 2-7021-0256-5
-} dsf33          _?                           N
-- .oS.    _N12   _SHECKLEY Robert             Douces illusions þ1978
-: .o .     p     _SHECKLEY Robert             Pr‚face þ1978
-: .o .     N     _SHECKLEY Robert             Au bazar des mondes þ1959 The Store of the Worlds / The World of Heart's Desire þTrad. PERRIN Mimi
-: .o .     N     _SHECKLEY Robert             Citoyen de l'espace þ1955 Citizen in Space þTrad. PERRIN Mimi
-: .o .     N     _SHECKLEY Robert             La pˆche est ouverte þ1953 Fishing Season þTrad. PERRIN Mimi
-: .o .     N     _SHECKLEY Robert             Propri‚t‚ priv‚e þ1953 Restricted Area þTrad. PERRIN Mimi
-: .o .     N     _SHECKLEY Robert             Bienvenue au cauchemar classique þ1973 Welcome to the Standard Nightmare þTrad. PERRIN Mimi
-: .o .     N     _SHECKLEY Robert             L'Arme absolue þ1953 The Last Weapon þTrad. PERRIN Mimi
-: .o .     N     _SHECKLEY Robert             Echec et mat … mort þ1953 Fool's Mate þTrad. PERRIN Mimi
-: .o .     N     _SHECKLEY Robert             Immunit‚ diplomatique þ1953 Diplomatic Immunity þTrad. PERRIN Mimi
-: .o .     N     _SHECKLEY Robert             Les D‚mons þ1953 The Demons þTrad. PERRIN Mimi
-: .o .     N     _SHECKLEY Robert             Rituel þ1953 Strange Ritual / Ritual þTrad. PERRIN Mimi
-: .o .     N     _SHECKLEY Robert             Potentiel þ1953 Potential þTrad. PERRIN Mimi
-: .o .     N     _SHECKLEY Robert             En un pays aux couleurs claires þ1976 In a Land of Clear Colors þTrad. PERRIN Mimi
-o CL_DIME    34i 1978.T3 ..... ISBN 2-7021-0275-1
-} dsf34          _Atelier BCG                 N
-- .oS.     R     _LEM Stanislas               Le Rhume þ1976 Katar þTrad. SILA Dominique
-o CL_DIME    35i 1978.11 R.... ISBN 2-7021-0283-2
-} dsf35          _?                           N
-- .oS.     R     _DOUAY Dominique             La Vie comme une course de chars … voile þ1978
-o CL_DIME    36i 1979.xx ..... ISBN 2-7021-0290-5
-} dsf36          _?                           N
-- .oS.     R     _WATSON Ian                  Ambassade de l'espace þ1977 Alien Ambassy þTrad. PLANCHAT Henry-Luc
-o CL_DIME    37i 1979.04 R.... ISBN 2-7021-0306-5
-} dsf37          _?                           N
-- .oS.     R     _GIULIANI Pierre             Les FrontiŠres d'Oulan-Bator þ1979
-o CL_DIME    38i 1979.xx ..... ISBN 2-7021-0310-3
-} dsf38          _?                           N
-- .oS.     R     _SHECKLEY Robert             Le Mariage alchimique d'Alistair Crompton þ1978 The Alchemical Marriage of Alistair Crompton þTrad. LOBRY R‚my
-o CL_DIME    39i 1979.xx ..... ISBN 2-7021-0325-1
-} dsf39          _?                           N
-- .oS.     R     _CURVAL Philippe             Y'a quelqu'un ? þ1979
-o CL_DIME    40i 1979.xx ..... ISBN 2-7021-0329-4
-} dsf40          _?                           N
-- .oS.     R     _ROBINSON Spider            &La Danse des ‚toiles þ1977 Stardance þTrad. MANCHETTE M‚lissa
-&                _ROBINSON Jeanne             
-o CL_DIME    41i 1980.xx ..... ISBN 2-7021-0342-1
-} dsf41          _?                           N
-- .oS.     R     _BERTHELOT Francis           La Lune noire d'Orion þ1980
-o CL_DIME    42i 1980.xx ..... ISBN 2-7021-0349-9
-} dsf42a         _?                           N
-- .oS.     R     _BALLARD James G.            Le Rˆveur illimit‚ þ1979 The Unlimited Dream Company þTrad. LOUIT Robert
-o CL_DIME    43i 1980.xx ..... ISBN 2-7021-0363-4
-} dsf43          _?                           N
-- .oS.     R     _CURVAL Philippe             La Face cach‚e du d‚sir þ1980
-!--- TBC : Fix-Up, nouvelles, chroniques ?
-!--- ... et reporter en J'ai Lu
-?: .o .     N     _CURVAL Philippe             Dernier regard au del… du spectre þ1980
-?: .o .     N     _CURVAL Philippe             La Face cach‚e du d‚sir þ1980
-?: .o .     N     _CURVAL Philippe             Les roses sans odeur ont une odeur de pomme þ1980
-?: .o .     N     _CURVAL Philippe             Ne serait-ce qu'un festin de plus ? þ1980
-o CL_DIME    44i 1980.xx ..... ISBN 2-7021-0370-7
-} dsf44          _?                           N
-- .oS.     R     _DOUAY Dominique             Le Principe de l'oeuf þ1980
-o CL_DIME    45i 1981.xx ..... ISBN 2-7021-0384-7
-} dsf45          _?                           N
-- .oS.     R     _POHL Frederik               Jem þ1979 Jem þTrad. CARISSIMO Luc
-o CL_DIME    46i 1981.xx ..... ISBN 2-7021-0410-X
-} dsf46          _?                           N
-- .oS.     R     _WATSON Ian                  Les Visiteurs du miracle þ1978 Miracle Visitors þTrad. PLANCHAT Henry-Luc
-o CL_DIME    47i 1981.xx ..... ISBN 2-7021-0433-9
-} dsf47          _?                           N
-- .oS.     R     _PRIEST Christopher          La Fontaine p‚trifiante [L'Archipel du rˆve] þ1981 The Affirmation þTrad. CHAMBON Jacques
-o CL_DIME    48i 1982.xx ..... ISBN 2-7021-0436-3
-} dsf48          _?                           N
-- .oS.     R     _PELOT Pierre                Les Pieds dans la tˆte þ1982
-o CL_DIME    49i 1982.xx ..... ISBN 2-7021-0453-3
-} dsf49          _?                           N
-- .oS.     R     _SPINRAD Norman              Chants des ‚toiles þ1980 Songs from the Stars þTrad. PUGI Jean-Pierre
-o CL_DIME    50i 1982.xx ..... ISBN 2-7021-0463-0
-} dsf50          _?                           N
-- .oS.     R     _ROBERTS Keith               Molly Z‚ro þ1980 Molly Zero þTrad. LEBAILLY Monique
-!--- expansion d'une novella de 1977 (mˆme TO)
-o CL_DIME    51i 1983.xx ..... ISBN 2-7021-1211-0
-} dsf51          _?                           N
-- .oS.     R     _POHL Frederik               Les Pilotes de la Grande Porte [Les Heechees - 2] þ1980 Beyond the Blue Event Horizon þTrad. DEMUTH Michel
-o CL_DIME    52i 1983.xx ..... ISBN 2-7021-1226-9
-} dsf52          _?                           N
-- .oS.     R     _WATSON Ian                  Le Monde divin þ1979 God's World þTrad. BAKHTADZE El‚onore
-o CL_DIME    53i 1983.xx ..... ISBN 2-7021-1279-X
-} dsf53          _Atelier BCG                 N
-- .oS.     N7    _LEM Stanislas               Le Masque þ1968-1976 Maska þTrad. DYEVRE Laurence
-: .o .     N     _LEM Stanislas               Cent trente sept secondes þ1968 Sto trzydziesci siedem sekund
-: .o .     N     _LEM Stanislas               Deux jeunes gens þ1968 Dwoch mlodych ludzi
-: .o .     N     _LEM Stanislas               Journal þ1962 Pamietnik
-: .o .     N     _LEM Stanislas               La Formule de Limphater þ1968 Formula Limphatera
-: .o .     N     _LEM Stanislas               La V‚rit‚ þ1968 Prawda
-: .o .     N     _LEM Stanislas               Le Masque þ1974 Maska
-: .o .     N     _LEM Stanislas               L'Invasion ald‚baranaise þ1968 Inwazja z Aldebarana
-o CL_DIME    54i 1984.xx ..... ISBN 2-7021-1303-6
-} dsf54          _?                           N
-- .oS.     R     _WATSON Ian                  La Mort en cage þ1981 Death Hunter þTrad. PUGI Jean-Pierre
-o CL_DIME    55i 1984.xx R.... ISBN 2-7021-1316-8
-} dsf55          _?                           N
-- .oS.    _N10   _BALLARD James G.            Mythes d'un futur proche þ1982 Myths of the Near Future þTrad. CHAMBON Jacques
-: .o .     N     _BALLARD James G.            Mythes d'un futur proche þ1982 Myths of the Near Future þTrad. CHAMBON Jacques
-: .o .     N     _BALLARD James G.            La Belle Vie þ1978 Having a Wonderful Time þTrad. CHAMBON Jacques
-: .o .     N     _BALLARD James G.            H“te de furieux fantasmes þ1980 A Host of Furious Fancies þTrad. CHAMBON Jacques
-: .o .     N     _BALLARD James G.            Zodiaque 2000 þ1978 Zodiac 2000 þTrad. CHAMBON Jacques
-: .o .     N     _BALLARD James G.            Nouvelles du Soleil þ1981 News from the Sun þTrad. CHAMBON Jacques
-: .o .     N     _BALLARD James G.            Th‚ƒtre de guerre þ1977 Theatre of War þTrad. CHAMBON Jacques
-: .o .     N     _BALLARD James G.            Le Temps mort þ1976 The Dead Time þTrad. CHAMBON Jacques
-: .o .     N     _BALLARD James G.            Le Sourire þ1976 The Smile þTrad. CHAMBON Jacques
-: .o .     N     _BALLARD James G.            D‚cor de motel þ1978 Motel Architecture þTrad. CHAMBON Jacques
-: .o .     N     _BALLARD James G.            Service de r‚animation þ1977 The Intensive Care Unit þTrad. CHAMBON Jacques
-!FIN_COLL CL_DIME
 
 !-----------------------------------------------------------------------------
-_ CLEVYHF Calmann-L‚vy, Hero‹c-Fantasy
-!-----------------------------------------------------------------------------
-o CLEVYHF     1  2005.09 ..... ISBN 2-7021-3618-4
-} noimg          _?                           ?
-- .oY.     R     _WRIGHT John C.              Le Dernier Gardien des rˆves [Les Guerriers de l'‚ternit‚ - 1] þ2004 The Last Guardian of Everness þTrad. PUGI Jean-Pierre
-o CLEVYHF     2  2005.09 ..... ISBN 2-7021-3619-2
-} noimg          _?                           ?
-- .oY.     R     _JONES J. V.                 L'Enfant de la proph‚tie [Le Livre des mots - 1] þ1995 The Baker's Boy þTrad. FOURNIER Guillaume
-o CLEVYHF     3  2005.09 ..... ISBN 2-7021-3620-5
-} noimg          _?                           ?
-- .oY.     R     _WOLFE Gene                  Le Chevalier [Chevalier-Mage - 1] þ2004 The Knight þTrad. DURASTANTI Pierre-Paul
-o CLEVYHF     4  2006.01 ..... ISBN 2-7021-3645-1
-} noimg          _?                           ?
-- .oY.     R     _ANDERSON Karen             &Roma Mater [Le Roi d'Ys - 1] þ1986 Roma Mater þTrad. BREQUE Jean-Daniel
-&                _ANDERSON Poul               
-o CLEVYHF     5  2006.01 ..... ISBN 2-7021-3637-0
-} noimg          _?                           ?
-- .oY.     R     _STEWART Mary                La Grotte de cristal [Le Cycle de Merlin - 1] þ1970 The Crystal Cave þTrad. MARIOT Brigitte
-o CLEVYHF     6  2006.02 ..... ISBN 2-7021-3653-2
-} noimg          _?                           ?
-- .oY.     R     _MIZUNO Ryo                  La SorciŠre grise [Les Chroniques de la guerre de Lodoss - 1] þ1988 Record of Lodoss War 1. Haiiro no Majo þTrad. DUFRAISSE Christelle
-o CLEVYHF     7  2006.03 ..... ISBN 2-7021-3669-9
-} noimg          _?                           ?
-- .oY.     R     _WRIGHT John C.              Les Brumes d'Ach‚ron [Les Guerriers de l'‚ternit‚ - 2] þ2005 Mists of Everness þTrad. PUGI Jean-Pierre
-o CLEVYHF     8  2006.05 ..... ISBN 2-7021-3668-0
-} noimg          _?                           ?
-- .oY.     R     _JONES J. V.                 Le Temps des trahisons [Le Livre des mots - 2] þ1996 A Man Betrayed þTrad. FOURNIER Guillaume
-o CLEVYHF     9  2006.05 ..... ISBN 2-7021-3673-7
-} noimg          _?                           ?
-- .oY.     R     _TAKAMI Koshun               Battle royale þ1999 Battle royale þTrad. HONORE Patrick
-o CLEVYHF    10  2006.05 ..... ISBN 2-7021-3684-2
-} noimg          _?                           ?
-- .oY.     R     _STEWART Mary                Les Collines aux mille grottes [Le Cycle de Merlin - 2] þ1973 The Hollow Hills þTrad. MARIOT Brigitte
-o CLEVYHF     ?  2006.10 ..... ISBN 2-7021-3688-5
-} noimg          _?                           ?
-- .oY.     R     _WOLFE Gene                  Le Mage [Chevalier-Mage - 2] þ2005 The Wizard þTrad. DURASTANTI Pierre-Paul
-
-o CLEVYHF     ?  2007.01 ..... ISBN 2-702-13737-7
-} noimg          _?                           ?
-- .oY.     R     _JONES J. V.                 FrŠres d'ombre et de lumiŠre [Le Livre des mots - 3] þ1996 Master and Fool þTrad. FOURNIER Guillaume
-o CLEVYHF     ?  2007.01 ..... ISBN 2-702-13658-3
-} noimg          _?                           ?
-- .oY.     R     _MIZUNO Ryo                  Le D‚mon des flammes [Les Chroniques de la guerre de Lodoss - 2] þ1988 Honoo no Majin þTrad. REUTER Yukio & POYER Laurence
-o CLEVYHF     ?  2007.02 ..... ISBN 2-702-13738-5
-} noimg          _?                           ?
-- .oY.     R     _ANDERSON Karen             &Les Neuf SorciŠres [Le Roi d'Ys - 2] þ1987 Gallicenae þTrad. BREQUE Jean-Daniel
-&                _ANDERSON Poul               
-o CLEVYHF     ?  2007.03 ..... ISBN 2-702-13792-X
-} noimg          _?                           ?
-- .oY.     R     _WILLIAMS Tad                Chƒteau d'ombre - Tome 1 [Les Royaumes des marches - 1] þ2004 Shadowmarch þTrad. PUGI Jean-Pierre
-o CLEVYHF     ?  2007.03 ..... ISBN 2-702-13803-9
-} noimg          _?                           ?
-- .oY.     R     _WILLIAMS Tad                Chƒteau d'ombre - Tome 2 [Les Royaumes des marches - 2] þ2004 Shadowmarch þTrad. PUGI Jean-Pierre
-o CLEVYHF     ?  2007.05 ..... ISBN ?
-} noimg          _?                           ?
-- .oY.     R     _STEWART Mary                Le Dernier Enchantement [Le Cycle de Merlin - 3] þ1979 The Last Enchantment þTrad. MARIOT Brigitte
-o CLEVYHF     ?  2007.08 ..... ISBN 978-2-7021-3778-9
-} noimg          _?                           ?
-- .oY.     R     _ERIKSON Steven              Les Jardins de la Lune [Le Livre malaz‚en des Glorieux D‚funts - 1] þ1999 Gardens of the Moon þTrad. GAMBERINI Marie-Christine
-o CLEVYHF     ?  2007.11 ..... ISBN 978-2-7021-3659-1
-} noimg          _?                           ?
-- .oY.     R     _MIZUNO Ryo                  Le Sceptre de domination [Les Chroniques de la guerre de Lodoss - 3] þ1990 Karyuzan no Maryu þTrad. REUTER Yukio & POYER Laurence
-o CLEVYHF     ?  2007.11 ..... ISBN 978-2-7021-3847-2
-} noimg          _?                           ?
-- .oY.     R     _YAMADA Futaro               Shinobi þ2005 Shinobi - Koga Ninpo Cho þTrad. CHUPIN Sylvain
-o CLEVYHF     ?  2008.10 ..... ISBN 978-2-7021-3952-3
-} noimg          _?                           ?
-- .oY.     R     _KUSHNER Ellen               A la pointe de l'‚p‚e þ1987 Swordpoint þTrad. MARCEL Patrick
-o CLEVYHF     ?  2008.02 ..... ISBN 978-2-7021-3882-3
-} noimg          _?                           ?
-- .oY.     R     _WILLIAMS Tad                Th‚ƒtre d'ombre - 1 [Les Royaumes des marches - 3] þ2007 Shadowplay þTrad. PUGI Jean-Pierre
-o CLEVYHF     ?  2008.02 ..... ISBN 978-2-7021-3890-8
-} noimg          _?                           ?
-- .oY.     R     _UBUKATA Tow                 Le Chevalier d'Eon þ? ? þTrad. FAURE Eric
-o CLEVYHF     ?  2008.03 ..... ISBN 978-2-7021-3909-7
-} noimg          _?                           ?
-- .oY.     R     _TANAKA Yoshiki              Les Chroniques d'Arslƒn þ1986 Arslan Senki þTrad. LALOZ Jacques & MASSE Rodolphe
-o CLEVYHF     ?  2008.03 ..... ISBN 978-2-7021-3779-6
-} noimg          _?                           ?
-- .oY.     R     _ERIKSON Steven              Les Portes de la maison des morts [Le Livre malaz‚en des Glorieux D‚funts - 2.1] þ2000 Deadhouse Gates þTrad. HUBERT Minos
-o CLEVYHF     ?  2008.04 ..... ISBN 978-2-7021-3953-0
-} noimg          _?                           ?
-- .oY.     R     _JONES J. V.                 Les Motifs de l'ombre [La Ronce d'or - 1] þ1997 The Barbed Coil þTrad. FOURNIER Guillaume
-o CLEVYHF     ?  2008.09 ..... ISBN 978-2-7021-3893-9
-} noimg          _?                           ?
-- .oY.     R     _JONES J. V.                 La Peinture de sang [La Ronce d'or - 2] þ1997 The Barbed Coil þTrad. FOURNIER Guillaume
-o CLEVYHF     ?  2008.09 ..... ISBN 978-2-7021-3891-5
-} noimg          _?                           ?
-- .oY.     R     _WILLIAMS Tad                Th‚ƒtre d'ombre - 2 [Les Royaumes des marches - 4] þ2007 Shadowplay þTrad. PUGI Jean-Pierre
-o CLEVYHF     ?  2008.11 ..... ISBN 978-2-7021-3874-8
-} noimg          _?                           ?
-- .oY.     R     _ERIKSON Steven              La ChaŒne des chiens [Le Livre malaz‚en des Glorieux D‚funts - 2.2] þ2000 Deadhouse Gates þTrad. HUBERT Minos
-o CLEVYHF     ?  2009.01 ..... ISBN 978-2-7021-3660-7
-} noimg          _?                           ?
-- .oY.     R     _MIZUNO Ryo                  La Montagne du dragon de feu [Les Chroniques de la guerre de Lodoss - 4] þ? ? þTrad. REUTER Yukio & POYER Laurence
-o CLEVYHF     ?  2009.04 ..... ISBN 978-2-7021-4009-3
-} calfy29        _?                           ?
-- .oY.    _A18   *GUILLOT S‚bastien           Dragons þ2009
-: .o .     N     _DAYLON                      Chansons pour Ouroboros þ2009
-: .o .     N     _JACCAUD Fr‚d‚ric            Soldats de plomb þ2009
-: .o .     N     _DAY Thomas                  La Contr‚e du dragon þ2009
-: .o .     N     _BETRUGER Virginie           Coeur de pierre þ2009
-: .o .     N     _BOLOGNE Jean Claude         Le Dragonneau anorexique þ2009
-: .o .     N     _BELLAGAMBA Ugo              Les Ann‚es d'orichalque þ2009
-: .o .     N     _BERTHELOT Francis           Au seuil de Lo‹kermaa þ2009
-: .o .     N     _BOUSQUET Charlotte          La Mort de Tlatecuhtli þ2009
-: .o .     N     _TECON Robin                 Au plus haut des cieux þ2009
-: .o .     N     _CAMUS David                 Draco Luna þ2009
-: .o .     N     _FAYE Estelle                La Suriedad þ2009
-: .o .     N     _HARTEMANN Eudes             Le Feu sous la cendre þ2009
-: .o .     N     _GUILLAUT Philippe           Quelques bˆtes de feu et d'effroi þ2009
-: .o .     N     _NOIREZ J‚r“me               D'un dragon l'autre þ2009
-: .o .     N     _COLIN Fabrice               Arch‚ologie d'un monstre þ2009
-: .o .     N     _HELIOT Johan                L'Huile et le feu þ2009
-: .o .     N     _FAZI M‚lanie                Dragon cach‚ þ2009
-: .o .     N     _FIEROBE Fran‡ois            T‚ratologie des confins þ2009
-o CLEVYHF     ?  2009.04 ..... ISBN 978-2-7021-4008-6
-} noimg          _?                           ?
-- .oY.     R     _ATTANASIO A. A.             Le Dragon et la licorne [Arthor - 1] þ1994 The Dragon and the Unicorn þTrad. PLANCHAT Henry-Luc
-o CLEVYHF     ?  2009.05 ..... ISBN 978-2-7021-4005-5
-} noimg          _?                           ?
-- .oF.     R     _BARRY Brunonia              SortilŠges de dentelle þ2007 The Lace Reader þTrad. CHAIX Jean-Fran‡ois
-o CLEVYHF     ?  2009.10 ..... ISBN 978-2-7021-4013-0
-} noimg          _Alain Brion                 ?
-- .oY.     R     _ATTANASIO A. A.             La Louve et le d‚mon [Arthor - 2] þ1998 The Wolf and the Crown þTrad. PLANCHAT Henry-Luc
-
-!-----------------------------------------------------------------------------
-_ CLEVY_O Ed. Calmann-L‚vy, Coll. Orbit
+_ CLEVY_O Calmann-L‚vy - Orbit
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -828,7 +536,7 @@ o CLEVY_O     ?  2011.01 ..... ISBN 978-2-36051-007-8
 - .oY.     R     _LAWHEAD Stephen             Tuck [Le Roi corbeau - 3] þ2009 Tuck þTrad. ARSON Thierry
 o CLEVY_O     ?  2011.02 ..... ISBN 978-2-3605-1027-6
 } orbit023       _WHITE Craig                 ?
-- .oF.     R     _WELLS Jaye                  M‚tisse [Sabina Kane - 1] þ2009 Red-headed Stepchild þTrad. CHARRIER  Michelle
+- .oF.     R     _WELLS Jaye                  M‚tisse [Sabina Kane - 1] þ2009 Red-headed Stepchild þTrad. CHARRIER Michelle
 o CLEVY_O     ?  2011.03 ..... ISBN 978-2-36051-022-1
 } orbit024       _Michael Frost & Gene Mollica
 - .oY.     R     _SAINTCROW Lilith            Par-del… les cendres [Une aventure de Danny Valentine - 2] þ2006 Dead Man Rising þTrad. CHAZEL C‚lia
@@ -864,7 +572,7 @@ o CLEVY_O     ?  2011.10 ..... ISBN 978-2-3605-1035-1
 - .oY.     R     _KEARNEY Paul                Corvus [Les Macht - 2] þ2010 Corvus þTrad. PUGI Jean-Pierre
 o CLEVY_O     ?  2011.10 ..... ISBN 978-2-36051-036-8
 } orbit035       _Craig White                 ?
-- .oF.     R     _WELLS Jaye                  Rouge sang, noir magie [Sabina Kane - 2] þ2010 The Mage in Black þTrad. CHARRIER  Michelle
+- .oF.     R     _WELLS Jaye                  Rouge sang, noir magie [Sabina Kane - 2] þ2010 The Mage in Black þTrad. CHARRIER Michelle
 o CLEVY_O     ?  2011.11 ..... ISBN 978-2-36051-031-3
 } orbit036       _Michael Frost & Gene Mollica
 - .oF.     R     _SAINTCROW Lilith            A la droite du diable [Une aventure de Danny Valentine - 3] þ2007 The Devil's Right Hand þTrad. CHAZEL C‚lia
@@ -899,7 +607,7 @@ o CLEVY_O     ?  2012.04 ..... ISBN 978-2-36051-049-8
 - .oF.     R     _CARRIGER Gail               Sans honte [Le Protectorat de l'Ombrelle - 3] þ2010 Blameless þTrad. DENIS Sylvie
 o CLEVY_O     ?  2012.05 ..... ISBN 978-2-36051-069-6
 } orbit046       _Craig White                 ?
-- .oF.     R     _WELLS Jaye                  Le D‚mon de la vengeance [Sabina Kane - 3] þ2011 Green-Eyed Demon þTrad. CHARRIER  Michelle
+- .oF.     R     _WELLS Jaye                  Le D‚mon de la vengeance [Sabina Kane - 3] þ2011 Green-Eyed Demon þTrad. CHARRIER Michelle
 o CLEVY_O     ?  2012.05 ..... ISBN 978-2-36051-065-8
 } orbit047       _Larry Rostant               ?
 - .oF.     R     _CASHORE Kristin             Bitterblue [Graceling - 3] þ2012 Bitterblue þTrad. MAILLARD Alexandra
@@ -924,7 +632,7 @@ o CLEVY_O     ?  2012.11 ..... ISBN 978-2-36051-083-2
 - .oF.     R     _CARRIGER Gail               Sans coeur [Le Protectorat de l'Ombrelle - 4] þ2011 Hearthless þTrad. Denis Sylvie
 o CLEVY_O     ?  2012.11 ..... ISBN 978-2-36051-082-5
 } orbit054       _Craig White                 ?
-- .oF.     R     _WELLS Jaye                  La Tentation des ombres [Sabina Kane - 4] þ2012 Silver-Tongued Devil þTrad. Charrier  Michelle
+- .oF.     R     _WELLS Jaye                  La Tentation des ombres [Sabina Kane - 4] þ2012 Silver-Tongued Devil þTrad. Charrier Michelle
 o CLEVY_O     ?  2013.01 ..... ISBN 978-2-36051-091-7
 } orbit055       _Marta Bevacqua              ?
 - .oF.     R     _DE LA CRUZ Melissa          Les SorciŠres de North Hampton [Les SorciŠres de North Hampton - 1] þ2011 Witches of East End / Witches of the East þTrad. BURY H‚lŠne

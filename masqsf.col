@@ -1,0 +1,765 @@
+
+!DEB_HEAD MASQ_SF
+!-----------------------------------------------------------------------------
+_ MASQ_SF Librairie des Champs Elys‚es - Le Masque SF
+!-----------------------------------------------------------------------------
+!GRP_OUVR 8
+!TIT_COLL Le Masque science-fiction
+!IMG_LOGO lmsf_logo
+!-----------------------------------------------------------------------------
+!--- Le Masque Science-Fiction (1974-1981)
+!---
+!--- 116 ouvrages de poche, de bonne qualit‚ et de pr‚sentation sympathique, sans
+!--. presque le moindre rat‚.
+!--- Moins connue que d'autres collections de l'‚poque, et pourtant, y furent publi‚s nombre de maŒtres tels Jack Vance, Brian W. Aldiss,
+!--. Philip Jos‚ Farmer, Harry Harrison, Philip K. Dick,
+!--. Frank Herbert, Bob Shaw, Leigh Brackett, Raymond F. Jones ou encore Isaac Asimov. On peut ‚galement y trouver quelques perles
+!--. d'auteurs moins connus, tel James White, Paul Van Herck ou encore Alexei Panshin.
+!--- 
+!--- Directeur de collection : Jacques Van Herp (de 1974 … 1978) puis Michel Demuth (de 1978 … 1981).
+!--- Format : 11 x 16,5 cm.
+!-----------------------------------------------------------------------------
+!FIN_HEAD MASQ_SF
+!DEB_COLL MASQ_SF
+o MASQ_SF     1  1974.03 ..... ISBN 2-7024-0227-5
+} lmsf001        _Christopher Foss            N
+!--- GILLES - Poche - DIM 110x165 mm - 253 pages - DPI 253 - PTO 256 - DL T1 1975 - AI 10/01/1975 - IMPRIM Brodard et Taupin, 6, Place d'Alleray, Paris
+!--- J'ai la version de janvier 1975
+x MASQ_SF     1  1974.05 ..... ISBN 2-7024-0227-5
+x MASQ_SF     1  1975.01 R.... ISBN 2-7024-0227-5
+- .oS.    =R     _SUTTON Jeff                 Le Cerveau solitaire þ1970 Alton's Unguessable þTrad. DEUTSCH Michel
+o MASQ_SF     2  1974.03 ..... ISBN 2-7024-0228-3
+} lmsf002        _Paul Lehr                   N
+!--- GILLES - Poche - DIM 110x165 mm - 253 pages - DPI 253 - PTO 256 - DL T1 1974 - AI 05/03/1974 - IMPRIM Brodard et Taupin, 6, Place d'Alleray, Paris
+>--- Expansion de _Time pawn_ (1954)
+x MASQ_SF     2  1974.10 ..... ISBN 2-7024-0228-3
+- .oS.    =R     _DICK Philip K.              Le Voyageur de l'inconnu þ1960 Dr. Futurity þTrad. ROBINET Florian
+o MASQ_SF     3  1974.03 ..... ISBN 2-7024-0229-1
+} lmsf003        _?                           N  
+!--- GILLES - Poche - DIM 110x165 mm - 254 pages - DPI 254 - PTO 256 - DL T3 1975 - AI 10/01/1975 - IMPRIM Brodard et Taupin, 6, Place d'Alleray, Paris
+>--- Tous les textes sont sign‚s … l'origine Lewis Padgett.
+>--- Bien que consid‚r‚ comme un Fix-Up, les nouvelles gardent chacune leur titre. Chaque chapitre est constitu‚ du num‚ro de chapitre, d'une introduction, puis du titre et du corps de la nouvelle. L'ouvrage se termine par un court chapitre 6 servant d'‚pilogue.
+!--- J'ai la version de janvier 1975
+x MASQ_SF     3  1974.05 ..... ISBN 2-7024-0229-1
+x MASQ_SF     3  1974.08 ..... ISBN 2-7024-0229-1
+x MASQ_SF     3  1975.01 ..... ISBN 2-7024-0229-1
+x MASQ_SF     3  1980.T1 ..... ISBN 2-7024-0229-1
+- .oS.    =U5    _KUTTNER Henry               Les Mutants þ1953 Mutant þTrad. STRASCHITZ Frank
+: .o .   9 N     _KUTTNER Henry               Le Fils du joueur de fl–te þ1945 The Piper's Son
+: .o .  46 N     _KUTTNER Henry               Trois souris aveugles þ1945 Three Blind Mice
+: .o .  94 N     _KUTTNER Henry               Le Lion et la licorne þ1945 The Lion and the Unicorn
+: .o . 144 N     _KUTTNER Henry               Les Mendiants de velours þ1945 Beggars in Velvet
+: .o . 202 N     _KUTTNER Henry               Humpty Dumpty þ1953 Humpty Dumpty
+o MASQ_SF     4  1974.03 R.... ISBN 2-7024-0230-5
+} lmsf004        _?                           N
+!--- GILLES - Poche - DIM 110x165 mm - 249 pages - DPI 249 - PTO 256 - DL T1 1974 - AI 05/03/1974 - IMPRIM Brodard et Taupin, 6, Place d'Alleray, Paris
+>--- Indiqu‚ comme une adaptation et non une traduction.
+>--- 256 pages - 
+- .oS.    =R     _LEINSTER Murray             La Galaxie noire þ1949-1954 The Black Galaxy þTrad. CHOMET Rosine & TARNIER Pierre
+o MASQ_SF     5  1974.03 ..... ISBN 2-7024-0231-3
+} lmsf005        _Richard Powers              N
+!--- GILLES - Poche - DIM 110x165 mm - 249 pages - DPI 249 - PTO 256 - DL T2 1974 - AI 10/05/1974 - IMPRIM Brodard et Taupin, 6, Place d'Alleray, Paris
+>--- Il ne s'agit pas d'une traduction de la variante _The Peregrine_, qui date de 1978.
+!--- J'ai la version du 05/1974
+x MASQ_SF     5  1974.05 ..... ISBN 2-7024-0231-3
+x MASQ_SF     5  1974.08 ..... ISBN 2-7024-0231-3
+x MASQ_SF     5  1975.01 ..... ISBN 2-7024-0231-3
+x MASQ_SF     5  1975.05 ..... ISBN 2-7024-0231-3
+- .oS.    =R     _ANDERSON Poul               La Route ‚toil‚e þ1956 Star Ways þTrad. DELAVAUD Collin
+o MASQ_SF     6  1974.03 R.... ISBN 2-7024-0232-1
+} lmsf006        _Christopher Foss            ?
+!--- Poche - 110x165 - 288 pages
+!--- J'ai la version du 08/1974
+x MASQ_SF     6  1974.08 R.... ISBN 2-7024-0232-1
+x MASQ_SF     6  1974.10 R.... ISBN 2-7024-0232-1
++ MASQ_SF     6  1981.xx ..... ISBN 2-7024-0232-1
+} lmsf006r81     _Kelly Freas                 ?
+- .oS.    =R     _ASIMOV Isaac                Les Courants de l'espace þ1952 The Currents of Space þTrad. DEUTSCH Michel
+o MASQ_SF     7  1974.04 R.... ISBN 2-7024-0250-X
+} lmsf007        _Bruce Pennington            ?
+!--- Poche - 110x165 - 256 pages - 
+!--- J'ai la version du 01/1975
+x MASQ_SF     7  1974.08 R.... ISBN 2-7024-0250-X
+x MASQ_SF     7  1975.01 R.... ISBN 2-7024-0250-X
+- .oS.    =R     _DERMEZE Yves                L'Image de l'autre þ1974
+o MASQ_SF     8  1974.05 ..... ISBN 2-7024-0265-8
+} lmsf008        _Jack Gaugham                ?
+x MASQ_SF     8  1974.10 ..... ISBN 2-7024-0265-8
+!--- Poche - 110x165 - 256 pages - 
+>--- Le texte d'origine _The Starmen_ (1952) a ensuite ‚t‚ publi‚ raccourci de 20000 mots sous le titre
+>--. _The Galactic Breed_ en 1955, puis ‚galement … nouveau sous le titre _The Starmen of Llyrdis_ en 1976.
+- .oS.    =R     _BRACKETT Leigh              Les Hommes stellaires þ1951 The Starmen of Llyrdis / The Starmen þTrad. BARRIERE Maxime
+o MASQ_SF     9  1974.06 R.... ISBN 2-7024-0277-1
+} lmsf009        _Gray Morrow                 ?
+!--- Poche - 110x165 - 254 pages - 
+!--- J'ai la version du 10/1974
+x MASQ_SF     9  1974.10 R.... ISBN 2-7024-0277-1
+- .oS.    =R     _BAYLEY Barrington J.        Les planŠtes meurent aussi þ1972 Annihilation Factor þTrad. DEUTSCH Michel
+o MASQ_SF    10  1974.06 ..... ISBN 2-7024-0278-X
+} lmsf010        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+!--- J'ai la version de 01/1975
+x MASQ_SF    10  1975.01 ..... ISBN 2-7024-0278-X
+- .oS.    =R     _HAMILTON Edmond             La Vall‚e magique þ1948-1964 The Valley of Creation þTrad. MARTIN Bruno
+o MASQ_SF    11  1974.07 R.... ISBN 2-7024-0279-8
+} lmsf011        _Jack Gaughan                ?
+!--- Poche - 110x165 - 256 pages - 
+x MASQ_SF    11  1975.01 R.... ISBN 2-7024-0279-8
+x MASQ_SF    11  1980.T2 R.... ISBN 2-7024-0279-8
+- .oS.    =R     _RUSSELL Eric Frank          Sentinelle de l'espace þ1951-1953 The Star Watchers / Sentinels from Space þTrad. CHOMET Richard
+o MASQ_SF    12  1974.09 R.... ISBN 2-7024-0280-1
+} lmsf012        _Paul Lehr                   ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _HAMILTON Edmond             La Ville sous globe þ1950-1951 The City at World's End þTrad. GREGOIRE Catherine
+o MASQ_SF    13  1974.09 R.... ISBN 2-7024-0304-2
+} lmsf013        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _HARKER Kenneth              Les Fleurs de f‚vrier þ1970 The Flowers of February þTrad. ROBINET Florian
+o MASQ_SF    14  1974.10 R.... ISBN 2-7024-0305-0
+} lmsf014        _Paul Lehr                   ?
+!--- Poche - 110x165 - 256 pages - 
+!--- J'ai la version 1979
+x MASQ_SF    14  1975.01 R.... ISBN 2-7024-0305-0
+x MASQ_SF    14  1979.T1 R.... ISBN 2-7024-0305-0
+- .oS.    =R     _ANDERSON Poul               BarriŠre mentale þ1954 Brain Wave þTrad. DOREMIEUX Alain
+o MASQ_SF    15  1974.11 R.... ISBN 2-7024-0306-9
+} lmsf015        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+!--- J'ai la version 05/1975
+x MASQ_SF    15  1975.05 R.... ISBN 2-7024-0306-9
+- .oS.    =R     _ZEBROWSKI George            Le Point Omega [Omega Point - 2] þ1972 Omega Point þTrad. BERNIER GisŠle
+o MASQ_SF    16  1974.12 R.... ISBN 2-7024-0307-7
+} lmsf016        _Christopher Foss            ?
+!--- Poche - 110x165 - 256 pages - 
+!--- J'ai la version 1975
+x MASQ_SF    16  1975.05 R.... ISBN 2-7024-0307-7
+x MASQ_SF    16  1979.T3 R.... ISBN 2-7024-0307-7
+- .oS.    =R     _DICK Philip K.              Dedalusman þ1965 Project Plowshare / The Zap Gun þTrad. ALBECK Raymond
+o MASQ_SF    17  1975.01 R.... ISBN 2-7024-0334-4
+} lmsf017        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+!--- J'ai la version 05/1975
+x MASQ_SF    17  1975.05 R.... ISBN 2-7024-0334-4
+- .oS.    =R     _TUBB E.C.                   Les MaŒtres du hasard þ1963-1964 Window on the Moon / Moonbase þTrad. HUET Jacqueline
+o MASQ_SF    18  1975.01 R.... ISBN 2-7024-0333-6
+} lmsf018        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _EKLUND Gordon               Le Silence de l'aube þ1971 The Eclipse of Dawn þTrad. BARRIERE Maxime
+o MASQ_SF    19  1975.02 R.... ISBN 2-7024-0335-2
+} lmsf019        _Kelly Freas                 ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Seul Jack Williamson est cr‚dit‚ sur la couverture et sur le dos.
+!--- J'ai la version T3-1979
+x MASQ_SF    19  1979.T3 R.... ISBN 2-7024-0335-2
+- .oS.    =R     _WILLIAMSON Jack            &Le Pont sur les ‚toiles þ1955 Star Bridge þTrad. DELAVAUD Collin
+&                _GUNN James E.               
+o MASQ_SF    20  1975.03 R.... ISBN 2-7024-0336-0
+} lmsf020        _Gray Morrow                 ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _DERMEZE Yves                Via Velpa þ1955
+o MASQ_SF    21  1975.03 R.... ISBN 2-7024-0343-3
+} lmsf021        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Le titre "Sub-espace" (sans article) apparait en couverture et sur le dos.
+- .oS.    =R     _SERIEL J‚r“me               Le Sub-Espace þ1961
+o MASQ_SF    22  1975.04 R.... ISBN 2-7024-0344-1
+} lmsf022        _?                           ?
+!--- Poche - 110x165 - 288 pages - 
+- .oS.    =R     _DICK Philip K.              Le Prisme du n‚ant þ1974 Flow My Tears, the Policeman Said þTrad. DEUTSCH Michel
+o MASQ_SF    23  1975.05 R.... ISBN 2-7024-0345-X
+} lmsf023        _Paul Lehr                   ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _DAVIES L.P.                 Les Cavernes de l'Id þ1966 Psychogeist þTrad. ZRIBI Anne
+o MASQ_SF    24  1975.06 R.... ISBN 2-7024-0346-8
+} lmsf024        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _BULMER Kenneth              La Cit‚ folle þ1971 The Insane City þTrad. ROSENTHAL Mary
+o MASQ_SF    25  1975.06 R.... ISBN 2-7024-0385-9
+} lmsf025        _Richard Powers              N  
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =N4    _JONES Raymond F.            Risques calcul‚s þ1964 The Non-Statistical Man þTrad. BARRIERE Maxime
+: .oS.   7 r     _JONES Raymond F.            Risques calcul‚s þ1956 The Non-Statistical Man þTrad. BARRIERE Maxime
+: .oS. 127 N     _JONES Raymond F.            On ne marchera plus sur la Lune þ1953 The Moon Is Death þTrad. BARRIERE Maxime
+: .oS. 151 N     _JONES Raymond F.            L'Arbre solitaire þ1957 The Gardener þTrad. BARRIERE Maxime
+: .oS. 179 N     _JONES Raymond F.            Entracte, le dernier concert þ1953 Intermission Time þTrad. BARRIERE Maxime
+o MASQ_SF    26  1975.06 R.... ISBN 2-7024-0387-5
+} lmsf026        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+x MASQ_SF    26  1979.T1 R.... ISBN 2-7024-0387-5
+- .oS.    =R     _HENNEBERG Charles           Le Chant des astronautes þ1958
+o MASQ_SF    27  1975.07 R.... ISBN 2-7024-0386-7
+} lmsf027        _Paul Lehr                   ?
+!--- Poche - 110x165 - 256 pages - 
+!--- "Introduction" de Jacques Van Herp en page 7
+- .oS.  11=R     _CLARKE Arthur C.            LumiŠre cendr‚e þ1955 Earthlight þTrad. BERNIER GisŠle
+o MASQ_SF    28  1975.08 R.... ISBN 2-7024-0388-3
+} lmsf028        _Karel Thole                 ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Expansion de la novella de mˆme titre datant de 1956.
+- .oS.    =R     _DICK Philip K.              Les Marteaux de Vulcain þ1960 Vulcan's Hammer þTrad. BENATRE Monique
+o MASQ_SF    29  1975.09 R.... ISBN 2-7024-0428-6
+} lmsf029        _Paul Lehr                   ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Fix-up des quatre nouvelles suivantes, devenues des chapitres : "The Man from Outside" (1951), "Man Down" (1952), "The Happiest Creature" (1953, traduit sous le titre "Factice" ou "La Plus Heureuse Cr‚ature" et "A Planet for Plundering" (1962, traduit sous "Une planŠte … piller")
+- .oS.    =U     _WILLIAMSON Jack             Les PlanŠtes en sursis þ1962 The Trial of Terra þTrad. BARRIERE Maxime
+o MASQ_SF    30  1975.09 R.... ISBN 2-7024-0429-4
+} lmsf030        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Seul Charles est indiqu‚ en couverture et sur le dos.
+- .oS.     R     _HENNEBERG Nathalie         &Les Dieux verts þ1961
+&                _HENNEBERG Charles           
+o MASQ_SF    31  1975.10 R.... ISBN 2-7024-0430-8
+} lmsf031        _J‚r“me Podwill              N  
+!--- Poche - 110x165 - 288 pages - 
+>--- Les deux derniŠres nouvelles de l'‚dition am‚ricaine, _Autofac_ et __A World of Talent_ (Un monde de talent) sont absentes.
+!--- J'ai la version de T3-1979
+x MASQ_SF    31  1979.T3 R.... ISBN 2-7024-0430-8
+- .oS.    =N3    _DICK Philip K.              L'Homme variable þ1957 The Variable Man þTrad. ROSENTHAL Mary
+: .oS.   7 r     _DICK Philip K.              L'Homme variable þ1953 The Variable Man þTrad. ROSENTHAL Mary
+: .oS. 131 N     _DICK Philip K.              DeuxiŠme vari‚t‚ þ1953 Second Variety þTrad. ROSENTHAL Mary
+: .oS. 205 N     _DICK Philip K.              Rapport minoritaire þ1956 The Minority Report þTrad. ROSENTHAL Mary
+o MASQ_SF    32  1975.10 R.... ISBN 2-7024-0431-6
+} lmsf032        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Les deux premiers ‚pisodes de _The Hand of Zei_ (parus en 4 ‚pisodes dans Astounding SF de octobre 1950 … janvier 1951)
+>--. ont ‚t‚ regroup‚s et r‚vis‚s pour former ce premier volume en 1962.
+- .oS.    =R     _DE CAMP Lyon Sprague        Zei [Krishna - 2][Viagens Interplanetarias] þ1950-1962 The Hand of Zei / The Search for Zei þTrad. RIVELIN Michel
+o MASQ_SF    33  1975.T4 R.... ISBN 2-7024-0432-4
+} lmsf033        _Bruce Pennington            ?
+!--- Poche - 110x165 - 256 pages - 
+>---  Version d‚velopp‚e de la nouvelle _Greenslave_, 1965
+- .oS.    =R     _HERBERT Frank               Le Cerveau vert þ1966 The Green Brain þTrad. HUET Jacqueline
+o MASQ_SF    34  1976.T1 R.... ISBN 2-7024-0443-X
+} lmsf034        _Chris Foss                  ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _SPRIGEL Olivier             Cr‚puscule du futur þ1976
+o MASQ_SF    35  1976.T1 R.... ISBN 2-7024-0444-8
+} lmsf035        _Eddie Jones                 N  
+!--- Poche - 110x165 - 256 pages - 
+>--- Le recueil original contient 4 textes, soit un de plus, _Gulf_ (1949).
+- .oS.    =N3    _HEINLEIN Robert             Trois pas dans l'‚ternit‚ þ1953 Assignment in Eternity þTrad. HUET Jacqueline
+: .oS.   7 N     _HEINLEIN Robert             En quelque temps þ1941 Elsewhere / Elsewhen þTrad. HUET Jacqueline
+: .oS.  61 r     _HEINLEIN Robert             H‚ritage perdu þ1941 Lost Legion / Lost Legacy þTrad. HUET Jacqueline
+: .oS. 207 N     _HEINLEIN Robert             Un homme þ1947 Jerry Is a Man / Jerry Was a Man þTrad. HUET Jacqueline
+o MASQ_SF    36  1976.T1 R.... ISBN 2-7024-0445-6
+} lmsf036        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Les deux derniers ‚pisodes de _The Hand of Zei_ (parus en 4 ‚pisodes dans Astounding SF de octobre 1950 … janvier 1951) ont ‚t‚ regroup‚s et r‚vis‚s pour former ce second volume en 1963.
+- .oS.    =R     _DE CAMP Lyon Sprague        La Main de Zei [Krishna - 3][Viagens Interplanetarias] þ1951-1963 The Hand of Zei þTrad. RIVELIN Michel
+o MASQ_SF    37  1976.T1 R.... ISBN 2-7024-0469-3
+} lmsf037        _Gray Morrow                 N
+>--- Cr‚dit‚ comme une traduction du recueil _The Best of John Windham_, mais ne correspond … aucune des anthologies parues sous ce titre.
+>--- Six des nouvelles (sur 7) appartiennent … la premiŠre version du recueil, datant de 1973 et contenant 12 nouvelles.
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =N7    _WYNDHAM John                La Machine perdue þ1976 þTrad. ROSENTHAL Mary
+: .oS.   7 N     _WYNDHAM John                La Machine perdue þ1932 The Lost Machine þTrad. ROSENTHAL Mary
+: .oS.  41 N     _WYNDHAM John                Le Troc des mondes þ1931 Worlds to Barter þTrad. ROSENTHAL Mary
+: .oS.  93 N     _WYNDHAM John                Le Survivant þ1934 The Man from Beyond þTrad. ROSENTHAL Mary
+: .oS. 137 N     _WYNDHAM John                Adaptation þ1949 Adaptation þTrad. ROSENTHAL Mary
+: .oS. 165 N     _WYNDHAM John                Les Murs de Jericho þ1951 And the Walls Came Tumbling Down þTrad. ROSENTHAL Mary
+: .oS. 193 N     _WYNDHAM John                La Perfection mˆme þ1937 The Perfect Creature þTrad. ROSENTHAL Mary
+: .oS. 229 N     _WYNDHAM John                Le Vide de l'espace þ1960 The Emptiness of Space þTrad. ROSENTHAL Mary
+o MASQ_SF    38  1976.T1 R.... ISBN 2-7024-0470-7
+} lmsf038        _Dean Ellis                  ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _DERMEZE Yves                Les LumiŠres þ1976
+o MASQ_SF    39  1976.T2 R.... ISBN 2-7024-0471-5
+} lmsf039        _Gray Morrow                 ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Pr‚c‚d‚ d'un Avant-propos (Foreword, 1969) et suivi d'une Note de l'auteur (Author's note, 1969).
+x MASQ_SF    39  1980.T2 R.... ISBN 2-7024-0471-5
+- .oS.    =R     _POHL Frederik               L'Šre du satisfacteur þ1966-1969 The Age of the Pussyfoot þTrad. BARRIERE Maxime
+o MASQ_SF    40  1976.T2 R.... ISBN 2-7024-0472-3
+} lmsf040        _?                           N  
+>--- Ne contient que 12 des 17 nouvelles du recueil original, et compl‚t‚ d'une autre texte (Effet miroir).
+!--- Poche - 110x165 - 256 pages - 
+x MASQ_SF    40  1979.T3 R.... ISBN 2-7024-0472-3
+- .oS.    =N13   _ASIMOV Isaac                Espace vital þ1957 Earth Is Room Enough þTrad. DEUTSCH Michel
+: .oS.   7 N     _ASIMOV Isaac                Espace vital þ1956 Living Space
+: .oS.  28 N     _ASIMOV Isaac                Les Cendres du pass‚ þ1956 The Dead Past
+: .oS.  98 N     _ASIMOV Isaac                Effet miroir [Les Cavernes d'acier] þ1972 Mirror Image
+: .oS. 121 N     _ASIMOV Isaac                Devoir civique þ1955 Franchise
+: .oS. 145 N     _ASIMOV Isaac                Le Pacte þ1956 The Brazen Locked Room / Gimmicks Three
+: .oS. 154 N     _ASIMOV Isaac                Des histoires pour gosses þ1953 Kid Stuff
+: .oS. 175 N     _ASIMOV Isaac                Avec de l'eau partout þ1956 The Watery Place
+: .oS. 182 N     _ASIMOV Isaac                Le Message þ1956 The Message
+: .oS. 185 N     _ASIMOV Isaac                Satisfaction garantie [Robots] þ1951 Satisfaction Guaranted
+: .oS. 207 N     _ASIMOV Isaac                Le Feu de l'Enfer þ1956 Hell Fire
+: .oS. 210 N     _ASIMOV Isaac                La DerniŠre Trompette þ1955 The Last Trump
+: .oS. 234 N     _ASIMOV Isaac                Le Barde immortel þ1954 The Immortal Bard
+: .oS. 238 N     _ASIMOV Isaac                Un jour... þ1956 Someday
+o MASQ_SF    41  1976.T2 R.... ISBN 2-7024-0506-1
+} lmsf041        _Bruce Pennington            ?
+!--- Poche - 110x165 - 256 pages - 
++ MASQ_SF    41  1981.T2 R.... ISBN 2-7024-0506-1
+} lmsf041r81     _Jean-Christophe Sayag       ?
+- .oS.    =R     _DICK Philip K.              Les ChaŒnes de l'avenir þ1956 The World Jones Made þTrad. HUET Jacqueline
+o MASQ_SF    42  1976.T2 R.... ISBN 2-7024-0507-X
+} lmsf042        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Pr‚c‚d‚ d'un pr‚face du traducteur Michel V‚d‚w‚.
+- .oS.    =R     _VAN HERCK Paul              Caroline oh ! Caroline þ1976 Caroline O Caroline þTrad. VEDEWE Michel
+o MASQ_SF    43  1976.xx R.... ISBN 2-7024-0508-8
+} lmsf043        _Peter Manesis               ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _GOTLIEB Phyllis             Psycataclysme þ1964 Sunburst þTrad. BARRIERE Maxime
+o MASQ_SF    44  1976.T2 R.... ISBN 2-7024-0509-6
+} lmsf044        _Dean Ellis                  ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _POHL Frederik              &L'Enfant des ‚toiles [La Paix des ‚toiles - 2] þ1965 Starchild þTrad. BILLON Pierre
+&                _WILLIAMSON Jack             
+o MASQ_SF    45  1976.T3 R.... ISBN 2-7024-0546-6
+} lmsf045        _Jack Gaughan                ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Suivi d'une postface de G‚rard Klein, "Le Point de vue litt‚raire"
+!--- Hors cycle de Zei, mais sur la mˆme planŠte Krishna. Alors [Zei - 3] ou pas ?
+- .oS.    =R     _DE CAMP Lyon Sprague        Chasse cosmique [Krishna - 1][Viagens Interplanetarias] þ1949 The Queen of Zamba / Cosmic Manhunt þTrad. DELAVAUD Collin
+o MASQ_SF    46  1976.T3 R.... ISBN 2-7024-0547-9
+} lmsf046        _?                           N  
+!--- Poche - 110x165 - 256 pages - 
+>--- Le titre de la premiŠre nouvelle n'apparaŒt en fait que dans le sommaire.
+- .oS.    =N6    _VICTOR Ren‚ Jacques         Les Doigts du hasard þ1976
+: .oS.   9 N     _VICTOR Ren‚ Jacques         Jlee þ1976
+: .oS.  49 N     _VICTOR Ren‚ Jacques         Chut.chut.chut... þ1976
+: .oS.  95 N     _VICTOR Ren‚ Jacques         Ambassadeurs þ1976
+: .oS. 131 N     _VICTOR Ren‚ Jacques         L'Ange au bout de la piste þ1976
+: .oS. 173 N     _VICTOR Ren‚ Jacques         Une rose au coeur d'une montre þ1976
+: .oS. 207 N     _VICTOR Ren‚ Jacques         Une vieille maison dans les Bartas þ1976
+o MASQ_SF    47  1976.T4 R.... ISBN 2-7024-0548-7
+} lmsf047        _J. J. Vincent               ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _HERBERT James               Les Rats [Les Rats - 1] þ1974 The Rats þTrad. HUET Jacqueline
+o MASQ_SF    48  1976.T4 R.... ISBN 2-7024-0549-5
+} lmsf048        _Gray Morrow                 ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _DERMEZE Yves                Le Titan de l'espace þ1954
+o MASQ_SF    49  1976.T4 R.... ISBN 2-7024-0564-9
+} lmsf049        _J. J. Vincent               ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _ANDERSON Poul               Fatum þ1971 The Dancer from Atlantis þTrad. BARRIERE Maxime
+o MASQ_SF    50  1976.T4 R.... ISBN 2-7024-0563-0
+} lmsf050        _?                           ?
+!--- GILLES - Poche - DIM 110x165 mm - 250 pages - DPI 249 - PTO 256 - DL T4 1976 - AI n.c. - IMPRIM Brodard et Taupin, 7, bd Romain-Rolland, Montrouge - 
+- .oS.    =R     _BRACKETT Leigh              Les Voix de Skaith [Skaith - 1][Eric John Stark] þ1974 The Ginger Star þTrad. ROSENTHAL Mary
+o MASQ_SF    51  1977.T1 R.... ISBN 2-7024-0562-2
+} lmsf051        _Viktor Kalin                ?
+- .oS.    =R     _HENNEBERG Charles           La Naissance des dieux þ1954
+o MASQ_SF    52  1977.T1 R.... ISBN 2-7024-0565-7
+} lmsf052        _Gray Morrow                 ?
+!--- Poche - 110x165 - 288 pages - 
+- .oS.     R     _HANOST Paul                 Le Livre des ‚toiles þ1977
+o MASQ_SF    53  1977.T1 R.... ISBN 2-7024-0599-1
+} lmsf053        _Chriss Foss                 N
+>--- La seconde nouvelle apparaŒt au singulier ("Racine sur la trŠs belle") dans le sommaire.
+!--- Le titre original de la derniŠre nouvelle est indiqu‚ "Behind the Black Nebular" au lieu de "... Nebula".
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =A6    *LECONTE Marianne            Les PiŠges de l'espace þ1977
+: .oS.   7 N     _ANDERSON Poul               La Main tendue þ1950 The Helping Hand þTrad. BARRIERE Maxime
+: .oS.  55 N     _CALONNE Michel              Racines sur la trŠs belle þ1977
+: .oS.  97 N     _LEIBER Fritz                La Forˆt enchant‚e þ1950 The Enchanted Forest þTrad. BARRIERE Maxime
+: .oS. 131 N     _PRIEST Christopher          G‚n‚ration spontan‚e þ1970 Breeding Ground þTrad. BARRIERE Maxime
+: .oS. 155 N     _CURVAL Philippe             Un op‚ra de l'espace þ1977
+: .oS. 205 N     _HUBBARD L. Ron              DerriŠre la n‚buleuse noire þ1949 The Invaders / Behind the Black Nebula þTrad. BARRIERE Maxime
+o MASQ_SF    54  1977.T1 R.... ISBN 2-7024-0600-9
+} lmsf054        _Jack Gaughan                N  
+!--- Poche - 110x165 - 192 pages - 
+- .oS.    =N4    _VAN VOGT Alfred E.          Alpha et Omega þ1977
+: .oS.   7 r     _VAN VOGT Alfred E.         &Alpha et Omega þ1965 Research Alpha þTrad. HUET Jacqueline
+&                _SCHMITZ James H.            
+: .oS. 103 N     _VAN VOGT Alfred E.          Libert‚ programm‚e þ1971 All the Loving Androids þTrad. HUET Jacqueline
+: .oS. 153 N     _VAN VOGT Alfred E.          La Balan‡oire [Isher] þ1941 The Seesaw þTrad. HUET Jacqueline
+: .oS. 173 N     _VAN VOGT Alfred E.          Le Char de Juggernaut þ1944 Juggernaut þTrad. HUET Jacqueline
+o MASQ_SF    55  1977.T1 R.... ISBN 2-7024-0601-7
+} lmsf055        _Michael Whelan              N  
+!--- Poche - 110x165 - 256 pages - 
+>--- Le premier texte s'intitule dans le sommaire "Les sorciers doivent bruler".
+- .oS.    =U3    _GUNN James E.               L'Holocauste þ1972 The Burning þTrad. ROSENTHAL Mary
+: .oS.   9 N     _GUNN James E.               Au b–cher, les sorciers ! þ1956 Witches Must Burn þTrad. ROSENTHAL Mary
+: .oS.  81 N     _GUNN James E.               L'preuve du feu þ1969 Trial by Fire þTrad. ROSENTHAL Mary
+: .oS. 165 r     _GUNN James E.               La Chasse aux sorciers þ1969 Witch Hunt þTrad. ROSENTHAL Mary
+o MASQ_SF    56  1977.T2 R.... ISBN 2-7024-0602-5
+} lmsf056        _Jan Parker                  ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Traduction en fran‡ais depuis la traduction anglaise.
+- .oS.    =R     _VAN HERCK Paul              Cresudi dernier ? þ1968-1973 Sam of de pluterdag / Where Were You Last Pluterday? þTrad. ROSENTHAL Mary
+o MASQ_SF    57  1977.T2 R.... ISBN 2-7024-0603-3
+} lmsf057        _Chris Foss                  ?
+!--- Poche - 110x165 - 288 pages - 
+>--- Seule Marion Zimmer Bradley est cr‚dit‚e, comme d'ailleurs dans toutes les ‚ditions anglophones avant 1992.
+- .oS.    =R     _BRADLEY Marion Zimmer      &Chasse sur la lune rouge [Unit‚ - 1] þ1973 Hunters of the Red Moon þTrad. BARRIERE Maxime
+&                _ZIMMER Paul Edwin           
+o MASQ_SF    58  1977.T2 R.... ISBN 2-7024-0604-1
+} lmsf058        _?                           N  
+!--- Poche - 110x165 - 256 pages - 
+>--- Chaque nouvelle est pr‚c‚d‚e d'une courte pr‚sentation, probablement de l'anthologiste.
+>--- Le titre de la derniŠre nouvelle (Le Cageot) est mal orthographi‚, "Le Gageot" en premiŠre page du texte.
+>--- Le nom du traducteur de la sixiŠme nouvelle (Une ombre, juste...) est orthographi‚ "Elic Piir".
+- .oS.    =A8    _STURGEON Theodore          &Les Enfants de Sturgeon þ1977
+&                *LECONTE Marianne            
+: .oS.   5 N     _STURGEON Theodore           Le Moutard þ1941 Brat þTrad. PIIR Eric
+: .oS.  37 N     _STURGEON Theodore           Deux pour cent d'inspiration þ1941 Two Percent Inspiration þTrad. PIIR Eric
+: .oS.  75 N     _STURGEON Theodore           Le Bƒton de Miouhou þ1946 Mewhu's Jet þTrad. MARTIN Bruno
+: .oS. 139 N     _STURGEON Theodore           Le Professeur et l'ours en peluche þ1948 The Professor's Teddy Bear þTrad. DEMUTH Michel
+: .oS. 159 N     _STURGEON Theodore           Le Prodige þ1949 Prodigy þTrad. DEMUTH Michel
+: .oS. 179 N     _STURGEON Theodore           Une ombre, juste une ombre sur le mur þ1951 Shadow, Shadow on the Wall þTrad. PIIR Eric
+: .oS. 197 N     _STURGEON Theodore           Etincelle þ1955 Twink þTrad. PIIR Eric
+: .oS. 231 N     _STURGEON Theodore           Le Cageot þ1970 Crate þTrad. PIIR Eric
+o MASQ_SF    59  1977.T2 R.... ISBN 2-7024-0605-X
+} lmsf059        _Chris Foss                  N  
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =N3    _DEMUTH Michel               La Cl‚ des ‚toiles þ1977
+: .oS.   7 r     _DEMUTH Michel               La Cl‚ des ‚toiles þ1960
+: .oS. 151 N     _DEMUTH Michel               Nocturne pour d‚mons þ1964
+: .oS. 189 N     _DEMUTH Michel               A l'est du Cygne þ1964
+o MASQ_SF    60  1977.T3 R.... ISBN 2-7024-0628-9
+} lmsf060        _Chriss Foss                 ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Signature Robert Chilson
+- .oS.    =R     _CHILSON Rob                 CimetiŠre de rˆves þ1974 As the Curtain Falls þTrad. BARRIERE Maxime
+o MASQ_SF    61  1977.T3 R.... ISBN 2-7024-0650-5
+} lmsf061        _Jean-Claude Hadi            ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.     R     _SPRIGEL Olivier             Venusine [Setni, enquˆteur temporel] þ1977
+o MASQ_SF    62  1977.T4 R.... ISBN 2-7024-0651-3
+} lmsf062        _Chris Foss                  ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.     R     _HAMILTON Edmond             L'Arme de nulle part [Les Loups des ‚toiles - 1] þ1967 The Weapon from Beyond þTrad. CHOMET Richard
+o MASQ_SF    63  1977.T4 R.... ISBN 2-7024-0652-1
+} lmsf063        _Bruce Pennington            ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _BRACKETT Leigh              Les Chiens de Skaith [Skaith - 2][Eric John Stark] þ1974 The Hounds of Skaith þTrad. ROSENTHAL Mary
+o MASQ_SF    64  1977.T4 R.... ISBN 2-7024-0653-X
+} lmsf064        _J. J. Vincent               ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _PIPER H. Beam               Les Hommes de poche [Tinounours - 1] þ1962 Little Fuzzy þTrad. HUET Jacqueline
+o MASQ_SF    65  1977.T4 R.... ISBN 2-7024-0694-7
+} lmsf065        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _BRUNNER John                clipse totale þ1974 Total Eclipse þTrad. ROSENTHAL Mary
+o MASQ_SF    66  1977.T4 R.... ISBN 2-7024-0695-5
+} lmsf066        _Joseph Lombardero           N  
+!--- Poche - 110x165 - 256 pages - 
+>--- Seul la sixiŠme nouvelle, "Galat‚e" est sign‚e en fin de texte (Charles Henneberg).
+!--- TBD : revoir les auteurs v‚ritables de chaque texte
+- .oS.    =N8    _HENNEBERG Charles          &D‚mons et chimŠres þ1977
+&                _HENNEBERG Nathalie          
+: .oS.   7 N     _HENNEBERG Charles           D‚mons et chimŠres þ1959
+: .oS.  37 N     _HENNEBERG Charles           La Fus‚e fant“me þ1958
+: .oS.  64 N     _HENNEBERG Charles           Pavane pour une plante þ1958
+: .oS.  84 N     _HENNEBERG Nathalie          L'pave þ1962
+: .oS. 107 N     _HENNEBERG Nathalie          Du fond des t‚nŠbres þ1960
+: .oS. 143 N     _HENNEBERG Charles           Galat‚e þ1960
+: .oS. 160 N     _HENNEBERG Nathalie          Ysolde þ1961
+: .oS. 189 N     _HENNEBERG Nathalie          Le Rˆve min‚ral þ1964
+o MASQ_SF    67  1977.T4 R.... ISBN 2-7024-0696-3
+} lmsf067        _Chris Foss                  N  
+!--- Poche - 110x165 - 256 pages - 
+>--- Chacune des trois nouvelles est pr‚c‚d‚e d'une courte pr‚sentation.
+- .oS.    =A3    *LECONTE Marianne            Les Champs de l'infini þ1977
+: .oS.   7 p     _LECONTE Marianne            Pr‚face þ1977
+: .oS.  11 r     _STURGEON Theodore           La Spirale d'or þ1954 The Golden Helix þTrad. ROSENTHAL Mary
+: .oS. 107 N     _HOLDSTOCK Robert            Un ‚v‚nement sans importance þ1977 A Small Event þTrad. ROSENTHAL Mary
+: .oS. 141 r     _SCORTIA Thomas N.           Les Rives de la nuit þ1956 The Shores of Night þTrad. ROSENTHAL Mary
+o MASQ_SF    68  1978.T1 R.... ISBN 2-7024-0697-1
+} lmsf068        _Jean-Claude Hadi            ?
+!--- Poche - 110x165 - 192 pages - 
+>--- Le titre original indiqu‚ en page de titre est factice (Martin Slang est le pseudonyme de Paul B‚rato),
+>--. et contient probablement une erreur de typo (...Good Says au lieu de ...God Says).
+- .oS.    =R     _SLANG Martin                Dieu ne veut pas mourir þ1978 Thou Shall Not Kill... Ine! Good Says
+o MASQ_SF    69  1978.T1 R.... ISBN 2-7024-0707-2
+} lmsf069        _Bruce Pennington            N  
+!--- Poche - 110x165 - 256 pages - 
+>--- Chacune des quatre nouvelles du fix-up est pr‚c‚d‚e d'un num‚ro de partie (PremiŠre partie … QuatriŠme partie).
+- .oS.    =U4    _GUNN James E.               Les Immortels þ1962 The Immortals þTrad. ROSENTHAL Mary
+: .oS.   7 N     _GUNN James E.               Le Sang neuf þ1955 New Blood þTrad. ROSENTHAL Mary
+: .oS.  49 N     _GUNN James E.               Le Don þ1960 Donor þTrad. ROSENTHAL Mary
+: .oS.  97 N     _GUNN James E.               L'Interne þ1957 Not so Great an Enemy / Medic þTrad. ROSENTHAL Mary
+: .oS. 175 N     _GUNN James E.               Immortalit‚ þ1958 The Immortals þTrad. ROSENTHAL Mary
+o MASQ_SF    70  1978.T1 R.... ISBN 2-7024-0708-0
+} lmsf070        _Chris Foss                  ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _HAMILTON Edmond             Les Mondes interdits [Les Loups des ‚toiles - 2] þ1968 The Closed Worlds þTrad. CHOMET Richard
+o MASQ_SF    71  1978.T1 R.... ISBN 2-7024-0709-9
+} lmsf071        _?                           ?
+!--- Poche - 110x165 - 288 pages - 
+>--- Fix-up de 5 nouvelles des ann‚es 1943 … 1946.
+>--- Seule le nom d'A. E. Van Vogt" est cr‚dit‚ dans l'ouvrage.
+- .oS.    =U     _VAN VOGT Alfred E.         &PlanŠtes … vendre þ1954 Planets for Sale þTrad. HUET Jacqueline
+&                _HULL Edna Mayne             
+o MASQ_SF    72  1978.T2 R.... ISBN 2-7024-0710-2
+} lmsf072        _Bruce Pennington            N  
+!--- Poche - 110x165 - 256 pages - 
+>--- La premiŠre nouvelle est intitul‚e "Les Anges de la colŠre" dans le sommaire, et "Les Anges de colŠre" en titre de texte.
+>--- L'ouvrage est cr‚dit‚  "Nathalie Ch. Henneberg" en page de titre, "N. Henneberg" en couverture et "Nathalie Ch-Henneberg" sur le dos et en quatriŠme de couverture.
+- .oS.    =N6    _HENNEBERG Nathalie          Les Anges de la colŠre þ1978
+: .oS.   7 N     _HENNEBERG Nathalie          Les Anges de colŠre þ1961
+: .oS.  37 N     _HENNEBERG Nathalie          La Jeune Fille et les deux villes þ1970
+: .oS.  71 N     _HENNEBERG Nathalie          Monstre … voix de sirŠne þ1961
+: .oS.  99 N     _HENNEBERG Nathalie          Les MaŒtres de l'heure þ1967
+: .oS. 145 N     _HENNEBERG Nathalie          Port‚s disparus þ1971
+: .o . 195 N     _HENNEBERG Nathalie          Le Soleil de Thul‚ þ1965
+o MASQ_SF    73  1978.T2 R.... ISBN 2-7024-0729-3
+} lmsf073        _Bruce Pennington            N  
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =RN    _LEIBER Fritz                Le Grand Jeu du temps [La Guerre des modifications] þ1978
+: .oS.   7 R     _LEIBER Fritz                La Guerre des modifications [La Guerre des modifications] þ1958 The Big Time þTrad. DENES Herv‚
+!--- Identique … "guerre dans le n‚ant", 58 en magazine, 59 en livre.
+: .o . 217 N     _LEIBER Fritz                L'Homme de guerre [La Guerre des modifications] þ1960 The Oldest Soldier þTrad. LATHIERE Ren‚
+o MASQ_SF    74  1978.T2 R.... ISBN 2-7024-0730-7
+} lmsf074        _Chris Foss                  ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.     R     _DICK Philip K.              Les Joueurs de Titan þ1963 The Game-Players of Titan þTrad. BARRIERE Maxime
+o MASQ_SF    75  1978.T2 R.... ISBN 2-7024-0731-5
+} lmsf075        _Jack Faragasso              N  
+!--- Poche - 110x165 - 256 pages - 
+>--- La derniŠre nouvelle est orthographi‚e "s'entrouvre" dans le sommaire, et "s'entr'ouvre" en titre de texte.
+x MASQ_SF    75  1981.T2 R.... ISBN 2-7024-0731-5
+- .oS.    =A4    _STURGEON Theodore          &M‚duse þ1978
+&                *LECONTE Marianne            
+: .oS.   5 p     _LECONTE Marianne            Avant-propos þ1978
+: .oS.   8 N     _STURGEON Theodore           M‚duse þ1942 Medusa þTrad. ROSENTHAL Mary
+: .oS.  43 N     _STURGEON Theodore           Il n'y a pas de d‚fense þ1948 There Is No Defense þTrad. ROSENTHAL Mary
+: .oS. 119 N     _STURGEON Theodore           L'union fait la force þ1948 Unite and Conquer þTrad. ROSENTHAL Mary
+: .oS. 187 N     _STURGEON Theodore           Que le ciel s'entr'ouvre þ1957 It Opens the Sky þTrad. ROSENTHAL Mary
+o MASQ_SF    76  1978.T2 R.... ISBN 2-7024-0732-3
+} lmsf076        _J.-J. Vincent               ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _PIPER H. Beam               Tinounours sapiens [Tinounours - 2] þ1964 The Other Human Race / Fuzzy Sapiens þTrad. HUET Jacqueline
+o MASQ_SF    77  1978.T3 R.... ISBN 2-7024-0769-2
+} lmsf077        _Chris Foss                  N  
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =N3    _VAN VOGT Alfred E.          La DerniŠre Forteresse þ1978
+: .oS.   9 r     _VAN VOGT Alfred E.          La DerniŠre Forteresse þ1942 The Last Fortress þTrad. HUET Jacqueline
+: .oS. 123 N     _VAN VOGT Alfred E.          Les Hommes refl‚t‚s þ1971 The Reflected Men þTrad. HUET Jacqueline
+: .oS. 203 N     _VAN VOGT Alfred E.          Les Assassins de la Terre þ1949 The Earth Killers þTrad. PUGI J.-P.
+o MASQ_SF    78  1978.T3 R.... ISBN 2-7024-0770-6
+} lmsf078        _?                           ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _SPRIGEL Olivier             Lendemains incertains þ1978
+o MASQ_SF    79  1978.T3 R.... ISBN 2-7024-0771-4
+} lmsf079        _Jean-Claude Hadi            ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _HAMILTON Edmond             La PlanŠte des loups [Les Loups des ‚toiles - 3] þ1968 World of the Starwolves þTrad. CHOMET Richard
+o MASQ_SF    80  1978.xx R.... ISBN 2-7024-0772-2
+} lmsf080        _Laurence Kresek             ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Traduit de la traduction am‚ricaine de 1976.
+- .oS.    =R     _STROUGATSKI Arcady         &Le Dernier Cercle du paradis [Le Monde d'Ivan Jiline] þ1956-1976 Khichtchnye vechtchi veka / The Final Circle of Paradise þTrad. BARRIERE Maxime
+&                _STROUGATSKI Boris           
+o MASQ_SF    81  1978.T4 R.... ISBN 2-7024-0811-7
+} lmsf081        _Thierry Leroux              ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _HARRISON Harry              L'Univers captif þ1969 Captive Universe þTrad. TRUCHAUD Fran‡ois
+o MASQ_SF    82  1978.T4 R.... ISBN 2-7024-0812-5
+} lmsf082        _John Schoenherr             ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _LAUMER Keith                La Cage infinie þ1972 The Infinite Cage þTrad. HUET Jacqueline
+o MASQ_SF    83  1978.T4 R.... ISBN 2-7024-0813-3
+} lmsf083        _Jean-Claude Hadi            ?
+!--- Poche - 110x165 - 256 pages - 
+>--- "Le Message de Frolix 8" en couverture, mais "Message de Frolix 8" en page de titre (et sur le dos).
+- .oS.    =R     _DICK Philip K.              Message de Frolix 8 þ1970 Our Friends from Frolix 8 þTrad. LOUIT Robert
+o MASQ_SF    84  1979.xx R.... ISBN 2-7024-0814-1
+} lmsf084        _Thierry Leroux              ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Les publications originales ant‚rieures l'ont ‚t‚ exclusivement sous le pseudonyme Cyril Judd.
+- .oS.    =R     _KORNBLUTH Cyril M.         &L'Enfant de Mars þ1951 Mars Child / Outpost Mars / Sin in Space þTrad. MARTIN Bruno
+&                _MERRIL Judith               
+o MASQ_SF    85  1979.T1 R.... ISBN 2-7024-0840-0
+} lmsf085        _Raimondo                    ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Version allong‚e de sa nouvelle _Skeleton Crew_, 1963.
+- .oS.     R     _ALDISS Brian W.             Terrassement þ1965 Earthworks þTrad. MAILLET Fran‡oise
+o MASQ_SF    86  1979.T1 R.... ISBN 2-7024-0841-9
+} lmsf086        _Jean-Claude Hadi            ?
+!--- Poche - 110x165 - 192 pages - 
+- .oS.    =R     _HOSKINS Robert              Les Fracass‚s þ1975 The Shattered People þTrad. BARRIERE Maxime
+o MASQ_SF    87  1979.T1 R.... ISBN 2-7024-0842-7
+} lmsf087        _Fran‡ois Allot              ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _VANCE Jack                  Les Domaines de Koryphon þ1974 The Domains of Koryphon / The Gray Prince þTrad. PUGI J.-P.
+o MASQ_SF    88  1979.T2 R.... ISBN 2-7024-0843-5
+} lmsf088        _Patrick Demuth              ?
+!--- Poche - 110x165 - 320 pages - 
+- .oS.    =R     _ROBERTS Keith               Les Furies þ1965 The Furies þTrad. STRACHITZ Frank
+o MASQ_SF    89  1979.T2 R.... ISBN 2-7024-0879-6
+} lmsf089        _Bilal                       ?
+!--- Poche - 110x165 - 192 pages - 
+>--- L'ouvrage est le seul de la collection … ne poss‚der ni titre ni auteur sur le dos.
+- .oS.    =R     _TUBB E.C.                   Lallia [Dumarest - 6] þ1971 Lallia þTrad. MAILLET Fran‡oise
+o MASQ_SF    90  1972.T2 R.... ISBN 2-7024-0898-2
+} lmsf090        _Jean-Claude Hadi            ?
+!--- Poche - 110x165 - 256 pages - 
+>--- R‚vision du roman _Heisenberg's Eyes_ paru en deux ‚pisodes dans Galaxy mi-1966.
+- .oS.    =R     _HERBERT Frank               Les Yeux d'Heisenberg þ1968 The Eyes of Heisenberg þTrad. GERSAULT Alain & CARON-LOWINS Evelyne
+o MASQ_SF    91  1979.T2 R.... ISBN 2-7024-0899-0
+} lmsf091        _Philippe Caza               ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Chacune des cinq parties de l'ouvrage reprend une nouvelle pr‚c‚demment publi‚e en magazine.
+- .oS.    =U5    _WHITE James                 L'H“pital des ‚toiles [Secteur G‚n‚ral] þ1962 Hospital Station þTrad. PUGI J.-P.
+: .oS.   5 N     _WHITE James                 Docteur [Secteur G‚n‚ral] þ1960 O'Mara's Orphan / Medic þTrad. PUGI J.-P.
+: .oS.  52 N     _WHITE James                 H“pital g‚n‚ral [Secteur G‚n‚ral] þ1957 Sector General þTrad. PUGI J.-P.
+: .oS. 113 N     _WHITE James                 Emily pose des problŠmes [Secteur G‚n‚ral] þ1958 Trouble with Emily / The Trouble with Emily þTrad. PUGI J.-P.
+: .oS. 151 N     _WHITE James                 Un dangereux visiteur [Secteur G‚n‚ral] þ1959 Visitor at Large þTrad. PUGI J.-P.
+: .oS. 199 N     _WHITE James                 Cinq... Un patient peu patient [Secteur G‚n‚ral] þ1960 Out-Patient þTrad. PUGI J.-P.
+o MASQ_SF    92  1979.T2 R.... ISBN 2-7024-0902-4
+} lmsf092        _J.-C. Sayag                 N  
+!--- Poche - 110x165 - 256 pages - 
+>--- La seconde nouvelle a pour titre "Un m‚t‚orite de calibre 32" en titre de texte, et "Un m‚t‚ore de calibre 32" en sommaire.
+- .oS.    =N5    _LEIBER Fritz                Les Racines du pass‚ þ1979
+!--- Nouvelles appartenant au cycle de la guerre des modifications sauf "Minuit dans le monde miroir" (d'aprŠs isfdb)
+: .oS.   9 N     _LEIBER Fritz                Le Matin de la damnation [La Guerre des modifications] þ1959 Damnation Morning þTrad. CHEDAILLE Eric
+: .oS.  37 N     _LEIBER Fritz                Un m‚t‚orite de calibre 32 [La Guerre des modifications] þ1958 Try and Change the Past þTrad. CHEDAILLE Eric
+: .oS.  55 N     _LEIBER Fritz                Pavane pour les filles-fant“mes [La Guerre des modifications] þ1958 A Deskful of Girls þTrad. CHEDAILLE Eric
+: .oS. 113 N     _LEIBER Fritz                Minuit dans le monde-miroir þ1964 Midnight in the Mirror World þTrad. CHEDAILLE Eric
+: .oS. 147 r     _LEIBER Fritz                Les Racines du pass‚ [La Guerre des modifications] þ1963 No Great Magic þTrad. HERSANT Denise
+o MASQ_SF    93  1979.T3 R.... ISBN 2-7024-0914-8
+} lmsf093        _J.-C. Sayag                 ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _NEVILLE Kris                Bettyann þ1970 Bettyann þTrad. POLANIS Jacques
+o MASQ_SF    94  1979.T3 R.... ISBN 2-7024-0929-6
+} lmsf094        _Jean-Claude Hadi            ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _LEE Tanith                  Ne mords pas le soleil [Le Bain des Limbes - 1] þ1976 Don't Bite the Sun þTrad. BARRIERE Maxime
+o MASQ_SF    95  1979.T3 R.... ISBN 2-7024-0941-5
+} lmsf095        _Raimondo                    ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Version expans‚e et r‚vis‚e de _Listen! The Stars!_ (1962).
+- .oS.    =R     _BRUNNER John                A l'‚coute des ‚toiles þ1972 The Stardroppers þTrad. HUET Jacqueline
+o MASQ_SF    96  1979.T4 R.... ISBN 2-7024-0953-9
+} lmsf096        _Jean-Claude Hadi            ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _BRACKETT Leigh              Les Pillards de Skaith [Skaith - 3][Eric John Stark] þ1976 The Reavers of Skaith þTrad. ROSENTHAL Mary
+o MASQ_SF    97  1979.T4 R.... ISBN 2-7024-0955-5
+} lmsf097        _Philippe Caza               ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _REYNOLDS Mack               La Puissance d'un dieu þ1966 Of Godlike Power / Earth Unaware þTrad. PUGI Jean-Pierre
+o MASQ_SF    98  1979.T4 R.... ISBN 2-7024-0954-7
+} lmsf098        _Patrick Demuth              ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _KING Vincent                Une derniŠre lueur þ1969 Light a Last Candle þTrad. CHEDAILLE Eric
+o MASQ_SF    99  1979.T4 R.... ISBN 2-7024-0965-2
+} lmsf099        _Fran‡ois Allot              ?
+!--- Poche - 110x165 - 192 pages - 
+- .oS.    =R     _BULMER Kenneth              Irunium þ1967 The Key to Irunium þTrad. SERPH Fran‡oise
+o MASQ_SF   100  1979.T4 R.... ISBN 2-7024-0979-2
+} lmsf100        _Richard Powers              ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _KORNBLUTH Cyril M.         &Le Fusilier Cade þ1952 Gunner Cade þTrad. MARTIN Bruno
+&                _MERRIL Judith               
+o MASQ_SF   101  1980.T1 R.... ISBN 2-7024-0990-3
+} lmsf101        _Billi                       ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Le titre est orthographi‚ "J'ai d'autres brebis..." en couverture et sur le dos.
+- .oS.    =R     _JONES Raymond F.           &J'ai d'autres brebis þ1978 Weeping May Tarry þTrad. LEBEC G‚rard
+&                _DEL REY Lester              
+o MASQ_SF   102  1980.T1 R.... ISBN 2-7024-0991-3
+} lmsf102        _Philippe Adamoff            ?
+!--- Poche - 110x165 - 320 pages - 
+>--- Bien ‚loign‚ du recueil originel puisque sont absentes deux nouvelles (_To Bell the Cat_ et _The Crystal Ship_) ainsi que les notes de l'auteur, et une nouvelle est ajout‚e ("L'Aide du colporteur").
+>--- Vernor Vinge n'est d'ailleurs pas cr‚dit‚ pour cette nouvelle dont il est le co-auteur (L'Aide du colporteur).
+- .oS.    =N5    _VINGE Joan D.               Les Yeux d'ambre þ1979 Eyes of Amber and Other Stories þTrad. PUGI Jean-Pierre
+: .oS.   7 N     _VINGE Joan D.               Les Yeux d'ambre þ1977 Eyes of Amber þTrad. PUGI Jean-Pierre
+: .oS.  71 N     _VINGE Joan D.               Depuis des hauteurs impensables þ1978 View from a Heigh þTrad. PUGI Jean-Pierre
+: .oS.  95 r     _VINGE Joan D.               Mediaman þ1976 Media Man þTrad. PUGI Jean-Pierre
+: .oS. 177 N     _VINGE Joan D.              &L'Aide du colporteur þ1975 The Peddler's Apprentice þTrad. PUGI Jean-Pierre
+&                _VINGE Vernor                
+: .o . 243 r     _VINGE Joan D.               Soldat de plomb þ1974 Tin Soldier þTrad. PUGI Jean-Pierre
+o MASQ_SF   103  1980.T1 R.... ISBN 2-7024-1044-8
+} lmsf103        _Georges Raimondo            ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _VANCE Jack                  La Vie ‚ternelle þ1956 To Live Forever þTrad. MAILLET Fran‡oise
+o MASQ_SF   104  1980.T1 R.... ISBN 2-7024-1059-6
+} lmsf104        _Patrick Demuth              ?
+!--- Poche - 110x165 - 192 pages - 
+- .oS.    =R     _LUNDWALL Sam J.             Le Monde d'Alice [Alice] þ1971 Alice's world þTrad. GHYS Dominique
+o MASQ_SF   105  1980.T2 R.... ISBN 2-7024-1062-6
+} lmsf105        _Michel Deveaux              ?
+!--- Poche - 110x165 - 320 pages - 
+>--- Le seul ouvrage de la collection … poss‚der sur le dos une ‚toile (noire dans un disque blanc). On retrouve cette ‚toile sur le dos de deux ouvrages de la collection soeur Le Masque fantastique. Qui sait pourquoi ?
+- .oS.    =R     _FARMER Philip Jos‚          Le Monde Lavalite [La Saga des hommes-dieux - 5] þ1977 The Lavalite World þTrad. PUGI Jean-Pierre
+o MASQ_SF   106  1980.T2 R.... ISBN 2-7024-1072-3
+} lmsf106        _Jean-Claude Hadi            ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _PANSHIN Alexei              Source ‚toil‚e [Anthony Villiers - 1] þ1968 Star Well þTrad. MEISTERMANN E.C.L.
+o MASQ_SF   107  1980.T2 R.... ISBN 2-7024-1080-4
+} lmsf107        _Jean-Claude Hadi            ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Expansion de la novella _The Wonderful Secret_ (1977).
+- .oS.    =R     _LAUMER Keith                Ultimax þ1978 The Ultimax Man þTrad. CHEDAILLE Eric
+o MASQ_SF   108  1980.T2 R.... ISBN 2-7024-1088-X
+} lmsf108        _Kelly Freas                 ?
+!--- Poche - 110x165 - 288 pages - 
+>--- L'illustration de couverture est cr‚dit‚e "Illustration Three Lions" en quatriŠme de couverture.
+- .oS.    =R     _LUPOFF Richard A.           Trinit‚ þ1976 The Triune Man þTrad. LEBEC G‚rard
+o MASQ_SF   109  1980.T3 R.... ISBN 2-7024-1087-1
+} lmsf109        _Michael Brickman            ?
+!--- Poche - 110x165 - 192 pages - 
+>--- Expansion de la nouvelle _The Winds of Siros_ ("Les vents de Siros").
+- .oS.    =R     _SILVERBERG Robert           La Semence de la Terre þ1962 The Seed of Earth þTrad. CHEDAILLE Eric
+o MASQ_SF   110  1980.T3 R.... ISBN 2-7024-1089-8
+} lmsf110        _Jean-Claude Hadi            ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.    =R     _LEE Tanith                  Le Vin saphir [Le Bain des Limbes - 2] þ1977 Drinking Sapphire Wine þTrad. BARRIERE Maxime
+o MASQ_SF   111  1980.T4 R.... ISBN 2-7024-1149-5
+} lmsf111        _Philippe Adamoff            ?
+!--- Poche - 110x165 - 256 pages - 
+>--- Il s'agit d'un ensemble d'histoires racont‚es par les clients d'un mˆme bar, le Callahan.
+- .oS.    =C9    _ROBINSON Spider             Le Bar du coin des temps þ1977 Callahan's Crosstime Saloon þTrad. ERLICH Michel
+: .o .   7 N     _ROBINSON Spider             Le Regard du type þ1973 The Guy With the Eyes
+: .o .  29 N     _ROBINSON Spider             Le Voyageur temporel þ1974 The Time Traveler
+: .o .  72 N     _ROBINSON Spider             Le Complexe du mille-pattes þ1977 The Centipede's Dilemna
+: .o .  81 N     _ROBINSON Spider             Deux tˆtes valent mieux qu'une þ1975 Two Heads Are Better than One
+: .o . 116 N     _ROBINSON Spider             La Loi de la conservation de la douleur þ1974 The Law of Conservation of Pain
+: .o . 151 N     _ROBINSON Spider             En guise de dessert þ1977 Just Dessert
+: .o . 158 N     _ROBINSON Spider             Une voix retentit... þ1975 A Voice Is Heard in Ramah...
+: .o . 189 N     _ROBINSON Spider             Causes surnaturelles þ1975 Unnatural Causes
+: .o . 238 N     _ROBINSON Spider             L'Esprit du bien þ1977 The Wonderful Conspiracy
+o MASQ_SF   112  1980.T4 R.... ISBN 2-7024-1148-7
+} lmsf112        _Pascal Bodin                ?
+!--- Poche - 110x165 - 224 pages - 
+- .oS.    =R     _SHAW Bob                    L'Autre Pr‚sent þ1968 The Two-Timers þTrad. GUIOD Jacques
+o MASQ_SF   113  1980.T4 R.... ISBN 2-7024-1177-0
+} lmsf113        _Bilal                       ?
+!--- Poche - 110x165 - 224 pages - 
+- .oS.    =R     _TUBB E.C.                   Veruchia [Dumarest - 8] þ1973 Veruchia þTrad. MAILLET Fran‡oise
+o MASQ_SF   114  1981.T1 ..... ISBN 2-7024-1208-4
+} lmsf114        _Fran‡ois Allot              ?
+!--- Poche - 110x165 - 256 pages - 
+- .oS.     R     _VANCE Jack                  Les Baladins de la planŠte g‚ante [PlanŠte g‚ante - 2] þ1975 Showboat World þTrad. SERPH Fran‡oise
+o MASQ_SF   115  1981.T1 R.... ISBN 2-7024-1209-2
+} lmsf115        _Jean-Claude Hadi            ?
+!--- Poche - 110x165 - 224 pages - 
+- .oS.    =R     _PANSHIN Alexei              La R‚volution Thurb [Anthony Villiers - 2] þ1968 The Thurb Revolution þTrad. MEISTERMANN E.C.L.
+o MASQ_SF   116  1981.T2 R.... ISBN 2-7024-1228-9
+} lmsf116        _Philippe Caza               ?
+!--- Poche - 110x165 - 288 pages - 
+- .oS.     R     _WHITE James                 Chirurgien galactique [Secteur G‚n‚ral] þ1963 Star Surgeon þTrad. PUGI Jean-Pierre
+!--- Les ouvrages suivants furent pr‚vus mais jamais ‚dit‚s :
+­o MASQ_SF   117  198?.xx R.... ISBN 2-7024-....-.
+­} lmsf117        _?                           ?
+­>-- Annonc‚ en sommaire des derniers num‚ros.
+­- .oS.     R     _BRACKETT Leigh              La Lune disparue þ1948 The Moon That Vanished / The Moonfire Gods þTrad. ?
+­o MASQ_SF   118  198?.xx R.... ISBN 2-7024-....-.
+­} lmsf118        _?                           ?
+­>--- Annonc‚ en sommaire du num‚ro 115.
+­- .oS.     R     _BUSBY F.M.                  Retour … jamais þ? ? þTrad. ?
+­o MASQ_SF   119  198?.xx R.... ISBN 2-7024-....-.
+­} lmsf119        _?                           ?
+­>--- Annonc‚ en sommaire du num‚ro 115.
+­- .oS.     R     _VANCE Jack                  Le Visage du d‚mon þ1979 The Face þTrad. ?
+­o MASQ_SF   120  198?.xx R.... ISBN 2-7024-....-.
+­} lmsf120        _?                           ?
+­>--- Annonc‚ en sommaire du num‚ro 115.
+­- .oS.     R     _VAN DE VET Charles          Programme sp‚cial þ1975 Special Feature þTrad. ?
+­o MASQ_SF     ?  198?.xx R.... ISBN 2-7024-....-.
+­} lmsf121        _?                           ?
+­- .oS.     R     _WHITE James                 Op‚ration capitale [Secteur G‚n‚ral] þ1971 Major Operation þTrad. ?
+­o MASQ_SF     ?  198?.xx R.... ISBN 2-7024-....-.
+­} lmsf122        _?                           ?
+­- .oS.     R     _WHITE James                 L'Ambulance des ‚toiles [Secteur G‚n‚ral] þ1979 Ambulance Ship þTrad. ?
+­o MASQ_SF     ?  198?.xx R.... ISBN 2-7024-....-.
+­} lmsf123        _?                           ?
+­>--- Annonc‚ "… paraŒtre bient“t" en fin de texte du num‚ro 115.
+­- .oS.     R     _PANSHIN Alexei              Monde mascarade [Anthony Villiers - 3] þ1969 Masque World þTrad. ?
+!FIN_COLL MASQ_SF

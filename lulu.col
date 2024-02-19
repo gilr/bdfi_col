@@ -21,7 +21,7 @@ o LULU        ?  2008.03 ..... ISBN ?
 - .o .    iNx    _DELSE Iräne                 La Faim et autres nouvelles ˛2008
 o LULU        ?  2007.02 ..... ISBN 978-1-84753-031-8
 } noimg          _?                           ?
-- .oF.     R     _BRULHET Pierre              L'Enfant du cimetiäre - Conte Gothique ˛2007
+- .oF.     R     _BRULHET Pierre              L'Enfant du cimetiäre - Conte Gothique [L'Enfant du cimetiäre - 1] ˛2007
 o LULU        ?  2009.05 ..... ISBN 978-1-4092-6141-4
 } noimg          _?                           ?
 - .oF.     R     _BRULHET Pierre              Le Manoir aux esprits ˛2009
@@ -72,9 +72,16 @@ o LULU        ?  2019.06 ..... ISBN -
 o LULU        ?  2019.12 ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _MONNERET Pierre             Incursions entre sous-univers [Alerte dans le multivers - 5] ˛2019
+o LULU        ?  2021.07 ..... ISBN -
+} noimg          _?                           ?
+- .oS.     R     _MONNERET Pierre             Chaos galactique [Alerte dans le multivers - 6] ˛2021
+o LULU        ?  2023.02 ..... ISBN -
+} noimg          _?                           ?
+!--- 314 pages - 108 x 175 mm - 8,70 euros
+- .oS.     R     _MONNERET Pierre             Le supra àtre Risian se dÇvoile [Alerte dans le multivers - 7] ˛2023
 
 !-----------------------------------------------------------------------------
-_ SFUTOPI Lulu.com, utopiaSF
+_ SFUTOPI Lulu.com - utopiaSF
 !-----------------------------------------------------------------------------
 o SFUTOPI     ?  2012.04 ..... ISBN 979-10-90547-00-1
 } noimg          _?                           ?
@@ -90,7 +97,7 @@ o SFUTOPI     ?  2012.06 ..... ISBN 979-10-90547-05-6
 - .oS.     R     _DAVID J. N.                 L'Arnaqueur [Cycle d'Antalia - 1] ˛2012
 
 !-----------------------------------------------------------------------------
-_ JNDAVID Ed. J. N. David
+_ JNDAVID J. N. David
 !-----------------------------------------------------------------------------
 o JNDAVID     ?  2012.09 ..... ISBN 979-10-90547-10-0
 } noimg          _?                           ?
@@ -104,7 +111,7 @@ o JNDAVID     ?  2020.12 ..... ISBN 979-10-90547-14-8
 - .oS.     R     _DAVID J. N.                 La Guerre Novida [Trilogie Novida - 3] ˛2020
 
 !-----------------------------------------------------------------------------
-_ GLOUBLU Lulu.com, Gloubik Ed.
+_ GLOUBLU Lulu.com - Gloubik êditions
 !-----------------------------------------------------------------------------
 o GLOUBLU     ?  2011.07 ..... ISBN 978-2-9532754-3-8
 } noimg          _?                           N
@@ -117,15 +124,42 @@ o GLOUBLU     ?  2011.07 ..... ISBN 978-2-9532754-3-8
 : .oF.     N     _BLAIZOT Lydie               Apparences ˛2009
 : .oF.     N     _BLAIZOT Lydie               Menace ˛2009
 : .oF.     N     _BLAIZOT Lydie               Affrontement ˛2009
+o GLOUBLU     ?  2020.05 ..... ISBN 978-1-471756-88-7
+} noimg          _?                           N
+!--- 141 pages - 148 x 210 mm - 10 euros
+- .oS.    iNx    _BLAIZOT Lydie               Station Rosamund ˛2014
+: .o .     N     _BLAIZOT Lydie               Du mauvais cìtÇ de la frontiäre ˛2014
+o GLOUBLU     ?  2022.08 ..... ISBN 978-1-471082-40-5
+} gloubik_whh6   _?                           ?
+!--- 148 x 210 mm - 495 pages - 39.00 euros
+- .oF.    kN15   _HODGSON William Hope        William Hope Hodgson - Toutes ses nouvelles - Tome 6 ˛2022
+ ˛Trad. BLAIZOT Denis
+: .o .   5 p     _BLAIZOT Denis               Quelques explications ˛2022
+: .o .   9 N     _HODGSON William Hope        La VallÇe des enfants perdus ˛1906 The Valley of Lost Children ˛Trad. BLAIZOT Denis
+: .o .  29 a     _HODGSON William Hope        Date 1965 : La guerre moderne ˛1908 Date 1965 : Modern Warfare ˛Trad. BLAIZOT Denis
+: .o .  37 N     _HODGSON William Hope        Ma maison sera la maison de la priäre ˛1911 My House Shall Be Called the House of Prayer ˛Trad. BLAIZOT Denis
+: .o .  51 N     _HODGSON William Hope        La Vengeance de Tommy Dodd ˛1912 The Getting Even of Tommy Dodd ˛Trad. BLAIZOT Denis
+: .o .  79 N     _HODGSON William Hope        La Femme du juge Barclay ˛1912 Judge Barclay's Wife ˛Trad. BLAIZOT Denis
+: .o . 101 N     _HODGSON William Hope        Comment l'honorable Billy Darrell a fait tourner la chance ˛1913 How the Honorable Billy Darrell Raised the Wind ˛Trad. BLAIZOT Denis
+: .o . 159 N     _HODGSON William Hope        Les Hippocampes ˛1913 The Sea Horses ˛Trad. BLAIZOT Denis
+: .o . 197 N     _HODGSON William Hope        La Vengeance de Parson Guyles ˛1914 The Getting Even of Parson Guyles ˛Trad. BLAIZOT Denis
+: .o . 247 N     _HODGSON William Hope        L'AmitiÇ de Monsieur Jeynois ˛1915 The Friendship of Monsieur Jeynois ˛Trad. BLAIZOT Denis
+: .o . 283 N     _HODGSON William Hope        L'Auberge du Corbeau Noir ˛1915 The Inn of the Black Crow ˛Trad. BLAIZOT Denis
+: .o . 311 N     _HODGSON William Hope        Ce qu'il s'est passÇ sur le Thunderbolt ˛1916 What Happened in the Thunderbolt ˛Trad. BLAIZOT Denis
+: .o . 335 N     _HODGSON William Hope        Jem binney et le coffre-fort de Lockwood Hall ˛1916 Jem Binney and the Safe at Lockwood Hall ˛Trad. BLAIZOT Denis
+: .o . 357 N     _HODGSON William Hope        A malin, malin et demi ˛1918 Diamond Cut Diamond with a Vengeance ˛Trad. BLAIZOT Denis
+: .o . 377 N     _HODGSON William Hope        êloi êloi Lama Sabachthani ˛1919 The Baumoff Explosive ˛Trad. BLAIZOT Denis
+: .o . 407 N     _HODGSON William Hope        Comment Sir Jerrold Treyn s'est occupÇ des Hollandais Ö Caunston Cove ˛1916 How Sir Jerrold Treyn Dealt with the Dutch in Caunston Cove ˛Trad. BLAIZOT Denis
+: .o . 447 a     _HODGSON William Hope        Dans l'oeil du cyclone ˛1907 Through the Vortex of a Cyclone ˛Trad. BLAIZOT Denis
 
 !-----------------------------------------------------------------------------
 _ TBOOKED TheBookEdition.com
 _ BOOKED  The Book Editions
-_ BOOKEDP The Book Editions, Coll. Plumes au bout des doigts
+_ BOOKEDP The Book Editions - Plumes au bout des doigts
 !-----------------------------------------------------------------------------
 o BOOKED      ?  2008.xx ..... ISBN 978-2-9532126-0-0
 } tbe_enfantsomb _?                           N
-- .oF.    iN11   _EAWY Nolween                Les Enfants de l'ombre ˛2008
+- .oF.     N11   _EAWY Nolween                Les Enfants de l'ombre ˛2008
 : .o .     N     _EAWY Nolween                Page blanche ˛2008
 : .o .     N     _EAWY Nolween                Brume ˛2008
 : .o .     N     _EAWY Nolween                Miss Fairchild ˛2008
@@ -164,6 +198,10 @@ o TBOOKED     ?  2010.10 ..... ISBN 978-2-9535874-1-8
 : .oY.     N     _LORENS Alexis               La Forteresse de Nilhm ˛2010
 : .o .     N     _NORDET Bettina              Sorceress' business ˛2010
 : .o .     N     _TERRAL Vanessa              Le Miroir au fond du puits ˛2010
+o TBOOKED     ?  2010.xx ..... ISBN ?
+} noimg          _?                           Matthieu Leveder
+- .oY.     R     _LAFARGE Raphaâl            &Teliam Vore [Mirinar - 1] ˛2010
+&                _MONDIOT Vincent             
 o TBOOKED     ?  2012.05 ..... ISBN 978-2-9535874-3-2
 } noimg          _MARINE Anna                 Anna Marine, Zindy S.D. Nielsen, Georgia Caldera, Michelle Ann
 - .oF.     N7    _GUILLOT CÇcile              LÖ oó s'Çlävent les sorciäres ˛2012
@@ -178,13 +216,13 @@ o TBOOKED     ?  2012.05 ..... ISBN 978-2-9535874-3-2
 
 
 !-----------------------------------------------------------------------------
-_ BIGBLAB Ed. Big Bang, Coll. Labyrinthe
+_ BIGBLAB Big Bang - Labyrinthe
 !-----------------------------------------------------------------------------
 !--- Via The Book Edition
 !-----------------------------------------------------------------------------
 o BIGBLAB     ?  2011.xx ..... ISBN 978-2-35266-038-5
 } noimg          _?                           ?
-- .oF.    iA10   ****                         Mortel Delirium ˛2011
+- .oF.    iAx    ****                         Mortel Delirium ˛2011
 : .o .     N     _HAUCHECORNE Anthelme        Fleurs de cimetiäre ˛2011
 ?: .o .     N     _AR-KANE                     Chasse aux sorciäres ˛2011
 : .o .     N     _CITHAREL CÇdric             Le Messager des dieux ˛2011
@@ -197,14 +235,14 @@ o BIGBLAB     ?  2011.xx ..... ISBN 978-2-35266-038-5
 : .o .     N     _PLANQUE Jean-Pierre         Pourquoi m'as-tu abandonnÇ ? ˛1998
 
 !-----------------------------------------------------------------------------
-_ FAERLEG Ed. Faâries Legends
+_ FAERLEG Faâries Legends
 !-----------------------------------------------------------------------------
 !--- Sur Lulu.com
 !-----------------------------------------------------------------------------
 o FAERLEG     ?  2014.09 ..... ISBN 978-1-3260192-0-4
 } noimg          _?                           ?
 !--- 35 pages, 14,8 x 21
-- .oF.    iA7    ****                         Si ton pÇchÇ m'Çtait contÇ... ˛2014
+- .oF.    iAx    ****                         Si ton pÇchÇ m'Çtait contÇ... ˛2014
 : .o .     N     _RUFFIE LACAS BÇatrice       Les Fräres Carlier ˛2014
 : .o .     N     _COCHET Florence             A l'ombre d'un chàne ˛2014
 ?:  .o .    N     _Guillaume Artaud           ? ˛?

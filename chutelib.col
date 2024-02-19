@@ -1,7 +1,7 @@
 !DEB_HEAD CHUTLIB
 !TIT_COLL Chute Libre
 !-----------------------------------------------------------------------------
-_ CHUTLIB Ed. Champ Libre, Coll. Chute Libre þ1974-1978
+_ CHUTLIB Champ Libre - Chute Libre þ1974-1978
 !-----------------------------------------------------------------------------
 !--- Jouant … fond la provocation dans le choix de ses couvertures n'ayant
 !--. parfois aucun rapport avec le sujet, la collection Chute Libre des
@@ -76,7 +76,7 @@ o CHUTLIB    14  1976.xx R.... ISBN 2-85184-062-2
 : .o .     N     _BALLARD James G.            Tol‚rances du visage humain þ1969 Tolerances of the Human Face
 : .o .     N     _BALLARD James G.            Vous, moi et le continuum þ1966 You and Me and the Continuum
 : .o .     N     _BALLARD James G.            Projet pour l'assassinat de Jacqueline Kennedy þ1966 Plan of the Assassination of Jacqueline Kennedy
-: .o .     N     _BALLARD James G.            Amour et napalm : export USA þ1968 Love and Napalm: Export USA
+: .o .     N     _BALLARD James G.            Amour et napalm : export USA þ1968 Love and Napalm: Export U.S.A.
 : .o .     N     _BALLARD James G.            Crash ! þ1969 Crash!
 : .o .     N     _BALLARD James G.            G‚n‚ration d'am‚ricains þ1968 The Generations of America
 : .o .     N     _BALLARD James G.            Pourquoi je veux baiser Ronald Reagan þ1968 Why I Want to Fuck Ronald Reagan
@@ -108,11 +108,18 @@ o CHUTLIB    HC  1978.xx ..... ISBN 2-85184-088-6
 !FIN_COLL CHUTLIB
 
 !-----------------------------------------------------------------------------
-_ CHAMPLI Ed. Champ Libre
+_ CHAMPLI Champ Libre
 !-----------------------------------------------------------------------------
-o CHAMPLI     ?  1972.xx ..... ISBN 2-85184-...-.
+o CHAMPLI     ?  1970.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _STROUGATSKI Arcady         &L'Escargot sur la pente þ1966-1968 Oulitka na sklone þTrad. ?
++ CHAMPLI     ?  1979.xx ..... ISBN 2-85184-111-4
+} noimg          _?                           ?
+!--- GF 22 cm - 143 pages - 40 francs
+- .o .     R     _BOULGAKOV Mikha‹l           Coeur de chien þ[1925],1968 Sobacheye Serdste þTrad. PETRIS Michel
+o CHAMPLI     ?  1972.xx ..... ISBN -
+} noimg          _?                           ?
+!--- GF 21 cm - 203 pages - 25 francs
+- .oS.     R     _STROUGATSKI Arcady         &L'Escargot sur la pente þ1966-1968 Oulitka na sklone þTrad. PETRIS Michel
 &                _STROUGATSKI Boris           
 o CHAMPLI     ?  1981.xx ..... ISBN 2-85184-120-3
 } noimg          _?                           ?

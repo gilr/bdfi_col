@@ -8,20 +8,20 @@
 !--- Les Moutons
 !--- ActuSF
 !-----------------------------------------------------------------------------
-_ MNE_HEL Mn‚mos, H‚lios
-_ MNE_HEE Mn‚mos, H‚lios Essentiels
-_ MNE_HEN Mn‚mos, H‚lios noir
+_ MNE_HEL Mn‚mos - H‚lios
+_ MNE_HEE Mn‚mos - H‚lios Essentiels
+_ MNE_HEN Mn‚mos - H‚lios noir
 !-----------------------------------------------------------------------------
-_ MOU_HEL Les Moutons Electriques, H‚lios
-_ MOU_HEE Les Moutons Electriques, H‚lios Essentiels
-_ MOU_HEN Les Moutons Electriques, H‚lios noir
+_ MOU_HEL Les Moutons Electriques - H‚lios
+_ MOU_HEE Les Moutons Electriques - H‚lios Essentiels
+_ MOU_HEN Les Moutons Electriques - H‚lios noir
 !-----------------------------------------------------------------------------
-_ ACT_HEL ActuSF, H‚lios
-_ ACT_HEE ActuSF, H‚lios Essentiels
+_ ACT_HEL ActuSF - H‚lios
+_ ACT_HEE ActuSF - H‚lios Essentiels
 !-----------------------------------------------------------------------------
-_ MNE_NAO Mn‚mos, Naos
-_ MOU_NAO Les Moutons Electriques, Naos
-_ ACT_NAO ActuSF, Naos
+_ MNE_NAO Mn‚mos - Naos
+_ MOU_NAO Les Moutons Electriques - Naos
+_ ACT_NAO ActuSF - Naos
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
@@ -118,7 +118,7 @@ o MNE_HEL     4  2014.04 ..... ISBN 978-2-35408-208-6
 o MNE_HEL     5  2014.04 ..... ISBN 978-2-35408-214-7
 } heliosns05     _Goulven Quentel             ?
 + MNE_HEL   140  2020.01 ..... ISBN 978-2-35408-755-5
-} heliosns05rr20 _Goulven Quentel             ?
+} helios012020_2 _Goulven Quentel             ?
 !--- Poche - 464 pages - 11.90  euros
 - .oY.    kR3    _GABORIT Mathieu             Les Cr‚pusculaires [Les Chroniques des cr‚pusculaires - 1/3][Les Royaumes cr‚pusculaires] ş1999
 : .o .     R     _GABORIT Mathieu             Souffre-jour [Les Chroniques des cr‚pusculaires - 1][Les Royaumes cr‚pusculaires] ş1995
@@ -129,6 +129,7 @@ o MOU_HEL     6  2014.04 ..... ISBN 978-2-36183-078-6
 - .oS.     r     _DOUAY Dominique             Car les temps changent... ş1978-2014
 o MNE_HEL     7  2014.05 ..... ISBN 978-2-35408-215-4
 } helions07      _--- anonyme                 ?
+!--- Poche - 110x180 
 - .oS.    kRN2   _YOSS                        Interf‚rences ş2009
 : .oS.     R     _YOSS                        Interf‚rences ş2009
 !--- En fait plut“t U3
@@ -148,8 +149,12 @@ o ACT_HEL    10  2014.06 ..... ISBN 978-2-917689-65-3
 - .o .     R     _WAGNER Roland C.            La Sins‚ gravite au 21 [La Sins‚ gravite au 21 - 1/2] ş1991-1998
 o MOU_HEL    11  2014.08 ..... ISBN 978-2-36183-176-9
 } heliosns11     _Howard Pyme                 ?
-+ MOU_HEL   166  2020.11 ..... ISBN 978-2-36183-680-1
+- .oS.     R     _WHALE Laurent               Les Pilleurs d'ƒmes ş2010
+o MOU_HEL   166  2020.11 ..... ISBN 978-2-36183-680-1
 } noimg          _Christine Luce              ?
++ MOU_HEL   166  2022.09 ..... ISBN 978-2-36183-680-1
+} noimg          _Christine Luce              ?
+!--- Poche - 110x180 
 - .oS.     R     _WHALE Laurent               Les Pilleurs d'ƒmes ş2010
 o MNE_HEL    12  2014.08 ..... ISBN 978-2-35408-220-8
 } heliosns12     _(c)Atelier Octobre Rouge    ?
@@ -157,7 +162,7 @@ o MNE_HEL    12  2014.08 ..... ISBN 978-2-35408-220-8
 o MNE_HEL    13  2014.09 ..... ISBN 978-2-35408-219-2
 } heliosns13     _Atelier Octobre Rouge + Julien Delval
 + MNE_HEL   141  2020.01 ..... ISBN 978-2-35408-768-5
-} heliosns13rr20 _Goulven Quentel             ?
+} helios012020_1 _Goulven Quentel             ?
 !--- Poche - 256 pages - 8.90 euros
 - .oY.    _R2    _GABORIT Mathieu             Abyme [Abyme - 1/2][Les Royaumes cr‚pusculaires] ş2001
 : .oY.     R     _GABORIT Mathieu             Aux ombres d'Abyme [Abyme - 1][Les Royaumes cr‚pusculaires] ş1996
@@ -186,8 +191,12 @@ o MNE_HEL    18  2014.11 ..... ISBN 978-2-35408-284-0
 !------------------------
 o MOU_HEL    19  2015.01 ..... ISBN 978-2-36183-191-2
 } heliosns19     _Howard Pyle                 ?
-+ MOU_HEL   167  2020.11 ..... ISBN 978-2-36183-679-5
+- .oS.     R     _PELOT Pierre                L'Œle au tr‚sor ş2008
+o MOU_HEL   167  2020.11 ..... ISBN 978-2-36183-679-5
 } noimg          _Howard Pyle                 ?
++ MOU_HEL   167  2022.09 ..... ISBN 978-2-36183-679-5
+} noimg          _Howard Pyle                 ?
+!--- Poche - 110x180 - 416 pages
 - .oS.     R     _PELOT Pierre                L'Œle au tr‚sor ş2008
 o MNE_HEL    20  2015.02 ..... ISBN 978-2-35408-293-2
 } heliosns20     _Vissroid                    ?
@@ -196,7 +205,7 @@ o MNE_HEL    20  2015.02 ..... ISBN 978-2-35408-293-2
 &                _REDAL Javier                
 o ACT_HEL    21  2015.02 ..... ISBN 978-2-917689-80-6
 } heliosns21     _JungSan Chang               ?
-- .oS.     R     _MARTIN George R.R.          Le Volcryn ş1981 Nightflyers şTrad. RICKLIN Odile + AYERDHAL
+- .oS.     r     _MARTIN George R.R.          Le Volcryn ş1980 Nightflyers şTrad. RICKLIN Odile + AYERDHAL
 o MOU_HEL    22  2015.03 ..... ISBN 978-2-36183-196-7
 } heliosns22     _Sylvie Chˆne                ?
 - .oS.     R     _DOUAY Dominique             La Vie comme une course de chars … voile ş1978-2015
@@ -206,7 +215,8 @@ o MOU_HEL    22  2015.03 ..... ISBN 978-2-36183-196-7
 ?- .xP.     R     _VANCE Louis Joseph          Le Loup solitaire [Le Loup solitaire - 1] ş1914 The Lone Wolf şTrad. BREQUE Jean-Daniel
 o MNE_HEL    24  2015.03 ..... ISBN 978-2-35408-298-7
 } heliosns24     _Geoffrey Soudant            ?
-- .oF.     R     _GECHTER Olivier             Evariste ş2013
+!--- Poche - 444 pages - 11,90 euros
+- .oF.     R     _GECHTER Olivier             Evariste [Evariste Cosson] ş2013
 ?o ACT_HEL    25  2015.03 ..... ISBN 978-2-917689-82-0
 ?} heliosns25     _Pablo Perez-Cortez          ?
 ?- .xP.     R     _COULON David                DerniŠre fenˆtre sur l'aurore ş2015
@@ -215,20 +225,22 @@ o MOU_HEL    26  2015.04 ..... ISBN 978-2-36183-204-9
 - .oY.     R     _RENNESON BenoŒt             L'Ambassade des anges ş2015
 o MNE_HEL    27  2015.04 ..... ISBN 978-2-35408-305-2
 } helions27      _Nicolas Fructus             ?
-- .oS.    kN6    _LOVECRAFT Howard P.         Les Montagnes hallucin‚es ş2013
+!--- Poche - 110x180 
+- .oF.    kN6    _LOVECRAFT Howard P.         Les Montagnes hallucin‚es ş2013
 !--- Nouvelle traduction CAMUS David
 : .o .     N     _LOVECRAFT Howard P.         Dagon ş1919 Dagon şTrad. CAMUS David
 : .o .     N     _LOVECRAFT Howard P.         La Cit‚ sans nom ş1921 The Nameless City şTrad. CAMUS David
 : .o .     N     _HOUDINI Harry              &Prisonnier des pharaons ş1924 Imprisoned With the Pharaons şTrad. CAMUS David
 &                _LOVECRAFT Howard P.         
-: .oF.     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu ş1926 The Call of Cthulhu şTrad. CAMUS David
-: .o .     N     _LOVECRAFT Howard P.         Les Montagnes hallucin‚es [Arthur Gordon Pym] ş1936 At the Mountains of Madness şTrad. CAMUS David
+: .oF.     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu ş1928 The Call of Cthulhu şTrad. CAMUS David
+: .o .     r     _LOVECRAFT Howard P.         Les Montagnes hallucin‚es [Arthur Gordon Pym] ş1936 At the Mountains of Madness şTrad. CAMUS David
 : .oF.     r     _LOVECRAFT Howard P.         Dans l'abŒme du temps ş1936 The Shadow Out of Time şTrad. CAMUS David
 o MNE_HEL    28  2015.04 ..... ISBN 978-2-35408-306-9
 } heliosns28     _(c)Atelier Octobre Rouge    ?
 - .oS.     R     _GRANIER DE CASSAGNAC R.     Eternity Incorporated ş2011
 o MOU_HEL    29  2015.05 ..... ISBN 978-2-36183-198-1
 } heliosns29     _John Gilbert                ?
+!--- Poche - 110x180 
 - .oY.     N5    _JAWORSKI Jean-Philippe      Le Sentiment du fer [R‚cits du vieux royaume] ş2015
 : .o .     N     _JAWORSKI Jean-Philippe      Le Sentiment du fer ş2013
 : .o .     N     _JAWORSKI Jean-Philippe      L'Elfe et les ‚gorgeurs ş2015
@@ -283,6 +295,9 @@ o MOU_HEL    39  2015.08 ..... ISBN 978-2-36183-203-2
 - .oS.     R     _BOIREAU Jacques             Oniromaque ş2012
 o ACT_HEL    40  2015.09 ..... ISBN 978-2-917689-94-3
 } heliosns40     _Mikhail Borulko             ?
++ ACT_HEL    39  2021.10 ..... ISBN 978-2-37686-392-2
+} noimg          _Zariel                      ?
+!--- Poche - 110x180 - 294 pages
 - .oF.     R     _LANG John                   Le Bouclier obscur ş2006
 ?o MOU_HEL    41  2015.10 ..... ISBN 978-2-36183-223-0
 ?} heliosns41     _?                           ?
@@ -316,6 +331,7 @@ o MOU_HEL    47  2016.02 ..... ISBN 978-2-36183-238-4
 - .oS.     R     _WAGNER Roland C.            Poup‚e aux yeux morts [Poup‚e aux yeux morts - 1/3] ş1988-2009
 o ACT_HEL    48  2016.02 ..... ISBN 978-2-36629-802-4
 } heliosns48     _Johann Bodin                ?
+!--- Poche - 110x180 - 300 pages
 - .oS.    kA7    _MARTIN George R.R.          Au fil du temps ş2013
 : .oS.     N     _MARTIN George R.R.          La Forteresse ş2003 The Fortress şTrad. HOLSTEIN Eric
 : .oS.     N     _MARTIN George R.R.          Et la mort est son h‚ritage... ş2003 And Death His Legacy şTrad. HOLSTEIN Eric
@@ -327,14 +343,16 @@ o ACT_HEL    48  2016.02 ..... ISBN 978-2-36629-802-4
 : .oS.     N     _MARTIN George R.R.          Assi‚g‚ ş1985 Under Siege şTrad. HOLSTEIN Eric
 o MOU_HEN    49  2016.03 ..... ISBN 978-2-36183-232-2
 } heliosns49     _Isidore Moeduns             ?
+!--- Poche - 110x180 
 - .oF.     N5    _DARVEL Robert               Harry Dickson - 1 [Harry Dickson] ş2016
 : .o .     N     _DARVEL Robert               Le Dieu inhabit‚ [Harry Dickson] ş2009
 : .o .     N     _DARVEL Robert               Le Secret de la pyramide invisible [Harry Dickson] ş2009
 : .o .     N     _DARVEL Robert               La TreiziŠme Face du crime [Harry Dickson] ş2009
 : .o .     N     _DARVEL Robert               La RiviŠre sans visage [Harry Dickson] ş2008
 : .o .     N     _DARVEL Robert               Harry Dickson s'amuse [Harry Dickson] ş2016
-o MOU_HEL    50  2016.06 ..... ISBN 978-2-36183-256-8
+o MOU_HEL    50  2016.05 ..... ISBN 978-2-36183-256-8
 } heliosns50     _?                           ?
+!--- Poche - 110x180 
 - .oS.     N8    ****                         Un tremplin pour l'utopie ş2016
 !--- Ouvrage offert pour deux H‚lios achet‚s
 !--- Parrain‚ par Christian Chavassieux et Estelle Faye
@@ -374,6 +392,7 @@ o MNE_HEL    58  2016.08 ..... ISBN 978-2-35408-502-5
 - .oY.     R     _GRIMBERT Pierre             Gonelore - Tome 1 [Gonelore - 1] ş2013
 o ACT_HEL    59  2016.08 ..... ISBN 978-2-36629-820-8
 } heliosns59     _Elian Black'mor             ?
+!--- Poche - 110x180 - 186 pages
 - .oY.    kN8    _GABORIT Mathieu             D'une rive … l'autre ş2012
 : .o .     N     _GABORIT Mathieu             Naissances ş2012
 : .o .     N     _GABORIT Mathieu             Aux frontiŠres de Sienne ş2000
@@ -394,9 +413,10 @@ o MNE_HEL    62  2016.09 ..... ISBN 978-2-35408-505-6
 - .oS.     R     _GRANIER DE CASSAGNAC R.     Thinking Eternity ş2014
 o ACT_HEL    63  2016.09 ..... ISBN 978-2-36629-822-2
 } heliosns63     _Prop4g4nd4                  ?
-- .o .     R     _KRESS Nancy                 L'une rˆve, l'autre pas [Cycle des insomniaques] ş1993 Beggars in Spain
-o MOU_HEN    64  2016.10 ..... ISBN 978-2-36183-236-0
+- .o .     r     _KRESS Nancy                 L'une rˆve, l'autre pas [Cycle des insomniaques] ş1991 Beggars in Spain şTrad. MICHEL Claire
+o MOU_HEL    64  2016.10 ..... ISBN 978-2-36183-279-7
 } heliosns64     _Isidore Moed—ns             ?
+!--- Poche - 110x180 
 - .oF.     N5    _DARVEL Robert               Harry Dickson - 2 [Harry Dickson] ş2016
 : .o .     N     _DARVEL Robert               Le Baal des psychonautes [Harry Dickson] ş2009
 : .o .     N     _DARVEL Robert               Le MinistŠre du Grand Nocturne [Harry Dickson] ş2008
@@ -406,7 +426,11 @@ o MOU_HEN    64  2016.10 ..... ISBN 978-2-36183-236-0
 &                _DARVEL Robert               
 o MOU_HEL    65  2016.11 ..... ISBN 978-2-36183-307-7
 } heliosns65     _Melchior Ascaride           ?
-- .o .     R     _CHEVALIER Chlo‚             Fleurs au creux des ruines - Pr‚lude aux r‚cits du Demi-Loup [R‚cits du Demi-Loup] ş2016
+- .oY.    kN4    _CHEVALIER Chlo‚             Fleurs au creux des ruines - Pr‚lude aux r‚cits du Demi-Loup [R‚cits du Demi-Loup] ş2016
+: .o .     N     _CHEVALIER Chlo‚             Notre premiŠre graine [R‚cits du Demi-Loup] ş2016
+: .o .     N     _CHEVALIER Chlo‚             L'Art ou la Viande  [R‚cits du Demi-Loup] ş2016
+: .o .     N     _CHEVALIER Chlo‚             Lors chantŠrent les bˆtes [R‚cits du Demi-Loup] ş2016
+: .o .     N     _CHEVALIER Chlo‚             La Tour sous le gris [R‚cits du Demi-Loup] ş2016
 o MNE_HEL    66  2016.11 ..... ISBN 978-2-35408-518-6
 } heliosns66     _?                           ?
 - .oS.     R     _ALBAR Ludovic               Yellowstone ş2014
@@ -415,6 +439,7 @@ o MNE_HEL    66  2016.11 ..... ISBN 978-2-35408-518-6
 !------------------------
 o ACT_HEL    67  2017.01 ..... ISBN 978-2-36629-931-4
 } helios012017_1 _Casimir Lee                 ?
+!--- Poche - 110x180 - 198 pages
 - .oS.    kN3    _LE GUIN Ursula K.           L'Effet Churten ş2017
 : .oS.     N     _LE GUIN Ursula K.           L'Histoire des Shobies [Cycle de l'Ekumen][Cycle de Hain] ş1990 The Shobies' Story şTrad. DESCOMBEY Anne-Judith
 : .oS.     N     _LE GUIN Ursula K.           La Danse de Ganam [Cycle de l'Ekumen][Cycle de Hain] ş1993 Dancing to Ganam şTrad. DESCOMBEY Anne-Judith
@@ -430,17 +455,18 @@ o MNE_HEL    70  2017.03 ..... ISBN 978-2-35408-543-8
 - .oY.     R     _CHAVASSIEUX Christian       Les Nefs de Pang‚e ş2015
 o ACT_HEL    71  2017.03 ..... ISBN 978-2-36629-835-2
 } heliosns71     _Caza                        ?
+!--- Poche - 110x180 - 156 pages
 !--- + la version anglaise de HPL + Interview de Roland C. Wagner
 - .oF.    kN2    _WAGNER Roland C.            H.P.L. ş2017
-: .o .     N     _WAGNER Roland C.            H.P.L. (1890-1991) ş1994
+: .o .     N     _WAGNER Roland C.            H.P.L. (1890-1991) ş1995
 : .oF.     r     _WAGNER Roland C.            Celui qui bave et qui glougloute ş1999
 o ACT_HEL    72  2017.04 ..... ISBN 978-2-36629-840-6
 } noimg          _Jamie Olivier               ?
-- .oS.     R     _ROBINSON Spider            &La Danse des ‚toiles ş1977 Stardance şTrad. MANCHETTE M‚lissa
+- .oS.     R     _ROBINSON Spider            &La Danse des ‚toiles ş1979 Stardance şTrad. MANCHETTE M‚lissa
 &                _ROBINSON Jeanne             
 o MNE_HEL    73  2017.04 ..... ISBN 978-2-35408-548-3
 } noimg          _Miesis                      ?
-- .oF.     R     _STERN Marianne              Smog of Germania ş2015
+- .oS.     R     _STERN Marianne              Smog of Germania [R‚cits du monde m‚canique - 1] ş2015
 o MNE_HEL    74  2017.04 ..... ISBN 978-2-35408-554-4
 } noimg          _?                           ?
 - .oS.     R     _BERENVAL Olivier            Ianos - Singularit‚ nue ş2015
@@ -461,16 +487,18 @@ o MNE_HEL    76  2017.06 ..... ISBN 978-2-35408-570-4
 - .oF.     R     _ALBERT Rapha‰l              Confessions d'un elfe fumeur de lotus [Les Extraordinaires & fantastiques enquˆtes de Sylvo Sylvain, d‚tective priv‚] ş2014
 o ACT_HEL    77  2017.06 ..... ISBN 978-2-36629-843-7
 } heliosns77     _Diego Tripodi               ?
+!--- Poche - 110x180 - 297 pages
 - .oSP    kN3    _GENEFORT Laurent           &Crimes, aliens & chƒtiments ş2017
 &                _BORDAGE Pierre             &
 &                _WHALE Laurent               
 : .o .     r     _GENEFORT Laurent            Jennifer a disparu ş2016
 : .o .     r     _BORDAGE Pierre              O— es-tu, mon Choo ? ş2017
 : .o .     r     _WHALE Laurent               L'Affaire du FBG ş2017
-o ACT_HEL     ?  2017.06 ..... ISBN 978-2-36629-848-2
-} noimg          _?                           ?
+o ACT_HEL    78  2017.06 ..... ISBN 978-2-36629-848-2
+} noimg          _Willem Van Aelst            ?
 !--- Des extraits de textes autour de la nourriture...
-- .o .    iAx    ****                         Le Grand Banquet d'H‚lios ş2017
+!--- Poche - 110x180 - 210 pages
+- .oI.    iAx    ****                         Le Grand Banquet d'H‚lios ş2017
 o MNE_HEL    79  2017.08 ..... ISBN 978-2-35408-589-6
 } noimg          _www.buerosued,de            ?
 !--- titre int‚rieur ? Les Chiffonniers
@@ -505,7 +533,8 @@ o MOU_HEL    84  2017.10 ..... ISBN 978-2-36183-407-4
 - .oF.     R     _GOLDSTEIN Lisa              Amaz ş1989 Tourists şTrad. SERVAL Nathalie
 o ACT_HEL    85  2017.10 ..... ISBN 978-2-36629-855-0
 } heliosns85     _Henrik Sahlstrom            ?
-- .oS.    kA7    _MARTIN George R.R.          La Fleur de verre ş2014
+!--- Poche - 110x180 - 292 pages
+- .oI.    kA7    _MARTIN George R.R.          La Fleur de verre ş2014
 : .o .     p     _VINCENT J‚r“me              Note de l'‚diteur ş2014
 : .o .     N     _MARTIN George R.R.          Fleur de verre ş1986 The Glass Flower şTrad. HOLSTEIN Eric
 : .o .     N     _MARTIN George R.R.          Une nuit au chalet du lac ş2009 A Night at the Tarn House şTrad. HOLSTEIN Eric
@@ -568,9 +597,10 @@ o MOU_HEL    93  2018.02 ..... ISBN 978-2-36183-317-6
 : .o .     N     _ROSNY AINE J.-H.            La Pr‚histoire au d‚sert ş?
 o ACT_HEL    94  2018.03 ..... ISBN 978-2-36629-863-5
 } heliosns094    _Alex Andreyev               ?
-- .oY.    kN2    _WILLIAMS Tad                Le Plus Heureux de tous les enfants d‚c‚d‚s ş2018
-: .oY.     r     _WILLIAMS Tad                Le Plus Heureux de tous les enfants d‚c‚d‚s [Autremonde] ş2004 The Happiest Dead Boy in the World şTrad. PUGI Jean-Pierre
-: .o .     N     _WILLIAMS Tad                L'Homme en flammes [L'Arcane des ‚p‚es] ş1998 The Burning Man şTrad. KIEFE Laurence
+!--- Poche - 110x180 - 181 pages
+- .oSY    kN2    _WILLIAMS Tad                Le Plus Heureux de tous les enfants d‚c‚d‚s ş2018
+: .oS.     r     _WILLIAMS Tad                Le Plus Heureux de tous les enfants d‚c‚d‚s [Autremonde] ş2004 The Happiest Dead Boy in the World şTrad. PUGI Jean-Pierre
+: .oY.     N     _WILLIAMS Tad                L'Homme en flammes [L'Arcane des ‚p‚es] ş1998 The Burning Man şTrad. KIEFE Laurence
 o MNE_HEL    95  2018.03 ..... ISBN 978-2-35408-625-1
 } heliosns095    _Magadalena Pagowska         ?
 - .oF.     R     _TASSY Vincent               Apostasie ş2016
@@ -582,8 +612,9 @@ o ACT_HEL    97  2018.04 ..... ISBN 978-2-36629-876-5
 - .oF.     R     _CLAVEL Fabien               L'vangile cannibale ş2014
 o MNE_HEL    98  2018.04 ..... ISBN 978-2-35408-295-6
 } heliosns098    _?                           ?
+!--- Poche - 110x180 
 !--- TBD Trad. + GUILLT S‚bastien
-- .oS.    kU5    _SHEPARD Lucius              La Vie en temps de guerre ş1987 Life During Wartime şTrad. DELORD-PHILIPPE Isabelle
+- .oS.    kU5    _SHEPARD Lucius              La Vie en temps de guerre ş1987 Life During Wartime şTrad. DELORD-PHILIPPE Isabelle + GUILLOT S‚bastien
 : .oS.     N     _SHEPARD Lucius              La Perme ş1986 R & R
 : .oS.     u     _SHEPARD Lucius              Le Bon Soldat ş1987 The Good Soldier
 : .oS.     N     _SHEPARD Lucius              Zone de feu ‚meraude ş1986 Fire Zone Emerald
@@ -634,10 +665,10 @@ o MNE_HEL   108  2018.09 ..... ISBN 978-2-35408-670-1
 - .o .     R     _ZELAZNY Roger               Toi l'immortel ş1966 This Immortal şTrad. PERRIN Mimi + DURASTATNTI Pierre-Paul
 o ACT_HEE     ?  2018.10 ..... ISBN 978-2-36629-935-9
 } heliose01      _Melchior Ascaride           ?
-- .o .     R     _KRESS Nancy                 L'une rˆve, l'autre pas [Cycle des insomniaques] ş1993 Beggars in Spain şTrad. MICHEL Claire
+- .o .     r     _KRESS Nancy                 L'une rˆve, l'autre pas [Cycle des insomniaques] ş1991 Beggars in Spain şTrad. MICHEL Claire
 o MOU_HEE     ?  2018.10 ..... ISBN 978-2-36183-521-7
 } heliose02      _?                           ?
-- .oS.     R     _BOYE Karin                  Kalloca‹ne ş1940 Kalloca‹n şTrad. DHAYER L‚o
+- .oS.     R     _BOYE Karin                  Kalloca‹ne - Roman du XXIe siŠcle ş1940 Kalloca‹n şTrad. DHAYER L‚o
 o MNE_HEE     ?  2018.10 ..... ISBN 978-2-35408-690-9
 } heliose03      _?                           ?
 - .oS.     R     _YOSS                        PlanŠte … louer ş2002 Se alquila un planeta şTrad. MILLER Sylvie
@@ -651,10 +682,11 @@ o MOU_HEL   112  2018.10 ..... ISBN 978-2-36183-520-0
 &                _NOLANE Richard D.           
 o MNE_HEL   113  2018.11 ..... ISBN 978-2-35408-702-9
 } noimg          _Stas Lobachev               ?
-- .oS.     R     _SILVERBERG Robert           La Porte des mondes ş1967 The Gate of World şTrad. SAUMONT Annie
+- .oS.     R     _SILVERBERG Robert           La Porte des mondes [La Porte des mondes] ş1967 The Gate of Worlds şTrad. SAUMONT Annie
 o ACT_HEL   114  2018.11 ..... ISBN 978-2-36629-943-4
 } heliosns114    _Gilles Francescano          ?
-- .oS.    kN26   _LAINE Sylvie                FidŠle … ton pas balanc‚ ş2016
+!--- Poche - 110x180 - 479 pages
+- .oSF    kN26   _LAINE Sylvie                FidŠle … ton pas balanc‚ ş2016
 : .oS.     p     _LAINE Sylvie                Pr‚face ş2016
 : .oS.     N     _LAINE Sylvie                Question de mode ş2007
 : .o .     N     _LAINE Sylvie                Le Prix du billet ş2009
@@ -674,7 +706,7 @@ o ACT_HEL   114  2018.11 ..... ISBN 978-2-36629-943-4
 : .oS.     N     _LAINE Sylvie                Le Chemin de la rencontre ş1985
 : .o .     N     _LAINE Sylvie                L'Op‚ra de Shaya ş2014
 : .oS.     N     _LAINE Sylvie                D‚finissez : priorit‚s ş2000
-: .o .     N     _LAINE Sylvie                Grenade au bord du ciel ş2014
+: .o .     N     _LAINE Sylvie                Grenade au bord du ciel ş2013
 : .o .     N     _LAINE Sylvie                Un amour de sable ş2014
 : .oS.     N     _LAINE Sylvie                Temps, bulle et patchouli ş2016
 : .oS.     N     _LAINE Sylvie                La Mirotte ş2001
@@ -693,7 +725,7 @@ o ACT_HEL   116  2019.01 ..... ISBN 978-2-36629-979-3
 - .oF.     r     _DAVOUST Lionel              Les Questions dangereuses ş2011
 o MOU_HEL   117  2019.02 ..... ISBN 978-2-36183-535-4
 } noimg          _Melchior Ascaride           ?
-- .oY.     R     _RIVERO Mathieu              Or et Nuit ş2015-2019
+- .oY.     R     _RIVERO Mathieu              Or et nuit ş2015-2019
 o MNE_HEL   118  2019.02 ..... ISBN 978-2-35408-708-1
 } noimg          _Vadim Kashin                ?
 - .oS.     R     _BERENVAL Olivier            Nemrod ş2017
@@ -720,11 +752,12 @@ o MOU_HEL   124  2019.04 ..... ISBN 978-2-36183-549-1
 - .oF.     R     _DAU Nathalie                Source des tempˆtes 1 [Le Livre de l'‚nigme - 1.1] ş2016
 o MNE_HEL   125  2019.04 ..... ISBN 978-2-35408-724-1
 } helios125      _Zdzislaw Beksinski          ?
+!--- Poche - 110x180 
 - .oF.    kN17   _SMITH Clark Ashton          Zothique - Int‚grale Clark Ashton Smith ş2017
 : .o .     p     _CONNORS Scott               Pr‚face ş2017
 : .o .     P     _SMITH Clark Ashton          Zothique ş1951 Zothique şTrad. BETAN Julien
 : .o .     N     _SMITH Clark Ashton          L'Empire des n‚cromants ş1932 The Empire of the Necromancers şTrad. BETAN Julien
-: .o .     N     _SMITH Clark Ashton          L'Œle des tortionnaires ş1932 The Isle of the Torturers şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          L'Œle des tortionnaires ş1933 The Isle of the Torturers şTrad. BETAN Julien
 : .oF.     N     _SMITH Clark Ashton          Le Dieu n‚crophage ş1934 The Charnel God şTrad. BETAN Julien
 : .oF.     N     _SMITH Clark Ashton          Le Sombre Eidolon ş1935 The Dark Eidolon şTrad. BETAN Julien
 : .o .     N     _SMITH Clark Ashton          Le Voyage du roi Euvoran ş1933 The Voyage of King Euvoran şTrad. BETAN Julien
@@ -737,7 +770,7 @@ o MNE_HEL   125  2019.04 ..... ISBN 978-2-35408-724-1
 : .oF.     N     _SMITH Clark Ashton          L'Abb‚ noir de Puthuum ş1936 The Black Abbot of Puthuum şTrad. BETAN Julien
 : .o .     N     _SMITH Clark Ashton          La Mort d'Ilalotha ş1937 The Death of Ilalotha şTrad. BETAN Julien
 : .oF.     N     _SMITH Clark Ashton          Le Jardin d'Adompha ş1938 The Garden of Adompha şTrad. BETAN Julien
-: .oF.     N     _SMITH Clark Ashton          Le MaŒtre des crabes ş1934 The Master of the Crabs şTrad. BETAN Julien
+: .oF.     N     _SMITH Clark Ashton          Le MaŒtre des crabes ş1948 The Master of the Crabs şTrad. BETAN Julien
 : .oF.     N     _SMITH Clark Ashton          Morthylla ş1953 Morthylla şTrad. BETAN Julien
 : .o .     N     _SMITH Clark Ashton          Des morts tu subiras l'adultŠre ş1963 The Dead Will Cuckold You şTrad. BETAN Julien
 !--- Fragments & synopsis
@@ -753,6 +786,9 @@ o MOU_HEL   127  2019.05 ..... ISBN 978-2-36183-561-3
 - .oF.     R     _GOLDSTEIN Lisa              Sombres cit‚s souterraines ş1999 Dark Cities Underground şTrad. MARCEL Patrick
 o MOU_HEL   128  2019.05 ..... ISBN 978-2-36183-507-1
 } noimg          _Hannes Bok                  ?
++ MOU_HEL   128  2022.04 ..... ISBN 978-2-36183-507-1
+} noimg          _Hannes Bok                  ?
+!--- Poche - 110x180 - 336 pages
 - .oS.     R     _LEOURIER Christian          La PlanŠte inquiŠte ş1979
 o ACT_HEL   129  2019.05 ..... ISBN 978-2-36629-465-1
 } noimg          _Lucie Mazel                 ?
@@ -771,13 +807,15 @@ o MOU_HEL   133  2019.06 ..... ISBN 978-2-36183-562-0
 - .oPF     R     _PAGEL Michel                Le Club ş2016
 o ACT_HEL   134  2019.06 ..... ISBN 978-2-36629-471-2
 } helios134      _Andrew Brase                ?
+!--- Poche - 110x180 - 204 pages
 - .oYT    kN4    _MARTIN George R.R.          Dragon de glace ş2011
 : .o .     N     _MARTIN George R.R.          Dragon de glace ş1980 The Ice Dragon şTrad. DURASTANTI Pierre-Paul
 : .oY.     N     _MARTIN George R.R.          Dans les contr‚es perdues ş1982 In the Lost Lands şTrad. BAUDURET Thomas
-: .o .     N     _MARTIN George R.R.          L'Homme en forme de poire ş1987 The Pear-shaped Man şTrad. GOULLET Gilles
-: .o .     N     _MARTIN George R.R.          Portrait de famille ş1985 Portraits of His CHildren şTrad. ?
+: .o .     N     _MARTIN George R.R.          L'Homme en forme de poire ş1987 The Pear-Shaped Man şTrad. GOULLET Gilles
+: .o .     N     _MARTIN George R.R.          Portrait de famille ş1985 Portraits of His Children şTrad. ?
 o MNE_HEL   135  2019.06 ..... ISBN 978-2-35408-734-0
 } helios135      _?                           ?
+!--- Poche - 110x180 
 - .oS.    kC10   _VANCE Jack                  Magnus Ridolph [Magnus Ridolph] ş1966-1985 The Complete Magnus Ridolph Stories şTrad. MARIOT Brigitte
 : .o .     N     _VANCE Jack                  Pas de veine [Magnus Ridolph] ş1948 Hard-Luck Diggings şTrad. MARIOT Brigitte
 : .o .     N     _VANCE Jack                  Un raccourci pour Sanatori [Magnus Ridolph] ş1948 Sanatoris Short-Cut şTrad. MARIOT Brigitte
@@ -794,6 +832,7 @@ o ACT_HEL   136  2019.09 ..... ISBN 978-2-36629-476-7
 - .oS.     R     _DEBATS Jeanne-A             Humain.e.s, trop humain.e.s [Navarre] ş2017
 o MNE_HEL   137  2019.08 ..... ISBN 978-2-35408-742-5
 } helios137      _Zdzislaw Beksinski          ?
+!--- Poche - 110x180 
 - .oF.    kN32   _SMITH Clark Ashton          Averoigne & autres mondes - Int‚grale C.A. Smith ş2018
 : .o .     p     _CONNORS Scott               Pr‚face ş2018
 : .C .     C     _SMITH Clark Ashton          Averoigne
@@ -847,6 +886,7 @@ o MOU_HEE     ?  2019.10 ..... ISBN 978-2-36183-590-3
 : .o .     R     _AYERDHAL                    L'Homme aux semelles de foudre ş2000
 o MOU_HEE     ?  2019.10 ..... ISBN 978-2-36183-591-0
 } heliose06      _Melchior Ascaride           ?
+!--- Poche - 110x180 
 - .oY.     N5    _JAWORSKI Jean-Philippe      Le Sentiment du fer [R‚cits du vieux royaume] ş2015
 : .o .     N     _JAWORSKI Jean-Philippe      Le Sentiment du fer ş2013
 : .o .     N     _JAWORSKI Jean-Philippe      L'Elfe et les ‚gorgeurs ş2015
@@ -880,7 +920,7 @@ o ACT_HEL   146  2020.03 ..... ISBN 978-2-37686-246-8
 - .oS.     G     _THILL Christophe            Le Guide Lovecraft ş2018
 o MNE_HEL   147  2020.05 ..... ISBN 978-2-35408-773-9
 } helios032020_4 _Zdzislaw Beksinski          ?
-!--- Poche - 272 pages - 9.90 euros
+!--- Poche - 110x180  - 272 pages - 9.90 euros
 - .oF.    kN21   _SMITH Clark Ashton          Hyperbor‚e & Pos‚idonis - Int‚grale Clark Ashton Smith ş2018
 : .o .     p     _CONNORS Scott               Pr‚face ş2018
 : .o .     P     _SMITH Clark Ashton          Hyperbor‚e ş? Hyperbor‚e şTrad. BASSET Vincent
@@ -929,7 +969,7 @@ o MNE_HEL   153  2020.06 ..... ISBN 978-2-35408-812-5
 - .oY.     R     _TOMAS Adrien                Le Royaume r‚v‚ [Le Chant des ‚pines - 1] ş2016
 o MNE_HEL   156  2020.09 ..... ISBN 978-2-35408-798-2
 } helios092020_4 _?                           ?
-!--- Poche - 368 pages - 11,90 euros
+!--- Poche - 110x180  - 368 pages - 11,90 euros
 - .oS.     C3    _LI-CAM                      Cyberland ş2017
 : .o .     r     _LI-CAM                      Sa‹d in Cyberland ş2017
 : .o .     r     _LI-CAM                      Asulon ş2015
@@ -940,7 +980,7 @@ o ACT_HEL   157  2020.08 ..... ISBN 978-2-37686-308-3
 - .o .     R     _RESNICK Mike                Paradis [L'Infernale Com‚die - 1] ş1989 Paradise: A Chronicle of a Distant World şTrad. CARISSIMO Luc
 o ACT_HEL   158  2020.06 ..... ISBN 978-2-37686-301-4
 } helio062020_0  _Zariel                      ?
-!--- 7,90 euros
+!--- Poche - 110x180 - 318 pages - 7,90 euros
 - .oS.     N6    _KRESS Nancy                 M‚fiez-vous du chien qui dort ş2020
 : .o .     N     _KRESS Nancy                 M‚fiez-vous du chien qui dort... [Cycle des insomniaques] ş1999 Sleeping Dogs
 : .oS.     N     _KRESS Nancy                 La montagne ira … Mahomet ş1992 The Mountain to Mohammed
@@ -962,13 +1002,14 @@ o MOU_HEL   162  2020.09 ..... ISBN 978-2-36183-634-4
 - .oS.     R     _GEHA Thomas                 Sous l'ombre des ‚toiles ş2013
 o ACT_HEL   162  2020.09 ..... ISBN 978-2-37686-312-0
 } helios092020_0 _Zariel                      ?
+!--- Poche - 110x180 - 393 pages
 - .oS.    kRN5   _MARTIN George R.R.          Nightflyers et autres r‚cits ş2018
-: .o .     R     _MARTIN George R.R.          Le Volcryn ş1981 Nightflyers şTrad. SABATHE-RICKLIN Odile + AYERDHAL
+: .o .     r     _MARTIN George R.R.          Le Volcryn ş1980 Nightflyers şTrad. SABATHE-RICKLIN Odile + AYERDHAL
 : .o .     N     _MARTIN George R.R.          Pour une poign‚e de volutoines ş1973 Override şTrad. CARTANAS Monique & LUONG M.-C.
 : .o .     N     _MARTIN George R.R.          Week-end en zone de guerre ş1977 Weekend in a War Zone şTrad. HOLSTEIN Eric
 : .o .     N     _MARTIN George R.R.          Sept fois, sept fois l'homme, jamais ! ş1975 And Seven Times Never Kill Man şTrad. CARTANAS Monique & LUONG M.-C.
 : .o .     N     _MARTIN George R.R.          Ni les feux multicolores d'un anneau stellaire ş1976 Nor the Many-Colored Fires of a Star Ring şTrad. DEVOS Erwan & HEMON Hermione
-: .o .     N     _MARTIN George R.R.          Une chanson pour Lya ş1973 A Song for Lya şTrad. CARTANAS Monique & LUONG M.-C.
+: .o .     N     _MARTIN George R.R.          Une chanson pour Lya ş1974 A Song for Lya şTrad. CARTANAS Monique & LUONG M.-C.
 o MNE_HEL   164  2020.10 ..... ISBN 978-2-35408-828-6
 } noimg          _?                           ?
 !--- Poche - 112 pages - 6,90 euros
@@ -998,9 +1039,12 @@ o MOU_HEE     ?  2020.10 ..... ISBN 978-2-36183-631-3
 !--- 8. Les notes-de-l'‚trange, par Serge Lehman (sc‚nario)
 o ACT_HEL   165  2020.11 ..... ISBN 978-2-37686-321-2
 } noimg          _Diego Tripodi               ?
-!--- 110 x 181 mm - 381 pages - 8,90 euros
+!--- Poche - 110 x 181 mm - 381 pages - 8,90 euros
+!--- TBD si les recueils inclus sont identifi‚s :
+!--- Les ballons dirigeables rˆvent-ils de poup‚es gonflables ? N9, 2013
+!--- Th‚ƒtre de cendre N5, 2013
+!--- Enfances de poussiŠre N6, 2013
 - .oS.     N20   _BERROUKA Karim              Les ballons dirigeables rˆvent-ils de poup‚es gonflables ? ş2013-2020
-!--- Les ballons dirigeables rˆvent-ils de poup‚es gonflables ? ş2013
 : .o .     N     _BERROUKA Karim              L'Histoire commence … Falloujah ş2009
 : .oS.     N     _BERROUKA Karim              Concerto pour une r‚surrection ş2006
 : .oS.     N     _BERROUKA Karim              Elle ş2013
@@ -1010,21 +1054,313 @@ o ACT_HEL   165  2020.11 ..... ISBN 978-2-37686-321-2
 : .oY.     N     _BERROUKA Karim              Le SiŠcle des lumiŠres ş2003
 : .oS.     N     _BERROUKA Karim              De l'art de l'investigation ş2013
 : .oF.     N     _BERROUKA Karim              Le Cirque des ombres ş2005
-!--- Th‚ƒtre de cendre ş2013
 : .o .     N     _BERROUKA Karim              Charbon ş2003
 : .o .     N     _BERROUKA Karim              Naufrage ş2013
 : .o .     N     _BERROUKA Karim              Les Sombres ş2004
 : .o .     N     _BERROUKA Karim              D'or et de diamant ş2013
 : .o .     N     _BERROUKA Karim              Th‚ƒtre d'ombres ş2013
-!--- Enfances de poussiŠre ş2013
 : .o .     N     _BERROUKA Karim              L'Enfant rouge ş2008
 : .o .     N     _BERROUKA Karim              ... comme un ange gardien ş2013
 : .o .     N     _BERROUKA Karim              Le Piano ş2013
-: .o .     N     _BERROUKA Karim              Conjonction  ş2013
+: .o .     N     _BERROUKA Karim              Conjonction ş2013
 : .o .     N     _BERROUKA Karim              Clothilde court dans la forˆt ş2005
 : .o .     N     _BERROUKA Karim              Ils sont cinq ş2013
+!------------------------
+!=== 2021
+!------------------------
+o ACT_HEL   151  2021.06 ..... ISBN 978-2-37686-231-4
+} helios062021_1 _Zariel                      ?
+!--- Poche - 110 x 180 - 184 pages - 7,90 euros
+- .oS.    kN7    _LE GUIN Ursula K.           Les Voltigeurs de Gy ş2021
+: .oS.     N     _LE GUIN Ursula K.           Les Voltigeurs de Gy ş2000 The Flyers of Gy şTrad. DURASTANTI Pierre-Paul
+: .oS.     N     _LE GUIN Ursula K.           PremiŠre rencontre avec les Gorgonides ş1992 The First Contact With the Gorgonids şTrad. DURASTANTI Pierre-Paul
+: .oS.     N     _LE GUIN Ursula K.           Le Sommeil de Newton ş1991 Newton's Sleep şTrad. DURASTANTI Pierre-Paul
+: .oS.     N     _LE GUIN Ursula K.           L'Ascension de la face nord ş1983 The Ascent of the North Face şTrad. DURASTANTI Pierre-Paul
+: .oS.     N     _LE GUIN Ursula K.           La PremiŠre Pierre ş1992 The Rock That Changed Things şTrad. DURASTANTI Pierre-Paul
+: .oS.     N     _LE GUIN Ursula K.           Le Kerastion ş1990 The Kerastion şTrad. DURASTANTI Pierre-Paul
+: .oS.     N     _LE GUIN Ursula K.           La Construction ş2001 The Building şTrad. DURASTANTI Pierre-Paul
+: .o .     a     _VINCENT J‚r“me              Interview David Meulemans ş2021
+o MNE_HEL   168  2021.01 ..... ISBN 978-2-35408-796-8
+} noimg          _Alain Brion                 ?
+!--- Poche - 110 x 180 - 352 pages
+- .oY.     R     _TOMAS Adrien                Le Royaume ‚veill‚ [Le Chant des ‚pines - 2] ş2017
+o MOU_HEL   169  2021.02 ..... ISBN 978-2-36183-694-8
+} noimg          _?                           ?
+!--- Poche - 110 x 180 - 368 pages
+- .oF.     R     _WILSON J. J. Amaworo        Les D‚vast‚s ş2016 Damnificados şTrad. NIVELLE Camille
+o ACT_HEL   170  2021.01 ..... ISBN 978-2-37686-336-6
+} noimg          _?                           ?
+!--- Poche - 110 x 180 - 292 pages
+- .oS.     R     _KRESS Nancy                 Les Hommes d‚natur‚s ş1998 Maximum Light şTrad. CHAMBON Jean-Marc
+o MNE_HEL   171  2021.02 ..... ISBN 978-2-35408-781-4
+} noimg          _?                           ?
+!--- Poche - 110 x 180 - 320 pages
+- .oY.     R     _GRIMBERT Pierre             Crochenuit [Gonelore - 5] ş2018
+o MNE_HEL   172  2021.02 ..... ISBN 978-2-35408-780-7
+} noimg          _?                           ?
+!--- Poche - 110 x 180 - 320 pages
+- .oY.     R     _GRIMBERT Pierre             Nejabeth [Gonelore - 4] ş2015
+o ACT_HEL   173  2021.06 ..... ISBN 978-2-37686-329-8
+} noimg          _?                           ?
+!--- Poche - 110x180 - 450 pages
+- .oS.     R     _ANDREVON Jean-Pierre        Le Monde enfin ş2006
+o MOU_HEL   174  2021.03 ..... ISBN 978-2-36183-721-1
+} noimg          _Arthur Rackham              ?
+!--- Poche - 110 x 180 - 256 pages
+- .oF.     R     _ROBIN Christian             Il ‚tait trois vieilles dames... ş2002-2021
+o MNE_HEL   175  2021.03 ..... ISBN 978-2-35408-837-8
+} noimg          _?                           ?
+!--- Poche - 110 x 180 - 336 pages
+- .o .     R     _VANCE Jack                  Un tour en Thaery ş1976 Maske: Thaery şTrad. ROSENBLUM Arlette
+o ACT_HEL   176  2021.03 ..... ISBN 978-2-37686-302-1
+} noimg          _Mina M.                     ?
+!--- Poche - 110 x 180 - 506 pages
+- .oY.     R     _BAUTHIAN Isabelle           Grish-MŠre [Les Rh‚teurs - 2] ş2018
+o ACT_HEL   177  2021.03 ..... ISBN 978-2-37686-348-9
+} noimg          _Cindy Can‚vet               ?
+!--- MF - 134 x 199 - 891 pages
+- .oF.     E     _JOSHI S.T.                  Lovecraft - Je suis Providence - 1 ş2010 I Am Providence: The Life and Times of H. P. Lovecraft
+o MNE_HEL   178  2021.04 ..... ISBN 978-2-35408-847-7
+} noimg          _?                           ?
+!--- Poche - 110 x 180 - 366 pages
+- .oS.     R     _NIVEN Larry                 L'Anneau-Monde [Known space] ş1970 Ringworld şTrad. LAMIDEY Fabrice
+o MOU_HEL   179  2021.04 ..... ISBN 978-2-36183-664-1
+} noimg          _Melchior Ascaride           ?
+!--- Poche - 110 x 179 - 256 pages
+- .oY.     R     _NIKOLAVITCH Alex            L'Œle de Peter ş2017
+o MOU_HEL   180  2021.05 ..... ISBN 978-2-36183-733-4
+} noimg          _?                           ?
+!--- Poche - 110x180 - 256 pages
+- .oS.     R     _JEURY Michel                L'Univers-Ombre ş1979-1987
+o MOU_HEL   181  2021.05 ..... ISBN 978-2-36183-732-7
+} noimg          _?                           ?
+!--- Poche - 110x180 - 256 pages
+- .oS.     R     _PELOT Pierre                Transit ş1977
+o ACT_HEL   182  2021.05 ..... ISBN 978-2-37686-364-9
+} helios052021_0 _Zariel                      ?
+!--- TBD         _AMMO                        ?
+!--- TBD pages 450 pages
+!--- Poche - 11,1 x 18,1 cm - 582 pages - 9,90 euros
+- .oY.     RN10  _KUSHNER Ellen               A la pointe de l'‚p‚e ş2019
+!--- Edition augment‚e de nouvelles (dont certaines in‚dites en fran‡ais), mais aussi de textes en exclusivit‚ mondiale : les lettres d'Octavia Saint-ViŠre
+>--- Les Lettres d'Octavia Saint-ViŠre sont intercal‚es entre chaque nouvelle
+: .oY.     p     _NICOT St‚phanie             Le Cycle de Richard Saint-ViŠre... ş2019
+: .oS.     N     _KUSHNER Ellen               Un jeune homme de mauvaise vie ş2009 A Wild and a Wicked Youth şTrad. MARCEL Patrick
+: .oY.     N     _KUSHNER Ellen               Lettre de Anne Chilton … Octavia Saint-ViŠre ş2019 ? şTrad. MARCEL Patrick
+: .oY.     N     _KUSHNER Ellen               Au temps o— j'‚tais brigand ş2017 When I Was a Highwayman şTrad. MARCEL Patrick
+: .oY.     N     _KUSHNER Ellen               Lettre de Arnulf Saint-ViŠre … Octavia Saint-ViŠre ş2019 ? şTrad. MARCEL Patrick
+: .oY.     R     _KUSHNER Ellen               A la pointe de l'‚p‚e ş1987 Swordpoint şTrad. MARCEL Patrick
+: .oY.     N     _KUSHNER Ellen               Lettre de Diane, Duchesse de Tr‚montaine, … MaŒtre Arnulf Saint-ViŠre ş2019 ? şTrad. MARCEL Patrick
+: .oS.     N     _KUSHNER Ellen               Le Bretteur qui n'‚tait pas la Mort ş1991 The Swordsman Whose Name Was Not Death şTrad. MARCEL Patrick
+: .oY.     N     _KUSHNER Ellen               Lettre … MaŒtre Richard Saint-ViŠre aux bons soins de la Taverne du Chien Brun, les Bords-d'Eaux ş2019 ? şTrad. MARCEL Patrick
+: .oY.     N     _KUSHNER Ellen               Le Duc des Bords-d'Eaux ş2011 The Duke of Riverside şTrad. MARCEL Patrick
+: .oY.     N     _KUSHNER Ellen               Epilogue ş2019 ? şTrad. MARCEL Patrick
+: .oY.     N     _KUSHNER Ellen               Cape-Rouge ş1982 Red-Cloak şTrad. MARCEL Patrick
+o MNE_HEL   183  2021.05 ..... ISBN 978-2-35408-914-6
+} noimg          _Alain Brion                 ?
+!--- Poche - 110x180 - 384 pages
+- .oY.     R     _TOMAS Adrien                Le Royaume bris‚ [Le Chant des ‚pines - 3] ş2018
+o ACT_HEL   184  2021.04 ..... ISBN 978-2-37686-281-9
+} noimg          _Diego Tripodi               ?
+!--- Poche - 110 x 180 - 440 pages
+- .oS.     R     _WINTERS Ben H.              Underground Airlines ş2016 Underground Airlines şTrad. HOLSTEIN Eric
+o MOU_HEL   185  2021.06 ..... ISBN 978-2-36183-736-5
+} noimg          _Daylon                      ?
+!--- Poche - 110x180 - 172 pages
+- .oS.     R     _LE GUIN Ursula K.           L'Oeil du h‚ron ş1978 The Eye of the Heron şTrad. DELORD Isabelle
+o MNE_HEL   186  2021.06 ..... ISBN 978-2-35408-917-7
+} noimg          _?                           ?
+!--- Poche - 110x180 - 352 pages
+- .oS.     R     _FARMER Philip Jos‚          Deux faucons de l'autre Terre ş1966-1979 The Gate of Time / Two Hawks from Earth şTrad. LODIGIANI Michel
+o MOU_HEL   187  2021.07 ..... ISBN 978-2-36183-737-2
+} noimg          _?                           ?
+!--- Poche - 110x180 - 272 pages
+- .oS.     R     _PAGEL Michel                La SirŠne de l'espace ş1999
+o ACT_HEL   188  2021.07 ..... ISBN 978-2-37686-414-1
+} noimg          _Zariel                      ?
+!--- Poche - 110x180 - 376 pages
+- .o .     R     _RESNICK Mike                Purgatoire [L'Infernale Com‚die - 2] ş1993 Purgatory: A Chronicle of a Distant World şTrad. CARISSIMO Luc
+o MOU_HEL   189  2021.08 ..... ISBN 978-2-36183-753-2
+} noimg          _?                           ?
+!--- Poche - 110x180 - 256 pages
+- .o .     R     _CHADOUR Nelly               Hante voltige ş2019
+o ACT_HEL   190  2021.08 ..... ISBN 978-2-37686-378-6
+} noimg          _?                           ?
+!--- Poche - 110x180 - 400 pages
+- .oYJ     R     _DURAND Thomas C.            Premier souffle [Les ‚nigmes de l'aube - 1] ş2011
+o MNE_HEL   191  2021.08 ..... ISBN 978-2-35408-924-5
+} noimg          _Yuri Shwedoff               ?
+!--- Poche - 110x180 - 550 pages
+- .oS.    kC3    _WOLFE Gene                  La CinquiŠme Tˆte de cerbŠre ş1972 The Fifth Head of Cerberus şTrad. ABADIA Guy
+: .o .     r     _WOLFE Gene                  La CinquiŠme Tˆte de cerbŠre ş1972 The Fifth Head of Cerberus
+: .o .     r     _WOLFE Gene                  R‚cit ş1972 A Story
+: .o .     r     _WOLFE Gene                  V.R.T. ş1972 V.R.T.
+o ACT_HEL   192  2021.09 ..... ISBN 978-2-37686-385-4
+} noimg          _Zariel                      ?
+!--- Poche - 110x180 - 250 pages
+- .o .     r     _KLAGES Ellen                Passing Strange ş2017 Passing Strange şTrad. HOLSTEIN Eric
+o MNE_HEL   193  2021.10 ..... ISBN 978-2-35408-931-3
+} noimg          _?                           ?
+!--- Poche - 110x180 - 384 pages
+!--- Nouveau num‚ro (id. nø 9)
+- .oY.     R     _BEORN Paul                  Les Derniers Parfaits ş2012
+o MNE_HEL   194  2021.11 ..... ISBN 978-2-35408-930-6
+} noimg          _?                           ?
+!--- Poche - 110x180 - 384 pages
+- .oS.     R     _NIVEN Larry                 Les Ing‚nieurs de l'anneau-monde [Known space] ş1979 The Ringworld Engineers şTrad. LAMIDEY Fabrice
+o ACT_HEL   195  2021.11 ..... ISBN 978-2-37686-399-1
+} helios112021_2 _Zariel                      ?
+!--- Poche - 110x180 - 506 pages
+- .oS.     U7    _MARTIN George R.R.          Le Voyage de Haviland Tuf ş1986 Tuf Voyaging şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          L'toile de la Peste ş1985 The Plague Star şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Pains et poissons ş1985 Loaves and Fishes şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Les Gardiens ş1981 Guardians şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Seconds services ş1985 Second Helpings şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Une bˆte pour Norne ş1976 A Beast for Norn şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          On l'appelait Mo‹se ş1978 Call Him Moses şTrad. ROBERT Alain
+: .oS.     N     _MARTIN George R.R.          Manne c‚leste ş1985 Manna from Heaven şTrad. ROBERT Alain
+!------------------------
+!=== 2022
+!------------------------
+o MNE_HEL   198  2022.01 ..... ISBN 978-2-35408-939-9
+} noimg          _Alex Tsoucas                ?
+!--- renum‚rotation du 28
+!--- Poche - 110x180 - 320 pages - 10,90 euros
+- .oS.     R     _GRANIER DE CASSAGNAC R.     Eternity Incorporated ş2011
+o MNE_HEL   199  2022.01 ..... ISBN 978-2-35408-940-5
+} noimg          _Alex Tsoucas                ?
+!--- renum‚rotation du 62
+!--- Poche - 110x180 - 384 pages - 10,90 euros
+- .oS.     R     _GRANIER DE CASSAGNAC R.     Thinking Eternity ş2014
+o MOU_HEL   200  2022.01 ..... ISBN 978-2-36183-774-7
+} noimg          _Melchior Ascaride           ?
+!--- Poche - 110x180 - 340 pages - 8,90 euros
+- .oS.     R     _GROC L‚on                   La Cit‚ des t‚nŠbres ş1926
+o ACT_HEL     ?  2022.01 ..... ISBN 978-2-37686-437-0
+} helios012022_1 _Yak                         ?
+!--- Poche - 110x180 - 400 pages
+- .oS.     A10   *AURIAS Aline               &Nos futurs ş2020
+&                *LEHOUCQ Roland             &
+&                *SUCHET Daniel              &
+&                *VINCENT J‚r“me              
+: .o .     N     _GRANIER DE CASSAGNAC R.     La faim justifie les moyens ş2020
+: .o .     N     _ECKEN Claude                Toxiques dans les pr‚s ş2020
+: .o .     N     _LAINE Sylvie                Au pied du manguier ş2020
+: .o .     N     _FAYE Estelle                Conte de la pluie qui n'est pas venue ş2020
+: .o .     N     _GENEFORT Laurent            Home ş2020
+: .o .     N     _CHEVALIER Chlo‚             Trois poneys morts ş2020
+: .o .     N     _DUFOUR Catherine            La Chute de la d‚fense ş2020
+: .o .     N     _DEBATS Jeanne-A             Le Monde d'Aubin ş2020
+: .o .     N     _LIGNY Jean-Marc             2030/2300 ş2020
+: .o .     N     _BORDAGE Pierre              Sanctuaires ş2020
+o MOU_HEL   202  2022.02 ..... ISBN 978-2-36183-778-5
+} noimg          _Melchior Ascaride           ?
+!--- Poche - 110x180 - 320 pages - 10,90 euros
+- .oY.     R     _CORREZE Jeanne Mariem       Le Chant des cavaliŠres ş2020
+o MNE_HEL   203  2022.03 ..... ISBN 978-2-35408-952-8
+} noimg          _(c)Shutterstock             ?
+!--- Poche - 110x180 - 320 pages - 11,90 euros
+- .oS.     R     _MARTEL Jacques              La Voie Verne ş2019
+o MOU_HEL   204  2022.03 ..... ISBN 978-2-36183-782-2
+} helios204      _Melchior Ascaride           ?
+!--- Poche - 110x180 - 400 pages - 9,90 euros
+- .oF.    kR2    _HEYLBROECK Julien           El Hijo del Hierofante [El Hijo del Hierofante] ş2022
+: .oF.     R     _HEYLBROECK Julien           Le Cartel de sang [El Hijo del Hierofante] ş2019
+: .oF.     R     _HEYLBROECK Julien           La Vengeance des Santas Muertes [El Hijo del Hierofante] ş2020
+o ACT_HEL     ?  2022.02 ..... ISBN 978-2-37686-442-4
+} helios205      _Zariel                      ?
+!--- Poche - 110x180 - 9,90 euros
+- .oFT    kA12   *LILJA Hans-Ake              Shining in the dark - F‚ter les vingt ans de Lilja's Library ş2018 Shining in the Dark : Celebrating Twenty Years of Lilja's Library
+: .o .     p     _LILJA Hans-Ake              Fˆter les vingt ans de Lilja's Library : Une introduction ş2018 Celebrating 20 Years of Lilja's Library - An Introduction şTrad. HOLSTEIN Eric
+: .o .     N     _KING Stephen                Le Compresseur bleu : Un r‚cit horrifique ş1971 The Blue Air Compressor şTrad. HOUESNARD Anna‹g
+: .o .     N     _KETCHUM Jack               &Le R‚seau ş2006 The Net şTrad. HOLSTEIN Eric
+&                _CACEK P.D.                 
+: .o .     N     _O'NAN Stewart               Le Roman de l'Holocauste ş2006 The Novel of the Holocaust şTrad. HOLSTEIN Eric
+: .o .     N     _VINCENT Bev                 Aeliana ş2018 Aeliana şTrad. HOUESNARD Anna‹g
+: .o .     N     _BARKER Clive                Charabia et Theresa ş1993 Pidgin and Theresa şTrad. HOLSTEIN Eric
+: .o .     N     _KEENE Brian                 La Fin de toutes choses ş2018 An End to All Thing şTrad. HOUESNARD Anna‹g
+: .o .     N     _CHIZMAR Richard             La Danse du cimetiŠre ş1992 Cemetery Dance şTrad. HOUESNARD Anna‹g
+: .o .     r     _QUIGLEY Kevin               L'Attraction des flammes ş2018 Drawn to the Flame şTrad. HOUESNARD Anna‹g
+: .o .     N     _CAMPBELL J. Ramsey          Le Compagnon ş1976 The Companion şTrad. BREQUE Jean-Daniel
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur ş1843 The Tell-Tale Heart şTrad. BAUDELAIRE
+: .o .     N     _FREEMAN Brian James         L'Amour d'une mŠre ş2018 A Mother's Love şTrad. HOUESNARD Anna‹g
+: .o .     N     _LINDQVIST John Ajvide       Le Manuel du gardien ş2018 The Keeper's Companion şTrad. HOLSTEIN Eric
+: .o .     o     _LILJA Hans-Ake              Fˆter les vingt ans de Lilja's Library : Postface ş2018 Celebrating 20 Years of Lilja's Library : An Afterword şTrad. HOLSTEIN Eric
+o ACT_HEL     ?  2022.03 ..... ISBN 978-2-37686-429-5
+} noimg          _Cindy Can‚vet               ?
+!--- MF - 134 x 199 - 896 pages - 15,90 euros
+- .oF.     E     _JOSHI S.T.                  Lovecraft - Je suis Providence - 2 ş2010 I Am Providence: The Life and Times of H. P. Lovecraft
+o MNE_HEL   207  2022.04 ..... ISBN 978-2-35408-956-6
+} helios207      _Emile Denis                 ?
+!--- Poche - 110x180 - 336 pages - 11,90 euros
+- .oS.    kR2    _GABORIT Mathieu             BohŠme [BohŠme - 1/2] ş2007
+: .oS.     R     _GABORIT Mathieu             Les Rives d'Antipolie [BohŠme - 1] ş1997
+: .oS.     R     _GABORIT Mathieu             R‚volutsyia [BohŠme - 2] ş1997
+o ACT_HEL        2022.04 ..... ISBN 978-2-37686-459-2
+} helios208      _Zariel                      ?
+!--- Poche - 110x180 - 450 pages - 9,90 euros
+- .oF.     A9    _DEBATS Jeanne-A             Eschatologie du vampire [Navarre] ş2022
+: .oF.     N     _DEBATS Jeanne-A             Mosquito Toast [Navarre] ş2015
+: .o .     N     _DEBATS Jeanne-A             L'Ogre de ciment [Navarre] ş2006
+: .oF.     N     _DEBATS Jeanne-A             Memorial [Navarre] ş2011
+: .o .     N     _DEBATS Jeanne-A             Le Sceau d'Alphonse [Navarre] ş2009
+: .o .     N     _DEBATS Jeanne-A             Jingle Hells [Navarre] ş2012
+: .o .     N     _DEBATS Jeanne-A             Eschatologie du vampire [Navarre] ş2013
+: .o .     N     _DEBATS Jeanne-A             Saint-Valentin [Navarre] ş2010
+: .o .     N     _DEBATS Jeanne-A             Le Blues du vampire le soir au-dessus des paraboles [Navarre] ş2011
+: .o .     N     _DEBATS Jeanne-A             Gilles au b–cher [Navarre] ş2010
+o ACT_HEL        2022.06 ..... ISBN 978-2-37686-472-1
+} noimg          _Zariel                      ?
+!--- Poche - 10 x 18 cm - 535 pages - 10,90 euros
+- .oF.     R     _DEL SOCORRO Jean-Laurent    Je suis fille de rage ş2019
+o MNE_HEL   210  2022.06 ..... ISBN 978-2-35408-973-3
+} noimg          _?                           ?
+!--- Poche - 110x180 - 416 pages - 11,90 euros
+- .oS.     R     _NIVEN Larry                 Le Tr“ne de l'anneau-monde [Known space] ş1996 The Ringworld Throne şTrad. TILCHE Pascal
+o ACT_HEL        2022.06 ..... ISBN 978-2-37686-466-0
+} noimg          _?                           ?
+!--- Poche - 10 x 18 cm - 9,90 euros
+- .oY.     R     _KUSHNER Ellen               Thomas le Rimeur ş1991 Thomas the Rhymer şTrad. VIERNE B‚atrice
+o ACT_HEL        2022.07 ..... ISBN 978-2-37686-478-3
+} noimg          _Diego Tripodi               ?
+!--- Poche - 10 x 18 cm
+- .oS.     R     _WINTERS Ben H.              Golden State ş2019 Golden State şTrad. HOLSTEIN Eric
+o MNE_HEL   213  2022.09 ..... ISBN 978-2-35408-989-4
+} noimg          _Nathan Anderson             ?
+!--- Poche - 110x180 mm - 372 pages - 11,90 euros
+- .oY.     R     _BARDAS Rapha‰l              Les Chevaliers du tintamarre ş2020
+o ACT_HEL        2022.08 ..... ISBN 978-2-37686-503-2
+} helios214      _Zariel                      ?
+!--- Poche - 10 x 18 cm - 9,90 euros
+!--- + Interviews : rencontres avec Isis Fahmy et BenoŒt Renaudin ; Rencontre avec Eric Henninot, Rencontre avec Camille Archambeaud - Index des adaptations et projets connexes … la Horde du Contrevent
+- .oS.    kEN3   _ST. EPONDYLE Antoine       &L'‚toffe dont sont tiss‚s les vents - Autour de la horde du contrevent d'Alan Damasio ş2019
+&                _DAMASIO Alain              &
+&                _FIEVET M‚lanie              
+: .oS.     N     _DAMASIO Alain               ExHorde ş2004
+: .oS.     N     _DAMASIO Alain               Le Conte du Ventemps ş2006
+: .o .     N     _FIEVET M‚lanie              Steppe Back ş2019
+: .o .     E     _ST. EPONDYLE Antoine        L'toffe dont sont tiss‚s les vents ş2019
+o ACT_HEL        2022.10 ..... ISBN 978-2-37686-522-3
+} noimg          _Zariel                      ?
+!--- Poche - 10 x 18 cm - 450 pages
+- .oF.     R     _LE BORGNE Lo‹c              Je suis ta nuit ş2008
+o ACT_HEL        2022.11 ..... ISBN 978-2-37686-530-8
+} helios216      _Lucie Chenu
+!--- Poche - 10 x 18 cm - 204 pages - 10,90 euros
+- .oI.    kC7    *LABORET Zo‚                 Dilu‚es ş2022
+: .o .     p     _LABORET Zo‚                 Avant-propos ş2022
+: .o .     N     _STANKIEWIEZ Morgane         Ereshkigal ş2022
+: .o .     N     _GLENCOE Morgan Of           Couleur d'‚cume ş2022
+: .o .     N     _RENNBERG Karine             Voeux ‚lectriques ş2022
+: .o .     N     _CORDELIA                    Bouches d'incendie ş2022
+: .o .     N     _DA ROCHA NadŠge             Vieilles connaissances ş2022
+: .o .     N     _KOSHKA Th‚odore             Alpha Beauty ş2022
+: .o .     N     _CORREZE Jeanne Mariem       Comme un soleil ş2022
 
-
+?o MOU_HEL     ?  2021.12 ..... ISBN 978-2-36183-629-0
+?} noimg          _Melchior Ascaride           ?
+?!--- Poche - 110x180 
+?- .o .     R     _DARVEL Robert               Femmes d'argile et d'osier ş2018
 
 !-----------------------------------------------------------------------------
 !--- NAOS - Naos 
@@ -1135,7 +1471,7 @@ o ACT_NAO     ?  2018.09 ..... ISBN 978-2-36629-915-1
 - .oF.     R     _COSTE Nadia                 Jivana ş2018
 o ACT_NAO     ?  2018.09 ..... ISBN 978-2-36629-893-2
 } noimg          _Zariel                      ?
-- .oS.     R     _BIZIEN Jean-Luc             Les Veilleurs ş2018
+- .oS.     R     _BIZIEN Jean-Luc             Les Veilleurs [Les Veilleurs - 1] ş2018
 o MNE_NAO     ?  2018.09 ..... ISBN 978-2-35408-671-8
 } noimg          _Julien Delval               ?
 - .oY.     R     _LINDHOLM Megan              Les Roues du destin [Ki et Vandien - 4] ş1989 Luck of the Wheels şTrad. LE PENNEC Guillaume
@@ -1156,6 +1492,9 @@ o ACT_NAO     ?  2019.05 ..... ISBN 978-2-36629-990-8
 o ACT_NAO     ?  2019.09 ..... ISBN 978-2-36629-475-0
 } noimg          _Zariel                      ?
 !--- Jeunesse
++ ACT_NAO     ?  2021.10 ..... ISBN 978-2-37686-428-8
+} noimg          _Zariel                      ?
+!--- YA - GF - 150x210 - 435 pages
 - .oF.     R     _GLENCOE Morgan Of           Dans l'ombre de Paris [La DerniŠre Geste - 1] ş2016
 o ACT_NAO     ?  2019.11 ..... ISBN 978-2-36629-481-1
 } noimg          _Zariel                      ?
@@ -1174,8 +1513,8 @@ o ACT_NAO     ?  2020.01 ..... ISBN 978-2-37686-218-5
 !--- Jeunesse - GF - 320 pages - 17,90 euros
 - .oS.     N3    _OKORAFOR Nnedi              Binti [Binti] ş2019
 : .o .     r     _OKORAFOR Nnedi              Binti [Binti - 1] ş2015 Binti şTrad. DEVOS Erwan
-: .o .     R     _OKORAFOR Nnedi              Binti : feu sacr‚ [Binti - 2] ş2019 Binti: Sacred Fire şTrad. DEVOS Erwan
-: .o .     r     _OKORAFOR Nnedi              Binti : retour [Binti - 3] ş2017 Binti: Home şTrad. DEVOS Erwan
+: .o .     N     _OKORAFOR Nnedi              Binti : feu sacr‚ [Binti - 1.5] ş2019 Binti: Sacred Fire şTrad. DEVOS Erwan
+: .o .     r     _OKORAFOR Nnedi              Binti : retour [Binti - 2] ş2017 Binti: Home şTrad. DEVOS Erwan
 o ACT_NAO     ?  2020.06 ..... ISBN 978-2-37686-244-4
 } naos37         _Zariel                      ?
 !--- Jeunesse - 240 pages - 16,90 euros
@@ -1183,7 +1522,7 @@ o ACT_NAO     ?  2020.06 ..... ISBN 978-2-37686-244-4
 o ACT_NAO     ?  2020.08 ..... ISBN 978-2-37686-251-2
 } noimg          _Zariel                      ?
 !--- Jeunesse - ? pages - 16,90 euros
-- .o .     R     _BIZIEN Jean-Luc             Les Veilleurs 2 ş2020
+- .o .     R     _BIZIEN Jean-Luc             Les Veilleurs 2 [Les Veilleurs - 2] ş2020
 o ACT_NAO     ?  2020.08 ..... ISBN 978-2-37686-274-1
 } noimg          _Zariel                      ?
 !--- Jeunesse - GF - 150 x 215 mm - ? pages - 17,90 euros
@@ -1192,7 +1531,100 @@ o ACT_NAO     ?  2020.09 ..... ISBN 978-2-37686-309-0
 } noimg          _Zariel                      ?
 !--- Jeunesse - ? pages - 17,90 euros
 - .o .     R     _GLENCOE Morgan Of           L'H‚ritage du rail [La DerniŠre Geste - 2] ş2020
-
-
-
-
+!------------------------
+!=== 2021
+!------------------------
+o ACT_NAO     ?  2021.01 ..... ISBN 978-2-37686-334-2
+} noimg          _Zariel                      ?
+!--- YA - GF - 150 x 210 - 285 pages
+- .o .     R     _FLAUX C‚lia                 Anergique ş2021
+o MNE_NAO     ?  2021.03 ..... ISBN 978-2-35408-804-0
+} noimg          _?                           ?
+!--- YA - GF - 150 x 210 - 336 pages
+- .o .     R     _BAZET Sacha                 Ce qui nous hante ş2021
+o ACT_NAO     ?  2021.03 ..... ISBN 978-2-37686-349-6
+} noimg          _Zariel                      ?
+!--- YA - GF - 150 x 210 - 600 pages
+- .oS.     R     _DEVRIESE Anne-Sophie        Biotaniste ş2021
+o ACT_NAO     ?  2021.04 ..... ISBN 978-2-37686-370-0
+} noimg          _Zariel                      ?
+!--- YA - GF - 150 x 210 - 240 pages
+- .o .     R     _KHARA David S.              Thunder - Tome 2 ş2021
+o ACT_NAO     ?  2021.05 ..... ISBN 978-2-37686-365-6
+} noimg          _Zariel                      ?
+!--- YA - GF - 150x210 - 280 pages
+- .o .     R     _OKORAFOR Nnedi              Binti 2 [Binti - 3] ş2018 Binti: The Night Masquerade şTrad. HEMON Hermine & DEVOS Erwan
+o ACT_NAO     ?  2021.05 ..... ISBN 978-2-37686-357-1
+} noimg          _?                           ?
+!--- YA - GF - 150x210 - 350 pages
+- .o .     R     _IMPALA Floriane             Limbus patrum [La Brigade du surnaturel - 1] ş2021
+o ACT_NAO     ?  2021.07 ..... ISBN 978-2-37686-410-3
+} noimg          _?                           ?
+!--- YA - GF - 150x210 - 400 pages
+- .o .     R     _GALLEGO Laura               Deux cierges pour le diable ş2008 Dos Velas para el Diablo şTrad. FIORE Faustina
+o ACT_NAO     ?  2021.08 ..... ISBN 978-2-37686-379-3
+} noimg          _Jessica Rossier             ?
+!--- YA - GF - 150x210 - 350 pages
+- .oS.     R     _MARTINIGOL Danielle         Les Sondeurs des sables ş2021
+o ACT_NAO     ?  2021.09 ..... ISBN 978-2-37686-383-0
+} noimg          _?                           ?
+!--- YA - GF - 150x210 - 400 pages
+- .oS.     R     _BAUTHIAN Isabelle           Zone tampon ş2021
+o ACT_NAO     ?  2021.10 ..... ISBN 978-2-37686-390-8
+} noimg          _Zariel                      ?
+!--- YA - GF - 150x210 - 430 pages
+- .oF.     R     _GLENCOE Morgan Of           Ordalie [La DerniŠre Geste - 3] ş2021
+o ACT_NAO     ?  2022.02 ..... ISBN 978-2-37686-443-1
+} noimg          _Zariel                      ?
+!--- YA - GF - 150x210 - 320 pages - 18,90 euros
+- .oF.     R     _WALLON Lydie                Veggy vs zombies ş2022
+o ACT_NAO     ?  2022.03 ..... ISBN 978-2-37686-433-2
+} noimg          _Zariel                      ?
+!--- YA - GF - 150x210 - 400 pages
+- .oS.     R     _BIZIEN Jean-Luc             Les Veilleurs 3 [Les Veilleurs - 3] ş2022
+o ACT_NAO     ?  2022.04 ..... ISBN 978-2-37686-453-0
+} noimg          _Mars Lauderbaugh            ?
+!--- YA - GF - 150x210 - 400 pages - 19,90 euros
+- .oF.     R     _THOMAS Aiden                Cemetery Boys ş2020 Cemetery Boys şTrad. MARCEL Patrick
+o MNE_NAO     ?  2022.04 ..... ISBN 978-2-35408-957-3
+} noimg          _Ann-Sophie de Steur         ?
+!--- YA - GF - 150x210 - 336 pages - 21,00 euros
+- .o .     R     _THOMASSON Lucie             Le Monde des Premiers, Tome 1 ş2022
+o MNE_NAO     ?  2022.05 ..... ISBN 978-2-35408-970-2
+} noimg          _Lazare Gvimradze            ?
+!--- YA - GF - 150x210 - 301 pages - 20,00 euros
+- .oS.     R     _ALIX Maiwenn                Marie #3 [Clones de la nation - 1] ş2022
+o ACT_NAO     ?  2022.09 ..... ISBN 978-2-37686-499-8
+} naos57         _Zariel                      ?
+!--- YA - GF - 150x210 - 350 pages - 19,90 euros
+- .oY.    iNx    _GLENCOE Morgan Of           Le Temps du Teuz [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Temps du Teuz [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de William Longway [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Cers & Mistral Alethia [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Mona d'Enez Eusa [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Camille-AgnŠs Albane du Mont de Trente-Chˆnes [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Jack william Longway [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Nekohaima Kenz“ [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Gabrielle de France [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Samuel Duchamp [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Nekohaima Yuri [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Alo‹se [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Tsuru Haruko [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Lucien Longchamp [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de D'Ali‚nor-H‚lo‹se AdŠle de Fontainebleau-d'ArmentiŠres [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Louis-Philippe Auguste Capet de France [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Lady Lore Nightingale [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Mei Yun & Augustina C‚saire [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Bran Irwazh & Ned Longway [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Ren, Al & Shadow [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Manon Martin [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Siegfried Jolicoeur [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Ry–zaki & HA-17 [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Pyro Saint-Elme [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Lilas Mwanza [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Dernier Solstice [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Danser dans la tempˆte [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Le Solstice de Taliesin le Bleu [La DerniŠre Geste] ş2020
+: .oY.     N     _GLENCOE Morgan Of           Imbolc [La DerniŠre Geste] ş2020
+: .oY.     a     _GLENCOE Morgan Of           Qu'est-ce qu'un Teuz ? [La DerniŠre Geste] ş2020
+: .oY.     a     _GLENCOE Morgan Of           Au coeur de la DerniŠre Geste : les musiques de l'univers [La DerniŠre Geste] ş2020

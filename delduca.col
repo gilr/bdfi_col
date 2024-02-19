@@ -20,14 +20,14 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ DUCABAS Ed. Mondiales, Del Duca, Coll. Le Basilic rouge
+_ DUCABAS Editions Mondiales, Del Duca - Le Basilic rouge
 !-----------------------------------------------------------------------------
 o DUCABAS    10  1951.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     R     _ROHMER Sax                  Nue sous un manteau de vison [Sumuru - 1] ş1950 Nude in Mink / Sins of Sumuru şTrad. STOYA Alex
 
 !-----------------------------------------------------------------------------
-_ DUCAGAL Ed. Mondiales, Del Duca, Coll. Galaxie
+_ DUCAGAL Editions Mondiales, Del Duca - Galaxie
 !-----------------------------------------------------------------------------
 o DUCAGAL     ?  1951.xx ..... ISBN -
 } noimg          _?                           ?
@@ -37,7 +37,9 @@ o DUCAGAL     ?  1951.xx ..... ISBN -
 ?- .o .     E     _SCULLY Frank                Le MystŠre des soucoupes volantes ş1951
 
 !-----------------------------------------------------------------------------
-_ DUCADEL Ed. Del Duca
+_ DUCADEL Del Duca
+!-----------------------------------------------------------------------------
+!--- Del Duca Paris / Editions mondiales, Paris
 !-----------------------------------------------------------------------------
 o DUCADEL     ?  1956.xx ..... ISBN -
 } noimg          _?                           N
@@ -51,63 +53,67 @@ o DUCADEL     ?  1958.xx ..... ISBN -
 o DUCADEL     ?  1962.T3 ..... ISBN -
 } noimg          _?                           N
 !--- 274 pages
-- .pS.    iN4    _NOCHER Jean                 En direct avec l'avenir ş1962
-!--- Contiendrait :
+!--- TroisiŠme s‚lection des chroniques quotidinnes "En direct avec vous" de Jean Nocher
+!--- aprŠs "En direct avec vous" (tome I) et "Directs !" (tome II)
 !--- - Emissions d'anticipation
 !--- - En direct avec vous : autres textes radio non SF 
-!--- - Oeuvres clandestines : oeuvres non radio et poŠmes
-: .oS.     N     _NOCHER Jean                 La Grand'Peur atomique ş1946
-: .oS.     N     _NOCHER Jean                 Le Salon des Arts-M‚-85 ş1962
-: .oS.     N     _NOCHER Jean                 Mars ou l'automation ş1962
-: .oS.     N     _NOCHER Jean                 Les ˆtres d'ailleurs sont d‚j… l… ş1962
+!--- - Oeuvres clandestines : le journal de cellule et les poŠmes ‚crits en prison
+- .pS.     N4    _NOCHER Jean                 En direct avec l'avenir ş1962
+: .C .     C     _NOCHER Jean                 1 - Emissions d'anticipation
+: .oS.     p     _--- (anonyme)               Avant-propos ş1946
+: .oS.     N     _NOCHER Jean                 La Grand'Peur atomique - PremiŠre ‚mission de la s‚rie - Plate-forme 70 ş1946
+: .oS.     N     _NOCHER Jean                 Le Salon des Arts-M‚-85 - Emission nø 17 ş1962
+: .oS.     N     _NOCHER Jean                 Mars ou l'automatisation - Emission nø 28 ş1962
+: .oS.     N     _NOCHER Jean                 Les ˆtres d'ailleurs sont d‚j… l… - Emission nø 21 ş1962
+: .C .     C     _NOCHER Jean                 2 - En direct avec vous
 
 
 !-----------------------------------------------------------------------------
-_ GAL1    Ed. Nuit & Jour, Galaxie
+_ GAL1    Nuit & Jour - Galaxie
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
 !--- Les romans ou nouvelles parus en plusieurs parties
 !-----------------------------------------------------------------------------
-_ Ga01    <b>in</b> Ed. Nuit & Jour, Galaxie nø 1, 2, 3 et 4
-o Ga01        ?  1954.xx ..... ISBN -
+o GAL1        ?  1954.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 1, 2, 3 et 4
 - .oS.     R     _SIMAK Clifford D.           Dans le torrent des siŠcles ş1950 Time and Again / First he Died / Time Quarry şTrad. ?
 !-----------------------------------------------------------------------------
-_ Ga02    <b>in</b> Ed. Nuit & Jour, Galaxie nø 6, 7 et 8
-o Ga02        ?  1954.xx ..... ISBN -
+o GAL1        ?  1954.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 6, 7 et 8
 - .o .     R     _ASIMOV Isaac                Les Villes d'acier ş1953 The Caves of Steel
 !-----------------------------------------------------------------------------
-_ Ga03    <b>in</b> Ed. Nuit & Jour, Galaxie nø 11 et 12
-o Ga03        ?  1954.xx ..... ISBN -
+o GAL1        ?  1954.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 11 et 12
 - .o .     r     _GUNN James E.               Tu ne m'‚chapperas pas ! ş1953 Wherever You May Be / The Reluctant Witch
 !-----------------------------------------------------------------------------
-_ Ga04    <b>in</b> Ed. Nuit & Jour, Galaxie nø 25, 26 et 27
-o Ga04        ?  1956.xx ..... ISBN -
+o GAL1        ?  1956.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 25, 26 et 27
 - .o .     R     _McCANN Edson                Assurances sur l'‚ternit‚ ş1955 Preferred risk
 !-----------------------------------------------------------------------------
-_ Ga05    <b>in</b> Ed. Nuit & Jour, Galaxie nø 47 et 48
-o Ga05        ?  1957.xx ..... ISBN -
+o GAL1        ?  1957.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 47 et 48
 - .o .     R     _JUDD Cyril                  L'Enfant de Mars ş1951 Mars child
 !-----------------------------------------------------------------------------
-_ Ga06    <b>in</b> Ed. Nuit & Jour, Galaxie nø 49 et 50
-o Ga06        ?  1958.xx ..... ISBN -
+o GAL1        ?  1958.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 49 et 50
 - .o .     R     _POHL Frederik              &La Tribu des loups ş1957 Wolfbane
 &                _KORNBLUTH Cyril M.          
 !-----------------------------------------------------------------------------
-_ Ga07    <b>in</b> Ed. Nuit & Jour, Galaxie nø 56 et 57
-o Ga07        ?  1958.xx ..... ISBN -
+o GAL1        ?  1958.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 56 et 57
 - .o .     R     _BESTER Alfred               Jusqu'aux ‚toiles ş1957 Tiger, Tiger / The Stars, My Destination
 !-----------------------------------------------------------------------------
-_ Ga08    <b>in</b> Ed. Nuit & Jour, Galaxie nø 62, 63, 64 et 65
-o Ga08        ?  1959.xx ..... ISBN -
+o GAL1        ?  1959.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 62, 63, 64 et 65
 - .o .     R     _SHECKLEY Robert             Le Temps meurtrier ş1958 Time Killer
 !-----------------------------------------------------------------------------
 
@@ -258,11 +264,11 @@ o GAL1       15  1955.xx ..... ISBN -
 : .o .     N     _SHECKLEY Robert             Permis de maraude ş1954 Skulking Permit
 : .o .     N     _SMITH Evelyn E.             Sp‚cimens uniques ş1954 Collector's Item
 : .o .     N     _VENABLE Lyn                 Le Pays du mal ş1952 Homesick
-: .o .     N     _MILLER Walter M.            L‚gitime d‚fense ş1952 Command Performance / Anybody Else Liker Me?
+: .o .     N     _MILLER Walter M.            L‚gitime d‚fense ş1952 Command Performance / Anybody Else Like Me?
 o GAL1       16  1955.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     M10   ****                         Galaxie nø 16 (mars 55) ş1955
-: .o .     N     _DANIEL Lucius               L'Heure du choix ş1954 Up for renewal
+: .o .     N     _DANIEL Lucius               L'Heure du choix ş1954 Up for Renewal
 : .o .     N     _DICKSON Gordon R.           La SouriciŠre ş1952 The Mousetrap
 : .o .     N     _GALOUYE Daniel F.           Jebaburba ş1954 Jebaburba
 : .o .     N     _LEIBER Fritz                Un seau d'air ş1951 A Pail of Air
@@ -277,7 +283,7 @@ o GAL1       17  1955.xx ..... ISBN -
 - .o .     M10   ****                         Galaxie nø 17 (avril 55) ş1955
 : .o .     N     _CATHAL Michael              PlanŠte de jouvence ş1955 Rich living
 : .o .     N     _COGSWELL Theodore R.        La Guerre des astronefs ş1954 Invasion Report
-: .o .     N     _DANIEL Lucius               Ne supprimez pas les martiens ! ş1952 Martians never die
+: .o .     N     _DANIEL Lucius               Ne supprimez pas les martiens ! ş1952 Martians Never Die
 : .o .     N     _DRYFOOS Dave                Les Arbres assassins ş1952 Tree, Spare That Woodman
 : .o .     N     _GUNN James E.               L'Antre des t‚nŠbres ş1955 The Cave of Night
 : .o .     N     _McINTOSH J.T.               Marche arriŠre ş1954 Playback
@@ -329,7 +335,7 @@ o GAL1       21  1955.xx ..... ISBN -
 : .o .     N     _KNIGHT Damon                Quatre personnes en un monstre ş1953 Four in One
 : .o .     N     _LEINSTER Murray             Allo, Sam ? Ici, toi-mˆme ! ş1955 Sam, This Is You
 : .o .     N     _POHL Frederik               L'Abominable R‚surrection ş1955 Target One
-: .o .     N     _SHECKLEY Robert             Une race de guerrier ş1952 Warrior Race
+: .o .     N     _SHECKLEY Robert             Une race de guerriers ş1952 Warrior Race
 : .o .     N     _TENN William                Votre tout-puissant serviteur ş1955 The Servant Problem
 o GAL1       22  1955.xx ..... ISBN -
 } noimg          _?                           ?
@@ -348,7 +354,7 @@ o GAL1       23  1955.xx ..... ISBN -
 : .o .     N     _COGSWELL Theodore R.        La Condamnation minimum ş1953 Minimum Sentence
 : .o .     N     _KLEIN G‚rard                Une place au balcon ş1955
 : .o .     N     _DYE Charles                 Le Sang de la mort ş1951 Syndrome Johnny
-: .o .     N     _MARKS Winston               Le Parfait domestique ş1954 Backlash
+: .o .     N     _MARKS Winston               Le Parfait Domestique ş1954 Backlash
 : .o .     N     _SHECKLEY Robert             Le Cambrioleur du futur ş1954 A Thief in Time
 : .o .     N     _STURGEON Theodore           Le Vol du dossier Justice ş1955 When You're Smiling
 : .o .     N     _VANCE Jack                  Une conquˆte abandonn‚e ş1951 Winner Lose All
@@ -517,7 +523,7 @@ o GAL1       36  1956.xx ..... ISBN -
 : .o .     N     _DEE Roger                   ProblŠme sur Balak ş1953 Problem on Balak
 : .o .     N     _SHAARA Michael              L'Ennemi frappera ce soir... ş1953 Soldier Boy
 : .o .     N     _STURGEON Theodore           Retour … l'espace ş1956 The Claustrophile
-: .o .     N     _O'DONNEVAN Finn             Erreur de traitement ş1956 Bad medecine
+: .o .     N     _O'DONNEVAN Finn             Erreur de traitement ş1956 Bad Medecine
 : .o .     N     _McCONNELL James             Toi tout entier ş1953 All of You
 : .o .     a     _BLISH James                 L'criture des rats ş1956 The Writing of the Rat
 o GAL1       37  1956.xx ..... ISBN -
@@ -526,7 +532,7 @@ o GAL1       37  1956.xx ..... ISBN -
 : .o .     N     _SHECKLEY Robert             Le Fardeau des humains ş1956 Human Man's Burden
 : .o .     r     _ASIMOV Isaac                La Voie martienne ş1952 The Martian Way
 : .o .     N     _NICHOLSON R.D.              Loin du soleil des hommes ş1953 Far from the warming sun
-: .o .     N     _YOUNG Robert F.             La Petite ‚cole rouge ş1956 Little Red Schoolhouse
+: .o .     N     _YOUNG Robert F.             La Petite cole rouge ş1956 Little Red Schoolhouse
 : .o .     N     _RAYLAMBERT Jeannine         La PlanŠte maudite ş1956
 : .o .     N     _TUBB E.C.                   L'Heure du crime ş1956 Time to Kill
 : .o .     N     _MAPLES Richard              Le Souffre-Douleur ş1956 The Scapegoat
@@ -637,7 +643,7 @@ o GAL1       46  1957.xx ..... ISBN -
 : .o .     N     _POHL Frederik               J'ai tu‚ mon ami... ş1955 Pythias
 !--- id "J'ai tu‚ le roi de l'univers"
 : .o .     N     _SHECKLEY Robert             D‚fense de sinuriser ş1956 Protection
-: .o .     N     _O'DONNEVAN Finn             La PlanŠte infernale ş1957 A wind is rising
+: .o .     N     _O'DONNEVAN Finn             La PlanŠte infernale ş1957 A Wind Is Rising
 : .o .     N     _SIMAK Clifford D.           Le PŠre de tous ş1957 Founding Father
 : .o .     N     _SMITH Evelyn E.             Sorcier, moi aussi ! ş1954 Call Me Wizard
 : .o .     N     _McDONALD John D.            Le D‚faut de la cuirasse ş1951 Susceptibility
@@ -721,7 +727,7 @@ o GAL1       53  1958.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     M13   ****                         Galaxie nø 53 (Avril 58) ş1958
 : .o .     N     _BIGGLE Lloyd Jr.            Les Le‡ons du robot ş1958 Spare the Rod
-: .o .     N     _O'DONNEVAN Finn             Idylles sur commande ş1957 The grey flannel armor
+: .o .     N     _O'DONNEVAN Finn             Idylles sur commande ş1957 The Grey Flannel Armor
 : .o .     N     _TEVIS Walter                La Balle choisit la libert‚ ş1958 The Big Bounce
 : .o .     N     _STATTEN Vargo               Marche arriŠre ş1954 Reverse action
 : .o .     N     _MORRISON William            Glissoire transtemporelle ş1957 The Sly Bungerhop
@@ -738,7 +744,7 @@ o GAL1       54  1958.xx ..... ISBN -
 - .o .     M11   ****                         Galaxie nø 54 (Mai 58) ş1958
 : .o .     N     _PIPER H. Beam               Le CimetiŠre des rˆves [Terro-Human Future History] ş1958 Graveyard of Dreams
 : .o .     N     _SIMAK Clifford D.           Le Secret des Sitters ş1958 The Sitters
-: .o .     N     _GRIDBAN Volsted             La Pierre de soleil ş1954 Alice, where are thou?
+: .o .     N     _GRIDBAN Volsted             La Pierre de soleil ş1954 Alice, Where Are Thou?
 !--- TBC : "where art thou ?" ?
 !--- Fearn ou Tubb ? (plut“t Fearn)
 : .o .     N     _LEIBER Fritz                Amoureuse de son bourreau ş1950 Coming Attraction
@@ -811,7 +817,7 @@ o GAL1       59  1958.xx ..... ISBN -
 : .o .     N     _LEIBER Fritz                Trop de dons... ş1958 Bullet With His Name
 : .o .     N     _McINTOSH J.T.               En noir et blanc ş1958 In Black and White
 : .o .     N     _FLEHR Paul                  Pour conqu‚rir la Terre ş1958 We never mention aunt Nora
-: .o .     N     _O'DONNEVAN Finn             Faillite de l'arme atomique ş1958 The gun without a bang
+: .o .     N     _O'DONNEVAN Finn             Faillite de l'arme atomique ş1958 The Gun Without a Bang
 : .o .     N     _WILSON Richard              Nostalgie du temps pass‚ ş1958 The Voice of the Diaphragm
 o GAL1       60  1958.xx ..... ISBN -
 } noimg          _?                           ?
@@ -860,7 +866,7 @@ o GAL1       63  1959.xx ..... ISBN -
 : .o .     N     _KORNBLUTH Cyril M.         &Entre deux raids ş1958 Nightmare With Zeppelins
 &                _POHL Frederik               
 : .o .     N     _RAMEAU Jacques              Le Commencement de la fin ş1959
-: .o .     N     _O'DONNEVAN Finn             Tout ou rien ş1958 Join now
+: .o .     N     _O'DONNEVAN Finn             Tout ou rien ş1958 Join Now
 : .o .     N     _TEYSSOU J.R.                A. 690 ş1959
 : .o .     N     _LEWIS Elisabeth R.          L'trange Voisinage ş1953 Know thy neighbor
 o GAL1       64  1959.xx ..... ISBN -

@@ -1,16 +1,16 @@
 !-----------------------------------------------------------------------------
 !--- Groupe l'Archipel
 !-----------------------------------------------------------------------------
-_ ARCHIP  Ed. L'Archipel
-_ ARCHIPS Ed. L'Archipel, Coll. Suspense
-_ ARCHIPJ Ed. L'Archipel Jeunesse
-_ ARCHIPG Ed. L'Archipel, Coll. Galapagos
-_ ARCHIPO Ed. Archipoche
-_ ARCHPOJ Ed. Archipoche Jeunesse
-_ ARCHIPA Ed. Archipoche, Coll. Archimaginaire
-_ ARCHPCO Ed. Archipoche, Coll. La BibliothŠque du Collectionneur
-_ ARCHPCL Ed. Archipoche, Coll. La BibliothŠque des Classiques
-_ ARCHPCI Ed. Archipoche, Coll. La BibliothŠque des Classiques, l'int‚grale illustr‚e
+_ ARCHIP  L'Archipel
+_ ARCHIPS L'Archipel - Suspense
+_ ARCHIPJ L'Archipel Jeunesse
+_ ARCHIPG L'Archipel - Galapagos
+_ ARCHIPO Archipoche
+_ ARCHPOJ Archipoche - Archipoche Jeunesse
+_ ARCHIPA Archipoche - Archimaginaire
+_ ARCHPCO Archipoche - La BibliothŠque du Collectionneur
+_ ARCHPCL Archipoche - La BibliothŠque des Classiques
+_ ARCHPCI Archipoche - La BibliothŠque des Classiques - L'int‚grale illustr‚e
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
@@ -46,9 +46,10 @@ o ARCHIP      ?  2003.06 ..... ISBN 2-84187-496-.
 } noimg          _?                           ?
 - .oSP     R     _CHILD Lincoln              &La Chambre des curiosit‚s [L'Inspecteur Pendergast - 3] þ2002 The Cabinet of Curiosities þTrad. DANCHIN S‚bastian
 &                _PRESTON Douglas             
-o ARCHIP      ?  2003.11 ..... ISBN 2-84187-535-.
+o ARCHIP      ?  2003.11 ..... ISBN 2-84187-535-0
 } noimg          _?                           ?
-- .oS.     R     _COOK Thomas H.              Disparition þ? ? þTrad. SAUVETRE Anne
+!-- 358 pages - 23 cm - 19.95 euros
+- .oS.     R     _COOK Thomas H.              Disparition þ2002 Taken þTrad. BEAUCHAMP Thierry et RABIER Romain
 !------------------------
 !=== 2005
 !------------------------
@@ -187,7 +188,7 @@ o ARCHIPS     ?  2013.05 ..... ISBN 978-2-8098-1127-8
 - .oF.     R     _PRESTON Douglas            &Descente en enfer [Helen Trilogy - 3][L'Inspecteur Pendergast - 12] þ2012 Two Graves þTrad. DANCHIN Sebastian
 &                _CHILD Lincoln               
 o ARCHIPS     ?  2013.05 ..... ISBN 978-2-8098-1132-2
-} noimg          _?                           ?
+} archip_enfer   _?                           ?
 - .oSP     N46   _LEROY J‚r“me                DerniŠres nouvelles de l'enfer þ2013
 : .o .     N     _LEROY J‚r“me                Mon amour, ma r‚plicante þ2013
 : .o .     N     _LEROY J‚r“me                Manoeuvre ‚lectorale þ2013
@@ -242,7 +243,7 @@ o ARCHIPS     ?  2013.09 ..... ISBN 978-2-8098-1229-9
 - .oF.     R     _PATTERSON James            &Zoo þ2012 Zoo þTrad. DANCHIN Sebastian
 &                _LEDWIDGE Michael            
 o ARCHIP      ?  2013.10 ..... ISBN 978-2-8098-1256-5
-}archipnocturnes _?                           ?
+} archipnocturnes _?                           ?
 - .oF.     N19   _CONNOLLY John               Nocturnes [Nocturnes - 1] þ2004-2006 Nocturnes þTrad. MOMONT DaniŠle & BEAUCHAMP Thierry
 : .o .     r     _CONNOLLY John               La Balade du cow-boy canc‚reux þ2004 The Cancer Cowboy Rides þTrad. BEAUCHAMP Thierry
 : .o .     N     _CONNOLLY John               Le D‚mon de M. Pettinger þ2004 Mr Pettinger's Daemon þTrad. MOMONT DaniŠle
@@ -370,9 +371,33 @@ o ARCHIP      ?  2020.10 ..... ISBN 978-2-8098-2888-7
 } noimg          _?                           ?
 !--- GF - 14 x 22,5 mm - 400 pages - 22 euros
 - .xB.     R     _CAINE Rachel                L'Ombre de l'assassin þ2017 Killman Creek þTrad. Sebastian Danchin
+o ARCHIP      ?  2020.xx ..... ISBN 978-2-8098-2859-7
+} noimg          _?                           ?
+!--- GF - 141 x 225 - 368 pages
+- .oS.     R     _WILSON Daniel H.            La Menace AndromŠde þ2019 The Andromeda Evolution þTrad. REGE Philippe
+!------------------------
+!=== 2021
+!------------------------
+o ARCHIP      ?  2021.02 ..... ISBN 978-2-8098-4044-5
+} noimg          _?                           ?
+!--- GF - 141 x 225 - 500 pages
+- .oF.     R     _KOONTZ Dean R.              La Porte interdite [Jane Hawk - 4] þ2018 The Forbiden Door þTrad. DANCHIN Sebastian
+o ARCHIP      ?  2021.09 ..... ISBN 978-2-8098-4133-6
+} noimg          _?                           ?
+!--- GF - 140x225 - 500 pages
+- .oF.     R     _KOONTZ Dean R.              D‚votion þ2020 Devoted þTrad. GUILLEMAIN Antoine
+!------------------------
+!=== 2022
+!------------------------
+o ARCHIP      ?  2022.02 ..... ISBN 978-2-8098-4134-3
+} noimg          _?                           ?
+!--- GF - 141x225 - 456 pages
+- .oF.     R     _KOONTZ Dean R.              Fenˆtre sur la peur [Jane Hawk - 5] þ2019 The Night Window þTrad. DANCHIN Sebastian
+
+
 
 !-----------------------------------------------------------------------------
-!--- ARCHIPA Ed. Archipoche, Coll. Archimaginaire
+!--- ARCHIPA Archipoche, Archimaginaire
 !-----------------------------------------------------------------------------
 o ARCHIPA     ?  2009.05 ..... ISBN 978-2-8098-0153-8
 } noimg          _?                           ?
@@ -382,7 +407,7 @@ o ARCHIPA     ?  2009.05 ..... ISBN 978-2-8098-0152-1
 - .o .     R     _BIZIEN Jean-Luc             Wonderlandz þ2002
 
 !-----------------------------------------------------------------------------
-!--- ARCHPOJ Ed. Archipoche Jeunesse
+!--- ARCHPOJ Archipoche Jeunesse
 !-----------------------------------------------------------------------------
 o ARCHPOJ    01  2007.09 ..... ISBN 978-2-35287-048-7
 } noimg          _?                           ?
@@ -390,6 +415,7 @@ o ARCHPOJ    01  2007.09 ..... ISBN 978-2-35287-048-7
 o ARCHPOJ    02  2007.09 ..... ISBN 978-2-35287-049-4
 } noimg          _?                           ?
 !--- Reprise de "Qui hante la tour morte ?"
+!--- Peut-ˆtre pas fantastique
 - .oF.     R     _GUDULE                      Profession vampire þ1999
 o ARCHPOJ    11  2008.xx ..... ISBN 978-2-35287-087-6
 } noimg          _?                           ?
@@ -400,7 +426,7 @@ o ARCHPOJ    14  2008.xx ..... ISBN 978-2-35287-105-7
 - .oS.     R     _GRENIER Christian           Robinson des ‚toiles þ2008
 
 !-----------------------------------------------------------------------------
-!--- ARCHIPO Ed. Archipoche
+!--- ARCHIPO Archipoche
 !-----------------------------------------------------------------------------
 o ARCHIPO    85  2009.01 ..... ISBN 978-2-35287-106-4
 } noimg          _?                           ?
@@ -416,13 +442,16 @@ o ARCHIPO   218  2012.07 ..... ISBN 978-2-35287-319-8
 o ARCHIPO   243  2013.04 ..... ISBN 978-2-35287-454-8
 } noimg          _?                           ?
 !--- R‚vision et pr‚face d'Isabelle Vi‚ville Degeorges
-- .oF.     R     _COLLINS W. Wilkie           La Pierre de Lune þ1868 The Moonstone þTrad. VAUDREUIL  Marguerite de
+- .oF.     R     _COLLINS W. Wilkie           La Pierre de Lune þ1868 The Moonstone þTrad. VAUDREUIL Marguerite de
 o ARCHIPO   374  2015.09 ..... ISBN 978-2-35287-815-5
 } noimg          _?                           ?
 - .oF.     R     _HILL Susan                  La Main de la nuit þ2010 The Small Hand þTrad. BREVIGNON Pierre
 o ARCHIPO   412  2016.07 ..... ISBN 978-2-35287-888-9
 } noimg          _?                           ?
 - .xA.     R     _BURROUGHS Edgar Rice        Tarzan, seigneur de la jungle [Tarzan - 11] þ1927 Tarzan, Lord of the Jungle þTrad. BAUDOUX Marc
+!------------------------
+!=== 2017
+!------------------------
 o ARCHIPO   453  2017.05 ..... ISBN 978-2-37735-017-9
 } noimg          _?                           ?
 - .oS.     R     _WELLS Herbert George        La Guerre des mondes þ1898 The War of the Worlds þTrad. DAVRAY Henry D.
@@ -436,6 +465,9 @@ o ARCHIPO   482  2017.11 ..... ISBN 978-2-37735-088-9
 } noimg          _?                           ?
 !--- Pr‚face de Paul-Louis Hervier
 - .oF.     R     _COLLINS W. Wilkie           L'H“tel hant‚ þ1878 The Haunted Hotel þTrad. DALLEMAGNE Henry + VOLTARINO Philippine
+!------------------------
+!=== 2018
+!------------------------
 o ARCHIPO     ?  2018.11 ..... ISBN 978-2-37735-214-2
 } archipoche_i214 _?                           ?
 !--- 11,0 x 17,8 cm - 328 pages - 9,95 euros
@@ -444,6 +476,9 @@ o ARCHIPO     ?  2018.11 ..... ISBN 978-2-37735-214-2
 : .o .     r     _DICKENS Charles             Cantique de No‰l þ1843 A Christmas Carol þTrad. SAINT-ROMAIN Mlle de & GOY Andr‚ de
 : .o .     r     _DICKENS Charles             Les Carillons þ1844 The Chimes þTrad. ?
 : .o .     r     _DICKENS Charles             Le Grillon du foyer þ1845 The Cricket on the Hearth þTrad. ?
+!------------------------
+!=== 2019
+!------------------------
 o ARCHIPO   547  2019.02 ..... ISBN 978-2-37735-236-4
 } noimg          _?                           ?
 - .oF.     R     _KOONTZ Dean R.              Dark Web [Jane Hawk - 1] þ2017 The Silent Corner þTrad. DANCHIN Sebastian
@@ -454,6 +489,9 @@ o ARCHIPO   580  2019.09 ..... ISBN 978-2-377-35328-6
 o ARCHIPO   593  2019.xx ..... ISBN 978-2-37735-360-6
 } noimg          _?                           ?
 - .oF.     R     _HILL Susan                  La Dame en noir þ1983 The Woman in Black þTrad. MAILLET Isabelle
+!------------------------
+!=== 2020
+!------------------------
 o ARCHIPO   606  2020.02 ..... ISBN 978-2-37735-408-5
 } noimg          _?                           ?
 - .oF.     R     _KOONTZ Dean R.              La Chambre des murmures [Jane Hawk - 2] þ2017 The Whispering Room þTrad. DANCHIN Sebastian
@@ -478,6 +516,48 @@ o ARCHIPO   629  2020.08 ..... ISBN 978-2-37735-497-9
 } noimg          _?                           ?
 !--- Poche
 - .xB.     R     _CAINE Rachel                L'Ombre de la menace þ2017 Stillhouse Lake þTrad. DANCHIN Sebastian
+!------------------------
+!=== 2021
+!------------------------
+o ARCHIPO   653  2021.03 ..... ISBN 978-2-37735-474-0
+} noimg          _?                           ?
+!--- Poche - 108 x 178 - 340 pages
+- .oS.     R     _RENARD Maurice              Le Docteur Lerne þ1908
+o ARCHIPO   666  2021.02 ..... ISBN 978-2-37735-899-1
+} noimg          _?                           ?
+!--- Poche - 108 x 178 - 480 pages
+- .o .     R     _KOONTZ Dean R.              L'Escalier du diable [Jane Hawk - 3] þ2018 The Crooked Staircase þTrad. DANCHIN Sebastian
+o ARCHIPO   681  2021.06 ..... ISBN 978-2-37735-986-8
+} noimg          _?                           ?
+!--- Poche - 108x178 - 400 pages
+- .oS.     R     _WILSON Daniel H.            La Menace AndromŠde þ2019 The Andromeda Evolution þTrad. REGE Philippe
+o ARCHIPO   686  2021.07 ..... ISBN 978-2-37735-990-5
+} noimg          _?                           ?
+!--- Poche - 108x178 - 400 pages
+- .o .     R     _KOONTZ Dean R.              Les Yeux des t‚nŠbres þ1981 The Eyes of Darkness þTrad. LENCLUD Jacqueline + FILIPPINI Serge
+o ARCHIPO   694  2021.08 ..... ISBN 979-10-392-0016-5
+} noimg          _?                           ?
+!--- Poche - 108x178 - 448 pages
+- .oS.     R     _RENARD Maurice              Le P‚ril bleu þ1910
+o ARCHIPO   697  2021.09 ..... ISBN 978-2-37735-965-3
+} noimg          _?                           ?
+!--- Poche - 108x178 - 574 pages
+- .o .     R     _KOONTZ Dean R.              Chasse … mort þ1987 Watchers þTrad. CHATELAIN Evelyne
+!------------------------
+!=== 2022
+!------------------------
+o ARCHIPO   714  2022.02 ..... ISBN 979-10-392-0072-1
+} noimg          _?                           ?
+!--- Poche - 108x177 - 465 pages
+- .oF.     R     _KOONTZ Dean R.              La Porte interdite [Jane Hawk - 4] þ2018 The Forbiden Door þTrad. DANCHIN Sebastian
+o ARCHIPO   729  2022.05 ..... ISBN 978-2-37735-937-0
+} noimg          _?                           ?
+!--- GF - 108x177 - 432 pages
+- .oF.     R     _KOONTZ Dean R.              Intensit‚ þ1995 Intensity þTrad. GARENE MichŠle
+o ARCHIPO   747  2022.09 ..... ISBN 979-10-392-0200-8
+} noimg          _?                           ?
+!--- Poche - 108x178 - 480 pages
+- .oF.     R     _KOONTZ Dean R.              D‚votion þ2020 Devoted þTrad. GUILLEMAIN Antoine
 
 !-----------------------------------------------------------------------------
 !--- La BibliothŠque du collectionneur (cr‚‚ en 2011)
@@ -524,11 +604,12 @@ o ARCHPCO    37  2015.10 ..... ISBN 978-2-35287-780-6
 o ARCHPCL    40  2015.10 ..... ISBN 978-2-35287-780-6
 } archipochbdcl40 _?                           ?
 - .oF.    iNx    _MAUPASSANT Guy de           Le Horla et autres histoires ‚tranges þ2015
+: .o .     N     _MAUPASSANT Guy de           Le Horla (2iŠme version) þ1886-1887
 : .o .     N     _MAUPASSANT Guy de           La Main d'‚corch‚ þ1875
 : .o .     N     _MAUPASSANT Guy de           Sur l'eau þ1876
 o ARCHPCL    43  2015.11 ..... ISBN 978-2-35287-824-7
 } archipochbdcl43 _?                           ?
-- .oS.     R2    _VERNE Jules                 De la Terre … la Lune, suivi de Autour de la Lune þ1865
+- .oS.     R2    _VERNE Jules                 De la Terre … la Lune, suivi de Autour de la Lune þ2015
 : .o .     R     _VERNE Jules                 De la Terre … la Lune þ1865
 : .o .     R     _VERNE Jules                 Autour de la Lune þ1870
 o ARCHPCL    53  2017.11 ..... ISBN 978-2-37735-066-7
@@ -546,19 +627,27 @@ o ARCHPCL    56  2017.11 ..... ISBN 978-2-37735-046-9
 !-----------------------------------------------------------------------------
 o ARCHPCI     4  2015.12 ..... ISBN 978-2-35287-806-3
 } archipochbdclill04 _?                           ?
++ ARCHPCI     4  2022.11 ..... ISBN 979-10-392-0239-8
+} noimg          _?                           ?
+!--- GF - 784 pages
 - .oF.    iNx    _POE Edgar Allan             Edgar Allan Poe - L'int‚grale illustr‚e þ2015
 !--- Ce volume contient : Les Aventures d'Arthur Gordon Pym, l'int‚grale des contes et nouvelles (Histoires extraordinaires,
 !--- Nouvelles histoires extraordinaires, Histoires grotesques et s‚rieuses, Contes grotesques et autres contes),
 !--- la piŠce Politien et l'int‚grale des poŠmes, traduits par Baudelaire, Mallarm‚, etc.
-!--- + 34 illustrations de Harry Clarke, Arthur McCormick et Gustave Dor‚
-!--- + une chronologie d‚taill‚e
+!--- + 34 illustrations de Harry Clarke, Arthur McCormick et Gustave Dor‚ + une chronologie d‚taill‚e
 : .o .     p     _VEBRET Joseph               Pr‚face þ2015
-: .o .     R     _POE Edgar Allan             Les Aventures d'Arthur Gordon Pym de Nantucket [Arthur Gordon Pym] þ1838 The Narrative of Arthur Gordon Pym
+: .o .     R     _POE Edgar Allan             Les Aventures d'Arthur Gordon Pym de Nantucket [Arthur Gordon Pym] þ1838 The Narrative of Arthur Gordon Pym of Nantucket þTrad. BAUDELAIRE Charles
+
+: .oF.    iNx    _POE Edgar Allan             Histoires extraordinaires þ1840 Tales of Mystery and Imagination þTrad. BAUDELAIRE Charles
+: .oF.    iNx    _POE Edgar Allan             Nouvelles histoires extraordinaires þ1857 Tales of Mystery and Imagination þTrad. BAUDELAIRE Charles
+: .oF.    iNx    _POE Edgar Allan             Histoires grotesques et s‚rieuses þ1840 þTrad. BAUDELAIRE Charles
+: .C .     C     _POE Edgar Allan             Autres contes
+: .C .     C     _POE Edgar Allan             Th‚atre - PoŠsie - Essais
 o ARCHPCI     7  2017.11 ..... ISBN 978-2-37735-053-7
 } archipochbdclill07 _?                           ?
 - .oS.     R6    _VERNE Jules                 Voyages Extraordinaires þ2017
 : .o .     p     _VEBRET Joseph               Pr‚face þ2017
-: .o .     R     _VERNE Jules                 Voyage au centre de la Terre þ1864-1967
+: .o .     R     _VERNE Jules                 Voyage au centre de la Terre þ1864-1867
 : .o .     R     _VERNE Jules                 De la Terre … la Lune þ1865
 : .o .     R     _VERNE Jules                 Autour de la Lune þ1870
 : .o .     R     _VERNE Jules                 Vingt mille lieues sous les mers þ1870
@@ -572,8 +661,8 @@ o ARCHPCI     8  2017.xx ..... ISBN 978-2-37735-209-8
 : .! .     R     _LEROUX Gaston               Le Parfum de la dame en noir þ1908
 : .o .     R     _LEROUX Gaston               Le Fant“me de l'op‚ra þ1910
 : .! .     R     _LEROUX Gaston               Un homme dans la nuit þ1910
-: .o .     R     _LEROUX Gaston               La Poup‚e sanglante þ1923
-: .o .     R     _LEROUX Gaston               La Machine … assassiner þ1923
+: .o .     R     _LEROUX Gaston               La Poup‚e sanglante [La Poup‚e sanglante - 1] þ1923
+: .o .     R     _LEROUX Gaston               La Machine … assassiner [La Poup‚e sanglante - 2] þ1923
 o ARCHPCI     9  2018.xx ..... ISBN 978-2-37735-210-4
 } archipochbdclill09 _?                           ?
 !--- 768 pages - 29.95 euros
@@ -583,7 +672,7 @@ o ARCHPCI     9  2018.xx ..... ISBN 978-2-37735-210-4
 : .o .     R     _WELLS Herbert George        La Guerre des mondes þ1898 The War of the Worlds þTrad. ?
 : .o .     R     _WELLS Herbert George        L'Homme invisible þ1897 The Invisible Man þTrad. ?
 : .o .     N     _WELLS Herbert George        Une histoire des temps … venir þ1897 A Story of the Days to Come þTrad. ?
-: .o .     R     _WELLS Herbert George        Les Premiers Hommes dans la lune þ1901 The First Men in the Moon þTrad. ?
+: .o .     R     _WELLS Herbert George        Les Premiers Hommes dans la Lune þ1901 The First Men in the Moon þTrad. ?
 : .o .     R     _WELLS Herbert George        Miss Waters þ1901 The Sea Lady þTrad. ?
 : .o .     R     _WELLS Herbert George        Au temps de la comŠte þ1906 In the Days of the Comet þTrad. ?
 : .o .     R     _WELLS Herbert George        La Guerre dans les airs þ1908 The War in the Air þTrad. ?

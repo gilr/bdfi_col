@@ -3,36 +3,42 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ AM_BAE  Albin Michel, Coll. "La bibliothäque amusante pour la jeunesse"
-_ AM_LBA  Albin Michel, Coll. "Les Belles Aventures"
-_ AM_MLE  Albin Michel, Coll. des Maåtres de la LittÇrature Etrangäre
-_ AM_ML2  Albin Michel, Coll. des Maåtres de la LittÇrature Etrangäre, Nouvelle SÇrie
+_ AM_BAE  Albin Michel - La bibliothäque amusante pour la jeunesse
+_ AM_LBA  Albin Michel - Les Belles Aventures
+_ AM_MLE  Albin Michel - Collection des Maåtres de la LittÇrature Etrangäre
+_ AM_ML2  Albin Michel - Collection des Maåtres de la LittÇrature Etrangäre - Nouvelle SÇrie
 _ AM      Albin Michel
-_ AM_num  Albin Michel (numÇrique)
-_ AM_MBH  Albin Michel, Coll. Mes Belles Histoires
-_ AM_B    Albin Michel, Coll. "Blàme" (GdF)
-_ AM_F    Albin Michel, Coll. "SpÇcial Fantastique" (GdF) ˛1987
-_ AM_FR   Albin Michel, Coll. "Romans Franáais"
-_ AM_S    Albin Michel, Coll. "SpÇcial Suspense" (GdF)
-_ AM_T    Albin Michel, Coll. "Les grandes traductions" (GdF)
-_ AM_BAM  Albin Michel, Coll. "Bibliothäque Albin Michel"
-_ AM_RMO  Albin Michel, Coll. "Le roman de mer et d'Outremer"
-_ AM_GER  Albin Michel Jeunesse
-_ AM_IMA  Albin Michel, Coll. Imaginaire
-_ AM_VERS Ed. Albin Michel & Ed. Versilio
+_ AM_TEA  Albin Michel - Terres d'AmÇrique
+_ AM_AM   Albin Michel - #AM
+_ AM_num  Albin Michel [numÇrique]
+_ AM_MBH  Albin Michel - Mes Belles Histoires
+_ AM_B    Albin Michel - Blàme
+_ AM_F    Albin Michel - SpÇcial Fantastique ˛1987
+_ AM_FR   Albin Michel - Romans Franáais
+_ AM_S    Albin Michel - SpÇcial Suspense
+_ AM_T    Albin Michel - Les grandes traductions
+_ AM_BAM  Albin Michel - Bibliothäque Albin Michel
+_ AM_RMO  Albin Michel - Le roman de mer et d'Outremer
+_ AM_GER  Albin Michel - Albin Michel Jeunesse - Geronimo Stilton
+_ AM_VERS Albin Michel & Versilio
+!-----------------------------------------------------------------------------
+! AMS     Albin Michel - Super-fiction --> am_supf.col
+! AMSP    Albin Michel - Super+fiction --> am_suppf.col
+! AM_ED   Albin Michel - EpÇes et Dragons --> am_ed.col
+! AM_IMA  Albin Michel - Imaginaire ---> am_imag.col
 !-----------------------------------------------------------------------------
 
 
-
 !-----------------------------------------------------------------------------
-_ AMTMSM  <b>in</b> Albin Michel, Le tour du monde en sous-marin, n¯ 1 Ö 99
+_ AMTMSM  Albin Michel
 !-----------------------------------------------------------------------------
-o AMTMSM      ?  1925.xx ..... ISBN -
-} noimg          _?                           ?
-- .oS.     R     _GALOPIN Arnould             Le Tour du monde en sous-marin ˛1925
 !--- fascicule format quasi A4 - 6 pages
 !--- sans date imprimÇe (au moins les 33 premiers)
 !-----------------------------------------------------------------------------
+o AMTMSM      ?  1925.xx ..... ISBN -
+} noimg          _?                           ?
+>--- SERIAL : n¯ 1 Ö 99
+- .oS.     R     _GALOPIN Arnould             Le Tour du monde en sous-marin ˛1925
 
 !-----------------------------------------------------------------------------
 !--- MBH : vers 1922-1925...
@@ -58,6 +64,7 @@ o AM          ?  1926.xx ..... ISBN -
 - .o .     R     _FEVAL Paul                  Une histoire de revenants [Le Livre des mystäres - 1] ˛1852
 o AM          ?  1926.xx ..... ISBN -
 } noimg          _?                           ?
+!--- 185 pages - 20 cm
 - .o .     R     _FEVAL Paul                  L'Homme sans bras [Le Livre des mystäres - 2] ˛1852
 
 o AM_RMO      4  1922.xx ..... ISBN -
@@ -65,24 +72,47 @@ o AM_RMO      4  1922.xx ..... ISBN -
 - .oS.     R     _TOUDOUZE Georges-G.         Les Compagnons de l'iceberg en feu ˛1922
 
 !-----------------------------------------------------------------------------
-!--- Albin Michel, "La bibliothäque amusante pour la jeunesse"
+!--- Albin Michel - La bibliothäque amusante pour la jeunesse
 !-----------------------------------------------------------------------------
 o AM_BAE      ?  1930.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _GAIL O. W.                  Un voyage dans la Lune ˛1928 Hans Hardts Mondfahrt: Eines abenteuerliche Erzahlung ˛Trad. DES PERIERS Claude
 
 !-----------------------------------------------------------------------------
-!-- Michel, Coll. des Maåtres de la LittÇrature Etrangäre
+!--- Michel - Des Maåtres de la LittÇrature Etrangäre
 !-----------------------------------------------------------------------------
+o AM_MLE      ?  1925.02 ..... ISBN -
+} am_brechemonstre _?                           ?
+!--- 19 cm - 249 pages - 7,50 francs
+!--- VÇrification : The Arthur Conan Doyle Encyclopedia
+- .pF.    kN9    _DOYLE Arthur Conan          La Bräche au monstre ˛1925
+: .oF.     N     _DOYLE Arthur Conan          La Bräche au monstre ˛1910 The Terror of Blue John Gap ˛Trad. LABAT Louis
+: .o .     N     _DOYLE Arthur Conan          Le Miroir d'argent ˛1908 The Silver Mirror ˛Trad. LABAT Louis
+: .o .     N     _DOYLE Arthur Conan          Fortune de mer [Le Capitaine Sharkey] ˛1911 The Blighting of Sharkey ˛Trad. LABAT Louis
+: .! .     N     _DOYLE Arthur Conan          Le Champion de Lady Falconbridge ˛1909 The Lord of Falconbridge ˛Trad. LABAT Louis
+: .! .     N     _DOYLE Arthur Conan          Danger ! ˛1914 Danger! ˛Trad. LABAT Louis
+: .! .     N     _DOYLE Arthur Conan          La DÇfense du capitaine ˛1916 The Prisoner's Defence ˛Trad. LABAT Louis
+: .o .     N     _DOYLE Arthur Conan          Une heure bien remplie ˛1911 One Crowded Hour ˛Trad. LABAT Louis
+: .oF.     N     _DOYLE Arthur Conan          Du fond de l'abåme ˛1892 De Profundis ˛Trad. LABAT Louis
+: .oF.     N     _DOYLE Arthur Conan          L'Horreur des altitudes ˛1913 The Horror of the Heights ˛Trad. LABAT Louis
 o AM_MLE      ?  1926.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _WELLS Herbert George        M. Barnstaple chez les hommes-dieux ˛1923 Men Like Gods ˛Trad. LABAT Louis
+o AM_ML2      ?  1930.11 ..... ISBN -
+} am_villegouffre _?                           ?
+!--- 19 cm - 277 pages - 15 francs
+!--- VÇrification : The Arthur Conan Doyle Encyclopedia
+- .oS.    kRN3   _DOYLE Arthur Conan          La Ville du gouffre ˛1930
+: .o .     R     _DOYLE Arthur Conan          La Ville du gouffre ˛1928 The Maracot Deep ˛Trad. LABAT Louis
+: .o .     N     _DOYLE Arthur Conan          Le Moteur Brown-Pericord ˛1905 The Great Brown-Pericord Motor ˛Trad. LABAT Louis
+: .o .     N     _DOYLE Arthur Conan          La Machine Ö dÇsintÇgrer [Le Professeur Challenger] ˛1928 The Disintegration Machine ˛Trad. LABAT Louis
+: .o .     N     _DOYLE Arthur Conan          L'Homme qui fit hurler le monde [Le Professeur Challenger] ˛1928 When the World Screamed ˛Trad. LABAT Louis
 o AM_ML2      ?  1935.07 ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _KENDALL John                Demain, peut-àtre... - Roman possible des temps futurs ˛1933 Unborn To-Morrow ˛Trad. H-MEYER Marlyse
 
 !-----------------------------------------------------------------------------
-!--- Albin Michel, Coll. "Les Belles Aventures"
+!--- Albin Michel - Les Belles Aventures
 !-----------------------------------------------------------------------------
 o AM_LBA      ?  1931.xx ..... ISBN -
 } noimg          _?                           ?
@@ -96,7 +126,7 @@ o AM_LBA      ?  1941.xx ..... ISBN -
 } noimg          _?                           ?
 + AM_LBA      ?  1945.06 ..... ISBN -
 } noimg          _?                           ?
-+ AM_LBA      ?  1948.xx ..... ISBN -
++ am_LBA      ?  1948.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _ROSNY JEUNE J.-H.           L'ênigme du "Redoutable" ˛1930
 o AM_LBA      ?  1942.xx ..... ISBN -
@@ -111,13 +141,6 @@ o AM_LBA      ?  1949.xx ..... ISBN -
 o AM_LBA      ?  1949.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _DEL PICCHIA Menotti         La RÇpublique 3000 ˛1930 A rep£blica 3000 / A Filha do Inca ˛Trad. GAHISTO Manoâl
-
-!-----------------------------------------------------------------------------
-_ AM_LAND <b>in</b> Ed. Albin Michel, Coll. Madeleine Landier
-!-----------------------------------------------------------------------------
-o AM_LAND     ?  1933.07 ..... ISBN -
-} noimg          _?                           N
-- .oS.     N     _BERNARD Jean-Jacques        New Chicago ˛1930
 
 !-----------------------------------------------------------------------------
 !--- Blàme - Courte collection de romans fantastiques
@@ -138,34 +161,36 @@ o AM_B        ?  1990.05 ..... ISBN 2-226-04804-9
 } ambleme05      _CHABRY Jean-Louis           N
 - .oF.     R     _KOONTZ Dean R.              Le Temps paralysÇ ˛1988 Lightning ˛Trad. CHATELAIN Evelyne
 o AM_B        ?  1990.06 ..... ISBN 2-226-04803-0
-} ambleme06      _BOTTALICO Yves              N
-- .oTF    kN5    _BARKER Clive                Confessions d'un linceul [Livres de sang - 3] ˛1984 Books of Blood III ˛Trad. DEVAUX-MINIE HÇläne
-: .o .     N     _BARKER Clive                L'Enfant de celluloãd ˛1984 Son of Celluloid
-: .o .     r     _BARKER Clive                Rawhead Rex ˛1984 Rawhead Rex
-: .o .     N     _BARKER Clive                Confessions d'un linceul (de pornographe) ˛1984 Confessions of a (Pornographer's) Shroud
-: .o .     N     _BARKER Clive                Les Boucs Çmissaires ˛1984 Scape-Goats
-: .o .     r     _BARKER Clive                DÇbris humains ˛1984 Human Remains
+} ambleme06      _Yves Bottalico              ?
+!--- GF - 
+- .oFT    kN5    _BARKER Clive                Confessions d'un linceul [Livres de sang - 3] ˛1984 Books of Blood III ˛Trad. DEVAUX-MINIE HÇläne
+: .o .     N     _BARKER Clive                L'Enfant de celluloãd ˛1984 Son of Celluloid ˛Trad. DEVAUX-MINIE HÇläne
+: .o .     r     _BARKER Clive                Rawhead Rex ˛1984 Rawhead Rex ˛Trad. DEVAUX-MINIE HÇläne
+: .o .     N     _BARKER Clive                Confessions d'un linceul (de pornographe) ˛1984 Confessions of a (Pornographer's) Shroud ˛Trad. DEVAUX-MINIE HÇläne
+: .o .     N     _BARKER Clive                Les Boucs Çmissaires ˛1984 Scape-Goats ˛Trad. DEVAUX-MINIE HÇläne
+: .o .     r     _BARKER Clive                DÇbris humains ˛1984 Human Remains ˛Trad. DEVAUX-MINIE HÇläne
 o AM_B        ?  1991.01 ..... ISBN 2-226-05224-0
 } ambleme07      _THIMMONIER Didier           N
 - .oF.     R     _HERBERT James               L'Empire des rats [Les Rats - 3] ˛1984 Domain ˛Trad. BENSOUSSAN Nicole
 o AM_B        ?  1991.02 R.... ISBN 2-226-05230-5
-} ambleme08      _LIBERATORE Tanino           N
-- .oTF    kN5    _BARKER Clive                Apocalypses [Livres de sang - 4] ˛1985 Books of Blood IV ˛Trad. DEVAUX-MINIE HÇläne
+} ambleme08      _Tanino Liberatore           ?
+!--- GF - 
 !--- titre US : The inhuman condition
-: .o .     N     _BARKER Clive                Le Corps politique ˛1985 The Body Politic
-: .o .     N     _BARKER Clive                La Condition inhumaine ˛1985 The Inhuman Condition
-: .o .     r     _BARKER Clive                Apocalypse ˛1985 Revelations
-: .o .     N     _BARKER Clive                Retro Satanas ˛1985 Down, Satan!
-: .o .     r     _BARKER Clive                Le Siäcle du dÇsir ˛1985 The Age of Desire
+- .oFT    kN5    _BARKER Clive                Apocalypses [Livres de sang - 4] ˛1985 Books of Blood IV ˛Trad. DEVAUX-MINIE HÇläne
+: .o .     N     _BARKER Clive                Le Corps politique ˛1985 The Body Politic ˛Trad. DEVAUX-MINIE HÇläne
+: .o .     N     _BARKER Clive                La Condition inhumaine ˛1985 The Inhuman Condition ˛Trad. DEVAUX-MINIE HÇläne
+: .o .     r     _BARKER Clive                Apocalypse ˛1985 Revelations ˛Trad. DEVAUX-MINIE HÇläne
+: .o .     N     _BARKER Clive                Retro Satanas ˛1985 Down, Satan! ˛Trad. DEVAUX-MINIE HÇläne
+: .o .     r     _BARKER Clive                Le Siäcle du dÇsir ˛1985 The Age of Desire ˛Trad. DEVAUX-MINIE HÇläne
 o AM_B        ?  1991.05 R.... ISBN 2-226-05389-1
-} ambleme09      _LIBERATORE Tanino           N
-- .oTF    _N4    _BARKER Clive                Prison de chair [Livres de sang - 5] ˛1985 Books of Blood V ˛Trad. BREQUE Jean-Daniel
-!--- TBC VO "Clive Barker's Book of Blood 5"
+} ambleme09      _Tanino Liberatore           ?
+!--- GF - 
 !--- titre US : In the flesh
-: .oT.     N     _BARKER Clive                Lieux interdits ˛1985 The Forbidden ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _BARKER Clive                La Madone ˛1986 The Madonna ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _BARKER Clive                Les Enfants de Babel ˛1985 Babel's Children ˛Trad. BREQUE Jean-Daniel
-: .oT.     r     _BARKER Clive                Prison de chair ˛1985 In the Flesh ˛Trad. BREQUE Jean-Daniel
+- .oFT    _N4    _BARKER Clive                Prison de chair [Livres de sang - 5] ˛1985 Books of Blood V ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _BARKER Clive                Lieux interdits ˛1985 The Forbidden ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _BARKER Clive                La Madone ˛1985 The Madonna ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _BARKER Clive                Les Enfants de Babel ˛1985 Babel's Children ˛Trad. BREQUE Jean-Daniel
+: .o .     r     _BARKER Clive                Prison de chair ˛1985 In the Flesh ˛Trad. BREQUE Jean-Daniel
 o AM_B        ?  1991.09 ..... ISBN 2-226-05535-5
 } ambleme10      _MATTOTI                     N
 - .oF.     R     _CARROLL Jonathan            Flammes d'enfer ˛1988 Sleeping in Flame ˛Trad. CHATELAIN Evelyne & DUMAS Marie-HÇläne
@@ -174,8 +199,9 @@ o AM_B        ?  1991.09 ..... ISBN 2-226-05535-5
 !--- SpÇcial Suspense / SpÇcial Fantastique
 !-----------------------------------------------------------------------------
 o AM_F        ?  1987.09 R.... ISBN 2-226-03136-7
-}am_livre_sang   _Frank Limido                N  
-- .oTF    kN6    _BARKER Clive                Livre de sang [Livres de sang - 1] ˛1984 Book of Blood ˛Trad. BREQUE Jean-Daniel
+} am_livre_sang  _Frank Limido                N  
+!--- GF - 
+- .oFT    kN6    _BARKER Clive                Livre de sang [Livres de sang - 1] ˛1984 Book of Blood ˛Trad. BREQUE Jean-Daniel
 : .o .     N     _BARKER Clive                Le Livre de sang ˛1984 The Book of Blood
 : .o .     N     _BARKER Clive                Le Train de l'abattoir ˛1984 The Midnight Meat Train
 : .o .     N     _BARKER Clive                Jack et le Cacophone ˛1984 The Yattering and Jack
@@ -183,14 +209,15 @@ o AM_F        ?  1987.09 R.... ISBN 2-226-03136-7
 : .o .     N     _BARKER Clive                Les Feux de la rampe ˛1984 Sex, Death and Starshine
 : .o .     N     _BARKER Clive                Dans les collines, les citÇs ˛1984 In the Hills, the Cities
 o AM_F        ?  1988.09 ..... ISBN 2-226-03097-2
-}amspefant2      _Frank Limido                N  
+} amspefant2     _Frank Limido                N  
 - .o .     R     _HERBERT James               Pierre de Lune ˛1985 Moon ˛Trad. CHATELAIN Evelyne
 o AM_F        ?  1988.01 ..... ISBN 2-226-03133-2
-}amspefant3      _RHIMONIER Didier            N  
+} amspefant3     _RHIMONIER Didier            N  
 - .oF.     R     _RICE Anne                   Lestat le vampire [Chroniques des vampires - 2] ˛1985 The Vampire Lestat ˛Trad. VIERNE BÇatrice
 o AM_F        ?  1988.09 R.... ISBN 2-226-03476-5
-}am_livre_sang2  _Frank Limido                N  
-- .oTF    kN5    _BARKER Clive                Une course d'enfer [Livres de sang - 2] ˛1984 Books of Blood II ˛Trad. DILL Dominique
+} am_livre_sang2 _Frank Limido                N  
+!--- GF - 
+- .oFT    kN5    _BARKER Clive                Une course d'enfer [Livres de sang - 2] ˛1984 Books of Blood II ˛Trad. DILL Dominique
 : .o .     N     _BARKER Clive                Terreur ˛1984 Dread
 : .o .     N     _BARKER Clive                Une course d'enfer ˛1984 Hell's Event
 : .o .     N     _BARKER Clive                Le Testament de Jacqueline Ess ˛1984 Jacqueline Ess: Her Will and Testament ˛Trad. DILL Dominique
@@ -201,58 +228,56 @@ o AM_F        ?  1988.09 R.... ISBN 2-226-03476-5
 !--- SpÇcial Suspense
 !-----------------------------------------------------------------------------
 o AM_S        ?  1982.xx ..... ISBN 2-226-01487-X
-}amspesus01      _?                           ?
+} amspesus01     _?                           ?
 - .o .     R     _KING Stephen                Cujo ˛1981 Cujo ˛Trad. ZIMMERMANN Natalie
 o AM_S        ?  1984.xx ..... ISBN 2-226-02156-6
-}amspesus02      _Frank Limido                ?
+} amspesus02     _Frank Limido                ?
 - .o .     R     _KING Stephen                Charlie ˛1980 Firestarter ˛Trad. LENNOX F.M.
-o AM_S        ?  1987.xx ..... ISBN .-.....-...-.
+o AM_S        ?  1987.xx ..... ISBN 2-226-02860-9
 } noimg          _?                           ?
 - .o .     R     _COUSIN Philippe             Le Pacte PrÇtorius ˛1987
 o AM_S        ?  1987.01 ..... ISBN 2-226-08535-9
-}amspesus03      _Frank Limido                ?
+} amspesus03     _Frank Limido                ?
 - .o .     R     _BACHMAN Richard             La Peau sur les os ˛1984 Thinner ˛Trad. LASQUIN Franáois
 o AM_S        ?  1987.xx ..... ISBN 2-226-03018-2
-}amspesus04      _Didier Thimonnier           ?
+} amspesus04     _Didier Thimonnier           ?
 - .x .     R     _BACHMAN Richard             Chantier ˛1981 Roadwork ˛Trad. STRASCHITZ Frank
 o AM_S        ?  1988.xx ..... ISBN 2-226-03308-4
-}amspesus05      _BRAUTIGAM Don               ?
+} amspesus05     _BRAUTIGAM Don               ?
 - .o .     R     _KOONTZ Dean R.              Chasse Ö mort ˛1987 Watchers ˛Trad. CHATELAIN Evelyne
 o AM_S        ?  1988.xx ..... ISBN 2-226-03544-3
-}amspesus06      _BRAUTIGAM Don               ?
+} amspesus06     _BRAUTIGAM Don               ?
 - .o .     R     _KOONTZ Dean R.              Les êtrangers ˛1986 Strangers ˛Trad. GUIOD Jacques
 o AM_S        ?  1988.xx ..... ISBN 2-226-03090-5
-}amspesus07      _?                           ?
+} amspesus07     _?                           ?
 - .o .     R     _BARKER Clive                Le Jeu de la damnation ˛1985 Damnation Game ˛Trad. BREQUE Jean-Daniel
 o AM_S        ?  1990.xx ..... ISBN 2-226-04951-7
-}amspesus08      _Didier Charon               ?
+} amspesus08     _Didier Charon               ?
 - .x .     R     _BACHMAN Richard             Rage ˛1977 Rage ˛Trad. CHATELAIN Evelyne
-!--- DÇsirs inavouables, DEVON Gary (cf bdfi, forum am)
+o AM_S        ?  1991.xx ..... ISBN 2-226-05421-9
+} amspesus09     _?                           ?
+- .xB.     R     _DEVON Gary                  DÇsirs inavouables ˛1990 Bad Desire ˛Trad. WATKINS France-Marie
 o AM_S        ?  1992.xx ..... ISBN 2-226-05706-4
-}amspesus10      _?                           ?
+} amspesus10     _?                           ?
 - .o .     R     _STRIEBER Whitley            Billy ˛1990 Billy ˛Trad. WATTWILLER Dominique
 o AM_S        ?  1994.xx ..... ISBN 2-226-06458-3
-}amspesus11      _Frank Limido                ?
+} amspesus11     _Frank Limido                ?
 - .o .     R     _STRIEBER Whitley            Feu d'enfer ˛1992 Unholy Fire ˛Trad. WATTWILLER Dominique
-!--- Nuit de noces, DEVON Gary (cf bdfi, forum am)
-!--- Mort sur catalogue, GALLAGUER Stephen (id)
+o AM_S        ?  1994.xx ..... ISBN 2-226-08599-8
+} amspesus12     _?                           ?
+- .xP.     R     _DEVON Gary                  Nuit de noces ˛1995 Wedding Night ˛Trad. LAHANA Jacqueline
+o AM_S        ?  1994.xx ..... ISBN 2-226-09270-6
+} amspesus13     _?                           ?
+- .xB.     R     _GALLAGHER Stephen           Mort sur catalogue ˛1995 Red, Red Robin ˛Trad. DEFOSSE Alain
 o AM_S        ?  1998.xx ..... ISBN 2-226-10688-X
-}amspesus14      _?                           ?
+} amspesus14     _?                           ?
 - .o .     R     _BACHMAN Richard             Marche ou cräve ˛1979 The Long Walk ˛Trad. WATKINS France-Marie
-!--- VÇritÇ, JAMES Peter (cf bdfi, forum am)
-
-!--- puis voir forum http://forums.bdfi.net/viewtopic.php?pid=47174#p47174
+o AM_S        ?  1999.xx ..... ISBN 2-226-10902-1
+} amspesus14     _?                           ?
+- .oTF     R     _JAMES Peter                 VÇritÇ ˛1997 The Truth ˛Trad. LASQUIN Franáois
 
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
-o AM          ?  1979.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     E     _ASH Brian                   EncyclopÇdie visuelle de la science-fiction ˛1977 The Encyclopedia of Science-fiction
-!--- complÇtÇ par les titres franáais, plus des addendas sur la SF franáaise (fandom, revues, romans)
-: .o .     a     _ALDISS Brian W.             Histoires futures et alternatives ˛1977 Future and Alternative Histories
-
-!--- ?    Stephen King              Creepshow
-
 o AM          ?  1919.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _LA FOUCHARDIERE Georges de  L'Affaire peau-de-balle ˛1910
@@ -292,10 +317,11 @@ o AM          ?  1930.xx ..... ISBN -
 !--- rÇÇdition en 1985, puis en 1991 (Biblothäque Albin Michel)
 } noimg          _?                           ?
 - .o .     R     _PERUTZ Leo                  Le Marquis de Bolibar ˛1920 Der marques de Bolibar
-?o AM          ?  1934.xx ..... ISBN -
-?!--- TBD genre
-?} noimg          _?                           ?
-?- .o .     R     _PERUTZ Leo                  A la dÇrive ˛?
+o AM          ?  1933.07 ..... ISBN -
+} noimg          _?                           N
+!--- 248 pages - in-12
+- .x .     R     _BERNARD Jean-Jacques        Madeleine Landier ˛1933
+: .oS.     N     _BERNARD Jean-Jacques        New Chicago ˛1930
 o AM          ?  1934.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _ROGER Noâlle                Le Nouveau Lazare ˛1933
@@ -325,6 +351,69 @@ o AM          ?  1952.xx ..... ISBN -
 + AM          ?  1994.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _VERCORS                     Les Animaux dÇnaturÇs ˛1952
+o AM          ?  1955.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 223 pages - in-16 - 420 fr
+!--- Sommaire 1955 (le sommaire est en page 221)
+- .oF.     N14   _SCHNEIDER Marcel            Aux couleurs de la nuit ˛1955
+: .o .  11 N     _SCHNEIDER Marcel            De la race du dÇluge ˛1955
+: .o .  23 N     _SCHNEIDER Marcel            Les Sapins toujours verts ˛1955
+: .o .  37 N     _SCHNEIDER Marcel            La Seconde Vue ˛1955
+: .o .  71 N     _SCHNEIDER Marcel            Le Bourreau de Colmar ˛1955
+: .o .  77 N     _SCHNEIDER Marcel            L'Impossible Portrait ˛1955
+: .o .  89 N     _SCHNEIDER Marcel            La Tour de Noâl ˛1955
+: .o . 103 N     _SCHNEIDER Marcel            Les Cheveux d'eau ˛1955
+: .o . 121 N     _SCHNEIDER Marcel            Le Pantalon garance ˛1955
+: .o . 151 N     _SCHNEIDER Marcel            L'Inconstant ˛1955
+: .o . 159 N     _SCHNEIDER Marcel            Les Émes des morts ˛1955
+: .o . 181 N     _SCHNEIDER Marcel            Le Bigoudi rose ˛1955
+: .o . 187 N     _SCHNEIDER Marcel            Judith ˛1955
+: .o . 197 N     _SCHNEIDER Marcel            Le Mannequin noir ˛1955
+: .o . 207 N     _SCHNEIDER Marcel            Le Coeur-Mystäre ˛1955
+o AM          ?  1996.04 ..... ISBN 2-226-08574-2
+} noimg          _?                           ?
+!--- 272 pages - 130 x 200 cm - 120 francs
+!--- Çdition revue et augmentÇe par l'auteur
+!--- La version 1996 diffäre de la version 1955, avec des reprises d'autres volumes, comme "Dans la grotte aux coquillages", ainsi que "Le Tombeau d'Arminius"
+- .oF.    iN14   _SCHNEIDER Marcel            Aux couleurs de la nuit ˛1955-1996
+: .o .     N     _SCHNEIDER Marcel            De la race du dÇluge ˛1955
+: .o .     N     _SCHNEIDER Marcel            Les Sapins toujours verts ˛1955
+: .o .     N     _SCHNEIDER Marcel            La Tour de Noâl ˛1955
+: .o .     N     _SCHNEIDER Marcel            Les Cheveux d'eau ˛1955
+: .o .     N     _SCHNEIDER Marcel            L'Inconstant ˛1955
+: .o .     N     _SCHNEIDER Marcel            Le Mannequin noir ˛1955
+: .o .     N     _SCHNEIDER Marcel            Le Coeur-Mystäre ˛1955
+: .o .     N     _SCHNEIDER Marcel            Dans la grotte aux coquillages ˛1961
+: .o .     N     _SCHNEIDER Marcel            Le Tombeau d'Arminius ˛1961
+: .o .     N     _SCHNEIDER Marcel            Le Bigoudi rose ˛1955
+: .o .     N     _SCHNEIDER Marcel            Le Cardinal de Virginie ˛1961
+o AM          ?  1955.xx ..... ISBN -
+} am_fh_fv       _?                           ?
+!--- 291 pages - in-8 - 21 cm
+- .oF.    iNx    _HELLENS Franz               Fantìmes vivants ˛1944-1955
+: .o .     N     _HELLENS Franz               Ma jeunesse et moi ˛1944
+: .o .     N     _HELLENS Franz               Le Päre et la Fille ˛1944
+: .o .     N     _HELLENS Franz               La Femme et l'homme ˛1944
+: .o .     N     _HELLENS Franz               Le Solitaire ˛1944
+: .oF.     N     _HELLENS Franz               Ce lourd silence de pierre ˛1941
+o AM          ?  1958.05 ..... ISBN -
+} noimg          _?                           ?
+!--- 319 pages - 19 cm
+- .pF.     N14   _BRION Marcel                La Chanson de l'oiseau Çtranger et autres contes ˛1958
+: .? .     N     _BRION Marcel                La Chanson de l'oiseau Çtranger ˛1958
+: .o .     N     _BRION Marcel                La Corne de corail ˛1943
+: .? .     N     _BRION Marcel                Alpage des anges ˛1958
+: .? .     N     _BRION Marcel                La Chambre de verdure ˛1958
+: .? .     N     _BRION Marcel                Les Marionnettes de Lorimer White ˛1958
+: .o .     N     _BRION Marcel                Les Statues ˛1947
+: .o .     N     _BRION Marcel                Le Carnaval d'Orvieto ˛1945
+: .? .     N     _BRION Marcel                Le Cavalier Çtrusque ˛1958
+: .o .     N     _BRION Marcel                Sibilla van Loon ˛1936
+: .? .     N     _BRION Marcel                Faux-bois ˛1958
+: .? .     N     _BRION Marcel                Monte Caballo ˛1945
+: .? .     N     _BRION Marcel                Les Rennes ˛1941
+: .o .     N     _BRION Marcel                La Robe bleue ˛1941
+: .? .     N     _BRION Marcel                La Fenàtre ˛1958
 o AM          ?  1958.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     N3    _ALBERES RenÇ-Marill         L'Autre Planäte ˛1958
@@ -335,11 +424,12 @@ o AM          ?  1958.xx ..... ISBN -
 o AM          ?  1960.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _BRION Marcel                La Ville de sable ˛?
-o AM          ?  1959.xx ..... ISBN -
+o AM          ?  1960.xx ..... ISBN -
 } noimg          _?                           ?
+!--- GF - 
 + AM_T       19  1984.xx ..... ISBN 2-226-02169-8
 } noimg          _?                           ?
-- .pF.     N12   _JAMES Henry                 Le Dernier des Valerii ˛1959
+- .pF.     N12   _JAMES Henry                 Le Dernier des Valerii ˛1960
 !--- PrÇface de Marcel Brion
 : .o .     N     _JAMES Henry                 Le Roman de quelques vieilles robes ˛1868 The Romance of Certain Old Clothes ˛Trad. SERVICEN Louise
 : .! .     N     _JAMES Henry                 Une liasse de lettres ˛1881 A Bundle of Letter ˛Trad. SERVICEN Louise
@@ -356,6 +446,14 @@ o AM          ?  1959.xx ..... ISBN -
 o AM          ?  1961.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _VON BRAUN Wernher           Les Premiers Hommes sur la Lune ˛1960 First Men in the Moon ˛Trad. IMBERT Catherine
+o AM          ?  1961.09 ..... ISBN -
+} noimg          _?                           ?
+- .oF.     N5    _SCHNEIDER Marcel            Le Cardinal de Virginie ˛1961
+: .oF.     N     _SCHNEIDER Marcel            Le Cardinal de Virginie ˛1961
+: .o .     N     _SCHNEIDER Marcel            Le Bourreau de Colmar ˛1955
+: .o .     N     _SCHNEIDER Marcel            Le Colombe de Cagliostro ˛1961
+: .o .     N     _SCHNEIDER Marcel            Le Tombeau d'Arminius ˛1961
+: .o .     N     _SCHNEIDER Marcel            Dans la grotte aux coquillages ˛1961
 o AM          ?  1962.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _ARNOUX Alexandre            Le Siäge de Syracuse ˛1962
@@ -364,7 +462,7 @@ o AM          ?  1966.09 ..... ISBN -
 - .oF.    iNx    _ALCORTA Gloria              L'Hìtel de la Lune et autres impostures ˛1957 El hotel de la luna y otras imposturas ˛Trad. COUFFON Claude
 ?: .o .     p     _CASSOU Jean                PrÇface ˛1966
 o AM          ?  1966.xx ..... ISBN -
-}hamelink_regne  _?                           N
+} hamelink_regne _?                           N
 - .o .    _N6    _HAMELINK Jacques            Le Rägne vÇgÇtal ˛1964 Hiet Plantaaring Bewind ˛Trad. BUYSSE Maddy
 : .o .     N     _HAMELINK Jacques            Un orage interrompu ˛1964 Een Opgehouden Onweer
 : .o .     N     _HAMELINK Jacques            Holocauste un dimanche ˛1964 Brandoffer op Zondag
@@ -382,15 +480,17 @@ o AM          ?  1968.xx ..... ISBN -
 - .xE.     R     _SHECKLEY Robert             L'Espion du dimanche ˛1965 The Game of X ˛Trad. CARCANO Josiane & BORGET Michel
 o AM          ?  1970.03 ..... ISBN -
 } noimg          _?                           ?
-- .oF.    iN6    _HAMELINK Jacques            Horror vacui ˛1966 Horror vacui ˛Trad. BUYSSE Maddy
+!--- 189 pages
+!--- 6 nouvelles, le titre de fr la troisiäme est inconnu
+?: .o .     N     _HAMELINK Jacques            ? ˛1966 De Vijand ˛Trad. BUYSSE Maddy
+- .oF.    iNx    _HAMELINK Jacques            Horror vacui ˛1966 Horror vacui ˛Trad. BUYSSE Maddy
 : .o .     N     _HAMELINK Jacques            Une lune en catalepsie ˛1966 Een schijndode maan ˛Trad. BUYSSE Maddy
 : .o .     N     _HAMELINK Jacques            Horror vacui ˛1966 Horror vacui ˛Trad. BUYSSE Maddy
-?: .o .     N     _HAMELINK Jacques            ? ˛1966 De Vijand ˛Trad. BUYSSE Maddy
 : .o .     N     _HAMELINK Jacques            Un grand chat blanc comme neige ˛1966 Een grote spierwitte kat ˛Trad. BUYSSE Maddy
 : .o .     N     _HAMELINK Jacques            Une Çponge dans la circulation du sang ˛1966 Spons in de bloedsomloop ˛Trad. BUYSSE Maddy
 : .o .     N     _HAMELINK Jacques            Spaldarg ˛1966 Spaldarg ˛Trad. BUYSSE Maddy
 
-o AM          ?  1973.xx ..... ISBN .-.....-...-.
+o AM          ?  1973.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     E     _SADOUL Jacques              Histoire de la science fiction moderne ˛1973
 
@@ -411,20 +511,24 @@ o AM          ?  1971.xx ..... ISBN -
 !------------------------
 o AM          ?  1972.01 ..... ISBN -
 } amft1972-1     _?                           ?
-- .oF.    kN13   _LANGELAAN George            Treize fantìmes - RÇcits ˛1972
-: .o .     N     _LANGELAAN George            La Femme de pierre ˛1972
-: .o .     N     _LANGELAAN George            La Dame blanche de la riviäre ˛1972
-: .o .     N     _LANGELAAN George            La Bague au doigt ˛1972
-: .o .     N     _LANGELAAN George            Le Prisonnier de la tour ˛1972
-: .o .     N     _LANGELAAN George            Les Chaussons qui dansent ˛1972
-: .o .     N     _LANGELAAN George            L'Homme en gris ˛1972
-: .o .     N     _LANGELAAN George            La Maison des volets fermÇs ˛1972
-: .o .     N     _LANGELAAN George            Le Duel ˛1972
-: .oF.     N     _LANGELAAN George            La Sorciäre du moulin ˛1971
-: .o .     N     _LANGELAAN George            La Maison de la mer ˛1972
-: .o .     N     _LANGELAAN George            L'Enfant seule ˛1972
-: .o .     N     _LANGELAAN George            Le Voleur de grand chemin ˛1972
-: .o .     N     _LANGELAAN George            L'Ordalie ˛1972
+!--- GF - 22 cm - 348 pages
+!--- VÇrification : Gallica
+>--- Dans le sommaire, le titre de chaque nouvelle est prÇcÇdÇ de son numÇro, depuis "Premier fantìme" jusqu'Ö "Treiziäme fantìme".
+- .oF.    =N13   _LANGELAAN George            Treize fantìmes - RÇcits ˛1972
+: .o .  15 p     _LANGELAAN George            PrÇface ˛1972
+: .o .  19 N     _LANGELAAN George            La Femme de pierre ˛1972
+: .o .  39 N     _LANGELAAN George            La Dame blanche de la riviäre ˛1972
+: .o .  65 N     _LANGELAAN George            La Bague au doigt ˛1972
+: .o .  83 N     _LANGELAAN George            Le Prisonnier de la tour ˛1972
+: .o . 103 N     _LANGELAAN George            Les Chaussons qui dansent ˛1972
+: .o . 133 N     _LANGELAAN George            L'Homme en gris ˛1972
+: .o . 159 N     _LANGELAAN George            La Maison des volets fermÇs ˛1972
+: .o . 189 N     _LANGELAAN George            Le Duel ˛1972
+: .oF. 211 N     _LANGELAAN George            La Sorciäre du moulin ˛1971
+: .o . 239 N     _LANGELAAN George            La Maison de la mer ˛1972
+: .o . 257 N     _LANGELAAN George            L'Enfant seule ˛1972
+: .o . 273 N     _LANGELAAN George            Le Voleur de grand chemin ˛1972
+: .o . 297 N     _LANGELAAN George            L'Ordalie ˛1972
 !------------------------
 !=== 1973
 !------------------------
@@ -437,18 +541,18 @@ o AM          ?  1973.xx ..... ISBN -
 !------------------------
 !=== 1974
 !------------------------
-o AM          ?  1974.xx ..... ISBN -
-} amsf1974-1     _?                           ?
-- .oS.     R     _LEVIN Ira                   Les Femmes de Stepford ˛1972 The Stepford Wives ˛Trad. GRITZ Norman & PRIGENT Tanette
 o AM          ?  1974.xx ..... ISBN 2-226-00016-X
 } amft1974-1     _?                           ?
 - .oF.     R     _MARASCO Robert              Notre vÇnÇrÇe chÇrie ˛1973 Burnt Offerings ˛Trad. LATOUR Robert
-o AM          ?  1974.xx ..... ISBN -
+o AM          ?  1974.xx ..... ISBN 2-226-00017-8
 } amft1974-2     _?                           ?
 - .oF.     R     _MATHESON Richard            La Maison des damnÇs ˛1971 Hell House ˛Trad. REUMAUX Patrick
-o AM          ?  1974.xx ..... ISBN .-.....-...-.
+o AM_T        ?  1974.xx ..... ISBN 2-226-00073-9
 } noimg          _?                           ?
 - .o .     R     _TRYON Thomas                La Fàte du maãs ˛1973 Harvest Home ˛Trad. DAVIDOVICI Mireille
+o AM          ?  1974.xx ..... ISBN 2-226-00106-9
+} amsf1974-1     _?                           ?
+- .oS.     R     _LEVIN Ira                   Les Femmes de Stepford ˛1972 The Stepford Wives ˛Trad. GRITZ Norman & PRIGENT Tanette
 !------------------------
 !=== 1975
 !------------------------
@@ -466,7 +570,8 @@ o AM_T        ?  1976.xx ..... ISBN 2-226-00330-4
 - .o .     R     _PLATONOV Andrei             La Mer de jouvence ˛[1935],1986 Iouvenil' noãe more (More iounisti) ˛Trad. EPELBOIN Annie
 o AM          ?  1976.xx ..... ISBN 2-226-00402-5
 } amsf1976-2     _POPP Walter
-- .o .     R     _LOVELACE D.W.               King Kong ˛1932 King Kong ˛Trad. LATOUR Robert
+!--- Il s'agit bien d'une novelisation, basÇe sur le scÇnario, màme si publiÇ quelques mois avant la sortie du film.
+- .o .     F     _LOVELACE D.W.               King Kong ˛1932 King Kong ˛Trad. LATOUR Robert
 !------------------------
 !=== 1977
 !------------------------
@@ -483,8 +588,13 @@ o AM          ?  1978.04 ..... ISBN 2-226-00625-7
 !------------------------
 o AM          ?  1979.01 ..... ISBN 2-226-00750-4
 } amft1979-1     _?                           ?
-!--- rÇÇdition 1992 peut-àtre... màme ISBN
+!--- GF - 207 pages
 - .oF.    iNx    _TOESCA Maurice              Histoires surnaturelles ˛1979
+o AM          ?  1979.xx ..... ISBN 2-226-00691-5
+} noimg          _?                           ?
+- .o .     E     _ASH Brian                   EncyclopÇdie visuelle de la science-fiction ˛1977 The Encyclopedia of Science-fiction
+!--- complÇtÇ par les titres franáais, plus des addendas sur la SF franáaise (fandom, revues, romans)
+: .o .     a     _ALDISS Brian W.             Histoires futures et alternatives ˛1977 Future and Alternative Histories
 !------------------------
 !=== 1982
 !------------------------
@@ -518,7 +628,7 @@ o AM          ?  1984.xx ..... ISBN .-.....-...-.
 o AM          ?  1985.10 ..... ISBN 2-226-02484-2
 } amft85-1       _Gerry Grace                 ?
 - .o .     R     _KING Stephen                Simetierre ˛1983 Pet Sematary ˛Trad. LASQUIN Franáois
-o AM          ?  1985.xx ..... ISBN .-.....-...-.
+o AM          ?  1985.xx ..... ISBN 2-226-01961-8
 } noimg          _?                           ?
 - .x .     R     _PARIS Alain                 Impact ˛1985
 o AM          ?  1985.xx ..... ISBN .-.....-...-.
@@ -527,30 +637,31 @@ o AM          ?  1985.xx ..... ISBN .-.....-...-.
 !------------------------
 !=== 1986
 !------------------------
-o AM          ?  1986.05 ..... ISBN 2-226-02671-1
-}am_diff_saisons _Didier Thimmonier           N  
-- .oFT    kr4    _KING Stephen                DiffÇrentes saisons ˛1982 Different Seasons ˛Trad. ALIEN Pierre
-!--- Postface : KING Stephen
-: .o .     r     _KING Stephen                Rita Hayworth et la rÇdemption de Shawshank ˛1982 Rita Hayworth and Shawshank Redemption
-: .o .     r     _KING Stephen                Un Çläve douÇ ˛1982 Apt Pupil
-: .o .     r     _KING Stephen                Le Corps ˛1982 The Body
-: .o .     r     _KING Stephen                La MÇthode respiratoire ˛1982 The Breathing Method
+o AM          ?  1986.04 ..... ISBN 2-226-02671-1
+} am_diff_saisons _Didier Thimmonier           N  
+!--- GF - 145x225 - 529 pages
+- .pF.    kr4    _KING Stephen                DiffÇrentes saisons ˛1982 Different Seasons ˛Trad. ALIEN Pierre
+: .x .     r     _KING Stephen                Rita Hayworth et la rÇdemption de Shawshank ˛1982 Rita Hayworth and Shawshank Redemption ˛Trad. ALIEN Pierre
+: .x .     R     _KING Stephen                Un Çläve douÇ ˛1982 Apt Pupil ˛Trad. ALIEN Pierre
+: .x .     R     _KING Stephen                Le Corps ˛1982 The Body ˛Trad. ALIEN Pierre
+: .o .     r     _KING Stephen                La MÇthode respiratoire ˛1982 The Breathing Method ˛Trad. ALIEN Pierre
+: .o .     o     _KING Stephen                Postface ˛1986 Afterword ˛Trad. ALIEN Pierre
 o AM          ?  1995.xx ..... ISBN 2-226-07778-2
 } amft1986_1r95  _?                           N  
-- .oFT    kr4    _KING Stephen                Les ÇvadÇs - DiffÇrentes saisons ((DiffÇrentes saisons)) ˛1982 Different Seasons ˛Trad. ALIEN Pierre
-!--- Postface : KING Stephen
-: .o .     r     _KING Stephen                Rita Hayworth et la rÇdemption de Shawshank ˛1982 Rita Hayworth and Shawshank Redemption
-: .o .     r     _KING Stephen                Un Çläve douÇ ˛1982 Apt Pupil
-: .o .     r     _KING Stephen                Le Corps ˛1982 The Body
-: .o .     r     _KING Stephen                La MÇthode respiratoire ˛1982 The Breathing Method
+- .pF.    kr4    _KING Stephen                Les ÇvadÇs - DiffÇrentes saisons ((DiffÇrentes saisons)) ˛1982 Different Seasons ˛Trad. ALIEN Pierre
+: .x .     r     _KING Stephen                Rita Hayworth et la rÇdemption de Shawshank ˛1982 Rita Hayworth and Shawshank Redemption ˛Trad. ALIEN Pierre
+: .x .     R     _KING Stephen                Un Çläve douÇ ˛1982 Apt Pupil ˛Trad. ALIEN Pierre
+: .x .     R     _KING Stephen                Le Corps ˛1982 The Body ˛Trad. ALIEN Pierre
+: .o .     r     _KING Stephen                La MÇthode respiratoire ˛1982 The Breathing Method ˛Trad. ALIEN Pierre
+: .o .     o     _KING Stephen                Postface ˛1986 Afterword ˛Trad. ALIEN Pierre
 o AM          ?  1996.01 ..... ISBN 2-226-10040-7
-}am_eleve_doue   _?                           N  
-- .oFT    kr4    _KING Stephen                Un Çläve douÇ - DiffÇrentes saisons ((DiffÇrentes saisons)) ˛1982 Different Seasons ˛Trad. ALIEN Pierre
-!--- Postface : KING Stephen
-: .o .     r     _KING Stephen                Rita Hayworth et la rÇdemption de Shawshank ˛1982 Rita Hayworth and Shawshank Redemption
-: .o .     r     _KING Stephen                Un Çläve douÇ ˛1982 Apt Pupil
-: .o .     r     _KING Stephen                Le Corps ˛1982 The Body
-: .o .     r     _KING Stephen                La MÇthode respiratoire ˛1982 The Breathing Method
+} am_eleve_doue  _?                           N  
+- .pF.    kr4    _KING Stephen                Un Çläve douÇ - DiffÇrentes saisons ((DiffÇrentes saisons)) ˛1982 Different Seasons ˛Trad. ALIEN Pierre
+: .x .     r     _KING Stephen                Rita Hayworth et la rÇdemption de Shawshank ˛1982 Rita Hayworth and Shawshank Redemption ˛Trad. ALIEN Pierre
+: .x .     R     _KING Stephen                Un Çläve douÇ ˛1982 Apt Pupil ˛Trad. ALIEN Pierre
+: .x .     R     _KING Stephen                Le Corps ˛1982 The Body ˛Trad. ALIEN Pierre
+: .o .     r     _KING Stephen                La MÇthode respiratoire ˛1982 The Breathing Method ˛Trad. ALIEN Pierre
+: .o .     o     _KING Stephen                Postface ˛1986 Afterword ˛Trad. ALIEN Pierre
 o AM          ?  1986.03 ..... ISBN 2-226-02127-2
 } noimg          _Berni Wrighson              Berni Wrightson
 + AM          ?  2012.11 ..... ISBN 978-2-226-24512-0
@@ -568,8 +679,29 @@ o AM          ?  1986.xx ..... ISBN 2-226-02708-4
 o AM          ?  1987.04 ..... ISBN 2-226-02697-5
 } noimg          _?                           ?
 - .o .     R     _CAUVIN Patrick              PovchÇri ˛1987
+o AM          ?  1987.05 ..... ISBN 2-226-02992-3
+} noimg          _?                           ?
+!--- 252 pages - 13 x 20 cm
+!--- Sommaire choisi par l'auteur mais publiÇ de faáon posthume
+- .pF.     N14   _BRION Marcel                Les Ailleurs du temps ˛1987
+: .o .     p     _L. B.                       Introduction ˛1987
+: .o .     N     _BRION Marcel                Le Brouillard ˛1987
+: .? .     N     _BRION Marcel                Le Nain Samuel ˛1987
+: .o .     N     _BRION Marcel                Le Mariage de Lady Belle de Clare ˛1941
+: .o .     N     _BRION Marcel                Le Tableau ˛1987
+: .o .     N     _BRION Marcel                Les Intrus ˛1987
+: .? .     N     _BRION Marcel                Doloräs : une histoire de cigarettes ˛1987
+: .? .     N     _BRION Marcel                Les TubÇreuses ˛1987
+: .o .     N     _BRION Marcel                RÇception dans un jardin ˛1987
+: .o .     N     _BRION Marcel                Le Virtuoso du labyrinthe ˛1987
+: .? .     N     _BRION Marcel                Une horloge ˛1987
+: .o .     N     _BRION Marcel                Caprice chinois ˛1987
+: .? .     N     _BRION Marcel                Le Vieux Chalet ˛1987
+: .? .     N     _BRION Marcel                Ce pays qui n'est pas de maintenant ˛1987
+: .? .     N     _BRION Marcel                Leáons d'abåme ˛1987
 o AM          ?  1987.10 ..... ISBN 2-226-03141-3
 } am_brume       _?                           N  
+!--- GF - 145x225 - 643 pages
 - .oFT    kN22   _KING Stephen                Brume ˛1985 Skeleton Crew ˛Trad. PRESSE Michäle et QUADRUPPANI Serge
 : .o .     r     _KING Stephen                Brume ˛1980 The Mist
 : .o .     N     _KING Stephen                En ce lieu, des tigres ˛1968 The Night of the Tiger
@@ -577,7 +709,7 @@ o AM          ?  1987.10 ..... ISBN 2-226-03141-3
 : .o .     N     _KING Stephen                La RÇvolte de Caãn ˛1968 Cain Rose Up
 : .o .     N     _KING Stephen                Le Raccourci de Mme Todd ˛1984 Mrs. Todd Shortcuts
 : .o .     N     _KING Stephen                L'Excursion ˛1981 The Jaunt
-: .o .     N     _KING Stephen                Le Gala de noce ˛1980 The Wedding Gig
+: .x .     N     _KING Stephen                Le Gala de noce ˛1980 The Wedding Gig
 : .o .     N     _KING Stephen                Paranoãa : une mÇlopÇe ˛1985 Paranoid: A Chant
 : .o .     N     _KING Stephen                Le Radeau ˛1982 The Raft
 : .o .     N     _KING Stephen                Machine divine Ö traitement de texte ˛1983 Word Processor of the Gods
@@ -597,38 +729,34 @@ o AM          ?  1987.10 ..... ISBN 2-226-03141-3
 !=== 1988
 !------------------------
 o AM          ?  1988.xx ..... ISBN 2-226-02708-4
-}amsf1988-1      _Didier Thimmonier           ?
+} amsf1988-1     _Didier Thimmonier           ?
 - .o .     F     _DREW Wayland                Willow ˛1988 Willow ˛Trad. DAMOUR Anne
-o AM          ?  1988.xx ..... ISBN .-.....-...-.
+o AM          ?  1988.xx ..... ISBN 2-226-03455-2
 } noimg          _?                           ?
 - .o .     R     _CURTIS Jack                 Le Parlement des corbeaux ˛1987 Crows' Parliament ˛Trad. CASARIL Guy
 o AM          ?  1988.04 ..... ISBN 2-226-03381-5
-}amft1988-1      _Didier Thimmonier           ?
+} amft1988-1     _Didier Thimmonier           ?
 - .o .     R     _KING Stephen                Running man ˛1982 The Running Man ˛Trad. STRASCHITZ Frank
 o AM          ?  1988.11 ..... ISBN 2-226-03454-4
-}amft1988-2      _Bob Giusti                  ?
+} amft1988-2     _Bob Giusti                  ?
 - .o .     R     _KING Stephen                Ca - Tome 1 ˛1986 It ˛Trad. DESMOND Wiliam Olivier
 o AM          ?  1988.11 ..... ISBN 2-226-03453-6
-}amft1988-3      _Bob Giusti                  ?
+} amft1988-3     _Bob Giusti                  ?
 - .o .     R     _KING Stephen                Ca - Tome 2 ˛1986 It ˛Trad. DESMOND Wiliam Olivier
-o AM          ?  1988.xx ..... ISBN .-.....-...-.
-!--- AM_F ?
-} noimg          _?                           ?
-- .o .     R     _RICE Anne                   Entretien avec un vampire [Chroniques des vampires - 1] ˛1976 Interview With the Vampire
-o AM          ?  1988.xx ..... ISBN .-.....-...-.
-!--- AM_F ?
+o AM          ?  1988.xx ..... ISBN 2-226-03133-2
 } noimg          _?                           ?
 + AM          ?  2009.10 ..... ISBN 978-2-226-19408-4
 } noimg          _?                           ?
 - .oF.     R     _RICE Anne                   Lestat le vampire [Chroniques des vampires - 2] ˛1985 The Vampire Lestat ˛Trad. VIERNE BÇatrice
 o AM_T        ?  1988.xx ..... ISBN 2-226-03267-3
-}amperutz88      _?                           ?
-- .oF.    kN9    _PERUTZ Leo                  Seigneur, ayez pitiÇ de moi ! ˛1930 Herr, erbarme Dich meiner ! ˛Trad. RICCARDI Ghislain
+} amperutz88     _?                           ?
+!--- GF - 
 !--- Nouvelles de 1907 Ö 1929
+- .oF.    kN9    _PERUTZ Leo                  Seigneur, ayez pitiÇ de moi ! ˛1930 Herr, erbarme Dich meiner ! ˛Trad. RICCARDI Ghislain
 : .o .     N     _PERUTZ Leo                  Seigneur, ayez pitiÇ de moi ! ˛1930 Herr, erbarme Dich meiner !
 : .o .     N     _PERUTZ Leo                  Mardi 12 octobre 1916 ˛? Dienstag, 12 Oktober 1916
 : .o .     N     _PERUTZ Leo                  La Naissance de l'AntÇchrist ˛1921 Die geburt des Antichrist
-: .o .     N     _PERUTZ Leo                  La Lune rit ˛1914 Der mond lacht
+: .o .     N     _PERUTZ Leo                  La Lune rit ˛1914 Der Mond lacht
 : .o .     N     _PERUTZ Leo                  L'Auberge A la bombarde ˛? Das gasthaus zur KartÑtsche
 : .o .     N     _PERUTZ Leo                  Une simple pression sur le bouton ˛? Nur ein druck auf den knopf
 : .o .     N     _PERUTZ Leo                  Le Jour sans soir ˛? Der tag ohne abend
@@ -642,39 +770,40 @@ o AM_T        ?  1988.xx ..... ISBN 2-226-03267-3
 !------------------------
 !=== 1989
 !------------------------
-o AM_BAM     26  1989.xx ..... ISBN 2-226-03547_8
+o AM_BAM     26  1989.04 ..... ISBN 2-226-03547-8
 } noimg          _?                           ?
-- .oF.    _N11   _BRION Marcel                Contes fantastiques ˛?
-: .o .     N     _BRION Marcel                La Corne de corail ˛1958
+!--- Poche - 110 x 180 mm - 256 pages
+- .oF.    _N11   _BRION Marcel                Contes fantastiques ((Contes fantastiques de Marcel Brion)) ˛1989
+: .o .     N     _BRION Marcel                La Corne de corail ˛1943
 : .o .     N     _BRION Marcel                Les Statues ˛1947
 : .o .     N     _BRION Marcel                Sibilla van Loon ˛1936
-: .o .     N     _BRION Marcel                La Robe bleue ˛1958
+: .o .     N     _BRION Marcel                La Robe bleue ˛1941
 : .o .     N     _BRION Marcel                Le Brouillard ˛1987
-: .o .     N     _BRION Marcel                Le Mariage de Lady Belle de Clare ˛1987
+: .o .     N     _BRION Marcel                Le Mariage de Lady Belle de Clare ˛1941
 : .o .     N     _BRION Marcel                Le Tableau ˛1987
 : .o .     N     _BRION Marcel                Les Intrus ˛1987
 : .o .     N     _BRION Marcel                RÇception dans un jardin ˛1987
 : .o .     N     _BRION Marcel                Le Virtuoso du labyrinthe ˛1987
 : .o .     N     _BRION Marcel                Caprice chinois ˛1987
 o AM          ?  1989.xx ..... ISBN 2-226-03660-1
-}amft1989-1      _Didier Thimmonier           ?
+} amft1989-1     _Didier Thimmonier           ?
 - .oF.     R     _BARKER Clive                Le Royaume des devins ˛1987 Weaveworld ˛Trad. BREQUE Jean-Daniel
 o AM          ?  1989.05 ..... ISBN 2-226-03673-3
-}amft1989-2      _Bob Giusti                  ?
+} amft1989-2     _Bob Giusti                  ?
 + AM          ?  1991.xx ..... ISBN 2-226-03673-3
 } noimg          _Bob Giusti                  ?
 - .o .     R     _KING Stephen                Misery ˛1987 Misery ˛Trad. DESMOND Wiliam Olivier
 o AM          ?  1989.xx ..... ISBN 2-226-03397-1
-}amsf1989-2      _WHELAN Michael              ?
+} amsf1989-2     _WHELAN Michael              ?
 + AM          ?  1989.xx ..... ISBN ?
-}amsf1989-2r     _?                           ?
+} amsf1989-2r     _?                           ?
 - .oF.     R     _SAINT Harry F.              MÇmoires d'un homme invisible ˛1987 Memoirs of an Invisible Man ˛Trad. ALIEN Pierre
 o AM          ?  1990.01 ..... ISBN 2-226-03926-0
-}amft1990-1      _?                           ?
+} amft1990-1     _?                           ?
 - .o .     R     _KING Stephen                Les Tommyknockers ˛1987 The Tommyknockers ˛Trad. DILL Dominique
 o AM          ?  1989.xx ..... ISBN 2-226-03652-0
-}amsf1989-1      _?                           ?
-- .oS.     R     _CLARKE Arthur C.            2061 : odyssÇe trois [L'OdyssÇe de l'espace - 3] ˛1988 2061 : Odyssey Three ˛Trad. WATKINS France-Marie
+} amsf1989-1     _?                           ?
+- .oS.     R     _CLARKE Arthur C.            2061 : odyssÇe trois [L'OdyssÇe de l'espace - 3] ˛1988 2061: Odyssey Three ˛Trad. WATKINS France-Marie
 !------------------------
 !=== 1990
 !------------------------
@@ -684,16 +813,17 @@ o AM          ?  1990.xx ..... ISBN 2-226-04077-3
 } noimg          _FANELLI Sara                ?
 - .o .     R     _COLLODI Carlo               Pinocchio ˛1881 Le avventure di Pinocchio ˛Trad. GENCE Comtesse de
 o AM          ?  1990.xx ..... ISBN 2-226-04824-3
-}amft1990-2      _?                           ?
+} amft1990-2     _?                           ?
 - .oT.     R     _HARRIS Thomas               Le Silence des agneaux [Hannibal Lecter - 2] ˛1988 The Silence of the Lambs ˛Trad. LEBAILLY Monique
 o AM          ?  1990.xx ..... ISBN 2-226-03947-3
-}amsf1990-1      _?                           ?
+} amsf1990-1     _?                           ?
 - .oT.     R     _LESSING Doris               Le Cinquiäme Enfant [Le Cinquiäme Enfant - 1] ˛1988 The Fifth Child ˛Trad. VERON Marianne
 o AM          ?  1990.10 ..... ISBN 2-226-04902-9
-}amft1990-3      _?                           ?
+} amft1990-3     _?                           ?
 - .o .     R     _KING Stephen                La Part des tÇnäbres ˛1989 The Dark Half ˛Trad. DESMOND William Olivier
-o AM          ?  1990.xx ..... ISBN 2-226-04952-5
-}am_hist_diabol  _?                           N  
+o AM          ?  1990.11 ..... ISBN 2-226-04952-5
+} am_hist_diabol _?                           N  
+!--- GF - 23 cm - 410 pages
 - .oF.    _A13   *WINTER Douglas E.           13 histoires diaboliques ˛1988 Prime Evil ˛Trad. BREQUE Jean-Daniel
 : .oF.     N     _KING Stephen                L'Oiseau de nuit ˛1988 The Night Flyer
 : .oF.     N     _HAZEL Paul                  Une femme pour dÇjeuner ˛1988 Having a Woman at Lunch
@@ -702,7 +832,7 @@ o AM          ?  1990.xx ..... ISBN 2-226-04952-5
 : .oF.     N     _TESSIER Thomas              Provende ˛1988 Food
 : .oF.     N     _HARRISON M. John            Le Grand Dieu Pan ˛1988 The Great God Pan
 : .oF.     N     _MORRELL David               Orange pour l'angoisse, bleu pour la folie ˛1988 Orange Is for Anguish, Blue for Insanity
-: .oF.     N     _STRAUB Peter                Le GenÇvrier ˛1988 The Juniper Tree
+: .oF.     N     _STRAUB Peter                Le GenÇvrier [Blue Rose] ˛1988 The Juniper Tree
 : .oF.     N     _GRANT Charles L.            Contes et lÇgendes des morts ˛1988 Spinning Tales With the Dead
 : .oF.     N     _LIGOTTI Thomas              La Derniäre Aventure d'Alice ˛1988 Alice's Last Adventure
 : .oF.     N     _CAMPBELL J. Ramsey          La prochaine fois, vous me reconnaåtrez ˛1988 Next Time You'll Know Me
@@ -712,87 +842,90 @@ o AM          ?  1990.xx ..... ISBN 2-226-04952-5
 !=== 1991
 !------------------------
 o AM          ?  1991.xx ..... ISBN 2-226-05588-6
-}amft1991-3      _?                           ?
+} amft1991-3     _?                           ?
 - .o .     R     _BARKER Clive                Secret Show ˛1989 The Great and Secret Show ˛Trad. BREQUE Jean-Daniel
 o AM          ?  1991.07 ..... ISBN 2-226-05398-0
-}am_minuit2      _?                           N  
-- .oT.    kr2    _KING Stephen                Minuit 2 ˛1990 Four Past Midnight ˛Trad. DESMOND William Olivier
-: .oT.     r     _KING Stephen                Les Langoliers ˛1990 The Langoliers
-: .oT.     r     _KING Stephen                Vue imprenable sur jardin secret ˛1990 Secret Window, Secret Garden
+} am_minuit2     _Rob Wood                    ?
+!--- GF - 155x240 - 448 pages
+- .oFT    kr2    _KING Stephen                Minuit 2 ˛1990 Four Past Midnight ˛Trad. DESMOND William Olivier
+: .o .     r     _KING Stephen                Les Langoliers ˛1990 The Langoliers
+: .o .     r     _KING Stephen                Vue imprenable sur jardin secret ˛1990 Secret Window, Secret Garden
 o AM          ?  2004.04 ..... ISBN 2-226-15930-X
-}am_minuit2_r04  _?                           N  
-- .oT.    kr2    _KING Stephen                Minuit 2 - Fenàtre secräte ˛1990 Four Past Midnight ˛Trad. DESMOND William Olivier
-: .oT.     r     _KING Stephen                Les Langoliers ˛1990 The Langoliers
-: .oT.     r     _KING Stephen                Vue imprenable sur jardin secret / Fenàtre secräte ˛1990 Secret Window, Secret Garden
+} am_minuit2_r04 _?                           N  
+- .oFT    kr2    _KING Stephen                Minuit 2 - Fenàtre secräte ˛1990 Four Past Midnight ˛Trad. DESMOND William Olivier
+: .o .     r     _KING Stephen                Les Langoliers ˛1990 The Langoliers
+: .o .     r     _KING Stephen                Vue imprenable sur jardin secret / Fenàtre secräte ˛1990 Secret Window, Secret Garden
 o AM          ?  1991.xx ..... ISBN 2-226-05384-0
-}amft1991-2      _LANDI Michel                ?
+} amft1991-2     _LANDI Michel                ?
 - .o .     R     _QUENOT Katherine E.         Blanc comme la nuit ˛1991
 o AM          ?  1991.xx ..... ISBN 2-226-05256-9
-}amft1991-1      _BRAUTIGAM Don               ?
+} amft1991-1     _BRAUTIGAM Don               ?
 - .o .     R     _KOONTZ Dean R.              Midnight ˛1989 Midnight ˛Trad. DESMOND William
 o AM          ?  1991.xx ..... ISBN 2-226-05257-7
-}amsf1991-1      _BRAUTIGAM Don               ?
+} amsf1991-1     _BRAUTIGAM Don               ?
 - .oS.     R     _WERBER Bernard              Les Fourmis [Les Fourmis - 1] ˛1991
 o AM          ?  1991.12 ..... ISBN 2-226-05646-7
-}am_minuit4      _?                           N  
-- .oT.    kr2    _KING Stephen                Minuit 4 ˛1990 Four Past Midnight ˛Trad. DESMOND William Olivier
+} am_minuit4     _Rob Wood                    ?
+!--- GF - 155x240 - 442 pages
+- .oFT    kr2    _KING Stephen                Minuit 4 ˛1990 Four Past Midnight ˛Trad. DESMOND William Olivier
 : .o .     r     _KING Stephen                Le Policier des bibliothäques ˛1990 The Library Policeman
 : .o .     r     _KING Stephen                Le Molosse surgi du soleil ˛1990 The Sun Dog
 !------------------------
 !=== 1992
 !------------------------
 o AM          ?  1992.xx ..... ISBN 2-226-05886-9
-}amft1992-1      _BRAUTIGAM Don               ?
+} amft1992-1     _BRAUTIGAM Don               ?
 - .o .     R     _KOONTZ Dean R.              La Maison interdite ˛1990 The Bad Place ˛Trad. BREQUE Jean-Daniel
 o AM          ?  1992.11 ..... ISBN 2-226-05947-4
-}amft1992-2      _Tom Radom & Neil Stuart & Rob Wood
+} amft1992-2     _Tom Radom & Neil Stuart & Rob Wood
 - .o .     R     _KING Stephen                Bazaar ˛1991 Needful Things ˛Trad. DESMOND William Olivier
 o AM          ?  1992.xx ..... ISBN 2-226-04821-9
 } noimg          _?                           ?
 - .o .     R     _BURKHOLZ Herbert            Les Sensitifs [Les Sensitifs - 1] ˛1987 The Sensitives ˛Trad. STASCHITZ Frank
-o AM          ?  1992.xx ..... ISBN .-.....-...-.
+o AM          ?  1992.xx ..... ISBN 2-226-05828-1
 } noimg          _?                           GURNEY James
-- .o .     R     _GURNEY James                Dinotopia - L'åle aux dinosaures [Dinotopia] ˛1992 Dinotopia: A Land Apart from Time
 !--- Ecrit et illustrÇ par James Gurney (porfolios et courts romans)
+- .o .     R     _GURNEY James                Dinotopia - L'åle aux dinosaures [Dinotopia] ˛1992 Dinotopia: A Land Apart from Time ˛Adapt. Atelier PREVOST Lauriot
 o AM          ?  1992.xx ..... ISBN 2-226-06118-5
-}amsf1992-1      _FURBY Carole                ?
+} amsf1992-1     _FURBY Carole                ?
 - .o .     R     _WERBER Bernard              Le Jour des fourmis [Les Fourmis - 2] ˛1992
-o AM          ?  1992.xx ..... ISBN 2-226-05881-8
-!--- AM_F ?
-}am_livre_sang6  _?                           N  
-- .oTF    _N5    _BARKER Clive                La Mort, sa vie, son oeuvre [Livres de sang - 6] ˛1986 Books of Blood VI ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _BARKER Clive                La Mort, sa vie, son oeuvre ˛1985 The Life of Death
-: .oT.     N     _BARKER Clive                Le Sang des exploiteurs ˛1985 How Spoilers Bleed
-: .oT.     N     _BARKER Clive                Entre chien et loups ˛1985 Twilight at the Towers
-: .oT.     r     _BARKER Clive                La Derniäre Illusion ˛1985 The Last Illusion
-: .oT.     N     _BARKER Clive                Le Livre de sang (Çpilogue) : Jerusalem Street ˛1985 The Book of Blood (a Postscript) : on Jerusalem Street
+o AM          ?  1992.05 ..... ISBN 2-226-05881-8
+} am_livre_sang6 _Frank Limido                ?
+- .oFT    _N5    _BARKER Clive                La Mort, sa vie, son oeuvre [Livres de sang - 6] ˛1986 Books of Blood VI ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _BARKER Clive                La Mort, sa vie, son oeuvre ˛1985 The Life of Death
+: .o .     N     _BARKER Clive                Le Sang des exploiteurs ˛1985 How Spoilers Bleed
+: .o .     N     _BARKER Clive                Entre chien et loups ˛1985 Twilight at the Towers
+: .o .     r     _BARKER Clive                La Derniäre Illusion ˛1985 The Last Illusion
+: .o .     N     _BARKER Clive                Le Livre de sang (Çpilogue) : Jerusalem Street ˛1985 The Book of Blood (a Postscript) : on Jerusalem Street
 !------------------------
 !=== 1993
 !------------------------
 o AM          ?  1993.xx ..... ISBN 2-226-06222-X
-}amft1993-1      _FURBY Carole                ?
+} amft1993-1     _FURBY Carole                ?
 - .oF.     R     _QUENOT Katherine E.         Rien que des sorciäres ˛1993
 o AM          ?  1993.xx ..... ISBN 2-226-06202-5
-}amft1993-2      _(c)GERBER Studio            ?
+} amft1993-2     _(c)GERBER Studio            ?
 - .o .     R     _McCAMMON Robert             Le Mystäre du lac ˛1991 Boy's Life ˛Trad. CARN StÇphane
 o AM          ?  1993.04 ..... ISBN 2-226-06340-4
-}amft1993-3      _Rob Wood                    ?
+} amft1993-3     _Rob Wood                    ?
 - .o .     R     _KING Stephen                Jessie ˛1992 Gerald's Game ˛Trad. PERRIN Isabelle et Mimi
 o AM          ?  1993.xx ..... ISBN 2-226-06270-X
-}amft1993-4      _BRAUTIGAM Don               ?
+} amft1993-4     _BRAUTIGAM Don               ?
 - .o .     R     _KOONTZ Dean R.              Fiävre de glace ˛1991 Cold Fire ˛Trad. PAGEL Michel
 o AM          ?  1993.xx ..... ISBN 2-226-06500-8
-}amft1993-5      _GARRIDO Hector              ?
+} amft1993-5     _GARRIDO Hector              ?
 - .o .     R     _SIMMONS Dan                 Nuit d'ÇtÇ ˛1991 Summer of Night
 o AM          ?  1993.10 ..... ISBN 2-226-06604-7
-}amft1993-6      _Rob Wood                    ?
+} amft1993-6     _Rob Wood                    ?
 + AM          ?  1995.xx ..... ISBN 2-226-06604-7
-}amft1993-6r95   _(c)Affiche du film          ?
+} amft1993-6r95  _(c)Affiche du film          ?
 - .o .     R     _KING Stephen                Dolores Claiborne ˛1993 Dolores Claiborne ˛Trad. DILL Dominique
 o AM          ?  1993.12 ..... ISBN 2-226-06728-0
 } noimg          _?                           ?
-?: .oF.     N     _BAY AndrÇ                   Amor ˛1947
-- .pF.     N3    _BAY AndrÇ                   Amor ˛1993
+- .pF.    kN3    _BAY AndrÇ                   Amor ˛1993
+: .! .     r     _BAY AndrÇ                   Oó sont nos amoureuses ? ˛1945
+: .! .     r     _BAY AndrÇ                   Lettres Ö quelques-unes ˛1964
+: .oF.     N     _BAY AndrÇ                   Amor ou la vie en ràves ˛1947
 o AM          ?  1993.05 ..... ISBN 2-226-06366-8
 } noimg          _?                           ?
 - .oFT    kA13   _McGRATH Patrick             Le Triomphe de l'ivrogne et autres contes gothiques ˛1988 Blood and Water and Other Tales
@@ -809,55 +942,57 @@ o AM          ?  1993.05 ..... ISBN 2-226-06366-8
 : .o .     N     _McGRATH Patrick             Le RÇcit de la bottine ˛1988 The Boot's Tale
 : .o .     N     _McGRATH Patrick             Pourriture et voluptÇ ˛1988 The E(rot)ic Potato
 : .o .     N     _McGRATH Patrick             Sang et eau ˛1988 Blood and Water
-o AM          ?  1993.xx R.... ISBN 2-226-06225-4
+o AM          ?  1993.02 R.... ISBN 2-226-06225-4
 } amft1993-7     _?                           ?
-- .oT.    _A22   *SLUNG Michele               22 histoires de sexe et d'horreur ˛1991 I Shudder at Your Touch
-: .oT.     p     _SLUNG Michele               PrÇface ˛1991 Preface ˛Trad. ?
-: .oT.     N     _KING Stephen                Les RÇvÇlations de Becky Paulson ˛1986 The Revelations of 'Becka Paulson ˛Trad. DILL Dominique
-: .oT.     N     _MARTIN Valerie              Les Amants de la mer ˛1988 Sea Lovers ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _MIDDLETON Haydn             Le Psychopompe ˛1991 Psychopomp ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _RENDELL Ruth                Un avenir resplendissant ˛1977 A Glowing Future ˛Trad. NAVARRO Marie-Louise
-: .oT.     N     _PARKINSON T.L.              Le tigre retourne dans la montagne ˛1991 The Tigers Returns to the Mountains ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _DUNCAN Ronald               ConsanguinitÇ ˛1965 Consanguinity ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _BLUMLEIN Michael            DomesticitÇ ˛1989 Keeping House ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _SINCLAIR May                La Villa dÇsirÇe ˛1921 The Villa DÇsirÇe ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _McGRATH Patrick             Cleave le vampire ˛1991 Cleave the Vampire or a Gothic Pastorale ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _AICKMAN Robert              Les ÇpÇes ˛1969 The Swords ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _BANKS Carolyn               La Salon satin ˛1991 Salon Satin ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _HICHENS Robert S.           Comment l'amour s'imposa au professeur Guildea ˛1900 How Love Came to Professor Guildea ˛Trad. RAS Jos
-: .oT.     N     _ZINNES Harriet              Les Ailes ˛1988 Wings ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _GILCHRIST R. Murray         Le Basilic ˛1894 The Basilic ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _CARROLL Jonathan            Le Jeu de l'autre ˛1989 A Quarter Past You ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _FOWLER Christopher          L'Entrepreneur ˛1989 The Master Builder ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _McCORMACK Eric              Le Festival ˛1987 Festival ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _CAVE Hugh B.                Celles qui attendent ˛1975 Ladies in Waiting ˛Trad. FINNE Jacques
-: .oT.     N     _DISCH Thomas M.             Mort et la jeune fille solitaire ˛1976 Death and the Single Girl ˛Trad. HUET Jacqueline
-: .oT.     N     _CARTER Angela               Maåtre ˛1974 Master ˛Trad. CARTANO Franáoise
-: .oT.     N     _DONALDSON Stephen R.        Le Ver conquÇrant ˛1983 The Conqueror Worm ˛Trad. BREQUE Jean-Daniel
-: .oT.     N     _BARKER Clive                Le Testament de Jacqueline Ess ˛1984 Jacqueline Ess: Her Will and Testament ˛Trad. DILL Dominique
+!--- GF - 23 cm - 466 pages
+- .oFT    _A22   *SLUNG Michele               22 histoires de sexe et d'horreur ˛1991 I Shudder at Your Touch
+: .o .     p     _SLUNG Michele               PrÇface ˛1991 Preface ˛Trad. ?
+: .o .     N     _KING Stephen                Les RÇvÇlations de Becky Paulson ˛1986 The Revelations of 'Becka Paulson ˛Trad. DILL Dominique
+: .o .     N     _MARTIN Valerie              Les Amants de la mer ˛1988 Sea Lovers ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _MIDDLETON Haydn             Le Psychopompe ˛1991 Psychopomp ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _RENDELL Ruth                Un avenir resplendissant ˛1977 A Glowing Future ˛Trad. NAVARRO Marie-Louise
+: .o .     N     _PARKINSON T.L.              Le tigre retourne dans la montagne ˛1991 The Tigers Returns to the Mountains ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _DUNCAN Ronald               ConsanguinitÇ ˛1965 Consanguinity ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _BLUMLEIN Michael            DomesticitÇ ˛1989 Keeping House ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _SINCLAIR May                La Villa dÇsirÇe ˛1921 The Villa DÇsirÇe ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _McGRATH Patrick             Cleave le vampire ˛1991 Cleave the Vampire or a Gothic Pastorale ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _AICKMAN Robert              Les ÇpÇes ˛1969 The Swords ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _BANKS Carolyn               La Salon satin ˛1991 Salon Satin ˛Trad. BREQUE Jean-Daniel
+: .o .     r     _HICHENS Robert S.           Comment l'amour s'imposa au professeur Guildea ˛1900 How Love Came to Professor Guildea ˛Trad. RAS Jos
+: .o .     N     _ZINNES Harriet              Les Ailes ˛1988 Wings ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _GILCHRIST R. Murray         Le Basilic ˛1894 The Basilic ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _CARROLL Jonathan            Le Jeu de l'autre ˛1989 A Quarter Past You ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _FOWLER Christopher          L'Entrepreneur ˛1989 The Master Builder ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _McCORMACK Eric              Le Festival ˛1987 Festival ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _CAVE Hugh B.                Celles qui attendent ˛1975 Ladies in Waiting ˛Trad. FINNE Jacques
+: .o .     N     _DISCH Thomas M.             Mort et la jeune fille solitaire ˛1976 Death and the Single Girl ˛Trad. HUET Jacqueline
+: .o .     N     _CARTER Angela               Maåtre ˛1974 Master ˛Trad. CARTANO Franáoise
+: .o .     N     _DONALDSON Stephen R.        Le Ver conquÇrant ˛1983 The Conqueror Worm ˛Trad. BREQUE Jean-Daniel
+: .o .     N     _BARKER Clive                Le Testament de Jacqueline Ess ˛1984 Jacqueline Ess: Her Will and Testament ˛Trad. DILL Dominique
 !------------------------
 !=== 1994
 !------------------------
 o AM          ?  1994.xx ..... ISBN 2-226-06758-2
-}amsf1994-1      _BROUTIN Christian           ?
+} amsf1994-1     _BROUTIN Christian           ?
 - .o .     R     _WERBER Bernard              Les Thanatonautes [Le Cycle des anges - 1] ˛1994
 o AM          ?  1994.xx ..... ISBN 2-226-06762-0
-}amft1994-1      _KIM Miram                   ?
+} amft1994-1     _KIM Miram                   ?
 - .o .     R     _BRITE Poppy Z.              Ames perdues ˛1992 Lost Souls ˛Trad. BREQUE Jean-Daniel
 o AM          ?  1994.xx ..... ISBN 2-226-06905-4
-}amft1994-2      _PALENCAR John Jude          ?
-- .o .     R     _SIMMONS Dan                 L'Homme nu ˛1992 The Naked Man ˛Trad. LEBAILLY Monique
+} amft1994-2     _PALENCAR John Jude          ?
+- .o .     R     _SIMMONS Dan                 L'Homme nu ˛1992 The Hollow Man ˛Trad. LEBAILLY Monique
 o AM          ?  1994.xx ..... ISBN 2-226-06917-8
-}amft1994-3      _BRAUTIGAM Don               ?
+} amft1994-3     _BRAUTIGAM Don               ?
 - .o .     R     _KOONTZ Dean R.              La Cache du diable ˛1992 Hideaway ˛Trad. BLANC Bernard
 o AM          ?  1994.xx ..... ISBN 2-226-06980-1
-}amft1994-4      _Jean Mascii                 ?
+} amft1994-4     _Jean Mascii                 ?
 - .o .     R     _KING Stephen                Carrie ˛1974 Carrie ˛Trad. ROBILLOT Henri
 o AM          ?  1994.xx ..... ISBN 2-226-07474-0
-}amft1994-6      _GARRIDO Hector              ?
+} amft1994-6     _GARRIDO Hector              ?
 - .o .     R     _SIMMONS Dan                 Les Fils des tÇnäbres ˛1992 Children of the Night ˛Trad. LEBAILLY Monique
 o AM          ?  1994.09 ..... ISBN 2-226-07009-5
-}am_reves_cauch  _Rob Wood                    N  
+} am_reves_cauch _Rob Wood                    N  
+!--- GF - 155x240 - 702 pages
 - .oFT    _N22   _KING Stephen                Ràves et cauchemars ˛1993 Nightmares and Dreamscapes ˛Trad. DESMOND William Olivier
 : .o .     p     _KING Stephen                Mythes, croyance, foi. et un drìle de magazine ˛1993 Myth, Belief, Faith, and Ripley's Believe It or Not!
 : .o .     N     _KING Stephen                La Cadillac de Dolan ˛1988 Dolan's Cadillac
@@ -878,33 +1013,41 @@ o AM          ?  1994.09 ..... ISBN 2-226-07009-5
 : .o .     N     _KING Stephen                La Tribu des Dix Plombes ˛1993 The Ten O'clock People
 : .o .     N     _KING Stephen                Crouch End ˛1980 Crouch End
 : .o .     N     _KING Stephen                La Maison de Maple Street ˛1993 The House of Maple Street
-: .o .     N     _KING Stephen                Le Cinquiäme Quart ˛1972 The Fifth Quarter
+: .x .     N     _KING Stephen                Le Cinquiäme Quart ˛1972 The Fifth Quarter
 : .o .     N     _KING Stephen                Le Docteur rÇsout l'Çnigme ˛1990 The Doctor's Case
 : .o .     N     _KING Stephen                La Derniäre Affaire d'Umney ˛1988 Umney's Last Case
 : .o .     N     _KING Stephen                Le Mendiant et le diamant ˛1993 Brooklyn August
-!--- TBC :
-!--- 1994   Alan JUDD                 L'oeuvre du dÇmon
-!--- 1994   Jean GUILLORE             H3O ou les enfants dauphins
-o AM_T        ?  1994.xx ..... ISBN .-.....-...-.
+o AM_T        ?  1994.xx ..... ISBN 2-226-06480-X
+} noimg          _?                           ?
+!--- 151 pages - 20 cm - 89 francs
+- .oF.     r     _JUDD Alan                   L'Oeuvre du dÇmon ˛1991 The Devil's Own Work ˛Trad. LAURIOL ThÇräse
+o AM          ?  1994.xx ..... ISBN 2-226-06915-1
+} noimg          _?                           ?
+- .oS.     R     _GUILLORE Jean               H3O ˛1994
+o AM_T        ?  1994.xx ..... ISBN 2-226-06924-0
 } noimg          _?                           ?
 - .x .     R     _PERUTZ Leo                 &Le Cosaque et le rossignol ˛1928 Der Kosak und die Nachtigall ˛Trad. POLLET Jean-Jacques
 &                _FRANK Paul                  
-o AM_T        ?  1994.xx ..... ISBN .-.....-...-.
+o AM_T        ?  1994.xx ..... ISBN 2-226-06922-4
 } noimg          _?                           ?
 - .o .     R     _PERUTZ Leo                 &Le Miracle du manguier ˛1916 Das mangobaumwunder ˛Trad. POLLET Jean-Jacques
 &                _FRANK Paul                  
-o AM          ?  1994.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ARETOS
+o AM          ?  1994.xx ..... ISBN 2-226-07500-3
+} noimg          _?                           Guillaume Aretos
+!--- 127 pages - 29 cm
++ AM          ?  2004.xx ..... ISBN 2-226-15261-X
+} noimg          _?                           Guillaume Aretos
 - .oF.     E     _QUENOT Katherine E.         Le Livre secret des sorciäres ˛1994
 o AM_T        ?  1994.10 R.... ISBN 2-226-06999-2
 } am_fiancee     _?                           ?
+!--- GF - 
+>--- contenu lÇgärement modifiÇ par rapport Ö l'Çdition 1986, la nouvelle de Karl Hans Strobl "Mon aventure avec Jonas Sapert" est remplacÇe par "La Lune rit" de Leo Perutz.
 - .oF.    kA14   *POLLET Jean-Jacques         La FiancÇe du diable - Nouvelles fantastiques allemandes de 1900 ˛1986-1994
-!--- Une nouvelle changÇe par rapport Ö l'Çdition 1986
-: .o .     N     _MEYRINK Gustav              Larmes bolonaises ˛1904 Bologneser TrÑnen ˛Trad. POLLET Jean-Jacques
-: .o .     N     _MEYRINK Gustav              Les Plantes du docteur Cinderella ˛1905 Die Pflanzen des Doctor Cinderella ˛Trad. POLLET Jean-Jacques
+: .o .     N     _MEYRINK Gustav              Larmes bolonaises ˛1903 Bologneser TrÑnen ˛Trad. POLLET Jean-Jacques
+: .o .     N     _MEYRINK Gustav              Les Plantes du docteur Cinderella ˛1905 Die Pflanzen des Doktor Cinderella ˛Trad. POLLET Jean-Jacques
 : .o .     N     _VON DER GABELENTZ Georg     La Tableau d'Abbott ˛1904 Das bild Abbotts ˛Trad. GIRAUD Pierre
 : .o .     N     _STROBL Karl Hans            La Petite RenommÇe ˛1907 Dir kleine fama ˛Trad. GIRAUD Pierre
-: .o .     N     _EWERS Hanns Heinz           Journal d'un oranger ˛1907 Aus dem tagebuch eines orangenbaums ˛Trad. GIRAUD Pierre
+: .o .     N     _EWERS Hanns Heinz           Journal d'un oranger ˛1907 Aus dem tagebuch eines orangenbaumes ˛Trad. GIRAUD Pierre
 : .o .     N     _EWERS Hanns Heinz           L'AraignÇe ˛1909 Die spinne ˛Trad. POLLET Jean-Jacques
 : .o .     N     _BUSSON Paul                 La Bonbonniäre ˛1909 Dir bonbonniäre ˛Trad. POLLET Jean-Jacques
 : .o .     N     _FREY Alexander Moritz       La Maison inhabitÇe ˛1913 Das unbewohnte haus ˛Trad. GIRAUD Pierre
@@ -913,38 +1056,34 @@ o AM_T        ?  1994.10 R.... ISBN 2-226-06999-2
 : .o .     N     _MUNZER Kurt                 Pygmalion ˛1919 Pygmalion ˛Trad. POLLET Jean-Jacques
 : .o .     N     _BERGENGRUEN Werner          La Madone Ö la jacinthe ˛1920 Madonna mit der Hyaczinthe ˛Trad. POLLET Jean-Jacques
 : .o .     N     _KURZ Isolde                 Le Portrait de l'inconnu ˛1927 Das bildnis des unbekannten ˛Trad. POLLET Jean-Jacques
-: .o .     N     _PERUTZ Leo                  La Lune rit ˛1914 Der mond lacht ˛Trad. RICARDI Ghislain
-?o AM          ?  1994.xx ..... ISBN 2-226-.....-.
-?!--- TBD genre
-?} noimg          _?                           ?
-?- .o .     ?     _ALEXANDER Matt              Requiem pour les artistes ˛?
+: .o .     N     _PERUTZ Leo                  La Lune rit ˛1914 Der Mond lacht ˛Trad. RICARDI Ghislain
 !------------------------
 !=== 1995
 !------------------------
-o AM          ?  1995.xx ..... ISBN 2-226-07718-9
-} am_amour_mort  _?                           N
+o AM          ?  1995.03 ..... ISBN 2-226-07718-9
+} am_amour_mort  _Alexa Garbarino             ?
+!--- GF - 388 pages
 - .oF.    _N5    _SIMMONS Dan                 L'Amour, la mort ˛1993 Lovedeath ˛Trad. LEBAILLY Monique
 : .x .     N     _SIMMONS Dan                 Le Lit de l'entropie Ö minuit ˛1990 Entropy's Bed at Midnight
 : .o .     N     _SIMMONS Dan                 Mourir Ö Bangkok ˛1993 Death in Bangkok
-: .o .     N     _SIMMONS Dan                 Coucher avec des femmes dentues ˛1993 Sleeping With Teeth Women
+: .o .     r     _SIMMONS Dan                 Coucher avec des femmes dentues ˛1993 Sleeping With Teeth Women
 : .o .     N     _SIMMONS Dan                 Flash-back ˛1993 Flashback
 : .o .     r     _SIMMONS Dan                 Le Grand Amant ˛1993 The Great Lover
 o AM          ?  1995.04 ..... ISBN 2-226-07764-2
-}amft1995-2      _?                           ?
+} amft1995-2     _?                           ?
 - .o .     R     _KING Stephen                Insomnie ˛1994 Insomnia ˛Trad. DESMOND William Olivier
 o AM          ?  1995.xx ..... ISBN 2-226-07791-X
-}amft1995-5      _?                           ?
+} amft1995-5     _?                           ?
 - .o .     R     _QUENOT Katherine E.         Si tu m'aimes... ˛1995
 o AM          ?  1995.xx ..... ISBN 2-226-07827-4
-}amft1995-3      _KIM Miram                   ?
+} amft1995-3     _KIM Miram                   ?
 - .o .     R     _BRITE Poppy Z.              Sang d'encre ˛1993 Drawing Blood ˛Trad. BREQUE Jean-Daniel
 o AM          ?  1995.10 ..... ISBN 2-226-07143-1
-}amft1995-4      _Christian Heinrich          ?
+} amft1995-4     _Christian Heinrich          ?
 - .o .     R     _KING Stephen                Les Yeux du dragon ˛1984 The Eyes of the Dragon ˛Trad. CHATELAIN Evelyne
-o AM          ?  1995.xx ..... ISBN .-.....-...-.
+o AM_S        ?  1995.xx ..... ISBN 2-226-07596-8
 } noimg          _?                           ?
-!--- SpÇcial suspense, Thriller. Genre ??
-- .o .     R     _HALL James W.               MarÇe rouge ˛1994 Mean High Tide
+- .xB.     R     _HALL James W.               MarÇe rouge ˛1994 Mean High Tide ˛Trad. DESMOND William Olivier
 o AM_T        ?  1995.xx ..... ISBN 2-226-07879-7
 } noimg          _?                           ?
 - .oF.     R     _BARICCO Alessandro          ChÉteaux de la coläre ˛1991 Castelli di rabbia ˛Trad. BRUN Franáoise
@@ -952,45 +1091,49 @@ o AM_T        ?  1995.xx ..... ISBN 2-226-07879-7
 !=== 1996
 !------------------------
 o AM          ?  1996.xx ..... ISBN 2-226-08179-8
-}amft1996-1      _GARRIDO Hector              ?
+} amft1996-1     _GARRIDO Hector              ?
 - .o .     R     _SIMMONS Dan                 Les Feux de l'Çden ˛1994 Fires of Eden ˛Trad. LEBAILLY Monique
 o AM          ?  1996.10 ..... ISBN 2-226-08808-3
-}amft1996-2      _Mark Ryden                  ?
+} amft1996-2     _Mark Ryden                  ?
 - .o .     R     _BACHMAN Richard             Les RÇgulateurs ˛1996 The Regulators ˛Trad. DESMOND William Olivier
 o AM          ?  1996.10 ..... ISBN 2-226-08817-2
-}amft1996-3      _Mark Ryden                  ?
+} amft1996-3     _Mark Ryden                  ?
 - .o .     R     _KING Stephen                DÇsolation ˛1996 Desperation ˛Trad. PETERS Dominique
 o AM          ?  1996.xx ..... ISBN 2-226-08506-8
-}amsf1996-1      _?                           ?
+} amsf1996-1     _?                           ?
 - .o .     R     _OUELLETTE Pierre            Deus machine ˛1994 The Deus Machine ˛Trad. REIGNER Pierre-Franáois
 o AM          ?  1996.xx ..... ISBN 2-226-08772-9
-}amsf1996-2      _BRAUTIGAM Don               ?
+} amsf1996-2     _BRAUTIGAM Don               ?
 - .o .     R     _COOK Robin                  Risque mortel ˛1994 Acceptable Risk ˛Trad. FERRY Bernard
 o AM          ?  1996.xx ..... ISBN 2-226-08636-6
-}amsf1996-3      _FURBY Carole                ?
+} amsf1996-3     _FURBY Carole                ?
 - .o .     R     _WERBER Bernard              La RÇvolution des fourmis [Les Fourmis - 3] ˛1996
 o AM_FR       ?  1996.08 ..... ISBN 2-226-08694-3
 } noimg          _?                           ?
 - .o .     R     _NOTHOMB AmÇlie              Peplum ˛1996
-o AM          ?  1997.xx ..... ISBN .-.....-...-.
+!------------------------
+!=== 1997
+!------------------------
+o AM_S        ?  1997.xx ..... ISBN 2-226-08737-0
 } noimg          _?                           ?
-- .o .     R     _HALL James W.               Tueurs de jungle ˛1995 Gone wild
+- .xB.     R     _HALL James W.               Tueurs de jungle ˛1995 Gone wild ˛Trad. DESMOND William Olivier
 o AM          ?  1997.xx ..... ISBN 2-226-09299-4
-}amft1997-1      _?                           ?
+} amft1997-1     _?                           ?
 - .o .     R     _BARKER Clive                Everville ˛1994 Everville ˛Trad. BREQUE Jean-Daniel
 o AM          ?  1997.xx ..... ISBN 2-226-08911-X
-}amft1997-2      _?                           ?
+} amft1997-2     _?                           ?
 - .o .     R     _BAKER Nancy                 Nuit intÇrieure ˛1993 The Night Inside / Kiss of the Vampire ˛Trad. FOURNIER Sophie C.
 o AM          ?  1997.xx ..... ISBN 2-226-09295-1
-}amft1997-3      _?                           ?
+} amft1997-3     _?                           ?
 - .o .     R     _BACHMAN Richard             La Peau sur les os ˛1984 Thinner ˛Trad. PERIERS Claude des
 o AM          ?  1997.09 ..... ISBN 2-226-08463-0
-}amft1997-4      _?                           ?
+} amft1997-4     _?                           ?
 - .o .     R     _KING Stephen                Rose Madder ˛1995 Rose Madder ˛Trad. DESMOND William Olivier
-o AM          ?  1997.xx ..... ISBN 2-226-09504-7
-} am_erosvamp    _?                           N
-- .oF.    _A20   *BRITE Poppy Z.              Eros vampire ˛1994 Love in Vein ˛Trad. BREQUE Jean-Daniel
+o AM          ?  1997.10 ..... ISBN 2-226-09504-7
+} am_erosvamp    _Karen Moskowitz             ?
+!--- GF - 23 cm - 415 pages
 !--- intro de Poppy Z. Brite
+- .oF.    _A20   *BRITE Poppy Z.              Eros vampire ˛1994 Love in Vein ˛Trad. BREQUE Jean-Daniel
 : .o .     N     _PARTRIDGE Norman            Ne t'empresse pas de me dire adieu ˛1994 Do Not Hasten to Bit Me Adieu
 : .o .     N     _McDOWELL Ian                GÇraldine ˛1994 Geraldine
 : .o .     N     _KOJA Kathe                 &Dans la maison verte ˛1994 In the Green House
@@ -1020,121 +1163,142 @@ o AM          ?  1997.xx ..... ISBN 2-226-07071-0
 : .o .     N     _CLAVEL Bernard              La Maison du canard bleu ˛1972
 : .o .     N     _CLAVEL Bernard              Le Chien des Laurentides ˛1979
 o AM          ?  1997.xx ..... ISBN 2-226-09219-6
-}amsf1997-2      _?                           ?
+} amsf1997-2     _?                           ?
 - .o .     R     _TURQUET Alexandre           Le Matin des femmes ˛1997
 o AM          ?  1997.xx ..... ISBN 2-226-09390-7
-}amsf1997-1      _?                           ?
+} amsf1997-1     _?                           ?
 - .o .     R     _CLARKE Arthur C.            3001, l'odyssÇe finale [L'OdyssÇe de l'espace - 4] ˛1997 3001: The Final Odyssey ˛Trad. FERRY Bernard
 o AM          ?  1997.xx ..... ISBN 2-226-06583-0
-}amsf1997-3      _?                           ?
+} amsf1997-3     _?                           ?
 - .oS.     R     _WERBER Bernard              Le Livre secret des fourmis [Les Fourmis - 4] ˛1993
-o AM          ?  1997.xx ..... ISBN .-.....-...-.
+o AM          ?  1997.xx ..... ISBN 2-226-08606-4
 } noimg          _?                           ?
-- .o .     R     _CLANCY Tom                 &Op Center [Op-Center - 1] ˛1995 Op Center
+- .o .     R     _CLANCY Tom                 &Op Center [Op-Center - 1] ˛1995 Op Center ˛Trad. BONNEFOY Jean
 &                _PIECZENIK Steve             
-o AM          ?  1997.xx ..... ISBN .-.....-...-.
+o AM          ?  1997.xx ..... ISBN 2-226-08883-0
 } noimg          _?                           ?
-- .o .     R     _CLANCY Tom                 &Images virtuelles [Op-Center - 2] ˛1995 Mirror Image
+- .o .     R     _CLANCY Tom                 &Images virtuelles [Op-Center - 2] ˛1995 Mirror Image ˛Trad. BONNEFOY Jean
 &                _PIECZENIK Steve             
-o AM          ?  1998.xx ..... ISBN .-.....-...-.
+!------------------------
+!=== 1998
+!------------------------
+o AM          ?  1998.xx ..... ISBN 2-226-10562-X
 } noimg          _?                           ?
 - .o .     R     _WERBER Bernard              Le Päre de nos päres ˛1998
-o AM          ?  1998.xx ..... ISBN .-.....-...-.
+o AM          ?  1998.xx ..... ISBN 2-226-09213-7
 } noimg          _?                           ?
-- .o .     R     _CLANCY Tom                 &Jeux de pouvoir [Op-Center - 3] ˛1996 Games of State
+- .o .     R     _CLANCY Tom                 &Jeux de pouvoir [Op-Center - 3] ˛1996 Games of State ˛Trad. BONNEFOY Jean
 &                _PIECZENIK Steve             
-o AM          ?  1998.xx ..... ISBN .-.....-...-.
+o AM          ?  1998.xx ..... ISBN 2-226-09958-1
 } noimg          _?                           ?
 - .o .     R     _RUSSELL Mary Doria          Le Moineau de Dieu ˛1996 The Sparrow ˛Trad. VIERNE BÇatrice
-o AM          ?  1998.xx ..... ISBN .-.....-...-.
+o AM          ?  1998.xx ..... ISBN 2-226-10499-2
 } noimg          _?                           ?
 - .o .     R     _NOTHOMB AmÇlie              Mercure ˛1998
-o AM          ?  1998.xx ..... ISBN 2-226-09526-8
-}amft1998-3      _ODOM Mel                    ?
-- .oT.    kA21   *SLUNG Michele               21 nouvelles histoires de sexe et d'horreur ˛1993 Shudder Again
-: .oT.     p     _SLUNG Michele               PrÇface ˛1993 ? ˛Trad. ?
-: .oT.     N     _COLLINS Nancy A.            Aphra ˛1993 Aphra ˛Trad. CARN StÇphane
-: .oT.     N     _LIGOTTI Thomas              L'Oeil du lynx ˛1993 Eye of the Lynx ˛Trad. SANDALIJAN Thierry
-!--- TBC (GR)    _DOYLE Arthur Conan          Le Parasite ˛1894 The Parasite
-: .oT.     N     _BRADBURY Ray                Le Costaud ˛1964 Heavy Set ˛Trad. FILLION Jane
-: .oT.     N     _HOWARD Elisabeth J.         Le Mauvais ˛1975 Mr Wrong ˛Trad. SANDALIJAN Thierry
-: .oT.     N     _RUSSELL Ray                 Les Amants fugitifs ˛1967 The Runaway Lovers ˛Trad. CARN StÇphane
-: .oT.     N     _KUEHLS David                Premiers Çmois ˛1993 The First Time ˛Trad. SANDALIJAN Thierry
-: .oT.     N     _MACHEN Arthur               La CÇrÇmonie ˛1897 The Ceremony ˛Trad. CARN StÇphane
-: .oT.     N     _SINCLAIR May                Rosamund ˛1923 The Nature of the Evidence ˛Trad. SANDALIJAN Thierry
-: .oT.     N     _ELLISON Harlan              Le Visage de HÇläne Bournouw ˛1960 The Face of Helene Bournouw ˛Trad. CARN StÇphane
-: .oT.     N     _BALLARD James G.            Le Bal des fantasmes ˛1980 A Host of Furious Fancies ˛Trad. CARN StÇphane
-: .oT.     N     _SMITH Sarah                 Rouge orage ˛1993 When the Red Storm Comes ˛Trad. CARN StÇphane
-!--- TBC : When the Red Storm Comes: Or, The History of a Young Lady's Awakening to Her Nature (1995)
-: .oT.     N     _AICKMAN Robert              Ravissante ˛1968 Ravissante ˛Trad. CARN StÇphane
-: .oT.     N     _TUTTLE Lisa                 Un anniversaire ˛1987 A Birthday ˛Trad. SERVAL Nathalie
-: .oT.     N     _BEAUMONT Charles            Le DÇviant ˛1955 The Crooked Man ˛Trad. SANDALIJAN Thierry
-: .oT.     N     _O'KEEFE Claudia             Le Lac du dernier voeu ˛1993 On the Lake of Last Wishes ˛Trad. CARN StÇphane
-: .oT.     N     _CAMPBELL J. Ramsey          Encore ˛1981 Again ˛Trad. EMMERICH Bernadette
-: .oT.     N     _WHITE T.H.                  Amour et cruautÇ ˛1937 Kin to Love ˛Trad. SENE Jean-Franáois
-: .oT.     N     _PEAKE Mervyn                Màme lieu, màme heure ˛1963 Same Time, Same Place ˛Trad. SENE Jean-Franáois
-: .oT.     N     _BLOCH Robert                Taupe modäle ˛1975 The Model ˛Trad. EMMERICH Bernadette
-!--- TBC (GR) Taupe model
-: .oT.     N     _COPPARD Alfred E.           Les Jeux du cirque ˛1927 Silver Circus ˛Trad. SENE Jean-Franáois
-: .oT.     N     _WOOD Clement                Lune de miel ˛1931 Honeymoon ˛Trad. SENE Jean-Franáois
-o AM          ?  1998.xx ..... ISBN .-.....-...-.
-}am_noir_amour   _?                           N  
-- .oT.    _A22   *COLLINS Nancy A.           &Noir comme l'amour - 22 nouvelles fantastiques ˛1995 Dark Love ˛Trad. DESMOND William
+o AM          ?  1998.02 ..... ISBN 2-226-09526-8
+!--- GF - 23 cm - 432 pages
+} amft1998-3     _Mel Odom                    ?
+- .oFT    kA21   *SLUNG Michele               21 nouvelles histoires de sexe et d'horreur ˛1993 Shudder Again
+: .o .     p     _SLUNG Michele               PrÇface ˛1993 ? ˛Trad. ?
+: .o .     N     _COLLINS Nancy A.            Aphra ˛1993 Aphra ˛Trad. CARN StÇphane
+: .o .     N     _LIGOTTI Thomas              L'Oeil du lynx ˛1993 Eye of the Lynx ˛Trad. SANDALIJAN Thierry
+: .o .     N     _BRADBURY Ray                Le Costaud ˛1964 Heavy Set ˛Trad. FILLION Jane
+: .o .     N     _HOWARD Elisabeth J.         Le Mauvais ˛1975 Mr Wrong ˛Trad. SANDALIJAN Thierry
+: .o .     N     _RUSSELL Ray                 Les Amants fugitifs ˛1967 The Runaway Lovers ˛Trad. CARN StÇphane
+: .o .     N     _KUEHLS David                Premiers Çmois ˛1993 The First Time ˛Trad. SANDALIJAN Thierry
+: .o .     N     _MACHEN Arthur               La CÇrÇmonie ˛1897 The Ceremony ˛Trad. CARN StÇphane
+: .o .     N     _SINCLAIR May                Rosamund ˛1923 The Nature of the Evidence ˛Trad. SANDALIJAN Thierry
+: .o .     N     _ELLISON Harlan              Le Visage de HÇläne Bournouw ˛1960 The Face of Helene Bournouw ˛Trad. CARN StÇphane
+: .o .     N     _BALLARD James G.            Le Bal des fantasmes ˛1980 A Host of Furious Fancies ˛Trad. CARN StÇphane
+: .o .     N     _SMITH Sarah                 Rouge orage ˛1993 When the Red Storm Comes: Or, The History of a Young Lady's Awakening to Her Nature ˛Trad. CARN StÇphane
+: .o .     N     _AICKMAN Robert              Ravissante ˛1968 Ravissante ˛Trad. CARN StÇphane
+: .o .     N     _TUTTLE Lisa                 Un anniversaire ˛1987 A Birthday ˛Trad. SERVAL Nathalie
+: .o .     N     _BEAUMONT Charles            Le DÇviant ˛1955 The Crooked Man ˛Trad. SANDALIJAN Thierry
+: .o .     N     _O'KEEFE Claudia             Le Lac du dernier voeu ˛1993 On the Lake of Last Wishes ˛Trad. CARN StÇphane
+: .o .     N     _CAMPBELL J. Ramsey          Encore ˛1981 Again ˛Trad. EMMERICH Bernadette
+: .o .     N     _WHITE T.H.                  Amour et cruautÇ ˛1937 Kin to Love ˛Trad. SENE Jean-Franáois
+: .o .     N     _PEAKE Mervyn                Màme lieu, màme heure ˛1963 Same Time, Same Place ˛Trad. SENE Jean-Franáois
+: .o .     N     _BLOCH Robert                Taupe-model ˛1975 The Model ˛Trad. EMMERICH Bernadette
+: .o .     N     _COPPARD Alfred E.           Les Jeux du cirque ˛1927 Silver Circus ˛Trad. SENE Jean-Franáois
+: .o .     N     _WOOD Clement                Lune de miel ˛1931 Honeymoon ˛Trad. SENE Jean-Franáois
+o AM          ?  1998.01 ..... ISBN 2-226-09569-1
+} am_noir_amour  _Paolo Nozolino              ?
+!--- GF - 23 cm - 493 pages
+- .oF.    _A22   *COLLINS Nancy A.           &Noir comme l'amour - 22 nouvelles fantastiques ˛1995 Dark Love ˛Trad. DESMOND William
 &                *KRAMER Edward E.           &
 &                *GREENBERG Martin H.         
-: .oT.     p     _KLEIN T.E.D.                Introduction ˛1995 ? ˛Trad. DESMOND William
-: .oT.     N     _KING Stephen                DÇjeuner au Gotham CafÇ ˛1995 Lunch at the Gotham Cafe ˛Trad. DESMOND William
-: .oT.     N     _O'DONOGHUE Michael          Le Dingue ˛1995 The Psycho ˛Trad. DESMOND William
-: .oT.     N     _KOJA Kathe                  Pas de deux ˛1995 Pas De Deux ˛Trad. DESMOND William
-: .oT.     N     _COPPER Basil                La Lueur Çclatante des lames ˛1995 Bright Blades Gleaming ˛Trad. DESMOND William
-: .oT.     N     _LUTZ John                   Hanson et sa radio ˛1995 Hanson's Radio ˛Trad. DESMOND William
-: .oT.     N     _SCHOW David J.              RÇfrigÇrateur cÇleste ˛1995 Refrigerator Heaven ˛Trad. DESMOND William
-: .oT.     N     _WEINBERG Robert             Ro erg ˛1995 Ro Erg ˛Trad. DESMOND William
-: .oT.     N     _GORMAN Ed                   Le Bout du rouleau ˛1995 The End of It All ˛Trad. DESMOND William
-: .oT.     N     _KAMINSKY Stuart             CachÇ ˛1995 Hidden ˛Trad. DESMOND William
-: .oT.     N     _WEBB Wendy                  Prisme ˛1995 Prism ˛Trad. DESMOND William
-: .oT.     N     _LAYMON Richard              La Pucelle ˛1995 The Maiden ˛Trad. DESMOND William
-: .oT.     N     _BURDEN Bob                  T'as tes problämes, j'ai les miens ˛1995 You've got your troubles, I've got mine... ˛Trad. DESMOND William
-: .oT.     N     _CHESBRO George              Waco ˛1995 Waco ˛Trad. DESMOND William
-: .oT.     N     _COOKE John Peyton           Le PÇnitent ˛1995 The Penitent ˛Trad. DESMOND William
-: .oT.     N     _PTACEK Kathryn              DÇgringolade ˛1995 Driven ˛Trad. DESMOND William
-: .oT.     N     _SHIRLEY John                Barbara ˛1995 Barbara ˛Trad. DESMOND William
-: .oT.     N     _BLUMLEIN Michael            Hymenoptera ˛1993 Hymenoptera ˛Trad. DESMOND William
-: .oT.     N     _CAMPBELL J. Ramsey          Le Bout du tunnel ˛1995 Going Under ˛Trad. DESMOND William
-: .oT.     N     _TAYLOR Lucy                 Chaleur ˛1995 Heat ˛Trad. DESMOND William
-: .oT.     N     _COLLINS Nancy A.            Murs en papier ˛1995 Thin Walls ˛Trad. DESMOND William
-: .oT.     N     _WAGNER Karl E.              ConfinÇe ˛1995 Locked Away
-: .oT.     N     _WINTER Douglas E.           En boucle ˛1995 Loop
-o AM          ?  1998.xx ..... ISBN 2-226-10449-6
-} amft1998-4     _?                           ?
-- .oT.    _A24   *DATLOW Ellen                La Petite Mort - Anthologie Çrotique de littÇrature fantastique ˛1994 Little Deaths ˛Trad. BREQUE Jean-Daniel
-: .oT.     p     _DATLOW Ellen                Introduction ˛1994 Introduction
-: .oT.     N     _DEDMAN Stephen              Notre-Dame des Situations ˛1994 The Lady of Situations
-: .oT.     N     _TAYLOR Lucy                 La Peau affamÇe ˛1994 Hungry Skin
-: .oT.     N     _CREWS Harry                 Becky Lives ˛1994 Becky Lives
-: .oT.     N     _SALLEE Wayne Allen          PoupÇe d'amour ˛1994 Lover Doll
-!--- TBC Allin
-: .oT.     N     _ROYLE Nicholas              La Balance ˛1994 The Swing
-: .oT.     N     _PIERCE J. Calvin            Sahib ˛1994 Sahib
-: .oT.     N     _KOJA Kathe                 &La Prudente GÇomÇtrie de l'amour ˛1994 The Careful Geometry of Love
+: .o .     p     _KLEIN T.E.D.                Introduction ˛1995 ? ˛Trad. DESMOND William
+: .o .     N     _KING Stephen                DÇjeuner au Gotham CafÇ ˛1995 Lunch at the Gotham Cafe ˛Trad. DESMOND William
+: .o .     N     _O'DONOGHUE Michael          Le Dingue ˛1995 The Psycho ˛Trad. DESMOND William
+: .o .     N     _KOJA Kathe                  Pas de deux ˛1995 Pas De Deux ˛Trad. DESMOND William
+: .o .     N     _COPPER Basil                La Lueur Çclatante des lames ˛1995 Bright Blades Gleaming ˛Trad. DESMOND William
+: .o .     N     _LUTZ John                   Hanson et sa radio ˛1995 Hanson's Radio ˛Trad. DESMOND William
+: .o .     N     _SCHOW David J.              RÇfrigÇrateur cÇleste ˛1995 Refrigerator Heaven ˛Trad. DESMOND William
+: .o .     N     _WEINBERG Robert             Ro erg ˛1995 Ro Erg ˛Trad. DESMOND William
+: .o .     N     _GORMAN Ed                   Le Bout du rouleau ˛1995 The End of It All ˛Trad. DESMOND William
+: .o .     N     _KAMINSKY Stuart             CachÇ ˛1995 Hidden ˛Trad. DESMOND William
+: .o .     N     _WEBB Wendy                  Prisme ˛1995 Prism ˛Trad. DESMOND William
+: .o .     N     _LAYMON Richard              La Pucelle ˛1995 The Maiden ˛Trad. DESMOND William
+: .o .     N     _BURDEN Bob                  T'as tes problämes, j'ai les miens ˛1995 You've Got Your Troubles, I've Got Mine... ˛Trad. DESMOND William
+: .o .     N     _CHESBRO George              Waco ˛1995 Waco ˛Trad. DESMOND William
+: .o .     N     _COOKE John Peyton           Le PÇnitent ˛1995 The Penitent ˛Trad. DESMOND William
+: .o .     N     _PTACEK Kathryn              DÇgringolade ˛1995 Driven ˛Trad. DESMOND William
+: .o .     N     _SHIRLEY John                Barbara ˛1995 Barbara ˛Trad. DESMOND William
+: .o .     N     _BLUMLEIN Michael            Hymenoptera ˛1993 Hymenoptera ˛Trad. DESMOND William
+: .o .     N     _CAMPBELL J. Ramsey          Le Bout du tunnel ˛1995 Going Under ˛Trad. DESMOND William
+: .o .     N     _TAYLOR Lucy                 Chaleur ˛1995 Heat ˛Trad. DESMOND William
+: .o .     N     _COLLINS Nancy A.            Murs en papier ˛1995 Thin Walls ˛Trad. DESMOND William
+: .o .     N     _WAGNER Karl E.              ConfinÇe ˛1995 Locked Away
+: .o .     N     _WINTER Douglas E.           En boucle ˛1995 Loop
+o AM          ?  1998.07 ..... ISBN 2-226-10449-6
+} amft1998-4     _Emmauel Bovet               ?
+!--- GF - 23 cm - 583 pages
+- .oFQ    _A24   *DATLOW Ellen                La Petite Mort - Anthologie Çrotique de littÇrature fantastique ˛1994 Little Deaths ˛Trad. BREQUE Jean-Daniel
+: .o .     p     _DATLOW Ellen                Introduction ˛1994 Introduction
+: .o .     N     _DEDMAN Stephen              Notre-Dame des Situations ˛1994 The Lady of Situations
+: .o .     N     _TAYLOR Lucy                 La Peau affamÇe ˛1994 Hungry Skin
+: .o .     N     _CREWS Harry                 Becky Lives ˛1994 Becky Lives
+: .o .     N     _SALLEE Wayne Allen          PoupÇe d'amour ˛1994 Lover Doll
+: .o .     N     _ROYLE Nicholas              La Balance ˛1994 The Swing
+: .o .     N     _PIERCE J. Calvin            Sahib ˛1994 Sahib
+: .o .     N     _KOJA Kathe                 &La Prudente GÇomÇtrie de l'amour ˛1994 The Careful Geometry of Love
 &                _MALZBERG Barry N.           
-: .oT.     N     _GRIFFITH Nicola             Yaguara ˛1994 Yaguara
-: .oT.     N     _BARKER Clive                Sur les rives d'Amen ˛1992 On Amen's Shore
-: .oT.     N     _HARRISON M. John            Isobel Avens retourne Ö Stepney le printemps venu ˛1994 Isobel Avens Returns to Stepney in the Spring
-: .oT.     N     _LANE Joel                   La Grille de la douleur ˛1994 The Pain Barrier
-: .oT.     N     _MALZBERG Barry N.           Sinfonia expansiva ˛1994 Sinfonia Expansiva
-: .oT.     N     _OATES Joyce Carol           Boutons de fiävre ˛1994 Fever Blisters
-: .oT.     N     _TEM MÇlanie                 Le Rocher ˛1994 The rock
-: .oT.     N     _RENDELL Ruth                Un passe-temps ˛1982 An Outside Interest
-: .oT.     N     _ESKRIDGE Kelley             Et SalomÇ dansait ˛1994 And Salome Danced
-: .oT.     N     _KOJA Kathe                  La Muse inquiÇtante ˛1994 The Disquieting Muse
-: .oT.     N     _CLEMENS Sarah               Trous ˛1994 Holes
-: .oT.     N     _WOMACK Jack                 Cravate d'Çcole ˛1994 The Old School Tie
-: .oT.     N     _CLEGG Douglas               Le Palais de glace ˛1994 Ice Palace
-: .oT.     N     _CADIGAN Pat                 Monogames en sÇrie ˛1994 Serial Monogamist
-: .oT.     N     _JETER K.W.                  La Chemise de nuit noire ˛1994 Black Nightgown
-: .oT.     N     _MATHESON Richard C.         MÇnage Ö trois ˛1994 Menage a Trois
-: .oT.     N     _SHEPARD Lucius              La Derniäre Fois ˛1994 The Last Time
+: .o .     N     _GRIFFITH Nicola             Yaguara ˛1994 Yaguara
+: .o .     N     _BARKER Clive                Sur les rives d'Amen ˛1992 On Amen's Shore
+: .o .     N     _HARRISON M. John            Isobel Avens retourne Ö Stepney le printemps venu ˛1994 Isobel Avens Returns to Stepney in the Spring
+: .o .     N     _LANE Joel                   La Grille de la douleur ˛1994 The Pain Barrier
+: .o .     N     _MALZBERG Barry N.           Sinfonia expansiva ˛1994 Sinfonia Expansiva
+: .o .     N     _OATES Joyce Carol           Boutons de fiävre ˛1994 Fever Blisters
+: .o .     N     _TEM MÇlanie                 Le Rocher ˛1994 The rock
+: .o .     N     _RENDELL Ruth                Un passe-temps ˛1982 An Outside Interest
+: .o .     N     _ESKRIDGE Kelley             Et SalomÇ dansait ˛1994 And Salome Danced
+: .o .     N     _KOJA Kathe                  La Muse inquiÇtante ˛1994 The Disquieting Muse
+: .o .     N     _CLEMENS Sarah               Trous ˛1994 Holes
+: .o .     N     _WOMACK Jack                 Cravate d'Çcole ˛1994 The Old School Tie
+: .o .     N     _CLEGG Douglas               Le Palais de glace ˛1994 Ice Palace
+: .o .     N     _CADIGAN Pat                 Monogames en sÇrie ˛1994 Serial Monogamist
+: .o .     N     _JETER K.W.                  La Chemise de nuit noire ˛1994 Black Nightgown
+: .o .     N     _MATHESON Richard C.         MÇnage Ö trois ˛1994 Menage a Trois
+: .o .     N     _SHEPARD Lucius              La Derniäre Fois ˛1994 The Last Time
+o AM          ?  1998..x ..... ISBN 2-226-03932-5
+} noimg          _?                           N
+- .oF.     R     _BARKER Clive                Cabale ˛1988 Cabal: The Nightbreed ˛Trad. BREQUE Jean-Daniel
+!------------------------
+!=== 1999
+!------------------------
+o AM          ?  1999.xx ..... ISBN 2-226-10997-8
+} noimg          _Horacio Lalia               ?
+!--- GF - 33 cm - 90 pages
+!--- êdition du 150e anniversaire de l'auteur
+- .oF.     N8    _POE Edgar Allan             Le Chat noir ˛1999 ˛Trad. BOSCHET Jean-Michel
+: .oF.     N     _POE Edgar Allan             Le Chat noir ˛1843 The Black Cat ˛Trad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             Manuscrit trouvÇ dans une bouteille ˛1833 Manuscript Found in a Bottle ˛Trad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             La Barrique d'Amontillado ˛1846 The Cask of Amontillado
+: .o .     N     _POE Edgar Allan             L'Enterrement prÇmaturÇ ˛1844 The Premature Burial
+: .oF.     N     _POE Edgar Allan             Le Portrait ovale ˛1842 The Oval Portrait ˛Trad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             La VÇritÇ sur le cas de M. Valdemar ˛1845 The Facts in the Case of Mr. Valdemar ˛Trad. BAUDELAIRE Charles
+: .o .     N     _POE Edgar Allan             Hop-Frog ˛1849 Hop-Frog
+: .o .     N     _POE Edgar Allan             Le Coeur rÇvÇlateur ˛1843 The Tell-Tale Heart ˛Trad. BAUDELAIRE Charles
 o AM          ?  1999.xx ..... ISBN 2-226-10714-2
 } noimg          _Virginia Sherwood           ?
 !--- scÇnario de la mini-sÇrie tÇlÇ
@@ -1142,25 +1306,38 @@ o AM          ?  1999.xx ..... ISBN 2-226-10714-2
 o AM          ?  1999.xx ..... ISBN 2-226-10566-2
 } noimg          _Mark Geyer                  ?
 - .o .     R     _KING Stephen                Sac d'os ˛1998 Bag of Bones ˛Trad. DESMOND William Olivier
-o AM          ?  1999.xx ..... ISBN .-.....-...-.
+o AM          ?  1999.xx ..... ISBN 2-226-10825-4
 } noimg          _?                           ?
-- .o .     R     _COONTS Stephen              Destins de guerre ˛? Fortunes of War
 !--- aussi auteur de "Le Cavalier Rouge", de "Le Minautore", de "Le vol de l'Intruder"
-o AM          ?  1999.xx ..... ISBN .-.....-...-.
+- .o .     R     _COONTS Stephen              Destins de guerre ˛1998 Fortunes of War
+o AM          ?  1999.xx ..... ISBN 2-226-10519-0
 } noimg          _?                           ?
-- .p .    iAx    ****                         Vengeances meurtriäres ˛1999
-!--- TBD : Plutìt "vengeances mortelles" ??
-: .o .     N     _STRAUB Peter                Mr. Clubb and Mr. Cuff ˛1997 Mr Clubb and Mr Cuff
-o AM          ?  1998.xx ..... ISBN .-.....-...-.
+!--- GF - 23 cm - 456 pages
+- .pFP    kA12   *PENZLER Otto                Vengeances mortelles - 12 nouvelles inÇdites par les maåtres du suspense amÇricain ˛1998 Murder for Revenge ˛Trad. DAMOUR Anne & DESMOND William Olivier
+: .x .     p     _PENZLER Otto                Introduction ˛1998 ? ˛Trad. DAMOUR Anne
+: .x .     N     _BLOCK Lawrence              Une aràte en travers du gosier ˛1998 Like a Bone in the Throat ˛Trad. DESMOND William Olivier
+: .! .     N     _HIGGINS CLARK Mary          Une Çpreuve de force ˛1998 Power Play ˛Trad. DAMOUR Anne
+: .x .     N     _COOK Thomas H.              PaternitÇ ˛1998 Fatherhood ˛Trad. DESMOND William Olivier
+: .! .     N     _HENDRICKS Vicki             West End ˛1998 West End ˛Trad. DAMOUR Anne
+: .! .     N     _HESS Joan                   Aux risques de l'acheteur ˛1998 Caveat Emptor ˛Trad. DAMOUR Anne
+: .! .     N     _KELMAN Judith               Eradicum Homo Horribilus ˛1998 Eradicum Homo Horribilus ˛Trad. DAMOUR Anne
+: .! .     N     _LUSTBADER Eric              Le Dernier Sursaut du chat ˛1998 Dead Cat Bounce ˛Trad. DAMOUR Anne
+: .! .     N     _MARGOLIN Phillip            Angie Ravie ˛1998 Angie's Delight ˛Trad. DESMOND William Olivier
+: .x .     N     _MORRELL David               L'Homme de paille ˛1998 Front Man ˛Trad. DESMOND William Olivier
+: .x .     N     _OATES Joyce Carol           Homicide involontaire ˛1998 Murder-Two ˛Trad. DAMOUR Anne
+: .! .     N     _SILVERSTEIN Shel            L'Ennemi ˛1998 The Enemy ˛Trad. DAMOUR Anne
+: .o .     r     _STRAUB Peter                Mr. Clubb and Mr. Cuff ˛1997 Mr Clubb and Mr Cuff ˛Trad. DESMOND William Olivier
+o AM          ?  1998.xx ..... ISBN 2-226-10756-8
 } noimg          _?                           ?
-- .oS.     R     _CLANCY Tom                 &NetForce [NetForce - 1] ˛1999 Net Force
+- .oS.     R     _CLANCY Tom                 &NetForce [NetForce - 1] ˛1999 Net Force ˛Trad. ?
 &                _PIECZENIK Steve             
-o AM          ?  1999.xx ..... ISBN .-.....-...-.
+o AM          ?  1999.xx ..... ISBN 2-226-10911-0
 } noimg          _?                           ?
 - .oS.     R     _CLANCY Tom                 &Programmes fantìmes [NetForce - 2] ˛1999 Hidden Agendas ˛Trad. BONNEFOY Jean
 &                _PIECZENIK Steve             
 o AM          ?  1999.11 R.... ISBN 2-226-11074-7
 } amft1999-5     _?                           ?
+!--- GF - 24 cm - 811 pages
 - .oF.    kA29   *SARRANTONIO Al              999 - Le Livre du millÇnaire des maåtres du fantastique ˛1999 999: New Tales of Horror and Suspense
 : .o .     p     _SARRANTONIO Al              Introduction ˛1999
 : .o .     N     _NEWMAN Kim                  Des amÇricains morts Ö la morgue de moscou ˛1999 Amerikanski Dead at the Moscow Morgue ˛Trad. PETERS Dominique
@@ -1172,7 +1349,6 @@ o AM          ?  1999.11 R.... ISBN 2-226-11074-7
 : .o .     N     _WILSON F. Paul              Vendredit saint ˛1999 Good Friday ˛Trad. PETERS Dominique
 : .o .     N     _WILLIAMSON Chet             Extraits du registre du Nouveau Zodiaque et du journal de Henry Watson Fairfax ˛1999 Excerpts from Th RECORDS OF THE NEW ZODIAC and the Diaries of Henry Watson Fairfax ˛Trad. CHATELAIN Evelyne
 : .o .     N     _LUSTBADER Eric Van          A la gloire des mÇgäres ˛1999 An exaltation of termagants ˛Trad. DESMOND William
-!--- TBC : VAN LUSTBADER Eric
 : .o .     N     _POWERS Tim                  ItinÇraire ˛1999 Itinerary ˛Trad. PETERS Dominique
 : .o .     N     _COLLINS Nancy A.            Le Blues de la fille poisson-chat ˛1999 Catfish Gal Blues ˛Trad. PETERS Dominique
 : .o .     N     _CAMPBELL J. Ramsey          L'Attraction ˛1999 The Entertainment ˛Trad. DOIZELET Sylvie
@@ -1193,33 +1369,36 @@ o AM          ?  1999.11 R.... ISBN 2-226-11074-7
 : .o .     N     _MONTELEONE Thomas           RÇpÇtitions ˛1999 Rehearsals ˛Trad. PETERS Dominique
 : .o .     N     _McKIERNAN Dennis L.         ObscuritÇ ˛1999 Darkness ˛Trad. DESMOND William
 : .o .     N     _BLATTY William P.           Ailleurs ˛1999 Elsewhere ˛Trad. MALFOY ValÇrie
-o AM          ?  1999.xx ..... ISBN .-.....-...-.
+o AM          ?  1999.xx ..... ISBN 2-226-09346-X
 } noimg          _?                           ?
 - .o .     R     _CLANCY Tom                 &Actes de guerre [Op-Center - 4] ˛1996 Acts of War
 &                _PIECZENIK Steve             
+!------------------------
+!=== 2000
+!------------------------
 o AM          ?  2000.10 ..... ISBN 2-226-11526-9
 } noimg          _?                           ?
 - .o .     R     _WERBER Bernard              L'Empire des anges [Le Cycle des anges - 2] ˛2000
-o AM          ?  2000.xx ..... ISBN .-.....-...-.
+o AM          ?  2000.xx ..... ISBN 2-226-11562-5
 } noimg          _?                           ?
-- .o .     R     _CLANCY Tom                 &Attaques nocturnes [NetForce - 3] ˛1999 Night Moves
+- .o .     R     _CLANCY Tom                 &Attaques de nuit [NetForce - 3] ˛1999 Night Moves
 &                _PIECZENIK Steve             
 o AM          ?  2000.xx ..... ISBN 2-226-11397-5
 } noimg          _?                           ?
 - .oS.     R     _SABATIER Robert             Le Sourire aux lävres ˛2000
-o AM          ?  2000.xx ..... ISBN .-.....-...-.
+o AM          ?  2000.xx ..... ISBN 2-226-11376-2
 } noimg          _?                           ?
-- .o .     R     _HALL James W.               Court-circuit ˛? Buzz cut
-o AM          ?  2000.xx ..... ISBN .-.....-...-.
+- .xB.     R     _HALL James W.               Court-circuit ˛? Buzz cut
+o AM          ?  2000.xx ..... ISBN 2-226-11072-0
 } noimg          _?                           ?
-- .o .     R     _ROVIN Jeff                  La Nuit des chauves-souris ˛? Vespers ˛Trad. GIRARD Pierre
-o AM          ?  2000.xx ..... ISBN .-.....-...-.
+- .o .     R     _ROVIN Jeff                  La Nuit des chauves-souris ˛1998 Vespers ˛Trad. GIRARD Pierre
+o AM          ?  2000.xx ..... ISBN 2-226-10447-X
 } noimg          _?                           ?
 - .o .     R     _CLANCY Tom                 &Rapport de force [Op-Center - 5] ˛1998 Balance of Power ˛Trad. ?
 &                _PIECZENIK Steve             
-o AM          ?  2000.xx ..... ISBN .-.....-...-.
+o AM          ?  2000.xx ..... ISBN 2-226-12125-0
 } noimg          _?                           ?
-- .p .    iAx    ****                         Meurtres en cavale ˛2000
+- .pFP    iAx    ****                         Meurtres en cavale ˛1998 Murder in the Run
 : .o .     N     _STRAUB Peter                Comme c'est romantique ˛1997 Isn't It Romantic? ˛Trad. ?
 o AM          ?  2000.04 ..... ISBN 2-226-11523-4
 } noimg          _Shasti O'Leary              ?
@@ -1227,50 +1406,57 @@ o AM          ?  2000.04 ..... ISBN 2-226-11523-4
 } noimg          _?                           ?
 !--- 145  x 215 mm - 368 pages - 13,90 euros
 - .o .     R     _KING Stephen                La Petite Fille qui aimait Tom Gordon ˛1999 The Girl who Loved Tom Gordon ˛Trad. LASQUIN Franáois
-o AM          ?  2000.xx ..... ISBN .-.....-...-.
+o AM          ?  2000.xx ..... ISBN ?
 } noimg          _?                           ?
 !--- premier e-book de Stephen King (novellette)
 - .o .     N     _KING Stephen                Un tour sur le Bolid' ˛2000 Riding the Bullet ˛Trad. DESMOND William Olivier
+!------------------------
+!=== 2001
+!------------------------
 o AM          ?  2001.03 ..... ISBN 2-226-12209-5
 } amft2001-1     _?                           ?
 + AM          ?  2002.03 ..... ISBN 2-226-12209-5
 } amft2001_1rr02 _?                           ?
-- .oFT    cC5    _KING Stephen                Coeurs perdus en Atlantide ˛1999 Hearts in Atlantis
-: .o .     R     _KING Stephen                Crapules de bas Çtage en manteau jaune ˛1999 Low Men in Yellow Coats
-: .o .     R     _KING Stephen                Chasse-coeurs en Atlantide ˛1999 Hearts in Atlantis
-: .o .     r     _KING Stephen                Willie l'aveugle ˛1994 Blind Willie
-: .o .     r     _KING Stephen                Pourquoi nous Çtions au Vietnam ˛1999 Why We're in Vietnam
-: .o .     N     _KING Stephen                Ainsi tombent les ombres cÇlestes de la nuit ˛1999 Heavenly Shades of Nights Are Falling
-o AM          ?  2001.xx ..... ISBN .-.....-...-.
+- .pF.    kN5    _KING Stephen                Coeurs perdus en Atlantide ˛1999 Hearts in Atlantis ˛Trad. DESMOND William Olivier
+: .oF.     r     _KING Stephen                Crapules de bas Çtage en manteau jaune [La Tour sombre] ˛1999 Low Men in Yellow Coats ˛Trad. DESMOND William Olivier
+: .x .     r     _KING Stephen                Chasse-coeurs en Atlantide ˛1999 Hearts in Atlantis ˛Trad. DESMOND William Olivier
+: .x .     N     _KING Stephen                Willie l'aveugle ˛1994-1999 Blind Willie ˛Trad. DESMOND William Olivier
+: .x .     N     _KING Stephen                Pourquoi nous Çtions au Vietnam ˛1999 Why We're in Vietnam ˛Trad. DESMOND William Olivier
+: .oF.     N     _KING Stephen                Ainsi tombent les ombres cÇlestes de la nuit [La Tour sombre] ˛1999 Heavenly Shades of Nights Are Falling ˛Trad. DESMOND William Olivier
+o AM          ?  2001.xx ..... ISBN 2-226-12043-2
 } noimg          _?                           ?
 !--- rÇÇd. de ?
 - .o .     R     _HARRIS Thomas               Dragon rouge [Hannibal Lecter - 1] ˛1981 Red Dragon ˛Trad. GUIOD Jacques
 o AM          ?  2001.xx ..... ISBN 2-226-12670-8
 } noimg          _Shasti O'Leary              ?
 - .o .     E     _KING Stephen                Ecriture, mÇmoires d'un mÇtier ˛2000 On Writing: a Memoire of a Craft ˛Trad. DESMOND William O.
-o AM          ?  2001.xx ..... ISBN .-.....-...-.
+o AM          ?  2001.xx ..... ISBN 2-226-12153-6
 } noimg          _?                           ?
 - .o .     R     _CLANCY Tom                 &Etat de siäge [Op-Center - 6] ˛1999 State of Siege
 &                _PIECZENIK Steve             
-o AM          ?  2001.xx ..... ISBN .-.....-...-.
+o AM          ?  2001.xx ..... ISBN 2-226-12740-2
 } noimg          _?                           ?
 - .o .     R     _WERBER Bernard              L'Ultime Secret ˛2001
-o AM          ?  2002.xx ..... ISBN .-.....-...-.
+!------------------------
+!=== 2002
+!------------------------
+o AM          ?  2002.xx ..... ISBN 2-226-13370-4
 } noimg          _?                           ?
 - .o .     R     _CLANCY Tom                 &Diviser pour rÇgner [Op-Center - 7] ˛2000 Divide and Conquer
 &                _PIECZENIK Steve             
-o AM          ?  2002.xx ..... ISBN .-.....-...-.
+o AM          ?  2002.xx ..... ISBN 2-226-15389-6
 } noimg          _?                           ?
 - .o .     R     _CLANCY Tom                 &Ligne de contrìle [Op-Center - 8] ˛2001 Line of Control
 &                _PIECZENIK Steve             
 o AM          ?  2002.02 ..... ISBN 2-226-13190-6
 } noimg          _Cliff Nielsen               ?
-+ AM          ?  2003.04 ..... ISBN 2-226-.....-.
++ AM          ?  2003.04 ..... ISBN 2-226-13190-6
 } noimg          _?                           ?
 - .o .     R     _KING Stephen                Dreamcatcher ˛2001 Dreamcatcher ˛Trad. DESMOND William Olivier
 o AM          ?  2002.10 ..... ISBN 2-226-13459-X
-} amsf2002-2     _?                           ?
-- .oF.    _N20   _WERBER Bernard              L'Arbre des possibles et autres histoires ˛2002
+} amsf2002-2     _Didier Graffet              ?
+!--- GF - 
+- .oS.    _N20   _WERBER Bernard              L'Arbre des possibles et autres histoires ˛2002
 : .o .     N     _WERBER Bernard              Apprenons Ö les aimer ˛2002
 : .o .     N     _WERBER Bernard              Le Rägne des apparences ˛2002
 : .o .     N     _WERBER Bernard              Fragrances ˛2002
@@ -1291,20 +1477,24 @@ o AM          ?  2002.10 ..... ISBN 2-226-13459-X
 : .o .     N     _WERBER Bernard              Le Totalitarisme douceÉtre ˛2002
 : .o .     N     _WERBER Bernard              L'Ami silencieux ˛2002
 : .o .     N     _WERBER Bernard              L'êcole des jeunes dieux ˛2002
-o AM          ?  2002.xx ..... ISBN .-.....-...-.
+o AM          ?  2002.xx ..... ISBN 2-226-13541-3
 } noimg          _?                           ?
-- .o .     R     _CLANCY Tom                 &Point de rupture [NetForce - 4] ˛2000 Breaking Point
+- .o .     R     _CLANCY Tom                 &Point de rupture [NetForce - 4] ˛2000 Breaking Point ˛Trad. BONNEFOY Jean
 &                _PIECZENIK Steve             
-o AM          ?  2003.xx ..... ISBN .-.....-...-.
+!------------------------
+!=== 2003
+!------------------------
+o AM          ?  2003.xx ..... ISBN 2-226-13602-9
 } noimg          _?                           ?
 - .o .     R     _TRUONG Jean-Michel          Eternity Express ˛2003
 o AM          ?  2003.03 ..... ISBN 2-226-13701-7
 } am_tout_fatal  _Mark Stutzman               N  
+!--- GF - 155x240 - 524 pages
 - .oF.    _N14   _KING Stephen                Tout est fatal ˛2002 Everything's Eventual ˛Trad. DESMOND William
 : .oF.     N     _KING Stephen                Salle d'autopsie quatre ˛1997 Autopsy Room Four ˛Trad. DESMOND William
 : .oF.     N     _KING Stephen                L'Homme au costume noir ˛1994 The Man in the Black Suit ˛Trad. DESMOND William
 : .oF.     N     _KING Stephen                Tout ce que vous aimez sera emportÇ ˛2001 All That You Love Will Be Carried Away ˛Trad. DESMOND William
-: .oF.     N     _KING Stephen                La Mort de John Hamilton ˛2001 The Death of Jack Hamilton ˛Trad. DESMOND William
+: .oF.     N     _KING Stephen                La Mort de Jack Hamilton ˛2001 The Death of Jack Hamilton ˛Trad. DESMOND William
 : .oF.     N     _KING Stephen                Salle d'exÇcution ˛2000 In the Deathroom ˛Trad. DESMOND William
 : .oF.     N     _KING Stephen                Les Petites Soeurs d'Eluria [La Tour sombre] ˛1998 The Little Sisters of Eluria ˛Trad. DESMOND William
 : .oF.     N     _KING Stephen                Tout est fatal ˛2001 Everything's Eventual ˛Trad. DESMOND William
@@ -1318,24 +1508,32 @@ o AM          ?  2003.03 ..... ISBN 2-226-13701-7
 o AM          ?  2003.xx ..... ISBN 2-226-13869-2
 } noimg          _?                           ?
 - .o .     R     _PERRY Steve                 Point d'impact [NetForce - 5] ˛2001 Point of Impact
-o AM          ?  2003.xx ..... ISBN 2-226-13794-7
-!--- AM_S ?
+o AM_S        ?  2003.xx ..... ISBN 2-226-13794-7
 } noimg          _?                           ?
 - .o .     R     _CAUVIN Patrick              Jardin fatal ˛2003
-o AM          ?  2003.xx ..... ISBN .-.....-...-.
+o AM          ?  2003.xx ..... ISBN 2-226-13856-0
 } noimg          _?                           ?
-- .oS.     R     _HOEYE Michael               Les Sables du temps [Hermux Tantamoq - 2] ˛2001 Sands of Time
-?o AM          ?  2003.xx ..... ISBN .-.....-...-.
-?!-- TBD Genre ?
-?} noimg          _?                           ?
-?- .o .     R     _COOK Robin                  Rapt ˛? ?
+!--- 373 pages - 24 cm - 19,90 euros
+- .oS.     R     _COOK Robin                  Rapt ˛2000 Abduction ˛Trad. GANSTEL Michel
+o AM          ?  2003.xx ..... ISBN 2-226-14177-4
+} noimg          _?                           ?
+- .x .    iAx    *BLOCK Lawrence              Choix de maåtre ˛1999 Master's Choice
+: .x .     N     _KING Stephen                Le Gala de noce ˛1980 The Wedding Gig
+!------------------------
+!=== 2004
+!------------------------
 o AM          ?  2004.xx ..... ISBN 2-226-15499-X
-!--- AM_S ?
 } noimg          _?                           ?
 - .o .     R     _CAUVIN Patrick              Le Silence de Clara ˛2004
 o AM          ?  2004.02 ..... ISBN 2-226-15076-5
 } noimg          _?                           ?
 - .oF.     R     _KING Stephen                Roadmaster ˛2002 From a Buick 8 ˛Trad. LASQUIN Franáois
+o AM          ?  2004.10 ..... ISBN 2-226-15498-1
+} noimg          _?                           ?
+- .oS.     R     _WERBER Bernard              L'åle des sortiläges [Nous les dieux - 1] ˛2004
+!------------------------
+!=== 2005
+!------------------------
 o AM          ?  2005.03 ..... ISBN 2-226-15984-3
 } noimg          _?                           ?
 - .oT.     R     _DRUSE Eleanor               Le Journal d'Eleanor Druse ˛2003 The Journals of Eleanor Druse ˛Trad. MALFOY ValÇrie
@@ -1345,6 +1543,12 @@ o AM          ?  2005.06 ..... ISBN 2-226-16717-X
 o AM          ?  2005.08 ..... ISBN 2-226-15852-9
 } noimg          _?                           ?
 - .oS.     R     _DANTEC Maurice G.           Cosmos Incorporated ˛2005
+o AM          ?  2005.10 ..... ISBN 2-226-16807-9
+} noimg          _?                           ?
+- .oS.     R     _WERBER Bernard              Le Souffle des dieux [Nous les dieux - 2] ˛2005
+!------------------------
+!=== 2006
+!------------------------
 o AM          ?  2006.03 ..... ISBN 2-226-17218-1
 } noimg          _Stephen Biver & Ian McKinnel?
 - .oT.     R     _KING Stephen                Cellulaire ˛2006 Cell ˛Trad. DESMOND William
@@ -1357,22 +1561,19 @@ o AM          ?  2006.10 ..... ISBN 2-226-17349-8
 o AM          ?  2006.11 ..... ISBN 2-226-17354-4
 } noimg          _?                           ?
 - .oS.     R     _LOUKIANENKO Serguei         Night Watch, les sentinelles de la nuit [Night Watch - 1] ˛1998 Notchnoi dozor ˛Trad. ZEYTOUNIAN-BELOUS Christine
+!------------------------
+!=== 2007
+!------------------------
 o AM          ?  2007.01 ..... ISBN 2-226-17663-2
 } noimg          _?                           ?
 - .oT.     R     _HARRIS Thomas               Hannibal Lecter, les origines du mal [Hannibal Lecter] ˛2006 Hannibal Rising ˛Trad. COHEN Bernard
-o AM          ?  2007.06 ..... ISBN 978-2-226-.....-.
+o AM          ?  2007.06 ..... ISBN 978-2-226-17697-4
 } noimg          _?                           ?
-- .oS.     R     _LOUKIANENKO Serguei        &Daywatch, les sentinelles du jour [Night Watch - 2] ˛1998-2004 Dnevnoã Dozor ˛Trad. ZEYTOUNIAN-BELOöS Christine
+- .oS.     R     _LOUKIANENKO Serguei        &Day watch - Les Sentinelles du jour [Night Watch - 2] ˛1998-2004 Dnevnoã Dozor ˛Trad. ZEYTOUNIAN-BELOöS Christine
 &                _VASSILIEV Vladimir          
 o AM          ?  2007.08 ..... ISBN 978-2-226-17969-2
 } noimg          _Mark Stutzman               ?
 - .oF.     R     _KING Stephen                Histoire de Lisey ˛2006 Lisey's Story ˛Trad. GASSIE Nadine
-o AM          ?  2004.10 ..... ISBN 2-226-15498-1
-} noimg          _?                           ?
-- .oS.     R     _WERBER Bernard              L'åle des sortiläges [Nous les dieux - 1] ˛2004
-o AM          ?  2005.10 ..... ISBN 2-226-16807-9
-} noimg          _?                           ?
-- .oS.     R     _WERBER Bernard              Le Souffle des dieux [Nous les dieux - 2] ˛2005
 o AM          ?  2007.09 ..... ISBN 978-2-226-17979-1
 } noimg          _?                           ?
 - .oS.     R     _WERBER Bernard              Le Mystäre des dieux [Nous les dieux - 3] ˛2007
@@ -1382,6 +1583,9 @@ o AM          ?  2007.08 ..... ISBN 978-2-226-17975-3
 : .o .     r     _DANTEC Maurice G.           Vers le Nord du ciel ˛2007
 : .o .     N     _DANTEC Maurice G.           Artefact ˛2007
 : .o .     r     _DANTEC Maurice G.           Le Monde de ce prince ˛2007
+!------------------------
+!=== 2008
+!------------------------
 o AM          ?  2008.03 ..... ISBN 2-226-18600-X
 } noimg          _?                           ?
 - .o .     r     _KING Stephen                The Mist (Brume) ˛1980 The Mist ˛Trad. PRESSE Michäle et QUADRUPPANI Serge
@@ -1389,7 +1593,8 @@ o AM          ?  2008.04 ..... ISBN 978-2-226-18235-7
 } noimg          _?                           ?
 - .oT.     R     _KING Stephen                Blaze ˛2007 Blaze ˛Trad. DESMOND William
 o AM          ?  2008.10 ..... ISBN 978-2-226-18850-2
-} amsf2008-2     _?                           ?
+} amsf2008-2     _(c)Corbis                   ?
+!--- GF - 
 - .pS.     N17   _WERBER Bernard              Paradis sur mesure ˛2008
 : .o .     N     _WERBER Bernard              Et l'on pendra tous les pollueurs ˛2008
 : .o .     N     _WERBER Bernard              Intermäde : la vÇritÇ est dans le doigt ˛2008
@@ -1414,6 +1619,9 @@ o AM          ?  2008.11 ..... ISBN 978-2-226-18863-2
 o AM          ?  2008.11 ..... ISBN 978-2-226-18660-7
 } noimg          _?                           ?
 - .oS.     R     _LOUKIANENKO Serguei         Twilight Watch, les sentinelles du crÇpuscule [Night Watch - 3] ˛2008 Sumere?nyj dozor ˛Trad. ZEYTOUNIAN-BELOöS Christine
+!------------------------
+!=== 2009
+!------------------------
 o AM          ?  2009.01 ..... ISBN 978-2-226-18875-.
 } noimg          _?                           ?
 - .oSF     R     _DANTEC Maurice G.           Comme le fantìme d'un jazzman dans la station Mir en dÇroute ˛2009
@@ -1443,7 +1651,8 @@ o AM          ?  2009.11 ..... ISBN 978-2-226-19357-5
 !------------------------
 o AM          ?  2010.03 ..... ISBN 978-2-226-19596-8
 } amft2010-1     _Rex Bonomelli               ?
-- .oT.    kN13   _KING Stephen                Juste avant le crÇpuscule ˛2008 Just After Sunset ˛Trad. DESMOND William
+!--- GF - 155x240 - 412 pages
+- .oFT    kN13   _KING Stephen                Juste avant le crÇpuscule ˛2008 Just After Sunset ˛Trad. DESMOND William
 : .o .     p     _KING Stephen                Introduction ˛2008 Just After Sunset ˛Trad. DESMOND William
 : .o .     N     _KING Stephen                Willa ˛2006 Willa ˛Trad. DESMOND William
 : .o .     N     _KING Stephen                La Fille pain d'Çpice ˛2007 The Gingerbread Girl ˛Trad. DESMOND William
@@ -1528,8 +1737,9 @@ o AM          ?  2011.xx ..... ISBN 978-2-226-.....-.
 !------------------------
 !=== 2012
 !------------------------
-o AM          ?  2012.03 ..... ISBN 978-2-226-23993-8
+o AM          ?  2012.02 ..... ISBN 978-2-226-23993-8
 } amft2012-1     _Tomislav Tikulin            ?
+!--- GF - 155x240 - 483 pages
 - .oF.    kN4    _KING Stephen                Nuit noire, Çtoiles mortes ˛2010 Full Dark, No Stars ˛Trad. William Desmond
 : .oF.     r     _KING Stephen                1922 ˛2010 1922
 : .oF.     r     _KING Stephen                Grand chauffeur ˛2010 Big Driver
@@ -1599,9 +1809,9 @@ o AM          ?  2014.02 ..... ISBN 978-2-226-25253-1
 o AM          ?  2014.02 ..... ISBN 978-2-226-252548
 } noimg          _Blasco Pisapia              ?
 - .oF.     R     _PAVANELLO Roberto           Le Samourai enragÇ [Bat Pat - 13] ˛2012 Non si scherza con i samurai! ˛Trad. BEHAR Jean-Claude
-o AM          ?  2014.03 ..... ISBN 978-2-226-25608-9
+o AM_TEA      ?  2014.02 ..... ISBN 978-2-226-25608-9
 } amft2014_3     _? Mary Evans Picture Library
-!--- Terres d'AmÇriques
+!--- GF - 21 cm - 252 pages
 - .oF.     N9    _RUSSELL Karen               Foyer Sainte-Lucie pour jeunes filles ÇlevÇes par les loups ˛2006 St. Lucy's Home for Girls Raised by Wolves ˛Trad. MALFOY ValÇrie
 !--- La premiäre nouvelle, Ava Wrestles the Alligator, est absente
 : .oF.     N     _RUSSELL Karen               ObsÇdante Olivia ˛2006 Haunting Olivia ˛Trad. MALFOY ValÇrie
@@ -1648,28 +1858,30 @@ o AM          ?  2016.03 ..... ISBN 978-2-226-31922-7
 !--- VN 03/2016
 } noimg          _?                           ?
 - .xP.     R     _KING Stephen                Carnets noirs [Bill Hodges] ˛2015 Finders Keepers ˛Trad. BIES OcÇane & GASSIE Nadine
-o AM          ?  2016.10 ..... ISBN 978-2-226-31941-8
+o AM          ?  2016.09 ..... ISBN 978-2-226-31941-8
 } amft2016_2     _Nicolas Obery               ?
-- .pFT     N20   _KING Stephen                Le Bazar des mauvais ràves ˛2015 The Bazaar of Bad Dreams ˛Trad. BIES OcÇane & GASSIE Nadine
+!--- GF - 155x240 - 600 pages
+- .pFT    _N20   _KING Stephen                Le Bazar des mauvais ràves ˛2015 The Bazaar of Bad Dreams ˛Trad. BIES OcÇane & GASSIE Nadine
+: .o .     p     _KING Stephen                Introduction ˛2015 Introduction
 : .o .     r     _KING Stephen                Mile 81 ˛2011 Mile 81 ˛Trad. BIES OcÇane & GASSIE Nadine
-: .! .     N     _KING Stephen                Premium Harmony ˛2009 Premium Harmony ˛Trad. BIES OcÇane & GASSIE Nadine
-: .o .     N     _KING Stephen                Batman et Robin ont un accrochage ˛2012 Batman and Robin Have an Altercation ˛Trad. BIES OcÇane & GASSIE Nadine
+: .x .     N     _KING Stephen                Premium Harmony ˛2009 Premium Harmony ˛Trad. BIES OcÇane & GASSIE Nadine
+: .x .     N     _KING Stephen                Batman et Robin ont un accrochage ˛2012 Batman and Robin Have an Altercation ˛Trad. BIES OcÇane & GASSIE Nadine
 : .o .     N     _KING Stephen                La Dune ˛2011 The Dune ˛Trad. BIES OcÇane & GASSIE Nadine
-: .o .     N     _KING Stephen                Sale Gosse ˛2015 Bad Little Kid ˛Trad. BIES OcÇane & GASSIE Nadine
-: .! .     N     _KING Stephen                Une mort ˛2015 A Death ˛Trad. BIES OcÇane & GASSIE Nadine
+: .o .     N     _KING Stephen                Sale gosse ˛2015 Bad Little Kid ˛Trad. BIES OcÇane & GASSIE Nadine
+: .x .     N     _KING Stephen                Une mort ˛2015 A Death ˛Trad. BIES OcÇane & GASSIE Nadine
 : .o .     P     _KING Stephen                Eglise d'ossements ˛2009 The Bone Church ˛Trad. BIES OcÇane & GASSIE Nadine
-: .! .     N     _KING Stephen                Morale ˛2009 Morality ˛Trad. BIES OcÇane & GASSIE Nadine
+: .x .     N     _KING Stephen                Morale ˛2009 Morality ˛Trad. BIES OcÇane & GASSIE Nadine
 : .o .     N     _KING Stephen                Apräs-vie ˛2013 Afterlife ˛Trad. BIES OcÇane & GASSIE Nadine
-: .o .     r     _KING Stephen                Ur ˛2009 Ur ˛Trad. BIES OcÇane & GASSIE Nadine
-: .! .     N     _KING Stephen                Herman Wouk est toujours en vie ˛2011 Herman Wouk Is Still Alive ˛Trad. BIES OcÇane & GASSIE Nadine
+: .o .     r     _KING Stephen                Ur [La Tour sombre] ˛2009 Ur ˛Trad. BIES OcÇane & GASSIE Nadine
+: .x .     N     _KING Stephen                Herman Wouk est toujours en vie ˛2011 Herman Wouk Is Still Alive ˛Trad. BIES OcÇane & GASSIE Nadine
 : .o .     N     _KING Stephen                A la dure ˛2011 Under the Weather ˛Trad. BIES OcÇane & GASSIE Nadine
-: .! .     N     _KING Stephen                Billy Barrage ˛2010 Blockade Billy ˛Trad. BIES OcÇane & GASSIE Nadine
+: .x .     N     _KING Stephen                Billy Barrage ˛2010 Blockade Billy ˛Trad. BIES OcÇane & GASSIE Nadine
 : .o .     N     _KING Stephen                Mister Yummy ˛2015 Mister Yummy ˛Trad. BIES OcÇane & GASSIE Nadine
-: .! .     P     _KING Stephen                Tommy ˛2010 Tommy ˛Trad. BIES OcÇane & GASSIE Nadine
+: .x .     P     _KING Stephen                Tommy ˛2010 Tommy ˛Trad. BIES OcÇane & GASSIE Nadine
 : .o .     N     _KING Stephen                Le Petit Dieu vert de l'agonie ˛2011 The Little Green God of Agony ˛Trad. BIES OcÇane & GASSIE Nadine
-: .o .     N     _KING Stephen                Ce bus est un autre monde ˛2014 That Bus is Another World ˛Trad. BIES OcÇane & GASSIE Nadine
+: .x .     N     _KING Stephen                Ce bus est un autre monde ˛2014 That Bus Is Another World ˛Trad. BIES OcÇane & GASSIE Nadine
 : .o .     N     _KING Stephen                NÇcro ˛2015 Obits ˛Trad. BIES OcÇane & GASSIE Nadine
-: .! .     N     _KING Stephen                Feux d'artifice imbibÇs ˛2015 Drunken Fireworks ˛Trad. BIES OcÇane & GASSIE Nadine
+: .x .     N     _KING Stephen                Feux d'artifice imbibÇs ˛2015 Drunken Fireworks ˛Trad. BIES OcÇane & GASSIE Nadine
 : .o .     N     _KING Stephen                Le Tonnerre en ÇtÇ ˛2013 Summer Thunder ˛Trad. BIES OcÇane & GASSIE Nadine
 o AM          ?  2016.10 ..... ISBN 978-2-226-39205-3
 } noimg          _?                           ?
@@ -1683,17 +1895,17 @@ o AM          ?  2016.11 ..... ISBN 978-2-226-39307-4
 o AM          ?  2017.03 ..... ISBN 978-2-226-32871-7
 } noimg          _Sam Weber                   ?
 - .oPF     R     _KING Stephen                Fin de ronde [Bill Hodges] ˛2016 End of Watch ˛Trad. BIES OcÇane
-o AM          ?  2017.04 ..... ISBN 978-2-226-39643-3
-} amft2017_4     _?                           ?
-!--- Terres d'AmÇriques
-- .oVF     N8    _RUSSELL Karen               Des vampires dans la citronneraie ˛2013 Vampire in the Lemon Grove ˛Trad. MALFOY ValÇrie
-: .o .     N     _RUSSELL Karen               Des vampires dans la citronneraie ˛2007 Vampire in the Lemon Grove ˛Trad. MALFOY ValÇrie
+o AM_TEA      ?  2017.04 ..... ISBN 978-2-226-39643-3
+!--- GF - 21 cm - 303 pages
+} amft2017_4     _? Getty Images              ?
+- .oFV     N8    _RUSSELL Karen               Des vampires dans la citronneraie ˛2013 Vampires in the Lemon Grove ˛Trad. MALFOY ValÇrie
+: .o .     N     _RUSSELL Karen               Des vampires dans la citronneraie ˛2007 Vampires in the Lemon Grove ˛Trad. MALFOY ValÇrie
 : .o .     N     _RUSSELL Karen               De la soie pour l'empire ˛2012 Reeling for the Empire ˛Trad. MALFOY ValÇrie
 : .o .     N     _RUSSELL Karen               Une armÇe de mouettes Ö Strong Beach, 1979 ˛2009 The Seagull Army Descends on Strong Beach, 1979 ˛Trad. MALFOY ValÇrie
 : .o .     N     _RUSSELL Karen               La Fenàtre de Hox River ˛2011 The Hox River Window / Proving Up ˛Trad. MALFOY ValÇrie
 : .o .     N     _RUSSELL Karen               La Grange Ö la fin de notre mandat ˛2007 The Barn at the End of Our Term ˛Trad. MALFOY ValÇrie
 : .o .     N     _RUSSELL Karen               Rägles Ö respecter pour soutenir son Çquipe dans l'Antarctique ˛2010 Dougbert Shackleton's Rules for Antarctic Tailgating ˛Trad. MALFOY ValÇrie
-: .o .     N     _RUSSELL Karen               Les Nouveaux VÇtÇrans ˛2013 The New Veterans ˛Trad. MALFOY ValÇrie
+: .o .     r     _RUSSELL Karen               Les Nouveaux VÇtÇrans ˛2013 The New Veterans ˛Trad. MALFOY ValÇrie
 : .o .     N     _RUSSELL Karen               La Marionnette sans sÇpulture d'Eric Mutis ˛2010 The Graveless Doll of Eric Mutis ˛Trad. MALFOY ValÇrie
 o AM          ?  2017.08 ..... ISBN 978-2-226-39914-4
 } noimg          _?                           ?
@@ -1701,6 +1913,9 @@ o AM          ?  2017.08 ..... ISBN 978-2-226-39914-4
 o AM          ?  2017.10 ..... ISBN 978-2-226-40030-7
 } noimg          _?                           ?
 - .oS.     R     _WERBER Bernard              Depuis l'au-delÖ ˛2017
+o AM_AM       ?  2017.11 ..... ISBN 978-2-226-39779-9
+} noimg          _?                           ?
+- .oRF     R     _GORMAN Nine                 Le Pacte d'Emma [Le Pacte d'Emma - 1] ˛2011
 o AM          ?  2017.11 ..... ISBN 978-2-226-40030-7
 } noimg          _?                           ?
 - .oS.     G     _KEEN Helen                  Science et magie dans Game of Throne ˛2016 The Science of Game of Thrones ˛Trad. HUET Nathalie
@@ -1713,7 +1928,7 @@ o AM          ?  2018.03 ..... ISBN 978-2-226-40022-2
 &                _KING Owen                   
 o AM          ?  2018.09 ..... ISBN 978-2-226-32603-4
 } noimg          _?                           ?
-- .oF.     E     _KING Stephen                Anatomie de l'horreur [Anatomie de l'horreur - 1] ˛1981 Danse Macabre ˛Trad. BREQUE Jean-Daniel
+- .oF.     E     _KING Stephen                Anatomie de l'horreur [Anatomie de l'horreur - 1/2] ˛1981 Danse Macabre ˛Trad. BREQUE Jean-Daniel
 o AM          ?  2018.09 ..... ISBN 978-2-226-43839-3
 } noimg          _?                           ?
 - .oS.     R     _WERBER Bernard              La Boåte de Pandore ˛2018
@@ -1737,10 +1952,32 @@ o AM          ?  2019.10 ..... ISBN 978-2-226-44535-3
 - .oF.     r     _KING Stephen                Brume ˛1980 The Mist ˛Trad. QUADRUPPANI Serge
 o AM          ?  2019.10 ..... ISBN 978-2-226-44536-0
 } noimg          _?                           ?
-- .xF.     r     _KING Stephen                Le Corps ˛1982 The Body ˛Trad. ALIEN Pierre
+- .xF.     R     _KING Stephen                Le Corps ˛1982 The Body ˛Trad. ALIEN Pierre
+o AM          ?  2019.10 ..... ISBN 978-2-226-40211-0
+} noimg          _Le Douanier Rousseau        ?
+!--- GF - 21 cm - 256 pages
+- .oFN     N6    _MANSET GÇrard               RÇcits barbares ˛2019
+: .o .     N     _MANSET GÇrard               Perle et Biche ˛2019
+: .o .     N     _MANSET GÇrard               Ziki et Zika ˛2019
+: .o .     N     _MANSET GÇrard               Ayudrayapura ˛2019
+: .o .     N     _MANSET GÇrard               L'or de Plouesfouesnant ˛2019
+: .o .     N     _MANSET GÇrard               Le Domaine du Lys de France ˛2019
+: .o .     N     _MANSET GÇrard               Une fantaisie ˛2019
+o AM_num      ?  2019.xx ..... ISBN 978-2-226-43410-4
+} noimg          _?                           ?
+!--- 41 pages
+- .xP.     N     _KING Stephen                Laurie ˛2018 Laurie ˛Trad. ESCH Jean
 !------------------------
 !=== 2020
 !------------------------
+o AM_AM       ?  2020.xx ..... ISBN 978-2-226-43658-0
+} noimg          _?                           ?
+!--- YA 16+ - 
+- .oRF     R     _GORMAN Nine                 Le Serment d'Andrew [Le Pacte d'Emma - 2] ˛2020
+o AM          ?  2020.01 ..... ISBN 978-2-226-44327-4
+} noimg          _?                           ?
+!--- 15,5 x 24,0 cm - 608 pages - 24,90 euros
+- .o .     R     _KING Stephen                L'Institut ˛2019 The Institute ˛Trad. ESCH Jean
 o AM          ?  2020.02 ..... ISBN 978-2-226-43874-4
 } noimg          _?                           ?
 !--- 15,5 x 22 cm - 320 pages - 19,90 euros
@@ -1749,10 +1986,6 @@ o AM          ?  2020.06 ..... ISBN 978-2-226-45063-0
 } noimg          _?                           ?
 !--- 14,7 x 21,5 cm - 336 pages - 13,90 euros
 - .o .     r     _KING Stephen                Le Molosse surgi du soleil ˛1990 The Sun Dog ˛Trad. DESMOND William Olivier
-o AM          ?  2020.01 ..... ISBN 978-2-226-44327-4
-} noimg          _?                           ?
-!--- 15,5 x 24,0 cm - 608 pages - 24,90 euros
-- .o .     R     _KING Stephen                L'Institut ˛2019 The Institute ˛Trad. ESCH Jean
 o AM_VERS     ?  2020.06 ..... ISBN 978-2-226-45154-5
 } noimg          _?                           ?
 !--- 15,5 x 22,5 cm - 448 pages - 21,90 euros
@@ -1761,116 +1994,56 @@ o AM          ?  2020.09 ..... ISBN 978-2-226-45585-7
 } noimg          _?                           ?
 !--- 15,5 x 22,5 cm - 432 pages - 14,99 euros
 - .o .     R     _WERBER Bernard              La Planäte des chats ˛2020
+!------------------------
+!=== 2021
+!------------------------
+o AM          ?  2021.02 ..... ISBN 978-2-226-45105-7
+} am022021_1     _(c)Shutterstock             ?
+!--- GF - 155 x 240 - 458 pages
+- .oF.     N4    _KING Stephen                Si áa saigne ˛2020 If it Bleeds ˛Trad. ESCH Jean
+: .o .     N     _KING Stephen                Le TÇlÇphone de M. Harrigan ˛2020 Mr. Harrigan's Phone ˛Trad. ESCH Jean
+: .o .     N     _KING Stephen                La Vie de Chuck ˛2020 The Life of Chuck ˛Trad. ESCH Jean
+: .o .     N     _KING Stephen                Si áa saigne ˛2020 If it Bleeds ˛Trad. ESCH Jean
+: .o .     N     _KING Stephen                Rat ˛2020 Rat ˛Trad. ESCH Jean
+o AM          ?  2021.10 ..... ISBN 978-2-226-46477-4
+} noimg          _? Arcangel Images           ?
+!--- GF - 155x225 - 592 pages
+- .oS.     R     _WERBER Bernard              La ProphÇtie des abeilles ˛2021
+o AM          ?  2021.11 ..... ISBN 978-2-226-45976-3
+} noimg          _?                           ?
+!--- GF - 155x240 - 336 pages
+- .oF.     R     _KING Stephen                Apräs ˛2020 Later ˛Trad. ESCH Jean
+o AM          ?  2021.xx ..... ISBN 978-2-226-46397-5
+} noimg          _?                           ?
+!--- GF - 21 cm - 211 pages - 18,90 euros
+- .oS.     R     _VAN CAUWELAERT Didier       Le Pouvoir des animaux ˛2021
+!------------------------
+!=== 2022
+!------------------------
+o AM          ?  2022.09 ..... ISBN 978-2-226-46153-7
+} noimg          _?                           ?
+!--- GF - 150x220 - 704 pages - 24,90 euros
+- .oS.     R     _DOERR Anthony               La CitÇ des nuages et des oiseaux ˛2021 Cloud Cuckoo Land ˛Trad. BORASO Marina
+o AM          ?  2022.09 ..... ISBN 978-2-226-46033-2
+} noimg          _?                           ?
+!--- GF - 155 x 240 - 560 pages - 24,90 euros
+- .oF.     R     _KING Stephen                Billy Summers ˛2021 Billy Summers ˛Trad. ESCH Jean
+o AM          ?  2022.10 ..... ISBN 978-2-226-46478-1
+} noimg          _(c) Arcangel Images         ?
+!--- GF - 145x225 - 480 pages - 22,90 euros
+- .oS.     R     _WERBER Bernard              La Diagonale des reines ˛2022
+o AM_TEA      ?  2022.10 ..... ISBN 978-2-226-44249-9
+} noimg          _?                           ?
+!--- GF - 150x220 - 704 pages - 24,90 euros
+- .oY.     R     _JAMES Marlon                LÇopard noir, loup rouge [The Dark Star Trilogy - 1] ˛2019 Black Leopard, Red Wolf ˛Trad. ESQUIE HÇloãse
+!------------------------
+!=== 2023
+!------------------------
 
 
-
-
-
-
-
-
-!DEB_HEAD AM_ED
-!TIT_COLL EpÇes et Dragons
-!-----------------------------------------------------------------------------
-_ AM_ED   Albin Michel, Coll. EpÇes et Dragons ˛1987-1989
-!-----------------------------------------------------------------------------
-!--- Cette collection ÇphÇmäre, non mÇtallisÇe, au nom et Ö l'emballage 
-!--. typiquement "fantasy" se partage entre SF et fantasy.
-!--. Elle contient 23 titres publiÇs entre 1987 et 1989 : du classique (Cycles
-!--. de Mars de E.R. Burrough), du pastiche (Le guerrier de Mars de M. Moorcock),
-!--. de l'aventure planÇtaire de träs bonne facture (Cycle de Skaith de Leigh
-!--. Brackett ou les Harpistes de Pern de McCaffrey)... mais aussi 
-!--. en vrac les cycles de Kothar, Thongor ou Raven, qu'on oubliera plus vite.
-!--- 
-!--- Format de poche (10,8x17,5), couvertures noires, ornÇes sur les deux
-!--. faces d'un màme cadre typiquement "Fantasy", et illustrÇes par Caza,
-!--. Druillet, Didier Thimonier, chaque illustrateur restant fidäle Ö une sÇrie.
-!--- Directeur de collection : TBC
-!-----------------------------------------------------------------------------
-!FIN_HEAD AM_ED
-!DEB_COLL AM_ED
-o AM_ED       1  1987.09 R.... ISBN 2-226-03030-1
-} e&d01          _?                           N
-- .oS.     R     _MOORCOCK Michael            La CitÇ de la Bàte [Le Cycle du guerrier de Mars - 1] ˛1965 Warrior of Mars / City of the Beast ˛Trad. WALL-ROMANA Christophe
-o AM_ED       2  1987.09 ..... ISBN 2-226-03026-3
-} e&d02          _?                           N
-- .oS.     R     _MOORCOCK Michael            Le Seigneur des araignÇes [Le Cycle du guerrier de Mars - 2] ˛1968 Blades of Mars / Lord of the Spiders ˛Trad. WALL-ROMANA Christophe
-!--- Nota : Les volumes 1 et 2 sont parus d'abord sous "Edward P. BRADBURY"
-o AM_ED       3  1987.xx R.... ISBN 2-226-03029-8
-} e&d03          _?                           N
-- .oS.     R     _BRACKETT Leigh              Le Secret de Skaith [Skaith - 1][Eric John Stark] ˛1974 The Ginger Star ˛Trad. ROSENTHAL Mary
-!--- Note : Idem "Les voix de Skaith"
-o AM_ED       4  1987.xx R.... ISBN 2-226-03025-5
-} e&d04          _?                           N
-- .oS.     R     _BRACKETT Leigh              Les Chiens de Skaith [Skaith - 2][Eric John Stark] ˛1974 The Hounds of Skaith ˛Trad. ROSENTHAL Mary
-o AM_ED       5  1987.xx ..... ISBN 2-226-03028-X
-} e&d05          _?                           N
-- .oY.     R     _CARTER Lin                  Thongor et la citÇ de la flamme [Thongor - 2] ˛1966 Thongor of Lemuria / Thongor and the Dragon City ˛Trad. FAGNE Henry
-!--- Note : ex "Thongor et la citÇ des dragons" !     (1966/1970)
-o AM_ED       6  1987.xx R.... ISBN 2-226-03027-1
-} e&d06          _?                           N
-- .oY.     R     _CARTER Lin                  Thongor et la citÇ des dragons [Thongor - 1] ˛1965 The Wizard of Lemuria / Thongor and the Wizard of Lemuria ˛Trad. TRUCHAUD Franáois
-!--- Note : ex "Thongor et le magicien" (1965/1969)
-o AM_ED       7  1987.12 ..... ISBN 2-226-03054-9
-} e&d07          _?                           N
-- .oS.     R     _MOORCOCK Michael            Les Maåtres de la fosse [Le Cycle du guerrier de Mars - 3] ˛1965 Barbarians of Mars / Masters of the Pit ˛Trad. WALL-ROMANA Christophe
-o AM_ED       8  1987.xx R.... ISBN 2-226-02904-4
-} e&d08          _?                           N
-- .oS.     R     _BRACKETT Leigh              Les Pillards de Skaith [Skaith - 3][Eric John Stark] ˛1976 The Reavers of Skaith ˛Trad. ROSENTHAL Mary
-o AM_ED       9  1987.11 ..... ISBN 2-226-03053-0
-} e&d09          _?                           N
-- .oY.     R     _CARTER Lin                  Thongor Ö la fin des temps [Thongor - 5] ˛1968 Thongor at the End of Time ˛Trad. LABRANDE Jean-Pierre
-o AM_ED      10  1987.03 R.... ISBN 2-226-03220-7
-} e&d10          _?                           N
-- .oS.     R     _BURROUGHS Edgar Rice        La Princesse de Mars [Cycle de Mars - 1] ˛1912 Under the Moons of Mars / A Princess of Mars ˛Trad. MARTIN Charles-Noâl
-!--- Note : roman Ö partir de la nouvelle "Under the moons of Mars" (1912), complÇtÇ
-o AM_ED      11  1988.03 ..... ISBN 2-226-03221-5
-} e&d11          _?                           N
-- .oS.     R     _BURROUGHS Edgar Rice        Les Dieux de Mars [Cycle de Mars - 2] ˛1913 The Gods of Mars ˛Trad. MARTIN Charles-Noâl
-o AM_ED      12  1988.xx ..... ISBN 2-226-03224-X
-} e&d12          _?                           N
-- .oY.     R     _CARTER Lin                  Thongor contre les dieux [Thongor - 3] ˛1967 Thongor Against the Gods ˛Trad. GRAF AndrÇ
-o AM_ED      13  1988.06 ..... ISBN 2-226-03225-8
-} e&d13          _?                           N
-- .oY.     R     _KIRK Richard                Maåtresse du chaos [La Saga de Raven - 1] ˛1976 Sword Mistress of Chaos ˛Trad. PAGEL Michel
-o AM_ED      14  1988.06 ..... ISBN 2-226-03226-6
-} e&d14          _?                           N
-- .oS.     R     _McCAFFREY Anne              Le Chant du dragon [Les Harpistes - 1][La Ballade de Pern] ˛1976 Dragonsong ˛Trad. RONDEAUX Eric
-o AM_ED      15  1988.xx ..... ISBN 2-226-03227-0
-} e&d15          _?                           N
-- .oY.     R     _CARTER Lin                  La Geste de Kadji ˛1971 The Quest of Kadji ˛Trad. HUET Jacqueline
-o AM_ED      16  1988.xx ..... ISBN 2-226-03228-2
-} e&d16          _?                           N
-- .oY.     R     _CARTER Lin                  Thongor et la citÇ des magiciens [Thongor - 4] ˛1968 Thongor in the City of Magicians ˛Trad. LABRANDE Jean-Pierre
-o AM_ED      17  1989.05 ..... ISBN 2-226-03229-0
-} e&d17          _?                           N
-- .oS.     R     _BURROUGHS Edgar Rice        Le Guerrier de Mars [Cycle de Mars - 3] ˛1914 The Warlords of Mars ˛Trad. MARTIN Charles-Noâl
-o AM_ED      18  1989.xx ..... ISBN 2-226-03230-4
-} e&d18          _?                           N
-- .oY.     R     _KIRK Richard                L'AraignÇe d'Çmeraude [La Saga de Raven - 2] ˛1978 A Time of Ghosts ˛Trad. MARCEL Patrick
-o AM_ED      19  1989.05 ..... ISBN 2-226-03231-2
-} e&d19          _?                           N
-- .oS.     R     _McCAFFREY Anne              Le Dragon chanteur [Les Harpistes - 2][La Ballade de Pern] ˛1977 Dragonsinger ˛Trad. DURASTANTI Pierre-Paul
-o AM_ED      20  1989.xx ..... ISBN 2-226-03579-6
-} e&d20          _?                           N
-- .oY.     R     _CARTER Lin                  Thongor contre les pirates de Tarakus [Thongor - 6] ˛1970 Thongor Fights the Pirates of Tarakus ˛Trad. LABRANDE Jean-Pierre
-o AM_ED      21  1989.xx ..... ISBN 2-226-03580-X
-} e&d21          _?                           N
-- .oS.     R     _BURROUGHS Edgar Rice        Thuvia, vierge de Mars [Cycle de Mars - 4] ˛1916 Thuvia Maid of Mars ˛Trad. MARTIN Charles-Noâl
-o AM_ED      22  1989.xx ..... ISBN 2-226-03581-8
-} e&d22          _?                           N
-- .oY.     R     _KIRK Richard                Le Dieu de glace [La Saga de Raven - 3] ˛1978 The Frozen Gods ˛Trad. PAGEL Michel
-o AM_ED      23  1989.09 ..... ISBN 2-226-03582-6
-} e&d23          _?                           N
-- .oS.     R     _McCAFFREY Anne              Les Tambours de Pern [Les Harpistes - 3][La Ballade de Pern] ˛1979 Dragondrums ˛Trad. RONDEAUX Eric
-
-≠o AM_ED      24  1990.xx ..... ISBN -
-≠} noimg          _?                           ?
-≠- .oS.     R     _BURROUGHS Edgar Rice        Les ConquÇrants de Mars ˛? ?
-!FIN_COLL AM_ED
 
 !-----------------------------------------------------------------------------
-_ AMF     Albin Michel, Coll. Fantastique ˛1968
+_ AMF     Albin Michel - Fantastique ˛1968
 !-----------------------------------------------------------------------------
 !--- Fantastique - Albin Michel (1968)
 !--- (poches, prÇsentation identique aux SF 1äre sÇrie
@@ -1882,7 +2055,7 @@ o AMF         1i 1968.05 ..... ISBN -
 !DEB_HEAD AM1
 !TIT_COLL Science-Fiction, 1äre sÇrie
 !-----------------------------------------------------------------------------
-_ AM1     Albin Michel, Coll. Science-fiction "1äre sÇrie" ˛1968-1969
+_ AM1     Albin Michel - Science-fiction "1äre sÇrie" ˛1968-1969
 !-----------------------------------------------------------------------------
 !--- SCIENCE FICTION - Albin Michel (1968-1969)
 !--- appelÇe habituellement "Albin Michel 1äre sÇrie"
@@ -1910,7 +2083,7 @@ o AM1         4i 1969.06 ..... ISBN -
 !DEB_HEAD AM2
 !TIT_COLL Science-Fiction, 2äme sÇrie
 !-----------------------------------------------------------------------------
-_ AM2     Albin Michel, Coll. Science-fiction ˛1972-1974
+_ AM2     Albin Michel - Science-fiction ˛1972-1974
 !-----------------------------------------------------------------------------
 !--- Sous la direction de Georges H. Gallet et Jacques Bergier, cette collection
 !--. de bonne qualitÇ a publiÇ 31 volumes entre juin 1972 et novembre 1974,
@@ -1933,8 +2106,8 @@ o AM2         1  1972.xx ..... ISBN -
 - .oS.     R     _WEINBAUM Stanley G.         La Flamme noire ˛1948 The Black Flame ˛Trad. GALLET Georges-H.
 o AM2         2  1972.06 ..... ISBN -
 } amsf2_02       _?                           N
-- .oS.     R     _HENNEBERG Nathalie          Le Mur de la lumiäre ˛1959
 !--- Note : Identique "An premier, äre spatiale"
+- .oS.     R     _HENNEBERG Nathalie          Le Mur de la lumiäre ˛1959
 o AM2         3  1972.06 ..... ISBN -
 } amsf2_03       _?                           N
 - .oS.     R     _KUTTNER Henry               Le Monde obscur ˛1946 The Dark World ˛Trad. MODLINGER A.
@@ -1952,8 +2125,8 @@ o AM2         7  1972.10 ..... ISBN -
 - .oS.     R     _SMITH E.E. "Doc"            TriplanÇtaire [Cycle des Lensmen - 1] ˛1932 Triplanetary ˛Trad. CHOMET Richard
 o AM2         8  1972.xx ..... ISBN -
 } amsf2_08       _?                           N
-- .oS.     R     _CUMMINGS Ray                La Fille fantìme ˛1929 The Shadow Girl ˛Trad. DUMOULIN Jean-Claude
 !--- Note : parution 1929 en magazine, 1930 en livre
+- .oS.     R     _CUMMINGS Ray                La Fille fantìme ˛1929 The Shadow Girl ˛Trad. DUMOULIN Jean-Claude
 o AM2         9  1972.11 R.... ISBN -
 } amsf2_09       _?                           N
 - .oS.     R     _MAINE David                 Les Disparus du club Chronos ˛1972
@@ -1966,9 +2139,10 @@ o AM2        11  1973.01 ..... ISBN -
 o AM2        12  1973.01 ..... ISBN -
 } amsf2_12       _?                           N
 - .oS.     R     _RAYER Francis G.            Le Cardinal des Çtoiles ˛1964 Cardinal of the Stars ˛Trad. CHWAT Paul
-o AM2        13  1973.02 R.... ISBN -
-} amsf2_13       _?                           N
-- .oS.     R2    _HOYLE Fred                 &Les Hommes-MolÇcules ˛1971 The Molecule Men and The Monster of Loch Ness ˛Trad. LATOUR Robert
+o AM2        13  1973.01 R.... ISBN -
+} amsf2_13       _Faucheux Arts Graphiques    ?
+!--- Poche - 18 cm - 252 pages
+- .oS.     R2    _HOYLE Fred                 &Les Hommes-MolÇcules ˛1971 The Molecule Men and the Monster of Loch Ness ˛Trad. LATOUR Robert
 &                _HOYLE Geoffrey              
 : .oS.     R     _HOYLE Fred                 &Les Hommes-MolÇcules ˛1971 The Molecule Men ˛Trad. LATOUR Robert
 &                _HOYLE Geoffrey              
@@ -1995,13 +2169,11 @@ o AM2        19  1973.xx ..... ISBN -
 - .oS.     R     _ANDERSON Poul               Le Hors-Le-monde ˛1971 The Byworlder ˛Trad. DUMOULIN Jean-Claude
 o AM2        20  1973.09 ..... ISBN -
 } amsf2_20       _?                           N
-- .oS.     R     _HAMILTON Edmond             L'Astre de vie ˛1947 The Star of Life ˛Trad. GUILLEMIN Jean
-!--- Premiäre parution 1959 en livre
-!--- TBC ? (synopsis => Nov ?)
+- .oS.     R     _HAMILTON Edmond             L'Astre de vie ˛1959 The Star of Life ˛Trad. GUILLEMIN Jean
 o AM2        21  1973.11 ..... ISBN -
 } amsf2_21       _?                           N
-- .oS.     R     _SCHMITZ James H.            Race dÇmoniaque ˛1968 The Tuvela / Demon Breed ˛Trad. TRUCHAUD Franáois
 !--- Nota : en serial sous le titre "The tuvela", en 1968 ,puis 1969 sous le VT "Demon breed"
+- .oS.     R     _SCHMITZ James H.            Race dÇmoniaque ˛1968 The Tuvela / Demon Breed ˛Trad. TRUCHAUD Franáois
 o AM2        22  1973.12 R.... ISBN -
 } amsf2_22       _?                           N
 - .oS.     R     _CARRIGAN R. & N.            Les Çtoiles siränes ˛1970 The siren stars ˛Trad. LATOUR Robert
@@ -2030,6 +2202,7 @@ o AM2        29  1974.08 ..... ISBN 2-226-00065-8
 : .oS.     N     _WILLIAMSON Jack             Loin de nulle part [La LÇgion de l'espace] ˛1967 Nowhere Near ˛Trad. GALLET Georges H.
 o AM2        30  1974.xx ..... ISBN 2-226-00066-6
 } amsf2_30       _?                           N
+>--- Un fix-up retravaillÇ de deux textes, la novella _The Face in the Abyss_, paru en 1923, et le roman _The Snake Mother_ paru en feuilleton en 1930.
 - .oY.     R     _MERRITT Abraham             Le Visage dans l'abåme ˛1931 The Face in the Abyss ˛Trad. CHWAT Paul
 o AM2        31  1974.xx R.... ISBN 2-226-00118-2
 } amsf2_31       _?                           N
@@ -2037,304 +2210,8 @@ o AM2        31  1974.xx R.... ISBN 2-226-00118-2
 &                _HENNEBERG Charles           
 !FIN_COLL AM2
 
-!DEB_HEAD AMS
-!TIT_COLL Super-Fiction
 !-----------------------------------------------------------------------------
-_ AMS     Albin Michel, Coll. Super-fiction ˛1975-1983
-!-----------------------------------------------------------------------------
-!--- La collection Super-Fiction a succÇdÇ Ö la collection science fiction et
-!--. a publiÇ 58 titres entre 1975 Ö 1983, de qualitÇ plus variable malgrÇ de
-!--. grands noms.
-!--- CotÇ auteurs et titres, toujours des "Doc" Smith et des Williamson, mais
-!--. aussi des signatures plus rÇcentes (Michael Coney, Marion Z. Bradley,
-!--. J. Blish, Tanith Lee), des auteurs exotiques (i.e. ni anglo-saxons, ni
-!--. francophones) : Walter Ernsting, les fräres Strougatski, Sakyo Komatsu,
-!--. Konrad Fialkowski  et un nombre non nÇgligeable de franáais : des anciens
-!--. comme Nathalie Henneberg ou le Lieutenant KijÇ et des modernes (David
-!--. Maine, Bernard Villaret, Pierre Marlson ou Michel Jeury sous son pseudo
-!--. d'Albert Higon).
-!--- Collection dirigÇe par GALLET Georges H. & BERGIER Jacques
-!--. puis Georges H. GALLET seul vers 1980.
-!--- Couverture mÇtallisÇe toujours mais beaucoup plus agrÇable, agrÇmentÇe d'une illustration couleur.
-!-----------------------------------------------------------------------------
-!FIN_HEAD AMS
-!DEB_COLL AMS
-o AMS         1  1975.05 ..... ISBN 2-226-00191-3
-} amsupf01       _?                           N
-- .oS.     R     _CONEY Michael               Syzygie ˛1973 The Deadly Ratio / Syzygy ˛Trad. GALLET Georges H.
-o AMS         2  1975.05 ..... ISBN 2-226-00192-1
-} amsupf02       _?                           N
-- .oS.     R     _LAUMER Keith                Dinosaure plage ˛1971 Dinosaur Beach ˛Trad. CHWAT Paul & GALLET Georges H.
-!--- Expansion de la nouvelle "The timesweepers" 1969
-o AMS         3  1975.05 R.... ISBN 2-226-00193-X
-} amsupf03       _?                           N
-- .oS.     R     _BLISH James                 Le Siäcle de l'Çternel ÇtÇ ˛1972 Midsummer Century ˛Trad. BARONIAN Anne
-o AMS         4  1975.05 ..... ISBN 2-226-00194-8
-} amsupf04       _?                           N
-- .oS.     R     _SIMAK Clifford D.           IngÇnieurs du cosmos ˛1939 Cosmic Engineers ˛Trad. CIMENT Jeannine et Michel
-!--- TBC (CM) 1950 ?
-o AMS         5  1975.08 ..... ISBN 2-226-00203-3
-} amsupf05       _?                           N
-- .oS.     R     _WILLIAMSON Jack             Les Enfants de la lune ˛1972 The Moon Children ˛Trad. LATOUR Robert
-o AMS         6  1975.09 ..... ISBN 2-226-00204-9
-} amsupf06       _?                           N
-- .oS.     R     _STROUGATSKI Arcady         &Les Mutants du brouillards ˛1972 Gadkie Lebedi ˛Trad. CHWAT Paul
-&                _STROUGATSKI Boris           
-o AMS         7  1975.10 ..... ISBN 2-226-00206-5
-} amsupf07       _?                           N
-- .oS.     R     _ERNSTING Walter             Le Jour oó moururent les dieux ˛1971 Der tag an dem die gîtter starben ˛Trad. OSTERRATH Jacqueline H.
-o AMS         8  1975.10 ..... ISBN 2-226-00205-7
-} amsupf08       _?                           N
-- .oS.     R     _AIKEN John                  Un monde bien perdu ˛1970 World Well Lost ˛Trad. MONVOISIN Christian
-o AMS         9  1976.01 ..... ISBN 2-226-00247-2
-} amsupf09       _?                           N
-!--- Nota: aussi [Tarzan en Afrique - 1]
-- .o .     R     _FARMER Philip JosÇ          Hadon, fils de l'antique Opar [Hadon d'Opar - 1] ˛1974 Hadon of Ancient Opar ˛Trad. GALLET Georges H.
-o AMS        10  1976.02 ..... ISBN 2-226-00248-0
-} amsupf10       _?                           N
-- .oS.     R     _Lieutenant KIJE             Les Cendres de la Terre ˛1976
-o AMS        11  1976.03 ..... ISBN 2-226-00249-9
-} amsupf11       _?                           N
-- .o .     R     _SIODMAK Curt                La Ville du ciel ˛1974 City in the Sky ˛Trad. GALLET Georges H.
-o AMS        12  1976.04 ..... ISBN 2-226-00250-2
-} amsupf12       _?                           N
-- .oS.     R     _SMITH E.E. "Doc"            Le Fulgur gris [Cycle des Lensmen - 4] ˛1939 Gray Lensman ˛Trad. CHOMET Richard
-o AMS        13  1976.05 ..... ISBN 2-226-00299-5
-} amsupf13       _?                           N
-- .oS.     R     _HENNEBERG Nathalie          Le Dieu foudroyÇ ˛1976
-o AMS        14  1976.05 ..... ISBN 2-226-00300-2
-} amsupf14       _?                           N
-- .oS.     R     _NIVEN Larry                 Protecteur [Known space] ˛1973 Protector ˛Trad. LATOUR Robert
-o AMS        15  1976.06 R.... ISBN 2-226-00301-0
-} amsupf15       _?                           N
-- .oS.     R     _CONEY Michael               Les Enfants de l'hiver ˛1974 Winter's Children ˛Trad. GALLET Georges H.
-!--- Fix-Up rÇÇcrit
-o AMS        16  1976.07 ..... ISBN 2-226-00302-9
-} amsupf16       _?                           N
-- .oS.     R     _McINTOSH J.T.               Les Sorciers de l'espace ˛1973 The Space Sorcerers / The Suiciders ˛Trad. LATOUR Robert
-o AMS        17  1976.10 ..... ISBN 2-226-00362-2
-} amsupf17       _?                           N
-- .oS.     R     _MAINE David                 GuÇrillero galactique ˛1976
-o AMS        18  1976.11 ..... ISBN 2-226-00361-4
-} amsupf18       _?                           N
-- .oS.     R     _SMITH E.E. "Doc"            Le Surfulgur [Cycle des Lensmen - 5] ˛1942-1953 Second-stage Lensman ˛Trad. CHOMET Richard
-o AMS        19  1976.11 ..... ISBN 2-226-00363-0
-} amsupf19       _?                           N
-- .oF.     R     _LUMLEY Brian                Le RÇveil de Cthulhu [Titus Crow - 1] ˛1974 The Burrowers Beneath ˛Trad. WATKINS France-Marie
-o AMS        20  1977.03 ..... ISBN 2-226-00364-9
-} amsupf20       _?                           N
-- .oS.     R     _KAPP Colin                  Les Formes du chaos ˛1972 The Patterns of Chaos ˛Trad. WATKINS France-Marie
-o AMS        21  1977.01 ..... ISBN 2-226-00407-6
-} amsupf21       _?                           N
-- .oS.     R     _STROUGATSKI Arcady         &La Troãka ˛1968 Troika ˛Trad. CHWAT Paul
-&                _STROUGATSKI Boris           
-!--- TBC CM vo 1972
-o AMS        22  1977.01 R.... ISBN 2-226-00406-8
-} amsupf22       _Thomas SchlÅck              ?
-- .oS.     R     _BRADLEY Marion Zimmer       La Planäte aux vents de folie [La Romance de TÇnÇbreuse - 1] ˛1972 Darkover Landfall ˛Trad. VINCENT Anette
-o AMS        23  1977.04 ..... ISBN 2-226-00407-6
-} amsupf23       _?                           N
-- .oS.     R     _MARLSON Pierre             &L'Empire du peuple ˛1977
-&                _HIGON Albert                
-o AMS        24  1977.05 ..... ISBN 2-226-00408-4
-} amsupf24       _?                           N
-!--- Nota : aussi [Tarzan en Afrique - 2]
-- .oS.     R     _FARMER Philip JosÇ          Fuite Ö Opar [Hadon d'Opar - 2] ˛1976 Flight to Opar ˛Trad. GALLET Georges H.
-o AMS        25  1977.07 R.... ISBN 2-226-00465-3
-} amsupf25       _?                           N
-- .oS.     R     _BRUNNER John                L'äre des miracles ˛1965-1973 The Day of the Star Cities / Ages of Miracles ˛Trad. SERPH F.
-o AMS        26  1978.05 ..... ISBN 2-226-00463-7
-} amsupf26       _?                           N
-- .oS.     R     _SMITH E.E. "Doc"            Les Enfants du Joyau [Cycle des Lensmen - 6] ˛1947 Children of the Lens ˛Trad. CHOMET Richard
-o AMS        27  1977.08 ..... ISBN 2-226-00464-5
-} amsupf27       _?                           N
-- .oF.     R     _LUMLEY Brian                La Fureur de Cthulhu [Titus Crow - 2] ˛1975 The Transition of Titus Crow ˛Trad. WATKINS France-Marie
-o AMS        28  1977.xx ..... ISBN 2-226-00467-X
-} amsupf28       _?                           N
-- .oS.     R     _KOMATSU Sakyo               La Submersion du Japon ˛1973 Nippon Chinbotsu ˛Trad. MASUMI Shibata & SHIBATA Maryse
-!--- Titre US ? Japan sinks
-o AMS        29  1978.01 ..... ISBN 2-226-00571-4
-} amsupf29       _?                           N
-- .oS.     R     _CONEY Michael               Rax ˛1975 Hello Summer, Goodbye / Rax ˛Trad. WATKINS France-Marie
-o AMS        30  1978.01 ..... ISBN 2-226-00572-2
-} amsupf30       _?                           N
-- .oS.     R     _LAUMER Keith                Le Long CrÇpuscule ˛1969 And now They Wake / The Long Twilight ˛Trad. LATOUR Robert
-o AMS        31  1978.02 R.... ISBN 2-226-00573-0
-} amsupf31       _?                           N
-- .oS.     R     _WILLIAMSON Jack             Le Pouvoir noir ˛1976 The Power of Blackness ˛Trad. SERPH Franáoise & GALLET Georges H.
-o AMS        32  1978.03 ..... ISBN 2-226-00574-9
-} amsupf32       _?                           N
-- .oS.     R     _VAN VOGT Alfred E.          Les Galactiques secrets ˛1974 The Secret Galactics / Earth Factor X ˛Trad. VINCENT Annette
-o AMS        33  1978.06 ..... ISBN 2-226-00628-1
-} amsupf33       _?                           N
-- .oS.     R     _VARENDE Yves                Le Gadget de l'Apocalypse ˛1978
-o AMS        34  1978.07 ..... ISBN 2-226-00629-X
-} amsupf34       _?                           N
-- .oF.     R     _LUMLEY Brian                Les Abominations de Cthulhu [Titus Crow - 3] ˛1978 The Clock of Dreams / De Marigny's Dream Quest ˛Trad. WATKINS France-Marie
-!--- TBC (CM) ˛1975 The clock of dreams / De Marigny's dream quest
-o AMS        35  1978.08 R.... ISBN 2-226-00630-3
-} amsupf35       _?                           N
-- .oS.    kU3    _NIVEN Larry                 Un monde hors du temps ˛1976 A World Out of Time ˛Trad. SERPH Franáoise & GALLET Georges H.
-!--- Nota : Fix-Up de :
-!---        Rammer (1971, Nvlle),
-!---        Down and out (1976, Nvlle),
-!---        Children of the state (1976, Roman ou novella)
-o AMS        36  1978.09 ..... ISBN 2-226-00631-1
-} amsupf36       _?                           N
-- .oS.     R     _SMITH E.E. "Doc"            Les Maåtres du Vortex [Cycle des Lensmen - 7] ˛1960 Lensman Universe / Masters of the Vortex ˛Trad. WATKINS France-Marie
-o AMS        37  1979.01 R.... ISBN 2-226-00721-0
-} amsupf37       _?                           N
-- .oS.     R     _BRADLEY Marion Zimmer       La Chaåne brisÇe [La Romance de TÇnÇbreuse - 7] ˛1976 The Shattered Chain ˛Trad. VINCENT Anette
-o AMS        38  1979.03 ..... ISBN 2-226-00722-9
-} amsupf38       _?                           N
-- .oS.     R     _KARREL Peter                Le Songe de Kronos ˛1972
-o AMS        39  1979.03 ..... ISBN 2-226-00732-6
-} amsupf39       _?                           N
-- .oS.     R     _DICKSON Gordon R.           La Masse Pritcher ˛1972 The Pritcher Mass ˛Trad. KASSABOV Ivan
-o AMS        40  1979.04 ..... ISBN 2-226-00724-5
-} amsupf40       _?                           N
-- .oF.     R     _LUMLEY Brian                Le DÇmon du vent [Titus Crow - 4] ˛1978 Spawn of the Winds ˛Trad. WATKINS France-Marie
-o AMS        41  1979.06 ..... ISBN 2-226-00817-9
-} amsupf41       _?                           N
-- .oS.     R     _CHALKER Jack L.             Une jungle d'Çtoiles ˛1975 A Jungle of Stars ˛Trad. LATOUR Robert
-o AMS        42  1979.08 ..... ISBN 2-226-00818-7
-} amsupf42       _?                           N
-- .oS.     R     _KAPP Colin                  L'Arme du chaos ˛1977 Chaos Weapon ˛Trad. WATKINS France-Marie
-o AMS        43  1979.10 ..... ISBN 2-226-00817-5
-} amsupf43       _?                           N
-- .oS.     R     _Lieutenant KIJE             Celten Taurogh ˛1961
-o AMS        44  1980.01 ..... ISBN 2-226-00820-9
-} amsupf44       _?                           N
-- .oS.     R     _NORTON AndrÇ                OpÇration Atlantis ˛1967 Operation Time Search ˛Trad. WEINER Bernard
-o AMS        45  1980.02 ..... ISBN 2-226-00932-9
-} amsupf45       _?                           N
-- .oF.     R     _LUMLEY Brian                Les Lunes de BorÇe [Titus Crow - 5] ˛1979 In the Moons of Borea ˛Trad. WATKINS France-Marie
-o AMS        46  1980.04 ..... ISBN 2-226-00933-7
-} amsupf46       _?                           N
-- .oS.     R     _CHANDLER A. Bertram         Le Long DÇtour ˛1976 The Way Back ˛Trad. WATKINS France-Marie
-o AMS        47  1980.05 ..... ISBN 2-226-00934-5
-} amsupf47       _?                           N
-- .oS.     R     _MAINE David                 Renaissance planÇtaire ˛1980
-o AMS        48  1980.07 ..... ISBN 2-226-00935-3
-} amsupf48       _?                           N
-- .oS.     R     _LAKE David J.               Les Dieux de Xuma [Breakout - 4] ˛1978 The Gods of Xuma or Barsoom Revisited ˛Trad. KASSABOV Ivan
-o AMS        49  1980.10 ..... ISBN 2-226-00936-1
-} amsupf49       _?                           N
-- .oS.     R     _McCAFFREY Anne              La Planäte des dinosaures ˛1978 Dinosaur Planet ˛Trad. LURCEY Yves
-o AMS        50  1980.11 ..... ISBN 2-226-00928-0
-} amsupf50       _?                           N
-- .oS.     R     _HOYLE Fred                 &Les Incandescents ˛1977 The Incandescent Ones ˛Trad. LATOUR Robert
-&                _HOYLE Geoffrey              
-o AMS        51  1980.xx ..... ISBN 2-226-01142-0
-} amsupf51       _?                           N
-- .oS.     R     _Lieutenant KIJE             La Guerre des machines ˛1959
-o AMS        52  1981.05 R.... ISBN 2-226-01198-6
-} amsupf52       _?                           N
-- .oS.     R     _LEE Tanith                  La Foràt Çlectrique ˛1979 Electric Forest ˛Trad. WEINER Bernard
-o AMS        53  1982.02 ..... ISBN 2-226-01388-1
-} amsupf53       _?                           N
-- .oS.     R     _MAINE David                 Invasion cosmique ˛1982
-o AMS        54  1982.02 ..... ISBN 2-226-01390-3
-} amsupf54       _?                           N
-- .oS.     R     _McCAFFREY Anne              ReconstituÇe ˛1967 Restoree ˛Trad. COWEN Eric
-o AMS        55  1982.09 ..... ISBN 2-226-01495-0
-} amsupf55       _?                           N
-- .oS.     R     _KAPP Colin                  Commandos para-ion ˛1978 The Ion War ˛Trad. WATKINS France-Marie & GALLET Georges H.
-o AMS        56  1983.01 ..... ISBN 2-226-01562-0
-} amsupf56       _?                           N
-- .oS.     R     _VERMEULEN John              Le Bouffon binaire ˛1980 Binary joker ˛Trad. COLSON GÇrard
-o AMS        57  1983.02 ..... ISBN 2-226-01692-9
-} amsupf57       _?                           N
-- .oS.     R     _VILLARET Bernard            Quand reviendra l'Oiseau-nuage ˛1983
-o AMS        58  1983.04 ..... ISBN 2-226-01772-0
-} amsupf58       _?                           N
-- .oS.     R     _FIALKOWSKI Konrad           Homo divisus ˛1979 Homo divisus ˛Trad. DYEVRE Laurence
-!FIN_COLL AMS
-
-!DEB_HEAD AMSP
-!TIT_COLL Super+Fiction
-!-----------------------------------------------------------------------------
-_ AMSP    Albin Michel, Coll. Super+fiction ˛1977-1984
-!-----------------------------------------------------------------------------
-!--- Encore une collection Ö couverture cartonnÇe mÇtallisÇe, ornÇe d'une 
-!--. illustration aux couleurs Çgalement mÇtalliques, d'un modäle proche
-!--. de la collection Super Fiction, mais grand format (le "+" !).
-!--- Vingt volumes publiÇs de 1977 Ö 1984 et numÇrotÇs de 1 Ö 21 (le 18 n'Çtant
-!--. jamais paru). On y trouve Ö plusieurs reprises Bradley, Clarke, Foster.
-!--- Format : 13.5 x 21.
-!--- Directeurs de collection : Jacques BERGIER et Georges H. GALLET
-!--.  puis Georges H. GALLET seul Ö partir du numÇro 6.
-!-----------------------------------------------------------------------------
-!FIN_HEAD AMSP
-!DEB_COLL AMSP
-o AMSP        1i 1977.xx ..... ISBN 2-226-00435-1
-} ams+f01        _?                           N
-- .oS.     R     _CLARKE Arthur C.            Terre, planäte impÇriale ˛1975 Imperial Earth ˛Trad. GALLET Georges H.
-o AMSP        2  1977.xx R.... ISBN 2-226-00466-1
-} ams+f02        _?                           N
-- .oS.     R     _HERBERT Frank               La Ruche d'Hellstrom ˛1973 Project 40 / Hellstrom's Hive ˛Trad. LATOUR Robert
-o AMSP        3  1978.xx ..... ISBN 2-226-00632-X
-} ams+f03        _?                           N
-- .oS.     R     _WILSON Colin                Les Vampires de l'espace ˛1976 The Space Vampires ˛Trad. GALLET Georges H.
-o AMSP        4  1978.xx R.... ISBN 2-226-00726-1
-} ams+f04        _?                           N
-- .oS.     R     _VAN VOGT Alfred E.          Le Colosse anarchique ˛1977 The Anarchistic Colossus ˛Trad. GALLET Georges H.
-o AMSP        5  1979.xx R.... ISBN 2-226-00725-3
-} ams+f05        _?                           N
-- .oS.     R     _CORLEY Edwin                Sargasso ˛1977 Sargasso ˛Trad. GALLET Georges H.
-o AMSP        6  1980.xx R.... ISBN 2-226-00885-3
-} ams+f06        _?                           N
-- .oS.     R     _CAIDIN Martin               Mission Aquarius ˛1978 Aquarius Mission ˛Trad. GALLET Georges H.
-o AMSP        7  1980.xx ..... ISBN 2-226-00937-X
-} ams+f07        _?                           N
-- .oS.     R     _CLARKE Arthur C.            Les Fontaines du paradis ˛1979 The Fountains of Paradise ˛Trad. GALLET Georges H.
-o AMSP        8  1980.08 ..... ISBN 2-226-01022-X
-} ams+f08        _?                           N
-- .oS.     R     _GUNN James E.               Kampus ˛1977 Kampus ˛Trad. WATKINS France-Marie
-o AMSP        9  1981.xx ..... ISBN 2-226-01072-6
-} ams+f09        _?                           N
-- .oS.     R     _KAZANTZEV Alexandre         Plus fort que le temps ˛1973 Sil'neãe vremeni ˛Trad. NIDERMILLER Nina
-o AMSP       10  1981.02 R.... ISBN 2-226-01130-7
-} ams+f10        _?                           N
-- .oS.     R     _BRADLEY Marion Zimmer       Reine des orages ! [La Romance de TÇnÇbreuse - 2] ˛1978 Stormqueen! ˛Trad. WATKINS France-Marie
-o AMSP       11  1981.xx R.... ISBN 2-226-01158-7
-} ams+f11        _?                           N
-- .oS.     R     _WILLIAMSON Jack             Fräre de dÇmons, fräre de dieux ˛1979 Brother to Demons, Brother to God ˛Trad. GALLET Georges H.
-o AMSP       12  1981.xx ..... ISBN 2-226-01236-2
-} ams+f12        _?                           N
-- .oS.     R     _BRUNNER John                Double, double ˛1969 Double, Double ˛Trad. LATOUR Robert
-o AMSP       13  1981.xx R.... ISBN 2-226-01255-9
-} ams+f13        _?                           N
-- .oS.     F     _ASIMOV Isaac                Le Voyage fantastique ˛1966 Fantastic Voyage ˛Trad. LATOUR Robert
-o AMSP       14  1981.xx ..... ISBN 2-226-01315-6
-} ams+f14        _?                           N
-- .oS.     R     _NIVEN Larry                &La Poussiäre dans l'oeil de Dieu ˛1974 The Mote in God's Eye ˛Trad. COWEN Eric
-&                _POURNELLE Jerry             
-o AMSP       15  1982.xx ..... ISBN 2-226-01411-X
-} ams+f15        _?                           N
-- .oS.     R     _CARR Jayge                  L'Abåme du lÇviathan ˛1979 Leviathan's Deep ˛Trad. VONARBURG Elisabeth
-o AMSP       16  1982.xx ..... ISBN 2-226-01481-0
-} ams+f16        _?                           N
-- .oS.     R     _LEE Tanith                  Le Jour, la nuit ˛1981 Day by Night ˛Trad. VONARBURG Elisabeth
-o AMSP       17  1982.07 ..... ISBN 2-226-01594-9
-} ams+f17        _?                           N
-- .oS.     R     _FOSTER Michaâl A.           Les Guerriers d'Aurore ˛1975 The warriors of Dawn ˛Trad. COWEN Eric & GALLET Georges H.
-≠o AMSP       18  1982.xx ..... ISBN 2-226-0-...-.
-≠} noimg          _?                           ?
-≠- .oS.     R     _CLARKE Arthur C.            Les Prairies bleues ˛1957 The Deep Range
-o AMSP       19  1983.xx ..... ISBN 2-226-01467-5
-} ams+f19        _Holmäs-Lebel                ?
-- .oS.     R     _BRADLEY Marion Zimmer       L'êpÇe enchantÇe [La Romance de TÇnÇbreuse - 10] ˛1974 The Spell Sword ˛Trad. POTTS Vivian
-o AMSP       20  1983.xx ..... ISBN 2-226-01791-7
-} ams+f20        _?                           N
-- .oS.     R     _FOSTER Michaâl A.           Le Jour des Klesh ˛1979 The day of the Klesh ˛Trad. GALLET Georges H.
-o AMSP       21  1984.xx ..... ISBN 2-226-02087-X
-} ams+f21        _?                           N
-- .oS.     R     _CHALKER Jack L.             Et le diable vous emporte ˛1979 And the Devil Will Drag You Under ˛Trad. VONARBURG Elisabeth
-!FIN_COLL AMSP
-
-!-----------------------------------------------------------------------------
-_ AM_POCH Albin Michel, Coll. Albin' Poche
+_ AM_POCH Albin Michel - Albin' Poche
 !-----------------------------------------------------------------------------
 !---  Albin Michel/Albin' Poche
 !--- Sous-titrÇ, selon les volumes ou les sÇries : Aventures Galactiques, Vous
@@ -2342,22 +2219,23 @@ _ AM_POCH Albin Michel, Coll. Albin' Poche
 !--- aventures de RÇmy Gauthier...
 !-----------------------------------------------------------------------------
 o AM_POCH     1  1987.xx ..... ISBN 2-226-03038-7
-}albpoche01      _PARIS Joâlle                ?
+} albpoche01     _PARIS Joâlle                ?
 - .oS.     R     _PRUDON HervÇ                En route pour Zanzibar ˛1987
 o AM_POCH     2  1987.xx ..... ISBN 2-226-03059-X
-}albpoche01      _?                           ?
+} albpoche01     _?                           ?
 - .oS.     R     _SMADJA Edgar                NapolÇon pizza ˛1987
 o AM_POCH     9  1987.xx ..... ISBN 2-226-02857-9
-}albpoche09      _CHRETIEN Sylvie             ?
+} albpoche09     _CHRETIEN Sylvie             ?
 - .oS.     R     _DUNANT Mathias              Mercenaire du cosmos [Les Orphelins de l'espace - 1] ˛1987
 o AM_POCH    10  1987.xx ..... ISBN 2-226-02856-0
-}albpoche10      _CHRETIEN Sylvie             ?
+} albpoche10     _CHRETIEN Sylvie             ?
 - .oS.     R     _DUNANT Mathias              Le Monstre de Jarama [Les Orphelins de l'espace - 2] ˛1987
 o AM_POCH    11  1987.10 R.... ISBN 2-226-03040-9
-}albpoche11      _MANCHU                      ?
+} albpoche11     _MANCHU                      ?
 - .oS.     R     _HAMILTON Edmond             L'Arme de nulle part [Les Loups des Çtoiles - 1] ˛1967 The Weapon from Beyond ˛Trad. CHOMET Richard
 o AM_POCH    12  1987.11 ..... ISBN 2-226-03039-5
-}albpoche12      _MANCHU                      ?
+} albpoche12     _MANCHU                      ?
+!--- Poche - 
 - .oS.    kN4    _ANDERSON Poul               Agent de l'empire terrien [Flandry] ˛1987
 : .oS.     N     _ANDERSON Poul               Le Tigre par la queue [Flandry] ˛1951 Tiger by the Tail
 : .oS.     N     _ANDERSON Poul               Les Guerriers de nulle part [Flandry] ˛1954 Warriors from Nowhere / The Ambassadors of Flesh
@@ -2365,20 +2243,14 @@ o AM_POCH    12  1987.11 ..... ISBN 2-226-03039-5
 : .oS.     N     _ANDERSON Poul               Pour la gloire [Flandry] ˛1958 The Game of Glory
 o AM_POCH    18  1987.xx ..... ISBN 2-226-02858-7
 !--- ISBN 2-226-02856-0 erronÇ
-}albpoche10      _CHRETIEN Sylvie             ?
+} albpoche10     _CHRETIEN Sylvie             ?
 - .oS.     R     _DUNANT Mathias              La Onziäme Lune [Les Orphelins de l'espace - 3] ˛1987
 o AM_POCH    17  1987.xx ..... ISBN 2-226-02855-2
-}albpoche10      _CHRETIEN Sylvie             ?
+} albpoche10     _CHRETIEN Sylvie             ?
 - .oS.     R     _DUNANT Mathias              Les Chevaux de Soulimane [Les Orphelins de l'espace - 4] ˛1987
-?o AM_POCH    21  1988.xx ..... ISBN 2-226-.....-.
-?} noimg          _?                           ?
-?- .oS.     R     _ANDERSON Poul               La Caverne du ciel [Flandry] ˛1988 Agent of the Terran Empire
-?o AM_POCH    22  1988.xx ..... ISBN 2-226-.....-.
-?} noimg          _?                           ?
-?- .oS.     R     _HAMILTON Edmond             Les Mondes interdits [Les Loups des Çtoiles - 2] ˛1968 The Closed Worlds
 
 !-----------------------------------------------------------------------------
-_ AMCP    Albin Michel, Coll. Les Compagnons de la Peur
+_ AMCP    Albin Michel - Les Compagnons de la Peur
 !-----------------------------------------------------------------------------
 !---  Les compagnons de la peur
 !--- (fantastique)
@@ -2433,11 +2305,11 @@ o AMCP       16  2000.xx ..... ISBN 2-226-11228-6
 - .oF.     R     _QUENOT Katherine E.         Les Otages du futur ˛2000
 
 !-----------------------------------------------------------------------------
-_ AMFE    Albin Michel, Coll. Le Furet Enquàte
+_ AMFE    Albin Michel - Le Furet Enquàte
 !-----------------------------------------------------------------------------
 !---  Le furet enquàte
 !-----------------------------------------------------------------------------
-o AMFE        ?  2000.xx ..... ISBN .-.....-...-.
+o AMFE        ?  2000.xx ..... ISBN 2-226-11173-5
 } noimg          _?                           ?
 - .xP.     R     _COTE Denis                  Traque dans la neige ˛2000
 
@@ -2482,9 +2354,9 @@ o AM_GER      ?  2013.03 ..... ISBN 978-2-226-24735-3
 - .oS.     R     _STILTON Geronimo            Le Voyage dans le temps - Tome 4 - ClÇopÉtre, Gengis Khan, Elisabeth 1er d'Angleterre [Le Voyage dans le temps - 4][Geronimo Stilton] ˛2011 Viaggo nel tempo 4 ˛Trad. PLUMEDERAT Titi
 
 !-----------------------------------------------------------------------------
-_ AM_WIZ  Albin Michel, Coll. Wiz
-_ AM_WIC  Albin Michel, Coll. Wiz, Ed. Collector
-_ AM_JEU  Albin Michel Jeunesse
+_ AM_WIZ  Albin Michel - Wiz
+_ AM_WIC  Albin Michel - Wiz - Edition Collector
+_ AM_JEU  Albin Michel - Albin Michel Jeunesse
 !-----------------------------------------------------------------------------
 !---  Wiz
 !-----------------------------------------------------------------------------
@@ -2493,7 +2365,7 @@ _ AM_JEU  Albin Michel Jeunesse
 !------------------------
 o AM_WIZ      ?  2002.09 ..... ISBN 2-226-12972-3
 } noimg          _?                           ?
-- .oS.     R     _HOEYE Michael               Le temps ne s'arràte pas pour les souris [Hermux Tantamoq - 1] ˛2000 Time Stop for No Mouse ˛Trad. PRACONTAL Mona de
+- .oS.     R     _HOEYE Michael               Le temps ne s'arràte pas pour les souris [Hermux Tantamoq - 1] ˛2000 Time Stops for No Mouse ˛Trad. PRACONTAL Mona de
 o AM_WIZ      ?  2002.10 ..... ISBN 2-226-12973-1
 } noimg          _?                           ?
 - .oF.     R     _JUBERT HervÇ                Le Quadrille des assassins [La Trilogie Morgenstern - 1] ˛2002
@@ -2536,7 +2408,7 @@ o AM_WIZ      ?  2003.10 ..... ISBN 2-226-13643-7
 !------------------------
 o AM_WIZ      ?  2004.05 ..... ISBN 2-226-15018-8
 } noimg          _?                           ?
-- .oF.     R     _BYNG Georgia                Molly Moon arràte le temps [Molly Moon - 2] ˛2003 Molly Moon Stops the Worlds ˛Trad. JUSFORGUE Pascale
+- .oF.     R     _BYNG Georgia                Molly Moon arràte le temps [Molly Moon - 2] ˛2003 Molly Moon Stops the World ˛Trad. JUSFORGUE Pascale
 o AM_WIZ      ?  2004.05 ..... ISBN 2-226-15017-X
 } noimg          _?                           ?
 - .oF.     R     _JUBERT HervÇ                Sabbat Samba [La Trilogie Morgenstern - 3] ˛2004
@@ -2550,7 +2422,7 @@ o AM_WIZ      ?  2004.11 ..... ISBN 2-226-15298-9
 } noimg          _?                           ?
 + AM_WIZ      ?  2008.02 ..... ISBN 978-2-226-15298-5
 } noimg          _?                           ?
-- .oF.     R     _STROUD Jonathan             L'Oeil du Golem [Trilogie de BartimÇus - 2] ˛2004 Golem's Eye ˛Trad. COLLON HÇläne
+- .oF.     R     _STROUD Jonathan             L'Oeil du Golem [Trilogie de BartimÇus - 2] ˛2004 The Golem's Eye ˛Trad. COLLON HÇläne
 !------------------------
 !=== 2005
 !------------------------
@@ -2746,7 +2618,7 @@ o AM_WIZ      ?  2009.05 ..... ISBN 978-2-226-18339-2
 - .oF.     R     _STOLARZ Laurie Faria        Bleu cauchemar [Bleu cauchemar - 1] ˛2003 Blue Is for Nightmares ˛Trad. LE PLOUHINEC ValÇrie
 o AM_WIZ      ?  2009.06 ..... ISBN 978-2-226-19193-9
 } noimg          _?                           ?
-- .oF.     R     _DE LA CRUZ Melissa          Les Sang-D'argent [Les Sang-Bleu - 3] ˛2008 Revelations ˛Trad. LE PLOUHINEC ValÇrie
+- .oF.     R     _DE LA CRUZ Melissa          Les Sang-d'Argent [Les Sang-Bleu - 3] ˛2008 Revelations ˛Trad. LE PLOUHINEC ValÇrie
 o AM_WIZ      ?  2009.09 ..... ISBN 978-2-226-18355-2
 } noimg          _Michel Bourgouin            ?
 - .oF.     R     _STROUD Jonathan             Les HÇros de la vallÇe ˛2009 Heroes of the Valley ˛Trad. COLLON HÇläne
@@ -2840,7 +2712,10 @@ o AM_WIZ      ?  2011.01 ..... ISBN 978-2-226-21841-4
 - .oY.     R     _STOLARZ Laurie Faria        Mortels petits secrets [Touch - 1] ˛2008 Deadly Little Secret ˛Trad. LE PLOUHINEC ValÇrie
 o AM_WIZ      ?  2011.02 ..... ISBN 978-2-226-21999-2
 } noimg          _?                           ?
-- .oF.     R     _DE LA CRUZ Melissa          Bloody Valentine [Les Sang-Bleu] ˛2010 Bloody Valentine ˛Trad. LE PLOUHINEC ValÇrie
+- .oF.     N3    _DE LA CRUZ Melissa          Bloody Valentine [Les Sang-Bleu - 6] ˛2010 Bloody Valentine ˛Trad. LE PLOUHINEC ValÇrie
+: .oF.     N     _DE LA CRUZ Melissa          Nuit d'ivresse Ö Manhattan [Les Sang-Bleu] ˛2010 Just Another Night in Suck City
+: .oF.     N     _DE LA CRUZ Melissa          Tout ce que je vois me fait penser Ö toi [Les Sang-Bleu] ˛2010 Always Something There to Remind Me
+: .oF.     N     _DE LA CRUZ Melissa          L'Anneau de feu [Les Sang-Bleu] ˛2010 Ring of Fire
 o AM_WIZ      ?  2011.02 ..... ISBN 978-2-226-21988-6
 } noimg          _Steve Augarde               ?
 - .oF.     R     _AUGARDE Steve               Le Peuple des Minuscules [Le Peuple des Minuscules - 1] ˛2005 The Various ˛Trad. ESCH Jean
@@ -2858,7 +2733,7 @@ o AM_WIZ      ?  2011.04 ..... ISBN 978-2-226-22001-1
 - .oF.     R     _MAIZEL Rebecca              Humaine [Vampire Queen - 1] ˛2010 Infinite Days ˛Trad. LE PLOUHINEC ValÇrie
 o AM_WIZ      ?  2011.04 ..... ISBN 978-2-226-22000-4
 } noimg          _Laurent Besson              ?
-- .oF.     R     _THOMPSON Colin              Les 100 Portes secrätes ˛2004 How To Live Forever ˛Trad. SEELOW Alice
+- .oF.     R     _THOMPSON Colin              Les 100 Portes secrätes ˛2004 How to Live Forever ˛Trad. SEELOW Alice
 o AM_WIZ      ?  2011.05 ..... ISBN 978-2-226-22003-5
 } noimg          _Alex Cao                    ?
 - .oF.     R     _SELZER Adam                 J'ai embrassÇ un zombie (et j'ai adorÇ) ˛2010 I Kissed a Zombie, and I Liked It ˛Trad. MORAN CÇcile
@@ -3011,7 +2886,7 @@ o AM_WIZ      ?  2014.10 ..... ISBN 978-2-226-25788-8
 } noimg          _Steve Stone                 ?
 - .oF.     R     _RIORDAN Rick                Percy Jackson et les dieux grecs [Percy Jackson] ˛2014 Percy Jackson and the Greek Gods ˛Trad. PRACONTAL Mona de
 o AM_WIZ      ?  2014.11 ..... ISBN 978-2-226-25790-1
-} noimg          _Laurent Besson / ? Corbis   ?
+} noimg          _Laurent Besson / (c)Corbis  ?
 - .oF.     R     _ACCARDO Jus                 Toxic [Deznee - 2] ˛2012 Toxic ˛Trad. FRAISSE FrÇdÇrique
 o AM_JEU      ?  2014.10 ..... ISBN 978-2-226-25777-2
 } noimg          _Titwane                     ?
@@ -3230,35 +3105,110 @@ o AM_WIZ      ?  2020.10 ..... ISBN 978-2-226-44934-4
 } noimg          _ChloÇ Bristol               ChloÇ Bristol
 !--- Jeunesse 10+ - 145 x 215 mm - 448 pages - 15,90 euros
 - .oF.     R     _GUTERSON Ben                Les Mystäres de Winterhouse Hìtel [Winterhouse Hìtel - 3] ˛2019 The Winterhouse Mysteries ˛Trad. HOMASSEL Anne-Sylvie
+!------------------------
+!=== 2021
+!------------------------
+o AM_WIZ      ?  2021.04 ..... ISBN 978-2-226-46088-2
+} noimg          _?                           ?
+!--- YA - GF - 145 x 215 - 512 pages
+- .o .     r     _KING Stephen                Les Langoliers ˛1990 The Langoliers ˛Trad. DESMOND William
+o AM_WIZ      ?  2021.07 ..... ISBN 978-2-226-46089-9
+} noimg          _? Shutterstock              ?
+!--- YA 15+ - GF - 145x215 - 192 pages
+- .o .     r     _KING Stephen                Les êvadÇs ˛1982 Rita Hayworth and Shawshank Redemption ˛Trad. ALIEN Pierre
+o AM_JEU      ?  2021.09 ..... ISBN 978-2-226-46034-9
+} noimg          _Ninn SalaÅn                 ?
+!--- Jeunesse - GF - 150x230 - 320 pages - 16,90 euros
+- .oS.     R     _NSAFOU Laura                Nos jours brñlÇs [Nos jours brñlÇs - 1] ˛2021
+o AM_WIZ      ?  2021.10 ..... ISBN 978-2-226-46090-5
+} noimg          _? Shutterstock              ?
+!--- YA 13+ - GF - 145x215 
+- .o .     N     _KING Stephen                Chambre 1408 ˛2002 1408 ˛Trad. DESMOND William Olivier
+o AM_JEU      ?  2021.11 ..... ISBN 978-2-226-46868-0
+} noimg          _Khadijah Khatib + Lavanya Naidu
+!--- Jeunesse - GF - GF - 449 pages
+- .o .     R     _RIORDAN Rick                L'hÇritiäre des abysses ˛2021 Daughter of the Deep ˛Trad. PRACONTAL Mona de & SERVAL Nathalie
+o AM_JEU      ?  2021.11 ..... ISBN 978-2-226-44920-7
+} noimg          _?                           ?
+!--- Jeunesse - GF - GF - 384 pages
+- .o .     R     _MERRITT Kory                Pas de quartier pour les monstres ˛2020 No Place for Monsters ˛Trad. ESCH Jean
+o AM_WIZ      ?  2021.11 ..... ISBN 978-2-226-46131-5
+} noimg          _?                           ?
+!--- Jeunesse - GF - GF - 368 pages
+- .o .     R     _COLMAN Alyssa               Le Pacte magique ˛2021 The Gilded Girl ˛Trad. ROCHEFORT Margot
+o AM          ?  2021.11 ..... ISBN 978-2-226-46661-7
+} noimg          _Thibault Prugne             Thibault Prugne
+!--- Jeunesse 9+ - GF - 227x308 
+- .o .     R     _GRAHAME Kenneth             Le Vent dans les saules ˛1908 The Wind in the Willows ˛Trad. JOULIÇ GÇrard
+!------------------------
+!=== 2022
+!------------------------
+o AM_WIZ      ?  2022.01 ..... ISBN 978-2-226-44347-2
+} noimg          _?                           ?
+!--- YA 13+ - GF - 155x240 - 512 pages - 19,90 euros
+- .oF.     R     _POOL Katy Rose              Le Complot du masque d'or [L'Ége des tÇnäbres (K.R. Pool) - 1] ˛2019 Will Come a Darkness ˛Trad. HUET Nathalie
+o AM_WIZ      ?  2022.05 ..... ISBN 978-2-226-47183-3
+} noimg          _?                           ?
+!--- YA 13+ - GF - 145x215 - 144 pages - 11,90 euros
+- .oF.     r     _KING Stephen                Mile 81 ˛2011 Mile 81 ˛Trad. BIES OcÇane & GASSIE Nadine
+o AM_JEU      ?  2022.09 ..... ISBN 978-2-226-46035-6
+} noimg          _Ninn SalaÅn                 ?
+!--- Jeunesse 13+ - GF - 150x230 - 416 pages - 17,90 euros
+- .oS.     R     _NSAFOU Laura                Les Flammes ivoires [Nos jours brñlÇs - 2] ˛2022
+o AM_WIZ      ?  2022.10 ..... ISBN 978-2-226-47739-2
+} noimg          _?                           ?
+!--- YA - GF - 145x215 - 144 pages - 11,90 euros
+- .oF.     r     _KING Stephen                N ˛2008 N ˛Trad. DESMOND William Olivier
+!------------------------
+!=== 2023
+!------------------------
 
 
+!--- /!\ Attention, les suivants ne sont ni des romans, ni des essais
+!---  juste des des prÇsentations/explications (pour les enfants de 8ans +) de certains personnages et histoires mythologiques (prÇsentations faites par Percy Jackson, certes)
+o AM_JEU      ?  2020.02 ..... ISBN 978-2-226-44813-2
+} noimg          _Virginie Moru               Virginie Moru
+!--- Jeunesse 8+ - 140x205 - 144 pages - 9,50 euros
+- .! .     r     _RIORDAN Rick                Appolon et ArtÇmis, les jumeaux terribles [Percy Jackson et les secrets de l'Olympe - 1] ˛?? ?? ˛Trad. Nathalie Serval
+o AM_JEU      ?  2020.02 ..... ISBN 978-2-226-44814-9
+} noimg          _Virginie Moru               Virginie Moru
+!--- Jeunesse 8+ - 140x205 - 144 pages - 9,50 euros
+- .! .     r     _RIORDAN Rick                Zeus contre les Titans [Percy Jackson et les secrets de l'Olympe - 2] ˛?? ?? ˛Trad. Nathalie Serval
+o AM_JEU      ?  2020.06 ..... ISBN 978-2-226-45128-6
+} noimg          _Virginie Moru               Virginie Moru
+!--- Jeunesse 8+ - 140x205 - 160 pages - 9,90 euros
+- .! .     r     _RIORDAN Rick                ThÇsÇe le lÇgendaire [Percy Jackson et les secrets de l'Olympe - 3] ˛?? ?? ˛Trad. Nathalie Serval
+o AM_JEU      ?  2020.10 ..... ISBN 978-2-226-45233-7
+} noimg          _Virginie Moru               Virginie Moru
+!--- Jeunesse 8+ - 140x205 - 140 pages - 9,90 euros
+- .! .     r     _RIORDAN Rick                PosÇãdon et BÇllÇrophon [Percy Jackson et les secrets de l'Olympe - 4] ˛?? ?? ˛Trad. Nathalie Serval
 
 !-----------------------------------------------------------------------------
-_ AM_GOUG Ed. Albin Michel, Coll. La petite bibliothäque d'Henri Gougaud
+_ AM_GOUG Albin Michel - La petite bibliothäque d'Henri Gougaud
 !-----------------------------------------------------------------------------
 o AM_GOUG     2i 2012.02 ..... ISBN 978-2-226-18194-7
 } am_pbhg2       _?                           ?
-!--- En 7 chapitres :
-!--- Les Initiatrices
-!--- Les Reines des mÇtamorphoses
-!--- Les Puissantes
-!--- Les DÇmones
-!--- Les Carabosses et les Ogresses
-!--- Celles qui pourchassent et Celles qui dansent les sabbats
-!--- Les Ensorceleuses
-- .oNF    iN40   _MEYRAC Sophie de            Contes de sorciäres ˛2012
+!--- GF - 352 pages
+- .oNF    iNx    _MEYRAC Sophie de            Contes de sorciäres ˛2012
+: .C .     C     ****                         Les Initiatrices
+: .C .     C     ****                         Les Reines des mÇtamorphoses
+: .C .     C     ****                         Les Puissantes
+: .C .     C     ****                         Les DÇmones
+: .C .     C     ****                         Les Carabosses et les Ogresses
+: .C .     C     ****                         Celles qui pourchassent et Celles qui dansent les sabbats
+: .C .     C     ****                         Les Ensorceleuses
 o AM_GOUG     3i 2012.02 ..... ISBN 978-2-226-18197-8
 } am_pbhg3       _?                           ?
-!--- En 4 chapitres :
-!--- Les Machoires de la mort
-!--- Chevaucher le dragon
-!--- Chimäres ÇborgnÇes
-!--- L'Entre-Monde
-- .oMN    iN40   _FAUCHER Marie               Contes de dragons ˛2012
+!--- GF - 
+- .oYM    iNx    _FAUCHER Marie               Contes de dragons ˛2012
+: .C .     C     ****                         Les Machoires de la mort
+: .C .     C     ****                         Chevaucher le dragon
+: .C .     C     ****                         Chimäres ÇborgnÇes
+: .C .     C     ****                         L'Entre-Monde
 
 !-----------------------------------------------------------------------------
-_ AM_WITT Albin Michel, Coll. Witty
-_ AM_WITP Albin Michel, Coll. Mes premiers Witty
+_ AM_WITT Albin Michel - Witty
+_ AM_WITP Albin Michel - Mes premiers Witty
 !-----------------------------------------------------------------------------
 o AM_WITT     ?  2012.03 ..... ISBN 978-2-226-24046-0
 } noimg          _Susan Hellard               ?
@@ -3269,18 +3219,15 @@ o AM_WITT     ?  2012.05 ..... ISBN 978-2-226-23983-9
 o AM_WITT     ?  2012.05 ..... ISBN 978-2-226-24046-0
 } noimg          _Susan Hellard               ?
 - .oS.     R     _KINGFISHER Rupert           Madame Pamplemousse et le cafÇ Ö remonter le temps [Madame Pamplemousse - 2] ˛2009 Madame Pamplemousse and the Time-Travelling Cafe ˛Trad. LE PLOUHINEC ValÇrie
-o AM_WITT     ?  2012.11 ..... ISBN 978-2-226-24352-2
-} noimg          _Susan Hellard               ?
-- .oS.     R     _KINGFISHER Rupert           Madame Pamplemousse et la confiserie enchantÇe [Madame Pamplemousse - 3] ˛2011 Madame Pamplemousse and the Enchanted Sweet Shop ˛Trad. LE PLOUHINEC ValÇrie
-o AM_WITT     ?  2012.11 ..... ISBN 978-2-226-24047-7
-} noimg          _Johnny Duddle               ?
-- .oF.     R     _KEILTY Derek                Le Cri du dragon-foudre [Will Gallows - 2] ˛2011 Will Gallows and the Thunder Dragon's Roar ˛Trad. SARAH Tardy
-o AM_WITT     ?  2012.10 ..... ISBN 978-2-226-24352-2
-} noimg          _Susan Hellard               ?
-- .oS.     R     _KINGFISHER Rupert           Madame Pamplemousse et la confiserie enchantÇe [Madame Pamplemousse - 3] ˛2010 Madame Pamplemousse and the Enchanted Sweet Shop ˛Trad. LE PLOUHINEC ValÇrie
 o AM_WITT     ?  2012.09 ..... ISBN 978-2-226-24239-6
 } noimg          _KLISE M. Sarah              KLISE M. Sarah
 - .oF.     R     _KLISE Kate                  TrÇpassez votre chemin [43, rue du vieux-cimetiäre - 1] ˛2009 Dying to Meet You ˛Trad. GABORIAUD Mickey
+o AM_WITT     ?  2012.10 ..... ISBN 978-2-226-24352-2
+} noimg          _Susan Hellard               ?
+- .oS.     R     _KINGFISHER Rupert           Madame Pamplemousse et la confiserie enchantÇe [Madame Pamplemousse - 3] ˛2010 Madame Pamplemousse and the Enchanted Sweet Shop ˛Trad. LE PLOUHINEC ValÇrie
+o AM_WITT     ?  2012.11 ..... ISBN 978-2-226-24047-7
+} noimg          _Johnny Duddle               ?
+- .oF.     R     _KEILTY Derek                Le Cri du dragon-foudre [Will Gallows - 2] ˛2011 Will Gallows and the Thunder Dragon's Roar ˛Trad. SARAH Tardy
 o AM_WITT     ?  2013.01 ..... ISBN 978-2-226-24594-6
 } noimg          _KLISE M. Sarah              KLISE M. Sarah
 - .oF.     R     _KLISE Kate                  Il faudra me passer sur le corps [43, rue du vieux-cimetiäre - 2] ˛2009 Over My Dead Body ˛Trad. GABORIAUD Mickey
@@ -3308,92 +3255,6 @@ o AM_WITP     ?  2017.xx ..... ISBN 978-2-226-39226-8
 o AM_WITP     ?  2017.xx ..... ISBN 978-2-226-40109-0
 } noimg          _Laura Ellen Anderson        Laura Ellen Anderson
 - .oF.     R     _BURNELL Cerrie              Harper et la foràt de la nuit [Marie-MÇlodie - 3] ˛2017 Harper and the Night Forest ˛Trad. GABORIAUD Mickey
-
-
-
-
-!-----------------------------------------------------------------------------
-! AM_IMA  Albin Michel, Coll. Imaginaire
-!-----------------------------------------------------------------------------
-!------------------------
-!=== 2018
-!------------------------
-o AM_IMA      ?  2018.10 ..... ISBN 978-2-226-43664-1
-} noimg          _AurÇlien Police             ?
-- .oF.     R     _BENNETT Robert Jackson      American Elsewhere ˛2013 American Elsewhere ˛Trad. PHILIBERT-CAILLAT Laurent
-o AM_IMA      ?  2018.10 ..... ISBN 978-2-226-43513-2
-} noimg          _Gaâlle Marco                ?
-- .oS.     R     _STEPHENSON Neal             Anatäm - Tome 1 ˛2008 Anathem ˛Trad. COLLIN Jacques
-o AM_IMA      ?  2018.10 ..... ISBN 978-2-226-43577-4
-} noimg          _Alain Brion                 ?
-- .oY.     R     _FLANNERY Peter A.           Mage de bataille - Tome 1 ˛2017 Battle Mage ˛Trad. LOUINET Patrice
-o AM_IMA      ?  2018.11 ..... ISBN 978-2-226-43514-9
-} noimg          _Gaâlle Marco                ?
-- .oS.     R     _STEPHENSON Neal             Anatäm - Tome 2 ˛2008 Anathem ˛Trad. COLLIN Jacques
-o AM_IMA      ?  2018.11 ..... ISBN 978-2-226-43693-1
-} noimg          _Manchu                      ?
-- .oS.     R     _HURLEY Kameron              Les Çtoiles sont lÇgion ˛2017 The Stars are Legion ˛Trad. GOULLET Gilles
-!------------------------
-!=== 2019
-!------------------------
-o AM_IMA      ?  2019.01 ..... ISBN 978-2-226-43578-1
-} noimg          _Alain Brion                 ?
-- .oY.     R     _FLANNERY Peter A.           Mage de bataille - Tome 2 ˛2017 Battle Mage ˛Trad. LOUINET Patrice
-o AM_IMA      ?  2019.02 ..... ISBN 978-2-226-43844-7
-} noimg          _Alain Brion                 ?
-- .oF.     R     _MILLER Sam J.               La CitÇ de l'orque ˛2018 Blackfish City ˛Trad. HOMASSEL Anne-Sylvie
-o AM_IMA      ?  2019.04 ..... ISBN 978-2-226-44079-2
-} noimg          _Guillaume Sorel             ?
-- .oF.     R     _FERRIC Franck               Le Chant mortel du soleil ˛2019
-o AM_IMA      ?  2019.05 ..... ISBN 978-2-226-43993-2
-} noimg          _AurÇlien Police             ?
-- .oS.     R     _SWETERLITSCH Tom            Terminus ˛2018 The Gone World ˛Trad. PAGEL Michel
-o AM_IMA      ?  2019.06 ..... ISBN 978-2-226-44236-9
-} noimg          _Pascal Calosari             ?
-- .oY.     R     _RE Jean-Michel              La Fleur de Dieu [La Fleur de Dieu - 1] ˛2019
-o AM_IMA      ?  2019.09 ..... ISBN 978-2-226-43888-1
-} noimg          _Manchu                      ?
-- .oS.     R     _BURKE Sue                   Semiosis ˛2018 Semiosis ˛Trad. BURY Florence
-o AM_IMA      ?  2019.10 ..... ISBN 978-2-226-43904-8
-} noimg          _AurÇlien Police             ?
-- .oF.     R     _HAMILL Shaun                Une cosmologie de monstres ˛2019 A Cosmology of Monsters ˛Trad. DOMIS Benoåt
-o AM_IMA      ?  2019.11 ..... ISBN 978-2-226-44237-6
-} noimg          _Pascal Calosari             ?
-- .oY.     R     _RE Jean-Michel              Les Portes cÇlestes [La Fleur de Dieu - 2] ˛2019
-o AM_IMA      ?  2019.11 ..... ISBN 978-2-226-44376-2
-} noimg          _AurÇlien Police             ?
-- .oS.     R     _GUILLEMIN Gauthier          Rivages [Rivages - 1] ˛2019
-!------------------------
-!=== 2020
-!------------------------
-o AM_IMA      ?  2020.01 ..... ISBN 978-2-226-44219-2
-} noimg          _AurÇlien Police             ?
-!--- GF - 14,0 cm x 20,5 cm - 378 pages - 21,90 euros
-- .oS.     R     _CARGILL C. Robert           Un ocÇan de rouille ˛2017 Sea of Rust ˛Trad. DOLISI Florence
-o AM_IMA      ?  2020.01 ..... ISBN 978-2-226-44238-3
-} noimg          _Pascal Calosari             ?
-!--- 14,2 cm x 20,5 cm - 266 pages - 19,90 euros
-- .oY.     R     _RE Jean-Michel              Cosmos incarnÇ [La Fleur de Dieu - 3] ˛2020
-o AM_IMA      ?  2020.03 ..... ISBN 978-2-226-43907-9
-} noimg          _Manchu                      ?
-!--- 14,1 cm x 20,5 cm - 487 pages - 22,90 euros
-- .oY.     R     _KUNSKEN Derek               Le Magicien quantique ˛2018 The Quantum Magician ˛Trad. GOULLET Gilles
-o AM_IMA      ?  2020.06 ..... ISBN 978-2-226-44293-2
-} noimg          _?                           ?
-!--- 15,0 cm x 22,0 cm - 592 pages - 24,90 euros
-- .oS.     R     _SHEPHERD Peng               Le Livre de M ˛2018 The Book of M ˛Trad. HOMASSEL Anne-Sylvie
-o AM_IMA      ?  2020.07 ..... ISBN 978-2-226-45006-7
-} noimg          _AurÇlien Police             ?
-!--- 14,0 cm x 20,5 cm - 304 pages - 19,90 euros
-- .oS.     R     _GUILLEMIN Gauthier          La Fin des Çtiages [Rivages - 2] ˛2020
-o AM_IMA      ?  2020.09 ..... ISBN 978-2-226-44936-8
-} noimg          _HervÇ Leblan                ?
-!--- 14,0 cm x 20,5 cm - 656 pages - 24,90 euros
-- .o .     R     _IZEN LÇafar                 La Marche du levant ˛2020
-o AM_IMA      ?  2020.09 ..... ISBN 978-2-226-45193-4
-} noimg          _?                           ?
-!--- 14,0 cm x 20,5 cm - 448 pages - 21,90 euros
-- .o .     R     _QUERBALEC Emilie            Quitter les monts d'Automne ˛2020
 
 
 

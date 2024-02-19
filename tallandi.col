@@ -1,15 +1,19 @@
 !-----------------------------------------------------------------------------
-!---    Jules TALLANDIER
-!--- CrÇÇe en 1865 par Georges Decaux, reprise en 1900 par Jules Tallandier
-!--- qui lui doit son nom.
+_ TALLAND Tallandier
 !-----------------------------------------------------------------------------
+!Ef- Jules Tallandier, J. Tallandier, Librairie Jules Tallandier
+!Ed- CrÇÇe en 1865 par Georges Decaux, reprise en 1900 par Jules Tallandier
+!Ed. qui lui doit son nom.
+!Ea- Tallandier, 75 rue Dareau PARIS
 !-----------------------------------------------------------------------------
-_ TALLAND Ed. Jules Tallandier
-_ TALL_PI Ed. Jules Tallandier, Oeuvres de Paul d'Ivoi
-_ TALL_CB Ed. Jules Tallandier, Coll. "CinÇma-Bibliothäque"
+_ TALL_PI Tallandier - Oeuvres de Paul d'Ivoi
+_ TALL_CB Tallandier - CinÇma-Bibliothäque
 !-----------------------------------------------------------------------------
-!--- Tallandier, 75 rue Dareau PARIS
-!-----------------------------------------------------------------------------
+o TALLAND     ?  1907.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 249 pages - 19 cm - IMPRIM E. Grevin, Lagny - 3,50 francs
+!--- Sans date, mais publicitÇ dans "Mon Bonheur" n¯ 32, debut 1907
+- .oS.     R     _GUITTON Gustave             Ce que seront les hommes de l'an 3000 ˛1907
 o TALLAND     ?  1908.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _LA HIRE Jean de             La Roue fulgurante ˛1908
@@ -29,12 +33,15 @@ o TALLAND     ?  1925.xx ..... ISBN -
 : .o .     N     _POE Edgar Allan             Manuscrit trouvÇ dans une bouteille ˛1833 Manuscript Found in a Bottle
 : .o .     N     _POE Edgar Allan             Metzengerstein ˛1832-1936 Metzengerstein
 : .o .     N     _POE Edgar Allan             Ligeia ˛1838 Ligeia
+o TALLAND     ?  1924.xx ..... ISBN -
+} noimg          _?                           ?
+- .o .     R     _LEROUX Gaston               La PoupÇe sanglante [La PoupÇe sanglante - 1] ˛1923
 o TALLAND     ?  1926.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _HAGGARD H. Rider            Les Mines du roi Salomon [Aventures d'Allan Quatermain] ˛1885 King Solomon's Mines ˛Trad. LECUYER RenÇ
 o TALL_CB   148  1927.xx ..... ISBN -
 } noimg          _?                           ?
-!--- Sous-titrÇ : De mystäre en mystäre ˛1927
+!--- Sous-titrÇ : De mystäre en mystäre
 !--- Titre premier chapitre : "Le fantìme du Louvre"
 - .o .     R     _BERNEDE Arthur              BelphÇgor ˛1927
 o TALL_CB     ?  1932.xx ..... ISBN -
@@ -83,7 +90,7 @@ o TALLAND     ?  1948.xx ..... ISBN -
 o TALLAND     ?  1958.xx ..... ISBN -
 } noimg          _?                           ?
 !--- BrochÇ, 252 pages
-- .o .    kN8    _RENARD Maurice              L'Invitation Ö la peur ˛1958
+- .oF.    kN8    _RENARD Maurice              L'Invitation Ö la peur ˛1958
 : .o .     N     _RENARD Maurice              La Rumeur dans la montagne ˛1920
 : .oF.     N     _RENARD Maurice              M. D'Outremort ˛1913
 : .oF.     N     _RENARD Maurice              L'Homme au corps subtil ˛1912
@@ -169,8 +176,8 @@ o TALL_PI    17  1935.08 ..... ISBN -
 - .o .     R     _D'IVOI Paul                 Le Voleur de pensÇe [Les Voyages excentriques - 17] ˛1910
 
 !-----------------------------------------------------------------------------
-_ TALL_LN Ed. Jules Tallandier, Le Livre National
-_ TALL_LR Ed. Jules Tallandier, Coll. du Livre National, Romans pour tous
+_ TALL_LN Tallandier - Le Livre National
+_ TALL_LR Tallandier - Collection du Livre National, Romans pour tous
 !-----------------------------------------------------------------------------
 o TALL_LN     ?  1929.xx ..... ISBN -
 } noimg          _?                           ?
@@ -230,17 +237,17 @@ o TALL_LN    57  1939.xx ..... ISBN -
 !--- Reparu/rebrochÇ en collection "Les Beaux Romans dramatiques"
 
 !-----------------------------------------------------------------------------
-_ TALL_AV Ed. Jules Tallandier, Aventures et voyages
-_ TALLGAa Ed. Jules Tallandier, Grandes aventures / Voyages excentriques
-_ TALLGAb Ed. Jules Tallandier, Grandes aventures et voyages excentriques
-_ TALLGAc Ed. Jules Tallandier, Grandes aventures
-_ TALLBGA Ed. Jules Tallandier, Bibliothäque des Grandes aventures
+_ TALL_AV Tallandier - Aventures et voyages
+_ TALLGAa Tallandier - Grandes aventures / Voyages excentriques
+_ TALLGAb Tallandier - Grandes aventures et voyages excentriques
+_ TALLGAc Tallandier - Grandes aventures
+_ TALLBGA Tallandier - Bibliothäque des Grandes aventures
 !-----------------------------------------------------------------------------
 
 !--- Romans d'aventures et d'explorations
 !--- A -   33 1911  SALGARI Emilio     Les Brigands du Sahara
 
-!--- Aventures et Voyages
+!--- Aventures et voyages
 !--- A -    3 1925  SALGARI Emilio     Les Robinsons italiens
 !--- A -   89 1926  SALGARI Emilio     Le chef du Lys d'eau
 !---      113 1926  MAGOG              Les Buveurs d'ocÇan
@@ -369,7 +376,7 @@ _ TALLBGA Ed. Jules Tallandier, Bibliothäque des Grandes aventures
 !--- A -   19 1938  MOTTA Luigi        Le capitaine du "Samarang"  
 
 !-----------------------------------------------------------------------------
-_ TALL_CE Ed. Jules Tallandier, Coll. Romans de Cape et d'EpÇe
+_ TALL_CE Tallandier - Romans de Cape et d'EpÇe
 !-----------------------------------------------------------------------------
 !--- Romans de Cape et d'ÇpÇe
 !--- F -   69 1934  JEAN-BOULAN Robert Le tombeau de Nostradamus
@@ -380,37 +387,38 @@ o TALL_CE    69  1934.xx ..... ISBN -
 - .oS.     R     _JEAN-BOULAN Robert          Le Tombeau de Nostradamus ˛1934
 
 !-----------------------------------------------------------------------------
-_ TALL_CA Ed. Jules Tallandier, Coll. Les Chevaliers de l'Aventure
-_ TALL_C2 Ed. Jules Tallandier, Coll. Les Chevaliers de l'Aventure 2iäme sÇrie
+_ TALL_CA Tallandier - Les Chevaliers de l'Aventure
+_ TALL_C2 Tallandier - Les Chevaliers de l'Aventure 2iäme sÇrie
 !-----------------------------------------------------------------------------
-_ TALLCA1 <b>in</b> Ed. Jules Tallandier, Coll. Les Chevaliers de l'Aventure n¯ 1 Ö 23
 !-----------------------------------------------------------------------------
-o TALLCA1     ?  1930.xx ..... ISBN -
+o TALL_CA     ?  1930.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : n¯ 1 Ö 23
+!--- Liste des Çpisodes :
+!---  01/ Le Tour du monde de deux gosses    1930
+!---  02/ Sur la terre hindoue    1930
+!---  03/ L'Idolde de Rhagalpour    1930
+!---  04/ Les RescapÇs du sous-marin    1930
+!---  05/ La Route sans fin    1930
+!---  06/ Terre de misäre    1930
+!---  07/ Les Robinsons de la banquise    1930
+!---  08/ Les Vainqueurs du PŒ·ŒÌŒ˘le    1930
+!---  09/ L'Ennemi invisible    1930
+!---  10/ Le Vapeur mystÇrieux    1930
+!---  11/ Les Ecumeurs du Pacifique    1930
+!---  12/ Les Prisonniers du Big    1930
+!---  13/ Les Chercheurs d'or    1930
+!---  14/ Les Etrangleurs de la Sierra    1930
+!---  15/ Le Roi de la montagne    1930
+!---  16/ La Caverne de la mort    1930
+!---  17/ L'Attaque du Pacific Railway    1930
+!---  18/ La RandonnÇe tragique    1930
+!---  19/ Le Chemin des nuages    1930
+!---  20/ L'Oiseau blanc    1930
+!---  21/ dans la Pampa    1930
+!---  22/ L'Hacienda maudite    1930
+!---  23/ La Capture du tigre    1930
 - .oS.     R     _GALOPIN Arnould             Le Tour du monde de deux gosses ˛1908
-!--   01/ Le Tour du monde de deux gosses    1930
-!--   02/ Sur la terre hindoue    1930
-!--   03/ L'Idolde de Rhagalpour    1930
-!--   04/ Les RescapÇs du sous-marin    1930
-!--   05/ La Route sans fin    1930
-!--   06/ Terre de misäre    1930
-!--   07/ Les Robinsons de la banquise    1930
-!--   08/ Les Vainqueurs du PŒ·ŒÌŒ˘le    1930
-!--   09/ L'Ennemi invisible    1930
-!--   10/ Le Vapeur mystÇrieux    1930
-!--   11/ Les Ecumeurs du Pacifique    1930
-!--   12/ Les Prisonniers du Big    1930
-!--   13/ Les Chercheurs d'or    1930
-!--   14/ Les Etrangleurs de la Sierra    1930
-!--   15/ Le Roi de la montagne    1930
-!--   16/ La Caverne de la mort    1930
-!--   17/ L'Attaque du Pacific Railway    1930
-!--   18/ La RandonnÇe tragique    1930
-!--   19/ Le Chemin des nuages    1930
-!--   20/ L'Oiseau blanc    1930
-!--   21/ dans la Pampa    1930
-!--   22/ L'Hacienda maudite    1930
-!--   23/ La Capture du tigre    1930
 !-----------------------------------------------------------------------------
 !--- Les Chevaliers de l'aventure
 !--- A -   48 1933  SALGARI Emilio     Les Flibustiers de Malaisie
@@ -438,7 +446,7 @@ o TALL_C2    80  1934.xx ..... ISBN -
 - .oAS     R     _DANCRAY Paul                Les Maåtres de l'Himalaya ˛1927-1933
 
 !-----------------------------------------------------------------------------
-_ TALL_MR Ed. Jules Tallandier, Coll. Les Meilleurs romans d'aventures
+_ TALL_MR Tallandier - Les Meilleurs romans d'aventures
 !-----------------------------------------------------------------------------
 !--- Les meilleurs romans d'aventures
 !--- A -   13 1937  MOTTA Luigi        Le tunnel sous-marin
@@ -564,7 +572,7 @@ o TALLBGA   560  1936.xx ..... ISBN -
 - .o .     R     _GROC LÇon                   La CitÇ des tÇnäbres ˛1926
 
 !-----------------------------------------------------------------------------
-_ TALLGA3 Ed. Jules Tallandier, Grandes aventures / Voyages excentriques (3iäme sÇrie)
+_ TALLGA3 Tallandier - Grandes aventures / Voyages excentriques 3iäme sÇrie
 !-----------------------------------------------------------------------------
 !--- Grande aventures et voyages excentriques, 3e sÇrie
 !--- A -   42 1939  SALGARI Emilio     La citÇ du roi lÇpreux
@@ -581,8 +589,8 @@ o TALLGA3    72  1941.xx ..... ISBN -
 - .oS.     R     _GROC LÇon                   Une invasion de sÇlÇnites ˛1930
 
 !-----------------------------------------------------------------------------
-_ TALLGA4 Ed. Jules Tallandier, Grandes aventures et voyages excentriques (4iäme sÇrie)
-_ TALLGa4 Ed. Jules Tallandier, Grandes aventures (4iäme sÇrie)
+_ TALLGA4 Tallandier - Grandes aventures et voyages excentriques 4iäme sÇrie
+_ TALLGa4 Tallandier - Grandes aventures 4iäme sÇrie
 !-----------------------------------------------------------------------------
 !--- A partir du numÇro 10 ou 11, devient "Grandes Aventures" seulement
 !-----------------------------------------------------------------------------
@@ -724,7 +732,7 @@ o TALLGa4    38  1953.xx ..... ISBN -
 ?- .xA.     R     _BERNEDE Arthur              Surcouf, roi des corsaires ˛?
 
 !-----------------------------------------------------------------------------
-_ TALL_UA Ed. Tallandier, Univers Aventures
+_ TALL_UA Tallandier - Univers Aventures
 !-----------------------------------------------------------------------------
 o TALL_UA     7  1949.xx ..... ISBN -
 } noimg          _?                           ?
@@ -752,14 +760,14 @@ o TALL_UA    26  1951.xx ..... ISBN -
 ?- .xA.     R     _FALCOZ AndrÇ                La Sauterelle amÇthyste ˛1933
 
 !-----------------------------------------------------------------------------
-_ TALL_LA Ed. Jules Tallandier, Coll. Le Livre d'Aventures
+_ TALL_LA Tallandier - Le Livre d'Aventures
 !-----------------------------------------------------------------------------
 o TALL_LA    48  1938.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _TOUDOUZE Georges-G.         L'Esprit qui flottait sous les eaux ˛1938
 
 !-----------------------------------------------------------------------------
-_ TALL_L4 Ed. Jules Tallandier, Coll. Le Livre d'Aventures 4iäme sÇrie
+_ TALL_L4 Tallandier - Le Livre d'Aventures 4iäme sÇrie
 !-----------------------------------------------------------------------------
 !--- Collection "Le livre d'aventures", 4iäme sÇrie
 !-----------------------------------------------------------------------------
@@ -774,7 +782,7 @@ o TALL_L4    15  1952.xx ..... ISBN -
 - .o .     R     _SALGARI Emilio              La CitÇ du roi lÇpreux ˛1904 La cittÖ del Re lebbroso
 o TALL_L4    18  1952.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _MARRYAT Frederick           La Bàte infernale ˛1837 Snareleyyow, or The Dog Fiend
+- .o .     R     _MARRYAT Frederick           La Bàte infernale ˛1837 Snareleyyow, or the Dog Fiend
 o TALL_L4    21  1953.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _MOTTA Luigi                 Le Secret des rois Bassoutos ˛1902 Il segreto dei Re Bassutos
@@ -801,9 +809,9 @@ o TALL_L4    37  1954.xx ..... ISBN -
 - .o .     R     _DEMOUSSON Pierre            Le Secret du lac des HÇmiones ˛?
 
 !-----------------------------------------------------------------------------
-_ TALATU1 Ed. Jules Tallandier, Coll. A travers l'univers (1äre sÇrie) Aventures Çtranges, Voyages lointains
-_ TALATU3 Ed. Jules Tallandier, Coll. A travers l'univers, 3ieme sÇrie
-_ TALATU4 Ed. Jules Tallandier, Coll. A travers l'univers, 4ieme sÇrie
+_ TALATU1 Tallandier - A travers l'univers - 1äre sÇrie, Aventures Çtranges, Voyages lointains
+_ TALATU3 Tallandier - A travers l'univers - 3ieme sÇrie
+_ TALATU4 Tallandier - A travers l'univers - 4ieme sÇrie
 !-----------------------------------------------------------------------------
 !--- Collections "A travers l'univers"
 !-----------------------------------------------------------------------------
@@ -812,7 +820,7 @@ o TALATU1    15  1932.xx ..... ISBN -
 - .o .     R     _WAILLY Commandant de        Le Roi de l'inconnu ˛1932
 o TALATU1    41  1933.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _WAILLY Commandant de        Le Meurtrier du globe ˛1933
+- .o .     R     _WAILLY Commandant de        Le Meurtrier du globe ˛1910
 o TALATU3     ?  1952.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _WELLS Herbert George        La Guerre des mondes ˛1898 The War of the Worlds
@@ -824,7 +832,7 @@ o TALATU4     ?  1953.xx ..... ISBN -
 - .o .     R     _ALPERINE Paul               La Citadelle des glaces ˛1946
 
 !-----------------------------------------------------------------------------
-_ TALVLAE Ed. Jules Tallandier, Coll. Voyages lointains et aventures Çtranges
+_ TALVLAE Tallandier - Voyages lointains et aventures Çtranges
 !-----------------------------------------------------------------------------
 !--- Voyages lointains - Aventures Çtranges
 !--- ? -      1930  BOUSSENARD Louis   Les Gratteurs de ciel
@@ -840,29 +848,37 @@ o TALVLAE    65  1930.xx ..... ISBN -
 - .oS.     R     _PEMBERTON Max               La Maison sous la mer ˛1902 The House Under the Sea ˛Adapt. LECUYER RenÇ
 
 !-----------------------------------------------------------------------------
-_ TALE    Librairie Jules Tallandier, Coll. Les Romans de l'extraordinaire
+_ TALE    Tallandier - Les Romans de l'extraordinaire
 !-----------------------------------------------------------------------------
 !--- Librairie Jules Tallandier
 !--- Romans de l'extraordinaire
 !-----------------------------------------------------------------------------
-o TALE        ?  1978.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _WELLS Herbert George        L'Homme invisible ˛1897 The Invisible Man
-o TALE        ?  1978.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _WELLS Herbert George        La Guerre des mondes ˛1898 The War of the Worlds
-o TALE        ?  1978.xx ..... ISBN .-.....-...-.
+o TALE        ?  1978.xx ..... ISBN 2-235-00591-8
 } noimg          _?                           ?
 - .oS.     R2    _WELLS Herbert George        L'åle du docteur Moreau - La machine Ö explorer le temps ((La Machine Ö explorer le temps)) ˛1978
 : .oS.     R     _WELLS Herbert George        L'åle du docteur Moreau ˛1896 The Island of Dr. Moreau / The Island of Doctor Moreau
 : .o .     R     _WELLS Herbert George        La Machine Ö explorer le temps ˛1895 The Time Machine
-o TALE        ?  1978.xx ..... ISBN .-.....-...-.
+o TALE        ?  1978.xx ..... ISBN 2-235-00594-2
 } noimg          _?                           ?
-- .o .    iNx    _WELLS Herbert George        Les Pirates de la mer ˛?
-!--- une douzaine de nouvelles
+- .o .     R     _WELLS Herbert George        L'Homme invisible ˛1897 The Invisible Man
+o TALE        ?  1978.xx ..... ISBN 2-235-00590-X
+} noimg          _?                           ?
+- .o .     R     _WELLS Herbert George        La Guerre des mondes ˛1898 The War of the Worlds
+o TALE        ?  1978.xx ..... ISBN 2-235-00592-6
+} noimg          _?                           ?
+- .oS.    kN12   _WELLS Herbert George        Les Pirates de la mer et autres nouvelles ˛1978
 : .o .     N     _WELLS Herbert George        Les Pirates ˛1896 The Sea-Raiders
-: .o .     N     _WELLS Herbert George        Etoile ˛1897 The Star
+: .o .     N     _WELLS Herbert George        L'Homme qui pouvait accomplir des miracles ˛1898 The Man who Could Work Miracles
 : .o .     N     _WELLS Herbert George        L'Oeuf de cristal ˛1897 The Crystal Egg
+: .o .     N     _WELLS Herbert George        L'êtoile ˛1897 The Star
+: .o .     N     _WELLS Herbert George        Un Çtrange phÇnomäne ˛1895 The Remarkable Case of Davidson's Eyes
+: .o .     N     _WELLS Herbert George        Dans l'abåme ˛1896 In the Abyss
+: .o .     N     _WELLS Herbert George        Les Argonautes de l'espace ˛1895 The Argonauts of the Air
+: .oF.     N     _WELLS Herbert George        La Chambre rouge ˛1902 The Red Room
+: .o .     N     _WELLS Herbert George        L'Homme volant ˛1893 The Flying Man
+: .o .     N     _WELLS Herbert George        Les Triomphes d'un taxidermiste ˛1894 The Triumphs of a Taxidermist
+: .o .     N     _WELLS Herbert George        La Tentation d'Harringay ˛1895 The Temptation of Harringtay
+: .o .     N     _WELLS Herbert George        La Pomme ˛1896 The Apple
 o TALE        2i 1978.xx ..... ISBN 2-235-00593-4
 } noimg          _?                           ?
 - .pSF    kN13   _WELLS Herbert George        Douze histoires et un ràve ˛1903 Twelve Stories and a Dream ˛Trad. DAVRAY Henry D. & KOZAKIEWICZ Bronislaw
@@ -881,7 +897,7 @@ o TALE        2i 1978.xx ..... ISBN 2-235-00593-4
 : .oS.     N     _WELLS Herbert George        Un ràve d'Armageddon ˛1901 A Dream of Armageddon ˛Trad. DAVRAY Henry D. & KOZAKIEWICZ Bronislaw
 
 !-----------------------------------------------------------------------------
-_ TALL_RM Ed. Tallandier, Les Romans MystÇrieux
+_ TALL_RM Tallandier - Les Romans MystÇrieux
 !-----------------------------------------------------------------------------
 o TALL_RM     ?  1910.xx ..... ISBN -
 } noimg          _?                           ?
@@ -897,7 +913,7 @@ o TALL_RM     ?  1924.xx ..... ISBN -
 - .o .     R     _ARMANDY AndrÇ               Terre de suspicion ˛1924
 
 !-----------------------------------------------------------------------------
-_ TALL_AS Ed. Tallandier, Grands Romans d'Aventures Scientifiques & Sportives
+_ TALL_AS Tallandier - Grands Romans d'Aventures Scientifiques & Sportives
 !-----------------------------------------------------------------------------
 !--- Grands Romans d'Aventures Scientifiques & Sportives
 !-----------------------------------------------------------------------------
@@ -930,9 +946,9 @@ o TALL_AS     ?  1921.xx ..... ISBN -
 !--- 20. Scientific-City
 
 !-----------------------------------------------------------------------------
-_ TALL_LY Ed. J. Tallandier, Coll. Le Lynx
+_ TALL_LY Tallandier - Le Lynx
 !-----------------------------------------------------------------------------
-!--- Coll. de romans policiers
+!--- Collection de romans policiers
 !-----------------------------------------------------------------------------
 o TALL_LY     2  1939.xx ..... ISBN -
 } noimg          _?                           ?
@@ -953,14 +969,14 @@ o TALL_LY    29  1941.xx ..... ISBN -
 - .o .     R     _GROC LÇon                   La Place maudite ˛1941
 
 !-----------------------------------------------------------------------------
-_ TALL_DC Ed. J. Tallandier, Les Drames du coeur
+_ TALL_DC Tallandier - Les Drames du coeur
 !-----------------------------------------------------------------------------
 o TALL_DC     ?  1932.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _STOKER Bram                 Dracula, l'homme de la nuit ˛1897 Dracula ˛Trad. PAUL-MARGUERITE Eve et Lucie
 
 !-----------------------------------------------------------------------------
-_ TALL_DA Ed. J. Tallandier, Drame et amour
+_ TALL_DA Tallandier - Drame et amour
 !-----------------------------------------------------------------------------
 o TALL_DA     ?  1954.xx ..... ISBN -
 } noimg          _?                           ?
@@ -970,19 +986,19 @@ o TALL_DA     ?  1954.xx ..... ISBN -
 - .o .     R     _ALPERINE Paul               Ombres sur le Thibet ˛1945
 
 !-----------------------------------------------------------------------------
-_ TALL_CP Ed. J. Tallandier, Criminels et Policiers, 2iäme sÇrie
+_ TALL_CP Tallandier - Criminels et Policiers, 2iäme sÇrie
 !-----------------------------------------------------------------------------
 o TALL_CP    17  1933.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _PASTRE Jules-Louis-Gaston   Une Çtourdissante aventure ˛1933
 
 !-----------------------------------------------------------------------------
-_ TALLACI <b>in</b> Ed. J. Tallandier, Les Chercheurs d'inconnu n¯ 1 (20/12/1908) Ö 12 (06/02/1909)
-!-----------------------------------------------------------------------------
+_ TALLACI Tallandier - Les Chercheurs d'inconnu
 !--- Une sÇrie de 12 fascicules
+!-----------------------------------------------------------------------------
 o TALLACI     ?  1908.xx ..... ISBN -
 } noimg          _?                           ?
-- .oS.     R     _GALOPIN Arnould             Aventures fantastiques d'un jeune parisien [Le Docteur OmÇga] ˛1905-1908
+>--- SERIAL : n¯ 1 (20/12/1908) Ö 12 (06/02/1909)
 !--- Existe en reliure Çditeur, 388 pages des 12 (32 ???) fascicules
 !--- Editions remaniÇe de "Le docteur OmÇga"
 !--- du 20 novembre 1908 au 6 fÇvrier 1909
@@ -1000,3 +1016,5 @@ o TALLACI     ?  1908.xx ..... ISBN -
 !--  10) L'horrible vision
 !--  11) Les Yeux sanglants
 !--  12) Les Vainqueurs de l'espace. 
+- .oS.     R     _GALOPIN Arnould             Aventures fantastiques d'un jeune parisien [Le Docteur OmÇga] ˛1905-1908
+

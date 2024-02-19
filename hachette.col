@@ -3,62 +3,120 @@
 !-----------------------------------------------------------------------------
 !---
 !-----------------------------------------------------------------------------
-_ OCTOPUS Ed. Octopus
-_ HAC_PRA Hachette, Hachette Pratique
-_ HAC_NCJ Hachette, Nouvelle Collection de la Jeunesse
-_ HABR    Hachette, BibliothŠque Rose (jeunesse)
-_ HABRosI Hachette, BibliothŠque Rose illustr‚e (jeunesse)
-_ HAC_NBR Hachette, Nouvelle BibliothŠque Rose (jeunesse)
-_ HAC_NCS Hachette, Nouvelle Collection S‚gur (jeunesse)
-_ HACENIG Hachette, L'‚nigme
-_ HACENI2 Hachette, L'‚nigme - romans extraordinaires
-_ HAIB    Hachette, Id‚al BibliothŠque
-_ HACH_IB Hachette, Id‚al-BibliothŠque
-_ HARG    Hachette, BibliothŠque Rouge (jeunesse)
-_ HABV    Hachette, BibliothŠque Verte (jeunesse)
-_ HABV_P  Hachette, BibliothŠque Verte Plus
-_ HABM    Hachette, BibliothŠque Verte, Bob Morane
-_ HACHTAR Hachette, Coll. "Tarzan"
-_ HACH_JV Hachette, Coll. "Prix Jules Verne"
-_ HAC_BEF Hachette, BibliothŠque des ‚coles et des familles
-_ HAC_BIJ Hachette, BibliothŠque de la Jeunesse
-_ HAC_VER Hachette, Coll. Vermeille
-_ HACH_BM Hachette, Coll. Black Moon
-_ HACH_BT Hachette, Coll. Black Moon Thriller
-_ HACH_BC Hachette, Coll. Black Moon, Edition Collector
-_ HALE    Hachette, Coll. "Lecture"
-_ HAC_VL  Hachette, Coll. "Voies Libres"
-_ HAVA    Hachette Jeunesse, Verte Aventure
-_ HAVASF  Hachette Jeunesse, Verte Aventure, Science-fiction
-_ HAVAFA  Hachette Jeunesse, Verte Aventure, Fantastique
-_ HAVSF   Hachette Jeunesse, Vertige, s‚rie Science-fiction
-_ HAVF    Hachette Jeunesse, Coll. Vertige, s‚rie Fantastique
-_ HAVC    Hachette Jeunesse, Coll. Vertige, s‚rie Cauchemar
-_ HAVR    Hachette Jeunesse, Vertige Fou Rire
-_ HACH_JB Hachette Jeunesse, Jeunesse Benjamin
-_ HACH_HT Hachette, Coll. Haute Tension "Spectres"
-_ HACH_FB Hachette, Coll. Haute Tension
-_ HAH2    Hachette, Coll. Haute Tension "Spectres" Hit Parade
-_ HACH_CI Hachette, Coll. Haute Tension Cin‚ma
-_ HLFM    Hachette/Larousse, Le Fran‡ais dans le monde
-_ HACHGO  Hachette, Grandes Oeuvres
-_ HACHCLA Hachette, Classiques Hachette
-_ HACH_CT Hachette, Coll. Courts toujours !
+_ OCTOPUS Octopus
+_ HAC_PRA Hachette - Hachette Pratique
+_ HAC_NCJ Hachette - Nouvelle Collection de la Jeunesse
+_ HABR    Hachette - BibliothŠque Rose [jeunesse]
+_ HABRosI Hachette - BibliothŠque Rose illustr‚e [jeunesse]
+_ HAC_NBR Hachette - Nouvelle BibliothŠque Rose [jeunesse]
+_ HAC_NCS Hachette - Nouvelle Collection S‚gur [jeunesse]
+_ HACENIG Hachette - L'‚nigme
+_ HACENI2 Hachette - L'‚nigme - romans extraordinaires
+_ HAIB    Hachette - Id‚al BibliothŠque
+_ HACH_IB Hachette - Id‚al-BibliothŠque
+_ HARG    Hachette - BibliothŠque Rouge [jeunesse]
+_ HABV    Hachette - BibliothŠque Verte [jeunesse]
+_ HABV_P  Hachette - BibliothŠque Verte Plus
+_ HABM    Hachette - BibliothŠque Verte [jeunesse] - Bob Morane
+_ HACHTAR Hachette - Tarzan
+_ HACH_JV Hachette - Prix Jules Verne
+_ HAC_BEF Hachette - BibliothŠque des ‚coles et des familles
+_ HAC_BIJ Hachette - BibliothŠque de la Jeunesse
+_ HAC_VER Hachette - Vermeille
+_ HACH_BM Hachette - Black Moon
+_ HACH_BT Hachette - Black Moon Thriller
+_ HACH_BC Hachette - Black Moon - Edition Collector
+_ HALE    Hachette - Lecture
+_ HAC_VL  Hachette - Voies Libres
+_ HAVA    Hachette Jeunesse - Verte Aventure
+_ HAVASF  Hachette Jeunesse - Verte Aventure - Science-fiction
+_ HAVAFA  Hachette Jeunesse - Verte Aventure - Fantastique
+_ HAVSF   Hachette Jeunesse - Vertige - s‚rie Science-fiction
+_ HAVF    Hachette Jeunesse - Vertige - s‚rie Fantastique
+_ HAVC    Hachette Jeunesse - Vertige - s‚rie Cauchemar
+_ HAVR    Hachette Jeunesse - Vertige Fou Rire
+_ HACH_JB Hachette Jeunesse - Jeunesse Benjamin
+_ HACH_HT Hachette - Haute Tension "Spectres"
+_ HACH_FB Hachette - Haute Tension
+_ HAH2    Hachette - Haute Tension "Spectres" Hit Parade
+_ HACH_CI Hachette - Haute Tension Cin‚ma
+_ HLFM    Hachette/Larousse - Le Fran‡ais dans le monde
+_ HACHGO  Hachette - Grandes Oeuvres
+_ HACHCLA Hachette - Classiques Hachette
+_ HACH_CT Hachette - Courts toujours !
 _ HACHLIB Lib. Hachette & Cie
 _ HACH    Hachette
 _ HACHLAF Hachette-Lafitte
 _ HACHJ   Hachette Jeunesse
 _ HACHROM Hachette Romans
 _ HAC_HER Hachette Heroes
+_ HAC_CUI Hachette Cuisine - CQFD
 _ HACH_PG Hachette-ProgrŠs
-_ HACH_PR Hachette, Coll. Point Rouge
-_ HAC_BCO Hachette, Coll. BibliocollŠge
-_ HAC_BLY Hachette, Coll. Bibliolyc‚e
-_ HAC_GAL Hachette, Coll. La Galaxie
-_ HAC_GLL Hachette, Coll. La Galaxie, L‚gendes & R‚cits
-_ HACH_TP Hachette, Coll. Tapis volant
-_ HACH_AC Hachette, Coll. Agatha Christie
+_ HACH_PR Hachette - Point Rouge
+_ HAC_BCO Hachette - BibliocollŠge
+_ HAC_BLY Hachette - Bibliolyc‚e
+_ HAC_GAL Hachette - La Galaxie
+_ HAC_GLL Hachette - La Galaxie - L‚gendes & R‚cits
+_ HACH_TP Hachette - Tapis volant
+_ HACH_AC Hachette - Agatha Christie
+_ HACH_RI Hachette - Rayon Imaginaire
 !-----------------------------------------------------------------------------
+
+!-----------------------------------------------------------------------------
+! HACH_RI Hachette - Rayon Imaginaire
+!-----------------------------------------------------------------------------
+!--- Cr‚‚e en 2021, dirig‚e par Brigitte Leblanc
+!-----------------------------------------------------------------------------
+o HACH_RI     ?  2021.10 ..... ISBN 978-2-01-713461-9
+} hachrayim01    _?                           ?
+!--- GF - 150x230 - 480 pages
+- .oF.     R     _HARROW Alix E.              Les Dix Mille Portes de January ş2019 The Ten Thousand Doors of January şTrad. ELIROFF Thibaud
+o HACH_RI     ?  2022.01 ..... ISBN 978-2-01-716397-8
+} hachrayim02    _Pauline Ortlieb             ?
+!--- GF - 150x230 - 336 pages - 22 euros
+- .oS.     R     _SHELLEY Mary                Frankenstein ou le Prom‚th‚e moderne ş1818 Frankenstein or the Modern Prometheus şTrad. VONARBURG Elisabeth
+o HACH_RI     ?  2022.04 ..... ISBN 978-2-01-716398-5
+} hachrayim03    _Pauline Ortlieb             ?
+!--- GF - 150x230 - 352 pages - 22 euros
+- .oS.     R     _HEINLEIN Robert             Destination Outreterres ş1955 Tunnel in the Sky şTrad. IMBERT Patrick
+o HACH_RI     ?  2022.06 ..... ISBN 978-2-01-716408-1
+} hachrayim04    _Pauline Ortlieb             ?
+!--- GF - 150x230 - 336 pages - 23 euros
+- .oS.    _C20   _LAKSHMINARAYAN Lavanya      Analog / Virtuel ş2020 Analog/Virtual and Other Simulations of Your Future şTrad. CAPITAN Lise
+: .oS.     N     _LAKSHMINARAYAN Lavanya      La Voleuse Dix-Pour-Cent ş2020 The Ten-Percent Thief
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Les Monstres sous le lit ş2020 Monsters Under the Bed
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Symphonie pour un adolescent d‚class‚ ş2020 Symphony for the DIsenfranchised Teenager
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Analog/Virtuel ş2020 Analog/Virtual
+: .oS.     N     _LAKSHMINARAYAN Lavanya      ... Sur ce, bonne nuit ş2020 ... Into That Good Night
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Bienvenue dans la machine ş2020 Welcome to the Machine
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Full Metal poumon vert ş2020 Full Metal Forest Breathing
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Le Police des Personas ş2020 The Persona Police
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Parabole du coeur de la mer ş2020 A Parable from the Heart of the Sea
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Avatars ş2020 Avatars
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Les Poches ş2020 Pockets
+: .oS.     N     _LAKSHMINARAYAN Lavanya      tudes ş2020 tudes
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Anatomie d'un nouvel ordre mondial ş2020 Anatomy of a New World Order
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Le Temps ş2020 Time
+: .oS.     N     _LAKSHMINARAYAN Lavanya      La PoudriŠre ş2020 The Tinderbox
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Le Projet BE-Moji ş2020 The BE-moji Project
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Nom de code : Dissident ş2020 Codname: Dissentient
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Le Glitch des sept ans ş2020 The Seven-Year Glitch
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Les Vagues ş2020 Ripples
+: .oS.     N     _LAKSHMINARAYAN Lavanya      Les Fourmis ş2020 Ants
+o HACH_RI     ?  2022.09 ..... ISBN 978-2-01-716399-2
+} hachrayim05    _Pauline Ortlieb             ?
+!--- GF - 150x230 - 256 pages - 20 euros
+- .oS.     R     _WEISS Jan                   La Maison aux mille ‚tages ş1929 Dum o tisici patrech şTrad. ANTOLIN Eurydice
+o HACH_RI     ?  2022.10 ..... ISBN 978-2-01-717856-9
+} hachrayim06    _Pauline Ortlieb             ?
+!--- GF - 150x230 - 352 pages - 23 euros
+- .oY.     R     _COLIN Fabrice               Golden Age ş2022
+o HACH_RI     ?  2022.10 ..... ISBN 978-2-01-716400-5
+} hachrayim07    _Pauline Ortlieb             ?
+!--- GF - 150x230 - 624 pages - 28 euros
+- .oF.     R     _HARROW Alix E.              Le Temps des sorciŠres ş2020 The Once and Future Witches şTrad. ELIROFF Thibaud
+
+
 
 !-----------------------------------------------------------------------------
 !--- Tapis Volant - ISSN 0245-4270
@@ -217,9 +275,9 @@ o HABV_P   1006  1988.xx ..... ISBN ?
 !GRP_OUVR 7
 !TIT_COLL Le Rayon Fantastique
 !-----------------------------------------------------------------------------
-_ RF__    Hachette/Gallimard, Rayon Fantastique
-_ RF_H    Hachette, Rayon Fantastique
-_ RF_G    Gallimard, Rayon Fantastique
+_ RF__    Hachette/Gallimard - Rayon Fantastique
+_ RF_H    Hachette - Rayon Fantastique
+_ RF_G    Gallimard - Rayon Fantastique
 !-----------------------------------------------------------------------------
 !---
 !--- Fruit d'une collaboration entre les deux ‚diteurs Fran‡ais Hachette et
@@ -245,7 +303,7 @@ _ RF_G    Gallimard, Rayon Fantastique
 !DEB_COLL RF__
 o RF_H        1i 1951.xx ..... ISBN -
 } rf001          _?                           N
-- .o .     R     _JENKINS Will                Assassinat des Etats-Unis ş1942 The murder of the U.S.A. şTrad. MALAR Gilles
+- .o .     R     _JENKINS Will                Assassinat des Etats-Unis ş1946 The murder of the U.S.A. şTrad. MALAR Gilles
 o RF_H        2i 1951.xx R.... ISBN -
 } rf002          _?                           N
 - .o .     R     _HAMILTON Edmond             Les Rois des ‚toiles [John Gordon - 1] ş1947 The Star Kings şTrad. MALAR Gilles
@@ -301,7 +359,7 @@ o RF_G       16i 1953.xx ..... ISBN -
 - .o .     R     _ASIMOV Isaac                Cailloux dans le ciel ş1950 Pebble in the Sky
 o RF__       17i 1953.xx ..... ISBN -
 } rf017          _?                           N
-- .o .     R     _FRIEND Oscar J.             Un martien sur la Terre ş1949 The Kid from Mars
+- .o .     R     _FRIEND Oscar J.             Un martien sur la Terre ş1940 The Kid from Mars
 o RF__       18i 1953.xx ..... ISBN -
 } rf018          _?                           N
 - .o .     R     _LEINSTER Murray             Le Dernier Astronef ş1949 The Last Spaceship
@@ -316,7 +374,7 @@ o RF__       21i 1953.xx ..... ISBN -
 - .o .     R     _BROWN Fredric               L'Univers en folie ş1948 What Mad Universe
 o RF__       22i 1954.xx ..... ISBN -
 } rf022          _?                           N
-- .o .     R     _BALMER Edwin               &AprŠs le choc des mondes ş1933 After the Worlds Collide
+- .o .     R     _BALMER Edwin               &AprŠs le choc des mondes ş1933 After the Worlds Collide şTrad. RAFFEJEAUD Jacqueline
 &                _WYLIE Philip                
 o RF_H       23i 1954.xx ..... ISBN -
 } rf023          _?                           N
@@ -336,7 +394,7 @@ o RF_H       26i 1954.xx ..... ISBN -
 : .o .     N     _DE CAMP Lyon Sprague        La Girafe bleue ş1939 The Blue Giraffe
 : .o .     N     _MOORE Catherine L.          Shambleau [Northwest Smith] ş1933 Shambleau şTrad. GALLET Georges H.
 : .o .     N     _GIESY J. U.                 Colin-maillard ş1920 Blind Man's Buff
-: .o .     N     _FLAGG Francis               L'Homme-Machine d'Ardathia ş1927 The machine-man of Ardathia
+: .o .     N     _FLAGG Francis               L'Homme-Machine d'Ardathia [Ardathia] ş1927 The machine-man of Ardathia
 : .o .     N     _GALLUN Raymond Z.           La Bˆte du vide ş1936 A Beast of the Void
 : .o .     N     _MERRITT Abraham             Trois lignes de vieux fran‡ais ş1919 Three Lines of Old French
 : .o .     N     _WELLMAN Manly Wade          Station interplan‚taire nø1 ş1936 Space Station No. 1
@@ -499,11 +557,11 @@ o RF_G       68  1960.xx R.... ISBN -
 - .o .     R     _HIGON Albert                Aux ‚toiles du destin ş1960
 o RF_H       69  1960.xx R.... ISBN -
 } rf069          _?                           N
-- .oS.    kR2    _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1/2] ş1960
+- .oS.    kr2    _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1/2] ş1960
 !--- comprend 2 parties, La seconde jamais publi‚e pr‚c‚demment
 : .o .     p     _GALLET Georges H.           J.-H. Rosny AŒn‚, de l'Acad‚mie Goncourt ş1970
-: .o .     R     _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1] ş1925
-: .o .     R     _ROSNY AINE J.-H.            Les Astronautes [Les Navigateurs de l'infini - 2] ş1960
+: .o .     r     _ROSNY AINE J.-H.            Les Navigateurs de l'infini [Les Navigateurs de l'infini - 1] ş1925
+: .o .     r     _ROSNY AINE J.-H.            Les Astronautes [Les Navigateurs de l'infini - 2] ş1960
 o RF__       70  1960.xx ..... ISBN -
 } rf070          _?                           N
 - .o .     R     _ANTON Robert                Avant le premier jour... ş? Vor dem ersten tag
@@ -519,7 +577,7 @@ o RF__       73  1960.xx ..... ISBN -
 - .o .     R     _FREKSA Fiedrich             Druso ş1931 Druso oder - Die gestohlene Menschenwelt
 o RF__       74  1960.xx ..... ISBN -
 } rf074          _?                           N
-- .o .     R     _CAMBON Ren‚                 L'Homme double ş?
+- .o .     R     _CAMBON Ren‚                 L'Homme double ş1960
 o RF__       75  1960.xx ..... ISBN -
 } rf075          _?                           N
 - .o .     R     _CURVAL Philippe             Les Fleurs de V‚nus ş1960
@@ -810,7 +868,7 @@ o HACH_IB     ?  1972.xx ..... ISBN -
 - .oF.     R     _NORTON Mary                 L'trange Histoire de l'apprentie sorciŠre ş1957 Bed-Knob and Broomstick şTrad. SOLLACARO Gilberte
 o HAIB        ?  1977.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .x .     R     _VERNE Jules                 Cinq semaines en ballon ş1863
+- .xA.     R     _VERNE Jules                 Cinq semaines en ballon ş1863
 o HAIB        ?  1977.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _VERNE Jules                 De la Terre … la Lune ş1865
@@ -849,6 +907,15 @@ o HACH_IB     ?  1986.03 ..... ISBN 2-01-011863-4
 !-----------------------------------------------------------------------------
 !--- Editions Hachette - BibliothŠque Rose
 !-----------------------------------------------------------------------------
+o HABRosI     ?  1941.xx ..... ISBN -
+} habri_abc      _?                           Bertall
+>--- L'ouvrage indique "Traduit par Am‚d‚e Tallon", sans l'ajout cette fois-ci de "... et imit‚s de Hauff". Et pourtant, outre toujours le m‚lange d'histoires des deux
+>--. ouvrages "L'Auberge du Spessart" et "Le Cheik" au prix d'adaptations libres des textes de liaison, le titre est de plus modifi‚ pour devenir "L'Auberge des beaux contes"...
+- .oMN    _C4    _HAUFF Wilhelm               L'Auberge des beaux contes ((L'Auberge du Spessart)) ş1827 Das Wirtshaus im Spessart
+: .o .  19 N     _HAUFF Wilhelm               Le Florin au cerf ş1827 Die Sage vom Horschgulden şTrad. TALLON Am‚d‚e
+: .o .  57 N     _HAUFF Wilhelm               Le Coeur froid ş1827 Das kalte Herz şTrad. TALLON Am‚d‚e
+: .o . 147 N     _HAUFF Wilhelm               Le Jeune Anglais ş1826 Der Affe als Mensch şTrad. TALLON Am‚d‚e
+: .o . 195 N     _HAUFF Wilhelm               Le Nain au long nez ş1826 Der Zwerg Nase şTrad. TALLON Am‚d‚e
 o HABRosI     ?  1941.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _PAATZ Herbert               Voyages merveilleux de Paul et Mariette [Docteur Comegram - 1] ş1938 Docktor Kleinermacher frhrt in die Welt şTrad. FOURNIER PARGOIRE Mlle
@@ -903,55 +970,54 @@ o HABR        ?  1979.xx ..... ISBN .-.....-...-.
 o HABR        ?  1985.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _CHAULET Georges             Fant“mette s'envole [Fant“mette] ş?
-o HABR      971  1996.xx ..... ISBN .-.....-...-.
+o HABR      971  1996.xx ..... ISBN 2-01-209541-0
 } noimg          _?                           ?
-- .o .     R     _GUDULE                      Le dentiste est un vampire [Les Frousses de Zo‚ - 3] ş1996
-o HABR      972  1996.xx ..... ISBN .-.....-...-.
+- .o .     R     _GUDULE                      Le dentiste est un vampire [Les Frousses de Zo‚] ş1996
+o HABR      972  1996.xx ..... ISBN 2-01-209587-9
 } noimg          _?                           ?
-- .o .     R     _GUDULE                      La sorciŠre est dans l'‚cole [Les Frousses de Zo‚ - 1] ş1996
-o HABR      973  1996.xx ..... ISBN .-.....-...-.
+- .o .     R     _GUDULE                      La sorciŠre est dans l'‚cole [Les Frousses de Zo‚] ş1996
+o HABR      973  1996.xx ..... ISBN 2-01-209638-7
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      Les Ogres du centre commercial [Les Frousses de Zo‚] ş1996
-o HABR      974  1997.xx ..... ISBN .-.....-...-.
+o HABR      974  1997.xx ..... ISBN 2-01-209639-5
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      Le Fant“me du panier … linge [Les Frousses de Zo‚] ş1997
-o HABR      975  1997.xx ..... ISBN .-.....-...-.
+o HABR      975  1997.xx ..... ISBN 2-01-209640-9
 } noimg          _?                           ?
-- .o .     R     _GUDULE                      Un requin dans la piscine [Les Frousses de Zo‚ - 2] ş1997
-o HABR      976  1997.xx ..... ISBN .-.....-...-.
+- .o .     R     _GUDULE                      Un requin dans la piscine [Les Frousses de Zo‚] ş1997
+o HABR      976  1997.xx ..... ISBN 2-01-209641-7
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      En colo avec des d‚mons [Les Frousses de Zo‚] ş1997
-o HABR      977  1977.xx ..... ISBN .-.....-...-.
+o HABR      977  1977.xx ..... ISBN 2-01-209752-9
+} noimg          _?                           ?
++ HABR      977  2000.xx ..... ISBN 2-01-200264-1
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      Mon papy s'appelle barbe bleue [Les Frousses de Zo‚] ş1977
-o HABR      978  1997.xx ..... ISBN .-.....-...-.
+o HABR      978  1997.xx ..... ISBN 2-01-209755-3
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      Bonjour monsieur Frankenstein [Les Frousses de Zo‚] ş1997
-o HABR      979  1998.xx ..... ISBN .-.....-...-.
+o HABR      979  1998.xx ..... ISBN 2-01-209862-2
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      Zo‚ contre Zo‚ [Les Frousses de Zo‚] ş1998
-o HABR      980  1998.xx ..... ISBN .-.....-...-.
+o HABR      980  1998.xx ..... ISBN 2-01-209892-4
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      Le M‚tro de l'horreur [Les Frousses de Zo‚] ş1998
-o HABR      981  1998.xx ..... ISBN .-.....-...-.
+o HABR      981  1998.xx ..... ISBN 2-01-209937-8
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      L'Œle du docteur Morora [Les Frousses de Zo‚] ş1998
-o HABR      982  1998.xx ..... ISBN .-.....-...-.
+o HABR      982  1998.xx ..... ISBN 2-01-209974-2
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      Le Squelette connaŒt la musique [Les Frousses de Zo‚] ş1998
-o HABR      983  1998.xx ..... ISBN .-.....-...-.
+o HABR      983  1998.xx ..... ISBN 2-01-209994-7
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      Le PŠre No‰l est un extraterrestre [Les Frousses de Zo‚] ş1998
-o HABR      984  1999.xx ..... ISBN .-.....-...-.
+o HABR      984  1999.xx ..... ISBN 2-01-200041-X
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      L'Abominable Petite Fille des neiges [Les Frousses de Zo‚] ş1999
-o HABR        ?  1999.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _GUDULE                      Le Microbe qui rend invisible [Les Frousses de Zo‚] ş1999
-o HABR        ?  2000.xx ..... ISBN .-.....-...-.
+o HABR      985  1999.xx ..... ISBN 2-01-200063-0
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      Pas de pizza pour les mutants [Les Frousses de Zo‚] ş2000
-o HABR        ?  2000.xx ..... ISBN .-.....-...-.
+o HABR      986  1999.xx ..... ISBN 2-01-200102-5
 } noimg          _?                           ?
 - .o .     R     _GUDULE                      Le Microbe qui rend invisible [Les Frousses de Zo‚] ş1999
 
@@ -988,7 +1054,7 @@ o HAC_NCS   222  1966.xx ..... ISBN -
 - .o .     R     _LYNCH Patricia              Korik et la boule d'or [Korik] ş1955 Brogeen and the Princess of Sheen şTrad. COMMIN H‚lŠne
 
 !-----------------------------------------------------------------------------
-!-- HARG    Hachette, BibliothŠque Rouge (jeunesse)
+!-- HARG    Hachette, BibliothŠque Rouge [jeunesse]
 !-----------------------------------------------------------------------------
 !--- Editions Hachette - BibliothŠque Rouge
 !--- ou "Poche Rouge"
@@ -998,29 +1064,29 @@ o HARG        ?  1974.xx ..... ISBN .-.....-...-.
 - .o .     R     _HEINLEIN Robert             La Patrouille de l'espace ş1948 Space Cadet
 o HARG        ?  1974.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _LEOURIER Christian          Le Messager de la grande Œle [Jarvis] ş1974
+- .o .     R     _LEOURIER Christian          Le Messager de la grande Œle [Jarvis - 1] ş1974
 o HARG        ?  1974.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _SILVERBERG Robert           La Guerre du froid ş1964 Time of the Great Freeze
+- .o .     R     _SILVERBERG Robert           La Guerre du froid ş1964 Time of the Great Freeze şTrad. ?
 o HARG        ?  1975.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _LEOURIER Christian          Le Paradis des hommes perdus [Jarvis] ş1975
+- .o .     R     _LEOURIER Christian          Le Paradis des hommes perdus [Jarvis - 2] ş1975
 o HARG        ?  1975.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .x .     R     _RENARD Christine            La TreiziŠme Royale ş1975
 o HARG        ?  1976.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _LEOURIER Christian          L'Envoy‚ du quatriŠme rŠgne [Jarvis] ş1976
+- .o .     R     _LEOURIER Christian          L'Envoy‚ du quatriŠme rŠgne [Jarvis - 3] ş1976
 o HARG        ?  1976.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _LEOURIER Christian          Les Rebelles de la soif [Jarvis] ş1976
+- .o .     R     _LEOURIER Christian          Les Rebelles de la soif [Jarvis - 4] ş1976
 o HARG        ?  1976.03 ..... ISBN .-.....-...-.
 } noimg          _TIBOR Csernus               ?
 - .o .     R     _SHELLEY Mary                La V‚ritable Histoire de Frankenstein ş1818 Frankenstein or the Modern Prometheus şTrad. ABADIA Guy
 o HARG        ?  1975.xx ..... ISBN ?
 } hach_br_poe    _?                           ?
-- .oF.     N6    _POE Edgar Allan             Histoires extraordinaires ş1856
 !--- Edgar Po‰ en couv
+- .oF.     A6    _POE Edgar Allan             Histoires extraordinaires ş1975
 : .o .     N     _POE Edgar Allan             Double assassinat dans la rue Morgue [Auguste Dupin] ş1841 The Murders in the Rue Morgue şTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             La Lettre vol‚e [Auguste Dupin] ş1845 The Purloined Letter şTrad. BAUDELAIRE Charles
 : .o .     N     _POE Edgar Allan             Le Scarab‚e d'or ş1843 The Gold-Bug şTrad. BAUDELAIRE Charles
@@ -1036,7 +1102,8 @@ o HARG        ?     ?.xx ..... ISBN .-.....-...-.
 !-----------------------------------------------------------------------------
 o HAC_BIJ     ?  1921.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     N     _LAUMANN E. M.              &L'A‚ro-Bagne 32 ş1920
+!--- 80 pages
+- .o .     r     _LAUMANN E. M.              &L'A‚ro-Bagne 32 ş1920
 &                _LANOS H.                    
 o HAC_BIJ     ?  1924.xx ..... ISBN -
 } noimg          _?                           ?
@@ -1070,7 +1137,7 @@ o HAC_BIJ     ?  1938.05 ..... ISBN -
 : .! .     N     _DOYLE Arthur Conan          Le Chat du Br‚sil ş1898 The Story of the Brazilian Cat
 : .! .     N     _DOYLE Arthur Conan          L'Œle hant‚e ş1897 The Fiend of the Cooperage
 : .o .     N     _DOYLE Arthur Conan          Voyage de Jelland ş1892 Jelland's Voyage
-: .! .     N     _DOYLE Arthur Conan          Retir‚ des affaires ş1898 The Story of the Club-Footer Grocer
+: .x .     N     _DOYLE Arthur Conan          Retir‚ des affaires ş1898 The Story of the Club-Footer Grocer
 o HAC_BIJ     ?  1948.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _TOUDOUZE Georges-G.         Le Petit Roi d'Ys ş1913
@@ -1079,25 +1146,29 @@ o HAC_BIJ     ?  1949.xx ..... ISBN -
 + HAC_BIJ     ?  1951.xx ..... ISBN -
 } hach_bj_ec49   _FAIVRE Henri                ?
 !--- R‚‚dition 51 exactement semblable
+!--- Un seul et unique texte fantastique
 - .pF.    _N7    _ERCKMANN-CHATRIAN           Contes choisis ş1949
-!--- Un seul texte fantastique
-: .! .     N     _ERCKMANN-CHATRIAN           La Taverne du jambon de mayence ş?
-: .! .     N     _ERCKMANN-CHATRIAN           La Trompette des hussards bleus ş?
-: .! .     N     _ERCKMANN-CHATRIAN           Le Vieux Tailleur ş?
+: .! .     N     _ERCKMANN-CHATRIAN           La Taverne du jambon de Mayence ş?
+: .x .     N     _ERCKMANN-CHATRIAN           La Trompette des hussards bleus ş?
+: .x .     N     _ERCKMANN-CHATRIAN           Le Vieux Tailleur ş?
 : .oF.     N     _ERCKMANN-CHATRIAN           Le Tr‚sor du vieux seigneur ş?
-: .! .     N     _ERCKMANN-CHATRIAN           La ComŠte ş?
-: .! .     N     _ERCKMANN-CHATRIAN           Les Amoureux de Catherine ş?
-: .! .     N     _ERCKMANN-CHATRIAN           Les Confidences d'un joueur de clarinette ş?
+: .x .     N     _ERCKMANN-CHATRIAN           La ComŠte ş1865
+: .! .     N     _ERCKMANN-CHATRIAN           Les Amoureux de Catherine ş1862
+: .! .     N     _ERCKMANN-CHATRIAN           Les Confidences d'un joueur de clarinette ş1862
 o HAC_BIJ     ?  1951.xx ..... ISBN -
 } noimg          _?                           ?
-!--- Av. jaquette, ill. de Jacques Touchet
+!--- jaquette - 
+!--- ill. de Jacques Touchet
 - .oS.     R     _BAILLY Albert               L'Ether alpha ş1929
+o HAC_BIJ     ?  1952.xx ..... ISBN -
+} noimg          _F. Batet                    F. Batet
+- .o .     R     _HAGGARD H. Rider            La Cit‚ sous la montagne [She - 1] ş1886 She şTrad. HILLEMACHER Jacques
 o HAC_BIJ    36  1958.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _BEAUCHAMPS Anne-Eric        Nicolas-Pan ş1958
 
 !-----------------------------------------------------------------------------
-!-- HABV    Hachette, BibliothŠque Verte (jeunesse)
+!-- HABV    Hachette, BibliothŠque Verte [jeunesse]
 !-----------------------------------------------------------------------------
 !--- Editions Hachette - BibliothŠque verte
 !-----------------------------------------------------------------------------
@@ -1137,9 +1208,11 @@ o HABV        ?  1948.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _TOUDOUZE Georges-G.         Le Petit Roi d'Ys ş1913
 o HABV        ?  1951.xx ..... ISBN -
-!--- Illustrations de Roger Parry
-} noimg          _?                           ?
+} noimg          _?                           Roger Parry
 - .oA.     R     _PEYRE Joseph                Inoa ş1951
+o HABV        ?  1952.xx ..... ISBN -
+} noimg          _F. Batet                    F. Batet
+- .o .     R     _HAGGARD H. Rider            La Cit‚ sous la montagne [She - 1] ş1886 She şTrad. HILLEMACHER Jacques
 o HABV       36  1958.T2 ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _BEAUCHAMPS Anne-Eric        Nicolas-Pan ş1958
@@ -1170,16 +1243,16 @@ o HABV        ?  1971.xx ..... ISBN -
 + HABV        ?  1978.xx ..... ISBN .-.....-...-.
 !--- R‚impression r‚vis‚e en 1995
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               Destination Uruapan [Les Conqu‚rants de l'impossible] ş1971
+- .o .     R     _EBLY Philippe               Destination Uruapan [Les Conqu‚rants de l'impossible - 1] ş1971
 o HABV        ?  1972.xx ..... ISBN -
 !--- R‚impression r‚vis‚e en 1993
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               Celui qui revenait de loin [Les Conqu‚rants de l'impossible] ş1972
+- .o .     R     _EBLY Philippe               Celui qui revenait de loin [Les Conqu‚rants de l'impossible - 2] ş1972
 o HABV        ?  1972.xx ..... ISBN -
 } noimg          _?                           ?
 + HABV        ?  1984.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               L'clair qui effa‡ait tout [Les Conqu‚rants de l'impossible] ş1972
+- .o .     R     _EBLY Philippe               L'clair qui effa‡ait tout [Les Conqu‚rants de l'impossible - 3] ş1972
 !--- R‚impression r‚vis‚e en 1993
 o HABV        ?  1973.xx ..... ISBN -
 } habv_tjrsaudace _?                           ?
@@ -1188,7 +1261,7 @@ o HABV        ?  1973.xx ..... ISBN -
 - .pS.    iNx    ****                         Toujours de l'audace ! ş1973
 o HABV        ?  1973.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               L'vad‚ de l'an 2 [Les Conqu‚rants de l'impossible] ş1973
+- .o .     R     _EBLY Philippe               L'vad‚ de l'an 2 [Les Conqu‚rants de l'impossible - 4] ş1973
 o HABV      462  1971.xx ..... ISBN -
 } noimg          _?                           ?
 + HABV      462  1973.xx ..... ISBN -
@@ -1202,10 +1275,10 @@ o HABV        ?  1973.xx ..... ISBN .-.....-...-.
 + HABV        ?  1980.xx ..... ISBN .-.....-...-.
 !--- R‚impression r‚vis‚e en 1995
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               Pour sauver le diamant noir [Les Conqu‚rants de l'impossible] ş1973
+- .o .     R     _EBLY Philippe               Pour sauver le diamant noir [Les Conqu‚rants de l'impossible - 5] ş1973
 o HABV        ?  1974.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               Et les martiens invitŠrent les hommes [Les Conqu‚rants de l'impossible] ş1974
+- .o .     R     _EBLY Philippe               Et les martiens invitŠrent les hommes [Les Conqu‚rants de l'impossible - 6] ş1974
 o HABV        ?  1974.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oF.     R     _FLEISCHMAN Sid              L'Homme qui brillait la nuit ş1966 The Ghost in the Noonday Sun şTrad. HELVILLE Roland
@@ -1213,7 +1286,7 @@ o HABV        ?  1974.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + HABV        ?  1983.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               Le Navire qui remontait le temps [Les Conqu‚rants de l'impossible] ş1974
+- .o .     R     _EBLY Philippe               Le Navire qui remontait le temps [Les Conqu‚rants de l'impossible - 7] ş1974
 !--- r‚‚d 1994 nø 113, ‚dition revue par l'auteur
 o HABV      456  1974.xx ..... ISBN .-.....-...-.
 !--- Illus. Albert CHAZELLE
@@ -1226,10 +1299,10 @@ o HABV        ?  1975.xx ..... ISBN -
 - .oS.     R     _PESEK Ludek                 Les Exil‚s de l'espace ş1971 Die Erde ist nah şTrad. ?
 o HABV        ?  1975.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               La Ville qui n'existait pas [Les Conqu‚rants de l'impossible] ş1975
+- .o .     R     _EBLY Philippe               La Ville qui n'existait pas [Les Conqu‚rants de l'impossible - 8] ş1975
 o HABV        ?  1976.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               La Vo–te invisible [Les Conqu‚rants de l'impossible] ş1976
+- .o .     R     _EBLY Philippe               La Vo–te invisible [Les Conqu‚rants de l'impossible - 9] ş1976
 o HABV        ?  1976.xx ..... ISBN -
 } noimg          _?                           Chica
 - .oY.     R     _TOLKIEN J.R.R.              Bilbo le Hobbit ş1937 The Hobbit şTrad. LEDOUX Francis
@@ -1238,43 +1311,44 @@ o HABV        ?  1977.xx ..... ISBN .-.....-...-.
 - .o .     R     _EBLY Philippe               Les Trois Portes [Les ‚vad‚s du temps - 1] ş1977
 o HABV        ?  1977.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               L'Œle surgie de la mer [Les Conqu‚rants de l'impossible] ş1977
+- .o .     R     _EBLY Philippe               L'Œle surgie de la mer [Les Conqu‚rants de l'impossible - 10] ş1977
 o HABV        ?  1977.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _PADOAN Gianni               Robinson de l'espace ş1969 Robinson dello spazio
-o HABV        ?  1977.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _ASIMOV Isaac                Jim Spark le chasseur d'‚toile [David Starr - 1] ş1952 David Starr Space Ranger
+o HABV        ?  1977.xx ..... ISBN 2-01-003863-0
+} noimg          _?                           Claude Lacroix
+- .o .     R     _ASIMOV Isaac                Jim Spark, le chasseur d'‚toile [David Starr - 1] ş1952 David Starr Space Ranger şTrad. ABADIA Guy
 o HABV        ?  1978.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _PISCAGLIA Christian         SOS radiations ş1978
-o HABV        ?  1978.02 ..... ISBN .-.....-...-.
-} noimg          _LACROIX Claude              LACROIX Claude
+o HABV        ?  1978.02 ..... ISBN 2-01-004193-3
+} noimg          _LACROIX Claude              Claude Lacroix
 - .o .     R     _ASIMOV Isaac                Jim Spark et les ‚cumeurs de l'espace [David Starr - 2] ş1953 Lucky Starr and the Pirates of the Asteroids şTrad. DERET Jean-Claude
-!--- TBC : titre "Les pirates des ast‚ro‹des" … priori faux
 o HABV        ?  1978.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + HABV        ?  1985.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               Le Robot qui vivait sa vie [Les Conqu‚rants de l'impossible] ş1978
+- .o .     R     _EBLY Philippe               Le Robot qui vivait sa vie [Les Conqu‚rants de l'impossible - 11] ş1978
+o HABV        ?  1978.xx ..... ISBN 2-01-005025-8
+} noimg          _?                           ?
+- .o .     R     _SILVERBERG Robert           La Guerre du froid ş1964 Time of the Great Freeze şTrad. ?
 o HABV        ?  1978.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _EBLY Philippe               Le Voyageur de l'au-del… [Les ‚vad‚s du temps - 2] ş1978
-o HABV        ?  1978.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _ASIMOV Isaac                Jim Spark et la cit‚ sous la mer [David Starr - 3] ş1954 Lucky Starr and the Oceans of Venus
-o HABV        ?  1979.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-!--- TBC : ou autre titre : La fournaise de Mercure, chez Lefrancq
-- .o .     R     _ASIMOV Isaac                Jim Spark et le projet lumiŠre [David Starr - 4] ş1956 Lucky Starr and the Big Sun of Mercury
+o HABV        ?  1978.xx ..... ISBN 2-01-004616-1
+} noimg          _?                           Claude Lacroix
+- .o .     R     _ASIMOV Isaac                Jim Spark et la cit‚ sous la mer [David Starr - 3] ş1954 Lucky Starr and the Oceans of Venus şTrad. ABADIA Guy
+o HABV        ?  1979.xx ..... ISBN 2-01-005508-X
+} noimg          _?                           Philippe Cr‚hange
+- .o .     R     _ASIMOV Isaac                Jim Spark et le projet lumiŠre [David Starr - 4] ş1956 Lucky Starr and the Big Sun of Mercury şTrad. ABADIA Guy
 o HABV        ?  1979.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 + HABV        ?  1988.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               S.O.S. L‚onard de Vinci [Les Conqu‚rants de l'impossible] ş1979
+- .o .     R     _EBLY Philippe               S.O.S. L‚onard de Vinci [Les Conqu‚rants de l'impossible - 12] ş1979
 o HABV        ?  1980.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               Le Naufrag‚ des ‚toiles [Les Conqu‚rants de l'impossible] ş1980
+- .o .     R     _EBLY Philippe               Le Naufrag‚ des ‚toiles [Les Conqu‚rants de l'impossible - 13] ş1980
 o HABV        ?  1980.03 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _SPILLANE Mickey             Le Jour o— la mer disparut [David et Jerry] ş1979 The Day the Sea Rolled Back şTrad. DOMENGEAUX
@@ -1293,7 +1367,7 @@ o HABV        ?  1981.xx ..... ISBN .-.....-...-.
 - .o .     R     _EBLY Philippe               Un frŠre au fond des siŠcles [Les ‚vad‚s du temps - 4] ş1981
 o HABV        ?  1982.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               Le Matin des dinosaures [Les Conqu‚rants de l'impossible] ş1982
+- .o .     R     _EBLY Philippe               Le Matin des dinosaures [Les Conqu‚rants de l'impossible - 14] ş1982
 !--- r‚‚d. 1994, nø 105, revu par l'auteur
 o HABV        ?  1982.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -1307,7 +1381,7 @@ o HABV        ?  1982.xx ..... ISBN 2-01-009073-X
 - .o .     F     _DALEY Brian                 Tron ş1982 Tron şTrad. HOUARD Philippe
 o HABV        ?  1983.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               La Grande Peur de l'an 2117 [Les Conqu‚rants de l'impossible] ş1983
+- .o .     R     _EBLY Philippe               La Grande Peur de l'an 2117 [Les Conqu‚rants de l'impossible - 15] ş1983
 o HABV        ?  1983.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _EBLY Philippe               Chasse au tigre en CorrŠze [Les ‚vad‚s du temps - 5] ş1983
@@ -1331,16 +1405,16 @@ o HABV       83  1988.xx ..... ISBN 2-010-13399-4
 - .o .     R     _EBLY Philippe               L'EnlŠvement du dieu blanc [Les Patrouilleurs de l'an 4003] ş1985
 o HABV        ?  1985.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               2159, la fin des temps troubl‚s [Les Conqu‚rants de l'impossible] ş1985
+- .o .     R     _EBLY Philippe               2159, la fin des temps troubl‚s [Les Conqu‚rants de l'impossible - 16] ş1985
 o HABV       84  1989.xx ..... ISBN 2-010-13400-0
 } noimg          _?                           ?
 - .o .     R     _EBLY Philippe               Les Marais de la mort [Les Patrouilleurs de l'an 4003] ş1986
 o HABV        ?  1986.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               Les Parias de l'an 2187 [Les Conqu‚rants de l'impossible] ş1986
+- .o .     R     _EBLY Philippe               Les Parias de l'an 2187 [Les Conqu‚rants de l'impossible - 17] ş1986
 o HABV        ?  1986.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               L'Ordinateur qui semait le d‚sordre [Les Conqu‚rants de l'impossible] ş1986
+- .o .     R     _EBLY Philippe               L'Ordinateur qui semait le d‚sordre [Les Conqu‚rants de l'impossible - 18] ş1986
 o HABV        ?  1986.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _EBLY Philippe               Objectif : nulle part [Les ‚vad‚s du temps - 8] ş1986
@@ -1442,7 +1516,7 @@ o HABV       36  1996.xx ..... ISBN .-.....-...-.
 - .x .     R     _BURROUGHS Edgar Rice        Tarzan l'indomptable [Tarzan - 7] ş1919 Tarzan the Untamed şTrad. STRYKER David
 o HABV      116  1996.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _EBLY Philippe               Mission sans retour [Les Conqu‚rants de l'impossible] ş1996
+- .o .     R     _EBLY Philippe               Mission sans retour [Les Conqu‚rants de l'impossible - 19] ş1996
 !------------------------
 !--- 1997
 !------------------------
@@ -1531,19 +1605,19 @@ o HABV      152  2007.11 ..... ISBN 978-2-01-201519-7
 !------------------------
 o HABV      580  2008.xx ..... ISBN 978-2-01-......-.
 } noimg          _?                           ?
-- .oY.     R     _BLADE Adam                  Le Dragon de feu [Beast Quest - 1] ş2007 Ferno The Fire Dragon şTrad. ?
+- .oY.     R     _BLADE Adam                  Le Dragon de feu [Beast Quest - 1] ş2007 Ferno the Fire Dragon şTrad. ?
 o HABV      581  2008.xx ..... ISBN 978-2-01-......-.
 } noimg          _?                           ?
-- .oY.     R     _BLADE Adam                  Le Serpent de mer [Beast Quest - 2] ş2007 Sepron The Sea Serpent şTrad. ?
+- .oY.     R     _BLADE Adam                  Le Serpent de mer [Beast Quest - 2] ş2007 Sepron the Sea Serpent şTrad. ?
 o HABV      582  2008.xx ..... ISBN 978-2-01-......-.
 } noimg          _?                           ?
-- .oY.     R     _BLADE Adam                  Le G‚ant des montagnes [Beast Quest - 3] ş2007 Cypher The Mountain Giant şTrad. ?
+- .oY.     R     _BLADE Adam                  Le G‚ant des montagnes [Beast Quest - 3] ş2007 Cypher the Mountain Giant şTrad. ?
 o HABV      583  2008.xx ..... ISBN 978-2-01-......-.
 } noimg          _?                           ?
-- .oY.     R     _BLADE Adam                  L'Homme-Cheval [Beast Quest - 4] ş2007 Tagus The Night Horse şTrad. ?
+- .oY.     R     _BLADE Adam                  L'Homme-Cheval [Beast Quest - 4] ş2007 Tagus the Night Horse şTrad. ?
 o HABV      584  2008.xx ..... ISBN 978-2-01-......-.
 } noimg          _?                           ?
-- .oY.     R     _BLADE Adam                  Le Monstre des neiges [Beast Quest - 5] ş2007 Nanook The Snow Monster şTrad. ?
+- .oY.     R     _BLADE Adam                  Le Monstre des neiges [Beast Quest - 5] ş2007 Nanook the Snow Monster şTrad. ?
 !------------------------
 !=== 2009
 !------------------------
@@ -1559,7 +1633,7 @@ o HABV      155  2009.09 ..... ISBN 978-2-01-201932-4
 - .oF.     r     _KIDD Rob                    Le Seigneur de l'Inde [L‚gendes de la confr‚rie - 3][Pirates des Cara‹bes] ş2009 Turning Tide şTrad. ?
 o HABV      585  2009.xx ..... ISBN 978-2-01-......-.
 } noimg          _?                           ?
-- .oY.     R     _BLADE Adam                  L'Oiseau-Flamme [Beast Quest - 6] ş2007 Epos The Flame Bird şTrad. ?
+- .oY.     R     _BLADE Adam                  L'Oiseau-Flamme [Beast Quest - 6] ş2007 Epos the Flame Bird şTrad. ?
 o HABV      586  2009.xx ..... ISBN 978-2-01-......-.
 } noimg          _?                           ?
 - .oY.     R     _BLADE Adam                  Les Dragons jumeaux [Beast Quest - 7] ş2008 Vedra and Krimon Twin Beasts of Avantia şTrad. ?
@@ -1568,7 +1642,7 @@ o HABV      587  2009.xx ..... ISBN 978-2-01-......-.
 - .oY.     R     _BLADE Adam                  Les Dragons ennemis [Beast Quest - 8] ş2008 Vedra and Krimon Twin Beasts of Avantia şTrad. ?
 o HABV      588  2009.xx ..... ISBN 978-2-01-......-.
 } noimg          _?                           ?
-- .oY.     R     _BLADE Adam                  Le Monstre marin [L'Armure magique - 1][Beast Quest - 9] ş2008 Zepha The Monster Squid şTrad. ?
+- .oY.     R     _BLADE Adam                  Le Monstre marin [L'Armure magique - 1][Beast Quest - 9] ş2008 Zepha the Monster Squid şTrad. ?
 !------------------------
 !=== 2010
 !------------------------
@@ -1583,28 +1657,28 @@ o HABV      157  2010.04 ..... ISBN 978-2-01-202012-2
 - .oF.     r     _KIDD Rob                    Le Seigneur des ombres [L‚gendes de la confr‚rie - 5][Pirates des Cara‹bes] ş2009 Day of the Shadow şTrad. PERONNY Nathalie
 o HABV      589  2010.xx ..... ISBN 978-2-01-......-.
 } noimg          _?                           ?
-- .oY.     R     _BLADE Adam                  Le Singe g‚ant [L'Armure magique - 2][Beast Quest - 10] ş2008 Claw The Giant Monkey şTrad. ?
+- .oY.     R     _BLADE Adam                  Le Singe g‚ant [L'Armure magique - 2][Beast Quest - 10] ş2008 Claw the Giant Monkey şTrad. ?
 o HABV      590  2010.xx ..... ISBN 978-2-01-......-.
 } noimg          _?                           ?
-- .oY.     R     _BLADE Adam                  L'Ensorceleuse [L'Armure magique - 3][Beast Quest - 11] ş2008 Soltra The Stone Charmer şTrad. ?
+- .oY.     R     _BLADE Adam                  L'Ensorceleuse [L'Armure magique - 3][Beast Quest - 11] ş2008 Soltra the Stone Charmer şTrad. ?
 o HABV      591  2010.xx ..... ISBN 978-2-01-......-.
 } noimg          _?                           ?
-- .oY.     R     _BLADE Adam                  L'Homme-Serpent [L'Armure magique - 4][Beast Quest - 12] ş2008 Vipero The Snake Man şTrad. ?
+- .oY.     R     _BLADE Adam                  L'Homme-Serpent [L'Armure magique - 4][Beast Quest - 12] ş2008 Vipero the Snake Man şTrad. ?
 o HABV      592  2010.10 ..... ISBN 978-2-01-202096-2
 } hachbv0592     _Orchard Books               ?
-- .oY.     R     _BLADE Adam                  Le MaŒtre des araign‚es [L'Armure magique - 5][Beast Quest - 13] ş2008 Arachnid The King of Spiders şTrad. LONGRE Blandine
+- .oY.     R     _BLADE Adam                  Le MaŒtre des araign‚es [L'Armure magique - 5][Beast Quest - 13] ş2008 Arachnid the King of Spiders şTrad. LONGRE Blandine
 !------------------------
 !=== 2011
 !------------------------
 o HABV      593  2011.xx ..... ISBN 978-2-01-202097-9
 } noimg          _Orchard Books               ?
-- .oY.     R     _BLADE Adam                  Le Lion … trois tˆtes [L'Armure magique - 6][Beast Quest - 14] ş2008 Trillion The Three-headed Lion şTrad. LONGRE Blandine
+- .oY.     R     _BLADE Adam                  Le Lion … trois tˆtes [L'Armure magique - 6][Beast Quest - 14] ş2008 Trillion the Three-headed Lion şTrad. LONGRE Blandine
 o HABV      594  2011.05 ..... ISBN 978-2-01-202387-1
 } noimg          _Orchard Books               ?
-- .oF.     R     _BLADE Adam                  L'Homme-Taureau [Le Royaume des ombres - 1][Beast Quest - 15] ş2008 Torgor The Minotaur şTrad. LONGRE Blandine
+- .oF.     R     _BLADE Adam                  L'Homme-Taureau [Le Royaume des ombres - 1][Beast Quest - 15] ş2008 Torgor the Minotaur şTrad. LONGRE Blandine
 o HABV      595  2011.08 ..... ISBN 978-2-01-202424-3
 } noimg          _Orchard Books               ?
-- .oF.     R     _BLADE Adam                  Le Cheval ail‚ [Le Royaume des ombres - 2][Beast Quest - 16] ş2008 Skor The Winged Stallion şTrad. LONGRE Blandine
+- .oF.     R     _BLADE Adam                  Le Cheval ail‚ [Le Royaume des ombres - 2][Beast Quest - 16] ş2008 Skor the Winged Stallion şTrad. LONGRE Blandine
 o HABV        ?  2011.08 ..... ISBN 978-2-01-202408-3
 } noimg          _Orchard Books               ?
 - .oF.     R     _BLADE Adam                  Le Masque de la mort [Les L‚gendes d'Avantia - 1][Beast Quest] ş2010 First Hero şTrad. GALLIOT Lucile
@@ -1616,7 +1690,7 @@ o HABV        ?  2011.10 ..... ISBN 978-2-01-202523-3
 - .oF.     R     _BLADE Adam                  Le Pouvoir des bˆtes [Les L‚gendes d'Avantia - 3][Beast Quest] ş2011 Call to War şTrad. GALLIOT Lucile
 o HABV        ?  2011.11 ..... ISBN 978-2-01-202444-1
 } noimg          _Orchard Books               ?
-- .oF.     R     _BLADE Adam                  Le Serpent marin [Le Royaume des ombres - 3][Beast Quest - 17] ş2008 Narga The Sea Monster şTrad. LONGRE Blandine
+- .oF.     R     _BLADE Adam                  Le Serpent marin [Le Royaume des ombres - 3][Beast Quest - 17] ş2008 Narga the Sea Monster şTrad. LONGRE Blandine
 o HABV        ?  2011.12 ..... ISBN 978-2-01-202637-7
 } noimg          _Orchard Books               ?
 - .oF.     R     _BLADE Adam                  La Forteresse mal‚fique [Les L‚gendes d'Avantia - 4][Beast Quest] ş2011 Fire and Fury şTrad. LONGRE Blandine
@@ -1632,7 +1706,7 @@ o HABV        ?  2012.01 ..... ISBN 978-2-01-202770-1
 - .oF.     R     _WINDHAM Ryder               La Biographie de Luke Skywalker [Biographies][Star Wars] ş2009 The Life of Luke Skywalker şTrad. KALENGULA Catherine
 o HABV        ?  2012.02 ..... ISBN 978-2-01-202638-4
 } noimg          _Orchard Books               ?
-- .oF.     R     _BLADE Adam                  Le Chien des t‚nŠbres [Le Royaume des ombres - 4][Beast Quest - 18] ş2008 Kaymon The Gorgon Hound şTrad. LONGRE Blandine
+- .oF.     R     _BLADE Adam                  Le Chien des t‚nŠbres [Le Royaume des ombres - 4][Beast Quest - 18] ş2008 Kaymon the Gorgon Hound şTrad. LONGRE Blandine
 o HABV        ?  2012.02 ..... ISBN 978-2-01-202909-5
 } noimg          _?                           ?
 - .oF.     R     _WINDHAM Ryder               La Biographie de Dark Vador [Biographies][Star Wars] ş2007 The Life and Fall of Darth Vader şTrad. BRU Nathalie
@@ -1642,10 +1716,10 @@ o HABV        ?  2012.04 ..... ISBN 978-2-01-202769-5
 + HABV        ?  2016.01 ..... ISBN 978-2-01-231856-4
 } noimg          _?                           ?
 !--- 190 pages - 5,70 euros
-- .oS.     F     _WREDE Patricia C.           Episode I - La Menace fant“me [La PremiŠre Trilogie - 1]|[Episode I][Star Wars] ş1999 The Phantom Menace şTrad. GALLIOT Lucile
+- .oS.     F     _WREDE Patricia C.           pisode I - La Menace fant“me [La PremiŠre Trilogie - 1]|[Episode I][Star Wars] ş1999 The Phantom Menace şTrad. GALLIOT Lucile
 o HABV        ?  2012.05 ..... ISBN 978-2-01-202639-1
 } noimg          _Orchard Books               ?
-- .oF.     R     _BLADE Adam                  Le Seigneur des ‚l‚phants [Le Royaume des ombres - 5][Beast Quest - 19] ş2008 Tusk The Mighty Mammoth şTrad. LONGRE Blandine
+- .oF.     R     _BLADE Adam                  Le Seigneur des ‚l‚phants [Le Royaume des ombres - 5][Beast Quest - 19] ş2008 Tusk the Mighty Mammoth şTrad. LONGRE Blandine
 o HABV        ?  2012.09 ..... ISBN 978-2-01-202640-7
 } noimg          _Orchard Books               ?
 - .oF.     R     _BLADE Adam                  L'Homme-Scorpion [Le Royaume des ombres - 6][Beast Quest - 20] ş2008 Sting the Scorpion Man şTrad. LONGRE Blandine
@@ -1711,7 +1785,7 @@ o HABV        ?  2014.11 ..... ISBN 978-2-01-400288-1
 - .oF.     R     _KOGGE Michael               Le Pouvoir de la Force [Rebels - 3][Star Wars] ş2014 Droids in Distress şTrad. GALLIOT Lucile
 o HABV        ?  2014.11 ..... ISBN 978-2-01-400290-4
 } noimg          _?                           ?
-- .oF.     R     _FRY Jason                   Au service de l'Empire [Servants of the Empire - 1]|[Rebels - 4][Star Wars] ş2014 Edge of the Galaxy şTrad. GAY Olivier
+- .oF.     R     _FRY Jason                   Au service de l'empire [Servants of the Empire - 1]|[Rebels - 4][Star Wars] ş2014 Edge of the Galaxy şTrad. GAY Olivier
 o HABV        ?  2014.11 ..... ISBN 978-2-01-204497-5
 } noimg          _?                           ?
 - .oF.     R     _BLADE Adam                  La Raie venimeuse [Sea Quest - 3] ş2013 Manak the Silent Predator / Manak the Manta Ray şTrad. LONGRE Blandine
@@ -1748,15 +1822,15 @@ o HABV        ?  2015.09 ..... ISBN 978-2-01-231701-7
 o HABV        ?  2015.09 ..... ISBN 978-2-01-231706-2
 } noimg          _?                           ?
 !--- Format : 125 x 180 mm - 192 pages - 5,95 euros
-- .oS.     F     _WINDHAM Ryder               Episode IV : Un nouvel espoir [La Trilogie fondatrice - 1][Star Wars] ş2004 A New Hope şTrad. ARSON Thierry & GALLIOT Lucile
+- .oS.     F     _WINDHAM Ryder               pisode IV : Un nouvel espoir [La Trilogie fondatrice - 1][Star Wars] ş2004 A New Hope şTrad. ARSON Thierry & GALLIOT Lucile
 o HABV        ?  2015.09 ..... ISBN 978-2-01-231707-9
 } noimg          _?                           ?
 !--- Format : 125 x 178 mm - 192 pages - 5,95 euros
-- .oS.     F     _WINDHAM Ryder               Episode V : L'Empire contre-attaque [La Trilogie fondatrice - 2][Star Wars] ş2004 The Empire Strikes Back şTrad. KALENGULA Catherine
+- .oS.     F     _WINDHAM Ryder               pisode V : L'Empire contre-attaque [La Trilogie fondatrice - 2][Star Wars] ş2004 The Empire Strikes Back şTrad. KALENGULA Catherine
 o HABV        ?  2015.09 ..... ISBN 978-2-01-231708-6
 } noimg          _?                           ?
 !--- Format : 125 x 175 mm - 192 pages - 5,95 euros
-- .oS.     F     _WINDHAM Ryder               Episode VI - Le Retour du Jedi [La Trilogie fondatrice - 3][Star Wars] ş2004 Return of the Jedi şTrad. BARFETY Elizabeth
+- .oS.     F     _WINDHAM Ryder               pisode VI - Le Retour du Jedi [La Trilogie fondatrice - 3][Star Wars] ş2004 Return of the Jedi şTrad. BARFETY Elizabeth
 o HABV        ?  2015.10 ..... ISBN 978-2-01-231703-1
 } noimg          _?                           ?
 - .oS.     R     _FRY Jason                   L'acad‚mie secrŠte [Servants of the Empire - 4]|[Rebels - 9][Star Wars] ş2015 The Secret Academy şTrad. GALLIOT Lucile
@@ -1775,11 +1849,11 @@ o HABV        ?  2016.01 ..... ISBN 978-2-01-231715-4
 o HABV        ?  2016.02 ..... ISBN 978-2-01-231869-4
 } noimg          _?                           ?
 !--- Format : 127 x 178 mm - 192 pages - 5,95 euros
-- .oS.     F     _WREDE Patricia C.           Episode II : L'Attaque des clones [La PremiŠre Trilogie - 2][Star Wars] ş2002 Attack of the Clones şTrad. KALENGULA Catherine
+- .oS.     F     _WREDE Patricia C.           pisode II : L'Attaque des clones [La PremiŠre Trilogie - 2][Star Wars] ş2002 Attack of the Clones şTrad. KALENGULA Catherine
 o HABV        ?  2016.03 ..... ISBN 978-2-01-231885-4
 } noimg          _?                           ?
 !--- Format : 125 x 178 mm - 192 pages - 5,95 euros
-- .oS.     F     _WREDE Patricia C.           Episode III : La Revanche des Sith [La PremiŠre Trilogie - 3][Star Wars] ş2005 Revenge of the Sith şTrad. BARFETY Elizabeth
+- .oS.     F     _WREDE Patricia C.           pisode III : La Revanche des Sith [La PremiŠre Trilogie - 3][Star Wars] ş2005 Revenge of the Sith şTrad. BARFETY Elizabeth
 o HABV        ?  2016.03 ..... ISBN 978-2-01-146317-3
 } noimg          _?                           ?
 - .oS.     R     _RUBIO-BARREAU Vanessa       Pris au piŠge [Rebels - 10][Star Wars] ş2016
@@ -1864,7 +1938,7 @@ o HABV        ?  2017.10 ..... ISBN 978-2-01-703502-2
 } noimg          _?                           ?
 !--- Format : 126 x 178 mm - 64 pages - 5,50 euros
 !--- Star Wars 6-8 ans
-- .oS.     F     _KALENGULA Catherine         Le Retour du Jedi [Star Wars 6-8 ans - 6][La Trilogie fondatrice - 3][Star Wars] ş2017
+- .oS.     F     _KALENGULA Catherine         Le Retour du Jedi [Star Wars 6-8 ans - 6]|[La Trilogie fondatrice - 3][Star Wars] ş2017
 o HABV        ?  2017.10 ..... ISBN 978-2-01-703503-9
 } noimg          _?                           ?
 - .oS.     r     _HUDDLESTON Tom              La TaniŠre [Aventures dans un monde rebelle - 3][Star Wars] ş2016 The Nest / The Heist şTrad. LONGRE Blandine
@@ -1883,7 +1957,7 @@ o HABV        ?  2018.02 ..... ISBN 978-2-01-627136-0
 o HABV        ?  2018.02 ..... ISBN 978-2-01-627146-9
 } noimg          _Orchard Books               ?
 !--- Format : 126 x 180 mm - 96 pages - 5,50 euros
-- .oF.     R     _BLADE Adam                  Le Chat des plaines [Le royaume de Tavania - 4][Beast Quest - 44] ş2010 Madara the Midnight Warrior şTrad. LONGRE Blandine
+- .oF.     R     _BLADE Adam                  Le Chat des plaines [Le Royaume de Tavania - 4][Beast Quest - 44] ş2010 Madara the Midnight Warrior şTrad. LONGRE Blandine
 o HABV        ?  2018.03 ..... ISBN 978-2-01-704017-0
 } noimg          _David M. Buisan             ?
 !--- Format : 120 x 178 mm - 128 pages - 5,50 euros
@@ -1900,7 +1974,7 @@ o HABV        ?  2018.03 ..... ISBN 978-2-01-704016-3
 o HABV        ?  2018.06 ..... ISBN 978-2-01-704845-9
 } noimg          _Orchard Books               ?
 !--- Format : 126 x 180 mm - 96 pages - 5,50 euros
-- .oF.     R     _BLADE Adam                  L'Anguille de la Jungle [Le royaume de Tavania - 5][Beast Quest - 45] ş2010 Ellik the Lightning Horror şTrad. LONGRE Blandine
+- .oF.     R     _BLADE Adam                  L'Anguille de la Jungle [Le Royaume de Tavania - 5][Beast Quest - 45] ş2010 Ellik the Lightning Horror şTrad. LONGRE Blandine
 o HABV        ?  2018.08 ..... ISBN 978-2-01-706115-1
 } noimg          _?                           ?
 !--- Format : 120 x 180 mm - 128 pages - 5,50 euros
@@ -1908,7 +1982,7 @@ o HABV        ?  2018.08 ..... ISBN 978-2-01-706115-1
 o HABV        ?  2018.09 ..... ISBN 978-2-01-704871-8
 } noimg          _Orchard Books               ?
 !--- Format : 122 x 180 mm - 96 pages - 5,50 euros
-- .oF.     R     _BLADE Adam                  L'HyŠne des glaces [Le royaume de Tavania - 6][Beast Quest - 46] ş2010 Carnivora the Winged Scavenger şTrad. LONGRE Blandine
+- .oF.     R     _BLADE Adam                  L'HyŠne des glaces [Le Royaume de Tavania - 6][Beast Quest - 46] ş2010 Carnivora the Winged Scavenger şTrad. LONGRE Blandine
 o HABV        ?  2018.09 ..... ISBN 978-2-01-706129-8
 } noimg          _?                           ?
 !--- Format : 125 x 180 mm - 192 pages - 5,95 euros
@@ -1965,25 +2039,25 @@ o HABV        ?  2020.06 ..... ISBN 978-2-01-787309-9
 o HABV      400  1996.xx ..... ISBN 2-01-209608-5
 } hachbv400      _?                           ?
 - .pFP     A5    *HITCHCOCK Alfred            Histoires … ne pas fermer l'oeil de la nuit ş1996
-: .? .     N     _RATHJEN Carl Henry          Dette de jeunesse ş? ?
+: .? .     N     _RATHJEN Carl Henry          Dette de jeunesse ş? A Debt to Doc
 : .? .     N     _SLESAR Henry                Le Coeur de Sam ş1958 Sam's Heart
-: .? .     N     _ZUROY Michel                Les Experts ş? ?
+: .? .     N     _ZUROY Michael               Les Experts ş1969 The Experts
 : .? .     N     _FORBES DeLoris Stanton      Ma soeur Annabelle ş1962 My Sister Annabelle
-: .? .     N     _WALLACE Penelope            Le Monde selon oncle Albert ş? ?
+: .? .     N     _WALLACE Penelope            Le Monde selon oncle Albert ş? The World According to Uncle Albert
 o HABV      401  1996.xx ..... ISBN 2-01-209609-3
 } hachbv401      _?                           ?
 - .pFP     A4    *HITCHCOCK Alfred            Histoires … claquer des dents ş1996
 : .o .     N     _AMUNDSON Grace              L'Enfant qui avait la foi ş1950 The Child Who Believed şTrad. FERRY Odette
 : .? .     N     _HITCHCOCK George            Une invitation … la chasse ş1960 An Invitation to the Hunt şTrad. FERRY Odette
-: .? .     N     _GILFORD C.B.                L'inspecteur voit double ş? ?
-: .? .     N     _LANG Allen Kim              Le PiŠge ş? ?
+: .? .     N     _GILFORD C.B.                L'inspecteur voit double ş1978 Heir Presumptuous
+: .? .     N     _LANG Allen Kim              Le PiŠge ş1958 Room for Murder
 o HABV      402  1997.xx ..... ISBN 2-01-209610-7
 } hachbv402      _?                           ?
 - .pFP     A7    *HITCHCOCK Alfred            Histoires … trembler de la tˆte aux pieds ş1997
-: .? .     N     _CAPON Elliott               Le Mus‚e m‚dusant ş? ?
-: .? .     N     _MICHAEL Ellane              Y'a plus d'enfants ! ş? ?
-: .? .     N     _DAY Price                   L'Heure du perroquet ş? ?
-: .? .     N     _PORGES Arthur               Janie intervient ş1966 Janie Zeroes In
+: .? .     N     _CAPON Elliott               Le Mus‚e m‚dusant ş? Fan and Games at the Whacks Museum
+: .? .     N     _MICHAEL Ellane              Y'a plus d'enfants ! ş? Under Cover Of Darkness
+: .? .     N     _DAY Price                   L'Heure du perroquet ş1958 4 O'Clock
+: .? .     N     _PORGES Arthur               Janie intervient ş1966 Janie Zeroes in
 : .? .     N     _MILNE A.A.                  Un homme trŠs aim‚ ş1950 Greatly Beloved / A Man Greatly Beloved
 : .? .     N     _SELBO Jule                  Miss Nobody ş1986 Miss Nobody
 : .? .     N     _MARTIN Donald               Une le‡on de morale ş1961 A Reform Movement
@@ -1993,7 +2067,7 @@ o HABV      403  1997.xx ..... ISBN 2-01-209611-5
 - .pFP     A5    *HITCHCOCK Alfred            Histoires … se cacher sous le lit ş1997
 : .? .     N     _CANN Marty                  En un mot ş1993 Outrage at the Short Mystery Club
 : .? .     N     _McKIMMEY James              L'Arbre magique ş1966 The Magic Tree
-: .? .     N     _ROBY Mary Linn              La Trop P‚nible V‚rit‚ ş? ?
+: .? .     N     _ROBY Mary Linn              La Trop P‚nible V‚rit‚ ş? See and Tell
 : .? .     N     _JENKINS Will                L'Enjeu ş1937 Side Bet
 : .? .     N     _HOWARD Clark                Deux Douzaines de vilains oiseaux ş1964 Four and Twenty Blackbirds
 o HABV      404  1997.xx ..... ISBN 2-01-209612-3
@@ -2001,17 +2075,17 @@ o HABV      404  1997.xx ..... ISBN 2-01-209612-3
 - .pFP     A4    *HITCHCOCK Alfred            Histoires … tourner de l'oeil ş1997
 : .? .     N     _HANSEN Joseph               Aux quatre vents ş1992 Storm damage
 : .o .     N     _HOCH Edward D.              L'Homme qui ‚tait partout ş1957 The Man who Was Everywhere şTrad. FERRY Odette
-: .? .     N     _WASYLYK Stephen             L'ƒge ne fait rien … l'affaire ş? ?
+: .! .     N     _WASYLYK Stephen             L'ƒge ne fait rien … l'affaire ş1979 The liberating of Olivette Goudy şTrad. PIERREFEU Louis de
 : .o .     N     _GOODWIN John B.L.           Le Cocon ş1946 The Cocoon şTrad. FERRY Odette
-o HABV      405  1997.xx ..... ISBN  2-01-209757-X
+o HABV      405  1997.xx ..... ISBN 2-01-209757-X
 } hachbv405      _?                           ?
 !--- 128 pages
 - .pFP     A6    *HITCHCOCK Alfred            Histoires … couper le souffle ş1997
-: .? .     N     _MCLAUGHLIN J. P.            La Folle du logis ş1992 Going Buggy
+: .oF.     N     _McLAUGHLIN J. P.            La Folle du logis ş1992 Going Buggy şTrad. ESCH Jean
 : .? .     N     _SAVES Jimmy                 Assis sur un volcan ş? The Hot Seat
-: .? .     N     _WEINBERGER David            A toute vapeur ş? ?
-: .? .     N     _HONIG Donald                Un gibier pr‚cieux ş? ?
-: .? .     N     _ROLSETH Harold              Un fameux bourgogne ş? ?
+: .? .     N     _WEINBERGER David            A toute vapeur ş? Flame's Redheaded Empostor
+: .? .     N     _HONIG Donald                Un gibier pr‚cieux ş? The Man we Found
+: .? .     N     _ROLSETH Harold              Un fameux bourgogne ş? Tight Fix
 : .? .     N     _POTEET L. L.                Les Inconv‚nients du m‚tier ş1968 Robbery Is a Hazardous Business
 o HABV      406  1998.xx ..... ISBN 2-01-209799-5
 } hachbv406      _?                           ?
@@ -2027,7 +2101,7 @@ o HABV      407  1998.xx ..... ISBN 2-01-209941-6
 - .pFP     A6    *HITCHCOCK Alfred            Histoires … ne pas lire seul ş1998
 : .? .     N     _POWELL Talmage              Le Hold-Up ş1979 The Hold-Up
 : .? .     N     _MacPHERSON Tom              Le T‚moin aux trois visages ş1962 Three-Faced Witness
-: .? .     N     _EINSTEIN Charles            L'Indice chiffr‚ ş1958 Sorry, Right Number
+: .! .     N     _EINSTEIN Charles            L'Indice chiffr‚ ş? The Episode of the Telephone Number
 : .? .     N     _GILFORD C.B.                Comment s'en d‚barrasser ş? ?
 : .? .     N     _AUSTIN Alex                 Je t'aime un peu, beaucoup ... ş? ?
 : .? .     N     _HOLDING James               Le Cambrioleur de la t‚l‚ ş1961 Cotton Cloak, Wood Dagger
@@ -2038,10 +2112,11 @@ o HABV      408  1998.xx ..... ISBN 2-01-20995478
 !--- la derniŠre provient de "Histoires qui d‚frisent"
 - .pFP     A6    *HITCHCOCK Alfred            Histoires … grincer des dents ş1998
 : .? .     N     _DEAL Borden                 Vacances d'un homme malheureux ş1959 Holiday for an Unhappy Man
-: .? .     N     _DECKER Duane                Quatre chances sur cinq ş? ?
+: .? .     N     _DECKER Duane                Quatre chances sur cinq ş? Point the Man Out şTrad. IZABELLE P.J.
 : .? .     N     _GEORGE Stanley              Sur la piste des diamants ş1958 Diamonds in the Rough
-: .? .     N     _LINK W. & LEVINSON R.       Impasse au cerveau ş1961 No Name, Address, Identity
-: .? .     N     _RUBIN Mann                  Robot malgr‚ lui ş? ?
+: .? .     N     _LINK William               &Impasse au cerveau ş1961 No Name, Address, Identity
+&  ?             _LEVINSON Richard            
+: .oS.     N     _RUBIN Mann                  Robot malgr‚ lui ş? Robot with a Gun şTrad. IZABELLE P.J.
 : .? .     N     _RITCHIE Jack                Dans dix minutes ş1963 Ten Minutes from Now
 
 
@@ -2147,7 +2222,7 @@ o HABM        ?  1985.xx ..... ISBN .-.....-...-.
 - .o .     R     _VERNES Henri                Le Retour de l'Ombre Jaune [L'Ombre Jaune][Bob Morane - 43] ş1960
 
 !-----------------------------------------------------------------------------
-!-- HACHTAR Hachette, Coll. "Tarzan"
+!-- HACHTAR Hachette, Tarzan
 !-----------------------------------------------------------------------------
 !--- Editions Hachette - collection "Tarzan"
 !-----------------------------------------------------------------------------
@@ -2188,13 +2263,13 @@ o HACHTAR     ?  1949.xx ..... ISBN -
 - .x .     R     _BURROUGHS Edgar Rice        Le Triomphe de Tarzan [Tarzan - 15] ş1931 Tarzan Triumphant şTrad. ARGELLIES Pierre
 o HACHTAR     ?  1950.xx ..... ISBN -
 } noimg          _?                           ?
-- .x .     R     _BURROUGHS Edgar Rice        Tarzan et la cit‚ de l'or [Tarzan - 16] ş1932 Tarzan and the City of Gold şTrad. RYS
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan et la cit‚ de l'or [Tarzan - 16] ş1933 Tarzan and the City of Gold şTrad. RYS
 o HACHTAR     ?  1951.xx ..... ISBN -
 } noimg          _?                           ?
-- .x .     R     _BURROUGHS Edgar Rice        Tarzan et le secret de la jeunesse [Tarzan - 19] ş1936 Tarzan's Quest şTrad. MARTIN Pierre
+- .x .     R     _BURROUGHS Edgar Rice        Tarzan et le secret de la jeunesse [Tarzan - 19] ş1936 Tarzan's Quest / Tarzan and the Immortal Men şTrad. MARTIN Pierre
 
 !-----------------------------------------------------------------------------
-!-- HACH_JV Hachette, Coll. "Prix Jules Verne"
+!-- HACH_JV Hachette, Prix Jules Verne
 !-----------------------------------------------------------------------------
 o HACH_JV     ?  1928.xx ..... ISBN -
 } noimg          _?                           ?
@@ -2246,15 +2321,11 @@ o HAC_VER     ?  1975.xx ..... ISBN 2-01-002520-2
 !-----------------------------------------------------------------------------
 !--- Fascicules in-12
 !-----------------------------------------------------------------------------
-_ HACHLJ1 <b>in</b> Hachette, Le Livre du Jeudi nø 1 (29/04) … 8 (17/06)
-_ HACHLJ2 <b>in</b> Hachette, Le Livre du Jeudi nø 9 (24/06) … 16 (12/08)
-_ HACHLJ3 <b>in</b> Hachette, Le Livre du Jeudi nø 17 (19/08) … 24 (07/10)
-_ HACHLJ4 <b>in</b> Hachette, Le Livre du Jeudi nø 25 (14/10) … 31 (25/11)
-_ HACHLJ5 <b>in</b> Hachette, Le Livre du Jeudi nø 32 (02/12/1926) … 38 (13/01/1927)
-_ HACHLJ6 <b>in</b> Hachette, Le Livre du Jeudi nø 55 … 62
+_ HACHLJ  Hachette - Le Livre du jeudi
 !-----------------------------------------------------------------------------
-o HACHLJ1     ?  1926.06 ..... ISBN -
+o HACHLJ      ?  1926.06 ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 1 (29/04/1926) … 8 (17/06/1926)
 ! Tome 1
 ! 01. L'Aigle s'envole, 29/04/1926
 ! 02. L'Attaque de l'auberge, 06/05/1926
@@ -2265,8 +2336,9 @@ o HACHLJ1     ?  1926.06 ..... ISBN -
 ! 07. Le stylet et le domino, 10/06/1926
 ! 08. Le petit caporal, 17/06/1926
 - .oS.     R     _AGRAIVES Jean d'            L'Aviateur de Bonaparte - Livre 1 [L'Aviateur de Bonaparte - 1] ş1926
-o HACHLJ2     ?  1926.08 ..... ISBN -
+o HACHLJ      ?  1926.08 ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 9 (24/06/1926) … 16 (12/08/1926)
 ! Tome 2
 ! 09. Sous les plombs de Venise, 24/06/1926
 ! 10. Le D‚fi au vertige, 01/07/1926
@@ -2277,8 +2349,9 @@ o HACHLJ2     ?  1926.08 ..... ISBN -
 ! 15. Echec au pique, 05/08/1926
 ! 16. Le Neveu de Washington, 12/08/1926
 - .oS.     R     _AGRAIVES Jean d'            L'Aviateur de Bonaparte - Livre 2 [L'Aviateur de Bonaparte - 2] ş1926
-o HACHLJ3     ?  1926.10 ..... ISBN -
+o HACHLJ      ?  1926.10 ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 17 (19/08/1926) … 24 (07/10/1926)
 ! Tome 3
 ! 17. Le Traquenard, 19/08/1926
 ! 18. Ruse contre ruse, 26/08/1926
@@ -2289,8 +2362,9 @@ o HACHLJ3     ?  1926.10 ..... ISBN -
 ! 23. Le Poison des Borgia, 30/09/1926
 ! 24. La Falaise de Porto, 07/10/1926
 - .oS.     R     _AGRAIVES Jean d'            L'Aviateur de Bonaparte - Livre 3 [L'Aviateur de Bonaparte - 3] ş1926
-o HACHLJ4     ?  1926.11 ..... ISBN -
+o HACHLJ      ?  1926.11 ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 25 (14/10/1926) … 31 (25/11/1926)
 ! Tome 1 :
 ! 25. Les Poissons s'agitent, 14/10/1926
 ! 26. Le MystŠre se corse, 21/10/1926
@@ -2300,8 +2374,9 @@ o HACHLJ4     ?  1926.11 ..... ISBN -
 ! 30. La terre tremble, 18/11/1926
 ! 31. Les douze samoura‹s, 25/11/1926
 - .oS.     R     _AGRAIVES Jean d'            Le Sorcier de la mer - Livre 1 ş1926
-o HACHLJ5     ?  1927.01 ..... ISBN -
+o HACHLJ      ?  1927.01 ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 32 (02/12/1926) … 38 (13/01/1927)
 ! Tome 2 :
 ! 32. Le bƒton d'or , 02/12/1926
 ! 33. Les torpilles cheminent, 09/12/1926
@@ -2311,13 +2386,16 @@ o HACHLJ5     ?  1927.01 ..... ISBN -
 ! 37. La bouteille … la mer, 06/01/1927
 ! 38. Le combat suprˆme, 13/01/1927
 - .oS.     R     _AGRAIVES Jean d'            Le Sorcier de la mer - Livre 2 ş1927
-o HACHLJ6     ?  1927.06 ..... ISBN -
+o HACHLJ      ?  1927.06 ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 55 (05/1927) … 62 (06/1927)
 !--- mai … juin 1927
 - .oS.     R     _KEROUAN Jean                Les Chasseurs de comŠtes ş1927
 
 !-----------------------------------------------------------------------------
-_ HACH_GA Hachette, Les Grandes Aventures (reliure des fascicules)
+_ HACH_GA Hachette - Les Grandes Aventures
+!-----------------------------------------------------------------------------
+!--- reliure des fascicules
 !-----------------------------------------------------------------------------
 o HACH_GA     ?  1927.12 ..... ISBN -
 } noimg          _?                           ?
@@ -2372,9 +2450,20 @@ o HACHLIB     ?  1856.xx ..... ISBN -
 : .o .     N     _ANDERSEN Hans Christian     Les Cygnes sauvages ş1838 De vilde Svaner
 : .o .     N     _ANDERSEN Hans Christian     Le Rossignol ş1843 Nattergalen
 : .o .     N     _ANDERSEN Hans Christian     Le Chanvre ş1848 H›rren şTrad. ?
+o HACHLIB     ?  1857.xx ..... ISBN -
+} noimg          _?                           Bertall
+>--- L'ouvrage indique : "Traduits et imit‚s de Hauff par Am‚d‚e Tallon".
+>--. Bien que pr‚sent‚ comme l'ouvrage "L'Auberge du Spessart", le texte en reprend la trame (des voyageurs se racontent des histoires) mais en m‚langeant deux histoires
+>--. issues de l'ouvrage original (dont les deux parties r‚unies du texte "Le coeur de pierre"), avec deux histoires de l'ouvrage "Le Cheik", 
+>--. ceci au prix de quelques adaptations libres des textes de liaison - introduction...
+- .oMN    _C4    _HAUFF Wilhelm               L'Auberge du Spessart ş1827 Das Wirtshaus im Spessart
+: .o .  15 N     _HAUFF Wilhelm               Le Florin au cerf ş1827 Die Sage vom Horschgulden şTrad. TALLON Am‚d‚e
+: .o .  67 N     _HAUFF Wilhelm               Le Coeur froid ş1827 Das kalte Herz şTrad. TALLON Am‚d‚e
+: .o . 189 N     _HAUFF Wilhelm               Le Jeune Anglais ş1826 Der Affe als Mensch şTrad. TALLON Am‚d‚e
+: .o . 251 N     _HAUFF Wilhelm               Le Nain au long nez ş1826 Der Zwerg Nase şTrad. TALLON Am‚d‚e
 o HACH        ?  1860.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.    _N14   _ERCKMANN-CHATRIAN           Contes fantastiques ((Contes fantastique de Erckmann-Chatrian)) ş1860
+- .oF.    _N14   _ERCKMANN-CHATRIAN           Contes fantastiques ((Contes fantastiques de Erckmann-Chatrian)) ş1860
 : .o .     N     _ERCKMANN-CHATRIAN           L'Esquisse myst‚rieuse ş1860
 : .o .     N     _ERCKMANN-CHATRIAN           Gretchen ş1860
 : .o .     N     _ERCKMANN-CHATRIAN           Entre deux vins ş1860
@@ -2389,6 +2478,18 @@ o HACH        ?  1860.xx ..... ISBN -
 : .o .     N     _ERCKMANN-CHATRIAN           Le Sacrifice d'Abraham ş1860
 : .o .     N     _ERCKMANN-CHATRIAN           Hans Storkus ş1860
 : .o .     N     _ERCKMANN-CHATRIAN           L'Araign‚e-Crabe ş1860
+o HACHLIB     ?  1857.xx ..... ISBN -
+} noimg          _?                           Bertall
+>--. Pr‚sent‚ comme "La Caravane", l'ouvrage n'est pas une traduction de l'ouvrage de mˆme titre.
+>--- Au mˆme titre que le pr‚c‚dent ouvrage "L'Auberge de Spessart", le traducteur se permet ici de modifier l'ouvrage original en modifiant l'ordre des histoires, en y
+>--. incluant une autre, "Les Aventures de Sa‹d" ("Le Cheik") et en cr‚ant une nouvelle fin de toute piŠce ("La Lettre").
+- .oMN    _C6    _HAUFF Wilhelm               La Caravane - Contes orientaux ş1825 Die Karawane
+: .o .  11 N     _HAUFF Wilhelm               Le Calife cigogne ş1825 Die Geschichte vom Kalif Storch şTrad. TALLON Am‚d‚e
+: .o .  41 N     _HAUFF Wilhelm               Le Faux Prince ş1825 Das M„rchen vom falschen Prinzen şTrad. TALLON Am‚d‚e
+: .o .  83 N     _HAUFF Wilhelm               La D‚livrance de Fatm‚ ş1825 Die Errettung Fatmes şTrad. TALLON Am‚d‚e
+: .o . 131 N     _HAUFF Wilhelm               Le Petit Mouck ş1825 Die Geschichte vom kleinen Muck şTrad. TALLON Am‚d‚e
+: .o . 183 N     _HAUFF Wilhelm               Le Vaisseau maudit ş1825 Die Geschichte von dem Gespensterschff şTrad. TALLON Am‚d‚e
+: .o . 207 N     _HAUFF Wilhelm               Les Aventures de Sa‹d ş1827 Saids Schicksale
 o HACHLIB     ?  1875.xx ..... ISBN -
 } hachl_cdn1875  _X                           ?
 + HACHLIB     ?  1879.xx ..... ISBN -
@@ -2442,6 +2543,16 @@ o HACH        ?  1881.xx ..... ISBN -
 + HACH        ?  1896.xx ..... ISBN -
 } noimg          _?                           ?
 - .oF.     R     _COLLINS W. Wilkie           L'H“tel hant‚ ş1878 The Haunted Hotel şTrad. DALLEMAGNE Henry
+o HACH        ?  1891.xx ..... ISBN -
+} noimg          _?                           ?
+- .oF.     N7    _HOFFMANN E.T.A.             Fantaisies dans la maniŠre de Callot ş1813-1819 Fantasiestcke in Callot's Manier şTrad. CURZON Henri de
+: .o .     N     _HOFFMANN E.T.A.             Kreisleriana ş1814 Kreisleriana
+: .o .     r     _HOFFMANN E.T.A.             DerniŠre vivissitudes du chien Berganza ş1814 Nachricht von den neuesten Schicksalen des Hundes Berganza
+: .o .     N     _HOFFMANN E.T.A.             Le Magn‚tiseur ş1814 Der Magnetiseur. Eine Familienbegebenheit
+: .o .     N     _HOFFMANN E.T.A.             Le Chevalier Gluck ş1809 Ritter Gluck
+: .o .     N     _HOFFMANN E.T.A.             Don Juan ş1812 Don Juan
+: .o .     r     _HOFFMANN E.T.A.             Le Vase d'or ş1814 Der goldne Topf. Ein M„rchen aus der neuen Zeit
+: .o .     N     _HOFFMANN E.T.A.             Les Aventures de la nuit de la Saint-Sylvestre ş1814 Die Abenteuer der Silvesternacht
 o HACHLIB     ?  1895.xx ..... ISBN -
 } noimg          _X                           O:?
 !--- Illustr‚ de 10 gravures hors-textes dont un frontispice
@@ -2468,18 +2579,10 @@ o HACH        ?  1937.xx ..... ISBN -
 !--- d'aprŠs Le mad king 1914 + Barney Custer of Betrice 1915
 o HACH        ?  1938.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _BURROUGHS Edgar Rice        Le Conqu‚rant de la planŠte Mars [Cycle de Mars - 1] ş1912 Under the Moons of Mars / A Princess of Mars şTrad. COBORE Pierre
+- .o .     R     _BURROUGHS Edgar Rice        Le Conqu‚rant de la planŠte Mars [Cycle de Mars - 1] ş1912 Under the Moons of Mars / A Princess of Mars / Carter of the Red Planet / The Princess of Mars şTrad. COBORE Pierre
 o HACH        ?  1951.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _STEWART George R.           Le Pont sur l'abŒme ş1950 Earth Abides
-o HACH        ?  1955.xx ..... ISBN -
-} noimg          _?                           ?
-- .o .    iN5    _HAUFF Wilhelm               La Caravane ş1825
-: .o .     N     _HAUFF Wilhelm               L'Histoire du calife Cigogne ş1825 Die Geschichte vom Kalif Storch şTrad. TAUBES Nicole
-: .o .     N     _HAUFF Wilhelm               L'Histoire de la main coup‚e ş1825 Die Geschichte von der abgehauenen Hand şTrad. TAUBES Nicole
-: .o .     N     _HAUFF Wilhelm               Le Sauvetage de Fatma ş1825 Die Errettung Fatmes şTrad. TAUBES Nicole
-: .o .     N     _HAUFF Wilhelm               L'Histoire de Moucheron ş1825 Die Geschichte vom kleinen Muck şTrad. TAUBES Nicole
-: .o .     N     _HAUFF Wilhelm               L'Histoire du faux prince ş1825 Das M„rchen vom falschen Prinzen şTrad. TAUBES Nicole
 o HACH        ?  1958.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _HEINLEIN Robert             La PlanŠte rouge ş1949 Red Planet
@@ -2722,7 +2825,7 @@ o HACHJ       ?  2007.08 ..... ISBN 978-2-01-201421-3
 - .oY.     R     _FLANAGAN John               Le Chant des Wargals [L'Apprenti d'Araluen - 2] ş2005 The Burning Bridge şTrad. LONGRE Blandine
 o HACHJ       ?  2007.08 ..... ISBN 978-2-01-201297-4
 } noimg          _?                           ?
-!--- Coll. Y“ka‹ ?
+!--- Collection Y“ka‹ ?
 - .oY.     R     _TANAKA Yoshiki              Les Quatre FrŠres, Tome 1 [Dragon Brothers - 1] ş1997 Sohryuden şTrad. KAKISAKI-RAILLARD Misato
 o HACHJ       ?  2007.10 ..... ISBN 978-2-01-201357-5
 } noimg          _?                           ?
@@ -2742,6 +2845,9 @@ o HACHJ       ?  2007.xx ..... ISBN 978-2-01-20....-.
 !------------------------
 !=== 2008
 !------------------------
+o HACHJ       ?  2008.xx ..... ISBN 978-2-01-201585-2
+} noimg          _?                           ?
+- .oF.     R     _SOMPER Justin               Le Capitaine de sang [Vampirates - 3] ş2007 Blood Captain şTrad. GUILLET Catherine
 o HACHJ       ?  2008.01 ..... ISBN 978-2-01-201503-6
 } noimg          _?                           ?
 + HACHJ       ?  2012.11 ..... ISBN 978-2-01-203315-3
@@ -2755,7 +2861,7 @@ o HACHJ       ?  2008.02 ..... ISBN 978-2-01-201435-0
 ?- .oY.     R     _FUNKE Cornelia              Sang d'encre [Coeur d'encre - 2] ş2005 Tintenblut şTrad. ?
 o HACHJ       ?  2008.03 ..... ISBN 978-2-01-201422-0
 } noimg          _?                           ?
-!--- Coll. Y“ka‹ ?
+!--- Collection Y“ka‹ ?
 - .oY.     R     _FLANAGAN John               La Promesse du r“deur [L'Apprenti d'Araluen - 3] ş2005 The Icebound Land şTrad. LONGRE Blandine
 o HACHJ       ?  2008.03 ..... ISBN 978-2-01-201591-3
 } noimg          _?                           ?
@@ -2777,7 +2883,7 @@ o HACHJ       ?  2008.06 ..... ISBN 978-2-01-201569-2
 : .o .     N     _HOROWITZ Anthony            La Plus Courte histoire d'horreur jamais ‚crite ş2000 The Shortest Horror Story Ever Written şTrad. LE GOYAT Annick
 o HACHJ       ?  2008.07 ..... ISBN 978-2-01-201298-1
 } noimg          _?                           ?
-!--- Coll. Y“ka‹ ?
+!--- Collection Y“ka‹ ?
 - .oY.     R     _TANAKA Yoshiki              Les Quatre FrŠres, Tome 2 [Dragon Brothers - 2] ş1997 Sohryuden şTrad. KAKISAKI-RAILLARD Misato
 o HACHJ       ?  2008.08 ..... ISBN 978-2-01-201685-9
 } noimg          _?                           ?
@@ -2826,7 +2932,7 @@ o HACHJ       ?  2009.01 ..... ISBN 978-2-01-201516-6
 - .oY.     R     _HOROWITZ Anthony            Necropolis [Le Pouvoir des cinq - 4] ş1989-2008 Necropolis şTrad. LE GOYAT Annick
 o HACHJ       ?  2009.01 ..... ISBN 978-2-01-210516-4
 } noimg          _?                           ?
-!--- Coll. Y“ka‹ ?
+!--- Collection Y“ka‹ ?
 - .oY.     R     _FLANAGAN John               Les Guerriers des steppes [L'Apprenti d'Araluen - 4] ş2006 Oakleaf Bearers / The Battle for Skandia şTrad. LONGRE Blandine
 o HACHJ       ?  2009.05 ..... ISBN 978-2-01-201429-9
 } noimg          _?                           ?
@@ -2907,7 +3013,7 @@ o HACHJ       ?  2010.03 ..... ISBN 978-2-01-201777-1
 - .oF.     R     _PIERCE Tamora               Chaman du d‚sert [Alanna - 3] ş1986 The Woman who Rides Like a Man şTrad. BELLOT Florence
 o HACHJ       ?  2010.03 ..... ISBN 978-2-01-200916-5
 } noimg          _Nicolas Fructus             ?
-!--- TBC : şTrad. Blandine Longre
+!--- TBC : Trad. Blandine Longre
 - .oF.     R     _PAVER Michelle              Chasseur de fant“mes [Chroniques des temps obscurs - 6] ş2009 Ghost Hunter şTrad. FERRIER Bertrand
 o HACHJ       ?  2010.05 ..... ISBN 978-2-01-201772-6
 } noimg          _Getty Images                ?
@@ -2985,7 +3091,7 @@ o HACHJ       ?  2012.11 ..... ISBN 978-2-01-201564-7
 - .oY.     R     _HOROWITZ Anthony            Oblivion [Le Pouvoir des cinq - 5] ş2012 Oblivion şTrad. LE GOYAT Annick
 o HACHJ       ?  2012.11 ..... ISBN 978-2-01-202694-0
 } noimg          _?                           ?
-- .oNO    iN16   _HOROWITZ Anthony            Dieux et Guerriers ş2012
+- .oNO     N16   _HOROWITZ Anthony            Dieux et Guerriers ş2012
 : .o .     N     _HOROWITZ Anthony            L'nigme du sphinx ş2010 The Riddle of the Sphinx şTrad. LE GOYAT Annick
 : .o .     N     _HOROWITZ Anthony            Les Armes terribles des mythes et l‚gendes ş2010 Ten Awesome Weapons of Myth and Legend şTrad. LE GOYAT Annick
 : .o .     N     _HOROWITZ Anthony            Dix Cr‚atures formidables et monstres merveilleux que vous ne connaissez peut-ˆtre pas ş2010 Ten Brilliant Beats and Marvellous Monsters you Might Not Have Heard şTrad. LE GOYAT Annick
@@ -3043,7 +3149,7 @@ o HACHJ       ?  2014.06 ..... ISBN 978-2-01-204451-7
 - .oF.     R     _HALE Shannon                La Plus Rebelle de toutes [Ever After High - 2] ş2014 The Unfairest of Them All şTrad. LEMOINE Aude
 o HACHJ       ?  2014.09 ..... ISBN 978-2-01-203923-0
 } noimg          _?                           ?
-- .oY.     R     _BONNEL J.M.                 L'Ombre du pass‚ [La Marque de T‚traskŠle - 3] ş2011
+- .oY.     R     _BONNEL J.M.                 L'Ombre du pass‚ [La Marque de T‚traskŠle - 3] ş2012
 o HACHJ       ?  2014.09 ..... ISBN 978-2-01-204446-3
 } noimg          _?                           ?
 - .oF.     R     _DONNELLY Jennifer           Deep Blue [La Saga Waterfire - 1] ş2014 Deep Blue şTrad. GALLIOT Lucile
@@ -3285,7 +3391,7 @@ o HACH        ?  2019.06 ..... ISBN 978-2-01-627013-4
 - .oS.     R     _ROCHET Fran‡ois             Predict [Agence 42 - 2] ş2019
 o HACHROM     ?  2019.06 ..... ISBN 978-2-01-621246-2
 } noimg          _?                           ?
-- .oS.     R     _YOVANOFF Brenna             Runaway Max [Stranger Things] ş2019 Runaway Max şTrad. Alice Delarbre
+- .oF.     R     _YOVANOFF Brenna             Runaway Max [Stranger Things] ş2019 Runaway Max şTrad. Alice Delarbre
 o HACHROM     ?  2019.07 ..... ISBN 978-2-01-621237-0
 } noimg          _Adams Carvalho              ?
 !--- Format : 135 x 215 mm - 270 pages - 14,90 euros
@@ -3293,6 +3399,10 @@ o HACHROM     ?  2019.07 ..... ISBN 978-2-01-621237-0
 o HACHROM     ?  2019.11 ..... ISBN 978-2-01-710827-6
 } noimg          _?                           ?
 - .oS.     R     _EMERSON Kevin               Perdus dans l'espace - Retour vers hier ş2019 Lost in Space şTrad. ROSSON Christophe
+o HACHROM     ?  2019.xx ..... ISBN 978-2-01-290449-1
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 22 cm - 177 pages - 12.90 euros
+- .o .     R     _SIMUKKA Salla               Soeurs de coeur ş2016 Sisarla şTrad. CAGNOLI S‚bastien
 !------------------------
 !=== 2020
 !------------------------
@@ -3343,7 +3453,7 @@ o HACHROM     ?  2020.08 ..... ISBN 978-2-01-711450-5
 o HACHROM     ?  2020.08 ..... ISBN 978-2-01-628609-8
 } noimg          _?                           ?
 !--- Jeunesse - GF - 135 x 215 mm - 810 pages - 19,90 euros
-- .oF.     R     _MEYER Stephenie             Midnight Sun [Twilight - 5] ş2020 Midnight Sun şTrad. RIGOUREAU Luc
+- .oF.     R     _MEYER Stephenie             Midnight Sun [Fascination - 5] ş2020 Midnight Sun şTrad. RIGOUREAU Luc
 o HACHROM     ?  2020.09 ..... ISBN 978-2-01-628580-0
 } noimg          _J‚r‚mie Fleury              ?
 !--- Jeunesse - GF - 136 x 215 mm - 300 pages - 15,90 euros
@@ -3351,7 +3461,7 @@ o HACHROM     ?  2020.09 ..... ISBN 978-2-01-628580-0
 o HACHROM     ?  2020.10 ..... ISBN 978-2-01-710848-1
 } noimg          _?                           ?
 !--- Jeunesse 136 x 214 mm - 400 pages - 18,00 euros
-- .oY.     R     _DEVILLEPOIX El‚onore        La Ville sans vent - Livre 2 [La Ville sans vent - 2] ş2020
+- .oY.     R     _DEVILLEPOIX El‚onore        La Fille de la forˆt [La Ville sans vent - 2] ş2020
 o HACHROM     ?  2020.10 ..... ISBN 978-2-01-711424-6
 } noimg          _Bea Tormo                   Bea Tormo
 !--- Jeunesse - GF - 135 x 215 mm - 174 pages - 11,90 euros
@@ -3371,15 +3481,60 @@ o HACHROM     ?  2020.11 ..... ISBN 978-2-01-628582-4
 o HACHROM     ?  2020.11 ..... ISBN 978-2-01-628583-1
 } noimg          _?                           ?
 !--- Jeunesse - GF - 135 x 215 mm - 298 pages - 15,90 euros
-- .o .     R     _TSANG Katie                &Dragon Mountain ş2020 Dragon Mountain şTrad. DABAT Sophie
+- .o .     R     _TSANG Katie                &Dragon Mountain [Camp Dragon - 1] ş2020 Dragon Mountain şTrad. DABAT Sophie
 &                _TSANG Kevin                 
+!------------------------
+!=== 2021
+!------------------------
+o HACHROM     ?  2021.01 ..... ISBN 978-2-01-711422-2
+} noimg          _Alberto G. Ayerbe           ?
+!--- Jeunesse - GF - 135 x 215 - 144 pages
+- .o .     R     _ESTRADA Pedro               La L‚gende du Wendigo [Chroniques de Vinland - 2] ş2019 La leyenda del Wendigo şTrad. MORAN C‚cile
+o HACHROM     ?  2021.01 ..... ISBN 978-2-01-710839-9
+} noimg          _Enrique Lorenzo Diaz        ?
+!--- Jeunesse - GF - 135 x 215 - 208 pages
+- .oS.     R     _SANTIAGO Roberto            Le Dernier Chevalier [Les Aventuriers du temps (R. Santiago)] ş2016 La aventura de los Balbuena y el £ltimo caballero şTrad. DEMOULIN Axelle
+o HACHROM     ?  2021.05 ..... ISBN 978-2-01-628584-8
+} noimg          _Tom Sanderson               ?
+!--- Jeunesse - 135 x 215 mm - 268 pages - 15,90 euros
+- .o .     R     _TSANG Katie                &Dragon Legend [Camp Dragon - 2] ş2021 Dragon Legend şTrad. DABAT Sophie
+&                _TSANG Kevin                 
+o HACHROM     ?  2021.06 ..... ISBN 978-2-01-714752-7
+} noimg          _?                           ?
+!--- 135 x 215 mm - 414 pages - 15.90 euros
+- .oF.     R     _CAPETTA A. R.               Rebel Robin [Stranger Things] ş2021 Rebel Robin şTrad. DELARBRE Alice
+!------------------------
+!=== 2022
+!------------------------
+o HACHROM     ?  2022.06 ..... ISBN 978-2-01-718147-7
+} noimg          _?                           ?
+!--- 135 x 215 mm - 256 pages - 14.00 euros
+>--- Ensemble d'histoires que se racontent les personnages lors d'une panne de courant. Les textes "23 h 58" et "Dans le noir" en jouent le r“le de prologue et d'‚pilogue.
+- .oF.    _C9    _GILBERT Matthew J.          Hawkins Horrors - Nouvelles terrifiantes [Stranger Things] ş2022 Hawkins Horrors: A Collection of Terrifying Tales şTrad. DELARBRE Alice
+: .o .     N     _GILBERT Matthew J.          23 h 58 [Stranger Things] ş2022 11:58 P.M. şTrad. DELARBRE Alice
+: .o .     N     _GILBERT Matthew J.          Une petite voix [Stranger Things] ş2022 A Little Voice şTrad. DELARBRE Alice
+: .o .     N     _GILBERT Matthew J.          La Mal‚diction du d‚ … vingt faces [Stranger Things] ş2022 Do or 20-Sided Die şTrad. DELARBRE Alice
+: .o .     N     _GILBERT Matthew J.          Le Lac des amoureux [Stranger Things] ş2022 Lovers' Lake şTrad. DELARBRE Alice
+: .o .     N     _GILBERT Matthew J.          L'Appel du frisson [Stranger Things] ş2022 Girls Just Want to Have Fun şTrad. DELARBRE Alice
+: .o .     N     _GILBERT Matthew J.          L'Exterminateur [Stranger Things] ş2022 Don't Be a Pest şTrad. DELARBRE Alice
+: .o .     N     _GILBERT Matthew J.          Repas en double [Stranger Things] ş2022 Two Lunches şTrad. DELARBRE Alice
+: .o .     N     _GILBERT Matthew J.          Parler [Stranger Things] ş2022 Talk Back şTrad. DELARBRE Alice
+: .o .     N     _GILBERT Matthew J.          Dans le noir [Stranger Things] ş2022 In a Flash şTrad. DELARBRE Alice
+o HACHROM     ?  2022.08 ..... ISBN 978-2-01-714752-7
+} noimg          _?                           ?
+!--- 135 x 215 mm - 288 pages - 17.00 euros
+- .oF.     R     _DAVIES Suyi                 Lucas on the line [Stranger Things] ş2022 Lucas on the line şTrad. DELARBRE Alice
+o HACHROM     ?  2022.10 ..... ISBN 978-2-01-716016-8
+} noimg          _Katerina Boudriot Bazantova Katerina Boudriot Bazantova
+!--- YA - GF - 154x227 - 288 pages - 18 euros
+- .oY.     R     _DEVILLEPOIX El‚onore        Brussailes ş2022
 
 
 
 !-----------------------------------------------------------------------------
 ! OCTOPUS Octopus
 !-----------------------------------------------------------------------------
-!--- Ed. Octopus, division de Hachette France
+!--- Octopus, division de Hachette France
 !-----------------------------------------------------------------------------
 o OCTOPUS     ?  2002.11 ..... ISBN 2-01-260166-9
 } noimg          _?                           ?
@@ -3402,9 +3557,16 @@ o OCTOPUS     ?  2003.11 ..... ISBN 2-01-260218-5
 !-----------------------------------------------------------------------------
 o HAC_PRA     ?  2012.10 ..... ISBN 978-2-01-230723-0
 } noimg          _?                           ?
+!--- Format : Broch‚ 216 x 279 - 280 pages
 + HAC_PRA     ?  2013.10 ..... ISBN 978-2-01-231472-6
 } noimg          _?                           ?
 !--- Format : Broch‚ 22,5 cm x 28,5 cm - 280 pages - 25.00 euros
++ HAC_HER     ?  2017.10 ..... ISBN 978-2-01-703207-6
+} noimg          _?                           ?
+!--- GF - 223 x 288 - 280 pages - 25 euros
++ HAC_HER     ?  2021.11 ..... ISBN 978-2-01-713433-6
+} noimg          _?                           ?
+!--- GF - 220x290 - 280 pages
 - .oY.     G     _DAY David                   Tolkien - L'Encyclop‚die illustr‚e ş1991 Tolkien: The Illustrated Encyclopedy şTrad. AUBIN Pascal
 o HAC_HER     ?  2017.05 ..... ISBN 978-2-01-171349-0
 } noimg          _?                           ?
@@ -3434,15 +3596,132 @@ o HAC_HER     ?  2020.11 ..... ISBN 978-2-01-713434-3
 } noimg          _?                           ?
 !--- GF - 217 x 268 mm - 208 pages - 29,95 euros
 - .oY.     E     _GARTH John                  Les Mondes de Tolkien - Les lieux qui ont inspir‚ la Terre du Milieu ş2020 The Worlds of J. R. R. Tolkien: The Places That Inspired Middle-Earth şTrad. HANART Xavier
+o HAC_HER     ?  2021.01 ..... ISBN 978-2-01-709441-8
+} noimg          _?                           ?
+!--- Jeunesse - MF - 135x198 - 256 pages - 19,95 euros
+- .o .     G     _DAY David                   H‚ros de Tolkien ş2017 The Heroes of Tolkien şTrad. ?
+o HAC_HER     ?  2021.01 ..... ISBN 978-2-01-709442-5
+} noimg          _?                           ?
+!--- Jeunesse - MF - 134x198 - 256 pages - 19,95 euros
+- .o .     G     _DAY David                   Batailles de Tolkien ş2016 The Battles of Tolkien şTrad. ?
+o HAC_HER     ?  2021.10 ..... ISBN 978-2-01-713442-8
+} noimg          _?                           ?
+!--- Jeunesse - MF - 134x199 - 192 pages
+- .o .     E     _DAY David                   Hobbits de Tolkien ş2019 The Hobbits of Tolkien şTrad. ?
+o HAC_HER     ?  2021.10 ..... ISBN 978-2-01-628722-4
+} noimg          _? Nord Compo                ?
+!--- Jeunesse - GF 150 x 230 - 384 pages - 17,95 euros
+- .oF.     R     _MANCUSI Mari                Iduna et Agnarr : La v‚ritable histoire [Dangerous Secrets] ş2020 The Story of Iduna and Agnarr şTrad. LONGRE Blandine
+o HAC_HER     ?  2021.10 ..... ISBN 978-2-01-628723-1
+} noimg          _? Nord Compo                ?
+!--- Jeunesse - GF 150 x 230 - 256 pages - 17,95 euros
+- .oF.     R     _BLACK Holly                 Mal‚fique : Au coeur de la Lande [Dangerous Secrets] ş2019 Maleficent: Heart of the Moors şTrad. LONGRE Blandine
+o HAC_HER     ?  2021.10 ..... ISBN 978-2-01-628723-1
+} noimg          _? Nord Compo                ?
+!--- Jeunesse - GF 150 x 230 - 256 pages - 17,95 euros
+- .oF.     R     _LIN Grace                   Mulan : l'antidote [Dangerous Secrets] ş2020 Mulan: Before the Sword şTrad. ?
+o HAC_HER     ?  2022.08 ..... ISBN 978-2-01-717841-5
+} noimg          _ILOVEDUST                   ?
+!--- Jeunesse - GF - 150x230 - 464 pages - 25 euros
+- .oF.     R     _BLAKE Kendare               A chaque g‚n‚ration [Buffy contre les vampires] ş2022 In Every Generation şTrad. GAYON-DEBONNET NadŠge
+
+
+
+
+o HAC_HER     ?  2019.05 ..... ISBN 978-2-01-708858-5
+} noimg          _?                           ?
+!--- Jeunesse - GF - 152 x 230 - 384 pages
+- .o .     R     _BRASWELL Liz                Ce rˆve bleu [Twisted Tales - 1] ş2015 A Whole New World şTrad. LAGET Laurent
+o HAC_HER     ?  2020.06 ..... ISBN 978-2-01-945198-1
+} noimg          _Jim Tierney                 ?
+!--- Jeunesse - GF - 152 x 230 - 432 pages
+- .o .     R     _BRASWELL Liz                Il ‚tait un rˆve [Twisted Tales - 2] ş2016 Once Upon a Dream şTrad. LAGET Laurent
+o HAC_HER     ?  2019.05 ..... ISBN 978-2-01-708857-8
+} noimg          _?                           ?
+!--- Jeunesse - GF - 152 x 230 - 312 pages
+- .o .     R     _BRASWELL Liz                Histoire ‚ternelle [Twisted Tales - 3] ş2018 As Old as Time şTrad. LAGET Laurent
+o HAC_HER     ?  2020.02 ..... ISBN 978-2-01-709547-7
+} noimg          _Jim Tierney                 ?
+!--- Jeunesse - GF - 152 x 230 - 384 pages
+- .o .     R     _LIM Elizabeth               R‚flexion [Twisted Tales - 4] ş2018 Reflection şTrad. LAGET Laurent
+o HAC_HER     ?  2019.09 ..... ISBN 978-2-01-709543-9
+} noimg          _?                           ?
+!--- Jeunesse - GF - 152 x 230 - 304 pages
+- .o .     R     _BRASWELL Liz                Profondeurs de l'oc‚an [Twisted Tales - 5] ş2018 Part of Your World şTrad. LAGET Laurent
+o HAC_HER     ?  2020.06 ..... ISBN 978-2-01-945197-4
+} noimg          _Jim Tierney                 ?
+!--- Jeunesse - GF - 152 x 230 - 320 pages
+- .o .     R     _CALONITA Jen                Un jour ma princesse viendra [Twisted Tales - 6] ş2019 Mirror, Mirror şTrad. LAGET Laurent
+o HAC_HER     ?  2019.10 ..... ISBN 978-2-01-709546-0
+} noimg          _?                           ?
+!--- Jeunesse - GF - 152 x 230 - 302 pages
+- .o .     R     _CALONITA Jen                Renouveau [Twisted Tales - 7] ş2019 Conceal, Don't Feel şTrad. LAGET Laurent
+o HAC_HER     ?  2020.06 ..... ISBN 978-2-01-945224-7
+} noimg          _Jim Tierney                 ?
+!--- Jeunesse - GF - 152 x 230 - 480 pages
+- .o .     R     _BRASWELL Liz                Tout droit jusqu'au matin [Twisted Tales - 8] ş2020 Straight on Till Morning şTrad. LAGET Laurent
+o HAC_HER     ?  2020.10 ..... ISBN 978-2-01-945648-1
+} noimg          _Jim Tierney                 ?
+!--- Jeunesse - GF - 152 x 230 - 400 pages
+- .o .     R     _LIM Elizabeth               Oser ses rˆves [Twisted Tales - 9] ş2020 So This Is Love şTrad. LAGET Laurent
+o HAC_HER     ?  2021.03 ..... ISBN 978-2-01-628712-5
+} noimg          _Jim Tierney                 ?
+!--- ? 
+- .oF.     R     _BRASWELL Liz                Un Joyeux Non-Anniversaire [Twisted Tales - 10] ş2020 Unbirthday şTrad. LAGET Laurent
+o HAC_HER     ?  2021.06 ..... ISBN 978-2-01-945869-0
+} noimg          _Jim Tierney                 ?
+!--- ? 
+- .oF.     R     _CALONITA Jen                Ce monde qui est le mien [Twisted Tales - 11] ş2021 Go the Distance şTrad. LAGET Laurent
+o HAC_HER     ?  2021.10 ..... ISBN 978-2-01-946043-3
+} noimg          _Jim Tierney                 ?
+!--- ? 
+- .oF.     R     _BRASWELL Liz                O— est la vraie vie ? [Twisted Tales - 12] ş2021 Twisted Tales 12: What Once Was Mine şTrad. LAGET Laurent
+
+
+
+o HAC_CUI     ?  2014.xx ..... ISBN 978-2-01-231832-8
+} noimg          _?                           ?
+!--- Reli‚ - GF - 216 x 296 - 144 pages
+- .oI.     G     _VILLANOVA Thibaud          &Gastronogeek - 42 recettes inspir‚es des cultures de l'imaginaire ş2014
+&                _LEONARD Maxime              
+o HAC_CUI     ?  2015.09 ..... ISBN 978-2-01-177589-4 
+} noimg          _?                           ?
+!--- Reli‚ - GF - 218 x 297 - 192 pages
+- .oI.     G     _VILLANOVA Thibaud          &Le Livre des potions - 70 recettes inspir‚es des cultures de l'imaginaire - Gastronogeek ş2015
+&                _SIMBO St‚phanie             
+o HAC_HER     ?  2016.xx ..... ISBN 978-2-01-146125-4
+} noimg          _?                           ?
+!--- Reli‚ - GF - 216 x 298 - 144 pages - 25 euros
+- .oI.     G     _VILLANOVA Thibaud           Star Wars Cantina - 40 recettes d'une galaxie trŠs lointaine ş2016
+o HAC_HER     ?  2017.09 ..... ISBN 978-2-01-700386-1 
+} noimg          _?                           ?
+!--- Reli‚ - GF - 210 x 290 - 160 pages - 24,90 euros
+- .oI.     G     _VILLANOVA Thibaud           Geek & Pastry - 50 recettes de patisseries inspir‚es des cultures de l'imaginaire - Gastronogeek ş2017
+o HAC_HER     ?  2017.11 ..... ISBN 978-2-01-703212-0
+} noimg          _?                           ?
+!--- Reli‚ - GF - 220 x 298 - 144 pages - 25,00 euros
+- .oI.     G     _VILLANOVA Thibaud           Assassin's Creed - Le Codex culinaire -  Recettes de la confr‚rie des assassins [Assassin's Creed] ş2017
+o HAC_HER     ?  2020.10 ..... ISBN 978-2-01-628703-3
+} noimg          _?                           ?
+!--- Reli‚ - GF - 219 x 293 - 192 pages - 24,95 euros
+- .oI.     G     _VILLANOVA Thibaud           Gastronogeek 2 - Le Retour ş2020
+o HAC_HER     ?  2021.06 ..... ISBN 978-2-01-713458-9
+} noimg          _?                           ?
+!--- Reli‚ - GF - 203 x 268 - 96 pages - 19,95 euros
+- .oI.     G     _VILLANOVA Thibaud           Gastronogeek - Recettes v‚g‚tariennes ş2021
+
+
 
 !-----------------------------------------------------------------------------
-!-- HACH_BM Hachette, Coll. Black Moon
+!-- HACH_BM Hachette, Black Moon
 !-----------------------------------------------------------------------------
-o HACH_BM     ?  2005.11 ..... ISBN 2-01-201067-.
+o HACH_BM     ?  2005.11 ..... ISBN 2-01-201067-9
 } noimg          _?                           ?
 - .oF.     R     _MEYER Stephenie             Fascination [Fascination - 1] ş2005 Twilight şTrad. RIGOUREAU Luc
 o HACH_BM     ?  2015.10 ..... ISBN 978-2-01-397422-6
 } noimg          _?                           ?
+!--- 137 x 215 mm - 792 pages - 20.99 euros
+!--- Pas clair si coffret, ou si livre avec en 4iŠme de couv le titre "A la vie, … la mort" avec ISBN...
 - .oF.    kR2    _MEYER Stephenie             Twilight - Edition sp‚ciale 10e anniversaire [Fascination] ş2015
 : .oF.     R     _MEYER Stephenie             Fascination [Fascination - 1] ş2005 Twilight şTrad. RIGOUREAU Luc
 : .oF.     R     _MEYER Stephenie             A la vie, … la mort - Twilight r‚invent‚ [Fascination] ş2016 Life and Death şTrad. RIGOUREAU Luc
@@ -3495,7 +3774,7 @@ o HACH_BM     ?  2009.02 ..... ISBN 978-2-01-201764-1
 ?- .oF.     R     _YOSHIDA Sunao               Les Visiteurs de l'empire [Trinity Blood - 3] ş?? ?? şTrad. ??
 o HACH_BM     ?  2009.05 ..... ISBN 978-2-01-201789-4
 } noimg          _?                           ?
-- .oF.    _A5    ****                         Amours d'enfer ş2008 Love is Hell şTrad. DESURVIRE Maud
+- .oF.    _A5    ****                         Amours d'enfer ş2008 Love Is Hell şTrad. DESURVIRE Maud
 : .o .     N     _WESTERFELD Scott            Un monde (presque) parfait ş2008 Stupid Perfect World
 : .o .     N     _MARR Melissa                Coup de foudre ş2008 Love Struck
 : .o .     N     _STOLARZ Laurie Faria        Le Fant“me de mes rˆves ş2008 Sleeping With the Spirit
@@ -3584,7 +3863,7 @@ o HACH_BM     ?  2011.01 ..... ISBN 978-2-01-202154-9
 o HACH_BM     ?  2011.01 ..... ISBN 978-2-01-202089-4
 } noimg          _SCAGLIA S‚verine            ?
 !--- "La fuite" sur le site de l'‚diteur
-- .oF.     R     _TIERNAN Cate                Immortes - Tome 1 [Immortels - 1] ş2010 Immortal Beloved şTrad. LONGRE Blandine
+- .oF.     R     _TIERNAN Cate                Immortels - Tome 1 [Immortels (C. Tiernan) - 1] ş2010 Immortal Beloved şTrad. LONGRE Blandine
 o HACH_BM     ?  2011.02 ..... ISBN 978-2-01-202126-6
 } noimg          _Gustavo Marx                ?
 + HACH_BM     ?  2012.03 ..... ISBN 978-2-01-202857-9
@@ -3671,7 +3950,7 @@ o HACH_BM     ?  2011.09 ..... ISBN 978-2-01-202344-4
 o HACH_BM     ?  2011.09 ..... ISBN 978-2-01-202110-5
 } noimg          _?                           ?
 !--- "La traque" sur le site de l'‚diteur
-- .oF.     R     _TIERNAN Cate                Immortels - Tome 2 [Immortels - 2] ş2011 Darkness Falls şTrad. LONGRE Blandine
+- .oF.     R     _TIERNAN Cate                Immortels - Tome 2 [Immortels (C. Tiernan) - 2] ş2011 Darkness Falls şTrad. LONGRE Blandine
 o HACH_BM     ?  2011.09 ..... ISBN 978-2-01-202291-1
 } noimg          _?                           ?
 - .oF.     R     _WALLENFELS Stephen          POD ş2009 POD şTrad. Alice Delarbre
@@ -3753,16 +4032,15 @@ o HACH_BM     ?  2012.07 ..... ISBN 978-2-01-203102-9
 o HACH_BM    81i 2012.07 ..... ISBN 978-2-01-202368-0
 } hachbm_rampling _?                           ?
 - .oF.    kA9    ****                         Le MaŒtre de Rampling Gate et autres nouvelles ş2012
-!--- şTrad. CROQUELOUP Camille & DELARBRE Alice
-: .o .     N     _RICE Anne                   Le MaŒtre de Rampling Gate ş1984-1991 The Master of Rampling Gate şTrad. ?
-: .o .     N     _STIEFVATER Maggie           Portrait ş2009 Portrait şTrad. ?
-: .o .     N     _STIEFVATER Maggie           Loup y es-tu ? ş2007 Still Wolf Watching şTrad. ?
-: .o .     N     _STIEFVATER Maggie           Le Dernier Jour du printemps ş2009 The Last Day of Spring şTrad. ?
-: .o .     N     _GRATTON Tessa               Le Cavalier amoureux ş2008 Horseman's Love şTrad. ?
-: .o .     N     _GRATTON Tessa               Vampire en cage ş2010 The Vampire Box şTrad. ?
-: .o .     N     _DE LA CRUZ Melissa          Shelter Island ş2006 Shelter Island şTrad. ?
-: .o .     N     _CAINE Rachel                L'Histoire de Sam [Vampire City] ş2011 Sam's Story şTrad. ?
-: .o .     N     _CAINE Rachel                Pour l'amour de Grace ş2011 Falling to Grace şTrad. ?
+: .o .     N     _RICE Anne                   Le MaŒtre de Rampling Gate ş1984-1991 The Master of Rampling Gate şTrad. CROQUELOUP Camille & DELARBRE Alice
+: .o .     N     _STIEFVATER Maggie           Portrait ş2009 Portrait şTrad. CROQUELOUP Camille & DELARBRE Alice
+: .o .     N     _STIEFVATER Maggie           Loup y es-tu ? ş2007 Still Wolf Watching şTrad. CROQUELOUP Camille & DELARBRE Alice
+: .o .     N     _STIEFVATER Maggie           Le Dernier Jour du printemps ş2009 The Last Day of Spring şTrad. CROQUELOUP Camille & DELARBRE Alice
+: .o .     N     _GRATTON Tessa               Le Cavalier amoureux ş2008 Horseman's Love şTrad. CROQUELOUP Camille & DELARBRE Alice
+: .o .     N     _GRATTON Tessa               Vampire en cage ş2010 The Vampire Box şTrad. CROQUELOUP Camille & DELARBRE Alice
+: .o .     N     _DE LA CRUZ Melissa          Shelter Island ş2006 Shelter Island şTrad. CROQUELOUP Camille & DELARBRE Alice
+: .o .     N     _CAINE Rachel                L'Histoire de Sam [Vampire City] ş2011 Sam's Story şTrad. CROQUELOUP Camille & DELARBRE Alice
+: .o .     N     _CAINE Rachel                Pour l'amour de Grace ş2011 Falling to Grace şTrad. CROQUELOUP Camille & DELARBRE Alice
 o HACH_BM     ?  2012.08 ..... ISBN 978-2-01-202859-3
 } noimg          _?                           ?
 !--- "L'asile" sur les sites ‚diteur
@@ -3796,7 +4074,7 @@ o HACH_BM     ?  2012.11 ..... ISBN 978-2-01-202276-8
 - .oF.     R     _JAFFE Michele               Fleur de fant“me ş2012 Ghost Flower şTrad. PORCHE Laure
 o HACH_BM     ?  2012.11 ..... ISBN 978-2-01-202111-2
 } noimg          _?                           ?
-- .oF.     R     _TIERNAN Cate                Immortels - Tome 3 [Immortels - 3] ş2012 Eternally Yours şTrad. LONGRE Blandine
+- .oF.     R     _TIERNAN Cate                Immortels - Tome 3 [Immortels (C. Tiernan) - 3] ş2012 Eternally Yours şTrad. LONGRE Blandine
 !--- "La guerre" sur le site de l'‚diteur
 o HACH_BM     ?  2013.01 ..... ISBN 978-2-01-203408-2
 } noimg          _?                           ?
@@ -3811,7 +4089,7 @@ o HACH_BM     ?  2013.02 ..... ISBN 978-2-01-203400-6
 !--- "Cruelle destin‚e" sur le site ‚diteur
 !--- Idem, pas de titres, ni pour les pr‚c‚dents ?
 !--- "Cr‚‚ par L.J. Smith"
-- .oF.     R     _--- (inconnu)               Journal d'un vampire - Tome 8 [Vampires - 8] ş2012 The Hunters: Destiny Rising şTrad. DEMOULIN Axelle
+- .oF.     R     _--- (inconnu)               Journal d'un vampire - Tome 8 [Vampires - 8] ş2012 The Hunters 3: Destiny Rising şTrad. DEMOULIN Axelle
 o HACH_BM     ?  2013.03 ..... ISBN 978-2-01-202863-0
 } noimg          _?                           ?
 - .oF.     R     _OLIVER Lauren               Requiem [Delirium - 3] ş2013 Requiem şTrad. DELARBRE Alice
@@ -3875,7 +4153,9 @@ o HACH_BM     ?  2014.01 ..... ISBN 978-2-01-203108-1
 o HACH_BM     ?  2014.02 ..... ISBN 978-2-01-203535-5
 } noimg          _?                           ?
 !--- "La boucle est boucl‚e" sur site Hachette
-- .oF.    iR3    _TIERNAN Cate                Wicca - Tome 4 [Magie blanche - 13/15] ş2011 Sweep: Reckoning - Full Circle - Night's Child şTrad. CARLIER Aude
+- .oF.     R3    _TIERNAN Cate                Wicca - Tome 5 [Magie blanche - 13/14] ş2011 Sweep: Reckoning - Full Circle - Night's Child şTrad. CARLIER Aude
+: .oF.     R     _TIERNAN Cate                Fugue [Magie blanche - 13] ş2002 Reckoning şTrad. CARLIER Aude
+: .oF.     R     _TIERNAN Cate                La boucle est boucl‚e [Magie blanche - 14] ş2002 Full Circle şTrad. CARLIER Aude
 o HACH_BM     ?  2014.02 ..... ISBN 978-2-01-203538-6
 } noimg          _?                           ?
 - .oF.     R     _GARCIA Kami                 La L‚gion de la colombe noire [La L‚gion de la colombe noire - 1] ş2013 Unbreakable şTrad. ROSSON Christophe
@@ -3899,7 +4179,7 @@ o HACH_BM     ?  2014.05 ..... ISBN 978-2-01-204234-6
 - .oY.     R     _RUDNICK Elizabeth           Mal‚fique ş2014 Maleficent şTrad. ROSSON Christophe
 o HACH_BM     ?  2014.06 ..... ISBN 978-2-01-204230-8
 } noimg          _?                           ?
-- .oF.     R     _OLIVER Lauren               Panic - Le jeu de la peur ş2014 Panic şTrad. DELARBRE Alice
+- .x .     R     _OLIVER Lauren               Panic - Le jeu de la peur ş2014 Panic şTrad. DELARBRE Alice
 o HACH_BM     ?  2014.07 ..... ISBN 978-2-01-203545-4
 } noimg          _?                           ?
 - .oF.     R     _--- (inconnu)               Journal d'un vampire - Tome 11 [Vampires - 11] ş2014 The Salvation 3: Unmasked şTrad. ANCION Nicolas & DEMOULIN Axelle
@@ -3993,7 +4273,7 @@ o HACH_BT     ?  2013.03 ..... ISBN 978-2-01-203521-8
 - .oF.     R     _MACIP Salvador              Hipnofobia ş2012 Hipnofobia şTrad. YTAK Cathy
 
 !-----------------------------------------------------------------------------
-!-- HALE    Hachette, Coll. "Lecture"
+!-- HALE    Hachette, "Lecture"
 !-----------------------------------------------------------------------------
 !--- Editions Hachette - collection "Lectures"
 !-----------------------------------------------------------------------------
@@ -4006,7 +4286,7 @@ o HALE        ?  1989.xx ..... ISBN .-.....-...-.
 : .o .     X     _BILLE S. Corinna            Caf‚ des voyageurs (extrait de : La fraise noire) ş?
 
 !-----------------------------------------------------------------------------
-!-- HACH_AC Hachette, Coll. Agatha Christie
+!-- HACH_AC Hachette, Agatha Christie
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -4027,19 +4307,19 @@ o HACH_AC    48  2005.xx ..... ISBN 2-84634-416-7
 : .o .     N     _CHRISTIE Agatha             S.O.S. ş1926 S.O.S.
 
 !-----------------------------------------------------------------------------
-!-- HAC_VL  Hachette, Coll. "Voies Libres"
+!-- HAC_VL  Hachette, "Voies Libres"
 !-----------------------------------------------------------------------------
 !--- Editions Hachette - collection "Voies Libres"
 !-----------------------------------------------------------------------------
 o HAC_VL      1i 1977.xx R.... ISBN 2-01-004188-7
 } voieslibre_1   _BATZ                        N
-- .oS.     R     _LEOURIER Christian          La Cit‚ des hauts remparts [Jarvis] ş1977
+- .oS.     R     _LEOURIER Christian          La Cit‚ des hauts remparts [Jarvis - 5] ş1977
 o HAC_VL      2i 1978.xx ..... ISBN 2-01-004858-X
 } voieslibre_2   _POIRIER Jack A.             N
 - .oS.     R     _BOVA Ben                    Les Oubli‚s de New York ş1976 City of Darkness şTrad. ABADIA Guy
 o HAC_VL      3i 1978.xx ..... ISBN 2-01-004826-1
 } voieslibre_3   _CECCARELLI Serge            N
-- .oS.     R     _LEOURIER Christian          L'Ast‚ro‹de noir ş1978
+- .oS.     R     _LEOURIER Christian          L'Ast‚ro‹de noir [Jarvis - 6] ş1978
 o HAC_VL      4i 1978.xx ..... ISBN 2-01-005124-6
 } voieslibre_4   _VINCENT Jean-Jaques         N
 - .oS.     R     _BUSSAC Michel               Le R‚fractaire ş1978
@@ -4095,10 +4375,19 @@ o HAVASF   1004  1996.10 ..... ISBN 2-01-209514-3
 !-----------------------------------------------------------------------------
 !-- HAVAFA  Hachette Jeunesse, Verte Aventure, Fantastique
 !-----------------------------------------------------------------------------
+o HAVAFA   1105  1991.xx ..... ISBN 2-01-016497-0
+} noimg          _Mathieu Blanchin            Mathieu Blanchin
+- .oSF     R     _KURTZ Katherine             Les Chats de Lehr ş1986 The Legacy of Lehr şTrad. ESCH Jean
+o HAVAFA   1107  1992.xx ..... ISBN 2-01-016499-7
+} noimg          _Jo‰l Legars                Jo‰l Legars
+!--- Jeunesse 11+ - 218 pages - 18 cm
+- .oF.     R     _McKILLIP Patricia A.        Fils de l'oc‚an ş1988 The Changeling Sea şTrad. ESCH Jean
 o HAVAFA   1110  1993.xx ..... ISBN 2-01-019641-4
 } noimg          _Kelek                       Kelek
 - .oF.     R     _OBERTO Varinia              L't‚ fant“me ş1993
-o HAVAFA   1113  1994.xx ..... ISBN 2-01-......-.
+o HAVAFA   1113  1994.xx ..... ISBN 2-01-020983-4
+} noimg          _Fran‡oise Moreau            ?
++ HAVAFA   1113  1996.xx ..... ISBN 2-01-209599-2
 } noimg          _Fran‡oise Moreau            ?
 - .oF.     R     _GRIMAUD Michel              Le Fant“me des Cassegrain ş1994
 
@@ -4142,7 +4431,7 @@ o HAVSF    1009  1997.02 ..... ISBN 2-01-209513-5
 - .oS.     R     _GRENIER Christian           Les Lagunes du temps [Le Cycle du Multimonde - 2] ş1997
 o HAVSF    1010  1997.06 ..... ISBN 2-01-209512-7
 } vsf1010        _Florence Magnin            N
-- .oS.     R     _GRENIER Christian           Cyberpak [Le Cycle du Multimonde - 3] ş1997
+- .oS.     R     _GRENIER Christian           Cyberpark [Le Cycle du Multimonde - 3] ş1997
 o HAVSF    1011  1997.xx ..... ISBN 2-01-209517-8
 } vsf1011        _?                          N
 - .oS.     R     _GRENIER Christian           Mission en m‚moire morte [Le Cycle du Multimonde - 4] ş1997
@@ -4208,7 +4497,7 @@ o HAVSF       ?  1999.xx ..... ISBN .-.....-...-.
 !GRP_OUVR 5
 !TIT_COLL Vertige - Fantastique
 !-----------------------------------------------------------------------------
-!-- HAVF    Hachette Jeunesse, Coll. Vertige, s‚rie Fantastique
+!-- HAVF    Hachette Jeunesse, Vertige, s‚rie Fantastique
 !-----------------------------------------------------------------------------
 !--- Vertige Fantastique (Hachette Jeunesse)
 !-----------------------------------------------------------------------------
@@ -4228,7 +4517,7 @@ o HAVF     1103  1996.xx ..... ISBN 2-01-209708-1
 - .oF.     R     _HOROWITZ Anthony            La Nuit du scorpion [Le Pouvoir des cinq - 2] ş1985 The Night of the Scorpion şTrad. LE GOYAT Annick
 o HAVF     1104  1996.xx ..... ISBN 2-01-209582-8
 } vfant1104      _?                          N
-- .oF.     R     _HOROWITZ Anthony            Maudit graal ş1990 The Unholy Graal şTrad. LE GOYAT Annick
+- .oF.     R     _HOROWITZ Anthony            Maudit Graal [L'Œle du crƒne - 2] ş1990 The Unholy Graal / Return to Groosham Grange şTrad. LE GOYAT Annick
 o HAVF     1105  1996.xx ..... ISBN 2-01-209580-1
 } vfant1105      _?                          N
 - .oF.     R     _VALPIERRE                   Le Rendez-Vous du cauchemar ş1996
@@ -4294,7 +4583,7 @@ o HAVF     1131  2001.xx ..... ISBN 2-01-200711-2
 !GRP_OUVR 7
 !TIT_COLL Vertige - Cauchemar
 !-----------------------------------------------------------------------------
-!-- HAVC    Hachette Jeunesse, Coll. Vertige, s‚rie Cauchemar
+!-- HAVC    Hachette Jeunesse, Vertige, s‚rie Cauchemar
 !-----------------------------------------------------------------------------
 !--- Vertige Cauchemar (Hachette Jeunesse)
 !-----------------------------------------------------------------------------
@@ -4335,7 +4624,7 @@ o HAVC     1310  1998.xx ..... ISBN 2-01-209810-X
 } vcauch1310     _?                          N
 - .oT.     R     _RICE Bebe Faas              Le Sacrifice de Beltane ş? Class Trip II şTrad. REVUZ Fr‚d‚rique
 o HAVC     1311  1998.xx ..... ISBN 2-01-209813-4
-} vcauch1316     _?                          N
+} vcauch1311     _?                          N
 - .oT.     R     _TENG Ta‹s                   Les Racines de la forˆt ş? De wortels van het woud şTrad. BREBISSON Florence de
 o HAVC     1312  1998.xx ..... ISBN 2-01-209793-6
 } vcauch1312     _?                          N
@@ -4350,7 +4639,7 @@ o HAVC     1315  1998.xx ..... ISBN 2-01-209888-6
 } vcauch1315     _?                          N
 - .oT.     R     _PARGAM Alex                 Les Machoires du museum ş1998
 o HAVC     1316  1998.xx ..... ISBN 2-01-209890-8
-} vcauch1319     _?                          N
+} vcauch1316     _?                          N
 - .oT.     R     _STEWART Paul                Les Griffes de l'angoisse ş1996 The Wakening şTrad. KIEFE Laurence
 o HAVC     1317  1998.xx ..... ISBN 2-01-209795-2
 } vcauch1317     _?                          N
@@ -4369,7 +4658,7 @@ o HAVC     1318  1998.xx ..... ISBN 2-01-209814-2
 } vcauch1318     _?                          N
 - .oT.     R     _WALLER Jane                 Le Peuple des ‚gouts ş1997 Sludge Gulpers şTrad. KIEFE Laurence
 o HAVC     1319  1998.xx ..... ISBN 2-01-209935-1
-} vcauch1311     _?                          N
+} vcauch1319     _?                          N
 - .oT.     R     _LANDREAUX-VALABREGUE Jackie Un zombi dans les baoyous ş1998
 o HAVC     1320  1998.xx ..... ISBN 2-01-209960-2
 } vcauch1320     _?                          N
@@ -4431,8 +4720,8 @@ o HACH_JB  1313  2000.04 ..... ISBN 2-01-321740-4
 - .oF.     r     _VAN LOON Paul               Mon maŒtre est un vampire ş1990 Vampier in de school şTrad. HOOGHE Marie
 
 !-----------------------------------------------------------------------------
-!-- HACH_HT Hachette, Coll. Haute Tension "Spectres"
-!-- HACH_FB Hachette, Coll. Haute Tension
+!-- HACH_HT Hachette, Haute Tension "Spectres"
+!-- HACH_FB Hachette, Haute Tension
 !-----------------------------------------------------------------------------
 !--- Haute Tension "Spectres" & "Flaming Bess"
 !--- (tous : terreur)
@@ -4589,7 +4878,7 @@ o HACH_CI     ?  1986.xx ..... ISBN 2-01-011668-3
 
 
 !-----------------------------------------------------------------------------
-!-- HAH2    Hachette, Coll. Haute Tension "Spectres"
+!-- HAH2    Hachette, Haute Tension "Spectres"
 !-----------------------------------------------------------------------------
 !--- Haute Tension "Spectres" (Nvelle s‚rie)
 !--- (tous : terreur)
@@ -4634,14 +4923,14 @@ o HLFM      193  1985.xx ..... ISBN .-.....-...-.
 !-----------------------------------------------------------------------------
 o HACHGO      ?  1980.xx ..... ISBN .-.....-...-.
 } noimg          _?                           N
-- .oF.    iNx    _POE Edgar Allan             Histoires extraordinaires ş1856
 !--- 13,5x21, illustrations de Chifflart, F‚rat, W”gel, etc...
+- .oF.    iNx    _POE Edgar Allan             Histoires extraordinaires ş1856
 o HACHGO      ?  1997.xx ..... ISBN 2-01-209723-5
 } noimg          _?                           ?
 - .o .     R     _LAGERLOF Selma              Le Merveilleux Voyage de Nils Holgersson … travers la SuŠde ş1907 Nils Holgerssons underbara resa genom Sverige şTrad. GOUVENAIN Marc de & & GRUMBACH Lena
 
 !-----------------------------------------------------------------------------
-_ DIMILL  Hachette, BibliothŠque Dimanche Illustr‚
+_ DIMILL  Hachette - BibliothŠque Dimanche Illustr‚
 !-----------------------------------------------------------------------------
 o DIMILL      ?  1929.xx ..... ISBN -
 } noimg          _?                           ?
@@ -4671,7 +4960,7 @@ o HACHCLA    24  1993.01 ..... ISBN 2-01-019912-X
 !--- ISBN erron‚
 + HACHCLA    24  2005.06 ..... ISBN 2-01-169180-X
 } noimg          _?                           ?
-- .oF.    iN9    _GAUTIER Th‚ophile           Contes fantastiques ((Contes fantastiques de Th‚ophile Gautier)) ş1993
+- .oF.     N9    _GAUTIER Th‚ophile           Contes fantastiques ((Contes fantastiques de Th‚ophile Gautier)) ş1993
 : .o .     N     _GAUTIER Th‚ophile           La CafetiŠre ş1831
 : .o .     N     _GAUTIER Th‚ophile           Onuphrius ou les vexations fantastiques d'un admirateur d'Hoffmann ş1831
 : .o .     N     _GAUTIER Th‚ophile           Omphale, histoire rococo ş1834
@@ -4695,7 +4984,24 @@ o HACHCLA    48  1994.xx ..... ISBN 2-01-166583-3
 !--- 224 pages
 + HACHCLA    48  2006.06 ..... ISBN 2-01-169305-5
 } noimg          _?                           ?
-- .oF.    iNx    _MAUPASSANT Guy de           Le Horla et autres contes fantastiques ş1994
+!--- Sommaire issu de l'‚dition 1994
+!--- Suivi d'un dossier
+- .oF.    kN15   _MAUPASSANT Guy de           Le Horla et autres contes fantastiques ş1994
+: .o .  11 N     _MAUPASSANT Guy de           La Main d'‚corch‚ ş1875
+: .o .  19 N     _MAUPASSANT Guy de           La Main ş1883
+: .o .  27 N     _MAUPASSANT Guy de           Sur l'eau ş1876
+: .oF.  35 N     _MAUPASSANT Guy de           La Peur ş1882
+: .o .  45 N     _MAUPASSANT Guy de           Apparition ş1883
+: .o .  55 N     _MAUPASSANT Guy de           Lui ? ş1883
+: .o .  65 N     _MAUPASSANT Guy de           La Chevelure ş1884
+: .o .  75 N     _MAUPASSANT Guy de           Lettre d'un fou ş1885
+: .oF.  83 N     _MAUPASSANT Guy de           Le Horla ş1886
+: .o .  93 N     _MAUPASSANT Guy de           Le Horla (2iŠme version) ş1886-1887
+: .o . 123 N     _MAUPASSANT Guy de           L'Auberge ş1886
+: .o . 139 N     _MAUPASSANT Guy de           La Morte ş1887
+: .o . 145 N     _MAUPASSANT Guy de           La Nuit - Cauchemar ş1887
+: .o . 153 N     _MAUPASSANT Guy de           L'Homme de Mars ş1888
+: .o . 163 N     _MAUPASSANT Guy de           Qui sait ? ş1890
 o HACHCLA    60  1995.xx ..... ISBN 2-01-166725-9 
 } noimg          _?                           ?
 + HACHCLA    60  2007.06 ..... ISBN 978-2-01-169491-1
@@ -4708,7 +5014,7 @@ o HACHCLA    60  1995.xx ..... ISBN 2-01-166725-9
 o HACHCLA    68  1996.05 ..... ISBN 2-01-166988-X
 } noimg          _?                           ?
 !--- 224 pages
-- .oF.     X     _HOMERE                      Odyss‚e ş? şTrad. Marie-Rose Rougier
+- .oF.     X     _HOMERE                      Odyss‚e ş? ? şTrad. Marie-Rose Rougier
 o HACHCLA    81  1996.09 ..... ISBN 2-01-167175-2
 } noimg          _?                           ?
 !--- 258 pages
@@ -4720,7 +5026,7 @@ o HACHCLA    87  1997.04 ..... ISBN 2-01-167125-6
 
 
 !-----------------------------------------------------------------------------
-!-- HACH_CT Hachette, Coll. Courts toujours !
+!-- HACH_CT Hachette, Courts toujours !
 !-----------------------------------------------------------------------------
 !--- Collection cr‚‚e par Evelyne Hiest et anim‚e par Constance Joly
 !-----------------------------------------------------------------------------
@@ -4739,7 +5045,7 @@ o HACH_CT     ?  1998.xx ..... ISBN 2-01-209532-1
 : .o .     N     _CHAPPELL Fred               Linn‚ oubli‚ ş1977 Linnaeus Forgets
 
 !-----------------------------------------------------------------------------
-!-- HACH_PR Hachette, Coll. Point Rouge
+!-- HACH_PR Hachette, Point Rouge
 !-----------------------------------------------------------------------------
 o HACH_PR     1  1972.04 ..... ISBN -
 } noimg          _?                           ?
@@ -4764,7 +5070,7 @@ o HAC_BCO     6  1999.09 ..... ISBN 2-01-167834-X
 } hachbibcol006rr05 _Alain Boyer                 ?
 + HAC_BCO     6  2016.09 ..... ISBN 978-2-01-394965-1
 } hachbibcol006rr16 _Alain Boyer                 ?
-- .oM.    iN6    _PERRAULT Charles            Contes ((Contes de Perrault)) ş1999
+- .oM.     N6    _PERRAULT Charles            Contes ((Contes de Perrault)) ş1999
 !--- Sommaire 2016
 : .o .     N     _PERRAULT Charles            Le Petit Chaperon rouge ş1697
 : .o .     N     _PERRAULT Charles            La Barbe bleue ş1697
@@ -4780,10 +5086,13 @@ o HAC_BCO     8  1999.09 ..... ISBN 2-01-167828-5
 } noimg          _Alain Boyer                 ?
 + HAC_BCO     8  2016.04 ..... ISBN 978-2-01-394968-2
 } noimg          _?                           ?
++ HAC_BCO     8  2022.04 ..... ISBN 978-2-01-716689-4
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 130x180 - 160 pages
 - .oF.     X     _HOMERE                      Odyss‚e ş? ? şTrad. ROUGIER Marie-Rose
 o HAC_BCO     ?  1999.09 ..... ISBN 2-01-167842-0
 } noimg          _?                           ?
-- .o .     R     _SAND George                 La Mare au diable ş1946
+- .o .     R     _SAND George                 La Mare au diable ş1846
 o HAC_BCO    13  1999.xx ..... ISBN 2-01-167850-1
 } noimg          _?                           ?
 + HAC_BCO    13  2005.10 ..... ISBN 2-01-167850-1
@@ -4817,8 +5126,7 @@ o HAC_BCO    22  2000.xx ..... ISBN 2-01-167953-2
 + HAC_BCO    22  2018.03 ..... ISBN 978-2-01-394995-8
 } hachbibcol022rr18 _Alain Boyer                 ?
 - .oF.     N7    _MAUPASSANT Guy de           Le Horla et six contes fantastiques ((Le Horla)) ş1995
-: .o .     N     _MAUPASSANT Guy de           Le Horla ş1886
-!--- TBC version Horla
+: .o .     N     _MAUPASSANT Guy de           Le Horla (2iŠme version) ş1886-1887
 : .o .     N     _MAUPASSANT Guy de           La Peur ş1882
 : .o .     N     _MAUPASSANT Guy de           La Main ş1883
 : .o .     N     _MAUPASSANT Guy de           Conte de No‰l ş1882
@@ -4850,10 +5158,10 @@ o HAC_BCO    37  2001.08 ..... ISBN 2-01-168211-8
 + HAC_BCO    37  2006.xx ..... ISBN 2-01-168211-8
 } hachbibcol037rr06 _Alain Boyer                 ?
 !--- Herv‚ Alvado
-! texte annot‚ de 6 contes
-! Un fabuleux tr‚sor, un oubli fatal, des fun‚railles discrŠtes, L'enquˆte des voleurs, L'chec de l'exp‚dition, nouvel ‚chec, un heureux d‚nouement
-!--- şTrad. Antoine Galland
-- .oN.    iN6    _--- (anonyme)               Ali Baba et les quarante voleurs [Les Mille et Une Nuits] ş2006
+!--- texte annot‚ de 6 contes
+!--- Un fabuleux tr‚sor, un oubli fatal, des fun‚railles discrŠtes, L'enquˆte des voleurs, L'chec de l'exp‚dition, nouvel ‚chec, un heureux d‚nouement
+!--- Trad. Antoine Galland
+- .oN.    iNx    _--- (anonyme)               Ali Baba et les quarante voleurs [Les Mille et Une Nuits] ş2006
 o HAC_BCO    41  2002.02 ..... ISBN 2-01-168416-1
 } noimg          _?                           ?
 + HAC_BCO    41  2005.10 ..... ISBN 2-01-168416-1
@@ -4868,7 +5176,7 @@ o HAC_BCO    44  2003.04 ..... ISBN 2-01-168684-9
 } hachbibcol044  _?                           ?
 + HAC_BCO    44  2005.09 ..... ISBN 2-01-168684-9
 } hachbibcol044rr05 _Alain Boyer                 ?
-- .oM.    iN8    _GRIMM Jacob & Wilhelm       Contes ((Contes de Grimm)) ş2003
+- .oM.    iNx    _GRIMM Jacob & Wilhelm       Contes ((Contes de Grimm)) ş2003
 o HAC_BCO    51  2004.07 ..... ISBN 2-01-168960-0
 } noimg          _?                           ?
 + HAC_BCO    51  2006.xx ..... ISBN 2-01-168960-0
@@ -4876,7 +5184,7 @@ o HAC_BCO    51  2004.07 ..... ISBN 2-01-168960-0
 - .oS.     N     _VERNE Jules                 Un hivernage dans les glaces ş1855
 o HAC_BCO    53  2005.04 ..... ISBN 2-01-169123-0
 } noimg          _Laurent Carr‚               ?
-- .oF.     N     _POE Edgar Allan             Le Scarab‚e d'or ş1843 The Gold Bug şTrad. BAUDELAIRE Charles
+- .oF.     N     _POE Edgar Allan             Le Scarab‚e d'or ş1843 The Gold-Bug şTrad. BAUDELAIRE Charles
 o HAC_BCO    54  2005.06 ..... ISBN 2-01-169124-9
 } hachbibcol054  _Laurent Carr‚               ?
 - .pF.     N6    _VILLIERS DE L'ISLE-ADAM     Contes cruels ş2005
@@ -4912,7 +5220,10 @@ o HAC_BCO    70  2008.09 ..... ISBN 978-2-01-169735-6
 - .oF.     R     _CHRETIEN de TROYES          Perceval ou Le Conte du Graal [Les Romans arthuriens - 5] şc1185
 o HAC_BCO    73  2009.10 ..... ISBN 978-2-01-281416-5
 } noimg          _Alain Boyer                 ?
-- .oF.     X     _VERNE Jules                 Le Tour du monde en quatre-vingts jours ş1872
++ HAC_BCO    73  2022.04 ..... ISBN 978-2-01-716688-7
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125x179 - 176 pages
+- .xA.     X     _VERNE Jules                 Le Tour du monde en quatre-vingts jours ş1873
 o HAC_BCO    74  2009.04 ..... ISBN 978-2-01-281417-2
 } noimg          _Alain Boyer                 ?
 + HAC_BCO    74  2017.04 ..... ISBN 978-2-01-394972-9
@@ -4932,6 +5243,10 @@ o HAC_BCO    93  2018.03 ..... ISBN 978-2-01-394984-2
 !--- Histoire du Prince Zeyn Alasnam et du roi des g‚nies  ; Histoire d'Aladdin ou la lampe merveilleuse  ;
 !--- Suite de l'Histoire d'Aladdin ou la lampe merveilleuse  ; Histoire d'Ali Baba et de quarante voleurs extermin‚s par une esclave.
 - .oN.    iNx    _--- (anonyme)               Les Mille et Une Nuits [Les Mille et Une Nuits] ş2018
+o HAC_BCO    98  2021.03 ..... ISBN 978-2-01-713290-5
+} noimg          _(c)Bridgeman Images         ?
+!--- Jeunesse - Poche - 125 x 180 - 176 pages
+- .oS.     R     _ORWELL George               La Ferme des animaux ş1945 Animal Farm şTrad. QUEVAL Jean
 
 !-----------------------------------------------------------------------------
 !-- HAC_BLY Hachette, Biblio lyc‚e
@@ -4949,13 +5264,16 @@ o HAC_BLY    26  2004.09 ..... ISBN 2-01-169033-1
 + HAC_BLY    26  2005.xx ..... ISBN 2-01-169033-1
 } noimg          _?                           ?
 !--- texte int‚gral de l'‚dition de 1845
++ HAC_BLY    26  2022.05 ..... ISBN 978-2-01-716692-4
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 125x180 - 384 pages
 - .oF.     R     _BALZAC Honor‚ de            La Peau de chagrin ş1831
 o HAC_BLY    32  2005.04 ..... ISBN 2-01-169117-6
 } noimg          _Laurent Carr‚               ?
 - .oF.     X     _DUMAS Alexandre             Les Mille et un fant“mes ş1849
 o HAC_BLY    34  2005.08 ..... ISBN 2-01-169119-2
 } hachbiblyc034  _?                           ?
-- .pF.    iN19   _MAUPASSANT Guy de           Contes parisiens, normands et fantastiques ş2005
+- .pF.    iNx    _MAUPASSANT Guy de           Contes parisiens, normands et fantastiques ş2005
 o HAC_BLY    43  2006.07 ..... ISBN 2-01-169192-3
 } hachbiblyc043  _Laurent Carr‚               ?
 - .oF.    iNx    _GAUTIER Th‚ophile           Contes et r‚cits fantastiques ((Contes fantastiques de Th‚ophile Gautier)) ş2006
@@ -4968,11 +5286,26 @@ o HAC_BLY    48  2008.07 ..... ISBN 978-2-01-169696-0
 !--- - - - - - - - - - - - - - - - - - - - - - -
 
 !-----------------------------------------------------------------------------
-_ HAC_CEZ <b>in</b> Ed. Hachette, Caprices et Zigzags
+!--- "Librairie L. Hachette et Cie"
 !-----------------------------------------------------------------------------
-o HAC_CEZ     ?  1856.xx ..... ISBN -
+o HACH        ?  1856.xx ..... ISBN -
 } noimg          _?                           ?
+!--- Indiqu‚ "Librairie L. Hachette et Cie"
+!--- DeuxiŠme ‚dition
+!--- @Source Gallica
 + HAC_CEZ     ?  1865.xx ..... ISBN -
 } noimg          _?                           ?
-- .oS.     N     _GAUTIER Th‚ophile           Paris futur ş1851
+- .pS.    =N12   _GAUTIER Th‚ophile           Caprices et zigzags ş1852
+: .! .   1 N     _GAUTIER Th‚ophile           Un tour en Belgique et en Hollande ş?
+: .! . 122 N     _GAUTIER Th‚ophile           Une journ‚e … Londres ş?
+: .! . 173 N     _GAUTIER Th‚ophile           Pochades, zigzags et paradoxes ş?
+: .! . 231 N     _GAUTIER Th‚ophile           Gastronomie britannique ş?
+: .! . 250 N     _GAUTIER Th‚ophile           Les Races d'Ascot ş?
+: .! . 260 N     _GAUTIER Th‚ophile           En Chine ş?
+: .! . 277 N     _GAUTIER Th‚ophile           L'Inde ş?
+: .! . 327 N     _GAUTIER Th‚ophile           Voyages hors barriŠres ş?
+: .! . 363 N     _GAUTIER Th‚ophile           Chiens et rats ş?
+: .oS. 369 N     _GAUTIER Th‚ophile           Paris futur ş1851
+: .! . 391 N     _GAUTIER Th‚ophile           Une visite chez Merodach-Baladan ş?
+: .! . 411 N     _GAUTIER Th‚ophile           Les BayadŠres ş?
 

@@ -2,20 +2,20 @@
 !---                    Editions FERENCZI
 !--- ‚ditions J. Ferenczi, rue Antoine Chantin, 9 … PARIS (14Šme)
 !-----------------------------------------------------------------------------
-!-- FER_LMI Ed. Ferenczi, Coll. Livre Moderne Illustr‚
-!-- FERENCZ Ed. Ferenczi
-!-- FER_LRA Ed. Ferenczi, Coll. Les Romans d'aventures
-!-- FER_LAV Ed. Ferenczi, Coll. Le Livre de l'aventure
-!-- FER_PRA Ed. Ferenczi, Coll. Le Petit Roman d'aventure
-!-- FER_RA  Ed. Ferenczi, Coll. Mon Roman d'aventures
-!-- FER_AVC Ed. Ferenczi, Coll. Les Aventuriers du ciel
-!-- FER_VA  J. Ferenczi et fils, Coll. Voyages et Aventures
-!-- FER_RP  J. Ferenczi et fils, Coll. Le Roman Policier
+!-- FER_LMI Ferenczi, Livre Moderne Illustr‚
+!-- FERENCZ Ferenczi
+!-- FER_LRA Ferenczi, Les Romans d'aventures
+!-- FER_LAV Ferenczi, Le Livre de l'aventure
+!-- FER_PRA Ferenczi, Le Petit Roman d'aventure
+!-- FER_RA  Ferenczi, Mon Roman d'aventures
+!-- FER_AVC Ferenczi, Les Aventuriers du ciel
+!-- FER_VA  J. Ferenczi et fils, Voyages et Aventures
+!-- FER_RP  J. Ferenczi et fils, Le Roman Policier
 !-- FER_DAX J. Ferenczi Editeur (vingt fascicules)
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ FERENCZ Ed. Ferenczi
+_ FERENCZ Ferenczi
 !-----------------------------------------------------------------------------
 o FERENCZ     ?  1921.xx ..... ISBN -
 } noimg          _?                           ?
@@ -60,8 +60,8 @@ o FERENCZ     ?  1922.xx ..... ISBN -
 - .o .     R     _TERAMOND Guy de             Ravengar þ1922
 o FERENCZ     ?  1923.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _TERAMOND Guy de             L'Homme qui voit … travers les murailles Ý1914 þ?
-!--- "20 000 Lieues … travers le monde" (25 fascicules) - (Ed. Ferenczi) - 1923/24
+- .o .     R     _TERAMOND Guy de             L'Homme qui voit … travers les murailles þ1914
+!--- "20 000 Lieues … travers le monde" (25 fascicules) - (Editions Ferenczi) - 1923/24
 o FERENCZ     ?  1924.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _TERAMOND Guy de             20 000 Lieues … travers le monde þ1924
@@ -92,7 +92,7 @@ o FERENCZ     ?  1924.xx ..... ISBN -
 !--- 25. Le mystŠre de l'homme tatou‚
 
 !-----------------------------------------------------------------------------
-_ FER_LMI Ed. Ferenczi, Coll. Livre Moderne Illustr‚
+_ FER_LMI Ferenczi - Livre Moderne Illustr‚
 !-----------------------------------------------------------------------------
 o FER_LMI     ?  1939.xx ..... ISBN -
 } noimg          _?                           ?
@@ -102,11 +102,18 @@ o FER_LMI   364  1942.xx ..... ISBN -
 - .oS.     R     _LA HIRE Jean de             La Roue fulgurante þ1908
 
 !-----------------------------------------------------------------------------
-_ FER_LRA Ed. Ferenczi, Coll. Les Romans d'aventures
+_ FER_LRA Ferenczi - Les Romans d'aventures
+_ FER_LR2 Ferenczi - Les Romans d'aventures - 2iŠme s‚rie
 !-----------------------------------------------------------------------------
 !--- A -  49  1928   MOTTA Luigi   Les flagellateurs de l'oc‚an
 !--- A -  58  1928   MOTTA Luigi   Les adorateurs du feu
 !-----------------------------------------------------------------------------
+o FER_LRA     1  1922.xx ..... ISBN -
+} noimg          _George Vall‚e               ?
+- .oS.     R     _LA HIRE Jean de             L'Homme qui peut vivre dans l'eau (L'Homme qui peut vivre dans l'eau - 1) þ1909
+o FER_LRA     2  1922.xx ..... ISBN -
+} noimg          _George Vall‚e               ?
+- .oS.     R     _LA HIRE Jean de             Les Amours de l'inconnu (L'Homme qui peut vivre dans l'eau - 2) þ1909
 o FER_LRA     6  1922.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _LA HIRE Jean de             La Roue fulgurante þ1908
@@ -129,11 +136,15 @@ o FER_LRA    54  1928.08 ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _SOREZE Paul                 Le MaŒtre du tonnerre þ1928
 
+o FER_LR2     6  1926.01 ..... ISBN -
+} noimg          _Armengol                    ?
+- .oS.     R     _LA HIRE Jean de             L'Homme qui peut vivre dans l'eau þ1909
+
 !-----------------------------------------------------------------------------
-_ FER_LAV Ed. Ferenczi, Coll. Le Livre de l'aventure
+_ FER_LAV Ferenczi - Le Livre de l'aventure
 !-----------------------------------------------------------------------------
-!--- A -   5  1929   MOTTA Luigi   L'occident d'or
-!--- A -  23  1930   MOTTA Luigi   La vengeance de Brahma
+!--- A -   5  1929   MOTTA Luigi   L'Occident d'or
+!--- A -  23  1930   MOTTA Luigi   La Vengeance de Brahma
 !-----------------------------------------------------------------------------
 o FER_LAV     1  1929.xx ..... ISBN -
 } noimg          _Paul Thiriat                ?
@@ -152,7 +163,7 @@ o FER_LAV    37  1931.xx ..... ISBN -
 - .oS.     R     _MAD Andr‚                   L'Œle de Satan þ1931
 
 !-----------------------------------------------------------------------------
-_ FER_PRA Ed. Ferenczi, Coll. Le petit roman d'aventure
+_ FER_PRA Ferenczi - Le petit roman d'aventure
 !-----------------------------------------------------------------------------
 o FER_PRA    33  1936.xx ..... ISBN -
 } noimg          _Georges Vall‚e              ?
@@ -162,7 +173,7 @@ o FER_PRA    45  1936.xx ..... ISBN -
 - .o .     N     _MAGOG H.J.                  Le Bouddha vivant þ1936
 
 !-----------------------------------------------------------------------------
-_ FER_RA  Ed. Ferenczi, Coll. Mon Roman d'aventures
+_ FER_RA  Ferenczi - Mon Roman d'aventures
 !-----------------------------------------------------------------------------
 !--- Editions FERENCZI, "Mon Roman d'aventures"
 !-----------------------------------------------------------------------------
@@ -404,7 +415,7 @@ o FER_RA    452  1957.xx ..... ISBN -
 !--- Le "petit Parisien", h‚ros principal, est le pilote du Bolide. Il se pr‚nomme Tintin, le gamin de Paris, l'intr‚pide et plaisant gavroche. 
 !--- Michel VINCKE (je me marre de plus en plus !..)
 !-----------------------------------------------------------------------------
-_ FER_AVC Ed. Ferenczi, Coll. Les aventuriers du ciel
+_ FER_AVC Ferenczi - Les aventuriers du ciel
 !-----------------------------------------------------------------------------
 o FER_AVC     1  1950.03 ..... ISBN -
 } noimg          _?                           ?
@@ -498,7 +509,7 @@ o FER_AVC    30  1951.05 ..... ISBN -
 - .oS.     R     _NIZEROLLES Ren‚ Marcel de   Le PiŠge … hommes þ1951
 
 !-----------------------------------------------------------------------------
-_ FER_VA  J. Ferenczi et fils, Coll. Voyages et Aventures
+_ FER_VA  J. Ferenczi et fils - Voyages et Aventures
 !-----------------------------------------------------------------------------
 o FER_VA     20  1934.xx ..... ISBN -
 } noimg          _?                           ?
@@ -741,15 +752,18 @@ o FER_VA    377  1941.xx ..... ISBN -
 - .oS.     r     _GLORIA Mona                 Au pays des demi-hommes þ1941
 
 !-----------------------------------------------------------------------------
-_ FER_RP  J. Ferenczi et fils, Coll. Le Roman Policier
+_ FER_RP  J. Ferenczi et fils - Le Roman Policier
 !-----------------------------------------------------------------------------
 o FER_RP     37  1927.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _LEONNEC F‚lix               L'Auto diabolique þ1927
 
 !-----------------------------------------------------------------------------
-_ FER_DAX J. Ferenczi Editeur (vingt fascicules)
+_ FER_DAX J. Ferenczi Editeur
 !-----------------------------------------------------------------------------
-o FER_DAX     ?     ?.xx ..... ISBN -
+!--- S‚rie de vingt fascicules
+!-----------------------------------------------------------------------------
+o FER_DAX     ? c1909.xx ..... ISBN -
 } noimg          _?                           ?
-- .oS.     R     _HOCHE Jules                 Gil Dax, empereur des airs þ?
+- .oS.     R     _HOCHE Jules                 Gil Dax, empereur des airs þc1909
+

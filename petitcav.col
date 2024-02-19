@@ -1,22 +1,22 @@
 
 !-----------------------------------------------------------------------------
-_ PCAV_SA Ed. du Petit Caveau, Coll. Sang d'absinthe
-_ PCAV_SN Ed. du Petit Caveau, Coll. Sang noir
-_ PCAV_MS Ed. du Petit Caveau, Coll. Miroir de sang
-_ PCAV_SB Ed. du Petit Caveau, Coll. Sang de brume
+_ PCAV_SA Editions du Petit Caveau - Sang d'absinthe
+_ PCAV_SN Editions du Petit Caveau - Sang noir
+_ PCAV_MS Editions du Petit Caveau - Miroir de sang
+_ PCAV_SB Editions du Petit Caveau - Sang de brume
 !-----------------------------------------------------------------------------
 !--- Labels de collections conserv‚es :
 !-----------------------------------------------------------------------------
-_ PCAV_GO Ed. du Petit Caveau, Coll. Gothique
-_ PCAV_S9 Ed. du Petit Caveau, Coll. Sang neuf
-_ PCAV_SE Ed. du Petit Caveau, Coll. Sang d'ƒme
-_ PCAV_SD Ed. du Petit Caveau, Coll. Sang d'ailleurs
+_ PCAV_GO Editions du Petit Caveau - Gothique
+_ PCAV_S9 Editions du Petit Caveau - Sang neuf
+_ PCAV_SE Editions du Petit Caveau - Sang d'ƒme
+_ PCAV_SD Editions du Petit Caveau - Sang d'ailleurs
 !-----------------------------------------------------------------------------
 !--- R‚vision des collections en 2016 ou 2017...
 !--- --> Petit Caveau = vampirique + gothique
 !-----------------------------------------------------------------------------
-_ PCAV_SC Ed. du Petit Caveau, Coll. Sang ancien
-_ PCAV_SV Ed. du Petit Caveau, Coll. Sang d'avenir
+_ PCAV_SC Editions du Petit Caveau - Sang ancien
+_ PCAV_SV Editions du Petit Caveau - Sang d'avenir
 !-----------------------------------------------------------------------------
 !--- Sang d'absinthe : Gothique - Vampirique ‚poque victorienne
 !--- Sang d'ƒme      : Sentimental - Vampirique sentimental
@@ -71,7 +71,7 @@ o PCAV_SN     ?  2010.03 ..... ISBN 978-2-9533892-5-8
 - .oF.     R     _LORENS Alexis               Les Loups de Kharkov þ2010
 o PCAV_SA     ?  2010.04 ..... ISBN 978-2-9533892-8-9
 } noimg          _V‚ronique Thomas            ?
-- .oF.     R     _BLAIZOT Lydie               La Maison de Londres þ2010
+- .oF.     R     _BLAIZOT Lydie               La Maison de Londres [Les Vampires de Londres] þ2010
 o PCAV_SE     ?  2010.06 ..... ISBN 978-2-9533892-6-5
 } noimg          _GUILLOT C‚cile              ?
 - .oF.     R     _SOUTOUL St‚phane            Le Mal en la demeure [Cycle des ƒmes d‚chues - 1] þ2010
@@ -99,15 +99,15 @@ o PCAV_SB     ?  2011.02 ..... ISBN 978-2-9533892-9-6
 : .o .     N     _MACUMI Mala‹ka              Le Legs du corbeau þ2011
 o PCAV_SB     ?  2011.05 ..... ISBN 978-2-919550-00-5
 } petitcaveau11  _BLAIZOT Lydie               ?
-- .oF.    _N8    _BLAIZOT Lydie               Autour de Londres þ2011
-: .oF.     N     _BLAIZOT Lydie               La Terreur des Hautes Terres þ2011
-: .oF.     N     _BLAIZOT Lydie               Les Trois Mousquetaires þ2011
-: .oF.     N     _BLAIZOT Lydie               Le Roi George þ2011
-: .oF.     N     _BLAIZOT Lydie               Fatum þ2011
-: .oF.     N     _BLAIZOT Lydie               Le Clown þ2011
-: .oF.     N     _BLAIZOT Lydie               Piccolo þ2011
-: .oF.     N     _BLAIZOT Lydie               Premier fauteuil en partant de la droite þ2011
-: .oF.     N     _BLAIZOT Lydie               Le Boulet þ2011
+- .oF.    _N8    _BLAIZOT Lydie               Autour de Londres [Les Vampires de Londres] þ2011
+: .oF.     N     _BLAIZOT Lydie               La Terreur des Hautes Terres [Les Vampires de Londres] þ2011
+: .oPF     N     _BLAIZOT Lydie               Les Trois Mousquetaires [Les Vampires de Londres] þ2011
+: .oF.     N     _BLAIZOT Lydie               Le Roi George [Les Vampires de Londres] þ2011
+: .oF.     N     _BLAIZOT Lydie               Fatum [Les Vampires de Londres] þ2011
+: .oF.     N     _BLAIZOT Lydie               Le Clown [Les Vampires de Londres] þ2011
+: .oF.     N     _BLAIZOT Lydie               Piccolo [Les Vampires de Londres] þ2011
+: .oF.     N     _BLAIZOT Lydie               Premier fauteuil en partant de la droite [Les Vampires de Londres] þ2011
+: .oF.     N     _BLAIZOT Lydie               Le Boulet [Les Vampires de Londres] þ2011
 o PCAV_S9     ?  2011.08 ..... ISBN 978-2-919550-01-2
 } noimg          _Fleurine                    ?
 - .oF.     R     _GALLMAN Marika              Rage de dents [Maeve Regan - 1] þ2011
@@ -127,8 +127,14 @@ o PCAV_MS     ?  2012.08 ..... ISBN 978-2-919550-09-8
 } noimg          _?                           ?
 - .oF.     R     _VIGNE Jean                  D‚solation [Le Dernier Vampire - 1] þ2012
 o PCAV_S9     ?  2012.09 ..... ISBN 978-2-919550-31-9
-} noimg          _Lydie Blaizot               Lydie Blaizot
-- .oF.     R     _BLAIZOT Lydie               Sang d'Ocre þ2012
+} lpcavsn2012_2  _Lydie Blaizot               Lydie Blaizot
+- .oF.    kC6    _BLAIZOT Lydie               Sang d'ocre þ2012
+: .o .     N     _BLAIZOT Lydie               Traqu‚e þ2012
+: .o .     N     _BLAIZOT Lydie               Rencontre þ2012
+: .o .     N     _BLAIZOT Lydie               Brume baroque þ2012
+: .o .     N     _BLAIZOT Lydie               Cabale þ2012
+: .o .     N     _BLAIZOT Lydie               Transgression þ2012
+: .o .     N     _BLAIZOT Lydie               Affrontement þ2012
 o PCAV_SB     ?  2012.12 ..... ISBN 978-2-919550-34-0
 } petitcav17     _Alexandra V. Bach           ?
 - .oF.    kA12   ****                         Vampire malgr‚ lui þ2012
@@ -188,9 +194,9 @@ o PCAV_S9     ?  2015.04 ..... ISBN 978-2-37342-000-5
 - .oF.     R     _MEI Kailyn                  Union mortelle pour un vampire [Andrew Weiss - 1] þ2015
 o PCAV_GO     ?  2015.05 ..... ISBN 978-2-919550-98-2
 } petitcav_bellad _M. Mina                     ?
+!--- Les deux groupes de textes reprennent les recueils pr‚c‚demment parus, r‚vis‚s et compl‚t‚s
 - .oF.     N19   _GUILLOT C‚cile              Belladonna þ2015
-!--- Partie 1 : A l'ombre des pleurs
-!---       N9    _GUILLOT C‚cile              A l'ombre des pleurs þ2011-2015
+: .C .     C     ****                         Partie 1 : A l'ombre des pleurs þ2011-2015
 : .oF.     r     _GUILLOT C‚cile              De larmes et de sang þ2011
 : .oF.     N     _GUILLOT C‚cile              Roadways þ2011
 : .oF.     N     _GUILLOT C‚cile              L'Appel du loup þ2010
@@ -201,8 +207,7 @@ o PCAV_GO     ?  2015.05 ..... ISBN 978-2-919550-98-2
 : .oF.     N     _GUILLOT C‚cile              Memento þ2015
 : .o .     N     _GUILLOT C‚cile              Dans la chambre d'enfant þ2011
 : .oF.     N     _GUILLOT C‚cile              Liberame þ2011
-!--- Partie 2 : L… o— s'‚lŠvent les sorciŠres
-!--- .     N6    _GUILLOT C‚cile              L… o— s'‚lŠvent les sorciŠres þ2012-2015
+: .C .     C     ****                         Partie 2 : L… o— s'‚lŠvent les sorciŠres þ2012-2015
 : .oF.     N     _GUILLOT C‚cile              Maia þ2012
 : .oF.     N     _GUILLOT C‚cile              Mary þ2012
 : .oF.     N     _GUILLOT C‚cile              Elizabeth ! þ2012
@@ -210,7 +215,7 @@ o PCAV_GO     ?  2015.05 ..... ISBN 978-2-919550-98-2
 : .oF.     N     _GUILLOT C‚cile              Raven þ2012
 : .oF.     N     _GUILLOT C‚cile              Alice þ2012
 : .oF.     N     _GUILLOT C‚cile              Jahlia þ2012
-!--- Partie 3 : Bonus
+: .C .     C     ****                         Partie 3 : Bonus
 : .oF.     N     _GUILLOT C‚cile              La Dame de Caisl‚an na Mists þ2015
 : .oF.     N     _GUILLOT C‚cile              El dia de los angelitos þ2015
 : .oF.     N     _GUILLOT C‚cile              Song to the siren þ2011
@@ -313,7 +318,7 @@ o PCAV_S9     ?  2018.06 ..... ISBN 978-2-37342-055-5
 - .oF.     R     _BARDELLI Anne               Manipulation [Agent sp‚cial L‚a Bacal - 3] þ2018
 o PCAV_S9     ?  2018.08 ..... ISBN 978-2-37342-057-9
 } noimg          _Alexandra V. Bach           ?
-- .oF.     R     _BLANGIER Annabelle          Immortel þ2018
+- .oF.     R     _BLANGIER Annabelle          Immortel [Immortel (A. Blangier) - 1] þ2018
 o PCAV_S9     ?  2018.09 ..... ISBN 978-2-37342-059-3
 } noimg          _Mina M.                     ?
 - .oF.     R     _VIGNE Jean                  Givre 2 [Givre - 2] þ2018
@@ -358,6 +363,57 @@ o PCAV_SC     ?  2020.11 ..... ISBN 978-2-37342-084-5
 } noimg          _Kryseis                     ?
 !--- GF - 224 pages - 14,90 euros
 - .oF.     R     _RESA Floralie               Ainsi coule le sang de Venise þ2020
+!------------------------
+!=== 2021
+!------------------------
+o PCAV_S9     ?  2021.02 ..... ISBN 978-2-37342-094-4
+} noimg          _Erica Petit                 ?
+!--- GF - 198 pages - 14,90 euros
+- .o .     R     _BARDELLI Anne               L'Oeil du mal [Agent sp‚cial L‚a Bacal - 5] þ2021
+o PCAV_S9     ?  2021.06 ..... ISBN 978-2-37342-097-5
+} noimg          _Nicolas Jamonneau           ?
+!--- GF - 196 pages - 14,90 euros
+!--- Pr‚c‚demment paru en num‚rique de octobre 2020 … avril 2021, en 6 ‚pisodes :
+!--- Le Hollandais Volant, Vampire Akhanta, Le Basajaun, Chasse aux sorciŠres I, Chasse aux sorciŠres II, Vie int‚rieure + La Dame blanche
+- .oF.     R     _VILORE Lia                  Vampire Akantha þ2021
+o PCAV_S9     ?  2021.06 ..... ISBN 978-2-37342-098-2
+} noimg          _Alexandra V. Bach           ?
+!--- GF - 404 pages - 18,90 euros
+- .o .     R     _BLANGIER Annabelle          La Soci‚t‚ des Vampires [Immortel (A. Blangier) - 2] þ2021
+o PCAV_SE     ?  2021.08 ..... ISBN 978-2-37342-102-6
+} noimg          _RJade Corbeau               ?
+!--- GF - 236 pages - 13,90 euros
+- .o .     R     _CORBEAU Jade                Troubles diurnes þ2021
+o PCAV_S9     ?  2021.09 ..... ISBN 978-2-37342-100-2
+} noimg          _J‚r“me Huguenin             ?
+!--- GF - 304 pages - 17,90 euros
+- .o .     R     _VALLA Kristoff              GenŠses [Kath - 3] þ2021
+o PCAV_GO     ?  2021.11 ..... ISBN 978-2-37342-104-0
+} noimg          _Alexandra V. Bach           ?
+!--- GF - 136 pages - 12,90 euros
+- .o .     R     _MACUMI Mala‹ka              Le D‚voeur d'ƒmes þ2021
+!------------------------
+!=== 2022
+!------------------------
+o PCAV_GO     ?  2022.04 ..... ISBN 978-2-37342-108-8
+} noimg          _Nicolas Jamonneau           ?
+!--- 138 pages - 11,90 euros
+- .oF.     R     _ANDREANI Pauline            L'Affaire Barker [Camden - 5] þ2022
+o PCAV_SE     ?  2022.06 ..... ISBN 978-2-37342-106-4
+} noimg          _Alexandra V. Bach           ?
+!--- 252 pages - 14,90 euros
+- .oF.     R     _FILLION NadŠge              Evasion nocturne þ2022
+o PCAV_S9     ?  2022.09 ..... ISBN 978-2-37342-110-1
+} noimg          _Erica Petit                 ?
+!--- GF - 236 pages - 14,90 euros
+- .o .     R     _BARDELLI Anne               Les D‚mons du pass‚ [Agent sp‚cial L‚a Bacal - 6] þ2022
+!------------------------
+!=== 2023
+!------------------------
+o PCAV_SC     ?  2023.02 ..... ISBN 978-2-37342-112-5
+} noimg          _Sabrina Tobal               ?
+!--- GF - 336 pages - 18,90 euros
+- .oF.     R     _BLAIZOT Lydie               Nuits ensorcel‚es [Les Vampires de Londres] þ2023
 
 
 !--- Le Petit Caveau - num‚rique :

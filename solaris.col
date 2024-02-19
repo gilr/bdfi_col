@@ -13,15 +13,18 @@ _ SOLARIS Revue Solaris (Canada)
 !-----------------------------------------------------------------------------
 !--- Requiem - Le fanzine qu‚b‚cois de la science-fiction et du fantastique
 !-----------------------------------------------------------------------------
-_ SO01    <b>in</b> Solaris (Canada) nø 32 et 33
-o SO01        ?  1980.xx ..... ISBN .-.....-...-.
+o SOLARIS     ?  1980.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 32 et 33
 - .o .     N     _APRIL Jean-Pierre           T‚l‚totalit‚ ş1980
-!-----------------------------------------------------------------------------
-_ SO02    <b>in</b> Solaris (Canada) nø 35 et 36
-o SO02        ?  1980.xx ..... ISBN .-.....-...-.
+o SOLARIS     ?  1980.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 35 et 36
 - .o .     N     _SERNINE Daniel              Exode 4 ş1980
+o SOLARIS     ?  1980.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+>--- SERIAL : nø 222 et 223
+- .o .     N     _BOLDUC Claude               "Taches" ş2022
 !-----------------------------------------------------------------------------
 
 o REQUIEM     1  1974.xx ..... ISBN .-.....-...-.
@@ -43,7 +46,6 @@ o REQUIEM     2  1974.xx ..... ISBN .-.....-...-.
 : .o .     N     _RIVET Vincent               Le Campeur ş1974
 : .o .     N     _RODRIGUE Gilbert            Une vieille dame ş1974
 : .o .     N     _SEGUIN Marc                 V‚con II ş1974
-!: .o .     N     _SPEHNER Norbert             ? ş?
 o REQUIEM     3  1975.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     Mx    ****                         Solaris nø 3 ş1975
@@ -438,7 +440,7 @@ o SOLARIS    73  1987.xx ..... ISBN .-.....-...-.
 : .o .     N     _DION Jean                   Une chambre … l'ouest ş1987
 : .o .     N     _PELLETIER Francine          En bout de ligne ş1987
 : .o .     N     _PETTIGREW Jean              Chausse-trappes … l'Holozone ş1987
-: .o .     N     _SERNINE Daniel              Monsieur Olier devient ministre ş1987
+: .o .     N     _SERNINE Daniel              Monsieur Olier devient ministre ş1986
 !--- En fait version abr‚g‚e
 : .o .     N     _VOLODINE Antoine            Quelques d‚tails sur l'ƒme des faussaires ş1987
 o SOLARIS    74  1987.xx ..... ISBN .-.....-...-.
@@ -502,7 +504,6 @@ o SOLARIS    83  1989.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     Mx    ****                         Solaris nø 83 ş1989
 : .o .     N     _CHICA                       L'Annuaire de la guerre ş1989
-!: .o .   9 N     _CHICA                       La Guerre des annuaires ş1989
 : .o .     N     _LAMONTAGNE Michel           Contagion ş1989
 o SOLARIS    84  1989.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -565,8 +566,7 @@ o SOLARIS    94  1991.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     Mx    ****                         Solaris nø 94 ş1991
 : .o .     N     _GAUTHIER Philippe           L'Opprobre ş1991
-!--- Extrait de Tyrana‰l - 1 :
-: .o .     x     _VONARBURG Elisabeth         La Mer all‚e... ş1991
+: .o .     X     _VONARBURG Elisabeth         La Mer all‚e... (extrait de: Tyrana‰l) [Tyrana‰l] ş1991
 o SOLARIS    95  1991.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     Mx    ****                         Solaris nø 95 ş1991
@@ -753,7 +753,7 @@ o SOLARIS   122  1997.xx ..... ISBN .-.....-...-.
 : .o .     N     _D'ARAGON Luc-Andr‚          Les Funambules ş1997
 : .o .     N     _COTE Harold                 Akmee ş1997
 : .o .     N     _BELISLE Denis               La Mante ş1997
-: .o .     a     _MORIN Hugues                Virus : R‚alit‚ et fiction dans The Stand, de Stephen King ş1997
+: .o .     a     _MORIN Hugues                Virus : R‚alit‚ et fiction dans the Stand, de Stephen King ş1997
 !---  Bande dessin‚e
 !---     Un bruit dans la nuit, par Marc Pageau. (Laur‚at du Prix Solaris 1997)
 !---     L'Apprenti, par Jean-Fran‡ois Bergeron. (Laur‚at du Prix Solaris 1997)
@@ -785,8 +785,8 @@ o SOLARIS   124  1998.xx ..... ISBN .-.....-...-.
 &                _MARTEL Julie               &
 &                _SAUVE Christian             
 : .o .     a     _BOZZETTO Roger              La SF dans le r‚troviseur : il ‚tait une fois la SF des ann‚es 50 ş1998
-!: .o .     I     _MARTEL Julie               &Alain Bergeron, par Julie Martel ş1998
-!&          i     _BERGERON Alain              
+: .o .     I     _MARTEL Julie               &Alain Bergeron, par Julie Martel ş1998
+&          i     _BERGERON Alain              
 !--- Chroniques
 !---    L'AnachorŠte dilettante, par Alain Bergeron : Chacun son Atlantide (3)
 !---    Les litt‚ranautes, par Hugues Morin, Jo‰l Champetier et Jean Pettigrew
@@ -816,8 +816,8 @@ o SOLARIS   126  1998.xx ..... ISBN .-.....-...-.
 : .o .     a     _LEHMAN Serge                Quelques mots … propos d'Escales ş1998
 : .o .     a     _DUPUIS John                 L'Entreprise de Frankenstein ş1998
 : .o .     a     _BEAULIEU Ren‚               L'Oiseau de Feu ş1998
-!: .o .     I     _TRUDEL Jean-Louis          &Serge Lehman, par Jean-Louis Trudel ş1998
-!&                _LEHMAN Serge                
+: .o .     I     _TRUDEL Jean-Louis          &Serge Lehman, par Jean-Louis Trudel ş1998
+&          i     _LEHMAN Serge                
 !--- Bande dessin‚e
 !---    Sans titre, par MichŠle Laframboise
 !--- Chroniques
@@ -854,8 +854,8 @@ o SOLARIS   128  1999.xx ..... ISBN .-.....-...-.
 : .o .     N     _GOLDSTEIN Lisa              La Partie, cette ann‚e ş1998 The Game This Year şTrad. VONARBURG Elisabeth
 : .o .     N     _JONES Gwyneth               L'Araign‚e et la mouche ş1995 The Spider and the Fly şTrad. VONARBURG Elisabeth
 : .o .     N     _HUBERT Jean-Pierre          Passage du relais ş1999
-!: .o .     I     _JAHJAH Maher               &Greg Egan, l'homme num‚rique, par Maher Jahjah ş1999
-!&                _EGAN Greg                   
+: .o .     I     _JAHJAH Maher               &Greg Egan, l'homme num‚rique, par Maher Jahjah ş1999
+&          i     _EGAN Greg                   
 !--- Chroniques
 !---    Les litt‚ranautes, par Julie Martel
 o SOLARIS   129  1999.xx ..... ISBN .-.....-...-.
@@ -1032,7 +1032,7 @@ o SOLARIS   147  2003.xx ..... ISBN .-.....-...-.
 o SOLARIS   148  2004.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     M5    ****                         Solaris nø 148 (Hiver 2004) ş2004
-: .o .     N     _CARTIER-JONES               La Nuit des nuits ş2004
+: .o .     N     _CARTIER-JONES               La Nuit des nuits ş1995
 : .o .     N     _BOUHALASSA Mehdi            Anne de la Terre ş2004
 : .o .     N     _LAPALME Marie-Claude        Avatars ş2004
 : .o .     N     _KILPATRICK Nancy            La Diente ş2001 La Diente
@@ -1131,7 +1131,7 @@ o SOLARIS   159  2006.xx ..... ISBN .-.....-...-.
 - .oS.     Mx    ****                         Solaris nø 159 (Et‚ 2006) ş2006
 : .o .     N     _LAFRAMBOISE MichŠle         Le Vol de l'abeille ş2006
 : .o .     N     _DURAND Fr‚d‚rick            Ceci n'est pas une crise cardiaque ş2006
-: .o .     N     _BEAULIEU Ren‚               Un fant“me d'amour ş2006
+: .o .     N     _BEAULIEU Ren‚               Un fant“me d'amour ş1997
 : .o .     N     _HOLSTEIN Eric               A la crois‚e ş2006
 : .o .     N     _TESSIER Mario               Le Regard du trilobite ş2006
 o SOLARIS   160  2006.xx ..... ISBN .-.....-...-.
@@ -1247,7 +1247,7 @@ o SOLARIS   172  2009.10 ..... ISBN .-.....-...-.
 : .o .     N     _DUMOULIN Raymond            Cold Storage ş2009
 : .o .     N     _BOLDUC Claude               La Visite du vendredi ş2009
 : .o .     N     _BOLDUC Claude               L'Appel de la pluie ş2009
-: .o .     N     _BOLDUC Claude               De l'amour dans l'air ş2009
+: .o .     N     _BOLDUC Claude               De l'amour dans l'air ş2007
 : .o .     N     _COTE Philippe-Aubert        Le Patient de l'interne Freud ş2009
 o SOLARIS   173  2010.01 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -1289,7 +1289,7 @@ o SOLARIS   176  2010.10 ..... ISBN .-.....-...-.
 o SOLARIS   177  2011.01 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oS.    _M9    ****                         Solaris nø 177 (hiver 2011) ş2011
-: .o .     N     _DURAND Fr‚d‚rick            L'heure approche o— j'aurai tes yeux ş2007
+: .o .     N     _DURAND Fr‚d‚rick            L'heure approche o— j'aurai tes yeux ş2011
 : .o .     N     _GENEST Guy                  Les Anneaux de Saturne ş2011
 : .o .     N     _DALLAIRE Denis              Le Tunnel ş2011
 : .o .     N     _BOLDUC Claude               Question d'‚quilibre ş2011
@@ -1493,7 +1493,7 @@ o SOLARIS   194  2015.xx ..... ISBN 978-2-.-.....-...-.
 : .o .     N     _LAFRANCE Pierre-Luc         Projection priv‚e ş2015
 : .o .     N     _LAFARGUE Jean-No‰l          Objets intelligents ş2015
 : .o .     N     _CHALFOUN C‚lia              Les Raisons de Gournah ş2015
-: .o .     N     _DURAND Fr‚d‚rick            Pour que s'anime le ciel factice ş2015
+: .o .     N     _DURAND Fr‚d‚rick            Pour que s'anime le ciel factice ş2013
 o SOLARIS   195  2015.xx ..... ISBN 978-2-89-6159-85-7
 } noimg          _?                           ?
 - .o .    _M5    ****                         Solaris nø 195 (‚t‚ 2015) ş2015
@@ -1585,7 +1585,7 @@ o SOLARIS   204  2017.xx ..... ISBN 978-2-92-4625-25-5
 } solaris204     _?                           ?
 !--- Vol. 43 nø 2
 - .o .    _M5    ****                         Solaris nø 204 (automne 2017) ş2017
-: .o .     N     _TRUDEL Jean-Louis           Les Cadeaux de Prom‚th‚e ş2017
+: .o .     N     _TRUDEL Jean-Louis           Les Cadeaux de Prom‚th‚e ş2014
 : .o .     N     _PARROT Fr‚d‚ric             La Cage de l'amour ‚go‹ste ş2017
 : .o .     N     _ARES Mathieu                La Rosalie d'Elise ş2017
 : .o .     N     _MEYNARD Yves                Epines ş2017
@@ -1601,7 +1601,7 @@ o SOLARIS   205  2018.01 ..... ISBN 978-2-92-4625-28-6
 : .o .     N     _LICTEVOUT Hugues            La Force des Huit ş2018
 : .o .     N     _BOURDAGES-DUCLOS J‚r‚mie    Ici ou l…-bas ş2018
 : .o .     N     _LAPIERRE Samuel             Les R‚alit‚s al‚atoires ş2018
-: .o .     N     _DEIL Enola                  Mises … jour ş2018
+: .o .     N     _DEIL Enola                  Mises … jour ş2014
 : .o .     a     _TESSIER Mario               Omni : l'‚trange et scandaleuse histoire d'une revue [Les Carnets du Futurible] ş2018
 o SOLARIS   206  2018.04 ..... ISBN 978-2-92-4625-xx-x
 } solaris206     _Tomislav Tikulin            ?
@@ -1647,7 +1647,7 @@ o SOLARIS   210  2019.xx ..... ISBN 978-2-92-4625-43-9
 : .o .  25 N     _CREPEAULT Vincent B.        Voix d'escatombe ş2019
 : .o .  43 N     _RENAUD-SIMARD Andr‚a        A l'origine du temps ş2019
 : .o .  74 N     _LALUMIERE Claude            Moins que Katherine ş2019
-: .o .  87 N     _TRUDEL Jean-Louis           Bulles d'amour dans un ciel irrespirable ş2019
+: .o .  87 N     _TRUDEL Jean-Louis           Bulles d'amour dans un ciel irrespirable ş2015
 o SOLARIS   211  2019.xx ..... ISBN 978-2-92-4625-45-3
 } solaris211     _Gr‚gory Fromenteau          ?
 - .o .    _M7    ****                         Solaris nø 211 (‚t‚ 2019) ş2019
@@ -1665,8 +1665,7 @@ o SOLARIS   212  2019.xx ..... ISBN 978-2-92-4625-49-1
 : .o .  12 N     _RODITI Denis                Le Vieillard, l'enfant et la cuillŠre pensante ş2019
 : .o .  32 N     _DESFORGES Etienne-Janosik   M‚moire vive ş2019
 : .oS.  41 N     _BLOUIN GeneviŠve            Echo perdu ş2019
-!--- la nouvelle de Kunsken appartient au cycle Quantum
-: .o .  58 N     _KUNSKEN Derek               Eau et diamant ş2018 Water and Diamond
+: .o .  58 N     _KUNSKEN Derek               Eau et diamant [Le Cycle de l'‚volution quantique] ş2018 Water and Diamond
 o SOLARIS   213  2020.01 ..... ISBN 978-2-92-4625-51-4
 } solaris213     _Laurine Spehner             ?
 - .o .    _M5    ****                         Solaris nø 213 (hiver 2020) ş2020
@@ -1683,7 +1682,7 @@ o SOLARIS   214  2020.06 ..... ISBN 978-2-92-4625-55-2
 : .o .  17 N     _COTE Philippe-Aubert        Comment le shiba aux pattes silencieuses d‚cida l'avenir du monde ş2020
 : .o .  37 N     _REYNOLDS Jonathan           Petite Poule rousse ş2020
 : .o .  47 N     _GELINAS Ariane              Celui-qui-crie ş2020
-: .o .  55 N     _RAUD Pascale                La M‚moire du papillon ş2020
+: .o .  55 N     _RAUD Pascal                 La M‚moire du papillon ş2020
 : .o .  70 N     _CHARTRAND S‚bastien         La Mort au fond du monde ş2020
 : .o .  79 N     _TRUDEL Jean-Louis           L'Amour en absence ş2020
 : .o .  89 N     _GAUTHIER Eric               La Voie du maŒtre ş2020
@@ -1691,7 +1690,7 @@ o SOLARIS   214  2020.06 ..... ISBN 978-2-92-4625-55-2
 : .o . 126 N     _MORIN Hugues               &Concerto pour extraterrestres ou math‚maticiens ş2010
 &                _CHAMPETIER Jo‰l             
 : .o . 154 a     _TESSIER Mario               Jo‰l Champetier et la science dans ses oeuvres de fiction [Les Carnets du Futurible] ş2019
-o SOLARIS   215  2020.xx ..... ISBN 978-2-92-4625-..-.
+o SOLARIS   215  2020.xx ..... ISBN 978-2-92-4625-58-3
 } solaris215     _Gr‚gory Fromenteau          ?
 - .o .    _M6    ****                         Solaris nø 215 (‚t‚ 2020) ş2020
 : .o .     N     _BERUBE Jos‚e                Les ‚pinettes … corneilles ş2020
@@ -1706,5 +1705,92 @@ o SOLARIS   216  2020.xx ..... ISBN 978-2-92-4625-..-.
 : .o .     N     _BEAULIEU Natasha            L…-bas ş2020
 : .o .     N     _CAYER Mariane               Avant, la mort nous effrayait ş2020
 : .o .     N     _LAIGLE Jean-Pierre          La Cit‚ des morts ş2005
-
+o SOLARIS   217  2021.01 ..... ISBN 978-2-92-4625-63-7
+} solaris217     _Emilie L‚ger                ?
+- .o .    _M6    ****                         Solaris nø 217 (hiver 2021) ş2021
+: .o .     N     _LEOURIER Christian          Isma‰l, Elstramadur et la destin‚e ş2021
+: .o .     N     _MORIN Hugues                L'Amour au temps des univers parallŠles ş2021
+: .o .     N     _BOLDUC Claude               Au pr‚ de l'AsphodŠle ş2021
+: .o .     N     _TRUDEL Jean-Louis           Les Pompes de Titan ş2021
+: .o .     N     _KUNSKEN Derek               Les coeurs tachyoniques ne peuvent aimer ş2020 Tachyon Hearts Cannot Love
+: .o .     N     _TESSIER Mario               Explorer J‚hovah ş2021
+o SOLARIS   218  2021.04 ..... ISBN 978-2-92-4625-67-5
+} solaris218     _Tomislav Tikulin            ?
+- .o .    _M4    ****                         Solaris nø 218 (printemps 2021) ş2021
+: .o .     N     _LAFRAMBOISE MichŠle         Fermer le Big Bang ş2021
+: .o .     N     _COTE Dave                   La Distorsion de Lebarne ş2021
+: .o .     N     _PETTIGREW Jean              Pauvre Jack ! ş1989
+: .o .     N     _KALLNER Oskar               Gamma ş2021
+o SOLARIS   219  2021.07 ..... ISBN 978-2-92-4625-69-9
+} solaris219     _Suzanne Morel               ?
+- .o .    _M7    ****                         Solaris nø 219 (‚t‚ 2021) ş2021
+: .o .     N     _BERUBE Jos‚e                Le Th‚orŠme des quatre douleurs ş2021
+: .o .     N     _MORIN Hugues                Le Vieil Homme et le trou noir ş2021
+: .o .     N     _BOURQUE Martine             L'Offrande sur la pierre tombale ş2021
+: .o .     N     _RENAUD-SIMARD Andr‚a        Ulann ş2021
+: .o .     N     _WHITLOCK Dean               La Femme, le pilote et le corbeau ş1991 The Woman, the Pilot, the Raven
+: .o .     N     _PIETTE Isabelle             L'Archiviste ş2021
+: .o .     N     _LAVOIE Jean Carlo           Le Passager ‚ternel ş2021
+o SOLARIS   220  2021.11 ..... ISBN 978-2-92-4625-73-6
+} solaris220     _Suzanne Morel               ?
+- .o .    _M5    ****                         Solaris nø 220 (automne 2021) ş2021
+: .o .   7 N     _TRUDEL Jean-Louis           Le Matin, les arbres et leurs cadeaux ş2016
+: .o .  33 N     _COTE Dave                   L'Artisan du d‚luge ş2021
+: .o .  55 N     _LICTEVOUT Hugues            L'Autre Trame du temps ş2021
+: .o .  75 N     _CARD Orson Scott            Le Carrousel ş2012 Carousel
+: .o .  95 N     _TESSIER Mario               Les Cosmos invisibles ş2021
+o SOLARIS   221  2022.02 ..... ISBN 978-2-92-4625-75-0
+} solaris221     _Tomislav Tikulin            ?
+- .o .    _M6    ****                         Solaris nø 221 (hiver 2022) ş2022
+: .o .   7 N     _WATTEL Anne                 Les Yeuses de Noire-pine ş2022
+: .o .  37 N     _LANGEVIN Gautier            Focus ş2022
+: .o .  50 N     _DUCHARME Alain              SOci‚t‚ ş2022
+: .o .  63 N     _GELINAS Ariane             &Point amphidromique ş2022
+&                _HENRY Lo‹c                  
+: .o .  79 N     _LAMONTAGNE Michel           RiviŠre-morte ş2022
+: .o .  81 N     _PARROT Fr‚d‚ric             L'Art de la cr‚ation ş2022
+: .o .  97 a     _TESSIER Mario               Les Tours de Babel modernes : visions, constructions, anticipations [Les Carnets du Futurible] ş2022
+o SOLARIS   222  2022.05 ..... ISBN 978-2-92-4625-79-8
+} solaris222     _Emilie L‚ger                ?
+- .o .    _M4    ****                         Solaris nø 222 (printemps 2022) ş2022
+: .o .   7 N     _BERUBE Jos‚e                Atamishkatun ş2022
+: .oS.  23 N     _LALUMIERE Claude            Une fille, enflamm‚e de vie ş2018 A Girl, Ablaze with Life şTrad. RAUD Pascal
+: .o .  33 N     _MARCHAND Ga‰l               toiles rouges, ‚toiles blanches ş2022
+) .o .  51 N     _BOLDUC Claude               "Taches" (1re partie) ş2022
+: .o .  91 a     _TESSIER Mario               Tout le savoir du monde, ou vie et mort des encyclop‚dies [Les Carnets du Futurible] ş2022
+o SOLARIS   223  2022.08 ..... ISBN 978-2-92-4625-81-1
+} solaris223     _?                           ?
+- .o .    _M4    ****                         Solaris nø 223 (‚t‚ 2022) ş2022
+: .oS.   9 N     _BLOUIN GeneviŠve            La Vie secrŠte des carapac‚es ş2022
+: .o .  25 N     _CARD Orson Scott            Un amoureux imaginaire ş2003 Inventing Lovers on the Phone şTrad. SICART Pierre-Alexandre
+: .o .  61 N     _STEWARD Ketty               Comme un parfum d'encens ş2022
+) .o .  71 N     _BOLDUC Claude               "Taches" (suite et fin) ş2022
+: .o . 117 a     _TESSIER Mario               Les Villes miniatures, ou le monde comme oeuvre d'art [Les Carnets du Futurible] ş2022
+o SOLARIS   224  2022.11 ..... ISBN 978-2-92-4625-84-2
+} solaris224     _Tomasliv Tikulin            ?
+- .o .    _M10   ****                         Solaris nø 224 - Sp‚cial 125e anniversaire - La Guerre des mondes (automne 2022) ş2022
+: .o .   7 N     _BERUBE Jos‚e                D‚mons de plastique ş2022
+: .o .  31 N     _BLOUIN GeneviŠve            Le Monde de l'aprŠs-guerre ş2022
+: .o .  47 N     _CHALFOUN C‚lia              Souvenirs de Luminescence ş2022
+: .o .  65 N     _CHARTRAND S‚bastien         Accords de principe ş2022
+: .o .  95 N     _LEOURIER Christian          Puis vint le silence ş2022
+: .o . 105 N     _LEPIRE Jos‚e                Chroniques d'exil ş2022
+: .o . 109 N     _MEYNARD Yves                Rˆves de Mars ş2022
+: .o . 133 N     _RENAUD-SIMARD Andr‚a        L'Envol des narcissiques ş2022
+: .o . 141 N     _TRUDEL Jean-Louis           La Guerre des mots ş2022
+: .o . 163 N     _VONARBURG Elisabeth         Les Chevaux de Troie ş2022
+: .o . 187 a     _TESSIER Mario               La TroisiŠme Guerre mondiale, ou les mondes en guerre [Les Carnets du Futurible] ş2022
+o SOLARIS   225  2023.01 ..... ISBN 978-2-92-4625-87-3
+} solaris225     _Sagana Squale               Sagana Squale, Suzanne Morel
+!--- Volume 48 nø 3
+!--- 162 pages - 
+- .o .    _M6    ****                         Solaris nø 225 (hiver 2023) ş2023
+: .o .   7 N     _CHAMPETIER Jo‰l             L'Auberge au bord du monde ş2023
+: .o .  31 N     _DUCHARME Alain              Un silence, vu de loin ş2023
+: .o .  41 N     _COTE Dave                  &Bal(l)ade en dix temps ş2023
+&                _RAUD Pascal                 
+: .o .  71 N     _MERCIER Claude              Faux-bourdon ş2023
+: .o .  78 N     _BERUBE Jos‚e                Le Rite du gu‚risseur ş2023
+: .o .  91 N     _VONARBURG Elisabeth         La Femme aux semelles de temps ş2023
+: .o . 115 a     _TESSIER Mario               La Fin des insectes, ou le monde silencieux de demain [Les Carnets du Futurible] ş2023
 

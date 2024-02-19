@@ -1,7 +1,7 @@
 !-----------------------------------------------------------------------------
 _ CORTILI Librairie Jos‚ Corti
-_ CORTI   Ed. Jos‚ Corti
-_ CORT_DF Ed. Jos‚ Corti, Domaine Fran‡ais
+_ CORTI   Jos‚ Corti
+_ CORT_DF Jos‚ Corti - Domaine Fran‡ais
 !-----------------------------------------------------------------------------
 !--- CORTI, Paris
 !-----------------------------------------------------------------------------
@@ -19,7 +19,7 @@ o CORTILI     ?  1947.xx ..... ISBN -
 : .o .     N     _BALZAC Honor‚ de            Les Deux Rˆves ş1830
 : .o .     N     _JANIN Jules                 Kreyssler ş1832
 : .o .     N     _GAUTIER Th‚ophile           Omphale ş1834
-: .oFK     X     _MERIMEE Prosper             Les ƒmes du purgatoire ş1834
+: .oFK     x     _MERIMEE Prosper             Les ƒmes du purgatoire ş1834
 : .o .     N     _KARR Alphonse               Berthe et Rodolphe ş1852
 : .oF.     N     _HUGO Victor                 Le Diable chiffonier ş1842
 : .o .     N     _NERVAL G‚rard de            Le Monstre vert ş1849
@@ -80,7 +80,7 @@ o CORTI       ?  1954.xx ..... ISBN -
 } noimg          _?                           ?
 + CORTI       ?  1969.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .    kNx    _VILLIERS DE L'ISLE-ADAM     Contes cruels ş1883
+- .pF.    kNx    _VILLIERS DE L'ISLE-ADAM     Contes cruels ş1883
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Les Demoiselles de Bienfilƒtre ş1874
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     V‚ra ş1874
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Vox populi ş1880
@@ -91,13 +91,13 @@ o CORTI       ?  1954.xx ..... ISBN -
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Duke of Portland ş1883
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Virginie et Paul ş1874
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Convive des derniŠres fˆtes ş1874
-: .o .     N     _VILLIERS DE L'ISLE-ADAM     A s'y m‚prendre ş1875
+: .o .     N     _VILLIERS DE L'ISLE-ADAM     A s'y m‚prendre ! ş1875
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Impatience de la foule ş1876
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Secret de l'ancienne musique ş1876
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Sentimentalisme ş1875
-: .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Plus Beau DŒner du monde ş1874
+: .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Plus Beau DŒner du monde ! ş1874
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Le D‚sir d'ˆtre un homme ş1882
-: .o .     N     _VILLIERS DE L'ISLE-ADAM     Fleurs de t‚nŠbre ş1880
+: .o .     N     _VILLIERS DE L'ISLE-ADAM     Fleurs de t‚nŠbres ş1880
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     L'Appareil pour l'analyse chimique du dernier soupir ş1874
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     Les Brigands ş1882
 : .o .     N     _VILLIERS DE L'ISLE-ADAM     La Reine Ysabeau ş1880
@@ -121,8 +121,7 @@ o CORTI       ?  1962.xx ..... ISBN -
 } noimg          _?                           ?
 + CORTI       ?  1977.xx ..... ISBN -
 } noimg          _?                           ?
-!--- Suivi de l'Amour suprŠme
-- .o .    iNx    _VILLIERS DE L'ISLE-ADAM     Nouveaux contes cruels ş1888
+- .opF    iNx    _VILLIERS DE L'ISLE-ADAM     Nouveaux contes cruels, suivi de l'amour suprˆme ş1888
 o CORTI       ?  1962.xx ..... ISBN 2-7143-0824-4
 } noimg          _?                           ?
 + CORTI       ?  1986.xx ..... ISBN 2-7143-0141-X
@@ -146,20 +145,26 @@ o CORTI       ?  1967.xx ..... ISBN -
 - .o .     R     _VILLIERS DE L'ISLE-ADAM     Tribulat Bonhomet ş1887
 o CORTI       ?  1986.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .    iN14   _BEALU Marcel                Le Bruit du moulin ş?
+- .o .    iNx    _BEALU Marcel                Le Bruit du moulin ş?
 : .o .     N     _BEALU Marcel                Le Bruit du moulin ş?
 : .o .     N     _BEALU Marcel                Dangecour ş?
 : .o .     N     _BEALU Marcel                Les Locataires du grenier ş?
 o CORTI       ?  1990.xx ..... ISBN 2-7143-0378-1
 } noimg          _?                           ?
 - .o .     E     _GATTEGNO Jean               L'Univers de Lewis Carroll ş1990
+o CORTI       ?  1989.xx ..... ISBN 2-7143-0314-5
+} noimg          _?                           ?
++ CORTI       ?  1989.xx ..... ISBN 2-7143-0364-1
+} noimg          _?                           ?
+!--- nouvelle ‚dition ‚tablie par Ren‚ Radrizzani
+- .o .     R     _POTOCKI Jean                Manuscrit trouv‚ … Saragosse ş[1805-1810],1989
 o CORTI       ?  2011.10 ..... ISBN 978-2-7143-1067-5
 } noimg          _?                           ?
 - .oF.     E     _SANGSUE Daniel              Fant“mes, esprits et autres morts-vivants ş2011
 
 !-----------------------------------------------------------------------------
-_ CORT_DM Ed. Jos‚ Corti, Coll. Domaine merveilleux
-_ CORT_CM Ed. Jos‚ Corti, Coll. Merveilleux
+_ CORT_DM Jos‚ Corti - Domaine merveilleux
+_ CORT_CM Jos‚ Corti - Merveilleux
 !-----------------------------------------------------------------------------
 !--- Collection Domaine merveilleux
 !-----------------------------------------------------------------------------
@@ -181,7 +186,7 @@ o CORT_DM     1  1998.xx ..... ISBN 2-7143-0653-5
 o CORT_DM     2  1998.xx ..... ISBN 2-7143-0656-X.
 } jcortimerv02   _Bertall                     Gustave Dor‚
 !--- Postface Andr‚ Tissier
-- .o .    iNx    _BURGER G. A.               &Aventures du baron de Mnchhausen ş1786 Wunderbare Reisen zu Wasser zu Lande des Freiherrn von Munchhausen şTrad. GAUTIER Th‚ophile
+- .o .    iNx    _BURGER G. A.               &Aventures du baron de Mnchhausen ş1786 Wunderbare Reisen zu Wasser zu Lande des Freiherrn von Mnchhausen şTrad. GAUTIER Th‚ophile
 &                _RASPE R.E.                  
 o CORT_DM     3  1998.xx ..... ISBN 2-7143-0657-8
 } jcortimerv03   _Odile Redon                 ?
@@ -192,17 +197,17 @@ o CORT_DM     3  1998.xx ..... ISBN 2-7143-0657-8
 : .o .     N     _SEBILLOT Paul               La Seraine de la Fresnaye ş1880
 o CORT_DM     4  1998.xx ..... ISBN 2-7143-0675-6
 } jcortimerv04   _?                           Bertall
-- .oMN    kN9    _HAUFF Wilhelm               La Caravane, suivi de Le Cheikh d'Alexandrie et ses esclaves ş1998
-: .oMN    kN5    _HAUFF Wilhelm               La Caravane ş1825 Die Karawane şTrad. TAUBES Nicole
-= .o .     N     _HAUFF Wilhelm               L'Histoire du calife Cigogne ş1825 Die Geschichte vom Kalif Storch şTrad. TAUBES Nicole
+- .oMN    kN9    _HAUFF Wilhelm               La Caravane, suivi de Le Cheik d'Alexandrie et ses esclaves ş1998
+: .oMN    kC5    _HAUFF Wilhelm               La Caravane ş1825 Die Karawane şTrad. TAUBES Nicole
+= .o .     N     _HAUFF Wilhelm               L'Histoire du calife cigogne ş1825 Die Geschichte vom Kalif Storch şTrad. TAUBES Nicole
 = .o .     N     _HAUFF Wilhelm               L'Histoire de la main coup‚e ş1825 Die Geschichte von der abgehauenen Hand şTrad. TAUBES Nicole
 = .o .     N     _HAUFF Wilhelm               Le Sauvetage de Fatma ş1825 Die Errettung Fatmes şTrad. TAUBES Nicole
 = .o .     N     _HAUFF Wilhelm               L'Histoire de Moucheron ş1825 Die Geschichte vom kleinen Muck şTrad. TAUBES Nicole
 = .o .     N     _HAUFF Wilhelm               L'Histoire du faux prince ş1825 Das M„rchen vom falschen Prinzen şTrad. TAUBES Nicole
-: .oMN    kN4    _HAUFF Wilhelm               Le Cheikh d'Alexandrie et ses esclaves ş1826
+: .oMN    kC4    _HAUFF Wilhelm               Le Cheik d'Alexandrie et ses esclaves ((Le Cheikh d'Alexandrie et ses esclaves)) ş1826
 = .o .     N     _HAUFF Wilhelm               Le Nain Nasique ş1826 Der Zwerg Nase şTrad. TAUBES Nicole
 = .o .     N     _HAUFF Wilhelm               Abner, le juif qui n'a rien vu ş1826 Abner, der Jude, der nichts gesehen hat şTrad. TAUBES Nicole
-= .o .     N     _HAUFF Wilhelm               Le Singe sous les traits d'un homme ş1826 Der Affe als Mensch (Der junge Engl„nder) şTrad. TAUBES Nicole
+= .o .     N     _HAUFF Wilhelm               Le Singe sous les traits d'un homme ş1826 Der Affe als Mensch şTrad. TAUBES Nicole
 = .o .     N     _HAUFF Wilhelm               L'Histoire d'al-Mansur ş1826 Die Geschichte Almansors şTrad. TAUBES Nicole
 ?o CORT_DM     5  1999.xx ..... ISBN 2-7143-0679-9
 ?} jcortimerv05   _?                           ?             
@@ -307,14 +312,25 @@ o CORT_DM    32  2007.02 ..... ISBN 978-2-7143-....-.
 - .oS.     R     _HAGGARD H. Rider            Eric aux yeux brillants ş1891 Eric Brighteyes şTrad. FILLAUDEAU Bertrand
 o CORT_DM    33  2007.01 ..... ISBN 978-2-7143-....-.
 } noimg          _?                           ?
-- .oS.     R     _HAGGARD H. Rider            Le Jour o—  la Terre trembla ş1918 When the World Shook şTrad. FINNE Jacques
+- .oS.     R     _HAGGARD H. Rider            Le Jour o—  la Terre trembla ş1919 When the World Shook şTrad. FINNE Jacques
+o CORT_CM    40  2009.xx ..... ISBN 978-2-7143-1000-2
+} noimg          _?                           ?
+!--- 513 pages - 22 cm - 50 euros (les deux volumes)
+!--- ‚dit‚s et traduits par Natacha Rimasson-Fertin
+!--- 239 contes en deux volumes
+- .oM.    iNx    _GRIMM Jacob & Wilhelm       Contes pour les enfants et la maison ((Contes de Grimm)) ş2009
+o CORT_CM    40  2009.xx ..... ISBN 978-2-7143-1000-2
+} noimg          _?                           ?
+!--- 665 pages - 22 cm - 50 euros (les deux volumes)
+!--- ‚dit‚s et traduits par Natacha Rimasson-Fertin
+- .oM.    iNx    _GRIMM Jacob & Wilhelm       Contes pour les enfants et la maison ((Contes de Grimm)) ş2009
 o CORT_CM    44  2010.02 ..... ISBN 978-2-7143-1017-0
 !--- Avec 7 planches photographiques de Manfred Wakolbinger
 } noimg          _?                           ?
 - .oF.     R     _RANSMAYR Christoph          Dames et messieurs sous les mers ş2007 Damen & Herren unter Wasser şTrad. Nicole Taubes
 o CORT_CM    46  2011.10 ..... ISBN 978-2-7143-1066-8
 } jcortimerv46   _?                           ?
-!--- şTrad. Eva Toudouze
+!--- Trad. Eva Toudouze
 - .oN.    iAx    *TOUDOUZE Eva                L'Esprit de la forˆt et autres contes estoniens ş2011
 o CORT_CM    48  2012.xx ..... ISBN 978-2-7143-1068-2
 } noimg          _?                           ?
@@ -323,31 +339,32 @@ o CORT_CM    48  2012.xx ..... ISBN 978-2-7143-1068-2
 &                *LECOUTEUX Corinne           
 o CORT_CM    54  2018.01 ..... ISBN 978-2-7143-1199-3
 } noimg          _?                           ?
-- .oF.    iN17   _HEARN Lafcadio              Kwaidan - Histoires et ‚tudes de sujets ‚tranges ş1904 Kwaidan: Stories and Studies of Strange Things şTrad. FINNE Jacques
-! .o .     N     _HEARN Lafcadio              Mimi-Nashi-H“ichi ş1903 The Story of Mimi-nashi Hoichi
-! .o .     N     _HEARN Lafcadio              Osiiidori ş1904 Oshidori
-! .o .     N     _HEARN Lafcadio              L'Histoire d'Otei ş1904 The Story of O-Tei
-! .o .     N     _HEARN Lafcadio              Ubazakura ş1904 Ubazakura
-! .o .     N     _HEARN Lafcadio              L'Histoire d'Aoyagi ş1904 The Story of Aoyagi
-! .o .     N     _HEARN Lafcadio              Rien n'arriva ş1904 Diplomacy
-! .o .     N     _HEARN Lafcadio              Yuki-Onna ş1904 Yuki-Onna
-! .o .     N     _HEARN Lafcadio              J–-Roku-Zakura ş1904 Jiu-Roku-Zakura
-! .o .     N     _HEARN Lafcadio              Rokuro-kubi ş1904 Rokurokubi
-! .o .     N     _HEARN Lafcadio              A propos d'un miroir et d'une cloche ş1904 Of a Mirror and a Bell
-! .o .     N     _HEARN Lafcadio              Mujina - Le Fant“me sans tˆte ş1904 Mujina
-! .o .     N     _HEARN Lafcadio              Jikininki ş1904 Jikininki
-! .o .     N     _HEARN Lafcadio              Riki-baka ş1904 Riki-Baka
-! .o .     N     _HEARN Lafcadio              Le Rˆve d'Akinosuke ş1904 The Dream of Akinosuke
-! .o .     N     _HEARN Lafcadio              Le Secret de la morte ş1904 A Dead Secret
-! .o .     N     _HEARN Lafcadio              Hi-mawari ş1904 Hi-Mawari
-! .o .     N     _HEARN Lafcadio              H“rai ş1904 Horai
-! .! .     E     _HEARN Lafcadio              Etudes sur les insectes ş1904 Insect studies
+!--- Retraduction Jacques Finn‚ trŠs contest‚e...
+- .oF.     N17   _HEARN Lafcadio              Kwaidan - Histoires et ‚tudes de sujets ‚tranges ş1904 Kwaidan: Stories and Studies of Strange Things şTrad. FINNE Jacques
+: .o .     N     _HEARN Lafcadio              Mimi-Nashi-H“ichi ş1903 The Story of Mimi-nashi Hoichi
+: .o .     N     _HEARN Lafcadio              Osiiidori ş1904 Oshidori
+: .o .     N     _HEARN Lafcadio              L'Histoire d'Otei ş1904 The Story of O-Tei
+: .o .     N     _HEARN Lafcadio              Ubazakura ş1904 Ubazakura
+: .o .     N     _HEARN Lafcadio              L'Histoire d'Aoyagi ş1904 The Story of Aoyagi
+: .o .     N     _HEARN Lafcadio              Rien n'arriva ş1904 Diplomacy
+: .o .     N     _HEARN Lafcadio              Yuki-Onna ş1904 Yuki-Onna
+: .o .     N     _HEARN Lafcadio              J–-Roku-Zakura ş1904 Jiu-Roku-Zakura
+: .o .     N     _HEARN Lafcadio              Rokuro-kubi ş1904 Rokuro-Kubi
+: .o .     N     _HEARN Lafcadio              A propos d'un miroir et d'une cloche ş1904 Of a Mirror and a Bell
+: .o .     N     _HEARN Lafcadio              Mujina - Le Fant“me sans tˆte ş1904 Mujina
+: .o .     N     _HEARN Lafcadio              Jikininki ş1904 Jikininki
+: .o .     N     _HEARN Lafcadio              Riki-baka ş1904 Riki-Baka
+: .o .     N     _HEARN Lafcadio              Le Rˆve d'Akinosuke ş1904 The Dream of Akinosuke
+: .o .     N     _HEARN Lafcadio              Le Secret de la morte ş1904 A Dead Secret
+: .o .     N     _HEARN Lafcadio              Hi-mawari ş1904 Hi-Mawari
+: .o .     N     _HEARN Lafcadio              H“rai ş1904 Horai
+: .! .     E     _HEARN Lafcadio              Etudes sur les insectes ş1904 Insect studies
 o CORTI       ?  1984.xx ..... ISBN 2-7143-0047-2
 } noimg          _?                           ?
 - .o .     R     _RADCLIFFE Ann               Les MystŠres du chƒteau d'Udolphe ş1794 The Mysteries of Udolpho
 !-----------------------------------------------------------------------------
-_ CORT_CR Ed. Jos‚ Corti, Coll. romantique
-_ CORT_DR Ed. Jos‚ Corti, Coll. Domaine romantique
+_ CORT_CR Jos‚ Corti - romantique
+_ CORT_DR Jos‚ Corti - Domaine romantique
 !-----------------------------------------------------------------------------
 !--- Collection Romantique
 !-----------------------------------------------------------------------------
@@ -442,26 +459,30 @@ o CORT_DR     ?  1999.xx ..... ISBN 2-7143-0678-0
 : .o .     r     _LE FANU J. Sheridan         Le Myst‚rieux Locataire ş1850 The Mysterious Lodger şTrad. FINNE Jacques
 : .o .     N     _LE FANU J. Sheridan         Le Pacte de Sir Dominick ş1872 Sir Dominick's Bargain şTrad. FINNE Jacques
 !--- variante de "Le destin de Sir Robert Ardagh", 1838
-: .o .     N     _LE FANU J. Sheridan         La Vision de Tom Chuff ş1870 The Drunkard's Dream / The Vision of Tom Chuff şTrad. FINNE Jacques
+: .o .     N     _LE FANU J. Sheridan         La Vision de Tom Chuff ş1870 The Vision of Tom Chuff şTrad. FINNE Jacques
 !--- variante de "The drunkard's dram, 1838
 : .o .     N     _LE FANU J. Sheridan         Etranges manifestations dans la rue Aungier ş1853 An Account of Some Strange Disturbances in Aungier Street şTrad. FINNE Jacques
 : .o .     N     _LE FANU J. Sheridan         Mort d'un sacristain ş1871 The Dead Sexton şTrad. FINNE Jacques
 : .o .     N     _LE FANU J. Sheridan         Le Familier [Le Dr. Hesselius] ş1851 The Familiar / The Watcher şTrad. FINNE Jacques
-o CORT_DR     ?  1999.xx ..... ISBN .-.....-...-.
+o CORT_DR     ?  1999.04 ..... ISBN 978-2-7143-0692-0
 } noimg          _?                           ?
-- .o .     A14   *FAYOT Andr‚                 Le Revenant et autres contes de terreur du blackwood magazine ş?
-!--- trad. FAYOT Andr‚
-?: .o .     N     _?                           BrŠve relation d'une tradition suisse ş1817
-?: .o .     N     _?                           L'Enterr‚ vivant ş?
-?: .o .     N     _?                           Le Trou de la mort ş?
-?: .o .     N     _?                           Le Linceul de fer ş?
-?: .o .     N     _?                           La Fianc‚e myst‚rieuse ş?
-?: .o .     N     _?                           Le Fanal ş?
-?: .o .     N     _?                           Un homme du monde ş?
-?: .o .     N     _?                           Le Bourreau ş?
-?: .o .     N     _?                           Une nuit dans les catacombes ş?
-?: .o .     N     _SCOTT Walter                ? ş?
-?: .o .     N     _HOGG James                  ? ş?
+!--- GF - 135 x 215 mm - 264 pages - 120 francs
+!--- Anthologie originale de Chris Baldick et Robert Morrison
+- .oT.     A14   ****                         Le Revenant et autres contes de terreur du blackwood magazine ş1995 Tales of Terror from Blackwood's Magazine şTrad. FAYOT Andr‚
+: .o .     N     _FRASER-TYLER Patrick        BrŠve relation d'une tradition suisse, racont‚e par un moine ş1817 Sketch of a Tradition Related by a Monk in Switzerland şTrad. FAYOT Andr‚
+: .o .     N     _SCOTT Walter                R‚cit d'un ‚vŠnement fatal ş1818 Narrative of a Fatal Event şTrad. FAYOT Andr‚
+: .o .     N     _WILSON John                 Extraits du journal de Gosschen ş1818 Extracts from Gosschen's Diary şTrad. FAYOT Andr‚
+: .o .     N     _SANDFORD Daniel Keyte       Une nuit dans les catacombes ş1818 A Night in the Catacombs şTrad. FAYOT Andr‚
+: .o .     N     _GALT John                   L'Enterr‚ vivant ş1821 The Buried Alive şTrad. FAYOT Andr‚
+: .o .     N     _HOWISON John                Le Fanal ş1821 The Floating Beacon şTrad. FAYOT Andr‚
+: .o .     N     _MAGINN William              L'Homme dans la cloche ş1821 The Man in the Bell şTrad. FAYOT Andr‚
+: .o .     N     _THOMSON Henry               Le Revenant ş1827 Le Revenant şTrad. FAYOT Andr‚
+: .o .     N     _SINCLAIR Catherine          Le Trou de la mort ş1829 The Murder Hole şTrad. FAYOT Andr‚
+: .o .     N     _SCOTT Michael               Chaleur et soif - ScŠne … la Jama‹que ş1830 Heat and Thirst, -A Scene in Jamaica şTrad. FAYOT Andr‚
+: .o .     N     _MUDFORD William             Le Linceul de fer ş1830 The Iron Shroud şTrad. FAYOT Andr‚
+: .o .     N     _HOGG James                  La Fianc‚e myst‚rieuse ş1830 The Mysterious Bride şTrad. FAYOT Andr‚
+: .o .     N     _WARREN Samuel               Un homme du monde ş1830 A 'Man about Town' şTrad. FAYOT Andr‚
+: .o .     N     _GODWIN LE JEUNE William     Le Bourreau ş1832 The Executioner şTrad. FAYOT Andr‚
 o CORT_DR     ?  2000.xx ..... ISBN 2-7143-0722-1
 } noimg          _?                           ?
 - .o .     A11   *KREMER Jean-Pierre          Les Fant“mes des victoriens ş2000
@@ -493,7 +514,7 @@ o CORT_DR     ?  2000.xx ..... ISBN 2-7143-0723-X
 : .oF.     N     _OLIPHANT Margaret           La Fenˆtre de la bibliothŠque ş1896 The Libray Window
 o CORT_DR     ?  2000.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _MATURIN Charles-Robert      Fatale vengeance ou la famille de Montorio ş1807 The Fatal revenge or The house of Montorio
+- .o .     R     _MATURIN Charles-Robert      Fatale vengeance ou la famille de Montorio ş1807 The Fatal revenge or the house of Montorio
 !--- r Riddell, la maison inhabit‚e
 !--- Vathek et ses ‚pisodes
 !--- Riddell, une terrible vengeance
@@ -529,11 +550,15 @@ o CORT_DR     ?  2013.05 ..... ISBN 978-2-7143-1110-8
 
 
 
-o CORTI       ?  1983.xx ..... ISBN 2-7143-0046-4
+o CORTI       ?  1958.xx ..... ISBN -
 } noimg          _?                           ?
+!--- 18 cm - 452 pages
++ CORTI       ?  1983.xx ..... ISBN 2-7143-0046-4
+} noimg          _?                           ?
+!--- 23 cm - 446 pages - 90 francs
 + CORTI       ?  1993.xx ..... ISBN 2-7143-0046-4
 } noimg          _?                           ?
-- .o .     R     _LEWIS Matthew Gregory       Le Moine ş1796 The Monk şTrad. DE WAILLY L‚on
+- .o .     R     _LEWIS Matthew Gregory       Le Moine ş1796 The Monk şTrad. WAILLY L‚on de
 
 
 o CORTI       ?  1982.03 ..... ISBN .-.....-...-.
@@ -543,7 +568,7 @@ o CORTI       ?  1982.03 ..... ISBN .-.....-...-.
 
 
 !-----------------------------------------------------------------------------
-_ CORT_MA Ed. Jos‚ Corti, Les Massicot‚s
+_ CORT_MA Jos‚ Corti - Les Massicot‚s
 !-----------------------------------------------------------------------------
 o CORT_MA     4  2004.01 ..... ISBN 2-7143-0825-2
 } corti_mass_04  _?                           N
@@ -556,8 +581,8 @@ o CORT_MA     4  2004.01 ..... ISBN 2-7143-0825-2
 : .o .     N     _BERTHOUD Samuel-Henri       La Bague antique ş1831
 : .o .     N     _BALZAC Honor‚ de            L'glise ş?
 : .oF.     N     _RABOU Charles               Le MinistŠre public ş1832
-: .oF.     N     _HUGO Abel                   L'Heure de la mort ş?
-: .oFK     X     _MERIMEE Prosper             Les ƒmes du purgatoire ş1834
+: .oF.     N     _HUGO Abel                   L'Heure de la mort ş1833
+: .oFK     x     _MERIMEE Prosper             Les ƒmes du purgatoire ş1834
 : .oF.     X     _SAND George                 Spiridon ş?
 : .oF.     N     _HUGO Victor                 Le Diable chiffonier ş1842
 : .o .     N     _DUMAS Alexandre             Le Bracelet de cheveux ş1849
@@ -589,7 +614,9 @@ o CORT_MA    16  2005.xx ..... ISBN 2-7143-0897-X
 } corti_mass_16  _?                           N
 !--- Contes cruels [Texte imprim‚] ; suivis de Nouveaux contes cruels ; et de L'amour suprˆme 
 !--- 506 pages
-- .o .    iNx    _VILLIERS DE L'ISLE-ADAM     Contes cruels, suivis de Nouveaux contes cruels ş?
+- .pF.    iNx    _VILLIERS DE L'ISLE-ADAM     Contes cruels, suivis de Nouveaux contes cruels et de l'amour suprˆme ş2005
+: .pF.    iNx    _VILLIERS DE L'ISLE-ADAM     Contes cruels ş1883
+: .pF.    iNx    _VILLIERS DE L'ISLE-ADAM     Nouveaux contes cruels ş1888
 o CORT_MA    20  2007.06 ..... ISBN 978-2-7143-0951-8
 } noimg          _?                           ?
 - .oF.    _N3    ****                         R‚cits fantastiques russes ş1997

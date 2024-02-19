@@ -1,25 +1,25 @@
 !-----------------------------------------------------------------------------
 _ HORI    Revue Horizons du fantastique
-_ HORI01  <b>in</b> Revue Horizons du fantastique nø 30, 31, 32, 33 et 34
-_ HORI02  <b>in</b> Revue Horizons du fantastique nø 34 et 35
-_ HORI03  <b>in</b> Revue Horizons du fantastique nø 35 et 36
-_ HORI04  <b>in</b> Revue Horizons du fantastique nø 36 et 37
 !-----------------------------------------------------------------------------
 !--- Horizons du fantastique, cr‚‚ en 67 ou 68
 !--- Cr‚‚ par Dominique Besse
 !--- R‚dacteur en chef Marianne LECONTE
 !-----------------------------------------------------------------------------
-o HORI01      ?  1975.xx ..... ISBN -
+o HORI        ?  1975.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 30, 31, 32, 33 et 34
 - .o .     R     _WALTHER Daniel              Mais l'espace... mais le temps... þ1972
-o HORI02      ?  1975.xx ..... ISBN -
+o HORI        ?  1975.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 34 et 35
 - .o .     N     _RAYDON Robert               Les Damn‚s des ‚toiles þ1975
-o HORI03      ?  1975.xx ..... ISBN -
+o HORI        ?  1975.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 35 et 36
 - .o .     N     _HOULBERT Jean-Michel        Ordine þ1975
-o HORI04      ?  1975.xx ..... ISBN -
+o HORI        ?  1975.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 36 et 37
 - .o .     N     _HENNEBERG Nathalie          La Quˆte psych‚d‚lique þ1969
 !-----------------------------------------------------------------------------
 o HORI        1  19...xx ..... ISBN -
@@ -39,7 +39,7 @@ o HORI        4  1968.xx ..... ISBN -
 : .o .  60 N     _FERRAN Pierre               L'Insoutenable d'Alturus þ1968
 : .o .  64 N     _BARLOW George W.            L'Autre Jardin þ1968
 : .o .  68 N     _DE REPPER Jean-Claude       Le Survivant þ1968
-: .o .  69 N     _BEALU Marcel                L'Amateur d'oiseau þ?
+: .o .  69 n     _BEALU Marcel                L'Amateur d'oiseau þ?
 : .o .  70 N     _OWEN Thomas                 Notes de journal þ?
 o HORI        5  1969.xx ..... ISBN -
 } noimg          _?                           ?
@@ -286,6 +286,7 @@ o HORI       37  1975.xx ..... ISBN .-.....-...-.
 : .o .     N     _LOWINS Evelyne              Paraphe þ1975
 o HORI       38  1976.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+!---- A priori : Revue non publi‚e et mise au pilori
 - .oF.    iMx    ****                         Horizons du Fantastique nø 38 þ1976
 : .oS.     N     _LAVESTA Raymond             Itin‚raire posthume de Saint Adolf Hitler þ1976
 

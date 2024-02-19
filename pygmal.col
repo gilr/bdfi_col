@@ -5,22 +5,29 @@
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 _ PYGM    Pygmalion
-_ PYGM_FY Pygmalion, Coll. Fantasy
-_ PYGM_DL Pygmalion, Coll. Darklight
+_ PYGM_FY Pygmalion - Fantasy
+_ PYGM_DL Pygmalion - Darklight
+_ PYGM_BE Pygmalion - BibliothŠque de l'‚trange
 !-----------------------------------------------------------------------------
 
 o PYGM        ?  1976.xx ..... ISBN -
 } noimg          _?                           ?
+!--- L'essai contient les 3 "documents suppl‚mentaires", "The Next Phase of Life", "Automatic Writing" et "The Cheriton Dugout".
 - .oF.    kN6    _DOYLE Arthur Conan          Histoires et messages de l'au-del… ş1967
 : .oF.     p     _LACASSIN Francis            Conan Doyle aux ‚coutes des morts ş1967
 : .oF.     N     _DOYLE Arthur Conan          La Hachette d'argent ş1883 The Silver Hatchet şTrad. ?
 : .oF.     N     _DOYLE Arthur Conan          L'Entonnoir de cuir ş1902 The Leather Funnel şTrad. ?
-: .oF.     N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand şTrad. ?
+: .oF.     N     _DOYLE Arthur Conan          La Main brune ş1899 The Story of the Brown Hand / The Brown Hand şTrad. ?
 : .oF.     N     _DOYLE Arthur Conan          Le Lot nø 249 ş1892 Lot Nø 249 şTrad. ?
 : .oF.     r     _DOYLE Arthur Conan          Le Parasite ş1894 The Parasite şTrad. ?
 : .oF.     N     _DOYLE Arthur Conan          Jouer avec le feu ş1900 Playing With Fire şTrad. ?
-!--- Ce dernier essai contient les 3 "documents suppl‚mentaires" :
-?: .oF.     a     _DOYLE Arthur Conan          La Nouvelle R‚v‚lation ş1916 The New Revelation şTrad. ?
+: .x .     E     _DOYLE Arthur Conan          La Nouvelle R‚v‚lation ş1916 The New Revelation şTrad. ?
+
+o PYGM_BE     ?  1991.xx ..... ISBN 2-85704-353-8
+} noimg          _?                           ?
++ PYGM_BE     ?  2010.xx ..... ISBN 978-2-7564-0365-6
+} noimg          _?                           ?
+- .oF.     E     _MARKALE Jean                L'‚nigme des vampires ş1991
 
 !------------------------
 !=== 1986 … 1991
@@ -142,7 +149,7 @@ o PYGM        ?  1998.xx ..... ISBN 2-85704-560-3
 } pygfy025       _Michael Whelan              N
 + PYGM        ?  2004.xx ..... ISBN 2-85704-560-3
 } pygfy025rr04   _Michael Whelan              N
-- .oY.     R     _HOBB Robin                  L'Apprenti assassin [L'Assassin royal - 1] ş1995 Assassin's Apprentice şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  L'Apprenti assassin [The Farseer Trilogy - 1][L'Assassin royal - 1] ş1995 Assassin's Apprentice şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  1998.xx ..... ISBN 2-85704-546-8
 } pygfy026       _D. Buisson                  N
 + PYGM        ?  2004.xx ..... ISBN 2-85704-546-8
@@ -157,7 +164,7 @@ o PYGM        ?  1999.xx ..... ISBN 2-85704-567-0
 } pygfy028       _Michael Whelan              N
 + PYGM        ?  2004.xx ..... ISBN 2-85704-567-0
 } pygfy028rr04   _Michael Whelan              N
-- .oY.     R     _HOBB Robin                  L'Assassin du roi [L'Assassin royal - 2] ş1996 Royal Assassin şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  L'Assassin du roi [The Farseer Trilogy - 2.1][L'Assassin royal - 2] ş1996 Royal Assassin şTrad. MOUSNIER-LOMPRE A.
 o PYGM        ?  1999.xx ..... ISBN 2-85704-569-7
 } pygfy030       _D. Buisson                  N
 + PYGM_FY     ?  2017.04 ..... ISBN 978-2-7564-0738-8
@@ -165,7 +172,7 @@ o PYGM        ?  1999.xx ..... ISBN 2-85704-569-7
 - .o .     R     _MARTIN George R.R.          Le Donjon rouge [Le Tr“ne de fer - 2] ş1996 A Game of Thrones şTrad. SOLA Jean
 o PYGM        ?  1999.xx ..... ISBN 2-85704-591-3
 } pygfy031       _Kopik                       N
-- .oY.     R     _HOBB Robin                  La Nef du cr‚puscule [L'Assassin royal - 3] ş1996 Royal Assassin şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  La Nef du cr‚puscule [The Farseer Trilogy - 2.2][L'Assassin royal - 3] ş1996 Royal Assassin şTrad. MOUSNIER-LOMPRE A.
 o PYGM        ?  1999.xx ..... ISBN 2-85704-604-9
 } pygfy032       _?                           N
 - .o .     G     _MARKALE Jean                Les Dames du lac [Le Cycle du Graal] ş1999
@@ -178,7 +185,7 @@ o PYGM        ?  1999.xx ..... ISBN 2-85704-604-9
 !------------------------
 o PYGM        ?  2000.xx ..... ISBN 2-85704-612-X
 } pygfy033       _Kopik                       N
-- .oY.     R     _HOBB Robin                  Le Poison de la vengeance [L'Assassin royal - 4] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Poison de la vengeance [The Farseer Trilogy - 3.1][L'Assassin royal - 4] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2000.xx ..... ISBN 2-85704-620-0
 } pygfy034       _Stephen Youll               N
 + PYGM        ?  2004.xx ..... ISBN 2-85704-620-0
@@ -192,10 +199,12 @@ o PYGM        ?  2000.03 ..... ISBN 2-85704-627-8
 } pygfy035rr04   _?                           N
 + PYGM        ?  2012.06 ..... ISBN 978-2-7564-0768-5
 } pygfy035rr12   _St‚phane Desbenoit          ?
-- .oY.    _R3    _HOBB Robin                  La Citadelle des ombres [L'Assassin royal - 1/3] ş2001
-: .oY.     R     _HOBB Robin                  L'Apprenti assassin [L'Assassin royal - 1] ş1995 Assassin's Apprentice şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  L'Assassin du roi [L'Assassin royal - 2] ş1996 Royal Assassin şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  La Nef du cr‚puscule [L'Assassin royal - 3] ş1996 Royal Assassin şTrad. MOUSNIER-LOMPRE Arnaud
++ PYGM        ?  2016.xx ..... ISBN 978-2-7564-0768-5
+} pygfy035rr16   _St‚phane Desbenoit          ?
+- .oY.    _R3    _HOBB Robin                  La Citadelle des ombres [The Farseer Trilogy - 1/2][L'Assassin royal - 1/3] ş2001
+: .oY.     R     _HOBB Robin                  L'Apprenti assassin [The Farseer Trilogy - 1][L'Assassin royal - 1] ş1995 Assassin's Apprentice şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  L'Assassin du roi [The Farseer Trilogy - 2.1][L'Assassin royal - 2] ş1996 Royal Assassin şTrad. MOUSNIER-LOMPRE A.
+: .oY.     R     _HOBB Robin                  La Nef du cr‚puscule [The Farseer Trilogy - 2.2][L'Assassin royal - 3] ş1996 Royal Assassin şTrad. MOUSNIER-LOMPRE A.
 o PYGM        ?  2000.xx ..... ISBN 2-85704-638-3
 } pygfy036       _Stephen Youll               N
 + PYGM        ?  2005.xx ..... ISBN 2-85704-638-3
@@ -215,10 +224,10 @@ o PYGM        ?  2000.xx ..... ISBN 2-85704-650-2
 - .o .     R     _MARTIN George R.R.          L'Invincible Forteresse [Le Tr“ne de fer - 5] ş1999 A Clash of Kings şTrad. SOLA Jean
 o PYGM        ?  2000.xx ..... ISBN 2-85704-643-X
 } pygfy039       _Kopik                       N
-- .oY.     R     _HOBB Robin                  La Voie magique [L'Assassin royal - 5] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  La Voie magique [The Farseer Trilogy - 3.2][L'Assassin royal - 5] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2000.xx ..... ISBN 2-85704-679-0
 } pygfy040       _Kopik                       N
-- .oY.     R     _HOBB Robin                  La Reine solitaire [L'Assassin royal - 6] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  La Reine solitaire [The Farseer Trilogy - 3.3][L'Assassin royal - 6] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2000.xx ..... ISBN 2-85704-677-4
 } pygfy041       _-                           N
 + PYGM        ?  2010.xx ..... ISBN 978-2-7564-0448-6
@@ -244,13 +253,18 @@ o PYGM        ?  2001.03 ..... ISBN 2-85704-683-9
 } pygfy043       _Michael Whelan              N
 + PYGM        ?  2012.11 ..... ISBN 978-2-7564-0874-3
 } pygfy043rr12   _St‚phane Desbenoit          ?
-- .oY.    _R3    _HOBB Robin                  La Citadelle des ombres II [L'Assassin royal - 4/6] ş1997 Assassin's Quest
-: .oY.     R     _HOBB Robin                  Le Poison de la vengeance [L'Assassin royal - 4] ş1997 Assassin's Quest
-: .oY.     R     _HOBB Robin                  La Voie magique [L'Assassin royal - 5] ş1997 Assassin's Quest
-: .oY.     R     _HOBB Robin                  La Reine solitaire [L'Assassin royal - 6] ş1997 Assassin's Quest
++ PYGM        ?  2016.xx ..... ISBN 978-2-7564-0874-3
+} pygfy043rr16   _St‚phane Desbenoit          ?
+- .oY.    _R3    _HOBB Robin                  La Citadelle des ombres II [The Farseer Trilogy - 3][L'Assassin royal - 4/6] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Le Poison de la vengeance [The Farseer Trilogy - 3.1][L'Assassin royal - 4] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  La Voie magique [The Farseer Trilogy - 3.2][L'Assassin royal - 5] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  La Reine solitaire [The Farseer Trilogy - 3.3][L'Assassin royal - 6] ş1997 Assassin's Quest şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2001.xx ..... ISBN 2-85704-708-8
 } pygfy044       _Stephen Youll               N
-- .oY.     R     _HOBB Robin                  Le Vaisseau magique [Les Aventuriers de la mer - 1] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
++ PYGM        ?  2022.xx ..... ISBN 978-2-8570-4708-7
+} noimg          _(c) Studio Flammarion       ?
+!--- GF - 152x240 - 308 pages
+- .oY.     R     _HOBB Robin                  Le Vaisseau magique [Les Aventuriers de la mer - 1.1] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2001.xx ..... ISBN 2-85704-724-X
 } pygfy045       _?                           N
 - .oF.     A9    _DAVID-MARESCOT V‚ronique    Histoires de fant“mes ş2001
@@ -262,7 +276,7 @@ o PYGM        ?  2001.xx ..... ISBN 2-85704-724-X
 : .o .     N     _WOOD Henry Mrs.             R‚alit‚ ou illusion ? ş1868 Reality or Delusion şTrad. DAVID-MARESCOT V‚ronique
 : .o .     N     _HOOD Tom                    L'Ombre fant“me ş1869 The Shadow of a Shade şTrad. DAVID-MARESCOT V‚ronique
 : .o .     N     _PAIN Barry                  Le Cas de Vincent Pyrwhit ş1901 The Case of Vincent Pyrwhit şTrad. DAVID-MARESCOT V‚ronique
-: .o .     N     _JAMES Henry                 Les Amis des amis ş1896 The Way It Came / Friends of the Friends şTrad. DAVID-MARESCOT V‚ronique
+: .o .     N     _JAMES Henry                 Les Amis des amis ş1896 The Way It Came / The Friends of the Friends şTrad. DAVID-MARESCOT V‚ronique
 o PYGM        ?  2001.xx ..... ISBN 2-85704-723-1
 } pygfy046       _Stephen Youll               N
 + PYGM        ?  2005.xx ..... ISBN 2-85704-723-1
@@ -272,7 +286,14 @@ o PYGM        ?  2001.xx ..... ISBN 2-85704-723-1
 - .o .     R     _MARTIN George R.R.          Les Brigands [Le Tr“ne de fer - 6] ş2000 A Storm of Swords şTrad. SOLA Jean
 o PYGM        ?  2001.xx ..... ISBN 2-85704-729-0
 } pygfy047       _Stephen Youll               N
-- .o .     R     _HOBB Robin                  Le Navire aux esclaves [Les Aventuriers de la mer - 2] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
++ PYGM        ?  2022.xx ..... ISBN 978-2-8570-4729-2
+} noimg          _(c) Studio Flammarion       ?
+!--- GF - 152x240 - 328 pages
+- .o .     R     _HOBB Robin                  Le Navire aux esclaves [Les Aventuriers de la mer - 1.2] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
+o PYGM        ?  2001.xx ..... ISBN 2-85704-706-1
+} noimg          _?                           ?
+!--- 24 cm - 343 pages - 129 francs
+- .oY.     R     _ERSKINE Barbara             Les Larmes d'Isis ş2000 Whispers in the Sand şTrad. DALLE Sophie
 !------------------------
 !=== 2002
 !------------------------
@@ -283,7 +304,10 @@ o PYGM        ?  2002.xx ..... ISBN 2-85704-750-9
 - .o .     R     _MARTIN George R.R.          L'p‚e de feu [Le Tr“ne de fer - 7] ş2000 A Storm of Swords şTrad. SOLA Jean
 o PYGM        ?  2002.xx ..... ISBN 2-85704-764-9
 } pygfy049       _Stephen Youll               N
-- .oY.     R     _HOBB Robin                  La Conquˆte de la libert‚ [Les Aventuriers de la mer - 3] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
++ PYGM        ?  2022.xx ..... ISBN 978-2-8570-4764-3
+} noimg          _(c) Studio Flammarion       ?
+!--- GF - 152x240 - 314 pages
+- .oY.     R     _HOBB Robin                  La Conquˆte de la libert‚ [Les Aventuriers de la mer - 1.3] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2002.xx ..... ISBN 2-85704-776-2
 } pygfy050       _Stephen Youll               N
 + PYGM        ?  2005.xx ..... ISBN 2-85704-776-2
@@ -303,13 +327,13 @@ o PYGM        ?  2003.xx ..... ISBN 2-85704-798-3
 - .oY.     R     _MARTIN George R.R.          La Loi du r‚gicide [Le Tr“ne de fer - 9] ş2000 A Storm of Swords şTrad. SOLA Jean
 o PYGM        ?  2003.xx ..... ISBN 2-85704-806-8
 } pygfy052       _Stephen Youll               N
-- .oY.     R     _HOBB Robin                  Le ProphŠte blanc [L'Assassin royal - 7] ş2001 Fool's Errand şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le ProphŠte blanc [The Tawny Man - 1.1][L'Assassin royal - 7] ş2001 Fool's Errand şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2003.xx ..... ISBN 2-85704-822-X
 } pygfy053       _Stephen Youll               N
-- .oY.     R     _HOBB Robin                  La Secte maudite [L'Assassin royal - 8] ş2001 Fool's Errand şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  La Secte maudite [The Tawny Man - 1.2][L'Assassin royal - 8] ş2001 Fool's Errand şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2003.11 ..... ISBN 2-85704-838-6
 } pygfy054       _Stephen Youll               N
-- .oY.     R     _HOBB Robin                  Les Secrets de Castelcerf [L'Assassin royal - 9] ş2003 Golden Fool şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Les Secrets de Castelcerf [The Tawny Man - 2.1][L'Assassin royal - 9] ş2003 Golden Fool şTrad. MOUSNIER-LOMPRE Arnaud
 !------------------------
 !=== 2004
 !------------------------
@@ -320,7 +344,10 @@ o PYGM        ?  2004.02 ..... ISBN 2-85704-904-8
 - .oY.     R     _FLEWELLING Lynn             Les Jumeaux [Le Royaume de Tobin - 1] ş2001 The Bone Doll's Twin şTrad. SOLA Jean
 o PYGM        ?  2004.03 ..... ISBN 2-85704-845-9
 } pygfy056       _Stephen Youll               N
-- .oY.     R     _HOBB Robin                  Brumes et tempˆtes [Les Aventuriers de la mer - 4] ş1999 Mad Ship şTrad. DAVID-MARESCOT V‚ronique
++ PYGM        ?  2022.xx ..... ISBN 978-2-8570-4845-9
+} noimg          _(c) Studio Flammarion       ?
+!--- GF - 152x240 - 284 pages
+- .oY.     R     _HOBB Robin                  Brumes et tempˆtes [Les Aventuriers de la mer - 2.1] ş1999 Mad Ship şTrad. DAVID-MARESCOT V‚ronique
 o PYGM        ?  2004.xx ..... ISBN 2-85704-884-X
 } pygfy057       _?                           N
 - .o .     R     _FORD Jeffrey                Le Portrait de madame Charbuque ş2002 The Portrait of Mrs Charbuque şTrad. GUIOD Jacques
@@ -333,7 +360,7 @@ o PYGM        ?  2004.05 ..... ISBN 2-85704-921-8
 } pygfy059       _BENOLIEL Anne               N
 + PYGM        ?  2006.xx ..... ISBN 2-85704-988-9
 } pygfy059rr06   _BENOLIEL Anne               N
-- .oY.     R     _HOBB Robin                  Serments et deuils [L'Assassin royal - 10] ş2003 Golden Fool şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Serments et deuils [The Tawny Man - 2.2][L'Assassin royal - 10] ş2003 Golden Fool şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2004.06 ..... ISBN 2-85704-929-3
 } pygfy060       _BENOLIEL Anne               N
 - .oY.     R     _McKENZIE Nancy              La Proph‚tie de la dame du Lac [Le Prince du Graal - 1] ş2003 A Novel of Galahad, Son of Lancelot şTrad. BENITA Paul
@@ -356,18 +383,25 @@ o PYGM        ?  2005.xx ..... ISBN 2-85704-957-9
 !------------------------
 o PYGM        ?  2005.01 ..... ISBN 2-85704-967-6
 } pygfy065       _Stephen Youll               N
-- .oY.     R     _HOBB Robin                  Prisons d'eau et de bois [Les Aventuriers de la mer - 5] ş1999 Mad Ship şTrad. DAVID-MARESCOT V‚ronique
++ PYGM        ?  2022.xx ..... ISBN 978-2-8570-4967-8
+} noimg          _(c) Studio Flammarion       ?
+!--- GF - 152x240 - 275 pages
+- .oY.     R     _HOBB Robin                  Prisons d'eau et de bois [Les Aventuriers de la mer - 2.2] ş1999 Mad Ship şTrad. DAVID-MARESCOT V‚ronique
 o PYGM        ?  2005.03 ..... ISBN 2-85704-994-3
 } pygfy066       _Michael Whelan              N
++ PYGM        ?  2006.xx ..... ISBN 2-85704-994-3
+} pygfy066       _Michael Whelan              N
 + PYGM        ?  2013.xx ..... ISBN 978-2-85704-998-6
-} pygfy066rr13   _?                           N
-- .oY.    _R3    _HOBB Robin                  La Citadelle des ombres III [L'Assassin royal - 7/9] ş2005
-: .oY.     R     _HOBB Robin                  Le ProphŠte blanc [L'Assassin royal - 7] ş2001 Fool's Errand şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  La Secte maudite [L'Assassin royal - 8] ş2001 Fool's Errand şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Les Secrets de Castelcerf [L'Assassin royal - 9] ş2003 Golden Fool şTrad. MOUSNIER-LOMPRE Arnaud
+} pygfy066rr13   _St‚phane Desbenoit          N
++ PYGM        ?  2016.xx ..... ISBN 978-2-85704-998-6
+} pygfy066rr13   _St‚phane Desbenoit          N
+- .oY.    _R3    _HOBB Robin                  La Citadelle des ombres III [The Tawny Man - 1/2.1][L'Assassin royal - 7/9] ş2005
+: .oY.     R     _HOBB Robin                  Le ProphŠte blanc [The Tawny Man - 1.1][L'Assassin royal - 7] ş2001 Fool's Errand şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  La Secte maudite [The Tawny Man - 1.2][L'Assassin royal - 8] ş2001 Fool's Errand şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Les Secrets de Castelcerf [The Tawny Man - 2.1][L'Assassin royal - 9] ş2003 Golden Fool şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2005.03 ..... ISBN 2-85704-953-6
 } pygfy067       _John Howe                   N
-- .oY.     R     _HOBB Robin                  Le Dragon des glaces [L'Assassin royal - 11] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Dragon des glaces [The Tawny Man - 3.1][L'Assassin royal - 11] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2005.04 ..... ISBN 2-85704-833-5
 } pygfy068       _EugŠne Delacroix            N
 - .oY.     R     _FONYODI Tibor               Le Chamane d'Attila ş2002 Isten Ostorai şTrad. ZAREMBA Natalia & Charles
@@ -384,7 +418,7 @@ o PYGM        ?  2005.05 ..... ISBN 2-85704-959-5
 !
 o PYGM        ?  2005.10 ..... ISBN 2-85704-954-4
 } pygfy072       _John Howe                   N
-- .oY.     R     _HOBB Robin                  L'Homme noir [L'Assassin royal - 12] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  L'Homme noir [The Tawny Man - 3.2][L'Assassin royal - 12] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2005.10 ..... ISBN 2-85704-976-5
 } pygfy073       _Octave Penguilly l'Haridon  N
 - .oY.     R     _COE David B.                Le Combat des innocents [La Couronne des sept royaumes - 4] ş2003 Seeds of Betrayal şTrad. TROUBAC Sophie
@@ -392,10 +426,10 @@ o PYGM        ?  2005.10 ..... ISBN 2-7564-0017-3
 } pygfy074       _Stephen Youll               ?
 + PYGM        ?  2013.11 ..... ISBN 978-2-7564-1149-1
 } pygfy074rr13   _?                           ?
-- .oY.    _R3    _HOBB Robin                  L'Arche des ombres [Les Aventuriers de la mer - 1/3] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Le Vaisseau magique [Les Aventuriers de la mer - 1] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Le Navire aux esclaves [Les Aventuriers de la mer - 2] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  La Conquˆte de la libert‚ [Les Aventuriers de la mer - 3] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.    _R3    _HOBB Robin                  L'Arche des ombres [Les Aventuriers de la mer - 1] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Le Vaisseau magique [Les Aventuriers de la mer - 1.1] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Le Navire aux esclaves [Les Aventuriers de la mer - 1.2] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  La Conquˆte de la libert‚ [Les Aventuriers de la mer - 1.3] ş1998 Ship of Magic şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2005.11 ..... ISBN 2-7564-0010-6
 } pygfy075       _?                           ?
 - .oY.    _A6    *SILVERBERG Robert           L‚gendes de la Fantasy - I ş2004 Legend II: New Short Novels by the Masters of the Modern Fantasy şTrad. ?
@@ -419,13 +453,16 @@ o PYGM        ?  2006.01 ..... ISBN 2-7564-0023-8
 : .oY.     N     _SILVERBERG Robert           Le Livre des changements [Majipoor] ş2003 The Book of Changes
 o PYGM        ?  2006.02 ..... ISBN 2-7564-0034-3
 } pygfy077       _John Howe                   ?
-- .oY.     R     _HOBB Robin                  Adieux et retrouvailles [L'Assassin royal - 13] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Adieux et retrouvailles [The Tawny Man - 3.3][L'Assassin royal - 13] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2006.03 ..... ISBN 2-7564-0019-X
 } pygfy078       _Stephen Youll               ?
-- .oY.     R     _HOBB Robin                  L'veil des eaux dormantes [Les Aventuriers de la mer - 6] ş1999 Mad Ship şTrad. DAVID-MARESCOT V‚ronique
++ PYGM        ?  2022.xx ..... ISBN 978-2-7564-0019-8
+} noimg          _(c) Studio Flammarion       ?
+!--- GF - 152x240 - 378 pages
+- .oY.     R     _HOBB Robin                  L'veil des eaux dormantes [Les Aventuriers de la mer - 2.3] ş1999 Mad Ship şTrad. DAVID-MARESCOT V‚ronique
 o PYGM        ?  2006.04 ..... ISBN 2-7564-0021-1
 } pygfy079       _Romas                       ?
-- .oY.     R     _COE David B.                Les Fruits de la vengeance [La Couronne des sept royaumes - 5] ş2004 Bonds of Vengeance şTrad. TROUBAC Sophie
+- .oY.     R     _COE David B.                Les Fruits de la vengeance [La Couronne des sept royaumes - 5] ş2005 Bonds of Vengeance şTrad. TROUBAC Sophie
 o PYGM        ?  2006.04 ..... ISBN 2-7564-0024-6
 } pygfy080       _Benjamin Carr‚              ?
 - .oY.     R     _HAYDON Elizabeth            Rhapsody - PremiŠre partie [La Symphonie des siŠcles - 1.1] ş1999 Rhapsody: Child of Blood şTrad. PREMONVILLE Marie de
@@ -439,7 +476,7 @@ o PYGM        ?  2006.09 ..... ISBN 2-7564-0025-4
 - .oY.     R     _HAYDON Elizabeth            Rhapsody - DeuxiŠme partie [La Symphonie des siŠcles - 1.2] ş1999 Rhapsody: Child of Blood şTrad. PREMONVILLE Marie de
 o PYGM        ?  2006.10 ..... ISBN 2-7564-0013-0
 } pygfy083       _Christophe Vacher           ?
-- .oY.     R     _HOBB Robin                  La D‚chirure [Le Soldat chamane - 1] ş2005 Shaman's Crossing şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  La D‚chirure [Le Soldat chamane - 1.1] ş2005 Shaman's Crossing şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2006.10 ..... ISBN 2-7564-0069-6
 } pygfy084       _Jean-S‚bastien Rossbach     ?
 + PYGM_FY     ?  2017.04 ..... ISBN 978-2-7564-0069-3
@@ -450,25 +487,33 @@ o PYGM        ?  2006.11 ..... ISBN 2-7564-0057-0
 - .oY.     R     _COE David B.                Le Sang des traŒtres [La Couronne des sept royaumes - 6] ş2005 Bonds of Vengeance şTrad. TROUBAC Sophie
 o PYGM        ?  2006.12 ..... ISBN 2-85704-992-7
 } pygfy086       _Stephen Youll               ?
-- .oY.     R     _HOBB Robin                  Le Seigneur des trois rŠgnes [Les Aventuriers de la mer - 7] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
++ PYGM        ?  2022.xx ..... ISBN 978-2-8570-4992-0
+} noimg          _(c) Studio Flammarion       ?
+!--- GF - 152x240 - 297 pages
+- .oY.     R     _HOBB Robin                  Le Seigneur des trois rŠgnes [Les Aventuriers de la mer - 3.1] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
 !------------------------
 !=== 2007
 !------------------------
 o PYGM        ?  2007.01 ..... ISBN 978-2-7564-0096-9
 } pygfy087       _John Howe                   N
 + PYGM        ?  2013.10 ..... ISBN 978-2-7564-1079-1
-} pygfy087rr13   _?                           N
-- .oY.    _R4    _HOBB Robin                  La Citadelle des ombres IV [L'Assassin royal - 10/13] ş2007
-: .oY.     R     _HOBB Robin                  Serments et deuils [L'Assassin royal - 10] ş2003 Golden Fool şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Le Dragon des glaces [L'Assassin royal - 11] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  L'Homme noir [L'Assassin royal - 12] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Adieux et retrouvailles [L'Assassin royal - 13] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
+} pygfy087rr13   _St‚phane Desbenoit          N
++ PYGM        ?  2016.xx ..... ISBN 978-2-7564-1079-1
+} pygfy087rr16   _St‚phane Desbenoit          N
+- .oY.    _R4    _HOBB Robin                  La Citadelle des ombres IV [The Tawny Man - 2.2/3][L'Assassin royal - 10/13] ş2007
+: .oY.     R     _HOBB Robin                  Serments et deuils [The Tawny Man - 2.2][L'Assassin royal - 10] ş2003 Golden Fool şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Le Dragon des glaces [The Tawny Man - 3.1][L'Assassin royal - 11] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  L'Homme noir [The Tawny Man - 3.2][L'Assassin royal - 12] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Adieux et retrouvailles [The Tawny Man - 3.3][L'Assassin royal - 13] ş2004 Fool's Fate şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2007.01 ..... ISBN 978-2-7564-0014-3
 } pygfy088       _Christophe Vacher           N
-- .oY.     R     _HOBB Robin                  Le Cavalier rˆveur [Le Soldat chamane - 2] ş2005 Shaman's Crossing şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Cavalier rˆveur [Le Soldat chamane - 1.2] ş2005 Shaman's Crossing şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2007.02 ..... ISBN 978-2-7564-0085-3
 } pygfy089       _Stephen Youll               ?
-- .oY.     R     _HOBB Robin                  Ombres et flammes [Les Aventuriers de la mer - 8] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
++ PYGM        ?  2022.xx ..... ISBN 978-2-7564-0085-3
+} noimg          _(c) Studio Flammarion       ?
+!--- GF - 152x240 - 320 pages
+- .oY.     R     _HOBB Robin                  Ombres et flammes [Les Aventuriers de la mer - 3.2] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
 o PYGM        ?  2007.02 ..... ISBN 978-2-7564-0026-6
 } pygfy090       _Benjamin Carr‚              ?
 - .oY.     R     _HAYDON Elizabeth            Prophecy - PremiŠre partie [La Symphonie des siŠcles - 2.1] ş2000 Prophecy: Child of Earth şTrad. PREMONVILLE Marie de
@@ -480,7 +525,10 @@ o PYGM        ?  2007.05 ..... ISBN 978-2-7564-0083-9
 - .oY.     R     _FLEWELLING Lynn             La TroisiŠme Or‰ska [Le Royaume de Tobin - 5] ş2006 The Oracle's Queen şTrad. SOLA Jean
 o PYGM        ?  2007.06 ..... ISBN 978-2-7564-0121-8
 } pygfy093       _Stephen Youll               ?
-- .oY.     R     _HOBB Robin                  Les Marches du tr“ne [Les Aventuriers de la mer - 9] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
++ PYGM        ?  2022.xx ..... ISBN 978-2-7564-0121-8
+} noimg          _(c) Studio Flammarion       ?
+!--- GF - 152x240 - 331 pages
+- .oY.     R     _HOBB Robin                  Les Marches du tr“ne [Les Aventuriers de la mer - 3.3] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
 o PYGM        ?  2007.06 ..... ISBN 978-2-7564-0111-9
 } pygfy094       _Benjamin Carr‚              ?
 - .oY.     r     _HOBB Robin                  Retour au pays [L'Assassin royal] ş2004 Homecoming şTrad. DAVID-MARESCOT V‚ronique
@@ -494,13 +542,13 @@ o PYGM        ?  2007.10 ..... ISBN 978-2-7564-0126-3
 - .oY.     R     _COE David B.                La Guerre des clans [La Couronne des sept royaumes - 8] ş2005 Shapers of Darkness şTrad. TROUBAC Sophie
 o PYGM        ?  2007.11 ..... ISBN 978-2-7564-0015-0
 } pygfy097       _John Howe                   N
-- .oY.     R     _HOBB Robin                  Le Fils rejet‚ [Le Soldat chamane - 3] ş2006 Forest Mage şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Fils rejet‚ [Le Soldat chamane - 2.1] ş2006 Forest Mage şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2007.11 ..... ISBN 978-2-7564-0141-6
 } pygfy098       _Stephen Youll               ?
-- .oY.    _R3    _HOBB Robin                  L'Arche des ombres II [Les Aventuriers de la mer - 4/6] ş1999 Mad Ship şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Brumes et tempˆtes [Les Aventuriers de la mer - 4] ş1999 Mad Ship şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Prisons d'eau et de bois [Les Aventuriers de la mer - 5] ş1999 Mad Ship şTrad. DAVID-MARESCOT V‚ronique
-: .oY.     R     _HOBB Robin                  L'veil des eaux dormantes [Les Aventuriers de la mer - 6] ş1999 Mad Ship şTrad. DAVID-MARESCOT V‚ronique
+- .oY.    _R3    _HOBB Robin                  L'Arche des ombres II [Les Aventuriers de la mer - 2] ş1999 Mad Ship şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Brumes et tempˆtes [Les Aventuriers de la mer - 2.1] ş1999 Mad Ship şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Prisons d'eau et de bois [Les Aventuriers de la mer - 2.2] ş1999 Mad Ship şTrad. DAVID-MARESCOT V‚ronique
+: .oY.     R     _HOBB Robin                  L'veil des eaux dormantes [Les Aventuriers de la mer - 2.3] ş1999 Mad Ship şTrad. DAVID-MARESCOT V‚ronique
 !------------------------
 !=== 2008
 !------------------------
@@ -512,7 +560,7 @@ o PYGM        ?  2008.03 ..... ISBN 978-2-7564-0124-9
 - .oY.     R     _FLEWELLING Lynn             La Reine de l'oracle [Le Royaume de Tobin - 6] ş2006 The Oracle's Queen şTrad. SOLA Jean
 o PYGM        ?  2008.04 ..... ISBN 978-2-7564-0133-1
 } pygfy101       _John Howe                   N
-- .oY.     R     _HOBB Robin                  La Magie de la peur [Le Soldat chamane - 4] ş2006 Forest Mage şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  La Magie de la peur [Le Soldat chamane - 2.2] ş2006 Forest Mage şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2008.05 ..... ISBN 978-2-7564-0161-4
 } pygfy102       _Jean-S‚bastien Rossbach     ?
 - .oY.     R     _COE David B.                L'Alliance sacr‚e [La Couronne des sept royaumes - 9] ş2007 Weavers of War şTrad. TROUBAC Sophie
@@ -526,18 +574,21 @@ o PYGM        ?  2008.06 ..... ISBN 978-2-7564-0196-6
 : .oY.     r     _MARTIN George R.R.          L'p‚e lige [Dunk et l'Oeuf - 2][Le Tr“ne de fer] ş2003 The Sworn Sword şTrad. ?
 o PYGM        ?  2008.06 ..... ISBN 978-2-7564-0168-3
 } pygfy105       _Stephen Youll               ?
-- .oY.    kR3    _HOBB Robin                  L'Arche des ombres III [Les Aventuriers de la mer - 7/9] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
-: .oY.     R     _HOBB Robin                  Le Seigneur des trois rŠgnes [Les Aventuriers de la mer - 7] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
-: .oY.     R     _HOBB Robin                  Ombres et flammes [Les Aventuriers de la mer - 8] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
-: .oY.     R     _HOBB Robin                  Les Marches du tr“ne [Les Aventuriers de la mer - 9] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
+- .oY.    kR3    _HOBB Robin                  L'Arche des ombres III [Les Aventuriers de la mer - 3] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
+: .oY.     R     _HOBB Robin                  Le Seigneur des trois rŠgnes [Les Aventuriers de la mer - 3.1] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
+: .oY.     R     _HOBB Robin                  Ombres et flammes [Les Aventuriers de la mer - 3.2] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
+: .oY.     R     _HOBB Robin                  Les Marches du tr“ne [Les Aventuriers de la mer - 3.3] ş2000 Ship of Destiny şTrad. DAVID-MARESCOT V‚ronique
 o PYGM        ?  2008.09 ..... ISBN 978-2-7564-0215-4
 } pygfy106       _Stephen Youll               ?
 + PYGM_FY     ?  2012.09 ..... ISBN 978-2-7564-0810-1
 } pygfy106rr12   _Photo s‚rie TV              ?
-- .oY.    kR2    _MARTIN George R.R.          Le Tr“ne de fer - L'int‚grale 1 [Le Tr“ne de fer - 1/2] ş1996 A Game of Thrones şTrad. SOLA Jean
 !--- Couv 2008 : Le tr“ne de fer - les deux titres - *
-: .o .     R     _MARTIN George R.R.          Le Tr“ne de fer [Le Tr“ne de fer - 1] ş1996 A Game of Thrones şTrad. SOLA Jean
-: .o .     R     _MARTIN George R.R.          Le Donjon rouge [Le Tr“ne de fer - 2] ş1996 A Game of Thrones şTrad. SOLA Jean
+!--- Les titres ant‚rieurs des tomes (Le Tr“ne de fer, Le Donjon rouge) n'apparaissent ni en page de titre ni en couverture.
+- .oY.    kR     _MARTIN George R.R.          Le Tr“ne de fer - L'int‚grale 1 [Le Tr“ne de fer - 1/2] ş1996 A Game of Thrones şTrad. SOLA Jean
+o PYGM        ?  2022.11 ..... ISBN 978-2-08-029543-9
+} noimg          _Virginia Norey              ?
+!--- GF - 145x220 - 1154 pages
+- .oY.     R     _MARTIN George R.R.          Le Tr“ne de fer - L'Int‚grale 1 illustr‚e [Le Tr“ne de fer - 1/2] ş1996 A Game of Thrones şTrad. SOLA Jean + La Garde de Nuit
 o PYGM        ?  2008.10 ..... ISBN 978-2-7564-0029-7
 } pygfy107       _Benjamin Carr‚              ?
 - .oY.     R     _HAYDON Elizabeth            Destiny - DeuxiŠme partie [La Symphonie des siŠcles - 3.2] ş2001 Destiny: Child of the Sky şTrad. PUGI Jean-Pierre
@@ -549,13 +600,13 @@ o PYGM        ?  2008.10 ..... ISBN 978-2-7564-0174-4
 - .oY.     R     _COCKAYNE Steve              Vagabonds et insulaires [L‚gendes du pays - 1] ş2002 Wanderers and Islanders şTrad. CHARRIER Michelle
 o PYGM        ?  2008.11 ..... ISBN 978-2-7564-0134-8
 } pygfy110       _Christophe Vacher           N
-- .oY.     R     _HOBB Robin                  Le Choix du soldat [Le Soldat chamane - 5] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Choix du soldat [Le Soldat chamane - 2.3] ş2006 Forest Mage şTrad. MOUSNIER-LOMPRE Arnaud
 !------------------------
 !=== 2009
 !------------------------
 o PYGM        ?  2009.03 ..... ISBN 978-2-7564-0197-3
 } pygfy111       _Christophe Vacher           N
-- .oY.     R     _HOBB Robin                  Le Ren‚gat [Le Soldat chamane - 6] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Ren‚gat [Le Soldat chamane - 3.1] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2009.03 ..... ISBN 978-2-7564-0235-2
 } pygfy112       _Stephen Youll               ?
 + PYGM        ?  2012.11 ..... ISBN 978-2-7564-0852-1
@@ -585,7 +636,7 @@ o PYGM        ?  2009.10 ..... ISBN 978-2-7564-0284-0
 - .oY.     R     _LARKE Glenda                Gu‚risseur [Les Œles glorieuses - 2] ş2004 Gilfeather şTrad. FAZI M‚lanie
 o PYGM        ?  2009.11 ..... ISBN 978-2-7564-0194-2
 } pygfy119       _Steve Stone                 N
-- .oY.     R     _HOBB Robin                  Danse de terreur [Le Soldat chamane - 7] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Danse de terreur [Le Soldat chamane - 3.2] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2009.11 ..... ISBN 978-2-7564-0228-4
 } pygfy120       _Alain Brion                 N
 - .oY.     R     _FREEMAN Pamela              Le Dit de l'eau [Le Langage des pierres - 2] ş2008 Deep Water şTrad. MARIOT Brigitte
@@ -600,13 +651,13 @@ o PYGM        ?  2010.03 ..... ISBN 978-2-7564-0294-9
 - .oY.     R     _ABERCROMBIE Joe             Premier sang [La PremiŠre Loi - 1][Le Monde de la premiŠre loi] ş2006 The Blade Itself şTrad. MARIOT Brigitte
 o PYGM        ?  2010.03 ..... ISBN 978-2-7564-0195-9
 } pygfy123       _Steve Stone
-- .oY.     R     _HOBB Robin                  Racines [Le Soldat chamane - 8] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Racines [Le Soldat chamane - 3.3] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2010.05 ..... ISBN 978-2-7564-0296-3
 } pygfy124       _Laura Brett
 - .oY.     R     _ABERCROMBIE Joe             D‚raison et sentiments [La PremiŠre Loi - 2][Le Monde de la premiŠre loi] ş2007 Before They Are Hanged şTrad. MARIOT Brigitte
 o PYGM        ?  2010.09 ..... ISBN 978-2-7564-0287-1
 } pygfy125       _Steve Stone
-- .oY.     R     _HOBB Robin                  Dragons et serpents [Les Cit‚s des anciens - 1] ş2009 The Dragon Keeper şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Dragons et serpents [Les Cit‚s des anciens - 1.1] ş2009 The Dragon Keeper şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2010.09 ..... ISBN 978-2-75640-298-7
 } pygfy126       _Alain Brion
 - .oY.     R     _CLAVEL Fabien               Le Chatiment des flŠches ş2010
@@ -615,7 +666,7 @@ o PYGM        ?  2010.10 ..... ISBN 978-2-7564-0293-2
 - .oY.     R     _LARKE Glenda                Au coeur du mirage [Les Faiseurs de mirage - 1] ş2006 Heart of the Mirage şTrad. CHAZEL C‚lia
 o PYGM        ?  2010.11 ..... ISBN 978-2-75640-288-8
 } pygfy128       _Steve Stone                 ?
-- .oY.     R     _HOBB Robin                  Les Eaux acides [Les Cit‚s des anciens - 2] ş2009 The Dragon Keeper şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Les Eaux acides [Les Cit‚s des anciens - 1.2] ş2009 The Dragon Keeper şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2010.11 ..... ISBN 978-2-75640-224-6
 } pygfy129       _Marc Simonetti              ?
 - .oY.    kR2    _VANCE Jack                  La Terre mourante - L'int‚grale 1 [La Terre mourante] ş2010
@@ -657,10 +708,11 @@ o PYGM_FY     ?  2011.02 ..... ISBN 978-2-75640-456-1
 - .oY.     R     _LECONTE Marianne            Le Manuscrit de Grenade ş2011
 o PYGM_FY     ?  2011.03 ..... ISBN 978-2-7564-0419-6
 } pygfy133       _Robert Lintott              ?
-- .oY.     R     _HOBB Robin                  La Fureur du fleuve [Les Cit‚s des anciens - 3] ş2010 Dragon Haven şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  La Fureur du fleuve [Les Cit‚s des anciens - 2.1] ş2010 Dragon Haven şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2011.03 ..... ISBN 978-2-7564-0478-3
-} pygfy134       _DESBENOIT St‚phane          ?
-- .oY.     R     _LAFARGE Rapha‰l            &Teliam Vore [Les ChimŠres de Mirinar - 1] ş2011
+} pygfy134       _St‚phane Desbenoit          Mathieu Leveder
+!--- 152 x 238 pages - 540 pages
+- .oY.     R     _LAFARGE Rapha‰l            &Teliam Vore [Mirinar - 1] ş2010
 &                _MONDIOT Vincent             
 o PYGM        ?  2011.xx ..... ISBN 978-2-7564-0420-2
 } pygfy135       _Larry Rostant
@@ -679,7 +731,7 @@ o PYGM_FY     ?  2011.09 ..... ISBN 978-2-75640-549-0
 : .oY.     R     _COLIN Fabrice               La Fonte des rˆves [Winterheim - 3] ş2000
 o PYGM_FY     ?  2011.10 ..... ISBN 978-2-75640-428-8
 } pygfy139       _Steve Stone                 ?
-- .oY.     R     _HOBB Robin                  La D‚crue [Les Cit‚s des anciens - 4] ş2010 Dragon Haven şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  La D‚crue [Les Cit‚s des anciens - 2.2] ş2010 Dragon Haven şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2011.11 ..... ISBN 978-2-75640-406-6
 } pygfy140       _Kekai Kotaki                ?
 - .oY.     R     _PEKHOV Aleksey              Le Pr‚dateur d'ombre [Les Chroniques de Siala - 2] ş2002 Djanga s teniami / Shadow Chaser şTrad. BROMFIELD Andrew & PUGI Jean-Pierre
@@ -710,27 +762,27 @@ o PYGM_FY     ?  2012.03 ..... ISBN 978-2-7564-0586-5
 - .oY.     R     _MARTIN George R.R.          Le B–cher d'un roi [Le Tr“ne de fer - 13] ş2011 Danse With Dragons şTrad. MARCEL Patrick
 o PYGM_FY     ?  2012.03 ..... ISBN 978-2-7564-0711-1
 } pygfy144       _?                           ?
-- .oY.    kR2    _HOBB Robin                  Le Soldat chamane - L'int‚grale 1 [Le Soldat chamane - 1/2] ş2005 Shaman's Crossing şTrad. Arnaud Mousnier-Lompr‚
-: .oY.     R     _HOBB Robin                  La D‚chirure [Le Soldat chamane - 1] ş2005 Shaman's Crossing şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Le Cavalier rˆveur [Le Soldat chamane - 2] ş2005 Shaman's Crossing şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.    kR2    _HOBB Robin                  Le Soldat chamane - L'int‚grale 1 [Le Soldat chamane - 1] ş2005 Shaman's Crossing şTrad. Arnaud Mousnier-Lompr‚
+: .oY.     R     _HOBB Robin                  La D‚chirure [Le Soldat chamane - 1.1] ş2005 Shaman's Crossing şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Le Cavalier rˆveur [Le Soldat chamane - 1.2] ş2005 Shaman's Crossing şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2012.04 ..... ISBN 978-2-75640-464-6
 } pygfy145       _Kekai Kotaki                ?
 - .oY.     R     _PEKHOV Aleksey              Le Vent d'ombre [Les Chroniques de Siala - 3] ş2003 Viuga Tenej / Shadow Blizzard şTrad. BROMFIELD Andrew & PUGI Jean-Pierre
 o PYGM_FY     ?  2012.05 ..... ISBN 978-2-7564-0712-8
 } pygfy146       _VACHER Christophe           ?
-- .oY.    kR3    _HOBB Robin                  Le Soldat chamane - L'int‚grale 2 [Le Soldat chamane - 3/5] ş2012
-: .oY.     R     _HOBB Robin                  Le Fils rejet‚ [Le Soldat chamane - 3] ş2006 Forest Mage şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  La Magie de la peur [Le Soldat chamane - 4] ş2006 Forest Mage şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Le Choix du soldat [Le Soldat chamane - 5] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.    kR3    _HOBB Robin                  Le Soldat chamane - L'int‚grale 2 [Le Soldat chamane - 2] ş2012
+: .oY.     R     _HOBB Robin                  Le Fils rejet‚ [Le Soldat chamane - 2.1] ş2006 Forest Mage şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  La Magie de la peur [Le Soldat chamane - 2.2] ş2006 Forest Mage şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Le Choix du soldat [Le Soldat chamane - 2.3] ş2006 Forest Mage şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2012.05 ..... ISBN 978-2-7564-0591-9
 } pygfy147       _Steve Stone                 ?
-- .oY.     R     _HOBB Robin                  Les Gardiens des souvenirs [Les Cit‚s des anciens - 5] ş2012 City of Dragons şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Les Gardiens des souvenirs [Les Cit‚s des anciens - 3.1] ş2012 City of Dragons şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2012.09 ..... ISBN 978-2-7564-0713-5
 } pygfy148       _VACHER Christophe           ?
-- .oY.    kR3    _HOBB Robin                  Le Soldat chamane - L'int‚grale 3 [Le Soldat chamane - 6/8] ş2012
-: .oY.     R     _HOBB Robin                  Le Ren‚gat [Le Soldat chamane - 6] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Danse de terreur [Le Soldat chamane - 7] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Racines [Le Soldat chamane - 8] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.    kR3    _HOBB Robin                  Le Soldat chamane - L'int‚grale 3 [Le Soldat chamane - 3] ş2012
+: .oY.     R     _HOBB Robin                  Le Ren‚gat [Le Soldat chamane - 3.1] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Danse de terreur [Le Soldat chamane - 3.2] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Racines [Le Soldat chamane - 3.3] ş2007 Renegade's Magic şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2012.09 ..... ISBN 978-2-7564-0587-2
 } pygfy149       _Gary Jamroz                 ?
 + PYGM_FY     ?  2017.04 ..... ISBN 978-2-7564-0587-2
@@ -738,7 +790,7 @@ o PYGM_FY     ?  2012.09 ..... ISBN 978-2-7564-0587-2
 - .oY.     R     _MARTIN George R.R.          Les Dragons de Meereen [Le Tr“ne de fer - 14] ş2011 Danse With Dragons şTrad. MARCEL Patrick
 o PYGM_FY     ?  2012.10 ..... ISBN 978-2-7564-0592-6
 } pygfy150       _Steve Stone                 ?
-- .oY.     R     _HOBB Robin                  Les Pillards [Les Cit‚s des anciens - 6] ş2012 City of Dragons şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Les Pillards [Les Cit‚s des anciens - 3.2] ş2012 City of Dragons şTrad. MOUSNIER-LOMPRE Arnaud
 !------------------------
 !=== 2013
 !------------------------
@@ -766,10 +818,10 @@ o PYGM_FY     ?  2013.03 ..... ISBN 978-2-7564-0841-5
 : .oY.     R     _MARTIN George R.R.          Un festin pour les corbeaux [Le Tr“ne de fer - 12] ş2005 A Feast for Crows şTrad. SOLA Jean
 o PYGM_FY     ?  2013.04 ..... ISBN 978-2-7564-0714-2
 } pygfy154       _St‚phane Desbenoit          ?
-- .oY.     R     _HOBB Robin                  Le Vol des dragons [Les Cit‚s des anciens - 7] ş2013 Blood of Dragons şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Vol des dragons [Les Cit‚s des anciens - 4.1] ş2013 Blood of Dragons şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2013.09 ..... ISBN 978-2-7564-0715-9
 } pygfy155       _St‚phane Desbenoit          ?
-- .oY.     R     _HOBB Robin                  Le Puits d'argent [Les Cit‚s des anciens - 8] ş2013 Blood of Dragons şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Puits d'argent [Les Cit‚s des anciens - 4.2] ş2013 Blood of Dragons şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2013.11 ..... ISBN 978-2-7564-1073-9
 } pygfy156       _St‚phane Desbenoit          ?
 - .oY.     r     _HOBB Robin                  Le Prince bƒtard [L'Assassin royal] ş2013 The Willful Princess and the Piebald Prince şTrad. MOUSNIER-LOMPRE Arnaud
@@ -781,12 +833,12 @@ o PYGM_FY     ?  2014.06 ..... ISBN 978-2-7564-1114-9
 - .oY.     r     _MARTIN George R.R.          L'Oeuf de dragon - 90 ans avant le tr“ne de fer [Dunk et l'Oeuf - 3][Le Tr“ne de fer] ş2010 The Mystery Knight - A Tale of the Seven Kingdoms şTrad. MARCEL Patrick
 o PYGM_FY     ?  2014.09 ..... ISBN 978-2-7564-1121-7
 } pygfy158       _St‚phane Desbenoit          ?
-- .oY.    kR2    _HOBB Robin                  Les Cit‚s des anciens - L'int‚grale 1 [Les Cit‚s des anciens - 1/2] ş2009 The Dragon Keeper şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Dragons et serpents [Les Cit‚s des anciens - 1] ş2009 The Dragon Keeper şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Les Eaux acides [Les Cit‚s des anciens - 2] ş2009 The Dragon Keeper şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.    kR2    _HOBB Robin                  Les Cit‚s des anciens - L'int‚grale 1 [Les Cit‚s des anciens - 1] ş2009 The Dragon Keeper şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Dragons et serpents [Les Cit‚s des anciens - 1.1] ş2009 The Dragon Keeper şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  Les Eaux acides [Les Cit‚s des anciens - 1.2] ş2009 The Dragon Keeper şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2014.10 ..... ISBN 978-2-7564-1118-7
 } pygfy159       _?                           ?
-- .oY.     R     _HOBB Robin                  Le Fou et l'assassin [Le Fou et l'assassin - 1][L'Assassin royal - 14] ş2014 Fool's Assassin şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Fou et l'assassin [Le Fou et l'assassin - 1.1][L'Assassin royal - 14] ş2014 Fool's Assassin şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2014.11 ..... ISBN 978-2-7564-1593-2
 } pygfy160       _Gr‚goire H‚non              ?
 + PYGM_FY     ?  2015.10 ..... ISBN 978-2-7564-1593-2
@@ -800,7 +852,7 @@ o PYGM_FY     ?  2014.11 ..... ISBN 978-2-7564-1593-2
 !------------------------
 o PYGM_FY     ?  2015.03 ..... ISBN 978-2-7564-1505-5
 } pygfy161       _? Arcangel Images           ?
-- .oY.     R     _HOBB Robin                  La Fille de l'assassin [Le Fou et l'assassin - 2][L'Assassin royal - 15] ş2014 Fool's Assassin şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  La Fille de l'assassin [Le Fou et l'assassin - 1.2][L'Assassin royal - 15] ş2014 Fool's Assassin şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2015.03 ..... ISBN 978-2-7564-1115-6
 } pygfy162       _Gr‚goire H‚non              ?
 - .oY.    kr3    _MARTIN George R.R.          Chroniques du chevalier errant - 90 ans avant le tr“ne de fer [Dunk et l'Oeuf - 1/3][Le Tr“ne de fer] ş2015
@@ -809,15 +861,15 @@ o PYGM_FY     ?  2015.03 ..... ISBN 978-2-7564-1115-6
 : .oY.     r     _MARTIN George R.R.          L'Oeuf de dragon [Dunk et l'Oeuf - 3][Le Tr“ne de fer] ş2010 The Mystery Knight - A Tale of the Seven Kingdoms şTrad. MARCEL Patrick
 o PYGM_FY     ?  2015.10 ..... ISBN 978-2-7564-1778-3
 } pygfy163       _St‚phane Desbenoit          ?
-- .oY.    kR2    _HOBB Robin                  Les Cit‚s des anciens - L'int‚grale 2 [Les Cit‚s des anciens - 3/4] ş2010 Dragon Heaven şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  La Fureur du fleuve [Les Cit‚s des anciens - 3] ş2010 Dragon Haven şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  La D‚crue [Les Cit‚s des anciens - 4] ş2010 Dragon Haven şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.    kR2    _HOBB Robin                  Les Cit‚s des anciens - L'int‚grale 2 [Les Cit‚s des anciens - 2] ş2010 Dragon Haven şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  La Fureur du fleuve [Les Cit‚s des anciens - 2.1] ş2010 Dragon Haven şTrad. MOUSNIER-LOMPRE Arnaud
+: .oY.     R     _HOBB Robin                  La D‚crue [Les Cit‚s des anciens - 2.2] ş2010 Dragon Haven şTrad. MOUSNIER-LOMPRE Arnaud
 !------------------------
 !=== 2016
 !------------------------
 o PYGM_FY     ?  2016.01 ..... ISBN 978-2-7564-1695-3
 } pygfy164       _(c)Shutterstock             ?
-- .oY.     R     _HOBB Robin                  En quˆte de vengeance [Le Fou et l'assassin - 3][L'Assassin royal - 16] ş2015 Fool's Quest şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  En quˆte de vengeance [Le Fou et l'assassin - 2.1][L'Assassin royal - 16] ş2015 Fool's Quest şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2016.01 ..... ISBN 978-2-7564-1873-5
 !--- (VN 01/2016)
 } pygfy165       _Miesis + Sylvie Veyres      ?
@@ -827,7 +879,7 @@ o PYGM_FY     ?  2016.05 ..... ISBN 978-2-75641-964-0
 - .oY.     R     _BRADLEY Marion Zimmer       Les Dames du lac [Les Dames du lac - 1] ş1983 The Mists of Avalon şTrad. CHABROL Brigitte
 o PYGM_FY     ?  2016.10 ..... ISBN 978-2-7564-1801-8
 } pygfy167       _(c)Shutterstock             ?
-- .oY.     R     _HOBB Robin                  Le Retour de l'assassin [Le Fou et l'assassin - 4][L'Assassin royal - 17] ş2015 Fool's Quest şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Retour de l'assassin [Le Fou et l'assassin - 2.2][L'Assassin royal - 17] ş2015 Fool's Quest şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2016.10 ..... ISBN 978-2-7564-2087-5
 } pygfy168       _Marie-Laure Barbey-Granvaud ?
 - .o .     R     _JOMAIN Sophie               Vertige [Les ‚toiles de Noss Head - 1] ş2010-2012
@@ -853,10 +905,55 @@ o PYGM_FY     ?  2017.08 ..... ISBN 978-2-7564-2018-9
 &                _PAXSON Diana L.             
 o PYGM_FY     ?  2017.10 ..... ISBN 978-2-7564-2239-8
 } noimg          _(c)Shutterstock             ?
-- .oY.     R     _HOBB Robin                  Sur les rives de l'art [Le Fou et l'assassin - 5][L'Assassin royal - 18] ş2017 Assassin's Fate şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Sur les rives de l'art [Le Fou et l'assassin - 3.1][L'Assassin royal - 18] ş2017 Assassin's Fate şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM_FY     ?  2017.11 ..... ISBN 978-2-7564-2300-5
 } noimg          _?                           ?
-- .oY.    iNx    _MARTIN George R.R.          R.R.‚trospective ş2003 GRRM şTrad. DURASTANTI Pierre-Paul
+- .oY.     N44   _MARTIN George R.R.          R.R.‚trospective ş2003 GRRM: A RRetrospective / Dreamsongs: A RRetrospective şTrad. DURASTANTI Pierre-Paul
+: .o .     p     _DOZOIS Gardner R.           George R. R. Martin ş2003 Introduction şTrad. DURASTANTI Pierre-Paul
+: .o .     a     _MARTIN George R.R.          Un fan de quadrichromie ş2003 A Four-Color Fanboy şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          Y a que les gosses qui ont peur du noir ş1967 Only Kids Are Afraid of the Dark şTrad. HOLSTEIN Eric
+: .o .     N     _MARTIN George R.R.          La Forteresse ş2003 The Fortress şTrad. HOLSTEIN Eric
+: .o .     N     _MARTIN George R.R.          Et la Mort est son h‚ritage. ş2003 And Death His Legacy şTrad. HOLSTEIN Eric
+: .o .     a     _MARTIN George R.R.          Le Sale Pro ş2003 The Filthy Pro şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          Le H‚ros ş1971 The Hero şTrad. CARTANAS Monique & LUONG M.-C. + GUILLOT S‚bastien
+: .o .     N     _MARTIN George R.R.          La Sortie de San Breta ş1972 The Exit to San Breta şTrad. CARTANAS Monique & LUONG M.-C. + GUILLOT S‚bastien
+: .o .     N     _MARTIN George R.R.          Il y a solitude et solitude ş1972 The Second Kind of Loneliness şTrad. ARIEL Brigitte & LUONG M.-C. + GUILLOT S‚bastien
+: .o .     N     _MARTIN George R.R.          Au matin tombe la brume ş1973 With Morning Comes Mistfall şTrad. CARTANAS Monique & LUONG M.-C. + GUILLOT S‚bastien
+: .o .     a     _MARTIN George R.R.          La Clart‚ des ‚toiles lointaines ş2003 The Light of Distant Stars şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          Une chanson pour Lya ş1974 A Song for Lya şTrad. CARTANAS Monique & LUONG M.-C. + GUILLOT S‚bastien
+: .o .     N     _MARTIN George R.R.          Tour de cendres ş1976 This Tower of Ashes şTrad. CARTANAS Monique & LUONG M.-C. + GUILLOT S‚bastien
+: .o .     N     _MARTIN George R.R.          Sept fois, sept fois l'Homme, jamais ! ş1975 And Seven Times Never Kill Man şTrad. CARTANAS Monique & LUONG M.-C. + GUILLOT S‚bastien
+: .o .     N     _MARTIN George R.R.          La Cit‚ de pierre ş1977 The Stone City şTrad. Sara Doke + DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          AprevŠres ş1977 Bitterblooms şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          Par la croix et le dragon ş1979 The Way of Cross and Dragon şTrad. Brigitte Ariel + DURASTANTI Pierre-Paul
+: .o .     a     _MARTIN George R.R.          Les H‚ritiers du Chƒteau des Tortues ş2003 The Heirs of Turtle Castle şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          Un luth constell‚ de m‚lancolie ş1976 The Lonely Songs of Laren Dorr şTrad. CARTANAS Monique & LUONG M.-C. + GUILLOT S‚bastien
+: .o .     N     _MARTIN George R.R.          Dragon de glace ş1980 The Ice Dragon şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          Dans les Contr‚es perdues ş1982 In the Lost Lands şTrad. BAUDURET Thomas
+: .o .     a     _MARTIN George R.R.          Hybrides et horreurs ş2003 Hybrids and Horrors şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          Retour aux sources ş1976 Meathouse Man şTrad. PUGI Jean-Pierre + DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          Cette bonne vieille M‚lodie ş1981 Remembering Melody şTrad. HOLSTEIN Eric
+: .o .     N     _MARTIN George R.R.          Les Rois des sables ş1979 Sandkings şTrad. ARIEL Brigitte + DURASTANTI Pierre-Paul
+: .o .     r     _MARTIN George R.R.          Le Volcryn ş1980 Nightflyers şTrad. SABATHE-RICKLIN Odile + AYERDHAL
+: .o .     N     _MARTIN George R.R.          Le R‚gime du singe ş1983 The Monkey Treatment şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          L'Homme en forme de poire ş1987 The Pear-Shaped Man şTrad. Gilles Goullet
+: .o .     a     _MARTIN George R.R.          Un peu de tuf ş2003 A Taste of Tuf şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          Une bˆte pour Norne ş1976 A Beast for Norn şTrad. ROBERT Alain
+: .o .     N     _MARTIN George R.R.          Les Gardiens ş1981 Guardians şTrad. PUGI Jean-Pierre
+: .o .     a     _MARTIN George R.R.          Hollywood et son chant des sirŠnes ş2003 The Siren Song of Hollywood şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          La QuatriŠme Dimension : "J'‚tais au Canada" ş2003 The Twilight Zone: The Road Less Traveled şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          Doorways ş2003 Doorways şTrad. DURASTANTI Pierre-Paul
+: .o .     a     _MARTIN George R.R.          Wild Cards, et rebattre les cartes ş2003 Doing the Wild Card Shuffle şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          Partir … point ş1987 Shell Game şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          Extraits du journal de Xavier Desmond ş1988 From the Journal of Xavier Desmond şTrad. PLANCHAT Henry-Luc
+: .o .     a     _MARTIN George R.R.          Le Coeur en conflit ş2003 The Heart in Conflict şTrad. DURASTANTI Pierre-Paul
+: .o .     N     _MARTIN George R.R.          Assi‚g‚s ş1985 Under Siege şTrad. HOLSTEIN Eric
+: .o .     r     _MARTIN George R.R.          Skin Trade ş1988 The Skin Trade şTrad. HOUESNARD Anna‹g
+: .o .     N     _MARTIN George R.R.          Variantes douteuses ş1982 Unsound Variations şTrad. HOLSTEIN Eric
+: .o .     N     _MARTIN George R.R.          Fleur de verre ş1986 The Glass Flower şTrad. HOLSTEIN Eric
+: .oY.     r     _MARTIN George R.R.          Le Chevalier errant [Dunk et l'Oeuf - 1][Le Tr“ne de fer] ş1998 The Hedge Knight şTrad. BENITA Paul
+: .o .     N     _MARTIN George R.R.          Portrait de famille ş1985 Portraits of His Children şTrad. HOUESNARD Anna‹g
+: .o .     B     _SWIGART Leslie Kay          George R.R. Martin, une RR‚trospective de ses fictions ş2003 George R. R. Martin: A RRetrospective Fiction Checklist şTrad. DURASTANTI Pierre-Paul
 o PYGM        ?  2017.xx ..... ISBN 978-2-7564-2119-3
 } noimg          _(c)Shutterstock             ?
 - .o .     R     _KATZ Gabriel                La Nuit des cannibales ş2017
@@ -868,21 +965,19 @@ o PYGM        ?  2017.10 ..... ISBN 978-2-7564-1900-8
 !------------------------
 o PYGM        ?  2018.01 ..... ISBN 978-2-7564-2376-0
 } pygfy176       _(c)Shutterstock             ?
-- .oY.    kR3    _BROOKS Terry                Le Royaume magique Landover - Int‚grale 1 [Royaume magique … vendre - 1/3] ş2018
+- .oY.    kR3    _BROOKS Terry                Le Royaume magique de Landover - Int‚grale 1 [Royaume magique … vendre - 1/3] ş2018
 : .oY.     R     _BROOKS Terry                Royaume magique … vendre ! [Royaume magique … vendre - 1] ş1986 Magic Kingdom for Sale-sold! şTrad. PINGAULT Emmanuelle
 : .oY.     R     _BROOKS Terry                La Licorne noire [Royaume magique … vendre - 2] ş1987 The Black Unicorn şTrad. LE BOUCHER Fr‚d‚rique
 : .oY.     R     _BROOKS Terry                Le Sceptre et le sort [Royaume magique … vendre - 3] ş1988 Wizard at Large şTrad. LE BOUCHER Fr‚d‚rique
 o PYGM        ?  2018.03 ..... ISBN 978-2-7564-2277-0
 } pygf177        _(c)Shutterstock             ?
-- .oY.     R     _HOBB Robin                  Le Destin de l'assassin [Le Fou et l'assassin - 6][L'Assassin royal - 19] ş2017 Assassin's Fate şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Destin de l'assassin [Le Fou et l'assassin - 3.2][L'Assassin royal - 19] ş2017 Assassin's Fate şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2018.04 ..... ISBN 978-2-0814-1771-7
 } noimg          _Nicolas Galy                ?
 - .oF.     R     _CHILD Lincoln               Sang de lune [Jeremy Logan - 5] ş2017 Full Wolf Moon şTrad. GONDRAND Fabienne
 o PYGM        ?  2018.09 ..... ISBN 978-2-7564-2770-6
 } pygfy178       _(c)Shutterstock             ?
-- .oY.     R2    _HOBB Robin                  Le Fou et l'assassin - Int‚grale I [Le Fou et l'assassin - 1/2][L'Assassin royal - 14/15] ş2014 Fool's Assassin şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Le Fou et l'assassin [Le Fou et l'assassin - 1][L'Assassin royal - 14] ş2014 Fool's Assassin şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  La Fille de l'assassin [Le Fou et l'assassin - 2][L'Assassin royal - 15] ş2014 Fool's Assassin şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Fou et l'assassin - Int‚grale I [Le Fou et l'assassin - 1][L'Assassin royal - 14/15] ş2014 Fool's Assassin şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2018.07 ..... ISBN 978-2-7564-2361-6
 } noimg          _Nicolas Galy                ?
 - .o .     R     _ALTEN Steve                 En eaux troubles [Meg - 1] ş1997 MEG şTrad. ELIROFF Thibaud
@@ -891,8 +986,8 @@ o PYGM        ?  2018.09 ..... ISBN 978-2-7564-2400-2
 - .oF.     R     _JOMAIN Sophie               Rivalit‚s [Les ‚toiles de Noss Head - 2] ş2011
 o PYGM        ?  2018.10 ..... ISBN 978-2-7564-2385-2
 } pygfy179       _(c)Shutterstock             ?
-- .pY.    kN21   _MARTIN George R.R.         &Vauriens ş2014 Rogues şTrad. KUNTZER Benjamin
-&                _DOZOIS Gardner R.           
+- .pY.    kA21   *MARTIN George R.R.         &Vauriens ş2014 Rogues şTrad. KUNTZER Benjamin
+&                *DOZOIS Gardner R.           
 : .o .  11 p     _MARTIN George R.R.          Tout le monde aime les vauriens ş2014 Everybody Loves a Rogue
 : .oY.  21 N     _ABERCROMBIE Joe             Les temps sont durs pour tout le monde [Le Monde de la premiŠre loi] ş2014 Tough Times All Over şTrad. ?
 : .o .  57 N     _FLYNN Gillian               Qu'est-ce que vous faites dans la vie ? ş2014 What Do You Do?
@@ -927,7 +1022,7 @@ o PYGM        ?  2018.11 ..... ISBN 978-2-7564-2787-4
 - .oY.     R     _MARTIN George R.R.          Feu et sang [Le Tr“ne de fer] ş2018 Fire & Blood şTrad. MARCEL Patrick
 o PYGM        ?  2018.11 ..... ISBN 978-2-7564-2561-0
 } pygfy181       _(c)Shutterstock             ?
-- .oY.    kR3    _BROOKS Terry                Le Royaume magique Landover - Int‚grale 2 [Royaume magique … vendre - 4/6] ş2018
+- .oY.    kR3    _BROOKS Terry                Le Royaume magique de Landover - Int‚grale 2 [Royaume magique … vendre - 4/6] ş2018
 : .o .     R     _BROOKS Terry                La BoŒte … malice [Royaume magique … vendre - 4] ş1994 The Tangle Box şTrad. LE BOUCHER Fr‚d‚rique
 : .oY.     R     _BROOKS Terry                Le Brouet des sorciŠres [Royaume magique … vendre - 5] ş1995 Witches' Brew şTrad. LE BOUCHER Fr‚d‚rique
 : .oY.     R     _BROOKS Terry                Princesse de Landover [Royaume magique … vendre - 6] ş2009 A Princess of Landover şTrad. LE CHARPENTIER Laurence
@@ -936,6 +1031,7 @@ o PYGM        ?  2018.11 ..... ISBN 978-2-7564-2561-0
 !------------------------
 o PYGM        ?  2019.03 ..... ISBN 978-2-7564-2969-4 
 } noimg          _Solange Aguilar             ?
+!--- GF - 
 - .oF.    kN8    _BALASKO Josiane             Jamaiplu ş2019
 : .oF.     N     _BALASKO Josiane             Jamaiplu ş2019
 : .oF.     N     _BALASKO Josiane             Le Boss ş2019
@@ -959,9 +1055,7 @@ o PYGM        ?  2019.06 ..... ISBN 978-2-7564-2373-9
 - .oS.     R     _ALTEN Steve                 La Fosse [Meg - 2] ş1999 The Trench şTrad. ELIROFF Thibaud
 o PYGM        ?  2019.09 ..... ISBN 978-2-75643-052-2
 } pygfy184       _? Shutterstock              ?
-- .oY.     R2    _HOBB Robin                  Le Fou et l'assassin - Int‚grale II [Le Fou et l'assassin - 3/4][L'Assassin royal - 16/17] ş2015 Fool's Quest şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  En quˆte de vengeance [Le Fou et l'assassin - 3][L'Assassin royal - 16] ş2015 Fool's Quest şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Le Retour de l'assassin [Le Fou et l'assassin - 4][L'Assassin royal - 17] ş2015 Fool's Quest şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Fou et l'assassin - Int‚grale II [Le Fou et l'assassin - 2][L'Assassin royal - 16/17] ş2015 Fool's Quest şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2019.09 ..... ISBN 978-2-7564-2899-4
 } noimg          _?                           ?
 - .oF.     R     _MARTIN George R.R.          Rˆve de Fevre ş1983 Fevre Dream şTrad. ROBERT Alain
@@ -1004,11 +1098,9 @@ o PYGM        ?  2020.08 ..... ISBN 978-2-7564-3036-2
 !--- 146 x 222 mm - 400 pages - 21,90 euros
 - .oYJ     R     _COLFER Eoin                 Le Dernier Dragon sur Terre ş2020 Highfire şTrad. MENARD Jean-Fran‡ois
 o PYGM        ?  2020.09 ..... ISBN 978-2-7564-2885-7
-} noimg          _(c)Shutterstock             ?
+} pygfy191       _(c)Shutterstock             ?
 !--- 147 x 220 mm - 1152 pages - 24,90 euros
-- .oY.     R2    _HOBB Robin                  Le Fou et l'assassin - Int‚grale III [Le Fou et l'assassin - 5/6][L'Assassin royal - 18/19] ş2017 Assassin's Fate şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Sur les rives de l'art [Le Fou et l'assassin - 5][L'Assassin royal - 18] ş2017 Assassin's Fate şTrad. MOUSNIER-LOMPRE Arnaud
-: .oY.     R     _HOBB Robin                  Le Destin de l'assassin [Le Fou et l'assassin - 6][L'Assassin royal - 19] ş2017 Assassin's Fate şTrad. MOUSNIER-LOMPRE Arnaud
+- .oY.     R     _HOBB Robin                  Le Fou et l'assassin - Int‚grale III [Le Fou et l'assassin - 3][L'Assassin royal - 18/19] ş2017 Assassin's Fate şTrad. MOUSNIER-LOMPRE Arnaud
 o PYGM        ?  2020.10 ..... ISBN 978-2-7564-3030-0
 } noimg          _Stephen Youll               ?
 !--- 155 x 241 mm - 640 pages - 24,90 euros
@@ -1027,7 +1119,7 @@ o PYGM        ?  2020.10 ..... ISBN 978-2-7564-3030-0
 : .o . 321 N     _NIX Garth                   Le Bƒton dans la pierre ş2018 The Staff in the Stone şTrad. MOUSNIER-LOMPRE Arnaud
 : .o . 357 N     _BEAR Elizabeth              Pas de ma fabrication ş2018 No Work of Mine şTrad. MOUSNIER-LOMPRE Arnaud
 : .o . 385 N     _TIDHAR Lavie                La Faiseuse de veuves ş2018 Widow Maker şTrad. MOUSNIER-LOMPRE Arnaud
-: .o . 423 N     _VAN ECKHOUT Greg            Le Loup et la Manticore ş2018 The Wolf and the Manticore şTrad. MOUSNIER-LOMPRE Arnaud
+: .o . 423 N     _VAN EEKHOUT Greg            Le Loup et la Manticore ş2018 The Wolf and the Manticore şTrad. MOUSNIER-LOMPRE Arnaud
 : .o . 461 N     _MARTIN George R.R.          Une nuit dans la maison du lac ş2009 A Night at the Tarn House şTrad. MOUSNIER-LOMPRE Arnaud
 : .o . 501 N     _DUNCAN Andy                 Le Machin du Diable ş2018 The Devil's Whatever şTrad. MOUSNIER-LOMPRE Arnaud
 : .o . 541 N     _ELLIOTT Kate                closion ş2018 Bloom şTrad. MOUSNIER-LOMPRE Arnaud
@@ -1036,6 +1128,73 @@ o PYGM        ?  2020.11 ..... ISBN 978-2-0802-0606-0
 } noimg          _(c)Studio Flammarion        ?
 !--- 145 x 221 mm - 512 pages - 24,90 euros
 - .oY.     G     _HIBBERD James               Le Feu ne tue pas un dragon - L'histoire officielle du making of de la S‚rie ş? Fire Cannot Kill a Dragon şTrad. MENARD Jean-Fran‡ois
+!------------------------
+!=== 2021
+!------------------------
+o PYGM_FY     ?  2021.01 ..... ISBN 978-2-08-023651-7
+} noimg          _Marion Poinsot              ?
+!--- GF - 152 x 240 - 416 pages
+- .oY.     R     _LANG John                   A l'aventure, compagnons [Le Donjon de Naheulbeuk - 0] ş2013
+o PYGM        ?  2021.01 ..... ISBN 978-2-08-151065-4
+} noimg          _?                           ?
+!--- GF - 135 x 210 - 304 pages
+- .o .     R     _MONTGOLFIER Camille de      La Forˆt de Saint-Ambroise ş2021
+o PYGM        ?  2021.02 ..... ISBN 978-2-08-151617-5
+} noimg          _?                           ?
+!--- GF - 145 x 220 - 384 pages
+- .o .     R     _HOGAN Chuck                &Les Avides [Les Dossiers Blackwood - 1] ş2020 The Hollow Ones şTrad. ESPENAN AgnŠs 
+&                _DEL TORO Guillermo         
+o PYGM_FY     ?  2021.05 ..... ISBN 978-2-08-024559-5
+} noimg          _Marion Poinsot              ?
+!--- GF - 152x240 - 296 pages
+- .oY.     R     _LANG John                   La Couette de l'oubli [Le Donjon de Naheulbeuk - 1] ş2008
+o PYGM        ?  2021.09 ..... ISBN 978-2-7564-3090-4
+} noimg          _?                           ?
+!--- GF - 145x200 - 520 pages
+- .o .     R     _VILLAREAL Raymond A.        Histoire officielle de l'‚mergence des vampires ş2018 A People's History of the Vampire Uprising şTrad. GONDRAND Fabienne
+o PYGM        ?  2021.09 ..... ISBN 978-2-08-151052-4
+} noimg          _?                           ?
+!--- GF - 135x210 - 208 pages
+- .o .     R     _McGUIRE Seanan              Les Portes perdues [Les Enfants indociles - 1] ş2016 Every Heart a Doorway şTrad. KUNTZER Benjamin
+o PYGM        ?  2021.10 ..... ISBN 978-2-08-023087-4
+} noimg          _?                           ?
+!--- GF - 135x210 - 256 pages
+- .o .     R     _ROSESCU Adrien              Le Concert ş2021
+o PYGM_FY     ?  2021.10 ..... ISBN 978-2-08-024557-1
+} noimg          _Marion Poinsot              ?
+!--- GF - 152x240 - 384 pages
+- .oY.     R     _LANG John                   L'Orbe de Xaraz [Le Donjon de Naheulbeuk - 2] ş2009
+!------------------------
+!=== 2022
+!------------------------
+o PYGM        ?  2022.01 ..... ISBN 978-2-08-024267-9
+} noimg          _(c) Studio Flammarion       ?
+!--- GF - 152x240 - 320 pages - 21,90 euros
+- .oF.     R     _NOVIK Naomi                 Education meurtriŠre - Le‡on nø1 [Scholomance - 1] ş2020 A Deadly Education şTrad. KUNTZER Benjamin
+o PYGM        ?  2022.01 ..... ISBN 978-2-08-024555-7
+} noimg          _Marion Poinsot              ?
+!--- GF - 152x240 - 400 pages - 21,90 euros
+- .oY.     R     _LANG John                   Les Veilleurs de Glargh [Le Donjon de Naheulbeuk - 5] ş2019
+o PYGM        ?  2022.02 ..... ISBN 978-2-08-151053-1
+} noimg          _(c) Studio Flammarion       ?
+!--- MF - 135x210 - 216 pages - 19,90 euros
+- .oF.     R     _McGUIRE Seanan              De brindilles et d'os [Les Enfants indociles - 2] ş2017 Down Among the Sticks and Bones şTrad. KUNTZER Benjamin
+o PYGM        ?  2022.08 ..... ISBN 978-2-08-024554-0
+} noimg          _Marion Poinsot              ?
+!--- GF - 152x240 - 400 pages - 20,90 euros
+- .oY.     R     _LANG John                   Le Conseil de Suak [Le Donjon de Naheulbeuk - 3] ş2011
+o PYGM        ?  2022.10 ..... ISBN 978-2-08-024556-4
+} noimg          _Marion Poinsot              ?
+!--- GF - 152x240 - 424 pages - 20,90 euros
+- .oY.     R     _LANG John                   Chaos sous la montagne [Le Donjon de Naheulbeuk - 4] ş2014
+o PYGM        ?  2022.10 ..... ISBN 978-2-08-020639-8
+} noimg          _(c) Studio Flammarion       ?
+!--- GF - 130x210 - 352 pages - 21,90 euros
+- .oF.     R     _McLEOD CHAPMAN Clay         Le Remake ş2019 The Remaking şTrad. ELIROFF Thibaud
+
+
+
+
 
 
 
@@ -1045,7 +1204,7 @@ o PYGM        ?  2020.11 ..... ISBN 978-2-0802-0606-0
 
 
 !-----------------------------------------------------------------------------
-!--- Coll. Darklight
+!--- Collection Darklight
 !-----------------------------------------------------------------------------
 o PYGM_DL     ?  2010.11 ..... ISBN 978-2-75640-393-9
 } noimg          _?                           ?

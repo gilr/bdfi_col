@@ -23,7 +23,7 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ FERMI   Ed. Fermi, Coll. Les cent livres (Suisse)
+_ FERMI   Fermi (Suisse) - Les cent livres
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -42,7 +42,7 @@ o SWOF        7  1992.xx ..... ISBN .-.....-...-.
 : .o .     N     _POSSAMAI Adam M.            La Raison selon Janus ˛1992
 
 !-----------------------------------------------------------------------------
-_ ARCH    Archipel
+_ ARCH    Archipel (Lausanne, Suisse)
 !-----------------------------------------------------------------------------
 !--- Archipel - numÇro spÇcial en collaboration avec la Maisons d'Ailleurs
 !--- Revue littÇraire animÇe par des Çtudiants de l'universitÇ de Lausanne
@@ -67,8 +67,8 @@ o ARCH       24  2003.11 ..... ISBN .-.....-...-.
 : .oS.     N     _SANDOZ Thomas               Les Instants mathÇmatiques. Feuillets d'un carnet d'errance ˛2003
 
 !-----------------------------------------------------------------------------
-_ BACONN  Ed. de la Baconniäre (NeuchÉtel)
-_ BACONI  Ed. de la Baconniäre, Coll. Ibolya Virag (NeuchÉtel)
+_ BACONN  Editions de la Baconniäre (NeuchÉtel)
+_ BACONI  Editions de la Baconniäre (NeuchÉtel) - Ibolya Virag
 !-----------------------------------------------------------------------------
 !--- NÇes en 1927
 !-----------------------------------------------------------------------------
@@ -92,7 +92,7 @@ o BACONI      ?  2015.01 ..... ISBN 978-2-9404-3124-3
 - .oS.     R     _CAPEK Karel                 La Fabrique d'absolu ˛1922 Tov†rna na absolutno ˛Trad. DANES Jean et Jirina + OURDENIK A.
 
 !-----------------------------------------------------------------------------
-_ NOUVBIB Ed. de la Nouvelle Bibliothäque (La Chaux de Fonds)
+_ NOUVBIB Editions de la Nouvelle Bibliothäque (La Chaux de Fonds)
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -104,7 +104,7 @@ o NOUVBIB     ?  1949.xx ..... ISBN -
 - .o .     R     _LESKOV Nicolas              Le PÇlerin enchantÇ ˛1873 Otcharovanny strannik ˛Trad. CHEDEL AndrÇ
 
 !-----------------------------------------------------------------------------
-_ AUVERSE Ed. Au Verseau (Lausanne)
+_ AUVERSE Au Verseau (Lausanne)
 !-----------------------------------------------------------------------------
 o AUVERSE     ?  1931.xx ..... ISBN -
 } vers_sandoz31  _?                           ?
@@ -112,7 +112,7 @@ o AUVERSE     ?  1931.xx ..... ISBN -
 !--- In-8 reliure Çditeur
 !--- 96 pages 17.5 x 24.5
 !--- "Il s'agit ici du troisiäme ouvrage publiÇ de l'auteur, mais du premier concernant le fantastique"
-- .oKF    iN12   _SANDOZ Maurice              Contes et nouvelles ˛1931
+- .oKF     N12   _SANDOZ Maurice              Contes et nouvelles ˛1931
 : .o .     N     _SANDOZ Maurice              Le Jugement de Paris ˛1931
 : .o .     N     _SANDOZ Maurice              Le Maåtre et le Disciple ˛1931
 : .o .     N     _SANDOZ Maurice              L'HÇroisme de Messer JÇrìme ˛1931
@@ -155,7 +155,7 @@ o AUVERSE     ?  1939.xx ..... ISBN -
 : .o .     N     _SANDOZ Maurice              Les Bourguignons ressuscitent ˛1939
 
 !-----------------------------------------------------------------------------
-_ KUNDIG  Ed. Kundig (Genäve)
+_ KUNDIG  Kundig (Genäve)
 !-----------------------------------------------------------------------------
 o KUNDIG      ?  1941.xx ..... ISBN -
 } noimg          _?                           ?
@@ -169,7 +169,7 @@ o KUNDIG      ?  1949.07 ..... ISBN -
 : .o .     N     _SANDOZ Maurice              La Limite ˛1949
 
 !-----------------------------------------------------------------------------
-_ MERMOD  Ed. Mermod (Lausanne)
+_ MERMOD  Mermod (Lausanne)
 !-----------------------------------------------------------------------------
 o MERMOD      ?  1949.xx ..... ISBN -
 } noimg          _?                           Salvador Dali
@@ -178,14 +178,14 @@ o MERMOD      ?  1949.xx ..... ISBN -
 - .oF.     R     _SANDOZ Maurice              Le Labyrinthe ˛1941
 
 !-----------------------------------------------------------------------------
-_ MELCHIO Ed. Melchior, Coll. Sortiläge (Suisse)
+_ MELCHIO Melchior (Suisse) - Sortiläge
 !-----------------------------------------------------------------------------
 o MELCHIO     ?  1996.10 ..... ISBN 978-2-940024-03-2
 } noimg          _?                           ?
 - .oF.     R     _SANDOZ Maurice              Le Labyrinthe ˛1941
 
 !-----------------------------------------------------------------------------
-_ GUILDLI Ed. La Guilde du Livre (Lausanne)
+_ GUILDLI La Guilde du Livre (Lausanne)
 !-----------------------------------------------------------------------------
 o GUILDLI     ?  1957.xx ..... ISBN -
 } noimg          _?                           ?
@@ -197,7 +197,7 @@ o GUILDLI     ?  1975.09 ..... ISBN -
 ?: .o .     N     _KLOTZ Claude                Le Sort ˛1974
 
 !-----------------------------------------------------------------------------
-_ THUNEG  Ed. La Thune du Guay (Lausanne)
+_ THUNEG  La Thune du Guay (Lausanne)
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -206,7 +206,7 @@ o THUNEG      ?  1958.xx ..... ISBN -
 - .o .     R     _VELLE Louis                 Ma petite femme ˛1953
 
 !-----------------------------------------------------------------------------
-_ ECRITUR Ecriture
+_ ECRITUR Ecriture (Suisse)
 !-----------------------------------------------------------------------------
 !--- Revue suisse, a cessÇ de paraåtre en 2005
 !--- Revue littÇraire dirigÇe par Franáoise Fornerod, Daniel Maggetti, Sylviane Roche
@@ -216,34 +216,9 @@ o ECRITUR    28  1987.xx ..... ISBN -
 - .oF.     N     _MONOD Jean-Louis M.         "NÇnette" ou les vertus d'un traitement de cent doses... ˛1987
 
 !-----------------------------------------------------------------------------
-_ EGRAZ   Ed. des Egraz (Yverdon)
-!-----------------------------------------------------------------------------
-!--- 
-!-----------------------------------------------------------------------------
-o EGRAZ       ?  1973.xx ..... ISBN -
-} noimg          _?                           ?
-- .oS.     N15   _MONOD Jean-Louis M.         L'Appel ˛1973
-?: .o .     p     _OWEN Thomas                 ? ˛?
-: .o .     N     _MONOD Jean-Louis M.         Les jeux sont faits ˛1966
-: .o .     N     _MONOD Jean-Louis M.         Bianca ˛1973
-: .o .     N     _MONOD Jean-Louis M.         Le Reflet ˛1963
-: .o .     N     _MONOD Jean-Louis M.         Substitution ˛1961
-: .o .     N     _MONOD Jean-Louis M.         L'Ombre ˛1959
-: .o .     N     _MONOD Jean-Louis M.         Le Venin ˛1962
-: .o .     N     _MONOD Jean-Louis M.         La Toile ˛1959
-: .o .     N     _MONOD Jean-Louis M.         Remous ˛1963
-: .o .     N     _MONOD Jean-Louis M.         Le Revoir ˛1961
-: .o .     N     _MONOD Jean-Louis M.         L'Espoir qui tue ˛1962
-: .o .     N     _MONOD Jean-Louis M.         L'Accident ˛1962
-: .o .     N     _MONOD Jean-Louis M.         Aurore ˛1961
-: .o .     N     _MONOD Jean-Louis M.         DÇmence ˛1964
-: .o .     N     _MONOD Jean-Louis M.         Le Souper ˛1962
-: .o .     N     _MONOD Jean-Louis M.         L'Appel ˛1964
-
-!-----------------------------------------------------------------------------
-_ SLATKFL Ed. Slatkine, Coll. Fleuron
-_ SLATRES Slatkine (Suisse), Coll. Ressources
-_ SLATRPS Slatkine Reprints (Suisse), Coll. Ressources
+_ SLATKFL Slatkine (Suisse) - Fleuron
+_ SLATRES Slatkine (Suisse) - Ressources
+_ SLATRPS Slatkine Reprints (Suisse) - Ressources
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -272,7 +247,7 @@ o SLATKFL     ?  1997.03 ..... ISBN 2-05-101499-X
 - .oS.     R     _BECKFORD William            Vathek ˛1786
 
 !-----------------------------------------------------------------------------
-_ SLATKIN Ed. Slatkine & Cie
+_ SLATKIN Slatkine & Cie (Paris et Genäve)
 !-----------------------------------------------------------------------------
 !--- [Genäve] ; [Paris] : Slatkine & Cie
 !-----------------------------------------------------------------------------
@@ -281,9 +256,9 @@ o SLATKIN     ?  2019.xx ..... ISBN 978-2-88944-114-3
 - .oS.     R     _TOURVILLE Eric              Emergence ˛2019
 
 !-----------------------------------------------------------------------------
-_ EZOE    Ed. ZoÇ
+_ EZOE    ZoÇ (Suisse)
 !-----------------------------------------------------------------------------
-!--- Ed. ZoÇ
+!--- ZoÇ
 !-----------------------------------------------------------------------------
 o EZOE        ?  1997.xx ..... ISBN .-.....-...-.
 } noimg          _Gilles Francescano          ?
@@ -298,7 +273,7 @@ o EZOE        ?  1997.xx ..... ISBN .-.....-...-.
 
 !-----------------------------------------------------------------------------
 _ ZOE     ZoÇ (Suisse)
-_ ZOE_P   ZoÇ (Suisse), Poche
+_ ZOE_P   ZoÇ (Suisse) - Poche
 !-----------------------------------------------------------------------------
 !--- Carouge, Suisse
 !-----------------------------------------------------------------------------
@@ -338,7 +313,7 @@ o ZOE         ?  2008.01 ..... ISBN 978-2-88182-603-0
 - .oS.     R     _LOVAY Jean-Marc             RÇverbÇration ˛2008
 
 !-----------------------------------------------------------------------------
-_ CAMPICP Bernard Campiche Çditeur, camPoche (Suisse)
+_ CAMPICP Bernard Campiche Çditeur (Suisse) - camPoche
 !-----------------------------------------------------------------------------
 o CAMPICP    32  2009.xx ..... ISBN 978-2-88241-231-7
 } campoche32     _?                           N
@@ -368,7 +343,7 @@ o CAMPICP    32  2009.xx ..... ISBN 978-2-88241-231-7
 : .o .     N     _PANCHARD Georges            Comme une fumÇe ˛2004
 
 !-----------------------------------------------------------------------------
-_ ATAR    Ed. Atar (Genäve)
+_ ATAR    Atar (Genäve)
 !-----------------------------------------------------------------------------
 o ATAR        ?  1942.xx ..... ISBN -
 } noimg          _?                           ?
@@ -388,9 +363,9 @@ o EDALAC      ?  2005.xx ..... ISBN 2-88464-615-9
 - .oS.     R     _MAY Olivier                 Effet de serre ˛2005
 
 !-----------------------------------------------------------------------------
-_ EVENNUA Ed. de l'Eventail, Coll. Nuance
+_ EVENNUA Editions de l'Eventail (Suisse) - Nuance
 !-----------------------------------------------------------------------------
-!--- Voir Çgalement Ed. Michel Vincent, Coll. Nuance (France)
+!--- Voir Çgalement Editions Michel Vincent, Collection Nuance (France)
 !-----------------------------------------------------------------------------
 o EVENNUA     ?  1984.xx ..... ISBN -
 } evnuance_poe84 _?                           ?
@@ -401,7 +376,7 @@ o EVENNUA     ?  1984.xx ..... ISBN -
 : .o .     N     _POE Edgar Allan             Une descente dans le maelstrîm ˛1841 A Descent Into the Maelstrom ˛Trad. BAUDELAIRE Charles
 
 !-----------------------------------------------------------------------------
-_ ED36-8P Ed. -36¯, Coll. 8pA6 (Suisse)
+_ ED36-8P Editions -36¯ (Suisse) - 8pA6
 !-----------------------------------------------------------------------------
 !--- 
 !-----------------------------------------------------------------------------
@@ -410,14 +385,14 @@ o ED36-8P    88  2015.xx ..... ISBN -
 - .o .     n38   _DE LA VERDIERE Sylvain-RenÇ Micronomicon ˛2015
 
 !-----------------------------------------------------------------------------
-_ MONDO   Ed. Mondo (Suisse)
+_ MONDO   Mondo (Suisse)
 !-----------------------------------------------------------------------------
 !---  Lausanne
 !-----------------------------------------------------------------------------
 o MONDO       ?  1968.xx ..... ISBN -
 } mondo_rpsc5c   _Tony Casalonga              Tony Casalonga
-!--- Jaquette illustrÇe, couv. cartonnÇe toile, 77 illus. couleur
-!--- 166 pages
+!--- Jaquette illustrÇe, couv. cartonnÇe toile, 77 illustrations couleur
+!--- 166 pages - jaquette - reliÇ
 - .oN.    kN21   _SOUPAULT RÇ                &Contes des cinq continents ˛1968
 &                _SOUPAULT Philippe           
 : .o .     N     _SOUPAULT RÇ                &La Chance et la Raison ˛1955
@@ -485,15 +460,15 @@ o MONDO       ?  1968.xx ..... ISBN -
 !--- (Transylvanie)
 
 !-----------------------------------------------------------------------------
-_ EXLIBR  Ed. Ex Libris (Lausanne)
+_ EXLIBR  Ex Libris (Lausanne)
 !-----------------------------------------------------------------------------
 o EXLIBR      ?  1971.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _YOUNG Collier               L'êtrange Affaire Todd ˛1969 The Todd Dossier ˛Trad. LATOUR Robert
 
 !-----------------------------------------------------------------------------
-_ HELICEH Ed. HÇlice HÇlas (Vevey, Suisse)
-_ HELICEC Ed. HÇlice HÇlas, Coll. Cavorite et Calabi-Yau (Vevey, Suisse)
+_ HELICEH HÇlice HÇlas (Vevey, Suisse)
+_ HELICEC HÇlice HÇlas (Vevey, Suisse) - Cavorite et Calabi-Yau
 !-----------------------------------------------------------------------------
 o HELICEH     ?  2012.05 ..... ISBN 978-2-9700766-1-2
 } helice2012_1   _Krum                        ?
@@ -575,7 +550,7 @@ o HELICEH     ?  2018.09 ..... ISBN 978-2-940522-68-2
 o HELICEH     ?  2019.08 ..... ISBN 978-2-940522-67-5
 } helice2019_1   _?                           ?
 - .oS.     R     _FISCHLI Bernard             Donoma [Esmeralda - 2] ˛2019
-o HELICEH     ?  2019.08 ..... ISBN 978-2-940522-25-5
+o HELICEC     ?  2019.08 ..... ISBN 978-2-940522-25-5
 } helice2019_2   _?                           ?
 !--- 248 pages - 14 x 19 cm
 - .oS.     A9    ****                         Swiss Wars ˛2019
@@ -592,6 +567,23 @@ o HELICEH     ?  2020.03 ..... ISBN 978-2-940522-87-3
 } noimg          _?                           ?
 !--- GF - 135 x 190 mm - 248 pages - 18 euros
 - .oS.     R     _TESTA Philippe              L'Obscur ˛2020
+o HELICEC     ?  2020.11 ..... ISBN 978-2-940522-94-0
+} noimg          _?                           ?
+!--- GF - 135 x 190 mm - 240 pages - 18 euros
+- .oS.    iAx    ****                         Apräs ! Le monde bouleversÇ ˛2020
+: .o .     N     _FIEVET MÇlanie              Un point au large ˛2019
+: .o .     N     _PINNEL Philippe             Altäres Çgales ˛2020
+: .o .     N     _KUNZI Christophe            Errances numÇriques ˛2020
+: .o .     N     _BOISSARD Claire             What a wonderful world ˛2020
+o HELICEC     ?  2021.09 ..... ISBN 978-2-940700-08-0
+} noimg          _?                           ?
+!--- GF - 135 x 190 mm - 312 pages - 20 euros
+- .oS.    iAx    ****                         Bifurcation(s) ˛2021
+: .o .     N     _CERTALDI Florentin          Dernier thÇ en SibÇrie ˛2021
+: .o .     N     _ALUCQ Nicolas               La dame ne fait pas demi-tour ˛2021
+: .o .     N     _RIHS Guillaume              Candidats minusctules ˛2021
+: .o .     N     _WUST Tu                     Echanges Çpistellaires ˛2021
+: .o .     N     _PIGUET Tristan              Baby-on-chip ˛2021
 
 !-----------------------------------------------------------------------------
 _ LIBPAYL Lib. Payot (Lausanne)
@@ -630,7 +622,7 @@ o LIBPAYL     ?  1950.xx ..... ISBN -
 - .x .     E     _PROUMEN Henri-Jacques       Armes nouvelles dans une guerre future ˛1950
 
 !-----------------------------------------------------------------------------
-_ TERRLUM Ed. Terre de Lumiäre (Suisse, auto-Çditions)
+_ TERRLUM Terre de Lumiäre (Suisse) [auto-Çdition]
 !-----------------------------------------------------------------------------
 !--- Editeur orientÇ ÇsotÇrisme
 !--- Auto-Çditions
@@ -646,7 +638,7 @@ o TERRLUM     ?  2018.09 ..... ISBN 978-2-940448-86-9
 - .oS.     R     _LASSALLE Pierre             ProphÇtesse du Nouveau Monde [Kaya Dove - 2] ˛2018
 
 !-----------------------------------------------------------------------------
-_ PIERPHI Ed. Pierre Philippe
+_ PIERPHI Pierre Philippe (Suisse)
 !-----------------------------------------------------------------------------
 o PIERPHI     ?  2016.09 ..... ISBN 978-2-970107-86-6
 } noimg          _?                           ?
@@ -658,8 +650,171 @@ o PIERPHI     ?  2020.02 ..... ISBN 978-2-94060-227-8
 - .oY.     R     _PEREZ Deborah               L'êtoile de Lowilo II ˛2020
 
 !-----------------------------------------------------------------------------
-_ CALLIGR Ed. Calligram (Suisse)
+_ CALLIGR Calligram (Suisse)
 !-----------------------------------------------------------------------------
 o CALLIGR     ?  2006.xx ..... ISBN 2-88480-251-7 
 } noimg          _?                           ?
 - .oY.     R     _DRAGT Tonke                 Le Messager du chevalier noir ˛1962 De brief voor de Koning ˛Trad. NAGIELKOPF Monique
+
+!-----------------------------------------------------------------------------
+_ ATTING  Victor Attinger (NeuchÉtel)
+!-----------------------------------------------------------------------------
+!--- NeuchÉtel, Paris, V. Attinger ; (Saint-Aubin, Suisse, impr. de Haesler)
+!-----------------------------------------------------------------------------
+o ATTING      ?  1949.xx ..... ISBN -
+}attinger_seuil  _?                           N
+- .oS.    _N10   _ROGER Noâlle                Au seuil de l'invisible ˛1949
+: .oS.     N     _ROGER Noâlle                Au seuil de l'invisible ˛?
+: .oS.     N     _ROGER Noâlle                Le Camarade invisible ˛?
+: .oS.     N     _ROGER Noâlle                Les Secrets de monsieur Merlin ˛1949
+: .oS.     N     _ROGER Noâlle                Le Chalet du vieil homme ˛?
+: .oS.     N     _ROGER Noâlle                La Coupe de champagne ˛?
+: .oS.     N     _ROGER Noâlle                Le Venin ˛?
+: .oS.     N     _ROGER Noâlle                Le MystÇrieux Visiteur ˛?
+: .oS.     N     _ROGER Noâlle                Le Sacrifice d'un seul ˛?
+: .oS.     N     _ROGER Noâlle                La Messagäre ˛?
+: .oS.     N     _ROGER Noâlle                Les Demoiselles ˛?
+
+!-----------------------------------------------------------------------------
+!--- in Le journal de Genäve
+!-----------------------------------------------------------------------------
+_ JOURGEN Le journal de Genäve (Suisse)
+!-----------------------------------------------------------------------------
+o JOURGEN    72  1965.03 ..... ISBN -
+} noimg          _?                           ?
+- .p .     M     ****                         Le Journal de Genäve n¯ 72 ˛1965
+: .oK.     N     _MONOD Jean-Louis M.         Ce qui tue, c'est l'espoir ˛1962
+o JOURGEN   271  1965.11 ..... ISBN -
+} noimg          _?                           ?
+- .p .     M     ****                         Le Journal de Genäve n¯ 271 ˛1965
+: .oK.     N     _MONOD Jean-Louis M.         Le Souper ˛1962
+o JOURGEN     ?  1967.09 ..... ISBN -
+} noimg          _?                           ?
+>--- SERIAL : n¯ 218 Ö 221
+- .oF.     N     _MONOD Jean-Louis M.         Les jeux sont faits ˛1966
+
+!-----------------------------------------------------------------------------
+_ PDLIREn Plaisir de Lire (Suisse) [numÇrique]
+!-----------------------------------------------------------------------------
+!--- 
+!-----------------------------------------------------------------------------
+o PDLIREn     ?  2020.06 ..... ISBN -
+} noimg          _?                           ?
+- .p .     Ax    ****                         Histoire du soldat - 100 ans plus tard ˛xxx
+: .o .     N     _SBRETANA Louise             L'Histoire du Maudit ˛2020
+
+!-----------------------------------------------------------------------------
+_ LMDA    Editions de la Maison d'Ailleurs (Suisse)
+!-----------------------------------------------------------------------------
+!--- Editions Maison d'Ailleurs (Suisse)
+!--- La maison d'ailleurs
+!---  1400 Yverdon-les-bains, Suisse
+!-----------------------------------------------------------------------------
+o LMDA        ?  1990.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .    iAx    *GAILLARD Roger              Contes cosmiques ˛1990
+: .o .     N     _DELESSERT Chantal           La Grande Invasion ˛1990
+: .o .     N     _DELESSERT Chantal           Le Souvenir de Nyota ˛1990
+o LMDA        ?  1992.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oS.    _A6    *GAILLARD Roger              Voyageons dans l'espace... ˛1992
+: .o .     N     _DELESSERT Chantal           Jean ˛1992
+: .o .     N     _FISCHLI Bernard             Retour Ö la Lune ˛1992
+: .o .     N     _FROIDEVAUX Michel           De la plÇnitude des trous ˛1992
+: .o .     N     _MARTINIGOL Danielle         Cräve horizons ˛1992
+: .o .     N     _VALERY Francis              Suraa Kerta ˛1992
+: .o .     N     _LEHMAN Serge                La SidÇration ˛1992
+o LMDA        ?  1994.04 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     A5    *GAILLARD Roger              Parapsychologie, science et fiction ˛1994
+!--- Textes critiques et fictions
+: .oS.     N     _BELMAS Claire              &Au bois des Çpivants [Cycle des Terres Mortes] ˛1994
+&                _BELMAS Robert               
+: .o .     N     _DELESSERT Chantal           Singulier ˛1994
+: .o .     N     _LE BUSSY Alain              Deux ˛1994
+: .oS.     N     _DI ROLLO Thierry            Petit ours en peluche ˛1994
+: .o .     N     _LEHMAN Serge                Dans l'abåme ˛1994
+!--- !--- Contributions critiques :
+!--- - Parapsychologie : science ou fiction ? de Pierre Dutoit
+!--- - Hugo Gernsback et la tÇlÇpathie de Michel Meurger
+!--- - Histoires mÇtapsychiques de Joseph Altairac
+!--- - Images parapsychiques de Daniel Riche
+!--- - La rencontrre avec le CrÇateur de Denis Matthey-Claudet
+
+!-----------------------------------------------------------------------------
+_ PVP     Persistance de la Vision (Suisse, Yverdons-les-Bains)
+!-----------------------------------------------------------------------------
+!--- Persistance de la vision - Les Images de la Science-fiction
+!--- 27 au 30 avril 1995
+!-----------------------------------------------------------------------------
+o PVP         ?  1995.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .p .     Mx    ****                         Programme de la 5e convention francophone et 22e convention franáaise de SF ˛xxx
+: .o .     N     _TRUDEL Jean-Louis           ElÇments de la chaleur et de la froidure ˛1995
+
+!-----------------------------------------------------------------------------
+_ DAIL    D'ailleurs (Suisse)
+!-----------------------------------------------------------------------------
+!--- D'ailleurs (Suisse)
+!-----------------------------------------------------------------------------
+o DAIL       10  1993.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     Mx    ****                         D'ailleurs n¯ 10, SpÇcial jeux ˛1993
+: .o .     N     _DELESSERT Chantal           Arcane ˛1993
+
+!-----------------------------------------------------------------------------
+_ RAMPE   Editions de la Rampe (NeuchÉtel, Suisse)
+!-----------------------------------------------------------------------------
+!--- Editions de la Rampe
+!-----------------------------------------------------------------------------
+o RAMPE       ?  1976.xx ..... ISBN .-....-....-.
+} rampe_db76     _?                           ?
+- .oF.     N12   _BLATTLIN Dominique          La Peau de Garou ˛1976
+: .o .     N     _BLATTLIN Dominique          La Peau de Garou ˛1976
+: .o .     N     _BLATTLIN Dominique          Geneviäve ˛1976
+: .o .     N     _BLATTLIN Dominique          La Gigue du diable ˛1974
+: .o .     N     _BLATTLIN Dominique          L'Oeil dans la muraille ˛1975
+: .o .     N     _BLATTLIN Dominique          L'Arc-En-ciel ˛1976
+: .o .     N     _BLATTLIN Dominique          Les Gisants du chÉteau des brumes ˛1972
+: .o .     N     _BLATTLIN Dominique          Pauvre amour ˛1976
+: .o .     N     _BLATTLIN Dominique          Loak ˛1973
+: .o .     N     _BLATTLIN Dominique          Les Pendus de la lande ˛1971
+: .o .     N     _BLATTLIN Dominique          Le Monastäre dans la tempàte ˛1976
+: .o .     N     _BLATTLIN Dominique          Les Lutins ˛1976
+: .o .     N     _BLATTLIN Dominique          Jud Kahn ˛1976
+
+!-----------------------------------------------------------------------------
+_ ADSE    Ad Solem Editions (Suisse)
+!-----------------------------------------------------------------------------
+!--- Ad Solem Editions (Suisse)
+!-----------------------------------------------------------------------------
+o ADSE        ?  2002.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     E     _CALDECOTT Stratford        &Tolkien, faârie et Christianisme ˛2002
+&                _RANCE Didier               &
+&                _SOLARI GrÇgory              
+
+!-----------------------------------------------------------------------------
+_ NECT    Nectar (Suisse)
+!-----------------------------------------------------------------------------
+!--- Editions Nectar, Lausanne (Suisse)
+!-----------------------------------------------------------------------------
+o NECT        ?  1982.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     A11   ****                         L'Empire du milieu - Suisse-fiction ˛1982
+: .o .     N     _THOMAS Jean-Franáois        Le Poutche ˛1982
+: .o .     N     _PANCHARD Georges            PÉle-Soleil ˛1982
+: .o .     N     _FROIDEVAUX Michel           L'êcole supÇrieure d'humour ˛1982
+: .o .     N     _GAILLARD Roger              Initiative zÇro ˛1982
+: .o .     N     _BUHLER Michel               Le Voyage des petits cancers ˛1982
+: .o .     N     _BARLOW George W.            Mais le vert paradis ˛1982
+: .o .     N     _ROUILLER Franáois           Une passion soluble ˛1982
+: .o .     N     _BOZZETTO Roger             &En toi hors de toi ˛1982
+&                _LECIGNE Bruno               
+: .o .     N     _BERTHOLET Patrick           Protocole ˛1982
+: .o .     N     _BERTHOLET Patrick           Paranotex ˛1982
+: .o .     N     _VONARBURG Elisabeth         Thalassa ˛1982
+!--- extrait d'un roman non paru (extrait en version antÇrieure du dÇbut de Tyranael)
+!--- postface de Gaillard
+!--- entrevue avec GIGER
+

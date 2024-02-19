@@ -4,30 +4,32 @@
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 _ LEFR    Lefrancq
-_ LEFRCRI Lefrancq, Coll. Contes et R‚cits Illustr‚s
-_ LEFR_AV Lefrancq, Coll. "D'Aventure"
-_ LEFT    Lefrancq, Coll. Thriller Fantastique (GdF)
-_ LEFR_LI Lefrancq, Coll. Lefrancq Litt‚rature
-_ LEFR_PO Lefrancq, Coll. Lefrancq Litt‚rature - Lefrancq en Poche
-_ LEFATT  Lefrancq Attitudes Best Seller
-_ LEFATTM Lefrancq Attitudes MystŠre
-_ LEFB    Lefrancq, Coll. "Bob Morane"
-_ VOLU    Lefrancq, Coll. "Volumes"
-_ ANANKL  Ed. Anank‚/Lefrancq
-_ ANA2    Ed. Anank‚/Lefrancq, Coll. Bob Morane en poche, S‚rie 2000
-_ ANA3    Ed. Anank‚/Lefrancq, Coll. Bob Morane en poche, S‚rie 3000
-_ ANA4    Ed. Anank‚/Lefrancq, Coll. Bob Morane en poche, S‚rie 4000
-_ ANANKE  Ed. Anank‚
-_ ANANK2  Ed. Anank‚ (Bruxelles), Coll. Bob Morane en poche, S‚rie 2000
-_ ANANKV  Ed. Anank‚ (Bruxelles), Coll. "Volumes"
-_ ANANKBD Ed. Anank‚ (Bruxelles), Coll. Bob Morane "Roman+BD"
-_ ANANKGF Ed. Anank‚ (Bruxelles), Coll. Grand Format
-_ ANANKBG Ed. Anank‚ (Bruxelles), Coll. Bob Morane Grand Format
-_ LAGEDOR Ed. L'Age d'Or (Bruxelles), Coll. Bob Morane Grand Format
-_ BOBMINC Ed. Bob Morane Inc. (Bruxelles), Coll. Bob Morane Grand Format
-_ ANANKHC Ed. Anank‚ (Bruxelles), S‚rie HC
-_ ANANKAI Ed. Anank‚ (Bruxelles), Coll. L'Aventure Illustr‚e
-_ AGEDORI Ed. L'Age d'Or (Bruxelles), Coll. L'Aventure Illustr‚e
+_ LEFR_DP Lefrancq - Les dossiers de Ph‚nix
+_ LEFRCRI Lefrancq - Contes et R‚cits Illustr‚s
+_ LEFR_AV Lefrancq - "D'Aventure"
+_ LEFT    Lefrancq - Thriller Fantastique
+_ LEFR_LI Lefrancq - Lefrancq Litt‚rature
+_ LEFR_PO Lefrancq - Lefrancq Litt‚rature, Lefrancq en poche
+_ LEFATT  Lefrancq - Attitudes
+_ LEFATTM Lefrancq - Attitudes MystŠre
+_ LEFB    Lefrancq - "Bob Morane"
+_ VOLU    Lefrancq - "Volumes"
+_ ANANKL  Anank‚/Lefrancq
+_ ANA2    Anank‚/Lefrancq - Bob Morane en poche - S‚rie 2000
+_ ANA3    Anank‚/Lefrancq - Bob Morane en poche - S‚rie 3000
+_ ANA4    Anank‚/Lefrancq - Bob Morane en poche - S‚rie 4000
+_ ANANKE  Anank‚
+_ ANANK2  Anank‚ (Bruxelles) - Bob Morane en poche - S‚rie 2000
+_ ANANKV  Anank‚ (Bruxelles) - "Volumes"
+_ ANANKBD Anank‚ (Bruxelles) - Bob Morane "Roman+BD"
+_ ANANKGF Anank‚ (Bruxelles) - Grand Format
+_ ANANKBG Anank‚ (Bruxelles) - Bob Morane Grand Format
+_ LAGEDOG L'Age d'Or (Bruxelles) - Bob Morane Grand Format
+_ LAGEDOR L'Age d'Or (Bruxelles) - Bob Morane Grand Format
+_ BOBMINC Bob Morane Inc. (Bruxelles) - Bob Morane Grand Format
+_ ANANKHC Anank‚ (Bruxelles) - S‚rie HC
+_ ANANKAI Anank‚ (Bruxelles) - L'Aventure Illustr‚e
+_ AGEDORI L'Age d'Or (Bruxelles) - L'Aventure Illustr‚e
 !-----------------------------------------------------------------------------
 
 o LEFR        ?  1997.xx ..... ISBN 2-87153-...-.
@@ -43,6 +45,13 @@ o LEFR        ?  1999.xx ..... ISBN 2-87153-...-.
 } noimg          _?                           ?
 - .oF.     R     _DARNAUDET Fran‡ois          Le Fant“me d'Orsay þ1999
 
+!-----------------------------------------------------------------------------
+!--- COLL : les dossiers de ph‚nix
+!-----------------------------------------------------------------------------
+o LEFR_DP     2  1995.06 ..... ISBN 2-87153-228-1
+} noimg          _Gilles Francescano          ?
+!--- ? - 145x205 - 245 pages
+- .o .     E     ****                         Stephen King þ1995
 !-----------------------------------------------------------------------------
 !--- Contes et r‚cits illustr‚s
 !-----------------------------------------------------------------------------
@@ -74,7 +83,7 @@ o LEFRCRI     ?  1987.12 ..... ISBN 2-87153-003-3
 !-----------------------------------------------------------------------------
 o LEFR_AV     1  1991.xx ..... ISBN 2-87153-052-1
 } daventure01_1  _?                           ?
-- .o .     R     _ASIMOV Isaac                Les Poisons de Mars [David Starr - 1] þ1952 David Starr Space Ranger
+- .o .     R     _ASIMOV Isaac                Les Poisons de Mars [David Starr - 1] þ1952 David Starr Space Ranger þTrad. COUTURIAU Paul
 o LEFR_AV     2  1991.xx ..... ISBN 2-87153-...-.
 } daventure02_1  _?                           ?
 -  x .     R     _JOHNS W.E.                  L'Oiseau de nuit [Biggles] þ1967 Biggles and the Dark Intruder
@@ -102,7 +111,7 @@ o LEFR_AV     4  1991.xx ..... ISBN 2-87153-054-8
 !--- 5 _STOUT Rex    Un go–t d'amertume [Nero Wolf - 1]
 o LEFR_AV     6  1991.xx ..... ISBN 2-87153-062-9
 } daventure06_1  _?                           ?
-- .o .     R     _ASIMOV Isaac                Les Pirates des ast‚ro‹des [David Starr - 2] þ1953 Lucky Starr and the Pirates of the Asteroids
+- .o .     R     _ASIMOV Isaac                Les Pirates des ast‚ro‹des [David Starr - 2] þ1953 Lucky Starr and the Pirates of the Asteroids þTrad. COUTURIAU Paul
 o LEFR_AV     8i 1991.xx ..... ISBN 2-87153-067-X
 } daventure08_1  _?                           ?
 - .oS.    kN8    _BLISH James                 Le Duel [Star Trek] þ1968 Star Trek 2
@@ -128,14 +137,14 @@ o LEFR_AV     8i 1991.xx ..... ISBN 2-87153-067-X
 !-- 2-87153-066-1
 
 !-----------------------------------------------------------------------------
-!--- Lefrancq litt‚rature - collection Thriller fantastique (GF)
+!--- Lefrancq litt‚rature - collection Thriller fantastique [GF]
 !-----------------------------------------------------------------------------
 o LEFT        ?  1998.xx ..... ISBN 2-87153-...-.
 } noimg          _?                           ?
-- .o .     R     _GALLERNE Gilbert            Magie noire þ?
+- .oT.     R     _GALLERNE Gilbert            Magie noire þ1998
 o LEFT        ?  1998.xx ..... ISBN 2-87153-...-.
 } noimg          _?                           ?
-- .o .     R     _MASTERTON Graham            La Mort noire þ1977 Plague
+- .x .     R     _MASTERTON Graham            La Mort noire þ1977 Plague
 o LEFT        ?  1998.05 ..... ISBN 2-87153-276-1
 } noimg          _?                           ?
 - .o .     R     _FARRIS John                 Pratiques douteuses þ1974 Sharp Practice
@@ -145,7 +154,7 @@ o LEFT        ?  1998.xx ..... ISBN 2-87153-...-.
 : .o .     N     _VERLINDEN Patrick           T.O be or not T.O. be ? þ1998
 
 !-----------------------------------------------------------------------------
-!--- Lefrancq litt‚rature (GF)
+!--- Lefrancq litt‚rature [GF]
 !-----------------------------------------------------------------------------
 o LEFATT      ?  1991.xx ..... ISBN 2-87153-046-7
 } noimg          _?                           ?
@@ -185,7 +194,7 @@ o LEFATT      ?  1997.09 ..... ISBN 2-87153-...-.
 } noimg          _?                           ?
 - .o .     R     _BRADLEY Marion Zimmer      &Tigre, feu et flamme þ1995 Tiger Burning Bright þTrad. LEBAILLY Monique
 &                _LACKEY Mercedes            &
-&                _NORTON Andr‚                
+&                _NORTON Andre                
 o LEFR_LI     ?  1998.xx ..... ISBN 2-87153-...-.
 } noimg          _?                           ?
 - .o .     R     _EFRATAS Pierre              La Nuit des stellaires [Le Roman de Pontfol - 1][Cycle des gardiens de la table d'‚meraude] þ1998
@@ -201,15 +210,15 @@ o LEFR        ?  1997.05 ..... ISBN 2-87153-...-.
 - .o .     R     _VERNES Henri                La guerre du Pacifique n'aura pas lieu [Bob Morane - 177] þ1997
 o LEFR        ?  1998.xx ..... ISBN 2-87153-...-.
 } noimg          _?                           ?
-- .o .     R     _SAUL John                   Le Somnanbule þ1991 Sleepwalk
+- .o .     R     _SAUL John                   Le Somnambule þ1991 Sleepwalk
 
 !-----------------------------------------------------------------------------
 !--- Lefrancq litt‚rature
 !-----------------------------------------------------------------------------
 o LEFR_LI     ?  1998.xx ..... ISBN 2-87153-...-.
+!--- Lefrancq litt‚rature [poche]
 } noimg          _?                           ?
 - .o .     R     _SAUL John                   Quand souffle le vent þ1981 When the Wind Blows þTrad. VANDERMEULEN Muriel
-!--- Lefrancq litt‚rature (poche)
 
 !-----------------------------------------------------------------------------
 !--- Lefrancq litt‚rature, Lefranc en Poche
@@ -238,22 +247,22 @@ o LEFR_PO  1007  1997.11 R.... ISBN 2-87153-382-2
 - .oS.     R     _HARRISON Harry              La PlanŠte des esclaves-robots [Bill, le h‚ros galactique - 2] þ1989 Bill, the Galactic Hero - The Planet of the Robot Slaves þTrad. HERMAND Marie-Odile
 o LEFR_PO  1010  1996.xx ..... ISBN 2-87153-366-0
 }lefrancq_p1010  _?                           N
-- .o .     R     _ASIMOV Isaac                Les Poisons de Mars [David Starr - 1] þ1952 David Starr Space Ranger
+- .o .     R     _ASIMOV Isaac                Les Poisons de Mars [David Starr - 1] þ1952 David Starr Space Ranger þTrad. COUTURIAU Paul
 o LEFR_PO  1011  1997.xx ..... ISBN 2-87153-397-0
 }lefrancq_p1011  _?                           N
-- .o .     R     _ASIMOV Isaac                Les Pirates des ast‚ro‹des [David Starr - 2] þ1953 Lucky Starr and the Pirates of the Asteroids
+- .o .     R     _ASIMOV Isaac                Les Pirates des ast‚ro‹des [David Starr - 2] þ1953 Lucky Starr and the Pirates of the Asteroids þTrad. COUTURIAU Paul
 o LEFR_PO  1012  1997.xx ..... ISBN 2-87153-437-3
 }lefrancq_p1012  _?                           N
-- .o .     R     _ASIMOV Isaac                Les Oc‚ans de V‚nus [David Starr - 3] þ1954 Lucky Starr and the Oceans of Venus
+- .o .     R     _ASIMOV Isaac                Les Oc‚ans de V‚nus [David Starr - 3] þ1954 Lucky Starr and the Oceans of Venus þTrad. COUTURIAU Paul
 ?o LEFR_PO  1014  1998.xx ..... ISBN 2-87153-...-.
 ?} noimg          _?                           ?
-?- .o .     R     _ASIMOV Isaac                La Fournaise de Mercure [David Starr - 4] þ1956 Lucky Starr and the Big Sun of Mercury
+?- .o .     R     _ASIMOV Isaac                La Fournaise de Mercure [David Starr - 4] þ1956 Lucky Starr and the Big Sun of Mercury þTrad. COUTURIAU Paul
 ?o LEFR_PO  1015  1998.xx ..... ISBN 2-87153-...-.
 ?} noimg          _?                           ?
-?- .o .     R     _ASIMOV Isaac                Les Lunes de Jupiter [David Starr - 5] þ1957 Lucky Starr and the Moons of Jupiter
+?- .o .     R     _ASIMOV Isaac                Les Lunes de Jupiter [David Starr - 5] þ1957 Lucky Starr and the Moons of Jupiter þTrad. COUTURIAU Paul
 ?o LEFR_PO  1016  1998.xx ..... ISBN 2-87153-...-.
 ?} noimg          _?                           ?
-?- .o .     R     _ASIMOV Isaac                Les Anneaux de Saturne [David Starr - 6] þ1958 Lucky Starr and the Rings of Saturne
+?- .o .     R     _ASIMOV Isaac                Les Anneaux de Saturne [David Starr - 6] þ1958 Lucky Starr and the Rings of Saturne þTrad. COUTURIAU Paul
 o LEFR_PO  2101  1996.xx ..... ISBN 2-87153-268-0
 }lefrancq_p2101  _?                           N
 - .oF.     N27   _RAY Jean                    Les Contes du whisky þ1925
@@ -348,7 +357,7 @@ o LEFR_PO  2105  1996.07 R.... ISBN 2-87153-318-0
 : .o .     N     _OWEN Thomas                 Le Petit Fant“me þ1958
 : .o .     a     _OWEN Thomas                 Au cimetiŠre de Bernkastel (Article sur Jean Ray) þ1955
 : .o .     N     _OWEN Thomas                 La Dame de Saint-P‚tersbourg þ1965
-: .o .     N     _OWEN Thomas                 Bagatelles douces þ?
+: .o .     N     _OWEN Thomas                 Bagatelles douces þ1952
 : .o .     N     _OWEN Thomas                 La Tentation de Saint-Antoine þ1965
 : .o .     N     _OWEN Thomas                 Etranger … Tabiano þ1963
 o LEFR_PO  2106  1996.xx ..... ISBN 2-87153-363-6
@@ -569,7 +578,7 @@ o LEFB       38  1996.xx ..... ISBN 2-87153-...-.
 - .o .     R     _VERNES Henri                Les Voleurs de m‚moire [Le Cycle du Tigre - 1][Bob Morane - 121] þ1973
 o LEFB       39  1996.xx ..... ISBN 2-87153-...-.
 } noimg          _?                           ?
-- .o .     R     _VERNES Henri                La Couronne de Golconde [Bob Morane - 33] þ1959
+- .o .     R     _VERNES Henri                La Couronne de Golconde [L'Ombre Jaune][Bob Morane - 33] þ1959
 o LEFB       40  1996.xx ..... ISBN 2-87153-...-.
 } noimg          _?                           ?
 - .o .     R     _VERNES Henri                Les Berges du temps [Bob Morane - 159] þ1989
@@ -626,7 +635,7 @@ o LEFB       57  1998.xx ..... ISBN 2-87153-546-9
 - .o .     R     _VERNES Henri                Santeria Drums [Bob Morane - 178] þ1998
 o LEFB       58  1998.xx ..... ISBN 2-87153-...-.
 } noimg          _?                           ?
-- .o .     R     _VERNES Henri                Le Jade de S‚oul [Miss Ylang-Ylang][L'Ombre Jaune][Bob Morane - 161] þ1990
+- .o .     R     _VERNES Henri                Le Jade de S‚oul [Miss Ylang-Ylang]|[L'Ombre Jaune]<[Bob Morane - 161] þ1990
 o LEFB       59  1998.xx ..... ISBN 2-87153-...-.
 } noimg          _?                           ?
 - .o .     R     _VERNES Henri                L'H‚ritage de l'Ombre Jaune [L'Ombre Jaune][Bob Morane - 63] þ1963
@@ -667,6 +676,15 @@ o LEFATTM     ?  1993.xx ..... ISBN 2-87153-110-2
 !--- Ill Nicollet, postface Henri Vernes
 : .o .     r     _RAY Jean                    Le Myst‚rieux Retardataire [Harry Dickson] þ? De geheimnzinnige achterblijver þTrad. GOIDTS Francis
 : .o .     r     _RAY Jean                    La Guillotine ensorcel‚e [Harry Dickson] þ? De behekste gieljotien þTrad. GOIDTS Francis
+o LEFATT      ?  1996.xx ..... ISBN 2-87153-285-0
+} noimg          _?                           ?
+!--- GF - 24 cm - 428 pages 
+- .o .     R     _NICHOLS Nichelle           &L'Enfant de Saturne þ1995 Saturn's Child þTrad. HENGEN Dimitra
+&                _BONANNO Margaret Wander     
+o LEFATT      ?  1996.08 ..... ISBN 2-87153-337-7
+} noimg          _Photo de S.K.               ?
+!--- ? - 150x235 - 450 pages
+- .o .     E     _BEAHM George                Stephen King þ1995 The Stephen King Companion þTrad. CORTHOUTS Christophe
 o LEFATT      ?  1999.xx ..... ISBN 2-87153-...-.
 } noimg          _?                           ?
 - .o .     R     _LUMLEY Brian                La Source [N‚croscope - 3] þ1989 The Source
@@ -699,6 +717,10 @@ o LEFR_PO  1103  1997.xx ..... ISBN 2-87153-315-6
 o LEFR_PO  2001  2001.xx ..... ISBN 2-87153-362-8
 } noimg          _?                           ?
 - .x .     R     _CUSSLER Clive               Mayday ! [Dirk Pitt - 2] þ1973 The Mediterranean Caper / Mayday! þTrad. DELPERDANGE Patrick
+o LEFR_PO  2003  1997.08 ..... ISBN 2-87153-458-6
+} noimg          _Photo de S.K.               ?
+!--- ? - 110x180 - 450 pages
+- .o .     E     _BEAHM George                Stephen King þ1995 The Stephen King Companion þTrad. CORTHOUTS Christophe
 o LEFR_PO  2113  1998.07 ..... ISBN 2-87153-476-4
 } noimg          _?                           _?
 - .pF.    iNx    _VAN HERP Jacques            Le Rescap‚ du Fenris þ1997
@@ -727,7 +749,6 @@ o LEFR_PO  2113  1998.07 ..... ISBN 2-87153-476-4
 !--- Parutions chez Lefrancq
 !--- O'Neil Batman - Cr‚pulcule
 !--- Ray Les contes du whisky
-!--- Nichols Enfant de Saturne
 
 !-----------------------------------------------------------------------------
 !---                      Lefrancq - Collection "Volumes"
@@ -893,11 +914,11 @@ o VOLU        ?  1994.xx ..... ISBN 2-87153-164-1
 o VOLU        ?  1994.xx ..... ISBN 2-87153-174-9
 } lefvol14       _Patrice Sanahujas           ?
 - .oS.    kR5    _BURROUGHS Edgar Rice        John Carter, le cycle de Mars - 1 [Cycle de Mars - 1/5] þ1994
-: .o .     R     _BURROUGHS Edgar Rice        La Princesse de Mars [Cycle de Mars - 1] þ1912 Under the Moons of Mars / A Princess of Mars
-: .o .     R     _BURROUGHS Edgar Rice        Les Dieux de Mars [Cycle de Mars - 2] þ1913 The Gods of Mars
-: .o .     R     _BURROUGHS Edgar Rice        Le Seigneur de la guerre de Mars [Cycle de Mars - 3] þ1914 The Warlords of Mars
+: .o .     R     _BURROUGHS Edgar Rice        La Princesse de Mars [Cycle de Mars - 1] þ1912 Under the Moons of Mars / A Princess of Mars / Carter of the Red Planet / The Princess of Mars
+: .o .     R     _BURROUGHS Edgar Rice        Les Dieux de Mars [Cycle de Mars - 2] þ1913 The Gods of Mars / Gods of Mars
+: .o .     R     _BURROUGHS Edgar Rice        Le Seigneur de la guerre de Mars [Cycle de Mars - 3] þ1914 The Warlord of Mars / Warlord of Mars
 : .o .     R     _BURROUGHS Edgar Rice        Thuvia, vierge de Mars [Cycle de Mars - 4] þ1916 Thuvia Maid of Mars
-: .o .     R     _BURROUGHS Edgar Rice        Les Pions humains du jeu d'‚checs de Mars [Cycle de Mars - 5] þ1922 The Chessmen of Mars
+: .o .     R     _BURROUGHS Edgar Rice        Les Pions humains du jeu d'‚checs de Mars [Cycle de Mars - 5] þ1922 The Chessmen of Mars / Chessmen of Mars
 o VOLU        ?  1994.xx ..... ISBN 2-87153-175-7
 } lefvol15       _Patrice Sanahujas           ?
 + VOLU        ?  1994.xx ..... ISBN 2-87153-175-7
@@ -913,7 +934,7 @@ o VOLU        ?  1994.xx ..... ISBN 2-87153-175-7
 : .o .     N     _VERNES Henri                La Jeunesse de l'Ombre Jaune - 3 [L'Ombre Jaune][Bob Morane] þ1994
 o VOLU        ?  1994.xx ..... ISBN 2-87153-184-6
 } lefvol16       _Ren‚ Follet                 ?
-- .oF.    iN10   _RAY Jean                    Harry Dickson - 2 [Harry Dickson] þ1994
+- .oF.     N10   _RAY Jean                    Harry Dickson - 2 [Harry Dickson] þ1994
 !--- 1995 et r‚edition 1997  :   couverture et dos de follet   reproduction des 6 couvertures originales fran‡aise
 !--   10 aventures  dont 4 ecrites  par Jean Ray et 6  non ( 4 traduites pour la 1er fois , 2 deja traduites anterieurement )
 : .o .     r     _RAY Jean                    Les Gardiens du gouffre [Harry Dickson] þ1932
@@ -1102,7 +1123,7 @@ o VOLU        ?  1996.xx ..... ISBN 2-87153-211-7
 = .o .     N     _OWEN Thomas                 Le Petit Fant“me þ1958
 = .o .     a     _OWEN Thomas                 Au cimetiŠre de Bernkastel (Article sur Jean Ray) þ1955
 = .o .     N     _OWEN Thomas                 La Dame de Saint-P‚tersbourg þ1965
-= .o .     N     _OWEN Thomas                 Bagatelles douces þ?
+= .o .     N     _OWEN Thomas                 Bagatelles douces þ1952
 = .o .     N     _OWEN Thomas                 La Tentation de Saint-Antoine þ1965
 = .o .     N     _OWEN Thomas                 Etranger … Tabiano þ1963
 o VOLU        ?  1996.xx ..... ISBN 2-87153-212-5
@@ -1113,7 +1134,7 @@ o VOLU        ?  1996.xx ..... ISBN 2-87153-212-5
 : .o .     R     _BURROUGHS Edgar Rice        Les H‚ritiers de la Lune [Cycle de la Lune - 3] þ1925 The Red Hawk þTrad. BLOND Martine
 : .o .     R     _BURROUGHS Edgar Rice        Le Seigneur des monstres þ1913 The Monster Men
 !--- publi‚e d'abord sous "The man without a soul"
-: .o .     R     _BURROUGHS Edgar Rice        L'Odyss‚e barbare þ1916 Beyond Thirty
+: .o .     r     _BURROUGHS Edgar Rice        L'Odyss‚e barbare þ1916 Beyond Thirty / The Lost Continent þTrad. BLOND Martine
 : .o .     R     _BURROUGHS Edgar Rice        La R‚volte des savants þ1939 The Scientists Revolt
 : .o .     R     _BURROUGHS Edgar Rice        La R‚surrection de Jimber-Jaw þ1937 The Resurrection of Jimber-Jaw
 : .o .     R     _BURROUGHS Edgar Rice        Tangor de Poloda [Tangor - 1] þ1942 Beyond the Farthest Star
@@ -1213,16 +1234,16 @@ o VOLU        ?  1997.xx ..... ISBN 2-87153-247-8
 ?&                _BLANKENSEE Theo             
 o VOLU        ?  1997.xx ..... ISBN 2-87153-313-X
 } lefvol35       _Patrice Sanahujas           ?
+!--- Trad. BILLON Pierre & BLOND Martine
 - .oSY    kR4    _BURROUGHS Edgar Rice        Cycle de Pellucidar - 1 þ1997
-!--- þTrad. BILLON Pierre & BLOND Martine
 : .o .     R     _BURROUGHS Edgar Rice        Le Roi fou þ1914
 : .o .     R     _BURROUGHS Edgar Rice        Au coeur de la Terre [Cycle de Pellucidar - 1] þ1914 At the Earth's Core
 : .o .     R     _BURROUGHS Edgar Rice        L'Empire de David Innes [Cycle de Pellucidar - 2] þ1915 Pellucidar
 : .o .     R     _BURROUGHS Edgar Rice        Tanar de Pellucidar [Cycle de Pellucidar - 3] þ1929 Tanar of Pellucidar
 o VOLU        ?  1997.xx ..... ISBN 2-87153-375-X
 } lefvol36       _Pierre Joubert              ?
+!--- Trad. BILLON Pierre & BLOND Martine
 - .oSY    kR4    _BURROUGHS Edgar Rice        Cycle de Pellucidar - 2 þ1997
-!--- þTrad. BILLON Pierre & BLOND Martine
 : .o .     R     _BURROUGHS Edgar Rice        L'ternel Sauvage þ1914 The Eternal Lover þTrad. BLOND Martine
 : .o .     R     _BURROUGHS Edgar Rice        Tarzan au coeur de la Terre [Cycle de Pellucidar - 4]+[Tarzan - 13] þ1930 Tarzan at the Earth's Core
 : .o .     R     _BURROUGHS Edgar Rice        Retour … l'ƒge de pierre [Cycle de Pellucidar - 5] þ1937 Back to the Stone Age
@@ -1238,10 +1259,6 @@ o VOLU        ?  1997.xx ..... ISBN 2-87153-176-5
 : .o .     R     _VERNES Henri                L'Empereur de Macao [Bob Morane - 25] þ1958
 : .o .     R     _VERNES Henri                Tempˆte sur les Andes [Bob Morane - 26] þ1958
 : .o .     R     _VERNES Henri                L'Orchid‚e noire [Bob Morane - 27] þ1958
-!--- 
-!--- Pierre Pelot - Dylan Stark 1 - ISBN 2-87153-376-8
-!--- Couv. Michel Blanc Dumont
-!--- 
 o VOLU        ?  1997.xx ..... ISBN 2-87153-377-6
 } lefvol39       _Olivier Frot                ?
 - .oSF    kR4    _MERRITT Abraham             Abraham Merritt : Oeuvres complŠtes - 1 þ1997
@@ -1256,7 +1273,7 @@ o VOLU        ?  1997.xx ..... ISBN 2-87153-439-X
 : .o .     R     _VERNES Henri                Les G‚ants de la Ta‹ga [Bob Morane - 29] þ1958
 : .o .     R     _VERNES Henri                Les Dents du tigre [Bob Morane - 30/31] þ1958
 : .o .     R     _VERNES Henri                Le Gorille blanc [Bob Morane - 32] þ1958
-: .o .     R     _VERNES Henri                La Couronne de Golconde [Bob Morane - 33] þ1959
+: .o .     R     _VERNES Henri                La Couronne de Golconde [L'Ombre Jaune][Bob Morane - 33] þ1959
 o VOLU        ?  1997.xx ..... ISBN 2-87153-451-9
 } lefvol41       _Ren‚ Brantonne              ?
 - .oS.     R5    _WUL Stefan                  Stefan Wul - Oeuvres complŠtes - 2 þ1997
@@ -1279,7 +1296,7 @@ o VOLU        ?  1997.xx ..... ISBN 2-87153-459-4
 : .o .     R     _CARSAC Francis              La Vermine du lion [Tera‹ Laprade] þ1967
 o VOLU        ?  1997.xx ..... ISBN 2-87153-466-7
 } lefvol43       _Pierre Joubert              ?
-- .oSY    iR4    _BURROUGHS Edgar Rice        Cycle de Pellucidar - 3 þ1997
+- .oSY     R3N2  _BURROUGHS Edgar Rice        Cycle de Pellucidar - 3 þ1997
 : .o .     R     _BURROUGHS Edgar Rice        La Femme des cavernes þ1917 The Cave Girl þTrad. NOERDINGER Olivier
 !--- L'Homme des cavernes (?)
 : .oY.     C4    _BURROUGHS Edgar Rice        Sauvage Pellucidar [Cycle de Pellucidar - 7] þ1963 Savage Pellucidar þTrad. ?
@@ -1290,7 +1307,7 @@ o VOLU        ?  1997.xx ..... ISBN 2-87153-466-7
 : .oY.     r2    _BURROUGHS Edgar Rice        Caspak, monde oubli‚ [Cycle de Caspak - 1] þ1982
 = .o .     r     _BURROUGHS Edgar Rice        La Terre que le temps avait oubli‚... [Cycle de Caspak] þ1918 The Land That Time Forgot
 = .o .     r     _BURROUGHS Edgar Rice        Le Peuple que le temps avait oubli‚... [Cycle de Caspak] þ1918 The People That Time Forgot
-: .o .     R     _BURROUGHS Edgar Rice        Hors de Caspak [Cycle de Caspak - 2] þ1918 Out of Time's Abyss
+: .o .     r     _BURROUGHS Edgar Rice        Hors de Caspak [Cycle de Caspak - 2] þ1918 Out of Time's Abyss
 o VOLU        ?  1997.xx ..... ISBN 2-87153-467-5
 } lefvol44       _Fran‡ois Coria & Patrice Sanahujas
 - .oA.    kR6    _VERNES Henri                Bob Morane - L'int‚grale - 6 [Bob Morane - 34/39] þ1997
@@ -1343,7 +1360,7 @@ o VOLU        ?  1998.xx ..... ISBN 2-87153-540-X
 !--- TBD Contenu du 3 (incomplet) : 
 !---   La truie et autres histoires secrŠtes
 !---   Les chambres secrŠtes...
-!---   Les grandes personnes þ1954
+!---   Les grandes personnes (1954)
 !---   Petits contes sans titre
 !---   Histoires brŠves
 : .oF.    _N15   _OWEN Thomas                 Le Rat Kavar et autres histoires de vie et de mort þ1975
@@ -1362,7 +1379,7 @@ o VOLU        ?  1998.xx ..... ISBN 2-87153-540-X
 = .o .     N     _OWEN Thomas                 Les Trois Graces þ1974
 = .o .     N     _OWEN Thomas                 Le Samaritain ‚gar‚ þ1974
 = .o .     N     _OWEN Thomas                 Bonne chance, O'Keefe þ?
-: .o .     N15   _OWEN Thomas                 Les Maisons suspectes þ1976
+: .oF.     N15   _OWEN Thomas                 Les Maisons suspectes þ1976
 = .o .     N     _OWEN Thomas                 La Maison des discordes þ?
 = .o .     N     _OWEN Thomas                 Le Refuge du pyromane þ?
 = .o .     N     _OWEN Thomas                 La Maison des vieilles þ?
@@ -1424,11 +1441,6 @@ o VOLU        ?  1998.xx ..... ISBN 2-87153-567-1
 : .o .     N     _LEIBER Fritz                Minuit dans le monde-miroir þ1964 Midnight in the Mirror World
 : .oF.     N     _LEIBER Fritz                Minuit … la montre de Morphy þ1974 Midnight by the Morphy Watch
 : .o .     N     _LEIBER Fritz                Clart‚ spectrale þ1984 The Ghost Light
-!---        1998 .   LEIBER Fritz            Pas trop de d‚sordre et pas de sexe pr‚matur‚ þ? ?
-!--- 
-!--- Pierre Pelot - Dylan Stark 2 - ISBN 2-87153-503-5
-!--- Couv. Michel Blanc Dumont
-!--- 
 o VOLU        ?  1998.04 ..... ISBN 2-87153-568-X
 } lefvol54       _Olivier Frot                ?
 - .oS.    kR5    _BARBET Pierre               Le Cycle Setni - 1 [Setni, enquˆteur temporel] þ1998
@@ -1448,8 +1460,8 @@ o VOLU        ?  1998.xx ..... ISBN 2-87153-593-0
 : .o .     R     _VERNES Henri                Les Yeux de l'Ombre Jaune [L'Ombre Jaune][Bob Morane - 57] þ1962
 o VOLU        ?  1998.xx ..... ISBN 2-87153-594-9
 } lefvol56       _Dough Beekman               ?
-- .oY.    iR4    _HOWARD Robert E.            Conan [Conan] þ1998
-: .oY.    iN7    _HOWARD Robert E.            Conan [Conan - 1] þ1967 Conan þTrad. ZRIBI Anne
+- .oY.    iRx    _HOWARD Robert E.            Conan [Conan] þ1998
+: .oY.    iNx    _HOWARD Robert E.            Conan [Conan - 1] þ1967 Conan þTrad. ZRIBI Anne
 = .oY.     N     _CARTER Lin                 &La Chose dans la crypte [Conan] þ1967 The Thing in the Crypt
 &                _DE CAMP Lyon Sprague        
 = .oY.     N     _HOWARD Robert E.            La Tour de l'‚l‚phant [Conan] þ1933 The Tower of the Elephant
@@ -1461,23 +1473,22 @@ o VOLU        ?  1998.xx ..... ISBN 2-87153-594-9
 &                _CARTER Lin                  
 = .oY.     N     _CARTER Lin                 &La Cit‚ des crƒnes [Conan] þ1967 The City of Skulls
 &                _DE CAMP Lyon Sprague        
-: .oY.    iN8    _HOWARD Robert E.            Conan le Cimm‚rien [Conan - 2] þ1969 Conan of Cimmeria þTrad. TRUCHAUD Fran‡ois
+: .oY.    iNx    _HOWARD Robert E.            Conan le Cimm‚rien [Conan - 2] þ1969 Conan of Cimmeria þTrad. TRUCHAUD Fran‡ois
 = .oY.     N     _CARTER Lin                 &La Mal‚diction du monolithe [Conan] þ1968 The Curse of the Monolith / Conan and the Cenotaph
 &                _DE CAMP Lyon Sprague        
-= .oY.     N     _HOWARD Robert E.           &Le Dieu tach‚ de sang [Conan] þ1955 The Blood-stained God
+= .oY.     N     _HOWARD Robert E.           &Le Dieu tach‚ de sang [Conan] þ1955 The Blood-Stained God
 &                _DE CAMP Lyon Sprague        
-= .oY.     N     _HOWARD Robert E.            La Fille du g‚ant du gel [Conan] þ1953 The Frost-giant's Daughter
-!--- TBC : avec De Camp
+= .oY.     N     _HOWARD Robert E.            La Fille du g‚ant du gel [Conan] þ[1932],1976 The Frost-Giant's Daughter
 = .oY.     N     _CARTER Lin                 &Le Repaire du ver des glaces [Conan] þ1969 The Lair of the Ice Worm
 &                _DE CAMP Lyon Sprague        
-= .oY.     N     _HOWARD Robert E.            La Reine de la c“te noire [Conan] þ1934 Queen of the Black Coast
-= .oY.     N     _HOWARD Robert E.            La Vall‚e des femmes perdues [Conan] þ1967 The Valley of the Lost
+= .oY.     N     _HOWARD Robert E.            La Reine de la C“te Noire [Conan] þ1934 Queen of the Black Coast
+= .o .     N     _HOWARD Robert E.            La Vall‚e des femmes perdues [Conan] þ1967 The Vale of Lost Women þTrad. ?
 = .oY.     N     _CARTER Lin                 &Le Chƒteau de la terreur [Conan] þ1969 The Castle of Terror
 &                _DE CAMP Lyon Sprague        
 = .oY.     N     _HOWARD Robert E.           &Le Groin dans les t‚nŠbres [Conan] þ1969 The Snout in the Dark
 &                _CARTER Lin                 &
 &                _DE CAMP Lyon Sprague        
-: .oY.    iN5    _HOWARD Robert E.            Conan le flibustier [Conan - 3] þ1968 Conan the Freebooter
+: .oY.    iNx    _HOWARD Robert E.            Conan le flibustier [Conan - 3] þ1968 Conan the Freebooter
 !--- Introduction : L. Sprague de Camp
 = .oY.     N     _HOWARD Robert E.           &Des ‚perviers sur Shem [Conan] þ1955 Hawks Over Shem
 &                _DE CAMP Lyon Sprague        
@@ -1487,8 +1498,8 @@ o VOLU        ?  1998.xx ..... ISBN 2-87153-594-9
 = .oY.     N     _HOWARD Robert E.            Des ombres dans la clart‚ lunaire [Conan] þ1934 Shadows in the Moonlight
 = .oY.     N     _HOWARD Robert E.           &La Route des aigles [Conan] þ1955 Conan, Man of Destiny / The Road of the Eagles
 &                _DE CAMP Lyon Sprague        
-= .oY.     N     _HOWARD Robert E.            Une sorciŠre viendra au monde ! [Conan] þ1934 A Witch Shall Be Born!
-: .oY.    iN4    _HOWARD Robert E.            Conan le vagabond [Conan - 4] þ1968 Conan the Wanderer þTrad. CHEDAILLE Eric
+= .oY.     N     _HOWARD Robert E.            Une sorciŠre viendra au monde ! [Conan] þ1934 A Witch Shall Be Born
+: .oY.    iNx    _HOWARD Robert E.            Conan le vagabond [Conan - 4] þ1968 Conan the Wanderer þTrad. CHEDAILLE Eric
 = .oY.     N     _CARTER Lin                 &Larmes noires [Conan] þ1968 Black Tears
 &                _DE CAMP Lyon Sprague        
 = .oY.     N     _HOWARD Robert E.            Les Ombres de Zamboula [Conan] þ1935 Shadows of Zamboula
@@ -1556,7 +1567,7 @@ o VOLU        ?  1999.xx ..... ISBN 2-87153-654-6
 : .o .     R     _VERNES Henri                Dans le triangle des Bermudes [Miss Ylang-Ylang][Bob Morane - 142] þ1977
 : .o .     R     _VERNES Henri                Les Yeux du brouillard [Miss Ylang-Ylang][Bob Morane - 155] þ1982
 : .o .     R     _VERNES Henri                L'Exterminateur [Miss Ylang-Ylang]|[L'Ombre Jaune]<[Bob Morane - 158] þ1989
-: .o .     R     _VERNES Henri                Le Jade de S‚oul [Miss Ylang-Ylang][L'Ombre Jaune][Bob Morane - 161] þ1990
+: .o .     R     _VERNES Henri                Le Jade de S‚oul [Miss Ylang-Ylang]|[L'Ombre Jaune]<[Bob Morane - 161] þ1990
 : .o .     R     _VERNES Henri                La PanthŠre des hauts plateaux [Miss Ylang-Ylang][Bob Morane - 164] þ1992
 : .o .     R     _VERNES Henri                Les D‚mons de la guerre [Miss Ylang-Ylang][Bob Morane - 167] þ1993
 
@@ -1716,7 +1727,7 @@ o ANA2     2011  2002.07 ..... ISBN 2-87418-042-4
 - .oA      R     _VERNES Henri                Mise en boŒte maison [Bob Morane - 140] þ1977
 o ANA2     2012  2002.11 ..... ISBN 2-87418-053-X
 } noimg          _?                           ?
-- .oAS     R     _VERNES Henri                Le Portrait de la walkyrie [Le Cycle des Harkans - 1][Bob Morane - 185] þ2002
+- .oAS     R     _VERNES Henri                Le Portrait de la Walkyrie [Le Cycle des Harkans - 1][Bob Morane - 185] þ2002
 o ANA2     2013  2002.09 ..... ISBN 2-87418-054-8
 } noimg          _?                           ?
 - .o .     R     _VERNES Henri                Le Revenant des terres rouges [Bob Morane - 136] þ1976
@@ -1806,7 +1817,7 @@ o ANANKBD  2040  2006.02 ..... ISBN 2-8741-8139-0
 - .oA.     R     _VERNES Henri                Le Collier de Civa [Bob Morane - 77] þ1966
 o ANANKBD  2041  2006.02 ..... ISBN 2-8741-8140-4
 } noimg          _?                           ?
-- .oA.     R     _VERNES Henri                Les Chasseurs de dinosaures [Bob Morane - 20] þ1973
+- .o .     R     _VERNES Henri                Les Chasseurs de dinosaures [Bob Morane - 20] þ1957
 o ANANK2   2042  2006.01 ..... ISBN 2-87418-141-2
 } noimg          _?                           ?
 - .oS.     R     _VERNES Henri                Les Ruines de Barkalia [Le Cycle des Harkans - 4][Bob Morane - 198] þ2006
@@ -1998,7 +2009,7 @@ o ANA4     4011  2005.03 ..... ISBN 2-87418-084-X
 - .oA.    kR3    _VERNES Henri                Tout Bob Morane - 11 [Bob Morane - 31/33] þ2005
 : .o .     R     _VERNES Henri                Les Dents du tigre - 2 [Bob Morane - 31] þ1958
 : .o .     R     _VERNES Henri                Le Gorille blanc [Bob Morane - 32] þ1958
-: .o .     R     _VERNES Henri                La Couronne de Golconde [Bob Morane - 33] þ1959
+: .o .     R     _VERNES Henri                La Couronne de Golconde [L'Ombre Jaune][Bob Morane - 33] þ1959
 o ANA4     4012  2005.xx ..... ISBN 2-87418-106-4
 } noimg          _?                           ?
 - .oA.    kR3    _VERNES Henri                Tout Bob Morane - 12 [Bob Morane - 34/36] þ2005
@@ -2111,7 +2122,7 @@ o ANANKBG     9  2009.xx ..... ISBN 978-2-87418-...-.
 o ANANKBG    10  2010.xx ..... ISBN 978-2-87418-...-.
 } noimg          _?                           ?
 - .oAS    kR2    _VERNES Henri                Le Cycle des Harkans - 1 [Le Cycle des Harkans - 1/2][Bob Morane] þ2010
-: .oAS     R     _VERNES Henri                Le Portrait de la walkyrie [Le Cycle des Harkans - 1][Bob Morane - 185] þ2002
+: .oAS     R     _VERNES Henri                Le Portrait de la Walkyrie [Le Cycle des Harkans - 1][Bob Morane - 185] þ2002
 : .oA.     R     _VERNES Henri                La Plume de cristal [Le Cycle des Harkans - 2][Bob Morane - 189] þ2004
 o ANANKBG    11  2010.xx ..... ISBN 978-2-87418-...-.
 } noimg          _?                           ?
@@ -2128,7 +2139,7 @@ o ANANKBG    14  2010.xx ..... ISBN 978-2-87418-...-.
 } noimg          _?                           ?
 !--- TBC ou "S‚rie 3000" nø 3015 ???
 !--- o XXX      3015  2010.11 ..... ISBN 978-2-87418-198-6
-- .oAS    kR3    _VERNES Henri                La Guerre du cristal [Bob Morane] þ2002
+- .oAS    kR3    _VERNES Henri                La Guerre du cristal [Bob Morane] þ2003
 : .oS.     R     _VERNES Henri                Les Berges du temps [Bob Morane - 159] þ1989
 : .oS.     R     _VERNES Henri                La Guerre du cristal [Bob Morane - 165] þ1992
 : .oS.     R     _VERNES Henri                Les PiŠges de cristal [Bob Morane - 176] þ1997
@@ -2139,7 +2150,7 @@ o ANANKBG    15  2010.xx ..... ISBN 978-2-87418-...-.
 : .o .     R     _VERNES Henri                S.S.S. [Bob Morane - 69] þ1964
 : .o .     R     _VERNES Henri                L'p‚e du paladin [Bob Morane - 119] þ1973
 o ANANKBG    16  2011.xx ..... ISBN 978-2-87418-...-.
-!--- R‚‚d 2013.01 - Edition normale + ‚dition avec jaquette
+!--- R‚‚d 2013.01, Edition normale + ‚dition avec jaquette
 } noimg          _?                           ?
 - .o .     R     _VERNES Henri                Yukon Quest [Le PiŠge infernal - 2][Bob Morane - 220] þ2011
 o ANANKBG    17  2011.10 ..... ISBN 978-2-87418-...-.
@@ -2157,7 +2168,7 @@ o ANANKBG    19  2011.xx ..... ISBN 978-2-87418-...-.
 - .o .     R     _VERNES Henri                Les Spectres d'Atlantis [Bob Morane - 110] þ1971
 o ANANKBG    20  2015.02 ..... ISBN 978-2-87418-284-6
 } noimg          _?                           ?
-- .oAS     R     _VERNES Henri                Le Portrait de la walkyrie [Le Cycle des Harkans - 1][Bob Morane - 185] þ2002
+- .oAS     R     _VERNES Henri                Le Portrait de la Walkyrie [Le Cycle des Harkans - 1][Bob Morane - 185] þ2002
 o ANANKBG    21  2011.10 ..... ISBN 978-2-87418-...-.
 } noimg          _?                           ?
 - .oA.    kN5    _VERNES Henri                Quand le chauve sourit [Bob Morane] þ2011
@@ -2244,7 +2255,7 @@ o ANANKBG    44  2013.05 ..... ISBN 978-2-87418-265-5
 o ANANKBG    45i 2014.11 ..... ISBN 978-2-87418-289-1
 } noimg          _?                           ?
 - .oS.     R     _TARVEL Brice                Le Murmure des ombres [Bob Morane - 242] þ2014
-o LAGEDOR    46i 2016.05 ..... ISBN 978-2-930556-14-7
+o LAGEDOG    46i 2016.05 ..... ISBN 978-2-930556-14-7
 !--- TBD publication ? - Mais en vente sur certains sites (avec souvent une date 30/12/1999)
 } noimg          _?                           ?
 - .o .     R     _VERNES Henri                Les Caves d'Anank‚ [Le Cycle d'Anank‚ - 4][Bob Morane - 141] þ1977
@@ -2274,7 +2285,7 @@ o ANANKGF     ?  2014.11 ..... ISBN 978-2-87418-278-5
 - .oS.     R     _VERNES Henri                Dans le triangle des Bermudes [Miss Ylang-Ylang][Bob Morane - 142] þ1977
 o ANANKBG    48i 2016.10 ..... ISBN 978-2-87418-296-9
 } noimg          _?                           ?
-!---       R     _TARVEL Brice                L'Idole Viking [Bob Morane - 244] þ2016
+!                +TARVEL Brice                L'Idole Viking [Bob Morane - 244] þ2016
 - .o .     R     _VERNES Henri                L'Idole Viking [Bob Morane - 244] þ2016
 o ANANKBG    50i 2018.12 ..... ISBN 978-2-87418-297-6
 } noimg          _Franck Leclerq              ?
@@ -2287,11 +2298,11 @@ o ANANKBG    54i 2016.10 ..... ISBN 978-2-930556-18-5
 - .o .     R     _VERNES Henri                Les Plaines d'Anank‚ [Le Cycle d'Anank‚ - 5][Bob Morane - 146] þ1979
 o ANANKBG    56i 2016.xx ..... ISBN 978-2-87418-308-9
 } noimg          _Christophe AlvŠs            ?
-!---       R     _GALLART R‚my                Le Grand Mogol [Bob Morane - 258] þ2016
+!                +GALLART R‚my                Le Grand Mogol [Bob Morane - 258] þ2016
 - .o .     R     _VERNES Henri                Le Grand Mogol [Bob Morane - 258] þ2016
 o ANANKBG    57i 2017.07 ..... ISBN 978-2-87418-316-4
 } noimg          _?                           ?
-!---       R     _GALLART R‚my                La Relique maudite [Bob Morane - 261] þ2017
+!                +GALLART R‚my                La Relique maudite [Bob Morane - 261] þ2017
 - .o .     R     _VERNES Henri                La Relique maudite [Bob Morane - 261] þ2017
 o ANANKBG    58i 2018.10 ..... ISBN 978-2-87418-317-1
 } bm_gf_58       _Franck Leclercq             ?
@@ -2316,20 +2327,20 @@ o ANANKBG    60i 2017.06 ..... ISBN 978-2-87418-327-0
 : .o .     R     _VERNES Henri                Le Retour de l'aigle [Bob Morane - 246] þ2015
 : .o .     N     _VERNES Henri                Le Poucet de Vend“me [Bob Morane - 254] þ2016
 : .o .     N     _VERNES Henri                Le Train ‚lectrique [Bob Morane] þ2017
-o LAGEDOR    61i 2018.01 ..... ISBN 978-2-930556-22-2
+o LAGEDOG    61i 2018.01 ..... ISBN 978-2-930556-22-2
 } noimg          _R. Follet                   ?
 !--- 265bis - Contenant un prologue de 20 pages et 8 illustrations de Ren‚ Follet
 !--- GALLART R‚my
-- .o .     r     _VERNES Henri                Les T‚nŠbres d'Anank‚ [Le Cycle d'Anank‚][Bob Morane - 265] þ2018
+- .o .     r     _VERNES Henri                Les T‚nŠbres d'Anank‚ [Le Cycle d'Anank‚][Bob Morane - 265] þ2017
 o ANANKBG    62i 2018.05 ..... ISBN 978-2-87418-344-7
 } noimg          _Franck Leclerq              ?
 !--- GALLART R‚my
 - .o .     R     _VERNES Henri                Les Ruses de l'Ombre Jaune [L'Ombre Jaune][Bob Morane - 270] þ2018
-o LAGEDOR    64i 2019.xx ..... ISBN 978-2-930556-26-0
+o LAGEDOG    64i 2019.xx ..... ISBN 978-2-930556-26-0
 } noimg          _Ren‚ Follet                 ?
-!--- 204 pages
+!--- 204 pages - jaquette - 49 euros
 !--- 268bis - Contenant un prologue de 23 pages et 8 illustrations de Ren‚ Follet
-!--- Avec jaquette et carnet de croquis - 100 ex. 49 euros
+!--- Avec jaquette et carnet de croquis, tirage 100 ex.
 !--- GALLART R‚mi
 - .oS.     N     _VERNES Henri                Les Chemins d'Anank‚ [Le Cycle d'Anank‚][Bob Morane - 268] þ2018
 o BOBMINC    65i 2019.10 ..... ISBN 978-2-39044-004-8
@@ -2341,11 +2352,11 @@ o ANANKBG    66i 2019.12 ..... ISBN 978-2-87418-311-9
 } noimg          _Franck Leclercq             ?
 !--- GALLART R‚mi
 - .oS.     R     _VERNES Henri                Poison noir [Bob Morane - 287] þ2019
-o LAGEDOR    67i 2019.10 ..... ISBN 978-2-930556-28-4
+o LAGEDOG    67i 2019.10 ..... ISBN 978-2-930556-28-4
 } noimg          _Ren‚ Follet                 ?
-!--- 334 pages
-!--- 276bis - Contenant un prologue de 40 pages et 9 illustrations de Ren‚ Follet
-!--- 20 euros - Existe en version luxe … 49 euros avec jaquette et carnet de croquis sign‚ - 100 exemplaires
+!--- 334 pages - 20 euros
+!--- 276bis ; Contenant un prologue de 40 pages et 9 illustrations de Ren‚ Follet
+!--- Existe en version luxe … 49 euros avec jaquette et carnet de croquis sign‚, tirage 100 exemplaires
 !--- GALLART R‚mi
 - .oS.     N     _VERNES Henri                Les Marais d'Anank‚ [Le Cycle d'Anank‚][Bob Morane - 276] þ2018
 o ANANKBG    68i 2019.12 ..... ISBN 978-2-87418-310-2
@@ -2354,10 +2365,57 @@ o ANANKBG    68i 2019.12 ..... ISBN 978-2-87418-310-2
 o ANANKBG    69i 2019.12 ..... ISBN 978-2-87418-355-3
 } noimg          _Franck Leclercq             ?
 - .o .     R     _VERNES Henri                Poison blanc [Bob Morane - 112] þ1972
+o ANANKBG    74i 2020.xx ..... ISBN 978-2-87418-...-.
+} noimg          _?                           ?
+!                +JUSTENS Daniel              Chairs de poules [Bob Morane - 295] þ2020
+- .o .     R     _VERNES Henri                Chairs de poules [Bob Morane - 295] þ2020
 o ANANKBG    76i 2019.12 ..... ISBN 978-2-87418-358-4
 } noimg          _P. Sanahujas                ?
 - .o .     R     _VERNES Henri                Les D‚serts d'Amazonie [Bob Morane - 168] þ1993
+o ANANKBG    77i 2020.xx ..... ISBN 978-2-87418-...-.
+} noimg          _F. Leclercq                 ?
+!--- Tirage limit‚ et num‚rot‚ … 250 exemplaire. 25 euros
+!                +VERLINDEN Patrick           Via Caesar [Bob Morane - 293] þ2020
+- .o .     R     _VERNES Henri                Via Caesar [Bob Morane - 293] þ2020
+o ANANKBG    78i 2019.xx ..... ISBN 978-2-87418-...-.
+} noimg          _F. Leclercq                 ?
+!--- 239 pages - 25 euros
+?: .o .     R     _ALLEMAND Serge              Les Fils d'Orion [Bob Morane - 250] þ2016
+- .o .     R     _VERNES Henri                Les Fils d'Orion [Bob Morane - 250] þ2016
+o ANANKBG    89i 2020.xx ..... ISBN 978-2-87418-...-.
+} noimg          _F. Leclercq                 ?
+- .o .     RN2   _VERNES Henri                Rencontres … Altamira þ2020
+?: .o .     R     _ALLEMAND Serge              Rencontres … Altamira [Bob Morane - 269] þ2017
+: .o .     R     _VERNES Henri                Rencontres … Altamira [Bob Morane - 269] þ2017
+: .oS.     N     _VERNES Henri                Asgard la noire [Bob Morane - 272] þ2018
+: .oS.     N     _VERNES Henri                Les Diamants perdus [Bob Morane - 271] þ2018
+o ANANKBG    91i 2021.xx ..... ISBN 978-2-87418-...-.
+} noimg          _F. Leclercq                 ?
+!--- Tirage limit‚ et num‚rot‚ … 200 exemplaire. 30 euros
+!                +GALLART R‚my                Anank‚ l'oc‚ane [Le Cycle d'Anank‚][Bob Morane - 297] þ2020
+- .o .     R     _VERNES Henri                Anank‚ l'oc‚ane [Le Cycle d'Anank‚][Bob Morane - 297] þ2020
+o ANANKBG    92i 2021.xx ..... ISBN 978-2-87418-...-.
+} noimg          _F. Leclercq                 ?
+!--- Tirage limit‚ et num‚rot‚ … 200 exemplaire. 30 euros avec ex-libris par Daniel Justens et Franck Leclerc
+!--- 172 pages
+!                +JUSTENS Daniel              Coqs en stocks [Bob Morane - 305] þ2021
+- .o .     R     _VERNES Henri                Coqs en stocks [Bob Morane - 305] þ2021
+o LAGEDOR     ?  2021.xx ..... ISBN 978-2-930556-..-.
+} noimg          _Yves Rodier                 Louis Paradis
+!--- HS 1 
+!--- 165 pages - 250 exemplaires - 25 euros
+!--- Premier volume du Coffret de l'Ombre jaune qui comportera 11 titres ‚crits par 11 ‚crivains 
+- .oS.     r     _TREPANIER Yves              La Pyramide de l'Ombre Jaune [L'Ombre Jaune][Bob Morane - 307] þ2021
 
+o LAGEDOR     ?  2019.xx ..... ISBN 978-2-930556-..-.
+} noimg          _Yves Rodier                 Yves Rodier
+!--- 343 pages - jaquette
+!--- Tirage 250 exemplaires
+- .o .    kN4    _VERNES Henri                4 aventures complŠtes de Bob Morane [Bob Morane] þ2019
+: .o .     N     _TREPANIER Yves              Op‚ration Blanche Neige [Bob Morane - 285] þ2019
+: .o .     N     _TREPANIER Yves              La Dent d'or [Bob Morane] þ2019
+: .o .     N     _TREPANIER Yves              Le Pilleur de tr‚sors [Bob Morane] þ2019
+: .o .     N     _CHOUINARD BenoŒt            Mission Blackbird [Bob Morane] þ2019
 
 !--- S‚rie parallŠle - Les Nouvelles Aventures
 o ANANKBG     ?  2012.10 ..... ISBN 978-2-87418-255-6
@@ -2388,6 +2446,9 @@ o ANANKBG     ?  2019.05 ..... ISBN 978-2-87418-348-5
 o ANANKBG     ?  2019.12 ..... ISBN 978-2-87418-354-6
 } noimg          _Olivier Frot                ?
 - .oS.     R     _DEVINDILIS Gilles           L'Empire des chimŠres [Les Nouvelles Aventures - 8][Bob Morane - 286] þ2019
+o ANANKBG     ?  2021.08 ..... ISBN 978-2-87418-371-3
+} noimg          _Olivier Frot                ?
+- .oS.     R     _DEVINDILIS Gilles           Outre-tombe [Les Nouvelles Aventures - 9][Bob Morane - 302] þ2021
 
 
 
@@ -2542,8 +2603,8 @@ o ANANKHC    45  2015.xx ..... ISBN 978-9-.....-...-.
 : .o .     N     _VERNES Henri                Guet-apens … Gray [Bob Morane - 249bis] þ2016
 o ANANKHC    46  2016.xx ..... ISBN 978-9-.....-...-.
 } noimg          _Franck Leclercq             ?
-?: .o .     R     _ALLEMAND Serge              Les fils d'Orion [Bob Morane - 250] þ2016
-- .o .     R     _VERNES Henri                Les fils d'Orion [Bob Morane - 250] þ2016
+?: .o .     R     _ALLEMAND Serge              Les Fils d'Orion [Bob Morane - 250] þ2016
+- .o .     R     _VERNES Henri                Les Fils d'Orion [Bob Morane - 250] þ2016
 o ANANKHC    47  2016.xx ..... ISBN 978-9-.....-...-.
 } noimg          _Franck Leclercq             ?
 !--- TBD longueur
@@ -2620,7 +2681,7 @@ o ANANKHC    64  2018.09 ..... ISBN 978-9-.....-...-.
 - .oS.     N     _VERNES Henri                Les Marais d'Anank‚ [Le Cycle d'Anank‚][Bob Morane - 276] þ2018
 o ANANKHC    65  2019.05 ..... ISBN 978-9-.....-...-.
 } noimg          _Y. Rodier                   ?
-!---  TREPANIER Y.
+!---             _TREPANIER Yves
 - .o .     N     _VERNES Henri                Op‚ration Blanche Neige [Bob Morane - 285] þ2019
 o ANANKHC    66  2019.05 ..... ISBN 978-9-.....-...-.
 } noimg          _Franck Leclercq             ?
@@ -2636,28 +2697,74 @@ o ANANKHC    68  2019.09 ..... ISBN 978-9-.....-...-.
 - .o .     N     _VERNES Henri                L'Ombre du lac bleu [Bob Morane - 279] þ2019
 o ANANKHC    69  2019.05 ..... ISBN 978-9-.....-...-.
 } noimg          _Franck Leclercq             ?
-!---  TARVEL Brice - 94 pages
+!--- 94 pages
+!                +TARVEL Brice
 - .o .     N     _VERNES Henri                Le Labirynthe du condor [Bob Morane - 280] þ2019
 o ANANKHC    70  2019.09 ..... ISBN 978-9-.....-...-.
 } noimg          _Franck Leclercq             ?
-!---  CHEVREAU Eric - 136 pages
+!--- 136 pages
+!                +CHEVREAU Eric 
 - .o .     r     _VERNES Henri                Le G‚n‚ral de l'ombre [Bob Morane - 282] þ2019
 o ANANKHC    71  2019.09 ..... ISBN 978-9-.....-...-.
 } noimg          _David Willig                ?
-!---  CASTALDI JP   - 72 pages
+!--- 72 pages
+!                +CASTALDI JP 
 - .o .     N     _VERNES Henri                24 cents [Bob Morane - 283] þ2019
 o ANANKHC    72  2020.02 ..... ISBN 978-9-.....-...-.
 } noimg          _?                           ?
-!---  _GALLARD R‚my
+!                +GALLARD R‚my
 - .o .     R     _VERNES Henri                Les Hommes-Taupes d'Anank‚ [Le Cycle d'Anank‚][Bob Morane - 284] þ2020
 o ANANKHC    73  2019.12 ..... ISBN 978-9-.....-...-.
 } noimg          _Franck Leclercq             ?
-!--- JUSTENS Daniel - 112 pages
+!--- 112 pages
+!                +JUSTENS Daniel 
 - .o .     N     _VERNES Henri                Le Druide du Val des Nymphes [Bob Morane - 289] þ2019
 o ANANKHC    74  2019.12 ..... ISBN 978-9-.....-...-.
 } noimg          _Franck Leclercq             ?
-!--- BONNARDEAUX G. - 82 pages
+!--- 82 pages
+!                +BONNARDEAUX Guy
 - .o .     N     _VERNES Henri                Alerte en mer de Chine [Bob Morane - 290] þ2019
+o ANANKHC    75  2020.xx ..... ISBN 978-9-.....-...-.
+} noimg          _Franck Leclerq              ?
+!--- 105 pages - 200 exemplaires
+!                +BONNARDEAUX Guy
+- .o .     N     _VERNES Henri                Le Moulin aux goules de Penoweth [Bob Morane - 291] þ2020
+o ANANKHC    76  2020.xx ..... ISBN 978-9-.....-...-.
+} noimg          _Christophe Alves            ?
+!--- 188 pages - 200 exemplaires
+!                +MARQUET Jean-Pol            Le Magicien du hasard [Bob Morane - 294] þ2020
+- .o .     R     _VERNES Henri                Le Magicien du hasard [Bob Morane - 294] þ2020
+o ANANKHC    77  2020.xx ..... ISBN 978-9-.....-...-.
+} noimg          _Franck Leclerq              ?
+!--- 66 pages - 200 exemplaires
+!                +BONNARDEAUX Guy
+- .o .     N     _VERNES Henri                La SinguliŠre Affaire de Mylor Bridge [Bob Morane - 292] þ2020
+o ANANKHC     78 2020.xx ..... ISBN 978-2-87418-...-.
+} noimg          _F. Leclercq                 ?
+!--- 226 pages - 200 exemplaires
+!                +GALLART R‚my                Anank‚ l'oc‚ane [Le Cycle d'Anank‚][Bob Morane - 297] þ2020
+- .o .     R     _VERNES Henri                Anank‚ l'oc‚ane [Le Cycle d'Anank‚][Bob Morane - 297] þ2020
+o ANANKHC     79 2020.xx ..... ISBN 978-2-87418-...-.
+} noimg          _F. Leclercq                 ?
+!--- 139 pages - Tirage limit‚ et num‚rot‚ … 200 ex. 30 euros
+!                +JUSTENS Daniel              L'Ombre du pass‚ [Bob Morane - 299] þ2020
+- .o .     r     _VERNES Henri                L'Ombre du pass‚ [Bob Morane - 299] þ2020
+o ANANKHC     80 2020.xx ..... ISBN 978-2-87418-...-.
+} noimg          _F. Leclercq                 ?
+!--- 176 pages - Tirage limit‚ et num‚rot‚ … 200 ex. 30 euros
+!                +CHEVREAU Eric               Le Magicien de l'ombre [Bob Morane - 303] þ2020
+- .o .     R     _VERNES Henri                Le Magicien de l'ombre [Bob Morane - 303] þ2020
+o ANANKHC     82 2021.xx ..... ISBN 978-2-87418-...-.
+} noimg          _F. Leclercq                 ?
+!--- 153 pages - 150 exemplaires
+!                +GALLART R‚my               &Le CinquiŠme Cavalier [Bob Morane - 298] þ2021
+!                +CORTHOUTS Christophe        
+- .o .     r     _VERNES Henri                Le CinquiŠme Cavalier [Bob Morane - 298] þ2021
+?o ANANKHC     84 2021.xx ..... ISBN 978-2-87418-...-.
+?} noimg          _F. Leclercq                 ?
+?!--- 139 pages - Tirage limit‚ et num‚rot‚ … 200 ex. 30 euros
+?!                +JUSTENS Daniel              Les H‚ritiers des pharaons noirs [Bob Morane - 306] þ2021
+?- .o .     r     _VERNES Henri                Les H‚ritiers des pharaons noirs [Bob Morane - 306] þ2021
 
 
 o ANANKHC     ?  2013.10 ..... ISBN 978-2-8741-8272-3
@@ -2673,6 +2780,7 @@ o ANANKHC     ?  2013.10 ..... ISBN 978-2-8741-8272-3
 
 !-----------------------------------------------------------------------------
 !--- Anank‚ Aventure Illustr‚e
+!--- TBD "d" avec "N" dedans ?!
 !-----------------------------------------------------------------------------
 o ANANKAI     1  2007.xx ..... ISBN 2-87418-...-.
 } noimg          _?                           ?
@@ -2689,15 +2797,23 @@ o ANANKAI     3  2009.10 ..... ISBN 978-2-87418-199-3
 
 o AGEDORI     8  2018.06 ..... ISBN 978-2-930556-24-6
 } noimg          _Ren‚ Follet                 Ren‚ Follet
-!--- 30 euros - Format : 20 x 27 cm
+!--- 30 euros - 20 x 27 cm
 !--- Existe une version luxe … 59 euros avec Jaquette et carnet de croquis illust‚s par Ren‚ Follet
 - .o .     R     _VERNES Henri                Sur la piste de Fawcett [Bob Morane - 3] þ1954
 o ANANKAI     9  2019.01 ..... ISBN 978-2-87418-345-4
 } noimg          _Christophe AlvŠs            Christophe AlvŠs
-!--- 49 euros; Existe en vesion Luxe … 89 euros avec jaquette, 2 ex-libris num‚rot‚s et sign‚s et carnet de croquis illust‚s par C. AlvŠs - 50 ex.
+!--- 49 euros - 
+!--- Existe en version Luxe … 89 euros avec jaquette, 2 ex-libris num‚rot‚s et sign‚s et carnet de croquis illust‚s par C. AlvŠs, tirage 50 ex.
 - .o .     R     _VERNES Henri                L'Oeil d'‚meraude [Bob Morane - 65] þ1964
 o ANANKAI    10  2019.01 ..... ISBN 978-2-87418-346-1
 } noimg          _Ren‚ Follet                 Ren‚ Follet
-!--- 49 euros; Existe en vesion Luxe … 89 euros avec jaquette, 2 ex-libris num‚rot‚s et sign‚s et carnet de croquis illust‚s par Ren‚ Follet - 50 ex.
+!--- 49 euros - 
+!--- Existe en vesion Luxe … 89 euros avec jaquette, 2 ex-libris num‚rot‚s et sign‚s et carnet de croquis illust‚s par Ren‚ Follet, tirage 50 ex.
 - .o .     R     _VERNES Henri                Le Lagon aux requins [Bob Morane - 52] þ1962
+
+
+
+
+
+
 

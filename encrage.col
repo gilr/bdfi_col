@@ -3,17 +3,18 @@
 !--- Fondateur : ALFU (Alain Fuzellier)
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
+_ ENCRAGE Encrage - Revue Encrage
 _ ENCR    Encrage
-_ ENCP    Encrage, Coll. Pulps
-_ ENCT    Encrage, Coll. Travaux
-_ ENCB    Encrage, Coll. Travaux bis
-_ ENCE    Encrage, Coll. Effrois
-_ ENCA    Encrage, Coll. Pulsar
-_ ENCF    Encrage, Coll. R‚f‚rences
-_ ENCO    Encrage, Coll. Portraits
-_ ENCC    Encrage, Coll. Classiques
-_ ENCU    Encrage, Coll. Utopie
-_ ENCRA_I Encrage, Coll. Interface
+_ ENCP    Encrage - Pulps
+_ ENCT    Encrage - Travaux
+_ ENCB    Encrage - Travaux bis
+_ ENCE    Encrage - Effrois
+_ ENCA    Encrage - Pulsar
+_ ENCF    Encrage - R‚f‚rences
+_ ENCO    Encrage - Portraits
+_ ENCC    Encrage - Classiques
+_ ENCU    Encrage - Utopie
+_ ENCRA_I Encrage - Interface
 !-----------------------------------------------------------------------------
 
 o ENCR        ?  1996.xx ..... ISBN .-.....-...-.
@@ -38,15 +39,15 @@ o ENCP        1  1986.xx ..... ISBN 2-906389-00-5
 : .! .     N     _FISHER Steve                Shangha‹ Sue þ1934 Shangha‹ Sue
 : .! .     N     _WHITTINGTON Harry           Destination : nulle part þ1953 Flight to Nowhere
 o ENCP        2  1987.xx ..... ISBN 2-906389-01-3
-}encrage_pulps02 _?                           ?
-- .oF.     A7    *BOURGOIN St‚phane           La Nurserie de l'‚pouvante þ1987
-: .o .     N     _IRISH William               Lune de miel pour un vampire þ1939 Vampire's Honeymoon
-: .o .     N     _LOVECRAFT Howard P.         Le Soutien-Gorge ensorcel‚ þ1986 I Wore the Brassiere of Doom
-: .o .     N     _HARDING Allison V.          Garde de nuit þ1944 Guard in the Dark
-: .o .     N     _SCHACHNER Nathan            La Mort … l'‚cole þ1935 Death Teaches School
-: .o .     N     _ROBBINS Wayne               La Chose þ1940 The Thing from Beyond
-: .o .     N     _JAMES Francis               La Nurserie de l'‚pouvante þ1935 Nursery of horror
-: .o .     N     _BLOCH Robert                Celui qui attend... þ1939 He Waits Beneath the Sea
+} encrage_pulps02 _?                           ?
+- .oF.    _A7    *BOURGOIN St‚phane           La Nurserie de l'‚pouvante, et six autres r‚cits fantastiques ((La Nurserie de l'‚pouvante)) þ1987
+: .o .     N     _IRISH William               Lune de miel pour un vampire þ1939 Vampire's Honeymoon þTrad. COISNE G‚rard
+: .o .     N     _LOVECRAFT Howard P.         Le Soutien-Gorge ensorcel‚ þ1986 I Wore the Brassiere of Doom þTrad. COISNE G‚rard
+: .o .     N     _HARDING Allison V.          Garde de nuit þ1944 Guard in the Dark þTrad. CHERGE G‚rard de
+: .o .     N     _SCHACHNER Nathan            La Mort … l'‚cole þ1935 Death Teaches School þTrad. SCHWEIGHAEUSER Jean-Paul
+: .o .     N     _ROBBINS Wayne               La Chose þ1940 The Thing from Beyond þTrad. SCHWEIGHAEUSER Jean-Paul
+: .o .     N     _JAMES Francis               La Nurserie de l'‚pouvante þ1935 Nursery of Horror þTrad. LE GAL Jacques
+: .o .     N     _BLOCH Robert                Celui qui attend... þ1939 He Waits Beneath the Sea þTrad. LE GAL Jacques
 o ENCP        3  1987.xx ..... ISBN 2-906389-03-X
 }encrage_pulps03 _?                           ?
 - .oF.    _A9    *BOURGOIN St‚phane           La Pr‚sence monstrueuse [Anthologie Weird Tales - 1] þ1987
@@ -88,7 +89,7 @@ o ENCP        5  1988.xx ..... ISBN 2-906389-08-0
 : .! .     N     _SALE Richard                Un plus un ‚gale un þ1938 One and One Makes One
 : .! .     N     _WHITTINGTON Harry           Pas de chance ! þ1957 You can't kilt luck
 : .! .     N     _BURNETT W.R.                Aller-retour þ1929 Round trip
-: .! .     N     _GOODIS David                L'Homme perdu þ? The squadron of lost men
+: .x .     N     _GOODIS David                L'Homme perdu þ? The squadron of lost men
 o ENCP        6  1988.10 ..... ISBN 2-906389-11-0
 }encrage_pulps06 _?                           ?
 - .oF.    _A12   *BOURGOIN St‚phane           Le Piano satanique [Anthologie Weird Tales - 3] þ1988
@@ -389,9 +390,9 @@ o ENCA        1  1995.04 ..... ISBN 2-906389-60-9
 : .oS.     N     _NEWMAN Kim                  Le Retour du docteur Shade þ1990 The Original Dr. Shade þTrad. DENIS Sylvie & VALERY Francis
 : .oS.     N     _CALDER Richard              Toxine þ1989 Toxine þTrad. DENIS Sylvie & VALERY Francis
 : .oS.     N     _MACLEOD Ian R.              Amour-fou þ1990 Well-loved þTrad. DENIS Sylvie & VALERY Francis
-: .oS.     N     _LEE Ian                     Il ‚tait une fois dans le parc þ1989 Once upon a time in the park þTrad. DENIS Sylvie & VALERY Francis
+: .oS.     N     _LEE Ian                     Il ‚tait une fois dans le parc þ1989 Once Upon a Time in the Park þTrad. DENIS Sylvie & VALERY Francis
 : .oS.     N     _GRIFFITH Nicola             Le Chant des grenouilles, les cris des oies þ1991 Songs of Bullfrogs, Cry of Geeses þTrad. DENIS Sylvie & VALERY Francis
-: .oS.     N     _EGAN Greg                   En apprenant … ˆtre moi þ1989 Learning to Be Me þTrad. DENIS Sylvie & VALERY Francis
+: .oS.     N     _EGAN Greg                   En apprenant … ˆtre moi þ1990 Learning to Be Me þTrad. DENIS Sylvie & VALERY Francis
 : .oS.     N     _STABLEFORD Brian M.         Mortel immortel þ1986 And He Not Busy Being Born þTrad. DENIS Sylvie & VALERY Francis
 : .oS.     N     _McAULEY Paul J.             L'Histoire d'Ilya, Spider et Box þ1985 Little Ilya and Spider and Box þTrad. DENIS Sylvie & VALERY Francis
 : .oS.     N     _BROWN Eric                  Rˆves d'Epsilon þ1992 Epsilon Dreams þTrad. DENIS Sylvie & VALERY Francis
@@ -434,8 +435,10 @@ o ENCF       10  1999.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     E     _ARCHAIMBAULT Jean-Michel    Perry Rhodan, lecture des textes þ1999
 !--- Jean-Michel
-o ENCF       11  1999.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
+o ENCF       11  1999.04 ..... ISBN .-.....-...-.
+} noimg          _Florent Mathieu             ?
+!--- TBD ISBN 2-906389-6
+!--- ? - 130x200 - 159 pages
 - .o .     E     _BOURDIER Laurent            Stephen King, parcours d'une oeuvre þ1999
 o ENCF       12  1999.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -551,7 +554,7 @@ o ENCRA_I     ?  2018.09 ..... ISBN 978-2-251-44851-0
 !--- Les conqu‚rants de l'abŒme (1922)
 
 !-----------------------------------------------------------------------------
-_ LETTRSF Encrage, Lettres-SF þ1996 - ?
+_ LETTRSF Encrage - Lettres-SF þ1996 - ?
 !-----------------------------------------------------------------------------
 !---              Encrage/Destination Cr‚puscule - Lettres-SF
 !---          (Destination cr‚puscule uniquement jusqu'au num‚ro 3 (?))
@@ -594,7 +597,7 @@ o LETTRSF     5  1996.10 ..... ISBN 2-911576-04-7
 }lettressf05     _?                           N
 - .oS.     N9    _ANDREVON Jean-Pierre        Manuscrit d'un roman de SF trouv‚ dans une poubelle þ1996
 : .oS.     N     _ANDREVON Jean-Pierre        Chapo þ1996
-: .oS.     N     _ANDREVON Jean-Pierre        L'Arme þ1990
+: .oS.     N     _ANDREVON Jean-Pierre        L'Arme þ1980
 : .oS.     N     _ANDREVON Jean-Pierre        D‚livrance þ1996
 : .oS.     N     _ANDREVON Jean-Pierre        Et chez vous comment ca va ? þ1976
 : .oS.     N     _ANDREVON Jean-Pierre        Tout … la main þ1983

@@ -1,598 +1,1989 @@
 !-----------------------------------------------------------------------------
 !--- MxM Bookmark
 !-----------------------------------------------------------------------------
-_ MXMBOOK Bookmark, MxM Bookmark
-_ MXMBnum Bookmark, MxM Bookmark (num‚rique)
-_ MXMBINF Bookmark, Infinity
+_ MXMBOOK Bookmark - MxM Bookmark
+_ MXMBnum Bookmark - MxM Bookmark [num‚rique]
+!-----------------------------------------------------------------------------
+_ MXMBOOK Bookmark
+_ MXM_MXM Bookmark - MxM Bookmark
+_ MXMBnum Bookmark - MxM Bookmark [num‚rique]
+
+_ MXM_ION Bookmark - Infinity, Onirique
+_ MXM_IRF Bookmark - Infinity, Romance entre femmes
+_ MXM_IRP Bookmark - Infinity, Romance paranormale
+_ MXM_IUF Bookmark - Infinity, Urban Fantasy
+
+_ MXM_CL  Bookmark - Contes & l‚gendes
+_ MXM_IMA Bookmark - Imaginaire
+_ MXM_MYS Bookmark - MystŠre
+_ MXM_ROM Bookmark - Romance
+_ MXM_TS  Bookmark - Teen spirit
 !-----------------------------------------------------------------------------
 
 !------------------------
 !=== 2014
 !------------------------
-o MXMBOOK     ?  2014.10 ..... ISBN 978-10-92954-25-8
+o MXMBOOK     ?  2014.10 ..... ISBN 979-10-92954-25-8
 } noimg          _L.C. Chase                  ?
-- .oF.     r     _SEXTON Marie                Cinder ş2014 Cinder şTrad. GAUZY-SVAHN Christine
-o MXMBOOK     ?  2014.11 18.00 ISBN 978-10-92954-37-1
-} noimg          _Cashile                     ?
-!--- 368 pages
-- .oSQ     R     _LOCKHART Rohan              Outbreak [GMO-Project, Next Gen - 1] ş2014
+!--- Poche - 127x176 - 132 pages
+- .oS.     r     _SEXTON Marie                Cinder ş2014 Cinder şTrad. GAUZY-SVAHN Christine
 !------------------------
 !=== 2015
 !------------------------
-o MXMBOOK     ?  2015.03 18.00 ISBN 978-10-92954-41-8
-} noimg          _Liliana Sanches             ?
-!--- 304 pages
-- .oF.     R     _DOIGNIES Aurore             Le Tueur … l'as de pique [Entre ses griffes - 1] ş2015
-o MXMBOOK     ?  2015.08 20.00 ISBN 978-10-92954-48-7
+o MXM_IMA     ?  2015.01 ..... ISBN 979-10-92954-37-1
 } noimg          _Cashile                     ?
-!--- 432 pages
-- .oSQ     R     _LOCKHART Rohan              Shadow [GMO-Project, Next Gen - 2] ş2015
-o MXMBOOK     ?  2015.09 25.00 ISBN 978-10-92954-75-3
-} noimg          _Naty Sorokina               ?
-!--- 589 pages
-- .oF.     R     _KEAN Faith                  Prisonnier [Les Chroniques de Ren - 1] ş2015
-o MXMBOOK     ?  2015.12 20.00 ISBN 978-10-92954-85-2
+!--- GF - 140x216 - 368 pages - 18 euros
+- .oSQ     R     _LOCKHART Rohan              Outbreak [GMO-Project, Next Gen - 1] ş2014
+o MXM_ROM     ?  2015.03 ..... ISBN 979-10-92954-41-8
 } noimg          _Liliana Sanches             ?
-!--- 368 pages
+!--- GF - 140x216 - 304 pages - 18 euros
+- .oF.     R     _DOIGNIES Aurore             Le Tueur … l'As de pique [Entre ses griffes - 1] ş2015
+o MXMBOOK     ?  2015.07 ..... ISBN 979-10-92954-47-0
+} noimg          _?                           ?
+!--- GF - 140x216 - 208 pages
+- .oF.     R     _DIGUET Westley              La Damnation de l'ange ş2015
+o MXM_IMA     ?  2015.08 ..... ISBN 979-10-92954-48-7
+} noimg          _Cashile                     ?
+!--- GF - 140x216 - 432 pages - 20 euros
+- .oSQ     R     _LOCKHART Rohan              Shadow [GMO-Project, Next Gen - 2] ş2015
+o MXM_ROM     ?  2015.08 ..... ISBN 979-10-92954-80-7
+} noimg          _Katherine Cardona           ?
+!--- GF - 140x216 - 224 pages
+- .oS.     R     _LOCKHART Rohan              Troublemaker [GMO-Project, Next Gen] ş2015
+o MXM_IMA     ?  2015.12 ..... ISBN 979-10-92954-70-8
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 304 pages
+- .oF.     R     _ROWAN Isabelle              Ink ş2011 Ink şTrad. JONES Alexander
+o MXM_IMA     ?  2015.09 ..... ISBN 979-10-92954-75-3
+} noimg          _Naty Sorokina               ?
+!--- GF - 140x216 - 584 pages - 25 euros
+- .oF.     R     _KEAN Faith                  Prisonnier [Les Chroniques de Ren - 1] ş2015
+o MXM_ROM     ?  2015.12 ..... ISBN 979-10-92954-85-2
+} noimg          _Liliana Sanches             ?
+!--- GF - 140x216 - 368 pages - 20 euros
 - .oF.     R     _DOIGNIES Aurore             La Nature des secrets [Entre ses griffes - 2] ş2015
 !------------------------
 !=== 2016
 !------------------------
-o MXMBOOK     ?  2016.02 25.00 ISBN 979-10-92954-79-1
-} noimg          _(c)MxM Creations            ?
-!--- 536 pages
-- .oF.     R     _MANCELLON C‚line            Mon ami le loup [Temps de Lune - 1/4] ş2016
-o MXMBOOK     ?  2016.02 10.00 ISBN 978-2-37574-109-2
+o MXM_IMA     ?  2016.01 ..... ISBN 979-10-92954-96-8
 } noimg          _Naty Sorokina               ?
-!--- 144 pages
-- .oF.     R     _KEAN Faith                  Valentine's Day … F‚rin - La Garde [Les Chroniques de Ren] ş2016
-o MXMBOOK     ?  2016.02 ..... ISBN 978-2-37574-106-1
-} noimg          _? MxM Cr‚ations             ?
-- .oF.     r     _LILI Lauryan                Faol ş2016
+!--- GF - 140x216 - 184 pages
+- .oF.     R     _VADI Victoriane             Sortie des sables ş2016
+o MXMBOOK     ?  2016.02 ..... ISBN 979-10-92954-79-1
+} noimg          _(c)MxM Creations            ?
+!--- GF - 140x216 - 536 pages - 25 euros
+- .oF.     R     _MANCELLON C‚line            Mon ami le loup [Temps de Lune - 1] ş2016
 o MXMBOOK     ?  2016.02 ..... ISBN 978-2-37574-109-2
 } noimg          _Naty Sorokina               ?
-- .oF.     r     _KEAN Faith                  La Garde [Les Chroniques de Ren] ş2016
-o MXMBOOK     ?  2016.04 18.00 ISBN 978-2-37574-080-4
-} noimg          _Jorge Jacinto               ?
-!--- 352 pages
-- .oF.     R     _MANCELLON C‚line            L'Empire perdu des rois [Nesos Atlas - 1] ş2016
-o MXMBOOK     ?  2016.05 20.00 ISBN 978-2-37574-000-2
-} noimg          _(c)MxM Creations            ?
-!--- 384 pages
-- .oF.     R     _MANCELLON C‚line            Le Hurlement des loups [Temps de Lune - 2] ş2016
-o MXMBOOK     ?  2016.05 ..... ISBN 978-2-37574-020-0
-} noimg          _?                           ?
-- .oF.     R     _BAIRD L.S.                  L'H‚ritier des vˆpres [Les Oiseaux chanteurs - 1] ş2013 Songbirds of Valnon 1 : Evensong's Heir şTrad. Marie A. Ambre
-o MXMBOOK     ?  2016.05 ..... ISBN 979-10-92954-56-2
-} noimg          _?                           ?
-- .oF.     r     _B. L‚ane                    Metamorphosis ş2016
-o MXMBOOK     ?  2016.05 ..... ISBN 978-2-37574-102-3
+!--- GF - 140x216 - 144 pages - 10 euros
+- .oF.     r     _KEAN Faith                  Valentine's Day … F‚rin - La Garde [Les Chroniques de Ren] ş2016
+o MXM_CL      ?  2016.02 ..... ISBN 978-2-37574-106-1
 } noimg          _? MxM Cr‚ations             ?
-- .oF.     r     _MAC ASEIR Daniel R.         Scarlet Fate ş2016
-o MXMBOOK     ?  2016.09 25.00 ISBN 978-2-37574-002-6
-} noimg          _Naty Sorokina               ?
-!--- 568 pages
-- .oF.     R     _KEAN Faith                  Messager [Les Chroniques de Ren - 2] ş2016
-o MXMBOOK     ?  2016.10 ..... ISBN 978-2-37574-129-0
-} noimg          _(c)MxM Cr‚ations            ?
-!--- 408 pages
-- .oF.     R     _HAWK Jordan L.              Hant‚ ş2016 Hainted şTrad. HAUT-CLAIR Ma‰lle
-o MXMBOOK     ?  2016.10 16.00 ISBN 978-2-37574-141-2
+!--- GF - 140x216 - 128 pages
+- .oF.     r     _LILI Lauryan                Faol ş2016
+o MXMBOOK     ?  2016.03 ..... ISBN 978-2-37574-057-6
 } noimg          _?                           ?
-!--- 232 pages
+!--- GF - 140x216 - 264 pages
+- .oS.     R     _WITT L. A.                  D‚/Connexion ş2016
+o MXM_IMA     ?  2016.03 ..... ISBN 978-2-37574-075-0
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 319 pages
+- .oF.     R     _GUFFROY C‚line              Gabriel [Coeur d'archange - 1] ş2016
+o MXM_IMA     ?  2016.04 ..... ISBN 978-2-37574-080-4
+} noimg          _? MxM Cr‚ations             ?
+!--- TBD ou      _Jorge Jacinto               ?
+!--- GF - 140x216 - 352 pages - 18 euros
+- .oY.     R     _MANCELLON C‚line            L'Empire perdu des rois [Nesos Atlas - 1] ş2016
+o MXMBOOK     ?  2016.05 ..... ISBN 978-2-37574-000-2
+} noimg          _(c)MxM Creations            ?
+!--- GF - 140x216 - 384 pages - 20 euros
+- .oF.     R     _MANCELLON C‚line            Le Hurlement des loups [Temps de Lune - 2] ş2016
+o MXM_IMA     ?  2016.05 ..... ISBN 978-2-37574-020-0
+} noimg          _? Vtas et MxM Cr‚ation      ?
+!--- GF - 140x216 - 512 pages
+- .oY.     R     _BAIRD L.S.                  L'H‚ritier des vˆpres [Les Oiseaux chanteurs - 1] ş2013 Evensong's Heir şTrad. AMBRE Marie A.
+o MXM_CL      ?  2016.05 ..... ISBN 979-10-92954-56-2
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 127x176 - 140 pages
+- .oF.     r     _B. L‚ane                    Metamorphosis ş2016
+o MXM_IMA     ?  2016.05 ..... ISBN 978-2-37574-093-4
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 432 pages
+- .oF.     R     _HAIME Lily                 &La Cit‚ d'Agora [Les N‚buleux - 1] ş2016
+&                _LOCKHART Rohan              
+o MXM_CL      ?  2016.05 ..... ISBN 978-2-37574-102-3
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 127x176 - 128 pages
+- .oF.     r     _MAC ASEIR Daniel R.         Scarlet Fate ş2016
+o MXM_IMA     ?  2016.09 ..... ISBN 978-2-37574-002-6
+} noimg          _Naty Sorokina               ?
+!--- GF - 140x216 - 568 pages - 25 euros
+- .oF.     R     _KEAN Faith                  Messager [Les Chroniques de Ren - 2] ş2016
+o MXM_IMA     ?  2016.09 ..... ISBN 978-2-37574-035-4
+} noimg          _Chrissy - Damonza           ?
+!--- GF - 140x216 - 384 pages
+- .oS.     R     _QUINN Susan Kaye            Esprits libres [Mindjack - 1] ş2011 Open Minds şTrad. JONES Alexander
+o MXM_IMA     ?  2016.10 ..... ISBN 978-2-37574-129-0
+} noimg          _(c)MxM Cr‚ations            ?
+!--- GF - 140x216 - 408 pages
+- .oF.     R     _HAWK Jordan L.              Hant‚ ş2016 Hainted şTrad. HAUT-CLAIR Ma‰lle
+o MXM_IMA     ?  2016.10 ..... ISBN 978-2-37574-141-2
+} noimg          _Jorge Jacinto               ?
+!--- GF - 140x216 - 232 pages - 16 euros
 !--- pr‚c‚demment publi‚ sous "Le Chevalier noir"
 - .oYQ     R     _RYLIA Diane B.              La Quˆte [Chevalier noir - 1] ş2016
-o MXMBOOK     ?  2016.11 20.00 ISBN 978-2-37574-017-0
-} noimg          _?                           ?
-!--- 368 pages
+o MXM_IMA     ?  2016.04 ..... ISBN 978-2-37574-018-7
+!--- TBD      ?  2016.11 20.00 ISBN 978-2-37574-017-0
+} noimg          _Claudia McKinney            ?
+!--- GF - 140x216 - 368 pages - 20 euros
 - .oF.     R     _ILLENE Susan                Hant‚e par les t‚nŠbres [Melena Sanders - 1] ş2013 Darkness Haunts şTrad. REGNIER MylŠne
-o MXMBOOK     ?  2016.11 20.00 ISBN 978-2-37574-055-2
-} noimg          _?                           ?
-!--- 408 pages
+o MXM_IMA     ?  2016.11 ..... ISBN 978-2-37574-055-2
+} noimg          _Claudia McKinney            ?
+!--- GF - 140x216 - 408 pages - 20 euros
 - .oF.     R     _ILLENE Susan                Tromp‚e par les t‚nŠbres [Melena Sanders - 2] ş2013 Darkness Taunts şTrad. REGNIER MylŠne
-o MXMBOOK     ?  2016.11 20.00 ISBN 978-2-37574-143-6
+o MXMBOOK     ?  2016.11 ..... ISBN 978-2-37574-143-6
 } noimg          _Katherine Cardona           ?
-!--- 368 pages
+!--- GF - 140x216 - 368 pages - 20 euros
 - .oSQ     R     _LOCKHART Rohan              Fate [GMO-Project, Next Gen - 3] ş2016
-o MXMBOOK     ?  2016.12 25.00 ISBN 978-2-37574-137-5
+o MXM_IMA     ?  2016.12 ..... ISBN 978-2-37574-137-5
 } noimg          _(c)MxM Cr‚ations            ?
-!--- 600 pages
+!--- GF - 140x216 - 600 pages - 25 euros
 - .oF.     R     _KLUNE T.J.                  Le Chant du loup [Le Clan Bennett - 1] ş2016 Wolfsong şTrad. GAUZY-SVAHN Christine
-o MXMBOOK     ?  2016.11 18.00 ISBN 978-2-37574-149-8
+o MXM_ROM     ?  2016.11 ..... ISBN 978-2-37574-149-8
 } noimg          _Liliana Sanches             ?
-!--- 376 pages
+!--- GF - 140x216 - 376 pages - 18 euros
 - .oF.     R     _DOIGNIES Aurore             De crocs et de griffes [Entre ses griffes - 3] ş2016
-o MXMBOOK     ?  2016.12 ..... ISBN 978-2-37574-061-3
+o MXM_IMA     ?  2016.12 ..... ISBN 978-2-37574-061-3
 } noimg          _Vtas                        ?
+!--- GF - 140x216 - 263 pages
 - .oF.     R     _CROW Kirby                  Le Colporteur et le roi des bandits [Scarlet et le loup blanc - 1] ş2007 The Pedlar and the Bandit King şTrad. NEVO Adeline
-o MXMBnum     ?  2016.12 ..... ISBN 978-2-37574-154-2
-} noimg          _Claudia McKinney / Teresa Yeh
-- .oF.     RN    _ILLENE Susan                EnchaŒn‚ par les t‚nŠbres [Melena Sanders] ş2016
+o MXM_IUF     ?  2016.12 ..... ISBN 978-2-37574-153-5
+} noimg          _Claudia McKinney            ?
+!--- GF - 140x216 - 250 pages
+!o MXMBnum     ?  2016.12 ..... ISBN 978-2-37574-154-2
+!} noimg          _Claudia McKinney / Teresa Yeh
+- .oF.     RN    _ILLENE Susan                EnchaŒn‚ par les t‚nŠbres, suivi de Tenter la Lune [Melena Sanders] ş2016
 : .oF.     R     _ILLENE Susan                EnchaŒn‚ par les t‚nŠbres [Melena Sanders - 2.5] ş2013 Chained by Darkness şTrad. REGNIER MylŠne
 : .oF.     N     _ILLENE Susan                Tenter la Lune [Melena Sanders - 2.6] ş2014 Tempting the Moon şTrad. REGNIER MylŠne
 !------------------------
 !=== 2017
 !------------------------
-o MXMBOOK     ?  2017.01 ..... ISBN 978-2-37574-135-1
+o MXM_IMA     ?  2017.01 ..... ISBN 978-2-37574-135-1
 } noimg          _Vtas                        ?
+!--- GF - 140x216 - 240 pages
 - .oF.     R     _CROW Kirby                  La Chance du marin [Scarlet et le loup blanc - 2] ş2007 Mariner's Luck şTrad. NEVO Adeline
-o MXMBOOK     ?  2017.02 13.00 ISBN 978-2-37574-157-3
+o MXM_IMA     ?  2017.01 ..... ISBN 978-2-37574-155-9
+} mxm2017_02     _Fleurine                    ?
+!--- GF - 150x234 - 648 pages
+- .oF.    kR2    _GUFFROY C‚line              Damanta - L'Int‚grale [Damanta - 1/2] ş2017
+: .oF.     R     _GUFFROY C‚line              Les Erreurs de l'innocence [Damanta - 1] ş2014
+: .oF.     R     _GUFFROY C‚line              La Voix des sages [Damanta - 2] ş2015
+o MXM_IMA     ?  2017.01 ..... ISBN 978-2-37574-172-6
 } noimg          _Miesis                      ?
-!--- 250 pages
+!--- GF - 140x216 - 250 pages
+- .oF.     R     _VADI Victoriane             Nox Atra [Nox Arcana - 1] ş2017
+o MXM_IMA     ?  2017.01 ..... ISBN 978-2-37574-181-8
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 96 pages
+- .oF.     r     _HALE Ginn                   Swift et le chien noir ş2016 Swift and the Black Dog şTrad. FAURE Viviane
+o MXM_IMA     ?  2017.02 ..... ISBN 978-2-37574-157-3
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 250 pages - 13 euros
 - .oF.     R     _ANDRE Fanny                 Guerre ou paix ? [Bane Seed - 1] ş2017
-o MXMBOOK     ?  2017.02 18.00 ISBN 978-2-37574-171-9
+o MXM_IMA     ?  2017.02 ..... ISBN 978-2-37574-171-9
 } noimg          _Jorge Jacinto               ?
-!--- 336 pages
+!--- GF - 140x216 - 336 pages - 18 euros
 - .oYQ     R     _RYLIA Diane B.              Les Noces [Chevalier noir - 2] ş2017
-o MXMBOOK     ?  2017.02 ..... ISBN 978-2-37574-183-2
+o MXM_IMA     ?  2017.02 ..... ISBN 978-2-37574-183-2
 } noimg          _L.C. Chase                  ?
-- .oF.     R     _COCHET Charlie              Le Prince Soldati [Soldati - 1] ş2016 The Soldati Prince şTrad. HAUT-CLAIR Ma‰lle
-o MXMBOOK     ?  2017.03 25.00 ISBN 978-2-37574-187-0
+!--- GF - 140x216 - 144 pages
++ MXM_MXM     ?  2022.03 ..... ISBN 979-10-381-2347-2
+} noimg          _Reese Dante                 ?
+!--- GF - 140x216 - 143 pages - 13 euros
+- .oY.     r     _COCHET Charlie              Le Prince Soldati [Soldati - 1] ş2016 The Soldati Prince şTrad. HAUT-CLAIR Ma‰lle
+o MXM_IMA     ?  2017.04 ..... ISBN 978-2-37574-197-9
 } noimg          _Chrissy - Damonza           ?
-!--- 368 pages
-- .oF.     R     _KLUNE T.J.                  C'‚tait nuit en le solitaire Octobre [Absynthe - 1] ş2016 Withered + Sere şTrad. HAUTCLAIR Ma‰lle
-o MXMBOOK     ?  2017.03 16.00 ISBN 978-2-37574-195-5
-} noimg          _?                           ?
-!--- 363 pages
-- .oF.     R     _ANDREWS Ilona               Morsure magique [Kate Daniels - 1] ş2007 Magic Bites şTrad. DOKE Sara
-o MXMBOOK     ?  2017.03 16.00 ISBN 978-2-37574-196-2
-} noimg          _?                           ?
-!--- 337 pages
-- .oF.     R     _ANDREWS Ilona               Br–lure magique [Kate Daniels - 2] ş2008 Magic Burns şTrad. DOKE Sara
-o MXMBOOK     ?  2017.03 16.00 ISBN 978-2-37574-275-4
+!--- GF - 140x216 - 344 pages
+- .oS.     R     _QUINN Susan Kaye            Coeurs ‚teints [Mindjack - 2] ş2012 Closed Hearts şTrad. JONES Alexander
+o MXM_IMA     ?  2017.05 ..... ISBN 978-2-37574-187-0
+} noimg          _Chrissy - Damonza           ?
+!--- GF - 140x216 - 368 pages - 25 euros
+- .oS.     R     _KLUNE T.J.                  C'‚tait nuit en le solitaire Octobre [Absynthe - 1] ş2016 Withered + Sere şTrad. HAUT-CLAIR Ma‰lle
+o MXM_IMA     ?  2017.03 ..... ISBN 978-2-37574-195-5
+} noimg          _Chrissy - Damonza           ?
+!--- GF - 140x216 - 363 pages - 16 euros
+- .oF.     R     _ANDREWS Ilona               Morsure magique [Kate Daniels - 1] ş2007 Magic Bites şTrad. DOKE Sara & GALLMAN Marika
+o MXM_IMA     ?  2017.03 ..... ISBN 978-2-37574-196-2
+} noimg          _Chrissy - Damonza           ?
+!--- GF - 140x216 - 337 pages - 16 euros
+- .oF.     R     _ANDREWS Ilona               Br–lure magique [Kate Daniels - 2] ş2008 Magic Burns şTrad. GALLMAN Marika & ASIN Laurie
+o MXM_IMA     ?  2017.03 ..... ISBN 978-2-37574-275-4
 } noimg          _Danilo Sanino               ?
-!--- 301 pages
+!--- GF - 140x216 - 301 pages - 16 euros
 - .oYQ     R     _REED Zoe                    Sur les traces du corbeau [Au sang de nos liens - 1] ş2017 Breaking Legacies şTrad. GUEGAN Siobhan
-o MXMBOOK     ?  2017.04 20.00 ISBN 978-2-37574-161-0
-} noimg          _?                           ?
-!--- 405 pages
+o MXM_IMA     ?  2017.04 ..... ISBN 978-2-37574-161-0
+} noimg          _Claudia McKinney            ?
+!--- GF - 140x216 - 405 pages - 20 euros
 !--- TBD Trad. REGNIER MylŠne (les deux ‚crits dans le livre num‚rique !)
 - .oF.     R     _ILLENE Susan                S‚par‚s par les t‚nŠbres [Melena Sanders - 3] ş2014 Darkness Divides şTrad. LABAISSE Marine
-o MXMBOOK     ?  2017.04 20.99 ISBN 978-2-37574-174-0
+o MXM_IMA     ?  2017.04 ..... ISBN 978-2-37574-174-0
 } noimg          _Miesis                      ?
-!--- 500 pages
+!--- GF - 140x216 - 500 pages - 20.99 euros
 - .oF.     R     _KEAN Faith                  Le MaŒtre des ronces [Les Ronces - 1] ş2017
-o MXMBOOK     ?  2017.05 ..... ISBN 978-2-37574-229-7
-} noimg          _Kriseis                     ?
+o MXM_IMA     ?  2017.05 ..... ISBN 978-2-37574-229-7
+} noimg          _Kryseis                     ?
+!--- GF - 140x216 - 302 pages
 - .oY.     R     _LOCKHART Rohan              Golden Chains [Le Pavillon des chimŠres - 1] ş2017
-o MXMBOOK     ?  2017.05 ..... ISBN 978-2-37574-253-2
+o MXM_IMA     ?  2017.05 ..... ISBN 978-2-37574-253-2
 } noimg          _Vtas                        ?
+!--- GF - 140x216 - 350 pages
 - .oF.     R     _CROW Kirby                  La Terre de la nuit [Scarlet et le loup blanc - 3] ş2007 The Land of Night şTrad. RAHINI Isabelle
-o MXMBOOK     ?  2017.07 18.00 ISBN 978-2-37574-179-5
+o MXM_IMA     ?  2017.07 ..... ISBN 978-2-37574-179-5
 } noimg          _Jorge Jacinto               ?
-!--- 344 pages
+!--- GF - 140x216 - 344 pages - 18 euros
 - .oYQ     R     _RYLIA Diane B.              Les ‚preuves [Chevalier noir - 3] ş2017
-o MXMBOOK     ?  2017.08 ..... ISBN 978-2-37574-342-3
+o MXM_IMA     ?  2017.08 ..... ISBN 978-2-37574-342-3
 } noimg          _? e-Dantes                  ?
+!--- GF - 140x216 - 216 pages
 - .oF.     R     _COOPER R.                   Guide de s‚duction en terrain hostile [Bestiaire amoureux - 1] ş2011 Some Kind of Magic şTrad. WRIGHT Camille
-o MXMBOOK     ?  2017.08 ..... ISBN 978-2-37574-344-7
+o MXM_IMA     ?  2017.08 ..... ISBN 978-2-37574-344-7
 } noimg          _L.C. Chase                  ?
-- .oF.     R     _COCHET Charlie              Le Renard Soldati [Soldati - 2] ş2017 The Foxling Prince şTrad. HAUT-CLAIR Ma‰lle
-o MXMBOOK     ?  2017.08 ..... ISBN 978-2-37574-383-6
+!--- GF - 140x216 - 160 pages
++ MXM_MXM     ?  2022.03 ..... ISBN 979-10-381-2348-9
+} noimg          _Reese Dante                 ?
+!--- GF - 140x216 - 160 pages - 13 euros
+- .oY.     r     _COCHET Charlie              Le Renard Soldati [Soldati - 2] ş2017 The Foxling Prince şTrad. HAUT-CLAIR Ma‰lle
+o MXM_IUF     ?  2017.08 ..... ISBN 978-2-37574-383-6
 } noimg          _Fleurine                    ?
+!--- GF - 140x216 - 300 pages
 - .oF.     R     _REGNIER MylŠne              La Fille du g‚n‚ral [Myria - 1] ş2017
-o MXMBOOK     ?  2017.08 25.00 ISBN 978-2-37574-180-1
+o MXM_IMA     ?  2017.08 ..... ISBN 978-2-37574-180-1
 } noimg          _Naty Sorokina               ?
-!--- 550 pages
+!--- GF - 140x216 - 600 pages - 25 euros
 - .oF.     R     _KEAN Faith                  Guerrier [Les Chroniques de Ren - 3] ş2017
-o MXMBOOK     ?  2017.08 ..... ISBN 978-2-37574-198-6
+o MXM_ION     ?  2017.08 ..... ISBN 978-2-37574-198-6
 } noimg          _Miesis                      ?
+!--- GF - 140x216 - 300 pages
 - .oF.     R     _ST. CLARE Kelly             Rˆves de glace [Les Accords corrompus - 1] ş2015 Fantasy of Frost şTrad. ASIN Laurie
-o MXMBOOK     ?  2017.08 20.00 ISBN 978-2-37574-316-4
-} noimg          _(c)Clarissa                 ?
-!--- 300 pages
-- .oY.     R     _LING Aya                    La Vilaine Belle-Soeur [Les Contes inachev‚s - 1] ş2015 The Ugly Stepsister şTrad. NOVA Julianne
-o MXMBOOK     ?  2017.10 ..... ISBN 978-2-37574-235-8
+o MXM_ION     ?  2017.08 ..... ISBN 978-2-37574-316-4
+} noimg          _? Yocla Designs             ?
+!--- TBD         _(c)Clarissa                 ?
+!--- GF - 140x216 - 300 pages - 20 euros
+- .oF.     R     _LING Aya                    La Vilaine Belle-Soeur [Les Contes inachev‚s - 1] ş2015 The Ugly Stepsister şTrad. NOVA Julianne
+o MXM_IMA     ?  2017.10 ..... ISBN 978-2-37574-235-8
 } noimg          _Mattie                      ?
-!--- 300 pages
-- .oSQ     Z     _LOCKHART Rohan              Stage 001 [Virtual Room - 1] ş2017
-o MXMBnum     ?  2017.10 ..... ISBN 978-2-37574-293-8
-! MXMBOOK     ?  20xx.xx ..... ISBN 978-2-37574-294-5
-} noimg          _Chrissy - Damonza           ?
-!--- 
-- .oS.     R     _KLUNE T.J.                  Les cieux ‚taient de cendres [Absynthe - 2] ş2016 Crisped + Sere şTrad. HAUT CLAIR Ma‰lle
-o MXMBOOK     ?  2017.10 18.00 ISBN 978-2-37574-320-1
-} noimg          _?                           ?
-!--- 300 pages
-- .oF.     R     _ANDREWS Ilona               Attaque magique [Kate Daniels - 3] ş2009 Magic Strikes şTrad. DOKE Sara
-o MXMBOOK     ?  2017.10 20.00 ISBN 978-2-37574-318-8
-} noimg          _?                           ?
-!--- 300 pages
-- .oF.     R     _ANDREWS Ilona               Blessure magique [Kate Daniels - 4] ş2010 Magic Bleeds şTrad. DOKE Sara
-o MXMBOOK     ?  2017.10 ..... ISBN 978-2-37574-355-3
-} noimg          _?                           ?
-- .oS.     R     _SEXTON Marie                Blind Space ş2011 Blind Space şTrad. VAZ Alexia
-o MXMBOOK     ?  2017.10 ..... ISBN 978-2-37574-347-8
+!--- GF - 140x216 - 344 pages
+- .oSQ     Z     _LOCKHART Rohan              Stage 001 - Virtual Room ş2017
+o MXM_ION     ?  2017.10 ..... ISBN 978-2-37574-199-3
 } noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 356 pages
+- .oY.     R     _MONTHIOUX Lorelli P.        Femme et libre ş2017
+o MXM_IMA     ?  2017.10 ..... ISBN 978-2-37574-294-5
+! MXMBnum     ?  2017.10 ..... ISBN 978-2-37574-293-8
+} noimg          _Chrissy - Damonza           ?
+!--- GF - 140x216 - 300 pages
+- .oS.     R     _KLUNE T.J.                  Les cieux ‚taient de cendres [Absynthe - 2] ş2016 Crisped + Sere şTrad. HAUT CLAIR Ma‰lle
+o MXM_IUF     ?  2017.10 ..... ISBN 978-2-37574-318-8
+} noimg          _Chrissy - Damonza           ?
+!--- GF - 140x216 - 300 pages - 20 euros
+- .oF.     R     _ANDREWS Ilona               Blessure magique [Kate Daniels - 4] ş2010 Magic Bleeds şTrad. DOKE Sara
+o MXM_IUF     ?  2017.10 ..... ISBN 978-2-37574-320-1
+} noimg          _Chrissy - Damonza           ?
+!--- GF - 140x216 - 300 pages - 18 euros
+- .oF.     R     _ANDREWS Ilona               Attaque magique [Kate Daniels - 3] ş2009 Magic Strikes şTrad. ASIN Laurie & RICHARD K.
+o MXM_MYS     ?  2017.10 ..... ISBN 978-2-37574-347-8
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 392 pages
 - .oF.     R     _LANYON Josh                 La Mal‚diction du scarab‚e bleu ş2016 The Curse of the Blue Scarab şTrad. WILLAMS L.
-o MXMBOOK     ?  2017.12 ..... ISBN 978-2-37574-397-3
-} noimg          _?                           ?
-- .oF.     R     _COCHET Florence             Le Sang de la guerriŠre ş2017
-o MXMBOOK     ?  2017.12 ..... ISBN 978-2-37574-207-5
-} noimg          _Kriseis                     ?
+o MXM_ROM     ?  2017.10 ..... ISBN 978-2-37574-355-3
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 184 pages
+- .oS.     R     _SEXTON Marie                Blind Space ş2011 Blind Space şTrad. VAZ Alexia
+o MXM_ROM     ?  2017.11 ..... ISBN 978-2-37574-238-9
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 448 pages
+- .oF.     R     _TIEFENBRUNNER Hope          La Fusion [Malchance et objets magiques - 2] ş2017
+o MXM_ION     ?  2017.11 ..... ISBN 978-2-37574-322-5
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 300 pages
+- .oY.     R     _GAUTIER Marine              Au coeur du loch [La L‚gende d'Iseabail & Keir - 1] ş2017
+o MXM_ION     ?  2017.11 ..... ISBN 978-2-37574-391-1
+} noimg          _? Harper Collins            ?
+!--- GF - 140x216 - 300 pages
+- .oS.     R     _PETERFREUND Diana           La Constance de l'‚toile polaire ş2012 For Darkness Shows the Stars şTrad. MOREL Cathy
+o MXM_IMA     ?  2017.12 ..... ISBN 978-2-37574-207-5
+} noimg          _Kryseis                     ?
+!--- GF - 140x216 - 344 pages
 - .oY.     R     _LOCKHART Rohan              Silver Knight [Le Pavillon des chimŠres - 2] ş2017
+o MXM_IMA     ?  2017.12 ..... ISBN 978-2-37574-359-1
+} noimg          _? e-Dantes                  ?
+!--- GF - 140x216 - 300 pages
+- .oF.     R     _HALE Ginn                   Prodige ş2007 Wicked Gentlemen şTrad. AMANCY Timoth‚e
+o MXM_ION     ?  2017.12 ..... ISBN 978-2-37574-397-3
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 300 pages
+- .oF.     R     _COCHET Florence             Le Sang de la guerriŠre ş2017
 !------------------------
 !=== 2018
 !------------------------
-o MXMBOOK     ?  2018.02 20.00 ISBN 978-2-37574-403-1
+o MXM_IUF     ?  2018.02 ..... ISBN 978-2-37574-403-1
 } noimg          _Damonza                     ?
-!--- 300 pages
+!--- GF - 140x216 - 300 pages - 20 euros
 - .oF.     R     _ANDREWS Ilona               Meurtre magique [Kate Daniels - 5] ş2011 Magic Slays şTrad. MOREL Cathy
+o MXM_IMA     ?  2018.03 ..... ISBN 978-2-37574-451-2
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 216 pages
+- .oF.     R     _VADI Victoriane             Calices [Calices - 1] ş2018
 o MXMBnum     ?  2018.03 ..... ISBN 978-2-37574-491-8
 } noimg          _(c)Clarissa                 ?
 !--- 250 pages
 - .oY.     N     _LING Aya                    La Princesse d'Athelia [Les Contes inachev‚s - 1.5] ş2015 Princess of Athelia şTrad. NOVA Julianne
 o MXMBnum     ?  2018.03 ..... ISBN 978-2-37574-498-7
+!--- Urban Fantasy
 } noimg          _Claudia McKinney / Teresa Yeh
 - .oF.     N     _ILLENE Susan                Jouer avec les t‚nŠbres [Melena Sanders - 3.5] ş2013 Playing with Darkness şTrad. REGNIER MylŠne
 ?o MXMBOOK     ?  2018.03 ..... ISBN 978-2-37676-229-4
 ?} noimg          _?                           ?
 ?!--- A priori jamais sorti
 ?- .oY.     R     _SUE Victoria                Le Roi Alpha [Le Royaume d'Askara - 1] ş2017 The Alpha King şTrad. DUBAR Val‚rie
-o MXMBOOK     ?  2018.04 ..... ISBN 978-2-37574-438-3
-} noimg          _?                           ?
+o MXM_ION     ?  2018.04 ..... ISBN 979-2-37574-453-6
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 240 pages - 13 euros
+- .oF.     R     _VON HAFF Jo Ann             Au sorbier des oiseleurs [Les Contes d'Aucelaire - 1] ş2018
+o MXM_ROM     ?  2018.04 ..... ISBN 978-2-37574-236-5
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 248 pages
+- .oF.     R     _TIEFENBRUNNER Hope          La Rotonde aux objets [Malchance et objets magiques - 1] ş2018
+o MXM_IMA     ?  2018.04 ..... ISBN 978-2-37574-438-3
+} noimg          _? AngstyG                   ?
+!--- GF - 140x216 - 304 pages
 - .oS.     R     _SUE Victoria                Unit‚ d'‚lite [H.E.R.O. - 1] ş2016 Five Minutes Longer şTrad. LECOUVREZ Ingrid
-o MXMBOOK     ?  2018.04 17.00 ISBN 978-2-37574-227-3
-} noimg          _(c)MxM Cr‚ations            ?
+o MXM_ROM     ?  2018.04 ..... ISBN 978-2-37574-227-3
+} noimg          _Liliana Sanches             ?
+!--- GF - 140x216 - ? pages - 17 euros
 - .oF.     R     _DOIGNIES Aurore             La Mal‚diction du jaguar [Entre ses griffes - 4] ş2018
-o MXMBOOK     ?  2018.04 17.00 ISBN 978-2-37574-312-6
+o MXM_TS      ?  2018.04 ..... ISBN 978-2-37574-312-6
 } noimg          _(c)MxM Cr‚ations            ?
-!--- 300 pages -  Label Teen Spirit
+!--- GF - 140x216 - 288 pages - 17 euros
 - .oS.     R     _LUKENS F.T.                 L'toile de Ren [Chroniques de la lune bris‚e - 1] ş2016 The Star Host şTrad. SAINT GAL No‚mie
-o MXMBOOK     ?  2018.04 22.00 ISBN 978-2-37574-488-8
-} noimg          _(c)Clarissa                 ?
-!--- 356 pages
-- .oY.     R     _LING Aya                    Il ‚tait deux fois [Les Contes inachev‚s - 2] ş2016 Twice Upon a Time şTrad. NOVA Julianne
-o MXMBOOK     ?  2018.04 13.00 ISBN 978-2-37574-396-6
+o MXM_ION     ?  2018.04 ..... ISBN 978-2-37574-488-8
+} noimg          _? Yocla Designs             ?
+!--- TBD         _(c)Clarissa                 ?
+!--- GF - 140x216 - 356 pages - 22 euros
+- .oF.     R     _LING Aya                    Il ‚tait deux fois [Les Contes inachev‚s - 2] ş2016 Twice Upon a Time şTrad. NOVA Julianne
+o MXM_IUF     ?  2018.04 ..... ISBN 978-2-37574-396-6
 } noimg          _Miesis                      ?
+!--- GF - 140x216 - ? pages - 13 euros
 - .oF.     R     _ANDRE Fanny                 Un crime, un chƒtiment [Bane Seed - 2] ş2018
-o MXMBOOK     ?  2018.05 ..... ISBN 978-2-37574-457-4
+o MXM_IMA     ?  2018.05 ..... ISBN 978-2-37574-430-7
+} noimg          _Anne Cain                   ?
+!--- GF - 140x216 - 368 pages
+- .oF.     R     _FORD Rhys                   Dim Sum Asylum ş2017 Dim Sum Asylum şTrad. GUILLERME Rhys
+o MXM_IUF     ?  2018.05 ..... ISBN 978-2-37574-457-4
 } noimg          _Fleurine                    ?
+!--- GF - 140x216 - ? pages
 - .oF.     R     _REGNIER MylŠne              Les Enfants de Nola [Myria - 2] ş2018
-o MXMBOOK     ?  2018.05 ..... ISBN 978-2-37574-523-6
+o MXM_ION     ?  2018.05 ..... ISBN 978-2-37574-523-6
 } noimg          _Miesis                      ?
+!--- GF - 140x216 - 350 pages
 - .oF.     R     _ST. CLARE Kelly             Rˆves d'envol [Les Accords corrompus - 2] ş2015 Fantasy of Flight şTrad. NOVA Julianne
-o MXMBOOK     ?  2018.05 20.00 ISBN 978-2-37574-001-9
+o MXM_IUF     ?  2018.06 ..... ISBN 978-2-37574-001-9
 } noimg          _(c)MxM Cr‚ations            ?
-!--- 350 pages
+!--- GF - 140x216 - 350 pages - 20 euros
 - .oF.     R     _MANCELLON C‚line            L'Affrontement des meutes [Temps de Lune - 3] ş2018
-o MXMBOOK     ?  2018.05 ..... ISBN 978-2-37574-471-0
+o MXM_IRF     ?  2018.05 ..... ISBN 978-2-37574-471-0
 } noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 300 pages
 - .oF.     R     _VOYARD-VENANT Am‚lie        Dans la lumiŠre ş2018
-o MXMBOOK     ?  2018.05 ..... ISBN 978-2-37574-571-7
+o MXM_IMA     ?  2018.05 ..... ISBN 978-2-37574-571-7
 } noimg          _? e-Dantes                  ?
-- .oF.     R     _COOPER R.                   Guide pour apprivoiser un dragon [Bestiaire amoureux - 2] ş2013 A Boy and his Dragon şTrad. WRIGHT Camille
-o MXMBOOK     ?  2018.05 22.00 ISBN 978-2-37574-399-7
+!--- GF - 140x216 - 288 pages
+- .oF.     R     _COOPER R.                   Guide pour apprivoiser un dragon [Bestiaire amoureux - 2] ş2013 A Boy and His Dragon şTrad. WRIGHT Camille
+o MXM_IUF     ?  2018.05 ..... ISBN 978-2-37574-399-7
 } noimg          _Claudia McKinney / Teresa Yeh
-!--- 440 pages
+!--- GF - 140x216 - 440 pages - 22 euros
 - .oF.     R     _ILLENE Susan                Se battre contre les t‚nŠbres [Melena Sanders - 4] ş2014 Darkness Clashes şTrad. REGNIER MylŠne
-o MXMBOOK     ?  2018.05 ..... ISBN 978-2-37574-349-2
+o MXM_IMA     ?  2018.05 ..... ISBN 978-2-37574-349-2
 } noimg          _Vtas                        ?
+!--- GF - 140x216 - 240 pages
 - .oF.     R     _CROW Kirby                  Le Pacte interdit [Scarlet et le loup blanc - 4] ş? The King of Forever şTrad. RAHINI Isabelle
-o MXMBOOK     ?  2018.06 16.00 ISBN 978-2-37574-447-5
+o MXM_IRF     ?  2018.05 ..... ISBN 978-2-37574-473-4
+} noimg          _Kanaxa                      ?
+!--- GF - 140x216 - 365 pages
+- .oS.     R     _PLATEL Virginie             Disparitions … Versailles [Agents Virtu'elles - 1] ş2016
+o MXM_IMA     ?  2018.06 ..... ISBN 978-2-37574-447-5
 } noimg          _Naty Sorokina               ?
+!--- GF - 140x216 - 215 pages - 16 euros
 - .oF.     R     _KEAN Faith                  Encorcel‚ [Les Chroniques de Ferin - 1] ş2018
-o MXMBOOK     ?  2018.07 ..... ISBN 978-2-37574-469-7
-} noimg          _Kriseis                     ?
+o MXM_ION     ?  2018.07 ..... ISBN 978-2-37574-469-7
+} noimg          _Kryseis                     ?
+!--- GF - 140x216 - 300 pages
 - .oF.     R     _COLLINS Laura               Initiation [Ce que veulent les ƒmes - 1] ş2018
-o MXMBINF     ?  2018.08 ..... ISBN 978-2-37574-475-8
+o MXM_IRF     ?  2018.08 ..... ISBN 978-2-37574-475-8
 } noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 200 pages
 - .oF.     R     _PAMIMQA                     Chasse-les-Ombres ş2018
-o MXMBOOK     ?  2018.09 23.00 ISBN 978-2-37574-559-5
+o MXM_IRF     ?  2018.08 ..... ISBN 978-2-37574-479-6
+} noimg          _Kanaxa                      ?
+!--- GF - 140x216 - 200 pages
+- .oS.     R     _PLATEL Virginie             Neuroshopping [Agents Virtu'elles - 2] ş2018
+o MXM_IMA     ?  2018.09 ..... ISBN 978-2-37574-559-5
 } noimg          _Miesis                      ?
-!--- 496 pages
+!--- GF - 140x216 - 496 pages - 23 euros
 - .oF.     R     _KEAN Faith                  Le Miracle des ronces [Les Ronces - 2] ş2018
-o MXMBOOK     ?  2018.09 ..... ISBN 978-2-37574-554-0
-} noimg          _?                           ?
-- .oF.     R     _ULRIK Candice               Dans la taniŠre du loup [Going Wild - 1] ş2018
-o MXMBOOK     ?  2018.10 ..... ISBN 978-2-37574-507-6
-} noimg          _Miesis                      ?
-- .oF.     R     _ST. CLARE Kelly             Rˆves de feu [Les Accords corrompus - 3] ş2016 Fantasy of Fire şTrad. NOVA Julianne
-o MXMBOOK     ?  2018.11 20.00 ISBN 978-2-37574-527-4
-} noimg          _Claudia McKinney / Teresa Yeh
-!--- 300 pages
-- .oF.     R     _ILLENE Susan                Dissiper les t‚nŠbres [Melena Sanders - 5] ş2015 Darkness Shatters şTrad. REGNIER MylŠne
-o MXMBOOK     ?  2018.11 ..... ISBN 978-2-37574-561-8
-} noimg          _MxM Cr‚ations               ?
-- .oF.     R     _RAVENCROFT Keliane          Tempus Fugit [Le Cycle de la Triade Pourpre - 1] ş2018
-o MXMBOOK     ?  2018.11 13.00 ISBN 978-2-37574-547-2
-} noimg          _Miesis                      ?
-!--- 100 pages
-- .oF.     R     _ANDRE Fanny                 Voyage au bout du Sidh [Bane Seed - 3] ş2018
-o MXMBOOK     ?  2018.11 ..... ISBN 978-2-37574-503-8
+o MXM_IMA     ?  2018.09 ..... ISBN 978-2-37574-554-0
 } noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 256 pages
+- .oF.     R     _ULRIK Candice               Dans la taniŠre du loup [Going Wild - 1] ş2018
+o MXM_ION     ?  2018.10 ..... ISBN 978-2-37574-507-6
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 300 pages
+- .oF.     R     _ST. CLARE Kelly             Rˆves de feu [Les Accords corrompus - 3] ş2016 Fantasy of Fire şTrad. NOVA Julianne
+o MXM_IUF     ?  2018.11 ..... ISBN 978-2-37574-503-8
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 344 pages
 - .oF.     R     _HARPER Helen                Quand fain‚antise rime avec magie [Ivy Wilde - 1] ş2017 Slouch Witch şTrad. GUILLEMET Marguerite
-o MXMBOOK     ?  2018.11 14.00 ISBN 978-2-37574-587-8
-} noimg          _(c)MxM Cr‚ations            ?
-!--- 300 pages
+o MXM_IUF     ?  2018.11 ..... ISBN 978-2-37574-527-4
+} noimg          _Claudia McKinney / Teresa Yeh
+!--- GF - 140x216 - 300 pages - 20 euros
+- .oF.     R     _ILLENE Susan                Dissiper les t‚nŠbres [Melena Sanders - 5] ş2015 Darkness Shatters şTrad. REGNIER MylŠne
+o MXM_IUF     ?  2018.11 ..... ISBN 978-2-37574-547-2
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 100 pages - 13 euros
+- .oF.     r     _ANDRE Fanny                 Voyage au bout du Sidh [Bane Seed - 3] ş2018
+o MXM_ROM     ?  2018.11 ..... ISBN 978-2-37574-561-8
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 544 pages
+- .oF.     R     _RAVENCROFT Keliane          Tempus Fugit [Le Cycle de la Triade Pourpre - 1] ş2018
+o MXM_IMA     ?  2018.11 ..... ISBN 978-2-37574-565-6
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 256 pages
+- .oF.     R     _ULRIK Candice               Loup y es-tu ? [Going Wild - 2] ş2018
+o MXM_IMA     ?  2018.11 ..... ISBN 978-2-37574-587-8
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 400 pages - 14 euros
+!--- CF : un court roman en plus
 - .oF.     Rr    _HAWK Jordan L.              Le Briseur de mal‚fice [Hexworld] ş2018
 : .oF.     R     _HAWK Jordan L.              Le Briseur de mal‚fice [Hexworld - 1] ş2016 Hexbreaker şTrad. BEHIN Loriane
 : .oF.     r     _HAWK Jordan L.              Le 13e mal‚fice [Hexworld - 0.5] ş2015 The Thirteenth Hex şTrad. BEHIN Loriane
-o MXMBOOK     ?  2018.11 ..... ISBN 978-2-37574-622-6
+o MXM_IMA     ?  2018.11 ..... ISBN 978-2-37574-622-6
 } noimg          _Anne Cain                   ?
+!--- GF - 140x216 - 408 pages
 - .oF.     R     _FORD Rhys                   Cavaliers de l'apocalypse ş2015 Ink and Shadows şTrad. DESUSCLADE Delphine
-o MXMBOOK     ?  2018.11 ..... ISBN 978-2-37574-702-5
-} noimg          _? London Montgomery         ?
+o MXM_IRP     ?  2018.11 ..... ISBN 978-2-37574-662-2
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 424 pages
+- .oF.     R     _SPINELLA Laura              Les reliques de l'au-del… [Enquˆtes surnaturelles - 1] ş2016 Ghost Gifts şTrad. MOREL Cathy
+o MXM_IMA     ?  2018.11 ..... ISBN 978-2-37574-702-5
+} noimg          _? London Montgomery Covers  ?
+!--- GF - 140x216 - 296 pages
 - .oS.     R     _SUE Victoria                Hors de contr“le [H.E.R.O. - 2] ş2017 Who we Truly Are şTrad. LECOUVREZ Ingrid
-o MXMBOOK     ?  2018.11 ..... ISBN 978-2-37574-565-6
-} noimg          _Mirella Santana             ?
-- .oF.     R     _ULRIK Candice               Loup y es-tu ? [Going Wild - 2] ş2018
-o MXMBOOK     ?  2018.12 ..... ISBN 978-2-37574-583-0
-} noimg          _e-Dantes                    ?
-- .oF.     R     _GABRIEL Alex                Comment sortir avec un super h‚ros ş2017 Love for the Cold-Blooded şTrad. VAZ Alexia
-o MXMBOOK     ?  2018.12 ..... ISBN 978-2-37574-595-3
+o MXM_ROM     ?  2018.12 ..... ISBN 978-2-37574-583-0
 } noimg          _? e-Dantes                  ?
+!--- GF - 140x216 - 480 pages
+- .oS.     R     _GABRIEL Alex                Comment sortir avec un super h‚ros ş2017 Love for the Cold-Blooded şTrad. VAZ Alexia
+o MXM_IMA     ?  2018.12 ..... ISBN 978-2-37574-595-3
+} noimg          _? e-Dantes                  ?
+!--- GF - 140x216 - 264 pages
 - .oF.     R     _COOPER R.                   Guide du d‚butant pour courtiser votre compagnon [Bestiaire amoureux - 3] ş2015 A Beginner's Guide to Wooing Your Mate şTrad. WRIGHT Camille
-o MXMBOOK     ?  2018.12 ..... ISBN 978-2-37574-623-3
-} noimg          _?                           ?
-- .oF.     R     _HARMON S.E.                 L'trange Disparition de Amy Greene [Les enquˆtes extra-lucide de Rain Christiansen - 1] ş2017 P.S. I Spook You şTrad. WRIGHT Camille
+o MXM_MYS     ?  2018.12 ..... ISBN 978-2-37574-623-3
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 441 pages
+- .oF.     R     _HARMON S.E.                 L'trange Disparition de Amy Greene [Les Enquˆtes extra-lucides de Rain Christiansen - 1] ş2017 P.S. I Spook You şTrad. WRIGHT Camille
 !------------------------
 !=== 2019
 !------------------------
-o MXMBOOK     ?  2019.01 ..... ISBN 978-2-37574-467-3
-} noimg          _?                           ?
+o MXM_IRP     ?  2019.01 ..... ISBN ?978-2-37574-467-3
+} noimg          _? Heart & Bailey            ?
+!--- GF - 140x216 - 250 pages
 - .oF.     R     _GOUDIN Lucie                Le V‚ritable Ennemi [Le Tournoi des immortels - 1] ş2017
-o MXMBOOK     ?  2019.01 17.00 ISBN 978-2-37574-511-3
-} noimg          _(c)Clarissa                 ?
-!--- 250 pages
+o MXM_ION     ?  2019.01 ..... ISBN 978-2-37574-511-3
+} noimg          _? Yocla Designs             ?
+!--- TBD         _(c)Clarissa                 ?
+!--- GF - 140x216 - 250 pages - 17 euros
 - .oF.     R     _LING Aya                    Pour toujours et … jamais [Les Contes inachev‚s - 3] ş2018 Ever After şTrad. RAHIMI Isabelle
-o MXMBOOK     ?  2019.01 ..... ISBN 978-2-37574-628-8
+o MXM_IMA     ?  2019.01 ..... ISBN 978-2-37574-628-8
 } noimg          _(c)MxM Cr‚ations            ?
-!--- 500 pages
+!--- GF - 140x216 - 640 pages
 - .oF.     R     _KLUNE T.J.                  Le Chant du corbeau [Le Clan Bennett - 2] ş2018 Ravensong şTrad. GAUZY-SVAHN Christine
-o MXMBOOK     ?  2019.02 ..... ISBN 978-2-37574-707-0
-} noimg          _MxM Cr‚ations               ?
+o MXM_MXM     ?  2019.02 ..... ISBN 978-2-37574-707-0
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 256 pages
 - .oF.     R     _RAVENCROFT Keliane          Requiem [Le Cycle de la Triade Pourpre - 2] ş2019
-o MXMBOOK     ?  2019.03 ..... ISBN 978-2-37574-719-3
-} noimg          _MxM Cr‚ations               ?
-- .oF.     R     _NAIDE Jessica               Les Yeux noirs [La Noirceur des ‚toiles - 1] ş2019
-o MXMBOOK     ?  2019.03 ..... ISBN 978-2-37574-717-9
-} noimg          _MxM Cr‚ations               ?
-- .oF.     R     _JEDYNAK MarlŠne             Le Devoir d'un berserker [La Riposte des dragons - 1] ş2019
-o MXMBOOK     ?  2019.03 ..... ISBN 978-2-37574-731-5
+o MXM_ION     ?  2019.02 ..... ISBN 979-2-37574-735-3
 } noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 224 pages - 15 euros
+- .oF.     R     _VON HAFF Jo Ann             Tango … minuit [Les Contes d'Aucelaire - 2] ş2019
+o MXM_IRF     ?  2019.03 ..... ISBN 978-2-37574-277-8
+} noimg          _Danilo Sanino               ?
+!--- GF - 140x216 - 336 pages - 16 euros
+- .oYQ     R     _REED Zoe                    Sur les traces du dragon [Au sang de nos liens - 2] ş2017 Breaking Legacies şTrad. GUEGAN Siobhan
+o MXM_ION     ?  2019.03 ..... ISBN 978-2-37574-455-0
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 224 pages
+- .oY.     R     _GAUTIER Marine              Au coeur des fjords [La L‚gende d'Iseabail & Keir - 2] ş2019
+o MXM_MXM     ?  2019.03 ..... ISBN 978-2-37574-717-9
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 280 pages
+- .oF.     R     _JEDYNAK MarlŠne             Le Devoir d'un Berserker [La Riposte des dragons - 1] ş2019
+o MXM_MXM     ?  2019.03 ..... ISBN 978-2-37574-719-3
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 360 pages
+- .oS.     R     _NAIDE Jessica               Les Yeux noirs [La Noirceur des ‚toiles - 1] ş2019
+o MXM_ION     ?  2019.03 ..... ISBN 978-2-37574-731-5
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 350 pages
 - .oF.     R     _EVE Jaymin                 &Supercherie [La Mal‚diction des dieux - 1] ş2017 Trickery şTrad. MOREL Cathy
 &                _WASHINGTON Jane             
-o MXMBOOK     ?  2019.03 16.00 ISBN 978-2-37574-277-8
-} noimg          _Danilo Sanino               ?
-!--- 336 pages
-- .oYQ     R     _REED Zoe                    Sur les traces du dragon [Au sang de nos liens - 2] ş2017 Breaking Legacies şTrad. GUEGAN Siobhan
-o MXMBOOK     ?  2019.04 22.00 ISBN 978-2-37574-655-4
+o MXM_MXM     ?  2019.04 ..... ISBN 978-2-37574-594-6
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 240 pages
+- .oY.     R     _WRIGHT Camille              Le Grand Fracas [La Ballade du roi et de son chevalier - 1] ş2019
+o MXM_IUF     ?  2019.05 ..... ISBN 978-2-37574-655-4
 } noimg          _Damonza                     ?
-!--- 480 pages
+!--- GF - 140x216 - 480 pages - 22 euros
 - .oF.     R     _ANDREWS Ilona               Mont‚e magique [Kate Daniels - 6] ş2013 Magic Rises şTrad. FRUTEAU C‚cile
-o MXMBOOK     ?  2019.04 ..... ISBN 978-2-37574-541-0
-} noimg          _?                           ?
-- .oF.     R     _PESSIN Sarah                Soleil noir ş2019
-o MXMBOOK     ?  2019.04 ..... ISBN 978-2-37574-773-5
-} noimg          _?                           ?
+o MXM_IRF     ?  2019.04 ..... ISBN 978-2-37574-541-0
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 150 pages
+- .oS.     r     _PESSIN Sarah                Soleil noir ş2019
+o MXM_IUF     ?  2019.04 ..... ISBN ?978-2-37574-669-1
+} noimg          _? Gene Mollica Studio       ?
+!--- GF - 140x216 - 312 pages
+- .oF.     R     _EDWARDS Hailey              Comment sauver la peau d'un mort-vivant [Guide pour n‚cromancien en herbe - 1] ş2017 How to Save an Undead Life şTrad. ADOUARD Alexandre
+o MXM_MXM     ?  2019.04 ..... ISBN 978-2-37574-773-5
+} noimg          _? AngstyG                   ?
+!--- GF - 140x216 - 408 pages
 - .oF.     R     _TURNER Hailey               Un paquet d'os et d'or [Dette de sang - 1] ş2018 A Ferry of Bones & Gold şTrad. WRIGHT Camille
-o MXMBOOK     ?  2019.05 ..... ISBN 978-2-37574-747-6
-} noimg          _Fleurine                    ?
-- .oF.     R     _REGNIER MylŠne              Les Fils des flammes [Myria - 3] ş2019
-o MXMBOOK     ?  2019.05 ..... ISBN 978-2-37574-753-7
-} noimg          _Hart & Bailey               ?
-- .oS.     R     _COLLINS Laura               Elya [Au-del… de la porte (L. Collins) - 1] ş2019
-o MXMBOOK     ?  2019.05 ..... ISBN 978-2-37574-818-3
-} noimg          _Mirella Santana             ?
-- .oF.     R     _HARPER Helen                Meurtres, magie et t‚l‚-r‚alit‚ [Ivy Wilde - 2] ş2018 Star Witch şTrad. GUILLEMET Marguerite
-o MXMBOOK     ?  2019.05 ..... ISBN 978-2-37574-509-0
+o MXM_MXM     ?  2019.04 ..... ISBN 978-2-37574-786-5
+} mxm2019_61     _(c)Dreamspinner             ?
+!--- GF - 140x210 - 344 pages
+>--- Tarduction de trois des textes de l'anthologie originale qui comporte 6 courts romans.
+- .oF.    kA3    *KRISTUFEK Tricia            Devil Take Me ş2018 Devil Take Me
+: .oF.     r     _FORD Rhys                   La Cit‚ des merveilles ş2018 Wonderland City şTrad. WILLIAM L.
+: .oF.     r     _POE C. S.                   23:59 ş2018 23:59 şTrad. VAZ Alexia
+: .oF.     r     _MOORE T.A.                  Collared ş2018 Collared şTrad. DUKIC Caroline
+o MXM_ION     ?  2019.05 ..... ISBN 978-2-37574-509-0
 } noimg          _Miesis                      ?
+!--- GF - 140x216 - 376 pages
 - .oF.     R     _ST. CLARE Kelly             Rˆves de libert‚ [Les Accords corrompus - 4] ş2016 Fantasy of Freedom şTrad. NOVA Julianne
-o MXMBnum     ?  2019.06 ..... ISBN 978-2-37574-804-6
-} noimg          _(c)MxM Cr‚ations            ?
-- .oF.     R     _HAWK Jordan L.              Le Lanceur de mal‚fice [Hexworld - 2] ş2016 Hexmaker şTrad. BEHIN Loriane
-o MXMBOOK     ?  2019.07 ..... ISBN 978-2-37574-765-0
-} noimg          _Kriseis                     ?
-- .oF.     R     _COLLINS Laura               R‚v‚lation [Ce que veulent les ƒmes - 2] ş2019
-o MXMBOOK     ?  2019.07 ..... ISBN 978-2-37574-808-4
+o MXM_MXM     ?  2019.05 ..... ISBN 978-2-37574-621-9
+} noimg          _Dawn Kimberling             ?
+!--- GF - 140x216 - 400 pages
+- .oF.     R     _HYDE Langley                Le Grimoire Highfell ş2014 Highfell Grimoires şTrad. COOPER Dale
+o MXM_MXM     ?  2019.05 ..... ISBN 978-2-37574-709-4
 } noimg          _Mirella Santana             ?
-- .oF.     R     _ERIKSEN Charlie             Les Cygnes de fer [Oracle-la-corrosive - 1] ş2019
-o MXMBOOK     ?  2019.08 ..... ISBN 978-2-37574-556-4
-} noimg          _?                           ?
-- .oF.     R     _VERLANDI Mo‹ra              Le Prˆtre d'Anubis [Les H‚ritiers - 1] ş2019
-o MXMBOOK     ?  2019.08 ..... ISBN 978-2-37574-815-2
+!--- GF - 140x216 - 224 pages
+- .oF.     R     _EASTON Eli                  Comment hurler … la lune [Mad Creek - 1] ş2015 How to Howl at the Moon şTrad. REGNIER MylŠne
+o MXM_IUF     ?  2019.05 ..... ISBN 978-2-37574-747-6
+} noimg          _Fleurine                    ?
+!--- GF - 140x216 - 320 pages
+- .oF.     R     _REGNIER MylŠne              Les Fils des flammes [Myria - 3] ş2019
+o MXM_ION     ?  2019.05 ..... ISBN 978-2-37574-753-7
+} noimg          _Hart & Bailey               ?
+!--- GF - 140x216 - 304 pages
+- .oS.     R     _COLLINS Laura               Elya [Au-del… de la porte (L. Collins) - 1] ş2019
+o MXM_MXM     ?  2019.05 ..... ISBN 978-2-37574-788-9
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 288 pages
+- .oF.     R     _RERU                        Quand la nuit tombera ş2019
+o MXM_IUF     ?  2019.05 ..... ISBN 978-2-37574-818-3
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 328 pages
+- .oF.     R     _HARPER Helen                Meurtres, magie et t‚l‚-r‚alit‚ [Ivy Wilde - 2] ş2018 Star Witch şTrad. GUILLEMET Marguerite
+o MXM_IUF     ?  2019.06 ..... ISBN 978-2-37574-667-7
+} noimg          _Claudia McKinney            ?
+!--- GF - 140x216 - 450 pages
+- .oF.     R     _ILLENE Susan                Le D‚clin des t‚nŠbres [Melena Sanders - 6] ş2016 Darkness Wanes şTrad. REGNIER MylŠne
+o MXM_MXM     ?  2019.06 ..... ISBN 978-2-37574-711-7
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 280 pages
+- .oF.     R     _EASTON Eli                  Comment marcher comme un Homme [Mad Creek - 2] ş2015 How to Walk Like a Man şTrad. REGNIER MylŠne
+o MXM_MXM     ?  2019.07 ..... ISBN 978-2-37574-803-9
+} noimg          _(c)MxM Cr‚ations            ?
+!--- GF - 140x216 - 288 pages
+- .oF.     R     _HAWK Jordan L.              Le Lanceur de mal‚fice [Hexworld - 2] ş2016 Hexmaker şTrad. BEHIN Loriane
+o MXM_ION     ?  2019.07 ..... ISBN 978-2-37574-675-2
+} noimg          _Natasha Snow                ?
+!--- GF - 140x216 - 448 pages
+- .oF.     R     _HOWARD A. G.                La M‚lodie du fant“me [Les Coeurs hant‚s - 1] ş2016 The Architect of Song şTrad. GUILLEMET Marguerite
+o MXM_TS      ?  2019.07 ..... ISBN 978-2-37574-694-3
 } noimg          _Miesis                      ?
+!--- GF - 140x216 - 464 pages
+- .oS.     R     _SOUTOUL St‚phane            E-Challengers ş2019
+o MXM_ION     ?  2019.07 ..... ISBN 978-2-37574-765-0
+} noimg          _Kryseis                     ?
+!--- GF - 140x216 - 450 pages
+- .oF.     R     _COLLINS Laura               R‚v‚lation [Ce que veulent les ƒmes - 2] ş2019
+o MXM_MXM     ?  2019.07 ..... ISBN 978-2-37574-793-3
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 296 pages
+- .oF.     R     _EASTON Eli                  Comment briller comme une ‚toile [Mad Creek - 3] ş2016 How to Wish Upon a Star şTrad. REGNIER MylŠne
+o MXM_MXM     ?  2019.07 ..... ISBN 978-2-37574-808-4
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 432 pages
+- .oS.     R     _ERIKSEN Charlie             Les Cygnes de fer [Oracle-la-corrosive - 1] ş2019
+o MXM_MXM     ?  2019.08 ..... ISBN 978-2-37574-556-4
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 248 pages
+- .oF.     R     _VERDANDI Mo‹ra              Le Prˆtre d'Anubis [Les H‚ritiers - 1] ş2019
+o MXM_MXM     ?  2019.08 ..... ISBN 978-2-37574-815-2
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 328 pages
 - .oF.     R     _WEISS Marilyne              PremiŠre Lune [Leden Falls - 1] ş2019
-o MXMBOOK     ?  2019.08 ..... ISBN 978-2-37574-824-4
+o MXM_ION     ?  2019.08 ..... ISBN 978-2-37574-824-4
 } noimg          _Miesis                      ?
+!--- GF - 140x216 - 350 pages
 - .oF.     R     _ST. CLARE Kelly            &Pacte de sang [Le Dernier Drae - 1] ş2017 Blood Oath şTrad. DEMOULIN Julie
 &                _WAGNER Raye                 
-o MXMBOOK     ?  2019.08 ..... ISBN 978-2-37574-837-4
-} noimg          _? London Montgomery         ?
+o MXM_MXM     ?  2019.08 ..... ISBN 978-2-37574-837-4
+} noimg          _? London Montgomery Covers  ?
+!--- GF - 140x216 - 320 pages
 - .oS.     R     _SUE Victoria                DerriŠre le masque [H.E.R.O. - 3] ş2018 Beneath this Mask şTrad. LECOUVREZ Ingrid
-o MXMBOOK     ?  2019.08 ..... ISBN 978-2-37574-846-6
-} noimg          _?                           ?
+o MXM_MXM     ?  2019.08 ..... ISBN 978-2-37574-842-8
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 304 pages
+- .oF.     R     _LOCKHART Rohan              Le Kitsune [Chroniques d'un Shinigami ordinaire - 1] ş2019
+o MXM_MXM     ?  2019.08 ..... ISBN 978-2-37574-846-6
+} noimg          _? AngstyG                   ?
+!--- GF - 140x216 - 432 pages
 - .oF.     R     _TURNER Hailey               Toutes les ƒmes aux alentours [Dette de sang - 2] ş2019 All Souls Near & Night şTrad. WRIGHT Camille
-o MXMBOOK     ?  2019.08 ..... ISBN 978-2-37574-821-3
+o MXM_ION     ?  2019.08 ..... ISBN 978-2-37574-821-3
 } noimg          _Miesis                      ?
-- .oF.     R     _JANE Samantha               Willow et Lucas [Le Conseil d'Orion - 1] ş? Starborn şTrad. TULLY Alma
-o MXMBOOK     ?  2019.09 ..... ISBN 978-2-37574-854-1
-} noimg          _?                           ?
-- .oF.     R     _KEAN Faith                  L'Apprenti [Les Chroniques de Ferin - 2] ş2019
-o MXMBOOK     ?  2019.09 ..... ISBN 978-2-37574-856-5
-} noimg          _Mirella Santana             ?
-- .oF.     R     _KLUNE T.J.                  Le Coeur de foudre [Les Contes de Verania - 1] ş2015 The Lightning-Struck Heart şTrad. VAZ Alexia
-o MXMBOOK     ?  2019.09 ..... ISBN 978-2-37574-656-1
-} noimg          _Chrissy Damonza             ?
+!--- GF - 140x216 - 100 pages
+- .oS.     r     _JANE Samantha               Willow et Lucas [Le Conseil d'Orion - 1] ş2017 Starborn şTrad. TULLY Alma
+o MXM_IUF     ?  2019.09 ..... ISBN 978-2-37574-656-1
+} noimg          _Chrissy - Damonza           ?
+!--- GF - 140x216 - 520 pages
 - .oF.     R     _ANDREWS Ilona               Rupture magique [Kate Daniels - 7] ş2014 Magic Breaks şTrad. FRUTEAU C‚cile
-o MXMBOOK     ?  2019.10 ..... ISBN 978-2-37574-905-0
-} noimg          _?                           ?
-- .oF.     R     _GUFFROY C‚line              Amazones ş2019
-o MXMBOOK     ?  2019.10 ..... ISBN 978-2-37574-867-1
-} noimg          _MxM Cr‚ations               ?
-- .oF.     R     _RAVENCROFT Keliane          Carpe Diem [Le Cycle de la Triade Pourpre - 3] ş2019
-o MXMBOOK     ?  2019.10 ..... ISBN 978-2-37574-868-8
-} noimg          _? e-Dantes                  ?
-- .oF.     R     _COOPER R.                   Guide pour ‚chapper au grand m‚chant loup [Bestiaire amoureux - 4] ş2018 Little Wolf şTrad. WRIGHT Camille
-o MXMBOOK     ?  2019.10 ..... ISBN 978-2-37574-917-3
-} noimg          _?                           ?
-- .oF.     R     _DARK Dannika                Sept ans [La Meute Weston - 1] ş2013 Seven Years şTrad. ADOUARD Alexandre
-o MXMBOOK     ?  2019.11 ..... ISBN 978-2-37574-881-7
-} noimg          _MxM Cr‚ations               ?
-- .oF.     R     _WYCK Alex                   clats de glace [Eclats de glace - 1] ş2019
-o MXMBOOK     ?  2019.11 ..... ISBN 978-2-37574-880-0
-} noimg          _?                           ?
-- .oF.     R     _KLUNE T.J.                  Les Dragons de la destin‚e [Les Contes de Verania - 2] ş2017 A Destiny of Dragons şTrad. VAZ Alexia
-o MXMBOOK     ?  2019.11 ..... ISBN 978-2-37574-817-6
-} noimg          _?                           ?
-- .oF.     R     _ANDRE Fanny                 Mort sur la lande [Bane Seed - 4] ş2019
-o MXMBOOK     ?  2019.11 ..... ISBN 978-2-37574-670-7
-} noimg          _?                           ?
-- .oF.     R     _PAQUET Violette             Nuit et Jour ş2019
-o MXMBOOK     ?  2019.12 ..... ISBN 978-2-37574-915-9
+o MXM_IRP     ?  2019.09 ..... ISBN 978-2-37574-826-8
+} noimg          _? Heart & Bailey            ?
+!--- GF - 140x216 - 384 pages
+- .oF.     R     _GOUDIN Lucie                La V‚ritable Identit‚ [Le Tournoi des immortels - 2] ş2019
+o MXM_MXM     ?  2019.09 ..... ISBN 978-2-37574-854-1
+} noimg          _Naty Sorokina               ?
+!--- GF - 140x216 - 600 pages
+- .oF.     R     _KEAN Faith                  L'Apprenti [Les Chroniques de Ferin - 2] ş2019
+o MXM_MXM     ?  2019.09 ..... ISBN 978-2-37574-856-5
 } noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 600 pages
+- .oY.     R     _KLUNE T.J.                  Le Coeur de foudre [Les Contes de Verania - 1] ş2015 The Lightning-Struck Heart şTrad. VAZ Alexia
+o MXM_IUF     ?  2019.09 ..... ISBN 978-2-37574-891-6
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 432 pages
+- .oF.     R     _ROBSON Cecy                 Li‚es par un sortilŠge [La Mal‚diction de C‚lia - 1] ş2012 Sealed With a Curse şTrad. ADOUARD Alexandre
+o MXM_ION     ?  2019.10 ..... ISBN 978-2-37574-905-0
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 612 pages
+- .oF.     R     _GUFFROY C‚line              Amazones ş2019
+o MXM_IMA     ?  2019.10 ..... ISBN 978-2-37574-867-1
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 608 pages
+- .oF.     R     _RAVENCROFT Keliane          Carpe Diem [Le Cycle de la Triade Pourpre - 3] ş2019
+o MXM_MXM     ?  2019.10 ..... ISBN 978-2-37574-868-8
+} noimg          _? e-Dantes                  ?
+!--- GF - 140x216 - 384 pages
+- .oF.     R     _COOPER R.                   Guide pour ‚chapper au grand m‚chant loup - Partie 1 [Bestiaire amoureux - 4.1] ş2015 Little Wolf şTrad. WRIGHT Camille
+o MXM_IUF     ?  2019.10 ..... ISBN 978-2-37574-917-3
+} noimg          _? e-Dantes                  ?
+!--- GF - 140x216 - 442 pages
+- .oF.     R     _DARK Dannika                Sept ans [La Meute Weston - 1] ş2013 Seven Years şTrad. ADOUARD Alexandre
+o MXM_MXM     ?  2019.11 ..... ISBN 979-10-381-0023-7
+} noimg          _? e-Dantes                  ?
+!--- GF - 140x216 - 384 pages
+- .oF.     R     _COOPER R.                   Guide pour ‚chapper au grand m‚chant loup - Partie 2 [Bestiaire amoureux - 4.2] ş2015 Little Wolf şTrad. WRIGHT Camille
+o MXM_ION     ?  2019.11 ..... ISBN 978-2-37574-551-9
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 56 pages
+- .oF.     N     _GUFFROY C‚line              Renaissance [Damanta - 1.5] ş2019
+o MXM_IRF     ?  2019.11 ..... ISBN 978-2-37574-670-7
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 274 pages
+- .oF.     R     _PAQUET Violette             Nuit et Jour ş2019
+o MXM_IUF     ?  2019.11 ..... ISBN 978-2-37574-817-6
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 222 pages
+- .oF.     R     _ANDRE Fanny                 Mort sur la lande [Bane Seed - 4] ş2019
+o MXM_MXM     ?  2019.11 ..... ISBN 978-2-37574-880-0
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 584 pages
+- .oY.     R     _KLUNE T.J.                  Les Dragons de la destin‚e [Les Contes de Verania - 2] ş2017 A Destiny of Dragons şTrad. VAZ Alexia
+o MXM_MXM     ?  2019.11 ..... ISBN 978-2-37574-881-7
+} noimg          _MxM Cr‚ations               ?
+!--- GF - 140x216 - 344 pages
+- .oF.     R     _WYCK Alex                   clats de glace [Eclats de glace - 1] ş2019
+o MXM_IUF     ?  2019.12 ..... ISBN 978-2-37574-907-4
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 380 pages
+- .oF.     R     _MANCELLON C‚line            Subversif [Les Ombres brumeuses - 1] ş2019
+o MXM_ION     ?  2019.12 ..... ISBN 978-2-37574-915-9
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 340 pages
 - .oF.     R     _EVE Jaymin                 &Persuasion [La Mal‚diction des dieux - 2] ş2017 Persuasion şTrad. MOREL Cathy
 &                _WASHINGTON Jane             
-o MXMBOOK     ?  2019.12 ..... ISBN 978-2-37574-988-3
-} noimg          _Vtas                        ?
-- .oF.     R     _CROW Kirby                  Sur la route du temple [Scarlet et le loup blanc - 5] ş? The Temple Road şTrad. RAHINI Isabelle
-o MXMBOOK     ?  2019.12 ..... ISBN 978-2-37574-934-0
+o MXM_IUF     ?  2019.12 ..... ISBN 978-2-37574-934-0
 } noimg          _Story Wrappers              ?
+!--- GF - 140x216 - 448 pages
 - .oF.     R     _THALASSA Laura              Pestilence [Les Quatre Cavaliers - 1] ş2018 Pestilence şTrad. FRUTEAU C‚cile
+o MXM_MXM     ?  2019.12 ..... ISBN 978-2-37574-988-3
+} noimg          _Vtas                        ?
+!--- GF - 140x216 - 336 pages
+- .oF.     R     _CROW Kirby                  Sur la route du temple [Scarlet et le loup blanc - 5] ş? The Temple Road şTrad. RAHINI Isabelle
+o MXM_MXM     ?  2019.12 ..... ISBN 979-10-381-1143-1
+} mxm2019_54     _? Dreamspinner              ?
+!--- GF - 140x216 - 384 pages
+!--- Anhologiste non cr‚dit‚ - L'ouvrage original comporte 6 courts romans
+>--- Tarduction des trois autres textes de l'anthologie originale qui comporte 6 courts romans.
+- .oF.    kA3    *KRISTUFEK Tricia            Devil Take Me II ((Devil Take Me)) ş2018 Devil Take Me
+: .oF.     r     _PRICE Jordan Castillo       Faveurs infernales ş2018 Dark Favors şTrad. DUKIC Caroline
+: .oF.     r     _HAWK Jordan L.              Internal Affairs ş2018 Internal Affairs şTrad. LANGE Mary
+: .oF.     r     _HALE Ginn                   Le Faux Vicomte ş2018 Counterfeit Viscount şTrad. AMANCY Timoth‚
 !------------------------
 !=== 2020
 !------------------------
-o MXMBOOK     ?  2020.01 ..... ISBN 978-2-37574-935-7
+o MXM_IUF     ?  2020.01 ..... ISBN 978-2-37574-923-4
 } noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 392 pages
+- .oF.     R     _ILLENE Susan                Obscurit‚ [Sombres destin‚es - 1] ş2017 Destined for Shadows şTrad. REGNIER MylŠne
+o MXM_IUF     ?  2020.01 ..... ISBN 979-2-37574-927-2
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 320 pages
+- .oF.     R     _HARPER Helen                S.O.S. fant“mes en d‚tresse [Ivy Wilde - 3] ş2017 Spirit Witch şTrad. GUILLEMET Marguerite
+o MXM_IUF     ?  2020.01 ..... ISBN 978-2-37574-931-9
+} noimg          _? Gene Mollica Studio       ?
+!--- GF - 140x216 - 392 pages
+- .oF.     R     _EDWARDS Hailey              Comment revendiquer l'ƒme d'un mort-vivant [Guide pour n‚cromancien en herbe - 2] ş2017 How to Claim an Undead Soul şTrad. ADOUARD Alexandre
+o MXM_ION     ?  2020.01 ..... ISBN 978-2-37574-932-6
+} noimg          _? Heart & Bailey            ?
+!--- GF - 140x216 - 340 pages
+- .oS.     R     _COLLINS Laura               Julian [Au-del… de la porte (L. Collins) - 2] ş2020
+o MXM_ION     ?  2020.01 ..... ISBN 978-2-37574-935-7
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 300 pages
 - .oF.     R     _MILLER Oren                 L'vangile selon Juliette [Easy Heaven - 1] ş2020
-o MXMBOOK     ?  2020.01 ..... ISBN 978-2-37574-969-2
-} noimg          _MxM Cr‚ations               ?
+o MXM_MXM     ?  2020.01 ..... ISBN 978-2-37574-969-2
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 580 pages
 - .oF.     R     _KLUNE T.J.                  Le Chant du coeur [Le Clan Bennett - 3] ş2019 Heartsong şTrad. GAUZY-SVAHN Christine
-o MXMBOOK     ?  2020.02 ..... ISBN 978-2-37574-866-4
+o MXM_MXM     ?  2020.01 ..... ISBN 978-2-37574-970-8
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 448 pages
+- .oF.     R     _ESTYER F.V.                 De d‚sir et de sang [Les Chroniques de l'Ombre - 1] ş2020
+o MXM_MXM     ?  2020.01 ..... ISBN 978-2-37574-975-3
 } noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 416 pages
+- .oF.     R     _LOCKHART Rohan              Le Mangeur d'ƒmes [Chroniques d'un Shinigami ordinaire - 2] ş2020
+o MXM_ION     ?  2020.01 ..... ISBN 979-10-381-1123-3
+} noimg          _?                           ?
+!--- GF - 140x216 - 312 pages - 17 euros
+- .oF.     R     _VON HAFF Jo Ann             Un arc-en-ciel dans l'obscurit‚ [Les Contes d'Aucelaire - 3] ş2020
+o MXM_MXM     ?  2020.02 ..... ISBN 978-2-37574-866-4
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 250 pages
 - .oF.     R     _ULRIK Candice               Bon chien, chasse de race [Going Wild - 3] ş2020
-o MXMBOOK     ?  2020.02 ..... ISBN 979-10-381-1125-7
-} noimg          _?                           ?
+o MXM_MXM     ?  2020.02 ..... ISBN 979-10-381-1125-7
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 336 pages
 - .oF.     R     _JEDYNAK MarlŠne             L'Ombre des Berserkers [La Riposte des dragons - 2] ş2020
-o MXMBOOK     ?  2020.02 ..... ISBN 979-10-381-1124-0
-} noimg          _MxM Cr‚ations               ?
-- .oF.     R     _NAIDE Jessica               Les Astres perdus [La Noirceur des ‚toiles - 2] ş2020
-o MXMBOOK     ?  2020.02 ..... ISBN 979-10-381-1260-5
-} noimg          _MxM Cr‚ations               ?
+o MXM_MXM     ?  2020.02 ..... ISBN 979-10-381-1124-0
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 376 pages
+- .oS.     R     _NAIDE Jessica               Les Astres perdus [La Noirceur des ‚toiles - 2] ş2020
+o MXM_MXM     ?  2020.02 ..... ISBN 979-10-381-1260-5
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 424 pages
 - .oF.     R     _WYCK Alex                   Royaumes de glace [Eclats de glace - 2] ş2020
-o MXMBOOK     ?  2020.02 ..... ISBN 979-10-381-1126-4
-} noimg          _?                           ?
+o MXM_MXM     ?  2020.02 ..... ISBN 979-10-381-1126-4
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 412 pages
 - .oF.     R     _TURNER Hailey               Une couronne de fer et d'argent [Dette de sang - 3] ş2019 A Crown of Iron & Silver şTrad. WRIGHT Camille
-o MXMBOOK     ?  2020.03 ..... ISBN 978-10-381-1192-9
+o MXM_MXM     ?  2020.02 ..... ISBN 979-10-381-1204-9
 } noimg          _Mirella Santana             ?
-- .oF.     R     _ERIKSEN Charlie             Enfants d'Oracle [Oracle-la-corrosive - 2] ş2020
-o MXMBOOK     ?  2020.03 ..... ISBN 978-2-37574-896-1
-} noimg          _?                           ?
+!--- GF - 140x216 - 448 pages
+- .oF.     R     _TIEFENBRUNNER Hope          Les D‚canes [Malchance et objets magiques - 3] ş2020
+o MXM_IUF     ?  2020.03 ..... ISBN 978-2-37574-896-1
+} noimg          _Chrissy - Damonza           ?
+!--- GF - 140x216 - 480 pages
 - .oF.     R     _ANDREWS Ilona               Changement magique [Kate Daniels - 8] ş2015 Magic Shifts şTrad. FRUTEAU C‚cile
-o MXMBOOK     ?  2020.03 ..... ISBN 979-10-381-0021-3
+o MXM_MXM     ?  2020.03 ..... ISBN 978-2-37574-960-9
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 280 pages
+- .oF.     R     _MATHILDE AurElisa           La Terre du sorcier [Le Clan Flaherty - 1] ş2020
+o MXM_IUF     ?  2020.03 ..... ISBN 979-10-381-0021-3
 } noimg          _? Smoking Hot Covers        ?
+!--- GF - 140x216 - 368 pages
 - .oF.     R     _AGUIRRE Ann                 Le Roi l‚opard [Les Animari - 1] ş2016 The Leopard King şTrad. REGNIER MylŠne
-o MXMBOOK     ?  2020.06 ..... ISBN 979-10-3811-213-1
-} noimg          _?                           ?
-- .oF.     R     _HAWK Jordan L.              Le Chasseur de mal‚fice [Hexworld - 3] ş2017 Hexslayer şTrad. BEHIN Loriane
-o MXMBOOK     ?  2020.07 ..... ISBN 979-10-381-1258-2
-} noimg          _MxM Cr‚ations               ?
-- .oY.     R     _ALDERSON Ben                Drap‚ dans l'ombre [Les Dragori - 1] ş2017 Cloaked in Shadow şTrad. SAINT GAL No‚mie
-o MXMBOOK     ?  2020.04 ..... ISBN 979-10-381-1111-0
+o MXM_MXM     ?  2020.03 ..... ISBN 979-10-381-1192-9
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 448 pages
+- .oS.     R     _ERIKSEN Charlie             Enfants d'Oracle [Oracle-la-corrosive - 2] ş2020
+o MXM_MXM     ?  2020.03 ..... ISBN 979-10-381-1211-7
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 280 pages
+- .oY.     R     _WRIGHT Camille              Des canons r‚sonnent [La Ballade du roi et de son chevalier - 2] ş2020
+o MXM_ION     ?  2020.04 ..... ISBN 979-10-381-1111-0
 } noimg          _Miesis                      ?
-!--- GF
+!--- GF - 140x216 - 432 pages
 - .oF.     R     _ST. CLARE Kelly            &Dangereuse alliance [Le Dernier Drae - 2] ş2018 Shadow Wings şTrad. DEMOULIN Julie
 &                _WAGNER Raye                 
-o MXMBOOK     ?  2020.04 ..... ISBN 979-10-381-1197-4
-} noimg          _? London Montgomery         ?
-!--- GF
-- .oS.     R     _SUE Victoria                Prot‚ger et servir [H.E.R.O. - 4] ş2018 The Stregth of His Heart şTrad. LECOUVREZ Ingrid
-o MXMBOOK     ?  2020.05 ..... ISBN 979-10-381-1018-2
-} noimg          _? Moorbooks Design          ?
-!--- GF
-- .oF.     R     _COCHET Charlie              Contre vents et mar‚es [Thirds - 1] ş2014 Hell and High Water şTrad. LECOUVREZ Ingrid
-o MXMBOOK     ?  2020.06 ..... ISBN ?
-} noimg          _? Moorbooks Design          ?
-!--- GF
-- .oF.     R     _COCHET Charlie              A feu et … sang [Thirds - 2] ş2014 Blood and Thunder şTrad. LECOUVREZ Ingrid
-o MXMBOOK     ?  2020.06 ..... ISBN 979-10-381-1172-1
-} noimg          _Story Wrappers              ?
-!--- GF
-- .oF.     R     _THALASSA Laura              Guerre [Les Quatre Cavaliers - 2] ş2019 War şTrad. FRUTEAU C‚cile
-o MXMBOOK     ?  2020.06 ..... ISBN 979-10-381-1160-8
+o MXM_IUF     ?  2020.04 ..... ISBN 979-10-381-1159-2
 } noimg          _Mirella Santana             ?
-!--- GF
+!--- GF - 140x216 - 448 pages
+- .oF.     R     _ROBSON Cecy                 Etreinte maudite [La Mal‚diction de C‚lia - 2] ş2013 A Cursed Embrace şTrad. LISELLA Fanny
+o MXM_MXM     ?  2020.04 ..... ISBN 979-10-381-1196-7
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 352 pages
+- .oF.     R     _JEDEL Camille               A croc ş2020
+o MXM_MXM     ?  2020.04 ..... ISBN 979-10-381-1197-4
+} noimg          _? London Montgomery Covers  ?
+!--- GF - 140x216 - 328 pages
+- .oS.     R     _SUE Victoria                Prot‚ger et servir [H.E.R.O. - 4] ş2018 The Strength of His Heart şTrad. LECOUVREZ Ingrid
+o MXM_TS      ?  2020.05 ..... ISBN 978-2-37574-674-5
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 320 pages
+- .oS.     R     _QUINN Susan Kaye            Les ƒmes libres [Mindjack - 3] ş2012 Free Souls şTrad. JONES Alexander
+o MXM_TS      ?  2020.05 ..... ISBN 978-2-37574-690-5
+} noimg          _Anna Sikorska               ?
+!--- GF - 140x216 - 200 pages
+- .oF.     R     _CHASE Dakota                L'oeil de Ra [Voyage temporel - 1] ş2010 The Eye of Ra şTrad. MACKOWIAK Thimoth‚e
+o MXM_MXM     ?  2020.05 ..... ISBN 979-10-381-1018-2
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 400 pages
+- .oF.     R     _COCHET Charlie              Contre vents et mar‚es [Thirds - 1] ş2014 Hell and High Water şTrad. LECOUVREZ Ingrid
+o MXM_IUF     ?  2020.05 ..... ISBN 979-10-381-1110-3
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 80 pages
+- .oF.     r     _HARPER Helen                No‰l, enquˆtes et ‚tincelles [Ivy Wilde - 3.5] ş2017 Sparkle Witch şTrad. FAURE Viviane
+o MXM_IUF     ?  2020.05 ..... ISBN 979-10-381-1157-8
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 176 pages
+- .oF.     r     _REGNIER MylŠne              Les Cousins de Saint-Barth‚l‚my [Myria - 3.5] ş2020
+o MXM_IRP     ?  2020.05 ..... ISBN 979-10-381-1340-4
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 344 pages
+- .oF.     R     _GOUDIN Lucie                Les V‚ritables Origines [Le Tournoi des immortels - 3] ş2020
+o MXM_TS      ?  2020.06 ..... ISBN 978-2-37574-693-6
+} noimg          _? MxM Cr‚ations             ?
+!--- YA - GF - 140x216 - 216 pages
+- .oY.     R     _FELI Zaya                   La Voie du cerf [Les Briseurs de fer - 1] ş2016 Stag's run şTrad. BOUCHER Morgane Le
+o MXM_IUF     ?  2020.06 ..... ISBN 979-10-381-0985-8
+} mxm2020_36     _Miesis                      ?
+!--- GF - 140x216 - ? pages
+- .oF.    kR3    _ANDRE Fanny                 Bane Seed - Int‚grale I : Les Royaumes du Sidh [Bane Seed - 1/3] ş2020
+: .oF.     R     _ANDRE Fanny                 Guerre ou paix ? [Bane Seed - 1] ş2017
+: .oF.     R     _ANDRE Fanny                 Un crime, un chƒtiment [Bane Seed - 2] ş2018
+: .oF.     R     _ANDRE Fanny                 Voyage au bout du Sidh [Bane Seed - 3] ş2018
+o MXM_MXM     ?  2020.06 ..... ISBN 979-10-381-1019-9
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 344 pages
+- .oF.     R     _COCHET Charlie              A feu et … sang [Thirds - 2] ş2014 Blood and Thunder şTrad. LECOUVREZ Ingrid
+o MXM_ION     ?  2020.06 ..... ISBN 979-10-381-1160-8
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 248 pages
 - .oF.     R     _EVE Jaymin                 &S‚duction [La Mal‚diction des dieux - 3] ş2017 Seduction şTrad. DONZELOT Myriam
 &                _WASHINGTON Jane             
-o MXMBOOK     ?  2020.07 ..... ISBN 979-10-381-1217-9
-} noimg          _?                           ?
-!--- GF
-- .oF.     R     _AUKE No‰mie                 Allowin Singulier-Weyrd [L'Autre C“t‚ des ombres - 1] ş2020
-o MXMBOOK     ?  2020.07 ..... ISBN 979-10-381-1009-0
+o MXM_IUF     ?  2020.06 ..... ISBN 979-10-381-1172-1
+} noimg          _Story Wrappers              ?
+!--- GF - 140x216 - 560 pages
+- .oF.     R     _THALASSA Laura              Guerre [Les Quatre Cavaliers - 2] ş2019 War şTrad. FRUTEAU C‚cile
+o MXM_IUF     ?  2020.06 ..... ISBN 979-10-381-1174-5
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 296 pages
+- .oF.     R     _HARPER Helen                Un temp‚rament de feu [Les Liens du sang - 1] ş2012 Bloodfire şTrad. ASIN Laurie
+o MXM_MXM     ?  2020.06 ..... ISBN 979-10-381-1193-6
+} mxm2020_32     _? e-Dantes                  ?
+!--- GF - 140x216 - 528 pages
+- .oF.    kN7    _COOPER R.                   L'oiseau de feu et autres histoires d'amours [Bestiaire amoureux - 5] ş2015 The Firebird and Other Stories şTrad. WRIGHT Camille
+: .oF.     N     _COOPER R.                   L'oiseau de feu [Bestiaire amoureux] ş2015 The Firebird
+: .oF.     N     _COOPER R.                   L'Offrande du guerrier [Bestiaire amoureux] ş2015 The Warrior's Sacrifice
+: .oF.     N     _COOPER R.                   Jacinthe … l'antenne [Bestiaire amoureux] ş2015 Hyacinth on the Air
+: .oF.     N     _COOPER R.                   Un g‚ant parmi les hommes [Bestiaire amoureux] ş2015 A Giant Among Men
+: .oF.     N     _COOPER R.                   Le Diablotin et monsieur Sunshine [Bestiaire amoureux] ş2015 The Imp and Mr. Sunshine
+: .oF.     N     _COOPER R.                   Le Loup dans le jardin [Bestiaire amoureux] ş2015 The Wold in the Garden
+: .oF.     N     _COOPER R.                   L'Oeuf de dragon [Bestiaire amoureux] ş2015 The Dragon's Egg
+o MXM_MXM     ?  2020.06 ..... ISBN 979-10-381-1213-1
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 416 pages
+- .oF.     R     _HAWK Jordan L.              Le Chasseur de mal‚fice [Hexworld - 3] ş2017 Hexslayer şTrad. BEHIN Loriane
+o MXM_MXM     ?  2020.06 ..... ISBN 979-10-381-1216-2
 } noimg          _? Moorbooks Design          ?
-!--- GF
+!--- GF - 140x216 - 304 pages
+- .oF.     R     _WELCH Lee                   Le Lord, le magicien et la mal‚diction ş2019 Salt Magic, Skin Magic şTrad. SIMON Audrey
+o MXM_IUF     ?  2020.06 ..... ISBN 979-10-381-1287-2
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 376 pages
+- .oF.     R     _ESTYER F.V.                 Initiation [Slayer - 1] ş2020
+o MXMBnum     ?  2020.06 ..... ISBN -
+! MXM_IUF     
+} noimg          _Miesis                      ?
+!--- Num‚rique - 100 pages
+- .oF.     r     _ANDRE Fanny                 Dans la tˆte de Dorian Murray [Bane Seed - 3.5] ş2020
+o MXM_MXM     ?  2020.07 ..... ISBN 979-10-381-1009-0
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 304 pages
 - .oF.     R     _COCHET Charlie              Champ de ruines [Thirds - 3] ş2014 Rack & Ruin şTrad. LECOUVREZ Ingrid
-o MXMBOOK     ?  2020.07 ..... ISBN 979-10-381-1218-6
-} noimg          _?                           ?
-!--- GF
+o MXM_IUF     ?  2020.07 ..... ISBN 979-10-381-1163-9
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 248 pages
+- .oF.     R     _ANDRE Fanny                 Pour qui sonne le crepuscule [Bane Seed - 5] ş2020
+o MXM_MXM     ?  2020.07 ..... ISBN 979-10-381-1217-9
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 336 pages
+- .oF.     R     _AUKE No‰mie                 Allowin Singulier-Weyrd [L'Autre C“t‚ des ombres - 1] ş2020
+o MXM_MXM     ?  2020.07 ..... ISBN 979-10-381-1218-6
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 216 pages
 - .oY.     R     _LESTEPLUME Isabelle         Le Prince au bois dormant [Contes des royaumes oubli‚s - 1] ş2020
-o MXMBOOK     ?  2020.08 ..... ISBN 979-10-381-1010-6
+o MXM_MXM     ?  2020.07 ..... ISBN 979-10-381-1258-2
 } noimg          _? Moorbooks Design          ?
-!--- GF
+!--- GF - 140x216 - 328 pages
+- .oY.     R     _ALDERSON Ben                Drap‚ dans l'ombre [Les Dragori - 1] ş2017 Cloaked in Shadow şTrad. SAINT GAL No‚mie
+o MXM_ION     ?  2020.07 ..... ISBN 979-10-381-1279-7
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 312 pages
+- .oF.     R     _COCHET Florence             Gardien enchaŒn‚ [Loren Ascott - 1] ş2020
+o MXM_TS      ?  2020.08 ..... ISBN 978-2-37574-442-0
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 240 pages
+- .oF.     R     _LEE C. B.                   Sept larmes au creux de la mer ş2015 Seven Tears at High Tide şTrad. TIMOTH‚ Amancy
+o MXM_MXM     ?  2020.08 ..... ISBN 979-10-381-1010-6
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 336 pages
 - .oF.     R     _COCHET Charlie              Grandeur et d‚cadence [Thirds - 4] ş2015 Rise & Fall şTrad. LECOUVREZ Ingrid
-o MXMBOOK     ?  2020.09 ..... ISBN 979-10-381-1007-6
+o MXM_TS      ?  2020.08 ..... ISBN 979-10-381-1168-4
 } noimg          _? Moorbooks Design          ?
-!--- GF
-- .oF.     R     _COCHET Charlie              A contre-courant [Thirds - 5] ş2015 Against the Grain şTrad. LECOUVREZ Ingrid
-o MXMBOOK     ?  2020.09 ..... ISBN 979-10-381-1267-4
-} noimg          _Kriseis                     ?
-!--- GF
-- .oF.     R     _COLLINS Laura               Convictions [Ce que veulent les ƒmes - 3] ş2020
-o MXMBOOK     ?  2020.09 ..... ISBN 979-10-381-1006-9
-} noimg          _?                           ?
-!--- GF
+!--- YA - GF - 140x216 - 280 pages
+- .oF.     R     _BAKER Apryl                 Dossier fant“mes [Dossier fant“mes - 1] ş2013 The Ghost Files şTrad. VAGO Lou
+o MXM_IUF     ?  2020.08 ..... ISBN 979-10-381-1181-3
+} noimg          _? Gene Mollica Studio       ?
+!--- GF - 140x216 - 430 pages
+- .oF.     R     _EDWARDS Hailey              Comment briser le coeur d'un mort-vivant [Guide pour n‚cromancien en herbe - 3] ş2018 How to Break an Undead Heart şTrad. ADOUARD Alexandre
+o MXM_MXM     ?  2020.09 ..... ISBN 979-10-381-1006-9
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 448 pages
 - .oY.     R     _LESTEPLUME Isabelle         Le Prince cygne [Contes des royaumes oubli‚s - 2] ş2020
-o MXMBOOK     ?  2020.09 ..... ISBN 979-10-381-1228-5
+o MXM_MXM     ?  2020.09 ..... ISBN 979-10-381-1007-6
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 336 pages
+- .oF.     R     _COCHET Charlie              A contre-courant [Thirds - 5] ş2015 Against the Grain şTrad. LECOUVREZ Ingrid
+o MXM_TS      ?  2020.09 ..... ISBN 979-10-381-1030-4
+} noimg          _? Story Wrapper             ?
+!--- YA - GF - 140x216 - 256 pages
+- .oF.     R     _STONE Leia                  PremiŠre ann‚e [Fallen Academy - 1] ş2018 Year One şTrad. BLANGIER Annabelle
+o MXM_MXM     ?  2020.09 ..... ISBN 979-10-381-1208-7
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 304 pages
+- .oF.     R     _VERDANDI Mo‹ra              L'lu d'Hermes [Les H‚ritiers - 2] ş2020
+o MXM_MXM     ?  2020.09 ..... ISBN 979-10-381-1228-5
 } noimg          _Mirella Santana             ?
-!--- GF
-- .oF.     R     _KLUNE T.J.                  Les Secrets de la magie [Les Contes de Verania - 3] ş2017 The Consumption of Magic şTrad. VAZ Alexia
-o MXMBOOK     ?  2020.10 ..... ISBN 979-10-381-1005-2
+!--- GF - 140x216 - 576 pages
+- .oY.     R     _KLUNE T.J.                  Les Secrets de la magie [Les Contes de Verania - 3] ş2017 The Consumption of Magic şTrad. VAZ Alexia
+o MXM_IRP     ?  2020.09 ..... ISBN 979-10-381-1264-3
 } noimg          _? Moorbooks Design          ?
-!--- GF
-- .oF.     R     _COCHET Charlie              Choix et cons‚quences [Thirds - 6] ş2016 Catch a Tiger By the Tail şTrad. LECOUVREZ Ingrid
-o MXMBOOK     ?  2020.10 ..... ISBN 979-10-381-1999-4
+!--- GF - 140x216 - 500 pages
+- .o .     R     _HARRISON Thea               Le Sombre Guerrier [Moonshadow - 1] ş2016 Moonshadow şTrad. VAGO Lou
+o MXM_ION     ?  2020.09 ..... ISBN 979-10-381-1267-4
+} noimg          _Kryseis                     ?
+!--- GF - 140x216 - 520 pages
+- .oF.     R     _COLLINS Laura               Convictions [Ce que veulent les ƒmes - 3] ş2020
+o MXM_MXM     ?  2020.09 ..... ISBN 979-10-381-1984-0
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 400 pages
+- .oS.     R     _NAIDE Jessica               Les Fleurs cach‚es [La Noirceur des ‚toiles - 3] ş2020
+o MXM_TS      ?  2020.10 ..... ISBN 979-10-381-0990-2
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 332 pages
+- .oF.     R     _BLAKE Avery                 Le Silence de l'hiver [Les Chroniques de Cromwell - 1] ş2019 Silence of Winter şTrad. CHABRE Elisa
+o MXM_MXM     ?  2020.10 ..... ISBN 979-10-381-1005-2
 } noimg          _? Moorbooks Design          ?
-!--- GF
-- .oF.     R     _COCHET Charlie              Illusions et faux-semblants [Thirds - 7] ş2016 Smoke & Mirrors şTrad. LECOUVREZ Ingrid
-o MXMBOOK     ?  2020.10 ..... ISBN 979-10-381-1270-4
-} noimg          _Chrissy - Damonza           ?
-!--- GF
-- .oF.     R     _ANDREWS Ilona               Lien magique [Kate Daniels - 9] ş2016 Magic Binds şTrad. FRUTEAU C‚cile
-o MXMBOOK     ?  2020.10 ..... ISBN 979-10-381-1008-3
+!--- GF - 140x216 - 308 pages
+- .oF.     R     _COCHET Charlie              Choix et cons‚quences [Thirds - 6] ş2016 Catch a Tiger by the Tail şTrad. LECOUVREZ Ingrid
+o MXM_MXM     ?  2020.10 ..... ISBN 979-10-381-1008-3
 } noimg          _Miesis                      ?
-!--- GF
+!--- GF - 140x216 - 408 pages
 - .oF.     R     _WEISS Marilyne              Seconde Lune [Leden Falls - 2] ş2020
-o MXMBOOK     ?  2020.10 ..... ISBN 979-10-381-1259-9
+o MXM_IUF     ?  2020.10 ..... ISBN 979-10-381-1184-4
 } noimg          _Mirella Santana             ?
-!--- GF
-- .oF.     R     _KLUNE T.J.                  Un voeu … travers les ‚toiles [Les Contes de Verania - 4] ş2018 A Wish Upon the Stars şTrad. VAZ Alexia
-o MXMBOOK     ?  2020.11 ..... ISBN 979-10-381-1190-5
+!--- GF - 140x216 - 448 pages
+- .oF.     R     _ILLENE Susan                Illusions [Sombres destin‚es - 2] ş2017 Destined for Dreams şTrad. REGNIER MylŠne
+o MXM_MXM     ?  2020.10 ..... ISBN 979-10-381-1241-4
+} noimg          _? Psycat digital            ?
+!--- GF - 140x216 - 328 pages
+- .oY.     R     _MORGAN Elia                 La Promesse d'Erhgad ş2020
+o MXM_MXM     ?  2020.10 ..... ISBN 979-10-381-1259-9
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 580 pages
+- .oY.     R     _KLUNE T.J.                  Un voeu … travers les ‚toiles [Les Contes de Verania - 4] ş2018 A Wish Upon the Stars şTrad. VAZ Alexia
+o MXM_IUF     ?  2020.10 ..... ISBN 979-10-381-1270-4
+} noimg          _Chrissy - Damonza           ?
+!--- GF - 140x216 - 408 pages
+- .oF.     R     _ANDREWS Ilona               Lien magique [Kate Daniels - 9] ş2016 Magic Binds şTrad. FRUTEAU C‚cile
+o MXM_MXM     ?  2020.10 ..... ISBN 979-10-381-1234-6
+} noimg          _? AngstyG                   ?
+!--- GF - 140x216 - 424 pages
+- .oF.     R     _TURNER Hailey               Une veill‚e fun‚raire [Dette de sang - 4] ş2020 A Vigil in the Mourning şTrad. WRIGHT Camille
+o MXM_MXM     ?  2020.10 ..... ISBN 979-10-381-1999-4
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 352 pages
+- .oF.     R     _COCHET Charlie              Illusions et faux-semblants [Thirds - 7] ş2016 Smoke & Mirrors şTrad. LECOUVREZ Ingrid
+o MXM_TS      ?  2020.11 ..... ISBN 979-10-381-1023-6
+} noimg          _Helena Nikulina             ?
+!--- GF - 140x216 - 276 pages
+- .oF.     R     _LAVIGNETTE L‚a              Calluna ş2020
+o MXM_IUF     ?  2020.11 ..... ISBN 979-10-381-1166-0
+} noimg          _? e-Dantes                  ?
+!--- GF - 140x216 - 424 pages
+- .oF.     R     _DARK Dannika                Six mois [La Meute Weston - 2] ş2014 Six Months şTrad. VADORI Isabelle & FRUTEAU C‚cile
+o MXM_IUF     ?  2020.11 ..... ISBN 979-10-381-1188-2
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 376 pages
+- .oF.     R     _CRAWFORD C.N.              &Agent en sortilŠges [Dark Fae FBI - 1] ş2017 Agent of Enchantment şTrad. FAURE Viviane
+&                _RIVERS Alex                 
+o MXM_ION     ?  2020.11 ..... ISBN 979-10-381-1190-5
 } noimg          _Miesis                      ?
-!--- GF
+!--- GF - 140x216 - 448 pages
 - .oF.     R     _ST. CLARE Kelly            &La Couronne noire [Le Dernier Drae - 3] ş2018 Black Crown şTrad. SMONDACK Audrey
 &                _WAGNER Raye                 
-o MXMBOOK     ?  2020.11 ..... ISBN 979-10-381-1221-6
-} noimg          _MxM Cr‚ations               ?
-!--- GF
+o MXM_MXM     ?  2020.11 ..... ISBN 979-10-381-1221-6
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 592 pages
 - .oF.     R     _KLUNE T.J.                  Le Chant des Bennett [Le Clan Bennett - 4] ş2020 Brothersong şTrad. GAUZY-SVAHN Christine
-o MXMBOOK     ?  2020.11 ..... ISBN 979-10-381-1247-6
-} noimg          _? MxM Cr‚ation              ?
-!--- GF
+o MXM_MXM     ?  2020.11 ..... ISBN 979-10-381-1247-6
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 272 pages
 - .oF.     R     _HAWK Jordan L.              Le Chercheur de mal‚fice [Hexworld - 4] ş2019 Hexhunter şTrad. BEHIN Loriane
-o MXMBOOK     ?  2020.11 ..... ISBN VN
-} noimg          _? London Montgomery         ?
-!--- GF
-- .oS.     R     _SUE Victoria                Tout le monde br–le [H.E.R.O. - 5] ş2020 Everybody Burns şTrad. LECOUVREZ Ingrid
-o MXMBOOK     ?  2020.12 ..... ISBN 979-10-381-1344-2
-} noimg          _Fleurine                    ?
-!--- GF
+o MXM_MXM     ?  2020.11 ..... ISBN 979-10-381-1250-6
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 320 pages
+- .oF.     R     _EASTON Eli                  Comment sauver une vie [Mad Creek - 4] ş2018 How to Save a Life şTrad. REGNIER MylŠne
+o MXM_ION     ?  2020.11 ..... ISBN 979-10-381-1985-7
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 416 pages
+- .oF.     R     _ODHALIS H. P.               Le Baiser du soleil [Chroniques d'Helrad - 1] ş2020
+o MXM_ION     ?  2020.12 ..... ISBN 979-10-381-1271-1
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 296 pages
+- .oS.     R     _JANE Samantha               Eve et Thomas [Le Conseil d'Orion - 2] ş2017 Eve & Thomas şTrad. TULLY Alma
+o MXM_IRP     ?  2020.12 ..... ISBN 979-10-381-1274-2
+} noimg          _? Smoking Hot Covers        ?
+!--- GF - 140x216 - 400 pages
+- .oF.     R     _AGUIRRE Ann                 Le Prince d‚mon [Les Animari - 2] ş2017 The Demon Prince şTrad. REGNIER MylŠne
+o MXM_ION     ?  2020.12 ..... ISBN 979-10-381-1280-3
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 208 pages
+- .oF.     R     _RIVER Jade                  Eclat de jour ş2020
+o MXM_IUF     ?  2020.12 ..... ISBN 979-10-381-1344-2
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 280 pages
 - .oF.     R     _REGNIER MylŠne              Les Soeurs de la lumiŠre [Myria - 4] ş2020
-o MXMBOOK     ?  2020.12 ..... ISBN 979-10-381-1996-3
+o MXM_MXM     ?  2020.12 ..... ISBN 979-10-381-1889-8
+} noimg          _? London Montgomery Covers  ?
+!--- GF - 140x216 - 360 pages
+- .oS.     R     _SUE Victoria                Tout le monde br–le [H.E.R.O. - 5] ş2020 Everybody Burns şTrad. LECOUVREZ Ingrid
+o MXM_MXM     ?  2020.12 ..... ISBN 979-10-381-1960-4
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 364 pages
+- .oS.     R     _NAIDE Jessica               Les Soleils glac‚s [La Noirceur des ‚toiles - 4] ş2020
+o MXM_MXM     ?  2020.12 ..... ISBN 979-10-381-1996-3
 } noimg          _Natasha Snow                ?
-!--- GF
-- .oF.     R     _COCHET Charlie              Quoi qu'il advienne [Thirds - 8] ş2017 Thick & Thin şTrad. LECOUVREZ Ingrid
+!--- GF - 140x216 - 140 pages
+- .oF.     r     _COCHET Charlie              Quoi qu'il advienne [Thirds - 8] ş2017 Thick & Thin şTrad. LECOUVREZ Ingrid
+!------------------------
+!=== 2021
+!------------------------
+o MXM_TS      ?  2021.01 ..... ISBN 979-10-381-1029-8
+} noimg          _? Story Wrapper             ?
+!--- YA - GF - 140x216 - 270 pages
+- .oF.     R     _STONE Leia                  DeuxiŠme ann‚e [Fallen Academy - 2] ş2018 Year Two şTrad. BLANGIER Annabelle
+o MXM_IUF     ?  2021.01 ..... ISBN 979-10-381-1167-7
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 292 pages
+- .oF.     R     _HARPER Helen                Il y a de la magie dans l'air [Les Liens du sang - 2] ş2012 Bloodmagic şTrad. ASIN Laurie
+o MXM_ION     ?  2021.01 ..... ISBN 979-10-381-1275-9
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 352 pages
+- .oF.     R     _EVE Jaymin                 &Force [La Mal‚diction des dieux - 4] ş2018 Strength şTrad. DONZELOT Myriam
+&                _WASHINGTON Jane             
+o MXM_IUF     ?  2021.01 ..... ISBN 979-10-381-1276-6
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 448 pages
+- .oF.     R     _ROBSON Cecy                 Maudite par la destin‚e [La Mal‚diction de C‚lia - 3] ş2014 Cursed by Destiny şTrad. LISELLA Fanny
+o MXM_IUF     ?  2021.01 ..... ISBN 979-10-381-1281-0
+} noimg          _Annette Ahner               ?
+!--- GF - 140x216 - 288 pages
+- .oF.     R     _MARIE Annette               Trois mages et une margarita [Tori Dawson - 1][The Guild Codex] ş2018 Three Mages and a Margarita şTrad. FAURE Viviane
+o MXM_MXM     ?  2021.01 ..... ISBN 979-10-381-1942-0
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 360 pages
+- .oF.     R     _AUKE No‰mie                 Fr‚d‚ric Cendrevent [L'Autre C“t‚ des ombres - 2] ş2021
+o MXM_ION     ?  2021.01 ..... ISBN 979-10-381-1977-2
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 216 pages
+- .oF.     R     _COCHET Florence             Esprit jaguar [Loren Ascott - 2] ş2021
+o MXM_MXM     ?  2021.01 ..... ISBN 979-10-381-1991-8
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140 x 216 - 456 pages
+- .oF.     R     _COCHET Charlie              Quand l'aube succŠde … la nuit [Thirds - 9] ş2017 Darkest Hour Before Dawn şTrad. LECOUVREZ Ingrid
+o MXM_IRF     ?  2021.02 ..... ISBN 978-2-37574-543-4
+} noimg          _Kanaxa                      ?
+!--- GF - 140x216 - 320 pages
+- .oS.     R     _PLATEL Virginie             Main de fer et gant de velours [Agents Virtu'elles - 3] ş2021
+o MXM_MXM     ?  2021.02 ..... ISBN 979-10-381-1223-0
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 366 pages
+- .oF.     R     _VADI Victoriane             Les Derniers Chasseurs [Calices - 2] ş2021
+o MXM_MXM     ?  2021.02 ..... ISBN 979-10-381-1243-8
+} noimg          _(c)e-Dantes                 ?
+!--- GF - 140x216 - 248 pages
+- .oF.     R     _COOPER R.                   Guide pour briller aux yeux d'une f‚e au coeur bris‚ [Bestiaire amoureux - 6] ş2017 A Dandelion for Tulip şTrad. JONES Alexander
+o MXM_TS      ?  2021.02 ..... ISBN 979-10-381-1297-1
+} noimg          _? MxM Cr‚ations             ?
+!--- YA - GF - 140x216 - 304 pages
+- .oY.     R     _FELI Zaya                   Le Sceau du renard [Les Briseurs de fer - 2] ş2017 Endurance şTrad. BERTAUD Caroline
+o MXM_TS      ?  2021.02 ..... ISBN 979-10-381-1768-6
+} noimg          _Helena Nikulina             ?
+!--- GF - 140x216 - 280 pages
+- .oF.     R     _BEAUTISSON Jeanne           Le Berceau [Les Reconnus de Mitzar - 1] ş2021
+o MXM_MXM     ?  2021.02 ..... ISBN 979-10-381-1939-0
+} noimg          _(c)Moorbooks Design         ?
+!--- GF - 140x216 - 448 pages
+- .oF.     R     _TURNER Hailey               Sur les ailes de la guerre [Dette de sang - 5] ş2020 On the Wings of War şTrad. WRIGHT Camille
+o MXM_MXM     ?  2021.02 ..... ISBN 979-10-381-1943-7
+} noimg          _(c)Moorbooks Design         ?
+!--- GF - 140x216 - 296 pages
+- .oF.     R     _FIELDING Kim                PremiŠre Affectation [Le Bureau des affaires trans-espŠces - 1] ş2017 Corruption şTrad. LENOIR Cl‚a
+o MXM_TS      ?  2021.03 ..... ISBN 978-2-37574-676-9
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 328 pages
+- .oS.     R     _LUKENS F.T.                 L'preuve de Ren [Chroniques de la lune bris‚e - 2] ş2017 Ghosts and Ashes şTrad. SAINT-GAL No‚mie
+o MXM_MXM     ?  2021.03 ..... ISBN 979-10-381-1245-2
+} noimg          _(c)Moorbooks Design         ?
+!--- GF - 140x216 - 368 pages
+- .oF.     R     _WEISS Marilyne              TroisiŠme Lune [Leden Falls - 3] ş2021
+o MXM_IUF     ?  2021.03 ..... ISBN 979-10-381-1819-5
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 384 pages
+- .oF.     R     _COLLINS Laura               Le Sang de la discorde ş2021
+o MXM_IRP     ?  2021.03 ..... ISBN 979-10-381-1824-9
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 480 pages
+- .oF.     R     _HARRISON Thea               Le Sorcier maudit [Moonshadow - 2] ş2017 Spellbinder şTrad. VAGO Lou
+o MXM_MXM     ?  2021.03 ..... ISBN 979-10-381-1885-0
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 296 pages
+- .oF.     R     _HALE Ginn                   Les Portes ‚clat‚es [Le Pourfendeur - 1] ş2011 The Shattered Gates + Servants of the Crossed Arrows şTrad. CHAPTAL St‚phanie
+o MXM_MXM     ?  2021.03 ..... ISBN 979-10-381-1940-6
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 312 pages
+- .oF.     R     _LEIGH Garrett               Coeurs destin‚s [Un lien invisible - 1] ş2019 Fated Hearts şTrad. SIMON Audrey
+o MXM_IUF     ?  2021.03 ..... ISBN 979-10-381-1964-2
+} noimg          _? Gene Mollica Studio       ?
+!--- GF - 140x216 - 424 pages
+- .oF.     R     _EDWARDS Hailey              Comment danser une valse avec un mort-vivant [Guide pour n‚cromancien en herbe - 4] ş2018 How to Dance an Undead Waltz şTrad. ADOUARD Alexandre
+o MXM_TS      ?  2021.03 ..... ISBN 979-10-381-1969-7
+} noimg          _? Yocla Designs             ?
+!--- YA - GF - 140x216 - 264 pages
+- .oF.     R     _CHASE Annabel               Accus‚e … tort [Bryn Morrow - 1][Acad‚mie Lancesort] ş2018 Outcast şTrad. FRUTEAU C‚cile
+o MXM_ION     ?  2021.04 ..... ISBN 979-10-381-1348-0
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 382 pages
+- .oF.     R     _PIERCE Juliette             Automne [Les ‚chos du temps - 1] ş2021
+o MXM_IRP     ?  2021.04 ..... ISBN 979-10-381-1820-1
+} noimg          _? e-Dantes                  ?
+!--- GF - 140x216 - 464 pages
+- .oF.     R     _DARK Dannika                Cinq semaines [La Meute Weston - 3] ş2014 Five Weeks şTrad. CHABRE Elisa
+o MXM_IUF     ?  2021.04 ..... ISBN 979-10-381-1827-0
+} noimg          _? Raven Covers              ?
+!--- GF - 140x216 - 600 pages
+- .oF.     R     _ST. CLARE Kelly             Rencontre mortelle [Le Repaire des vampires - 1] ş2019 Blood Trial şTrad. BAUDOT Elsa
+o MXM_MXM     ?  2021.04 ..... ISBN 979-10-381-1932-1
+} noimg          _(c)Moorbooks Design         ?
+!--- GF - 140 x 216 - 344 pages
+- .oY.     R     _SUE Victoria                Le DouziŠme Chevalier [Les Gardiens de Camelot - 1] ş2019 The Twelfth Knight şTrad. MILIEN Terry
+o MXM_MXM     ?  2021.04 ..... ISBN 979-10-381-1944-4
+} noimg          _(c)Moorbooks Design         ?
+!--- GF - 140 x 216 - 248 pages
+- .oF.     R     _WRIGHT Camille              Le Loup blanc [H‚ritage (C. Wright) - 1] ş2021
+o MXM_IUF     ?  2021.05 ..... ISBN 979-10-381-1176-9
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 352 pages
+- .oF.     R     _MANCELLON C‚line            Sacr‚e [Les Ombres brumeuses - 2] ş2021
+o MXM_IUF     ?  2021.05 ..... ISBN 979-10-381-1814-0
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 272 pages
+- .oF.     R     _ANDRE Fanny                 Autant en emportent les certitudes [Bane Seed - 6] ş2021
+o MXM_IUF     ?  2021.05 ..... ISBN 979-10-381-1816-4
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 376 pages
+- .oF.     R     _CRAWFORD C.N.              &Agent du chaos [Dark Fae FBI - 2] ş2017 Agent of Chaos şTrad. FAURE Viviane
+&                _RIVERS Alex                 
+o MXM_ION     ?  2021.05 ..... ISBN 979-10-381-1818-8
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 376 pages
+- .oF.     R     _EVE Jaymin                 &Douleur [La Mal‚diction des dieux - 5] ş2018 Pain şTrad. RUCHER Lola
+&                _WASHINGTON Jane             
+o MXM_ION     ?  2021.05 ..... ISBN 979-10-381-1848-5
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 376 pages
+- .oF.     R     _ODHALIS H. P.               La Caresse de l'ombre [Chroniques d'Helrad - 2] ş2021
+o MXM_MXM     ?  2021.05 ..... ISBN 979-10-381-1928-4
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 368 pages
+- .oF.     R     _COCHET Charlie              Test‚ et approuv‚ [Thirds - 10] ş2017 Tried & True şTrad. LECOUVREZ Ingrid
+o MXM_TS      ?  2021.05 ..... ISBN 979-10-381-1954-3
+} noimg          _? Moorbooks Design          ?
+!--- YA - GF - 140x216 - 264 pages
+- .oF.     R     _BAKER Apryl                 Dossier fant“mes 2 [Dossier fant“mes - 2] ş2014 The Ghost Files 2 şTrad. CHABRE Elisa
+o MXM_IUF     ?  2021.05 ..... ISBN 979-10-381-1976-5
+} noimg          _Damonza                     ?
+!--- GF - 140x216 - 440 pages
+- .oF.     R     _ANDREWS Ilona               Triomphe magique [Kate Daniels - 10] ş2018 Magic Triumphs şTrad. FRUTEAU C‚cile
+o MXM_MXM     ?  2021.04 ..... ISBN 979-10-381-1962-8
+} noimg          _(c)Moorbooks Design         ?
+!--- GF - 140x216 - 400 pages
+- .oF.     R     _MOORE T.A.                  La Traque [De sang et d'os - 1] ş2019 Dead Man Stalking şTrad. SIMON Audrey
+o MXM_MXM     ?  2021.06 ..... ISBN 979-10-381-1224-7
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 216 pages
+- .oF.     R     _ULRIK Candice               A pas de loup [Going Wild - 4] ş2021
+o MXM_TS      ?  2021.06 ..... ISBN 979-10-381-1764-8
+} noimg          _? Story Wrapper             ?
+!--- YA - GF - 140x216 - 288 pages
+- .oF.     R     _STONE Leia                  TroisiŠme ann‚e [Fallen Academy - 3] ş2019 Year Three şTrad. BLANGIER Annabelle
+o MXM_IUF     ?  2021.06 ..... ISBN 979-10-381-1810-2
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 384 pages
+- .oF.     R     _ILLENE Susan                Eternit‚ [Sombres destin‚es - 3] ş2018 Destined for Eternity şTrad. REGNIER MylŠne
+o MXM_MXM     ?  2021.06 ..... ISBN 979-10-381-1883-6
+} noimg          _? Tiferet Design            ?
+!--- GF - 140x216 - 296 pages
+- .oY.     R     _HENRY Lisa                  Le Seigneur cach‚ ş2019 Anhaga şTrad. BLONDEL SolŠne
+o MXM_MXM     ?  2021.07 ..... ISBN 979-10-381-1726-6
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 416 pages
+- .oF.     R     _HARMON S.E.                 Un meurtre du pass‚ [Les Enquˆtes extra-lucides de Rain Christiansen - 2] ş2020 Principes of Spookology şTrad. WRIGHT Camille
+o MXM_TS      ?  2021.07 ..... ISBN 979-10-381-1765-5
+} noimg          _? MxM Cr‚ations             ?
+!--- YA - GF - 140x216 - 472 pages
+- .oF.     R     _STIEFVATER Maggie           La Proph‚tie de Glendower [Le Cycle du corbeau - 1] ş2012 The Raven Boys şTrad. CROQUELOUP Camille
+o MXM_IUF     ?  2021.07 ..... ISBN 979-10-381-1806-5
+} noimg          _Annette Ahner               ?
+!--- GF - 140x216 - 344 pages
+- .oF.     R     _MARIE Annette               Magie noire et daiquiri [Tori Dawson - 2][The Guild Codex] ş2018 Dark Arts and a Daiquiri şTrad. FAURE Viviane
+o MXM_ION     ?  2021.07 ..... ISBN 979-10-381-1811-9
+} noimg          _Michelle Lancaster          ?
+!--- GF - 140x216 - 392 pages
+- .oF.     R     _JAMES Tate                  La Vengeance du renard [Kit Davenport - 1] ş2017 The Vixen's Lead şTrad. BAUDOT Elsa
+o MXM_MXM     ?  2021.07 ..... ISBN 979-10-381-1955-0
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 384 pages
+- .oF.     R     _ESTYER F.V.                 De rage et de passion [Les Chroniques de l'Ombre - 2] ş2021
+o MXM_MXM     ?  2021.07 ..... ISBN 979-10-381-1994-9
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 376 pages
+- .oY.     R     _ALDERSON Ben                Se fondre dans la nuit [Les Dragori - 2] ş2018 Found in Night şTrad. SAINT-GAL No‚mie
+o MXM_ION     ?  2021.08 ..... ISBN 978-2-37574-658-5
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 256 pages
+- .oF.     R     _COCHET Florence             Ame de sorciŠre [Loren Ascott - 3] ş2021
+o MXM_TS      ?  2021.08 ..... ISBN 979-10-381-1021-2
+} noimg          _Nicolas Jamonneau           ?
+!--- GF - 140x216 - 232 pages
+- .oF.     R     _LAVIGNETTE L‚a              L'ombre de la magie ş2018
+o MXM_MXM     ?  2021.08 ..... ISBN 979-10-381-1246-9
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 320 pages
+- .oF.     R     _EASTON Eli                  Comment courir avec les loups [Mad Creek - 5] ş2019 How To Run With The Wolves şTrad. REGNIER MylŠne
+o MXM_MXM     ?  2021.08 ..... ISBN 979-10-381-1261-2
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 264 pages
+- .oS.     R     _WALKER N. R.                Evolution ş2018 Evolved şTrad. BLACK Cassie
+o MXM_IUF     ?  2021.08 ..... ISBN 979-10-381-1284-1
+} noimg          _Story Wrappers              ?
+!--- GF - 140x216 - 544 pages
+- .oF.     R     _THALASSA Laura              Famine [Les Quatre Cavaliers - 3] ş2020 Famine şTrad. FRUTEAU C‚cile
+o MXM_ION     ?  2021.08 ..... ISBN 979-10-381-1798-3
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 280 pages - 17 euros
+- .oF.     R     _VON HAFF Jo Ann             La Belle et le truand [Les Contes d'Aucelaire - 4] ş2021
+o MXM_IUF     ?  2021.08 ..... ISBN 979-10-381-1807-2
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 480 pages
+- .oF.     R     _ROBSON Cecy                 Une lign‚e maudite [La Mal‚diction de C‚lia - 4] ş2014 A Cursed Bloodline şTrad. LISELLA Fanny
+o MXM_MXM     ?  2021.08 ..... ISBN 979-10-381-1920-8
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 376 pages
+- .oF.     R     _OSBORN Jaclyn               La Mal‚diction du Capitaine Flynn [Les Contes du destin - 1] ş2018 Found at Sea şTrad. NICEY Julie
+o MXM_MXM     ?  2021.09 ..... ISBN 979-10-381-1253-7
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 264 pages
+- .oY.     R     _WRIGHT Camille              En leur coeur [La Ballade du roi et de son chevalier - 3] ş2021
+o MXM_TS      ?  2021.09 ..... ISBN 979-10-381-1298-8
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 328 pages
+- .oS.     R     _LUKENS F.T.                 L'Apog‚e de Ren [Chroniques de la lune bris‚e - 3] ş2018 Broken Moon 3: Zenith Dream şTrad. NY Katelyne Le
+o MXM_TS      ?  2021.09 ..... ISBN 979-10-381-1303-9
+} noimg          _Zaya Feli                   ?
+!--- YA - GF - 140x216 - 368 pages
+- .oY.     R     _FELI Zaya                   Une arm‚e d'or et de blanc [Les Briseurs de fer - 3] ş2017 The Floodgates şTrad. BERTAUD Caroline
+o MXM_ION     ?  2021.09 ..... ISBN 979-10-381-1457-9
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 368 pages
+- .oF.     R     _TRYDE Morgane               Love Me [Forbidden Love - 1] ş2021
+o MXM_IUF     ?  2021.09 ..... ISBN 979-10-381-1793-8
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 344 pages
+- .oF.     R     _SAUREL Julie                Toujours se m‚fier du vampire qui dort [Alicia Smith - 1] ş2021
+o MXM_IUF     ?  2021.09 ..... ISBN 979-10-381-1794-5
+} noimg          _? Trifbook design           ?
+!--- GF - 140x216 - 216 pages
+- .oF.     R     _MULLER Laura                L'Eveil de N‚m‚sis [Chasseuse de l'ombre - 1] ş2021
+o MXM_IUF     ?  2021.09 ..... ISBN 979-10-381-1804-1
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 304 pages
+- .oF.     R     _HARPER Helen                O rage “ d‚sespoir [Les Liens du sang - 3] ş2013 Bloodrage şTrad. ASIN Laurie
+o MXM_IUF     ?  2021.09 ..... ISBN 979-10-381-1809-6
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 336 pages
+- .oF.     R     _ESTYER F.V.                 Addiction [Slayer - 2] ş2021
+o MXM_MXM     ?  2021.09 ..... ISBN 979-10-381-1905-5
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 360 pages
+- .oF.     R     _RERU                        Disparition … Dublin [Entre deux mondes - 1] ş2021
+o MXM_ION     ?  2021.09 ..... ISBN 979-10-381-1980-2
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 392 pages
+- .oF.     R     _PIERCE Juliette             Hiver [Les ‚chos du temps - 2] ş2021
+o MXM_MXM     ?  2021.09 ..... ISBN 979-10-381-1956-7
+} noimg          _? London Montgomery Covers  ?
+!--- GF - 140x216 - 304 pages
+- .oS.     R     _SUE Victoria                L'harmonie de sa m‚lodie [H.E.R.O. - 3.5] ş2018 Guarding His Melody şTrad. LECOUVREZ Ingrid
+o MXM_TS      ?  2021.10 ..... ISBN 979-10-381-1024-3
+} noimg          _? Story Wrapper             ?
+!--- YA - GF - 140x216 - 144 pages
+- .oF.     r     _STONE Leia                  TroisiŠme ann‚e, Lincoln [Fallen Academy - 3.5] ş2019 Year Three And a Half şTrad. BLANGIER Annabelle
+o MXM_MXM     ?  2021.10 ..... ISBN 979-10-381-1240-7
+} noimg          _? MxM Cr‚ations             ?
+!--- GF - 140x216 - 416 pages
+- .oF.     R     _JEDYNAK MarlŠne             La Rage d'un Berserker [La Riposte des dragons - 3] ş2021
+o MXM_ION     ?  2021.10 ..... ISBN 979-10-381-1772-3
+} noimg          _? Raven Covers              ?
+!--- GF - 140x216 - 344 pages
+- .oF.     R     _JAMES Tate                  Les Ailes du dragon [Kit Davenport - 2] ş2017 The Dragon's Wing şTrad. BAUDOT Elsa
+o MXM_IUF     ?  2021.10 ..... ISBN 979-10-381-1796-9
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 112 pages
+- .oF.     r     _REGNIER MylŠne              La MŠre d‚chue [Myria - 4.5] ş2021
+o MXM_ION     ?  2021.10 ..... ISBN 979-10-381-1797-6
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 232 pages
+- .oF.     R     _GUFFROY C‚line              Micha‰l [Coeur d'archange - 2] ş2021
+o MXM_IUF     ?  2021.10 ..... ISBN 979-10-381-1802-7
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 296 pages
+- .oF.     R     _SAUREL Julie                L'habit ne fait pas le vampire [Alicia Smith - 2] ş2021
+o MXM_TS      ?  2021.10 ..... ISBN 979-10-381-1808-9
+} noimg          _? Moorbooks Design          ?
+!--- YA - GF - 140x216 - 520 pages
+- .oF.     R     _BARRET S‚bastien            L'‚clat du soleil [R‚demption (S. Barret) - 1] ş2021
+o MXM_MXM     ?  2021.10 ..... ISBN 979-10-381-1888-1
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 544 pages
+- .oF.     R     _RAVENCROFT Keliane          L'H‚ritier des sables [Djinns - 1] ş2021
+o MXM_MXM     ?  2021.10 ..... ISBN 979-10-381-1909-3
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 448 pages
+- .oF.     R     _TURNER Hailey               Un ‚cho du chagrin [Dette de sang - 6] ş2021 An Echo in the Sorrow şTrad. WRIGHT Camille
+o MXM_MXM     ?  2021.10 ..... ISBN 979-10-381-1935-2
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 504 pages
+- .oY.     R     _LESTEPLUME Isabelle         La SirŠne aux ‚cailles d'or [Contes des royaumes oubli‚s - 3] ş2021
+o MXM_MXM     ?  2021.10 ..... ISBN 979-10-381-1963-5
+} mxm2021_79     _? Moorbooks Design          ?
+!--- GF - 140x216 - 520 pages
+>--- Le titre de chaque nouvelle dans l'‚dition fran‡aise est pr‚c‚d‚ de son num‚ro, au format #01 … #54.
+- .oF.    kN54   _COCHET Charlie              Les Dossiers secrets 1 [Thirds] ş2016 Thirds Beyond the Books: Volume 1 şTrad. LECOUVREZ Ingrid
+: .o .     N     _COCHET Charlie              Tony et John - Le Duo dynamique [Thirds] ş2016 Tony and John - The Dynamic Duo
+: .o .     N     _COCHET Charlie              La Naissance de Dexter J. Daley [Thirds] ş2016 The Birth of Dexter J. Daley
+: .o .     N     _COCHET Charlie              Les Bˆtises d'anniversaire du petit Dex [Thirds] ş2016 Little Dex's Birthday Shenanigans
+: .o .     N     _COCHET Charlie              Avant-go–t des choses … venir [Thirds] ş2016 Of Things to Come
+: .o .     N     _COCHET Charlie              Chagrins et nouveaux d‚parts [Thirds] ş2016 Heartaches and New Beginnings
+: .o .     N     _COCHET Charlie              C'est un Chirpy ! [Thirds] ş2016 It's a Chirpy!
+: .o .     N     _COCHET Charlie              Un petit frŠre Therian [Thirds] ş2016 A New Baby Brother
+: .o .     N     _COCHET Charlie              Le Premier "Papa" de Tony [Thirds] ş2016 Tony-First Time Dad
+: .o .     N     _COCHET Charlie              B‚b‚ Cael se fait tatouer [Thirds] ş2016 Little Carl Gets Marked
+: .o .     N     _COCHET Charlie              La PremiŠre Transformation de Cael [Thirds] ş2016 Cael's First Shift
+: .o .     N     _COCHET Charlie              Cael + Caf‚ = Chaos [Thirds] ş2016 Cael's Coffee Shift
+: .o .     N     _COCHET Charlie              S'en vient le livreur de pizza [Thirds] ş2016 The Pizza Guy Cometh
+: .o .     N     _COCHET Charlie              Le Premier Rendez-Vous de Cael [Thirds] ş2016 Carl's First Date
+: .o .     N     _COCHET Charlie              Dex, nouvelle recrue des FPH [Thirds] ş2016 HPF Rookie Dex
+: .o .     N     _COCHET Charlie              La PremiŠre Rencontre de Calvin et Hobbs [Thirds] ş2016 Calvin and Hobbs Meet
+: .o .     N     _COCHET Charlie              Meilleurs amis pour la vie [Thirds] ş2016 Best Buds Forever
+: .o .     N     _COCHET Charlie              Calvin fait connaissance de Hobbs le tigre [Thirds] ş2016 Calvin Meets Tiger Hobbs
+: .o .     N     _COCHET Charlie              Chats en boŒte [Thirds] ş2016 Cats in a Box
+: .o .     N     _COCHET Charlie              Repas de No‰l chez Tony [Thirds] ş2016 Christmas Dinner at Tony's
+: .o .     N     _COCHET Charlie              Sloane et Gabe [Thirds] ş2016 Sloane and Gabe
+: .o .     N     _COCHET Charlie              De l'herbe … chat plein les poches [Thirds] ş2016 Pocketful of Catnip
+: .o .     N     _COCHET Charlie              Eye of the Tiger [Thirds] ş2016 Eye of the Tiger
+: .o .     N     _COCHET Charlie              Cael rencontre Ash [Thirds] ş2016 Cael Meet Ash
+: .o .     N     _COCHET Charlie              Ash rencontre Cael [Thirds] ş2016 Ash Meet Cael
+: .o .     N     _COCHET Charlie              Le lion s'endort ce soir [Thirds] ş2016 The Lion Sleeps Tonight
+: .o .     N     _COCHET Charlie              Seb fait la connaissance d'Hudson [Thirds] ş2016 Seb Meets Hudson
+: .o .     N     _COCHET Charlie              Seb et son Lobito [Thirds] ş2016 Seb and His Lobito
+: .o .     N     _COCHET Charlie              Seb et Hudson sous leur forme animale [Thirds] ş2016 Seb and Hudson in Therian Form
+: .o .     N     _COCHET Charlie              Situation embarrassante et douloureuse nostalgie [Thirds] ş2016 Awkward and Aching
+: .o .     N     _COCHET Charlie              Le Meilleur Rendez-Vous du monde ! [Thirds] ş2016 Best Date Ever!
+: .o .     N     _COCHET Charlie              Prends du recul, n'h‚site pas, fais le boulot [Thirds] ş2016 Detach. Don't Hesitate. Do the Job.
+: .o .     N     _COCHET Charlie              Dex a un rhume. ‡a ne peut pas ˆtre si terrible, si ? [Thirds] ş2016 Dex Has a Cold. How Bad Can It Be?
+: .o .     N     _COCHET Charlie              ScŠne bonus, Austen et Zach [Thirds] ş2016 Bonus Scene Austen and Zach
+: .o .     N     _COCHET Charlie              Le Thanksgiving des petits Sloane et Ash [Thirds] ş2016 Little Sloane and Ash's Thanksgiving
+: .o .     N     _COCHET Charlie              Ash et "sexcapades" [Thirds] ş2016 Ash and the Sexcapades
+: .o .     N     _COCHET Charlie              Bataille de snacks [Thirds] ş2016 Snack Warfare
+: .o .     N     _COCHET Charlie              Le Rendez-Vous de Seb et Cael [Thirds] ş2016 Seb and Cael's Date
+: .o .     N     _COCHET Charlie              Le Shooting du calendrier du THIRDS [Thirds] ş2016 THIRDS Calendar Shoot
+: .o .     N     _COCHET Charlie              Rough boy2 [Thirds] ş2016 Rough Boy
+: .o .     N     _COCHET Charlie              Sp‚ciale St Valentin [Thirds] ş2016 Calvin and Hobbs Valentine's Day Special
+: .o .     N     _COCHET Charlie              Les Courses, fa‡on Dex [Thirds] ş2016 Grocery Shopping Dex Style
+: .o .     N     _COCHET Charlie              Le Premier Rendez-Vous de Lou et Bradley [Thirds] ş2016 Lou and Bradley's First Date
+: .o .     N     _COCHET Charlie              Oh, M. Brodie [Thirds] ş2016 Oh, Mr. Brodie
+: .o .     N     _COCHET Charlie              Sloane et les petits therians [Thirds] ş2016 Sloane and the Therian Kiddies
+: .o .     N     _COCHET Charlie              Accroche-toi bien ! [Thirds] ş2016 Hold Onto Something
+: .o .     N     _COCHET Charlie              Baiser et r‚conciliation [Thirds] ş2016 Kiss and Make Up
+: .o .     N     _COCHET Charlie              Soir‚e poker [Thirds] ş2016 Team Poker Night
+: .o .     N     _COCHET Charlie              Moi, espion [Thirds] ş2016 I Spy
+: .o .     N     _COCHET Charlie              Conquis au premier jour [Thirds] ş2016 You Had Me From Day One
+: .o .     N     _COCHET Charlie              Soir‚e en amoureux [Thirds] ş2016 Date Night
+: .o .     N     _COCHET Charlie              Ash et LE rendez-vous [Thirds] ş2016 Ash and the Date
+: .o .     N     _COCHET Charlie              "S'moregasm" [Thirds] ş2016 S'Moregasm
+: .o .     N     _COCHET Charlie              Un aper‡u de Letty [Thirds] ş2016 A Little Bit Letty
+: .o .     N     _COCHET Charlie              Dex et la m‚thode Lamaze [Thirds] ş2016 Dex and Lamaze
+: .o .     a     _COCHET Charlie              Liste des personnages principaux ş2016 Cast Members
+: .o .     a     _COCHET Charlie              Glossaire ş2016 Glossary
+: .o .     a     _COCHET Charlie              A propos de l'auteure ş2016 A Note From the Author
+o MXM_IRP     ?  2021.10 ..... ISBN 979-10-381-1978-9
+} noimg          _? Smoking Hot Covers        ?
+!--- GF - 140x216 - 360 pages
+- .oF.     R     _AGUIRRE Ann                 Le Seigneur loup [Les Animari - 3] ş2018 The Wolf Lord şTrad. REGNIER MylŠne
+o MXM_ION     ?  2021.11 ..... ISBN 979-10-381-1456-2
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 344 pages
+- .oF.     R     _TRYDE Morgane               Save Me [Forbidden Love - 2] ş2021
+o MXM_MXM     ?  2021.11 ..... ISBN 979-10-381-1692-4
+} mxm112021_1    _(c)MxM Cr‚ations            ?
+!--- GF - 140x216 - 400 pages
+- .oY.     N4    _KLUNE T.J.                  Il ‚tait une fois [Les Contes de Verania - 4.5] ş2021 Fairytales from Verania şTrad. VAZ Alexia
+: .o .     N     _KLUNE T.J.                  La Licorne dans la tour [Les Contes de Verania] ş2021 The Unicorn in the Tower şTrad. VAZ Alexia
+: .o .     N     _KLUNE T.J.                  Sam et le Haricot magique [Les Contes de Verania] ş2021 Sam and the Beanstalk şTrad. VAZ Alexia
+: .o .     N     _KLUNE T.J.                  Le Dragon de David [Les Contes de Verania] ş2021 David's Dragon şTrad. VAZ Alexia
+: .o .     N     _KLUNE T.J.                  Le Gentil Gar‡on [Les Contes de Verania] ş2021 The Good Boy şTrad. VAZ Alexia
+o MXM_TS      ?  2021.11 ..... ISBN 979-10-381-1760-0
+} noimg          _? Story Wrapper             ?
+!--- YA - GF - 140x216 - 256 pages
+- .oF.     R     _STONE Leia                  QuatriŠme ann‚e [Fallen Academy - 4] ş2019 Year Four şTrad. BLANGIER Annabelle
+o MXM_TS      ?  2021.11 ..... ISBN 979-10-381-1763-1
+} mxm2021_88     _? Moorbooks Design          ?
+!--- YA - GF - 140x216 - 440 pages
+- .oF.    kRN    _BAKER Apryl                 Dossier fant“mes 3 [Dossier fant“mes] ş2021
+: .oF.     R     _BAKER Apryl                 Dossier fant“mes 3 [Dossier fant“mes - 3] ş2014 The Ghost Files 3 şTrad. ROY Diane
+: .oF.     N     _BAKER Apryl                 Dossier fant“mes 3.5 [Dossier fant“mes - 3.5] ş2015 The Ghost Files 3.5 şTrad. ROY Diane
+o MXM_IUF     ?  2021.11 ..... ISBN 979-10-381-1787-7
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 392 pages
+- .oF.     R     _DELILLE Claire              Siren et Joran [Les Veilleurs, Brigade paranormale - 1] ş2021
+o MXM_IRP     ?  2021.11 ..... ISBN 979-10-381-1791-4
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 376 pages
+- .oF.     R     _HARRISON Thea               Le Roi ensorcel‚ [Moonshadow - 3] ş2018 Lionheart şTrad. VAZ Alexia
+o MXM_MXM     ?  2021.11 ..... ISBN 979-10-381-1907-9
+} noimg          _?                           ?
+!--- GF - 140x216 - 440 pages
+- .oF.     R     _WINTERS Alice               Comment vexer un vampire [D‚partement des crimes vampiriques - 1] ş2020 How to Vex a Vampire şTrad. SIMON Audrey
+o MXM_IUF     ?  2021.11 ..... ISBN 979-10-381-1790-7
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 320 pages
+- .oF.     R     _HARPER Helen                Des emmerdes jusqu'au cou [Super Madrona - 1] ş2018 Box of Frogs şTrad. CHABRE Elisa
+o MXM_IUF     ?  2021.11 ..... ISBN 979-10-381-1971-0
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 464 pages
+- .oF.     R     _ANDREWS Ilona               De fer et de magie [Hugh d'Ambray - 1] ş2018 Iron and Magic şTrad. FRUTEAU C‚cile
+o MXM_IUF     ?  2021.12 ..... ISBN 979-10-381-0333-7
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 248 pages
+- .oF.     R     _MANCELLON C‚line            Fadlan, le maŒtre des rˆves [Les Ombres brumeuses - 2.5] ş2021
+o MXM_IUF     ?  2021.12 ..... ISBN 979-10-381-1675-7
+} noimg          _Louisa Preissler            ?
+!--- GF - 140x216 - 392 pages
+- .oF.     R     _ANDREWS Ilona               L'h‚ritiŠre de sang [Aurelia Ryder - 1][Kate Daniels] ş2021 Blood Heir şTrad. FRUTEAU C‚cile
+o MXM_ION     ?  2021.12 ..... ISBN 979-10-381-1676-4
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 144 pages
+- .oF.     R     _EVE Jaymin                 &Neutralit‚ [La Mal‚diction des dieux - 4.5] ş2018 Neutral şTrad. RUBBO Morgane
+&                _WASHINGTON Jane             
+o MXM_ION     ?  2021.12 ..... ISBN 979-10-381-1782-2
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 296 pages
+- .oS.     R     _JANE Samantha               Isobel et Will [Le Conseil d'Orion - 3] ş2018 Starlight şTrad. CHABRE Elisa
+o MXM_IUF     ?  2021.12 ..... ISBN 979-10-381-1783-9
+} noimg          _? Trifbookdesign            ?
+!--- GF - 140x216 - 432 pages
+- .oF.     R     _THALASSA Laura              Le Roi de la nuit [Les Secrets de l'AutreMonde - 1] ş2016 Rhapsodic şTrad. BLANGIER Annabelle
+o MXM_IUF     ?  2021.12 ..... ISBN 979-10-381-1968-0
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 400 pages
+- .oF.     R     _CRAWFORD C.N.              &Agent des t‚nŠbres [Dark Fae FBI - 3] ş2017 Agent of Darkness şTrad. FAURE Viviane
+&                _RIVERS Alex                 
+o MXM_TS      ?  2021.12 ..... ISBN 979-10-381-1970-3
+} noimg          _? Yocla Designs             ?
+!--- YA - GF - 140x216 - 248 pages
+- .oF.     R     _CHASE Annabel               Attir‚e par les t‚nŠbres [Bryn Morrow - 2][Acad‚mie Lancesort] ş2018 Outclassed şTrad. BLANGIER Annabelle
+!------------------------
+!=== 2022
+!------------------------
+o MXM_IUF     ?  2022.01 ..... ISBN 979-10-381-1773-0
+} noimg          _Annette Ahner               ?
+!--- GF - 140x216 - 328 pages - 19 euros
+- .oF.     R     _MARIE Annette               Deux sorciŠres et un whiskey [Tori Dawson - 3][The Guild Codex] ş2019 Two Witches and a Whiskey şTrad. FAURE Viviane
+o MXM_IUF     ?  2022.01 ..... ISBN 979-10-381-1777-8
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 392 pages - 19 euros
+- .oF.     R     _BREENE K. F.                Etincelle [Reagan Somerset - 1] ş2017 Born in Fire şTrad. LEBLOND Isabelle
+o MXM_IUF     ?  2022.01 ..... ISBN 979-10-381-1784-6
+} noimg          _? Raven Covers              ?
+!--- GF - 140x216 - 504 pages - 23 euros
+- .oF.     R     _ST. CLARE Kelly             Dette mortelle [Le Repaire des vampires - 2] ş2020 Vampire Debt şTrad. BAUDOT Elsa
+o MXM_TS      ?  2022.01 ..... ISBN 979-10-381-1795-2
+} noimg          _? Moorbooks Design          ?
+!--- YA - GF - 140x216 - 528 pages - 23 euros
+- .oF.     R     _BARRET S‚bastien            Le Porteur de lumiŠre [R‚demption (S. Barret) - 2] ş2022
+o MXM_IUF     ?  2022.01 ..... ISBN 979-10-381-1966-6
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 296 pages - 19 euros
+- .oF.     R     _HARPER Helen                Quand la politique s'en mˆle [Les Liens du sang - 4] ş2013 Blood Politics şTrad. ASIN Laurie
+o MXM_TS      ?  2022.01 ..... ISBN 979-10-381-1670-2
+} noimg          _(c) Moorbooks Design        ?
+!--- YA - GF - 140x216 - 512 pages - 23 euros
+- .oF.     R     _ASHE Gregory                La Cible du tueur [Hollow Folk - 1] ş2017 Mr. Big Empty şTrad. ELPIS Ezechiel
+o MXM_IUF     ?  2022.02 ..... ISBN 979-10-381-0448-8
+} noimg          _Luisa                       ?
+!--- GF - 140x216 - 344 pages - 19 euros
+- .oF.     R     _BUROKER Lindsay             Sous l'emprise de la magie [Val Thorvald - 1] ş2020 Sinister Magic şTrad. KREMER Alice
+o MXM_IUF     ?  2022.02 ..... ISBN 979-10-381-1498-2
+} noimg          _? Gene Mollica Studio       ?
+!--- GF - 140x216 - 392 pages - 19 euros
+- .oF.     R     _EDWARDS Hailey              Comment entretenir un mensonge de mort-vivant [Guide pour n‚cromancien en herbe - 5] ş2018 How to Live an Undead Lie şTrad. HANOT H‚lo‹se
+o MXM_IUF     ?  2022.02 ..... ISBN 979-10-381-1566-8
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 480 pages - 23 euros
+- .oF.     R     _ROBSON Cecy                 Une mal‚diction intacte [La Mal‚diction de C‚lia - 5] ş2015 A Curse Unbroken şTrad. LISELLA Fanny
+o MXM_MXM     ?  2022.02 ..... ISBN 979-10-381-1639-9
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 240 pages - 17 euros
+- .oF.     R     _WRIGHT Camille              L'Arbre de vie [H‚ritage (C. Wright) - 2] ş2022
+o MXM_TS      ?  2022.02 ..... ISBN 979-10-381-1663-4
+} noimg          _? Moorbooks Design          ?
+!--- YA - GF - 140x216 - 280 pages - 17 euros
+- .oY.     R     _WOODLAND Eden               Le Rituel d'H‚cate [La Confr‚rie magique - 1] ş2022
+o MXM_MXM     ?  2022.02 ..... ISBN 979-10-381-1689-4
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 256 pages - 17 euros
+- .oF.     R     _COCHET Charlie              Love & Payne [Thirds Rebels - 1][Thirds] ş2018 Love & Payne şTrad. LECOUVREZ Ingrid
+o MXM_MXM     ?  2022.02 ..... ISBN 979-10-381-1855-3
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 312 pages - 19 euros
+- .oF.     R     _HALE Ginn                   Le Sang des sorciŠres [Le Pourfendeur - 2] ş2011 Black Blades + Witches' Blood şTrad. CHAPTAL St‚phanie
+o MXM_MXM     ?  2022.03 ..... ISBN 979-10-381-1396-1
+} noimg          _Reese Dante                 ?
+!--- GF - 140x216 - 160 pages - 13 euros
+- .oY.     r     _COCHET Charlie              Le G‚n‚ral Soldati [Soldati - 3] ş2020 The Soldati General şTrad. CLAIR Ma‰lle Haut
+o MXM_IUF     ?  2022.03 ..... ISBN 979-10-381-1476-0
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 560 pages - 23 euros
+- .oY.     R     _BOTTINO Doriane R.          H‚ritiŠre [C‚leste (D.R. Bottino) - 1] ş2022
+o MXM_IUF     ?  2022.04 ..... ISBN 979-10-381-1556-9
+} noimg          _?                           ?
+!--- GF - 140x216 - 464 pages - 23 euros
+- .oF.     R     _EVE Jaymin                  Rejet‚e [La Bˆte de l'ombre - 1] ş2020 Rejected şTrad. ?
+o MXM_IUF     ?  2022.03 ..... ISBN 979-10-381-1382-4
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 320 pages - 19 euros
+- .oF.     R     _D. Maddie                  &Awaken [Deities - 1] ş2022
+&                _LUCAS Cl‚mence              
+o MXM_ION     ?  2022.03 ..... ISBN 979-10-381-1557-6
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 512 pages - 23 euros
+- .oY.     R     _BOUCHET Amanda              Promesse de feu [La Faiseuse de rois - 1] ş2016 A Promise of Fire şTrad. PICARD Camille
+o MXM_ION     ?  2022.03 ..... ISBN 979-10-381-1562-0
+} noimg          _Nicolas Jamonneau           ?
+!--- GF - 140x216 - 408 pages - 23 euros
+- .oY.     R     _DECAMPS Virginie            La Princesse ‚trangŠre [Le Royaume du Nord - 1] ş2022
+o MXM_MXM     ?  2022.03 ..... ISBN 979-10-381-1623-8
+} noimg          _?                           ?
+!--- GF - 140x216 - 296 pages - 23 euros
+- .oF.     R     _WINTERS Alice               Comment ‚chapper … un vampire [D‚partement des crimes vampiriques - 2] ş2020 How to Elude a Vampire şTrad. SIMON Audrey
+o MXM_MXM     ?  2022.03 ..... ISBN 979-10-381-1628-3
+} noimg          _? Moorbooks Design          ?
+!--- GF - 140x216 - 512 pages - 23 euros
+- .oF.     R     _TURNER Hailey               Une nuit voil‚e et sacr‚e [Dette de sang - 7] ş2021 A Veiled & Hallowed Eve şTrad. WRIGHT Camille
+o MXM_TS      ?  2022.03 ..... ISBN 979-10-381-1758-7
+} noimg          _?                           ?
+!--- YA - GF - 140x216 - 496 pages - 23 euros
+- .oF.     R     _STIEFVATER Maggie           Les Voleurs de rˆves [Le Cycle du corbeau - 2] ş2013 The Dream Thieves şTrad. FRUCHAUD Florence
+o MXM_IUF     ?  2022.04 ..... ISBN 979-10-381-1554-5
+} noimg          _(c) Covers by Juan          ?
+!--- GF - 140x216 - 296 pages - 17 euros
+- .oF.     R     _CARPENTER Kel               Chasseuse de primes [Piper Fallon - 1] ş2020 Touched by Fire şTrad. PICARD Camille
+o MXM_IUF     ?  2022.04 ..... ISBN 979-10-381-1485-2
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 528 pages - 23 euros
+- .oF.     R     _AMBROISE Nyx                Recherche ƒme d‚sesp‚r‚ment [Aurore Callahan - 1] ş2022
+o MXM_IRP     ?  2022.04 ..... ISBN 979-10-381-1383-1
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 496 pages - 23 euros
+- .oF.     R     _AKEROYD Serena              Ames soeurs [L'Ann‚e du loup - 1] ş2020 Wolf Child şTrad. RUBBO Morgane
+o MXM_IRP     ?  2022.04 ..... ISBN 979-10-381-1565-1
+} noimg          _(c) Hot Smoking Covers      ?
+!--- GF - 140x216 - 360 pages - 19 euros
+- .oF.     R     _AGUIRRE Ann                 Le Guerrier de l'ombre [Les Animari - 4] ş2019 The Shadow Warrior şTrad. REGNIER MylŠne
+o MXM_TS      ?  2022.04 ..... ISBN 979-10-381-1662-7
+} noimg          _Nicolas Jamonneau           ?
+!--- YA - GF - 140x216 - 308 pages - 19 euros
+- .oF.     R     _KELLER Marie M.             Taches de lune [Les Enfants de l'‚clipse - 1] ş2022
+o MXM_MXM     ?  2022.04 ..... ISBN 979-10-381-1638-2
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 296 pages - 17 euros
+- .oF.     R     _KOPEC Aurore                Conflit d'int‚rˆts [Edwin Jones - 1] ş2022
+o MXM_MXM     ?  2022.04 ..... ISBN 979-10-381-1643-6
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 408 pages - 19 euros
+- .oF.     R     _RAVENCROFT Keliane          Les MaŒtres-Djinns [Djinns - 2] ş2022
+o MXM_MXM     ?  2022.04 ..... ISBN 979-10-381-1373-2
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 400 pages - 19 euros
+- .oF.     R     _STERGANN Valentine          L… o— la mort r“de ş2022
+o MXM_IUF     ?  2022.05 ..... ISBN 979-10-381-1550-7
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 312 pages - 19 euros
+- .oF.     R     _HARPER Helen                La loi de Murphy frappe toujours deux fois [Super Madrona - 2] ş2018 Quiver of Cobras şTrad. CHABRE Elisa
+o MXM_IUF     ?  2022.05 ..... ISBN 979-10-381-1531-6
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 320 pages - 17 euros
+- .oF.     R     _REGNIER MylŠne              Le PŠre du monde [Myria - 5] ş2022
+o MXM_TS      ?  2022.05 ..... ISBN 979-10-381-1750-1
+} noimg          _Helena Nikulina             ?
+!--- YA - GF - 140x216 - 312 pages - 17 euros
+- .oF.     R     _BEAUTISSON Jeanne           Le Bouclier [Les Reconnus de Mitzar - 2] ş2022
+o MXM_MXM     ?  2022.05 ..... ISBN 979-10-381-1593-4
+} noimg          _(c) e-Dantes                ?
+!--- GF - 140x216 - 488 pages - 23 euros
+- .oF.     R     _COOPER R.                   Guide pour s‚duire un humain capricieux [Bestiaire amoureux - 7] ş2020 Treasure for Treasure şTrad. JONES Alexander
+o MXM_MXM     ?  2022.05 ..... ISBN 979-10-381-1376-3
+} noimg          _Stephen Drake               ?
+!--- GF - 140x216 - 392 pages - 19 euros
+- .oF.     R     _DRAKE Jocelynn              Le Vampire et l'espion [Les Seigneurs de la discorde - 1] ş2019 Claiming Marcus şTrad. NICEY Julie
+o MXM_MXM     ?  2022.05 ..... ISBN 979-10-381-1627-6
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 508 pages - 23 euros
+- .oF.     R     _OSBORN Jaclyn               Voyage au coeur du royaume sous marin [Les Contes du destin - 2] ş2019 The Nymph Prince şTrad. NICEY Julie
+o MXM_IUF     ?  2022.06 ..... ISBN 979-10-381-1532-3
+} noimg          _(c) Moorbooks Design        ?
+!--- GF - 140x216 - 360 pages - 19 euros
+- .oF.     R     _CRAWFORD C.N.              &Agent des faes [Dark Fae FBI - 4] ş2017 Agent of the Fae şTrad. CUVELLIEZ Steven
+&                _RIVERS Alex                 
+o MXM_IUF     ?  2022.06 ..... ISBN 979-10-381-1542-2
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 376 pages - 19 euros
+- .oF.     R     _BREENE K. F.                Flamme [Reagan Somerset - 2] ş2017 Raised in Fire şTrad. FRUTEAU C‚cile
+o MXM_IUF     ?  2022.06 ..... ISBN 979-10-381-1534-7
+} noimg          _(c) Raven Covers            ?
+!--- GF - 140x216 - 388 pages - 19 euros
+- .oF.     R     _ST. CLARE Kelly             Jeu mortel [Le Repaire des vampires - 3] ş2020 Death Game şTrad. BAUDOT Elsa
+o MXM_IUF     ?  2022.06 ..... ISBN 979-10-381-1530-9
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 336 pages - 19 euros
+- .oF.     R     _DHEILM Sarah                La DerniŠre Lign‚e [De plumes et de sang - 1] ş2022
+o MXM_IUF     ?  2022.06 ..... ISBN 979-10-381-1549-1
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 264 pages - 17 euros
+- .oF.     R     _ANDREWS Ilona               La Gardienne des Portes [Dina Demille - 1] ş2013 Clean Sweep şTrad. FRUTEAU C‚cile
+o MXM_IUF     ?  2022.06 ..... ISBN 979-10-381-1535-4
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 420 pages - 23 euros
+- .oF.     R     _THALASSA Laura              Le Chant de la sirŠne [Les Secrets de l'AutreMonde - 2] ş2017 Bargainer 2: A Strange Hymn şTrad. BLANGIER Annabelle
+o MXM_IUF     ?  2022.06 ..... ISBN 979-10-381-1563-7
+} noimg          _(c) Moorbooks Design        ?
+!--- GF - 140x216 - 376 pages - 19 euros
+- .oF.     R     _SAUREL Julie                Se jeter dans la gueule du loup [Alicia Smith - 3] ş2022
+o MXM_ION     ?  2022.06 ..... ISBN 979-10-381-1511-8
+} noimg          _(c) MxM Cr‚ations           ?
+!--- GF - 140x216 - 408 pages - 23 euros
+- .oS.     R     _COLLINS Laura               Chris [Au-del… de la porte (L. Collins) - 3] ş2020
+o MXM_TS      ?  2022.06 ..... ISBN 979-10-381-1541-5
+} noimg          _Nicolas Jamonneau           ?
+!--- YA - GF - 140x216 - 320 pages - 17 euros
+- .oF.     R     _REINHART Merida            &Une pinc‚e de magie [Les Piliers de la magie - 1] ş2022
+&                _O'TINEL Byron               
+o MXM_MXM     ?  2022.06 ..... ISBN 979-10-381-2417-2
+} noimg          _Aldaria                     ?
+!--- GF - 140x216 - 296 pages - 17 euros
+- .oF.     R     _LOCKHART Rohan              En terrain hostile - 1 [Outlive - 1] ş2022
+o MXM_ION     ?  2022.07 ..... ISBN 979-10-381-1533-0
+} noimg          _Nicolas Jamonneau           ?
+!--- GF - 140x216 - 352 pages - 19 euros
+- .oF.     R     _ST. CLARE Kelly            &De miel et de cendres [Le Jeu des couronnes - 1] ş2021 A Court of Honey and Ash şTrad. KREMER Alice
+&                _MAYER Shannon               
+o MXM_ION     ?  2022.07 ..... ISBN 979-10-381-1441-8
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 280 pages - 17 euros
+- .oS.     R     _VITELLI Karine              De Sang et d'orgueil [Iridium - 3] ş2022
+o MXM_ION     ?  2022.07 ..... ISBN 979-10-381-1522-4
+} noimg          _Nicolas Jamonneau           ?
+!--- GF - 140x216 - 376 pages - 19 euros
+- .oY.     R     _DECAMPS Virginie            Le Roi solitaire [Le Royaume du Nord - 2] ş2022
+o MXM_ION     ?  2022.07 ..... ISBN 979-10-381-3321-1
+} noimg          _nc                          ?
+!--- GF - 140x216 - 448 pages - 23 euros
+- .oF.     R     _MANCELLON C‚line            Les Fian‡ailles obscures [D‚mon noir - 1] ş2022
+o MXM_IUF     ?  2022.07 ..... ISBN 979-10-381-1515-6
+} noimg          _Annette Ahner               ?
+!--- GF - 140x216 - 296 pages - 17 euros
+- .oF.     R     _MARIE Annette               Magie d‚moniaque et Martini [Tori Dawson - 4][The Guild Codex] ş2019 Demon Magic and a Martini şTrad. FAURE Viviane
+o MXM_IUF     ?  2022.07 ..... ISBN 979-10-381-1385-5
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 376 pages - 19 euros
+- .oF.     R     _PRICE Kalayna               Magie funŠbre [Alex Craft - 1] ş2010 Grave Witch şTrad. KUNTZER Benjamin
+o MXM_IUF     ?  2022.07 ..... ISBN 979-10-381-1495-1
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 594 pages - 23 euros
+- .oF.     R     _THALASSA Laura              Mort [Les Quatre Cavaliers - 4] ş2021 Death şTrad. VADORI Isabelle
+o MXM_TS      ?  2022.07 ..... ISBN 979-10-381-1664-1
+} noimg          _Miesis                      ?
+!--- YA - GF - 140x216 - 448 pages - 23 euros
+- .oF.     R     _CAINE Rachel                D'encre et d'os [La Grande Librairie - 1] ş2015 Ink and Bone şTrad. BERTAUD Caroline
+o MXM_TS      ?  2022.07 ..... ISBN 979-10-381-1965-9
+} noimg          _(c) Yocla Designs           ?
+!--- YA - GF - 140x216 - 224 pages - 17 euros
+- .oF.     R     _CHASE Annabel               Press‚e par le temps [Bryn Morrow - 3][Acad‚mie Lancesort] ş2018 Outlast şTrad. BLANGIER Annabelle
+o MXM_MXM     ?  2022.07 ..... ISBN 979-10-381-1375-6
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 216 pages - 17 euros
+- .oF.     R     _MARAS Mathilde              Cavale pour un enchanteur [SortilŠges et crises de nerfs - 1] ş2022
+o MXM_MXM     ?  2022.07 ..... ISBN 979-10-381-1922-2
+} noimg          _(c) Moorbooks Design        ?
+!--- GF - 140x216 - 424 pages - 23 euros
+- .oY.     R     _ALDERSON Ben                Empoisonn‚ par la lumiŠre [Les Dragori - 3] ş2019 Poisoned in Light şTrad. SAINT-GAL No‚mie
+o MXM_MXM     ?  2022.07 ..... ISBN 979-10-381-1621-4
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 380 pages - 19 euros
+- .oF.     R     _ADHARA Charlie              Un loup … votre porte [Le Grand M‚chant Loup - 1] ş2018 Big Bad Wolf 1: The Wolf At the Door şTrad. GAUZY-SVAHN Christine
+o MXM_ION     ?  2022.08 ..... ISBN 979-10-381-1525-5
+} noimg          _(c) Combs                   ?
+!--- GF - 140x216 - 336 pages - 19 euros
+- .oF.     R     _JAMES Tate                  Le Guet-Apens du tigre [Kit Davenport - 3] ş2017 The Tiger's Ambush şTrad. BAUDOT Elsa
+o MXM_ION     ?  2022.08 ..... ISBN 979-10-381-2613-8
+} mxm2022_59     _(c) MxM Cr‚ations           ?
+!--- GF - 140x216 - 620 pages - 23 euros
+- .oF.    _r4    _ST. CLARE Kelly             Rˆves d'un autre monde [Les Accords corrompus] ş2020 The Tri-World Exchange şTrad. LE NY Katelyne
+: .oF.     r     _ST. CLARE Kelly             P‚ch‚ [Les Accords corrompus] ş2017 Sin şTrad. LE NY Katelyne
+: .oF.     r     _ST. CLARE Kelly             Olandon [Les Accords corrompus] ş2018 Olandon şTrad. LE NY Katelyne
+: .oF.     r     _ST. CLARE Kelly             Rhone [Les Accords corrompus] ş2018 Rhone şTrad. LE NY Katelyne
+: .oF.     r     _ST. CLARE Kelly             clat [Les Accords corrompus] ş2019 Shard şTrad. LE NY Katelyne
+o MXM_IRP     ?  2022.08 ..... ISBN 979-10-381-1505-7
+} noimg          _(c) e-Dantes                ?
+!--- GF - 140x216 - 384 pages - 19 euros
+- .oF.     R     _DARK Dannika                Quatre jours [La Meute Weston - 4] ş2014 Four Days şTrad. CHABRE Elisa
+o MXM_IUF     ?  2022.08 ..... ISBN 979-10-381-1509-5
+} noimg          _Luisa                       ?
+!--- GF - 140x216 - 368 pages - 19 euros
+- .oF.     R     _BUROKER Lindsay             Des emmerdes en pagaille [Val Thorvald - 2] ş2020 Battle Bond şTrad. KREMER Alice
+o MXM_IUF     ?  2022.08 ..... ISBN 979-10-381-1516-3
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 336 pages - 19 euros
+- .oF.     R     _HARPER Helen                D‚sirs en pagaille [Les Liens du sang - 5] ş2013 Bloodlust şTrad. ASIN Laurie
+o MXM_IUF     ?  2022.08 ..... ISBN 979-10-381-1523-1
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 280 pages - 17 euros
+- .oF.     R     _DHEILM Sarah                L'Enfant du ciel [De plumes et de sang - 2] ş2022
+o MXM_IUF     ?  2022.08 ..... ISBN 979-10-381-1521-7
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 280 pages - 17 euros
+- .oF.     R     _SMACS M‚lodie               Mise en bouche [Meya Daeblone - 1] ş2022
+o MXM_TS      ?  2022.08 ..... ISBN 979-10-381-1759-4
+} noimg          _(c) Moorbooks Design        ?
+!--- YA - GF - 140x216 - 252 pages - 17 euros
+- .oY.     R     _WOODLAND Eden               Entre feu et glace [La Confr‚rie magique - 2] ş2022
+o MXM_TS      ?  2022.08 ..... ISBN 979-10-381-0556-0
+} noimg          _(c) Moorbooks Design        ?
+!--- YA - GF - 140x216 - 512 pages - 23 euros
+- .oF.     R     _ASHE Gregory                Hurlement int‚rieur [Hollow Folk - 2] ş2017 All the Inside Howling şTrad. ELPIS Ezechiel
+o MXM_MXM     ?  2022.08 ..... ISBN 979-10-381-2419-6
+} noimg          _Aldaria                     ?
+!--- GF - 140x216 - 328 pages - 19 euros
+- .oF.     R     _LOCKHART Rohan              En terrain hostile - 2 [Outlive - 2] ş2022
+o MXM_MXM     ?  2022.08 ..... ISBN 979-10-381-1649-8
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 432 pages - 23 euros
+- .oF.     R     _ORDAN Aarwen                L'ƒme scind‚e [Les ƒmes du gardien - 1] ş2022
+o MXM_MXM     ?  2022.08 ..... ISBN 979-10-381-1610-8
+} noimg          _(c) MxM Cr‚ations           ?
+!--- GF - 140x216 - 376 pages - 19 euros
+- .oF.     R     _HARMON S.E.                 Un meurtre peut en cacher trois autres [Les Enquˆtes extra-lucides de Rain Christiansen - 3] ş2020 Spooky Business şTrad. WRIGHT Camille
+o MXM_IRP     ?  2022.09 ..... ISBN 979-10-381-1488-3
+} noimg          _(c) Hot Smoking Covers      ?
+!--- GF - 140x216 - 360 pages - 19 euros
+- .oF.     R     _AGUIRRE Ann                 Le Prˆtre de la guerre [Les Animari - 5] ş2020 The War Priest şTrad. REGNIER MylŠne
+o MXM_ION     ?  2022.09 ..... ISBN 979-10-381-1512-5
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 224 pages - 17 euros
+- .oF.     R     _VON HALF Jo Ann             Le Chant du cygne [Les Contes d'Aucelaire - 5] ş2022
+o MXM_ION     ?  2022.09 ..... ISBN 979-10-381-1486-9
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 504 pages - 23 euros
+- .oY.     R     _BOUCHET Amanda              Souffle de feu [La Faiseuse de rois - 2] ş2017 Breath of Fire şTrad. PICARD Camille
+o MXM_IUF     ?  2022.09 ..... ISBN 979-10-381-1547-7
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 392 pages - 19 euros
+- .oF.     R     _RIVER G.A.                  Bienvenue … Salem [Avery Brookwell - 1] ş2022
+o MXM_IUF     ?  2022.09 ..... ISBN 979-10-381-2272-7
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 224 pages - 17 euros
+- .oF.     R     _ROBSON Cecy                 De Flamme et d'esp‚rance [La Mal‚diction de Taran - 1] ş2016 Of Flame and Promise şTrad. ALBY Delhia
+o MXM_IUF     ?  2022.09 ..... ISBN 979-10-381-2290-1
+} mxm2022_74     _Miesis                      ?
+!--- GF - 140x216 - 600 pages - 23 euros
+- .oF.    _R2    _GALLMAN Marika              Rage de dents - Dent pour dent [Maeve Regan - 1/2] ş2022
+: .oF.     R     _GALLMAN Marika              Rage de dents [Maeve Regan - 1] ş2011
+: .oF.     R     _GALLMAN Marika              Dent pour dent [Maeve Regan - 2] ş2012
+o MXM_IUF     ?  2022.09 ..... ISBN 979-10-381-1478-4
+} noimg          _(c) D‚ranger Doctor Design  ?
+!--- GF - 140x216 - 320 pages - 19 euros
+- .oF.     R     _HARPER Helen                R‚veil … la morgue [Emma Bellamy - 1] ş2020 Brimstone Bound şTrad. ASIN Laurie
+o MXM_TS      ?  2022.09 ..... ISBN 979-10-381-1665-8
+} noimg          _Miesis                      ?
+!--- YA - GF - 140x216 - 472 pages - 23 euros
+- .oF.     R     _CAINE Rachel                De papier et de feu [La Grande Librairie - 2] ş2016 Paper and Fire şTrad. BERTAUD Carolin/
+o MXM_MXM     ?  2022.09 ..... ISBN 979-10-381-1634-4
+} noimg          _(c) Moorbooks Design        ?
+!--- GF - 140x216 - 288 pages - 17 euros
+- .oF.     R     _SUE Victoria                Coeur de chevalier [Les Gardiens de Camelot - 2] ş2020 Dead of Knight şTrad. NICEY Julie
+o MXM_MXM     ?  2022.09 ..... ISBN 979-10-381-1606-1
+} noimg          _(c) Moorbooks Design        ?
+!--- GF - 140x216 - 248 pages - 17 euros
+- .oF.     R     _WRIGHT Camille              Le Dernier Sacrifice [H‚ritage (C. Wright) - 3] ş2022
+o MXM_MXM     ?  2022.09 ..... ISBN 979-10-381-2329-8
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 288 pages - 17 euros
+- .oF.     R     _RAVENCROFT Keliane          Le Jeu des couronnes [Djinns - 3] ş2022
+o MXM_IUF     ?  2022.10 ..... ISBN 979-10-381-2089-1
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 280 pages - 17 euros
+- .oF.     R     _SMACS M‚lodie               Antipasti [Meya Daeblone - 2] ş2022
+o MXM_IUF     ?  2022.10 ..... ISBN 979-10-381-1490-6
+} noimg          _Annette Ahner               ?
+!--- GF - 140x216 - 336 pages - 19 euros
+- .oF.     R     _MARIE Annette               Apprivoiser les d‚mons, niveau d‚butant [Robin Page - 1][The Guild Codex] ş2019 Taming Demons for Beginners şTrad. FAURE Viviane
+o MXM_IUF     ?  2022.10 ..... ISBN 979-10-381-1489-0
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 296 pages - 17 euros
+- .oF.     R     _HARPER Helen                Et une apocalypse pour Madrona [Super Madrona - 3] ş2018 Fractured Faery 3: Skulk of Foxes şTrad. CHABRE Elisa
+o MXM_IUF     ?  2022.10 ..... ISBN 979-10-381-1564-4
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 432 pages - 23 euros
+- .oF.     R     _MULLER Laura                MystŠre et boule de poils [Chasseuse de l'ombre - 2] ş2022
+o MXM_TS      ?  2022.10 ..... ISBN 979-10-381-1747-1
+} noimg          _Nicolas Jamonneau           ?
+!--- YA - GF - 140x216 - 392 pages - 19 euros
+- .oF.     R     _FILLION Christelle          Nereus Alpha ş2022
+o MXM_MXM     ?  2022.10 ..... ISBN 979-10-381-1362-6
+} noimg          _Nicolas Jamonneau           ?
+!--- GF - 140x216 - 432 pages - 23 euros
+- .oF.     R     _RYLIA Diane B.              Et voyez la poussiŠre [Le Prince et le traitre - 1] ş2022
+o MXM_MXM     ?  2022.10 ..... ISBN 979-10-381-2331-1
+} noimg          _(c) Moorbooks Design        ?
+!--- GF - 140x216 - 472 pages - 23 euros
+- .oF.     R     _LESTEPLUME Isabelle         Le Beau et la Bˆte [Contes des royaumes oubli‚s - 4] ş2020
+o MXM_MXM     ?  2022.10 ..... ISBN 979-10-381-1118-9
+} noimg          _Catt Ford                   ?
+!--- GF - 140x216 - 296 pages - 17 euros
+- .oF.     R     _NICHOLS T.J.                Luxure et autres addictions [Enquˆtes de la brigade mythologique - 1] ş2021 Lust and other Drugs şTrad. CHAPTAL St‚phanie
+o MXM_IUF     ?  2022.11 ..... ISBN 979-10-381-1467-8
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 528 pages - 23 euros
+- .oF.     R     _AMBROISE Nyx                Autant en emportent les ƒmes [Aurore Callahan - 2] ş2022
+o MXM_IUF     ?  2022.11 ..... ISBN 979-10-381-1479-1
+} noimg          _Miesis                      ?
+!--- GF - 140x216 - 344 pages - 19 euros
+- .oF.     R     _BREENE K. F.                Brasier [Reagan Somerset - 3] ş2017 Fused in Fire şTrad. FRUTEAU C‚cile
+o MXM_IUF     ?  2022.11 ..... ISBN 979-10-381-1497-5
+} noimg          _(c) Gene Mollica Studio     ?
+!--- GF - 140x216 - 360 pages - 19 euros
+- .oF.     R     _EDWARDS Hailey              Comment r‚veiller une ville … moiti‚ morte [Guide pour n‚cromancien en herbe - 6] ş2019 How to Wake an Undead City şTrad. VADORI Isabelle
+o MXM_IUF     ?  2022.11 ..... ISBN 979-10-381-1480-7
+} noimg          _(c) Covers by Juan          ?
+!--- GF - 140x216 - 312 pages - 19 euros
+- .oF.     R     _CARPENTER Kel               La meilleure d‚fense, c'est l'attaque [Piper Fallon - 2] ş2020 Haunted by Shadows şTrad. CUVELLIEZ Steven
+o MXM_IUF     ?  2022.11 ..... ISBN 979-10-381-1388-6
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 440 pages - 23 euros
+- .oF.     R     _EVE Jaymin                  R‚cup‚r‚e [La Bˆte de l'ombre - 2] ş2021 Reclaimed şTrad. BOUTANQUOI Lucile
+o MXM_IUF     ?  2022.11 ..... ISBN 979-10-381-1458-6
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 376 pages - 19 euros
+- .oF.     R     _ARTHUR Keri                 Un baiser sanguinaire [Lizzie Grace - 1] ş2017 Blood Kissed şTrad. BOUTANQUOI Lucile
+o MXM_IRP     ?  2022.11 ..... ISBN 979-10-381-1387-9
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 544 pages - 23 euros
+- .oF.     R     _AKEROYD Serena              Sombre h‚ritage [L'Ann‚e du loup - 2] ş2020 Moon Child şTrad. RUBBO Morgane
+o MXM_MXM     ?  2022.11 ..... ISBN 979-10-381-1426-5
+} noimg          _(c) Moorbooks Design        ?
+!--- GF - 140x216 - 488 pages - 23 euros
+- .oF.     R     _PHARELL Phoenix             Des ‚chos de sang et de crocs ş2022
+o MXM_MXM     ?  2022.11 ..... ISBN 979-10-381-3072-2
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 352 pages - 19 euros
+- .oF.     R     _RAVENCROFT Keliane          Les Exalt‚s [Djinns - 4] ş2022
+o MXM_MXM     ?  2022.11 ..... ISBN 979-10-381-1578-1
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 456 pages - 23 euros
+- .oF.     R     _KOPEC Aurore                Petits complots et magie noire [Edwin Jones - 2] ş2022
+o MXM_ION     ?  2022.12 ..... ISBN 979-10-381-1453-1
+} noimg          _Nicolas Jamonneau           ?
+!--- GF - 140x216 - 336 pages - 19 euros
+- .oF.     R     _ST. CLARE Kelly            &De plumes et d'os [Le Jeu des couronnes - 2] ş2021 A Throne Of Feathers and Bone şTrad. KREMER Alice
+&                _MAYER Shannon               
+o MXM_IUF     ?  2022.12 ..... ISBN 979-10-381-1389-3
+} noimg          _(c) Story Wrapper           ?
+!--- GF - 140x216 - 344 pages - 19 euros
+- .oF.     R     _STONE Leia                 &Baisers de minuit [Alpha Academy - 1] ş2020 Midnight Kisses şTrad. VAGO Lou
+&                _WAGNER Raye                  
+o MXM_MXM     ?  2022.12 ..... ISBN 979-10-381-2336-6
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 432 pages - 23 euros
+- .oF.     R     _OSBORN Jaclyn               A la recherche de l'artefact perdu [Les Contes du destin - 3] ş2021 A Warrior's Heart şTrad. NICEY Julie
+o MXM_TS      ?  2022.12 ..... ISBN 979-10-381-1025-0
+} noimg          _Nicolas Jamonneau           ?
+!--- YA - GF - 140x216 - 328 pages - 19 euros
+- .oF.     R     _KELLER Marie M.             Chemins de ruines [Les Enfants de l'‚clipse - 2] ş2022
 
+
+o MXM_ION     ?  2022.10 ..... ISBN 979-10-381-1474-6
+} noimg          _(c) Trifbookdesign          ?
+!--- GF - 140x216 - 504 pages - 23 euros
+- .oY.     R     _LINDE K.A.                  La Maison des dragons [Les Amants maudits - 1] ş2020 House of Dragons şTrad. BERTAUD Caroline
+o MXM_MXM     ?  2022.11 ..... ISBN 979-10-381-1417-3
+} noimg          _(c) Moorbooks Design        ?
+!--- GF - 140x216 - 464 pages - 23 euros
+- .oF.     R     _WINTERS Alice               Comment duper un chasseur [D‚partement des crimes vampiriques - 3] ş2020 How to Lure a Hunter şTrad. SIMON Audrey
+o MXM_IUF     ?  2022.12 ..... ISBN 979-10-381-2292-5
+} noimg          _Miesis                      ?
+} mxm2022_107    _Miesis                      ?
+!--- GF - 140x216 - 856 pages - 23 euros
+- .oF.    _R2    _GALLMAN Marika              La Dent longue - A pleines dents [Maeve Regan - 3/4] ş2022
+: .oF.     R     _GALLMAN Marika              La Dent longue [Maeve Regan - 3] ş2013
+: .oF.     R     _GALLMAN Marika              A pleines dents [Maeve Regan - 4] ş2013
+o MXM_IUF     ?  2022.12 ..... ISBN 979-10-381-1393-0
+} noimg          _Mirella Santana             ?
+!--- GF - 140x216 - 376 pages - 19 euros
+- .oF.     R     _BOTTINO Doriane R.          Pand‚monium [C‚leste (D.R. Bottino) - 2] ş2022
 
 
 

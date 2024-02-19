@@ -4,11 +4,11 @@
 
 !-----------------------------------------------------------------------------
 _ CFLI    Club Fran‡ais du Livre
-_ CFLE    Club Fran‡ais du Livre, Coll. Evenement
-_ CFLP    Club Fran‡ais du Livre, Coll. Les Portiques
-_ CFLR    Club Fran‡ais du Livre, Coll. R‚cits
-_ CFL_MRV Club Fran‡ais du Livre, Coll. Merveilles
-_ CFL_CLA Club Fran‡ais du Livre, Coll. Classiques
+_ CFLE    Club Fran‡ais du Livre - Evenement
+_ CFLP    Club Fran‡ais du Livre - Les Portiques
+_ CFLR    Club Fran‡ais du Livre - R‚cits
+_ CFL_MRV Club Fran‡ais du Livre - Merveilles
+_ CFL_CLA Club Fran‡ais du Livre - Classiques
 !-----------------------------------------------------------------------------
 _ CLIVFR  Club du Livre Fran‡ais
 !-----------------------------------------------------------------------------
@@ -252,7 +252,7 @@ o CFLI        ?  1958.07 ..... ISBN -
 : .oF.     N     _YONNET Jacques              Mina la chatte ş?
 : .C .     C     ****                         Domaine italien
 : .oF.     N     _PAPINI Giovanni             La DerniŠre Visite du chevalier malade ş1907 L'ultima visita del gentiluomo malato
-: .oF.     N     _BUZZATI Dino                Le Cas Aziz Maio ş? ?
+: .oF.     N     _BUZZATI Dino                Le Cas Aziz Maio ş1954 Il caso di Aziz Maio şTrad. VALOT Henriette
 : .C .     C     ****                         Domaine espagnol
 : .oF.     N     _ALARCON Pedro A. de         La Grande Femme ş1882 La mujer alta şTrad. ?
 : .oF.     N     _BECQUER Gustavo Adolfo      Le Mont des revenants ş1863 El monte de las animas
@@ -288,13 +288,13 @@ o CFLI        ?  1958.07 ..... ISBN -
 : .oF.     N     _KOISUMI Yakumo              La L‚gende de Mimi Nashi Ho‹chi ş1903 The Story of Mimi-Nashi-Ho‹che
 o CFLI        ?  1959.06 ..... ISBN -
 } noimg          _?                           ?
-- .oM.    iN35   _GRIMM Jacob & Wilhelm       Contes ((Contes de Grimm)) ş1959
+- .oM.     N35   _GRIMM Jacob & Wilhelm       Contes ((Contes de Grimm)) ş1959
 !--- Traduits et pr‚fac‚s par Marthe Robert
 !--- 338 pages
 !--- Contes illustr‚s de 22 dessins de Ludwig Richter et Moritz von Schwind
 !--- Livre premier
 : .o .     N     _GRIMM Jacob & Wilhelm       De celui qui partit en quˆte de la peur ş1812 M„rchen von einem, der auszog das Frchten zu lernen
-: .o .     N     _GRIMM Jacob & Wilhelm       Le FidŠle Jean ş1812 Der treue Johannes
+: .o .     N     _GRIMM Jacob & Wilhelm       Le FidŠle Jean ş1819 Der treue Johannes
 : .o .     N     _GRIMM Jacob & Wilhelm       Les 12 FrŠres ş1812 Die zw”lf Brder
 : .o .     N     _GRIMM Jacob & Wilhelm       Les Trois Mˆmes de la forˆt ş1812 Die drei M„nnlein im Walde
 : .o .     N     _GRIMM Jacob & Wilhelm       Jeannot et Margot ş1812 H„nsel und Gretel
@@ -328,7 +328,11 @@ o CFLI        ?  1959.06 ..... ISBN -
 : .o .     N     _GRIMM Jacob & Wilhelm       Le Tambour ş1843 Der Trommler
 : .o .     N     _GRIMM Jacob & Wilhelm       La Boule de cristal ş1850 Die Kristallkugel
 : .o .     N     _GRIMM Jacob & Wilhelm       Demoiselle Maleen ş1850 Jungfrau Maleen
-: .o .     N     _GRIMM Jacob & Wilhelm       La Clef d'or ş1850 Der goldene Schlssel
+: .o .     N     _GRIMM Jacob & Wilhelm       La Clef d'or ş1815 Der goldene Schlssel
+o CFLI      260  1954.xx ..... ISBN -
+} noimg          _?                           ?
+!--- 21 cm - 344 pages
+- .oF.     R     _LEWIS Matthew Gregory       Le Moine ş1796 The Monk şTrad. WAILLY L‚on de
 o CFLI        ?  1962.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .    iAx    *CAILLOIS Roger              Puissance du rˆve ş1962
@@ -359,7 +363,7 @@ o CFLI        ?  1962.02 R.... ISBN -
 : .C .     C     _BIERCE Ambrose              2iŠme partie : histoires odieuses
 : .o .     N     _BIERCE Ambrose              Le C‚lŠbre legs Gilson ş1878 The Famous Gilson Bequest
 : .o .     N     _BIERCE Ambrose              La Tombe sans fond ş1888 A Bottomless Grave
-: .o .     N     _BIERCE Ambrose              A l'‚preuve du feu ş1886 An Imperfect Conflagration
+: .x .     N     _BIERCE Ambrose              A l'‚preuve du feu ş1886 An Imperfect Conflagration
 : .o .     N     _BIERCE Ambrose              L'Hypnotiseur ş1893 John Bolger, Hypnotist / The Hypnotist
 : .o .     N     _BIERCE Ambrose              Mon meurtre pr‚f‚r‚ ş1888 My Favorite Murder
 : .o .     N     _BIERCE Ambrose              Huile de chien ş1890 The Oil of a Dog / Oil of Dog şTrad. PAPY Jacques
@@ -380,7 +384,7 @@ o CFLI        ?  1962.02 R.... ISBN -
 : .o .     N     _BIERCE Ambrose              Chickamauga ş1889 Chickamauga
 
 !-----------------------------------------------------------------------------
-_ CFL_GLM Club Fran‡ais du Livre, Le Grand Livre du Mois
+_ CFL_GLM Club Fran‡ais du Livre - Le Grand Livre du Mois
 !-----------------------------------------------------------------------------
 o CFL_GLM     ?  1974.xx ..... ISBN ?
 } noimg          _?                           ?
@@ -404,30 +408,10 @@ o CFLI        ?  1988.xx ..... ISBN .-.....-...-.
 o CFLI        ?  1991.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .x .     R     _BACHMAN Richard             Rage ş1977 Rage
-o CFLI        ?  1991.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     R     _BARKER Clive                Secret Show ş1989 The Great and Secret Show şTrad. BREQUE Jean-Daniel
-o CFLI        ?  1991.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .oTF    kN6    _BARKER Clive                Livre de sang [Livres de sang - 1] ş1984 Book of Blood
-: .o .     N     _BARKER Clive                Le Livre de sang ş1984 The Book of Blood
-: .o .     N     _BARKER Clive                Le Train de l'abattoir ş1984 The Midnight Meat Train
-: .o .     N     _BARKER Clive                Jack et le Cacophone ş1984 The Yattering and Jack
-: .o .     N     _BARKER Clive                La Truie ş1984 Pig Blood Blues
-: .o .     N     _BARKER Clive                Les Feux de la rampe ş1984 Sex, Death and Starshine
-: .o .     N     _BARKER Clive                Dans les collines, les cit‚s ş1984 In the Hills, the Cities
-o CFLI        ?  1991.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .oTF    kN4    _BARKER Clive                Prison de chair [Livres de sang - 5] ş1985 Books of Blood V
-!--- titre US : In the flesh
-: .o .     N     _BARKER Clive                Lieux interdits ş1985 The Forbidden
-: .o .     N     _BARKER Clive                La Madone ş1985 The Madonna
-: .o .     N     _BARKER Clive                Les Enfants de Babel ş1985 Babel's Children
-: .o .     r     _BARKER Clive                Prison de chair ş1985 In the Flesh
 
 !-----------------------------------------------------------------------------
 o CFLE        ?  1952.xx ..... ISBN -
-} noimg          _?                           ?
+} clfdlivdlc1952 _?                           ?
 - .oS.    cU8    _SIMAK Clifford D.           Demain les chiens ş1952 City
 : .o .     N     _SIMAK Clifford D.           La Cit‚ ş1944 City
 : .o .     N     _SIMAK Clifford D.           La TaniŠre ş1944 Huddling Place
@@ -454,7 +438,7 @@ o CFLR       48  1965.xx ..... ISBN -
 
 o CFLP       65  1960.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     N69   _POE Edgar Allan             Oeuvres en prose ş1960
+- .oF.     N69   _POE Edgar Allan             Oeuvres en prose ş1960
 : .o .     N     _POE Edgar Allan             Manuscrit trouv‚ dans une bouteille ş1833 Manuscript Found in a Bottle
 : .o .     N     _POE Edgar Allan             B‚r‚nice ş1835 Berenice
 : .o .     N     _POE Edgar Allan             Morella ş1835 Morella
@@ -481,7 +465,7 @@ o CFLP       65  1960.xx ..... ISBN -
 : .o .     N     _POE Edgar Allan             Le Masque de la mort rouge ş1842 The Masque of the Red Death
 : .o .     r     _POE Edgar Allan             Le MystŠre de Marie Roget [Auguste Dupin] ş1842 The Mystery of Marie Roget
 : .o .     N     _POE Edgar Allan             Le Puits et le pendule ş1843 The Pit and the Pendulum
-: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur ş1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur ş1843 The Tell-Tale Heart
 : .o .     N     _POE Edgar Allan             Le Scarab‚e d'or ş1843 The Gold-Bug
 : .o .     N     _POE Edgar Allan             Le Chat noir ş1843 The Black Cat
 : .o .     N     _POE Edgar Allan             Les Souvenirs de M. Auguste Bedloe ş1844 A Tale of the Ragged Mountains
@@ -495,20 +479,20 @@ o CFLP       65  1960.xx ..... ISBN -
 : .o .     N     _POE Edgar Allan             Le SystŠme du docteur Goudron et du professeur Plume ş1845 The System of Dr. Tarr and Professor Fether
 : .o .     N     _POE Edgar Allan             La V‚rit‚ sur le cas de M. Valdemar ş1845 The Facts in the Case of Mr. Valdemar
 : .o .     N     _POE Edgar Allan             La Barrique d'Amontillado ş1846 The Cask of Amontillado
-: .o .     a     _POE Edgar Allan             Le Domaine d'Arnheim ş1847 The Domain of Arnheim
-: .o .     a     _POE Edgar Allan             Le Cottage Landor ş1849 Landor's Cottage
+: .x .     a     _POE Edgar Allan             Le Domaine d'Arnheim ş1847 The Domain of Arnheim
+: .x .     a     _POE Edgar Allan             Le Cottage Landor ş1849 Landor's Cottage
 : .o .     N     _POE Edgar Allan             Hop-Frog ş1849 Hop-Frog
-: .o .     R     _POE Edgar Allan             Aventures d'Arthur Gordon Pym [Arthur Gordon Pym] ş1838 The Narrative of Arthur Gordon Pym
+: .o .     R     _POE Edgar Allan             Aventures d'Arthur Gordon Pym [Arthur Gordon Pym] ş1838 The Narrative of Arthur Gordon Pym of Nantucket şTrad. ?
 : .o .     a     _POE Edgar Allan             Le Joueur d'‚checs de Maelzel ş1836 Maelzel's Chess-player
 : .x .     a     _POE Edgar Allan             Philosophie de l'ameublement ş1840 The Philosophy of Furniture
 : .o .     N     _POE Edgar Allan             Le Duc de l'Omelette ş1832 The Duc De L'Omelette
 : .o .     N     _POE Edgar Allan             Perte de souffle ş1832-1840 Loss of Breath
 : .o .     N     _POE Edgar Allan             Le Rendez-Vous ş1835 The Visionary / The Assignation
 : .o .     N     _POE Edgar Allan             Bon-Bon ş1832-1850 The Bargain Lost / Bon-Bon
-: .o .     N     _POE Edgar Allan             Comment ‚crire un article pour le Blackwood ş1838 How to Write a Blackwood Article
+: .o .     N     _POE Edgar Allan             Comment ‚crire un article pour le Blackwood ş1838 The Psyche Zenobia / How to Write a Blackwood Article
 : .o .     N     _POE Edgar Allan             L'Homme dont il ne restait rien ş1839 The Man That Was Used Up
 : .o .     N     _POE Edgar Allan             Mystification ş1840 Mystification
-: .o .     N     _POE Edgar Allan             Pourquoi le petit fran‡ais porte la main en ‚charpe ş1840 Why the Little Frenchman Wears His Hand in a Sling
+: .o .     N     _POE Edgar Allan             Pourquoi le petit Fran‡ais porte la main en ‚charpe ş1840 Why the Little Frenchman Wears His Hand in a Sling
 : .o .     N     _POE Edgar Allan             L'Homme d'affaires ş1840 The Business Man
 : .o .     N     _POE Edgar Allan             Ne pariez jamais votre tˆte au diable ş1841 Never Bet the Devil Your Head
 : .o .     N     _POE Edgar Allan             Une semaine de trois dimanches ş1841 Three Sundays in a Week

@@ -4,34 +4,9 @@
 !--- Collections de Fantasy
 !-----------------------------------------------------------------------------
 
-!DEB_HEAD FN_THRA
-!TIT_COLL Thraxas
-!-----------------------------------------------------------------------------
-_ FN_THRA Fleuve Noir, Thraxas ş2002 - 2002
-!-----------------------------------------------------------------------------
-!---  Thraxas, le d‚tective de fantasy de Martin Scott n'aura pas vraiment
-!--. convaincu les lecteurs fran‡ais qui cherchent toujours … comprendre
-!--. comment ce grand buveur de bierre et fumeur de cigares a pu obtenir un
-!--. World fantasy Award !
-!-----------------------------------------------------------------------------
-!FIN_HEAD FN_THRA
-!DEB_COLL FN_THRA
-o FN_THRA     1  2002.02 ..... ISBN 2-265-07241-9
-} thraxas01      _?                           N
-- .oY.     R     _SCOTT Martin                Thraxas au royaume de Tura‹ [Thraxas - 1] ş1999 Thraxas şTrad. LECONTE Martine
-o FN_THRA     2  2002.04 ..... ISBN 2-265-07242-7
-} thraxas02      _?                           N
-- .oY.     R     _SCOTT Martin                Thraxas et les moines guerriers [Thraxas - 2] ş1999 Thraxas and the Warrior Monks şTrad. ROBLAIN Jean-Pierre
-o FN_THRA     3  2002.09 ..... ISBN 2-265-07243-5
-} thraxas03      _?                           N
-- .oY.     R     _SCOTT Martin                Thraxas et les courses de chars [Thraxas - 3] ş1999 Thraxas at the Races şTrad. LECONTE Martine
-o FN_THRA     4  2002.12 ..... ISBN 2-265-07244-3
-} thraxas04      _?                           N
-- .oY.     R     _SCOTT Martin                Thraxas au pays des elfes [Thraxas - 4] ş2000 Thraxas and the Elvish Isles şTrad. LECONTE Martine
-!FIN_COLL FN_THRA
 
 !-----------------------------------------------------------------------------
-_ FN_RAVL Fleuve Noir, Coll. Ravenloft
+_ FN_RAVL Fleuve Noir - Ravenloft
 !-----------------------------------------------------------------------------
 !---              FLEUVE NOIR - Collection Ravenloft
 !--- Collection dirig‚e par Patrice Duvic et Jacques Goimard
@@ -79,7 +54,7 @@ o FN_RAVL    13  1998.xx ..... ISBN 2-265-06453-X
 !DEB_HEAD FN_EART
 !TIT_COLL Earth Dawn
 !-----------------------------------------------------------------------------
-_ FN_EART Fleuve Noir, Coll. Earth Dawn ş1997 - ...
+_ FN_EART Fleuve Noir - Earth Dawn ş1997 - ...
 !-----------------------------------------------------------------------------
 !---                 FLEUVE NOIR - Collection Earth Dawn (1997 - ...)
 !---       Collection dirig‚e par Patrice Duvic et Jacques Goimard
@@ -114,96 +89,7 @@ o FN_EART     8  1999.xx ..... ISBN 2-265-06761-X
 !FIN_COLL FN_EART
 
 !-----------------------------------------------------------------------------
-_ FN_SHAD Fleuve Noir, Coll. Shadowrun
-!-----------------------------------------------------------------------------
-!---              FLEUVE NOIR - Collection Shadowrun
-!--- Collection dirig‚e par Patrice Duvic et Jacques Goimard
-!-----------------------------------------------------------------------------
-o FN_SHAD     1  1994.xx ..... ISBN 2-265-05147-0
-} noimg          _?                           ?
-- .oF.     R     _CHARRETTE Robert N.         M‚fie-toi des dragons... [La Trilogie des secrets du pouvoir - 1] ş1990 Never Deal With a Dragon şTrad. DUPREUX Gilles
-o FN_SHAD     2  1994.xx ..... ISBN 2-265-05146-2
-} noimg          _?                           ?
-- .oF.     R     _CHARRETTE Robert N.         ... Choisis bien tes ennemis... [La Trilogie des secrets du pouvoir - 2] ş1991 Choose Your Enemies Carefully şTrad. BILLION Bruno
-o FN_SHAD     3  1994.xx ..... ISBN 2-265-05145-4
-} noimg          _?                           ?
-- .oF.     R     _CHARRETTE Robert N.         ... Et trouve ta v‚rit‚ ! [La Trilogie des secrets du pouvoir - 3] ş1991 Find Your Own Truth şTrad. GUERO G‚rard
-o FN_SHAD     4  1995.01 ..... ISBN 2-265-05144-6
-} noimg          _?                           ?
-- .oF.     R     _FINDLEY Nigel               Grille-neurones ş1992 2XS şTrad. DUPREUX Gilles
-o FN_SHAD     5  1995.03 ..... ISBN 2-265-05143-8
-} noimg          _?                           ?
-- .oF.     R     _KUBASIK Christopher         M‚tamorphose ş1992 Changeling şTrad. DANNEREAU Gr‚goire
-o FN_SHAD     6  1995.05 ..... ISBN 2-265-05142-X
-} noimg          _?                           ?
-- .oF.     R     _CHARRETTE Robert N.         Attention aux elfes ! ş1992 Never Trust an Elve şTrad. DANNEREAU Gr‚goire
-o FN_SHAD     7  1995.09 ..... ISBN 2-265-05585-9
-} noimg          _?                           ?
-- .oF.     R     _FINDLEY Nigel               Jeu d'ombres ş1993 Shadowplay şTrad. DANNEREAU Gr‚goire
-o FN_SHAD     8  1996.xx ..... ISBN 2-265-05587-5
-} noimg          _?                           ?
-- .oF.     R     _DOWD Tom                    Le Pion de la nuit ş1993 Night's Pawn şTrad. GERARD Ren‚e B.
-o FN_SHAD     9  1996.xx ..... ISBN 2-265-05586-7
-} noimg          _?                           ?
-- .oF.     R     _SMITH Nyx                   Striper : assassin ! ş1993 Striper Assassin şTrad. DANNEREAU Gr‚goire
-o FN_SHAD    10  1996.xx ..... ISBN 2-265-05998-6
-} noimg          _?                           ?
-- .oF.     R     _SARGENT Carl               &Les Rues de sang ş1992 Streets of Blood şTrad. DANNEREAU Gr‚goire
-&                _GASCOIGNE Marc              
-o FN_SHAD    11  1996.xx ..... ISBN 2-265-06111-5
-} noimg          _?                           ?
-- .oF.     R     _FINDLEY Nigel               Le Loup solitaire ş1993 Lone Wolf şTrad. DANNEREAU Gr‚goire
-o FN_SHAD    12  1997.xx ..... ISBN 2-265-06216-2
-} noimg          _?                           ?
-- .oF.     R     _SMITH Nyx                   Fondu d‚chaŒn‚ ş1994 Fade to Black şTrad. DANNEREAU Gr‚goire
-o FN_SHAD    13  1997.xx ..... ISBN 2-265-06242-1
-} noimg          _?                           ?
-- .oF.     R     _SARGENT Carl               &Nosferatu ş1994 Nosferatu şTrad. DANNEREAU Gr‚goire
-&                _GASCOIGNE Marc              
-o FN_SHAD    14  1997.xx ..... ISBN 2-265-06241-3
-} noimg          _?                           ?
-- .oF.     R     _DOWD Tom                    Feu d'enfer ş? Burning Bright şTrad. DANNEREAU Gr‚goire
-o FN_SHAD    15  1998.xx ..... ISBN 2-265-06415-7
-} noimg          _?                           ?
-- .oF.     R     _SMITH Nyx                   Qui chasse le chasseur ş1995 Who Hunts the Hunter şTrad. DANNEREAU Gr‚goire
-o FN_SHAD    16  1998.xx ..... ISBN 2-265-06416-5
-} noimg          _?                           ?
-- .oF.     R     _FINDLEY Nigel               La Maison du soleil ş1995 House of the Sun şTrad. TROIN Elisabeth
-o FN_SHAD    17  1998.xx ..... ISBN 2-265-06417-3
-} noimg          _?                           ?
-- .oF.     R     _CHARRETTE Robert N.         Juste compensation ş1996 Just Compensation şTrad. TROIN Elisabeth
-o FN_SHAD    18  1999.xx ..... ISBN 2-265-06750-4
-} noimg          _?                           ?
-- .oF.     R     _KOKE Jack                   Mort d'un pr‚sident [La Saga de Ryan Mercury - 1] ş1997 Stranger Souls şTrad. TROIN Elisabeth
-o FN_SHAD    19  1999.xx ..... ISBN 2-265-06749-0
-} noimg          _?                           ?
-- .oF.     R     _KOKE Jack                   Le Coeur du dragon [La Saga de Ryan Mercury - 2] ş1997 Clockwork Asylum şTrad. TROIN Isabelle
-o FN_SHAD    20  1999.10 ..... ISBN 2-265-06748-2
-} noimg          _?                           ?
-- .oF.     R     _KOKE Jack                   Mise … l'index [La Saga de Ryan Mercury - 3] ş1997 Beyond the Pale şTrad. TROIN Isabelle
-o FN_SHAD    21  2000.02 ..... ISBN 2-265-06884-5
-} noimg          _?                           ?
-- .oF.     R     _GASCOIGNE Marc             &La Madone noire ş1996 Black Madonna şTrad. DANNEREAU Gr‚goire
-&                _SARGENT Carl                
-o FN_SHAD    22  2000.06 ..... ISBN 2-265-06885-3
-} noimg          _?                           ?
-- .oF.     R     _KOKE Jack                   La DeuxiŠme Mort de Jonathan Winger ş1996 Dead Air şTrad. ?
-o FN_SHAD    23  2000.11 ..... ISBN 2-265-06886-1
-} noimg          _?                           ?
-- .oF.     R     _BOND Jonathan E.           &Le Soleil des vampires ş1996 The Terminus Experiment şTrad. TARALL Anne-Virginie
-&                _KOKE Jack                   
-o FN_SHAD    24  2001.02 ..... ISBN 2-265-07093-9
-} noimg          _?                           ?
-- .oF.     R     _STACKPOLE Michael           Wolf et Raven ş1998 Wolf and Raven şTrad. TARALL Anne-Virginie
-o FN_SHAD    25  2001.06 ..... ISBN 2-265-07109-9
-} noimg          _?                           ?
-- .oF.     R     _SMEDMAN Lisa                Le Sourire de la mort ş1999 The forever drug şTrad. ?
-o FN_SHAD    26  2001.12 ..... ISBN 2-265-07092-0
-} noimg          _?                           ?
-- .oF.     R     _SMITH Nyx                   Pluie d'acier ş1997 Steel Rain şTrad. TARALL Anne-Virginie
-
-!-----------------------------------------------------------------------------
-_ FN_ROY  Fleuve Noir, Coll. Royaumes oubli‚s ş1994 - ...
+_ FN_ROY  Fleuve Noir - Royaumes oubli‚s ş1994 - ...
 !-----------------------------------------------------------------------------
 !---                   FLEUVE NOIR - Collection Royaumes oubli‚s
 !---           Collection dirig‚e par Patrice Duvic et Jacques Goimard
@@ -256,7 +142,7 @@ o FN_ROY     10  1994.xx ..... ISBN 2-265-00211-9
 } noimg          _?                           ?
 + FN_ROY      9  2004.07 ..... ISBN 2-265-07978-2
 } noimg          _?                           ?
-- .oY.     R     _GREENWOOD Ed                Magefeu [Shandrill - 1] ş1988 Spell fire şTrad. ZACHAYUS MichŠle
+- .oY.     R     _GREENWOOD Ed                Magefeu [Shandrill - 1] ş1988 Spellfire şTrad. ZACHAYUS MichŠle
 o FN_ROY     11  1995.05 ..... ISBN 2-265-05403-8
 } noimg          _?                           ?
 + FN_ROY     11  2002.05 ..... ISBN 2-265-07431-4
@@ -278,7 +164,7 @@ o FN_ROY     14  1995.xx ..... ISBN 2-265-05418-6
 } noimg          _?                           ?
 + FN_ROY     14  2003.01 ..... ISBN 2-265-07635-X
 } noimg          _?                           ?
-- .oY.     R     _GREENWOOD Ed                La Couronne de feu [Shandrill - 2] ş1994 Crown of fire şTrad. ZACHAYUS MichŠle
+- .oY.     R     _GREENWOOD Ed                La Couronne de feu [Shandrill - 2] ş1994 Crown of Fire şTrad. ZACHAYUS MichŠle
 o FN_ROY     15  1995.xx ..... ISBN 2-265-05419-4
 } noimg          _?                           ?
 + FN_ROY     15  1997.03 ..... ISBN ?
@@ -348,7 +234,7 @@ o FN_ROY     27  1997.xx ..... ISBN 2-265-06213-8
 } noimg          _?                           ?
 + FN_ROY     27  2003.01 ..... ISBN 2-265-07634-1
 } noimg          _?                           ?
-- .oY.     R     _GREENWOOD Ed                Elminster : La jeunesse d'un mage [La Saga d'Elminster - 1] ş1994 Elminster, the making of a mage şTrad. ZACHAYUS MichŠle
+- .oY.     R     _GREENWOOD Ed                Elminster : La jeunesse d'un mage [La Saga d'Elminster - 1] ş1994 Elminster, the Making of a Mage şTrad. ZACHAYUS MichŠle
 o FN_ROY     28  1997.xx ..... ISBN 2-265-06210-3
 } noimg          _?                           ?
 - .oY.     R     _NILES Douglas               Le Coureur des t‚nŠbres [La Trilogie des S‚l‚nae - 1] ş1987 Darkwalker on Moonshae şTrad. ZACHAYUS MichŠle
@@ -369,15 +255,15 @@ o FN_ROY     33  1998.xx ..... ISBN 2-265-06463-7
 - .oY.     R     _NILES Douglas               La Prˆtresse devint reine [La Terre des druides - 3] ş1992 The Druid Queen şTrad. ZACHAYUS MichŠle
 o FN_ROY     34  1998.xx ..... ISBN 2-265-06462-9
 } noimg          _?                           ?
-- .oY.     R     _GREENWOOD Ed                Les Ombres de l'apocalypse [La Trilogie des ombres - 1] ş1995 Shadows of doom şTrad. ZACHAYUS MichŠle
+- .oY.     R     _GREENWOOD Ed                Les Ombres de l'apocalypse [La Trilogie des ombres - 1] ş1995 Shadows of Doom şTrad. ZACHAYUS MichŠle
 o FN_ROY     35  1998.xx ..... ISBN 2-265-06461-0
 } noimg          _?                           ?
 + FN_ROY     35  2004.07 ..... ISBN 2-265-07979-0
 } noimg          _?                           ?
-- .oY.     R     _GREENWOOD Ed                Le Manteau des ombres [La Trilogie des ombres - 2] ş1995 Cloak of shadows şTrad. ZACHAYUS MichŠle
+- .oY.     R     _GREENWOOD Ed                Le Manteau des ombres [La Trilogie des ombres - 2] ş1995 Cloak of Shadows şTrad. ZACHAYUS MichŠle
 o FN_ROY     36  1998.xx ..... ISBN 2-265-06460-2
 } noimg          _?                           ?
-- .oY.     R     _GREENWOOD Ed                ... Et les ombres s'enfuirent [La Trilogie des ombres - 3] ş1995 All shadows fled şTrad. ZACHAYUS MichŠle
+- .oY.     R     _GREENWOOD Ed                ... Et les ombres s'enfuirent [La Trilogie des ombres - 3] ş1995 All Shadows Fled şTrad. ZACHAYUS MichŠle
 o FN_ROY     37  1999.xx ..... ISBN 2-265-06587-0
 } noimg          _?                           ?
 - .oY.     R     _SALVATORE R.A.              Vers la lumiŠre [La S‚quence du retour aux sources - 4]|[Le Monde d'Ombre-Terre - 1][S‚quence d'Ombre-Terre et du Val Bise - 10]+[La L‚gende de Drizzt - 10] ş1995 Passage to Dawn şTrad. MIKOREY Dominique
@@ -424,7 +310,7 @@ o FN_ROY     48  2000.11 ..... ISBN 2-265-06894-2
 - .oY.     R     _ANTHONY Mark                La Crypte du roi obscur [La S‚quence des harpistes - 6] ş1993 Crypt of the Shadow King şTrad. PECE Michele
 o FN_ROY     49  2000.12 ..... ISBN 2-265-07756-9
 } noimg          _?                           ?
-- .oY.     R     _GREENWOOD Ed                Histoire des sept soeurs ş1999 Silver fall, stories of the seven sisters şTrad. ZACHAYUS MichŠle
+- .oY.     R     _GREENWOOD Ed                Histoire des sept soeurs ş1999 Silver Fall, Stories of the Seven Sisters şTrad. ZACHAYUS MichŠle
 o FN_ROY     50  2001.04 ..... ISBN 2-265-07101-3
 } noimg          _?                           ?
 - .oY.     R     _COOK David                  Les Soldats de glace [S‚quence des M‚nestrels - 7] ş1993 Soldiers of Ice şTrad. PECE MichŠle
@@ -437,10 +323,10 @@ o FN_ROY     52  2001.06 ..... ISBN 2-265-07099-8
 &                _NOVAK Kate                  
 o FN_ROY     53  2001.10 ..... ISBN 2-265-07096-3
 } noimg          _?                           ?
-- .oY.     R     _WILLIAMSON Chet             Meurtre au Cormyr [La Trilogie des mystŠres - 1] ş1996 Murder in Cormyr şTrad. ZACHAYUS MichŠle
+- .oY.     R     _WILLIAMSON Chet             Meurtre au Cormyr [La Trilogie des mystŠres - 1][Lancedragon] ş1996 Murder in Cormyr şTrad. ZACHAYUS MichŠle
 o FN_ROY     54  2001.12 ..... ISBN 2-265-07098-X
 } noimg          _?                           ?
-- .oY.     R     _MEYERS Richard              Assassinat … Halruaa [La Trilogie des mystŠres - 3] ş1996 Murder in Halruaa şTrad. TROIN Isabelle
+- .oY.     R     _MEYERS Richard              Assassinat … Halruaa [La Trilogie des mystŠres - 3][Lancedragon] ş1996 Murder in Halruaa şTrad. TROIN Isabelle
 o FN_ROY     55  2002.05 ..... ISBN 2-265-07285-0
 } noimg          _?                           ?
 - .oY.     R     _CUNNINGHAM Elaine           Les Larmes d'acier [Le Chant et l'‚p‚e - 1] ş1996 Silver Shadows şTrad. ZACHAYUS MichŠle
@@ -452,9 +338,8 @@ o FN_ROY     57  2002.07 ..... ISBN 2-265-07284-2
 - .oY.     R     _CUNNINGHAM Elaine           Le Prix des rˆves [Le Chant et l'‚p‚e - 3] ş1999 The Dream Spheres şTrad. ZACHAYUS MichŠle
 o FN_ROY     58  2002.09 ..... ISBN 2-265-07287-7
 } noimg          _?                           ?
-- .oY.     R     _GREENWOOD Ed               &Cormyr ş2000 Cormyr şTrad. ZACHAYUS MichŠle
+- .oY.     R     _GREENWOOD Ed               &Cormyr ş1996 Cormyr şTrad. ZACHAYUS MichŠle
 &                _GRUBB Jeff              
-!--- TBC ş1996-2000 ?
 o FN_ROY     59  2002.10 ..... ISBN 2-265-07289-3
 } noimg          _?                           ?
 - .oY.     R     _ODOM Mel                    La BibliothŠque perdue de Cormanthyr [Les Empires perdus - 1] ş1998 The Lost Library of Cormanthyr şTrad. TROIN Isabelle
@@ -487,8 +372,7 @@ o FN_ROY     68  2004.02 ..... ISBN 2-265-07603-1
 - .oY.     R     _ODOM Mel                    Le Joyau de Turmish [S‚quence des cit‚s - 3] ş? The Jewel of Turmish şTrad. ZACHAYUS MichŠle
 o FN_ROY     69  2004.03 ..... ISBN 2-265-07812-3
 } noimg          _?                           ?
-- .oY.     R     _GREENWOOD Ed                La Tentation d'Elminster [La Saga d'Elminster - 3] ş1999 The temptation of Elminster şTrad. ZACHAYUS MichŠle
-!--- TBC : saga ou s‚quence ?
+- .oY.     R     _GREENWOOD Ed                La Tentation d'Elminster [La Saga d'Elminster - 3] ş1999 The Temptation of Elminster şTrad. ZACHAYUS MichŠle
 o FN_ROY     70  2004.06 ..... ISBN 2-265-07823-9
 } noimg          _?                           ?
 - .oY.     R     _DENNING Troy                L'Appel au meurtre [Le Retour des archimages - 1] ş2001 The Summoning şTrad. ZACHAYUS MichŠle
@@ -540,7 +424,7 @@ o FN_ROY     84  2007.05 ..... ISBN 978-2-265-08520-6
 ?- .oY.     R     _SALVATORE R.A.              La Promesse du roi sorcier ş2005 Promise of the Witch King şTrad. ?
 
 !-----------------------------------------------------------------------------
-_ FN_ROYG Fleuve Noir, Coll. Royaumes oubli‚s Grand Format
+_ FN_ROYG Fleuve Noir - Royaumes oubli‚s Grand Format
 !-----------------------------------------------------------------------------
 !--- Grand format
 !-----------------------------------------------------------------------------
@@ -559,7 +443,7 @@ o FN_ROYG     3i 2000.03 ..... ISBN 2-265-06887-X
 - .oY.     R     _SALVATORE R.A.              L'pine dorsale du monde [Paths of Darkness - 2]|[La S‚quence d'Ombre-Terre - 1][S‚quence d'Ombre-Terre et du Val Bise - 14]+[La L‚gende de Drizzt - 12] ş1999 The Spine of the World şTrad. ZACHAYUS MichŠle
 o FN_ROYG     4i 2001.11 ..... ISBN 2-265-07094-7
 } noimg          _?                           ?
-- .oY.     R     _GREENWOOD Ed                La Tentation d'Elminster [La Saga d'Elminster - 3] ş1999 The temptation of Elminster şTrad. ZACHAYUS MichŠle
+- .oY.     R     _GREENWOOD Ed                La Tentation d'Elminster [La Saga d'Elminster - 3] ş1999 The Temptation of Elminster şTrad. ZACHAYUS MichŠle
 o FN_ROYG     5i 2002.11 ..... ISBN 2-265-07277-X
 } noimg          _?                           ?
 - .oY.     R     _GREENWOOD Ed                La Damnation d'Elminster [La Saga d'Elminster - 4] ş2001 Elminster in Hell şTrad. ZACHAYUS MichŠle
@@ -582,7 +466,7 @@ o FN_ROYG    10i 2007.06 ..... ISBN 978-2-265-08519-0
 !DEB_HEAD FN_ROYD
 !TIT_COLL Double Diamant
 !-----------------------------------------------------------------------------
-_ FN_ROYD Fleuve Noir, Coll. Royaumes oubli‚s Double Diamant
+_ FN_ROYD Fleuve Noir - Royaumes oubli‚s Double Diamant
 !-----------------------------------------------------------------------------
 !--- Coll Double Diamant
 !-----------------------------------------------------------------------------
@@ -596,7 +480,7 @@ o FN_ROYD     2  1998.xx ..... ISBN 2-265-06348-7
 - .oY.     R     _WARD James M.               Les Paladins ş1998 The Paladins şTrad. TROIN Isabelle
 o FN_ROYD     3  1998.xx ..... ISBN 2-265-06349-5
 } fndd03         _?                           N
-- .oY.     R     _GREENWOOD Ed                Les Mercenaires ş1998 The mercenaries şTrad. GAZO Marc
+- .oY.     R     _GREENWOOD Ed                Les Mercenaires ş1998 The Mercenaries şTrad. GAZO Marc
 o FN_ROYD     4  1998.xx ..... ISBN 2-265-06350-9
 } fndd04         _?                           N
 - .oY.     R     _MOORE Roger E.              Mis‚ricorde ş1998 Forgotten Realms: Errand of Mercy şTrad. MIKOREY Dominique
@@ -614,14 +498,14 @@ o FN_ROYD     8  1998.xx ..... ISBN 2-265-06354-1
 - .oY.     R     _NILES Douglas               Trahisons ş1998 Easy Betrayals şTrad. TROIN Isabelle
 o FN_ROYD     9  1998.xx ..... ISBN 2-265-06355-X
 } fndd09         _?                           N
-- .oY.     R     _GREENWOOD Ed               &Le Diamant ş1998 The diamond şTrad. TROIN Isabelle
+- .oY.     R     _GREENWOOD Ed               &Le Diamant ş1998 The Diamond şTrad. TROIN Isabelle
 &                _KING J. Robert             
 !FIN_COLL FN_ROYD
 
 !DEB_HEAD FN_BIRT
 !TIT_COLL Birthright
 !-----------------------------------------------------------------------------
-_ FN_BIRT Fleuve Noir, Coll. Birthright
+_ FN_BIRT Fleuve Noir - Birthright
 !-----------------------------------------------------------------------------
 !---                 FLEUVE NOIR - Collection Birthright
 !-----------------------------------------------------------------------------
@@ -648,7 +532,7 @@ o FN_BIRT     5  1998.xx ..... ISBN 2-265-06451-3
 !DEB_HEAD FN_BATT
 !TIT_COLL Battletech
 !-----------------------------------------------------------------------------
-_ FN_BATT Fleuve Noir, Coll. Battletech ş1996 - ...
+_ FN_BATT Fleuve Noir - Battletech ş1996 - ...
 !-----------------------------------------------------------------------------
 !---              FLEUVE NOIR - Collection Battletech (1996 - ...)
 !--- Collection dirig‚e par Patrice Duvic et Jacques Goimard
@@ -676,301 +560,301 @@ o FN_BATT     6  1997.xx ..... ISBN 2-265-06239-1
 !FIN_COLL FN_BATT
 
 !-----------------------------------------------------------------------------
-_ FN_LDRA Fleuve Noir, Coll. Lancedragon
+_ FN_LDRA Fleuve Noir - Lancedragon
 !-----------------------------------------------------------------------------
 !---                  FLEUVE NOIR - Collection Lancedragon
 !--- Collection dirig‚e par Patrice Duvic et Jacques Goimard
 !-----------------------------------------------------------------------------
 o FN_LDRA     1  1996.xx ..... ISBN 2-265-05863-7
 }fnlan001-1      _?                           ?
-- .oY.     R     _HICKMAN Tracy              &Dragons d'un cr‚puscule d'automne [La Trilogie des chroniques de Lancedragon - 1] ş1984 Dragons of Autumn Twilight şTrad. MIKOREY Dominique
+- .oY.     R     _HICKMAN Tracy              &Dragons d'un cr‚puscule d'automne [Les Chroniques de Lancedragon - 1][Lancedragon] ş1984 Dragons of Autumn Twilight şTrad. MIKOREY Dominique
 &                _WEIS Margaret               
 o FN_LDRA     2  1996.xx ..... ISBN .-.....-...-.
 }fnlan002-1      _?                           ?
-- .oY.     R     _HICKMAN Tracy              &Dragons d'une nuit d'hiver [La Trilogie des chroniques de Lancedragon - 2] ş1985 Dragons of Winter Night şTrad. MIKOREY Dominique
+- .oY.     R     _HICKMAN Tracy              &Dragons d'une nuit d'hiver [Les Chroniques de Lancedragon - 2][Lancedragon] ş1985 Dragons of Winter Night şTrad. MIKOREY Dominique
 &                _WEIS Margaret               
 o FN_LDRA     3  1996.xx ..... ISBN .-.....-...-.
 }fnlan003-1      _?                           ?
-- .oY.     R     _HICKMAN Tracy              &Dragons d'une aube de printemps [La Trilogie des chroniques de Lancedragon - 3] ş1985 Dragons of Spring Dawning şTrad. MIKOREY Dominique
+- .oY.     R     _HICKMAN Tracy              &Dragons d'une aube de printemps [Les Chroniques de Lancedragon - 3][Lancedragon] ş1985 Dragons of Spring Dawning şTrad. MIKOREY Dominique
 &                _WEIS Margaret               
 o FN_LDRA     4  1996.xx ..... ISBN .-.....-...-.
 }fnlan004-1      _?                           ?
-- .oY.     R     _WEIS Margaret              &Le Temps des jumeaux [La Trilogie des l‚gendes de Lancedragon - 1] ş1986 Time of the Twins şTrad. MIKOREY Dominique
+- .oY.     R     _WEIS Margaret              &Le Temps des jumeaux [Les L‚gendes de Lancedragon - 1][Lancedragon] ş1986 Time of the Twins şTrad. MIKOREY Dominique
 &                _HICKMAN Tracy               
 o FN_LDRA     5  1996.xx ..... ISBN .-.....-...-.
 }fnlan005-1      _?                           ?
-- .oY.     R     _WEIS Margaret              &La Guerre des jumeaux [La Trilogie des l‚gendes de Lancedragon - 2] ş1986 War of the Twins şTrad. ZACHAYUS MichŠle
+- .oY.     R     _WEIS Margaret              &La Guerre des jumeaux [Les L‚gendes de Lancedragon - 2][Lancedragon] ş1986 War of the Twins şTrad. ZACHAYUS MichŠle
 &                _HICKMAN Tracy               
 o FN_LDRA     6  1996.xx ..... ISBN .-.....-...-.
 }fnlan006-1      _?                           ?
-- .oY.     R     _WEIS Margaret              &L'‚preuve des jumeaux [La Trilogie des l‚gendes de Lancedragon - 3] ş1986 Test of the Twins şTrad. TROIN-JOUBAUD Isabelle
+- .oY.     R     _WEIS Margaret              &L'‚preuve des jumeaux [Les L‚gendes de Lancedragon - 3][Lancedragon] ş1986 Test of the Twins şTrad. TROIN-JOUBAUD Isabelle
 &                _HICKMAN Tracy               
 o FN_LDRA     7  1996.xx ..... ISBN .-.....-...-.
 }fnlan007-1      _?                           ?
-- .oY.     R     _THOMPSON Paul B.           &L'Ombre et la lumiŠre [La Trilogie des pr‚ludes de Lancedragon - 1] ş1989 Darkness and Light şTrad. MIKOREY Dominique
+- .oY.     R     _THOMPSON Paul B.           &L'Ombre et la lumiŠre [Les Pr‚ludes de Lancedragon - 1][Lancedragon] ş1989 Darkness and Light şTrad. MIKOREY Dominique
 &                _CARTER Tonya R.             
 o FN_LDRA     8  1996.xx ..... ISBN .-.....-...-.
 }fnlan008-1      _?                           ?
-- .oY.     R     _KIRCHOFF Mary               Kendermore [La Trilogie des pr‚ludes de Lancedragon - 2] ş1989 Kendermore şTrad. TROIN-JOUBAUD Isabelle
+- .oY.     R     _KIRCHOFF Mary               Kendermore [Les Pr‚ludes de Lancedragon - 2][Lancedragon] ş1989 Kendermore şTrad. TROIN-JOUBAUD Isabelle
 o FN_LDRA     9  1996.xx ..... ISBN .-.....-...-.
 }fnlan009-1      _?                           ?
-- .oY.     R     _STEIN Kevin                 Les FrŠres Majere [La Trilogie des pr‚ludes de Lancedragon - 3] ş1989 Brothers Majere
+- .oY.     R     _STEIN Kevin                 Les FrŠres Majere [Les Pr‚ludes de Lancedragon - 3][Lancedragon] ş1989 Brothers Majere
 o FN_LDRA    10  1997.xx ..... ISBN .-.....-...-.
 }fnlan010-1      _?                           ?
-- .oY.     R     _THOMPSON Paul B.           &Rivebise, l'homme des plaines [Le Retour des pr‚ludes - 1] ş1990 Riverwind, the Plainsman şTrad. TROIN-JOUBAUD Isabelle
+- .oY.     R     _THOMPSON Paul B.           &Rivebise, l'homme des plaines [Le Retour des pr‚ludes - 1][Lancedragon] ş1990 Riverwind, the Plainsman şTrad. TROIN-JOUBAUD Isabelle
 &                _CARTER Tonya R.             
 o FN_LDRA    11  1997.xx ..... ISBN .-.....-...-.
 }fnlan011-1      _?                           ?
-- .oY.     R     _KIRCHOFF Mary              &Sa majest‚ Forgefeu [Le Retour des pr‚ludes - 2] ş1990 Flint the King şTrad. TROIN-JOUBAUD Isabelle
+- .oY.     R     _KIRCHOFF Mary              &Sa majest‚ Forgefeu [Le Retour des pr‚ludes - 2][Lancedragon] ş1990 Flint the King şTrad. TROIN-JOUBAUD Isabelle
 &                _NILES Douglas               
 o FN_LDRA    12  1997.xx ..... ISBN .-.....-...-.
 }fnlan012-1      _?                           ?
-- .oY.     R     _STEIN Kevin                &Tanis, les ann‚es secrŠtes [Le Retour des pr‚ludes - 3] ş1990 Tanis, the Shadow Years şTrad. TROIN-JOUBAUD Isabelle
+- .oY.     R     _STEIN Kevin                &Tanis, les ann‚es secrŠtes [Le Retour des pr‚ludes - 3][Lancedragon] ş1990 Tanis, the Shadow Years şTrad. TROIN-JOUBAUD Isabelle
 &                _SIEGEL Barbara             &
 &                _SIEGEL Scott                
 o FN_LDRA    13  1997.xx ..... ISBN .-.....-...-.
 }fnlan013-1      _?                           ?
-- .oY.     R     _ANTHONY Mark               &Ames soeur [Les Rencontres de Lancedragon - 1] ş1991 Kindred Spirits şTrad. TROIN-JOUBAUD Isabelle
+- .oY.     R     _ANTHONY Mark               &Ames soeur [Les Rencontres de Lancedragon - 1][Lancedragon] ş1991 Kindred Spirits şTrad. TROIN-JOUBAUD Isabelle
 &                _PORATH Ellen                
 o FN_LDRA    14  1997.xx ..... ISBN .-.....-...-.
 }fnlan014-1      _?                           ?
-- .oY.     R     _KIRCHOFF Mary              &ternel Voyageur [Les Rencontres de Lancedragon - 2] ş1991 Wanderlust şTrad. TROIN-JOUBAUD Isabelle
+- .oY.     R     _KIRCHOFF Mary              &ternel Voyageur [Les Rencontres de Lancedragon - 2][Lancedragon] ş1991 Wanderlust şTrad. TROIN-JOUBAUD Isabelle
 &                _WINTER Steve                
 o FN_LDRA    15  1997.xx ..... ISBN .-.....-...-.
 }fnlan015-1      _?                           ?
-- .oY.     R     _DANIELL Tina                Coeur sombre [Les Rencontres de Lancedragon - 3] ş1992 Dark Heart şTrad. TROIN-JOUBAUD Isabelle
+- .oY.     R     _DANIELL Tina                Coeur sombre [Les Rencontres de Lancedragon - 3][Lancedragon] ş1992 Dark Heart şTrad. TROIN-JOUBAUD Isabelle
 o FN_LDRA    16  1998.xx ..... ISBN .-.....-...-.
 }fnlan016-1      _?                           ?
-- .oY.     R     _WILLIAMS Michael            La RŠgle et la mesure [Les Nouvelles Rencontres - 1] ş1992 The Oath and the Measure
+- .oY.     R     _WILLIAMS Michael            La RŠgle et la mesure [Les Nouvelles Rencontres - 1][Lancedragon] ş1992 The Oath and the Measure
 o FN_LDRA    17  1998.xx ..... ISBN .-.....-...-.
 }fnlan017-1      _?                           ?
-- .oY.     R     _PORATH Ellen                La Pierre et l'acier [Les Nouvelles Rencontres - 2] ş1992 Steel and stone
+- .oY.     R     _PORATH Ellen                La Pierre et l'acier [Les Nouvelles Rencontres - 2][Lancedragon] ş1992 Steel and stone
 o FN_LDRA    18  1998.xx ..... ISBN .-.....-...-.
 }fnlan018-1      _?                           ?
-- .oY.     R     _DANIELL Tina                Les Compagnons [Les Nouvelles Rencontres - 3] ş1992 The Companions
+- .oY.     R     _DANIELL Tina                Les Compagnons [Les Nouvelles Rencontres - 3][Lancedragon] ş1992 The Companions
 o FN_LDRA    19  1998.xx ..... ISBN .-.....-...-.
 }fnlan019-1      _?                           ?
-- .oY.     R     _WILLIAMS Michael           &Devant le masque [La Trilogie des agresseurs - 1] ş1993 Before the Mask
+- .oY.     R     _WILLIAMS Michael           &Devant le masque [La Trilogie des agresseurs - 1][Lancedragon] ş1993 Before the Mask
 &                _WILLIAMS Teri               
 o FN_LDRA    20  1998.xx ..... ISBN .-.....-...-.
 }fnlan020-1      _?                           ?
-- .oY.     R     _KIRCHOFF Mary               L'Aile noir [La Trilogie des agresseurs - 2] ş1993 The Black Wing
+- .oY.     R     _KIRCHOFF Mary               L'Aile noir [La Trilogie des agresseurs - 2][Lancedragon] ş1993 The Black Wing
 o FN_LDRA    21  1998.xx ..... ISBN .-.....-...-.
 }fnlan021-1      _?                           ?
-- .oY.     R     _NILES Douglas               L'Empereur d'Ansolonie [La Trilogie des agresseurs - 3] ş1993 Emperor of Ansalon
+- .oY.     R     _NILES Douglas               L'Empereur d'Ansolonie [La Trilogie des agresseurs - 3][Lancedragon] ş1993 Emperor of Ansalon
 o FN_LDRA    22  1999.xx ..... ISBN 2-265-06733-4
 }fnlan021-1      _?                           ?
-- .oY.    _A9    *HICKMAN Tracy              &Les SortilŠges de Krynn [La Trilogie des contes - 1] ş1987 The Magic of Krynn şTrad. TROIN Isabelle
+- .oY.    _A9    *HICKMAN Tracy              &Les SortilŠges de Krynn [La Trilogie des contes - 1][Lancedragon] ş1987 The Magic of Krynn şTrad. TROIN Isabelle
 &                *WEIS Margaret               
-: .o .     N     _WEIS Margaret               L'preuve des jumeaux ş1987 The Test of the Twins
-: .o .     N     _SIEGEL Barbara             &Le Monstre de la mer de sang ş1987 The Blood Sea Monster
+: .o .     N     _WEIS Margaret               L'preuve des jumeaux [Lancedragon] ş1987 The Test of the Twins
+: .o .     N     _SIEGEL Barbara             &Le Monstre de la mer de sang [Lancedragon] ş1987 The Blood Sea Monster
 &                _SIEGEL Scott            
-: .o .     N     _MOORE Roger E.              A un jet de pierre ş1987 A Stone's Throw Away
-: .o .     N     _SMITH Warren B.             Rˆves de t‚nŠbres, rˆves de lumiŠre ş1987 Dreams of Darkness, Dreams of Light
-: .o .     N     _O'DONOHOE Nick              BiŠre et amour ş1987 Love and Ale
-: .o .     N     _KNAAK Richard A.            Les Enfants perdus ş1987 Wayward Children
-: .o .     N     _WILLIAMS Michael            Rivebise et la bƒton de cristal ş1987 Riverwind and the Crystal Staff
-: .o .     N     _BERBERICK Nancy Varian      R‚coltes ş1987 Harvests
-: .o .     N     _KIRCHOFF Mary               La D‚couverte de la foi ş1987 Finding the Faith
+: .o .     N     _MOORE Roger E.              A un jet de pierre [Lancedragon] ş1987 A Stone's Throw Away
+: .o .     N     _SMITH Warren B.             Rˆves de t‚nŠbres, rˆves de lumiŠre [Lancedragon] ş1987 Dreams of Darkness, Dreams of Light
+: .o .     N     _O'DONOHOE Nick              BiŠre et amour [Lancedragon] ş1987 Love and Ale
+: .o .     N     _KNAAK Richard A.            Les Enfants perdus [Lancedragon] ş1987 Wayward Children
+: .o .     N     _WILLIAMS Michael            Rivebise et la bƒton de cristal [Lancedragon] ş1987 Riverwind and the Crystal Staff
+: .o .     N     _BERBERICK Nancy Varian      R‚coltes [Lancedragon] ş1987 Harvests
+: .o .     N     _KIRCHOFF Mary               La D‚couverte de la foi [Lancedragon] ş1987 Finding the Faith
 o FN_LDRA    23  1999.xx ..... ISBN 2-265-06732-6
 }fnlan023-1      _?                           ?
-- .oY.    _A9    *HICKMAN Tracy              &Les Petits Peuples de Krynn [La Trilogie des contes - 2] ş1987 Kenders, Gully Dwarves and Gnomes şTrad. TROIN Isabelle
+- .oY.    _A9    *HICKMAN Tracy              &Les Petits Peuples de Krynn [La Trilogie des contes - 2][Lancedragon] ş1987 Kenders, Gully Dwarves and Gnomes şTrad. TROIN Isabelle
 &                *WEIS Margaret               
-: .oY.     N     _BERBERICK Nancy Varian      La Chanson de la neige ş1987 Snowsong
-: .oY.     N     _SIMON Morris                Les Lorgnons du mage ş1987 The Wizard's Spectacles
-: .oY.     N     _SIEGEL Barbara             &Le Conteur ş1987 The Storyteller
+: .oY.     N     _BERBERICK Nancy Varian      La Chanson de la neige [Lancedragon] ş1987 Snowsong
+: .oY.     N     _SIMON Morris                Les Lorgnons du mage [Lancedragon] ş1987 The Wizard's Spectacles
+: .oY.     N     _SIEGEL Barbara             &Le Conteur [Lancedragon] ş1987 The Storyteller
 &                _SIEGEL Scott                
-: .oY.     N     _PEARY Danny                 La Queue du chien pel‚ ş1987 A Shaggy Dog's Tail
-: .oY.     N     _BAKST Harold                La Chasse d‚sastreuse du seigneur Toede ş1987 Lord Toede's disastrous hunt
-: .oY.     N     _KNAAK Richard A.            La D‚finition de l'honneur ş1987 Definitions of Honor
-: .oY.     N     _BERBERICK Nancy Varian      Le Chat et le rossignol ş1987 Hearth Cat and Winter Wren
-: .oY.     N     _WILLIAMS Michael            Au coeur de l'histoire ş1987 Into the Heart of the Story
-: .oY.     N     _O'DONOHOE Nick              Le Vol de la dague ş1987 Dagger Flight
+: .oY.     N     _PEARY Danny                 La Queue du chien pel‚ [Lancedragon] ş1987 A Shaggy Dog's Tail
+: .oY.     N     _BAKST Harold                La Chasse d‚sastreuse du seigneur Toede [Lancedragon] ş1987 Lord Toede's disastrous hunt
+: .oY.     N     _KNAAK Richard A.            La D‚finition de l'honneur [Lancedragon] ş1987 Definitions of Honor
+: .oY.     N     _BERBERICK Nancy Varian      Le Chat et le rossignol [Lancedragon] ş1987 Hearth Cat and Winter Wren
+: .oY.     N     _WILLIAMS Michael            Au coeur de l'histoire [Lancedragon] ş1987 Into the Heart of the Story
+: .oY.     N     _O'DONOHOE Nick              Le Vol de la dague [Lancedragon] ş1987 Dagger Flight
 o FN_LDRA    24  1999.xx ..... ISBN .-.....-...-.
 }fnlan024-1      _?                           ?
-- .oY.     R     _SEVERSON Helen Dodge        Hederick le th‚ocrate [La Seconde Trilogie des agresseurs - 1] ş1994 Hederick the Theocrat
+- .oY.     R     _SEVERSON Helen Dodge        Hederick le th‚ocrate [La Seconde Trilogie des agresseurs - 1][Lancedragon] ş1994 Hederick the Theocrat
 o FN_LDRA    25  1999.xx ..... ISBN .-.....-...-.
 }fnlan025-1      _?                           ?
-- .oY.     R     _GRUBB Jeff                  Le Seigneur Toede [La Seconde Trilogie des agresseurs - 2] ş1994 Lord Toede şTrad. TROIN Isabelle
+- .oY.     R     _GRUBB Jeff                  Le Seigneur Toede [La Seconde Trilogie des agresseurs - 2][Lancedragon] ş1994 Lord Toede şTrad. TROIN Isabelle
 o FN_LDRA    26  1999.xx ..... ISBN .-.....-...-.
 }fnlan026-1      _?                           ?
-- .oY.     R     _WILLIAMS Michael           &La Reine des t‚nŠbres [La Seconde Trilogie des agresseurs - 3] ş1994 The Dark Queen şTrad. L'OFFICIAL C‚line
+- .oY.     R     _WILLIAMS Michael           &La Reine des t‚nŠbres [La Seconde Trilogie des agresseurs - 3][Lancedragon] ş1994 The Dark Queen şTrad. L'OFFICIAL C‚line
 &                _WILLIAMS Teri               
 o FN_LDRA    27  1999.xx ..... ISBN 2-265-06842-X
 }fnlan027-1      _?                           ?
-- .oY.    _A8    *HICKMAN Tracy              &Guerre et amour sur Krynn [La Trilogie des contes - 3] ş1987 Love and War
+- .oY.    _A8    *HICKMAN Tracy              &Guerre et amour sur Krynn [La Trilogie des contes - 3][Lancedragon] ş1987 Love and War
 &                *WEIS Margaret               
-: .oY.     N     _BAKST Harold                L'Histoire du bon chevalier ş1987 A good knight's tale
-: .oY.     N     _SIEGEL Barbara             &La Vision d'un peintre ş1987 A Painter's Vision
+: .oY.     N     _BAKST Harold                L'Histoire du bon chevalier [Lancedragon] ş1987 A good knight's tale
+: .oY.     N     _SIEGEL Barbara             &La Vision d'un peintre [Lancedragon] ş1987 A Painter's Vision
 &                _SIEGEL Scott                 
-: .oY.     N     _O'DONOHOE Nick              A la poursuite de la destin‚e ş1987 Hunting Destiny
-: .oY.     N     _BERBERICK Nancy Varian      Cache cache ş1987 Hide and Go Seek
-: .oY.     N     _CARTER Tonya R.            &Les Exil‚s ş1987 The Exiles
+: .oY.     N     _O'DONOHOE Nick              A la poursuite de la destin‚e [Lancedragon] ş1987 Hunting Destiny
+: .oY.     N     _BERBERICK Nancy Varian      Cache cache [Lancedragon] ş1987 Hide and Go Seek
+: .oY.     N     _CARTER Tonya R.            &Les Exil‚s [Lancedragon] ş1987 The Exiles
 &                _THOMPSON Paul B.            
-: .oY.     N     _HICKMAN Laura              &Le Coeur de Lunedor ş1987 Heart of Goldmoon
+: .oY.     N     _HICKMAN Laura              &Le Coeur de Lunedor [Lancedragon] ş1987 Heart of Goldmoon
 &                _NOVAK Kate                  
-: .oY.     N     _RANDLE Kevin                L'Argent et l'acier ş1987 Silver and Steel
-: .oY.     N     _TARALL Anne-Virginie        Les Songes de Tanis, demi Elfe ş1999
+: .oY.     N     _RANDLE Kevin                L'Argent et l'acier [Lancedragon] ş1987 Silver and Steel
+: .oY.     N     _TARALL Anne-Virginie        Les Songes de Tanis, demi elfe [Lancedragon] ş1999
 o FN_LDRA    28  2000.xx ..... ISBN .-.....-...-.
 }fnlan028-1      _?                           ?
-- .oY.     R     _RABE Jean                   L'Aube d'un nouvel ƒge ş1996 The Dawning of a New Age
+- .oY.     R     _RABE Jean                   L'Aube d'un nouvel ƒge [Dragons of a New Age - 1][Lancedragon] ş1996 The Dawning of a New Age
 o FN_LDRA    29  2000.xx ..... ISBN .-.....-...-.
 }fnlan029-1      _?                           ?
-- .oY.     R     _THOMPSON Paul B.           &Le Premier Fils [La Trilogie des nations elfiques - 1] ş1991 First Born şTrad. ?
+- .oY.     R     _THOMPSON Paul B.           &Le Premier Fils [La Trilogie des nations elfiques - 1][Lancedragon] ş1991 First Born şTrad. ?
 &                _CARTER Tonya R.             
 o FN_LDRA    30  2000.xx ..... ISBN .-.....-...-.
 }fnlan030-1      _?                           ?
-- .oY.     R     _NILES Douglas               Les Guerres fratricides [La Trilogie des nations elfiques - 2] ş1991 Kingslayers Wars
+- .oY.     R     _NILES Douglas               Les Guerres fratricides [La Trilogie des nations elfiques - 2][Lancedragon] ş1991 Kingslayers Wars
 o FN_LDRA    31  2000.xx ..... ISBN .-.....-...-.
 }fnlan031-1      _?                           ?
-- .oY.     R     _THOMPSON Paul B.           &La Terre de nos pŠres [La Trilogie des nations elfiques - 3] ş1991 The Qualinesti
+- .oY.     R     _THOMPSON Paul B.           &La Terre de nos pŠres [La Trilogie des nations elfiques - 3][Lancedragon] ş1991 The Qualinesti
 &                _CARTER Tonya R.             
 o FN_LDRA    32  2000.xx ..... ISBN .-.....-...-.
 }fnlan032-1      _?                           ?
-- .oY.     R     _KNAAK Richard A.            La L‚gende de Huma [La Trilogie des h‚ros - 1] ş1988 The Legend of Huma
+- .oY.     R     _KNAAK Richard A.            La L‚gende de Huma [La Trilogie des h‚ros - 1][Lancedragon] ş1988 The Legend of Huma
 o FN_LDRA    33  2000.xx ..... ISBN .-.....-...-.
 }fnlan033-1      _?                           ?
-- .oY.     R     _BERBERICK Nancy Varian      L'p‚e des tempˆtes [La Trilogie des h‚ros - 2] ş1988 Stormblade
+- .oY.     R     _BERBERICK Nancy Varian      L'p‚e des tempˆtes [La Trilogie des h‚ros - 2][Lancedragon] ş1988 Stormblade
 o FN_LDRA    34  2000.xx ..... ISBN .-.....-...-.
 }fnlan034-1      _?                           ?
-- .oY.     R     _WILLIAMS Michael            Le Nid du scorpion [La Trilogie des h‚ros - 3] ş1988 Weasel's Luck
+- .oY.     R     _WILLIAMS Michael            Le Nid du scorpion [La Trilogie des h‚ros - 3][Lancedragon] ş1988 Weasel's Luck
 o FN_LDRA    35  2001.xx ..... ISBN .-.....-...-.
 }fnlan035-1      _?                           ?
-- .oY.     R     _KNAAK Richard A.            Kaz le minotaure [S‚quence des h‚ros - 1] ş1990 Kaz the Minotaur
+- .oY.     R     _KNAAK Richard A.            Kaz le minotaure [S‚quence des h‚ros - 1][Lancedragon] ş1990 Kaz the Minotaur
 o FN_LDRA    36  2001.xx ..... ISBN .-.....-...-.
 }fnlan036-1      _?                           ?
-- .oY.     R     _PARKINSON Dan               Les Portes de Thorbardin [S‚quence des h‚ros - 2] ş1990 The Gates of Thorbardin şTrad. PECE MichŠle
+- .oY.     R     _PARKINSON Dan               Les Portes de Thorbardin [S‚quence des h‚ros - 2][Lancedragon] ş1990 The Gates of Thorbardin şTrad. PECE MichŠle
 o FN_LDRA    37  2001.xx ..... ISBN .-.....-...-.
 }fnlan037-1      _?                           ?
-- .oY.     R     _KNAAK Richard A.            La TaniŠre du mal [S‚quence des h‚ros - 3] ş1990 Galen Beknighted
+- .oY.     R     _KNAAK Richard A.            La TaniŠre du mal [S‚quence des h‚ros - 3][Lancedragon] ş1990 Galen Beknighted
 o FN_LDRA    38  2001.xx ..... ISBN .-.....-...-.
 }fnlan038-1      _?                           ?
-- .oY.     R     _PARKINSON Dan               Le Pacte de la forge [S‚quence des nains - 1] ş1993 The Covenant of the Forge şTrad. ZACHAYUS MichŠle
+- .oY.     R     _PARKINSON Dan               Le Pacte de la forge [S‚quence des nains - 1][Lancedragon] ş1993 The Covenant of the Forge şTrad. ZACHAYUS MichŠle
 o FN_LDRA    39  2001.xx ..... ISBN .-.....-...-.
 }fnlan039-1      _?                           ?
-- .oY.     R     _PARKINSON Dan               La Hache et le marteau [S‚quence des nains - 2] ş1993 Hammer and Axe şTrad. TARALL Anne-Virginie
+- .oY.     R     _PARKINSON Dan               La Hache et le marteau [S‚quence des nains - 2][Lancedragon] ş1993 Hammer and Axe şTrad. TARALL Anne-Virginie
 o FN_LDRA    40  2001.xx ..... ISBN .-.....-...-.
 }fnlan040-1      _?                           ?
-- .oY.     R     _PARKINSON Dan               Le Parchemin du fourneau [S‚quence des nains - 3] ş1993 Swordsheath Scroll
+- .oY.     R     _PARKINSON Dan               Le Parchemin du fourneau [S‚quence des nains - 3][Lancedragon] ş1993 Swordsheath Scroll
 o FN_LDRA    41  2001.10 ..... ISBN 2-265-07097-1
 }fnlan041-1      _?                           ?
-- .oY.     R     _ROBERTS John Maddox         Crime … Tarsis [La Trilogie des mystŠres - 2] ş1996 Murder in Tarsis şTrad. TROIN Isabelle
+- .oY.     R     _ROBERTS John Maddox         Crime … Tarsis [La Trilogie des mystŠres - 2][Lancedragon] ş1996 Murder in Tarsis şTrad. TROIN Isabelle
 o FN_LDRA    42  2002.xx ..... ISBN .-.....-...-.
 }fnlan042-1      _?                           ?
-- .oY.     R     _HICKMAN Tracy              &Dragon d'une flamme d'‚t‚ [Chroniques de Lancedragon, seconde g‚n‚ration - 2] ş1995 Dragon of Summer Flame şTrad. TROIN-JOUBAUD Isabelle
+- .oY.     R     _HICKMAN Tracy              &Dragon d'une flamme d'‚t‚ [Nouvelles chroniques - 2][Lancedragon] ş1995 Dragons of Summer Flame şTrad. TROIN-JOUBAUD Isabelle
 &                _WEIS Margaret               
 o FN_LDRA    43  2002.xx ..... ISBN .-.....-...-.
 }fnlan043-1      _?                           ?
-- .oY.     R     _KIRCHOFF Mary               La Nuit des trois lunes [D‚fenseurs de la magie - 1] ş1994 Night of the Eye şTrad. ZACHAYUS MichŠle
+- .oY.     R     _KIRCHOFF Mary               La Nuit des trois lunes [D‚fenseurs de la magie - 1][Lancedragon] ş1994 Night of the Eye şTrad. ZACHAYUS MichŠle
 o FN_LDRA    44  2002.xx ..... ISBN .-.....-...-.
 }fnlan044-1      _?                           ?
-- .oY.     R     _KIRCHOFF Mary               Les Yeux de pierre [D‚fenseurs de la magie - 2] ş1995 The Medusa Plague şTrad. ZACHAYUS MichŠle
+- .oY.     R     _KIRCHOFF Mary               Les Yeux de pierre [D‚fenseurs de la magie - 2][Lancedragon] ş1995 The Medusa Plague şTrad. ZACHAYUS MichŠle
 o FN_LDRA    45  2002.xx ..... ISBN .-.....-...-.
 }fnlan045-1      _?                           ?
-- .oY.     R     _KIRCHOFF Mary               La SeptiŠme Sentinelle [D‚fenseurs de la magie - 3] ş1995 The Seventh Sentinel şTrad. ZACHAYUS MichŠle
+- .oY.     R     _KIRCHOFF Mary               La SeptiŠme Sentinelle [D‚fenseurs de la magie - 3][Lancedragon] ş1995 The Seventh Sentinel şTrad. ZACHAYUS MichŠle
 o FN_LDRA    46  2002.xx ..... ISBN .-.....-...-.
 }fnlan046-1      _?                           ?
-- .oY.     R     _NILES Douglas               Tempˆte sur Thorbardin [S‚quence de la guerre du chaos - 1] ş1998 The Last Thane şTrad. TARALL Anne-Virginie
+- .oY.     R     _NILES Douglas               Tempˆte sur Thorbardin [S‚quence de la guerre du chaos - 1][Lancedragon] ş1998 The Last Thane şTrad. TARALL Anne-Virginie
 o FN_LDRA    47  2002.xx ..... ISBN .-.....-...-.
 }fnlan047-1      _?                           ?
-- .oY.     R     _BAKER Linda P.             &La Dame en blanc aux yeux de cendres [S‚quence de la guerre du chaos - 2] ş1998 Tears of the Night Sky şTrad. RARALL Anne-Virginie
+- .oY.     R     _BAKER Linda P.             &La Dame en blanc aux yeux de cendres [S‚quence de la guerre du chaos - 2][Lancedragon] ş1998 Tears of the Night Sky şTrad. RARALL Anne-Virginie
 &                _BERBERICK Nancy Varian      
 o FN_LDRA    48  2002.xx ..... ISBN .-.....-...-.
 }fnlan048-1      _?                           ?
-- .oY.     R     _NILES Douglas               Le Roi de paille [S‚quence de la guerre du chaos - 3] ş1999 The Puppet King şTrad. TARALL Anne-Virginie
+- .oY.     R     _NILES Douglas               Le Roi de paille [S‚quence de la guerre du chaos - 3][Lancedragon] ş1999 The Puppet King şTrad. TARALL Anne-Virginie
 o FN_LDRA    49  2003.xx ..... ISBN .-.....-...-.
 }fnlan049-1      _?                           ?
-- .oY.     R     _WEIS Margaret               Une ƒme bien tremp‚e [Chroniques de Raistlin - 1] ş1998 The Soulforge şTrad. TROIN Isabelle
+- .oY.     R     _WEIS Margaret               Une ƒme bien tremp‚e [Chroniques de Raistlin - 1][Lancedragon] ş1998 The Soulforge şTrad. TROIN Isabelle
 !--- Sans HICKMAN (mˆme si cr‚dit‚e ici, … confirmer)
 o FN_LDRA    50  2003.xx ..... ISBN .-.....-...-.
 }fnlan050-1      _?                           ?
-- .oY.     R     _COOK Tonya C.              &Les Fils de la plaine [S‚quence des barbares - 1] ş2000 Children of the Plains
+- .oY.     R     _COOK Tonya C.              &Les Fils de la plaine [S‚quence des barbares - 1][Lancedragon] ş2000 Children of the Plains
 &                _THOMPSON Paul B.            
 o FN_LDRA    51  2003.xx ..... ISBN .-.....-...-.
 }fnlan051-1      _?                           ?
-- .oY.     R     _COOK Tonya C.              &Le FrŠre du dragon [S‚quence des barbares - 2] ş2001 Brother of the Dragon
+- .oY.     R     _COOK Tonya C.              &Le FrŠre du dragon [S‚quence des barbares - 2][Lancedragon] ş2001 Brother of the Dragon
 &                _THOMPSON Paul B.            
 o FN_LDRA    52  2003.xx ..... ISBN 2-265-07481-0
 }fnlan052-1      _?                           ?
-- .oY.     R     _COOK Tonya C.              &La Soeur de l'‚p‚e [S‚quence des barbares - 3] ş2002 Sister of the Sword şTrad. ZACHAYUS MichŠle
+- .oY.     R     _COOK Tonya C.              &La Soeur de l'‚p‚e [S‚quence des barbares - 3][Lancedragon] ş2002 Sister of the Sword şTrad. ZACHAYUS MichŠle
 &                _THOMPSON Paul B.            
 o FN_LDRA    53  2003.xx ..... ISBN 2-265-07481-0
 }fnlan053-1      _?                           ?
-- .oY.     R     _PERRIN Don                 &Les FrŠres d'armes [Chroniques de Raistlin - 2] ş1999 Brothers in Arms
+- .oY.     R     _PERRIN Don                 &Les FrŠres d'armes [Chroniques de Raistlin - 2][Lancedragon] ş1999 Brothers in Arms
 &                _WEIS Margaret               
 o FN_LDRA    54  2003.09 ..... ISBN 2-265-07595-7
 }fnlan054-1      _?                           ?
-- .o .     R     _NILES Douglas               La L‚gende des Kagonestis [S‚quence des premiers peuples - 1] ş1998 The Kagonesti
+- .o .     R     _NILES Douglas               La L‚gende des Kagonestis [S‚quence des premiers peuples - 1][Lancedragon] ş1998 The Kagonesti
 !--- Collection … confirmer
 o FN_LDRA    55  2003.10 ..... ISBN 2-265-07599-X
 }fnlan055-1      _?                           ?
-- .oY.     R     _BAKER Linda P.              La Chronique des Irda [S‚quence de la guerre du chaos - 2] ş1995 The Irda
+- .oY.     R     _BAKER Linda P.              La Chronique des Irda [S‚quence des premiers peuples - 2][Lancedragon] ş1995 The Irda
 o FN_LDRA    56  2003.11 ..... ISBN 2-265-07604-X
 }fnlan056-1      _?                           ?
-- .oY.     R     _COOK Tonya C.              &La Saga des Dargonestis ş1995 The Dargonesti şTrad. TARALL Anne-Virginie
+- .oY.     R     _COOK Tonya C.              &La Saga des Dargonestis [S‚quence des premiers peuples - 3][Lancedragon] ş1995 The Dargonesti şTrad. TARALL Anne-Virginie
 &                _THOMPSON Paul B.            
 o FN_LDRA    57  2004.04 ..... ISBN 2-265-07817-4
 }fnlan057-1      _?                           ?
-- .oY.     R     _CROOK Jeff                  Le Fl‚au des abysses [S‚quence de l'ƒge des mortels - 1] ş2001 Conundrum şTrad. TARALL Anne-Virginie
+- .oY.     R     _CROOK Jeff                  Le Fl‚au des abysses [S‚quence de l'ƒge des mortels - 1][Lancedragon] ş2001 Conundrum şTrad. TARALL Anne-Virginie
 o FN_LDRA    58  2004.05 ..... ISBN 2-265-07818-2
 }fnlan058-1      _?                           ?
-- .oY.     R     _BERBERICK Nancy Varian      La Lionne des Kagonestis [S‚quence de l'ƒge des mortels - 2] ş2002 The Lioness şTrad. TARALL Anne-Virginie
+- .oY.     R     _BERBERICK Nancy Varian      La Lionne des Kagonestis [S‚quence de l'ƒge des mortels - 2][Lancedragon] ş2002 The Lioness şTrad. TARALL Anne-Virginie
 o FN_LDRA    59  2004.06 ..... ISBN 2-265-07819-0
 }fnlan059-1      _?                           ?
-- .oY.     R     _CROOK Jeff                  Le MaŒtre de Thorbardin [S‚quence de l'ƒge des mortels - 3] ş2003 Dark Thane: The Age of Mortals şTrad. TARALL Anne-Virginie
+- .oY.     R     _CROOK Jeff                  Le MaŒtre de Thorbardin [S‚quence de l'ƒge des mortels - 3][Lancedragon] ş2003 Dark Thane şTrad. TARALL Anne-Virginie
 o FN_LDRA    60  2004.10 ..... ISBN 2-265-07820-4
 }fnlan060-1      _?                           ?
-- .o .     R     _NILES Douglas               Le Messager [S‚quence du mur de glace - 1] ş2000 Dark Thane şTrad. TARALL Anne-Virginie
+- .o .     R     _NILES Douglas               Le Messager [S‚quence du mur de glace - 1][Lancedragon] ş2001 Le Messenger şTrad. TARALL Anne-Virginie
 o FN_LDRA    61  2004.11 ..... ISBN 2-265-07821-2
 }fnlan061-1      _?                           ?
-- .o .     R     _NILES Douglas               L'Orbe de la d‚solation [S‚quence du mur de glace - 2] ş2002 The Golden Orb şTrad. TARALL Anne-Virginie
+- .o .     R     _NILES Douglas               L'Orbe de la d‚solation [S‚quence du mur de glace - 2][Lancedragon] ş2002 The Golden Orb şTrad. TARALL Anne-Virginie
 o FN_LDRA    62  2004.12 ..... ISBN 2-265-07822-0
 }fnlan062-1      _?                           ?
-- .o .     R     _NILES Douglas               L'Ultime Forteresse [S‚quence du mur de glace - 3] ş2003 Winterheim şTrad. TARALL Anne-Virginie
+- .o .     R     _NILES Douglas               L'Ultime Forteresse [S‚quence du mur de glace - 3][Lancedragon] ş2003 Winterheim şTrad. TARALL Anne-Virginie
 o FN_LDRA    63  2005.01 ..... ISBN 2-265-08024-1
 }fnlan063-1      _?                           ?
-- .o .     R     _HICKMAN Tracy              &Dragons d'une ‚toile perdue [Guerre des ƒmes - 2] ş2001 Dragons of a Lost Star şTrad. ZACHAYUS MichŠle
+- .o .     R     _HICKMAN Tracy              &Dragons d'une ‚toile perdue [Guerre des ƒmes - 2][Lancedragon] ş2001 Dragons of a Lost Star şTrad. ZACHAYUS MichŠle
 &                _WEIS Margaret               
 o FN_LDRA    64  2005.07 ..... ISBN 2-265-08035-7
 }fnlan064-1      _?                           ?
-- .oY.     R     _KNAAK Richard A.            La Nation minotaure [S‚quence des premiers peuples - 4] ş1996 Land of the Minotaurs şTrad. JOLY Fabrice
+- .oY.     R     _KNAAK Richard A.            La Nation minotaure [S‚quence des premiers peuples - 4][Lancedragon] ş1996 Land of the Minotaurs şTrad. JOLY Fabrice
 o FN_LDRA    65  2005.08 ..... ISBN 2-265-08036-5
 }fnlan065-1      _?                           ?
-- .oY.     R     _PARKINSON Dan               Les Nains des ravins [S‚quence des premiers peuples - 5] ş1996 The Gully Dwarves şTrad. TROIN Isabelle
+- .oY.     R     _PARKINSON Dan               Les Nains des ravins [S‚quence des premiers peuples - 5][Lancedragon] ş1996 The Gully Dwarves şTrad. TROIN Isabelle
 o FN_LDRA    66  2005.09 ..... ISBN 2-265-08037-3
 }fnlan066-1      _?                           ?
-- .oY.     R     _NILES Douglas               Les Dragons [S‚quence des premiers peuples - 6] ş1996 The Dragons şTrad. JOLY Fabrice
+- .oY.     R     _NILES Douglas               Les Dragons [S‚quence des premiers peuples - 6][Lancedragon] ş1996 The Dragons şTrad. JOLY Fabrice
 o FN_LDRA    67  2005.10 ..... ISBN 2-265-08038-1
 }fnlan067-1      _?                           ?
-- .oY.     R     _HICKMAN Tracy              &Dragons d'une lune disparue [Guerre des ƒmes - 3] ş2002 Dragons of a Vanished Moon şTrad. ZACHAYUS MichŠle
+- .oY.     R     _HICKMAN Tracy              &Dragons d'une lune disparue [Guerre des ƒmes - 3][Lancedragon] ş2002 Dragons of a Vanished Moon şTrad. ZACHAYUS MichŠle
 &                _WEIS Margaret               
 o FN_LDRA    68  2005.11 ..... ISBN 2-265-08040-3
 }fnlan068-1      _?                           ?
-- .oY.     R     _COOK Tonya C.              &Le P‚riple d'un guerrier [La Trilogie de l'Ergoth - 1] ş2003 The Warrior's Journey şTrad. TARALL Anne-Virginie
+- .oY.     R     _COOK Tonya C.              &Le P‚riple d'un guerrier [La Trilogie de l'Ergoth - 1][Lancedragon] ş2003 The Warrior's Journey şTrad. TARALL Anne-Virginie
 &                _THOMPSON Paul B.            
 o FN_LDRA    69  2005.12 ..... ISBN 2-265-08041-1
 }fnlan069-1      _?                           ?
-- .oY.     R     _COOK Tonya C.              &Le Destin du sorcier [La Trilogie de l'Ergoth - 2] ş2004 The Wizard's Fate şTrad. TARALL Anne-Virginie
+- .oY.     R     _COOK Tonya C.              &Le Destin du sorcier [La Trilogie de l'Ergoth - 2][Lancedragon] ş2004 The Wizard's Fate şTrad. TARALL Anne-Virginie
 &                _THOMPSON Paul B.            
 o FN_LDRA    70  2006.02 ..... ISBN 2-265-08232-5
 }fnlan070-1      _?                           ?
-- .oY.     R     _COOK Tonya C.              &La Justice du h‚ros [La Trilogie de l'Ergoth - 3] ş2004 A Hero's Justice şTrad. TARALL Anne-Virginie
+- .oY.     R     _COOK Tonya C.              &La Justice du h‚ros [La Trilogie de l'Ergoth - 3][Lancedragon] ş2004 A Hero's Justice şTrad. TARALL Anne-Virginie
 &                _THOMPSON Paul B.            
 o FN_LDRA    71  2006.04 ..... ISBN 2-265-08255-4
 }fnlan071-1      _?                           ?
-- .oY.     R     _PIERSON Chris               L'lu des dieux [La Trilogie du Prˆtre-Roi - 1] ş2001 Chosen of the Gods şTrad. TARALL Anne-Virginie
+- .oY.     R     _PIERSON Chris               L'lu des dieux [La Trilogie du Prˆtre-Roi - 1][Lancedragon] ş2001 Chosen of the Gods şTrad. TARALL Anne-Virginie
 o FN_LDRA    72  2006.08 ..... ISBN 2-265-08280-5
 }fnlan072-1      _?                           ?
-- .oY.     R     _HICKMAN Tracy              &Dragons d'un coucher de soleil [Guerre des ƒmes - 1] ş2000 Dragons of a Fallen Sun şTrad. ZACHAYUS MichŠle
+- .oY.     R     _HICKMAN Tracy              &Dragons d'un coucher de soleil [Guerre des ƒmes - 1][Lancedragon] ş2000 Dragons of a Fallen Sun şTrad. ZACHAYUS MichŠle
 &                _WEIS Margaret               
 o FN_LDRA    73  2006.11 ..... ISBN 2-265-08256-2
 }fnlan073-1      _?                           ?
-- .oY.     R     _PIERSON Chris               L'Ordre du marteau divin [La Trilogie du Prˆtre-Roi - 2] ş2002 Divine Hammer şTrad. TARALL Anne-Virginie
+- .oY.     R     _PIERSON Chris               L'Ordre du marteau divin [La Trilogie du Prˆtre-Roi - 2][Lancedragon] ş2002 Divine Hammer şTrad. TARALL Anne-Virginie
 
 
 o FN_LDRA     ?  1997.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _HICKMAN Tracy              &Dragon d'une flamme d'‚t‚ [La Trilogie des chroniques de Lancedragon - 4] ş1995 Dragon of Summer Flame şTrad. TROIN-JOUBAUD Isabelle
+- .oY.     R     _HICKMAN Tracy              &Dragon d'une flamme d'‚t‚ [Nouvelles chroniques - 2][Lancedragon] ş1995 Dragons of Summer Flame şTrad. TROIN-JOUBAUD Isabelle
 &                _WEIS Margaret               
 
 !-----------------------------------------------------------------------------
@@ -978,47 +862,49 @@ o FN_LDRA     ?  1997.xx ..... ISBN .-.....-...-.
 !-----------------------------------------------------------------------------
 o FN_LDRA     ?  1999.xx ..... ISBN 2-265-06731-8
 } fnlangf07-1    _?                           ?
-- .oY.     Ax    *HICKMAN Tracy              &DeuxiŠme g‚n‚ration [Chroniques de Lancedragon, seconde g‚n‚ration - 1] ş1994 The Second Generation şTrad. TROIN Isabelle
+- .oY.     A5    *HICKMAN Tracy              &DeuxiŠme g‚n‚ration [Nouvelles chroniques - 1][Lancedragon] ş1994 The Second Generation şTrad. TROIN Isabelle
 &                *WEIS Margaret               
-: .o .     N     _DESPAIN Dezra               La Fille de Raistlin ş1987 Raistlin's daughter
-!--- TBC avec WEIS ???
-: .o .     N     _WEIS Margaret              &La Fille de Kitiara ş?
+: .o .     r     _WEIS Margaret              &Le Fils de Kitiara [Lancedragon] ş1987 Kitiara's Son
 &                _HICKMAN Tracy               
-: .o .     N     _WEIS Margaret              &L'H‚ritage ş?
+: .o .     r     _WEIS Margaret              &L'H‚ritage [Lancedragon] ş1987 The Legacy 
 &                _HICKMAN Tracy               
-: .o .     N     _WEIS Margaret              &Le Sacrifice ş?
+: .o .     r     _WEIS Margaret              &Vous voulez parier ? [Lancedragon] ş1987 Wanna Bet?
+&                _HICKMAN Tracy               
+: .o .     N     _DESPAIN Dezra              &La Fille de Raistlin [Lancedragon] ş1987 Raistlin's daughter
+&                _WEIS Margaret               
+: .o .     r     _WEIS Margaret              &Le Sacrifice [Lancedragon] ş1994 The Sacrifice
 &                _HICKMAN Tracy               
 
 o FN_LDRA     ?  1999.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _WEIS Margaret               Une ƒme bien tremp‚e [Chroniques de Raistlin - 1] ş1998 The Soulforge
+- .o .     R     _WEIS Margaret               Une ƒme bien tremp‚e [Chroniques de Raistlin - 1][Lancedragon] ş1998 The Soulforge
 !--- Sans HICKMAN (mˆme si cr‚dit‚e ici, … confirmer)
 o FN_LDRA     ?  2000.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _PERRIN Don                 &Les FrŠres d'armes [Chroniques de Raistlin - 2] ş1999 Brothers in Arms şTrad. TROIN Isabelle
+- .o .     R     _PERRIN Don                 &Les FrŠres d'armes [Chroniques de Raistlin - 2][Lancedragon] ş1999 Brothers in Arms şTrad. TROIN Isabelle
 &                _WEIS Margaret               
 o FN_LDRA     ?  2001.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _HICKMAN Tracy              &Dragons d'un coucher de soleil [Guerre des ƒmes - 1] ş2000 Dragons of a Fallen Sun şTrad. ZACHAYUS MichŠle
+- .o .     R     _HICKMAN Tracy              &Dragons d'un coucher de soleil [Guerre des ƒmes - 1][Lancedragon] ş2000 Dragons of a Fallen Sun şTrad. ZACHAYUS MichŠle
 &                _WEIS Margaret               
 o FN_LDRA     ?  2002.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
-- .o .     R     _HICKMAN Tracy              &Dragons d'une ‚toile perdue [Guerre des ƒmes - 2] ş2001 Dragons of a Lost Star şTrad. ZACHAYUS MichŠle
+- .o .     R     _HICKMAN Tracy              &Dragons d'une ‚toile perdue [Guerre des ƒmes - 2][Lancedragon] ş2001 Dragons of a Lost Star şTrad. ZACHAYUS MichŠle
 &                _WEIS Margaret               
 
 ?o FN_LDRA     ?  2003.xx ..... ISBN 2-265-.....-.
 ?} noimg          _?                           ?
-?- .oY.     R     _HICKMAN Tracy              &Dragons d'une lune disparue [Guerre des ƒmes - 3] ş2002 Dragons of a Vanished Moon şTrad. ZACHAYUS MichŠle
+?- .oY.     R     _HICKMAN Tracy              &Dragons d'une lune disparue [Guerre des ƒmes - 3][Lancedragon] ş2002 Dragons of a Vanished Moon şTrad. ZACHAYUS MichŠle
 ?&                _WEIS Margaret               
 o FN_LDRA     8i 2004.03 ..... ISBN 2-265-07816-6
 } noimg          _?                           ?
-- .oY.     R     _PERRIN Don                 &La Brigade de l'apocalypse [La S‚quence des Draconiens - 1] ş1996 The Doom Brigade şTrad. TARALL Anne-Virginie
+- .oY.     R     _PERRIN Don                 &La Brigade de l'apocalypse [La S‚quence des Draconiens - 1][Lancedragon] ş1996 The Doom Brigade şTrad. TARALL Anne-Virginie
 &                _WEIS Margaret               
 o FN_LDRA     9i 2005.11 ..... ISBN 2-265-08039-X
 } noimg          _?                           ?
-- .oY.     R     _PERRIN Don                 &Mesures draconiennes [La S‚quence des Draconiens - 2] ş2000 Draconian Measures şTrad. TARALL Anne-Virginie
+- .oY.     R     _PERRIN Don                 &Mesures draconiennes [La S‚quence des Draconiens - 2][Lancedragon] ş2000 Draconian Measures şTrad. TARALL Anne-Virginie
 &                _WEIS Margaret               
 o FN_LDRA     ?  2006.11 ..... ISBN 2-265-08257-0
 } noimg          _?                           ?
-- .oY.     R     _WEIS Margaret               D'ambre et de cendres [Trilogie du sombre disciple - 1] ş2004 Amber and Ashes şTrad. JOLY Fabrice
+- .oY.     R     _WEIS Margaret               D'ambre et de cendres [Trilogie du sombre disciple - 1][Lancedragon] ş2004 Amber and Ashes şTrad. JOLY Fabrice
 

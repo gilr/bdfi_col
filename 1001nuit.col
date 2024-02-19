@@ -4,8 +4,14 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ MEUN    Mille et une nuits
-_ MEUN_PC Mille et une nuits, La petite collection
+_ MEUN    Mille et une nuits þ1993
+_ MEUN_PC Mille et une nuits - La petite collection [poche] þ1993
+!-----------------------------------------------------------------------------
+!--- La petite collection :
+!--- poche, 15 cm de haut
+!--- Variante de nommage de "La petite collection" =  Petite collection Mille et une nuits = "Mille et une nuits"
+!--- Fin de num‚rotation avec le 654 en 2015
+!--- Fin de num‚rotation avec le 654 en 2015
 !-----------------------------------------------------------------------------
 o MEUN_PC     4  1993.09 ..... ISBN 2-910233-09-9
 } noimg          _?                           ?
@@ -29,7 +35,7 @@ o MEUN_PC    27  1994.03 ..... ISBN 2-910233-27-8
 + MEUN_PC    27  1997.07 ..... ISBN 2-910233-27-8
 } noimg          _?                           ?
 - .oF.     N     _POUCHKINE Alexandre         La Dame de pique þ1834 Pikova‹a dama
-o MEUN       26  1994.xx ..... ISBN 2-910233-26-X
+o MEUN_PC    26  1994.xx ..... ISBN 2-910233-26-X
 } noimg          _?                           ?
 - .o .     N     _MAUPASSANT Guy de           Le Horla þ1886
 o MEUN_PC    36  1994.05 ..... ISBN 2-910233-36-7
@@ -41,7 +47,7 @@ o MEUN_PC    41  1994.xx ..... ISBN 2-910233-46-4
 } noimg          _?                           ?
 + MEUN_PC    41  2005.02 ..... ISBN 2-910233-46-4
 } noimg          _?                           ?
-- .oF.     N     _BOULGAKOV Mikha‹l           Diablerie þ? Dyaboliiada þTrad. BERELOWITCH Wladimir
+- .oF.     N     _BOULGAKOV Mikha‹l           Diablerie þ1923 D'yiavoliada þTrad. BERELOWITCH Wladimir
 o MEUN_PC    67  1995.04 R.... ISBN 2-84205-002-9
 } noimg          _?                           ?
 - .o .     N     _DICK Philip K.              L'Orph‚e aux pieds d'argile þ1964 Orpheus With Clay Feet þTrad. JOUANNE Emmanuel
@@ -72,7 +78,6 @@ o MEUN_PC    91  1996.02 ..... ISBN 2-84205-034-7
 } noimg          _?                           ?
 - .o .     R     _PELEVINE Viktor             La FlŠche jaune þ1993 Jiolta‹a strela þTrad. ACKERMAN Galia & LORRAIN Pierre
 o MEUN_PC    94  1996.xx ..... ISBN 2-84205-037-1
-!--- TBD : Nouvelle ou petit recueil ?
 } noimg          _?                           ?
 - .o .     N     _VILLIERS DE L'ISLE-ADAM     Le Convive des derniŠres fˆtes þ1874
 o MEUN_PC   125  1996.11 ..... ISBN 2-84205-092-4
@@ -83,7 +88,7 @@ o MEUN_PC   138  1997.01 ..... ISBN 2-84205-107-6
 - .oKF    kN4    _BIERCE Ambrose              Le Club des parenticides þ1946 The Parenticide Club
 : .o .     N     _BIERCE Ambrose              Mon meurtre favori þ1888 My Favorite Murder
 : .o .     N     _BIERCE Ambrose              Huile de chien þ1890 The Oil of a Dog / Oil of Dog
-: .o .     N     _BIERCE Ambrose              De l'imperfection des incendies þ1886 An Imperfect Conflagration
+: .x .     N     _BIERCE Ambrose              De l'imperfection des incendies þ1886 An Imperfect Conflagration
 : .o .     N     _BIERCE Ambrose              L'Hypnotiseur þ1893 John Bolger, Hypnotist / The Hypnotist
 o MEUN_PC   155  1997.xx ..... ISBN 2-84205-129-7
 } noimg          _?                           ?
@@ -93,7 +98,7 @@ o MEUN_PC   161  1997.xx ..... ISBN 2-84205-124-2
 - .o .     N     _RAY Jean                    Le Psautier de Mayence þ1930
 o MEUN_PC   162  1997.07 R.... ISBN 2-84205-142-4
 } noimg          _?                           ?
-- .o .     N     _LOVECRAFT Howard P.         Les Rats dans les murs þ1923 The Rats in the Walls þTrad. SZTAJN Lili
+- .o .     N     _LOVECRAFT Howard P.         Les Rats dans les murs þ1924 The Rats in the Walls þTrad. SZTAJN Lili
 o MEUN_PC   164  1997.09 ..... ISBN 2-84205-146-7
 } noimg          _?                           ?
 - .o .     N     _NERVAL G‚rard de            Aur‚lia þ1855
@@ -102,26 +107,19 @@ o MEUN_PC   165  1997.09 ..... ISBN 2-84205-147-5
 - .o .     N     _WILDE Oscar                 Le Fant“me des Canterville þ1887 The Canterville Ghost
 o MEUN_PC   176  1997.xx ..... ISBN 2-84205-161-0
 } noimg          _CASSINELLI Attilio          ?
-- .o .     R     _COLLODI Carlo               Les Aventures de Pinocchio þ1881 Le avventure di Pinocchio þTrad. BLONCOURT-HERSELIN  Jacqueline
-o MEUN_PC   179  199..xx ..... ISBN 2-84205-...-.
+- .o .     R     _COLLODI Carlo               Les Aventures de Pinocchio þ1881 Le avventure di Pinocchio þTrad. BLONCOURT-HERSELIN Jacqueline
+o MEUN_PC   179  199..xx ..... ISBN 2-84205-179-3
+} noimg          _?                           ?
 !-- Recueil de la correspondance entre Allen Ginsberg et William Burroughs lors
 !-- du voyage de celui-ci en Am‚rique latine … la recherche du secret de la
 !-- puissante drogue le Yage, aussi appel‚ Ayahuasca.
-} noimg          _?                           ?
-- .! .     N     _BURROUGHS William S.        Lettre du Yage þ? ? þTrad. ?
+- .! .     l     _BURROUGHS William S.        Lettre du Yage þ1975 The Yage letters þTrad. BEACH-PELIEU Mary
 o MEUN_PC   190  1998.02 ..... ISBN 2-84205-300-1
 } noimg          _?                           ?
 - .oF.     N     _GOGOL Nicolas               Le Nez þ1836 Nos
 o MEUN_PC   269  2000.xx ..... ISBN 2-84205-464-4
 } noimg          _?                           ?
 - .oF.     N     _IRVING Washington           Sleepy Hollow, la l‚gende du cavalier sans tˆte þ1820 Sleepy Hollow þTrad. GEOFFROY Alain
-o MEUN        ?  2000.xx ..... ISBN -
-}1001n_ter       _PETILLON Ren‚               ?
-+ MEUN        ?  2001.03 ..... ISBN 2-84205-561-6
-}1001n_ter01     _PETILLON Ren‚               ?
-- .p .    kA7    ****                         Attention au d‚part ! þ2000
-: .o .     N     _CORTANZE G‚rard de          Cyclone m‚tropolitain þ?
-: .o .     N     _DAENINCKX Didier            Le Car de midi þ2000
 o MEUN_PC   285  2000.06 ..... ISBN 2-84205-480-6
 } noimg          _?                           ?
 - .o .     N     _POE Edgar Allan             Les Lunettes þ1844 The Spectacles
@@ -155,6 +153,13 @@ o MEUN_PC   346  2001.09 ..... ISBN 2-84205-609-4
 o MEUN_PC   320  2002.10 ..... ISBN 2-84205-553-5
 } noimg          _?                           ?
 - .o .     r     _POE Edgar Allan             Le MystŠre de Marie Roget [Auguste Dupin] þ1842 The Mystery of Marie Roget
+o MEUN_PC     ?  2000.xx ..... ISBN -
+}1001n_ter       _PETILLON Ren‚               ?
++ MEUN_PC   325  2001.03 ..... ISBN 2-84205-561-6
+}1001n_ter01     _PETILLON Ren‚               ?
+- .p .    kA7    ****                         Attention au d‚part ! þ2000
+: .o .     N     _CORTANZE G‚rard de          Cyclone m‚tropolitain þ?
+: .o .     N     _DAENINCKX Didier            Le Car de midi þ2000
 o MEUN_PC   328  2001.05 ..... ISBN 2-84205-568-3
 }millenuitpc328  _?            ?
 - .oF.     N3    _STOKER Bram                &L'Homme de Shorrox þ2001
@@ -174,14 +179,13 @@ o MEUN_PC   349  2001.09 ..... ISBN 2-84205-605-1
 : .oF.     N     _MAUPASSANT Guy de           La Peur (2iŠme version) þ1882-1884
 : .oF.     N     _MAUPASSANT Guy de           Un cas de divorce þ1886
 : .oF.     N     _MAUPASSANT Guy de           AuprŠs d'un mort þ1883
-!--- TBC (CM) 1882
 : .oF.     N     _MAUPASSANT Guy de           Qui sait ? þ1890
 : .oF.     N     _MAUPASSANT Guy de           Lui ? þ1883
 o MEUN_PC   369  2001.10 ..... ISBN 8-84205-623-X
 }millenuitpc369  _?            ?
+!--- La lettre est une lettre de Charlotte Stoker racontant l'arriv‚e de la peste en 1832 … Sligo.
 - .oF.     N3    _STOKER Bram                 Le G‚ant invisible þ2001
 : .! .     l     _STOKER Charlotte            Une nouvelle peste þ1875 ? þTrad. KREMER Jean-Pierre
-!--- Lettre de Charlotte Stoker racontant l'arriv‚e de la peste en 1832 … Sligo
 : .oF.     N     _STOKER Bram                 Le G‚ant invisible þ1882 The Invisible Giant þTrad. KREMER Jean-Pierre
 : .oF.     X     _STOKER Bram                 Le Prˆteur d'argent þ1890 The Snake's Pass þTrad. KREMER Jean-Pierre
 o MEUN_PC   386  2002.08 ..... ISBN 2-84205-690-6
@@ -212,7 +216,6 @@ o MEUN_PC   409  2003.03 ..... ISBN 2-84205-731-7
 + MEUN_PC   409  2007.xx ..... ISBN 2-84205-731-7
 } noimg          _?                           ?
 !--- Recueil de poŠmes en proses
-- .oF.    iNx    _BERTRAND Aloysius           Gaspard de la nuit þ1842
 !--- Premier Livre des Fantaisies de Gaspard de la nuit : Ecole Flamande
 !---   I - Harlem / II - Le Ma‡on / III - L'‚colier de Leyde / IV - La Barbe pointue
 !---   V - Le Marchand de tulipes / VI - Les Cinq Doigts de la main / VII - La Viole de gamba
@@ -236,6 +239,7 @@ o MEUN_PC   409  2003.03 ..... ISBN 2-84205-731-7
 !---   V - Encore un printemps  / VI - Le DeuxiŠme Homme
 !--- A Sainte-Beuve
 !--- PiŠces d‚tach‚es extraites du portefeuille de l'auteur
+- .oF.    iNx    _BERTRAND Aloysius           Gaspard de la nuit þ1842
 o MEUN_PC   427  2003.09 ..... ISBN 2-84205-784-8
 } noimg          _?                           ?
 - .o .     N     _GAUTIER Th‚ophile           La Mille et DeuxiŠme Nuit þ1842
@@ -251,17 +255,64 @@ o MEUN_PC   473  2005.03 ..... ISBN 2-84205-889-5
 o MEUN_PC   501  2006.04 ..... ISBN 2-84205-951-4
 } noimg          _?                           ?
 - .oS.     R     _LEROY J‚r“me                Rˆves de cristal þ2006
+o MEUN_PC   562  2010.01 ..... ISBN 978-2-7555-0142-1
+}1001n_562       _?                           ?
+- .oF.    kN4    _POE Edgar Allan             Le D‚mon de la perversit‚ et autres contes þ2010
+: .o .     N     _POE Edgar Allan             Le D‚mon de la perversit‚ þ1845 The Imp of the Perverse
+: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-Tale Heart
+: .o .     N     _POE Edgar Allan             Le Chat noir þ1843 The Black Cat
+: .o .     N     _POE Edgar Allan             La Barrique d'Amontillado þ1846 The Cask of Amontillado
+o MEUN_PC   583  2011.03 ..... ISBN 978-2-7555-0600-6
+}1001n_583       _?                           ?
+- .o .     N3    _GAUTIER Th‚ophile           Le Club des hachichins þ1846
+: .o .     N     _GAUTIER Th‚ophile           Le Club des hachichins þ1846
+: .o .     N     _GAUTIER Th‚ophile           La Pipe d'opium þ1838
+: .o .     N     _GAUTIER Th‚ophile           Le Hachich þ?
+o MEUN_PC   653  2015.11 ..... ISBN 978-2-7555-0755-3
+} noimg          _?                           ?
+- .oT.     R     _AGAPIT Marc                 Greffe mortelle þ1958
+
+!--- Les num‚ros suivants ne sont pas num‚rot‚s, il sont inclus dans le coffret
+o MEUN_PC     ?  1995.xx ..... ISBN 2-910233-97-9
+} noimg          _?                           ?
+!--- Les num‚ros non num‚rot‚, inclu dans le coffret des 10 livres.
+!--- ‚crit par son fils Michel Verne, puis revu par lui et republi‚ l'ann‚e suivante
+- .o .     N     _VERNE Jules                 La Journ‚e d'un journaliste en 2890 þ1889
+o MEUN_PC     ?  1995.xx ..... ISBN 2-910233-99-5
+} noimg          _?                           ?
+!--- Les num‚ros non num‚rot‚, inclu dans le coffret des 10 livres.
+- .x .     N     _RENARD Maurice              L'Homme qui voulait ˆtre invisible þ1923
+o MEUN_PC     ?  1995.xx ..... ISBN 2-84205-001-0
+} noimg          _?                           ?
+!--- Les num‚ros non num‚rot‚, inclu dans le coffret des 10 livres.
+- .o .     N     _SHECKLEY Robert             Un billet pour Trana‹ þ1955 A Ticket to Tranai
+o MEUN_PC     ?  1995.xx ..... ISBN 2-84205-005-3
+} noimg          _?                           ?
+!--- Les num‚ros non num‚rot‚, inclu dans le coffret des 10 livres.
+- .o .     N     _MURAIL Lorris               La M‚thode albanaise þ1995
+o MEUN_PC     ?  1995.07 ..... ISBN 2-84205-006-1
+} noimg          _?                           ?
+!--- Les num‚ros non num‚rot‚, inclu dans le coffret des 10 livres.
+- .o .     N     _STERLING Bruce             &Etoile rouge, orbite gel‚e þ1983 Red Star, Winter Orbit þTrad. ALBARET MichŠle
+&                _GIBSON William              
+
+
+
+o MEUN        ?  1998.xx ..... ISBN 2-84205-373-7
+} noimg          _?                           ?
+- .o .     r     _BRADBURY Ray                Ahmed et les prisons du temps þ1998 Ahmed and the Obivion Machine þTrad. ?
 o MEUN        ?  2007.05 ..... ISBN 978-2-7555-0008-0
 }1001n_fauteuilv _?            ?
-- .pS.    iN24   _LEROY J‚r“me                Comme un fauteuil Voltaire dans une bibliothŠque en ruine þ2007
+!--- 217 pages - 20 cm - 12 euros
+- .pSP     N24   _LEROY J‚r“me                Comme un fauteuil Voltaire dans une bibliothŠque en ruine þ2007
 : .oS.     N     _LEROY J‚r“me                Comme un fauteuil Voltaire dans une bibliothŠque en ruine þ2004
 : .? .     N     _LEROY J‚r“me                La Jeune Fille, le choc p‚trolier et la mort þ2007
 : .? .     N     _LEROY J‚r“me                Iconoclastie þ2007
 : .? .     N     _LEROY J‚r“me                Le Serrement d'hypocrate þ2007
 : .? .     N     _LEROY J‚r“me                AgnŠs s'en va þ2007
 : .? .     N     _LEROY J‚r“me                La Danse des Khmers þ2007
-: .? .     N     _LEROY J‚r“me                Le Vieil homme, la mitraillette et l'automne þ2007
-: .? .     N     _LEROY J‚r“me                Abattez Karl Marx ! þ2003
+: .? .     N     _LEROY J‚r“me                Le Vieil Homme, la mitraillette et l'automne þ2007
+: .oS.     N     _LEROY J‚r“me                Abattez Karl Marx ! þ2003
 : .? .     N     _LEROY J‚r“me                Flamb‚e immobiliŠre þ2007
 : .? .     N     _LEROY J‚r“me                L'Insomnie de 5h13 þ2007
 : .? .     N     _LEROY J‚r“me                Simon, Lola et l'echelle de Richter þ2007
@@ -280,64 +331,24 @@ o MEUN        ?  2007.05 ..... ISBN 978-2-7555-0008-0
 : .? .     N     _LEROY J‚r“me                Le D‚clenchement muet des op‚rations cannibales þ2007
 o MEUN        ?  2008.08 ..... ISBN 978-2-7555-0009-7
 } noimg          _?                           ?
+!--- 355 pages - 20 cm - 17 euros
 - .o .     R     _LEROY J‚r“me                La Minute prescrite pour l'assaut þ2008
-o MEUN_PC   562  2010.01 ..... ISBN 978-2-7555-0142-1
-}1001n_562       _?                           ?
-- .oF.    kN4    _POE Edgar Allan             Le D‚mon de la perversit‚ et autres contes þ2010
-: .o .     N     _POE Edgar Allan             Le D‚mon de la perversit‚ þ1845 The Imp of the Perverse
-: .o .     N     _POE Edgar Allan             Le Coeur r‚v‚lateur þ1843 The Tell-tale Heart
-: .o .     N     _POE Edgar Allan             Le Chat noir þ1843 The Black Cat
-: .o .     N     _POE Edgar Allan             La Barrique d'Amontillado þ1846 The Cask of Amontillado
-o MEUN_PC   583  2011.03 ..... ISBN 978-2-7555-0600-6
-}1001n_583       _?                           ?
-- .o .     N3    _GAUTIER Th‚ophile           Le Club des hachichins þ1846
-: .o .     N     _GAUTIER Th‚ophile           Le Club des hachichins þ1846
-: .o .     N     _GAUTIER Th‚ophile           La Pipe d'opium þ1838
-: .o .     N     _GAUTIER Th‚ophile           Le Hachich þ?
-
-o MEUN        ?  2015.11 ..... ISBN 978-2-7555-0755-3
-} noimg          _?                           ?
-- .oT.     R     _AGAPIT Marc                 Greffe mortelle þ1958
 
 
 
 
-
-!--- MEUN   HC 1995 R10 ***                     Dix retours vers le futur þ1995
+!--- MEUN   HC 1995 R10 ***                     Dix retours vers le futur (1995)
 !--- Note : coffret contenant 10 fascicules, dans l'ordre :
-!--- (1)  - 1995 N   VERNE Jules             La journ‚e d'un journaliste en 2890 þ1889
-!--- ‚crit par son fils Michel Verne, puis revu par lui et republi‚ l'ann‚e suivante
-!--- (2) 75 1995 N   WELLS Herbert George    Le nouvel acc‚l‚rateur þ1901 The new accelerator þTrad. DAVRAY Henry D. & KOZAKIEWICZ B.
-!--- (3)  - 1995 N   RENARD Maurice          L'homme qui voulait ˆtre invisible þ?
-!--- (4) 71 1995 N   SIMAK Clifford D.       Mirage þ1950 Seven came back / Mirage þTrad. DE TERSAC Jacques
-!--- (5)  - 1995 N   SHECKLEY Robert         Un billet pour Trana‹ þ1955 A ticket to Tranai
-!--- (6) 67 1995 N   DICK Philip K.          L'orph‚e aux pieds d'argile þ1964 Orpheus with clay feet
-!--- (7) 74 1995 r   BALLARD James G.        Le massacre de Pangbourne þ1988 Running wild þTrad. SILA-KHAN Dominique
-!--- (8) 77 1995 N3  MOORCOCK Michael        Souvenirs de la troisiŠme guerre mondiale þ1995
-!--- (9)  - 1995 N   STERLING Bruce         &Etoile rouge, orbite gel‚e þ1983 Red star, winter orbit þTrad. ALBARET MichŠle
+!--- (1)  - 1995 N   VERNE Jules             La Journ‚e d'un journaliste en 2890
+!--- (2) 75 1995 N   WELLS Herbert George    Le Nouvel Acc‚l‚rateur
+!--- (3)  - 1995 N   RENARD Maurice          L'Homme qui voulait ˆtre invisible
+!--- (4) 71 1995 N   SIMAK Clifford D.       Mirage
+!--- (5)  - 1995 N   SHECKLEY Robert         Un billet pour Trana‹
+!--- (6) 67 1995 N   DICK Philip K.          L'Orph‚e aux pieds d'argile
+!--- (7) 74 1995 r   BALLARD James G.        Le Massacre de Pangbourne
+!--- (8) 77 1995 N3  MOORCOCK Michael        Souvenirs de la troisiŠme guerre mondiale
+!--- (9)  - 1995 N   STERLING Bruce         &Etoile rouge, orbite gel‚e
 !---                 GIBSON William          
-!---(10)  - 1995 N   MURAIL Lorris           La m‚thode albanaise þ1995
-
-o MEUN_PC     ?  1995.xx ..... ISBN 2-910233-97-9
-} noimg          _?                           ?
-- .o .     N     _VERNE Jules                 La Journ‚e d'un journaliste en 2890 þ1889
-o MEUN        ?  1995.xx ..... ISBN 2-910233-99-5
-} noimg          _?                           ?
-- .x .     N     _RENARD Maurice              L'Homme qui voulait ˆtre invisible þ1923
-o MEUN_PC     ?  1995.xx ..... ISBN 2-84205-001-0
-} noimg          _?                           ?
-- .o .     N     _SHECKLEY Robert             Un billet pour Trana‹ þ1955 A Ticket to Tranai
-o MEUN_PC     ?  1995.xx ..... ISBN 2-84205-005-3
-} noimg          _?                           ?
-- .o .     N     _MURAIL Lorris               La M‚thode albanaise þ1995
-o MEUN_PC     ?  1995.07 ..... ISBN 2-84205-006-1
-} noimg          _?                           ?
-- .o .     N     _STERLING Bruce             &Etoile rouge, orbite gel‚e þ1983 Red Star, Winter Orbit þTrad. ALBARET MichŠle
-&                _GIBSON William              
-
-o MEUN        ?  1998.xx ..... ISBN 2-84205-...-.
-} noimg          _?                           ?
-- .o .     r     _BRADBURY Ray                Ahmed et les prisons du temps þ1998 Ahmed and the Obivion Machine þTrad. ?
-
+!---(10)  - 1995 N   MURAIL Lorris           La M‚thode albanaise
 
 

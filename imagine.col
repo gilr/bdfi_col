@@ -24,7 +24,7 @@
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 _ IMAG    Revue Imagine...
-_ IMAA    Imagine..., num‚ro sp‚cial hors s‚rie
+_ IMAA    Revue Imagine... - num‚ro sp‚cial hors s‚rie
 !-----------------------------------------------------------------------------
 
 o IMAA       15  1994.04 ..... ISBN .-.....-...-.
@@ -70,29 +70,29 @@ o IMAA       15  1994.04 ..... ISBN .-.....-...-.
 !-- GOUESBET, ISS, LAMART, LAINE, LECIGNE, MARLSON, PELE, PLANQUE, RAVEAU, VOLODINE
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
-_ IM01    <b>in</b> Imagine (Canada) nø 1, 2, 3 et 4
-o IM01        ?  1980.xx ..... ISBN .-.....-...-.
+o IMAG        ?  1980.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 1, 2, 3 et 4
 - .o .     R     _ROCHON Esther               L'puisement du soleil ş1980
 !-----------------------------------------------------------------------------
-_ IM02    <b>in</b> Imagine (Canada) nø 29, 30, 32, 35, 36, 37, 40 et 41
-o IM02        ?  1987.xx ..... ISBN .-.....-...-.
+o IMAG        ?  1987.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 29, 30, 32, 35, 36, 37, 40 et 41
 - .o .     R     _TRUDEL Jean-Louis           Le Ressuscit‚ de l'Atlantide ş1987
 !-----------------------------------------------------------------------------
-_ IM03    <b>in</b> Imagine (Canada) nø 48, 49, 51 et 52
-o IM03        ?  1990.xx ..... ISBN .-.....-...-.
+o IMAG        ?  1990.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 48, 49, 51 et 52
 - .o .     R     _FRIGERIO Victor             Les DerniŠres Heures ş1990
 !-----------------------------------------------------------------------------
-_ IM04    <b>in</b> Imagine (Canada) nø 55, 56, 57 et 58
-o IM04        ?  1991.xx ..... ISBN .-.....-...-.
+o IMAG        ?  1991.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 55, 56, 57 et 58
 - .o .     R     _CORBEIL Pierre              La Concession ş1991
 !-----------------------------------------------------------------------------
-_ IM05    <b>in</b> Imagine (Canada) nø 64, 65, 66 et 67
-o IM05        ?  1994.xx ..... ISBN .-.....-...-.
+o IMAG        ?  1994.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+>--- SERIAL : nø 64, 65, 66 et 67
 - .o .     R     _TREMBLAY Danielle           Pas de paradis sans... l'enfer ş1994
 !-----------------------------------------------------------------------------
 
@@ -265,8 +265,8 @@ o IMAG       17  1983.xx ..... ISBN .-.....-...-.
 !--- + Chronique : BD et autres images (2), de Catherine Saouter Caya
 o IMAG       18  1983.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
+!--- (Vol. V, nø 1) (Aout-sept. 83)
 - .o .     M5    ****                         Imagine... 18 - Sp‚cial SF & ‚rotisme - II ş1983
-!--- (Vol. V, nø 1) (Aout-sept. 83) ş1983
 : .o .     N     _FERNANDEZ Danielle          Les Aventures d'Op‚rata ş1983
 : .o .     N     _CAILYAN Adrien              La Boutique des sens ş1983
 !--- indiqu‚ CAYLIAN dans le sommaire
@@ -367,9 +367,9 @@ o IMAG       29  1985.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     M4    ****                         Imagine... 29 ş1985
 : .o .     N     _APRIL Jean-Pierre           La Survie en rose ş1985
-: .o .     N     _ROCHON Esther               La Double jonction des ailes ş1984
+: .o .     N     _ROCHON Esther               La Double Jonction des ailes ş1984
 : .o .     N     _SEVIGNY Marc                La Zone ş1985
-: .o .     N     _TRUDEL Jean-Louis           Le Ressuscit‚ de l'Atlantide [Le Ressuscit‚ de l'Atlantide - 1] ş1985
+) .o .     N     _TRUDEL Jean-Louis           Le Ressuscit‚ de l'Atlantide [Le Ressuscit‚ de l'Atlantide - 1] ş1985
 o IMAG       30  1985.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     M7    ****                         Imagine... 30 - Sp‚cial SF francophone ş1985
@@ -378,7 +378,7 @@ o IMAG       30  1985.xx ..... ISBN .-.....-...-.
 : .o .     N     _DUNYACH Jean-Claude         Projection priv‚e ş1985
 : .o .     N     _FAYARD Colette              L'Enfance d'Icare ş1985
 : .o .     N     _ISS Raymond                 Le Rat ş1985
-: .o .     N     _TRUDEL Jean-Louis           Le MaŒtre du pass‚ [Le Ressuscit‚ de l'Atlantide - 2] ş1985
+) .o .     N     _TRUDEL Jean-Louis           Le MaŒtre du pass‚ [Le Ressuscit‚ de l'Atlantide - 2] ş1985
 : .o .     N     _VOLODINE Antoine            D‚grisement de la minuit ş1985
 o IMAG       31  1985.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -391,7 +391,7 @@ o IMAG       32  1985.xx ..... ISBN .-.....-...-.
 : .o .     N     _HEBERT Louis-Philippe       L'Antiquaire des ann‚es 2020 ş1985
 : .o .     N     _LEGARE Huguette             Histoire d'un ‚trange sel marin ş1985
 : .o .     N     _SOMCYNSKY Jean-Fran‡ois     Omega 8 est amoureux ş1985
-: .o .     N     _TRUDEL Jean-Louis           Le Policier [Le Ressuscit‚ de l'Atlantide - 3] ş1985
+) .o .     N     _TRUDEL Jean-Louis           Le Policier [Le Ressuscit‚ de l'Atlantide - 3] ş1985
 : .o .     N     _VANASSE Andr‚               D‚rive en Amazonie ş1985
 : .o .     N     _VERREAULT Sabine            Le Dormeur dans le cristal ş1985
 o IMAG       33/ 1986.xx ..... ISBN .-.....-...-.
@@ -406,7 +406,7 @@ o IMAG       35  1986.xx ..... ISBN .-.....-...-.
 : .o .     N     _GRUDZIEN Guy                Harold et ChimŠne Roman d'Amour ş1986
 : .o .     N     _LAINE Sylvie                Carte blanche ş1986
 : .o .     N     _NOWAK Merc‚dŠs              Mariage mixte ş1986
-: .o .     N     _TRUDEL Jean-Louis           Le MaŒtre des esprits [Le Ressuscit‚ de l'Atlantide - 4] ş1986
+) .o .     N     _TRUDEL Jean-Louis           Le MaŒtre des esprits [Le Ressuscit‚ de l'Atlantide - 4] ş1986
 : .o .     N     _VERREAULT Sabine            Ailleurs et au Japon ş1986
 o IMAG       36  1986.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -417,7 +417,7 @@ o IMAG       36  1986.xx ..... ISBN .-.....-...-.
 : .o .     N     _FAYARD Colette              Les Fleurs de l'abŒme ş1986
 : .o .     N     _KUGLER Marianne             Le Cerveau de la pomme ş1986
 : .o .     N     _PERROT-BISHOP Annick        L'Ourlandine ş1986
-: .o .     N     _TRUDEL Jean-Louis           Le Fugitif [Le Ressuscit‚ de l'Atlantide - 5] ş1986
+) .o .     N     _TRUDEL Jean-Louis           Le Fugitif [Le Ressuscit‚ de l'Atlantide - 5] ş1986
 o IMAG       37  1986.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     M10   ****                         Imagine... 37 ş1986
@@ -432,7 +432,7 @@ o IMAG       37  1986.xx ..... ISBN .-.....-...-.
 : .o .     N     _LAPOINTE Pascal             En l'an mil cent d‚cante huit... ş1986
 : .o .     N     _LEPAGE Gilles               Soleil de glace ş1986
 : .o .     N     _MARCHILDON Daniel           L'Orphelin ş1986
-: .o .     N     _TRUDEL Jean-Louis           Le Ressuscit‚ de l'h“pital [Le Ressuscit‚ de l'Atlantide - 6] ş1986
+) .o .     N     _TRUDEL Jean-Louis           Le Ressuscit‚ de l'h“pital [Le Ressuscit‚ de l'Atlantide - 6] ş1986
 o IMAG       38  1987.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     M1    ****                         Imagine... 38 - Regards ş1987
@@ -459,7 +459,7 @@ o IMAG       40  1987.xx ..... ISBN .-.....-...-.
 : .o .     N     _EDWARDS Geoffrey            Un pas de plus ş1987
 : .o .     N     _NOWAK Merc‚dŠs              Le Robot ş1987
 : .o .     N     _PREVOST Claude-Michel       Procrastination City ş1987
-: .o .     N     _TRUDEL Jean-Louis           Premier ‚pisode [Le Ressuscit‚ de l'Atlantide - 7] ş1987
+) .o .     N     _TRUDEL Jean-Louis           Premier ‚pisode [Le Ressuscit‚ de l'Atlantide - 7] ş1987
 : .o .     N     _VOLODINE Antoine            Spectre de la vie en jaune ş1987
 o IMAG       41  1987.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
@@ -469,7 +469,7 @@ o IMAG       41  1987.xx ..... ISBN .-.....-...-.
 : .o .     N     _LEPAGE Gilles               Le D‚fi ş1987
 : .o .     N     _PREVOST Claude-Michel       La Marquise de Tchernobyl ş1987
 : .o .     N     _TROGNEE Andr‚               La Salle de la mort volontaire ş1987
-: .o .     N     _TRUDEL Jean-Louis           Le Retour [Le Ressuscit‚ de l'Atlantide - 8] ş1987
+) .o .     N     _TRUDEL Jean-Louis           Le Retour [Le Ressuscit‚ de l'Atlantide - 8] ş1987
 o IMAG       42  1987.12 ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     Mx    ****                         Imagine... 42 ş1987

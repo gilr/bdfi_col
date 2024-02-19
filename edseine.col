@@ -1,8 +1,8 @@
 
 
 !-----------------------------------------------------------------------------
-_ EdSEINE Ed. de la Seine
-_ SEINESU Ed. de la Seine, Coll. SuccŠs du Livre
+_ EdSEINE Editions de la Seine
+_ SEINESU Editions de la Seine - SuccŠs du Livre
 !-----------------------------------------------------------------------------
 !---
 !-----------------------------------------------------------------------------
@@ -24,6 +24,10 @@ o SEINESU     ?  1989.xx ..... ISBN 2-7382-0159-8
 o SEINESU     ?  1989.xx ..... ISBN 2-7382-0221-7
 } esslsk03       _?                           ?
 - .o .     R     _KING Stephen                Christine - La Voiture qui tue þ1983 Christine þTrad. MILPOIS Marie
+o SEINESU     ?  1989.xx ..... ISBN 2-7382-0260-8
+} noimg          _?                           ?
+!--- GF - 24 cm - 412 pages - 59 francs
+- .oF.     R     _KOONTZ Dean R.              Chasse … mort þ1987 Watchers þTrad. CHATELAIN Evelyne
 !------------------------
 !=== 1990
 !------------------------
@@ -34,7 +38,7 @@ o SEINESU     ?  1990.xx ..... ISBN 2-7382-0342-6
 - .o .     R     _KING Stephen                Charlie þ1980 Firestarter þTrad. LENNOX F.M.
 o SEINESU     ?  1990.xx ..... ISBN 2-7352-0369-8
 } suclivhitch1   _?                           ?
-- .pFP     A18   *HITCHCOCK Alfred            Histoires … n'en pas revenir þ? ?
+- .pFP    kA18   *HITCHCOCK Alfred            Histoires … n'en pas revenir þ1988
 : .? .     N     _FARR Douglas                Il y a un assassin parmi nous þ1959 Is There a Murderer Here?
 : .? .     N     _HENDERSON Dion              L'Art d'ˆtre pŠre þ1961 Babysitter
 : .? .     N     _RITCHIE Jack                Adieu, m‚moire ! þ1961 Goodbye, Memory
@@ -44,7 +48,8 @@ o SEINESU     ?  1990.xx ..... ISBN 2-7352-0369-8
 : .? .     N     _HARRIS Larry M.             Meurtre, soci‚t‚ anonyme þ1959 The World's Oldest Motive
 : .? .     N     _HONIG Donald                Le Petit Fant“me du lac þ1957 Sweet Spirit
 : .? .     N     _AUSTIN Alex                 Le Tueur þ1961 The Crazy Wine
-: .? .     N     _LINK W. & LEVINSON R.       Au voleur ! þ1959 Robbery, Robbery!
+: .? .     N     _LINK William               &Au voleur ! þ1959 Robbery, Robbery!
+&  ?             _LEVINSON Richard            
 : .? .     N     _ALTER Robert Edmond         L'Agent secret þ1959 It Couldn't Possibly Happen
 : .? .     N     _NIELSEN Helen               Ne t'assois pas dans le sous-bois þ1959 Don't Sit Under the Apple Tree
 : .? .     N     _GILFORD C.B.                Adorable victime þ1958 An Adorable Victim
@@ -58,66 +63,68 @@ o SEINESU     ?  1990.xx ..... ISBN 2-7352-0370-1
 - .pFP     A19   *HITCHCOCK Alfred            Histoires diablement habiles þ1988
 : .? .     N     _LESLIE O.H.                 DerriŠre la porte close þ1961 Behind the Locked Door
 : .? .     N     _WALTON Bryce                Le D‚faut de la cuirasse þ1960 Suit of Armor: Size 36
-: .? .     N     _MARTIN Donald               Point de chute þ? ?
-: .? .     N     _GILFORD C.B.                Comme dans un cauchemar þ? ?
-: .? .     N     _ARTHUR Robert               De quoi mourir de rire þ? ?
+: .? .     N     _MARTIN Donald               Point de chute þ? Man with a Problem
+: .? .     N     _GILFORD C.B.                Comme dans un cauchemar þ? Disaster as in a Dream
+: .? .     N     _ARTHUR Robert               De quoi mourir de rire þ1958 You Can Die Laughing
 : .? .     N     _FLORA Fletcher              Un tendre þ1956 A Soft Spot for Maddy
 : .? .     N     _O'CONNOR Lawton             Nom d'emprunt þ1958 The Alias
-: .? .     N     _HONIG Donald                Un gibier pr‚cieux þ? ?
-: .? .     N     _CAROUSSO George             Une question d'acoustique þ1961 A Matter of Acoustics
+: .? .     N     _HONIG Donald                Un gibier pr‚cieux þ? The Man we Found
+: .? .     N     _CAROUSSO Georges            Une question d'acoustique þ1961 A Matter of Acoustics
 : .? .     N     _FORBES De                   Ma soeur Annabelle þ1962 My Sister Annabelle
 : .? .     N     _RUBIN Mann                  Une voiture qui la suivait þ1958 The Car Behind Her
 : .? .     N     _FARR Douglas                Un coin perdu þ1960 Lonely Place
-: .? .     N     _MURRAY John                 Un ami v‚ritable þ? ?
+: .? .     N     _MURRAY John                 Un ami v‚ritable þ? Great Men Can Die
 : .? .     N     _SLESAR Henry                La Vie qui s'en va þ1958 The Life you Lose
 : .? .     N     _BROOKS Helen Fislar         DerniŠre volont‚ þ1957 Last Request
-: .? .     N     _GRENZEBACK Joe              A la v“tre ! þ? ?
+: .? .     N     _GRENZEBACK Joe              A la v“tre ! þ? Bottoms Up
 : .? .     N     _PAWLEY EugŠne               La Veste rouge þ1957 The Red Jacket
 : .? .     N     _CARROLL Roy                 L'Hypnotiseur þ1957 The Hypnotist
-: .? .     N     _TOTHE Don                   Cauchemar ou trop beau rˆve ? þ? ?
+: .? .     N     _TOTHE Don                   Cauchemar ou trop beau rˆve ? þ? The Enforcer
 !------------------------
 !=== 1991
 !------------------------
 o SEINESU     ?  1991.xx ..... ISBN 2-7382-0420-1
 } suclivhitch3   _?                           ?
-- .pFP     A14   *HITCHCOCK Alfred            Histoires … sang pour sang þ?
+- .pFP     A14   *HITCHCOCK Alfred            Histoires … sang pour sang þ1989
 : .? .     N     _DEMING Richard              Avec assurance þ1966 The Monster Brain
-: .? .     N     _EINSTEIN Charles            L'Indice chiffr‚ þ1958 Sorry, Right Number
+: .! .     N     _EINSTEIN Charles            L'Indice chiffr‚ þ? The Episode of the Telephone Number
 : .? .     N     _ELLSON Hal                  Le Vendeur de pulque þ1963 The Pulque Vendor
 : .? .     N     _FARR Douglas                Conscience professionnelle þ1959 Sam's Conscience
-: .? .     N     _FISHER Bruce M.             La Couleur du crime þ? ?
-: .? .     N     _GILFORD C. B.               Attention, homme dangereux ! þ1958 Beware: Dangerous Man
-: .? .     N     _LACY Ed                     Un Sh‚rif pas comme les autres þ1963 The Swinging Sheriff
-: .? .     N     _LYNDS Dennis                Pseudo-nŠgre þ? ?
-: .? .     N     _PORGES Arthur               Jamie intervient þ1966 Jamie Zeroes
-: .? .     N     _POWELL Talmage              Seul t‚moin þ1966 Lone Witness
+: .? .     N     _FISHER Bruce M.             La Couleur du crime þ? Tinting Base
+: .? .     N     _GILFORD C.B.                Attention, homme dangereux ! þ1958 Beware: Dangerous Man
+: .? .     N     _LACY Ed                     Un sh‚rif pas comme les autres þ1963 The Swinging Sheriff
+: .? .     N     _LYNDS Dennis                Pseudo-nŠgre þ? Silent Partner
+: .? .     N     _PORGES Arthur               Janie intervient þ1966 Janie Zeroes in
+: .? .     N     _POWELL Talmage              Culbutes þ1966 Lone Witness
 : .? .     N     _SATTERTHWAIT Walter         Chasse au sorcier þ1983 To Catch a Wizard
 : .? .     N     _SLESAR Henry                Pleurez pour les coupables þ1962 Weep for the Guilty
-: .? .     N     _STADLEY Pat                 D‚m‚nagements sans m‚nagements þ? ?
-: .? .     N     _YOUNG Alan K.               Tel est pris þ? ?
+: .? .     N     _STADLEY Pat                 D‚m‚nagements sans m‚nagements þ? Kurdistan Payload
+: .? .     N     _YOUNG Alan K.               Tel est pris... þ? Auction at Mckay's Corners
 o SEINESU     ?  1991.xx ..... ISBN 2-7382-0421-X
 } suclivhitch4   _?                           ?
-- .pFP    iA20   *HITCHCOCK Alfred            Histoires macabres ((Histoires macabres, Hitchcock)) þ1988
-: .? .     N     _BOLAND John                 Cheng-Yu þ? ?
-: .? .     N     _BROOKS Helen Fislar         Le Manteau de vison þ? ?
-: .? .     N     _CULLINGFORD Guy             Changement de programme þ? ?
-: .? .     N     _DEAL Borden                 Vacances d'un homme malheureux þ? ?
-: .? .     N     _DECKER Duane                Quatre chances sur cinq þ? ?
-: .? .     N     _FOLB Jay                    Un faux calcul þ? ?
-: .? .     N     _GEORGE Stanley              Sur la piste des diamants þ? ?
-: .? .     N     _GILFORD C.B.                Comment s'en d‚barrasser þ? ?
-: .? .     N     _HARDWICK Richard            La Mort en prime þ? ?
-: .? .     N     _HOCH Edward D.              Les Survivants þ1962 Dial 120 for Survival
-: .? .     N     _LEINO Clarence              Un peu de piti‚ þ? ?
-: .? .     N     _LESLIE O.H.                 Ceci est ma confession þ? ?
-: .? .     N     _O'CONNELL Steve             L'Oeil tranquille þ? ?
-: .? .     N     _PORGES Arthur               La Salamandre þ? ?
-: .? .     N     _RUBIN Mann                  Robot malgr‚ lui þ? ?
-: .? .     N     _SHOELLIE Henry              R‚flexions avant le crime þ? ?
-: .? .     N     _TREAT Lawrence              Ca fait des bulles þ? ?
-: .? .     N     _TYRE Nedra                  Indice floral þ? ?
-: .? .     N     _TREMONT Philip              M‚fiez-vous des sourds þ? ?
-: .? .     N     _WALTON Bryce                Une mort ou une autre þ? ?
+- .pFP     A22   *HITCHCOCK Alfred            Histoires macabres ((Histoires macabres, Hitchcock)) þ1988
+: .? .     N     _BOLAND John                 Cheng-Yu þ1958 Cheng-Yu þTrad. GREGOIRE Catherine
+: .? .     N     _BROOKS Helen Fislar         Le Manteau de vison þ1958 The Mink Coat þTrad. FLURY Marc
+: .? .     N     _CULLINGFORD Guy             Changement de programme þ1958 Change Partners þTrad. GREGOIRE Catherine
+: .? .     N     _DEAL Borden                 Vacances d'un homme malheureux þ1959 Holiday for an Unhappy Man þTrad. CASTEL Joseph
+: .? .     N     _DECKER Duane                Quatre chances sur cinq þ? Point the Man Out þTrad. IZABELLE P.J.
+: .? .     N     _FOLB Jay                    Un faux calcul þ? Wanted Immediate Inheritance þTrad. MILLOT-JACQUIN Simone
+: .? .     N     _GEORGE Stanley              Sur la piste des diamants þ1958 Diamonds in the Rough þTrad. ROUVRE St‚phane
+: .? .     N     _GILFORD C.B.                Comment s'en d‚barrasser... þ? The Dangerfield Saga þTrad. ROUVRE St‚phane
+: .? .     N     _HARDWICK Richard            La Mort en prime þ? Beginner's Luck þTrad. LAUFFRAY Christine
+: .? .     N     _HOCH Edward D.              Les Survivants þ1962 Dial 120 for Survival þTrad. GREGOIRE Catherine
+: .? .     N     _LEINO Clarence              Un peu de piti‚ ! þ? Seasoned with Mercy þTrad. NICOLETE et DARCIS Pierre
+: .? .     N     _LESLIE O.H.                 Ceci est ma confession þ? Personal Challenge þTrad. ROUVRE St‚phane
+: .? .     N     _LINK William               &Impasse au cerveau þ1961 No Name, Address, Identity þTrad. GREGOIRE Catherine
+&  ?             _LEVINSON Richard            
+: .? .     N     _O'CONNELL Steve             L'Oeil tranquille þ? The Quiet Eye þTrad. GREGOIRE Catherine
+: .? .     N     _PORGES Arthur               La Salamandre þ1962 Salamander þTrad. NICOLETE et DARCIS Pierre
+: .oS.     N     _RUBIN Mann                  Robot malgr‚ lui þ? Robot with a Gun þTrad. IZABELLE P.J.
+: .? .     N     _SHOELLIE Henry              R‚flexions avant le crime þ? Thoughts Before Murder þTrad. ROUVRE St‚phane
+: .? .     N     _TREAT Lawrence              Ca fait des bulles þ1960 Another Day, Another Murder þTrad. CASTEL Joseph
+: .? .     N     _TYRE Nedra                  Indice floral þ? Daisies Deceive þTrad. HERSANT Denise
+: .? .     N     _TREMONT Philip              M‚fiez-vous des sourds þ? Speak no Evil, Hear no Evil þTrad. VILLATTE Lucienne J.
+: .? .     N     _WALTON Bryce                Une mort ou une autre þ1962 Never Hang Another þTrad. GREGOIRE Catherine
 o SEINESU     ?  1991.xx ..... ISBN 2-7382-0442-2
 } esslsk05       _?                           ?
 - .o .     R     _KING Stephen                Simetierre þ1983 Pet Sematary þTrad. LASQUIN Fran‡ois
@@ -168,6 +175,10 @@ o SEINESU     ?  1994.xx ..... ISBN 2-7382-0688-3
 + SEINESU     ?  1998.xx ..... ISBN 2-7382-0688-3
 } esslsk08r98    _?                           ?
 - .oF.     R     _KING Stephen                Terres perdues [La Tour sombre - 3] þ1991 The Waste Lands þTrad. BREQUE Jean-Daniel & POULAIN C.
+o SEINESU     ?  1994.xx ..... ISBN 2-7382-0735-9
+} noimg          _?                           ?
+!--- GF - 23 cm - 464 pages - 88 francs
+- .oF.     R     _KOONTZ Dean R.              Midnight þ1989 Midnight þTrad. DESMOND William Olivier
 !------------------------
 !=== 1995
 !------------------------
@@ -182,12 +193,18 @@ o SEINESU     ?  1995 xx R.... ISBN 2-7382-0841-X
 : .oF.     N     _TESSIER Thomas              Provende þ1988 Food
 : .oF.     N     _HARRISON M. John            Le Grand Dieu Pan þ1988 The Great God Pan
 : .oF.     N     _MORRELL David               Orange pour l'angoisse, bleu pour la folie þ1988 Orange Is for Anguish, Blue for Insanity
-: .oF.     N     _STRAUB Peter                Le Gen‚vrier þ1988 The Juniper Tree
+: .oF.     N     _STRAUB Peter                Le Gen‚vrier [Blue Rose] þ1988 The Juniper Tree
 : .oF.     N     _GRANT Charles L.            Contes et l‚gendes des morts þ1988 Spinning Tales With the Dead
 : .oF.     N     _LIGOTTI Thomas              La DerniŠre Aventure d'Alice þ1988 Alice's Last Adventure
 : .oF.     N     _CAMPBELL J. Ramsey          La prochaine fois, vous me reconnaŒtrez þ1988 Next Time You'll Know Me
 : .oF.     N     _STRIEBER Whitley            La Piscine þ1988 The Pool
 : .oF.     N     _CADY Jack                   A cause des t‚nŠbres þ1988 By Reason of Darkness
+o SEINESU     ?  1995.xx ..... ISBN 2-7382-0780-4
+} noimg          _?                           ?
+- .o .     R     _KOONTZ Dean R.              La Maison interdite þ1990 The Bad Place þTrad. BREQUE Jean-Daniel
+o SEINESU     ?  1995.xx ..... ISBN 2-73-820846-0
+} noimg          _?                           ?
+- .o .     R     _KOONTZ Dean R.              FiŠvre de glace þ1991 Cold Fire þTrad. PAGEL Michel
 !------------------------
 !=== 1996
 !------------------------
@@ -212,7 +229,7 @@ o SEINESU     ?  1996.xx ..... ISBN 2-7382-0901-7
 : .oT.     N     _McGRATH Patrick             Cleave le vampire þ1991 Cleave the Vampire or a Gothic Pastorale þTrad. BREQUE Jean-Daniel
 : .oT.     N     _AICKMAN Robert              Les ‚p‚es þ1969 The Swords þTrad. BREQUE Jean-Daniel
 : .oT.     N     _BANKS Carolyn               La Salon satin þ1991 Salon Satin þTrad. BREQUE Jean-Daniel
-: .oT.     N     _HICHENS Robert S.           Comment l'amour s'imposa au professeur Guildea þ1900 How Love Came to Professor Guildea þTrad. RAS Jos
+: .oT.     r     _HICHENS Robert S.           Comment l'amour s'imposa au professeur Guildea þ1900 How Love Came to Professor Guildea þTrad. RAS Jos
 : .oT.     N     _ZINNES Harriet              Les Ailes þ1988 Wings þTrad. BREQUE Jean-Daniel
 : .oT.     N     _GILCHRIST R. Murray         Le Basilic þ1894 The Basilic þTrad. BREQUE Jean-Daniel
 : .oT.     N     _CARROLL Jonathan            Le Jeu de l'autre þ1989 A Quarter Past You þTrad. BREQUE Jean-Daniel
@@ -223,6 +240,21 @@ o SEINESU     ?  1996.xx ..... ISBN 2-7382-0901-7
 : .oT.     N     _CARTER Angela               MaŒtre þ1974 Master þTrad. CARTANO Fran‡oise
 : .oT.     N     _DONALDSON Stephen R.        Le Ver conqu‚rant þ1983 The Conqueror Worm þTrad. BREQUE Jean-Daniel
 : .oT.     N     _BARKER Clive                Le Testament de Jacqueline Ess þ1984 Jacqueline Ess: Her Will and Testament þTrad. DILL Dominique
+o SEINESU     ?  1996.xx ..... ISBN 2-73820-893-2
+} noimg          _?                           ?
+!--- GF - 23 cm - 447 pages - 67 francs
+- .o .     R     _BARKER Clive                Le Jeu de la damnation þ1985 Damnation Game þTrad. BREQUE Jean-Daniel
+!------------------------
+!=== 1997
+!------------------------
+o SEINESU     ?  1997.xx ..... ISBN 2-7382-0955-6
+} noimg          _?                           ?
+- .oTF    kN5    _BARKER Clive                Confessions d'un linceul [Livres de sang - 3] þ1984 Books of Blood III þTrad. DEVAUX-MINIE H‚lŠne
+: .o .     N     _BARKER Clive                L'Enfant de cellulo‹d þ1984 Son of Celluloid þTrad. DEVAUX-MINIE H‚lŠne
+: .o .     r     _BARKER Clive                Rawhead Rex þ1984 Rawhead Rex þTrad. DEVAUX-MINIE H‚lŠne
+: .o .     N     _BARKER Clive                Confessions d'un linceul (de pornographe) þ1984 Confessions of a (Pornographer's) Shroud þTrad. DEVAUX-MINIE H‚lŠne
+: .o .     N     _BARKER Clive                Les Boucs ‚missaires þ1984 Scape-Goats þTrad. DEVAUX-MINIE H‚lŠne
+: .o .     r     _BARKER Clive                D‚bris humains þ1984 Human Remains þTrad. DEVAUX-MINIE H‚lŠne
 !------------------------
 !=== 1998
 !------------------------

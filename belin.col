@@ -1,9 +1,10 @@
 !-----------------------------------------------------------------------------
-_ BELIN   Ed. Belin
-_ BELINSU Ed. Belin, Coll. Sujets
-_ BELINCC Ed. Belin - Gallimard, Coll. Classico Colläge
-_ BELINLY Ed. Belin - Gallimard, Coll. Classico LycÇe
-_ BELINBO Ed. Belin Çducation, Coll. Boussole
+_ BELIN   Belin
+_ BELINSU Belin - Sujets
+_ BELINDE Belin - DÇclic
+_ BELINCC Belin + Gallimard - Classico Colläge
+_ BELINLY Belin + Gallimard - Classico LycÇe
+_ BELINBO Belin - Belin Çducation - Boussole
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
@@ -17,6 +18,18 @@ o BELIN       ?  2003.xx ..... ISBN 2-7011-3342-4
 } noimg          _?                           ?
 - .o .     E     _LABBE Denis                &Les Mots du merveilleux et du fantastique ˛2003
 &                _MILLET Gilbert              
+o BELINDE     ?  2021.08 ..... ISBN 979-10-358-1728-2
+} noimg          _?                           ?
+!--- Poche - 135x185 - 192 pages - 3,90 euros
+- .o .     r     _STEVENSON Robert Louis      L'êtrange Cas du Dr Jekyll et de Mr Hyde ˛1885 The Strange Case of Dr Jekyll and Mr Hyde ˛Trad. VARLET ThÇo
+o BELINDE     ?  2022.08 ..... ISBN 979-10-358-2258-3
+} noimg          _?                           ?
+!--- Poche - 135x185 - 192 pages - 3.95 euros
+- .oF.    kA4    ****                         4 nouvelles de vampires ˛2022
+: .oF .    N     _POLIDORI John-William       Le Vampire ˛1819 The Vampyre, a Tale by the Right Honourable Lord Byron ˛Trad. ?
+: .oF.va   N     _GAUTIER ThÇophile           La Morte amoureuse ˛1836
+: .oF.     N     _STOKER Bram                 L'InvitÇ de Dracula ˛1914 Dracula's Guest / Dracula's Daughter ˛Trad. ?
+: .o .     N     _OWEN Thomas                 Le Chasseur ˛1965
 
 !-----------------------------------------------------------------------------
 !--- Boussole
@@ -57,7 +70,7 @@ o BELINBO     ?  2018.03 ..... ISBN 978-2-410-01111-2
 !--- Choix des nouvelles, notes et dossier pÇdagogique d'Isabelle Antonini
 - .oF.     A6    ****                         6 Histoires effrayantes ˛2018
 : .o .   9 N     _MAUPASSANT Guy de           Apparition ˛1883
-: .o .  23 N     _BUZZATI Dino                Le Veston ensorcelÇ ˛1966 La giacca stregata ˛Trad. ?
+: .o .  23 N     _BUZZATI Dino                Le Veston ensorcelÇ ˛1962 La giacca stregata ˛Trad. ?
 : .oK.  37 n     _STERNBERG Jacques           La Vitre ˛1974
 : .o .  39 N     _FRIOT Bernard               La Chose ˛1988
 : .o .  43 N     _STAMPER J.B.                Rue du Cimetiäre ˛1989 Cemetery Road
@@ -70,7 +83,7 @@ o BELINBO     ?  2018.03 ..... ISBN 978-2-410-01118-0
 : .o .  17 N     _KIPLING Rudyard             Le RhinocÇros et sa peau ˛1898 How the Rhinoceros Got His Skin ˛Trad. HUMIERES Robert d' & FABULET Louis
 : .o .  23 N     _KIPLING Rudyard             Le LÇopard et ses tÉches ˛1901 How the Leopard Got His Spots ˛Trad. HUMIERES Robert d' & FABULET Louis
 : .o .  35 N     _KIPLING Rudyard             L'Enfant d'ÇlÇphant ˛1900 The Elephant's Child ˛Trad. HUMIERES Robert d' & FABULET Louis
-: .o .  49 N     _KIPLING Rudyard             Le Chat qui s'en va tout seul ˛1902 The Cat that Walked By Himself ˛Trad. HUMIERES Robert d' & FABULET Louis
+: .o .  49 N     _KIPLING Rudyard             Le Chat qui s'en va tout seul ˛1902 The Cat That Walked by Himself ˛Trad. HUMIERES Robert d' & FABULET Louis
 : .o .  67 N     _KIPLING Rudyard             Le Chameau et sa bosse ˛1898 How the Camel Got His Hump ˛Trad. GRIPARI Pierre
 o BELINBO     ?  2018.03 ..... ISBN 978-2-410-01119-7
 } noimg          _Antoine Brivet              Antoine Brivet
@@ -179,7 +192,7 @@ o BELINCC    33  2010.02 ..... ISBN 978-2-7011-5442-8
 o BELINCC    37  2010.08 ..... ISBN 978-2-7011-5437-4
 } bgclascol037   _?                           ?
 !--- Adaptation de Martine Laffon d'apräs la traduction de Georges Lafaye
-- .oF.     X     _OVIDE                       Les MÇtamorphoses ˛? ˛Trad. Georges Lafaye
+- .oF.     X     _OVIDE                       Les MÇtamorphoses ˛? ? ˛Trad. Georges Lafaye
 o BELINCC    53  2011.03 ..... ISBN 978-2-7011-5641-5
 } bgclascol053   _John Tenniel                ?
 + BELINCC    53  2017.09 ..... ISBN 978-2-4100-0376-5
@@ -204,7 +217,7 @@ o BELINCC    93  2013.08 ..... ISBN 978-2-7011-6451-9
 : .o .     N     _ANDERSEN Hans Christian     La Petite Siräne ˛1837 Den lille Havfrue ˛Trad. RENON Anne
 o BELINCC   109  2014.08 ..... ISBN 978-2-7011-8338-1
 } bgclascol108   _?                           ?
-!--- ˛Trad. Daniel Poirion
+!--- Trad. Daniel Poirion
 - .o .     R     _CHRETIEN de TROYES          Lancelot ou le Chevalier de la charrette [Les Romans arthuriens - 3] ˛c1180
 o BELINCC   130  2016.08 ..... ISBN 978-2-7011-9674-9
 } bgclascol130   _?                           ?
@@ -234,6 +247,22 @@ o BELINCC   151  2018.08 ..... ISBN 978-2-4100-1302-3
 o BELINCC   152  2018.08 ..... ISBN 979-10-358-0182-3
 } noimg          _?                           ?
 - .oS.     R     _BRADBURY Ray                Fahrenheit 451 ˛1953 Fahrenheit 451 ˛Trad. ROBILLOT Henri + CHAMBON Jacques
+o BELINCC   165  2020.08 ..... ISBN 979-10-358-0981-2
+} noimg          _?                           ?
+!--- ? 
+- .o .     R     _BARRIE James                Peter Pan [Peter Pan] ˛1911 Peter Pan ˛Trad. ROBILLOT Henri
+o BELINCC   166  2020.08 ..... ISBN 979-10-358-0980-5
+} noimg          _?                           ?
+!--- ? 
+- .o .     R     _VERNE Jules                 Le Tour du monde en 80 jours (Texte abrÇgÇ) ˛1873
+o BELINCC   175  2021.05 ..... ISBN 979-10-358-1767-1
+} noimg          _Francesco Ciccolella        ?
+!--- YA - Poche - 125x176 - 416 pages - 3,90 euros
+- .oS.     R     _ORWELL George               1984 ˛1949 Nineteen Eighty-Four / 1984 ˛Trad. AUDIBERTI AmÇlie
+o BELINCC   186  2022.08 ..... ISBN 979-10-358-2353-5
+} noimg          _?                           ?
+!--- Jeunesse - Poche - 124x177 - 96 pages - 3.50 euros
+- .oF.     N     _YOURCENAR Marguerite        Comment Wang-Fì fut sauvÇ ˛1936
 
 
 !-----------------------------------------------------------------------------
@@ -244,12 +273,17 @@ o BELINLY    66  2011.08 ..... ISBN 978-2-7011-5631-6
 - .oS.     R     _BRADBURY Ray                Fahrenheit 451 ˛1953 Fahrenheit 451 ˛Trad. ROBILLOT Henri & CHAMBON Jacques
 o BELINLY   106  2013.08 ..... ISBN 978-2-7011-6457-1
 } noimg          _?                           ?
++ BELINLY   106  2021.08 ..... ISBN 979-10-358-1789-3
+} noimg          _?                           ?
+!--- YA - Poche - 125x176 - 177 pages - 3,50 euros
 - .oS.     R     _ORWELL George               La Ferme des animaux ˛1945 Animal Farm ˛Trad. QUEVAL Jean
 o BELINLY   117  2015.08 ..... ISBN 978-2-7011-9306-9
 } noimg          _?                           ?
 - .o .     r     _VOLTAIRE                    MicromÇgas ˛1752
 o BELINLY   137  2017.08 ..... ISBN 978-2-410-00377-2
 } bgclaslyc137   _?                           ?
+!--- TBD titre : Le Maåtre chat ou le Chat bottÇ
+!--- TBD titre : Cendrillon ou la Petite Pantoufle de verre
 - .oM.     N11   _PERRAULT Charles            Contes ((Contes de Perrault)) ˛1781
 : .o .     N     _PERRAULT Charles            Griselidis ˛1691
 : .o .     N     _PERRAULT Charles            Peau d'Éne ˛1694
@@ -258,10 +292,12 @@ o BELINLY   137  2017.08 ..... ISBN 978-2-410-00377-2
 : .o .     N     _PERRAULT Charles            Le Petit Chaperon rouge ˛1697
 : .o .     N     _PERRAULT Charles            La Barbe bleue ˛1697
 : .o .     N     _PERRAULT Charles            Le Chat bottÇ ˛1697
-!--- .     N     _PERRAULT Charles            Le Maåtre chat ou le Chat bottÇ ˛1697
 : .o .     N     _PERRAULT Charles            Les FÇes ˛1697
 : .o .     N     _PERRAULT Charles            Cendrillon ˛1697
-!--- .     N     _PERRAULT Charles            Cendrillon ou la Petite Pantoufle de verre ˛1697
 : .o .     N     _PERRAULT Charles            Riquet Ö la houppe ˛1697
 : .o .     N     _PERRAULT Charles            Le Petit Poucet ˛1697
+o BELINLY   188  2022.06 ..... ISBN 979-10-358-2254-5
+} noimg          _?                           ?
+!--- Poche - 124x177 - 420 pages - 3.50 euros
+- .oF.     R     _BALZAC HonorÇ de            La Peau de chagrin ˛1831
 

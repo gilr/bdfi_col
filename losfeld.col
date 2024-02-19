@@ -1,21 +1,24 @@
 !-----------------------------------------------------------------------------
 !---                   Editions Jo‰lle Losfeld
+!---                      Le Terrain Vague
+!---                  & Editions Le Visage vert
 !---
+!--- Pour la revue, voir visagev.col
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ TVAG    Ed. Le Terrain Vague
+_ TVAG    Le Terrain Vague
 !-----------------------------------------------------------------------------
-_ LOSF_E  Ed. Eric Losfeld
-_ LOSF_E2 Ed. Eric Losfeld, Coll. Le Second Rayon
-_ LOSF_AR Ed. Eric Losfeld, Coll. Arcanes
-_ LOSF_AI Ed. Eric Losfeld, Coll. Arcanes, L'imagination po‚tique
-_ LOSF_AV Ed. Eric Losfeld, Coll. Arcanes, Voyants
+_ LOSF_E  Eric Losfeld
+_ LOSF_E2 Eric Losfeld - Le Second Rayon
+_ LOSF_AR Eric Losfeld - Arcanes
+_ LOSF_AI Eric Losfeld - Arcanes - L'imagination po‚tique
+_ LOSF_AV Eric Losfeld - Arcanes - Voyants
 !-----------------------------------------------------------------------------
 _ LOSF    Losfeld
-_ LOSFELD Ed. Jo‰lle Losfeld
-_ LOSF_LE Ed. Jo‰lle Losfeld, Coll. Litt‚rature ‚trangŠre
-_ LOSF_LF Ed. Jo‰lle Losfeld, Coll. Litt‚rature fran‡aise
+_ LOSFELD Jo‰lle Losfeld
+_ LOSF_LE Jo‰lle Losfeld - Litt‚rature ‚trangŠre
+_ LOSF_LF Jo‰lle Losfeld - Litt‚rature fran‡aise
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
@@ -163,42 +166,37 @@ o TVAG        ?  1955.xx ..... ISBN -
 o TVAG        ?  1955.xx ..... ISBN -
 } ltv02          _Max Walter Svanberg         Philippe Curval
 - .oS.    kN7    _STERNBERG Jacques           La G‚om‚trie dans la terreur ş1955
-: .o .     N     _STERNBERG Jacques           Le But ş1955
+: .o .     n     _STERNBERG Jacques           Le But ş1955
 : .o .     N     _STERNBERG Jacques           La Fenˆtre ş1955
 : .o .     N     _STERNBERG Jacques           La Plage ş1955
 : .o .     N     _STERNBERG Jacques           Quoi ? ş1955
-: .o .     N     _STERNBERG Jacques           Le Souvenir de famille ş1955
+: .o .     n     _STERNBERG Jacques           Le Souvenir de famille ş1955
 : .o .     N     _STERNBERG Jacques           Le Film ş1955
 : .o .     N     _STERNBERG Jacques           Le Train de nuit ş1955
 o TVAG        ?  1955.xx ..... ISBN -
 } ltv03          _Max Walter Svanberg         Leonor Fini
+!--- 190 x 240 mm - 
 !--- quinze r‚cits distincts
-- .oF.    iN15   _DEHARME Lise                Le Poids d'un oiseau ş1955
-! .o .     N     _DEHARME Lise                XXX ş1955
-! .o .     N     _DEHARME Lise                XXX ş1955
+- .oF.    iNx    _DEHARME Lise                Le Poids d'un oiseau ş1955
 : .o .     N     _DEHARME Lise                Le Plomb dans l'aile ş1955
 : .o .     N     _DEHARME Lise                La N‚gresse ş1955
 : .o .     N     _DEHARME Lise                Le Vent ş1955
 : .o .     N     _DEHARME Lise                A la transparence ş1955
 : .o .     N     _DEHARME Lise                Le Revenant ş1955
 : .o .     N     _DEHARME Lise                Dans la piŠce d'… c“t‚ ş1955
-! .o .     N     _DEHARME Lise                XXX ş1955
-! .o .     N     _DEHARME Lise                XXX ş1955
 : .o .     N     _DEHARME Lise                Chassez le naturel ş1955
-! .o .     N     _DEHARME Lise                XXX ş1955
 : .o .     N     _DEHARME Lise                C'est la fin d'un beau jour ş1955
-! .o .     N     _DEHARME Lise                XXX ş1955
 : .o .     N     _DEHARME Lise                La Dame … la harpe ş1955
-!--- ordre certain au dessus, incertain pour les suivants :
-! .o .     N     _DEHARME Lise                Ca s'est pass‚ … Versailles ş1955
-! .o .     N     _DEHARME Lise                La Partie de cartes ş1955
-! .o .     N     _DEHARME Lise                Le Serpent ş1955
+: .o .     N     _DEHARME Lise                Passer au second ‚tage ş1955
+: .o .     N     _DEHARME Lise                Ca s'est pass‚ … Versailles ş1955
+: .o .     N     _DEHARME Lise                La Partie de cartes ş1955
+: .o .     N     _DEHARME Lise                Le Serpent ş1955
 !------------------------
 !=== 1956
 !------------------------
 o TVAG        5  1956.xx ..... ISBN -
 } ltv04          _Max Walter Svanberg         Marcel B‚alu
-- .oF.    iN11   _BEALU Marcel                Les Messagers clandestins ş1956
+- .oF.    iNx    _BEALU Marcel                Les Messagers clandestins ş1956
 !------------------------
 !=== 1957
 !------------------------
@@ -322,11 +320,11 @@ o TVAG        ?  1959.xx ..... ISBN -
 : .o .     n     _BEALU Marcel                La Mouche ş?
 : .o .     n     _BEALU Marcel                L'Enjeu ş?
 : .o .     n     _BEALU Marcel                Curieux compagnon ş?
-: .o .     n     _BEALU Marcel                L'Anneau ş?
+: .o .     n     _BEALU Marcel                L'Anneau ş1945
 : .o .     n     _BEALU Marcel                Entre deux clins d'oeil ş?
 : .o .     n     _BEALU Marcel                Vieux beaux ş?
-: .o .     n     _BEALU Marcel                Le Bocal ş?
-: .o .     n     _BEALU Marcel                La Chatte ş1969
+: .o .     n     _BEALU Marcel                Le Bocal ş1959
+: .o .     n     _BEALU Marcel                La Chatte ş1959
 : .o .     n     _BEALU Marcel                Le Fils singulier ş?
 : .o .     n     _BEALU Marcel                Le Talisman ş?
 : .o .     n     _BEALU Marcel                L'Amateur d'oiseau ş?
@@ -336,7 +334,7 @@ o TVAG        ?  1959.xx ..... ISBN -
 : .o .     n     _BEALU Marcel                L'tranger ş?
 : .o .     n     _BEALU Marcel                Le Jardin ş?
 : .o .     n     _BEALU Marcel                Les Vagabonds horribles ş?
-: .o .     n     _BEALU Marcel                Voyageur endormi ş?
+: .o .     n     _BEALU Marcel                Voyageur endormi ş1945
 : .o .     n     _BEALU Marcel                La Corde ş?
 : .o .     n     _BEALU Marcel                La Bulle verte ş?
 : .o .     n     _BEALU Marcel                Plume joyeuse ş?
@@ -511,7 +509,6 @@ o TVAG        ?  1960.12 ..... ISBN -
 : .o .     n     _STERNBERG Jacques           L'Emballage ş1960
 : .o .     n     _STERNBERG Jacques           La Fuite ş1953
 : .o .     n     _STERNBERG Jacques           L'Employ‚ des postes ş1953
-!--- TBD 53 ou 60 ?
 : .o .     n     _STERNBERG Jacques           L'Inconnu ş1960
 : .o .     n     _STERNBERG Jacques           L'Inexplicable ş1953
 : .o .     n     _STERNBERG Jacques           Le Rideau ş1953
@@ -535,7 +532,7 @@ o TVAG        ?  1960.xx ..... ISBN -
 !------------------------
 o LOSF_E      ?  1961.xx ..... ISBN -
 }losfeld_ab_cn   _?                           ?
-- .o .     N12   _BIERCE Ambrose              Contes noirs ş1961
+- .oF.     N12   _BIERCE Ambrose              Contes noirs ş1961
 : .o .     N     _BIERCE Ambrose              Par une nuit d'‚t‚ ş1906 One Summer Night şTrad. PAPY Jacques
 : .o .     N     _BIERCE Ambrose              La Fenˆtre condamn‚e ş1891 The Boarded Window şTrad. PAPY Jacques
 : .o .     N     _BIERCE Ambrose              Histoire de fou ş1887 The Man Out of the Nose şTrad. PAPY Jacques
@@ -615,15 +612,15 @@ o TVAG        ?  1967.xx ..... ISBN -
 - .oF.    _N4    _LE FANU J. Sheridan         Les Cr‚atures du miroir, ou les papiers du docteur Hesselius [Le Dr. Hesselius] ş1872 In a Glass Darkly şTrad. ARNAUD Michel
 : .o .     N     _LE FANU J. Sheridan         Th‚ vert [Le Dr. Hesselius] ş1869 Green Tea
 : .o .     N     _LE FANU J. Sheridan         Le Familier [Le Dr. Hesselius] ş1851 The Familiar / The Watcher
-: .o .     N     _LE FANU J. Sheridan         Monsieur le Juge Harbottle [Le Dr. Hesselius] ş1872 Mr Justice Harbottle
-: .o .     r     _LE FANU J. Sheridan         La Chambre de l'auberge du Dragon Volant [Le Dr. Hesselius] ş1872 The Room in the Dragon Volant şTrad. ARNAUD Michel
+: .o .     N     _LE FANU J. Sheridan         Monsieur le Juge Harbottle [Le Dr. Hesselius] ş1872 Mr. Justice Harbottle
+: .o .     r     _LE FANU J. Sheridan         La Chambre de l'Auberge du Dragon Volant [Le Dr. Hesselius] ş1872 The Room in the Dragon Volant şTrad. ARNAUD Michel
 o LOSF_E      ?  1967.xx ..... ISBN -
 } tlv30          _Christian Broutin           ?
 - .o .     N12   _DOREMIEUX Alain             Mondes interdits ş1967
 : .o .     N     _DOREMIEUX Alain             La Vana ş1959
 : .o .     N     _DOREMIEUX Alain             L'Habitant des ‚toiles ş1960
 : .o .     N     _DOREMIEUX Alain             Les Plaisirs de la Terre ş1960
-: .o .     N     _DOREMIEUX Alain             L'Objet de l'amour ş1963
+: .o .     N     _DOREMIEUX Alain             L'Objet de l'amour ş1964
 : .o .     N     _DOREMIEUX Alain             La Femme modŠle ş1964
 : .o .     N     _DOREMIEUX Alain             Aurora ş1965
 : .o .     N     _DOREMIEUX Alain             Journal d'une jeune fille du XXVŠme siŠcle ş1967
@@ -641,7 +638,7 @@ o LOSF_E      ?  1967.xx ..... ISBN -
 !------------------------
 o TVAG        ?  1968.xx ..... ISBN -
 } ltv35          _?                           Gustave Dor‚
-- .o .    iPx    _POE Edgar Allan             Le Corbeau et autres poŠmes ş1945 The Raven and Other Poems şTrad. PARISOT Henri
+- .oF.    iPx    _POE Edgar Allan             Le Corbeau et autres poŠmes ş1945 The Raven and Other Poems şTrad. PARISOT Henri
 o LOSF_E      ?  1968.xx ..... ISBN -
 } ltv36          _?                           Gustave Dor‚
 - .o .     R     _LEWINO Walter               L'Heure ş1959
@@ -653,13 +650,13 @@ o LOSF_E      ?  1969.xx ..... ISBN -
 - .oS.    iNx    _STERNBERG Jacques           Attention planŠte habit‚e ş1969
 o LOSF_E      ?  1969.T2 ..... ISBN -
 } losfeld_irving _CAMACHO                     ?
-- .oF.     Nx    _IRVING Washington           L'Œle fant“me ş1951
 !--- Traduction BENAYOUN Robert
 !--- Copyright Le Terrain Vague
-!---       p     _BENAYOUN Robert             Le grand compŠre des t‚nŠbres ş?
+!--- "L'Œle fant“me" est titr‚e comme telle dans la table des matiŠre, mais "L'Adalantado des sept cit‚s (L‚gende de Saint Brandaine)" dans le recueil
+!--- Ce texte est pr‚c‚d‚ d'un prologue
+- .oF.     Nx    _IRVING Washington           L'Œle fant“me ş1951
+: .o .     p     _BENAYOUN Robert             Le grand compŠre des t‚nŠbres ş1969
 : .o .     N     _IRVING Washington           L'Œle fant“me (L'Adalantado des sept cit‚s) ş1839 The Adelantado of the Seven Cities
-!--- Titr‚e "L'Œle fant“me" dans la table des matiŠre, et "L'Adalantado des
-!--- sept cit‚s (L‚gende de Saint Brandaine) dans le recueil. Pr‚c‚d‚e d'un prologue
 : .o .     N     _IRVING Washington           Rip van Winkle ş1819 Rip Van Winkle
 : .oF.     N     _IRVING Washington           L'Aventure d'un ‚tudiant allemand ş1824 The Adventure of the German Student
 : .o .     N     _IRVING Washington           Le Diable et Tom Walker ş1824 The Devil and Tom Walker
@@ -672,9 +669,9 @@ o LOSF_E      ?  1969.T2 ..... ISBN -
 !--- TBD SPIRAUX Alain    D‚lirium … la une
 o LOSF_E      ?  1970.xx ..... ISBN -
 } ltv43          _?                           N. Morel
-- .oF.     R2    _LEROUX Gaston               La Poup‚e sanglante - La Machine … assassiner ş1969
-: .o .     R     _LEROUX Gaston               La Poup‚e sanglante ş1923
-: .o .     R     _LEROUX Gaston               La Machine … assassiner ş1923
+- .oF.    kR2    _LEROUX Gaston               La Poup‚e sanglante - La Machine … assassiner [La Poup‚e sanglante - 1/2] ş1969
+: .o .     R     _LEROUX Gaston               La Poup‚e sanglante [La Poup‚e sanglante - 1] ş1923
+: .o .     R     _LEROUX Gaston               La Machine … assassiner [La Poup‚e sanglante - 2] ş1923
 
 !-----------------------------------------------------------------------------
 !--- Le Terrain Vague
@@ -733,12 +730,12 @@ o TVAG        ?  1989.xx ..... ISBN .-.....-...-.
 o TVAG        ?  1990.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .oF.    kN6    _WHARTON Edith               Grain de grenade ş1937 The Ghost Stories of Edith Wharton
-?: .o .     N     _WHARTON Edith               Miss Mary Pask ş1925 Miss Mary Pask şTrad. LEVY-PAOLONI Florence
-?: .o .     N     _WHARTON Edith               L'Ensorcel‚ ş1925 Bewitched şTrad. LEVY-PAOLONI Florence
-?: .o .     N     _WHARTON Edith               Mr Jones ş1928 Mr. Jones şTrad. LEVY-PAOLONI Florence
-?: .o .     N     _WHARTON Edith               Grain de Grenade ş1931 Pomegranate Seed şTrad. LEVY-PAOLONI Florence
-?: .o .     N     _WHARTON Edith               Le Miroir ş1935 The Looking Glass şTrad. LEVY-PAOLONI Florence
-?: .o .     N     _WHARTON Edith               Le Jour des morts ş1937 All Souls' şTrad. LEVY-PAOLONI Florence
+: .o .     N     _WHARTON Edith               Miss Mary Pask ş1925 Miss Mary Pask şTrad. LEVY-PAOLONI Florence
+: .o .     N     _WHARTON Edith               L'Ensorcel‚ ş1925 Bewitched şTrad. LEVY-PAOLONI Florence
+: .o .     N     _WHARTON Edith               Mr Jones ş1928 Mr. Jones şTrad. LEVY-PAOLONI Florence
+: .o .     N     _WHARTON Edith               Grain de Grenade ş1931 Pomegranate Seed şTrad. LEVY-PAOLONI Florence
+: .o .     N     _WHARTON Edith               Le Miroir ş1935 The Looking Glass şTrad. LEVY-PAOLONI Florence
+: .o .     N     _WHARTON Edith               Le Jour des morts ş1937 All Souls' şTrad. LEVY-PAOLONI Florence
 
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
@@ -755,29 +752,28 @@ o LOSF_E2     ?  1976.xx ..... ISBN 2-85018-096-3
 
 o LOSF        ?  1994.06 ..... ISBN 2-909906-21-3
 } noimg          _?                           ?
-- .pFP    iA20   *GREENBERG Martin H.        &La Griffe du chat ş1994
+- .pFP    _A20   *GREENBERG Martin H.        &La Griffe du chat ş1994
 &                *GORMAN Ed                   
-!--- Les meilleures nouvelles de "Cat Crimes"
-?: .? .     N     _HUGHES Dorothy B.           Cogitations d'Horace ş? ?
-?: .? .     N     _LOVESY Peter                Ginger et Louise ş? ?
-?: .? .     N     _MARON Margaret              La Bˆte int‚rieure ş? ?
-?: .? .     N     _PAUL Barbara                Chat-ba-da-ba-da ş? ?
-: .o .     N     _LUTZ John                   Dur … avaler ş1991 Finicky
-: .! .     N     _HOCH Edward D.              Le Chat de Saratoga Springs ş1992 The Saratoga Cat
-?: .? .     N     _CRIDER Bill                 Le Nouveau Chat noir ş? ?
-?: .? .     N     _JANCE J. A.                 Le Duel ş? ?
-?: .? .     N     _MACLEOD Charlotte           Une si longue pr‚sence ş? ?
-?: .? .     N     _COLLINS Barbara             Une s‚pulture d‚cente ş? ?
-?: .? .     N     _WHEAT Carolyn               La Dame qui aimait les chats ş? ?
-?: .? .     N     _HESS Joan E.                Un week-end … Lookout Lodge ş? ?
-: .o .     N     _McCRUMB Sharyn              Neuf Vies … vivre ş192 Nine Lives to Live
-?: .? .     N     _HAYDON June                 Tous les endroits se ressemblent ş? ?
-?: .? .     N     _PICKARD Nancy               Tous les mercredis ş? ?
-?: .? .     N     _REYNOLDS William J.         Dans l'angle mort ş? ?
-?: .? .     N     _RUSCH Kristine Kathryn      Cinq Chats affam‚s et un chien mort ş? ?
-?: .? .     N     _BORTON Douglas              Baiser d'adieu ş? ?
-?: .? .     N     _AMATO Barbara d'            Le Chicago Hilton bis ş? ?
-: .o .     N     _SUTER John F.              Electron ş1992 Remote
+: .o .     N     _HUGHES Dorothy B.           Cogitations d'Horace ş1991 Horatio Ruminates şTrad. CHERGE G‚rard de
+: .! .     N     _LOVESY Peter                Ginger et Louise ş? Ginger's Waterloo şTrad. MOITESSIER Agathe
+: .o .     N     _MARON Margaret              La Bˆte int‚rieure ş1992 The Beast Within şTrad. LEBAILLY Monique
+: .! .     N     _PAUL Barbara                Chat-ba-da-ba-da ş? Scat şTrad. CORDILLOT Michel
+: .o .     N     _LUTZ John                   Dur … avaler ş1991 Finicky şTrad. SCHWATZ Yann
+: .! .     N     _HOCH Edward D.              Le Chat de Saratoga Springs ş1992 The Saratoga Cat şTrad. MOITESSIER Agathe
+: .! .     N     _CRIDER Bill                 Le Nouveau Chat noir ş? The New Black Cat şTrad. SARDA Yves
+: .! .     N     _JANCE J. A.                 Le Duel ş? The Duel şTrad. SARDA Yves
+: .o .     N     _MACLEOD Charlotte           Une si longue pr‚sence ş1992 A Long Time Sitting şTrad. CHERGE G‚rard de
+: .! .     N     _COLLINS Barbara             Une s‚pulture d‚cente ş? A Proper Burial şTrad. CHERGE G‚rard de
+: .! .     N     _WHEAT Carolyn               La Dame qui aimait les chats ş? Cat Lady şTrad. CORDILLOT Michel
+: .o .     N     _HESS Joan E.                Un week-end … Lookout Lodge ş1991 A Weekend at Lookout Lodge şTrad. LEBAILLY Monique
+: .o .     N     _McCRUMB Sharyn              Neuf vies … vivre ş1992 Nine Lives to Live şTrad. SARDA Yves
+: .! .     N     _HAYDON June                 Tous les endroits se ressemblent ş? All Places are alike şTrad. MOITESSIER Agathe
+: .! .     N     _PICKARD Nancy               Tous les mercredis ş? Every Wednesday şTrad. CORDILLOT Michel
+: .! .     N     _REYNOLDS William J.         Dans l'angle mort ş? Blindsided şTrad. LEBAILLY Monique
+: .x .     N     _RUSCH Kristine Kathryn      Cinq chats affam‚s et un chien mort ş1992 Five Starving Cats and a Dead Dog şTrad. CHERGE G‚rard de
+: .! .     N     _BORTON Douglas              Baiser d'adieu ş? Last Kiss şTrad. SARDA Yves
+: .! .     N     _AMATO Barbara d'            Le Chicago Hilton bis ş? The Lower Wacker Hilton şTrad. SARDA Yves
+: .o .     N     _SUTER John F.               Electron ş1992 Remote şTrad. MOITESSIER Agathe
 o LOSF        ?  1995.xx ..... ISBN 2-207-24360-5
 } noimg          _?                           ?
 - .oS.    iNx    _STERNBERG Jacques           Dieu, moi et les autres ş1995
@@ -800,8 +796,8 @@ o LOSF        ?  1995.xx ..... ISBN .-.....-...-.
 : .o .     N     _ASIMOV Janet                Contagion ş1991 The Contagion
 o LOSF        ?  1995.xx ..... ISBN 2-909906-54-X
 } noimg          _?                           ?
-!--- 123 pages - court roman en fait
-- .o .     N     _HICHENS Robert S.           Comment le professeur Guildea rencontra l'amour ş? ? şTrad. MAYNARD Dominique
+!--- 123 pages
+- .o .     r     _HICHENS Robert S.           Comment le professeur Guildea rencontra l'amour ş1900 How Love Came to Professor Guildea şTrad. MAYNARD Dominique
 o LOSF        ?  1994.xx ..... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     R     _ALEXANDRIAN Sarane          Le Grand Astrosophe ş1994
@@ -824,7 +820,7 @@ o LOSFELD     ?  1998.09 ..... ISBN 2-84412-005-9
 - .oF.    kA14   *LEGRAND-FERRONNIERE X.      Les Chats fantastiques [Les Chats fantastiques - 1] ş1998
 : .o .     N     _BENET Stephen Vincent       Le Roi des chats ş1929 The King of Cats şTrad. Pierre JAVET
 !--- revu en 1957 par Rosemary CARR BENET
-: .o .     N     _HICHENS Robert S.           Le Retour de l'ƒme ş1896 The Return of the Soul şTrad. GAULARD Norbert
+: .o .     r     _HICHENS Robert S.           Le Retour de l'ƒme ş1896 The Return of the Soul şTrad. GAULARD Norbert
 : .o .     N     _HEARD Gerald                Le Chat, "Je suis" ş1944 The Cat "I Am" şTrad. LE GOYAT Annick
 : .o .     N     _DE LA MARE Walter           Manches … balai ş1925 Broomsticks şTrad. HOMASSEL Anne-Sylvie
 : .o .     N     _MARSH Richard               La Disparition de Mme Macrecham ş1901 The Disappearance of Mrs. Macrecham şTrad. BREQUE Jean-Daniel
@@ -836,7 +832,7 @@ o LOSFELD     ?  1998.09 ..... ISBN 2-84412-005-9
 : .o .     N     _CHAMBERS Robert W.          L'Homme … la table voisine ş1896 The Man at the Next Table şTrad. BREQUE Jean-Daniel
 : .o .     N     _SAYERS Dorothy              La Chatte de Chypre ş1933 The Cyprian Cat şTrad. HOMASSEL Anne-Sylvie
 : .o .     N     _BLACKWOOD Algernon          SortilŠges et m‚tamorphoses [John Silence] ş1908 Ancient Sorceries şTrad. PARSONS Jacques
-: .o .     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ş1920 Cats of Ulthar şTrad. MOURLON Jean-Paul
+: .o .     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ş1920 The Cats of Ulthar şTrad. MOURLON Jean-Paul
 o LOSF        ?  2000.04 ..... ISBN 2-84412-046-6
 } noimg          _?                           ?
 - .oF.     A10   *GAULARD Norbert            &La Porte ouverte - Histoires de fant“mes d'enfants ş2000
@@ -880,14 +876,16 @@ o LOSF        ?  2000.xx ..... ISBN 2-84412-071-7
 : .o .     N     _JAMES Montague Rhodes       Histoire d'une apparition et d'une disparition ş1913 The Story of a Disappearance and an Appearance
 : .o .     N     _ALLEN Grant                 La Tour de Wolfverden ş1896 Wolfverden Tower
 : .o .     N     _TIMPERLEY Rosemary          Le Visiteur de No‰l ş1951 Christmas Meeting
-: .o .     N     _SARBAN O.                   Une auberge ş1953 A House of Call
+: .o .  77 N     _SARBAN O.                   Une auberge ş1953 A House of Call şTrad. SOONCKINDT Edith
 : .o .     N     _BOWEN Marjorie              L'Assiette de porcelaine ş1933 The Crown Derby Plate
-o LOSF        ?  2001.xx ..... ISBN  2-84412-106-3
+o LOSF        ?  2001.xx ..... ISBN 2-84412-106-3
 } noimg          _?                           ?
-- .o .    iA12   *LEGRAND-FERRONNIERE X.      Histoires de No‰l ş2001
 !-- - L'interruption de service 1976 The Breakdown Marjorie Bowen
 !-- - Smee de A.M. Burrage
 !-- - La Mal‚diction des Catafalque 1882 The Curse of the Catafalques de F. Anstey
+- .o .    iAx    *LEGRAND-FERRONNIERE X.      Histoires de No‰l ş2001
+: .o .  77 N     _BURRAGE A.M.                Smee ş1929 Smee şTrad. GAULARD Norbert
+: .o . 125 N     _MUNBY A.N.L.                Le Jeu de No‰l ş1949 A Christmas Game / A Christmas Ghost şTrad. LEVY-PAOLINI Florence
 
 
 
@@ -911,7 +909,7 @@ o LOSF_AR     ?  2001.xx ..... ISBN .-.....-...-.
 !--- Publi‚ la premiŠre fois aux USA en 1985
 o LOSF_AR     ?  2001.xx ..... ISBN 2-84412-094-6
 } noimg          _?                           ?
-- .o .    kN5    _WHARTON Edith               Le Triomphe de la nuit ş1937 The Ghost Stories of Edith Wharton
+- .oF.    kN5    _WHARTON Edith               Le Triomphe de la nuit ş1937 The Ghost Stories of Edith Wharton
 !--- indiqu‚ "Volume 1"
 : .o .     N     _WHARTON Edith               La Cloche de la femme de chambre ş1902 The Lady's Maid's Bell
 : .o .     N     _WHARTON Edith               Les Yeux ş1910 The Eyes
@@ -954,415 +952,8 @@ o LOSFELD     ?  2019.05 ..... ISBN 978-2-07-078765-4
 !--- GF - 23 euros
 - .oF.     R     _McDANIEL Tiffany            L't‚ o— tout a fondu ş2016 The Summer That Melted Everything şTrad. MERCIER Christophe
 
-
 !-----------------------------------------------------------------------------
-_ VISA    Losfeld, Le Visage Vert
-!-----------------------------------------------------------------------------
-!--- Le visage vert, ‚ditions
-!--- 
-!--- Cf Bifrost nø 7
-!--- R‚dacteur en chef : Xavier LEGRAND-FERONNIERE
-!-----------------------------------------------------------------------------
-o VISA        1i 1985.01 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .oF.    kA4    *LEGRAND-FERRONNIERE X.      Le Lac du squelette et autres contes fantastiques ş1985
-: .o .     N     _LAUMANN E. M.               L'Alcyon ş1923
-: .o .     N     _BLACKWOOD Algernon          Le Lac du squelette ş1906 Skeleton Lake: An Episode in Camp
-: .o .     N     _HICHENS Robert S.           Le Gardien silencieux ş1897 A Silent Guardian
-: .o .     N     _SAUVENIERE Alfred de        L'Inexpliqu‚ ş1887
-?o VISA        2i 19xx.xx ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
-?- .o .     .     _DE LA HIRE Jean             Le Labyrinthe rouge ş?
-?o VISA        3i 19xx.xx ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
-?- .o .     .     _MACHEN Arthur               Le Grand Dieu Pan ş?
-?o VISA        4i 19xx.xx ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
-?- .o .     .     _ROYET Colonel               La Tempˆte universelle de l'an 2000 ş?
-?o VISA        5i 19xx.xx ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
-?- .o .     .     _HICHENS Robert S.           Le Charmeur de serpents ş?
-?o VISA        6i 19xx.xx ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
-?- .o .     .     _CHAMPSAUR F‚licien          Les Deux Singes ş?
-o VISA        7i 1985.04 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-!--- r‚mpression en mars 1986
-- .oF.    iA5    ****                         L'Homme-Peste et autres contes fantastiques ş1985
-: .o .     N     _RICHEPIN Jean               L'Homme-Peste ş1899
-: .o .     N     _HICHENS Robert S.           La Silhouette dans le mirage ş1905 The Figure in the Mirage şAdapt. LOGE Marc
-: .o .     N     _LAUMANN E. M.               Dans le fond des mers ş1922
-: .o .     N     _RENARD Maurice              La Damnation de l'Essen ş1926
-?: .o .     .     _SAUVENIERE Alfred de        La Femme en noir ş1906
-?o VISA        8i 19xx.xx ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
-?- .o .     .     _ROSNY-AINE J.-H.            La Jeune Fille vampire ş?
-?o VISA        9i 19xx.xx ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
-?- .o .     .     _ROBBINS Tod                 Une bouteille verte et autres contes ş?
-?o VISA       10i 19xx.xx ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
-?- .o .     .     _VARLET Th‚o                 La Belle Venere ş?
-?o VISA       11i 19xx.xx ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
-?- .o .     .     _LE FANU J.S.                Le MystŠre d'une tutelle ş?
-o VISA       13i 1987.03 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     A7    ****                         Jour de l'an chez les momies et autres contes surnaturels et de merveilleux scientifique ş1987
-: .oF.   1 N     _ALLEN Grant                 Le Jour de l'an chez les momies ş1878 My New Year's Eve Among the Mummies
-: .o .   9 N     _LAUTREC Gabriel de          Le Bocal vert ş1898
-: .o .  10 N     _LAUTREC Gabriel de          La Forˆt ş1898
-: .oS.     N     _BELIARD Octave              Aventures d'un voyageur qui explora le temps ş1909
-!--- ou "...d'un explorateur..."
-!--- Idem Le pass‚ merveilleux
-: .oF.     N     _HERING H.A.                 Deux professeurs et une momie ş1901 Two Professors and One Mummy şTrad. BONNAUD-DIAZ Madeleine
-?: .o .     N     _LINVILLE Andr‚              T.S.F. ş1935
-: .o .     N     _LAUTREC Gabriel de          Le Talisman ş1922
-?o VISA       14i 19xx.xx ..... ISBN .-.....-...-.
-?} noimg          _?                           ?
-?- .o .     .     _?                           ? ş?
-o VISA       15i 1987.10 ..... ISBN -
-} noimg          _?                           ?
-- .oF.    kN16   ****                         Miss Duveen et autres contes ‚tranges ş1987
-!--- 9 poŠmes et 4 nouvelles, plus 2 nouvelles d'autres auteurs
-: .o .     p     _SEBILLOTTE Laurent          Walter de la Mare ş1987
-: .o .     N     _DE LA MARE Walter           La Tante de Seaton ş1922 Seaton's Aunt şTrad. JEAN-AUBRY G.
-: .o .     a     _GREENE Graham               Les Nouvelles de Walter de la Mare ş1948 Tribute to Walter De La Mare on His Seventy-Fifth Birthday şTrad. SIBON Marcelle
-: .o .     P     _DE LA MARE Walter           Napol‚on ş1943 Napoleon şTrad. GERMAIN G.
-: .o .     N     _DE LA MARE Walter           Miss Duveen ş1923 Miss Duveen şTrad. SIBON Marcelle
-: .o .     N     _DE LA MARE Walter           Le Quai ş1924 The Wharf şTrad. CAMMAERTS Emile
-: .C .     C     _DE LA MARE Walter           Six poŠmes ş1921
-: .o .     P     _DE LA MARE Walter           Arabie ş1912 Arabia şTrad. DUPROIX Marthe
-: .o .     P     _DE LA MARE Walter           Les Cloches ş1912 The Bells şTrad. DUPROIX Marthe
-: .o .     P     _DE LA MARE Walter           Le Navire de Rio ş1913 The Ship of Rio şTrad. DUPROIX Marthe
-: .o .     P     _DE LA MARE Walter           Musique ş1917 Music şTrad. DUPROIX Marthe
-: .o .     P     _DE LA MARE Walter           Le Scribe ş1918 The Scribe şTrad. DUPROIX Marthe
-: .o .     P     _DE LA MARE Walter           Adieu ş1917 Fare Well şTrad. DUPROIX Marthe
-: .! .     N     _DE LA MARE Walter           La Demande du comte ş1923 The Count's Courtship şTrad. JEAN-AUBRY G.
-: .! .     a     _RIVIALE Laurence            Le Pers‚e ş1987
-: .o .     P     _DE LA MARE Walter           Les Auditeurs ş1944 The Listeners şTrad. BOFOURIE Marcel
-: .o .     N     _HARTLEY Leslie P.           Per far l'amore ş1955 Per Far L'amore şTrad. BLANCHET E. R.
-: .o .     P     _DE LA MARE Walter           L'tranger ş1934 The Stranger şTrad. BONNEROT L. et RIVOALLAN A.
-?o VISA        ?  1987.xx ..... ISBN ?
-?!--- TBD Contenu
-?!--- opuscule documentaire : etudes, 2 nouvelles, biblio
-?!--- edite en association avec les presses d'Anank‚
-?} noimg          _?                           ?
-?- .o .    iN2    _PERUTZ Leo                  Etudes ş?
-?- .o .     N     _PERUTZ Leo                  Un jour sans soir ş?
-
-o VISA        ?  2009.09 ..... ISBN 978-2-918061-08-3
-} noimg          _?                           ?
-- .oF.     R     _CHAMBERS Robert W.          Yue Laou le faiseur de lunes ş1896 The Maker of Moons şTrad. DUPONT Louis-Martin & LAURENT Achille
-
-o VISA        ?  2012.08 ..... ISBN .-.....-...-.
-!--- Fix-up of "The Harbor-Master, In Quest of the Dingue, Is the Ux Extinct, Farrago's Fate, A Matter of Interest."
-} noimg          _?                           ?
-- .oF.     R     _CHAMBERS Robert W.          En quˆte de l'inconnu ş1904 In Search of the Unknown şTrad. DUPONT Louis-Martin & LAURENT Achille
-o VISA        ?  2013.10 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .oFN    iN15   *DURAND Delphine             Chants de d‚sir - Chants de mort ş2013
-!--- La belle anthologie concoct‚e par Delphine Durand regroupe des textes de :
-!--- Paul ArŠne
-!--- Henry Bordeaux
-!--- Bernard Lazare
-!--- Charles Le Goffic
-!--- Jules LemaŒtre
-!--- Camille Lemonnier
-!--- Camille Mauclair
-!--- Catulle MendŠs
-!--- Pierre Mille
-!--- Henri de R‚gnier
-!--- Maurice Renard
-!--- Jules Ricard
-!--- Jean de Tinan
-!--- Gustave Toudouze
-!--- Ren‚e Vivien
-!--- et Jacques Yvel.
-
-!-----------------------------------------------------------------------------
-_ VISV    Losfeld, Revue Le Visage Vert
-_ VISAGEV Le Visage Vert
-!-----------------------------------------------------------------------------
-!--- Le visage vert, la revue de fantastique
-!--- Une premiŠre s‚rie de Le Visage vert avait ‚t‚ lanc‚e en 1984 par Xavier Legrand-FerronniŠre puis mise en sommeil avant de refaire surface et de b‚n‚ficier aujourd'hui du soutien des ‚ditions Jo‰lle Losfeld.
-!-----------------------------------------------------------------------------
-o VISV        1  1995.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 1 (Octobre 95) ş1995
-?: .o .     .     _HOUSSAYE ArsŠne             ? ş?
-?: .o .     .     _RADCLIFFE Ann               ? ş?
-?: .o .     e     _BIOY CASARES Adolfo         ? ş?
-?: .o .     .     _SHELLEY Mary                ? ş?
-?: .o .     .     _LAUTREC Gabriel de          ? ş?
-?: .o .     .     _LANDOY Rapha‰l              ? ş?
-?: .o .     .     _BISSELL Mary L.             L'Antid‚luvien ş1870
-: .o .     N     _YEATS William Butler        Rosa Alchemica ş1914 Rosa Alchemica
-?: .o .     .     _BARR Robert                 ? ş?
-o VISV        2  1997.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 2 (Janvier 97) ş1997
-!--- On ne pr‚sente plus l'Irlandais Sheridan Le Fanu cr‚ateur de la race des vampires avec Carmilla, ni H.-G. Wells dont les fragments in‚dits de La Guerre des Mondes publi‚s ici constituent des morceaux de choix. La visite d‚bute avec Bulwer-Lytton (1803-1873). L'auteur des Derniers Jours de Pomp‚‹ se rattache … la tradition du roman gothique anglais, au point qu'on le considŠre outre-Manche comme le pŠre du roman myst‚rieux. Fant“mes et Magiciens est un r‚cit dont la critique soulignait lors de sa publication en France (1894) qu'il ‚tait d'un "initi‚ qui a vu, certainement, et non celle d'un simple romancier qui imagine." Quand bien mˆme, Bulwer-Lytton avait de l'imagination … revendre: "je sentis distinctement vibrer la piŠce et, tout au fond, je vis s'‚lever comme surgissant du plancher, des ‚tincelles et de petites sphŠres ressemblant … des bulles de lumiŠre multicolores".
-!--- James Hogg (1770-1835) s'apparente lui … Le Braz ou Seignolle bien qu'il leur soit nettement ant‚rieur. Reconnu pour l'usage qu'il fit du folklore populaire ‚cossais, il conduit dans une nouvelle de pure fiction -du moins faut-il l'esp‚rer- et dans la grande tradition du genre, La Descente aux enfers de George Dobson. Raide d‚monstration qu'une conscience professionnelle trop d‚velopp‚e conduit … sceller des pactes -naturellement- diaboliques.
-!--- Attendent encore Richard Middleton (1882-1911) et son Oiseau dans le jardin ou l'Am‚ricain Silas Weir Mitchell (1829-1914) qui s'attache au projet prom‚th‚en de la r‚surrection des morts. Le m‚decin fran‡ais Andr‚ Couvreur (1865-1944) donne la mesure du merveilleux-scientifique dans un chapitre de Caresco, son grand roman de conjecture.
-!--- S'il fallait ˆtre plus explicite, on pourrait ajouter que Le Visage vert d‚terre des tr‚sors v‚ritables et ‚tranges et qu'il les exhibe avec soin. Une telle exposition t‚moigne des qualit‚s de la litt‚rature souterraineŒ comme de celles d'une revue qui sait proc‚der au d‚licat m‚lange de l'‚rudition et du plaisir.
-!---
-!--- Le Visage vert NŸ 2, 159 p. 90 FF. Abt 2 nŸ : 180 FF
-!--- Ed. Jo‰lle Losfeld 3, impasse Royer-Collard, 75 005 Paris
-: .oF.     N     _BULWER-LYTTON Edward G.     Fant“mes et magiciens ş1859 The Haunted and the Haunters / The House and the Brain
-: .o .     N     _HOGG James                  La Descente aux enfers de George Dobson ş1827 The Expedition to Hell
-?: .o .     .     _LE FANU J. Sheridan         ? ş?
-?: .o .     .     _WEIR MITCHELL Silas         ? ş?
-?: .o .     .     _WELLS Herbert George        (fragments in‚dits de la guerre des mondes) ş?
-: .o .     N     _MIDDLETON Richard           L'Oiseau dans le jardin ş1912 The Bird in the Garden
-: .o .     X     _COUVREUR Andr‚              Caresco [Le Docteur Caresco] ş1904
-?: .o .    .     _A.E.P.                       ? ş?
-o VISV        3  1997.xx ..... ISBN 2-909906-84-1
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 3 (Juin 97) ş1997
-?: .o .     N     _BIERCE Ambrose              Itin‚raires de fant“mes (1893-1907) ş?
-?: .o .     N     _MACHEN Arthur               Substitution ş1936
-?: .o .     N     _BEERBOHM Max                Enoch Soames ş1916
-?: .o .     N     _PEAKE Mervyn                Mˆme endroit, mˆme heure ş1963
-?: .o .     N     _LORRAIN Jean                Nuit de janvier ş1895
-: .oF.     N     _STOKER Bram                 La Coupe de cristal ş1872 The Crystal Cup şTrad. HOMASSEL Anne-Sylvie
-?: .o .     N     _LE BRAZ Anatole             L'Aventure du pilote ş1901
-: .o .     N     _LEACOCK Stephen             Q ou la surprenante histoire d'un commerce surnaturel ş1911 Q a Psychic Pstory of Psupernatural şTrad. DELATTRE Isabelle
-o VISV        4  1998.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 4 (F‚vier 98) ş1998
-?: .o .     N     _BOREL P‚trus               &Le Fou du roi de SuŠde ş? ?
-!--- Traduction plagi‚e du "Transformation" de Mary Shelley
-?&                _SHELLEY Marie               
-!--- 1830 & 1845, texte ‚tabli par Norbert Gaulard
-?: .o .     N     _BRUNET Gustave              James Dixon, ou la funeste ressemblance ş1844
-: .o .     N     _MARSH Richard               Les Photographies ş1900 The Photographs şTrad. ?
-?: .o .     N     _CHAMBERS Robert W.          Les Sphyx ş1904 The Sphyx, A Travesty in Two Parts şTrad. ?
-?: .o .     N     _PAWLOWSKI Gaston de         Inventions nouvelles et derniŠres nouveaut‚es ş1916
-o VISV        5  1998.xx ..... ISBN 2-84412-004-0
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 5 (Octobre 98) ş1998
-: .o .     N     _LE FANU J. Sheridan         Schalken le peintre ş1839 Schalken the Painter
-: .o .     N     _CONWAY Hugh                 Un codicille ş1885
-: .o .     N     _CONTESSA C.W.S.             Le Repas d'adieu ş1816 Das gastmahl
-: .o .     N     _MUSAUS Johann Karl A.       Le Chercheur de tr‚sors ş1787 Der Schatzgr„ber şTrad. WILLENZ Elisabeth
-!--- Johann Karl August
-?: .o .     N     _GRIMM Jacob & Wilhelm       La "Spring-Wurzel" ş1818 ?
-: .oF.     X     _SCOTT Walter                Les Aventures de Martin Waldeck (extrait de : L'antiquaire) ş1816 The Fortunes of Martin Waldeck şTrad. ?
-: .o .     N     _IRVING Washington          &Le Roi des chats ş1835 ?
-&                _SCOTT Walter                
-o VISV        6  1999.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     M7    ****                         Le Visage Vert nø 6 (Avril 99) ş1999
-: .o .     N     _BLACKWOOD Algernon          Le Grenier ş1912 The Attic
-?:          N     _RIVIALE Philippe            Anatomie du monde ş1999
-: .o .     N     _SHIEL Matthew P.            La S.S. ş1895 The S.S. şTrad. HOMASSEL Sylvie
-: .o .     N     _WAGNER Karl E.              Les Bƒtons ş1974 Sticks
-: .o .     N     _QUIROGA Horacio             Le Lobis¢n ş1906 El Lobison
-: .o .     N     _QUIROGA Horacio             La Flamme ş1915 ?
-?: .o .     N     _DU CAMP Maxime              L'ƒme errante ş1835
-: .o .     N     _BIERCE Ambrose              3 + 1 = 1 ş1908 Three and One Are One
-o VISV        7  1999.xx R.... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 7 (Octobre 99) ş1999
-: .o .     N     _HAGGARD H. Rider            Un rˆve, seulement ş1905 Only a Dream şTrad. HOMASSEL Anne-Sylvie
-: .o .     N     _BUSSON Paul                 Les Joyaux de Tormento ş1905 Dir kleinodien des Tormento şTrad. WILLENZ Elisabeth
-: .o .     X     _LA MOTTE-FOUQUE F. de       Le Charbonnier et la d‚esse (L'anneau magique, roman de chevalerie) ş1812 Der Zauberring şTrad. MEURGER Michel
-: .o .     N     _BURRAGE A.M.                Entre la minute et l'heure ş1922 Between the Minute and the Hour şTrad. GAULARD Norbert
-: .o .     N     _RENARD R‚mi                 Diabolicus whisky ş1999
-!--- pastiche de Jean Ray par le fils de Maurice Renard
-: .o .     N     _RENARD Maurice              Feu John ş1932
-?!--- _LEAR Edward - Nonsense :
-?: .o .     ?     _LEAR Edward                 Petite cuisine nonsensique ş1871
-?: .o .     ?     _LEAR Edward                 Botanique nonsensique ş1871
-?: .o .     ?     _LEAR Edward                 Deux lettres ş1865
-?: .o .     a     _DEMEOCQ Claude              Jean Ray - Maurice Renard, chronologie d'une amiti‚ litt‚raire (1922-1939) ş?
-o VISV        8  2000.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 8 ş2000
-: .o .     N     _DUNSANY Lord                Treize … table ş1916 Thirteen at Table
-: .o .     N     _ONIONS Oliver               Benlian ş1911 Benlian
-?: .o .     .     _MENDES Catulle              ? ş?
-: .o .     N     _PAIN Barry                  Le Chat gris ş1901 The Grey Cat
-?: .o .     N     _GABORIAU Emile              Maudite maison ş1858
-?: .o .     .     _MUNZER Kurt                 L'Homme … la poup‚e ş1916 ?
-o VISV        9  2000.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 9 ş2000
-: .o .     N     _ATHERTON Gertrude           L'Enjamb‚e ş1896 The Striding Place
-: .o .     N     _MARBEL Paul de              Le Concert ş1858
-: .o .     N     _SALZMAN Anne-Sylvie         Meannanaich ş2000
-o VISV       10  2001.xx ..... ISBN 2-84412-085-7
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 10 ş2001
-: .o .     N     _BURRAGE A.M.                Smee ş1929 Smee
-: .o .     N     _LEE Vernon                  La Poup‚e ş1896 The Doll
-: .o .     N     _BLONDEL Auguste             Plage inconnue ş1892
-: .o .     N     _BROUGHTON Rhoda             Les Visions de Betty ş1886 Betty's Vision
-o VISV       11  2001.xx ..... ISBN 2-84412-105-5
-} noimg          _?                           ?
-- .o .    cM4    ****                         Le Visage Vert nø 11 ş2001
-: .o .     N     _DUJARDIN Edouard            La Vierge de fer ş1885
-: .o .     N     _MACHEN Arthur               Histoire de la vierge de fer ş1890 ?
-: .o .     N     _PEMBERTON Max               La Vierge de fer ş1903 ?
-: .o .     N     _LAUN Friedrich              La Morte fianc‚e ş1811 Die Todtenbraut
-o VISV       12  2002.xx ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 12 ş2002
-?: .o .     N     _CONAN DOYLE Arthur          La Pierre de sang ş?
-?: .o .     N     _DOYLE Arthur Conan          Le Manoir hant‚ de Goresthorpe ş1883 The Secret of Goresthorpe Grange / Selecting a Ghost şTrad. ?
-?: .o .     N     _MEURGE Michel               ? ş?
-: .o .     N     _SALZMAN Anne-Sylvie         La Fin de la nuit ş2002
-?: .o .     N     _BARING Maurice              V‚nus ş1909 Venus şTrad. GAULARD Norbert
-: .o .     N     _BOUTET Fr‚d‚ric             L'Exp‚rience ş1921
-: .o .     N     _BOUTET Fr‚d‚ric             Un fant“me ş1898
-: .o .     N     _BOUTET Fr‚d‚ric             Florence ş?
-: .oF.     N     _STENBOCK Eric               La Larve du bonheur ş1894 The Worm of Luck şTrad. NAUDIN Olivier
-?: .o .     N     _NORMANBY Henry              L'Amateur de premiŠres ş?
-o VISV       13  2003.05 ..... ISBN .-.....-...-.
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 13 ş2003
-!--- dossier invasions sous-marines
-: .o .     N     _LAUMANN E. M.               L'Alcyon ş1923
-!--- Repris en 2007, num‚ro 14 aux ‚ditions Zulma
-?: .o .     N     _BOWEN Marjorie              La Maison prŠs du champ de coquelicot ş1976 The House by the Poppyfield
-?: .o .     N     _ARLEN Michael               Le Monsieur d'Am‚rique ş1924 The Gentleman from America şTrad. HOMASSEL Anne-Sylvie
-!--- Les suivants (14, 15, 16) Chez Zulma - Cf. Divers.col
-o VISAGEV    18  2011.xx ..... ISBN 978-2-918061-11-3
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 18 ş2011
-: .o .     N     _PYLE Howard                 Le Loup de Salem ş1909 The Salem Wolf şTrad. Anne-Sylvie Homassel
-: .o .     a     _MEURGER Michel              Les SorciŠres de Salem et la fiction am‚ricaine ş2011
-: .o .     N     _BARR Robert                 La Vengeance du mort ş1894 The Vengeance of the Dead şTrad. Jean-Daniel BrŠque
-: .o .     N     _BRECHAL Jean                L'Op‚ration merveilleuse du professeur Brigdmann ş1900
-: .o .     N     _EDWARDS Amelia B.           Une terreur en chemin de fer ş1856 A Railway Panic şTrad. J. de SullyŠres + Norbert Gaulard
-: .o .     N     _PRICE Georges               Une heure d'express ş1910
-: .o .     N     _PRICE Georges               Le Roi du L‚thol ş1910
-: .o .     N     _FREY Alexander Moritz       Le Curieux ş1928 Der Neugierige şTrad. Elisabeth Willenz
-: .o .     N     _FREY Alexander Moritz       P‚riple ş1921 Rundfahrt şTrad. Elisabeth Willenz
-: .o .     a     _DUCOS Fran‡ois              Le Gorille voleur de femmes dans les r‚cits de voyages ş2011
-: .o .     N     _REVOIL B‚n‚dict-Henry       La Vengeance du singe ş1878
-: .o .     N     _MALISSOL GervŠsis           Un drame au pays des gorilles ş?
-o VISAGEV    19  2011.11 ..... ISBN 978-2-918061-14-4
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 19 ş2011
-?: .o .     N     _THEVENIN Ren‚               La Cit‚ des tortures ş2011
-?: .o .     N     _MEURGER Michel              C‚lestes ou infernaux ? ş2011
-?: .o .     N     _DE WINDT Harry              L'Oiseau gris ş2011
-?: .o .     N     _MEURGER Michel              Un bestiaire de la cruaut‚ ş2011
-: .o .     N     _BROUGHTON Rhoda             La V‚rit‚, toute la v‚rit‚ et rien que la v‚rit‚ ş1868 The Truth, the Whole Truth, and Nothing but the Truth
-: .o .     N     _RAUPACH Ernst               Le Voyage ş1824 Die Wanderung şTrad. (Anonyme)
-?: .o .     N     _DUCOS  Fran‡ois             En cimaise : Jacques Leclerc ş2011
-: .o .     N     _CHAO H. V.                  Le Joyau du Nord ş2009 Jewel of the North
-?: .o .     N     _BERGERAT Th‚ophile          Curieux assassinat du professeur Gusmaer ş2011
-o VISAGEV    20  2012.06 ..... ISBN 978-2-918061-17-5
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 20 ş2012
-: .o .     N3    _VERHAEREN Emile             Contes de minuit ş1884
-= .o .     N     _VERHAEREN Emile             Conte gras ş1884
-= .o .     N     _VERHAEREN Emile             No‰l blanc ş1884
-= .o .     N     _VERHAEREN Emile             A l'‚den ş1884
-?: .o .     a     _LYSOE Eric                  Verhaeren ou l'art fantastique ş?
-?: .o .     N     _PORITZKY Jakob Elias        L'Inconnu ş?
-?: .o .     a     _MEURGER Michel              Poritzky ou le sommeil de la raison ş?
-?: .o .     E     _SHELLEY Mary                Des fant“mes ş?
-?: .o .     N     _MENDES Catulle              L'tang ş?
-?: .o .     N     _MYERS Jane Pentzer          L'Esprit du ma‹s ş?
-: .o .     N     _JEROME Jerome K.            Le Moulin hant‚ ş1891 The Haunted Mill
-?: .o .     a     _DUCOS Fran‡ois              Le Gorille voleur de femmes dans les oeuvres de fiction ş?
-?: .o .     ?     _HOGG James                  Les Pongos ş?
-o VISAGEV    21  2012.11 ..... ISBN 978-2-918061-19-9
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 21 ş2012
-?: .o .     N     _BEDOT John                  Une hallucination ş?
-?: .o .     N     _BEDOT John                  Pantagruelion ou le Chanvre-cauchemar ş?
-: .o .     N     _HEARN Lafcadio              Hi-mawari ş1904 Hi-Mawari
-?: .o .     N     _MEURGER Michel              Le Secret du masque ş?
-: .oF.     N     _SCHWOB Marcel               Les Faulx-Visaiges ş1892
-: .o .     N     _MARSH Richard               Le Masque ş1892 The Mask şTrad. BREQUE Jean-Daniel
-?: .o .     N     _WIDBERHG Bodo               L'Oeil du masque de pierre ş?
-: .oF.     N     _ROYLE Nicholas              Le Leurre ş2010 The Lure şTrad. ?
-o VISAGEV    22  2013.06 ..... ISBN 978-2-918061-23-6
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 22 ş2013
-?: .o .     N     _PREVOST-PARADOL Lucien      Mon ami Hermann ş?
-?: .o .     N     _GAULARD Norbert             La Double vie de Pr‚vost-Paradol ş?
-?: .o .     N     _BURGESS Gelett              L'Extincteur … fant“me ş? ? şTrad. CORPRON Jean-Louis
-?: .o .     N     _DUCOS Fran‡ois              Scotland Yard au pays d'Hoffmann ş?
-: .o .     N     _MAUCLAIR Camille            L'Argonaute et la sirŠne ş1903
-?: .o .     N     _MEURGER Michel              Du c“t‚ des loups ş?
-: .o .     N     _VERGER Romain               Le Chƒteau ş2013
-?: .o .     N     _TOPFFER Rodolphe            La Peur ş?
-?: .o .     N     _HARTE Bret                  L'Affaire de l'‚tui … cigares 1900 The Stolen Cigar-Case şTrad. Anne-Sylvie Homassel
-: .o .     N     _LEACOCK Stephen             Une myst‚rieuse affaire de d‚tective ş? ? şTrad. LASSERE Jean-Louis
-o VISAGEV    23  2013.11 ..... ISBN 978-2-918061-25-0
-} noimg          _?                           ?
-- .o .     Mx    ****                         Le Visage Vert nø 23 ş2013
-: .o .     N     _O'BRIEN Fitz-James          Animula ş1858 The Diamond Lens şTrad. MESSAC R‚gis
-!--- 4 nouvelles de J.H. Rosny
-: .o .     N     _ROSNY AINE J.-H.            Le SeptiŠme Sens ş?
-: .o .     N     _ROSNY AINE J.-H.            Le Mage rustique ş1912
-: .o .     N     _ROSNY AINE J.-H.            Les ‚l‚phants bleus ş1922
-: .o .     N     _ROSNY AINE J.-H.            Le D‚tective plongeur ş?
-: .o .     N     _LETORT Yves                 Un cabinet ş2013
-?: .o .     N     _PAIN Barry                  Le D‚fi de la girafe ş? ?
-: .o .     N     _SHELLEY Mary                L'change infernal ş1830 The Transformation şTrad. ?
-: .o .     N     _LERMINA Jules               Le Pommier ş?
-o VISAGEV    24  2014.06 ..... ISBN 978-2-918061-27-4
-} noimg          _?                           N
-- .oF.     Mx    ****                         Le Visage Vert nø 24 ş2014
-: .o .     N     _ALDRICH Thomas Bailey       Marjorie Daw ş1869 Marjorie Daw
-: .o .     N     _PAGE William                Le Serpent des airs ş1911 The Air Serpent
-: .o .     N     _CONNELL Richard             Le Plus Dangereux des jeux ş1924 The Most Dangerous Game
-?: .o .     ?     _LINDAU Rudolf               Le Visionnaire ş?
-o VISAGEV    25  2015.02 ..... ISBN 978-2-918061-28-1
-} noimg          _?                           N
-- .oF.     Mx    ****                         Le Visage Vert nø 25 ş2015
-?: .o .     N     _MEURGER Michel              Du c“t‚ des loups - II ş?
-: .o .     N     _RESTIF DE LA BRETONNE N. E. La Bˆte excommuni‚e ş?
-?: .o .     a     _DUCOS François              En cimaise : Edouard Yrondy ş?
-?: .o .     a     _GAULARD Norbert             Antonio de Hoyos y Vinent ş?
-: .o .     N     _HOYOS Y VINENT Antonio de   SortilŠge ş? ?
-: .o .     N     _HOYOS Y VINENT Antonio de   La Sainte ş? ?
-: .o .     N     _KERRUISH J. D.              La Danse du spectre ş? ?
-: .o .     N     _VAES Guy                    La Porte ş?
-?: .o .     a     _DE LAET Danny               Guy Vaes et le d‚clin du fantastique flamand ş?
-?: .o .     a     _MUNDZIK Fabrice             Destins crois‚s : Albert Robida et Louis Mouligni‚ ş?
-: .o .     N     _ROBIDA Albert               Satanas anachorŠte ş1902
-: .o .     N     _ROBIDA Albert               La Chƒtelaine aux 365 enfants ş?
-o VISAGEV    26  2015.10 ..... ISBN 978-2-918061-33-5
-} noimg          _?                           N
-- .oF.     Mx    ****                         Le Visage Vert nø 26 ş2015
-o VISAGEV    27  2016.06 ..... ISBN 978-2-918061-35-9
-} noimg          _?                           N
-- .oF.     Mx    ****                         Le Visage Vert nø 27 ş2016
-o VISAGEV    28  2017.02 ..... ISBN 978-2-918061-37-3
-} noimg          _?                           N
-- .oF.     Mx    ****                         Le Visage Vert nø 28 ş2017
-o VISAGEV    29  2017.11 ..... ISBN 978-2-918061-78-6
-} noimg          _?                           N
-- .oF.     Mx    ****                         Le Visage Vert nø 29 ş2017
-o VISAGEV    30  2018.11 ..... ISBN 978-2-918061-40-3
-} noimg          _?                           N
-- .oF.     Mx    ****                         Le Visage Vert nø 30 ş2018
-: .o .     N     _FAGER Anders                L'Artefact de Herr G”ring ş2011 Herr Goering's artefacts şTrad. BRUY Carine
-o VISAGEV    31  2019.09 ..... ISBN 978-2-918061-43-4
-} noimg          _?                           N
-- .oF.     Mx    ****                         Le Visage Vert nø 31 ş2019
-
-o VISAGEV     ?  2018.02 ..... ISBN 978-2-918061-39-7
-} noimg          _?                           ?
-- .oT.    iN30   _LEVEL Maurice               Les Oiseaux de nuit ş1913
-o VISAGEV     ?  2019.04 ..... ISBN 978-2-918061-41-0
-} noimg          _?                           ?
-- .o .     R     _REMY Yves & Ada             Le Grand Midi ş1971
-?o VISAGEV     ?  2019.09 ..... ISBN 978-2-918061-42-7
-?!--- "regroupant des contes de diff‚rents genres, ‚crits entre 1927 et 1930"
-?} noimg          _?                           ?
-?- .oF.    iNx    _RENARD Maurice              Celui qui n'a pas tu‚ ş2019
-
-!-----------------------------------------------------------------------------
-_ LOTB    Losfeld, Terrain Vague, BibliothŠque de l'insolite
+_ LOTB    Losfeld - Terrain Vague - BibliothŠque de l'insolite
 !-----------------------------------------------------------------------------
 !--- Terrain vague, collection BibliothŠque de l'insolite
 !--- (Cf ‚galement ‚ditions Ombres) imprim‚ en belgique
@@ -1375,7 +966,7 @@ o LOTB        ?  1991.xx ..... ISBN 2-85208-144-X
 - .o .     R     _MACHEN Arthur               La Colline des rˆves ş1904 The Hill of Dreams şTrad. NODINOT Bernadette
 
 !-----------------------------------------------------------------------------
-_ MIMIFAN Ed. Le Terrain Vague, Midi-Minuit Fantastique
+_ MIMIFAN Le Terrain Vague - Midi-Minuit Fantastique
 !-----------------------------------------------------------------------------
 !--- Midi-Minuit Fantastique
 !-----------------------------------------------------------------------------
@@ -1421,4 +1012,336 @@ o MIMIFAN    18/ 1967.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     Mx    ****                         Midi-Minuit Fantastique nø 18-19 (D‚cembre 67 - Janvier 68) ş1967
 : .oS.     N     _KLEIN G‚rard                Les Cr‚atures ş1967
+
+
+!-----------------------------------------------------------------------------
+_ LOSF_VI Losfeld - Le Visage Vert
+_ VISAGEV Le Visage Vert
+!-----------------------------------------------------------------------------
+!--- Le visage vert, ‚ditions
+!--- 
+!--- Cf Bifrost nø 7
+!--- R‚dacteur en chef : Xavier LEGRAND-FERONNIERE
+!-----------------------------------------------------------------------------
+o LOSF_VI     1i 1985.01 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .oF.    kA4    *LEGRAND-FERRONNIERE X.      Le Lac du squelette et autres contes fantastiques ş1985
+: .o .     N     _LAUMANN E. M.               L'Alcyon ş1923
+: .o .     N     _BLACKWOOD Algernon          Le Lac du squelette ş1906 Skeleton Lake: An Episode in Camp
+: .o .     N     _HICHENS Robert S.           Le Gardien silencieux ş1897 A Silent Guardian
+: .o .     N     _SAUVENIERE Alfred de        L'Inexpliqu‚ ş1887
+?o LOSF_VI     2i 19xx.xx ..... ISBN .-.....-...-.
+?} noimg          _?                           ?
+?- .o .     .     _DE LA HIRE Jean             Le Labyrinthe rouge ş?
+?o LOSF_VI     3i 19xx.xx ..... ISBN .-.....-...-.
+?} noimg          _?                           ?
+?- .o .     .     _MACHEN Arthur               Le Grand Dieu Pan ş?
+?o LOSF_VI     4i 19xx.xx ..... ISBN .-.....-...-.
+?} noimg          _?                           ?
+?- .o .     .     _ROYET Colonel               La Tempˆte universelle de l'an 2000 ş?
+o LOSF_VI     5i 19xx.xx ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+- .o .     r     _HICHENS Robert S.           Le Charmeur de serpents ş1897 The Charmer of Snakes
+?o LOSF_VI     6i 19xx.xx ..... ISBN .-.....-...-.
+?} noimg          _?                           ?
+?- .o .     .     _CHAMPSAUR F‚licien          Les Deux Singes ş?
+o LOSF_VI     7i 1985.04 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- r‚mpression en mars 1986
+- .oF.    kA5    ****                         L'Homme-Peste et autres contes fantastiques ş1985
+: .o .     N     _RICHEPIN Jean               L'Homme-Peste ş1899
+: .o .     N     _HICHENS Robert S.           La Silhouette dans le mirage ş1905 The Figure in the Mirage şAdapt. LOGE Marc
+: .o .     N     _LAUMANN E. M.               Dans le fond des mers ş1922
+: .o .     N     _RENARD Maurice              La Damnation de l'Essen ş1926
+: .o .     N     _SAUVENIERE Alfred de        La Femme en noir ş1906
+?o LOSF_VI     8i 19xx.xx ..... ISBN .-.....-...-.
+?} noimg          _?                           ?
+?- .o .     .     _ROSNY-AINE J.-H.            La Jeune Fille vampire ş?
+?o LOSF_VI     9i 19xx.xx ..... ISBN .-.....-...-.
+?} noimg          _?                           ?
+?- .o .     .     _ROBBINS Tod                 Une bouteille verte et autres contes ş?
+?o LOSF_VI    10i 19xx.xx ..... ISBN .-.....-...-.
+?} noimg          _?                           ?
+?- .o .     .     _VARLET Th‚o                 La Belle Venere ş?
+?o LOSF_VI    11i 19xx.xx ..... ISBN .-.....-...-.
+?} noimg          _?                           ?
+?- .o .     .     _LE FANU J.S.                Le MystŠre d'une tutelle ş?
+o LOSF_VI    13i 1987.03 ..... ISBN .-.....-...-.
+} noimg          _?                           ?
+!--- TBC : _Le pass‚ merveilleux_ est une version identique ou revue de _Aventures d'un voyageur qui explora le temps_
+- .o .     A7    ****                         Jour de l'an chez les momies et autres contes surnaturels et de merveilleux scientifique ş1987
+: .oF.   1 N     _ALLEN Grant                 Le Jour de l'an chez les momies ş1878 My New Year's Eve Among the Mummies
+: .o .   9 N     _LAUTREC Gabriel de          Le Bocal vert ş1898
+: .o .  10 N     _LAUTREC Gabriel de          La Forˆt ş1898
+: .oS.     N     _BELIARD Octave              Aventures d'un voyageur qui explora le temps ş1909
+: .oF.     N     _HERING H.A.                 Deux professeurs et une momie ş1901 Two Professors and One Mummy şTrad. BONNAUD-DIAZ Madeleine
+?: .o .     N     _LINVILLE Andr‚              T.S.F. ş1935
+: .o .     N     _LAUTREC Gabriel de          Le Talisman ş1922
+?o LOSF_VI    14i 19xx.xx ..... ISBN .-.....-...-.
+?} noimg          _?                           ?
+?- .o .     .     _?                           ? ş?
+o LOSF_VI    15i 1987.10 ..... ISBN -
+} noimg          _?                           ?
+- .oF.    kN16   ****                         Miss Duveen et autres contes ‚tranges ş1987
+!--- 9 poŠmes et 4 nouvelles, plus 2 nouvelles d'autres auteurs
+: .o .     p     _SEBILLOTTE Laurent          Walter de la Mare ş1987
+: .o .     N     _DE LA MARE Walter           La Tante de Seaton ş1922 Seaton's Aunt şTrad. JEAN-AUBRY G.
+: .o .     a     _GREENE Graham               Les Nouvelles de Walter de la Mare ş1948 Tribute to Walter De La Mare on His Seventy-Fifth Birthday şTrad. SIBON Marcelle
+: .o .     P     _DE LA MARE Walter           Napol‚on ş1943 Napoleon şTrad. GERMAIN G.
+: .o .     N     _DE LA MARE Walter           Miss Duveen ş1923 Miss Duveen şTrad. SIBON Marcelle
+: .o .     N     _DE LA MARE Walter           Le Quai ş1924 The Wharf şTrad. CAMMAERTS Emile
+: .C .     C     _DE LA MARE Walter           Six poŠmes ş1921
+: .o .     P     _DE LA MARE Walter           Arabie ş1912 Arabia şTrad. DUPROIX Marthe
+: .o .     P     _DE LA MARE Walter           Les Cloches ş1912 The Bells şTrad. DUPROIX Marthe
+: .o .     P     _DE LA MARE Walter           Le Navire de Rio ş1913 The Ship of Rio şTrad. DUPROIX Marthe
+: .o .     P     _DE LA MARE Walter           Musique ş1917 Music şTrad. DUPROIX Marthe
+: .o .     P     _DE LA MARE Walter           Le Scribe ş1918 The Scribe şTrad. DUPROIX Marthe
+: .o .     P     _DE LA MARE Walter           Adieu ş1917 Fare Well şTrad. DUPROIX Marthe
+: .! .     N     _DE LA MARE Walter           La Demande du comte ş1923 The Count's Courtship şTrad. JEAN-AUBRY G.
+: .! .     a     _RIVIALE Laurence            Le Pers‚e ş1987
+: .o .     P     _DE LA MARE Walter           Les Auditeurs ş1944 The Listeners şTrad. BOFOURIE Marcel
+: .o .     N     _HARTLEY Leslie P.           Per far l'amore ş1955 Per Far L'amore şTrad. BLANCHET E. R.
+: .o .     P     _DE LA MARE Walter           L'tranger ş1934 The Stranger şTrad. BONNEROT L. et RIVOALLAN A.
+?o LOSF_VI     ?  1987.xx ..... ISBN ?
+?!--- TBD Contenu
+?!--- opuscule documentaire : etudes, 2 nouvelles, biblio
+?!--- edite en association avec les presses d'Anank‚
+?} noimg          _?                           ?
+?- .o .    iNx    _PERUTZ Leo                  Etudes ş?
+?- .o .     N     _PERUTZ Leo                  Un jour sans soir ş?
+
+
+
+
+!-----------------------------------------------------------------------------
+!--- Editions Le visage vert
+!-----------------------------------------------------------------------------
+o VISAGEV     ?  2008.11 ..... ISBN 978-2-918061-00-7
+} noimg          _Stan                        ?
+!--- 145 x 215 mm - 266 pages - 19 euros
+- .oF.     R     _COLLIER Jean                Double ş? ? şTrad. HOMASSEL Anne-Sylvie
+o VISAGEV     ?  2008.11 ..... ISBN 978-2-918061-01-4
+} noimg          _Stan                        ?
+!--- 145 x 215 mm - 129 pages - 11 euros
++ VISAGEV     ?  2012.03 ..... ISBN 978-2-918061-06-9
+} noimg          _Marc Brunier-Mestas         ?
+!--- 22 cm - 140 pages - 12 euros
+- .oF.     r     _SIEFENER Michael            Nonnes ş2000 Nonnen şTrad. DAVID Isabelle & WILLENZ Elisabeth
+o VISAGEV     ?  2009.03 ..... ISBN 978-2-918061-03-8
+} noimg          _Mirando Haz                 ?
++ VISAGEV     ?  2011.03 ..... ISBN 978-2-918061-03-8
+} noimg          _Marc Brunier-Mestas         ?
+!--- 145 x 215 mm - 204 pages - 15 euros
+- .oF.    kN9    _NAUGRETTE Jean-Pierre       Retour … Walker Alpha et autres nouvelles ş2009
+: .o .     N     _NAUGRETTE Jean-Pierre       La Conjuration ş2009
+: .o .     N     _NAUGRETTE Jean-Pierre       Le Phare ş2009
+: .o .     N     _NAUGRETTE Jean-Pierre       chec et mat ş2009
+: .o .     N     _NAUGRETTE Jean-Pierre       H“tel Heraklion ş2009
+: .o .     N     _NAUGRETTE Jean-Pierre       Retour … Walker Alpha ş2009
+: .o .     N     _NAUGRETTE Jean-Pierre       2050 Titan Explorer ş2009
+: .o .     N     _NAUGRETTE Jean-Pierre       La Prison de cristal ş2009
+: .o .     N     _NAUGRETTE Jean-Pierre       Museum 13 ş2009
+: .o .     N     _NAUGRETTE Jean-Pierre       Leptis Magna ş2009
+o VISAGEV     ?  2009.05 ..... ISBN 978-2-918061-05-2
+} noimg          _?                           ?
++ VISAGEV     ?  2011.03 ..... ISBN 978-2-918061-05-2
+} noimg          _Marc Brunier-Mestas         ?
+!--- 145 x 215 mm - 118 pages - 11 euros
+- .o .     r     _BUSSON Paul                 Le Marais aux sorciŠres ş1923 Der Schuá im Hexenmoos şTrad. DAVID Isabelle & WILLENZ Elisabeth
+o VISAGEV     ?  2009.05 ..... ISBN 978-2-918061-06-9
+} noimg          _?                           ?
+!--- 145 x 215 mm - 140 pages - 12 euros
++ VISAGEV     ?  2011.03 ..... ISBN 978-2-918061-06-9
+} noimg          _?                           ?
+!--- 22 cm - 140 pages - 12 euros
+- .oF.    _N8    _SALZMAN Anne-Sylvie         Lamont ş2009
+: .C .     C     ****                         Haut
+: .o .   9 N     _SALZMAN Anne-Sylvie         Le CortŠge ş2009
+: .o .  31 N     _SALZMAN Anne-Sylvie         Sur la Thay ş2009
+: .o .  39 N     _SALZMAN Anne-Sylvie         L'Invention de Brunel ş2009
+: .C .     C     ****                         Bas
+: .o .  53 N     _SALZMAN Anne-Sylvie         Meannanaich ş2000
+: .o .  65 N     _SALZMAN Anne-Sylvie         M‚moire de l'oeil ş2008
+: .o .  83 N     _SALZMAN Anne-Sylvie         L'Infortun‚e ş2009
+: .o . 107 N     _SALZMAN Anne-Sylvie         Hilda ş2009
+: .o . 111 N     _SALZMAN Anne-Sylvie         Lamont ş2009
+o VISAGEV     ?  2009.11 ..... ISBN 978-2-918061-04-5
+} noimg          _?                           ?
+!--- 145 x 215 mm - 301 pages - 19 euros
+- .o .     R     _RIVIALE Philippe            L'Or Taillefert ş2009
+o VISAGEV     ?  2009.11 ..... ISBN 978-2-918061-07-6
+} noimg          _?                           ?
++ VISAGEV     ?  2011.03 ..... ISBN 978-2-918061-07-6
+} noimg          _Marc Brunier-Mestas         ?
+!--- 145 x 215 mm - 94 pages - 11 euros
+- .o .     E     _EWERS Hanns Heinz           Edgar Allan Poe ş?
+: .oF.     P     _POE Edgar Allan             Le Corbeau ş1845 The Raven şTrad. HUGHES William L.
+o VISAGEV     ?  2009.11 ..... ISBN 978-2-918061-08-3
+} noimg          _?                           ?
+!--- 145 x 215 mm - 100 pages - 17 euros
+!--- Suivi d'un essai de Michel Meurger "Le ChaŒnon manquant entre l'oursin, l'araign‚e et le diable. L'Alt‚rit‚ plurielle chez Robert William Chambers"
+- .oF.     r     _CHAMBERS Robert W.          Yue Laou le faiseur de lunes ş1896 The Maker of Moons şTrad. DUPONT Louis-Martin & LAURENT Achille + BREQUE Jean-Daniel & GAULARD Norbert
+o VISAGEV     ?  2010.03 ..... ISBN 978-2-918061-09-0
+} noimg          _?                           ?
+!--- 145 x 215 mm - 221 pages - 17 euros
+- .o .     R     _NAUGRETTE Jean-Pierre       Les Hommes de cire ş2002-2010
+o VISAGEV     ?  2011.03 ..... ISBN 978-2-918061-10-6
+} noimg          _Marc Brunier-Mestas         Florence Bongni
+!--- 145 x 215 mm - 125 pages - 11 euros
+- .oF.    _N8    _STENBOCK Eric               Etudes sur la mort - Contes romantiques ş1894 Studies of Death şTrad. NAUDIN Olivier
+: .oF.   7 p     _NAUDIN Olivier              Eric Stenbock, ou la sensibilit‚ tragique ş2011
+: .oF.  13 N     _STENBOCK Eric               Hylas ş1894 Hylas şTrad. NAUDIN Olivier
+: .oF.  27 N     _STENBOCK Eric               Narcisse ş1894 Narcissus şTrad. NAUDIN Olivier
+: .oF.  39 N     _STENBOCK Eric               La Mort d'une vocation ş1894 The Death Of A Vocation şTrad. NAUDIN Olivier
+: .oF.  47 N     _STENBOCK Eric               Viole d'amour ş1894 Viol d'Amor şTrad. NAUDIN Olivier
+: .oF.  59 N     _STENBOCK Eric               L'Oeuf de l'albatros ş1894 The Egg Of The Albatross şTrad. NAUDIN Olivier
+: .oF.  75 N     _STENBOCK Eric               La V‚ridique Histoire d'un vampire ş1894 A True Story of a Vampire şTrad. NAUDIN Olivier
+: .oF.  91 N     _STENBOCK Eric               La Larve du bonheur ş1894 The Worm of Luck şTrad. NAUDIN Olivier
+: .oF. 101 N     _STENBOCK Eric               L'Autre c“t‚, une l‚gende bretonne ş1893 The other side şTrad. NAUDIN Olivier
+o VISAGEV     ?  2012.01 ..... ISBN 978-2-918061-15-1
+} noimg          _Marc Brunier-Mestas         Ra£l Schneider
+!--- 145 x 215 mm - 206 pages - 15 euros
+- .oF.    iN12   _RIQUELME Cristian Vila      Divertissements transylvaniens ş2012
+: .o .  99 N     _RIQUELME Cristian Vila      Nautilus ş2001 Nautilus şTrad. MULLER Philippe
+: .o . 105 N     _RIQUELME Cristian Vila      Retour ş2001 Vuelta şTrad. MULLER Philippe
+o VISAGEV     ?  2012.03 ..... ISBN 978-2-918061-16-8
+} noimg          _Marc Brunier-Mestas         ?
+!--- 145 x 215 mm - 193 pages - 15 euros
+- .xP.     R     _NAUGRETTE Jean-Pierre       Exit Vienna ş2012
+o VISAGEV     ?  2012.08 ..... ISBN 978-2-918061-18-2
+} noimg          _?                           ?
+!--- 155 x 235 mm - 306 pages - 19 euros
+>--- Fix-up de cinq nouvelles, "The Harbor-Master" (le Chef de port), "In Quest of the Dingue", "Is the Ux Extinct", "Farrago's Fate", et "A Matter of Interest".
+!--- Contient une ‚tude de Michel Meurger :
+!-         a     _MEURGER Michel              Le Monde perdu au parc du Bronx - Une version ludique de l'aventure zoologique ş2012
+- .oF.     U     _CHAMBERS Robert W.          En quˆte de l'inconnu ş1904 In Search of the Unknown şTrad. DUPONT Louis-Martin & LAURENT Achille
+o VISAGEV     ?  2013.03 ..... ISBN 978-2-918061-20-5
+} noimg          _Marc Brunier-Mestas         ?
+!--- 145 x 215 mm - 162 pages - 15 euros
+- .oF.    kN4    _BLANDIANA Ana               Les Saisons ş1977 Cele patru anotimpuri, proza fantastica şTrad. JOLLY-DIMITRIU Muriel
+: .oF.     N     _BLANDIANA Ana               L'Hiver ş1977 Iarna - Capela cu fluturi
+: .oF.     N     _BLANDIANA Ana               Le Printemps ş1977 Prim&#462;vara - Dragi sperietori
+: .oF.     N     _BLANDIANA Ana               L'‚t‚ ş1977 VARA - Ora&#351;ul topit
+: .oF.     N     _BLANDIANA Ana               L'Automne ş1977 Toamna - Amintiri din copil&#462;rie
+o LOSF_VI     ?  2013.10 ..... ISBN 978-2-918061-24-3 
+} noimg          _?                           ?
+!--- 155 x 235 mm - 296 pages - 21 euros
+!--- Anthologie sur les sirŠnes
+!--- Paul ArŠne
+!--- Henry Bordeaux
+!--- Bernard Lazare
+!--- Charles Le Goffic
+!--- Jules LemaŒtre
+!--- Camille Lemonnier
+!--- Camille Mauclair
+!--- Catulle MendŠs
+!--- Pierre Mille
+!--- Henri de R‚gnier
+!--- Maurice Renard
+!--- Jules Ricard
+!--- Jean de Tinan
+!--- Gustave Toudouze
+!--- Ren‚e Vivien
+!--- Jacques Yvel
+- .oFN    iN23   *DURAND Delphine             Chants de d‚sir - Chants de mort ş2013
+o VISAGEV     ?  2014.06 ..... ISBN 978-2-918061-26-7
+} noimg          _Marc Brunier-Mestas         Stepan Ueding
+!--- 145 x 215 mm - 128 pages - 12 euros
+- .oF.    kN7    _SALZMAN Anne-Sylvie         Vivre sauvage dans les villes ş2014
+: .C .     C     ****                         Filles perdues
+: .o .     N     _SALZMAN Anne-Sylvie         Fox into lady ş2014
+: .o .     N     _SALZMAN Anne-Sylvie         La BrŠche ş2014
+: .o .     N     _SALZMAN Anne-Sylvie         Le Chemin de halage ş2014
+: .C .     C     ****                         Crucifixions
+: .o .     N     _SALZMAN Anne-Sylvie         Shioge ş2014
+: .o .     N     _SALZMAN Anne-Sylvie         Au pied du phare ş2014
+: .o .     N     _SALZMAN Anne-Sylvie         La Main voyante ş2014
+: .C .     C     ****                         
+: .o .     N     _SALZMAN Anne-Sylvie         Vivre sauvage dans les villes ş2014
+o VISAGEV     ?  2015.02 ..... ISBN 978-2-918061-29-8
+} noimg          _Marc Brunier-Mestas         Stepan Ueding
+!--- 145 x 145 mm - 62 pages - 7 euros
+- .o .     N     _VON DER GABELENTZ Georg     L'Animal blanc ş1904 Das weisse Tier : ein Nachtstck şTrad. WILLENZ Elisabeth
+?o VISAGEV     ?  2015.06 ..... ISBN 978-2-918061-30-4
+?} noimg          _Marc Brunier-Mestas         Arthur Garratt
+?!--- 155 x 235 mm - 154 pages - 15 euros
+?- .? .    iNx    _PAIN Barry                  Le Club des d‚fis ş2015
+?: .o .     N     _PAIN Barry                  fant ş? ? şTrad. CORPRON Jean-Louis
+o VISAGEV     ?  2015.09 ..... ISBN 978-2-918061-32-8
+} noimg          _Marc Brunier-Mestas         C‚line Brun-Picard
+!--- GF - 145 x 215 mm - 126 pages - 13 euros
+- .oF.    kC13   _LETORT Yves                 Le Fleuve [Le Fleuve] ş2015
+: .o .     N     _LETORT Yves                 La Station souterraine [Le Fleuve] ş2015
+: .o .     N     _LETORT Yves                 Les Fianc‚es [Le Fleuve] ş2012
+: .o .     N     _LETORT Yves                 Une gaupe [Le Fleuve] ş2011
+: .o .     N     _LETORT Yves                 Astolphe [Le Fleuve] ş2015
+: .o .     N     _LETORT Yves                 Claire et le voyageur [Le Fleuve] ş2015
+: .o .     N     _LETORT Yves                 Un cabinet [Le Fleuve] ş2013
+: .o .     N     _LETORT Yves                 Vers la fin du Fleuve [Le Fleuve] ş2015
+: .o .     N     _LETORT Yves                 Le S‚rum du docteur Pest [Le Fleuve] ş2014
+: .o .     N     _LETORT Yves                 Une partie de pˆche [Le Fleuve] ş2010
+: .o .     N     _LETORT Yves                 Un ouvrage d‚laiss‚ [Le Fleuve] ş2015
+: .o .     N     _LETORT Yves                 Sur l'autre rive [Le Fleuve] ş2015
+: .o .     N     _LETORT Yves                 La Draille [Le Fleuve] ş2015
+: .o .     N     _LETORT Yves                 Le Bassin [Le Fleuve] ş2012
+o VISAGEV     ?  2015.12 ..... ISBN 978-2-918061-34-2
+} noimg          _?                           Philippe Riviale
+!--- GF - 145 x 215 mm - 204 pages - 18 euros
+- .oF.     R     _RIVIALE Philippe            L'EnlŠvement d'Elsa ş2015
+o VISAGEV     ?  2016.11 ..... ISBN 978-2-918061-36-6
+} noimg          _Marc Brunier-Mestas         Marc Brunier-Mestas
+!--- GF - 155 x 240 mm - 222 pages - 18 euros
+- .oF.     E     _MANTRANT Sophie             Arthur Machen et l'art du hi‚roglyphe ş2016
+o VISAGEV     ?  2016.11 ..... ISBN 978-2-918061-77-9
+} noimg          _Nicolas Fructus             Nicolas Fructus, Gilles Francescano, Philippe Jozelon
+!--- GF - 155 x 240 mm - 356 pages - 25 euros
+- .oF.    iEx    *GELLY Christophe           &Lovecraft au prisme de l'image - Litt‚rature, cin‚ma et arts graphiques ş2016
+&  o             *MENEGALDO Gilles            
+o VISAGEV     ?  2017.10..... ISBN 978-2-918061-38-0
+} noimg          _?                           ?
+!--- 145 x 215 mm - 96 pages - 10 euros
+- .o .     r     _NAUGRETTE Jean-Pierre       Destination C‚rŠs ş2017
+o VISAGEV     ?  2018.02 ..... ISBN 978-2-918061-39-7
+} noimg          _?                           ?
+!--- GF - 155 x 235 mm - 285 pages - 19 euros
+- .oT.    iN30   _LEVEL Maurice               Les Oiseaux de nuit ş1913
+: .o .     p     _GONTIER Philippe            Pr‚face ş2018
+: .o .     N     _LEVEL Maurice               Le Chenil ş?
+: .o .     N     _LEVEL Maurice               Le Baiser dans la nuit ş?
+: .o .     N     _LEVEL Maurice               La Nuit et le Silence ş?
+: .o .     N     _LEVEL Maurice               Sous le chloroforme ş?
+: .o .     N     _LEVEL Maurice               Dans les bl‚s ş?
+: .o .     o     _BUARD Jean-Luc              Postface ş2018
+o VISAGEV     ?  2019.04 ..... ISBN 978-2-918061-41-0
+} noimg          _?                           ?
+!--- 145 x 215 mm - 292 pages - 19 euros
+- .o .     R     _REMY Yves & Ada             Le Grand Midi ş1971
+?o VISAGEV     ?  2019.09 ..... ISBN 978-2-918061-42-7
+?!--- "regroupant des contes de diff‚rents genres, ‚crits entre 1927 et 1930"
+?!--- "Celui qui n'a pas tu‚" in Suppl‚ment … l'illustration nø 4424, 1927
+?} noimg          _?                           ?
+?- .oF.    iNx    _RENARD Maurice              Celui qui n'a pas tu‚ ş2019
+o VISAGEV     ?  2019.11 ..... ISBN 978-2-918061-44-1
+} noimg          _?                           Kenneth M. Skeapin
+!--- Edition reli‚e toile avec jaquette
+!--- 145 x 215 mm - 144 pages - 25 euros - reli‚ - jaquette
+- .oFN    iNx    _JEROME Jerome K.            Veill‚es fant“mes ş1891 Told After Supper şTrad. LASSERE Jean-Louis
+: .o .     N     _JEROME Jerome K.            Le Moulin hant‚ ş1891 The Haunted Mill
+o VISAGEV     ?  2020.11 ..... ISBN 978-2-918061-45-8
+} noimg          _Jocely Dupont               ?
+!--- GF - 155 x 240 mm - 504 pages - 30 euros
+- .oF.    iEx    *DUPONT Jocelyn             &Spectres de Poe dans la litt‚rature et dans les arts - Actes du colloque de Cerisy ş2020
+&                *MENEGALDO Gilles            
+o VISAGEV     ?  2021.08 ..... ISBN 978-2-918061-47-2
+} vv082021       _Marc Brunier-Mestas         ?
+!--- GF - 162 pages - 14 euros
+- .o .     N7    _CRAM Ralph Adams            Esprits noirs et blancs - Histoires de fant“mes ş1895 Black Spirits and White: A Book of Ghost Stories şTrad. HOMASSEL Anne-Sylvie
+: .o .     p     _DZIEMIANOWICZ Stefan        Introduction ş2021 
+: .o .     N     _CRAM Ralph Adams            Nø 252, rue Monsieur-le-Prince ş1895 No. 252 Rue M. le Prince şTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _CRAM Ralph Adams            Le Donjon de Kropfsberg ş1895 In Kropfsberg Keep şTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _CRAM Ralph Adams            La Villa blanche ş1895 The White Villa şTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _CRAM Ralph Adams            Soeur Maddalena ş1895 Sister Maddelena şTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _CRAM Ralph Adams            Notre-Dame-des-Eaux ş1895 Notre Dame des Eaux şTrad. HOMASSEL Anne-Sylvie
+: .o .     N     _CRAM Ralph Adams            La Vall‚e morte ş1895 The Dead Valley şTrad. HOMASSEL Anne-Sylvie
+: .o .     o     _CRAM Ralph Adams            Post-scriptum ş1895 Postcript şTrad. HOMASSEL Anne-Sylvie
 

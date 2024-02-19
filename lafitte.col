@@ -1,15 +1,15 @@
 !-----------------------------------------------------------------------------
-_ LAFITTE Ed. Pierre Lafitte
-_ LAFI_LB Ed. P. Lafitte, Coll. Lilliput-BibliothŠque
-_ LAFI_BI Ed. P. Lafitte, Coll. Id‚al-BibliothŠque
-_ LAFI_IB Ed. P. Lafitte, Coll. illustr‚e Id‚al-BibliothŠque
-_ LAFI_PI Ed. P. Lafitte, Coll. Le Point d'interrogation
+_ LAFITTE Pierre Lafitte
+_ LAFI_LB P. Lafitte - Lilliput-BibliothŠque
+_ LAFI_BI P. Lafitte - Id‚al-BibliothŠque
+_ LAFI_IB P. Lafitte - Collection illustr‚e Id‚al-BibliothŠque
+_ LAFI_PI P. Lafitte - Le Point d'interrogation
 !-----------------------------------------------------------------------------
 !--- Editions P. Lafitte (Collection illustr‚e Ideal-BibliothŠque)
 !-----------------------------------------------------------------------------
 o LAFI_IB    13  1910.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     N7    _POE Edgar Allan             Contes ‚tranges þ?
+- .oF.     N7    _POE Edgar Allan             Contes ‚tranges þ1910
 !--- Illustraions de J. W‚ly
 : .o .     N     _POE Edgar Allan             Le Scarab‚e d'or þ1843 The Gold-Bug
 : .o .     N     _POE Edgar Allan             L'Affaire de la rue Morgue [Auguste Dupin] þ1841 The Murders in the Rue Morgue
@@ -30,7 +30,7 @@ o LAFI_IB     ?  1913.xx ..... ISBN -
 !--- ROSNY J.-H.   Vers la toison d'or
 o LAFI_IB    27  1911.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     N14   _POE Edgar Allan             Nouveaux contes ‚tranges þ1911
+- .oF.     N14   _POE Edgar Allan             Nouveaux contes ‚tranges þ1911
 !--- Traduction par Armand Masson
 : .o .     N     _POE Edgar Allan             Le SystŠme du docteur Goudron et du professeur Plume þ1845 The System of Dr. Tarr and Professor Fether
 : .o .     N     _POE Edgar Allan             Le Puits et le pendule þ1843 The Pit and the Pendulum
@@ -41,7 +41,7 @@ o LAFI_IB    27  1911.xx ..... ISBN -
 : .o .     N     _POE Edgar Allan             Ligeia þ1838 Ligeia
 : .o .     N     _POE Edgar Allan             Le Portrait ovale þ1842 The Oval Portrait
 : .o .     N     _POE Edgar Allan             Hop-Frog þ1849 Hop-Frog
-: .o .     N     _POE Edgar Allan             Le Coeur d‚nonciateur þ1843 The Tell-tale Heart
+: .o .     N     _POE Edgar Allan             Le Coeur d‚nonciateur þ1843 The Tell-Tale Heart
 : .o .     N     _POE Edgar Allan             L'Ensevelissement pr‚matur‚ þ1844 The Premature Burial
 : .o .     N     _POE Edgar Allan             L'Homme de la foule þ1840 The Man of the Crowd
 : .o .     N     _POE Edgar Allan             La Barrique d'Amontillado þ1846 The Cask of Amontillado
@@ -71,18 +71,19 @@ o LAFITTE     ?  1914.xx ..... ISBN _
 - .oPS     R     _GROC L‚on                   L'Autobus ‚vanoui þ1914
 o LAFITTE     ?  1918.xx ..... ISBN -
 } noimg          _?                           ?
-- .o .     R     _LEROUX Gaston               Rouletabille chez Krupp þ?
+- .o .     R     _LEROUX Gaston               Rouletabille chez Krupp þ1918
 o LAFITTE     ?  1920.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _LEBLANC Maurice             Les Trois Yeux þ1919
 o LAFITTE     ?  1920.xx ..... ISBN -
 } noimg          _?                           ?
-- .pF.    iN9    _ERCKMANN-CHATRIAN           Contes des bords du Rhin þ1862
+!--- TBD si version de 1862 ou de 1867 (2 textes de plus)
+- .pF.    iNx    _ERCKMANN-CHATRIAN           Contes des bords du Rhin þ1862
 ?: .o .     N     _ERCKMANN-CHATRIAN           Myrtille þ1860
 ?: .? .     N     _ERCKMANN-CHATRIAN           Mon illustre ami Selsam þ?
 ?: .oF.     N     _ERCKMANN-CHATRIAN           La Pˆche miraculeuse þ?
 ?: .oF.     N     _ERCKMANN-CHATRIAN           Le Tr‚sor du vieux seigneur þ?
-?: .oF.     N     _ERCKMANN-CHATRIAN           La Reine des abeilles þ1862
+?: .oF.     N     _ERCKMANN-CHATRIAN           La Reine des abeilles þ1861
 ?: .? .     N     _ERCKMANN-CHATRIAN           Le Talion þ?
 ?: .oF.     N     _ERCKMANN-CHATRIAN           Le Blanc et le noir þ1862
 ?: .o .     N     _ERCKMANN-CHATRIAN           La Voleuse d'enfants þ?

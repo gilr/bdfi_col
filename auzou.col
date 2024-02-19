@@ -1,8 +1,8 @@
 !-----------------------------------------------------------------------------
 _ AUZOU   Auzou
-_ AUZOUP  Auzou, Pas de G‚ant
-_ AUZOUV  Auzou, Virage
-_ AUZOUC  Auzou, Classiques
+_ AUZOUP  Auzou - Pas de G‚ant
+_ AUZOUV  Auzou - Virage
+_ AUZOUC  Auzou - Classiques
 !-----------------------------------------------------------------------------
 
 !------------------------
@@ -53,7 +53,7 @@ o AUZOUV      ?  2016.09 ..... ISBN 978-2-7338-4391-8
 o AUZOUV      ?  2017.01 ..... ISBN 978-2-7338-4828-9
 } noimg          _?                           ?
 !--- Jeunesse 11+ - MF - 140 x 195 mm - 256 pages - 11,95 euros
-- .oT.     R     _FRADE B. A.                &Pleine Lune [Scaremaster - 1] þ2016 Werewolf Weekend  þTrad. HAMZI Farah
+- .oT.     R     _FRADE B. A.                &Pleine Lune [Scaremaster - 1] þ2016 Werewolf Weekend þTrad. HAMZI Farah
 &                _DEUTSCH Stacia              
 o AUZOUV      ?  2017.05 ..... ISBN 978-2-7338-5083-1
 } noimg          _?                           ?
@@ -77,11 +77,11 @@ o AUZOU       ?  2018.01 ..... ISBN 978-2-7338-5084-8
 !--- Jeunesse 10+ - MF - 140 x 195 mm - 256 pages - 12,95 euros
 - .oY.     R     _BRISSY Pascal               L'H‚ritier de l'entredeux mondes [Balthazar Fox - 1] þ2018
 o AUZOU       ?  2018.02 ..... ISBN 978-2-7338-5616-1
-} noimg          _?                           ?
+} noimg          _Donatien Mary               ?
 !--- Jeunesse 10+ - MF - 140 x 195 mm - 216 pages - 12,95 euros
 - .oO.     R     _MERLE Claude                Le Sang de M‚duse [Les Secrets de l'Olympe - 1] þ2018
 o AUZOU       ?  2018.02 ..... ISBN 978-2-7338-5617-8
-} noimg          _?                           ?
+} noimg          _Donatien Mary               ?
 !--- Jeunesse 12+ - MF - 140 x 195 mm - 216 pages - 12,95 euros
 - .oO.     R     _MERLE Claude                Le Sommeil des immortels [Les Secrets de l'Olympe - 2] þ2018
 o AUZOUV      ?  2018.03 ..... ISBN 978-2-7338-5952-0
@@ -93,7 +93,7 @@ o AUZOU       ?  2018.04 ..... ISBN 978-2-7338-5953-7
 !--- Jeunesse 10+ - MF - 140 x 195 mm - 128 pages - 7,95 euros
 - .oS.     r     _STEVENSON Sir Steve         Le Papyrus vol‚ [Tom O'Clock, le d‚tective du temps - 3] þ2016 Il tesoro d'Egitto þTrad. FILIPPINI Anouk
 o AUZOU       ?  2018.08 ..... ISBN 978-2-7338-5521-8
-} noimg          _?                           ?
+} noimg          _Donatien Mary               ?
 !--- Jeunesse 12+ - MF - 140 x 195 mm - 216 pages - 12,95 euros
 - .oO.     R     _MERLE Claude                La Mal‚diction des Hesp‚rides [Les Secrets de l'Olympe - 3] þ2018
 o AUZOU       ?  2018.08 ..... ISBN 978-2-7338-6244-5
@@ -125,7 +125,7 @@ o AUZOU       ?  2019.04 ..... ISBN 978-2-7338-6682-5
 !--- Jeunesse 11+ - MF - 150 x 210 mm - 355 pages - 12,95 euros
 - .oF.     R     _RENAUD Sigrid               La Mal‚diction des serpents de mer þ2019
 o AUZOU       ?  2019.04 ..... ISBN 978-2-7338-6866-9
-} noimg          _?                           ?
+} noimg          _Donatien Mary               ?
 !--- Jeunesse 12+ - MF - 140 x 195 mm - 195 pages - 12,95 euros
 - .oO.     R     _MERLE Claude                Prom‚th‚e, le voleur de feu [Les Secrets de l'Olympe - 4] þ2019
 o AUZOU       ?  2019.09 ..... ISBN 978-2-7338-6425-8
@@ -211,15 +211,20 @@ o AUZOU       ?  2020.10 ..... ISBN 978-2-7338-8267-2
 } noimg          _Ben Mantle                  Ben Mantle
 !--- Jeunesse 9+ - MF - 140 x 195 mm - 300 pages - 12,95 euros
 - .oY.     R     _McLACHLAN Jenny             Retour … Groaar [Moi, Arthur, maŒtre du royaume perdu - 2] þ2020 Return to Roar þTrad. LOPEZ Julie
+o AUZOU       ?  2010.11 ..... ISBN 978-2-7338-1403-1
+} noimg          _Krystal Camprubi            ?
+!--- GF - 247 x 330 - 28 pages
+- .o .     E     _KLOCZKO Edouard             Le Monde magique de J.R.R. Tolkien þ2010
 !------------------------
 !=== 2021
 !------------------------
-?o AUZOUP      ?  2021.01 ..... ISBN 978-2-7338-8702-8
-?} noimg          _N. Vall‚e                   N. Vall‚e
-?!--- Jeunesse 9+ - MF - 140 x 185 mm - 96 pages - 5,95 euros
-?- .oY.     r     _PUARD Bertrand              Le Donjon noir [Le Royaume des Quatre-Murs - 1] þ2021
-?o AUZOU       ?  2021.01 ..... ISBN 978-2-7338-8593-2
-?} noimg          _Antonin Faure               ?
-?!--- Jeunesse 12+ - GF - 150 x 210 mm - 384 pages - 14,95 euros
-?- .oY.     r     _MACKENZIE Ross              L'Infinuit [L'Infinuit - 1] þ2015 The Nowhere Emporium þTrad. LAYMARIE Marie
+o AUZOUP      ?  2021.01 ..... ISBN 978-2-7338-8702-8
+} noimg          _N. Vall‚e                   N. Vall‚e
+!--- Jeunesse 9+ - MF - 140 x 185 - 96 pages - 5,95 euros
+- .o .     r     _PUARD Bertrand              Le Donjon noir [Le Royaume des Quatre-Murs - 1] þ2021
+o AUZOU       ?  2021.01 ..... ISBN 978-2-7338-8593-2
+} noimg          _Antonin Faure               ?
+!--- Jeunesse 12+ - GF - 150 x 210 - 374 pages - 14,95 euros
+- .o .     R     _MACKENZIE Ross              L'Infinuit [L'Infinuit - 1] þ2015 The Nowhere Emporium þTrad. LEYMARIE Marie
+
 

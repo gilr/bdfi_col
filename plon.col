@@ -4,7 +4,7 @@
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-_ PLON_H  Ed. Henri Plon
+_ PLON_H  Henri Plon
 !-----------------------------------------------------------------------------
 !--- Paris, rue GaranciŠre
 !-----------------------------------------------------------------------------
@@ -17,18 +17,18 @@ o PLON_H      ?  1863.xx ..... ISBN -
 - .o .     E     _COLLIN DE PLANCY J.         Dictionnaire infernal þ1818-1863
 
 !-----------------------------------------------------------------------------
-_ PLONCIE Ed. E. Plon et Cie
-_ PLONNOU Ed. Plon-Nourrit et Cie
-_ PLONPNO Ed. Les petits-fils de Plon et Nourrit
-_ PLONNAV Ed. Les petits-fils de Plon et Nourrit, Coll. Aventures
+_ PLONCIE E. Plon et Cie
+_ PLONNOU Plon-Nourrit et Cie
+_ PLONPNO Les petits-fils de Plon et Nourrit
+_ PLONNAV Les petits-fils de Plon et Nourrit - Aventures
 _ PLON    Plon
-_ PLON_AV Plon, Coll. Aventures
-_ PLONFRI Plon, Coll. Frissons
-_ PLONPOU Plon, Coll. Pourpre
-_ PLONLIS Librairie Plon, Coll. La Liseuse
-_ PLON_FC Plon, Coll. Feux Crois‚s
+_ PLON_AV Plon - Aventures
+_ PLONFRI Plon - Frissons
+_ PLONPOU Plon - Pourpre
+_ PLONLIS Librairie Plon - La Liseuse
+_ PLON_FC Plon - Feux Crois‚s
 _ PLONJ   Plon Jeunesse
-_ PLONJ_H Plon Jeunesse, Heroic
+_ PLONJ_H Plon Jeunesse - Heroic
 !-----------------------------------------------------------------------------
 o PLON        ?  1954.xx ..... ISBN -
 } noimg          _?                           ?
@@ -52,6 +52,12 @@ o PLONNOU     ?  1899.xx ..... ISBN -
 o PLONNOU     ?  1904.xx ..... ISBN -
 } noimg          _?                           ?
 - .oS.     R     _COUVREUR Andr‚              Caresco, surhomme ou le voyage en Ecrasie, conte humain [Le Docteur Caresco] þ1904
+o PLONNOU     ?  1905.xx ..... ISBN -
+} noimg          _?                           ?
+- .oF.     N3    _RENARD Maurice              Fant“mes et fantoches þ1905
+: .o .     r     _RENARD Maurice              Le Lapidaire þ1905
+: .o .     N     _RENARD Maurice              La Fˆlure þ1905
+: .o .     N     _RENARD Maurice              Le Bourreau de Dieu þ1905
 o PLONNOU     ?  1913.xx ..... ISBN -
 } noimg          _?                           ?
 - .p .    iNx    _LICHTENBERGER Andr‚         Les Contes de Minnie þ1913
@@ -103,11 +109,11 @@ o PLONLIS     ?  1928.xx ..... ISBN -
 - .o .     R     _BAILLY Albert               Les Vieux de la Terre þ1928
 o PLON        ?  1930.xx ..... ISBN -
 } noimg          _?                           ?
-- .oF.     N4    _GREEN Julien                Le Voyageur sur la Terre þ1930
+- .oF.     N4    _GREEN Julien                Le Voyageur sur la Terre þ1927
 : .oF.     N     _GREEN Julien                Le Voyageur sur la Terre þ1926
-: .oF.     N     _GREEN Julien                Les Clefs de la mort þ1930
-: .o?.     N     _GREEN Julien                Christine þ1930
-: .o?.     N     _GREEN Julien                L‚viathan ou la travers‚e inutile þ1930
+: .oF.     N     _GREEN Julien                Les Clefs de la mort þ1927
+: .o?.     N     _GREEN Julien                Christine þ1927
+: .o?.     N     _GREEN Julien                L‚viathan ou la travers‚e inutile þ1927
 o PLONNAV    12  1932.xx ..... ISBN -
 } noimg          _?                           ?
 - .o .     R     _VARLET Th‚o                 Le Roc d'or þ1927
@@ -174,17 +180,15 @@ o PLON        ?  1962.xx ..... ISBN -
 - .oS.     R     _DUESBERG Raymond            Les Grenouilles þ1962
 o PLON_FC     ?  1963.xx ..... ISBN -
 } noimg          _?                           ?
-- .pS.    iNx    _TERTZ Abraham               Le Verglas þ1963
-!--- Trad. LESCAUT Sonia
-!--- ou Trad. ROY Tatiana ??
+- .pS.    iNx    _TERTZ Abraham               Le Verglas þ1961 Fantastichskie povesti þTrad. LESCAUT Sonia
 ?: .o .     p      _DOMENACH Jean-Marie        Pr‚face þ?
-?: .o .     N      _TERTZ Abraham              Le Verglas þ?
-?: .o .     N      _TERTZ Abraham              Graphomanie þ?
-?: .o .     N      _TERTZ Abraham              Toi et moi þ?
-?: .o .     N      _TERTZ Abraham              Les Locataires þ?
-?: .o .     N      _TERTZ Abraham              Le Cirque þ?
-?: .o .     N      _TERTZ Abraham              L'audience est ouverte þ?
-?: .o .     o      _?                          Le R‚alisme socialiste. þ?
+: .o .     N     _TERTZ Abraham               Le Verglas þ1961 Gololeditsa þTrad. LESCAUT Sonia
+: .o .     N     _TERTZ Abraham               Graphomanie þ1961 Grafomany þTrad. LESCAUT Sonia
+: .o .     N     _TERTZ Abraham               Toi et moi þ1961 Ty i ya þTrad. LESCAUT Sonia
+: .o .     N     _TERTZ Abraham               Les Locataires þ1961 Kvartiranty þTrad. LESCAUT Sonia
+: .o .     N     _TERTZ Abraham               Le Cirque þ1961 V tsirque þTrad. LESCAUT Sonia
+?: .o .     N     _TERTZ Abraham              L'audience est ouverte þ1961
+?: .o .     o     _?                          Le R‚alisme socialiste þ1961
 o PLON_FC     ?  1963.xx ..... ISBN -
 } noimg          _?                           ?
 + PLON_FC     ?  2013.10 ..... ISBN 978-2-259-22150-4
@@ -296,13 +300,13 @@ o PLON        ?  1999.xx ..... ISBN 2-259-19109-6
 - .o .     R     _TRUONG Jean-Michel          Reproduction interdite þ1988
 o PLON        ?  1999.xx ..... ISBN 2-259-.-...-.
 } noimg          _?                           ?
-- .o .     R     _RICE Anne                   Pandora [Les Nouveaux Contes des vampires - 1] þ1998 Pandora
+- .o .     R     _RICE Anne                   Pandora [Nouveaux contes des vampires - 1] þ1998 Pandora
 o PLON        ?  2000.xx ..... ISBN 2-259-.-...-.
 } noimg          _?                           ?
-- .o .     R     _STRAUB Peter                Mr. X þ1999 Mr X þTrad. PAGEL Michel
+- .o .     R     _STRAUB Peter                Mr. X þ1999 Mr. X þTrad. PAGEL Michel
 o PLON        ?  2000.xx ..... ISBN 2-259-.-...-.
 } noimg          _?                           ?
-- .oF.     R     _RICE Anne                   Vittorio le vampire [Les Nouveaux Contes des vampires - 2] þ1999 Vittorio the Vampire
+- .oF.     R     _RICE Anne                   Vittorio le vampire [Nouveaux contes des vampires - 2] þ1999 Vittorio the Vampire
 o PLON        ?  2001.xx ..... ISBN 2-259-.-...-.
 } noimg          _?                           ?
 - .oF.     R     _BRUSSOLO Serge              Le Jour du chien bleu [Peggy Sue et les fant“mes - 1] þ2001
@@ -357,6 +361,9 @@ o PLON        ?  2005.10 ..... ISBN 2-259-20012-5
 o PLON        ?  2006.04 ..... ISBN 2-259-20352-3
 } noimg          _?                           ?
 - .oY.     R     _COVIN Alec                  Etats primitifs [Les Loups de Fenryder - 2] þ2006
+o PLON        ?  2007.xx ..... ISBN 978-2-259-20270-1
+} noimg          _?                           ?
+- .oF.     R     _STRAUB Peter                Le Cabinet noir þ2004 In the Night Room þTrad. PAGEL Michel
 o PLON        ?  2008.04 ..... ISBN 978-2-259-.....-.
 } noimg          _?                           ?
 - .oF.     R     _COVIN Alec                  Deux et demi, ou le roman du diable þ2008
@@ -487,6 +494,7 @@ o PLONJ       ?  2009.10 ..... ISBN 978-2-259-21096-6
 - .oS.     R     _JAY Fran‡oise               Les Enfants-Rats þ2009
 o PLONJ_H     ?  2010.01 ..... ISBN 978-2-259-21086-7
 } noimg          _?                           ?
+!--- "Les voyages extraordinaires" en cycle sur la couverture
 - .oY.     R     _TENOR Arthur                Sur les terres du comte Dracula [Les Infinimondes de l'imaginaire - 4] þ2010
 o PLONJ_H     ?  2008.08 ..... ISBN 978-2-259-20891-8
 } noimg          _?                           ?

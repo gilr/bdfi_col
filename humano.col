@@ -22,7 +22,7 @@ o HASSOC      ?  1978.xx ..... ISBN .-.....-...-.
 : .o .     N     _BIERCE Ambrose              Le TroisiŠme Orteil du pied droit þ1890 The Middle Toe of the Right Foot
 : .o .     N     _BIERCE Ambrose              La Fenˆtre condamn‚e þ1891 The Boarded Window
 : .o .     N     _BIERCE Ambrose              Une histoire de revenants þ1889 The Suitable Surroundings
-: .o .     N     _BIERCE Ambrose              Le Mort et son veilleur þ1890 A Watcher by the Dead
+: .o .     N     _BIERCE Ambrose              Le Mort et son veilleur þ1889 A Watcher by the Dead
 : .o .     N     _BIERCE Ambrose              Un habitant de Carcosa þ1886 An Inhabitant of Carcosa
 : .o .     N     _BIERCE Ambrose              La Route au clair de lune þ1907 The Moonlit Road
 : .o .     N     _BIERCE Ambrose              Une nuit d'‚t‚ þ1906 One Summer Night
@@ -35,7 +35,7 @@ o HASSOC      ?  1978.xx ..... ISBN .-.....-...-.
 !--- Le club des parenticides (4 contes) : 
 : .o .     N     _BIERCE Ambrose              Mon meurtre pr‚f‚r‚ þ1888 My Favorite Murder
 : .o .     N     _BIERCE Ambrose              Huile de chien þ1890 The Oil of a Dog / Oil of Dog
-: .o .     N     _BIERCE Ambrose              Le Brasier infernal þ1886 An Imperfect Conflagration
+: .x .     N     _BIERCE Ambrose              Le Brasier infernal þ1886 An Imperfect Conflagration
 : .o .     N     _BIERCE Ambrose              L'Hypnotiseur þ1893 John Bolger, Hypnotist / The Hypnotist
 
 ?o HASSOC      ?  1979.xx ..... ISBN ?
@@ -49,18 +49,18 @@ o HASSOC      ?  2005.02 ..... ISBN 2-258-06783-9
 - .oS.     R     _VERNE Jules                 Le Testament d'un excentrique þ1899
 
 !-----------------------------------------------------------------------------
-_ HASS_IL Les Humano‹des associ‚s, Coll. Horizons Illimit‚s
-_ HASS_SP Les Humano‹des associ‚s, Coll. Speed
+_ HASS_IL Les Humano‹des associ‚s - Horizons Illimit‚s
+_ HASS_SP Les Humano‹des associ‚s - Speed
 !-----------------------------------------------------------------------------
 o HASS_IL     ?  1977.T2 ..... ISBN 2-902123-23-X
 } noimg          _Jean Sol‚                   ?
 - .oS.     R     _BRUNNER John                La PlanŠte folie þ1968 Bedlam Planet þTrad. CORDAY Jacques
 o HASS_SP    17  1978.xx ..... ISBN 2-902123-..-.
 } noimg          _?                           ?
-- .x .    iN7    _ELLISON Harlan              Les Barons de Brooklyn þ1961
+- .x .    iNx    _ELLISON Harlan              Les Barons de Brooklyn þ1961
 
 !-----------------------------------------------------------------------------
-_ HASS_HE Les Humano‹des associ‚s, Coll. Harlan Ellison
+_ HASS_HE Les Humano‹des associ‚s - Harlan Ellison
 !-----------------------------------------------------------------------------
 o HASS_HE     1  1979.xx ..... ISBN 2-902123-74-4
 } humanoharlan1  _?                           ?
@@ -130,7 +130,7 @@ o HASS_HE     4  1980.xx ..... ISBN 2-7316-0030-6
 } humanoharlan4  _?                           ?
 - .oS.    kN16   _ELLISON Harlan              La Chanson du Zombie þ1971 Partners in Wonder þTrad. CHAMBON Jacques
 : .o .     p     _ELLISON Harlan              Les Enfants de Janus þ1971 Sons of Janus
-: .o .     N     _ELLISON Harlan             &Je vois un homme assis dans un fauteuil, et le fauteuil lui mord la jambe þ1968 I See a Man Sitting on a Chair, and the Chair Is Bitting His Leg
+: .o .     N     _ELLISON Harlan             &Je vois un homme assis dans un fauteuil, et le fauteuil lui mord la jambe þ1968 I See a Man Sitting on a Chair, and the Chair Is Biting His Leg
 &                _SHECKLEY Robert             
 : .o .     N     _BOVA Ben                   &Flic de fer þ1970 Brillo
 &                _ELLISON Harlan              
@@ -165,7 +165,7 @@ o HASS_HE     4  1980.xx ..... ISBN 2-7316-0030-6
 &                _ZELAZNY Roger               
 
 !-----------------------------------------------------------------------------
-_ HASS_BA Les Humano‹des associ‚s, Coll. BibliothŠque a‚rienne þ1977-1978
+_ HASS_BA Les Humano‹des associ‚s - BibliothŠque a‚rienne þ1977-1978
 !-----------------------------------------------------------------------------
 !--- Les Humano‹des associ‚s
 !--- Collection BibliothŠque a‚rienne (1977-1978)
@@ -207,7 +207,7 @@ o HASS_BA     8  1978.xx ..... ISBN 2-902123-..-.
 - .o .     R     _VERNE Jules                 Les Aventures de Jean-Marie Cabidoulin þ1901
 o HASS_BA    HS  1980.xx ..... ISBN 2-902123-..-.
 } noimg          _?                           ?
-- .o .     N20   _POE Edgar Allan             Contes introuvables þ1980
+- .oF.     N20   _POE Edgar Allan             Contes introuvables þ1980
 !--- pr‚face de Fran‡ois RiviŠre
 !--- Chronologie de Yves di Manno
 !--- Illustrations de harry Clarke.
@@ -247,5 +247,5 @@ o HASS_BA    HS  1978.xx ..... ISBN 2-902123-54-6
 ?! Titre du dos: Anthologie. Histoires de science-fiction.
 ?! Quinze extraits de feuilletons des ann‚es 1950 qui int‚resseront les amateurs collectionneurs du huitiŠme art. 
 ?} noimg          _?                           ?
-?- .o .    iA15   ****                         Les Meilleures Histoires de science-fiction þ?
+?- .o .    iAx    ****                         Les Meilleures Histoires de science-fiction þ?
 

@@ -7,13 +7,13 @@ o PRECLER     ?  1947.xx ..... ISBN -
 
 !-----------------------------------------------------------------------------
 _ PCLE    Le PrÇ aux Clercs
-_ PCLE_FY Le PrÇ aux Clercs, Fantasy
-_ PCLE_CF Le PrÇ aux Clercs, Coll. Le Cabinet Fantastique
-_ PCLE_PA Le PrÇ aux Clercs, Coll. Pandore
+_ PCLE_FY Le PrÇ aux Clercs - Fantasy
+_ PCLE_CF Le PrÇ aux Clercs - Le Cabinet Fantastique
+_ PCLE_PA Le PrÇ aux Clercs - Pandore
 !-----------------------------------------------------------------------------
 
 !-----------------------------------------------------------------------------
-!-- PCLE_CF Le PrÇ aux Clercs, Coll. Le Cabinet Fantastique
+!-- PCLE_CF Le PrÇ aux Clercs, Le Cabinet Fantastique
 !-----------------------------------------------------------------------------
 o PCLE_CF     ?  2007.03 ..... ISBN 978-2-84228-288-2
 } paccabfant01   _?                           ?
@@ -224,6 +224,10 @@ o PCLE_FY     ?  2012.10 ..... ISBN 978-2-84228-496-1
 !------------------------
 !=== 2013
 !------------------------
+o PCLE        ?  2013.xx ..... ISBN 978-2-84228-376-6
+} noimg          _?                           ?
+!--- 277 pages
+- .oF.     R     _SIRE CEDRIC                 Angemort ˛2006
 o PCLE_FY     ?  2013.11 ..... ISBN 978-2-8422-8531-9
 } pacfy43        _Didier Graffet              ?
 - .oY.     R     _NOVIK Naomi                 Le Sang des tyrans [TÇmÇraire - 8] ˛2013 Blood of Tyrants ˛Trad. FOURNIER Guillaume
@@ -336,38 +340,38 @@ o PCLE        ?  2009.03 ..... ISBN 978-2-84228-...-.
 - .oF.     R     _SIRE CEDRIC                 L'Enfant des cimetiäres ˛2009
 o PCLE        ?  2009.05 ..... ISBN 978-2-84228-365-0
 } preclercs_365  _?                           ?
-- .oF.    kN30   _LOVECRAFT Howard P.         Dagon et autres nouvelles de terreur ˛1969 Dagon and Other Macabre Tales ˛Trad. PEREZ Paule
+- .oF.    kN30   _LOVECRAFT Howard P.         Dagon et autres nouvelles de terreur ˛1965 Dagon and Other Macabre Tales ˛Trad. PEREZ Paule
 : .o .     N     _LOVECRAFT Howard P.         Dagon ˛1919 Dagon
-: .o .     N     _LOVECRAFT Howard P.         La Tombe ˛1917 The Tomb
+: .o .     N     _LOVECRAFT Howard P.         La Tombe ˛[1917],1922 The Tomb
 : .o .     N     _LOVECRAFT Howard P.         Polaris ˛1920 Polaris
 : .o .     N     _LOVECRAFT Howard P.         La MalÇdiction de Sarnath ˛1920 The Doom That Came to Sarnath
 : .o .     N     _LOVECRAFT Howard P.         Le Bateau blanc ˛1919 The White Ship
-: .o .     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ˛1920 Cats of Ulthar
+: .o .     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ˛1920 The Cats of Ulthar
 : .o .     N     _LOVECRAFT Howard P.         Celephais ˛1920 Celephais
-: .o .     N     _LOVECRAFT Howard P.         De l'au-delÖ ˛1920 From Beyond
-: .o .     N     _LOVECRAFT Howard P.         Le Temple ˛1917 The Temple
-: .o .     N     _LOVECRAFT Howard P.         L'Arbre ˛1920 The Tree
-: .o .     N     _LOVECRAFT Howard P.         Les Autres dieux ˛1921 The Other Gods
+: .o .     N     _LOVECRAFT Howard P.         De l'au-delÖ ˛1934 From Beyond
+: .o .     N     _LOVECRAFT Howard P.         Le Temple ˛1925 The Temple
+: .o .     N     _LOVECRAFT Howard P.         L'Arbre ˛1921 The Tree
+: .o .     N     _LOVECRAFT Howard P.         Les Autres Dieux ˛1921 The Other Gods
 : .o .     N     _LOVECRAFT Howard P.         La Quàte d'Iranon ˛1921 The Quest of Iranon
-: .o .     N     _LOVECRAFT Howard P.         Herbert West, rÇanimateur ˛1922 Herbert West, RÇanimator
+: .o .     N     _LOVECRAFT Howard P.         Herbert West, rÇanimateur ˛1922 Herbert West: Reanimator
 : .o .     N     _LOVECRAFT Howard P.         Hypnos ˛1923 Hypnos
 : .o .     N     _LOVECRAFT Howard P.         Le Festival ˛1923 The Festival
 : .o .     N     _HOUDINI Harry              &Prisonnier des pharaons ˛1924 Imprisoned With the Pharaons
 &                _LOVECRAFT Howard P.         
-: .o .     N     _LOVECRAFT Howard P.         Lui ˛1925 He
-: .o .     N     _LOVECRAFT Howard P.         Horreur Ö Red Hook ˛1925 The Horror at Red Hook
+: .o .     N     _LOVECRAFT Howard P.         Lui ˛1926 He
+: .o .     N     _LOVECRAFT Howard P.         Horreur Ö Red Hook ˛1927 The Horror at Red Hook
 : .o .     N     _LOVECRAFT Howard P.         L'êtrange Maison haute dans la brume ˛1931 The Strange High House in the Mist
-: .o .     N     _LOVECRAFT Howard P.        &Dans les murs d'Eryx ˛1935 In the Walls of Eryx
+: .o .     N     _LOVECRAFT Howard P.        &Dans les murs d'Eryx ˛1939 In the Walls of Eryx
 &                _STERLING Kenneth            
-: .o .     N     _LOVECRAFT Howard P.         Le Clergyman maudit ˛1937 The Evil Clergyman
-: .o .     N     _LOVECRAFT Howard P.         La Bàte de la caverne ˛1905 The Beast in the Cave
-: .o .     N     _LOVECRAFT Howard P.         L'Alchimiste ˛1908 The Alchemist
+: .o .     N     _LOVECRAFT Howard P.         Le Clergyman maudit ˛[1933],1939 The Evil Clergyman
+: .o .     N     _LOVECRAFT Howard P.         La Bàte de la caverne ˛1918 The Beast in the Cave
+: .o .     N     _LOVECRAFT Howard P.         L'Alchimiste ˛1916 The Alchemist
 : .o .     N     _LOVECRAFT Howard P.         La PoÇsie et les dieux ˛1920 Poetry and Gods
 : .o .     N     _LOVECRAFT Howard P.         La Rue ˛1920 The Street
-: .o .     N     _LOVECRAFT Howard P.         La Transition de Juan Romero ˛1919 The Transition of Juan Romero
+: .o .     N     _LOVECRAFT Howard P.         La Transition de Juan Romero ˛1944 The Transition of Juan Romero
 : .o .     N     _LOVECRAFT Howard P.         Azathoth ˛1922 Azathoth
 : .o .     N     _LOVECRAFT Howard P.         Le Descendant ˛1926 The Descendant
-: .o .     N     _LOVECRAFT Howard P.         Le Livre ˛1934 The Book
+: .o .     N     _LOVECRAFT Howard P.         Le Livre ˛1938 The Book
 : .o .     N     _LOVECRAFT Howard P.         La Chose dans la clartÇ lunaire ˛1934 The Thing in the Moonlight
 o PCLE        ?  2009.11 ..... ISBN 978-2-84228-375-9
 } preclercs_375  _Henrik Sorensen             N
@@ -449,6 +453,10 @@ o PCLE_FY     ?  2009.10 ..... ISBN 978-2-84228-360-5
 } pacfye6        _S. Gestin & D. Graffet      ?
 - .oM.     E     _BRASEY Edouard              L'EncyclopÇdie des hÇros du merveilleux ˛2009
 
+o PCLE        ?  2010.xx ..... ISBN 978-2-84228-386-5
+} noimg          _?                           ?
+!--- GF - 24 cm - 653 pages - 22,90 euros
+- .oF.     G     _POZZUOLI Alain              La Bible Dracula - Dictionnaire du vampire ˛2010
 o PCLE        ?  2010.04 ..... ISBN 978-2-84228-382-7
 } noimg          _Elodie Saracco              ?
 - .oF.     E     _BRASEY Edouard              TraitÇ des Anges, suivi d'autres traitÇs classiques d'angÇologie ˛2010
@@ -477,3 +485,4 @@ o PCLE        ?  2015.09 ..... ISBN 978-2-84228-R570-8
 } noimg          _Pascal Croci                Pascal Croci 
 - .oF.     E     _BRASEY Edouard             &La Bible des vampires ˛2015
 &                _BRASEY StÇphanie            
+

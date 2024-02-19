@@ -1,7 +1,7 @@
 !-----------------------------------------------------------------------------
-!-- GALS    Revue Galaxies þ1996 - 2007
+!-- GALS    Revue Galaxies
 !-- GALH    Galaxies, Hors s‚rie
-!-- GALAXS2 Revue Galaxies - Nouvelle s‚rie þ2008 - ...
+!-- GALAXS2 Revue Galaxies - Nouvelle s‚rie
 !-- GALAXSn Revue Galaxies - Nouvelle s‚rie (suppl‚ment num‚rique)
 !-- GALAXHS Galaxies - Hors-s‚rie
 !-----------------------------------------------------------------------------
@@ -100,8 +100,8 @@ o GALS       11  1999.xx R.... ISBN .-.....-...-.
 : .o .     N     _CAMUS David                 La Nuit des petits hommes verts þ1998
 : .o .     N     _ESAIAS Timons               Norbert et le systŠme þ1993 Norbert and the system þTrad. BREQUE Jean-Daniel
 : .o .     N     _BRIN David                  D‚charge publique þ1993 Detritus Affected þTrad. REY Pierre K.
-: .o .     N     _RESNICK Mike                Le dernier … quitter la planŠte est pri‚ d'‚teindre le soleil þ1992 Will the Last Person to Leave the Planet Shut Off the Sun? þTrad. ROSE Fabienne
-: .o .     N     _EVANGELISTI Valerio         Metallica þ1998 Metallica þTrad. VIAL Eric
+: .o .     N     _RESNICK Mike                Le dernier … quitter la planŠte est pri‚ d'‚teindre le soleil þ1992 Will the Last Person to Leave the Planet Please Shut Off the Sun? þTrad. ROSE Fabienne
+: .o .     N     _EVANGELISTI Valerio         Metallica þ1996 Metallica þTrad. VIAL Eric
 o GALS       12  1999.xx R.... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     M7    ****                         Galaxies 12 (Printemps 99) þ1999
@@ -177,7 +177,7 @@ o GALS       19  2000.xx R.... ISBN .-.....-...-.
 o GALS       20  2001.xx R.... ISBN .-.....-...-.
 } noimg          _?                           ?
 - .o .     M6    ****                         Galaxies 20 (Printemps 2001) þ2001
-: .o .     N     _BISSON Terry                Lune de miel … New York þ1998 Get Me to He Church on Time þTrad. GOULLET Gilles
+: .o .     N     _BISSON Terry                Lune de miel … New York þ1998 Get Me to the Church on Time þTrad. GOULLET Gilles
 : .o .     N     _HELIOT Johan                Des clous dans les yeux de la nuit þ2001
 : .o .     N     _LAWSON Chris                Ecrit dans le sang þ1999 Written in Blood þTrad. GOULLET Gilles
 : .o .     N     _REED Robert                 Renaissance þ2000 Due þTrad. LE MAIRE Laurence
@@ -295,7 +295,7 @@ o GALS       33  2004.08 R.... ISBN 2-9519724-5-8
 } noimg          _?                           ?
 - .oS.     M5    ****                         Galaxies 33 (‚t‚ 2004) þ2004
 : .oS.     N     _STABLEFORD Brian M.         Victimes þ2000 Victims þTrad. DOLISI Florence
-: .oS.     N     _MARTINEZ Rodolfo            La Route þ1993 La Carretera þTrad. MILLER Sylvie
+: .oS.     N     _MARTINEZ Rodolfo            La Route þ1993 La carretera þTrad. MILLER Sylvie
 : .oS.     N     _NAJMAN Marie-Pierre         H‚ros de la Gu‚guerre þ2004
 : .oS.     N     _SMITH Michael Marshall      La magie est en toi þ1998 What You Make It
 : .oS.     N     _SHEPARD Lucius              Se¤or Volto þ2003 Se¤or Volto þTrad. BREQUE Jean-Daniel
@@ -380,7 +380,7 @@ o GALS       42  2007.05 R.... ISBN 2-916370-04-8
 : .oS.     N     _DAMASIO Alain               So Phare away þ2007
 
 !-----------------------------------------------------------------------------
-_ GALH    Galaxies, Hors s‚rie
+_ GALH    Galaxies - Hors s‚rie
 !-----------------------------------------------------------------------------
 !--- Hors s‚ries
 !-----------------------------------------------------------------------------
@@ -442,15 +442,12 @@ o GALH        3  2000.04 R.... ISBN .-.....-...-.
 
 !-----------------------------------------------------------------------------
 _ GALAXS2 Revue Galaxies - Nouvelle s‚rie þ2008 - ...
-_ GALAXSn Revue Galaxies (suppl‚ment num‚rique)
+_ GALAXSn Revue Galaxies - Nouvelle s‚rie, suppl‚ment num‚rique [num‚rique]
 !-----------------------------------------------------------------------------
-!-----------------------------------------------------------------------------
-_ GALAX37 <b>in</b> Revue Galaxies nø 37 (septembre 2015) et 38 (d‚cembre 2015)
-!-----------------------------------------------------------------------------
-o GALAX37     ?  2015.xx ..... ISBN -
+o GALAXS2     ?  2015.xx ..... ISBN -
 } noimg          _?                           ?
+>--- SERIAL : nø 37 (septembre 2015) et 38 (d‚cembre 2015)
 - .o .     r     _HENNEBERG Nathalie          Kheroub des ‚toiles þ[1976],2015
-!-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
 o GALAXS2  1bis  2008.07 ..... ISBN 978-2-914-.....-.
 } noimg          _?                           ?
@@ -601,7 +598,7 @@ o GALAXS2    16  2012.04 ..... ISBN 978-2-914-59032-7
 !--- nø 16 / nø 58
 } noimg          _?                           ?
 - .oS.    _M5    ****                         Galaxies nø 16 þ2012
-: .o .     N     _SANCHIZ Ramiro              Les Autres livres þ2009 Los otros libros / Algunos de los otros þTrad. FUENTEALBA Jacques
+: .o .     N     _SANCHIZ Ramiro              Les Autres Livres þ2009 Los otros libros / Algunos de los otros þTrad. FUENTEALBA Jacques
 : .o .     N     _RESNICK Mike                La Fianc‚e de Frankenstein þ2010 The Bride of Frankenstein þTrad. CALVEZ Jean-Michel
 : .o .     N     _LUSSIAN Patrice             Repr‚sailles þ2012
 : .o .     N     _OULD EBNOU Moussa           Voyage dans l'outre-temps þ2012
@@ -967,7 +964,7 @@ o GALAXS2    47  2017.05 ..... ISBN 977-1-270238-00-4
 : .o .     N     _MALTERE C‚line              La Lune factice þ2017
 : .o .     N     _JORDAN Christian            La Route en rond þ1975
 : .o .     N     _SHOEMAKER Martin L.         Aujourd'hui, je suis Paul þ2015 Today I am Paul þTrad. CALVEZ Jean-Michel
-: .o .     N     _POCHESCI Bruno              Les Couche-tard þ2017
+: .o .     N     _POCHESCI Bruno              Les Couche-Tard þ2017
 : .o .     N     _MIENSKI Danny               Le Fabuleux Royaume du prˆtre Jean þ2014
 o GALAXS2    48  2017.09 ..... ISBN 978-2-376250-29-6
 !--- nø 48 / nø 90
@@ -1156,7 +1153,7 @@ o GALAXS2    62  2019.12 ..... ISBN 978-2-376250-87-6
 : .o .  35 N     _DEBATS Jeanne-A             Les anges rˆvent-iels de Lamashires ? þ2019
 : .o .  85 N     _BARJAVEL Ren‚               Colomb de la Lune þ1959
 : .o .  89 N     _POCHESCI Bruno              C'est pour demain þ2019
-: .o .  98 N     _WALTHER Daniel              Flinguez-moi tout ‡a ! þ2019
+: .o .  98 N     _WALTHER Daniel              Flinguez-moi tout ‡a ! þ1968
 : .o . 110 N     _LELOUP Fabienne             Vice pure þ2019
 : .o . 120 x     _ASTIER Philippe             Le Festin des amn‚siques þ2019
 : .o . 140 N     _DOUAY Dominique             Le Ciel au-dessus þ2019
@@ -1166,7 +1163,7 @@ o GALAXS2    63  2020.01 ..... ISBN 978-2-376250-90-6
 : .o .   5 N     _FERAUD Gabriel              Kumak þ2020
 : .o .  17 N     _WALTHER Daniel              La Mort en Colchide þ2020
 : .o .  28 N     _PESLOUAN Herv‚ de           La Nouvelle Illusion þ?
-: .! .  47 P     _KING Stephen                Ao–t … Brooklyn þ2020 August in Brooklyn þTrad. GEVART Pierre
+: .x .  47 P     _KING Stephen                Ao–t … Brooklyn þ2020 August in Brooklyn þTrad. GEVART Pierre
 : .o .  54 N     _HOWARD Robert E.            L'Apparition sur le ring þ1929 The Apparition in the Prize Ring þTrad. TRUCHAUD Fran‡ois
 : .o .  72 N     _TANNER Rachel               Le Fumet des sacrifices þ2020
 : .o .  80 N     _CLAVEL Fabien               Fides þ2020
@@ -1181,7 +1178,6 @@ o GALAXS2    64  2020.03 ..... ISBN 978-2-376250-90-6
 : .o .     N     _DESGRANGES P. A.            Le Quetzal þ2020
 : .o .     N     _JOBY Gulzar                 La Fin du Silicien þ2020
 : .o .     N     _SIANA                       Le Paradoxe de l'identit‚ þ2020
-!--- Ana‹s Douillard
 : .o .     N     _HANOST Paul                 Les Coucous þ1992
 : .o .     N     _HAGEL Charles               Sic transit þ1929
 : .o .     N     _NEWTON Sarah                Vision r‚manente þ2020
@@ -1195,7 +1191,7 @@ o GALAXS2    65  2020.06 ..... ISBN 978-2-376250-90-6
 : .o .     N     _MARTINIGOL Danielle         Qui-Vive þ2020
 : .o .     N     _FLEURY Victor               Service aprŠs-vente þ2020
 : .o .     N     _MAUGER Laure                P‚pin þ2020
-: .o .     N     _GRENIER Christian           Partir pour Edena þ2020
+: .o .     N     _GRENIER Christian           Partir pour Edena þ2000
 : .o .     N     _BLUMLEIN Michael            Ablation et Multig‚n‚ration cellulaire : ‚tude sur un cas þ1984 Tissue Ablation and Variant Generation: A Case þTrad. SIGAUD Bernard
 : .o .     N     _ANDREVON Jean-Pierre        Les Aventures de Dieu, Adam et Eve þ2020
 o GALAXS2    66  2020.08 ..... ISBN 978-2-376250-90-6
@@ -1221,6 +1217,366 @@ o GALAXS2    67  2020.10 ..... ISBN 978-2-37625-105-7
 : .o .     N     _Soeurs FOX                  Less is More þ2020
 : .o .     N     _LOUVAIN Constantin          Interview d'un monstre þ2020
 : .o .     N     _GAILLARD No‚                Bout d'essai þ2020
+o GALAXS2 67bis  2020.10 ..... ISBN ?
+} noimg          _?                           ?
+- .oS.    kM13   ****                         Galaxies nø 67 bis þ2020
+: .o .     N     _CHEVIN Barnett              Voyages þ2020
+: .o .     N     _CAZA Philippe               L'Homme du n‚ant þ2020
+: .o .     N     _JANDROK Thierry             Drenstein - Autriche 1805 þ2020
+: .o .     N     _MARIACCIA St‚phanie         Igurgai ou la Frankenstein moderne þ2020
+: .o .     N     _MILIAN Cl‚ment              Les Amants monstrueux de Mary þ2020
+: .o .     N     _SOULARD Thierry             FankÅÅÅÅollecÅÅÅÅstein ou Les Exquis Cadavres þ2020
+: .o .     N     _BOULADE S‚bastien           Les Derniers Jours du Dr Frank Silbertin þ2020
+: .o .     N     _BRACCHI Erwan               Mary Christmas þ2020
+: .o .     N     _JOUANNAIS Jean-Jacques      Une seconde chance pour Vera þ2020
+: .o .     N     _MORLEVAT Eric               Parmi d'autres þ2020
+: .o .     N     _NETSCHAIEV Faust            Le NŠgre litt‚raire et ses cadavres exquis þ2019
+: .o .     N     _ROZENBAUM Alain             Superfranky þ2020
+: .o .     N     _WORDFUL Penny               Eve þ2020
+o GALAXS2    68  2020.10 ..... ISBN 978-2-37625-111-8
+} noimg          _?                           ?
+!--- nø 68 / 110
+- .oS.    _M7    ****                         Galaxies nø 68 þ2020
+: .o .     N     _NORDEN Sylwen               Que restera-t-il de ton ƒme ? þ2020
+: .o .     N     _BRAGADIREANU George         Confinement þ? ? þTrad. BRANESCO Valentin
+: .o .     N     _WEST Wallace G.             Les Vivisculpteurs þ1939 Sculptors of Life þAdapt. VIAN Boris
+!--- Paru dans "Bizarre" en 1964
+: .o .     N     _VIAN Boris                  Le Danger des classiques þ1950
+: .o .     N     _ANDREVON Jean-Pierre        Qu'est ce qu'il faisait, le jeune docteur Frankenstein en mai 1981 ? et en mai 1968 ? þ1984-2020
+: .o .     N     _WHALE Laurent               Le Gar‡on qui ‚crivait plus vite que son ombre þ2007
+: .o .     N     _LE BUSSY Alain              La V‚rit‚ sur les changements climatiques þ2009
+o GALAXSn    68  2020.10 ..... ISBN -
+} noimg          _Gr‚gory Fromenteau          ?
+!--- Suppl‚ment num‚rique
+!--- Les num‚ros de pages sont en chiffres romains
+- .oS.    _M4    ****                         Galaxies nø 68 - Suppl‚ment num‚rique þ2020
+: .o .   2 N     _CABANAZ Olivia              Le Protocole de Fr‚vel þ2020
+: .o .  10 N     _MAUREL Perrine              Le FrŠre de mon pŠre þ2020
+: .o .  18 N     _BOUTREUX Simon              Paradisio þ2020
+: .o .  30 N     _HANOST Paul                 Rˆve de mort þ2020
+o GALAXS2    69  2021.01 ..... ISBN 978-2-37625-118-7
+} noimg          _?                           ?
+!--- nø 69 / 111
+- .oS.    _M8    ****                         Galaxies nø 69 - Sexe et genre en SF þ2021
+: .o .     N     _KEIM Albert                 La Race nouvelle þ1908
+: .o .     N     _LEER Alpha                  Jour de traite þ2021
+: .o .     N     _CAZA Philippe               Mauve … pois verts þ2021
+: .o .     N     _BERTHELOT Francis           Bistocchio ou l'imparfait þ2021
+: .o .     N     _DAU Ceryan                  Si seulement þ2021
+: .o .     N     _LARUE Ian                   Rexie ch‚rie þ2021
+: .o .     N     _SERVES Eva D                Agrume þ2021
+: .o .     N     _WALTON Jo                   Ce besoin du mˆme þ2015 The Need to Stay the Same þTrad. DOLISI Florence
+o GALAXSn    69  2021.01 ..... ISBN -
+} noimg          _Gr‚gory Fromenteau          ?
+!--- Suppl‚ment num‚rique
+!--- Les num‚ros de pages sont en chiffres romains
+- .oS.    _M2    ****                         Galaxies nø 69 - Suppl‚ment num‚rique þ2021
+: .o .   2 N     _DAUMIER Enzo                Journal d'une infection þ2021
+: .o .  23 N     _MAY Olivier                 Homoplasie þ2016
+: .o .  39 a     ****                         Lectures th‚matiques þ2021
+: .o .  49 b     _CHENU Lucie                 Bibliographie þ2021
+o GALAXS2    70  2021.xx ..... ISBN 978-2-37625-121-7
+} noimg          _?                           ?
+!--- nø 70 / 112
+- .oS.    _M8    ****                         Galaxies nø 70 þ2021
+: .o .     N     _ANDREVON Jean-Pierre        La DixiŠme victime þ2021
+: .o .     N     _CARRE Claude                Orbiteur V 244 þ1991 On the Death of Daniel þTrad. SICART Pierre-Alexandre
+: .o .     N     _WHITLOCK Dean               R‚p‚tition þ1991 On the Death of Daniel þTrad. SICART Pierre-Alexandre
+: .o .     N     _FAJAC GŠnes                &Lily þ2021
+&                _FAURE-TRUDEL Nathalie       
+: .o .     N     _KENNER Gr‚goire             Dans le Palais du Gnangnan þ2021
+: .o .     N     _--- (anonyme)               Un seul monstre vit dans la planŠte Mars þ1909
+: .o .     N     _BRIN David                  Ce qui continue... et ce qui ‚choue þ1991 What Continues... and What Fails þTrad. DENIS Sylvie
+o GALAXSn    70  2021.xx ..... ISBN -
+} noimg          _Gr‚gory Fromenteau          ?
+!--- Suppl‚ment num‚rique
+!--- Les num‚ros de pages sont en chiffres romains
+- .oS.    _M3    ****                         Galaxies nø 70 - Suppl‚ment num‚rique þ2021
+: .o .   2 N     _PETIT Vincent               Proximit‚ þ2016
+: .o .  12 N     _LAGARDE Antoine             Eternit‚ þ2016
+: .o .  24 N     _GEVART Pierre               Le Joueur du Louvre þ2016
+o GALAXS2    71  2021.05 ..... ISBN 978-2-37625-124-8
+} noimg          _?                           ?
+!--- nø 71 / 113
+- .oS.    _M6    ****                         Galaxies nø 71 þ2021
+: .o .     N     _LIU Ken                     Dans la boucle þ2014 In the Loop þTrad. CALVEZ Jean-Michel
+: .o .     N     _LAFFINEUR Guillaume         Flora &#8251; Fauna þ2021
+: .o .     N     _ROSHAK N. R. M.             Par les yeux d'autrui þ2018 A Bitter Thing þTrad. SICART Pierre-Alexandre
+: .o .     N     _SILHOL L‚a                  AVAnt qu'il ne soit trop TARd þ2021
+: .o .     N     _TAIYO Fujii                 Complicit‚ þ2021 Koraboreshon þTrad. TAILLANDIER Denis
+: .o .     N     _JIA Xia                     L'‚t‚ de Tongtong þ2013 ? þTrad. GAFFRIC Gwenna‰l
+o GALAXSn    71  2021.xx ..... ISBN -
+} noimg          _Gr‚gory Fromenteau          ?
+!--- Suppl‚ment num‚rique
+!--- Les num‚ros de pages... ne sont pas en chiffres romains pour cet opus.
+- .oS.    _M3    ****                         Galaxies nø 71 - Suppl‚ment num‚rique þ2021
+: .o .   2 N     _CAZA Philippe               Etat de ruine þ2021
+: .o .  12 N     _WATILLON Xavier             Dragonload þ2021
+: .o .  24 N     _LE ROUX Brice              &Apath þ2021
+&                _LE ROUX Romain              
+o GALAXS2    72  2021.xx ..... ISBN 978-2-37625-127-9
+} noimg          _?                           ?
+!--- nø 72 / 114
+- .oS.    _M9    ****                         Galaxies nø 72 - Genre et Sexe en SF þ2021
+: .o .     N     _POULAIN Sylvie              Vingt mille nuits sans lumiŠre þ2021
+: .o .     N     _DOKE Sara                   Campanule et Capucine þ2021
+: .o .     N     _WINTREBERT Jo‰lle           Vertiges de l'amour þ2021
+: .o .     N     _CALVEZ Jean-Michel          Aux frontiŠres de l'aube þ2021
+: .o .     N     _LAFRAMBOISE MichŠle         Comment ‚teindre le soleil þ2021
+: .o .     N     _SAKHAWAT HUSSAIN Rokeya     Rˆve de Sultane þ1905 Sultana's Dream þTrad. DOKE Sara
+: .o .     N     _LORUSSO Adriana             Les Erreurs du pass‚ þ2021
+: .o .     N     _TANEJA Shweta               La Boutique de Mari‚es sur Mesure de Bhaisaab þ2021 Bhaisaab's Bespoke Brides Boutique þTrad. BAUDURET Thomas
+: .o .     N     _DEBATS Jeanne-A             Le Collier de boulons þ2021
+o GALAXSn    72  2021.xx ..... ISBN -
+} noimg          _Gr‚gory Fromenteau          ?
+!--- Suppl‚ment num‚rique
+!--- Les num‚ros de pages sont en chiffres romains
+- .oS.    _M4    ****                         Galaxies nø 72 - Suppl‚ment num‚rique þ2021
+: .o .   2 N     _VAN GAERT Hugo              L'Ar‚opage þ1981
+: .o .   5 N     _LARUE Ian                   Un monde d'homme þ2021
+: .o .  11 N     _LARUE Ian                   Salut les primates ! þ2021
+: .o .  18 N     _GEVART Pierre               Lune de mon coeur þ2021
+o GALAXS2    73  2021.10 ..... ISBN 978-2-37625-131-6
+} noimg          _?                           ?
+!--- nø 73 / 115
+- .oS.    _M18   ****                         Galaxies nø 73 - Stanislas Lem - Le centenaire þ2021
+: .o .     a     ****                         Notre illustrateur : Trust þ2021
+: .o .     p     _GEVART Pierre               ditorial þ2021
+: .o .     N     _MILLER St‚phane             Fusions þ2021
+: .o .     N     _STABLEFORD Brian M.         Peau contre peau þ1995 The Skin Trade þTrad. CALVEZ Jean-Michel
+: .o .     N     _LICTEVOUT Hugues            L'Autre Trame du temps þ2021
+: .o .     N     _LAUZON Isabelle             Les SortilŠges d'Huntilil þ2021
+: .o .     N     _PERIN Marcel                Anticipations þ1926
+: .o .     a     _KOSIK Rafal                 Mon Lem þ2021 ? þTrad. BILOS Anna
+: .o .     a     _REBOUSSIN Didier            Petit pr‚cis de solaristique þ2021
+: .o .     a     _ANDREVON Jean-Pierre        De Solaris … Solaris þ2021
+: .o .     a     _ORLINSKI Wojciech           Interview de Stanislaw Lem þ1996
+: .o .     a     ****                         Essai de bibliographie des oeuvres de Stanislas Lem traduites en fran‡ais þ2021
+: .o .     N     _LEM Stanislas               L'ducation de Chiffrion þ1976 Edukacja Cyfrania þTrad. BARBARSKI Kamil
+: .o .     N     _KOSIK Rafal                 Le Dernier Souffle þ2021 Ostatni Oddech þTrad. BARBARSKI Kamil
+: .o .     a     _CALVEZ Jean-Michel          Musique et SF - Suzanne Ciani þ2021
+: .o .     a     _VANNEREUX Michel            CroisiŠre au long du Fleuve #19 : Georges-J Arnaud (1I) þ2021
+: .o .     a     _STOLZE Pierre               Sous le Scalpel du Dr Stolze þ2021
+: .o .     a     _GOURRIER Laurianne          Chroniques de lecture þ2021
+: .o .     a     _LEDUC Fabrice               [S]trips þ2021
+: .o .     a     _ANDREVON Jean-Pierre        Deux mois de cin‚ma F et SF þ2021
+o GALAXSn    73  2021.10 ..... ISBN -
+} noimg          _Gr‚gory Fromenteau          ?
+!--- Suppl‚ment num‚rique
+!--- Les num‚ros de pages sont en chiffres romains
+- .oS.    _M3    ****                         Galaxies nø 73 - Suppl‚ment num‚rique þ2021
+: .o .   2 N     _BOUCHET Elodie              Souviens-toi þ2021
+: .o .  16 N     _APARICIO Emmanuel           Nos propres confins þ2021
+: .o .  29 N     _EDWARD Dario                Soeur en Blastocyste þ2021
+o GALAXS2    74  2021.11 ..... ISBN 978-2-37625-135-4
+} noimg          _?                           ?
+!--- nø 74 / 116
+- .oS.    _M5    ****                         Galaxies nø 74 - Francis Carsac þ2021
+: .o .     N     _RENAUT Wilfried             Svobod þ2021
+: .o .     N     _WILLIAMS Nathalie           La t‚l‚ s'invite chez vous þ2021
+: .o .     N     _TRUDEL Jean-Louis           Les Glaces d'antan þ2021
+: .o .     N     _CARSAC Francis              Sables morts þ1959
+: .o .     N     _REBOUSSIN Didier            Un coup de grisou þ2013
+o GALAXSn    74  2021.11 ..... ISBN -
+} noimg          _Gr‚gory Fromenteau          ?
+!--- Suppl‚ment num‚rique
+!--- Les num‚ros de pages sont en chiffres romains
+- .oS.    _M3    ****                         Galaxies nø 74 - Suppl‚ment num‚rique þ2021
+: .o .   2 N     _LELORE Emmanuel             Chronique de l'mergence þ2021
+: .o .  12 N     _VII                         Un dangereux id‚aliste þ2021
+: .o .  25 N     _MOENNE-LOCCOZ J‚r‚mie       Ad aeternam þ2021
+o GALAXS2    75  2022.01 ..... ISBN 978-2-37625-141-5
+} noimg          _?                           ?
+!--- nø 75 / 117
+- .oS.    _M9    ****                         Galaxies nø 75 - Uchronies þ2022
+: .o .  41 N     _ANDREVON Jean-Pierre        Mort et Apoth‚ose de Joseph Vissarionovitch Djougachvili, dit Staline þ2022
+: .o .  56 N     _BELTANE Emilie              Vesta Aeterna þ2022
+: .o .  67 N     _SCHULTZ Thierry             Nuevo Mundo þ2022
+: .o .  76 N     _ISS Raymond                 Le Mariage de Robespierre þ2022
+: .o .  87 N     _POCHESCI Bruno              Pour Anita þ2022
+: .o .  98 N     _VIAL-BONACCI Eric           Lorsque la M‚canologie dominait le Monde þ2022
+: .o . 110 N     _BHUTIA Pauline J.           Retour sur place Espoir þ2022
+: .o . 121 N     _BABENI Lati                 Ichbiliya, 1206 A.H. þ2022
+: .o . 130 N     _ROZENBAUM Alain             La Scientifiction, un miracle fran‡ais þ2022
+o GALAXSn    75  2022.01 ..... ISBN -
+} noimg          _?                           ?
+!--- Suppl‚ment num‚rique
+!--- Les num‚ros de pages sont en chiffres romains
+- .oS.    _M5    ****                         Galaxies nø 75 - Suppl‚ment num‚rique þ2022
+: .o .   2 N     _SIKORSKI Laura P.           L'Odyss‚e þ2022
+: .o .  17 N     _SERVES Eva D                Croque þ2022
+: .o .  28 N     _ARDHUIN Marie               Ralliez-vous … mon panache noir þ2022
+: .o .  43 N     _RENAULT Jean-Claude         L'Ombre de Gambetta þ2022
+: .o .  56 N     _GEVART Pierre               Loubianka for ever þ2022
+o GALAXS2 75bis  2022.01 ..... ISBN 978-2-37625-141-5
+} noimg          _?                           ?
+- .oS.    kM15   ****                         Galaxies nø 75 bis - Uchronies II þ2022
+: .o .     N     _BUISSON GeneviŠve           La Longe Marche de Deng Li þ2022
+: .o .     N     _DAMBREVILLE Gauthier        Une occasion manqu‚e þ2022
+: .o .     N     _SINDT Aurore                Une liaison d'avenir þ2022
+: .o .     N     _LOUVAIN Constantin          Bagdad Express 1936 þ2022
+: .o .     N     _BUCHY Philippe              L'Entrevue du Drap d'Or þ2022
+: .o .     N     _GODEFROY Cl‚mence           Das steht noch in den Sternen þ2022
+: .o .     N     _CROS Ana‹s                  AprŠs l'hiver þ2022
+: .o .     N     _COUDIERE B‚n‚dicte          Machine analytique þ2022
+: .o .     N     _REGNIER Jean-Jacques        Bergerac 2021 þ2022
+: .o .     N     _BOUBLI Zacharie             Ronald Down þ2022
+: .o .     N     _LE MAUX Christophe          Le Temps d'une femme þ2022
+: .o .     N     _DONAT Edmond                Entrer dans l'histoire þ2022
+: .o .     N     _LOZANO Christel             Golah Tany þ2022
+: .o .     N     _SCHURMANS Fabrice           Un empire en trois cartes et trois repas þ2022
+: .o .     N     _MATTATIA Eve                Reines de poussiŠre þ2022
+o GALAXS2 75ter  2022.01 ..... ISBN 978-2-37625-141-5
+} noimg          _?                           ?
+!--- TBD - A FAIRE
+- .oS.    iMx    ****                         Galaxies nø 75 ter - Uchronies III þ2022
+o GALAXS2    76  2022.04 ..... ISBN 978-2-37625-148-4
+} noimg          _?                           ?
+!--- nø 76 / 118
+!--- Caza dans le sommaire, et Philippe Cazamayou (au lieu de Cazaumayou) en d‚but de texte.
+- .oS.    _M7    ****                         Galaxies nø 76 - La Science-fiction en Suisse romande þ2022
+: .o .   5 N     _MAGDELAINE Pierre           copo‹Šse þ2022
+: .o .  11 N     _CAZA Philippe               Ondulator þ2022
+: .o .  19 N     _HELLER Florian              Mal lun‚s þ2019 D”ra þTrad. BAUDURET Philippe
+: .o .  95 N     _ROUILLER Fran‡ois           Le Filtre þ2022
+: .o .  98 N     _WUST Tu                     Tri s‚lectif þ2022
+: .o . 103 N     _THOMAS Jean-Fran‡ois        Briefing þ2022
+: .o . 109 N     _YESSOUROUN Robert           L'expert ne r‚pond plus þ2021
+o GALAXSn    76  2022.04 ..... ISBN -
+} noimg          _?                           ?
+!--- Suppl‚ment num‚rique
+!--- Les num‚ros de pages sont en chiffres romains
+- .oS.    _M3    ****                         Galaxies nø 76 - Suppl‚ment num‚rique þ2022
+: .o .   2 N     _BIEDERMANN Betty            Eden þ2022
+: .o .  14 N     _DESLANGLE Julien            Sentiments distingu‚s þ2022
+: .o .  20 T     _FLAMBART Jules-Etienne      L'Effacement þ2022
+o GALAXS2    77  2022.06 ..... ISBN 978-2-37625-157-6
+} galaxiesns77   _?                           ?
+!--- nø 77 / 119
+- .oS.    _M7    ****                         Galaxies nø 77 - Weird Western, quand l'Ouest rencontre l'Imaginaire þ2022
+: .o .     N     _FIZZALA L‚a                 Dunant þ2022
+: .o .     N     _HENNEQUIN Tom               Polaro‹d Anamn‚sis þ2022
+: .o .     N     _WHITLOCK Dean               D‚fax‚ þ1990 The Fax Man þTrad. SICART Pierre-Alexandre
+: .o .     a     _LIGNER Meddy                Ab‚c‚daire du weird western þ2022
+: .o .     a     _LIGNER Meddy                Bone Tomahawk, chef-d'oeuvre du weird western þ2022
+: .o .     a     _LIGNER Meddy                Le western spaghetti … la sauce weird þ2022
+: .o .     N     _TOMAS Adrien                La Ballade de Jimmie Wilcox þ2022
+: .o .     N     _TANNER Rachel               La quˆte de Gar‡on-Qui-Parle þ2022
+: .o .     N     _LIGNER Meddy                Le Nectar du cr‚puscule þ2022
+: .o .     N     _GRIMAUD Michel              Rˆve de sable þ1977
+o GALAXSn    77  2022.06 ..... ISBN -
+} galaxiesns77n  _?                           ?
+!--- Suppl‚ment num‚rique
+!--- Les num‚ros de pages sont en chiffres romains
+- .oS.    _M3    ****                         Galaxies nø 77 - Suppl‚ment num‚rique þ2022
+: .o .   2 N     _LISE Doriane                Le Plongeoir þ2022
+: .o .  13 N     _MARCHAND Ga‰l               Le Petit Robot þ2022
+: .o .  21 N     _HANOST Paul                 Rˆve de mort þ2020
+o GALAXS2    78  2022.08 ..... ISBN 978-2-37625-157-6
+} galaxiesns78   _?                           ?
+!--- nø 78 / 120
+- .oS.    _M6    ****                         Galaxies nø 78 - Invasions g‚n‚tiques et r‚g‚n‚ration cellulaire þ2022
+: .o .   5 N     _CATINAUD R‚gis              Mn‚mos et le contrat de l‚gende þ2022
+: .o .  17 N     _ROSHAK N. R. M.             La Recette du bonheur þ2019 The Zest for Life þTrad. SICART Pierre-Alexandre
+: .o .  29 N     _PAULSEN Steven              Gros-Tas Garbo þ1993 ? þTrad. Fredgev
+: .o .  55 N     _PAPOZ Micky                 Ailleurs vient d'ici þ2022
+: .o . 104 N     _GACHET Alexandre            Les andro‹des rˆvent-ils d'‚toiles de mer num‚riques ? þ2022
+: .o . 118 N     _PICOT Ludivine              Sang-froid þ2022
+o GALAXSn    78  2022.08 ..... ISBN -
+} galaxiesns78n  _?                           ?
+!--- Suppl‚ment num‚rique - 47 pages
+!--- Les num‚ros de pages sont en chiffres romains
+- .oS.    _M5    ****                         Galaxies nø 78 - Suppl‚ment num‚rique þ2022
+: .o .   2 N     _LITZENBURGER Laurent        Gran Turismo þ2022
+: .o .   7 N     _CREVON Laurent              Dataparenting þ2022
+: .C .  13 C     ****                         Uchronies IV þ2022
+: .o .  14 a     _GEVART Pierre               Le Projet &#91;uchronies IV&#93; þ2022
+: .o .  15 N     _AMADE Bernard               Les Ailes du vent þ2022
+: .o .  28 N     _AUFFRET Franck              P‚rils sur Moana þ2022
+: .o .  41 N     _PIERRE Patrick              2835 þ2022
+: .o .  46 a     _LEDUC Fabrice               Compl‚ment … la rubrique &#91;S&#93;trips þ2022
+o GALAXS2    79  2022.10 ..... ISBN 978-2-37625-163-7
+} galaxiesns79   _Caza                        ?
+!--- nø 79 / 121
+- .oS.    _M12   ****                         Galaxies nø 79 - Andrevon, enfin þ2022
+: .o .   5 N     _RHODA IrŠne                 Mille mar‚es þ2022
+: .o .  17 N     _LIU Ken                     Une v‚ritable artiste þ2011 Real Artists þTrad. CALVEZ Jean-Michel
+: .o .  27 N     _STOLZE Pierre               S'il n'en reste qu'une þ2022
+: .o .  54 N     _ANDREVON Jean-Pierre        Sherlock Holmes : une odyss‚e martienne þ2022
+: .C . 112 C     _ANDREVON Jean-Pierre        Vous voulez rire ? þ2022
+: .o . 112 N     _ANDREVON Jean-Pierre        L'Arche þ2022
+: .o . 113 N     _ANDREVON Jean-Pierre        Ricochets þ2022
+: .o . 114 N     _ANDREVON Jean-Pierre        Chomedu þ2022
+: .o . 114 N     _ANDREVON Jean-Pierre        Garde-Manger þ2022
+: .o . 115 N     _ANDREVON Jean-Pierre        Le cas de l'ultime invasion martienne þ2022
+: .o . 116 N     _ANDREVON Jean-Pierre        Complet ! þ2022
+: .o . 117 N     _ANDREVON Jean-Pierre        Cha‹d et Chaoud þ2022
+: .o . 119 N     _ANDREVON Jean-Pierre        La vie ‚ternelle, la survie de l'ƒme, l'‚ternit‚ et tout ce bordel þ2022
+o GALAXSn    79  2022.10 ..... ISBN -
+} galaxiesns79n  _?                           ?
+!--- Suppl‚ment num‚rique - 55 pages
+!--- Les num‚ros de pages sont en chiffres romains
+- .oS.    _M5    ****                         Galaxies nø 79 - Suppl‚ment num‚rique þ2022
+: .o .   2 N     _SEFARIS Marc                8% de m‚lancolie sarcastique þ2022
+: .o .  15 N     _DEPARIS Olivier             Terre promise þ2022
+: .C .  28 C     ****                         Uchronies IV þ2022
+: .o .  29 a     _GEVART Pierre               Le Projet &#91;uchronies IV&#93; þ2022
+: .o .  30 N     _RICHOU Anne-Marie           L'‚tudiant de Bosnie þ2022
+: .o .  39 N     _RAULT St‚phanie             Les Id‚alistes þ2022
+: .o .  47 N     _GAUDEFROY Olivier           Le Tommy de Coventry þ2022
+o GALAXS2    80  2022.11 ..... ISBN 978-2-37625-168-2
+} galaxiesns80   _Caza                        ?
+!--- nø 80 / 122
+- .oS.    _M8    ****                         Galaxies nø 80 - Arch‚ologie et science-fiction þ2022
+: .o .   2 N     _GALLANT Emmanuel            Birth control þ2022
+: .o .  32 N     _ARENEV Volodymyr            Un crayon avec une inscription … demi effac‚e þ2003 ? þTrad. LAJOYE Patrice & Viktoriya
+: .o .  63 N     _MANGOLD Adrien              Labourer le temps þ2022
+: .o .  73 N     _LIGNER Meddy                En quˆte de la G‚ante Pourpre þ2022
+: .o .  84 N     _RICHARD Julia               Et enfin, r‚tablir le dialogue þ2022
+: .o .  91 N     _RIVAT Feldrik               Le Technicien þ2022
+: .o . 101 N     _ROZNARHO                    CimetiŠre social þ2022
+: .o . 135 N     _VERNAY Jean-Pierre          Et chaque jour je m'‚teins þ2022
+o GALAXSn    80  2022.11 ..... ISBN -
+} galaxiesns80n  _?                           ?
+!--- Suppl‚ment num‚rique - 72 pages
+!--- Les num‚ros de pages sont en chiffres romains
+- .oS.    _M5    ****                         Galaxies nø 80 - Suppl‚ment num‚rique þ2022
+: .o .   2 N     _DUBARD C‚cile               Take-care þ2022
+: .o .  17 N     _SERVES Eva D                Gravit‚ relative þ2022
+: .C .  31 C     ****                         Uchronies IV - 2Šme ‚tape þ2022
+: .o .  32 a     _GEVART Pierre               Le Projet &#91;uchronies IV&#93; þ2022
+: .o .  34 N     _LE ROUX Brice              &Retrouvailles de sable þ2022
+&                _LE ROUX Romain              
+: .o .  41 N     _VAST Patrick S.             Mai 69 þ2022
+: .o .  54 N     _ISAIA Emeline               Vivre libre ou survivre þ2022
+: .o .  67 a     _MORIN-RIVAT Julie           R‚f‚rences du dossier SF et arch‚ologie þ2022
+o GALAXS2    81  2023.01 ..... ISBN 978-2-37625-174-3
+} galaxiesns81   _?                           ?
+!--- nø 81 / 123
+- .oS.    _M8    ****                         Galaxies nø 81 - Science-fiction et propagande þ2023
+: .o .   5 N     _KRIZ Andrea                 Toutes les ombres du roi þ2023
+: .o .  15 N     _MAUREL Perrine              C.harpie et ses C.haŒnes þ2023
+: .o .  29 N     _SIBOURG El‚onore            Mortel.le.s þ2023
+: .o .  42 N     _VAN GAERT Hugo              Provenia þ2023
+: .o .  53 N     _PALTSUN Sergii              Une feuille de chou þ2004 ? þTrad. LAJOYE Patrice & Viktoriya
+: .o .  56 N     _DUBYNIANSKA Yana            Pastorale þ2005 ? þTrad. LAJOYE Patrice & Viktoriya
+: .o . 108 N     _CAZA Philippe               Un dimanche en Camembrie þ2023
+: .o . 117 N     _TEODORESCU Cristian         P‚dalez et soyez heureux þ2023 ? þTrad. TEODORESCU Cristian
+o GALAXSn    81  2023.01 ..... ISBN -
+} galaxiesns81n  _?                           ?
+!--- Suppl‚ment num‚rique - 57 pages
+!--- Les num‚ros de pages sont en chiffres romains
+>--- Orthographe erron‚e de Pierre-Alexandre Sicard (not‚ Sicart).
+>--- La table des matiŠre inverse l'ant‚p‚nultiŠme texte et le dernier.
+- .oS.    _M5    ****                         Galaxies nø 81 - Suppl‚ment num‚rique þ2022
+: .o .   3 N     _SICART Pierre-Alexandre     Fant“mes quantiques þ2023
+: .o .   7 N     _MEUNIER Fr‚d‚ric            Interfac‚ þ2023
+: .C .  22 C     ****                         Uchronies IV þ2022
+: .o .  23 a     _GEVART Pierre               Le Projet &#91;uchronies IV&#93; þ2023
+: .o .  24 N     _DEYRIES Anne-Flore          Tractations þ2023
+: .o .  37 N     _MAHE Jean-Pierre            JFK, deuxiŠme mandat þ2023
+: .o .  46 N     _LELEU Laurent               L'Ultime Atome þ2023
+
 
 
 
@@ -1267,6 +1623,10 @@ o GALAXHS     ?  2009.05 R.... ISBN 978-2-914-59016-7
 ?: .oS.     N     _LAINE Sylvie                ? þ2009
 : .oS.     N     _LANIECE Anne               &La DerniŠre Fianc‚e de Satan þ2009
 &                _SEIGNOL Jean-Fran‡ois       
+!-----------------------------------------------------------------------------
+_ GAL2010 Galaxies hors-s‚rie 2010
+!-----------------------------------------------------------------------------
+!--- TBD - A FAIRE
 
 !-----------------------------------------------------------------------------
 _ GAL2011 Galaxies hors-s‚rie 2011
@@ -1285,4 +1645,22 @@ o GAL2011     ?  2011.08 ..... ISBN 978-2-914-59029-7
 : .o .     N     _KENNEL Odile                Pr‚venu þ2011
 !--- > une quinzaine de micronouvelles sf et/ou absurdes
 : .o .     N     _BASTIN Vincent              Micronouvelles þ2011
+
+!-----------------------------------------------------------------------------
+_ GAL23-1 Galaxies hors-s‚rie 23-1
+!-----------------------------------------------------------------------------
+o GAL23-1     ?  2023.xx ..... ISBN 978-2-914-.....-.
+} noimg          _?                           ?
+- .oS.    iMx    ****                         Galaxies hors-s‚rie nø 23-1 - Uchronies IV þ2023
+
+!-----------------------------------------------------------------------------
+_ GAL23-2 Galaxies hors-s‚rie 23-2
+!-----------------------------------------------------------------------------
+o GAL23-2     ?  2023.12 ..... ISBN 978-2-914-.....-.
+!--- TBD - A FAIRE
+} noimg          _?                           ?
+- .oS.    iMx    ****                         Galaxies hors-s‚rie nø 23-2 þ2023
+: .o .     N     _TORSIAC Nicolas de          Le Fils du fossoyeur þ2023
+: .o .     N     _GUILHEM Morgane             Gender Studieuses þ2023
+
 

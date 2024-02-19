@@ -9,18 +9,20 @@
 
 !-----------------------------------------------------------------------------
 _ MNEMOS  Mn‚mos
-_ MNEM_SF Mn‚mos, Science-fiction ş1997-1998
-_ MNEM_AM Mn‚mos, Angle Mort ş1997-1997 roman noir
-_ MNE_SUR Mn‚mos, Surnaturel ş1995-1998 Fantastique moderne
-_ MNE_LEG Mn‚mos, L‚gendaire ş1995-... Fantasy
-_ MNE_DAE Mn‚mos, Daemonicon ş1997-1998 univers partag‚es de la fantasy
-_ MNE_UNI Mn‚mos, Univers ş2002-...
-_ MNE_ICA Mn‚mos, Icares ş1999-...
-_ MNE_DED Mn‚mos, D‚dales
-_ MNE_OUR Mn‚mos, Ourobores
-_ MNE_THR Mn‚mos, Thriller
-_ MNEM_MU Mn‚mos, Mu
-!-- MNE_HEL Mn‚mos, Coll. H‚lios  --> voir helios.col
+_ MNE_ULP Mn‚mos - int‚grale prestige
+_ MNEM_SF Mn‚mos - Science-fiction ş1997-1998
+_ MNEM_AM Mn‚mos - Angle Mort ş1997-1997
+_ MNE_SUR Mn‚mos - Surnaturel ş1995-1998
+_ MNE_LEG Mn‚mos - L‚gendaire ş1995-...
+_ MNE_DAE Mn‚mos - Daemonicon ş1997-1998
+_ MNE_UNI Mn‚mos - Univers ş2002-...
+_ MNE_ICA Mn‚mos - Icares ş1999-...
+_ MNE_DED Mn‚mos - D‚dales
+_ MNE_OUR Mn‚mos - Ourobores
+_ MNE_THR Mn‚mos - Thriller
+_ MNE_STE Mn‚mos - Stellaire
+_ MNEM_MU Mn‚mos - Mu
+!-- MNE_HEL Mn‚mos, Collection H‚lios  --> voir helios.col
 !-----------------------------------------------------------------------------
 
 !------------------------
@@ -262,7 +264,8 @@ o MNE_ICA    10i 2000.xx ..... ISBN 2-911618-63-7
 - .oY.     R     _HELIOT Johan                La Lune seule le sait [La Trilogie de la Lune - 1] ş2000
 o MNE_ICA    11i 2000.xx ..... ISBN 2-911618-66-1
 } mnemosi011     _Vincent Dutrait             ?
-- .o .     R     _JARRY Nicolas               Le Loup de Deb [Chroniques du loup de Deb - 1] ş2000
+!--- 445 pages - 22 cm - 120 Francs
+- .o .     R     _JARRY Nicolas               Le Loup de Deb [Chroniques d'un guerrier SŒnnam - 1] ş2000
 !------------------------
 !=== 2001
 !------------------------
@@ -282,7 +285,8 @@ o MNE_ICA    12i 2001.xx ..... ISBN 2-911618-64-5
 : .oY.     R     _GABORIT Mathieu             La Romance du d‚miurge [Abyme - 2][Les Royaumes cr‚pusculaires] ş1997
 o MNE_ICA    13i 2001.xx ..... ISBN 2-911618-66-1
 } mnemosi013     _Julien Delval               ?
-- .o .     R     _JARRY Nicolas               La Terre d'horizon [Chroniques du loup de Deb - 2] ş2001
+!--- 509 pages - 22 cm - 130 Francs
+- .o .     R     _JARRY Nicolas               La Terre d'horizon [Chroniques d'un guerrier SŒnnam - 2] ş2001
 o MNE_ICA    14i 2001.xx ..... ISBN 2-911618-68-8
 } mnemosi014     _Didier Graffet              ?
 - .o .     R     _KLOETZER Laurent            M‚moire vagabonde [Ja‰l de Kherdan] ş1997-2001
@@ -300,7 +304,8 @@ o MNE_ICA    18i 2001.xx ..... ISBN 2-911618-72-6
 - .o .     R     _MARCHIKA Colin              La Reine de Vend“me - Volume 1 [La Reine de Vend“me - 1] ş2001
 o MNE_ICA    19i 2001.xx ..... ISBN 2-911618-73-4
 } mnemosi019     _Julien Delval               ?
-- .o .     R     _JARRY Nicolas               La Proph‚tie de SaharAma [Chroniques du loup de Deb - 3] ş2001
+!--- 439 pages - 22 cm - 120 Francs
+- .o .     R     _JARRY Nicolas               La Proph‚tie de SaharAma [Chroniques d'un guerrier SŒnnam - 3] ş2001
 !------------------------
 !=== 2002
 !------------------------
@@ -451,14 +456,14 @@ o MNE_ICA    48i 2003.12 ..... ISBN 2-911618-13-0
 } mnemosi048     _Jean-Yves Kervevan          ?
 - .oI.    _N21   *COMBALLOT Richard           Icares 2004 ş2003
 : .oI.     p     _BERTHELOT Francis           Le Berceau de la fiction ş2003
-: .oY.     N     _BERTHELOT Francis           La GantiŠre et l'‚quarrisseur ş2003
+: .oY.     N     _BERTHELOT Francis           La GantiŠre et l'‚quarisseur ş2002
 : .oS.     N     _HELIOT Johan                Le Robot du devoir ş2003
 : .oS.     N     _JUBERT Herv‚                La Barque de Nero ş2003
 : .oY.     N     _DUFOUR Catherine            M‚moires mortes ş2003
 : .oY.     N     _MAUMEJEAN Xavier            Astrolabe ş2003
-: .oS.     N     _BORDAGE Pierre              Les FrŠres du G5 ş2003
+: .oS.     N     _BORDAGE Pierre              Les FrŠres du G5 ş2002
 : .oS.     N     _ANDREVON Jean-Pierre        La M‚moire des Khlos ş2003
-: .oY.     N     _FONTANA Jean-Pierre         L'Homme sans visage ş2003
+: .oY.     N     _FONTANA Jean-Pierre         L'Homme sans visage [La Geste du Halaguen] ş1987
 : .oY.     N     _DEMUTH Michel               The Fullerton incident ş2003
 : .oS.     N     _VERNAY Jean-Pierre          La Voyageuse et son double ş2003
 : .oS.     N     _BARBERI Jacques             La Bˆte ş2003
@@ -642,7 +647,7 @@ o MNE_ICA    75i 2005.05 ..... ISBN 2-915159-41-6
 - .oY.     R     _LINDHOLM Megan              La Porte du Limbreth [Ki et Vandien - 3] ş1984 The Limbreth Gate şTrad. LE PENNEC Guillaume
 o MNE_ICA    76i 2005.06 ..... ISBN 2-915159-45-9
 } mnemosi076     _Marc Mosnier                ?
-- .oY.     R     _HOLDSTOCK Robert            Le Bois de Merlin ş1994 Merlin's Wood şTrad. KAZOURIAN Sandra
+- .oY.     R     _HOLDSTOCK Robert            Le Bois de Merlin [Mythago Wood - 5] ş1994 Merlin's Wood şTrad. KAZOURIAN Sandra
 o MNE_ICA    77i 2005.06 ..... ISBN 2-915159-43-2
 } mnemosi077     _Jean-Luc Sala               ?
 - .oS.     R     _NIVEN Larry                 L'Anneau-Monde [Known space] ş1970 Ringworld şTrad. LAMIDEY Fabrice
@@ -697,18 +702,19 @@ o MNE_ICA    89i 2006.01 ..... ISBN 2-915159-60-2
 - .oY.     R     _BRUST Steven                Yendi [Jhereg - 2] ş1984 Yendi şTrad. LE PENNEC Guillaume
 o MNE_ICA    90i 2006.01 ..... ISBN 2-915159-59-9
 } mnemosi090     _Caza                        ?
-- .oS.     R     _DONALDSON Stephen R.        La V‚ritable Histoire [Cycle des seuils - 1] ş1991 The Gap Into Conflict: The Real Story şTrad. MARCEL Patrick
+- .oS.     R     _DONALDSON Stephen R.        La V‚ritable Histoire [Cycle des seuils - 1] ş1990 The Gap Into Conflict: The Real Story şTrad. MARCEL Patrick
 o MNE_ICA    91i 2006.01 ..... ISBN 2-915159-61-0
 } mnemosi091     _Gil Formoza                 ?
-- .oS.     R     _NIVEN Larry                 Les Ing‚nieurs de l'anneau-monde [Known space] ş1980 The Ringworld Engineers şTrad. LAMIDEY Fabrice
+- .oS.     R     _NIVEN Larry                 Les Ing‚nieurs de l'anneau-monde [Known space] ş1979 The Ringworld Engineers şTrad. LAMIDEY Fabrice
 o MNE_ICA    92i 2006.02 ..... ISBN 2-915159-62-9
 } mnemosi092     _Guillaume Sorel             ?
 - .oY.     R     _HOLDSTOCK Robert            N‚cromancien ş1985 Necromancer şTrad. KAZOURIAN Sandra
 o MNE_ICA    93i 2006.02 ..... ISBN 2-915159-63-7
 } mnemosi093     _Marc Simonetti              N
-- .oS.     R2    _RUAUD Andr‚-Fran‡ois        La Cit‚ d'en haut ş2006
-: .oS.     R     _RUAUD Andr‚-Fran‡ois        Des ombres sous la pluie ş1999
-: .oS.     R     _RUAUD Andr‚-Fran‡ois        Des feux sous la lumiŠre ş2006
+!--- GF - 352 pages - 18,50 euros
+- .oS.     R2    _RUAUD Andr‚-Fran‡ois        La Cit‚ d'en haut [Spica] ş2006
+: .oS.     r     _RUAUD Andr‚-Fran‡ois        Des ombres sous la pluie [Spica] ş1999
+: .oS.     R     _RUAUD Andr‚-Fran‡ois        Des feux sous la lumiŠre [Spica] ş2006
 o MNE_ICA    94i 2006.03 ..... ISBN 2-915159-64-5
 } mnemosi094     _Gil Formoza                 ?
 - .oS.     R     _CANAL Richard               Deloria - La L‚gende des Frahmabores ş2006
@@ -720,6 +726,9 @@ o MNE_ICA    96i 2006.04 ..... ISBN 2-915159-71-8
 - .oY.     R     _MODESITT L.E.               Les Tours du cr‚puscule - Volume 1 [Le Monde de Recluce - 4] ş1992 The Towers of the Sunset şTrad. CALLUAUD Laurent
 o MNE_ICA    97i 2006.04 ..... ISBN 2-915159-69-6
 } mnemosi097     _Guillaume Sorel             ?
++ MNE_ICA     ?  2021.06 ..... ISBN 978-2-35408-915-3
+} noimg          _?                           ?
+!--- GF - 150x210 - 320 pages
 - .oY.     R     _BRUST Steven               &La Nuit du pr‚dateur ş1992 The Gipsy şTrad. ELIROFF Thibaud
 &                _LINDHOLM Megan              
 o MNE_ICA    98i 2006.05 ..... ISBN 2-915159-68-8
@@ -730,7 +739,7 @@ o MNE_ICA    99i 2006.05 ..... ISBN 2-915159-73-4
 - .oY.     R     _MODESITT L.E.               Les Tours du cr‚puscule  - Volume 2 [Le Monde de Recluce - 5] ş1992 The Towers of the Sunset şTrad. CALLUAUD Laurent
 o MNE_ICA   100i 2006.06 ..... ISBN 2-915159-79-3
 } mnemosi100     _Caza                        ?
-- .oS.     R     _DONALDSON Stephen R.        Le Savoir interdit [Cycle des seuils - 2] ş1991 The Gap Into Vision: The Forbidden Knowledge şTrad. MARCEL Patrick
+- .oS.     R     _DONALDSON Stephen R.        Le Savoir interdit [Cycle des seuils - 2] ş1991 The Gap Into Vision: Forbidden Knowledge şTrad. MARCEL Patrick
 o MNE_ICA   101i 2006.06 ..... ISBN 2-915159-80-7
 } mnemosi101     _Manchu                      ?
 - .oY.     R     _STROSS Charles              Aube d'acier [Singularity Sky - 2] ş2004 Iron Sunrise şTrad. EMERICH Bernadette
@@ -798,7 +807,7 @@ o MNE_ICA     ?  2007.03 ..... ISBN 978-2-915159-99-8
 - .oY.     R     _KILWORTH Garry              Le Temps des guerriers [Les Rois navigateurs - 2] ş1997 The Princely Flower şTrad. KAZOURIAN Sandra
 o MNE_ICA     ?  2007.03 ..... ISBN 978-2-915159-95-0
 } mnemosi117     _Caza                        ?
-- .oS.     R     _DONALDSON Stephen R.        L'veil du Dieu noir [Cycle des seuils - 3] ş1991 The Gap Into Power: A Dark and Hungry God Arises şTrad. MARCEL Patrick
+- .oS.     R     _DONALDSON Stephen R.        L'veil du Dieu noir [Cycle des seuils - 3] ş1992 The Gap Into Power: A Dark and Hungry God Arises şTrad. MARCEL Patrick
 o MNE_ICA     ?  2007.04 ..... ISBN 978-2-35408-004-4
 } mnemosi118     _Guillaume Sorel             ?
 - .oY.     R     _BRUST Steven                Taltos [Vlad Taltos] ş1988 Taltos şTrad. LE PENNEC Guillaume
@@ -841,10 +850,12 @@ o MNE_ICA     ?  2007.09 ..... ISBN 978-2-35408-014-3
 - .oY.     R     _BRUST Steven                Les Gardes Ph‚nix ş1991 The Phoenix Guards şTrad. BERTHEZENE BenoŒt
 o MNE_ICA     ?  2007.09 ..... ISBN 978-2-35408-016-7
 } mnemosi128     _Didier Graffet              ?
-- .oY.     R     _JARRY Nicolas               Le Loup de Deb [Chroniques du loup de Deb - 1] ş2007
+!--- 408 pages - 24 cm - 22 euros
+- .oY.     R     _JARRY Nicolas               Le Loup de Deb [Chroniques du loup de Deb - 1] ş2001-2007
 o MNE_ICA     ?  2007.09 ..... ISBN 978-2-35408-017-4
 } mnemosi129     _Didier Graffet              ?
-- .oY.     R     _JARRY Nicolas               La Terre d'horizon [Chroniques du loup de Deb - 2] ş2007
+!--- 408 pages - 24 cm - 22 euros
+- .oY.     R     _JARRY Nicolas               La Terre d'horizon [Chroniques du loup de Deb - 2] ş2001-2007
 o MNE_ICA     ?  2007.09 ..... ISBN 978-2-35408-019-8
 } mnemosi130     _?                           ?
 + MNE_ICA     ?  2010.09 ..... ISBN 978-2-35408-087-7
@@ -1063,7 +1074,7 @@ o MNE_ICA   167i 2010.05 ..... ISBN 978-2-35408-079-2
 : .o .     N     _MAZAURETTE Ma‹a             Exauc‚e ş2010
 : .o .     N     _NIOGRET Justine             T'humilierai ş2010
 : .o .     N     _WIETZEL Erik                L'Ultime Illusion ş2010
-: .o .     N     _TANNER Rachel               In cauda venenum ş2010
+: .o .     N     _TANNER Rachel               In cauda venenum [L'Empreinte des dieux] ş2010
 : .o .     N     _HEM Julien d'               Margot ş2010
 : .o .     N     _MILLER Sylvie              &Le Cr‚puscule des maudites ş2010
 &                _WARD Philippe               
@@ -1089,14 +1100,14 @@ o MNE_ICA     ?  2010.10 ..... ISBN 978-2-35408-100-3
 - .oY.     R     _BEORN Paul                  Le Hussard amoureux [La Pucelle de Diable-Vert - 2] ş2010
 o MNEMOS      ?  2010.11 ..... ISBN 978-2-35408-097-6
 } mnemoshc2010   _Nicolas Fructus             ?
-- .oY.    _N13   _LOVECRAFT Howard P.         Les Contr‚es du rˆve ş2010
+- .oF.    _N13   _LOVECRAFT Howard P.         Les Contr‚es du rˆve ş2010
 : .o .     N     _LOVECRAFT Howard P.         La Quˆte d'Iranon ş1921 The Quest of Iranon şTrad. CAMUS David
 : .o .     N     _LOVECRAFT Howard P.         Celephais ş1920 Celephais şTrad. CAMUS David
 : .o .     N     _LOVECRAFT Howard P.         L'trange Maison haute dans la brume ş1931 The Strange High House in the Mist şTrad. CAMUS David
 : .o .     N     _LOVECRAFT Howard P.         Polaris ş1920 Polaris şTrad. CAMUS David
 : .o .     N     _LOVECRAFT Howard P.         La Mal‚diction de Sarnath ş1920 The Doom That Came to Sarnath şTrad. CAMUS David
-: .o .     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ş1920 Cats of Ulthar şTrad. CAMUS David
-: .o .     N     _LOVECRAFT Howard P.         Les Autres dieux ş1921 The Other Gods şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ş1920 The Cats of Ulthar şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Les Autres Dieux ş1921 The Other Gods şTrad. CAMUS David
 : .o .     N     _LOVECRAFT Howard P.         Hypnos ş1923 Hypnos şTrad. CAMUS David
 : .o .     N     _LOVECRAFT Howard P.         Azathoth ş1922 Azathoth şTrad. CAMUS David
 !--- D‚mons et merveilles
@@ -1164,7 +1175,7 @@ o MNE_DED     ?  2011.10 ..... ISBN 978-2-35408-121-8
 - .oF.     R     _OLDIE Henry Lion            La Loi des mages - Tome 1 ş2000 Mag v Zakone şTrad. LAJOYE Viktoriya et Patrice
 o MNE_DED     ?  2011.11 ..... ISBN 978-2-35408-128-7
 } mnemosd024     _Alain Brion                 ?
-- .oS.     R     _SAGAN Carl                  Contact ş1986 Contact şTrad. DESMOND William
+- .oS.     R     _SAGAN Carl                  Contact ş1985 Contact şTrad. DESMOND William
 !--- 
 !--- Icares
 !--- 
@@ -1269,8 +1280,8 @@ o MNE_DED     ?  2012.11 ..... ISBN 978-2-35408-145-4
 o MNE_ICA     ?  2012.03 ..... ISBN 978-2-35408-134-8
 } mnemosi180     _Alain Brion                 ?
 - .oY.     R3    _CARTER Lin                  Thongor - Tome 1 [Thongor - 1/3] ş2012
-: .oY.     R     _CARTER Lin                  Thongor et le sorcier de L‚murie [Thongor - 1] ş1965 The Wizard of Lemuria / Thongor and the Wizard of Lemuria şTrad. FAGNE Henry
-: .oY.     R     _CARTER Lin                  Thongor et la cit‚ des dragons [Thongor - 2] ş1966 Thongor of Lemuria / Thongor and the Dragon City şTrad. TRUCHAUD Fran‡ois
+: .oY.     R     _CARTER Lin                  Thongor et le sorcier de L‚murie [Thongor - 1] ş1965 The Wizard of Lemuria / Thongor and the Wizard of Lemuria şTrad. TRUCHAUD Fran‡ois
+: .oY.     R     _CARTER Lin                  Thongor et la cit‚ des dragons [Thongor - 2] ş1966 Thongor of Lemuria / Thongor and the Dragon City şTrad. FAGNE Henry
 : .oY.     R     _CARTER Lin                  Thongor contre les dieux [Thongor - 3] ş1967 Thongor Against the Gods şTrad. GRAFF Andr‚
 o MNE_ICA     ?  2012.06 ..... ISBN 978-2-35408-138-6
 } mnemosi181     _Alain Brion                 ?
@@ -1306,7 +1317,7 @@ o MNEMOS      ?  2012.05 ..... ISBN 978-2-35408-139-3
 : .o .     N     _ROBILLARD Chantal           Le Dit du Dr‚gonjon et de son Elfrie ş2012
 : .o .     N     _GEHA Thomas                 Chuchoteurs du dragon ş2012
 : .o .     N     _TOMAS Adrien                Oph‚a ş2012
-: .o .     N     _FAKHOURI Anne               Au coeur du Dragon ş2012
+: .o .     N     _FAKHOURI Anne               Au coeur du dragon ş2012
 : .o .     N     _NIOGRET Justine             La Grande D‚esse de fer de la mis‚ricorde ş2012
 : .o .     N     _BORDAGE Pierre              Morflam ş2012
 : .o .     N     _BOUSQUET Charlotte          Azr'Khila ş2012
@@ -1388,25 +1399,27 @@ o MNEMOS      ?  2013.03 ..... ISBN 978-2-35408-152-2
 : .o .     R     _GABORIT Mathieu             Agone [Les Chroniques des cr‚pusculaires - 3][Les Royaumes cr‚pusculaires] ş1996-1999
 o MNEMOS      ?  2013.03 ..... ISBN 978-2-35408-148-5
 } mnemoshc2013-1 _Nicolas Fructus             ?
-- .oS.    kN6    _LOVECRAFT Howard P.         Les Montagnes hallucin‚es ş2013
 !--- Nouvelle traduction CAMUS David
+- .oF.    kN6    _LOVECRAFT Howard P.         Les Montagnes hallucin‚es ş2013
 : .o .     N     _LOVECRAFT Howard P.         Dagon ş1919 Dagon şTrad. CAMUS David
 : .o .     N     _LOVECRAFT Howard P.         La Cit‚ sans nom ş1921 The Nameless City şTrad. CAMUS David
 : .o .     N     _HOUDINI Harry              &Prisonnier des pharaons ş1924 Imprisoned With the Pharaons şTrad. CAMUS David
 &                _LOVECRAFT Howard P.         
-: .oF.     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu ş1926 The Call of Cthulhu şTrad. CAMUS David
-: .o .     N     _LOVECRAFT Howard P.         Les Montagnes hallucin‚es [Arthur Gordon Pym] ş1936 At the Mountains of Madness şTrad. CAMUS David
+: .oF.     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu ş1928 The Call of Cthulhu şTrad. CAMUS David
+: .o .     r     _LOVECRAFT Howard P.         Les Montagnes hallucin‚es [Arthur Gordon Pym] ş1936 At the Mountains of Madness şTrad. CAMUS David
 : .oF.     r     _LOVECRAFT Howard P.         Dans l'abŒme du temps ş1936 The Shadow Out of Time şTrad. CAMUS David
 o MNEMOS      ?  2013.05 ..... ISBN 978-2-35408-157-5
 } mnemoshc2013-2 _Atelier Octobre Rouge       ?
 !--- Pr‚face Jean Marigny
-- .oF.     E     _CAUSSARIEU Morgane          Vampires & Bayous - Sexe, sang et d‚cadence, la r‚surrection d'un mythe en Louisiane ş2013
+- .oF.     E     _CAUSSARIEU Morgane          Vampires & Bayous - Sexe, sang et d‚cadence, la r‚surrection du mythe en Louisiane ş2013
 o MNEMOS      ?  2013.05 ..... ISBN 978-2-35408-156-0
 } mnemoshc2013-3 _Jean-S‚bastien Rossbach     ?
-- .oY.     A12   *MILLER Sylvie              &Elfes et assassins ş2013
+!--- Anthologie annuelle Des Imaginales d'pinal Saisonÿ5 (2013)
+!--- Chaque nouvelle est pr‚c‚d‚e d'une pr‚sentation de l'auteur
+- .oY.    _A12   *MILLER Sylvie              &Elfes et assassins ş2013
 &                *DAVOUST Lionel
-: .o .     p     _DAVOUST Lionel             &Pr‚face ş2013
-&                _MILLER Sylvie               
+: .o .     p     _MILLER Sylvie              &Pr‚face ş2013
+&                *DAVOUST Lionel
 : .o .     N     _BORDAGE Pierre              La DerniŠre Affaire de Sagamor ş2013
 : .o .     N     _ALBERT Rapha‰l              La Seconde Mort de Lucius Van Casper [Les Extraordinaires & fantastiques enquˆtes de Sylvo Sylvain, d‚tective priv‚] ş2013
 : .o .     N     _LE GENDRE Nathalie          La L‚gende d'… peu prŠs Punahilkka ş2013
@@ -1423,7 +1436,7 @@ o MNEMOS      ?  2013.05 ..... ISBN 978-2-35408-156-0
 o MNEMOS      ?  2013.10 ..... ISBN 978-2-35408-168-3
 } noimg          _Goulven Quentel             N
 !--- Coffret collector - Grand format cartonn‚ avec ‚tui, 268 pages
-- .oY.    _R2    _GABORIT Mathieu             Abyme [Abyme - 1/2][Les Royaumes cr‚pusculaires] ş2000
+- .oY.    _R2    _GABORIT Mathieu             Abyme [Abyme - 1/2][Les Royaumes cr‚pusculaires] ş2001
 : .oY.     R     _GABORIT Mathieu             Aux ombres d'Abyme [Abyme - 1][Les Royaumes cr‚pusculaires] ş1996
 : .oY.     R     _GABORIT Mathieu             La Romance du d‚miurge [Abyme - 2][Les Royaumes cr‚pusculaires] ş1997
 !------------------------
@@ -1460,7 +1473,10 @@ o MNE_ICA     ?  2014.02 ..... ISBN 978-2-35408-172-0
 - .oY.     R     _CERUTTI Fabien              L'Ombre du pouvoir [Le Bƒtard de Kosigan - 1] ş2014
 o MNE_ICA     ?  2014.05 ..... ISBN 978-2-35408-176-8
 } mnemosi191     _?                           ?
-- .oF.     R     _TOMAS Adrien                Notre-Dame des Loups ş2014
++ MNE_ICA     ?  2021.05 ..... ISBN 978-2-35408-905-4
+} noimg          _?                           ?
+!--- GF - 150x210 - 192 pages
+- .oF.     R     _TOMAS Adrien                Notre-Dame des loups ş2014
 o MNEMOS      ?  2014.01 ..... ISBN 978-2-35408-158-4
 } mnemos026rr14  _Alain Brion                 N
 !-- Grand format cartonn‚ - Edition limit‚e
@@ -1493,18 +1509,21 @@ o MNEMOS      ?  2014.05 ..... ISBN 978-2-35408-177-5
 }mnemosint02rr19 _?                           ?
 - .oS.    kR4    _NIVEN Larry                 L'Anneau-Monde - Int‚grale [Known space] ş2014
 : .oS.     R     _NIVEN Larry                 L'Anneau-Monde [Known space] ş1970 Ringworld şTrad. LAMIDEY Fabrice
-: .oS.     R     _NIVEN Larry                 Les Ing‚nieurs de l'anneau-monde [Known space] ş1980 The Ringworld Engineers şTrad. LAMIDEY Fabrice
+: .oS.     R     _NIVEN Larry                 Les Ing‚nieurs de l'anneau-monde [Known space] ş1979 The Ringworld Engineers şTrad. LAMIDEY Fabrice
 : .oS.     R     _NIVEN Larry                 Le Tr“ne de l'anneau-monde [Known space] ş1996 The Ringworld Throne şTrad. TILCHE Pascal
 : .oS.     R     _NIVEN Larry                 Les Enfants de l'anneau-monde [Known space] ş2004 Ringworld's Children şTrad. TILCHE Pascal
 o MNEMOS      ?  2014.06 ..... ISBN 978-2-35408-180-5
 } mnemosint03    _Nicolas Fructus             ?
++ MNEMOS      ?  2021.07 ..... ISBN 978-2-35408-918-4
+} mnemosint03rr21 _?                           ?
+!--- GF - 160x240 - 912 pages
 - .oF.    kR6    _LUMLEY Brian                La L‚gende de Titus Crow - Int‚grale [Titus Crow - 1/6] ş2014
-: .oF.     R     _LUMLEY Brian                Ceux qui se terrent dans les tr‚fonds [Titus Crow - 1] ş1974 The Burrowers Beneath şTrad. WATKINS France-Marie
-: .oF.     R     _LUMLEY Brian                La Transition de Titus Crow [Titus Crow - 2] ş1975 The Transition of Titus Crow şTrad. WATKINS France-Marie
-: .oF.     R     _LUMLEY Brian                L'Horloge des songes [Titus Crow - 3] ş1978 The Clock of Dreams / De Marigny's Dream Quest şTrad. WATKINS France-Marie
-: .oF.     R     _LUMLEY Brian                Le D‚mon du vent [Titus Crow - 4] ş1978 Spawn of the Winds şTrad. WATKINS France-Marie
-: .oF.     R     _LUMLEY Brian                Les Lunes de Bor‚e [Titus Crow - 5] ş1979 In the Moons of Borea şTrad. WATKINS France-Marie
-: .oF.     R     _LUMLEY Brian                Elysia [Titus Crow - 6] ş1989 Elysia, or The Coming of Cthulhu şTrad. BILLION Bruno
+: .o .     R     _LUMLEY Brian                Ceux qui se terrent dans les tr‚fonds [Titus Crow - 1] ş1974 The Burrowers Beneath şTrad. WATKINS France-Marie
+: .o .     R     _LUMLEY Brian                La Transition de Titus Crow [Titus Crow - 2] ş1975 The Transition of Titus Crow şTrad. WATKINS France-Marie
+: .o .     R     _LUMLEY Brian                L'Horloge des songes [Titus Crow - 3] ş1978 The Clock of Dreams / De Marigny's Dream Quest şTrad. WATKINS France-Marie
+: .o .     R     _LUMLEY Brian                Le D‚mon du vent [Titus Crow - 4] ş1978 Spawn of the Winds şTrad. WATKINS France-Marie
+: .o .     R     _LUMLEY Brian                Les Lunes de Bor‚e [Titus Crow - 5] ş1979 In the Moons of Borea şTrad. WATKINS France-Marie
+: .o .     R     _LUMLEY Brian                Elysia [Titus Crow - 6] ş1989 Elysia: The Coming of Cthulhu şTrad. BILLION Bruno
 o MNEMOS      ?  2014.09 ..... ISBN 978-2-35408-182-9
 } mnemosint04    _Atelier Octobre Rouge       ?
 - .oY.    kR2    _HELIOT Johan                Faerie stories ş2014
@@ -1526,7 +1545,7 @@ o MNEMOS      ?  2014.01 ..... ISBN 978-2-35408-169-0
 : .o .     N     _CURVAL Philippe             Pire que le vent ş2014
 : .o .     N     _LEOURIER Christian          Quelques moments dans la vie d'un homme d'affaire ş2014
 : .o .     N     _PAQUET Olivier              Trou noir contre vampire ş2014
-: .o .     N     _LECONTE Marianne            Femme fatale ş2014
+: .o .     N     _LECONTE Marianne            Femme fatale ş1980
 : .o .     N     _VILA Christian              Les Ravageurs : une histoire d'amour ş2014
 : .o .     N     _BREAN Simon                 Les Miroirs de l'‚ternit‚ ş2014
 : .o .     N     _BELLAGAMBA Ugo              Icare herm‚tique ş2014
@@ -1613,6 +1632,7 @@ o MNEMOS      ?  2015.02 ..... ISBN 978-2-35408-292-5
 : .oY.     R     _HARRISON M. John            Les Dieux incertains [Viriconium - 3] ş1982 The Floating Gods şTrad. PUGI Jean-Pierre
 o MNEMOS      ?  2015.02 ..... ISBN 978-2-35408-290-1
 } mnemosint08    _Aur‚lie Evrard              N
+!--- GF - 304 pages
 - .oS.    kR2    _GABORIT Mathieu             BohŠme [BohŠme - 1/2] ş2007
 : .oS.     R     _GABORIT Mathieu             Les Rives d'Antipolie [BohŠme - 1] ş1997
 : .oS.     R     _GABORIT Mathieu             R‚volutsyia [BohŠme - 2] ş1997
@@ -1636,6 +1656,9 @@ o MNEMOS      ?  2015.05 ..... ISBN 978-2-35408-312-0
 : .oY.     R     _McKILLIP Patricia A.        Le Cygne et l'Oiseau de feu ş1993 The Cygnet and the Firebird şTrad. PUGI Jean-Pierre
 o MNEMOS      ?  2015.06 ..... ISBN 978-2-35408-313-7
 } mnemosint12    _Alain Brion                 ?
++ MNEMOS      ?  2022.06 ..... ISBN 978-2-35408-975-7
+} mnemosint12rr22 _?                           ?
+!--- GF - 160x240 - 848 pages
 - .oY.    kR4    _LINDHOLM Megan              Ki & Vandien - Int‚grale [Ki et Vandien - 1/4] ş2012
 : .oY.     R     _LINDHOLM Megan              Le Vol des harpies [Ki et Vandien - 1] ş1983 Harpy's Flight şTrad. SPINAT Xavier
 : .oY.     R     _LINDHOLM Megan              Les Ventchanteuses [Ki et Vandien - 2] ş1984 The Windsingers şTrad. LE PENNEC Guillaume
@@ -1652,11 +1675,11 @@ o MNEMOS      ?  2015.08 ..... ISBN 978-2-35408-329-8
 : .o .     R     _GRIMBERT Pierre             Le Doyen ‚ternel [Le Secret de Ji - 4] ş1997-1999
 o MNEMOS      ?  2015.10 ..... ISBN 978-2-35408-335-9
 } mnemosint14    _Stas Lobachev               ?
+!--- TBD si recueil / section identifi‚ pour grouper les novellas : Par-del… la porte des mondes [La Porte des mondes] (1991 Beyond the Gate of Worlds)
 - .oS.    kRN3   _SILVERBERG Robert          &La Porte des mondes - Int‚grale [La Porte des mondes] ş2015
 &                _BRUNNER John               &
 &                _YARBRO Chelsea Quinn        
 : .o .     R     _SILVERBERG Robert           La Porte des mondes [La Porte des mondes] ş1967 The Gate of Worlds şTrad. SAUMONT Annie
-!---      kr3                                 Par-del… la porte des mondes [La Porte des mondes] ş1991 Beyond the Gate of Worlds şTrad. Divers traducteurs
 : .o .     r     _SILVERBERG Robert           Tombouctou … l'heure du lion [La Porte des mondes] ş1990 Lion Time in Timbuctoo şTrad. COLLON H‚lŠne
 : .o .     r     _BRUNNER John                Sous le signe de la rose [La Porte des mondes] ş1991 At the Sign of the Rose şTrad. DUPRA Laura
 : .o .     r     _YARBRO Chelsea Quinn        L'Exaltation des araign‚es [La Porte des mondes] ş1991 An Exaltation of Spiders şTrad. DUPRA Laura
@@ -1706,6 +1729,7 @@ o MNE_THR     ?  2015.03 ..... ISBN 978-2-35408-297-0
 !--- 
 o MNE_DED     ?  2015.11 ..... ISBN 978-2-35408-352-6
 } mnemosd47      _Nicolas Fructus             ?
+!--- 288 pages
 - .oF.     A4    _CAMUS David                &Kadath - Quatre quˆtes oniriques de la cit‚ inconnue ş2016
 &                _FAZI M‚lanie               &
 &                _GRANIER DE CASSAGNAC R.    &
@@ -1737,8 +1761,11 @@ o MNE_ICA     ?  2016.10 ..... ISBN 978-2-35408-510-0
 - .oY.     R     _ARTHUR G. D.                Exils [Eos - 2] ş2016
 o MNEMOS      ?  2016.02 ..... ISBN 978-2-35408-345-8
 } mnemosint16    _?                           ?
-- .oY.     R5    _GABORIT Mathieu             Les Royaumes cr‚pusculaires - Int‚grale [Les Royaumes cr‚pusculaires] ş2007
 !--- Edition luxe, limit‚e, cartonn‚e avec signet. "Edition anniversaire - 20 ans"
++ MNEMOS      ?  2022.04 ..... ISBN 978-2-35408-961-0
+} mnemosint16rr22 _Goulven Quentel             ?
+!--- GF - 160x240 - 624 pages - 28 euros
+- .oY.     R5    _GABORIT Mathieu             Les Royaumes cr‚pusculaires - Int‚grale [Les Royaumes cr‚pusculaires] ş2007
 : .o .     R     _GABORIT Mathieu             Souffre-jour [Les Chroniques des cr‚pusculaires - 1][Les Royaumes cr‚pusculaires] ş1995-1999
 : .o .     R     _GABORIT Mathieu             Les Danseurs de Lorgol [Les Chroniques des cr‚pusculaires - 2][Les Royaumes cr‚pusculaires] ş1996-1999
 : .o .     R     _GABORIT Mathieu             Agone [Les Chroniques des cr‚pusculaires - 3][Les Royaumes cr‚pusculaires] ş1996-1999
@@ -1761,11 +1788,12 @@ o MNEMOS      ?  2016.02 ..... ISBN 978-2-35408-344-1
 o MNEMOS      ?  2016.03 ..... ISBN 978-2-35408-341-0
 } mnemosint19    _Jorge Jacinto               ?
 !--- Cartonn‚, avec signet, jaquette
+!--- jaquette - 
 + MNEMOS      ?  2018.10 ..... ISBN 978-2-35408-681-7
 }mnemosint19rr18 _?                           ?
 !--- Cartonn‚, avec signet
 - .oS.    kR5    _FARMER Philip Jos‚          Le Monde du fleuve - Int‚grale [Le Fleuve de l'‚ternit‚ - 1/5] ş2016
-: .o .     R     _FARMER Philip Jos‚          Le Monde du fleuve [Le Fleuve de l'‚ternit‚ - 1] ş1971 To your Scattered Bodies go şTrad. ABADIA Guy
+: .o .     R     _FARMER Philip Jos‚          Le Monde du fleuve [Le Fleuve de l'‚ternit‚ - 1] ş1971 To Your Scattered Bodies Go şTrad. ABADIA Guy
 : .o .     R     _FARMER Philip Jos‚          Le Bateau fabuleux [Le Fleuve de l'‚ternit‚ - 2] ş1971 The Fabulous Riverboat şTrad. ABADIA Guy
 : .o .     R     _FARMER Philip Jos‚          Le Noir Dessein [Le Fleuve de l'‚ternit‚ - 3] ş1977 The Dark Design şTrad. ABADIA Guy
 : .o .     R     _FARMER Philip Jos‚          Le Labyrinthe magique [Le Fleuve de l'‚ternit‚ - 4] ş1980 The Magic Labyrinth şTrad. CANET Charles
@@ -1869,7 +1897,7 @@ o MNEMOS      ?  2017.06 ..... ISBN 978-2-35408-588-9
 : .o .     p     _CONNORS Scott               Pr‚face ş2017
 : .o .     P     _SMITH Clark Ashton          Zothique ş1951 Zothique şTrad. BETAN Julien
 : .o .     N     _SMITH Clark Ashton          L'Empire des n‚cromants ş1932 The Empire of the Necromancers şTrad. BETAN Julien
-: .o .     N     _SMITH Clark Ashton          L'Œle des tortionnaires ş1932 The Isle of the Torturers şTrad. BETAN Julien
+: .o .     N     _SMITH Clark Ashton          L'Œle des tortionnaires ş1933 The Isle of the Torturers şTrad. BETAN Julien
 : .oF.     N     _SMITH Clark Ashton          Le Dieu n‚crophage ş1934 The Charnel God şTrad. BETAN Julien
 : .oF.     N     _SMITH Clark Ashton          Le Sombre Eidolon ş1935 The Dark Eidolon şTrad. BETAN Julien
 : .o .     N     _SMITH Clark Ashton          Le Voyage du roi Euvoran ş1933 The Voyage of King Euvoran şTrad. BETAN Julien
@@ -1882,7 +1910,7 @@ o MNEMOS      ?  2017.06 ..... ISBN 978-2-35408-588-9
 : .oF.     N     _SMITH Clark Ashton          L'Abb‚ noir de Puthuum ş1936 The Black Abbot of Puthuum şTrad. BETAN Julien
 : .o .     N     _SMITH Clark Ashton          La Mort d'Ilalotha ş1937 The Death of Ilalotha şTrad. BETAN Julien
 : .oF.     N     _SMITH Clark Ashton          Le Jardin d'Adompha ş1938 The Garden of Adompha şTrad. BETAN Julien
-: .oF.     N     _SMITH Clark Ashton          Le MaŒtre des crabes ş1934 The Master of the Crabs şTrad. BETAN Julien
+: .oF.     N     _SMITH Clark Ashton          Le MaŒtre des crabes ş1948 The Master of the Crabs şTrad. BETAN Julien
 : .oF.     N     _SMITH Clark Ashton          Morthylla ş1953 Morthylla şTrad. BETAN Julien
 : .o .     N     _SMITH Clark Ashton          Des morts tu subiras l'adultŠre ş1963 The Dead Will Cuckold You şTrad. BETAN Julien
 !--- Fragments & synopsis
@@ -1919,7 +1947,7 @@ o MNE_ICA     ?  2017.10 ..... ISBN 978-2-35408-599-5
 o MNEMOS      ?  2017.01 ..... ISBN 978-2-35408-531-5
 } mnemos012017_1 _Adam Taylor                 ?
 + MNEMOS      ?  2020.10 ..... ISBN 978-2-35408-778-4
-} noimf          _Adam Taylor                 ?
+} noimg          _Adam Taylor                 ?
 - .oS.     R5    _HEINLEIN Robert             Histoire du futur [Histoire du futur - 1/5] ş2017
 : .oS.     C6    _HEINLEIN Robert             L'Homme qui vendit la lune [Histoire du futur - 1] ş1950 The Man who Sold the Moon şTrad. BILLON Pierre & DUMOULIN Jean-Claude
 !--- TBD si contient le RF 58
@@ -1951,8 +1979,8 @@ o MNEMOS      ?  2017.03 ..... ISBN 978-2-35408-542-1
 - .oS.     R     _ATTANASIO A. A.             Radix ş1981 Radix şTrad. CARASSO Jean-Pierre
 o MNEMOS      ?  2017.04 ..... ISBN 978-2-35408-547-6
 } mnemosi042017  _?                           ?
-- .oS.     R2    _VAN VOGT Alfred E.          Le Cycle de Linn [Le Cycle de Linn] ş2017
-: .o .    kU5    _VAN VOGT Alfred E.          L'Empire de l'atome [Le Cycle de Linn] ş1957 Empire of the Atom şTrad. BILLON Pierre
+- .oS.     R2    _VAN VOGT Alfred E.          Le Cycle de Linn [Le Cycle de Linn] ş1967
+: .o .     U     _VAN VOGT Alfred E.          L'Empire de l'atome [Le Cycle de Linn] ş1957 Empire of the Atom şTrad. BILLON Pierre
 : .o .     R     _VAN VOGT Alfred E.          Le Sorcier de Linn [Le Cycle de Linn] ş1950 The Wizard of Linn şTrad. BILLON Pierre
 o MNEMOS      ?  2016.xx ..... ISBN 978-2-35408-357-1
 } mnemos042017_1 _G‚raud Soulier              ?
@@ -1965,12 +1993,15 @@ o MNEMOS      ?  2017.06 ..... ISBN 978-2-35408-571-1
 - .oS.     R     _SARBAN O.                   Le Son du cor ş1952 The Sound of His Horn şTrad. TERSAC Jacques de
 o MNEMOS      ?  2017.08 ..... ISBN 978-2-35408-583-4
 }mnemosint082017 _Dogan Otzel                 ?
-- .oS.     R2    _SILVERBERG Robert           Majipoor - Int‚grale du cycle de Valentin [Majipoor] ş2017
+- .oS.    _R2    _SILVERBERG Robert           Le Cycle de Valentin - L'int‚grale Majipoor 1 [Majipoor] ş2017
 : .oS.     R     _SILVERBERG Robert           Le Chƒteau de Lord Valentin [Majipoor - 1] ş1980 Lord Valentine's Castle şTrad. BERTHON Patrick
 : .oS.     R     _SILVERBERG Robert           Valentin de Majipoor [Majipoor - 3] ş1983 Valentine Pontifex şTrad. BERTHON Patrick & TOURLOURAT Marie-Laure
 o MNEMOS      ?  2017.10 ..... ISBN 978-2-35408-598-8
 } noimg          _?                           ?
-- .oS.     R     _WOLFE Gene                  La CinquiŠme Tˆte de cerbŠre ş1972 The Fifth Head of Cerberus şTrad. ABADIA Guy
+- .oS.    kC3    _WOLFE Gene                  La CinquiŠme Tˆte de cerbŠre ş1972 The Fifth Head of Cerberus şTrad. ABADIA Guy
+: .o .     r     _WOLFE Gene                  La CinquiŠme Tˆte de cerbŠre ş1972 The Fifth Head of Cerberus
+: .o .     r     _WOLFE Gene                  R‚cit ş1972 A Story
+: .o .     r     _WOLFE Gene                  V.R.T. ş1972 V.R.T.
 o MNEMOS      ?  2017.11 ..... ISBN 978-2-35408-605-3
 } mnemosint27    _?                           ?
 - .oY.    kR5    _GRIMBERT Pierre             Les Enfants de Ji [Les Enfants de Ji - 1/5][Le Secret de Ji] ş2017
@@ -2046,7 +2077,7 @@ o MNEMOS      ?  2018.02 35.00 ISBN 978-2-35408-614-5
 - .oS.    kR7    _FARMER Philip Jos‚          Thoan - La Saga des hommes-dieux [La Saga des hommes-dieux - 1/7] ş2018
 : .oS.     R     _FARMER Philip Jos‚          Le Faiseur d'univers [La Saga des hommes-dieux - 1] ş1965 The Maker of Universes şTrad. DEUTSCH Michel
 : .oS.     R     _FARMER Philip Jos‚          Les Portes de la cr‚ation [La Saga des hommes-dieux - 2] ş1966 The Gates of Creation şTrad. ABADIA Guy
-: .oS.     R     _FARMER Philip Jos‚          Cosmos priv‚ [La Saga des hommes-dieux - 3] ş1968 Private Cosmos şTrad. BATTIN Marcel
+: .oS.     R     _FARMER Philip Jos‚          Cosmos priv‚ [La Saga des hommes-dieux - 3] ş1968 A Private Cosmos şTrad. BATTIN Marcel
 : .oS.     R     _FARMER Philip Jos‚          Les Murs de la Terre [La Saga des hommes-dieux - 4] ş1970 Behind the Walls of Terra şTrad. BATTIN Marcel
 : .oS.     R     _FARMER Philip Jos‚          Le Monde Lavalite [La Saga des hommes-dieux - 5] ş1977 The Lavalite World şTrad. MOUSNIER-LOMPRE Arnaud
 : .oS.     R     _FARMER Philip Jos‚          La Rage d'Orc le Rouge [La Saga des hommes-dieux - 6] ş1991 Red Orc's Rage şTrad. MOUSNIER-LOMPRE Arnaud
@@ -2089,7 +2120,7 @@ o MNEMOS      ?  2018.04 ..... ISBN 978-2-35408-609-1
 : .o .     R     _VANCE Jack                  Madouc [Lyonesse - 3] ş1989 Madouc şTrad. MEISTERMAN E.C.L.
 o MNE_ICA     ?  2018.04 ..... ISBN 978-2-35408-636-7
 } noimg          _Daniel Balage               ?
-- .oY.     R     _GABORIT Mathieu             La Cit‚ exsangue [Les Nouveaux MystŠres d'Abyme - 1][Les Royaumes cr‚pusculaires] ş2018
+- .oY.     R     _GABORIT Mathieu             Les Nouveaux MystŠres d'Abyme [La Cit‚ exsangue - 1][Les Royaumes cr‚pusculaires] ş2018
 o MNE_ICA     ?  2018.05 ..... ISBN 978-2-35408-640-4
 } noimg          _Atelier Octobre Rouge       ?
 - .oS.     R     _HELIOT Johan                L'Envol du Soleil [Grand siŠcle - 2] ş2018
@@ -2098,10 +2129,10 @@ o MNE_ICA     ?  2018.06 ..... ISBN 978-2-35408-646-6
 - .oY.     R     _CERUTTI Fabien              Le Testament d'involution [Le Bƒtard de Kosigan - 4] ş2018
 o MNEMOS      ?  2018.06 ..... ISBN 978-2-35408-648-0
 } mnemosint35    _Dogan Oztel                 ?
-- .oS.    kR3    _SILVERBERG Robert           Majipoor - Int‚grale du cycle de Prestimion [Majipoor] ş2018
+- .oS.    _R3    _SILVERBERG Robert           Le Cycle de Prestimion - L'int‚grale Majipoor 2 [Majipoor] ş2018
 : .o .     R     _SILVERBERG Robert           Les Sorciers de Majipoor [Majipoor - 5] ş1997 Sorcerers of Majipoor şTrad. BERTHON Patrick
 : .o .     R     _SILVERBERG Robert           Prestimion le Coronal [Majipoor - 6] ş1999 Lord Prestimion şTrad. BERTHON Patrick
-: .o .     R     _SILVERBERG Robert           Le Roi des rˆves [Majipoor - 7] ş2001 King of Dreams şTrad. PROVOST Rapha‰le
+: .o .     R     _SILVERBERG Robert           Le Roi des rˆves [Majipoor - 7] ş2001 The King of Dreams şTrad. PROVOST Rapha‰le
 o MNEMOS      ?  2018.06 20.00 ISBN 978-2-35408-650-3
 } noimg          _John Howe                   ?
 !--- 256 pages
@@ -2126,17 +2157,17 @@ o MNE_ICA     ?  2018.06 ..... ISBN 978-2-35408-651-0
 } noimg          _M‚lanie Delon               ?
 - .oY.     R     _BOUSQUET Charlotte          Les Masques d'Azr'Khila [Shƒhra - 1] ş2018
 o MNE_ICA     ?  2018.08 ..... ISBN 978-2-35408-662-6
-} noimg          _Qistina Khalidah            ?
-- .oY.     R     _MONDIOT Vincent            &Les Mondes-Miroirs ş2018
+} noimg          _Qistina Khalidah            Mathieu Leveder
+- .oY.     R     _MONDIOT Vincent            &Les Mondes-Miroirs [Mirinar - 1] ş2010-2018
 &                _LAFARGE Rapha‰l             
 o MNEMOS      ?  2018.08 ..... ISBN 978-2-35408-663-3
 } mnemosint36    _Fahad Alkadi                ?
 !--- Pr‚face de Timoth‚e Rey
 - .oS.    iRNx   _SMITH Cordwainer            Les Seigneurs de l'Instrumentalit‚ - Int‚grale [Les Seigneurs de l'Instrumentalit‚] ş2018
-: .oS.    iN17   _SMITH Cordwainer            Les sondeurs vivent en vain [Les Seigneurs de l'Instrumentalit‚] ş2004
-: .oS.    iN10   _SMITH Cordwainer            La PlanŠte Shayol [Les Seigneurs de l'Instrumentalit‚] ş2004
+: .oS.    iNx    _SMITH Cordwainer            Les sondeurs vivent en vain [Les Seigneurs de l'Instrumentalit‚] ş2004
+: .oS.    iNx    _SMITH Cordwainer            La PlanŠte Shayol [Les Seigneurs de l'Instrumentalit‚] ş2004
 : .oS.     R     _SMITH Cordwainer            Norstralie [Les Seigneurs de l'Instrumentalit‚] ş1975-1993 Norstrilia şTrad. HILLING Simone & DURASTANTI Pierre-Paul
-: .oS.    iN5    _SMITH Cordwainer            L‚gendes et glossaire du futur [Les Seigneurs de l'Instrumentalit‚] ş2004
+: .oS.    iNx    _SMITH Cordwainer            L‚gendes et glossaire du futur [Les Seigneurs de l'Instrumentalit‚] ş2004
 : .oS.     E     _LEWIS Anthony R.            Concordance de Cordwainer Smith [Les Seigneurs de l'Instrumentalit‚] ş1984 Concordance to Cordwainer Smith
 o MNEMOS      ?  2018.09 ..... ISBN 978-2-35408-610-7
 } mnemosd54      _Zdzislaw Beksinski          ?
@@ -2196,7 +2227,7 @@ o MNE_ICA     ?  2019.01 ..... ISBN 978-2-35408-704-3
 - .oS.     R     _MARTEL Jacques              La Voie Verne ş2019
 o MNE_ICA     ?  2019.02 ..... ISBN 978-2-35408-709-8
 } noimg          _Qistina Khalidah            ?
-- .oY.     R     _LATIL-NICOLAS Thibaud       Chevauche-brumes ş2019
+- .oY.     R     _LATIL-NICOLAS Thibaud       Chevauche-Brumes [Chevauche-Brumes - 1] ş2019
 o MNEMOS      ?  2019.03 ..... ISBN 978-2-35408-719-7
 } noimg          _Zdzislaw Beksinski          ?
 - .o .     R     _BLOCH Robert                Etranges ‚ons ş1978 Strange Eons şTrad. TRUCHAUD Fran‡ois
@@ -2208,10 +2239,10 @@ o MNEMOS      ?  2019.03 ..... ISBN 978-2-35408-721-0
 : .o .     R     _VANCE Jack                  Throy [Les Chroniques de Cadwal - 3] ş1992 Throy şTrad. MEISTERMANN E.C.L.
 o MNEMOS      ?  2019.04 ..... ISBN 978-2-35408-722-7
 } mnemosint39    _Dogan Oztel                 ?
-- .oS.     RN7   _SILVERBERG Robert           Les L‚gendes de Majipoor [Majipoor] ş2019
-: .oS.     R     _SILVERBERG Robert           Chroniques de Majipoor [Majipoor - 2] ş1982 Majipoor Chronicles şTrad. BERTHON Patrick
+- .oS.    _RN7   _SILVERBERG Robert           Les L‚gendes de Majipoor - L'int‚grale Majipoor 3 [Majipoor] ş2019
+: .oS.     R     _SILVERBERG Robert           Les Chroniques de Majipoor [Majipoor - 2] ş1982 Majipoor Chronicles şTrad. BERTHON Patrick
 : .o .     R     _SILVERBERG Robert           Les Montagnes de Majipoor [Majipoor - 4] ş1995 The Mountains of Majipoor
-: .oS.    kN7    _SILVERBERG Robert           DerniŠres nouvelles de Majipoor [Majipoor] ş2013 Tales of Majipoor
+: .oS.    _N7    _SILVERBERG Robert           DerniŠres nouvelles de Majipoor [Majipoor] ş2013 Tales of Majipoor
 = .oS.     N     _SILVERBERG Robert           Le Bout du chemin [Majipoor] ş2011 The End of the Line şTrad. HOLSTEIN Eric
 = .oS.     N     _SILVERBERG Robert           Le Livre des changements [Majipoor] ş2003 The Book of Changes şTrad. PUGI jean-Pierre
 = .oS.     N     _SILVERBERG Robert           La Tombe du pontife Dvorn [Majipoor] ş2011 The Tomb of the Pontifex Dvorn şTrad. HOLSTEIN Eric
@@ -2283,8 +2314,8 @@ o MNE_ICA     ?  2019.11 ..... ISBN 978-2-35408-728-9
 } noimg          _Picomodi                    ?
 - .oS.     R     _VONARBURG Elisabeth         Chroniques du pays des mŠres ş1992
 o MNE_ICA     ?  2019.11 ..... ISBN 978-2-35408-747-0
-} noimg          _Qistina Khalidah            ?
-- .oY.     R     _MONDIOT Vincent             L'Ombre des arches ş2019
+} noimg          _Qistina Khalidah            Matthieu Leverder
+- .oY.     R     _MONDIOT Vincent             L'Ombre des arches [Mirinar - 2] ş2019
 o MNEMOS      ?  2019.12 ..... ISBN 978-2-35408-749-4
 } noimg          _Diego Tripodi + Margaret Chodos-Irvine
 - .oS.     R     _LE GUIN Ursula K.           La Vall‚e de l'‚ternel retour ş1985 Always Coming Home şTrad. REINHAREZ Isabelle + BETAN Julien
@@ -2317,11 +2348,11 @@ o MNE_ICA     ?  2020.02 ..... ISBN 978-2-35408-769-2
 } noimg          _Jeffrey Alan Loce           ?
 - .oY.     R     _BARDAS Rapha‰l              Les Chevaliers du tintamarre ş2020
 o MNE_ICA     ?  2020.05 ..... ISBN 978-2-35408-771-5
-} noimg          _Zdislaw Beksinski           ?
+} mnemosi225     _Zdislaw Beksinski           ?
 - .oF.     N12   _LONG Frank Belknap          Les Chiens de Tindalos ş2020
 : .oF.     N     _LONG Frank Belknap          Les mangeuses venues de l'espace ş1928 The Space Eaters
 : .o .     N     _LONG Frank Belknap          Les Chiens de Tindalos ş1929 The Hounds of Tindalos şTrad. MALLET Patrick
-: .oF.     N     _LONG Frank Belknap          L'Horreur venue des collines ş1931 The Horror from the Hills şTrad. MALLET Patrick
+: .oF.     r     _LONG Frank Belknap          L'Horreur venue des collines ş1931 The Horror from the Hills şTrad. MALLET Patrick
 : .o .     N     _LONG Frank Belknap          L'Envahisseur des profondeurs ş1924 Death-waters şTrad. MALLET Patrick
 : .oF.     N     _LONG Frank Belknap          Les Mangeurs de cerveaux ş1932 The Brain-Eaters şTrad. MALLET Patrick
 : .oF.     N     _LONG Frank Belknap          Sombre ‚veil ş1980 Dark Awakening şTrad. MALLET Patrick
@@ -2333,16 +2364,16 @@ o MNE_ICA     ?  2020.05 ..... ISBN 978-2-35408-771-5
 : .oF.     P     _LONG Frank Belknap          H. P. Lovecraft ş1938 H. P. Lovecraft şTrad. MALLET Patrick
 o MNE_ICA     ?  2020.05 ..... ISBN 978-2-35408-770-8
 } noimg          _Qistina Khalidah            ?
-- .oY.     R     _LATIL-NICOLAS Thibaud       Les Flots sombres ş2020
+- .oY.     R     _LATIL-NICOLAS Thibaud       Les Flots sombres [Chevauche-Brumes - 2] ş2020
 o MNEMOS      ?  2020.05 ..... ISBN 978-2-35408-772-2
-} noimg          _(c)Shutterstock             ?
+} mnemosint43    _(c)Shutterstock             ?
 - .oS.     R2N2  _HERBERT Frank               Le Bureau des sabotages - Int‚grale [Bureau des sabotages - 1/2] ş2020
 : .o .     R     _HERBERT Frank               L'toile et le fouet [Bureau des sabotages - 1] ş1970 Whipping Star şTrad. ABADIA Guy
 : .oS.     R     _HERBERT Frank               Dosadi [Bureau des sabotages - 2] ş1977 The Dosadi Experiment şTrad. ABADIA Guy
 : .oS.     N     _HERBERT Frank               La D‚licatesse du saboteur [Bureau des sabotages] ş1964 The Tactful Saboteur şTrad. ?
 : .oS.     N     _HERBERT Frank               Tracer son sillon [Bureau des sabotages] ş1958 A Matter of Traces şTrad. ?
 o MNE_ICA     ?  2020.06 ..... ISBN 978-2-35408-784-5
-} noimg          _Laure Wilmot                ?
+} mnemosi227     _Laure Wilmot                ?
 - .oY.     N6    _CERUTTI Fabien              Les Secrets du premier coffre ş2020
 : .oY.     N     _CERUTTI Fabien              L‚gende du premier monde ş2018-2020
 : .oY.     N     _CERUTTI Fabien              Ineffabilis Amor ş2020
@@ -2351,7 +2382,7 @@ o MNE_ICA     ?  2020.06 ..... ISBN 978-2-35408-784-5
 : .oY.     N     _CERUTTI Fabien              Le Livre des merveilles du Monde ş2020
 : .oY.     N     _CERUTTI Fabien              Les Jeux de la cour et du hasard ş2020
 o MNEMOS      ?  2020.07 ..... ISBN 978-2-35408-785-2
-} noimg          _Alain Brion                 ?
+} mnemosint44    _Alain Brion                 ?
 !--- GF - 624 pages - 30 euros
 - .oY.    kR4    _GRIMBERT Pierre             Les Gardiens de Ji [Les Gardiens de Ji - 1/4][Le Secret de Ji] ş2020
 : .oY.     R     _GRIMBERT Pierre             La Volont‚ du d‚mon [Les Gardiens de Ji - 1][Le Secret de Ji] ş2008
@@ -2365,7 +2396,7 @@ o MNEMOS      ?  2020.08 ..... ISBN 978-2-35408-791-3
 } noimg          _Wadim Kashin                ?
 - .oS.     R     _BERENVAL Olivier            Le Janissaire ş2020
 o MNEMOS      ?  2020.09 ..... ISBN 978-2-35408-800-2
-} noimg          _Scott Uminga                ?
+} mnemosint45    _Scott Uminga                ?
 - .oS.     R4    _BLISH James                 Les Villes nomades - Edition int‚grale [Les Villes nomades - 1/4] ş2020
 : .oS.     U     _BLISH James                 Aux hommes les ‚toiles [Les Villes nomades - 1] ş1956 They Shall Have Stars / Year 2018! şTrad. CHRESTIEN Michel
 : .oS.     R     _BLISH James                 Villes nomades [Les Villes nomades - 2] ş1962 A Life for the Stars şTrad. DEUTSCH Michel
@@ -2383,6 +2414,686 @@ o MNEMOS      ?  2020.10 ..... ISBN 978-2-35408-802-6
 o MNEMOS      ?  2020.11 ..... ISBN 978-2-35408-797-5
 } noimg          _Cindy Canevet               ?
 - .oY.     R     _CALVO Sabrina               La Nuit des labyrinthes [Bertrand Lacejambe - 2] ş2004
+o MNEMOS      ?  2020.11 ..... ISBN 978-2-35408-805-7
+} mnemosint46    _?                           ?
+!--- GF - 880 pages - 35 euros
+- .oY.     R4    _CLAVEL Fabien               Nephilim L'Hepta : Int‚grale [R‚v‚lations - 1/4][Nephilim] ş2020
+! .oY.    kR2    _CLAVEL Fabien               Les D‚chus [R‚v‚lations - 1/2][Nephilim] ş2012
+: .o .     R     _CLAVEL Fabien               Le Syndrome Eurydice [R‚v‚lations - 1][Nephilim] ş2002-2012
+: .o .     R     _CLAVEL Fabien               Anonymus [R‚v‚lations - 2][Nephilim] ş2002-2012
+! .oY.    kR2    _CLAVEL Fabien               L'‚veil [R‚v‚lations - 3/4][Nephilim] ş2012
+: .o .     R     _CLAVEL Fabien               Les Dracomaques [R‚v‚lations - 3][Nephilim] ş2003-2012
+: .o .     R     _CLAVEL Fabien               L'Effet Orph‚e [R‚v‚lations - 4][Nephilim] ş2003-2012
+!------------------------
+!=== 2021
+!------------------------
+o MNEMOS      ?  2021.01 ..... ISBN 978-2-35408-834-7
+} mnemosint47    _?                           ?
+!--- GF - 160 x 240 - 560 pages
+!--- Traductions revues par Timoth‚e Rey
+- .oS.     RN11  _LEIBER Fritz                Les Chats sont ‚ternels - Editions omnibus ş2021
+: .oS.     R     _LEIBER Fritz                Le Mill‚naire vert ş1953 The Green Millenium şTrad. ?
+: .oS.     N     _LEIBER Fritz                L'espace-temps est aux f‚lins [Gummitch le chat] ş1958 Space-time for Springers şTrad. Catherine + REY Timoth‚e
+: .o .     N     _LEIBER Fritz                Cr‚ativit‚ pour les chats [Gummitch le chat] ş1961 Kreativity for Kats şTrad. BILLON Pierre + REY Timoth‚e
+: .o .     N     _LEIBER Fritz                Le Berceau de l'espŠce [Gummitch le chat] ş1974 Cat's Cradle şTrad. REY Timoth‚e
+: .o .     N     _LEIBER Fritz                MystŠre … l'h“pital Wicks [Gummitch le chat] ş1983 The Cat Hotel şTrad. REY Timoth‚e
+: .o .     N     _LEIBER Fritz                Trois miaulements [Gummitch le chat] ş1992 Thrice the Brinded Cat şTrad. REY Timoth‚e
+: .o .     N     _LEIBER Fritz                Les Mangeurs de lotus ş1972 The Lotus Eaters şTrad. DEUTSCH Michel + REY Timoth‚e
+: .oS.     N     _LEIBER Fritz                Cl‚opƒtre, C‚sar et Marc Antoine ş1973 Cat Three şTrad. MARTIN Bruno + REY Timoth‚e
+: .oS.     N     _LEIBER Fritz                Le Navire des ombres ş1969 Ship of Shadows şTrad. MARTIN Bruno + REY Timoth‚e
+: .oS.     N     _LEIBER Fritz                Lorsque Brahma s'‚veille ş1968 When Brahma Wakes şTrad. REY Timoth‚e
+: .oS.     N     _LEIBER Fritz                Kim la Bosse ş1972 The Bump şTrad. REY Timoth‚e
+: .oS.     N     _LEIBER Fritz                Le Grand glacier de San Francisco ş1981 The Great San Francisco Glacier şTrad. REY Timoth‚e
+o MNE_ICA     ?  2021.02 ..... ISBN 978-2-35408-827-9
+} noimg          _Magdalena Pagowska          ?
+!--- GF - 150 x 210 - 304 pages
+- .o .     R     _TASSY Vincent               Diamants ş2021
+o MNE_ICA     ?  2021.02 ..... ISBN 978-2-35408-779-1
+} mnemosi235     _?                           ?
+!--- GF - 150 x 210 - 576 pages
+- .oY.    kR4    _CORGIAT Sylviane           &Le Jeu de la Trame [Le Jeu de la Trame - 1/4] ş2017
+&                _LECIGNE Bruno               
+: .o .     R     _CORGIAT Sylviane           &Le Rˆve et l'assassin [Le Jeu de la Trame - 1] ş1986-2017
+&                _LECIGNE Bruno               
+: .o .     R     _CORGIAT Sylviane           &L'Araign‚e [Le Jeu de la Trame - 2] ş1987-2017
+&                _LECIGNE Bruno               
+: .o .     R     _CORGIAT Sylviane           &Le Souffle de cristal [Le Jeu de la Trame - 3] ş1987-2017
+&                _LECIGNE Bruno               
+: .o .     R     _CORGIAT Sylviane           &Le Masque d'‚cailles [Le Jeu de la Trame - 4] ş1988-2017
+&                _LECIGNE Bruno               
+o MNE_ICA     ?  2021.03 ..... ISBN 978-2-35408-807-1
+} noimg          _Qistina Khalidah            ?
+!--- GF - 150 x 210 - 464 pages
+- .oY.     R     _LATIL-NICOLAS Thibaud       L'Appel des grands cors [Chevauche-Brumes - 3] ş2021
+o MNE_ICA     ?  2021.03 ..... ISBN 978-2-35408-842-2
+} mnemosi236     _?                           ?
+!--- GF - 155 x 235 - 432 pages
+- .o .     N25   _BLOCH Robert                La Chose venue des ‚toiles ş2021
+: .C .     C     _BLOCH Robert                1. Les Collaborations avec Lovecraft
+: .oF.     N     _BLOCH Robert                La Chose venue des ‚toiles ş1935 The Shambler from the Stars şTrad. POIRIER Philippe
+: .oF.     N     _BLOCH Robert                Les Serviteurs de Satan ş1949 Satan's Servants şTrad. PARSONS Jacques
+: .oF.     N     _BLOCH Robert                L'Ombre du clocher ş1950 The Shadow from the Steeple şTrad. POIRIER Philippe
+: .C .     C     _BLOCH Robert                2. Le Cycle ‚gyptien
+: .oF.     N     _BLOCH Robert                Le Dieu sans visage ş1936 The Faceless God şTrad. POIRIER Philippe
+: .o .     N     _BLOCH Robert                Celui qui ouvre la voie ş1936 The Opener of the Way şTrad. TRUCHAUD Fran‡ois
+: .oF.     N     _BLOCH Robert                La Prog‚niture de Bastet ş1937 The Brood of Bubastis şTrad. POIRIER Philippe
+: .oF.     N     _BLOCH Robert                Le Secret de Sebek ş1937 The Secret of Sebek şTrad. POIRIER Philippe
+: .oF.     N     _BLOCH Robert                Le Sanctuaire du pharaon noir ş1937 Fane of the Black Pharaoh şTrad. POIRIER Philippe
+: .o .     N     _BLOCH Robert                Les Yeux de la momie ş1938 The Eyes of the Mummy şTrad. PAPY Jacques
+: .oF.     N     _BLOCH Robert                L'toile de Sechmet ş1939 The Sorcerer's Jewel şTrad. POIRIER Philippe
+: .C .     C     _BLOCH Robert                3. Les R‚cits du mythe
+: .oF.     N     _BLOCH Robert                Le Secret dans la tombe ş1935 The Secret in the Tomb şTrad. POIRIER Philippe
+: .oF.     N     _BLOCH Robert                Suicide dans l'‚tude ş1935 The Suicide in the Study şTrad. POIRIER Philippe
+: .oF.     N     _BLOCH Robert                La Grimace de la goule ş1936 The Grinning Ghoul şTrad. POIRIER Philippe
+: .oF.     N     _BLOCH Robert                L'Obscur ş1936 The Dark Demon şTrad. POIRIER Philippe
+: .o .     N     _BLOCH Robert                La MŠre des serpents ş1936 Mother of Serpents şTrad. TRUCHAUD Fran‡ois
+: .oF.     N     _BLOCH Robert                L'Homoncule ş1937 The Mannikin şTrad. POIRIER Philippe
+: .oF.     N     _BLOCH Robert                La Cr‚ature dans la crypte ş1937 The Creeper in the Crypt şTrad. POIRIER Philippe
+: .oF.     N     _BLOCH Robert                La mort est un ‚l‚phant ş1939 Death Is an Elepant şTrad. MALLET Patrick
+: .oF.     N     _BLOCH Robert                L'Œle noire ş1939 The Dark Isle şTrad. MALLET Patrick
+: .o .     N     _BLOCH Robert                March‚ d‚moniaque ş1942 Black Bargain şTrad. DEGEN Armand
+: .oF.     N     _BLOCH Robert                Les Noces ineffables ş1949 The Unspeakable Betrothal şTrad. POIRIER Philippe
+: .oF.     N     _BLOCH Robert                Carnet trouv‚ dans une maison d‚serte ş1951 Notebook Found in a Deserted House şTrad. POIRIER Philippe
+: .oF.     N     _BLOCH Robert                La Crique de la terreur ş1958 Terror in Cut-throat Cove şTrad. POIRIER Philippe
+: .oF.     N     _BLOCH Robert                Philtre d'amour ş1961 Philtre Tip şTrad. POIRIER Philippe
+o MNE_ICA     ?  2021.04 ..... ISBN 978-2-35408-840-8
+} noimg          _?                           ?
+!--- GF - 155 x 235 - 252 pages
+- .oS.     R     _VELTEN Auriane              After&reg; ş2021
+o MNEMOS      ?  2021.04 ..... ISBN 978-2-35408-841-5
+} mnemosint48    _?                           ?
+!--- GF - 164 x 240 - 1156 pages
+- .oS.     R8    _KLEIN G‚rard                Espace-Temps K - L'int‚grale des romans ş2021
+: .oS.     R     _KLEIN G‚rard                Le Gambit des ‚toiles ş1958
+: .o .     R     _KLEIN G‚rard                Le Rˆve des forˆts [La Saga d'Argyre - 1] ş1960-1987
+: .oS.     R     _KLEIN G‚rard                Les Voiliers du soleil [La Saga d'Argyre - 2] ş1961-1987
+: .oS.     R     _KLEIN G‚rard                Le Long Voyage [La Saga d'Argyre - 3] ş1964-1988
+: .oS.     R     _KLEIN G‚rard                Les Tueurs de temps ş1965
+: .o .     R     _KLEIN G‚rard                Le Sceptre du hasard ş1968
+: .o .     R     _KLEIN G‚rard                Le temps n'a pas d'odeur ş1963
+: .o .     R     _KLEIN G‚rard                Les Seigneurs de la guerre ş1971
+: .o .     N     _KLEIN G‚rard                L'Autre Vie (synopsis) ş2021
+o MNEMOS      ?  2021.05 ..... ISBN 978-2-35408-907-8
+} mnemosant2021_1 _?                           ?
+!--- GF - 160x240 - 272 pages
+- .oS.    kA13   *NICOT St‚phanie             Et si Napol‚on... ş2021
+: .o .     p     _NICOT St‚phanie             Napol‚on dans tous ses ‚tats ş2021
+: .C .     C     ****                         L'Empire vainqueur
+: .o .     N     _POUJOIS Laurent             Au service secret de l'empereur ş2021
+: .o .     N     _DUNYACH Jean-Claude         La Dynamique de la R‚volution ş2021
+: .o .     N     _CERUTTI Fabien              La Nouvelle Campagne de Russie ş2021
+: .o .     N     _HELIOT Johan                L'Empereur d'un autre monde ş2021
+: .C .     C     ****                         L'Empire toujours
+: .o .     N     _EDGAR SilŠne                Tout se distille ş2021
+: .o .     N     _LATIL-NICOLAS Thibaud       Crassus et Auguste ş2021
+: .o .     N     _JAWORSKI Jean-Philippe      Implacable Clio ş2021
+: .C .     C     ****                         Quand l'Empire s'efface
+: .o .     N     _ISS Raymond                 Le Dernier Rˆve de Napol‚on ş2021
+: .o .     N     _DEL SOCORRO Jean-Laurent    L'Horatius CoclŠs du Tyrol ş2021
+: .o .     N     _DIXEN Victor                Cent jours sans lui ş2021
+: .o .     N     _CABASSON Armand             Dernier soleil ş2021
+: .o .     N     _BELLAGAMBA Ugo              M‚morial de Philae ş2021
+: .o .     N     _ROCH Michael                Rˆves d'‚galit‚ ş2021
+: .o .     o     _CAMPEIS Bertrand           &Napol‚on et l'uchronie ş2021
+&                _GOBLED Karine                    
+o MNEMOS      ?  2021.06 ..... ISBN 978-2-35408-916-0
+} mnemosint49    _?                           ?
+!--- GF - 140x205 - 1500 pages
+- .oS.     R5N5  _WOLFE Gene                  Le Livre du nouveau soleil - Edition int‚grale [Le Livre du nouveau soleil] ş2021
+: .oS.     R     _WOLFE Gene                  L'Ombre du bourreau [Le Livre du nouveau soleil - 1] ş1980 The Shadow of the Torturer şTrad. DESMOND William + MARCEL Patrick
+: .oS.     R     _WOLFE Gene                  La Griffe du demi-dieu [Le Livre du nouveau soleil - 2] ş1981 The Claw of the Conciliator şTrad. DESMOND William
+: .oS.     R     _WOLFE Gene                  L'p‚e du licteur [Le Livre du nouveau soleil - 3] ş1982 The Sword of the Lictor şTrad. DESMOND William
+: .oS.     R     _WOLFE Gene                  La Citadelle de l'Autarque [Le Livre du nouveau soleil - 4] ş1982 The Citadel of the Autarch şTrad. DESMOND William + MARCEL Patrick
+: .oS.     R     _WOLFE Gene                  Le Nouveau Soleil de Teur [Le Livre du nouveau soleil - 5] ş1987 The Urth of the New Sun şTrad. DESMOND William + MARCEL Patrick
+: .oS.     N     _WOLFE Gene                  Le Chat [Le Livre du nouveau soleil] ş1983 The Cat
+: .oS.     N     _WOLFE Gene                  La Carte [Le Livre du nouveau soleil] ş1984 The Map
+: .oS.     N     _WOLFE Gene                  L'Enfant qui pˆcha le soleil [Le Livre du nouveau soleil] ş1985 The Boy Who Hooked the Sun
+: .oS.     N     _WOLFE Gene                  Empire des feuilles et des fleurs [Le Livre du nouveau soleil] ş1987 Empires of Foliage and Flower
+: .oS.     N     _WOLFE Gene                  Du berceau [Le Livre du nouveau soleil] ş2002 From the Cradle
+: .oS.     E     _WOLFE Gene                  Le Chƒteau de la loutre [Le Livre du nouveau soleil] ş1983 The Castle of the Otter
+o MNE_ICA     ?  2021.05 ..... ISBN 978-2-35408-906-1
+} noimg          _?                           ?
+!--- GF - 150x210 - 336 pages
+- .o .     R     _WILLIAMS Tad                La L‚gende du noble chat Piste-fouet ş1985 Tailchaser's Song şTrad. CASARIL Fran‡oise et Guy
+o MNE_ICA     ?  2021.08 ..... ISBN 978-2-35408-806-4
+} noimg          _?                           ?
+!--- GF - 150x210 - 272 pages
+- .o .     R     _BARDAS Rapha‰l              Le Voyage des ƒmes caboss‚es ş2021
+o MNEMOS      ?  2021.08 ..... ISBN 978-2-35408-846-0
+} mnemosint050   _?                           ?
+!--- GF - 160x240 - 864 pages - 35 euros - reli‚ avec signet
+- .oS.    kR3N2  _HALDEMAN Joe                Guerre & Paix ‚ternelles [La Guerre ‚ternelle] ş2021
+: .oS.     R     _HALDEMAN Joe                La Guerre ‚ternelle [La Guerre ‚ternelle - 1] ş1974 The Forever War şTrad. IMBERT Patrick
+: .oS.     R     _HALDEMAN Joe                La Paix ‚ternelle [La Guerre ‚ternelle - 2] ş1997 The Forever Peace şTrad. PAGEL Michel
+: .oS.     R     _HALDEMAN Joe                La Libert‚ ‚ternelle [La Guerre ‚ternelle - 3] ş1999 Forever Free şTrad. VIDONNE Fran‡ois
+: .o .     N     _HALDEMAN Joe                Une guerre … part [La Guerre ‚ternelle] ş1999 A Separate War şTrad. ?
+: .o .     N     _HALDEMAN Joe                Li‚s … jamais [La Guerre ‚ternelle] ş2010 Forever Bound şTrad. ?
+o MNE_ICA     ?  2021.09 ..... ISBN 978-2-35408-925-2
+} noimg          _?                           ?
+!--- GF - GF - 304 pages
+- .oS.     R     _VONARBURG Elisabeth         Le Silence de la cit‚ ş1981-1988
+o MNE_ICA     ?  2021.10 ..... ISBN 978-2-35408-838-5
+} noimg          _?                           ?
+!--- GF - GF - 256 pages
+- .oS.     R     _STEWARD Ketty               L'vangile selon Myriam ş2021
+o MNEMOS      ?  2021.10 ..... ISBN 978-2-35408-926-9
+} mnemosint051   _?                           ?
+!--- GF - 160x240 - 688 pages
+- .oS.    kR3    _HELIOT Johan                La Trilogie du Soleil [Grand siŠcle - 1/3] ş2021
+: .oS.     R     _HELIOT Johan                L'Acad‚mie de l'‚ther [Grand siŠcle - 1] ş2017
+: .oS.     R     _HELIOT Johan                L'Envol du Soleil [Grand siŠcle - 2] ş2018
+: .oS.     R     _HELIOT Johan                La Conquˆte de la sphŠre [Grand siŠcle - 3] ş2019
+o MNEMOS      ?  2021.10 ..... ISBN 978-2-35408-786-9
+} mnemosantho2021_2 _?                           ?
+!--- GF - GF - 288 pages
+- .oI.    kA14   *NICOT St‚phanie             FrontiŠre&#91;s&#93; ş2021
+: .oY.     N     _FAYE Estelle                La Main … quatre doigts ş2021
+: .oF.     N     _BOUSQUET Charlotte          La Danse de Salia ş2021
+: .oS.     N     _DUNYACH Jean-Claude         La Ville, ce soir-l… ş2021
+: .oY.     N     _BEORN Paul                  Le Dernier Royaume ş2021
+: .oY.     N     _LATIL-NICOLAS Thibaud       L'Ethique du guerrier ş2021
+: .oY.     N     _TANNER Rachel               Exodus ş2021
+: .oS.     N     _MORAN Patrick               Ulaanbaator ş2021
+: .oS.     N     _HOLZL Ariel                 Cieux d'artifice ş2021
+: .oS.     N     _HELIOT Johan                Comme un long hurlement d'acier aux frontiŠres du r‚el ş2021
+: .oS.     N     _SOULAS Floriane             Les Enfants prodigues ş2021
+: .oS.     N     _HENRY Lo‹c                  Les FrontiŠres de pluie ş2021
+: .oF.     N     _STEWARD Ketty               Serrez … droite ş2021
+: .oS.     N     _MILLER Sylvie               P‚pin et les tracas d'un roi ş2021
+: .oS.     N     _BARDAS Rapha‰l              Coureur des bˆtes ş2021
+o MNEMOS      ?  2021.11 ..... ISBN 978-2-35408-928-3
+} mnemosint052   _?                           ?
+!--- GF - 160x240 - 744 pages
+- .oY.     RN3   _VANCE Jack                  La Terre mourante - Int‚grale [La Terre mourante] ş2021
+: .oY.     C6    _VANCE Jack                  Un monde magique [La Terre mourante] ş1950 The Dying Earth şTrad. WATKINS France-Marie + GUILLOT S‚bastien
+= .oY.     N     _VANCE Jack                  Turjan de Miir [La Terre mourante] ş1950 Trujan of Miir
+= .oY.     N     _VANCE Jack                  Mazirian le magicien [La Terre mourante] ş1950 Mazirian the Magician
+= .oY.     N     _VANCE Jack                  T'sa‹s [La Terre mourante] ş1950 T'sais
+= .oY.     N     _VANCE Jack                  Liane le voyageur [La Terre mourante] ş1950 Liane the Wayfarer
+= .oY.     N     _VANCE Jack                  Ulan Dhor [La Terre mourante] ş1950 Ulan Dhor Ends a Dream
+= .oY.     r     _VANCE Jack                  Guyal de Sfere [La Terre mourante] ş1950 Guyal of Sfere
+: .oY.     C5    _VANCE Jack                  Cugel l'astucieux [Cugel][La Terre mourante] ş1966 The Eyes of the Overworld şTrad. ALPERINE Paul + GUILLOT S‚bastien
+= .o .     N     _VANCE Jack                  Le Monde sup‚rieur [Cugel][La Terre mourante] ş1965 The Overworld
+!--- Le suivant est visible ? Pas dans J'ai lu 707 !
+= .o .     N     _VANCE Jack                  Cil [Cugel][La Terre mourante] ş1966 Cil
+= .o .     N     _VANCE Jack                  Les Montagnes de Magnatz [Cugel][La Terre mourante] ş1966 The Mountains of Magnatz
+= .o .     N     _VANCE Jack                  Pharesme le sorcier [Cugel][La Terre mourante] ş1966 The Sorcerer Pharesm
+= .o .     N     _VANCE Jack                  Les PŠlerins [Cugel][La Terre mourante] ş1966 The Pilgrims
+= .o .     N     _VANCE Jack                  La Caverne dans la forˆt [Cugel][La Terre mourante] ş1966 The Caves in the Forest
+= .o .     N     _VANCE Jack                  Le Castel d'Iucounu [Cugel][La Terre mourante] ş1966 The Manse of Iucounu
+: .oY.     U13   _VANCE Jack                  Cugel saga [Cugel][La Terre mourante] ş1983 Cugel's Saga şTrad. LEBAILLY Monique
+= .C .     C     _VANCE Jack                  De Shanglestone … Saskervoy ş1983 From Shanglestone Strand to Saskervoy
+= .o .     u     _VANCE Jack                  Flutic ş1983 Flutic
+= .o .     u     _VANCE Jack                  A l'Auberge des Lampes Bleues ş1983 The Inn of the Blue Lamps
+= .C .     C     _VANCE Jack                  De Saskervoy … Tustvold ş1983 From Saskervoy to the Tustvold Mud-flats
+= .o .     u     _VANCE Jack                  A bord de a Galante ş1983 Aboard the Galante
+= .o .     u     _VANCE Jack                  Lausicaa ş1983 Lausicaa
+= .o .     u     _VANCE Jack                  L'Oc‚an des soupirs ş1983 The Ocean of Sighs
+= .C .     C     _VANCE Jack                  De Tustvold … Port Perdusz ş1983 From Tustvold to Port Perdusz
+= .o .     u     _VANCE Jack                  Les Colonnes ş1983 The Columns
+= .o .     u     _VANCE Jack                  Faucelme ş1983 Faucelme
+= .C .     C     _VANCE Jack                  De Port Perdusz … Kaspara Vitatus ş1983 From Port Perdusz to Kaspara Vitatus
+= .o .     u     _VANCE Jack                  Sur les quais ş1983 On the Docks
+= .o .     u     _VANCE Jack                  La Caravane ş1983 The Caravan
+= .C .     C     _VANCE Jack                  De Kaspara Vitatus to Cuirnif [La Terre mourante] ş1983 From Kaspara Vitatus to Cuirnif
+= .o .     N     _VANCE Jack                  Les Dix-Sept Vierges [La Terre mourante] ş1974 The Seventeen Virgins
+= .o .     N     _VANCE Jack                  Le Sac de rˆves [La Terre mourante] ş1977 The Bagful of Dreams
+= .C .     C     _VANCE Jack                  De Cuirnif … Pergolo ş1983 From Cuirnif to Pergolo
+= .o .     u     _VANCE Jack                  Les Quatre Magiciens ş1983 The Four Wizards
+= .o .     u     _VANCE Jack                  Pergolo ş1983 Spatterlight
+: .oY.    cC3    _VANCE Jack                  Rhialto le merveilleux [La Terre mourante] ş1984 Rhialto the Marvellous şTrad. DARROUX Michel & EMERICH Bernadette
+= .o .     N     _VANCE Jack                  La Murthe [La Terre mourante] ş1984 The Murthe
+= .o .     N     _VANCE Jack                  Fanhure [La Terre mourante] ş1984 Fader's Waft
+= .o .     N     _VANCE Jack                  Morreion [La Terre mourante] ş1973-1984 Morreion
+!------------------------
+!=== 2022
+!------------------------
+o MNEMOS      ?  2022.01 ..... ISBN 978-2-35408-938-2
+} mnemosi012022_1 _Zdzislaw Beksinski          Leoncio Harmr
+!--- 160 x 240 - 288 pages - 22 euros
+- .oF.    _N17   _LOVECRAFT Howard P.         Les Contr‚es du rˆve ş2021
+: .o .     p     _CAMUS David                 Introduction g‚n‚rale - Ceci n'est pas un livre ş2021
+: .o .     a     _CAMUS David                 Note du traducteur ş2021
+: .o .     p     _CAMUS David                 Pr‚face - Traducteur de Lovecraft ş2021
+: .o .     a     _CAMUS David                 Addendum … la pr‚face de la premiŠre ‚dition des Contr‚es du rˆve ş2021
+: .o .     N     _LOVECRAFT Howard P.         La Quˆte d'Iranon ş1921 The Quest of Iranon şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Polaris ş1920 Polaris şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Mal‚diction qui s'abattit sur Sarnath ş1920 The Doom That Came to Sarnath şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Hypnos ş1923 Hypnos şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'‚trange maison haute dans la brume ş1931 The Strange High House in the Mist şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Bateau blanc ş1919 The White Ship şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Celepha‹s ş1922 Celephais şTrad. CAMUS David
+: .o .     P     _LOVECRAFT Howard P.         Ex Oblivione ş1921 Ex Oblivione şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Ce qu'apporte la Lune ş1923 What the Moon Brings şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Livre ş1938 The Book şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ş1920 The Cats of Ulthar şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Les Autres Dieux ş1921 The Other Gods şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le T‚moignage de Randolph Carter [Randolph Carter] ş1920 The Statement of Randolph Carter şTrad. CAMUS David
+: .o .     r     _LOVECRAFT Howard P.         La Quˆte onirique de Kadath l'inconnue [Randolph Carter] ş[1927],1943 The Dream Quest of Unknown Kadath şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Cl‚ d'argent [Randolph Carter] ş1929 The Silver Key şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         A travers les portes de la cl‚ d'argent [Randolph Carter] ş1934 Through the Gates of the Silver Key şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Azathoth ş1922 Azathoth
+o MNEMOS      ?  2022.01 ..... ISBN 978-2-35408-937-5
+} mnemosi012022  _Scott Uminga                ?
+!--- 160 x 240 - 320 pages - 21 euros
+- .o .     R     _GRANIER DE CASSAGNAC R.     Resilient Thinking ş2022
+o MNEMOS      ?  2022.02 ..... ISBN 978-2-35408-941-2
+} mnemosi244     _Abel Klaer                  ?
+!--- 150 x 210 - 304 pages - 20 euros
+- .oY.     R     _GUILLEMAIN Christophe       L'Enterrement des ‚toiles ş2022
+o MNEMOS      ?  2022.02 ..... ISBN 978-2-35408-942-9
+} mnemosint53    _A.O.R.                      ?
+!--- GF - 160x240 - 1296 pages - 45 euros
+- .oS.    iRx    _STROUGATSKI Arcady         &Le Cycle du midi [L'Univers du Midi] ş2022
+&                _STROUGATSKI Boris          &
+&                *LAJOYE Viktoriya           &
+&                *LAJOYE Patrice              
+: .o .     R     _STROUGATSKI Arcady         &Midi, XXIIe siŠcle [L'Univers du Midi] ş? ? şTrad. ?
+&                _STROUGATSKI Boris           
+: .o .     R     _STROUGATSKI Arcady         &Tentative de fuite [L'Univers du Midi] ş1962 Popytka k begstvou şTrad. CABARET Andr‚
+&                _STROUGATSKI Boris           
+: .o .     R     _STROUGATSKI Arcady         &L'Arc-En-ciel lointain ş1963 Dalioka‹a Radouga şTrad. DELMOTTE Svetlana
+&                _STROUGATSKI Boris           
+: .oS.     R     _STROUGATSKI Arcady         &Il est difficile d'ˆtre un dieu [L'Univers du Midi] ş1964 Troudno byt' bogom şTrad. DU CREST Bernadette
+&                _STROUGATSKI Boris           
+: .oS.     R     _STROUGATSKI Arcady         &Le Petit ş1971 Maltchik şTrad. DELMOTTE Svetlana
+&                _STROUGATSKI Boris           
+: .o .     R     _STROUGATSKI Arcady         &L'Inqui‚tude [L'Univers du Midi] ş[1966],1990 Bespoko‹stvo şTrad. LAJOYE Viktoriya
+&                _STROUGATSKI Boris           
+: .oS.     R     _STROUGATSKI Arcady         &Un gars de l'enfer [L'Univers du Midi] ş1974 Paren' iz pre‹spodnei şTrad. DU CREST Bernadette
+&                _STROUGATSKI Boris           
+: .oS.     R     _STROUGATSKI Arcady         &L'Œle habit‚e [La Trilogie des p‚lerins - 1][L'Univers du Midi] ş1969-1971 Obita‹emy ostrov şTrad. LAHANA Jaqueline + LAJOYE Victoriya
+&                _STROUGATSKI Boris           
+: .o .     R     _STROUGATSKI Arcady         &Le Scarab‚e dans la fourmiliŠre [La Trilogie des p‚lerins - 2][L'Univers du Midi] ş1980 Jouk v mourave‹nike
+&                _STROUGATSKI Boris           
+: .oS.     R     _STROUGATSKI Arcady         &Les vagues ‚teignent le vent [La Trilogie des p‚lerins - 3][L'Univers du Midi] ş1985 Volny gassiat veter şTrad. DELMOTTE Svetlana
+&                _STROUGATSKI Boris           
+! .o .     N     _STROUGATSKI Arcady         &Une gigantesque fluctuation [Le Monde d'Ivan Jiline] ş1962 Rasskaz o guigantsko‹ fliouktouatsiel şTrad. DU CREST Bernadette
+!                _STROUGATSKI Boris           
+! .o .     N     _STROUGATSKI Arcady         &D'ailleurs ş1963 Izvne şTrad. CAPPON Alain
+!                _STROUGATSKI Boris           
+! .o .     N     _STROUGATSKI Arcady         &La Marque de l'ailleurs ş1963 O stranstvou‹ouchtchikh i poutechestvou‹ouchtchikh şTrad. CABARET Andr‚
+!                _STROUGATSKI Boris           
+o MNEMOS      ?  2022.03 ..... ISBN 978-2-35408-945-0
+} mnemosi245     _Zdzislaw Beksinski          ?
+!--- 160 x 240 - 304 pages - 22 euros
+- .oF.    _N8    _LOVECRAFT Howard P.         Les Montagnes hallucin‚es et autres r‚cits d'exploration ş2021
+: .o .     a     _CAMUS David                 Note du traducteur ş2021
+: .o .     p     _CAMUS David                 Pr‚face - L'invitation au voyage ş2021
+: .o .     a     _CAMUS David                 Addendum … la pr‚face de la premiŠre ‚dition des Montagnes hallucin‚es et autres r‚cits d'exploration ş2021
+: .o .     N     _LOVECRAFT Howard P.         Dagon ş1919 Dagon şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Souvenir ş1919 Memory şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Temple ş1925 The Temple şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Cit‚ sans nom ş1921 The Nameless City şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Prisonnier des pharaons ş1924 Under the Pyramids şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu ş1928 The Call of Cthulhu şTrad. CAMUS David
+: .o .     r     _LOVECRAFT Howard P.         Les Montagnes hallucin‚es [Arthur Gordon Pym] ş1936 At the Mountains of Madness şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Dans l'abŒme du temps ş1935 The Shadow Out of Time şTrad. CAMUS David
+o MNEMOS      ?  2022.03 ..... ISBN 978-2-35408-951-1
+} mnemosi246     _?                           ?
+!--- 150 x 210 - 420 pages - 22,50 euros
+- .oF.     R     _CLAVEL Fabien               La Nir‚ide ş2022
+o MNE_ICA     ?  2022.04 ..... ISBN 978-2-35408-954-2
+} noimg          _Daniel Balage               ?
+!--- 150 x 210 - 256 pages - 18 euros
+- .oY.     R     _GABORIT Mathieu             Flamboyance [La Cit‚ exsangue - 2][Les Royaumes cr‚pusculaires] ş2022
+o MNEMOS      ?  2022.04 ..... ISBN 978-2-35408-955-9
+} mnemosint54    _?                           ?
+!--- GF - 160x240 - 512 pages - 35 euros
+!--- nouvelles, po‚sies, pr‚face et postface
+- .oS.    iRN13  _LE GUIN Ursula K.           L'Int‚grale Orsinia ş2016 The Complete Orsinia: Malafrena / Stories and Songs şTrad. REINHAREZ Isabelle + BETAN Julien
+: .oS.     R     _LE GUIN Ursula K.           Malafrena [L'Orsinie] ş1979 Malafrena Tales şTrad. LAROCHE Martine
+!--- 4 poŠmes / chansons :
+!--- Folk Song from the Montayna Province (1959)
+!--- Red Berries (Montayna Province)
+!--- The Walls of Rakava (Polana Province)
+!--- The Walls of R kava 
+: .oS.    _N11   _LE GUIN Ursula K.           Chroniques orsiniennes [L'Orsinie] ş1976 Orsinians Tales şTrad. DE LOS SANTOS Andr‚
+= .oS.     N     _LE GUIN Ursula K.           Les Fontaines [L'Orsinie] ş1976 The Fountains
+= .oS.     N     _LE GUIN Ursula K.           Le Galgal [L'Orsinie] ş1976 The Barrow
+= .oS.     N     _LE GUIN Ursula K.           La Forˆt d'Ile [L'Orsinie] ş1976 Ile Forest
+= .oS.     N     _LE GUIN Ursula K.           Conversations dans la nuit [L'Orsinie] ş1976 Conversations at Night
+= .oS.     N     _LE GUIN Ursula K.           La Route vers l'est [L'Orsinie] ş1976 The Road East
+= .oS.     N     _LE GUIN Ursula K.           FrŠres et soeurs [L'Orsinie] ş1976 Brothers and Sisters
+= .oS.     N     _LE GUIN Ursula K.           Une semaine … la campagne [L'Orsinie] ş1976 A Week in the Country
+= .oS.     N     _LE GUIN Ursula K.           An die musik [L'Orsinie] ş1961 An Die Musik
+= .oS.     N     _LE GUIN Ursula K.           La Maison [L'Orsinie] ş1976 The House
+= .oS.     N     _LE GUIN Ursula K.           La Dame de Moge [L'Orsinie] ş1976 The Lady of Moge
+= .oS.     N     _LE GUIN Ursula K.           Pays imaginaires [L'Orsinie] ş1973 Imaginary Countries
+: .o .     N     _LE GUIN Ursula K.           Deux retards sur la ligne du nord [L'Orsinie] ş1979 Two Delays on the Northern Line
+: .o .     N     _LE GUIN Ursula K.           La Clef des airs [L'Orsinie] ş1990 Unlocking the Air şTrad. DESCOMBEY Anne-Judith
+o MNEMOS      ?  2022.05 ..... ISBN 978-2-35408-969-6
+} mnemosi248     _?                           ?
+!--- 150 x 210 - 21 euros
+- .oY.     R     _TOMAS Adrien                L'Empire des abysses [Vaisseau d'arcane - 1] ş2022
+o MNEMOS      ?  2022.05 ..... ISBN 978-2-35408-945-0
+} mnemosi249     _Zdzislaw Beksinski          ?
+!--- 160x240 - 160 pages - 19 euros
+- .oF.     R     _LOVECRAFT Howard P.         L'Affaire Charles Dexter Ward ş1927 The Case of Charles Dexter Ward şTrad. CAMUS David
+o MNE_STE     ?  2022.06 ..... ISBN 978-2-35408-972-6
+} mnemosst062022_1 _James Abels                ?
+!--- 140 x 210 - 288 pages - 22 euros
+!--- Pr‚face d'Olivier B‚renval, interview in‚dite de l'autrice
+- .oS.     R     _McINTYRE Vonda N.           Superluminal ş1983 Superluminal şTrad. LEMOINE Daniel
+o MNEMOS      ?  2022.06 ..... ISBN 978-2-35408-976-4
+} mnemosantho2022_1 _Fanuel Leul                 ?
+!--- GF - 160x240 - 304 pages - 19 euros
+- .oY.     A19   *NICOT St‚phanie             Afrofuturisme - L'avenir change de visage - Anthologie des Imaginales 2022 ş2022
+: .o .     p     _LAWSON Val‚rie              Avant-propos ş2022
+: .o .     p     _NICOT St‚phanie             Pr‚face ş2022
+: .o .     N     _SOLOMON Rivers              Soif de sang ş2019 Blood Is Another Word for Hunger şTrad. GUEVREMONT Francis
+: .o .     N     _DOKE Sara                   L‚opard cha-cha ş2022
+: .o .     N     _SAMATAR Sofia               Demande de prolongation du contrat de travail … bord du Clarity ş2015 Request for an Extension on the Clarity şTrad. DECHESNE Patrick
+: .o .     N     _CANAL Richard               Miss Washington ş2022
+: .o .     N     _GRANIER DE CASSAGNAC R.     Itin‚raire d'une migrante martienne ş2022
+: .o .     N     _AGBODAN-AOLIO Yann-C‚dric   Le Nombril-Du-Monde ş2022
+: .o .     N     _BOUSQUET Charlotte          L'amour est source de vie ş2022
+: .o .     N     _EVANS Alex                  La Tˆte d'Olokun ş2022
+: .o .     N     _ROCH Michael                La Paraphrase du masque ş2022
+: .o .     N     _SAEBA Sylvia                Les Ciseaux de Sang ş2022
+: .o .     N     _SOULAS Floriane             Souvenir organique ş2022
+: .o .     N     _DAVOUST Lionel              Dans les matongo de coton et de polymŠre ş2022
+: .o .     N     _NSAFOU Laura                De l'autre c“t‚ de la nuit ş2022
+: .o .     N     _STEWARD Ketty               Blanche-Neige et le triangle quelconque ş2022
+: .o .     N     _BRY David                   Plus que la Terre encore ş2022
+: .o .     N     _QUERBALEC Emilie            Venus Requiem ş2022
+: .o .     N     _GROS-DUBOIS Christophe      Nine Inch Man ş2022
+: .o .     N     _GUITTEAUD Corinne           La Reine ‚gar‚e ş2022
+: .o .     N     _CHONVILLE Nadia             Twati an v‚-a ş2022
+o MNE_ICA     ?  2022.07 ..... ISBN 978-2-35408-974-0
+} noimg          _Diego Tripodi               ?
+!--- GF - 153 x 210 mm -320 pages - 20 euros
+- .oF.     R     _GECHTER Olivier             Requiem en catastrophe majeure [Evariste Cosson] ş2022
+o MNEMOS      ?  2022.08 ..... ISBN 978-2-35408-987-0
+} mnemosint55     _?                           ?
+!--- GF - 160x240 - 512 pages - 35 euros
+- .oS.     RN5   _STERLING Bruce              La Schismatrice + - Edition int‚grale ş1996 Schismatrix Plus
+: .o .     R     _STERLING Bruce              La Schismatrice ş1985 Schismatrix şTrad. BONNEFOY Jean & DESMOND William
+: .o .     N     _STERLING Bruce              L'Essaim ş1982 Swarm şTrad. BONNEFOY Jean
+: .o .     N     _STERLING Bruce              Rose l'Aragne ş1982 Spider Rose şTrad. BONNEFOY Jean
+: .o .     N     _STERLING Bruce              La Reine des cigales ş1983 Cicada Queen şTrad. BONNEFOY Jean
+: .o .     N     _STERLING Bruce              Jardins engloutis ş1984 Sunken Gardens şTrad. BONNEFOY Jean
+: .o .     N     _STERLING Bruce              Vingt ‚vocations ş1984 Life in the Mechanist/Shaper Era: 20 Evocation şTrad. BONNEFOY Jean
+o MNEMOS      ?  2022.08 ..... ISBN 978-2-35408-986-3
+} noimg          _?                           ?
+!--- GF - 155x235 - 320 pages - 21 euros
+- .oY.     R     _GRIMBERT Pierre             Le Sang des Parangons ş2022
+o MNEMOS      ?  2022.09 ..... ISBN 978-2-35408-988-7
+} noimg          _Lazare Gvimradze            ?
+!--- GF - 150x210 - 320 pages - 20 euros
+- .oS.     R     _MORAN Patrick               Metalya entre les mondes ş2022
+o MNEMOS      ?  2022.09 ..... ISBN 978-2-35408-996-2
+} mnemosi253     _Zdzislaw Beksinski          ?
+!--- GF - 160x240 - 468 pages
+- .oF.    _N16   _LOVECRAFT Howard P.         Le Cycle de Providence ş2021
+: .o .     a     _CAMUS David                 Note du traducteur ş2021
+: .o .     p     _CAMUS David                 Le Pays de Lovecraft ş2021
+: .o .     N     _LOVECRAFT Howard P.         La Rue ş1920 The Street şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Terrible Vieillard ş1921 The Terrible Old Man şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         De l'au-del… ş1934 From Beyond şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'Image dans la maison ş1920 The Picture in the House şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Herbert West, r‚animateur ş1922 Herbert West: Reanimator şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'Innomable [Randolph Carter] ş1925 The Unnamable şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Festival ş1923 The Festival şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Maison abandonn‚e ş1928 The Shunned House şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le ModŠle de Pickman ş1927 Pickman's Model şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Couleur tomb‚e du ciel ş1927 The Colour Out of Space şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'Abomination de Dunwich ş1929 The Dunwich Horror şTrad. CAMUS David
+: .o .     r     _LOVECRAFT Howard P.         Celui qui chuchotait dans les t‚nŠbres ş1931 The Whisperer in Darkness şTrad. CAMUS David
+: .o .     r     _LOVECRAFT Howard P.         Le Cauchemar d'Innsmouth ş1936 The Shadow Over Innsmouth şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Maison de la sorciŠre ş1933 The Dreams in the Witch House şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Monstre sur le seuil ş1937 The Thing on the Doorstep şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Celui qui hantait les t‚nŠbres ş1936 The Haunter of the Dark şTrad. CAMUS David
+o MNEMOS      ?  2022.10 ..... ISBN 978-2-35408-992-4
+} noimg          _Emile Denis                 ?
+!--- GF - 160x240 - 320 pages - 23 euros
+!--- Cartonn‚ reliure tissu
+- .oF.     R     _BARROW Wayne                Bloodsilver ş2006
+o MNEMOS      ?  2022.11 ..... ISBN 978-2-35408-948-1
+} mnemosi112022_1 _Zdzislaw Beksinski          ?
+!--- GF - 160x240 - 320 pages - 24 euros
+- .oF.    _N30   _LOVECRAFT Howard P.         R‚cits Horrifiques - Contes de Jeunesse - R‚cits Humoristiques ş2021
+: .o .     a     _CAMUS David                 Note du traducteur ş2021
+: .o .     p     _CAMUS David                 De l'enfance … l'horreur ş2021
+: .C .     C     _LOVECRAFT Howard P.         Contes de Jeunesse
+: .o .     N     _LOVECRAFT Howard P.         La Petite Bouteille de verre ş1959 The Little Glass Bottle şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Caverne secrŠte ou l'aventure de John Lee ş1959 The Secret Cave, or John Lees Adventure şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le MystŠre du cimetiŠre ou la revanche d'un mort ş1959 The Mystery of the Grave-Yard, or "A Dead Man's Revenge": A Detective Story şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Vaisseau myst‚rieux ş1959 The Mysterious Ship şTrad. CAMUS David
+: .C .     C     _LOVECRAFT Howard P.         R‚cits Humoristiques
+: .o .     N     _LOVECRAFT Howard P.         Quelques souvenirs sur le Docteur Samuel Johnson ş1917 A Reminiscence of Dr. Samuel Johnson şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Old bugs ş[1919],1959 Old Bugs şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Douce Ermengarde, ou le coeur d'une fille de la campagne ş[1920],1943 Sweet Ermengarde şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Ibid ş[1928],1938 Ibid şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Combat qui marqua la fin du siŠcle ş1934 The Battle That Ended the Century şTrad. CAMUS David
+: .C .     C     _LOVECRAFT Howard P.         R‚cits Horrifiques
+: .o .     N     _LOVECRAFT Howard P.         La Bˆte de la caverne ş1918 The Beast in the Cave şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'Alchimiste ş1916 The Alchemist şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Tombe ş[1917],1922 The Tomb şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Par-del… le mur du sommeil ş1919 Beyond the Wall of Sleep şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Transition de Juan Romero ş1944 The Transition of Juan Romero şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'Arbre ş1920 The Tree şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Faits concernant feu Arthur Jermyn ş1921 The White Ape / Arthur Jermyn / Facts Concerning the Late Arthur Jermyn and His Family şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Nyarlathotep ş1920 Nyarlathotep şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Marais de la Lune ş1926 The Moon-Bog şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Je suis d'ailleurs ş1926 The Outsider şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Musique d'Erich Zann ş1922 The Music of Erich Zann şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Molosse ş1924 The Hound şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Peur qui r“de ş1923 The Lurking Fear şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Les Rats dans les murs ş1924 The Rats in the Walls şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Horreur … Red Hook ş1927 The Horror at Red Hook şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Lui ş1926 He şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Dans le caveau ş1925 In the Vault şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Air froid ş1928 Cool Air şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Peuple trŠs ancien ş[1927],1940 The Very Old Folk şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Descendant ş1938 The Descendant şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Prˆtre maudit ş[1933],1939 The Evil Clergyman şTrad. CAMUS David
+
+
+
+
+
+!------------------------
+!=== Int‚grale prestige Lovecraft
+!------------------------
+o MNE_ULP     ?  2021.xx ..... ISBN 978-2-35408-993-1
+} mnemoslovprest1 _Zdzislaw Beksinski          Leoncio Harmr
+- .oF.    _N17   _LOVECRAFT Howard P.         Les Contr‚es du rˆve ş2021
+: .o .     p     _CAMUS David                 Introduction g‚n‚rale - Ceci n'est pas un livre ş2021
+: .o .     a     _CAMUS David                 Note du traducteur ş2021
+: .o .     p     _CAMUS David                 Traducteur de Lovecraft ş2021
+: .o .     a     _CAMUS David                 Addendum … la pr‚face de la premiŠre ‚dition des Contr‚es du rˆve ş2021
+: .o .     N     _LOVECRAFT Howard P.         La Quˆte d'Iranon ş1921 The Quest of Iranon şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Polaris ş1920 Polaris şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Mal‚diction qui s'abattit sur Sarnath ş1920 The Doom That Came to Sarnath şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Hypnos ş1923 Hypnos şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'‚trange maison haute dans la brume ş1931 The Strange High House in the Mist şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Bateau blanc ş1919 The White Ship şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Celepha‹s ş1922 Celephais şCAMUS David
+: .o .     P     _LOVECRAFT Howard P.         Ex Oblivione ş1921 Ex Oblivione şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Ce qu'apporte la Lune ş1923 What the Moon Brings şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Livre ş1938 The Book şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Les Chats d'Ulthar ş1920 The Cats of Ulthar şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Les Autres Dieux ş1921 The Other Gods şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le T‚moignage de Randolph Carter [Randolph Carter] ş1920 The Statement of Randolph Carter şCAMUS David
+: .o .     r     _LOVECRAFT Howard P.         La Quˆte onirique de Kadath l'inconnue [Randolph Carter] ş[1927],1943 The Dream Quest of Unknown Kadath şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Cl‚ d'argent [Randolph Carter] ş1929 The Silver Key şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         A travers les portes de la cl‚ d'argent [Randolph Carter] ş1934 Through the Gates of the Silver Key şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Azathoth ş1922 Azathoth şCAMUS David
+o MNE_ULP     ?  2021.xx ..... ISBN 978-2-35408-994-8
+} mnemoslovprest2 _Zdzislaw Beksinski          Vincent Lebocey
+- .oF.    _N8    _LOVECRAFT Howard P.         Les Montagnes hallucin‚es et autres r‚cits d'exploration ş2021
+: .o .     a     _CAMUS David                 Note du traducteur ş2021
+: .o .     p     _CAMUS David                 L'invitation au voyage ş2021
+: .o .     a     _CAMUS David                 Addendum … la pr‚face de la premiŠre ‚dition des Montagnes hallucin‚es et autres r‚cits d'exploration ş2021
+: .o .     N     _LOVECRAFT Howard P.         Dagon ş1919 Dagon şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Souvenir ş1919 Memory şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Temple ş1925 The Temple şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Cit‚ sans nom ş1921 The Nameless City şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Prisonnier des pharaons ş1924 Under the Pyramids şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'Appel de Cthulhu ş1928 The Call of Cthulhu şCAMUS David
+: .o .     r     _LOVECRAFT Howard P.         Les Montagnes hallucin‚es [Arthur Gordon Pym] ş1936 At the Mountains of Madness şCAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Dans l'abŒme du temps ş1935 The Shadow Out of Time şCAMUS David
+o MNE_ULP     ?  2021.xx ..... ISBN 978-2-35408-995-5
+} mnemoslovprest3 _Zdzislaw Beksinski          Hubert Griffe
+- .oF.     R     _LOVECRAFT Howard P.         L'Affaire Charles Dexter Ward ş1927 The Case of Charles Dexter Ward şTrad. CAMUS David
+o MNE_ULP     ?  2021.xx ..... ISBN 978-2-35408-996-2
+} mnemoslovprest4 _Zdzislaw Beksinski          Santiago Caruso
+- .oF.    _N16   _LOVECRAFT Howard P.         Le Cycle de Providence ş2021
+: .o .     a     _CAMUS David                 Note du traducteur ş2021
+: .o .     p     _CAMUS David                 Le Pays de Lovecraft ş2021
+: .o .     N     _LOVECRAFT Howard P.         La Rue ş1920 The Street şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Terrible Vieillard ş1921 The Terrible Old Man şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         De l'au-del… ş1934 From Beyond şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'Image dans la maison ş1920 The Picture in the House şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Herbert West, r‚animateur ş1922 Herbert West: Reanimator şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'Innomable [Randolph Carter] ş1925 The Unnamable şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Festival ş1923 The Festival şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Maison abandonn‚e ş1928 The Shunned House şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le ModŠle de Pickman ş1927 Pickman's Model şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Couleur tomb‚e du ciel ş1927 The Colour Out of Space şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'Abomination de Dunwich ş1929 The Dunwich Horror şTrad. CAMUS David
+: .o .     r     _LOVECRAFT Howard P.         Celui qui chuchotait dans les t‚nŠbres ş1931 The Whisperer in Darkness şTrad. CAMUS David
+: .o .     r     _LOVECRAFT Howard P.         Le Cauchemar d'Innsmouth ş1936 The Shadow Over Innsmouth şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Maison de la sorciŠre ş1933 The Dreams in the Witch House şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Monstre sur le seuil ş1937 The Thing on the Doorstep şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Celui qui hantait les t‚nŠbres ş1936 The Haunter of the Dark şTrad. CAMUS David
+o MNE_ULP     ?  2021.xx ..... ISBN 978-2-35408-997-9
+} mnemoslovprest5 _Zdzislaw Beksinski          Samuel Araya, Nicolas Fructus
+- .oF.    _N30   _LOVECRAFT Howard P.         R‚cits Horrifiques - Contes de Jeunesse - R‚cits Humoristiques ş2021
+: .o .     a     _CAMUS David                 Note du traducteur ş2021
+: .o .     p     _CAMUS David                 De l'enfance … l'horreur ş2021
+: .C .     C     _LOVECRAFT Howard P.         Contes de Jeunesse
+: .o .     N     _LOVECRAFT Howard P.         La Petite Bouteille de verre ş1959 The Little Glass Bottle şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Caverne secrŠte ou l'aventure de John Lee ş1959 The Secret Cave, or John Lees Adventure şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le MystŠre du cimetiŠre ou la revanche d'un mort ş1959 The Mystery of the Grave-Yard, or "A Dead Man's Revenge": A Detective Story şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Vaisseau myst‚rieux ş1959 The Mysterious Ship şTrad. CAMUS David
+: .C .     C     _LOVECRAFT Howard P.         R‚cits Humoristiques
+: .o .     N     _LOVECRAFT Howard P.         Quelques souvenirs sur le Docteur Samuel Johnson ş1917 A Reminiscence of Dr. Samuel Johnson şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Old bugs ş[1919],1959 Old Bugs şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Douce Ermengarde, ou le coeur d'une fille de la campagne ş[1920],1943 Sweet Ermengarde şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Ibid ş[1928],1938 Ibid şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Combat qui marqua la fin du siŠcle ş1934 The Battle That Ended the Century şTrad. CAMUS David
+: .C .     C     _LOVECRAFT Howard P.         R‚cits Horrifiques
+: .o .     N     _LOVECRAFT Howard P.         La Bˆte de la caverne ş1918 The Beast in the Cave şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'Alchimiste ş1916 The Alchemist şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Tombe ş[1917],1922 The Tomb şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Par-del… le mur du sommeil ş1919 Beyond the Wall of Sleep şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Transition de Juan Romero ş1944 The Transition of Juan Romero şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         L'Arbre ş1920 The Tree şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Faits concernant feu Arthur Jermyn ş1921 The White Ape / Arthur Jermyn / Facts Concerning the Late Arthur Jermyn and His Family şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Nyarlathotep ş1920 Nyarlathotep şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Marais de la Lune ş1926 The Moon-Bog şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Je suis d'ailleurs ş1926 The Outsider şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Musique d'Erich Zann ş1922 The Music of Erich Zann şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Molosse ş1924 The Hound şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         La Peur qui r“de ş1923 The Lurking Fear şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Les Rats dans les murs ş1924 The Rats in the Walls şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Horreur … Red Hook ş1927 The Horror at Red Hook şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Lui ş1926 He şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Dans le caveau ş1925 In the Vault şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Air froid ş1928 Cool Air şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Peuple trŠs ancien ş[1927],1940 The Very Old Folk şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Descendant ş1938 The Descendant şTrad. CAMUS David
+: .o .     N     _LOVECRAFT Howard P.         Le Prˆtre maudit ş[1933],1939 The Evil Clergyman şTrad. CAMUS David
+o MNE_ULP     ?  2021.xx ..... ISBN 978-2-35408-998-6
+} mnemoslovprest6 _Zdzislaw Beksinski          Cindy Can‚vet & Gabrien McCanless
+- .oF.     NPx   _LOVECRAFT Howard P.         Essais - Correspondance - Po‚sie - R‚visions ş2021
+: .C .     C     _LOVECRAFT Howard P.         Partie 1 - pouvante et surnaturel en Litt‚rature & autres textes sur l'horreur en litt‚rature
+: .o .     E     _LOVECRAFT Howard P.         Epouvante et surnaturel en Litt‚rature ş1927-1935 Supernatural Horror in Literature şTrad. CAMUS David
+: .o .     E     _LOVECRAFT Howard P.         Le Livre de raison ş1938 CommonPlace Book şTrad. CAMUS David
+: .o .     a     _LOVECRAFT Howard P.         Notes sur la litt‚rature fantastique ş1938 Notes on Weird Fiction
+: .o .     a     _LOVECRAFT Howard P.         Notes sur l'‚criture d'histoires fantastiques ş1937 Notes on Writing Weird Fiction
+: .o .     N     _LOVECRAFT Howard P.         Histoire du Necronomicon ş1938 History of the Necronomicon şTrad. MOURLON Jean-Paul
+: .o .     l     _LOVECRAFT Howard P.         Addendum a "Histoire du Necronomicon" (extrait d'une lettre … C.A. Smith) ş? ?
+: .o .     a     _LOVECRAFT Howard P.         Autobiographie : quelques notes sur une non-entit‚ ş1943 Autobiography: Some Notes On A Non-entity
+: .o .     a     _LOVECRAFT Howard P.         Journal de 1937 ş1987 Diary 1937
+: .C .     C     _LOVECRAFT Howard P.         Partie 2 - Extraits de correspondances
+: .o .     D     _LOVECRAFT Howard P.         S‚lection de lettres entre H.P. Lovecraft et C.A. Smith
+: .o .     D     _LOVECRAFT Howard P.         S‚lection de lettres de H.P. Lovecraft
+: .C .     C     _LOVECRAFT Howard P.         Partie 3 - Po‚sie 
+: .o .     P     _LOVECRAFT Howard P.         Unda; ou La Fianc‚e de la mer ş1916 Unda; or, The Bride of the Sea
+: .o .     P     _LOVECRAFT Howard P.         N‚m‚sis ş1918 Nemesis
+: .o .     P     _LOVECRAFT Howard P.         Astrophobos ş1918 Astrophobos
+: .oF.     P     _LOVECRAFT Howard P.         L'Idole ş1918 The Eidolon
+: .oF.     P     _LOVECRAFT Howard P.         Oc‚anus [Un cycle de vers] ş1919 Oceanus
+: .oF.     P     _LOVECRAFT Howard P.         Nuages [Un cycle de vers] ş1919 Clouds
+: .oF.     P     _LOVECRAFT Howard P.         Terre-MŠre [Un cycle de vers] ş1919 Mother Earth
+: .oF.     P     _LOVECRAFT Howard P.         D‚sespoir ş1919 Despair
+: .oF.     P     _LOVECRAFT Howard P.         La Maison ş 1920 The House
+: .oF.     P     _LOVECRAFT Howard P.         La Cit‚ ş1919 The City
+: .oF.     P     _LOVECRAFT Howard P.         Le Lac du cauchemar ş1919 The Nightmare Lake
+: .oF.     P     _LOVECRAFT Howard P.         Cloches ş1919 Bells
+: .oF.     P     _LOVECRAFT Howard P.         A un rˆveur ş1921 To a Dreamer
+: .oF.     P     _LOVECRAFT Howard P.         Providence ş1924 Providence
+: .oF.     P     _LOVECRAFT Howard P.         Les Chats ş1990 The Cats
+: .oF.     P     _LOVECRAFT Howard P.         Primavera ş1925 Primavera
+: .oF.     P     _LOVECRAFT Howard P.         Festival (L'Horreur de Yule) ş1926 Festival / Yule Horror
+: .oF.     P     _LOVECRAFT Howard P.         Hallowe'en dans un faubourg ş1926 Hallowe'en in a Suburb
+: .oF.     P     _LOVECRAFT Howard P.         Le Bois ş1929 The Wood
+: .oF.     P     _LOVECRAFT Howard P.         L'Antique Sentier ş1929 The Ancient Track
+: .oF.     P     _LOVECRAFT Howard P.         L'Avant-Poste ş1930 The Outpost
+: .oF.     P     _LOVECRAFT Howard P.         Le Messager ş1938 The Messenger
+: .oF.     P     _LOVECRAFT Howard P.         Les Murs de brique de l'East India ş1930 The East India Brick Row
+: .oF.    iPx    _LOVECRAFT Howard P.         Les Fongus de Yuggoth ş1943-1987 Fungi from Yuggoth
+: .oF.     P     _LOVECRAFT Howard P.         Dans un cimetiŠre condamn‚ de Providence, o— Poe marcha jadis ş1937 In a Sequester'd Providence Churchyard Where Once Poe Walk'd
+: .oF.     P     _LOVECRAFT Howard P.         A M. Finlay, a propos de son illustration de la nouvelle de M. Bloch, "Le dieu sans visage" ş1937 To Mr. Finlay, Upon His Drawing for Mr. Bloch's Tale, "The Faceless God"
+: .oF.     P     _LOVECRAFT Howard P.         A Clark Ashton Smith, au sujet de ses histoires fantastiques, de ses poŠmes, images et sulptures ş1938 To C. A. Smith, Esq., Upon His Fantastic Tales, Verses, Pictures and Sculptures / To Klarkash-Ton, Lord of Averoigne
+: .C .     C     _LOVECRAFT Howard P.         Partie 4
+: .o .     T     _LOVECRAFT Howard P.         Alfredo, une trag‚die ş1966 Alfredo: A Tragedy
+: .C .     C     _LOVECRAFT Howard P.         Partie 5 - Travaux de r‚vision
+: .o .     N     _LOVECRAFT Howard P.        &L'Oc‚an de la nuit ş1936 Night Ocean şTrad. NIKOLAVITCH Alex
+&                _BARLOW Robert H.            
+: .o .     N     _BISHOP Zealia              &La Mal‚diction de Yig ş1929 The Curse of Yig şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _BISHOP Zealia              &Le Tertre ş1940 The Mound şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _BISHOP Zealia              &La Chevelure de M‚duse ş1939 Medusa's Coil şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _CASTRO Adolpho de          &Le Dernier Test ş1928 The Last Test şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _CASTRO Adolpho de          &Le Bourreau ‚lectrique ş1930 The Electric Executioner şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _HEALD Hazel                &L'Homme de pierre ş1932 The Man of Stone şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _HEALD Hazel                &La Mort ail‚e ş1934 Winged Death şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _HEALD Hazel                &L'Horreur dans le mus‚e ş1933 The Horror in the Museum şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _HEALD Hazel                &Surgi du fond des siŠcles ş1935 Out of the Eons şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _HEALD Hazel                &L'Horreur dans le cimetiŠre ş1937 The Horror in the Burying-Ground şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _BERKELEY Elisabeth         &La Verte Prairie ş1927 The Green Meadow şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _BERKELEY Elisabeth         &Le Chaos rampant ş1921 The Crawling Chaos şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+: .o .     N     _LUMLEY William             &Le Journal d'Alonso Typer ş1938 The Diary of Alonzo Typer şTrad. PARSONS Jacques
+&                _LOVECRAFT Howard P.         
+o MNE_ULP     ?  2021.xx ..... ISBN 978-2-35408-999-3
+} mnemoslovprest7 _Zdzislaw Beksinski          ?
+- .oF.    kEx    ****                         Autour de Lovecraft ş2021
+: .C .     C     _LOVECRAFT Howard P.         Partie 1
+: .o .     a     _CAMUS David                 Journal d'une traduction impossible ş2021
+: .o .     a     _CAMUS David                 Cahier photo du journal ş2021
+: .C .     C     _LOVECRAFT Howard P.         Partie 2 - Articles et ‚tudes
+: .o .     E     _JOSHI S.T.                  tude du Tome 1 : Les Contr‚es du Rˆve ş2021 ? şTrad. MALLET Patrick
+: .o .     E     _JOSHI S.T.                  tude du Tome 2 : Les Montagnes Hallucin‚es et autres r‚cits d'exploration ş2021 ? şTrad. MALLET Patrick
+: .o .     E     _JOSHI S.T.                  tude du Tome 4 : Le cycle de Providence ş2021 ? şTrad. MALLET Patrick
+: .o .     E     _JOSHI S.T.                  tude du Tome 5 : R‚cits horrifiques . contes de jeunesse . r‚cits humoristiques ş2021 ? şTrad. MALLET Patrick
+: .o .     E     _JOSHI S.T.                  tude du Tome 6 : Lovecraft en tant qu'essayiste et ‚pistolier ş2021 ? şTrad. MALLET Patrick
+: .o .     E     _THILL Christophe            Lovecraft et ses influences ş2021
+: .o .     E     _LOUINET Patrice             Weird Tales, une genŠse difficile ş2021
+: .o .     E     _THILL Christophe            Lovecraft et la France ş2021
+: .o .     E     _THILL Christophe            Chronologie ş2021
+: .C .     C     _LOVECRAFT Howard P.         Partie 3 - Glossaire et index
+: .o .     E     _THILL Christophe            Glossaire ş2021
+: .o .     E     _THILL Christophe            Index des noms de l'univers lovecraftien ş2021
+: .o .     E     _THILL Christophe            Index des autres noms ş2021
+
+
+
+
 
 
 !-----------------------------------------------------------------------------
@@ -2450,7 +3161,7 @@ o MNE_OUR     ?  2015.09 ..... ISBN 978-2-35408-331-1
 &                _MORGAN Arthur               
 o MNE_OUR     ?  2015.11 ..... ISBN 978-2-35408-321-2
 } mnemoso10      _Nicolas Fructus             ?
-- .oF.    iN4    ****                         Jadis - Carnets et souvenirs picaresques de la ville infinie ş2015
+- .oF.    iNx    ****                         Jadis - Carnets et souvenirs picaresques de la ville infinie ş2015
 ?: .o .     N     _BOUSQUET Charlotte          ? ş2015
 ?: .o .     N     _GABORIT Mathieu             ? ş2015
 ?: .o .     N     _JAULIN R‚gis Antoine        ? ş2015
@@ -2473,10 +3184,16 @@ o MNE_OUR     ?  2019.11 ..... ISBN 978-2-35408-751-7
 - .oY.     R     _TOMAS Adrien                Les Six Royaumes - R‚cit illustr‚ [Les Six Royaumes] ş2019
 
 
-
+!-----------------------------------------------------------------------------
+! MNEM_MU Mn‚mos, Mu
+!-----------------------------------------------------------------------------
+!--- Label
+!--- "Les ditions Mn‚mos accueillent en ce d‚but d'ann‚e 2020 un nouveau label, Mu, n‚ de la rencontre entre Fr‚d‚ric Weil et Davy Athuil,
+!--- et d'une r‚flexion commune centr‚e sur les ruptures du monde contemporain et leurs cons‚quences sur l'humain."
+!-----------------------------------------------------------------------------
 o MNEM_MU     ?  2020.05 ..... ISBN 978-2-35408-775-3
 } noimg          _K‚vin Deneufchatel          ?
-- .oF.     R     _ROCH Michael                Le Livre Jaune ş2019
+- .oF.     R     _ROCH Michael                Le Livre jaune ş2019
 o MNEM_MU     ?  2020.05 ..... ISBN 978-2-35408-808-8
 } noimg          _K‚vin Deneufchatel          ?
 - .oF.     R     _BRAULT Emmanuel             Walter Kurtz ‚tait … pied ş2020
@@ -2486,3 +3203,34 @@ o MNEM_MU     ?  2020.08 ..... ISBN 978-2-35408-782-1
 o MNEM_MU     ?  2020.10 ..... ISBN 978-2-35408-787-6
 } noimg          _K‚vin Deneufchatel          ?
 - .oF.     R     _LEAUTE Pierre               Je n'aime pas les grands ş2020
+o MNEM_MU     ?  2021.01 ..... ISBN 978-2-35408-799-9
+} noimg          _?                           ?
+!--- GF - 140 x 200 - 272 pages
+- .oS.     R     _TIDHAR Lavie                Aucune terre n'est promise ş2018 Unholy Land şTrad. BETAN Julien
+o MNEM_MU     ?  2021.05 ..... ISBN 978-2-35408-845-3 
+} noimg          _K‚vin Deneufchatel          ?
+!--- GF - 140x200 - 192 pages
+- .oS.     r     _EL-MOHTAR Amal             &Les Oiseaux du temps ş2019 This Is How you Lose the Time War şTrad. BETAN Julien
+&                _GLADSTONE Max                
+o MNEM_MU     ?  2022.01 ..... ISBN 978-2-492686-00-9
+} noimg          _Kevin Deneufchatel          ?
+!--- GF - 140x200 - 192 pages - 17 euros
+- .x .     R     _LEAUTE Pierre               Retour … Malataverne ş2021
+o MNEM_MU     ?  2022.03 ..... ISBN 978-2-35408-935-5
+} noimg          _K‚vin Deneufchatel          ?
+!--- 140 x 200 - 176 pages - 17 euros
+- .oS.     R     _CHAVASSIEUX Christian       Je suis le rˆve des autres ş2022
+o MNEM_MU     ?  2022.05 ..... ISBN 978-2-35408-971-9
+} noimg          _Kevin Deneufchatel          ?
+!--- GF - 140 x 200 - 512 pages - 23 euros
+- .oS.     R     _DOLY Anne-Claire            Sous la lune bris‚e ş2022
+o MNEM_MU     ?  2022.09 ..... ISBN 978-2-35408-990-0
+} noimg          _Kevin Deneufchatel          ?
+!--- GF - 140x200 - 304 pages - 20 euros
+- .oF.     R     _DE IZARRA Salomon           Demain, le jour ş2022
+o MNEM_MU     ?  2022.10 ..... ISBN 978-2-38267-020-0
+} noimg          _Kevin Deneufchatel          ?
+!--- GF - 140x200 - 128 pages
+- .oY.     r     _DUCHARME Antoine            L'ƒme du chien ş2022
+
+

@@ -15,11 +15,11 @@
 
 !-----------------------------------------------------------------------------
 _ NESTIVE Nestiveqnen
-_ NESF    Nestiveqnen, Coll. Fractales
-_ NESFS   Nestiveqnen, Coll. Fractales Science-Fiction
-_ NESFY   Nestiveqnen, Coll. Fractales Fantasy
-_ NESFF   Nestiveqnen, Coll. Fractales Fantastique
-_ NEFU    Nestiveqnen, Horizons Futurs
+_ NESF    Nestiveqnen - Fractales
+_ NESFS   Nestiveqnen - Fractales Science-Fiction
+_ NESFY   Nestiveqnen - Fractales Fantasy
+_ NESFF   Nestiveqnen - Fractales Fantastique
+_ NEFU    Nestiveqnen - Horizons Futurs
 !-----------------------------------------------------------------------------
 !--- Fractales fantastique
 !--- Collection dirig‚e par Fabrice Bourland (ancien directeur de Nouvelle Donne)
@@ -29,15 +29,15 @@ _ NEFU    Nestiveqnen, Horizons Futurs
 !--- Diffusion/distribution : CED/Les Belles Lettres
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
-_ NEST_JA Nestiveqnen, Coll. Jour de l'an
+_ NEST_JA Nestiveqnen - Jour de l'an
 !-----------------------------------------------------------------------------
 !--- Collection Jours de l'an
 !--- ISSN 1622-7107
 !-----------------------------------------------------------------------------
 !-----------------------------------------------------------------------------
-_ NEFY    Nestiveqnen, Horizons Fantasy
-_ NEFA    Nestiveqnen, Horizons Fantastique
-_ NEST_FY Nestiveqnen, Fantasy
+_ NEFY    Nestiveqnen - Horizons Fantasy
+_ NEFA    Nestiveqnen - Horizons Fantastique
+_ NEST_FY Nestiveqnen - Fantasy
 !-----------------------------------------------------------------------------
 !--- Collection Horizons fantastiques
 !--- Collection Horizons (1998-...)
@@ -52,6 +52,10 @@ _ NEST_FY Nestiveqnen, Fantasy
 ?} noimg          _?                           ?
 ?- .o .     R     _MARCHIKA Colin              La Reine de Vend“me 2 ş2002
 
+o NESTIVE     ?  2006.xx ..... ISBN -
+} noimg          _?                           ?
+- .oF.     M     ****                         Calendrier Faeries ş2006
+: .oF.     N     _NOIREZ J‚r“me               L'Objet du d‚lit ş2006
 
 !------------------------
 !=== 1998
@@ -89,7 +93,7 @@ o NEFU        4  1999.xx ..... ISBN 2-910899-13-6
 o NEST_JA     ?  1999.xx ..... ISBN 2-910899-16-0
 } nestiv009      _David Sala                  N
 - .oY.     A12   *CAMIS Chrystelle            Jour de l'an 1000 ş1999
-: .o .     N     _SILHOL L‚a                  Mille ans de servitude [Tryptique du Mill‚naire - 1] ş1999
+: .o .     N     _SILHOL L‚a                  Mille ans de servitude [Triptyque du Mill‚naire - 1] ş1999
 : .o .     N     _CAPDEBOSCQ Jean-Baptiste    La Table de poussiŠre ş1999
 : .o .     N     _AYERDHAL                    Jessie, le retour ş1999
 : .o .     N     _GABORIT Mathieu             L'treinte de Babylone ş1999
@@ -122,7 +126,7 @@ o NEST_JA     ?  2000.06 ..... ISBN 2-910899-17-9
 : .o .     N     _MILLEMANN Jean              Les Voeux de Merise ş2000
 : .o .     N     _CALVEZ Jean-Michel          Le Scarab‚e ş2000
 : .o .     N     _HERVET Thomas               Morph‚e ş2000
-: .o .     N     _SILHOL L‚a                  Tous des anges [Tryptique du Mill‚naire - 2] ş2000
+: .o .     N     _SILHOL L‚a                  Tous des anges [Triptyque du Mill‚naire - 2] ş2000
 : .o .     N     _DELSEMME Serge              La Mer recommenc‚e ş2000
 : .o .     N     _M. Danny                    Millenium ş2000
 : .o .     N     _GIRARDOT Jean-Jacques       La Lunette de Galil‚e ş2000
@@ -150,9 +154,9 @@ o NEFU        ?  2000.xx ..... ISBN 2-910899-21-7
 - .oS.     N13   _WAGNER Roland C.            Musique de l'‚nergie ş2000
 !--- TBC : ou collection Fractale, num‚ro (1) ?
 !--- pr‚face par Norman Spinrad (Introduction)
-: .o .     N     _WAGNER Roland C.            Les Trois Lois de la sexualit‚ robotique ş1981
+: .o .     N     _WAGNER Roland C.            Les Trois Lois de la sexualit‚ robotique ş1982
 : .o .     N     _WAGNER Roland C.            Blafarde ta peau, rouge ton regard ş1983
-: .o .     N     _WAGNER Roland C.            Fragment du Livre de la Mer ş1998
+: .o .     N     _WAGNER Roland C.            Fragment du livre de la mer ş1998
 : .o .     N     _WAGNER Roland C.            20 ans sur un tr“ne ş1986
 : .o .     N     _WAGNER Roland C.            Chaque nuit ş1993
 : .o .     N     _WAGNER Roland C.            Ce qui n'est pas nomm‚ ş1985
@@ -162,7 +166,7 @@ o NEFU        ?  2000.xx ..... ISBN 2-910899-21-7
 : .o .     N     _WAGNER Roland C.            Faire-part ş1982
 : .o .     N     _WAGNER Roland C.            Hors monde, hors temps ş1991
 : .o .     r     _WAGNER Roland C.            Musique de l'‚nergie ş1998
-: .o .     r     _WAGNER Roland C.            H.P.L. (1890-1991) ş1994
+: .o .     N     _WAGNER Roland C.            H.P.L. (1890-1991) ş1995
 o NEFY        ?  2000.xx ..... ISBN 2-910899-14-4
 } nestiv013      _Florence Magnin             ?
 !--- Moyen format, uniquement indiqu‚ "Fantasy" (mais couv pr‚vue avec Horizon Fantasy)
@@ -195,9 +199,9 @@ o NESF        2i 2000.xx ..... ISBN 2-910899-26-8
 : .o .     N     _SILHOL L‚a                  Runaway Train [Frontier] ş2000
 : .o .     N     _SILHOL L‚a                  A l'image de la nuit ş2000
 !--- Le temps
-: .o .     N     _SILHOL L‚a                  Mille ans de servitude [Tryptique du Mill‚naire - 1] ş1999
-: .o .     N     _SILHOL L‚a                  Tous des anges [Tryptique du Mill‚naire - 2] ş2000
-: .o .     N     _SILHOL L‚a                  La Faille c‚leste [Tryptique du Mill‚naire - 3] ş2000
+: .o .     N     _SILHOL L‚a                  Mille ans de servitude [Triptyque du Mill‚naire - 1] ş1999
+: .o .     N     _SILHOL L‚a                  Tous des anges [Triptyque du Mill‚naire - 2] ş2000
+: .o .     N     _SILHOL L‚a                  La Faille c‚leste [Triptyque du Mill‚naire - 3] ş2000
 : .o .     o     _GIORDANO Natacha            Au fil de l'eau ş2000
 o NEST_FY     7i 2001.xx ..... ISBN 2-910899-27-6
 } nestiv016      _Sandrine Gestin             ?
@@ -213,6 +217,9 @@ o NEFY        9i 2001.xx ..... ISBN 2-910899-31-4
 - .o .     R     _PANIER-ALIX Claire          L'chiquier d'E‹nar [Chronique insulaire - 1] ş2001
 o NEFY        8i 2001.05 ..... ISBN 2-910899-29-2
 } nestiv018      _Didier Graffet              ?
++ NEST_FY     ?  2021.03 ..... ISBN 978-2-36001-003-5
+} noimg          _Didier Graffet              ?
+!--- GF - 130 x 200 - 252 pages
 - .o .     R     _DUFOUR Catherine            Blanche-Neige et les lance-missiles [Quand les dieux buvaient - 1] ş2001
 o NEFA        ?  2001.07 ..... ISBN 2-910899-32-2
 } nestiv019      _Laurent Miny                ?
@@ -263,12 +270,13 @@ o NESF        2  2002.xx ..... ISBN 2-910899-44-6
 : .o .     N     _HELIOT Johan                Saigne nuit ş2002
 o NESFY       ?  2002.xx ..... ISBN 2-910899-41-1
 } nestiv024      _Didier Graffet              ?
-- .oY.     R     _QUESNE Didier               Les Chasseurs [Sanglornis Prima - 1] ş2001
+- .oY.     R     _QUESNE Didier               Les Chasseurs [Sanglornis Prima - 1] ş2002
 o NESTIVE     ?  2012.01 ..... ISBN 978-2-915653-42-7
 } nestiv024      _Didier Graffet              ?
 - .oS.     R     _QUESNE Didier               Les Chasseurs [Sanglornis Prima - 1] ş2002-2012
 o NEFU        8  2002.xx ..... ISBN 2-910899-45-4
 } nestiv025      _Caza                        N
+!--- TBC titre derniŠre nouvelle ? : Nahk Ila Hetaf Tarsun
 - .oS.     A12   *MILLEMANN Jean              Pouvoirs critiques ş2002
 : .o .     p     _MILLEMANN Jean              Pr‚face ş2002
 : .o .     N     _ERIS Patrick                Lemmings ş2002
@@ -283,7 +291,6 @@ o NEFU        8  2002.xx ..... ISBN 2-910899-45-4
 : .o .     N     _DAU Nathalie                Terra Amata ş2002
 : .o .     N     _CALVEZ Jean-Michel          EnchŠres ş2002
 : .o .     N     _BORDIER Bruno               Nalik Ilaf Hetaf Tarsun ş2002
-!--- TBC : Nahk Ila Hetaf Tarsun
 o NESFY       ?  2002.xx ..... ISBN 2-910899-72-1
 } nestiv026      _Sandrine Gestin             ?
 + NESFY       ?  2012.10 ..... ISBN 978-2-915653-44-1
@@ -438,10 +445,10 @@ o NESFF       3i 2004.02 ..... ISBN 2-910899-89-6
 : .oF.     N     _DELBE Alain                 La Pince ş1979
 : .oF.     N     _DELBE Alain                 Une nuit de terreur ş1984
 : .oF.     N     _DELBE Alain                 Le Savez-Vous ? ş2004
-: .oF.     N     _DELBE Alain                 Propri‚t‚ priv‚e ş2004
+: .oF.     N     _DELBE Alain                 Propri‚t‚ priv‚e ş2003
 : .oF.     N     _DELBE Alain                 A‹kido ş2004
 : .oF.     N     _DELBE Alain                 Tango ş2000
-: .oF.     N     _DELBE Alain                 Momie blues ş1999
+: .oF.     N     _DELBE Alain                 Momie blues ş2000
 : .oF.     N     _DELBE Alain                 Mary Da‰l ş2004
 : .oF.     N     _DELBE Alain                 Jeux de cartes ş2000
 : .oF.     N     _DELBE Alain                 L'Ours de la Filfa ş2004
@@ -667,27 +674,22 @@ o NESFF      73i 2016.06 ..... ISBN 978-2-915653-69-4
 !------------------------
 o NESFS      74i 2017.03 ..... ISBN 978-2-915653-75-5
 } noimg          _Johann Bodin                ?
-!--- Fractales Science-fiction
 - .oS.     R     _DURR Cyril                  Le Sang des h‚ros ş2017
 o NESFS      75i 2017.05 ..... ISBN 978-2-915653-78-6
 } noimg          _Philippe Jozelon            ?
-!--- Fractales Science-fiction
 - .oY.     R     _BAGAGE Lilie                Les Larmes de Yada ş2017
 o NESFY      76i 2017.06 ..... ISBN 978-2-915653-79-3
-!--- Fractales Fantasy
 } noimg          _Pierre Droal                ?
+!--- 327 pages - 20 cm - 20 euros
 - .oY.     R     _BOILE Olivier               Nadejda ş2017
 o NESFS      77i 2017.09 ..... ISBN 978-2-915653-81-6
 } noimg          _Philippe Jozelon            ?
-!--- Fractales Science-fiction
 - .oS.     R     _CABASSON Armand             Pour que tout change ş2017
 o NESFY      78i 2017.10 ..... ISBN 978-2-915653-82-3
 } noimg          _Daniel Balage               ?
-!--- Fractales Fantasy
-- .oY.     R     _CROS Ana‹s                  L'Eau du L‚th‚ [Le Peuple Invisible - 1] ş2017
+- .oY.     R     _CROS Ana‹s                  L'Eau du L‚th‚ [Le Peuple invisible - 1] ş2017
 o NESFF      79i 2017.11 ..... ISBN 978-2-915653-83-0
 } nestiv090      _Jorge Jacinto               S‚bastien Ecosse
-!--- Fractales Fantastique
 - .oF.     A12   *CAMUS Chrystelle            Sur les traces de Lovecraft - Volume 1 ş2017
 : .o .     N     _TOUCHE K‚ti                 Howard ş2017
 : .o .     N     _GAL Paul Martin             Les D‚mons d'Ynis Mon ş2017
@@ -718,7 +720,7 @@ o NESFF      80i 2018.01 ..... ISBN 978-2-915653-84-7
 : .o .     N     _SEVEL Fr‚d‚rique            La Famille ş2018
 : .o .     N     _VERDIER David               L'H“te de Marsden Hall ş2018
 : .o .     N     _THIEVICZ Francis            Sutures spatiales ş2018
-: .o .     N     _DELBE Alain                 La V‚rit‚ sur Alexis Chandhor ş2018
+: .o .     N     _DELBE Alain                 La V‚rit‚ sur Alexis Chandhor ş2000
 : .o .     N     _JALURID Hugo                Magda ş2018
 : .o .     N     _DALAUDIER Guillaume         La Repr‚sentation de Phyrt ş2018
 : .o .     N     _GAREL Ambroise              Mouvement ş2018
@@ -788,6 +790,54 @@ o NESFY      87i 2019.10 ..... ISBN 978-2-915653-98-4
 o NESFY      88i 2019.10 ..... ISBN 978-2-915653-99-1
 } noimg          _Philippe Jozelon            ?
 - .oY.     R     _DARNAUDET Fran‡ois          Le Minautore d'Atlantide ş2019
+!------------------------
+!=== 2021
+!------------------------
+o NESFY       ?  2021.01 ..... ISBN 978-2-36001-001-1
+} noimg          _Carolina Sans Cuende        ?
+!--- GF - 130 x 200 - 300 pages
+- .o .     R     _QUESNE Didier               D'os et de chair ş2021
+o NESFY       ?  2021.02 ..... ISBN 978-2-36001-002-8
+} noimg          _?                           ?
+!--- GF - 130 x 200 - 240 pages
+- .o .     R     _BOILE Olivier               Mort et vie du sergent Trazom ş2021
+o NESFY       ?  2021.04 ..... ISBN 978-2-36001-004-2
+} nestiv042021_1 _Ngan Pham                   ?
+!--- GF - 130 x 200 - 324 pages - 19 euros
+- .oY.    iNx    _MONOT Philippe              Capitaine Providence ş2021
+: .o .     p     _CAMUS Chrystelle            Quelques explications... ş2021
+: .o .     N     _NICOLOFF Lo‹c               Valiante de Providence ş?
+: .oY.     N     _MONOT Philippe              Capitaine Providence ş2002
+o NESFF       ?  2021.05 ..... ISBN 978-2-36001-006-6
+} nestiv052021_1 _Daniel Balage               ?
+!--- GF - 130x200 - 384 pages - 21 euros
+- .oF.    kN6    _GAL Paul Martin             Ainsi parle le dernier homme [Irvin Murray] ş2021
+!--- pr‚c‚d‚ d'un Pr‚ambule
+: .oF.     N     _GAL Paul Martin             Le Pays noir [Irvin Murray] ş2021
+: .oF.     N     _GAL Paul Martin             Memento Mori [Irvin Murray] ş2021
+: .oF.     N     _GAL Paul Martin             Dans les jardins d'Angra Mainyu [Irvin Murray] ş2021
+: .oF.     N     _GAL Paul Martin             Le Dernier Homme [Irvin Murray] ş2021
+: .oF.     N     _GAL Paul Martin             Songe d'une nuit d'hiver [Irvin Murray] ş2021
+: .oF.     N     _GAL Paul Martin             Celui qui attend [Irvin Murray] ş2021
+o NESFY       ?  2021.06 ..... ISBN 978-2-36001-009-7
+} noimg          _Carolina Sans Cuende        ?
+!--- GF - 130x200 - 384 pages
+- .o .     R     _MESSMER Carmen              Les Griffes de Moloth [Les El‚mentales - 2] ş2012
+o NESFY       ?  2021.11 ..... ISBN 978-2-36001-012-7
+} noimg          _?                           ?
+!--- GF - 130x200 - 444 pages
+- .o .     R     _CROS Ana‹s                  La Nuit des sorciŠres [Le Peuple invisible - 2] ş2021
+!------------------------
+!=== 2022
+!------------------------
+o NESFF       ?  2022.09 ..... ISBN 978-2-36001-016-5
+} noimg          _Philippe Jozelon            ?
+!--- GF - 130x200 - 444 pages - 20 euros
+- .oF.     R     _CROS Ana‹s                  Le SeptiŠme Arcane [Les Arcanes d'Autremonde - 1] ş2022
+o NESFF       ?  2022.xx ..... ISBN  978-2-36001-017-2
+} noimg          _Philippe Jozelon            ?
+!--- GF - 130x200 - 480 pages - 20 euros
+- .oF.     R     _CROS Ana‹s                  Le VingtiŠme Arcane [Les Arcanes d'Autremonde - 2] ş2022
 
 
 
@@ -834,7 +884,7 @@ o NESJ        9i 2005.06 ..... ISBN 2-915653-14-3
 
 
 !-----------------------------------------------------------------------------
-_ NESR    Nestiveqnen, Revue Faeries
+_ NESR    Nestiveqnen - Revue Faeries
 !-----------------------------------------------------------------------------
 !--- Revue Fa‰rie
 !-----------------------------------------------------------------------------
@@ -902,7 +952,7 @@ o NESR        7  2002.xx R.... ISBN 2-910899-50-0
 o NESR        8  2002.xx R.... ISBN 2-910899-54-3
 } noimg          _?                           ?
 - .o .     M6    ****                         Fa‰rie nø 8 (‚t‚ 2002) - Sp‚cial Pratchett ş2002
-: .o .     N     _PRATCHETT Terry             Drame de troll ş1992 Troll Bridge şTrad. COUTON Patrick
+: .oY.     N     _PRATCHETT Terry             Drame de troll [Les Annales du Disque-monde][Le Disque-Monde] ş1992 Troll Bridge şTrad. COUTON Patrick
 : .o .     N     _KUSHNER Ellen               La Poursuite de la licorne ş1995 The Hunt of the Unicorn şTrad. RENNOU S‚bastien
 : .o .     N     _DE LINT Charles             Le Tambour de pierre ş1989 The Stone Drum şTrad. RENNOU S‚bastien
 : .o .     N     _DAU Nathalie                Faux pas ş2002
@@ -1050,12 +1100,6 @@ o NESR        ?  2002.xx R.... ISBN 2-910899-40-3
 } noimg          _?                           ?
 - .oY.     M0    ****                         Fa‰rie HS nø 1 - sp‚cial J.R.R. Tolkien ş2002
 
-!-----------------------------------------------------------------------------
-_ CALFAER <b>in</b> Nestiveqnen, Calendrier Faeries
-!-----------------------------------------------------------------------------
-o CALFAER     ?  2006.xx ..... ISBN -
-} noimg          _?                           ?
-- .oF.     N     _NOIREZ J‚r“me               L'Objet du d‚lit ş2006
 
 !-----------------------------------------------------------------------------
 _ NDON    Revue Nouvelle Donne
@@ -1183,7 +1227,7 @@ o NDON       34  2004.xx ..... ISBN .-.....-...-.
 : .o .     N     _FUENTES Roland              Le MaŒtre de Cardin ş2004
 
 !-----------------------------------------------------------------------------
-_ NDOC    Nestiveqnen, Nouvelle Donne Collection
+_ NDOC    Nestiveqnen - Nouvelle Donne Collection
 !-----------------------------------------------------------------------------
 !--- Nouvelle Donne Collection
 !-----------------------------------------------------------------------------
@@ -1195,7 +1239,7 @@ o NDOC        ?  2001.xx ..... ISBN 2-910899-36-5
 : .o .     N     _BONTEMPELLI Fabrice         L'Oeuvre au rouge ş2001
 : .o .     N     _BOURLAND Fabrice            Le Bateleur ş2001
 : .o .     N     _CHEMIN Isabelle             Nomino‰ ş2001
-: .o .     N     _DELTEIL G‚rard              Le Chƒteau du Dragon ş2001
+: .o .     N     _DELTEIL G‚rard              Le Chƒteau du dragon ş2001
 : .o .     N     _GERMAIN Sophie              Galahad ş2001
 : .o .     N     _HADDAD Hubert               Dernier combat de l'homme en sang ş2001
 : .o .     N     _HOST Michel                 Geste du jouvenceau qui point n'ayant nom... ş2001
@@ -1255,7 +1299,7 @@ o NDOC        ?  2002.05 ..... ISBN 2-910899-51-9
 - .pS.     A17   *DETAMBEL R‚gine             Le Dernier Livre ş2002
 : .! .     N     _BONTEMPELLI Bruno           Autodaf‚ ş2002
 : .o .     N     _LABBE Denis                 Le Livre ş2002
-: .! .     N     _DOUNOVETZ Sergue‹           Champagne ş2002
+: .! .     N     _DOUNOVETZ Serguei           Champagne ş2002
 : .o .     N     _MILLET Gilbert              Un roman de Bacon illustr‚ par Kafka ş2002
 : .! .     N     _SHOLBY                      De l'endormissement ş2002
 : .o .     N     _DESICY-FRIEDLAND A.-E.      L'Attente ş2002
@@ -1290,7 +1334,7 @@ o NDOC        ?  2002.09 ..... ISBN 2-910899-57-8
 o NDOC        ?  2002.xx ..... ISBN 2-910899-63-2
 } nestivnd7      _?                           N
 !--- Recueil de nouvelles fantastiques
-- .oF.    iN8    _CASTAIGNEDE Monique         Feux d'hiver ş2002
+- .oF.    iNx    _CASTAIGNEDE Monique         Feux d'hiver ş2002
 o NDOC        ?  2002.xx ..... ISBN 2-910899-62-4
 } noimg          _?                           ?
 - .xP.    iNx    _AMOZ Claude                 Racines amŠres ş2002

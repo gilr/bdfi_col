@@ -1,31 +1,24 @@
 !-----------------------------------------------------------------------------
-_ EONAil  Ed. Eons, Coll. Ailleurs
-_ EONAilA Ed. Eons, Coll. Ailleurs (Ebook)
-_ EONAilM Ed. Eons, Coll. Ailleurs (Ebook Mobipocket)
-_ EONFut  Ed. Eons, Coll. Futurs
-_ EONFutA Ed. Eons, Coll. Futurs (Ebook)
-_ EONFutM Ed. Eons, Coll. Futurs (Ebook Mobipocket)
-_ EONSer  Ed. Eons, Coll. SÇries
-_ EONSerA Ed. Eons, Coll. SÇries (Ebook)
-_ EONSerM Ed. Eons, Coll. SÇries (Ebook Mobipocket)
-_ EONRet  Ed. Eons, Coll. RÇtrofuturs
-_ EONRetA Ed. Eons, Coll. RÇtrofuturs (Ebook)
-_ EONRetM Ed. Eons, Coll. RÇtrofuturs (Ebook Mobipocket)
-_ EONRetR Ed. Eons, Coll. RÇtrofuturs (Ebook MSReader)
-_ EON_fy  Ed. Eons, Coll. Fantasy
-_ EON_fyA Ed. Eons, Coll. Fantasy (Ebook)
-_ EON_fyM Ed. Eons, Coll. Fantasy (Ebook Mobipocket)
-_ EONAnt  Ed. Eons, Coll. AnticipationS
-_ EONAntA Ed. Eons, Coll. AnticipationS (Ebook)
-_ EONAntM Ed. Eons, Coll. AnticipationS (Ebook Mobipocket)
+_ EONAil  Eons - Ailleurs
+_ EONAilA Eons - Ailleurs [numÇrique]
+_ EONFut  Eons - Futurs
+_ EONFutA Eons - Futurs [numÇrique]
+_ EONSer  Eons - SÇries
+_ EONSerA Eons - SÇries [numÇrique]
+_ EONRet  Eons - RÇtrofuturs
+_ EONRetA Eons - RÇtrofuturs [numÇrique]
+_ EON_fy  Eons - Fantasy
+_ EON_fyA Eons - Fantasy [numÇrique]
+_ EONAnt  Eons - AnticipationS
+_ EONAntA Eons - AnticipationS [numÇrique]
 !-----------------------------------------------------------------------------
 !--- Edition Eons, Adobe ou Mobipocket
-!---  les Ebook sont Adobe
+!---  les "numÇriques" sont des e-book numÇrique Adobe
 !-----------------------------------------------------------------------------
 
 o EONFutA     1  2004.06 ..... ISBN 2-7544-0001-X
-!+ EONFutM     1  2004.06 ..... ISBN 2-7544-0003-6
 } noimg          _?                           ?
+!--- ISBN 2-7544-0003-6 en numÇrique Mobipocket
 - .oS.     R     _LE BUSSY Alain              Yorg de l'åle [Yorg - 1] ˛1995
 : .oS.     N     _MARECHAL Rozenn             Des difficultÇs du voyage entre les mondes ˛2004
 : .oS.     N     _STABLEFORD Brian M.         Porteuses ˛1993 Carriers ˛Trad. ALARY Paul
@@ -35,8 +28,8 @@ o EONFut      1  2004.12 ..... ISBN 2-7544-0106-7
 : .oS.     N     _MARECHAL Rozenn             Des difficultÇs du voyage entre les mondes ˛2004
 : .oS.     N     _STABLEFORD Brian M.         Porteuses ˛1993 Carriers ˛Trad. ALARY Paul
 o EONFutA     2  2004.06 ..... ISBN 2-7544-0037-0
-!+ EONFutM     2  2004.06 ..... ISBN 2-7544-0039-7
 } noimg          _?                           ?
+!--- ISBN 2-7544-0039-7 en numÇrique Mobipocket
 - .oS.     R     _STABLEFORD Brian M.         Le Courant d'Alcyon [Grainger - 1] ˛1972 Halcyon Drift / The Halcyon Drift ˛Trad. MARTIN Bruno
 : .oS.     N     _FRANCIS Paul                L'Appel ˛2004
 : .oS.     N     _FONTANA Jean-Pierre         La Caresse de l'aube ˛2003
@@ -46,8 +39,8 @@ o EONFut      2  2005.03 ..... ISBN 2-7544-0160-1
 : .oS.     N     _FRANCIS Paul                L'Appel ˛2004
 : .oS.     N     _FONTANA Jean-Pierre         La Caresse de l'aube ˛2003
 o EONFutA     3  2004.06 ..... ISBN 2-7544-0055-9
-!+ EONFutM     3  2004.06 ..... ISBN 2-7544-0057-5
 } noimg          _?                           ?
+!--- ISBN 2-7544-0057-5 en numÇrique Mobipocket
 - .oS.     R     _GEVART Pierre               Planäte mauve [Khopnà - 1] ˛1995-2004
 : .oS.     N     _ECKEN Claude                Un monde partagÇ ˛2004
 o EONFut      3  2007.xx ..... ISBN 2-7544-0313-9
@@ -64,8 +57,8 @@ o EONFut      4  2004.10 ..... ISBN 2-7544-0103-2
 - .oS.     R     _ECKEN Claude                De silence et de feu [L'äre du Pyroson - 1] ˛1989-2004
 : .oS.     N     _STABLEFORD Brian M.         L'Essor de la maison Usher ˛1988 The Growth of the House of Usher ˛Trad. BLARY Jean-Luc
 o EONFutA     5  2004.07 ..... ISBN 2-7544-0004-4
-!+ EONFutM     5  2004.07 ..... ISBN 2-7544-0006-0
 } noimg          _?                           ?
+!--- ISBN 2-7544-0006-0 en numÇrique Mobipocket
 - .oS.     R     _LE BUSSY Alain              Rork des plaines [Yorg - 2] ˛1995
 : .oS.     N     _LEICHT Markus               Le Snart chasse toujours ˛1997-2004
 o EONFut      5  2004.xx ..... ISBN 2-7544-0107-5
@@ -73,8 +66,8 @@ o EONFut      5  2004.xx ..... ISBN 2-7544-0107-5
 - .oS.     R     _LE BUSSY Alain              Rork des plaines [Yorg - 2] ˛1995
 : .oS.     N     _LEICHT Markus               Le Snart chasse toujours ˛1997-2004
 o EONFutA     6  2004.07 ..... ISBN 2-7544-0067-2
-!+ EONFutM     6  2004.07 ..... ISBN 2-7544-0069-9
 } noimg          _?                           ?
+!--- ISBN 2-7544-0069-9 en numÇrique Mobipocket
 - .oS.     R     _FONTANA Jean-Pierre         La Femme truquÇe ˛1980
 : .oS.     N     _ROCHE Olivier               êveil ˛2004
 : .oS.     N     _GEVART Pierre               Pan pan papy ˛1988
@@ -86,8 +79,8 @@ o EONFut      6  2005.07 ..... ISBN 2-7544-....-.
 : .oS.     N     _GEVART Pierre               Pan pan papy ˛1988
 : .oS.     N     _LE BUSSY Alain              Section Tempo ˛2004
 o EONFutA     7  2004.08 ..... ISBN 2-7544-0058-3
-!+ EONFutM     7  2004.08 ..... ISBN 2-7544-0060-5
 } noimg          _?                           ?
+!--- ISBN 2-7544-0060-5 en numÇrique Mobipocket
 - .oS.     R     _GEVART Pierre               Les Orages de Jouvence ˛2004
 : .oS.     R     _MITCHELL John Ames          Le Dernier AmÇricain ˛1889 The last american ˛Trad. ALARY Paul
 o EONFut      7  2004.10 ..... ISBN 2-7544-0105-9
@@ -95,19 +88,18 @@ o EONFut      7  2004.10 ..... ISBN 2-7544-0105-9
 - .oS.     R     _GEVART Pierre               Les Orages de Jouvence ˛2004
 : .oS.     R     _MITCHELL John Ames          Le Dernier AmÇricain ˛1889 The last american ˛Trad. ALARY Paul
 o EONFutA     8  2004.08 ..... ISBN 2-7544-0040-0
-!+ EONFutM     8  2004.09 ..... ISBN 2-7544-0042-7
 } noimg          _?                           ?
+!--- ISBN 2-7544-0042-7 en numÇrique Mobipocket
+!--- Rhapsody noire : peut-àtre rÇvisÇ en 1975
 - .oS.     R     _STABLEFORD Brian M.         Rhapsodie noire [Grainger - 2] ˛1973 Rhapsody in Black ˛Trad. MARTIN Bruno
-!---  1973 rÇvisÇ en 1975
 : .oS.     N     _GUILLET Jean-Pierre (Fr)    Retour Ö la poussiäre ˛2004
 o EONFut      8  2006.01 ..... ISBN 2-7544-0161-6
 } noimg          _?                           ?
 - .oS.     R     _STABLEFORD Brian M.         Rhapsodie noire [Grainger - 2] ˛1973 Rhapsody in Black ˛Trad. MARTIN Bruno
-!---  1973 rÇvisÇ en 1975
 : .oS.     N     _GUILLET Jean-Pierre (Fr)    Retour Ö la poussiäre ˛2004
 o EONFutA     9  2004.08 ..... ISBN 2-7544-0064-8
 } noimg          _?                           ?
-!+ EONFutM     9  2004.09 ..... ISBN 2-7544-0066-4
+!--- ISBN 2-7544-0066-4 en numÇrique Mobipocket
 - .oS.     RN2   ****                         Les Enfants du silence ˛1989
 : .oS.     R     _ECKEN Claude                Les Enfants du silence [L'äre du Pyroson - 2] ˛1989
 : .oS.     N     _WHALE Laurent               HÇlas, Elias ! ˛2004
@@ -120,7 +112,7 @@ o EONFut      9  2004.10 ..... ISBN 2-7544-0104-0
 : .oS.     N     _LE BUSSY Alain              La Croisiäre des souvenirs ˛1992
 o EONFutA    10  2004.08 ..... ISBN 2-7544-0082-6
 } noimg          _?                           ?
-!+ EONFutM    10  2004.08 ..... ISBN 2-7544-0084-2
+!--- ISBN 2-7544-0084-2 en numÇrique Mobipocket
 - .oS.    kRN    _VAN VOGT Alfred E.          Pour une autre terre ˛2004
 : .oS.     U     _VAN VOGT Alfred E.          Pour une autre terre ˛1965 Rogue Ship ˛Trad. ?
 ?= .o .     u     _VAN VOGT Alfred E.          - ˛1947 Centaurus 2
@@ -128,8 +120,8 @@ o EONFutA    10  2004.08 ..... ISBN 2-7544-0082-6
 ?= .o .     u     _VAN VOGT Alfred E.          - (Les sacrifiÇs) ˛1963 The Expendables
 : .oS.     N     _STOLZE Pierre               L'Amour des Çtoiles ˛1987
 o EONAilA    11  2004.08 ..... ISBN 2-7544-0076-1
-!+ EONAilM    11  2004.08 ..... ISBN 2-7544-0078-8
 } noimg          _?                           ?
+!--- ISBN 2-7544-0078-8 en numÇrique Mobipocket
 - .oS.     R     _STOLZE Pierre               Le Serpent d'ÇternitÇ ˛1979
 : .oS.     N     _GEVART Pierre               Robert le Rouge ˛2004
 o EONAil     11  2005.11 ..... ISBN 2-7544-0246-2
@@ -137,8 +129,8 @@ o EONAil     11  2005.11 ..... ISBN 2-7544-0246-2
 - .oS.     R     _STOLZE Pierre               Le Serpent d'ÇternitÇ ˛1979
 : .oS.     N     _GEVART Pierre               Robert le Rouge ˛2004
 o EONFutA    12  2004.08 ..... ISBN 2-7544-0007-9
-!+ EONFutM    12  2004.08 ..... ISBN 2-7544-0009-5
 } noimg          _?                           ?
+!--- ISBN 2-7544-0009-5 en numÇrique Mobipocket
 - .oS.     R     _LE BUSSY Alain              Hou des machines [Yorg - 3] ˛1995
 : .oS.     N     _MILESI Raymond              Le SÇjour de Radamanthe ˛1990
 o EONFut     12  2005.12 ..... ISBN 2-7544-0108-3
@@ -146,8 +138,8 @@ o EONFut     12  2005.12 ..... ISBN 2-7544-0108-3
 - .oS.     R     _LE BUSSY Alain              Hou des machines [Yorg - 3] ˛1995
 : .oS.     N     _MILESI Raymond              Le SÇjour de Radamanthe ˛1990
 o EONFutA    13  2004.08 ..... ISBN 2-7544-0043-5
-!+ EONFutM    13  2004.08 ..... ISBN 2-7544-0045-1
 } noimg          _?                           ?
+!--- ISBN 2-7544-0045-1 en numÇrique Mobipocket
 - .oS.     R     _STABLEFORD Brian M.         Terre promise [Grainger - 3] ˛1974 Promised Land ˛Trad. MARTIN Bruno
 : .oS.     N     _SISCO Sylvestre             Un cerveau pour Megahard ˛2004
 : .oS.     N     _ALARY Paul                  Au dÇbut Çtait le Verbe... et il fallut le traduire ! ˛2004
@@ -158,7 +150,7 @@ o EONFut     13  2005.xx ..... ISBN 2-7544-0162-.
 : .oS.     N     _ALARY Paul                  Au dÇbut Çtait le Verbe... et il fallut le traduire ! ˛2004
 o EONFutA    14  2004.08 ..... ISBN 2-7544-0091-5
 } eons14         _?                           N
-!+ EONFutM    14  2004.08 ..... ISBN 2-7544-0093-1
+!--- ISBN 2-7544-0093-1 en numÇrique Mobipocket
 - .oS.     A13   *GEVART Pierre               Projet 1 : une autre terre ˛1995
 : .o .     N     _IMBERDIS Frank              Bip bip ! ˛2004
 : .o .     N     _LHOMME Fabrice              Projet 15 ˛2004
@@ -174,25 +166,25 @@ o EONFutA    14  2004.08 ..... ISBN 2-7544-0091-5
 : .o .     N     _GUILLET Jean-Pierre (Fr)    Points d'interrogation ˛2004
 : .o .     N     _GUILLET Jean-Pierre (Fr)    Epilogue ˛2004
 o EONFut     15  2004.08 ..... ISBN 2-7544-0109-.
-!+ EONFutA    15  2004.08 ..... ISBN 2-7544-0010-9
-!+ EONFutA    15  2004.08 ..... ISBN 2-7544-0012-5
 } noimg          _?                           ?
+!--- ISBN 2-7544-0010-9 en numÇrique
+!--- ISBN 2-7544-0012-5 en numÇrique
 - .oS.     R     _LE BUSSY Alain              Jana des couloirs [Yorg - 4] ˛1996
 : .oS.     N     _CARSAC Francis              Premier empire ˛1960
 o EONFutA    16  2004.10 ..... ISBN 2-7544-0094-X
-!+ EONFutM    16  2004.10 ..... ISBN 2-7544-0096-6
 } noimg          _?                           ?
+!--- ISBN 2-7544-0096-6 en numÇrique Mobipocket
 - .oS.     R     _FARCASAN Sergiu             An 41 042 ˛1963 O iubire in anul 41042 ˛Trad. FLORESCO Maurice
 o EONFutA    17  2004.11 ..... ISBN 2-7544-0046-X
-!+ EONFutM    17  2004.11 ..... ISBN 2-7544-0048-6
 } noimg          _?                           ?
+!--- ISBN 2-7544-0048-6 en numÇrique Mobipocket
 - .oS.     R     _STABLEFORD Brian M.         Le Jeu du paradis [Grainger - 4] ˛1974 The Paradise Game ˛Trad. MARTIN Bruno
 : .oS.     N     _ALARY Paul                 &Le Temps tombÇ du ciel ˛2004
 &                _BLARY Jean-Luc              
 : .oS.     N     _MILESI Raymond              D = 5(N-18) ˛1990
 o EONFutA    18  2004.11 ..... ISBN 2-7544-0070-2
-!+ EONFutM    18  2004.11 ..... ISBN 2-7544-0072-9
 } noimg          _?                           ?
+!--- ISBN 2-7544-0072-9 en numÇrique Mobipocket
 - .oS.     R     _FONTANA Jean-Pierre         ShÇol ˛1976
 : .oS.     N     _STABLEFORD Brian M.         La Comäte de Lucifer ˛1996 Lucifer's Comet ˛Trad. ALARY Paul
 o EONFut     18  2005.02 ..... ISBN 2-7544-0156-3
@@ -200,7 +192,7 @@ o EONFut     18  2005.02 ..... ISBN 2-7544-0156-3
 - .oS.     R     _FONTANA Jean-Pierre         ShÇol ˛1976
 : .oS.     N     _STABLEFORD Brian M.         La Comäte de Lucifer ˛1996 Lucifer's Comet ˛Trad. ALARY Paul
 o EONFutA    19  2004.11 ..... ISBN 2-7544-0119-9
-!+ EONFutM    19  2004.11 ..... ISBN 2-7544-0121-0
+!--- ISBN 2-7544-0121-0 en numÇrique Mobipocket
 } noimg          _?                           ?
 - .oS.     R     _CARSAC Francis              La Vermine du lion [Teraã Laprade] ˛1967
 : .oS.     N     _CARSAC Francis              Dans les montagnes du Destin [Teraã Laprade] ˛1971
@@ -213,18 +205,18 @@ o EONFut     19  2004.12 ..... ISBN 2-7544-0149-0
 !--- 20 Pelosato (dossiers) L'effet VÇnus
 !--- Contient "Nyos 2030" de Alain CASTELBORD
 o EONFutA    21  2004.11 ..... ISBN 2-7544-0013-3
-!+ EONFutM    21  2004.11 ..... ISBN 2-7544-0015-X
 } noimg          _?                           ?
+!--- ISBN 2-7544-0015-X en numÇrique Mobipocket
 - .oS.     R     _LE BUSSY Alain              Jorvan de la mer [Yorg - 5] ˛1996
 : .oS.     N     _GEVART Pierre               MyrmÇpolis ˛1974
 o EONFutA    22  2004.12 ..... ISBN 2-7544-0088-5
-!+ EONFutM    22  2004.12 ..... ISBN 2-7544-0090-7
 } noimg          _?                           ?
+!--- ISBN 2-7544-0090-7 en numÇrique Mobipocket
 - .oS.     R     _MILESI Raymond              Chien bleu couronnÇ ˛1991
 : .oS.     N     _FONTANA Jean-Pierre         Le Sourire de Mona Lisa ˛2001
 o EONFutA    23  2004.12 ..... ISBN 2-7544-0100-8
 } eons23         _?                           N
-!+ EONFutM    23  2004.12 ..... ISBN 2-7544-0102-4
+!--- ISBN 2-7544-0102-4 en numÇrique Mobipocket
 - .oS.     N5    _GEVART Pierre               Hors saison ˛2004
 : .oS.     N     _GEVART Pierre               Souriez, vous àtes filmÇs ˛2001
 : .oS.     N     _GEVART Pierre               Hors-saison ˛1988
@@ -232,13 +224,13 @@ o EONFutA    23  2004.12 ..... ISBN 2-7544-0100-8
 : .oS.     N     _GEVART Pierre               L'Archiviste ˛2000
 : .oS.     N     _GEVART Pierre               Joe ˛1975
 o EONRetA    24  2004.12 ..... ISBN 2-7544-0143-1
-!+ EONRetM    24  2004.12 ..... ISBN 2-7544-0144-X
-!+ EONRetR    24  2004.12 ..... ISBN 2-7544-0145-8
 } noimg          _?                           ?
+!--- ISBN 2-7544-0144-X en numÇrique Mobipocket
+!--- ISBN 2-7544-0145-8 en numÇrique MsReader
 - .oS.     R     _VERNE Jules                 De la Terre Ö la Lune ˛1865
 o EONFutA    25  2004.12 ..... ISBN 2-7544-0085-0
-!+ EONFutM    25  2004.12 ..... ISBN 2-7544-0087-7
 } noimg          _?                           ?
+!--- ISBN 2-7544-0087-7 en numÇrique Mobipocket
 - .oS.     R     _GEVART Pierre               La DÇcroisade ˛2004
 : .oS.     N     _SUZANNE Guillaume           Le Livre ultime ˛2004
 o EONFut     25  2005.01 ..... ISBN 2-7544-0155-5
@@ -246,22 +238,22 @@ o EONFut     25  2005.01 ..... ISBN 2-7544-0155-5
 - .oS.     R     _GEVART Pierre               La DÇcroisade ˛2004
 : .oS.     N     _SUZANNE Guillaume           Le Livre ultime ˛2004
 o EONAilA    26  2004.12 ..... ISBN 2-7544-0146-6
-!+ EONAilM    26  2004.12 ..... ISBN 2-7544-0148-2
 } noimg          _?                           ?
-- .oY.     R     _NEVIL Alexis P.             Les Trois Crapules du Klahgann ˛2004
+!--- ISBN 2-7544-0148-2 en numÇrique Mobipocket
+- .oY.     R     _NEVIL Alexis P.             Les Trois Crapules du Klahgann [Les Derniers Ascendants - 1] ˛2004
 : .oS.     N     _LEICHT Markus               Le Gnok ˛2003
 o EONAil     26  2005.01 ..... ISBN 2-7544-0154-7
 } noimg          _?                           ?
 - .oY.     R     _NEVIL Alexis P.             Les Trois Crapules du Klahgann [Les Derniers Ascendants - 1] ˛2004
 : .oY.     N     _LEICHT Markus               Le Gnok ˛2003
 o EONFutA    27  2004.12 ..... ISBN 2-7544-0016-8
-!+ EONFutM    27  2004.12 ..... ISBN 2-7544-0018-4
 } noimg          _?                           ?
+!--- ISBN 2-7544-0018-4 en numÇrique Mobipocket
 - .oS.     R     _LE BUSSY Alain              Djamol de Kåv [Yorg - 6] ˛1996
 : .oS.     N     _WARD Philippe               Le Fils de l'eau ˛2003
 o EONFutA    28  2005.01 ..... ISBN 2-7544-0097-4
-!+ EONFutM    28  2005.01 ..... ISBN 2-7544-0099-0
 } noimg          _?                           ?
+!--- ISBN 2-7544-0099-0 en numÇrique Mobipocket
 - .oS.     R     _EFREMOV Ivan                La NÇbuleuse d'Andromäde ˛1957 Toumannost' Andromedy ˛Trad. LUSTERNIK H.
 : .oS.     N     _GEVART Pierre               Milioukov Ö la Loubianka ˛2004
 o EONFut     28  2005.05 ..... ISBN 2-7544-0185-7
@@ -269,24 +261,23 @@ o EONFut     28  2005.05 ..... ISBN 2-7544-0185-7
 - .oS.     R     _EFREMOV Ivan                La NÇbuleuse d'Andromäde ˛1957 Toumannost' Andromedy ˛Trad. LUSTERNIK H.
 : .oS.     N     _GEVART Pierre               Milioukov Ö la Loubianka ˛2004
 o EONFutA    29  2005.01 ..... ISBN 2-7544-0019-2
-!+ EONFutM    29  2005.01 ..... ISBN 2-7544-0021-4
 } noimg          _?                           ?
+!--- ISBN 2-7544-0021-4 en numÇrique Mobipocket
 - .oS.     R     _LE BUSSY Alain              Koóm des sauteurs [Yorg - 7] ˛2004
 : .oS.     N     _GUILLET Jean-Pierre (Fr)    Rencontre du Çniäme type ˛2004
 o EONRetA    30  2005.01 ..... ISBN 2-7544-0151-2
-!+ EONRetM    30  2005.01 ..... ISBN 2-7544-0152-0
-!+ EONRetR    30  2005.01 ..... ISBN 2-7544-0153-9
 } noimg          _?                           ?
+!--- ISBN 2-7544-0152-0 en numÇrique Mobipocket
+!--- ISBN 2-7544-0153-9 en numÇrique MsReader
 - .oS.     R     _VERNE Jules                 Autour de la Lune ˛1870
 ?o EONFutA    31  200x.xx ..... ISBN 2-7544-0049-4
-?! EONFutM    31  200x.xx ..... ISBN 2-7544-0051-6
 ?} noimg          _?                           ?
 ?- .oS.     R     _STABLEFORD Brian M.         Le Fenris [Grainger - 5] ˛1974 The Fenris Device
 ?!--- Nouvelle traduction
 ?: .oY.     N     _LEICHT Markus               Fantìme Rouge 182 ˛1995
 o EONFutA    32  2005.02 ..... ISBN 2-7544-0079-6
-!+ EONFutM    32  2005.02 ..... ISBN 2-7544-0081-8
 } noimg          _?                           ?
+!--- ISBN 2-7544-0081-8 en numÇrique Mobipocket
 - .oS.     R     _STOLZE Pierre               Kamtchatka ˛1980
 : .oS.     N     _STOLZE Pierre               Les RÇceptacles-MÇmoires ˛1990
 : .oS.     N     _CARSAC Francis              Le Dieu qui vient avec le vent ˛1972
@@ -296,13 +287,13 @@ o EONFut     32  2005.03 ..... ISBN 2-7544-0170-9
 : .oS.     N     _STOLZE Pierre               Les RÇceptacles-MÇmoires ˛1990
 : .oS.     N     _CARSAC Francis              Le Dieu qui vient avec le vent ˛1972
 o EONFutA    33  2005.02 ..... ISBN 2-7544-0122-9
-!+ EONFutM    33  2005.02 ..... ISBN 2-7544-0134-5
+!--- ISBN 2-7544-0134-5 en numÇrique Mobipocket
 } noimg          _?                           ?
 - .oS.     R     _CARSAC Francis              Pour patrie l'espace ˛1962
 : .oS.     N     _CARSAC Francis              Genäse ˛1958
 : .oS.     N     _CARSAC Francis              Hachures ˛1954
 o EONAilA    34  2005.02 ..... ISBN 2-7544-0167-9
-!+ EONAilM    34  2005.02 ..... ISBN 2-7544-0169-5
+!--- ISBN 2-7544-0169-5 en numÇrique Mobipocket
 } noimg          _?                           ?
 - .oS.     R     _LE BUSSY Alain              Ruptures ˛2005
 : .oS.     N     _GEVART Pierre               Comment les choses se sont vraiment passÇes ˛2003
@@ -311,25 +302,25 @@ o EONAil     34  2005.04 ..... ISBN 2-7544-0183-0
 - .oS.     R     _LE BUSSY Alain              Ruptures ˛2005
 : .oS.     N     _GEVART Pierre               Comment les choses se sont vraiment passÇes ˛2003
 o EONRetA    35  2005.03 ..... ISBN 2-7544-0157-1
-!+ EONRetM    35  2005.03 ..... ISBN 2-7544-0159-8
-!+ EONRetR    35  2005.03 ..... ISBN 2-7544-0158-X
 } noimg          _?                           ?
+!--- ISBN 2-7544-0159-8 en numÇrique Mobipocket
+!--- ISBN 2-7544-0158-X en numÇrique MsReader
 - .oS.     R     _VERNE Jules                 Sans dessus dessous ˛1889
 o EONFutA    36  2005.03 ..... ISBN 2-7544-0073-7
-!+ EONFutM    36  2005.03 ..... ISBN 2-7544-0075-3
+!--- ISBN 2-7544-0075-3 en numÇrique Mobipocket
+!--- Quand pleure le crÇpuscule est une rÇvision de "La Colonne d'Çmeraude"
 } noimg          _?                           ?
 - .oS.     R     _FONTANA Jean-Pierre         Quand pleure le crÇpuscule ˛1992-2005
-!--- RÇvision de "La Colonne d'Çmeraude"
 : .oS.     N     _DARLTON Clark               La Bombe solaire ˛1964 Die Sonnenbombe ˛Trad. BLARY Jean-Luc
 o EONFutA    37  2005.03 ..... ISBN 2-7544-0022-2
-!+ EONFutM    37  2005.03 ..... ISBN 2-7544-0024-9
 } noimg          _?                           ?
+!--- ISBN 2-7544-0024-9 en numÇrique Mobipocket
 - .oS.     R     _LE BUSSY Alain              JosÇ de l'Ogistique [Yorg - 8] ˛2005
 : .oS.     N     _LENN Jonas                  Prime time ˛2004
 !--- 38 : Dossier "Terre, Fin de partie - la dÇrive climatique, un risque majeur" - Alain COUSTOU
 o EONAilA    39  2005.05 ..... ISBN 2-7544-0186-5
-!+ EONAilM    39  2005.05 ..... ISBN 2-7544-0188-1
 } noimg          _?                           ?
+!--- ISBN 2-7544-0188-1 en numÇrique Mobipocket
 - .oS.     R     _ERNSTING Walter             Le Jour oó moururent les dieux ˛1971 Der tag an dem die gîtter starben ˛Trad. OSTERRATH Jacqueline H.
 : .oS.     N     _DARLTON Clark               La Fin du monde ˛1966 Weltuntergang ˛Trad. BLARY Jean-Luc
 o EONAil     39  2005.05 ..... ISBN 2-7544-0189-X
@@ -337,23 +328,23 @@ o EONAil     39  2005.05 ..... ISBN 2-7544-0189-X
 - .oS.     R     _ERNSTING Walter             Le Jour oó moururent les dieux ˛1971 Der tag an dem die gîtter starben ˛Trad. OSTERRATH Jacqueline H.
 : .oS.     N     _DARLTON Clark               La Fin du monde ˛1966 Weltuntergang ˛Trad. BLARY Jean-Luc
 o EONFutA    40  2005.06 ..... ISBN 2-7544-0174-1
-!+ EONFutM    40  2005.06 ..... ISBN 2-7544-0176-8
 } noimg          _?                           ?
+!--- ISBN 2-7544-0176-8 en numÇrique Mobipocket
 - .oS.     R     _PLANQUE Jean-Pierre         L'Esprit du jeu ˛2005
 : .oS.     N     _STABLEFORD Brian M.         Le Circuit de Dante ˛1998 The Tour ˛Trad. BLARY Jean-Luc
 o EONRetA    41  2005.06 ..... ISBN 2-7544-0177-6
-!+ EONRetM    41  2005.06 ..... ISBN 2-7544-0179-2
-!+ EONRetR    41  2005.06 ..... ISBN 2-7544-0178-4
 } noimg          _?                           ?
+!--- ISBN 2-7544-0179-2 en numÇrique Mobipocket
+!--- ISBN 2-7544-0178-4 en numÇrique MsReader
 - .o .     R     _VERNE Jules                 Les Cinq Cents millions de la BÇgum ˛1879
 o EONFutA    42  2005.06 ..... ISBN 2-7544-0025-7
-!+ EONFutM    42  2005.06 ..... ISBN 2-7544-0027-3
 } noimg          _?                           ?
+!--- ISBN 2-7544-0027-3 en numÇrique Mobipocket
 - .oS.     R     _LE BUSSY Alain              Pavlina des Nobyles [Yorg - 9] ˛2005
 : .oS.     N     _OSTERRATH Jacqueline        IlÇane ˛1968-2005
 o EONFutA    43  2005.07 ..... ISBN 2-7544-0131-8
-!+ EONFutM    43  2005.07 ..... ISBN 2-7544-0133-4
 } noimg          _?                           ?
+!--- ISBN 2-7544-0133-4 en numÇrique Mobipocket
 - .oS.     R     _CARSAC Francis              Ceux de nulle part ˛1954
 : .oS.     N     _CARSAC Francis              Le Baiser de la vie ˛1959
 o EONFut     43  2005.09 ..... ISBN 2-7544-0242-X
@@ -361,11 +352,11 @@ o EONFut     43  2005.09 ..... ISBN 2-7544-0242-X
 - .oS.     R     _CARSAC Francis              Ceux de nulle part ˛1954
 : .oS.     N     _CARSAC Francis              Le Baiser de la vie ˛1959
 o EONFutA    44  2005.07 ..... ISBN 2-7544-0180-6
-!+ EONFutM    44  2005.07 ..... ISBN 2-7544-0182-2
+!--- ISBN 2-7544-0182-2 en numÇrique Mobipocket
+!--- TBD : + 5 Çcrits humoristiques (ou "un bon mÇtier" est un groupe de 5 Çcrits humoristiques ?!)
 } noimg          _?                           ?
 - .oS.     R     _GEVART Pierre               Serlyne ˛2005
 : .oSH     N     _LE BUSSY Alain              Un bon mÇtier ˛2005
-!--- 5 Çcits humoristiques
 o EONFutA    45  2005.07 ..... ISBN 2-7544-0215-2
 } noimg          _?                           ?
 - .oS.     R     _LE BUSSY Alain              Dilterre [Aqualia - 1] ˛2005
@@ -375,8 +366,8 @@ o EONFut     45  2005.09 ..... ISBN 2-7544-0241-1
 } noimg          _?                           ?
 - .oS.     R     _LE BUSSY Alain              Dilterre [Aqualia - 1] ˛2005
 o EONAilA    46  2005.09 ..... ISBN 2-7544-0237-3
-!+ EONAilM    46  2005.xx ..... ISBN 2-7544-0238-1
 } noimg          _?                           ?
+!--- ISBN 2-7544-0238-1 en numÇrique Mobipocket
 - .oY.     R     _NEVIL Alexis P.             Les Deux Spadassins d'Uemura [Les Derniers Ascendants - 2] ˛2005
 : .oS.     N     _OSTERRATH Jacqueline        Carpe noctem ˛1966-2005
 o EONAil     46  2005.10 ..... ISBN 2-7544-0245-4
@@ -384,8 +375,8 @@ o EONAil     46  2005.10 ..... ISBN 2-7544-0245-4
 - .oY.     R     _NEVIL Alexis P.             Les Deux Spadassins d'Uemura [Les Derniers Ascendants - 2] ˛2005
 : .oS.     N     _OSTERRATH Jacqueline        Carpe noctem ˛1966-2005
 o EONFutA    47  2005.09 ..... ISBN 2-7544-0193-8
-!+ EONFutM    47  2005.09 ..... ISBN 2-7544-0194-6
 } noimg          _?                           ?
+!--- ISBN 2-7544-0194-6 en numÇrique Mobipocket
 - .oS.     R     _OSTERRATH Jacqueline        Karthago ˛1973-2005
 : .oS.     N     _DARLTON Clark               GraciÇ ˛1965 Begnadigt ˛Trad. OSTERRATH Jacqueline
 o EONFut     47  2005.10 ..... ISBN 2-7544-0243-8
@@ -393,13 +384,13 @@ o EONFut     47  2005.10 ..... ISBN 2-7544-0243-8
 - .oS.     R     _OSTERRATH Jacqueline        Karthago ˛1973-2005
 : .oS.     N     _DARLTON Clark               GraciÇ ˛1965 Begnadigt ˛Trad. OSTERRATH Jacqueline
 o EONFutA    48  2005.10 ..... ISBN 2-7544-0028-1
-!+ EONFutA    48  2005.10 ..... ISBN 2-7544-0030-3
+!--- ISBN 2-7544-0030-3 en numÇrique Çgalement
 } noimg          _?                           ?
 - .oS.     R     _LE BUSSY Alain              Dottac de la Garde [Yorg - 10] ˛2005
 : .o .     N     _HENTSCH-RANVILLE Patricia   En bonne compagnie ˛2005
 o EONAilA    50  2005.11 ..... ISBN 2-7544-0197-0
 } noimg          _?                           ?
-!+ EONAilM    50  2005.11 ..... ISBN 2-7544-0198-9
+!--- ISBN 2-7544-0198-9 en numÇrique Mobipocket
 - .oS.     RN1   ****                         La Machine venue d'ailleurs ˛2005
 : .oS.     R     _BESSIERE Richard            La Machine venue d'ailleurs [La Machine - 1] ˛1969
 : .oS.     N     _WHALE Laurent               La Lettre au Päre Noâl ˛2004
@@ -409,36 +400,37 @@ o EONAil     50  2008.03 ..... ISBN 978-2-7544-0250-7
 : .oS.     R     _BESSIERE Richard            La Machine venue d'ailleurs [La Machine - 1] ˛1969
 : .oS.     N     _WHALE Laurent               La Lettre au Päre Noâl ˛2004
 o EONFutA    51  2005.12 ..... ISBN 2-7544-0217-9
-!+ EONFutM    51  2005.12 ..... ISBN 2-7544-0218-7
 } noimg          _?                           ?
+!--- ISBN 2-7544-0218-7 en numÇrique Mobipocket
 - .oS.     R     _LE BUSSY Alain              Cercacier [Aqualia - 2] ˛2005
 : .oS.     N     _SISCO Sylvestre             Une frontiäre sur l'infini ˛2005
 o EONFutA    52  2005.12 ..... ISBN 2-7544-0239-X
-!+ EONFutM    52  2005.12 ..... ISBN 2-7544-0240-3
 } noimg          _?                           ?
+!--- ISBN 2-7544-0240-3 en numÇrique Mobipocket
 - .oS.     R     _GEVART Pierre               Celui qui attendait [Khopnà - 2] ˛2005
 : .o .     N     _CHENU Lucie                 Un si long trajet ˛2005
 o EONFutA    53  2006.01 ..... ISBN 2-7544-0134-2
-!+ EONFutM    53  2006.01 ..... ISBN 2-7544-0236-5
 } noimg          _?                           ?
+!--- ISBN 2-7544-0236-5 en numÇrique Mobipocket
 - .oS.     R     _CARSAC Francis              Ce monde est nìtre ˛1962
 : .oS.     N     _CARSAC Francis              Une fenàtre sur le passÇ ˛1961
 : .oS.     N     _CARSAC Francis              L'Ancàtre ˛1962
 o EONSerA    54  2005.12 ..... ISBN 2-7544-0261-6
-!+ EONSerM    54  2005.12 ..... ISBN 2-7544-0271-6
 } noimg          _?                           ?
+!--- ISBN 2-7544-0271-6 en numÇrique Mobipovket
 - .oS.     R     _SCHEER K.H.                 PÇril psychique [D.A.S. - 1] ˛1957 Zur besonderen verwendung ˛Trad. PIESEN Fernand
 o EONSer     54  2005.12 ..... ISBN 2-7544-0281-0
 } noimg          _?                           ?
 - .oS.     R     _SCHEER K.H.                 PÇril psychique [D.A.S. - 1] ˛1957 Zur besonderen verwendung ˛Trad. PIESEN Fernand
-o EONSerM    55  2007.xx ..... ISBN 978-2-7544-0302-3
+o EONSer     55  2007.xx ..... ISBN 978-2-7544-0302-3
 } noimg          _?                           ?
+!--- numÇrique Mobipocket seulement
+!--- TBC : roman avec Blary pour cette version ? :
 - .oS.     R     _CABARET AndrÇ               Concerto pour un roi dÇment ˛2004
-!--- TBC Avec Blary pour cette version ? :
 : .oS.     N     _OSTERRATH Jacqueline        Un homme sans importance ˛1964
 o EONRetA    56  2007.xx ..... ISBN 978-2-7544-0310-8
-!+ EONRetM    56  2007.xx ..... ISBN 978-2-7544-0312-2
 } noimg          _?                           ?
+!--- ISBN 978-2-7544-0312-2 en numÇrique Mobipocket
 - .oS.     R     _VERNE Jules                 Vingt mille lieues sous les mers ˛1870
 o EONFut     58  2007.xx ..... ISBN 978-2-7544-0291-0
 } noimg          _?                           ?
@@ -483,14 +475,14 @@ o EON_fy     70  2007.xx ..... ISBN 978-2-7544-0321-4
 o EONFut     71  2007.xx ..... ISBN 978-2-7544-0352-8
 } noimg          _?                           ?
 - .oS.     R     _BLANCO Francisco            Khoba ˛2007
-: .oS.     N     _GEVART Pierre               Evolution ˛?
+: .oS.     N     _GEVART Pierre               Evolution ˛2007
 : .oS.     N     _CARSAC Francis              Taches de rouille ˛1954
 o EONAilA    73  2006.09 ..... ISBN 978-2-7544-0305-4
 } noimg          _?                           ?
 - .oS.     R     _WHALE Laurent               Les Pierres du ràve ˛2006
 o EONAil     73  2007.xx ..... ISBN 978-2-7544-0354-2
 } noimg          _?                           ?
-- .oS.     R     _WHALE Laurent               Les Pierres du ràve ˛2007
+- .oS.     R     _WHALE Laurent               Les Pierres du ràve ˛2006
 : .oS.     N     _MILESI Raymond              Cinquante - cinquante ˛1984
 : .oS.     N     _LE BUSSY Alain              Le Grand Chapardement ˛2007
 o EONFut     74  2006.12 ..... ISBN 978-2-7544-0353-5
@@ -503,6 +495,7 @@ o EONSer     75  2007.xx ..... ISBN 978-2-7544-0284-2
 - .oS.     R     _SCHEER K.H.                 OpÇration PÇgase [D.A.S. - 4] ˛1957 Unternehmen Pegasus ˛Trad. PIESEN Ferdinand & BLARY Jean-Luc
 o EON_fy     76  2006.11 ..... ISBN 978-2-7544-0322-1
 } eons76         _?                           N
+!--- TBC : Ou Çmeraude au singulier ? (Cf. Antares)
 - .oY.    _A7    *COLLOT Emmanuel             Les Enfants de Conan [Robert E. Howard - 3] ˛2006
 : .oY.     p     _COLLOT Emmanuel             Les Continuateurs ˛2006
 : .oY.     N     _GEOFF                       Lochlain des Uled ˛2006
@@ -512,7 +505,6 @@ o EON_fy     76  2006.11 ..... ISBN 978-2-7544-0322-1
 : .oY.     N     _HOCFELL Greg                Le Tigre et le lion ˛2006
 : .oY.     N     _DARCO Elie                  L'InnomÇe ˛2006
 : .o .     N     _CIDONCHA Carlos Saiz        Le Sceptre d'Çmeraudes ˛1980 El cetro de esmeraldas ˛Trad. BLOND Martine
-!--- TBC : Ou Çmeraude au singulier ? (Cf. Antares)
 o EON_fy     78  2007.xx ..... ISBN 978-2-7544-0328-3
 } noimg          _?                           ?
 - .oY.     R     _DE RIENZI Raymond           Les Formiciens ˛1932
@@ -522,21 +514,21 @@ o EONSer     80  2007.xx ..... ISBN 978-2-7544-0285-9
 } noimg          _?                           ?
 - .oS.     R     _SCHEER K.H.                 C.C. 5 Top secret [D.A.S. - 5] ˛1957 C.C.5 : streng Geheim ˛Trad. BLARY Jean-Luc
 o EONFutA    81  2007.xx ..... ISBN 978-2-7544-0101-2
-!+ EONFutM    81  2007.xx ..... ISBN 978-2-7544-0120-3
 } eons81         _?                           N
+!--- ISBN 978-2-7544-0120-3 en numÇrique Mobipocket
 - .oS.    _N9    _GEVART Pierre               Premier contact, hÇlas ! ˛2007
 : .oS.     N     _GEVART Pierre               Cent-dix huit heures avant la fin ˛2007
 : .oS.     N     _GEVART Pierre               Premier contact, hÇlas ! ˛2006
 : .oS.     N     _GEVART Pierre               Corps diplomatique ˛2007
 : .oS.     N     _GEVART Pierre               Patrimoine naturel ˛2006
 : .oS.     N     _GEVART Pierre               AccÇlÇrÇ ˛2007
-: .oS.     N     _GEVART Pierre               Le Prix de l'or ˛2007
+: .oS.     N     _GEVART Pierre               Le Prix de l'or ˛1983
 : .oS.     N     _GEVART Pierre               RelÇgation relative ˛1983
 : .oS.     N     _GEVART Pierre               Merde, ils ont bougÇ ! ˛2006
 : .oS.     N     _GEVART Pierre               La Promenade ˛1983
 o EONFut     82  2007.xx ..... ISBN 978-2-7544-0141-8
-!+ EONFutA    82  2007.xx ..... ISBN 978-2-7544-0132-6
-!+ EONFutM    82  2007.xx ..... ISBN 978-2-7544-0135-7
+!--- ISBN 978-2-7544-0132-6 en numÇrique Adobe
+!--- ISBN 978-2-7544-0135-7 en numÇrique Mobipocket
 } eons82         _?                           N
 - .oS.    _N14   _GEVART Pierre               118 h avant la fin ˛2007
 : .oS.     N     _GEVART Pierre               Souriez, vous àtes filmÇs ˛2001
@@ -549,7 +541,7 @@ o EONFut     82  2007.xx ..... ISBN 978-2-7544-0141-8
 : .oS.     N     _GEVART Pierre               Corps diplomatique ˛2007
 : .oS.     N     _GEVART Pierre               Patrimoine naturel ˛2006
 : .oS.     N     _GEVART Pierre               AccÇlÇrÇ ˛2007
-: .oS.     N     _GEVART Pierre               Le Prix de l'or ˛2007
+: .oS.     N     _GEVART Pierre               Le Prix de l'or ˛1983
 : .oS.     N     _GEVART Pierre               RelÇgation relative ˛1983
 : .oS.     N     _GEVART Pierre               Merde, ils ont bougÇ ! ˛2006
 : .oS.     N     _GEVART Pierre               La Promenade ˛1983
@@ -565,12 +557,12 @@ o EONSer     85  2008.06 ..... ISBN 978-2-7544-0451-8
 - .oS.     R     _VOLTZ William               Assaut sur Atlantis [Dragor - 1] ˛1973 Griff nach Atlantis ˛Trad. BLARY Jean-Luc
 o EONSer     86  2008.xx ..... ISBN 978-2-7544-0401-3
 !+ EONSerA    86  2008.xx ..... ISBN 978-2-7544-0411-2
-!+ EONSerM    86  2008.xx ..... ISBN 978-2-7544-0421-1
+!--- 978-2-7544-0421-1 en numÇrique Mobipovket
 } noimg          _?                           ?
 - .oS.     R     _SCHEER K.H.                 Ballet temporel [D.A.S. - 41] ˛1975 Generalprobe Zeitballett ˛Trad. BLARY Jean-Luc
 o EON_fy     89  2007.xx ..... ISBN 978-2-7544-0394-8
 !+ EON_fyA    89  2007.xx ..... ISBN 978-2-7544-0392-4
-!+ EON_fyM    89  2007.xx ..... ISBN 978-2-7544-0393-1
+!--- ISBN 978-2-7544-0393-1 en numÇrique Mobipocket
 } noimg          _?                           ?
 - .oY.    _C5    _WALTHER Daniel              Nocturne sur fond d'ÇpÇes ˛1984-2007
 : .oY.     N     _WALTHER Daniel              Nocturne sur fond d'ÇpÇes ˛1972
@@ -579,20 +571,20 @@ o EON_fy     89  2007.xx ..... ISBN 978-2-7544-0394-8
 : .oY.     N     _WALTHER Daniel              Le Navire du dieu d'argent ˛1984
 : .oY.     N     _WALTHER Daniel              Incertaine oasis ˛2007
 o EONSer     90  2009.03 ..... ISBN 978-2-7544-0286-6
-!+ EONSerA    90  2009.02 ..... ISBN 978-2-7544-0266-8
-!+ EONSerM    90  2009.02 ..... ISBN 978-2-7544-0276-7
 } noimg          _?                           ?
+!--- ISBN 978-2-7544-0266-8 en numÇrique Adobe
+!--- ISBN 978-2-7544-0276-7 en numÇrique Mobipovket
 - .oS.     R     _SCHEER K.H.                 L'Enfer sous la glace [D.A.S. - 6] ˛1958-1973 Hîlle unter Null Grad ˛Trad. BLARY Jean-Luc
 o EONFut     91  2008.01 ..... ISBN 978-2-7544-0391-7
-!+ EONFutA    91  2008.xx ..... ISBN 978-2-7544-0221-7
-!+ EONFutM    91  2008.xx ..... ISBN 978-2-7544-0222-4
 } noimg          _?                           ?
+!--- ISBN 978-2-7544-0221-7 en numÇrique Adobe
+!--- ISBN 978-2-7544-0222-4 en numÇrique Mobipocket
 - .oS.     R     _LE BUSSY Alain              Chercheau [Aqualia - 4] ˛2008
 : .oS.     N     _OSTERRATH Jacqueline        Algues ˛1961
 o EONAil     93  2008.xx ..... ISBN 978-2-7544-0251-4
-!+ EONAilA    93  2008.02 ..... ISBN 978-2-7544-0199-9
-!+ EONAilM    93  2008.xx ..... ISBN 978-2-7544-0200-2
 } noimg          _?                           ?
+!--- ISBN 978-2-7544-0199-9 en numÇrique Adobe
+!--- ISBN 978-2-7544-0200-2 en numÇrique Mobipocket
 - .oS.     R     _BESSIERE Richard            Variations sur une machine [La Machine - 2] ˛1971
 : .oS.     N     _GUILLET Jean-Pierre (Fr)    Le Refroidissement de la planäte ˛2008
 ?o EONSer     94  2008.xx ..... ISBN 978-2-7544-0382-5
@@ -602,25 +594,19 @@ o EONAil     93  2008.xx ..... ISBN 978-2-7544-0251-4
 ?- .oY.     R     _ZYBELL Jo                   La CitÇ des dammÇs [Maddrax - 2] ˛2000 Stadt der Verdammten ˛Trad. ?
 ?o EONFut     97  2008.xx ..... ISBN 978-2-7544-0032-9
 ?! EONFutA    97  2008.xx ..... ISBN 978-2-7544-0034-3
-?! EONFutM    97  2008.xx ..... ISBN 978-2-7544-0...-.
 ?} noimg          _?                           ?
 ?- .oS.     R     _LE BUSSY Alain              Lhersed de l'or rare [Yorg - 12] ˛2008
-?o EONFut     98  2008.xx ..... ISBN 978-2-7544-0032-9
-?! EONFutA    98  2008.xx ..... ISBN 978-2-7544-0034-3
-?! EONFutM    98  2008.xx ..... ISBN 978-2-7544-0...-.
-?} noimg          _?                           ?
-?- .oS.     R     _???                         OpÇration aurore ˛?
 o EONAil    100  2009.03 ..... ISBN 978-2-7544-0349-8
-!+ EONAilA   100  2009.02 ..... ISBN 978-2-7544-0338-2
-!+ EONAilM   100  2009.02 ..... ISBN 978-2-7544-0339-9
 } noimg          _?                           ?
+!--- ISBN 978-2-7544-0338-2 en numÇrique Adobe
+!--- ISBN 978-2-7544-0339-9 en numÇrique Mobipocket
 - .oS.     R     _GUILLET Jean-Pierre (Fr)    Les Voyageurs du hasard ˛2009
 : .oS.     N     _ANDREVON Jean-Pierre        RÇgression ˛1972
 : .oS.     N     _DARLTON Clark               Juste une photo ˛1966 Nur ein Foto ˛Trad. BLARY Jean-Luc
 o EONAil    102  2008.09 ..... ISBN 978-2-7544-0484-6
-!+ EONAilA   102  2008.xx ..... ISBN 978-2-7544-0482-2
-!+ EONAilM   102  2008.xx ..... ISBN 978-2-7544-0648-2
 } noimg          _?                           ?
+!--- ISBN 978-2-7544-0482-2 en numÇrique Adobe
+!--- ISBN 978-2-7544-0648-2 en numÇrique Mobipocket
 - .oS.     R     _ANDREVON Jean-Pierre        Tout Ö la main ˛1988
 o EON_fyA   104  2009.09 ..... ISBN 978-2-7544-0659-8
 } noimg          _Patrice Sanahujas           ?
@@ -630,8 +616,6 @@ o EON_fyA   104  2009.09 ..... ISBN 978-2-7544-0659-8
 : .o .     R     _PARIS Alain                 Sassar [PangÇe - 3] ˛1989
 : .o .     N     _BLARY Jean-Luc              Kheptath ˛2009
 ?o EONSer    106  2009.xx ..... ISBN 978-2-7544-0421-1
-!+ EONSerA   106  2009.xx ..... ISBN 978-2-7544-0412-9
-!+ EONSerM   106  2009.xx ..... ISBN 978-2-7544-0422-8
 ?} noimg          _?                           ?
 ?- .oS.     R     _SCHEER K.H.                 Extinction totale [D.A.S. - 42] ˛1976 Periode Totalausfall ˛Trad. BLARY Jean-Luc
 
